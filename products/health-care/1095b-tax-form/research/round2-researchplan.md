@@ -58,21 +58,23 @@ Prototype in Progress
 
 **Participant Must Haves (Primary Criteria):**
 
-- 10 participants scheduled (minimum 6 completed session)
-  - 6-8 Participants who currently utilize VA healthcare as their primary insurance
-  - 2-4 Participants who use primarily access healthcare outside the VA system
+- 12 participants scheduled (minimum 6 completed session)
+  - 6 Participants with a no degree or a high school degree as their highest degree obtained
+  - 2 Participants with a cognitive disability
+  - 2+ Participants Age 55 or older
 - Participants must have access to Zoom on a desktop computer
 - We will not be able to accommodate non-sighted users due to the prototype technology.
 
 **Secondary Criteria:**
 
-- Mix of users who file their taxes themselves (manually or software such as turbo tax), and those who use the services of a tax preparer or accountant.
+- Preference for Black, Latinx, Biracial, Asian or Native Participants
+- Preference for LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) or non-binary participants
 
 ## Timeline
 
 **Pilot Session**
 
-Thursday, February 10
+Tuesday, March 1
 
 Participant Tamera Corson, tamera.corson@serveadvisory.com
 
@@ -80,13 +82,13 @@ Participant Tamera Corson, tamera.corson@serveadvisory.com
 
 Recruit for 12 participants, for a minimum of 6 completed sessions
 
-45 minutes scheduled with 15 minute buffer after session is scheduled to end
+30 minutes scheduled with 15 minute buffer after session is scheduled to end
 
-Friday, February 11 – Wednesday, February 16
+Wednesday, March 2 – Friday, March 4
 
 10am – 6pm EST availability
 
-4 sessions per day maximum
+5 sessions per day maximum
 
 ### Team Roles
 
