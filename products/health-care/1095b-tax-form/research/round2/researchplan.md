@@ -34,7 +34,7 @@ Moment: Engaging VA to access benefits and services
 
 - Are Veterans familiar with the 1095b form, why they might need it and what is their experience of receiving it in the past?
 - Do Veterans prefer a physical or digital copy of the form? Why might a Veteran opt out of future physical delivery of a form?
-- What are the strategies and touchpoints a Veteran might use for locating the form online?
+- What are Veterans understanding of requirements for using the 1095-B document with their taxes?
 
 ### Hypothesis and Assumptions
 
