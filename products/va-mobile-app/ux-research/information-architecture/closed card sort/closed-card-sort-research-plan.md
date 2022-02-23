@@ -193,7 +193,7 @@ We estimate it will take participants 15 minutes or less to complete the card so
 #### OptimalWorkshop.com Test
 
 * **Welcome**
-    * Welcome to this OptimalSort study, and thank you for agreeing to participate!
+    *Welcome to this online activity, and thank you for agreeing to participate!
     * The activity shouldn't take longer than 10 to 15 minutes to complete.
     * Your response will help us to organize the content in the VA mobile app. Find out how on the next page
    
@@ -215,7 +215,9 @@ We estimate it will take participants 15 minutes or less to complete the card so
     * You’re all done!  Thanks again for your participation. Your feedback is incredibly useful in helping to determine how our content should be organized, so we can make the VA mobile app easier to use.
 
 * **Questionnaire**
-    * Were there any categories that you didn’t understand? (Checkbox Options: Health, Benefits, Payments, Account, General VA Info)
+    * Were there any categories that you didn’t understand? Yes/No
+        * If Yes:Checkbox Options: Health, Benefits, Payments, Account, General VA Info, None
+        * If no
     * Were there any cards where you felt uncertain about what category to place them in? 
     * Have you used the VA mobile app?
     * You may now  close this window. 
