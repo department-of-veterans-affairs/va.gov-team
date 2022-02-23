@@ -89,7 +89,7 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 - Matt Self | matt.self2@va.gov -- Product owner
 
 ### Resources
-- [zzz]()
+- [eBenefits Github directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)
 - [Zenhub board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125,66304117)
 
 <!--
