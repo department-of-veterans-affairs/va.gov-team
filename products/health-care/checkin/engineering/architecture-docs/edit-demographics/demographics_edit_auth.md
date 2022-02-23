@@ -35,7 +35,7 @@
 ### FE Solutions
 ### BE Solutions
 ## Testing
-## Meeting notes
+## Meeting notes - Next steps
 - 02/23/2022 Engineering Sync
   - Brian to take a stab at Problem Statement
   - Interface with product and or UX regarding business flow -> Bring it up in standup parking lot.
