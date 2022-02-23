@@ -35,3 +35,10 @@
 ### FE Solutions
 ### BE Solutions
 ## Testing
+## Meeting notes
+- 02/23/2022 Engineering Sync
+ - Brian to take a stab at Problem Statement
+ - Interface with product and or UX regarding business flow -> Bring it up in standup parking lot.
+ - Dillo/Kanchana to look at login sessions on the backend related to minimal and full blown auth
+ - Brian to fill out FE questions
+ - Kanchana/Gaurav/Dillo to fill out BE questions
