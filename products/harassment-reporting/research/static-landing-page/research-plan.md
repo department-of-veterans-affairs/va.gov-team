@@ -95,15 +95,13 @@ Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessi
     3. Decline to Answer 
 
 ## Timeline
-#### Desired Timeline: February XX, 2022 
+#### Desired Timeline: March 14-18, 2022 
 **60-minute** sessions with at least **60-minute breaks** in between 
 
 Team Availability | Time (ET)
 ------------------|--------------
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 14, 2022 | Noon - 3 pm, 4 - 8 pm
+
 
 Pilot Sessions | Time (ET)
 ---------------|----------
