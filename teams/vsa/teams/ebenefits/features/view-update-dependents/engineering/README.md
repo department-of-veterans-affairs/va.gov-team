@@ -13,7 +13,7 @@ Since the Veteran may be making any one of various changes to dependents, there 
 - `Remove a child 18 to 23 years old who has stopped attending school`
 - `Add a child 18 to 23 years old</strong> who'll be attending school` (VA Form 21-674)
 
-> You will notice that the last workflow is technically speaking a totally separate form (the form 21-674). The stakeholders wanted this form added as a workflow to this form since it deals with making changes to a dependent. That workflow actually submits to a separate data source but that is detailed below.
+> You will notice that the last workflow is technically speaking a totally separate form (the form 21-674). The stakeholders wanted this form added as a workflow to this form since it deals with making changes to a dependent. That workflow actually submits to a separate data source.
 
 ### Choosing workflows
 
