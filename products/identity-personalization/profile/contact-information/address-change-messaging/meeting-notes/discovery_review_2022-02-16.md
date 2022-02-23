@@ -35,8 +35,8 @@
 ## Tickets to create
 - ADD TO THIS PROJECT 
   - Hint text to help users distinguish between home & mailing address
-    - Design task
-    - Content task
+    - Design task  [#33772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33772)
+    - Content task  
     - FE task
 
 - Backlog
