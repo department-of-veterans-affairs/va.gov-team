@@ -45,3 +45,4 @@
 - 02/23/2022 Sprint Planning Breakout Session
   - Bring up VA Profile service integration with CHIP during team-of-teams meeting tomorrow(02/24/2022)
   - Status of VA Profile(API) sandbox environment for the Check-In team(02/24/2022)
+  - Discuss with Stephen Barrs and Shane Eliot
