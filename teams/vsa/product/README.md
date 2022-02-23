@@ -78,7 +78,7 @@ Examples
 ### VSP Collaboration Cycle
 
 - [The VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)
-- [Collab Cycle Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=collab-cycle-initiative.md&title=%3CInitiative%3E+x+Collab+Cycle+Plan)
+- [Collab Cycle Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=vsa&template=collab-cycle-initiative.md&title=Collaboration+Cycle+Checklist+for+%3CTeam%3E)
 
 ### MVPs
 
