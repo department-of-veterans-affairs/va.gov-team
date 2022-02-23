@@ -11,17 +11,20 @@ The purpose of this document is to provide a clearinghouse for research and desi
 
 | Feature | AKA | Status |
 | :--- | :--- | :--- |
-| Rated Disabilities | --- | In production |
+| View Rated Disabilities | Rated disabilities | In production |
 | View Dependents | --- | In production |
 | View Payments | Payment History | In production |
 | VA Form 21-686c/674 | Add/remove dependents | In production |
 | VA Form 28-8832 | Chapter 36/PCPG | In production |
 | VA Form 28-1900 | Chapter 31, CH31, VR&E | In production |
+| Change Direct Deposit (Education) | DD-EDU | In production |
 | VA form 21-0538 | Dependency Verification | In development |
 | VA Form 26-1880 | Certificate of Eligibility, COE, LGY | In development |
 | View Representative | View Rep, POA | In design/development |
 | VA Form 21-22/a | Find/Appoint Representative, POA | In design/development |
-| Change Direct Deposit (Education) | DD-EDU | In production |
+| A Form 26-4555 | Special Adaptive Housing Grant, SAHG | In design |
+| My Documents | Document hub concept | In discovery |
+| Stakeholder Enterprise Portal | SEP | In discovery |
 
 ## Disciplines
 
