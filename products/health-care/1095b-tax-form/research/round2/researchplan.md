@@ -81,9 +81,9 @@ Recruit for 12 participants, for a minimum of 6 completed sessions
 
 30 minutes scheduled with 15 minute buffer after session is scheduled to end
 
-Wednesday, March 2 10am - 4pm 10am – 6pm EST availability
-Thursday, March 3 10am – 6pm EST availability
-Friday, March 4 10am – 6pm EST availability
+- Wednesday, March 2 10am - 4pm 10am – 3:30pm EST availability
+- Thursday, March 3 10am – 6pm EST availability
+- Friday, March 4 10am – 6pm EST availability
 
 
 5 sessions per day maximum
