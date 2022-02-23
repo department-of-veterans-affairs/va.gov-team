@@ -12,4 +12,4 @@ Comparative analysis will include (but not be limited to) app examples that shar
 
 Summary of Findings
 
-[Mural Board](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1645116475554?sender=u28718b63c8993f515e0b2240&key=29a349f6-f7d2-4805-bf57-6a0416a27a34) 
+[Mural Board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1645116475554/b9c0cc05f453a16c5a4a2f444fbbdd544693d892?sender=u28718b63c8993f515e0b2240) 
