@@ -11,11 +11,11 @@ The purpose of this document is to provide a clearinghouse for research and desi
 
 | Feature (Github link) | AKA | Status (Feature link) |
 | :--- | :--- | :--- |
-| [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | In production |
-| [View Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | --- | In production |
-| [View Payments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history) | Payment History | In production |
-| [VA Form 21-686c/674](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | Add/remove dependents | In production |
-| [VA Form 28-8832](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling) | Chapter 36/PCPG | In production |
+| [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | [In production](https://www.va.gov/disability/view-disability-rating/) |
+| View Dependents | --- | [In production](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) |
+| [View Payments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history) | Payment History | [In production](https://www.va.gov/va-payment-history/) |
+| [VA Form 21-686c/674](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | Add/remove dependents | [In production](https://www.va.gov/view-change-dependents/) |
+| [VA Form 28-8832](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling) | Chapter 36/PCPG | [In production]() |
 | [VA Form 28-1900](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31) | Chapter 31, CH31, VR&E | In production |
 | [Change Direct Deposit (Education)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit) | DD-EDU | In production |
 | [VA form 21-0538](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification) | Dependency Verification | In development |
