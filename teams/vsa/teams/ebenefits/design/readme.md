@@ -1,33 +1,40 @@
-# eBenefits Migration Design
+# eBenefits design
+**VSA eBenefits Team | February 2022**
 
-## Features
+---
+
+The purpose of this document is to provide a clearinghouse for research and design resources used across all eBenefits Migration features.
+
+---
+
+## eBenefits Migration features
 
 | Feature | AKA | Status |
 | :--- | :--- | :--- |
-| Rated Disabilities | | First iteration in production |
-| View Dependents | | First iteration in production |
-| View Payments | Payment History | First iteration in production |
-| VA Form 21-686c/674 | Add/remove dependents | In development |
-| VA Form 28-8832 | Chapter 36/PCPG | First iteration in production |
-| VA Form 28-1900 | Chapter 31, CH31, VR&E | First iteration in production |
+| Rated Disabilities | --- | In production |
+| View Dependents | --- | In production |
+| View Payments | Payment History | In production |
+| VA Form 21-686c/674 | Add/remove dependents | In production |
+| VA Form 28-8832 | Chapter 36/PCPG | In production |
+| VA Form 28-1900 | Chapter 31, CH31, VR&E | In production |
 | VA form 21-0538 | Dependency Verification | In development |
-| VA Form 26-1880 | Certificate of Eligibility, COE, LGY | Developmrnt started |
-| VA Form 21-22/a | Appoint Representative, POA | In design |
-| Search for Representative | | In design |
-| View Representative | | In design |
+| VA Form 26-1880 | Certificate of Eligibility, COE, LGY | In development |
+| View Representative | View Rep, POA | In design/development |
+| VA Form 21-22/a | Find/Appoint Representative, POA | In design/development |
 | Change Direct Deposit (Education) | DD-EDU | In production |
 
 ## Disciplines
 
-### Research
+### Research resources
 
-### Design
+### Design resources
 - [VA.gov Design System](https://design.va.gov/)
 - [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
-- [VA Design Library Sketch file]()
+- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
 - [USDS Design System](https://designsystem.digital.gov/)
+- [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
 
-### Content
+### Content resources
 - [Content writing](https://design.va.gov/content-style-guide/)
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
@@ -35,47 +42,14 @@
 
 ## Process
 
+### HCD process
+The document below was used for the first 24 moths of VSA. Much of this process and the corresponding resources have been superceded by the VA collaboration cycle.
+
+- [eBenefits design strategy for feature migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/design/strategy)
+- [Visual QA / design review readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
+
 ### Collaboration cycle
-
-## Team
-
-### Team members
-
-- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
-- Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
-- Micah Chiang | micah@adhocteam.us -- Frontend engineer
-- Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
-- Candy Clark | cclark@governmentcio.com -- Designer
-- James Adams | jadams@governmentcio.com -- Designer
-- Matt Self | matt.self2@va.gov -- Product owner
-- Sabrina Mohamed | sabrina.mohamed@va.gov -- Product co-owner
-
-### Resources
-- [Zenhub board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125,66304117)
-
-### Tools
-- Sketch
-- UXPin
-- Adobe XD
-- Google Stream
-- Github Desktop
-- VSCode
-
-<!--
-### Content Guidance Links
-
-
-### Style Guidance Links
-- [VA.gov Design System](https://design.va.gov/)
-- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
-- [VA Design Library Sketch file]()
-- [USDS Design System](https://designsystem.digital.gov/)
-
-### Review Processes Links
-- [UX/UI Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
-- [VSA Product Approach (Google Doc)](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
-- [Review Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
--->
+- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
 
 ### Feature Migration Approach
 
@@ -92,3 +66,43 @@
 11. Second usability testing round
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
+
+### Design tools
+- Sketch for Teams
+- UXPin
+- Adobe XD
+- Mural
+- Github markdown
+- VSCode
+
+## Team
+
+### Team members
+
+- Jason Wolf | jwolf@govcio.com -- eBenefits product manager
+- Kathleen Crawford | kcrawford@govcio.com -- Backend engineer
+- Amanda Leaders | amanda.leaders@govcio.com -- Backend engineer
+- Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
+- Jarek Shoemaker | jerek.shoemaker@adhocteam.us -- Frontend engineer
+- Candy Clark | cclark@govcio.com -- Designer
+- James Adams | jadams@govcio.com -- Designer
+- Matt Self | matt.self2@va.gov -- Product owner
+
+### Resources
+- [zzz]()
+- [Zenhub board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125,66304117)
+
+<!--
+### Content Guidance Links
+
+### Style Guidance Links
+- [VA.gov Design System](https://design.va.gov/)
+- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
+- [VA Design Library Sketch file]()
+- [USDS Design System](https://designsystem.digital.gov/)
+
+### Review Processes Links
+- [UX/UI Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
+- [VSA Product Approach (Google Doc)](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
+- [Review Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
+-->
