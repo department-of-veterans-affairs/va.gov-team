@@ -57,7 +57,13 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [ ] Your VA loan history: shorten text field for VA loan number
 - [ ] Doc uploader: check spacing above dropdown and above upload button
 - [ ] Doc upload: can uploaded file card show above dropdown?
-- [ ] 
+- [ ] Review page: confirm privacy checkbox is available
+- [ ] Review page: remove gender from prototype
+- [ ] Review page: confirm titles vs. no-title
+- [ ] Review page: Check military service drop-down value
+- [ ] Review screen: add title for service selection
+- [ ] Review screen: add title for loans sections
+- [ ] Review screen: check all chapter/sub-chapters for titles
 
 **HP!** indicates "high priority."
 
