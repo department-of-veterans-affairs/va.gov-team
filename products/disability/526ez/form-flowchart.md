@@ -5,62 +5,72 @@ Mermaid flowchart of the flow of the 21-526EZ disability compensation form, base
 ```mermaid
 
 flowchart TD
-    subgraph Need to file 526EZ?
+  subgraph Need to file 526EZ?
     Start[File for disability compensation] --> needed-form(Is this the form I need?)
     needed-form[Is this the form I need?] --> | Yes | active-duty[Are you on active duty right now?]
     active-duty --> |Yes| active-duty-yes
     active-duty --> |No| new-claim
-    new-claim[New claim or disagreeing with a VA decision?] --> |New Claim| H
+    new-claim[New claim or disagreeing with a VA decision?] --> |New Claim| file-526
     new-claim[New claim or disagreeing with a VA decision?] --> |Existing Claim| existing-claim
     existing-claim[Update your disability claim] 
     active-duty-yes[Date of Discharge 90 - 180 days] --> |Not within 90 - 180 days| no-claim
     active-duty-yes[Date of Discharge] --> |Within 90 - 180 days| file-526
     no-claim[No claim]
-    end
-    subgraph File 526EZ
+  end
+  subgraph File 526EZ
     file-526[File a 526 disability claim online] --> File-526-start
     File-526-start[Start File 526 ] --> Vet-details
-    end
-    subgraph Add conditions
+  end
+  subgraph Add conditions
     Vet-details --> add-conditions
     add-conditions --> new-rated
     new-rated -->  new-condition
     new-rated -->  rated-condition-worse
     rated-condition-worse --> TODO
     new-condition --> condition-type
-    condition-type --> PTSD
-    end
-      direction LR
-    subgraph PTSD-info
-        PTSD --> |Yes| PTSD-event-type-combat
-        PTSD-event-type-combat --> |yes| already-filled-21-0781
-        PTSD-event-type-combat --> |No| file-combat-online
-    end
-    subgraph PTSD:combat
-        file-combat-online --> Medals-citations --> event-date --> assignment-details
-         --> event-location --> break-crisis? --> individuals-involved --> event-description
-         --> additional-events --> anything-else 
-    end
-    subgraph More-info
-        PTSD --> |No| More
-    end
-    subgraph POW
-        pow --> pow-info
-    end
-    subgraph Additional-benefits
-        Help-buying-modifying-home? --> Help-buying-modifying-car?
-        Help-buying-modifying-car? --> Granted-auto-allowance?
-        Granted-auto-allowance? --> Cofined-to-home?
-        Cofined-to-home?
-    end
-    subgraph Supporting-evidence
-        supporting-evidence --> supporting-evidence-info
-    end
-     Additional-benefits --> Supporting-evidence
-    PTSD-info --> POW
-    PTSD:combat --> POW
-    POW --> Additional-benefits
-    Supporting-evidence --> Contact-info
-    Contact-info --> Additional-info
-    Additional-info --> FDC-review-submit
+    condition-type --> condition-cause
+    condition-cause --> military-service
+    condition-cause --> before-military-got-worse
+    condition-cause --> while-receiving-va-care
+    military-service --> PTSD
+    before-military-got-worse --> PTSD
+    while-receiving-va-care --> PTSD
+  end
+  direction LR
+  subgraph PTSD-info
+    PTSD --> |Yes| PTSD-event-type-combat
+    PTSD-event-type-combat --> |yes| already-filled-21-0781
+    PTSD-event-type-combat --> |No| file-combat-online
+  end
+  subgraph PTSD:combat
+    file-combat-online --> Medals-citations --> event-date --> assignment-details
+    --> event-location --> break-crisis? --> individuals-involved --> event-description
+    --> additional-events --> anything-else 
+  end
+  subgraph More-info
+    PTSD --> |No| More
+  end
+  subgraph POW
+    pow --> pow-info
+  end
+  subgraph Additional-benefits
+    Help-buying-modifying-home? --> Help-buying-modifying-car?
+    Help-buying-modifying-car? --> Granted-auto-allowance?
+    Granted-auto-allowance? --> Cofined-to-home?
+    Cofined-to-home?
+  end
+  subgraph Supporting-evidence-step-3
+    supporting-evidence --> any-info
+    any-info--> | yes| supporting-evidence-info
+    supporting-evidence-info --> VA-medical-records
+    supporting-evidence-info --> private-medical-records
+    supporting-evidence-info --> supporting-tatements
+  end
+  Additional-benefits --> Supporting-evidence-step-3
+  PTSD-info --> POW
+  PTSD:combat --> POW
+  POW --> Additional-benefits
+  Supporting-evidence-step-3 --> Contact-info
+  Contact-info --> Additional-info
+  Additional-info --> FDC-review-submit
 ```
