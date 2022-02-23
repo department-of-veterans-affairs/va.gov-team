@@ -29,6 +29,7 @@ The purpose of this document is to provide a clearinghouse for research and desi
 ## Disciplines
 
 ### Research resources
+- [VA Plaform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
 ### Design resources
 - [VA.gov Design System](https://design.va.gov/)
@@ -42,6 +43,8 @@ The purpose of this document is to provide a clearinghouse for research and desi
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
+- [Internal 508 checklist]()
+- [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ## Process
 
