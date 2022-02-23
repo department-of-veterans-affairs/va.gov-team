@@ -42,3 +42,6 @@
   - Dillo/Kanchana to look at login sessions on the backend related to minimal and full blown auth
   - Brian to fill out FE questions
   - Kanchana/Gaurav/Dillo to fill out BE questions
+- 02/23/2022 Sprint Planning Breakout Session
+  - Bring up VA Profile service integration with CHIP during team-of-teams meeting tomorrow(02/24/2022)
+  - Status of VA Profile(API) sandbox environment for the Check-In team(02/24/2022)
