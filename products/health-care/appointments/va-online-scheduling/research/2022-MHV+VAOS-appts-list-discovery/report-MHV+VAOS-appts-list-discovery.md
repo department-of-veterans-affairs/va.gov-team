@@ -196,9 +196,9 @@ Participants also had positive reactions to the information layout, and the mini
 
 > First thing I see are the icons to connect by video, phone, office visit. I like the fact that the icons jump right out at you. That’s the first thing I notice. - P1
 
-> "This looks great, a grid like the MHV list" - P5
+> "This looks great, a grid like the MyHealtheVet list" - P5
 
-> "Dates are easy to scan, like on the 21st we have potentially four appts"
+> "Dates are easy to scan, like on the 21st we have potentially four appts" - P3
 
 ### Some participants found the word "Pending" confusing in the concept
 
@@ -226,18 +226,10 @@ Participants said they use their appointments list to:
 * 2/9: Check against their personal calendar to make sure they're not double-booked
 * 2/9: Use past appointments information to plan for annual appointments
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-## 3/9 wanted to see a link to their lab results in their past appointments
-
-
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+**Display clear modality information for all appointments in VAOS.**
 
-* Display clear modality information for all appointments in VAOS.
 
 * Run technical discovery around how better wayfinding data might be surfaced, especially
     * Type of care for all appointments
