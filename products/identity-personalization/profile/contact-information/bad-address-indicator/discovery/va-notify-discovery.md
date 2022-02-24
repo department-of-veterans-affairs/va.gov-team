@@ -20,7 +20,7 @@ This exercise is intended to learn about the VA Notify UI and requirements for c
 - Is there a template we can use?
   - Yes - There are [examples here](https://staging.notifications.va.gov/) and we can build our own.
   - I created a [draft template](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstaging.notifications.va.gov%2Fservice%2F5e5cded3-3c76-46a3-9eef-cb63589e76be%2Ftemplates%2F149f000b-3cde-4150-b6aa-ce47da8e124b&data=04%7C01%7Cmarci.mcguire%40govcio.com%7C16651a3d65be467bfc0608d9f7ba03c3%7C6499e3f51d3e4f099ad352b9e2f67fb8%7C1%7C0%7C637813200743521264%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=nETkPllTx0HCOaMl1QwGJ%2FPlyS0zX%2FYgliLG%2BzsapeU%3D&reserved=0)
-) for us to iterate on. 
+for us to iterate on. 
 
 ![image](https://user-images.githubusercontent.com/73354907/155577080-b095494b-9d56-49ff-8bd8-4f63e491861f.png)
 
