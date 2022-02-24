@@ -87,8 +87,8 @@ The addition of a payment information section should help fulfill our north star
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
-|Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 2.5mil|TBD|TBD|
-|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 2.5mil|TBD|TBD|
+|Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
+|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
