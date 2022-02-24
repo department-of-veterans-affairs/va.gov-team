@@ -1,9 +1,10 @@
 ---
-name: VSA Shared Support 
+name: VSA Shared Support
 about: For tracking weekly Accessibility and QA needs for VSA product teams
 title: VSA Shared Support Week of yy-mm-dd
-labels: vsa, vsa-qa, 508/Accessibility
-assignees: mickinsahni
+labels: 508/Accessibility, vsa, vsa-qa
+assignees: MickinSahni
+
 ---
 
 ## High Level User Story

@@ -17,7 +17,7 @@ For example, what if your usability test showed that a navigational effort perfo
 ## Exclusion in Recruitment
 The first step of inclusive design is recognizing exclusion. Follow the steps below to report out gaps in your sample and bring attention to underserved Veteran communities.
 
-### 1. [Use the VA recruitment checker (Excel teams)](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to identify exclusion in your sample
+### 1. [Use the VA recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to identify exclusion in your sample
 
 Follow the steps below:
 1. Duplicate the template sheet and rename it to your study.																											
@@ -31,7 +31,7 @@ Follow the steps below:
 
 > The 7th participant identified as over the age of 60 as a woman, so a “1” is placed within those respective rows. The 6th participant was a no-show, so their dimensions are marked with a “N.” The 5th participant did not identify with any of these dimensions, so the entire column is “0.” 
 
-> Can't access Microsoft Excel teams? You can also use the [Google Sheets version of the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Google sheets will not be accessible within the VA network, so if you're looking to share findings, take a screenshot or transition it to Microsoft Excel version.
+> Google sheets will not be accessible within the VA network, so if you're looking to share findings, take a screenshot or transition it to Microsoft Excel version.
 
 #### What if I have no shows?
 If a participant doesn't show up, fill out their column using "N" (for noshow) instead of "1" in each underserved category (row) that applies to them. For example, if your fifth participant doesn't show up, still complete their column using "N" instead of "1." In the notes section, consider writing if no shows resulted in underserved groups being left unaccounted for.

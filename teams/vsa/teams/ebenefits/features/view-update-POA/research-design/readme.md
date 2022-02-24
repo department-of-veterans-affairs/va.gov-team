@@ -12,7 +12,7 @@
 | View Rep mockups | [Adobe XD](https://xd.adobe.com/view/e27b7e71-d920-4bcd-9e81-dc62a9665d5e-b728/) | Get text from mock | November 25, 2020 | [Changelog](#mockups-changelog) |
 | Search Rep concept mocks | [VSA - Search for Rep (Download Filled PDF) v2](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/p/47673127-1304-4E6D-8CBE-C8A160E00A55) | All text FPO | Oct 29, 2021 | 
 | Appoint Rep concept mocks | [Search-to-Appoint Rep transition](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/a/09O8Gr2) | All text FPO | April 21, 2020 | 
-|View, Search, Appoint prototypes | [UX Pin](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145370991/simulate/sitemap) | - | December 23, 2021 | 
+|View, Search, Appoint prototypes | [UX Pin](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145370991/simulate/sitemap) | - | February 18, 2022 | 
 
 
 #### Information architecture & naming

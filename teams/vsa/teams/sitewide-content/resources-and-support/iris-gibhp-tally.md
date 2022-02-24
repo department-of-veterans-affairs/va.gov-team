@@ -1,6 +1,6 @@
 
-**FAQ Migration Overview as of 12/16/2021**
-|                          | 2020/2021 R&S ARTICLES ON THIS TOPIC | FAQS COVERED BY R&S ARTICLES | FAQS COVERED BY TIER 1 CONTENT | FAQS NOT MIGRATED | FAQS TO BE COVERED BY FUTURE R&S ARTICLES |
+**FAQ Migration Overview as of 2/23/2022**
+|                          |  R&S ARTICLES ON THIS TOPIC | IRIS FAQS REPLACED BY R&S ARTICLES | IRIS FAQS ACCOUNTED FOR BY TIER 1 CONTENT | IRIS FAQS RETIRED AND NOT MIGRATED | IRIS FAQS TO BE COVERED BY FUTURE R&S ARTICLES |
 |--------------------------|-------------------------------------|------------------------------|--------------------------------|-----------------|-------------------------------------------|
 | ACCOUNT & PROFILE        | 17                                  | 9                            | 2                              | 1               | 0                                         |
 | BURIALS & MEMORIALS      | 5                                   | 3                            | 4                              | 0               | 2                                         |
@@ -14,5 +14,5 @@
 | SERVICE MEMBER           | 1                                   | 2                            | 0                              | 0               | 0                                         |
 | OTHER TOPICS & QUESTIONS | 9                                   | 21                           | 6                              | 15              | 2                                         |
 | HOUSING                  | 0                                   | 18                           | 9                              | 16              | 48                                        |
-| EDUCATION                | 12                                  | 55                           | 9                              | 161             | 14                                        |
-| TOTALS                   | 54                                  | 139                          | 57                             | 204             | 70                                        |
+| EDUCATION                | 13                                  | 55                           | 9                              | 161             | 14                                        |
+| TOTALS                   | 55                                  | 139                          | 57                             | 204             | 70                                        |

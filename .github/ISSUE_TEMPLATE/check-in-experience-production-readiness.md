@@ -1,9 +1,9 @@
 ---
 name: Check In Experience Production Readiness
 about: Check In Experience checkist prior to a production release
-title: '[Prod Readiness]' 
-labels: vsa-healthcare-exp, backend, frontend, HCE-Checkin, HealthExp - Planned 
-pipeline: VFT, backlog
+title: "[Prod Readiness]"
+labels: backend, frontend, HCE-Checkin, HealthExp - Planned, vsa-healthcare-exp
+assignees: ''
 
 ---
 

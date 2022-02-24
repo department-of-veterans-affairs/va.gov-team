@@ -1,7 +1,7 @@
 ---
 name: Product Use Cases
 about: Track and maintain the various use cases that exist for a given product
-title: <Product/Initiative> Use Cases
+title: "<Product/Initiative> Use Cases"
 labels: ''
 assignees: ''
 
@@ -19,4 +19,4 @@ assignees: ''
 
 
 ## How to configure this issue
-- [ ] **Labeled with Team**  
+- [ ] **Labeled with Team**

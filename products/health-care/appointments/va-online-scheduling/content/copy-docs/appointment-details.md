@@ -80,13 +80,15 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this request.
+```diff
+- {Canceler} canceled this request.
++ {Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
+@@ GH36207 @@
 ```
 
 **PAGE CONTENT**
 
-```
+```diff
 VA appointment
 {Facility name}
 {Facility address}
@@ -137,6 +139,8 @@ none
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of Care}
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -183,6 +187,8 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -218,13 +224,17 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this appointment.
+```diff
+- {Canceler} canceled this appointment.
++ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+@@ #35857 @@
 ```
 
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -262,7 +272,10 @@ none
 
 **PAGE CONTENT**
 
-```
+```diff
++ Type of care: {Type of care}
+@@ #36434 @@
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
@@ -309,7 +322,10 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```
+```diff
+++ Type of care: {Type of care}
+@@ #36434 @@
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
@@ -342,13 +358,18 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this appointment.
+```diff
+- {Canceler} canceled this appointment.
++ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+@@ #35857 @@
 ```
 
 **PAGE CONTENT**
 
-```
+```diff
+++ Type of care: {Type of care}
+@@ #36434 @@
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
@@ -1062,8 +1083,10 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this request.
+```diff
+- {Canceler} canceled this appointment.
++ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+@@ #35857 @@
 ```
 
 **PAGE CONTENT**
@@ -1194,8 +1217,10 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this appointment.
+```diff
+- {Canceler} canceled this appointment.
++ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+@@ #35857 @@
 ```
 
 **PAGE CONTENT**
@@ -1266,7 +1291,10 @@ We've scheduled and confirmed your appointment.
 
 **PAGE CONTENT**
 
-```
+```diff
++ Type of care: {Type of care}
+@@ #36434 @@
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
@@ -1319,6 +1347,8 @@ We've scheduled and confirmed your appointment.
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care} 
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -1447,657 +1477,6 @@ Call {morning, afternoon, evening}
 ```
 
 ```Cancel request```
-
-**PROGRESS BUTTONS**
-
-none
-
----
----
-
-## #32593
-
-### VA Booked-Future (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-none
-
-**PAGE CONTENT**
-
-```
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-```Add to calendar```
-
-```Print```
-
-```Cancel appointment```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### VA Booked-Past (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-This appointment occurred in the past.
-```
-
-**PAGE CONTENT**
-
-```
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-```Print```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### VA Booked-Canceled (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-{Canceler} canceled this appointment.
-```
-
-**PAGE CONTENT**
-
-```
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### Vaccine Booked-Future (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-none
-
-**PAGE CONTENT**
-
-```
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-```
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-
-Contact this provider if you need to reschedule or cancel your appointment.
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### Vaccine Booked-Past (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-This appointment occurred in the past.
-```
-
-**PAGE CONTENT**
-
-```
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-```
-
-```Print```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### Vaccine Booked-Canceled (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-{Canceler} canceled this appointment.
-```
-
-**PAGE CONTENT**
-
-```
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### Confirmation States (#32593)
-
-#### Vaccine Confirmation State (#32593)
-
-**FORM TITLE**
-
-```
-NEW APPOINTMENT
-```
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-```
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-Contact this provider if you need to reschedule or cancel your appointment.
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-#### VA Direct Confirmation State (#32593)
-
-**FORM TITLE**
-
-```
-NEW APPOINTMENT
-```
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-```Add to calendar```
-
-```Print```
-
-```Cancel appointment```
-
-**PROGRESS BUTTONS**
-
-none
-
----
----
-
-## #34392
-
-### VA Booked-Future (#34392)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-none
-
-**PAGE CONTENT**
-
-```
-Type of care: {type of care}
-
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-```Add to calendar```
-
-```Print```
-
-```Cancel appointment```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### VA Booked-Past (#34392)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-This appointment occurred in the past.
-```
-
-**PAGE CONTENT**
-
-```
-Type of care: {type of care}
-
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-```Print```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### VA Booked-Canceled (#34392)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-{Canceler} canceled this appointment.
-```
-
-**PAGE CONTENT**
-
-```
-Type of care: {type of care}
-
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### Confirmation States (#34392)
-
-#### VA Direct Confirmation State (#34392)
-
-**FORM TITLE**
-
-```
-NEW APPOINTMENT
-```
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-Type of care: {type of care}
-
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
-
-```Add to calendar```
-
-```Print```
-
-```Cancel appointment```
-
-**PROGRESS BUTTONS**
-
-none
-
----
----
-
-### VA Request-Canceled (36207) 
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{Type of care} appointment request
-```
-
-**PAGE DESCRIPTION**
-
-```
-{Canceler} canceled this request. If you still need an appointment, call us or schedule a new appointment online. 
-```
-
-**PAGE CONTENT**
-
-```
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Main phone: {phone number}
-TTY: 711
-
-Preferred type of appointment
-{Office visit, Phone call, Telehealth (through VA Video Connect)}
-
-Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
-
-You shared these details about your concern
-{Reason}: {Booking note}
-
-Your contact details
-Email: {Email address}
-Phone number: {phone number}
-Call {morning, afternoon, evening}
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-### VA Booked-Canceled (35857)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online. 
-```
-
-**PAGE CONTENT**
-
-```
-VA appointment
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Main phone: {phone number}
-TTY: 711
-
-You shared these details about your concern
-{Reason}: {Booking note}
-```
 
 **PROGRESS BUTTONS**
 

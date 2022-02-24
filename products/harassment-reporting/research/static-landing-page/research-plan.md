@@ -75,30 +75,41 @@ Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessi
 
 ### Additional questions to ask in the screener
 1. VA is working to stop harassment and to help make our locations and services safer for all. We define harassment as any unwelcome behavior that intimidates, offends, or creates a hostile space. As part of these efforts, we are exploring online resources to make it easier for Veterans to safely report harassment at VA. Feedback from Veterans like you will help us make sure that these resources meet your needs and are easy to use. Are you interested in trying out resources for reporting harassment and sharing your opinions about them? 
-    1. *If "no", don't recruit*
-    2. *If "yes", ask the next question*
+    1. No *(don't recruit)*
+    2. Yes *(ask the next question)*
 1. First, we want to stress that we’re contacting you because you’re a Veteran, not because we believe that you have been harassed. We also want to make sure everyone who participates in a feedback session knows exactly what to expect so you can decide if you’re comfortable participating. If you’ve experienced any type of harassment in the past, conversations in the feedback session might remind you of these past experiences. Our researcher may also ask you a few questions about whether you’ve experienced harassment at VA and how you reported it. She won’t ask you to share any details about the experience. And you can choose to answer only questions you’re comfortable answering or end the session at any time. We won’t share what you tell us in a feedback session with anyone, and we won’t link your name or other personal details with your answers in any of our records. Would you feel comfortable participating in this feedback session? 
-    1. *If "no", don't recruit*
-    2. *If "yes", ask the next question*
+    1. No *(don't recruit)*
+    2. Yes *(ask the next question)*
 1. What type of device will you use to join the feedback session? *(record in Participant Roster and Schedule)*
-1. What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
-1. It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as transgender or as any of these sexual orientations: gay, lesbian, or bisexual? Yes, No, or Decline to Answer? *(record in Participant Roster and Schedule)*
+    1. Computer
+    2. Phone
+    3. Tablet
+3. How well do you speak English?
+    1. Not at all *(record as "non-native English speaker")*
+    1. Not well *(record as "non-native English speaker")*
+    1. Well 
+    1. Very well  
+4. It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as transgender or as any of these sexual orientations: gay, lesbian, or bisexual? *(record in Participant Roster and Schedule)*
+    1. Yes
+    2. No
+    3. Decline to Answer 
 
 ## Timeline
-#### Desired Timeline: February XX, 2022 
+#### Desired Timeline: March 14-18, 2022 
 **60-minute** sessions with at least **60-minute breaks** in between 
 
 Team Availability | Time (ET)
 ------------------|--------------
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 14, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 15, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 16, 2022 | Noon - 3 pm, 4:30 - 8 pm
+Mar 17, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 18, 2022 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (ET)
 ---------------|----------
-Feb X, 2022 | TBD 
-Feb X, 2022 | TBD 
+Mar 7, 2022 | TBD 
+Mar 8, 2022 | TBD 
 
 
 ## Team Roles	
@@ -115,5 +126,7 @@ Please list the people who will be serving in each role.
 - [Conversation Guide]()	
 
 ## Approvals
+Plan reviewed and approved by Dave Conlon in October 2021
+
 Plan reviewed and approved by Shane Strassberg or Kevin Hoffman on DATE TBD
 

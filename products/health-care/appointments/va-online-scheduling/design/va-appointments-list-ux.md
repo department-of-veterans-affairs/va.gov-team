@@ -2,63 +2,54 @@
 
 The VAOS appointments list displays a summary of a Veteran's upcoming, past, and pending appointments.
 
-## TOC
+## Resources
 
-1. Content model
-2. VAOS UX
-3. Other appointment lists
-    * Mobile app
-    * My VA
-    * Check in
-    * VEText
-    * Health apartment (future)
+[**Appointment list content**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md)
+All the copy displayed to Veterans in the appointments list. See also the definitions of [**terms [WIP]**](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114) (Google Sheets) used in the appointments lists and detail pages.
 
+[**Appointments list UI [WIP]**](https://www.figma.com/file/XEYv3OTKEs389H2aZ59zZ9/?node-id=0%3A1)(Figma)
 
-## Content model
+## Confirmed appointments
 
-[Terms [WIP]](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114)
-[Content model](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1639677197374/28216c756bb7e2b70099470f2b84a30c2632035b?sender=ub08ff1d80ee7bd38d6c02354)
+Confirmed appointments are created when a Veteran direct-schedules an appointment through VAOS, or when a scheduler at a facility creates the appointment it in one of a few systems.
 
-### Upcoming, past, and canceled appointments
+The VAOS appointments list answers these questions:
 
-The health appointments list answers these Veteran questions
-
-What appointments are coming up? Which already happened?
-
-When is my appointment?
-
-What's it for?
-
-Who's it with?
-
-How will I be attending it?
+* When is my appointment?
+* What's it for?
+* Who's it with?
+* How will I be attending it?
 
 A Veteran can complete some tasks on these appointments
 
-Print my list, or individual appointments
+* Print my list, or individual appointments
+* Add an appointment to my calendar
+* Cancel my appointment
 
-Add an appointment to my calendar
+Confirmed appointments may be canceled, or occur in the past.
 
-Cancel my appointment
+### Appointment modalities (how a Veteran attends an appointment)
 
-# Pending appointments
+Veterans most often attend confirmed appointments in person, but also have many telehealth options, and may attend over the phone. These are called out in the UI.
 
-The pending appointments list answers these Veteran questions:
+#### VA Video Care
+[TODO]
 
-What appointments have I requested that haven't been confirmed?
+#### Phone
+[TODO]
 
-What kind of care am I requesting?
+## Pending appointments
 
-Who did I request it from?
+A pending appointment is created when a Veteran requests an appointment through VAOS - [more details can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md). Once requested, these show on the pending appointments list in VAOS. This list answers these Veteran questions:
 
+* What appointments have I requested that haven't been confirmed?
+* What kind of care did I request?
+* Who did I request it from?
+* Are any of my requests canceled, and if so, by whom?
 
+The pending appointments list shows appointments that have been pending for 120 days. After that, these drop off the list, whether or not they've been resolved by the facility. Canceled pending appointments drop off this list after 30 days. 
 
-
-## VA Online Scheduling appointments
-
-### Upcoming, past, and requested appointments
-
-### Pending appointments
+A Veteran may cancel any pending appointment.
 
 ## Other appointment lists
 

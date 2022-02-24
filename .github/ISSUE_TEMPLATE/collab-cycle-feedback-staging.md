@@ -1,13 +1,12 @@
 ---
 name: Collab Cycle Feedback for Staging
-about: Staging feedback template for Collaboration Cycle reviewers to provide feedback to VFS teams
+about: Staging feedback template for Collaboration Cycle reviewers to provide feedback
+  to VFS teams
 title: VA.gov category issue - VA.gov Issue Description (Category Number.Issue Number)
-labels: Staging, collab-cycle-feedback
-assignees: 
+labels: collab-cycle-feedback, Staging
+assignees: ''
 
 ---
-
-
 
 ### General Information
 
@@ -63,8 +62,12 @@ Include specific details about how the VFS team can resolve this issue.
 ## Platform directions
 - Update "Issue Title"
 - Link to collab cycle touchpoint meeting epic
-- Add to the Feedback pipeline on the Platform Product Support board
-- Add your feedback
+- Add the VFS team and product name
+- Add your name and practice area under Point of Contact(Practice Area)
+- Add the Platform Issue. The Issue column from the [VA.gov Experience Standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html)
+- Add the Issue Details and any links, screenshots or steps to recreate
+- Add the [VA.gov Experience Standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html) number
+- Move to the Feedback pipeline on the Platform Product Support board
 - Add assignees: VFS PM
 - Add labels:
   - VFS team label

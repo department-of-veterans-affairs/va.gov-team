@@ -2,11 +2,11 @@
 name: VAOS Stakeholder Epic
 about: For VAOS stakeholders to provide input into product roadmap
 title: VAOS Stakeholder Epic
-labels: vaos, roadmapVAOSR
-assignees: '@laurenernest @lenaecb'
-projects: VAOS-R Roadmap
+labels: roadmapVAOSR, vaos
+assignees: ''
 
 ---
+
 # Stakeholder input
 ## Who is the target user?
 

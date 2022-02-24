@@ -29,9 +29,11 @@ Endpoints are available to allow test users to view thier existing appointments,
 
 These endpoints require entering the `patientDfn` (this is the patient Identifier in a VistA system) and `ClinicIen` (this is the clinic identifier in a VistA system). The `patientDFN` and `clinicIen` values configured in the test VistA syteme are noted below.
 
+Make sure you have an assigned test user DFN before setting up appointment tests. Update the [assigned DFN table](#assigned-dfns) after you are assigned a test user.
+
 <a name="end-to-end-testing-workflow-section"></a>
 
-# Pre check-in Testing Workflow
+# Pre check-in and day of check-in Testing Workflow
 
 ## Network access
 
@@ -39,11 +41,15 @@ You must use CAG or GFE to follow this testing workflow, the endpoints are not a
 
 ## Test harness
 
-You will need the CHIP Insomnia collection, ask a CHIP team member for it.
+You will need the CHIP Insomnia collection, ask a CHIP team member for it. When using Insomnia make sure to have `Validate certificates` unchecked in the Request/Response section of the Insomnia preferences.
+
+You can download Insomnia at [http://insomnia.rest](http://insomnia.rest)
 
 ## Create Appointment
 
 Using the 'Make Appointment' endpoint under the `VEText Appointments` heading, create an appointment for any time between tomorrow and 14 days from now. Note the `appointmentIEN` in the response, you'll need it for the next step.
+
+- **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into. Use the `startDatetime` from the slot you wish to use and set the endDatetime to be 30 minutes after the start.
 
 ## Call the pre-checkin endpoint
 
@@ -69,7 +75,7 @@ If you have not already done so, [use the `/patients` endpoint to add your phone
 
 Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the `clinicIen` at the time specified in `startDateTime`.
 
-- **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into
+- **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into. Use the `startDatetime` from the slot you wish to use and set the endDatetime to be 30 minutes after the start.
 
 ## Send Text
 Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
@@ -154,7 +160,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 520 | Forty,Patient | Patrick (OVAC) | 
 | 41  | Fortyone,Patient | Zach |
 | 42  | Fortytwo,Patient | Eva |
-|569|fotrythree,Patient|Chance|
+| 569 | Fotrythree,Patient | Brian |
 
 **Station 442**
 

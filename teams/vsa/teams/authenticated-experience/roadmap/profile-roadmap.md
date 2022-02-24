@@ -71,3 +71,4 @@
 |----|----|----|----|
 |Establish governance process for adding new preferences | Auth exp | - | We need to figure out a process to review planned updates for notification preferences so new preferences don't end up in our UI without having been reviewed and tested (if needed) by our team |
 |Add default opt-in functionality | VA Profile | January 2022 | We need functionality that tells us if a person is receiving a notification by default without having explicitly opted in themselves so we can reflect this in the profile. This is currently being worked on by VA Profile.|
+|Add notification preferences currently in eBenefits| Melissa Rebstock|2.11.22| Melissa Rebstock said there are notification preferences currently managed in eBenefits that need to move over to VA.gov. I explained that we need to first get VA Profile and VANotify on board before making any changes in VA.gov, so that process should start soon with a launch date of no later than Oct 2022.|

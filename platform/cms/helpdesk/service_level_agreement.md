@@ -7,7 +7,7 @@ The Help Desk should operate according to a Service Level Agreement (SLA) which 
 
 Under the SLA, "business hours" are from 9am to 5pm EST, and during these hours the Help Desk team commits to:
 
-   * respond with a First Response to support requests within a set period of time (<90 minutes for all Priority 1 or 2 Tickets); 
+   * respond with a First Response to support requests within a set period of time (<90 minutes for all tickets); 
    * resolve tickets within a set period of time:
    * Within 24 business hours or 2 business days for any Priority 1 Ticket;
    * Within 4 weeks for Priority 2 Tickets with consideration that work will need to be planned within "Sprints"; 
@@ -42,7 +42,7 @@ SLA adherence will be tracked using the software’s built-in reporting.
 
 # Federal Holidays
 
-All federal government offices close on federal holidays.  Help Desk support support will not operate during Business Hours on Federal Holidays and will stand down.
+All federal government offices close on federal holidays.  Help Desk support will not operate during Business Hours on Federal Holidays and will stand down.
 
 As a collateral duty, some Tier 2 engineer staff will be assigned and made available "on call" as part of Pager Duty to address critical issues impacting Veterans access to information.  
 
@@ -62,7 +62,7 @@ The Help Desk stand down will occur during the following dates for 2022:
 |------------------------------|---------------|
 | New Year's Day               | January 1     |
 | Martin Luther King Jr. Day   | January 17    |
-| George Washington's Birthday | February 15   |
+| George Washington's Birthday | February 21   |
 | Memorial Day                 | May 30        |
 | Independence Day             | July 4        |
 | Labor Day                    | September 5   |

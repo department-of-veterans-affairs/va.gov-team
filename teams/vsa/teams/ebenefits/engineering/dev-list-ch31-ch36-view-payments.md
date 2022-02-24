@@ -282,6 +282,19 @@ Total = 26
 </details>
 
 
+<details><summary>A/B testing</summary>
+ 
+<details><summary>Rated Disabilities</summary>
+  
+- Set up feature toggle
+- add code to rated disabilities to allow sorting behind feature toggle
+- Set up test in Google Optimize
+- Test implimentation
+- Run A/B test 
+    
+</details> 
+  
+</details>
 
 
 ``` diff

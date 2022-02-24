@@ -2,8 +2,8 @@
 name: Midpoint Review
 about: Request Midpoint Review
 title: Midpoint Review [Team Name, Feature Name]
-labels: governance-team, collaboration-cycle, collab-cycle-review, midpoint-review
-assignees: 
+labels: collab-cycle-review, collaboration-cycle, governance-team, midpoint-review
+assignees: ''
 
 ---
 
@@ -61,7 +61,7 @@ Provide links or documents for the following:
 
 ### Content artifacts 
 
-
+- [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
  
 ### QA artifacts
@@ -94,5 +94,3 @@ Please note: You are responsible for adding the VFS attendees. If you have more 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Midpoint Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) on Platform website for more information about the Collaboration Cycle.
 
 FYI: @shiragoodman , @chaseakirby
-
-

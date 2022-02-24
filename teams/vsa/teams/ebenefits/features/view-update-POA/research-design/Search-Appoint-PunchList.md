@@ -4,6 +4,88 @@
 `Candy Clark, designer`
 
 ---
+## February 2022 Punchlist
+
+Comparison of UXPin prototype to staging as of February 7, 2022
+
+See:
+- [Reference Prototype](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145465246/simulate/sitemap)
+
+### Global updates
+##### To be Updated in Code
+- [ ] add breadcrumb 
+- [ ] fix H1 spacing 
+##### To be updated in UXPin 
+- [x] fix TTY highlight 
+- [x] update H1s to be the same across all pages
+- [x] update step and question text across form pages
+- [x] move "finish this application later" above buttons
+
+### Intro page
+##### To be Updated in Code
+- [ ] add subway map 
+- [ ] update  language to match UX Pin
+- [ ] remove one of the need help components
+- [ ] update header style of "Learn more about..."
+
+### Type of rep page
+##### To be Updated in Code
+- [ ] add required label & logic 
+- [ ] update Veterans Service Officer (VSO) to Representative in a Veterans Service Organization (VSO)
+- [ ] update (VS0) to be (VSO)
+##### To be updated in UXPin 
+- [x] on [signed in](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145744928/simulate/sitemap) page, update Veterans Service Officer (VSO) to be Veterans Service Organization (VSO) 
+- [x] on [unauthenticated]() update Veterans Service Officer (VSO) to be "Representative in a Veterans Service Organization (VSO)"
+
+### Location
+##### To be Updated in Code
+- [ ] change state to dropdown
+- [ ] change postal code to short field length
+- [ ] Update question language to match uxpin
+
+### Name
+##### To be Updated in Code
+- [ ] add subheading 
+- [ ] update the question language to match uxpin 
+
+### Organization name
+##### To be Updated in Code
+- [ ] add subheading 
+- [ ] update the question language to match uxpin 
+- [ ] update form field label to match uxpin
+
+### Results
+##### To be Updated in Code
+- [ ] replace subtext with alert box and update to language in uxpin 
+- [ ] display result count
+- [ ] remove "If you found the representative you want" section
+- [ ] continue button should not be showing
+
+### Selected rep
+##### To be Updated in Code
+- [ ] remove middle paragraph
+- [ ] update language in alert box to match uxpin
+- [ ] card should match previous page
+
+### Applicant Info
+##### To be Updated in Code
+- [ ] Show data instead of fields
+
+### File Info
+##### To be Updated in UXPin
+- [x] make SSN short field type
+
+### Mailing Address
+##### To be Updated in Code
+- [ ] add [more info](https://design.va.gov/components/additional-info) for "Learn more about military base addresses"
+##### To be Updated in UXPin
+- [x] update [more info styling](https://design.va.gov/components/additional-info)
+
+
+---
+## November 2021 Punchlist
+
+Comparison of Sketch to Dev's local enviorment as of November 2021 
 
 See:
 - [Reference mockups - Search for Rep (Download Filled PDF) v2](https://sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2)

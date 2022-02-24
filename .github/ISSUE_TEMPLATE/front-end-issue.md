@@ -2,7 +2,7 @@
 name: Front End Issue
 about: For standard front end issues.
 title: ''
-labels: 'vsa'
+labels: vsa
 assignees: ''
 
 ---

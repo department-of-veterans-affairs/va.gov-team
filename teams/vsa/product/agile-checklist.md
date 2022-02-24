@@ -1,3 +1,5 @@
+# Agile Ceremony Checklist
+
 Use this checklist to assist you with your Ceremonies and process. 
 
 ## Stand Up

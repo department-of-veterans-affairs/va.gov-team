@@ -390,14 +390,97 @@ Continue discovery
 
 ## Sprint 67 (2/9 - 2/22)
 
+A note on stuff from last sprint:
+
+- Always move over any unfinished project work to keep us on time with projects.
+- If there were general tickets we added to last sprint because we thought we had time but then ended up not having time, only move those over *if* (1) they are high priority, or (2) we clearly will have time this sprint. Otherwise, it's OK to deprioritize. Always feel free to ask if you have questions.
+
+**Priorities**
+
+1. Personal information revisions
+2. Bad address indicator
+3. All other work
+
 ### Personal information updates
+
+**PM**
+
+- Determine when we will be ready for QA (assuming BE development starts on time)
 
 **Design**
 
+- Finish all design updates (pending dependency on all of our partners)
 - Update interaction design for text box input ("A [field] not listed here" options)
+
+**FE**
+
+- Implement any design updates that are ready
+
+**BE**
+
+- Start BE build if possible
+  - VA Profile is targeting 2/14 for being ready for us
+
+### Bad address indicator
+
+**Design**
+
+- Meet with Marci/Samara to go over work
+- Start design discovery (If there's not time, we don't need to include in sprint objectives and can move this to sprint 68)
+  - Understand the problem/background
+  - Figure out what questions you have. Some questions I have:
+    - When someone is on VA.gov, when can we detect that they have a bad address?
+    - Can we proactively email all people who have the bad address indicator to log into VA.gov and update their address? How would this work? 
+  - Get answers to those question 
 
 ## Sprint 68 (2/23 - 3/8)
 
+### Personal information revisions
+
+Continue build; What do we still need to finish design and FE?
+
+**PM** 
+
+- If content/design isn't done, assess when we think that will be done based on Danielle's availability 
+- If time and if designs are done, work on contact center guide updates
+
+**Design** 
+
+- Pending content being done, finish all design updates
+- If time and if designs are done, work on contact center guide updates
+
+**FE** 
+
+- Implement any design updates that are ready
+- Pending design/content being done, finish FE 
+
+**BE** 
+
+- Provide estimate of how long BE build will take; Continue BE build"
+
+### Address Change Messaging
+
+Wrap up all design work; complete FE if possible.
+
+### Bad address indicator
+
+Personal information work is higher priority, so only move on to bad address indicator tasks as time allows.
+
+**Design**
+
+- Design profile updates
+- Bad address indicator email
+  - This likely involves deciding what the email needs, understanding how VANotify will format things, and submitting a content request for actual copy
+
+### MHV profile research (Liz)
+
+[Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)
+
+This is kind of a pre-engagement sprint as Liz rolls off of My VA work. However, we talked about her being able to do the following.
+
+- VA.gov and MHV profile evaluation and comparison
+- If time, start planning for the rest of the research engagement
+  
 ## Sprint 69 (3/9 - 3/22)
 
 ## Sprint 70 (3/23 - 4/5)

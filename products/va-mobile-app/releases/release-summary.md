@@ -1,5 +1,14 @@
 # VA Mobile team - Release Highlights
 
+## Release: 2/15/22
+
+New + Improved
+
+- Implemented dark mode
+- Major refactor of our UI state management (Redux toolkit), improving developer experience, and preparing us for potential redesign work
+- Update time/date layout on secure messaging
+
+
 
 ## Release: 2/1/22
 

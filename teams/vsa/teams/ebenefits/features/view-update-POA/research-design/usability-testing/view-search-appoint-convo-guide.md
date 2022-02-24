@@ -66,8 +66,6 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few introduction questions. 
 
- *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*] 
-
 - What is your service background? 
 
 - What kinds of benefits have you applied for? 
@@ -98,14 +96,15 @@ Before we look at the website, let’s start with a few introduction questions.
 ## Second Task: Finding a representative - 5-10 minutes 
 
 - Okay now we’re going to move to our prototype. I'm going to put a link in our chat, click on that link.
-- `Add prototype link.` 
-- Imagine that you want to file a claim with VA and you want to appoint a representative to help you.
+- [Find prototype](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145370991/simulate/no-panels )
+- Imagine that you want to file a claim with VA and you want to find a representative to help you.
 - You've come to this page, what do you do now?
 - Follow up questions: 
     - How do you know what representative type you want?
     - Do you have enough information to make a selection now?
     - What would you do now?
     - How do you want to contact these representatives?
+    - I noticed that you did/did not log in. Did that make a diffeerence to your search?
 
 ### Things to watch for:
 - Does the user log in?
@@ -127,14 +126,14 @@ Before we look at the website, let’s start with a few introduction questions.
 
 ### Things to watch for:
 - Does the user use the "select representative" link?
--  How would the user expect to submit the completed form?
+- How would the user expect to submit the completed form?
 - Does the user think the representative is official now?
 
 
 ## Fourth Task: Contact current representative - 5 minutes 
 
 - Okay let's move on to our next task. 
-- `Add prototype link.` 
+- [View prototype](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145522615/simulate/no-panels)
 - Continuing our earlier task, imagine some time has gone by and now you have already appointed a representative, but you need to contact your representative.  
 - You’ve come to this page, what do you do now? 
 - Follow up questions:
@@ -186,4 +185,4 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.  
 
-Great, well thank you so much again, and enjoy the rest of your day! ![image](https://user-images.githubusercontent.com/84141672/147210190-faaae1f1-5857-41fd-91f6-5dd1783b535f.png)
+Great, well thank you so much again, and enjoy the rest of your day! 

@@ -473,6 +473,7 @@ This research does not include the perspectives of the following marginalized Ve
 * Beginning and experienced AT users 
 * Users of the following assistive technologies: mobile screen readers, keyboards attached to mobile devices or tablets, switch devices and braille readers.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png" />
+<img width="748" alt="Screen Shot 2022-02-22 at 12 43 37 PM" src="https://user-images.githubusercontent.com/14154792/155188398-7d1d476b-ce69-43dc-a700-cb2d5d6f4c95.png">
+
 
 _Caption: Screenshot of VA Recruitment Checker, capturing the data above in spreadsheet form._

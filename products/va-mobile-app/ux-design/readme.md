@@ -1,13 +1,13 @@
-- # Mobile App UX Design
+# Mobile App UX Design
 
   This folder is where UX assets for mobile app live or are linked to.
 
-  *Last updated: Sept 26, 2021*
+  *Last updated: Feb 9, 2022*
 
   ## MVP assets
   | Asset                                                        | Description                                                  |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | [Information Architecture (needs updating)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture) | Outlines the hierarchy the MVP app navigation follows. September 2021 to needs updating.       |
+  | [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture) | The sitemap/flow diagram outlines the information architecture that the current (post-MVP) VA Mobile App's navigation follows. Last updated Feb 2022.       |
   | [Sketch: Library](https://www.sketch.com/s/dc5da595-7a22-4cdd-a850-bd91a80dd377) | Sketch file with common components we used for the MVP release. The foundation and building blocks for UI. September 2020 to present. |
   | [Sketch: Screens](https://www.sketch.com/s/2f57b5b0-1b81-4237-a2e6-e522d5e37d11/a/PGnVg8v) | Sketch file with example app screens. This is where we work day to day and where handoff to engineers happens. September 2020 to present. |
   | [Sketch: Documentation (needs updating)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/sketch-file) | Info for how to make updates to the library. Not current as of September 2021. |

@@ -28,6 +28,48 @@
  
 </details>
 
+## Monday, February 14, 2022
+* `servicelocations` fields. CMS projecting to fill out in sprint 52 (ends 2/25)
+  * [8017](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8017) - identify sample data to use in order to validate with LH
+  * LH: not critical for V1
+* `healthserviceAPI`
+  * CMS keeping the name we're already sending the same; LH validated ok
+  * Service identifiers will be entered and sent from CMS to LH
+  * CMS to stop filtering on COVID and start sending everything
+  * LH to reach out once ready to recieve, CMS to implement full send
+  * [8019](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8019)
+* `field_va_health_connect_phone` refinement
+  * CMS ready to start writing the push for this (each facility will have this number attached)
+  * mid-March timeline for LH to be ready to address
+* VBA service - was going to validate with VBA if "pension" should be in the data
+  * reach out to office of field operations to see if it needs to be deprecated from LH or we need to add data
+
+## Monday, February 7, 2022
+
+* `servicelocations` fields in detailed service payload. LH looking for confirmation when to expect.
+  * detailed service block for COVID, didn't fill out the full schema, specifically the node for service locations
+  * CMS currently sending: published, name, national description, physical description, APIid, appointment lead in, phones, referral
+  * [slack thread with context](https://dsva.slack.com/archives/C0FQSS30V/p1610129900071700)
+  * CMS medium LOE, does LH need for v1 or post?
+  * CMS to project filling out in sprint 52 (ends 2/25)
+* Is it worth solving this user story (via help desk) in the interim? "As a VAMC staff, i want to know who to contact if i see an issue with the services that are listed for my facility in the facility locator."
+  * LH can own intake for these questions before next version of FL
+  * LH to update [KB article](https://prod.cms.va.gov/help/vamc/how-do-i-update-my-vamc-facilitys-basic-location-data)
+* Status of healthserviceAPI
+  * CMS: once numerated list is received from LH, can add it
+  * naming it `serviceId`, CMS to rename `healthserviceAPI` to match
+* `field_va_health_connect_phone`
+  * CMS should be able to push by end of February
+  * Is it ok to send with Facility Status payload? A: should be fine, as long they're distinct elements
+      * expectation that this wouldn't change very often
+* VBA service
+  * FL is pulling "pension" which doesn't happen to line up with any of the existing services
+  * Currently returns blank, not even a column in the data
+  * Need to go back to VBA to validate if this is something that should be in the data
+* Geo coordinates off
+  * LH to group all together and send monthly to FL
+  * timing TBD, normally roll out around 21-23 of the month
+
 ## Monday, January 31, 2022
 * Status of healthserviceAPI
   * LH wrapping up setting up numerated list

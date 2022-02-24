@@ -2,6 +2,37 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
+## Sprint: 2/2/22 - 2/15/22
+
+- Identity
+   - Login.gov user testing kicked off this week
+
+- Vaccine Records 
+  - Manufacturer name is now retrieved from LH
+  - Fix duplicate vaccine records
+
+- Payment History 
+  - Completed endpoint to return payment history (wired up route & controller)
+
+- Appointments
+  - Backend completed add pending appointments to list view 
+  - Finalized definition for cancel flow & designs
+
+- Bug(s)
+  -Backend: Fixed blank lines above signature on draft messages 
+
+- TLC and Maintenance
+  - Fix chrome debugger on Android
+  - Spike Analysis on level of effort to remove fax & gender fields from profile (front-end)
+  - Front-end refactoring
+  - Completed Claims refinement UX/engineering hand-off
+  - Created common component in claims for photo buttons 
+  - Started ticketing TLC UX tasks 
+  - TLC tasks: Screen Round up
+  - Documented UI Design & Sketch Management process
+
+
+
 ## Sprint: 1/19/22 - 2/1/22
 
 - Dark Mode

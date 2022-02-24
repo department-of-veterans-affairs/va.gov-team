@@ -2,7 +2,7 @@
 name: Ops Issue Template
 about: For filing standard issues with the Platform Operations Team.
 title: ''
-labels: 'operations, devops, needs-grooming'
+labels: devops, needs-grooming, operations
 assignees: ''
 
 ---

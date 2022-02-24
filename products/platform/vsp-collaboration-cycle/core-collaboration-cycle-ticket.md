@@ -147,6 +147,8 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 ### Design Intent Details
 Meeting date/time:
 
+Zoom information:
+
 Zoom Recording:
 
 Zoom password:

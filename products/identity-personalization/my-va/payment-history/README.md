@@ -79,14 +79,16 @@ The addition of a payment information section should help fulfill our north star
 ---
 ## Measuring Success
 
-### Objective: Meet user need/expectation and elevate payment and debt informtion to user dashboard.
+### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil|TBD|TBD|
+|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil (visits to the url)|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
+|Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
+|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
@@ -117,9 +119,10 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
 
 - Most recent payment (31 days out - Confirmed via [this Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1640031990019000), anything older will result in the payment card/block not showing, replaced with a text statement "You haven't received any payments in the past 30 days." (links for debt (if appllicable) and direct deposit will remain.) 
-- Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the [link](va.gov/manage-va-debt/your-debt) on the same line)
+- Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the [link](va.gov/manage-va-debt/your-debt) on the same line), in the case of no debt, the debt box will be replaced with text "Your debt balance is $0".
 - Manage your direct deposit [link](va.gov/profile/direct-deposit)
 - View your payment history [link](va.gov/va-payment-history/payments)
+- Learn about VA debt [link](va.gov/va-debt-management)
 
 **Not In Scope** 
 - Survivors pension
@@ -143,13 +146,13 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 ## Key deliverables
 
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
-- Design documentation [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1638500075560/0e849f61e282ebe2d8e7119eea504e4c05b0bbe4?sender=u5ad49c107baa41137f271007), [Sketch](https://www.sketch.com/s/418ca6f6-cc24-4496-82aa-9deda03b08f6) and [UXPIN Prototype](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i)
+- Design documentation [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1638500075560/0e849f61e282ebe2d8e7119eea504e4c05b0bbe4?sender=u5ad49c107baa41137f271007), [Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment) and [UXPIN Prototype](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i)
 - [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
 - [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/payment-history-frontend.md)
 - How to access and test
     - [Staging env](https://staging.va.gov/my-va/)
     - Testing documentation
-    - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-PaymentInfo.md)
+    - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info.md)
     - Payments Information a11y test case documentation
 - Release plan
 - [Production env](https://www.va.gov/my-va/)
@@ -161,6 +164,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Nov 2021: Kickoff with MVP outlined & begin design
 - Dec 2021: Design work finalized
 - Jan 2022: Usability testing kickoff
+- Feb 2022: Finalize designs, development and begin QA
 
 ---
    

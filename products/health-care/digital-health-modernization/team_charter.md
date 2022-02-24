@@ -14,9 +14,9 @@ Refer back to the USDS values (unless OCTO has already forked them) on the groun
 - Steering meetings
 
 ## Time Off
-- Mark leave on your 
-- Warn a week in advance for multi-day leave
-- Wrn a day in advance for one-day leave
+- Mark leave on your personal calendar
+- Send a "free" invite to all team members for the days you are away
+- Mark yourself as away "X" on slack
 
 ## Meetings
 - No rules for scheduling 1:1 conversations. Just do it. Conversations are not meetings. 

@@ -21,7 +21,7 @@ Here's what still needs to be completed:
 
 ## Releasing the changes
 
-There are several feature toggles:
+There are several [feature toggles:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/feature_toggles.md)
 
 - va_online_scheduling_facilities_service_v2
   - With this on, the FE fetches facility data and VATS configuration data through MFSv2

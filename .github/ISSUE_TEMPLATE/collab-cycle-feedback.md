@@ -1,12 +1,12 @@
 ---
 name: Collab Cycle Feedback
-about: Feedback template for Collaboration Cycle reviewers to provide feedback to VFS teams
+about: Feedback template for Collaboration Cycle reviewers to provide feedback to
+  VFS teams
 title: Practice Area Feedback - Name of Collab Touchpoint - Name of Project
-labels: collaboration-cycle, collab-cycle-feedback
+labels: collab-cycle-feedback, collaboration-cycle
 assignees: ''
 
 ---
-
 
 ## VFS acceptance criteria
 - [ ] Let Platform know when the **Must** feedback has been incorporated 

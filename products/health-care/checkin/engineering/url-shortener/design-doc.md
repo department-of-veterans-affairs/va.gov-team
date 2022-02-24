@@ -162,8 +162,7 @@ Logging should include at least the following:
 
 * URL for which a short URL has been requested
 * Expiration date requested
-* Expiration tag created
-* Short URL generated
+* ID & full Short URL generated
 * Stack traces for any errors encountered
 
 
@@ -257,3 +256,4 @@ TBD
 | Jan 7, 2022  | Update link prefix from `/u/` to `/c/` | Adrian Rollett |
 | Jan 13, 2022 | Updated status to Approved (per Stephen Barrs & Shane Elliot) | Adrian Rollett |
 | Jan 31, 2022 | Updated to reflect decision to use DynamoDB as a backing store | Adrian Rollett |
+| Feb 15, 2022 | Updated logging section to reflect decision to use DynamoDB as a backing store | Adrian Rollett |

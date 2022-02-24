@@ -5,6 +5,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 02/18/22: "It is very nice to be able to see some of the information we have available to us and about us without having to make calls. I have found many things I would have liked to know 30 years ago! I guess I just never found the right person to talk with until recently." (Apple store review)
+
 - 01/30/22: "This app is very helpful to get info and contact the VA for what you need to get done. I was surprised how I could message my doctor, refill meds and access documents that are updated yearly to provide proof of income. There is so much you can do with this app and its secure to use. if you are a veteran and you interact with the VA this app will be very beneficial for you to use. it has many security features, its protected and safe. Highly recommended." (Google play store review)
 
 - 01/28/22: "To think of the many outdated programs used by the government, this app has been by far the BEST thing the VA could have created for veterans. Whatever team decided to come up with this app, in addition to the programming team that designed it needs more than a raise, praise and accolades!! I make it my duty to recommend this app to EVERY vet that I know!! Thank you!" (Apple store review)

@@ -1,10 +1,13 @@
 ---
 name: VFS Sprint Priorities Template
-about: File is intented to streamline Sprint planning efforts through a priority alignment for planning
-title: <VFS Team> <Sprint Number> Priorities
-labels: <VFS Team labels>
-assignees: <VFS Team Members/PO>
+about: File is intented to streamline Sprint planning efforts through a priority alignment
+  for planning
+title: "<VFS Team> <Sprint Number> Priorities"
+labels: ''
+assignees: ''
+
 ---
+
 # Template Instructions
 - [ ] Copy and paste the contents of this issue template into a new issue for each sprint.
 - [ ] Assign yourself as an owner
@@ -215,6 +218,4 @@ Please tag <PM> on tickets when moved to **Done** section for validation and clo
 
 <summary> DONE </summary>
 
-- [x] [FE]<Discription> #174XX (Validate - Name) 
-
-
+- [x] [FE]<Discription> #174XX (Validate - Name)

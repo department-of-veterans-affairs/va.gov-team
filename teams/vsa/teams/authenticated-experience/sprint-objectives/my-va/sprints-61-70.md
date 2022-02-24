@@ -316,10 +316,19 @@ Are we on hold for this besides backend build?
 ## Sprint 67 (2/9 - 2/22)
 [Sprint 67 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30272)
 
+A note on stuff from last sprint:
+
+- Always move over any unfinished project work to keep us on time with projects.
+- If there were general tickets we added to last sprint because we thought we had time but then ended up not having time, only move those over *if* (1) they are high priority, or (2) we clearly will have time this sprint. Otherwise, it's OK to deprioritize. Always feel free to ask if you have questions.
+
 ### Payment history
+
+**Main goal for this sprint**: Be ready for QA. Prioritize tickets & work accordingly so that anything that is a QA dependency gets top priority.
 
 **PM**
 
+- Review QA test cases and make sure they are accurate given any updates from user testing
+- Informal click through of the feature to make sure it is ready for QA
 - Meet to discuss approach for adding medical copay information
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
@@ -328,13 +337,31 @@ Are we on hold for this besides backend build?
 
 **Design**
 
+*Liz*
+
+- Update My VA contact center guide with Benefit payments & debts info
+  - May also need to update content on "Benefits you might be interested in" since that has also changed
+- Informal click through of the feature to make sure it is ready for QA
+- Support Angela: Meet to discuss approach for adding medical copay information
+
+*Angela*
+
 - Meet to discuss approach for adding medical copay information
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
   -  Is this more of an enhancement or small, separate project? 
-  -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)\
--  Start design for adding medical copay information
+  -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
+- My VA sketch file clean up
 
+**FE**
+
+- Build error states
+- Build for updates from user testing
+- Informal click through of the feature to make sure it is ready for QA
+
+**BE**
+
+- Ask Jeff for work for Lihan
 
 ## Sprint 68 (2/23 - 3/8)
 [Sprint 68 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30273)
@@ -342,6 +369,43 @@ Are we on hold for this besides backend build?
 ### PTO
 
 - Angela: 2/24 - 2/28
+
+### Payment information
+
+Sprint goal: Complete QA
+
+**PM**
+
+- Make sure QA is ready to go. All features/updates should be finished, and each team member should have reviewed the feature on staging to make sure it's good to go. (#35254)
+- Submit Analytics request. (#37376)
+  - We need tracking for all the new links -- View payment history, direct deposit, clicks into the debt tool, and clicks for the new travel reimbursement link we added to health care. Otherwise, we should be good to go, as we already track searches initiated from this page on [the My VA 2.0 GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/).
+  - [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success) 
+
+**Design**
+
+- If not already done, complete UAT planning (#36678, #36690)
+- Depending on when QA is done and if any issues are found, we can start on fixes
+
+**FE**
+
+- Depending on when QA is done and if any issues are found, we can start on fixes
+
+**QA**
+
+- Complete QA (#35149)
+
+### Medical copays
+
+**PM**
+
+- Fill out collab kickoff ticket (#37373)
+  - You might want to clarify that this is a pretty small effort, but we'll likely want support for design and research, since this has a research component. Otherwise, we're happy to do whatever reviews they recommend, but they should all be brief and super easy. 
+
+**Design**
+
+- Discovery (#36899)
+- Design exploration (#36902)
+- Design intent, if we're ready for it. This can be moved to the following sprint if need be. (#37387)
 
 ## Sprint 69 (3/9 - 3/22)
 [Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30274)

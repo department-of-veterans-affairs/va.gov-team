@@ -23,7 +23,7 @@ The purpose of the January 2022 interviews was to better understand why and how 
 - What information does a Veteran find helpful in preparing for a Tele-Urgent visit?
   
 # Method
-- Sessions were conducted remotely via Zoom and scheduled for 60 minutes. 
+- Sessions were conducted remotely via Zoom and scheduled for 45-60 minutes. 
 - Sessions were conducted over the course of two weeks beginning January 5 and ending January 14. 
 - Remote interviews were used to gain a broader understanding of their experience and attitudes towards tele-medicine. 
 ---

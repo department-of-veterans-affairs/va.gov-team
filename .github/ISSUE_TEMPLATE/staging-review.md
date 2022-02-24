@@ -2,8 +2,8 @@
 name: Staging Review
 about: Request a Platform staging review
 title: Staging Review [Team Name - Feature Name]
-labels: governance-team, collaboration-cycle, staging-review, collab-cycle-review
-assignees: 
+labels: collab-cycle-review, collaboration-cycle, governance-team, staging-review
+assignees: ''
 
 ---
 
@@ -16,6 +16,7 @@ assignees:
 - [ ]   Notify the Collaboration Cycle team of this ticket and scheduled date/time in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)).
 - [ ]  Add artifacts listed below to the ticket at least 4 days before scheduled meeting.
 - [ ]  Ensure you've provided staging access information for the tool or feature. (Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
+- [ ]  If this product contains any [experimental design](https://design.va.gov/experimental-design/), add the experimental-design label and schedule a meeting with DSC to present the research findings.
 
  **Platform**
  
@@ -65,6 +66,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 
 ### Content artifacts 
 
+- [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
 ### QA artifacts

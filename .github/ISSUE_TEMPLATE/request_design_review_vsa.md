@@ -2,8 +2,8 @@
 name: Please don't use for now — Request a VSA Design Review
 about: Request a VSA design review
 title: Request VSA design review for ENTER_PRODUCT_NAME
-labels: 508/Accessibility, design, design review, product support
-assignees: emilywaggoner, sshein, CrystabelReiter,jenstrickland, 1copenut, tzelei123, meganhkelley, peggygannon
+labels: 508/Accessibility, design, product support
+assignees: sshein
 
 ---
 

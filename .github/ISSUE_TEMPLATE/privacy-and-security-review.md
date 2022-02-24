@@ -1,9 +1,9 @@
 ---
 name: Privacy and Security Review
 about: Request a Privacy and Security Review
-title:  Privacy and Security Review [Feature-Name]
-labels: 
-assignees: 
+title: Privacy and Security Review [Feature-Name]
+labels: ''
+assignees: ''
 
 ---
 

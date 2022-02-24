@@ -1,9 +1,9 @@
 ---
 name: Research Request Form
 about: To request a review of research materials before recruiting for a study
-title: <Research Request> from <Team>
-labels: collaboration cycle, research
-assignees: Research, lalexanderson-dsva
+title: "<Research Request> from <Team>"
+labels: research
+assignees: lalexanderson-dsva
 
 ---
 

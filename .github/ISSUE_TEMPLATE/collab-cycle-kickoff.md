@@ -1,9 +1,9 @@
 ---
 name: Collaboration Cycle Kickoff
 about: Begin engaging with the Collaboration Cycle
-title: Collaboration Cycle Kickoff [Team Name, Feature Name] 
-labels: governance-team, collaboration-cycle, collab-cycle-review
-assignees: 
+title: Collaboration Cycle Kickoff [Team Name, Feature Name]
+labels: collab-cycle-review, collaboration-cycle, governance-team
+assignees: ''
 
 ---
 

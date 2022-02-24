@@ -1,7 +1,7 @@
 ---
 name: Staging Review Accessibility Checklist
 about: For tracking/completing all required Staging Review accessibility items
-title: <Initiative> x Staging Review Accessibility Checklist
+title: "<Initiative> x Staging Review Accessibility Checklist"
 labels: ''
 assignees: ''
 
@@ -35,4 +35,4 @@ assignees: ''
 
 ## How to configure this issue
 - [ ] **Attach to Collab Cycle Epic**
-- [ ] **Labeled with Team**  
+- [ ] **Labeled with Team**

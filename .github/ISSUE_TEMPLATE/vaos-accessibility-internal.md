@@ -1,11 +1,12 @@
 ---
 name: VAOS Accessibility Issue
 about: For VAOS team to document accessibility issues
-title: ' '
-labels: vaos, 508/Accessibility
-assignees: 'ldelacosta'
+title: " "
+labels: 508/Accessibility, vaos
+assignees: ldelacosta
 
 ---
+
 ## User Story or Problem Statement
 _Description of improvement or detail of check that didn't pass an accessibility check_
 

@@ -1,12 +1,91 @@
-# Million Veteran Program (MVP) Women’s Campaign 
+# Million Veteran Program (MVP) Communications & Outreach Toolkits
 
-## Communications Toolkit
+Contents:
+1. **New!** [1 Million Countdown Campaign](#1-million-countdown-campaign-toolkit)
+2. [Women Veterans Campaign](#women-veterans-campaign-toolkit)
+
+## 1 Million Countdown Campaign Toolkit
+
+**What is MVP:** The Million Veteran Program (MVP) is a national research program to learn how genes, lifestyle, and military exposures affect health and illness. Since launching in 2011, over 865,000 Veterans have joined MVP, making it one of the world’s largest programs on genetics and health.
+
+**Campaign goal:** MVP aims to enroll its one millionth Veteran in FY23. It will be the first research program in the world with 1,000,000 people, greatly advancing the ability to study genetics and health in the Veteran population. Ultimately, MVP research can lead to advancements in the identification, treatment and prevention of disease on an individual, or personalized, basis.
+
+**You can help us reach this historic milestone.** Use the materials in this toolkit to spread the word about MVP among Veterans, family, friends, and advocates:
+
+1. [Digital advertisements (for VAMC televisions and digital screens)](#digital-ads-for-vamc-televisions-and-digital-screens)
+2. [Posters](#posters)
+3. [One-pager](#one-pager)
+4. [Social media toolkit](#social-media-toolkit)
+5. [Social media graphics](#social-media-graphics)
+6. [Other content (articles, news releases, podcasts, etc.)](#other-content)
+
+For outreach to women Veterans, you can also use these tailored materials from MVP’s women’s campaign. Materials include posters, videos, social media, blogs, a one-pager, and more.
+
+Questions? Contact Jennifer.Deen@va.gov or Claudia.Gutierrez@va.gov. Thank you for your help!
+
+### Digital ads for VAMC televisions and digital screens
+
+Below are two advertisements that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms.
+
+#### Digital ad for all VAMCs:
+
+This can be used by any VAMC whether or not they have an MVP clinic (it directs Veterans to join online at mvp.va.gov).
+
+Non-customizable digital ads:
+- [1920x1080 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-not-custom.png)
+- [1280x720 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1280x720-not-custom.png)
+- [1237x926 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-not-custom.png)
+
+
+#### Customizable ad for VAMCs with an MVP Clinic:
+
+If your facility has an MVP clinic ([you can check here](https://www.research.va.gov/mvp/all-clinics.cfm)), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails). Please be sure to resize the PPT to your display size requirements.
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/ppt/digital-ad-customization.pptx">Digital ad customization PPT</a>
+
+
+### Posters
+
+Each PDF poster has the same content but is sized at three different dimensions. Please use whichever size best suits your outreach purposes. For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
+
+- [8.5x11 flyer (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-8.5x11-flyer.pdf)
+- [11x17 poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-11x17-poster.pdf)
+- [24x36 larger poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-24x36-poster.pdf)
+
+### One-pager
+
+This one-pager explains what MVP is, how participation in MVP can help Veterans’ health, what it means to participate, and how to enroll in the program.
+
+- [One-pager (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-1-pager.pdf)
+
+
+### Social media toolkit
+
+Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets. Please use the below graphic sized by platform to accompany your post or tweet. VA social media managers can also post this content directly from VA’s Social Studio.
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/doc/MVP-1M-campaign-social-media-toolkit.docx">Social media toolkit (Word doc)</a>
+
+
+### Social media graphics
+
+- [Facebook image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-FB.png)
+- [Instagram image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-IG.png)
+- [Twitter image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Twitter.png)
+
+### Other content
+
+Note: Newest content is listed first
+- [VAntage Point: Million Veteran Program – 10 years, 850,000 Veterans, and one dream to revolutionize health care](https://blogs.va.gov/VAntage/96392/million-veteran-program-10-years-850000-veterans-and-one-dream-to-revolutionize-health-care)
+
+
+
+
+
+## Women Veterans Campaign Toolkit
 
 The Million Veteran Program invites you to join our campaign to engage and enroll more women Veterans. 
 
 **Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/MVP-Women-Veterans-Initiative-Brief.pdf">one-page briefer (PDF)</a>.
-
-**Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
 You can help by sharing the materials uploaded to this communication toolkit:
 1. [Ad for VAMC televisions and digital screens](#ad-for-vamc-televisions-and-digital-screens)
@@ -24,9 +103,9 @@ You can help by sharing the materials uploaded to this communication toolkit:
 
 Please feel free to distribute and share as appropriate. 
 
-**Questions?** Contact Jennifer.Deen@va.gov or Shakeria.Cohen@va.gov
+**Questions?** Contact Jennifer.Deen@va.gov or Claudia.Gutierrez@va.gov
 
-## Ad for VAMC televisions and digital screens
+### Ad for VAMC televisions and digital screens
 
 Below are two advertisements that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms. One is a customizable PowerPoint for VAMCs with local MVP clinics to include the location of the local MVP clinic (i.e., floor and room number). It is not permissible to include local contact information (staff phone numbers/emails). The other is not customizable and can be displayed at any VAMC, whether or not they have a local MVP clinic.
 
@@ -36,7 +115,7 @@ Below are two advertisements that can be used on digital screens in elevators, w
 <!--- - [PPT (with customizable text for room/floor)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/ppt/digital-ad-gwendolyn.pptx)
 --->
 
-## Flyers and posters
+### Flyers and posters
 
 Each PDF flyer has the same content but different portraits. Please use whichever flyer best reflects the audience you’re engaging or wish to engage. 
 
@@ -55,7 +134,7 @@ All PDF flyers and posters:
 - Shyla: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla-11x17.pdf)
 - Teresa: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa-11x17.pdf)
 
-## One pager (flyer and posters)
+### One pager (flyer and posters)
 
 This one-pager explains what it means to participate in MVP, how participation can help women’s health, and how to enroll in the program.
 
@@ -65,16 +144,16 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet-11x17.pdf">11x17 MVP one-pager poster (PDF)</a>
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-08-MVP-Women-poster-27x33.pdf">27x33 MVP one-pager large poster (PDF)</a>
 
-## Videos
+### Videos
 
-### PSA video
+#### PSA video
 
-Below is a 30-second PSA video and accompanying VAntage Point story that can be used to help spread teh word about MVP at your facility:
+Below is a 30-second PSA video and accompanying VAntage Point story that can be used to help spread the word about MVP at your facility:
 
 - [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
 - [VAntage Point story about PSA](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
 
-### Testimonial videos
+#### Testimonial videos
 
 - [Army Veteran Deb Kramer on joining VA's genetic research program](https://youtu.be/xxU9yzMPU_8)
 - [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part I](https://youtu.be/21YLiM_1CIs)
@@ -89,14 +168,14 @@ Below is a 30-second PSA video and accompanying VAntage Point story that can be 
 - [Army Veteran Tanya Bradsher on joining VA's genetic research program](https://youtu.be/-_IL668DFp4)
 
 
-## Newsletter blurbs
+### Newsletter blurbs
 
 Below are two blurbs that can be used in emails or newsletters to Veterans, VA employees, and other relevant audiences.
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Newsletter-Blurbs-Short-and-Long-FINAL.docx">PSA newsletter blurbs</a>
 
 
-## Women Veterans in Research FAQ
+### Women Veterans in Research FAQ
 
 This FAQ explains how MVP is prioritizing women Veterans in research, and why it’s important to engage women in genomics research. 
 
@@ -105,9 +184,9 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/Women-Veterans-Fact-Sheet.pdf">Women Veterans in Research FAQ (PDF)</a>
 
 
-## Social media content
+### Social media content
 
-Below is a Word document with 12 Facebook posts that can be shared by any VA account. You can either copy/paste from this document into your Facebook account,or post directly from VA’s Social Studio.
+Below is a Word document with 12 Facebook posts that can be shared by any VA account. You can either copy/paste from this document into your Facebook account, or post directly from VA’s Social Studio.
 
 If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below called "Graphics for social media". 
 
@@ -120,7 +199,7 @@ For any other day, there are five (5) additional Facebook posts and tweets that 
  
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Social-Media-Content-MVP-PSA-FINAL.docx">PSA social media toolkit</a>
 
-### Facebook with text
+#### Facebook with text
 
 - [Gwendolyn](assets/png/FB-Gwendolyn.png)
 - [Jennifer](assets/png/FB-Jennifer.png)
@@ -131,7 +210,7 @@ For any other day, there are five (5) additional Facebook posts and tweets that 
 - [Shyla](assets/png/FB-Shyla.png)
 - [Teresa](assets/png/FB-Teresa.png)
 
-### Facebook without text
+#### Facebook without text
 
 - [Gwendolyn](assets/png/FB-Gwendolyn-NoText.png)
 - [Jennifer](assets/png/FB-Jennifer-NoText.png)
@@ -142,7 +221,7 @@ For any other day, there are five (5) additional Facebook posts and tweets that 
 - [Shyla](assets/png/FB-Shyla-NoText.png)
 - [Teresa](assets/png/FB-Teresa-NoText.png)
 
-### Twitter with text
+#### Twitter with text
 
 - [Gwendolyn](assets/png/Twitter-Gwendolyn.png)
 - [Jennifer](assets/png/Twitter-Jennifer.png)
@@ -153,7 +232,7 @@ For any other day, there are five (5) additional Facebook posts and tweets that 
 - [Shyla](assets/png/Twitter-Shyla.png)
 - [Teresa](assets/png/Twitter-Teresa.png)
 
-### Twitter without text
+#### Twitter without text
 
 - [Gwendolyn](assets/png/Twitter-Gwendolyn-NoText.png)
 - [Jennifer](assets/png/Twitter-Jennifer-NoText.png)
@@ -164,11 +243,11 @@ For any other day, there are five (5) additional Facebook posts and tweets that 
 - [Shyla](assets/png/Twitter-Shyla-NoText.png)
 - [Teresa](assets/png/Twitter-Teresa-NoText.png)
 
-## Graphics for social media
+### Graphics for social media
 
-Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight womenVeterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
+Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight women Veterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
 
-## Photos of 8 featured Veterans
+### Photos of 8 featured Veterans
 
 Gwendolyn
 
@@ -222,23 +301,23 @@ Teresa
 ---
 
 
-## Feature story for VISN and VAMC websites
+### Feature story for VISN and VAMC websites
 
 This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. **We encourage you to publish this feature story on your VAMC or VISN homepage when your facility's MVP site re-opens (if it hasn't already).**
 
-Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
+Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has an MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
 
 
-## Text for patient instructions
+### Text for patient instructions
 
 To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions (Word doc)</a>
 
 
-## Other content
+### Other content
 
 Note: Newest content is listed first
 - [VAntage Point Blog: MVP study shows effectiveness of genetic screening tool for breast cancer risk](https://blogs.va.gov/VAntage/94078/mvp-study-shows-effectiveness-of-genetic-screening-tool-for-breast-cancer-risk/)

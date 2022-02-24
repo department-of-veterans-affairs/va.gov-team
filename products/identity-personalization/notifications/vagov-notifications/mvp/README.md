@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-Last updated January 5, 2022
+Last updated February 7, 2022
 
 ### Communications
 
@@ -44,7 +44,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 ### Desired User Outcomes
 
-- Users will more easily be able to find the alert for the MVP use case and to act on it more quickly than if we did not have on-site notification functionality.
+- Users will see a debt alert and be able to act on it more quickly than if we did not have on-site notification functionality.
 
 ### Undesired User Outcomes
 

@@ -10,6 +10,29 @@
 <details><summary>Parking lot</summary>
  </details>
 
+## February 22, 2022
+### Agenda
+- Claro launch planned for today; we will be watching the survey results
+- Listening session analysis in progress (Suzanne and Denise)
+- Content strategy for the Veteran benefit experience (Danielle and Mikki) - deck for reference: https://docs.google.com/presentation/d/1TYjP6rOCHGMt30DC8eHjNtQTXRQD2L2W/edit?usp=sharing&ouid=106800558061285222301&rtpof=true&sd=true
+  - there is a big push at the VA for a health-literate healthcare model
+  - Dave: flagging whether we will be monitoring time to completion? Getting them to the start of the funnel while keeping in mind the overarching goal of VA.gov
+  - send any questions comments to Danielle and Mikki via Slack
+
+## February 9, 2022
+### Agenda
+- CMS support for R&S pilot
+  - Erika will arrange some time for further discussion with CMS Content
+  - Content type descriptions: Danielle and Beth will go through it together
+  - content planning participants won't need to be in Drupal
+  - we'll figure out content planner needs before deciding how they may use Drupal
+- Group: any questions about content groups board (https://app.mural.co/t/mikkiva8222/m/mikkiva8222/1642004034812/cf1c56cf22033fd7650baa22bcb60d9a6d0f88db?sender=u31df4f199540466f5c2a0712)?
+- Danielle: a few Community Care people interested in Drupal: send list to Kevin to begin onboarding process
+  - Dave: be aware of using branding, we're getting away from branding
+- Rachel: Claro theme demo
+  - cosmetic change but will allow for better experience with future updates
+
+
 ## January 24, 2022
 ### Agenda
 - Denise: Change Management Framework

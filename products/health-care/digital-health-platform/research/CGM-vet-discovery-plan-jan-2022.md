@@ -130,10 +130,6 @@ Wednesday, February 23
 
 -   9AM - 2PM ET
 
-Thursday, February 24
-
--   9AM - 5PM ET
-
 Friday, February 25
 
 -   9AM - 2PM ET

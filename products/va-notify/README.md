@@ -145,15 +145,15 @@ Lighthouse
 ![](images/vaccine_confirmation.png)
 
 ## Find Out More & Get In Touch With Us
-* Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+miabecker&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
+* Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+mjones-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
 * Slack - [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
 
 
 ## Incident Response ##
 Points of contact:
-* Co-Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
-* Co-Tech Lead: [Philip.Herbert](mailto://philip.herbert@va.gov)
-* Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
+* Lead: [Kyle MacMillan](mailto://kyle.macmillan@oddball.io)
+* Notifications SME: [Jacob Cheriathundam](mailto://jacob@docme360.com)
+* Product Manager: [Melanie Jones](mailto://melanie.jones@oddball.io)
 
 ## Terms and Conditions
 Please refer to the VA's [Digital Notification Terms and Conditions](https://www.va.gov/privacy-policy/digital-notifications-terms-and-conditions/) page to read about the VA's frequency, guidelines and policies around email, text, and online notifications to Veterans.

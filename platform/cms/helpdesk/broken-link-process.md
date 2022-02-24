@@ -1,4 +1,5 @@
 # Help Desk Process for Broken Link Resolution
+This is one step in the [overall broken links strategy](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/broken-links.md).
 
 ## Broken Link Alerts
 

@@ -2,10 +2,11 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+This is a usability test of HLR (Higher Level Review) February 2022. 
+
+Several changes have recently been made to the online HLR form. A comprehensive usability test with actual veterans is needed. 
+
+If a Veteran disagree with VA’s decision, they can request to have a senior reviewer take a new look at their case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error. Veterans can request a HLR online here: https://www.va.gov/decision-reviews/higher-level-review/
 
 [Link to product brief](url goes here).
 
@@ -13,138 +14,94 @@ Briefly describe the background of your product. Consider:
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
-
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Understand the current user experience, what usability issues exist, including confusing or unclear content/copy. 
+2. Is the flow easy to understand and do participants have all the info they need?
+3. Do participants feel that an adequate amount of information is presented?
+4. Can participants go through the flow by themselves, without blockers or problems? 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+This is a post launch usability test that will relieve and correct any remaining usability issues or pain points.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+What usability issues exist within the flow? 
+Are participants able to successfully navigate to and through the form without assistance from the moderator? 
+Is the content and copy clear and concise? 
+Is there ambiguity or confusion experienced by the participants within any of the pages? 
+Do the participants feel that they have all the information they need to complete the flow?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+Veterans can easily go through the HLR flow without any confusion, frustration or blocks. 
+Veterans can go through the flow without any assistance. 
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
-- If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
+We will be conducting a remote, moderated usability study with approximately 8 Veterans (separated from active duty).
+Allowing users to walk through the Form, on their own, in their own environment (at home) can help us detect usability issues.
+We will test the online version of the HLR Form in staging: https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start
+We will log into staging and give the veteran control of our computer so they can navigate the HLR form. 
+We will use Zoom to conduct these sessions.
+The sessions will include a short interview (3-5 min.) about their experience with VA.gov.
+We will ask the participants to go through the HLR Form from its beginning to its end. 
+We will ask participants to speak out loud as they move through the form, and probe for usability issues and relevant feedback. 
+Pre-test interview questions will probe past experiences to unveil contextual details, key frustrations, and goals/purpose behind accessing the HLR form. 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote through Zoom
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/research/UsabilityStudy/Convoguide.md)
+- [Link to prototype](https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start)
 
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment	
-
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
+We will recruit using Perigean. 
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+8 Veterans for this study. We are used to a certain percentage of no-shows, so Perigean will recruit 15 Veterans to get 8 participants. If 8 Veterans have been interviewed for the usability test, the remaining will be cancelled.  
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+All Participants must be Veterans (separated from active duty). 
+The participants must have heard about HLR  OR  have appealed a claims decision in VA before.  
+Participants must be willing and able to: use Zoom, locate and use the chat function in Zoom, the share screen function as well as be willing and able to take over the control of the moderators computer when asked to do this.
+Participants should be able to verbally describe to the researcher what they are trying to accomplish, what they are experiencing, and what they are thinking, as they are interacting with VA.gov and attempt to complete tasks given by the moderator.
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
+50% women, 50% men.
+50% people who identify as an ethnicity/race other Caucasian.
+A mix of educational background. 
+A mix of tech experience / tech savviness.
+At least 1 participant 35 or under and 1 participant over 55.
+At least 1 participant without a college degree.
+ 
 ## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+17,18,21 February
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
-
-Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+It is complete (in staging): https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start 
+* Pilot participant email: kevin.stachura@gcio.com
+* Febr 16, 2022, 2pm EST pilot: 
 
 ### Research sessions
-What dates do you plan to do research? 
+Dates: 17,18,21 February 2022
 
 ### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+Each session will take up to 60 minutes. Please allow for at least 30 minutes between each session. 
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
-	
+Dates: 17 February between 10am and 6pm , 18 February between 10am and 6pm, 21 February between 10am and 6pm
+
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
+- Moderator:				Christian Valla  (Christian.Valla@gcio.com) 
+- Research guide /task development: 	Christian Valla  (Christian.Valla@gcio.com) 
+- Participant recruiting & screening:	Perigean 
+- Project point of contact:		Christian Valla  (Christian.Valla@gcio.com) 
+- Participant(s) for pilot test:   	Kevin S.(Kevin.stachura@gcio.com)
+- Note-takers:				Perigean and Kevin (Kevin.stachura@gcio.com) and 
+- Observers:				Kevin (Kevin.stachura@gcio.com), Ronnie (vhenry@gcio.com), Robin (robin.garrison@adhocteam.us), 
+- 					Michael (michel.mcdonald@adhocteam.us) 

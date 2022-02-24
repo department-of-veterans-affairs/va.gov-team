@@ -1,9 +1,9 @@
 ---
 name: Public Website Intake Form
 about: To file request with the VSA Public Websites
-title: <Type of Request> from <Team>
-labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming
-assignees: Public Websites, brianalloyd
+title: "<Type of Request> from <Team>"
+labels: needs-grooming, vsa, vsa-public-websites, vsa-public-websites-intake
+assignees: brianalloyd
 
 ---
 

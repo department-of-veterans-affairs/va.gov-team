@@ -1,8 +1,9 @@
 ---
 name: Base Front End Development Task
-about: 'basic front end task'
-title: '[FE]' 
+about: basic front end task
+title: "[FE]"
 labels: frontend
+assignees: ''
 
 ---
 

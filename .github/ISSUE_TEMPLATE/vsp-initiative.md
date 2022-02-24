@@ -6,6 +6,7 @@ labels: VSP-Initiative
 assignees: ''
 
 ---
+
 ## Problem Statement 
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
 
@@ -82,4 +83,3 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 ## TODOs
 - [ ] Convert this issue to an epic
 - [ ] Add your team's label to this epic
-
