@@ -16,6 +16,10 @@ _"As a (persona), I (want to), (so that)."_
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
+Additional background for [Launch new Platform Orientation](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/13709) initiative <br />
+Additional background for [Collaboration Cycle - Improve tracking and status visibility of VA.gov products](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/34697) initiative <br />
+Additional background for [Collaboration Cycle - Transition VFS research activities to Platform](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/32698) initiative
+
 ## New Artifacts 
 
 ## Artifacts Potentially / Confirmed Needing Updates
