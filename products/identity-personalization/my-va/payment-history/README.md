@@ -79,13 +79,13 @@ The addition of a payment information section should help fulfill our north star
 ---
 ## Measuring Success
 
-### Objective: Meet user need/expectation and elevate payment and debt informtion to user dashboard.
+### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil|TBD|TBD|
+|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil (visits to the url)|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
 |Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
 |Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
