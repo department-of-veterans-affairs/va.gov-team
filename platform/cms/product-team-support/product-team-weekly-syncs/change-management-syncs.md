@@ -29,6 +29,8 @@
   - Editor support (Blake and Robin): definition of roles
   - Listening session analysis
 
+- VA Health Connect phone number update
+
 - Coming next 2 weeks: RACI and process mapping
 
 ### Meeting Notes
