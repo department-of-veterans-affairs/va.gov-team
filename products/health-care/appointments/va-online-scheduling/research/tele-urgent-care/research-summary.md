@@ -4,10 +4,10 @@ January 26, 2022
 
 
 # Background and goals
-The goal of our UX research is to ask how might we uncover opportunities to improve the Veteran experience of Tele-Urgent Care?
-Develop a thorough understanding of the Veteran’s end-to-end experience of accessing immediate care at the VA.
-Discover what Veteran needs might be unmet by the current path or proposed solutions. 
-Uncover new opportunities to improve the Veteran experience of Tele-Urgent Care.
+The goal of our UX research is to uncover opportunities to improve the Veteran experience of Tele-Urgent Care. We aim to:
+- Develop a thorough understanding of the Veteran’s end-to-end experience of accessing immediate care at the VA.
+- Discover what Veteran needs might be unmet by the current path or proposed solutions. 
+- Uncover new opportunities to improve the Veteran experience of Tele-Urgent Care.
 
 This research report covers conversational interviews conducted January 5-14, 2022.
 
@@ -23,7 +23,7 @@ The purpose of the January 2022 interviews was to better understand why and how 
 - What information does a Veteran find helpful in preparing for a Tele-Urgent visit?
   
 # Method
-- Sessions were conducted remotely via Zoom and scheduled for 60 minutes. 
+- Sessions were conducted remotely via Zoom and scheduled for 45-60 minutes. 
 - Sessions were conducted over the course of two weeks beginning January 5 and ending January 14. 
 - Remote interviews were used to gain a broader understanding of their experience and attitudes towards tele-medicine. 
 ---
