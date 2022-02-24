@@ -87,8 +87,8 @@
 
 
 ## Screenshots
-
-
+[Workflow] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/10-10%20EZ%20Reminders%20Workflow.JPG)
+[Mural Workflow] (https://app.mural.co/invitation/mural/oddball5855/1645722089026?sender=ian7950&key=7366e5a3-34a8-4ea1-843d-f93f06a3cd1b)
 
 #### Communications
 
