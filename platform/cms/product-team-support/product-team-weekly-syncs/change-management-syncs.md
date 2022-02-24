@@ -67,6 +67,11 @@ VHA creating email and we are editing it
  - The why is key
  - Why is this task valuable for example? We're taking that responsibility for this content off their shoulder.
 
+AIR released March 3: realignment of facilities proposal
+- PAOs will be dealing with lots of inquiries
+- when facilities close down we'll need to know the comms planning
+- will need appropriations
+
 ## February 17, 2022
 ### Agenda (meeting notes follow)
 
