@@ -32,7 +32,7 @@ The top tasks that we identify could be used to measure the overall health of VA
 2. Veterans and caregivers will generally agree on which tasks are the least important.
 
 ## Method: Unmoderated Card Sort	
-We want to to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
+We want to to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
 
 We would like to get complete sorting responses from **at least 30 Veterans and caregivers**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
