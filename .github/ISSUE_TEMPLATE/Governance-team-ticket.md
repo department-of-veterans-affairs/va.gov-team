@@ -10,42 +10,36 @@ assignees: ''
 ## User Story
 _"As a (persona), I (want to), (so that)."_
 
----
-
+- Intended Audience: 
+- Desired Outcome: 
+- Due Date: 
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
----
+## New Artifacts 
 
-## Artifacts Needing Updates
-_What pages or templates do you anticpate requiring updates?_
+## Artifacts Potentially / Confirmed Needing Updates
 
-_Please note that other pages may need edits_
-
----
 ## Tasks
-_Other tasks may be required, please review ticket and add any additional tasks_
 - [ ] _Placeholder task_
-- [ ] _Placeholder task_
-- [ ] _Placeholder task_
-
----
 
 ## Acceptance Criteria
-_Additional AC may exist, add any additional AC as needed_
-- [ ] "Insert Page Name" Confluence document has been [updated per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#3.-Updating-existing-Confluence-documentation)
-- [ ] "Insert Page Name" Confluence document has been [created per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#4.-Creating-new-Confluence-documentation)
-- [ ] "Insert GitHub template" GitHub template has been [created per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#2.-Creating-new-GitHub-issue-templates)
-- [ ] "Insert GitHub template" GitHub template has been [updated per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#1.-Updating-existing-GitHub-issue-templates)
-- [ ] "Insert Platform Website Page" on Platform Website has been [updated per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#5.-Updating-existing-Platform-Website-documentation)
-- [ ] "Insert Platform Website Page" on Platform Website has been [created per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#6.-Creating-new-Platform-Website-documentation)
+- [ ] "Insert Page Name" Confluence document has been updated per guidance
+- [ ] "Insert Page Name" Confluence document has been created per guidance
+- [ ] "Insert GitHub template" GitHub template has been created per guidance
+- [ ] "Insert GitHub template" GitHub template has been updated per guidance
+- [ ] "Insert Platform Website Page" on Platform Website has been updated per guidance
+- [ ] "Insert Platform Website Page" on Platform Website has been created per guidance
 - [ ] Updates have been Peer Reviewed by Governance Team member
 - [ ] User Story need has been fulfilled
 
 ---
 
-## Governance Team Resources
-[Documentation Update Guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance) <br />
+## Related Governance Team Resources
+_For additional information and guidance to complete tasks, please see links below._
+[Documentation Update Guidance for GitHub templates](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/Guidance+for+updating+GitHub+Issue+templates) <br />
+[Documentation Update Guidance for Platform Website pages](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2089091115/Guidance+for+updating+Platform+Website+pages) <br />
+[Documentation Update Guidance for Confluence pages](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2089222173/Guidance+for+updating+Confluence+pages) <br />
 [Guidelines for Governance Team Confluence Space](https://vfs.atlassian.net/wiki/spaces/AP/pages/1127219219/Guidelines+for+Team+spaces) <br />
 [Guidelines for Platform Products and Services Confluence Space](https://vfs.atlassian.net/wiki/spaces/AP/pages/1321140361/Guidelines+for+Platform+Products+and+Services+space) <br />
 [Description of Platform Website spaces and content](https://vfs.atlassian.net/wiki/spaces/AP/pages/1241579796/Organization) <br />
