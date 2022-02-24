@@ -19,6 +19,7 @@
     - [LoROTA](#lorota)
     - [Profile Service](#profile-service)
     - [VA Profile](#va-profile)
+    - [Address validation API](#address-validation-api)
     - [VeTExt](#vetext)
     - [Vets-API](#vets-api)
     - [Vets Website](#vets-website)
@@ -189,15 +190,15 @@ Veterans **cannot** update their _demographics data_[^2] for upcoming appointmen
 - They provide a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 - [Address validation docs](https://developer.va.gov/explore/verification/docs/address_validation?version=current)
 
-#### Address validation API
-Sandbox endpoint: https://sandbox-api.va.gov/services/address_validation/v2/candidate
-Prod endpoint: https://api.va.gov/services/address_validation/v2/candidate
+### Address validation API
+- Sandbox endpoint: https://sandbox-api.va.gov/services/address_validation/v2/candidate
+- Prod endpoint: https://api.va.gov/services/address_validation/v2/candidate
 
-API docs: https://developer.va.gov/explore/verification/docs/address_validation?version=current 
+- API docs: https://developer.va.gov/explore/verification/docs/address_validation?version=current 
 
-Requires an API key for the sandbox and production. I have applied for a sandbox key. For production we will need to apply again.
+- Requires an API key for the sandbox and production. I have applied for a sandbox key. For production we will need to apply again.
 
-Initial research in the comments of this ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/36745
+- Initial research in the comments of this ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/36745
 
 ### [VeTExt](https://www.va.gov/health/VEText.asp)
 
