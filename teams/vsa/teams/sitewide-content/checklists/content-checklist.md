@@ -21,13 +21,12 @@ This checklist is for content authors working in Drupal to use when creating a n
 - [ ] Character limit for subheads: Confirm H2s, H3s, and H4s are within the 70-character limit.
 - [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
 - [ ] Cross linking: Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
-- [ ] Call to action (CTA): When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
+- [ ] Call to action (CTA): When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. Reuse existing CTA text when possible. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
 - [ ] Alternative text ("alt text") for any screen shots on the page: Confirm that screen shots or other images have alt text that describes the image. Screen readers will read this text to the user, and search engines use it to assess the purpose of the page. [Learn how to write alt text on WebAIM](https://webaim.org/techniques/alttext/)
-- [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ. --ADD WHY HERE--
 
 #### Drupal checks
-- [ ] Correct primary article category and additional article categories
-- [ ] Correct benefit hub contacts
-- [ ] Appropriate audience and topic tags
-- [ ] "Repeat CTA buttons" box if it's a long article (to display the action link(s) at both the top and bottom of the page)
+- [ ] Check that the correct primary article category and additional article categories are selected
+- [ ] Check that the correct benefit hub contacts are selected
+- [ ] Check that appropriate audience and topic tags are selected
+- [ ] If the article is long, check the "Repeat CTA buttons" box to display the action link(s) at both the top and bottom of the page
 - [ ] If you want a single Q&A to appear as a stand-alone article and not just as part of a multiple FAQ, click "Enable standalone Resources and support page for this Q&A."
