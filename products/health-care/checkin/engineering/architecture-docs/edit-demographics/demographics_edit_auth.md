@@ -32,6 +32,8 @@ The full authorization session also times out in under an hour which can cause a
 ## Questions
 ### UX Questions
 ### FE Questions
+* Can we have two seperate sessions, one for full authorization and one for check-in experience?
+* What should happen in the flow if the full authorization session expires before the check-in session?
 ### BE Questions
 ## Solutions
 ### UX Solutions
