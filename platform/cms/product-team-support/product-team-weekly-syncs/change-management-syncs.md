@@ -15,14 +15,13 @@
 ## February 24, 2022
 ### Agenda (meeting notes follow)
 
-- Recurring Events (Kevin)
+- Recurring Events (Denise)
 - Top tasks - March 15 launch (TBC)
   - demo (Kevin)
   - emails (VHA draft, timing) and Community of Practice
   - possible test case for new user support process?
-
-- VA Health Connect phone number update
-- auditing tools (Kevin)
+- VA Health Connect phone number demo (Kevin)
+- Auditing tools (Kevin)
 
 
 ## February 17, 2022
