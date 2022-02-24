@@ -4,6 +4,16 @@
 ## Problem Statement
 
 - How can we help remind Veterans of their incomplete applications?
+
+## Who, What, When, Where, Why
+*What:* Send email reminders to Veterans when an application has been started but not completed.
+
+*Who:* Veterans who have begun to fill out the 10-10 EZ (while authenticated) but haven’t submitted.
+
+*When:* Reminders will be sent 7 days after they began the application, then 30 days, 53 days, and finally 59 days. When the application is submitted the further reminders end.
+
+*Why:* The reminders will encourage the Veteran to submit the application in order to receive benefits sooner. By following the link in the reminder it will streamline quickly take them back to the in progress application.
+
  
 ## Desired User Outcomes
 
@@ -90,6 +100,22 @@
 [Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/10-10%20EZ%20Reminders%20Workflow.JPG)
 
 [Mural Workflow](https://app.mural.co/invitation/mural/oddball5855/1645722089026?sender=ian7950&key=7366e5a3-34a8-4ea1-843d-f93f06a3cd1b)
+
+## Keep in Mind
+- Should allow us to re-use the code/process for additional forms
+- Allow customization of delivery time and frequency
+- Multiple applications can be “in progress”
+- All authenticated forms have the ability to be saved in progress
+- The form authenticated form. Unauthenticated forms are not tied to the profile id
+- The “in progress” application expires after 60 days
+
+## Questions
+- What happens if they try to start the same application again?
+- What link should be included in the reminder?
+    - Direct to the application that is “in progress”
+    - Send them to their “My VA” page and have them scroll down to find the applications they began
+    - Send them to their “My VA” page and automatically scroll them to the application section
+
 
 #### Communications
 
