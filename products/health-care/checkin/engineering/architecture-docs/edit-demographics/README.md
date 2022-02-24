@@ -189,7 +189,7 @@ Veterans **cannot** update their _demographics data_[^2] for upcoming appointmen
 - They provide a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 - [Address validation docs](https://developer.va.gov/explore/verification/docs/address_validation?version=current)
 
-#### Address API
+#### Address validation API
 Sandbox endpoint: https://sandbox-api.va.gov/services/address_validation/v2/candidate
 Prod endpoint: https://api.va.gov/services/address_validation/v2/candidate
 
@@ -197,117 +197,7 @@ API docs: https://developer.va.gov/explore/verification/docs/address_validation?
 
 Requires an API key for the sandbox and production. I have applied for a sandbox key. For production we will need to apply again.
 
-##### How do we use it:
-Make a POST request to the endpoint with the following body for the address:
-```
-{
-  "requestAddress": {
-    "addressLine1": "string",
-    "addressLine2": "string",
-    "addressLine3": "string",
-    "city": "string",
-    "zipCode5": "string",
-    "zipCode4": "string",
-    "internationalPostalCode": "string",
-    "stateProvince": {
-      "name": "string",
-      "code": "string"
-    },
-    "requestCountry": {
-      "countryName": "string",
-      "countryCode": "string"
-    },
-    "addressPOU": "RESIDENCE/CHOICE"
-  }
-}
-```
-
-It will return a JSON object in this structure:
-```
-{
-  "messages": [
-    {
-      "code": "string",
-      "key": "string",
-      "text": "string",
-      "severity": "INFO",
-      "potentiallySelfCorrectingOnRetry": true
-    }
-  ],
-  "candidateAddresses": [
-    {
-      "messages": [
-        {
-          "code": "string",
-          "key": "string",
-          "text": "string",
-          "severity": "INFO",
-          "potentiallySelfCorrectingOnRetry": true
-        }
-      ],
-      "address": {
-        "addressLine1": "string",
-        "addressLine2": "string",
-        "addressLine3": "string",
-        "city": "string",
-        "zipCode5": "string",
-        "zipCode4": "string",
-        "internationalPostalCode": "string",
-        "county": {
-          "name": "string",
-          "countyFipsCode": "string"
-        },
-        "stateProvince": {
-          "name": "string",
-          "code": "string"
-        },
-        "country": {
-          "name": "string",
-          "code": "string",
-          "fipsCode": "string",
-          "iso2Code": "string",
-          "iso3Code": "string"
-        }
-      },
-      "geocode": {
-        "calcDate": "2022-02-10T23:46:42.916Z",
-        "locationPrecision": 0,
-        "latitude": 0,
-        "longitude": 0
-      },
-      "usCongressionalDistrict": "string",
-      "addressMetaData": {
-        "confidenceScore": 0,
-        "addressType": "string",
-        "deliveryPointValidation": "CONFIRMED",
-        "residentialDeliveryIndicator": "RESIDENTIAL",
-        "nonPostalInputData": [
-          "string"
-        ],
-        "validationKey": 0
-      }
-    }
-  ]
-}
-```
-
-I am assuming that warnings or success will be returned in the messages object. From there we will need to provide displays for several scenarios including but not limited to: 
-
-- Message with warnings and allow the veteran to submit anyway or go back and correct
-- Message with alternative suggestions for the address submitted that allow the veteran to choose from or submit anyway or go back and manually correct
-- API Error message
-- Submission Error (non address validation error)
-
-### Things to look out for:
-One unfortunate thing is that it looks like the endpoint can sometimes return a non-standard object. For example 401, 403, and 429 errors will return a singular message key with a string value instead of the plural messages key with an array value like so:
-```
-{
-  "message": “message”
-}
-```
-
-Which means that we will need to check for both when catching errors. 500 and 404 errors will return the plural array format.
-
+Initial research in the comments of this ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/36745
 
 ### [VeTExt](https://www.va.gov/health/VEText.asp)
 
