@@ -20,6 +20,7 @@
   - demo (Kevin)
   - emails (VHA draft, timing) and Community of Practice
   - possible test case for new user support process?
+  - Beta user test (Denise) 
 - VA Health Connect phone number demo (Kevin)
 - Auditing tools (Kevin)
 
