@@ -17,6 +17,10 @@
 
 - VA Health Connect phone number demo (Kevin)
 - Auditing tools (Kevin)
+  - Facility health services
+  - VA Health Connect
+  - Cerner
+  - Top task
 
 
 ## February 24, 2022
