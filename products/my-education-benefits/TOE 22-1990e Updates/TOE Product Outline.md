@@ -1,5 +1,4 @@
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
 
@@ -7,7 +6,7 @@
 Updating the 22-1990e Transfer of Entitlement (TOE) Form for Authenticated Users
 
 ## Problem Statement
-Currently, the authenticated experience as a user applying for TOE benefits has to follow the same lenghty form as an unauthenticated one, with the minor perk of pre-filled contact information on file. In FY2020, there were over 120,000 TOE students (14% of all beneficiaries) that applied via the manual paper form or the online 22-1990e through Va.Gov. As part of our greater goal to digitize the GI Bill process for all users - the My Education Benefits team is looking to improve and expedite the authenticated experience for TOE applicants. 
+Currently, the authenticated experience as a user applying for TOE benefits has to follow the same lenghty form as an unauthenticated one, with the minor perk of pre-filled contact information on file. This is an opportunity to improve processes for over 120,000 TOE students (14% of all edu beneficiaries) that applied via the 22-1990e (data as of FY2020). As part of our greater goal to digitize the GI Bill process for all users - the My Education Benefits team is looking to improve and expedite the authenticated experience for TOE applicants. 
 
 Thus,
 **How might we improve TOE claims processing and the user experience?** 
@@ -23,9 +22,9 @@ Thus,
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-- Lessen
+- Shorter education application processing times for veterans so they can use their benefits promptly
+
+- Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks
 
 ## Undesired Business Outcomes
 
@@ -35,31 +34,18 @@ Thus,
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+To measure the effectiveness of the application in accomplishing its objectives, we will track:
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+- Visitor traffic to the website
+- Time spent completing each page and identify any sections that may be making veterans spend a sizeable amount of time completing
+- Abandon rate by page
+- Percentage of users that complete a submission after starting an application
+- Percentage of users getting an automated approval/denial letter as opposed to requiring a manual review to identify automation improvements
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, TOE sponsor information, letters, and submit applications.
 
 ## Solution Approach
 
@@ -67,26 +53,27 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
-
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+How are Veterans and others using this product going to know it exists?
+
+Veterans will be informed about My Education Benefits through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
+What marketing, outreach, or communications are necessary for this product to be successful?
+
+GI Bill Student Newsletter and SCO Newsletter blog posts
+VAntage Point blog
+Social media posts
+benefits.VA.gov website updates (including a potential DGIB campaign landing page)
+Email comms
+Product Features video walking users through the new My Education Benefits experience
+A video on how to complete your 22-1990e TOE GI Bill application with the new enhancements
+Media Outreach
+Mentions at the GI Bill School Tour
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - September 2022
 
 ---
 
@@ -110,11 +97,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+Team Name: My Education Benefits
+GitHub Label: @department-of-veterans-affairs/my-education-benefits
+Slack channel: education-benefits
+Product POCs: Cesar Santiago (tech lead), Shamik Desai (PM)
+Stakeholders: Tammy Hurley, Robert Holbrook
 
 </details>
 
@@ -122,10 +109,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+Shamik Desai: Product Manager
+Cesar Santiago: Tech Lead
+Audra Ayotte: HCD Lead
+Russell Lyons: Businesss Lead
  
 </details>
 
@@ -134,6 +121,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+Education Service | Veterans Benefits Administration
  
 </details>
