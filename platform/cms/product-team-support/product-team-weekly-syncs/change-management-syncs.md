@@ -16,7 +16,7 @@
 ### Agenda (meeting notes follow)
 
 - Recurring Events (Kevin)
-- Top tasks 
+- Top tasks - March 15 launch (TBC)
   - demo (Kevin)
   - outstanding items for change management, including dry run (Kevin, Denise, Suzanne)
   - auditing tools (Kevin)
