@@ -221,7 +221,7 @@ is an interactive mobile solution to send notifications through text messages to
 ### Feature Documentation
 
 - [Integration with Authentication](demographics_edit_auth.md)
-- [Edit data flow](demographics_edit_flow.md)
+- [Edit data flow](demographics_edit_data_flow.md)
 
 ### Use the existing VA Profile service exclusively
 
