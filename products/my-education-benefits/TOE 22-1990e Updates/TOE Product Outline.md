@@ -9,7 +9,7 @@ Updating the 22-1990e Transfer of Entitlement (TOE) Form for Authenticated Users
 Currently, the authenticated experience as a user applying for TOE benefits has to follow the same lenghty form as an unauthenticated one, with the minor perk of pre-filled contact information on file and a saved app. This is an opportunity to improve processes for over 120,000 TOE students (14% of all edu beneficiaries) that applied via the 22-1990e (data as of FY2020). As part of our greater goal to digitize the GI Bill process for all users - the My Education Benefits team is looking to improve and expedite the authenticated experience for TOE applicants. 
 
 Thus,
-**How might we improve TOE claims processing and the user experience?** 
+**How might we improve TOE claims processing while also considering the user experience?** 
 
 ## Desired User Outcomes
 
