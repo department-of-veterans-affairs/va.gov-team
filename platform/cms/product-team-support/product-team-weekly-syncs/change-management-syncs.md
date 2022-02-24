@@ -33,6 +33,19 @@
   - possible test case for new user support process?
   - Beta user test (Denise) 
 
+### Meeting Notes
+
+Top Tasks
+Editors can control everything now, including React widgets, which is overwhelming. We're moving from "junk drawer" pages to more structured content. A lot of this content was cloned so a mixed bag of best practices that reflect snapshots in time of content design practice. For most VAMCs, this should be seamless. Same URl. Content is the same. 
+What's different: more structured hours and location information 
+Gray boxes suggest what you can't edit. Dave:
+- adding gray boxes has front end, back end, change management and IA/usability considerations
+- what problem are we tryig to solve is part of this process
+- goal is to do more of these on pages like suicide prevention and womens health to avoid duplicated content
+Dave: Phone number missing extension? ==> TURN ON OPTION WITH EXTENSION
+Potential confusion between editing a loation with multiple pay offices and adding a facility
+- in many cases can use existing address, hours and phone system level info
+- at publish, it will unpublish the old page and use that URL for the new content
 
 ## February 17, 2022
 ### Agenda (meeting notes follow)
