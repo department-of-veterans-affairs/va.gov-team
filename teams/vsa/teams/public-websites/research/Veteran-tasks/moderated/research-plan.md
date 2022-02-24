@@ -35,7 +35,7 @@ The feedback we get on the card sort will be used to refine it to better prepare
 ## Method: Moderated Sessions over Zoom	
 We will conduct remote moderated research sessions via Zoom. Research participants will be asked about VA-related tasks that they do, and then they will be given a card sort activity link to do independently while sharing their web browser screen and talking aloud.
 
-The card sort will be built in Optimal Workshop and will contain a list of about 30 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
+The card sort will be built in Optimal Workshop and will contain a list of about 30 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
 
 *Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.*
 
