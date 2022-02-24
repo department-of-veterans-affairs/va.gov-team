@@ -40,12 +40,12 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 * Do you access Veteran health care?
 
 ### **Section 2: Tele-Health Experience**
-* Have you had a tele-health care experience before? 
+* Have you had a virtual health care visit before - that occurred via phone or video chat? 
 	* If yes, can you tell me about your experience?
 		* Can you tell me more about how long it took?
 		* What went well?
 		* Did you encounter any obstacles? If yes, what did you do to recover?
-	* If no, how would you go about finding it?
+	* If no, would virtual health care be useful to you and why?
 
 ### **Section 3: Finding Tele-Urgent at the VA**
 * Hypothetically, if you had a non-emergency health concern, how might you go about finding care for your concern at the VA?
