@@ -22,9 +22,9 @@ Thus,
 
 ## Desired Business Outcomes
 
-- Shorter education application processing times for veterans so they can use their benefits promptly
+- Shorter education application processing times for students so they can use their benefits promptly
 
-- Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks
+- Lower workload on VCEs thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks
 
 ## Undesired Business Outcomes
 
@@ -37,7 +37,7 @@ Thus,
 To measure the effectiveness of the application in accomplishing its objectives, we will track:
 
 - Visitor traffic to the website
-- Time spent completing each page and identify any sections that may be making veterans spend a sizeable amount of time completing
+- Time spent completing each page and identify any sections that may be making aplicants spend a sizeable amount of time completing
 - Abandon rate by page
 - Percentage of users that complete a submission after starting an application
 - Percentage of users getting an automated approval/denial letter as opposed to requiring a manual review to identify automation improvements
@@ -45,7 +45,7 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ---
 
 ## Assumptions
-VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, TOE sponsor information, letters, and submit applications.
+VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, TOE sponsor information, letters, and submitted applications.
 
 ## Solution Approach
 
@@ -59,17 +59,18 @@ VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) s
 How are Veterans and others using this product going to know it exists?
 
 Veterans will be informed about My Education Benefits through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
+
 What marketing, outreach, or communications are necessary for this product to be successful?
 
-GI Bill Student Newsletter and SCO Newsletter blog posts
-VAntage Point blog
-Social media posts
-benefits.VA.gov website updates (including a potential DGIB campaign landing page)
-Email comms
-Product Features video walking users through the new My Education Benefits experience
-A video on how to complete your 22-1990e TOE GI Bill application with the new enhancements
-Media Outreach
-Mentions at the GI Bill School Tour
+- GI Bill Student Newsletter and SCO Newsletter blog posts
+- VAntage Point blog
+- Social media posts
+- benefits.VA.gov website updates (including a potential DGIB campaign landing page)
+- Email comms
+- Product Features video walking users through the new My Education Benefits experience
+- A video on how to complete your 22-1990e TOE GI Bill application with the new enhancements
+- Media Outreach
+- Mentions at the GI Bill School Tour
 
 ## Launch Dates
 - *Target Launch Date*
@@ -100,7 +101,7 @@ Mentions at the GI Bill School Tour
 Team Name: My Education Benefits
 GitHub Label: @department-of-veterans-affairs/my-education-benefits
 Slack channel: education-benefits
-Product POCs: Cesar Santiago (tech lead), Shamik Desai (PM)
+Product POCs: Cesar Santiago (tech lead), Russell Lyons (Businesss Lead), Shamik Desai (PM)
 Stakeholders: Tammy Hurley, Robert Holbrook
 
 </details>
