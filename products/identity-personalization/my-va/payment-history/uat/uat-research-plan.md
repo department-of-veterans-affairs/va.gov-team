@@ -152,3 +152,4 @@ Please list the people who will be serving in each role.
   - lihan@adhocteam.us
   - taylor.mitchell@gcio.com
   - liz.lantz@adhocteam.us
+  - christina.gednalske@adhocteam.us
