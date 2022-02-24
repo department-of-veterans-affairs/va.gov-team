@@ -489,6 +489,13 @@ To much red tape and duplication of efforts
     - Since Vets-API already integrates with Lighthouse, should we consider integrating it with the new VA Profile endpoints on the API Gateway?
   - Where can we view the VA Profile swagger(or equivalent) documentation?(02/24/2022)
   - Can we work on Edit and Test environment in parallel?
+- 02/24/2022 Sprint Planning Continued
+  - vets-api will integrate directly with lighthouse (not CHIP) for address verification
+  - Stephen will work to get a timeline on lighthouse profile read/write api
+  - if lighthouse timeline is too long, vets-api will work to integrate directly with va profile api
+  - FE will work on both full auth and edit screens, kept behind feature flag
+  - BE will work on setting up scaffolding the Lighthouse integration and mock data
+  - Spike for figuring out how to handle minimal auth session vs full blown auth session
 
 [^1]: **Fully authenticated**: User has authenticated on va.gov using their ID.me account or another identity provider.  
 [^2]: **Demographics data**: Includes veteran contact information, next of kin information, and emergency contact information.  
