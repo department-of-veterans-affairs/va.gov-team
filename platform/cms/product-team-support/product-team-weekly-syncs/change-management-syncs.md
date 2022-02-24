@@ -11,6 +11,13 @@
 <details><summary>Parking lot</summary>
  - item
  </details>
+ 
+ 
+## March 2, 2022
+
+- VA Health Connect phone number demo (Kevin)
+- Auditing tools (Kevin)
+
 
 ## February 24, 2022
 ### Agenda (meeting notes follow)
@@ -21,8 +28,6 @@
   - emails (VHA draft, timing) and Community of Practice
   - possible test case for new user support process?
   - Beta user test (Denise) 
-- VA Health Connect phone number demo (Kevin)
-- Auditing tools (Kevin)
 
 
 ## February 17, 2022
