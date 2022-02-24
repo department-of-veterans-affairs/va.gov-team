@@ -42,10 +42,23 @@ Gray boxes suggest what you can't edit. Dave:
 - adding gray boxes has front end, back end, change management and IA/usability considerations
 - what problem are we tryig to solve is part of this process
 - goal is to do more of these on pages like suicide prevention and womens health to avoid duplicated content
+- I do want to harden as much content as possible
+- Kev: hardening does take coordination but it can be added fairly easily, particulalrly to existing centralized content
+- During launch we will publish 139 pages in prod. You can see which locations have edited this content.
 Dave: Phone number missing extension? ==> TURN ON OPTION WITH EXTENSION
 Potential confusion between editing a loation with multiple pay offices and adding a facility
 - in many cases can use existing address, hours and phone system level info
 - at publish, it will unpublish the old page and use that URL for the new content
+
+Top tasks - blueprint (user journey)
+We'll share with VHA DM
+Added the dry run and beta test phase
+VHA creating email and we are editing it
+- we provide a summary of what is changing, why and what it means to a VHA editor (elevator version) ==> ASAP
+- liked the Claro version
+- We'll be creating their pages for the beta users manually
+- mailing list: have Outlook group VA CMS but concerned that it will get outdated so CMS team can generate a CSV file
+- eventually there will be a "secret" link that VHADM can access to get the csv on demand
 
 ## February 17, 2022
 ### Agenda (meeting notes follow)
