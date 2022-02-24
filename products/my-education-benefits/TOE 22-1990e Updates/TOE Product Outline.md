@@ -15,7 +15,7 @@ Thus,
 
 - Pre-filled information on file for authenticated users, _including_ an updated method for pre-filling and selecting a sponsor that has already transferred their benefits to the applicant
 - New & intuitive designs with a shortned flow that only asks the most important questions required for processing
-- The ability to yield an instant decision after submitting the application for authenticated users
+- The ability to yield an instant decision after submitting the application for some authenticated users
 
 ## Undesired User Outcomes
 
