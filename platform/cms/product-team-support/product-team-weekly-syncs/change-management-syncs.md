@@ -18,7 +18,7 @@
 - Recurring Events (Kevin)
 - Top tasks - March 15 launch (TBC)
   - demo (Kevin)
-  - outstanding items for change management, including dry run (Kevin, Denise, Suzanne)
+  - emails (VHA draft, timing) and Community of Practice
   - auditing tools (Kevin)
 
 ## February 17, 2022
