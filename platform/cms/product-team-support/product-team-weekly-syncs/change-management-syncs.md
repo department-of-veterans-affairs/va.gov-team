@@ -15,6 +15,15 @@
 ## February 24, 2022
 ### Agenda (meeting notes follow)
 
+- Recurring Events (Kevin)
+- Top tasks 
+  - dry run (Kevin)
+  - outstanding items for change management
+  - auditing tools
+
+## February 17, 2022
+### Agenda (meeting notes follow)
+
 - Claro and Recurring Events update (Rachel Kauff)
 
 - Top Tasks update
