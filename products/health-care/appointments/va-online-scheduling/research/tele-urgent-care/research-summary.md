@@ -4,7 +4,7 @@ January 26, 2022
 
 
 # Background and goals
-The goal of our UX research is to uncover opportunities to improve the Veteran experience of Tele-Urgent Care. We aim to:
+The goal of our UX research is to ask how might we uncover opportunities to improve the Veteran experience of Tele-Urgent Care?
 - Develop a thorough understanding of the Veteran’s end-to-end experience of accessing immediate care at the VA.
 - Discover what Veteran needs might be unmet by the current path or proposed solutions. 
 - Uncover new opportunities to improve the Veteran experience of Tele-Urgent Care.
