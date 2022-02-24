@@ -1,24 +1,22 @@
 # Content standards checklist
 
-## For all VA.gov pages (including those in Resources and Support)
+This checklist is for content authors working in Drupal to use when creating a new page in our resources and support section. Content authors should complete this checklist to make sure their new content aligns with the standards in the VA.gov style guide. 
 
-**Before you begin:**
-- [ ] Confirm that there are no updates by other content authors that are in draft form and not yet ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
+**Note:** The content team will confirm that the items on this list have been accounted for before publishing. If one of these standards hasn't been met, they'll make any necessary changes or edits.
 
 ### Accessibility standards
 
-- [ ] Confirm all links contain a purpose and a target. A user should be able to tell from just the link text what the link does and where it is sending them. [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
-- [ ] If your link will take the user off VA.gov, tell them where they'll land: Make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov and where they're going. The text link above is an example of this.
+- [ ] If your link or button will take the user off VA.gov, confirm that the text for the link or button contains a purpose and a target. The user should be able to tell from the link or button text what the call to action (CTA) is and where they will end up if they click on the link. The following link is an example of this in action: [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/) NOTE: After we add a link to this from our style guide entry for "Page titles and section titles", change this content checklist link to point to our style guide entry.
 
-### Link standards
+### Link checks
 
 - [ ] Confirm that links work (aren't broken--no error message) and point to the intended page (you pasted in the correct URL or chose the correct node ID).
 - [ ] Confirm all link text is 100 characters or less.
 - [ ] Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to does not live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
 
-### Resources and Support article standards
+### General resources and support article standards
 
 - [ ] Character limit for subheads: Confirm H2s, H3s, and H4s are within the 70-character limit.
 - [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
