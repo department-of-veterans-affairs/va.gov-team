@@ -64,7 +64,6 @@
 |Patrick Bateman|Product Owner/Office of the CTO|patrick.bateman@va.gov|
 |Stephen Barrs|Architect/Lead|stephen.barrs@va.gov|
 |Corey Parker|Sr. Product Manager|corey.parker@gcio.com|
-|Julie Adair|Product Manager|julie.adair@agile6.com|
 |Kristen McConnell|Managing Senior UX Designer HCE|Kristen.McConnell@adhocteam.us|
 |Nira Datta|UX/Content/Research|nira.datta@civicactions.com|
 |Ya-ching Tsao|Product Designer HCE|yaching.tsao@civicactions.com|
