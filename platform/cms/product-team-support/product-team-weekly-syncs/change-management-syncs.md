@@ -59,6 +59,13 @@ VHA creating email and we are editing it
 - We'll be creating their pages for the beta users manually
 - mailing list: have Outlook group VA CMS but concerned that it will get outdated so CMS team can generate a CSV file
 - eventually there will be a "secret" link that VHADM can access to get the csv on demand
+- Community of Practice: discussed with Jenny who wants to deliberate further on process and roles
+- User group idea: Dave would like to discuss pros and cons
+- Beta test the user support process: Jeff thinks yes
+- Jeff: How much change can we manage and editors experience?
+ - Dave: we're being congnizant of what we are asking and why and how frequently
+ - The why is key
+ - Why is this task valuable for example? We're taking that responsibility for this content off their shoulder.
 
 ## February 17, 2022
 ### Agenda (meeting notes follow)
