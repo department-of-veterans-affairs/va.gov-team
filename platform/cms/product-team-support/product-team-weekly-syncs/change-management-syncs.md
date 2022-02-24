@@ -18,8 +18,7 @@
 - Recurring Events (Kevin)
 - Top tasks 
   - demo (Kevin)
-  - outstanding items for change management (Kevin, Denise, Suzanne)
-   - dry run
+  - outstanding items for change management, including dry run (Kevin, Denise, Suzanne)
   - auditing tools (Kevin)
 
 ## February 17, 2022
