@@ -1,4 +1,4 @@
-# Demographics Authentication/Autherization Engineering Architecture
+# Demographics Authentication/Authorization Engineering Architecture
 ## Table of Contents
 - [Related Documents](#related-documents)
 - [Problem Statement](#problem-statement)
@@ -25,6 +25,9 @@
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)  
 
 ## Problem Statement
+Currently our minimal authorization session gets overwritten by the session created when doing a full authorization. When getting routed back to the check-in application after doing a full authentication, the veteran is required to complete the minimal authorization again. We need to be able to preserve the read.full permission state from the minimal authentication session after doing a full authentication to allow the veteran to continue with check-in/pre-check-in from where they left off.
+
+The full authorization session also times out in under an hour which can cause a veteran to loose access to the check-in application that should have a persistant session for 12 hours.
 ## Measuring Success
 ## Questions
 ### UX Questions
