@@ -485,8 +485,9 @@ To much red tape and duplication of efforts
 ## Meetings: Notes and next steps
 - 02/23/2022 Sprint Planning Breakout Session
   - Bring up VA Profile service integration with CHIP during team-of-teams meeting tomorrow(02/24/2022)
-  - Status of VA Profile(API) sandbox environment for the Check-In team(02/24/2022)
-  - Discuss with Stephen Barrs and Shane Eliot
+    - Should we integrate with Lighthouse, aka API Gateway, and wait for all the VA Profile endpoints to move to developer.va.gov?
+    - Since Vets-API already integrates with Lighthouse, should we consider integrating it with the new VA Profile endpoints on the API Gateway?
+  - Where can we view the VA Profile swagger(or equivalent) documentation?(02/24/2022)
   - Can we work on Edit and Test environment in parallel?
 
 [^1]: **Fully authenticated**: User has authenticated on va.gov using their ID.me account or another identity provider.  
