@@ -2,11 +2,13 @@
 
 This document describes the current integration requirements around the MHV account identifier when accessing MHV APIs from a system like VA.gov, and discusses options for how that integration may be changed.
 
+_See Conversation Notes section for updates._
+
 ## Terminology
 * **Credential** - The username/password (currently one of ID.me/DSlogon/MHV, and soon to include Login.gov) that a user uses to log in to VA websites. 
 * **MHV Account** - A record of a user within the MHV system. An MHV account is identified by a numeric MHV Account ID. This record includes other information about the user. It is usually, but not always, associated with an MHV credential. 
 * **MPI** - Master Person Index - VA's central repository of VA-related persons; each person's record includes the correlated identifiers (such as the MHV Account ID) that map to the person in other VA systems. 
-* **MHV Account Tier** - MHV accounts are classified in multiple tiers according to whether the user has been identity proofed. A user may self-register for an MHV `Basic` account, which only allows access to a few features like self-entered data. A user who has been identity proofed either remotely or in-person is upgraded to an MHV `Premium` account which allows access to all features. There is also an intermediary MHV `Advanced` account that is being deprecated. 
+* **MHV Account Tier** - MHV accounts are classified in multiple tiers according to whether the user has been identity proofed. A user may self-register for an MHV `Basic` account, which only allows access to a few features like self-entered data. A user who has been identity proofed either remotely or in-person is upgraded to an MHV `Premium` account which allows access to all features. There is also an intermediary MHV `Advanced` account that is being deprecated.<br/>
 * **SSOe** - Single Sign On External - VA's central identity broker and single sign on provider. Both VA.gov and MHV are integrated with SSOe, though through different mechanisms. 
 
 ## Current user-facing behavior
@@ -91,6 +93,18 @@ Instead of recording account tier as a persistent state of the account, derive a
 
 ### 5. Figure out how to link information about low-assurance credentials 
 
-## Recommendation
+## Conversation Notes
+Per discussion with MHV architect on 2/23/2022:
 
+MHV is moving steadily towards only supporting premium accounts. The `advanced` account was renamed to `linked basic` account, and deprecated. And there's little appetite for supporting basic accounts. 
+* This would simplify the need to derive the account type, though we might need it to deal with existing accounts. 
+* It would also mean we could consolidate the account creation+upgrade into one step. 
+* Finally, there would be no MHV accounts that were not present in MPI, which would make discoverability much simpler. 
+
+## Recommendation
+* Continue to use the account creation API, but make it more robust and reflective of current state.
+* Happy path is that there are only two states: either the user has an MHV IEN (identifier) in MPI, or they don't, but are eligible for one (aka are a VA patient). If they don't, we invoke the account creation API to create one for them, with no user action required. 
+* Don't create MHV accounts for low-assurance users. 
+* If we anticipate any interval where there are multiple account levels that need supporting, create a proper API for determining them. But ideally, only allow access from VA.gov for the premium/full-access account level, for identity proofed users. 
+* TBD whether the trigger to create an account will happen on the VA.gov frontend or within vets-api (e.g. as an after-login action), but if on the frontend, we can create a reusable React wrapper that gates access to any health features. 
 
