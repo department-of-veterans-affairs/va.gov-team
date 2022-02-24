@@ -3,7 +3,7 @@
 
 ---
 
-The purpose of this document is to provide a clearinghouse for research and design resources used across all eBenefits Migration features.
+The purpose of this transition document is to provide a clearinghouse for research and design resources used across all eBenefits Migration features.
 
 ---
 
