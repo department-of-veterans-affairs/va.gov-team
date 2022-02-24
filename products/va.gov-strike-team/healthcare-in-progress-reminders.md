@@ -3,25 +3,23 @@
 
 ## Problem Statement
 
-- How might we improve the experience of Veterans who are applying for VA health care online?
+- How can we help remind Veterans of their incomplete applications?
  
 ## Desired User Outcomes
 
-- Increase in the number of online applications
-- Less time to complete an application
-- Fewer dropoffs/incomplete applications
+- Shorten the time the application remains "in progress"
+- Fewer expired applications
 - More returns and submissions of saved applications
 
 ## Undesired User Outcomes
-- Longer time to apply
-- More complex application
+- Frustration in overcomplicated notifications or too many notifications
+- More complex application workflow to get to "in progress" application
 
 ## Desired Business Outcomes
-- Veterans are comfortable and confident applying online
-- Fewer opt to apply in person
+- Veterans are reminded of in progress applications and return to complete them
 
 ## Undesired Business Outcomes
-- False/incorrect applciations
+- Confusion on submission status that leads to more expired applications
 
 ---
 ## Measuring Success
@@ -32,13 +30,9 @@
 
 * How many Veterans are completing and submitting the form online? 
 * How many Veterans start the form but don’t complete it?
-* How long does it take Veterans to fill out the online form?
+* How long does it take Veterans to submit the completed form?
 * How many Veterans start filling out the form, save their progress, and then come back to it?
-* What places in the form do Veterans tend to step away?
 * How many Veterans don't complete the form after saving one in progress?
-* Stretch: 
-    * Proportion of eligible veterans that apply online
-    * Proprotion of applications submitted online vs. on paper
 
 #### Baseline KPI Values
 * Current amount of applications that expire before they are completed?
@@ -46,7 +40,7 @@
 
 ### Objectives and Key results (OKRs)
 
-- Objective: More eligible Veterans apply for health care online
+- Objective: More applications are successfully submitted
   - Key result: Number of applications increase
   - Key result: Length of time between starting application and submitting decreases 
 
@@ -58,10 +52,21 @@
   - Give regular reminders
  -  then more Veterans will complete the health care application online.
 
+## Key Decisions
+- We understand that applications might have accidentally been started. 
+  - Currently there is not a way to close out these applications. 
+  - We are tabling this for now as it would lengthen our go to market and add complexity.
+- Multiple applications for various benefits might be in progress for the Veteran.
+  - We are focusing on the Healthcare 10-10 EZ at the moment because the need for reminder notifications has been brought up before.
+  - The plan at this point is to complete the 10-10 EZ form reminders and then onboard additional forms. Additional forms add complexity around timing the reminders for applications. The potential need to deliver a "digest" of all pending applications. It is something we want to do eventually but will tackle later.
+
+## Additional Points
+-https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/issues/department-of-veterans-affairs/vanotify-team/23
+
 ## Solution Approach
 
 - As of 2/2022, we're going to focus on:
-  - Creating a reminder system that allows for administrative customization on frequency of "in progress" reminders
+  - Creating a reminder system that sends at specific intervals
   - Reminders will be delivered via email
   - Providing content for the email reminders
 
@@ -83,42 +88,14 @@
 
 ## Screenshots
 
-### Before
- <details>
-  <summary>How to apply</summary>
- 
-![How to Apply](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/How%20to%20Apply.png)
-</details>
 
- <details>
-  <summary>Start your application</summary>
- 
-![Start your application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Apply%20for%20heatlh%20care%20benefits.png)
-</details>
- 
- <details>
-  <summary>Subway map</summary>
- 
-![Subway map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Subway%20Map.png)
-</details>
- 
- <details>
-  <summary>Review page</summary>
- 
-![Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Review%20Page.png)
-</details>
- 
-
-### After
-
----
 
 #### Communications
 
 <details>
 
 - Team Name: VA.gov Strike Team
-- GitHub Label: # 
+- GitHub Label: #Strike 
 - Slack channel: #va-notify-forms-strike-team
 - Product POCs: Megan Siddle
 - Stakeholders: Beverly Nelson
@@ -130,7 +107,9 @@
 <details>
  
  - PM: Megan Siddle
+ - DM: Zachary Law
  - Engineering: Nathan Wright, Olaf Minkowicz, Andrew Mauricio
  - Research/Design: Ian Hilton, Elissa Folk
+ - QA: Chris Peck
  
 </details>
