@@ -220,8 +220,8 @@ is an interactive mobile solution to send notifications through text messages to
 
 ### Feature Documentation
 
-- [Integration with Authentication](architecture-docs/edit-demographics/demographics_edit_auth.md)
-- [Edit data flow](architecture-docs/edit-demographics/demographics_edit_flow.md)
+- [Integration with Authentication](/architecture-docs/edit-demographics/demographics_edit_auth.md)
+- [Edit data flow](/architecture-docs/edit-demographics/demographics_edit_flow.md)
 
 ### Use the existing VA Profile service exclusively
 
