@@ -46,7 +46,7 @@ If your facility has an MVP clinic ([you can check here](https://www.research.va
 
 ### Posters
 
-Each PDF poster has the same content but is sized at three different dimensions. Please use whichever size best suits your ourteach purposes. For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
+Each PDF poster has the same content but is sized at three different dimensions. Please use whichever size best suits your outreach purposes. For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
 
 - [8.5x11 flyer (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-8.5x11-flyer.pdf)
 - [11x17 poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-11x17-poster.pdf)
@@ -148,7 +148,7 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 
 #### PSA video
 
-Below is a 30-second PSA video and accompanying VAntage Point story that can be used to help spread teh word about MVP at your facility:
+Below is a 30-second PSA video and accompanying VAntage Point story that can be used to help spread the word about MVP at your facility:
 
 - [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
 - [VAntage Point story about PSA](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
@@ -186,7 +186,7 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 
 ### Social media content
 
-Below is a Word document with 12 Facebook posts that can be shared by any VA account. You can either copy/paste from this document into your Facebook account,or post directly from VA’s Social Studio.
+Below is a Word document with 12 Facebook posts that can be shared by any VA account. You can either copy/paste from this document into your Facebook account, or post directly from VA’s Social Studio.
 
 If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below called "Graphics for social media". 
 
@@ -245,7 +245,7 @@ For any other day, there are five (5) additional Facebook posts and tweets that 
 
 ### Graphics for social media
 
-Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight womenVeterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
+Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight women Veterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
 
 ### Photos of 8 featured Veterans
 
@@ -305,7 +305,7 @@ Teresa
 
 This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. **We encourage you to publish this feature story on your VAMC or VISN homepage when your facility's MVP site re-opens (if it hasn't already).**
 
-Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
+Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has an MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
 
