@@ -50,9 +50,13 @@ VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) s
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
+- Improving the 22-1990e is a part of the larger goal to modernize and digitize the GI Bill for Veterans. Now that MEB 1990 application for Post-9/11 GI Bill students is on the verge of launch, and we have brought designs for the Montgomery GI Bill benefits through the collaboration cycle, we feel it is the appropriate time to proactively start getting feedback on our TOE designs before going further. 
+-
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- The updates to the 22-1990e will be primarily for authenticated users. At the current time, we want to prioritize the forms that will facilitate better claims processing and thus a more impactful experience in their education journey.  
+- 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Our My Education Benefits team will continue to observing other VA education edu benefit forms and see how we can best improve them. 
 --- 
 
 ## Go-to-market Strategy
