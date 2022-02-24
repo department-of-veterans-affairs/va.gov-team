@@ -63,14 +63,30 @@ flowchart TD
     supporting-evidence --> any-info
     any-info--> | yes| supporting-evidence-info
     supporting-evidence-info --> VA-medical-records
+    VA-medical-records --> VA-medical-records-details
     supporting-evidence-info --> private-medical-records
-    supporting-evidence-info --> supporting-tatements
+    private-medical-records --> private-medical-records-details
+    supporting-evidence-info --> supporting-statements
+    supporting-statements --> supporting-statements-details
   end
+  subgraph Contact-info-step-4
+    contact-info --> bank-account-info
+    bank-account-info --> homeless?
+    homeless? --> terminally-ill?
+    terminally-ill? --> VA-employee?
+    VA-employee? --> fully-developed-claim?
+    fully-developed-claim?
+  end
+  subgraph Review-application-step-5
+    review-application --> successfully-submitted
+    successfully-submitted
+  end
+
+
   Additional-benefits --> Supporting-evidence-step-3
   PTSD-info --> POW
   PTSD:combat --> POW
   POW --> Additional-benefits
-  Supporting-evidence-step-3 --> Contact-info
-  Contact-info --> Additional-info
-  Additional-info --> FDC-review-submit
+  Supporting-evidence-step-3 --> Contact-info-step-4
+  Contact-info-step-4 --> Review-application-step-5
 ```
