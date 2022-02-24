@@ -20,6 +20,7 @@
   - demo (Kevin)
   - emails (VHA draft, timing) and Community of Practice
   - auditing tools (Kevin)
+  - possible test case for new user support process?
 
 ## February 17, 2022
 ### Agenda (meeting notes follow)
