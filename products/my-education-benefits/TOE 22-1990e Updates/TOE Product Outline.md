@@ -6,8 +6,7 @@
 Updating the 22-1990e Transfer of Entitlement (TOE) Form for Authenticated Users
 
 ## Problem Statement
-Currently, the authenticated experience as a user applying for TOE benefits has to follow the same lenghty form as an unauthenticated one, with the minor perk of pre-filled contact information on file and a saved app. This is an opportunity to improve processes for over 120,000 TOE students (14% of all edu beneficiaries) that applied via the 22-1990e (data as of FY2020). As part of our greater goal to digitize the GI Bill process for all users - the My Education Benefits team is looking to improve and expedite the authenticated experience for TOE applicants. 
-
+Currently, the authenticated experience as a user applying for TOE benefits requires a lot of manual data entry, and no ability to receive a near-real time decision, which results in waiting times of up to 30 days for a decision. This is an opportunity to improve processes for over 120,000 TOE students (14% of all edu beneficiaries) that applied via the 22-1990e (data as of FY2020). 
 Thus,
 **How might we improve TOE claims processing while also considering the user experience?** 
 
@@ -15,7 +14,7 @@ Thus,
 
 - Pre-filled information on file for authenticated users, _including_ an updated method for pre-filling and selecting a sponsor that has already transferred their benefits to the applicant
 - New & intuitive designs with a shortned flow that only asks the most important questions required for processing
-- The ability to yield an instant decision after submitting the application for some authenticated users
+- The ability to yield a near real-time decision after submitting the application for some authenticated users
 
 ## Undesired User Outcomes
 
@@ -23,8 +22,6 @@ Thus,
 ## Desired Business Outcomes
 
 - Shorter education application processing times for students so they can use their benefits promptly
-
-- Lower workload on VCEs thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks
 
 ## Undesired Business Outcomes
 
@@ -50,7 +47,7 @@ VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) s
 ## Solution Approach
 
 *What are you going to build now, and why have you decided to start there?*
-- Improving the 22-1990e is a part of the larger goal to modernize and digitize the GI Bill for Veterans. Now that MEB 1990 application for Post-9/11 GI Bill students is on the verge of launch, and we have brought designs for the Montgomery GI Bill benefits through the collaboration cycle, we feel it is the appropriate time to proactively start getting feedback on our TOE designs before going further. 
+- Improving the 22-1990e is a part of the larger goal to modernize and digitize the GI Bill for Veterans. 
 
 *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - The updates to the 22-1990e will be primarily for authenticated users. At the current time, we want to prioritize the forms that will facilitate better claims processing and thus a more impactful experience in their education journey.  
@@ -72,13 +69,12 @@ What marketing, outreach, or communications are necessary for this product to be
 - benefits.VA.gov website updates (including a potential DGIB campaign landing page)
 - Email comms
 - Product Features video walking users through the new My Education Benefits experience
-- A video on how to complete your 22-1990e TOE GI Bill application with the new enhancements
 - Media Outreach
 - Mentions at the GI Bill School Tour
 
 ## Launch Dates
 - *Target Launch Date*
-  - September 2022
+  - TBD
 
 ---
 
@@ -105,8 +101,8 @@ What marketing, outreach, or communications are necessary for this product to be
 Team Name: My Education Benefits
 GitHub Label: @department-of-veterans-affairs/my-education-benefits
 Slack channel: education-benefits
-Product POCs: Cesar Santiago (tech lead), Russell Lyons (Businesss Lead), Shamik Desai (PM)
-Stakeholders: Tammy Hurley, Robert Holbrook
+Product POCs: Cesar Santiago (tech lead), Audra Ayotte(Businesss Lead), Leelah Holmes (Design Lead)
+Stakeholders: Tammy Hurley, Robert Holbrook, Ricardo Da Silva
 
 </details>
 
@@ -114,10 +110,9 @@ Stakeholders: Tammy Hurley, Robert Holbrook
 
 <details>
  
-Shamik Desai: Product Manager
 Cesar Santiago: Tech Lead
 Audra Ayotte: HCD Lead
-Russell Lyons: Businesss Lead
+Leelah Holmes: Design Lead
  
 </details>
 
