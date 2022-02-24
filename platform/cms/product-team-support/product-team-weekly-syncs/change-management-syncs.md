@@ -19,8 +19,11 @@
 - Top tasks - March 15 launch (TBC)
   - demo (Kevin)
   - emails (VHA draft, timing) and Community of Practice
-  - auditing tools (Kevin)
   - possible test case for new user support process?
+
+- VA Health Connect phone number update
+- auditing tools (Kevin)
+
 
 ## February 17, 2022
 ### Agenda (meeting notes follow)
@@ -38,8 +41,6 @@
   - Communities of Practice reboot timing?
   - Editor support (Blake and Robin): definition of roles
   - Listening session analysis
-
-- VA Health Connect phone number update
 
 - Coming next 2 weeks: RACI and process mapping
 
