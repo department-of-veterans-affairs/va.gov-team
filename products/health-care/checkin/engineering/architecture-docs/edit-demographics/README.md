@@ -49,6 +49,7 @@
       - [Workflow](#workflow-1)
       - [Reasoning](#reasoning-1)
       - [Outstanding Questions](#outstanding-questions-2)
+   - [Meetings: Notes and next steps](#meetings-notes-and-next-steps)
 
 ## Slack Channels
 
@@ -481,6 +482,13 @@ To much red tape and duplication of efforts
 - How long will it take to integrate Vets-API with the new services?
 - Can we get another team to do the work on our behalf?
 - Will we be duplicating functionality by not going with VA.gov Profile or VA Profile?
+
+## Meetings: Notes and next steps
+- 02/23/2022 Sprint Planning Breakout Session
+  - Bring up VA Profile service integration with CHIP during team-of-teams meeting tomorrow(02/24/2022)
+  - Status of VA Profile(API) sandbox environment for the Check-In team(02/24/2022)
+  - Discuss with Stephen Barrs and Shane Eliot
+  - Can we work on Edit and Test environment in parallel?
 
 [^1]: **Fully authenticated**: User has authenticated on va.gov using their ID.me account or another identity provider.  
 [^2]: **Demographics data**: Includes veteran contact information, next of kin information, and emergency contact information.  
