@@ -5,30 +5,37 @@
 
 >**Feature transition document | March 2022**
 >
-> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
+> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **this particular feature.** Also included are links to other resources and references used.
 
 <br>
 
 ## Table of Contents
+[UX research studies](#ux-research-studies)
+
 [UX design work products](#ux-design-work-products)
 
-[UX research studies](#our-ux-research-resources)
+[Process milestones](#process-milestones)
 
-[Our UX design resources](#our-ux-design-resources)
+[Other feature documentation](#other-feature-documentation)
 
-[Our team](#our-team)
+[UX researchers and designers](#ux-researchers-and-designers)
 
 <br>
 
+## Feature background
+- [Existing feature]()
+- [VA product or form]()
+- [Product outline]()
+
 ## UX research studies
+This table includes links to the individual research studies.
 
-### Discovery
-
-
-### Usability
-
-
-### User Acceptance Testing (UAT)
+| Study | Research plan | Convo guide | Findings | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| Discovery | [Link]() | [Link]() | [Link]() | --- |
+| Baseline | [Link]() | [Link]() | [Link]() | --- |
+| UAT | [Link]() | [Link]() | [Link]() | --- |
+| Study title | [Link]() | [Link]() | [Link]() | --- |
 
 
 ### References used
@@ -38,6 +45,13 @@
 - [Research plan template]()
 - [Conversation guide template]()
 - [Findings template]()
+
+### Tools used
+List your tools; add notes.
+  
+- InVision
+- Mural
+- Optimal workshop
 
 <br>
 
@@ -51,8 +65,6 @@ This table includes links to the individual design work products.
 | Wireframes | [Tool]() | No text | date | Design intent |
 | Mockups | [Tool]() | Preliminary text | date | Midpoint |
 | Prototype | [Tool]() | Final text | date | Staging |
-
-<br>
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
@@ -78,12 +90,23 @@ List your tools; add notes.
 
 <br>
 
-## UX milestones
+## Process milestones
+Include notes about which Platform process was in use when this feature was in design and development.
 
-### VA.gov collaboration cycle
-- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
-- [Other platform references used]()
-- [Other platform references used]()
+- [Design intent]()
+- [IA review]()
+- [Content review]()
+- [Midpoint review]()
+- [Staging review]()
+- [UAT]()
+
+<br>
+
+## Other feature documentation
+- [Engineering notes]()
+- [Call center guide]()
+- [Metting notes]()
+- [Others]()
 
 <br>
 
