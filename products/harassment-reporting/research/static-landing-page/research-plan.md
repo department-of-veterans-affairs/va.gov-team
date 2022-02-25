@@ -35,7 +35,7 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 
 *[ACTION ITEM: Get the static landing page onto Staging with all accordions/links interactive and real-looking phone numbers]*
 
-*[ACTION ITEM: Get the most recent version of the poster from MARTHA]*
+*[ACTION ITEM: Get the most recent version of the poster from Martha]*
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
