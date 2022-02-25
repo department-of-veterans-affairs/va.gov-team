@@ -1,5 +1,18 @@
 # VA Mobile team - Release Highlights
 
+## Release: 2/24/22 (Regular Release date 3/1/22)
+
+New + Improved
+- Fixed bug causing Appeals Details page to crash
+- Refactoring: Redux Toolkit/Dependency Updates
+- Fixed chrome debugger on Android -Modified native modules that get device name, version number, & build info to make asynchronous
+
+BackEnd Release
+
+- Updated policies & MFA check to account for login.gov and ID.ME
+- Addressed Sentry error(s) associated with pre-caching for at home video appt's
+
+
 ## Release: 2/15/22
 
 New + Improved
