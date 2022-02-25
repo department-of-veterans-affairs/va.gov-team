@@ -29,20 +29,26 @@ In order to pull the correct data for your product, we need your help to define 
   - [ ] All other pages associated with your product for which you'd want to track visits and engagement should be added to the "Content" tab.
 - [ ] Link to your completed spreadsheet here:________
 - [ ] Check your sharing settings to make sure the Analytics team will be able to access it.
+- [ ] Answer the questions in the **VFS-provided information** section below.
 - [ ] Add links to the **VFS-provided information** section below.
 - [ ] Add your team label to this ticket to follow its progress.
 
 ## VFS-provided information
 
+### Product questions
+Help us understand your product better by answering the following questions:
+
+1. **What does your team consider a completed task?** (_example: clicking submit button)_
+2. **Who is your product's main user base?**
+3. **Why does your product require an edge case?** _(example: form funnel uses combination of pages and events)_
+4. **Does this product currently have a Domo dashboard?** If yes please add link.
+
+### Product resources
 Add links to product outlines, feature information, or any other resources you think would help us better understand your product and OKRs below. Feel free to also type background information into this section directly. The more context you're able to provide, the fewer questions we'll need to ask you before getting started!
 
-#### Product resources
 - 
 - 
 - 
-
-#### Other product info
-_(Add here as needed.)_
 
 
 **Additional info**
