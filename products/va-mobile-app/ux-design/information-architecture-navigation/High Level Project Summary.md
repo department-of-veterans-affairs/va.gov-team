@@ -56,7 +56,7 @@ The purpose of this work is to inform the information architecture, content and 
 * **Phase I** of this work is **Information Architecture & Navigation research**. It will give insight on the usability and comprehension of the proposed information architecture direction.
     * It describes a 3-part study that uses the following methods: [open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort), [closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort), and [tree test].
 * **Phase II** of this work is a **navigation model exploration**. It will identify navigation model best practices for apps dealing with similar data needs out in the wild, explore how they might work for the VA mobile app, and decide on a navigation model for the app moving forward. It will be done in parallel with Phase I.
-   * Activities will include a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/competitive-analysis), a design exploration based on the findings from the IA research & comparative analysis, and a systematic evaluation of navigation model design directions based on success criteria established by the team & product owners. 
+   * Activities will include a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md), a design exploration based on the findings from the IA research & comparative analysis, and a systematic evaluation of navigation model design directions based on success criteria established by the team & product owners. 
 * **Phase III** of this work is a **concept test of the proposed navigation model and sitemap**. It will give insight on the usability and comprehension of the proposed UI direction and IA.
 
 
@@ -157,12 +157,11 @@ For detailed protocol on each part of the study, see:
 
 * **VA Mobile App Information Architecture Research - Phase I - IA:**
     * [Research Plan for VA Mobile App IA Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
-    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - planned February 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
+    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - February/March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
     * [Research Plan for VA Mobile App IA Research: Tree Test (Part 3 of 3)- TBD]()
     
 * **VA Mobile App Information Architecture Research - Phase II - Navigation Model Exploration**
-    * [VA Mobile Comparative Analysis: Navigation UI Patterns
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md)
+    * [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md)
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
 
 
