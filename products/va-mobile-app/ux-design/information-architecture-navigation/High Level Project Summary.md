@@ -3,7 +3,7 @@
 # **VA Mobile App: Information Architecture & Navigation - High Level Project Summary**
 
 
-This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the [IA & Navigation project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md)(part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
+This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the [IA & Navigation project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) (part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
 
 ## Background & Motivation
 
@@ -151,7 +151,9 @@ For detailed protocol on each part of the study, see:
     * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - planned February 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
     * [Research Plan for VA Mobile App IA Research: Tree Test (Part 3 of 3)- TBD]()
     
-* **VA Mobile App Information Architecture Research - Phase II - Accounts Competitive Analysis**
+* **VA Mobile App Information Architecture Research - Phase II - Navigation Model Exploration**
+    * [VA Mobile Comparative Analysis: Navigation UI Patterns
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md)
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
 
 
