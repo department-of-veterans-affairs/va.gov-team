@@ -50,7 +50,7 @@ There has been research conducted around veteran mental models for the content o
 
 ## Project Purpose & Goals
 
-The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to quickly explore the opportunity space and deliver a solution that is user-centered and achieves product goals.
+The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to quickly explore the opportunity space and deliver a solution that is user-centered and achieves product goals.
 
 
 * **Phase I** of this work is **Information Architecture & Navigation research**. It will give insight on the usability and comprehension of the proposed information architecture direction.
@@ -61,7 +61,7 @@ The purpose of this work is to inform the information architecture, content and 
 
 
 
-<img width="2077" alt="Lean Research & IA Process diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/VA%20Mobile%20app%20-%20Lean%20Research%20%26%20IA%20Process.png">
+<img width="2077" alt="Lean Research & IA Process Diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/VA%20Mobile%20app%20-%20Lean%20Research%20%26%20IA%20Process%202-25-22.png">
 
 
 [VA Mobile app: Lean Research & IA Process diagram (mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1634908357710/58074b53d4942298679622026490db78c1ee8806?sender=u28718b63c8993f515e0b2240)
@@ -87,7 +87,7 @@ The purpose of this work is to inform the information architecture, content and 
    </td>
   </tr>
   <tr>
-   <td>Understand how participants would group and label the current and possible future VA Mobile Appcontent.
+   <td>Understand how participants would group and label the current and possible future VA Mobile App content.
    </td>
    <td>Open card sort 
    </td>
