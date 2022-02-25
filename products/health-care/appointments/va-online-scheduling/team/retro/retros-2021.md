@@ -1,5 +1,12 @@
 # VAOS Retros
 <details>
+<summary>February 15, 2022</summary>
+
+<img width="1429" alt="Screen Shot 2022-02-15 at 4 20 00 PM" src="https://user-images.githubusercontent.com/90797205/.png">
+
+</details>
+
+<details>
 <summary>February 01, 2022</summary>
 
 <img width="1429" alt="Screen Shot 2022-02-01 at 4 16 36 PM" src="https://user-images.githubusercontent.com/90797205/152053070-d9b94e23-64c3-42b9-a644-2a0fe24f52b2.png">
