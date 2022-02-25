@@ -38,49 +38,59 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
+- Do you have healthcare through the VA?
+- Have you used MyHealtheVet? If Yes, how often do you use it? For what?
 
 
+## Health Apartment homepage, unauth - 5 minutes
 
-## First Task: [TASK NAME] - X minutes
+- What are you seeing here?
+- (if they noticed MHV branding) What does that mean to you?
+- What are you able to do on this page?
+- If you came to the main VA website, where would you expect to find this page?
+- Talk to me about the links that you're seeing on this page (dig into side nav if they bring it up)
+- How would you sign in?
+- What do you think you'd see if you were to sign in? 
+(have participant click thru login to auth'ed version of the page)
+
+
+### Things to watch for:
+
+- Do they notice this is MHV branded?
+- Do they expect to see something different if signed in or not?
+
+## Health Apartment homepage, auth - 5 minutes
+
+- What's different about this page?
+- Where do you think the information you're seeing is coming from?
+- What are you able to do from this page?
+- What is missing from this page? What information would be useful for you to see here?
+- Pharmacy: Let's say you needed to check on a prescription, how would you do that from here?
+- Secure Messaging: You want to send a message to your doctor, how would you do that from here?
+- Appointments: You want to check all your upcoming appointments, how would you do that from here?
+- Medical Records: Let's say you needed to get a copy of your vaccine records, how would you do that from here? 
+
+### Things to watch for:
+
+- Do Veterans notice the info shown is now personalized?
+- Do their understanding of what actions you can take on this page change once they see the logged in version?
+
+## Pharmacy - 10 minutes
 
 - Step 1
 - Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- 
 
-## Second Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- What are your thoughts about what we looked at today?
+- Any other things that would be good for us to know?
 
 ## Thank-You and Closing - X minutes
 
