@@ -100,6 +100,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Tracey Mulrooney, tracey.mulrooney@va.gov
 - Participant(s) for pilot test: TBD	
 - Note-takers: TBD	
-- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; 
+- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Bobby Bailey, Robert.m.bailey@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com
 
 
