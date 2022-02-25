@@ -6,9 +6,9 @@ This checklist is for content authors working in Drupal to use when creating a n
 
 ### Accessibility standards
 
-- [ ] If your link or button will take the user off VA.gov, confirm that the text for the link or button contains a purpose and a target. The user should be able to tell from the link or button text what the call to action (CTA) is and where they will end up if they click on the link. The following link is an example of this in action: [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
+- [ ] If your link or button will take the user off VA.gov, confirm that the text for the link or button contains a purpose and a target. The user should be able to tell from the link or button text what the call to action is (the purpose) and where they will end up if they click on the link (the target). The following link is an example of this: [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
-- [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/) NOTE: After we add a link to this from our style guide entry for "Page titles and section titles", change this content checklist link to point to our style guide entry.
+- [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation on the Web Accessibility initiative website](https://www.w3.org/WAI/tutorials/page-structure/headings/) NOTE: After we add a link to this from our style guide entry for "Page titles and section titles", change this content checklist link to point to our style guide entry.
 
 ### Link checks
 
