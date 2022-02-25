@@ -1,12 +1,12 @@
 # VSA team name UX research & design hub
 
-</br>
+<br>
 
 >**Team transition document | March 2022**
 >
 > The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
 
-</br>
+<br>
 
 ## Table of Contents
 [Features & initiatives we worked on](#features-and-initiatives-we-worked-on)
@@ -17,7 +17,7 @@
 
 [Our team](#our-team)
 
-</br>
+<br>
 
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
@@ -30,7 +30,7 @@ This table includes links to the individual feature directory and the latest ite
 | [Your feature]() | Other names or references | [In design]() |
 | [Your feature]() | Other names or references | [In discovery]() |
 
-</br>
+<br>
 
 ## Our UX research resources
 We used these UX research resources during design and development.
@@ -43,7 +43,7 @@ We used these UX research resources during design and development.
 - [Conversation guide template]()
 - [Findings template]()
 
-</br>
+<br>
 
 ## Our UX design resources
 We used these UX design resources to guide our design and development.
@@ -63,7 +63,7 @@ We used these UX design resources to guide our design and development.
 - [Internal 508 checklist]()
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
-</br>
+<br>
 
 ## Our UX research/design process
 Add team-specific process documentation; add notes.
@@ -109,7 +109,7 @@ List your tools; add notes.
 - [Other platform references used]()
 - [Other platform references used]()
 
-</br>
+<br>
 
 ## Our team
 
@@ -133,6 +133,6 @@ List your tools; add notes.
 - [Team Github directory]()
 - [Team Zenhub board]()
 
-</br>
+<br>
 
 ---
