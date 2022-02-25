@@ -1,4 +1,5 @@
-# Conversation Guide: Harassment Reporting--Static Landing Page & Poster
+# Conversation Guide: Harassment Reporting Landing Page & Poster
+Public Websites team, Feb 25, 2022
 
 ## ACTION ITEMS: 
 - Reach out to the mental health group and Veteran Crisis Line (VCL) about how we're sharing VCL info because they're sensitive about their info and how it's used/presented (according to Danielle Thierry)
