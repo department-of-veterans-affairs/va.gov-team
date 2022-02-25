@@ -228,66 +228,73 @@ Participants said they use their appointments list to:
 
 # Recommendations
 
-### Provide clear summary information to answer basic questions about appointments
+### Provide clear information to answer basic questions about appointments in the list
 
-Based on this, and previous research, we believe the following information would be the ideal summary of a single appointment
-
-Symbols indicate whether VAOS currently has access to the data:
-✅ All the data
-⏺ Some of the data
-❌ No data
+Based on this (and previous) research, we believe the following information would be the ideal summary of a single appointment. Symbols indicate whether VAOS currently has the ability to display:
+* ✅ All the data
+* ⏺ The data in some capacity
+* ❌ No data
 
 **When is it?**
 
-✅ Date, time, timezone, weekday
+     ✅ Date, time, timezone, weekday
 
 **What's it for?**
 
-⏺ Type of care
-⏺ Provider name
-❌ If labs are needed
+     ⏺ Type of care
+     ⏺ Provider name <sup>1<sup>
+     ❌ If labs are needed
 
 **How will I attend?**
 
-✅ Modality (in person, telehealth, etc.) <sup>1<sup>
-
+     ✅ Modality (in person, telehealth, etc.)
+     
 **Where will I attend?**
 
 In person: 
-   Check-in clinic
-   Room number  
-   Building name/number 
-   Facility name
+
+     ❌ Check-in clinic
+     ❌ Room number  
+     ❌ Building name, number 
+     ✅ Medical center name
    
 Video at VA: 
-   Check-in clinic/room name and number  
-   Building name/number 
-   Facility name
+
+     ❌ Check-in clinic
+     ❌ Room number  
+     ❌ Building name, number 
+     ✅ Medical center name
    
 Video at ATLAS: 
-   ATLAS facility name
-   City/state
-   Access code
+
+     ❌ ATLAS facility name
+     ✅ City/state
+     ✅ Access code
    
 Video via GFE:
-   Short summary of how to join
+
+     ✅ Short summary of how to join
    
 Video at home:
-   Short summary of how to join
-   Link to join appointment
    
-Phone
-   Short summary of how to join
+     ✅ Short summary of how to join
+     ✅ Link to join appointment
+   
+Phone:
+   
+     ✅ Short summary of how to join
  
-
 **Has it been canceled?**
 
-Status showing if canceled
+     ✅ Status showing if canceled
 
-1. VAOS controls this content, it's not shared or pulled from other sources
+Note: VAOS defines the data, or content displayed for these data points
 
+* Modality
+* Status showing if canceled
+* Short summary of how to join
 
-## Continue iterating on and testing the proposed desktop and print layout**
+### Continue iterating on and testing the proposed desktop and print layout
 
 Participants responded
 
