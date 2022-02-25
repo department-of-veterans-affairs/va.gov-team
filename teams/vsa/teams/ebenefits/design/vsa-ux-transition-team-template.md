@@ -1,4 +1,4 @@
-# VSA team name UX research & design hub
+# VSA team name UX research and design hub
 
 <br>
 
