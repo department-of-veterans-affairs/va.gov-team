@@ -56,10 +56,11 @@ Before we start, a few things I want to mention:
 
 - Do they notice this is MHV branded?
 - Do they expect to see something different if signed in or not?
+- How do they expect to get to this page? How does it relate to the bigger VA.gov site?
 
 ## Health Apartment homepage, auth - 5 minutes
 
-- What's different about this page?
+- What's different about this page? What website is this?
 - Where do you think the information you're seeing is coming from?
 - What are you able to do from this page?
 - What is missing from this page? What information would be useful for you to see here?
