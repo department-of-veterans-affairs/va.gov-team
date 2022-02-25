@@ -1,66 +1,65 @@
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+**As a** VA.gov user
+**I want** to use modern, secure Credential Service Providers (CSPs)
+**So that** I can ensure that my information is safe when accessing VA services.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+As we continue to evolve the VA.gov ecosystem,legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience.  We need to migrate users to newer CSP's that do meet these objectives.  In this specific instance, we are working to move select MyHealtheVet Premium users to Login.gov without the need to reverify their identities.
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+Eligible users should be able to easily move their verified identity from MHV to Login.gov.
 
 ## Undesired User Outcomes
 
+Eligible users are unable to easily complete the migration process.
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+It is a desire that all of eligible MHV users have migrated to Login.gov by December, 2022
 
 ## Undesired Business Outcomes
 
+Eligible users are still utilizing MHV as a CSP after December, 2022
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+**End of Q3 FY2022 (June)**: 20,000 users have attempted to convert with a success rate of 60% 
+**End of Q4 FY2022 (September)**: 40,000 users have attempted to convert with a success rate of 60%
+**End of 2022**: 80,000 users have attmepted to convert with a success rate of 60%
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+Currently 180,000 eligible users
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: Users understand and are able to complete the migration process
+  - Key result: 60% of users are able to convert
+  - Key result: By end of 2022, half of all eligible MHV users have converted
 
 
 ---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Users will be able to pass phone validation
+- Users will understand the need and process for migration
+
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
+- We are building a process for eligible users to easily transition their account from MHV to Login.gov
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
@@ -79,7 +78,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - April 15, 2022
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -108,10 +107,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
 
 - Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- GitHub Label: Identity
+- Slack channel: #vsp-identity
+- Product POCs: Nick Soutouras 
+- Stakeholders: Cody Reinhold, John Rahagi
 
 </details>
 
@@ -120,9 +119,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
  - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - PM: Nick Soutouras
+ - Engineering: Joe Niquette
+ - Research/Design: Sam Vang
  
 </details>
 
