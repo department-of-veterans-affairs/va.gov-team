@@ -1,4 +1,5 @@
-# Research Plan: Harassment Reporting--Static Landing Page & Poster
+# Research Plan: Harassment Reporting Landing Page & Poster
+Public Websites team, Feb 25, 2022
  	
 ## Goals	
 The purpose of this research is to get user feedback on the new static landing page and poster about harassment reporting at the VA. From these resources, we would like Veterans to know how to report harassment at the VA.
@@ -120,7 +121,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
 - **Notetaker:	Perigean**
-- Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. 
+- Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. For each session with a screen reader user, one observer will be an accessibility specialist to provide technical assistance if needed.
  
 ## Resources	
 - [Conversation Guide]()	
