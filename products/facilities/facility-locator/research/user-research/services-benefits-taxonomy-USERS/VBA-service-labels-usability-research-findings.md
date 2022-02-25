@@ -6,7 +6,9 @@ Date: 02/21/2022
 
 Dave Sukharan, Dave.Sukharan@adhocteam.us
 
-[Research Report PDF] (link here)
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA%20Services%20Usability%20Study%2C%20Facility%20Locator%2C%20Feb%202022%20(1).pdf)
+
+[Research Report Presentation Recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/Untitled.mp4)
 
 <br>
 
