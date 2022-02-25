@@ -1,14 +1,10 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# VBA Service Label Usability Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), Facility Locator, Facilities Team**
 
-# [Study] Research Findings 
+Date: 02/21/2022
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+Dave Sukharan, Dave.Sukharan@adhocteam.us
 
 [Research Report PDF] (link here)
 
@@ -29,258 +25,175 @@ Date: MM/DD/YYYY
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+Every year, around 6 million searches occur on the Facility Locator application. Eleven percent of these searches are specifically filtered for VBA locations. The VBA specific searches have the capability to be filtered by specific categories. In the field, VBA staff tag their locations with these categories to allow Veterans to search for specific services.
 
-_Then, describe your goals for this research_
+These labels exist to ensure that Veterans at the point of seeking in-person or on-location help are able to efficiently find help. We were tasked with evaluating the efficacy of these labels. Veterans can seek access to these services over the course of their user journeys ranging from transitioning out to education to burial plots.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+* Determine how the current categories are used by Veterans searching for services
+* Evaluate the usage of the service categories in the Filters list and Location Details pages
+* Note any services that could benefit from updated plain language titles
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* Do the existing categories affect Veterans' ability to search for services?
+* Do existing category names cause confusion, or do they need to be described with more clear language?
+* How can the benefits services be best presented to Veterans?
+* What common knowledge or other strategies do Veterans utilize when searching for services?
 
 # Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+Moderated usability testing which allowed Veterans to reflect on a past experience using VBA services before presenting tasks. Veterans were told that they needed help accessing a service they've used in the past and were tthen asked to use the Facility Locator tool to find help.
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+* Veterans will be able to find a VBA location that can help them with their desired services.
+Likely False
+Most veterans tested (70%) received a No Results page after completing their search. They expressed confusion and had difficuly redoing their search to find a location. When a location was found, it was often too far away for their purposes.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+* Veterans will have trouble or lose confidence with the process
+Likely True
+Most veterans tested (70%) received a No Results page after completing their search. They expressed confusion and had difficuly redoing their search to find a location.
 
-_Hypothesis statement_
+* Veterans will ask for clarification on the details of some labels
+Maybe True
+Most veterans tested had little to no trouble selecting the correct service label from the dropdown list. However, when accessing a Facility specific location page, veterans asked for more clarity on each label to ensure that their assumptions about the label were correct. Veterans are entering these interactions with prior knowledge and, usually, much prior research on the task they are trying to complete. They have an idea of what services they are eligible for and what they mean.
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+* Veterans will use satisficing (suitable alternative routes) to achieve their desired tasks.
+Likely True
+Most veterans (70%) suggested a non-web based action for solving their problem first. Rather than using VA.gov or the Facility Locator to find help, they opted for directly contacting a person in their network who might have knowledge. A few Veterans frequently rely on the Site Search function rather than the tools suggested via information architecture. It is up to a larger discussion to decide whether these routes are satisfactory or ideal from a VA perspective.
 
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Veterans are often able to select the best label for their scenario on the Facilities Search page.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. Veterans experience significant confusion and increased cognitive load when receiving a "No Results" search.
 
-1. Finding one
+3. Veterans experience significant anger or frustration when presented with location pages which are “dead ends”: have no services, no open hours, or are closed without explanation.
 
-2. Finding two
+4. Veterans appreciate any knowledge to help speed their VBA location visit or confirm their prior knowledge and research.
 
-3. Finding three
+5. Veterans who receive the wrong information (or perceive the information as wrong) can be subject to critical errors and loss of trust.
 
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+6. Veterans don't often want to seek help at a physical location. When they do, they are looking for targeted, personal, and specific help.
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
-**Finding 1**
+**Veterans are often able to select the best label for their scenario on the Facilities Search page.**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> 100% of tested Veterans selected the best label for their scenario from the Service Type dropdown menu.
+> Note, though Veterans may be confident in their selection, the internal meaning of these labels may not be consistent across all locations and therefore may not match the Veterans' expectations.
 
 
-**Finding 2**
+**Veterans experience significant confusion and increased cognitive load when receiving a "No Results" search.**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> I know there are three major bases around here. There's no way they don't offer help with this service! I've been to this base. They offer everything here, for sure
+> 40% of tested users were confused by the map delivering No Results
 
 
-**Finding 3**
+**Veterans experience significant anger or frustration when presented with location pages which are “dead ends”: have no services, no open hours, or are closed without explanation.**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> “Like this page (sparse location specific page)... it pisses me off *bitter laugh*. I would say an expletive and leave. I want it to be more like the Baltimore location where someone actually put in some care.”
+> 221 (49%) Location Specific pages offer less than 3 Services
+> 18 (6%) of Location Specific pages are currently marked Closed M-F in their listed hours.
 
-Brief description
+**Veterans appreciate any knowledge to help speed their VBA location visit or confirm their prior knowledge and research.**
 
-> _Supporting data: Quote here_
+Labels: label 1, label 2 
 
-> _Supporting data: Quote here_
+> “I would want a list of FAQ's. There’s only a limited number of unique inquiries that a Veteran can make. The VA knows what the Veterans - what WE need to know and what we want to know. The call centers are completely slammed, they know what Veterans want to hear.”
+> “This part up here (the megamenu) is great. Every question I have is just a click away. How to apply, change my address, I just click on it... it feels like this part is done and this part (the services list) is not.”
 
+**Veterans who receive the wrong information (or perceive the information as wrong) can be subject to critical errors and loss of trust.**
+
+Labels: label 1, label 2 
+
+> Two of the tested Veterans described painful experiences where they needed to travel to the same VBA location multiple times to complete the same task because the employees necessary to complete their task were not there.
+> Veterans who experienced confusion on the map would also talk about the unreliability or opaqueness of VA systems as a whole.
+
+**Veterans don't often want to seek help at a physical location. When they do, they are looking for targeted, personal, and specific help.**
+
+Labels: label 1, label 2 
+
+> 70% of users chose a non-web based solution first
+> Multiple tested Veterans said that seeking a physical location would not be their first choice. Instead, they prefer to complete extended research on their own, then seek help from the VA or VBA systems only if those failed.
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+> Veterans have a high amount of animosity towards phone trees and calling the VA.
+> At the same time, Veterans often name people (VBA employees, PEBLO officers, VA peers) as the best information sources, though they’re difficult to find.
+> Efficient treatment of the most vulnerable Veterans can increase trust in the system for all Veterans.
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* Reduce the impact of dead ends as they cause critical failures for users.
+* Rigorously audit and increase the quality of information on individual location pages especially to avoid inaccurate hours, empty service lists, or locations which are never open. 
+* Give fewer and better next actions for users who get “No Results” searches.
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Increase the amount of information offered alongside each service label.
+* Provide a link, dropdown, or short, standard description for each service label in the Location Specific Pages to allow Veterans to confirm their understanding of the label’s meaning.
+
+* Increase the amount of information on each specific location.
+* Provide parking information, detailed directions to find the front desk, or even staff names and appointment slots to allow Veterans to more efficiently conduct their business.
+
 
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+Michelle Middaugh and Dave Conlon will be discussing findings with the VBA Services team to determine viable next steps.
 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+If the labels are significantly changed due to this research, the new labels should undergo a card sort to evaluate the improvement from this baseline. Analytics can also be utilized to observe how many clicks these new labels receive and how many Veterans go on to take further action after selecting a label.
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d53aa7165847ffca2f3c074c443b5adcbaaab854/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-Services-Interview-Transcripts)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/45238a69411c03e90c8b396af1de7fcf8fe223f9/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA%20Services%20Synthesis%20Spreadsheet.xlsx) including:
 
+1. Observation Frequency Tracker (Rainbow Spreadsheet)
+2. Tagged Quotes List
+3. Card Sort Synthesis Results
+4. Audit of VBA Label Meanings
+5. Audit of VBA Hours currently being displayed.
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Facility Locator Search Page](https://www.va.gov/find-locations/)
 
+Example of Location Specific page: [Baltimore VA Regional Benefits Office](https://www.va.gov/find-locations/facility/vba_313)
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+[Synthesis Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/45238a69411c03e90c8b396af1de7fcf8fe223f9/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA%20Services%20Synthesis%20Spreadsheet.xlsx) including:
 
+1. Observation Frequency Tracker (Rainbow Spreadsheet)
+2. Tagged Quotes List
+3. Card Sort Synthesis Results
+4. Audit of VBA Label Meanings
+5. Audit of VBA Hours currently being displayed.
 
 ## Secondary research
 
-Include any secondary research you may have. 
+[Synthesis Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/45238a69411c03e90c8b396af1de7fcf8fe223f9/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA%20Services%20Synthesis%20Spreadsheet.xlsx) including:
 
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-
-## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-
-**Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
-
-Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+1. Observation Frequency Tracker (Rainbow Spreadsheet)
+2. Tagged Quotes List
+3. Card Sort Synthesis Results
+4. Audit of VBA Label Meanings
+5. Audit of VBA Hours currently being displayed.
