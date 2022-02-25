@@ -8,8 +8,8 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture)
 
 
- **Phase II - Mobile Navigation UI Comparative Analysis**
- - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis)
+ **Phase II - Navigation Model Exploration**
+ - [Comparative Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis)
  
  
  **Phase III - Evaluative Research**
