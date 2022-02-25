@@ -14,7 +14,7 @@ The goal of this comparative analysis is to answer the following questions:
 * How are apps treating child pages, especially those that are accessible from multiple navigation stacks? 
   * Are they using descendant navigation and modality? Why?
 * Do apps' navigation models tend to differ between platforms?
-* What do these apps do well that we can apply to our context? What can we do better?
+* What do these apps do well that we can apply to our context? What can we do better (for example, in regards to a11y)?
 
 *Note: We utilized Mobbin as well as designers' personal devices to conduct the comparative analysis. The apps reviewed were primarily on iOS, but we cross-referenced the Google Play store to identify navigation differences between plattforms.*
 
