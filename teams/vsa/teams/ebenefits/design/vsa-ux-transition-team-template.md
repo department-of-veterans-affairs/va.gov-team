@@ -9,7 +9,7 @@
 <br>
 
 ## Table of Contents
-[Features & initiatives we worked on](#features-and-initiatives-we-worked-on)
+[Features and initiatives we worked on](#features-and-initiatives-we-worked-on)
 
 [Our UX research resources](#our-ux-research-resources)
 
