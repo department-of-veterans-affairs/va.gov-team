@@ -16,7 +16,7 @@ If a Veteran experiences harassment or other inappropriate behavior while at a V
 4. What are users' reactions to the static landing page? 
     1. What sentiments/feelings do they express? *(quotes about safety, comfort, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
     2. Feedback on content, organization, and/or length of page?  
-    1. How would they report harassment? *(e.g., 911 or phone # in top alert box, phone # farther down, in person)*
+    1. How would they report harassment? *(e.g., 911, 800 #, VCL, in person)*
     6. What do they expect will happen after they report?
     
 5. How do Veterans prefer to report harassment? (ask at end) *(e.g., in person at the VA, via phone, via online form on phone/tablet/computer)*
@@ -35,14 +35,14 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 
 *[ACTION ITEM: Get the static landing page onto Staging with all accordions/links interactive and real-looking phone numbers]*
 
-*[ACTION ITEM: Get the most recent version of the poster from MARTHA, after she removes the QR code and adds a phone number--same as on landing page]*
+*[ACTION ITEM: Get the most recent version of the poster from MARTHA]*
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
 - Work with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
 - Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
-  - For each session with a participant using a screen reader, also invite an accessibility specialist as an observer to help with any technical issues.
+  - For each session with a participant using a screen reader, invite an accessibility specialist as an observer to help with any technical issues.
 
 ### Participants to recruit
 
@@ -103,7 +103,7 @@ Team Availability | Time (ET)
 ------------------|--------------
 Mar 14, 2022 | Noon - 3 pm, 4 - 8 pm
 Mar 15, 2022 | Noon - 3 pm, 4 - 8 pm
-Mar 16, 2022 | Noon - 3 pm, 4:30 - 8 pm
+Mar 16, 2022 | Noon - 3 pm, 4 - 8 pm
 Mar 17, 2022 | Noon - 3 pm, 4 - 8 pm
 Mar 18, 2022 | Noon - 3 pm, 4 - 8 pm
 
