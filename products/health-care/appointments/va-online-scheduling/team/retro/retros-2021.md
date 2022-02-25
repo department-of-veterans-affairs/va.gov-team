@@ -2,7 +2,7 @@
 <details>
 <summary>February 15, 2022</summary>
 
-<img width="1429" alt="Screen Shot 2022-02-15 at 4 20 00 PM" src="https://user-images.githubusercontent.com/90797205/.png">
+<img width="1429" alt="Screen Shot 2022-02-15 at 4 20 00 PM" src="https://user-images.githubusercontent.com/97117349/155748324-f3dd7df0-e097-444f-8bbc-bdf2dcf66b90.png">
 
 </details>
 
