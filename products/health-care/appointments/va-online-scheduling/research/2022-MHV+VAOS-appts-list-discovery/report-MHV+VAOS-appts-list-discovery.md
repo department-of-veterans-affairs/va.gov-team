@@ -228,7 +228,69 @@ Participants said they use their appointments list to:
 
 # Recommendations
 
-**Display clear modality information for all appointments in VAOS.**
+### Provide clear summary information to answer basic questions about appointments
+
+Based on this, and previous research, we believe the following information would be the ideal summary of a single appointment
+
+Symbols indicate whether VAOS currently has access to the data:
+✅ All the data
+⏺ Some of the data
+❌ No data
+
+**When is it?**
+
+✅ Date, time, timezone, weekday
+
+**What's it for?**
+
+⏺ Type of care
+⏺ Provider name
+❌ If labs are needed
+
+**How will I attend?**
+
+✅ Modality (in person, telehealth, etc.) <sup>1<sup>
+
+**Where will I attend?**
+
+In person: 
+   Check-in clinic
+   Room number  
+   Building name/number 
+   Facility name
+   
+Video at VA: 
+   Check-in clinic/room name and number  
+   Building name/number 
+   Facility name
+   
+Video at ATLAS: 
+   ATLAS facility name
+   City/state
+   Access code
+   
+Video via GFE:
+   Short summary of how to join
+   
+Video at home:
+   Short summary of how to join
+   Link to join appointment
+   
+Phone
+   Short summary of how to join
+ 
+
+**Has it been canceled?**
+
+Status showing if canceled
+
+1. VAOS controls this content, it's not shared or pulled from other sources
+
+
+## Continue iterating on and testing the proposed desktop and print layout**
+
+Participants responded
+
 
 
 * Run technical discovery around how better wayfinding data might be surfaced, especially
@@ -255,8 +317,8 @@ _Next steps here. Include owners if appropriate._
 
 ## Tools used for Synthesis
 
-* [Mural] for initial capture
-* Spreadhseet for final synthesis [TODO: upload to GH and link]
+* [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1642806238395/f474bb89b28cb3b91472fa62130ee89e720e8cdd?sender=ub08ff1d80ee7bd38d6c02354) for initial capture
+* [Spreadhseet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Participant%20notes%20-%20VAOS%20and%20MHV%20appointments%20list%20discovery.xlsx) for final synthesis 
 
 
 ## Pages and applications used
@@ -339,17 +401,16 @@ Race:
 Disability and Assistive Technology (AT):
 No participant joined using Assistive Technology
 
-
 ## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
 * Cognitive Disability
 * Other than honorable 
 * Expat
+* LGBTQ+
+* Assistive Tech users
 
-_[insert screenshot of completed recruitment checker]_ [TODO]
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+[Appointments list recruitment checker](https://user-images.githubusercontent.com/2536801/155748601-c0235686-d3ad-4ee1-80c8-9d0358d64df0.png)
+hecker]
 
