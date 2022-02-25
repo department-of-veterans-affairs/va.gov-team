@@ -20,6 +20,7 @@
 </br>
 
 ## Table of features and initiatives
+This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
@@ -32,6 +33,7 @@
 </br>
 
 ## UX research resources
+We used these UX research resources during design and development.
 
 ### References
 - [VA Plaform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
@@ -44,6 +46,7 @@
 </br>
 
 ## UX Design resources
+We used these UX design resources to guide our design and development.
 
 ### Design system
 - [VA.gov Design System](https://design.va.gov/)
@@ -63,7 +66,6 @@
 </br>
 
 ## UX research/design process
-
 Add team-specific process documentation; add notes.
 
 - [Team process doc]()
