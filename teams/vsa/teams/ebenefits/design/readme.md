@@ -43,7 +43,7 @@ The purpose of this transition document is to provide a clearinghouse for resear
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
-- [Internal 508 checklist]()
+- [Internal 508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/accessibility/508-checklist-wip.md)
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ## Process
