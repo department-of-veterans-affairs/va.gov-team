@@ -6,6 +6,8 @@ Folder: https://github.com/department-of-veterans-affairs/vets-website/tree/mast
 
 ## Decisions of note
 
+Almost all of these sections match the Higher-Level Review (HLR) tech docs because the two forms have a lot of similarity
+
 ### Prefill
 
 The backend is set up to provide:
@@ -22,6 +24,8 @@ Returned within the `nonPrefill` part of the data
   "data": {
     "attributes": {
       "veteran": {
+        // Address, phone & email are not used, because they're added in
+        // prefill, but never updated
         "address": {
           "addressLine1": "",
           "addressLine2": "",
@@ -41,15 +45,16 @@ Returned within the `nonPrefill` part of the data
     }
   },
   "nonPrefill": {
+    // Data for Veteran info page
     "veteranSsnLastFour": "1234",
     "veteranVaFileNumberLastFour": "1234"
   }
 }
 ```
 
-### Contestable and legacy issues
+### Contestable issues
 
-Lighthouse provides two separate endpoints for contestable issue (`/notice_of_disagreements/contestable_issues`, but this may go away as Lighthouse is planning on combining HLR & NOD contestable issues) and legacy issues (`/legacy_appeals`). Our backend combines the data from both ([`/v0/notice_of_disagreement/contestable_issues`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/notice_of_disagreements/getContestableIssues)) to reduce the number of API calls. The result is:
+Our backend gets this data from ([`/v0/notice_of_disagreement/contestable_issues`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/notice_of_disagreements/getContestableIssues)). The result is:
 
 ```js
 {
@@ -78,37 +83,59 @@ Lighthouse provides two separate endpoints for contestable issue (`/notice_of_di
         "sourceReviewType": null,
         "timely": true
       }
-    },
-    // any additional contestable issues
-    {
-      // Legacy appeals appended to this list
-      "id": "35",
-      "type": "legacyAppeal",
-      "attributes": {
-        // 3 legacy appeals shown here, this array will be empty if the
-        // Veteran has no legacy appeals
-        "issues": [{
-          "summary": "Service connection, benign ear neoplasm"
-        }, {
-          "summary": "New and material evidence to reopen claim for service connection, impairment of knee"
-        }, {
-          "summary": "Service connection, migraines"
-        }],
-        // Mock user 233
-        "veteranFullName": "Cara Bartlett",
-        "decisionDate": "2021-10-17T00:00:00.000Z",
-        "latestSocSsocDate": "2021-09-18T00:00:00.000Z"
-      }
     }
+    // any additional contestable issues
   ]
 }
 ```
 
-Legacy appeals are all combined into one entry (the last entry) with a different `"type"`, but only the `"summary"` is provided and the wording may or may not match the contestable issue's `ratingIssueSubjectText` or `description`. So we have no sure method to coorelate legacy appeals with eligible issues.
+The issues provided by Lighthouse need additional processing. In the [`getEligibleContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/utils/submit.js#L66), contestable issues loaded from the API are filtered out:
+- If they contain the word `deferred` in either the `ratingIssueSubjectText` or `description` as these issues are no longer eligible.
+- Have a `approxDecisionDate` greater than one year in the past.
+
+Before being added to the form data, the [`processContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/utils/helpers.js#L97):
+- Filters out issues with no `ratingIssueSubjectText`
+- Sorts the list by newest date first, then by title if the dates are equal
+
+These two functions may be more clean/dry if combined in the future.
+
+### Use of `appStateSelector`
+
+In the `config/form.js` file, use of `appStateSelector` is necessary to provide the form data for both the `contestableIssues` and `additionalIssues` because of a bug in the form system that does not provide the correct `formData` value on the review & submit page. Instead of `formData`, the `fieldData` (data only for that page) is provided and breaks validation.
+
+### Filing deadline (previous opt-in page)
+
+The Higher-Level Review (HLR) v2 update made it very similar to the Notice of Disagreement form, except for this page. The Board met with us and changed the language for this page numerous times. For HLR, the opt-in page is optional and includes a checkbox. It is only shown when the contestable issues endpoint includes legacy appeals, or if an issue is manually entered. For NOD, the `socOptIn` value is required by Lighthouse so it's always submitted as `true`; but in the last Board review recommendation for this page, they decided to remove the checkbox and move it earlier in the flow.
 
 ### List loop pattern
 
-Prior to the NOD form, list loops were done in-line (see [Arrays example](https://rjsf-team.github.io/react-jsonschema-form/)). Add an item and it appears below with controls to edit or delete. NOD originally had 3 pages, 1) showed a selectable list of API-loaded eligible issues, 2) asked if the Veteran wanted to add more issue and 3) Array loop pattern page for manually entering issues.
+Prior to the NOD form, list loops were done in-line (see [Arrays example](https://rjsf-team.github.io/react-jsonschema-form/)) and [list loop tech notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/forms-system/list_loop.md).
+
+In initial work, there were 3 pages:
+
+1. Contestable issues loaded from the API - this page allowed Veteran to select, via checkbox, issues to include in the submitted HLR
+2. Gating page asking a yes/no question to the Veteran about adding more issues.
+3. Add issue list loop page with checkboxes for each.
+
+```mermaid
+flowchart LR
+    A[Contestable issues] --> B{Add more issues?}
+    B -- Yes --> C[Additional issues]
+
+    subgraph one [Additional issues loop]
+    C -. add, save or edit issue .-> C
+    end
+
+    C --> D[Area of Disagreement followup]
+    B -- No --> D
+```
+
+<details><summary>Additional issues list loop appearance</summary>
+
+![User entered issue card with an edit button and a new card with save and cancel buttons](old-list-loop.png)
+</details>
+
+<p></p>
 
 In a design review, we were directed to change this to a list loop pattern where all issues (API-loaded and entered) were shown on one page. And adding a new item or editing an item would take the Veteran to a new page. Luckily, the form system team had just implemented a [custom page method](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/bypassing-schemaform) which allowed bypassing the form-systems linear flow.
 
@@ -122,6 +149,17 @@ flowchart LR
 
     H --> J[Area of Disagreement followup]
 ```
+
+<details><summary>New combined issue page appearance</summary>
+
+![User entered issue card includes a change link (it goes to a new page) - and a remove button. The API-loaded issue has no controls. An add issue link is below all the cards](new-list-loop.png)
+</details>
+
+<p></p>
+
+See the [list loop tech notes v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/forms-system/list_loop_v2.md) for details on how this is set up.
+
+---
 
 A similar list-loop pattern is also used on the contact info page. In place originally was a link directing the Veteran to their profile page in a new tab, but it was not an ideal method since we shifted the Veteran out of the form flow. So we implemented code from the profile team which opened up an editor within a modal. At the design review, this was considered confusing. The profile team, again luckily, had just implemented code that allowed inline editing of profile data, but we instead followed the review recommendation of creating a new page for each bit of contact info that was to be edited: mailing address, mobile phone and email.
 
@@ -138,9 +176,7 @@ flowchart LR
     C --> G[Filing deadline Info]
 ```
 
-### Filing deadline (previous opt-in page)
-
-The Higher-Level Review (HLR) v2 update made it very similar to the Notice of Disagreement form, except for this page. The Board met with us and changed the language for this page numerous times. For HLR, the opt-in page is optional and includes a checkbox. It is only shown when the contestable issues endpoint includes legacy appeals, or if an issue is manually entered. For NOD, the `socOptIn` value is required by Lighthouse so it's always submitted as `true`; but in the last Board review recommendation for this page, they decided to remove the checkbox and move it earlier in the flow.
+See the [list loop tech notes v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/forms-system/list_loop_v2.md) for details on how this is set up.
 
 ## What are some things we'd make better if we had more time?
 

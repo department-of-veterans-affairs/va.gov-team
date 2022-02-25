@@ -12,8 +12,8 @@ Technically vets-api and Lighthouse run on the same server, but we treat each ot
 
 ## Front-end
 
-- [Overview](NOD_frontend_overview)
-- [Details](NOD_frontend_details)
+- [Overview](NOD_frontend_overview.md)
+- [Details](NOD_frontend_details.md)
 
 ```mermaid
 flowchart TB
