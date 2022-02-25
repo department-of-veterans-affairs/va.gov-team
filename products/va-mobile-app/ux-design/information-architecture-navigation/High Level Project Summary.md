@@ -3,7 +3,7 @@
 # **VA Mobile App: Information Architecture & Navigation - High Level Project Summary**
 
 
-This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the [IA & Navigation project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) (part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
+This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the VA Mobiel App IA & Navigation project (part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
 
 ## Background & Motivation
 
@@ -53,9 +53,10 @@ There has been research conducted around veteran mental models for the content o
 The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to quickly explore the opportunity space and deliver a solution that is user-centered and achieves product goals.
 
 
-* **Phase I** of this work will give insight on the usability and comprehension of the proposed information architecture direction.
+* **Phase I** of this work is Information Architecture & Navigation research. It will give insight on the usability and comprehension of the proposed information architecture direction.
     * It describes a 3-part study that uses the following methods: [open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort), [closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort), and [tree test].
-* **Phase II** of this work is a [competitive analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/competitive-analysis). It will be done in parallel with Phase I.
+* **Phase II** of this work is a navigation model exploration. It will identify navigation model best practices for apps dealing with similar data needs out in the wild, explore how they might work for the VA mobile app, and decide on a navigation model for the app moving forward. It will be done in parallel with Phase I.
+   * Activities will include a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/competitive-analysis), a design exploration based on the findings from the IA research & comparative analysis, and a systematic evaluation of navigation model design directions based on success criteria established by the team & product owners. 
 * **Phase III** of this work will give insight on the usability and comprehension of the proposed UI direction.
 
 
