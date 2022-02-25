@@ -64,10 +64,10 @@ Before we start, a few things I want to mention:
 - Where do you think the information you're seeing is coming from?
 - What are you able to do from this page?
 - What is missing from this page? What information would be useful for you to see here?
-- *start* Medical Records: Let's say you needed to get a copy of your vaccine records, how would you do that from here? (before clicking) What would you expect to see here? 
-- Pharmacy: Let's say you needed to check on a prescription, how would you do that from here?
-- Messages: You want to send a message to your doctor, how would you do that from here?
-- Appointments: You want to check all your upcoming appointments, how would you do that from here?
+- Medical Records: Let's say you needed to get a copy of your vaccine records, how would you do that from here? (before clicking) What would you expect to see here? 
+- Pharmacy: Let's say you needed to check on a prescription, how would you do that from here? (before clicking) What would you expect to see here? 
+- Messages: You want to send a message to your doctor, how would you do that from here? (before clicking) What would you expect to see here? 
+- Appointments: You want to check all your upcoming appointments, how would you do that from here? (before clicking) What would you expect to see here? 
 
 
 ### Things to watch for:
@@ -135,6 +135,7 @@ Before we start, a few things I want to mention:
 - What other ways would you expect to organize your messages?
 - If you had questions about your messages, how would you find answers?
 - How would you like to organize your messages?
+- How would you get back to that first screen we saw?
 
 ### Things to watch for:
 
@@ -142,12 +143,12 @@ Before we start, a few things I want to mention:
 - Are Veterans successfully able to complete the tasks?
 
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 2 minutes
 
 - What are your thoughts about what we looked at today?
 - Any other things that would be good for us to know?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
