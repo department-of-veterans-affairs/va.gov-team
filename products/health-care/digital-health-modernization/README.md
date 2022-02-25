@@ -5,7 +5,6 @@
 ## Team
 ### Current
 - Meg Peters - Information Architecture
-- Ryan Thurlwell - Design
 - Tracey Mulrooney - Product
 - Christopher Froehlich - Engineering
 - Patrick Vinograd - Engineering
