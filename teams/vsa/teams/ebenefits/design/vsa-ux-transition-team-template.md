@@ -1,25 +1,25 @@
-# VSA team name UX resrach & design hub
+# VSA team name UX research & design hub
 
 </br>
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during desing and development. Also included are links to other resources and references used.
+> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
 
 </br>
 
 ## Table of Contents
-[Table of features & initiatives](#table-of-features-and-initiatives)
+[Features & initiatives we worked on](#features-and-initiatives-we-worked-on)
 
-[UX research resources](#ux-research-resources)
+[Our UX research resources](#our-ux-research-resources)
 
-[UX design resources](#ux-design-resources)
+[Our UX design resources](#our-ux-design-resources)
 
-[Team members](#team-members)
+[Our team](#our-team)
 
 </br>
 
-## Table of features and initiatives
+## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
@@ -32,11 +32,11 @@ This table includes links to the individual feature directory and the latest ite
 
 </br>
 
-## UX research resources
+## Our UX research resources
 We used these UX research resources during design and development.
 
 ### References
-- [VA Plaform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
+- [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
 ### Templates
 - [Research plan template]()
@@ -45,7 +45,7 @@ We used these UX research resources during design and development.
 
 </br>
 
-## UX Design resources
+## Our UX design resources
 We used these UX design resources to guide our design and development.
 
 ### Design system
@@ -65,7 +65,7 @@ We used these UX design resources to guide our design and development.
 
 </br>
 
-## UX research/design process
+## Our UX research/design process
 Add team-specific process documentation; add notes.
 
 - [Team process doc]()
@@ -85,7 +85,7 @@ Outline your process; add notes.
 6. Provide content for sitewide review
 7. Present refined mockups at mid-point review
 8. Conduct usability testing
-9. Refine/finaize screens and flows
+9. Refine/finalize screens and flows
 10. Review feature in staging
 11. Second usability testing round
 12. Review feature in production (if possible)
@@ -111,7 +111,7 @@ List your tools; add notes.
 
 </br>
 
-## Team members
+## Our team
 
 ### March 2022 team roster
 
