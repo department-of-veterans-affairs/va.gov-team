@@ -1,4 +1,4 @@
-# Product Outline Template
+# Product Outline (DRAFT as of Feb 25,2022)
 *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
