@@ -14,15 +14,13 @@ Dave Sukharan, Dave.Sukharan@adhocteam.us
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md#recommendations)
 
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md#further-research-needed)
 
 <br>
 
@@ -83,15 +81,11 @@ Most veterans (70%) suggested a non-web based action for solving their problem f
 
 **Veterans are often able to select the best label for their scenario on the Facilities Search page.**
 
-Labels: label 1, label 2 
-
 > 100% of tested Veterans selected the best label for their scenario from the Service Type dropdown menu.
 > Note, though Veterans may be confident in their selection, the internal meaning of these labels may not be consistent across all locations and therefore may not match the Veterans' expectations.
 
 
 **Veterans experience significant confusion and increased cognitive load when receiving a "No Results" search.**
-
-Labels: label 1, label 2 
 
 > I know there are three major bases around here. There's no way they don't offer help with this service! I've been to this base. They offer everything here, for sure
 > 40% of tested users were confused by the map delivering No Results
@@ -99,29 +93,21 @@ Labels: label 1, label 2
 
 **Veterans experience significant anger or frustration when presented with location pages which are “dead ends”: have no services, no open hours, or are closed without explanation.**
 
-Labels: label 1, label 2 
-
 > “Like this page (sparse location specific page)... it pisses me off *bitter laugh*. I would say an expletive and leave. I want it to be more like the Baltimore location where someone actually put in some care.”
 > 221 (49%) Location Specific pages offer less than 3 Services
 > 18 (6%) of Location Specific pages are currently marked Closed M-F in their listed hours.
 
 **Veterans appreciate any knowledge to help speed their VBA location visit or confirm their prior knowledge and research.**
 
-Labels: label 1, label 2 
-
 > “I would want a list of FAQ's. There’s only a limited number of unique inquiries that a Veteran can make. The VA knows what the Veterans - what WE need to know and what we want to know. The call centers are completely slammed, they know what Veterans want to hear.”
 > “This part up here (the megamenu) is great. Every question I have is just a click away. How to apply, change my address, I just click on it... it feels like this part is done and this part (the services list) is not.”
 
 **Veterans who receive the wrong information (or perceive the information as wrong) can be subject to critical errors and loss of trust.**
 
-Labels: label 1, label 2 
-
 > Two of the tested Veterans described painful experiences where they needed to travel to the same VBA location multiple times to complete the same task because the employees necessary to complete their task were not there.
 > Veterans who experienced confusion on the map would also talk about the unreliability or opaqueness of VA systems as a whole.
 
 **Veterans don't often want to seek help at a physical location. When they do, they are looking for targeted, personal, and specific help.**
-
-Labels: label 1, label 2 
 
 > 70% of users chose a non-web based solution first
 > Multiple tested Veterans said that seeking a physical location would not be their first choice. Instead, they prefer to complete extended research on their own, then seek help from the VA or VBA systems only if those failed.
