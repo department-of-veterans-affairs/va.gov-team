@@ -1,4 +1,4 @@
-# WIP VAOS product and business rules
+# VAOS product and business rules
 
 This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that VAOS follows.
 
