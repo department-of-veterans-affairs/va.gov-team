@@ -33,7 +33,7 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 1. *ONLY participants on desktop and NOT using a screen reader:* **Show the poster** on the moderator's computer with mouse control given to the participant. Participants will be able to view the poster and scroll it.
 2. *ALL participants:* **Show the static landing page** on Staging by giving participants a URL to open in their browser. Participants will be able to view the page and interact with the content, opening and closing accordions.
 
-*[ACTION ITEM: Get the static landing page onto Staging with all accordions/links interactive and real-looking phone numbers]*
+*[ACTION ITEM: Get the static landing page onto Staging that works on desktop & mobile with all accordions/links interactive and real-looking phone numbers]*
 
 *[ACTION ITEM: Get the most recent version of the poster from Martha]*
 
