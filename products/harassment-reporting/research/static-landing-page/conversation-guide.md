@@ -1,12 +1,6 @@
 # Conversation Guide: Harassment Reporting Landing Page & Poster
 Public Websites team, Feb 25, 2022
 
-## ACTION ITEMS: 
-- Reach out to the mental health group and Veteran Crisis Line (VCL) about how we're sharing VCL info because they're sensitive about their info and how it's used/presented (according to Danielle Thierry)
-  - Brian/Dave can help with VCL contact
-  - Danielle can help with the Office of Mental Health and Suicide Prevention
-- Review landing page on Staging & get URL that works on desktop and mobile
-
 ## Moderator logistics
 
 *Review participant list for participant name and screener question responses*
@@ -40,6 +34,8 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information.
 
 I'm also joined by my social work colleague, *[Name]*. If you need support at any time during this call, please feel free to ask me to stop and for *[Name]* to help answer questions or provide support. I may also ask *[Name]* to help provide support if needed.
+
+*(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session. 
 
 Before we continue, I'd like to tell you a little more about who I am and what we’re doing...
 
@@ -121,7 +117,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
   - Please know that if you ever need support or just to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
   - Would you like to stop this session now?
 
-## Warm-up Questions - 5-10 minutes (depending on whether show poster)
+## Warm-up Questions - 5-15 minutes (depending on whether show poster)
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
@@ -143,7 +139,7 @@ Let’s start with a question...
     - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
     - *(Pause to allow as much time as the participant wants to read/process the poster)*
     - What do you think you or your friend would do next if you wanted to report the interaction I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
-      - *(call 911 / call other phone # / talk to patient advocate / police / building security / ____________)*
+      - *(call 911 / call 800 # / talk to patient advocate / police / building security / ____________)*
     - What other thoughts do you have about this poster?
    
 - *(only for participants using screen readers)* Say that while you were at the VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
@@ -151,18 +147,18 @@ Let’s start with a question...
 
 
 ## Start screen sharing
-I'm going to share with you a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
+I'm going to share with you a web page that may not function the way you expect. Some parts of the page will work, and some will not. 
 
-Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
+Before you click/tap anywhere on the page, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+While you're looking at this web page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
+I would like you to share your screen with me so I can watch you use the web page in your web browser. 
 *(refer to Screen sharing instructions above, if needed)*
 
 What kind of device are you using today? *(Phone / Computer)*
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (**URL TBD**). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'm going to (spell/put into the Zoom chat/email/text) a link for you to open (**URL TBD**). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
@@ -175,7 +171,7 @@ Do you see the link?
   - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
   - *(Pause to allow as much time as the participant wants to read/process the page)*
   - What do you think you or your friend would do next if they wanted to report the interaction I described earlier--a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable?
-    - *(call 911 / call VA police / call phone # below blue box / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
+    - *(call 911 / call VA police / call 800 # / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
 
   - What do you think will happen next?
   - What other thoughts do you have about this page?
@@ -195,7 +191,7 @@ Do you see the link?
 
 - We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
   - Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
-  - If you or your friend was harassed, was it reported?
+  - If you or your friend was harassed, was it reported? *(no / yes)*
   - If so, *how* was it reported? *(phone call / in person / ___________)*
   - If it wasn't reported, what were the barriers to reporting it?
   - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
