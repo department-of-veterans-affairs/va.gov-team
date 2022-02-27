@@ -77,8 +77,6 @@ By including communities of Veterans with more complex and underrepresented need
 If our research doesn’t provide equal (or ideally equitable) opportunities to participate for certain underserved communities of Veterans, how can we be confident that our services will be useful to them at all?
 For example, check out this research study conducted by the facilities team which uncovered a number of new insights that [Veterans using assistive technology struggled to use the facility locator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md#using-facility-locator-and-assistive-technology) despite [success with Veterans without assistive technology in prior studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research).
 
-![image](https://user-images.githubusercontent.com/14154792/155893716-b377ecf3-bd54-4721-9484-c662f7b0094c.png)
-
 ### Create more awareness around underserved Veteran communities.
 The more we openly talk about underserved communities of Veterans, point out gaps in our recruitment, and look for ways to improve– the faster we’ll be able to reach equity.
 
