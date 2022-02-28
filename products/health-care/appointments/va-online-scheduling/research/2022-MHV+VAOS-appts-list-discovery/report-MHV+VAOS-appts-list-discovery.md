@@ -149,7 +149,9 @@ Date and time was the first piece of information participants used to differenti
 
 > "Under the Medical Center Division, it does not tell me what clinic or what the appointment is about. Now I must find out because I do not know what appointment that clinic is for." - P10
 
-See also: findings from the [2020 CC provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments).
+See also: 
+* Findings from the [2020 CC provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments).
+* Findings from the Check-in Experience team's [MVP study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md#the-appointment-information-shown-was-sufficient-for-participants-to-understand-what-appointment-they-were-checking-in-for) 
 
 ### Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
 
@@ -172,6 +174,8 @@ Additionally, 2/9 wanted to see instructions about how to check-in, or what to b
 >  [Looking at past appointments] "If anything, it is not very clear on where it took place. Like in-person or a phone call. It is not something I would look at and know if I went in or if it was a phone call. Not very many details on what each appointment was about." - P11
 
 > "There is a standardized naming process and there is also a patient-friendly name, but on here it seems it is either the standardized name or it may have both names. That's frustrating to patients who may not understand the name. It needs to be the 'patient-friendly' name so they know where they are going. Clinic Profile Team who lists the clinic names that are provided by the clinics. The wayfinding for Veterans is not the best when it came to this list. The fact you can not see where you are supposed to go is the problem." - P3, who is familiar with the scheduling process from the facility side as well as being a Veteran.
+
+See also: findings from the Check-in Experience team's [October 2021 Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/phase2-usability/research-findings.md#seeing-a-list-of-all-the-days-appointments-is-valuable-to-veterans)
 
 ### Participants wanted tools to help them contact their provider
 
