@@ -22,6 +22,10 @@ Date: 02/24/2022
 
 Our goal is to make the login experience more accessible for low vision and no vision users. Specifically, the goal of this study is to find any issues or pain points when using screen readers and other assitive technologies to log in to VA.gov.
 
+- Discover how users navigate the login portion of our new login page
+- Discover any inconsistencies regarding the current design of the login page i.e. pain points for our users
+- Being able to test the efficiency of the current login page. Finding measurements.
+
 <br>
 
 # Research Questions
@@ -40,6 +44,12 @@ Our goal is to make the login experience more accessible for low vision and no v
 ## Research Methodology
 
 - Remote moderated user interviews
+
+We chose this method in order to:
+
+- Observe how users navigate the login page using a screen reader.
+- Observe where users are having difficulty in different areas of the login experience.
+- Ask returning users to evaluate this experience vs the previous experience.
 
 <br>
 
