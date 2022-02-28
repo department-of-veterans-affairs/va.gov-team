@@ -3,7 +3,7 @@
 
 **Team:** Education benefits team
 
-**Product/Featue:** Messaging
+**Product/Featue:** Education inbox
 
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/30790
 
@@ -25,15 +25,18 @@
 
 **Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
-   |   |   |  | 
+Static landing page   |  TBD   |  TBD   |  
+"Inbox" | TBD | TBD | 
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**Action** | **Placement** | **Destination** | **Description**
+**Action** | **Placement** | **Destination** | **Details**
 --- | --- | --- | ---
-   |   |   |  | 
+Add | [Educaton hub page](https://www.va.gov/education/)  |   |   
+Add | Educaton left nav  |   |   
+
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -41,7 +44,7 @@
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  
+-  None needed for this work
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
