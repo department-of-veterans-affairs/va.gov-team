@@ -87,6 +87,7 @@ Before we start, a few things I want to mention:
 - What does Blue Button mean to you?
 - Have you downloaded medical info from the VA (or other providers?) before? What was that experience like? Did you have any issues? How did you resolve them?
 - What is missing that you'd expect to see here?
+- Let's say you needed to check on a prescription, how would you do that from here? (before clicking) What would you expect to see here?
 
 ### Things to watch for:
 
