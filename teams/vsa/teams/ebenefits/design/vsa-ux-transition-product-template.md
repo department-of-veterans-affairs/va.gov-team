@@ -1,4 +1,4 @@
-# VSA team name product outline
+# VSA team name product transition doc
 
 <br>
 
