@@ -13,9 +13,10 @@ By stewarding inclusive research at the VA, we can:
 - Create more awareness and conversation around underserved Veteran communities across all VA.gov teams.
 
 ## [Introduction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md)
-- Setting inclusive goals
-- Underserved Veteran communities
-- Roadmap for new guidelines
+- Definitions 
+- Why inclusive research matters
+- How to get started
+- Future goals
 
 ## [Documents, Tools, and Methods](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/documents-tools-and-methods.md)
 - Document and tools, current state and recommendations
