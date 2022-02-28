@@ -124,14 +124,14 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
 Let’s start with a question...
 
 - I'd like you to imagine that you or a friend went to a VA medical clinic today for a doctor's appointment, and on the way in, a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable. You or your friend think more about what happened and decide to report it to hopefully prevent it from happening to other people. What do you think you or your friend would do? 
-  - *(don't / report it / talk with someone/police at the VA / call 911 / google)* 
+  - *(don't / report it / talk with someone/police at VA / call 911 / google)* 
   
   - Can you tell me more about why?
   - What do you think you or your friend would do next?
 
     - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
-- *(only for sighted participants)* Say that while you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(only for sighted participants)* Say that while you were at VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
 - *(only for sighted participants on desktop)* Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
@@ -142,7 +142,7 @@ Let’s start with a question...
       - *(call 911 / call 800 # / talk to patient advocate / police / building security / ____________)*
     - What other thoughts do you have about this poster?
    
-- *(only for participants using screen readers)* Say that while you were at the VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(only for participants using screen readers)* Say that while you were at VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
 
