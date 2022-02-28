@@ -29,10 +29,20 @@
 </details>
 
 ## Monday, February 28, 2022
-* `servicelocations` fields.
+* `servicelocations` fields
 * `healthserviceAPI`
+  * all services are ready to push without locations data
+  * LH hoping to have a solution to be ready to receive soon (possibly this week)
 * VBA service - was going to validate with VBA if "pension" should be in the data
   * reach out to office of field operations to see if it needs to be deprecated from LH or we need to add data
+  * no response yet
+  * verified that LH gets lat/long from Sandy Tadeo's database and not geoBisl
+* Process for map thumbnail misalignments (one offs)
+  * Best way to make requests: posting in slack currently; LH to get back with best intake method for requestors to do directly
+  * currently based on lat/long from LH which they get from multiple sources
+  * possible batches and timing questions
+    * "GSSC bands get updated on the last Saturday of every month. GSSC aims to integrate that data around the 15th of the following month, but recently it has been coming about a week later."
+
 
 ## Monday, February 14, 2022
 * `servicelocations` fields. CMS projecting to fill out in sprint 52 (ends 2/25)
