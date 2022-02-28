@@ -4,6 +4,8 @@
 
 ### Flow
 
+![Iteration 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/design/user-flows/Iteration%201%20user%20flow.png "Iteration One")
+
 ### Outcomes and feedback
 
 This first iteration sought to visually represent the various entrypoint and paths a Veteran could take depending on what their task related to. 
