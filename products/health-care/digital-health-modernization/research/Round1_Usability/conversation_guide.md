@@ -135,7 +135,6 @@ Before we start, a few things I want to mention:
 - Let's say you wanted to see messages just from the last 6 months, how would you do that?
 - What other ways would you expect to organize your messages?
 - If you had questions about your messages, how would you find answers?
-- How would you like to organize your messages?
 - How would you get back to that first screen we saw?
 
 ### Things to watch for:
