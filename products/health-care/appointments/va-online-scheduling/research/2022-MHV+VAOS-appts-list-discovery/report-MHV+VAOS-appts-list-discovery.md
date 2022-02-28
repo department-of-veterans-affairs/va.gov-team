@@ -228,7 +228,13 @@ Participants said they use their appointments list to:
 
 # Recommendations
 
-### Provide clear information to answer basic questions about appointments in the list
+### Review the transition from MHV to VAOS
+
+Currently both MHV and VAOS provide users with multiple scheduling options if they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
+
+Also note the work started in VAOS ticket [34234](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/34234) to help simplify this list, and the work to personalize this list (ticket [26442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26442). 
+
+### Provide clear information that answers basic questions about appointments in the list
 
 Based on this (and previous) research, we believe the following information would be the ideal summary of a single appointment. Symbols indicate whether VAOS currently has the ability to display:
 * ✅ All the data
@@ -288,32 +294,44 @@ Phone:
 
      ✅ Status showing if canceled
 
-Note: VAOS defines the data, or content displayed for these data points
+Note: VAOS defines the data, or content displayed for these data points:
 
 * Modality
 * Status showing if canceled
 * Short summary of how to join
 
+### Advocate for clear clinic names
+
+we can not recommend adding the current code-like clinic names to the appointments list at this time. These names are too inconsistent and confusing to provide as much value as the data points listed above.
+
+We recommend a technical effort to surface clearer clinic name data. We also recommend talking to facilities about clinic names to better understand the value of using codes over the name of the clinic, and discover if sources of better information exist.
+
+
 ### Continue iterating on and testing the proposed desktop and print layout
 
-Participants responded
+Participants responded well to the new concept; we feel comfortable using that as a basis for our next iteration.
 
+The greatest value in the updated concept was showing clear modality information. We recommend keeping that and the overall layout, while adjusting the other data based on our earlier recommendation in this report.
 
+We also recommend reviewing the Pending appointments language, as this was a potential source of confusion for our participants.
 
-* Run technical discovery around how better wayfinding data might be surfaced, especially
-    * Type of care for all appointments
-    * Check-in location, including building name, floor number, and room number for in-person appointments
+### Consider giving Veterans a tool to message their providers from the appointment list.
 
-* When usability testing the new VAOS concept:
-    * Check if the modality icons/information are clear
-    * Check if the language around Pending appointments makes sense
-    
+When Veterans check their appointments, participants reported that they often follow up by sending a message their providers with questions or concerns. Consider providing a link to the secure messaging tool to save them from navigating to it separately. 
+
+Also consider keeping the context from which the message was started, like opening the message window to directly message that provider, or including information about the appointment from which the Veteran was looking at when they initiated the message.
+
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-[TBD with VAOS team]
+* VAOS will share findings and recommendations with the MHV team.
+* VAOS will work with PO and stakeholders to determine options for clinic name discovery and advocacy.
+* VAOS will validate the situations where type of care can/can't be shown
+* VAOS will work to surface:
+    * Lab information or details 
+    * Clearer clinic name and location information
+* VAOS will run technical discovery on whether facility campus map or location pages can be reliably added to appointment details.
+* VAOS will create a Proof of Concept for a secure message flow that allows Veterans to directly message their providers.
 
 
 # Appendix
