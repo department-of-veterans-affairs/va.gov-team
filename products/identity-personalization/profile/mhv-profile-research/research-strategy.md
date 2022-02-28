@@ -58,7 +58,7 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 ## Approach	
 We’ll work on this research over 4-5 sprints. Since we’ll have to rely on other stakeholders and partners to conduct our research, we’ll likely have chunks of this work that will start in one sprint and carry over into another. 
 
-In the first two sprints (**Feb 23-Mar 22**) we’ll work toward [research goals 1-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals) *(tickets [37738](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/37738), [37495](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/37495) and ([37741](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/37741)*).
+In the first two sprints (**Feb 23-Mar 22**) we’ll work toward [research goals 1-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals).
 1. We’ll conduct an audit of MHV’s Personal information section and comparing it to VA.gov’s Profile. (Ticket )
 2. We’ll talk to the MHV teams (stakeholders, UX, devs) to learn about:
 	- the current status
