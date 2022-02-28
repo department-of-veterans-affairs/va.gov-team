@@ -9,30 +9,18 @@
 <br>
 
 ## Table of Contents
-[Timeline](#timeline)
+[Product context (PM)](#product-context)
 
-[Product context](#product-context)
+[Product portfolio (PM)](#product-portfolio)
 
-[Product portfolio](#product-portfolio)
+[Product approach (Team)](#product-approach)
 
-[Product approach](#product-approach)
+[VA relationships (Team)](#va-relationships)
 
-[VA relationships](#va-relationships)
-
-<br>
-
-## Timeline
-Milestones and dates pertaining to the transition
-
-<br>
-
-## Product context
+## Product context 
 Brief plain-language description of the problem space where your team and its products operate
 
-<br>
-
 ## Product portfolio
-
 ### Product name
 Brief plain-language description of this product
 
@@ -44,13 +32,11 @@ Brief plain-language description of this product
 #### Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
 
-- Step
-- Step
-- Step
+- Now
+- Next 
+- Later
 
-<br>
-
-## Product approach
+## Product approach 
 
 ### Artifacts
 - [Team charter]()
@@ -71,7 +57,7 @@ Brief plain-language description of this product’s history and next steps
 <br>
 
 ## VA relationships
-
+> You can reference specific product outlines or the team charter if contact or meeting information exists there already
 ### Contacts
 
 - Person Name | email.address@va.gov -- Product owner
