@@ -26,4 +26,7 @@
 - ![image](https://user-images.githubusercontent.com/92328831/152362485-e6c0dd8b-e9dd-4f73-8775-b0371e7c62ff.png)
 
 
-### TBD - Benefit Payments and debts (to be updated once the product has launched)
+### Unable to load Payment information (cannot determine if user has payment history) - May be updated once the product has launched
+![image](https://user-images.githubusercontent.com/92328831/156027669-84a7b37f-5aa1-4fad-a003-1753b5534f9d.png)
+
+
