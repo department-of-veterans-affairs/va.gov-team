@@ -22,7 +22,7 @@ Through this research, we’d like to understand:
 The findings from this research will inform our strategy for how we should move forward with rolling the MHV profile into the VA.gov profile.
 
 ### Research questions
-	#### About the profile/Personal Information section
+#### About the profile/Personal Information section
 * What data do we already have in the VA.gov profile that is also part of the MHV profile?
 * What data do we not already have in the VA.gov profile that should move over from MHV?
 * What data do we not already have in the VA.gov profile that should *not* move over from MHV?
