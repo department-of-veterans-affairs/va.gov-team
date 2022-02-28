@@ -66,9 +66,9 @@ Aside from those points, participants were generally able to understand and use 
 
 1. [Most participants were confused that there are two different sites that list their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#most-participants-were-confused-that-there-are-two-different-sites-that-list-their-appointments)
 
-2. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#39-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
+2. [Clinic names confused participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-patient-friendly-names-and-name-codes-were-confusing)
 
-3. [Clinic names confused participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-patient-friendly-names-and-name-codes-were-confusing)
+3. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#39-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
 
 **What information do Veterans need in an appointments list to make it useful?**
 
@@ -96,24 +96,7 @@ When asked about the most confusing aspect of all appointment lists they saw (MH
 
 > "The log-in process is frustrating because you are already logged into MHV and when you need to schedule an appointment why would I need to log in again?" - P10
 
-> "Why would I go through the whole process of navigating here if [MHV] has everything I need?" - P12
-
-### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
-
-When scheduling online from MHV one screen asks Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
-
-<img width="878" alt="Screen Shot 2022-02-22 at 8 43 10 AM" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
-*MHV's list of sites scheduling options.*
-
-We've heard in previous research<sup>1</sup> that these facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
-
-Note: While we didn't see it in the study, VAOS also asks Veterans who are registered at Cerner facilities to choose from all their registered facilities. This repeated question may add another step and potentially more confusion when navigating from MHV to VAOS.
-
-> "I wish they would remove the old clinics that I no longer go to off this list." - P5
-
-> "I am not sure why [Facility name] is on there; that is 4 hours away." - P12
-
-<sup>1</sup>See also: [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations). 
+> "Why would I go through the whole process of navigating here if [MHV] has everything I need?" - P12 
 
 ### Clinic names confused participants
 
@@ -131,6 +114,23 @@ Participants indicated that these needs could also be met by providing "type of 
 > "You should have the Section of the Clinic (Clinics inside Clinics). In one building you will have multiple Clinics for different services (Lab/Physical Therapy/Primary Care), I just need this to tell me why I am going there." -P2
 
 > "Clinic names just tells you what kind of appointment is going on, and what I might need for the appointment." -P3
+
+### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
+
+When scheduling online from MHV one screen asks Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
+
+<img width="878" alt="Screen Shot 2022-02-22 at 8 43 10 AM" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
+*MHV's list of sites scheduling options.*
+
+We've heard in previous research<sup>1</sup> that these facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
+
+Note: While we didn't see it in the study, VAOS also asks Veterans who are registered at Cerner facilities to choose from all their registered facilities. This repeated question may add another step and potentially more confusion when navigating from MHV to VAOS.
+
+> "I wish they would remove the old clinics that I no longer go to off this list." - P5
+
+> "I am not sure why [Facility name] is on there; that is 4 hours away." - P12
+
+<sup>1</sup>See also: [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
 
 ## What information do Veterans need in an appointments list to make it useful?
 
