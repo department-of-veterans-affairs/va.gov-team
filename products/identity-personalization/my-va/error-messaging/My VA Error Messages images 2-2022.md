@@ -27,6 +27,7 @@
 
 
 ### Unable to load Payment information (cannot determine if user has payment history) - May be updated once the product has launched
-![image](https://user-images.githubusercontent.com/92328831/156027669-84a7b37f-5aa1-4fad-a003-1753b5534f9d.png)
+![image](https://user-images.githubusercontent.com/92328831/156027753-c22241fd-7017-475f-8f7f-0f01ffb77bd5.png)
+
 
 
