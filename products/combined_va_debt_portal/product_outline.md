@@ -1,28 +1,30 @@
-# Product Outline (DRAFT as of Feb 25,2022)
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
----
+# Product Outline: Combined VA Debt Portal
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Providing Veterans with a singular combined experience where they can see all of their financial matters in one place. Including VA Debts, debt letters, health care payments 
+
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+How might we provide a dashboard like experience where Veterans  are able to see all my VA debts, debt letters and payments in one place? At the moment Veterans need to visit the Debt Portal at manage.va.debt to see any debts they may have while they have to go to the medical copay portal (a different place) to see any medical copays that they have acquired as a result of health care visits.  Allow Veterans to view ALL VA debts online and decrease time to resolution while meeting congressional mandates
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+This solution will empower the Veteran to see all their debt, payments and bills. We envision it will also grow to include future options that can help the Veteran to manage those debts such as requesting a waiver,  submitting a dispute, or compromise. When Veterans make a submission, that information would be routed to VBA and/or VHA.
+
+
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans have a single dashboard to review all VA debts, debt letters and payments 
+- Decrease Veteran confusion and time it takes to review, manage or resolution their financial matters
 
 ## Undesired User Outcomes
-
+- Increase Veteran confusion and uncertainty
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Meeting congressional mandates
+- Optimize Veteran experience and align to Veteran feedback
+- Allow DMC, VHA and others to promote a singular experience to Veterans to ease in communications and access to portal
 
 ## Undesired Business Outcomes
 
@@ -39,6 +41,8 @@
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
+| KPI      |Combined Debt Portal Pageviews          |                    |                    |        |
+| KPI      | Click Thru Rates            |                    |                    |        |
 | KPI      |             |                    |                    |        |
 | KPI      |             |                    |                    |        |
 
@@ -79,10 +83,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  -  March 29, 2022
 - *Actual Launch Date* 
   - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+- *Post Launch Evaluation*
+	-  tbd
+- *Impact Review*
   - tbd
 
 ---
@@ -107,11 +113,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Debt Resolution
+- GitHub Label: vsa-debt
+- Slack channel: #vsa-debt
+
 
 </details>
 
@@ -119,10 +124,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Matt Self
+ - PM: Denise Coveyduc
+ - Engineering: Scott James, Brandyn Sullins, Andrew Rodiek
+ - Research/Design:  Riley Orr
+ 
  
 </details>
 
@@ -131,7 +137,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+
+- Debt Management Center (DMC) 
+- Veterans Health Administration (VHA)
  
 </details>
+
 
