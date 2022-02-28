@@ -25,13 +25,13 @@ With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
 # Research Goals
 
-In 2021, the VA Online Scheduling (VAOS) and MyHealtheVet (MHV) teams completed a gap analysis to examine whether the VAOS appointments list was providing the same information and value as the equivalent list in MyHealtheVet. This study is a follow-up to that gap analysis.
+In 2021, the VA Online Scheduling (VAOS) and MyHealtheVet (MHV) teams collaborated on a gap analysis between the two product's appointment lists. The goal was to examine whether the VAOS appointments list was providing the same information and value as the equivalent list in MyHealtheVet. 
 
-The goal for this research is to identify anything participants find lacking or confusing in the VAOS appointment list, in comparison with the same list in MHV.
+This study is a follow-up to that gap analysis. The goal for this research is to identify anything participants find lacking or confusing in the VAOS appointment list, in comparison with the same list in MHV.
 
-From this research, we will determine what changes are needed to the VAOS list beyond what's been identified in the gap analysis.
+From this research, we will determine what changes are needed to the VAOS list beyond what was  identified in the gap analysis.
 
-We will validate the findings from this concept study with usability research.
+We plan to validate the findings from this concept study with usability research.
 
 # Research Questions
 
@@ -50,15 +50,13 @@ _Veterans largely use the MyHealtheVet appointments list to understand and manag
 
 _Likely true_
 
-Most participants were confused that there were two places to manage appointments that required separate logins. This has been reported in other research, and through user feedback.
+Most participants were confused that there were two similar places to view and manage appointments that required separate logins.
 
-The MHV list offers one piece of data that the VAOS list does not: the "patient-friendly clinic name". However, this data is often an internal code familiar to the facility. One participant described it this way: "when you mix military and medical jargon you get something wacky."
+Also, participants were confused by the clinic name. For context, the MHV list offers one piece of data that the VAOS list does not: the "patient-friendly clinic name". However, this data is often an internal code familiar to the facility. One participant described it this way: "when you mix military and medical jargon you get something wacky."
 
 We saw participants cull different information from this name: type of care, modality (how they attend, whether over the phone), and clinic location. But the actual information provided was different depending on the facility and the participant.
 
-From an interaction perspective, participants were able to understand both and use lists, and noted challenges and positive features from both. 
-
-We'll cover the findings that led to these conclusions in detail next.
+Aside from those points, participants were generally able to understand and use both lists. They noted challenges and positive features from both which are covered in detail under Key Findings.
 
 
 # Key Findings
@@ -67,9 +65,9 @@ We'll cover the findings that led to these conclusions in detail next.
 
 1. [Most participants were confused that there are two different sites that list their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#most-participants-were-confused-that-there-are-two-different-sites-that-list-their-appointments)
 
-2. [3/9 participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#39-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
+2. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#39-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
 
-3. [Clinic patient-friendly names and name codes were confusing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-patient-friendly-names-and-name-codes-were-confusing)
+3. [Clinic patient-friendly names and name codes confused participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-patient-friendly-names-and-name-codes-were-confusing)
 
 **What information do Veterans need in an appointments list to make it useful?**
 
@@ -91,7 +89,7 @@ We'll cover the findings that led to these conclusions in detail next.
 
 ### Most participants were confused that there are two different sites that list their appointments
 
-When asked about the most confusing aspect of all appointment lists they saw (MHV, VAOS, and the concept), 6/9 participants said it was that there were two sites that do the same thing, but require an additional login.
+When asked about the most confusing aspect of all appointment lists they saw (MHV, VAOS, and the concept), 6/9 participants said it was that there were two sites that do the same thing but require an additional login.
 
 > "I hate that when I clicked on schedule an appointment, I must go to another site to log back in. It should be on one page." - P6
 
@@ -99,22 +97,22 @@ When asked about the most confusing aspect of all appointment lists they saw (MH
 
 > "Why would I go through the whole process of navigating here if [MHV] has everything I need?" - P12
 
-### 3/9 participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
+### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
 
-When scheduling online from MHV a screen pops up asking Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
+When scheduling online from MHV one screen asks Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
 
 <img width="878" alt="Screen Shot 2022-02-22 at 8 43 10 AM" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
 *MHV's list of sites scheduling options.*
 
-These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
+We've heard in previous research<sup>1</sup> that these facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
 
-Note: While we didn't see it in the study, VAOS also asks Veterans who are registered at Cerner facilities to choose from all their registered facilities. This repeated question adds another step and potentially more confusion when navigating from MHV to VAOS.
+Note: While we didn't see it in the study, VAOS also asks Veterans who are registered at Cerner facilities to choose from all their registered facilities. This repeated question may add another step and potentially more confusion when navigating from MHV to VAOS.
 
 > "I wish they would remove the old clinics that I no longer go to off this list." - P5
 
 > "I am not sure why [Facility name] is on there; that is 4 hours away." - P12
 
-See also: [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations). 
+<sup>1</sup>See also: [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations). 
 
 ### Clinic patient-friendly names and name codes were confusing
 
@@ -125,7 +123,7 @@ See also: [May 2021's preferred facilities research](https://github.com/departme
 * Differentiate their appointments.
 * Find their way at the facility.
 
-These needs could also be met by providing "type of care" and better clinic location information. The next two findings address these needs.
+Participants indicated that these needs could also be met by providing "type of care" and better clinic location information. The next two findings address these needs.
 
 > "I happen to know where this is, but I don’t know if this clinic name (also called: WPB PACT) would be very helpful. I know it is also called the Red clinic so that name would be more helpful than the name provided." -P7
 
@@ -142,7 +140,7 @@ Date and time was the first piece of information participants used to differenti
 * 4/9 Clinic name - as it is called at the VA facility.
 * 2/9 Whether the appointment was for, or connected to, labs. 
 
-> "I would want to know what type of appointment it is right up front. A lot of vets are getting care at outside of the VA, and I would want to see that at the first glance" - P5
+> "I would want to know what type of appointment it is right upfront. A lot of vets are getting care outside of the VA, and I would want to see that at the first glance" - P5
 
 > "The clinic names under the Medical Center name needs to be clearer because I have no idea what any of those letters mean. I want to know what clinic the appointments are with." - P11
 
@@ -154,25 +152,25 @@ See also: findings from the [2020 CC provider selection research](https://github
 
 ### Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
 
-Participants first wanted to know *how* they would attend the appointment; 4/9 wanted clearer information about whether the appointment is in person, over the phone, or over video.
+Participants first wanted to know *how* they would attend the appointment. Along with the 8 participants who were excited to see clear modality information in the concept, 4/9 asked for clearer information about whether the appointment is in person, over the phone, or over video, along with. 
 
-4/9 wanted to see a link to login to the appointment if it was a video appointment.
-
-For in person clinics, the top requests were:
+For in-person clinics, the top requests were:
 * 4/9 Clinic name - as it is called at the VA facility
 * 4/9 Medical center/division name
 * 3/9 Floor number 
 * 3/9 Room number
 
+For video appointments, 4/9 wanted to see a link to log in to the appointment.
+
 Additionally, 2/9 wanted to see instructions about how to check-in, or what to bring to the appointment.
 
-> "Where it states the clinic name under the Medical Center it needs to have friendly clinic names and the exact location of the clinic. Radiology, Women’s Clinic, Dental Clinic, and Red Clinic. I know I can go and there are signs that tell you where to go that most people can find it, but it makes it easier that when you walk in the building you have an idea of where you are going." - P7
+> "Where it states the clinic name under the Medical Center it needs to have friendly clinic names and the exact location of the clinic. Radiology, Women’s Clinic, Dental Clinic, and Red Clinic. I know I can go and there are signs that tell you where to go that most people can find it, but it makes it easier when you walk in the building you have an idea of where you are going." - P7
 
-> [Notices MHV detail says appt is for In person, Telehealth, Phone] - "That's confusing. Is it all three?" - P2
+> [Notices MHV detail says appt is for In-person, Telehealth, Phone] - "That's confusing. Is it all three?" - P2
 
->  [Looking at past appointments] "If anything, it is not very clear on where it took place. Like in person to a phone call. It is not something I would look at and know if I went in or if it was a phone call. Not very many details on what each appointment was about." - P11
+>  [Looking at past appointments] "If anything, it is not very clear on where it took place. Like in-person or a phone call. It is not something I would look at and know if I went in or if it was a phone call. Not very many details on what each appointment was about." - P11
 
-> "There is a standardized naming process and there is also a patient friendly name, but on here it seems it is either the standardized name or it may have both names which is frustrating to patients who may not understand the name. It needs to be the patient friendly name so they know where they are going. Clinic Profile Team who lists the clinic names that are provided by the clinics. The way finding for Veterans is not the best when it came to this list. The fact you can not see where you are supposed to go is the problem." - P3, who is familiar with the scheduling process from the facility side
+> "There is a standardized naming process and there is also a patient-friendly name, but on here it seems it is either the standardized name or it may have both names. That's frustrating to patients who may not understand the name. It needs to be the 'patient-friendly' name so they know where they are going. Clinic Profile Team who lists the clinic names that are provided by the clinics. The wayfinding for Veterans is not the best when it came to this list. The fact you can not see where you are supposed to go is the problem." - P3, who is familiar with the scheduling process from the facility side as well as being a Veteran.
 
 ### Participants wanted tools to help them contact their provider
 
@@ -184,7 +182,7 @@ Some participants indicated that they would use this list in conjunction with se
 
 > "I never use [the main number for the facility]. I have the clinic extensions in my phone contact list and a couple of nurses’ stations in there also." - P12
 
-> "I would like it if you could secure message your provider from this list. I do like you have a contact number for the providers under the details page. Just being able to send a message to your provider based on this appointment, or their clerk to see if there is any more information I may need for the upcoming appointment would be helpful." - P10
+> "I would like it if you could secure message your provider from this list. I do like that you have a contact number for the providers under the details page. Just being able to send a message to your provider based on this appointment, or their clerk to see if there is any more information I may need for the upcoming appointment would be helpful." - P10
 
 ## Will the proposed concept address Veteran data needs, and address any potential gaps between VAOS and MHV?
 
@@ -206,7 +204,7 @@ Participants also had positive reactions to the information layout, and the mini
 
 It wasn't clear how many of our participants were familiar with the concept of appointment requests, but we heard that at least some were not.
 
-Additionally, the dates in the test may have caused some of this confusion, as the upcoming appointments were actually dated as being in the past.
+Additionally, this may have been due to an error in the concept. The upcoming appointments were actually dated as if they had occurred in the past, so some participants thought "Pending" indicated their upcoming appointments.
 
 > "Pending - what does pending mean?" - P2
 
@@ -220,8 +218,8 @@ See also: findings from the [2021 appointments list research](https://github.com
 
 5/9 participants said they don't use the appointments list much. No participant indicated that they used the list on a daily or weekly basis.
 
-Participants said they use their appointments list to:
-* 5/9: Verify that upcoming appointments are properly scheduled by VA
+Participants said they use the appointments list to:
+* 5/9: Verify that their upcoming appointments are properly scheduled by VA
 * 3/9: Check if they have upcoming appointments
 * 2/9: Check against their personal calendar to make sure they're not double-booked
 * 2/9: Use past appointments information to plan for annual appointments
@@ -230,7 +228,7 @@ Participants said they use their appointments list to:
 
 ### Review the transition from MHV to VAOS
 
-Currently both MHV and VAOS provide users with multiple scheduling options if they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
+Currently, both MHV and VAOS provide users the option to schedule through different portals when they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
 
 Also note the work started in VAOS ticket [34234](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/34234) to help simplify this list, and the work to personalize this list (ticket [26442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26442). 
 
