@@ -78,6 +78,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers:	
 	- samara.strauss@va.gov
 	- meg.peters@va.gov
+	- carnetta.scruggs@va.gov
 	- christina.gednalske@adhocteam.us
 	- marci.mcguire@gcio.com
 	- alexia.wunder@bylight.com
