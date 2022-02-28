@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet/VA.gov profile transition research
 
-Last updated February 8, 2022
+Last updated February 28, 2022
 
 ### Communications
 
@@ -25,16 +25,49 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 
 1. Evaluate the MHV profile and personal information section, noting similarities and differences with the VA.gov profile.
 2. Work closely with the MHV profile team to understand the current status of profile work and transition planning.
-3. Understand the MHV coordinator role and how they use the MHV profile.
-4. Determine if we need to talk to other MHV stakeholders, and have discussions as necessary.
+3. 4. Determine if we need to talk to other MHV stakeholders, and have discussions as necessary.
+4. Understand the MHV coordinator role and how they use the MHV profile.
 5. Understand how MHV users use the profile, and what they need from the VA.gov profile in order to make it work for them.
 
-## Research deliverable
+### Research questions
+#### About the profile/Personal Information section
+* What data do we already have in the VA.gov profile that is also part of the MHV profile?
+* What data do we not already have in the VA.gov profile that should move over from MHV?
+* What data do we not already have in the VA.gov profile that should *not* move over from MHV?
+* Are there other sections of the “Personal Information” section of MHV that we need to account for in the profile?
 
+#### For the VA.gov identity team
+* Will we need to support the MHV credential after the health apartment transition?
+
+#### For the VA.gov health apartment team
+* What work has already been done on evaluating the MHV <> VA.gov profiles?
+* What else should we consider as we think about how the VA.gov profile might change as it needs to support MHV users?
+
+#### For MHV profile team
+* What work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
+* What work has the MHV profile team already done to start planning for the eventual transition over to VA.gov? 
+* Have they started talking about sunsetting the MHV profile?
+* What does the MHV profile team know about how their users use the profile?
+* Do they have analytics that we can look at?
+
+#### For MHV coordinators
+* How do MHV coordinators data from the profile and personal information section?
+* What are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
+* How can we make this transition less painful for them?
+
+#### For MHV stakeholders
+* What expectations do they have around the MHV —> VA.gov profile transition?
+
+#### For MHV users
+* How do they use their profiles? Are there fields that are regularly used and others that are not?
+* How do they use the other sections under Personal Information in MHV?
+* How can we make this transition less painful for them?
+
+
+## Research deliverable
 We plan to deliver a report on all of our findings, including high-level recommendations around how both MHV and VA.gov should handle the profile transition.
 
 ## Solution approach
-
 In order for this research effort to be successful, we should do all of the following:
 
 - An MHV profile/Personal Information section evaluation.
@@ -47,50 +80,29 @@ In order for this research effort to be successful, we should do all of the foll
   - The VA.gov identity team (re: the MHV credential).
 
 ## Timeline
-
 Ideally, this research will start **in early March 2022**. We are proposing 4 - 5 sprints for this research, though this is subject to change depending on an initial planning sprint and early discussions. A potential timeline might be as follows:
 
-- **Research planning, interview coordination, and profile evaluation**: 1 sprint
-- **MHV profile team/MHV coordinator/MHV stakeholder interviews**: 1 sprint
-- **MHV user interviews**: 1 - 2 sprints -- one for research planning and recruiting; additional time for conducting calls
-- **Research report write-up and presentation**: 1 sprint
+In the first two sprints we’ll conduct the following activities to work toward [research goals 1-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals):
+1. Audit of MHV’s personal information section and compare it to VA.gov’s Profile. 
+2. Talk to the MHV teams (stakeholders, UX, data owners) to learn about:
+	- the current status
+	- any past research they’ve done
+	- available analytics
+	- their expectations and perspectives on the transition
+	- other stakeholders we should to talk to
+3. Talk to the health apartment team, to understand what they’ve done so far to evaluate the MHV profile, and other things they feel we need to consider for this work to be successful.
+4. Talk the identity team, to understand if we’ll need to support the MHV login credential.
+5. Begin synthesizing the data we’ve gathered so far.
 
-## Questions to answer
+In the second two sprints, we’ll conduct these activities to work toward [research goals 4 and 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals):
+1. Interview Veterans who are MHV users.
+2. Interview MHV coordinators.
+3. Synthesize interview data
+4. Start forming recommendations for a strategy based on all the data we gathered.
 
-### About the profile/Personal Information section
+We’ll use time in the 5th sprint to finalize our report and recommendations.
 
-- What data do we already have in the VA.gov profile that is also part of the MHV profile?
-- What data do we not already have in the VA.gov profile that should move over from MHV?
-- What data do we not already have in the VA.gov profile that should *not* move over from MHV?
-- Are there other sections of the "Personal Information" section of MHV that we need to account for in the profile?
-
-### For the VA.gov identity team
-
-- Will we need to support the MHV credential after the health apartment transition? 
-
-### For the VA.gov health apartment team 
-
-- (Meg) What work have you already done on evaluating the MHV <> VA.gov profiles?
-- (Meg) Are there other things we should be considering as we think about how the VA.gov profile might change as it needs to support MHV users?
-
-### For MHV profile team
-
-- What work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
-- What work has the MHV profile team already done to start planning for the eventual transition over to VA.gov? Have they started talking about sunsetting the MHV profile?
-- What does the MHV profile team know about how their users use the profile?
-- Do they have analytics that we can look at?
-
-### For MHV coordinators
-
-- Are there data points that are used by MHV coordinators in the profile?
-- What are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
-- How can we make this transition less painful for them?
-
-### For MHV stakeholders
-
-- What expectations do they have around the MHV --> VA.gov profile transition?
-
-### For MHV users
-
-- How do they use their profiles? Are there fields that are regularly used and others that are not?
-- How can we make this transition less painful for them?
+## Research artifacts
+- MHV user interview [research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews)
+- MHV coordinator interview [research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-coordinator-interviews)
+- [Meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/meeting-notes)
