@@ -2,20 +2,20 @@
 # Product Outline: Combined VA Debt Portal
 
 ## Overview
-Providing Veterans with a singular combined experience where they can see all of their financial matters in one place. Including VA Debts, debt letters, health care payments 
+Providing Veterans with a singular combined experience where they can see all of their financial matters in one place. Including VA Debts, debt letters, and health care copay statements. 
 
 
 ## Problem Statement
-How might we provide a dashboard like experience where Veterans  are able to see all my VA debts, debt letters and payments in one place? At the moment Veterans need to visit the Debt Portal at manage.va.debt to see any debts they may have while they have to go to the medical copay portal (a different place) to see any medical copays that they have acquired as a result of health care visits.  Allow Veterans to view ALL VA debts online and decrease time to resolution while meeting congressional mandates
+How might we provide a dashboard-like experience where Veterans are able to see all of their VA debts, debt letters and copayment statements in one place? At the moment, Veterans need to visit the Debt Portal to see any benefit debts they may have while they have to go to the Medical Copay Tool (a different place) to see any medical copays that they have acquired as a result of health care visits. The overarching goal is to allow Veterans to view **all* their VA debts online and decrease the time it takes to resolve those debts while meeting congressional mandates.
 
-This solution will empower the Veteran to see all their debt, payments and bills. We envision it will also grow to include future options that can help the Veteran to manage those debts such as requesting a waiver,  submitting a dispute, or compromise. When Veterans make a submission, that information would be routed to VBA and/or VHA.
+This solution will empower the Veteran to see all their debt and copayment statements. We envision it will also grow to include future options that can help the Veteran to manage those debts such as requesting a waiver, submitting a dispute, offering a compromise, setting up a payment plan, and viewing payments made towards their debts. When Veterans make a submission, that information would be routed to VBA and/or VHA.
 
 
  
 ## Desired User Outcomes
 
-- Veterans have a single dashboard to review all VA debts, debt letters and payments 
-- Decrease Veteran confusion and time it takes to review, manage or resolution their financial matters
+- Veterans have a single dashboard to review all VA debts, debt letters and  health care copayment statements 
+- Decrease Veteran confusion and time it takes to review, manage or resolve their financial matters
 
 ## Undesired User Outcomes
 - Increase Veteran confusion and uncertainty
