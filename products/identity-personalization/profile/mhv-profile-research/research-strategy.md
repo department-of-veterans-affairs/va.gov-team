@@ -22,7 +22,7 @@ Through this research, we’d like to understand:
 The findings from this research will inform our strategy for how we should move forward with rolling the MHV profile into the VA.gov profile.
 
 ### Research questions
-#### About the profile/Personal Information section
+	#### About the profile/Personal Information section
 * What data do we already have in the VA.gov profile that is also part of the MHV profile?
 * What data do we not already have in the VA.gov profile that should move over from MHV?
 * What data do we not already have in the VA.gov profile that should *not* move over from MHV?
@@ -62,26 +62,27 @@ The findings from this research will inform our strategy for how we should move 
 4. … MORE TO COME
 
 ## Approach	
-We’ll work on this research over 4-5 sprints. Since we’ll have to rely on other stakeholders and partners to conduct our research, we’ll likely have chunks of this work that will start in one sprint and carry over into another. 
+We’ll work on this research over 5 sprints. Since we’ll have to rely on other stakeholders and partners to conduct our research, we’ll likely have chunks of this work that will start in one sprint and carry over into another. 
 
-In the first two sprints (**Feb 23-Mar 22**) we’ll work toward [research goals 1-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals).
-1. We’ll conduct an audit of MHV’s Personal information section and comparing it to VA.gov’s Profile. (Ticket )
-2. We’ll talk to the MHV teams (stakeholders, UX, devs) to learn about:
+In the first two sprints (**Feb 23-Mar 22**) we’ll conduct these activities tow work toward [research goals 1-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals):
+1. Audit of MHV’s personal information section and compare it to VA.gov’s Profile. 
+2. Talk to the MHV teams (stakeholders, UX, data owners) to learn about:
 	- the current status
 	- any past research they’ve done
 	- available analytics
 	- their expectations and perspectives on the transition
 	- other stakeholders we should to talk to
-3. We’ll talk to the health apartment team, to understand what they’ve done so far to evaluate the MHV profile, and other things they feel we need to consider for this work to be successful
-4. We’ll talk the identity team, to understand if we’ll need to support the MHV login credential
+3. Talk to the health apartment team, to understand what they’ve done so far to evaluate the MHV profile, and other things they feel we need to consider for this work to be successful.
+4. Talk the identity team, to understand if we’ll need to support the MHV login credential.
+5. Begin synthesizing the data we’ve gathered so far.
 
-In the second two sprints (**Mar 23-April 19**) we’ll work toward [research goals 4 and 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals):
-1. We’ll conduct interviews with Veterans who are MHV users
-2. We’ll conduct interviews with MHV coordinators
+In the second two sprints (**Mar 23-April 19**) we’ll conduct these activities to work toward [research goals 4 and 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/research-strategy.md#research-goals):
+1. Interview Veterans who are MHV users.
+2. Interview MHV coordinators.
+3. Synthesize interview data
+4. Start forming recommendations for a strategy based on all the data we gathered.
 
-It’s likely that we’ll prepare research artifacts for these interviews in the first two sprints, so that we can conduct interviews and begin synthesis by the end of the 4th sprint.
-
-We’re planning on using time in the 5th sprint to finalize our report.
+We’ll use time in the 5th sprint (**April 20-May 3)** to finalize our report and recommendations..
 	
 ## Team Roles	
 - Researcher: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
@@ -92,6 +93,7 @@ We’re planning on using time in the 5th sprint to finalize our report.
 - Observers for any research sessions:	
 	- samara.strauss@va.gov
 	- meg.peters@va.gov
+	- carnetta.scruggs@va.gov
 	- christina.gednalske@adhocteam.us
 	- marci.mcguire@gcio.com
 	- alexia.wunder@bylight.com
