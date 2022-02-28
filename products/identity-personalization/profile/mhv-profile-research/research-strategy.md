@@ -82,7 +82,13 @@ In the second two sprints (**Mar 23-April 19**) we’ll conduct these activities
 3. Synthesize interview data
 4. Start forming recommendations for a strategy based on all the data we gathered.
 
-We’ll use time in the 5th sprint (**April 20-May 3)** to finalize our report and recommendations..
+We’ll use time in the 5th sprint (**April 20-May 3)** to finalize our report and recommendations.
+
+## Research artifacts
+- MHV user interview [research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews)
+- MHV coordinator interview [research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-coordinator-interviews)
+- [Meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/meeting-notes)
+- 
 	
 ## Team Roles	
 - Researcher: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
