@@ -79,7 +79,7 @@ Before we start, a few things I want to mention:
 
 ## Medical Records - 10 minutes
 - What are you seeing here? What would you come here to do?
-- Your doctor has asked you to record how much you walk these days, how would you add that to your records from here? 
+- Your doctor has asked you to record how much you walk these days, how would you do that from here? 
 - How would you check your most recent lab results?
 - How would you see all your labs and tests?
 - You need to get a copy of all your VA medical records to take to a community care visit, how would you do that?
