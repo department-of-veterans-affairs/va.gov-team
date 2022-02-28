@@ -1,10 +1,11 @@
-# Appointments List Research Findings [WIP] 
+# Appointments List Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Online Scheduling and MyHealtheVet appointments, VAOS+MHV**
 
-Date: MM/DD/YYYY [TODO]
+Date: 02/28/2022
 
-Peter Russo - peter.russo@adhocteam.us
+Prepared by Peter Russo - peter.russo@adhocteam.us
+
 With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
 [Research Report PDF] (link here) [TODO]
@@ -152,7 +153,7 @@ See also: findings from the [2020 CC provider selection research](https://github
 
 ### Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
 
-Participants first wanted to know *how* they would attend the appointment. Along with the 8 participants who were excited to see clear modality information in the concept, 4/9 asked for clearer information about whether the appointment is in person, over the phone, or over video, along with. 
+Participants first wanted to know *how* they would attend the appointment. Along with the 8 participants who were excited to see clear modality information in the concept, 4/9 asked for clearer information about whether the appointment is in person, over the phone, or over video.
 
 For in-person clinics, the top requests were:
 * 4/9 Clinic name - as it is called at the VA facility
@@ -194,7 +195,7 @@ Participants also had positive reactions to the information layout, and the mini
 
 > First thing I see are the icons to connect by video, phone, office visit. I like the fact that the icons jump right out at you. That’s the first thing I notice. - P1
 
-> "This looks great, a grid like the MyHealtheVet list" - P5
+> "This looks great, a grid, like the MyHealtheVet list" - P5
 
 > "Dates are easy to scan, like on the 21st we have potentially four appts" - P3
 
@@ -230,7 +231,7 @@ Participants said they use the appointments list to:
 
 Currently, both MHV and VAOS provide users the option to schedule through different portals when they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
 
-Also note the work started in VAOS ticket [34234](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/34234) to help simplify this list, and the work to personalize this list (ticket [26442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26442). 
+Also, note the work started in VAOS ticket [34234](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/34234) to help simplify this list, and the work to personalize this list (ticket [26442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26442). 
 
 ### Provide clear information that answers basic questions about appointments in the list
 
@@ -308,9 +309,9 @@ We also recommend running discovery with facilities about clinic names to better
 
 ### Continue iterating on and testing the proposed desktop and print layout
 
-Participants responded well to the new concept. Given that, we feel comfortable using that as a basis for our next iteration, and running a usability test on the result.
+Participants responded well to the new concept. Given that, we feel comfortable using that as a basis for our next iteration and running a usability test on the result.
 
-The greatest value in the updated concept was showing clear modality information. We recommend keeping that and the overall layout, while adjusting the other data based on our earlier recommendation in this report.
+The greatest value in the updated concept was showing clear modality information. We recommend keeping that and the overall layout while adjusting the other data based on our earlier recommendation in this report.
 
 We also recommend reviewing the Pending appointments language when testing the updated prototype, as this was a potential source of confusion for our participants.
 
@@ -325,8 +326,8 @@ Also consider keeping the context from which the message was started, like openi
 
 * VAOS will share findings and recommendations with the MHV team.
 * VAOS will work with the team's PO and stakeholders to determine how to best advocate for clearer clinic names.
-* VAOS will validate the situations where type of care can/can't be shown
-* VAOS will run techical discovery to see if it's possible to surface:
+* VAOS will validate the situations where the type of care can/can't be shown
+* VAOS will run technical discovery to see if it's possible to surface:
     * Lab information or details 
     * Clearer clinic name and location information
     * Facility campus map or location pages
