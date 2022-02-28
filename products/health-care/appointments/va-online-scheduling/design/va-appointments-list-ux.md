@@ -32,11 +32,39 @@ Confirmed appointments may be canceled, or occur in the past.
 
 Veterans most often attend confirmed appointments in person, but also have many telehealth options, and may attend over the phone. These are called out in the UI.
 
-#### VA Video Care
-[TODO]
+#### In person
 
-#### Phone
-[TODO]
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#va-booked-future)
+
+#### VA Video Connect at home
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-home-booked-future)
+
+#### VA Video Connect at a VA location
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-va-booked-future)
+
+#### VA Video Connect using a VA device
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-gfe-booked-future)
+
+Details page design templates:
+* [Booked-future](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-templates-and-styles?node-id=0%3A561)
+
+#### VA Video Connect at an ATLAS location
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-atlas-booked-future)
+
+#### VA appointment over the phone
+
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#va-phone-booked-future)
+
+## Community care appointments
 
 ## Pending appointments
 
