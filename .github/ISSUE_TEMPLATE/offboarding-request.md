@@ -41,7 +41,7 @@ Please provide the following information about the individual being offboarded:
  - [ ] AWS Access removed  (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
    > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to remove user's entry from DSVA AWS. You'll need the user's AWS user name (typically FIRST_NAME.LAST_NAME).
  - [ ] User removed from the VA GitHub Org (if applicable. Check [department-of-veterans-affairs/people](https://github.com/orgs/department-of-veterans-affairs/people))
-   > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-support/issues/new?assignees=&labels=remove-user&template=user-remove.yml&title=Remove+User+from+Org%3A+%5Busername%5D). 
+   > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=remove-user&template=user-remove.yml&title=Remove+User+from+Org%3A+%5Busername%5D). 
  - [ ] Pagerduty access removed (if applicable. Check [pd users](https://dsva.pagerduty.com/users-new))
  - [ ] Datadog account disabled (if applicable. Check [Datadog users](https://app.datadoghq.com/organization-settings/users))
  - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
