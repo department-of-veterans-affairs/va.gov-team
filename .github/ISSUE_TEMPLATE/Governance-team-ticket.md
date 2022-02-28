@@ -13,6 +13,7 @@ _"As a (persona), I (want to), (so that)."_
 - Intended Audience: 
 - Desired Outcome: 
 - Due Date: 
+
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
