@@ -28,6 +28,12 @@
  
 </details>
 
+## Monday, February 28, 2022
+* `servicelocations` fields.
+* `healthserviceAPI`
+* VBA service - was going to validate with VBA if "pension" should be in the data
+  * reach out to office of field operations to see if it needs to be deprecated from LH or we need to add data
+
 ## Monday, February 14, 2022
 * `servicelocations` fields. CMS projecting to fill out in sprint 52 (ends 2/25)
   * [8017](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8017) - identify sample data to use in order to validate with LH
