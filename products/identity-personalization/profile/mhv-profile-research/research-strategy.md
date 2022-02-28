@@ -19,7 +19,7 @@ Through this research, we’d like to understand:
 5. How Veterans use the profile and personal information sections of MHV
 
 ### Outcome
-Our ultimate goal is to come up with a strategy for how we should move forward with rolling the MHV profile into the VA.gov profile.  Our findings from this research will inform our strategy.
+The findings from this research will inform our strategy for how we should move forward with rolling the MHV profile into the VA.gov profile.
 
 ### Research questions
 #### About the profile/Personal Information section
