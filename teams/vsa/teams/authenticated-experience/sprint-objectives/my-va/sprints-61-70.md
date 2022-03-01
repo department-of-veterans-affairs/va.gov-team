@@ -1,4 +1,4 @@
-# Authenticated Experience Sprint Objectives: Sprints 61 – 70
+# My VA Sprint Objectives: Sprints 61 – 70
 
 - [Sprint 61](#sprint-61-1117---1130)
 - [Sprint 62](#sprint-62-121---1214)
