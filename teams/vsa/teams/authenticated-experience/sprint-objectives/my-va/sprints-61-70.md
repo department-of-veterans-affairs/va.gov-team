@@ -410,9 +410,35 @@ Sprint goal: Complete QA
 ## Sprint 69 (3/9 - 3/22)
 [Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30274)
 
+### Payment info
 
+We are officially in pre-launch! So, we need to make sure anything outstanding from last sprint is completed, plus:
+
+PRE LAUNCH!! 
+
+**PM**
+
+- Make sure analytics updates get implemented
+- Put together launch plan; Prep fors taging review
+- Hold staging review if we don't need to do any significant updates from QA (can be towards the end of the sprint if necessary)
+- Prep for privacy & security review
+
+**Design**
+- Updates from QA, if applicable
+
+**FE**
+
+- Updates from QA if applicable
+- Prep for privacy and security review
+
+**BE**
+
+- Prepare any technical diagrams or other documentation needed for the privacy and security review
 
 ## Sprint 70 (3/23 - 4/5)
 [Sprint 70 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30275)
 
+### Payment info
 
+- Recruit for and conduct UAT (this assumes that the staging review was completed and no significant updates came out of it)
+- Privacy and security review
