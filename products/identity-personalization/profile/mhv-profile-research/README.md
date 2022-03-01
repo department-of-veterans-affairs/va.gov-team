@@ -52,8 +52,7 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 
 |Question|Metric|
 |----|----|
-| How many people visit the personal information section of MHV? | Pageviews for each page in the section,  and % of total  |
-| Are there sections of personal information that are more visited than others? E.g. do people ever visit “Account activity” | Pageviews and % of total |
+| How many people visited the personal information sections of MHV in the last 12 months? | Pageviews for each page in the section,  and % of total  |
 |  For “What is your relationship to VA” what % of profiles have values other than the auto checked “VA Patient” value? | % of null values compared to not null |
 | usage for each optional field in My Profile | % of null values compared to not null | 
 | How many people make changes to the facilities list? | tbd |
