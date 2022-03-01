@@ -1,4 +1,4 @@
-# Authenticated Experience Sprint Objectives: Sprints 58 – 70
+# Profile Sprint Objectives: Sprints 58 – 70
 
 - [Sprint 58](#sprint-58-106---1019)
 - [Sprint 59](#sprint-59-1020---112)
