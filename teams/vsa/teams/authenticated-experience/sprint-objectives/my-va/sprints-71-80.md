@@ -1,15 +1,15 @@
 # Authenticated Experience Sprint Objectives: Sprints 71 – 80
 
 - [Sprint 71](#sprint-71-46---419)
-- [Sprint 72](#sprint-71-420---53)
-- [Sprint 73](#sprint-71-54---517)
-- [Sprint 74](#sprint-71-518---531)
-- [Sprint 75](#sprint-71-61---614)
-- [Sprint 76](#sprint-71-615---628)
-- [Sprint 77](#sprint-71-629---712)
-- [Sprint 78](#sprint-71-713---726)
-- [Sprint 79](#sprint-71-727---89)
-- [Sprint 80](#sprint-71-810---823)
+- [Sprint 72](#sprint-72-420---53)
+- [Sprint 73](#sprint-73-54---517)
+- [Sprint 74](#sprint-74-518---531)
+- [Sprint 75](#sprint-75-61---614)
+- [Sprint 76](#sprint-76-615---628)
+- [Sprint 77](#sprint-77-629---712)
+- [Sprint 78](#sprint-78-713---726)
+- [Sprint 79](#sprint-79-727---89)
+- [Sprint 80](#sprint-80-810---823)
 
 ## Sprint 71 (4/6 - 4/19) 
 
