@@ -52,7 +52,3 @@ December - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/t
 November - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/november-2019-uat)
 
 September - [VAOSR Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/sept19-usability-testing-new-ux)
-
-## 2017 Studies 
-
-Lauren Alexanderson and Jeff Barnes completed discovery, accessibility, and usability studies on VAOS in 2017. The output of these studies may be found in the va.gov-team repo. [Scheduling research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research)
