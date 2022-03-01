@@ -2,12 +2,18 @@
 
 ## Upcoming
 
-* Rescheduling + home page discovery
-* Appointments notifications service map
+* Rescheduling usability
+* [Appointments notifications service map](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop)
 
 ## In progress
 
-* MHV and VAOS appointments list discovery
+* Appointments list usability
+
+
+## 2022 Studies
+
+January/February: [MHV and VAOS appointments list discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery)
+
 
 ## 2021 Studies
 
