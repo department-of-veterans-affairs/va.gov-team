@@ -13,7 +13,7 @@
  </details>
  
  
-## March 2, 2022
+## March 3, 2022
 
 - VA Health Connect phone number demo (Kevin)
 - Auditing tools (Kevin)
