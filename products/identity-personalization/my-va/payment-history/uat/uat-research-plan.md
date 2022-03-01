@@ -38,8 +38,6 @@ Based on the outcome of this research study, we will either release our MVP to p
 - Veterans will not encounter any bugs in the Benefit payment and debt section.
 - Veterans will expect to access co-pay information through the health section of My VA.
 
- *Action item*: confirm we want to include something about co-pays in UAT
-
 
 ## Method	
 We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions.
