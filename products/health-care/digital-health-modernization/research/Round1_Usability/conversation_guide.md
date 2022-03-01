@@ -65,7 +65,7 @@ Before we start, a few things I want to mention:
 - Where do you think the information you're seeing is coming from?
 - What are you able to do from this page?
 - What is missing from this page? What information would be useful for you to see here?
-- Medical Records: Let's say you needed to get a copy of your vaccine records, how would you do that from here? (before clicking) What would you expect to see here? 
+- Medical Records: Let's say you needed to get a copy of your vaccine records, how would you do that from here? (before clicking) What would you expect to see here? Who's data would be here?
 - Pharmacy: Let's say you needed to check on a prescription, how would you do that from here? (before clicking) What would you expect to see here? 
 - Messages: You want to send a message to your doctor, how would you do that from here? (before clicking) What would you expect to see here? 
 - Appointments: You want to check all your upcoming appointments, how would you do that from here? (before clicking) What would you expect to see here? 
