@@ -28,10 +28,14 @@
 ## Measuring Success
 ## Questions
 ### UX Questions
+* If address validation is down how will the flow change for pre-check-in and day-of check-in?
 ### FE Questions
+* Are we going to use save in progress for demographics editing?
+* Are we going to submit an update for each field or wait and submit whole set of demographics?
 ### BE Questions
 ## Solutions
 ### UX Solutions
 ### FE Solutions
 ### BE Solutions
+* Integration with Lighthouse address validation API by vets-api. https://developer.va.gov/explore/verification/docs/address_validation?version=current
 ## Testing
