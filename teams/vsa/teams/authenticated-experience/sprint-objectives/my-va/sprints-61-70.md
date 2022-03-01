@@ -439,7 +439,7 @@ PRE LAUNCH!!
 
 **PM**
 
-- Regroup with VANotify on this work and determine what next steps are for them
+- 3/15: Regroup with VANotify on this work and determine what next steps are for them
 - Determine timelines for VANotify and FE work
 
 **FE**
