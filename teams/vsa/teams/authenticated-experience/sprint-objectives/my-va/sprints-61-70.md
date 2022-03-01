@@ -435,6 +435,18 @@ PRE LAUNCH!!
 
 - Prepare any technical diagrams or other documentation needed for the privacy and security review
 
+### On-site notifications
+
+**PM**
+
+- Regroup with VANotify on this work and determine what next steps are for them
+- Determine timelines for VANotify and FE work
+
+**FE**
+
+- Connect FE to backend API Lihan created
+- Update notification style (not sure if this was already done w/ payment info work or not)
+
 ### Medical co-pays
 
 **Design**
