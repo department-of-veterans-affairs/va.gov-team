@@ -55,7 +55,7 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 | How many people visited the personal information sections of MHV in the last 12 months? | Pageviews for each page in the section,  and % of total  |
 |  For “What is your relationship to VA” what % of profiles have values other than the auto checked “VA Patient” value? | % of null values compared to not null |
 | usage for each optional field in My Profile | % of null values compared to not null | 
-| How many people make changes to the facilities list? | tbd |
+| How many users have changed any checkbox selections on the facilities section checkboxes in the last 12 months? | # of profiles with a last changed date for checkbox fields within the last 12 months |
 | Is there any data about the MHV admin portal usage to help us understand how coordinators use this information? | tbd |
 
 
