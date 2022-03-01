@@ -2,8 +2,13 @@
 
 ## Background
 Veterans and service members (and surviving spouses) need a VA-issued Certificate of Eligibility (COE) get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit, and the amount to which the recipient is backed. Specific individual requirements depend on service dates and details.
-There are several ways a Veteran or service member can apply for and receive a COE. The online Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
+
+There are several ways a Veteran or service member can apply for and receive a COE. The online Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. 
+
+The [first usability study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1) examining core functionality was tested in July 2021. Since that time, a new view tool has been added.
+
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE).
+
 ### OCTO Objectives 
 The Certificate of Eligibility feature will support the following OCTO Goals:
 
@@ -14,10 +19,12 @@ The Certificate of Eligibility feature will support the following OCTO Goals:
 6. Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
-Veterans are likely to be impacted throughout their journey, but especially in the “getting out”, “starting up”, “taking care of myself”, and “putting down roots” parts of their journey. 
+Veterans are likely to be impacted throughout their journey, particularly in the “getting out”, “starting up”, “taking care of myself”, and “putting down roots” parts of their journey. 
 
 ## Research Goals	
-The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form.
+The goals of this usability study are to:
+1. Assess the usability of the Request a Certificate of Eligibility form
+2. Explore users' understanding of the View tool and statuses they c 
 
 ### Outcome
 This research will allow us to assess design fitness to move this feature to staging review.
@@ -61,37 +68,39 @@ We request 6 fulfilled sessions.
 To maximize variation in our sampling, we would like to have: 
 - 2 users age 55-64+ 
 - 2 users with a cognitive disability 
-- ` 1 users on mobile devices ` 
-- ` 1 users using assistive technology ` 
 - 1 user with no degree 
 - 1 Black user 
 - 1 Hispanic user 
 - 1 LGBTQ+ user 
+- ~~1 users on mobile devices~~* 
+- ~~1 users using assistive technology~~* 
+
+* This round of testing will be conducted using a UXPin prototype, which currently does not support assistive technology or mobile devices.
 
 ## Timeline
 ### Prepare
-The prototype is complete now.
+The core functionality of the prototype is complete now. Details to support scenarios in the conversation guide will be added by March 9.
 
 Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: TBD
 * Date and time of pilot session: TBD
+
 ### Research sessions
-We are planning to test March 9-17.
+We are planning to test March 11-18.
 
 ### Length of sessions
-Please schedule sessions as 30-minute blocks with at least 30 minutes between sessions. Please do not schedule more than 5 sessions per day.
+Please schedule sessions as 1 hour blocks with at least 30 minutes between sessions. Please do not schedule more than 3 sessions per day.
 
 ### Availability
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| March 9 | 10 AM to 11:30 AM, 4PM to 6PM|
-| March 10 | 11:30 AM to 6 PM |
 | March 11  | 10 AM to 6 PM |
 | March 14 | 10 AM to 6 PM |
 | March 15 | 10 AM to 6 PM |
 | March 16 | 10 AM to 6 PM |
 | March 17 | 10 AM to 6 PM |
+| March 18 | 10 AM to 6 PM |
 
 	
 ## Team Roles	
