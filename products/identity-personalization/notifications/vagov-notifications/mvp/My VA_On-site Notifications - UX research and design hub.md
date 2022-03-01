@@ -59,7 +59,7 @@ This table includes links to the individual design work products.
 | Feature Flow Diagrams | [Tool] | No text | date | Preliminary |
 | Information architecture flow | [Tool] | No text | date | IA review |
 | Wireframes | [Tool] | No text | date | Design intent |
-| Mockups | [Sketch File](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx) | Preliminary text | 2/24/22| Midpoint |
+| Mockups | [Sketch File](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx) | Preliminary text | 2/2022| Midpoint |
 | Prototype | [Tool] | Final text | date | Staging |
 
 ### Design system resources used
