@@ -3,13 +3,13 @@
 ## Product documents
 
 ### [Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
-- Product Outline
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
 - KPI
 - Roadmap
 
-### VAMC Front end
+### [VAMC modernized pages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
 
-### Vet Centers
+### [Vet Centers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)
 
 ---
 
@@ -26,5 +26,7 @@
 [**VSA Facilities Team UX research and design hub transition document | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
 
 <br>
+
 > The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
-> <br>
+
+<br>
