@@ -9,7 +9,7 @@ _Sprint 66-68_
 
 ### Related documentation
 
-- User flow process
+- [User flow process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/design/user-flows)
 
 ## Prototypes
 
