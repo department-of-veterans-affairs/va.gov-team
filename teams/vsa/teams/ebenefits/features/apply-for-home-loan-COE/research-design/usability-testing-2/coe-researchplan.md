@@ -6,6 +6,7 @@ There are several ways a Veteran or service member can apply for and receive a C
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE).
 ### OCTO Objectives 
 The Certificate of Eligibility feature will support the following OCTO Goals:
+
 1. Veterans and their families can apply for all benefits online
 3. Logged-in users can easily track applications, claims, or appeals online
 4. Logged-in users can update their personal information easily and instantly
