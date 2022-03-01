@@ -30,12 +30,6 @@ This research will allow us to assess design fitness to move this feature to sta
 - Where (on VA.gov and elsewhere) do users expect to have their COE available after it has been granted?
 - What other features or content would help users when they apply for a COE?
 
-`COE has evolved around statuses. I wonder if users will understand what's happening across the different messages they see during processing (e.g. pending, pending/downloads, denied, etc.`
-
-`Upolading may be another tricky part. Will users understand what they're being asked to provide, and how to upload docs? How do they feel about having to send docs?`
-
-`Another thing is the relationship between the COE form and Your COE tool. Will users look here for status (Can they find it)? This may be a good place to get insight into what users think of all the status alerts. And again, will they understand the uploader?`
-
 ### Hypothesis
 - Users will initially look for a direct link in the whit quadrant on the home page; many will locate COE landing page after several steps
 - The form itself will be relatively easy for users to navigate
