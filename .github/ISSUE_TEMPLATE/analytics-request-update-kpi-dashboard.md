@@ -7,7 +7,7 @@ assignees: michelle-dooley
 
 ---
 
-# Request an Update to Your Standardardized KPI Dashboard  
+# Request an Update to Your Standardized KPI Dashboard  
 
 ## What this form is for
 
