@@ -54,7 +54,7 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - 1/2 (15 of 30) with experience using some VA benefits/services and 1/2 without such experience but interest in some
 
 ### For everyone:
-- ALL have a computer and are willing to use it to complete the activity
+- ALL have a computer and are willing to use it to complete the activity (NO tablets or phones)
 - ALL are willing to do an activity that requires dragging and dropping items on their computer screen (NO screen reader users)
 - At least 10 women
 - Diversity across age groups
