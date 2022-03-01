@@ -20,7 +20,7 @@ Date: 02/24/2022
 
 # Research Goals
 
-Our goal is to make the login experience more accessible for low vision and no vision users. Specifically, the goal of this study is to find any issues or pain points when using screen readers and other assitive technologies to log in to VA.gov.
+Our goal is to make the login experience more accessible for low vision and no vision users. Specifically, the goal of this study is to find any issues or pain points when using screen readers and other assistive technologies to log in to VA.gov.
 
 - Discover how users navigate the login portion of our new login page
 - Discover any inconsistencies regarding the current design of the login page i.e. pain points for our users
@@ -60,14 +60,16 @@ We believe that low vision and no vision users will bring insight to the login p
 We believe that coding the credential options as buttons and not links will provide a better user experience
 
 Definitely  True:
-All participants were able to find and select their preferred credential provider with little to no trouble. Participants felt that the experience was cleaner, met accessibility guidelines and was overall better than their past experience on VA.gov. Within the first five to ten minutes of sharing their screen, most participants were able to log in
+All participants were able to find and select their preferred credential provider with little to no trouble. Within the first five to ten minutes of sharing their screen, most participants were able to log in
 
 <br>
 
 # <a name=”key-findings”></a>Key Findings
 
-1. Also thought participants noted having multiple credential providers they signed in using My HealtheVet the most
-2. Sign-in took approximately five to ten minutes to complete
+1. Participants who mentioned having multiple credential providers preferred to sign in with MyHealthyVet
+2. Sign-in took approximately five to ten minutes to complete due to factors such as: 
+ - Letting screen readers read out key areas of sign-in
+ - Using multiple assitive technology in tandem with their phones
 3. Half of the participants acknowledged giving/receiving assistance from others when accessing VA.gov  
 4. Most participants stated that they would typically start the sign-in process from My HealtheVet or E-benefits rather than VA.gov
     - Often completing tasks having to do with checking claims, messaging providers, or checking the status of medication
@@ -194,9 +196,9 @@ All participants were able to find and select their preferred credential provide
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Sign-In_Accessibility_Research_Study.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Sign-In%20Accessibility/Sign-In_Accessibility_Research_Study.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Sign-In_Accessibility_Conversation_Guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Sign-In%20Accessibility/Sign-In_Accessibility_Conversation_Guide.md)
 
 <br>
 
