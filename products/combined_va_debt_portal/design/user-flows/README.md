@@ -1,5 +1,11 @@
 # Combined VA Debt Portal User Flows
 
+## Iteration 2 - Sprint 68
+
+### Flow
+
+![Iteration 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/design/user-flows/Iteration%202%20user%20flow.png "Iteration Two")
+
 ## Iteration 1 - Sprint 66/67
 
 ### Flow
