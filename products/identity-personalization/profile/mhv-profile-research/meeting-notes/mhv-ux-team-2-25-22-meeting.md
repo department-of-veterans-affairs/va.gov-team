@@ -25,6 +25,7 @@ Currently working on thinking through an in-between state between now and the co
 - They’re removing the registration page; there are outstanding questions about what will be available/editable for unmatched users 
 
 ### My Profile fields
+We reviewed [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1645732777530/3b751dac638c58f4463823ac9476e4e25dc1240f?sender=lizlantz1528) and discussed their approach to each field. 
 
 #### Confirmed for removal from My Profile front end
 - Contact info
