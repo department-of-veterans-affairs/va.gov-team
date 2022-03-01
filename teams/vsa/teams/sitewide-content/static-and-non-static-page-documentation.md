@@ -8,6 +8,8 @@ Public Websites owns these pages. The Sitewide Content and IA team manages and m
 
 You can preview a static page before it’s on production by clicking the **Preview** button from that page's Drupal node in the CMS. This generates a preview link. Drupal preview works only on the VA network. 
 
+Static pages can contain entry points to online forms and applications. When a new product is launched, the Sitewide Content and IA team will need to rework the content on certain static pages and add a button, action link, or react widget for users to access the online form or application.
+
 Types of static pages on VA.gov:
 - **Benefit hub landing pages.** These are the main pages of each benefit area (/disability, /health-care, /education, etc.).
 - **Benefit detail pages.** These are the pages within each benefit hub. They are down at least one level in the IA from the hub landing pages. 
