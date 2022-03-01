@@ -37,5 +37,5 @@ In order to pull the correct data for your product, we need your help to define 
 **Additional Info**
 
 - Please use the [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) for more information on the metrics used in the Standard KPI dashboards. 
-- If you need any analytics support, read through the [How to request Analytics support].
+- If you need any analytics support, read through the [How to request Analytics support](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html#Analyticscustomersupportguidelines-4.RequestaKPIDashboardinDomo).
 - If you do not have Domo access, please [request access here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
