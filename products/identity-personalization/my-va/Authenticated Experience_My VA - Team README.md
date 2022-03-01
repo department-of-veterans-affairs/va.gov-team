@@ -50,10 +50,10 @@ My VA page was redesigned and released to production in July 2021.  The priority
 
 
 ### Research and design
-- [**Research and design hub page**]()
-- [Payment Information hub page]()
-- [On-site Notifications hub page]()
-- [Copays hub page]()
+- [**Research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/Authenticated%20Experience%20-%20My%20VA%20UX%20research%20and%20design%20hub.md)
+     - [Payment Information hub page]()
+     - [On-site Notifications hub page]()
+     - [Copays hub page]()
 
 ### Engineering
 - [My VA Redesign Technical diagram Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams)
