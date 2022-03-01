@@ -27,7 +27,7 @@ None
 
 </details>
 
-## Wednesday, February 2, 2021 
+## Wednesday, March 2, 2021 
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
@@ -38,8 +38,8 @@ None
 - [ ] [SCREENREADER] Static templates shouldn't end main content container early [#33459](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33459)
 - [ ] [Discovery] 404 page content, accessibility and design [#31208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31208) 
 - [ ] Fix all named exports from JSON modules [#32131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32131)
-- [ ] Redirect Request Vet Centers live as of 1/28: FL detail pages, legacy directory location and key staff pages [#36198](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36198) 
-- [ ] <Creating a react widget for Contact Us page> from <Sitewide Content> [#36319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36319) 
+
+
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
