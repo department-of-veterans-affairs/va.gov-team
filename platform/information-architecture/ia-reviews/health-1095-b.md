@@ -1,4 +1,4 @@
-# IA Design for Downloadable form 1095b 
+# IA Design for Downloadable form 1095-B
 **STATUS: DRAFT**
 
 **Product/Featue:** Download personal 1095b form <br>
