@@ -5,6 +5,14 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 02/28/22: "This app provides the access to all things ME. This is what I need. The multiple user names and passwords have diminished slightly thanks to this app. Keep evolving it." (Apple store review)
+
+- 02/26/22: "Although this is my first using this App, so far I find it very easy to navigate, it a lot easier than using web browser. It's like having my info at my fingertips at all times. I can check my appointments on the fly. I'm loving it this far. The Bestman" (Apple store review)
+
+- 02/25/22: "Straight to the point exactly what you need. Face recognition makes it only faster" (Apple store review)
+
+- 02/25/22: "For years I hve struggled with the VA to get all of my needs met and (although it's only slight) I have noticed a change since I have been able to access my documents and message my provider. Don't get me wrong, I still have to fight to get my needs met but at least now I have a vehicle to fight with. I mean it's progress, ya know?" (Apple store review)
+
 - 02/18/22: "It is very nice to be able to see some of the information we have available to us and about us without having to make calls. I have found many things I would have liked to know 30 years ago! I guess I just never found the right person to talk with until recently." (Apple store review)
 
 - 01/30/22: "This app is very helpful to get info and contact the VA for what you need to get done. I was surprised how I could message my doctor, refill meds and access documents that are updated yearly to provide proof of income. There is so much you can do with this app and its secure to use. if you are a veteran and you interact with the VA this app will be very beneficial for you to use. it has many security features, its protected and safe. Highly recommended." (Google play store review)
