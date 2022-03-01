@@ -1,15 +1,28 @@
-# eBenefits design
-**VSA eBenefits Team | February 2022**
+# VSA eBenefits UX research and design hub
 
----
+<br>
 
-The purpose of this transition document is to provide a clearinghouse for research and design resources used across all eBenefits Migration features.
+>**Team transition document | March 2022**
+>
+> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
 
----
+<br>
 
-## eBenefits Migration features
+## Table of Contents
+[Features and initiatives we worked on](#features-and-initiatives-we-worked-on)
 
-| Feature (Github link) | AKA | Status (Feature link) |
+[Our UX research resources](#our-ux-research-resources)
+
+[Our UX design resources](#our-ux-design-resources)
+
+[Our team](#our-team)
+
+<br>
+
+## Features and initiatives we worked on
+This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
+
+| Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
 | [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | [In production](https://www.va.gov/disability/view-disability-rating/) |
 | View Dependents | --- | [In production](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) |
@@ -26,12 +39,25 @@ The purpose of this transition document is to provide a clearinghouse for resear
 | [My Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-my-documents) | Document hub concept | In discovery |
 | Stakeholder Enterprise Portal | SEP | In discovery |
 
-## Disciplines
+<br>
 
-### Research resources
-- [VA Plaform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
+## Our UX research resources
+We used these UX research resources during design and development.
 
-### Design resources
+### References
+- [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
+
+### Templates
+- [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
+- [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
+
+<br>
+
+## Our UX design resources
+We used these UX design resources to guide our design and development.
+
+### Design system
 - [VA.gov Design System](https://design.va.gov/)
 - [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
 - [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
@@ -43,25 +69,23 @@ The purpose of this transition document is to provide a clearinghouse for resear
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
-- [Internal 508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/accessibility/508-checklist-wip.md)
+- [Internal 508 checklist]()
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
-## Process
+<br>
 
-### HCD process
-The document below was used for the first 24 moths of VSA. Much of this process and the corresponding resources have been superceded by the VA collaboration cycle.
+## Our UX research/design process
+Add team-specific process documentation; add notes.
 
-- [eBenefits design strategy for feature migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/design/strategy)
-- [Visual QA / design review readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
-
-### Collaboration cycle
-- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
-
----
+- [Team process doc]()
+- [Reference doc]()
+- [Reference doc]()
 
 <details>
   <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
 
+Outline your process; add notes.
+  
 1. Analyze existing feature
 2. Conduct discovery research on existing feature
 3. Synthesize analysis and research into lo-fi screens and flows
@@ -70,31 +94,39 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 6. Provide content for sitewide review
 7. Present refined mockups at mid-point review
 8. Conduct usability testing
-9. Refine/finaize screens and flows
+9. Refine/finalize screens and flows
 10. Review feature in staging
 11. Second usability testing round
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
 </details>
 
----
-
 <details>
-  <summary><strong>Design tools used</strong> (Click to show details)</summary><br>
+  <summary><strong>Design tools we used</strong> (Click to show details)</summary><br>
 
+List your tools; add notes.
+  
 - Sketch for Teams
 - UXPin
-- Adobe XD
 - Mural
 - Github markdown
 - VSCode
 </details>  
-  
----  
 
-## Team
+### VA.gov collaboration cycle
+- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
 
-### Team members
+### HCD process
+The document below was used for the first 24 moths of VSA. Much of this process and the corresponding resources have been superceded by the VA collaboration cycle.
+
+- [eBenefits design strategy for feature migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/design/strategy)
+- [Visual QA / design review readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
+
+<br>
+
+## Our team
+
+### March 2022 team roster
 
 - Jason Wolf | jason.wolf@govcio.com -- eBenefits product manager
 - Kathleen Crawford | kathleen.crawford@govcio.com -- Backend engineer
@@ -105,21 +137,18 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 - Jim Adams | james.adams@govcio.com -- Designer
 - Matt Self | matt.self2@va.gov -- Product owner
 
-### Resources
+### Other team members
+
+- Steve Kovacs | steve.kovacs@va.gov -- Product owner
+- Sabrina Mohamed | sabrina.mohamed@va.gov -- Product owner
+- Micah Chiang | email.address@adhocteam.us -- Frontend engineer
+- Kevin Musiorski | kevin.musiorski@govcio.com -- Backend engineer
+- Derek Dyer -- Backend engineer
+
+### Team resources
 - [eBenefits Github directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)
 - [eBenefits Zenhub board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125,66304117)
 
-<!--
-### Content Guidance Links
+<br>
 
-### Style Guidance Links
-- [VA.gov Design System](https://design.va.gov/)
-- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
-- [VA Design Library Sketch file]()
-- [USDS Design System](https://designsystem.digital.gov/)
-
-### Review Processes Links
-- [UX/UI Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
-- [VSA Product Approach (Google Doc)](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
-- [Review Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
--->
+---
