@@ -389,7 +389,7 @@ Continue discovery
 - Project kickoff (schedule towards end of the sprint)
 
 ## Sprint 67 (2/9 - 2/22)
-
+[Sprint 67 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36509)
 A note on stuff from last sprint:
 
 - Always move over any unfinished project work to keep us on time with projects.
@@ -434,7 +434,7 @@ A note on stuff from last sprint:
   - Get answers to those question 
 
 ## Sprint 68 (2/23 - 3/8)
-
+[Sprint 68 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37428)
 ### Personal information revisions
 
 Continue build; What do we still need to finish design and FE?
