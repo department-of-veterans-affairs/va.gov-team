@@ -48,7 +48,17 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 * What work has the MHV profile team already done to start planning for the eventual transition over to VA.gov? 
 * Have they started talking about sunsetting the MHV profile?
 * What does the MHV profile team know about how their users use the profile?
-* Do they have analytics that we can look at?
+* Do they have analytics that we can look at? Here’s a list of questions we have that can be informed by analytics:
+
+|Question|Metric|
+|----|----|
+| How many people visit the personal information section of MHV? | Pageviews for each page in the section,  and % of total  |
+| Are there sections of personal information that are more visited than others? E.g. do people ever visit “Account activity” | Pageviews and % of total |
+|  For “What is your relationship to VA” what % of profiles have values other than the auto checked “VA Patient” value? | % of null values compared to not null |
+| usage for each optional field in My Profile | % of null values compared to not null | 
+| How many people make changes to the facilities list? |Product Manager|
+| Is there any data about the MHV admin portal usage to help us understand how coordinators use this information? | tbd |
+
 
 #### For MHV coordinators
 * How do MHV coordinators data from the profile and personal information section?
