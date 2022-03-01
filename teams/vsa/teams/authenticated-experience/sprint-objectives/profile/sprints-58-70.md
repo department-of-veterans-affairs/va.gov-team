@@ -483,4 +483,62 @@ This is kind of a pre-engagement sprint as Liz rolls off of My VA work. However,
   
 ## Sprint 69 (3/9 - 3/22)
 
+### PTO
+
+- Tom: 3/10 - 3/14
+- Samara: 3/15
+
+### Personal information revisions
+
+**Design**
+
+- Finish design if it's not done
+- Assuming design is done, complete contact center guide updates
+
+**FE**
+
+- Finish any updates if they are not already done; If done, project is on pause for Adam until backend is ready to connect to frontend
+
+**BE**
+
+- Continue BE
+
+### Address change messaging
+
+**FE**
+
+- Frontend build
+
+### Bad address indicator
+
+**PM**
+
+- Intro work to VANotify; determine what they need to do and any relevant timelines
+  - What we'll want to talk about: Initial email blast, then individual emails for when new BAI is added 
+
+**Design**
+
+- Finish design if not done the previous sprint
+- Design intent
+- Work with content on profile/email copy
+- Write up FE documentation on when the alert shows in the profile and when the email will be sent out (initial blast; whenever a new bad address is added)
+
+### MHV profile research
+
+Marci, talk to Liz about exactly which interviews she thinks she'll complete this sprint so you can create tickets. She'll have a better idea than I do what's already on her schedule.
+
+**Design**
+
+- Conduct stakeholder interviews
+
 ## Sprint 70 (3/23 - 4/5)
+
+### Address change messaging
+
+**PM/Design**
+
+- Validate flow on staging
+
+**FE**
+
+- Launch to prod after flow is validated by PM/Design
