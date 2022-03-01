@@ -1,4 +1,4 @@
-# VSA team name UX research and design hub
+# VSA Facilities Team UX research and design hub (WIP)
 
 <br>
 
