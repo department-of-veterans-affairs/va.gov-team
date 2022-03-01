@@ -435,6 +435,14 @@ PRE LAUNCH!!
 
 - Prepare any technical diagrams or other documentation needed for the privacy and security review
 
+### Medical co-pays
+
+**Design**
+
+- Finish design explorations
+- Hold design intent if we did not already hold it
+- Research planning -- What do we need to do, if anything, in addition to getting feedback during payment UAT?
+
 ## Sprint 70 (3/23 - 4/5)
 [Sprint 70 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30275)
 
