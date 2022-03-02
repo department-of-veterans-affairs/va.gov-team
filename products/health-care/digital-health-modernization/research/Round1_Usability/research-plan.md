@@ -4,7 +4,7 @@ February - March, 2022
 ## Background
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
 
-You can read more about our Digital Health Modernization strategy[here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
+You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
 ### OCTO Objectives 
 
@@ -31,16 +31,16 @@ Results of this study will help us determine if our proof of concept is headed i
 
 ### Research questions
 This research will help us answer:
-- Will Veterans understand the concept of the health apartment? 
+- Will Veterans understand the concept of the health apartment as shown in this design? 
 - How would Veterans expect to get to the health apartment?
 - What would they expect to see in their health apartment if they were logged in? Not logged in?
-- What are the most important things that folks access/need related to their health or their health benefits?
+- Will Veterans be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
 - What is the Veteran perception of how the health apartment would fit into how they manage their health at the VA?
 
 ### Hypothesis
 - Veterans will easily understand the idea of a centralized place where they can access their VA medical information
 - Veterans will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care
-- Veterans will understand the idea of MHV information that is accessible via VA.gov
+- Veterans will be able to accomplish a variety of health tasks as designed in this prototype
 
 ## Method	
 We use conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the laptop/desktop experience. Future rounds of research will explore mobile versions of the prototype.
