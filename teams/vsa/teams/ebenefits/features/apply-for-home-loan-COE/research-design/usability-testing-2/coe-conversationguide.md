@@ -58,7 +58,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - How could we make things easier or more clear?
 - If this was the actual VA.gov site, what would you do next?
 
-### Things to watch out for
+### Things to watch for
 - Do users find and use the "Find out about your VA home loan COE" action link?
 - Where in the form flow do users stop or get confused?
 - What language do participant find confusing?
@@ -78,7 +78,7 @@ I've put a new link in the chat. **Please click on it.**
 - What is your next step?
 - (Participant uploads document) What do you expect to happen now?
 
-### Things to watch out for:
+### Things to watch for:
 - How quickly does the user determine they need to sign-in to see their status
 - Do users understand they need to take action to follow up?
 - Can users successfully use the upload tool?
