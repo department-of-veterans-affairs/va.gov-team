@@ -2,7 +2,14 @@
 
 ## Guide for note taking
 
-(What Perigean note takers should pay attention to)
+Thank you note takers! Here's a breakdown of what we're hoping to highlight in this study, in terms of Veteran feedback:
+
+- **Which** communication methods have Veterans used?
+- **What** communications methods to Veterans prefer to use?
+- **How** do Veterans locate these communication methods? (This involves the usability tasks outlined below)
+- **When** do Veterans consider using particular communications methods - under what circumstances?
+
+Generally, we don't need ver-batim notes, so try to focus on things that relate to the main goals of the study. Thank you!
 
 ## Moderator logistics
 
