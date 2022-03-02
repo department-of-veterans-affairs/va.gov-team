@@ -22,7 +22,8 @@ Before we start, a few things I want to mention:
 ## Warm Up
 
 1. Could you tell me a little bit about yourself? _(If stuck ask about location, occupation, military service history)_
-  [IF MENTION DISABILITY] Has your disability impacted the way you use the VA.gov website?
+
+     **[IF MENTION DISABILITY]** Has your disability impacted the way you use the VA.gov website?
 
 
 ## Interview
