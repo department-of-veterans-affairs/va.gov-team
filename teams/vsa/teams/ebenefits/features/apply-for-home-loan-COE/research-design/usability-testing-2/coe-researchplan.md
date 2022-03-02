@@ -56,7 +56,7 @@ Sessions will be conducted remotely using Zoom.
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-conversationguide.md)
 - [Link to prototype](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/simulate/no-panels)
 	
 ## Recruitment	
