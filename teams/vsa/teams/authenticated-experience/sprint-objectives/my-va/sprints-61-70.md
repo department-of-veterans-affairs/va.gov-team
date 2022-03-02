@@ -418,10 +418,10 @@ PRE LAUNCH!!
 
 **PM**
 
-- Make sure analytics updates get implemented
-- Put together launch plan; Prep fors taging review
-- Hold staging review if we don't need to do any significant updates from QA (can be towards the end of the sprint if necessary)
-- Prep for privacy & security review
+- Make sure analytics updates get implemented #37876
+- Put together launch plan; Prep fors taging review #37877, #37878, #37879
+- Hold staging review if we don't need to do any significant updates from QA (can be towards the end of the sprint if necessary) #37880
+- Prep for privacy & security review #37881
 
 **Design**
 - Updates from QA, if applicable
@@ -429,30 +429,30 @@ PRE LAUNCH!!
 **FE**
 
 - Updates from QA if applicable
-- Prep for privacy and security review
+- Prep for privacy and security review #37881
 
 **BE**
 
-- Prepare any technical diagrams or other documentation needed for the privacy and security review
+- Prepare any technical diagrams or other documentation needed for the privacy and security review #37881
 
 ### On-site notifications
 
 **PM**
 
-- 3/15: Regroup with VANotify on this work and determine what next steps are for them
-- Determine timelines for VANotify and FE work
+- 3/15: Regroup with VANotify on this work and determine what next steps are for them #37909
+- Determine timelines for VANotify and FE work #37909
 
 **FE**
 
-- Connect FE to backend API Lihan created
-- Update notification style (not sure if this was already done w/ payment info work or not)
+- Connect FE to backend API Lihan created #36034
+- Update notification style (not sure if this was already done w/ payment info work or not) - Done in Sp 68
 
 ### Medical co-pays
 
 **Design**
 
 - Finish design explorations
-- Hold design intent if we did not already hold it
+- Hold design intent if we did not already hold it #37910
 - Research planning -- What do we need to do, if anything, in addition to getting feedback during payment UAT?
 
 ## Sprint 70 (3/23 - 4/5)
