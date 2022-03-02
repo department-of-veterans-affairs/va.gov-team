@@ -1,5 +1,9 @@
 # VAMC Communications - Conversation Guide
 
+## Guide for note taking
+
+(What Perigean note takers should pay attention to)
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
