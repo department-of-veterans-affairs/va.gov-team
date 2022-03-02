@@ -22,6 +22,7 @@ Before we start, a few things I want to mention:
 ## Warm Up
 
 1. Could you tell me a little bit about yourself? _(If stuck ask about location, occupation, military service history)_
+  [IF MENTION DISABILITY] Has your disability impacted the way you use the VA.gov website?
 
 
 ## Interview
@@ -116,17 +117,12 @@ _NOTE: Discuss options or allow them to proceed by closing the form, and returni
 
 Which method would you prefer to update the form? Calling a telephone number, sending an secure message or filling out a form?
 
-**MODERATOR:** Okay, I&#39;d like to click on the top right of the screen and show you a different version of this same page that we&#39;re considering.
+[PAUSE]
 
-[SCREEN: authenticated version with paperless opt-in component]
+**IF FINISHED:** Do you have any additional questions or feedback you'd like to offer?
 
-**MODERATOR:** So one of the ideas we&#39;re considering is allowing you to sign up for paperless delivery of forms from the VA like this one. Have you ever done something like that – where you get forms or things like bank statements delivered to you digitally without paper mail?
+Okay, I&#39;d like to click on VA logo on the upper left hand corner of the screen to finish.
 
-Is signing up for paperless delivery of just this form something you might consider?
-
-Okay, this part of the prototype is finished. Do you have any questions or feedback before we proceed?
-
-[Pause]
 
 ## Wrap Up
 
