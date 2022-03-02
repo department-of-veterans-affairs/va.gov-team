@@ -2,6 +2,37 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
+
+## Sprint: 2/16/22 - 3/1/22
+
+- Identity - Login.gov
+  - Backend: Versioned mobile user endpoint to account for login.gov & ID.Me when considering MFA
+  - Conducted Login.gov UAT
+
+- Payment History 
+  - Backend:  
+    - Addressed missing date bug (captures payments with nil date and logs their occurrences)
+    - Logging added to track success & failures
+ - Frontend:  View Payment history development complete
+
+- Redesign - IA and Navigation
+  - Prepped and submitted research plan for closed card sort (unmoderated testing improvements)
+  - Conducted comparative of analysis of navigation models and draft report
+  - Appointments
+  - Completed backend for pending appointments list and details
+
+- TLC and Maintenance
+  - Fixed bug causing Appeals Details page to crash
+  - Addressed sentry error related to appt pre-caching for at home video appt’s
+  - Completed Redux state mutation audit
+  - UX: 
+    - Audit, style guide rule, and button casing fix
+    - Begin use of CTA interaction patterns 
+    - Draft of haptic feedback recommendations
+    - Enabled Firebase analytics & performance in staging
+    - Claims refinement - file upload complete
+
+
 ## Sprint: 2/2/22 - 2/15/22
 
 - Identity
