@@ -83,4 +83,4 @@ Thank you so much! This has been really helpful for our team. Do you have any fe
 
 
 ## Thank-You and Closing - 1 minute
-Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day!
+Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day! 
