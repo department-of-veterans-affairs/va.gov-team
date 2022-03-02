@@ -75,6 +75,7 @@ Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets.
 ### Other content
 
 Note: Newest content is listed first
+- [VAntage Point: Yogurt is good for your heart, VA study finds](https://blogs.va.gov/VAntage/100610/yogurt-is-good-for-your-heart-va-study-finds/)
 - [VAntage Point: Million Veteran Program – 10 years, 850,000 Veterans, and one dream to revolutionize health care](https://blogs.va.gov/VAntage/96392/million-veteran-program-10-years-850000-veterans-and-one-dream-to-revolutionize-health-care)
 
 
