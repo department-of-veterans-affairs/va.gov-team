@@ -124,16 +124,25 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 What dates do you plan to do research? 
-TBD
+3/21/2022 - 4/1/2022
 
 ### Length of sessions
-Sessions will be X minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
+Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
 
 ### Availability
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| TBD | TBD |	
+| 3/21/2022 | 9am - 5pm |	
+| 3/22/2022 | 9am - 1pm, 4pm - any time |
+| 3/23/2022 | 9am - 12pm, 4:15pm - any time |
+| 3/24/2022 | 9am - 12pm, 1pm - any time |
+| 3/25/2022 | 9am - 1pm, 2pm - any time |
+| 3/28/2022 | 9am - 5pm |
+| 3/29/2022 | 9am - 2pm, 4pm - any time |
+| 3/30/2022 | 9am - 2pm, 4:30 - any time |
+| 3/31/2022 | 9am - 1:30pm, 3:30pm - any time |
+| 4/1/2022 | 9am - 1pm, 2pm - any time |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
