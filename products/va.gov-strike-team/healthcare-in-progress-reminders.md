@@ -72,6 +72,8 @@
 
 ## Additional Points
 -https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/issues/department-of-veterans-affairs/vanotify-team/23
+-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/healthcare-in-progress-reminders.md
+-https://github.com/department-of-veterans-affairs/va.gov-team/issues/23609
 
 ## Solution Approach
 
