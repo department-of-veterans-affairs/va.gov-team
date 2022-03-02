@@ -35,18 +35,19 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions - 5 minutes
-- Do you have healthcare through the VA?
-- Have you used MyHealtheVet? If Yes, how often do you use it? What do you use it for?
-- Do you use secure messaging now? What for? How often? 
+## Warm-up Questions - 5-10 minutes
+- Do you have healthcare through the VA? How do you manage your healthcare benefits? How would you like to manage your benefits?
+- Do you have other benefits through the VA? How do you manage your healthcare benefits? How would you like to manage your benefits?
+- Have you used MyHealtheVet? If Yes, how often do you use it? What do you use it for? What would you change about MHV?
+- Do you use secure messaging now? What for? How often? What would you change about it?
+- [have participant open up a browser] You got an email from the VA that there's a new way to look at all your healthcare needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
 
 
 ## Health Apartment homepage, unauth - 5 minutes
-
 - What are you seeing here?
 - (if they noticed MHV branding) What does that mean to you?
 - What are you able to do on this page?
-- If you came to the main VA website, where would you expect to find this page?
+- Now that you've seen this page, where would you expect to find it on the VA.gov website?
 - Talk to me about the links that you're seeing on this page (dig into side nav if they bring it up)
 - How would you sign in?
 - What do you think you'd see if you were to sign in? 
@@ -54,7 +55,6 @@ Before we start, a few things I want to mention:
 
 
 ### Things to watch for:
-
 - Do they notice this is MHV branded?
 - Do they expect to see something different if signed in or not?
 - How do they expect to get to this page? How does it relate to the bigger VA.gov site?
@@ -72,12 +72,11 @@ Before we start, a few things I want to mention:
 
 
 ### Things to watch for:
-
 - Do Veterans notice the info shown is now personalized?
 - Are Veterans successfully able to complete the tasks?
 - Does their understanding of what actions you can take on this page change once they see the logged in version?
 
-## Medical Records - 10 minutes
+## Medical Records - 5-10 minutes
 - What are you seeing here? What would you come here to do?
 - Your doctor has asked you to record how much you walk these days, how would you do that from here? 
 - How would you check your most recent lab results?
@@ -90,13 +89,12 @@ Before we start, a few things I want to mention:
 - Let's say you needed to check on a prescription, how would you do that from here? (before clicking) What would you expect to see here?
 
 ### Things to watch for:
-
 - Does it make sense to have patient entered data on this page? Do Veterans find it useful?
 - Do veterans understand the difference between Health Summary and Blue Button and why/when they would need them?
 - Do they understand they are seeing recent stuff and not all, and how would they get to all?
 - Are Veterans successfully able to complete the tasks?
 
-## Pharmacy - 10 minutes 
+## Pharmacy - 5-10 minutes 
 - What can you do from here?
 - Let’s say you needed to refill some prescriptions, how would you do that?
 - How would you receive this Rx? (If by mail) What address would you expect it go to?
@@ -108,13 +106,12 @@ Before we start, a few things I want to mention:
 - You want to check all your upcoming appointments, how would you do that from here? OR How would you get back to that first screen we saw?
 
 ### Things to watch for:
-
 - What would Veterans want to be able to do on this page but can't?
 - Do Veterans understand the different types of actions (refill, track, renew, and view all Rx) they can do here? Does it makes sense to them to have that on one page? 
 - Are Veterans successfully able to complete the tasks?
 - If the info listed on this page useful for Veterans?
 
-## Appointments - 10 minutes
+## Appointments - 5-10 minutes
 - What can you do on this page?
 - How would you get more information about your appointment on November 25?
 - How would you make an appointment with your doctor?
@@ -128,7 +125,7 @@ Before we start, a few things I want to mention:
 - Do Veterans understand that the side navigation has additional tools related to Appointments?
 - Are Veterans successfully able to complete the tasks?
 
-## Messages - 10 minutes
+## Messages - 5-10 minutes
 - What can you do on this page?
 - You remember that you had sent your doctor a message a few months ago with questions about covid testing. How would you find that message?
 - You have a new message from your doctor about a recent test result, how would you look at it?
@@ -145,12 +142,10 @@ Before we start, a few things I want to mention:
 
 
 ## Post-Task Interview - 2 minutes
-
 - What are your thoughts about what we looked at today?
 - Any other things that would be good for us to know?
 
 ## Thank-You and Closing - 2 minutes
-
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
