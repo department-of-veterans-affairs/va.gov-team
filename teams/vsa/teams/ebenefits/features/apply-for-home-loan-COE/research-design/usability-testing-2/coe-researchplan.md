@@ -24,7 +24,7 @@ Veterans are likely to be impacted throughout their journey, particularly in the
 ## Research Goals	
 The goals of this usability study are to:
 1. Assess the usability of the Request a Certificate of Eligibility form
-2. Explore users' understanding of the View tool and statuses they could encounter
+2. Explore users' understanding of the View Your COE tool and statuses they could encounter
 
 ### Outcome
 This research will allow us to assess design fitness to move this feature to staging review.
@@ -32,10 +32,10 @@ This research will allow us to assess design fitness to move this feature to sta
 ### Research questions
 - Can users successfully complete the form to request a COE?
 - Can users successfully update their information in the request form?
-- Do users understand how and when to follow up on their request?
-- Can users successfully download their COE?
+- Do users understand how and when to follow up on their COE request?
+- Can users successfully download their COE PDF?
 - Can users successfully upload required documentation?
-- Where do users expect to find the COE tool?
+- Where do users expect to find the View Your COE tool?
 - Where do users expect to find their COE if they already have one?
 - Do users understand the status they might encounter?
 - What other features or content would help users when they apply for a COE?
@@ -111,7 +111,7 @@ Please schedule sessions as 1 hour blocks with at least 30 minutes between sessi
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Candy Clark -- 614-507-4270 -- candy.clark@gcio.com 
-- Research guide writing and task development (usually but not always same as moderator): Candy Clark -- candy.clark@gcio.com 
+- Research guide writing and task development: Candy Clark -- candy.clark@gcio.com 
 - Participant recruiting & screening: Perigean 
 - Project point of contact: Jason Wolf | jason.wolf@gcio.com 
 - Participant(s) for pilot test: TBD 
