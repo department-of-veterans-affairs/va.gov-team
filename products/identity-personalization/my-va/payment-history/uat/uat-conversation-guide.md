@@ -4,16 +4,14 @@
 - [ ] Review whether or not the participant roster states the participant has VA debt
 
 ## Intro - 2 minutes
-Thanks for joining us today! My name is Angela and I also have some colleagues on the line observing and taking notes. We've add a new  feature to help Veterans access their most recent payment and debt information and we want to make sure that it is all working properly in your account.
+Thanks for joining us today! My name is Angela and I also have some colleagues on the line observing and taking notes. We're working on adding a new feature to help Veterans access their most recent payment and debt information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
 
 Before we start, a few things I want to mention:
 
 * **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-* **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us to figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express.
+* **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us to figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express. We're testing our work, not you, so you can't do or say anything wrong here.
 * **We will be able to see your real information today.** This may include some healthcare information and some claims information. During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable.
 * **If for any reason and at any time you want to stop the session, please let me know.**
-
-*Action item: Decide if we want to record since we’re also going through some usability tasks.*
 
 * **Are you comfortable if I record my screen and audio as we talk today?** I will stop the recording once you are logged into the site so we don't record your personal information. We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 	* If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
@@ -39,7 +37,7 @@ Great! Thanks for confirming all of that. Let’s move on to the website.
 
 OK, please share your screen, and then we will get started.
 
-## 1. Confirm payment feature - X minutes
+## 1. Confirm payment feature - 5-7 minutes
 I'd like you to open a new tab in your browser, and go to https://www.va.gov/.
 
 Once you are logged in, click on My VA. Let’s review the payment feature. Take a look at the section that says “benefit payments and debts” 
@@ -54,7 +52,7 @@ Does everything related to your payment look right to you?
 - [ ] **Usability**: Anything confusing here?
 
 
-## 2. Confirm  debt feature - X minutes
+## 2. Confirm  debt feature - 5-7 minutes
 Does everything related to your debt look right to you?
 What are your thoughts on the debt information shown here?
 *If user has debt, and they don’t mention, ask:* How meaningful is it to see the total number of debts?
@@ -62,7 +60,7 @@ What are your thoughts on the debt information shown here?
 - [ ] **UAT TASK**: Confirm debt alert reflects accurate count or “Your total VA debt balance is $0” message is displaying.
 - [ ] **Usability**: Do participants who actually have debt find the debt information helpful, particularly the number of outstanding debts?
 
-## 3. Confirm all links - X minutes
+## 3. Confirm all links - 5-7 minutes
 Let’s review the links in this section.  Please read them to me.
 
 Thank you. Now I’ll have you click on each one to make sure it goes to the right place.
@@ -73,10 +71,13 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 - [ ] **UAT TASK**: Confirm links are behaving as expected
 - [ ] **Usability**:  How easy is it for magnification users to use the links?
 
-## Post-Task Interview - X minutes
-Thank you so much! That was everything I wanted you to review today. This has been really helpful for our team. Do you have any feedback on what we looked at today?
-* I have one more question for you - imagine you wanted to get the latest information about your medical co-pays. Show me where you’d find that here.
- *Action item*: confirm we want to include something about co-pays in UAT
+## 4. Copay research - 5 minutes
+Thank you! That was everything on the page that I wanted you to try out. I have one final question about another feature we're beginning work on.
+
+- [ ] **Usability**: If you wanted to get the latest information about your medical co-pays, where do you think you would expect to see that on this page? Can you show me where you would look?
+
+## Post-Task Interview - 5 minutes
+Thank you so much! This has been really helpful for our team. Do you have any feedback on what we looked at today?
 
 * Do you have any questions for me?
 
