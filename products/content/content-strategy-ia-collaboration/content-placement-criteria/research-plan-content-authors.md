@@ -1,47 +1,58 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Sitewide Content and IA - Benefit content placement criteria
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+Benefit content for Veterans and other beneficiaries has rapidly expanded since the launch of VA.gov, and will continue to expand through the continued migration of legacy content as well as the creation of new content. We currently have 2 primary products to support new content in the Veteran benefit experience - the benefit hubs and Resources and support.  To date, there has not been a clear strategy or criteria to determine whether content should be placed within one content product or the other. 
+
+Sitewide Content and IA have created a set of data-driven criteria to be used by content authors to determine content placement within the benefit hubs or Resources and Support. Our hypothesis, is that with this in place, content authors will be able quickly determine the placement of new content, OCTO and our VA partners will be able to make faster, more strategic decisions to move migration forward, and Veterans will be able to easily find the level of content they need to proceed with applying for their benefits. 
+
 
 [Link to product brief](url goes here).
 
-### OCTO Objectives 
+### OCTO Goals 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? 
+
+- Veterans and their families can find a single, authoritative source of information
+- Veterans and their families trust the security, accuracy, and relevancy of VA.gov
+- Platform users can build and deploy high-quality products for Veterans
+
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+- Veterans and their beneficiaries explore and apply for VA benefits from "Getting out" to "Dying"
+- 
 
 ## Research Goals	
 What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+The focus of this initial round of research will be to evaluate the usefulness of the placement criteria with OCTO-DE content authors.
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+Feedback from this research effort will determine whether or not the criteria prove helpful in determining the placement of new content on the site.  If the criteria is helpful, feedback gathered will allow us to further refine them (as needed) and move forward with using them during the upcoming Resources and Support pilot. 
+
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Is the concept of this criteria a helpful tool in determining where to place content on VA.gov?
+- Are the placement criteria clear and understandable?
+- Are the placement criteria effective in determining placement of content?
+- Were there any gaps in the placement criteria that resulted in the inability to make a decision on placement with VA.gov?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+- Content authors will be able to utilize the placement criteria make decisions on placement of content on VA.gov
+- The tighter criteria will result in reduced content within the benefit hubs, thereby creating a more streamlined content flow to applying for Veterans and beneficiaries
+
 
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
+- Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
 - Contextual inquiry - appropriate for generative research
 - Card sorts - appropriate for generative and evaluative research; depending on the study design 
