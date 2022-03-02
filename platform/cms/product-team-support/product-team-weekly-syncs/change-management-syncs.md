@@ -21,6 +21,7 @@
   - Facility health services
   - VA Health Connect and Cerner
   - Top task
+- RACI: validate VHA DM accountabilities
 
 
 ## February 24, 2022
