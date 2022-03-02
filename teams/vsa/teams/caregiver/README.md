@@ -13,7 +13,7 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 
 ### Points of Contact 
 
-- OCTO-DE Product: George Chewning
+- OCTO-DE Product: Lauren Alexanderson 
 - Product Management:  Chris Dyer
 - Front-End Engineering: Patrick Ryll 
 - Back-End Engineering: James Childers
