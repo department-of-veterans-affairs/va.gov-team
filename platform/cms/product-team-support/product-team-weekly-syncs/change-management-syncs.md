@@ -16,12 +16,9 @@
 ## March 3, 2022
 
 - Update: recurring events and top task pages launch (Denise)
-- Learnings from “Demo it first” change management approach for Claro (Rachel)
-- VA Health Connect phone number demo (Kevin)
 - Auditing tools (Kevin)
   - Facility health services
-  - VA Health Connect
-  - Cerner
+  - VA Health Connect and Cerner
   - Top task
 
 
