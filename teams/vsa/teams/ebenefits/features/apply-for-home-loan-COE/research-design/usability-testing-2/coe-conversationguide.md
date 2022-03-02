@@ -22,6 +22,7 @@ Before we start, a few things I want to mention:
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 *Start recording.*
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+
 ## Warm-up Questions (Optional) - 5 minutes
 Before we look at the website, let’s start with a few warm-up questions.
 - Please tell us a little bit about yourself? Maybe start with your service experience...
@@ -29,6 +30,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - (If "yes") How did that go, what was your experience?
 - (if "no") What do you know about VA home loan benefits?
 - What do you know about a VA home loan Certificate of Eligibility?
+
 ## First Task: Wayfinding - 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
@@ -67,6 +69,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Third Task: Pending with uploads requested - 5 minutes 
 User returns to Check COE Status landing page and signs in to reveal [pending status with uploads requested](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140741546/simulate/no-panels)
+
+
 Let's move on to our next task. We're going to imagine that some time has passed. You are now ready to proceed with your mortgage and want to download your COE.
 I've put a new link in the chat. **Please click on it.**
 - Take a look at this screen and describe what you see.
@@ -84,7 +88,9 @@ I've put a new link in the chat. **Please click on it.**
 
 ## Fourth Task: Download existing COE - 5 minutes
 User returns to Check COE Status landing page and signs in to reveal [available status](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/139512694/simulate/sitemap)
-Okay, so let's imagine that you've uploaded those documents and 
+
+Okay, so let's imagine that some more time has passed and you've returned to va.gov to get your COE.
+
 I've put a new link in the chat. **Please click on it.**
 
 - Take a look at this screen and describe what you see.
