@@ -2,15 +2,7 @@
 
 ## Moderator logistics
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-
 *Mute your Slack notifications*
-
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
-
-*In the Attendees section, make sure everyone except the participant is on mute.*
-
-*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
 
 *Check your [screensharing setup] and share permissions for participants.*
 
@@ -23,31 +15,31 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! Today we're going to talk about placement criteria for benefit content. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- **This entire session should take about 2 hours.** 
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve the tools to better meet your needs. We will not be offended by any opinions you express, and we welcome your feedback.
+- **If for any reason and at any time you want to stop the session, please let us know.** 
+- **Is everyone comfortable if I record this session as we talk?** 
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record this session? 
 
-## Warm-up Questions (Optional) - X minutes
+## Introduction to criteria - 15 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Today you will be evaluating a set of criteria intended to provide guidance in determining if content should be placed within the benefit hub area of VA.gov or the Resources and Support section.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+*[Share screen with spreadsheet of criteria]
 
-## First Task: [TASK NAME] - X minutes
+We are going to provide you with 5 content pages that a stakeholder has asked be migrated into the modernized VA.gov experience.  
+We would like you to look at each page and utilize the criteria and make a determination of whether that content should be placed in a benefit hub, Resources and Support, or neither.
+Some of this content may look familiar to you, and we ask that you do not make the determination based on what you know about where it lives today, but instead use the criteria to reach an answer.
+We then ask you to make notes within the provided spreadsheet to indicate your placement decision. 
+In the final column of the spreadsheet please enter any feedback, comments or questions that you encountered while using the criteria for this content.  
 
-- Step 1
-- Step 2
 
 ### Things to watch for:
 
@@ -56,7 +48,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Breakout for activity: [TASK NAME] - 40 minutes
 
 - Step 1
 - Step 2
@@ -67,18 +59,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
+## Post-activity interview - 30 minutes
 
 - Question 1
 - Question 2
@@ -88,13 +70,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
