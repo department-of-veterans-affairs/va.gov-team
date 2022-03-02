@@ -265,14 +265,14 @@ In person:
      ❌ Check-in clinic
      ❌ Room number  
      ❌ Building name, number 
-     ✅ Medical center name
+     ✅ Medical center or facility name
    
 Video at VA: 
 
      ❌ Check-in clinic
      ❌ Room number  
      ❌ Building name, number 
-     ✅ Medical center name
+     ✅ Medical center or facility name
    
 Video at ATLAS: 
 
