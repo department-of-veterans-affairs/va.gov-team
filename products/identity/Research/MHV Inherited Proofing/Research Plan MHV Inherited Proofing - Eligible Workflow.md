@@ -1,4 +1,4 @@
-# Research Plan for [Identity, MHV Interited Proofing, 2/4/21]
+# Research Plan for [Identity, MHV Interited Proofing, Eligible 3/2/21]
 
 ## Background
 
@@ -62,7 +62,7 @@ Our goal is to create a simple experience for users to go through inherited proo
 5. What tasks do they typically log in for?
 6. Is the Wizard informative and usable?
 7. What information is most useful, least useful, or missing?
-8. If a user is eligible to get a new login, will a user continue their task or create a new login?
+8. Will a user continue their task on VA.gov or create a new login?
 9. How often do veterans read the notifications?
 10. What other ways veterans would like to be notified?
 11. Are veterans consenting to let their information be shared?
@@ -74,8 +74,6 @@ Our goal is to create a simple experience for users to go through inherited proo
 >What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
 We believe that users will be able to be aware of their login eligibility for either Login.gov or ID.me. By leading users down a simple modal, users should be able to make a decision to consent their information to a new login.
-
-We believe that existing VA users, who are ineligible, will be able to transition to Login.gov or ID.Me, once they have completed the identity verification/proofing process.
 
 We believe that using a wizard will help the overall experience of choosing their new login.
 
@@ -131,14 +129,14 @@ _Before writing your recruitment criteria, be sure to review the following resou
 ### Recruitment approach
 >Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
 
-- Intended Audience: Eligible and Non-Eligible Veterans for inherited proofing.
+- Intended Audience: Eligible for inherited proofing.
 
 - Perigean will recruit.
 
 ### Recruitment criteria
 > List the total number and type (Veterans, caregivers, etc.) of participants for this study.
 
-- A total of forty to fifty Veterans use a My Healthy Vet account.
+- A total of 20 Veterans use a Premium (eligible) My Healthy Vet account.
 
 Participants must use https://myhealth.va.gov as their point of sign-in. NOT https://www.va.gov/ or https://www.ebenefits.va.gov/
 
@@ -183,16 +181,18 @@ _If you are using Perigean to recruit please submit 1 FULL week prior to the sta
 ### Research sessions
 >What dates do you plan to do research?
 
-- Feb XXth-XXth 11:00am - 3:00pm, 5:00-8pm EST
+- March 21th-28th 11:00am - 3:00pm, 5:00-8pm EST
 
-- We will stop scheduling when 10 to 15 participants are recruited
+- We will be recruiting **20 participants**
+
+- We will stop scheduling sessions when we interview with a target of **10 participants**
 
 ### Length of sessions
 >How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours.
 
 _Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time._
 
-- 45 min with 15 min breaks
+- 60 min with 15 min breaks
 
 ### Availability
 >When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*
@@ -212,9 +212,9 @@ Please request enough dates and time slots for the number of requested participa
 - Research guide writing and task development (usually but not always same as moderator): Samuel Vang (svang@clarityinnovates.com) and Amanda Porter (ajohnson@clarityinnovates.com)    
 - Participant recruiting & screening: Perigean    
 - Project point of contact: Samuel Vang (svang@clarityinnovates.com)
-- Participant(s) for pilot test:
-- Note-takers:    Perigean
-- Observers: Naomi Marcussen (naomi.marcussen@oddball.io), Nick Soutouras (Nick.Soutouras@oddball.io)
+- Participant(s) for pilot test: Naomi Marcussen (naomi.marcussen@oddball.io)
+- Note-takers: Perigean
+- Observers: Naomi Marcussen (naomi.marcussen@oddball.io), Nick Soutouras (Nick.Soutouras@oddball.io), Cody Reinold (cody.e.reinold@omb.eop.gov), John Rahaghiva(john.rahaghiva@gmail.com), Nick Ng (nick.ng@gsa.gov)
 
  _**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**_    
 
