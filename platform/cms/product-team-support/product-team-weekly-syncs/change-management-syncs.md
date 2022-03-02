@@ -16,6 +16,7 @@
 ## March 3, 2022
 
 - Update: recurring events and top task pages launch (Denise)
+- Change management learnings for Claro (Rachel)
 - Auditing tools (Kevin)
   - Facility health services
   - VA Health Connect and Cerner
