@@ -231,18 +231,12 @@ Participants said they use the appointments list to:
 
 # Recommendations
 
-### Review the transition from MHV to VAOS
-
-Currently, both MHV and VAOS provide users the option to schedule through different portals when they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
-
-Also, note the work started in VAOS ticket [34234](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/34234) to help simplify this list, and the work to personalize this list (ticket [26442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26442). 
-
 ### Provide clear information that answers basic questions about appointments in the list
 
-Based on this (and previous) research, we believe the following information would be the ideal summary of a single appointment. Symbols indicate whether VAOS currently has the ability to display:
-* ✅ All the data
-* ⏺ The data in some capacity
-* ❌ No data
+Based on this (and previous) research, we believe the following information would be the ideal summary of a single appointment. Symbols indicate whether VAOS currently has the ability to display data for all appointment types:
+* ✅ Always available
+* ⏺ Sometimes available
+* ❌ Not available
 
 **When is it?**
 
@@ -251,7 +245,7 @@ Based on this (and previous) research, we believe the following information woul
 **What's it for?**
 
      ⏺ Type of care
-     ⏺ Provider name <sup>1<sup>
+     ⏺ Provider name
      ❌ If labs are needed
 
 **How will I attend?**
@@ -262,22 +256,22 @@ Based on this (and previous) research, we believe the following information woul
 
 In person: 
 
-     ❌ Check-in clinic
+     ❌ Check-in clinic name
      ❌ Room number  
      ❌ Building name, number 
-     ✅ Medical center or facility name
+     ⏺ Medical center or facility name
    
 Video at VA: 
 
-     ❌ Check-in clinic
+     ❌ Check-in clinic name
      ❌ Room number  
      ❌ Building name, number 
-     ✅ Medical center or facility name
+     ⏺ Medical center or facility name
    
 Video at ATLAS: 
 
      ❌ ATLAS facility name
-     ✅ City/state
+     ✅ ATLAS facility address
      ✅ Access code
    
 Video via GFE:
@@ -303,6 +297,21 @@ Note: VAOS defines the data, or content displayed for these data points:
 * Status showing if canceled
 * Short summary of how to join
 
+
+### Build on the proposed desktop and print layout
+
+Participants responded well to the new concept. Given that, we feel comfortable using that as a basis for our next iteration and running a usability test on the result.
+
+The greatest value in the updated concept was showing clear modality information. We recommend keeping that and the overall layout while adjusting the other data based on our earlier recommendation in this report.
+
+We also recommend reviewing the Pending appointments language when testing the updated prototype, as this was a potential source of confusion for our participants.
+
+### Review the transition from MHV to VAOS
+
+Currently, both MHV and VAOS provide users the option to schedule through different portals when they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
+
+Also, note the work started in VAOS ticket [34234](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/34234) to help simplify this list, and the work to personalize this list (ticket [26442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26442)). 
+
 ### Advocate for clear clinic names
 
 We do not recommend adding the current code-like clinic names to the appointments list at this time. These names are inconsistent and confusing, so they don't  provide value to Veterans who aren't versed in the clinic's internal coding system.
@@ -310,14 +319,6 @@ We do not recommend adding the current code-like clinic names to the appointment
 We do recommend technical discovery to surface clearer clinic name data. 
 
 We also recommend running discovery with facilities about clinic names to better understand the value of using codes over the name of the clinic, and discover if sources of better information exist.
-
-### Continue iterating on and testing the proposed desktop and print layout
-
-Participants responded well to the new concept. Given that, we feel comfortable using that as a basis for our next iteration and running a usability test on the result.
-
-The greatest value in the updated concept was showing clear modality information. We recommend keeping that and the overall layout while adjusting the other data based on our earlier recommendation in this report.
-
-We also recommend reviewing the Pending appointments language when testing the updated prototype, as this was a potential source of confusion for our participants.
 
 ### Consider giving Veterans a tool to message their providers from the appointment list.
 
@@ -330,8 +331,9 @@ Also consider keeping the context from which the message was started, like openi
 
 * VAOS will share findings and recommendations with the MHV team.
 * VAOS will work with the team's PO and stakeholders to determine how to best advocate for clearer clinic names.
+* VAOS will work with stakeholders to determine the best way to communicate modality information
 * VAOS will validate the situations where the type of care can/can't be shown
-* VAOS will run technical discovery to see if it's possible to surface:
+* VAOS will run discovery to see if it's possible to surface:
     * Lab information or details 
     * Clearer clinic name and location information
     * Facility campus map or location pages
