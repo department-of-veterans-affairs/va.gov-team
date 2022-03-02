@@ -18,7 +18,7 @@ _Start recording._
 
 - **I have started recording.** I'd like to confirm, Are you comfortable if I record my screen and audio as we talk today?
 
-## Questions
+## Pilot Feedback Questions
 - How has mobile check-in impacted your work?
   - Have you had to engage with or talk to Veterans who utilized mobile check-in before their appointment? If so, why?
   - How would you describe the impact of the changes to VSE-GUI (due to mobile check-in) on your work?
@@ -36,6 +36,15 @@ _Start recording._
 - What do you dislike about it?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
 - What would you change about the new mobile check-in?
+
+## Patient Record Flag Discovery Questions
+As we look toward future development, we would like to get your input on the use and value of patient record flags.
+- How do you currently use patient record flags, if at all? 
+- Where do you see the flag, and how do you respond?
+- Do you use national or local flags, or both?
+- If patient record flags were added to VSE for Clinical Staff, where/when would you want to see them? 
+- Would you want only behavioral flags, or all patient flags?
+- Is there any other patient information you would want to be alerted to that isn't already in VSE for Clinical Staff?
 
 ## Thank you and Closing
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so we can continue to improve Veteran and your experience. I hope you enjoy the rest of your day!
