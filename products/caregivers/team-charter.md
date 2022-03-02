@@ -33,7 +33,7 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: George Chewning
+- DEPO Product Lead: Lauren Alexanderson
 - DEPO Engineering Lead: Mike Chelen
 - Team Product Manager: Sharon Kasimow
 - UX/Research: Dené Gabaldón
