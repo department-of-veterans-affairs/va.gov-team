@@ -1,4 +1,4 @@
-# VSA team name product transition doc
+# VSA 1010 CG Transition Document
 
 <br>
 
