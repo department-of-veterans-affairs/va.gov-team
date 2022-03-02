@@ -67,7 +67,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Do participants know what they should do next?
 - Are users satisfied with the various avenues for following-up?
 
-### Third Task: Pending with uploads requested - 5 minutes 
+## Third Task: Pending with uploads requested - 5 minutes 
 User returns to Check COE Status landing page and signs in to reveal [pending status with uploads requested](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140741546/simulate/no-panels)
 
 
