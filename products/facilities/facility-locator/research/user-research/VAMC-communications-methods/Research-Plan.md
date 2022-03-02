@@ -6,8 +6,6 @@
 
 Unauthenticated VAMC site pages give Veterans multiple methods for contacting their doctors, patient advocates, and other members of their broader health care team. The variety of communication methods, and their placement on VAMC site pages, needs to be validated with Veteran feedback in order to determine which methods Veterans find the most useful, where it is most useful to Veterans to place this information on site pages, and how Veterans actually go about searching for this information in general.
 
-[Link to product brief](url goes here).
-
 ### OCTO Objectives 
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
