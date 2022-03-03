@@ -16,11 +16,18 @@ To fill out this application, the Veteran and each family caregiver applicant wi
 - The address, telephone number, and date of birth for the Veteran and each family caregiver applicant
 - The VA medical center where the Veteran will receive care
 - Health insurance information for the Primary Family Caregiver
-- The Veteran's Social Security number or tax identification number (This is required for the online application only.) If you’d like to apply without providing this information, you can download the paper form
+- The Veteran's Social Security number (SSN) or tax identification number (TIN)
 
-Download VA form 10-10CG(PDF) (934KB) _(link)_
+What if I don't want to put my SSN or TIN in the application? _(more info)_
+We only require your SSN or TIN if you apply online. If you want to apply without putting this information in your application, you can apply by mail or in person.
 
-**Note:** A legal representative, or someone with power of attorney, can fill out this application on behalf of the Veteran. They’ll need to sign the application. They'll also have a chance to submit documentation to show their status as a legal representative.
+[Get instructions for how to apply for the PCAFC program by mail or in person](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/#how-do-i-apply-for-this-progra)
+_(end more info)_
+
+
+
+
+_(Shown to 50% who see option to sign as a representative)_ **Note:** If you’re a legal representative who can make medical decisions for the Veteran, you can sign this application for them. You’ll need to upload proof of your legal authority to make medical decisions for the Veteran. This type of document is sometimes called a medical proxy or medical power of attorney.
 
 **What if I have questions or need help filling out the form?**
 
@@ -409,81 +416,71 @@ What is the Secondary Family Caregiver’s (2)relationship to the Veteran? (*Req
 
 [<<Back]   [Continue>>]
 
-## Step 5 of 6: Representative document
+## Step 5 of 6: Application signature
+_(Shown to 50% who see option to sign as a representative)_ 
 
-[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666490/simulate/sitemap?mode=i)
+[UXpin](https://preview.uxpin.com/a5e76c3713575e6b9cce2edf4d50693bf7f02578#/pages/146375960/simulate/sitemap)
 
-Some family caregivers are also the Veteran’s legal representative. These representatives have the legal authority to make certain decisions for the Veteran.
+**We'll now guide you through the steps to review and sign your application**
 
-Here's what you should know:
+First, we need to know if the Veteran will sign the application or if a representative will sign for them.
 
-- You can still continue with this application to apply for the program even if you’re not the Veteran’s legal representative.
-- If you are the Veteran’s legal representative, you can upload a document to show your legal status now. If you don't upload your document now, we'll ask you to provide it later.
+A representative must have legal authority to make medical decisions for the Veteran. If you choose this option, we'll ask you to upload a document that proves you have this authority.
 
-Do you have a legal representative document you’d like to share with us?
-- Yes. I want to upload my document now.
-- Yes. But I'll provide my document later.
-- No. I don't have this document.
 
-What types of documents does VA accept to show legal representation? _(more info)_
+Learn more about the types of documents we can and can't accept _(more info)_
 
-First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review the documents during the application process.
+We can only accept a document that proves you have legal authority to make medical decisions for the Veteran. This type of document is sometimes called a medical proxy or medical power of attorney.
 
-We accept these documents:
-- Veteran guardianship, **or**
-- Veteran-related court order
-
-We may accept these documents, depending on the requirements where you live:
-- Power of attorney for the Veteran, **or**
-- Health care power of attorney for the Veteran
-
-Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don't accept these documents as a way to show legal representation:
-- Marriage or driver's licenses
-- Release of Information forms or fiduciary program documents
-- Medical or VA benefit records
-- Health insurance information
+We can't accept a marriage certificate, driver's license, or release of information form. We also can't accept a general or financial power of attorney without medical stipulation. Uploading a document that we can't accept may delay the application process.
 
 _(end more info)_
+
+**Note:** We use this signature only to process your application. Signing for the Veteran today doesn't take away their right to make decisions for their care.
+
+Select who will sign for the Veteran today:
+
+The Veteran
+
+A representative with legal authority to make medical decisions
 
 # (If Yes. I want to upload my document now.) 
 
-## Step 5 of 6: Representative document
+## Step 5 of 6: Application signature
 
-[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666491/simulate/sitemap?mode=i)
+[UXpin](https://preview.uxpin.com/a5e76c3713575e6b9cce2edf4d50693bf7f02578#/pages/146375963/simulate/sitemap)
 
-**Upload your legal representative document** (*Required)
+**Upload your supporting document** 
 
-You can upload a scanned copy or photo of your document from the device you’re using to apply online.
+We can only accept a document that proves you have legal authority to make medical decisions for the Veteran. This type of document is sometimes called a medical proxy or medical power of attorney.
 
-Follow these guidelines when you upload your document:
+**Don't have the right type of document?** Go back to the last screen. The Veteran will need to sign the application for themselves.
 
-- Upload the full document. We can’t accept only a cover or signature page.
-- Format the file as a .pdf, .jpg, .jpeg, or .png. 
-- Be sure the file is 10MB or less in size.
+**How to upload your document**
+- Choose a document that we can accept (like a medical proxy or medical power of attorney). Don't upload a marriage certificate, driver's license, or release of information form. And don't upload a general or financial power of attorney without a medical stipulation. Uploading a document that we can't accept may delay the application process.
+- Save a scanned copy or photo of the entire document on your device. We can't accept a cover or signature page without the rest of the document.
+- Format the file as a .pdf, .jpg, .jpeg, or .png. Be sure the file is 10MB or less in size.
 
-**Note:** A 1MB scanned file equals about 500 pages of text. A photo is usually about 6MB. If you have a slow Internet connection, large files may take longer to upload.
-
-What types of documents does VA accept to show legal representation? _(more info)_
-
-First, please know that we only accept **full documents**. We can't accept only a cover or signature page. Our staff will review the documents during the application process.
-
-We accept these documents:
-- Veteran guardianship, **or**
-- Veteran-related court order
-
-We may accept these documents, depending on the requirements where you live:
-- Power of attorney for the Veteran, **or**
-- Health care power of attorney for the Veteran
-
-Being a Veteran’s close family member or next of kin doesn’t mean you’re their representative. We don't accept these documents as a way to show legal representation:
-- Marriage or driver's licenses
-- Release of Information forms or fiduciary program documents
-- Medical or VA benefit records
-- Health insurance information
-
-_(end more info)_
+Your document (*Required)
 
 [Upload]
+
+_After upload_ [UXpin](https://preview.uxpin.com/a5e76c3713575e6b9cce2edf4d50693bf7f02578#/pages/146375963/simulate/sitemap)
+
+**Check your upload before you continue**
+
+It’s easy to upload the wrong file by mistake. We want to make sure that we review the right document (like a medical proxy or medical power of
+
+attorney). This will help speed up your application process. 
+
+Check the file name to make sure that this is the document you want to upload before you continue. If it's not, you can delete this file and upload another one.
+
+
+Your upload:
+
+_(file name)_
+
+[Delete file]
 
 [<<Back]   [Continue>>]
 
