@@ -12,7 +12,16 @@
 - Passed: 23
 - Failed: 3
 
-### Failures
-- Primary language
-- Title
-- Tagged Content
+### Failures (descriptions taken from [Adobe](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html?trackingid=KACNN#PrimeLang))
+- Primary language (Setting the document language in a PDF enables some screen readers to switch to the appropriate language. This check determines whether the primary text language for the PDF is specified. If the check fails, set the language).
+- Title (Reports whether there is a title in the Acrobat application title bar)
+- Tagged Content (This check reports whether all content in the document is tagged. Make sure that all content in the document is either included in the Tags tree, or marked as an artifact)
+
+
+
+### Needs manual check
+- Color contrast
+- Screen flicker
+- Logical reading order
+- Scripts
+- Timed Responses
