@@ -1,5 +1,8 @@
 # VA Vet Center Facility Product
 
+## [VSA Facilities Team transition document | March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
+
+
 **Product owner:** Dave Conlon
 
 **Business partner:** Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
