@@ -34,9 +34,7 @@ The My VA dashboard on VA.gov provides Veterans easier access to critical inform
 
 
 #### Now/Next/Later Roadmap
-My VA page was redesigned and released to production in July 2021.  The priority of this redesign was to elevate action items and communicate benefit status and updates that do not require action.  At the time of the redesign launch, it was decided that the My VA page would not replace the VA.gov homepage when the user logs in.  As we move through 2022, we are adding information identified as important by Veterans, as well as looking at My VA being the logged-in landing page and a potential reorganization of the information displayed on the page for findability and ease of use/accessibility.  Access the documents below for additional information.
-- [My VA Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md)
-- [2022 Team priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-myva-Q1-Q2-2022.md)
+My VA page was redesigned and released to production in July 2021.  The priority of this redesign was to elevate action items and communicate benefit status and updates that do not require action.  At the time of the redesign launch, it was decided that the My VA page would not replace the VA.gov homepage when the user logs in.  As we move through 2022, we are adding information identified as important by Veterans, as well as looking at My VA being the logged-in landing page and a potential reorganization of the information displayed on the page for findability and ease of use/accessibility.  
 
 - **In March**, we are releasing a new section being added to the My VA dashboard: Benefit payments and debts.  This new section will display recent payment information, number of any outstanding debts, and links to related financial resources
 - **Next**, we will be adding outstanding medical copays to the financial info, and adding an On-site Notification feature that will display at the top of the page.
@@ -49,7 +47,8 @@ My VA page was redesigned and released to production in July 2021.  The priority
 ### Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
 - [Authenticated Experience team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/)
-
+- [My VA Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md)
+- [2022 Team priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-myva-Q1-Q2-2022.md)
 
 ### Research and design
 - [**My VA product research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/Authenticated%20Experience%20-%20My%20VA%20UX%20research%20and%20design%20hub.md)
