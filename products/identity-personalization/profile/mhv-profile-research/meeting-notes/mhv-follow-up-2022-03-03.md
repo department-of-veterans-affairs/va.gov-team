@@ -38,7 +38,7 @@
 - Any broad findings about how people use the Profile?
 	- From what they know, they only go in there when they have to.
 	- A lot of it is not organized so that they intuitively know to go there for things like notifications.  They are hoping that re-structuring the navigation and IA, it will feel more familiar.
-	- Lexi found a presentation from their first profile integration - XD file - sent to Slack
+	- Lexi found a presentation from their first profile integration - XD file - sent to [Slack](https://dsva.slack.com/archives/C03557TUK62/p1646344352939639)
 - Questions about the Admin Portal
 	- Arienne and Liz have a thread going about data points. Question Liz had for MJ was if there was any data from the admin portal that would help us understand how they use it
 	- There are different users of Admin Portal - help desk, VISN coordinator, Facility coordinator, more administrative users who can assign roles to people
