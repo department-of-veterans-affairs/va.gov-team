@@ -89,7 +89,7 @@ List your tools; add notes.
 <br>
 
 ## Process milestones
-Include notes about which Platform process was in use when this feature was in design and development.
+GitHub tickets for each Platform process used when this feature was in design and development.
 
 - [Design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33477)
 - [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
