@@ -42,7 +42,7 @@ This table includes links to the individual research studies.
 ### Templates used
 - [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
 - [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
+- [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md)
 
 ### Tools used
 List your tools; add notes.
