@@ -15,18 +15,21 @@
  
 ## March 3, 2022
 
-- Updates (Denise)
-  - recurring events: March 8 
-  - top task pages:
+- Email protocol (Denise)
+- Change management learnings for Claro (Rachel)
+- Recurring events (Kev)
+  - teams working on technical issues
+  - launch March 8 
+- Top task pages (Denise/Suzanne)
    - beta test email to participants: March 7
    - start beta test: March 14
    - gather and analyze results: March 21
-- Change management learnings for Claro (Rachel)
+   - launch toward end of March
 - Auditing tools (Kevin)
   - Facility health services
   - VA Health Connect and Cerner
   - Top task
-- RACI: validate VHA DM accountabilities
+- RACI: validate VHA DM accountabilities (Denise)
 
 
 ## February 24, 2022
