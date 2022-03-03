@@ -48,7 +48,7 @@ This table includes links to the individual research studies.
 List your tools; add notes.
   
 - InVision
-- Mural
+- Mural - for note taking and organization, especially after usability testing
 - Optimal workshop
 
 <br>
