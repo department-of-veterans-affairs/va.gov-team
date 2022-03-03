@@ -129,5 +129,5 @@ Please list the people who will be serving in each role.
 ## Approvals
 Plan reviewed and approved by Dave Conlon in October 2021
 
-Plan reviewed and approved by Shane Strassberg or Kevin Hoffman on DATE TBD
+Plan reviewed and approved by Shane Strassberg on March 1, 2022
 
