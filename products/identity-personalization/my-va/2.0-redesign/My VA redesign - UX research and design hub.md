@@ -32,8 +32,8 @@ This table includes links to the individual research studies.
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | Discovery |[Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/research-plan.md)| [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/conversation-guide.md) |[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)| --- |
-| Baseline | [Link] | [Link]| [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-overview-tressa.md) | --- |
-| UAT | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-conversation-guide.md) | [Link] | --- |
+| Baseline | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA%20Research%20Plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-conversation-guide.md)| [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md) | --- |
+| UAT | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-conversation-guide.md) | [UAT Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/uat-bugs.md) | --- |
 
 
 ### References used
@@ -54,15 +54,8 @@ List your tools; add notes.
 <br>
 
 ## UX design work products
-This table includes links to the individual design work products.
+My VA - Redesign - [Design Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/design-ia)
 
-| Screens | Links | Text Sources | Last Rev | Last status |
-| :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Tool] | No text | date | Preliminary |
-| Information architecture flow | [Tool] | No text | date | IA review |
-| Wireframes | [Tool] | No text | date | Design intent |
-| Mockups | [Tool] | Preliminary text | date | Midpoint |
-| Prototype | [Tool] | Final text | date | Staging |
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
@@ -94,7 +87,6 @@ Include notes about which Platform process was in use when this feature was in d
 - [Design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13255)
 - [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14642)
 - [Content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13738)
-- [Midpoint review]
 - [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24705)
 - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24062)
 - [Analytics reporting request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22556)
