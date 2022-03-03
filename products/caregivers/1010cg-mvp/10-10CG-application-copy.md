@@ -1,6 +1,6 @@
 [Mural flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923499561/47a15bbef931c358b80a077c7085ede9b26dc25e?sender=u6ad375c1c8425e5bfec67027)
 
-[UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/sitemap?mode=i)
+[UXpin partial prototype](https://preview.uxpin.com/a5e76c3713575e6b9cce2edf4d50693bf7f02578#/pages/146375940/simulate/sitemap)
 
 ## Apply for the Program of Comprehensive Assistance for Family Caregivers
 
