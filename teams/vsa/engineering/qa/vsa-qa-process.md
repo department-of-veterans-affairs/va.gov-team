@@ -31,8 +31,8 @@ These artifacts should be ready before opening VSA-QA Test Plan ticket:
 ### Process flow
 
 #### Matrix flowchart
+![VSA QA Process Flow 2021 05](https://user-images.githubusercontent.com/587583/156665718-a08a5163-54d5-42de-a172-ede10c88c2e2.svg)
 
-![Flowchart](images/vsa-qa-process-flow-manual-ui-2021-05.png)
 
 #### Flow steps
 
