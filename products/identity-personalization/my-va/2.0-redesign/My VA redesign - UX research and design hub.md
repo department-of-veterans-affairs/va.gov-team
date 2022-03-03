@@ -29,11 +29,11 @@
 ## UX research studies
 This table includes links to the individual research studies.
 
-| Study | Research plan | Convo guide | Findings | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| Discovery |[Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/research-plan.md)| [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/conversation-guide.md) |[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)| --- |
-| Baseline | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA%20Research%20Plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-conversation-guide.md)| [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md) | --- |
-| UAT | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-conversation-guide.md) | [UAT Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/uat-bugs.md) | --- |
+| Study | Research plan | Convo guide | Findings |
+| :--- | :--- | :--- | :--- |
+| Discovery |[Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/research-plan.md)| [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/conversation-guide.md) |[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)|
+| Baseline | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA%20Research%20Plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-conversation-guide.md)| [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md) |
+| UAT | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/MyVA-uat-conversation-guide.md) | [UAT Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/uat/uat-bugs.md) |
 
 
 ### References used
@@ -73,11 +73,10 @@ My VA - Redesign - [Design Folder](https://github.com/department-of-veterans-aff
 ### Tools used
 List your tools; add notes.
   
-- Sketch for Teams
-- UXPin
-- Mural
-- Github markdown
-- VSCode
+- [Sketch for Teams](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- UXPin - for some clickable prototyping
+- Mural - for note taking and organization, especially after usability testing
+- Github markdown - main source for storing documents and linking to the epic
 
 <br>
 
