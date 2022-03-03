@@ -60,7 +60,7 @@ We used these UX design resources to guide our design and development.
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
-- [Internal 508 checklist]
+- [Internal 508 checklist](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html)
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 <br>
@@ -68,7 +68,7 @@ We used these UX design resources to guide our design and development.
 ## Our UX research/design process
 Add team-specific process documentation; add notes.
 
-- [Team process doc]
+- [Team process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/folder/launch-playbook/checklist.md)
 - [Reference doc]
 - [Reference doc]
 
@@ -87,7 +87,7 @@ Outline your process; add notes.
 8. Conduct usability testing
 9. Refine/finalize screens and flows
 10. Review feature in staging
-11. Second usability testing round
+11. Second usability testing round (if needed)
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
 </details>
@@ -98,10 +98,9 @@ Outline your process; add notes.
 List your tools; add notes.
   
 - [Sketch for Teams](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
-- UXPin
-- Mural
-- Github markdown
-- VSCode
+- UXPin - for some clickable prototyping
+- Mural - for note taking and organization, especially after usability testing
+- Github markdown - main source for storing documents and linking to the epic
 </details>  
 
 ### VA.gov collaboration cycle
