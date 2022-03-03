@@ -465,7 +465,7 @@ Your document (*Required)
 
 [Upload]
 
-_After upload_ [UXpin](https://preview.uxpin.com/a5e76c3713575e6b9cce2edf4d50693bf7f02578#/pages/146375963/simulate/sitemap)
+_After upload_ 
 
 **Check your upload before you continue**
 
