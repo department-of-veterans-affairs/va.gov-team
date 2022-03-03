@@ -22,12 +22,12 @@
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
-| :--- | :--- | :--- |
-| [My VA dashboard redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326) | My VA | [In Production](https://www.va.gov/my-va) |
-| [My VA Enahncements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Payment Info, Payment history | [In staging](https://staging.va.gov/my-va) |
-| [On-site Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611) |Action Items | [In development](https://dev.va.gov) |
-| [My VA Enahncements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Medical Copays | [In Discovery/Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/Copays) |
+| Feature (Github link) | AKA | Status (Latest feature link) | GitHub Folder |
+| :--- | :--- | :--- | :--- |
+| [My VA dashboard redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326) | My VA | [In Production](https://www.va.gov/my-va) | [Redesign Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign) |
+| [My VA Enahncements - Payment Info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Payment Info, Payment history | [In staging](https://staging.va.gov/my-va) | [Payment Info Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history) |
+| [On-site Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611) |Action Items | [In development](https://dev.va.gov) | [Onsite Notifications Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications) |
+| [My VA Enahncements - Copays](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Medical Copays | [In Discovery/Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/Copays) | [Copays Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/Copays) |
 
 
 <br>
@@ -41,7 +41,7 @@ We used these UX research resources during design and development.
 ### Templates
 - [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
 - [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-- [Findings template]
+- [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md)
 
 <br>
 
