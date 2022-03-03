@@ -1,4 +1,4 @@
-# VSA My VA redesign - UX research and design hub
+# VSA My VA - Redesign - UX research and design hub
 **Authenticated Experience - My VA**
 
 <br>
