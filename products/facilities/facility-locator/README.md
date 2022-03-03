@@ -12,6 +12,8 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/> (which was changed to an annual license version, effective Oct 1, 2019, facilitated by Nancy Smith of Oddball)
 - It serves many purposes, from finding basic facility address and phone information to preparing for a visit, to understanding eligiblity for community care
 
+## [VSA Facilities Team transition document | March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
+
 ## Other notes
 
 - Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator>
