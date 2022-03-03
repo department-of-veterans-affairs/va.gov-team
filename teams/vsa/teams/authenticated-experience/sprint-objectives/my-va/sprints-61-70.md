@@ -418,8 +418,6 @@ Sprint goal: Complete QA
 
 We are officially in pre-launch! So, we need to make sure anything outstanding from last sprint is completed, plus:
 
-PRE LAUNCH!! 
-
 **PM**
 
 - Make sure analytics updates get implemented (#37876)
