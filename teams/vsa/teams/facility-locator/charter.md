@@ -36,7 +36,6 @@ Provide a single, consolidated place across VA where a veteran can easily find h
   - David Conlon (September 2019 - present) 
 - Product Manager 
    - Michelle Middaugh (September 2019 - present) 
-- VA UI Design Lead: Ryan Thurlwell
 - UX/Design
   - Nick Osmanski (April 2021 - present)
   - Dave Sukharan (November 2021 to present)
@@ -46,6 +45,7 @@ Provide a single, consolidated place across VA where a veteran can easily find h
   - Napoleon Kersnessant (December 2021 - present)
 
 ### Past
+- VA UI Design Lead: Ryan Thurlwell
 - UX/Design
   - Chris Logan (October 2020 - February 2021)
   - Aricka Lewis (September 2019 - June 2020) 
