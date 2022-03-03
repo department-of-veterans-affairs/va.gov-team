@@ -1,5 +1,6 @@
 ## Apply for the Program of Comprehensive Assistance for Family Caregivers
 
+[Mural flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923499561/47a15bbef931c358b80a077c7085ede9b26dc25e?sender=u6ad375c1c8425e5bfec67027)
 [UXpin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/sitemap?mode=i)
 
 Equal to VA Form 10-10CG (Application for Family Caregiver Benefits)
@@ -476,9 +477,11 @@ attorney). This will help speed up your application process.
 Check the file name to make sure that this is the document you want to upload before you continue. If it's not, you can delete this file and upload another one.
 
 
-Your upload:
+Your document:
 
 _(file name)_
+
+_(X size)_
 
 [Delete file]
 
