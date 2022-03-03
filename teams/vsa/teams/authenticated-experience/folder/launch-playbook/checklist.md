@@ -28,16 +28,9 @@ The steps here are meant to provide a framework to build upon for each feature t
   - [ ] Review the [Design QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md) documentation
 - [ ] **External**
   - [ ] Review [Design Workflow](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
-  - [ ] Shawna (`@shawna` in Slack): Design presentation of mockups (might be in a weekly meeting)
-  - Iterate on Shawna's feedback
+  - [ ] Initiate [Collab Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html), starting with Design Intent
   - [ ] Other Teams: Authenticated Experience, Global UX, etc
-  - [ ] VFS-platform-support
-    - Emily: Design
-    - Peggy: Content
-    - Mikki: IA
-    - Jennifer: Usability
-    - Trevor: 508
-  - Iterate on other team's feedback
+   - Iterate on other team's feedback
 - [ ] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#whentorequest)
 
 ### Content/IA  
