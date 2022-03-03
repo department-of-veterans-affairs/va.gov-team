@@ -320,11 +320,11 @@ We do recommend technical discovery to surface clearer clinic name data.
 
 We also recommend running discovery with facilities about clinic names to better understand the value of using codes over the name of the clinic, and discover if sources of better information exist.
 
-### Consider giving Veterans a tool to message their providers from the appointment list.
+### Consider providing a path to Secure Messenger from the appointment list.
 
-When Veterans check their appointments, participants reported that they often follow up by sending a message to their providers with questions or concerns. Consider providing a link to the secure messaging tool to save them from navigating to it separately. 
+Participants reported that they often follow up with their providers after they review their appointments. Consider providing a simple path to the secure messaging tool from the appointments list. 
 
-Also consider keeping the context from which the message was started, like opening the message window to directly message that provider, or including information about the appointment from which the Veteran was looking at when they initiated the message.
+This could benefit if the context of the provider is maintained, or the appointment from which the message originated. This may mean opening a message directly to the provider, or including information about the appointment in the message body.
 
 
 # Next Steps
