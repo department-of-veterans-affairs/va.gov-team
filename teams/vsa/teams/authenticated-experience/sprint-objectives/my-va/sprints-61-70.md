@@ -410,6 +410,10 @@ Sprint goal: Complete QA
 ## Sprint 69 (3/9 - 3/22)
 [Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30274)
 
+### PTO
+
+- Samara: 3/15
+
 ### Payment info
 
 We are officially in pre-launch! So, we need to make sure anything outstanding from last sprint is completed, plus:
