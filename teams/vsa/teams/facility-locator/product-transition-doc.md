@@ -30,6 +30,8 @@ Our products connect Veterans to VA locations where they can receive services an
 - VAMC modernized pages
 - Vet Center pages
 
+[2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
+
 ### Facility Locator 
 
 #### Facility Locator product overview
