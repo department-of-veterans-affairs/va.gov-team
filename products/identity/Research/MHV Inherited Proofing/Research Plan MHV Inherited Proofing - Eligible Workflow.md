@@ -198,11 +198,11 @@ _Specify if you want Perigean to schedule the sessions with buffer time (15 minu
 >When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*
 Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.).
 
+- Monday - 11:00am - 3:00pm, 5:00-8pm EST
 - Tuesday - 11:00am - 3:00pm, 5:00-8pm EST
 - Wednesday - 11:00am - 3:00pm, 5:00-8pm EST
 - Thrusday - 11:00am - 3:00pm, 5:00-8pm EST
-- Monday - 11:00am - 3:00pm, 5:00-8pm EST
-- Tuesday - 11:00am - 3:00pm, 5:00-8pm EST
+- Friday - 11:00am - 3:00pm, 5:00-8pm EST
 
     
 ## Team Roles    
