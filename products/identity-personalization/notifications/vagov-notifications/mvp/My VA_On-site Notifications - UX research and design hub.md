@@ -29,9 +29,9 @@
 ## UX research studies
 This table includes links to the individual research studies.
 
-| Study | Research plan | Convo guide | Findings | 
-| :--- | :--- | :--- | :--- |
-| Discovery | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-conversation-guide.md) | [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md) |
+| Study | Research plan | Convo guide | Findings | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| Discovery | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-conversation-guide.md) | [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md) | In Preliminary Development|
 
 
 
@@ -47,7 +47,7 @@ This table includes links to the individual research studies.
 List your tools; add notes.
   
 - InVision
-- Mural
+- Mural - for note taking and organization, especially after usability testing
 - Optimal workshop
 
 <br>
@@ -57,11 +57,8 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Tool] | No text | date | Preliminary |
-| Information architecture flow | [Tool] | No text | date | IA review |
-| Wireframes | [Tool] | No text | date | Design intent |
 | Mockups | [Sketch File](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx) | Preliminary text | 2/2022| Midpoint |
-| Prototype | [Tool] | Final text | date | Staging |
+| Prototype | [UXPIN](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) | Preliminary text | 01/2022 | Midpoint |
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
@@ -79,11 +76,10 @@ This table includes links to the individual design work products.
 ### Tools used
 List your tools; add notes.
   
-- Sketch for Teams
-- UXPin
-- Mural
-- Github markdown
-- VSCode
+- [Sketch for Teams](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- UXPin - for some clickable prototyping
+- Mural - for note taking and organization, especially after usability testing
+- Github markdown - main source for storing documents and linking to the epic
 
 <br>
 
@@ -94,15 +90,16 @@ GitHub tickets for each Platform process used when this feature was in design an
 - [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34621)
 - [Content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
 - [Midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34621)
-- [Staging review]
-- [UAT]
+- [Staging review] PENDING
+- [UAT] PENDING
 
 <br>
 
 ## Other feature documentation
 - [Backend Engineering notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp/backend)
+- [API Swagger docs JSON](https://staging-api.va.gov/v0/apidocs)
 - [Frontend Engineering documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp/frontend/documentation)
-- [Call center guide]()
+- [Call center guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/My.VA.2.0.Product-Guide.Version.3.dateTBD.docx)
 - [Meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp/product)
 - [Design Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp/design)
 
