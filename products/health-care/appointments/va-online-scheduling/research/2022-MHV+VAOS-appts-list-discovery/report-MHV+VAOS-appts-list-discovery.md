@@ -306,7 +306,7 @@ The greatest value in the updated concept was showing clear modality information
 
 We also recommend reviewing the Pending appointments language when testing the updated prototype, as this was a potential source of confusion for our participants.
 
-### Review the transition from MHV to VAOS
+### Review the Cerner offboarding interaction when navigating from MHV to VAOS
 
 Currently, both MHV and VAOS provide users the option to schedule through different portals when they are registered at Cerner facilities. Consider moving this functionality entirely to VAOS as a way to reduce duplication and simplify the scheduling flow.
 
