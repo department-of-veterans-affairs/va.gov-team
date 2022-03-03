@@ -15,7 +15,12 @@
  
 ## March 3, 2022
 
-- Update: recurring events and top task pages launch (Denise)
+- Updates (Denise)
+  - recurring events: March 8 
+  - top task pages:
+   - beta test email to participants: March 7
+   - start beta test: March 14
+   - gather and analyze results: March 21
 - Change management learnings for Claro (Rachel)
 - Auditing tools (Kevin)
   - Facility health services
