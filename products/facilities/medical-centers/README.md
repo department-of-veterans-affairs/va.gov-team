@@ -2,6 +2,8 @@
 
 This product folder contains all research, design, engineering, and product documentation about the new VAMC Facility Site product. It also includes documentation about scaling the product to upgrade all VAMC websites to the new product design.
 
+[VSA Facilities Team transition document | March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
+
 **Product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
 
 **Business stakeholder:** Jenny Heiland-Luedtke (Jennifer.Heiland-Luedtke@va.gov) VHA Digital Media 
