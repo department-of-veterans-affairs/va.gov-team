@@ -1,13 +1,13 @@
 # VA.gov profile roadmap
 
-**Updated January 29, 2022**
+**Updated March 3, 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
 |[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | BE build |
-|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Discovery|
+|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Design |
 
 ### Projected timelines for current projects & enhancements
 
@@ -64,6 +64,10 @@
 |Enhanced statement of service | George Chewning | Summer 2021 | George and Samara agree that we need more research to determine what updates to military information on VA.gov would be the most useful. We are currently trying to determine how to get funding for this work. Potential research questions: (1) How do people use/when do people need their DD214 when interacting with the VA? (2) Are there certain pieces of information from the DD214 it would be especially helpful to reflect on VA.gov that we don't support now (eg. discharge status)? (3) What military data would it be helpful to have on VA.gov to support predictive benefit eligibility?|
 
 ### Direct deposit requests
+
+|Project|Initiating team|Date of request| Status/Notes|
+|----|----|----|----|
+|Show direct deposit section persistently for all users| Auth exp|3.3.22| This suggestion is based on Medallia survey feedback of people saying they should hace direct deposit in their profile but it's not showing up. It sounds like we are somehow not able to detect their direct deposit info. While persistently showing the tab would not entirely solve the problem, it would at least stop people from searching around for this section|
 
 ### Notification preferences requests
 
