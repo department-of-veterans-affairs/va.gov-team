@@ -32,8 +32,7 @@ This table includes links to the individual research studies.
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | Discovery | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-conversation-guide.md) | [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md) | --- |
-| UAT | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md) | [Findings] | --- |
-| Study title | [Link] | [Link]| [Link] | --- |
+| UAT | [Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-research-plan.md) | [Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md) | [Findings] | UAT sessions planned for mid-March |
 
 
 ### References used
@@ -58,11 +57,9 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Tool] | No text | date | Preliminary |
-| Information architecture flow | [Tool] | No text | date | IA review |
-| Wireframes | [Tool] | No text | date | Design intent |
-| Mockups | [Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment) | Preliminary text | date | Midpoint |
-| Prototype | [UXPIN](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) | Final text | date | Staging |
+| Prototype | [UXPIN](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) | Preliminary text | 01/2022 | Midpoint |
+| Mockups | [Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment) | Final text | 03/2022 | Staging |
+
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
@@ -80,11 +77,10 @@ This table includes links to the individual design work products.
 ### Tools used
 List your tools; add notes.
   
-- Sketch for Teams
-- UXPin- Prototype (design style has changed a little bit since this document)
-- Mural
-- Github markdown
-- VSCode
+- [Sketch for Teams](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- UXPin - for some clickable prototyping
+- Mural - for note taking and organization, especially after usability testing
+- Github markdown - main source for storing documents and linking to the epic
 
 <br>
 
@@ -95,7 +91,7 @@ GitHub tickets for each Platform process used when this feature was in design an
 - [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
 - [Content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
 - [Midpoint review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
-- [Staging review]
+- [Staging review] - PENDING
 - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36693)
 
 <br>
