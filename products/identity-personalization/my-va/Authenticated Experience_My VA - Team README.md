@@ -67,14 +67,20 @@ My VA page was redesigned and released to production in July 2021.  The priority
 
 ## VA relationships
 > You can reference specific product outlines or the team charter if contact or meeting information exists there already
-### Contacts
+### March 2022 team roster
 
-- Samara Strauss | samara.strauss@va.gov -- Product owner
-- Ana Jakabcin | ana@adhocteam.us -- Product Manager
-- Tressa Furner | tressa.furner@adhocteam.us -- UX designer
-- Liz Lantz | liz.lantz@adhocteam.us -- UX discovery researcher
-- Cassandra Allen | callen@governmentcio.com -- UX designer
+- Heather Justice | heather.justice1@adhocteam.us -- Team product manager
 - Lihan Li | lihan@adhocteam.us -- Backend engineer
+- Taylor Mitchell | taylor.mitchell@gcio.com -- Frontend engineer
+- Liz Lantz | liz.lantz@adhocteam.us -- UX researcher
+- Angela Agosto | angela.agosto@adhocteam.us -- UX designer
+- Samara Strauss | samara.strauss@va.gov -- Product owner
+
+### Additional Contacts (worked on the original My VA re-design) 
+
+- Ana Jakabcin | ana@adhocteam.us -- Product Manager
+- Tressa Furner | tressa.furner@adhocteam.us -- UX designer 
+- Cassandra Allen | callen@governmentcio.com -- UX designer
 
 
 ### Meetings
