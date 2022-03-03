@@ -347,7 +347,7 @@ You don’t have to upload these documents. But it can help us verify your milit
 
 **Current compensation from VA**
 
-A disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
+VA disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
 
 Do you receive VA disability compensation? (*Required)
 
