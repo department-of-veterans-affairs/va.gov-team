@@ -1,10 +1,10 @@
 # Million Veteran Program (MVP) Communications & Outreach Toolkits
 
 Contents:
-1. **New!** [1 Million Countdown Campaign](#1-million-countdown-campaign-toolkit)
+1. **New!** [Countdown to 1 Million Campaign](#countdown-to-1-million-campaign-toolkit)
 2. [Women Veterans Campaign](#women-veterans-campaign-toolkit)
 
-## 1 Million Countdown Campaign Toolkit
+## Countdown to 1 Million Campaign Toolkit
 
 **What is MVP:** The Million Veteran Program (MVP) is a national research program to learn how genes, lifestyle, and military exposures affect health and illness. Since launching in 2011, over 865,000 Veterans have joined MVP, making it one of the world’s largest programs on genetics and health.
 
