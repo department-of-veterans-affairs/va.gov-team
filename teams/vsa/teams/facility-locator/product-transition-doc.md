@@ -1,46 +1,47 @@
 # VSA Facilities product transition doc (WIP)
-
+**Team transition document | March 2022**
 <br>
 
->**Team transition document | March 2022**
->
 > The purpose of this transition document is to outline the current state of VSA-Facilities product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 
 <br>
 
 ## Table of Contents
-[Product context](#product-portfolio-and-context)
-[Product portfolio](#product-portfolio)
-[Facility Locator product overview](#facility-locator-product-overview)
-[Facility Locator product approach](#facility-locator-product-approach)
-[Facility Locator product roadmap](#facility-locator-product-roadmap)
-[VAMC modernized pages product overview](#vamc-modernized-pages-product-overview)
-[VAMC modernized pages product approach](#vamc-modernized-pages-product-approach)
-[VAMC modernized pages product roadmap](#vamc-modernized-pages-product-roadmap)
-[Facility Locator overview](#vet-center-pages-product-overview)
-[Facility Locator product approach](#vet-center-pages-product-approach)
-[Facility Locator Roadmap](#vet-center-pages-product-roadmap)
+
+[Product portfolio and context](#product-portfolio-and-context)
+
+[Facility Locator](#facility-locator)
+
+[VAMC modernized pages](#vamc-modernized-pages)
+
+[Vet Center pages](#vet-center-pages)
+
 [Artifacts](#artifacts)
+
 [Research and design](#research-and-design)
+
 [Engineering](#engineering)
-[VA relationships (Team)](#va-relationships)
+
+[Contacts](#contacts)
 
 ## Product portfolio and context 
-Our products connect Veterans to VA locations where they can receive services and prepare them to visit those locations. The Facilities team portfolio includes
+Our products connect Veterans to VA locations where they can receive services and prepare them to visit those locations. The Facilities team portfolio includes the following unauthenticated products
 - Facility Locator
 - VAMC modernized pages
 - Vet Center pages
 
+### Facility Locator 
 
-### Facility Locator product overview
-The Facility Locator is an unauthenticated search tool which can be used to find VA facilities and services. It leverages the Facilities API for VA owned and operated facilities and connects to the Community Care Provider Profile Management System (PPMS) for VA network locations. Search results connect to modernized websites for VAMCs and Vet Centers or legacy detail pages which provide basic location and service information for VBA and cemeteries.  
+#### Facility Locator product overview
+The Facility Locator is an unauthenticated search tool which can be used to find VA facilities and services. It leverages the Facilities API for VA owned and operated facilities and connects to the Community Care Provider Profile Management System (PPMS) for VA network locations. Search results connect to modernized websites for VAMCs and Vet Centers or legacy detail pages which provide basic location and service information for VBA and cemeteries. Map functionality is provided by Mapbox.
 
+#### Facility Locator documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
 - [Google Analytics dashboard](https://analytics.google.com/analytics/web/#/dashboard/Br4Erd4eRMePqyRXnLY5nA/a50123418w177519031p184317761/_u.date00=20210201&_u.date01=20210228&_.useg=builtin1,builtin28/)
 - [Legacy DOMO dashboard](https://va-gov.domo.com/page/1129885232)
-  - also included on [Mission Act DOMO Dashboard](https://va-gov.domo.com/page/1865233622?userId=1405356294)
-- Staging users and use cases are unneeded for this unauthenticated product
+- [Mission Act DOMO Dashboard](https://va-gov.domo.com/page/1865233622?userId=1405356294) also contains community care search data from the Facility Locator
+- [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mapbox)
 
 #### Facility Locator product approach 
 
@@ -51,13 +52,15 @@ Brief plain-language description of this product’s history and next steps
 - Next 
 - Later
 
- 
-### VAMC modernized pages product overview
-Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families and caregivers. The pages provide the location details needed before visiting and easy access to top tasks and digital health tools. It is powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. During the roll-out, the Facilities team had responsibility for the front-end, from content API to Veteran-facing UI.  
+### VAMC modernized pages
+
+#### VAMC modernized pages product overview
+Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families and caregivers. The pages provide the location details needed before visiting and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. During the roll-out, the Facilities team had responsibility for the front-end, from content API to Veteran-facing UI.  
+
+#### VAMC modernized pages documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
 - [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632)
-- Staging users and use cases are unneeded for this unauthenticated product
 
 #### VAMC modernized pages product approach 
 
@@ -68,15 +71,14 @@ Brief plain-language description of this product’s history and next steps
 - Next 
 - Later
 
----
+### Vet Center pages
 
-### Vet Center pages product overview
-Brief plain-language description of this product
+#### Vet Center pages product overview
+Vet Center pages were created to establish web presence for this group of underutilized VA facilities and the services they deliver. The Vet Center MVP was informed by a group of 10 Vet Center outreach specialists and was intentionally designed to be lean, providing information about Vet Center services and the locations where they are available.  They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - Vet Center national and local Vet Center facility.
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/product-brief.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632) 
-- Staging users and use cases are unneeded for this unauthenticated product
 
 #### Vet Center pages product approach 
 
@@ -101,21 +103,17 @@ Brief plain-language description of this product’s history and next steps
 - [Individual feature/initiative hub page]()
 
 ### Engineering
-- [Documentation]()
-- [Documentation]()
-- [Documentation]()
+- [Facility Locator documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
+- [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
 
 <br>
 
-## VA relationships
-> You can reference specific product outlines or the team charter if contact or meeting information exists there already
 ### Contacts
 
 - Dave Conlon| david.conlon@va.gov -- Product owner
 - Jessica Schiefer | Jessica.Schiefer@va.gov -- Communications, RCS (Vet Center POC)
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
-
+- Kevin Walsh | kevin.walsh@civicactions.com -- CMS team POC
+- Nancy Smith | nancy.smith@oddball.io | Mapbox POC
 ### Meetings
 
 - Meeting title
