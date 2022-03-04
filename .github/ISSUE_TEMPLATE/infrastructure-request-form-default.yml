@@ -1,12 +1,12 @@
 name: Infrastructure Request Form WIP
 description: Request new infrastructure or change an existing configuration.
-title: "[Platform Infrastructure]: Setup and configuration for YOUR TEAM HERE"
+title: "[Infrastructure Request]: Setup and configuration for YOUR TEAM HERE"
 labels: ["infrastructure-request", "operations"]
 body:
   - type: markdown
     attributes:
       value: |
-        Request new infrastructure or change an existing configuration. _All answers are optional._ The Platform Infrastructure team will work with you to gather all necessary requirements before processing your request. Providing information upfront can help to expedite your request. 
+        Request new infrastructure or change an existing configuration. _All answers are optional._ The Platform Infrastructure team will work with you to gather requirements before processing your request. Providing information upfront may help to expedite your request. 
   - type: input
     id: team-name
     attributes:
@@ -19,7 +19,7 @@ body:
     id: application-name
     attributes:
       label: Application name
-      description: What is the name of your applicaiton or service?  
+      description: What is the name of your application or service?  
       placeholder: e.g. Vets-API
     validations:
       required: false
@@ -66,9 +66,9 @@ body:
   - type: textarea
     id: service-accounts
     attributes:
-      label: Users and service accounts 
-      description: List users and/or service accounts that need access to this infrastructure. 
-      placeholder: e.g. FirstName.LastName or GitHub service account(s)
+      label: Access needed 
+      description: If there are existing AWS user or service accounts that need access to this infrastructure, please list them below
+      placeholder: e.g. FirstName.LastName or SVC-EXAMPLE-ACCOUNT
     validations:
       required: false
   - type: checkboxes
