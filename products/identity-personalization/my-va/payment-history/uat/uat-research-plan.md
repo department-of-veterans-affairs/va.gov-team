@@ -111,7 +111,7 @@ Please recruit 12 participants for 6 completed sessions.
 ## Timeline
 ### Prepare
 When will the thing you are testing be finalized? 
-TBD
+April 2022 (tentative)
 
 Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: TBD - Since we have very specific crtieria and were unale to find someone who meets it ourselves, we will use the first session as the test pilot. Please schedule only one person on the first day so we can make any necessary adjustments.
