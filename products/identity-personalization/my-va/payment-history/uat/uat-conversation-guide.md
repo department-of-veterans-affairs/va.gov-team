@@ -71,16 +71,8 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 - [ ] **UAT TASK**: Confirm links are behaving as expected
 - [ ] **Usability**:  How easy is it for magnification users to use the links?
 
-## 4. Copay research - 5 minutes
-Thank you! That was everything on the page that I wanted you to try out. I have one final question about another feature we're beginning work on.
-
-- [ ] **Usability**: If you wanted to get the latest information about your medical co-pays, where do you think you would expect to see that on this page? Can you show me where you would look?
-
 ## Post-Task Interview - 5 minutes
-Thank you so much! This has been really helpful for our team. Do you have any feedback on what we looked at today?
-
-* Do you have any questions for me?
-
+Thank you so much! That was everything I wanted to try out with you today. This has been really helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
 Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day! 
