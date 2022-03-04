@@ -97,24 +97,10 @@ Examples of common research methods include:
 Remote usability testing will be conducting via Zoom.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md)
+- [Link to prototype](url goes here) [TBD - may use staging/production & bespoke tree test/prototype]
 	
 ## Recruitment	
 
@@ -125,26 +111,32 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-- Perigean will handle recruitment for this research study, as well as note-taking.
-- Participants can be a mix of Veterans and caregivers.
+Using Perigean recruiting, we would like to schedule **20 participants** to reach our goal of observing 10 participants.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+- *Must be enrolled in VA healthcare*
+- *Laptop or desktop computer only*
+	- *For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task*
+- *Be able to screenshare via Zoom*
+	- *Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing*
+- *At least 2 participants under 35 years old*
+- *At least 2 participants over 55 years old*
+- *At least 1 participant with cognitive disabilities*
+- *At least 5 participants with no college degree or professional certificates*
+- *At least 3 participants of color*
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+- *Mix of Veterans and Caregivers*
+- *All genders*
+- *A mix of rural and urban participants*
 
 ## Timeline
+
+[TBD]
+
 If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
 
 ### Prepare
@@ -155,23 +147,27 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: 
 
 ### Research sessions
-What dates do you plan to do research? 
+
+[TBD]
 
 ### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+
+Scheduled session should be for **1 hour** with the expectation they take around 45 minutes to complete.
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+
+[TBD]
+
+Date | Time
+-----|-----
+3/-/2022 | 0:00 AM - 0:00 PM
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+## Team Roles		
+- Moderator: Nick Osmanski (nick.osmanski@amida.com)
+- Research guide writing and task development: Nick Osmanski (nick.osmanski@amida.com)
+- Participant recruiting & screening: Perigean
+- Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
+- Participant(s) for pilot test: [TBD]
+- Note-takers: Perigean
+- Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov), Dave Sukharan (dave.sukharan@adhocteam.us)	
+	
