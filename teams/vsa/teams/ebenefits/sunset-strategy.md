@@ -9,7 +9,7 @@
 **EBN dashboard:** sqa.eauth.va.gov/ebenefits/apply  
 **User EBN dashboard:** sqa.eauth.va.gov/ebenefits/profile  
 
-| Feature                                             | Portfolio     | Launch Status | Redirect Status (on EBN)    | --       | --    | Notes 
+| Feature                                             | Portfolio     | Launch Status | Redirect Status (on EBN)    | Link to transition doc | --    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | **(COMPELETE 07072020)**        | Messaging with link to VA.gov; redirect install on Jan 20, 2022        | --        | --        | --
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | **(COMPELETE 15112020)**        | --        | --        | --        | --
@@ -31,7 +31,7 @@
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | **(COMPELETE 07202020)**        | Redirected        | --        | --        | --
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | **(COMPELETE 07202020)**        | not yet redirected        | --        | --        | Deprecated with launch of Hearing Aids
 | Calculate Home Loan Benefit                         | vsa-ebenefits | Not started | -- | -- | -- | Requires Discovery, possible new LGY integration required
-| Request Certificate of Eligibility (1880)         | vsa-ebenefits | In dev | -- | -- | -- | FE mostly done, waiting on BE / API
+| Request Certificate of Eligibility (1880)         | vsa-ebenefits | In dev | -- | [Transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/coe-transition-design.md) | -- | FE mostly done, waiting on BE / API
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | In discovery | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for engagement**
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | In discovery | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for engagement**
 | View Dependent Benefits Letter                      | combination   | Check with MR | --        | --        | --        | [Confirm complete?](https://staging.va.gov/records/download-va-letters/)
