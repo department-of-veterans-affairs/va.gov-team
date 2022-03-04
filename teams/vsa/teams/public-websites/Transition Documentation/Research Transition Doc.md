@@ -1,4 +1,4 @@
-# VSA eBenefits UX research and design hub
+# VSA Public Websites UX research 
 
 <br>
 
@@ -152,3 +152,4 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 <br>
 
 ---
+

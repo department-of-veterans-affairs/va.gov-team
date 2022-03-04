@@ -1,4 +1,4 @@
-# # Research Plan for MHV personal information, Veteran interviews, March 2022
+# Research Plan for MHV personal information, Veteran interviews, March 2022
 `draft`
 ## Background
 MyHealtheVet (MHV) has its own profile, which is part of a larger Personal Information section. In support of the health apartment transition, we need to understand how Veterans currently use this part of MHV in order to inform our approach to aligning the MHV profile with the VA.gov profile.

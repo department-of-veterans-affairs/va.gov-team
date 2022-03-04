@@ -17,9 +17,19 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 Are there moments that matter? 
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+[3 MAIN GOALS IS IDEAL, THINK ABOUT FUTURE RESEARCH FOR MORE THAN 3]
+
+The main goals of this research are:
+- To identify Veteran's preferred method of contacting their health care team.
+- To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
+- To identify where Veterans expect to find methods of contacting their health team.
+- To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.
+- General stuff:
+	- What is confusing?
+	- What would they expect?
+	- What works well?
+	- What do they suggest?
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
