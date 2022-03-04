@@ -41,7 +41,7 @@ Currently, not all communication methods available to Veterans are present on ea
 
 ### Research questions
 
-[BUCKET UNDER GOALS, REORGANIZE]
+[BUCKET UNDER GOALS, REORGANIZE?]
 
 1) Where do Veterans expect to find each of the different methods of communication?
 	- VA Health Chat
@@ -55,17 +55,14 @@ Currently, not all communication methods available to Veterans are present on ea
 
 ### Hypothesis
 
-[BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
+[FOCUS AND CLEAN UP; BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
 
-1) Most participants will want additional methods of communication on facility health care pages.
-2) Most participants will find it confusing/unintuitive to locate certain existing methods of communication.
-3) 
-
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+1) Most participants will want additional methods of communication on specific facility health care pages.
+2) Most participants will prefer methods of communication *other* than phone numbers.
+3) Most participants will find phone number labeling adequate.
+4) Most participants will prefer at least one page that list all available communication methods (ie. on the Contact Us page, or something)
+5) Most participants will have similar use cases for particular communication methods (ie. secure messaging for appointments)
+6) The more top-level the starting point (facility locator, system level, facility level) the more difficult it will be to find a list of communication methods.
 
 ## Method	
 
@@ -75,7 +72,7 @@ What do you intend to learn and measure from this study? Think through these pro
 	- Task flow from specific starting points
 - Tree test
 	- Health care system level links/headings
-	- Facility level links/headinds
+	- Facility level links/headings
 - Contexual inquiry
 	- Labels & sub-labels
 	- Expectations per page
