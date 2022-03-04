@@ -324,7 +324,7 @@ We also recommend running discovery with facilities to better understand what va
 
 Participants reported that they often follow up with their providers after they review their appointments. Consider providing a simple path to the secure messaging tool from the appointments list. 
 
-This could benefit if the context of the provider is maintained, or the appointment from which the message originated. This may mean opening a message directly to the provider, or including information about the appointment in the message body.
+Additionally, it may be helpful to use information from the appointment that the Veteran was viewing when they navigated to Secure Messenger. For example, the system could open a message directly to the provider or include information about the appointment in the message.
 
 
 # Next Steps
