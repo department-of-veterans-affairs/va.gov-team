@@ -62,8 +62,8 @@ Consider bucketing research questions under research goals. For each question, t
 
 [BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
 
-1) Most participants will want access to more methods of communication on facility health care pages.
-2) Most participants will 
+1) Most participants will want additional methods of communication on facility health care pages.
+2) Most participants will have difficulty locating certain methods of communicating, specifically: secure messaging,
 
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
@@ -74,11 +74,12 @@ What do you intend to learn and measure from this study? Think through these pro
 ## Method	
 
 [POSSIBLE METHODS]
+
+- Usability testing
+	- Task flow from specific starting points
 - Tree test
 	- Health care system level links/headings
 	- Facility level links/headinds
-- Usability testing
-	- Task flow from specific starting points
 - Contexual inquiry
 	- Labels & sub-labels
 	- Expectations per page
