@@ -1,6 +1,6 @@
 [IN PROGRESS]
 
-# VAMC Communications - Research Plan
+# VAMC Communication Methods - Research Plan
 
 ## Background
 
@@ -27,13 +27,13 @@ Are there moments that matter?
 
 The main goals of this research are:
 - To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
-- To identify where Veterans expect to find methods of contacting their health team.**
-- To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.**
+- To identify where Veterans expect to find methods of contacting their health team.
+- To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.
 - General stuff:
 	- What is confusing?
 	- What would they expect?
 	- What works well?
-	- What do they suggest?
+	- What changes or additional things do they suggest?
 
 ### Outcome
 
@@ -41,7 +41,17 @@ Currently, not all communication methods available to Veterans are present on ea
 
 ### Research questions
 
-1) 
+[BUCKET UNDER GOALS, REORGANIZE]
+
+1) Where do Veterans expect to find each of the different methods of communication?
+	- VA Health Chat
+	- Secure messaging
+	- VA health connect phone number
+	- VA telehealth
+	- General phone numbers
+2) How do Veterans expect communications methods to labeled/described? 
+3) Under what circumstances do Veterans choose a particular communications method?
+4) Which communication methods do Veterans prefer, and how does this impact their elevation/placement on VAMC pages?
 
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
@@ -49,6 +59,12 @@ Consider bucketing research questions under research goals. For each question, t
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
+
+[BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
+
+1) Most participants will want access to more methods of communication on facility health care pages.
+2) Most participants will 
+
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
@@ -111,12 +127,8 @@ Before writing your recruitment criteria, be sure to review the following resour
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
+- Perigean will handle recruitment for this research study, as well as note-taking.
+- Participants can be a mix of Veterans and caregivers.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
