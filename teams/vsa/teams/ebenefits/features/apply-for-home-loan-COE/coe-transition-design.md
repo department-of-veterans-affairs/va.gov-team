@@ -70,8 +70,10 @@ This table includes links to the individual design work products.
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
 | Feature Flow Diagrams | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/) | No text | SEP 2021 | WIP |
+| Amended user flows | [Adobe XD](https://xd.adobe.com/view/03f5874d-242c-4e74-9616-641276b2b238-56a6/) | No text | SEP 2021 | WIP |
+| Status use case diagram | [Adobe XD](https://xd.adobe.com/view/03f5874d-242c-4e74-9616-641276b2b238-56a6/screen/c9892aa5-4d9a-40d2-bcbf-50be913235b6) | No text | SEP 2021 | WIP |
 | Information architecture flow | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/screen/a940748b-b2c7-41f1-9285-2eaee18313cd) | No text | SEP 2021 | IA review |
-| Lo-fi wireframes | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/screen/2f9be945-31f1-44fd-8f66-72dc349b46c2) | No text | date | Design intent |
+| Lo-fi wireframes | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/screen/2f9be945-31f1-44fd-8f66-72dc349b46c2) | No text | SEP 2021 | Design intent |
 | Initial mockups | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312) | Final text | MAR 2022 | Midpoint |
 | Prototype | [UXPin]() | Final text | TBD | Staging |
 
@@ -112,10 +114,14 @@ Include notes about which Platform process was in use when this feature was in d
 <br>
 
 ## Other feature documentation
-- [Engineering notes]()
-- [Call center guide]()
-- [Metting notes]()
-- [Others]()
+- [COE UX/UI/frontend punchlist MAR 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-punchlist.md)
+- [COE changelog JUL 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
+- [eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
+
+### Existing web pages
+- [How to apply for a VA home loan Certificate of Eligibility (VA.gov)](https://www.va.gov/housing-assistance/home-loans/how-to-apply/)
+- [Certificate of Eligibility for Home Loan (eBenefits)](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
+
 
 <br>
 
