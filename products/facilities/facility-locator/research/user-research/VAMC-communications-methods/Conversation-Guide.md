@@ -7,12 +7,10 @@
 Thank you note takers! Here's a breakdown of what we're hoping to highlight in this study, in terms of Veteran feedback:
 
 - **Which** communication methods have Veterans used?
-- **What** communications methods to Veterans prefer to use?
+- **What** communications methods do Veterans prefer to use?
 - **How** do Veterans locate these communication methods? (This involves the usability tasks outlined below)
 - **When** do Veterans consider using particular communications methods - under what circumstances?
-- **What** do Veterans expect their experience to be like?
-
-Generally, we don't need ver-batim notes, so try to focus on things that relate to the main goals of the study. Thank you!
+- **What** labels or descriptions to Veterans associate with these communications methods?
 
 ## Moderator logistics
 
