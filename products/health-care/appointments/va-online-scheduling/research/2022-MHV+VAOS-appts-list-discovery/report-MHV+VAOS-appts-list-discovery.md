@@ -318,7 +318,7 @@ We do not recommend adding the current code-like clinic names to the appointment
 
 We do recommend technical discovery to surface clearer clinic name data. 
 
-We also recommend running discovery with facilities about clinic names to better understand the value of using codes over the name of the clinic, and discover if sources of better information exist.
+We also recommend running discovery with facilities to better understand what value the codes provide schedulers, and discover if sources of clearer clinic information exist.
 
 ### Consider providing a path to Secure Messenger from the appointment list.
 
