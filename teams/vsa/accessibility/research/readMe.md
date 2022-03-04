@@ -2,7 +2,7 @@
 ! Items noted with WIP have yet to be published
 ```
 
-# Inclusive Research Guidelines
+# Inclusive Research Guidelines v2.0
 
 Inclusive research, in simple terms, is research that aims to include underserved communities (minorities, people with disabilities, etc) through methods that allow them to play an active and influential role in decisions which affect their own lives.
 
