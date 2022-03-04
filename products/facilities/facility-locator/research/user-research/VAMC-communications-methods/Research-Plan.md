@@ -25,15 +25,15 @@ Are there moments that matter?
 
 [3 MAIN GOALS IS IDEAL, THINK ABOUT FUTURE RESEARCH FOR MORE THAN 3]
 
-The main goals of this research are:
-- To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
-- To identify where Veterans expect to find methods of contacting their health team.
-- To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.
-- General stuff:
-	- What is confusing?
-	- What would they expect?
-	- What works well?
-	- What changes or additional things do they suggest?
+**The main goals of this study are:**
+1) To identify where Veterans expect to find methods of contacting their health team.
+2) To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.
+3) To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
+
+**Secondary goals include collecting supplemental feedback:**
+- What is confusing?
+- What do they expect?
+- What changes or additional things do they suggest?
 
 ### Outcome
 
@@ -53,17 +53,13 @@ Currently, not all communication methods available to Veterans are present on ea
 3) Under what circumstances do Veterans choose a particular communications method?
 4) Which communication methods do Veterans prefer, and how does this impact their elevation/placement on VAMC pages?
 
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
 ### Hypothesis
 
 [BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
 
 1) Most participants will want additional methods of communication on facility health care pages.
-2) Most participants will have difficulty locating certain methods of communicating, specifically: secure messaging,
+2) Most participants will find it confusing/unintuitive to locate certain existing methods of communication.
+3) 
 
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
