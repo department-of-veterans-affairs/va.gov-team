@@ -32,7 +32,7 @@ Six Veterans
 
 -   Four CGM users (Dexcom and Abbott)
 
--   Two finger stick glucose meters
+-   Two finger stick glucose meter users
 
 Hypotheses and Conclusions
 --------------------------
