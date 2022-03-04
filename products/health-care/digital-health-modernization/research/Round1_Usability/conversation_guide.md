@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5-10 minutes
 - Do you have healthcare through the VA? How do you manage your healthcare benefits? How would you like to manage your benefits?
-- Do you have other benefits through the VA? How do you manage your healthcare benefits? How would you like to manage your benefits?
+- Do you have other benefits through the VA? How do you manage your benefits? How would you like to manage your benefits?
 - Have you used MyHealtheVet? If Yes, how often do you use it? What do you use it for? What would you change about MHV?
 - Do you use secure messaging now? What for? How often? What would you change about it?
 - [have participant open up a browser] You got an email from the VA that there's a new way to look at all your healthcare needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
