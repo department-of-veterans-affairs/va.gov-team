@@ -55,13 +55,13 @@ Before we start, a few things I want to mention:
 [WARM UP Qs RELATED TO EXPERIENCE WITH COMMUNICATION]
 
 1) Can you tell me a little bit about how you communicate with your health care team: what has your experience been like?
-2) Do you have a preferred method of communication?
+2) Do you have a preferred method of contacting VA facilities or health care personell?
     - **If yes:**
         - Why do you prefer that one?
         - How did you learn about, or find it?
     - **If no:**
         - Is there a method that you would prefer, that we don't have?
-3) Have you used the VA.gov site to find new phone numbers, or any other means of communicating?
+3) To you, what makes for a good experience when contacting VA facilities or personell?
 
 ## First Task: [TASK NAME] - X minutes
 
@@ -99,8 +99,10 @@ Before we start, a few things I want to mention:
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+[FOLLOW UPS AND OTHER SUGGESTIONS]
+
+- Based on your experience with the VA.gov pages, is there anything you would like to comment on that we haven't discussed?
+- Is there anything about the communication methods that already exist, that you would change or add to?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
