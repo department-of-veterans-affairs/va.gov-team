@@ -58,9 +58,8 @@ This table includes links to the individual research studies.
 ### Tools used
 List your tools; add notes.
   
-- InVision
-- Mural
-- Optimal workshop
+- Github MD
+- Adobe XD (for diagramming)
 
 <br>
 
@@ -102,14 +101,11 @@ List your tools; add notes.
 <br>
 
 ## Process milestones
-Include notes about which Platform process was in use when this feature was in design and development.
+As of March 2022, this feature bypassed midpoint review and was moving toward staging review an UAT.
 
-- [Design intent]()
-- [IA review]()
-- [Content review]()
-- [Midpoint review]()
-- [Staging review]()
-- [UAT]()
+- [Design intent APR 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23484)
+- [IA review NOV 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-home-loan-coe.md)
+- [Content review AUG 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/29435)
 
 <br>
 
