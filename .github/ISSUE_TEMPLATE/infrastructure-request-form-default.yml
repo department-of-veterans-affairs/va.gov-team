@@ -1,0 +1,81 @@
+name: Infrastructure Request Form WIP
+description: Request new infrastructure or change an existing configuration.
+title: "[Platform Infrastructure]: Setup and configuration for YOUR TEAM HERE"
+labels: ["infrastructure-request", "operations"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Request new infrastructure or change an existing configuration. _All answers are optional._ The Platform Infrastructure team will work with you to gather all necessary requirements before processing your request. Providing information upfront can help to expedite your request. 
+  - type: input
+    id: team-name
+    attributes:
+      label: Team name
+      description: What is your team's name?
+      placeholder: e.g. Infrastructure Team
+    validations:
+      required: false
+  - type: input
+    id: application-name
+    attributes:
+      label: Application name
+      description: What is the name of your applicaiton or service?  
+      placeholder: e.g. Vets-API
+    validations:
+      required: false
+  - type: input
+    id: github-repository
+    attributes:
+      label: GitHub repository
+      description: Please provide a link to your application's GitHub repository  
+      placeholder: e.g. https://link-to-repo
+    validations:
+      required: false
+  - type: input
+    id: product-owner
+    attributes:
+      label: Product owner
+      description: Who is your team's product owner?
+      placeholder: e.g. Saima Simran
+    validations:
+      required: false
+  - type: input
+    id: product-manager
+    attributes:
+      label: Product manager
+      description: Who is your team's product manager?
+      placeholder: e.g. Hannah Ilja
+    validations:
+      required: false
+  - type: input
+    id: related-issue
+    attributes:
+      label: Related issue 
+      description: Please share related GitHub issue  
+      placeholder: e.g. https://link-to-issue
+    validations:
+      required: false
+  - type: textarea
+    id: infrastructure-needed
+    attributes:
+      label: Infrastructure needed 
+      description: Please describe your infrastructure needs.  
+      placeholder: e.g. Need access to an AWS S3 bucket to store files... 
+    validations:
+      required: false
+  - type: textarea
+    id: service-accounts
+    attributes:
+      label: Users and service accounts 
+      description: List users and/or service accounts that need access to this infrastructure. 
+      placeholder: e.g. FirstName.LastName or GitHub service account(s)
+    validations:
+      required: false
+  - type: checkboxes
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria 
+      description: _To be completed by the Platform Infrastructure Team._
+      options:
+        - label: _TBD_
+  
