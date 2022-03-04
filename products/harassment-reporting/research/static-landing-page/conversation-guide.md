@@ -16,7 +16,8 @@ Public Websites team, Feb 25, 2022
 - *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open standalone browser tab to prototype (URL TBD) and save link in slack so ready to paste*
+- *Open standalone browser tab to prototype (https://staging.va.gov/hrt) and save link in slack so ready to paste*
+- *Open poster in Acrobat Reader
 - *Do Not Disturb ON so no notifications*
 - *Close apps I'm not using so can give mouse control to participant*
 
@@ -57,8 +58,8 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
 - **In this session, we want to get your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing these resources to learn how we can make them better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
 - **If for any reason and at any time you want to take a break or stop the session, please let me know.** You can take a break from the session or end it altogether.
 - I will be sharing a web page URL with you during the session. **How would you prefer to receive the URL?** 
-  - I could read it to you, put it in the Zoom chat, email it to you, or text it to you.
-    - *(if email)* Is your current email XYX *(get from participant roster)* ?
+  - I could read it to you or put it in the Zoom chat *(or email it to you, or text it to you).*
+    - *(if email)* What is your email address?
     - *(if text)* What is your mobile phone number?
     
 - **Are you comfortable if I record my screen and audio as we talk today?** I use the recording to confirm that we have captured your opinions accurately, and I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you.
@@ -158,7 +159,7 @@ I would like you to share your screen with me so I can watch you use the web pag
 
 What kind of device are you using today? *(Phone / Computer)*
 
-I'm going to (spell/put into the Zoom chat/email/text) a link for you to open (**URL TBD**). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'm going to (spell/put into the Zoom chat/email/text) a link for you to open (https://staging.va.gov/hrt). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
