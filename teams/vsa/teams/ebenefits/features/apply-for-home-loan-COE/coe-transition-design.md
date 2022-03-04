@@ -1,0 +1,129 @@
+# VA home loan Certificate of Eligibility (COE) UX research and design hub
+**VSA eBenefits Migration**
+
+<br>
+
+>**Feature transition document | March 2022**
+>
+> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **this particular feature.** Also included are links to other resources and references used.
+
+<br>
+
+## Table of Contents
+[UX research studies](#ux-research-studies)
+
+[UX design work products](#ux-design-work-products)
+
+[Process milestones](#process-milestones)
+
+[Other feature documentation](#other-feature-documentation)
+
+[UX researchers and designers](#ux-researchers-and-designers)
+
+<br>
+
+## Feature background
+A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses looking to get a VA-backed home loan or Native American Direct Loan (NADL). There are service-based requirements for obtaining VA loans, and a COE confirms for lenders that an applicant qualifies for this benefit. Specific requirements depend on service dates and details.
+
+Home loan applicants must apply for a COE to ensure they meet eligibility requirements.
+
+- [Current landing page on VA.gov](https://www.va.gov/housing-assistance/home-loans/how-to-apply/)
+- [Existing feature on eBenefits site](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
+- [VA Form 26-1880](https://www.va.gov/find-forms/about-form-26-1880/)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE)
+
+<br>
+
+## UX research studies
+This table includes links to the individual research studies.
+
+| Study | Research plan | Convo guide | Findings | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| Discovery interviews | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-topline-summary.md) | --- |
+| Baseline discovery doc | NA | NA | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-discovery.md) | --- |
+| Usability testing 1 | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-readout.md) | --- |
+| Usability testing 2 | [Link]() | [Link]() | [Link]() | --- |
+| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-researchplan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-conversationguide.md) | TBD | --- |
+| Benefits letters discovery | NA | NA | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/download-benefit-letters-discovery.md) | --- |
+
+
+### References used
+- [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
+
+### Templates used
+- [Research plan template]()
+- [Conversation guide template]()
+- [Findings template]()
+
+### Tools used
+List your tools; add notes.
+  
+- InVision
+- Mural
+- Optimal workshop
+
+<br>
+
+## UX design work products
+This table includes links to the individual design work products.
+
+| Screens | Links | Text Sources | Last Rev | Last status |
+| :--- | :--- | :--- | :--- | :--- |
+| Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
+| Information architecture flow | [Tool]() | No text | date | IA review |
+| Wireframes | [Tool]() | No text | date | Design intent |
+| Mockups | [Tool]() | Preliminary text | date | Midpoint |
+| Prototype | [Tool]() | Final text | date | Staging |
+
+### Design system resources used
+- [VA.gov Design System](https://design.va.gov/)
+- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
+- [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
+
+### Content resources used
+- [Content writing](https://design.va.gov/content-style-guide/)
+- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
+
+### Accessibility (Section 508) resources used
+- [Internal 508 checklist]()
+- [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
+
+### Tools used
+List your tools; add notes.
+  
+- Sketch for Teams
+- UXPin
+- Mural
+- Github markdown
+- VSCode
+
+<br>
+
+## Process milestones
+Include notes about which Platform process was in use when this feature was in design and development.
+
+- [Design intent]()
+- [IA review]()
+- [Content review]()
+- [Midpoint review]()
+- [Staging review]()
+- [UAT]()
+
+<br>
+
+## Other feature documentation
+- [Engineering notes]()
+- [Call center guide]()
+- [Metting notes]()
+- [Others]()
+
+<br>
+
+## UX researchers and designers
+- Person Name | email.address@va.gov -- UX researcher
+- Person Name | email.address@va.gov -- UX designer
+- Person Name | email.address@va.gov -- UX designer
+
+<br>
+
+---
