@@ -52,9 +52,16 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+[WARM UP Qs RELATED TO EXPERIENCE WITH COMMUNICATION]
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+1) Can you tell me a little bit about how you communicate with your health care team: what has your experience been like?
+2) Do you have a preferred method of communication?
+    - **If yes:**
+        - Why do you prefer that one?
+        - How did you learn about, or find it?
+    - **If no:**
+        - Is there a method that you would prefer, that we don't have?
+3) Have you used the VA.gov site to find new phone numbers, or any other means of communicating?
 
 ## First Task: [TASK NAME] - X minutes
 
