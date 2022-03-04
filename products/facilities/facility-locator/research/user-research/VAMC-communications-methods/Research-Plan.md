@@ -48,7 +48,17 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+
+[POSSIBLE METHODS]
+- Tree test
+	- Health care system level links/headings
+	- Facility level links/headinds
+- Usability testing
+	- Task flow from specific starting points
+- Contexual inquiry
+	- Labels & sub-labels
+	- Expectations per page
+	- General experience and preferences
 
 Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
