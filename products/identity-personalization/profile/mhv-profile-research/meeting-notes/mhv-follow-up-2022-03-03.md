@@ -29,7 +29,7 @@
 - Any other plans about sunsetting the personal info on MHV?
 	- Nothing we haven't already talked about
 - Any research that we can look at? 
-	- Lexi has some
+	- Lexi has some -- posted [link](https://xd.adobe.com/view/c27259c3-4f5f-429c-9107-b5461bb9647e-9721/screen/6176d1f9-fea3-4362-bb48-828515a002b4) in Slack
 	- Auth team did research on Preferred Facility
 	- They want to do more research to see if there's a possibility to remove or structure it a little better so Veterans understand it
 	- They are reorganizing their research info into SharePoint from Confluence, but can give us what they have, but we may not have access to all.  
@@ -59,4 +59,4 @@
 		- Coordinators would only deal directly with Veterans in person or on a video call
 		- Sylvia was the contact for that, but she has changed positions.  She was their contact for the Help Desk
 		- HRC is the contact center.  We probably should interview two different levels because they have access to two different things
-- Arienne has a list of roles and what they have access to
+- Arienne has a list of roles and what they have access to - posted [link](https://dsva.slack.com/files/UP23SB8BX/F0355CRALMD/admin-portal-jobs-and-roles.pdf) in Slack
