@@ -35,11 +35,11 @@ Thank you note takers! Here's a breakdown of what we're hoping to highlight in t
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Nick, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the different ways of communicating with VA facilities and health care personell, that are available on site pages. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -50,7 +50,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
 
 [WARM UP Qs RELATED TO EXPERIENCE WITH COMMUNICATION]
 
@@ -63,7 +63,7 @@ Before we start, a few things I want to mention:
         - Is there a method that you would prefer, that we don't have?
 3) To you, what makes for a good experience when contacting VA facilities or personell?
 
-## Task 1: Usability testing [X minutes]
+## Task 1: Usability testing - 20 minutes
 
 - Step 1
 - Step 2
@@ -75,7 +75,7 @@ Before we start, a few things I want to mention:
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Task 2: Tree test [X minutes]
+## Task 2: Tree test - 15 minutes
 
 - Step 1
 - Step 2
@@ -86,7 +86,7 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Task 3: Contextual inquiry [X minutes]
+## Task 3: Contextual inquiry - 10 minutes
 
 - Step 1
 - Step 2
@@ -97,13 +97,13 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 3 minutes
 
 - Based on your experience with the VA.gov pages, is there anything you would like to comment on that we haven't discussed?
 - Is there anything about the communication methods that already exist, that you would change or add to?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
