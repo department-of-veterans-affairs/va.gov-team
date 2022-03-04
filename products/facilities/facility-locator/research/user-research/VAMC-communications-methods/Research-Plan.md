@@ -31,8 +31,6 @@ The main goals of this research are:
 	- What works well?
 	- What do they suggest?
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
