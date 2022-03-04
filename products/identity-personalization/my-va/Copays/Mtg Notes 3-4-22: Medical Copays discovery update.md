@@ -12,3 +12,7 @@
           - We will omit any copays questions from our own UAT questions on the payment info section
           - We will need to consider potential copy changes to ensure the user knows what kind of information they can access
           - We will need to consider making these changes to delivere along with the Payment Info MVP - Depending on when the Debt team launches their combined portal effort.
+
+#### Next Steps
+- [ ] Angela will reach out to Debt team to set up a weekly touchpoint meeting
+- [ ] Angela can begin on mock-ups of the Payment info section with suggested copy changes and layout
