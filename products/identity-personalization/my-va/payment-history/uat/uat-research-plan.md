@@ -22,7 +22,6 @@ As secondary goals, we’ll follow up on [our last usability study](https://gith
 - We would like to validate that no major usability hurdles have been introduced during the iterations that have occurred, especially with the changes we made to the alert design.
 - We would like to learn more about challenges experienced by people who use magnification, and have cognitive considerations.
 - We would like to better understand whether or not it’s important to people see the number of outstanding debts they have.
-- We would like to better understand Veteran expectations around co-pay information on My VA.
 
 ### Outcome
 Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
@@ -31,12 +30,10 @@ Based on the outcome of this research study, we will either release our MVP to p
 - Does the functionality work as expected?
 - Are Veterans able to take action on their payment or debt information without any usability hurdles?
 - Is it important to Veterans with debt to see the number of outstanding debts they have, or just that they have debt?
-- Do Veterans look for co-pay information on My VA under the health care section, or the benefit payments and debts section?
 
 ### Hypothesis
 - Veterans will be able to easily take action on their payment and debt information from My VA.
 - Veterans will not encounter any bugs in the Benefit payment and debt section.
-- Veterans will expect to access co-pay information through the health section of My VA.
 
 
 ## Method	
