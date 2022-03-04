@@ -22,22 +22,22 @@
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
-| :--- | :--- | :--- |
-| [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | [In production](https://www.va.gov/disability/view-disability-rating/) |
-| View Dependents | --- | [In production](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) |
-| [View Payments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history) | Payment History | [In production](https://www.va.gov/va-payment-history/) |
-| [VA Form 21-686c/674](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | Add/remove dependents | [In production](https://www.va.gov/view-change-dependents/) |
-| [VA Form 28-8832](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling) | Chapter 36/PCPG | [In production]() |
-| [VA Form 28-1900](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31) | Chapter 31, CH31, VR&E | In production |
-| [Change Direct Deposit (Education)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit) | DD-EDU | In production |
-| [VA form 21-0538](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification) | Dependency Verification | In development |
-| [VA Form 26-1880](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE) | Certificate of Eligibility, COE, LGY | In development |
-| [View Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA) | View Rep, POA | In design/development |
-| [VA Form 21-22/a](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA) | Find/Appoint Representative, POA | In design/development |
-| [A Form 26-4555](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG) | Special Adaptive Housing Grant, SAHG | In design |
-| [My Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-my-documents) | Document hub concept | In discovery |
-| Stakeholder Enterprise Portal | SEP | In discovery |
+| Feature (Github link) | AKA | Status (Latest feature link) | |
+| :--- | :--- | :--- | :---: |
+| [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | [In production](https://www.va.gov/disability/view-disability-rating/) | <ul><li> - [ ] </li></ul> |
+| View Dependents | --- | [In production](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | <ul><li> - [ ] </li></ul> |
+| [View Payments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history) | Payment History | [In production](https://www.va.gov/va-payment-history/) | <ul><li> - [ ] </li></ul> |
+| [VA Form 21-686c/674](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | Add/remove dependents | [In production](https://www.va.gov/view-change-dependents/) | <ul><li> - [ ] </li></ul> |
+| [VA Form 28-8832](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling) | Chapter 36/PCPG | [In production]() | <ul><li> - [ ] </li></ul> |
+| [VA Form 28-1900](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31) | Chapter 31, CH31, VR&E | In production | <ul><li> - [ ] </li></ul> |
+| [Change Direct Deposit (Education)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit) | DD-EDU | In production | <ul><li> - [ ] </li></ul> |
+| [VA form 21-0538](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification) | Dependency Verification | In development | <ul><li> - [ ] </li></ul> |
+| [VA Form 26-1880](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE) | Certificate of Eligibility, COE, LGY | In development | <ul><li> - [ ] </li></ul> |
+| [View Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA) | View Rep, POA | In design/development | <ul><li> - [ ] </li></ul> |
+| [VA Form 21-22/a](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA) | Find/Appoint Representative, POA | In design/development | <ul><li> - [ ] </li></ul> |
+| [A Form 26-4555](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG) | Special Adaptive Housing Grant, SAHG | In design | <ul><li> - [ ] </li></ul> |
+| [My Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-my-documents) | Document hub concept | In discovery | <ul><li> - [ ] </li></ul> |
+| Stakeholder Enterprise Portal | SEP | In discovery | <ul><li> - [ ] </li></ul> |
 
 <br>
 
