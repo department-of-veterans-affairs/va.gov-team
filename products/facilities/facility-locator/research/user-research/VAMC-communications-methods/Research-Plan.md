@@ -10,9 +10,14 @@ Unauthenticated VAMC site pages give Veterans multiple methods for contacting th
 
 ### OCTO Objectives 
 
+[TBD]
+
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
 
 ### Veteran Journey
+
+[TBD]
+
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
@@ -21,10 +26,9 @@ Are there moments that matter?
 [3 MAIN GOALS IS IDEAL, THINK ABOUT FUTURE RESEARCH FOR MORE THAN 3]
 
 The main goals of this research are:
-- To identify Veteran's preferred method of contacting their health care team.
 - To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
-- **To identify where Veterans expect to find methods of contacting their health team.**
-- **To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.**
+- To identify where Veterans expect to find methods of contacting their health team.**
+- To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.**
 - General stuff:
 	- What is confusing?
 	- What would they expect?
@@ -32,9 +36,13 @@ The main goals of this research are:
 	- What do they suggest?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+Currently, not all communication methods available to Veterans are present on each VAMC page. This study will determine which VAMC pages should have what communication methods, and how those communications methods should be described and labled. This usability study will directly inform upcomign design changes VAMC pages.
 
 ### Research questions
+
+1) 
+
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
