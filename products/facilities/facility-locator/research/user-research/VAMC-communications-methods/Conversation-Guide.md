@@ -63,7 +63,7 @@ Before we start, a few things I want to mention:
         - Is there a method that you would prefer, that we don't have?
 3) To you, what makes for a good experience when contacting VA facilities or personell?
 
-## First Task: [TASK NAME] - X minutes
+## Task 1: Usability testing [X minutes]
 
 - Step 1
 - Step 2
@@ -75,7 +75,7 @@ Before we start, a few things I want to mention:
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Task 2: Tree test [X minutes]
 
 - Step 1
 - Step 2
@@ -86,7 +86,7 @@ Before we start, a few things I want to mention:
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Task 3: Contextual inquiry [X minutes]
 
 - Step 1
 - Step 2
@@ -98,8 +98,6 @@ Before we start, a few things I want to mention:
 - [Etc]
 
 ## Post-Task Interview - X minutes
-
-[FOLLOW UPS AND OTHER SUGGESTIONS]
 
 - Based on your experience with the VA.gov pages, is there anything you would like to comment on that we haven't discussed?
 - Is there anything about the communication methods that already exist, that you would change or add to?
@@ -113,9 +111,4 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
