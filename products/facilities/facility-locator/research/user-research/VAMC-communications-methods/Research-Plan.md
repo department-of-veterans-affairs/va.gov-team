@@ -23,8 +23,8 @@ Are there moments that matter?
 The main goals of this research are:
 - To identify Veteran's preferred method of contacting their health care team.
 - To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
-- To identify where Veterans expect to find methods of contacting their health team.
-- To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.
+- **To identify where Veterans expect to find methods of contacting their health team.**
+- **To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.**
 - General stuff:
 	- What is confusing?
 	- What would they expect?
