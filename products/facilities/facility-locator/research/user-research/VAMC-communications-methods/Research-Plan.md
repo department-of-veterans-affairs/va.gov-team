@@ -81,14 +81,6 @@ What do you intend to learn and measure from this study? Think through these pro
 	- Expectations per page
 	- General experience and preferences
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
 ### Location
 
 Remote usability testing will be conducting via Zoom.
