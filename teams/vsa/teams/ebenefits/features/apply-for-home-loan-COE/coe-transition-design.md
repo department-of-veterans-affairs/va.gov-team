@@ -69,11 +69,11 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
-| Information architecture flow | [Tool]() | No text | date | IA review |
-| Wireframes | [Tool]() | No text | date | Design intent |
-| Mockups | [Tool]() | Preliminary text | date | Midpoint |
-| Prototype | [Tool]() | Final text | date | Staging |
+| Feature Flow Diagrams | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/) | No text | SEP 2021 | WIP |
+| Information architecture flow | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/screen/a940748b-b2c7-41f1-9285-2eaee18313cd) | No text | SEP 2021 | IA review |
+| Lo-fi wireframes | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/screen/2f9be945-31f1-44fd-8f66-72dc349b46c2) | No text | date | Design intent |
+| Initial mockups | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312) | Final text | MAR 2022 | Midpoint |
+| Prototype | [UXPin]() | Final text | TBD | Staging |
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
