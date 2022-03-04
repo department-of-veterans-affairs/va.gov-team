@@ -117,9 +117,8 @@ When will the thing you are testing be finalized?
 TBD
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: tbd
+* Pilot participant email: TBD - Since we have very specific crtieria and were unale to find someone who meets it ourselves, we will use the first session as the test pilot. Please schedule only one person on the first day so we can make any necessary adjustments.
 * Date and time of pilot session: 
-  * Please schedule 45 minutes to allow for extra time
   * TBD
 
 ### Research sessions
