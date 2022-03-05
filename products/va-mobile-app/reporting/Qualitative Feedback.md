@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 03/03/22: "After setting this app up and using I have come to realize how useful this app can be. Used to call in and I could never seem to find the time to call in. Finally with this resource calling in is optional and getting my info, letters, claim status and much more is within a simple password exchange of getting into an app that gives me all the information in regards to my benefits!!! Thank you!!!" (Apple store review)
+
+- 03/01/22: "This eliminates the need to use a PC. You can access everything on this app as you could on a PC. I recommend every veteran that is enrolled should use this app." (Apple store review)
+
 - 02/28/22: "This app provides the access to all things ME. This is what I need. The multiple user names and passwords have diminished slightly thanks to this app. Keep evolving it." (Apple store review)
 
 - 02/26/22: "Although this is my first using this App, so far I find it very easy to navigate, it a lot easier than using web browser. It's like having my info at my fingertips at all times. I can check my appointments on the fly. I'm loving it this far. The Bestman" (Apple store review)
