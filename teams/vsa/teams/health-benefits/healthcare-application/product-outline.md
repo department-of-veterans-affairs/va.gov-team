@@ -22,7 +22,7 @@
 - Fewer opt to apply in person
 
 ## Undesired Business Outcomes
-- False/incorrect applciations
+- False/incorrect applications
 
 ---
 ## Measuring Success
@@ -78,8 +78,11 @@
    - Gain insight on offline workarounds used by VA staff who process applications
    - Updating any content around the health care application pages that may be a source of confusion
    - Understanding what methods can be used to prompt authenticated users to return to the application after save/exit
-- As of 05/2020, we're going to focus on:
+- As of 05/2021, we're going to focus on:
    - Testing design and content iterations based on research discovery to improve user experience
+- As of 01/2022, we're going to focus on:
+   - Creating dashbaords in Datadog
+   - Implementing Short-form Ph 1
 
 --- 
 
@@ -160,9 +163,9 @@
 
 <details>
  
- - DEPO Lead: George Chewning, Danielle Thierry
- - PM: Chris Dyer
- - Engineering: Patrick Ryll, James Childers
+ - DEPO Lead: Lauren Alexanderson
+ - PM: Sharon Kasimow
+ - Engineering: Lisa Zapon, Kevin Musiorski
  - Research/Design: Dené Gabaldón
  
 </details>
