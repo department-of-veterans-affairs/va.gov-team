@@ -36,7 +36,7 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions - 5-10 minutes
-- Do you have healthcare through the VA? How do you manage your healthcare benefits? How would you like to manage your benefits?
+- Do you have healthcare through the VA? How do you interact with your healthcare? How would you like to?
 - Do you have other benefits through the VA? How do you manage your benefits? How would you like to manage your benefits?
 - Have you used MyHealtheVet? If Yes, how often do you use it? What do you use it for? What would you change about MHV?
 - Do you use secure messaging now? What for? How often? What would you change about it?
