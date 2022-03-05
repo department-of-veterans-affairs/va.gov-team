@@ -117,21 +117,21 @@ Participants indicated that these needs could also be met by providing "type of 
 
 ### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
 
-When scheduling online from MHV one screen asks Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
+When Veterans click the option to schedule an appointment in MHV, a screen asks Veterans to choose a facility from all of those where they are registered. This is intended to direct Veterans scheduling at non-VAOS facilities to the appropriate scheduling portal.
 
-<img width="878" alt="Screen Shot 2022-02-22 at 8 43 10 AM" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
+These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. 
+
+<img width="878" border="1" alt="A list of VA facilities with an option to schedule at each one" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
 
 *MHV's list of scheduling options.*
 
-We've heard in previous research<sup>1</sup> that these facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
+VAOS and the Profile team explored this issue in depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
 
-Note: While we didn't see it in the study, VAOS also asks Veterans who are registered at Cerner facilities to choose from all their registered facilities. This repeated question may add another step and potentially more confusion when navigating from MHV to VAOS.
+While we didn't see it in the study, VAOS presents Veterans who are registered at Cerner facilities with a similar list. This repeated question may add another step and potentially more confusion when navigating from MHV to VAOS.
 
 > "I wish they would remove the old clinics that I no longer go to off this list." - P5
 
 > "I am not sure why [Facility name] is on there; that is 4 hours away." - P12
-
-<sup>1</sup>See also: [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
 
 ## What information do Veterans need in an appointments list to make it useful?
 
@@ -156,11 +156,11 @@ See also:
 
 ### Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
 
-Participants first wanted to know *how* they would attend the appointment. Along with the 8 participants who were excited to see clear modality information in the concept, 4/9 asked for clearer information about whether the appointment is in person, over the phone, or over video.
+Information about how they would attend, whether in person or telehealth was the strongest request. 4/9 asked for clearer information about whether the appointment is in person, over the phone, or over video, and 8/9 had a strong positive reaction when they saw this information in the concept.
 
-For in-person clinics, the top requests were:
+Aside from modality, the top requests for in person appointments were:
 * 4/9 Clinic name - as it is called at the VA facility
-* 4/9 Medical center/division name
+* 4/9 Medical center or facility name
 * 3/9 Floor number 
 * 3/9 Room number
 
