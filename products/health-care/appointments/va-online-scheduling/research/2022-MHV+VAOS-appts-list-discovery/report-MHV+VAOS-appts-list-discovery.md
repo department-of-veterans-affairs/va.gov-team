@@ -120,7 +120,8 @@ Participants indicated that these needs could also be met by providing "type of 
 When scheduling online from MHV one screen asks Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
 
 <img width="878" alt="Screen Shot 2022-02-22 at 8 43 10 AM" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
-*MHV's list of sites scheduling options.*
+
+*MHV's list of scheduling options.*
 
 We've heard in previous research<sup>1</sup> that these facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
 
