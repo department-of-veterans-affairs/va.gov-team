@@ -107,7 +107,7 @@ When asked about the most confusing aspect of all appointment lists they saw (MH
 * Differentiate their appointments.
 * Find their way at the facility.
 
-Participants indicated that these needs could also be met by providing "type of care" and better clinic location information. The next two findings address these needs.
+Participants indicated that these needs could also be met by providing "type of care" and better clinic location information.
 
 > "I happen to know where this is, but I don’t know if this clinic name (also called: WPB PACT) would be very helpful. I know it is also called the Red clinic so that name would be more helpful than the name provided." -P7
 
