@@ -93,11 +93,11 @@
 
 ## Launch Dates
 - *Initial Launch Date*
-  - January 2021 for address work
+  - April 2022
 - *Actual Launch Date* 
   - Coming soon
 - *What date will you evaluate impact after launch?*
-  - March 2021
+  - July 2022
 ---
 
 ## Solution Narrative
@@ -110,6 +110,11 @@
    - Adding a question distinguishing between mailing & residential addressses
    - Updating any content around the health care application pages that may be a source of confusion
    - Updating the questions on the online form to align with the new 10-10EZ
+
+- As of 01/2022, we're going to focus on
+   - Updating "sign as legal rep" section
+   - Creating Datadog dashboards
+   - Launching Ph Short-form for Veterans with 50% or higher disability rating (auth and non-auth)
 
 ### Key Decisions
 
