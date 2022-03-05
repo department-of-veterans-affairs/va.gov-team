@@ -14,7 +14,7 @@ The Online Offices Directory will provide a searchable structure on which to bui
 ## Problem Statement
 Main drivers for creating an online Offices Directory:
 1) The bulk of content sought by non-Veteran visitors from other government bodies (i.e., Tier 3 content) needs to be modernized in order to make it more useful and findable, thus indirectly serving Veterans.
-2) Some content that was known to most directly affect Veterans (i.e., Tiers 1 & 2) remains on the less-accessible legacy TeamSite platform due to the modernized CMS's perceived lack of support for some 3 content types.
+2) Some content that was known to most directly affect Veterans (i.e., Tiers 1 & 2) remains on the less-accessible legacy TeamSite platform due to the modernized CMS's perceived lack of support for some Tier 3 content types.
 3) Visitors trying to understand how the VA is structured can only find that information in a PDF called the Functional Organizational Manual (FOM) – see bottom of [this page](https://www.va.gov/VA-Functional-Organization-Manual-2020-4.pdf).
 
 How might we create a more usable office-finding experience, and at the same time create a foundation for the migration of important content listed above?
@@ -42,7 +42,7 @@ How might we create a more usable office-finding experience, and at the same tim
 
 - Reduced downloads of FOM PDF (functional org manual)
 - Increase in % of users clicking-through to an Office landing page compared to existing traffic on [About VA > VA Organization page](https://www.va.gov/about_va/organizations.asp)
-- Increased user flow from clicking "About VA" menu option through to an Office detail page (i.e., within our Online Directory; many such detail pages will offer a link out to an Office's existing/legacy landing page if it exists)
+- Increased user flow from clicking "About VA" menu option through to an Office detail page (i.e., a link out to an Office's existing/legacy landing page if it exists)
 
 
 #### Baseline KPI Values
@@ -143,4 +143,13 @@ _Preliminary wireframe_:
 _What offices/departments are critical to make this initiative successful?_
  
 </details>
+
+## Updates to scope 
+
+### March 4, 2022
+
+Due to limitations in the Salesforce (FOM) database providing our data, the decision was made to leave the Office Details page out of our MVP. Our MVP will consist of the Directory page only, and Office Names will be hyperlinked to each office's choice of the external web page.
+Rationale:
+- The FOM database is not expected to have text inputs (mission, activities, overview) consistent with the published FOM; formatting and final edit is done in an application we can't access programmatically.
+- We have learned that Office hierarchy data in that database is expected to be kept up to date by the VIEWS app whenever the hierarchy changes.
 
