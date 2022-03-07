@@ -28,7 +28,8 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 ## Research Goals	
 What are you trying to learn from this research? 
 
-We want to understand if the content placement criteria helps OCTO-DE content authors feel confident in making quicker decisions of where to place content in the modernized VA.gov environment.
+- We want to understand if the content placement criteria helps OCTO-DE content authors feel confident in making quicker decisions of where to place content in the modernized VA.gov environment.
+- We want to find out if content authors' decisions about content placement map to our intentions with the criteria.
 
 
 ### Outcome
