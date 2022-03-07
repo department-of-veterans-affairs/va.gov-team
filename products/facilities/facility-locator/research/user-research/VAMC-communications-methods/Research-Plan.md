@@ -70,6 +70,9 @@ Currently, not all communication methods available to Veterans are present on ea
 This is a list of the research methods this study will utilize, along with a description of how these methods impact the goals of this study.
 
 **1) Usability testing**
+
+[Usability testing will use staging/production sites as appropriate]
+
 - Method
 	- Task flow from specific starting points:
 		- VA.gov
@@ -79,6 +82,9 @@ This is a list of the research methods this study will utilize, along with a des
 	- Gives us data on how Veterans search for communication methods on VA.gov, where Veterans generally expect to find this information, and their overall impressions of this experience.
 
 **3) Tree test**
+
+[Tree testing via Optimal Workshop]
+
 - Method
 	- A tree test using system-level health care links/headings
 	- A tree test using facility-level health care links/headings
@@ -86,6 +92,9 @@ This is a list of the research methods this study will utilize, along with a des
 	- Gives us specific data on where Veterans feel communiction methods should be located on VAMC pages, based on side navigation links, and page headings.
 
 **4) Contexual inquiry**
+
+[Bespoke Mural, prototype, A/B testing, etc. as appropriate]
+
 - Method
 	- Asking questions about specific page elements, including labels, headings, Veterans general expectations per-page, and lesser-known communications methods like VA Health Chat.
 - Goals
