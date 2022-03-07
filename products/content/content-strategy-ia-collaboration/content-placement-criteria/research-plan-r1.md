@@ -22,38 +22,37 @@ Which [OCTO goals](https://github.com/department-of-veterans-affairs/va.gov-team
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 
-- Veterans and their beneficiaries explore and apply for VA benefits from "Getting out" to "Dying"
-- 
+- Veterans and other beneficiaries explore and apply for VA benefits from "Getting out" to "Dying"
+- Veterans and other beneficiaries get quick, targeted answers to questions about their VA benefits and more information to empower them to fully understand and make the most of VA benefits, programs, and services
 
 ## Research Goals	
 What are you trying to learn from this research? 
 
-The focus of this initial round of research will be to evaluate the usefulness of the placement criteria with OCTO-DE content authors.
+We want to understand if the content placement criteria helps OCTO-DE content authors feel confident in making quicker decisions of where to place content in the modernized VA.gov environment.
 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-Feedback from this research effort will determine whether or not the criteria prove helpful in determining the placement of new content on the site.  If the criteria is helpful, feedback gathered will allow us to further refine them (as needed) and move forward with using them during the upcoming Resources and Support pilot. 
+Feedback from this research effort will determine whether or not the criteria prove helpful in determining the placement of new content on the site.  If the criteria is helpful, feedback gathered will allow us to make any needed refinements and move forward with using the criteria during the Resources and Support pilot. We'll further learn from feedback gathered during the pilot. 
 
 ### Research questions
 
 - Is the concept of this criteria a helpful tool in determining where to place content on VA.gov?
 - Are the placement criteria clear and understandable?
 - Are the placement criteria effective in determining placement of content?
-- Were there any gaps in the placement criteria that resulted in the inability to make a decision on placement with VA.gov?
+- Are there any gaps in the placement criteria that result in the inability to make a decision on content placement?
 
 ### Hypothesis
 
-- Content authors will be able to utilize the placement criteria make decisions on placement of content on VA.gov
+- Content authors will use the placement criteria to confidently decide where to place content on VA.gov
 - The tighter criteria will result in reduced content within the benefit hubs, thereby creating a more streamlined content flow to applying for Veterans and beneficiaries
 
 
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Semi-structured group research
-- The research session will be structured as follows:
+We'll conduct an 1.5-hour, semi-structured group research session:
   - 15 min introduction to the research and overview of the criteria
   - 5 min of initial questions
   - 40 min of unmoderated individual working time
@@ -69,18 +68,17 @@ Remote testing via Zoom
 - [Link to conversation guide](url goes here)
 - [Link to word document](url goes here)
 
-
 	
 ## Recruitment	
 
-No recruitment is needed, this research will be done with the Sitewide Content and IA content authors.
+No recruitment needed. This is an internal research session with the Sitewide Content and IA team.
 
 
 ## Timeline
 
 - Research will take place the week of March 6th, 2020
-- A 2 hour time block will be scheduled for the session
-- Results will be reviewed and synthesized immediately following the session to identify any modfiications needed for the Pilot kick-off the following day
+- A 2-hour time block will be scheduled for the session
+- We'll review and synthesize results immediately following the session to identify any modfiications needed for the pilot kick-off the following day
 
 	
 ## Team Roles	
