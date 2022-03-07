@@ -6,19 +6,48 @@
 
 <br>
 
+## Table of Contents
+
+[Product Overview](#VAMC-modernized-pages-product-product-overview)
+
+[History](#history)
+
+[Documentation and analytics](#documentation-and-analytics)
+
+[Product approach](#product-approach)
+
+[Product roadmap](product-roadmap)
+
+[Artifacts](#artifacts)
+
+[Github labels](#github-labels)
+
 ## VAMC modernized pages product overview
 Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families and caregivers. The pages provide the location details needed before visiting and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. During the roll-out, the Facilities team had responsibility for the front-end, from content API to Veteran-facing UI.  
 
-## VAMC modernized pages documentation and analytics
+### History
+
+Research indicated that the old VAMC websites were not meeting the need of users. VHA Digital Media partnered with OIT Digital Experience Product Office to research, design, test, and build the new website design with Veterans, family members, caregivers, and patient advocates (900 participants over 9 months). The new website design is focused on top tasks and content that Veterans, families, and caregivers need most. Of the hundreds of content pages each old VAMC website had, users were only going to about 5-10 pages. Website analytics for the old websites revealed that users are mostly looking for health services, facilitiy services, contact information, and appointments and pharamcy information--all parts of the new website that have been prioritized in the redesign. The release of these pages began with the soft launch of the new Pittsburgh health care in September 2019. Initial veteran feedback and research was conducted on the Pittsburgh health system site in November/December 2019. National roll-out was completed in December 2021, with the exception of Lovell federal health and Manilla Outpatient Clinic. These pages intersect with the Facility Locator by linking to search results and replaced the facility detail pages.
+
+This upgrade project has been the collaboration of multiple product teams within VSA, including
+- CMS Team: Drupal "Core" (stops at content API) and editorial front-end
+- VAMC Upgrade Team: Content creation and mapping
+- Facilities Team: Veteran-facing front end (from content API to Veteran-facing UI) _Ownership of the front end work was transferred from the Public Websites team to the Facilities team following a decision to implement on VAMCs only (rather than globally)._
+
+
+## Documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
 - [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632)
 
-## VAMC modernized pages product approach 
+## Product approach 
 
-##  VAMC modernized pages product roadmap
-Brief plain-language description of this product’s history and next steps
+As the roll-out has been completed, responsibility for content and field staff communication is being transitioned to VHA Digitial Media. Now that we understand the full scope of the pages and how they have been used by editors, we are focused on 
+- opportunities to improve the Veteran experience, such as navigation and deep links for Cerner facilities
+- opportunities to reduce duplicate content and ensure consistency, such as content hardening 
+- opportunities to partner with the CMS team to leverage facility and service data for use across the ecosystem
 
+##  Product roadmap
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
 
@@ -30,7 +59,29 @@ The most critical path iteams are listed below but do not represent the total of
     - Includes **Cerner link** [#35947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35947)
   - **Billing and insurance** - Epic [#37366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37366)
 - **Lovell federal health care**- Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+- **Support for Cerner roll-out** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
 
 ### Next 
+- **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
+- **Re-evaluate Left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
+- Health service modalities (telehealth, virtual, mobile, etc)
 
 ### Later
+
+## Artifacts
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product)
+- [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy)
+- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
+- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/discovery)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
+
+## Github labels
+The following Github labels were used for VAMC front-end issues
+
+#vsa-facilities and
+- #frontend
+- #front-end-vamc
+- #backend
+
