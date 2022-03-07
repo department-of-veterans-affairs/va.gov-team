@@ -53,7 +53,7 @@ Currently, not all communication methods available to Veterans are present on ea
 3) Under what circumstances do Veterans choose a particular communications method?
 4) Which communication methods do Veterans prefer, and how does this impact their elevation/placement on VAMC pages?
 
-### Hypothesis
+### Hypotheses
 
 [FOCUS AND CLEAN UP; BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
 
@@ -63,10 +63,9 @@ Currently, not all communication methods available to Veterans are present on ea
 4) Most participants will prefer at least one page that list all available communication methods (ie. on the Contact Us page, or something)
 5) Most participants will have similar use cases for particular communication methods (ie. secure messaging for appointments)
 6) The more top-level the starting point (facility locator, system level, facility level) the more difficult it will be to find a list of communication methods.
+7) Most participants will not even know about VA Health Chat.
 
 ## Method	
-
-[POSSIBLE METHODS]
 
 - Usability testing
 	- Task flow from specific starting points
