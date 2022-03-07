@@ -24,15 +24,4 @@
 | ~~va_online_scheduling_cc_iterations~~ | Post-MVP iterations to community care provider preferences | [#28527](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/28527) | [#16462](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/16462) | [#32322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32322) | |
 | ~~va_online_scheduling_homepage_refresh~~ | Shows the refreshed appointment list and detail pages | [#17098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17098) | [#15290](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15290) | [#35524](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/35524) |  |
 
-## Removed
 
-<details>
-<summary> Toggles that have been removed </summary>
-  
-| Toggle | Description | Ticket to Add | Related Epic | Ticket to Remove | Comments |
-| ------ | ----------- | ------------- | ------------ | ---------------- | -------- |
-| ____________________________________________________________ | ____________________________________________________________ | _______________ | _______________ | _______________ | _________________________________________________________________ |
-| ~~va_online_scheduling_express_care_new~~ | Enables Express Care request flow in VAOS | [#11066](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/11066) | [#10840](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/10840), [#23842](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23842) | [#27387](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/27387) | Code and toggle removed, feature no longer in the app |
-| ~~va_online_scheduling_provider_selection~~ | Enables the community care provider selection field | [#15869](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/15869) | [#6236](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6236), [#18855](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18855) | [#28572](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/28572) | MVP launched in Production and in sustainment |
-| ~~va_online_scheduling_cc_iterations~~ | Post-MVP iterations to community care provider preferences | [#28527](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/28527) | [#16462](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/16462) | [#32322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32322) | |
-  </details>
