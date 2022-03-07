@@ -69,6 +69,8 @@
 - Multiple applications for various benefits might be in progress for the Veteran.
   - We are focusing on the Healthcare 10-10 EZ at the moment because the need for reminder notifications has been brought up before.
   - The plan at this point is to complete the 10-10 EZ form reminders and then onboard additional forms. Additional forms add complexity around timing the reminders for applications. The potential need to deliver a "digest" of all pending applications. It is something we want to do eventually but will tackle later.
+- Cadence will be every two weeks after a form has been marked as "in progress"
+  - We discussed the previously mentioned cadence of 7, 30, 53, and 59 days but felt the complexities of the rolling expiration date (updating information on any form restarts its expiration date) made specific day reminders overly complex and potentially difficult to manage when additional forms are also "in progress."
 
 ## Additional Points
 -https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/issues/department-of-veterans-affairs/vanotify-team/23
