@@ -1,18 +1,18 @@
-# Product Outline - Health care application in progress reminders
+# Product Outline - In Progress Reminders
 ---
 
 ## Problem Statement
 
-- How can we help remind Veterans of their incomplete applications?
+- How can we help remind Veterans of their incomplete applications so that they can complete the process and gain access to benefits sooner?
 
 ## Who, What, When, Where, Why
 *What:* Send email reminders to Veterans when an application has been started but not completed.
 
-*Who:* Veterans who have begun to fill out the 10-10 EZ (while authenticated) but haven’t submitted.
+*Who:* Veterans who have begun to fill out an application (while authenticated) but haven’t submitted.
 
-*When:* Reminders will be sent 7 days after they began the application, then 30 days, 53 days, and finally 59 days. When the application is submitted the further reminders end.
+*When:* Reminders will be sent out every two weeks from the time they began the application.
 
-*Why:* The reminders will encourage the Veteran to submit the application in order to receive benefits sooner. By following the link in the reminder it will streamline quickly take them back to the in progress application.
+*Why:* The reminders will encourage the Veteran to submit the application in order to receive benefits sooner. The link in the reminder email will take them back to the in progress application.
 
  
 ## Desired User Outcomes
@@ -36,13 +36,11 @@
 
 ### Key Performance Indicators (KPIs)
 
-
-
-* How many Veterans are completing and submitting the form online? 
-* How many Veterans start the form but don’t complete it?
-* How long does it take Veterans to submit the completed form?
+* How many Veterans start the form but never complete it?
 * How many Veterans start filling out the form, save their progress, and then come back to it?
-* How many Veterans don't complete the form after saving one in progress?
+* How many Veterans are following the link in the reminder email? 
+* How long does it take Veterans to submit the completed form?
+
 
 #### Baseline KPI Values
 * Current amount of applications that expire before they are completed?
@@ -62,15 +60,20 @@
   - Give regular reminders
  -  then more Veterans will complete the health care application online.
 
-## Key Decisions
+## Decisions
 - We understand that applications might have accidentally been started. 
   - Currently there is not a way to close out these applications. 
-  - We are tabling this for now as it would lengthen our go to market and add complexity.
+  - We are unsure if the ability to remove the application may be the responsibility of a different team.
 - Multiple applications for various benefits might be in progress for the Veteran.
-  - We are focusing on the Healthcare 10-10 EZ at the moment because the need for reminder notifications has been brought up before.
-  - The plan at this point is to complete the 10-10 EZ form reminders and then onboard additional forms. Additional forms add complexity around timing the reminders for applications. The potential need to deliver a "digest" of all pending applications. It is something we want to do eventually but will tackle later.
+  - We are focusing on one form to start with as MVP
+  - The 686-c form reminders will be the first form.
+  - When we tackle multiple forms we will need to deliver a "summary" of all pending applications. It is something we want to do eventually but will tackle later.
+           - Authenticate Experience team is also looking to re-design the "My VA" page that includes the location for the "Applications in Progress" which is where we would like to send a user who has multiple forms in progress. 
+           - We would like to have an anchor link to the "Application in Progress" title to allow for auto scrolling. Since the page is up for design work we will hold off on linking to it until that work is completed. 
 - Cadence will be every two weeks after a form has been marked as "in progress"
   - We discussed the previously mentioned cadence of 7, 30, 53, and 59 days but felt the complexities of the rolling expiration date (updating information on any form restarts its expiration date) made specific day reminders overly complex and potentially difficult to manage when additional forms are also "in progress."
+  - The cadence of every two weeks and again at day 59 (right before expiration date) was also discussed. Since the expiration date is rolling, based on the user updating the application, we have opted to move forward without the day 59 reminder.
+
 
 ## Additional Points
 -https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/issues/department-of-veterans-affairs/vanotify-team/23
@@ -85,7 +88,10 @@
   - Creating a reminder system that sends at specific intervals
   - Reminders will be delivered via email
   - Providing content for the email reminders
-
+-As of 3/2022, we're going to focus on:
+  -Getting Privacy Officer sign off on email content
+  -Handling the 686-c form as the first use case
+  -Sending reminders on a 2 week cadence
 
 --- 
 
@@ -116,11 +122,11 @@
 - The “in progress” application expires after 60 days
 
 ## Questions
-- What happens if they try to start the same application again?
+- What happens if they try to start the same application again? This re-starts the clock and pushes out the expiration date.
 - What link should be included in the reminder?
-    - Direct to the application that is “in progress”
+    - Direct to the application that is “in progress” (This is ideal if only 1 application)
     - Send them to their “My VA” page and have them scroll down to find the applications they began
-    - Send them to their “My VA” page and automatically scroll them to the application section
+    - Send them to their “My VA” page and automatically scroll them to the application section (This is ideal if more than 1 application, but the page is pending redesign coming potentially in  May 2022)
 
 
 #### Communications
