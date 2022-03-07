@@ -32,12 +32,12 @@ Our products connect Veterans to VA locations where they can receive services an
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
 
-### Facility Locator 
+## Facility Locator 
 
-#### Facility Locator product overview
+### Facility Locator product overview
 The Facility Locator is an unauthenticated search tool which can be used to find VA facilities and services. It leverages the Facilities API for VA owned and operated facilities and connects to the Community Care Provider Profile Management System (PPMS) for VA network locations. Search results connect to modernized websites for VAMCs and Vet Centers or legacy detail pages which provide basic location and service information for VBA and cemeteries. Map functionality is provided by Mapbox.
 
-#### Facility Locator documentation and analytics
+### Facility Locator documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
 - [Google Analytics dashboard](https://analytics.google.com/analytics/web/#/dashboard/Br4Erd4eRMePqyRXnLY5nA/a50123418w177519031p184317761/_u.date00=20210201&_u.date01=20210228&_.useg=builtin1,builtin28/)
@@ -45,88 +45,94 @@ The Facility Locator is an unauthenticated search tool which can be used to find
 - [Mission Act DOMO Dashboard](https://va-gov.domo.com/page/1865233622?userId=1405356294) also contains community care search data from the Facility Locator
 - [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mapbox)
 
-#### Facility Locator product approach 
+### Facility Locator product approach 
 
-#### Facility Locator product roadmap
+### Facility Locator product roadmap
 Brief plain-language description of this product’s history and next steps
 
-Now
-- 
+#### Now
+- **Update Mapbox security** 
+  - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
+- **Implement VA health connect number on Facility Locator using CMS as source of truth**
+  - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
 
-Next 
-- Revisit FL front end direct connection to Lighthouse #19065 
-  - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065)
-  - Background in [API key discussion thread](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9716) 
-- Update VBA search experience to increase [VBA service information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632) and [VBA facility information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633) based on taxonomy research 
+#### Next 
+- **Implement new Lighthouse v1 services endpoint (CMS -> Lighthouse -> Facility Locator)**
+  - Epic [31901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
+  - **Includies revisiting Revisit FL front end direct connection to Lighthouse**
+    - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065)
+    - Background in [API key discussion thread](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9716) 
+- **Update VBA search experience to increase [VBA service information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632) and [VBA facility information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633) based on taxonomy research** 
   - Epic [#4865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4865)
   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
 
-Later
+#### Later
 - Task based search 
 
-### VAMC modernized pages
+## VAMC modernized pages
 
-#### VAMC modernized pages product overview
+### VAMC modernized pages product overview
 Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families and caregivers. The pages provide the location details needed before visiting and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. During the roll-out, the Facilities team had responsibility for the front-end, from content API to Veteran-facing UI.  
 
-#### VAMC modernized pages documentation and analytics
+### VAMC modernized pages documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
 - [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632)
 
-#### VAMC modernized pages product approach 
+### VAMC modernized pages product approach 
 
-####  VAMC modernized pages product roadmap
+###  VAMC modernized pages product roadmap
 Brief plain-language description of this product’s history and next steps
 
-- Now
-- Next 
-- Later
+#### Now
+#### Next 
+#### Later
 
-### Vet Center pages
+## Vet Center pages
 
-#### Vet Center pages product overview
+### Vet Center pages product overview
 Vet Center pages were created to establish web presence for this group of underutilized VA facilities and the services they deliver. The Vet Center MVP was informed by a group of 10 Vet Center outreach specialists and was intentionally designed to be lean, providing information about Vet Center services and the locations where they are available.  They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - Vet Center national and local Vet Center facility.
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/product-brief.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632) 
 
-#### Vet Center pages product approach 
+### Vet Center pages product approach 
 
-#### Vet Center pages product roadmap
+### Vet Center pages product roadmap
 Brief plain-language description of this product’s history and next steps
 
-- Now
-- Next 
-- Later
+#### Now
+#### Next 
+#### Later
 
 ---
 
-### Artifacts
+## Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
 - [Facilities team Mural](https://app.mural.co/t/vsa8243/r/1580427682078)
 - [Other]()
 
-### Research and design
+## Research and design
 - [**Research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
 
-### Engineering
+## Engineering
 - [Facility Locator documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
 - [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
 
 <br>
 
-### Contacts
+## Contacts
 
 - Dave Conlon| david.conlon@va.gov -- Product owner
 - Jessica Schiefer | Jessica.Schiefer@va.gov -- Communications, RCS (Vet Center POC)
 - Kevin Walsh | kevin.walsh@civicactions.com -- CMS team POC
 - Nancy Smith | nancy.smith@oddball.io | Mapbox POC
-### Meetings
+
+## Meetings
 
 - Meeting title
    - Purpose
@@ -138,7 +144,7 @@ Brief plain-language description of this product’s history and next steps
    - Purpose
    - Frequency
 
-### Open questions
+## Open questions
 
 - Open question lorem ipsum dolor sit amet?
 - Open question lorem ipsum dolor sit amet?
