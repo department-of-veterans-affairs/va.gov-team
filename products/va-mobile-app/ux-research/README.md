@@ -33,7 +33,7 @@ The goals of our UX research in March-December 2020 were to validate or invalida
 | **Began July 2020, ongoing** | Service blueprint | Identification of what systems will power the app | [Service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/service-blueprint) | 
 | **July-August 2020** | Comparative feature analysis | Feature based analysis of native apps outside government | [Findings from our audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/comparative-feature-analysis) are feeding into high-fi prototype and UI design |
 | **Began August 2020, ongoing** | High-fi design | High-fi iOS prototype for iPhone SE hosted in Invision | Prototype we can usability test with Veterans |
-| **Began August 2020, ongoing** | Information architecture | IA of MVP mobile app screens | [IA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture) | 
+| **Began August 2020, ongoing** | Information architecture | IA of MVP mobile app screens | [IA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture) | 
 | **Began August 2020, ongoing** | Discussions with VFS teams | Conversations with the teams owning features we plan to include in the MVP | Will feed into UX/UI design |
 | **September 9-11, 2020** | High-fi prototype testing | Testing of high-fi invision prototpye on mobile devices ([Testing materials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing)) | MVP UI/UX design | 
 
