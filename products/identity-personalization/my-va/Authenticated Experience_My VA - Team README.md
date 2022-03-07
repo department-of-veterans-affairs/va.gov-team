@@ -55,7 +55,7 @@ My VA page was redesigned and released to production in July 2021.  The priority
      - [My VA redesign hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/My%20VA%20redesign%20-%20UX%20research%20and%20design%20hub.md)
      - [Payment Information hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/My%20VA_Payment%20Information%20Payment%20Information%20-%20-%20UX%20research%20and%20design%20hub.md)
      - [On-site Notifications hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/My%20VA_On-site%20Notifications%20-%20UX%20research%20and%20design%20hub.md)
-     - [Copays hub page]
+
 
 ### Engineering
 - [My VA Redesign Technical diagram Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams)
