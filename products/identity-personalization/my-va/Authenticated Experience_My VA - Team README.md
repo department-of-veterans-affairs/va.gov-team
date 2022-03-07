@@ -67,7 +67,7 @@ My VA page was redesigned and released to production in July 2021.  The priority
 <br>
 
 ## VA relationships
-> You can reference specific product outlines or the team charter if contact or meeting information exists there already
+
 ### March 2022 team roster
 
 - Heather Justice | heather.justice1@adhocteam.us -- Team product manager
