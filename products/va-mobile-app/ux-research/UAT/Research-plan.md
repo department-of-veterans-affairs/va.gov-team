@@ -1,13 +1,13 @@
 
 
-## 
+#
 **Login.gov Mobile App Integration Test Plan**
 
 Prepared by Ayush Chakravarty, Meko Hong, Patrick Saxton, and Ambika Roos.
 
 
 ## 
-Objective/Summary
+Objective
 
 
 **We need to verify, in pre-prod and prod, that:**
