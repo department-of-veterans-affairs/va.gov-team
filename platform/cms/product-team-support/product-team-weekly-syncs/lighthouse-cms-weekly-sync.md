@@ -28,6 +28,23 @@
  
 </details>
 
+## Monday, March 7, 2022
+* `servicelocations`
+  * no updates
+* `healthserviceAPI`
+  * still in LH court, working through latency issues
+  * from CMS: if a term gets updated it will push all relevant services and then all relevant facilities (ready by the end of this week)
+  * Q: what if a facility is closed? will it send delete updates? A: yes, already in place; orphaned zombies should be accounted for with this
+* `field_va_health_connect_phone`
+  * no updates, available in the CMS just not pushing to LH yet
+  * LH = post V1 (late March) to be able to receive it
+  * Michelle and Facilities team looking for this functionality to direct VISN 8 to LH for source of truth
+* geolocations and pins being misaligned update
+  * Michelle to update in CMS KB
+* how Facility Locator connects with LH
+  * Dave C and Dave M to bring forward a larger convo with Unauth / Platform on how to best connect
+  * Would like to glean from Lance his framework
+
 ## Monday, February 28, 2022
 * `servicelocations` fields
 * `healthserviceAPI`
@@ -42,7 +59,6 @@
   * currently based on lat/long from LH which they get from multiple sources
   * possible batches and timing questions
     * "GSSC bands get updated on the last Saturday of every month. GSSC aims to integrate that data around the 15th of the following month, but recently it has been coming about a week later."
-
 
 ## Monday, February 14, 2022
 * `servicelocations` fields. CMS projecting to fill out in sprint 52 (ends 2/25)
