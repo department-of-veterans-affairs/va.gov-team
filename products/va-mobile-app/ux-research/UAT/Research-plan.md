@@ -10,7 +10,7 @@ Prepared by Ayush Chakravarty, Meko Hong, Patrick Saxton, and Ambika Roos.
 Objective/Summary
 
 
-**What to test - **We need to verify, in pre-prod and prod, that:
+**We need to verify, in pre-prod and prod, that:**
 
 The introspect service is creating sessions and user data end points are sending the correct data, and that the IAM SAML requests to login.gov are working correctly. We will test this using the following scenarios:
 
