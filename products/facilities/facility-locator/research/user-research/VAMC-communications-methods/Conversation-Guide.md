@@ -98,7 +98,7 @@ Before we start, a few things I want to mention:
 
 ## Task 3: Contextual inquiry - 10 minutes
 
-[Ex; "What communication methods
+[Ex: "What does this label mean to you?; If you were trying to contact your doctor by phone, which of these labels is more helpful?"]
 
 - Step 1
 - Step 2
