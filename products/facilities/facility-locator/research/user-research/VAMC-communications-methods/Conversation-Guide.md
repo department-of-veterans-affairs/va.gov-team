@@ -52,8 +52,6 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-[WARM UP Qs RELATED TO EXPERIENCE WITH COMMUNICATION]
-
 1) Can you tell me a little bit about how you communicate with your health care team: what has your experience been like?
 2) Do you have a preferred method of contacting VA facilities or health care personell?
     - **If yes:**
