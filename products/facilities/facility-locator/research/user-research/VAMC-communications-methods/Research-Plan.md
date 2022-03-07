@@ -67,15 +67,29 @@ Currently, not all communication methods available to Veterans are present on ea
 
 ## Method	
 
-- Usability testing
-	- Task flow from specific starting points
-- Tree test
-	- Health care system level links/headings
-	- Facility level links/headings
-- Contexual inquiry
-	- Labels & sub-labels
-	- Expectations per page
-	- General experience and preferences
+This is a list of the research methods this study will utilize, along with a description of how these methods impact the goals of this study.
+
+**1) Usability testing**
+- Method
+	- Task flow from specific starting points:
+		- VA.gov
+		- System-level health care page
+		- Facility-level health care page
+- Goals
+	- Gives us data on how Veterans search for communication methods on VA.gov, where Veterans generally expect to find this information, and their overall impressions of this experience.
+
+**3) Tree test**
+- Method
+	- A tree test using system-level health care links/headings
+	- A tree test using facility-level health care links/headings
+- Goals
+	- Give us data on where Veterans feel communiction methods should be located VAMC pages, based on side navigation links, and page headings.
+
+**4) Contexual inquiry**
+- Method
+	- Asking questions about specific page elements, including labels, headings, Veterans general expectations per-page, and lesser-known communications methods like VA Health Chat.
+- Goals
+	- Gives us feedback on communications elements themselves, as opposed to where they are located. This is also a chance to capture general feedback and suggestions that may not have come up in previous tasks.
 
 ### Location
 
@@ -88,12 +102,6 @@ For moderated usability tests:
 - [Link to prototype](url goes here) [TBD - may use staging/production & bespoke tree test/prototype]
 	
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
 
