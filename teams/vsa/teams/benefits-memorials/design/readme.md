@@ -49,12 +49,19 @@ We used these UX research resources during design and development.
 We used these UX design resources to guide our design and development.
 
 ### Design system
-
+- [VA.gov Design System](https://design.va.gov/)
+- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
+- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
+- [USDS Design System](https://designsystem.digital.gov/)
+- [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
 
 ### Content resources
-
+- [Content writing](https://design.va.gov/content-style-guide/)
+- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
+- [Internal 508 checklist]()
+- [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 
 <br>
