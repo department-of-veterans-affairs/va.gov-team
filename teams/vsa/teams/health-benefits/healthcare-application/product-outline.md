@@ -104,6 +104,11 @@
 
 ### Current Status
 
+- As of 01/2022, we're going to focus on
+   - Updating "sign as legal rep" section
+   - Creating Datadog dashboards
+   - Launching Ph Short-form for Veterans with 50% or higher disability rating (auth and non-auth)
+
 - As of 10/2020, we're going to focus on:
    - Understanding what Veteran pain points are with the current applicaiton process (research and discovery)
    - Updating the UI to meet VA.gov design & accessibility standards
@@ -111,10 +116,7 @@
    - Updating any content around the health care application pages that may be a source of confusion
    - Updating the questions on the online form to align with the new 10-10EZ
 
-- As of 01/2022, we're going to focus on
-   - Updating "sign as legal rep" section
-   - Creating Datadog dashboards
-   - Launching Ph Short-form for Veterans with 50% or higher disability rating (auth and non-auth)
+
 
 ### Key Decisions
 
