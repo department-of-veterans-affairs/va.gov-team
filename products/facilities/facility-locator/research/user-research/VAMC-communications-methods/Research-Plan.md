@@ -62,7 +62,7 @@ This is a list of the research methods this study will utilize, along with a des
 
 **1) Usability testing**
 
-This usability test will use staging/production sites as appropriate. See the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md) for task destails.
+This usability test will use staging/production sites as appropriate. See the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md) for task details.
 
 - Method
 	- Task flow from specific starting points:
