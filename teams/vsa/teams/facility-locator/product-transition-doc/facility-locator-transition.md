@@ -21,12 +21,16 @@ The Facility Locator is an unauthenticated search tool which can be used to find
 
 ## Facility Locator product roadmap
 Brief plain-language description of this product’s history and next steps
+ 
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
+
+The most critical path iteams are listed below but do not represent the total of issues on the backlog.
 
 ### Now
 - **Update Mapbox security** - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
 - **Implement VA health connect number on Facility Locator using CMS as source of truth** - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
+
 
 ### Next 
 - **Implement new Lighthouse v1 services endpoint (CMS -> Lighthouse -> Facility Locator)** - Epic [31901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
@@ -36,7 +40,7 @@ Brief plain-language description of this product’s history and next steps
   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
 
 ### Later
-- **Service-centric(task-based)search** Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801)
+- **Service-centric (task-based) search** Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801)
 - **Add ability to return non-VAST locations, such as Vet Ceter community access points and VA health mobile stops** - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
 
 ## Artifacts
