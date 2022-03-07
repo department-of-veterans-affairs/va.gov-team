@@ -34,8 +34,8 @@ Today you will be evaluating a set of criteria intended to provide guidance in d
 
 *[Share screen with spreadsheet of criteria]
 
-- We are going to provide you with 5 content pages that a stakeholder has asked be migrated into the modernized VA.gov experience.  
-- We would like you to look at each page and utilize the criteria and make a determination of whether that content should be placed in a benefit hub, Resources and Support, or neither.
+- We are going to provide you with 5 content pages that a VA partner has asked be migrated into the modernized VA.gov experience.  
+- We would like you to look at each page and use the criteria to determine whether that content should be placed in a benefit hub, Resources and Support, or neither. 
 - Some of this content may look familiar to you, and we ask that you do not make the determination based on what you know about where it lives today, but instead use the criteria to reach an answer.
 - We then ask you to make notes within the provided spreadsheet to indicate your placement decision. 
 - In the final column of the spreadsheet please enter any feedback, comments or questions that you encountered while using the criteria for this content.  
