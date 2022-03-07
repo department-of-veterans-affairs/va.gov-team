@@ -421,7 +421,7 @@ We are officially in pre-launch! So, we need to make sure anything outstanding f
 **PM**
 
 - Make sure analytics updates get implemented (#37876)
-- Put together launch plan; Prep fors taging review (#37877, #37878, #37879)
+- Put together launch plan; Prep for staging review (#37877, #37878, #37879)
 - Hold staging review if we don't need to do any significant updates from QA (can be towards the end of the sprint if necessary) (#37880)
 - Prep for privacy & security review (#37881)
 
@@ -454,7 +454,7 @@ We are officially in pre-launch! So, we need to make sure anything outstanding f
 **Design**
 
 - Finish design explorations
-- Hold design intent if we did not already hold it (#37910)
+- Hold design intent if we did not already hold it (#37910-closed)
 - Research planning -- What do we need to do, if anything, in addition to getting feedback during payment UAT?
 
 ## Sprint 70 (3/23 - 4/5)
