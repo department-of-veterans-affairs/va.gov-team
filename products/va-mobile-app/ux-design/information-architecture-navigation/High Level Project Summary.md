@@ -3,7 +3,7 @@
 # **VA Mobile App: Information Architecture & Navigation - High Level Project Summary**
 
 
-This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the VA Mobiel App IA & Navigation project (part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
+This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the VA Mobile App IA & Navigation project (part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
 
 ## Background & Motivation
 
