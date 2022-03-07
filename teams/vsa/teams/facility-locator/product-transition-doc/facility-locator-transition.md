@@ -68,6 +68,8 @@ The most critical path iteams are listed below but do not represent the total of
   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
 - **Restore pagination for urgent care and emergency care** 
    - Issue [#32760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
+- **Implement more robust monitoring**
+- Epic [#10870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10870)
 
 ### Later
 
