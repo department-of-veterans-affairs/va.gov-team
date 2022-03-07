@@ -52,15 +52,17 @@ Our products connect Veterans to VA locations where they can receive services an
 
 ## Meetings
 
-- Meeting title
-   - Purpose
-   - Frequency
-- Meeting title
-   - Purpose
-   - Frequency
-- Meeting title
-   - Purpose
-   - Frequency
+- **Lighthouse- CMS weekly sync**
+   - This weekly sync is designed to help the CMS and Lighthouse teams coordinate migration work (VAST, COVID health service data). This invite will be updated with agenda and a link for notes.collaboration between Lighthouse, CMS and Facilities teams
+   - Frequency - weekly on Monday at 3 p.m. ET
+   - [Running agenda here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/product-team-weekly-syncs/lighthouse-cms-weekly-sync.md)
+
+- **PPMS Integrated Planning and Scheduling (PIPS)**
+   - The purpose of this meeting is to give and receive technical updates to our Integrating partners.
+   - Weekly on Tuesday at 1:00 p.m. ET
+   - Agenda and notes found in [PPMS Data Web Service Forum](https://vaww.oed.portal.va.gov/pm/iehr/vista_evolution/RA/CCP_PPMS/PPMS_DWS/SitePages/Home.aspx)
+
+
 
 ## Open questions
 
