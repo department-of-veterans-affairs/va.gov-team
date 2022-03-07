@@ -50,7 +50,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [x] Confim hex color for red label text in prototype
 - [ ] Your service history screen: change third radio button to "I’m a current member of the National Guard or Reserves and was never activated"
 - [ ] Service period list-loop: check padding-left and spaceing above save button
-- [ ] Confirm form section titles/headers are 15px in prototype (seems to be 17px)
+- [x] ~~Confirm form section titles/headers are 15px in prototype~~ (Seems headers should be 17px)
 - [ ] Your VA loan history: add title to prototype
 - [ ] Your VA loan history: check alignment of form inputs
 - [ ] Your VA loan history: Use month/year for date selector
