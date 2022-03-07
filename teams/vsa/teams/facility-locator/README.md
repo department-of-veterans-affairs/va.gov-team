@@ -19,7 +19,9 @@
 
 [**2021 Portfolio roadmap**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
 
-[**VSA Facilities product transition folder| March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc)
+[**2021 quarterly planning folder**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Facilities%204Q21%20Quarterly%20planning%20(1).pdf)
+
+[**VSA Facilities product transition folder | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc)
 
 <br>
 
