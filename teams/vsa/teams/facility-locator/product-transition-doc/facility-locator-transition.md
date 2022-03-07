@@ -36,8 +36,9 @@ The most critical path iteams are listed below but do not represent the total of
 - **Implement VA health connect number on Facility Locator using CMS as source of truth** 
    - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
 
-
 ### Next 
+
+
 - **Implement new Lighthouse v1 services endpoint (CMS -> Lighthouse -> Facility Locator)** 
   - Epic [31901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
   - Includes revisiting Revisit FL front end direct connection to Lighthouse - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065) and background in [API key discussion thread](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9716) 
@@ -45,12 +46,18 @@ The most critical path iteams are listed below but do not represent the total of
    - Epic [#4865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4865)
    - Issues [#37632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632) and [#37633](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633)
   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
+- **Restore pagination for urgent care and emergency care** 
+   - Issue [#32760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
 
 ### Later
 - **Service-centric (task-based) search**
    - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801)
 - **Add ability to return non-VAST locations, such as Vet Ceter community access points and VA health mobile stops** 
    - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
+- **Telehealth data availability in PPMS 
+   - Epic [#17946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
+- **Online scheduling API**
+    - EPIC [#27454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27454)
 
 ## Artifacts
 - [Product Guide](TBD)
