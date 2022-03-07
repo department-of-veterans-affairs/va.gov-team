@@ -50,9 +50,19 @@ The Facility Locator is an unauthenticated search tool which can be used to find
 #### Facility Locator product roadmap
 Brief plain-language description of this product’s history and next steps
 
-- Now
-- Next 
-- Later
+Now
+- 
+
+Next 
+- Revisit FL front end direct connection to Lighthouse #19065 
+  - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065)
+  - Background in [API key discussion thread](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9716) 
+- Update VBA search experience to increase [VBA service information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632) and [VBA facility information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633) based on taxonomy research 
+  - Epic [#4865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4865)
+  - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
+
+Later
+- Task based search 
 
 ### VAMC modernized pages
 
