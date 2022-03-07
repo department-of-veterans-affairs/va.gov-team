@@ -52,21 +52,27 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-1) Can you tell me a little bit about how you communicate with your health care team: what has your experience been like?
+[IN PROGRESS]
+
+1) Can you tell me a little bit about how you communicate with your health care team: what methods have you used?
 2) Do you have a preferred method of contacting VA facilities or health care personell?
     - **If yes:**
         - Why do you prefer that one?
         - How did you learn about, or find it?
     - **If no:**
         - Is there a method that you would prefer, that we don't have?
-3) To you, what makes for a good experience when contacting VA facilities or personell?
+3) What has your experience using these communication methods been like?
+    -**Follow up:** To you, what does a method of communication need in order to be a good one?
 
 ## Task 1: Usability testing - 20 minutes
 
-- Step 1
-- Step 2
+[Ex: You want to send a message to your doctor. Starting on X page, how would you find a way to do that?]
 
-### Things to watch for:
+1) Task flow from VA.gov
+3) Task flow from system-level health care page
+4) Task flow from facility-level health care page
+
+**Moderator notes:**
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
@@ -75,10 +81,12 @@ Before we start, a few things I want to mention:
 
 ## Task 2: Tree test - 15 minutes
 
-- Step 1
-- Step 2
+["Where do you expect to find...?]
 
-### Things to watch for:
+1) Tree test from system-level health care page
+2) Tree test from facility-level health care page
+
+**Moderator notes:**
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
@@ -86,10 +94,12 @@ Before we start, a few things I want to mention:
 
 ## Task 3: Contextual inquiry - 10 minutes
 
+[What communication methods
+
 - Step 1
 - Step 2
 
-### Things to watch for:
+**Moderator notes:**
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
