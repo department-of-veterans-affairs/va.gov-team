@@ -81,7 +81,7 @@
 - As of 05/2021, we're going to focus on:
    - Testing design and content iterations based on research discovery to improve user experience
 - As of 01/2022, we're going to focus on:
-   - Creating dashbaords in Datadog
+   - Creating dashboards in Datadog
    - Implementing Short-form Ph 1
 
 --- 
