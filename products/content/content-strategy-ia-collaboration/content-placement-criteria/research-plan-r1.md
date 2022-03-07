@@ -18,7 +18,6 @@ Which [OCTO goals](https://github.com/department-of-veterans-affairs/va.gov-team
 - Veterans and their families trust the security, accuracy, and relevancy of VA.gov
 - Platform users can build and deploy high-quality products for Veterans
 
-
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 
@@ -29,7 +28,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 What are you trying to learn from this research? 
 
 - We want to understand if the content placement criteria helps OCTO-DE content authors feel confident in making quicker decisions of where to place content in the modernized VA.gov environment.
-- We want to find out if content authors' decisions about content placement map to our intentions with the criteria.
+- We want to find out if content authors' decisions are consistent when using this criteria.
 
 
 ### Outcome
