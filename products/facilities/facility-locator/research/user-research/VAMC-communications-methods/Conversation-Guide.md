@@ -66,7 +66,7 @@ Before we start, a few things I want to mention:
 
 ## Task 1: Usability testing - 20 minutes
 
-[Ex: You want to send a message to your doctor. Starting on X page, how would you find a way to do that?]
+[Ex: "You want to send a message to your doctor. Starting on X page, how would you find a way to do that?"]
 
 1) Task flow from VA.gov
 3) Task flow from system-level health care page
@@ -81,10 +81,14 @@ Before we start, a few things I want to mention:
 
 ## Task 2: Tree test - 15 minutes
 
-["Where do you expect to find...?]
+["Ex: Health chat allows for real-time communication with VA health care personal. Under which link would you expect to find VA Health Chat?]
 
 1) Tree test from system-level health care page
-2) Tree test from facility-level health care page
+    - Side nave tree test
+    - Page heading/top task tree test
+3) Tree test from facility-level health care page
+    - Side nav tree test
+    - Page heading tree test
 
 **Moderator notes:**
 
@@ -94,7 +98,7 @@ Before we start, a few things I want to mention:
 
 ## Task 3: Contextual inquiry - 10 minutes
 
-[What communication methods
+[Ex; "What communication methods
 
 - Step 1
 - Step 2
