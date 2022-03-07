@@ -18,6 +18,10 @@ The Facility Locator is an unauthenticated search tool which can be used to find
 - [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mapbox)
 
 ## Facility Locator product approach 
+The Facility Locator is a unautheniticated tool where Veterans and beneficiaries search for VA facilities (across VHA, VBA, and NCA) and in-network Community Care locations. 
+It is the newer version of VA's Legacy directory](https://www.va.gov/directory/guide/home.asp). It was previously powered by the non-public-facing Vets API but now gets VA facility information from the public-facing [Lighthouse Facilities API](https://developer.va.gov/explore/facilities). Community care data comes from a separate external, non-public facing database called Provider Profile Management System (PPMS). It uses [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/) for mapping. 
+
+Our mission in 2019 was to consolidate the many, many disparate finders and locator tools into one facility search tool. 
 
 ## Facility Locator product roadmap
 Brief plain-language description of this product’s history and next steps
@@ -29,7 +33,8 @@ The most critical path iteams are listed below but do not represent the total of
 ### Now
 - **Update Mapbox security** 
     - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
-- **Implement VA health connect number on Facility Locator using CMS as source of truth** - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
+- **Implement VA health connect number on Facility Locator using CMS as source of truth** 
+   - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
 
 
 ### Next 
