@@ -50,9 +50,10 @@ Brief plain-language description of this product’s history and next steps
 
 ## Github labels
 The following Github labels were used for Facility Locator issues
-# vsa-facilities +
-- # frontend
-- # front-end-facility-locator
-- # backend
-- # facility-locator
-- # facility-locator-ppms
+
+#vsa-facilities and
+- #frontend
+- #front-end-facility-locator
+- #backend
+- #facility-locator
+- #facility-locator-ppms
