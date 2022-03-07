@@ -2,7 +2,7 @@
 
 ## Index of relevant folders and high level documentation  
 
-[**VSA Facilities Team transition document | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
+[**VSA Facilities Team transition document folder | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/product-transition-overview.md)
 
 [**Issue response (including architecture diagrams)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
 
