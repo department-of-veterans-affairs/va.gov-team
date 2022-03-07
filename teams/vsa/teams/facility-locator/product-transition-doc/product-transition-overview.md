@@ -32,7 +32,6 @@ Our products connect Veterans to VA locations where they can receive services an
 ## Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
 - [Facilities team Mural](https://app.mural.co/t/vsa8243/r/1580427682078)
-- [Other]()
 
 ## Research and design
 - [**Research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
