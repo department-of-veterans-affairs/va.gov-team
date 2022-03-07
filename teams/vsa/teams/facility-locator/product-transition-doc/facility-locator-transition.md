@@ -6,6 +6,16 @@
 
 <br>
 
+## Table of Contents
+
+[Product Overview](#facility-locator-product-overview)
+[History](#history)
+[Documentation and analytics](#documentation-and-analytics)
+[Product approach](#product-approach
+[Product roadmap](prodiuct-roadmap)
+[Artifacts](#artifacts)
+[Github labels](#github-labels)
+
 ## Facility Locator product overview
 The Facility Locator is an unauthenticated search tool which can be used to find VA facilities and services. It leverages the public-facing [Lighthouse Facilities API](https://developer.va.gov/explore/facilities) for VA owned and operated facilities. A separate, external and non-public database, Provider Profile Management System (PPMS), provides Community Care (VA network) locations. Search results connect to modernized websites for VAMCs and Vet Centers or legacy detail pages which provide basic location and service information for VBA and cemeteries. Map functionality is provided by [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/). 
 
