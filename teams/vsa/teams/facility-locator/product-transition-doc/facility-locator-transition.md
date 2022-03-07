@@ -9,11 +9,17 @@
 ## Table of Contents
 
 [Product Overview](#facility-locator-product-overview)
+
 [History](#history)
+
 [Documentation and analytics](#documentation-and-analytics)
-[Product approach](#product-approach
-[Product roadmap](prodiuct-roadmap)
+
+[Product approach](#product-approach)
+
+[Product roadmap](product-roadmap)
+
 [Artifacts](#artifacts)
+
 [Github labels](#github-labels)
 
 ## Facility Locator product overview
