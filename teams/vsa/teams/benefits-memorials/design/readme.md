@@ -24,11 +24,11 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
-| Original Claims]() | 'OC' or 526 Original Claim | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
-| Higher-level Review (v1) | HLR | [In production](https://www.va.gov/decision-reviews/higher-level-review/) |
-| Benefits Delivery at Discharge() | BDD | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
-| 526 Disability Compensation() | 526 or 526EZ | [In Production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
-| Notice of Disagreement() | NOD or Board Appeal | [In Production](https://www.va.gov/decision-reviews/board-appeal/) |
+| Original Claims | 'OC' or 526 Original Claim | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
+| Higher-level Review | HLR | [In production](https://www.va.gov/decision-reviews/higher-level-review/) |
+| Benefits Delivery at Discharge | BDD | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
+| 526 Disability Compensation | 526 or 526EZ | [In Production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
+| Notice of Disagreement | NOD or Board Appeal | [In Production](https://www.va.gov/decision-reviews/board-appeal/) |
 
 
 <br>
