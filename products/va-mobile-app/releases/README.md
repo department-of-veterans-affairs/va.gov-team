@@ -27,7 +27,7 @@ There are two ways we can update our app:
 * One week prior to the release sign off is due and the app is sent to the app store for review
 * On release day, the app is submitted to the app store(s) with latest app version
 
-Current Release Schedule (next 10 releases )
+Current Release Schedule (next 5 releases )
 
 
 <table>
@@ -45,104 +45,6 @@ Current Release Schedule (next 10 releases )
 Date
    </td>
    <td>Release Sign Off Due Date
-   </td>
-  </tr>
-  <tr>
-   <td>32
-   </td>
-   <td>11/10/21
-   </td>
-   <td>11/23/21
-   </td>
-   <td>12/7/21
-   </td>
-   <td>11/26/21
-   </td>
-   <td>11/30/21
-   </td>
-  </tr>
-  <tr>
-   <td>33
-   </td>
-   <td>11/24/21
-   </td>
-   <td>12/7/21
-   </td>
-   <td>12/21/21
-   </td>
-   <td>12/10/21
-   </td>
-   <td>12/14/21
-   </td>
-  </tr>
-  <tr>
-   <td>34
-   </td>
-   <td>12/8/21
-   </td>
-   <td>12/21/21
-   </td>
-   <td>1/4/22
-   </td>
-   <td>12/24/21
-   </td>
-   <td>12/28/21
-   </td>
-  </tr>
-  <tr>
-   <td>35
-   </td>
-   <td>12/22/21
-   </td>
-   <td>1/4/22
-   </td>
-   <td>1/18/22
-   </td>
-   <td>1/7/22
-   </td>
-   <td>1/11/22
-   </td>
-  </tr>
-  <tr>
-   <td>36
-   </td>
-   <td>1/5/22
-   </td>
-   <td>1/18/22
-   </td>
-   <td>2/1/22
-   </td>
-   <td>1/21/22
-   </td>
-   <td>1/25/22
-   </td>
-  </tr>
-  <tr>
-   <td>37
-   </td>
-   <td>1/19/22
-   </td>
-   <td>2/1/22
-   </td>
-   <td>2/15/22
-   </td>
-   <td>2/4/22
-   </td>
-   <td>2/8/22
-   </td>
-  </tr>
-  <tr>
-   <td>38
-   </td>
-   <td>2/2/22
-   </td>
-   <td>2/15/22
-   </td>
-   <td>3/1/22
-   </td>
-   <td>2/18/22
-   </td>
-   <td>2/22/22
    </td>
   </tr>
   <tr>
@@ -185,6 +87,32 @@ Date
    <td>4/1/22
    </td>
    <td>4/5/22
+   </td>
+  </tr>
+    <td>42
+   </td>
+   <td>3/30/22
+   </td>
+   <td>4/12/22
+   </td>
+   <td>4/26/22
+   </td>
+   <td>4/15/22
+   </td>
+   <td>4/19/22
+   </td>
+  </tr>
+   <td>43
+   </td>
+   <td>4/13/22
+   </td>
+   <td>4/26/22
+   </td>
+   <td>5/10/22
+   </td>
+   <td>4/29/22
+   </td>
+   <td>5/3/22
    </td>
   </tr>
 </table>
