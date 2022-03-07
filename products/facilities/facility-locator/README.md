@@ -1,6 +1,6 @@
 # Facility Locator
 
-## Index of relevant links and resources 
+## Index of relevant folders and high level documentation  
 
 [**VSA Facilities Team transition document | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
 
