@@ -23,17 +23,15 @@ Are there moments that matter?
 
 ## Research Goals	
 
-[3 MAIN GOALS IS IDEAL, THINK ABOUT FUTURE RESEARCH FOR MORE THAN 3]
-
 **The main goals of this study are:**
-1) To identify where Veterans expect to find methods of contacting their health team.
-2) To validate the labels and sub-labels used to describe the communication methods found on VAMC pages.
-3) To identify why a Veteran would chose one particular communication method as opposed to another (under what circumstances).
+1) To identify where Veterans expect to find the various methods of communication that VAMC pages provide.
+2) To validate the labels used to describe the communication methods found on VAMC pages.
+3) To identify why a Veteran would chose one particular communication method as opposed to another.
 
 **Secondary goals include collecting supplemental feedback:**
-- What is confusing?
-- What do they expect?
-- What changes or additional things do they suggest?
+- What is confusing to Veterans?
+- What experience do Veterans expect?
+- What changes or additional things do Veterans suggest?
 
 ### Outcome
 
@@ -41,29 +39,22 @@ Currently, not all communication methods available to Veterans are present on ea
 
 ### Research questions
 
-[BUCKET UNDER GOALS, REORGANIZE?]
-
 1) Where do Veterans expect to find each of the different methods of communication?
 	- VA Health Chat
 	- Secure messaging
-	- VA health connect phone number
+	- VA health connect
 	- VA telehealth
-	- General phone numbers
 2) How do Veterans expect communications methods to labeled/described? 
 3) Under what circumstances do Veterans choose a particular communications method?
 4) Which communication methods do Veterans prefer, and how does this impact their elevation/placement on VAMC pages?
 
 ### Hypotheses
 
-[FOCUS AND CLEAN UP; BUCKET UNDER RESEARCH QUESTIONS, REORGANIZE]
-
-1) Most participants will want additional methods of communication on specific facility health care pages.
+1) Most participants will want to access these methods of communication on facility health care pages.
 2) Most participants will prefer methods of communication *other* than phone numbers.
 3) Most participants will find phone number labeling adequate.
-4) Most participants will prefer at least one page that list all available communication methods (ie. on the Contact Us page, or something)
+4) Most participants will prefer at least one page that lists all available communication methods (ie. on the Contact Us page)
 5) Most participants will have similar use cases for particular communication methods (ie. secure messaging for appointments)
-6) The more top-level the starting point (facility locator, system level, facility level) the more difficult it will be to find a list of communication methods.
-7) Most participants will not even know about VA Health Chat.
 
 ## Method	
 
@@ -71,7 +62,7 @@ This is a list of the research methods this study will utilize, along with a des
 
 **1) Usability testing**
 
-[Usability testing will use staging/production sites as appropriate]
+This usability test will use staging/production sites as appropriate. See the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md) for task destails.
 
 - Method
 	- Task flow from specific starting points:
@@ -83,7 +74,7 @@ This is a list of the research methods this study will utilize, along with a des
 
 **3) Tree test**
 
-[Tree testing via Optimal Workshop]
+Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.com/treejack/) tools.
 
 - Method
 	- A tree test using system-level health care links/headings
@@ -93,10 +84,12 @@ This is a list of the research methods this study will utilize, along with a des
 
 **4) Contexual inquiry**
 
-[Bespoke Mural, prototype, A/B testing, etc. as appropriate]
+Contexual inquiry will utilize a Mural board with distinct sections.
 
 - Method
-	- Asking questions about specific page elements, including labels, headings, Veterans general expectations per-page, and lesser-known communications methods like VA Health Chat.
+	- Asking contexual questions during usability testing and tree testing about communication labels, page headings, general expectations and feedback about VAMC pages.
+	- Asking specific questions about existing labels, based on micro-scenarios.
+	- Asking specific questions about which communication method Veterans would use for a given micro-scenario.
 - Goals
 	- Gives us feedback on communications elements themselves, as opposed to where they are located. This is also a chance to capture general feedback and suggestions that may not have come up in previous tasks.
 
