@@ -38,7 +38,8 @@
 - va.gov/find-locations
 - It is VA's single source of truth for Veterans and beneficiaries to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
-- It is powered by the non-public-facing Vets API
+- Previously powered by the non-public-facing Vets API for VA facilities
+- Now powered by the public-facing [Lighthouse Facilities API](https://developer.va.gov/explore/facilities) for VA facilities
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/> (which was changed to an annual license version, effective Oct 1, 2019, facilitated by Nancy Smith of Oddball)
 - It serves many purposes, from finding basic facility address and phone information to preparing for a visit, to understanding eligiblity for community care
 
