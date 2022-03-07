@@ -1,5 +1,5 @@
 # IA Design for Downloadable form 1095-B
-**STATUS: DRAFT**
+**STATUS: FINAL**
 
 **Product/Featue:** Download personal 1095b form <br>
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/37639
@@ -25,7 +25,7 @@
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-Download form 1095b page   | TBD   | Home > Records > [Page H1] |  
+Download form 1095b page   | www.va.gov/records/download-your-irs-1095-b   | Home > Records > [Page H1] |  Per Sitewide content, H1 of page will be: Download your IRS 1095-B tax form
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
@@ -33,8 +33,8 @@ Download form 1095b page   | TBD   | Home > Records > [Page H1] |
 
 **A/R/M** | **Page/component** | **Link destination** | **Label** | **Placement/description of change**
 --- | --- | --- | --- | ---
-Add   | [Records hub page](https://www.va.gov/records/)   |  TBD   |  Placed as 5th option, after "Download your VA benefit letters"
-Add   | Records left nav   |  TBD   |  Download 1095-B tax form |  Placed as 6th option, after "Download your VA benefit letters"
+Add   | [Records hub page](https://www.va.gov/records/)   |  [defined by Sitewide content]   |  Placed as 5th option, after "Download your VA benefit letters".  Sitewide content to determine the link label and teaser text
+Add   | Records left nav   |  TBD   |  Download your IRS 1095-B tax form |  Placed as 6th option, after "Download your VA benefit letters".  Although we do occasionaly shorten the left nav lable, it is best practice for the left nav label to match the H1. In this particular case, even a shortened version (which would closely match the URL segment) will still wrap to a 2nd line, so I recommend using the full H1.  
 
 
 ## <a name="redirects"></a>Redirects <br>
