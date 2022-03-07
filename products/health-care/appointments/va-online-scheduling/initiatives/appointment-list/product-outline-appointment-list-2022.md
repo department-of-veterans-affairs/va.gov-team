@@ -1,41 +1,44 @@
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Update the appointment list view that provides clear details for the Veteran when they are viewing their scheduled, pending or past appointments in the VAOS application. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+As a Veteran who uses VA online schedule, I want to be able to view the appointment list from a single place which includes clear details of upcoming appointments, pending appointments or past appointments.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Improve overall satisfaction (rating) of VA online scheduling
+- Improve retention rate of VA online scheduling homepage (dashboard)
 
 ## Undesired User Outcomes
 
+- Increase in (VAOS-caused) Help Desk support from trends related to the homepage
+- Increase in abandonment of online scheduling
 
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-## Undesired Business Outcomes
-
 
 ---
 ## Measuring Success
 
+- Improve overall satisfaction (rating) of VA online scheduling
+- Improve retention rate of VA online scheduling homepage (dashboard)
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+
+- Medallia satisfaction rating and feedback
+- Users
+- Pageviews
+- Homepage errors
+- Help Desk call volume
+
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
@@ -43,7 +46,24 @@
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- Satisfaction rating - Medallia data TBD
+- Users
+ - Average Jan-Mar = TBD
+ - March = TBD
+- Pageviews
+ - Average Jan-Mar = TBD
+ - March = TBD
+- Homepage errors
+ - Average Jan-Mar = TBD (X.XX% of pageviews)
+ - March = TBD (X.XX% of pageviews)
+- Help Desk call volume
+
+| Month.         | Call Volume | 
+|----------------|-------------|
+| September 2021 |             |           
+| October 2021   |             |          
+| November 2021  |             |
+
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
@@ -60,10 +80,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Update design of appointment list
+- Future initiatives depend on this work: Reschedule appointments, VAOS service (VAMF) integration
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
@@ -107,11 +125,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: VAOS
+- GitHub Label: vaos
+- Slack channel: #vaos-team
+- Product POCs: Leah De La Costa, Jeff Roof
+- Stakeholders: Kay Lawyer (OCC)
 
 </details>
 
@@ -119,10 +137,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ)
+ - PM: [Leah De La Costa](), [Jeff Roof]()
+ - Engineering: [Simi Adebowale]()
+ - Research/Design: [Cierra Maddox](), [Peter Russo]()
  
 </details>
 
