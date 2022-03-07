@@ -19,22 +19,22 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 - [x] Add reference number to all status alerts
 - [ ] Get URL for Eligibility link on form intro
-- [ ] Add copy for "Tell-me-more" accordions (confirm prototype accordions work)
+- [x] Add copy for "Tell-me-more" accordions (confirm prototype accordions work)
 - [ ] Check on design change for "Tell-me-more" accordions
 - [x] Eligible state: move PDF instruction link up one line
 - [ ] Pending states: hide subway map content behind link
 - [ ] Pending states: confirm "speed-up" is replaced with "speed up"
-- [ ] Add "Need help" section to Denied screen in prototype
+- [x] Add "Need help" section to Denied screen in prototype
 - [ ] Add "top" Request a COE link to area above subway map
 - [ ] Add SIP message for form in-progress
 
 ### VA form 26-1880
 
-- [ ] Your application will be saved... add to prototype (maybe "Request")
+- [x] Your application will be saved... add to prototype (maybe "Request")
 - [ ] Confirm order of SIP alert and Finish later link
 - [ ] Adjust margin-top on DOB fieldset
-- [ ] Add application ID to SIP alert in prototype
-- [ ] Remove tell-me-more accordion from prototype
+- [x] Add application ID to SIP alert in prototype
+- [x] Remove tell-me-more accordion from prototype
 - [ ] Add "Additional contact info" form title 
 
 
@@ -47,10 +47,10 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [ ] Uploader: hide Submit before upload
 - [ ] Check padding on blue border-left for hidden text field; check text field alignment shift
 - [ ] Change padding on paragraph below "You have letters about your COE request" to 24px (or to match other paragraphs)
-- [ ] Confim hex color for red label text in prototype
+- [x] Confim hex color for red label text in prototype
 - [ ] Your service history screen: change third radio button to "I’m a current member of the National Guard or Reserves and was never activated"
 - [ ] Service period list-loop: check padding-left and spaceing above save button
-- [ ] Confirm form section titles/headers are 15px in prototype
+- [ ] Confirm form section titles/headers are 15px in prototype (seems to be 17px)
 - [ ] Your VA loan history: add title to prototype
 - [ ] Your VA loan history: check alignment of form inputs
 - [ ] Your VA loan history: Use month/year for date selector
@@ -58,7 +58,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [ ] Doc uploader: check spacing above dropdown and above upload button
 - [ ] Doc upload: can uploaded file card show above dropdown?
 - [ ] Review page: confirm privacy checkbox is available
-- [ ] Review page: remove gender from prototype
+- [x] ~~Review page: remove gender from prototype~~ (Accordion content is N/A)
 - [ ] Review page: confirm titles vs. no-title
 - [ ] Review page: Check military service drop-down value
 - [ ] Review screen: add title for service selection
