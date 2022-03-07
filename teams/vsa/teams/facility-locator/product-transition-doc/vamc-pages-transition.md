@@ -19,6 +19,8 @@ Modernized VAMC websites are comprehensive facility pages designed to meet the n
 ##  VAMC modernized pages product roadmap
 Brief plain-language description of this product’s history and next steps
 
+[2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
+
 ### Now
 ### Next 
 ### Later
