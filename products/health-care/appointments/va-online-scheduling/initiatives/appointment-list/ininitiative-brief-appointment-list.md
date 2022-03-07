@@ -1,88 +1,89 @@
-# Initiative Brief Template
-#### Overview
+# Initiative Brief - Appointment List Improvements
+## Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
+Looking to improve the user experience in VAOS by updating the appointment list page to help the veterans view their upcoming appointments, pending apppointments and past appointments. The goal is to have the VAOS appointments list show the same information and value as the equivalent list in MyHealtheVet.
  
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+
+A user can view their appointments (upcoming, pending, canceled or past) without any confusion and provide value information to the veteran
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Dependent on [VAOS service launch](.md) rollout 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+  - Majority of the Veterans use the MyHealtheVet appointment list to help manage and understand their appointments and as more Veterans move to VAOS to do the     same tasks, they may see a discrency between to the two lists. 
+  - The user may be confused with viewing their appointment list in two separate applications and having to do two separate logins. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
+  - Current functionality
+  - Anecdotal feedback from stakeholders and Veterans
+  - Qualitative feedback from surveys
 * How does this initiative help further OCTO-DE's mission and goals?
+  - Improve user satisfaction
+  - Meet user expectations of available online transactions
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-## Undesired User Outcomes
-## Desired Business Outcomes
+ <details>
+  <summary><b>User Feedback Quotes</b></summary>
+  
+  <q>
+   I hate that when I clicked on schedule an appointment, I must go to another site to log back in. It should be on one page."
+  </q></p>
+  
+  <q> 
+   The log-in process is frustrating because you are already logged into MHV and when you need to schedule an appointment why would I need to log in again?
+  </q></p>
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+</details>
 
-## Undesired Business Outcomes
--->
+## Desired Outcomes
+- Provide clear information that answers basic questions about appointments in the list
+- Seamless navigation experience from MHV (MyHealtheVet) to VAOS
+
+## Undesired Outcomes
+- A user does not have clear information about their appointment details in the list 
+
+## Key Decisions
+- It is preferred that VAOS provides the same value and information of the appointment list similiar to MHV application.
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+Key Result | Baseline | Target | Link to data source (e.g. GA, Domo)
+--- | --- | --- | ---
+Increase conversion rate | Baseline | Target | Link to data source (e.g. GA, Domo)
+Increase scheduling submission success rate | Baseline | Target | Link to data source (e.g. GA, Domo)
+Increase number of scheduling transactions | Baseline | Target | Link to data source (e.g. GA, Domo)
+Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The experience may vary based on the data we have for the appointment type
+  - If user is unable to find any value in VAOS, they may lose trust in the application and are less likely to return
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - We will have to balance between showing the right amount of information in the appointment list 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - API availability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - Must work with our engineers to see what available data we can use to enhance the appointment details 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+1. Provide clear and value information in the appointment list
+2. Facility location 
+3. TBD - "Appointment List Improvement" requests
 
 ### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+- Date and time change only
+
 
 --- 
 
@@ -111,6 +112,16 @@
 ## Screenshots
 
 ### Before
+
+**Cancel CTA**
+
+![staging va gov_health-care_schedule-view-va-appointments_appointments_va_202201032100983000030800000000000000 copy](https://user-images.githubusercontent.com/72046525/142261083-d2f5d501-2da9-4026-9475-a1dcaa18a287.png)
+
+**Cancel Confirmation Modal**
+
+![staging va gov_health-care_schedule-view-va-appointments_appointments_va_202201032100983000030800000000000000 (2)](https://user-images.githubusercontent.com/72046525/142261188-1de1a7be-2bf5-4b28-87fd-0931d9a09f15.png)
+
+
 
 ### After
 
