@@ -10,7 +10,7 @@
 
 [Product portfolio and context](#product-portfolio-and-context)
 
-[Roadmaps](#roadmaps)
+[Roadmaps](#roadmaps-and-planning)
 
 [Artifacts](#artifacts)
 
@@ -21,10 +21,14 @@
 [Contacts](#contacts)
 
 ## Product portfolio and context 
-Our products connect Veterans to VA locations where they can receive services and prepare them to visit those locations. The Facilities team portfolio includes the following unauthenticated products
-- [Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
-- [VAMC modernized pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) 
-- [Vet Center pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md)
+Our products help Veterans find and prepare to visit VA locations where they can receive services.
+The Facilities team portfolio includes the following unauthenticated products:
+- Facility Locator
+  - [Product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
+- VAMC modernized pages
+  - [Product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) 
+- Vet Center pages
+  - [Product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md)
 
 ## Roadmaps and planning
 - [2021 quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Facilities%204Q21%20Quarterly%20planning%20(1).pdf)
@@ -45,11 +49,13 @@ Our products connect Veterans to VA locations where they can receive services an
 - [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
 
 ## Contacts
-
-- Dave Conlon| david.conlon@va.gov -- Product owner
-- Jessica Schiefer | Jessica.Schiefer@va.gov -- Communications, RCS (Vet Center POC)
-- Kevin Walsh | kevin.walsh@civicactions.com -- CMS team POC
-- Nancy Smith | nancy.smith@oddball.io | Mapbox POC
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
+Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC)
+Kevin Walsh | kevin.walsh@civicactions.com | CMS team POC
+Nancy Smith | nancy.smith@oddball.io | Mapbox POC
 
 ## Meetings
 
