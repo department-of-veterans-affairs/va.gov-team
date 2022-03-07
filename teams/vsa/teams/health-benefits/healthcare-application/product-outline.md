@@ -61,7 +61,7 @@
 - If we make the online health care application:
   - More user friendly 
   - Give clearer explanation of required information + why it is required
-  - Shorten form to collect the minimum of what is needed to begin processing
+  - Shorten the form to collect the minimum of what is needed to begin processing
   -  Provide reminders for authenticated users who have saved application, but not returned to it
 -  then more Veterans will complete the health care application online.
 
