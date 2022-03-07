@@ -56,7 +56,7 @@ The following are the [OCTO-DE goals](https://github.com/department-of-veterans-
 
 Fulfills [issue #2552](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2552)
 
-The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. See [VA Mobile App: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) for a high level summary of the entire 3-phase process.
+The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible. See [VA Mobile App: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) for a high level summary of the entire 3-phase process.
 
 Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort**) is to:
 * **understand how users think about the current and possible future content** in the VA mobile app 
