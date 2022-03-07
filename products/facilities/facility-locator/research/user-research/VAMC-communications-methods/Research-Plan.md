@@ -83,7 +83,7 @@ This is a list of the research methods this study will utilize, along with a des
 	- A tree test using system-level health care links/headings
 	- A tree test using facility-level health care links/headings
 - Goals
-	- Give us data on where Veterans feel communiction methods should be located VAMC pages, based on side navigation links, and page headings.
+	- Gives us specific data on where Veterans feel communiction methods should be located on VAMC pages, based on side navigation links, and page headings.
 
 **4) Contexual inquiry**
 - Method
