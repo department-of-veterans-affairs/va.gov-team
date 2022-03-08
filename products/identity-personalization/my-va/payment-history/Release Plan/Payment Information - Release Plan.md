@@ -6,22 +6,33 @@
 ### Planning:
 - **UAT Go/No go:** Week of 3/23
 - Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/UAT%20Go-No%20Go.md)
-- **Desired date range or test duration:** Sprint 70 (3/23 - 4/5)
-- **Desired number of users:** recruiting 12 participants with a target of completeing 6 sessions
-- **How you'll recruit the right production test users:** We will recruit users via Perigean.
-- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
+- **Desired date range or test duration:**
+     - Sprint 70 (3/23 - 4/5)
+- **Desired number of users:** 
+     - recruiting 12 participants with a target of completeing 6 sessions
+- **How you'll recruit the right production test users:** 
+     - We will recruit users via Perigean.
+- **How you'll conduct the testing:** 
+     - We will conduct UAT over Zoom to ensure the different features work correctly.
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
+     - The feature will be behind a feature flag.
 - **Link to Research plan for UAT**: 
    - [Research Plan for Benefit payments and debts UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-research-plan.md)
    - [Conversation Guide: Benefit payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md)
 
 ### Results:
 - **Number of users:**
-- **Number of bugs identified / fixed:** 
+     - ...
+- **Number of bugs identified / fixed:**
+     - ...
 - **Was the data submitted (if any) easy for VA to process?:** 
+     - ...
 - **Types of errors logged:**
+     - ...
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
+     - ...
 - **If yes, what:** 
+     - ...
 
 ## Phase II: Staged Rollout
 
@@ -30,8 +41,10 @@
      - [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Benefit%20payments%20and%20debts%20-%20Launch%20Go-No%20Go.md)
 
 **Desired date range:** 04/06/2022 - 04/30/2022
-- **How will you make the product available in production while limiting the number of users who can find/access it:** The feature will be behind a feature flag.
-- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** [Payment Information - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+- **How will you make the product available in production while limiting the number of users who can find/access it:** 
+     - The feature will be behind a feature flag.
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+     - [Payment Information - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 - Links to dashboard(s) showing "success criteria" metrics: 
   - [GA dashboard link]
   - [Top events: My VA page]
@@ -75,25 +88,33 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |Search rank for "direct deposit”| #7, #17|TBD|TBD|
 
 ### 1-week results:
-- Number of unique users: 
-- Any issues with VA handling/processing?
-- Types of errors logged: 
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
-- If yes, what: 
+- **Number of unique users:**
+     - 
+- **Any issues with VA handling/processing?**
+     - 
+- **Types of errors logged:**
+     - 
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
+     - 
+- **If yes, what:** 
 
 ### 1-month results:
-- Number of unique users: 
-- Any issues with VA handling/processing?
-- Types of errors logged: 
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
-- If yes, what: 
+- **Number of unique users:**
+     - 
+- **Any issues with VA handling/processing?**
+     - 
+- **Types of errors logged:**
+     - 
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
+     - 
+- **If yes, what:** 
 
 ## Post-launch Questions 
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-1. Which of the assumptions you listed in your product outline were/were not validated? 
-1. How might your product evolve now or in the future based on these results?
+2. What qualitative feedback have you gathered from users or other stakeholders, if any?
+3. Which of the assumptions you listed in your product outline were/were not validated? 
+4. How might your product evolve now or in the future based on these results?
 
