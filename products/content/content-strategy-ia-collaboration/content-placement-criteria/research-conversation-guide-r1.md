@@ -85,9 +85,9 @@ How many pages were you able to get through?
 
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
-Before we go, please send me your spreadsheets
+Before we go, please send me your spreadsheet if you haven't already.
 
 Thank you all so much for participating in this activity with us today! Enjoy the rest of your day!
 
