@@ -15,9 +15,14 @@ Vet Center pages were created to establish web presence for this group of underu
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632) 
 
 ## Vet Center pages product approach 
+Vet Center pages were intentionally designed to be lean, meeting the minimum needs expressed by Veterans (the location, hours and other details needed to visit along with information about services), based on
+- lessons learned from the VAMC modernized page roll-outs
+- input from MVP group of Vet Center editors and RCS leadership
+- fact that these pages establish online presence for the first timne (rather than replacing any existing pages)
+Once the roll-out is complete, we plan to re-evaluate additional features and will highly conisder making a set of features "optionsal"/"a la carte" for Vet Centers are interested and feel equipped to tackle additional areas. 
 
 ## Vet Center pages product roadmap
-Brief plain-language description of this product’s history and next steps
+
 
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
@@ -25,3 +30,21 @@ Brief plain-language description of this product’s history and next steps
 ### Now
 ### Next 
 ### Later
+
+## Artifacts
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/product)
+- [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
+- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
+- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/research/README.md)
+- Results from Vet Center surveys from [October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20October%202021%20(1).pptx) and [January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20January%202022.pptx)
+
+## Github labels
+The following Github labels were used for Vet Center issues
+
+#vsa-facilities and
+
+#frontend
+#front-end-vet-center
+#vet-center
+#backend
