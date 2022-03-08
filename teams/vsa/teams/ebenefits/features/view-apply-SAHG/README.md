@@ -71,7 +71,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- This will present as a straightforward migration to VA.gov but curerntly uses an iframe within EBN that will need t obe integrated into an API for the downstream system (SASHA) to accept.
+- More details in the /research-design/ folder
 
 ## Solution Approach
 
