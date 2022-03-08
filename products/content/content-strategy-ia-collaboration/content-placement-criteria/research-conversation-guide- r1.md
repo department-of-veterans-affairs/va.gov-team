@@ -57,7 +57,7 @@ The spreadsheet will be your working document and where you will indicate your d
 
 
 
-## Breakout for activity: 30-35 minutes
+## Breakout for activity: 30-40 minutes
 
 During activity:
 - set up DM for team to send spreadsheets to us at end of activity
@@ -68,7 +68,7 @@ During activity:
 [Have them send spreadsheets via DM]
 
 
-## Post-activity discussion - 30 minutes
+## Post-activity discussion - 30-40 minutes
 
 
 How many pages were you able to get through?
