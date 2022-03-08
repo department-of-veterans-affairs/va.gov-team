@@ -87,7 +87,6 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 Contexual inquiry will utilize a Mural board with distinct sections.
 
 - Method
-	- Asking contexual questions during usability testing and tree testing about communication labels, page headings, general expectations and feedback about VAMC pages.
 	- Asking specific questions about existing labels, based on micro-scenarios.
 	- Asking specific questions about which communication method Veterans would use for a given micro-scenario.
 - Goals
