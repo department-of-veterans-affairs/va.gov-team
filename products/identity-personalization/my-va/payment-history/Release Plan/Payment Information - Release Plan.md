@@ -1,130 +1,87 @@
 # Benefit payments and debts Release Plan
 
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: UAT
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration: Sprint 70 (3/23 - 4/5)
+- Desired number of users: recruiting 12 participants with a target of completeing 6 sessions
+- How you'll recruit the right production test users: We will recruit users via Perigean.
+- How you'll conduct the testing: We will conduct UAT over Zoom to ensure the different features work correctly.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: The feature will be behind a feature flag.
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of users: 
+- Number of bugs identified / fixed: 
+- Was the data submitted (if any) easy for VA to process?: 
+- Types of errors logged: 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?  
+- If yes, what: 
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
-
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-Other exceptions to this requirement can be approved by DEPO VSP leads.
+## Phase II: Staged Rollout
 
 ### Planning
+**Launch Go/No go:** Week of 4/6 
+- Hold go/no-go ([Ticket #)]
+- [Readiness checklist]
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+**Desired date range:** 04/06/2022 - 04/30/2022
+- How will you make the product available in production while limiting the number of users who can find/access it: The feature will be behind a feature flag.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: [Payment Information - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+- Links to dashboard(s) showing "success criteria" metrics: 
+  - [GA dashboard link]
+  - [Top events: My VA page]
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
-### Stage A: Canary
-
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
-#### Planning
-
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-### Stage B: moderate
-
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
+**Phased rollout:** 
+- 25% of users (1 week), Dates: week of XX/XX ([Ticket #)]
+- 50% of users (1 week), Dates: week of XX/XX ([Ticket #)]
+- If all goes well, then go to 100% of users: week of XX/XX ([Ticket #)]
 
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Desired date: 4/06/22
+
+**Key result**: Increase overall clicks into payment history and debt information by 10%.
+
+|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1| Post-launch: Month 1|
+|----------|-------------|---------------|-------------------|
+|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil (visits to the url)|TBD|TBD|
+|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
+|Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
+|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
+
+**Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
+
+[My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+
+|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1| Post-launch: Month 1|
+|----------|-------------|---------------|-------------------|
+|Search rank for "payment” or "payment history" from My VA| #1, #10, #11|TBD|TBD|
+|Search rank for "debt” or "debt management" from My VA| #3, #20|TBD|TBD|
+|Search rank for "direct deposit” from My VA| #2, #6|TBD|TBD|
+
+This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
+
+|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1| Post-launch: Month 1|
+|----------|-------------|---------------|-------------------|
+|Search rank for "payment” or "payment history"| #6|TBD|TBD|
+|Search rank for "debt” or "debt management"| #23|TBD|TBD|
+|Search rank for "direct deposit”| #7, #17|TBD|TBD|
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: 
+- Any issues with VA handling/processing?
+- Types of errors logged: 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
+- If yes, what: 
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: 
+- Any issues with VA handling/processing?
+- Types of errors logged: 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
+- If yes, what: 
 
 ## Post-launch Questions 
 
