@@ -4,30 +4,32 @@
 ## Phase I: UAT
 
 ### Planning:
-- Desired date range or test duration: Sprint 70 (3/23 - 4/5)
-- Desired number of users: recruiting 12 participants with a target of completeing 6 sessions
-- How you'll recruit the right production test users: We will recruit users via Perigean.
-- How you'll conduct the testing: We will conduct UAT over Zoom to ensure the different features work correctly.
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: The feature will be behind a feature flag.
+- **UAT Go/No go:** Week of 10/18
+- Link to [readiness checklist]
+- **Desired date range or test duration:** Sprint 70 (3/23 - 4/5)
+- **Desired number of users:** recruiting 12 participants with a target of completeing 6 sessions
+- **How you'll recruit the right production test users:** We will recruit users via Perigean.
+- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
 
 ### Results:
-- Number of users: 
-- Number of bugs identified / fixed: 
-- Was the data submitted (if any) easy for VA to process?: 
-- Types of errors logged: 
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?  
-- If yes, what: 
+- **Number of users: 
+- **Number of bugs identified / fixed:** 
+- **Was the data submitted (if any) easy for VA to process?:** 
+- **Types of errors logged:**
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
+- **If yes, what:** 
 
 ## Phase II: Staged Rollout
 
 ### Planning
-**Launch Go/No go:** Week of 4/6 
-- Hold go/no-go ([Ticket #)]
-- [Readiness checklist]
+**Launch Go/No go:** Week of 4/6
+     - [Launch go/no go results - Ticket #]
+     - [Readiness checklist]
 
 **Desired date range:** 04/06/2022 - 04/30/2022
-- How will you make the product available in production while limiting the number of users who can find/access it: The feature will be behind a feature flag.
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: [Payment Information - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+- **How will you make the product available in production while limiting the number of users who can find/access it:** The feature will be behind a feature flag.
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** [Payment Information - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 - Links to dashboard(s) showing "success criteria" metrics: 
   - [GA dashboard link]
   - [Top events: My VA page]
@@ -40,7 +42,8 @@
 ## Go Live!
 
 ### Planning:
-- Desired date: 4/06/22
+- **Desired date:** 4/06/22
+- **Actual date:**
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
