@@ -30,8 +30,9 @@ Thank you note takers! Here's a breakdown of what we're hoping to highlight in t
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Make sure task-flow site links are ready to share
+- [ ] Have Optimal Workshop links ready to share
+- [ ] Make sure Mural data has been recorded, and that Mural is reset for each participant
 
 ## Intro - 5 minutes
 
@@ -41,7 +42,9 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **During this session, you may need to share your screen.** Are you comfortable sharing your screen?
+    - **Yes:** Ok, please make sure no personal information like email, etc. is visible on your screen before you share.
+    - **No:** Ok no problem, for our tasks today I will share my screen and you can walk me through your process - I will explain again before we start.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -52,9 +55,8 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-[IN PROGRESS]
-
 1) Can you tell me a little bit about how you communicate with your health care team: what methods have you used?
+    - **If none:** How would you prefer to communicate with your health care people?
 2) Do you have a preferred method of contacting VA facilities or health care personell?
     - **If yes:**
         - Why do you prefer that one?
@@ -62,22 +64,30 @@ Before we start, a few things I want to mention:
     - **If no:**
         - Is there a method that you would prefer, that we don't have?
 3) What has your experience using these communication methods been like?
-    -**Follow up:** To you, what does a method of communication need in order to be a good one?
+    -**Follow up:** How would you describe a good communication method - what makes it a good one for you?
 
 ## Task 1: Usability testing - 20 minutes
 
+**Task description:**
+- For this task, we will start on a VA.gov page, and then from that page, I will ask you to navigate your way to a particular goal, however you choose.
+
+**Begin:**
 [Ex: "You want to send a message to your doctor. Starting on X page, how would you find a way to do that?"]
 
-1) Task flow from VA.gov
-3) Task flow from system-level health care page
-4) Task flow from facility-level health care page
+1) Task flow from [VA.gov](https://www.va.gov/)
+    - Starting form the VA.gov page, let's say you want to find the phone number of the VA health facility that is closest to you - thinking out loud, can you walk me through how you might do this?
+2) Task flow from [system-level health care page](https://www.va.gov/pittsburgh-health-care/)
+    - For the next page, we will use Pittsburgh health care as an example.
+    - Starting from the Pittsburgh health system page, let's say you want to see a list of all communication options available to you. How might you do that?
+4) Task flow from [facility-level health care page](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/)
+    - Finally, starting on another Pittsburgh health care page, let's say you want to send a secure message to your doctor or health care team. How might you do this?
 
-**Moderator notes:**
+**[Moderator notes:]**
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- Try to get the participant to think out loud.
+- Remind them they can leave the page to go elsewhere, if they feel they need to.
+- If they get stuck, what did they expect to find wherever they ended up?
+- Resetting to the start page once is fine, but if they get stuck that's part of the findings.
 
 ## Task 2: Tree test - 15 minutes
 
