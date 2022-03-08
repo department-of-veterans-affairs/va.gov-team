@@ -35,6 +35,7 @@ Please provide the following information about the individual being offboarded:
 *Performed by Platform team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/2097545323/Offboard+Team+Member)*
  - [ ] DSVA Slack (if applicable. Search for them in Slack)
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
+ - [ ] Remove from Confluence (if applicable) 
  - [ ] Remove from [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0) (if applicable)
  - [ ] Remove from global/config.yml / SOCKS Access removed (if applicable. Search their email in [config.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml))
    > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to create a PR to update the `global/config.yml` file and remove the public SSH key. You'll need the user's email address associated with their public key.
@@ -53,4 +54,4 @@ Please provide the following information about the individual being offboarded:
    
    > Documentation for this process can be found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members)
 
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-analytics-insights
+ CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-analytics-insights , @department-of-veterans-affairs/confluence-admins
