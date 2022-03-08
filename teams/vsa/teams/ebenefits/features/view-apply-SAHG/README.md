@@ -12,13 +12,13 @@ Veterans with special needs around the home can submit this form and get grant m
 - A Veteran should be able to come through and quickly and easily submit this form to be deemed eligible for money via grants.
 
 ## Undesired User Outcomes
-- Decreased conversion and exposure to the Veteran population.
+- FAiled submissions or lack of communications on activities or status
 
 ## Desired Business Outcomes
 - Increased conversion and exposure to the Veteran population.
 
 ## Undesired Business Outcomes
-
+- Decreased conversion and exposure to the Veteran population.
 
 ---
 ## Measuring Success
