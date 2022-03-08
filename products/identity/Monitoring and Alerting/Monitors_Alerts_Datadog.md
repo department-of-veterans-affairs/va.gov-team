@@ -280,6 +280,56 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
   - ## Outbound
 
+    - ### **Identity - Staging Outbound logingov IAL1**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/pmt-pk5-b9b) monitors logingov login on staging. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound logingov IAL2**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/gut-wmw-x2f) monitors logingov login on staging. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound Verify Route Test IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/csg-vf6-srb) monitors IDme verify route on staging. If this alert fires it either indicates that the elements for the buttons have changed or the route for IDme verify has been inadvertly been modified. This type of change could end up impacting veterans ability to upgrade their idme account if it were to propogate to production.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/j35-a9i-7zc) monitors IDme login on staging. If this alert fires it indicates there is an issue with the IDme CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound DSLogon**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/d8r-7gc-6xn) monitors dslogon authentication on staging outbound. If this alert is firing it could be an indicator that the staging dslogon credential service is having an issue. The other two potential issues are that accessva is down or va.gov has been modified at the source code level. 
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
     - ### **Identity - Staging ISAM Metadata Changed**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/7tu-icm-hfr) specifically looks for changes to the ISAM staging metadata file located [here](https://sqa.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_sqa_metadata_isam.xml).
@@ -342,6 +392,26 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Severity:**</ins> severity here.
 
   - ## Outbound
+
+    - ### **Identity - Dev Outbound IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/td2-4bu-h7x) monitors IDme login on dev. If this alert fires it indicates there is an issue with the IDme CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in dev is going to propagate to production during the next deploy.
+
+    - ### **Identity - Dev Outbound Verify Route Test IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/i5h-f4z-e84) monitors IDme verify route on dev. If this alert fires it either indicates that the elements for the buttons have changed or the route for IDme verify has been inadvertly been modified. This type of change likely impacts veterans ability to upgrade their idme account.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in dev is going to propagate to production during the next deploy.
 
     - ### **Identity - Dev ISAM Metadata Changed**
 
