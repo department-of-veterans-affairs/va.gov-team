@@ -132,10 +132,12 @@ Let’s start with a question...
 
     - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
-- *(only for sighted participants)* Say that while you were at VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+### For sighted participants
+- Say that while you were at VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
-- *(only for sighted participants on desktop)* Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
+### For sighted participants on desktop
+- Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
     - What are your initial impressions?
     - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
     - *(Pause to allow as much time as the participant wants to read/process the poster)*
@@ -143,9 +145,16 @@ Let’s start with a question...
       - *(call 911 / call 800 # / talk to patient advocate / police / building security / ____________)*
     - What other thoughts do you have about this poster?
    
-- *(only for participants using screen readers)* Say that while you were at VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
+### For participants using a screen reader
+- Say that while you were at VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
-
+- What assistive technology are you using today?
+- How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
+- How long have you been using a screen reader?
+- Are you wearing headphones today?
+  - *(if on desktop)* Could you please share your audio with me on Zoom?
+  - *(if on mobile)* Would it be possible for you to take them off and use your computer or mobile audio? 
+  - I'm asking so I will be able to hear your screen reader during the session.
 
 ## Start screen sharing
 I'm going to share with you a web page that may not function the way you expect. Some parts of the page will work, and some will not. 
