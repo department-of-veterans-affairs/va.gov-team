@@ -25,9 +25,9 @@
 | Orientation for VRE CH31                            | vsa-ebenefits | **(COMPELETE)**         | N/A        | -- | -- | New VRE business requirement as of Q4
 | Update Direct Deposit (EDU)                         | vsa-authd-exp | **(COMPELETE)**  | N/A | -- | -- | BGS Integration, new research
 | View My Documents                                   | vsa-bam-2     | In discovery        | --        | --        | -- | Partially complete in Claim Status Tool, requires research on deltas
-| View POA (Representative)                           | vsa-ebenefits | In dev        | --        | -- | -- | Lighthouse integration (BGS)
-| Search for POA                                      | vsa-ebenefits | In dev        | --        | -- | -- | Lighthouse integration (BGS)
-| Modify POA (22/ 22a)                                | vsa-ebenefits | In dev        | --        | -- | -- | Lighthouse integration (BGS)
+| View POA (Representative)                           | vsa-ebenefits | In dev        | --        | [Transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md) | -- | Lighthouse integration (BGS)
+| Search for POA                                      | vsa-ebenefits | In dev        | --        | [Transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md) | -- | Lighthouse integration (BGS)
+| Modify POA (22/ 22a)                                | vsa-ebenefits | In dev        | --        | [Transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md) | -- | Lighthouse integration (BGS)
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | **(COMPELETE 07202020)**        | Redirected        | --        | --        | --
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | **(COMPELETE 07202020)**        | not yet redirected        | --        | --        | Deprecated with launch of Hearing Aids
 | Calculate Home Loan Benefit                         | vsa-ebenefits | Not started | -- | -- | -- | Requires Discovery, possible new LGY integration required
