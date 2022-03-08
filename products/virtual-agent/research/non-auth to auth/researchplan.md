@@ -57,6 +57,11 @@ Online, Perigean Zoom.
 4. What will you be testing? 
 We will be testing:
 Prototypes/ Tasks:
+
+  i. current home page, contact us page and virtual agent page
+   How would the user find different contact options?
+   Where would they expect the chatbot?
+
   a. User asks authenticated question
  can they authenticate? Is it clear?
  Is the feedback after authentication enough? (Start conversation from star- no context retention)
