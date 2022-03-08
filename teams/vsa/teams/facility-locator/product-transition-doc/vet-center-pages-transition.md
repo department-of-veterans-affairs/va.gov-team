@@ -38,12 +38,10 @@ Once the roll-out is complete, we plan to re-evaluate additional features and wi
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/research/README.md)
 - Results from Vet Center surveys from [October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20October%202021%20(1).pptx) and [January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20January%202022.pptx)
-
-VA network links
-- [Vet Center content workbook] (
-- [Vet Center website development status page]
-- [Vet Center status spreadsheet used for redirect tracking] 
-
+- [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) (_VA network link_)
+- [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) (_VA network link_)
+- [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) (_VA network link_)
+- [ Vet Center runbok](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B7F0BB876-FE89-47E9-805D-26A0C646C446%7D&file=Vet%20Center%20runbook.xlsx&action=default&mobileredirect=true) (_VA network link_)
 ## Github labels
 The following Github labels were used for Vet Center issues
 
