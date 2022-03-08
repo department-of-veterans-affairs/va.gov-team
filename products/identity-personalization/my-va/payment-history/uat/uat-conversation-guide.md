@@ -29,9 +29,9 @@ Before we start, a few things I want to mention:
 
 3. Do you know your username and password?
 	* If not: Are these readily accessible? Could get them?
-	* If the user can not remember or retrieve their login credentials, **end the session.**
-4. Today we are going to observe you interacting with the new feature on your computer. Would you feel comfortable sharing your screen with me at this time?
-	* If no: Explain this is necessary for testing. If they are still unwilling, **end the call.**
+	* If the user can not remember or retrieve their login credentials, **end the session.** Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
+4. Today we are going to observe you interacting with the new feature on your computer. Would you feel comfortable sharing your screen with me at this time? You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop.
+	* If no: Explain this is necessary for testing. If they are still unwilling, **end the call.** I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 	
 Great! Thanks for confirming all of that. Let’s move on to the website.
 
@@ -44,18 +44,18 @@ Once you are logged in, click on My VA. Let’s review the payment feature. Take
 
 Does everything related to your payment look right to you?
 
-- [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
-- [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
+- [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
+- [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session** I see that the system is unable to match your records. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 - [ ] **UAT TASK:** Confirm the payment section is showing
 - [ ] **UAT TASK**: Confirm payment card accurately reflects data or “You haven’t received a payment in the last 30 days” message is displaying.
-- [ ] **Usability**: Do screen magnification users struggle with anything here?
-- [ ] **Usability**: Anything confusing here?
+- [ ] **Usability**: Do screen magnification users struggle with anything here? Observe if they're able to easily find the recent payment info and view all information about it at once.
+- [ ] **Usability**: What, if anything, do you find confusing about your payment?
 
 
 ## 2. Confirm  debt feature - 5-7 minutes
 Does everything related to your debt look right to you?
 What are your thoughts on the debt information shown here?
-*If user has debt, and they don’t mention, ask:* How meaningful is it to see the total number of debts?
+*If user has debt, and they don’t mention, ask:* How useful or not useful do you find it to see the total number of debts? If they say useful: Is this information important to you, or just nice to have?
 
 - [ ] **UAT TASK**: Confirm debt alert reflects accurate count or “Your total VA debt balance is $0” message is displaying.
 - [ ] **Usability**: Do participants who actually have debt find the debt information helpful, particularly the number of outstanding debts?
@@ -69,10 +69,13 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 - [ ]  **UAT TASK**: Confirm Learn more about VA debt link is showing only for users who do not have outstanding debt.
 - [ ] **UAT TASK**: Confirm View payment history link is showing in the list of links with icons for users who do not have a recent payment
 - [ ] **UAT TASK**: Confirm links are behaving as expected
-- [ ] **Usability**:  How easy is it for magnification users to use the links?
+- [ ] **Usability**:  How easy is it for magnification users to use the links? Observe if they struggle to find the links on the right column of the page.
+
+## Copay question - 2 minutes
+Thank you so much! That was everything on the page I wanted to try out with you today. I have one final question we're looking to get some feedback on for a future feature. If you were trying to find information about an outstanding copay, where do you think that would be on this page?
 
 ## Post-Task Interview - 5 minutes
-Thank you so much! That was everything I wanted to try out with you today. This has been really helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
+Thank you so much! That concludes our session for today. This has been so helpful for our team. Do you have any feedback on what we looked at in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
 Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day! 
