@@ -2,7 +2,8 @@
 ## Product: VAMC pages
 ### Initiative: Lovell Federal health care
 
-Table of contents
+## Table of contents
+
 [Background](#background)
 
 [Problem statement](#problem-statement)
