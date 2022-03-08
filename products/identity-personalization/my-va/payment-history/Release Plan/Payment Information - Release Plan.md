@@ -16,7 +16,7 @@
    - [Conversation Guide: Benefit payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md)
 
 ### Results:
-- **Number of users: 
+- **Number of users:**
 - **Number of bugs identified / fixed:** 
 - **Was the data submitted (if any) easy for VA to process?:** 
 - **Types of errors logged:**
