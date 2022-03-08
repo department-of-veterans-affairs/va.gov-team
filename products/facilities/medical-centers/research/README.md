@@ -6,6 +6,8 @@
 |	VAMC VHA Mobile Redesign |	July 2021	| To better understand Mobile health clinics so that we can accurately represent the location and services and prepare Veterans to visit  |	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery)
 |	VAMC Community Living Centers |	July 2021	|	To better understand these facilities so that we can accurately represent the location and services and prepare Veterans to visit |	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers/discovery)
 |	VAMC Domiciliary |	July 2021	| To better understand these facilities so that we can accurately represent the location and services and prepare Veterans to visit|[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries/discovery)
+|	Non-clinical Services taxonomy	|	Jan 2022	|	To validate existing services categorization, as well validate potential new services (tasks, rather, as opposed to official VHA services) identified in previous services taxonomy audits.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md)	|
+
 
 See also: 
 
