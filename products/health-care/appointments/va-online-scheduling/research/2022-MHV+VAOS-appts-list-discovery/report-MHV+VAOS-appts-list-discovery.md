@@ -249,7 +249,6 @@ Based on this (and previous) research, we believe the following information woul
 **What's it for?**
 
      ⏺ Type of care
-     ⏺ Provider name
      ❌ If labs are needed
 
 **How will I attend?**
@@ -261,6 +260,7 @@ Based on this (and previous) research, we believe the following information woul
 In-person: 
 
      ⏺ Medical center or facility name
+     ⏺ Provider name
      ❌ Check-in clinic name
      ❌ Building name or number 
      ❌ Room number  
@@ -268,6 +268,7 @@ In-person:
 Video appointment that a Veteran attends at a VA facility: 
 
      ⏺ Medical center or facility name
+     ⏺ Provider name
      ❌ Check-in clinic name
      ❌ Building name or number 
      ❌ Room number  
@@ -302,7 +303,7 @@ Note: VAOS defines the data, or content displayed for these data points:
 * A summary of how to join
 
 
-### Build on the proposed desktop and print layout
+### Build on the proposed concept
 
 Participants responded well to the new concept. Given that, we feel comfortable using that as a basis for our next iteration and running a usability test on the result.
 
