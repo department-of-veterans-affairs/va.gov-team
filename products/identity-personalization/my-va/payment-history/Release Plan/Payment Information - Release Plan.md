@@ -11,6 +11,9 @@
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
+- **Link to Research plan for UAT**: 
+   - [Research Plan for Benefit payments and debts UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-research-plan.md)
+   - [Conversation Guide: Benefit payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md)
 
 ### Results:
 - **Number of users: 
