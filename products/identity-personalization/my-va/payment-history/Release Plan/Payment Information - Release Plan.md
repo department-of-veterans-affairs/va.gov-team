@@ -45,6 +45,8 @@
      - The feature will be behind a feature flag.
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
      - [Payment Information - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+     - Link clickthroughs are successfully directing users to the intended page with no errors originating from My VA
+     - Zero load failures for those users with a payment history
 - Links to dashboard(s) showing "success criteria" metrics: 
   - [GA dashboard link]
   - [Top events: My VA page]
