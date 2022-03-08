@@ -12,7 +12,7 @@
 
 ## Questions we need answered
 - Is there additional paperwork? What would it take to get Tom up and running as soon as possible?
-	- Jeff - Jeff Pedolic & Danny instructed them to cancel the request and stop work
+	- Jeff - Jeff Podolec & Danny instructed them to cancel the request and stop work
 	- They don't have a blessed requirements document at this point
 	- Would need to open a new service request and get that approved so they can officially assign resources - assuming it would be Jeff & Linda again - contractual requirement
 	- Jeff K has not seen any comment from Danny & Jeff P instructing them to move forward with this again
