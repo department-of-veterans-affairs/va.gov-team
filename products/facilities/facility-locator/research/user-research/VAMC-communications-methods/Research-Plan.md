@@ -1,5 +1,3 @@
-[IN PROGRESS]
-
 # VAMC Communication Methods - Research Plan
 
 ## Background
