@@ -547,5 +547,4 @@ Marci, talk to Liz about exactly which interviews she thinks she'll complete thi
 
 **FE**
 
-- Update prescriptions notification show it conditionally shows to additional facilities
-  -  Paras will provide list 
+- Update prescriptions notification show it conditionally shows to additional facilities #38187
