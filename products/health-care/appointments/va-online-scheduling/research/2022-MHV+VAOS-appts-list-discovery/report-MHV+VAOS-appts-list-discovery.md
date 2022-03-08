@@ -88,9 +88,9 @@ Aside from those points, participants were generally able to understand and use 
 
 ## What will be confusing when transitioning from the MHV appointments list to VAOS?
 
-### Most participants were confused that there are two different sites that list their appointments
+### Participants were most confused that two different sites list their appointments
 
-When asked about the most confusing aspect of all appointment lists they saw (MHV, VAOS, and the concept), 6/9 participants said it was that there were two sites that do the same thing but require an additional login.
+6/9 participants said the most confusing aspect of everything we showed them was that MHV and VAOS do the same thing but require an additional login.
 
 > "I hate that when I clicked on schedule an appointment, I must go to another site to log back in. It should be on one page." - P6
 
@@ -117,13 +117,13 @@ Participants indicated that these needs could also be met by providing "type of 
 
 ### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
 
-When Veterans click the option to schedule an appointment in MHV, a screen asks Veterans to choose a facility from all of those where they are registered. This is intended to direct Veterans scheduling at non-VAOS facilities to the appropriate scheduling portal.
+When Veterans click the option to schedule an appointment in MHV, a screen asks Veterans to choose a facility from all of those where they are registered. This directs Veterans who can schedule at non-VAOS facilities to the appropriate scheduling portal.
 
-These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. The VAOS and Profile teams explored this issue in depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
+These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. The VAOS and Profile teams explored this issue in-depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
 
 <kbd><img width="600" style="border:1px solid #ccc;" alt="A list of VA facilities with an option to schedule at each one" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png"></kbd>
 
-*MHV's list of scheduling options.*
+*MyHealtheVet's list of scheduling options.*
 
 > "I wish they would remove the old clinics that I no longer go to off this list." - P5
 
@@ -160,7 +160,7 @@ See also:
 
 ### Participants wanted to easily understand how and where they would attend their appointments
 
-Information about how they would attend, whether in person or telehealth was the strongest request. 4/9 participants asked for clearer information about whether the appointment is in person, over the phone, or over video, and 8/9 had a strong positive reaction when they saw this information in the concept.
+Information about how they would attend, whether in person or over telehealth was the strongest request. 4/9 participants asked for clearer information about whether the appointment is in person, over the phone, or via video, and 8/9 had a strong positive reaction when they saw this information in the concept.
 
 Along with modality, the top requests for finding appointments were:
 * 6/9 Provider name
@@ -171,7 +171,7 @@ Along with modality, the top requests for finding appointments were:
 
 For video appointments, 4/9 wanted to see a link to log in to the appointment.
 
-<sup>1</sup> Participants indicated that they would use the name to determine both what the appointment was for, and to find their way to the appointment.
+<sup>1</sup> Participants indicated that they would use the name to determine both what the appointment was for, and how to find their way to the appointment.
 
 Additionally, 2/9 wanted to see instructions about how to check-in, or what to bring to the appointment.
 
@@ -199,11 +199,11 @@ Additionally, 5/9 said the direct extension to the clinic would be helpful, so t
 
 ### Almost all participants responded positively to the proposed concept
 
-8/9 participants had a strong positive reaction when asked for their first impressions of the concept. They were especially happy to be able to clearly see the modality of the appointment.
+8/9 participants had a strong positive reaction when asked for their first impressions of the concept. They were especially happy to be able to see the modality of every appointment.
 
 Participants also had positive reactions to the information layout, and the minimal content on the page.
 
-> First thing I see are the icons to connect by video, phone, office visit. I like the fact that the icons jump right out at you. - P1
+> "First thing I see are the icons to connect by video, phone, office visit. I like the fact that the icons jump right out at you." - P1
 
 > "This looks great, a grid, like the MyHealtheVet list" - P5
 
@@ -215,11 +215,11 @@ Participants also had positive reactions to the information layout, and the mini
 
 It wasn't clear how many of our participants were familiar with the concept of appointment requests, but we heard that at least some were not.
 
-Additionally, this may have been due to an error in the concept. The upcoming appointments were actually dated as if they had occurred in the past, so some participants thought "Pending" indicated their upcoming appointments.
+Additionally, this may have been due to an error in the concept. The upcoming appointments were dated as if they had occurred in the past, so some participants thought "Pending" indicated their upcoming appointments.
 
 > "Pending - what does pending mean?" - P2
 
-> "I am not sure what pending could be, unless it is an appointment you have tried to make, and you are waiting for the clerk to approve your appointment." - P10
+> "I am not sure what pending could be unless it is an appointment you have tried to make, and you are waiting for the clerk to approve your appointment." - P10
 
 See also: findings from the [2021 appointments list research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion)
 
@@ -237,7 +237,7 @@ No participant indicated that they used the list on a daily or weekly basis. The
 
 ### Provide clear information that answers basic questions about appointments in the list
 
-Based on this (and previous) research, we believe the following information would be the ideal summary of a single appointment. Symbols indicate whether VAOS currently has the ability to display data for all appointment types:
+Based on this (and previous) research, we believe the following information would be the ideal summary of a single appointment. Symbols indicate whether VAOS currently can to display data for all appointment types:
 * ✅ Always available
 * ⏺ Sometimes available
 * ❌ Not available
@@ -258,7 +258,7 @@ Based on this (and previous) research, we believe the following information woul
      
 **Where will I attend?**
 
-In person: 
+In-person: 
 
      ⏺ Medical center or facility name
      ❌ Check-in clinic name
@@ -278,18 +278,18 @@ Video appointment that a Veteran attends at an ATLAS location:
      ✅ ATLAS facility address
      ✅ Access code
    
-Video appointment that a veteran logs into via their GFE:
+Video appointment that a veteran logs into via a GFE:
 
-     ✅ Short summary of how to join
+     ✅ Summary of how to join
    
-Video appointment that a veteran logs into via their own device:
+Video appointment that a veteran logs into via a personal device:
    
-     ✅ Short summary of how to join
+     ✅ Summary of how to join
      ✅ Link to join appointment
    
 Phone appointment:
    
-     ✅ Short summary of how to join
+     ✅ Summary of how to join
  
 **Has it been canceled?**
 
@@ -299,7 +299,7 @@ Note: VAOS defines the data, or content displayed for these data points:
 
 * Modality
 * Status showing if canceled
-* Short summary of how to join
+* A summary of how to join
 
 
 ### Build on the proposed desktop and print layout
@@ -352,7 +352,7 @@ Additionally, it may be helpful to use information from the appointment that the
 ## Tools used for Synthesis
 
 * [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1642806238395/f474bb89b28cb3b91472fa62130ee89e720e8cdd?sender=ub08ff1d80ee7bd38d6c02354) for initial capture
-* [Spreadhseet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Participant%20notes%20-%20VAOS%20and%20MHV%20appointments%20list%20discovery.xlsx) for final synthesis 
+* [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Participant%20notes%20-%20VAOS%20and%20MHV%20appointments%20list%20discovery.xlsx) for final synthesis 
 
 
 ## Pages and applications used
@@ -388,14 +388,14 @@ Gender:
 
 LGBTQ+:
 * Transgender: 0 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Nonbinary, gender fluid, genderqueer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
 * Gay, lesbian, or bisexual: 0
 
 
-Devices used during study: 
+Devices used during the study: 
 * Desktop: x 
 * Tablet: x 
-* Smart phone: x 
+* Smartphone: x 
 * Assistive Technology: 0
 
 
@@ -410,7 +410,7 @@ Age:
 Education:
 * High school degree or equivalent: 0
 * Some college (no degree): 1
-* Associate's degree, trade certificate or vocational training: 1
+* Associate's degree, trade certificate, or vocational training: 1
 * Bachelor's degree: 2
 * Master's degree: 3
 * Doctorate degree: 2
@@ -435,7 +435,7 @@ Race:
 Disability and Assistive Technology (AT):
 No participant joined using Assistive Technology
 
-## Underserved groups we haven’t talked to 
+## Underserved groups who we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
