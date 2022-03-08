@@ -1,11 +1,11 @@
-Questions for MHV Coordinators
+# Questions for MHV Coordinators
 - Is there any data available on top tasks / issues that Veterans ask about?
 - Do you help Veterans with health care tasks that don't happen on My HealtheVet? (Examples: appointments, apply for health care, pay copay bills, get travel pay).
 - Which tasks do Veterans ask for help with most often?
 - Roughly what's the percentage of Veterans who are comfortable doing things online?
-- For the Veterans you help, what's the breakdown of: 
--- Veterans who already have a My HealtheVet account versus don't have one
--- Veterans who already have VA health care versus don't have VA health care 
+- For the Veterans you help, what's the breakdown of these? 
+  - Veterans who already have a My HealtheVet account versus don't have one
+  - Veterans who already have VA health care versus don't have VA health care 
 
 Questions for Veterans when shadowing an MHV Coordinator 
 - Do you use My HealtheVet? 
