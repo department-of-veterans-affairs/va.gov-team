@@ -119,7 +119,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ### Team notes
-Charter
+- [Charter. meetings, team notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md)
 
 #### Communications
 
