@@ -4,7 +4,7 @@
 ## Phase I: UAT
 
 ### Planning:
-- **UAT Go/No go:** Week of 10/18
+- **UAT Go/No go:** Week of 3/23
 - Link to [readiness checklist]
 - **Desired date range or test duration:** Sprint 70 (3/23 - 4/5)
 - **Desired number of users:** recruiting 12 participants with a target of completeing 6 sessions
