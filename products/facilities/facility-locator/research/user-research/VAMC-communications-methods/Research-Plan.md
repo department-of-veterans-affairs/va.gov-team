@@ -48,19 +48,19 @@ Currently, not all communication methods available to Veterans are present on ea
 1) Where do Veterans expect to find each of the different methods of communication?
 	- VA Health Chat
 	- Secure messaging
-	- VA health connect
+	- VA health connect (24/7 phone)
 	- VA telehealth
 2) How do Veterans expect communications methods to labeled/described? 
-3) Under what circumstances do Veterans choose a particular communications method?
-4) Which communication methods do Veterans prefer, and how does this impact their elevation/placement on VAMC pages?
+3) Under what circumstances do Veterans choose particular communications methods?
+4) Which communication methods do Veterans prefer overall, and how does this impact their elevation/placement on VAMC pages?
 
 ### Hypotheses
 
 1) Most participants will want to access these methods of communication on facility health care pages.
 2) Most participants will prefer methods of communication *other* than phone numbers.
 3) Most participants will find phone number labeling adequate.
-4) Most participants will prefer at least one page that lists all available communication methods (ie. on the Contact Us page)
-5) Most participants will have similar use cases for particular communication methods (ie. secure messaging for appointments)
+4) Most participants will prefer at least one page that lists all available communication methods (ie. on the Contact Us page).
+5) Most participants will have similar use cases for particular communication methods (ie. secure messaging for appointments).
 
 ## Method	
 
@@ -72,9 +72,9 @@ This usability test will use staging/production sites as appropriate.
 
 - Method
 	- Task flow from specific starting points:
-		- VA.gov
-		- System-level health care page
-		- Facility-level health care page
+		- [VA.gov](https://www.va.gov/)
+		- [System-level health care page](https://www.va.gov/pittsburgh-health-care/)
+		- [Facility-level health care page](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/)
 - Goals
 	- Gives us data on how Veterans search for communication methods on VA.gov, where Veterans generally expect to find this information, and their overall impressions of this experience.
 
@@ -90,7 +90,7 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 
 **4) Contexual inquiry**
 
-Contexual inquiry will utilize a Mural board with distinct sections.
+Contexual inquiry will utilize a [Mural board with sections for different scenarios](https://app.mural.co/t/vsa8243/m/vsa8243/1646769310259/6ca0b11d0a55138780cfc6a03f4da72718e5932e?sender=u8a90be72499ecb4354e14700).
 
 - Method
 	- Asking specific questions about existing labels, based on micro-scenarios.
@@ -106,7 +106,6 @@ Remote usability testing will be conducting via Zoom.
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md)
-- [Link to prototype](url goes here) [TBD - may use staging/production & bespoke tree test/prototype]
 	
 ## Recruitment	
 
@@ -135,32 +134,35 @@ Using Perigean recruiting, we would like to schedule **20 participants** to reac
 
 ## Timeline
 
-[TBD]
-
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+[TBD post contract agreement; likely mid-late April]
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: [TBD]
+* Date and time of pilot session: [TBD]
 
 ### Research sessions
 
-[TBD]
-
-### Length of sessions
-
-Scheduled session should be for **1 hour** with the expectation they take around 45 minutes to complete.
+- Scheduled session should be for **1 hour** with the expectation they take around 45 minutes to complete. 
+- The goal is for two sessions per day, leaving at least **30 minutes** between sessions.
 
 ### Availability
 
-[TBD]
+[TBD post-contract agreement; likely mid-late April]
 
 Date | Time
 -----|-----
-3/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
+4/-/2022 | 0:00 AM - 0:00 PM
 	
 ## Team Roles		
 - Moderator: Nick Osmanski (nick.osmanski@amida.com)
