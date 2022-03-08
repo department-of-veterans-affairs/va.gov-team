@@ -8,14 +8,12 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+## Introduction and exercise instructions - 15 minutes
 
-## Intro - 5 minutes
+### Intro
 
-Thanks for joining us today! Today we're going to talk about placement criteria for benefit content. 
+Thanks for joining us today! Today we're going to do an activity to help evaluate new placement criteria for benefit content. 
 
 Before we start, a few things I want to mention:
 
@@ -28,48 +26,68 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record this session? 
 
-## Introduction to criteria - 15 minutes
 
-Today you will be evaluating a set of criteria intended to provide guidance in determining if content should be placed within the benefit hub area of VA.gov or the Resources and Support section.
+### Exercise set up
 
-*[Share screen with spreadsheet of criteria]
+Today you will be evaluating a set of criteria that are intended to provide guidance in determining if content should be placed within the benefit hub area of VA.gov or the Resources and Support section.
 
-- We are going to provide you with 5 content pages that a VA partner has asked be migrated into the modernized VA.gov experience.  
-- We would like you to look at each page and use the criteria to determine whether that content should be placed in a benefit hub, Resources and Support, or neither. 
+We are going to provide you with 5 content pages that a hypothetical VA partner has asked be migrated into the modernized VA.gov experience.  
+
+We are also going to provide you with a spreadsheet showing a list of new placement criteria.  
+
+Your task is to use the placement criteria to determine whether the content should be placed in a benefit hub or in Resources and Support.
+
+The spreadsheet will be your working document and where you will indicate your decision.  You can also add notes, comments, questions and feedback as you go along. 
+
+**A few notes:**
 - Some of this content may look familiar to you, and we ask that you do not make the determination based on what you know about where it lives today, but instead use the criteria to reach an answer.
-- We then ask you to make notes within the provided spreadsheet to indicate your placement decision. 
-- In the final column of the spreadsheet please enter any feedback, comments or questions that you encountered while using the criteria for this content.  
+- There are no wrong answers, we are evaluating the clarity of the criteria, not your work.
+- You are not required to keep the pages in tact, they can be broken up if you find that some pieces of a page belong in one place, while other pieces belong elsewhere. Indicate that approach as best as you can in the spreadsheet. 
+- You may determine that some content does not belong in either the benefit hub or R&S, indicate that in the spreadsheet as well. 
+- You do not need to rewrite any content, or create a new structure, just provide your high level evaluation of placement.
+- Please work on the pages in order. It is ok if you do not get to all of the pages.
 
 
-### Things to watch for:
+### Logistics
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Breakout for activity: [TASK NAME] - 40 minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- During this exercise, we will keep the zoom call open so you can ask questions about the exercise as needed.  We will not answer questions about the criteria or content. 
+- Everyone should be muted, and you may turn your cameras off while you work. We will turn ours off as well. 
+- You will have around 30 minutes for this activity.  We will check in at 30 minutes, to gauge where everyone is at and allow you to wrap up on your current item.
+- We will bring everyone back on the call at the end of the activity for a group discussion.
 
 
-## Post-activity interview - 30 minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+## Breakout for activity: 30-35 minutes
+
+During activity:
+- set up DM for team to send spreadsheets to us at end of activity
+
+
+## 5 minute break
+
+[Have them send spreadsheets via DM]
+
+
+## Post-activity discussion - 30 minutes
+
+
+How many pages were you able to get through?
+
+- Drop your response in the zoom chat:  On a scale of 1 to 5, 1 being very difficult and 5 being very easy, how easy or difficult were the criteria to understand?
+  - [Discuss the range of responses]
+- What aspects were the most challenging?
+- What, if anything, worked well about the criteria
+- Was there content that was more challenging than others to evaluate? 
+- Was there content that was easier to evaluate?
+- Was there any content that you wanted to split apart? 
+- Was there any content that you felt didn't belong in the benefit hubs or R&S?
+- Drop your response in the zoom chat:  On a scale of 1 to 5, 1 being not helpful and 5 being most helpful, how would you rate the helpfulness of this criteria?
+
+
 
 ## Thank-You and Closing - X minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Before we go, please send me your spreadsheets
 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+Thank you all so much for participating in this activity with us today! Enjoy the rest of your day!
 
