@@ -542,3 +542,10 @@ Marci, talk to Liz about exactly which interviews she thinks she'll complete thi
 **FE**
 
 - Launch to prod after flow is validated by PM/Design
+
+### Notification preferences
+
+**FE**
+
+- Update prescriptions notification show it conditionally shows to additional facilities
+  -  Paras will provide list 
