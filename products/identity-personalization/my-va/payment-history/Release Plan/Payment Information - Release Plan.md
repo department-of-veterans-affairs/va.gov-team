@@ -27,8 +27,7 @@
 
 ### Planning
 **Launch Go/No go:** Week of 4/6
-     - [Launch go/no go results - Ticket #]
-     - [Readiness checklist]
+     - [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Benefit%20payments%20and%20debts%20-%20Launch%20Go-No%20Go.md)
 
 **Desired date range:** 04/06/2022 - 04/30/2022
 - **How will you make the product available in production while limiting the number of users who can find/access it:** The feature will be behind a feature flag.
