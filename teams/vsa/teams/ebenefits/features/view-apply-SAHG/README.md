@@ -72,7 +72,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Assumptions
 - This will present as a straightforward migration to VA.gov but curerntly uses an iframe within EBN that will need t obe integrated into an API for the downstream system (SASHA) to accept.
-- More details in the /research-design/ folder
+- More details in the [/research-design/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG/research-design) folder
 
 ## Solution Approach
 
