@@ -10,7 +10,7 @@
 - Answer: 
 
 **Angela: Are you prepared to run UAT sessions as early as this week from now?**
-- Answer: Yes
+- Answer: 
 
 **Taylor & Angela/Liz: Are all launch-blocking accessibility issues fixed?**
 - Answer: 
