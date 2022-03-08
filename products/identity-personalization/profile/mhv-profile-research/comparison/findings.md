@@ -4,7 +4,7 @@ We evaluated the My HealtheVet (MHV) Personal Information section to compare it 
 
 ## Method
 1. We started with [a Mural board](https://app.mural.co/invitation/mural/vsa8243/1645732777530?sender=lizlantz1528&key=923bca62-d832-4ec4-bbb3-d9382ac47fd4) to get a sense of MHV screen-by-screen, and then did the same with our profile.  
-2. We conducted interviews with the MHV UX and Health Apartment teams to get a better sense of plans for MHV Personal Information, and learn what they know about how people use these pages today.
+2. We conducted interviews with the MHV UX and Health Apartment teams to get a better sense of plans for MHV Personal Information, and learn what they know about how people use these pages today. (notes coming soon)
 3. We created an [excel document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) to capture:
 - whether or not information already lives on VA.gov
 - what the MHV team plans are
