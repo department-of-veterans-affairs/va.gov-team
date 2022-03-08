@@ -39,12 +39,17 @@ Once the roll-out is complete, we plan to re-evaluate additional features and wi
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/research/README.md)
 - Results from Vet Center surveys from [October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20October%202021%20(1).pptx) and [January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20January%202022.pptx)
 
+VA network links
+- [Vet Center content workbook] (
+- [Vet Center website development status page]
+- [Vet Center status spreadsheet used for redirect tracking] 
+
 ## Github labels
 The following Github labels were used for Vet Center issues
 
 #vsa-facilities and
 
-#frontend
-#front-end-vet-center
-#vet-center
-#backend
+- #frontend
+- #front-end-vet-center
+- #vet-center
+- #backend
