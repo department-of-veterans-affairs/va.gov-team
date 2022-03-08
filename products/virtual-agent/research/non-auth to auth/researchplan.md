@@ -14,8 +14,8 @@ What product & team are you doing this research for?
 1. We are releasing an unauthenticated chatbot in Feb 2022 that will act as a new way to access information to the veterans, and an authenticated version in April 2022, that will provide personalization and features to access private information, such as claims and appeals status. 
 2. We need to test the flow from non authenticated to authentication, as well as gathering feedback from the current live version.
  
-### Research questions: 
-## What question(s) do you hope to be able to answer after completing this research?
+## Research questions: 
+#### What question(s) do you hope to be able to answer after completing this research?
 1. Non authenticated to authenticated:
 - Is the in-chat bot authentication process clear? 
 - Would they need to have context retention or without it is enough?
@@ -28,20 +28,20 @@ What product & team are you doing this research for?
  
 ## Hypothesis: What is your hypothesis for this research?
 
-# Flow from non-authenticated to authenticated
+#### Flow from non-authenticated to authenticated
 -Sign in message
 -No authentication
 -Context retention
 -No context retention
 -Visual feedback for ‘this chat is secure’
 
-# Flow from not authenticated to non-authenticated
+#### Flow from not authenticated to non-authenticated
 - Reminder message to sign out
 - Chat cleared after signing out
 - Time out message
  
  
-# Method
+#### Method
 
 1. What method of research are you planning?
 
@@ -85,7 +85,7 @@ Perigean Zoom
 
 ## Participants and Recruitment
 
-# Participant criteria: What are you looking for in a participant?
+#### Participant criteria: What are you looking for in a participant?
 
 - 6 people
 Have used chatbots before? (Yes)
@@ -101,12 +101,12 @@ Secondary criteria:
 What is your recruitment strategy? 
 Use Perigean for recruitment
  
-# When?
+#### When?
 Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
 
 16 - 18 March, 2022
 
-# Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
+#### Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
 14 March 2022
 
 - Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) 
@@ -120,7 +120,7 @@ Monday - Friday 9:00 to 6:00 pm CEST, 15 min between sessions
 14 March, 2022
 Shane Strassberg
 
-## Team Roles
+#### Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
 -Moderator: Pilar Moreno & Shane Strassberg
