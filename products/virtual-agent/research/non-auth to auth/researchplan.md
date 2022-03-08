@@ -1,6 +1,6 @@
 
-#### Research Plan for Auth-Flow[Orchid, Virtual Agent, Mar.2021]
-# Shane Strassberg & Pilar Moreno
+# Research Plan for Auth-Flow[Orchid, Virtual Agent, Mar.2021]
+#### Shane Strassberg & Pilar Moreno
 
 
 ### Goals
