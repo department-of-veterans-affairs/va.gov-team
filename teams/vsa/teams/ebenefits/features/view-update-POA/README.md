@@ -1,3 +1,6 @@
+``` diff
+- WIP
+```
 # View and Update Representative
 
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
@@ -6,8 +9,6 @@
 - Staging VA.gov link: https://staging.va.gov/view-change-representative/view/
 - Staging VA.gov link: https://staging.va.gov/view-change-representative/search/
 - VA.gov link: tbd
-
-## WIP
 
 ### Table of Contents
 
