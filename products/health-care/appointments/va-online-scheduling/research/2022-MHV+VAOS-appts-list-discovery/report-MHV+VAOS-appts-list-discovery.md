@@ -8,7 +8,7 @@ Prepared by Peter Russo - peter.russo@adhocteam.us
 
 With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
-[Research Report PDF] (link here) [TODO]
+[Research Report slide deck] (https://docs.google.com/presentation/d/1kT6P3F89K8CZfT1MSvkQSU6sMWzgQz-ziloCYIPC6GY/edit?usp=sharing)
 
 <br>
 
@@ -74,7 +74,7 @@ Aside from those points, participants were generally able to understand and use 
 
 4. [Participants wanted to be able to easily differentiate appointments in VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos)
 
-5. [Participants wanted to be able to easily understand how they will attend, and find their way to their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-understand-how-they-will-attend-and-find-their-way-to-their-appointments)
+5. [Participants wanted to be able to easily understand how and where they would attend their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-understand-how-and-where-they-would-attend-their-appointments)
 
 6. [Participants wanted tools to help them contact their provider](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-tools-to-help-them-contact-their-provider)
 
@@ -119,19 +119,23 @@ Participants indicated that these needs could also be met by providing "type of 
 
 When Veterans click the option to schedule an appointment in MHV, a screen asks Veterans to choose a facility from all of those where they are registered. This is intended to direct Veterans scheduling at non-VAOS facilities to the appropriate scheduling portal.
 
-These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. 
+These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered. The VAOS and Profile teams explored this issue in depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
 
-<img width="878" border="1" alt="A list of VA facilities with an option to schedule at each one" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
+<kbd><img width="600" style="border:1px solid #ccc;" alt="A list of VA facilities with an option to schedule at each one" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png"></kbd>
 
 *MHV's list of scheduling options.*
-
-VAOS and the Profile team explored this issue in depth in [May 2021's preferred facilities research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#recommendations).
-
-While we didn't see it in the study, VAOS presents Veterans who are registered at Cerner facilities with a similar list. This repeated question may add another step and potentially more confusion when navigating from MHV to VAOS.
 
 > "I wish they would remove the old clinics that I no longer go to off this list." - P5
 
 > "I am not sure why [Facility name] is on there; that is 4 hours away." - P12
+
+Additionally, VAOS presents Veterans who are registered at Cerner facilities with a similar list.
+
+No participant was registered at a Cerner facility. But if this question is repeated for Veterans coming from MHV it will cause additional confusion.
+
+<img width="600" border="1" alt="A list of VA facilities with an option to schedule at a Cerner facility, or schedule in VAOS" src="https://user-images.githubusercontent.com/2536801/157271706-bfa0e0f4-5d3e-421e-b1fc-b2ceed326bae.png">
+
+*VAOS's list of scheduling options.*
 
 ## What information do Veterans need in an appointments list to make it useful?
 
@@ -154,17 +158,20 @@ See also:
 * Findings from the [2020 CC provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments).
 * Findings from the Check-in Experience team's [MVP study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md#the-appointment-information-shown-was-sufficient-for-participants-to-understand-what-appointment-they-were-checking-in-for) 
 
-### Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
+### Participants wanted to easily understand how and where they would attend their appointments
 
-Information about how they would attend, whether in person or telehealth was the strongest request. 4/9 asked for clearer information about whether the appointment is in person, over the phone, or over video, and 8/9 had a strong positive reaction when they saw this information in the concept.
+Information about how they would attend, whether in person or telehealth was the strongest request. 4/9 participants asked for clearer information about whether the appointment is in person, over the phone, or over video, and 8/9 had a strong positive reaction when they saw this information in the concept.
 
-Aside from modality, the top requests for in person appointments were:
-* 4/9 Clinic name - as it is called at the VA facility
+Along with modality, the top requests for finding appointments were:
+* 6/9 Provider name
+* 4/9 Clinic name - as it is called at the VA facility<sup>1</sup>
 * 4/9 Medical center or facility name
 * 3/9 Floor number 
 * 3/9 Room number
 
 For video appointments, 4/9 wanted to see a link to log in to the appointment.
+
+<sup>1</sup> Participants indicated that they would use the name to determine both what the appointment was for, and to find their way to the appointment.
 
 Additionally, 2/9 wanted to see instructions about how to check-in, or what to bring to the appointment.
 
@@ -180,25 +187,23 @@ See also: findings from the Check-in Experience team's [October 2021 Usability S
 
 ### Participants wanted tools to help them contact their provider
 
-The top requests from participants included:
-* 5/9 Phone number and the direct extension to the clinic would be helpful, so they could avoid navigating the call center phone tree.
-* 5/9 Provider name, and potentially a way to contact them.
+3/9 participants said that they will send their provider a secure message after viewing appointments in this list.
 
-Some participants indicated that they would use this list in conjunction with secure messaging, by identifying a provider, then sending them a message.
+Additionally, 5/9 said the direct extension to the clinic would be helpful, so they could avoid navigating the call center phone tree.
 
 > "I never use [the main number for the facility]. I have the clinic extensions in my phone contact list and a couple of nurses’ stations in there also." - P12
 
 > "I would like it if you could secure message your provider from this list. I do like that you have a contact number for the providers under the details page. Just being able to send a message to your provider based on this appointment, or their clerk to see if there is any more information I may need for the upcoming appointment would be helpful." - P10
 
-## Will the proposed concept address Veteran data needs, and address any potential gaps between VAOS and MHV?
+## Will the proposed concept address any potential gaps between the VAOS and MHV lists?
 
 ### Almost all participants responded positively to the proposed concept
 
 8/9 participants had a strong positive reaction when asked for their first impressions of the concept. They were especially happy to be able to clearly see the modality of the appointment.
 
-Participants also had positive reactions to the information layout, and the minimal content on the page (compared to MHV).
+Participants also had positive reactions to the information layout, and the minimal content on the page.
 
-> First thing I see are the icons to connect by video, phone, office visit. I like the fact that the icons jump right out at you. That’s the first thing I notice. - P1
+> First thing I see are the icons to connect by video, phone, office visit. I like the fact that the icons jump right out at you. - P1
 
 > "This looks great, a grid, like the MyHealtheVet list" - P5
 
@@ -220,11 +225,9 @@ See also: findings from the [2021 appointments list research](https://github.com
 
 # Additional Insights
 
-## Participants said they don't use the MHV appointments list often; when they do, it's generally to validate that the appointment is properly booked
+## 5/9 participants said they don't use the appointment list in MHV often
 
-5/9 participants said they don't use the appointments list much. No participant indicated that they used the list on a daily or weekly basis.
-
-Participants said they use the appointments list to:
+No participant indicated that they used the list on a daily or weekly basis. They use it to:
 * 5/9: Verify that their upcoming appointments are properly scheduled by VA
 * 3/9: Check if they have upcoming appointments
 * 2/9: Check against their personal calendar to make sure they're not double-booked
@@ -257,34 +260,34 @@ Based on this (and previous) research, we believe the following information woul
 
 In person: 
 
-     ❌ Check-in clinic name
-     ❌ Room number  
-     ❌ Building name, number 
      ⏺ Medical center or facility name
+     ❌ Check-in clinic name
+     ❌ Building name or number 
+     ❌ Room number  
    
-Video at VA: 
+Video appointment that a Veteran attends at a VA facility: 
 
-     ❌ Check-in clinic name
-     ❌ Room number  
-     ❌ Building name, number 
      ⏺ Medical center or facility name
+     ❌ Check-in clinic name
+     ❌ Building name or number 
+     ❌ Room number  
    
-Video at ATLAS: 
+Video appointment that a Veteran attends at an ATLAS location: 
 
      ❌ ATLAS facility name
      ✅ ATLAS facility address
      ✅ Access code
    
-Video via GFE:
+Video appointment that a veteran logs into via their GFE:
 
      ✅ Short summary of how to join
    
-Video at home:
+Video appointment that a veteran logs into via their own device:
    
      ✅ Short summary of how to join
      ✅ Link to join appointment
    
-Phone:
+Phone appointment:
    
      ✅ Short summary of how to join
  
