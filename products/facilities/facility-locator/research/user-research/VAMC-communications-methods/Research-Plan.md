@@ -10,16 +10,22 @@ Unauthenticated VAMC site pages give Veterans multiple methods for contacting th
 
 ### OCTO Objectives 
 
-[TBD]
+[OCTO objectives & goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This research supports these main OCTO objectives:
+- Veterans can manage their health services online
+
+This supports decreasing theses measures:
+- Time to successfully complete and submit online transactions
 
 ### Veteran Journey
 
-[TBD]
+[The Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This research fits into the Veteran journey at these key moments:
+- Attending to health needs
+- Managing primary care and chronic health issues
+- Take care my health
 
 ## Research Goals	
 
