@@ -63,8 +63,7 @@ Before we start, a few things I want to mention:
         - How did you learn about, or find it?
     - **If no:**
         - Is there a method that you would prefer, that we don't have?
-3) What has your experience using these communication methods been like?
-    -**Follow up:** How would you describe a good communication method - what makes it a good one for you?
+3) How would you describe a good communication method - what makes it a good one for you?
 
 ## Task 1: Usability testing - 20 minutes
 
@@ -72,7 +71,6 @@ Before we start, a few things I want to mention:
 - For this task, we will start on a VA.gov page, and then from that page, I will ask you to navigate your way to a particular goal, however you choose.
 
 **Begin:**
-[Ex: "You want to send a message to your doctor. Starting on X page, how would you find a way to do that?"]
 
 1) Task flow from [VA.gov](https://www.va.gov/)
     - Starting form the VA.gov page, let's say you want to find the phone number of the VA health facility that is closest to you - thinking out loud, can you walk me through how you might do this?
@@ -91,28 +89,40 @@ Before we start, a few things I want to mention:
 
 ## Task 2: Tree test - 15 minutes
 
-["Ex: Health chat allows for real-time communication with VA health care personal. Under which link would you expect to find VA Health Chat?]
+**Task description:**
+- For this task, we will take a look at how links and headings are displayed on certain pages. I will ask you under which headings you expect to find what you are looking for. You can also suggest a new option, if you choose.
 
 1) Tree test from system-level health care page
     - Side nave tree test
+        1) VA Health Chat allows for real-time chat messages with a VA health care personell. Under which heading, if any, would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personell. Under which heading, if any, would you expect to find VA telehealth?
+        3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
     - Page heading/top task tree test
+        1) VA Health Chat allows for real-time chat messages with a VA health care personell. Under which heading, if any, would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personell. Under which heading, if any, would you expect to find VA telehealth?
+        3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
 3) Tree test from facility-level health care page
-    - Side nav tree test
     - Page heading tree test
+        1) VA Health Chat allows for real-time chat messages with a VA health care personell. Under which heading, if any, would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personell. Under which heading, if any, would you expect to find VA telehealth?
+        3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
 
 **Moderator notes:**
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Try to get the participant to think out loud, as they are deliberating.
+- Ask why they made the final choice that they did.
+- If they chose "Another link/heading" option, what's their suggestion?
 
 ## Task 3: Contextual inquiry - 10 minutes
+- For this final task, I will ask you a few questions about the kinds of labels that accompany communication methods on VA.gov sites.
 
 [Ex: "What does this label mean to you?; If you were trying to contact your doctor by phone, which of these labels is more helpful?"]
 [Ex: Given a micro-scenario, "Which of these communication methods would you find most useful?"]
 
 1) Questions about labels.
+    - [BUILDING OUT MURAL]
 2) Questions about communication methods.
+    - What is your favorite method of 
 
 **Moderator notes:**
 
