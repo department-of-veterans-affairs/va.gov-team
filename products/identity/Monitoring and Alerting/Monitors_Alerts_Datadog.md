@@ -1,6 +1,6 @@
 # VSP Identity Datadog Monitoring and Alerting APIs
 
-The VSP Identity team utilizes two primary solutions for monitoring and alerting of va.gov login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/joeidentitytestboard?from_ts=1641144949676&to_ts=1641317749676&live=true). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions relies on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures most of the important information required for the Identity team is captured to monitor all login related activity within VA.gov. 
+The VSP Identity team utilizes two primary solutions for monitoring and alerting of va.gov login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/joeidentitytestboard?from_ts=1641144949676&to_ts=1641317749676&live=true). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions rely on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures most of the important information required for the Identity team is captured to monitor all login related activity within VA.gov. 
 
 ### <ins>**Audience**</ins>
 This document is intended to be utilized by anyone who has access to the [Identity Datadog Dashboard](https://app.datadoghq.com/dashboard/97h-d7e-tgr/joeidentitytestboard?from_ts=1641144949676&to_ts=1641317749676&live=true). The details within the document should be enough to help explain what the monitors intent is however the technical implementation of the stats that are collected to create the monitors is not explained in this document, for that you can review the [Identity Metrics and Errors document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Identity_errors_metrics.md).
@@ -77,11 +77,11 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Severity:**</ins> severity here.
         
 - ## Production
-    The monitors in production currently are set up to look for cascading login issues, not specifically a single CSP. There is worked planned for Jan 2022 which will add more production monitoring. The inability to create production test accounts for the CSPs is what holds us back from monitoring the full login flows in the production environment.
+    The monitors in production currently are set up to look for cascading login issues, not specifically a single CSP. There is work planned for Jan 2022 which will add more production monitoring. The inability to create production test accounts for the CSPs is what holds us back from monitoring the full login flows in the production environment.
 
   - ## Inbound
 
-    - ### **Identity Production Inbound ISAM SSOe Percent Error Threshold Crossed**
+    - ### **Identity - Production Inbound ISAM SSOe Percent Error Threshold Crossed**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
 
@@ -99,10 +99,72 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Severity:**</ins> `Critical`. This alert impacts Veterans.
 
   - ## Outbound
+ 
+     
+    - ### **Identity - Production Outbound Sign-in Test IDme**
 
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/edit/9sc-mj9-i64) monitors the current status of IDme outbound login on va.gov. Ensure you check what the failure screen captures show within datadog for this alert before proceeding with troubleshooting. If this monitor is firing it could mean there is an issue with IDme, check the status page for IDme here. It could mean there is an issue with how the ISAM is processing va.gov login attempts, contact IAM team through slack and open an incident. This also could be an issue within vets-api with the session controller or frontend.
+        
+        <ins>**Threshold:**</ins> If login test fails 3 times within 90 seconds, it will fire the alert. 
+
+        <ins>**Metrics used:**</ins> Number of failed test attempts within Datadog
+
+        <ins>**Severity:**</ins> Critical. This could impact Veterans ability to login.
+ 
+    - ### **Identity - Prod ISAM Metadata Changed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/c6m-nyw-h6v) specifically looks for changes to the ISAM production metadata file located [here](https://eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_prod_metadata_isam.xml).
+
+        <ins>**Threshold:**</ins> If the MD5 sum doesn't match 3 times within 90 seconds, it will fire the alert. 
+
+        <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
+
+        <ins>**Severity:**</ins> Critical. This could impact Veterans ability to login.
+    
+    - ### **Identity - Production Inbound [MHV Unified Sign-in] VA.gov AUTO Sign-in Test IDme **
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/erd-8q7-dna) checks that the idme credential can successfully login through the MHV unified sign in page on production and when going to va.gov the user is auto signed in. This is considered an inbound test for documentation purposes. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+
+        <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Synthetic Monitor.
+
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+    
+    - ### **Identity - Production Outbound [MHV Unified Sign-in] VA.gov AUTO Sign-in Test MHV **
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/txh-rpz-ph9) checks that the MHV credential can successfully login through the MHV unified sign in page on production and when going to va.gov being auto-logged in. We call this outbound only because it uses the va.gov signin modal but its more like a hybrid of inbound and outbound. If this alert triggers it could be the MHV credential itself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+
+        <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
+
+        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+    
+    
+    - ### **Identity - Production Outbound [MHV Unified Sign-in] Test MHV **
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/edit/k6t-7wm-uun) checks that the MHV credential can successfully login through the MHV unified sign in page on production. We call this outbound only because it uses the va.gov sign in modal but it's more like a hybrid of inbound and outbound. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+
+        <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
+
+        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+    
+    - ### **Identity - Production Outbound [MHV Unified Sign-in] Test IDme **
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/g7i-zpf-3ca) checks that the idme credential can successfully login through the MHV unified sign in page on production. We call this outbound only because it uses the va.gov sign in modal but it's more like a hybrid of inbound and outbound. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+
+        <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
+
+        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+        
     - ### **Identity - Production Auth_too_late Login Callback Error Threshold Crossed**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55168108) specifically watches the number of auth_too_late error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings or latency anywhere within the authentication flow. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus in on the number of errors. If there are a large amount it may indicate a vets-api or Eauth issue. If this error count is very low it could be an end user issue, i.e a user stepped away during the auth process and attempted to complete it 30 minutes later.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55168108) specifically watches the number of auth_too_late error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings or latency anywhere within the authentication flow. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus on the number of errors. If there are a large amount it may indicate a vets-api or Eauth issue. If this error count is very low it could be an end user issue, i.e a user stepped away during the auth process and attempted to complete it 30 minutes later.
 
         <ins>**Threshold:**</ins> `above or equal to 50 total errors` over a `5 minute window` with a recovery of less than 30 errors. 
 
@@ -112,11 +174,11 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         sum:vets_api.statsd.api_auth_login_callback_failed{error:auth_too_late,deployment_env:vagov-prod}.as_count()
         ```
 
-        <ins>**Severity:**</ins> `High`. This alert impacts Veterans however its not uncommon for a user to take too long during the auth process if they step away from their device and attempt to complete the authentication later.
+        <ins>**Severity:**</ins> `High`. This alert impacts Veterans however it's not uncommon for a user to take too long during the auth process if they step away from their device and attempt to complete the authentication later.
 
     - ### **Identity - Production Auth_too_early Login Callback Error Threshold Crossed**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55167253) specifically watches the number of auth_too_early error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus in on the number of errors. If there are a large amount it may indicate a vets-api issue. If this error count is very low it could be an end user issue.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55167253) specifically watches the number of auth_too_early error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus on the number of errors. If there are a large amount it may indicate a vets-api issue. If this error count is very low it could be an end user issue.
 
         <ins>**Threshold:**</ins> `above or equal to 3 total errors` over a `5 minute window` with a recovery of less than 2 errors. 
 
@@ -146,7 +208,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
     - ### **Identity - Production Auth Login Callback Failed Error=Unknown**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/47794259) specifically looks for the number of authentication login callback failure error code=unknown to reach a specific threshold. This alert typically indicates something is wrong with eauth or how eauth is recieving our saml requests. This alert would require investigating in the standard process described above, but also alerting the Eauth team to discover if they are aware of any issues that may be causing this. This error code (unknown) is a catch all and could be difficult to debug because we dont get any of the error details from eauth. The fact that its "unknown" is actually coming from the ISAM appliance itself not having a pre-designated error code for whatever is occuring in this transaction.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/47794259) specifically looks for the number of authentication login callback failure error code=unknown to reach a specific threshold. This alert typically indicates something is wrong with eauth or how eauth is receiving our saml requests. This alert would require investigating in the standard process described above, but also alerting the Eauth team to discover if they are aware of any issues that may be causing this. This error code (unknown) is a catch all and could be difficult to debug because we don't get any of the error details from eauth. The fact that its "unknown" is actually coming from the ISAM appliance itself not having a pre-designated error code for whatever is occurring in this transaction.
 
         <ins>**Threshold:**</ins> `greater than or equal to 25 errors` in total over a `5 minute window` with a recovery of less than 5. 
 
@@ -177,6 +239,27 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
     
   - ## Inbound
 
+    - ### **Identity - Staging Inbound IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/4dp-tqc-3zp) monitors dslogon authentication on staging inbound from Accessva. If this alert is firing it could be an indicator that the staging dslogon credential service is having an issue. The other two potential issues are that accessva is down or va.gov inbound has been modified at the source code level. 
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+
+    - ### **Identity - Staging Inbound DSLogon**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/4dp-tqc-3zp) monitors dslogon authentication on staging inbound from Accessva. If this alert is firing it could be an indicator that the staging dslogon credential service is having an issue. The other two potential issues are that accessva is down or va.gov inbound has been modified at the source code level. 
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
     - ### **example name of monitor**
 
         <ins>**Description:**</ins> example description
@@ -197,13 +280,73 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
   - ## Outbound
 
-    - ### **Identity - SSOe Staging MHV Unified Sign-in Monitor - IDme**
+    - ### **Identity - Staging Outbound logingov IAL1**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/pmt-pk5-b9b) monitors logingov login on staging. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound logingov IAL2**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/gut-wmw-x2f) monitors logingov login on staging. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound Verify Route Test IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/csg-vf6-srb) monitors IDme verify route on staging. If this alert fires it either indicates that the elements for the buttons have changed or the route for IDme verify has been inadvertly been modified. This type of change could end up impacting veterans ability to upgrade their idme account if it were to propogate to production.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/j35-a9i-7zc) monitors IDme login on staging. If this alert fires it indicates there is an issue with the IDme CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound DSLogon**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/d8r-7gc-6xn) monitors dslogon authentication on staging outbound. If this alert is firing it could be an indicator that the staging dslogon credential service is having an issue. The other two potential issues are that accessva is down or va.gov has been modified at the source code level. 
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging ISAM Metadata Changed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/7tu-icm-hfr) specifically looks for changes to the ISAM staging metadata file located [here](https://sqa.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_sqa_metadata_isam.xml).
+
+        <ins>**Threshold:**</ins> If the MD5 sum doesn't match 3 times within 90 seconds, it will fire the alert. 
+
+        <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
+
+        <ins>**Severity:**</ins> High. This is a staging alert so it does not impact Veterans but will block engineers from developing in staging if they need authentication in their application.
+
+    - ### **Identity - Staging [MHV Unified Sign-in] Test IDme**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/dq4-zra-xwc) monitors that the MHV unified page on staging with the IDme CSP has an issue. The steps in this test utilize a private datadog location because MHV staging is only available on the VA network (we normally use CAG for this). Review the screen captures within datadog for this alert to start the investigation process. The fault of this issue could be from vets-api, va.gov frontend, an MHV staging change, and in some cases a simple pop-up survey that triggered a missed step during the verification flow of this monitor.
 
         <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
 
-        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+        <ins>**Metrics used:**</ins> Synthetic Monitor.
 
         <ins>**Severity:**</ins> `Medium`. This monitor covers a small subset of our services and in staging does not impact Veterans. This alert could be an indicator of an eventual production issue if the same code that caused this alert is then merged into production.
 
@@ -250,13 +393,33 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
   - ## Outbound
 
+    - ### **Identity - Dev Outbound IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/td2-4bu-h7x) monitors IDme login on dev. If this alert fires it indicates there is an issue with the IDme CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in dev is going to propagate to production during the next deploy.
+
+    - ### **Identity - Dev Outbound Verify Route Test IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/i5h-f4z-e84) monitors IDme verify route on dev. If this alert fires it either indicates that the elements for the buttons have changed or the route for IDme verify has been inadvertly been modified. This type of change likely impacts veterans ability to upgrade their idme account.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in dev is going to propagate to production during the next deploy.
+
     - ### **Identity - Dev ISAM Metadata Changed**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/2r7-e82-zzk) specifically looks for changes to the ISAM dev metedata file located [here](https://int.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_int_metadata_isam.xml).
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/2r7-e82-zzk) specifically looks for changes to the ISAM dev metadata file located [here](https://int.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_int_metadata_isam.xml).
 
-        <ins>**Threshold:**</ins> N/A. If the MD5 sum doesnt match 3 times within 90 seconds, it will fire the alert. 
+        <ins>**Threshold:**</ins> If the MD5 sum doesn't match 3 times within 90 seconds, it will fire the alert. 
 
-        <ins>**Metrics used:**</ins> N/A. This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
+        <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
 
         <ins>**Severity:**</ins> High. This is a dev alert so it does not impact Veterans but will block engineers from developing in dev if they need authentication in their application.
 
