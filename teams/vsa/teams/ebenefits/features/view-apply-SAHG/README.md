@@ -12,7 +12,7 @@ Veterans with special needs around the home can submit this form and get grant m
 - A Veteran should be able to come through and quickly and easily submit this form to be deemed eligible for money via grants.
 
 ## Undesired User Outcomes
-
+- Decreased conversion and exposure to the Veteran population.
 
 ## Desired Business Outcomes
 - Increased conversion and exposure to the Veteran population.
@@ -45,6 +45,26 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: 
   - Key result: 
 
+### Analiytics or DOMO dashboard
+- TBD
+
+### Staging Users + Use cases
+- TBD
+
+### Roadmap (Now, Next Later)  
+**Now**    
+- Discovery  
+- Docuemntation  
+- TBD  
+
+**Next**  
+- Integrate with LGY API for SAHG  
+- EStablish frontend  
+- TBD  
+
+**Later**  
+- Test  
+- Deploy  
 
 ---
 
@@ -96,6 +116,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
+### Team notes
+Charter
+
 #### Communications
 
 <details>
@@ -128,3 +151,6 @@ Oscar Hines (LGY | Specially Adapted Housing)
   
 </details>
 
+### Open Questions
+1. How will SASHA accept structured data with an aPI?
+2. Who will we work with on the SAHG side?  Luke Garrett or Nick Fisseler?
