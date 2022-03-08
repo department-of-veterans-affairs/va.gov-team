@@ -89,25 +89,27 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 ### 1-week results:
 - **Number of unique users:**
-     - 
+     - ...
 - **Any issues with VA handling/processing?**
-     - 
+     - ...
 - **Types of errors logged:**
-     - 
+     - ...
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - 
+     - ...
 - **If yes, what:** 
+     - ...
 
 ### 1-month results:
 - **Number of unique users:**
-     - 
+     - ...
 - **Any issues with VA handling/processing?**
-     - 
+     - ...
 - **Types of errors logged:**
-     - 
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - 
+     - ...
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?**
+     - ...
 - **If yes, what:** 
+     - ...
 
 ## Post-launch Questions 
 
