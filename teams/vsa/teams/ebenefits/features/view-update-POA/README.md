@@ -58,7 +58,7 @@ As a Veteran in need of legal representation, I need to be able to submit a 21-2
 
 ### Business Goals
 
-- In discovery
+- To allow Veterans to select from an accredited list of representatives and then enable them to engage with them if they agree.
 
 ## Assumptions
 
@@ -95,11 +95,12 @@ As a Veteran in need of legal representation, I need to be able to submit a 21-2
 
 ### User Value
 
-TBD
+To view, search and start to engage with a representative
 
 ### Business Value
 
 1. Sunset EBN
+2. Have a cohesive UX on VA.gov
 
 
 
@@ -119,7 +120,46 @@ TBD
 - Design intent
 
 ## Solution Narrative
-- TBD
+- While the View state can be acheived with data coming from Corp DB, the search state needs some heavy lifting from Lighthouse.  They are working on securing the data from OGC but have a scehma in place that we can start looking at:
+
+```
+type :: string :: (org vs individual)
+name :: string :: (could be the org name, could be a concatenation of the individual's first and last names)
+city :: string ::
+state :: string ::
+zipCode :: string :: (our current dataset only contains ZIP codes for representatives, but we're seeing if this is available for orgs, too)
+phoneNumber :: string :: 
+poaCodes :: array of strings :: (organizations will only have arrays of size 1, but representatives can be associated with multiple)
+```
+Example response:
+```
+[
+  {
+    "type": "organization",
+    "name": "Arizona Department of Veteran's Affairs",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipCode": null,
+    "phoneNumber": "555-555-5555",
+    "poaCodes": [
+      "123"
+    ]
+  },
+  {
+    "type": "individual",
+    "name": "John Doe",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98102",
+    "phoneNumber": "444-444-4444",
+    "poaCodes": [
+      "123",
+      "456",
+      "789"
+    ]
+  }
+]
+```
 
 ## Product Decisions
 
@@ -144,7 +184,7 @@ TBD
 ## Resources and Documentation
 
 - Discovery
-- [Research and Design](research-design/README.md)
+- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design)
 
 ## NOTES
 
