@@ -1,4 +1,4 @@
-# SAHG Product Outline Template
+# SAHG Product Outline & Transition Document
 
 ## Overview
 The Specially Adapted Housing Grant feature is a transactional form ([VA Form 26-4555](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf)) to submit a request for money to modify a home for special needs.
