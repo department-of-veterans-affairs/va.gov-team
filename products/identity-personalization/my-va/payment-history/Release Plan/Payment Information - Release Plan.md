@@ -5,7 +5,7 @@
 
 ### Planning:
 - **UAT Go/No go:** Week of 3/23
-- Link to [readiness checklist]
+- Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/UAT%20Go-No%20Go.md)
 - **Desired date range or test duration:** Sprint 70 (3/23 - 4/5)
 - **Desired number of users:** recruiting 12 participants with a target of completeing 6 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
