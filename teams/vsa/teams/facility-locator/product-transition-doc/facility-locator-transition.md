@@ -85,7 +85,7 @@ The most critical path iteams are listed below but do not represent the total of
     - EPIC [#27454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27454)
 
 ## Artifacts
-- [Product Guide](TBD)
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) _updated 03/2022_
 - [Issue response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
