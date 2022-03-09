@@ -89,6 +89,8 @@ Before we start, a few things I want to mention:
 
 ## Task 2: Tree test - 15 minutes
 
+Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.com/treejack/) tools. [TBD - create closer to date of study]
+
 **Task description:**
 - For this task, we will take a look at how links and headings are displayed on certain pages. I will ask you under which headings you expect to find what you are looking for. You can also suggest a new option, if you choose.
 
@@ -115,20 +117,18 @@ Before we start, a few things I want to mention:
 
 ## Task 3: Contextual inquiry - 10 minutes
 - For this final task, I will ask you a few questions about the kinds of labels that accompany communication methods on VA.gov sites.
-
-[Ex: "What does this label mean to you?; If you were trying to contact your doctor by phone, which of these labels is more helpful?"]
-[Ex: Given a micro-scenario, "Which of these communication methods would you find most useful?"]
+- [Contextual inquiry Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1646769310259/6ca0b11d0a55138780cfc6a03f4da72718e5932e?sender=u8a90be72499ecb4354e14700)
 
 1) Questions about labels.
-    - [BUILDING OUT MURAL]
-2) Questions about communication methods.
-    - What is your favorite method of 
+    - You need to contact a health care facility to ask a question about its hours of operation. Which communication label best applies?
+    - You need to contact your health care team about the results of recent check up. Which communication label best applies?
+    - You want to make an appointment with your health care team. Which communication label best applies?
+    - You need to speak to someone immediately about a health care question. Which communication label best applies?
 
 **Moderator notes:**
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Try to get a sense of which labels are confusing.
+- What might the participant expect or suggest, based on their communications experience with other web pages/services?
 
 ## Post-Task Interview - 3 minutes
 
@@ -141,7 +141,7 @@ Before we start, a few things I want to mention:
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+    **If Yes:** Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
