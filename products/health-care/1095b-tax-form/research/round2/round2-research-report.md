@@ -121,7 +121,7 @@ Mural
 
 ## Pages and applications used
 
-[PDF Prototype] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/1095-B%20Prototype_%20User%20testing%20Round2_3.1.2022.pdf)
+[PDF Prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/1095-B%20Prototype_%20User%20testing%20Round2_3.1.2022.pdf)
 
 #
 
