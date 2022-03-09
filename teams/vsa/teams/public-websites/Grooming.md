@@ -27,7 +27,7 @@ None
 
 </details>
 
-## Wednesday, March 2, 2021 
+## Wednesday, March 16, 2021 
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
