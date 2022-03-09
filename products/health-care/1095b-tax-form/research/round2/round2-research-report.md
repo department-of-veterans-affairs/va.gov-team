@@ -87,37 +87,42 @@ However, **3/8** Participants would first try selecting “Change Your Address�
 <img width="933" alt="round2-fixing-the-form-screenshot" src="https://user-images.githubusercontent.com/22205441/157481078-e45140dc-4b02-4fdc-ba38-6b179a648b78.png">
 
 
+7/8 Participants said they would prefer to correct any mistakes on the form digitally, either by filling in a form or sending a secure message. 
+Some reasons being:
+
+- “[With an online form] I could get a digital receipt” -P4
+- “I prefer secure messaging if someone got back to you to confirm it was changed.” –P1
+
+The remaining participant preferred the phone or visiting the VA in person so “I don’t have to worry about making a mistake.” This participant was elderly, rarely used their computer and still filed their taxes using paper forms. 
+
 
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+- Design is strong and ready to launch
+- Add additional content on “Change Your Address” landing page directing user to call enrollment center, should they follow that path to update the form
+- Consider adding online form on authenticated 1095-B page to easily update address or other incorrect information, preventing the user from following other paths or making a phone call (Post MVP).
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+
 
 
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/researchplan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/conversation-guide.md)
 
-[Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+e.g. mural, excel
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
+[PDF Prototype] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/1095-B%20Prototype_%20User%20testing%20Round2_3.1.2022.pdf)
 
 #
 
