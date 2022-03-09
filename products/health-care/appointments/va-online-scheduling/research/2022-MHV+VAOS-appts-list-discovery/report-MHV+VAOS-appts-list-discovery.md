@@ -64,17 +64,17 @@ Aside from those points, participants were generally able to understand and use 
 
 **What will be confusing when transitioning from the MHV appointments list to VAOS?**
 
-1. [Most participants were confused that there are two different sites that list their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#most-participants-were-confused-that-there-are-two-different-sites-that-list-their-appointments)
+1. [Participants were most confused that two different sites list their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-were-most-confused-that-two-different-sites-list-their-appointments)
 
-2. [Clinic names confused participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-patient-friendly-names-and-name-codes-were-confusing)
+2. [Clinic names confused participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-names-confused-participants)
 
-3. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#39-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
+3. [Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#some-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
 
 **What information do Veterans need in an appointments list to make it useful?**
 
 4. [Participants wanted to be able to easily differentiate appointments in VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos)
 
-5. [Participants wanted to be able to easily understand how and where they would attend their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-understand-how-and-where-they-would-attend-their-appointments)
+5. [Participants wanted to easily understand how and where they would attend their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-easily-understand-how-and-where-they-would-attend-their-appointments)
 
 6. [Participants wanted tools to help them contact their provider](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-tools-to-help-them-contact-their-provider)
 
@@ -82,7 +82,7 @@ Aside from those points, participants were generally able to understand and use 
 
 7. [Almost all participants responded positively to the proposed concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#almost-all-participants-responded-positively-to-the-proposed-concept)
 
-8. [Some participants found the word "Pending" confusing in the concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#some-participants-found-the-word-pending-confusing-in-the-concept)
+8. [Some participants found the word "pending" confusing in the concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#some-participants-found-the-word-pending-confusing-in-the-concept)
 
 # Details of Findings 
 
@@ -115,7 +115,7 @@ Participants indicated that these needs could also be met by providing "type of 
 
 > "Clinic names just tells you what kind of appointment is going on, and what I might need for the appointment." -P3
 
-### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
+### Some participants were confused to see unfamiliar facilities when navigating from MHV to VAOS
 
 When Veterans click the option to schedule an appointment in MHV, a screen asks Veterans to choose a facility from all of those where they are registered. This directs Veterans who can schedule at non-VAOS facilities to the appropriate scheduling portal.
 
@@ -154,9 +154,10 @@ Date and time was the first piece of information participants used to differenti
 
 > "Under the Medical Center Division, it does not tell me what clinic or what the appointment is about. Now I must find out because I do not know what appointment that clinic is for." - P10
 
-See also: 
-* Findings from the [2020 CC provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments).
-* Findings from the Check-in Experience team's [MVP study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md#the-appointment-information-shown-was-sufficient-for-participants-to-understand-what-appointment-they-were-checking-in-for) 
+We saw similar findings in other studies: 
+* [2020 requests discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Requests%20discovery%20-%20report.md#appointment-list-and-details-pages-data)
+* The Check-in Experience team's [MVP study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md#the-appointment-information-shown-was-sufficient-for-participants-to-understand-what-appointment-they-were-checking-in-for)
+* [2020 Community Care provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments)
 
 ### Participants wanted to easily understand how and where they would attend their appointments
 
@@ -171,8 +172,6 @@ Along with modality, the top requests for finding appointments were:
 
 For video appointments, 4/9 wanted to see a link to log in to the appointment.
 
-<sup>1</sup> Participants indicated that they would use the name to determine both what the appointment was for, and how to find their way to the appointment.
-
 Additionally, 2/9 wanted to see instructions about how to check-in, or what to bring to the appointment.
 
 > "Where it states the clinic name under the Medical Center it needs to have friendly clinic names and the exact location of the clinic. Radiology, Women’s Clinic, Dental Clinic, and Red Clinic. I know I can go and there are signs that tell you where to go that most people can find it, but it makes it easier when you walk in the building you have an idea of where you are going." - P7
@@ -183,7 +182,11 @@ Additionally, 2/9 wanted to see instructions about how to check-in, or what to b
 
 > "There is a standardized naming process and there is also a patient-friendly name, but on here it seems it is either the standardized name or it may have both names. That's frustrating to patients who may not understand the name. It needs to be the 'patient-friendly' name so they know where they are going. Clinic Profile Team who lists the clinic names that are provided by the clinics. The wayfinding for Veterans is not the best when it came to this list. The fact you can not see where you are supposed to go is the problem." - P3, who is familiar with the scheduling process from the facility side as well as being a Veteran.
 
-See also: findings from the Check-in Experience team's [October 2021 Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/phase2-usability/research-findings.md#seeing-a-list-of-all-the-days-appointments-is-valuable-to-veterans)
+We saw similar findings in these studies:
+* [2020 requests discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Requests%20discovery%20-%20report.md#appointment-list-and-details-pages-data)
+* The Check-in Experience team's [October 2021 Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/phase2-usability/research-findings.md#seeing-a-list-of-all-the-days-appointments-is-valuable-to-veterans)
+
+<sup>1</sup> Participants indicated that they would use the name to determine both what the appointment was for, and how to find their way to the appointment.
 
 ### Participants wanted tools to help them contact their provider
 
