@@ -23,18 +23,20 @@ Is everyone comfortable if I record this session as we talk?
 
 *Start recording.*
 
-The goal of this session, is to have you utilize and give feedback on a set of criteria that are intended to provide guidance in determining if content should be placed within the benefit hubs or the Resources and Support section, or potentially somewhere else. 
+The goal of this session, is to get your feedback on a set of criteria intended to be used in determining where content should be placed within the modernized VA.gov experience.  
+We will be giving you a hypothetical situation that requires you to use this new criteria to evaluate some content for placement on the site. 
 
 There will be 2 parts to today's session.  
-- First, you will each be working independently on an activity for approximately 30-40 minutes. 
+- First,  you will each be working independently on an activity for approximately 30-40 minutes. 
 - Then, at the completion of the activity, we will come back together for a group discussion.
  
 Ready?
 
 ### Activity set up
 
-Today, a VA partner has asked for 5 pages of content to be migrated into the modernized VA.gov experience.  Your task will be to utilize new placement criteria to make a decision on where in the modernized experience this content should go. 
+Today your team was given the task of reviewing and possibly reorganizing some content on VA.gov.  You have been asked to review 5 pages of that content and determine where it should live within the modernized VA.gov experience - the benefit hubs or Resources and Support.  To help with this task, you have been given some newly written placement criteria to use in your decision making. 
 
+To do this activity, 
 - We will provide you with a word document containing the 5 content pages.  
 - We will also provide you with a spreadsheet that includes the new placement criteria. 
 - The spreadsheet is your working document and where you will indicate your decision on placement, as well as any thoughts, questions, or feedback. 
