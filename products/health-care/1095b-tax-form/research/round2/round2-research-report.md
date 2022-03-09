@@ -49,10 +49,43 @@ Currently, form 1095-B is mailed to Veterans. Sending it out costs the VA approx
   - 1/8 would prefer both, 1/8 would prefer paper
   - All participants lived in states that don’t require proof of health care to file State taxes
 
-# Themes
+## Themes
 
 - Do I need this?
 - Fixing the 1095-B Form
+
+### Theme: Do I need this?
+
+During the initial interview, we spoke to participants about their understanding of the 1095-B tax form and how they used it when filing their taxes. When asked “Do you know if the 1095-B form is required when you’re filing taxes?” we saw the same theme of confusion over requirements that we saw in the first round of testing.
+
+- 1 Participant thought it was a requirement to include the form when filing taxes
+- 2  Participants were unsure if it was required, but reported including it with their taxes last year
+- 3 Participants thought it was unneeded to include in tax filing, but kept it for their records
+- 1 Participant reported shredding it because they didn’t need it
+- 1 Participant wasn’t familiar with the form and didn’t recall ever receiving it in the mail
+
+> “I don't really need it…[but] I filed it with my income tax paperwork. I don't know that anybody really needs it. Because there doesn't seem to be a lot of follow up with the IRS.”
+
+– Participant 11
+
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/22205441/157479558-ddc37f5d-76c7-40ae-a3b7-dea4e27414e5.png">
+
+**After completing the task with the prototype, and seeing copy regarding 1095-B requirements (above), one participant asked:**
+
+> "It says due to changes to the Affordable Care Act, this document is no longer required to file your federal taxes. So why do they still send it out? Because its no longer required."
+
+– Participant 3
+
+### Theme: Fixing the form ###
+
+**6/8** Participants found the Help sections and said they would call the enrollment phone number to fix any mistakes on the form.
+
+However, **3/8** Participants would first try selecting “Change Your Address” before calling the enrollment center (see below).
+
+
+<img width="933" alt="round2-fixing-the-form-screenshot" src="https://user-images.githubusercontent.com/22205441/157481078-e45140dc-4b02-4fdc-ba38-6b179a648b78.png">
+
 
 
 
