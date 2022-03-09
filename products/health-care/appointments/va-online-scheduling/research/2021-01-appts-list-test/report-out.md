@@ -2,11 +2,11 @@
 
 *Prepared by Peter Russo*
 
-[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test)
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research2021-01-appts-list-test/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/conversation-guide.md)
 
 ## Participant demographics
 
@@ -26,7 +26,7 @@ All were able to complete most of the tasks we tested with ease, and often did s
 
 *Fig.1 - Usability results*
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/fig-1-usability-results.png" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/fig-1-usability-results.png" />
 
 **Tasks key**
 - 4 - success/full understanding
@@ -270,7 +270,3 @@ A couple of recurring themes:
 > Travel pay should be automatic, they know where Veterans are coming form they have our address. I mean how else are we supposed to get there, transport? I want a one stop shop instead of logging into multiple government websites. - P5
 
 > When I tried to \[schedule with VAOS\] in the past it didn’t work for me. I wasn’t allowed to do it, maybe its where we are and they weren’t ready for the software. I just email the department instead and tell them I need to follow up and they either call or email me back. - P5
-
-
-
-
