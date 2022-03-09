@@ -1,4 +1,4 @@
-**Notes and tips for future UAT **
+**Notes and tips for future UAT**
 1. Look at past UAT sessions for lists of participants if you need to recruit.
 
 2. When corresponding with participants prior to the session, be sure to give them a heads up on everything they might need for the sessions such as: their ID, their e-mail and password, any apps they need on their phone, and a reminder to join the meeting on their phone. 
