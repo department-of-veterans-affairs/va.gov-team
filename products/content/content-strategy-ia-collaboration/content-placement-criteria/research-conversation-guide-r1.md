@@ -4,9 +4,11 @@
 
 *Mute your Slack notifications*
 
-*Check your [screensharing setup] and share permissions for participants.*
+*Have spreadsheet ready to share*
 
-*When the participant is ready, begin the session with the following intro*
+*Have Word document ready to share*
+
+*Have DM group ready to go*
 
 
 ## Introduction and exercise instructions - 15 minutes
@@ -55,12 +57,11 @@ The spreadsheet will be your working document and where you will indicate your d
 - You will have around 30 minutes for this activity.  We will check in at 30 minutes, to gauge where everyone is at and allow you to wrap up on your current item.
 - We will bring everyone back on the call at the end of the activity for a group discussion.
 
+I will drop the documents you need into a DM, please download and save locally for your use.  At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your results.  We do not need the word document back. 
 
 
 ## Breakout for activity: 30-40 minutes
 
-During activity:
-- set up DM for team to send spreadsheets to us at end of activity
 
 
 ## 5 minute break
