@@ -143,7 +143,8 @@ Mural
 
 We talked to **8 participants.**
 
-<img width="915" alt="round2-recruitment-matrix" src="https://user-images.githubusercontent.com/22205441/157488725-049936c6-0961-4769-928c-c2c34e910912.png">
+
+![recruitment-matrix-round2-updated](https://user-images.githubusercontent.com/22205441/157491816-75d335d2-df46-466f-862e-1960bd42fcc6.png)
 
 
 Audience segment:
