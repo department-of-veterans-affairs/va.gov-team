@@ -1,17 +1,17 @@
 ---
-name: QA Dashboard Feature Request
+name: Product QA Dashboard Feature Request
 about: To request new features to be added to Product QA Dashboards
-title: QA Dashboard Feature Request
+title: Product QA Dashboard Feature Request
 labels: qa-standards, enhancement, qa-dashboard
 assignees: JoeTice, pjhill
 
 ---
 
-# QA Dashboard Feature Request
+# Product QA Dashboard Feature Request
 
 ## What this form is for
 
-Use this template to request a new feature that you'd like to see added to the QA Product Dashboards. This form is for enhancements to the existing KPI dashboards. If you have technical issues or need help using the dashboards, use the `/support` command on [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel in Slack.
+Use this template to request a new feature that you'd like to see added to the Product QA Dashboards. This form is for enhancements to the existing KPI dashboards. If you have technical issues or need help using the dashboards, use the `/support` command on [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel in Slack.
 
 
 ## Instructions
