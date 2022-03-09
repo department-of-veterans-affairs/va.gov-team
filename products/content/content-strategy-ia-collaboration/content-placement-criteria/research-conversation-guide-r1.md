@@ -70,19 +70,42 @@ During activity:
 
 ## Post-activity discussion - 30-40 minutes
 
+**Explore ease of understanding** (5 minutes)
+Drop your response in the zoom chat:  <br>
+On a scale of 1 to 5, 1 being very difficult and 5 being very easy, how easy or difficult were the criteria to understand?
+- Discuss the range of responses
+- Listen/prompt for 
+  - Which criteria were easy to understand and why?
+  - Which criteria were more challenging to understand and why?
+  - How confident did you feel in your placement decisions?
 
-How many pages were you able to get through?
+**Explore ease of use** (5 minutes)
+Drop your response in the zoom chat: <br>
+How many pages were you able to evaluate?
+  - Was there content that was more challenging than others to evaluate? 
+  - Was there content that was easier to evaluate?
+  - Did anyone break apart the content to place portions in the hubs and other portions in R&S? 
+  - Was there any content you could not come to a decision on?
+  - Did anyone find content they felt should not go in either the hubs nor R&S?
+ 
+**Explore decision making** (10 minutes)
+We'd like to talk about your placement decisions for some of the content you evaluated. <br>
+Where did each of you place [PIECE OF CONTENT]?  
+- Discuss differences in decisions
+- Listen/prompt for 
+  - Which criteria led you to your decision?
+  - How did you interpret the critier or content to come to that decision?
+  - What was challenging about evaluating this content?
 
-- Drop your response in the zoom chat:  On a scale of 1 to 5, 1 being very difficult and 5 being very easy, how easy or difficult were the criteria to understand?
-  - [Discuss the range of responses]
-- What aspects were the most challenging?
-- What, if anything, worked well about the criteria
-- Was there content that was more challenging than others to evaluate? 
-- Was there content that was easier to evaluate?
-- Was there any content that you wanted to split apart? 
-- Was there any content that you felt didn't belong in the benefit hubs or R&S?
-- Drop your response in the zoom chat:  On a scale of 1 to 5, 1 being not helpful and 5 being most helpful, how would you rate the helpfulness of this criteria?
+[REPEAT ABOVE DECISION MAKING EXPLORATION FOR ADDITIONAL CONTENT AS TIME ALLOWS]
 
+**Explore user satisfaction** (5 minutes)
+Drop your response in the zoom chat:  <br>
+On a scale of 1 to 5, 1 being not helpful and 5 being most helpful, how would you rate the helpfulness of this criteria in this type of decision making?
+- Discuss the range of responses
+- Listen/prompt for 
+  - What made it helpful?
+  - What may make it more helpful?
 
 
 ## Thank-You and Closing
