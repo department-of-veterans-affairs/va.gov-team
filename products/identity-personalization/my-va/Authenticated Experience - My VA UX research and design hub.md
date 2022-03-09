@@ -95,7 +95,7 @@ Outline your process; add notes.
 
 List your tools; add notes.
   
-- [Sketch for Teams](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- Sketch for Teams - for mockups and design proposals
 - UXPin - for some clickable prototyping
 - Mural - for note taking and organization, especially after usability testing
 - Github markdown - main source for storing documents and linking to the epic
