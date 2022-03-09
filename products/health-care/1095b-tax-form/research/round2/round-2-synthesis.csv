@@ -1,0 +1,26 @@
+﻿,P1,P3,P4,P5,P6,P7,P8,P11
+Enrolled in VA Healthcare,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Primary / Secondary,Primary,Primary,Secondary,Primary,Primary,Primary,Secondary,Secondary
+Familiar with 1095-B,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Method of Filing Taxes,,,TurboTax,Paper,Online,Online,Tax Preparer,Online
+Do you know if the 1095-B Document is required when you're filing your taxes?,"""[The tax preparer] looks at it but I don't have to include it""","""I shred it…"" Doesn't Need it","No, but it asks you if had insurance and maybe you need it for auditing","""I don’t think it is""
+
+Reports keeping it for files","No ""I never filed it""",Unsure… Participant believes they submitted them with taxes last year,"""I thought it was a requirement""","""I don't really need it… I filed it with my income tax paperwork""
+
+I don't know that anybody really needs it. Because there, there doesn't seem to be a lot of follow up with the IRS.
+"
+Completed Task,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Print,1,,,2,,,,1
+Download,2,1,1,1,1,1,,2
+Error on Form: 1st Method,Eligibility Department,Try to fix information on the form,Go to ebenefits to update address,Try to fix information on the form,Change Your Address,Try to fix information on the form,Look for directions on the form,FAQ: Enrollment center phone number
+Error on Form: 2nd Method,Change your Address ,Change your address,Change your address,FAQ: Enrollment center phone number,FAQ: Enrollment center phone number,FAQ: Enrollment center phone number,FAQ: Enrollment center phone number,
+Error on Form: 3+ Methods,Profile Page,FAQ: Enrollment center phone number,,,,,,
+Expectation / Experience calling Phone Number,"""Everything is a long wait, but it's something you have to do. So you have to pack your patience.""",,,,,,,
+Worth it to call if address wrong only?,"""Yes, because that [address] error could cause a lot of other errors down the line.""",,,,,,,"""Since it is a legal document it should be correct. Social security, address, whatever… I would want it corrected"""
+Phone vs Online Form vs Secure Message,"""I prefer secure messaging if someone got back to you to confirm it was changed.""",Secure Message,"Online Form ""because I could get a digital receipt""",Phone,Secure Message,"There's a lot of websites I go to… they have a chat button on the bottom right hand corner, and you let them know what your issue is. That would be really helpful. Often you can get your problem resolved right away""",Prefers filling out a form to update the information,"Send an online message. ""Im not a phone person"""
+Records location make sense?,Yes,Yes,Yes,Yes,N/A,Yes,No. It should go somewhere else. Maybe the homepage,Yes
+"Based on what you've seen today, would you prefer getting the 1095-B document on the VA website rather than getting a copy in the mail?",Digital,Digital,Digital,Paper,Both,"Digital. ""Paper documents can get lost, you can get them too early or too late. You're saving the mail cost and a lot of trouble. I can just print it out whenever I want it""","Digital.
+
+Participant inquired about a paperless opt in option unprompted.",Digital
+Other Quotes,"""Sometimes your mail gets lost and then you have a problem of trying to get that document again""","""It says due to changed to the Affordable Care Act, this document is no longer required to file your federal taxes. So why do they still send it out? Because its no longer required""","""I'm pretty technical, and I can find it. Its not another piece of paper to keep up with""",,"""I'd prefer both… mail is a backup. Electronics are reliable, but not everyday. If the document is that important the VA should send me both.""",,"""The [Directions] should be right there on the form instead of having to click around [to find it.]""","""So since it's only going to be available for one year, I would print it.. And put it with my income tax records. If it was going to be something I could go back say three years and pull it up to print it if I needed it then I would not print it but that's kind of like your your statements that they keep online for one year. I do most of most of my stuff is online."""
+Other Quotes,,,,"""I prefer to visit in person… so I don't have to worry about making a mistake""","""The document belongs to the VA and not to me. They own it and I don't""",,,
