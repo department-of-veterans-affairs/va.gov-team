@@ -11,65 +11,80 @@
 *Have DM group ready to go*
 
 
-## Introduction and exercise instructions - 15 minutes
+## Introduction and activity instructions - 15 minutes
 
 ### Intro
 
-Thanks for joining us today! Today we're going to do an activity to help evaluate new placement criteria for benefit content. 
+Thanks for joining us today! Today we're going to do an activity to help evaluate new criteria for determing where content should be placed between the benefit hubs and Resources and Support.  
 
-Before we start, a few things I want to mention:
+This entire session should take about 2 hours.
 
-- **This entire session should take about 2 hours.** 
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve the tools to better meet your needs. We will not be offended by any opinions you express, and we welcome your feedback.
-- **If for any reason and at any time you want to stop the session, please let us know.** 
-- **Is everyone comfortable if I record this session as we talk?** 
+Is everyone comfortable if I record this session as we talk? 
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record this session? 
+The goal of this session, is to have you utilize and give feedback on a set of criteria that are intended to provide guidance in determining if content should be placed within the benefit hubs or the Resources and Support section, or potentially somewhere else. 
 
+There will be 2 parts to today's session.  
+- First, you will each be working independently on an activity for approximately 30-40 minutes. 
+- Then, at the completion of the activity, we will come back together for a group discussion.
+ 
+Ready?
 
-### Exercise set up
+### Activity set up
 
-Today you will be evaluating a set of criteria that are intended to provide guidance in determining if content should be placed within the benefit hub area of VA.gov or the Resources and Support section.
+Today, a VA partner has asked for 5 pages of content to be migrated into the modernized VA.gov experience.  Your task will be to utilize new placement criteria to make a decision on where in the modernized experience this content should go. 
 
-We are going to provide you with 5 content pages that a hypothetical VA partner has asked be migrated into the modernized VA.gov experience.  
-
-We are also going to provide you with a spreadsheet showing a list of new placement criteria.  
-
-Your task is to use the placement criteria to determine whether the content should be placed in a benefit hub or in Resources and Support.
-
-The spreadsheet will be your working document and where you will indicate your decision.  You can also add notes, comments, questions and feedback as you go along. 
+- We will provide you with a word document containing the 5 content pages.  
+- We will also provide you with a spreadsheet that includes the new placement criteria. 
+- The spreadsheet is your working document and where you will indicate your decision on placement, as well as any thoughts, questions, or feedback. 
 
 **A few notes:**
-- Some of this content may look familiar to you, and we ask that you do not make the determination based on what you know about where it lives today, but instead use the criteria to reach an answer.
-- There are no wrong answers, we are evaluating the clarity of the criteria, not your work.
-- You are not required to keep the pages in tact, they can be broken up if you find that some pieces of a page belong in one place, while other pieces belong elsewhere. Indicate that approach as best as you can in the spreadsheet. 
-- You may determine that some content does not belong in either the benefit hub or R&S, indicate that in the spreadsheet as well. 
-- You do not need to rewrite any content, or create a new structure, just provide your high level evaluation of placement.
-- Please work on the pages in order. It is ok if you do not get to all of the pages.
+- Some of this content may look familiar to you - we ask that you do not make your decision based on what you know about where it lives today, but instead use the criteria to reach an answer.
+- There are no wrong answers, we are evaluating the criteria, not your work.
+- You are not required to keep the content pages in tact. They can be broken up if you find that some pieces belong in one place, while other pieces belong elsewhere. Please indicate your decisions and approach as best as you can in the spreadsheet. 
+- You may determine that some content does not belong in either the benefit hubs or R&S. Please indicate that in the spreadsheet along with any supporting thoughts. 
+- You do not need to rewrite or restructure content, just provide focus on the placement decision.
+- Please work on the pages in the order they are in the Word document. It is ok if you do not get to all of the pages, just do your best to progress through as many as you can.
 
+Any questions about the activity?
 
 ### Logistics
 
-- During this exercise, we will keep the zoom call open so you can ask questions about the exercise as needed.  We will not answer questions about the criteria or content. 
+- During the activity, we will keep the zoom call open so you can ask questions as needed.  We will not be able to answer questions about the criteria or content themselves, but we can help with the activity. 
 - Everyone should be muted, and you may turn your cameras off while you work. We will turn ours off as well. 
-- You will have around 30 minutes for this activity.  We will check in at 30 minutes, to gauge where everyone is at and allow you to wrap up on your current item.
-- We will bring everyone back on the call at the end of the activity for a group discussion.
+- We will check in at 30 minutes and determine how much additional time is needed. We will spend no more than 40 minutes on this activity.
 
-I will drop the documents you need into a DM, please download and save locally for your use.  At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your results.  We do not need the word document back. 
-
+Are you all ready?
 
 ## Breakout for activity: 30-40 minutes
 
+I will drop the documents you need into a DM, please download and save locally for your use.  
+At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your results.  We do not need the word document back. 
 
+See you all in about 30 minutes!
+
+[Note time - give 30-35 minutes]
+[Check in at 30-35 minutes to see how everyone is doing. Give them a 5-10 minute warning to finish up if needed]
 
 ## 5 minute break
 
-[Have them send spreadsheets via DM]
+Ok, if I can get everyone to come back to the call.
+
+We are going to take a 5 minute break before we start the group discussion.  
+If you could please drop your spreadsheet into the DM from earlier before you break, that would be great!
+
+See you back here at [TIME]
 
 
 ## Post-activity discussion - 30-40 minutes
+
+Welcome back everyone!
+
+We would like to have a group discussion to hear your thoughts on using the placement criteria.  
+- Not everyone may have landed on the same decision, and that is absolutely ok!
+- We are looking to learn how each of you, as individuals, understood and used the criteria. 
+- Your feedback and thoughts will not offend us in any way, we really do want to hear from each of you.
 
 **Explore ease of understanding** (5 minutes)
 Drop your response in the zoom chat:  <br>
