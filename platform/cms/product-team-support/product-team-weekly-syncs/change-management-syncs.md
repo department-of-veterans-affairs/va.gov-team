@@ -12,7 +12,17 @@
  - item
  </details>
  
- 
+## March 10, 2022
+
+- Top task beta test (Suzanne)
+- Recurring events (Kevin)
+- Care we provide (Denise)
+- VAST data change runbooks (Kevin)
+- RACI next week (Denise)
+  - Purpose
+  - Inviting Jenny
+- Community of Practice (Denise)
+
 ## March 3, 2022
 
 - Email protocol (Denise)
