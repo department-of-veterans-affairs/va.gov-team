@@ -1,4 +1,4 @@
-# 1095-B Tax Document Research Findings – Round 2 [Work in Progress]
+# 1095-B Tax Document Research Findings – Round 2
 
 **Office of the CTO – Digital Experience (OCTO-DE),**  **1095-B Tax Form, Team MOVE**
 
