@@ -1,6 +1,7 @@
-Login.gov Issues
 
-Issues participants had during login for login.gov:
+### Login.gov Issues
+
+**Issues participants had during login for login.gov:**
 
 1. After attempting to connect to login.gov, "Safari cannot open the page because the network connection was lost". 
 2. Booted out of login.gov verification process, and had to do it again
@@ -12,3 +13,4 @@ Issues participants had during login for login.gov:
 8. Error: camera blocked: 
 
 
+<img width="413" alt="Screen Shot 2022-02-25 at 12 25 45 PM" src="https://user-images.githubusercontent.com/79866060/157479372-b81a2472-9231-4315-ab46-dbc229feaab6.png">
