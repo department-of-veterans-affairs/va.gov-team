@@ -126,80 +126,66 @@ Mural
 #
 
 
-## Who we talked to 
+**Participant Must Haves (Primary Criteria):**
 
-**Recruitment criteria**
+- 12 participants scheduled (minimum 6 completed session)
+- 6 Participants with a no degree or a high school degree as their highest degree obtained
+- 2 Participants with a cognitive disability
+- 2+ Participants Age 55 or older
+- Participants must have access to Zoom on a desktop computer
+- We will not be able to accommodate non-sighted users due to the prototype technology.
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+**Secondary Criteria:**
 
-We talked to **x participants.**
+- Preference for Black, Latinx, Biracial, Asian or Native Participants
+- Preference for LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) or non-binary participants
+
+
+We talked to **8 participants.**
+
+<img width="915" alt="round2-recruitment-matrix" src="https://user-images.githubusercontent.com/22205441/157488725-049936c6-0961-4769-928c-c2c34e910912.png">
+
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 8 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 3 
+* Female: 5 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+Did no specify in recruitment criteria
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
+* Desktop: 8
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 45-54: 2
+* 55-64: 3
+* 65+: 2
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
+* High school degree or equivalent: 6
+* Bachelor's degree: 1
+* Master's degree: 1
 * Doctorate degree: x
-* Unknown: x
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+Did not specify in recruitment criteria
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 4
+* Black: 3
+* Hispanic: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 2
