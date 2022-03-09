@@ -69,8 +69,6 @@ We used these UX design resources to guide our design and development.
 Add team-specific process documentation; add notes.
 
 - [Team process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/folder/launch-playbook/checklist.md)
-- [Reference doc]
-- [Reference doc]
 
 <details>
   <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
