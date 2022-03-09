@@ -39,3 +39,4 @@
 | New booster content on mini-hub and booster pages | 11/19 | 11/22 |
 | Omicron/booster updates | 12/7 | 12/7 |
 | Teen boosters | 12/13 | 12/13 |
+| Vaccine updates 3/1 | 3/1 | 3/1 |
