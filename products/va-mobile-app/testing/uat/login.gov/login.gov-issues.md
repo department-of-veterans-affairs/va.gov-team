@@ -1,6 +1,6 @@
 
 ### Login.gov Issues
-
+As we conducted UAT, we collected notes on any issues participants while creating or verifying their login.gov accounts. [Link to notes](https://docs.google.com/spreadsheets/d/1h-Y1KKhPS1Yguu_tAizmkWEPU2vX1K44m0xUII7L2Og/edit?usp=sharing)
 **Issues participants had during login for login.gov:**
 
 1. After attempting to connect to login.gov, "Safari cannot open the page because the network connection was lost". 
