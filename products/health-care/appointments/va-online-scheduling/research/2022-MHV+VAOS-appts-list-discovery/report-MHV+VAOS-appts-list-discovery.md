@@ -8,7 +8,7 @@ Prepared by Peter Russo - peter.russo@adhocteam.us
 
 With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
-[Research Report slide deck] (https://docs.google.com/presentation/d/1kT6P3F89K8CZfT1MSvkQSU6sMWzgQz-ziloCYIPC6GY/edit?usp=sharing)
+[Research Report slide deck](https://docs.google.com/presentation/d/1kT6P3F89K8CZfT1MSvkQSU6sMWzgQz-ziloCYIPC6GY/edit?usp=sharing)
 
 <br>
 
