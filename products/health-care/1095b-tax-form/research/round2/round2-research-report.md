@@ -13,7 +13,7 @@ Date: 03/08/22
 - [Background](#background)
 - [Overall Findings](#overall-findings)
 - [Themes](#themes)
-- [Recommendations &amp; Next Steps](#recommendations--next-steps)
+- [Recommendations](#recommendations)
 
 
 # Background
