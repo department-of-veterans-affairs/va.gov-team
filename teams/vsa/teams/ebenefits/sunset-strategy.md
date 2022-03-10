@@ -8,6 +8,7 @@
 
 **EBN dashboard:** sqa.eauth.va.gov/ebenefits/apply  
 **User EBN dashboard:** sqa.eauth.va.gov/ebenefits/profile  
+**Performance Dashboard** https://app.datadoghq.com/dashboard/eih-ad2-764/ebenefits-migration-team-ebn?from_ts=1646849056120&to_ts=1646935456120&live=true
 
 | Feature                                             | Portfolio     | Launch Status | Redirect Status (on EBN)    | Link to transition doc | --    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
