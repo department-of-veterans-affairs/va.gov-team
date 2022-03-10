@@ -93,5 +93,5 @@ Driving this "streamlining" concept, in Meg's words: The VA.gov authenticated ex
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
 ## How to configure this issue
-- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `tools-be`, `tools-fe`,`content-ia`, `service-design`, `vsa-*`)
+- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `Console-Services`, `tools-fe`,`content-ia`, `service-design`, `vsa-*`)
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)  
