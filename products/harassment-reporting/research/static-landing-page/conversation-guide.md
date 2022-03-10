@@ -221,10 +221,11 @@ What thoughts do you have about what you've reviewed today?
 
 - What would you like to *change* about what you've reviewed today?
 
-We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
+We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. Are you comfortable if I ask a few more questions?
 - Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
 - If you or your friend was harassed, was it reported? *(no / yes)*
-- If so, *how* was it reported? *(phone call / in person / ___________)* - If it wasn't reported, what were the barriers to reporting it?
+- If so, *how* was it reported? *(phone call / in person / ___________)* 
+- If it wasn't reported, what were the barriers to reporting it?
 
 How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
