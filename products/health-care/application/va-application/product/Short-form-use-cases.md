@@ -61,3 +61,16 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
+
+## Use Case D
+
+* **Description** Authenticated
+  - Veterans is 
+  
+
+* **Link to designs**
+  - 
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - lorem ipsum
+
