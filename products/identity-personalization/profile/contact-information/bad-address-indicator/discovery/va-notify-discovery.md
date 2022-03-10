@@ -11,19 +11,24 @@ This exercise is intended to learn about the VA Notify UI and requirements for c
 
 - What documentation is available?
   - [VANotify Platform README on GitHub](https://staging.notifications.va.gov/)
-  - [VANotify Notification Guide on GitHub]()
-  - [VANotify API Documentation]()
+  - [VANotify Technical Onboarding Guide on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md#technical-onboarding-guide)
+  - [VANotify API Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md)
 
 - Is there a cost associated with using VANotify?
-  - Yes. These [costs](https://staging.notifications.va.gov/) and information about assigning AWS credits to cover the costs are explained in the documentation.
+  - Yes. These [costs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md#pricing) and information about assigning AWS credits to cover the costs are explained in the documentation.
 
 - Is there a template we can use?
   - Yes - There are [examples here](https://staging.notifications.va.gov/) and we can build our own.
   - I created a [draft template](https://staging.notifications.va.gov/service/5e5cded3-3c76-46a3-9eef-cb63589e76be/templates/149f000b-3cde-4150-b6aa-ce47da8e124b)
 for us to iterate on. 
+  - There are also template guides:
+    - https://design.va.gov/patterns/email_template
+    - https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
+    - https://notification.canada.ca/templates
 
 - Is there a request form we need to use to request an email?
   - [Yes](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/issues/department-of-veterans-affairs/va.gov-team/new?issueType=issue)
+  - There is also an [intake board](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/board?repos=133843125,261511794) for checking the status of the request.
 
 - What fields are available for us to populate in the UI?
   - Fields are determined by us
@@ -50,7 +55,7 @@ for us to iterate on.
 
 - What types of metrics can we gather?
   - Infrastructure and API stats through Datadog
-  - Email open rates and click-through rates through Google Analytics
+  - Email open rates and click-through rates through [Google Analytics 360](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open) - navigate to [this page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D/) and select your notification from the list.
   - API Transaction logging through Cloudwatch
   - Alerts through Pagerduty
 
