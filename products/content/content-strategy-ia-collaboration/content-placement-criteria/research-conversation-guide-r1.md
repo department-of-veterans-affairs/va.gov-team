@@ -17,7 +17,7 @@
 
 Thanks for joining us today! Today we're going to do an activity to help evaluate new criteria for determing where content should be placed between the benefit hubs and Resources and Support.  
 
-This entire session should take about 2 hours.
+This entire session should take about 2 hours.  We ask that you turn off slack notifications and emails during this session, so we can have your full focus on completing the activity. 
 
 Is everyone comfortable if I record this session as we talk? 
 
@@ -41,6 +41,13 @@ To do this activity,
 - We will also provide you with a spreadsheet that includes the new placement criteria. 
 - The spreadsheet is your working document and where you will indicate your decision on placement, as well as any thoughts, questions, or feedback. 
 
+
+[Drop files into DM]
+
+I just dropped the 2 documents into our group DM, please download and save locally for your use.  
+I will give you each a couple of minutes to download and open them up and take a quick look.
+
+
 **A few notes:**
 - Some of this content may look familiar to you - we ask that you do not make your decision based on what you know about where it lives today, but instead use the criteria to reach an answer.
 - There are no wrong answers, we are evaluating the criteria, not your work.
@@ -51,18 +58,17 @@ To do this activity,
 
 Any questions about the activity?
 
-### Logistics
-
-- During the activity, we will keep the zoom call open so you can ask questions as needed.  We will not be able to answer questions about the criteria or content themselves, but we can help with the activity. 
-- Everyone should be muted, and you may turn your cameras off while you work. We will turn ours off as well. 
-- We will check in at 30 minutes and determine how much additional time is needed. We will spend no more than 40 minutes on this activity.
-
-Are you all ready?
 
 ## Breakout for activity: 30-40 minutes
 
-I will drop the documents you need into a DM, please download and save locally for your use.  
-At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your results.  We do not need the word document back. 
+Ok, let's get started!
+
+- During the activity, we will keep the zoom call open so you can ask questions as needed.  We will not be able to answer questions about the criteria or content themselves, but we can help with the activity. 
+- Everyone should be muted, and you may turn your cameras off while you work. We will turn ours off as well. 
+- At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your notes and decisions, so keep add working notes to the file.  
+- We will check in with you all in about 30 minutes to see how it is going. 
+
+Are you all ready?
 
 See you all in about 30 minutes!
 
