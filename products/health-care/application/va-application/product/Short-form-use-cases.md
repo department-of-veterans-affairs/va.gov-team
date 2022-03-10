@@ -22,7 +22,8 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Description**
   - Veterans is logged-in (authenticated) and has a disability rating of 50% or higher.
-  - General flow:
+    - General flow: customer sees standard bio info (name, ssn, dob) and next sees a new "Short form alert" page
+    - Next he enters Veteran info as shown in the flow diagram to Insurance and from there onto Review and Submit.
     - 
 
 * **Link to designs**
