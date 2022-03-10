@@ -21,7 +21,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 ## Use Case A
 
 * **Description** Authenticated
-  - Veterans is logged-in (authenticated) and has a disability rating of 50% or higher.
+  - Veteran is logged-in (authenticated) and has a disability rating of 50% or higher.
     - General flow: customer sees standard bio info (name, ssn, dob)
     - Next is presented with a new "Short form alert" page
     - From here he enters Veteran info as shown in the flow diagram (required fields that are not pre-populated)
