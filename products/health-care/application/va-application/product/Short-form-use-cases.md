@@ -21,7 +21,9 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 ## Use Case A
 
 * **Description**
-  - lorem ipsum
+  - Veterans is logged-in (authenticated) and has a disability rating of 50% or higher.
+  - General flow:
+    - 
 
 * **Link to designs**
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq))
