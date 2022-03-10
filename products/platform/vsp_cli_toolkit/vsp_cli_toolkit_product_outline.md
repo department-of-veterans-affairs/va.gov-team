@@ -2,11 +2,11 @@
 
 ## Overview
 
-VTK (VSP ToolKit) is a product built by the Backend Tools team through a CLI (Command Line Interface) written in Ruby and hosted on RubyGems.  The goal of VTK is to develop a tool that is easy to install via the command line, and allow developers the ability to execute commands defined within the toolkit. The toolkit will streamline timely processes and decrease the amount of time it takes for developers to get started. Our goal of this tool is to centralize and automate the core steps that developers are required to take in order to start their development work.  Furthermore, the toolkit will improve and introduce new functionality developers are already utilizing in a simple one step process.
+VTK (VSP ToolKit) is a product built by the Console Services team through a CLI (Command Line Interface) written in Ruby and hosted on RubyGems.  The goal of VTK is to develop a tool that is easy to install via the command line, and allow developers the ability to execute commands defined within the toolkit. The toolkit will streamline timely processes and decrease the amount of time it takes for developers to get started. Our goal of this tool is to centralize and automate the core steps that developers are required to take in order to start their development work.  Furthermore, the toolkit will improve and introduce new functionality developers are already utilizing in a simple one step process.
 
 A CLI was selected as the best tool due to the ease of getting an MVP out to the customers, as well as the simple fact that developers are already familiar with working on the command line. In turn, invoking the toolkit commands will be be familiar and straightfoward.
 
-VTK will initially be built by the Backend Tools team, however it is built in such a way that that teams (both platform and VFS) can contribute to its functionality to solve specific problems as they arise.
+VTK will initially be built by the Console Services team, however it is built in such a way that that teams (both platform and VFS) can contribute to its functionality to solve specific problems as they arise.
 
 ## Problem Statement
 
