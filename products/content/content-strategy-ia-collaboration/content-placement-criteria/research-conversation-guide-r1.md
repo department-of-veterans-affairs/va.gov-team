@@ -34,17 +34,21 @@ Ready?
 
 ### Activity set up
 
-Today your team was given the task of reviewing and possibly reorganizing some content on VA.gov.  You have been asked to review 5 pages of that content and determine where it should live within the modernized VA.gov experience - the benefit hubs or Resources and Support.  To help with this task, you have been given some newly written placement criteria to use in your decision making. 
+Here is your task...
 
-To do this activity, 
-- We will provide you with a word document containing the 5 content pages.  
-- We will also provide you with a spreadsheet that includes the new placement criteria. 
-- The spreadsheet is your working document and where you will indicate your decision on placement, as well as any thoughts, questions, or feedback. 
+Your team was given the task of reviewing and possibly reorganizing some content on VA.gov.  You have been asked to review 5 pages of that content and determine if it should live within the benefit hubs or Resources and Support.  
+To help with this task, you have been given some newly written placement criteria to use in your decision making. 
+
+To help with this task, you will be provided with 2 documents
+- A word document containing the 5 content pages
+- A spreadsheet that includes the new placement criteria
+
+The spreadsheet will be your working document and where you should log your decision on placement, as well as any thoughts, questions, or feedback. 
 
 
 [Drop files into DM]
 
-I just dropped the 2 documents into our group DM, please download and save locally for your use.  
+I just dropped the 2 documents into the group DM I created earlier, please download and save the files locally for your use.  
 I will give you each a couple of minutes to download and open them up and take a quick look.
 
 
@@ -63,10 +67,10 @@ Any questions about the activity?
 
 Ok, let's get started!
 
-- During the activity, we will keep the zoom call open so you can ask questions as needed.  We will not be able to answer questions about the criteria or content themselves, but we can help with the activity. 
-- Everyone should be muted, and you may turn your cameras off while you work. We will turn ours off as well. 
-- At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your notes and decisions, so keep add working notes to the file.  
-- We will check in with you all in about 30 minutes to see how it is going. 
+- During the activity, I will keep the zoom call open so you can ask questions as needed.  We will not be able to answer questions about the criteria or content themselves, but we can help with the activity. 
+- Everyone should be muted, and you may turn your cameras off while you work. 
+- At the end of the activity, I will ask you to drop your copy of the spreadsheet into the DM with your notes and decisions, so please add any and all thoughts, comments and decisions to the file.  
+- We will check in with you after about 30-35 minutes to see how it is going. 
 
 Are you all ready?
 
