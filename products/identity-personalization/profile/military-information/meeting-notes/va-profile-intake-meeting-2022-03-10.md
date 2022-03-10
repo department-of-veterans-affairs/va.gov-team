@@ -9,6 +9,9 @@
 - Barry Wilbanks
 - Rebecca Giacomelli
 - Daniel Ramunda
+- Samara Strauss
+- Lihan Li
+- Marci McGuire
 
  ## Notes
 - VA.gov Profile have relatively little military info. 
