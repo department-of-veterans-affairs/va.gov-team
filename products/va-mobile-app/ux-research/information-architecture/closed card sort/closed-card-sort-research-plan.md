@@ -76,6 +76,7 @@ This research will allow us to adjust the information architecture (and navigati
     1. Do veterans understand the proposed categories?
     2. Are there any cards that veterans felt uncertain about what category to place them in? 
     3. Are there any categories missing?
+2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
 
 
 ### Hypotheses 
