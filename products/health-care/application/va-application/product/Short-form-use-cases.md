@@ -38,7 +38,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 ## Use Case B 
 
 * **Description** Authenticted / Self Reports Disability rating of 50% +
-  - Veterans is logged-in (authenticated) and we don't have a disability rating of 50% or higher.
+  - Veteran is logged-in (authenticated) and we don't have a disability rating of 50% or higher.
     - General flow: Customer progresses through standard authenticated flow and enterans Veteran Info
     - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 50% o higher
     - Sees a confirmation screen asking to confirm their rating is 50% or higher
@@ -65,11 +65,13 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 ## Use Case D
 
 * **Description** Full application flow / less than 50% disability rating
-  - Veterans is 
+  - Veteran is either auth or unauth
+  - Less than 50% disabilty rating
+  - Existing flow
   
 
 * **Link to designs**
-  - 
+  - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
