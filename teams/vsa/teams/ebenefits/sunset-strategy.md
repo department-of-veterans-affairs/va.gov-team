@@ -9,6 +9,8 @@
 **EBN dashboard:** sqa.eauth.va.gov/ebenefits/apply  
 **User EBN dashboard:** sqa.eauth.va.gov/ebenefits/profile  
 **Performance Dashboard** https://app.datadoghq.com/dashboard/eih-ad2-764/ebenefits-migration-team-ebn?from_ts=1646849056120&to_ts=1646935456120&live=true
+**Analytics Dashboards** https://analytics.google.com/analytics/web/?authuser=1#/a50123418w177519031p176188361/report/dashboard
+**Incident Response** https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/dependency-claims/incident-response.md
 
 | Feature                                             | Portfolio     | Launch Status | Redirect Status (on EBN)    | Link to transition doc | --    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
