@@ -10,10 +10,12 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 <details>
 <summary></summary>
   
-- [Use Case A](#use-case-a) 
-- [Use Case B](#use-case-b)
-- [Use Case C](#use-case-c) 
-
+- Authenticated-immediate alert ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq))
+- Authenticated-self-report ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb))
+- Unauthenticated-self-report ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j))
+- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+  
+  
 </details>
 
 ## Use Case A
@@ -22,7 +24,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - lorem ipsum
 
 * **Link to designs**
-  - lorem ipsum
+  - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
