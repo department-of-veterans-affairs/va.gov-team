@@ -135,25 +135,38 @@ Purpose:  Define the scope of features, defects, enhancements that will be part 
    <td>
 <ul>
 
+   **General Release**
+   
 <li>All committed issues have been coded and marked as closed in ZenHub 
+ 
+<li>Ensure all tickets are tagged appropriately (epic, labels, release date, etc)  
+
+<li>QA testing has been completed
+   
+<li>Follow up on any open issues/concerns
+ 
+   **New Feature Release - Pre-Launch Readiness**
 
 <li>Communication and associate readiness tasks have been completed 
 <ul>
- 
-<li>Call center documentation  
-<ul>
   
-<li>What call center documentation should be updated? Does the release warrant a demo to the call centers?
+<li> Complete Call Center documentation.  Does the release warrant a demo to the call centers?
   
 <li>Advance notification should be given to VEO or HRC for larger feature releases
+   
+   - HRC POC:  Brenda Torres-Hill (brenda.torres-hill@va.gov)
+   - VEO : Submit GitHub ticket <a href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D">template</a> review materials, and then share with the VEO call centers 
   
 <li>See Request <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md">Contact Center Review</a> for directions on how to interact with VEO on product guide updates (see <a href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/32766">#32766</a> as an example)
+   
 </li>  
 </ul>
 </li>  
 </ul>
 
-<li>QA/UAT review has been completed
+<li>Create UAT plan and execute testing 
+   
+<li>Follow general release steps when ready to launch    
 </li>
 </ul>
    </td>
@@ -239,6 +252,25 @@ Owner:  Engineering, the release version update is automated.  No action needed 
    </td>
   </tr>
   <tr>
+  <td>Release Checklist
+  </td>
+   <td>Purpose: Checklist to confirm all tasks have been completed before sign off
+<p>
+Owner: Product Management
+<p>
+- What's New Text
+<p>
+- Content Updates
+<p>
+- Product: Create Pull Request for What's new Content
+<p>
+- VA - Approve Pull Request for What's New Content [Assign Travis as approver]
+<p>
+- VA - Add comment/approve vX.XX.O after Pull Request has been merged and release is approved
+<p>
+Example completed <a href="https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2555">ticket</a>
+<p>
+ <tr> 
    <td>What’s New Content
    </td>
    <td>Purpose: Notes that let new and existing users know about any changes on the app. The updates should be made on the release sign off ticket and added to the repo 
@@ -277,40 +309,15 @@ Owner:  Product Management to coordinate with engineering and QA
   <tr>
    <td>Sign-Offs
    </td>
-   <td>QA:  Upon successful end to end testing QA will 
-<ul>
-
-<li>Update the release ticket with a snapshot of the test results from TestRail
-
-<li>Update checkbox for sign off
-
-<p>
-Product Management:  Product Manager(s) should complete the following before signing off
-<ul>
-
-<li>Complete a high level validation of features that will be released.  Coordination with QA 
-
-<li>Ensure app store content changes are added to the repo if applicable
-
-<li>What’s new content is added to the repo
-
-<li>Notify VA POs when sign off is ready
-
-<li>Upon completion update checkbox for sign off
-
-<p>
-VA POs:  VA POs will 
-<ul>
-
-<li>Review and approve the repo updated changes for the release
-
-<li>Update checkbox for sign off
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+   <td>Purpose: Confirmation that all release tasks have been completed and the planned release is approved to move forward
+ 
+  <p> 
+  
+  QA: Sign off when testing/regression is successfully complete
+  <p> 
+  Product:  Sign off when high level validation is complete, QA has completed sign off complete, and release checklist tasks completed
+  <p>
+  VA POs:  Sign off when notification from PMbthat ticket is ready for sign off, PR updates are approved (what's new content, app image & content updates, etc), and ok to move forward with the release. 
    </td>
   </tr>
 </table>
@@ -350,9 +357,10 @@ Who: Engineering,
 
 <li>Check DSVA slack channel #va-mobile-build-alerts to confirm release success.  If failures check in with engineering 
 
-<li>Close the release in ZenHub	
+<li>Screenshot and send release report to Program Manager
 
-<li>Close Release Sign Off Ticket						
+<li>Close the release in ZenHub	
+						
 </li>
 </ul>
    </td>
