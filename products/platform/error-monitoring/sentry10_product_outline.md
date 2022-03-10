@@ -62,11 +62,10 @@ These additions have been slated to be included in Q4 of 2020 and not as part of
 
 <details>
 
-- Team Name: Backend Tools
-- GitHub Label: tools-be, sentry10
+- Team Name: Console Services
+- GitHub Label: Console-Services, sentry10
 - Slack channel: #vsp-tools-be
-- Product POCs: Alex Pappas
-
+- Product POCs: Nate Peterson
 </details>
 
 ### Stakeholders
