@@ -1,4 +1,4 @@
-# Back End Tools Team Charter
+# Console Services Team Charter
 
 ---
 
@@ -33,13 +33,14 @@ _List of products within your team's perview - make sure the list of products he
 
 ### Team Members:
 
-- Team Product Manager: Jeff Dunn
+- Team Product Manager: Nathan Peterson 
 - BE Dev Lead: Eric Boehs
 - BE Dev Engineer: Lindsey Hattamer
 - BE Dev Engineer: Travis Hilton
 - BE Dev Engineer: Riley Anderson
-- BE Dev Engineer: Cameron Testerman
-
+- BE Dev Engineer: Jeremy Wu
+- BE Dev Engineer: Rachal Cassity 
+- Dev Ops Engineer: Naoufal El Hilali
 ---
 
 ## How we work
