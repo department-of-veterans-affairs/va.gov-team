@@ -17,6 +17,8 @@ The PTA needs to be completed for any new project or piece of work on VA.gov.  T
 
 IRS Form 1095-B reports the months a person had qualifying minimum health coverage to the IRS. The VA sends this document to Veterans to show what months they were covered under the VA healthcare system. Our team is digitizing the 1095-B IRS tax form to make it available to Veterans to download on VA.gov. We do not collect any new information from Veterans. We are taking information the Veteran has submitted to the HEC enrollment center, putting it into a document, and allowing the Veteran to download the document upon request.
 
+Draft product guide document - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/DRAFT%20product_guide_-_contact_center_review%20030722.pdf
+
 3. Do you collect, process, or retain Personally Identifiable Information (PII) on any of the following: (check all that apply)
 
 - [X] Veterans or dependents
