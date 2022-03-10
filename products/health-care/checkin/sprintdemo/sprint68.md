@@ -4,7 +4,7 @@ Check-In Experience (aka Chick’n Eggsperience)
 Sprint 68 demo
 February 23, 2022
 
-Sprint 68 Demos
-Demo of setting pre-check-in status (Gaurav and Adrian)
-New edit feature- UI only (Mark)
+Sprint 68 Demos<br>
+Demo of setting pre-check-in status (Gaurav and Adrian)<br>
+New edit feature- UI only (Mark)<br>
 Edge case wireframe demo (Zach)
