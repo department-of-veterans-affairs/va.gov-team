@@ -1,8 +1,8 @@
 # Utility Developer Role
 
-[VSP Product Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/product-dev-support) recieves support requests from VFS teams, VSP leadership, and VA stakeholders. These requests often require direct support from the Backend Tools team. The specific support requirements vary, and can lead to unscheduled context switching for the engineers who are involved.
+[VSP Product Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/product-dev-support) recieves support requests from VFS teams, VSP leadership, and VA stakeholders. These requests often require direct support from the Console Services Team. The specific support requirements vary, and can lead to unscheduled context switching for the engineers who are involved.
 
-In an effort to reduce interruptions for the team at large and clarify triage responsibilities, the Backend Tools team will designate a single member of the team each sprint to act as the **Utility Developer**.
+In an effort to reduce interruptions for the team at large and clarify triage responsibilities, the Console Services Team will designate a single member of the team each sprint to act as the **Utility Developer**.
 
 The assignment schedule is available on [PagerDuty](https://dsva.pagerduty.com/schedules#PPGUD8L). :link:
 
