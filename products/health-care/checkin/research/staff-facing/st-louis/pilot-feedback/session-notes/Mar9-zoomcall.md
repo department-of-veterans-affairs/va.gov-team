@@ -1,5 +1,5 @@
 # NOTES FROM VIRTUAL ST. LOUIS INTERVIEW
-March 9, 2022
+Meetings held on March 9, 2022
 
 ## Interview Notes
 Participants
