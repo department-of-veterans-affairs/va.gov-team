@@ -22,6 +22,7 @@
   - Purpose
   - Inviting Jenny
 - Community of Practice (Denise)
+- Environmental check-in for other impacts on editors (Jeff)
 
 ## March 3, 2022
 
