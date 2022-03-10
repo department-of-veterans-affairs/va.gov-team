@@ -1,9 +1,9 @@
 # VSP Identity Datadog Monitoring and Alerting APIs
 
-The VSP Identity team utilizes two primary solutions for monitoring and alerting of va.gov login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/joeidentitytestboard?from_ts=1641144949676&to_ts=1641317749676&live=true). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions rely on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures most of the important information required for the Identity team is captured to monitor all login related activity within VA.gov. 
+The VSP Identity team utilizes two primary solutions for monitoring and alerting of va.gov login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions rely on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures the required information the Identity team is captured.
 
 ### <ins>**Audience**</ins>
-This document is intended to be utilized by anyone who has access to the [Identity Datadog Dashboard](https://app.datadoghq.com/dashboard/97h-d7e-tgr/joeidentitytestboard?from_ts=1641144949676&to_ts=1641317749676&live=true). The details within the document should be enough to help explain what the monitors intent is however the technical implementation of the stats that are collected to create the monitors is not explained in this document, for that you can review the [Identity Metrics and Errors document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Identity_errors_metrics.md).
+This document is intended to be utilized by anyone who has access to the [Identity Datadog Dashboard](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard). The details within this document should be enough to help explain what the monitor's intent is and some initial information on how to respond. The technical implementation of the stats that are collected to create the monitors is not explained in this document, for that you can review the [Identity Metrics and Errors document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Identity_errors_metrics.md).
 
 ### <ins>**Current State**</ins>
 As of 3Jan2022 all the critical alerting lives within datadog which uses statsd and makes calls to pagerduty and slack. Statsd is still being used with Prometheus which also has its own call to pagerduty when an alert threshold is reached, the details of this can be found within the [Identity Errors and Metrics document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Identity_errors_metrics.md). The consolidation of all the alerts to function through Datadog only is currently underway, and this document will serve as the kickoff point to document the changes.
@@ -11,7 +11,7 @@ As of 3Jan2022 all the critical alerting lives within datadog which uses statsd 
 Production monitoring is currently not as easily accomplished because nearly all of the CSPs do not have the capability of creating "test production accounts."
 
 ### <ins>**How to use this document**</ins>
-The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbound, Inbound) → CSP (Login.gov, IDme, etc.) → Stats/Functions being utilized. If you want to know what monitoring is in place per environment, scroll down to the environment. If you want to know what a monitor is used for, search the document for the monitor name. Some monitors alert through pagerduty, others do not, regardless of the case if the monitor exists within Datadog it should be listed within this document.
+The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbound, Inbound) → CSP (Login.gov, IDme, etc.) → Stats/Functions being utilized. If you want to know what monitoring is in place per environment, select the environment from the table of contents built into this github page. It is high If you want to know what a monitor is used for, search the document for the monitor name. Some monitors alert through pagerduty, others do not, regardless of the case if the monitor exists within Datadog it should be listed within this document.
 
 **Note:** Incident response and exhaustive steps to attempt to identify the root cause of each of the alerts fired is out of scope for this document. 
 
@@ -24,7 +24,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
 #### <ins>**Common information for all monitors and alerts**</ins>
 - <ins>**Response Process:**</ins> 
-    Start by checking slack for related outages. Often times the [#va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL)
+For nearly all alerts that could fire you should first check on datadog and view the images that were captured in the failed test. Then check slack for related outages. Often times the [#va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL)
     slack channel will have information about other outages such as DSLogon being down. If any CSP is down, this monitor will often fire, but not every time. The next location to check for issues is within Sentry. Start with [this URL](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=-1&query=is%3Aunresolved+assigned%3A%23vsp-identity&statsPeriod=14d) which filters issues down that are assigned to VSP Identity. The final location to look for anomalies would be in our [grafana SSOe stats dashboard](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&refresh=30m).
     
  - <ins>**Metric Sources:**</ins>
@@ -36,7 +36,6 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
  ---
         
 - ## Production
-    The monitors in production currently are set up to look for cascading login issues, not specifically a single CSP. There is work planned for Jan 2022 which will add more production monitoring. The inability to create production test accounts for the CSPs is what holds us back from monitoring the full login flows in the production environment.
 
   - ## Inbound
 
@@ -62,7 +61,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
      
     - ### **Identity - Production Outbound Sign-in Test IDme**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/edit/9sc-mj9-i64) monitors the current status of IDme outbound login on va.gov. Ensure you check what the failure screen captures show within datadog for this alert before proceeding with troubleshooting. If this monitor is firing it could mean there is an issue with IDme, check the status page for IDme here. It could mean there is an issue with how the ISAM is processing va.gov login attempts, contact IAM team through slack and open an incident. This also could be an issue within vets-api with the session controller or frontend.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/edit/9sc-mj9-i64) monitors the current status of IDme outbound login on va.gov. Ensure you check what the failure screen captures show within datadog for this alert before proceeding with troubleshooting. If this monitor is firing it could mean there is an issue with IDme, check the status page for IDme [here](https://status.id.me/). It could mean there is an issue with how the ISAM is processing va.gov login attempts, contact IAM team through slack and open an incident. This also could be an issue within vets-api with the session controller or frontend.
         
         <ins>**Threshold:**</ins> If login test fails 3 times within 90 seconds, it will fire the alert. 
 
@@ -72,7 +71,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
  
     - ### **Identity - Prod ISAM Metadata Changed**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/c6m-nyw-h6v) specifically looks for changes to the ISAM production metadata file located [here](https://eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_prod_metadata_isam.xml).
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/c6m-nyw-h6v) specifically looks for changes to the ISAM production metadata file located [here](https://eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to a known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_prod_metadata_isam.xml).
 
         <ins>**Threshold:**</ins> If the MD5 sum doesn't match 3 times within 90 seconds, it will fire the alert. 
 
@@ -82,13 +81,13 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
     
     - ### **Identity - Production Inbound [MHV Unified Sign-in] VA.gov AUTO Sign-in Test IDme **
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/erd-8q7-dna) checks that the idme credential can successfully login through the MHV unified sign in page on production and when going to va.gov the user is auto signed in. This is considered an inbound test for documentation purposes. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/erd-8q7-dna) checks that the idme credential can successfully login through the MHV unified sign in page on production and when going to va.gov the user is auto signed in. This is considered an inbound test for documentation purposes. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert IDme to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
 
         <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
 
         <ins>**Metrics used:**</ins> Synthetic Monitor.
 
-        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact to Veterans ability to access MyHealth services.
     
     - ### **Identity - Production Outbound [MHV Unified Sign-in] VA.gov AUTO Sign-in Test MHV **
 
@@ -98,8 +97,17 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
         <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
 
-        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
-    
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact to Veterans ability to access MyHealth services.
+
+    - ### **Identity - Prod Outbound logingov IAL1 **
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/epp-jc4-cq6) checks that the login.gov credential is operating as expected on production. If this alert fires you should first check on datadog and view the images that were captured in the failed test. This alert can fire because the frontend changed the layout, the csp itself could be down, eauth could be down, we may have a certificate issue preventing us from properly signing our saml requests, and a few other less likely scenarios. 
+
+        <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
+
+        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact to Veterans ability to access VA.gov services through the login.gov CSP    
     
     - ### **Identity - Production Outbound [MHV Unified Sign-in] Test MHV **
 
@@ -109,17 +117,17 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
         <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
 
-        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact to Veterans ability to access MyHealth services.
     
     - ### **Identity - Production Outbound [MHV Unified Sign-in] Test IDme **
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/g7i-zpf-3ca) checks that the idme credential can successfully login through the MHV unified sign in page on production. We call this outbound only because it uses the va.gov sign in modal but it's more like a hybrid of inbound and outbound. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/g7i-zpf-3ca) checks that the idme credential can successfully login through the MHV unified sign in page on production. We call this outbound only because it uses the va.gov sign in modal but it's more like a hybrid of inbound and outbound. If this alert triggers it could be the idme credential itself has an issue (all we can do is alert idme to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
 
         <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
 
         <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
 
-        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
+        <ins>**Severity:**</ins> `Critical`. This alert indicates an impact to Veterans ability to access MyHealth services.
         
     - ### **Identity - Production Auth_too_late Login Callback Error Threshold Crossed**
 
@@ -389,5 +397,6 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
 
         <ins>**Severity:**</ins> High. This is a dev alert so it does not impact Veterans but will block engineers from developing in dev if they need authentication in their application.
+
 
 
