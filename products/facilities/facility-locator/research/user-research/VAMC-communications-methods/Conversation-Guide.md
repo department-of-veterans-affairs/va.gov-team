@@ -89,7 +89,7 @@ Before we start, a few things I want to mention:
 
 ## Task 2: Tree test - 15 minutes
 
-Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.com/treejack/) tools. [TBD - create closer to date of study]
+Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.com/treejack/) tools. [Create in Optimal Workshop closer to date of study]
 
 **Task description:**
 - For this task, we will take a look at how links and headings are displayed on certain pages. I will ask you under which headings you expect to find what you are looking for. You can also suggest a new option, if you choose.
