@@ -10,10 +10,11 @@ The PTA needs to be completed for any new project or piece of work on VA.gov.  T
 
 ## COMPLETE QUESTIONS BELOW
 1. Status of project:
-- [ ]  This is a new IT system 
+- [X]  This is a new IT system 
 - [ ] This IT system or project has an existing approved PIA
 
 2. Please describe the purpose of the IT system, project or program in layman’s terms so that a non-technical person can understand.
+IRS Form 1095-B reports the months a person had qualifying minimum health coverage to the IRS. The VA sends this document to Veterans to show what months they were covered under the VA healthcare system. Our team is digitizing the 1095-B IRS tax form to make it available to Veterans to download on VA.gov.
 
 > Provide description
 
@@ -31,12 +32,13 @@ The PTA needs to be completed for any new project or piece of work on VA.gov.  T
 > Provide description
 
 5. How will the PII collected be stored ? 
-
+In a S3 bucket in production
 
 4. Do you use or collect Social Security Numbers (SSNs)?
-- [ ] Yes
+- [X] Yes
 - [ ] No 
 *  If Yes (Please provide the function of the SSN within the project and the legal authority to use or collect it.)
+SSNs are required to 
 
 > Provide description
 
