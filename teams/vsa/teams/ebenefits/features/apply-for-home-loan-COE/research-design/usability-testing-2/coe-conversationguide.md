@@ -87,7 +87,7 @@ I've put a new link in the chat. **Please click on it.**
 
 
 ## Fourth Task: Download existing COE - 5 minutes
-User returns to Check COE Status landing page and signs in to reveal [available status](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140810030/simulate/no-panels?mode=cvhdmf)
+User returns to Check COE Status landing page and signs in to reveal [available status](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/139512694/simulate/no-panels?mode=cvhdmf)
 
 Okay, so let's imagine that some more time has passed and you've returned to va.gov to get your COE.
 
