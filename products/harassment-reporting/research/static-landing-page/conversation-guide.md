@@ -167,13 +167,15 @@ Now I'd like to show you a poster and get your feedback on it. *(share my screen
 Say that while you were at VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
 - *(ask someone / google it? / VA.gov? / ____________________)*
 
-- What assistive technology are you using today?
-- How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
-- How long have you been using a screen reader?
-- Are you wearing headphones today?
+What assistive technology are you using today?
+
+How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
+
+How long have you been using a screen reader?
+
+Are you wearing headphones today? I'm asking so I will be able to hear your screen reader during the session.
   - *(if on desktop)* Could you please share your audio with me on Zoom?
   - *(if on mobile)* Would it be possible for you to take them off and use your computer or mobile audio? 
-  - I'm asking so I will be able to hear your screen reader during the session.
 
 ## Start screen sharing
 Are you OK continuing with the session? We can take a break if you want to.
