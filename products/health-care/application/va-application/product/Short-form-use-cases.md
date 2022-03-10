@@ -20,7 +20,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case A
 
-* **Description**
+* **Description** Authenticated
   - Veterans is logged-in (authenticated) and has a disability rating of 50% or higher.
     - General flow: customer sees standard bio info (name, ssn, dob)
     - Next is presented with a new "Short form alert" page
@@ -35,13 +35,14 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
 
-## Use Case B
+## Use Case B 
 
-* **Description**
-  - lorem ipsum
+* **Description** Authenticted / Self reports
+  - Veterans is logged-in (authenticated) and we don't have a disability rating of 50% or higher.
+    - General flow: Customer progresses through standard authenticated flow
 
 * **Link to designs**
-  - lorem ipsum
+  - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
