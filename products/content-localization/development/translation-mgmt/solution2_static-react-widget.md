@@ -1,7 +1,7 @@
 # Solution 2: React Widget As Source of Translated Pages Directory
 
-* [View Existing React Widget Implementation](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/static-pages/i18Select)
-* Translation data is stored statically via [createI18Select.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/i18Select/createI18Select.js)
+* [View Existing React Widget Implementation Code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/static-pages/i18Select)
+* Translation data/links are stored statically via [urls.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/i18Select/utilities/urls.js)
 
 ### Description
 
