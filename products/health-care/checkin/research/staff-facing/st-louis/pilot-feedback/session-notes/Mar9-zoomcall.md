@@ -5,8 +5,8 @@ Meetings held on March 9, 2022
 Participants
 - MSA 1 from Franklin Co Washington CBOC
 - LPN from Franklin Co Washington CBOC
-- MSA 2
-- MSA 3 North Co 
+- MSA 2 
+- MSA 3 North County
 - Trainer
 
 ## Questions
@@ -55,7 +55,7 @@ Participants
   - MSA 3: helps staff and veterans, like to check in before they get in the building; staff can look on the daily list and see who is already here; we love it here at North (orange?)  county
   - MSA 2: like the interface, cleaner than vet link was; see that most are just system problems; just lag now; see who’s supposed to come in that day, like to select “with nurse” etc.
 - What’s the biggest thing you dislike
-  - MSA1: undecided
+  - MSA 1: undecided
   - MSA 3: have no dislikes; thinks it was a good change; don’t have long lines at the desk or at the kiosk; works for us
   - MSA 2: the lag in the system
   - MSA 3: once patients and employees get comfortable
@@ -71,7 +71,7 @@ Participants
 ## Feedback on patient flags
 - How do you use them?
   - MSA 2: rarely deal with them and only behavioral flags
-  - MSA1: want VA to change their check in to include last name and birth date as input because they can’t ask for last 4
+  - MSA 1: want VA to change their check in to include last name and birth date as input because they can’t ask for last 4
   - MSA 3: look in VistA scheduling, rarely come across any
 - Are they national or local
   - MSA 2: garbled
