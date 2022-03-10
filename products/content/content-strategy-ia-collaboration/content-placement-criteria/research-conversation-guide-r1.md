@@ -96,7 +96,7 @@ We would like to have a group discussion to hear your thoughts on using the plac
 
 I have some questions to start the conversation, but want this to be more of a group discussion than a Q&A session, so please feel free to bring up thoughts and ideas and discuss with each other as well.   
 
-**Explore ease of understanding** (5 minutes)
+**Explore ease of understanding** 
 Drop your response in the zoom chat:  <br>
 On a scale of 1 to 5, 1 being very difficult and 5 being very easy, how easy or difficult were the criteria to understand?
 - Discuss the range of responses
@@ -105,7 +105,7 @@ On a scale of 1 to 5, 1 being very difficult and 5 being very easy, how easy or 
   - What did you most appreciate about the criteria?
   - How confident did you feel in your placement decisions?
 
-**Explore ease of use** (5 minutes)
+**Explore ease of use** 
 Drop your response in the zoom chat: <br>
 How many pages were you able to evaluate?
   - Was there content that was more challenging than others to evaluate? 
@@ -113,14 +113,13 @@ How many pages were you able to evaluate?
   - Was there any content you could not come to a decision on?
   - Did anyone find content they felt should not go in either the hubs nor R&S?
  
-**Explore decision making** (10 minutes)
+**Explore decision making** 
 We'd like to talk about your placement decisions for some of the content you evaluated. <br>
-Where did each of you place [PIECE OF CONTENT]?  
-- Discuss differences in decisions
+Let's look at [PIECE OF CONTENT]. 
+- What did each of you decide?
 - Listen/prompt for 
-  - Which criteria led you to your decision?
-  - How did you interpret the critier or content to come to that decision?
-  - What was challenging about evaluating this content?
+  - Which criteria or element of content led you to your decision?
+  - What was challenging about evaluating this piece of content?
 
 [REPEAT ABOVE DECISION MAKING EXPLORATION FOR ADDITIONAL CONTENT AS TIME ALLOWS]
 
