@@ -22,22 +22,22 @@
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
-| Product | Feature (Github link) | Epic | Status (Latest feature link) |
-| :--- | :--- | :--- | :--- |
-| Facility Locator | Urgent Care MVP () | [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [In production](https://www.va.gov/find-locations) |
-| Facility Locator | Urgent Care Mashup () | [#10402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10402)| [In production](https://www.va.gov/find-locations) |
-| Facility Locator | Operating status () | [#9530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9530)| [In production](https://www.va.gov/find-locations) |
-| Facility Locator | Map enhancements  | [#10854](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10854) | [In production](https://www.va.gov/find-locations) |
-| Facility Locator | Map accessibility/usability () | [#17671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17671) | [In production](https://www.va.gov/find-locations) |
-| Facility Locator | COVID-19 searches ( ) |[#17321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17321) | [In production](https://www.va.gov/find-locations) |
-| Facility Locator | Emergency care mashup () | [#7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [In production](https://www.va.gov/find-locations) |
-| VAMC | Left Nav redesign | [#1874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1874) | [In production: example page]( )|
-| VAMC | Policies hardened content |[#7784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7784) |  [In production: example page]( )|
-| VAMC | CLCs/Domiciliaries |[#22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) |  [In production: example page]( )|
-| VAMC | Mobile health clinics |[#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) |  [In design]( )|
-| VAMC | Lovell federal health | [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)|  [In design]( )|
-| VAMC | VA health connect and other communication methods | [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [In research planning]() |
-| Vet Centers | MVP ()  | [#11294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11294) | [In production: example page]() |
+| Product | Feature (Github link) | Epic | Design/Research repo | Status (Latest feature link) |
+| :--- | :--- | :--- | :--- |:--- |
+| Facility Locator | Urgent Care MVP | [Epic #26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design/urgent-care-redesign) | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Urgent Care Mashup | [Epic #10402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10402)| [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design/urgent-care-mashup-Jul-2020) | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Operating status| [Epic #9530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9530)| [Design folder] | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Map enhancements  | [Epic #10854](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10854)  | [Design folder] | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Map accessibility/usability| [EPIC #17671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17671)  | [Design folder] | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | COVID-19 searches |[Epic #17321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17321) | [Design folder] | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Emergency care mashup () | [Epic #7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [Design folder] | [In production](https://www.va.gov/find-locations) |
+| VAMC | Left Nav redesign | [Epic #1874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1874) | [Design folder] | [In production] (example page)|
+| VAMC | Policies hardened content |[Epic #7784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7784) | [Design folder] |  [In production] (example page)|
+| VAMC | CLCs/Domiciliaries |[Epic #22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) | [Design folder] |  [In production] (example page)|
+| VAMC | Mobile health clinics |[Epic #21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/design ) |  In design |
+| VAMC | Lovell federal health | [Epic #34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [UX Pin](https://preview.uxpin.com/93cf67f26d2b936504ffc415de7cf97fcb8d8e1c#/pages/147178609/simulate/sitemap?mode=i)|  In design |
+| VAMC | VA health connect and other communication methods | [Epic #26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) | Pending Veteran research |
+| Vet Centers | MVP | [Epic #11294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11294) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)| [In production] (example page) |
 
 
 ## Our UX research resources
