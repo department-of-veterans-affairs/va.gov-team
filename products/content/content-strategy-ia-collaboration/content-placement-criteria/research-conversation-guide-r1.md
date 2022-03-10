@@ -90,24 +90,25 @@ See you back here at [TIME]
 Welcome back everyone!
 
 We would like to have a group discussion to hear your thoughts on using the placement criteria.  
-- Not everyone may have landed on the same decision, and that is absolutely ok!
-- We are looking to learn how each of you, as individuals, understood and used the criteria. 
-- Your feedback and thoughts will not offend us in any way, we really do want to hear from each of you.
+- Not everyone may have landed on the same decision, and that is absolutely ok! 
+- Everyone here has different perspectives and backgrounds, so we are truly looking to learn how each of you, as individuals, understood and used the criteria. 
+- Your feedback and thoughts will not offend us in any way.
+
+I have some questions to start the conversation, but want this to be more of a group discussion than a Q&A session, so please feel free to bring up thoughts and ideas and discuss with each other as well.   
 
 **Explore ease of understanding** (5 minutes)
 Drop your response in the zoom chat:  <br>
 On a scale of 1 to 5, 1 being very difficult and 5 being very easy, how easy or difficult were the criteria to understand?
 - Discuss the range of responses
 - Listen/prompt for 
-  - Which criteria were easy to understand and why?
-  - Which criteria were more challenging to understand and why?
+  - What did you find was most challenging about the criteria?
+  - What did you most appreciate about the criteria?
   - How confident did you feel in your placement decisions?
 
 **Explore ease of use** (5 minutes)
 Drop your response in the zoom chat: <br>
 How many pages were you able to evaluate?
   - Was there content that was more challenging than others to evaluate? 
-  - Was there content that was easier to evaluate?
   - Did anyone break apart the content to place portions in the hubs and other portions in R&S? 
   - Was there any content you could not come to a decision on?
   - Did anyone find content they felt should not go in either the hubs nor R&S?
