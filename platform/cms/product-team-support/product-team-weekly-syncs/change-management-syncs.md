@@ -15,8 +15,8 @@
 ## March 10, 2022
 
 - Top task beta test (Suzanne)
+- - Care we provide (Denise)
 - Recurring events (Kevin)
-- Care we provide (Denise)
 - VAST data change runbooks (Kevin)
 - RACI next week (Denise)
   - Purpose
