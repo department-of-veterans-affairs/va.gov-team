@@ -11,10 +11,10 @@ That's what this Release Plan Template is for!
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
+- Desired date range or test duration: 3/21/22 to 3/23/22 
+- Desired number of users: 3-5
+- How you'll recruit the right production test users: Currently in contact with HEC
+- How you'll conduct the testing: Through HEC UAT process
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
 
 ### Results:
@@ -75,7 +75,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
+- Length of time: One day
 - Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
 
 #### Results:
@@ -91,7 +91,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
+- Length of time: Three days
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
 
 #### Results:
@@ -106,9 +106,9 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
+- Desired date: 04/01/22 (pending legal review)
+- Post-launch KPI 1: Number of downloads
+- Post-launch KPI 2: Number of download errors
 - Post-launch KPI 3: xx lorem ipsum
 - etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
