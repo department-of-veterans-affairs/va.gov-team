@@ -1,5 +1,5 @@
 # Description
-This document will be used to collect and help organize different ideas that the Back end Tools team could prioritize for Q3 (and even Q4).  This document will forever be a work in processes and the final road map will be organized in ZenHub using the "tools-be" & "super-epic" Labels in the Next/Now/Future swim lanes.
+This document will be used to collect and help organize different ideas that the Console Services could prioritize for Q3 (and even Q4).  This document will forever be a work in processes and the final road map will be organized in ZenHub using the "Console-Services" & "super-epic" Labels in the Next/Now/Future swim lanes.
 
 
 # Division of priorities
