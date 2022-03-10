@@ -64,7 +64,7 @@
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1| Post-launch: Month 1|
+|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1 (originating from My VA)| Post-launch: Month 1 (originating from My VA)|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil (visits to the url)|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
