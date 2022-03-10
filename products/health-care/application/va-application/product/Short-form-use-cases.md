@@ -24,9 +24,9 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - Veteran is logged-in (authenticated) and has a disability rating of 50% or higher.
     - General flow: customer sees standard bio info (name, ssn, dob)
     - Next is presented with a new "Short form alert" page
-    - From here he enters Veteran info as shown in the flow diagram (required fields that are not pre-populated)
+    - From here. s/he enters Veteran info as shown in the flow diagram (required fields that are not pre-populated)
     - And lastly, goes to Insurance screen
-    - And then Review and Submit.
+    - And then Review and Submit
   
 
 * **Link to designs**
@@ -42,7 +42,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
     - General flow: Customer progresses through standard authenticated flow and enterans Veteran Info
     - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 50% or higher
     - Sees a confirmation screen asking to confirm their rating is 50% or higher
-    - From there, goes into the short-form flow as per Use Case A.
+    - From there, goes into the short-form flow as per Use Case A
 
 
 * **Link to designs**
