@@ -86,7 +86,7 @@ _Link to the following materials as relevant._
 
 <details>
 
-- Team Name: Testing Tools Team (primary) & BE Tools (secondary)
+- Team Name: Testing Tools Team (primary) & Console Services (secondary)
 - GitHub Label: `vsp-testing-team` `tools-be`
 - Slack channel: `#vsp-testing-tools-team`
 - Product POCs: Joe Tice (primary Product Manager)
