@@ -1,0 +1,64 @@
+# VA.gov Military Personal Info Intake
+
+## Attendees
+- Michael Richard
+- Sandra Ryder
+- Barbara Burns
+- Tom Traficante
+- Syvataoslav Feler
+- Barry Wilbanks
+- Rebecca Giacomelli
+- Daniel Ramunda
+
+ ## Notes
+- VA.gov Profile have relatively little military info. 
+- Goal is to migrate the other info
+- Samara outlined the fields currently shown
+- Want to make sure that info is migrated from EMIS to VA Profile
+- Would it just be those four fields?  Yes, initially
+- At some point we might do discovery on what other fields Veterans might like to see
+- We are currently getting this data from EMIS
+- We are using service that pull in more than that data, and we are extracting just those four fields?  Lihan confirmed.  Personnel category type code is another field we are using
+- Current Fields
+  - Service Branch (1-N) - each service branch value will have an array of the three below
+  - Start Date
+  - End Date
+  - Personnel Category Type Code; examples:
+    - A = regular active duty
+    - V - reserves
+- Standard VA Profile history call (bio path) includes those for things and many others
+  - Different from EMIS is that they send the category code and the value.
+- Read only
+- Even though there is the ability to get more info, that is not part of this effort.  We really want to just be prepared for EMIS being retired.
+- Timeline - not sure when we are going to start this work and being ready to consume this
+- Is there anything they need to do in the meantime, or do we just let them know when we're ready to start? 
+- Daniel - do we go directly to the Contact Info service?  Yes.
+- It's basically the same approach, but a different endpoint
+- Richard - are you pulling contact info and communication permissions at the same time?  No, we do that separately
+- The more data we pull, we may consider using the Profile Service for those calls
+  - Military data will only be available through the Profile Service
+  - Still a REST call, but might be a more efficient way to get the data
+- When can we make a decision to say that everything goes through the Profile Service? It does change testing
+- It's a matter of prioritizing; unsure how much work it would be to make those changes for the existing calls
+- Barry - from their standpoint it's not a big deal; it's very straightforward.  From our standpoint, how we edit and send back wouldn't change.  But if you're only pulling contact info when you load that page, you'd have to decide if you want to pull everything and have it for the other pages.  It's more of a design thought on our side.
+- Are we going through the Profile Service for the new pronouns, etc?  
+- Barbara- they just had a demographics meeting and they have pivoted and re-done the requirements so they are not storing the info.  
+- We will be going through the Profile Service for the SIGI data
+- Samara has no problem with us moving to this new model unless Lihan thinks it's not a good idea.  The user won't see a difference, but it's more about what is the cleanest and most performant path.
+- If we kept the way it is now, we'd have to call the Profile Service for the Military Service and the SOGI stuff.   We could say we're going to read from the Profile service and we could get everything in one shot
+- I'd think we'd also want to look at the payload and what kind of latency it introduces
+- Current model:
+  - Contact Info Service
+  - Comm Permissions Service
+- Future Options
+  - Option A: Incremental Approach (existing services + Profile Service)
+  - Option B: Big Bang Approach (move everything to Profile Service)
+- Do we want to group the military work with the demographics data?  Probably not; we want to keep the SOGI work going and not get delayed
+- Demographics data - priority
+- Military Personnel data - secondary
+- What is the Target data for the military data?  July 4 2023 is when EMIS retires; we just want to be well ahead of that. 
+  - Probably within the next couple of months, but we don't have a hard date decided on.  We definitely don't want to leave it.  We'd like to get it started within the next two months.  We need to review our current work and incorporate that into planning
+  - From their standpoint, they'd say that the effort is 'blocked' because we are working out the schedule.  It's not that we can't have conversations, but it's not something they can prioritize until we initiate
+- We can probably get them a target start date next week
+- They can send the Swagger info to us
+
