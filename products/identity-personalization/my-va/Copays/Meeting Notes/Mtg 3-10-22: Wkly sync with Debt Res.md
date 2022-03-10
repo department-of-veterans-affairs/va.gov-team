@@ -1,4 +1,4 @@
-Mtg 3/10/22 with Debt Res team:
+## Mtg 3/10/22 with Debt Res team:
 - Angela shared proposed design of link on My VA to include copays in Benefit payments and debts section (section renamed "Benefit payments, debts and copays")
      - Angela will reach out to Danielle on content of the proposed section title
 - Riley shared proposed design of combined debt & copay portal
