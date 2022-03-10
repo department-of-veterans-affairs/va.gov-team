@@ -142,30 +142,31 @@ I want to remind you that VA can help connect you to mental health services--eve
 
 Let’s start with a question...
 
-- I'd like you to imagine that you or a friend went to a VA medical clinic today for a doctor's appointment, and on the way in, a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable. You or your friend think more about what happened and decide to report it to hopefully prevent it from happening to other people. What do you think you or your friend would do? 
-  - *(don't / report it / talk with someone/police at VA / call 911 / google)* 
+I'd like you to imagine that you or a friend went to a VA medical clinic today for a doctor's appointment, and on the way in, a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable. You or your friend think more about what happened and decide to report it to hopefully prevent it from happening to other people. What do you think you or your friend would do? 
+- *(don't / report it / talk with someone/police at VA / call 911 / google)* 
   
-  - Can you tell me more about why?
-  - What do you think you or your friend would do next?
+- Can you tell me more about why?
+- What do you think you or your friend would do next?
 
-    - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
+  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
 ### For sighted participants
-- Say that while you were at VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
-  - *(ask someone / google it? / VA.gov? / ____________________)*
+Say that while you were at VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(ask someone / google it? / VA.gov? / ____________________)*
 
 ### For sighted participants on desktop
-- Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
-    - What are your initial impressions?
-    - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
-    - *(Pause to allow as much time as the participant wants to read/process the poster)*
-    - What do you think you or your friend would do next if you wanted to report the interaction I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
-      - *(call 911 / call 800 # / talk to patient advocate / police / building security / ____________)*
-    - What other thoughts do you have about this poster?
+Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
+- What are your initial impressions?
+- *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
+- *(Pause to allow as much time as the participant wants to read/process the poster)*
+- What do you think you or your friend would do next if you wanted to report the interaction I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
+  - *(call 911 / call 800 # / talk to patient advocate / police / building security / ____________)*
+- What other thoughts do you have about this poster?
    
 ### For participants using a screen reader
-- Say that while you were at VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
-  - *(ask someone / google it? / VA.gov? / ____________________)*
+Say that while you were at VA, someone mentioned that you could report harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(ask someone / google it? / VA.gov? / ____________________)*
+
 - What assistive technology are you using today?
 - How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
 - How long have you been using a screen reader?
@@ -192,22 +193,25 @@ Do you see the link?
 
 ### Task 1: [Explore landing page] - 15 minutes
 
-- *(for everyone)* Let's say that you found this page on VA.gov.
-  - What are your initial impressions of this page?
-  - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
-  - *(Pause to allow as much time as the participant wants to read/process the page)*
-  - What do you think you or your friend would do next if they wanted to report the interaction I described earlier--a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable?
-    - *(call 911 / call VA police / call 800 # / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
+*(for everyone)* Let's say that you found this page on VA.gov.
 
-  - What do you think will happen next?
-  - What other thoughts do you have about this page?
-  - Feedback on the information in it?
-  - Feedback on how the information is organized?
+What are your initial impressions of this page?
+- *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
+- *(Pause to allow as much time as the participant wants to read/process the page)* 
+
+What do you think you or your friend would do next if they wanted to report the interaction I described earlier--a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable?
+- *(call 911 / call VA police / call 800 # / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
+
+What do you think will happen next?
+
+What other thoughts do you have about this page?
+- Feedback on the information in it?
+- Feedback on how the information is organized?
 
 ## Post-Task Interview - 15 minutes
-- What thoughts do you have about what you've reviewed today?
-
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
+
+What thoughts do you have about what you've reviewed today?
 
 - What was *helpful* about what you've reviewed today?
 
@@ -215,13 +219,10 @@ Do you see the link?
 
 - What would you like to *change* about what you've reviewed today?
 
-Are you OK continuing with the session? We can take a break if you want to.
-
-- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
-  - Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
-  - If you or your friend was harassed, was it reported? *(no / yes)*
-  - If so, *how* was it reported? *(phone call / in person / ___________)*
-  - If it wasn't reported, what were the barriers to reporting it?
+We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
+- Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
+- If you or your friend was harassed, was it reported? *(no / yes)*
+- If so, *how* was it reported? *(phone call / in person / ___________)* - If it wasn't reported, what were the barriers to reporting it?
 
 How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
