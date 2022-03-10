@@ -22,15 +22,23 @@
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
-| :--- | :--- | :--- |
-| [Your feature]() | Other names or references | [In production]() |
-| [Your feature]() | Other names or references | [In staging]() |
-| [Your feature]() | Other names or references | [In development]() |
-| [Your feature]() | Other names or references | [In design]() |
-| [Your feature]() | Other names or references | [In discovery]() |
+| Product | Feature (Github link) | Epic | Status (Latest feature link) |
+| :--- | :--- | :--- | :--- |
+| Facility Locator | Urgent Care MVP () | [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Urgent Care Mashup () | [#10402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10402)| [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Operating status () | [#9530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9530)| [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Map enhancements  | [#10854](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10854) | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Map accessibility/usability () | [#17671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17671) | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | COVID-19 searches ( ) |[#17321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17321) | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Emergency care mashup () | [#7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [In production](https://www.va.gov/find-locations) |
+| VAMC | Left Nav redesign | [#1874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1874) | [In production: example page]( )|
+| VAMC | Policies hardened content |[#7784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7784) |  [In production: example page]( )|
+| VAMC | CLCs/Domiciliaries |[#22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) |  [In production: example page]( )|
+| VAMC | Mobile health clinics |[#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) |  [In design]( )|
+| VAMC | Lovell federal health | [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)|  [In design]( )|
+| VAMC | VA health connect and other communication methods | [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [In research planning]() |
+| Vet Centers | MVP ()  | [#11294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11294) | [In production: example page]() |
 
-<br>
 
 ## Our UX research resources
 We used these UX research resources during design and development.
@@ -115,24 +123,20 @@ List your tools; add notes.
 
 ### March 2022 team roster
 
-- Person Name | email.address@va.gov -- Team product manager
-- Person Name | email.address@va.gov -- Backend engineer
-- Person Name | email.address@va.gov -- Frontend engineer
-- Person Name | email.address@va.gov -- Content writer
-- Person Name | email.address@va.gov -- UX researcher
-- Person Name | email.address@va.gov -- UX designer
-- Person Name | email.address@va.gov -- Product owner
+Name | Company | Role 
+--- | --- | ---
+David Conlon | david.conlon@va.gov| VA Product Owner
+Michelle Middaugh | Ad Hoc | Product Manager
+Nick Osmanski | Ad Hoc | UX/Design
+Dave Sukharan | Ad Hoc | UX Research
+Lance Sanchez | GCIO | Back End Engineer
+Napoleon Kersnessant | GCIO  | Front End Engineer
 
-### Other team members
+Other contributing individuals are listed in our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
 
-- Person Name | email.address@va.gov -- Backend engineer
-- Person Name | email.address@va.gov -- Frontend engineer
-- Person Name | email.address@va.gov -- UX designer
 
 ### Team resources
-- [Team Github directory]()
-- [Team Zenhub board]()
-
-<br>
+- [Team Github directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator)
+- [Team Zenhub board](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-facilities&repos=133843125,154174777)
 
 ---
