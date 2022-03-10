@@ -52,9 +52,9 @@
   - [Top events: My VA page](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
 **Phased rollout:** 
-- 25% of users (1 week), Dates: week of XX/XX ([Ticket #)]
-- 50% of users (1 week), Dates: week of XX/XX ([Ticket #)]
-- If all goes well, then go to 100% of users: week of XX/XX ([Ticket #)]
+- 25% of users (1 week), Dates: week of 04/06 ([Ticket #)]
+- 50% of users (1 week), Dates: week of 04/13 ([Ticket #)]
+- If all goes well, then go to 100% of users: week of 04/20 ([Ticket #)]
 
 ## Go Live!
 
