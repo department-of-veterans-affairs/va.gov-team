@@ -20,7 +20,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case A
 
-* **Description** Authenticated
+* **Description** Authenticated / Disability 50% +
   - Veteran is logged-in (authenticated) and has a disability rating of 50% or higher.
     - General flow: customer sees standard bio info (name, ssn, dob)
     - Next is presented with a new "Short form alert" page
@@ -37,7 +37,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case B 
 
-* **Description** Authenticted / Self reports
+* **Description** Authenticted / Self Reports Disability rating of 50% +
   - Veterans is logged-in (authenticated) and we don't have a disability rating of 50% or higher.
     - General flow: Customer progresses through standard authenticated flow and enterans Veteran Info
     - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 50% o higher
@@ -53,7 +53,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case C
 
-* **Description** Unauthenticated /Self Reports
+* **Description** Unauthenticated / Self Reports Disability rating of 50% +
   - lorem ipsum
 
 * **Link to designs**
