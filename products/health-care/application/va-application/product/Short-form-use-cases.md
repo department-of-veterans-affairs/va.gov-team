@@ -53,7 +53,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case C
 
-* **Description**
+* **Description** Unauthenticated /Self Reports
   - lorem ipsum
 
 * **Link to designs**
@@ -64,7 +64,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case D
 
-* **Description** Authenticated
+* **Description** Full application flow / less than 50% disability rating
   - Veterans is 
   
 
