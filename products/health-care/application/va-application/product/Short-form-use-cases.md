@@ -40,7 +40,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 * **Description** Authenticted / Self Reports Disability rating of 50% +
   - Veteran is logged-in (authenticated) and we don't have a disability rating of 50% or higher.
     - General flow: Customer progresses through standard authenticated flow and enterans Veteran Info
-    - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 50% o higher
+    - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 50% or higher
     - Sees a confirmation screen asking to confirm their rating is 50% or higher
     - From there, goes into the short-form flow as per Use Case A.
 
