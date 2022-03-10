@@ -9,7 +9,7 @@
 - **Desired date range or test duration:**
      - Sprint 70 (3/23 - 4/5)
 - **Desired number of users:** 
-     - recruiting 12 participants with a target of completeing 6 sessions
+     - Recruiting 12 participants with a target of completeing 6 sessions
 - **How you'll recruit the right production test users:** 
      - We will recruit users via Perigean.
 - **How you'll conduct the testing:** 
@@ -48,8 +48,8 @@
      - Link clickthroughs are successfully directing users to the intended page with no errors originating from My VA
      - Zero load failures for those users with a payment history
 - Links to dashboard(s) showing "success criteria" metrics: 
-  - [GA dashboard link]
-  - [Top events: My VA page]
+  - [GA My VA dashboard link](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)
+  - [Top events: My VA page](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
 **Phased rollout:** 
 - 25% of users (1 week), Dates: week of XX/XX ([Ticket #)]
