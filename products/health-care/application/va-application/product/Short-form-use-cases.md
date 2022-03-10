@@ -54,7 +54,11 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 ## Use Case C
 
 * **Description** Unauthenticated / Self Reports Disability rating of 50% +
-  - lorem ipsum
+    - General flow: Customer progresses through standard flow; enterans Veteran Info
+    - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 50% o higher
+    - Sees a confirmation screen asking to confirm their rating is 50% or higher
+    - From there, goes into the short-form flow as per Use Case A.
+
 
 * **Link to designs**
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j))
