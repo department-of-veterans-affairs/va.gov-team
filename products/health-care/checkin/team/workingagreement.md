@@ -1,5 +1,4 @@
-Team Working Agreement- CIE
-last modified February 9, 2022
+<h1>Team Working Agreement- Chick'n Eggsperience Team</h1>
 
 We use “we” for success and “I” for accountability.
 
