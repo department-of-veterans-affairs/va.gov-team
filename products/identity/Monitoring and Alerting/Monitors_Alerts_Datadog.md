@@ -34,47 +34,6 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
     [pagerduty alert](https://dsva.pagerduty.com/service-directory/P8H4DC6) to the oncall person and send a notification in the [va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL) slack channel.
 
  ---
-- ## All environments
-    The monitors in this section cascade across multiple environments. They are currently set up to monitor and alert on internal system availability, external system availability, and any changes to the Identity application stack that cause unexpected results during the authentication process.
-  - ## Inbound
-
-    - ### **example name of monitor**
-
-        <ins>**Description:**</ins> example description
-        
-        [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
-
-        <ins>**Threshold:**</ins> threshold description here. 
-
-        <ins>**Metrics used:**</ins> 
-
-        ```
-        ((metric a + 
-        metric b) / 
-        metric c)
-        ```
-
-        <ins>**Severity:**</ins> severity here.
-
-  - ## Outbound
-
-    - ### **example name of monitor**
-
-        <ins>**Description:**</ins> example description
-        
-        [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
-
-        <ins>**Threshold:**</ins> threshold description here. 
-
-        <ins>**Metrics used:**</ins> 
-
-        ```
-        ((metric a + 
-        metric b) / 
-        metric c)
-        ```
-
-        <ins>**Severity:**</ins> severity here.
         
 - ## Production
     The monitors in production currently are set up to look for cascading login issues, not specifically a single CSP. There is work planned for Jan 2022 which will add more production monitoring. The inability to create production test accounts for the CSPs is what holds us back from monitoring the full login flows in the production environment.
@@ -236,7 +195,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         
 - ## Staging
     The monitors in staging currently are set up to monitor and alert on internal system availability, external system availability, and any changes to the Identity application stack that cause unexpected results during the authentication process.
-    
+
   - ## Inbound
 
     - ### **Identity - Staging Inbound IDme**
@@ -249,7 +208,6 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
         <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
 
-
     - ### **Identity - Staging Inbound DSLogon**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/4dp-tqc-3zp) monitors dslogon authentication on staging inbound from Accessva. If this alert is firing it could be an indicator that the staging dslogon credential service is having an issue. The other two potential issues are that accessva is down or va.gov inbound has been modified at the source code level. 
@@ -259,26 +217,28 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Metrics used:**</ins> Count test failures
 
         <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
-
-    - ### **example name of monitor**
-
-        <ins>**Description:**</ins> example description
         
-        [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
+    - ### **Identity - Staging Inbound logingov IAL2**
 
-        <ins>**Threshold:**</ins> threshold description here. 
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/dwu-a8u-m2y) monitors logingov login on staging. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
 
-        <ins>**Metrics used:**</ins> 
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
 
-        ```
-        ((metric a + 
-        metric b) / 
-        metric c)
-        ```
+        <ins>**Metrics used:**</ins> Count test failures
 
-        <ins>**Severity:**</ins> severity here.
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
 
   - ## Outbound
+
+    - ### **Identity - Staging VA.gov Login Routes**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/n5m-g2i-8nd) monitors the login buttons on the sign in modal. If this is failing its could be due to a change in the button layout or the next hop of the csp is not functioning correctly.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
 
     - ### **Identity - Staging Outbound logingov IAL1**
 
@@ -303,6 +263,16 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
     - ### **Identity - Staging Outbound Verify Route Test IDme**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/csg-vf6-srb) monitors IDme verify route on staging. If this alert fires it either indicates that the elements for the buttons have changed or the route for IDme verify has been inadvertently modified. This type of change could end up impacting veterans ability to upgrade their idme account if it were to propagate to production.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Staging Outbound MHV**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/mu2-rww-28d) monitors MHV login on staging. If this alert fires it indicates there is an issue with the MHV CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
 
         <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
 
@@ -350,48 +320,35 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
         <ins>**Severity:**</ins> `Medium`. This monitor covers a small subset of our services and in staging does not impact Veterans. This alert could be an indicator of an eventual production issue if the same code that caused this alert is then merged into production.
 
-    - ### **example name of monitor**
-
-        <ins>**Description:**</ins> example description
-        
-        [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
-
-        <ins>**Threshold:**</ins> threshold description here. 
-
-        <ins>**Metrics used:**</ins> 
-
-        ```
-        ((metric a + 
-        metric b) / 
-        metric c)
-        ```
-
-        <ins>**Severity:**</ins> severity here.
 
 - ## Dev
     The monitors in Dev currently are set up to monitor and alert on internal system availability, external system availability, and any changes to the Identity application stack that cause unexpected results during the authentication process.
     
   - ## Inbound
 
-    - ### **example name of monitor**
 
-        <ins>**Description:**</ins> example description
-        
-        [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
-
-        <ins>**Threshold:**</ins> threshold description here. 
-
-        <ins>**Metrics used:**</ins> 
-
-        ```
-        ((metric a + 
-        metric b) / 
-        metric c)
-        ```
-
-        <ins>**Severity:**</ins> severity here.
 
   - ## Outbound
+
+    - ### **Identity - Dev Outbound logingov IAL2**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/qmp-x7m-srq) monitors logingov IAL2 login on dev. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
+
+    - ### **Identity - Dev Outbound logingov IAL1**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/pzm-hes-p7b) monitors logingov IAL1 login on dev. If this alert fires it indicates there is an issue with the logingov CSP, an eauth issue with ssoe, or an internal vets-api error which is preventing the authentication process from being completed.
+
+        <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
+
+        <ins>**Metrics used:**</ins> Count test failures
+
+        <ins>**Severity:**</ins> Medium. This alert could be an indicator that a potential issue in staging is going to propagate to production during the next deploy.
 
     - ### **Identity - Dev Outbound MHV**
 
@@ -432,23 +389,5 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
 
         <ins>**Severity:**</ins> High. This is a dev alert so it does not impact Veterans but will block engineers from developing in dev if they need authentication in their application.
-
-    - ### **example name of monitor**
-
-        <ins>**Description:**</ins> example description
-        
-        [This monitor](https://app.datadoghq.com/monitors/46467439) specifically looks for the percent of inbound ISAM SSOe authentications to drop below the acceptable threshold. In other words, if the percentage of errors for an inbound auto login attempt on VA.gov drops below the acceptable threshold, this will fire. The lack of a response for an initiated authentication will cause the success percentage to go down. When we get errors for an authentication event it is usually an indication of an issue between vets-api and eauth.
-
-        <ins>**Threshold:**</ins> threshold description here. 
-
-        <ins>**Metrics used:**</ins> 
-
-        ```
-        ((metric a + 
-        metric b) / 
-        metric c)
-        ```
-
-        <ins>**Severity:**</ins> severity here.
 
 
