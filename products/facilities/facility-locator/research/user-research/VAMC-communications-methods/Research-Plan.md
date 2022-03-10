@@ -41,7 +41,7 @@ This research fits into the Veteran journey at these key moments:
 
 ### Outcome
 
-Currently, not all communication methods available to Veterans are present on each VAMC page. This study will determine which VAMC pages should have what communication methods, and how those communications methods should be described and labled. This usability study will directly inform upcomign design changes VAMC pages.
+Currently, not all communication methods available to Veterans are present on each VAMC page. This study will determine which VAMC pages should have what communication methods, and how those communications methods should be described and labled. This usability study will directly inform upcomign design changes to  VAMC pages.
 
 ### Research questions
 
