@@ -14,6 +14,7 @@ The PTA needs to be completed for any new project or piece of work on VA.gov.  T
 - [ ] This IT system or project has an existing approved PIA
 
 2. Please describe the purpose of the IT system, project or program in layman’s terms so that a non-technical person can understand.
+
 IRS Form 1095-B reports the months a person had qualifying minimum health coverage to the IRS. The VA sends this document to Veterans to show what months they were covered under the VA healthcare system. Our team is digitizing the 1095-B IRS tax form to make it available to Veterans to download on VA.gov. We do not collect any new information from Veterans. We are taking information the Veteran has submitted to the HEC enrollment center, putting it into a document, and allowing the Veteran to download the document upon request.
 
 3. Do you collect, process, or retain Personally Identifiable Information (PII) on any of the following: (check all that apply)
@@ -26,17 +27,19 @@ IRS Form 1095-B reports the months a person had qualifying minimum health covera
 - [ ] Clinical Trainees
 - [ ] None of the Above
 *  If yes, please provide a specific description of information that might be collected, processed, or retained such as name, address, email, health information, financial information, biometrics, etc. 
+
 Name, date of birth, SSN, address, months during which they had health care coverage from the VA
 
-> Provide description
 
 5. How will the PII collected be stored ? 
+
 In a S3 bucket in production
 
 4. Do you use or collect Social Security Numbers (SSNs)?
 - [X] Yes
 - [ ] No 
 *  If Yes (Please provide the function of the SSN within the project and the legal authority to use or collect it.)
+
 SSNs are required as part of the IRS 1095-B tax form
 
 5. Does the IT system or project connect, receive, or share Personally Identifiable Information (PII) with another internal organization, IT system, website or application?
