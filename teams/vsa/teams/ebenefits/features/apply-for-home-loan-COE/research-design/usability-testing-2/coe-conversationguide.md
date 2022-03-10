@@ -32,7 +32,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What do you know about a VA home loan Certificate of Eligibility?
 
 ## First Task: Wayfinding - 5 minutes
-- **Please go to VA.gov.**
+- **Please go to VA.gov.** link: [va.gov](https://www.va.gov/)
 - **Now we're ready to start.** OK, now could you share your screen with us?
 - Here's a scenario: you're looking to buy a new home and a lender said you could get a Certificate of Eligibility (COE) from VA.
 - You heard there was a way on VA.gov to apply for a COE, where would you look for that?
@@ -45,7 +45,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Where does the user's search end? Do they make it to the COE landing page?
 
 ## Second Task: Complete 26-1880 - 10 minutes
-- Okay, now let's move on to the prototype.
+- Okay, now let's move on to the prototype. link: [uxpin landing page](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/simulate/no-panels?mode=cvhdmf)
 - We'll be using made-up scenarios that may not really apply to you, and we're using test data in the prototype. 
 - Nothing will be submitted because this is a prototype.
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to COE prototype)
@@ -68,7 +68,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Are users satisfied with the various avenues for following-up?
 
 ## Third Task: Pending with uploads requested - 5 minutes 
-User returns to Check COE Status landing page and signs in to reveal [pending status with uploads requested](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140741546/simulate/no-panels)
+User returns to Check COE Status landing page and signs in to reveal [pending status with uploads requested](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140810030/simulate/no-panels?mode=cvhdmf)
 
 
 Let's move on to our next task. We're going to imagine that some time has passed. You are now ready to proceed with your mortgage and want to download your COE.
@@ -87,7 +87,7 @@ I've put a new link in the chat. **Please click on it.**
 
 
 ## Fourth Task: Download existing COE - 5 minutes
-User returns to Check COE Status landing page and signs in to reveal [available status](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/139512694/simulate/sitemap)
+User returns to Check COE Status landing page and signs in to reveal [available status](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140810030/simulate/no-panels?mode=cvhdmf)
 
 Okay, so let's imagine that some more time has passed and you've returned to va.gov to get your COE.
 
