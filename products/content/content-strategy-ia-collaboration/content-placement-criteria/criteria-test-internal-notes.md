@@ -99,20 +99,35 @@ RH: I thought this one was the clearest. It made perfect sense that it was in th
 - RH: Was able to separate totally focusing on the criteria.
 - SC: I did think about current placement, especially when it came to dental care. Sparse content, but knew it was obviously a benefit. On PTSD page, page intro was a bit general and wasn't clear that it was for a Veteran so I think I kept existing page in mind when assessing.
 
-
 ### Rating of helpfulness of this type of criteria in determining content placement
 
 (1 to 5)
 
 EW: 4 (I couldn't have made decisions without this)
-PS: 5 (I think the document is going to help me make consistent decisions; it's a huge tool that's going to help someone who isn't 100% comfortable with the content 
+PS: 5 (I think the document is going to help me make consistent decisions; it's a huge tool that's going to help someone who isn't 100% comfortable with the content understand and make decisions) 
 RH: 4 (Having this criteria will be hugely helpful having it laid out this way)
 BP: 4 (helpful, just a little complex)
 SC: 4
 
+BP: Could we call out in a stronger way to stop at #4? (note: helpful to determining how to present this info in general)
+
 ## R&S content scavenger hunt
 
+SC: https://www.va.gov/disability/how-to-file-claim/additional-forms/
+- Additional forms, not core info.
 
+RH: https://www.va.gov/disability/effective-date/
+- Q2 - Doesn't really support this and we don't provide any application or process. It's more supplemental information.
 
+EW: https://www.va.gov/disability/survivor-dic-rates/
+- More info on the benefits so more R&S
 
+BP: https://www.va.gov/disability/how-to-file-claim/evidence-needed/
+- Very old page and I'm not sure that the content that's in the last grouping of accordions should all be there. In other words, I don't know that on this page that we're calling "evidence needed" that we should be getting also into forms that you need. If we didn't have that content on here, would it qualify for R&S?
+- MN: So maybe in Q3, needing to split things.
+- BP: Person might be looking at the page that has everything and the kitchen sink on it...instead, looking at what should be on the page. 
+- EW: More about splitting out the content for the checklist.
 
+### Rating of helpfulness in explaining and having conversations with VA partners
+
+- EW: Gives us credibility from experts. 
