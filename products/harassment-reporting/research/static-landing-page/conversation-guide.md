@@ -42,28 +42,38 @@ Before we continue, I'd like to tell you a little more about who I am and what w
 
 I'm a usability researcher, and I work as part of a team that is improving VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure our resources meet their needs. 
 
-For this feedback session, we're here because VA is working to stop harassment and make our locations and services safer for everyone. We define harassment as any unwelcome behavior that intimidates, offends, or creates a hostile space. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own experiences.
+For this feedback session, we're here because VA is working to stop harassment and make our locations and services safer for everyone. We define harassment as any unwelcome behavior that intimidates, offends, or creates a hostile space. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own experiences. 
 
-**Are you comfortable proceeding with this session?**
+**Are you comfortable trying out resources for reporting harassment and sharing your opinions about them?**
 
 *If no:*
+
 - **Is there anything we can do to make you feel more comfortable?**
 - *[Get verbal confirmation or end session]*
 
 *If yes:*
 
+We've asked you to participate because you’re a Veteran, not because we believe that you have been harassed. If you’ve experienced any type of harassment in the past, conversations in this session might remind you of these past experiences. We won’t share what you tell us with anyone. 
+
+**Are you comfortable proceeding with this session?**
+
+*If no:*
+
+- **Is there anything we can do to make you feel more comfortable?**
+- *[Get verbal confirmation or end session]*
+
+*If yes:*
 Thank you! We very much appreciate you talking with us today. Before we start, I want to give you an idea of what this session will be like...
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
 - **In this session, we want to get your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing these resources to learn how we can make them better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
-- **If for any reason and at any time you want to take a break or stop the session, please let me know.** You can take a break from the session or end it altogether.
+- **If for any reason and at any time you want to take a break or stop the session, please let me know.** You can take a break from the session or end it altogether. You will not lose your stipend or be penalized in any way if we need to stop.
 - I will be sharing a web page URL with you during the session. **How would you prefer to receive the URL?** 
-  - I could read it to you or put it in the Zoom chat *(or email it to you, or text it to you).*
-    - *(if email)* What is your email address?
-    - *(if text)* What is your mobile phone number?
+  - I could read it to you or put it in the Zoom chat. Which would you prefer? 
     
-- **Are you comfortable if I record my screen and audio as we talk today?** I use the recording to confirm that we have captured your opinions accurately, and I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you.
-    - *If yes:* **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?** 
+
+  - *If yes:* **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
 
@@ -92,7 +102,9 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handling Trauma-Triggering
-*OBSERVE the participant's body language, tone of voice, and the environment* 
+
+### OBSERVE the participant
+*Be PRESENT with the participant. Notice their body language, tone of voice, and the environment* 
 
 *SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Some signs may include:*
 - *Prolonged silences*
@@ -100,7 +112,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
 - *New background noises*
 - *Staring into space* 
 
-*If notice a change, SAY one of these:*
+### If notice a change, SAY one of these:
   - Sometimes talking about these types of experiences can be difficult. Do you think you would be comfortable telling me if it starts to affect you negatively?
   - I realize this is hard. Would you like to take a break or stop?
   - I sense that this may be upsetting. We value what you’re sharing with us, but we don’t have to go there.
@@ -109,14 +121,20 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
   - Would you like to pause, or are you OK with continuing?
   - Is this not a good time for this session?
 
-*Social worker/clinician on the session (or on standby) jumps in to provide support, if needed. Could SAY:* 
+### Social worker/clinician on the session (or on standby) jumps in to provide support, if notice triggering 
 - As a reminder, *[Name]* is a professional here to support you.
+- I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+- If you find that you're in crisis and need to talk to someone right away, you can also call our Veterans Crisis Line.
 
-*If I feel teary or emotional, turn off my camera and/or say* "I need to step away for a moment".
+### If I feel teary or emotional
+*Turn off my camera and/or say,* I need to step away for a moment.
 
-*SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red box at top of VA.gov web pages).*
-  - Please know that if you ever need support or just to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
-  - Would you like to stop this session now?
+### If no clinician observer and you notice something
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+*If the participant looks like they need help right now...*
+- Would you like to stop this session now?
+- If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
 
 ## Warm-up Questions - 5-15 minutes (depending on whether show poster)
 
@@ -157,18 +175,16 @@ Let’s start with a question...
   - I'm asking so I will be able to hear your screen reader during the session.
 
 ## Start screen sharing
-I'm going to share with you a web page that may not function the way you expect. Some parts of the page will work, and some will not. 
+Are you OK continuing with the session? We can take a break if you want to.
 
-Before you click/tap anywhere on the page, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
-
-While you're looking at this web page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+I'm going to share with you a web page. While you're looking at it, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 I would like you to share your screen with me so I can watch you use the web page in your web browser. 
 *(refer to Screen sharing instructions above, if needed)*
 
 What kind of device are you using today? *(Phone / Computer)*
 
-I'm going to (spell/put into the Zoom chat/email/text) a link for you to open (https://staging.va.gov/hrt). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'm going to (spell/put into the Zoom chat) a link for you to open (https://staging.va.gov/hrt). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
@@ -199,12 +215,15 @@ Do you see the link?
 
 - What would you like to *change* about what you've reviewed today?
 
+Are you OK continuing with the session? We can take a break if you want to.
+
 - We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
   - Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
   - If you or your friend was harassed, was it reported? *(no / yes)*
   - If so, *how* was it reported? *(phone call / in person / ___________)*
   - If it wasn't reported, what were the barriers to reporting it?
-  - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
+
+How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
 *(If they share anything about a harassment experience, say...)*
 - I am sorry you (or your friend) had this experience. We appreciate you sharing this with us. Your story will inform how we provide resources to help Veterans in the future. 
@@ -219,10 +238,7 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 
 I'm going to stop the recording now. *(STOP recording)*
 
-Before we close the meeting, are there any questions or concerns that you wanted to express? 
-
-In case you feel uncomfortable or stressed about your harassment experiences or your friend's, I want to remind you about the Veterans Crisis Line, which you or your friend can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
-- Call 800-273-8255 and select 1, or text 838255
+Before we end this session, are there any questions or concerns that you wanted to express? 
 
 Thank you so much again!
 
