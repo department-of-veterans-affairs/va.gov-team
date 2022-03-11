@@ -70,17 +70,9 @@ We used these UX design resources to guide our design and development.
 ## Our UX research/design process
 Add team-specific process documentation; add notes.
 
-- [Team process doc]()
-- [Reference doc]()
-- [Reference doc]()
-
-<details>
-  <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
-
-Outline your process; add notes.
   
-1. Analyze existing feature
-2. Conduct discovery research on existing feature
+1. Do preliminary research of existing process or form (PDF)
+2. Do technical discovery of current systems (if existing)
 3. Synthesize analysis and research into lo-fi screens and flows
 4. Present synthesis/lo-fi visuals at design review
 5. Improve fidelity of screens and flows
@@ -92,7 +84,7 @@ Outline your process; add notes.
 11. Second usability testing round
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
-</details>
+
 
 <details>
   <summary><strong>Design tools we used</strong> (Click to show details)</summary><br>
@@ -121,13 +113,20 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 
 ### March 2022 team roster
 
-
+- Christian V. - Researcher
+- Kevin S. - Designer
+- Veronica H. - Product Manager
+- Robin G. - Frontend Engineer
+- Devon H. - Frontend Engineer
+- Michel M. - Backend Engineer
+- Csaba N. - Backend Engineer
 
 ### Other team members
 
 
-
 ### Team resources
+
+- Decision Review - [Fact Sheet (Infographic)](https://benefits.va.gov/BENEFITS/factsheets/appeals/Appeals-FactSheet.pdf)
 
 
 <br>
