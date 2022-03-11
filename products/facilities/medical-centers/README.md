@@ -23,12 +23,12 @@
 ## Practice specific resources
 
 ### Product 
-
-- [**Product Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md)
-- [**Product Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
+- [**CMS product sheets**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
+- [**CMS VAMC Knowledge Base**](https://prod.cms.va.gov/help/vamc)
 
 ### Engineering
-- [**Engineering Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
+- [**VA.gov-cms repo**](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
+- [**VAMC product demo environment training**](VACMS-product-demo-environments-training.pdf)
 
 ### Design-research
 
@@ -40,11 +40,7 @@
 ### CMS
 
 - [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
-- [**VAMC product demo environment training**](VACMS-product-demo-environments-training.pdf)
 - [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
-- [**CMS product sheets**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
-- [**VA.gov-cms repo**](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
-- [**CMS VAMC Knowledge Base**](https://prod.cms.va.gov/help/vamc)
 
 ## Legacy info about the VAMC pages
 
