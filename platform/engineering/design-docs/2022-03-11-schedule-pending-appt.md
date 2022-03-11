@@ -8,14 +8,38 @@
 ## Overview
 
 ### Objective
-The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available on the web app so much of the logic can be mirrored from there into the mobile app. A non-goal is to migrate as much data transformation from the web front end into the mobile app backend. 
+The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available in `vets-website` so much of the logic can be utilized in the mobile app. A non-goal is to migrate as much data transformation/logic from `vets-website` front end into the mobile app backend. 
 
 The intended audience is for the engineering team.
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
+Currently, the `vets-website` scheduling feature follows this flow:
 
-_Do **NOT** describe the solution here. That goes in High Level Design._
+- Verify user is registered at a facility
+   - `/v0/user`
+- Pick type of care to schedule an appointment for
+   - Check community care eligibility  
+   - `/vaos/v0/community_care/eligibility/{type of care}`
+   - Recieve true or false for type of care
+- If type of care is eligible, user can select to make appointment request at VA facility or community cares facility
+- User is given list of facilities to choose from
+  - Get facility data 
+  - `/vaos/v2/facilities?children=true&ids[]={facility id}&ids[]={facility id}`
+  - Note: facility id's come from registered facilities in `/v0/user`
+  - Get additional facility scheduling information such as services provided and if available to schedule request (including childen facilities)
+  - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
+- User chooses facility
+  - Check if able to schedule request at given facility and service 
+  - `/vaos/v2/eligibility?facility_id=983GC&clinical_service_id=optometry&type=request`
+  - Multiple checks and responses are done here:
+      - Is this a Cerner facility? if so, return cerner portal link
+      - Is primary facility? if not, ensure veteran has had visit within 12-24 months to proceed
+      - Is facility allow scheduled requests?, 
+      - Is request limit reached?
+- If Community Cares facility, choose provider
+  - `/facilities_api/v1/ccp/provider?{coordinate information}`
+- Schedule appointment request
+  - `/vaos/v2/appointments`
 
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
