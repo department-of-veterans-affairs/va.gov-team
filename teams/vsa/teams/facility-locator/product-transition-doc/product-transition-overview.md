@@ -34,9 +34,14 @@ The Facilities team portfolio includes the following unauthenticated products:
 ## Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
 - [Facilities team Mural](https://app.mural.co/t/vsa8243/r/1580427682078)
-
+- [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
+- [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
+- [**CMS product sheets**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
+- 
 ## Research and design
 - [**Research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
+- [**CMS research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
+
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
