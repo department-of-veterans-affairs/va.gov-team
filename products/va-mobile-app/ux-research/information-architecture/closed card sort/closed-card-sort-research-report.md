@@ -77,9 +77,11 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 1. Veterans will be able to categorize cards and name groups of cards presented in the card sort. 
 **True**
 2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov. 
-**False** While the category "Health" had cards with strong agreement, similar to how it is organized on VA.gov, The cards in categories Benefits, Account, Payments, and General VA information did not have the same strong agreement with the cards in the main buckets on va.gov. The Category labeled "health" in the card sort is also a category on VA.gov whereas all the other categories have different names. 
+**False**
+While the category "Health" had cards with strong agreement, similar to how it is organized on VA.gov, The cards in categories Benefits, Account, Payments, and General VA information did not have the same strong agreement with the cards in the main buckets on va.gov. The Category labeled "health" in the card sort is also a category on VA.gov whereas all the other categories have different names. 
 3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
-**True** While the agreement was lower than expected for some of the cards in the payment category (46% on the low end), overall there was agrement with all of the payment cards we expected to be in the payment category.  
+**True** 
+While the agreement was lower than expected for some of the cards in the payment category (46% on the low end), overall there was agrement with all of the payment cards we expected to be in the payment category.  
 4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
 **False**
 
