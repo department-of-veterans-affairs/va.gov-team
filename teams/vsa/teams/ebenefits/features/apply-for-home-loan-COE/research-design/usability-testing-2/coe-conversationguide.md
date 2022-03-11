@@ -9,10 +9,12 @@
 *When the participant is ready, begin the session with the following intro*
 
 ### Project-specific setup
-- [ ] Make sure prototype is reset
+- [ ] n/a
 
 ## Intro - 5 minutes
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Candy and I also have some colleagues on the line observing and taking notes. We're part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is the Certificate of Eligibility for VA-backed home loans.
+
+
 Before we start, a few things I want to mention:
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -76,6 +78,7 @@ I've put a new link in the chat. **Please click on it.**
 - Take a look at this screen and describe what you see.
 - (Participant signs-in) What just happened?
 - What is your next step?
+- Where would you go to find out what you need to upload.
 - (Participant uploads document) What do you expect to happen now?
 
 ### Things to watch for:
