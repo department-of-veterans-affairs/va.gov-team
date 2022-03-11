@@ -80,7 +80,7 @@ The most critical path iteams are listed below but do not represent the total of
 - [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy)
 
 ### Engineering
-- [**VA.gov-cms repo**](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
+- [VA.gov-cms repo](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
 - [VAMC product demo environment training](VACMS-product-demo-environments-training.pdf)
 
 ### Design-research
