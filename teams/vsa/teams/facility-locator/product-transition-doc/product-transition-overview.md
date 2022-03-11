@@ -1,4 +1,4 @@
-# VSA Facilities Team transition document | March 2022
+# VSA Facilities Team transition overview | March 2022
 
 <br>
 
@@ -37,6 +37,7 @@ The Facilities team portfolio includes the following unauthenticated products:
 
 ## Research and design
 - [**Research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
+- [**Facility Locator User Research summary**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
