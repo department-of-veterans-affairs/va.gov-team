@@ -8,12 +8,12 @@
 ## Overview
 
 ### Objective
-The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available in `vets-website` so much of the logic can be utilized in the mobile app. A non-goal is to migrate as much data transformation/logic from `vets-website` front end into the mobile app backend. 
+The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available in `vets-website` so much of the logic can be utilized in the mobile app. A non-goal is to migrate as much data transformation/logic from `vets-website` front end into the to `vets-api` mobile module. 
 
 The intended audience is for the engineering team.
 
 ### Background
-Currently, the `vets-website` scheduling feature follows this flow:
+Currently, the `vets-website` scheduling feature is as follows:  
 
 - Verify user is registered at a facility
    - `/v0/user`
@@ -43,9 +43,10 @@ Currently, the `vets-website` scheduling feature follows this flow:
 
 ### High Level Design
 Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows: 
-- Create new endpoint to provide list of type of care that are supported (accept appointment requests and at at least one registered facility provides that service) by the users registered facilities. This prevents users from choosing a type of care, then later being told the facility does not support it. 
+- Create new endpoint to provide list of type of care that are supported (accept appointment requests and at at least one registered facility provides that service) by the users registered facilities. This prevents users from choosing a type of care, then later being told no facilities they can schedule with support it. 
    - TODO: Do we need to get list of eligibile facilities before this so we ensure we're only checking facilites that are available later in the process?
-- Check facility eligibility (`/vaos/v2/eligibility`) before selecting 
+- Check facility eligibility (`/vaos/v2/eligibility`) before user select facility and return elgibility status and if not elgibile, reason for unelgibility (EX: 'Non-primary facility - no appointment in last 12-24 months')
+- Move data manipulations logic from `vets-website` to `vets-api` mobile module 
 
 ## Specifics
 _Nothing goes here; all the content belongs in the subsections._
