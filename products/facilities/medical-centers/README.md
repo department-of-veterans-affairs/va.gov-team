@@ -1,14 +1,57 @@
-# VA Medical Center (VAMC) Facility System Sites
+# VAMC Medical Centers README 
 
-This product folder contains all research, design, engineering, and product documentation about the new VAMC Facility Site product. It also includes documentation about scaling the product to upgrade all VAMC websites to the new product design.
+[Key resources](#key-resources) 
 
-[VSA Facilities Team transition document | March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
+[VAMC resources](#vamc-resources)
 
-**Product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
+[Practice specific](#practice-specific-resources)
+- [Product](#product)
+- [Engineering](#engineering)
+- [Design/research](#design-research)
+- [CMS](#cms)
 
-**Business stakeholder:** Jenny Heiland-Luedtke (Jennifer.Heiland-Luedtke@va.gov) VHA Digital Media 
+[Legacy info about the VAMC pages](#legacy-info-about-the-facility-locator)
+
+## Key resources 
+
+- [**VSA Facilities Team transition overview**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/product-transition-overview.md) | March 2022
+- [**VSA Facilities team UX transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+
+## VAMC resources
+- [**VSA VAMC product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) | March 2022
+
+## Practice specific resources
+
+### Product 
+
+- [**Product Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md)
+- [**Product Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
+
+### Engineering
+- [**Engineering Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
+
+### Design-research
+
+- [**Design folder**]()
+- [**Research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research)
+- [**Research summary**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research#vamc-research-readme)
+- [**CMS research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
+
+### CMS
+
+- [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
+- [**VAMC product demo environment training**](VACMS-product-demo-environments-training.pdf)
+- [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
+- [**CMS product sheets**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
+- [**VA.gov-cms repo**](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
+- [**CMS VAMC Knowledge Base**](https://prod.cms.va.gov/help/vamc)
+
+## Legacy info about the VAMC pages
 
 ## VAMC upgrade work - October 1, 2020 thru December 31, 2020
+
+**Product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
+**Business stakeholder:** Jenny Heiland-Luedtke (Jennifer.Heiland-Luedtke@va.gov) VHA Digital Media 
 
 ### Business goal
 `By end of October 15th, 2021, VAMC will have all Systems in dual-state status.`
