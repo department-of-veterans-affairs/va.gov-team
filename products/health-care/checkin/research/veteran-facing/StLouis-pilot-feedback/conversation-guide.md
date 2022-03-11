@@ -5,7 +5,7 @@
 - Should we not intercept certain Veterans?
 - Talk to staff about hanging up the low vision poster(s) for our study (if not already used).
 
-## Initial Intercept and Screening Questions
+## Initial Veteran Intercept and Screening Questions
 - Hi! My name is [Name] and I'm a researcher for the VA. We are here today to gather feedback on a new pre-check-in and check-in experience using your mobile phone. Do you mind if I ask you a few questions and possibly observe you completing check-in? It will help us continue to improve the pre-check-in and check-in experience for Veterans like yourself. This is completely voluntary.
   - If no: That is ok. Point the to the updated poster, so they can complete mobile check-in by themselves. **[End session.]**
   - If yes: Thank you. I just want to let you know that if you want to stop my questions or observations at any point just let me know and we will. Would you like to check-in via your mobile phone?
