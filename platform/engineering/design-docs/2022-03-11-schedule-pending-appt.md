@@ -30,7 +30,7 @@ Currently, the `vets-website` scheduling feature follows this flow:
   - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
 - User chooses facility
   - Check if able to schedule request at given facility and service 
-  - `/vaos/v2/eligibility?facility_id=983GC&clinical_service_id=optometry&type=request`
+  - `/vaos/v2/eligibility?facility_id={id}&clinical_service_id={service_type}&type=request`
   - Multiple checks and responses are done here:
       - Is this a Cerner facility? if so, return cerner portal link
       - Is primary facility? if not, ensure veteran has had visit within 12-24 months to proceed
@@ -38,15 +38,14 @@ Currently, the `vets-website` scheduling feature follows this flow:
       - Is request limit reached?
 - If Community Cares facility, choose provider
   - `/facilities_api/v1/ccp/provider?{coordinate information}`
-- Schedule appointment request
-  - `/vaos/v2/appointments`
+- Choose desired date and times then schedule appointment request
+  - `/vaos/v2/appointments` 
 
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
-
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows: 
+- Create new endpoint to provide list of type of care that are supported (accept appointment requests and at at least one registered facility provides that service) by the users registered facilities. This prevents users from choosing a type of care, then later being told the facility does not support it. 
+   - TODO: Do we need to get list of eligibile facilities before this so we ensure we're only checking facilites that are available later in the process?
+- Check facility eligibility (`/vaos/v2/eligibility`) before selecting 
 
 ## Specifics
 _Nothing goes here; all the content belongs in the subsections._
