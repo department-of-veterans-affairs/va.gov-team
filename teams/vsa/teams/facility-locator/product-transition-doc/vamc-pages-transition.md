@@ -30,9 +30,9 @@ Modernized VAMC websites are comprehensive facility pages designed to meet the n
 Research indicated that the old VAMC websites were not meeting the need of users. VHA Digital Media partnered with OIT Digital Experience Product Office to research, design, test, and build the new website design with Veterans, family members, caregivers, and patient advocates (900 participants over 9 months). The new website design is focused on top tasks and content that Veterans, families, and caregivers need most. Of the hundreds of content pages each old VAMC website had, users were only going to about 5-10 pages. Website analytics for the old websites revealed that users are mostly looking for health services, facilitiy services, contact information, and appointments and pharamcy information--all parts of the new website that have been prioritized in the redesign. The release of these pages began with the soft launch of the new Pittsburgh health care in September 2019. Initial veteran feedback and research was conducted on the Pittsburgh health system site in November/December 2019. National roll-out was completed in December 2021, with the exception of Lovell federal health and Manilla Outpatient Clinic. These pages intersect with the Facility Locator by linking to search results and replaced the facility detail pages.
 
 This upgrade project has been the collaboration of multiple product teams within VSA, including
-- CMS Team: Drupal "Core" (stops at content API) and editorial front-end
-- VAMC Upgrade Team: Content creation and mapping
-- Facilities Team: Veteran-facing front end (from content API to Veteran-facing UI) _Ownership of the front end work was transferred from the Public Websites team to the Facilities team following a decision to implement on VAMCs only (rather than globally)._
+- CMS Team: responsible for Drupal "core" (stops at content API) and editorial front-end
+- VAMC Upgrade Team: responsible for content creation and mapping
+- Facilities Team: responsible for Veteran-facing front end (from content API to Veteran-facing UI) _Ownership of the front end work was transferred from the Public Websites team to the Facilities team following a decision to implement on VAMCs only (rather than globally)._
 
 
 ## Documentation and analytics
@@ -71,17 +71,26 @@ The most critical path iteams are listed below but do not represent the total of
 
 ## Artifacts
 
+### Product
+
+- [VA Medical Centers README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/README.md#va-medical-centers-readme)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product)
+- [CMS VAMC Knowledge Base](https://prod.cms.va.gov/help/vamc)
+- [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
 - [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy)
-- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
+
+### Engineering
+- [**VA.gov-cms repo**](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
+- [VAMC product demo environment training](VACMS-product-demo-environments-training.pdf)
+
+### Design-research
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/discovery)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research)
+- [Research summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research#vamc-research-readme)
+- [CMS research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
 
-## Github labels
-The following Github labels were used for VAMC front-end issues
+### CMS
+- [Working with CMS team - Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
+- [Content management system README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
 
-#vsa-facilities and
-- #frontend
-- #front-end-vamc
-- #backend
 
