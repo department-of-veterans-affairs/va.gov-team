@@ -1,4 +1,7 @@
 # Conversation Guide: Questions for Staff to ask Veterans
+
+# This research study was attempted, but it proved difficult to have MSAs help us gather feedback. As a result, we changed methodologies and planned an on-site visit to gather this feedback/reach these same research goals. The new research plan can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback).
+
 ## Assets
 - [Interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/8051757/StLouis-Veteran-Feedback.pdf)
 
