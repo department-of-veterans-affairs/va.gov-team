@@ -42,22 +42,16 @@ Currently, the `vets-website` scheduling feature is as follows:
   - `/vaos/v2/appointments` 
 
 ### High Level Design
-Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows: 
-- Create new endpoint to provide list of type of care that are supported (accept appointment requests and at at least one registered facility provides that service) by the users registered facilities. This prevents users from choosing a type of care, then later being told no facilities they can schedule with support it. 
-   - TODO: Do we need to get list of eligibile facilities before this so we ensure we're only checking facilites that are available later in the process?
+Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows:
 - Check facility eligibility (`/vaos/v2/eligibility`) before user select facility and return elgibility status and if not elgibile, reason for unelgibility (EX: 'Non-primary facility - no appointment in last 12-24 months')
+- Create new endpoint to provide list of type of care that are supported (accept appointment requests and at at least one registered facility provides that service). For each type of service, provide elgibility status of each user registered facility and if not elgibible, why it is not. This prevents users from choosing a type of care, then later being told no facilities they can schedule with support it. 
+
 - Move data manipulations logic from `vets-website` to `vets-api` mobile module 
 
 ## Specifics
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
-
-_This is a great place to put APIs, communication protocols, file formats, and the like._
-
-_It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
-
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
+New endpoint data structure
 
 ### Code Location
 In `vets-api`, a controller will be created called `schedule_appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
