@@ -5,15 +5,15 @@ Meetings held on March 9, 2022
 Participants
 - MSA 1 from Franklin Co Washington CBOC
 - LPN from Franklin Co Washington CBOC
-- MSA 2 
-- MSA 3 North County
+- MSA 2 from St. Clair CBOC
+- MSA 3 from North County
 - Trainer
 
 ## Questions
 - How has mobile CI impacted your work?
-  - MSA 2: some challenges, if vets are not tech savvy, getting a good signal at the clinic is a barrier
+  - MSA 2: some challenges, if vets are not tech savvy, getting a good signal at the clinic is a barrier, delay in check-in process is causing PCP to run late
   - MSA 1: when they come to check in, message sometimes says to see us or update insurance; have to open up a different program to do the editing then get out and then patient has to go to phone to check in; can’t go into new VistA scheduling to do the updates; patient wants to know why they have to check in twice
-  - MSA 2: same workflow as MC
+  - MSA 2: same workflow as MSA 1
   - MSA 1: 
     - Some veterans don’t know how to text
     - Texting sometimes “sorry CI didn’t go through”
