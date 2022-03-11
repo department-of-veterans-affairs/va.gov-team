@@ -19,35 +19,46 @@ Vet Center pages were intentionally designed to be lean, meeting the minimum nee
 - lessons learned from the VAMC modernized page roll-outs
 - input from MVP group of Vet Center editors and RCS leadership
 - fact that these pages establish online presence for the first timne (rather than replacing any existing pages)
-Once the roll-out is complete, we plan to re-evaluate additional features and will highly conisder making a set of features "optionsal"/"a la carte" for Vet Centers are interested and feel equipped to tackle additional areas. 
+Once the roll-out is complete, we plan to re-evaluate additional features, including the option for "a la carte" features for Vet Centers are interested and feel equipped to tackle additional areas. 
 
 ## Vet Center pages product roadmap
-
-
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
 
 ### Now
+- **Publish remaining District 1 and 4 pages**
+- **District 2 roll-out**
+
+- **Vet Center Dashboard Access** - [#36962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36962)
+
 ### Next 
+- **Kick off District 3**
+- **SEO strategy** - Epic[#16069](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16069)**
+
 ### Later
 
 ## Artifacts
+
+### Product
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/product)
 - [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
-- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
-- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/research/README.md)
 - Results from Vet Center surveys from [October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20October%202021%20(1).pptx) and [January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20January%202022.pptx)
-- [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) (_VA network link_)
+- [CMS Vet Center Knowledge Base](https://prod.cms.va.gov/help/vet-center)
+- [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020- [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) (_VA network link_)
 - [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) (_VA network link_)
 - [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) (_VA network link_)
 - [ Vet Center runbok](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B7F0BB876-FE89-47E9-805D-26A0C646C446%7D&file=Vet%20Center%20runbook.xlsx&action=default&mobileredirect=true) (_VA network link_)
-## Github labels
-The following Github labels were used for Vet Center issues
 
-#vsa-facilities and
+### Design-research
+- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
+- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/research/README.md)
+- [CMS research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
 
-- #frontend
-- #front-end-vet-center
-- #vet-center
-- #backend
+### Engineering
+- [VA.gov-cms repo](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
+- [VAMC product demo environment training](VACMS-product-demo-environments-training.pdf)
+
+### CMS
+- [Working with CMS team - Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
+- [Content management system README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
