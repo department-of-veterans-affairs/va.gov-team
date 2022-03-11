@@ -22,6 +22,7 @@
 - How many days ago did you complete pre-check-in?
 - What did you like and dislike about the pre-check-in experience?
 - Do you think it will change anything about checking into your appointment today?
+  - If so, how?
 
 ## Observing Veteran
 - Direct them to the poster, and watch them complete check-in.
