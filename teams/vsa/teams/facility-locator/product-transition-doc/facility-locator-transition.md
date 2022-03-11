@@ -61,15 +61,19 @@ The most critical path iteams are listed below but do not represent the total of
 
 - **Implement new Lighthouse v1 services endpoint (CMS -> Lighthouse -> Facility Locator)** 
   - Epic [31901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
-  - Includes revisiting Revisit FL front end direct connection to Lighthouse - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065) and background in [API key discussion thread](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9716) 
+  - Revisit FL front end direct connection to Lighthouse 
+    - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065) 
+    - [Facility Locator-Lighthouse integration document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)
 - **Update VBA search experience to increase VBA service and facility information**
    - Epic [#4865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4865)
-   - Issues [#37632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632) and [#37633](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633)
-  - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
+   - Increase VBA service information [#37632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632)
+   - Increase VBA service information [#37633](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633)
+   - Facility Locator expected behavior for VBA "all services" searches [#38433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38433)
+   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
 - **Restore pagination for urgent care and emergency care** 
    - Issue [#32760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
 - **Implement more robust monitoring**
-- Epic [#10870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10870)
+   - Epic [#10870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10870)
 
 ### Later
 
