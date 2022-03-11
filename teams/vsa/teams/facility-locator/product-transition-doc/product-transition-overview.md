@@ -54,7 +54,8 @@ Person | Email | Role |
 Dave Conlon | david.conlon@va.gov | Product owner
 Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC)
-Kevin Walsh | kevin.walsh@civicactions.com | CMS team POC
+Kevin Walsh | Slack @Kevin Walsh | Sitewide CMS Product Manager
+Clarence Maeng | Slack @Clarence Maeng | CMS Delivery Manager
 Nancy Smith | nancy.smith@oddball.io | Mapbox POC
 
 ## Meetings
@@ -70,13 +71,5 @@ Nancy Smith | nancy.smith@oddball.io | Mapbox POC
    - Agenda and notes found in [PPMS Data Web Service Forum](https://vaww.oed.portal.va.gov/pm/iehr/vista_evolution/RA/CCP_PPMS/PPMS_DWS/SitePages/Home.aspx)
 
 
-
-## Open questions
-
-- Open question lorem ipsum dolor sit amet?
-- Open question lorem ipsum dolor sit amet?
-- Open question lorem ipsum dolor sit amet?
-
-<br>
 
 ---
