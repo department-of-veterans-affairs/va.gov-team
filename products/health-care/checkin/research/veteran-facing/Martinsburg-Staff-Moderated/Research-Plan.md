@@ -1,4 +1,7 @@
 # Research Plan MVP site staff help us gather feedback from Veterans
+
+# Note: This research study was attempted, but it proved difficult to have MSAs help us gather feedback. As a result, we changed methodologies and planned an on-site visit to gather this feedback/reach these same research goals. The new research plan can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback).
+
 ## Background
 This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
 
