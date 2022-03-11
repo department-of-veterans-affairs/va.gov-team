@@ -78,17 +78,17 @@ The Design System team is discussing changing the review & submit page. One prop
     - [ ] `evss_upload_limit_150mb` (code in the CST as well)
     - [ ] `request_locked_pdf_password`
 
-### Claim Status Tool App (CST)
+## Claim Status Tool App (CST)
 
 Not much has been done to this app, other than updating to use web components and accessibility fixes; but, a bunch of research was done and a redesign was in process.
 
 Some backend preliminary investigation has been done to see if decision letters can be made available in the app. I don't think this would require any, or maybe minimal, work for the frontend.
 
-#### Monitoring
+### Monitoring
 
 - [Graphana](https://grafana.vfs.va.gov/d/WxQ9lkUGz/claims-and-appeals-alerts?orgId=1&from=now-7d&to=now) (`v0/evss_claims_async` charts)
 
-#### Outstanding tickets
+### Outstanding tickets
 
 - Pending
   - [ ] Reexamine eBenefits links ([#21207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21207))
@@ -101,15 +101,14 @@ Some backend preliminary investigation has been done to see if decision letters 
   - Check if `omni_channel_link` feature flag is still needed?
   - Time estimates are disabled because of COVID delays (see [#12480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12480)), find out when this gets added back
 
-
-### Higher-Level Review (HLR, Form 20-0996)
+## Higher-Level Review (HLR, Form 20-0996)
 
 Higher-Level Review (HLR) version 2 is set to 100% available in production as of February 24, 2022.
 Phase 1 involved allowing selection of compensation-only claims, same office selection & choosing an informal conference. Phase 2 (v2) included write-in issues with legacy (SOC/SSOC) statement, a new homeless question, removal of same office and different informal conference time selections. There are a lot of similarities between HLR and the Notice of Disagreement (NOD) form.
 
 The next phase will involve removing the `hlr_v2` feature flag, all the v1 code, removing the wizard, and moving the benefit type question inside the form ([#37470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37470), Lighthouse API is ready for this change).
 
-#### Monitoring
+### Monitoring
 
 - Google Analytics:
   - [successful submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.dateOption=last7days&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventLabel:decision-reviews-va20-0996--submission-successful/)
@@ -119,7 +118,7 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
 - [Lighthouse API calls](https://vpc-dvp-prod-kong-logs-lxxvek5z56mgfqmvkwzjeqiadi.us-gov-west-1.es.amazonaws.com/_plugin/kibana/app/visualize#/edit/052d79e0-3e34-11eb-b8d1-a1cd19a6562c?_g=h@d01ba18&_a=h@d5bb17f)
 - [DOMO dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F447193050)
 
-#### Outstanding tickets
+### Outstanding tickets
 
 - Pending
   - [ ] Update benefit selection ([#37470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37470))
@@ -139,20 +138,20 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
   - Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
   - Add `reviewErrors` to form config for review & submit page errors
 
-### Board Appeal (Form 10182 - Notice of Disagreement, a.k.a NOD)
+## Board Appeal (Form 10182 - Notice of Disagreement, a.k.a NOD)
 
 The Notice of Disagreement form has not yet been released into production. It was ready, and presented to the Board in June 2021. It has since been updated to use the v2 schema, and been through many iterations awaiting the Board's final approval to be published in production.
 
 Lighthouse reported that version 2 of the schema is ready to be implemented, changes outlined in "larter work" entry under "outstanding tickets". But note, that a `representativesName` (v1) and `representative.name` (v2) are included in Lighthouse's schema, but the [Board asked us not to include this entry in the form](https://dsva.slack.com/archives/CSKKUL36K/p1623876169114300).
 
-#### Monitoring
+### Monitoring
 
 - Google Analytics successful submissions - pending
 - [Sentry error logs](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&query=is%3Aunresolved+source%3A10182-board-appeal&sort=priority&statsPeriod=14d) (socks proxy required)
 - [Graphana](https://grafana.vfs.va.gov/d/Zvfdzf_Gz/nod-notice-of-disagreement?orgId=1) (socks proxy required)
 - [DOMO dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F447193050)
 
-#### Outstanding tickets
+### Outstanding tickets
 
 - Needs review/stakeholder review
   - [ ] Release NOD into production - `form10182_nod` feature flag
@@ -173,17 +172,17 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
     - Add appeal of VHA denial - `appealingVhaDenial` (boolean)
   - Add `reviewErrors` to form config for review & submit page errors - see [#25114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25114)
 
-### Letters App
+## Letters App
 
 This app has needed some maintenance since this team was started. Mostly around the verify address step. There is some mobile app work being done to duplicate this app.
 
-#### Outstanding tickets
+### Outstanding tickets
 
 - Pending
   - [ ] Missing info ([#21066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21066))
   - [ ] Support request ([#36869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36869))
 
-### Pre-need (Form 40-10007)
+## Pre-need (Form 40-10007)
 
 - Miscellaneous fixes have been done:
   - Update expiration date
@@ -195,7 +194,7 @@ This app has needed some maintenance since this team was started. Mostly around 
 
 This form still needs a lot of work; see later work in outstanding tickets section.
 
-#### Outstanding tickets
+### Outstanding tickets
 
 - Pending
   - [ ] Improvements epic ([#27578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27578))
@@ -213,11 +212,11 @@ This form still needs a lot of work; see later work in outstanding tickets secti
   - Fix review & submit accordion style
   - Usability testing ([#28873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28873), placeholder?)
 
-### Burial (Form 21-530EZ)
+## Burial (Form 21-530EZ)
 
 The app hasn't been touched, as far as I know, since release. I think the problem is that it's lumped together with pre-need, but it's a completely separate form.
 
-#### Outstanding tickets
+### Outstanding tickets
 
 - Pending
   - [ ] Update form ([#10180](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10180)) - [21P-530EZ PDF online](https://www.vba.va.gov/pubs/forms/VBA-21P-530EZ-ARE.pdf)
@@ -225,6 +224,6 @@ The app hasn't been touched, as far as I know, since release. I think the proble
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
 
-### Supplemental claim (Form 20-0995)
+## Supplemental claim (Form 20-0995)
 
 Research & discovery work in progress. [Lighthouse endpoints](https://dev-developer.va.gov/explore/appeals/docs/decision_reviews?version=current) in place, but no schema.
