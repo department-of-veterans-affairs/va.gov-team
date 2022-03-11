@@ -1,20 +1,10 @@
 # README
 
-## Index of links and resources related to the Engineering practice
+## Facility Locator engineering transition documents (March 2022)
+- [Facility Locator documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
+- [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
+- [PPMS troubleshooting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
+- [Creating vcr tapes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
 
-### [VAMap Logic Flow](https://gist.github.com/r-mc2/27e309840cda3d8a37735f6c2025bf08#order-of-operations)
-
-### [Working with Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/16d4df72881df12bc3596e1acca005fd2694dd88/platform/engineering/working-with-engineering-team.md)
-- This document outlines how engineers can work with VSP using engineering best practices and guidelines in order to provide Veterans with an excellent customer experience.
-
-### [Submit Pull Request](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review/)
-- This lists the steps for submitting a pull request and running tests. 
-
-### [Pull Request process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/engineering/pull-request-process.md)
-- This page describes a subset of the base process defined by VSF.
-
-### [VSP Triage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/devops/Triage-Process.md)
-- This page describes the VSA Triage and On-call Process.
-
-### [VSA QA Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/qa/vsa-qa-process.md)
-- This page outlines the QA practices process flow. 
+### [Working with Engineering](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+- Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
