@@ -1,4 +1,4 @@
-# VAMC Medical Centers README 
+# VA Medical Centers README 
 
 [Key resources](#key-resources) 
 
