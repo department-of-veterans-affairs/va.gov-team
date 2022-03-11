@@ -42,9 +42,21 @@ Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort*
 
 1. How do veterans think about the current and proposed pieces of content on the VA Mobile app?
     1. Do veterans understand the proposed categories?
+        i. Six participants suggested having sub categories would help.
+        ii. Benefits/ account and payments had crossover. Participants expressed uncertainty about these categories.
+        iii. Seven people mentioned uncertainty about the the payment section
     2. Are there any cards that veterans felt uncertain about what category to place them in? 
-    3. Are there any categories missing?
+        Yes, the following cards were split betwen 2 different categories. 
+        i. Access letters and documents proving your veteran status 
+        ii. VA letters and documents
+        iii. COVID-19 updates & information
+
+        
+    4. Are there any categories missing?
+        i. Three participants added "Education"
+        ii.
 2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
+    
 
 
 
@@ -61,13 +73,15 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+1. Veterans will be able to categorize cards and name groups of cards presented in the card sort. 
+**True**
+2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov. 
+**False** While the category "Health" had cards with strong agreement, similar to how it is organized on VA.gov, The cards in categories Benefits, Account, Payments, and General VA information did not have the same strong agreement with the cards in the main buckets on va.gov. The Category labeled "health" in the card sort is also a category on VA.gov whereas all the other categories have different names. 
+3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
+**True** While the agreement was lower than expected for some of the cards in the payment category (46% on the low end), overall there was agrement with all of the payment cards we expected to be in the payment category.  
+4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
+**False**
 
 
 # Key Findings
