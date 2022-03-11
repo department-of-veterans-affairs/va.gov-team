@@ -90,8 +90,10 @@ Our backend gets this data from ([`/v0/notice_of_disagreement/contestable_issues
 ```
 
 The issues provided by Lighthouse need additional processing. In the [`getEligibleContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/utils/submit.js#L66), contestable issues loaded from the API are filtered out:
+- Empty `ratingIssueSubjectText` entries (see [Slack](https://dsva.slack.com/archives/CSKKUL36K/p1623956682119300?thread_ts=1623863323.111700&cid=CSKKUL36K))
 - If they contain the word `deferred` in either the `ratingIssueSubjectText` or `description` as these issues are no longer eligible.
 - Have a `approxDecisionDate` greater than one year in the past.
+- Lighthouse is removing the ["Granted: {your issue} is denied" entries](https://dsva.slack.com/archives/CSKKUL36K/p1623863323111700).
 
 Before being added to the form data, the [`processContestableIssues` function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/utils/helpers.js#L97):
 - Filters out issues with no `ratingIssueSubjectText`
@@ -177,6 +179,10 @@ flowchart LR
 ```
 
 See the [list loop tech notes v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/forms-system/list_loop_v2.md) for details on how this is set up.
+
+### Representative Name
+
+In the PDF, the Veteran is asked for the name of their representative &ndash; a Veterans Service Organization (VSO) or accredited representative, and it was included in our original work ([NOD representative page design](https://vsateams.invisionapp.com/console/share/8Y10I6K7DU9R/600538565)). But while presenting the flow to the Board, they requested to have this page removed ([Slack](https://dsva.slack.com/archives/CSKKUL36K/p1623876169114300)). Lighthouse's schema still includes this data, but it's not required.
 
 ## What are some things we'd make better if we had more time?
 
