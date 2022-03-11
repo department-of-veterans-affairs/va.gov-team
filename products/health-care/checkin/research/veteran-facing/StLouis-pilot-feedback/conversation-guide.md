@@ -15,7 +15,7 @@
         - Thank you for helping us continue to improve the pre-check-in and check-in experiences.
     - If yes: Do you mind if I ask you a few questions about your experience completing pre-check-in? It will help us to continue to improve the experience for Veterans like yourself. It is completely voluntary. 
       - If not: That is ok. Point the to the updated poster, so they can complete mobile check-in by themselves.
-      - If yes: Thank you. I just want to let you know that if you want to stop my observation and questions at any point just let me know and we will. [Skip to "Pre-check-in Questions" section]
+      - If yes: Thank you. I just want to let you know that if you want to stop my questions at any point just let me know and we will. [Skip to "Pre-check-in Questions" section]
   - If yes: Do you mind if I ask you a few questions and observe you completing check-in? It will help us to continue to improve the pre-check-in and check-in experience for Veterans like yourself. This is completely voluntary.
     - If no: That is ok. Point them to the updated poster, so they can complete mobile check-in by themselves.
     - If yes: Thank you. I just want to let you know that if you want to stop my observation and questions at any point just let me know and we will. 
