@@ -19,7 +19,9 @@
       - If yes: **[Ask questions from "Pre-check-in Questions" and "Observing Veteran" sections]**
   
 ## Pre-check-in Questions
-
+- How many days ago did you complete pre-check-in?
+- What did you like and dislike about the pre-check-in experience?
+- Do you think it will change anything about checking into your appointment today?
 
 ## Observing Veteran
 - Direct them to the poster, and watch them complete check-in.
@@ -38,7 +40,7 @@
 - Follow up questions (once check-in is complete)
   - Is this your first time checking in with this mobile experience?
   - Did you feel this check-in experience was a secure experience?
-  - If the veteran didn't use a QR code, can we ask one more follow-up question here: "when was the last time (if at all) you've used a QR code?"
+  - If the veteran didn't use a QR code, When was the last time (if at all) you've used a QR code?
   - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
     - Why? What are your impressions of the experience?
 
