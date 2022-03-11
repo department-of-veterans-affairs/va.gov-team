@@ -105,7 +105,7 @@ Additionally, there are a lot of [tier 3 support tickets](https://github.com/dep
 - Open question lorem ipsum dolor sit amet?
 
 
-###
+### Claims Status
 - [ ] [Claim Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/README.md)
 - Full product redesign was planned
 - Implementation & Review of all in this ticket ([#36383](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36383))

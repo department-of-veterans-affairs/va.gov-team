@@ -1,6 +1,6 @@
 # Frontend Engineering transition document
 
-## Form 526
+## Disability compensation (Form 21-526EZ)
 
 Form 526 is in production. A Veteran can file for:
 - Original claim
@@ -47,12 +47,15 @@ The Design System team is discussing changing the review & submit page. One prop
 - Needs review/stakeholder review
   - [ ] Page reorder ([#36028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36028))
   - [ ] New contention ([#1638](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1638)) - no idea on status
+  - [ ] 526 errors unsubmittable claims epic ([#33441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33441))
+  - [ ] convert `Telephone` to `va-telephone` web component ([#36943](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36943))
 
 - Work dependent on another team
-  - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
-  - [ ] New disability autocomplete work ([#6006](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6006) & [#30061](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30061))
-  - [ ] Add PTSD to review & submit ([#14014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14014)) - the forms team is discussing plans to change the review & submit page.
-
+  - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Design system team need to update Forms system
+  - [ ] New disability autocomplete work ([#6006](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6006) & [#30061](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30061)) - Design system team
+  - [ ] Add PTSD to review & submit ([#14014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14014)) - the Design system team is discussing plans to change the review & submit page.
+  - [ ] Evaluate analytics `va-additional-info` ([#35050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35050)) - waiting on Design system team
+  - [ ] Add EP code for BDD ([#29527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29527)) - waiting on EVSS
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Federal orders date bug ([#28424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28424))
   - [ ] Service history start before 13th birthday ([#28417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28417))
@@ -75,7 +78,7 @@ The Design System team is discussing changing the review & submit page. One prop
     - [ ] `evss_upload_limit_150mb` (code in the CST as well)
     - [ ] `request_locked_pdf_password`
 
-### Claim Status Tool (CST)
+### Claim Status Tool App (CST)
 
 Not much has been done to this app, other than updating to use web components and accessibility fixes; but, a bunch of research was done and a redesign was in process.
 
@@ -123,6 +126,7 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
   - [ ] Add VSO question ([#36135](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36135))
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
+  - [ ] HLR tier 3 support ([#37913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37913)) - awaiting Luke Majewski to provide Veteran's `account_uuid` for further investigation
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
@@ -133,7 +137,7 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
   - Create `minimal-test-v2.json` for e2e testing
   - Update `hlr-contact-loop.cypress.spec.js` so contact "update" test works (coordinate with authenticated experience team) - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#contact-loop-testing)
   - Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
-
+  - Add `reviewErrors` to form config for review & submit page errors
 
 ### Board Appeal (Form 10182 - Notice of Disagreement, a.k.a NOD)
 
@@ -167,40 +171,60 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
     - Submit `countryCodeISO2` instead of `countryName`
     - Add extension reason. `extensionRequest` (boolean) & `extensionReason` (string)
     - Add appeal of VHA denial - `appealingVhaDenial` (boolean)
+  - Add `reviewErrors` to form config for review & submit page errors - see [#25114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25114)
 
-### Letters
+### Letters App
 
 This app has needed some maintenance since this team was started. Mostly around the verify address step. There is some mobile app work being done to duplicate this app.
 
 #### Outstanding tickets
 
 - Pending
-  -  [ ] Missing info ([#21066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21066))
+  - [ ] Missing info ([#21066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21066))
+  - [ ] Support request ([#36869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36869))
 
+### Pre-need (Form 40-10007)
 
-### Pre-need
+- Miscellaneous fixes have been done:
+  - Update expiration date
+  - Accessibility fixes
+  - Content updates
+  - Switch React to use web components
+  - Another team updated the `race` options
+- I don't know if anyone is actively monitoring this form.
 
-- This app hasn't been touched, as far as I know, since release.
-- It is not in active development, nor do I know if anyone is actively monitoring it.
+This form still needs a lot of work; see later work in outstanding tickets section.
 
 #### Outstanding tickets
 
+- Pending
+  - [ ] Improvements epic ([#27578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27578))
+  - [ ] Follow up support ([#36030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36030)) - not sure if this is for Burial or Pre-need.
 - Needs review/stakeholder review
   - [ ] Update privacy modal ([#27577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27577)) - need content feedback
+  - [ ] Use OMB info on intro page (related [#27577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27577))
+  - [ ] Update respondent burden text ([#27430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27430))
 - Work dependent on another team
+  - [ ] Allow Veterans to enter full address ([#34987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34987))
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
 - Later work
-  - Use OMB info on intro page (related [#27577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27577))
   - Make cemetary autocomplete work locally & in staging
   - Prefill telephone & email
   - Fix review & submit accordion style
-  - Follow up support ([#36030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36030))
+  - Usability testing ([#28873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28873), placeholder?)
 
-### Burials
+### Burial (Form 21-530EZ)
 
-I can't say with 100% confidence that our team owned this app, but no one else stepped up. The app hasn't been touched, as far as I know, since release.
+The app hasn't been touched, as far as I know, since release. I think the problem is that it's lumped together with pre-need, but it's a completely separate form.
 
 #### Outstanding tickets
 
+- Pending
+  - [ ] Update form ([#10180](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10180)) - [21P-530EZ PDF online](https://www.vba.va.gov/pubs/forms/VBA-21P-530EZ-ARE.pdf)
+  - [ ] Follow up support ([#36030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36030)) - not sure if this is for Burial or Pre-need.
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
+
+### Supplemental claim (Form 20-0995)
+
+Research & discovery work in progress. [Lighthouse endpoints](https://dev-developer.va.gov/explore/appeals/docs/decision_reviews?version=current) in place, but no schema.
