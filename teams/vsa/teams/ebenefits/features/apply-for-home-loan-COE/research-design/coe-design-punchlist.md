@@ -25,7 +25,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [ ] Pending states: hide subway map content behind link
 - [ ] Pending states: confirm "speed-up" is replaced with "speed up"
 - [x] Add "Need help" section to Denied screen in prototype
-- [ ] Add "top" Request a COE link to area above subway map
+- [x] Add "top" Request a COE link to area above subway map
 - [ ] Add SIP message for form in-progress
 
 ### VA form 26-1880
@@ -57,7 +57,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [ ] Your VA loan history: shorten text field for VA loan number
 - [ ] Doc uploader: check spacing above dropdown and above upload button
 - [ ] Doc upload: can uploaded file card show above dropdown?
-- [ ] Review page: confirm privacy checkbox is available
+- [x] Review page: confirm privacy checkbox is available
 - [x] ~~Review page: remove gender from prototype~~ (Accordion content is N/A)
 - [ ] Review page: confirm titles vs. no-title
 - [ ] Review page: Check military service drop-down value
