@@ -1,17 +1,17 @@
-# Research Plan for Check-in Team, March 7 2022 Draft
+# Research Plan for Check-in Team
 
 # Research Plan: St. Louis Visit to Gather Feedback on Pilot from Veterans
 March 2022
 
 ## Background
 The check-in team is reimagining the experience between a Veteran scheduling a medical appointment and having their appointment. In particular, we are creating portions of the ecosystem that enable a Veteran to:
-review and confirm the following information prior to an appointment (also known as pre-check-in):
-confirming the appointment.
-reviewing contact information.
-reviewing next of kin information.
-reviewing emergency contact information.
-answer health questionnaires (future feature).
-utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) for a medical appointment via VA.gov. 
+- review and confirm the following information prior to an appointment (also known as pre-check-in):
+  - confirming the appointment.
+  - reviewing contact information.
+  - reviewing next of kin information.
+  - reviewing emergency contact information.
+  - answer health questionnaires (future feature).
+- utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) for a medical appointment via VA.gov. 
 
 With this round of research, we are looking to gather feedback on the pre-check-in and day of check-in experiences from Veterans at pilot locations across the St. Louis area. 
 
@@ -22,7 +22,6 @@ While we previously observed Veterans using mobile check-in on-site, we only vis
 During the recent spike in COVID cases over the past few months, we attempted to gather feedback from Veterans at the pilot locations remotely utilizing Medical Support Assistants (MSA) as researchers. This methodology proved to be difficult, which is another reason we now plan to gather feedback on-site. 
 
 The staff’s experience with check-in is just as important as the Veteran experience, so we also plan to gather [staff feedback on this research trip](link to research plan].
-
 
 
 ### OCTO Objectives
