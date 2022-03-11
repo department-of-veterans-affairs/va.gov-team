@@ -1,38 +1,46 @@
-# Facility Locator
+# Facility Locator README 
 
-## Index of relevant folders and high level documentation  
+[Key resources](#key-resources) 
 
-[**VSA Facilities Team transition document folder | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc)
+[Facility Locator resources](#facility-locator-resources)
 
-[**Issue response (including architecture diagrams)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
+[Practice specific](#practice-specific-resources)
+- [Product](#product)
+- [Engineering](#engineering)
+- [Design/research](#design-research)
 
-[**Error states**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
+[What to know about the product](#what-to-know-about-the-product)
 
-[**Facility Locator Subject Matter**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/va-facility-subject-matter)
-- This page is an index of links and resources related to the Facility Locator ecosystem. 
+[Legacy info about the Facility Locator](#legacy-info-about-the-facility-locator)
 
-## Practice Specific
+## Key resources 
 
-[**Engineering Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
-- This page is an index of links and resources related to the Engineering practice, including Working with Engineering and processes for pull requests, triage and QA.   
+- [**VSA Facilities Team transition overview**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/product-transition-overview.md) | March 2022
+- [**VSA Facility Locator UX transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
 
-[**Design Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Design/README.md)
-- This page is an index of links and resources related to the Design practice, including Inclusivity and 508 Compliance.  
+## Facility Locator resources
+- [**VSA Facility Locator product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) | March 2022
+- [**Issue response**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
+- [**Error states**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
 
-[**Product Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md)
-- This page is an index of links and resources related to the Product practice. 
+## Practice specific resources
 
-## Across VSP
+### Product 
 
-[**Guidelines for documentation in GitHub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md)
-- This page will help you determine where files should go and how to name them.
+- [**Product Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md)
+- [**Product Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
 
-[**Documentation Best Practices**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-documentation.md)
-- This page will help all teams working in the VA.gov GitHub ecosystem understand when to engage Documentation resources for support. 
+### Engineering
+- [**Engineering Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
 
-[**Content Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
-- This page will help all teams working on VA.gov understand when to engage Content resources for review and support. 
+### Design-research
 
+- [**Design folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
+- [**Research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
+- [**Research summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/README.md)
+
+
+---
 
 ## What to know about the product 
 - va.gov/find-locations
@@ -43,7 +51,7 @@
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/> (which was changed to an annual license version, effective Oct 1, 2019, facilitated by Nancy Smith of Oddball)
 - It serves many purposes, from finding basic facility address and phone information to preparing for a visit, to understanding eligiblity for community care
 
-## Other notes
+### Other notes
 
 - Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator>
 
