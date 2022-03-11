@@ -52,7 +52,45 @@ Implementation of this feature will largely follow the logic listed in the backg
 
 ### Detailed Design
 New endpoint data structure
-
+parameters: user
+```json
+{
+   "data":[
+      {
+         "type":"optometry",
+         "eligible":"true",
+         "cc":[
+            {
+            "facility_info": "test"
+            },
+            {
+               "facility_info": "test"
+            }
+         ],
+         "va":[
+            {
+               "name": "Cheyenne VA Medical Center",
+               "city": "Cheyenne",
+               "state": "WY"
+               "eligibile": {
+                  "status": "false",
+                  "reason": "Non-primary facility with no visit within 12-24 months"
+               }
+            },
+            {
+               "name": "Dayton VA Medical Center",
+               "city": "Dayton",
+               "state": "OH"
+               "eligibile": {
+                  "status": "true",
+                  "reason": nil
+               }
+            },
+         ]
+      }
+   ]
+}
+```
 ### Code Location
 In `vets-api`, a controller will be created called `schedule_appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
 
