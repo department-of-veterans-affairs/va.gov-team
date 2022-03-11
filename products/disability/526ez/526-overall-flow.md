@@ -17,7 +17,7 @@ graph TD
     Wizard -. start 526 .-> Intro[Intro page]
     Wizard -. non-526 .-> Nope[Link to other page]
 
-    Intro --> ITF[Intent to file]
+    Intro --> ITF[Intent to file<br>Form 0966]
     ITF --> C1[Chapter: Veteran info]
     C1 --> C2[Chapter: Disabilities]
     C2 -. PTSD .-> 781[Form 781/781a] --> C2
@@ -73,7 +73,15 @@ Step 1 of 5
 ```mermaid
 graph TD
 
-    Intro[Introduction Page] --> VetInfo[Veteran Information]
+    Intro[Introduction Page] --> ITF[Intent to file<br>auto-apply/check]
+
+    subgraph ITFForm [Form 21-0966]
+
+    ITF
+
+    end
+
+    ITF --> VetInfo[Veteran Information]
 
     subgraph ChapterDetails [Chapter: Veteran Details]
 
@@ -428,7 +436,7 @@ graph TD
     EvidenceSummary[Summary of evidence]
     VAMR -. done .-> EvidenceSummary
     PrivateMrUpload -. done .-> EvidenceSummary
-    PrivateProvider -. done .-> EvidenceSummary
+    PrivateProvider -. done - this files<br>form 4142 .-> EvidenceSummary
     StatementsUpload -. done .-> EvidenceSummary
 
     VAMR -. Supporting<br>selected .-> StatementsUploadQuestion
