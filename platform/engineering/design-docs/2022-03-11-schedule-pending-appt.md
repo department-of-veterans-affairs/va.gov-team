@@ -1,28 +1,16 @@
-# Design Doc Template
+# Scheduling Pending Appointments
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
-**Author(s):** Albert J. Wong  
-**Last Updated:** January 24, 2020  
+**Author(s):** Andrew Herzberg  
+**Last Updated:** March 11,2022  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
-_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
-
-_For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
-
-_You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow engineer. It should be written before implementing the system to aid in planning and to facilitate discussions about design decisions. After implementation, the design doc will serve as a reference for users, maintainers, and anyone else interested in the system (and for that reason it is still useful to write design docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research report, or a business plan._
-
-_The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
-
 
 ## Overview
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Objective
-_In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
+The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available on the web app so much of the logic can be mirrored from there into the mobile app. A non-goal is to migrate as much data transformation from the web front end into the mobile app backend. 
+
+The intended audience is for the engineering team.
 
 ### Background
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
@@ -94,5 +82,4 @@ _The table below should record the major changes to this document. You don't nee
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+March 11, 2022 | Initial Draft | Andrew Herzberg
