@@ -33,16 +33,13 @@
       - If not, what happened? Where did they get stuck?
     - Did the Veteran talk to the MSA/clerk for any reason?
       - Why?
-
-Stop the Veteran on the appointment list page, if they have multiple appointments listed.
-- What are your impressions of this page?
-
-Follow up questions (once check-in is complete)
-- Is this your first time checking in with this mobile experience?
-- Did you feel this check-in experience was a secure experience?
-
-- If the veteran didn't use a QR code, can we ask one more follow-up question here: "when was the last time (if at all) you've used a QR code?"
-- On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
-	- Why? What are your impressions of the experience?
+- Stop the Veteran on the appointment list page, if they have multiple appointments listed.
+	- What are your impressions of this page?
+- Follow up questions (once check-in is complete)
+  - Is this your first time checking in with this mobile experience?
+  - Did you feel this check-in experience was a secure experience?
+  - If the veteran didn't use a QR code, can we ask one more follow-up question here: "when was the last time (if at all) you've used a QR code?"
+  - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
+    - Why? What are your impressions of the experience?
 
 Thank you for helping us continue to improve the pre-check-in and check-in experience.
