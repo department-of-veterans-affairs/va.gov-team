@@ -37,21 +37,22 @@ Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort*
 # Research Questions
 
 
-1. How do veterans think about the current and proposed pieces of content on the VA Mobile app?
-    1. Do veterans understand the proposed categories?
-        i. Six participants suggested having sub categories would help.
-        ii. Benefits/ account and payments had crossover. Participants expressed uncertainty about these categories.
-        iii. Seven people mentioned uncertainty about the the payment section
-    2. Are there any cards that veterans felt uncertain about what category to place them in? 
-        Yes, the following cards were split betwen 2 different categories. 
-        i. Access letters and documents proving your veteran status 
-        ii. VA letters and documents
-        iii. COVID-19 updates & information
 
-        
-    4. Are there any categories missing?
-        i. Three participants added "Education"
-        
+1. How do veterans think about the current and proposed pieces of content on the VA Mobile app?
+
+
+
+1. Do veterans understand the proposed categories?
+    1. Six participants suggested having sub categories would help. 
+    2. Benefits/ account and payments had crossover. Participants expressed uncertainty about these categories.
+    3. Seven people mentioned uncertainty about the payment section.
+2. Are there any cards that veterans felt uncertain about what category to place them in?
+    1. Yes, the following cards were split between 2 different categories.
+        1. Access letters and documents proving your veteran status.
+        2.  VA letters and documents
+        3.  COVID-19 updates & information
+3. Are there any categories missing?
+    1. Three participants added "Education"
 2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
     
 
