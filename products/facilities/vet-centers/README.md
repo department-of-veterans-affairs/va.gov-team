@@ -1,8 +1,13 @@
 # VA Vet Center Facility Product
 
-## [VSA Facilities Team transition document | March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc.md)
+# Index of links to key resources
+[VSA Facilities Team transition overview document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/product-transition-overview.md) | March 2022
 
+[Vet Center product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md) | March 2022
 
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/product-brief.md)
+
+## About the product
 **Product owner:** Dave Conlon
 
 **Business partner:** Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
@@ -16,8 +21,6 @@ This is the new VA.gov facility product for VA's Vet Centers.
 - Veterans do not need to be enrolled in VA health care to receive care from a Vet Center
 - Vet Centers also serve Veterans not eligible for other VA services (e.g. less than honorable discharge) and may serve the families of existing, active-duty service men and women who are deployed
 - Services that Vet Centers offer can be similar to those offered at a Medical Center but the way in which the service is provided may be very different (e.g. Group therapy, Equestrian Therapy, no ability to prescribe medication)
-
-
 
 ## What we need to do
 
@@ -37,8 +40,8 @@ This is the new VA.gov facility product for VA's Vet Centers.
 
 Eventually, we need to reach parity with our new Vet Center products so we can turn off all the old sites. There is not much on these pages so this can likely be achieved through MVP.
 
-- Facility Locator facility detail page: https://www.va.gov/find-locations/facility/vc_0201V
-- Facilities and Leadership directory page https://www.va.gov/directory/guide/facility.asp?ID=619
+- [Example Facility Locator facility detail page](https://www.va.gov/find-locations/facility/vc_0201V)
+- [Example Facilities and Leadership directory page](https://www.va.gov/directory/guide/facility.asp?ID=619)
 
 We need to consider what to do with the Vet Center program site: https://www.vetcenter.va.gov/ as this site may be partially offices site, partially veteran-facing
 
