@@ -6,8 +6,7 @@
 
 Date: 03/10/2022
 
-[Holly Collier] [email], [Melissa Lefevre] [email]
-
+Holly Collier, Melissa Lefevre
 
 
 <br>
@@ -35,8 +34,6 @@ Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort*
 * **confirm what the high-level information architecture categories** should be in the VA mobile app
 
 
-
-
 # Research Questions
 
 
@@ -54,7 +51,7 @@ Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort*
         
     4. Are there any categories missing?
         i. Three participants added "Education"
-        ii.
+        
 2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
     
 
@@ -75,15 +72,15 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 
 1. Veterans will be able to categorize cards and name groups of cards presented in the card sort. 
-**True**
+    i. **True**
 2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov. 
-**False**
+    i. **False**
 While the category "Health" had cards with strong agreement, similar to how it is organized on VA.gov, The cards in categories Benefits, Account, Payments, and General VA information did not have the same strong agreement with the cards in the main buckets on va.gov. The Category labeled "health" in the card sort is also a category on VA.gov whereas all the other categories have different names. 
 3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
-**True** 
+    i. **True** 
 While the agreement was lower than expected for some of the cards in the payment category (46% on the low end), overall there was agrement with all of the payment cards we expected to be in the payment category.  
 4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
-**False**
+    i. **False**
 
 
 # Key Findings
