@@ -17,7 +17,7 @@ Public Websites team, Feb 25, 2022
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
 - *Open standalone browser tab to prototype (https://staging.va.gov/hrt) and save link in slack so ready to paste*
-- *Open poster in Acrobat Reader
+- *Open poster in Acrobat Reader at 75%*
 - *Do Not Disturb ON so no notifications*
 - *Close apps I'm not using so can give mouse control to participant*
 
