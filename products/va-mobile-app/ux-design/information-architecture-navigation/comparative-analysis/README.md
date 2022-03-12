@@ -77,17 +77,34 @@ We did not do an accessibility audit of the apps from a navigation standpoint. H
 ### What are the current trends and best practices in terms of navigation for mobile apps dealing with similar data needs?
 1. Having a bottom navigation bar or tab bar as the primary navigation pattern was common in almost all of the apps we reviewed. 
     1. In fact, we noticed that some apps that used different primary navigation in the past recently transitioned to a bottom navigation/tab bar. Examples: Chase and Walmart.
+    
+    <img src="https://user-images.githubusercontent.com/72415933/157967077-abfd5adf-397c-4dee-84f0-090a58b8ec26.png" alt="Screenshot of the Walmart app using a navigation drawer in 2021 and using a bottom navigation/tab bar in 2022" height="450">
+    
 2. A top navigation bar is used as a secondary navigation element in a lot of apps for two purposes:
-    2. For global actions (the action is present on all parent-level category screens) such as Chat, Search, Cart, or Settings
-    3. For contextual actions (the action is present on a single category landing screen, including Home) such as Profile or Settings 
-3. For apps with lots of data, tabs are used within parent or child screens to filter and break down data. 
-4. For more task-based apps, the home screen provides status at a glance and easy navigation access to items that require attention.
+    1. For global actions (the action is present on all parent-level category screens) such as Chat, Search, Cart, or Settings
+    2. For contextual actions (the action is present on a single category landing screen, including Home) such as Profile or Settings 
+    
+    <img src="https://user-images.githubusercontent.com/72415933/157967721-ad58b362-1d28-4965-9977-2a9d11ad65dc.png" alt="Screenshots of apps using a top navigation bar for global and contextual actions">
+    
+3. For apps with lots of data, tabs are used within parent or child screens to filter and break down data.
+
+   <img src="https://user-images.githubusercontent.com/72415933/157971377-70ac5dfc-e911-4e9b-9b60-56eda06d2aaa.png" alt="Screenshots of apps using tabs to filter and break down data">
+
+5. For more task-based apps, the home screen provides status at a glance and easy navigation access to items that require attention.
+
+   <img src="https://user-images.githubusercontent.com/72415933/157973994-79b9ea0f-74c3-45fb-afd6-2c9045f22f04.png" alt="Screenshots of apps with a home screen that provides status at a glance" height="450">
 
 ### Are there navigation pattern differences between market sectors (health vs insurance vs financial vs travel, etc)
 * Tab bar/bottom navigation is prevalent across all market sectors we looked at, although what appears in it (categories vs top tasks) varies. 
     * For all sectors, the number of top-level categories within the tab bar/bottom navigation ranges from 3-5. In the case of 3 top-level categories, this is only seen in Apple Health which uses one of the categories as a sort of hub to house all of the health categories in the app.
-    * Depth of navigation levels varies by the amount of information the app contains. Retail, health, travel, and other (Airtable and iOS settings) apps that contain a robust catalog of content or require multiple steps tend to have 3-4 navigation levels in order to break up content and reduce cognitive load. More simple task-based apps such as financial and government apps tend to have 1-3 navigation levels. 
+    * Depth of navigation levels varies by the amount of information the app contains. Retail, health, travel, and other (Airtable and iOS settings) apps that contain a robust catalog of content or require multiple steps tend to have 3-4 navigation levels in order to break up content and reduce cognitive load. More simple task-based apps such as financial and government apps tend to have 1-3 navigation levels.
+   
+   <img src="https://user-images.githubusercontent.com/72415933/157987336-b456aecd-c147-446e-bfc5-93886ae2bbde.png" alt="Screenshots of apps with navigation with categories and navigation with categories and tasks">
+   
 * Launchpad/hub navigation was used only by the government apps we looked at—they are simple, task-based apps with destinations that fit entirely on the home screen.
+   
+   <img src="https://user-images.githubusercontent.com/72415933/157986832-54ab851f-6c08-4b64-8e68-26130e03a1f5.png" alt="Screenshots of governemnt apps using a launchpad/hub navigation" height="450">
+   
 * No apps exclusively used search for navigation—all of them treated it as supplemental to a hierarchical navigation structure.
 * Non-traditional navigation patterns for primary navigation were rare and were not used _at all_ in banking, insurance, and government (where clarity and trust are essential). In the rare examples we saw, the departure from traditional patterns was:
     * Atypical navigation drawer/launchpad/navigation bar -  MyChart
@@ -96,20 +113,34 @@ We did not do an accessibility audit of the apps from a navigation standpoint. H
   
 **There are several different secondary navigation patterns between market sectors:**
 1. Personalized home screens:
-    1. Travel, retail, banking, insurance, and some health apps featured a personalized home screen, providing details on upcoming flights, orders or current account balances (and easy navigation to those screens). 
+    1. Travel, retail, banking, insurance, and some health apps featured a personalized home screen, providing details on upcoming flights, orders or current account balances (and easy navigation to those screens).
+ 
+   <img src="https://user-images.githubusercontent.com/72415933/157989178-b5196df2-efd4-4e98-8575-0fa9ff12dbb1.png" alt="Screenshots of apps with personalized home screens" height="450">
+
 2. Customizable home screens:
-    2. A few financial, health, and government apps allow users to customize the home screen by ‘favoriting’ specific data (Health or Airports) or by selecting quick actions that should be displayed on the home screen. 
+    1. A few financial, health, and travel apps allow users to customize the home screen by ‘favoriting’ specific data (Health or Airports) or by selecting quick actions that should be displayed on the home screen.
+
+   <img src="https://user-images.githubusercontent.com/72415933/157988020-752526d9-7c89-4b69-8822-a8d9c2d3f054.png" alt="Screenshots of apps with customizable home screens" height="450">
+ 
 3. Search:
-    3. Overall, search is used as a way to locate records or products rather than serving as a global navigation function (as is common on websites). 
-    4. Retail apps included an exposed search bar on home and restrict results to products. 
-    5. Other market sector apps such as financial and health (as well as the health/pharmacy sections of retail apps) feature search on section landing/list  screens and restrict search to a specific data type (finding an app to download, locating a receipt or charge, or finding a doctor).
+    1. Overall, search is used as a way to locate records or products rather than serving as a global navigation function (as is common on websites). 
+    2. Retail apps included an exposed search bar on home and restrict results to products. 
+    3. Other market sector apps such as financial and health (as well as the health/pharmacy sections of retail apps) feature search on section landing/list  screens and restrict search to a specific data type (finding an app to download, locating a receipt or charge, or finding a doctor).
+   
+   <img src="https://user-images.githubusercontent.com/72415933/157994526-de2285d5-0953-48c5-b2a6-333388005271.png" height="450">
+   
 4. Tabs: 
-    6. Almost all apps used tabs as secondary navigation within child or parent screens to filter or break down content (seen most often in retail and travel sectors). 
+    1. Almost all apps used tabs as secondary navigation within child or parent screens to filter or break down content (seen most often in retail and travel sectors). 
 5. Hamburger/drawer menus & more menus:
-    7. Health, financial, government, insurance, travel, and other apps use hamburger and more menus as a secondary navigation element within bottom or top navigation bars as a catch-all category (settings, resources, privacy policy, profile, or wallet) for less-used features or actions that do not warrant their own parent screen or do not fit within other established categories. 
-    8. One health app also used a variation of the hamburger and more menus called ‘browse’ that is a hub style category that contains all of the health categories in the app. 
+    1. Health, financial, government, insurance, travel, and other apps use hamburger and more menus as a secondary navigation element within bottom or top navigation bars as a catch-all category (settings, resources, privacy policy, profile, or wallet) for less-used features or actions that do not warrant their own parent screen or do not fit within other established categories. 
+    2. One health app also used a variation of the hamburger and more menus called ‘browse’ that is a hub style category that contains all of the health categories in the app. 
+
+   <img src="https://user-images.githubusercontent.com/72415933/157994669-40589fe8-e144-4679-abe5-8208d3ded727.png" height="450">
+
 6. A floating action button (FAB): 
-    9. Retail apps such as H-E-B use a FAB on all product related pages to provide access to the cart screen. 
+    1. Retail apps such as H-E-B use a FAB on all product related pages to provide access to the cart screen.
+   
+   <img src="https://user-images.githubusercontent.com/72415933/157994593-99576871-d2dc-4a34-a053-b2ab378a3a27.png" height="450"> 
 
 ### How are apps treating child screens, especially those that are accessible from multiple navigation stacks? Are they using descendant navigation and modality? Why?
 
@@ -119,6 +150,7 @@ An interesting interaction pattern that we noticed was that while apps are displ
 
 We also observed a trend of apps treating child screens that can be accessed from multiple navigation stacks modally. We believe the reason for this is to allow screens several levels down in the IA to be accessed from multiple locations (ex: a prescription detail living within the pharmacy section but also showing up as a module on the home screen when ready for pickup) without back stack implications. 
 
+<img src="https://user-images.githubusercontent.com/72415933/157981657-b8d67881-2537-4aff-b025-405323d6558c.png" alt="Screenshots of apps having descendant child screens or modal child screens">
 
 ### How are apps treating subtasks?
 
@@ -128,6 +160,7 @@ With some apps in the comparative analysis, modals opened on top of other modals
 
 Apps also treated some global tasks modally (example: barcode scanners, notifications, chat, cart). We believe that this is because these tasks don’t have a categorical parent within the IA and need to be accessible from many locations within the app.
 
+<img src="https://user-images.githubusercontent.com/72415933/157976137-f7cfc85a-d272-4aef-9ad3-d293675f27df.png" alt="Screenshots of apps using modals for subtasks">
 
 ### Do apps' navigation models tend to differ between platforms?
 
