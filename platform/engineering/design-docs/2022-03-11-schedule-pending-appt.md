@@ -139,10 +139,10 @@ Will aggregating all external requests at the beginning of the process cause lon
 Are endpoints we'll be consuming reliable enough to have a good user experience?
 
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
+TODO
 
 ### Alternatives
-- Rather then relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established objective of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives
+Rather then relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established objective of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives
 
 ### Future Work
 Eventually direct scheduling will be added to this flow as it is in `vets-website`
