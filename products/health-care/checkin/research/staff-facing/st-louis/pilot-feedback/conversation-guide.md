@@ -22,7 +22,7 @@ Before we start, a few things I want to mention:
 
 ## Pilot Feedback Questions
 - Things to watch for while observing staff:
-  - Did they still engage and talk to Veteran who completed check-in on VA.gov?
+  - Did they still engage and talk to Veterans who completed check-in on VA.gov?
     - Why?
   - What does the handoff from MSA to provider look like?
 
