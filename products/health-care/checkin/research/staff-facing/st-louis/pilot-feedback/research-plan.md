@@ -1,4 +1,4 @@
-# Research Plan for Check-in Team, March 7 2022 Draft
+# Research Plan for Check-in Team, March 7 2022
 
 # Research Plan: St. Louis Visit to Gather Feedback on Pilot from Staff
 March 2022
