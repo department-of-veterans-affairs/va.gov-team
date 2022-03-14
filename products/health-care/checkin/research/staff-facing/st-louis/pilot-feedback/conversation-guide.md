@@ -27,9 +27,9 @@ Before we start, a few things I want to mention:
   - What does the handoff from MSA to provider look like?
 
 ### Pre-check-in
-- How has pre-check-in affected checking in on the day the appointment? _Explain what pre-check-in is if need be._
-- How has it affected your work?
-- How has it affected the Veteran experience?
+- How has pre-check-in impacted checking in on the day the appointment? _Explain what pre-check-in is if need be._
+- How has it impacted your work?
+- How has it impacted the Veteran experience?
 - Overall, what do you like about pre-check-in? 
 - What do you dislike about it?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this pre-check-in process be utilized at another VA clinic?
