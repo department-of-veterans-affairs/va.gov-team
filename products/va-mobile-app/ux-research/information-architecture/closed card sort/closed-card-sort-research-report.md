@@ -55,6 +55,8 @@ Yes, however...
 3. Are there any categories missing?
     1. Three participants added "Education"
 2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
+    1. Yes, there was a clear difference in responses from VA Mobile App users vs veterans not familiar with the mobile app. While the Health and Genaeral categories were similar for both, the cards in "benefits", "account," and "payments" did not have as high of agreement for the non-mobie app userss.
+ 
     
 
 
