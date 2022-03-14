@@ -8,7 +8,7 @@
 ## Overview
 
 ### Objective
-The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available in `vets-website` so much of the logic can be utilized in the mobile app. A non-goal is to migrate as much data transformation/logic from `vets-website` front end into the to `vets-api` mobile module. 
+The goal is to add the feature to the mobile app to schedule pending appointments. This functionality is currently available in `vets-website` so much of the logic can be utilized in the mobile app.
 
 The intended audience is for the engineering team.
 
