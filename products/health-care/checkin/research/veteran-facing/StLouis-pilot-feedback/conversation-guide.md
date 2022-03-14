@@ -13,7 +13,7 @@
       - If no: Understanding why Veterans aren't using the experience is also valuable to us, was there a particular reason that you didn't complete pre-check-in?
         - Thank you for helping us continue to improve the pre-check-in experiences. **[End session.]**
       - If yes: **[Ask questions from "Pre-check-in Questions" section only.]**
-    - If yes: Did you complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
+    - If yes: Great. Before you check-in, did you complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
       - If no: Understanding why Veterans aren't using the experience is also valuable to us, was there a particular reason that you didn't complete pre-check-in?
         - **[Ask questions from "Observing Veteran" section only]**
       - If yes: **[Ask questions from "Pre-check-in Questions" and "Observing Veteran" sections]**
