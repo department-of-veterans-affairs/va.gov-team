@@ -1,5 +1,23 @@
 # VA Mobile team - Release Highlights
 
+## Release: 3/15/22
+
+ New & Improved & Bug Fixes
+- View Payment History* - Feature deployed to production with feature toggle set to Off
+- Dev flag added for Firebase analytics/performance
+
+Bugs
+- Fixed Valcon Left Margin bug
+
+BackEnd Release
+
+- Add payment_history to user service directory
+- Add payment history to maintenance window service map
+- Extract Phone parsing into library
+- Fixed appointment type error bug
+- New version of user endpoint to no longer return gender & fax number
+
+
 ## Release: 2/24/22 (Regular Release date 3/1/22)
 
 New + Improved
