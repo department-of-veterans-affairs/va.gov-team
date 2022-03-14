@@ -1,4 +1,4 @@
-# Product brief for the My HealtheVet Health Apartment 
+# Product brief for the My HealtheVet on VA.gov - Health Apartment 
 
 ## Background
 To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. Our generative research from late 2020 shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
