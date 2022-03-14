@@ -20,6 +20,10 @@
 
 [Contacts](#contacts)
 
+[Meetings](#meetings)
+
+[Github labels](#github-labels)
+
 ## Product portfolio and context 
 Our products help Veterans find and prepare to visit VA locations where they can receive services.
 The Facilities team portfolio includes the following unauthenticated products:
@@ -34,13 +38,13 @@ The Facilities team portfolio includes the following unauthenticated products:
 ## Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
 - [Facilities team Mural](https://app.mural.co/t/vsa8243/r/1580427682078)
-- [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
-- [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
-- [**CMS product sheets**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
-- 
+- [Working with CMS team - Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
+- [Content management system README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
+- [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
+
 ## Research and design
-- [**Research and design hub page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
-- [**CMS research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
+- [CMS research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
 
 - [Individual feature/initiative hub page]()
 - [Individual feature/initiative hub page]()
@@ -75,6 +79,12 @@ Nancy Smith | nancy.smith@oddball.io | Mapbox POC
    - Weekly on Tuesday at 1:00 p.m. ET
    - Agenda and notes found in [PPMS Data Web Service Forum](https://vaww.oed.portal.va.gov/pm/iehr/vista_evolution/RA/CCP_PPMS/PPMS_DWS/SitePages/Home.aspx)
 
+- **Vet Center office hours**
 
+## Github labels
 
----
+[Zenhub board](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-facilities&repos=133843125,154174777)
+
+The Facilities team labelled issues with #vsa-facilities and #vsa _plus_ 
+- practice specific labels such as #backend, #design, #research and practice/product combinations like #front-end-facility-locator 
+- product specific labels such as #facility-locator, #facility-locator-ppms, #vamc-pages, and #vet-center
