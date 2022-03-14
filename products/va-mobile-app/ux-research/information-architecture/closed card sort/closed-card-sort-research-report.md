@@ -38,7 +38,7 @@ Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort*
 
 
 
-1. How do veterans think about the current and proposed pieces of content on the VA Mobile app?
+How do veterans think about the current and proposed pieces of content on the VA Mobile app?
 
 
 
