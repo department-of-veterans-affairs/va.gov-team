@@ -101,7 +101,7 @@ Use Perigean for recruitment
 #### When?
 Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
 
-17 - 22 March, 2022
+17 - 21 March, 2022
 
 #### Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
 16 March 2022
