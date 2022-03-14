@@ -57,7 +57,7 @@ Before we start, a few things I want to mention:
 ## Telemedicine Appointments
 As we look toward future development, we would like to understand telemedicine appointments more.
 - What is your current pre-registration process for telemedicine appointments?
-- Are you experiencing any problems with telemedicine appointments? If so, what are they?
+- Are you experiencing any challenges with telemedicine appointments? If so, what are they?
 - What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
 
 ## Patient Record Flags
