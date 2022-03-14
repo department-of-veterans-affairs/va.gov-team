@@ -82,9 +82,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What would you do next? Would you sign in? Why?/Why not?
 - How would you sign in?
 - If you didn't want to sign in, what would you do to find out this information?
+- How does this answer make you feel?
 
 -Please sign in.
-*User clicks Sign in, takes to VA.gov Login page.
+*User clicks Sign in, takes to VA.gov Login page, if necessary guide to walkthrough.
 
 ### Things to watch for:
 
@@ -92,6 +93,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand the answer?]
 - [Can the participant sign in?]
 - [Is the participant comfortable with the Not Sign in option (Ask another question)]?
+- [Do they understand its only sign ID.me?]
 
 ## Third Task: [Receiving the answer] - X minutes
 
@@ -160,7 +162,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Post-Task Interview - X minutes
 
 Can you please fill in this form for me?
-[SUS QUESTIONNAIRE: FORM PENDING] https://digital.ahrq.gov/sites/default/files/docs/survey/systemusabilityscale%2528sus%2529_comp%255B1%255D.pdf
+[SUS QUESTIONNAIRE: https://forms.gle/jK1dfYtxECgeb5Zu5]
 
 
 - When the bot signs you out, how does it make you feel?
