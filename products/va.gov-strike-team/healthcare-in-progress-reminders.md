@@ -10,7 +10,7 @@
 
 *Who:* Veterans who have begun to fill out an application (while authenticated) but haven’t submitted.
 
-*When:* Reminders will be sent out every two weeks from the time they began the application.
+*When:* Reminders will be sent out 7 days after the start date and then every two weeks until the application expires. (Expiration is typically 60 days)
 
 *Why:* The reminders will encourage the Veteran to submit the application in order to receive benefits sooner. The link in the reminder email will take them back to the in progress application.
 
@@ -58,7 +58,7 @@
 - If we remind Veterans of their in progress applications:
   - Provide a link for them to get back to their application
   - Give regular reminders
- -  then more Veterans will complete the health care application online.
+ -  then more Veterans will complete the application online.
 
 ## Decisions
 - We understand that applications might have accidentally been started. 
@@ -70,9 +70,11 @@
   - When we tackle multiple forms we will need to deliver a "summary" of all pending applications. It is something we want to do eventually but will tackle later.
            - Authenticate Experience team is also looking to re-design the "My VA" page that includes the location for the "Applications in Progress" which is where we would like to send a user who has multiple forms in progress. 
            - We would like to have an anchor link to the "Application in Progress" title to allow for auto scrolling. Since the page is up for design work we will hold off on linking to it until that work is completed. 
-- Cadence will be every two weeks after a form has been marked as "in progress"
+- Cadence will be 7 days after the application was started then every two weeks after a form has been marked as "in progress"
   - We discussed the previously mentioned cadence of 7, 30, 53, and 59 days but felt the complexities of the rolling expiration date (updating information on any form restarts its expiration date) made specific day reminders overly complex and potentially difficult to manage when additional forms are also "in progress."
   - The cadence of every two weeks and again at day 59 (right before expiration date) was also discussed. Since the expiration date is rolling, based on the user updating the application, we have opted to move forward without the day 59 reminder.
+- A check to ensure the Veteran is not deceased will be implemented. 
+- Applications can be started when not authenticated. Since these are not assocaited to the Veteran's profile these applications are out of scope for this project.
 
 
 ## Additional Points
@@ -91,8 +93,8 @@
 -As of 3/2022, we're going to focus on:
   -Getting Privacy Officer sign off on email content
   -Handling the 686-c form as the first use case
-  -Sending reminders on a 2 week cadence
-
+  -Sending reminders after 7 days then every 2 weeks
+  
 --- 
 
 ## Go-to-market Strategy
@@ -118,7 +120,7 @@
 - Allow customization of delivery time and frequency
 - Multiple applications can be “in progress”
 - All authenticated forms have the ability to be saved in progress
-- The form authenticated form. Unauthenticated forms are not tied to the profile id
+- The Unauthenticated forms are not tied to the profile id
 - The “in progress” application expires after 60 days
 
 ## Questions
