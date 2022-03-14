@@ -5,13 +5,13 @@ March 2022
 
 ## Background
 The check-in team is reimagining the experience between a Veteran scheduling a medical appointment and having their appointment. In particular, we are creating portions of the ecosystem that enable a Veteran to:
-review and confirm the following information prior to an appointment (also known as pre-check-in):
-confirming the appointment.
-reviewing contact information.
-reviewing next of kin information.
-reviewing emergency contact information.
-answer health questionnaires (future feature).
-utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) for a medical appointment via VA.gov. 
+- review and confirm the following information prior to an appointment (also known as pre-check-in):
+  - confirming the appointment.
+  - reviewing contact information.
+  - reviewing next of kin information.
+  - reviewing emergency contact information.
+  - answer health questionnaires (future feature).
+- utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) for a medical appointment via VA.gov. 
 
 With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. This study will be conducted on-site in conjunction with a [Veteran study](link research plan). Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews. 
 
