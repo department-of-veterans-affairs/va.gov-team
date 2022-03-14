@@ -38,7 +38,7 @@ Currently, the `vets-website` scheduling feature is as follows:
       - Is request limit reached?
 - If Community Cares facility, choose provider
   - `/facilities_api/v1/ccp/provider?{coordinate information}`
-- Choose desired date and times then schedule appointment request
+- Choose desired date and times then schedule appointment request and post appointment request
   - `/vaos/v2/appointments` 
 
 ### High Level Design
