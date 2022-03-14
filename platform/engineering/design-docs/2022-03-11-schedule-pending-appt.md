@@ -87,6 +87,7 @@ New endpoint data structure:
                "name": "Cheyenne VA Medical Center",
                "city": "Cheyenne",
                "state": "WY",
+               "cerner": "true",
                "eligible": {
                   "request": "false",
                   "request_reason": "Non-primary facility with no visit within 12-24 months",
@@ -98,6 +99,7 @@ New endpoint data structure:
                "name": "Dayton VA Medical Center",
                "city": "Dayton",
                "state": "OH",
+               "cerner": "true",
                "eligible": {
                   "request": "true",
                   "request_reason": "nil",
