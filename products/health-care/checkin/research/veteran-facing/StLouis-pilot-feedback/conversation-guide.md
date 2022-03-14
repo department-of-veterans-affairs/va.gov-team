@@ -27,9 +27,9 @@
 ## Observing Veteran
 - Direct them to the poster, and watch them complete check-in.
   - Things to watch for:
+    - Did they seem to understand the low vision poster or have any questions?
     - Did they attempt to scan the QR code? 
       - If so, did they have trouble?
-    - Did they seem to understand the low vision poster or have any questions?
     - How long did they wait to receive the check in link via text message?
     - Did they need to make any changes to their contact information? If so, observe that process.
     - Did they successfully complete check-in?
