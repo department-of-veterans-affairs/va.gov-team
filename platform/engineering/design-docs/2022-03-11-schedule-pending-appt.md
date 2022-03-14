@@ -52,7 +52,7 @@ Implementation of this feature will largely follow the logic listed in the backg
 ### Detailed Design
 The backend business logic will mirror the process explained in the background above except rather then only querying the selected types of service and facilities, all registered facilities will be queried to create a comprehensive list. If load times get unacceptably long due to front loading all queries, we will explore pre-caching results. 
 
-New endpoint data structure
+New endpoint data structure:
 ```json
 {
    "data":[
