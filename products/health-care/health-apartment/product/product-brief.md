@@ -112,8 +112,6 @@ Notes:
 
 ## Risks
 
--	Although MO Studio continues to hire and ramp up staff, a full team with required skillsets have not started on the project.
--	Federal team needs an OCTO engineer + staff from OCC / My HealtheVet (skills needed from OCC are TBD). 
 -	There are a lot of stakeholders within OCTO and OCC who require buy in, with a lot of things in flight, there is room for error if the checkins and sign offs aren't scheduled well in advance. 
 -	Without significant research and testing, the project could further fragment the UX before simplifying it.
 -	Without a tech lead and immense knowledge of VA's tech restraints and APIs, there are a lot of challenges and setbacks that could arise. 
