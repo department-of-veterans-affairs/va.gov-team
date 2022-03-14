@@ -7,7 +7,7 @@
 
 ## Initial Veteran Intercept and Screening Questions
 - Hi! My name is [Name] and I'm a researcher for the VA. We are here today to gather feedback on a new pre-check-in and check-in experience using your mobile phone. Do you mind if I ask you a few questions and possibly observe you completing check-in? It will help us continue to improve the pre-check-in and check-in experience for Veterans like yourself. This is completely voluntary.
-  - If no: That is ok. Point the to the updated poster, so they can complete mobile check-in by themselves. **[End session.]**
+  - If no: That is ok. Point them to the updated poster, so they can complete mobile check-in by themselves. **[End session.]**
   - If yes: Thank you. I just want to let you know that if you want to stop my questions or observations at any point just let me know and we will. Would you like to check-in via your mobile phone?
     - If no: Did you complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
       - If no: Understanding why Veterans aren't using the experience is also valuable to us, was there a particular reason that you didn't complete pre-check-in?
