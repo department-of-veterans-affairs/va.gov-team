@@ -1,4 +1,7 @@
 # Interview with Susan Haidary
+3/11/22
+Liz Lantz, Susan Haidary, Marci McGuire, Samara Strauss
+
 ## Intro
 - Can you tell me a little bit about your role and involvement with MHV?
 	- Been with MHV since 2003, started as a coordinator 
