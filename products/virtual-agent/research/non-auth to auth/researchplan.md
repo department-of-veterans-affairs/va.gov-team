@@ -32,6 +32,7 @@ What product & team are you doing this research for?
 -Sign in message
 -No authentication
 -Context retention
+
 -No context retention
 -Visual feedback for ‘this chat is secure’
 
