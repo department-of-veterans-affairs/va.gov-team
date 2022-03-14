@@ -62,6 +62,8 @@ Next steps here
 - [Session notes ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/content-placement-criteria/criteria-test-internal-notes.md)
 
 ### Other supporting documents created
-e.g. user flows, personas, etc.
+- [research-criteria-worksheet-combined-answers.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8248496/research-criteria-worksheet-combined-answers.xlsx)
+- [research-test-content.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8248497/research-test-content.docx)
+
 
 
