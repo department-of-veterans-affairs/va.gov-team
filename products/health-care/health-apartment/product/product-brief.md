@@ -28,17 +28,9 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 **Federal employees** 
 -	Design: Meg Peters
 -	Product: Tracey Mulrooney
--	Engineering: TBD
+-	Engineering: Christopher Froehlich
 
-**Contractors from MO Studio and its partners**
-- Jeff Scheire (CEO, MO Studio)
-- Nadya Primak (FE engineering, also some BE)
-- Jared Cooke (FE engineering and interaction designer)
-- Jordan White (product manager)
-- Jasvir (Jesse) Singh (UX design lead)
-- TBD (UX designer) - Re: the 2 UX designers, need these skills: user research (priority), service design (priority). Visual design skills needed, too.
-- TBD (delivery manager) - This person is a writer, communicator, organizer. Skilled in internal comms and product documentation. Not running the scrum.
-- Carl Dickerson (content strategist + plain language writer) - Supports Meg in working on IA and content strategy.
+
 
 ## Stakeholders
 Most of the folks below are product people. Roles show next to names of non-product people (some items are not products). Everyone is a fed unless identified as a contractor. 
@@ -56,7 +48,7 @@ Product: Leanna
 Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans).
 
 ### Health
--	VAOS (Lauren Ernest, contractor)
+-	VAOS (Jeff Roof, contractor)
 -	Check In (Stephen Barrs is backfilling Patrick Bateman, who returns soon. There was an earlier project called eScreener/Pre-Visit Questionnaire -- not sure if that was rolled into Check In. Angela Gant-Curtis was the PO.)
 -	Caregivers (? - George Chewning, PIF)
 -	10-10EZ application for health care (? - George Chewning, PIF)
