@@ -61,23 +61,15 @@ Prototypes/ Tasks:
   i. current home page, contact us page and virtual agent page
    How would the user find different contact options?
    Where would they expect the chatbot?
-
-  a. User asks authenticated question
- can they authenticate? Is it clear?
- Is the feedback after authentication enough? (Start conversation from star- no context retention)
  
  b. User asks authenticated question
  can they authenticate? Is it clear?
  Is the feedback after authentication enough? (Lock and personalized greeting version)
  
- c. User asks authenticated question, 
- Can they authenticate? Is it clear?
- Is the feedback after authentication enough? (You've been signed in version)
- 
- d. User decides not to sign in.
+ c. User decides not to sign in.
  Is it clear how to opt out? Can they still knkow how to know the conversation?
  
- e. Reminder to sign out.
+ d. Reminder to sign out.
  Do users read it?
  Do they want to sign out from the chatbot?
  
@@ -99,7 +91,7 @@ Have a laptop available for testing (No tablet or smartphone)? (Yes)
 Secondary criteria:
 (all nice to have)
 3 from rural location
-3 women
+3 women / 3 men
 2 caregivers/ family members
 
  
@@ -128,7 +120,7 @@ Shane Strassberg
 #### Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
--Moderator: Pilar Moreno & Shane Strassberg
+-Moderator: Patrick Onesty
 - Research guide writing and task development (usually but not always same as moderator): Pilar Moreno 
 - Participant recruiting & screening: Perigean
 - Project point of contact: Shane Strasberg / Pilar Moreno 
