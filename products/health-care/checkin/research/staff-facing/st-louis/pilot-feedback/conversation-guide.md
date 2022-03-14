@@ -1,24 +1,40 @@
-# Conversation Guide for Mobile Check-in Pilot Feedback from St. Louis Staff
+# Conversation Guide: St. Louis Visit to Gather Feedback on Pilot from Staff
 
-## Moderator logistics
-- Mute your Slack notifications
-- When the MSAs and MSA Supervisors are ready, begin the session with the following intro
+## Upon arriving to the site, take notes about the setup of the clinic. 
+(Particuarly important for the locations that we haven't visited yet)
+- What type of care is provided?
+- What does the area look like?
+- How many MSAs/clerks are available in the clinic?
+- What is the staff check-in process like?
+- How is cellular service?
 
 ## Intro
-Hello. Thank you for joining the call today. My name is [name] and I'm a researcher on the mobile check-in team. I also have some colleagues on the line taking notes. Our research team is interested in understanding how the mobile check-in process has been working at your clinic and its impact on your job. As a result, we have a few questions for you.
+Hello. My name is [name] and I'm a researcher on the patient check-in team. Our research team is interested in understanding how the mobile check-in process has been working at your clinic and its impact on your job. We are also looking for some feedback on a couple future features. As a result, I would like to observe you checking in Veterans and ask you a few questions if that is alright?
+
+If no, ask if there is a better time while we are on-site to meet with them. Otherwise, **[end session.]**
+
+If yes, continue...
 
 Before we start, a few things I want to mention:
 
-- **In this session, we want to hear your honest opinions.** We just want to improve check-in to better meet Veteran's and your needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-
-_Start recording._
-
-- **I have started recording.** I'd like to confirm, Are you comfortable if I record my screen and audio as we talk today?
+- **We want to hear your honest opinions.** We just want to improve check-in to better meet Veteran's and your needs. I welcome your feedback.
+- **If for any reason and at any time you want to pause or stop, just let me know.** 
 
 ## Pilot Feedback Questions
+- Things to watch for while observing staff:
+  - Did they still engage and talk to Veteran who completed check-in on VA.gov?
+    - Why?
+  - What does the handoff from MSA to provider look like?
+
+### Pre-check-in
+- How has pre-check-in affected checking in of the day the appointment? _Explain what pre-check-in is if need be._
+- How has it affected your work?
+- How has it affected the Veteran experience?
+- Overall, what do you like about pre-check-in? 
+- What do you dislike about it?
+- On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this pre-check-in process be utilized at another VA clinic?
+
+### Patient Check-in (Day of check-in)
 - How has mobile check-in impacted your work?
   - Have you had to engage with or talk to Veterans who utilized mobile check-in before their appointment? If so, why?
   - How would you describe the impact of the changes to VSE-GUI (due to mobile check-in) on your work?
@@ -37,7 +53,12 @@ _Start recording._
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
 - What would you change about the new mobile check-in?
 
-## Patient Record Flag Discovery Questions
+## Telemedicine Appointments
+- What is the current pre-registration process for telemedicine appointments?
+- What are your current pain points with telemedicine appointments?
+- What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
+
+## Patient Record Flags
 As we look toward future development, we would like to get your input on the use and value of patient record flags.
 - How do you currently use patient record flags, if at all? 
 - Where do you see the flag, and how do you respond?
@@ -46,5 +67,5 @@ As we look toward future development, we would like to get your input on the use
 - Would you want only behavioral flags, or all patient flags?
 - Is there any other patient information you would want to be alerted to that isn't already in VSE for Clinical Staff?
 
-## Thank you and Closing
+## Thank you
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so we can continue to improve Veteran and your experience. I hope you enjoy the rest of your day!
