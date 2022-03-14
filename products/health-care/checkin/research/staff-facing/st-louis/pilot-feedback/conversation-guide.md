@@ -9,7 +9,7 @@
 - How is cellular service?
 
 ## Intro
-Hello. My name is [name] and I'm a researcher on the patient check-in team. Our research team is interested in understanding how the mobile check-in process has been working at your clinic and its impact on your job. We are also looking for some feedback on a couple future features. As a result, I would like to observe you checking in Veterans and ask you a few questions if that is alright?
+Hello. My name is [name] and I'm a researcher on the patient check-in team. Our research team is interested in understanding how the new pre-check-in and check-in processes has been working at your clinic and their impact on your job. We are also looking for feedback on a couple of future features. As a result, I would like to observe you checking in Veterans and ask you a few questions if that is alright?
 
 If no, ask if there is a better time while we are on-site to meet with them. Otherwise, **[end session.]**
 
@@ -54,12 +54,13 @@ Before we start, a few things I want to mention:
 - What would you change about the new mobile check-in?
 
 ## Telemedicine Appointments
-- What is the current pre-registration process for telemedicine appointments?
+As we look toward future development, we would like to understand telemedicine appointments more.
+- What is your current pre-registration process for telemedicine appointments?
 - What are your current pain points with telemedicine appointments?
 - What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
 
 ## Patient Record Flags
-As we look toward future development, we would like to get your input on the use and value of patient record flags.
+We would also like to get your input on the use and value of patient record flags.
 - How do you currently use patient record flags, if at all? 
 - Where do you see the flag, and how do you respond?
 - Do you use national or local flags, or both?
