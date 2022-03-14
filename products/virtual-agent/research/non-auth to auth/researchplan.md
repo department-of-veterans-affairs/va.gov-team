@@ -105,7 +105,7 @@ Timeline: What dates do you plan to do research? (IF you are using the research 
 17 - 21 March, 2022
 
 #### Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
-16 March 2022
+15 March 2022
 
 - Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) 
 1 hour with buffer time
