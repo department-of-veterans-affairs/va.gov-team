@@ -42,8 +42,7 @@ Currently, the `vets-website` scheduling feature is as follows:
   - `/vaos/v2/appointments` 
 
 ### High Level Design
-Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows:
-- Aggregate all requests to the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
+Implementation of this feature will largely follow the logic listed in the background with a key difference to improve user experience. all consumed APIS will be aggregated at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
    - Move any business logic from the front end to the back end 
    - Simplify overall backend and front complexity. 
    - Create a better UX experience. Users will know of a service and facility eligibility before selecting it and waiting for a response.  
@@ -91,7 +90,7 @@ New endpoint data structure
                "eligible": {
                   "request": "false",
                   "request_reason": "Non-primary facility with no visit within 12-24 months",
-                  "direct": "false",
+                  "direct": "false", 
                   "direct_reason": "nil"
                }
             },
@@ -102,7 +101,7 @@ New endpoint data structure
                "eligible": {
                   "request": "true",
                   "request_reason": "nil",
-                  "direct": "false",
+                  "direct": "false", 
                   "direct_reason": "nil"
                }
             }
@@ -111,6 +110,8 @@ New endpoint data structure
    ]
 }
 ```
+Note: Direct scheduling will be hardcoded to false until direct schedule feature is added.
+
 ### Code Location
 In `vets-api`, a controller will be created called `schedule_appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
 
