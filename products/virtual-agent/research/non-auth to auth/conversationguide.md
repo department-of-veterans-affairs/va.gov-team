@@ -117,13 +117,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Fourth Task: [Reading the sign out reminder] - 5 minutes
 
+***For this task we want to know if just the reminder to sign out is enough and if the users need to have a sing out option form the chatbot.
+**
+
 *Answer appears
 
 - What happenned?
 - What did it reply?
+- What would you do next?
 
 - How would you sign out?
-- How would you sign out from the chatbot? Why?
+- *If applicable* If you can't sign out from the chatbot, how would you sign out?
+- Would you like sign out from the chatbot? Why?
+
+- What would you do next?
 
 ### Things to watch for:
 
@@ -132,14 +139,32 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Fifth Task: [Sign out reminder] - 5 minutes
 
+*Ask to click on the type box
 
+- What happenned?
+- What do you expect will happen next?
 
+*Get timed out
+
+- What would you do next?
+- What would happen if you go back to the chatbot?
+
+*Navigate back to the start via the VA.gov header logo.
+
+- What happenned?
+
+### Things to watch for:
+
+- [Would the participant expect content retention?]
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+Can you please fill in this form for me?
+[SUS QUESTIONNAIRE: FORM PENDING] https://digital.ahrq.gov/sites/default/files/docs/survey/systemusabilityscale%2528sus%2529_comp%255B1%255D.pdf
+
+
+- How did you feel about the answers given?
+- How did you find 
 
 ## Thank-You and Closing - X minutes
 
