@@ -27,15 +27,21 @@ Once the roll-out is complete, we plan to re-evaluate additional features, inclu
 
 ### Now
 - **Publish remaining District 1 and 4 pages**
-- **District 2 roll-out**
-
+- **Request redirects as pages are published**
+  - Facility Locator detail pages -> Lighthouse 
+  - Legacy directory location and key staff pages -> Public Websites
+- **Support District 2 roll-out**
 - **Vet Center Dashboard Access** - [#36962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36962)
+- **Sort order for Satellite locations** [#37528](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37528)
 
 ### Next 
 - **Kick off District 3**
-- **SEO strategy** - Epic[#16069](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16069)**
+- **SEO strategy** - Epic [#16069](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16069)
+- **"Active service member care" - Vet Center taxonomy** - [#31680](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31680)
+- **Set up Medallia feedback** -[#31687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31687)
 
 ### Later
+- **Vet Center enhancements/optional features** - Epic [#37529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37529)
 
 ## Artifacts
 
