@@ -156,7 +156,7 @@ Say that while you were at VA, you saw a poster about reporting harassment, but 
 
 ### For sighted participants on desktop
 Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
-- What are your initial impressions?
+- What are your impressions?
 - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
 - *(Pause to allow as much time as the participant wants to read/process the poster)*
 - What do you think you or your friend would do next if you wanted to report the interaction I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
@@ -197,7 +197,7 @@ Do you see the link?
 
 *(for everyone)* Let's say that you found this page on VA.gov.
 
-What are your initial impressions of this page?
+What are your impressions of this page?
 - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
 - *(Pause to allow as much time as the participant wants to read/process the page)* 
 
@@ -221,8 +221,10 @@ What thoughts do you have about what you've reviewed today?
 
 - What would you like to *change* about what you've reviewed today?
 
+You can stop sharing your screen now, if you like.
+
 We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. Are you comfortable if I ask a few more questions?
-- Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
+- Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? *(yes / no / decline to answer)* 
 - If you or your friend was harassed, was it reported? *(no / yes)*
 - If so, *how* was it reported? *(phone call / in person / ___________)* 
 - If it wasn't reported, what were the barriers to reporting it?
