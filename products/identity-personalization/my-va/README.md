@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated January 31, 2022
+Last updated March 14, 2022
 
 ### Communications
 
@@ -141,12 +141,14 @@ _Why would your business want this to exist?_
 
 - The disability rating is part of the nametag. We currently show percentage of service connected disability.
 - **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
+- **Backend system**: EVSS
 
 ### Claim status
 
 - This shows someone's most recent claim status update in the last 30 days and links off to the claim and the claim status tool.
 - If someone has never filed a claim or has zero open claims, this section does not show.
 - **Parent tool**: [Claim status](https://staging.va.gov/track-claims/your-claims)
+- **Backend system**: EVSS
 
 ### Health care
 
@@ -158,12 +160,14 @@ _Why would your business want this to exist?_
 - This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
 - There is also a link to update direct deposit information.
 - **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts
+- **Backend system**: BGS
 
 ### Apply for benefits
 
 - This section shows any benefit applications that have been started but not yet submitted on VA.gov.
 - This section also shows prompts to apply for VA health care, disability benefits, and education benefits to all users.
 - **Parent tools**: All benefit applications on VA.gov
+- **Backend system**: Each benefit application sends information to a different backend system, so if there is a problem with a particular application type, check in with the team that manages that application.
 
 ## Screenshots
 
