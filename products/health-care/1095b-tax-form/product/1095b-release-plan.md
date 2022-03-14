@@ -4,11 +4,12 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
+-Product will be launched April 1 (pending legal review) but will not be announced to Veterans or linked to from other VA.gov pages yet
 - Desired date range or test duration: 3/21/22 to 3/23/22 
 - Desired number of users: 3-5
 - How you'll recruit the right production test users: Currently in contact with HEC
 - How you'll conduct the testing: Through HEC UAT process
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: TBD
 
 ### Results:
 - Number of users: x
@@ -54,9 +55,9 @@ Right now, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 ### Planning
-
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
+- As the 2023 tax season preparations ramp up, we will begin to broadcast the digitized form now being available
+- Desired date range: October - December 2022 (TBC with Business Owner)
+- How will you make the product available in production while limiting the number of users who can find/access it: TBD
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
