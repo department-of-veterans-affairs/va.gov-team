@@ -43,8 +43,9 @@ How do veterans think about the current and proposed pieces of content on the VA
 
 
 1. Do veterans understand the proposed categories?
+Yes, however...
     1. Six participants suggested having sub categories would help. 
-    2. Benefits/ account and payments had crossover. Participants expressed uncertainty about these categories.
+    2. "Benefits", "account," and "payments" had crossover. Participants expressed uncertainty about these categories.
     3. Seven people mentioned uncertainty about the payment section.
 2. Are there any cards that veterans felt uncertain about what category to place them in?
     1. Yes, the following cards were split between 2 different categories.
