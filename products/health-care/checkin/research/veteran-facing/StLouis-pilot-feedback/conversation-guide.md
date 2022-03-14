@@ -1,9 +1,9 @@
 # Conversation Guide: St. Louis Visit to Gather Feedback on Pilot from Veterans
 
-## Upon arrival to the clinic, speak with staff on how they would like us to intercept the Veterans
-- Does staff want to do the initial ask? Can we?
+## Upon arrival to the clinic, speak with staff on how they would like us to intercept Veterans
+- Does the staff want to do the initial intercept? Can we?
 - Should we not intercept certain Veterans?
-- Talk to staff about hanging up the low vision poster(s) for our study (if not already used).
+- Talk to staff about hanging up the low vision poster(s) for our study (if not already in place).
 
 ## Initial Veteran Intercept and Screening Questions
 - Hi! My name is [Name] and I'm a researcher for the VA. We are here today to gather feedback on a new pre-check-in and check-in experience using your mobile phone. Do you mind if I ask you a few questions and possibly observe you completing check-in? It will help us continue to improve the pre-check-in and check-in experience for Veterans like yourself. This is completely voluntary.
