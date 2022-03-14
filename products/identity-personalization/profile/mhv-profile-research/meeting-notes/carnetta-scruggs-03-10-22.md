@@ -29,14 +29,12 @@ Attendees: Liz Lantz, Carnetta Scruggs, Samara Strauss
 		- They still use this information to report to OMB “how many people are using MHV”
 		- A lot of this information can be sent through IAM, so Carnetta is talking to Theresa to discuss whether or not this can go away. 
 			- This would make directors nervous to take away. Push back is largely based on the fact that director’s performance measures, marketing in medical centers, funding.  This isn’t something we can’t disappear without a lot of work.
-	**But is it necessary for a Veteran to see and edit this?** 
-			- Carnetta’s opinion is no.
-			- Carnetta has asked for this - she put it in a funnel to have this removed during planning and it got quickly blocked.	
-	-  How is that handled for people who don’t register through MHV but instead access MHV through ID.me or DS Log on (or other ways that are supported)?
+		- **But is it necessary for a Veteran to see and edit this?** Carnetta’s opinion is no. She has asked for this - she put it in a funnel to have this removed during planning and it got quickly blocked.	
+	- How is that handled for people who don’t register through MHV but instead access MHV through ID.me or DS Log on (or other ways that are supported)?
 
 **My Profile: Blood type**
 	- Blood type is going away
-		- 	She’d move those fields to be edited as part of of the health information card (as well as donor)
+	- Move those fields to be edited as part of of the health information card (as well as donor)
 
 **My Profile: Welcome bar personalization**
 		- This is for Veterans who want to be addressed by their military title.
@@ -45,13 +43,12 @@ Attendees: Liz Lantz, Carnetta Scruggs, Samara Strauss
 
 **Personal Information: In case of emergency**
 		- What do you know about how Veterans or coordinators are using this?
-			- This is only for the health information card
-			- This data doesn’t go anywhere
+			- This is only for the health information card.
 		- Where is this data stored?
 			- Only lives in MHV system of record
 				- Legal system of record source where certain things only live here and we’re not allowed to share it with anyone else if the Veteran doesn’t give permission
-		- Plan: whatever makes sense to the Veteran. Wherever this information makes sense, put it wherever it makes sense
-		- We haven’t talked about it, but we can.
+		- **Future plan for this section**: whatever makes sense to the Veteran. 
+		- **Do you plan on adding this to VA profile backend?** We haven’t talked about this yet, but we can.
 
 **Personal Information: Health Information**
 		- This used to be the biggest feature of MHV.
@@ -76,13 +73,15 @@ Attendees: Liz Lantz, Carnetta Scruggs, Samara Strauss
 - My VA Treating Facilities
 	- I see this in both My Profile and under “Get Care”. What is the connection between these two sections?
 	- Are there other places in MHV where “my treating facility” data lives?
-- Are those checkboxes automatically checked for people when a facility is found in their Veteran record?
-- Thoughts on how usefulness of this?
+	- Are those checkboxes automatically checked for people when a facility is found in their Veteran record?
+	- Thoughts on how useful this section is for Veterans to be able to manage?
 - Is MHV the only way you can access the health information card?
-- Clarify data with her
--  know that some of the data points in the profile are auto-populated when a match is made against IAM.  Is there anything in the DB that captures the source of the data? It'd be helpful to know which fields are manual entry on MHV, vs manual entry at a VAMC by a coordinator, vs auto populated through IAM.
-- I heard that there have been some issues with incorrect addresses for pharmacy in MHV but it wasn’t super clear. Do you have any insight to that? Are there addresses in MHV that aren’t tied to MPI?
-- Active user number she gave me doesn’t line up with what I got from the By Light team. “1.51 active users out of the 3.6 registrants”
+- I know that some of the data points in the profile are auto-populated when a match is made against IAM.  Is there anything in the DB that captures the source of the data? (updated on MHV vs updated via a match in IAM)
+- I heard that there have been some issues with incorrect addresses for pharmacy in MHV, but it wasn’t super clear. 
+	- Do you have any insight to that? 
+	- Are there addresses in MHV that aren’t tied to MPI?
+- You said there are about “1.51 active users out of the 3.6 registrants”; I received some data from the By Light team. It’s from an email that is generated each morning and shows different counts. Would like to learn about the numbers.
+- Review Google Analytics URLs and see if she has any insight to why there are so many variations.
 
 ## Next steps
 Get answers to above questions
