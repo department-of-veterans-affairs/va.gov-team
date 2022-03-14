@@ -20,13 +20,13 @@ Currently, the `vets-website` scheduling feature is as follows:
 - Pick type of care to schedule an appointment for
    - Check community care eligibility  
    - `/vaos/v0/community_care/eligibility/{type of care}`
-   - Recieve true or false for type of care
+   - Receive true or false for type of care
 - If type of care is eligible, user can select to make appointment request at VA facility or community cares facility
 - User is given list of facilities to choose from
   - Get facility data 
   - `/vaos/v2/facilities?children=true&ids[]={facility id}&ids[]={facility id}`
   - Note: facility id's come from registered facilities in `/v0/user`
-  - Get additional facility scheduling information such as services provided and if available to schedule request (including childen facilities)
+  - Get additional facility scheduling information such as services provided and if available to schedule request (including child facilities)
   - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
 - User chooses facility
   - Check if able to schedule request at given facility and service 
@@ -43,7 +43,7 @@ Currently, the `vets-website` scheduling feature is as follows:
 
 ### High Level Design
 Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows:
-- Aggregate all requests to the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benifit the process in multiple ways:
+- Aggregate all requests to the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
    - Move any business logic from the front end to the back end 
    - Simplify overall backend and front complexity. 
    - Create a better UX experience. Users will know of a service and facility eligibility before selecting it and waiting for a response.  
@@ -51,7 +51,7 @@ Implementation of this feature will largely follow the logic listed in the backg
 ## Specifics
 
 ### Detailed Design
-The backend business logic will mirror the process explained in the background above except rather then only querying the selected types of service and facilities, all registered facilities will be queried to create a comphrensive list. If load times get unacceptably long due to front loading all queries, we will explore pre-caching results. 
+The backend business logic will mirror the process explained in the background above except rather then only querying the selected types of service and facilities, all registered facilities will be queried to create a comprehensive list. If load times get unacceptably long due to front loading all queries, we will explore pre-caching results. 
 
 New endpoint data structure
 ```json
@@ -64,8 +64,8 @@ New endpoint data structure
             {
              "name": "Cheyenne VA Medical Center",
                "city": "Cheyenne",
-               "state": "WY"
-               "eligibile": {
+               "state": "WY",
+               "eligible": {
                   "request": "false",
                   "request_reason": "Does not provide chosen service",
                   "direct": "false",
@@ -80,32 +80,32 @@ New endpoint data structure
             {
                "name": "Ashinoff, Stephen",
                "address": "31-75 23rd st, Long Island City, NY 11106",
-               "distance": "0.7 Miles",
+               "distance": "0.7 Miles"
             }
          ],
          "va":[
             {
                "name": "Cheyenne VA Medical Center",
                "city": "Cheyenne",
-               "state": "WY"
-               "eligibile": {
+               "state": "WY",
+               "eligible": {
                   "request": "false",
                   "request_reason": "Non-primary facility with no visit within 12-24 months",
                   "direct": "false",
-                  "direct_reason": "nil",
+                  "direct_reason": "nil"
                }
             },
             {
                "name": "Dayton VA Medical Center",
                "city": "Dayton",
-               "state": "OH"
-               "eligibile": {
+               "state": "OH",
+               "eligible": {
                   "request": "true",
                   "request_reason": "nil",
                   "direct": "false",
-                  "direct_reason": "nil",
+                  "direct_reason": "nil"
                }
-            },
+            }
          ]
       }
    ]
@@ -118,10 +118,10 @@ In `vets-api`, a controller will be created called `schedule_appointment_request
 Specs will be written for each service, adapter and controller, to provide full code coverage.
 
 ### Logging
-Logging will be done similarily to how other Mobile API endpoints are logged, through the Rails Logger and Sentry.
+Logging will be done similar to how other Mobile API endpoints are logged, through the Rails Logger and Sentry.
 
 ### Debugging
-Debugging will be done similarily to how other Mobile API endpoints are debugged, utilizing logs and Sentry to diagnose issues and testing individual endpoints to isolate issues.
+Debugging will be done similar to how other Mobile API endpoints are debugged, utilizing logs and Sentry to diagnose issues and testing individual endpoints to isolate issues.
 
 ### Caveats
 To be determined.
@@ -141,7 +141,7 @@ Are endpoints we'll be consuming reliable enough to have a good user experience?
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
 
 ### Alternatives
-- Rather then relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintaince but it has been a long established objective of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redudant logic would not serve either of these objectives
+- Rather then relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established objective of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives
 
 ### Future Work
 Eventually direct scheduling will be added to this flow as it is in `vets-website`
