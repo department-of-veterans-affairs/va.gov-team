@@ -11,7 +11,7 @@ _Particuarly important for the locations that we haven't visited yet._
 ## Intro
 Hello. My name is [name] and I'm a researcher on the patient check-in team. Our research team is interested in understanding how the new pre-check-in and check-in processes has been working at your clinic and their impact on your job. We are also looking for feedback on a couple of future features. As a result, I would like to observe you checking in Veterans and ask you a few questions if that is alright?
 
-If no, ask if there is a better time while we are on-site to meet with them. Otherwise, **[end session.]**
+If no, ask if there is a better time to meet with them. Otherwise, **[end session.]**
 
 If yes, continue...
 
