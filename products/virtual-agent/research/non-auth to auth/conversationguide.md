@@ -163,8 +163,14 @@ Can you please fill in this form for me?
 [SUS QUESTIONNAIRE: FORM PENDING] https://digital.ahrq.gov/sites/default/files/docs/survey/systemusabilityscale%2528sus%2529_comp%255B1%255D.pdf
 
 
-- How did you feel about the answers given?
-- How did you find 
+- When the bot signs you out, how does it make you feel?
+- How do you feel about the voice and tone of the responses you received?
+- Was it clear what all the buttons did (button labels) or where all the links went? Would you rephrase any of the buttons?
+- Based on your experience today, are you willing to use the chatbot again?
+- What additional feature to the chatbot would improve your experience?
+- Do you have any other feedback you'd like to share?
+- Any questions for me?
+
 
 ## Thank-You and Closing - X minutes
 
