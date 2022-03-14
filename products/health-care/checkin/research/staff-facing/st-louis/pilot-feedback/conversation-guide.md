@@ -1,7 +1,7 @@
 # Conversation Guide: St. Louis Visit to Gather Feedback on Pilot from Staff
 
 ## Upon arriving to the site, take notes about the setup of the clinic. 
-(Particuarly important for the locations that we haven't visited yet)
+_Particuarly important for the locations that we haven't visited yet._
 - What type of care is provided?
 - What does the area look like?
 - How many MSAs/clerks are available in the clinic?
