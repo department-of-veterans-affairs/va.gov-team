@@ -43,16 +43,15 @@ Currently, the `vets-website` scheduling feature is as follows:
 
 ### High Level Design
 Implementation of this feature will largely follow the logic listed in the background with a few key differences to improve user experience. Key differences are as follows:
-- Check facility eligibility (`/vaos/v2/eligibility`) before user select facility and return elgibility status and if not elgibile, reason for unelgibility (EX: 'Non-primary facility - no appointment in last 12-24 months')
-- Create new endpoint to provide list of type of care that are supported (accept appointment requests and at at least one registered facility provides that service). For each type of service, provide elgibility status of each user registered facility and if not elgibible, why it is not. This prevents users from choosing a type of care, then later being told no facilities they can schedule with support it. 
-
-- Move data manipulations logic from `vets-website` to `vets-api` mobile module 
+- Aggregate all requests to the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benifit the process in multiple ways:
+   - Move any business logic from the front end to the back end 
+   - Simplify overall backend and front complexity. 
+   - Create a better UX experience. Users will know of a service and facility eligibility before selecting it and waiting for a response.  
 
 ## Specifics
 
 ### Detailed Design
 New endpoint data structure
-parameters: user
 ```json
 {
    "data":[
@@ -61,10 +60,25 @@ parameters: user
          "eligible":"true",
          "cc":[
             {
-            "facility_info": "test"
+             "name": "Cheyenne VA Medical Center",
+               "city": "Cheyenne",
+               "state": "WY"
+               "eligibile": {
+                  "request": "false",
+                  "request_reason": "Does not provide chosen service",
+                  "direct": "false",
+                  "direct_reason": "nil"   
+               }
             },
             {
                "facility_info": "test"
+            }
+         ],
+         "cc_providers": [
+            {
+               "name": "Ashinoff, Stephen",
+               "address": "31-75 23rd st, Long Island City, NY 11106",
+               "distance": "0.7 Miles",
             }
          ],
          "va":[
@@ -73,8 +87,10 @@ parameters: user
                "city": "Cheyenne",
                "state": "WY"
                "eligibile": {
-                  "status": "false",
-                  "reason": "Non-primary facility with no visit within 12-24 months"
+                  "request": "false",
+                  "request_reason": "Non-primary facility with no visit within 12-24 months",
+                  "direct": "false",
+                  "direct_reason": "nil",
                }
             },
             {
@@ -82,8 +98,10 @@ parameters: user
                "city": "Dayton",
                "state": "OH"
                "eligibile": {
-                  "status": "true",
-                  "reason": nil
+                  "request": "true",
+                  "request_reason": "nil",
+                  "direct": "false",
+                  "direct_reason": "nil",
                }
             },
          ]
@@ -113,7 +131,9 @@ N/A
 N/A
 
 ### Open Questions and Risks
-Are endpoints we'll be consuming reliable enough and quick enough to have a good user experience?
+Will aggregating all external requests at the beginning of the process cause long load times? If so, we may want to precache results. 
+
+Are endpoints we'll be consuming reliable enough to have a good user experience?
 
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
