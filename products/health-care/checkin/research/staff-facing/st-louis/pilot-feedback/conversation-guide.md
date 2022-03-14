@@ -1,6 +1,6 @@
 # Conversation Guide: St. Louis Visit to Gather Feedback on Pilot from Staff
 
-## Upon arriving to the site, take notes about the setup of the clinic. 
+## Upon arriving at the site, take notes about the setup of the clinic. 
 _Particuarly important for the locations that we haven't visited yet._
 - What type of care is provided?
 - What does the area look like?
@@ -9,7 +9,7 @@ _Particuarly important for the locations that we haven't visited yet._
 - How is cellular service?
 
 ## Intro
-Hello. My name is [name] and I'm a researcher on the patient check-in team. Our research team is interested in understanding how the new pre-check-in and check-in processes has been working at your clinic and their impact on your job. We are also looking for feedback on a couple of future features. As a result, I would like to observe you checking in Veterans and ask you a few questions if that is alright?
+Hello. My name is [name] and I'm a researcher on the patient check-in team. Our research team is interested in understanding how the new pre-check-in and check-in processes have been working at your clinic and their impact on your job. We are also looking for feedback on a couple of future features. As a result, I would like to observe you checking in Veterans and ask you a few questions if that is alright?
 
 If no, ask if there is a better time to meet with them. Otherwise, **[end session.]**
 
@@ -24,7 +24,7 @@ Before we start, a few things I want to mention:
 - Things to watch for while observing staff:
   - Did they still engage and talk to Veterans who completed check-in on VA.gov?
     - Why?
-  - What does the handoff from MSA to provider look like?
+  - What does the handoff from MSA to the provider look like?
 
 ### Pre-check-in
 - How has pre-check-in impacted checking in on the day the appointment? _Explain what pre-check-in is if need be._
