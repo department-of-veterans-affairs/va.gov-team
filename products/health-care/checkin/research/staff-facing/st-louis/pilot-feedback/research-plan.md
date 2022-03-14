@@ -32,31 +32,31 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 ## Research goals/questions
 - After a Veteran utilized the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/MSA?
 - What is the impact to the staff workflow when Veterans complete pre-check-in or check-in on their mobile phones?
-	- Do staff have to answer any questions about the pre-check-in experience?
-	- How would adding telemedicine appointments to the pre-check-in experience impact staff?
+  - Do staff have to answer any questions about the pre-check-in experience?
+  - How would adding telemedicine appointments to the pre-check-in experience impact staff?
 - How do Veterans and staff feel about pre-check-in and the mobile check-in solutions?
 - How are patient record flags currently used?
-	- How would staff like to review patient record flags in the future?
+  - How would staff like to review patient record flags in the future?
 
 ### Hypothesis
-The pre-check-in experience improves the staff experience, since they need to review contact, NOK, and emergency contact information with fewer Veterans.
-Adding telemedicine appointments to pre-check-in would solve the staff pain point of reviewing pre-registration during telemedicine appointments.
-The Veterans will successfully check in via their mobile phone, because the clerk and clinical staff will know the Veteran is in the waiting room without needing to speak directly to them. As a result, a nurse or other clinical staff will call the Veteran back for their appointment without first talking to an MSA.
-MSAs should have shorter lines of Veterans waiting to check in, since Veterans will utilize this solution. 
-MSAs should only have to check-in Veterans who 
-prefer to check-in in-person, 
-need to have their insurance reviewed, or 
-need contact, NOK, or emergency contact information updated.
-The number of applications that staff utilize to manage check-in should be reduced and the other impacts to their workflow should be minimal.
-Staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
-Properly displaying patient record flags is very important to staff.
+- The pre-check-in experience improves the staff experience, since they need to review contact, NOK, and emergency contact information with fewer Veterans.
+- Adding telemedicine appointments to pre-check-in would solve the staff pain point of reviewing pre-registration during telemedicine appointments.
+- The Veterans will successfully check in via their mobile phone, because the clerk and clinical staff will know the Veteran is in the waiting room without needing to speak directly to them. As a result, a nurse or other clinical staff will call the Veteran back for their appointment without first talking to an MSA.
+- MSAs should have shorter lines of Veterans waiting to check in, since Veterans will utilize this solution. 
+- MSAs should only have to check-in Veterans who 
+  - prefer to check-in in-person, 
+  - need to have their insurance reviewed, or 
+  - need contact, NOK, or emergency contact information updated.
+- The number of applications that staff utilize to manage check-in should be reduced and the other impacts to their workflow should be minimal.
+- Staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
+- Properly displaying patient record flags is very important to staff.
 
 ### Location
 The research will be conducted at a CBOC, Annex, and certain departments within John J. Cochran Veterans Hospital.
 	
 ### Methodology and recruitment
-During the same on-site trip as [this Veteran study](link to Veteran research plan), work with the site to schedule time to observe and interview staff members in the clinics that are utilizing pre-check-in and mobile check-in solutions.
-Try to gather feedback and observations from as many staff and roles as possible during the visit
+- During the same on-site trip as [this Veteran study](link to Veteran research plan), work with the site to schedule time to observe and interview staff members in the clinics that are utilizing pre-check-in and mobile check-in solutions.
+- Try to gather feedback and observations from as many staff and roles as possible during the visit
 
 ## Timeline
 Research: 2-3 full days onsite during the week of March 28.
