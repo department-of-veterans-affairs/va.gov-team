@@ -47,7 +47,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - Confidence in decisions averaged 4.4
 - In addition, the group agreed that having the criteria would be useful in explaining decisions to stakeholders. 
 
-**2. Criteria #3 proved to be the most challenging for the group**
+**2. Criteria #3 proved to be the most challenging to understand**
 - The challenging aspects to this criteria were two-fold
   - Use of the words "core or supplemental benefit" was unclear
   - There was some uncertainty around "unique application or application process"
@@ -89,9 +89,10 @@ The 5-10 top findings from your study should be listed here. Write your findings
 - Existing knowledge and biases of what is considered a benefit, and where benefit content should be placed, played a part in decision making (i.e. "tier 1", veteran-facing content)
   - _"I'm not sure that extra content belongs in R&S, maybe another hub page would be better, because I still feel like it's tier 1 because it's for Veterans."_
 - Many members of the group cited times where they would revise a heading, restructure the content, or elaborate on content in order to build out a better page. Doing this would occassionally lead them to making a different decision.
+- Despite criteria answers resulting in a R&S placement for the Dental health page for the entire group, the majority of them expressed some level of disagreement with it.  
   - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
-
+  
 **6. The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
   - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
