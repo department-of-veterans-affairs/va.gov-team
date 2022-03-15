@@ -40,11 +40,11 @@ This table includes links to the individual research studies.
 ## UX design work products
 This table includes links to the individual design work products.
 
-| Screens | Links | 
-| :--- | :--- | :--- | :--- | :--- |
+| Screens | Links  
+| :--- | :--- | 
 | Feature Flow Diagrams | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/wLpODZq) 
 | Latest Mockup | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/DP2z3bj) 
-| Sandbox Mockups | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/6F53EA53-0D5E-46F7-B420-CF62EA0167CE) 
+| Exploratory Mockups | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/6F53EA53-0D5E-46F7-B420-CF62EA0167CE) 
 | Prototype (for research- not design/content source of truth) | [UXPin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/sitemap?mode=i) 
 
 
