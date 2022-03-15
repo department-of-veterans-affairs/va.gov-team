@@ -40,23 +40,20 @@ This table includes links to the individual research studies.
 ## UX design work products
 This table includes links to the individual design work products.
 
-| Screens | Links | Text Sources | Last Rev | Last status |
+| Screens | Links | 
 | :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
-| Information architecture flow | [Tool]() | No text | date | IA review |
-| Wireframes | [Tool]() | No text | date | Design intent |
-| Mockups | [Tool]() | Preliminary text | date | Midpoint |
-| Prototype | [Tool]() | Final text | date | Staging |
+| Feature Flow Diagrams | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/wLpODZq) 
+| Latest Mockup | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/DP2z3bj) 
+| Sandbox Mockups | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/6F53EA53-0D5E-46F7-B420-CF62EA0167CE) 
+| Prototype (for research- not design/content source of truth) | [UXPin](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/sitemap?mode=i) 
 
 
-### Content resources used
-- [Content writing](https://design.va.gov/content-style-guide/)
-- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
-
-### Engineering artifacts
+## Engineering artifacts
 - 
 
-
+## Zenhub epics
+- [Improving the Legal Representative Experience](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/32852)
+- [Legal Representative | Bet A](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/34116)
 
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
@@ -67,12 +64,6 @@ Include notes about which Platform process was in use when this feature was in d
 - [Midpoint review]()
 - [Staging review]()
 - [UAT]()
-
-<br>
-
-## Other feature documentation
-- [Call center guide]()
-- [Metting notes]()
 
 
 <br>
