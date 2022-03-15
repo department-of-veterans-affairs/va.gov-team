@@ -4,15 +4,17 @@
 
 
 ## Table of Contents
-[UX research studies](#ux-research-studies)
+[Background](#feature-background)
 
-[UX design work products](#ux-design-work-products)
+[UX research](#ux-research)
 
-[Process milestones](#process-milestones)
+[UX design](#UX-design)
 
-[Other feature documentation](#other-feature-documentation)
+[Engineering artifacts](#engineering-artifacts)
 
-[UX researchers and designers](#ux-researchers-and-designers)
+[Zenhub epics and Process milestones](#zenhub-epics)
+
+[Team members](#team-members-that-worked-on-this)
 
 <br>
 
@@ -24,7 +26,7 @@ The sign as a representative feature enables a representative with authority to 
 - This feature is only shown to 50% of applicants because before the latest iteration, the program team was seeing about a 33% acceptance rate of documents uploaded. When a document can't be accepted, it must be followed up with a staff member. Too many unacceptable documents puts too much additional work on their team. 
 - The latest iteration in production is showing improvement (still awaiting full report)
 
-## UX research studies
+## UX research 
 This table includes links to the individual research studies.
 
 | Study | Research folder
@@ -37,7 +39,7 @@ This table includes links to the individual research studies.
 
 <br>
 
-## UX design work products
+## UX design
 This table includes links to the individual design work products.
 
 | Screens | Links  
