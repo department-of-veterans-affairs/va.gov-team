@@ -12,15 +12,22 @@
 <br>
 
 ## Table of Contents
-[Features and initiatives we worked on](#features-and-initiatives-we-worked-on)
+[Product context](#product-context)
 
-[Our UX research resources](#our-ux-research-resources)
+[Product portfolio](#product-portfolio)
 
-[Our UX design resources](#our-ux-design-resources)
+[Product artifacts](#product-artifacts)
 
-[Our team](#our-team)
+[Roadmap](#roadmap)
+
+[Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
+
+[Our team and VA relationships](#Our-team-March-2022-team-roster)
+
+
 
 <br>
+
 
 ## Product context 
 Team vision: A seamless online experience that allows Veterans and Caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
@@ -30,8 +37,11 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 - Login is not available
 
 
+<br>
+
+
 ## Product portfolio
-### 10-10CG Application for the Program of Comprehensive Assistance for Family Caregivers
+**10-10CG Application for the Program of Comprehensive Assistance for Family Caregivers**
 - [Staging link](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product/product-outline.md)
@@ -39,19 +49,8 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 - Analytics dashboard: [Domo](https://va-gov.domo.com/page/1905395623?userId=1492182741) (Original dashboard, no longer maintained), [Domo](https://va-gov.domo.com/page/447193050) (New consolidated forms dashboard), and [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20210501&_u.date01=20210524/)
 
 
-#### Now/Next/Later Roadmap
+<br>
 
-**Now**
-- Improve acceptance rate of representative documents that are uploaded by user 
-- CARMA Mulesoft Implementation
-- Report Automation
-- Add Failure alerts
-- Send Veteran vs. Legal representative indicator with payload
-
-**Next**
-- Improve UX of Primary/Secondary Caregiver selection
-- Facility selection redesign
-- Primary Caregiver address same as Veteran option to just check box
 
 ## Product artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md#what-we-work-on)
@@ -76,7 +75,27 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 **Team resources**
 - [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
 
-## Features and initiatives we worked on
+
+
+<br>
+
+
+## Roadmap
+
+**Now**
+- Improve acceptance rate of representative documents that are uploaded by user 
+- CARMA Mulesoft Implementation
+- Report Automation
+- Add Failure alerts
+- Send Veteran vs. Legal representative indicator with payload
+
+**Next**
+- Improve UX of Primary/Secondary Caregiver selection
+- Facility selection redesign
+- Primary Caregiver address same as Veteran option to just check box
+ 
+
+### Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
@@ -85,6 +104,7 @@ This table includes links to the individual feature directory and the latest ite
 | [Mulesoft integration]() | N/A | In progress |
 | [Facility selection]() | Also designed for 10-10EZ use | In design |
 | [Primary/Secondary Caregiver selection]() | N/A | In design |
+
 
 <br>
 
