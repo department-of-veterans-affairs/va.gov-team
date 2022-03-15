@@ -155,7 +155,7 @@ Will aggregating all external requests at the beginning of the process cause lon
 Are endpoints we'll be consuming reliable enough to have a good user experience?
 
 ### Work Estimates
-TODO
+4 weeks.
 
 ### Alternatives
 Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
