@@ -44,11 +44,10 @@ The Facilities team portfolio includes the following unauthenticated products:
 
 ## Research and design
 - [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
+  - [Individual feature/initiative hub page] (TBD)
+  - [Individual feature/initiative hub page] (TBD)
+  - [Individual feature/initiative hub page] (TBD)
 - [CMS research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
-
-- [Individual feature/initiative hub page]()
-- [Individual feature/initiative hub page]()
-- [Individual feature/initiative hub page]()
 
 ## Engineering
 - [Facility Locator documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
