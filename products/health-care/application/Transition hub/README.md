@@ -4,7 +4,8 @@
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
+> The purpose of this transition document is to outline the current state of 1010-EZ product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
+> 
 > **Note:** The 10-10EZ management was under the perview of the VSA-Caregivers team, thus you will notice that some links lead to va.gov-team/products/caregivers/10-10EZ/. Moving forward 10-10EZ documentation should live in va.gov-team/products/health-care/application/va-application/
 
 
