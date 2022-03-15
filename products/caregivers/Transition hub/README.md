@@ -12,17 +12,13 @@
 <br>
 
 ## Table of Contents
-[Product context](#product-context)
-
-[Product portfolio](#product-portfolio)
-
-[Product artifacts](#product-artifacts)
+[Product context, portfolio, and artifacts](#product-context)
 
 [Roadmap](#roadmap)
 
 [Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
 
-[Our team and VA relationships](#Our-team-March-2022-team-roster)
+[Our team, VA relationships, and meeting cadence](#Our-team-March-2022-team-roster)
 
 
 
@@ -40,7 +36,7 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 <br>
 
 
-## Product portfolio
+### Product portfolio
 **10-10CG Application for the Program of Comprehensive Assistance for Family Caregivers**
 - [Staging link](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)
@@ -52,7 +48,7 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 <br>
 
 
-## Product artifacts
+### Product artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md#what-we-work-on)
 - [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/10-10CG-application-copy.md)
 - [User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923499561/47a15bbef931c358b80a077c7085ede9b26dc25e?sender=u6ad375c1c8425e5bfec67027)
