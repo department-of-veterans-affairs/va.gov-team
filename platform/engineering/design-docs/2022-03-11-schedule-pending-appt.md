@@ -16,7 +16,31 @@ The intended audience is for the engineering team.
 Currently, the `vets-website` scheduling feature is as follows:
 
 ![XL9BReCm4DrpYhb0Ue0igaIehRfgrQZT4tYGQOrDFKCaRbz3BOXYb6mGiZtly-RjH0klVMkoJu6dpICTuC_mMyfTs_QMTQ2yy11wCjpmaSruye7V7g94cNKACgXrIs_M35IUKFu8rSw7NoUmf4C7SZL9mEKIsJy-RG9LeBnB99spWkmq4RbnSX8QnaxE2OI-zXJ8yfoudhv2c00C4alFHJd2CeHURP3O5ihEhhgP3-jbflQk](https://user-images.githubusercontent.com/1910447/158439763-fd97627e-1bb7-4053-bb30-86436b64a2a4.png)
+<!---
+@startuml
+User -> Server: Community Cares Eligibility Request  
+note left: Only checks for chosen type of service
+Server --> User: Community Cares Eligibility Response
+hnote over User : Chooses VA or CC if CC is eligible
+User -> Server: Facilities Information Request  
+note left: Request facilities from user object registered facilities.
+User -> Server: Facilities Scheduling Configuration Request  
+Server --> User: Facilities Information Response  
+Server --> User: Facilities Scheduling Configuration Response
+note left: Get faciltiy scheduling elegibility 
+hnote over User : Chooses facility
+User -> Server: Eligibility Request 
+note left: Eligibilty for type of service at facility  
+Server --> User: Eligibility Response  
+User -> Server: CC Providers Request 
+note left: Only if CC facility is chosen  
+Server --> User: CC Providers Response  
+hnote over User : Chooses provider
+User -> Server: Schedule Appointment Request 
+Server --> User: Schedule Appointment Response  
+@enduml
 
+--->
 - Pick type of care to schedule an appointment for
    - Check community care eligibility  
    - `/vaos/v0/community_care/eligibility/{type of care}`
