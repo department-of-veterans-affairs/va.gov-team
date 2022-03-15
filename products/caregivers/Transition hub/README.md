@@ -4,7 +4,7 @@
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to outline the current state of 1010-CG product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
+> The purpose of this transition document is to outline the current state of 1010-CG product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific feature transition hubs where you can find direct links to resources and references used during design and development.
 > 
 > **Note:** The 10-10EZ management was under the perview of the VSA-Caregivers team, thus you will notice that some 10-10EZ documentation is intermixed with 10-10CG documentation folders.
 
@@ -54,13 +54,18 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
 - Primary Caregiver address same as Veteran option to just check box
 
 ## Product approach 
-
-### Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md#what-we-work-on)
 - [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/10-10CG-application-copy.md)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/Important%20Google%20Analytics%20event%20labels.md)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/use-cases.md)
+
+**Engineering**
+- [Architectural overview: example submissions flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf)
+- [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20High-level%20Architecture%20.png)
+- [Response times](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/response-times.md)
+- [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
+- [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
 
 **Initial discovery**
 - [Initial discovery Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery)
@@ -79,15 +84,7 @@ This table includes links to the individual feature directory and the latest ite
 
 <br>
 
-### Engineering
-- [Architectural overview: example submissions flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf)
-- [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20High-level%20Architecture%20.png)
-- [Response times](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/response-times.md)
-- [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
-- [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
 
-
-<br>
 
 ## Our team March 2022 team roster
 
