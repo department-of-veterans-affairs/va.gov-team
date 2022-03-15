@@ -31,8 +31,8 @@ Before we start, a few things I want to mention:
 - How has it impacted your work?
 - How has it impacted the Veteran experience?
   - Have Veterans reported any specific pre-check-in feedback to you? If so, what was their feedback?
-- Overall, what do you like about pre-check-in? 
-- What do you dislike about it?
+- Overall, what do you like about pre-check-in? What do Veterans like about it?
+- What do you dislike about it? What do Veterans dislike about it?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this pre-check-in process be utilized at another VA clinic?
 
 ### Patient Check-in (Day of check-in)
