@@ -98,7 +98,7 @@ This table includes links to the individual feature directory.
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
 | [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA" (power of attorney)| In production at 50% |
-| [Mulesoft integration]() | N/A | In progress |
+| [Mulesoft integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Mulesoft%20integration.md) | N/A | In progress |
 | [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10EZ use | In design |
 | [Primary/Secondary Caregiver selection]() | N/A | In design |
 
@@ -110,16 +110,16 @@ This table includes links to the individual feature directory.
 ## Our team March 2022 team roster
 
 - Sharon Kasimow | sharon.Kasimow@va.gov -- Team product manager
-- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
-- Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
-- Danielle Thierry | danielle.thierry@va.gov -- Content writer
 - Dené Gabaldón | dene.gabaldon@va.gov -- UX designer/researcher
+- Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
+- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
 - Lihan Li | lihan@adhocteam.us -- Backend engineer
 
 ## VA relationships
 
 - Lauren Alexanderson | lauren.alexanderson@va.gov -- Product owner
 - Christopher Froehlich | Christopher.Froehlich@va.gov -- Product owner
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 **Caregiver Program Business Unit Team**
 - Matt Brown| Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
