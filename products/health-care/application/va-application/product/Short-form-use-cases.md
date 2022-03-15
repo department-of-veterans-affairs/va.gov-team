@@ -35,7 +35,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Name: Kasey Gloyd	
   - email: vets.gov.user+EBN7@gmail.com	
-  - Password: Zm9ydHkgdHdv
+  - Password: 
   - Disability rating	50%	
 
 ## Use Case B 
@@ -54,7 +54,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Name: Kasey Gloyd	
   - email: vets.gov.user+EBN7@gmail.com	
-  - Password: Zm9ydHkgdHdv
+  - Password: 
   - Disability rating	50%	
   
 ## Use Case C
@@ -71,7 +71,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Gmail:vets.gov.user+367@gmail.com	
-  - Password: FhQvQwD0jHsKnGeT
+  - Password: 
 
 ## Use Case D
 
@@ -86,5 +86,5 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Gmail:vets.gov.user+367@gmail.com	
-  - Password: FhQvQwD0jHsKnGeT
+  - Password: 
 
