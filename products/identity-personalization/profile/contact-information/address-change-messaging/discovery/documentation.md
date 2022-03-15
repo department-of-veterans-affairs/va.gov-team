@@ -40,6 +40,8 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644509317557/f8d97fbd5e4ec6c7f8c135f1fa29f077fe05e603?sender=u28f508d646c449cc1afe4873)
 
+[Contact information Sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+
 ### In-Line Alerts
 
 **How many alerts should appear and where?**
@@ -58,6 +60,8 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 ### Modal 
 
+[Sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL2Kvm2)
+
 -   Modal flow includes 1) Home address update confirmation & prompt to update mailing and 2) Mailing address update confirmation
 
 <img width="1187" alt="Screen Shot 2022-03-15 at 3 10 44 PM" src="https://user-images.githubusercontent.com/79372956/158480885-9f0f5195-4e1d-4344-abbf-34e0edceb8a1.png">
@@ -68,6 +72,8 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 <img width="1205" alt="Screen Shot 2022-03-15 at 3 01 38 PM" src="https://user-images.githubusercontent.com/79372956/158479841-9a673703-d9da-4d1c-b4ff-223276410a6a.png">
 
 ### Checkbox content
+
+[Sketch file](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/jgJoPJW) 
 
 Checkbox content has been changed to "Use my mailing address for my home address." This phrasing was used in user research and tested well, with participants understanding that checking this box would autopopulate the fields with the mailing address information.
 
@@ -92,6 +98,8 @@ Checkbox content has been changed to "Use my mailing address for my home address
 ### How to help avoid confusion between the two addresses?
 
 Hint text will help users distinguish between home & mailing address and will be added to this project. **UPDATE:** Hint text was added to both Mailing and Home fields.
+
+[Sketch file](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/DPJ0VJJ)
 
 <img width="520" alt="Screen Shot 2022-03-15 at 3 13 22 PM" src="https://user-images.githubusercontent.com/79372956/158481197-41a77787-5516-4c33-b56f-4b79405e40d1.png">
 
