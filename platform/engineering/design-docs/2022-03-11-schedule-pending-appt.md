@@ -144,7 +144,7 @@ Are endpoints we'll be consuming reliable enough to have a good user experience?
 TODO
 
 ### Alternatives
-Rather then relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established objective of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives
+Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
 
 ### Future Work
 Eventually direct scheduling will be added to this flow as it is in `vets-website`
