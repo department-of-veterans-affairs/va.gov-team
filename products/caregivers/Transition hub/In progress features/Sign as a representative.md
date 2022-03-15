@@ -1,13 +1,7 @@
 # VSA sign as a representative hub
-**VSA team name**
 
 <br>
 
->**Feature transition document | March 2022**
->
-> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **this particular feature.** Also included are links to other resources and references used.
-
-<br>
 
 ## Table of Contents
 [UX research studies](#ux-research-studies)
@@ -25,7 +19,7 @@
 ## Feature background
 The sign as a representative feature enables a representative with authority to make health care decisions for the Veteran to sign the application on behalf of the Veteran. A representative must upload a document that proves that they have legal authority to make health care decisions for the Veteran.
 
-Key notes:
+**Key notes:**
 - We don't want to cause a blocker for application completion (avoid Caregiver applicants thinking that they also must be a legal health care representative of the Veteran)
 - This feature is only shown to 50% of applicants because before the latest iteration, the program team was seeing about a 33% acceptance rate of documents uploaded. When a document can't be accepted, it must be followed up with a staff member. Too many unacceptable documents puts too much additional work on their team. 
 - The latest iteration in production is showing improvement (still awaiting full report)
