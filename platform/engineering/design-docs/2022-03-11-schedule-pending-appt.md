@@ -13,7 +13,9 @@ The goal is to add the feature to the mobile app to schedule pending appointment
 The intended audience is for the engineering team.
 
 ### Background
-Currently, the `vets-website` scheduling feature is as follows:  
+Currently, the `vets-website` scheduling feature is as follows:
+
+![XL9BReCm4DrpYhb0Ue0igaIehRfgrQZT4tYGQOrDFKCaRbz3BOXYb6mGiZtly-RjH0klVMkoJu6dpICTuC_mMyfTs_QMTQ2yy11wCjpmaSruye7V7g94cNKACgXrIs_M35IUKFu8rSw7NoUmf4C7SZL9mEKIsJy-RG9LeBnB99spWkmq4RbnSX8QnaxE2OI-zXJ8yfoudhv2c00C4alFHJd2CeHURP3O5ihEhhgP3-jbflQk](https://user-images.githubusercontent.com/1910447/158439763-fd97627e-1bb7-4053-bb30-86436b64a2a4.png)
 
 - Verify user is registered at a facility
    - `/v0/user`
