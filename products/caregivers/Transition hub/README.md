@@ -4,9 +4,9 @@
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to outline the current state of 1010-CG product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific feature transition hubs where you can find direct links to resources and references used during design and development.
+> The purpose of this transition document is to outline the state of 1010-CG product development as of March 2022. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific "feature transition hubs" where you can find direct links to resources and references used during design and development.
 > 
-> **Note:** The 10-10EZ management was under the perview of the VSA-Caregivers team, thus you will notice that some 10-10EZ documentation is intermixed with 10-10CG documentation folders.
+> **Note:** The 10-10EZ health care application management was under the purview of the VSA-Caregivers team, thus you will notice that some 10-10EZ documentation is intermixed with 10-10CG documentation folders. This hub pages avoids this, please see the [VSA 10-10EZ transition hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/README.md) if you are looking for information on the health care application.
 
 
 <br>
@@ -23,7 +23,7 @@
 <br>
 
 ## Product context 
-Team vision: A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
+Team vision: A seamless online experience that allows Veterans and Caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
 
 - Allows the caregivers of disabled Veterans to apply for benefits from the VA
 - Approx 4,000 submissions per month
@@ -42,7 +42,7 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
 #### Now/Next/Later Roadmap
 
 **Now**
-- Improve acceptable rate of representative documents that are uploaded by user
+- Improve acceptance rate of representative documents that are uploaded by user 
 - CARMA Mulesoft Implementation
 - Report Automation
 - Add Failure alerts
@@ -53,9 +53,10 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
 - Facility selection redesign
 - Primary Caregiver address same as Veteran option to just check box
 
-## Product approach 
+## Product artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md#what-we-work-on)
 - [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/10-10CG-application-copy.md)
+- [User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923499561/47a15bbef931c358b80a077c7085ede9b26dc25e?sender=u6ad375c1c8425e5bfec67027)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/Important%20Google%20Analytics%20event%20labels.md)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/use-cases.md)
@@ -72,15 +73,18 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
      - [Initial discovery User research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/Caregiver%20Discovery%20Sprint%201%20User%20Research%20Findings.pdf)
      - [Initial discovery Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/engineering)
 
+**Team resources**
+- [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
+
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
-| [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA" (power of attorney)| [In production at 50%]() |
-| [Mulesoft integration]() | N/A | [In progress]() |
-| [Facility selection]() | Also designed for 10-10EZ use | [In design]() |
-| [Primary/Secondary Caregiver selection]() | N/A | [In design]() |
+| [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA" (power of attorney)| In production at 50% |
+| [Mulesoft integration]() | N/A | In progress |
+| [Facility selection]() | Also designed for 10-10EZ use | In design |
+| [Primary/Secondary Caregiver selection]() | N/A | In design |
 
 <br>
 
@@ -93,29 +97,27 @@ This table includes links to the individual feature directory and the latest ite
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 - Dené Gabaldón | dene.gabaldon@va.gov -- UX designer/researcher
-- Lauren Alexanderson | lauren.alexanderson@va.gov -- Product owner
-- Christopher Froehlich | christopher.froehlich@va.gov -- Product owner
 - Lihan Li | lihan@adhocteam.us -- Backend engineer
 
 ## VA relationships
 
 - Lauren Alexanderson | lauren.alexanderson@va.gov -- Product owner
-- Christopher.Froehlich | Christopher.Froehlich@va.gov -- Product owner
+- Christopher Froehlich | Christopher.Froehlich@va.gov -- Product owner
 
 **Caregiver Program Business Unit Team**
-- Matt Brown| email.address@va.gov -- Assoc. Director (leads  the relationship between the program and VA.gov)
-- Tiffany Puckett | email.address@va.gov -- 
-- Tamara Scott | email.address@va.gov -- 
-- Margaret Featherstone | email.address@va.gov -- 
-- Hollie-Lyn James | email.address@va.gov -- 
-- Rebecca Bixler | email.address@va.gov --
-- Aaron Sudholdt  | email.address@va.gov -- PM, scheduling 
+- Matt Brown| Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
+- Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
+- Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
+- Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
+- Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
+- Rebecca Bixler | rebecca.bixler@va.gov -- Health System Specialist
+- Aaron Sudholdt  | aaron.sudholt@va.gov -- PM, scheduling 
 
 **CARMA team**
-- Caitlin Reyna | email.address@va.gov - CARMA PM
-- Paul Kuprionas | email.address@va.gov - CARMA tech lead
-- Ranga, Ramesh | email.address@va.gov - CARMA engineers
-- David Wald | email.address@va.gov - testing/integration lead
+- Caitlin Reyna | caitlin.reyna@va.gov - CARMA PM
+- Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+- Dugar, Ramesh | ramesh.dugar@va.gov - CARMA engineer
+- David Wald | David.Wald@va.gov - testing/integration lead
 
 
 
@@ -126,12 +128,6 @@ This table includes links to the individual feature directory and the latest ite
    - Depending on the current projects we meet once a week or every other week
 
 
-
-
-
-### Team resources
-- [Team Github directory]()
-- [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
 
 <br>
 
