@@ -8,7 +8,7 @@
 
 [UX research](#ux-research)
 
-[UX design](#UX-design)
+[UX design](#ux-design)
 
 [Engineering artifacts](#engineering-artifacts)
 
@@ -61,12 +61,7 @@ This table includes links to the individual design work products.
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
 
-- [Design intent]()
-- [IA review]()
-- [Content review]()
-- [Midpoint review]()
-- [Staging review]()
-- [UAT]()
+- [ _(old)_ Staging review](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/23970)
 
 
 <br>
