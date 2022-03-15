@@ -73,8 +73,8 @@ This table includes links to the individual feature directory and the latest ite
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
 | [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA (powerof attorney"| [In production at 50%]() |
-| [Mulesof integration]() | N/A | [In progress]() |
-| [Facility selection]() | Also designed for 10-10CG use | [In design]() |
+| [Mulesoft integration]() | N/A | [In progress]() |
+| [Facility selection]() | Also designed for 10-10EZ use | [In design]() |
 | [Primary/Secondary Caregiver selection]() | N/A | [In design]() |
 
 <br>
