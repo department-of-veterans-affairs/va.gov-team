@@ -17,7 +17,26 @@ The development teams responsible for migrating these features will need to inco
 OCC and OCTO product owners are aligned on the rationale for moving health features to VA.gov:
 * Veterans have one site, with a unified user experience, where they can manage their health and benefits.
 * It eliminates much of the complexity of navigating between sites, such as the extensive engineering effort that went in to making single sign on between sites work correctly. 
-* Becauese VA.gov is integrated with many other systems at VA, it opens the door to further integration among features, such as embedding disability rating on the health landing page or unifying veteran profile information in one place.
+* Because VA.gov is integrated with many other systems at VA, it opens the door to further integration among features, such as embedding disability rating on the health landing page or unifying veteran profile information in one place.
+
+## Getting from here to there - phased migration
+If the desired end state is for veterans to access these health tools on VA.gov, how do we get there? Exact details will need to be worked out, but generally we expect to follow these principles:
+
+### Migrate feature by feature
+Each of the "big 4" features, and any additional functionality, can and should be migrated independently. This goes for both how these features are implemented and how they are launched to end users. Doing so avoids the risk of a "big bang" cutover, and lets us learn from and refine our implementation approach as we go.
+
+This means that our roll-out plan needs to account for veterans still having to navigate between sites (so single sign on should continue to be supported as smoothly as possible), and we should be able to update links to each tool and easily configure redirects as needed.
+
+### Build and deploy without releasing
+We want to be able to build the new veteran-facing features on VA.gov and maintain control over when they are launched to end users. 
+
+At this point the VA.gov platform has good support for using feature flags to control when functionality is exposed to end users. Code can deploy to production without being released. The VA.gov feature flag mechanism also allows for phased rollouts (e.g. exposing a feature to a percentage of users), and exposing features to specific set of opt-in users to allow for user acceptance testing in production. 
+
+### Account for rollback
+Roll-out plans should account for the possibility that a migration will need to be rolled back, pointing users back to a feature on MHV for some interval. An accounting should be made of the complete set of links/redirects/landing pages/content that need updating in such an event. As always we will strive to minimize the likelihood of needing to rollback. 
+
+### Consider the long-term 
+We should consider how many existing links there are to specific MHV content pages - both within VA web properties and on the internet at large. If these are signficant, we'll need to maintain a longer term strategy of redirecting specific MHV URls to specific destinations on VA.gov. Alternatively we may opt to do a blanket redirect to the VA.gov My Health landing page on the assumption that users will be able to easily find the content they are looking for. 
 
 ## Building on VA.gov
 The VA.gov development process is organized around many independent Veteran Facing Service (VFS) teams building applications, while platform teams provide common functionality and infrastructure, as well as a governance model known as the collaboration cycle. The following section gives a high-level description of the development process, and pointers to relevant parts of VA.gov platform documentation. 
@@ -56,13 +75,8 @@ A couple interesting details to be aware of:
 
 ### Content management - what's involved
 
-
 ### Collaboration cycle 
 
 ### Upcoming changes
 
-## Phased Migration Approach
-- Feature by feature
-- Options for building and deploying but not releasing
-- Options for soft launch/phased release
-- Pattern for communicating migration to users and eventually retiring deprecated UI entry points. 
+
