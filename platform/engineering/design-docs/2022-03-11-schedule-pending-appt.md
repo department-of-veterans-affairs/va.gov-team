@@ -42,7 +42,7 @@ Currently, the `vets-website` scheduling feature is as follows:
   - `/vaos/v2/appointments` 
 
 ### High Level Design
-Implementation of this feature will largely follow the logic listed in the background with a key difference to improve user experience. all consumed APIS will be aggregated at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
+Implementation of this feature will largely follow the logic listed in the background, with the goal of improving the user experience. We will aggregate all consumed APIs at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
    - Move any business logic from the front end to the back end 
    - Simplify overall backend and front complexity. 
    - Create a better UX experience. Users will know of a service and facility eligibility before selecting it and waiting for a response.  
