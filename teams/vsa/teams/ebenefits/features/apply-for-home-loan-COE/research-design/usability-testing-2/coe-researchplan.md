@@ -103,7 +103,7 @@ Please schedule sessions as 1 hour blocks with at least 30 minutes between sessi
 | Friday, March 11  | 10 AM to 6 PM |
 | Monday, March 14 | 10 AM to 3:30 PM or 5:30 to 6:30 PM|
 | Tuesday, March 15 | 10 AM to 6 PM |
-| Wednesday, March 16 | 10 AM to 3:30 PM or 5:30 to 6:30 PM|
+| Wednesday, March 16 | 10 AM to 3:30 PM |
 | Thursday, March 17 | 10 AM to 6 PM |
 | Friday, March 18 | 10 AM to 6 PM |
 
