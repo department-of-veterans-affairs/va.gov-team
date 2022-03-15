@@ -61,7 +61,17 @@ The 5-10 top findings from your study should be listed here. Write your findings
     -  _"They have to file for disability benefits, but then also have to file 1 of 2 additional forms."_  
   - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
 
-**3. Splittling content up between the benefit hub and Resources and support was considered, but
+**3. Splittling content up between the benefit hub and Resources and support was considered**
+- Although their worksheets didn't reference that as a decision, there were a times members of the group considered how content could potentially be broken up between the benefit hub and R&S.
+  - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
+
+**4. Decisions heavily weighed toward benefit hub placement
+- Three of the 5 pages evaluated had full agreement for benefit hub placement: clothing allowance, PTSD and Camp Lejeune water contamination
+  - No comments or references were made about any of these pages being challenging to decide
+  - One individual suggested some content on the PTSD page may be a candidate for R&S 
+- Two of the 5 pages received a few decisions for R&S, but there was not consensus: Agent Orange and Dental care
+
+[**What was the expected result for these??**]
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
