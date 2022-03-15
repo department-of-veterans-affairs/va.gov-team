@@ -63,10 +63,9 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 
 **3. Decisions were made at the page level, although there was some consideration to splittling content**
-- Although their worksheets didn't reference that as a decision, there were times members of the group considered how content could potentially be broken up between the benefit hub and R&S.
+- Although their worksheets didn't reference it as a decision, some individuals considered how content could potentially be broken up between the benefit hub and R&S.
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
-- Headings were used in determining the focus of the page
-- Existing knowledge and biases of what is a benefit and where benefit content should be placed played a part in decisions
+
 
 **4. Accuracy of decisions...What was the expected result for these??**
 - Three of the 5 pages evaluated had full agreement for benefit hub placement: clothing allowance, PTSD and Camp Lejeune water contamination
@@ -86,17 +85,14 @@ The 5-10 top findings from your study should be listed here. Write your findings
     - It seemed as though the group had a bias that it is a benefit for Veterans and they therefore wanted to find a way to place it in the benefit hubs 
 
 
-
-## Additional Insights
-Any additional insights that aren't "top findings."
-
-**Individual biases and experience of the person doing the evaluation do play a part in making the decision**
-- Individuals have received and interpreted past information on what content should be placed in the benefit hubs (i.e. any thing "tier 1" or veteran facing)
+**5. Individual biases and experience of the person doing the evaluation played a part in making the decision**
+- Existing knowledge and biases of what is considered a benefit, and where benefit content should be placed, played a part in decision making (i.e. "tier 1", veteran-facing content)
   - _"I'm not sure that extra content belongs in R&S, maybe another hub page would be better, because I still feel like it's tier 1 because it's for Veterans."_
 - Many members of the group cited times where they would revise a heading, restructure the content, or elaborate on content in order to build out a better page. Doing this would occassionally lead them to making a different decision.
+  - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
 
-**The layout and format of the worksheet could use some minor improvements**
+**6. The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
   - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
 
