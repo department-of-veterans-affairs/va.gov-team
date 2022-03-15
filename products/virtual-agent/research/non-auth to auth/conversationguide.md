@@ -51,7 +51,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: [Finding the chatbot] - 5 minutes
 
-- Open this website : https://va.gov/contact-us [To be replaced by prototype]
+- Open this website : https://pilarmoreno461371.invisionapp.com/console/Virtual-Agent-Wireframing-and-Prototypes-cl0idh4nl00th011rcdjnci5d/cl0sfcld2051l01zud85fbam6/play]
 - Can you describe me what contact options are there? [Look out for the Chatbot one]
 - *If applicable* What does this one takes you to?
 
