@@ -5,7 +5,7 @@
 
 [Vet Center product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md) | March 2022
 
-[Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources)
+[Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources) | March 2022
 
 [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/product-brief.md)
 
