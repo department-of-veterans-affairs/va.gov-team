@@ -50,10 +50,13 @@ Once the roll-out is complete, we plan to re-evaluate additional features, inclu
 - [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
 - Results from Vet Center surveys from [October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20October%202021%20(1).pptx) and [January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20January%202022.pptx)
 - [CMS Vet Center Knowledge Base](https://prod.cms.va.gov/help/vet-center)
-- [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020- [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) (_VA network link_)
-- [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) (_VA network link_)
-- [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) (_VA network link_)
-- [ Vet Center runbok](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B7F0BB876-FE89-47E9-805D-26A0C646C446%7D&file=Vet%20Center%20runbook.xlsx&action=default&mobileredirect=true) (_VA network link_)
+- [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
+- [District 2 kickoff powerpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Centers%20Website%20Presentation%20-%20District%202%20Kickoff%20-%2020220302.pptx) | March 2022 (_owned by Dave Conlon_)
+- [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) _requires a VA network connection_
+- [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
+- [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
+- [Vet Center runbok](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B7F0BB876-FE89-47E9-805D-26A0C646C446%7D&file=Vet%20Center%20runbook.xlsx&action=default&mobileredirect=true) _requires a VA network connection_
+
 
 ### Design-research
 - [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
