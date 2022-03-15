@@ -84,10 +84,20 @@ Any additional insights that aren't "top findings."
 
 **The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
-- _"I went on to # 5 every time, even though I answered "yes" to the fourth one"
+  - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+
+**Utilize individual bullets and/or questions to make criteria easier to read and follow**
+- The group liked how criteria #5 used bullets to list out the individual scenarios and suggested the same formatting be followed for criteria 2 and 3. 
+
+**Revise criteria 3 to provide more clarity and meaning**
+- Clarify meaning of "unique application form" and "unique application process"**
+- Define "core" versus "supplemental"
+
+**Improve formatting to ensure that criteria 5 is only referenced in correct scenarios**
+
+
 
 ## Next Steps
 Next steps here
