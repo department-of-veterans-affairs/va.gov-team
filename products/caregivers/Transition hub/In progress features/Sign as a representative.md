@@ -1,4 +1,4 @@
-# VSA sign as a representative UX research and design hub
+# VSA sign as a representative hub
 **VSA team name**
 
 <br>
@@ -41,22 +41,6 @@ This table includes links to the individual research studies.
 | Usability Round 3 (January 2022) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research)
 
 
-
-### References used
-- [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
-
-### Templates used
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
-
-### Tools used
-List your tools; add notes.
-  
-- InVision
-- Mural
-- Optimal workshop
-
 <br>
 
 ## UX design work products
@@ -70,29 +54,15 @@ This table includes links to the individual design work products.
 | Mockups | [Tool]() | Preliminary text | date | Midpoint |
 | Prototype | [Tool]() | Final text | date | Staging |
 
-### Design system resources used
-- [VA.gov Design System](https://design.va.gov/)
-- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
-- [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
 
 ### Content resources used
 - [Content writing](https://design.va.gov/content-style-guide/)
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
-### Accessibility (Section 508) resources used
-- [Internal 508 checklist]()
-- [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
+### Engineering artifacts
+- 
 
-### Tools used
-List your tools; add notes.
-  
-- Sketch for Teams
-- UXPin
-- Mural
-- Github markdown
-- VSCode
 
-<br>
 
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
@@ -107,17 +77,18 @@ Include notes about which Platform process was in use when this feature was in d
 <br>
 
 ## Other feature documentation
-- [Engineering notes]()
 - [Call center guide]()
 - [Metting notes]()
-- [Others]()
+
 
 <br>
 
-## UX researchers and designers
-- Person Name | email.address@va.gov -- UX researcher
-- Person Name | email.address@va.gov -- UX designer
-- Person Name | email.address@va.gov -- UX designer
+## Team members that worked on this
+- Shawna Hein | shawna.hein@va.gov -- Design lead
+- Dené Gabaldón | dene.gabaldon@va.gov -- UX researcher/designer
+- Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
+- Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
+- Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
 
 <br>
 
