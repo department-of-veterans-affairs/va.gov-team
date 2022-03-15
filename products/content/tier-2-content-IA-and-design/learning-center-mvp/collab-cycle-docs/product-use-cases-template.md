@@ -30,7 +30,7 @@ Demo environment - LC homepage: http://learningcenter.web.demo.ci.cms.va.gov/res
 * **Link to designs**
   - [Mural mockups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602122053838) - see 1.0 section for beta launch mockups
 
-* **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+* **Instructions to access in demo environment (for Drupal)** (_Note: Provide only usernames here. Passwords should be stored in sensitive repos only_)
   - ~http://learningcenter.demo.ci.cms.va.gov/~  http://learningcenter.web.demo.ci.cms.va.gov/resources/
   - the URL for the LC homepage will be va.gov/resources/   {updated 10/21 with final IA recommendation}
 
@@ -44,7 +44,7 @@ Demo environment - LC homepage: http://learningcenter.web.demo.ci.cms.va.gov/res
 * **Link to designs**
   - Mural board: [search - user query with no results](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602257201953)
 
-* **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+* **Instructions to access in demo environment (for Drupal)** (_Note: Provide only usernames here. Passwords should be stored in sensitive repos only_)
   - http://learningcenter.web.demo.ci.cms.va.gov/resources/
 
 
