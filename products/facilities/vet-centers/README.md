@@ -7,6 +7,8 @@
 
 [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/product-brief.md)
 
+[District 2 kickoff presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Centers%20Website%20Presentation%20-%20District%202%20Kickoff%20-%2020220302.pptx) | March 2022
+
 ## About the product
 **Product owner:** Dave Conlon
 
