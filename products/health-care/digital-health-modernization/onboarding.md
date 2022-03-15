@@ -1,6 +1,5 @@
 # Health Apartment Team Onboarding Guide
-*The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.* <br>
-[Read the product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).
+*The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.* [Read the product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).
 
 ## Introduction
 In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document, written in August 2021, describes the history and implications of the DHM Team's work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
