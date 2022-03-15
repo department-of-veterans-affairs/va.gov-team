@@ -81,5 +81,6 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - Gmail:vets.gov.user+367@gmail.com	
+  - Password: FhQvQwD0jHsKnGeT
 
