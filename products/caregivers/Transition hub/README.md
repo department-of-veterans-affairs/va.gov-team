@@ -90,6 +90,11 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 - Improve UX of Primary/Secondary Caregiver selection
 - Facility selection redesign
 - Primary Caregiver address same as Veteran option to just check box
+
+**Future**
+- Rewrite Introduction page
+- Notifications: Confirmation Email/text
+- Multilingual 
  
 
 ### Features and initiatives we worked on
