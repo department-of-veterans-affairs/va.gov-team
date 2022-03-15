@@ -1,5 +1,5 @@
 # Health Apartment Team Onboarding Guide
-*The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.* 
+*The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.* <br>
 [Read the product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).
 
 ## Introduction
