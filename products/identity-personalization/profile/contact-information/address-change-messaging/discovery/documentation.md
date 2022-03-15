@@ -51,6 +51,11 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/double_success_alert.png" />
 
+-   If home is successfully updated after modal flow but mailing is not, two success alerts are shown: error for mailing and success for home.
+
+<img width="389" alt="Screen Shot 2022-03-15 at 3 15 52 PM" src="https://user-images.githubusercontent.com/79372956/158481618-16f2414c-5cb6-424c-ad38-ac8996c7a125.png">
+
+
 ### Modal 
 
 -   Modal flow includes 1) Home address update confirmation & prompt to update mailing and 2) Mailing address update confirmation
