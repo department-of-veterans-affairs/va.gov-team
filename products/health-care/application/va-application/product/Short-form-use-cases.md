@@ -56,7 +56,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - email: vets.gov.user+EBN7@gmail.com	
   - Password: Zm9ydHkgdHdv
   - Disability rating	50%	
-  - 
+  
 ## Use Case C
 
 * **Description** Unauthenticated / Self Reports Disability rating of 50% +
