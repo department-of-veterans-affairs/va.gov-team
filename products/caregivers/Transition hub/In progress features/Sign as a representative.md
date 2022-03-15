@@ -1,4 +1,4 @@
-# VSA sign as a representative hub
+# VSA 10-10CG sign as a representative hub
 
 <br>
 
