@@ -49,8 +49,8 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 **2. Criteria #3 proved to be the most challenging for the group**
 - The challenging aspects to this criteria were two-fold
-  - 1) Use of the words "core or supplemental benefit" was unclear
-  - 2) There was some uncertainty around "unique application or application process"
+  - Use of the words "core or supplemental benefit" was unclear
+  - There was some uncertainty around "unique application or application process"
 - "Core" versus "supplemental" benefit
   - When prompted to define the difference, responses ranged - one felt that if there's a specific application or form to fill out, it's supplemental, even if its the same form as the main benefit, while another questioned if core is what everyone is given and supplemental is based on unique circumstances.
   - When the group was asked if they agreed with the definitions given, besides a slight head nod from one person, the group did not provide a response back in agreement or disagreement.
@@ -61,9 +61,12 @@ The 5-10 top findings from your study should be listed here. Write your findings
     -  _"They have to file for disability benefits, but then also have to file 1 of 2 additional forms."_  
   - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
 
-**3. Splittling content up between the benefit hub and Resources and support was considered**
-- Although their worksheets didn't reference that as a decision, there were a times members of the group considered how content could potentially be broken up between the benefit hub and R&S.
+
+**3. Decisions were made at the page level, although there was some consideration to splittling content**
+- Although their worksheets didn't reference that as a decision, there were times members of the group considered how content could potentially be broken up between the benefit hub and R&S.
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
+- Headings were used in determining the focus of the page
+- Existing knowledge and biases of what is a benefit and where benefit content should be placed played a part in decisions
 
 **4. Accuracy of decisions...What was the expected result for these??**
 - Three of the 5 pages evaluated had full agreement for benefit hub placement: clothing allowance, PTSD and Camp Lejeune water contamination
