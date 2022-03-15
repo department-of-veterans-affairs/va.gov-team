@@ -24,7 +24,7 @@ Before we start, a few things I want to mention:
 - Things to watch for while observing staff:
   - Did they still engage and talk to Veterans who completed check-in on VA.gov?
     - Why?
-  - What does the handoff from MSA to the provider look like?
+  - What does the handoff from MSA to the provider look like? (We are looking to understand the impact of the VSE GUI change to the handoff process.)
 
 ### Pre-check-in
 - How has pre-check-in impacted checking in on the day the appointment? _Explain what pre-check-in is if need be._
@@ -59,8 +59,10 @@ As we look toward future development, we would like to understand telemedicine a
 - What is your current pre-registration process for telemedicine appointments?
 - Are you experiencing any challenges with telemedicine appointments? If so, what are they?
 - What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
+ 
+## Patient Record Flags 
+(Some of these questions might be for more administrators at the sites. MSAs might not have the answers to all of these questions.)
 
-## Patient Record Flags
 We would also like to get your input on the use and value of patient record flags.
 - How do you currently use patient record flags, if at all? 
 - Where do you see the flag, and how do you respond?
