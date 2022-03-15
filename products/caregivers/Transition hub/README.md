@@ -92,9 +92,9 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
  
 
 ### Features and initiatives we worked on
-This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
+This table includes links to the individual feature directory.
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
+| Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
 | [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA" (power of attorney)| In production at 50% |
 | [Mulesoft integration]() | N/A | In progress |
