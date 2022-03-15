@@ -30,7 +30,7 @@ This table includes links to the individual feature directory and the latest ite
 | Facility Locator | Map enhancements  | [Epic #10854](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10854)  | [Design folder] | [In production](https://www.va.gov/find-locations) |
 | Facility Locator | Map accessibility/usability| [EPIC #17671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17671)  | [Design folder] | [In production](https://www.va.gov/find-locations) |
 | Facility Locator | COVID-19 searches |[Epic #17321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17321) | [Design folder] | [In production](https://www.va.gov/find-locations) |
-| Facility Locator | Emergency care mashup () | [Epic #7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [Design folder] | [In production](https://www.va.gov/find-locations) |
+| Facility Locator | Emergency care mashup | [Epic #7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [Design folder] | [In production](https://www.va.gov/find-locations) |
 | VAMC | Left Nav redesign | [Epic #1874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1874) | [Design folder] | [Production example](https://www.va.gov/houston-health-care/)|
 | VAMC | Policies hardened content |[Epic #7784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7784) | [Design folder] |  [Production example](https://www.va.gov/houston-health-care/policies/)|
 | VAMC | CLCs/Domiciliaries |[Epic #22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) | [Design folder] |  [In production] (example page)|
