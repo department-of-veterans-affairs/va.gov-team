@@ -65,13 +65,24 @@ The 5-10 top findings from your study should be listed here. Write your findings
 - Although their worksheets didn't reference that as a decision, there were a times members of the group considered how content could potentially be broken up between the benefit hub and R&S.
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
 
-**4. Decisions heavily weighed toward benefit hub placement
+**4. Accuracy of decisions...What was the expected result for these??**
 - Three of the 5 pages evaluated had full agreement for benefit hub placement: clothing allowance, PTSD and Camp Lejeune water contamination
   - No comments or references were made about any of these pages being challenging to decide
   - One individual suggested some content on the PTSD page may be a candidate for R&S 
 - Two of the 5 pages received a few decisions for R&S, but there was not consensus: Agent Orange and Dental care
+  - Challenges with Agent Orange page
+    - Content was significantly longer than other pages given...In general, decisions were focused at the page level
+    - 2 individuals referenced some content in the page could be moved to R&S, however they placed the page in the benefit hubs 
+    - 2 individuals expressed lower confidence in their decision 
+    - 2 individuals placed the content in the benefit hub, however they did indicate that they were unsure what the benefit(s) was
+    - _" This wasn't a slam-dunk decision. I couldn't decide if it directly supports Veterans in applying for benefits, or if its additonal information and resources about Agent Orange"_ 
+  - Challenges with Dental care page
+    - Content was very short, but linked to a PDF that provided more in-depth information.
+    - Only 1 individual placed this content in the benefit hub, 3/5 placed it in R&S, and 1 individal was undecided
+    - 2 individuals indicated that pulling in more content from the PDF and elsewhere would make it more suited for benefit hub placement
+    - It seemed as though the group had a bias that it is a benefit for Veterans and they therefore wanted to find a way to place it in the benefit hubs 
 
-[**What was the expected result for these??**]
+
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
