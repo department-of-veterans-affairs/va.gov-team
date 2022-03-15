@@ -72,17 +72,12 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
-| [Sign as a representative]() |Formally called "POA (powerof attorney"| [In production at 50%]() |
+| [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA (powerof attorney"| [In production at 50%]() |
+| [Mulesof integration]() | N/A | [In progress]() |
 | [Facility selection]() | Also designed for 10-10CG use | [In design]() |
 | [Primary/Secondary Caregiver selection]() | N/A | [In design]() |
 
 <br>
-
-### Research and design
-- [**Reasearch and design hub page**]()
-- [Sign as a representative]()
-- [Facility selection]()
-- [Primary/Secondary Caregiver selection]()
 
 ### Engineering
 - [Architectural overview: example submissions flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf)
@@ -91,8 +86,6 @@ This table includes links to the individual feature directory and the latest ite
 - [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
 - [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
 
-**Mulesoft documentation**
-- [CARMA integration roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/roadmap%20-%20carma%20mulesoft%20integration.pdf)
 
 <br>
 
