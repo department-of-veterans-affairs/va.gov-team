@@ -67,7 +67,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
 
 
-**4. Accuracy of decisions...What was the expected result for these??**
+**4. Consistency of decisions...what about accuracy?**
 - Three of the 5 pages evaluated had full agreement for benefit hub placement: clothing allowance, PTSD and Camp Lejeune water contamination
   - No comments or references were made about any of these pages being challenging to decide
   - One individual suggested some content on the PTSD page may be a candidate for R&S 
