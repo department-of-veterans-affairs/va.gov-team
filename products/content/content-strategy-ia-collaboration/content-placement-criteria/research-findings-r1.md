@@ -40,10 +40,41 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+**1. Content authors found the criteria to be, helpful, easy to use, and led to a confident decision.**
+- After the activity, the participants were asked to rate the criteria on helpfulness, ease of understanding, and decision confidence on a scale of 1-5, 1 being the lowest score and 5 being highest.
+  - Ease of use averaged 4.4
+  - Helpfulness of criteria averaged 4.2
+  - Confidence in decisions averaged 4.4
+- In addition, the group agreed that having the criteria would be useful in explaining decisions to stakeholders. 
+
+**2. Criteria #3 proved to be the most challenging for the group**
+- The challenging aspects to this criteria were two-fold
+  - 1) Use of the words "core or supplemental benefit" was unclear
+  - 2) There was some uncertainty around "unique application or application process"
+- "Core" versus "supplemental" benefit
+  - When prompted to define the difference, responses ranged - one felt that if there's a specific application or form to fill out, it's supplemental, even if its the same form as the main benefit, while another questioned if core is what everyone is given and supplemental is based on unique circumstances.
+  - When the group was asked if they agreed with the definitions given, besides a slight head nod from one person, the group did not provide a response back in agreement or disagreement.
+  - _"...I did spend a lot of time on the core vs. supplemental. I don't know why I struggled with it because it didn't say you had to do anything different for the 2, but I think I know enough to be dangerous and found myself thinking that those terms are important and wanting to define them."_
+- "Unique application or application process" 
+  -  The group discussed if "application process" included anything specific you had to do to get ready to apply or after you apply.  Additional evidence was given as an example. 
+  -  It was noted a couple of times in discussions and their worksheets that individuals looked for reference or a link to an application or form, and when found answered "yes" to this question. 
+    -  _"They have to file for disability benefits, but then also have to file 1 of 2 additional forms."_  
+  - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
+
+**3. Splittling content up between the benefit hub and Resources and support was considered, but
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
+
+**Individual biases and experience of the person doing the evaluation do play a part in making the decision**
+- Individuals have received and interpreted past information on what content should be placed in the benefit hubs (i.e. any thing "tier 1" or veteran facing)
+  - _"I'm not sure that extra content belongs in R&S, maybe another hub page would be better, because I still feel like it's tier 1 because it's for Veterans."_
+- Many members of the group cited times where they would revise a heading, restructure the content, or elaborate on content in order to build out a better page. Doing this would occassionally lead them to making a different decision.
+  - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
+
+**The layout and format of the worksheet could use some minor improvements**
+- Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
+- _"I went on to # 5 every time, even though I answered "yes" to the fourth one"
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
