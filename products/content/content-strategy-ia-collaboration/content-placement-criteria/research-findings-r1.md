@@ -40,7 +40,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 
 ## Details of Findings
-**1. Content authors found the criteria to be, helpful, easy to use, and led to a confident decision.**
+**1. Content authors found the criteria to be helpful, easy to use, and led them to a confident decision.**
 - After the activity, the participants were asked to rate the criteria on helpfulness, ease of understanding, and decision confidence on a scale of 1-5, 1 being the lowest score and 5 being highest.
   - Ease of use averaged 4.4
   - Helpfulness of criteria averaged 4.2
