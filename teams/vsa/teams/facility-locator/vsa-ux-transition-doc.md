@@ -31,13 +31,13 @@ This table includes links to the individual feature directory and the latest ite
 | Facility Locator | Map accessibility/usability| [EPIC #17671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17671)  | [Design folder] | [In production](https://www.va.gov/find-locations) |
 | Facility Locator | COVID-19 searches |[Epic #17321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17321) | [Design folder] | [In production](https://www.va.gov/find-locations) |
 | Facility Locator | Emergency care mashup () | [Epic #7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [Design folder] | [In production](https://www.va.gov/find-locations) |
-| VAMC | Left Nav redesign | [Epic #1874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1874) | [Design folder] | [In production] (example page)|
-| VAMC | Policies hardened content |[Epic #7784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7784) | [Design folder] |  [In production] (example page)|
+| VAMC | Left Nav redesign | [Epic #1874](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1874) | [Design folder] | [Production example](https://www.va.gov/houston-health-care/)|
+| VAMC | Policies hardened content |[Epic #7784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7784) | [Design folder] |  [Production example](https://www.va.gov/houston-health-care/policies/)|
 | VAMC | CLCs/Domiciliaries |[Epic #22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) | [Design folder] |  [In production] (example page)|
 | VAMC | Mobile health clinics |[Epic #21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/design ) |  In design |
 | VAMC | Lovell federal health | [Epic #34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [UX Pin](https://preview.uxpin.com/93cf67f26d2b936504ffc415de7cf97fcb8d8e1c#/pages/147178609/simulate/sitemap?mode=i)|  In design |
 | VAMC | VA health connect and other communication methods | [Epic #26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) | Pending Veteran research |
-| Vet Centers | MVP | [Epic #11294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11294) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)| [In production] (example page) |
+| Vet Centers | MVP | [Epic #11294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11294) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)| [Production example](https://www.va.gov/cape-cod-vet-center/) |
 
 
 ## Our UX research resources
