@@ -35,6 +35,7 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/use-cases.md)
 
 #### Now/Next/Later Roadmap
+
 **Now**
 - Improve acceptable rate of representative documents that are uploaded by user
 - CARMA Mulesoft Implementation
@@ -54,7 +55,13 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md#what-we-work-on)
 - [Product Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md#:~:text=Product%20Outline-,Product%20Guide,-Submission%20Process)
 - [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/10-10CG-application-copy.md)
-- [Important Google Analytics Event Labels]( )
+- [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/Important%20Google%20Analytics%20event%20labels.md)
+
+**Initial discovery**
+- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery)
+     - [User research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/Caregiver%20Discovery%20Sprint%201%20User%20Research%20Findings.pdf)
+     - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/engineering)
+
 
 
 ### Research and design
@@ -64,10 +71,13 @@ Team vision: A seamless online experience that allows Veterans and caregivers to
 - [Primary/Secondary Caregiver selection]()
 
 ### Engineering
-- [Architectural overview: example submissions flow]()
-- [High level view of systems]()
+- [Architectural overview: example submissions flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf)
+- [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20High-level%20Architecture%20.png)
 - [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
 - [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
+
+**Mulesoft documentation**
+- [CARMA integration roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/roadmap%20-%20carma%20mulesoft%20integration.pdf)
 
 <br>
 
