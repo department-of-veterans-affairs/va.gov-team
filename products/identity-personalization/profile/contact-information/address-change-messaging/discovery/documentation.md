@@ -45,15 +45,35 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 **How many alerts should appear and where?**
 -   If home address cannot be updated, alert will appear on page.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/home_address_error_alert_on_page.png" />
-
--   If mailing address cannot be updated during modal flow, in-line error message will appear above the modal buttons - and follow the regular design system guidelines as if this were a page. Following these patterns, this can be retried a few times (guidelines should be in design system) and then at some point close becomes the only option.
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/mailing_address_error_alert_in_modal.png" />
+<img width="399" alt="Screen Shot 2022-03-15 at 3 06 13 PM" src="https://user-images.githubusercontent.com/79372956/158480398-bcfd4124-0d9b-4b6d-a04b-5fbbfb38de40.png">
 
 -   If both home and mailing are successfully updated after modal flow, two success alerts are shown on the Contact info page. **Why two?** Discussed that having the two alerts does best follow alert guidelines in the design system and logic used elsewhere "after something happens." Best follows user's mental model at this point.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/double_success_alert.png" />
+
+### Modal 
+
+-   Modal flow includes 1) Home address update confirmation & prompt to update mailing and 2) Mailing address update confirmation
+
+<img width="1187" alt="Screen Shot 2022-03-15 at 3 10 44 PM" src="https://user-images.githubusercontent.com/79372956/158480885-9f0f5195-4e1d-4344-abbf-34e0edceb8a1.png">
+
+
+-   If mailing address cannot be updated during modal flow, ~~in-line error message will appear above the modal buttons - and follow the regular design system guidelines as if this were a page. Following these patterns, this can be retried a few times (guidelines should be in design system) and then at some point close becomes the only option.~~ **UPDATE:** This design has been changed to use a separate error alert modal, rather than the in-line alert. The in-line alert created problems with the FE implementation, was too lengthy for mobile, and gave the user error information without providing a clear next step.
+
+<img width="1205" alt="Screen Shot 2022-03-15 at 3 01 38 PM" src="https://user-images.githubusercontent.com/79372956/158479841-9a673703-d9da-4d1c-b4ff-223276410a6a.png">
+
+### Checkbox content
+
+Checkbox content has been changed to "Use my mailing address for my home address." This phrasing was used in user research and tested well, with participants understanding that checking this box would autopopulate the fields with the mailing address information.
+
+<img width="682" alt="Screen Shot 2022-03-15 at 3 03 21 PM" src="https://user-images.githubusercontent.com/79372956/158480246-94ae60cb-2f2a-4e02-bab7-eb0293c369c9.png">
+
+
+### Checkbox behavior
+
+-   If checkbox is checked, auto populates with address and user still needs to press save/update 
+-   Unchecking the box removes everything from the fields/completely wipes it
+-   Editing the fields unchecks the checkbox
 
 ### Checkbox and modal use
 **Why not include the checkbox in the mailing field as well as the home field?** 
@@ -66,13 +86,10 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 ### How to help avoid confusion between the two addresses?
 
-Hint text will help users distinguish between home & mailing address and will be added to this project.
+Hint text will help users distinguish between home & mailing address and will be added to this project. **UPDATE:** Hint text was added to both Mailing and Home fields.
 
-### Checkbox behavior
+<img width="520" alt="Screen Shot 2022-03-15 at 3 13 22 PM" src="https://user-images.githubusercontent.com/79372956/158481197-41a77787-5516-4c33-b56f-4b79405e40d1.png">
 
--   If checkbox is checked, auto populates with address and user still needs to press save/update 
--   Unchecking the box removes everything from the fields/completely wipes it
--   Editing the fields unchecks the checkbox
 
 ### How to handle scenarios where address entered is not in the USPS database? 
 
@@ -84,7 +101,7 @@ Address validation changes are out of scope for this.
 
 ### Military base checkbox
 
-There is a scenario where someone could have a military address for their mailing address, but does NOT have the "I live on a United States military base. Discovery around this has been added to the backlog for further exploration at a later date.
+There is a scenario where someone could have a military address for their mailing address, but does NOT have the "I live on a United States military base. Discovery around this has been added to the backlog for further exploration at a later date. **NOTE: Image is from staging, so checkbox text is not in line with the new designs.**
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/military_base_checkbox.png" />
 
