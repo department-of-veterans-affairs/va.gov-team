@@ -84,7 +84,7 @@ The most critical path iteams are listed below but do not represent the total of
 - [VAMC product demo environment training](VACMS-product-demo-environments-training.pdf)
 
 ### Design-research
-- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources)
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources) | March 2022
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/discovery)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research)
 - [Research summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research#vamc-research-readme)
