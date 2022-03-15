@@ -62,7 +62,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
 
 
-**3. Decisions were made at the page level, although there was some consideration to splittling content**
+**3. Decisions were made at the page level, although there was some consideration to splitting content**
 - Although their worksheets didn't reference it as a decision, some individuals considered how content could potentially be broken up between the benefit hub and R&S.
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
 
@@ -107,7 +107,6 @@ The 5-10 top findings from your study should be listed here. Write your findings
 - Define "core" versus "supplemental"
 
 **Improve formatting to ensure that criteria 5 is only referenced in correct scenarios**
-
 
 
 ## Next Steps
