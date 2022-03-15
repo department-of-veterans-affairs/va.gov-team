@@ -55,61 +55,75 @@ The backend business logic will mirror the process explained in the background a
 New endpoint data structure:
 ```json
 {
-   "data":[
-      {
-         "type":"optometry",
-         "eligible":"true",
-         "cc":[
+   "data": {
+      "type": "schedule-appointment",
+      "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
+      "attributes": {
+         "services": [
             {
-             "name": "Cheyenne VA Medical Center",
-               "city": "Cheyenne",
-               "state": "WY",
-               "eligible": {
-                  "request": "false",
-                  "request_reason": "Does not provide chosen service",
-                  "direct": "false",
-                  "direct_reason": "nil"   
-               }
-            },
-            {
-               "facility_info": "test"
-            }
-         ],
-         "cc_providers": [
-            {
-               "name": "Ashinoff, Stephen",
-               "address": "31-75 23rd st, Long Island City, NY 11106",
-               "distance": "0.7 Miles"
-            }
-         ],
-         "va":[
-            {
-               "name": "Cheyenne VA Medical Center",
-               "city": "Cheyenne",
-               "state": "WY",
-               "cerner": "true",
-               "eligible": {
-                  "request": "false",
-                  "request_reason": "Non-primary facility with no visit within 12-24 months",
-                  "direct": "false", 
-                  "direct_reason": "nil"
-               }
-            },
-            {
-               "name": "Dayton VA Medical Center",
-               "city": "Dayton",
-               "state": "OH",
-               "cerner": "true",
-               "eligible": {
-                  "request": "true",
-                  "request_reason": "nil",
-                  "direct": "false", 
-                  "direct_reason": "nil"
-               }
-            }
-         ]
+               "type":"optometry",
+               "eligible":"true",
+               "cc":[
+                  {
+                     "name": "Phoenix CC center",
+                     "city": "Phoenix",
+                     "state": "AZ",
+                     "eligible": {
+                        "request": "false",
+                        "request_reason": "Does not provide chosen service",
+                        "direct": "false",
+                        "direct_reason": "nil"   
+                     }
+                  },
+                  {
+                     "name": "Sun Valley CC Center",
+                     "city": "Sun Valley",
+                     "state": "OH",
+                     "eligible": {
+                        "request": "true",
+                        "request_reason": "nil",
+                        "direct": "false", 
+                        "direct_reason": "nil"
+                     }
+                  }
+               ],
+               "cc_providers": [
+                  {
+                     "name": "Ashinoff, Stephen",
+                     "address": "31-75 23rd st, Long Island City, NY 11106",
+                     "distance": "0.7 Miles"
+                  }
+               ],
+               "va":[
+                  {
+                     "name": "Cheyenne VA Medical Center",
+                     "city": "Cheyenne",
+                     "state": "WY",
+                     "cerner": "true",
+                     "eligible": {
+                        "request": "false",
+                        "request_reason": "Non-primary facility with no visit within 12-24 months",
+                        "direct": "false", 
+                        "direct_reason": "nil"
+                     }
+                  },
+                  {
+                     "name": "Dayton VA Medical Center",
+                     "city": "Dayton",
+                     "state": "OH",
+                     "cerner": "true",
+                     "eligible": {
+                        "request": "true",
+                        "request_reason": "nil",
+                        "direct": "false", 
+                        "direct_reason": "nil"
+                     }
+                  }
+               ]
+         }
+      ]
       }
-   ]
+   }
 }
 ```
 Note: Direct scheduling will be hardcoded to false until direct schedule feature is added.
