@@ -17,14 +17,6 @@ body:
       placeholder: AWS network architecture
     validations:
       required: true
-  - type: textarea
-    id: summary
-    attributes:
-      label: Summary
-      description: "Please summarize the topic in a few sentences:"
-      placeholder: Network path for public requests coming into VAEC AWS cloud environment and the systems and boundaries involved.
-    validations:
-      required: true
   - type: dropdown
     id: type
     attributes:
@@ -79,3 +71,11 @@ body:
       description: "If 'Other' is selected, please list the other topic(s) here:"
     validations:
       required: false
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "Please summarize the topic in a few sentences:"
+      placeholder: Network path for public requests coming into VAEC AWS cloud environment and the systems and boundaries involved.
+    validations:
+      required: true
