@@ -5,7 +5,7 @@ The current integration between the Facility Locator and Lighthouse does not all
 
 ## Current method: Backend talks to Lighthouse 
 
-Our publicly available endpoint accesses Lighthouse via an API keywhich is used by multiple applications.  
+Our publicly available endpoint accesses Lighthouse via an API key which is used by multiple applications.  
 
 As a publicly available endpoint, it is subject to DDos attacks. 
 
