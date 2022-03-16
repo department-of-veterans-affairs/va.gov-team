@@ -1,4 +1,4 @@
-# VSA 10-10CG sign as a representative hub
+# VSA 10-10CG Primary/Secondary Caregiver selection hub
 
 <br>
 
@@ -17,12 +17,12 @@
 <br>
 
 ## Feature background
-The sign as a representative feature enables a representative with authority to make health care decisions for the Veteran to sign the application on behalf of the Veteran. A representative must upload a document that proves that they have legal authority to make health care decisions for the Veteran.
+User story: As a Veteran and Caregiver/s applying for PCAFC, I want to be clear about the difference between a Primary and Secondary Caregiver. I want to know if there are different requirements and what benefits each one receives in order to apply for the correct one.
 
 
 
 ## UX research 
-Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated.
+Unrelated usability research studies have shown that users are unclear the difference between a Primary and Secondary Caregiver. A big reason for this is that the selection to apply for each of these is separated in the flow. Another reason is that people don't know what the difference between Primary and Secondary is- if there are different requirements (there aren't) and what benefits are different. 
 
 <br>
 
@@ -31,9 +31,9 @@ This table includes links to the individual design work products.
 
 | Screens | Links  
 | :--- | :--- | 
-| Exploratory Mockups | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/79BDE8AC-21C9-4FEF-B0FB-DA6E0C3990DD) 
+| Exploratory Mockup designs | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/79BDE8AC-21C9-4FEF-B0FB-DA6E0C3990DD) 
 | Future progressive exploratory flow | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/qerZvg2) 
-| Future progressive flow exploratory Mockups  | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/FDA98FA9-757B-4193-B52F-6C07B035DA59) 
+| Future progressive flow exploratory Mockup designs  | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/FDA98FA9-757B-4193-B52F-6C07B035DA59) 
 
 
 ## Engineering artifacts
@@ -53,8 +53,9 @@ Include notes about which Platform process was in use when this feature was in d
 
 ## Team members that worked on this
 - Dené Gabaldón | dene.gabaldon@va.gov -- UX researcher/designer
-- Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
+- Shawna Hein | shawna.hein@va.gov -- Design lead
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
+- Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
 
 
 <br>
