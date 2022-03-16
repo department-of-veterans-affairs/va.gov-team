@@ -4,11 +4,6 @@ title: "[Platform Arch WG]: "
 labels:
   - "platform-architecture-working-group"
   - "Internal Request"
-assignees:
-  - f1337
-  - thepipster
-  - td-usds
-  - mchelen-gov
 body:
   - type: markdown
     attributes:
@@ -18,7 +13,7 @@ body:
     id: topic
     attributes:
       label: Topic
-      description: What is the topic to discuss?
+      description: What is the title of the topic?
       placeholder: AWS network architecture
     validations:
       required: true
@@ -31,21 +26,32 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: "What is the type of the presentation?"
+      options:
+        - "ADR"
+        - "RFC"
+        - "Other"
+    validations:
+      required: true
+  - type: dropdown
     id: status
     attributes:
       label: Status
       description: "What is the status of the presentation?"
       options:
-        - "Not Ready"
         - "Ready"
+        - "Not Ready"
     validations:
       required: true
   - type: textarea
-    id: documentation
+    id: reference
     attributes:
-      label: Documentation
-      description: Please link to all documentation that will be covered.
-      placeholder: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/TechnicalArchitectureOverview.md
+      label: Reference
+      description: Please link to the reference document.
+      placeholder: https://vfs.atlassian.net/wiki/spaces/ECP/pages/2006417463/Record+architecture+decisions
     validations:
       required: false
   - type: textarea
