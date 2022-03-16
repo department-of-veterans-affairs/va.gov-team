@@ -127,7 +127,7 @@ This table includes links to the individual feature directory.
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 **Caregiver Program Business Unit Team**
-- Matt Brown| Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
+- Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
 - Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
 - Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
 - Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
