@@ -1,0 +1,21 @@
+# Important 10-10CG Google Analytics event labels
+
+- hca--submission
+- hca--submission-failed
+- hca--submission-failed-client
+- hca--submission-successful
+- hca--validation-failed
+- hca-continue-application
+- hca-file-uploaded
+- hca-form-apply
+- hca-form-reapply
+- hca-sip-form-load-failed
+- hca-sip-form-load-signed-out
+- hca-sip-form-loaded
+- hca-sip-form-prefill-failed
+- hca-sip-form-save-failed
+- hca-sip-form-save-failed-client
+- hca-sip-form-save-signed-out
+- hca-sip-form-saved
+- hca-sip-form-start-over
+- login-link-clicked-hcainfo
