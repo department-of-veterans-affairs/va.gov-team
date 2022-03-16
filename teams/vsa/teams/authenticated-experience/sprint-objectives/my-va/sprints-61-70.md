@@ -462,5 +462,18 @@ We are officially in pre-launch! So, we need to make sure anything outstanding f
 
 ### Payment info
 
-- Recruit for and conduct UAT (this assumes that the staging review was completed and no significant updates came out of it)
-- Privacy and security review
+- Basically all sprint 69 objectives since QA got derailed because of the BGS issue
+
+### On-site notifications
+
+- Taylor to continue connecting FE to backend
+- Towards the end of March, regroup with VANotify to determine their next steps/timelines
+
+### Explorations
+
+### General
+
+- Determine consistent pattern for aligning links when gray boxes are absent
+  - [Slack convo for context](https://dsva.slack.com/archives/C909ZG2BB/p1647458883128239?thread_ts=1647458244.002679&cid=C909ZG2BB)
+  - Will need Angela to mock up desired approach
+  - Taylor to implement desired approach
