@@ -18,7 +18,7 @@
 
 [Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
 
-[Our team, VA relationships, and meeting cadence](#Our-team-March-2022-team-roster)
+[Our team, VA relationships, and stakeholder meeting cadence](#Our-team-March-2022-team-roster)
 
 
 
@@ -144,7 +144,7 @@ This table includes links to the individual feature directory.
 
 
 
-### Meetings
+### Recurring stakeholder meetings
 
 - Touchbase with Va.gov & Platform Team for Caregivers
    - Caregivers business team, CARMA team, and VA.gov team meet
