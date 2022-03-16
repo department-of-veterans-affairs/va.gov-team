@@ -152,6 +152,8 @@ N/A
 ### Open Questions and Risks
 Will aggregating all external requests at the beginning of the process cause long load times? If so, we may want to precache results. 
 
+This uses new VAOS endpoints that have not yet been finalized. By the time we finalize our implementation, theirs should also be, but we will need to ensure that is the case, so consumed APIs don’t change out from underneath us. 
+
 Are endpoints we'll be consuming reliable enough to have a good user experience?
 
 ### Work Estimates
