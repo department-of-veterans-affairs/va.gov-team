@@ -47,14 +47,14 @@ In almost every 10-10CG usability research study we've conducted we have had mul
 The design is ready, but because of the complexity of this feature, we plan to conduct usability research once in staging (rather than UXpin) to ensure proper functionality and accessibility. 
 
 ## UX design
-There are two different directions to take design. Once is to have the user search and select their preferred facility. The other is to automatically route them to the closest facility based on their address postal code, but still allow for a manual edit/selection. 
+There are currently two different proposed design directions. One is to have the user search and select their preferred facility. The other is to automatically route them to the closest facility based on their address postal code, but still allow for a manual edit/selection. 
 
 
 This table includes links to the individual design work products.
 
 | Screens | Links  
 | :--- | :--- | 
-| Search and select mockup | [Sketch 1](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/GmY3qY5) [Sketch 2](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/7yEZv92)
+| Search and select mockup | [Sketch 1](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/GmY3qY5) and [Sketch 2](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/7yEZv92)
 | Selection states and Error | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/2D75EEBD-40EB-4F19-A2F7-1EB7CCF35952) 
 | Auto-populated mockup | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/a/eK4Vlw0) 
 | Exploratory Mockups | [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346) 
