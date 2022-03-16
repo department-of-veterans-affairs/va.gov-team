@@ -56,7 +56,7 @@ New endpoint data structure:
 ```json
 {
    "data": {
-      "type": "schedule-appointment",
+      "type": "appointment-eligibility",
       "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
       "attributes": {
          "services": [
