@@ -40,12 +40,13 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 
 ## Details of Findings
+
 **1. Content authors found the criteria to be helpful, easy to use, and led them to a confident decision.**
 - After the activity, the participants were asked to rate the criteria on helpfulness, ease of understanding, and decision confidence on a scale of 1-5, 1 being the lowest score and 5 being highest.
   - Ease of use averaged 4.4
   - Helpfulness of criteria averaged 4.2
   - Confidence in decisions averaged 4.4
-- In addition, the group agreed that having the criteria would be useful in explaining decisions to stakeholders. 
+- In addition, the group indicated that having the criteria would be useful in supporting and explaining decisions to stakeholders
 
 **2. Criteria #3 was the most challenging to answer**
 - The challenging aspects to this criteria were two-fold
@@ -62,17 +63,13 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
 
 
-**3. Even though an overall decision resulted in a benefit hub placement, participants identified content sections they felt did not meet the criteria for benefit hub placement.**
-- Most of the group was able to identify content sections within pages that didn't seem to fit the critiera for benefit hub placment
-- there was strong interest in breaking up content for R&S placement **
-- Although the group received instructions that splitting pages up was allowed, everyone in the group answered with a single placement decision for each content page they reviewed. 
-- Everyone in the group mentioned the idea of splitting content between the hub and R&S experiences at least once
-- Often they would refer to the criteria to show how a specific section did not meet the criteria for benefit hub placement
+**3. Even though they made a single placement decision for each page, they often indentified sections of content in a page they considered for separate placement**
+- Everyone in the group mentioned sections of a content page that they considered for placement separate from the main content of the page
+- Although they indicated that a page should be placed in the benefit hubs, they identified content on the page they felt was a better fit for R&S
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
   - _"this might be one of those pages that's a split...some of it goes in the benefit hubs and some of it goes in R&S"_
+
 - For reference, 3 of the pages reviewed by the group (Agent Orange, PTSD, and Camp Lejeune) included sections that met the criteria for benefit hub placement, and other sections that met the criteria for R&S placement
-
-
 - 2/5 indicated they would place the Agent Orange page in R&S, the other pages received 0 responses for an R&S placement
 
 
