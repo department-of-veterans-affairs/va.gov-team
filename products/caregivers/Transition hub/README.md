@@ -147,7 +147,7 @@ This table includes links to the individual feature directory.
 
 - Touchbase with Va.gov & Platform Team for Caregivers
    - Caregivers business team, CARMA team, and VA.gov team meet
-   - Depending on the current projects we meet once a week or every other week
+   - Depending on the current projects we meet once a week or every other week for ~1 hour
 
 
 
