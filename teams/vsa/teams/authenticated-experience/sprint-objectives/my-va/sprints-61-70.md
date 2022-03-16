@@ -473,7 +473,4 @@ We are officially in pre-launch! So, we need to make sure anything outstanding f
 
 ### General
 
-- Determine consistent pattern for aligning links when gray boxes are absent
-  - [Slack convo for context](https://dsva.slack.com/archives/C909ZG2BB/p1647458883128239?thread_ts=1647458244.002679&cid=C909ZG2BB)
-  - Will need Angela to mock up desired approach
-  - Taylor to implement desired approach
+- Implement consistent pattern for aligning links when gray boxes are absent #38658 
