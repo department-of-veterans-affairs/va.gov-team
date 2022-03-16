@@ -213,8 +213,8 @@ Please request enough dates and time slots for the number of requested participa
 - Project point of contact: Samuel Vang (svang@clarityinnovates.com)
 - Participant(s) for pilot test: Naomi Marcussen (naomi.marcussen@oddball.io)
 - Note-takers: Perigean
-- Observers: Naomi Marcussen (naomi.marcussen@oddball.io), Nick Soutouras (Nick.Soutouras@oddball.io), Cody Reinold (cody.e.reinold@omb.eop.gov), John Rahaghiva(john.rahaghiva@gmail.com)
-
+- Observers: Naomi Marcussen (naomi.marcussen@oddball.io), Nick Soutouras (Nick.Soutouras@oddball.io), Cody Reinold (cody.e.reinold@omb.eop.gov), John Rahaghiva(john.rahaghiva@gmail.com), Clayton Zook (clayton.zook@oddball.io), Lauren Conrad (lauren.conrad@adhocteam.us)
+ 
  _**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**_    
 
 ## Previous research
