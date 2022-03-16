@@ -104,15 +104,15 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
+| Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
-| [Short form]() |Formally called "auto-qualify"| [In development]() |
-| [Facility selection]() | Also designed for 10-10CG use | [In design]() |
-| [Improve Household information section]() | N/A | [In discovery]() |
-| [SIGI]() | Self-identified gender identity | [In staging-ON HOLD]() |
-| [American Indian question]() | N/A | [In staging-ON HOLD]() |
-| [Notifications]() | Email notifications for in progress reminders and application submission | [In discovery]() |
-| [Add Medicare claim number]() | N/A | [In discovery]() |
+| [Short form]() |Formally called "auto-qualify"| In development|
+| [Facility selection]() | Also designed for 10-10CG use | In design |
+| [Improve Household information section]() | N/A | Not started |
+| [SIGI]() | Self-identified gender identity | In staging-ON HOLD |
+| [American Indian question]() | N/A | In staging-ON HOLD |
+| [Notifications]() | Email notifications for in progress reminders and application submission | In discovery |
+| [Add Medicare claim number]() | N/A | In discovery |
 
 
 <br>
