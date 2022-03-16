@@ -1,4 +1,4 @@
-# Important 10-10CG Google Analytics event labels
+# Important 10-10EZ Google Analytics event labels
 
 - hca--submission
 - hca--submission-failed
