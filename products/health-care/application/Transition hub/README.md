@@ -18,13 +18,13 @@
 
 [Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
 
-[Our team, VA relationships, and meeting cadence](#Our-team-March-2022-team-roster)
+[Our team, VA relationships, and stakeholder meeting cadence](#Our-team-March-2022-team-roster)
 
 
 <br>
 
 ## Product context 
-Team vision: A seamless online experience that allows Veterans and Caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
+The 10-10EZ: Application for VA health care was one of the first applications to be adapted to online on va.gov. Currently we are working to improve the UX and functionality. 
 
 - Used by Veterans to apply for health care
 - Approx. 8,000 submissions per month
@@ -51,19 +51,18 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 ### Product artifacts
 - [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/10-10EZ-application-copy.md)
 - [User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
-- [Important Google Analytics Event Labels]()
+- [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/analytics/Important%20Google%20Analytics%20event%20labels.md)
 - [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - [Use cases]()
 - [Call center guide](
 
 **Engineering**
-- [Architectural overview: example submissions flow]()
-- [High level view of systems](
+- [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20High-level%20Architecture.png)
 - [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/README.md)
 
 
 **Team resources**
-- [Team charter](
+- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md#what-we-work-on)
 - [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
 - [Quarterly planning Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923480744/cef1d0973dbaa76b14c1148dcce780af4f4285fe?sender=u940e2a1fd182724d6c379496)
 
@@ -73,15 +72,25 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 
 ## Roadmap
 
+**Past**
+- Locked MPI (name, SSN, DOB fields were previously editable) when logged in
+
 **Now**
-- Improve acce
+- Short form for 50% or greater service-connected disability
 
 **Next**
-- Improve U
+- Short form for combat status Veterans
+- Evaluate if some questions can be removed for all applicants 
+- Improve Household information section
+- Facility selection redesign
+- Add Medicare claim number
 
 
 **Future**
-- Notifications: Confirmation Email/text
+- Improve Military history section
+- Redesign screener at application start for unauthenticated users
+- Update address design to align with design system and add option for Veterans abroad address and homeless consideration
+- Notifications: In-progress reminders and Confirmation Email/text
 - Multilingual 
 
 
@@ -95,13 +104,12 @@ This table includes links to the individual feature directory and the latest ite
 | :--- | :--- | :--- |
 | [Short form]() |Formally called "auto-qualify"| [In development]() |
 | [Facility selection]() | Also designed for 10-10CG use | [In design]() |
-| [Household information section]() | N/A | [In discovery]() |
-| [Locked MPI]() | Veteran Name, DOB, SSN locked when authenticated | [In production]() |
-| [SIGI]() | Self-identified gender identity | [In staging]() |
-| [American Indian question]() | N/A | [In staging]() |
+| [Improve Household information section]() | N/A | [In discovery]() |
+| [SIGI]() | Self-identified gender identity | [In staging-ON HOLD]() |
+| [American Indian question]() | N/A | [In staging-ON HOLD]() |
 | [Notifications]() | Email notifications for in progress reminders and application submission | [In discovery]() |
 | [Add Medicare claim number]() | N/A | [In discovery]() |
-| [Redesign screener at application start for unauthenticated users]() | N/A | [Not started]() |
+
 
 <br>
 
@@ -135,7 +143,7 @@ This table includes links to the individual feature directory and the latest ite
 <br>
 
 
-### Meetings
+### Recurring stakeholder meetings
 
 - 10-10EZ Online Application Update
    - HEC team and VA.gov team meet
