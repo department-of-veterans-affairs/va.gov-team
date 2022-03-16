@@ -116,9 +116,9 @@ Include notes about which Platform process was in use when this feature was in d
 <br>
 
 ## UX researchers and designers
-- Person Name | email.address@va.gov -- UX researcher
-- Person Name | email.address@va.gov -- UX designer
-- Person Name | email.address@va.gov -- UX designer
+- Candy Clark | candace.clark@govcio.com -- Designer
+- Jim Adams | james.adams@govcio.com -- Designer
+- Nick Wygonik -- Researcher/designer
 
 <br>
 
