@@ -129,7 +129,7 @@ New endpoint data structure:
 Note: Direct scheduling will be hardcoded to false until direct schedule feature is added.
 
 ### Code Location
-In `vets-api`, a controller will be created called `schedule_appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
+In `vets-api`, 2 controllers will be created. one for checking eligibility called `appointment_eligibility_controller` and one for creating the appointment requests called `appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
 
 ### Testing Plan
 Specs will be written for each service, adapter and controller, to provide full code coverage.
