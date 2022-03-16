@@ -462,7 +462,13 @@ We are officially in pre-launch! So, we need to make sure anything outstanding f
 
 ### Payment info
 
-- Basically all sprint 69 objectives since QA got derailed because of the BGS issue
+This may need to adjust based on what we were able to get done in sprint 69 due to the QA delays, so if there were important things we didn't get done in sprint 69, we should move them over and adjust this list as necessary:
+
+- QA updates (for Design and FE, if applicable)
+- Finish prep and hold staging review
+- Submit privacy and security review (this is async)
+- UAT go/no-go (this can not be held until we have cleared all launch blocking issues from the staging review)
+- Stretch goal: Start recruiting for UAT if we are able to hold UAT go/no-go
 
 ### On-site notifications
 
