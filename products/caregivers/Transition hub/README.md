@@ -28,7 +28,7 @@
 ## Product context 
 Team vision: A seamless online experience that allows Veterans and Caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
 
-- Allows the caregivers of disabled Veterans to apply for benefits from the VA
+- Used by Veterans and Caregivers of disabled Veterans to apply for Caregiver benefits from the VA
 - Approx 4,000 submissions per month
 - Login is not available
 
