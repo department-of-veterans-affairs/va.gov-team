@@ -9,4 +9,5 @@
 - Christopher Froehlich - Engineering
 - Patrick Vinograd - Engineering
 - Lauryl Zenobi - Research
+- Jonathan Nelson - Design
 - Lauren Alexanderson - Sponsor
