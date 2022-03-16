@@ -3,7 +3,7 @@
 
 `James Adams, designer`
 
-`Work-in-progress`
+> **Transition note:** This study never conducted
 
 ---
 
