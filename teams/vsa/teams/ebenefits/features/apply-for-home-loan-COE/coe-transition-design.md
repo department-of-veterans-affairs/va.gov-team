@@ -1,5 +1,5 @@
 # VA home loan Certificate of Eligibility (COE) UX research and design hub
-**VSA eBenefits Migration**
+**VSA eBenefits Migration team**
 
 <br>
 
