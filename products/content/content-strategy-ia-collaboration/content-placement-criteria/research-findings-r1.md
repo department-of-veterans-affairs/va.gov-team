@@ -47,7 +47,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - Confidence in decisions averaged 4.4
 - In addition, the group agreed that having the criteria would be useful in explaining decisions to stakeholders. 
 
-**2. Criteria #3 proved to be the most challenging to understand**
+**2. Criteria #3 was the most challenging to answer**
 - The challenging aspects to this criteria were two-fold
   - Use of the words "core or supplemental benefit" was unclear
   - There was some uncertainty around "unique application or application process"
@@ -62,9 +62,20 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
 
 
-**3. Decisions were made at the page level, although there was some consideration to splitting content**
-- Although their worksheets didn't reference it as a decision, some individuals considered how content could potentially be broken up between the benefit hub and R&S.
+**3. Even though an overall decision resulted in a benefit hub placement, participants identified content sections they felt did not meet the criteria for benefit hub placement.**
+- Most of the group was able to identify content sections within pages that didn't seem to fit the critiera for benefit hub placment
+- there was strong interest in breaking up content for R&S placement **
+- Although the group received instructions that splitting pages up was allowed, everyone in the group answered with a single placement decision for each content page they reviewed. 
+- Everyone in the group mentioned the idea of splitting content between the hub and R&S experiences at least once
+- Often they would refer to the criteria to show how a specific section did not meet the criteria for benefit hub placement
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
+  - _"this might be one of those pages that's a split...some of it goes in the benefit hubs and some of it goes in R&S"_
+- For reference, 3 of the pages reviewed by the group (Agent Orange, PTSD, and Camp Lejeune) included sections that met the criteria for benefit hub placement, and other sections that met the criteria for R&S placement
+
+
+- 2/5 indicated they would place the Agent Orange page in R&S, the other pages received 0 responses for an R&S placement
+
+
 
 
 **4. Consistency of decisions...what about accuracy?**
