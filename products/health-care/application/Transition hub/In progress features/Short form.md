@@ -1,4 +1,4 @@
-# VSA short form hub
+# VSA 10-10EZ short form hub
 
 <br>
 
@@ -29,10 +29,7 @@ This table includes links to the individual research studies.
 
 | Study | Research folder
 | :--- | :--- | 
-| Usability Round 1 (February 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021) 
-| Usability Round 2 (April 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
-| Content specific research (November 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research)
-| Usability Round 3 (January 2022) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research)
+| Usability Round 1 (February 2021) | [Research folder](
 
 
 <br>
