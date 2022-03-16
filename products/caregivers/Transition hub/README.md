@@ -41,7 +41,7 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 - [Staging link](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product/product-outline.md)
-- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md#:~:text=Product%20Outline-,Product%20Guide,-Submission%20Process)
+- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/Online-10-10CG-Product-Guide-Updated-05.26.2021.docx)
 - Analytics dashboard: [Domo](https://va-gov.domo.com/page/1905395623?userId=1492182741) (Original dashboard, no longer maintained), [Domo](https://va-gov.domo.com/page/447193050) (New consolidated forms dashboard), and [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20210501&_u.date01=20210524/)
 
 
