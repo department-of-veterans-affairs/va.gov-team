@@ -1,4 +1,6 @@
 # My HealtheVet (MHV) Personal Information: Stakeholder Interviews
+3/16/2022
+Liz Lantz, VSA Authenticated Experience
 
 ## Background
 We interviewed MHV stakeholders to better understand their expectations for the transition to a single profile for Veterans. What we learned will inform our approach toward a strategy for how we might provide a single profile experience for Veterans on VA.gov
@@ -9,12 +11,12 @@ We interviewed MHV stakeholders to better understand their expectations for the 
 3. Determine if we need to talk to coordinators and help desk staff
 
 ## Who we spoke to
-1. Nancy Wilck, 
-2. Carnetta Scruggs, MHV lead
+1. Nancy Wilck, Director of Connected Health Implementation
+2. Carnetta Scruggs, MHV Product Owner
 3. Theresa Hancock, Director, VHCIO (MHV product lead)
 4. Susan Haidary, MHV Coordinator Lead
 5. Brenda Torres-Hill,  Deputy Associate Director, MHV Help Desk
-6. Tricia Henry, ⭐ *did you intend to add Tricia's title?*
+6. Tricia Henry, MHV Product Owner
 7. VA.gov Identity team
 
 ## Summary
@@ -33,7 +35,7 @@ All stakeholders we spoke with shared a sentiment that the patient experience ne
 Overall goals mentioned by the MHV product lead were (not only for the personal information section, but for the entire transition):
 - Ensure we are not disruptive to a patients ability to manage their health care.
 - Avoid creating an experience where patients have to go back and forth between multiple places to update their profiles (or access other health information).
-- Maintain Foresee satisfaction scores. ⭐*It might make sense to note that their scores are very high and consistenly outrank all of VA*
+- Maintain Foresee satisfaction scores, which are consistently very high, if not the highest among VA business lines. 
 - Create an experience where patients find value in what we’re providing and want to come back.
 
 **Implications:** 
@@ -49,7 +51,7 @@ MHV stakeholders expect that as part of the transition to a single profile, data
 
 ### The MHV team has audited and planned for the majority of fields in the MHV profile; MHV notification settings will be a confirmed change to VA.gov profile.
 
-For the most part, stakeholders feel that only data points that are part of a Veteran’s record (*not* self-entered into MHV, such as `blood type`) should come over from MHV to the VA.gov profile.  [This spreadsheet contains field-by-field information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) about current plans for migration.  VA.gov’s profile already has the majority of the data points (first name, last name, date of birth, email, contact information, etc).
+For the most part, stakeholders feel that only data points that are part of a Veteran’s record (*not* self-entered into MHV, such as `blood type`) should come over from MHV to the VA.gov profile.  [This spreadsheet contains field-by-field information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) about current plans for migration.  VA.gov’s profile already has the majority of the data points (first name, last name, date of birth, email, contact information, etc).I
 
 There are a few fields and sections of Personal Information stakeholders agree we need to learn more about from the Veteran perspective before figuring out whether or not they’ll be useful to patients in a VA.gov profile.
 - What is your relationship to VA? (Field)
