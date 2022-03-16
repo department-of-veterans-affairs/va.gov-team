@@ -19,5 +19,4 @@
 
 | Test | Additional info about test | Test Complete (yes/no) | Findings | Test Performed By |
 | ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |------------------ |
-| Test with axe-coconut (recommended)| [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)| ... | ... |...|
 | Test with WAVE (recommended) | [read more about the WebAIM WAVE tool](https://wave.webaim.org/)| ... | ... |...|
