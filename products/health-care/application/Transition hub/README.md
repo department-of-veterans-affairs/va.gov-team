@@ -6,21 +6,87 @@
 >
 > The purpose of this transition document is to outline the current state of 1010-EZ product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 > 
-> **Note:** The 10-10EZ management was under the purview of the VSA-Caregivers team, thus you will notice that some links lead to va.gov-team/products/caregivers/10-10EZ/. Moving forward 10-10EZ documentation should live in va.gov-team/products/health-care/application/va-application/
+> **Note:** The 10-10EZ management was under the purview of the VSA-Caregivers team, thus you will notice that some links lead to va.gov-team/products/caregivers/10-10EZ/. Moving forward 10-10EZ documentation should live in va.gov-team/products/health-care/application/va-application/ If you're looking for information about the 10-10CG (Caregiver application) visit [10-10CG Transition Hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/README.md).
 
 
 <br>
 
 ## Table of Contents
-[Features and initiatives we worked on](#features-and-initiatives-we-worked-on)
+[Product context, portfolio, and artifacts](#product-context)
 
-[Our UX research resources](#our-ux-research-resources)
+[Roadmap](#roadmap)
 
-[Our UX design resources](#our-ux-design-resources)
+[Features and initiatives we worked on](#Features-and-initiatives-we-worked-on)
 
-[Our team](#our-team)
+[Our team, VA relationships, and meeting cadence](#Our-team-March-2022-team-roster)
+
 
 <br>
+
+## Product context 
+Team vision: A seamless online experience that allows Veterans and Caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
+
+- Used by Veterans to apply for health care
+- Approx. 8,000 submissions per month
+- Login is available, but not required
+     - Some fields are prefilled for authenticated users
+     - Authenticated users can "save in progress" and return to complete their application
+
+
+<br>
+
+
+### Product portfolio
+**10-10EZ Application VA health care**
+- [Staging link](https://staging.va.gov/health-care/apply/application/introduction)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/HCA.Product.Guide.docx)
+- Analytics dashboard: [Domo](https://va-gov.domo.com/page/980067552) (Original dashboard, no longer maintained), [Domo](https://va-gov.domo.com/page/447193050) (New consolidated forms dashboard), and [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20210301&_u.date01=20210524/)
+
+
+<br>
+
+
+### Product artifacts
+- [Content source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/10-10EZ-application-copy.md)
+- [User flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
+- [Important Google Analytics Event Labels]()
+- [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- [Use cases]()
+- [Call center guide](
+
+**Engineering**
+- [Architectural overview: example submissions flow]()
+- [High level view of systems](
+- [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/README.md)
+
+
+**Team resources**
+- [Team charter](
+- [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
+- [Quarterly planning Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923480744/cef1d0973dbaa76b14c1148dcce780af4f4285fe?sender=u940e2a1fd182724d6c379496)
+
+
+<br>
+
+
+## Roadmap
+
+**Now**
+- Improve acce
+
+**Next**
+- Improve U
+
+
+**Future**
+- Notifications: Confirmation Email/text
+- Multilingual 
+
+
+<br>
+
 
 ## Features and initiatives we worked on
 This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
@@ -39,106 +105,44 @@ This table includes links to the individual feature directory and the latest ite
 
 <br>
 
-## Our UX research resources
-We used these UX research resources during design and development.
 
-### References
-- [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
-
-### Templates
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
-
-<br>
-
-## Our UX design resources
-We used these UX design resources to guide our design and development.
-
-### Design system
-- [VA.gov Design System](https://design.va.gov/)
-- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
-- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
-- [USDS Design System](https://designsystem.digital.gov/)
-- [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
-
-### Content resources
-- [Content writing](https://design.va.gov/content-style-guide/)
-- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
-
-### Accessibility (Section 508)
-- [Internal 508 checklist]()
-- [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
-
-<br>
-
-## Our UX research/design process
-Add team-specific process documentation; add notes.
-
-- [Team process doc]()
-- [Reference doc]()
-- [Reference doc]()
-
-<details>
-  <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
-
-Outline your process; add notes.
-  
-1. Analyze existing feature (analytics from va.gov and ES (enrollment system)
-2. Conduct discovery research on existing feature
-3. Synthesize analysis and research into lo-fi screens and flows
-4. Present synthesis/lo-fi visuals at design review
-5. Improve fidelity of screens and flows
-6. Provide content for sitewide review
-7. Present refined mockups at mid-point review
-8. Conduct usability testing
-9. Refine/finalize screens and flows
-10. Review feature in staging
-11. Second usability testing round
-12. Review feature in production (if possible)
-13. Conduct user acceptance testing
-</details>
-
-<details>
-  <summary><strong>Design tools we used</strong> (Click to show details)</summary><br>
-
-List your tools; add notes.
-  
-- [Sketch for Teams](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6)
-- [UXPin](https://app.uxpin.com/dashboard/project/2376370)- At the making of this document, the only prototype is for the short form
-- Mural- [Exploratory,](https://app.uxpin.com/dashboard/project/2376370) [flow,](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027) [Priority matrix,](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027)
-- Github markdown
-</details>  
-
-### VA.gov collaboration cycle
-- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
-- [Other platform references used]()
-- [Other platform references used]()
-
-<br>
-
-## Our team
-
-### March 2022 team roster
+## Our team March 2022 team roster
 
 - Sharon Kasimow | sharon.Kasimow@va.gov -- Team product manager
-- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
-- Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
-- Danielle Thierry | danielle.thierry@va.gov -- Content writer
 - Dené Gabaldón | dene.gabaldon@va.gov -- UX designer/researcher
-- Lauren Alexanderson | lauren.alexanderson@va.gov -- Product owner
-- Christopher Froehlich | christopher.froehlich@va.gov -- Product owner
-
-### Other team members
-
+- Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
+- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
 - Lihan Li | lihan@adhocteam.us -- Backend engineer
 
+## VA relationships
 
-### Team resources
-- [Team Github directory]()
-- [Team Zenhub board](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/board)
+- Lauren Alexanderson | lauren.alexanderson@va.gov -- Product owner
+- Christopher Froehlich | Christopher.Froehlich@va.gov -- Product owner
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
+
+**HEC (Health Eligibility Center) Program Team**
+- Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
+- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
+- Dionne Dent-Lockett  | dionne.dent-lockett@va.gov  --  Director, HEC
+- Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
+- Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
+- Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
+
+**Enrollment System (ES)**
+- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD
+
+
+<br>
+
+
+### Meetings
+
+- 10-10EZ Online Application Update
+   - HEC team and VA.gov team meet
+   - We meet every other week for ~1 hour
+
+
 
 <br>
 
 ---
-
