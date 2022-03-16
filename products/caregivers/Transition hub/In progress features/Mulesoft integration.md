@@ -22,6 +22,7 @@ User story: As a va.gov user I would like to know when my online 10-10CG has bee
 
 ## Engineering artifacts
 - [Architecture design](https://images.zenhubusercontent.com/5fb57aafa11eae0592a15cb1/223bdd9f-e95a-4611-b294-7e4f4cd480a6)
+- [CARMA + Mulesoft integration roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/roadmap%20-%20carma%20mulesoft%20integration.pdf)
 
 ## Zenhub epics
 - [Prepare for and Transition 10-10CG from direct-to-Salesforce to MuleSoft-to-Salesforce](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/31307)
