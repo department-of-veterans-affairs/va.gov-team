@@ -6,9 +6,9 @@ Liz Lantz, VSA Authenticated Experience
 We interviewed MHV stakeholders to better understand their expectations for the transition to a single profile for Veterans. What we learned will inform our approach toward a strategy for how we might provide a single profile experience for Veterans on VA.gov
 
 ## Goals
-1. Learn stakeholder expectations
-2. Understand if there is anything else we should be considering that 
-3. Determine if we need to talk to coordinators and help desk staff
+1. Learn stakeholder expectations.
+2. Understand if there is anything else we should be considering that we haven't thought about.
+3. Determine if we need to talk to coordinators and help desk staff.
 
 ## Who we spoke to
 1. Nancy Wilck, Director of Connected Health Implementation
