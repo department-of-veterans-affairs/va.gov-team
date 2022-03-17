@@ -1,6 +1,5 @@
 # My HealtheVet (MHV) Personal Information: Stakeholder Interviews
-3/16/2022
-
+3/17/2022
 Liz Lantz, VSA Authenticated Experience
 
 ## Background
@@ -20,14 +19,14 @@ We interviewed MHV stakeholders to better understand their expectations for the 
 6. Tricia Henry, MHV Product Owner
 7. VA.gov Identity team
 
-## Summary
+## Findings Summary
 1. Above all else, we need to keep the patient experience at the forefront of our work.
-2. MHV stakeholders expect a single source for Veteran profile data.
-3. The MHV team has audited and planned for the majority of fields in the MHV profile; MHV notification settings will be a confirmed change to VA.gov profile.
-4. There is some uncertainty whether health data fields belong in a health section or a personal profile.
-5. The MHV team is working incrementally toward having Veterans manage their profile information on VA.gov instead of My HealtheVet; the first big step forward is planned for September 2022.
-6. MHV coordinators and help desk staff do not reference information from the MHV personal information to assist Veterans. 
-
+2. MHV stakeholders expect a single place for Veterans to manage their profile information, and have a desire to streamline Veteran data. 
+3. The MHV team has audited and planned for the majority of fields in the MHV profile; there are 4 sections we definitely need to get user feedback on.
+4. MHV notification settings will be a confirmed change to VA.gov profile.
+5. There is some uncertainty whether health data fields belong in a health section or a personal profile.
+6. The MHV team is working incrementally toward having Veterans manage their profile information on VA.gov instead of My HealtheVet; the first big step forward is planned for September 2022.
+7. MHV coordinators and help desk staff do not reference information from the MHV personal information to assist Veterans. 
 
 ## Findings Details
 ### Above all else, we need to keep the patient experience at the forefront of our work.
@@ -43,14 +42,19 @@ Overall goals mentioned by the MHV product lead were (not only for the personal 
 - Overall, this aligns with VA.gov’s philosophy, so we shouldn’t experience any friction with MHV teams as we prioritize the patient experience.
 - Further discussions with stakeholders on satisfaction score data may be needed, but that likely would not fall on our team to lead those.
 	
-### MHV stakeholders expect a single source for Veteran profile data. 
-Currently, data from the MHV personal information section is pulled from different sources. This varies by the account level a user has, and specific fields. For example, in a premium account, the data for first name is pulled from MPI, and the marital status stored in MHV. In a basic account, the first name is pulled from MHV because the account hasn’t been matched against any VA data sources.
+### MHV stakeholders expect a single place for Veterans to manage their profile information, and have a desire to streamline Veteran data. 
+Currently, Veterans can update profile information on VA.gov and MHV, and MHV stakeholders want Veterans to have only one place to manage this information.  Stakeholders shared mixed sentiment as to whether this should happen incrementally, or all at one time.
 
-MHV stakeholders expect that as part of the transition to a single profile, data will be stored and maintained and controlled in once place, VA Profile. 
+Data from the MHV personal information section is pulled from different sources. This varies by the account level a user has, and specific fields. For example, in a premium account, the data for first name is pulled from MPI, and the marital status stored in MHV. In a basic account, the first name is pulled from MHV because the account hasn’t been matched against any VA data sources.
 
-**Implication:** Since the VA.gov profile is already leveraging VA Profile’s data, their desire to use VA Profile and have single source of data will simplify the transition on our end.
+Stakeholders shared that they expect that as part of the transition to a single profile, data will streamlined and we can rely on VA Profile for Veteran’s profile data.
 
-### The MHV team has audited and planned for the majority of fields in the MHV profile; MHV notification settings will be a confirmed change to VA.gov profile.
+**Implication:**  
+- This expectation aligns with what our team would hope for Veterans managing their personal information.
+- Since the VA.gov profile is already leveraging VA Profile’s data, their desire to use VA Profile will simplify the transition on our end.
+
+
+### The MHV team has audited and planned for the majority of fields in the MHV profile; there are 4 sections we definitely need to get user feedback on.
 
 For the most part, stakeholders feel that only data points that are part of a Veteran’s record (*not* self-entered into MHV, such as `blood type`) should come over from MHV to the VA.gov profile.  [This spreadsheet contains field-by-field information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) about current plans for migration.  VA.gov’s profile already has the majority of the data points (first name, last name, date of birth, email, contact information, etc).I
 
@@ -58,13 +62,23 @@ There are a few fields and sections of Personal Information stakeholders agree w
 - What is your relationship to VA? (Field)
 - My VA treating facilities (field)
 - My Links (page under Personal information)
+- Health Information (page under Personal information)
 
-We are confident that the email notification settings from MHV will need to be migrated into VA.gov’s profile. VA Notify and MHV will soon start working together to determine a plan for that migration.
+For the “What is your relationship to VA?” field, stakeholders shared that this data is tied to the cost model on how MHV is funded, performance measures, and marketing in medical centers. It’ll be critical to confirm that IAM can match the role values to Veteran profiles before we determine whether or not we can eliminate this field completely.  
+
+We also learned that the “My VA treating facilities” field is a MHV feature that was never completed.  Stakeholders mentioned the ability to set preferences is critical for users who actively see doctors at multiple medical centers; VA patients in Spokane were cited as a specific example because half of those patients also go to Portland.
 
 **Implications**: 
 - We won’t need to add many new fields or data points to VA.gov profile in order to accommodate MHV users.
-- We need to get user input on the 3 fields above.
-- We need to start thinking about how notification settings will expand, especially since we don’t currently have any multi-channel notification options.
+- We need to get user input on specific parts of MHV’s personal information section; ideally, we can talk to some Veterans who are actively being treated in multiple medical centers.
+- More information is needed from IAM about matching VA relationship data to profiles.
+
+### MHV notification settings will be a confirmed change to VA.gov profile.
+
+We are confident that the email notification settings from MHV will need to be migrated into VA.gov’s profile. VA Notify and MHV will soon start working together to determine a plan for that migration.
+
+**Implication**: We need to start thinking about how notification settings will expand, especially since we don’t currently have any multi-channel notification options.
+
 	
 ### There is some uncertainty whether health data fields belong in a health section or a personal profile.
 Stakeholders felt that research should dictate whether or not things like “My VA treating facilities” and the health information card should be in a profile or in a health section, like the health apartment.
@@ -90,7 +104,7 @@ At some point, they will direct users to VA.gov to manage contact and profile in
 
 ### MHV coordinators and help desk staff do not reference information from the MHV personal information to assist Veterans. 
 
-MHV coordinators educate Veterans about My Healthevet, but don’t ever change information in the Personal Information section. If they need to refer to data about the Veteran, they’d use the data in the MHV data portal, which comes from MPI. Any non-MPI data in the MHV personal information section is only viewable and used by the account holder.
+MHV coordinators educate Veterans about My Healthevet, but don’t ever change information in the Personal Information section. If they need to refer to data about the Veteran, they’d use the data in the MHV admin portal, which comes from MPI. Any non-MPI data in the MHV personal information section is only viewable and used by the account holder.
 
 The help desk that supports MHV guides Veterans to navigate to parts of MHV if they reach out for help, but does not use data from the personal information section to provide that help.
 
