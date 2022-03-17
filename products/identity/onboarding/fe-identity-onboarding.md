@@ -37,9 +37,9 @@ A useful VSCode extension, [favorites](https://marketplace.visualstudio.com/item
 
 ## Requesting Access to SOCKS/AWS
 
-1. Create a [new issue using this link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=Environment-Access-Request-Template.yml&title=Access+for+%5Bindividual%5D) and follow the steps. You can see an [example here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16924)
-  a. SSH key is required for SOCKS. If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
-  b. AWS is optional and should be requested when needed
+1. To request SOCKS, create a [new issue using this link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=Access+for+%5Bindividual%5D) and follow the steps.
+  a. SSH key is required for SOCKS. If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions.
+2. AWS is optional and should be requested when needed. Use the [AWS access template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D) to request access.
 
 ## Requesting Access to Google Analytics
 
