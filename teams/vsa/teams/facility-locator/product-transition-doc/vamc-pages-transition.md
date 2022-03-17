@@ -54,6 +54,7 @@ As the roll-out has been completed, responsibility for content and field staff c
 The most critical path iteams are listed below but do not represent the total of issues on the backlog.
 
 ### Now
+- **Address any accessibility defects found during** [Accessibility Production Review #36974](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36974)
 - **Implement design iterations for hardened pages** including
   - **Medical records** - Epic [#37365](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37365)
     - Includes **Cerner link** [#35947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35947)
