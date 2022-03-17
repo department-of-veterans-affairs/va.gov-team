@@ -40,16 +40,25 @@ Currently, the `vets-website` scheduling feature is as follows:
   - `/facilities_api/v1/ccp/provider?{coordinate information}`
 - Choose desired date and times then schedule appointment request and post appointment request
   - `/vaos/v2/appointments` 
+  - Parameters example: {"kind":"clinic","status":"proposed","locationId":"983GC","serviceType":"optometry","reasonCode":{"coding":[{"code":"Other"}],"text":"Other"},"comment":"test","contact":{"telecom":[{"type":"phone","value":"7036753607"},{"type":"email","value":"helen.hoenig@va.gov"}]},"requestedPeriods":[{"start":"2022-03-17T00:00:00Z","end":"2022-03-17T11:59:00Z"}],"preferredTimesForPhoneCall":["Morning"]}
 
 ### High Level Design
-Implementation of this feature will largely follow the logic listed in the background, with the goal of improving the user experience. We will aggregate all consumed APIs at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
+Implementation of this feature will be broken into two endpoints. One to determine eligibility at facilities and one create the appointment requests. 
+
+#### Eligibility Endpoint 
+Eligibility endpoint will largely follow the logic listed in the background, with the goal of improving the user experience. We will aggregate all consumed APIs at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
    - Move any business logic from the front end to the back end 
    - Simplify overall backend and front complexity. 
    - Create a better UX experience. Users will know of a service and facility eligibility before selecting it and waiting for a response.  
 
+#### Create Appointment Request 
+Create appointment request endpoint will also mirror the same logic of posting appointment request with no changes.
+
 ## Specifics
 
 ### Detailed Design
+
+#### Eligibility Endpoint 
 The backend business logic will mirror the process explained in the background above except rather than only querying the selected service and facilities, we will query all registered facilities to create a comprehensive list. If load times get unacceptably long due to front loading all queries, we will explore pre-caching results.
 
 New endpoint data structure:
@@ -127,6 +136,9 @@ New endpoint data structure:
 }
 ```
 Note: Direct scheduling will be hardcoded to false until direct schedule feature is added.
+
+#### Create Appointment Request 
+This endpoint will act as a pass through directly passing the parameters given to the VAOS endpoint `/vaos/v2/appointments`  
 
 ### Code Location
 In `vets-api`, 2 controllers will be created. one for checking eligibility called `appointment_eligibility_controller` and one for creating the appointment requests called `appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
