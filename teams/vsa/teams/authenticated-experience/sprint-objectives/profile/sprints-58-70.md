@@ -566,7 +566,6 @@ Marci, talk to Liz about exactly which interviews she thinks she'll complete thi
 
 **PM**
 
-- Midpoint review prep
 - Start on QA use cases (this will not be completed yet)
 - Figure out how we can get a staging user with the bad address indicator for testing (might require working with VA Profile)
 
