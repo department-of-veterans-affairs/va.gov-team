@@ -533,6 +533,57 @@ Marci, talk to Liz about exactly which interviews she thinks she'll complete thi
 
 ## Sprint 70 (3/23 - 4/5)
 
+### Personal information
+
+**PM**
+
+- Call center guide
+- Determine when we can do QA based on new BE timeline
+  - Still waiting on a date from VA Profile when they will be fully ready in staging
+
+**Design**
+
+- Change gender identity BACK to single select
+- Create mockups showing preferred name/gender identity without the other fields
+  - Does not need to be all mockups, and don't need to delete mockups with four fields
+  - Maybe just a few mockups -- one that shows the two fields as read only; one for each state in edit mode
+  - If you need more for the call center guide, feel free to create as necessary
+- Call center guide
+
+**FE**
+
+- Change gender identity BACK to single select
+- Implement final design updates
+- Create separate gates for preferred name and gender identity; pronouns and sexual orientation
+  - Hide pronouns/sexual orientation on the frontend as part of the gate
+
+**BE**
+
+- Continue BE integration
+- Determine how our approach changes given separate launch of pronouns and sexual orientation
+
+### Bad address indicator
+
+**PM**
+
+- Midpoint review prep
+- Start on QA use cases (this will not be completed yet)
+- Figure out how we can get a staging user with the bad address indicator for testing (might require working with VA Profile)
+
+**Design**
+
+- Design intent if it didn't happen
+- Finalize designs/Design updates from design intent
+- FE documentation
+
+### MHV research
+
+User research prep
+
+- Research plan
+- Convo guide
+- Start recruiting if there is time
+
 ### Address change messaging
 
 **PM/Design**
@@ -547,4 +598,4 @@ Marci, talk to Liz about exactly which interviews she thinks she'll complete thi
 
 **FE**
 
-- Update prescriptions notification show it conditionally shows to additional facilities #38187
+- Update prescriptions notification to show for additional facilities #38187
