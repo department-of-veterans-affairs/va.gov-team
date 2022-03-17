@@ -19,8 +19,11 @@
 
 ### Project-specific setup
 
-- [ ] Get the prototype link ready on hand to share
-- [ ] Get the email prototype link or PDF ready on hand to share
+- [x] Get the prototype link ready on hand to share
+    - [x] [VA.gov Modal MHV Transition](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Account-Transition?page-id=43%3A93&node-id=43%3A94&viewport=379%2C48%2C0.07&scaling=scale-down-width&starting-point-node-id=43%3A94&show-proto-sidebar=1)
+    - [x] [Login.gov Inherited Proofing Flow](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Account-Transition?page-id=421%3A1885&node-id=447%3A4390&viewport=379%2C48%2C0.02&scaling=scale-down-width&starting-point-node-id=447%3A4390)
+- [x] Get the email prototype link or PDF ready on hand to share
+    - [x] [VA.gov Modal MHV Transition - Email Flow](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Account-Transition?page-id=43%3A93&node-id=328%3A1615&viewport=379%2C48%2C0.07&scaling=scale-down-width&starting-point-node-id=328%3A1615&show-proto-sidebar=1)
 - [ ] Review recruitment PDF for addtional participant information
 
 ---
