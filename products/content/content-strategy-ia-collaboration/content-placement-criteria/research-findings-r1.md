@@ -41,26 +41,26 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 ## Details of Findings
 
-**1. Content authors found the criteria to be helpful, easy to use, and led them to a confident decision.**
+**1. Content authors found the criteria to be helpful and easy to use, and led confident decision making.**
 - After the activity, the participants were asked to rate the criteria on helpfulness, ease of understanding, and decision confidence on a scale of 1-5, 1 being the lowest score and 5 being highest.
   - Ease of use averaged 4.4
   - Helpfulness of criteria averaged 4.2
   - Confidence in decisions averaged 4.4
 - In addition, the group indicated that having the criteria would be useful in supporting and explaining decisions to stakeholders
 
-**2. Criteria #3 was the most challenging to answer**
-- The challenging aspects to this criteria were two-fold
-  - Use of the words "core or supplemental benefit" was unclear
-  - There was some uncertainty around "unique application or application process"
-- "Core" versus "supplemental" benefit
-  - When prompted to define the difference, responses ranged - one felt that if there's a specific application or form to fill out, it's supplemental, even if its the same form as the main benefit, while another questioned if core is what everyone is given and supplemental is based on unique circumstances.
-  - When the group was asked if they agreed with the definitions given, besides a slight head nod from one person, the group did not provide a response back in agreement or disagreement.
-  - _"...I did spend a lot of time on the core vs. supplemental. I don't know why I struggled with it because it didn't say you had to do anything different for the 2, but I think I know enough to be dangerous and found myself thinking that those terms are important and wanting to define them."_
-- "Unique application or application process" 
-  -  The group discussed if "application process" included anything specific you had to do to get ready to apply or after you apply.  Additional evidence was given as an example. 
-  -  It was noted a couple of times in discussions and their worksheets that individuals looked for reference or a link to an application or form, and when found answered "yes" to this question. 
-    -  _"They have to file for disability benefits, but then also have to file 1 of 2 additional forms."_  
-  - One suggestion that gathered some agreement, was to split the criteria to call out unique application and unique process as separate questions.  
+**2. The language "core or supplemental benefit" was not clear to the group**
+- The terminology "core or supplemental benefit" used in criteria 3 was not understood
+  - On participant felt that if there's a specific application or form to fill out, it's supplemental, this included if they have to fill out the main benefit form a second time. 
+  - Another participant wondered if "core" referred to what everyone receives, where as "supplemental" is based on unique circumstances
+  - When the group was asked if they agreed with any of the definitions given, besides a slight head nod from one person, the group did not really provide a response back in agreement or disagreement.
+  - _"...I did spend a lot of time on the core vs. supplemental. I don't know why I struggled with it because it didn't say you had to do anything different for the them, but I think I know enough to be dangerous and found myself thinking that those terms are important and wanting to define them."_
+
+**3. The clause "a unique application or application process" was not clear to the group**
+- Participants mentioned and noted in their worksheets when content referenced a specific application or form, and if it did, they oftent answered "yes" to this criteria
+  - _"I was looking for is there an application there, is there a link to an application"_ 
+- There was, however, some uncertainty around what was included in "application process" 
+    -  _"...thinking "application process"...does that include additional evidence that's way more extensive than what would often be required? I took it not to mean evidence."_  
+    -  _"for the process, does that mean what you have to do in the form, or things you need to get ready to do the application...getting ready to, plus doing the thing, plus the afer"
 
 
 **3. Even though they made a single placement decision for each page, they often indentified sections of content in a page they considered for separate placement**
