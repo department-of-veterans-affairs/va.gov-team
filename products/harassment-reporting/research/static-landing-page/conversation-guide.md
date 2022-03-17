@@ -1,5 +1,5 @@
 # Conversation Guide: Harassment Reporting Landing Page & Poster
-Public Websites team, Feb 25, 2022
+Public Websites team, Mar 16, 2022
 
 ## Moderator logistics
 
@@ -68,8 +68,8 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
 - **In this session, we want to get your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing these resources to learn how we can make them better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
 - **If for any reason and at any time you want to take a break or stop the session, please let me know.** You can take a break from the session or end it altogether. You will not lose your stipend or be penalized in any way if we need to stop.
-- I will be sharing a web page URL with you during the session. **How would you prefer to receive the URL?** 
-  - I could read it to you or put it in the Zoom chat. Which would you prefer? 
+- I will be sharing a web page URL with you during the session.  
+  - I could read it to you or put it in the Zoom chat. **Which would you prefer?**
     
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?** 
 
@@ -86,7 +86,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 - Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose "Screen" or your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_. Might have to click "unlock" to be able to change the setting.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
@@ -98,7 +98,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says **Chat**. 
     - *If don't see chat, ASK:* Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
-  - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
+  - Phone or computer: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handling Trauma-Triggering
@@ -209,6 +209,7 @@ What do you think will happen next?
 What other thoughts do you have about this page?
 - Feedback on the information in it?
 - Feedback on how the information is organized?
+- What do you think about the office hours for the phone #?
 
 ## Post-Task Interview - 15 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
