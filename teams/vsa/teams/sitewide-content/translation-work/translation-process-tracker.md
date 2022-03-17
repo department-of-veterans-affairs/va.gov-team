@@ -40,4 +40,4 @@
 | Omicron/booster updates | 12/7 | 12/7 |
 | Teen boosters | 12/13 | 12/13 |
 | Vaccine updates 3/1 | 3/1 | 3/1 | 3/11 | 3/11 | 3/11 | 3/1 | 3/14 | 
-| Updates to Currently available vaccines accordion on main hub page | 3/15 | 3/15 | 3/16 | 3/17 | 3/17 | 3/17 | 3/16 | 3/17 |
+| Updates to Currently available vaccines accordion on main hub page | 3/15 | 3/16 | 3/17 | 3/17 | 3/17 | 3/15 | 3/17 |
