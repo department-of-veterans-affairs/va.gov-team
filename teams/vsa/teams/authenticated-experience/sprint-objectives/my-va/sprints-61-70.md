@@ -477,6 +477,10 @@ This may need to adjust based on what we were able to get done in sprint 69 due 
 
 ### Explorations
 
+- Will determine next steps with Angela during out meeting on 3/21
+
 ### General
 
 - Implement consistent pattern for aligning links when gray boxes are absent #38658 
+- Payment info post-launch: Add loading animation for the payment section (this will match how we handle loading for claims and health care info)
+- Adding new Cerner facility to My VA Cerner alert #38508
