@@ -40,7 +40,7 @@ Currently, the `vets-website` scheduling feature is as follows:
   - `/facilities_api/v1/ccp/provider?{coordinate information}`
 - Choose desired date and times then schedule appointment request and post appointment request
   - `/vaos/v2/appointments` 
-  - Parameters example: {"kind":"clinic","status":"proposed","locationId":"983GC","serviceType":"optometry","reasonCode":{"coding":[{"code":"Other"}],"text":"Other"},"comment":"test","contact":{"telecom":[{"type":"phone","value":"7036753607"},{"type":"email","value":"helen.hoenig@va.gov"}]},"requestedPeriods":[{"start":"2022-03-17T00:00:00Z","end":"2022-03-17T11:59:00Z"}],"preferredTimesForPhoneCall":["Morning"]}
+  - See parameters listed in `Detailed Design` below
 
 ### High Level Design
 Implementation of this feature will be broken into two endpoints. One to determine eligibility at facilities and one create the appointment requests. 
@@ -138,7 +138,47 @@ New endpoint data structure:
 Note: Direct scheduling will be hardcoded to false until direct schedule feature is added.
 
 #### Create Appointment Request 
-This endpoint will act as a pass through directly passing the parameters given to the VAOS endpoint `/vaos/v2/appointments`  
+This endpoint will act as a pass through directly passing the parameters given to the VAOS endpoint `/vaos/v2/appointments`. 
+
+Parameters:
+```json
+{
+   "kind":"clinic",
+   "status":"proposed",
+   "locationId":"983GC",
+   "serviceType":"optometry",
+   "reasonCode":{
+      "coding":[
+         {
+            "code":"Other"
+         }
+      ],
+      "text":"Other"
+   },
+   "comment":"test",
+   "contact":{
+      "telecom":[
+         {
+            "type":"phone",
+            "value":"7036753607"
+         },
+         {
+            "type":"email",
+            "value":"helen.hoenig@va.gov"
+         }
+      ]
+   },
+   "requestedPeriods":[
+      {
+         "start":"2022-03-17T00:00:00Z",
+         "end":"2022-03-17T11:59:00Z"
+      }
+   ],
+   "preferredTimesForPhoneCall":[
+      "Morning"
+   ]
+}
+```
 
 ### Code Location
 In `vets-api`, 2 controllers will be created. one for checking eligibility called `appointment_eligibility_controller` and one for creating the appointment requests called `appointment_request_controller`. Serializers, models, and services will be placed in their corresponding folders in `modules/mobile/app`
