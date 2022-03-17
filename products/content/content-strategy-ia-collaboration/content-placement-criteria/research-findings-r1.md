@@ -89,6 +89,9 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
   
+**7. Speed of evaluations...**
+- The group was able to evaluate 5 pages of varying length within 30-35 minutes
+
 **7. The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
   - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
