@@ -13,6 +13,8 @@
 
 ## Sprint 71 (4/6 - 4/19) 
 
+- If applicable: Add Columbus, OH to list of Cerner facilities
+
 ## Sprint 72 (4/20 - 5/3)
 
 ## Sprint 73 (5/4 - 5/17)
