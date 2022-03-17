@@ -60,40 +60,28 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - _"I was looking for is there an application there, is there a link to an application"_ 
 - There was, however, some uncertainty around what was included in "application process" 
     -  _"...thinking "application process"...does that include additional evidence that's way more extensive than what would often be required? I took it not to mean evidence."_  
-    -  _"for the process, does that mean what you have to do in the form, or things you need to get ready to do the application...getting ready to, plus doing the thing, plus the afer"
+    -  _"for the process, does that mean what you have to do in the form, or things you need to get ready to do the application...getting ready to, plus doing the thing, plus the afer"_
 
 
-**3. Even though they made a single placement decision for each page, they often indentified sections of content in a page they considered for separate placement**
-- Everyone in the group mentioned sections of a content page that they considered for placement separate from the main content of the page
-- Although they indicated that a page should be placed in the benefit hubs, they identified content on the page they felt was a better fit for R&S
+**4. Even though they made a single placement decision for each page, they often indentified sections of content in a page they considered for separate placement**
+- Although most pages resulted in an overall placement in the benefit hubs, everyone in the group identified some piece of content that they considered a better fit for R&S
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
   - _"this might be one of those pages that's a split...some of it goes in the benefit hubs and some of it goes in R&S"_
 
-- For reference, 3 of the pages reviewed by the group (Agent Orange, PTSD, and Camp Lejeune) included sections that met the criteria for benefit hub placement, and other sections that met the criteria for R&S placement
-- 2/5 indicated they would place the Agent Orange page in R&S, the other pages received 0 responses for an R&S placement
+
+**5. What do we have to compare to for accuracy of their decision making???**
+- Three of the 5 pages evaluated (clothing allowance, PTSD and Camp Lejeune) had full agreement for benefit hub placement
+  - _"while they had to file for disability, they also had to submit 1-2 additional forms, that triggered a yes to criteria 3 for me.  Similar to clothing allowance"_
+- The Agent Orange page resulted in some uncertainty in placement 
+  - While 3/5 placed it within the benefit hub, there were references to some content being moved R&S, and some uncertainty in what the benefit(s) was
+  - _" This wasn't a slam-dunk decision. I couldn't decide if it directly supports Veterans in applying for benefits, or if its additonal information and resources about Agent Orange"_ 
+  - _"It was really in-depth about the condition, but wasn't sure at the end what was the benefit"_
+- The Dental Care page resulted in 3/5 placing it in R&S, 1 placing it in the benefit hubs, and 1 was undecided
+  - This content was very short, but included a link to a PDF that provided more in-depth information.
+  - 2 individuals indicated that pulling in more content from the PDF and elsewhere would make it more suited for benefit hub placement
 
 
-
-
-**4. Consistency of decisions...what about accuracy?**
-- Three of the 5 pages evaluated had full agreement for benefit hub placement: clothing allowance, PTSD and Camp Lejeune water contamination
-  - No comments or references were made about any of these pages being challenging to decide
-  - One individual suggested some content on the PTSD page may be a candidate for R&S 
-- Two of the 5 pages received a few decisions for R&S, but there was not consensus: Agent Orange and Dental care
-  - Challenges with Agent Orange page
-    - Content was significantly longer than other pages given...In general, decisions were focused at the page level
-    - 2 individuals referenced some content in the page could be moved to R&S, however they placed the page in the benefit hubs 
-    - 2 individuals expressed lower confidence in their decision 
-    - 2 individuals placed the content in the benefit hub, however they did indicate that they were unsure what the benefit(s) was
-    - _" This wasn't a slam-dunk decision. I couldn't decide if it directly supports Veterans in applying for benefits, or if its additonal information and resources about Agent Orange"_ 
-  - Challenges with Dental care page
-    - Content was very short, but linked to a PDF that provided more in-depth information.
-    - Only 1 individual placed this content in the benefit hub, 3/5 placed it in R&S, and 1 individal was undecided
-    - 2 individuals indicated that pulling in more content from the PDF and elsewhere would make it more suited for benefit hub placement
-    - It seemed as though the group had a bias that it is a benefit for Veterans and they therefore wanted to find a way to place it in the benefit hubs 
-
-
-**5. Individual biases and experience of the person doing the evaluation played a part in making the decision**
+**6. Individual biases and experience of the person doing the evaluation played a part in making the decision**
 - Existing knowledge and biases of what is considered a benefit, and where benefit content should be placed, played a part in decision making (i.e. "tier 1", veteran-facing content)
   - _"I'm not sure that extra content belongs in R&S, maybe another hub page would be better, because I still feel like it's tier 1 because it's for Veterans."_
 - Many members of the group cited times where they would revise a heading, restructure the content, or elaborate on content in order to build out a better page. Doing this would occassionally lead them to making a different decision.
@@ -101,7 +89,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
   
-**6. The layout and format of the worksheet could use some minor improvements**
+**7. The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
   - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
 
