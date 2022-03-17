@@ -22,8 +22,8 @@
 [Staging URL](https://staging.va.gov/manage-va-debt) 
 Staging User  |Use Case|
 |--|--|
-| test-user-1| ?
-| test user-228 |?
+| test-user-1| Veteran has education benefit debt
+| test user-228 |Veteran has comp and pen debt
 <br/>
 
 ### Medical Copay Tool (MCP) Staging Users
