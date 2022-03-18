@@ -6,9 +6,8 @@ Hello! In this folder, you'll find information specific to how Research works on
 - Github labels: [research](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=research&repos=133843125)
 
 ### Points of contact
-The Research points of contact are: 
-- [Lauren Alexanderson](mailto:lauren.alexanderson@va.gov), @Lalexanderson on Slack 
-- [Emily Mann](mailto:emily.mann1@va.gov), @Emily Mann on Slack 
+The Research point of contact is: 
+- [Shane Strassbert](mailto:shane.strassberg@va.gov), @Shane Strassberg on Slack 
 
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
