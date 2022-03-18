@@ -15,11 +15,64 @@ An appointment that hasn't been confirmed by scheduling staff at the facility. P
 
 Appointments that a Veteran has self-scheduled through VAOS, or that scheduler at a facility has created on the Veteran's behalf.
 
-### Upcoming, past and canceled appointments
+### Upcoming, past
+
+[TODO]
+
+### Canceled appointments
 
 Confirmed appointments may occur in the future (upcoming) or in the past. 
 
 Veterans and facility staff can cancel future appoitnments.
+
+### Provider category
+
+#### VA
+
+
+##### Appointment modalities (how a Veteran attends an appointment)
+
+Veterans most often attend confirmed appointments in person, but also have many telehealth options, and may attend over the phone. These are called out in the UI.
+
+###### In person
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#va-booked-future)
+
+###### VA Video Connect at home
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-home-booked-future)
+
+###### VA Video Connect at a VA location
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-va-booked-future)
+
+###### VA Video Connect using a VA device
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-gfe-booked-future)
+
+Details page design templates:
+* [Booked-future](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-templates-and-styles?node-id=0%3A561)
+
+###### VA Video Connect at an ATLAS location
+
+Details page copy:
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-atlas-booked-future)
+
+###### VA appointment over the phone
+
+* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#va-phone-booked-future)
+
+
+#### Community care
+
+
+
+
+
 
 ## Managing appointments
 
@@ -31,47 +84,9 @@ A Veteran can complete some tasks on these appointments:
 
 
 
-### Provider category
 
-An appointment
 
-### Appointment modalities (how a Veteran attends an appointment)
 
-Veterans most often attend confirmed appointments in person, but also have many telehealth options, and may attend over the phone. These are called out in the UI.
-
-#### In person
-
-Details page copy:
-* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#va-booked-future)
-
-#### VA Video Connect at home
-
-Details page copy:
-* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-home-booked-future)
-
-#### VA Video Connect at a VA location
-
-Details page copy:
-* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-va-booked-future)
-
-#### VA Video Connect using a VA device
-
-Details page copy:
-* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-gfe-booked-future)
-
-Details page design templates:
-* [Booked-future](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-templates-and-styles?node-id=0%3A561)
-
-#### VA Video Connect at an ATLAS location
-
-Details page copy:
-* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#vvc-atlas-booked-future)
-
-#### VA appointment over the phone
-
-* [Booked-future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/appointment-details.md#va-phone-booked-future)
-
-## Community care appointments
 
 ## Pending appointments
 
