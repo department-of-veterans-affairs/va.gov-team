@@ -90,12 +90,11 @@ The VA.gov health apartment team isn’t sure about these fields, and neither ar
 
 ### The MHV team is working incrementally toward having Veterans manage their profile information on VA.gov instead of My HealtheVet; the first big step forward is planned for September 2022.
 
-Stakeholders shared that they’re planning on tackling the migration to a single profile in increments. To date, they’ve focused on the new user experience. Their plans are:
+Stakeholders shared that they’re planning on tackling the migration to a single profile in increments. To date, they’ve focused on the new user experience. Their plans are to:
 
-1. To remove the MHV registration page in September 2022.
-2. This means that new users will not be able to get a MHV credential, and will have to use login.gov or ID.me.
-3. They’ll work out plans for the next phase of this transition in their next increment.
-4. Eventually, the MHV login credential will be fully retired.
+1. Remove the MHV registration page in September 2022. This means that new users will not be able to get a MHV credential, and will have to use login.gov or ID.me.
+2. Work out plans for the next phase of this transition in their next increment.
+3. Eventually, fully retire the MHV login.
 
 At some point, they will direct users to VA.gov to manage contact and profile information. Plans are TBD as contract renewal decisions are currently being made.
 
