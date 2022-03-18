@@ -86,10 +86,11 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
 - [ ] Collaboration Cycle Kickoff | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) | [Request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D) | [#issuenum]
 
 - [ ]  Design Intent  | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) | [request template](https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/31577) [#issuenum] | _Note: PM must invite own team members._
-  - Content [Sitewide Content and IA intake request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) [#issuenum]
   - Design
   - OCTO
   - IA | [Request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) | [#issuenum]
+- [ ]  Content and IA Request | [Overview(https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Sitewide-Content-and-IA-intake-request.2124906551.html)] | [Sitewide Content and IA intake request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) [#issuenum]
+ 
 
 - [ ] Research Plan Review | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html) |  [#issuenum]
   - OCTO
