@@ -6,7 +6,7 @@
 
 ## Assumptions
 
-- User has made an appointment
+- User has made an appointment and has received a pre-check-in text message. 
 
 ## Test Case: Pre-Check-In is Expired
 
