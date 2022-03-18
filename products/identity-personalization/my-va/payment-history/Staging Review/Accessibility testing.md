@@ -19,4 +19,4 @@
 
 | Test | Additional info about test | Test Complete (yes/no) | Findings | Test Performed By |
 | ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |------------------ |
-| Test with WAVE (recommended) | [read more about the WebAIM WAVE tool](https://wave.webaim.org/)| ... | ... |...|
+| Test with WAVE (recommended) | [read more about the WebAIM WAVE tool](https://wave.webaim.org/)| YES | no Issues! | Heather Justice|
