@@ -27,7 +27,7 @@ May/June - [Facilities personalization research](https://github.com/department-o
 
 February - [VAOS for vaccine distribution](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/covid-vaccine-distro/scheduling/research/feb-2021-vaos-vaccine-concept-test)
 
-January - [Appointments list usability study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+January - [Appointments list usability study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test)
 
 
 ## 2020 Studies
