@@ -9,7 +9,13 @@ The VAOS appointments list displays a summary of a Veteran's upcoming, past, and
 
 ## Pending appointments
 
-An appointment that hasn't been confirmed by scheduling staff at the facility. Pending appointments are created when a Veteran requests an appointment through VAOS. 
+An appointment that hasn't been confirmed by scheduling staff at the facility. Pending appointments are created when a Veteran requests an appointment through VAOS.
+
+### VA requests
+
+### Community care requests
+
+
 
 ## Confirmed appointments
 
