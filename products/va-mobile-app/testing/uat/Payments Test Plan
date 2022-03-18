@@ -1,0 +1,161 @@
+## Payments Mobile App Test Plan
+
+### Objective/Summary
+What to test - We need to verify, in pre-prod and prod, that:
+User data end points are sending the correct Payments data, and different variations of Payments data are displaying correctly. 
+Who can do this testing and how?
+In pre-Production, the mobile app team has conducted testing internally
+Dev Unit Testing
+QA Validation
+QA Regression (testing basic functionality of features)
+We will recruit 5 participants (between known contacts and VA Veteran recruits) in order to test data in Production.
+Criteria: Users must have a history of Payments records in order to qualify for UAT.  
+Test Scenarios
+User has 1 or more Payments that are displayed on the Payments History page with the correct amount and date 
+User can select any payment to see Payment Details, which contains the payment’s Title, Date, and Method at minimum 
+User has Payments that occurred across multiple years 
+User has Payments that are delivered via Direct Deposit 
+User has Payments that are delivered via Paper Check
+
+
+Scenario
+Expected Results
+Pass/ Fail
+Listed payments (ALL users)
+User sees the name of the payment and the amount in $X,XXX.00 format
+Payments are organized by date received within a select year
+User can select any of these payments to view details for the selected Payment.
+The Date and Title are consistent with the previous page 
+The Date, Title, and Method fields are always displayed
+PASS if all of the criteria is met
+FAIL if one or more of the criteria is not met
+Multiple year payments
+The year picker contains all the years during which a user has received payments
+The user can select from multiple years in the year picker, and selecting any of these years changes the data to show payments for the selected years
+PASS if all of the criteria is met
+FAIL if one or more of the criteria is not met
+Direct deposit payments
+User sees the method of their payment listed as “Direct Deposit” 
+The Bank to which the Direct Deposit was transferred is listed, OR the field is in a null state
+The last 4 digits of the account number is displayed, OR the field is in a null state
+PASS if all of the criteria is met
+FAIL if one or more of the criteria is not met
+Paper check payments
+User sees the method of their payment listed as “Paper Check”
+No other fields, besides amount, are listed
+PASS if all of the criteria is met
+FAIL if one or more of the criteria is not met
+
+
+
+
+
+
+Testing Approach
+Recruited users will be sent an instructional email that describes the testing process, and illustrates the flow users will follow to complete UAT (see Tester Steps to Execute). 
+
+The email will include yes/ no questions that ask the user to verify that their data is displaying correctly. The questions have been structured in such a way to ensure that users are not revealing personal or sensitive information over email. 
+
+“Are you able to load your payments on the Payments list page? Yes/ No
+Are they organized by date? Yes/ No
+Does each payment list the Payment Type and correct Amount in this format $X,XXX.XX? Yes/ No
+Are you taken to a Payment Details page when you select each Payment? Yes/ No 
+If you have Payments spanning across multiple years, are you able to use the year picker at the top to select from disparate years? Yes/ No 
+Do your payments load for each year? Yes/ No 
+If you have a Direct Deposit payment, do the details list the Method as Direct Deposit? 
+Do the additional fields show the Bank and last 4 digits of the Account Number? Yes/ No
+If you have a payment sent to you by check, do the details list the Method as Paper Check? Yes/ No 
+
+If you answered “No” to any of these, please include a brief explanation. 
+
+Please do not include sensitive information in your explanation or any of your answers.”
+
+Users will send back their answers with Yes or No highlighted. “No” Answers will be reviewed and investigated.  
+
+UAT will be considered complete if:
+5 or more users send back satisfactory responses. (All questions/ test cases were answered with “Yes”) OR,
+We receive any number of satisfactory responses, and failed test cases are investigated and resolved by the Mobile App Team until the affected users can see their data correctly
+
+Since the flow is simple and the primary purpose of this test is to validate production data, the Mobile App Team has determined that the sessions do not need to be facilitated. Users will be provided with a Calendly link to schedule a session if they need guided assistance. 
+
+Tester Steps to Execute
+The following visual guide will be included in the instructional email sent to users. 
+
+
+
+
+General Recruitment Email 
+Dear VA Veterans,
+
+The VA: Health and Benefits app team is seeking testers for a new mobile Payments History feature. We are looking for up to 5 testers who are able to share 15-30 minutes of their time. 
+
+We ask that testers meet the following criteria:
+Have a mobile device (phone or tablet) where they can download Test Flight
+Are able to log in to the mobile app via ID.me, DS Logon and/ or MHV
+Have received financial assistance from the VA and have been able to see their payments records in the past via VA.gov
+Willing to answer 4 brief yes/ no questions verifying that they are able to see their Payments History data display correctly (over email, if preferred) 
+
+All information will be kept confidential, and we will destroy all records of your responses within 7 business days.
+
+We would be extremely grateful for your help testing this feature! Please reach out to me (leanna.miller@va.gov) if you have any questions for us. We’re looking forward to testing with you!
+
+
+
+
+
+Login.gov Tester Recruitment Email 
+Hello _____,
+
+Thank you for participating in our Login.gov testing sessions!
+
+We’re releasing a new Payments History feature on the Mobile App and are looking for users with payments data* to help us confirm that the feature is working correctly. Since you’ve already gone through the Test Flight set-up process, we thought we’d reach out and see if you can help.
+
+We’ll just ask you to re-download the newest Test Flight version of the app, login, and confirm that your Payments data looks good with a few generic, yes/ no questions over email. 
+
+If you qualify and would like to help, or if you’d like more information, please let me know!
+
+Thanks!
+
+*i.e. you’ve received financial assistance from the VA, and have payments history you’ve been able to see on VA.gov.
+
+
+Ad Hoc Internal Veterans Slack Message Draft 
+Hi all! We’ve just added a “Payments History” feature to the VA Mobile App and are looking for Veteran users with payments data* to help us validate the feature in Production. 
+
+We’ll just ask you to get set up on Test Flight, login to the app, go to the Payments Feature, and confirm that your data doesn’t look wonky.
+
+Please let me know if you’d like to help! Thanks! 
+
+*i.e. you’ve received financial assistance from the VA, and have payments history you’ve been able to see on VA.gov.
+
+Testing Instructions
+Thank you for volunteering to test the Payments History feature on the VA Mobile App! We want to make this as easy as possible for you, so this email includes:
+Instructions for downloading Test Flight, which is needed to download the test version of the app (attached),
+Instructions for testing the Payments History feature (attached), and
+Brief yes/ no questions that will confirm that your data’s displaying correctly (below)
+If you’d like help going through this process, please sign up for a session here. Otherwise, you can complete this process on your own time and reply to this email with your answers.
+
+We would like to receive all answers by 3/28. Please reach out to me if you have any questions. Thanks! 
+
+Questions: 
+
+Please reply to this email with Yes or No highlighted/ clearly indicated. Skip any questions that are not relevant to you.
+
+“Are you able to load your payments on the Payments list page? Yes/ No
+Are they organized by date? Yes/ No
+Does each payment list the Payment Type and correct Amount in this format $X,XXX.XX? Yes/ No
+Are you taken to a Payment Details page when you select each Payment? Yes/ No 
+       2.  If you have Payments spanning across multiple years, are you able to use the year picker at the top to select from disparate years? Yes/ No 
+Do your payments load for each year? Yes/ No 
+       3. If you have a Direct Deposit payment, do the details list the Method as Direct Deposit? 
+Do the additional fields show the Bank and last 4 digits of the Account Number? Yes/ No
+       4. If you have a payment sent to you by check, do the details list the Method as Paper Check? Yes/ No 
+
+If you answered “No” to any of these, please include a brief explanation. Please do not include sensitive information in your explanation or any of your answers.
+Results 
+This section will be populated upon completion of UAT.
+
+
+
+
+
