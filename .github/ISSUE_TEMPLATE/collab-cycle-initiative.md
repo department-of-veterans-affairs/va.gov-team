@@ -41,7 +41,7 @@ _Record key players so you can quickly copy/paste into requests and your product
 - GitHub tag:
 
 ### VFS participants (when applicable):
-- Design Lead: Ryan Thurwell
+- Design Lead: 
 - Design
 - Accessibility:
 - Analytics:
@@ -85,11 +85,11 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
 
 - [ ] Collaboration Cycle Kickoff | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) | [Request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=collab-cycle-kickoff.md&title=Collaboration+Cycle+Kickoff+%5BTeam+Name%2C+Feature+Name%5D) | [#issuenum]
 
-- [ ]  Design Intent  | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) | [request template](https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/31577) [#issuenum] | _Note: PM must invite own team members._
+- [ ]  Design Intent | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) | [request template](https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/31577) [#issuenum] | _Note: PM must invite own team members._
   - Design
   - OCTO
   - IA | [Request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) | [#issuenum]
-- [ ]  Content and IA Request | [Overview(https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Sitewide-Content-and-IA-intake-request.2124906551.html)] | [Sitewide Content and IA intake request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) [#issuenum]
+- [ ]  Content and IA Request | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Sitewide-Content-and-IA-intake-request.2124906551.html) | [Sitewide Content and IA intake request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) [#issuenum]
  
 
 - [ ] Research Plan Review | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html) |  [#issuenum]
@@ -130,9 +130,6 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
 
 - [ ]  Post @here announcement in your Slack channel after launch
 
-- [ ] Full accessibility and 508 office audit | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Full-accessibility-and-508-office-audit.1774846068.html) | [Request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=noahgelman%2C+shiragoodman&labels=508%2FAccessibility%2C+vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BTeam+Name+-+Feature+Name%5D) | [#issuenum]
-   - Accessibility
-
 - [ ] Post-Launch Check-in | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Post-launch-check-in.1781956691.html) |  [#issuenum]
   - Product
 
@@ -145,3 +142,6 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
 - [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md)
 
 </details>
+
+ Source: https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/.github/ISSUE_TEMPLATE/collab-cycle-initiative.md 
+ Last updated: Marci McGuire GovCIO 2022-03-18
