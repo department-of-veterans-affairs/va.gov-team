@@ -143,5 +143,5 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
 
 </details>
 
- Source: https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/.github/ISSUE_TEMPLATE/collab-cycle-initiative.md 
- Last updated: Marci McGuire GovCIO 2022-03-18
+ - Source: https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/.github/ISSUE_TEMPLATE/collab-cycle-initiative.md 
+ - Last updated: Marci McGuire GovCIO 2022-03-18
