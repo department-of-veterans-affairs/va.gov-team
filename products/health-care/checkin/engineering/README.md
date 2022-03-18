@@ -77,9 +77,19 @@ Check In Experience consists of five main containers (see components section for
 
 #
 
-### profile-service
+### vista-api-service
 
-- Provides functionality related to grouping of clinics
-- AWS Lambda built with nodeJS
+- Provides REST interface for all VistA interaction
+- JEE solution hosted at VA OnPrem data center
+- Red Hat Enterprise Linux Server release 7.9 (Maipo)
 
-[profile-service Component Diagram Todo](./todo)
+
+#
+
+### clinician-workflow
+
+- Provides functionality related to grouping of clinics for VSE CS staff facing appliction
+- Ruby something something Fargate
+- Supports connection to VistA-api-service for Veteran and Staff facing applications
+
+[clinician workflow Component Diagram Todo](./todo)
