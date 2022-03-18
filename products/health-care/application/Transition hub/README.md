@@ -88,7 +88,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 **Next**
 - Short form for combat status Veterans
 - Evaluate if some questions can be removed for all applicants 
-- Improve Household information section
+- Improve UX of Household information section
 - Facility selection redesign
 - Add Medicare claim number
 
@@ -111,11 +111,9 @@ This table includes links to the individual feature directory and the latest ite
 | :--- | :--- | :--- |
 | [Short form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20form.md) | Formally called "auto-qualify"| In development|
 | [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10CG use | In design |
-| [Improve Household information section]() | N/A | Not started |
-| [SIGI]() | Self-identified gender identity | In staging-ON HOLD |
-| [American Indian question]() | N/A | In staging-ON HOLD |
-| [Notifications]() | Email notifications for in progress reminders and application submission | In discovery |
-| [Add Medicare claim number]() | N/A | In discovery |
+| [SIGI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/SIGI.md) | Self-identified gender identity | In staging-ON HOLD |
+| [American Indian question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/American%20Indian.md) | N/A | In staging-ON HOLD |
+| [Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Notifications.md) | Email notifications for in progress reminders and application submission | In discovery |
 
 
 <br>
