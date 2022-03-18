@@ -27,11 +27,11 @@ body:
     validations:
       required: true
   - type: input
-    id: team-name
+    id: role
     attributes:
-      label: Your Team, Role, and Company
-      description: Please provide the name of your team, your role on that team, and the name of the company you work for
-      placeholder: e.g. Platform Security, Backend Engineer, Ad Hoc
+      label: Your Role
+      description: Please provide your role on your team
+      placeholder: e.g. Backend Engineer
     validations:
       required: true
   - type: textarea
@@ -44,7 +44,7 @@ body:
     attributes:
       value: |
         ---
-        For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D)
+        For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D).
         If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
 
         CC: @department-of-veterans-affairs/vsp-operations
