@@ -20,6 +20,8 @@
   
 ## Pre-check-in Questions
 - How many days ago did you complete pre-check-in?
+  - Did you complete pre-check-in immediately when you received the SMS or did you come back later to complete it? 
+- Where were you when you completed pre-check-in?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this pre-check-in process to another Veteran?
   - What did you like and dislike about the pre-check-in experience?
 - Do you think it will change anything about checking into your appointment today?
@@ -43,6 +45,7 @@
   - Was this your first time checking in with this mobile experience?
   - How would you describe the security of this check-in process?
   - If the veteran didn't use a QR code, when was the last time (if at all) you've used a QR code?
+  - _Only for Veterans who completed pre-check-in, but had to review demographics again on the day of._ What are your thoughts on reviewing your address, next of kin, and emergency contact today, since you also reviewed them a few days ago?
   - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
     - Why? What are your impressions of the experience?
 
