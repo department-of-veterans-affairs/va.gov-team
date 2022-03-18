@@ -64,13 +64,15 @@ Please recruit 20 participants for 10 completed sessions.
 
 #### Primary criteria (must-haves)
 1. Have a MHV premium account and logged in for reasons other than this research study within the last 12 months.
-**Qualifying questions**:  
+	
+	**Qualifying questions**:  
 	1. Do you have a MHV account? (Answer must be yes to qualify)
 	2. Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in. (Answer must by premium to qualify)
 	3. Have you used any features on MHV within the last 12 months? Features include secure messaging, refilling prescriptions, accessing medical records. (Answer must be yes to qualify)
 1. At least 50% must have received care in VA medical facilites in two different states in the last 18 months.
-**Qualifying question:**
-Within the last 18 months, have you been to VA medical centers **in two different states** to receive care? (Answer must be yes to qualify)
+
+	**Qualifying question:**
+	Within the last 18 months, have you been to VA medical centers **in two different states** to receive care? (Answer must be yes to qualify)
 3. Be willing to login to their MHV account and share their screen via Zoom with the facilitator (will expose personal information).
 4. At least 50% must identify as Black, Hispanic/Latina/Latinx, or Native.
 5. At least 50% must identify as having a cognitive consideration.
