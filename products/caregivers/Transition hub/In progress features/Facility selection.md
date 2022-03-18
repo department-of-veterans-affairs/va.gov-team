@@ -22,6 +22,8 @@ The purpose of this enhancement is to improve the user experience of selecting a
 **Current Experience**
 Currently, to select a facility, the user must select the state from a hardcoded dropdown list of states. Then they must select a facility name from another hardcoded dropdown list filtered by the state.
 
+![Screen Shot 2022-03-18 at 9 32 09 AM](https://user-images.githubusercontent.com/80857940/159012003-3f0d2282-7efb-44e7-b6a0-d4a97ead799c.png)
+
 **Problems with current experience**
 
 1. Facilities names change often, which requires us to update code with the new name.
@@ -32,13 +34,14 @@ The proposed solution is to integrate with the Facilities API. This will allows 
 
 The CARMA team is beginning work to technically "map" facilities with a Caregiver coordinator. When this is in place the user can select any VA facility rather than have to choose from a list of facilities that have a Caregiver coordinator- users are often confused as to why their usual facility isn't on the list.
 
+
 **Outline of the Changes:**
 
 - Replace current state dropdown list with a textbox allowing a City, State, or Zip search similar to the Facilities Search UI.
 - Replace our hardcoded state and facility list with a call to the Facilities API
 - Replace the current facility dropdown list with a dynamic list of facilities 
 
-**Note:** This facility search functionality on the 10-10CG could then be reused for a similar set of facility questions on the 10-10EZ (Health care application) form in a future enhancement.
+**Note:** This facility search functionality on the 10-10CG could then be reused for a similar set of facility questions on the [10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Facility%20selection.md) (Health care application) form in a future enhancement.
 
 
 ## UX research 
