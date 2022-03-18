@@ -35,6 +35,7 @@
     * How does Vista currently deal with non-US addresses?
     * Do we just need to account for different fields on the display side?
 * Vista sends back the full state name i.e. "New Mexico" instead of "NM", Profile returns the two character abbrivation and also accepts the format for updating. If we continue to read form Vista and write to Profile, we will need to translate before updating. Maybe have a normalization layer somewhere in the middle on the frontend.
+* Can we work with Profile to have a platform level service for providing country and state options for select lists?
  
 ### BE Questions
 ## Solutions
