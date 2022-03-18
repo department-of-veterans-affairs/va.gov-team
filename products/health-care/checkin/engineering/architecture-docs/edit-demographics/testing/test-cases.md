@@ -12,6 +12,8 @@
 
 ### Description / Use Case 
 
+User clicks on the pre-check-in link from their mobile device at or after 12:01am on the day of their appointment.
+
 ### Expected Outcome 
 
 ## Test Case: User Submits Form without Changes
