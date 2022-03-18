@@ -84,9 +84,23 @@ A couple interesting details to be aware of:
 * For the most part, since MHV's APIs are already RESTful and well-structured, the API facade implementation is pretty straightforward and will represent a smaller share of the engineering effort compared to the frontend implementation work. But it should still be accounted for. 
 
 ### Content management - what's involved
+VA.gov has a Drupal-based content management system that incorporates the typical page layouts and structures on VA.gov. Both content editors and developers can interact via the content management UI to establish and populate new pages. Developers may need to do this in order to establish an anchor page for any React applications, or to incorporate React widgets (dynamic sections of content within an otherwise static page). 
+
+(More details/links to come)
 
 ### Collaboration cycle 
+The [collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) is the governance process for ensuring consistency and quality of applications launched on VA.gov. After initial onboarding and orientation, there are several touchpoints along the way to production where teams can get feedback on the design, accessibility, security, and other aspects of their application. 
+
+Some things to note that may differ for MHV teams vs. other VFS teams:
+* Since many VFS teams are starting from scratch in terms of product definition and project management, the default choice for issue tracking is to use GitHub. Presumably MHV has an established issue tracking process and software development lifecycle. The MHV teams _will_ need to use GitHub issues as a mechanism to trigger the collaboration cycle touchpoints, but won't need to use it for day-to-day development activities. 
+* MHV's QA process likely surpasses what is present in the VA.gov ecosystem and there's little value in reproducing QA activities into the VA.gov QA tracking tool. 
+* MHV already has a well established relationship and process for interacting with contact center/help desk teams.
 
 ### Upcoming changes
+The VA.gov platform continues to evolve even as application teams are actively using it and launching features to production. In general, the platform team is moving in the direction of greater autonomy and self-service for VFS teams/platform users. Some of the initiatives underway that might impact health feature development:
 
+* Allowing teams to deploy frontend features autonomously on their own cadence, rather than being tied to the daily deploy of the entire vets-website repo.
+* Allowing teams to deploy backend APIs autonomously rather than being part of a single monolithic Rails application. 
+* A content API that would allow dynamic application code to fetch content, rather than relying on static generation of CMS-managed pages.
+* A platform console where teams can deploy and manage their applications.
 
