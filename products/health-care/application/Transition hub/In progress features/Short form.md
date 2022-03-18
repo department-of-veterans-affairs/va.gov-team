@@ -26,15 +26,17 @@ User story: As a Veteran applying for health care, I would like to expedite the 
 **Key notes:**
 - Phase 1: Short form for applicants with a service-connected disability of 50% or higher. 
 - Phase 2: Short form for applicants with combat status.
-- 
+
+
 <br>
 
 ## UX research
 This table includes links to the individual research studies.
 
-| Study | Research folder
+| Study | Research folder |
 | :--- | :--- | 
-| Usability  (September 2021) | [Research folder]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research) | 
+| Discovery research (May 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf) 
+| Usability  (September 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research) | 
 
 
 <br>
@@ -43,7 +45,7 @@ This table includes links to the individual research studies.
 This table includes links to the individual design work products.
 
 | Screens | Links | Last status |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | 
 | Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
 | Authenticated-immediate alert flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq) | Up-to-date |
 | Authenticated-self-report flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb) | Up-to-date |
