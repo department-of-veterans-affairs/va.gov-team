@@ -23,7 +23,9 @@ Our analytics and [discovery research](https://github.com/department-of-veterans
 
 User story: As a Veteran applying for health care, I would like to expedite the application so I can complete it faster, remove blockers, and have less confusion.
 
-**Key notes:**
+**Note:** This effort is different than "prefill fields" - sometimes the program team confuses these two efforts
+ 
+**Implementation plan:**
 - Phase 1: Short form for applicants with a service-connected disability of 50% or higher. 
 - Phase 2: Short form for applicants with combat status.
 
