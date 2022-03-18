@@ -16,6 +16,8 @@ User clicks on the pre-check-in link from their mobile device at or after 12:01a
 
 ### Expected Outcome 
 
+User sees error message. User is unable to log in to pre-check-in site to confirm their appointment. 
+
 ## Test Case: User Submits Form without Changes
 
 ### Description / Use Case 
