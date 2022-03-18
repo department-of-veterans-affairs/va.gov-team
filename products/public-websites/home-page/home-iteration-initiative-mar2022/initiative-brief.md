@@ -56,8 +56,8 @@ Sitewide Crew sees an opportunity to improve engagement with the main content on
   - The use of the home page itself is a given.
   - The case for change is very strong, given engagement gaps with the current design.
 - **Usability Risks** (can people figure out how to use it):
-  - Val to provide
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - _Val to provide_
+- **Feasibility Risks** (can we build it with available tech/data):
   - The idea of creating a “parallel” home page experience seems pretty straightforward but has not been tried before in recent memory. There are potential challenges to our ideas, including Analytics setup and Search API integration. Future CMS integration has not yet been explored for feasibility or level of effort.
   - Changes to the codebase are small and localized. The only external dependency relates to the Search component, but the implementation and functionality will be identical to the search that already exists in the header.
   
