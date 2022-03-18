@@ -72,6 +72,7 @@ Include notes about which Platform process was in use when this feature was in d
 - Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 <br>
 
