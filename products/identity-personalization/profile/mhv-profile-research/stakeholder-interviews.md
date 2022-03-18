@@ -73,7 +73,7 @@ We also learned that the “My VA treating facilities” field is a MHV feature 
 - We need to get user input on specific parts of MHV’s personal information section; ideally, we can talk to some Veterans who are actively being treated in multiple medical centers.
 - More information is needed from IAM about matching VA relationship data to profiles.
 
-### MHV notification settings will be a confirmed change to VA.gov profile.
+### MHV notification settings will be a confirmed change to the VA.gov profile.
 
 We are confident that the email notification settings from MHV will need to be migrated into VA.gov’s profile. VA Notify and MHV will soon start working together to determine a plan for that migration.
 
