@@ -3,6 +3,9 @@
 
 `James Adams, designer`
 
+>**Feature transition document is available.**
+> The Certificate of Eligibility feature transition document is on Github [(Link to Github page)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/coe-transition-design.md)
+
 ---
 
 ### Design
