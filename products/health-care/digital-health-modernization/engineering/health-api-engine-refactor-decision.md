@@ -12,10 +12,11 @@ Given that MHV development teams are going to come aboard and participate as VFS
 
 ## Options
 ### 1. Leave controller code as-is
-* Pro: No unnecessary work. The API controllers may require some minor functional tweaks during the course of feaure development. but these are believed to be minimal. 
+* Pro: No unnecessary work. The API controllers may require some minor functional tweaks during the course of feaure development. but these are believed to be minimal. In other words the bulk of the upcoming active development is expected on the frontend, rather than the backend. 
 * Pro: vets-api is potentially going to be split apart into independent runtime applications. Depending on how that work proceeds, the interim step of refactoring into a rails engine might be redundant. 
 
 * Con: Painful to establish CODEOWNERS ownership over a large number of files scattered throughout vets-api. Hard to maintain this mapping if any files are added or moved.
+* Con: Less convenient to run unit/integration tests on subsets of code in the main Rails application vs. in an engine. 
 
 ### 2. Refactor into a single engine
 Move all of the MHV-related controllers and models for VA.gov use into a single engine. This would consolidate all the code owned by the MHV development org into once place, controlled by CODEOWNERS.
