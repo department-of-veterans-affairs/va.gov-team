@@ -4,82 +4,87 @@
 
 
 ## Table of Contents
-[UX research studies](#ux-research-studies)
+[Background](#feature-background)
 
-[UX design work products](#ux-design-work-products)
+[UX research](#ux-research)
 
-[Process milestones](#process-milestones)
+[UX design](#ux-design)
 
-[Other feature documentation](#other-feature-documentation)
+[Engineering artifacts](#engineering-artifacts)
 
-[UX researchers and designers](#ux-researchers-and-designers)
+[Zenhub epics and Process milestones](#zenhub-epics)
+
+[Team members](#team-members-that-worked-on-this)
 
 <br>
 
 ## Feature background
-The sign as a representative feature enables a representative with authority to make health care decisions for the Veteran to sign the application on behalf of the Veteran. A representative must upload a document that proves that they have legal authority to make health care decisions for the Veteran.
+Our analytics and [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf) shows that the sections that cause the most confusion and result in the most drop-offs is the Military information and Household/financial information sections. Because these sections are not necessary for Veterans that are in Priority group 1, we will remove any questions that aren't necessary for their application.
+
+User story: As a Veteran applying for health care, I would like to expedite the application so I can complete it faster, remove blockers, and have less confusion.
 
 **Key notes:**
-- We don't want to cause a blocker for application completion (avoid Caregiver applicants thinking that they also must be a legal health care representative of the Veteran)
-- This feature is only shown to 50% of applicants because before the latest iteration, the program team was seeing about a 33% acceptance rate of documents uploaded. When a document can't be accepted, it must be followed up with a staff member. Too many unacceptable documents puts too much additional work on their team. 
-- The latest iteration in production is showing improvement (still awaiting full report)
+- Phase 1: Short form for applicants with a service-connected disability of 50% or higher. 
+- Phase 2: Short form for applicants with combat status.
+- 
+<br>
 
-## UX research studies
+## UX research
 This table includes links to the individual research studies.
 
 | Study | Research folder
 | :--- | :--- | 
-| Usability Round 1 (February 2021) | [Research folder](
+| Usability  (September 2021) | [Research folder]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research) | 
 
 
 <br>
 
-## UX design work products
+## UX design
 This table includes links to the individual design work products.
 
-| Screens | Links | Text Sources | Last Rev | Last status |
+| Screens | Links | Last status |
 | :--- | :--- | :--- | :--- | :--- |
-| Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
-| Information architecture flow | [Tool]() | No text | date | IA review |
-| Wireframes | [Tool]() | No text | date | Design intent |
-| Mockups | [Tool]() | Preliminary text | date | Midpoint |
-| Prototype | [Tool]() | Final text | date | Staging |
+| Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
+| Authenticated-immediate alert flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq) | Up-to-date |
+| Authenticated-self-report flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb) | Up-to-date |
+| Unathenticated-self-report flow  | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j)  | Up-to-date |
+| Full application flow/ less than 50% disability rating flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l) | Up-to-date |
+| Authenticated clickable prototype | [UXPin](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i) | Not source of truth |
+| Unathenticated clickable prototype | [UXPin](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i) | Not source of truth |
+| Design | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/4EEB69A5-43C1-45B3-B5B6-58D7DA435BD1) | Slight adjustments made in development |
 
-
-### Content resources used
-- [Content writing](https://design.va.gov/content-style-guide/)
-- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
+<br>
 
 ### Engineering artifacts
 - 
 
+<br>
 
+## Zenhub epics
+- [Add Short Form functionality on the 10-10EZ](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/27679)
+
+<br>
 
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
 
-- [Design intent]()
-- [IA review]()
-- [Content review]()
-- [Midpoint review]()
-- [Staging review]()
-- [UAT]()
-
-<br>
-
-## Other feature documentation
-- [Call center guide]()
-- [Metting notes]()
+- [Design intent](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/27617)
+- [Midpoint review](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/38070)
+- [Privacy & Security Review](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/38124)
+- [Analytics specs](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/27724)
+- [Staging review](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/38031)
 
 
 <br>
 
 ## Team members that worked on this
-- Shawna Hein | shawna.hein@va.gov -- Design lead
 - Dené Gabaldón | dene.gabaldon@va.gov -- UX researcher/designer
 - Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
+- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
+- Lihan Li | lihan@adhocteam.us -- Backend engineer
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
 <br>
 
