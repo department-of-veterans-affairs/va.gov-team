@@ -7,7 +7,7 @@ Hello! In this folder, you'll find information specific to how Research works on
 
 ### Points of contact
 The Research point of contact is: 
-- [Shane Strassbert](mailto:shane.strassberg@va.gov), @Shane Strassberg on Slack 
+- [Shane Strassberg](mailto:shane.strassberg@va.gov), @Shane Strassberg on Slack 
 
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
