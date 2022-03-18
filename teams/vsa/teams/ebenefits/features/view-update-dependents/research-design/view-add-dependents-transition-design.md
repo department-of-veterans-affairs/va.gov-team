@@ -47,16 +47,17 @@ This table includes links to the individual research studies.
 - [21-686c form breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-business-logic/686_Business_Flows_W1.pdf)
 
 ### Templates used
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
+
+We used early versions of researrch templates. The links below are to the most current iterations as of March 2022.
+- [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
+- [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
 
 ### Tools used
 List your tools; add notes.
   
-- InVision
-- Mural
-- Optimal workshop
+- Adobe XD
+- Github
 
 <br>
 
