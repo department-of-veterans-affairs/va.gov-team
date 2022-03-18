@@ -30,8 +30,12 @@
 ### UX Questions
 * If address validation is down how will the flow change for pre-check-in and day-of check-in?
 ### FE Questions
-* Are we going to use save in progress for demographics editing?
 * Are we going to submit an update for each field or wait and submit whole set of demographics?
+* Currently we are dealing with very specific US based address fields from Vista, with editing we have exposure to more fields relating to international address and off shore military bases. 
+    * How does Vista currently deal with non-US addresses?
+    * Do we just need to account for different fields on the display side?
+* Vista sends back the full state name i.e. "New Mexico" instead of "NM", Profile returns the two character abbrivation and also accepts the format for updating. If we continue to read form Vista and write to Profile, we will need to translate before updating. Maybe have a normalization layer somewhere in the middle on the frontend.
+ 
 ### BE Questions
 ## Solutions
 ### UX Solutions
