@@ -60,7 +60,7 @@ This table includes links to the individual design work products.
 <br>
 
 ### Engineering artifacts
-- 
+- [Short form use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Short-form-use-cases.md)
 
 <br>
 
