@@ -51,15 +51,17 @@ This table includes links to the individual research studies.
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
 ### Templates used
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
+We used early versions of researrch templates. The links below are to the most current iterations as of March 2022.
+- [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
+- [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
 
 ### Tools used
 List your tools; add notes.
   
 - Github MD
 - Adobe XD (for diagramming)
+- - UXPin (for prototyping)
 
 <br>
 
