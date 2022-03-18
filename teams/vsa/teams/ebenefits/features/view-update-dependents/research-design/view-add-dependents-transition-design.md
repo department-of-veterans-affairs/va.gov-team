@@ -66,6 +66,7 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
+| Business flow taxonomy | [Adobe XD](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/) | No text | JAN 2020 | Preliminary |
 | Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
 | Information architecture flow | [Tool]() | No text | date | IA review |
 | Wireframes | [Tool]() | No text | date | Design intent |
@@ -108,10 +109,21 @@ Include notes about which Platform process was in use when this feature was in d
 
 <br>
 
+## Feature punchlists
+[UI Review View Dependents Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/view-dependents-punch-list-4-22.md)
+
+[UI Review Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0420.md)
+
+[Pre-launch Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0720.md)
+
+[Midpoint review View Dependents Changelog/Punchlist ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27634)
+
+<br>
+
 ## Other feature documentation
 - [Engineering notes]()
 - [Call center guide]()
-- [Metting notes]()
+- [Meeting notes]()
 - [Others]()
 
 <br>
