@@ -109,7 +109,7 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
-| [Short form]() |Formally called "auto-qualify"| In development|
+| [Short form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Short%20form.md) | Formally called "auto-qualify"| In development|
 | [Facility selection]() | Also designed for 10-10CG use | In design |
 | [Improve Household information section]() | N/A | Not started |
 | [SIGI]() | Self-identified gender identity | In staging-ON HOLD |
