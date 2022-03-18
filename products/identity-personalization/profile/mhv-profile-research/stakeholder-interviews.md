@@ -56,7 +56,7 @@ Stakeholders shared that they expect that as part of the transition to a single 
 
 ### The MHV team has audited and planned for the majority of fields in the MHV profile; there are 4 sections we definitely need to get user feedback on.
 
-For the most part, stakeholders feel that only data points that are part of a Veteran’s record (*not* self-entered into MHV, such as `blood type`) should come over from MHV to the VA.gov profile.  [This spreadsheet contains field-by-field information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) about current plans for migration.  VA.gov’s profile already has the majority of the data points (first name, last name, date of birth, email, contact information, etc).I
+For the most part, stakeholders feel that only data points that are part of a Veteran’s record (*not* self-entered into MHV, such as `blood type`) should come over from MHV to the VA.gov profile.  [This spreadsheet contains field-by-field information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) about current plans for migration.  VA.gov’s profile already has the majority of the data points (first name, last name, date of birth, email, contact information, etc).
 
 There are a few fields and sections of Personal Information stakeholders agree we need to learn more about from the Veteran perspective before figuring out whether or not they’ll be useful to patients in a VA.gov profile.
 - What is your relationship to VA? (Field)
