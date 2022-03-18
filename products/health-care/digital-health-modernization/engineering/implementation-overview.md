@@ -20,10 +20,20 @@ OCC and OCTO product owners are aligned on the rationale for moving health featu
 * Because VA.gov is integrated with many other systems at VA, it opens the door to further integration among features, such as embedding disability rating on the health landing page or unifying veteran profile information in one place.
 
 ## Getting from here to there - phased migration
-If the desired end state is for veterans to access these health tools on VA.gov, how do we get there? Exact details will need to be worked out, but generally we expect to follow these principles:
+If the desired end state is for veterans to access these health tools on VA.gov, how do we get there? Exact details will need to be worked out, but generally we expect to follow this **rough** approach:
 
+1. Build each feature on VA.gov without releasing to production, until ready for any desired UAT/beta/pre-release activities.
+2. Soft launch to production on VA.gov such that the tool is reachable at a well-defined URL, but without updating any external links or site navigation. This step facilitates UAT/limited beta activities. 
+3. (If desired) Selective linking - pick specific links to a feature in content pages, site navigation, or other channels (such as email notifications) and link to the new version of the tool.
+4. Full inclusion in VA.gov site navigation. 
+5. Suggested redirection from MHV - via page banners, making users aware of timeline for migration and offering them the new tool.
+6. Mandatory redirection from MHV - links/calls to action on MHV redirect to VA.gov.
+
+Any of steps 3-5 can also include a phased rollout where the feature is made available to a percentage of users that we can ramp up over time. 
+
+Other principles to consider:
 ### Migrate feature by feature
-Each of the "big 4" features, and any additional functionality, can and should be migrated independently. This goes for both how these features are implemented and how they are launched to end users. Doing so avoids the risk of a "big bang" cutover, and lets us learn from and refine our implementation approach as we go.
+Each of the "big 4" features, and any additional functionality, can be migrated independently. This goes for both how these features are implemented and how they are launched to end users. Doing so avoids the risk of a "big bang" cutover, and lets us learn from and refine our implementation approach as we go. _(Open Question: On the other hand, if we anticipate a high degree of inter-tool navigation, then we may want to keep users on one site or the other, even if tools exist in both places)_
 
 This means that our roll-out plan needs to account for veterans still having to navigate between sites (so single sign on should continue to be supported as smoothly as possible), and we should be able to update links to each tool and easily configure redirects as needed.
 
