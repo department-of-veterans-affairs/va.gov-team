@@ -83,6 +83,831 @@ While the agreement was lower than expected for some of the cards in the payment
 4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
     i. **False** Veterans did not create new categories that follow common app patterns. 
 
+# Results
+
+## Similarity Matrix
+![similarity-matrix (1)](https://user-images.githubusercontent.com/79866060/159011947-4c2d187d-668c-4604-ad54-1af8c03ce6a6.svg)
+
+
+## Standardization Grid
+
+<table>
+  <tr>
+   <td>
+<strong>Name</strong>
+   </td>
+   <td><strong>Account</strong>
+   </td>
+   <td><strong>Benefits</strong>
+   </td>
+   <td><strong>Benefits (but not Payments)</strong>
+   </td>
+   <td><strong>Education</strong>
+   </td>
+   <td><strong>General VA Information</strong>
+   </td>
+   <td><strong>Health</strong>
+   </td>
+   <td><strong>Payments</strong>
+   </td>
+   <td><strong>VA Letters & Documents</strong>
+   </td>
+   <td><strong>Not standardized</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Access letters and documents proving your veteran status</strong>
+   </td>
+   <td>22
+   </td>
+   <td>14
+   </td>
+   <td>6
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Check the status of a disability claim you've filed</strong>
+   </td>
+   <td>8
+   </td>
+   <td>20
+   </td>
+   <td>15
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Check your disability rating</strong>
+   </td>
+   <td>9
+   </td>
+   <td>22
+   </td>
+   <td>11
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Check-in for your doctor appointment</strong>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>44
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Contact the VA</strong>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>45
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>COVID-19 updates & information</strong>
+   </td>
+   <td>1
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>25
+   </td>
+   <td>18
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Find a VA location</strong>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>44
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Join a virtual doctor appointment</strong>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>43
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Make a doctor appointment</strong>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>41
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Manage the dependents benefitting from your disability compensation</strong>
+   </td>
+   <td>15
+   </td>
+   <td>18
+   </td>
+   <td>11
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Manage the types of notifications you would like to receive from the app</strong>
+   </td>
+   <td>34
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>12
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Manage your direct deposit information</strong>
+   </td>
+   <td>15
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>30
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Message your healthcare provider</strong>
+   </td>
+   <td>4
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>41
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Pay your health care copay</strong>
+   </td>
+   <td>4
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>5
+   </td>
+   <td>36
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Repay money you owe the VA</strong>
+   </td>
+   <td>5
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>39
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Request a prescription refill</strong>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>43
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review a list of your prescribed medications</strong>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>42
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review balance of education funds remaining to you</strong>
+   </td>
+   <td>7
+   </td>
+   <td>20
+   </td>
+   <td>11
+   </td>
+   <td>3
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>5
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review pension payments the VA has made to you</strong>
+   </td>
+   <td>9
+   </td>
+   <td>4
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>33
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review privacy policy</strong>
+   </td>
+   <td>7
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>38
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review reimbursements the VA has made to you for educational expenses</strong>
+   </td>
+   <td>4
+   </td>
+   <td>12
+   </td>
+   <td>
+   </td>
+   <td>3
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>27
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review the history of disability payments made to you</strong>
+   </td>
+   <td>6
+   </td>
+   <td>10
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>30
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your digital Veteran ID card</strong>
+   </td>
+   <td>36
+   </td>
+   <td>5
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>4
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your direct deposit payment history</strong>
+   </td>
+   <td>4
+   </td>
+   <td>3
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>39
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your health record</strong>
+   </td>
+   <td>1
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>42
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your history of vaccinations</strong>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>43
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your labs and test results</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>44
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your past & upcoming medical appointments</strong>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>42
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Review your personal information and set the address, phone numbers and email address associated with your account</strong>
+   </td>
+   <td>43
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Schedule a vaccination appointment</strong>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>2
+   </td>
+   <td>42
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Share the app</strong>
+   </td>
+   <td>14
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>30
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sign Out of the app</strong>
+   </td>
+   <td>28
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>17
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Submit a travel expense reimbursement</strong>
+   </td>
+   <td>7
+   </td>
+   <td>7
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>30
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Transfer GI bill dependents</strong>
+   </td>
+   <td>10
+   </td>
+   <td>20
+   </td>
+   <td>12
+   </td>
+   <td>3
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Turn on/off the ability to sign in with your finger print or face ID</strong>
+   </td>
+   <td>40
+   </td>
+   <td>1
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>5
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Your branch and period of military service</strong>
+   </td>
+   <td>34
+   </td>
+   <td>5
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>5
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>1
+   </td>
+   <td>1
+   </td>
+  </tr>
+</table>
 
 # Key Findings
 
@@ -312,29 +1137,24 @@ As of 3/16/22, ‘COVID-19 updates’ isn’t on the VA.gov home page (but is st
 
 # Next Steps
 
-**Tree Test: **
+**Tree Test:**
 What will we test: The proposed taxonomy for the VA Mobile app, informed by two rounds of card sorts.* Test should cover all categories & represent both easy tasks and cards/tasks that were most confusing to users, limited to 8-10 tasks.
 Who: Veterans
 Why are we testing: We are testing the findability of tasks within our proposed IA—we want to see if our new categories and labels are intuitive for users.
 
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
+[VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md#va-mobile-app-information-architecture--navigation---high-level-project-summary)
+ 
+ [VA Recruitment Checker Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+ 
+ [2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
 
 
 ## Pages and applications used
@@ -353,16 +1173,10 @@ Include any secondary research you may have.
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
-
-## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-
+## Participant Demographics
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+**46 participants** Completed the study
 
 Audience segment:
 * Veterans: x 
@@ -378,14 +1192,14 @@ Gender:
 LGBTQ+:
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
 * Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Tablet: 0
+* Smart phone: 0
+* Assistive Technology: 0
 
 
 Age:
@@ -436,14 +1250,13 @@ Disability and Assistive Technology (AT):
 
 
 ## Underserved groups we haven’t talked to 
+Findings may not include the perspectives of the following underserved Veteran groups:
+- Veterans who have a cognitive disability
+- Veterans who don’t have a degree
+- Veterans who identify as Latinx, Asian, Native, or LGBTQ+)
+- Veterans who live abroad
+- Veterans who use mobile exclusively
+We recommend studies with these underserved groups in the future.
+<img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
