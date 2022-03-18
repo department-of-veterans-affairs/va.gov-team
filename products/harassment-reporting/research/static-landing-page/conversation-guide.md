@@ -86,7 +86,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 - Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose "Screen" or your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_. Might have to click "unlock" to be able to change the setting.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_. Might have to click "unlock" to be able to change the setting. It's OK to click Deny, and you don’t have to quit Zoom.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
