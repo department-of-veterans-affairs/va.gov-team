@@ -17,7 +17,7 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
 
-### Heading:
+### Heading (H2):
 - Please update your mailing address
 
 ### Body: 
@@ -35,7 +35,7 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/v8nO2w3) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgnMrQ5)
 
-### Heading:
+### Heading (H2):
 Please update your mailing address
 
 ### Body:
@@ -56,7 +56,7 @@ Confirm my address
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Jndjrgk) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/4anlvKD)
 
-### Heading:
+### Heading (H2):
 Confirm your mailing address
 
 ### Body:
