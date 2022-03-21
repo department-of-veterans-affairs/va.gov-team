@@ -32,8 +32,6 @@ Provide links or documents for the following:
 ## Questions
 Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
 
-*For information and examples of Static vs Dynamic pages, click the following link: [Static vs Dynamic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/static-and-non-static-page-documentation.md)
-
 ### 1. Will your work result in visible changes to the user experience?
 - [ ] Yes
 - [ ] No
@@ -105,7 +103,8 @@ Examples of **research with VA.gov users** include:
 - [ ] Static pages
 - [ ] Both
 
-*For tools and applications, take into account if any static page entry points will need updates.*
+*For tools and applications, take into account if any static page entry points will need updates.<br/>
+**For information and examples of Static vs Dynamic pages, click the following link: [Static vs Dynamic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/static-and-non-static-page-documentation.md)
 
 ### 7. Will your work include:  
 
