@@ -21,9 +21,9 @@
 ## Pre-check-in Questions
 - Were you able to successfully complete pre-check-in?
   - If no, why? What screen were you on when you stopped filling out pre-check-in?
-- How many days ago did you <start OR complete> pre-check-in?
-  - Did you <start OR complete> pre-check-in immediately when you received the SMS or did you come back later to complete it? 
-- Where were you when you <started OR completed> pre-check-in?
+- How many days ago did you [start OR complete] pre-check-in?
+  - Did you [start OR complete] pre-check-in immediately when you received the SMS or did you come back later to complete it? 
+- Where were you when you [started OR completed] pre-check-in?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this pre-check-in process to another Veteran?
   - What did you like and dislike about the pre-check-in experience?
 - _Only ask Veterans who successfully completed pre-check-in._ Do you think it will change anything about checking into your appointment today?
