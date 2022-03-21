@@ -464,16 +464,14 @@ We are officially in pre-launch! So, we need to make sure anything outstanding f
 
 This may need to adjust based on what we were able to get done in sprint 69 due to the QA delays, so if there were important things we didn't get done in sprint 69, we should move them over and adjust this list as necessary:
 
-- QA updates (for Design and FE, if applicable)
-- Finish prep and hold staging review
-- Submit privacy and security review (this is async)
-- UAT go/no-go (this can not be held until we have cleared all launch blocking issues from the staging review)
-- Stretch goal: Start recruiting for UAT if we are able to hold UAT go/no-go
+- Submit privacy and security review (this is async) #37881
+- UAT go/no-go (this can not be held until we have cleared all launch blocking issues from the staging review) #38148
+- Stretch goal: Start recruiting for UAT if we are able to hold UAT go/no-go #38194
 
 ### On-site notifications
 
-- Taylor to continue connecting FE to backend
-- Towards the end of March, regroup with VANotify to determine their next steps/timelines
+- Taylor to continue connecting FE to backend #36034
+- Towards the end of March, regroup with VANotify to determine their next steps/timelines #38801
 
 ### Explorations
 
@@ -482,5 +480,5 @@ This may need to adjust based on what we were able to get done in sprint 69 due 
 ### General
 
 - Implement consistent pattern for aligning links when gray boxes are absent #38658 
-- Payment info post-launch: Add loading animation for the payment section (this will match how we handle loading for claims and health care info)
+- Payment info post-launch: Add loading animation for the payment section (this will match how we handle loading for claims and health care info) #38803
 - Adding new Cerner facility to My VA Cerner alert #38508
