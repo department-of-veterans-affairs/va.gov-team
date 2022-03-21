@@ -105,7 +105,8 @@ Complete the login account transition process
 2. What were your thoughts about the transition process?
 3. How did you feel about the quality of information you received during the transition process?
     - Follow-on: How did this impact you?
-4. What would your friend/partner/veteran think about the login account transition?
+4. How do you feel about the length of time for the transition/migration process?
+5. What would your friend/partner/veteran think about the login account transition?
 
 ### Things to watch for:
 
@@ -126,7 +127,7 @@ Complete the login account transition process
 4. How would you describe your past and current experience with VA.gov?
 5. How often do you need to verify your identity on a government website?
     - What materials or forms of ID you would normally use to verify your identity?
-6. Which accounts (if you have multiple) do you use most often?
+6. Which accounts (if you have multiple) do you use most often to log into VA.gov?
     - Follow-on: Do you associate specific credentials with specific areas of VA? or Do use different credentials for different parts of VA? Why?
 7. How would you describe your past experiences registering an account with ID.me?
     - Follow-up if they have a Login.gov account: How about Login.gov?
