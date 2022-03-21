@@ -1177,77 +1177,7 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 **Recruitment criteria**
 
 **46 participants** Completed the study
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
-
-Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: 0
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: 0
-* Smart phone: 0
-* Assistive Technology: 0
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
+<img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
 
 ## Underserved groups we haven’t talked to 
 Findings may not include the perspectives of the following underserved Veteran groups:
@@ -1257,6 +1187,6 @@ Findings may not include the perspectives of the following underserved Veteran g
 - Veterans who live abroad
 - Veterans who use mobile exclusively
 We recommend studies with these underserved groups in the future.
-<img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
+
 
 
