@@ -7,7 +7,7 @@
 - **UAT Go/No go:** Week of 3/23
 - Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/UAT%20Go-No%20Go.md)
 - **Desired date range or test duration:**
-     - Sprint 70 (3/23 - 4/5)
+     - Week of 4/4 - 4/15
 - **Desired number of users:** 
      - Recruiting 12 participants with a target of completeing 6 sessions
 - **How you'll recruit the right production test users:** 
@@ -37,10 +37,10 @@
 ## Phase II: Staged Rollout
 
 ### Planning
-**Launch Go/No go:** Week of 4/6
+**Launch Go/No go:** Week of 4/18
      - [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Benefit%20payments%20and%20debts%20-%20Launch%20Go-No%20Go.md)
 
-**Desired date range:** 04/06/2022 - 04/30/2022
+**Desired date range:** 04/18/2022 - 05/06/2022
 - **How will you make the product available in production while limiting the number of users who can find/access it:** 
      - The feature will be behind a feature flag.
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
@@ -52,14 +52,14 @@
   - [Top events: My VA page](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
 **Phased rollout:** 
-- 25% of users (1 week), Dates: week of 04/06 ([Ticket #38382)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38382)
-- 50% of users (1 week), Dates: week of 04/13 ([Ticket #38386)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38386)
-- If all goes well, then go to 100% of users: week of 04/20 ([Ticket #38388)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38388)
+- 25% of users (1 week), Dates: week of 04/18 ([Ticket #38382)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38382)
+- 50% of users (1 week), Dates: week of 04/25 ([Ticket #38386)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38386)
+- If all goes well, then go to 100% of users: week of 05/02 ([Ticket #38388)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38388)
 
 ## Go Live!
 
 ### Planning:
-- **Desired date:** 4/06/22
+- **Desired date:** 4/18/22
 - **Actual date:**
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
