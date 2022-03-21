@@ -11,3 +11,15 @@
 * Data discovery document
 * Proposed data architecture flow
 *testing update function
+
+## Sprint 2
+
+### Outputs
+* Run  second  round  of user testing  and synthesize  findings 
+* Update prototype  based on feedback and  finalize  content  for  landing  page
+* Proposal  of where 1095-B will  live
+* Front  end build:  Logging  in,  understanding   the form,  and downloading   the form 
+* Backend build:  POCs of data controller  and script
+* Start the product  guide  and product  video  for the Contact  Center review
+* Identify  if  generated PDF is accessible
+* Align  on  Opt-In  path forward
