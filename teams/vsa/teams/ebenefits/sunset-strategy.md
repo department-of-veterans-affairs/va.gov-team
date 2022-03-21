@@ -15,18 +15,18 @@
 
 | Feature                                             | Portfolio     | Launch Status | Redirect Status (on EBN)    | Link to transition doc | --    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
-| Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | **(COMPELETE 07072020)**        | Messaging with link to VA.gov; redirect install on Jan 20, 2022        | --        | --        | --
-| Submit BDD Claim (526ez)                            | vsa-bam-1     | **(COMPELETE 15112020)**        | --        | --        | --        | --
-| View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2022        | Redirected        | --        | --        | Requested with MR
-| BGS Platform Integration                            | vsa-ebenefits | **(COMPELETE)**        | N/A        | --        | --  | --
-| View Dependents on Award                            | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | --        | --  | --
-| Modify Dependents (686c/ 674)                       | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | --        | --  | (EBN using 2014 686c), BGS integration
-| Dependency Verification                             | vsa-ebenefits | **(COMPELETE)**        | N/A        | --  | -- | New CFO priority as of Q4 2020, depends on Modify Dependents
-| Pension Automation: Dependency Claims               | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | -- | -- | New USB priority as of Q4, inflates scope of Modify Dependents
-| View My Payments                                    | vsa-ebenefits | **(COMPELETE 01082020)**        | Redirected        | --        | -- | No stakeholder POC
-| Apply for PCPG CH36 (8832)                          | vsa-ebenefits | **(COMPELETE 01042020)**        | Redirected        | --        | -- | Jan 4 2021 launch via LoB request
-| Apply for VRE CH31 (1900)                           | vsa-ebenefits | **(COMPELETE 05172020)**        | Redirected        | --        | -- | New VRE (CMS) integration was required; CMS pilot May 12 (Cleveland)
-| Orientation for VRE CH31                            | vsa-ebenefits | **(COMPELETE)**         | N/A        | -- | -- | New VRE business requirement as of Q4
+| Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | **(COMPELETE 07072020)**        | Messaging with link to VA.gov; redirect install on Jan 20, 2022        | Transition doc (coming soon)        | --        | --
+| Submit BDD Claim (526ez)                            | vsa-bam-1     | **(COMPELETE 15112020)**        | --        | Transition doc (coming soon)        | --        | --
+| View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2022        | Redirected        | Transition doc (coming soon)        | --        | Requested with MR
+| BGS Platform Integration                            | vsa-ebenefits | **(COMPELETE)**        | N/A        | Transition doc (coming soon)        | --  | --
+| View Dependents on Award                            | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | Transition doc (coming soon)        | --  | --
+| Modify Dependents (686c/ 674)                       | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | Transition doc (coming soon)        | --  | (EBN using 2014 686c), BGS integration
+| Dependency Verification                             | vsa-ebenefits | **(COMPELETE)**        | N/A        | Transition doc (coming soon)  | -- | New CFO priority as of Q4 2020, depends on Modify Dependents
+| Pension Automation: Dependency Claims               | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | Transition doc (coming soon) | -- | New USB priority as of Q4, inflates scope of Modify Dependents
+| View My Payments                                    | vsa-ebenefits | **(COMPELETE 01082020)**        | Redirected        | Transition doc (coming soon)        | -- | No stakeholder POC
+| Apply for PCPG CH36 (8832)                          | vsa-ebenefits | **(COMPELETE 01042020)**        | Redirected        | Transition doc (coming soon)        | -- | Jan 4 2021 launch via LoB request
+| Apply for VRE CH31 (1900)                           | vsa-ebenefits | **(COMPELETE 05172020)**        | Redirected        | Transition doc (coming soon)        | -- | New VRE (CMS) integration was required; CMS pilot May 12 (Cleveland)
+| Orientation for VRE CH31                            | vsa-ebenefits | **(COMPELETE)**         | N/A        | Transition doc (coming soon) | -- | New VRE business requirement as of Q4
 | Update Direct Deposit (EDU)                         | vsa-authd-exp | **(COMPELETE)**  | N/A | -- | -- | BGS Integration, new research
 | View My Documents                                   | vsa-bam-2     | In discovery        | --        | --        | -- | Partially complete in Claim Status Tool, requires research on deltas
 | View POA (Representative)                           | vsa-ebenefits | In dev        | --        | [Transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md) | -- | Lighthouse integration (BGS)
