@@ -28,6 +28,12 @@
  
 </details>
 
+## Monday, March 21, 2022
+* `servicelocations`
+* `healthserviceAPI`
+* `field_va_health_connect_phone`
+* where facility hours source of truth ought to be?
+
 ## Monday, March 7, 2022
 * `servicelocations`
   * no updates
