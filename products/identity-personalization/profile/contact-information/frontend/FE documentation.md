@@ -3,9 +3,9 @@
 
 An initial email blast will go out to Veterans with flagged addresses. Following this, an even-triggered email will go out to Veterans with any newly flagged emails. This email will be accompanied by alerts on the Personal information page and Contact information page.
 
-- [Personal information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md)
-- [Contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md)
-- [Confirmation modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md)
+- [Personal information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#personal-information-page-alert)
+- [Contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#contact-information-page-alert)
+- [Confirmation modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#confirmation-modal)
 - [Email content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#email)
 
 Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
@@ -28,7 +28,7 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 <img width="673" alt="Screen Shot 2022-03-15 at 9 39 48 AM" src="https://user-images.githubusercontent.com/79372956/159099448-e7184863-5987-45b9-bab9-2c441803c545.png">
 
-## Contact information page
+## Contact information page alert
 
 - In-line warning alert in mailing address field, above “Mailing.” 
 - Appears immediately upon arriving on Contact info page.
