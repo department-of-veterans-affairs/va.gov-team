@@ -30,12 +30,35 @@
 
 ## Monday, March 21, 2022
 * `servicelocations`
+  * CMS working on defining hours to normalize the data and put in more structured format (e.g. 9:00am vs. 9am)
+  * could be blocked by hours details, hoping to resolve by 3/25
+  * LH fine going the path of least resistance as they aren't ready to recieve yet anyway
+  * locations also need to be added
 * `healthserviceAPI`
+  * LH not able to consume anything non-COVID yet
+  * nothing tested yet for full load
 * where facility hours source of truth ought to be?
+  * large facilities hours are often listed as 24/7 but smaller facilities without ERs may need to define "core hours" or "business hours" (e.g. 9-5)
+  * VAST does not have additional hours fields, but has facilities hours with an extra field for "operational hours" with additional notes/special instructions (text string that may include business hours are 9-5)
+  * could CMS become a source of truth for these?
+  * what does the current data describe? to define the subset
+  * CMS to define by service
+  * LH open to this but would like to define data definitions that would help with their additional notes/special instructions field
+  * research around CMS field definitions (business hours, operational hours, service hours, core hours, emergency, urgent, etc)
+  * possibly to explore in Q3
+  * VAST POC: Kelly, James and Dave would know
 * expected timelines for non-V1 specific items (e.g. `field_va_health_connect_phone`, mental health phone transition)
-* possible scaling back the on-demand nautre of overlay updates
+  * LH V1 initial estimate was end of Q1, not currently tied to a specific roll out date
+  * `field_va_health_connect_phone` as candidate for next prioritization
+    * Michelle verifying timeline from VISN perspective (guess is end of March), will potentially drive prioritization outside of LH V1
+  * then mental health phone transition for CMS to be SSOT
+  * could LH push health connect phone outside of V1? less convenient but possible
+  * CMS: relatively minor to stop pushing as is and expose to editors, or bring in from another source
+* possible scaling back the on-demand nature of overlay updates
+  * LH to connect with Dave
+  * service may be ok but operating status may need more urgency
 * VAOS/mobile app issue
-
+  * LH looking for other teams that may have info, CMS currently doesn't interact with VAOS
 
 ## Monday, March 7, 2022
 * `servicelocations`
