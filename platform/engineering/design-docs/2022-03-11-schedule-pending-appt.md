@@ -13,7 +13,7 @@ The goal is to add the feature to the mobile app to schedule pending appointment
 The intended audience is for the engineering team.
 
 ### Background
-Currently, the `vets-website` scheduling feature is as follows:
+Currently, the `vets-website` v2 scheduling feature is as follows:
 
 ![XL9BReCm4DrpYhb0Ue0igaIehRfgrQZT4tYGQOrDFKCaRbz3BOXYb6mGiZtly-RjH0klVMkoJu6dpICTuC_mMyfTs_QMTQ2yy11wCjpmaSruye7V7g94cNKACgXrIs_M35IUKFu8rSw7NoUmf4C7SZL9mEKIsJy-RG9LeBnB99spWkmq4RbnSX8QnaxE2OI-zXJ8yfoudhv2c00C4alFHJd2CeHURP3O5ihEhhgP3-jbflQk](https://user-images.githubusercontent.com/1910447/158439763-fd97627e-1bb7-4053-bb30-86436b64a2a4.png)
 
@@ -43,7 +43,7 @@ Currently, the `vets-website` scheduling feature is as follows:
   - See parameters listed in `Detailed Design` below
 
 ### High Level Design
-Implementation of this feature will be broken into two endpoints. One to determine eligibility at facilities and one create the appointment requests. 
+Implementation of this feature will be broken into two endpoints. One to determine eligibility at facilities and one create the appointment requests. This will use VAOS v2 process. 
 
 #### Eligibility Endpoint 
 Eligibility endpoint will largely follow the logic listed in the background, with the goal of improving the user experience. We will aggregate all consumed APIs at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
@@ -60,6 +60,8 @@ Create appointment request endpoint will also mirror the same logic of posting a
 
 #### Eligibility Endpoint 
 The backend business logic will mirror the process explained in the background above except rather than only querying the selected service and facilities, we will query all registered facilities to create a comprehensive list. If load times get unacceptably long due to front loading all queries, we will explore pre-caching results.
+
+Note that this is using VAOS v2 endpoint that have not yet been finalized but will be soon. 
 
 New endpoint data structure:
 ```json
@@ -212,7 +214,9 @@ Are endpoints we'll be consuming reliable enough to have a good user experience?
 4 weeks.
 
 ### Alternatives
-Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
+- Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
+
+- Use v1 scheduling endpoints. Since v2 will soon be finalized, most likely around the time we finalize the implementation of this feature, it makes sense to use the new process so we don't have to change our process shortly after finishing it. v2 also will be easier to use and will simplify complexity on our side.
 
 ### Future Work
 Eventually direct scheduling will be added to this flow as it is in `vets-website`
