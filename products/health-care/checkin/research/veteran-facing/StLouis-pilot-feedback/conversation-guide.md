@@ -9,19 +9,21 @@
 - Hi! My name is [Name] and I'm a researcher for the VA. We are here today to gather feedback on a new pre-check-in and check-in experience using your mobile phone. Do you mind if I ask you a few questions and possibly observe you completing check-in? It will help us continue to improve the pre-check-in and check-in experience for Veterans like yourself. This is completely voluntary.
   - If no: That is ok. Point them to the updated poster, so they can complete mobile check-in by themselves. **[End session.]**
   - If yes: Thank you. I just want to let you know that if you want to stop my questions or observations at any point just let me know and we will. Would you like to check-in via your mobile phone?
-    - If no: Did you complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
+    - If no: Did you start (but not complete) or successfully complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
       - If no: Understanding why Veterans aren't using the experience is also valuable to us, was there a particular reason that you didn't complete pre-check-in?
         - Thank you for helping us continue to improve the pre-check-in experiences. Direct Veteran to MSA to check in. **[End session.]**
       - If yes: **[Ask questions from "Pre-check-in Questions" section only.]**
-    - If yes: Great. Before you check-in, did you complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
+    - If yes: Great. Before you check-in, did you start (but not complete) or successfully complete pre-check-in prior to your appointment today? You might have received a text message with a link to review your address, phone, next of kin, etc. That is pre-check-in.
       - If no: Understanding why Veterans aren't using the experience is also valuable to us, was there a particular reason that you didn't complete pre-check-in?
         - **[Ask questions from "Observing Veteran" section only]**
       - If yes: **[Ask questions from "Pre-check-in Questions" and "Observing Veteran" sections]**
   
 ## Pre-check-in Questions
-- How many days ago did you complete pre-check-in?
-  - Did you complete pre-check-in immediately when you received the SMS or did you come back later to complete it? 
-- Where were you when you completed pre-check-in?
+- How many days ago did you start or complete pre-check-in?
+  - Did you start or complete pre-check-in immediately when you received the SMS or did you come back later to complete it? 
+- Where were you when you started or completed pre-check-in?
+- Were you able to successfully complete pre-check-in?
+  - If no, why? What screen were you on when you stopped filling out pre-check-in?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this pre-check-in process to another Veteran?
   - What did you like and dislike about the pre-check-in experience?
 - Do you think it will change anything about checking into your appointment today?
