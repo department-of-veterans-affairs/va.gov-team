@@ -3,6 +3,9 @@
 
 `James Adams, designer`
 
+>**Feature transition document is available.**
+> The View, Add & Update Dependents feature transition document is on Github [(Link to Github page)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/view-add-dependents-transition-design.md)
+
 ---
 
 [UI Review View Dependents Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/view-dependents-punch-list-4-22.md)
