@@ -29,16 +29,14 @@ Form 526 has around a 97% successful submission rate. The unsuccessful submissio
   - These issues can only be resolved upstream of EVSS.
   - Our backend recently starting sending out emails to Veterans encountering this problem
   - Coordination with Lighthouse to allow creating a PDF that the Veteran can print and mail is in the works.
-- [EVSS validation rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/support/Form526%20Validation%20Rules.docx) have not been fully implemented on the frontend. There is also a [EVSS validation rules Google doc with comments](https://docs.google.com/document/d/141qH9dh5M6C_JxRxkSdS8hygxzi46LlqZh9scOgS5sA/edit) which may be helpful is tracking down any new issues that show up.
+- [EVSS validation rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/support/Form526%20Validation%20Rules.docx) have not been fully implemented on the frontend, but may not need to be because of schema restrictions. There is also a [EVSS validation rules Google doc with comments](https://docs.google.com/document/d/141qH9dh5M6C_JxRxkSdS8hygxzi46LlqZh9scOgS5sA/edit) which may be helpful is tracking down any new issues that show up.
 - JavaScript errors that pop up occasionally.
   - These are logged in [Sentry error logs](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&query=is%3Aunresolved+source%3A526EZ-all-claims&sort=priority&statsPeriod=14d) (socks proxy required)
   - Some of these issues may be external to Form 526, e.g. using an outdated operating system or browser
   - Sentry events may include an `account_uuid` (not considered PII since it is internal) which can be used to obtain the Veteran's save-in-progress data for testing (this form data is PII, so handle appropriately)
-- Incomplete or invalid form data preventing submission. Discussion follows:
-
-A Veteran may not be able to submit if changes were made on the review & submit page, but required followup questions were not filled in. This is discussed in the "Add PTSD to review & submit" ticket ([#14014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14014)), but form 526 is unique, right now, in that is has the `showReviewErrors` set to `true` and values set in the `reviewErrors` object within the form config. This adds validation error links to the alert shown when the Veteran attempts to submit - see [pull request #16431](https://github.com/department-of-veterans-affairs/vets-website/pull/16431) for instructions and lots of screenshots.
-
-The Design System team is discussing changing the review & submit page. One proposal was to add links that returned the Veteran to the page within the flow instead of allowing inline changes on the review & submit page. This would also require active entire form validation that would only allow returning to the review & submit page once there are no longer any validation errors.
+- Incomplete or invalid form data preventing submission:
+    - A Veteran may not be able to submit if changes were made on the review & submit page, but required followup questions were not filled in. This is discussed in the "Add PTSD to review & submit" ticket ([#14014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14014)), but form 526 is unique, right now, in that is has the `showReviewErrors` set to `true` and values set in the `reviewErrors` object within the form config. This adds validation error links to the alert shown when the Veteran attempts to submit - see [pull request #16431](https://github.com/department-of-veterans-affairs/vets-website/pull/16431) for instructions and lots of screenshots.
+    - The Design System team is discussing changing the review & submit page. One proposal was to add links that returned the Veteran to the page within the flow instead of allowing inline changes on the review & submit page. This would also require active validation on the entire form that would only allow returning to the review & submit page once there are no longer any validation errors.
 
 ### Outstanding tickets
 
@@ -48,7 +46,6 @@ The Design System team is discussing changing the review & submit page. One prop
   - [ ] Page reorder ([#36028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36028))
   - [ ] New contention ([#1638](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1638)) - no idea on status
   - [ ] 526 errors unsubmittable claims epic ([#33441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33441))
-  - [ ] convert `Telephone` to `va-telephone` web component ([#36943](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36943))
 
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Design system team need to update Forms system
@@ -95,11 +92,14 @@ Some backend preliminary investigation has been done to see if decision letters 
   - [ ] Label change from "submission date" to "discharge (RAD) date" ([#29078](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29078))
   - [ ] Improve unavailable status message ([#30030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30030))
   - [ ] Upload issue ([#34034](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34034))
-  - [ ] Fix linting issues (#36054) - remaining linting issues require design/UX review since they are links that should be buttons; but we can't view all those pages without an appropriate test user, nor can we add a link style to a button (no longer allowed)
+  - [ ] Fix linting issues ([#36054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36054)) - remaining linting issues require design/UX review since they are links that should be buttons; but we can't view all those pages without an appropriate test user, nor can we add a link style to a button (no longer allowed)
+  - [ ] Add older issues ([#38778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38778)) - pattern needs review by Design system team & a11y review
 - Later work
   - Remove feature flags & associated code - `evss_upload_limit_150mb` (code in 526 as well)
   - Check if `omni_channel_link` feature flag is still needed?
   - Time estimates are disabled because of COVID delays (see [#12480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12480)), find out when this gets added back
+  - CST complete redesign planned
+  - Code cleanup (lots of eslint warnings to be addressed)
 
 ## Higher-Level Review (HLR, Form 20-0996)
 
@@ -126,6 +126,7 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
   - [ ] HLR tier 3 support ([#37913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37913)) - awaiting Luke Majewski to provide Veteran's `account_uuid` for further investigation
+  - [ ] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
@@ -138,7 +139,7 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
   - Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
   - Add `reviewErrors` to form config for review & submit page errors
 
-## Board Appeal (Form 10182 - Notice of Disagreement, a.k.a NOD)
+## Board Appeal (NOD, Form 10182)
 
 The Notice of Disagreement form has not yet been released into production. It was ready, and presented to the Board in June 2021. It has since been updated to use the v2 schema, and been through many iterations awaiting the Board's final approval to be published in production.
 
@@ -159,6 +160,7 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
   - [ ] QA review ([#21046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21046))
+  - [ ] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
@@ -174,13 +176,16 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
 
 ## Letters App
 
-This app has needed some maintenance since this team was started. Mostly around the verify address step. There is some mobile app work being done to duplicate this app.
+This app has needed some maintenance since this team was started. Mostly around the verify address step. There is some mobile app work being done to duplicate this app. Some accessibility updates have been completed recently, but it still needs some work.
 
 ### Outstanding tickets
 
 - Pending
   - [ ] Missing info ([#21066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21066))
   - [ ] Support request ([#36869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36869))
+
+- Later work
+  - Code cleanup (lots of eslint warnings to be addressed)
 
 ## Pre-need (Form 40-10007)
 
@@ -211,6 +216,7 @@ This form still needs a lot of work; see later work in outstanding tickets secti
   - Prefill telephone & email
   - Fix review & submit accordion style
   - Usability testing ([#28873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28873), placeholder?)
+  - Code cleanup (lots of eslint warnings to be addressed)
 
 ## Burial (Form 21-530EZ)
 

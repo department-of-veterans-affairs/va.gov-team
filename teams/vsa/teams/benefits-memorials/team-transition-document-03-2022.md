@@ -57,6 +57,10 @@ This product allows Veterans to file:
 Additionally, there are a lot of [tier 3 support tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aopen+label%3Avsa-claims-appeals+Tier+3) that need followup
 - Most will require the Veteran's `account_uuid` to access their data
 
+### Decision appeals
+
+Our Higher-Level Review & Notice of Disagreement forms include mock contestable issues, but because we have a strict 1 year timelimit on showing them on the contestable issues page, this mock data needs to be updated around once a year. [See this pull request for exactly what needs to be changed](https://github.com/department-of-veterans-affairs/vets-api-mockdata/pull/194).
+
 ### Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/README.md)
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/product-roadmap.md)
