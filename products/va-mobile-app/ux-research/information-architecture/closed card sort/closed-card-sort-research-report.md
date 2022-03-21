@@ -13,15 +13,25 @@ Holly Collier, Melissa Lefevre
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-goals)
 
-[Key findings](insert link to section)
+[Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-questions)
 
-[Recommendations](insert link to section)
+[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#methodology)
 
-[Who we talked to](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#hypotheses-and-conclusions)
 
-[Further research needed](insert link to section)
+[Results](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#results)
+
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#key-findings)
+
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#recommendations)
+
+[Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#participant-demographics)
+
+[Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#next-steps)
+
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#appendix)
 
 <br>
 
@@ -1278,6 +1288,21 @@ Consider testing the findability of items in the current app’s IA using TreeJa
 **Observations and Recommendations 5:**
 As of 3/16/22, ‘COVID-19 updates’ isn’t on the VA.gov home page (but is still accessible via search, and vaccine information is included in the Health section)—we recommend following their lead in terms of including it on the homescreen.
 
+## Participant Demographics
+**Recruitment criteria**
+
+**46 participants** Completed the study
+
+<img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
+
+## Underserved groups we haven’t talked to 
+Findings may not include the perspectives of the following underserved Veteran groups:
+- Veterans who have a cognitive disability
+- Veterans who don’t have a degree
+- Veterans who identify as Latinx, Asian, Native, or LGBTQ+)
+- Veterans who live abroad
+- Veterans who use mobile exclusively
+We recommend studies with these underserved groups in the future.
 
 
 
@@ -1303,37 +1328,6 @@ Why are we testing: We are testing the findability of tasks within our proposed 
 [Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
 
 
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-## Participant Demographics
-**Recruitment criteria**
-
-**46 participants** Completed the study
-
-<img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
-
-## Underserved groups we haven’t talked to 
-Findings may not include the perspectives of the following underserved Veteran groups:
-- Veterans who have a cognitive disability
-- Veterans who don’t have a degree
-- Veterans who identify as Latinx, Asian, Native, or LGBTQ+)
-- Veterans who live abroad
-- Veterans who use mobile exclusively
-We recommend studies with these underserved groups in the future.
 
 
 
