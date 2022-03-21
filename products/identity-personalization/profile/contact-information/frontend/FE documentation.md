@@ -13,7 +13,7 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 ## Personal information page Alert
 
-- In-line warning alert above H1 heading. 
+- In-line warning alert below H1 heading. 
 - Appears immediately upon logging into Profile. 
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
