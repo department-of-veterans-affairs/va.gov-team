@@ -4,7 +4,7 @@
 ## Phase I: UAT
 
 ### Planning:
-- **UAT Go/No go:** Week of 3/23
+- **UAT Go/No go:** Week of 3/28
 - Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/UAT%20Go-No%20Go.md)
 - **Desired date range or test duration:**
      - Week of 4/4 - 4/15
