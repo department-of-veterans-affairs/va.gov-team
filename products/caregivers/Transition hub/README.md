@@ -62,7 +62,6 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 **Engineering**
 - [Architectural overview: example submissions flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf)
 - [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20High-level%20Architecture%20.png)
-- [Response times](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/response-times.md)
 - [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
 - [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
 
