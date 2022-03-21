@@ -89,15 +89,15 @@ Please take a few minutes to read the email
 2. What do you think this screen/modal is asking you to do?
 3. How would you proceed?
 
-### **Task 3 - Closed Modal (Optional): 7-10 minutes**
-(If the participant would close screen/ selected continue later)
-1. Could you explain your decision to close the modal?
-2. What would you expect to happen after you close it
+### **Task 3 - Closed Modal / Dimiss (Optional): 7-10 minutes**
+(If the participant would close screen/ dimissed)
+1. Could you explain your decision to dismiss?
+2. What would you expect to happen after you dismiss?
 3. When would you expect to see this screen again?
 4. How often do you read pop-up modals?
 5. Can you recall a situation when you were promoted by a pop-up modal to get through a website?
-6. How do you think about creating a new login is going to help you?
-7. What did you dislike about the pop-up modal?
+6. What did you dislike about the pop-up modal?
+7. How do you think about creating a new login is going to help you?
 8. If you had a magic wand, what would you change?
 
 ### **Task 4 - Completing transition (Optional): 10-15 minutes**
