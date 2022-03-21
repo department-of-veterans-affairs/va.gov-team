@@ -1,10 +1,9 @@
 # Product Guides
 
 ## Patient Check-in (day of an appointment experience)
-- [PDF] [PATIENT CHECK-IN_PRODUCT_GUIDE.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8247532/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
+- [PDF] [PATIENT CHECK-IN_PRODUCT_GUIDE.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8319305/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [Word (.docx) [PATIENT CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8247531/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
-
+- [Word (.docx)] [PATIENT CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8319310/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
 
 
