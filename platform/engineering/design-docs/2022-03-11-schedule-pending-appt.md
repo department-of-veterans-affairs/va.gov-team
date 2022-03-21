@@ -211,7 +211,7 @@ This uses new VAOS endpoints that have not yet been finalized. By the time we fi
 Are endpoints we'll be consuming reliable enough to have a good user experience?
 
 ### Work Estimates
-4 weeks.
+5-6 weeks.
 
 ### Alternatives
 - Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
