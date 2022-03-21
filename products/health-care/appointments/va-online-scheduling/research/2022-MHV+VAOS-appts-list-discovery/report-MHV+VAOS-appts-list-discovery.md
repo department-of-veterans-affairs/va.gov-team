@@ -8,7 +8,7 @@ Prepared by Peter Russo - peter.russo@adhocteam.us
 
 With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
-[Research Report slide deck](https://docs.google.com/presentation/d/1kT6P3F89K8CZfT1MSvkQSU6sMWzgQz-ziloCYIPC6GY/edit?usp=sharing)
+[Research Report slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Research%20Presentation%20-%20MHV%2BVAOS%20Appointments%20List%20Discovery.pdf)
 
 <br>
 
