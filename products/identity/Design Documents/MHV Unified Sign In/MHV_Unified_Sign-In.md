@@ -15,7 +15,7 @@ MHV Unified Sign In inherits the rules from the standard user attribute processi
     - If a user has more than one IEN attribute the user `IS` permitted to login
     - If a user has one or less IEN attributes the user `IS` permitted to login
 - MHV_ICN: parsed from eauth headers
-    - If the MHV ICN does not equal the ICN inside the eauth headers returned after authnetication, the user `IS` permitted to login. We throw an error on the frontend that states the user has an ICN mismatch
+    - If the MHV ICN does not equal the ICN inside the eauth headers returned after authentication, the user `IS` permitted to login. We throw an error on the frontend that states the user has an ICN mismatch
 - Corp ID: 
     - If a user has more than one Corp ID attribute the user `IS` permitted to login
     - If a user has one or less Corp ID attributes the user `IS` permitted to login
