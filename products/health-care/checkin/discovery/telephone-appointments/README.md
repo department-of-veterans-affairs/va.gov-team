@@ -23,9 +23,9 @@ Scope of studies
          -  Confirming the patient is ready for the appointment - possibly
          -  Confirming the phone number the provider needs to cal - possibly (explore the Kano method)
 - Pre-check-in study will ask: What value (if any) does completing pre-check-in have for Vetrans with a telephone appointment? 
--        -  Exploring how to connect the VeTEXT SMS text to the pre-check-in flow
--        -  Exploring how best to emphasise the phone number confirmation (is current contact info form sufficient or do we need another screen?)
--        - Emphasise that this is appointment is telephone, not on site, and the doctor will call you. 
+        -  Exploring how to connect the VeTEXT SMS text to the pre-check-in flow
+        - Exploring how best to emphasise the phone number confirmation (is current contact info form sufficient or do we need another screen?)
+        - Emphasise that this is appointment is telephone, not on site, and the doctor will call you. 
 
 Next steps
 - Schedule meeting with Dr. Warren Hsu to understand the current state of telephone appointments from the provider / staff perspective 
