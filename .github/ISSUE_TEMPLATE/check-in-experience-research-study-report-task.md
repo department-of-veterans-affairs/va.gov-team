@@ -33,13 +33,13 @@ A research report detailing findings and design recommendations from [research s
 
 ## Tasks
 - [ ] Create research reports/readout documents of findings. 2 versions needed (Presentation and GitHUB Markup). Use this [report template](https://dsva.slack.com/archives/C0NGDDXME/p1629381608108300) and [GitHub Markup template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
-- [ ] Complete and document inclusive design participant recruitment
+- [ ] Conduct the [inclusive design analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/risk-documentation.md)
 
 ## Acceptance Criteria
 - [ ] Post research report to GitHub as presentation and markup document
 - [ ] Update the [research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/wiki/Guidelines).
 - [ ] Create necessary issues/tickets that address findings in coordination with Corey and Julie
-- [ ] Schedule readout sessions with
+- Schedule readout sessions with
     - [ ] Stakeholders (talk to Patrick about when to do this)
     - [ ] Team (either via Slack or Zoom meeting)
     - [ ] [Monday design/research sync](https://depo-platform-documentation.scrollhelp.site/research-design/Weekly-Design-+-Content-+-Research-Sync-Meeting.1938423884.html) (message Naomi Marcussen to get on the schedule)
