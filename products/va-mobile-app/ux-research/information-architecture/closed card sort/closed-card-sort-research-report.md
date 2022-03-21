@@ -1044,7 +1044,9 @@ While the agreement was lower than expected for some of the cards in the payment
    </td>
   </tr>
 </table>
-1. Finding one: **Participants agreed on which categories to place the majority of cards, with 33 out of 36 cards having at least “high” agreement in a single category among participants **(20 had “very high”)
+Cards that were sorted into a different category than we expected are indicated above in **bold**. Cards that were sorted at least 30% into a second category appear in italics. 
+
+2. Finding Two: **Participants agreed on which categories to place the majority of cards, with 33 out of 36 cards having at least “high” agreement in a single category among participants **(20 had “very high”)
 
 A few cards that had lower agreement among participants (fewer than 60% sorted them into the same category):
 
@@ -1065,23 +1067,23 @@ A few cards that had lower agreement among participants (fewer than 60% sorted t
 See [Standardization grid ](#slide=id.g11e2a70868c_0_375)for detailed table of cards & categories
 
 
-2. Finding two: **Only a few participants created new categories**
+3. Finding three: **Only a few participants created new categories**
 - 5 out of 46 participants created new categories
 - The most common new category created was Education (3)
 - Other categories created: This App (1), VA Letters & Documents (1), Other (1), Computer/Cloud Documents (1)
 
 
-3. Finding three: **Previous use of the VA Mobile app seemed to affect participant mental models**
+4. Finding four: **Previous use of the VA Mobile app seemed to affect participant mental models**
 - 19 out of 46 participants reported they had used the VA Mobile app, 27 reported they had not
 - Previous use of the VA Mobile app seemed to affect participant mental models around every category except Health (both groups had very high (78%+ agreement)
 
 
-4. Finding four: **Veterans’ prior use of VA.gov didn’t prevent them from placing cards in intended categories**
+5. Finding five: **Veterans’ prior use of VA.gov didn’t prevent them from placing cards in intended categories**
 - As expected, the majority of participants sorted cards related to Education, Letters & Disability in Benefits
 - Despite being spread out across the website, the majority of participants sorted payment-related cards into the new Payments category
 
 
-5. Finding five: **Previous use of the VA Mobile app seemed to affect participant mental models around every category except Health (both groups had very high (78%+ agreement):**
+6. Finding six: **Previous use of the VA Mobile app seemed to affect participant mental models around every category except Health (both groups had very high (78%+ agreement):**
 - Participants who reported that they were mobile users placed cards very similarly within all categories.
 78% of participants agreed on the cards within Health, Benefits & Account 
 60% of participants agreed on the cards within General VA Info, Payments
@@ -1092,8 +1094,7 @@ See [Standardization grid ](#slide=id.g11e2a70868c_0_375)for detailed table of c
 13 cards had lower (<50%) agreement. 
 
 
-6. Finding six: **Nearly all participants (42 of 46) reported that they understood the proposed categories**
-
+7. Finding seven: **Nearly all participants (42 of 46) reported that they understood the proposed categories**
 
 **However,** more than half of participants (25) reported that they felt uncertain about where to place one or more cards (21 participants said they did not). 
 -** 7 participants mentioned Benefits**
