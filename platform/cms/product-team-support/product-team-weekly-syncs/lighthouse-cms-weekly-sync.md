@@ -31,8 +31,11 @@
 ## Monday, March 21, 2022
 * `servicelocations`
 * `healthserviceAPI`
-* `field_va_health_connect_phone`
 * where facility hours source of truth ought to be?
+* expected timelines for non-V1 specific items (e.g. `field_va_health_connect_phone`, mental health phone transition)
+* possible scaling back the on-demand nautre of overlay updates
+* VAOS/mobile app issue
+
 
 ## Monday, March 7, 2022
 * `servicelocations`
