@@ -97,7 +97,7 @@ Please take a few minutes to read the email
 4. How often do you read pop-up modals?
 5. Can you recall a situation when you were promoted by a pop-up modal to get through a website?
 6. What did you dislike about the pop-up modal?
-7. How do you think about creating a new login is going to help you?
+7. How do you think creating a new login is going to help you?
 8. If you had a magic wand, what would you change?
 
 ### **Task 4 - Completing transition (Optional): 10-15 minutes**
