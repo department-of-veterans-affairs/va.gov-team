@@ -56,7 +56,10 @@ Sitewide Crew sees an opportunity to improve engagement with the main content on
   - The use of the home page itself is a given.
   - The case for change is very strong, given engagement gaps with the current design.
 - **Usability Risks** (can people figure out how to use it):
-  - _Val to provide_
+  - It may be unclear that "Search" is searching content on VA.gov. The list of other search tools below complicates what exactly they're searching when they type something into that section.
+  - The "Popular" heading may be unclear as to what exactly this list is for. (Popular what?)
+  - The "other search tools" may be unclear as to where someone would actually be going when they click on those links, and what information they would find there.
+  - There is a lot of copy in the "Browse benefits..." section. Users are likely just scanning the headings and not reading the copy. It could be generally overwhelming and create too much cognitive load to some users and they may ignore the section.
 - **Feasibility Risks** (can we build it with available tech/data):
   - The idea of creating a “parallel” home page experience seems pretty straightforward but has not been tried before in recent memory. There are potential challenges to our ideas, including Analytics setup and Search API integration. Future CMS integration has not yet been explored for feasibility or level of effort.
   - Changes to the codebase are small and localized. The only external dependency relates to the Search component, but the implementation and functionality will be identical to the search that already exists in the header.
