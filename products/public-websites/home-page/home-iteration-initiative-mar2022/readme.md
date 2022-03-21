@@ -109,8 +109,7 @@ Since it’s not going to production, we don’t have external constraints.
 
 ### After (Still on VA.gov subdomain)
 
-<img width="463" alt="image" src="https://user-images.githubusercontent.com/4054752/159072543-4fa2936e-8c33-4c33-a9ca-29f44c9b3377.png">
-
+<img width="649" alt="image" src="https://user-images.githubusercontent.com/4054752/159344901-b3eb3e07-780f-44a1-bec5-b8fe1f43f905.png">
 
 ---
 
