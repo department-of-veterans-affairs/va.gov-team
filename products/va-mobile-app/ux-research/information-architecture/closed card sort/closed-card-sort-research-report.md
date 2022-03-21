@@ -911,40 +911,177 @@ While the agreement was lower than expected for some of the cards in the payment
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Finding one: **With a few exceptions, participants agreed where cards should be sorted. They also sorted the cards into the categories we predicted** 
+<table>
+  <tr>
+   <td>
+<strong>Health \
+</strong>(no change)
+   </td>
+   <td><strong>Benefits</strong>
+<p>
+(Claims)
+   </td>
+   <td><strong>Payments \
+</strong>(New!)
+   </td>
+   <td><strong>Account \
+</strong>(Profile)
+   </td>
+   <td><strong>General VA Info \
+</strong>(Home)
+   </td>
+  </tr>
+  <tr>
+   <td>
+<ul>
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+<li><em>COVID-19 updates & information</em>
 
-1. Finding one: Participants agreed on which categories to place the majority of cards, with 34 out of 36 cards having “high” category agreement among participants (and of those, 20 cards having “very high” agreement)
-- A few cards that had lower agreement among participants (less than 60% sorted them into the same category):
-- VA letters and documents (nearly even split of 43% in Benefits & 48% in General VA Info)
-- COVID-19 updates & information (54% in General VA Info, 39% in Health)
+<li>vaccine records
 
-**However,** the cards participants sorted into each category varied & there was some overlap:
-- Health had the strongest agreement around cards of all the categories, 80%
-- Account & General VA Info had the lowest agreement, at 24% & 25% (These felt like catchall categories—participants sorted 33 different cards into Account and 22 into General VA Info)
-- The new “Payments” category had fair agreement among participants (58%)
-- There was some overlap in the cards sorted into the Benefits, Account, and Payments categories. Some participants also expressed uncertainty about these categories.
+<li>make a doctor appointment
+
+<li>list of medical appointments
+
+<li>secure messaging
+
+<li>prescription refill request
+
+<li>schedule an immunization appointment
+
+<li>patient check-in
+
+<li>health record
+
+<li>join a video appointment
+
+<li>labs and tests
+
+<li>list of prescriptions
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>claim status
+
+<li><em>VA letters and documents</em>
+
+<li>GI bill balance
+
+<li>transfer GI bill dependents
+
+<li><strong>disability rating</strong>
+
+<li><strong>manage dependents</strong>
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>disability compensation
+
+<li>education payments
+
+<li>view direct deposit payment history
+
+<li>manage direct deposit
+
+<li>pay your health care copay
+
+<li>pay back your overpayments
+
+<li>pension payments
+
+<li>travel expense reimbursement
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li><del>disability rating</del>
+
+<li>Veteran ID card
+
+<li>military information
+
+<li>personal and contact information
+
+<li><del>manage dependents</del>
+
+<li>biometric sign on setting
+
+<li>notification settings
+
+<li>sign out
+
+<li><em>share this app</em>
+
+<li>VA letters and documents
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>contact the VA
+
+<li>find a VA location
+
+<li>privacy policy
+
+<li><strong>share this app</strong>
+
+<li><strong>COVID-19 updates & information</strong>
+
+<li><em>sign out</em>
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+1. Finding one: **Participants agreed on which categories to place the majority of cards, with 33 out of 36 cards having at least “high” agreement in a single category among participants **(20 had “very high”)
+
+A few cards that had lower agreement among participants (fewer than 60% sorted them into the same category):
+
+* Education reimbursements from the VA (58% in Payments, 26% in Benefits, 8% in Account, 6% in Education)
+* COVID-19 updates & information (54% in General VA Info, 39% in Health, 2% in Account, 2% in Benefits, 1% N/S)
+* VA letters and documents (nearly even split of 43% in Benefits & 48% in General VA Info, 4% in General VA info, 4% in VA letters & documents
+
+**However, the cards participants sorted into each category varied & there was some overlap**
+
+* Health had the strongest agreement around cards of all the categories, 11/12 cards had very high agreement
+* Account, Benefits and General VA Info had the lowest agreement, at 6/7,  5/6 , and 4/5 with high agreement (These also felt like catch-all categories—participants sorted 33 different cards into Account,  22 into General VA Info and 20 in Benefits)
+* The new Payments category had fair agreement among participants, 7/8 cards had high agreement
+* There was some overlap in the cards sorted into the Benefits, Account, and Payments 
+
+    categories. Some participants also expressed uncertainty about these categories.
 
 
+See [Standardization grid ](#slide=id.g11e2a70868c_0_375)for detailed table of cards & categories
 
-2. Finding two: Only a few participants created new categories 
+
+2. Finding two: **Only a few participants created new categories**
 - 5 out of 46 participants created new categories
 - The most common new category created was Education (3)
 - Other categories created: This App (1), VA Letters & Documents (1), Other (1), Computer/Cloud Documents (1)
 
 
-3. Finding three: Previous use of the VA Mobile app seemed to affect participant mental models 
+3. Finding three: **Previous use of the VA Mobile app seemed to affect participant mental models**
 - 19 out of 46 participants reported they had used the VA Mobile app, 27 reported they had not
 - Previous use of the VA Mobile app seemed to affect participant mental models around every category except Health (both groups had very high (78%+ agreement)
 
 
-4. Finding four: Veterans’ prior use of VA.gov didn’t prevent them from placing cards in intended categories
+4. Finding four: **Veterans’ prior use of VA.gov didn’t prevent them from placing cards in intended categories**
 - As expected, the majority of participants sorted cards related to Education, Letters & Disability in Benefits
 - Despite being spread out across the website, the majority of participants sorted payment-related cards into the new Payments category
 
 
-5. Finding five: Previous use of the VA Mobile app seemed to affect participant mental models around every category except Health (both groups had very high (78%+ agreement):
+5. Finding five: **Previous use of the VA Mobile app seemed to affect participant mental models around every category except Health (both groups had very high (78%+ agreement):**
 - Participants who reported that they were mobile users placed cards very similarly within all categories.
 78% of participants agreed on the cards within Health, Benefits & Account 
 60% of participants agreed on the cards within General VA Info, Payments
@@ -955,7 +1092,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 13 cards had lower (<50%) agreement. 
 
 
-6. Finding six: Nearly all participants (42 of 46) reported that they understood the proposed categories
+6. Finding six: **Nearly all participants (42 of 46) reported that they understood the proposed categories**
 
 
 **However,** more than half of participants (25) reported that they felt uncertain about where to place one or more cards (21 participants said they did not). 
@@ -974,7 +1111,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Recommendations
 
-**Recommendation 1:**
+**Observations and Recommendations 1:**
 
 Category recommendations for top-level navigation (updated based on closed card sort findings).
 
@@ -1100,36 +1237,44 @@ Category recommendations for top-level navigation (updated based on closed card 
   </tr>
 </table>
 
-**Recommendation 2:**
-    Category labels and contents:
-- Health:
-Very high agreement overall. 
-Keep category name & contents as proposed, explore adding subcategories in tree test taxonomy.
-- Account:
-High agreement overall. 
-Move ‘VA letters & documents’ into this category, explore adding subcategories in tree test taxonomy. 
-Because this ended up as a ‘catchall’ category for some participants, we recommend renaming the category “Profile” to better distinguish from Benefits category (“Account” label may be too general).
-- Payments:
-High agreement overall. 
-Move ‘Manage direct deposit’ into this category. 
-Keep category name (could also consider an alternate label, ‘Money?’ if Payments doesn’t feel inclusive enough of both payments and debts) & other content as proposed.
-- General VA Info:
-High agreement overall. 
-Consider moving ‘share this app’ into this category. 
-Because this ended up as a ‘catchall’ category for some participants, we recommend that we consider renaming this category or dropping it altogether and having items live on Home (as they do  currently).
-- Benefits:
-This category performed the poorest, but still had high agreement overall. 
-Move ‘disability rating’ and ‘manage dependents’ into this category. 
-I recommend keeping the category name, explore adding subcategories (Education, Disability) in tree test taxonomy to address extensibility (allowing the app to grow in terms of benefit feature set).
+**Observations and Recommendations 2:**
+  
+Overall, categories tested well with participants. We recommend moving forward with a Tree Test.
+
+Breakdown of findings & recommendations by category:
 
 
-**Recommendation 3:**
+* **Health**
+    * Very high agreement overall. 
+    * Keep category name & contents as proposed, explore adding subcategories in tree test taxonomy.
+* **Account**
+    * High agreement overall. 
+    * Move ‘VA letters & documents’ into this category, explore adding subcategories in tree test taxonomy. 
+    * Because this ended up as a ‘catchall’ category for some participants, we recommend renaming the category “Profile” to better distinguish from Benefits category (“Account” label may be too general).
+* **Payments**
+    * High agreement overall. 
+    * Move ‘Manage direct deposit’ into this category. 
+    * Keep category name (could also consider an alternate label, ‘Money?’ if Payments 
+
+        doesn’t feel inclusive enough of both payments and debts) & other content as proposed.
+* **General VA Info**
+    * High agreement overall. 
+    * Consider moving ‘share this app’ into this category. 
+    * Because this ended up as a ‘catchall’ category for some participants, we recommend that we consider renaming this category or dropping it altogether and having items live on Home (as they do  currently). \
+
+* **Benefits**
+    * This category performed the poorest, but still had high agreement overall. 
+    * Move ‘disability rating’ and ‘manage dependents’ into this category. 
+    * I recommend keeping the category name, explore adding subcategories (Education, Disability) in tree test taxonomy to address extensibility (allowing the app to grow in terms of benefit feature set).
+
+
+**Observations and Recommendations 3:**
 Based on the difference in mental model between mobile vs non-mobile user, we recommend considering onboarding or cross-references for some cards to address the gap.
 
-**Recommendation 4:**
+**Observations and Recommendations 4:**
 Consider testing the findability of items in the current app’s IA using TreeJack to set a benchmark (so we have something to compare the findability of items against) before testing the new IA.
 
-**Recommendation 5:**
+**Observations and Recommendations 5:**
 As of 3/16/22, ‘COVID-19 updates’ isn’t on the VA.gov home page (but is still accessible via search, and vaccine information is included in the Health section)—we recommend following their lead in terms of including it on the homescreen.
 
 
@@ -1177,6 +1322,7 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 **Recruitment criteria**
 
 **46 participants** Completed the study
+
 <img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
 
 ## Underserved groups we haven’t talked to 
