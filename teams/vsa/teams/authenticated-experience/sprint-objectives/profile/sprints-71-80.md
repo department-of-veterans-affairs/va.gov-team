@@ -13,6 +13,13 @@
 
 ## Sprint 71 (4/6 - 4/19) 
 
+### Bad address indicator
+
+**PM**
+
+- Start on QA use cases (this will not be completed yet)
+- Figure out how we can get a staging user with the bad address indicator for testing (might require working with VA Profile)
+
 ## Sprint 72 (4/20 - 5/3)
 
 ## Sprint 73 (5/4 - 5/17)
