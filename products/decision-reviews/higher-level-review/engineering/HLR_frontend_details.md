@@ -8,16 +8,19 @@ Folder: https://github.com/department-of-veterans-affairs/vets-website/tree/mast
 
 Almost all of these sections match the Notice of Disagreement (NOD) tech docs because the two forms have a lot of similarity
 
+### Verify identity
+
+When a Veteran has not verified their account (LOA 1), the prefill (SSN & VA file number) and contestable issues will not load. This leads to a sub-optimal experience and possibly rejected submission. We are now showing an alert with a link pointing to the `/verify` page instead of the start button. Once verified (LOA 3), the Veteran can start the form normally.
+
 ### Prefill
 
 The backend is set up to provide:
-- Veteran's mailing address; **but** we're not using it on the front end because it 's available in Redux profile data, and it needs to be checked dynamically for updates. Prefill only happens upon starting a form.
+- Veteran's mailing address; **but** we're not using it on the front end because it's available in Redux profile data, and it needs to be checked dynamically for updates. Prefill only happens upon starting a form the first time.
 - Two additional pieces of prefill data are used:
-  - Veteran 's last 4 of their SSN
-  - Veteran 's last 4 of their VA File number
+  - Veteran's last 4 of their SSN
+  - Veteran's last 4 of their VA File number
 
 Returned within the `nonPrefill` part of the data
-
 
 ```js
 {
