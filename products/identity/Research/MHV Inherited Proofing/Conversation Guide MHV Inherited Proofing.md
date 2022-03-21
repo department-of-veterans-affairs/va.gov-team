@@ -68,8 +68,6 @@ We put together a prototype we would love to get your feedback on [chat particip
 
 Reminder: Again, it’s really helpful as you talk aloud as you're looking through things.
 
-- Would you be comfortable with screen-sharing your login account transition with me and talking me through your experience?
-
 > ### Scenario 1 (Optional)
 > Imagine that you have received [an email with] information from VA.gov that has informed you about the transition of your MHV account to Login.gov (Share image of email with participant)
 
