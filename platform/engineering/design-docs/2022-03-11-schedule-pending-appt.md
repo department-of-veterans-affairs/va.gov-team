@@ -114,7 +114,7 @@ Parameters:
 #### Service Eligibility Endpoint 
 Will consume following VAOS endpoints:
    - `/vaos/v0/community_care/eligibility/{type of care}` 
-      - Will be called for every type of service (~8)
+      - Will be called for every type of service (~14)
    - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
       - Will get schedule configurations for all registred facilities, including children. 
 
@@ -131,14 +131,12 @@ Endpoint data structure:
          "services": [
             {
                "type":"optometry",
-               "eligible":"true",
-               "cc":["983AB"],
+               "cc_eligible":"true",
                "va":["983","984"]
             },
             {
                "type":"amputation",
-               "eligible":"false",
-               "cc":[],
+               "cc_eligible":"false",
                "va":[]
             }
          ],
@@ -298,6 +296,7 @@ Are endpoints we'll be consuming reliable enough to have a good user experience?
       - If a user has 2 registered facilities, it's not uncommon for that add up to 12 total facilities when including children facilities. 
       - There are ~14 types of service when including subtypes. 
       - 12*14=168
+      - Double 168 when direct scheduling is added
    - Facilties and cc providers need to have the option to sort by different criteria. Separate endpoint needed to be created to re-make the call with new sorting criteria.
 
 ### Future Work
