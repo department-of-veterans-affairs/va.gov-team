@@ -1,4 +1,4 @@
-# DRAFT: Research Plan
+# Research Plan: Appointment Request Usability Study
 
 
 ## **Background**
