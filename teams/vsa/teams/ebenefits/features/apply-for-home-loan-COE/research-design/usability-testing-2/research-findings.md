@@ -1,3 +1,5 @@
+`WIP: Draft Findings`
+
 # COE Usability Study Round 2 Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Certificate of Eligibility, eBenefits Migration**
@@ -68,6 +70,7 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
 
 
 # Key Findings
+`WIP: Draft Findings`
 
 1. “Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”
 
@@ -266,5 +269,6 @@ This research does not include the perspectives of the following marginalized Ve
 - Transgender
 - Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
 
+<img width="721" alt="Screen Shot 2022-03-22 at 11 42 40 AM" src="https://user-images.githubusercontent.com/84141672/159532543-ca85914f-6445-4fdc-907c-a0cf37ce916e.png">
 
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
