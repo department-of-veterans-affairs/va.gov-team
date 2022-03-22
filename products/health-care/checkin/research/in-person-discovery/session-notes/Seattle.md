@@ -56,9 +56,9 @@ Seattle VAMC – 4/2/21
 
 ## Primary Care 
 <img width="1153" alt="Primary-Care" src="https://user-images.githubusercontent.com/66287082/159559758-d9784d33-9865-4c5d-a75c-833b4d8a68a9.png">
-- Very empty – there was no one in the waiting area
+- Very empty. There was no one in the waiting area
 - Spoke with one staff member
-- The check in setup was different than the Eye Clinic and the West Clinic. They have a kiosk and a TV screen used for queuing patients who need assistance. On the kiosk menu screen, there is an option for “Need an appointment/assistance” –used for general questions and for patients who do not have an appointment at the clinics. 
+- The check in setup was different than the Eye Clinic and the West Clinic. They have a kiosk and a TV screen used for queuing patients who need assistance. On the kiosk menu screen, there is an option for “Need an appointment/assistance” Used for general questions and for patients who do not have an appointment at the clinics. 
 - In the area, there is also a room for Labs and there is also a kiosk in front of the door to the Lab.
 - Often times, they are helping patients find where they are supposed to be
 - Sometimes, it would be simpler if they can just take a number at the entrance if they need help. They often just walk up to the window even though it was not their turn.
