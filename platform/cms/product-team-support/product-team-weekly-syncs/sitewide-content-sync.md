@@ -15,10 +15,11 @@
 - Content types: thoughts, ideas (Mikki)
 - Content criteria (Danielle)
 - Resources and Support update (Erika)
-- Action links (Kev)
+- Action links (Kev/Lynn)
 - Content quality audits and changes (Kev)
   - Italics 
   - Tables
+  - Buttons
 
 ## February 22, 2022
 ### Agenda
