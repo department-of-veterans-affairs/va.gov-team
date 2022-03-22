@@ -1,4 +1,4 @@
-# Product Use Cases Template
+# 10-10 EZ Short Form: Use Cases
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
 
