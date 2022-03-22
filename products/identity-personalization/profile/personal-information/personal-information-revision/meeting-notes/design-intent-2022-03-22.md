@@ -1,4 +1,4 @@
-	# Personal Information Revision Design Intent, 3/22/2022
+# Personal Information Revision Design Intent, 3/22/2022
   
   ## Notes  
   - Marci gave an overview of the problem we are trying to solve
