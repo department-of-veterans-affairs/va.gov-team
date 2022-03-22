@@ -48,7 +48,7 @@ Implementation of this feature will be broken into five endpoints:
    - List facilities information. Sorted by either home address, current location, alphbetically (determined by sort parameter). 
    - This is to be mapped to the facility ids in the service eligibility endpoint.
 - Service Eligibility
-   - List services and the facility ids (split between cc and va) that are elgigible to provide the service. 
+   - For each service, will provide cc elgibility and list of va facilities that provide service.
 - CC Providers
    - List cc providers information. Sorted by either home address, current location, or major cities with registered facilities (determined by sort parameter).
 - Facility Eligibility
