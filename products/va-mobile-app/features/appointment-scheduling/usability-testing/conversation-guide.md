@@ -89,7 +89,7 @@ Thank you for providing that information. It's helpful for me to understand your
 
 Thank you for your insight. Now, I’d like to take a look at a list in the mobile app. If you have the handy, feel free to navigate to it and share your screen. If you don’t have it, no worries. I can share my screen and navigate locally if you tell me where to go.  
 
-
+[Link to prototype](https://www.sketch.com/s/7af71fd5-b940-4196-9402-c34b0861b441/a/9PJ5K9n)
 
 1. What stands out to you first when looking at the landing screen?
     1. Tell me more, or why is that?
