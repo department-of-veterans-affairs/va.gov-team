@@ -112,6 +112,11 @@ List your tools; add notes.
 
 ### VA.gov collaboration cycle
 - [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
+  - The platform site contains general information on the VA UX design process, information on specific design touchpoints and milestones, and even presentation templates.
+  - The [Touchpoints](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Touchpoints.1768423528.html) table contains the key milestones in our design process:
+    - Design intent: a collaboration with other VA teams for feedback on content, acccessibility, and IA
+    - Midpoint review: a follow up meeting with key specialists and stakeholders (not including smaller check-ins and updates)
+    - Staging review: where designers work with engineers to ensure front-end implementation meets design standards
 - [Other platform references used]()
 - [Other platform references used]()
 
