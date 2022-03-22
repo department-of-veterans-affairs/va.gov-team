@@ -110,10 +110,9 @@ Include notes about which Platform process was in use when this feature was in d
 
 - [Design intent]()
 - [IA review]()
-- [Content review]()
 - [Midpoint review]()
 - [Staging review]()
-- [UAT]()
+- [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-results.md)
 
 <br>
 
@@ -128,11 +127,11 @@ Include notes about which Platform process was in use when this feature was in d
 
 <br>
 
-## Other feature documentation
+<!-- ## Other feature documentation
 - [Engineering notes]()
 - [Call center guide]()
 - [Meeting notes]()
-- [Others]()
+- [Others]() -->
 
 <br>
 
