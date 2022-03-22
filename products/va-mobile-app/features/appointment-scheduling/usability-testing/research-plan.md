@@ -94,8 +94,6 @@ Assume I have requested an appointment in VAOS (authenticated experience), or so
 
 ## **Research goals**
 
-
-
 1. Discover the Veteran’s mental models surrounding their current appointment scheduling experience. Find opportunities, pain points.
 2. Assess the usability of appointment statuses and the ability to cancel previous requests. Gather feedback on how they interpret the information.
 
@@ -129,7 +127,7 @@ Tapping into the Details screen will give them all of the expected details, thou
 This is a moderated, semi-structured interview with usability testing. It is a remote study using Zoom. 
 
 For conducting the study, ask what device they intend to use in the session, and how it compares with the tool they normally use (if different). Things like: /How proficient or comfortable are you with using the device? Is it your primary device?/
-[Link to conversation guide](url) / [Link to prototype](https://www.sketch.com/s/7af71fd5-b940-4196-9402-c34b0861b441/a/9PJ5K9n/play)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointment-scheduling/usability-testing/conversation-guide.md) / [Link to prototype](https://www.sketch.com/s/7af71fd5-b940-4196-9402-c34b0861b441/a/9PJ5K9n/play)
 
 ## **Recruitment**
 
