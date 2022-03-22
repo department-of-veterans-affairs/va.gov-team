@@ -23,6 +23,7 @@ Seattle VAMC – 4/2/21
 
 ## Eye Clinic
 <img width="576" alt="Eye-clinic-photo" src="https://user-images.githubusercontent.com/66287082/159559677-dc6c991a-7dc7-478f-9e6d-09fdc361365e.png">
+
 - There is 1 -2 kiosks in the Eye Clinic
 - The clinic was fairly empty… there was probably about 4 people waiting in the Eye Clinic
 - There was son who was with his father and there was another veteran waiting
@@ -56,6 +57,7 @@ Seattle VAMC – 4/2/21
 
 ## Primary Care 
 <img width="1153" alt="Primary-Care" src="https://user-images.githubusercontent.com/66287082/159559758-d9784d33-9865-4c5d-a75c-833b4d8a68a9.png">
+
 - Very empty. There was no one in the waiting area
 - Spoke with one staff member
 - The check in setup was different than the Eye Clinic and the West Clinic. They have a kiosk and a TV screen used for queuing patients who need assistance. On the kiosk menu screen, there is an option for “Need an appointment/assistance” Used for general questions and for patients who do not have an appointment at the clinics. 
@@ -64,8 +66,9 @@ Seattle VAMC – 4/2/21
 - Sometimes, it would be simpler if they can just take a number at the entrance if they need help. They often just walk up to the window even though it was not their turn.
 
 
-##Lab
+## Lab
 <img width="839" alt="Lab" src="https://user-images.githubusercontent.com/66287082/159559884-39f8c200-0542-4980-b85c-5d609988df18.png">
+
 - Very few people waiting in the waiting area
 - 2 kiosks as you walk in and a TV screen close near the entrance to the different lab rooms so patients can see where they are in the queue and which lab room to go into
 - Lab person has both VetLink open as well as VistA
