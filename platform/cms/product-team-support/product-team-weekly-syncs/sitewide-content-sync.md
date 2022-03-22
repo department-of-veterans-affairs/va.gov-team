@@ -17,8 +17,8 @@
 - Resources and Support update (Erika)
 - New support for action links (Lynn)
 - Content quality audits and changes (Kev, Lynn)
-  - Italics 
-  - Tables
+  - Italics (https://airtable.com/invite/l?inviteId=invq3wdbXUiJS8ugP&inviteToken=1766c368c5b6fb4f95c8bf87a9861f1d60f8e47e608251e1d585b60cabf02a1d&utm_source=email&originApplicationId=appsl8nrMBaj2xkeX) 
+  - Tables (https://airtable.com/invite/l?inviteId=invq3wdbXUiJS8ugP&inviteToken=1766c368c5b6fb4f95c8bf87a9861f1d60f8e47e608251e1d585b60cabf02a1d&utm_source=email&originApplicationId=apphETq1vi4mpYD0J)
   - Buttons
 
 ## February 22, 2022
