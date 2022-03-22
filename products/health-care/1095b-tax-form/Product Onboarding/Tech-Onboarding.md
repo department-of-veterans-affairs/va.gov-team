@@ -25,7 +25,7 @@ The widget code lives in the **src/applications/static-pages/download-1095b/**  
 
 [VA React widget documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html)
 
-## Ongoing Issues /Considerations**
+## Ongoing Issues /Considerations
 
 
 
