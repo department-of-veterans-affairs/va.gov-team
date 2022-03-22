@@ -2,7 +2,7 @@
 
 **Author(s):** Andrew Herzberg  
 **Last Updated:** March 11,2022  
-**Status:** Draft | **In Review** | Approved  
+**Status:** **Draft** | In Review | Approved  
 **Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
 
 ## Overview
@@ -43,106 +43,180 @@ Currently, the `vets-website` v2 scheduling feature is as follows:
   - See parameters listed in `Detailed Design` below
 
 ### High Level Design
-Implementation of this feature will be broken into two endpoints. One to determine eligibility at facilities and one create the appointment requests. This will use VAOS v2 process. 
+Implementation of this feature will be broken into five endpoints:
+- Facility Info
+   - List facilities information. Sorted by either home address, current location, alphbetically (determined by sort parameter). 
+   - This is to be mapped to the facility ids in the service eligibility endpoint.
+- Service Eligibility
+   - List services and the facility ids (split between cc and va) that are elgigible to provide the service. 
+- CC Providers
+   - List cc providers information. Sorted by either home address, current location, or major cities with registered facilities (determined by sort parameter).
+- Facility Eligibility
+   - Will take list of facilities, type of service and type of eligibility (request or direct. Will only allow request until direct scheduling feature is built out )
+   - Will return each facility eligibility. If not eligibile, will give reason why
+- Create Appointment Request
+   - Creates appointment request
 
-#### Eligibility Endpoint 
-Eligibility endpoint will largely follow the logic listed in the background, with the goal of improving the user experience. We will aggregate all consumed APIs at the beginning of the process in order to create a single new endpoint to provide all information needed to schedule a request. It will only list types of care that are supported, along with the facilities that support that type of service. This will benefit the process in multiple ways:
-   - Move any business logic from the front end to the back end 
-   - Simplify overall backend and front complexity. 
-   - Create a better UX experience. Users will know of a service and facility eligibility before selecting it and waiting for a response.  
+These endpoints will largely follow the logic listed in the background, with changes to improving the user experience. We will provide as much information as possible in the beginning of the process, to avoid users will being denied making an appointment already part way into the process
 
-#### Create Appointment Request 
-Create appointment request endpoint will also mirror the same logic of posting appointment request with no changes.
+Note: These endpoint will be utilizing VAOS v2 process.
 
 ## Specifics
 
 ### Detailed Design
 
-#### Eligibility Endpoint 
-The backend business logic will mirror the process explained in the background above except rather than only querying the selected service and facilities, we will query all registered facilities to create a comprehensive list. If load times get unacceptably long due to front loading all queries, we will explore pre-caching results.
+#### Facility Info Endpoint 
+Will consume following VAOS endpoints:
+   - `/vaos/v2/facilities?children=true&ids[]={facility id}&ids[]={facility id}`
+      - Will only provide user registred facilities but return all children as well. 
 
-Note that this is using VAOS v2 endpoint that have not yet been finalized but will be soon. 
-
-New endpoint data structure:
+Parameters:
+   - sort: string
+      - by home address, by current location, alphbetical 
+   
 ```json
 {
    "data": {
-      "type": "appointment-eligibility",
+      "type": "facility-info",
+      "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
+      "attributes": {
+         "facilities": [
+            {
+               "id": "983AB",
+               "name": "Sun Valley CC Center",
+               "city": "Sun Valley",
+               "state": "OH",
+               "cerner": "false",
+               "miles": "1.0"
+            },
+            {
+               "id": "983",
+               "name": "Cheyenne VA Medical Center",
+               "city": "Cheyenne",
+               "state": "WY",
+               "cerner": "true",
+               "miles": "1.2"
+            },
+            {
+               "id": "984",
+               "name": "Dayton VA Medical Center",
+               "city": "Dayton",
+               "state": "OH",
+               "cerner": "true",
+               "miles": "0.6"
+            }
+         ]
+      }
+   }
+}
+```
+
+#### Service Eligibility Endpoint 
+Will consume following VAOS endpoints:
+   - `/vaos/v0/community_care/eligibility/{type of care}` 
+      - Will be called for every type of service (~8)
+   - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
+      - Will get schedule configurations for all registred facilities, including children. 
+
+Parameters:
+   - facility_ids: array
+      
+Endpoint data structure:
+```json
+{
+   "data": {
+      "type": "service-eligibility",
       "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
       "attributes": {
          "services": [
             {
                "type":"optometry",
                "eligible":"true",
-               "cc":[
-                  {
-                     "name": "Phoenix CC center",
-                     "city": "Phoenix",
-                     "state": "AZ",
-                     "eligible": {
-                        "request": "false",
-                        "request_reason": "Does not provide chosen service",
-                        "direct": "false",
-                        "direct_reason": "nil"   
-                     }
-                  },
-                  {
-                     "name": "Sun Valley CC Center",
-                     "city": "Sun Valley",
-                     "state": "OH",
-                     "eligible": {
-                        "request": "true",
-                        "request_reason": "nil",
-                        "direct": "false", 
-                        "direct_reason": "nil"
-                     }
-                  }
-               ],
-               "cc_providers": [
-                  {
-                     "name": "Ashinoff, Stephen",
-                     "address": "31-75 23rd st, Long Island City, NY 11106",
-                     "distance": "0.7 Miles"
-                  }
-               ],
-               "va":[
-                  {
-                     "name": "Cheyenne VA Medical Center",
-                     "city": "Cheyenne",
-                     "state": "WY",
-                     "cerner": "true",
-                     "eligible": {
-                        "request": "false",
-                        "request_reason": "Non-primary facility with no visit within 12-24 months",
-                        "direct": "false", 
-                        "direct_reason": "nil"
-                     }
-                  },
-                  {
-                     "name": "Dayton VA Medical Center",
-                     "city": "Dayton",
-                     "state": "OH",
-                     "cerner": "true",
-                     "eligible": {
-                        "request": "true",
-                        "request_reason": "nil",
-                        "direct": "false", 
-                        "direct_reason": "nil"
-                     }
-                  }
-               ]
-         }
-      ]
+               "cc":["983AB"],
+               "va":["983","984"]
+            },
+            {
+               "type":"amputation",
+               "eligible":"false",
+               "cc":[],
+               "va":[]
+            }
+         ],
       }
    }
 }
 ```
-Note: Direct scheduling will be hardcoded to false until direct schedule feature is added.
 
-#### Create Appointment Request 
-This endpoint will act as a pass through directly passing the parameters given to the VAOS endpoint `/vaos/v2/appointments`. 
+#### CC Providers Endpoint
+Will consume following VAOS endpoints:
+   - `/facilities_api/v1/ccp/provider?{coordinate information}`
 
 Parameters:
+   - sort: string
+      - by home location
+      - by current location
+      - by city registered facilties reside in
+```json
+{
+   "data": {
+      "type": "cc-providers",
+      "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
+      "attributes": {
+         "cc_providers": [
+            {
+               "name": "Ashinoff, Stephen",
+               "address": "31-75 23rd st, Long Island City, NY 11106",
+               "distance": "0.7 Miles"
+            },
+            {
+               "name": "Nelson, Linda",
+               "address": "2152 N 21st Ln, Long Island City, NY 11106",
+               "distance": "1.2 Miles"
+            }
+         ]
+      }
+   }
+}
+```
+
+
+#### Facility Eligibility Endpoint
+Will consume following VAOS endpoints:
+   - `/vaos/v2/eligibility?facility_id={id}&clinical_service_id={service_type}&type=request`
+      - Will be called for every facility eligible for the chosen type of service.
+Parameters:
+   - facility_ids: array
+   - service_type: string
+   - type: string
+      - Will always be request until direct scheduling feature is built out
+```json
+{
+   "data": {
+      "type": "facility-eligibility",
+      "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
+      "attributes": {
+         "facilities": [
+            {
+               "id": "983",
+               "eligible": "true",
+               "reason": "nil",
+             
+            },
+            {
+               "id": "984",
+               "eligible": "false",
+               "reason": "Non-primary facility with no visit within 12-24 months"
+            }
+         ]
+      }
+   }
+}
+```
+
+#### Create Appointment Request Endpoint
+This endpoint will act as a pass through directly passing the parameters given to the VAOS endpoint `/vaos/v2/appointments`. 
+
+Payload:
 ```json
 {
    "kind":"clinic",
@@ -217,6 +291,14 @@ Are endpoints we'll be consuming reliable enough to have a good user experience?
 - Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
 
 - Use v1 scheduling endpoints. Since v2 will soon be finalized, most likely around the time we finalize the implementation of this feature, it makes sense to use the new process so we don't have to change our process shortly after finishing it. v2 also will be easier to use and will simplify complexity on our side.
+
+- I originally wanted to aggregate all consumed VAOS endpoint into a single endpoint in order to front load all queries and provide all information from the start of the process. This became inpractical for a number of reasons:
+   - `/vaos/v2/eligibility` check would have need to be called too many times. 
+      - (# of registered facilities. Including child facilities) X (# of types of service). 
+      - If a user has 2 registered facilities, it's not uncommon for that add up to 12 total facilities when including children facilities. 
+      - There are ~14 types of service when including subtypes. 
+      - 12*14=168
+   - Facilties and cc providers need to have the option to sort by different criteria. Separate endpoint needed to be created to re-make the call with new sorting criteria.
 
 ### Future Work
 Eventually direct scheduling will be added to this flow as it is in `vets-website`
