@@ -33,10 +33,10 @@ This table includes links to the individual research studies.
 
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| Discovery | [Form gating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md) | [Github link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md) | [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md) | Nov./Dec. 2019 |
-| Usability 1 | [Prototype usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md) | [Github link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-convo-guide.md) | [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-analysis.md) | --- |
-| Usability 2 | [Staging usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md) | [Github link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-convo-guide.md) | [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-synthesis.md) | May/Jun. 2020 |
-| UAT | [User acceptance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-convo-guide.md) | [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-results.md) | Jun. 2021 |
+| Discovery | [Form gating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md) | [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md) | NOV/DEC 2019 |
+| Usability 1 | [Prototype usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-convo-guide.md) | [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-analysis.md) | --- |
+| Usability 2 | [Staging usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-convo-guide.md) | [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-synthesis.md) | MAY/JUN 2020 |
+| UAT | [User acceptance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-convo-guide.md) | [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-results.md) | JUN 2021 |
 
 
 ### References used
@@ -70,8 +70,19 @@ This table includes links to the individual design work products.
 | Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
 | Information architecture flow | [Tool]() | No text | date | IA review |
 | Wireframes | [Tool]() | No text | date | Design intent |
-| Mockups | [Tool]() | Preliminary text | date | Midpoint |
-| Prototype | [Tool]() | Final text | date | Staging |
+| View Dependents midpoint mockups | [Adobe XD](https://xd.adobe.com/view/659d31d9-4d54-4400-ad7b-25bbe62ef212-30ce/) | Preliminary text | SEP 2021 | Midpoint |
+| View dependents V2 with formlet | [Adobe XD](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/) | Preliminary text | JUL 2021 | Design intent |
+| Dependency verification prototype | [Adobe XD](https://xd.adobe.com/view/2ac2e549-4997-4870-8115-17f62703bb0f-7f91/?fullscreen) | Preliminary text | AUG 2021 | Midpoint |
+| 686c Introduction | [Adobe XD](https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-intro-text.md) | Final text | MAR 2021 | Production |
+| 686c Checkboxes & Veteran info | [Adobe XD](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/) | Final text | SEP 2021 | Production |
+| 686c Add spouse | [Adobe XD](https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/) | Final text | APR 2021 | Production |
+| 686c Veteran marriage | [Adobe XD](https://xd.adobe.com/view/a0834c4a-7109-4eff-6a61-43c2bd5cbcd6-d6b2/) | Final text | SEP 2021 | Production |
+| 686c Add child | [Adobe XD](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/) | Final text | Jan 2022 | Production |
+| 686c Add student (21-674) | [Adobe XD](https://xd.adobe.com/view/bccb4115-4715-4c19-74fc-71759fd7042d-cafa/) | Final text | MAR 2021 | Production |
+| 686c Remove stepchild | [Adobe XD](https://xd.adobe.com/view/f683f361-0a0d-4b7e-796e-49d0a8265195-80b2/) | Final text | SEP 2021 | Production |
+| 686c Dependent's death | [Adobe XD](https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/) | Final text | SEP 2021 | Production |
+| 686c Report divorce, Child marriage & Student left school | [Adobe XD](https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/) | Final text | SEP 2021 | Production |
+| 686c Review & Confimation | [Adobe XD](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/) | Final text | MAR 2021 | Production |
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
@@ -83,17 +94,14 @@ This table includes links to the individual design work products.
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508) resources used
-- [Internal 508 checklist]()
+- [Internal 508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ### Tools used
 List your tools; add notes.
   
-- Sketch for Teams
-- UXPin
-- Mural
+- Adobe XD
 - Github markdown
-- VSCode
 
 <br>
 
