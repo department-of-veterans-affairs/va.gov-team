@@ -45,9 +45,10 @@ We used these UX research resources during design and development.
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
 ### Templates
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
+- [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
+- [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Findings template: presenting to designers](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit#slide=id.g892adcb623_0_141)
+- [Findings template: presenting to VA stakeholders](https://docs.google.com/presentation/d/19l8281cENnUmdz0qIsyPcVIeoyB8uw_kzoHYWbuYlwA/edit#slide=id.g892adcb623_0_141)
 
 <br>
 
@@ -111,13 +112,12 @@ List your tools; add notes.
 </details>  
 
 ### VA.gov collaboration cycle
-- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
-  - The platform site contains general information on the VA UX design process, information on specific design touchpoints and milestones, and even presentation templates.
+- [VA Platform site collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
+  - The Platform collaboration cycle site contains a general overview of the VA UX design process, as well as information on specific design touchpoints and milestones.
   - The [Touchpoints](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Touchpoints.1768423528.html) table contains the key milestones in our design process:
     - Design intent: a collaboration with other VA teams for feedback on content, acccessibility, and IA
     - Midpoint review: a follow up meeting with key specialists and stakeholders (not including smaller check-ins and updates)
     - Staging review: where designers work with engineers to ensure front-end implementation meets design standards
-- [Other platform references used]()
 - [Other platform references used]()
 
 <br>
