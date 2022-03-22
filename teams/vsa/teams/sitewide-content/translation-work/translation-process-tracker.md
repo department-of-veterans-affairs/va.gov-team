@@ -41,3 +41,5 @@
 | Teen boosters | 12/13 | 12/13 |
 | Vaccine updates 3/1 | 3/1 | 3/1 | 3/11 | 3/11 | 3/11 | 3/1 | 3/14 | 
 | Updates to Currently available vaccines accordion on main hub page | 3/15 | 3/16 | 3/17 | 3/17 | 3/17 | 3/15 | 3/17 |
+| Mask updates on FAQs | 3/21 | 3/21 | | | | 3/22 | 
+| COVID-19 screening questionaire | | 3/21 |
