@@ -1,15 +1,15 @@
 
-## Front End Architecture
+# Front End Architecture
 
 Last Updated: March 22, 2022
 
-**Overview**
+## Overview
 
 The front end is built up of two parts, a React widget which lives in vets-website repo (see links below) that was built by the CEDAR 1095B  team, and the landing page in Drupal CMS where the React widget will be embedded, which is developed by Sitewide Content team. We chose to build a widget rather than a react application because most of the page is static content, and it is easier for the drupal team to update static content when it lives in their CMS. The only dynamic part of the page lives in the widget. 
 
 The widget code lives in the **src/applications/static-pages/download-1095b/**  directory on the feature branch. Currently it is awaiting code review (see relevant links) 
 
-**Relevant Links**
+## Relevant Links
 
 [The front end feature branch](https://github.com/department-of-veterans-affairs/vets-website/tree/feature/37015-poc-1095b-page)
 
@@ -25,7 +25,7 @@ The widget code lives in the **src/applications/static-pages/download-1095b/**  
 
 [VA React widget documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html)
 
-**Unfinished Elements /Issues /Considerations**
+## Ongoing Issues /Considerations**
 
 
 
