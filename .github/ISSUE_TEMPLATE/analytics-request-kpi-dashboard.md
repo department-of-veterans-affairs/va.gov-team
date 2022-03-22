@@ -26,9 +26,9 @@ Once you’ve submitted this ticket template, your KPI dashboard request will be
 ## Instructions for the VFS team
 In order to pull the correct data for your product, we need your help to define what pages and events to include, in addition to basic product info. We’ll need a filled out [KPI request template](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) before we can pull this ticket into our sprint.
 
-*NOTE: If you do not have Google access, you can download an Excel version of the template [here](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/1586823275/KPI%20Dashboard%20Product%20Details%20-%20Template_MAKE%20A%20COPY.xlsx?inst-v=919e847b-90c6-4996-b3c2-6ee78f272179).*
+*NOTE: If you do not have Google access, you can download an Excel version of the template [here](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/1586823275/KPI%20Dashboard%20Product%20Details%20Template%20-%20MAKE%20A%20COPY.xlsx?inst-v=ced1f4dd-e997-4aa2-9ae8-2cebe369b42f).*
 
-- [ ] Make a copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) [(or download Excel version)](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/1586823275/KPI%20Dashboard%20Product%20Details%20-%20Template_MAKE%20A%20COPY.xlsx?inst-v=919e847b-90c6-4996-b3c2-6ee78f272179)
+- [ ] Make a copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) [(or download Excel version)](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/1586823275/KPI%20Dashboard%20Product%20Details%20Template%20-%20MAKE%20A%20COPY.xlsx?inst-v=ced1f4dd-e997-4aa2-9ae8-2cebe369b42f)
 - [ ] Complete worksheet as instructed
 - [ ] Link your completed spreadsheet here: ______
 - [ ] Check your sharing settings to make sure the Analytics team will be able to access it
