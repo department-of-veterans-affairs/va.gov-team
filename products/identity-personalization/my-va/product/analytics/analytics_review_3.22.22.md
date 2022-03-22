@@ -25,7 +25,7 @@ All reports are from 7.1.22 (around when the 2.0 design launched) to 3.21.22
 ## Questions
 
 - Why is "View your profile" the top click? Do people expect to see info on My VA that they do not? Or do people need to make profile updates?
-- If we moved up "You have n unread messages," would more people get to their health care inboxes faster?
+- If we moved up "You have n unread messages," would more people get to their health care inboxes faster? 
 
 ## Thoughts
 
