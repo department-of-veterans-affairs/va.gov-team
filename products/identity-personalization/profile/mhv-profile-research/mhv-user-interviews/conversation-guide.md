@@ -1,6 +1,4 @@
-
 # MHV Personal Information Interviews - Conversation Guide
-
 ## Guide for note taking
 Thank you note takers! Here's a breakdown of what we're hoping to highlight in this study, in terms of Veteran feedback:
 
@@ -69,7 +67,7 @@ Before we start, a few things I want to mention:
 
 ## Task 2: Review My Profile - 10 minutes
 - Let’s take a look at the profile page - can you click on that link please?
-- Talk to me about what you see on this page.
+- Tell me about how you use this page.
 - Why are some of the boxes greyed out? 
 	- What are your thoughts on why they are greyed out? 
 - Which of these fields are important for you to be able to change?
@@ -121,7 +119,7 @@ Now there are a couple of specific questions I have on this page.
 
 ## Task 4: Card sort - 10 minutes
 - Next we’re going to do a sorting activity on a different website. Let me send you the link.
-- ADD CARD SORT LINK
+- UPDATE CARD SORT LINK FOR PARTICIPANTS ([preview link here](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz/sort))
 * This is a tool that helps us understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in an expected way. It is kind of like this, imagine you own a grocery store and you have a truck delivering a shipment of new products and you need to figure out the best place for everything in the store so that shoppers can easily find it. You might consider putting the cheddar cheese with other dairy products and a broom near the cleaning supplies.
 
 * On the left, we have various cards with information you might recognize from the MHV pages we just reviewed. On the right you can drag items and group them together. If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
