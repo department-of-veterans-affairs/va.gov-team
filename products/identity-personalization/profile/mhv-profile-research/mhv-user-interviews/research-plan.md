@@ -11,13 +11,9 @@ This research supports these OCTO objectives:
 2. Veterans and their families can find a single, authoritative source of information.
 
 ## Research Goals	
-### Primary goals
 Through this research, we’d like to understand:
 1. How MHV users use the personal information sections, especially certain fields in My Profile and the My Links section.
 2. Where MHV users expect to find health-related profile information.
-
-### Secondary goal
-We will aim to gain to insights that help us understand how the VA.gov profile currently meets MHV user expectations.
 
 ### Outcome
 We’ll use our findings to inform our strategy for moving forward with rolling the MHV profile into the VA.gov profile.  
@@ -52,7 +48,7 @@ We’ll conduct semi-structured interview, and a moderated hybrid card sort usin
 Remote via zoom.
 
 ### Research materials
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/conversation-guide.md) 
 - myhealth.va.gov
 - [Card sort](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz/sort)
 
@@ -89,7 +85,7 @@ Within the last 18 months, have you been to VA medical centers **in two differen
 We’ll run research sessions from March 30-April 5, 2022.
 
 ### Length of sessions
-TBD
+45 minutes
 
 ### Availability
 Please schedule 15 minutes between sessions, and no more than 5 sessions per day:
@@ -107,7 +103,7 @@ Please schedule 15 minutes between sessions, and no more than 5 sessions per day
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Liz Lantz	
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test:	n/a, already completed
 - Note-takers:	TBD
 - Observers:	
 	- samara.strauss@va.gov
@@ -119,3 +115,4 @@ Please schedule 15 minutes between sessions, and no more than 5 sessions per day
 	- tom.harrison@adhocteam.us 
 	- alexia.wunder@bylight.com
 	- arienne.walters@bylight.com
+	-  lauryl@adhocteam.us 
