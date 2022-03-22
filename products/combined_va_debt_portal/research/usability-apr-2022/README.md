@@ -1,1 +1,5 @@
-README.md
+- Research plan (TBD)
+- Conversation guide (TBD)
+- Notes (TBD)
+- Topline summary (TBD)
+- Research readout (TBD)
