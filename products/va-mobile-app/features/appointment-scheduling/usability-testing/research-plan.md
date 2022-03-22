@@ -3,7 +3,7 @@
 
 ## **Background**
 
-As a Veteran who uses the VA Mobile App (or other schedulers) I want to understand the details of appointments that hold a Pending status. 
+As a Veteran who uses the VA Mobile App (or other schedulers) I want to understand the mental model of appointments with existing statuses (Pending, Confirmed, and Canceled) and testing usability of the Appointment Request flow. 
 
 Assume I have requested an appointment in VAOS (authenticated experience), or somewhere else. I want to ensure the experience is reflected in the VA Mobile App, so that I can either start or continue to use the VA Mobile App to manage my appointments.
 
