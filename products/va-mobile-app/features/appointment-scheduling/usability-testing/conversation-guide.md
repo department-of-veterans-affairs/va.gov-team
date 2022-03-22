@@ -85,7 +85,7 @@ Thank you for providing that information. It's helpful for me to understand your
 **Things to watch: **How the participant uses digital services to manage appointments. General actions they expect to occur after making an appointment.
 
 
-### Task 2: Appointment Request usability test. In-app or prototype
+### Task 2: Appointment Request usability test. Prototype.
 
 Thank you for your insight. Now, I’d like to take a look at a list in the mobile app. If you have the handy, feel free to navigate to it and share your screen. If you don’t have it, no worries. I can share my screen and navigate locally if you tell me where to go.  
 
