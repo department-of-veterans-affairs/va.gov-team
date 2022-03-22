@@ -26,10 +26,11 @@ We’ll use our findings to inform our strategy for moving forward with rolling 
 1. What level of familiarity do MHV users have with the personal information section?
 2. How do MHV users update their personal information, if not through the MHV profile?
 3. How useful are the personal information sections to MHV users? Specifically, we want to know how Veterans use:
-- the “My VA Treating Facility fields”?
-- the “My relationship with the VA field?”
-- the Health information card?
-- the My links feature?
+- the “My VA Treating Facility fields”
+- the “My relationship with the VA field”
+- the Health information card
+- the My links feature
+- the In Case of emergency feature
 3. What information from the personal information section is important for a MHV user to be able to edit?
 4. How might the current VA.gov profile meet MHV user needs?
 5. Where do MHV users expect to find health-related preference and personal information, such as blood type and treating facilites?
@@ -45,7 +46,7 @@ We’ll use our findings to inform our strategy for moving forward with rolling 
 8. Previous research has shown that the VA.gov profile meets Veteran expectations, so we expect that it will mostly meet the needs of MHV users. The exception will be the absence of MHV notification settings.
 
 ## Method	
-We’ll conduct semi-structured interview, and a moderated card sort using OptimalWorkshop.
+We’ll conduct semi-structured interview, and a moderated hybrid card sort using OptimalWorkshop.
 
 ### Location
 Remote via zoom.
@@ -53,7 +54,7 @@ Remote via zoom.
 ### Research materials
 - [Link to conversation guide](url goes here) 
 - myhealth.va.gov
-- card sort (link coming)
+- [Card sort](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz/sort)
 
 ## Recruitment	
 ### Recruitment approach
@@ -64,20 +65,20 @@ Please recruit 20 participants for 10 completed sessions.
 
 #### Primary criteria (must-haves)
 1. Have a MHV premium account and logged in for reasons other than this research study within the last 12 months.
-	
-	**Qualifying questions**:  
+**Qualifying questions**:  
 	1. Do you have a MHV account? (Answer must be yes to qualify)
 	2. Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in. (Answer must by premium to qualify)
 	3. Have you used any features on MHV within the last 12 months? Features include secure messaging, refilling prescriptions, accessing medical records. (Answer must be yes to qualify)
 1. At least 50% must have received care in VA medical facilites in two different states in the last 18 months.
-
-	**Qualifying question:**
-	Within the last 18 months, have you been to VA medical centers **in two different states** to receive care? (Answer must be yes to qualify)
+**Qualifying question:**
+Within the last 18 months, have you been to VA medical centers **in two different states** to receive care? (Answer must be yes to qualify)
 3. Be willing to login to their MHV account and share their screen via Zoom with the facilitator (will expose personal information).
 4. At least 50% must identify as Black, Hispanic/Latina/Latinx, or Native.
 5. At least 50% must identify as having a cognitive consideration.
 6. At least 50% must identify as other than male.
 7. At least 50% are without a degree or professional certificate
+8. At least 25% are under 35
+9. At least 25% are over 55
 
 #### Secondary criteria (nice-to-haves)
 * 100% have an identified cognitive disability (*anyone* can acquire a cognitive disability)
@@ -100,9 +101,9 @@ Please schedule 15 minutes between sessions, and no more than 5 sessions per day
 | 4/4 | 9:30am - 5pm  |
 | 4/5 | 8am - 4pm  |
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+## Team Roles		
 - Moderator: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
+	- Back-up moderators: Christina Gednalske (email below) and Angela Agosto (angela.agosto@adhocteam.us)
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Liz Lantz	
@@ -114,5 +115,7 @@ Please list the people who will be serving in each role. **Include the primary p
 	- carnetta.scruggs@va.gov
 	- christina.gednalske@adhocteam.us
 	- marci.mcguire@gcio.com
+	- adam.whitlock@adhocteam.us
+	- tom.harrison@adhocteam.us 
 	- alexia.wunder@bylight.com
 	- arienne.walters@bylight.com
