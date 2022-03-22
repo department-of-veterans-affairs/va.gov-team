@@ -15,7 +15,7 @@
 - Content types: thoughts, ideas (Mikki)
 - Content criteria (Danielle)
 - Resources and Support update (Erika)
-- Action links (Kev/Lynn)
+- Action links (Lynn)
 - Content quality audits and changes (Kev)
   - Italics 
   - Tables
