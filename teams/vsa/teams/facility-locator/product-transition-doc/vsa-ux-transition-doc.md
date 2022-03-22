@@ -107,7 +107,7 @@ List your tools; add notes.
 - UXPin
 - Mural
 - Github markdown
-- VSCode
+- Slack
 </details>  
 
 ### VA.gov collaboration cycle
