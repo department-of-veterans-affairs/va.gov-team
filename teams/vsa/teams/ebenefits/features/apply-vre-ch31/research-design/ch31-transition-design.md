@@ -34,7 +34,7 @@ This table includes links to the individual research studies.
 | :--- | :--- | :--- | :--- | :--- |
 | Discovery | [Link]() | [Link]() | [Link]() | --- |
 | Baseline | [Link]() | [Link]() | [Link]() | --- |
-| UAT | [Link]() | [Link]() | [Link]() | --- |
+| UAT | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-convo-guide.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-results.md) | APR 2021 |
 | Study title | [Link]() | [Link]() | [Link]() | --- |
 
 
