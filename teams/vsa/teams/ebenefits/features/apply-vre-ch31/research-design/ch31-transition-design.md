@@ -23,9 +23,9 @@
 <br>
 
 ## Feature background
-- [Existing feature]()
-- [VA product or form]()
-- [Product outline]()
+- [Existing feature](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start)
+- [VA Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/README.md)
 
 ## UX research studies
 This table includes links to the individual research studies. Much of the research for VR&E was combined with a related feature, [PCPG (Chapter 36).](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling)
