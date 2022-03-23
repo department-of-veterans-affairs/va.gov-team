@@ -32,10 +32,10 @@ This table includes links to the individual research studies.
 
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| Discovery | [Link]() | [Link]() | [Link]() | --- |
-| Usability testing | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-convo-guide.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md) | --- |
+| Discovery | --- | --- | [Synthesis doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md) | MAR 2020 |
+| Usability testing | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-convo-guide.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md) | SEP 2020 |
 | UAT | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-research-plan.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-convo-guide.md) | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-results.md) | APR 2021 |
-| Study title | [Link]() | [Link]() | [Link]() | --- |
+
 
 
 ### References used
