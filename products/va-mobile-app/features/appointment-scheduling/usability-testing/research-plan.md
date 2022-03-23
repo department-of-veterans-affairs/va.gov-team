@@ -145,16 +145,31 @@ We aim to recruit less represented participants so that we can have statistics t
 
 #### Primary criteria
 
-Mobile users with wide-ranging demographics who digitally manage healthcare appointments anywhere. Users who currently use the VA Mobile App.
+We want to recruit 8-12 Veterans or caregivers. Participants must have access to mobile device, or computer (desktop, laptop). They will need it to join the session and interact with the prototype. Participants should have experience making healthcare appointments, and have made/attended a medical appointment in the last year.
+
+We are requesting our group of participants are diverse in age, gender, and race/ethnicity. At least:
+* 2 people from 18-34 (age)
+* 3 people from 35-55 (age)
+* 4 people from 55-65 (age)
+* 3 people 65+ (age)
+* 3 women (gender)
+* 4 non-Caucasian (race/ethnicity)
 
 
 #### Secondary criteria
 
-Caregivers who manage appointments for another person. Color blind mobile users. Participants who have recently scheduled an appointment with the VA in the past year (2021-2022). 
+It would be beneficial if participants use VA healthcare, though not required for this study. We also will gather this data in the warm-up portion of the test. 
+
+For inclusivity, we would like to recruit at least: 
+ 
+Education level can vary, though we want to target
+* 3 participants with an identified cognitive disability
+* 2-3 with ‘some college’ or ‘some high school’ 
 
 
 ## Timeline
 
+We will run sessions between 4/1-4/13. Please schedule 15 minutes between sessions, and no more than 3 sessions per day. Sessions should take about 1 hour. 
 
 ### Pilot
 
@@ -165,14 +180,102 @@ Pilot Participant email:
 
 ### Sessions
 
-Session dates:
+Session dates: 4/1-4/13
 
 Session length: 1 hour
 
 
 ### Availability
 
-Between 8am - 7pm EST
+<table>
+  <tr>
+   <td><strong>Session date</strong>
+   </td>
+   <td><strong>Availability</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>4/1
+   </td>
+   <td>11:00am-12:00pm
+<p>
+3:00pm-4:00pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/4
+   </td>
+   <td>9:00am-10:00am
+<p>
+10:30am-11:30am
+<p>
+2:00pm-3:00pm
+<p>
+4:00pm-5:00pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/5
+   </td>
+   <td>3:00pm-4:00pm 
+<p>
+4:30pm-5:30pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/6
+   </td>
+   <td>11:00am-12:00pm
+<p>
+1:00pm-2:00pm
+<p>
+3:00pm-4:00pm
+<p>
+5:00pm-6:00pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/7
+   </td>
+   <td>9:30am-10:30am
+<p>
+11:00am-12:00pm
+<p>
+3:30pm-4:30pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/8
+   </td>
+   <td>11:30am-12:30pm
+<p>
+3:00pm-4:00pm
+<p>
+4:30pm-5:30pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/11
+   </td>
+   <td>2:00pm-3:00pm
+<p>
+4:00pm-5:00pm
+   </td>
+  </tr>
+  <tr>
+   <td>4/13
+   </td>
+   <td>11:00am-12:00pm
+<p>
+1:00pm-2:00pm
+<p>
+3:00pm-4:00pm
+<p>
+5:00pm-6:00pm
+   </td>
+  </tr>
+</table>
+
 
 
 ## **Team Roles**
