@@ -1,11 +1,17 @@
 # VA Online Scheduling appointments list UX [WIP]
 
-The VAOS appointments list displays a summary of a Veteran's upcoming, past, and pending appointments. The VAOS appointments list answers these questions:
+The VAOS appointments list displays a summary of a Veteran's upcoming, past, and pending appointments. 
+
+Some appointments occur through the VA, others through [Community Care providers](https://www.va.gov/communitycare/providers/index.asp).
+
+Appointments in this list should answer these questions:
 
 * When is my appointment?
 * What's it for?
 * Who's it with?
 * How will I be attending it?
+* Has it been canceled?
+
 
 ## Pending appointments
 
@@ -75,10 +81,9 @@ Details page copy:
 
 #### Community care
 
+##### Appointment modalities (how a Veteran attends an appointment)
 
-
-
-
+VAOS don't receive data on how these appointments will be attended, only the provider address.
 
 ## Managing appointments
 
@@ -87,12 +92,6 @@ A Veteran can complete some tasks on these appointments:
 * Print my list, or individual appointments
 * Add an appointment to my calendar
 * Cancel my appointment
-
-
-
-
-
-
 
 ## Pending appointments
 
