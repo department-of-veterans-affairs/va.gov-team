@@ -1,12 +1,14 @@
 # My VA roadmap
 
-**Updated March 18, 2022**
+**Updated March 23, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
 |[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme) | Pre-launch |
+|Add co-pay information| Design explorations|
+|My VA audit| Documentation|
 
 ### Projected timelines for current projects
 
@@ -14,7 +16,8 @@
 |----|----|----|----|----|----|
 |**Add payments & financials section to My VA** |Scoping and planning; Design | Design/Research/Build/Pre-launch | Launch|-|-|
 |**Redirect from homepage to My VA at login**|-|-|Conduct experiment 1 month after Payments launch|-|-|
-|**Add co-pay information**|-|-|-|Will launch when debt tool incorporates copays|-|
+|**Add co-pay information**|-|-|-|Design explorations; Research; Launch dependent on debt team rolling copays into debt tool|-|
+|**My VA audit**|-|-|-|Documentation; Determine next steps for My VA|-|
 
 ## Completed projects
 
@@ -41,7 +44,6 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Add medical co-pays|Auth exp.|N/A| Medical co-pays just launched on VA.gov (Jan 2022). We should add this info to the Benefit payments and debts section after it launches|
 |Should we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
 |Redirect from homepage to My VA at login| N/A | Winter 2022 | We will be evaluating this after the payment information section goes out. |
 |Update layout to put status updates separate from task links | N/A | Winter 2022 | We will evaluate this through a research effort. |
