@@ -45,6 +45,7 @@ Provide links or documents for the following:
 - [ ] User flow
 <!--https://www.sketch.com/s/3b0d625a-ab30-4e83-8084-5987ea5e2bb7/p/0BA07D80-CB09-4652-A7DB-E518C664593C-->
 <!--https://app.mural.co/template/77cc7953-8695-4788-a1a4-c2182d0b5270/5a333319-c85d-4aaf-a4b4-2b362f537d8a-->
+- [ ] Previous research
 
 **Other**
 - [ ] Research Plan
