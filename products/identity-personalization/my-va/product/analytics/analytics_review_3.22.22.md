@@ -25,11 +25,11 @@ All reports are from 7.1.22 (around when the 2.0 design launched) to 3.21.22
 ## Questions
 
 - Why is "View your profile" the top click? Do people expect to see info on My VA that they do not? Or do people need to make profile updates?
-- If we moved up "You have n unread messages," would more people get to their health care inboxes faster? 
+- If we moved up "You have n unread messages," would more people get to their health care inboxes faster? Do we care about this right now?
 
 ## Thoughts
 
 - We will likely see a jump in interactions after we point users logging in from the homepage to My VA. It may be worth waiting to get analytics from that before determining how we might restructure things.
 - Given that most health care users go straight to MHV for their health care information, I don't think we need to do a bunch of experiments or efforts to get people to click health care links more. Clicks into these links will probably increase (1) when we point to My VA for people logging in from the homepage and (2) as the health apartment work ramps up.
-- Right now, there isn't actually that much on the My VA page. Adding the payments section certianly improves that, but an experiment restructuring the data make not actually be that helpful right now.
+- Right now, there isn't actually that much on the My VA page. Adding the payments section certainly improves that, but an experiment restructuring the data make not actually be that helpful right now.
 - Based on the data, it might be helpful to add a records section, given the frequency of searches for letters, DD214, and ID cards.
