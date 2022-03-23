@@ -39,13 +39,12 @@ Thanks for joining the session! My name is Lauren and I have some colleagues on 
 
 1. For you, what stands out as a meaningful experience that you’ve had at the VA?
 2. What services do you use at the VA?
-    1. **(If they don’t mention healthcare)** Have you ever used VA to manage your healthcare? What services?
+    a. **(If they don’t mention healthcare)** Have you ever used VA to manage your healthcare? What services?
 3. How do you typially access these services? Website, phone call, something else?
 4. Anything else? Transition?
 
 
 ## **Tasks**
-
 
 ### Task 1: Current appointment experience discovery interview. Conversational.
 
@@ -53,36 +52,28 @@ Thank you for providing that information. It's helpful for me to understand your
 
 **Overview**
 
-
-
 1. Tell me your overall experience with booking appointments
-    1. What things are more important to you? 
-    2. What things are less important to you?
+    a. What things are more important to you? 
+    b. What things are less important to you?
 2. How frequently do you make healthcare appointments? 
 3. Do you book appointments online, over the phone, in person or a combination?
-    3. What are some pain points about that experience? 
+    a. What are some pain points about that experience? 
 
 **Upcoming appointments**
-
-
 
 4. How do you keep track of your upcoming appointments?
 5. How far in advance do you schedule your appointments? Why?
 6. Have you ever requested an appointment where you had to select different time slots? 
 7. What are some actions you normally take leading up to an appointment? 
 
-
-
 **After an appointment**
-
-
 
 8. What are some actions you normally take after an appointment has occured?
 9. Based on everything mentioned, do you manage VA appointments the same or differently from appointments outside the VA? 
-    4. If different, tell me more about this.
+    a. If different, tell me more about this.
 10. If you could change one thing about the last experience, what would it be?
 
-**Things to watch: **How the participant uses digital services to manage appointments. General actions they expect to occur after making an appointment.
+**Things to watch: How the participant uses digital services to manage appointments. General actions they expect to occur after making an appointment.**
 
 
 ### Task 2: Appointment Request usability test. Prototype.
@@ -92,22 +83,22 @@ Thank you for your insight. Now, I’d like to take a look at a list in the mobi
 [Link to prototype](https://www.sketch.com/s/7af71fd5-b940-4196-9402-c34b0861b441/a/9PJ5K9n)
 
 1. What stands out to you first when looking at the landing screen?
-    1. Tell me more, or why is that?
+    a. Tell me more, or why is that?
 2. What does “Request Appointment” mean to you?
-    2. Does that feel useful?
-3. **PROMPT: **Imagine you need to make a few appointments in the future. While there, you also need to fetch the dates for ones you’ve previously confirmed so that you can tell a friend. You also need to cancel the one you previously created on MM/DD/YYYY.  
-    3. What felt useful about those interactions?
-    4. What were some pain points?
-    5. If you had any questions where would you get the answers?
+    a. Does that feel useful?
+3. **PROMPT: Imagine you are using a mobile app to manage your appointment schedule. You need to make an Optometry appointment, sometime in the near future. After this, you also need to fetch the dates for a few appointments so you can confirm you have the correct details. You also need to cancel an appointment. Using the prototype, can you work through these scenarios? Feel free to talk aloud any thoughts you have as you work through it.**
+    a. What felt useful about those interactions?
+    b. What were some pain points?
+    c. If you had any questions where would you get the answers?
 
-**Things to watch: **Observe all interactions as the participant interfaces with the Appointments feature in the app. When scanning the list, do they make comments on what data is displayed? Do they expect additional data, and how do they get it?
+**Things to watch: Observe all interactions as the participant interfaces with the Appointments feature in the app. When scanning the list, do they make comments on what data is displayed? Do they expect additional data, and how do they get it?**
 
 
 ## Wrap up
 
 
 
-4. Thank you for your time. 
-5. With everything covered today, do you have any more thoughts to share around improving the appointments experience with the VA?
-6. Anything else in general you want to share about your experience?
-7. Thanks!
+1. Thank you for your time. 
+2. With everything covered today, do you have any more thoughts to share around improving the appointments experience with the VA?
+3. Anything else in general you want to share about your experience?
+4. Thanks!
