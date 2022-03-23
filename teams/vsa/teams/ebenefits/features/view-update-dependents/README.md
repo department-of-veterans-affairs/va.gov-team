@@ -266,6 +266,7 @@ TBD after launch
 - [Update VnpBenefitClaim Type for 674 #29608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29608)
 - [Produce VNP Fields to Linda #22486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22486)
 - [Check Field Mappings for VnpPtcpntRlshp #29106](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29106)
+- [Adjust Email Notifications #39021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39021)
   
 **Dependency Removal - Formlet**
 - [GA Events for Formlet #28007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28007)
