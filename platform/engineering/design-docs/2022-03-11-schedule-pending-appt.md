@@ -2,7 +2,7 @@
 
 **Author(s):** Andrew Herzberg  
 **Last Updated:** March 11,2022  
-**Status:** **Draft** | In Review | Approved  
+**Status:** Draft | **In Review** | Approved  
 **Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
 
 ## Overview
