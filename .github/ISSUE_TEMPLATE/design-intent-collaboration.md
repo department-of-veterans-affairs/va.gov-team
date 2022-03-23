@@ -40,7 +40,7 @@ Provide links or documents for the following:
 - [ ] Product outline 
 <!--https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md
 --> 
-- [ ] Lo-fi mobile first wireframes
+- [ ] Lo-fi, mobile first wireframes
  <!-- https://www.sketch.com/s/3b0d625a-ab30-4e83-8084-5987ea5e2bb7/p/C6C7272C-FAF8-4870-91E0-75F2BB250EFD -->
 - [ ] User flow
 <!--https://www.sketch.com/s/3b0d625a-ab30-4e83-8084-5987ea5e2bb7/p/0BA07D80-CB09-4652-A7DB-E518C664593C-->
