@@ -26,11 +26,10 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 - OCTO-DE/DEPO:
   - [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ), Product Owner
-  - [Ryan Thurlwell](https://dsva.slack.com/team/UEY4D750B), Design Lead
 - Program Management:
   - [Ariel Nerbovig](https://dsva.slack.com/team/U018FJE3694)
 - Product Management:
-  - [Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY)
+  - [Jeff Roof]
   - [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79)
 - Design & Research:
   - [Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9)
@@ -66,7 +65,6 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
     - Pauline Anderson
 - VA Mobile Framework (VAMF):
   - Steve Eaton, Portfolio Manager
-  - Eric Hopkins, Project Manager
   - Steven Brush, Engineering Lead
   - Brad Crosby, Engineering Lead
   - Judy Mercado, Business Analyst
