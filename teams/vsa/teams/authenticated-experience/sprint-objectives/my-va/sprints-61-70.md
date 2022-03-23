@@ -478,12 +478,12 @@ This may need to adjust based on what we were able to get done in sprint 69 due 
 - Exploration around showing debt/co-pay amount
   - This would replace our current notification style alert 
 
-### My VA Audit
+### My VA Audit - #38967
 
 Goal of this work: To understand all the conditionals we have for each section in hopes of simplifying logic across (and therefore, management of) My VA. This does not yet have to be on GitHub -- if a Mural board or something more visual like that is an easier way to analyze and see states, let's start there.
 
-- Audit all states of the nametag
-- Audit all states of Claims & appeals section
+- Audit all states of the nametag #38969
+- Audit all states of Claims & appeals section #38970
 
 ### General
 
