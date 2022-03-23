@@ -475,7 +475,7 @@ This may need to adjust based on what we were able to get done in sprint 69 due 
 
 ### Medical co-pays/debts
 
-- Exploration around showing debt/co-pay amount
+- Exploration around showing debt/co-pay amount #38984
   - This would replace our current notification style alert 
 
 ### My VA Audit - #38967
