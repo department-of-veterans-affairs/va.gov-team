@@ -87,7 +87,8 @@ Parameters:
                "city": "Sun Valley",
                "state": "OH",
                "cerner": "false",
-               "miles": "1.0"
+               "miles": "1.0",
+               "clinics": []
             },
             {
                "id": "983",
@@ -95,7 +96,8 @@ Parameters:
                "city": "Cheyenne",
                "state": "WY",
                "cerner": "true",
-               "miles": "1.2"
+               "miles": "1.2",
+               "clinics": []
             },
             {
                "id": "984",
@@ -103,13 +105,15 @@ Parameters:
                "city": "Dayton",
                "state": "OH",
                "cerner": "true",
-               "miles": "0.6"
+               "miles": "0.6",
+               "clinics": []
             }
          ]
       }
    }
 }
 ```
+Note: Clinics are only used in direct scheduling. Adding field to prepare for adding direct scheduling later but will still empty until then.
 
 #### Service Eligibility Endpoint 
 Will consume following VAOS endpoints:
