@@ -1,5 +1,5 @@
 # Apply for Personalized Career Planning & Guidance (CH36)
-`WIP`
+- Launched May 10, 2021
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
@@ -9,8 +9,6 @@
 - (prod) VA.gov link (unauth landing page): https://www.va.gov/careers-employment/education-and-career-counseling/
 - (prod) VA.gov link (tool page): https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
 - Current prototype: https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/130194084
-
-## WIP
 
 ### Table of Contents
 
