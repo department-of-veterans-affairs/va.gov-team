@@ -473,9 +473,17 @@ This may need to adjust based on what we were able to get done in sprint 69 due 
 - Taylor to continue connecting FE to backend #36034
 - Towards the end of March, regroup with VANotify to determine their next steps/timelines #38801
 
-### Explorations
+### Medical co-pays/debts
 
-- Will determine next steps with Angela during out meeting on 3/21
+- Exploration around showing debt/co-pay amount
+  - This would replace our current notification style alert 
+
+### My VA Audit
+
+Goal of this work: To understand all the conditionals we have for each section in hopes of simplifying logic across (and therefore, management of) My VA. This does not yet have to be on GitHub -- if a Mural board or something more visual like that is an easier way to analyze and see states, let's start there.
+
+- Audit all states of the nametag
+- Audit all states of Claims & appeals section
 
 ### General
 
