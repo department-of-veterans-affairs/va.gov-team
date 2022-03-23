@@ -15,6 +15,12 @@
 
 - If applicable: Add Columbus, OH to list of Cerner facilities
 
+### My VA audit
+
+- Health care section
+- Payment section
+- Applications in progress section
+
 ## Sprint 72 (4/20 - 5/3)
 
 ## Sprint 73 (5/4 - 5/17)
