@@ -189,89 +189,89 @@ Session length: 1 hour
 
 <table>
   <tr>
-   <td><strong>Session date</strong>
+   <td><strong>SESSION DATE</strong>
    </td>
-   <td><strong>Availability</strong>
+   <td><strong>AVAILABILITY (Eastern Standard Time)</strong>
    </td>
   </tr>
   <tr>
    <td>4/1
    </td>
-   <td>11:00am-12:00pm
+   <td>11:00am-12:00pm EST
 <p>
-3:00pm-4:00pm
+3:00pm-4:00pm EST
    </td>
   </tr>
   <tr>
    <td>4/4
    </td>
-   <td>9:00am-10:00am
+   <td>9:00am-10:00am EST
 <p>
-10:30am-11:30am
+10:30am-11:30am EST
 <p>
-2:00pm-3:00pm
+2:00pm-3:00pm EST
 <p>
-4:00pm-5:00pm
+4:00pm-5:00pm EST
    </td>
   </tr>
   <tr>
    <td>4/5
    </td>
-   <td>3:00pm-4:00pm 
+   <td>3:00pm-4:00pm EST
 <p>
-4:30pm-5:30pm
+4:30pm-5:30pm EST
    </td>
   </tr>
   <tr>
    <td>4/6
    </td>
-   <td>11:00am-12:00pm
+   <td>11:00am-12:00pm EST
 <p>
-1:00pm-2:00pm
+1:00pm-2:00pm EST
 <p>
-3:00pm-4:00pm
+3:00pm-4:00pm EST
 <p>
-5:00pm-6:00pm
+5:00pm-6:00pm EST
    </td>
   </tr>
   <tr>
    <td>4/7
    </td>
-   <td>9:30am-10:30am
+   <td>9:30am-10:30am EST
 <p>
-11:00am-12:00pm
+11:00am-12:00pm EST
 <p>
-3:30pm-4:30pm
+3:30pm-4:30pm EST
    </td>
   </tr>
   <tr>
    <td>4/8
    </td>
-   <td>11:30am-12:30pm
+   <td>11:30am-12:30pm EST
 <p>
-3:00pm-4:00pm
+3:00pm-4:00pm EST
 <p>
-4:30pm-5:30pm
+4:30pm-5:30pm EST
    </td>
   </tr>
   <tr>
    <td>4/11
    </td>
-   <td>2:00pm-3:00pm
+   <td>2:00pm-3:00pm EST
 <p>
-4:00pm-5:00pm
+4:00pm-5:00pm EST
    </td>
   </tr>
   <tr>
    <td>4/13
    </td>
-   <td>11:00am-12:00pm
+   <td>11:00am-12:00pm EST
 <p>
-1:00pm-2:00pm
+1:00pm-2:00pm EST
 <p>
-3:00pm-4:00pm
+3:00pm-4:00pm EST
 <p>
-5:00pm-6:00pm
+5:00pm-6:00pm EST
    </td>
   </tr>
 </table>
