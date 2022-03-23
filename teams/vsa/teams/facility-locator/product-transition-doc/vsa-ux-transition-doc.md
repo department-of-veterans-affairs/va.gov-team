@@ -102,7 +102,7 @@ Outline your process; add notes.
 <details>
   <summary><strong>Design tools we used</strong> (Click to show details)</summary><br>
 
-List your tools; add notes.
+  The Facilities Team does most of its designing and prototyping in UXPin, but for some cross-team projects, Sketch may be used as well. You may use a general purpose account, or a personal account, for each of the tools in this list. Check with your design team Slack, or other onboarding materials, for instructions on how to get set up with each.
   
 - Sketch for Teams
 - UXPin
