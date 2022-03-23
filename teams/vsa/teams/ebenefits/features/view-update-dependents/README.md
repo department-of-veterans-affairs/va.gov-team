@@ -267,6 +267,7 @@ TBD after launch
 - [Produce VNP Fields to Linda #22486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22486)
 - [Check Field Mappings for VnpPtcpntRlshp #29106](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29106)
 - [Adjust Email Notifications #39021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39021)
+- [Adjust Confirmation Copy for Dependency Claims #39026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39026)
   
 **Dependency Removal - Formlet**
 - [GA Events for Formlet #28007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28007)
