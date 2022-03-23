@@ -33,6 +33,7 @@
 - [Solution Narrative](#solution-narrative)
 - [Team](#team)
 - [Resources and Documentation](#resources-and-documentation)
+- [Ongoing Works in Progress](#ongoing-works-in-progress)
 - [Screenshots](#screenshots)
 
 ---
@@ -246,7 +247,7 @@ TBD after launch
 - [IA Recomendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-view-dependents.md) for View Dependents
 - Link to [Request for IA Review for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636)
   
-### Ongoing Work In Progress  
+### Ongoing Works In Progress  
 **General Dependency Claims**  
 - Epic: [🚢 Migrate "Modify Dependents" (Submit 686c and 674) from eBenefits to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)
 - Epic: [🚢 Migrate "View Dependents" from eBenefits to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)
