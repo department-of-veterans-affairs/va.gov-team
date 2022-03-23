@@ -1,5 +1,5 @@
 # Research Plan for MHV personal information, Veteran interviews, March 2022
-`draft`
+
 ## Background
 MyHealtheVet (MHV) has its own profile, which is part of a larger Personal Information section. In support of the health apartment transition, we need to understand how Veterans currently use this part of MHV in order to inform our approach to aligning the MHV profile with the VA.gov profile.
 
@@ -85,7 +85,7 @@ Within the last 18 months, have you been to VA medical centers **in two differen
 We’ll run research sessions from March 30-April 5, 2022.
 
 ### Length of sessions
-45 minutes
+1 hour
 
 ### Availability
 Please schedule 15 minutes between sessions, and no more than 5 sessions per day:
