@@ -36,17 +36,19 @@ assignees: ''
 
 Provide links or documents for the following: 
 
-- [ ] Product outline
- 
-<!--
-[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+**Preferred**
+- [ ] Product outline 
+<!--https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md
 --> 
- 
-- [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
+- [ ] Lo-fi mobile first wireframes
+ <!-- https://www.sketch.com/s/3b0d625a-ab30-4e83-8084-5987ea5e2bb7/p/D60FCF24-9C72-4142-BC44-B65388EB1F2F -->
 - [ ] User flow
-- [ ] Research Plan
-- [ ] Any other artifacts you have so far
+<!--https://www.sketch.com/s/3b0d625a-ab30-4e83-8084-5987ea5e2bb7/p/0BA07D80-CB09-4652-A7DB-E518C664593C-->
 
+**Other**
+- [ ] Research Plan
+<!-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md -->
+- [ ] Any other artifacts you have so far
 ## Scheduling
 
 - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
