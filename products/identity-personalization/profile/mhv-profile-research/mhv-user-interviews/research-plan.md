@@ -92,7 +92,10 @@ Please schedule 15 minutes between sessions, and no more than 5 sessions per day
 |----|---|
 | 3/30 | 9:30am - 8pm |
 | 3/31 | 9:30-11am, 1-8pm |
-| 4/1 | 8am - 8ths 
+| 4/1 | 8am - 8pm |
+| 4/4  | 9:30am - 5pm |
+| 4/5 | 8am - 4pm |
+
 	
 ## Team Roles		
 - Moderator: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
