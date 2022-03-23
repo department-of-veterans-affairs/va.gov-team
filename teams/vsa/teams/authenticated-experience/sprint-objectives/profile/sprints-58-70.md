@@ -482,6 +482,7 @@ This is kind of a pre-engagement sprint as Liz rolls off of My VA work. However,
 - If time, start planning for the rest of the research engagement
   
 ## Sprint 69 (3/9 - 3/22)
+[Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38043)
 
 ### PTO
 
@@ -532,6 +533,7 @@ Marci, talk to Liz about exactly which interviews she thinks she'll complete thi
 - Conduct stakeholder interviews
 
 ## Sprint 70 (3/23 - 4/5)
+[Sprint 70 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38928)
 
 ### Personal information
 
