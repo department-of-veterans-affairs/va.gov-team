@@ -62,9 +62,10 @@ This table includes links to the individual design work products.
 | :--- | :--- | :--- | :--- | :--- |
 | Feature Flow Diagrams | [Tool]() | No text | date | Preliminary |
 | Information architecture flow | [Tool]() | No text | date | IA review |
-| Wireframes | [Tool]() | No text | date | Design intent |
+| Concept Mockups | [Adobe XD](https://xd.adobe.com/view/17b9e3b9-abb2-4c17-6619-adcc54353687-6188/) | No text | AUG 2020 | Design intent |
+| Wizard Mockups | [Adobe XD](https://xd.adobe.com/view/b8e1ab4c-4d8a-4f71-8d6c-00e4c1e809cc-edb2/) | No text | APR 2021 | Content review |
 | Mockups | [Tool]() | Preliminary text | date | Midpoint |
-| Prototype | [Tool]() | Final text | date | Staging |
+| Prototype | [UXPin](https://preview.uxpin.com/e291c4ac8956d804d774160cdb82ecb724044689#/pages/129526673) | Final text | OCT 2020 | Staging |
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
