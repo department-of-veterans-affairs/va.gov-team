@@ -190,8 +190,9 @@ TBD after launch
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
-  - August 2020
+  - August 2021
 - *What is your date for when you'll evaluate impact after launch?*
+  - Start in September 2021, work with LoB
 
 ---
 
@@ -212,12 +213,12 @@ TBD after launch
 
 ## Team
 
-- VA Executive Sponsor`*`: Paul Schute
-- VA Policy Expert(s):
-- DEPO`*`: Matt Self
+- VA Executive Sponsor`*`: Paul Schute, Alejandro Mendiolaflores, Brandi Traylor
+- VA Policy Expert(s): Linda Ciston, Liz Reeher, Christine Rave
+- DEPO`*`: Steve Kovacs, Matt Self
 - Product Manager`*`: Jason Wolf
 - Design Lead: Shawna Hein
-- Eng Lead: Paul Short
+- Eng Lead: Paul Short, Jeffey Thompson
 - VA Web Comms Partner: 
 - VA Contact Center Partner(s): Chante/Kimberly
 - Production Testing Partner(s):
@@ -244,5 +245,33 @@ TBD after launch
 - [Research and Design](research-design/README.md)
 - [IA Recomendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-view-dependents.md) for View Dependents
 - Link to [Request for IA Review for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636)
+  
+### Ongoing Work In Progress  
+**General Dependency Claims**  
+- Epic: [🚢 Migrate "Modify Dependents" (Submit 686c and 674) from eBenefits to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)
+- Epic: [🚢 Migrate "View Dependents" from eBenefits to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)
+- Epic: [🚢 Capture Fields Necessary to Automate Pension Eligibility Determinations in the 686c-674 #7759](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7759)
+- [Null Benefit Claim ID Feature Toggle #36631](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36631)  
+- [Update Mockups for View Dependents #34142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34142)  
+- [Adjust Stepchild Parent Question on 686c #35141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35141)  
+- [Enhance Language on Silent Failure Email #34618](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34618)  
+- [Ensure PDF Does Not Send in the Event of a Failure #28027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28027)  
+- [Adjust 674 to Accommodate New 686 Submissions #25030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030)  
+- [[UNPLANNED] Pass Relationship Status into 674 #22494](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22494)
+- [Possibly Rescue More BGS Exceptions and Reschedule Job #30784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30784)
+- [Track Null Benefit Claims on Dependency Claims #32054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32054)
+- [Add More Error Handling for BID Pension Service #27571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27571)
+- [Add Additional Dates for MANUAL_VAGOV #30632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30632)
+- [Update VnpBenefitClaim Type for 674 #29608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29608)
+- [Produce VNP Fields to Linda #22486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22486)
+- [Check Field Mappings for VnpPtcpntRlshp #29106](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29106)
+  
+**Dependency Removal - Formlet**
+- [GA Events for Formlet #28007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28007)
+  
+**Dependency Verification**  
+- Epic: [Create Facility for Dependency Verification on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16345)
+- [Dependency Verification Launch Activities #36895](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36895)  
+- [Submit Contact Center Documentation #26469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26469)  
 
 
