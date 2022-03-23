@@ -46,11 +46,10 @@ This table includes links to the individual research studies. Much of the resear
 - [Findings template]()
 
 ### Tools used
-List your tools; add notes.
   
-- InVision
-- Mural
-- Optimal workshop
+- Adobe XD
+- UXPin
+- Github markdown
 
 <br>
 
@@ -80,7 +79,6 @@ This table includes links to the individual design work products.
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ### Tools used
-List your tools; add notes.
   
 - UXPin
 - Adobe XD
