@@ -46,7 +46,7 @@ Contains information including mailing address, home address, phone numbers, ema
    - [GA dashboard for address validation]()
 - [Staging users and usecases]()
 
-### Military Information (Just started)
+### Military Information (Est. to start in April)
 Contains military information 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
 - [Ideas for Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/improvement-ideas.md)
@@ -64,10 +64,12 @@ Contains information for adding direct deposit for compensation and pension bene
 
 ### Notification Settings
 Gives users the ability to request text notifications or turn them off.
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
-- [Product outline]()
-- [Analytics dashboard]() (Domo or Google Analytics)
-- [Staging users and usecases]()
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md)
+- Analytics dashboard
+ - [Notification Settings GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
+ - [Top Events: Notification Settings page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20211103&_u.date01=20211103&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22notifications%22,0%5D%5D&explorer-table.rowCount=50/)
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#how-to-access-and-test)
 
 ### Account Security
 Provides information about the user's verification status and whether they have enabled 2-factor authentication
@@ -78,7 +80,7 @@ Provides information about the user's verification status and whether they have 
 
 ### Connected Apps
 Provides links to third-party websites and applications that can be connected to the VA.gov Profile.  Also shows any apps that the user has connected.
-- [Product folder]()
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data)
 - [Product outline]()
 - [Analytics dashboard]() (Domo or Google Analytics)
 - [Staging users and usecases]()
@@ -91,9 +93,14 @@ Brief plain-language description of this product’s history and next steps
 - Now 
  - [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
  - [Project Status Sheet]():star:
+ - Work in Progress
+   - [Personal Information Revision](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
+   - [Address Change Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-change-messaging)
+   - [Bad Address Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator)
+    - [MyHealtheVet Profile Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
 - Next 
    - [Profile team priorities Q1-Q2 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-profile-Q1-Q2-2022.md)
-   - [MyHealtheVet Profile Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
+  
 - Later 
  - [Product Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
  - [Ideas for Profile Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/future-improvements.md)
