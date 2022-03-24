@@ -1,4 +1,4 @@
-The [Welcome Kit](https://www.va.gov/welcome-kit/) page is a Drupal node containing a collection of PDFs. The VEO team manages it and Sitewide Content does the updates and publishing.
+The [Welcome Kit](https://www.va.gov/welcome-kit/) page is a Drupal node containing a collection of PDFs. The VEO team (Veterans Experience Office) manages it and Sitewide Content does the updates and publishing.
 
 ## How to make updates to the Welcome Kit page
 
