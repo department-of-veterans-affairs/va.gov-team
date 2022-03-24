@@ -1,12 +1,8 @@
 # Authenticated Experience - Profile product transition doc
 
-<br>
+**Team transition document | March 2022**
 
->**Team transition document | March 2022**
->
-> The purpose of this transition document is to outline the current state of Authenticated Experience - Profile product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
-
-<br>
+ The purpose of this transition document is to outline the current state of Authenticated Experience - Profile product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 
 ## Table of Contents
 [Product context (PM)](#product-context)
@@ -15,26 +11,30 @@
 
 [Product approach (Team)](#product-approach)
 
-[VA relationships (Team)](#va-relationships)
+[Auth Experience - Profile Team](#authenticated-experience---profile-team)
+
+[Now/Next/Later Roadmap](#nownextlater-roadmap)
 
 ## Product context 
 Mission: To elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses and complete necessary tasks. 
 
 
-## Authenticated Experience - Profile
+## Product portfolio
 The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
 ### Personal Information
 Contains information such as date of birth, preferred name, gender identity
-- [Product folder]()
-- [Product outline]()
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
 - [Analytics dashboard]() (Domo or Google Analytics)
 - [Staging users and usecases]()
 
 ### Contact Information
 Contains information including mailing address, home address, phone numbers, email address
-- [Product folder]()
-- [Product outline]()
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
 - [Analytics dashboard]() (Domo or Google Analytics)
+   - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
+   - [GA dashboard for address validation]
 - [Staging users and usecases]()
 
 ### Military Information
@@ -63,7 +63,7 @@ Provides information about the user's verification status and whether they have 
 - [Product folder]()
 - [Product outline]()
 - [Analytics dashboard]() (Domo or Google Analytics)
-- [Staging users and usecases]()
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
 
 ### Connected Apps
 Provides links to third-party websites and applications that can be connected to the VA.gov Profile.  Also shows any apps that the user has connected.
@@ -74,12 +74,17 @@ Provides links to third-party websites and applications that can be connected to
 
 <hr>
 
-#### Now/Next/Later Roadmap
+## Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
 
 - Now [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
-- Next [Profile team priorities Q1-Q2 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-profile-Q1-Q2-2022.md)
+- Next 
+   - [Profile team priorities Q1-Q2 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-profile-Q1-Q2-2022.md)
+   - MyHealtheVet Profile Research
 - Later - [Product Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
+
+## Other Intiatives that Affect VA.gov Profile
+- EVSS Service Migration
 
 ## Product approach 
 
@@ -103,16 +108,10 @@ Brief plain-language description of this product’s history and next steps
 - [Documentation]()
 - [Documentation]()
 
-<br>
 
-## VA relationships
-> You can reference specific product outlines or the team charter if contact or meeting information exists there already
-### Contacts
+## Authenticated Experience - Profile Team
+- [Team Charter - Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience#team)
 
-- Person Name | email.address@va.gov -- Product owner
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
 
 ### Meetings
 
