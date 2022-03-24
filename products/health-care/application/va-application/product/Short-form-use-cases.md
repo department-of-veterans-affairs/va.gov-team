@@ -53,7 +53,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Name: Eric
-  - email: 11 
+  - email:vets.gov.user+11@gmail.com
   - Password: 187SsNrLgPv5
   - Disability rating:	40%	
 
