@@ -77,11 +77,13 @@ Thank you for your insight. Now, I’d like to take a look at a list in the mobi
         - Tell me more, or why is that?
 - Looking at this, what does “Request Appointment” mean to you?
         - Does that feel useful?
-- PROMPT: Imagine you are using a mobile app to manage your appointment schedule. You need to make an Optometry appointment sometime in the near future. After this, you need to fetch the dates for a few appointments to confirm the details. You also need to cancel an appointment. Using the prototype, can you work through these scenarios? 
 
-Feel free to talk aloud any thoughts you have as you work through it. I will also copy-paste this into the chat feature for your convenience. 
+Now, I am goint to give you three scenarios I'd like you to work through as if you are using a mobile app to manage your appointment schedule. Feel free to talk aloud, sharing any thoughts you have as you work through it. I will also copy-paste each scenario into the chat feature for you to reference.
+- PROMPT: First, you need to make an Optometry appointment sometime in the near future.  
+- PROMPT: Next, you need to fetch the dates for a few appointments to confirm the details. 
+- PROMPT: Finally, you need to cancel an appointment.  
 
-*When Participant is finished, if they did not talk through it, we will follow up for further insight*
+*When Participant is finished with each task, if they did not talk through it, we will follow up for further insight*
 - What felt useful about this?
 - What are some pain points?
 - If you had questions, where would you go to get answers?
