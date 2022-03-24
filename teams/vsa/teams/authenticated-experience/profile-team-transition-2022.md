@@ -36,6 +36,9 @@
   - Personal Information Revision project: `personal-information`
   - Address Change Messaging: `address-chg-msg`
   - Bad Address Indicator: `bad-address-indicator`
+- Auth Profile Issue Template
+  - Template can be accessed from Template drop-down when creating a new issue
+  - [Template .md file - if changes are needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/auth_profile_issue.md)
 
 ## Product portfolio
 The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include:
