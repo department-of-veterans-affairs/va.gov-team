@@ -33,7 +33,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - Name: 
+  - Name: Colder
   - email: vets.gov.user+228@gmail.com
   - Password: 200SsNrLgPv5 
   - Disability 100% disability rating
@@ -57,7 +57,10 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - Password: 
   - Disability rating	50%	
 
- 
+  - Name: 
+  - email: 11 and 6
+  - Password: 
+  - Disability rating	50%	
   
 ## Use Case C
 
