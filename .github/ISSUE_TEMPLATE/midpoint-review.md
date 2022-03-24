@@ -52,12 +52,12 @@ Provide links or documents for the following:
 - [ ] Conversation guide <!--https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md-->
 
 
-**Content artifacts**
+**Content**
 
 - [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
  
-**QA artifacts**
+**QA**
 
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
