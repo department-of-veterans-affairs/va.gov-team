@@ -15,6 +15,12 @@
 
 - If applicable: Add Columbus, OH to list of Cerner facilities
 
+### On-site notifications
+
+**Design**
+
+- Explore notification style so we don't have to use the alert/error styling
+
 ### My VA audit
 
 - Health care section
