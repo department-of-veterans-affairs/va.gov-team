@@ -34,7 +34,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Name: Kasey Gloyd	
-  - email: vets.gov.user+EBN7@gmail.com	
+  - email: 
   - Password: 
   - Disability rating	50%	
 
@@ -72,7 +72,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - Gmail:vets.gov.user+367@gmail.com	
+  - Gmail:
   - Password: 
 
 ## Use Case D
@@ -87,6 +87,6 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - Gmail:vets.gov.user+367@gmail.com	
+  - Gmail:
   - Password: 
 
