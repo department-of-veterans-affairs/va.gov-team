@@ -42,34 +42,24 @@ assignees: ''
 
 Provide links or documents for the following: 
 
-- [ ] Staging URL and staging test-user information
+**Preferred**
 
-<!-- 
-Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. 
-
+- [ ] Staging URL and staging test-user information <!--Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. 
 Use this accessible staging account template to do so:
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md
 -->
-
-- [ ] Product outline 
- 
- <!--
-[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+- [ ] Product outline <!--(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 --> 
-
-- [ ] Release plan with the "Planning" sections completed 
-
-<!-- 
-Release plan template
+- [ ] Release plan with the "Planning" sections completed <!--Release plan template
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md
 --> 
 
-### Content artifacts 
+**Content artifacts**
 
 - [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
-### QA artifacts
+**QA artifacts**
 
 [Learn more about QA test plans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
