@@ -55,12 +55,12 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - Name: Eric
   - email: 11 
   - Password: 187SsNrLgPv5
-  - Disability rating	40%	
+  - Disability rating:	40%	
 
-  - Name: 
-  - email: 11 and 6
-  - Password: 
-  - Disability rating	50%	
+  - Name: Christian
+  - email:  vets.gov.user+6@gmail.com
+  - Password: 371SsNrLgPv5
+  - Disability rating: none
   
 ## Use Case C
 
