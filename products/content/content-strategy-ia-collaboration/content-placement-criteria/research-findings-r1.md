@@ -36,6 +36,7 @@ Research questions we looked to answer:
   - Helpfulness of criteria averaged 4.2
   - Confidence in decisions averaged 4.4
 - In addition, the group indicated that having the criteria would be useful in supporting and explaining decisions to stakeholders
+- For baseline purposes, the group was able to evaluate 5 pages of varying length within 30-35 minutes
 
 
 **2. The language used in criteria 3 around "unique application or application process" and "core or supplemental benefit" was not clear to the group**
@@ -77,39 +78,32 @@ Research questions we looked to answer:
   - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
   
-**6. Speed of evaluations...**
-- The group was able to evaluate 5 pages of varying length within 30-35 minutes
-
-**7. The layout and format of the worksheet could use some minor improvements**
+**6. The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
   - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
 
 ## Recommendations
 
-
-**Revise criteria 3 for easier reading and clearer language**
+**Revise criteria 3 for easier reading and understandable language**
 - Clarify what is included in "application process"**
 - The terms "core" versus "supplemental" need to be defined, as well as indicate how they impact the placement decision
 - Split this criteria if needed in order to clarify the dependency between the two scenarios
 
-**Utilize individual bullets and/or questions to make criteria easier to read and follow**
+**Revise format criteria to make criteria easier to read and follow**
 - The group liked how criteria #5 used bullets to list out the individual scenarios and suggested the same formatting be followed for criteria 2 and 3. 
+- Make it very clear that criteri 5 is only used for content planned for placement within R&S
 
-**Include guidance and instructions with the criteria
+**Include guidance and instructions with the criteria**
 - Provide instructions on when and how to use the criteria 
-- This should include references to
+- Include guidance such as
   -  Looking at individual chunks of content versus just the whole page/document
-  -  When to review content against criteria 5
-
-
-
-
+  -  Making decisions based on the goal of the page not just the provided content 
 
 
 
 ## Next Steps
 - Update criteria 3 based on feedback
-- Create instructions for content authors on how to use the critera 
+- Create instructions and guidance for content authors on how to use the critera 
 - Utilize the revised criteria in the R&S pilot with the Community Care working group to further validate
 
 ## Appendix
