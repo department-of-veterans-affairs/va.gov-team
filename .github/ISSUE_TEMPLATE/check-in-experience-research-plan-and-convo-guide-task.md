@@ -1,6 +1,6 @@
 ---
-name: Check In Experience Research and Conversation Guide Task
-about: For Check In Experience Research and Conversation Guide Task
+name: Check In Experience Research Plan and Conversation Guide Task
+about: For Check In Experience Research Plan and Conversation Guide Task
 title: "[Research]"
 labels: research, HCE-Checkin
 assignees: ''
