@@ -20,22 +20,22 @@
 [Now/Next/Later Roadmap](#nownextlater-roadmap)
 
 ## Product context 
-- Problem Statement: Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any given department or medical center may have access to different pieces of information. This makes it hard to understand the full picture of what the VA knows about any given Veteran/person.
-- [VA Profile vs. VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#is-va-profile-the-same-thing-as-the-vagov-profile)
+ - Problem Statement: Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any given department or medical center may have access to different pieces of information. This makes it hard to understand the full picture of what the VA knows about any given Veteran/person.
+ - [VA Profile vs. VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#is-va-profile-the-same-thing-as-the-vagov-profile)
 
 ## Contact Center Info
-- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/product-guides.md)
-- [Product Guide Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
+ - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/product-guides.md)
+ - [Product Guide Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
 
 ## Slack and GitHub Information
 - Slack Team Channel: [#vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) (note, Auth Profile and Auth Exp both share the same channel)
 - Slack Alerts Channel: [#vsa-authd-exp-alerts](https://dsva.slack.com/archives/C02SYJGH8FJ) - Grafana alerts
 - [GitHub Board](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-authenticated-exp,profile&notFullScreen=false&repos=133843125&showReleases=false&showReviewers=false)
 - Git Hub Tags
- - `vsa-authenticated-exp` + `profile` (vsa-authenticated-exp without profile is the Vets Dashboard team)
- - Personal Information Revision project: `personal-information`
- - Address Change Messaging: `address-chg-msg`
- - Bad Address Indicator: `bad-address-indicator`
+  - `vsa-authenticated-exp` + `profile` (vsa-authenticated-exp without profile is the Vets Dashboard team)
+  - Personal Information Revision project: `personal-information`
+  - Address Change Messaging: `address-chg-msg`
+  - Bad Address Indicator: `bad-address-indicator`
 
 ## Product portfolio
 The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include:
