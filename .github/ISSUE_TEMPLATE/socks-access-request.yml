@@ -1,6 +1,6 @@
-name: WIP SOCKS Access Request
+name: SOCKS Access Request
 description: To request access to SOCKS
-title: Access for [individual]
+title: SOCKS access for [individual]
 labels: ['external-request', 'operations', 'ops-access-request']
 body:
   - type: markdown
