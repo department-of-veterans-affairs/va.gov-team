@@ -11,7 +11,13 @@
 <details><summary>Parking lot</summary>
  - item
  </details>
- 
+
+## March 24, 2022
+
+- Top task beta test update (Suzanne)
+- Proposed RACI: https://docs.google.com/spreadsheets/d/1BDmdiQcjKAijBGRrq0HsfRZP_bqDm1Ul/edit#gid=1182457863
+
+
 ## March 10, 2022
 
 - Top task beta test (Suzanne)
