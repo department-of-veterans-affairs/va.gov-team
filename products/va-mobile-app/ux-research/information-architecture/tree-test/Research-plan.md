@@ -1,29 +1,73 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for VA Mobile App Information Architecture Research: Tree Test (part 3 of 3)
+
+This work falls within the first phase of a three-phase Mobile IA & Navigation project that will contribute to the [Redesign of the VA Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md). It is the second of a three part of IA research study, and was preceded by an [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md). For a summary of the entire project, see [VA Mobile App Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md).
+
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+The VA Mobile app was designed to allow Veterans to more easily complete key transactions across VA Health and Benefits services. 
 
-### OCTO Objectives 
+As the app grows in its feature set, the VA Mobile App team needs a better understanding of how Veterans would navigate benefits and health services within the mobile app. We want to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as being of interest on our roadmap. Because the mobile app is not the only way that veterans interact with the VA, we also want to ensure that we're considering that larger system of digital and analog touchpoints when we think about our approach to how Veterans find information and features within the app.
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+[Link to Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md)
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
 
-## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+### Project Objectives & Goals 
+
+
+#### OCTO-DE Objectives
+
+The following are the [OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports.
+
+
+1. Increase the usage and throughput of VA services
+2. Decrease the time Veterans spend waiting for an outcome
+3. Increase the quality and reliability of VA services
+
+
+#### OCTO-DE Goals
+
+The following are the [OCTO-DE goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports.
+
+
+1. Veterans can manage their health services online
+2. Logged-in users can easily track applications, claims, or appeals online
+3. Logged-in users have a personalized experience, with relevant and time-saving features
+
+
+#### Veteran Journey
+
+
+* Primary point in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf): “Taking care of myself”
+* Secondary points: “Reinventing myself, “Putting down roots,” and “Retiring”
+
+
+### Previous User Research
+
+* An [Open Card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) was conducted in October 2021.  The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
+
+* A [closed card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort) was conducted in March 2022 in order to understand user's mental models around the information architechure of VA services. 
+
+## Research Goals
+
+
+### Information Architecture Research
+
+Fulfills [issue #2552](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2552)
+
+The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible. See [VA Mobile App: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) for a high level summary of the entire 3-phase process.
+
+Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort**) is to:
+* **understand how users think about the current and possible future content** in the VA mobile app 
+* **confirm what the high-level information architecture categories** should be in the VA mobile app
+
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+This research will allow us to adjust the information architecture (and navigation model) in the app to accommodate future features before we scale the app to a larger audience. This is important as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows.
+
+
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
