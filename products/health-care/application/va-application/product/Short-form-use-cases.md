@@ -77,7 +77,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case D
 
-* **Description** Full application flow / less than 50% disability rating
+* **Description** Unauthenticated flow / less than 50% disability rating
   - Veteran is either auth or unauth
   - Less than 50% disabilty rating
   - Existing flow
