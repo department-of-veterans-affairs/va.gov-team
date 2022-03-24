@@ -29,7 +29,7 @@ To make VA.gov search the indispensible "go-to" resource for veterans, caregiver
   - Click-tracking
   - Best Bets/Top Recommendations
   - Site Map XML and indexing 
-- [GitHub Document Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)
+- [~~GitHub Document Directory~~](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)
   
 - Custom on-site search utilities for VA.gov content, forms and lists, including:
   - [Best Bets (aka. Top Recommendations)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/best_bet)
@@ -37,10 +37,10 @@ To make VA.gov search the indispensible "go-to" resource for veterans, caregiver
 - [Typeahead](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/typeahead)
   
 - Off-site search (as SMEs), including:
- - SEO optimization to improve VA.gov performance on Google, Bing, etc. (encompasses IA, Content and site performance)
- - Structured markup
- - Business Listings for VA medical entities
-- [Github Document Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)
+  - SEO optimization to improve VA.gov performance on Google, Bing, etc. (encompasses IA, Content and site performance)
+  - Structured markup
+  - Business Listings for VA medical entities
+- [~~Github Document Directory~~](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)
 - [Resources and Support/Learning center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp)
 
 ## Responsibilities (Problem space and user goals):
@@ -71,7 +71,7 @@ To make VA.gov search the indispensible "go-to" resource for veterans, caregiver
 
 # Roadmap:
 
-- [Phase One plan (May-Dec 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/phase_one.md)
+- [~~Phase One plan (May-Dec 2020)~~](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/phase_one.md)
 
 ---
 # GitHub
@@ -95,7 +95,7 @@ label: vsa-search-discovery
 * Website redirects
 * planned
 * un-planned
-* 
+
 ### Issue - Story Point Estimates 
 
 In an effort to standardize Search & Discovery team estimates the below can act as a reference guide during team planning sessions and Github Issue tracking.  The below chart will be updated as we review the sprint pipeline reflected burndown and velocity estimations of previous sprint performance.   
@@ -110,27 +110,27 @@ In an effort to standardize Search & Discovery team estimates the below can act 
 | 13     | 2 Weeks / 1 Sprint      | Very Large Story / Feature     | Very complex / not all facets known, may take a full sprint or longer  |
 | 21     | More than a sprint      | Feature / Capability (EPIC)    | Needs to be split                                                      |
 
-Reminder:  Story points are unitless scales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability forward. 
+*NOTE*:  Story points are unitless scales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability forward. 
 
 ### Issue Etiquette
-For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
+For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=)):
 
 - Title that explains task
 - [Estimate](https://docs.google.com/document/d/1WftRc1JeNxVAh7u1iiW5c5Et0HbM_uBqxhCXL6NGYog/edit)
 - Description with Background and Acceptance Criteria
-- Labels: _your team's labels_ 
+- Labels: _vsa-search-discovery_ 
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
-If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint.
 
 
 ### **Meeting Cadence**
 |**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
 |-----------------------|------------------------------|------|------------------|-----------------|
-|*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *Monday, Wednesday & Thursday*: Zoom Tuesday & Friday: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any impediments?|
+|*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *MWF*: Zoom TTh: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any impediments?|
 |*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET|60 mins | Zoom meeting|Outline team and member focus, goals for sprint.
 |*Retro*                  |Last Tuesday of every sprint @ 2:30pm ET | 30 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
 |*Grooming* | 2nd Thursday of every sprint, @ 1:00pm ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|
@@ -148,8 +148,8 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Owner     |Dave Conlon                     |
-|Product Manager        |Linda Li                     |
-|Front End Engineer     |Sam Suddath                         |
+|Product Manager        |Nicole Leonard                     |
+|Front End Engineer     |Tyler Simoni                         |
 |Designer/Researcher    |Megan Gayle                         |
 
 ### Team Norms
@@ -168,17 +168,19 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 ### Decision Etiquette
 Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
 1. Is it my decision to make?
-2. Do I have all the inforamtion to make the decision?
+2. Do I have all the information to make the decision?
 3. Do I have to make the decision now?
 
 ### Communication Best Practices 
-- Slack - best communication method
-- Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
-- VFS teams should use public Slack channels as their first method of communication.
+- **Slack** 
+  - Best communication method
+  - Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
+  - VFS teams should use public Slack channels as their first method of communication.
 - Don't wait to organize a meeting to ask a question; this will slow our team down.
-- Email - least effective communication method (Email communications are not easily searchable or archivable. Use this as a last resort for communication.)
+- Email - least effective communication method
+  - Email communications are not easily searchable or archivable. Use this as a last resort for communication.
 
-### Slack:
+### Team Slack:
 #va-search
 
 
