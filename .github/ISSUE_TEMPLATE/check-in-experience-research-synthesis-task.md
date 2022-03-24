@@ -1,3 +1,11 @@
+---
+name: Check In Experience Research Synthesis Task
+about: For Check In Experience Research Synthesis Task
+title: "[Research]"
+labels: research, HCE-Checkin
+assignees: ''
+
+---
 ## How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
