@@ -54,11 +54,14 @@ Before we start, a few things I want to mention:
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
 - What would you change about the new mobile check-in?
 
-## Telemedicine Appointments
-As we look toward future development, we would like to understand telemedicine appointments more.
-- What is your current pre-registration process for telemedicine appointments?
-- Are you experiencing any challenges with telemedicine appointments? If so, what are they?
-- What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
+## Telemedicine Appointments (Telephone)
+As we look toward future development, we would like to understand telemedicine appointments more, particularly telephone appointments.
+- What is your current pre-registration process for telephone appointments? 
+  - How is the process similar or different for other telemedicine appointment types?
+- Are you experiencing any challenges with telephone appointments? If so, what are they?
+  - Are there similar or different challenges with other types of telemedicine appointments?
+- What is your ideal way to get pre-registration information from Veterans who have a telephone appointment? 
+  - What about for other types of telemedicine appointments?
 
 ## Patient Record Flags 
 (Some of these questions might be for more administrators at the sites. MSAs might not have the answers to all of these questions.)
