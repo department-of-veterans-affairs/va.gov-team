@@ -1,4 +1,4 @@
-# VSA team name product transition doc
+# Authenticated Experience - Profile product transition doc
 
 <br>
 
