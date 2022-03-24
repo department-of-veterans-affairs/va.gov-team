@@ -41,7 +41,6 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
   - How would staff like to review patient record flags in the future?
 - Expand our understanding of the ecosystem in which VA facilities communicate important appointment information to Veterans across the entire scheduling experience.
 - Create a map of this ecosystem that will provide teams working across it with a shared understanding of all these systems.
-_These last two research goals also relate to this [VAOS research study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop/research-plan.md#hypothesis)._
 
 ### Hypothesis
 - The pre-check-in experience improves the staff experience, since they need to review contact, NOK, and emergency contact information with fewer Veterans.
@@ -74,3 +73,7 @@ Research: 2-3 full days onsite during the week of ?.
 ## Team Roles	
 - Moderator: TBD (2-3 team members) 
 - Research guide writing and task development: Kristen McConnell
+
+
+### Note:
+The appointment notification questions are also related to this [VAOS study](_These last two research goals also relate to this [VAOS research study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop/research-plan.md#hypothesis).
