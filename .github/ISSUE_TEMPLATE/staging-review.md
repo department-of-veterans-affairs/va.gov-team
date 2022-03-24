@@ -54,12 +54,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md
 --> 
 
-**Content artifacts**
+**Content**
 
 - [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
-**QA artifacts**
+**QA**
 
 [Learn more about QA test plans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
@@ -67,7 +67,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
 - [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
 
-### Accessibility artifacts 
+**Accessibility** 
 
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 
