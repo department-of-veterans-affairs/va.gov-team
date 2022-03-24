@@ -1,3 +1,12 @@
+---
+name: Check In Experience Research Assets Task
+about: For Check In Experience Research Assets Task
+title: "[Research]"
+labels: research, HCE-Checkin
+assignees: ''
+
+---
+
 ## How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
