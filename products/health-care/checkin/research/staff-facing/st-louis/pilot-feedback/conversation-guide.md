@@ -59,7 +59,31 @@ As we look toward future development, we would like to understand telemedicine a
 - What is your current pre-registration process for telemedicine appointments?
 - Are you experiencing any challenges with telemedicine appointments? If so, what are they?
 - What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
- 
+
+## Appointment Notifications
+_Some of these questions might already be answered by questions within the pre-check-in or check-in sections. If you don't have enough time with a staff member, then the questions in bold are the priority questions._
+
+**We would also like to learn more about how you communicate with Veterans about their appointments (telemedicine and in-person). We know that facilities want to keep Veterans up-to-date about when an appointment is confirmed, canceled, or changed.**
+- **What tools or methods do you use to keep Veterans up-to-date about their appointments?**
+- **What challenges do you run into with using or managing these?**
+
+Additionally, we know facilities will capture health information from Veterans before an appointment, or let them check-in for an appointment. 
+- How do you currently capture current health information before an appointment?
+  - If needed, prompt
+    - Current medications
+    - Current symptoms
+- What challenges do you run into when capturing health information before check-in?
+
+Thinking about all the tools and methods you use to keep Veterans up-to-date about their appointments:
+- You mentioned these earlier: [list some tools and methods they already talked about] 
+  - Are there others that you haven’t mentioned yet?
+    - If needed, prompt:
+      - Postcards? Letters
+      - VEText appointment reminders?
+      - Audiocare robocalls?
+- You mentioned some challenges using these tools: [list some challenges they already mentioned]
+  - Are there any other challenges you haven’t mentioned?
+
 ## Patient Record Flags 
 (Some of these questions might be for more administrators at the sites. MSAs might not have the answers to all of these questions.)
 
@@ -72,4 +96,11 @@ We would also like to get your input on the use and value of patient record flag
 - Is there any other patient information you would want to be alerted to that isn't already in VSE for Clinical Staff?
 
 ## Thank you
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so we can continue to improve Veteran and your experience. I hope you enjoy the rest of your day!
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so we can continue to improve Veteran and your experience. 
+
+Finally, we’re looking to deepen our understanding of Veteran notifications. This takes a bit longer, but in the end gives us a much deeper view of all these different systems.
+- We’re hoping to make this exercise beneficial to your team too, and would share the outcome afterwards.
+- This would build on our starting conversation here.
+- If this is something you would be interested in, let me know and I’ll send along details of what we would need.
+
+I hope you enjoy the rest of your day!
