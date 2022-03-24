@@ -56,6 +56,8 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - email: vets.gov.user+EBN7@gmail.com	
   - Password: 
   - Disability rating	50%	
+
+ vets.gov.user+6@gmail.com | 371SsNrLgPv5
   
 ## Use Case C
 
