@@ -33,7 +33,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - Name: Kasey Gloyd	
+  - Name: 228
   - email: 
   - Password: 
   - Disability rating	50%	
@@ -53,11 +53,11 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Name: Kasey Gloyd	
-  - email: vets.gov.user+EBN7@gmail.com	
+  - email: 11 and 6
   - Password: 
   - Disability rating	50%	
 
- vets.gov.user+6@gmail.com | 371SsNrLgPv5
+ 
   
 ## Use Case C
 
@@ -78,7 +78,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 ## Use Case D
 
 * **Description** Unauthenticated flow / less than 50% disability rating
-  - Veteran is either auth or unauth
+  - Veteran unauth
   - Less than 50% disabilty rating
   - Existing flow
   
