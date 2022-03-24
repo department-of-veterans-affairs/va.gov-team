@@ -13,7 +13,7 @@ The check-in team is reimagining the experience between a Veteran scheduling a m
   - answer health questionnaires (future feature).
 - utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) for a medical appointment via VA.gov. 
 
-With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. This study will be conducted on-site in conjunction with a [Veteran study](link research plan). Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews. 
+With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. Lastly, we want to know the current process and challenges surrounding appointment notifications. This study will be conducted on-site in conjunction with a [Veteran study](link research plan). Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews. 
 
 We were also able to coordinate one Zoom call with a few MSAs. The [insights from that call](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/session-notes/Mar9-zoomcall.md) will be added to this study.
 
