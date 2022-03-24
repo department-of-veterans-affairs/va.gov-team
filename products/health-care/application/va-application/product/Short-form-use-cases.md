@@ -35,7 +35,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Name: Colder
   - email: vets.gov.user+228@gmail.com
-  - Password: 200SsNrLgPv5 
+  - Password: [check [MVI Staing Users doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) (private repo)] 
   - Disability: 100% disability rating
 
 ## Use Case B 
@@ -52,6 +52,8 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+
+Password
 - B1
   - Name: Eric
   - email:vets.gov.user+11@gmail.com
@@ -60,7 +62,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 - B2
   - Name: Christian
   - email:  vets.gov.user+6@gmail.com
-  - Password: 371SsNrLgPv5
+  - Password: [check [MVI Staing Users doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) (private repo)] 
   - Disability rating: none
   
 ## Use Case C
@@ -77,7 +79,6 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Gmail: n/a
-  - Password: 
 
 ## Use Case D
 
@@ -92,5 +93,4 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Gmail: n/a
-  - Password: 
 
