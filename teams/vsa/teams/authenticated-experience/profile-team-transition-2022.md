@@ -5,11 +5,13 @@
  The purpose of this transition document is to outline the current state of Authenticated Experience - Profile product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 
 ## Table of Contents
-[Product context (PM)](#product-context)
+[Product context](#product-context)
 
-[Product portfolio (PM)](#product-portfolio)
+[Contact Center Info](#contact-center-info)
 
-[Product approach (Team)](#product-approach)
+[Product portfolio](#product-portfolio)
+
+[Product approach](#product-approach)
 
 [Auth Experience - Profile Team](#authenticated-experience---profile-team)
 
@@ -17,6 +19,10 @@
 
 ## Product context 
 Mission: To elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses and complete necessary tasks. 
+
+## Contact Center Info
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/product-guides.md)
+- [Product Guide Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
 
 ## Product portfolio
 The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
@@ -73,15 +79,14 @@ Gives users the ability to request text notifications or turn them off.
 
 ### Account Security
 Provides information about the user's verification status and whether they have enabled 2-factor authentication
-- [Product folder]()
-- [Product outline]()
-- [Analytics dashboard]() (Domo or Google Analytics)
-- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/commit/ca2514e624dcf5b245cf662f17839c6c5cee69f0)
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1#how-to-access)
 
 ### Connected Apps
 Provides links to third-party websites and applications that can be connected to the VA.gov Profile.  Also shows any apps that the user has connected.
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data)
-- [Product outline]()
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-settings-V1/README.md)
 - [Analytics dashboard]() (Domo or Google Analytics)
 - [Staging users and usecases]()
 
