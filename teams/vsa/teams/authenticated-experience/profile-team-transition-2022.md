@@ -18,16 +18,61 @@
 [VA relationships (Team)](#va-relationships)
 
 ## Product context 
-Brief plain-language description of the problem space where your team and its products operate
+Mission: To elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses and complete necessary tasks. 
+
 
 ## Authenticated Experience - Profile
 The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
-### Product name
-The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
+### Personal Information
+Contains information such as date of birth, preferred name, gender identity
 - [Product folder]()
 - [Product outline]()
 - [Analytics dashboard]() (Domo or Google Analytics)
 - [Staging users and usecases]()
+
+### Contact Information
+Contains information including mailing address, home address, phone numbers, email address
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
+
+### Military Information
+Contains military information 
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
+
+### Direct Deposit Information
+Contains information for adding direct deposit for compensation and pension benefits, as well as education benefits.
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
+
+### Notification Settings
+Gives users the ability to request text notifications or turn them off.
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
+
+### Account Security
+Provides information about the user's verification status and whether they have enabled 2-factor authentication
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
+
+### Connected Apps
+Provides links to third-party websites and applications that can be connected to the VA.gov Profile.  Also shows any apps that the user has connected.
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
+
+<hr>
 
 #### Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
