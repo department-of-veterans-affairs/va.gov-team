@@ -24,11 +24,11 @@ This table includes links to the individual feature directory and the latest ite
 
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
-| Original Claims | 'OC' or 526 Original Claim | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
-| Higher-level Review | HLR | [In production](https://www.va.gov/decision-reviews/higher-level-review/) |
-| Benefits Delivery at Discharge | BDD | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
-| 526 Disability Compensation | 526 or 526EZ | [In Production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
-| Notice of Disagreement | NOD or Board Appeal | [In Production](https://www.va.gov/decision-reviews/board-appeal/) |
+| [Original Claims](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/original-claims) | 'OC' or 526 Original Claim | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
+| [Higher-level Review](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review) | HLR | [In production](https://www.va.gov/decision-reviews/higher-level-review/) |
+| [Benefits Delivery at Discharge](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd) | BDD | [In production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
+| [526 Disability Compensation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez) | 526 or 526EZ | [In Production](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) |
+| [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement) | NOD or Board Appeal | [In Production](https://www.va.gov/decision-reviews/board-appeal/) |
 
 
 <br>
