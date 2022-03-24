@@ -9,6 +9,8 @@
 
 [Contact Center Info](#contact-center-info)
 
+[Slack and Git Hub Info](#slack-and-git-hub-info)
+
 [Product portfolio](#product-portfolio)
 
 [Product approach](#product-approach)
@@ -25,15 +27,6 @@
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/product-guides.md)
 - [Product Guide Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
 
-## Product portfolio
-The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
-### Personal Information
-Contains information such as date of birth, preferred name, gender identity
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
-- [Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/) 
-- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/QA/test-accounts-and-test-cases.md)
-
 ## Slack and GitHub Information
 - Slack Team Channel: [#vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) (note, Auth Profile and Auth Exp both share the same channel)
 - Slack Alerts Channel: [#vsa-authd-exp-alerts](https://dsva.slack.com/archives/C02SYJGH8FJ) - Grafana alerts
@@ -43,6 +36,16 @@ Contains information such as date of birth, preferred name, gender identity
  - Personal Information Revision project: `personal-information`
  - Address Change Messaging: `address-chg-msg`
  - Bad Address Indicator: `bad-address-indicator`
+
+## Product portfolio
+The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include:
+### Personal Information
+Contains information such as date of birth, preferred name, gender identity
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
+- [Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/) 
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/QA/test-accounts-and-test-cases.md)
+
 
 ### Contact Information
 Contains information including mailing address, home address, phone numbers, email address
@@ -98,7 +101,7 @@ Brief plain-language description of this product’s history and next steps
 
 - Now 
  - [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
- - [Project Status Sheet]():star:
+ - [Project Status Sheet](https://salientcrgt.sharepoint.com/:x:/s/VSATeam/EQjbP_WerihBlDg3ArIrlR8Bk4aSfdsmJJw4NFCm9vGjFQ?e=112oGl)
  - Work in Progress
    - [Personal Information Revision](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
    - [Address Change Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-change-messaging)
