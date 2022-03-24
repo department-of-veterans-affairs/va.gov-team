@@ -2,7 +2,7 @@
 
 ## Notes 
 - Meeting was recorded by VA Profile team
-- Schedule - we don't understand what some of the tasks in the project schedule
+- Schedule - we don't understand some of the tasks in the project schedule - Barbie clarified
 - Their code base should be on Staging on 4/8
 - Target go-live is 5/3
 - Lexi - we're not going to go forward with Sexual Orientation and Pronouns, but they won't be displayed on VA.gov until they go through the PRA approval process
