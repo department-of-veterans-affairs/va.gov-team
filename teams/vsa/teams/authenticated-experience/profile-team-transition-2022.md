@@ -18,7 +18,8 @@
 [Now/Next/Later Roadmap](#nownextlater-roadmap)
 
 ## Product context 
-Mission: To elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses and complete necessary tasks. 
+- Problem Statement: Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any given department or medical center may have access to different pieces of information. This makes it hard to understand the full picture of what the VA knows about any given Veteran/person.
+- [VA Profile vs. VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#is-va-profile-the-same-thing-as-the-vagov-profile)
 
 ## Contact Center Info
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/product-guides.md)
@@ -30,8 +31,8 @@ The Authenticated Experience - Profile portfolio consists of products that store
 Contains information such as date of birth, preferred name, gender identity
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
-- [Analytics dashboard]() (Domo or Google Analytics)
-- [Staging users and usecases]()
+- [Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/) 
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/QA/test-accounts-and-test-cases.md)
 
 ## Slack and GitHub Information
 - Slack Team Channel: [#vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) (note, Auth Profile and Auth Exp both share the same channel)
@@ -49,8 +50,8 @@ Contains information including mailing address, home address, phone numbers, ema
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
 - Analytics dashboards
    - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
-   - [GA dashboard for address validation]()
-- [Staging users and usecases]()
+   - [GA dashboard for address validation](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md#how-to-access-and-testhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md#how-to-access-and-testhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md#how-to-access-and-test)
 
 ### Military Information (Est. to start in April)
 Contains military information 
@@ -77,18 +78,18 @@ Gives users the ability to request text notifications or turn them off.
  - [Top Events: Notification Settings page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20211103&_u.date01=20211103&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22notifications%22,0%5D%5D&explorer-table.rowCount=50/)
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#how-to-access-and-test)
 
-### Account Security
+### Account Security (Managed by Identity Team)
 Provides information about the user's verification status and whether they have enabled 2-factor authentication
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/commit/ca2514e624dcf5b245cf662f17839c6c5cee69f0)
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1#how-to-access)
 
-### Connected Apps
+### Connected Apps (Manageed by Lighthouse Team)
 Provides links to third-party websites and applications that can be connected to the VA.gov Profile.  Also shows any apps that the user has connected.
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-settings-V1/README.md)
 - [Analytics dashboard]() (Domo or Google Analytics)
-- [Staging users and usecases]()
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md#how-to-access-and-test)
 
 <hr>
 
@@ -110,8 +111,10 @@ Brief plain-language description of this product’s history and next steps
  - [Product Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
  - [Ideas for Profile Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/future-improvements.md)
 
-## Other Intiatives that Affect VA.gov Profile
+## Other Team Intiatives that Affect VA.gov Profile
 - EVSS Service Migration
+  - [Project Slack Channel](https://dsva.slack.com/archives/C02CQP3RFFX)
+  - [Auth Profile Project Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/evss-migration)
 
 ## Product approach 
 
@@ -131,7 +134,7 @@ Brief plain-language description of this product’s history and next steps
 - [MyHealtheVet Profile Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
 
 ### Engineering
-- [Documentation]()
+- [Environment Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/va-profile-environment-mapping.md#how-va-profile-environments-map-to-vagov)
 - [Documentation]()
 - [Documentation]()
 
