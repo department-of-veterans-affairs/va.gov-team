@@ -1,137 +1,91 @@
-# VSA team name UX research and design hub
+# VSA team name product transition doc
 
 <br>
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used.
+> The purpose of this transition document is to outline the current state of Authenticated Experience - Profile product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 
 <br>
 
 ## Table of Contents
-[Features and initiatives we worked on](#features-and-initiatives-we-worked-on)
+[Product context (PM)](#product-context)
 
-[Our UX research resources](#our-ux-research-resources)
+[Product portfolio (PM)](#product-portfolio)
 
-[Our UX design resources](#our-ux-design-resources)
+[Product approach (Team)](#product-approach)
 
-[Our team](#our-team)
+[VA relationships (Team)](#va-relationships)
 
-<br>
+## Product context 
+Brief plain-language description of the problem space where your team and its products operate
 
-## Features and initiatives we worked on
-This table includes links to the individual feature directory and the latest iteration (doc or code) in design or development.
+## Authenticated Experience - Profile
+The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
+### Product name
+The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include
+- [Product folder]()
+- [Product outline]()
+- [Analytics dashboard]() (Domo or Google Analytics)
+- [Staging users and usecases]()
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
-| :--- | :--- | :--- |
-| [Your feature]() | Other names or references | [In production]() |
-| [Your feature]() | Other names or references | [In staging]() |
-| [Your feature]() | Other names or references | [In development]() |
-| [Your feature]() | Other names or references | [In design]() |
-| [Your feature]() | Other names or references | [In discovery]() |
+#### Now/Next/Later Roadmap
+Brief plain-language description of this product’s history and next steps
 
-<br>
+- Now [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
+- Next [Profile team priorities Q1-Q2 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-profile-Q1-Q2-2022.md)
+- Later - [Product Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
-## Our UX research resources
-We used these UX research resources during design and development.
+## Product approach 
 
-### References
-- [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
+### Artifacts
+- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+- [Authenticated Experience Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/README.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md)
 
-### Templates
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
+### Research and design
+- [Personal Information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)
+- [Contact Information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+- [Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
+- [Direct Deposit Information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
+- [Notification Settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
+- [Account Security](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1)
+- [Connected Apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data)
+- [MyHealtheVet Profile Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
 
-<br>
-
-## Our UX design resources
-We used these UX design resources to guide our design and development.
-
-### Design system
-- [VA.gov Design System](https://design.va.gov/)
-- [Storybook](https://design.va.gov/storybook/?path=/story/about-introduction--page)
-- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
-- [USDS Design System](https://designsystem.digital.gov/)
-- [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
-
-### Content resources
-- [Content writing](https://design.va.gov/content-style-guide/)
-- [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
-
-### Accessibility (Section 508)
-- [Internal 508 checklist]()
-- [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
+### Engineering
+- [Documentation]()
+- [Documentation]()
+- [Documentation]()
 
 <br>
 
-## Our UX research/design process
-Add team-specific process documentation; add notes.
+## VA relationships
+> You can reference specific product outlines or the team charter if contact or meeting information exists there already
+### Contacts
 
-- [Team process doc]()
-- [Reference doc]()
-- [Reference doc]()
-
-<details>
-  <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
-
-Outline your process; add notes.
-  
-1. Analyze existing feature
-2. Conduct discovery research on existing feature
-3. Synthesize analysis and research into lo-fi screens and flows
-4. Present synthesis/lo-fi visuals at design review
-5. Improve fidelity of screens and flows
-6. Provide content for sitewide review
-7. Present refined mockups at mid-point review
-8. Conduct usability testing
-9. Refine/finalize screens and flows
-10. Review feature in staging
-11. Second usability testing round
-12. Review feature in production (if possible)
-13. Conduct user acceptance testing
-</details>
-
-<details>
-  <summary><strong>Design tools we used</strong> (Click to show details)</summary><br>
-
-List your tools; add notes.
-  
-- Sketch for Teams
-- UXPin
-- Mural
-- Github markdown
-- VSCode
-</details>  
-
-### VA.gov collaboration cycle
-- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
-- [Other platform references used]()
-- [Other platform references used]()
-
-<br>
-
-## Our team
-
-### March 2022 team roster
-
-- Person Name | email.address@va.gov -- Team product manager
-- Person Name | email.address@va.gov -- Backend engineer
-- Person Name | email.address@va.gov -- Frontend engineer
-- Person Name | email.address@va.gov -- Content writer
-- Person Name | email.address@va.gov -- UX researcher
-- Person Name | email.address@va.gov -- UX designer
 - Person Name | email.address@va.gov -- Product owner
+- Person Name | email.address@va.gov -- Role
+- Person Name | email.address@va.gov -- Role
+- Person Name | email.address@va.gov -- Role
 
-### Other team members
+### Meetings
 
-- Person Name | email.address@va.gov -- Backend engineer
-- Person Name | email.address@va.gov -- Frontend engineer
-- Person Name | email.address@va.gov -- UX designer
+- Meeting title
+   - Purpose
+   - Frequency
+- Meeting title
+   - Purpose
+   - Frequency
+- Meeting title
+   - Purpose
+   - Frequency
 
-### Team resources
-- [Team Github directory]()
-- [Team Zenhub board]()
+### Open questions
+
+- Open question lorem ipsum dolor sit amet?
+- Open question lorem ipsum dolor sit amet?
+- Open question lorem ipsum dolor sit amet?
 
 <br>
 
