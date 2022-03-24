@@ -66,7 +66,7 @@ Contains military information
 ### Direct Deposit Information
 Contains information for adding direct deposit for compensation and pension benefits, as well as education benefits.
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md)
 - [Analytics dashboard] - Google Analytics
  - [Direct deposit for EDU ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
  - [Direct deposit for Comp & Pen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/compensation-pension-project-outline.md)
@@ -91,7 +91,6 @@ Provides information about the user's verification status and whether they have 
 Provides links to third-party websites and applications that can be connected to the VA.gov Profile.  Also shows any apps that the user has connected.
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-settings-V1/README.md)
-- [Analytics dashboard]() (Domo or Google Analytics)
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md#how-to-access-and-test)
 
 <hr>
