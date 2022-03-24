@@ -1,6 +1,6 @@
 # Project outline: Profile Personal Information Revision
 
-Last updated: January 5, 2022 
+Last updated: March 24, 2022 
 
 ### Communications
 
@@ -32,7 +32,9 @@ Last updated: January 5, 2022
 
 ## Overview
 
-In June 2021, VEO came to VA.gov to talk about integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information.  
+In June 2021, VEO came to VA.gov to talk about integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information. 
+
+**Note**: As of March 2022, it has been determined that we will only be adding preferred name and gender identity to start, as they are already approved for data collection via the 10-10EZ health care application. Pronouns and sexual orientation, however, are not approved as part of any VA forms and need to go through PRA approval before we can add them to VA.gov. The current plan is for the health care folks to get pronouns and sexual orientation added to the 10-10EZ, at which point we can add these fields to VA.gov.
 
 ## Problem Statement
 
@@ -70,9 +72,15 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 |Field name|Updates in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
 |----------|------------|------------|------------|
 |Preferred name| | | |
-|Pronouns| | | |
 |Gender identity| | | |
-|Sexual orientation| | | |
+
+**KPI**: We see at least a 95% success rate for retrieving this information from the backend.
+
+|Field name|% of successful retrievals in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|----------|------------|------------|------------|
+|Preferred name| | | |
+|Gender identity| | | |
+
 
 **KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
 
@@ -97,7 +105,10 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - June 2021: Request made to the VA.gov auth experience team
 - October 2021: New profile team onboarded and project kickoff
 - Fall 2021: Design; Frontend build; Backend on hold as we wait for MPI to be ready to start integration
-- December 2021: User testing on interface designs; back end begins integration with MPI
+- December 2021: User testing on interface designs; discussions begin with MPI
+- January 2021: Continued design updates and FE build; It is determined that VA Profile, not MPI, will support the backend
+- February 2021: Backend development begins; Continued delays and back and forth between MPI and VA Profile, though VA Profile remains the backend supporting this work.
+- March 2021: PRA determination made that we need approvals for pronouns and sexual orientation before we can continue with adding them to VA.gov; Still moving forward with preferred name and gender identity; Final design updates; Continued FE and BE build
 
 ## Design
 
