@@ -87,4 +87,4 @@ body:
         For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=Access+for+%5Bindividual%5D).
         If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
 
-        CC: @department-of-veterans-affairs/vsp-operations , @department-of-veterans-affairs/operations-aws-approvers.
+        CC: [@department-of-veterans-affairs/vsp-operations](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-operations/members) , [@department-of-veterans-affairs/operations-aws-approvers](https://github.com/orgs/department-of-veterans-affairs/teams/operations-aws-approvers/members).
