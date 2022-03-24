@@ -173,9 +173,9 @@ We will run sessions between 4/1-4/13. Please schedule 15 minutes between sessio
 
 ### Pilot
 
-Date and time of pilot: 
+Date and time of pilot: Monday 3/28, 2:00-300pm
 
-Pilot Participant email: 
+Pilot Participant email: rafael.arroyo@adhocteam.us
 
 
 ### Sessions
