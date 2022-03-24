@@ -17,10 +17,11 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - ZenHub board - [VAOS Team](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
 - [Team Charter](team/charter.md)
 
-### Slack Channels
+### Digital Service @ VA Slack Channels
 
 - [#vaos-team](https://app.slack.com/client/T03FECE8V/CMNQT72LX)
 - [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
+- [#vaos-alerts](https://dsva.slack.com/archives/C016QB6T340)
 
 ### Team Members
 
@@ -29,12 +30,13 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - Program Management:
   - [Ariel Nerbovig](https://dsva.slack.com/team/U018FJE3694)
 - Product Management:
-  - [Jeff Roof]
+  - [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
   - [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79)
 - Design & Research:
   - [Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9)
   - [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
 - Engineering:
+  - [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
   - [Corey Ferris](https://dsva.slack.com/team/U01F5F6V8QN)
   - [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
   - [AJ Magbud](https://dsva.slack.com/team/UUW4NUCM7)
