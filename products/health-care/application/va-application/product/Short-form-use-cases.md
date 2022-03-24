@@ -36,7 +36,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - Name: Colder
   - email: vets.gov.user+228@gmail.com
   - Password: 200SsNrLgPv5 
-  - Disability 100% disability rating
+  - Disability: 100% disability rating
 
 ## Use Case B 
 
@@ -52,12 +52,13 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
   - ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb))
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-A.  - Name: Eric
+- B1
+  - Name: Eric
   - email:vets.gov.user+11@gmail.com
   - Password: 187SsNrLgPv5
-  - Disability rating:	40%	
-
-B.  - Name: Christian
+  - Disability rating: 40%	
+- B2
+  - Name: Christian
   - email:  vets.gov.user+6@gmail.com
   - Password: 371SsNrLgPv5
   - Disability rating: none
