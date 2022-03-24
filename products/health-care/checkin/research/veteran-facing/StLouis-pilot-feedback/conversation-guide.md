@@ -50,6 +50,6 @@
   - _Only for Veterans who completed pre-check-in, but had to review demographics again on the day of._ What are your thoughts on reviewing your address, next of kin, and emergency contact today, since you also reviewed them a few days ago?
   - If you had to give the check-in process a name, what would it be? 
   - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
-    - Why? What are your impressions of the experience?
+    - Why? What are your impressions of the experience? 
 
 Thank you for helping us continue to improve the pre-check-in and check-in experience.
