@@ -48,28 +48,27 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - Confidence in decisions averaged 4.4
 - In addition, the group indicated that having the criteria would be useful in supporting and explaining decisions to stakeholders
 
-**2. The language "core or supplemental benefit" was not clear to the group**
-- The terminology "core or supplemental benefit" used in criteria 3 was not understood
+
+**2. The language used in criteria 3 around "unique application or application process" and "core or supplemental benefit" was not clear to the group**
+- There was not agreement on what the difference between "core" and "supplemental" meant
   - On participant felt that if there's a specific application or form to fill out, it's supplemental, this included if they have to fill out the main benefit form a second time. 
   - Another participant wondered if "core" referred to what everyone receives, where as "supplemental" is based on unique circumstances
   - When the group was asked if they agreed with any of the definitions given, besides a slight head nod from one person, the group did not really provide a response back in agreement or disagreement.
   - _"...I did spend a lot of time on the core vs. supplemental. I don't know why I struggled with it because it didn't say you had to do anything different for the them, but I think I know enough to be dangerous and found myself thinking that those terms are important and wanting to define them."_
-
-**3. The clause "a unique application or application process" was not clear to the group**
-- Participants mentioned and noted in their worksheets when content referenced a specific application or form, and if it did, they oftent answered "yes" to this criteria
+- Participants noted that when content referenced any application or form, they often answered "yes" to this criteria
   - _"I was looking for is there an application there, is there a link to an application"_ 
-- There was, however, some uncertainty around what was included in "application process" 
+- There was uncertainty around what was included in "application process" 
     -  _"...thinking "application process"...does that include additional evidence that's way more extensive than what would often be required? I took it not to mean evidence."_  
     -  _"for the process, does that mean what you have to do in the form, or things you need to get ready to do the application...getting ready to, plus doing the thing, plus the afer"_
 
 
-**4. Even though they made a single placement decision for each page, they often indentified sections of content in a page they considered for separate placement**
+**3. Even though they made a single placement decision for each page, they often indentified sections of content in a page they considered for separate placement**
 - Although most pages resulted in an overall placement in the benefit hubs, everyone in the group identified some piece of content that they considered a better fit for R&S
   - _"You could take out the question "What's an Agent Orange exam, and how do I request one?" and move that to Resources and support since it's not a requirement for the Veteran to receive disability benefits."
   - _"this might be one of those pages that's a split...some of it goes in the benefit hubs and some of it goes in R&S"_
 
 
-**5. What do we have to compare to for accuracy of their decision making???**
+**4. What do we have to compare to for accuracy of their decision making???**
 - Three of the 5 pages evaluated (clothing allowance, PTSD and Camp Lejeune) had full agreement for benefit hub placement
   - _"while they had to file for disability, they also had to submit 1-2 additional forms, that triggered a yes to criteria 3 for me.  Similar to clothing allowance"_
 - The Agent Orange page resulted in some uncertainty in placement 
@@ -81,7 +80,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - 2 individuals indicated that pulling in more content from the PDF and elsewhere would make it more suited for benefit hub placement
 
 
-**6. Individual biases and experience of the person doing the evaluation played a part in making the decision**
+**5. Individual biases and experience of the person doing the evaluation played a part in making the decision**
 - Existing knowledge and biases of what is considered a benefit, and where benefit content should be placed, played a part in decision making (i.e. "tier 1", veteran-facing content)
   - _"I'm not sure that extra content belongs in R&S, maybe another hub page would be better, because I still feel like it's tier 1 because it's for Veterans."_
 - Many members of the group cited times where they would revise a heading, restructure the content, or elaborate on content in order to build out a better page. Doing this would occassionally lead them to making a different decision.
@@ -89,7 +88,7 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
   
-**7. Speed of evaluations...**
+**6. Speed of evaluations...**
 - The group was able to evaluate 5 pages of varying length within 30-35 minutes
 
 **7. The layout and format of the worksheet could use some minor improvements**
@@ -98,18 +97,23 @@ The 5-10 top findings from your study should be listed here. Write your findings
 
 ## Recommendations
 
+
+**Revise criteria 3 for easier reading and clearer language**
+- Clarify what is included in "application process"**
+- The terms "core" versus "supplemental" need to be defined, as well as indicate how they impact the placement decision
+- Split this criteria if needed in order to clarify the dependency between the two scenarios
+
 **Utilize individual bullets and/or questions to make criteria easier to read and follow**
 - The group liked how criteria #5 used bullets to list out the individual scenarios and suggested the same formatting be followed for criteria 2 and 3. 
 
-**Revise criteria 3 to provide more clarity and meaning**
-- Clarify meaning of "unique application form" and "unique application process"**
-- Define "core" versus "supplemental"
 
-**Improve formatting to ensure that criteria 5 is only referenced in correct scenarios**
+**Improve wording to ensure that criteria 5 is only referenced in correct scenarios**
+
 
 
 ## Next Steps
-Next steps here
+- Update criteria 3 based on feedback
+- Utilize the revised criteria in the R&S pilot with the Community Care working group to further validate
 
 ## Appendix
 ### Conversation guide
