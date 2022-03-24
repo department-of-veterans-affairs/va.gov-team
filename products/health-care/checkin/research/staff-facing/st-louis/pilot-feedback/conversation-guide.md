@@ -60,10 +60,21 @@ As we look toward future development, we would like to understand telemedicine a
 - Are you experiencing any challenges with telemedicine appointments? If so, what are they?
 - What is your ideal way to get pre-registration information from Veterans who have a telemedicine appointment?
 
+## Patient Record Flags 
+(Some of these questions might be for more administrators at the sites. MSAs might not have the answers to all of these questions.)
+
+We would also like to get your input on the use and value of patient record flags, such as a behavioral flag.
+- How do you currently use patient record flags, if at all? 
+- Where do you see the flag, and how do you respond?
+- Do you use national or local flags, or both?
+- If patient record flags were added to VSE for Clinical Staff, where/when would you want to see them? 
+- Would you want only behavioral flags, or all patient flags?
+- Is there any other patient information you would want to be alerted to that isn't already in VSE for Clinical Staff?
+
 ## Appointment Notifications
 _Some of these questions might already be answered by questions within the pre-check-in or check-in sections. If you don't have enough time with a staff member, then the questions in bold are the priority questions._
 
-**We would also like to learn more about how you communicate with Veterans about their appointments (telemedicine and in-person). We know that facilities want to keep Veterans up-to-date about when an appointment is confirmed, canceled, or changed.**
+**For our last topic, we would like to learn more about how you communicate with Veterans about their appointments (telemedicine and in-person). We know that facilities want to keep Veterans up-to-date about when an appointment is confirmed, canceled, or changed.**
 - **What tools or methods do you use to keep Veterans up-to-date about their appointments?**
 - **What challenges do you run into with using or managing these?**
 
@@ -83,17 +94,6 @@ Thinking about all the tools and methods you use to keep Veterans up-to-date abo
       - Audiocare robocalls?
 - You mentioned some challenges using these tools: [list some challenges they already mentioned]
   - Are there any other challenges you haven’t mentioned?
-
-## Patient Record Flags 
-(Some of these questions might be for more administrators at the sites. MSAs might not have the answers to all of these questions.)
-
-We would also like to get your input on the use and value of patient record flags.
-- How do you currently use patient record flags, if at all? 
-- Where do you see the flag, and how do you respond?
-- Do you use national or local flags, or both?
-- If patient record flags were added to VSE for Clinical Staff, where/when would you want to see them? 
-- Would you want only behavioral flags, or all patient flags?
-- Is there any other patient information you would want to be alerted to that isn't already in VSE for Clinical Staff?
 
 ## Thank you
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so we can continue to improve Veteran and your experience. 
