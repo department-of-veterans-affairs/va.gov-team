@@ -131,8 +131,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - VA Homeloans information
 - Co-pay details (future enhancement as data comes available)
 
---- 
-
+---
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
@@ -142,7 +141,22 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Content ticket [#34015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
 - Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
 - Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
+- Staging ticket
+- Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
 
+### Incident Response info
+A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
+
+- Payments API: /v0/profile/payment_history
+     - Currently managed by the eBenefits team
+          - PM:Jason Wolf
+          - OCTO-DE Lead: Matt Self
+- Debts API: /v0/debts
+     - Currently managed by the Debt resolution team 
+          - PM: Denise Coveyduc
+          - OCTO-DE Lead: Matt Self
+
+---
 ## Key deliverables
 
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
@@ -151,10 +165,10 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/payment-history-frontend.md)
 - How to access and test
     - [Staging env](https://staging.va.gov/my-va/)
-    - Testing documentation
+    - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/suites/view/5&group_by=cases:section_id&group_id=3309&group_order=asc&display_deleted_cases=0)
     - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info.md)
-    - Payments Information a11y test case documentation
-- Release plan
+    - [Payments Information a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Staging%20Review/Accessibility%20testing.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Payment%20Information%20-%20Release%20Plan.md)
 - [Production env](https://www.va.gov/my-va/)
 
 
@@ -164,7 +178,10 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Nov 2021: Kickoff with MVP outlined & begin design
 - Dec 2021: Design work finalized
 - Jan 2022: Usability testing kickoff
-- Feb 2022: Finalize designs, development and begin QA
+- Feb 2022: Finalize designs, development
+- Mar 2022: Complete QA and begin UAT recruitment
+- Apr 2022: Complete UAT
+- Apr 2022: Launch!
 
 ---
    
