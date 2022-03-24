@@ -18,7 +18,8 @@ Last updated: March 24, 2022
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us |
 |Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
 |Laurie Baker | VBA partner | laurie.baker@va.gov |
-|Lexi Matza | Deputy Director, LGBT Health Program | alexis.matza@va.gov |
+|Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
+|Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
 
 ### Table of Contents
 
