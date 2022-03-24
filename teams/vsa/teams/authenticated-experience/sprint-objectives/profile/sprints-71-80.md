@@ -20,6 +20,13 @@
 - Start on QA use cases (this will not be completed yet)
 - Figure out how we can get a staging user with the bad address indicator for testing (might require working with VA Profile)
 
+### Notification preferences
+
+**Design**
+
+- Update mocks to add the new comp & pen notification
+- Review with IA and content (so we can get feedback to VA Profile team)
+
 ## Sprint 72 (4/20 - 5/3)
 
 ## Sprint 73 (5/4 - 5/17)
