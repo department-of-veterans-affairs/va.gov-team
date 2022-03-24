@@ -62,7 +62,7 @@ The research will be conducted at a CBOC, Annex, and certain departments within 
 - Try to gather feedback and observations from as many staff and roles as possible during the visit
 
 ## Timeline
-Research: 2-3 full days onsite during the week of March 28.
+Research: 2-3 full days onsite during the week of ?.
 
 ## Team Roles	
 - Moderator: TBD (2-3 team members) 
