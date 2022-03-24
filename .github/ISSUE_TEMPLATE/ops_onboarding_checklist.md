@@ -33,7 +33,7 @@ If you have any questions/need access please reach out to Jesse House (@jhouse-s
   - [ ] #vfs-all-teams
 - [ ] Github: join 'department-of-veterans-affairs' org
 - [ ] [Zenhub](https://app.zenhub.com/workspaces/platform-operations-team-6112bc325f570300140f7852/board?repos=133843125)
-- [ ] [Setup SOCKS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#how-can-i-set-up-access) to access below apps:
+- [ ] [Setup SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) to access below apps:
   - [ ] [Jenkins](http://jenkins.vfs.va.gov/)
   - [ ] [Sentry](http://sentry.vfs.va.gov/)
   - [ ] [Grafana](http://grafana.vfs.va.gov/)
@@ -44,7 +44,7 @@ If you have any questions/need access please reach out to Jesse House (@jhouse-s
 - [ ] Keybase
 - [ ] Prometheus (not used directly, but check to make sure you have access by going [here](http://prometheus-prod.vfs.va.gov:9090/prometheus/graph?g0.range_input=1h&g0.expr=&g0.tab=0))
 - [ ] [Datadog](https://app.datadoghq.com/) (ask for invite from whoever is on call, or someone else on your team.)
-- [ ]  AWS ([access request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=Environment-Access-Request-Template.yml&title=Access+for+%5Bindividual%5D))
+- [ ]  AWS ([access request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D))
 
 ### Understanding VSP and where we sit
 - [ ] [Overview of VSP](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html)
@@ -63,6 +63,7 @@ High level:
   - [ ] John
   - [ ] Oseas
   - [ ] Rebecca
+  - [ ] Kyle
 
 
 

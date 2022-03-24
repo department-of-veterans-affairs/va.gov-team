@@ -1,0 +1,50 @@
+name: WIP SOCKS Access Request
+description: To request access to SOCKS
+title: Access for [individual]
+labels: ['external-request', 'operations', 'ops-access-request']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        1. Change the **Title** to include your name
+        2. Add the label used by your team (eg: `BAH-526`)
+        3. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
+        4. When the issue is closed you will be notified and can continue with on-boarding setup
+  - type: input
+    id: requestor-name
+    attributes:
+      label: Your Name
+      description: Please provide your name
+      placeholder: e.g. Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Your Email
+      description: Please provide your work email
+      placeholder: e.g. jane.doe@company.com
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Your Role
+      description: Please provide your role on your team
+      placeholder: e.g. Backend Engineer
+    validations:
+      required: true
+  - type: textarea
+    id: ssh-key
+    attributes:
+      label: Public SSH Key
+      description: Requred for SOCKS. If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
+      placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D).
+        If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
+
+        CC: @department-of-veterans-affairs/vsp-operations
