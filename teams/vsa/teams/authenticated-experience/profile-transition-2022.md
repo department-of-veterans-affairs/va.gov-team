@@ -1,4 +1,4 @@
-# VSA team name product transition doc
+# VSA Authorized Experience - Profile Transition Doc
 
 <br>
 
@@ -18,15 +18,19 @@
 [VA relationships (Team)](#va-relationships)
 
 ## Product context 
-Brief plain-language description of the problem space where your team and its products operate
+Mission: To enable Veterans to quickly, easily, and effectively find information and complete tasks that matter most to them!
+
 
 ## Product portfolio
 ### Product name
 Brief plain-language description of this product
 
-- [Product folder]()
-- [Product outline]()
-- [Analytics dashboard]() (Domo or Google Analytics)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#readme)
+- [Analytics]() (Domo or Google Analytics)
+   - Google Analytics - [Direct Deposit for Compensation and Pension Payments](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+   - Google Analytics - [Direct Deposit for Education Benefits](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qEpkRFroTOSTpgaBDHXK4A/a50123418w177519031p176188361/)
+- [Product Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
 - [Staging users and usecases]()
 
 #### Now/Next/Later Roadmap
