@@ -184,6 +184,9 @@ Session dates: 4/1-4/13
 
 Session length: 1 hour
 
+## Session observers 
+
+
 
 ### Availability
 
@@ -247,7 +250,7 @@ Session length: 1 hour
   <tr>
    <td>4/8
    </td>
-   <td>11:30am-12:30pm EST
+   <td>12:30pm-1:30pm EST
 <p>
 3:00pm-4:00pm EST
 <p>
@@ -281,5 +284,13 @@ Session length: 1 hour
 ## **Team Roles**
 
 We want Perigean to take notes, and also will have a designated note taker and observers on the call to catch context-specific insights. See participant tracker for contact information.
+
+# Expected observers
+  - therese.dickson@adhocteam.us 
+  - jen.ecker@adhocteam.us 
+  - meko.hong@adhocteam.us 
+  - leanna.miller@va.gov
+  - travis.newby@va.gov
+  - brenda@digitalfoundry.com
 
 [Link to participant tracker](https://docs.google.com/spreadsheets/d/1qJSb-9gaUuxa4Ty23r7AELE_6NDO5a_3O51lUM9dRug/edit#gid=0)
