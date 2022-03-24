@@ -1,5 +1,5 @@
 
-# [Search & Discovery]
+# Search & Discovery
 
 _Team folder for the Search & Discovery Team (part of the Unauthenticated portfolio)_
 
@@ -10,10 +10,10 @@ _Team folder for the Search & Discovery Team (part of the Unauthenticated portfo
 - `vsa-search-discovery`
 
 ### Points of Contact 
-- DSVA Product Owner: John Hashimoto
-- Product Management:  Denise Coveyduc
+- DSVA Product Owner: Dave Conlon 
+- Product Management:  Nicole Leonard
 - Design/Research: Megan Gayle
-- Engineering: Sam Suddath
+- Engineering: Tyler Simoni
 
 ### Key Documents
 
