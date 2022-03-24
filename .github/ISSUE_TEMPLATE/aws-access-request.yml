@@ -1,6 +1,6 @@
-name: WIP AWS Access Request
+name: AWS Access Request
 description: To request access to AWS
-title: Access for [individual]
+title: AWS access for [individual]
 labels: ['external-request', 'operations', 'ops-access-request']
 body:
   - type: markdown
