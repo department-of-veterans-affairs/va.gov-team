@@ -28,7 +28,14 @@ Contains information such as date of birth, preferred name, gender identity
 - [Staging users and usecases]()
 
 ## Slack and GitHub Information
-- Team Channel (note, Auth Profile and Auth Exp both share the same channel)
+- Slack Team Channel: [#vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) (note, Auth Profile and Auth Exp both share the same channel)
+- Slack Alerts Channel: [#vsa-authd-exp-alerts](https://dsva.slack.com/archives/C02SYJGH8FJ) - Grafana alerts
+- [GitHub Board](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-authenticated-exp,profile&notFullScreen=false&repos=133843125&showReleases=false&showReviewers=false)
+- Git Hub Tags
+ - `vsa-authenticated-exp` + `profile` (vsa-authenticated-exp without profile is the Vets Dashboard team)
+ - Personal Information Revision project: `personal-information`
+ - Address Change Messaging: `address-chg-msg`
+ - Bad Address Indicator: `bad-address-indicator`
 
 ### Contact Information
 Contains information including mailing address, home address, phone numbers, email address
