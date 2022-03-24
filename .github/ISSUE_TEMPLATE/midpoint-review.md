@@ -40,31 +40,24 @@ assignees: ''
 
 ## Artifacts
 
-Provide links or documents for the following: 
+Provide links or documents for the following:
 
-- [ ] Product outline
-<!--
-[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
---> 
-- [ ] Finalized design prototype or mockup
-- [ ] Research plan 
+**Preferred**
 
-<!--
-[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) 
---> 
-- [ ] Conversation guide 
-
-<!--
-[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
--->
+- [ ] Product outline <!--https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
+- [ ] Hi-fi, mobile first design prototype or mockup (Sketch) <!--https://www.sketch.com/workspace/c99d3e96-7c23-4210-b173-92a2b73a8788/p/x0MRA-->
+- [ ] User flow (Sketch, swim lanes, etc.) <!--https://www.sketch.com/s/3b0d625a-ab30-4e83-8084-5987ea5e2bb7/p/0BA07D80-CB09-4652-A7DB-E518C664593C
+ https://app.mural.co/template/77cc7953-8695-4788-a1a4-c2182d0b5270/5a333319-c85d-4aaf-a4b4-2b362f537d8a -->
+- [ ] Research plan <!--https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md--> 
+- [ ] Conversation guide <!--https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md-->
 
 
-### Content artifacts 
+**Content artifacts**
 
 - [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
  
-### QA artifacts
+**QA artifacts**
 
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
