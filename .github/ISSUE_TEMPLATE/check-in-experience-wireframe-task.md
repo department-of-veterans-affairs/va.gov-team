@@ -1,3 +1,12 @@
+---
+name: Check In Experience Wireframe Task
+about: For Check In Experience Wireframe Task
+title: "[Design]"
+labels: design, HCE-Checkin
+assignees: ''
+
+---
+
 ## How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
