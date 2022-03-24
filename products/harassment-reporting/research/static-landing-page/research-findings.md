@@ -108,55 +108,55 @@ Audience segment:
 * Veterans:   14
 
 Gender:
-* Male:   
-* Female: 
+* Male:       3 
+* Female:    10
+* Non-binary: 1
 
 Devices used during study: 
-* Mobile phone: 
+* Mobile phone: 3
+* Tablet:       1
+* Computer:    10
 
 Age:
-* 18-24: 
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65-74: 
-* Unknown: 
+* 18-24: 0
+* 25-34: 0
+* 35-44: 4
+* 45-54: 6
+* 55-64: 4
+* 65-74: 0
 
 Education:
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate, or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
-* Unknown: 
+* High school degree or equivalent: 0
+* Some college (no degree): 2
+* Associate's degree, trade certificate, or vocational training: 1
+* Bachelor's degree:  8
+* Master's degree:    3
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban: 10
+* Rural:  4
 
 Race:
-* White: 
-* Black: 
-* Hispanic: 
-* Biracial:  
-* Asian: 
-* Native: 
-* Unknown: 
+* White:    8
+* Black:    6
+* Hispanic: 0 
+* Biracial: 1 
+* Asian:    1
+* Native:   0
 
 Disability and Assistive Technology:
-* Cognitive disability: 
-* Screen reader: 
+* Cognitive disability: 5
+* Screen reader:        1
+* Screen magnifier:     1 (but didn't use during session)
 
 
 ## Underserved groups we haven’t talked to 
 
 This research may not include the perspectives of the following underserved Veteran groups:
-* Identify as Hispanic, Biracial, Asian, Native, or LGBTQ+
+* Identify as Hispanic or Native
 * Other than honorable discharge
 * Immigrant origin
 * Expat (living abroad)
-* Users of Assistive Technology
 
 <br>
 
