@@ -92,9 +92,10 @@ We would like to
 
 ## Pages and applications used
 
-### Prototype on Staging
+### Screenshot of Landing Page on Staging
 
-[Mobile prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
+[Prototype on Staging server](https://staging.va.gov/hrt/)
+<img src="">
 
 ### Screenshot of Poster
 <img src="">
