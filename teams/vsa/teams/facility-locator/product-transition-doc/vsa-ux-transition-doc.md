@@ -72,7 +72,10 @@ We used these UX design resources to guide our design and development.
 
 <br>
 
-## Our UX research/design process [IN PROGRESS]
+## Our UX research/design process
+
+[IN PROGRESS]
+
 Add team-specific process documentation; add notes.
 
 - [Team process doc]()
