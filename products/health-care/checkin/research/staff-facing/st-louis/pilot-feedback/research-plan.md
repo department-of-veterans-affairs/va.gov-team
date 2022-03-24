@@ -39,6 +39,9 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 - What challenges are staff experiencing related to telemedicine appointments, particularly telephone appointments?
 - How are patient record flags currently used?
   - How would staff like to review patient record flags in the future?
+- Expand our understanding of the ecosystem in which VA facilities communicate important appointment information to Veterans across the entire scheduling experience.
+- Create a map of this ecosystem that will provide teams working across it with a shared understanding of all these systems.
+_These last two research goals also relate to this [VAOS research study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop/research-plan.md#hypothesis)._
 
 ### Hypothesis
 - The pre-check-in experience improves the staff experience, since they need to review contact, NOK, and emergency contact information with fewer Veterans.
@@ -53,6 +56,10 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 - Staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
 - Gathering necessary pre-registration and other information prior to a telemedicine appointment, particularly phone, can be difficult.
 - Properly displaying patient record flags is very important to staff.
+- We believe Veterans receive inconsistent notifications because:
+  - The set of tools facilities may use to help Veterans keep track of appointments are numerous, making them difficult to manage.
+  - Automated notifications that come from these systems are not connected, resulting in duplication.
+  - Facilities can each create a unique process for notifications, which leads to inconsistencies.
 
 ### Location
 The research will be conducted at a CBOC, Annex, and certain departments within John J. Cochran Veterans Hospital.
