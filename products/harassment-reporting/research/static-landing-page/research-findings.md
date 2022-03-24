@@ -10,17 +10,17 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 **Jump to:**
 
-[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/research-findings.md#hypotheses-and-conclusions)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#key-findings)
+[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/research-findings.md#recommendations)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#further-research-needed)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/research-findings.md#further-research-needed)
 
-[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#appendix)
+[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/research-findings.md#who-we-talked-to)
 
 <br>
 
