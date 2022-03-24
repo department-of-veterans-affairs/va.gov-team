@@ -37,7 +37,7 @@
   - Address Change Messaging: `address-chg-msg`
   - Bad Address Indicator: `bad-address-indicator`
 - Auth Profile Issue Template
-  - Template can be accessed from Template drop-down when creating a new issue
+  - Template can be accessed from Template drop-down when creating a new issue or from the [Template page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
   - [Template .md file - if changes are needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/auth_profile_issue.md)
 
 ## Product portfolio
