@@ -88,7 +88,8 @@ My VA page was redesigned and released to production in July 2021.  The priority
 
 - Stand-up
      - What is ready for review, what are we working on, and what blockers are present?
-     - 3pm ET (15min) - Mondays, Thursdays, and Fridays
+     - 3pm ET (15min) - Mondays, and Fridays
+     - 1:45pm ET (15min) - Thursdays
 - Team of Teams (scheduled by VA team)
      - Provide a weekly update to other VA teams that may impact or be beneficial to them
      - 12p ET (45 min) - Every Tuesday
