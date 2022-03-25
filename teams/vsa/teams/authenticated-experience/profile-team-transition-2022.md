@@ -83,6 +83,7 @@ Gives users the ability to request text notifications or turn them off.
  - [Notification Settings GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
  - [Top Events: Notification Settings page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20211103&_u.date01=20211103&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22notifications%22,0%5D%5D&explorer-table.rowCount=50/)
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#how-to-access-and-test)
+- [Technical diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/technical-diagrams/notification-preferences-architectural-diagram.md)
 
 ### Account Security (Managed by Identity Team)
 Provides information about the user's verification status and whether they have enabled 2-factor authentication
@@ -105,7 +106,15 @@ Provides links to third-party websites and applications that can be connected to
 - [Project Status Sheet](https://salientcrgt.sharepoint.com/:x:/s/VSATeam/EQjbP_WerihBlDg3ArIrlR8Bk4aSfdsmJJw4NFCm9vGjFQ?e=112oGl)
 - Work in Progress
     - [Personal Information Revision](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
+      - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
+      - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision/design)
+      - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision/research)
+      -  [Front-end documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend)
+      - [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/QA/test-accounts-and-test-cases.md)
     - [Address Change Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-change-messaging)
+       - [Product outline]
+       - [Design]
+       - [Front-end documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend)
     - [Bad Address Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator)
     - [MyHealtheVet Profile Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
     
