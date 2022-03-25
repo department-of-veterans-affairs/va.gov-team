@@ -16,6 +16,7 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); 
 
 - [Overview](#overview)
 - [Projects](#projects)
+- [Backend](#backend)
 - [Design](#design)
 
 ---
@@ -34,6 +35,10 @@ Currently, we show:
 ## Projects
 
 - [Integrate military information through VA Profile]()
+
+## Backend
+
+Military currently integrates through eMIS but will soon be moving to VA Profile.
 
 ## Design 
 
