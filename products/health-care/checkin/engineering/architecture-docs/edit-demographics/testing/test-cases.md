@@ -1,8 +1,14 @@
 # Test Cases for QA
 
-## How to Test
+- [Test cases for QA](#test-cases-for-qa)
+- [How to access in Staging](#how-to-access-in-staging)
+- [Assumptions](#assumptions)
 
--
+## How to access in Staging
+
+- Applies for all scenarios
+  - Setup a pre check-in able appointment in stageing following [this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md), or have one set up for you.
+  - Get an ID for the appointment(s) that you wish to pre-check-in for and add it to this URL -> <https://staging.va.gov/health-care/pre-check-in/?id={ID}>
 
 ## Assumptions
 
