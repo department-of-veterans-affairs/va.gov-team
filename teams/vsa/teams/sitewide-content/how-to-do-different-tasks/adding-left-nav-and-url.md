@@ -15,7 +15,18 @@
 3. Find the page you want to move and drag and drop it to the correct place in the left nav.
 4. Scroll to the bottom of the page and select **Save**.
  
+## How to add a Drupal page to the top nav (also called the header mega menu)
+1. Select the **Menus** button in Drupal.
+2. Find the Header mega menu and select **Edit menu**.
+3. Select the Add link button at the top of the page.
+4. Fill in all the required boxes and select **Save**.
 
+## How to change the order of pages in the top nav (also called the header mega menu)
+1. Select the **Menus** button in Drupal. 
+2. Find the Header mega menu and select **Edit menu**.
+3. Find the page you want to move and drag and drop it to the correct place in the top nav.
+4. Scroll to the bottom of the page and select **Save**.
+5. 
 ## How to set the url for a Drupal page
 
 For root-level and benefit pages, a content author needs to manually add the url. Do this is in the "URL alias" section of the Drupal node. 
