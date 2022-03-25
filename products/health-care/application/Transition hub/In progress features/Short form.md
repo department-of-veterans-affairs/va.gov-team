@@ -39,6 +39,7 @@ This table includes links to the individual research studies.
 | :--- | :--- | 
 | Discovery research (May 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf) 
 | Usability  (September 2021) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research) | 
+| Usability post-publication (April 2022) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/Short%20form%20usability-April%202022)
 
 
 <br>
