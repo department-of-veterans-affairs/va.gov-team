@@ -59,8 +59,8 @@ The most critical path iteams are listed below but do not represent the total of
   - **Medical records** - Epic [#37365](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37365)
     - Includes **Cerner link** [#35947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35947)
   - **Billing and insurance** - Epic [#37366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37366)
-- **Lovell federal health care**- Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
-- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+- **Lovell federal health care**- Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | _next up: research on dual eligibles to validate design for switching between DoD and VE experiences_
+- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | _next up: Veteran research_
 - **Support for Cerner roll-out** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
 
 ### Next 
