@@ -38,7 +38,7 @@
 | Request Certificate of Eligibility (1880)           | vsa-ebenefits | In dev | -- | [Transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/coe-transition-design.md) | -- | FE mostly done, waiting on BE / API
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | In discovery | -- | [Transition Doc](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG/README.md) | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for engagement**
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | In discovery | -- | [Transition Doc](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG/README.md) | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for engagement**
-| View Dependent Benefits Letter                      | combination   | Check with MR | --        | --        | --        | [Confirm complete?](https://staging.va.gov/records/download-va-letters/)
+| View Dependent Benefits Letter                      | combination   | **(COMPELETE)** | --        | --        | --        | [Location on VA.gov](https://staging.va.gov/records/download-va-letters/)
 | _SEP Features Placeholder_                          | vsa-ebenefits           | Discovery complete        | --        | --        | --        | Hold for now
 
 ## Complete: Applications and Features
