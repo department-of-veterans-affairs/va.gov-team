@@ -59,14 +59,18 @@ The most critical path iteams are listed below but do not represent the total of
   - **Medical records** - Epic [#37365](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37365)
     - Includes **Cerner link** [#35947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35947)
   - **Billing and insurance** - Epic [#37366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37366)
-- **Lovell federal health care**- Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | _next up: research on dual eligibles to validate design for switching between DoD and VA experiences_
-- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | _next up: Veteran research_
-- **Support for Cerner roll-out** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
+- **Lovell federal health care**- Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) 
+    - _next up: research on dual eligibles to validate design for switching between DoD and VA experiences_
+- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+    - _next up: Veteran research_
+- **Support for Cerner roll-out/EHRM single source of truth** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
+    - Roseburg roll-out - planned for June 13, 2022
+    - Columbus roll-out (TBD)
 
 ### Next 
 - **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
 - **Re-evaluate Left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
-- Health service modalities (telehealth, virtual, mobile, etc)
+- **Health service modalities (telehealth, virtual, mobile, etc)**
 
 ### Later
 
