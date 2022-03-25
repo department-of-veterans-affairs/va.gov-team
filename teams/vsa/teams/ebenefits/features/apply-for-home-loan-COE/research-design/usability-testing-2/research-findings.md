@@ -6,7 +6,7 @@ Date: 03/24/2022
 
 [Jim Adams] [james.adams@govcio.com], [Candy Clark] [candy.clark@govcio.com]
 
-[Research Report PDF] (link here)
+<!-- [Research Report PDF] (link here) -->
 
 <br>
 
