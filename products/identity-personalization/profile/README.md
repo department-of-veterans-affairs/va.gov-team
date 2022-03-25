@@ -1,4 +1,4 @@
-# Product Outline: VA.gov Profile
+# Product Outline: The VA.gov Profile
 
 Last Updated: March 25, 2022
 
