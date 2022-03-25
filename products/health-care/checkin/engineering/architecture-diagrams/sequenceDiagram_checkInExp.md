@@ -1,3 +1,4 @@
+## Check In Sequence Diagrams
 
 ### Initiate Check-in
 When Veterans send the text "check in" to the designated number, VEText receives the text and intiates the check-in process. CHIP retrieves the relevant data through VistA APIs, puts the data in LoROTA, sets the status and generates and sends the shortened URL back to the Veteran.
@@ -53,7 +54,6 @@ sequenceDiagram
         t->>vet: send text (error phone not found)
     end
 ```
-<br><br>
 
 ### Start Check-in
 Once they click on the link, they are redirected to the website, which checks if their session exists. If not, they are redirected to the low auth page.
@@ -67,8 +67,8 @@ sequenceDiagram
 
     link url: design @ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/design-doc.md
 
-    vet->>+url: Click on "check-in" short URL
     activate vet
+    vet->>+url: Click on "check-in" short URL
     url->>-vet: 301 redirect
     vet->>+web: load "health-care/appointment-check-in"
     web->>+api: check if session exists
@@ -77,8 +77,6 @@ sequenceDiagram
     web->>vet: redirect to login page
     deactivate vet
 ```
-
-<br><br>
 
 ### Authentication
 This is the flow when Veterans submit their last4/last name to complete the LoROTA low auth flow. If successfully authenticated, LoROTA returns the stored data from DynamoDB. The data includes patient's demographic update status. If any of the demographic data requires updates, they are shown those demographic pages to confirm that their data is correct.
@@ -129,7 +127,5 @@ sequenceDiagram
         deactivate vet
     end
 ```
-
-<br><br>
 
 ### Check In
