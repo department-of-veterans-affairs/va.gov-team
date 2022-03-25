@@ -252,7 +252,7 @@ _If there are demographics that were not included in this study or you discovere
 
 
 ## Tools used for Synthesis
-[Spreadsheet]()
+[Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/COE%20Usability%20Study%202.xlsx)
 
 
 ## Pages and applications used
