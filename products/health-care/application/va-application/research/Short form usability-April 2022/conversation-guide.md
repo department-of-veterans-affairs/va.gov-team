@@ -87,7 +87,7 @@ If the participant immediately moves to click on "start your application..." but
   - Is there anything that you would not have on-hand or would need to prepare before starting this application?
   - Do you have any additional thoughts or questions? 
 
-## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at sign in (~half of participants, participant should have a disability rating of 50% or higher) - 15 minutes
+## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at sign in - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not.
 
@@ -106,7 +106,30 @@ Alright, let's continue
      - Prompt participant to interact with alert on the third or fourth page of the form if they haven't already - note any interaction/content positives/confusion
 
 
-## Variation 2: Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question (~half of participants, participant should have a disability rating of 50% or higher) - 15 minutes
+## Variation 2, Design A: Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question - 15 minutes
+
+Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
+
+Let's pretend that you went through the sign in process and are taken to here (authenticated Intro page), from here please continue with the application.
+
+- Participant will next navigate to the first page of the form "Veteran information"
+     - Mostly let the participant fill out the form (noting any comments)
+
+Once participant selects that they receive pay for a disability of 50% or higher:
+- Participant will next be shown the short form confirmation page
+     - Note any response
+     - Can you tell me a little about your thoughts as you read this page?
+     - What do you expect to happen next?
+     - Do you have any questions?
+     - Is there anything that stands out to you on this page? Good, bad, indifferent
+
+For the purpose of this research, imagine that you actually do not have a disability rating of 50% or higher, and you reached this page by accident. What would you do next?
+- Note their response/interaction
+
+Ask participant to continue filling out the form
+- Prompt participant to interact with alert on form if they haven't already - note any interaction/content positives/confusion
+
+## Variation 2, Design B: Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
 
