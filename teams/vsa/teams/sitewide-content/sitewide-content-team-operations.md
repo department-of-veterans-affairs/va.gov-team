@@ -31,5 +31,5 @@ Besides stakeholder requests and product team help, the content team works regul
 We keep all our documentation about the work we're doing in the Sitewide Content teams folder. 
 - [Check this folder for help with Resources and Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/resources-and-support) 
 - [Check this folder for help with translation work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/translation-work)
-- [- [Check this folder for documentation on how to do different tasks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/checklists) 
-- Check this folder for our pre-publishing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/checklists)
+- [Check this folder for documentation on how to do different tasks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/checklists) 
+- [Check this folder for our pre-publishing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/checklists)
