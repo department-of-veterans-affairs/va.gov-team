@@ -1,7 +1,7 @@
 # eBenefits: Sunset Strategy
 
 ``` diff 
-- **WIP:** Please PR with changes
+- WIP: Please PR with changes
 ```
 
 ## Features Status for eBenefits
