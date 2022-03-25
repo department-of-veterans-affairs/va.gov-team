@@ -3,6 +3,15 @@
 - [Test cases for QA](#test-cases-for-qa)
 - [How to access in Staging](#how-to-access-in-staging)
 - [Assumptions](#assumptions)
+- [Test Case: User continues without changes](#test-case-user-continues-without-changes)
+    - [Description / Use case](#description--use-case)
+    - [Expected Outcome](#expected-outcome)
+- [Test Case: Browser Times Out Before Submission](#test-case-browser-times-out-before-submission)
+    - [Description / Use case](#description--use-case)
+    - [Expected Outcome](#expected-outcome)
+- [Test Case: Try to submit Form with Blank Values](#test-case-try-to-submit-form-with-blank-values)
+    - [Description / Use case](#description--use-case)
+    - [Expected Outcome](#expected-outcome)
 
 ## How to access in Staging
 
@@ -14,35 +23,35 @@
 
 - User has made an appointment and has received a pre-check-in text message. 
 
-## Test Case: User Submits Form without Changes
+## Test Case: User Continues without Changes
 
 ### Description / Use Case 
 
-User views the edit demographic information page, but does not make any changes. User submits the form without changes. 
+User views the review and update contact information page(demographics), but does not make any changes. User clicks the Continue button without changes. 
 
 ### Expected Outcome 
 
-Information saves to VA systems. 
+The demographics updated status and timestamp get submited to vets-api and the user is routed to the next page.
 
 ## Test Case: Browser Times Out Before Submission
 
 ### Description / Use Case 
 
-User views the edit demographic information page. In the background, the web browser session times out before the form is submitted. Then, user clicks “Submit” to submit their changes to the form.  
+User clicks edit on information that wish to change and get routed to the edit screen. In the background, the web browser session times out before the form is submitted. Then, user clicks “Submit” to submit their changes to the form.  
 
 ### Expected Outcome 
 
 Upon submitting the form, the user is shown session time out error messages. Information is not submitted to VA systems. If the user logs in to continue editing, the user is directed to the demographic information page. Their previously added input values are lost.
 
-## Test Case: Submit Form with Blank Values
+## Test Case: Try to submit Form with Blank Values
 
 ### Description / Use Case 
 
-User views the edit demographic information page and clears all field values, including required fields. User clicks “Submit.”   
+User views an edit page and clears all field values, including required fields.  
 
 ### Expected Outcome 
 
-Information is not submitted to VA systems. Show relevant error messages for user to fill out required fields. User has the option to fill out the required fields and submit the form or click “Cancel” to go back. If user cancels, the user’s information in VA systems remains unchanged. 
+The required fields display an error message and the Update button becomes disabled preventing the user from clicking until they have corrected any error states shown on the fields.
 
 ## Test Case: Start New Session Before Submit
 
