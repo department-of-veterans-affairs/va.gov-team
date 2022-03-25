@@ -59,7 +59,7 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
     - Likely True
 - Biographical, contact and service language will be clear to most users; the language around loan options and COE intent will be somewhat confusing
     - Definitely True
-- Users will be able to download their COE if their status is Available or Auto, but may not recognize that there is additional action needed if their status is Pending with letters or uploads requested.
+- Users will be able to download their COE if their status is Available or Auto but may not recognize that there is additional action needed if their status is Pending with letters or uploads requested.
     - Likely False
 - Users will expect their COE to be available in various ways: physical letter, email, printed, and/or within an authenticated profile/dashboard
     - Likely True
@@ -81,7 +81,7 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
 
 6. When status is “Pending with documents needed”, participants were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
 
-7. Some participants expected a confirmaiton page after uploading documents on "Pending" task. 
+7. Some participants expected a confirmation page after uploading documents on "Pending" task. 
 
 8. Participants were able to find the “Download your COE” link quickly.
 
@@ -105,7 +105,7 @@ Labels: DSP: Content presentation
 
 The options on “Your service history” caused confusion for some participants.
 
-> 2 of 6 participants stopped to talk through issues with service history quesitons
+> 2 of 6 participants stopped to talk through issues with service history questions
 
 > One participants had 2 service history periods separated by a 2 month period and wasn't sure how to enter them.
 
@@ -124,7 +124,7 @@ The participants that saw the “How will you use your Certificate of Eligibilit
 
 > 1 of the participants is a realtor who works with many veteran families. They said they frequently get questions from their clients about these selection choices.
 
-> "I am not sure what they mean about restoration of entitlement means. I thought to hover over it, but nope. The cash out is pulling equity out of the home, then I know the IRRL. The one I selected is for someone trying to get the COE, maybe the top is for someone that sold the home and now entitled to another one.... I guess now that I think about it I would select this one. Maybe a hyperlink right there for an explanation. Maybe I am ignorant that I don’t know."
+> "I am not sure what they mean about restoration of entitlement means. I thought to hover over it, but nope. The cash out is pulling equity out of the home, then I know the IRRL. The one I selected is for someone trying to get the COE, maybe the top is for someone that sold the home and now entitled to another one.... I guess now that I think about it, I would select this one. Maybe a hyperlink right there for an explanation. Maybe I am ignorant that I don’t know."
 
 ![loan intent](https://user-images.githubusercontent.com/84141672/160071314-6b0750ec-2c08-4645-9531-70731bf671d2.png)
 
@@ -144,7 +144,7 @@ The `(*Required)` label on the document uploader led participants to believe the
 
 > "They need more information. I would be confused here."
 
-> "My first thought here is that why is it not already on file but I know they said I needed it. Will it let me go forward if I don’t add it. I would expect it not to let me go forward without adding it. That’s weird it gives all of these choices when it just wants your DD214. I could see the proof of honorable service or statement of service or annual retirement points. I don’t know why hub 1 or some of the other ones would be there because a regular person wont know what it is. It is weird they let them choose that when all it wants is proof of service."
+> "My first thought here is that why is it not already on file, but I know they said I needed it. Will it let me go forward if I don’t add it. I would expect it not to let me go forward without adding it. That’s weird it gives all of these choices when it just wants your DD214. I could see the proof of honorable service or statement of service or annual retirement points. I don’t know why hub 1 or some of the other ones would be there because a regular person won't know what it is. It is weird they let them choose that when all it wants is proof of service."
 
 **Finding 5**
 
@@ -172,13 +172,13 @@ When status is “Pending with documents needed”, participants were able to di
 
 Labels: DSP: Content presentation
 
-Some users expected a confirmaiton page after uploading documents on "Pending" task.
+Some users expected a confirmation page after uploading documents on "Pending" task.
 
 > 3 of 6 participants explicitly said they were looking for a confirmation page.
 
-> 2 of 6 participants said they would call for help because they were not sure if they had sumbitted everything.
+> 2 of 6 participants said they would call for help because they were not sure if they had submitted everything.
 
-> "It says it was uploaded but it circled back to this page. I guess I feel like it is weird that it came back here instead of a closing statement.... I would call someone because I would not feel comfortable. Actually I go back down and look at the letter to see if it needs something else. If it said the same thing, I worry about things like that so then I would call to make sure that’s all they needed because I wasn’t comfortable that it brought me back to the same page."
+> "It says it was uploaded but it circled back to this page. I guess I feel like it is weird that it came back here instead of a closing statement.... I would call someone because I would not feel comfortable. Actually, I go back down and look at the letter to see if it needs something else. If it said the same thing, I worry about things like that so then I would call to make sure that’s all they needed because I wasn’t comfortable that it brought me back to the same page."
 
 **Finding 8**
 
@@ -194,21 +194,19 @@ Participants were able to find the “Download your COE” link quickly.
 
 - Participants expected to be able to return to the tool to download their COE again.
 - One participant noted that the timing given on the landing page was "minutes" for an automatic COE, but the confirmation page stated 5 days.
-   > "Okay, back to the beginning of this and the automatic COE. I can't remember if it was on the actual va page but it said I would get it back within minutes but now this says within 5 days. I would think it would be sooner, I would have liked to know if it would be 5 business days beforehand."
-- 2 participant noted that the instructions say to work with your lender, so they were unsure why they would want or need to fill out the form online.
+   > "Okay, back to the beginning of this and the automatic COE. I can't remember if it was on the actual VA page but it said I would get it back within minutes but now this says within 5 days. I would think it would be sooner, I would have liked to know if it would be 5 business days beforehand."
+- 2 participants noted that the instructions say to work with your lender, so they were unsure why they would want or need to fill out the form online.
 - 1 participant asked if the emails would come to their personal email or their "secure messaging" (where they receive healthcare messages).
 - 1 participant had previously had a VA-backed loan that was foreclosed on. They were unsure if they were eligible and did not find any information to help them in the content.
 - Participants noted that they should not need to upload their DD-214 because the VA already has it.
 - Despite some issues, users were positive about the experience.
-    > "This was good, way better then I expected."
+    > "This was good, way better than I expected."
     
     > "It isn't as difficult as I thought it was."
     
     > "I was impressed that you could do this online. I thought it may be difficult dealing with the VA, but it was very easy"
 
 # Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Remove `(*Required)` label from document uploader when required documents have been uploaded - in both the request form and the `Pending` uploaders
     * 4 of 6 participants did not understand that they could continue after uploading the first document during the initial form.
@@ -222,7 +220,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 * Increase visibility of confirmation and/or direct to a separate confirmation screen for `Pending` uploads
     * 3 of 6 participants explicitly said they were looking for a confirmation page.
-    * 2 of 6 participants said they would call for help because they were not sure if they had sumbitted everything.
+    * 2 of 6 participants said they would call for help because they were not sure if they had submitted everything.
 
 * Provide additional information about loan intent options.
     * 2 of the 3 participants who saw the loan intent option selection stopped to talk through selections and were not sure if they had selected the correct choice for their situation
@@ -230,7 +228,7 @@ _Put together initial recommendations here based on your findings along with sup
     * 1 of the participants is a realtor who works with many veteran families. They said they frequently get questions from their clients about these selection choices.
 
 * Make service selection choice options shorter and more distinct.
-    * 2 of 6 participants stopped to talk through issues with service history quesitons
+    * 2 of 6 participants stopped to talk through issues with service history questions
 
 # Next Steps
 
