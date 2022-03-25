@@ -4,7 +4,8 @@ This is a WIP
 
 This document serves as a helpful guide for the different tasks Sitewide Content does during the course of a sprint. Some of the work is initiated from other product teams, VA benefit office stakholders, and from the product owners.
 
-## Stakeholder requests
+## Incoming requests 
+### Stakeholder requests
 Stakeholders from the different VA benefit offices will reach out via VA email for changes or updates they want made to pages on VA.gov. 
 [Review the list of VBA stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/VBA%20Stakeholders.md)
 
@@ -13,6 +14,13 @@ Sometimes the stakeholder needs a phone number updated or a link or dollar amoun
 
 [Read the document given to stakeholders explaining the collaboration between Sitewide Content and benefit offices for updating VA.gov pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/Content-updates-Drupal-editorial-process-032521.docx) [We need to update some of the info in this, including content team members and the CMS content release times]
 
-## Product team requests
-Product teams will ask Sitewide Content for content support. They'll open a Sitewide Content and IA intake request form and may come to office hours to discuss what's needed. Sitewide Content should review this request soon after it comes in and determine next steps. We'll use the intake request as the start of an epic and create individual tickets for the contet and IA work needed.<br> 
+### Product team requests
+Product teams will ask Sitewide Content for content support. They may need help writing or editing an alert in their app or creating a brand-new landing page for the tool they'll be launching. They'll open a Sitewide Content and IA intake request form and may come to office hours to discuss what's needed. Sitewide Content should review this request soon after it comes in and determine next steps. We'll use the intake request as the start of an epic and create individual tickets for the content and IA work needed.<br> 
 [Review the Sitewide Content and IA team's intake request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/sitewide-content-intake-form.md)
+
+## Content work Sitewide Content is responsible for
+Besides one-off requests and product team help, the content team works regularly on a few tasks:
+- Updating different benefit rates annually [Read about our process for updating rates pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/how-to-update-rates-pages.md)
+- Updating the number of days to complete disability claims monthly [Read how to update the number of days to complete disability0related claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/updating-number-of-days-to-complete-disability-related-claims.md)
+- COVID-19 page updates (in English, Spanish, and Tagalog) [Read about our process for updating COVID-19 pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/covid-translation-work-process.md)
+- 
