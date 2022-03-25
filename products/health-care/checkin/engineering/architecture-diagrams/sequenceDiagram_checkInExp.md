@@ -129,3 +129,44 @@ sequenceDiagram
 ```
 
 ### Check In
+When Veterans confirm and check-in to their appointment, a call is made to CHIP which sets the check-in status to `E-CHECKIN COMPLETE` in VistA. If the Veteran confirms their demographics information, the status is set in Clinician Workflow.
+
+```mermaid
+sequenceDiagram
+    actor vet as Veteran
+    participant web as vets-website
+    participant api as vets-api
+    participant l as LoROTA
+    participant c as CHIP
+    participant va as VistA API
+    participant cw as Clinician Workflow
+
+    activate vet
+    vet->>+web: Click check-in
+    opt demographics confirmations
+        web->>+api: PUT /demographics
+        api->>+c: confirm demographics
+        c->>+cw: set patient demographic status
+        cw->>-c: status set
+        c->>-api: response
+        api->>-web: response
+    end
+    web->>+api: POST /check-in
+    api->>+c: check-in
+    c->>+l: get appointment
+    l->>-c: appointment
+    par
+        c->>+va: set checkin
+        va->>-c: response
+    and
+        c->>+va: set appointment status (E-CHECKIN COMPLETE)
+        va->>-c: response
+    and
+        c->>+cw: set checkin step
+        cw->>-c: response
+    end
+    c->>-api: checkin successful
+    api->>-web: response
+    web->>-vet: successful checked in page
+    deactivate vet
+```
