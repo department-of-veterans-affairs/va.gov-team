@@ -1293,24 +1293,6 @@ Based on the difference in mental model between mobile vs non-mobile user, we re
 Consider testing the findability of items in the current app’s IA using TreeJack to set a benchmark (so we have something to compare the findability of items against) before testing the new IA.
 
 
-## Participant Demographics
-**Recruitment criteria**
-
-**46 participants** Completed the study
-
-<img width="481" alt="Screen Shot 2022-03-18 at 9 36 40 AM" src="https://user-images.githubusercontent.com/79866060/159012760-b3cb9241-e51a-449f-a1d5-ce70a26623a5.png">
-
-## Underserved groups we haven’t talked to 
-Findings may not include the perspectives of the following underserved Veteran groups:
-- Veterans who have a cognitive disability
-- Veterans who don’t have a degree
-- Veterans who identify as Latinx, Asian, Native, or LGBTQ+)
-- Veterans who live abroad
-- Veterans who use mobile exclusively
-We recommend studies with these underserved groups in the future.
-
-
-
 # Next Steps
 
 **Tree Test:**
@@ -1332,7 +1314,84 @@ Why are we testing: We are testing the findability of tasks within our proposed 
 
 [Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
 
+## Who participated in the study
 
+**Recruitment criteria**
+
+
+We had **47 participants** complete the card sort study.
+
+Audience segment:
+* Veterans: 9 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
+
+
+Gender:
+* Male: 35 
+* Female: 28 
+
+
+LGBTQ+:
+* Transgender: 0 
+* Nonbinary, gender fluid, genderqueer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 2
+* Gay, lesbian, or bisexual: 0
+
+
+Devices used during the study: 
+* Desktop: x 
+* Tablet: x 
+* Smartphone: x 
+* Assistive Technology: 0
+
+
+Age:
+* 25-34: 1
+* 35-44: 2
+* 45-54: 2
+* 55-64+: 4
+* Unknown: 0
+
+
+Education:
+* High school degree or equivalent: 2
+* Some college (no degree): 9
+* Associate's degree, trade certificate, or vocational training: 16
+* Bachelor's degree: 23
+* Master's degree: 21
+* Doctorate degree: 2
+* Unknown: 0
+
+
+Geographic location:
+* Urban: 28
+* Rural: 35
+* Unknown: 0
+
+
+Race:
+* White: 47
+* Black: 2
+* Hispanic: 1
+* Biracial: 0
+* Asian: 0
+* Native: 0
+
+
+Disability and Assistive Technology (AT):
+No participant joined using Assistive Technology
+
+## Underserved groups who we haven’t talked to 
+
+This research does not include the perspectives of the following marginalized Veteran groups:
+
+* Cognitive Disability
+* Other than honorable 
+* Expat
+* LGBTQ+
+* Assistive Tech users
+
+[Appointments list recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
 
 
 
