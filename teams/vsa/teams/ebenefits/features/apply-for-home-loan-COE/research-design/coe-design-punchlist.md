@@ -27,6 +27,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [x] Add "Need help" section to Denied screen in prototype
 - [x] Add "top" Request a COE link to area above subway map
 - [ ] Add SIP message for form in-progress
+- [ ] Adjust wording on SIP alert from 'application' to 'request'
 
 ### VA form 26-1880
 
