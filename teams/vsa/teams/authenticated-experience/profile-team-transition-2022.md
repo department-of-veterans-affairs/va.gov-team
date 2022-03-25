@@ -70,7 +70,7 @@ Contains military information
 Contains information for adding direct deposit for compensation and pension benefits, as well as education benefits.
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md)
-- [Analytics dashboard] - Google Analytics
+- Google Analytics
  - [Direct deposit for EDU ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
  - [Direct deposit for Comp & Pen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/compensation-pension-project-outline.md)
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md)
@@ -99,20 +99,20 @@ Provides links to third-party websites and applications that can be connected to
 <hr>
 
 ## Now/Next/Later Roadmap
-Brief plain-language description of this product’s history and next steps
 
-- Now 
- - [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
- - [Project Status Sheet](https://salientcrgt.sharepoint.com/:x:/s/VSATeam/EQjbP_WerihBlDg3ArIrlR8Bk4aSfdsmJJw4NFCm9vGjFQ?e=112oGl)
- - Work in Progress
-   - [Personal Information Revision](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
-   - [Address Change Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-change-messaging)
-   - [Bad Address Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator)
+### Now 
+- [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/sprint-objectives/profile)
+- [Project Status Sheet](https://salientcrgt.sharepoint.com/:x:/s/VSATeam/EQjbP_WerihBlDg3ArIrlR8Bk4aSfdsmJJw4NFCm9vGjFQ?e=112oGl)
+- Work in Progress
+    - [Personal Information Revision](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
+    - [Address Change Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-change-messaging)
+    - [Bad Address Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator)
     - [MyHealtheVet Profile Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
-- Next 
+    
+### Next 
    - [Profile team priorities Q1-Q2 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/team-priorities-profile-Q1-Q2-2022.md)
   
-- Later 
+### Later 
  - [Product Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
  - [Ideas for Profile Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/future-improvements.md)
 
@@ -140,11 +140,10 @@ Brief plain-language description of this product’s history and next steps
 
 ### Engineering
 - [Environment Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/va-profile-environment-mapping.md#how-va-profile-environments-map-to-vagov)
-- [Documentation]()
-- [Documentation]()
 
 
 ## Authenticated Experience - Profile Team
+
 - [Team Charter - Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience#team)
 
 
