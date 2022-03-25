@@ -16,7 +16,7 @@
 
 ### Link standards
 
-- [ ] Confirm that links work (aren't broken--no error message) and point to the intended page (you pasted in the correct URL or chose the correct node ID).
+- [ ] Confirm that links work (aren't broken—no error message) and point to the intended page (you pasted in the correct URL or chose the correct node ID).
 - [ ] Confirm all link text is 100 characters or less.
 - [ ] Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to doesn't live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
 
