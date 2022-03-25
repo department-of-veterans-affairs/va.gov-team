@@ -152,12 +152,6 @@ Brief plain-language description of this product’s history and next steps
 
 - [Team Charter - Workflow + Cadence](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md#workflow--cadence)
 
-### Open questions
-
-- Open question lorem ipsum dolor sit amet?
-- Open question lorem ipsum dolor sit amet?
-- Open question lorem ipsum dolor sit amet?
-
 <br>
 
 ---
