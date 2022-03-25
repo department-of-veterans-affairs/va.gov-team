@@ -26,7 +26,7 @@ Once the roll-out is complete, we plan to re-evaluate additional features, inclu
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
 
 ### Now
-- **Publish remaining District 1 and 4 pages**
+- **Publish remaining District 1 and 4 pages** | [Publishing runbook - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md) 
 - **Request redirects as pages are published**
   - Facility Locator detail pages -> Lighthouse 
   - Legacy directory location and key staff pages -> Public Websites
