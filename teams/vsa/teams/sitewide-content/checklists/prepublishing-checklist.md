@@ -7,7 +7,7 @@
 
 ### Accessibility standards
 
-- [ ] If your link or button will take the user off VA.gov, confirm that the text for the link or button contains a purpose and a target. The user should be able to tell from the link or button text what the call to action is (the purpose) and where they will end up if they click on the link (the target). The following link is an example of this: <br>[Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/)</br> 
+- [ ] If your link or button will take the user off VA.gov, confirm that the text for the link or button contains a purpose and a target. The user should be able to tell from the link or button text what the call to action is (the purpose) and where they will end up if they click on the link (the target). The following link is an example of this: <br>[Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/)</br> 
 **Note:** When you direct the user to another VA.gov page, the link only needs to contain text indicating purpose (the call to action).
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/)
