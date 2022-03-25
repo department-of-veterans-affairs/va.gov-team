@@ -52,7 +52,7 @@ Once the roll-out is complete, we plan to re-evaluate additional features, inclu
 - [CMS Vet Center Knowledge Base](https://prod.cms.va.gov/help/vet-center)
 - [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
 - [District 2 kickoff powerpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Centers%20Website%20Presentation%20-%20District%202%20Kickoff%20-%2020220302.pptx) | March 2022 (_owned by Dave Conlon_)
-- [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) _requires a VA network connection_
+- [Vet Center content workbook - last updated version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) _requires a VA network connection_
 - [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
 - [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
 - [Vet Center runbok](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md)
