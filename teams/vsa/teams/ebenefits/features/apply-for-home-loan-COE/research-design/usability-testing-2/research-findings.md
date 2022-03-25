@@ -54,17 +54,17 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
 
 # Hypotheses and Conclusions
 - Users will initially look for a direct link in the white quadrant on the home page; many will locate COE landing page after several steps
-    - Likely True 
+    - Likely True: 5 of 6 participants looked at white quadrants for direct link.
 - The form itself will be relatively easy for users to navigate
-    - Likely True
+    - Maybe True: Most screens were easy to use and navigate, but some participants encountered specific problems on Service Selection, Loan Intent, and Document Upload pages (details below).
 - Biographical, contact and service language will be clear to most users; the language around loan options and COE intent will be somewhat confusing
-    - Definitely True
+    - Likely True: All participants moved through biographical and contact information without issue; 2 participants struggled with Service Selection; 2 of 3 participants who saw the loan intent options screen struggled with selection (details below).
 - Users will be able to download their COE if their status is Available or Auto but may not recognize that there is additional action needed if their status is Pending with letters or uploads requested.
-    - Likely False
+    - Likely False: All participants understood when their COE was available and when they needed to take action to resolve Pending status.
 - Users will expect their COE to be available in various ways: physical letter, email, printed, and/or within an authenticated profile/dashboard
-    - Likely True
+    - Maybe True: Participants primarily expected to receive an email and to be able to return to va.gov to retreive and all said they would download and save their COE once available. One participant mentioned a physical letter.
 - Users will ask for directly available information (chat, direct phone, lookups) about the COE, lenders and /or realtors
-    - Maybe True
+    - Maybe True: Participants expected to be able to call the 800 number to ask questions about specific screens. Users looked for additional information on difficult pages with one participant looking for hover text or additional information accordians for help.
 
 
 # Key Findings
@@ -232,12 +232,14 @@ Participants were able to find the “Download your COE” link quickly.
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+* Work with dev team to understand technical feasibility of dynamically removing `(*Required)` label on document uploaders when required documents have been uploaded.
+* Discuss impacts of decision to remove letters from Pending status screen with Business Line 
 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+* Test with mobile users (in a mobile prototype layout or in staging)
+* Test with assisitive technology users (in staging or code-based prototype)
 
 
 # Appendix
