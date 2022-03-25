@@ -1,10 +1,8 @@
-`WIP: Draft Findings`
-
 # COE Usability Study Round 2 Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Certificate of Eligibility, eBenefits Migration**
 
-Date: 03/—/2022
+Date: 03/24/2022
 
 [Jim Adams] [james.adams@govcio.com], [Candy Clark] [candy.clark@govcio.com]
 
@@ -70,23 +68,22 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
 
 
 # Key Findings
-`WIP: Draft Findings`
 
-1. “Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”.
+1. “Find out about your VA home loan COE” was not the language participants were looking for, instead they used the side bar nav “Request a COE now”.
 
-2. The options on “Your service history” caused confusion for some users.
+2. The options on “Your service history” caused confusion for some participants.
 
-3. The users that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
+3. The participants that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
 
-4. The `(*Required)` label on the document uploader led users to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
+4. The `(*Required)` label on the document uploader led participants to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
 
-5. Users understood when and how to follow up.
+5. Participants understood when and how to follow up.
 
-6. When status is “Pending with documents needed”, users were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
+6. When status is “Pending with documents needed”, participants were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
 
-7. Some users expected a confirmaiton page after uploading documents on "Pending" task. 
+7. Some participants expected a confirmaiton page after uploading documents on "Pending" task. 
 
-8. Users were able to find the “Download your COE” link quickly.
+8. Participants were able to find the “Download your COE” link quickly.
 
 
 # Details of Findings 
@@ -97,7 +94,7 @@ Labels: DSC: Action link, DSP: Content presentation
 
 "Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”
 
-> 4 of 6 users did not associate the text of the action link "Find out about your VA home loan COE" with requesting a COE and instead used the "Request a COE now" sidebar nav link
+> 4 of 6 participants did not associate the text of the action link "Find out about your VA home loan COE" with requesting a COE and instead used the "Request a COE now" sidebar nav link
 
 > "What am I looking for? What do you say I am looking for? I would push Request a COE now on the left-hand side."
 
@@ -106,12 +103,14 @@ Labels: DSC: Action link, DSP: Content presentation
 
 Labels: DSP: Content presentation 
 
-The options on “Your service history” caused confusion for some users.
+The options on “Your service history” caused confusion for some participants.
 
-> 2 of 6 users stopped to talk through issues with service history quesitons
+> 2 of 6 participants stopped to talk through issues with service history quesitons
 
-> One user had 2 service history periods separated by a 2 month period and wasn't sure how to enter them.
-> One user had trouble sorting out options that mixed Veteran and active status in one selection
+> One participants had 2 service history periods separated by a 2 month period and wasn't sure how to enter them.
+
+> One participants had trouble sorting out options that mixed Veteran and active status in one selection
+
 ![service selection](https://user-images.githubusercontent.com/84141672/160071026-18702046-9efb-4c8e-b8c9-89dff37dbcee.png)
 
 
@@ -119,7 +118,7 @@ The options on “Your service history” caused confusion for some users.
 
 Labels: DSP: Content presentation 
 
-The users that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
+The participants that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
 
 > 2 of the 3 participants who saw the loan intent option selection stopped to talk through selections and were not sure if they had selected the correct choice for their situation
 
@@ -133,67 +132,105 @@ The users that saw the “How will you use your Certificate of Eligibility?” s
 
 Labels: DSC: Form controls
 
-The `(*Required)` label on the document uploader led users to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
+The `(*Required)` label on the document uploader led participants to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
 
-> 4 of 6 users did not understand that they could continue after uploading the first document during the initial form.
-> 2 of 6 users said they would stop and call for help.
-> 2 of 6 users did not understand that they were finished after uploading a document in the "Pending with uploads required" task
+> 4 of 6 participants did not understand that they could continue after uploading the first document during the initial form.
+
+> 2 of 6 participants said they would stop and call for help.
+
+> 2 of 6 participants did not understand that they were finished after uploading a document in the "Pending with uploads required" task
+
+> 1 of 6 participants would call for assistance in the "Pending" task
+
 > "They need more information. I would be confused here."
+
 > "My first thought here is that why is it not already on file but I know they said I needed it. Will it let me go forward if I don’t add it. I would expect it not to let me go forward without adding it. That’s weird it gives all of these choices when it just wants your DD214. I could see the proof of honorable service or statement of service or annual retirement points. I don’t know why hub 1 or some of the other ones would be there because a regular person wont know what it is. It is weird they let them choose that when all it wants is proof of service."
 
 **Finding 5**
 
 Labels: DSP: Content presentation
 
-Users understood when and how to follow up.
+Participants understood when and how to follow up.
 
-> All 6 users noted that 5 days was the expected follow up time and expected to receive an email. They would return to va.gov to check the status.
+> All 6 participants noted that 5 days was the expected follow up time and expected to receive an email. They would return to va.gov to check the status.
+
 > "I would print it [the confirmation] off or save as a PDF. I would print a screenshot of the contact information. I would wait the 5 business days if not I would call them." How would you expect for them to get in contact with you? "Up here it says email."
 
 **Finding 6**
 
-Labels: 
+Labels: DSP: Content presentation
 
-When status is “Pending with documents needed”, users were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
+When status is “Pending with documents needed”, participants were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
 
-> All 6 users immediately noted that they needed to provide additional information.
-> 5 of 6 users found the letters without assistance and successfully uploaded the requested document.
-> 3 of 6 users wanted the needed documents listed directly on the page.
+> All 6 participants immediately noted that they needed to provide additional information.
+
+> 5 of 6 participants found the letters without assistance and successfully uploaded the requested document.
+
+> 3 of 6 participants wanted the needed documents listed directly on the page.
 
 **Finding 7**
 
-Labels: 
+Labels: DSP: Content presentation
 
 Some users expected a confirmaiton page after uploading documents on "Pending" task.
 
-> ... 
+> 3 of 6 participants explicitly said they were looking for a confirmation page.
+
+> 2 of 6 participants said they would call for help because they were not sure if they had sumbitted everything.
+
+> "It says it was uploaded but it circled back to this page. I guess I feel like it is weird that it came back here instead of a closing statement.... I would call someone because I would not feel comfortable. Actually I go back down and look at the letter to see if it needs something else. If it said the same thing, I worry about things like that so then I would call to make sure that’s all they needed because I wasn’t comfortable that it brought me back to the same page."
 
 **Finding 8**
 
-Labels:  
+Labels: DSP: Content presentation
 
-Users were able to find the “Download your COE” link quickly.
+Participants were able to find the “Download your COE” link quickly.
 
-> ...
+> All 6 participants quickly found the "Download your COE" link and used it to open their COE.
+
+> All 6 participants said they would print and save their COE from the opened tab.
 
 # Additional Insights
 
-- Users expected to be able to return to the tool to download their COE again.
-- Despite some issues, users were positive about the experience.
+- Participants expected to be able to return to the tool to download their COE again.
 - One participant noted that the timing given on the landing page was "minutes" for an automatic COE, but the confirmation page stated 5 days.
-   > Okay, back to the beginning of this and the automatic COE. I cant remember if it was on the actual va page but it said I would get it back within minutes but now this says within 5 days. I would think it would be sooner, I would have liked to know if it would be 5 business days beforehand.
+   > "Okay, back to the beginning of this and the automatic COE. I can't remember if it was on the actual va page but it said I would get it back within minutes but now this says within 5 days. I would think it would be sooner, I would have liked to know if it would be 5 business days beforehand."
 - 2 participant noted that the instructions say to work with your lender, so they were unsure why they would want or need to fill out the form online.
 - 1 participant asked if the emails would come to their personal email or their "secure messaging" (where they receive healthcare messages).
+- 1 participant had previously had a VA-backed loan that was foreclosed on. They were unsure if they were eligible and did not find any information to help them in the content.
+- Participants noted that they should not need to upload their DD-214 because the VA already has it.
+- Despite some issues, users were positive about the experience.
+    > "This was good, way better then I expected."
+    
+    > "It isn't as difficult as I thought it was."
+    
+    > "I was impressed that you could do this online. I thought it may be difficult dealing with the VA, but it was very easy"
 
 # Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Remove `(*Required)` label from document uploader when required documents have been uploaded - in both the request form and the `Pending` uploaders
+    * 4 of 6 participants did not understand that they could continue after uploading the first document during the initial form.
 
+    * 2 of 6 participants said they would stop and call for help.
+
+    * 2 of 6 participants did not understand that they were finished after uploading a document in the "Pending with uploads required" task
+
+* Include a list of required documents on required screen
+    * 3 of 6 participants wanted the needed documents listed directly on the page.
+
+* Increase visibility of confirmation and/or direct to a separate confirmation screen for `Pending` uploads
+    * 3 of 6 participants explicitly said they were looking for a confirmation page.
+    * 2 of 6 participants said they would call for help because they were not sure if they had sumbitted everything.
+
+* Provide additional information about loan intent options.
+    * 2 of the 3 participants who saw the loan intent option selection stopped to talk through selections and were not sure if they had selected the correct choice for their situation
+
+    * 1 of the participants is a realtor who works with many veteran families. They said they frequently get questions from their clients about these selection choices.
+
+* Make service selection choice options shorter and more distinct.
+    * 2 of 6 participants stopped to talk through issues with service history quesitons
 
 # Next Steps
 
@@ -215,7 +252,7 @@ _If there are demographics that were not included in this study or you discovere
 
 
 ## Tools used for Synthesis
-[Mural board](https://app.mural.co/invitation/mural/vsa8243/1646935956082?sender=ude9e1e23baafa8f9953e3669&key=ea148d17-b703-4ea4-89ad-e06407a8b339)
+[Spreadsheet]()
 
 
 ## Pages and applications used
