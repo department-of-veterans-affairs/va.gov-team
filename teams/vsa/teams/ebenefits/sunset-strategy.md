@@ -61,7 +61,7 @@
 | Download VA Letters
 | View Post GI Bill Enrollment Status and Entitlement
 
-## Complete: Links to Other Systems
+## Complete: External to VA.gov (non-VA specific)
 
 | Feature
 | ------
