@@ -9,13 +9,14 @@ Last updated: March 24, 2022
 
 ### Roles
 
+#### OCTO team
+
+[This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
+#### Stakeholders
+
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Marci McGuire |Product Manager| marci.mcguire@gcio.com|
-|Christina Gednalske| Designer | christina.gednalske@adhocteam.us |
-|Adam Whitlock | FE Engineer | adam.whitlock@adhocteam.us |
-|Tom Harrison| BE Engineer | tom.harrison@adhocteam.us |
 |Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
 |Laurie Baker | VBA partner | laurie.baker@va.gov |
 |Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
