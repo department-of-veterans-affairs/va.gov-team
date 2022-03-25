@@ -13,7 +13,7 @@
 
 Thanks for joining us today! My name is Dené and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of the health care application.
 
-- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- This entire session should take about 1 hour (2 hours for participants using a screenreader). I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - You'll be interacting with a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - Please talk aloud as you're looking through things. For example, say "now I'd click on this, because I'd expect it to do this..." This helps me understand what's going through your head while using the tool.
@@ -26,10 +26,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 **I'm going to send you a link in the chat.**
 _I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
-Prototypes:
-- Variation 1: [Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
-- Variation 2: [Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)
-- Variation 2.2 (updated iteration): [2.2 Self-reported short form](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i)	
+Staging link _(to add)_
 
 
 **Backup plan if they cannot figure out how to share screen:**
