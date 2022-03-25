@@ -3,9 +3,9 @@
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the VSA 10-10 team.
 
-Based on our [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) data and [Discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md) we have identified that the Military Service and Household Information sections of the 10-10EZ cause applicants the most confusion, time, and show the highest drop-off rates. As part of an iterative process we are working to create [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) that eliminate these two sections for those that we identify to have a service-connected disability rating of 50% or higher either through information we already have on file (pre-populated) or by the applicant self-reporting it during the application. In the future, we will look into expanding this short form experience for other qualifying questions.
+Based on our [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) data and [Discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md) we have identified that the Military Service and Household Information sections of the 10-10EZ cause applicants the most confusion, time, and show the highest drop-off rates. As part of an iterative process we have created [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) that eliminate these two sections for those that we identify to have a service-connected disability rating of 50% or higher either through information we already have on file (pre-populated) or by the applicant self-reporting it during the application. In the future, we will look into expanding this short form experience for other qualifying questions.
 
-Prototype [usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/Research%20findings.md) validated the flows that are now in production. The primary purpose of this research is to test the designs/flows in production and reach participant populations that we were unable to reach due to prototype limitations. Additionally A/B testing will be conducted on the two design options for the self-report confirmation screen as Design B is more in alignment with the design system. 
+In September 2021 prototype [usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/Research%20findings.md) validated the flows that are now in production. The primary purpose of this research is to test the designs/flows in production and reach participant populations that we were unable to reach due to prototype limitations. Additionally A/B testing will be conducted on the two design options for the self-report confirmation screen as collab cycle as suggested that Design B is more in alignment with the design system. 
 
 ## Goals	
 
@@ -21,7 +21,7 @@ The goals of this user research are to:
 1. Are users able to navigate through the pre-populated short form easily and without confusion?
 2. Are users able to navigate through the short form based on self-reported information easily and without confusion?
 3. How does Design A vs. B perform (usability, comprehension, confusion, blockers)?
-4. Does the green expandable alert cause annoyance or feel repetative? 
+4. Does the green expandable alert cause annoyance or feel repetitive? 
 5. Do users understand what the short form is?
 6. Do users understand why they can fill out a short form?
 7. What is the overall sentiment about this short form experience?
