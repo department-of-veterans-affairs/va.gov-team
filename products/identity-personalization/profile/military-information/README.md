@@ -34,7 +34,7 @@ Currently, we show:
 
 ## Projects
 
-- [Integrate military information through VA Profile]()
+- [Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)
 
 ## Backend
 
