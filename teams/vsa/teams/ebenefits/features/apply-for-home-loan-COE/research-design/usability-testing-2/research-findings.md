@@ -14,15 +14,15 @@ Date: 03/—/2022
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#who-we-talked-to)
 
-[Further research needed](insert link to section)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#further-research-needed)
 
 <br>
 
@@ -72,74 +72,118 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
 # Key Findings
 `WIP: Draft Findings`
 
-1. “Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”
+1. “Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”.
 
-2. The options on “Your service history” caused confusion for some users
+2. The options on “Your service history” caused confusion for some users.
 
 3. The users that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
 
-4. The “(*Required)” label on the document uploader led users to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
+4. The `(*Required)` label on the document uploader led users to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
 
 5. Users understood when and how to follow up.
 
 6. When status is “Pending with documents needed”, users were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
 
-7. Users were able to find the “Download your COE” link quickly
+7. Some users expected a confirmaiton page after uploading documents on "Pending" task. 
 
-8. Users expected to be able to return to the tool to download their COE again.
+8. Users were able to find the “Download your COE” link quickly.
 
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **Finding 1**
 
-Labels: label 1, label 2 
+Labels: DSC: Action link, DSP: Content presentation 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+"Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”
 
-Brief description
+> 4 of 6 users did not associate the text of the action link "Find out about your VA home loan COE" with requesting a COE and instead used the "Request a COE now" sidebar nav link
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> "What am I looking for? What do you say I am looking for? I would push Request a COE now on the left-hand side."
 
 
 **Finding 2**
 
-Labels: label 1, label 2 
+Labels: DSP: Content presentation 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+The options on “Your service history” caused confusion for some users.
 
-Brief description
+> 2 of 6 users stopped to talk through issues with service history quesitons
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> One user had 2 service history periods separated by a 2 month period and wasn't sure how to enter them.
+> One user had trouble sorting out options that mixed Veteran and active status in one selection
+![service selection](https://user-images.githubusercontent.com/84141672/160071026-18702046-9efb-4c8e-b8c9-89dff37dbcee.png)
 
 
 **Finding 3**
 
-Labels: label 1, label 2 
+Labels: DSP: Content presentation 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+The users that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
 
-Brief description
+> 2 of the 3 participants who saw the loan intent option selection stopped to talk through selections and were not sure if they had selected the correct choice for their situation
 
-> _Supporting data: Quote here_
+> 1 of the participants is a realtor who works with many veteran families. They said they frequently get questions from their clients about these selection choices.
 
-> _Supporting data: Quote here_
+> "I am not sure what they mean about restoration of entitlement means. I thought to hover over it, but nope. The cash out is pulling equity out of the home, then I know the IRRL. The one I selected is for someone trying to get the COE, maybe the top is for someone that sold the home and now entitled to another one.... I guess now that I think about it I would select this one. Maybe a hyperlink right there for an explanation. Maybe I am ignorant that I don’t know."
 
+![loan intent](https://user-images.githubusercontent.com/84141672/160071314-6b0750ec-2c08-4645-9531-70731bf671d2.png)
+
+**Finding 4**
+
+Labels: DSC: Form controls
+
+The `(*Required)` label on the document uploader led users to believe they could not continue without uploading more documents. This is the one area where users stopped to call for help.
+
+> 4 of 6 users did not understand that they could continue after uploading the first document during the initial form.
+> 2 of 6 users said they would stop and call for help.
+> 2 of 6 users did not understand that they were finished after uploading a document in the "Pending with uploads required" task
+> "They need more information. I would be confused here."
+> "My first thought here is that why is it not already on file but I know they said I needed it. Will it let me go forward if I don’t add it. I would expect it not to let me go forward without adding it. That’s weird it gives all of these choices when it just wants your DD214. I could see the proof of honorable service or statement of service or annual retirement points. I don’t know why hub 1 or some of the other ones would be there because a regular person wont know what it is. It is weird they let them choose that when all it wants is proof of service."
+
+**Finding 5**
+
+Labels: DSP: Content presentation
+
+Users understood when and how to follow up.
+
+> All 6 users noted that 5 days was the expected follow up time and expected to receive an email. They would return to va.gov to check the status.
+> "I would print it [the confirmation] off or save as a PDF. I would print a screenshot of the contact information. I would wait the 5 business days if not I would call them." How would you expect for them to get in contact with you? "Up here it says email."
+
+**Finding 6**
+
+Labels: 
+
+When status is “Pending with documents needed”, users were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
+
+> All 6 users immediately noted that they needed to provide additional information.
+> 5 of 6 users found the letters without assistance and successfully uploaded the requested document.
+> 3 of 6 users wanted the needed documents listed directly on the page.
+
+**Finding 7**
+
+Labels: 
+
+Some users expected a confirmaiton page after uploading documents on "Pending" task.
+
+> ... 
+
+**Finding 8**
+
+Labels:  
+
+Users were able to find the “Download your COE” link quickly.
+
+> ...
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+- Users expected to be able to return to the tool to download their COE again.
+- Despite some issues, users were positive about the experience.
+- One participant noted that the timing given on the landing page was "minutes" for an automatic COE, but the confirmation page stated 5 days.
+   > Okay, back to the beginning of this and the automatic COE. I cant remember if it was on the actual va page but it said I would get it back within minutes but now this says within 5 days. I would think it would be sooner, I would have liked to know if it would be 5 business days beforehand.
+- 2 participant noted that the instructions say to work with your lender, so they were unsure why they would want or need to fill out the form online.
+- 1 participant asked if the emails would come to their personal email or their "secure messaging" (where they receive healthcare messages).
 
 # Recommendations
 
