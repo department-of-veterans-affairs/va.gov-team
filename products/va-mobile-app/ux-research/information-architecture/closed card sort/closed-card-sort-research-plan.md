@@ -82,7 +82,7 @@ This research will allow us to adjust the information architecture (and navigati
 ### Hypotheses 
 
 
-1. Veterans will be able to categorize cards and name groups of cards presented in the card sort.
+1. Veterans will be able to categorize cards presented in the card sort using the groups provided.
 2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov.
 3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
 4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
