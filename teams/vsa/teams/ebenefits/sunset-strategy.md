@@ -70,7 +70,7 @@
 | Join Burn Pit Registry
 | Transfer Post-911 GI Bill Benefits
 
-## WIP: EVSS Roadmap
+## WIP: EVSS Roadmap (Lighthouse has taken over this)
 
 | Service                                             | Notes 
 | --------------------------------------------------- | -----
