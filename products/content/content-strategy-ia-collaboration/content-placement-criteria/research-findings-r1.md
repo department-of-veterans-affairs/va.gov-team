@@ -89,7 +89,7 @@ Research questions we looked to answer:
 - The terms "core" versus "supplemental" need to be defined, as well as indicate how they impact the placement decision
 - Split this criteria if needed in order to clarify the dependency between the two scenarios
 
-**Revise format criteria to make criteria easier to read and follow**
+**Revise how the criteria is presented to make it criteria easier to scan and read**
 - The group liked how criteria #5 used bullets to list out the individual scenarios and suggested the same formatting be followed for criteria 2 and 3. 
 - Make it very clear that criteri 5 is only used for content planned for placement within R&S
 
@@ -102,6 +102,8 @@ Research questions we looked to answer:
 
 
 ## Next Steps
+
+
 - Update criteria 3 based on feedback
 - Create instructions and guidance for content authors on how to use the critera 
 - Utilize the revised criteria in the R&S pilot with the Community Care working group to further validate
