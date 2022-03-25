@@ -63,7 +63,7 @@ This table includes links to the individual research studies.
 This table includes links to the individual design work products.
 
 | Screens | Links | Last Rev | Last status |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | 
 | R&S UI Consistency Mockups | [Mockups and Explanation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1002227146)  | Dec 2021 | Kickoff |
 
 ### Design system resources used
