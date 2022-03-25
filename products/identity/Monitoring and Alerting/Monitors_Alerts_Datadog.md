@@ -1,5 +1,7 @@
 # VSP Identity Datadog Monitoring and Alerting APIs
 
+Last Update: 25MAR22
+
 The VSP Identity team utilizes two primary solutions for monitoring and alerting of va.gov login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions rely on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures the required information the Identity team is captured.
 
 ### <ins>**Audience**</ins>
@@ -141,7 +143,7 @@ For nearly all alerts that could fire you should first check on datadog and view
         sum:vets_api.statsd.api_auth_login_callback_failed{error:auth_too_late,deployment_env:vagov-prod}.as_count()
         ```
 
-        <ins>**Severity:**</ins> `High`. This alert impacts Veterans however it's not uncommon for a user to take too long during the auth process if they step away from their device and attempt to complete the authentication later.
+        <ins>**Severity:**</ins> `High`. This alert impacts Veterans however it's possible for a user to take too long during the auth process if they step away from their device and attempt to complete the authentication later.
 
     - ### **Identity - Production Auth_too_early Login Callback Error Threshold Crossed**
 
@@ -208,7 +210,7 @@ For nearly all alerts that could fire you should first check on datadog and view
 
     - ### **Identity - Staging Inbound IDme**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/4dp-tqc-3zp) monitors dslogon authentication on staging inbound from Accessva. If this alert is firing it could be an indicator that the staging dslogon credential service is having an issue. The other two potential issues are that accessva is down or va.gov inbound has been modified at the source code level. 
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/4dp-tqc-3zp) monitors IDme authentication on staging inbound from Accessva. If this alert is firing it could be an indicator that the staging IDme credential service is having an issue. The other two potential issues are that accessva is down or va.gov inbound has been modified at the source code level. 
 
         <ins>**Threshold:**</ins> Three failed tests within 90 seconds.
 
@@ -335,7 +337,6 @@ For nearly all alerts that could fire you should first check on datadog and view
   - ## Inbound
 
 
-
   - ## Outbound
 
     - ### **Identity - Dev Outbound logingov IAL2**
@@ -397,6 +398,3 @@ For nearly all alerts that could fire you should first check on datadog and view
         <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
 
         <ins>**Severity:**</ins> High. This is a dev alert so it does not impact Veterans but will block engineers from developing in dev if they need authentication in their application.
-
-
-
