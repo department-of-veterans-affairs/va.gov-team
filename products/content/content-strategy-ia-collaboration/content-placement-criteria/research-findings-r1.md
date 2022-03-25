@@ -84,7 +84,7 @@ Research questions we looked to answer:
 
 ## Recommendations
 
-**Revise criteria 3 for easier reading and understandable language**
+**Revise the language used in criteria 3 to be more understandable**
 - Clarify what is included in "application process"**
 - The terms "core" versus "supplemental" need to be defined, as well as indicate how they impact the placement decision
 - Split this criteria if needed in order to clarify the dependency between the two scenarios
