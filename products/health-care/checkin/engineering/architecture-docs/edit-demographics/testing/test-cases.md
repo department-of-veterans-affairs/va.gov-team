@@ -14,16 +14,6 @@
 
 - User has made an appointment and has received a pre-check-in text message. 
 
-## Test Case: Pre-Check-In is Expired
-
-### Description / Use Case 
-
-User clicks on the pre-check-in link from their mobile device at or after 12:01am on the day of their appointment.
-
-### Expected Outcome 
-
-User sees error message. User is unable to log in to pre-check-in site to confirm their appointment. 
-
 ## Test Case: User Submits Form without Changes
 
 ### Description / Use Case 
