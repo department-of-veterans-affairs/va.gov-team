@@ -118,6 +118,6 @@ Pilot Session: TBD date | TBD time EST
 - [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
 - [Design A](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/rbOa3g7)
 - [Design B](https://d.pr/i/tQBvUz)
-- [Conversation Guide]
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-April%202022/conversation-guide.md)
 - [Staging link](https://staging.va.gov/health-care/apply/application/introduction)
 - [Research Findings]
