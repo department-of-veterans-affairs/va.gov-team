@@ -55,7 +55,7 @@ Once the roll-out is complete, we plan to re-evaluate additional features, inclu
 - [Vet Center content workbook - March 2022 version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) _requires a VA network connection_
 - [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
 - [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
-- [Vet Center runbok](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B7F0BB876-FE89-47E9-805D-26A0C646C446%7D&file=Vet%20Center%20runbook.xlsx&action=default&mobileredirect=true) _requires a VA network connection_
+- [Vet Center runbok](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md)
 
 
 ### Design-research
