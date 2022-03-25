@@ -37,8 +37,8 @@
   - Address Change Messaging: `address-chg-msg`
   - Bad Address Indicator: `bad-address-indicator`
 - Auth Profile Issue Template
-  - A template for creating Auth Profile issues can be accessed from Template drop-down when creating a new issue or from the [Template page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).  It follows the standard issue outline, but already has the team name in the title and automatically adds some of the tags.
-  - [Template .md file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/auth_profile_issue.md) - Edit this file if changes to the team's issue template are needed.
+  - There is a template called *Authorized Experience Profile New Issue Template* which is available in the template drop-down when creating a new issue or from the [Issue template list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).  It follows the standard issue outline, but already has the team name in the title and automatically adds some of the tags.
+  - [Template .md file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/auth_profile_issue.md) - Edit this file if changes to *Authorized Experience Profile New Issue Template* are needed.
 
 ## Product portfolio
 The Authenticated Experience - Profile portfolio consists of products that store profile-related information about VA.gov users.  These products include:
