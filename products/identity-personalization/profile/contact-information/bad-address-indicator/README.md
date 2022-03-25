@@ -1,4 +1,4 @@
-# Bad Address Product Outline
+# Project outline: Add a bad address indicator for mailing addresses
 
 Last Updated: January 26, 2022
 
