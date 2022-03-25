@@ -1,4 +1,4 @@
-## eBenefits COE usability testing session 4
+## eBenefits COE usability testing session 2
 #### Conducted: March 14, 2022 via Zoom
 #### Moderator: Candy Clark
 #### Participants: 1
