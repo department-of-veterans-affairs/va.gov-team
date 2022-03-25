@@ -141,7 +141,8 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Content ticket [#34015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
 - Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
 - Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
-- Staging ticket
+- Contact Center guide ticket [#38181](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38181)
+- Staging ticket [#38376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38376)
 - Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
 
 ### Incident Response info
@@ -168,7 +169,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
     - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/suites/view/5&group_by=cases:section_id&group_id=3309&group_order=asc&display_deleted_cases=0)
     - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info.md)
     - [Payments Information a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Staging%20Review/Accessibility%20testing.md)
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Payment%20Information%20-%20Release%20Plan.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/product/release-plan.md)
 - [Production env](https://www.va.gov/my-va/)
 
 
@@ -179,9 +180,9 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Dec 2021: Design work finalized
 - Jan 2022: Usability testing kickoff
 - Feb 2022: Finalize designs, development
-- Mar 2022: Complete QA and begin UAT recruitment
-- Apr 2022: Complete UAT
-- Apr 2022: Launch!
+- Mar 2022: Complete QA _and begin UAT recruitment_
+- _Apr 2022: Complete UAT_
+- _Apr 2022: Launch!_
 
 ---
    
