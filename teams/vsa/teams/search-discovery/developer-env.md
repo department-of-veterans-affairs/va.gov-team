@@ -1,25 +1,30 @@
 # Search & Discovery Development
 This describes setting up the environment to work on the Search & Discovery products on a MacBook Pro. The [technical outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA%20Technical%20Orientation.md) for VSA developers, which contains information on our stack, Slack, and lots of helpful links, should be read prior to this document.
 
+***Note for developers updating this document***: Everyone does things differently. If you make a change to this, it is recorded in the git history; however, people don't tend to check that for ReadMe files. So I suggest using footnotes and strikethrough. To add a footnote to lines that change, add `[^#]` to the end of the line, as well as adding `[^#]: <Footnote text>` at the bottom of the document.[^1]. If removing information, add a strikethrough by surrounding the text in a double tilde `~~`.
+
 ## Software Used
 - [VS Code](https://code.visualstudio.com/download)
-  - Extensions
-    - Prettier
-    - ESLint
-    - Docker
-    - Path Intellisense
-    - JS JSX Snippets
-    - GitLens
-    - Code Spell Checker
-    - Bracket Pair Colorizer
-    - Auto Rename Tag
-    - Better Comments
 - [iTerm2](https://iterm2.com/downloads.html)
 - [Core Tunnel](https://apps.apple.com/us/app/core-tunnel/id1354318707?mt=12)
 - [NVM](https://github.com/nvm-sh/nvm/blob/master/README.md)
-- NODE
+- [Postman](https://www.postman.com/downloads/)
+- [GitKraken](https://www.gitkraken.com/download)
 
-## Setup
+## Software Setup
+### VS Code
+Extensions Used:
+- Prettier
+- ESLint
+- Docker
+- Path Intellisense
+- JS JSX Snippets
+- GitLens
+- Code Spell Checker
+- Bracket Pair Colorizer
+- Auto Rename Tag
+- Better Comments
+
 ### iTerm2
 By default, the terminal defaults to ZShell. Use `chsh -s /bin/bash` to change from ZShell to Bash.
 
@@ -56,12 +61,53 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
      5. Under *Forwarding*, set `Local` to `Dynamic`. Set the port to 2001.
      6. Click *Create*.
      7. Close Core Tunnel.
-  5. In the menu bar, click the Core Tunnel logo, then click the `VA` connection. The connection is indicated as follows: 
+  5. In the menu bar, click the Core Tunnel logo, then click the `VA` connection to begin connecting. The connection status is indicated as follows: 
      - 🔴 : Not connected
      - 🟡 : Connecting...
      - 🟢 : Connected 
 
 ## Repositories
-### Content Build
+- Frontend
+  - [Vets Website](https://github.com/department-of-veterans-affairs/vets-website): Core frontend platform and application code.
+  - [VA Gov Content](https://github.com/department-of-veterans-affairs/vagov-content): Markdown content used to generate static pages.
+  - [Content Build](https://github.com/department-of-veterans-affairs/content-build): Liquid templates and content build for static pages.
+  - [Veteran Facing Services Tools](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools): Shared front end components (including non VA.gov users) and frontend documentation site.
+ 
+- Backend: 
+  - [Vets Api](https://github.com/department-of-veterans-affairs/vets-api): Core Ruby on Rails API server application code.
+  - [Vets Api Mock Data](https://github.com/department-of-veterans-affairs/vets-api-mockdata): Mock data used when running locally and on dev for the backend
 
-### Vets Website
+- Shared: 
+  - [Vets Json Schema](https://github.com/department-of-veterans-affairs/vets-api): Shared JSON Schema definitions used by form applications and the APIs that they consume.
+
+## Starting Environment for Search Development[^1]
+1. Clone all repositories above into the same directory. 
+2. Setup the Content Build
+   1. Navigate to `content-build`
+   2. Fetch the origin: `git fetch origin`
+   3. Pull down master changes: `git pull master`
+   4. Install node modules: `yarn install`
+   5. Build `content-build`, if needed.
+      1. Copy environment file: `cp .env.example .env`
+      2. Connect to SOCKS
+      3. Run the build: `yarn build --pull-drupal`
+         - NOTE: This will will pull content from the CMS and can take upwards of 3 hours. If you need to do it, definitely start first thing in the morning so you can get on with your day.
+   6. Run `content-build`: `yarn watch`
+      - NOTE: This can sometimes take 5-10 minutes.
+      - NOTE: This runs the `content-build` on `http://localhost:3002`
+3. Setup the Vets Website
+   1. Navigate to `vets-website`
+   2. Fetch the origin: `git fetch origin`
+   3. Pull down master changes: `git pull master`
+   4. Install node modules: `yarn install`
+   5. If you would like connect to the API without running the `vets-api` locally:
+      1. Open `vets-website` in VS Code: `code .`
+      2. Open the [platform environment file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/utilities/environment/index.js) located at `src/platform/utilities/environment/index.js` 
+      3. On line 59, change `API_URL: environment.API_URL` to `API_URL: 'https://staging-api.va.gov'`
+         - This connects the `vets-website` to the staging API.
+   7. Run `vets-website`: `yarn watch`
+      - NOTE: This runs the `content-build` on `http://localhost:3001`
+4. In a browser, navigate to `localhost:3002`
+5. 
+
+[^1]: This is as of 3/25/2022 as per [Tyler Simoni](https://github.com/TSimmz)
