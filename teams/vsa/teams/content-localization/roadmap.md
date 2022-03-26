@@ -65,9 +65,9 @@ VA.gov teams have the translation services, processes, and systems in place to p
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| Create initial Spanish language content style guide and glossary | IAA | Guide and glossary completed | Not started |
+| Create initial Spanish language content style guide and glossary | IAA | Guide and glossary completed | In progress |
 | Finalize translation checklist and add content principles to VA.gov content style guide | None | Checklist available in GH and principles added to style guide | In progress |
-| Establish new editorial/QA process that integrates State Department | IAA | ---- | Not started |
+| Establish new editorial/QA process that integrates State Department | IAA | ---- | In progress |
 
 #### Outcome 2
 
@@ -86,6 +86,7 @@ Veterans and family members with LEP have more high quality, plain language, vit
 | ---- | ---- | ---- | ---- |
 | Keep COVID-19 content timely in Spanish and Tagalog | - Current vendor availability and timelines <br> - Content team availability | COVID-19 Spanish and Tagalog content is consistently updated within 10 days of English updates | Ongoing |
 | Translate vital benefit content in top benefit hub (Disability) + Caregiver Program page | - IAA <br> - Content team | Publish x new pages of content | Not started |
+| Translate check-in app into Spanish (possibly Tagalog) | - IAA <br> - Content team <br> - Check-in team | Launch check-in app experience in Spanish (possibly Tagalog) | In progress |
 
 #### Outcome 4
 
