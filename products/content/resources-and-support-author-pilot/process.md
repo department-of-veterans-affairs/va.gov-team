@@ -5,7 +5,12 @@
 Use our content placement criteria to determine if your content belongs in the Veteran benefit content experience. 
 
 If the content you're evaluating has multiple pieces to it, use the criteria to evaluate each piece of content on its own.
- - **For example:** If you're evaluating a page that contains eligibility criteria for a VA benefit as well as related questions and answers about eligibility, evaluate the eligibility criteria and each Q&A separately.
+
+<details>
+ <summary>Get an example</summary>
+ 
+ **For example:** If you're evaluating a page that contains eligibility criteria for a VA benefit as well as related questions and answers about eligibility, evaluate the eligibility criteria and each Q&A separately.
+ </details>
 
 ### Criteria 1: Does your content meet both of these requirements?
 - [ ] Content speaks directly to Veterans, service members, or family members, **and**
