@@ -4,7 +4,8 @@
 
 Use our content placement criteria to determine if your content belongs in the Veteran benefit content experience. 
 
-If the content you're evaluating has multiple pieces to it, use the criteria to evaluate each piece of content on its own. For example, if you're evaluating a page that contains eligibility criteria for a VA benefit as well as related questions and answers about eligibility, evaluate the eligibility criteria and each Q&A separately.
+If the content you're evaluating has multiple pieces to it, use the criteria to evaluate each piece of content on its own.
+ - **For example:** If you're evaluating a page that contains eligibility criteria for a VA benefit as well as related questions and answers about eligibility, evaluate the eligibility criteria and each Q&A separately.
 
 ### Criteria 1: Does your content meet both of these requirements?
 - [ ] Content speaks directly to Veterans, service members, or family members, **and**
@@ -12,18 +13,25 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
 
 #### What do to next based on your answer:
 
-- **If no,** your content doesn't belong in the Veteran benefit experience. It may belong somewhere else within the VA content ecosystem. Contact the VA.gov content team for guidance.
+- **If no,** your content doesn't belong in the Veteran benefit experience. Your content may belong somewhere else within the VA content ecosystem. Contact the VA.gov content team for guidance.
 - **If yes,** your content belongs in the Veteran benefit experience. Use this additional content criteria question to determine if your content's primary home should be a VA.gov benefit hub or the VA.gov Resources and Support section.
 
 ### Criteria 2: Does your content meet both of these requirements?
 
-- [ ] Content supports a benefit that has a unique application that results in the beneficiary receiving a VA benefit. <br/> For example, a Veteran must submit a unique application to get VA health care. They do not, however, need to submit a unique application to get mental health care or vision care because those are provided as part of the VA health care medical benefits package. Based on this, you would answer "Yes" for VA health care, but "no" for mental health care or vision care.
+- [ ] Content supports a VA benefit that a Veteran, service member, or family member must apply for with a unique application.
+  - **Example 1:** A Veteran must submit a unique application to get VA health care. They do not, however, need to submit a unique application to get mental health care or vision care because those are provided as part of the VA health care medical benefits package. Based on this, you would answer "Yes" for VA health care, but "No" for mental health care or vision care.
+  - **Example 2:** A Veteran must submit a unique application to get Post-9/11 GI Bill benefits. If the Veteran then wants to extend those benefits through the Edith Nourse Rogers STEM Scholarship, they must submit another unique application for the scholarship. Based on this, you would answer "Yes" for both content about the Post 9/11 GI Bill benefits and content about the Edith Nourse Rogers STEM Scholarship.
 
 **And** content provides an overview with basic, high-level information about one of these topics:
 - [ ] A tool needed to manage or use the benefit or service, **or**
 - [ ] What the person gets with the benefit (including current compensation rates), **or**
 - [ ] Top-level benefit eligibility, **or**
 - [ ] Instructions on how to apply
+
+**Examples:
+  - **Example 1:** You would answer "Yes" for a bulleted list of the different types of evidence a Veteran needs to apply for a benefit. You would answer "No" for detailed information about each of the different types of evidence and how to gather that information.
+  - **Example 2:** You would answer "Yes" for a bulleted list of the different types of presumed disabilities that make a Veteran eligible for VA disability compensation. You would answer "No" for detailed information about each type of presumed disability.
+  - **Example 3:** You would answer "Yes" for a summary description of what a Veteran receives through a benefit program, such as the Post-9/11 GI Bill. You would answer "No" for detailed information about the many different ways a Veteran can use their Post-9/11 GI Bill benefits.
 
 #### What to do next based on your answer:
 
