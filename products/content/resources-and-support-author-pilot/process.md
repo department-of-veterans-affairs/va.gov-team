@@ -2,19 +2,22 @@
 
 ## Step 1: Determine if and where your content belongs in the Veteran benefit experience
 
-Use our content placement criteria to determine if your content belongs in the Veteran benefit content experience. If the content you're evaluating has multiple pieces to it, use the criteria to evaluate each piece of content on its own. For example, if you're evaluating a page that contains eligibility criteria for a VA benefit as well as related questions and answers about eligibility, evaluate the eligibility criteria and each Q&A separately.
+Use our content placement criteria to determine if your content belongs in the Veteran benefit content experience. 
 
-### Does your content meet both of these requirements?
+If the content you're evaluating has multiple pieces to it, use the criteria to evaluate each piece of content on its own. For example, if you're evaluating a page that contains eligibility criteria for a VA benefit as well as related questions and answers about eligibility, evaluate the eligibility criteria and each Q&A separately.
+
+### Criteria 1: Does your content meet both of these requirements?
 - [ ] Content speaks directly to Veterans, service members, or family members, **and**
 - [ ] Content directly supports a Veteran, service member, or family member in discovering, applying for, tracking, managing, or using a VA benefit or service
 
-**If no,** your content doesn't belong in the Veteran benefit experience. It may belong somewhere else within the VA content ecosystem.
+#### What do to next based on your answer:
 
-**If yes,** your content belongs in the Veteran benefit experience. Use this additional content criteria question to determine if your content's primary home should be a VA.gov benefit hub or the VA.gov Resources and Support section.
+- **If no,** your content doesn't belong in the Veteran benefit experience. It may belong somewhere else within the VA content ecosystem. Contact the VA.gov content team for guidance.
+- **If yes,** your content belongs in the Veteran benefit experience. Use this additional content criteria question to determine if your content's primary home should be a VA.gov benefit hub or the VA.gov Resources and Support section.
 
-### Does your content meet both of these requirements?
+### Criteria 2: Does your content meet both of these requirements?
 
-- [ ] Content supports a benefit that has a unique application or application process that results in the beneficiary receiving a core or supplemental VA benefit. 
+- [ ] Content supports a benefit that has a unique application that results in the beneficiary receiving a VA benefit. <br/> For example, a Veteran must submit a unique application to get VA health care. They do not, however, need to submit a unique application to get mental health care or vision care because those are provided as part of the VA health care medical benefits package. Based on this, you would answer "Yes" for VA health care, but "no" for mental health care or vision care.
 
 **And** content provides an overview with basic, high-level information about one of these topics:
 - [ ] A tool needed to manage or use the benefit or service, **or**
@@ -22,11 +25,12 @@ Use our content placement criteria to determine if your content belongs in the V
 - [ ] Top-level benefit eligibility, **or**
 - [ ] Instructions on how to apply
 
-**If yes,** your content's primary home should be in a VA.gov benefit hub. Contact the VA.gov content team...
+#### What to do next based on your answer:
 
-**If no,** your content's primary home may be in Resources and Support. Use the question below to make sure.
+- **If yes,** your content's primary home should be in a VA.gov benefit hub. Contact the VA.gov content team.
+- **If no,** your content's primary home may be in Resources and Support. Answer the bext question to make sure.
 
-### Does your content meet at least one of these goals?
+### Criteria 3: Does your content meet at least one of these goals?
 
 - [ ] Provides supplemental eligibility, evidence information, or application instructions for a benefit, **or**
 - [ ] Explains ways to use a VA benefit,**or**
@@ -35,9 +39,10 @@ Use our content placement criteria to determine if your content belongs in the V
 - [ ] Provides support for signing into and using VA’s digital tools, **or**
 - [ ] Answers a question that Veterans, service members, or family members have about VA benefits and services (based on contact center reports, search data, and user feedback)
 
-**If yes,** your content's primary home should be in Resources and Support.
+#### What to do next based on your answer:
 
-**If no,** contact the VA.gov content team to talk about where your content should live.
+**If yes,** your content's primary home should be in Resources and Support. Move to **Step 2** in this process.
+**If no,** contact the VA.gov content team to discuss more about where your content should live.
 
 ## Step 2: Make sure your content is unique
 
