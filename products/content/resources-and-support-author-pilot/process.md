@@ -62,8 +62,8 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
 
 #### What to do next based on your answer:
 
-**If yes,** your content's primary home should be in Resources and Support. Move to **Step 2** in this process.
-**If no,** contact the VA.gov content team to discuss more about where your content should live.
+- **If yes,** your content's primary home should be in Resources and Support. Move to **Step 2** in this process.
+- **If no,** contact the VA.gov content team to discuss more about where your content should live.
 
 ## Step 2: Make sure your content is unique
 
@@ -101,11 +101,11 @@ _Need simple form + instructions_
 
 ## Step 6: Send your draft content for a plain language review
 
-Get a plain language review before you send content out for SME review.
+Get a plain language review before you send content out for SME review. This helps to avoid having SMEs review content multiple times.
 
-_Instructions_
+To request a review, send your content to 
 
-**Turnaround time:**
+**Turnaround time:** 5 business days
 
 ## Step 7: Send your draft content for SME review
 
