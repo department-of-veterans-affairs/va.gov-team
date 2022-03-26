@@ -3,16 +3,24 @@
 ## Problem and goals
 The Resources & Support section of VA.gov relies heavily on Q&As and multiple FAQ pages, especially for reusable content. At this time the single Q&A is the only available reusable comment (currently reusable within R&S only). But FAQs can create UX issues as well as issues with duplicative content (i.e. content framed as a question in one location and a section of content in another location). We want to document guidance for VA.gov content contributors so they can determine when an FAQ may be appropriate (and when another solution may be the answer) and how to structure Q&As and multiple FAQ pages that provide value when appropriate.
 
-## When to use an FAQ (and when not to)
+## When and how to use FAQs for Veteran- and beneficiary-facing VA content
 
-- Is the question serving the needs of the Veteran, service member, or family member?: It may warrant an FAQ--or a different solution. If the question is promotional or serving the needs of VA rather than our customers, it doesn't belong in Veteran-facing content.
+### Criteria 1: Is the goal of the question to serve Veterans, service members, or family members?
+
+**If yes,** move to criteria 2.
+
+**If no,** this content doesn't warrant an FAQ in Veteran and beneficary-content. This may be content better suited for a press release, congressional report, or other content space.
+
+### Criteria 2:** 
+
+It may warrant an FAQ--or a different solution. If the question is promotional or serving the needs of VA rather than our customers, it doesn't belong in Veteran-facing content.
 - Is the question broad or generic (i.e. How do I apply for VA disability benefits?): Handle in site content with clearly labeled headers, not FAQ. This content most likely already exists in a benefit hub.
 - Does the question address a specific, timely, or transactional need? An FAQ may be an appropriate solution if at least one of these is true:
   - People are asking this question in search engines
   - Contact centers are receiving calls with this question
 - Does the question address a question that people may need often or across several tasks (like making debt payments or signing in to VA.gov)? An FAQ may be appropriate if at least one of these is true:
-  - The question addresses a common error or pain point related to a task 
-  - People are asking this question in search engines
+  - The question addresses a common error or pain point related to a task, **or** 
+  - People are asking this question in search engines, **or**
   - Contact centers are receiving calls with this question 
  
 ## When to publish a single Q&A, a multiple FAQ page, or both
