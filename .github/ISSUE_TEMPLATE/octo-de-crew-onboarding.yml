@@ -37,8 +37,10 @@ body:
     options:
     - label: "Update Team Roster (private) https://vfs.atlassian.net/wiki/spaces/OCLP/overview#Meet-the-team"
     - label: "Update Team Roster (public) https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623"
-      
-      
+    - label: "Add to Slack group: @octo-de-platform"
+    - label: "Add to Github group: octo-de-platform"
+    - label: "Post welcome Slack message: #platform-team"
+    - label: "Register for Platform Orientation: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D"
       
       
       
