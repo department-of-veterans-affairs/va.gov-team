@@ -3,14 +3,14 @@ description: Onboard a new member of OCTO
 title: "[OCTO-DE Onboarding]: "
 labels: ["onboarding"]
 body:
-  - type: input
-    id: github_username
-    attributes:
-      label: Github Username
-      description: What is the Github username of the person being onboarded?
-      placeholder: '@octocat'
-    validations:
-      required: false
+- type: input
+  id: github_username
+  attributes:
+    label: Github Username
+    description: What is the Github username of the person being onboarded?
+    placeholder: '@octocat'
+  validations:
+    required: false
 - type: checkboxes
   attributes:
     label: Has user been added to Department of Veterans Affairs Github Organization?
