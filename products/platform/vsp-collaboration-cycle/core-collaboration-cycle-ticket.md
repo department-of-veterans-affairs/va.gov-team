@@ -25,7 +25,7 @@ Skip to...
 - **Start date of enhancement:**
 - **Feature launch date:**
 - **Production URL:**
-- **Front-end information:**
+- **ServiceNow ticket number tracking known accessibility issues:** 
 
 ## Kickoff questions
 <details open>
@@ -91,101 +91,93 @@ Examples of **research with VA.gov users** include:
  
 ## Artifacts
 
-### Product artifacts
-Update this section with new artifacts as you progress through the Collaboration Cycle.
+### Kickoff
+Update this section with artifacts provided at the Collaboration Cycle kickoff.
 
 <details open>
-  <summary>Toggle product artifacts</summary>
+  <summary>Toggle kickoff artifacts</summary>
 
-#### Provide at kickoff
+#### Product artifacts
   
 - [ ] Product outline <!-- Product outline template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
   
-#### Provide before Staging Review
-  
-- [ ] Release plan with the "Planning" sections completed <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
-- [ ] Staging URL and staging test-user information <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
-  
 </details>
- 
-### Design artifacts
-<details>
-  <summary>Toggle design artifacts</summary>
 
-#### Provide before Design Intent
-  
+### Design Intent
+Update this section with artifacts for the Design Intent touchpoint.
+
+<details open>
+  <summary>Toggle Design Intent artifacts</summary>
+
+#### Design artifacts
+
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
 - [ ] User flow
-  
-#### Provide before Midpoint Review
-  
-- [ ] Finalized design prototype or mockup
 
+#### IA artifacts
+
+- [ ] User flow
+    
 </details>
 
-### Research artifacts
-<details>
-  <summary>Toggle research artifacts</summary>
+### Midpoint Review
+Update this section with artifacts for the Midpoint Review touchpoint.
+
+<details open>
+  <summary>Toggle Midpoint Review artifacts</summary>
+
+#### Design artifacts
+
+- [ ] Finalized design prototype or mockup
   
-#### Provide before Midpoint Review
-  
+#### Research artifacts
+
 - [ ] Research plan 
 - [ ] Conversation guide
-
-</details>
-
-### IA artifacts
-<details>
-  <summary>Toggle IA artifacts</summary>
-
-#### Provide before Design Intent
-- [ ] User flow
   
-#### Provide before Midpoint Review
+#### IA artifacts
+
 - [ ] Github ticket for any relevant IA work 
-
-</details>
-
-### Content artifacts
-<details>
-  <summary>Toggle content artifacts</summary>
-
-#### Provide before Midpoint Review
+  
+#### Content artifacts
   
 - [ ] Name of content of truth, for example, "Invision Prototypes"
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
-</details>
-
-### QA artifacts
-<details>
-  <summary>Toggle QA artifacts</summary>
+#### QA artifacts
   
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
-  
-#### Provide before Midpoint Review
 
 - [ ] Regression test plans (if there isn't already a regression test plan for this feature in TestRailProduct)
 - [ ] Link to test cases/test plan in TestRail (draft OK)
-
-#### Provide before Staging Review
   
+</details>
+
+### Staging Review
+Update this section with artifacts for the Staging Review touchpoint.
+
+<details open>
+  <summary>Toggle Staging Review artifacts</summary>
+
+#### Product artifacts
+  
+- [ ] Release plan with the "Planning" sections completed <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
+- [ ] Staging URL and staging test-user information <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
+
+#### QA artifacts
+
+[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
+
 - [ ] Product test cases/test plan in TestRail with test execution logs 
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
 - [ ] [Summary (Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
-
-</details>
-
-### Accessibility artifacts
-<details>
-  <summary>Toggle accessibility artifacts</summary>
   
-#### Provide before Staging Review
+#### Accessibility artifacts
   
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 - [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
 - [ ] List of known issues
-
+  
 </details>
 
 ## Collaboration Cycle touchpoints
