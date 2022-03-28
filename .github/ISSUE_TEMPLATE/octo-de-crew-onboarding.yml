@@ -1,8 +1,20 @@
-name: OCTO-DE Onboarding Checklist
-description: Onboard a new member of OCTO
-title: "[OCTO-DE Onboarding]: "
+name: OCTO-DE Crew Onboarding Checklist
+description: Onboard a member of OCTO to a Digital Experience Crew
+title: "[OCTO-DE Crew Onboarding]: "
 labels: ["onboarding"]
 body:
+- type: dropdown
+  id: crew_name
+  attributes:
+    label: What OCTO-DE Crew is the team member joining?
+    multiple: false
+    options:
+      - Account Experience
+      - Benefits
+      - Health
+      - Mobile
+      - Platform
+      - Sitewide
 - type: input
   id: github_username
   attributes:
