@@ -21,7 +21,8 @@ The VHA health services taxonomy is the official, customer-facing list of servic
 
 **Business owner:** Jenny Heiland-Leudtke, VHA Digital Media (Jennifer.Heiland-Luedtke@va.gov)
 
-## Taxonomy documentation
+**Taxonomy documentation**
+- [Health service taxonomy Github product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy)
 
 - View or download the [VHA health services taxonomy](https://prod.cms.va.gov/vha-health-services) (_requires VA network connection but not Drupal credentials_)
  
@@ -29,7 +30,7 @@ The VHA health services taxonomy is the official, customer-facing list of servic
 
 - The taxonomy is consumed by the [Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current) for use by all VA digital products, and public third-party products: 
 
-## Taxonomy structure
+**Taxonomy structure**
 
 This is how the content is structured:
 
