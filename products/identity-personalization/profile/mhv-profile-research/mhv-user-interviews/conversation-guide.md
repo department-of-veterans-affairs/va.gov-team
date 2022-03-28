@@ -11,6 +11,11 @@ Thank you note takers! Here's a breakdown of what we're hoping to highlight in t
 If we have time, we’ll ask users for feedback on the VA.gov profile, and hope to highlight:
 - How does the current profile meet the needs of My HealtheVet users?
 
+### Links for notetakers:
+- [Sign up sheet](https://docs.google.com/spreadsheets/d/16HJqCQU_uLy9IJSxbl6YUwzoTjHcrill8nVIBkHTwKY/edit?usp=sharing)
+- [Mural board](https://app.mural.co/invitation/mural/vsa8243/1648474932983?sender=lizlantz1528&key=d392672c-1eca-4670-a690-0e42df488af6)
+- [Verbatim notes template](https://docs.google.com/spreadsheets/d/1HeEqFWz26lAr6UK7lc4yV0cKigPHqaQNyWWWl2Ly_F8/edit)
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
