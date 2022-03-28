@@ -74,7 +74,7 @@ After reviewing the landing page (and maybe the poster), research participants w
 # Details of Findings 
 
 ## Feedback on the landing page
-All participants provided feedback on the landing page.
+All 14 participants provided feedback on the landing page.
 1. **Desired amount of content varies greatly among participants.** 
 
     2. More than half of the participants (8 of 14) said that the landing page had a lot of information and was straightforward and helpful. Three participants read the content closely, opening all the accordions, and appreciated all the details and the organization. One participant asked if it's going to be launched soon because they want the information on how to report harassment at VA.
