@@ -30,3 +30,19 @@ body:
     options:
     - label: User is member of Github org
       required: true
+- type: checkboxes
+  attributes:
+    label: [Platform Crew] 
+    description: Onboarding tasks specific to OCTO-DE Platform Crew
+    options:
+    - label: [Team Roster (private)](https://vfs.atlassian.net/wiki/spaces/OCLP/overview#Meet-the-team)
+      required: true      
+      
+      
+      
+      
+      
+      
+      
+      
+      
