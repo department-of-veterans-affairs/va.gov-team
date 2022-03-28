@@ -26,8 +26,8 @@ We would like to have as much advance notice as possible for meetings, ideally a
 
 When determining who to invite to a meeting, we establish volunteer “owners” of each practice area and invite the rest of the team as optional.
 
-We encourage following the “board norms” we have agreed upon.
-
 As soon as a team member commits code, it becomes our code.
+
+If you worked on the work item/ticket, you are considered the "owner" of this item and are responsible for getting it validated.
 
 We collectively do the thing!
