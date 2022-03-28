@@ -2,7 +2,7 @@
 name: Product QA Dashboard Feature Request
 about: To request new features to be added to Product QA Dashboards
 title: Product QA Dashboard Feature Request
-labels: qa-standards, enhancement, qa-dashboard
+labels: enhancement, qa-dashboard, qa-standards
 assignees: JoeTice, pjhill
 
 ---

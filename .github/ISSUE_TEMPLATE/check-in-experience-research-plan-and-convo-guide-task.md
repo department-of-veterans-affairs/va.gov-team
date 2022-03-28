@@ -2,10 +2,11 @@
 name: Check In Experience Research Plan and Conversation Guide Task
 about: For Check In Experience Research Plan and Conversation Guide Task
 title: "[Research]"
-labels: research, HCE-Checkin
+labels: HCE-Checkin, research
 assignees: ''
 
 ---
+
 ## How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)

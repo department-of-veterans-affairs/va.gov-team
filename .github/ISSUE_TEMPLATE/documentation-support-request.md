@@ -3,7 +3,7 @@ name: Documentation Support Request
 about: Incoming documentation support requests triaged by the Platform Content & IA
   team.
 title: ''
-labels: content-ia-team, documentation-support
+labels: documentation-support
 assignees: gmaciolek
 
 ---

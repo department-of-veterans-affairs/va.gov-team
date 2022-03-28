@@ -2,7 +2,7 @@
 name: Check In Experience Research Study Report Task
 about: For Check In Experience Research Study Report Tasking
 title: "[Research]"
-labels: research, HCE-Checkin
+labels: HCE-Checkin, research
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Check In Experience Research Assets Task
 about: For Check In Experience Research Assets Task
 title: "[Research]"
-labels: research, HCE-Checkin
+labels: HCE-Checkin, research
 assignees: ''
 
 ---
