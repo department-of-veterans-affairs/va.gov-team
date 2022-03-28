@@ -19,6 +19,7 @@ body:
   attributes:
     label: Has user received VA.gov email address?
     description: User must have @va.gov email address provisioned
+    options:
     - label: User has @va.gov email address
 - type: input
   id: va_email
