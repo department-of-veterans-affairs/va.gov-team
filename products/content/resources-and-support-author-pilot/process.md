@@ -23,7 +23,7 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
 
 ### Criteria 2: Does your content meet both of these requirements?
 
-- [ ] Content supports a VA benefit that a Veteran, service member, or family member must apply for with a unique application.
+- [ ] Content supports a VA benefit that a Veteran, service member, or family member must submit an application to receive.
 
 <details>
  <summary>Read examples</summary>
