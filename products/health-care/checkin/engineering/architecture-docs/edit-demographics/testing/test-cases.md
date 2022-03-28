@@ -57,7 +57,7 @@ The demographics updated status and timestamp get submitted to vets-api and the 
 
 ### Description / Use Case 
 
-User clicks edit on information that wish to change and get routed to the edit screen. In the background, the web browser session times out before the form is submitted. Then, user clicks “Submit” to submit their changes to the form.  
+User clicks edit on information and gets routed to the edit screen. In the background, the web browser session times out before the form is submitted. Then, user clicks “Submit” to submit their changes to the form.  
 
 ### Expected Outcome 
 
@@ -67,17 +67,17 @@ Upon submitting the form, the user is shown session time out error messages. Inf
 
 ### Description / Use Case 
 
-User views an edit page and clears all field values, including required fields.  
+User views, edits page and then clears all field values, including required fields. User clicks "Update."  
 
 ### Expected Outcome 
 
-The required fields display an error message and the Update button becomes disabled preventing the user from clicking until they have corrected any error states shown on the fields.
+The required fields display an error message and the "Update" button becomes disabled preventing the user from clicking until they have corrected any error states shown on the fields.
 
 ## Test Case: Start New Session Before Submit
 
 ### Description / Use Case 
 
-User views an edit page, makes updates to some required fields, but does not submit the form. Then, user goes to their text messages on their mobile device and clicks on the short url again to restart the pre-check-in process prior to expiration. In a new browser session, user views the review and update contact information page(demographics).   
+User views an edit page, makes updates to required fields, but does not submit the form. Then, user goes to their text messages on their mobile device and clicks on the short url again to restart the pre-check-in process prior to expiration. In a new browser session, user views the review and update contact information page(demographics).   
 
 ### Expected Outcome 
 
@@ -111,7 +111,7 @@ User views the edit address page, makes updates to the required fields and submi
 
 ### Expected Outcome 
 
-If the service returns a low confidence score for the submitted address but also returns suggestions, the user will be routed to an address confirmation page. On this page the user can either select an address from the suggestions or select their originally entered address and click the Use this address button. After clicking the button they are routed back to the review and update contact information page(demographics) where they can see the address that they selected. The user can also click the cancel button from the address confirmation screen, this will route the user back to the edit screen to either make more edits and submit again or cancel out completely.
+If the service returns a low confidence score for the submitted address, but also returns suggestions, the user will be routed to an address confirmation page. On this page the user can either select an address from the suggestions or select their originally entered address and click the "Use this address" button. After clicking the button they are routed back to the review and update contact information page(demographics) where they can see the address that they selected. The user can also click the cancel button from the address confirmation screen, this will route the user back to the edit screen to either make more edits and submit again or cancel out completely.
 
 ## Test Case: Validation Error on Address, No Suggestions
 
@@ -121,7 +121,7 @@ User views the edit address page, makes updates to the required fields and submi
 
 ### Expected Outcome 
 
-If the service returns a low confidence score but doesn’t return suggestions, the user will be routed to an address confirmation screen but they won’t have a list of suggestions. The user can click the Use this address button to confirm that they still want to use the address. After clicking the button they are routed back to the review and update contact information page(demographics) where they can see the address that they edited. The user can also click the cancel button from the address confirmation screen, this will route the user back to the edit screen to either make more edits and submit again or cancel out completely.
+If the service returns a low confidence score but doesn’t return suggestions, the user will be routed to an address confirmation screen, but they won’t have a list of suggestions. The user can click the "Use this address" button to confirm that they still want to use the address. After clicking the button they are routed back to the review and update contact information page(demographics) where they can see the address that they edited. The user can also click the cancel button from the address confirmation screen, this will route the user back to the edit screen to either make more edits and submit again or cancel out completely.
 
 ## Test Case: Missing or bad Unit Number in Address
 
@@ -131,7 +131,7 @@ User views the edit address page, makes updates to the required fields and submi
 
 ### Expected Outcome 
 
-If the service returns that the address has a bad or missing unit number, the user will be routed to an address confirmation screen with a message regarding the unit number. The user can click the Use this address button to confirm that they still want to use the address. After clicking the button they are routed back to the overview page where they can see the address that they edited. The user can also click the cancel button from the address confirmation screen, this will route the user back to the edit screen to either make more edits and submit again or cancel out completely.
+If the service returns that the address has a bad or missing unit number, the user will be routed to an address confirmation screen with a message regarding the unit number. The user can click the "Use this address" button to confirm that they still want to use the address. After clicking the button they are routed back to the overview page where they can see the address that they edited. The user can also click the cancel button from the address confirmation screen, this will route the user back to the edit screen to either make more edits and submit again or cancel out completely.
 
 ## Test Case: Home address same as mailing address
 
