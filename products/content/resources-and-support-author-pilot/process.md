@@ -33,10 +33,11 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
  </details>
 
 **And** content provides an overview with basic, high-level information about one of these topics:
-- [ ] A tool needed to manage or use the benefit or service, **or**
 - [ ] What the person gets with the benefit (including current compensation rates), **or**
 - [ ] Top-level benefit eligibility, **or**
 - [ ] Instructions on how to apply
+
+**Note:** At this time, benefit hubs also include landing pages for authenticated tools that help a Veteran, service member, or family member manage their VA health care, benefits, and personal information. If your content supports a tool directly tied to managing VA health care, benefits, or personal information, contact the VA.gov content team. 
 
 <details>
  <summary>Read examples</summary>
