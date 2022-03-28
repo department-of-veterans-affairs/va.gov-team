@@ -87,8 +87,6 @@ Gives users the ability to request text notifications or turn them off.
 
 ### Account Security (Managed by Identity Team)
 Provides information about the user's verification status and whether they have enabled 2-factor authentication
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/commit/ca2514e624dcf5b245cf662f17839c6c5cee69f0)
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-settings-V1#how-to-access)
 
 ### Connected Apps (Manageed by Lighthouse Team)
