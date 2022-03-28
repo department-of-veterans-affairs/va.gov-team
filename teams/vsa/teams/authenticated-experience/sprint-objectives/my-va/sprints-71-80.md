@@ -15,6 +15,11 @@
 
 - If applicable: Add Columbus, OH to list of Cerner facilities
 
+### General
+
+- Say goodbye to Heather :(
+- Welcome back AJ :)
+
 ### On-site notifications
 
 **Design**
