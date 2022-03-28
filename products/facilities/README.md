@@ -26,7 +26,12 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 
 4. VA facilities and VA services are contextually presented to users based on the VA.gov page they are on
 
-## Product documentation
+## Key resources 
+
+- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
+- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+
+### Other product documentation
 
 > Our VA.gov facilities and services products are powered by Drupal and the Facilities API.
 
