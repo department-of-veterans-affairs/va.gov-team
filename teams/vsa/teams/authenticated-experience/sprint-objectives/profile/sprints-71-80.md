@@ -27,6 +27,10 @@
 - Update mocks to add the new comp & pen notification
 - Review with IA and content (so we can get feedback to VA Profile team)
 
+### Address change messaging
+
+- Continue work (may need to check in with Christina and Adam on current status)
+
 ## Sprint 72 (4/20 - 5/3)
 
 ## Sprint 73 (5/4 - 5/17)
