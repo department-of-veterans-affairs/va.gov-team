@@ -83,7 +83,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 ## Starting Environment for Search Development[^1]
 1. Clone all repositories above into the same directory. 
 2. Setup the Content Build
-   1. Navigate to `content-build`
+   1. Navigate to `content-build` in a terminal window.
    2. Fetch the origin: `git fetch origin`
    3. Pull down master changes: `git pull master`
    4. Install node modules: `yarn install`
@@ -96,7 +96,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
       - NOTE: This can sometimes take 5-10 minutes.
       - NOTE: This runs the `content-build` on `http://localhost:3002`
 3. Setup the Vets Website
-   1. Navigate to `vets-website`
+   1. Navigate to `vets-website` in a terminal window.
    2. Fetch the origin: `git fetch origin`
    3. Pull down master changes: `git pull master`
    4. Install node modules: `yarn install`
@@ -108,6 +108,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
    7. Run `vets-website`: `yarn watch`
       - NOTE: This runs the `content-build` on `http://localhost:3001`
 4. In a browser, navigate to `localhost:3002`
-5. 
+
+The environment should now be set up and running. Once code changes have been made, save the file. The terminal window running the `vets-webite` will show the code re-building. Once complete, refresh the browser window to reflect the code changes. 
 
 [^1]: This is as of 3/25/2022 as per [Tyler Simoni](https://github.com/TSimmz)
