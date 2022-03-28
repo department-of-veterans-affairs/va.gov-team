@@ -50,11 +50,10 @@ We used these UX research resources during design and development.
 ### References
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
-### Templates
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
-<br>
+### Templates used
+- [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
+- [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
 
 ## Our UX design resources
 We used these UX design resources to guide our design and development.
@@ -71,7 +70,7 @@ We used these UX design resources to guide our design and development.
 - [Messaging directory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 
 ### Accessibility (Section 508)
-- [Internal 508 checklist]()
+- [Internal 508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 <br>
@@ -110,8 +109,7 @@ List your tools; add notes.
 
 ### VA.gov collaboration cycle
 - [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
-- [Other platform references used]()
-- [Other platform references used]()
+
 
 <br>
 
