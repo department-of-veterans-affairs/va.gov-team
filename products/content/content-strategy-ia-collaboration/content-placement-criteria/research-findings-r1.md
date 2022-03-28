@@ -30,7 +30,7 @@ Research questions we looked to answer:
 
 ## Findings
 
-**1. Content authors found the criteria to be helpful and easy to use, and led to confident decision making.**
+**1. Content authors found the criteria to be helpful and easy to use, and helped decision making confidence.**
 - After the activity, the participants were asked to rate the criteria on helpfulness, ease of understanding, and decision confidence on a scale of 1-5, 1 being the lowest score and 5 being highest.
   - Ease of use averaged 4.4
   - Helpfulness of criteria averaged 4.2
