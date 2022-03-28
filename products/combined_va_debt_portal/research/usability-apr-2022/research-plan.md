@@ -157,7 +157,7 @@ Using Perigean recruiting, we would like to schedule **20 participants** in orde
 
 To understand how Veterans interact with the portal depending on their experience with debts and copay bills, the primary criteria has been split into two groups. 
 
-[Please refer to these screener questions and correlating diagram](TBD).
+[Please refer to these screener questions and correlating diagram](#screener-questions-and-group-diagram).
 
 **Group 1: Enrolled in VA health care** 
 
