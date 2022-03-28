@@ -36,6 +36,7 @@ Research questions we looked to answer:
   - Helpfulness of criteria averaged 4.2
   - Confidence in decisions averaged 4.4
 - In addition, the group indicated that having the criteria would be useful in supporting and explaining decisions to stakeholders
+  - _"Just the fact that we’d have something to point to would be incredibly helpful."_
 - For baseline purposes, the group was able to evaluate 5 pages of varying length within 30-35 minutes
 
 
@@ -85,11 +86,11 @@ Research questions we looked to answer:
 ## Recommendations
 
 **Revise the language used in criteria 3 to be more understandable**
-- Clarify what is included in "application process"**
+- Clarify what is included in "application process"
 - The terms "core" versus "supplemental" need to be defined, as well as indicate how they impact the placement decision
 - Split this criteria if needed in order to clarify the dependency between the two scenarios
 
-**Revise how the criteria is presented to make it criteria easier to scan and read**
+**Revise how the criteria is presented to make them easier to scan and read**
 - The group liked how criteria #5 used bullets to list out the individual scenarios and suggested the same formatting be followed for criteria 2 and 3. 
 - Make it very clear that criteri 5 is only used for content planned for placement within R&S
 
@@ -99,6 +100,9 @@ Research questions we looked to answer:
   -  Looking at individual chunks of content versus just the whole page/document
   -  Making decisions based on the goal of the page not just the provided content 
 
+**Establish process for handling placement decisions that may not be accurate**
+- What should happen if an inaccurate decision is made for benefit hub placement?
+- What should happen if an inaccurate decision is made for resources and support placement?
 
 
 ## Next Steps
