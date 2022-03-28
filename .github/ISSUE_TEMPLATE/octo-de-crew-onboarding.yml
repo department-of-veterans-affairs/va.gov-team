@@ -35,8 +35,8 @@ body:
     label: [Platform Crew] 
     description: Onboarding tasks specific to OCTO-DE Platform Crew
     options:
-    - label: Update Team Roster (private) https://vfs.atlassian.net/wiki/spaces/OCLP/overview#Meet-the-team
-    - label: Update Team Roster (public) https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623
+    - label: "Update Team Roster (private) https://vfs.atlassian.net/wiki/spaces/OCLP/overview#Meet-the-team"
+    - label: "Update Team Roster (public) https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623"
       
       
       
