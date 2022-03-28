@@ -22,7 +22,7 @@
 ## Features and initiatives we worked on
 This table includes links to the individual feature transition doc and the latest iteration (doc or code) in design or development.
 
-| Feature (Github link) | AKA | Status (Latest feature link) |
+| Feature (Transition doc) | AKA | Status (Latest feature link) |
 | :--- | :--- | :--- |
 | [Search Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/search-improvements.md) | On-site search, Global Search | --- |
 | [Typeahead](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/typeahead.md) | Dropdown | [In production](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/637) |
