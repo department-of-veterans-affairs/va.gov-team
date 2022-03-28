@@ -2,9 +2,9 @@
 _The purpose of this transition document is to provide a central starting point for status and useful links for sitewide content product. 
 
 ## Table of Contents
-[Product Owners](#-Product-Owners)
-[Sitewide Content Intake](##-Sitewide-Content-and-IA-Intake-Form)
-[Zenhub pipeline status](##-Sitewide-Zenhub-Status)
+[Product Owners](#Product-Owners)
+[Sitewide Content Intake](#Sitewide-Content-and-IA-Intake-Form)
+[Zenhub pipeline status](#Sitewide-Zenhub-Status)
 
 ## Product Owners
 
