@@ -113,13 +113,16 @@ The following is a list of what participants mentioned liking about the landing 
     1. "Information we’ll ask you to share" section
     
 7. **What participants *didn't like* about the landing page**
+
     8. The opening paragraph 
     9. Don't need the definition of harassment
     10. Important information is too hidden--about if you're not comfortable giving your name (you have to click on it to read it) 
     11. "How to quickly get the help you need" is smaller font than the text above it
 9. **What participants thought was *missing* on the landing page and should be added**
+
     10. 
 11. **Questions about content on the landing page**
+    1. 
 
 ## Feedback on the poster
 11 of 14 participants provided feedback on the poster; 3 participants didn't because they were using a smartphone or a screen reader.
