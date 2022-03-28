@@ -106,7 +106,7 @@ Update this section with artifacts provided at the Collaboration Cycle kickoff.
 ### Design Intent
 Update this section with artifacts for the Design Intent touchpoint.
 
-<details open>
+<details>
   <summary>Toggle Design Intent artifacts</summary>
 
 #### Design artifacts
@@ -123,7 +123,7 @@ Update this section with artifacts for the Design Intent touchpoint.
 ### Midpoint Review
 Update this section with artifacts for the Midpoint Review touchpoint.
 
-<details open>
+<details>
   <summary>Toggle Midpoint Review artifacts</summary>
 
 #### Design artifacts
@@ -156,7 +156,7 @@ Update this section with artifacts for the Midpoint Review touchpoint.
 ### Staging Review
 Update this section with artifacts for the Staging Review touchpoint.
 
-<details open>
+<details>
   <summary>Toggle Staging Review artifacts</summary>
 
 #### Product artifacts
@@ -189,7 +189,7 @@ Update this section with artifacts for the Staging Review touchpoint.
 #### Before meeting
   
 ##### VFS actions
-- [ ] Have Ryan Thurlwell review your proposed designs
+- [ ] Have Matt Dingee review your proposed designs
 - [ ] Schedule your Design Intent when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
@@ -236,7 +236,7 @@ Update this section with artifacts for the Staging Review touchpoint.
 ##### VFS actions
   
 - [ ] Schedule your Midpoint Review when ready:
-   - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
+   - Open the [Calendly midpoint review calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
    - Add your name and email
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
@@ -273,6 +273,57 @@ Update this section with artifacts for the Staging Review touchpoint.
   
 - [ ] Respond to feedback tickets
   
+</details>
+
+### Staging Review
+<details>
+  <summary>Toggle Staging Review</summary>
+  
+#### Before meeting
+  
+##### VFS actions
+  
+- [ ] Schedule your Staging Review when ready:
+   - Open the [Calendly staging review calendar](https://calendly.com/collaboration-cycle/staging-review)
+   - Select a date and time and click “Confirm”
+   - Add your name and email
+   - Click "Add Guests" and enter the VFS meeting attendees email addresses
+   - Click Schedule Event
+- [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
+- [ ] Add or update all requested artifacts to the [Artifacts section](#artifacts) of this ticket at least **four** days before the scheduled Staging Review
+- [ ] Ensure you've provided staging access information for the tool or feature (don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
+  
+##### Platform actions
+- [ ] Add Platform reviewers to the scheduled Staging Review meeting
+- [ ] Add Zoom information for the scheduled Staging Review meeting
+- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
+  - [ ] Design feedback provided
+  - [ ] Accessibility feedback provided
+  - [ ] IA feedback provided
+  - [ ] Content feedback provided
+  - [ ] QA feedback provided
+  
+#### Staging Review meeting details
+
+- Drafting Template (for Platform use only): 
+- Meeting date/time:
+- Zoom meeting URL:
+- Zoom password:
+- Zoom recording: 
+
+#### After meeting
+  
+##### Platform actions
+
+- [ ] Update this ticket with the Zoom recording
+- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
+  
+##### VFS actions
+  
+- [ ] Respond to feedback tickets
+- [ ]  Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
+- [ ] Update Staging Review ticket with the product’s launch date after it has gone live
+
 </details>
 
 ### Sitewide Content and IA Intake Request
@@ -315,59 +366,6 @@ Update this section with artifacts for the Staging Review touchpoint.
 
   
 [Contact Center review request ticket](#)
-
-</details>
-
-  
-### Staging Review
-<details>
-  <summary>Toggle Staging Review</summary>
-  
-#### Before meeting
-  
-##### VFS actions
-  
-- [ ] Schedule your Midpoint Review when ready:
-   - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
-   - Select a date and time and click “Confirm”
-   - Add your name and email
-   - Click "Add Guests" and enter the VFS meeting attendees email addresses
-   - Click Schedule Event
-- [ ] Check this box if you'd like this review to be asynchronous (Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review)
-- [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add or update all requested artifacts to the [Artifacts section](#artifacts) of this ticket at least **four** days before the scheduled Staging Review
-- [ ] Ensure you've provided staging access information for the tool or feature (don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
-  
-##### Platform actions
-- [ ] Add Platform reviewers to the scheduled Staging Review meeting
-- [ ] Add Zoom information for the scheduled Staging Review meeting
-- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
-  - [ ] Design feedback provided
-  - [ ] Accessibility feedback provided
-  - [ ] IA feedback provided
-  - [ ] Content feedback provided
-  - [ ] QA feedback provided
-  
-#### Staging Review meeting details
-
-- Drafting Template (for Platform use only): 
-- Meeting date/time:
-- Zoom meeting URL:
-- Zoom password:
-- Zoom recording: 
-
-#### After meeting
-  
-##### Platform actions
-
-- [ ] Update this ticket with the Zoom recording
-- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
-  
-##### VFS actions
-  
-- [ ] Respond to feedback tickets
-- [ ]  Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
-- [ ] Update Staging Review ticket with the product’s launch date after it has gone live
 
 </details>
 
