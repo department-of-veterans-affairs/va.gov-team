@@ -56,7 +56,9 @@ Before we start, a few things I want to mention:
 
 ## Telemedicine Appointments (Telephone)
 As we look toward future development, we would like to understand telemedicine appointments more, particularly telephone appointments.
-- What is your current pre-registration process for telephone appointments? 
+- Do providers at this location utilize telephone appointments within their practice?
+  - What type of appointments, such as follow-ups, are telephone appointments utilized? 
+- What is the current pre-registration process (review of address, emergency contact, and insurance) for telephone appointments? 
   - How is the process similar or different for other telemedicine appointment types?
 - Are you experiencing any challenges with telephone appointments? If so, what are they?
   - Are there similar or different challenges with other types of telemedicine appointments?
