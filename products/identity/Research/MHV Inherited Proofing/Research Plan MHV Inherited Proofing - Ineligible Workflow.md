@@ -181,7 +181,7 @@ _If you are using Perigean to recruit please submit 1 FULL week prior to the sta
 ### Research sessions
 >What dates do you plan to do research?
 
-- March 29th - April 4th 11:00am - 3:00pm, 5:00-8pm EST
+- April 5th - April 12th 11:00am - 3:00pm, 5:00-8pm EST
 
 - We will be recruiting **20 participants**
 
