@@ -23,8 +23,8 @@ In addition to showing this Language Toggle component, the React widget also doe
 An example of this object:
 
     about: {
-	    en: '/health-care/covid-19-vaccine/about-covid-19-vaccine',
-	    es: '/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-esp',
+      en: '/health-care/covid-19-vaccine/about-covid-19-vaccine',
+      es: '/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-esp',
       tl: '/health-care/covid-19-vaccine-tag/about-covid-19-vaccine-tag',
     }
 
