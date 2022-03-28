@@ -43,6 +43,7 @@ body:
   attributes:
     label: Has user been added to DSVA Slack?
     description: User must be a member of https://dsva.slack.com/
+    options:
     - label: User is member of DSVA Slack
 - type: input
   id: slack_username
