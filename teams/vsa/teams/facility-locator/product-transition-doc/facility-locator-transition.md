@@ -69,7 +69,7 @@ The most critical path iteams are listed below but do not represent the total of
    - Increase VBA service information [#37632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632)
    - Increase VBA service information [#37633](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633)
    - Facility Locator expected behavior for VBA "all services" searches [#38433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38433)
-   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
+   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/76fa860bb3ac62ad58c94c2f2b480d5296c5a1c8/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
 - **Restore pagination for urgent care and emergency care** 
    - Issue [#32760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
 - **Implement more robust monitoring**
