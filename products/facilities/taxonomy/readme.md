@@ -1,4 +1,28 @@
-# Directory of taxonomy work completed by the Facilities Team and its predecessors.
+# Taxonomy README 
+
+[Key resources](#key-resources) 
+
+[What to know about the product](#what-to-know-about-the-product)
+
+[Product goals](#product-goals)
+
+[Directory of taxonomy research](#directory-of-taxonomy-research)
+
+## Key resources 
+
+- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
+- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+
+## What to know about the product 
+
+
+## Product goals 
+
+
+
+## Directory of taxonomy research 
+
+The following research was completed by the Facilities Team and its predecessors.
 
 |	Research title	|	Date	|	Primary objectives	|	Link to findings	|	
 |	-----	|	-----	|	-----	|	-----	|	
