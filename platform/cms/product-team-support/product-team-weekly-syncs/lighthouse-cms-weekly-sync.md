@@ -30,7 +30,24 @@
 
 ## Monday, March 28, 2022
 * `servicelocations` (8017)
+  * LH in a holding pattern until latency issue is resolved
 * `healthserviceAPI` (8019)
+  * same boat
+* VA health connect...
+  * rolling out VISN by VISN (separate number per VISN)
+  * can VA Health Connect go into v0?
+  * LH: possible = yes; will push forward to implement
+  * LH to think through what makes most sense for push from CMS, update daily instead of real time
+  * Future state = editors in the field will be updating these phone numbers, want to think through validation and timeliness
+  * Added to existing status push (payload per facility whenever operating status changes)
+    * Revisit when thinking through mental health numbers so as not to block this
+    * CMS to provide LH IDs of facilities with health connect numbers (existing 3 VISNs)
+* COVID/facility urls: potentially appending to overlay process, looking for status
+  * CMS ?: what should it be attached to?
+    * COVID url: in service structure
+      * would be bespoke
+    * Faciltiy url: at the top level, e.g. status push
+    * Dave to talk through with joint task force / JHL in regards to a comms strategy
 
 ## Monday, March 21, 2022
 * `servicelocations`
