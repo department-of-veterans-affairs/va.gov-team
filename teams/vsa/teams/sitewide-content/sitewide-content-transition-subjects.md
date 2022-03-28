@@ -1,7 +1,12 @@
 ## Sitewide Content Transition Subjects/Status
 - The purpose of this transition document is to provide a central starting point for status and useful links for sitewide content product. 
 
+## Table of Contents
+[Zenhub pipeline status](#
 
+
+## Sitewide Zenhub Status
+- These represent the current status and actions taken to update status of stories in each of the below verticles. 
 
 ## Sitewide Content Backlog
 
