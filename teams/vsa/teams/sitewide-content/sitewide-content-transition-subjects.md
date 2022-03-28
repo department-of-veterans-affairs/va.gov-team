@@ -3,8 +3,8 @@ _The purpose of this transition document is to provide a central starting point 
 
 ## Table of Contents
 [Product Owners](#-Product-Owners)
-[Sitewide Content Intake](#-Sitewide Content-and-IA-Intake-Form)
-[Zenhub pipeline status](#-Sitewide-Zenhub-Status)
+[Sitewide Content Intake](##-Sitewide-Content-and-IA-Intake-Form)
+[Zenhub pipeline status](##-Sitewide-Zenhub-Status)
 
 ## Product Owners
 
