@@ -11,27 +11,18 @@ Thank you note takers! Here's a breakdown of what we're hoping to highlight in t
 If we have time, we’ll ask users for feedback on the VA.gov profile, and hope to highlight:
 - How does the current profile meet the needs of My HealtheVet users?
 
-### Links for notetakers:
+Links for notetakers:
 - [Sign up sheet](https://docs.google.com/spreadsheets/d/16HJqCQU_uLy9IJSxbl6YUwzoTjHcrill8nVIBkHTwKY/edit?usp=sharing)
 - [Mural board](https://app.mural.co/invitation/mural/vsa8243/1648474932983?sender=lizlantz1528&key=d392672c-1eca-4670-a690-0e42df488af6)
 - [Verbatim notes template](https://docs.google.com/spreadsheets/d/1HeEqFWz26lAr6UK7lc4yV0cKigPHqaQNyWWWl2Ly_F8/edit)
 
 ## Moderator logistics
-
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-
-*Mute your Slack notifications*
-
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
-
-*In the Attendees section, make sure everyone except the participant is on mute.*
-
-*Check your [screensharing setup] and share permissions for participants.*
-
-### Project-specific setup
-
-- [ ] Make sure task-flow site links are ready to share
-- [ ] Have Optimal Workshop links ready to share
+- [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] Mute your Slack notifications
+- [ ] Log into CAG and be prepared to log into MHV on staging in case the participant has trouble logging in. Use [the second user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mhv-lower-env-test-accounts.md) in the MHV lower environment user list
+- [ ] Have the [Card sort link](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz) ready
+- [ ] In the Attendees section, make sure everyone except the participant is on mute, and has changed their name to Observer.
+- [ ] Check your screensharing setup and share permissions for participants
 
 ## Intro - 3 minutes
 
@@ -57,7 +48,7 @@ Before we start, a few things I want to mention:
 	- *If needed:* This is where you’d find your profile, health information card, in case of emergency contacts, etc.
 2. If you had to update personal information with VA, how would you go about doing that?
 
-## Task 1: Review My HealtheVet Personal Info IA - 2 minutes
+## Task 1: Review My HealtheVet Personal Info IA - 6 minutes
 **Task description:**
 - Now I’d like to take a look at My HealtheVet with you and get your thoughts on the personal information section of the site.  Can you go ahead and login, and then share your screen once you are logged in?
 
@@ -115,7 +106,6 @@ Now there are a couple of specific questions I have on this page.
 - Who else can see your links?
 
 
-
 **Things to look out for:**
 - Has the participant ever used any of these sections?
 - How might they be useful to the participant?
@@ -124,7 +114,7 @@ Now there are a couple of specific questions I have on this page.
 
 ## Task 4: Card sort - 10 minutes
 - Next we’re going to do a sorting activity on a different website. Let me send you the link.
-- UPDATE CARD SORT LINK FOR PARTICIPANTS ([preview link here](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz/sort))
+- [Card sort link](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz)
 * This is a tool that helps us understand how Veterans would group certain items. If we can understand how items are grouped, we can then organize them in an expected way. It is kind of like this, imagine you own a grocery store and you have a truck delivering a shipment of new products and you need to figure out the best place for everything in the store so that shoppers can easily find it. You might consider putting the cheddar cheese with other dairy products and a broom near the cleaning supplies.
 
 **Instructions to open the card sort:**
