@@ -14,7 +14,7 @@ VeText's [source of truth](https://github.com/department-of-veterans-affairs/vet
 
 ### CHIP
 
-CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/blob/develop/docs/chip-messaging.md).
+CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/chip-messaging.md).
 
 ### VA.gov
 
