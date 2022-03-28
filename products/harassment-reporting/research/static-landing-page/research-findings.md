@@ -80,6 +80,7 @@ All 14 participants provided feedback on the landing page.
     2. More than half of the participants (8 of 14) said that the landing page had a lot of information and was straightforward and helpful. Three participants read the content closely, opening all the accordions, and appreciated all the details and the organization. One participant asked if it's going to be launched soon because they want the information on how to report harassment at VA.
     4. Five participants skimmed through the headings but not the top paragraph or the details below. One said that they would read more details if they wanted to report harassment.
     5. 2 participants said that it was way too much information and they wouldn't take the time to look at it all. 
+    6. One participant said they didn't know what will happen after they report; they must not have read the "What to expect after you file your report" section.
     
     > *"Likes that it gives a lot of information...ample amount of resources...communicates that this is something important to VA" (p4).*
     
@@ -104,6 +105,7 @@ The following is a list of what participants mentioned liking about the landing 
     1. Organization with jump links at top and dropdowns for more information (3)
     1. List of questions at the bottom (2)
     1. Hyperlinks for phone numbers to call or text because they stand out visually and easy to use from a phone (2)
+    1. Important that a visitor can report harassment--not just Veterans (2)
     6. The opening paragraph
     > *""First paragraph is very sympathetic...It makes you feel as through the VA is taking harassment very seriously" (p15).*
     7. Red VCL button
@@ -111,6 +113,7 @@ The following is a list of what participants mentioned liking about the landing 
     1. Subway steps in "What to expect after you file your report" 
     1. "How to report harassment" section
     1. "Information we’ll ask you to share" section
+    1. Good that you can report in any of these locations (in the "Report harassment in person" section)
     
 7. **What participants *didn't like* about the landing page:**
 
@@ -124,24 +127,27 @@ The following is a list of what participants mentioned liking about the landing 
 
     12. Examples that are and aren't considered harassment so know what to report and what not to report (2)
     11. More information on sexual harassment and how it's different from harassment and assault
-    12. That you can discuss harassment with your primary care provider or therapist because you're comfortable with them and trust them
-    13. Offer a chaplain as a resource (suggested by a military chaplain who has been helpful in helping deal with shame)
+    12. Reassurance that it's OK to submit a report if you don't know the person's name--add this near "name or a description of the person".
+    > Could say that the report is "Still taken seriously. Please still report even if you don't have the name of the person. Any description you can give would be beneficial" (p11).
+    14. That you can discuss harassment with your primary care provider or therapist because you're comfortable with them and trust them
+    15. Offer a chaplain as a resource (suggested by a military chaplain who has been helpful in helping deal with shame)
    
-
 11. **Questions about content on the landing page**
 
-    1. Can you report in-person at a different location from where the harassment occurred? Or must it be the one where the harassment occurred?
-    2. If I'm a man, can I request that I report with a woman? Or is that option only for women?
-    3. Why is discrimination at very end of the page separate? It should be integrated into the "What harassment is" section.
-    1. What is meant by "VA police"? Is it the onsite security guards?
-    1. Who will be taking harassment reports and how will they be trained?
-> "Who are the people taking harassment reports? Veterans? contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).
-    3. Re "What harassment is and when to report it"--thought it would be timewise: do it now or wait until I get home? do I have a limited amount of time?
-    4. How do you contact VA police? phone #? flag them down? if so, where are they? every location would have a different phone number and location
+    8. What if the person doing the harassing is a visitor to VA instead of an employee? Is that covered here? Not finding it in the questions at the end.
+    9. Can you report in-person at a different location from where the harassment occurred? Or must it be the one where the harassment occurred?
+    10. If I'm a man, can I request that I report with a woman? Or is that option only for women?
+    11. Why is discrimination at very end of the page separate? It should be integrated into the "What harassment is" section.
+    12. What is meant by "VA police"? Is it the onsite security guards?
+    13. Who will be taking harassment reports and how will they be trained?
+> "Who are the people taking harassment reports? Veterans? Contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).
+    3. Re "What harassment is and when to report it": Thought it would be tell me when to submit a report--do it now or wait until I get home? Do I have a limited amount of time?
+    4. How do you contact VA police? Is there a phone number to call, or do you flag them down? If so, where are they? Every location would have a different phone number and location.
     5. Why would you go to a cemetery to file a report?
-    6. how will contact me after complete inquiry? email? phone # to call?
-    7. wondering about if the person harassing is a visitor to VA instead of an employee--is that covered here? not in questions at the end
-    8. when saw link to phone numbers for national cemetery offices, "do many people get harassed in cemeteries?" (p12)
+    6. Re "Get phone numbers for VA national cemetery district offices": Do many people get harassed in cemeteries? (A different participant mentioned that some people get harassed by Veteran funerals.)
+    7. How will I be contacted after the inquiry is complete? Email? Phone?
+
+    9. 
 
 ## Feedback on the poster
 11 of 14 participants provided feedback on the poster; 3 participants didn't because they were using a smartphone or a screen reader.
