@@ -15,21 +15,40 @@ body:
       - Mobile
       - Platform
       - Sitewide
-- type: input
-  id: github_username
+- type: checkboxes
   attributes:
-    label: Github Username
-    description: What is the Github username of the person being onboarded?
-    placeholder: '@octocat'
-  validations:
-    required: false
+    label: Has user received VA.gov email address?
+    description: User must have @va.gov email address provisioned
+    - label: User has @va.gov email address
+- type: input
+  id: va_email
+  attributes:
+    label: VA Email Address
+    description: What is the VA email address of the person being onboarded?
+    placeholder: 'example@va.gov'
 - type: checkboxes
   attributes:
     label: Has user been added to Department of Veterans Affairs Github Organization?
     description: User must be listed in https://github.com/orgs/department-of-veterans-affairs/people
     options:
     - label: User is member of Github org
-      required: true
+- type: input
+  id: github_username
+  attributes:
+    label: Github Username
+    description: What is the Github username of the person being onboarded?
+    placeholder: '@Octocat'
+- type: checkboxes
+  attributes:
+    label: Has user been added to DSVA Slack?
+    description: User must be a member of https://dsva.slack.com/
+    - label: User is member of DSVA Slack
+- type: input
+  id: slack_username
+  attributes:
+    label: Slack Username
+    description: What is the Slack username of the person being onboarded?
+    placeholder: '@Slackbot'
 - type: checkboxes
   attributes:
     label: Crew Specific - Platform
