@@ -153,7 +153,7 @@ Using Perigean recruiting, we would like to schedule **20 participants** in orde
 
 - At least 5 people are over 55
 
-##### Participant groups
+#### Participant groups
 
 To understand how Veterans interact with the portal depending on their experience with debts and copay bills, the primary criteria has been split into two groups. 
 
