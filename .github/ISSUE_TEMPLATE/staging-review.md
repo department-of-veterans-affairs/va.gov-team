@@ -31,6 +31,7 @@ assignees: ''
 - [ ] Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
 - [ ] Update Staging Review ticket with the product’s launch date after it has gone live.
 - [ ] Close Staging Review ticket when the review is complete and the product has launched.
+- [ ] If you have non-launch-blocking Accessibility feedback, please document each identified issue in a [VA 508 Office Audit Request.](https://depo-platform-documentation.scrollhelp.site/developer-docs/Instructions-for-VA-508-Office-document-review.1857913061.html#HowtorequestsupportfromtheVA508Office-AuditRequest) 
 
 **Platform**
 
