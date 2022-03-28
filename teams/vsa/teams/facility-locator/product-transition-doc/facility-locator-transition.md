@@ -55,7 +55,7 @@ The most critical path iteams are listed below but do not represent the total of
 - **Update Mapbox security** 
     - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
 - **Implement VA health connect number on Facility Locator using CMS as source of truth** 
-   - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35477)
+   - Issue [#38962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38962)
 
 ### Next 
 
