@@ -8,7 +8,7 @@ body:
     attributes:
       label: Github Username
       description: What is the Github username of the person being onboarded?
-      placeholder: @octocat
+      placeholder: '@octocat'
     validations:
       required: false
 - type: checkboxes
