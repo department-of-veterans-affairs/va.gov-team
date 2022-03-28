@@ -140,3 +140,19 @@ TBD
 
 ### Expected Outcome 
 TBD
+
+## Test Case: User Authorization
+
+### Description / Use Case 
+TBD
+
+### Expected Outcome 
+TBD
+
+## Test Case: Edit demographics again before confirming appointment
+
+### Description / Use Case 
+TBD
+
+### Expected Outcome 
+TBD
