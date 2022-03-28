@@ -1,4 +1,6 @@
-- Research plan (TBD)
+# April 2022 Usability study resources 
+
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-plan.md)
 - Conversation guide (TBD)
 - Notes (TBD)
 - Topline summary (TBD)
