@@ -50,7 +50,7 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
 #### What to do next based on your answer:
 
 - **If yes,** your content's primary home should be in a VA.gov benefit hub. Contact the VA.gov content team.
-- **If no,** your content's primary home may be in Resources and Support. Answer the bext question to make sure.
+- **If no,** your content's primary home may be in Resources and Support. Answer the next question to make sure.
 
 ### Criteria 3: Does your content meet at least one of these goals?
 
@@ -58,7 +58,7 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
 - [ ] Explains ways to use a VA benefit,**or**
 - [ ] Provides more information about a specific program, service, or sub-benefit that a person can use after they apply for a VA benefit, **or**
 - [ ] Provides a brief overview and link to more information about a Veteran benefit from another government agency (like DoD), **or**
-- [ ] Provides support for signing into and using VA’s digital tools, **or**
+- [ ] Provides support for signing into and using VA.gov, **or**
 - [ ] Answers a question that Veterans, service members, or family members have about VA benefits and services (based on contact center reports, search data, and user feedback)
 
 #### What to do next based on your answer:
