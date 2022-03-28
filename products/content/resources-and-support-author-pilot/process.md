@@ -23,13 +23,13 @@ If the content you're evaluating has multiple pieces to it, use the criteria to 
 
 ### Criteria 2: Does your content meet both of these requirements?
 
-- [ ] Content supports a VA benefit that a Veteran, service member, or family member must submit an application to receive.
+- [ ] A Veteran, service member, or family member must submit an application to receive the specific benefit that the content supports.
 
 <details>
  <summary>Read examples</summary>
  
-  - **Example 1:** A Veteran must submit a unique application to get VA health care. They do not, however, need to submit a unique application to get mental health care or vision care because those are provided as part of the VA health care medical benefits package. Based on this, you would answer "Yes" for VA health care, but "No" for mental health care or vision care.
-  - **Example 2:** A Veteran must submit a unique application to get Post-9/11 GI Bill benefits. If the Veteran then wants to extend those benefits through the Edith Nourse Rogers STEM Scholarship, they must submit another unique application for the scholarship. Based on this, you would answer "Yes" for both content about the Post 9/11 GI Bill benefits and content about the Edith Nourse Rogers STEM Scholarship.
+  - **Example 1:** A Veteran must submit an application to get VA health care. They do not, however, need to submit an application to get mental health care or vision care specifically because those are provided as part of the VA health care medical benefits package. Based on this, you would answer "Yes" for VA health care, but "No" for mental health care or vision care.
+  - **Example 2:** A Veteran must submit an application to get Post-9/11 GI Bill benefits. If the Veteran then wants to extend those benefits through the Edith Nourse Rogers STEM Scholarship, they must submit another  application specifically for the scholarship. Based on this, you would answer "Yes" for both content about the Post 9/11 GI Bill benefits and content about the Edith Nourse Rogers STEM Scholarship.
  </details>
 
 **And** content provides an overview with basic, high-level information about one of these topics:
