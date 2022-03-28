@@ -135,11 +135,13 @@ Using Perigean recruiting, we would like to schedule **20 participants** in orde
 
    - Have Zoom downloaded to their device prior to the session and know how to share their screen 
 
-_Please consider each of the following two groups as a separate recruitment effort_
+##### Participant groups
+
+To understand how Veterans interact with the portal depending on their experience with debts and copay bills, the primary criteria has been split into two groups. 
+
+[Please refer to these screener questions and correlating diagram](TBD).
 
 **Group 1: Enrolled in VA health care** 
-
-[Screener questions](TBD)
 
 - **15 people** who are enrolled in VA health care 
 
@@ -156,8 +158,6 @@ _Please consider each of the following two groups as a separate recruitment effo
      - Have never received a VA debt 
 
 **Group 2: Do not receive VA health care copays**
-
-[Screener questions](TBD) 
 
 - Maximum **5 people** who: 
 
@@ -193,39 +193,26 @@ _Please consider each of the following two groups as a separate recruitment effo
 
 - At least 1 non-native English speaker 
 
-### Screener questions
+### Screener questions and group diagram
 
-#### Group 1
+#### Screener questions 
 
-1. Which of the following describes you? 
+1. Which of the following describes you?
+  * I use VA health care and receive copays (Group 1)
+  
+  * I use VA health care and do not receive copays (Group 2)
+  
+  * I do not use VA health care (Group 2)
 
-   - I use VA health care and receive copays (proceed to the next question) 
+2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)?
+  
+  * Yes (If Group 1, admit at least 10)
+  
+  * No (Admit maximum of 5 for Group 1 and maximum of 5 for Group 2)
 
-   - I use VA health care and do not receive copays (disqualify) 
+#### Group diagram
 
-   - I do not use VA health care (disqualify)  
-
-2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)? 
-
-   - Yes (Admit at least 10) 
-
-   - No (Admit maximum of 5)
-
-#### Group 2
-
-1. Which of the following describes you? 
-
-   - I use VA health care and receive copays (disqualify) 
-
-   - I use VA health care and do not receive copays (proceed to the next question) 
-
-   - I do not use VA health care (proceed to the next question)  
-
-2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)? 
-
-   - Yes (Admit maximum of 5) 
-
-   - No (disqualify) 
+![Group diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/recruitment-mapping.png "Group diagram")
 
 ## Timeline
 
