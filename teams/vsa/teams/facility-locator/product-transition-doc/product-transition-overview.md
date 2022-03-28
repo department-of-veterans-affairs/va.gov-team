@@ -44,7 +44,7 @@ The Facilities team portfolio includes the following unauthenticated products:
 - [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
 
 ## Research and design
-- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md)
   - [Individual feature/initiative hub page] (TBD)
   - [Individual feature/initiative hub page] (TBD)
   - [Individual feature/initiative hub page] (TBD)
