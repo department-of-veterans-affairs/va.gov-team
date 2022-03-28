@@ -97,7 +97,7 @@ All 14 participants provided feedback on the landing page.
 
 3. **Hours for reporting by phone were too limited.** Some participants were concerned about the limited hours for the harassment reporting phone number because the time of day when they finally summon enough courage to report harassment is unpredictable. They don't want to have to wait until the next morning or weekday. Also, the limited hours make it inconvenient for Veterans with a day job to report in private after work. Some said they might call the Veterans Crisis Line because it's available 24x7 but doubted that they would be able to report harassment that way.
 4. **Expected to be able to report online.** Several participants expected a link on the landing page to report online and were disappointed when they couldn't find one. (So we should definitely get back to working on this!)
-5. **What participants *liked* about the landing page**
+5. **What participants *liked* about the landing page:**
 The following is a list of what participants mentioned liking about the landing page, with the number of participants who said this in parentheses if more than one:
     1. Definition of harassment and examples, including verbal comments so you know when you should report it (3)
     1. Alert box at top with phone numbers (3)
@@ -112,17 +112,36 @@ The following is a list of what participants mentioned liking about the landing 
     1. "How to report harassment" section
     1. "Information we’ll ask you to share" section
     
-7. **What participants *didn't like* about the landing page**
+7. **What participants *didn't like* about the landing page:**
 
     8. The opening paragraph 
     9. Don't need the definition of harassment
     10. Important information is too hidden--about if you're not comfortable giving your name (you have to click on it to read it) 
-    11. "How to quickly get the help you need" is smaller font than the text above it
-9. **What participants thought was *missing* on the landing page and should be added**
+    11. Confusing to see the 800 reporting number with hours and the 24x7 VCL number. VCL is for suicide reports and won't be able to help me with harassment reporting.
+    12. "How to quickly get the help you need" is smaller font than the text above it
+  
+9. **What participants thought was *missing* on the landing page and should be added:**
 
-    10. 
+    12. Examples that are and aren't considered harassment so know what to report and what not to report (2)
+    11. More information on sexual harassment and how it's different from harassment and assault
+    12. That you can discuss harassment with your primary care provider or therapist because you're comfortable with them and trust them
+    13. Offer a chaplain as a resource (suggested by a military chaplain who has been helpful in helping deal with shame)
+   
+
 11. **Questions about content on the landing page**
-    1. 
+
+    1. Can you report in-person at a different location from where the harassment occurred? Or must it be the one where the harassment occurred?
+    2. If I'm a man, can I request that I report with a woman? Or is that option only for women?
+    3. Why is discrimination at very end of the page separate? It should be integrated into the "What harassment is" section.
+    1. What is meant by "VA police"? Is it the onsite security guards?
+    1. Who will be taking harassment reports and how will they be trained?
+> "Who are the people taking harassment reports? Veterans? contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).
+    3. Re "What harassment is and when to report it"--thought it would be timewise: do it now or wait until I get home? do I have a limited amount of time?
+    4. How do you contact VA police? phone #? flag them down? if so, where are they? every location would have a different phone number and location
+    5. Why would you go to a cemetery to file a report?
+    6. how will contact me after complete inquiry? email? phone # to call?
+    7. wondering about if the person harassing is a visitor to VA instead of an employee--is that covered here? not in questions at the end
+    8. when saw link to phone numbers for national cemetery offices, "do many people get harassed in cemeteries?" (p12)
 
 ## Feedback on the poster
 11 of 14 participants provided feedback on the poster; 3 participants didn't because they were using a smartphone or a screen reader.
@@ -143,8 +162,7 @@ The following is a list of what participants mentioned liking about the landing 
 1. The landing page and poster need to **better serve the entire range of audiences who want to read the details *vs.* only the headers *vs.* just the phone number/link to report** by providing the most critical details up front with optional access to more information lower down and/or accessible via links (progressive disclosure). Is the purpose of this page to explain how to report harassment, or is it a hub for all information about harassment? If it's focused on how to report harassment, some specific suggestions are below:
 
     2. Put the phone number/link to report at the very top and links to what you do when you report and what VA will do.
-    3. MORE SPECIFIC SUGGESTIONS HERE...
-2.   
+    3. Add details on what is/not harassment, especially verbal comments, along with messaging about if you feel uncomfortable, there's no need to satisfy specific rules or definitions of harassment. Ideally hide such details under links/accordions to avoid triggering.
 
 
 # Next Steps
