@@ -1,7 +1,20 @@
 # Search & Discovery Development
-This describes setting up the environment to work on the Search & Discovery products on a MacBook Pro. The [technical outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA%20Technical%20Orientation.md) for VSA developers, which contains information on our stack, Slack, and lots of helpful links, should be read prior to this document.
+This describes setting up the environment to work on the Search & Discovery products on a MacBook Pro. The [technical outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA%20Technical%20Orientation.md) for VSA developers, which contains information on our stack, Slack, and lots of helpful links, should be read prior to this document.[^1]
 
-***Note for developers updating this document***: Everyone does things differently. If you make a change to this, it is recorded in the git history; however, people don't tend to check that for ReadMe files. So I suggest using footnotes and strikethrough. To add a footnote to lines that change, add `[^#]` to the end of the line, as well as adding `[^#]: <Footnote text>` at the bottom of the document.[^1]. If removing information, add a strikethrough by surrounding the text in a double tilde `~~`.
+## Table of Contents
+[Software Used](#software-used)
+
+[Software Setup](#software-setup)
+
+[Repositories](#repositories)
+
+[S&D Products](#products)
+
+[Starting Environment](#starting-environment-for-search-development1)
+
+[Helpful Links](#helpful-links)
+
+<br>
 
 ## Software Used
 - [VS Code](https://code.visualstudio.com/download)
@@ -11,8 +24,10 @@ This describes setting up the environment to work on the Search & Discovery prod
 - [Postman](https://www.postman.com/downloads/)
 - [GitKraken](https://www.gitkraken.com/download)
 
+<br>
+
 ## Software Setup
-### VS Code
+### *VS Code*
 Extensions Used:
 - Prettier
 - ESLint
@@ -25,27 +40,28 @@ Extensions Used:
 - Auto Rename Tag
 - Better Comments
 
-### iTerm2
+### *iTerm2*
 By default, the terminal defaults to ZShell. Use `chsh -s /bin/bash` to change from ZShell to Bash.
 
 If you would like to colorize your terminal with Git colorization, create a `.bash_profile` file in your root directory and populate it with the contents of
 [bash_profile.txt](https://github.com/department-of-veterans-affairs/va.gov-team/files/8352080/bash_profile.txt). Restart your terminal or run `source ~/.bash_profile` for it to take effect.
 
-### NVM/NPM/Node
+### *NVM/NPM/Node*
 Node `v14.15.0` is used for all the repositories for the VSA project. It should be installed with `NVM`, as Home Brew can cause various issues. NVM is a Node Version Manager that allows installing multiple versions of Node and provides a method to quickly and easily switch between versions.
 
 To install, run the curl command noted in the repository linked above. As of 3/25/2022, the command is `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`. Once the command has finished, restart the terminal and run `nvm -v` to verify installation of NVM `v0.39.1`.
 
 Once NVM has been installed, install Node `v14.15.0` using the command `nvm install 14.15.0`.
 
-### SOCKS
+### *SOCKS*
 SOCKS, which stands for *Socket Secure*, is a network protocol that facilitates communication with servers through a firewall by routing network traffic to the actual server on behalf of the client. It is required for building the `content-build` repository locally, among other things. 
 
 Access needs to be requested for SOCKS via [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2C+operations%2C+ops-access-request&template=socks-access-request.yml&title=Access+for+%5Bindividual%5D). Access also needs requested for the [devops](https://github.com/department-of-veterans-affairs/devops) repository. 
 
 Once access has been granted, it can be setup using [`vtk`](https://github.com/department-of-veterans-affairs/vtk) or can be connected to via [Core Tunnel](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/search-discovery/developer-env.md#core-tunnel). 
 
-### Core Tunnel
+
+### *Core Tunnel*
 For Core Tunnel, you can use the [setup script](https://github.com/department-of-veterans-affairs/vtk/blob/master/lib/vtk/commands/socks/setup.rb) as reference and follow the subcommand routine: 
   1. Download the recommended [`.ssh/config`](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config) if missing.
   2. Generate a VA SSH key by running `ssh-keygen -f .`.
@@ -66,19 +82,38 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
      - 🟡 : Connecting...
      - 🟢 : Connected 
 
-## Repositories
-- Frontend
-  - [Vets Website](https://github.com/department-of-veterans-affairs/vets-website): Core frontend platform and application code.
-  - [VA Gov Content](https://github.com/department-of-veterans-affairs/vagov-content): Markdown content used to generate static pages.
-  - [Content Build](https://github.com/department-of-veterans-affairs/content-build): Liquid templates and content build for static pages.
-  - [Veteran Facing Services Tools](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools): Shared front end components (including non VA.gov users) and frontend documentation site.
- 
-- Backend: 
-  - [Vets Api](https://github.com/department-of-veterans-affairs/vets-api): Core Ruby on Rails API server application code.
-  - [Vets Api Mock Data](https://github.com/department-of-veterans-affairs/vets-api-mockdata): Mock data used when running locally and on dev for the backend
+<br>
 
-- Shared: 
-  - [Vets Json Schema](https://github.com/department-of-veterans-affairs/vets-api): Shared JSON Schema definitions used by form applications and the APIs that they consume.
+## Products
+| Name | GitHub | VA.gov URL | Description | 
+| :--- | :--- | :--- | :--- |
+| Global Search | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/search) | [Search](https://www.va.gov/search/) | This handles the global search for the VA.gov. It acts as the entry point for the VA search engine, which utilizes [Search.gov](https://www.search.gov), which allows veterans to search for anything they may need on the VA website. |
+| Find VA Forms | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms) | [Find Forms](https://www.va.gov/find-forms/)| This allows veterans to search for, fill out, and download any forms available in the VA.gov database. | 
+| Resources & Support | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/resources-and-support) | [R&S](https://www.va.gov/resources/) | This lets veterans search for resources and support articles or search all of VA.gov. This page also displays commonly used and searched links to various resources. |
+
+<br>
+
+## Repositories
+### Frontend
+| Name | Description |
+| :--- | :--- |
+| [Vets-Website](https://github.com/department-of-veterans-affairs/vets-website) | Core frontend platform and application code.
+| [VA Gov Content](https://github.com/department-of-veterans-affairs/vagov-content) | Markdown content used to generate static pages. | 
+| [Content Build](https://github.com/department-of-veterans-affairs/content-build) | Liquid templates and content build for static pages. |
+| [Veteran Facing Services (VFS) Tools](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools) | Shared front end components (including non VA.gov users) and frontend documentation site. |
+
+### Backend
+| Name | Description |
+| :--- | :--- |
+| [Vets Api](https://github.com/department-of-veterans-affairs/vets-api) | Core Ruby on Rails API server application code. |
+| [Vets Api Mock Data](https://github.com/department-of-veterans-affairs/vets-api-mockdata) | Mock data used when running locally and on dev for the backend |
+
+### Shared
+| Name | Description |
+| :--- | :--- |
+| [Vets Json Schema](https://github.com/department-of-veterans-affairs/vets-api) | Shared JSON Schema definitions used by form applications and the APIs that they consume. |
+
+<br>
 
 ## Starting Environment for Search Development[^1]
 1. Clone all repositories above into the same directory. 
@@ -110,5 +145,27 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 4. In a browser, navigate to `localhost:3002`
 
 The environment should now be set up and running. Once code changes have been made, save the file. The terminal window running the `vets-webite` will show the code re-building. Once complete, refresh the browser window to reflect the code changes. 
+
+<br>
+
+## Helpful Links
+- [Citrix Access for Checking VA Email](https://citrixaccess.va.gov/vpn/index_citrix_splash.html)
+- [OKTA Sign In](https://salientcrgt.okta.com/)
+- [Old SOCKS Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools-old.md)
+- [Review Instance Documentation](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Review%20Instances.md#what-is-it)
+- [VA Build/Deploy Status](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/)
+- [Production Feature Flippers](https://api.va.gov/flipper/features)
+- [Staging Feature Flippers](https://staging-api.va.gov/flipper/features)
+- [Frontend Styling References](https://design.va.gov/utilities/)
+- [Google Analytics Tag Manager](https://tagassistant.google.com/#/!#source=TAG_MANAGER&id=GTM-WFJWBD&gtm_auth=3nsmBjX8YS8-fwR0o3ntKg&gtm_preview=327)
+   - Needed to debug event logging
+- [Public Websites - How to Redirect](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md)
+- [GraphQL Explorer](https://prod.cms.va.gov/graphql/explorer)
+   - Username: `api`
+   - Password: `drupal8`
+- [TugBoat](https://tugboat.vfs.va.gov/projects)
+- [Search.gov Admin Portal](https://search.usa.gov/login)
+- [Domo Portal](https://va-gov.domo.com/page/-100000)
+- [Forms Library Docs](https://react-jsonschema-form.readthedocs.io/en/latest/)
 
 [^1]: This is as of 3/25/2022 as per [Tyler Simoni](https://github.com/TSimmz)
