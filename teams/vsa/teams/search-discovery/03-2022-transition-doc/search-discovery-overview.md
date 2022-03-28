@@ -54,7 +54,6 @@ We used these UX research resources during design and development.
 - [Research plan template]()
 - [Conversation guide template]()
 - [Findings template]()
-
 <br>
 
 ## Our UX design resources
@@ -77,12 +76,6 @@ We used these UX design resources to guide our design and development.
 
 <br>
 
-## Our UX research/design process
-Add team-specific process documentation; add notes.
-
-- [Team process doc]()
-- [Reference doc]()
-- [Reference doc]()
 
 <details>
   <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
