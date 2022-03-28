@@ -27,16 +27,26 @@ _The Intake for can be accessed from Zenhub Board in va.gov-team/templates liste
 - Please be as detailed as possible
 - Intake forms should be submitted far enough in advance of staging and product launch dates to provide the sitewide content and IA team to provide feedback and guidance.
 
+![image](https://user-images.githubusercontent.com/56848714/160488085-c7a8ab79-a766-4d8d-b7e6-cdcb2b78e039.png)
+
+
 
 ## Sitewide Zenhub Status
-- These represent the current status and actions taken to update status of stories in each of the below verticles. 
+- These represent the current status and actions taken to update status of stories in each of the below verticles.
+**Using Zenhub or Github, Filter by the label "Sitewide content" and look at the following Verticle columns**
 
 ## Sitewide Content Backlog
+47 current issues are listed within the Backlog column as of 3/28/22.  All have been reviewed and status updates with the latest informtion from stakeholders and/or OCTO POCs.
 
 ## Recurring Sitewide Content Stories/Issues 
+There are two recurring stories that will require continued iteration through the Sitewide content lifecycle.
+- Replace Videos every two weeks for 
+**See the following github stories for examples of the rotating videos**
+- Update the Claims data on the last day of the month in preparation for the upcoming month
+**See the following github story for example of the required updates to this page.
 
 ## Sitewide Content Blocked status
-
+11 current issues are listed within the Blocked as of 3/28/22.  
 
 
 ## Sitewide Content 2022 Goal Setting
