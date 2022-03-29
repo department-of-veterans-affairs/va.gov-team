@@ -13,7 +13,7 @@ The check-in team is reimagining the experience between a Veteran scheduling a m
   - answer health questionnaires (future feature).
 - utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) for a medical appointment via VA.gov. 
 
-With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. Lastly, we want to know the current process and challenges surrounding appointment notifications. This study will be conducted on-site in conjunction with a [Veteran study](link research plan). Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews. 
+With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. Lastly, we want to know the current process and challenges surrounding appointment notifications. This study will be conducted on-site in conjunction with a [Veteran study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-plan.md). Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews. 
 
 We were also able to coordinate one Zoom call with a few MSAs. The [insights from that call](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/session-notes/Mar9-zoomcall.md) will be added to this study.
 
@@ -64,11 +64,11 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 The research will be conducted at a CBOC, Annex, and certain departments within John J. Cochran Veterans Hospital.
 	
 ### Methodology and recruitment
-- During the same on-site trip as [this Veteran study](link to Veteran research plan), work with the site to schedule time to observe and interview staff members in the clinics that are utilizing pre-check-in and mobile check-in solutions.
+- During the same on-site trip as [this Veteran study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-plan.md), work with the site to schedule time to observe and interview staff members in the clinics that are utilizing pre-check-in and mobile check-in solutions.
 - Try to gather feedback and observations from as many staff and roles as possible during the visit
 
 ## Timeline
-Research: 2-3 full days onsite during the week of ?.
+Research: 2-3 full days onsite during the week of April 25th.
 
 ## Team Roles	
 - Moderator: TBD (2-3 team members) 
@@ -76,4 +76,4 @@ Research: 2-3 full days onsite during the week of ?.
 
 
 ### Note:
-The appointment notification questions are also related to this [VAOS study](_These last two research goals also relate to this [VAOS research study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop/research-plan.md#hypothesis).
+The appointment notification questions are also related to this [VAOS study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop/research-plan.md).
