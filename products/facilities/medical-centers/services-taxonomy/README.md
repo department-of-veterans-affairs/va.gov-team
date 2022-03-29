@@ -25,3 +25,7 @@ This is how the content is structured:
 - Patient-friendly name: Heart and circulation
 - Common conditions: heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
 - Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
+
+## Research
+
+See related [Directory of taxonomy research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/taxonomy/readme.md#directory-of-taxonomy-research)
