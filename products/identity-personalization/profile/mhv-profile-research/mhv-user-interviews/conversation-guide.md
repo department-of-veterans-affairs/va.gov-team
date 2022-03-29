@@ -19,7 +19,7 @@ Links for notetakers:
 ## Moderator logistics
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - [ ] Mute your Slack notifications
-- [ ] Log into CAG and be prepared to log into MHV on staging in case the participant has trouble logging in. Use [the second user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mhv-lower-env-test-accounts.md) in the MHV lower environment user list
+- [ ] Log into CAG and be prepared to log into [MHV on staging](https://mhv-syst.myhealth.va.gov/mhv-portal-web/home) in case the participant has trouble logging in. Use [the second user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mhv-lower-env-test-accounts.md) in the MHV lower environment user list
 - [ ] Have the [Card sort link](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz) ready
 - [ ] In the Attendees section, make sure everyone except the participant is on mute, and has changed their name to Observer.
 - [ ] Check your screensharing setup and share permissions for participants
