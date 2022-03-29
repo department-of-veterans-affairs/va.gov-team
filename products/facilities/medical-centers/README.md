@@ -15,7 +15,7 @@
 ## Key resources 
 
 - [**VSA Facilities Team transition overview**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/product-transition-overview.md) | March 2022
-- [**VSA Facilities team Research and Design Hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+- [**VSA Facilities team Research and Design Hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
 
 ## VAMC resources
 - [**VSA VAMC product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) | March 2022
