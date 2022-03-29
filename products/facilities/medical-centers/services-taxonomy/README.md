@@ -8,10 +8,10 @@ The VHA health services taxonomy is the official, customer-facing list of servic
 
 ## Taxonomy documentation
 
-- View or download the VHA health services taxonomy here: https://prod.cms.va.gov/vha-health-services
+- View or download the VHA health services taxonomy [here](https://prod.cms.va.gov/vha-health-services) (_requires VA network connection but_ not _Drupal creds_)
   - Share this link with stakeholders and VA contractors; you must be on the VA network to access it, but you don't need Drupal credentials
   
-- The taxononmy lives and is maintained (i.e., edited) in [Drupal](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview)
+- The taxononmy lives and is maintained (i.e., edited) in [Drupal](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview) (_requires VA network connection_ and _Drupal creds_)
 
 - The taxonomy is consumed by the [Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current) for use by all VA digital products, and public third-party products: 
 
