@@ -2,7 +2,7 @@
 name: Check In Experience Wireframe Task
 about: For Check In Experience Wireframe Task
 title: "[Design]"
-labels: design, HCE-Checkin
+labels: ux, design, HCE-Checkin
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 ## How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with vsa-healthcare-exp, HCE-Checkin, ux, design
+- [ ] Labeled with HCE-Checkin, ux, design
 - [ ] Prepend [UI] to the beginning of the ticket title
 - [ ] Fill in User Stories
 - [ ] Fill in Description
