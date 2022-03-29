@@ -14,7 +14,8 @@
 
 ## March 31, 2022
 
-- Top task beta test update (Suzanne)
+- Recurring tasks (Kevin)
+- Top task beta test (Suzanne)
 - Complete RACI chart: https://docs.google.com/spreadsheets/d/1BDmdiQcjKAijBGRrq0HsfRZP_bqDm1Ul/edit#gid=1182457863
 - RACI scenario: https://app.mural.co/t/vagov6717/m/vagov6717/1648488726115/e1aca2bfbfca0b076dc5ec7125bef104a28e97f4?sender=u31df4f199540466f5c2a0712
 
