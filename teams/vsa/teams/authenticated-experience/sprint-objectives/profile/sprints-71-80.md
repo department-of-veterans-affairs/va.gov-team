@@ -13,6 +13,10 @@
 
 ## Sprint 71 (4/6 - 4/19) 
 
+### General
+
+- Onboard Sharon #39204
+
 ### Personal information revisions
 
 Goal: Finish BE and connect to frontend
@@ -39,6 +43,8 @@ Goal: Finish BE and connect to frontend
 ### Bad address indicator
 
 **PM**
+
+Note: We can move this a sprint if Sharon needs to focus on general onboarding before jumping into this task.
 
 - Start on QA use cases (this will not be completed yet)
 - Figure out how we can get a staging user with the bad address indicator for testing (might require working with VA Profile)
