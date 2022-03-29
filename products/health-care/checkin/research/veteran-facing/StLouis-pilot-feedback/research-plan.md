@@ -78,14 +78,14 @@ The research will be conducted at a CBOC, Annex, and certain departments within 
 We will observe/intercept Veterans during their visit.
 
 ## Timeline
-Research: 2-3 full days onsite during the week of March 28.
+Research: 2-3 full days onsite during the week of April 25th.
 
 ## Team Roles	
 - Moderator: TBD (2-3 team members) 
 - Research guide writing and task development: Kristen McConnell
 
 ## Methodology and recruitment: Go to site and observe/interview Veterans
-- 1-2 team members travel to a St.Louis CBOC, Annex, and certain departments within John J. Cochran Veterans Hospital.
+- 2-3 team members travel to a St.Louis CBOC, Annex, and certain departments within John J. Cochran Veterans Hospital.
 - Work with staff to identify high-volume days for researchers to attend, so we can maximize the numbers of possible intercept interviews.
 	- Work with clinic staff to determine the best approach to intercept Veterans.
 	- Aim to intercept at least 5-10 Veterans as they enter the clinic before they check-in for their appointment.
