@@ -45,6 +45,10 @@ Goal: Finish BE
 
 ### Notification preferences
 
+**PM**
+
+- Once we have final IA/content recommendations, make sure those are communicated to VA Profile
+
 **Design**
 
 - Update mocks to add the new comp & pen notification
@@ -53,6 +57,10 @@ Goal: Finish BE
 ### Address change messaging
 
 - Continue work (may need to check in with Christina and Adam on current status)
+
+### MHV research
+
+- Liz to deliver final report
 
 ## Sprint 72 (4/20 - 5/3)
 
