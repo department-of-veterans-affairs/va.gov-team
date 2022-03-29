@@ -12,6 +12,9 @@
 <br>
 
 ## Table of Contents
+
+[Feature background](#feature-background)
+
 [UX research studies](#ux-research-studies)
 
 [UX design work products](#ux-design-work-products)
