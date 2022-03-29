@@ -2,7 +2,7 @@
 name: Check In Experience Production Readiness
 about: Check In Experience checkist prior to a production release
 title: "[Prod Readiness]"
-labels: backend, frontend, HCE-Checkin, HealthExp - Planned, vsa-healthcare-exp
+labels: backend, frontend, HCE-Checkin
 assignees: ''
 
 ---
