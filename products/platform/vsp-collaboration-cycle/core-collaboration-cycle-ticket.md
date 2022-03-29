@@ -13,7 +13,6 @@
 Skip to...
 - [VFS product information](#vfs-product-information)
 - [Kickoff questions](#kickoff-questions)
-- [Artifacts](#artifacts)
 - [Collaboration Cycle touchpoints](#collaboration-cycle-touchpoints)
 
 ## VFS product information
@@ -87,98 +86,12 @@ Examples of **research with VA.gov users** include:
 - [ ] NCA (National Cemetery Administration)
 - [ ] VACO (Veterans Affairs Central Office)
 - [ ] Other. Please specify: ____________
-</details>
- 
-## Artifacts
-
-### Kickoff
-Update this section with artifacts provided at the Collaboration Cycle kickoff.
-
-<details open>
-  <summary>Toggle kickoff artifacts</summary>
-
-#### Product artifacts
-  
-- [ ] Product outline <!-- Product outline template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
-  
-</details>
-
-### Design Intent
-Update this section with artifacts for the Design Intent touchpoint.
-
-<details>
-  <summary>Toggle Design Intent artifacts</summary>
-
-#### Design artifacts
-
-- [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
-- [ ] User flow
-
-#### IA artifacts
-
-- [ ] User flow
     
 </details>
 
-### Midpoint Review
-Update this section with artifacts for the Midpoint Review touchpoint.
-
-<details>
-  <summary>Toggle Midpoint Review artifacts</summary>
-
-#### Design artifacts
-
-- [ ] Finalized design prototype or mockup
+### Kickoff artifacts
   
-#### Research artifacts
-
-- [ ] Research plan 
-- [ ] Conversation guide
-  
-#### IA artifacts
-
-- [ ] Github ticket for any relevant IA work 
-  
-#### Content artifacts
-  
-- [ ] Name of content of truth, for example, "Invision Prototypes"
-- [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
-
-#### QA artifacts
-  
-[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
-
-- [ ] Regression test plans (if there isn't already a regression test plan for this feature in TestRailProduct)
-- [ ] Link to test cases/test plan in TestRail (draft OK)
-  
-</details>
-
-### Staging Review
-Update this section with artifacts for the Staging Review touchpoint.
-
-<details>
-  <summary>Toggle Staging Review artifacts</summary>
-
-#### Product artifacts
-  
-- [ ] Release plan with the "Planning" sections completed <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
-- [ ] Staging URL and staging test-user information <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
-
-#### QA artifacts
-
-[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
-
-- [ ] Product test cases/test plan in TestRail with test execution logs 
-- [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
-- [ ] [Summary (Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
-  
-#### Accessibility artifacts
-  
-- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
-- [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
-- [ ] List of known issues
-  
-</details>
+- [ ] Product outline <!-- Product outline template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
 
 ## Collaboration Cycle touchpoints
 
@@ -197,7 +110,7 @@ Update this section with artifacts for the Staging Review touchpoint.
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add design artifacts to the [Artifacts section](#artifacts) of this ticket at least two days before the scheduled Design Intent
+- [ ] Add design artifacts to the [Artifacts section](#design-intent-artifacts) of this ticket at least two days before the scheduled Design Intent
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Design Intent meeting
@@ -225,6 +138,17 @@ Update this section with artifacts for the Staging Review touchpoint.
 
 - [ ] Respond to feedback tickets
 
+#### Design Intent artifacts
+
+##### Design artifacts
+
+- [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
+- [ ] User flow
+
+##### IA artifacts
+
+- [ ] User flow
+  
 </details>
 
 ### Midpoint Review
@@ -243,7 +167,7 @@ Update this section with artifacts for the Staging Review touchpoint.
    - Click Schedule Event
 - [ ] Check this box if you'd like this review to be asynchronous (Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review)
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add or update all requested artifacts to the [Artifacts section](#artifacts) of this ticket at least two days before the scheduled Midpoint Review
+- [ ] Add or update all requested artifacts to the [Artifacts section](#midpoint-review-artifacts) of this ticket at least two days before the scheduled Midpoint Review
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Midpoint Review meeting
@@ -273,6 +197,33 @@ Update this section with artifacts for the Staging Review touchpoint.
   
 - [ ] Respond to feedback tickets
   
+#### Midpoint Review artifacts
+  
+##### Design artifacts
+
+- [ ] Finalized design prototype or mockup
+  
+##### Research artifacts
+
+- [ ] Research plan 
+- [ ] Conversation guide
+  
+##### IA artifacts
+
+- [ ] Github ticket for any relevant IA work 
+  
+##### Content artifacts
+  
+- [ ] Name of content of truth, for example, "Invision Prototypes"
+- [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
+
+##### QA artifacts
+  
+[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
+
+- [ ] Regression test plans (if there isn't already a regression test plan for this feature in TestRailProduct)
+- [ ] Link to test cases/test plan in TestRail (draft OK)
+  
 </details>
 
 ### Staging Review
@@ -290,7 +241,7 @@ Update this section with artifacts for the Staging Review touchpoint.
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add or update all requested artifacts to the [Artifacts section](#artifacts) of this ticket at least **four** days before the scheduled Staging Review
+- [ ] Add or update all requested artifacts to the [Artifacts section](#staging-review-artifacts) of this ticket at least **four** days before the scheduled Staging Review
 - [ ] Ensure you've provided staging access information for the tool or feature (don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
   
 ##### Platform actions
@@ -323,6 +274,27 @@ Update this section with artifacts for the Staging Review touchpoint.
 - [ ] Respond to feedback tickets
 - [ ]  Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
 - [ ] Update Staging Review ticket with the product’s launch date after it has gone live
+  
+#### Staging Review artifacts
+  
+##### Product artifacts
+  
+- [ ] Release plan with the "Planning" sections completed <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
+- [ ] Staging URL and staging test-user information <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
+
+##### QA artifacts
+
+[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
+
+- [ ] Product test cases/test plan in TestRail with test execution logs 
+- [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
+- [ ] [Summary (Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
+  
+##### Accessibility artifacts
+  
+- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
+- [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
+- [ ] List of known issues
 
 </details>
 
