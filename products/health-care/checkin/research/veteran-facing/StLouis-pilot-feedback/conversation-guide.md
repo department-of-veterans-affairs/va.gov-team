@@ -49,7 +49,9 @@
   - If the veteran didn't use a QR code, when was the last time (if at all) you've used a QR code?
   - _Only for Veterans who completed pre-check-in, but had to review demographics again on the day of._ What are your thoughts on reviewing your address, next of kin, and emergency contact today, since you also reviewed them a few days ago?
   - If you had to give the check-in process a name, what would it be? 
-  - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
+  - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this experience to another Veteran?
     - Why? What are your impressions of the experience? 
+  - What would you call the experience you completed? 
+    - What wording would you expect to see on the website and poster? E.g., check-in, mobile check-in, check-in online, something else, no preference. 
 
 Thank you for helping us continue to improve the pre-check-in and check-in experience.
