@@ -13,6 +13,29 @@
 
 ## Sprint 71 (4/6 - 4/19) 
 
+### Personal information revisions
+
+Goal: Finish BE
+
+**PM**
+
+- Request QA for 5/4 - 5/17 sprint
+- Finish all QA prep
+- Finish call center guide
+
+**Design**
+
+- Finish call center guide
+- If time, UAT research plan and conversation guide 
+
+**FE**
+
+- Start connecting frontent to backend; Finish this if possible
+
+**BE**
+
+- Finish BE!!
+
 ### Bad address indicator
 
 **PM**
