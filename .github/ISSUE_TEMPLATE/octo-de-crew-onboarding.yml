@@ -63,7 +63,7 @@ body:
     - label: "Post welcome Slack message: #platform-team"
     - label: "Register for Platform Orientation: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D"
     - label: "Add to Confluence"
-    - label: "Add to Confluence group `platform-crew-octo-de` https://admin.atlassian.com/s/10f8a514-fd86-4b32-8ba3-c0bfc6969f88/groups/81f1ea1a-fc6d-4b27-aed5-0bb73dd86c02
+    - label: "Add to Confluence group 'platform-crew-octo-de' https://admin.atlassian.com/s/10f8a514-fd86-4b32-8ba3-c0bfc6969f88/groups/81f1ea1a-fc6d-4b27-aed5-0bb73dd86c02
       
       
       
