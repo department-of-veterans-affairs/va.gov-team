@@ -71,6 +71,7 @@ _Requesting team; Infrastructure Team can assist_
 - [ ] **Kubernetes manifest in YAML, Jsonnet, or Helm Chart** in `vsp-infra-application-manifests` | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) | [Docs](https://argo-cd.readthedocs.io/en/stable/)  
 Note: must be compatible with ArgoCD  
 _Requesting team; Infrastructure Team can assist_  
+- [ ] **Kubernetes detect and update application** in `vsp-infra-applications-manifests` | [Environments](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vsp-operations/argocd-apps)
 - [ ] **Automation to update the Kubernetes manifest** when a new version of the app's container is pushed to ECR | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/update-manifests.yaml)  
 _Requesting team; Infrastructure Team can assist_
 
