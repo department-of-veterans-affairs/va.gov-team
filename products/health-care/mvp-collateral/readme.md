@@ -75,9 +75,10 @@ Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets.
 ### Other content
 
 Note: Newest content is listed first
+- [VAntage Point: #VADidThat: Million Veteran Program leads way to medical discoveries, one Veteran at a time](https://blogs.va.gov/VAntage/101496/vadidthat-million-veteran-program-leads-way-to-medical-discoveries-one-veteran-at-a-time/)
+- [Video: #VADidThat: Leading the way to medical discoveries, one Veteran at a time](https://www.youtube.com/watch?v=c5ZamPNuWAs)
 - [VAntage Point: Yogurt is good for your heart, VA study finds](https://blogs.va.gov/VAntage/100610/yogurt-is-good-for-your-heart-va-study-finds/)
 - [VAntage Point: Million Veteran Program – 10 years, 850,000 Veterans, and one dream to revolutionize health care](https://blogs.va.gov/VAntage/96392/million-veteran-program-10-years-850000-veterans-and-one-dream-to-revolutionize-health-care)
-
 
 
 
