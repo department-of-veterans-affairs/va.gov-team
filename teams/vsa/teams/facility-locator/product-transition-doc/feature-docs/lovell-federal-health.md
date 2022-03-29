@@ -48,7 +48,7 @@ Veteran research should be conducted using the new design with a group of dual e
 Include notes about which Platform process was in use when this feature was in design and development.
 
 - [January 2022 Design intent #34483](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34483)
-- [March 2022 Design intent #38196](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38196)
+- [March 2022 Design intent #38196](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38196) _requested to discuss additional input regarding dual eligibles and need to sitch between VA and Tricare experiences_
 - [IA review #38735](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37835)
 
 ## Other feature documentation
@@ -59,10 +59,10 @@ Include notes about which Platform process was in use when this feature was in d
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
 ### Templates 
-- [Research plan template]()
-- [Conversation guide template]()
-- [Findings template]()
-
+- [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
+- [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Findings template: presenting to designers](https://docs.google.com/presentation/d/13G80avWGdY7tHU40PbP_l05W1yRpDr-opOk0u_AAhzQ/edit#slide=id.g892adcb623_0_141)
+- [Findings template: presenting to VA stakeholders](https://docs.google.com/presentation/d/19l8281cENnUmdz0qIsyPcVIeoyB8uw_kzoHYWbuYlwA/edit#slide=id.g892adcb623_0_141)
 ### Tools
 List your tools; add notes.
   
