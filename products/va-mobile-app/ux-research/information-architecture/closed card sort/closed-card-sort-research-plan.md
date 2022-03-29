@@ -239,9 +239,10 @@ The card sort will open on Feb 28 and should remain open for two weeks (March 14
 * Launch pilot using [OptimalWorkShop.com](optimalWorkShop.com) week of Feb 22
 * Edit protocol after pilot
 ### Study
-* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com) Feb 28
-* Analysis of Closed Card Sort
-* Review findings with VA mobile UX team, stakeholders. Edit based on feedback
+* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com) Feb 28 - March 3
+* Analysis of Closed Card Sort  March 7-16
+* Draft Report March 17-23
+* Review findings with VA mobile UX team, stakeholders. March 23 & 24
 * Repeat Closed Card Sort with alternate category label sets if needed
 
 
