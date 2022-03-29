@@ -1,5 +1,15 @@
 # VA Mobile team - Release Highlights
 
+## Release: 3/29/22
+
+Improvements & Bug Fixes
+- Claim Refinements
+  - Accessibility improvements
+  - Enable multi image upload capabilities
+  - Bug fixes (constant display of snack bar)
+  - Bug fixes-Styling & formatting on deleting photo uploads
+
+
 ## Release: 3/15/22
 
  New & Improved & Bug Fixes
