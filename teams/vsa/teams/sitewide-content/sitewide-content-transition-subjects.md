@@ -12,6 +12,8 @@ _The purpose of this transition document is to provide a central starting point 
 
 [Sitewide Content 2022 Goal Setting](#Sitewide-Content-2022-Goal-Setting)
 
+[VA.gov Content Style Guid](#Sitewide-Content-VA.gov-content-style-guide)
+
 ## Product Owners
 OCTO content leads:
   For benefits and burials and memorials: Beth Potts
@@ -62,10 +64,12 @@ Sitewide content writers and editors should focus on quality composition in alig
 
 [Sitewide Content Quality Guide use of checklists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/checklists/quality_guidelines_for_Checklists.md)
 
-## Sitewide Content VA.gov design-style guide
 
+## Sitewide Content VA.gov content style guide
+This is VA.gov house style guide for use on VA.gov website. It’s shared across VA administrations and teams, so we can speak with one voice and create a consistent, helpful experience for Veterans and non-Veteran customers. 
+[VA.gov content style guide](https://design.va.gov/content-style-guide/)
 
 ## Sitewide Content Product support information
-_For more information regarding the Sitewide Content communications and product support information see the Content Product GitHub Repo below:
+_For more information regarding the Sitewide Content communications and product support information see the Content Product GitHub Repo below:_
 
 [GitHub Content Product Repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content)
