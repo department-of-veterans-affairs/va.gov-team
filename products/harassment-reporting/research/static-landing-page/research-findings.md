@@ -159,10 +159,32 @@ The following is a list of what participants mentioned liking about the landing 
 
 ## Feedback on the poster
 11 of 14 participants provided feedback on the poster; 3 participants didn't because they were using a smartphone or a screen reader.
-1. **The poster looked familiar.** Some participants reported seeing a poster with similar messages in VA facilities. (I obtained a copy from one of the social worker observers, which I will include in the full research report.)
+1. **Mixed feedback overall**. 
+- 7 participants thought all the information needed to report harassment. One said that they want to see more of these at VA, especially in bathroom stalls.
+- 4 people thought it was too wordy. 
+- 2 people thought it wasn't new information. 
+- 2 people said they'd take a picture with their phone so they could read it later. One of them said they wouldn't take the time to read it in a high-traffic area because they might be judged by others.
+> *"Thorough, a lot of information. Would take a picture with my phone" (p7).*
+> *"Not going to read all that!" (p6).*
+> *"Good lord, too busy! Imagine looking at in an elevator--not enough time to read the whole thing" (p8).*
+> *"Just one more announcement--not that different from what I've seen" (p9).*
+
+> . just say phone #'s for each (sexual harassment, harassment) (p6)
+
+""very wordy--a lot of words"" (p9)"
+"thorough, a lot of information. would take a picture with my phone" (p7)
+"just one more announcement--not that different from what I've seen" (p9)
+3. **The poster looked familiar.** One participant reported seeing a poster with similar messages in a VA facility. (I obtained a copy from one of the social worker observers, which is included in the appendix.) Another participant said they've seen sexual harassment messages like this in every bathroom and doorway while in the military.
 
 5. **What participants *liked* about the poster:**
-    1. dflsdkjf
+    1. Very clear with phone number to call
+    > *"That's new. Don't have much hope, but would try it" (p9).*
+    1. "What harassment is and when to report it" section
+    2. Suggestion of a security guard because you might want someone in uniform to help
+    3. Information that's in bold and larger font because you look at it right away
+likes "what harassment is and when to report it"
+likes suggestion of security guard--might want someone in uniform to help
+likes bold
 7. **What participants *didn't like* about the poster:**
   
    
@@ -180,8 +202,9 @@ The following is a list of what participants mentioned liking about the landing 
 
 1. The landing page and poster need to **better serve the entire range of audiences who want to read the details *vs.* only the headers *vs.* just the phone number/link to report** by providing the most critical details up front with optional access to more information lower down and/or accessible via links (progressive disclosure). Is the purpose of this page to explain how to report harassment, or is it a hub for all information about harassment? If it's focused on how to report harassment, some specific suggestions are below:
 
-    2. Put the phone number/link to report at the very top and links to what you do when you report and what VA will do.
-    3. Add details on what is/not harassment, especially verbal comments, along with messaging about if you feel uncomfortable, there's no need to satisfy specific rules or definitions of harassment. Ideally hide such details under links/accordions to avoid triggering.
+    2. At the very top, put the phone number/person/link to report (landing page and poster) and links to what you do when you report and what VA will do (landing page only).
+    3. (landing page only) Add details on what is/not harassment, especially verbal comments, along with messaging about if you feel uncomfortable, there's no need to satisfy specific rules or definitions of harassment. Ideally hide such details under links/accordions to avoid triggering.
+
 
 1. The new web page and poster on harassment reporting is only one part of a larger communication plan needed across all of VA and individual facilities that needs to speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening.
 
@@ -216,6 +239,8 @@ We would like to
 ### Screenshot of Poster
 <img src="">
 
+### Screenshot of a different VA poster that's now in VA facilities
+<img src="">
 
 # Who we talked to 
 We talked to **14 participants**.
