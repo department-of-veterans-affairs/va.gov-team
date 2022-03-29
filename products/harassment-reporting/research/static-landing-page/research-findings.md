@@ -165,15 +165,13 @@ The following is a list of what participants mentioned liking about the landing 
 - 2 people thought it wasn't new information. 
 - 2 people said they'd take a picture with their phone so they could read it later. One of them said they wouldn't take the time to read it in a high-traffic area because they might be judged by others.
 > *"Thorough, a lot of information. Would take a picture with my phone" (p7).*
+> 
 > *"Not going to read all that!" (p6).*
+> 
 > *"Good lord, too busy! Imagine looking at in an elevator--not enough time to read the whole thing" (p8).*
+> 
 > *"Just one more announcement--not that different from what I've seen" (p9).*
 
-> . just say phone #'s for each (sexual harassment, harassment) (p6)
-
-""very wordy--a lot of words"" (p9)"
-"thorough, a lot of information. would take a picture with my phone" (p7)
-"just one more announcement--not that different from what I've seen" (p9)
 3. **The poster looked familiar.** One participant reported seeing a poster with similar messages in a VA facility. (I obtained a copy from one of the social worker observers, which is included in the appendix.) Another participant said they've seen sexual harassment messages like this in every bathroom and doorway while in the military.
 
 5. **What participants *liked* about the poster:**
