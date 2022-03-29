@@ -8,11 +8,11 @@ _The purpose of this transition document is to provide a central starting point 
 
 [Zenhub pipeline status](#Sitewide-Zenhub-Status)
 
-[Sitewide Content Quality Assurance Process Guidelines](#Sitewide-Content-Quality-Assurance-process-guidelines)
+[Sitewide Content Quality Guidelines](#Sitewide-Content-Quality-Assurance-process-guidelines)
 
 [Sitewide Content 2022 Goal Setting](#Sitewide-Content-2022-Goal-Setting)
 
-[VA.gov Content Style Guid](#Sitewide-Content-VA.gov-content-style-guide)
+[VA.gov Content Style Guide](#Sitewide-Content-VA-style-guide)
 
 ## Product Owners
 OCTO content leads:
@@ -65,7 +65,7 @@ Sitewide content writers and editors should focus on quality composition in alig
 [Sitewide Content Quality Guide use of checklists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/checklists/quality_guidelines_for_Checklists.md)
 
 
-## Sitewide Content VA.gov content style guide
+## Sitewide Content VA style guide
 This is VA.gov house style guide for use on VA.gov website. It’s shared across VA administrations and teams, so we can speak with one voice and create a consistent, helpful experience for Veterans and non-Veteran customers. 
 [VA.gov content style guide](https://design.va.gov/content-style-guide/)
 
