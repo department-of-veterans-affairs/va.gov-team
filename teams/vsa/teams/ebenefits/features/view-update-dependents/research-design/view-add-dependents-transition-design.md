@@ -121,8 +121,7 @@ During development of the View Dependents feature, we pursued an "inline 686c" c
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
 
-- [Design intent]()
-- [IA review]()
+- [View Dependents design intent](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/4431)
 - [Midpoint review]()
 - [Staging review]()
 - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-results.md)
