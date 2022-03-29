@@ -12,6 +12,8 @@
 
 [History](#history)
 
+[Contacts](#contacts)
+
 [Documentation and analytics](#documentation-and-analytics)
 
 [Product approach](#product-approach)
@@ -20,7 +22,6 @@
 
 [Artifacts](#artifacts)
 
-[Github labels](#github-labels)
 
 ## VAMC modernized pages product overview
 Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families and caregivers. The pages provide the location details needed before visiting and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. During the roll-out, the Facilities team had responsibility for the front-end, from content API to Veteran-facing UI.  
@@ -34,6 +35,13 @@ This upgrade project has been the collaboration of multiple product teams within
 - VAMC Upgrade Team: responsible for content creation and mapping
 - Facilities Team: responsible for Veteran-facing front end (from content API to Veteran-facing UI) _Ownership of the front end work was transferred from the Public Websites team to the Facilities team following a decision to implement on VAMCs only (rather than globally)._
 
+## Contacts
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
+Kevin Walsh | Slack @Kevin Walsh | Sitewide CMS Product Manager
+Clarence Maeng | Slack @Clarence Maeng | CMS Delivery Manager
 
 ## Documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
