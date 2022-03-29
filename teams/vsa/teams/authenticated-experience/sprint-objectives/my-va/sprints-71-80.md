@@ -33,15 +33,23 @@
 
 ### On-site notifications
 
+**PM**
+
+- VANotify to start work; evaluate what they need to do so we can plan our own timelines
+- Do we have a plan for QA? How are we going to trigger a notification for testing?
+
 **Design**
 
 - Explore notification style so we don't have to use the alert/error styling
 
 ### My VA audit
 
-- Health care section
-- Payment section
-- Applications in progress section
+**Design**
+
+- Audit health care
+- Audit benefit payments and debts
+- Audit applications in progress
+- If time, regroup with Samara/AJ (or Heather if she is still here) on existing states
 
 ## Sprint 72 (4/20 - 5/3)
 
