@@ -112,7 +112,8 @@ List your tools; add notes.
 ## Inline formlet feature
 During development of the View Dependents feature, we pursued an "inline 686c" concept to allow users to remove dependents without entering the full 21-686 form. This would essentially create a viable 686c submission, but would "abstract away" the form itself.
 
-- [View Dependents Formlet mockups](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/)
+- [View Dependents Formlet V1](https://xd.adobe.com/view/659d31d9-4d54-4400-ad7b-25bbe62ef212-30ce/)
+- [View Dependents Formlet V2](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/)
 - [View Dependents Formlet usability research plan (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/formlet-usability/formlet-usability-research-plan.md)
 
 <br>
