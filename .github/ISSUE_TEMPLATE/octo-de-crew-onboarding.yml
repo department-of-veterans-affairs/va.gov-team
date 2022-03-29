@@ -71,6 +71,7 @@ body:
     - label: "Schedule recurring 1:1 sync"
     - label: "Add to Platform meetings https://vfs.atlassian.net/wiki/spaces/AP/pages/2141519911/Platform+Meetings"
     - label: "Add to team PO meetings"
+    - label: "Update Slack profile in accordance with https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack"
       
       
       
