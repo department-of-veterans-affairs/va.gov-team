@@ -34,3 +34,12 @@ _This transition folder includes the following more specific transition hubs._
 [**VSA Facilities Team UX research and design hub transition document | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
 
 _The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced during design and development. Also included are links to other resources and references used._
+
+[**Individual feature documents**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs) have also been created for work in progress
+
+- [VAMC Mobile health clinics feature transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md) | March 2022
+
+- [VAMC Lovell federal health feature transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md) | March 2022
+
+- [VAMC VA health connect and other communication methods feature transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connnect-communications.md) | March 2022
+
