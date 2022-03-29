@@ -16,7 +16,7 @@ This checklist is for content authors working in Drupal to use when creating a n
 - [ ] Confirm all link text is 100 characters or less.
 - [ ] Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to does not live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
 
-### General resources and support article standards
+### Standards for Resources and Support articles
 
 - [ ] Character limit for subheads: Confirm H2s, H3s, and H4s are within the 70-character limit.
 - [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
