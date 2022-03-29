@@ -29,6 +29,7 @@ _This transition folder includes the following more specific transition hubs._
 - [Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
 - [VAMC modernized pages product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) 
 - [Vet Center pages product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md)
+- [Service taxonomy README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/taxonomy/readme.md)
 
 [**VSA Facilities Team UX research and design hub transition document | March 2022**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md)
 
