@@ -42,6 +42,10 @@
 
 - Explore notification style so we don't have to use the alert/error styling
 
+**Medical co-pays/debts**
+
+- TBD. Need to figure out if we need more explorations or if we have designs ready for testing.
+
 ### My VA audit
 
 **Design**
