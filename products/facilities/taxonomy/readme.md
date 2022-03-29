@@ -4,6 +4,8 @@
 
 [What to know about the product](#what-to-know-about-the-product)
 
+[Contacts](#contacts)
+
 [Product goals](#product-goals)
 
 [Directory of taxonomy research](#directory-of-taxonomy-research)
@@ -19,7 +21,12 @@
 
 The VHA health services taxonomy is the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care. All VA digital health products should use the taxonomy.
 
-**Business owner:** Jenny Heiland-Leudtke, VHA Digital Media (Jennifer.Heiland-Luedtke@va.gov)
+## Contacts
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
+Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
 
 **Taxonomy documentation**
 - [Health service taxonomy Github product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy)
