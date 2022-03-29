@@ -1,4 +1,4 @@
-Health Services Taxonomy: Community care Feature Brief (WIP)
+# Health Services Taxonomy: Community care Feature Brief (WIP)
 
 This document will focus on the implementation of Health Services Taxonomy into Facility Locator search functionality 
 
