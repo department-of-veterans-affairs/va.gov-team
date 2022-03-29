@@ -3,6 +3,10 @@ description: Onboard a member of OCTO to a Digital Experience Crew
 title: "[OCTO-DE Crew Onboarding]: "
 labels: ["onboarding"]
 body:
+- type: markdown
+  attributes:
+    value: |
+      This issue is for onboarding a member of OCTO to a Digital Experience Crew. Please assign to the Crew lead after opening.
 - type: dropdown
   id: crew_name
   attributes:
