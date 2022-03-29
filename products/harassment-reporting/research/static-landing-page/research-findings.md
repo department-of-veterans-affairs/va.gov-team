@@ -101,7 +101,7 @@ All 14 participants provided feedback on the landing page.
 4. **Expected to be able to report online.** Several participants expected a link on the landing page to report online and were disappointed when they couldn't find one. (So we should definitely get back to working on this!)
 5. **What participants *liked* about the landing page:**
 The following is a list of what participants mentioned liking about the landing page, with the number of participants who said this in parentheses if more than one:
-    1. Definition of harassment and examples, including verbal comments so you know when you should report it (3)
+    1. Definition of harassment and examples, including verbal comments so you know when you should report it (3 participants)
     1. Alert box at top with phone numbers (3)
     1. Organization with jump links at top and dropdowns for more information (3)
     1. List of questions at the bottom (2)
@@ -135,7 +135,7 @@ The following is a list of what participants mentioned liking about the landing 
   
 9. **What participants thought was *missing* on the landing page and should be added:**
 
-    12. Examples that are and aren't considered harassment so know what to report and what not to report (2)
+    12. Examples that are and aren't considered harassment so know what to report and what not to report (2 participants)
     11. More information on sexual harassment and how it's different from harassment and assault
     12. Reassurance that it's OK to submit a report if you don't know the person's name--add this near "name or a description of the person".
     > Could say that the report is "Still taken seriously. Please still report even if you don't have the name of the person. Any description you can give would be beneficial" (p11).
@@ -160,6 +160,7 @@ The following is a list of what participants mentioned liking about the landing 
 ## Feedback on the poster
 11 of 14 participants provided feedback on the poster; 3 participants didn't because they were using a smartphone or a screen reader.
 1. **Mixed feedback overall**. 
+
 - 7 participants thought all the information needed to report harassment. One said that they want to see more of these at VA, especially in bathroom stalls.
 - 4 people thought it was too wordy. 
 - 2 people thought it wasn't new information. 
@@ -172,7 +173,7 @@ The following is a list of what participants mentioned liking about the landing 
 > 
 > *"Just one more announcement--not that different from what I've seen" (p9).*
 
-3. **The poster looked familiar.** One participant reported seeing a poster with similar messages in a VA facility. (I obtained a copy from one of the social worker observers, which is included in the appendix.) Another participant said they've seen sexual harassment messages like this in every bathroom and doorway while in the military.
+3. **The poster looked familiar.** One participant reported seeing a poster with similar messages in a VA facility. (I obtained a copy from one of the social worker observers, which is included in the appendix. This poster has many fewer words so easy to scan, and also a QR code for more information.) Another participant said they've seen sexual harassment messages like this in every bathroom and doorway while in the military.
 
 5. **What participants *liked* about the poster:**
     1. Very clear with phone number to call
@@ -184,8 +185,19 @@ likes "what harassment is and when to report it"
 likes suggestion of security guard--might want someone in uniform to help
 likes bold
 7. **What participants *didn't like* about the poster:**
-  
+    1. Not helpful to explain what harassment is because it seems condescending (2 participants)
+    2. What you should what you should do (e.g., number to call) doesn't stand out. You need a simple message immediately if you're upset, traumatized, upset, and/or mad.
    
+9. **What participants thought was *missing* on the poster and should be added:**
+    1. A QR code to get more information
+    1. That you can discuss harassment with your primary care provider or therapist because you're comfortable with them and trust them
+    
+
+11. **Questions about content on the landing page:**
+    1. Who can I report? A VA employee or Veteran/visitor/patient?
+    1. What is "the VA police"? The security guards onsite?
+    1. How do you contact the VA police? Is there a phone #? Do you just flag them down? If so, where are they? Every location would have a different phone number and location. One participant said they they know that you can find security at the front desk, and VA police roam around but have an office in back.
+
 ## Attitudes around harassment and reporting
 1. **Patient advocate was a popular way to report.** More than half of the Veterans said that they would report harassment to the patient advocate at the facility. Many expected that if the patient advocate wasn't the right person, they would get you to the right person. (Do patient advocates currently do this?) Veterans shared about the frustrations they've had in trying to get issues at VA resolved and how they're often passed off from person to person, especially over the phone. We need the process of reporting harassment to be less of a burden so people will actually do it.
 2. **Much harassment isn't reported for a variety of reasons.** Many participants said they wouldn't report harassment in the hypothetical situation discussed during the session (on your way into a medical appointment, someone said something rude and made a sexual gesture that made you feel uncomfortable) because it happens so often, didn't seem bad enough to report (not too offensive or physical), and wouldn't do any good if you don't know the name of the person. They'd just say something directly to the person and then try to forget about it. 
@@ -198,10 +210,12 @@ likes bold
 
 # Recommendations
 
-1. The landing page and poster need to **better serve the entire range of audiences who want to read the details *vs.* only the headers *vs.* just the phone number/link to report** by providing the most critical details up front with optional access to more information lower down and/or accessible via links (progressive disclosure). Is the purpose of this page to explain how to report harassment, or is it a hub for all information about harassment? If it's focused on how to report harassment, some specific suggestions are below:
+1. The landing page and poster need to **better serve the entire range of audiences who want to read the details *vs.* only the headers *vs.* just the phone number/link to report** by providing the most critical details up front with optional access to more information lower down and/or accessible via links (progressive disclosure). Assuming that the purpose of this page is to explain how to report harassment (and not a hub for all information about harassment), some specific content suggestions are below:
 
-    2. At the very top, put the phone number/person/link to report (landing page and poster) and links to what you do when you report and what VA will do (landing page only).
-    3. (landing page only) Add details on what is/not harassment, especially verbal comments, along with messaging about if you feel uncomfortable, there's no need to satisfy specific rules or definitions of harassment. Ideally hide such details under links/accordions to avoid triggering.
+    1. Have an eye-catching short title that's a call to action (e.g., from the current VA anti-harassment poster: "If you are harassed or sexually assaulted" in big bold letters).
+    2. Just below the title, have the phone number/person/link to report (landing page and poster) and links to what you do when you report and what VA will do (landing page only) or a QR code for more information (poster only).
+    4. (landing page only) Add details on what is/not harassment, especially verbal comments, along with messaging about if you feel uncomfortable, there's no need to satisfy specific rules or definitions of harassment. Ideally hide such details under links/accordions to avoid triggering.
+    5. (poster only) Minimize the number of words so it's easy to scan and understand in a short amount of time. 
 
 
 1. The new web page and poster on harassment reporting is only one part of a larger communication plan needed across all of VA and individual facilities that needs to speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening.
@@ -238,8 +252,12 @@ We would like to
 <img src="">
 
 ### Screenshot of a different VA poster that's now in VA facilities
+This poster is currently being posted in VA facilities. This copy was shared by one of the social worker observers. Note that the poster has many fewer words so it's easy to quickly scan, and has a QR code for more information. 
 <img src="">
 
+### Screenshot of the web page reached from the QR code in the above poster 
+The QR code in the poster above leads to the following web page for the VHA Assault and Harassment Prevention Office. It contains information including a spedometer-type gauge of behavior that goes from Acceptable to Sexual Violence/Assault, which doesn't seem helpful and might actually be harmful.
+<img src="">
 # Who we talked to 
 We talked to **14 participants**.
 
