@@ -1,5 +1,5 @@
 ## Sitewide Content Transition Subjects/Status
-_The purpose of this transition document is to provide a central starting point for status and useful links for sitewide content product. 
+_The purpose of this transition document is to provide a central starting point for status and useful links for sitewide content product._
 
 ## Table of Contents
 [Product Owners](#Product-Owners)
@@ -23,7 +23,7 @@ OCTO content leads:
 
 
 ## Sitewide Content and IA Intake Form
-_The Intake for can be accessed from Zenhub Board in va.gov-team/templates listed as "Sitewide Content and IA Form"
+_The Intake for can be accessed from Zenhub Board in va.gov-team/templates listed as "Sitewide Content and IA Form"_
 - Select this template
 - Complete all required areas to provide information needed to support the new product of feature.
 - Please be as detailed as possible
