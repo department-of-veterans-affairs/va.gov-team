@@ -14,6 +14,8 @@
 
 [Documentation and analytics](#documentation-and-analytics)
 
+[Contacts](#contacts)
+
 [Product approach](#product-approach)
 
 [Product roadmap](product-roadmap)
@@ -37,6 +39,12 @@ It is the newer version of [VA's Legacy directory](https://www.va.gov/directory/
 - [Legacy DOMO dashboard](https://va-gov.domo.com/page/1129885232)
 - [Mission Act DOMO Dashboard](https://va-gov.domo.com/page/1865233622?userId=1405356294) also contains community care search data from the Facility Locator
 - [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mapbox)
+
+## Contacts
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Nancy Smith | nancy.smith@oddball.io | Mapbox POC
 
 ## Facility Locator product approach 
 
