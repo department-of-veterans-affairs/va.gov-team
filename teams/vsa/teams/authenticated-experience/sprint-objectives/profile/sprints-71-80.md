@@ -15,7 +15,7 @@
 
 ### Personal information revisions
 
-Goal: Finish BE
+Goal: Finish BE and connect to frontend
 
 **PM**
 
