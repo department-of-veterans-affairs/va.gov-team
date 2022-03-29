@@ -21,6 +21,12 @@ Vet Center pages were intentionally designed to be lean, meeting the minimum nee
 - fact that these pages establish online presence for the first timne (rather than replacing any existing pages)
 Once the roll-out is complete, we plan to re-evaluate additional features, including the option for "a la carte" features for Vet Centers are interested and feel equipped to tackle additional areas. 
 
+## Contacts
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC)
+
 ## Vet Center pages product roadmap
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
