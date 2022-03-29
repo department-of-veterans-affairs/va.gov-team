@@ -6,6 +6,17 @@
 
 <br>
 
+## Table of contents
+
+[Product Overview](#vet-center-pages-product-overview)
+
+[Product approach](#vet-center-pages-product-approach)
+
+[Contacts](#contacts)
+
+[Product roadmap](#vet-center-pages-product-roadmap)
+
+[Artifacts](#artifacts)
 
 ## Vet Center pages product overview
 Vet Center pages were created to establish web presence for this group of underutilized VA facilities and the services they deliver. The Vet Center MVP was informed by a group of 10 Vet Center outreach specialists and was intentionally designed to be lean, providing information about Vet Center services and the locations where they are available.  They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - Vet Center national and local Vet Center facility.
