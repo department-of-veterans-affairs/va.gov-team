@@ -23,8 +23,11 @@ OCTO content leads:
 
 
 ## Sitewide Content and IA Intake Form
-_The Intake for can be accessed from Zenhub Board in va.gov-team/templates listed as "Sitewide Content and IA Form"_
-- Select this template
+_To support all VA products in producing an application and/or webpage(s), product teams are incouraged to engage the sitewide content team utilizing the ZenHub issue application. Intake for can be accessed from Zenhub Board in va.gov-team/templates listed as "Sitewide Content and IA Form".  This will help create one voice and a consistent, helpful experience for Veterans and non-Veteran customers._ 
+- [Access ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?)
+- Select New Issue button - Top Right of board
+- Select correct Repo **Create Issue in Repo" -va.gov-teams**
+- Select **Sitewide Content and IA Form** template
 - Complete all required areas to provide information needed to support the new product of feature.
 - Please be as detailed as possible
 - Intake forms should be submitted far enough in advance of staging and product launch dates to provide the sitewide content and IA team to provide feedback and guidance.
