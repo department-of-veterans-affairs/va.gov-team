@@ -2,7 +2,7 @@ This is a WIP
 
 # Sitewide Content team operations document
 
-This document serves as a helpful guide for the different tasks Sitewide Content does during the course of a sprint. Some of the work is initiated from other product teams, VA benefit office stakholders, and from the product owners.
+This document serves as a helpful guide for the different tasks Sitewide Content does during the course of a sprint. This work is initiated from other product teams, VA benefit office stakeholders, and from the product owners.
 
 ## Incoming requests 
 ### Stakeholder requests
