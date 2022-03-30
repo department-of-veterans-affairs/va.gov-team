@@ -45,9 +45,9 @@ The Facilities team portfolio includes the following unauthenticated products:
 
 ## Research and design
 - [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md)
-  - [Individual feature/initiative hub page] (TBD)
-  - [Individual feature/initiative hub page] (TBD)
-  - [Individual feature/initiative hub page] (TBD)
+  - [Lovell federal health feature doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md)
+ - [Mobile health clinics feature doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md)
+ - VA health connect communications feature doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connect-communications.md)
 - [CMS research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research)
 
 ## Engineering
