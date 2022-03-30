@@ -103,7 +103,7 @@ Brief plain-language description of this product’s history and next steps
 ## Product approach 
 
 ### Artifacts
-- [Team charter]()
+- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites#readme)
 - [Other]()
 - [Other]()
 
