@@ -11,7 +11,7 @@ These are the test scripts that testers of the MEB follow for testing the UI and
 
 ### 508 Testing
 - [AXE reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/test-scripts/axeDt-reports.zip) as of 03/24/2022
-- The VA Section 508 Office performed MEB testing and certified zero defects found on 02/15/2022. Official VA Section 508 Validation Status can be provided upon request.
+- The VA Section 508 Office performed MEB testing and certified zero defects found on 02/15/2022. Official VA Section 508 Validation Status document can be provided upon request.
 
 ### Test URL
 - The application can be accessed directly at https://staging.va.gov/education/apply-for-benefits-form-22-1990/ 
