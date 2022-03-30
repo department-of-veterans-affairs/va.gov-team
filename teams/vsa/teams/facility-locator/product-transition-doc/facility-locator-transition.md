@@ -89,7 +89,7 @@ The most critical path iteams are listed below but do not represent the total of
 ### Later
 
 - **Service-centric (task-based) search**
-   - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801)
+   - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801) | [Iniative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/80d947c076470728ec4bf84275d32769f1a75545/products/facilities/facility-locator/service-centric-search/initiative-brief.md)
 - **Add ability to return non-VAST locations, such as Vet Ceter community access points and VA health mobile stops** 
    - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
 - **PPMS Taxonomy Mapping**
