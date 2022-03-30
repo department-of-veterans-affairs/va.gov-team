@@ -72,7 +72,7 @@ Thank you for providing that information. It helps me understand your experience
 
 Thank you for your insight. Now, we're going to take a look at a few things in a design prototype of a mobile app. If you have the link, feel free to navigate to it and share your screen. If you don’t have it, no worries. I can share my screen and navigate wherever you tell me to go.  
 
-[Link to prototype](https://www.sketch.com/s/7af71fd5-b940-4196-9402-c34b0861b441/a/9PJ5K9n)
+[Link to prototype](https://www.sketch.com/s/a755a2f8-0d0d-456e-8327-61a5d31b0a97/a/52jgk4w/play)
 
 Before we select anything, let's just take a look at this. Feel free to scroll up and down, but stay on this list. 
 - What stands out to you first when looking at the landing screen?
