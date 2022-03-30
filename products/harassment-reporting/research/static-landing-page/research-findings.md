@@ -97,9 +97,18 @@ All 14 participants provided feedback on the landing page.
 
 1. **Page layout gives the impression of a shorter page.** Two people--one using a screen reader and one not--stopped scrolling the page after the subway map steps because they interpreted the separating line just below that as indicating the bottom of the page.
 
-3. **Hours for reporting by phone were too limited.** Some participants were concerned about the limited hours for the harassment reporting phone number because the time of day when they finally summon enough courage to report harassment is unpredictable. They don't want to have to wait until the next morning or weekday. Also, the limited hours make it inconvenient for Veterans with a day job to report in private after work. Some said they might call the Veterans Crisis Line because it's available 24x7 but doubted that they would be able to report harassment that way.
-4. **Expected to be able to report online.** Several participants expected a link on the landing page to report online and were disappointed when they couldn't find one. (So we should definitely get back to working on this!)
-5. **What participants *liked* about the landing page:**
+3. **Hours for reporting by phone were too limited.** Half of the participants (7 of 14) were concerned about the limited hours for the harassment reporting phone number because the time of day when they finally summon enough courage to report harassment is unpredictable. They don't want to have to wait until the next morning or weekday. Also, the limited hours make it inconvenient for Veterans who work during the day to report in private after work. Some said they might call the Veterans Crisis Line because it's available 24x7 but doubted that they would be able to report harassment that way. One person wondered what message they would get if they tried calling the phone number to report after hours.
+
+> *"I would hope for a 24-hour line...Sometimes this stuff happens at 3 am, or you remember it at 3 am, or you come to the conclusion that you should report it then...I experience delayed reaction when I have issues like that" (p12).*
+
+> *"Hurry up and do it in the heat of the moment before you decide not to...VA complicates things" (p13).*
+
+> *"Would discourage me from making a call" because it might be closed by the time I get home from my appointment" (p11).*
+
+5. **Expected to be able to report online.** Four participants expected a link on the landing page to report online and were disappointed when they couldn't find one. They wanted to be able to write out what happened in private instead of having to talk to someone, and also not get stuck on hold on the phone. One participant said that they would text VCL if they didn't want to talk to someone.
+> *"Sometimes you're on hold forever...I don't want to call the VA again...also if you're not comfortable talking about it" (p8).*
+
+7. **What participants *liked* about the landing page:**
 The following is a list of what participants mentioned liking about the landing page, with the number of participants who said this in parentheses if more than one:
     1. Definition of harassment and examples, including verbal comments so you know when you should report it (3 participants)
     1. Alert box at top with phone numbers (3)
@@ -181,12 +190,11 @@ The following is a list of what participants mentioned liking about the landing 
     1. "What harassment is and when to report it" section
     2. Suggestion of a security guard because you might want someone in uniform to help
     3. Information that's in bold and larger font because you look at it right away
-likes "what harassment is and when to report it"
-likes suggestion of security guard--might want someone in uniform to help
-likes bold
+
 7. **What participants *didn't like* about the poster:**
     1. Not helpful to explain what harassment is because it seems condescending (2 participants)
     2. What you should what you should do (e.g., number to call) doesn't stand out. You need a simple message immediately if you're upset, traumatized, upset, and/or mad.
+    3. Confusing to see 911 or VA police at the top because didn't see at first that it's for sexual assault or immediate harm.
    
 9. **What participants thought was *missing* on the poster and should be added:**
     1. A QR code to get more information
@@ -199,12 +207,39 @@ likes bold
     1. How do you contact the VA police? Is there a phone #? Do you just flag them down? If so, where are they? Every location would have a different phone number and location. One participant said they they know that you can find security at the front desk, and VA police roam around but have an office in back.
 
 ## Attitudes around harassment and reporting
-1. **Patient advocate was a popular way to report.** More than half of the Veterans said that they would report harassment to the patient advocate at the facility. Many expected that if the patient advocate wasn't the right person, they would get you to the right person. (Do patient advocates currently do this?) Veterans shared about the frustrations they've had in trying to get issues at VA resolved and how they're often passed off from person to person, especially over the phone. We need the process of reporting harassment to be less of a burden so people will actually do it.
-2. **Much harassment isn't reported for a variety of reasons.** Many participants said they wouldn't report harassment in the hypothetical situation discussed during the session (on your way into a medical appointment, someone said something rude and made a sexual gesture that made you feel uncomfortable) because it happens so often, didn't seem bad enough to report (not too offensive or physical), and wouldn't do any good if you don't know the name of the person. They'd just say something directly to the person and then try to forget about it. 
+1. When asked how they would report harassment, participants said they'd decide based on their current location (i.e., report in person if they're at a VA site vs. report by phone if they're at home), their own preferences, and their past experiences. Many said they'd try one method, and if it wasn't helpful, they would try a different way. 
+
+> *"Did you take my account seriously? If not, I will try the next resource...Don't want a single point of failure" (p4).*
+
+  - **In-person with a patient pdvocate was the most popular way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences.  Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). (Do patient advocates currently do this?) Veterans shared about the frustrations they've had in trying to get issues at VA resolved and how they're often passed off from person to person, especially over the phone. We need the process of reporting harassment to be less of a burden so people will actually do it. Some participants said that they wouldn't report harassment to a VA-contracted medical provider or building security staff because of bad experiences they've had with them.
+> *"Best place...to get someone with authority. They get you to the right person...Have used patient advocates before in person and over the phone with mixed results" (p13).
+
+  - Participants had different reasons for wanting to report in person:
+    1. So the person you're talking to can see the anger/frustration in your face (2 participants)
+    2. So you have a person's name who you can go back to if you have more information
+    3. So it's more likely that the person bothering you is still there
+    4. If you need help right then (e.g., someone is following you or yelling at you), go directly to the security desk or find VA police
+    5. I can talk better over the phone because I can focus
+    6. I can trust my primary care provider or therapist
+ 
+ - SUMMARIZE "PREFS FOR HOW TO REPORT" DATA IN SEP. SPREADSHEET TAB to see proportion of in person vs. phone vs. other--mk a table
+    - before showing resources
+    - after seeing poster
+    - after seeing landing page
+    - going forward
+    
+    One participant said they would call Women's Veterans Call Center b/c more comfortable, safe talking with a woman about this
+
+3. **Much harassment isn't reported for a variety of reasons.** Many participants said they wouldn't report harassment in the hypothetical situation discussed during the session (on your way into a medical appointment, someone said something rude and made a sexual gesture that made you feel uncomfortable) because it happens so often, didn't seem bad enough to report (not too offensive or physical), and wouldn't do any good if you don't know the name of the person. They'd just say something directly to the person and then try to forget about it. 
 
 ## Broader VA context
-7. **Resources met with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA on harassment reporting, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page.
-4. **Some harassment perpetrated by VA employees.** Some Veterans shared their own stories of harassment at VA, and especially disturbing are those where the perpetrator is a VA employee. This is a serious issue that needs to be addressed by the VA, and one that revising the landing page and poster isn't going to fix.
+7. **Resources met with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page.
+> *“For years, no one wanted to admit this type of behavior was going on” (p6).*
+
+> *"I used to have some hope that it would be different, but no longer. With the VA, I don't expect anything because you'll only be disappointed" (p9).* 
+
+
+9. **Some harassment perpetrated by VA employees.** Some Veterans shared their own stories of harassment at VA, and especially disturbing are those where the perpetrator is a VA employee. This is a serious issue that needs to be addressed by the VA, and one that revising the landing page and poster isn't going to fix.
 
 
 
@@ -215,10 +250,20 @@ likes bold
     1. Have an eye-catching short title that's a call to action (e.g., from the current VA anti-harassment poster: "If you are harassed or sexually assaulted" in big bold letters).
     2. Just below the title, have the phone number/person/link to report (landing page and poster) and links to what you do when you report and what VA will do (landing page only) or a QR code for more information (poster only).
     4. (landing page only) Add details on what is/not harassment, especially verbal comments, along with messaging about if you feel uncomfortable, there's no need to satisfy specific rules or definitions of harassment. Ideally hide such details under links/accordions to avoid triggering.
-    5. (poster only) Minimize the number of words so it's easy to scan and understand in a short amount of time. 
+    5. (poster only) Minimize the number of words so it's easy to scan and understand in a short amount of time. Consider deleting the "What harassment is and when to report it" section at the bottom.
+
+1. Reconsider the audience of these harassment reporting materials:
+    1. Victims of harassment and witnesses of harassment--Highlight the importance of reporting harassment that you winess because that can help reduce the burden to report on the victims of harassment.
+    2. All genders including women and non-binary folks--With the current gender-neutral language, some women may feel unseen as targets of harassment. Consider acknowledging women specifically by using the word "women" in some places in the materials.
 
 
-1. The new web page and poster on harassment reporting is only one part of a larger communication plan needed across all of VA and individual facilities that needs to speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening.
+1. **Simplify the harassment reporting process to reduce the burden on the person reporting** because they may be distraught and not know whether what happened is assault, sexual assault, or harassment. Give them simple options for reporting so they don't have to try multiple options when they're upset. For example, provide only one phone number for reporting by phone so they don't have to figure out whether to call 911 or somewhere else. The people who receive these calls or in-person reports need trauma-informed training in what to do and how to support people who are reporting harassment. This includes VA providers and VA-contracted providers, who also might receive harassment reports.
+
+1. To report harassment by phone, there needs to be one phone number that you can call ANYTIME day or night. We need to focus on the user experience of the person gathering up the courage to report. The current phone number with limited hours and days will lead to fewer harassment reports and also likely erodes trust in VA. If there are some hours/days that the phone number isn't answered, there needs to be a message on it that tells callers how to report harassment in another way.
+
+1. Provide an online form to report harassment because that's more comfortable for some people.
+
+3. The new web page and poster on harassment reporting is only one part of a larger communication plan needed across all of VA and individual facilities that needs to speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening. One research participant suggested handing out a little card that has the the harassment reporting phone numbers, just like is currently done with VCL.
 
 # Next Steps
 
