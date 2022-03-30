@@ -12,8 +12,7 @@ Improvements & Bug Fixes
   BackEnd Release
   
   - Worked with IAM to fix login.gov staging & prod issue, additional mapping added to our authentication logic
-  - 
-
+  - Bug: Payment information endpoint fails.  Now returning 502 errors vs 500
 
 ## Release: 3/15/22
 
