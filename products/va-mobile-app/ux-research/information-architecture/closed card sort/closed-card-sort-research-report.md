@@ -23,6 +23,8 @@ Holly Collier, Melissa Lefevre
 
 [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#key-findings)
 
+[Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#detailed-findings-research-questionsanswered0
+
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#recommendations)
 
 [Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#participant-demographics)
