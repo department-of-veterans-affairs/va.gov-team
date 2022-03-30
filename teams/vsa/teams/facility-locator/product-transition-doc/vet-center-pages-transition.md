@@ -29,7 +29,7 @@ Vet Center pages were created to establish web presence for this group of underu
 Vet Center pages were intentionally designed to be lean, meeting the minimum needs expressed by Veterans (the location, hours and other details needed to visit along with information about services), based on
 - lessons learned from the VAMC modernized page roll-outs
 - input from MVP group of Vet Center editors and RCS leadership
-- fact that these pages establish online presence for the first timne (rather than replacing any existing pages)
+- fact that these pages establish online presence for the first time (rather than replacing any existing pages)
 Once the roll-out is complete, we plan to re-evaluate additional features, including the option for "a la carte" features for Vet Centers are interested and feel equipped to tackle additional areas. 
 
 ## Contacts
