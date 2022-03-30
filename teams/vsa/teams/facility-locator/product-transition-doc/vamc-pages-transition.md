@@ -97,7 +97,7 @@ The most critical path iteams are listed below but do not represent the total of
 - [VAMC product demo environment training](VACMS-product-demo-environments-training.pdf)
 
 ### Design-research
-- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources) | March 2022
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
 - [Lovell federal health feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md) | March 2022
 - [Mobile health clinics feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md) | March 2022
 - [VA health connect communications feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connect-communications.md) | March 2022
