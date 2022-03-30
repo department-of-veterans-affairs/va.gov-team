@@ -11,5 +11,5 @@ These are the test scripts that testers of the MEB follow for testing the UI and
 - The VA Section 508 Office performed MEB testing and certified zero defects found on 02/15/2022. Official VA Section 508 Validation Status can be provided upon request.
 
 ### Testing contacts
-MEB Lead: Cesar Santiago @ VA.gov Slack channel
-MEB Test Lead: Branden Bartlett @ VA.gov Slack channel
+- MEB Lead: Cesar Santiago @ VA.gov Slack channel
+- MEB Test Lead: Branden Bartlett @ VA.gov Slack channel
