@@ -79,7 +79,7 @@ The most critical path iteams are listed below but do not represent the total of
 
 ### Next 
 - **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
-- **Re-evaluate Left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
+- **Re-evaluate left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9946) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30770)
 - **Health service modalities (telehealth, virtual, mobile, etc)**
 
 ### Later
