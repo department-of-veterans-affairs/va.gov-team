@@ -21,13 +21,77 @@
 Brief plain-language description of the problem space where your team and its products operate
 
 ## Product portfolio
-### Product name
+### AMA Follow up 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites)
-- [Product outline]()
-- [Analytics dashboard]() (Domo or Google Analytics)
-- [Staging users and usecases]()
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/AMA%20Follow%20Up/AMA%20Follow%20Up%20Product%20Outline.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Benefit Hub
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Cerner Support 
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Home Page Banner 
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page-banner)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Home Page 
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
+- [Product outline]() -N/A
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### How to apply Wizards 
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/README.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### How we work 
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work#readme) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Search UI Consistency
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/search-ui-consistency/product-outline.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Site Wide Banner
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/sitewide-banner)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
 
 #### Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
