@@ -122,7 +122,6 @@ Outline your process; add notes.
     - Design intent: a collaboration with other VA teams for feedback on content, acccessibility, and IA
     - Midpoint review: a follow up meeting with key specialists and stakeholders (not including smaller check-ins and updates)
     - Staging review: where designers work with engineers to ensure front-end implementation meets design standards
-- [Other platform references used]()
 
 <br>
 
