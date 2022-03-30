@@ -16,7 +16,7 @@ The release plan will address how to test and release this application hosted on
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: 1/24/2022 - 2/18/2022
+- Desired date range or test duration: 04/01/2022 - 04/16/2022
 - Desired number of users: 5
 - How you'll recruit the right production test users: The selection of UAT users will be done in close collaboration with the VA Education team along with the My Education Benefits Product Owners assisting with testing.
 - How you'll conduct the testing: For UAT, we'll be standing up a production like instance of the Digital Gi Bill (DGIB) environment. This environment is the one responsible for providing veteran data (personal info, demographics, service history) and also for processing Chapter 33 education claims. We will create user accounts on the DGIB UAT environment and our testers will conduct their testing against these accounts. The testers will execute prepared test scripts to try the different possible scenarios for veterans submitting a claim.
