@@ -90,7 +90,5 @@ List your tools; add notes.
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ## UX researchers and designers
-- Person Name | email.address@va.gov -- UX researcher
-- Person Name | email.address@va.gov -- UX designer
-- Person Name | email.address@va.gov -- UX designer
+- Leyda Hughes -- UX researcher/designer
 
