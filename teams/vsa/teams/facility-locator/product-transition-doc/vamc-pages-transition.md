@@ -71,6 +71,8 @@ The most critical path iteams are listed below but do not represent the total of
     - _next up: research on dual eligibles to validate design for switching between DoD and VA experiences_
 - **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
     - _next up: Veteran research_
+      - [_research plan_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) 
+      - [_conversation guide_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md)
 - **Support for Cerner roll-out/EHRM single source of truth** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
     - Roseburg roll-out - planned for June 13, 2022
     - Columbus roll-out (TBD)
