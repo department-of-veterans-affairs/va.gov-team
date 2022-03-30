@@ -15,10 +15,17 @@
 - [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
 - [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
 
+**Other taxonomy documentation**
+- [Health service taxonomy Github product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy)
+- [Vaccination taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/vaccination-taxonomy/README.md)
+- [Vet Center service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
+- View or download the [VHA health services taxonomy](https://prod.cms.va.gov/vha-health-services) (_requires VA network connection but not Drupal credentials_)
+- The taxonomy lives and is maintained (i.e., edited) in [Drupal](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview) (_requires VA network connection_ and _Drupal credentials_)
+- The taxonomy is consumed by the [Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current) for use by all VA digital products, and public third-party products
+
 ## What to know about the product 
 
-### VHA Health Services Taxonomy
-
+**VHA Health Services Taxonomy**
 The VHA health services taxonomy is the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care. All VA digital health products should use the taxonomy.
 
 ## Contacts
@@ -27,17 +34,6 @@ Person | Email | Role |
 Dave Conlon | david.conlon@va.gov | Product owner
 Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
-
-**Taxonomy documentation**
-- [Health service taxonomy Github product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy)
-- [Vaccination taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/vaccination-taxonomy/README.md)
-- -Vet Center service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
-
-- View or download the [VHA health services taxonomy](https://prod.cms.va.gov/vha-health-services) (_requires VA network connection but not Drupal credentials_)
- 
-- The taxononmy lives and is maintained (i.e., edited) in [Drupal](https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview) (_requires VA network connection_ and _Drupal credentials_)
-
-- The taxonomy is consumed by the [Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current) for use by all VA digital products, and public third-party products: 
 
 **Taxonomy structure**
 
@@ -49,8 +45,6 @@ This is how the content is structured:
 - Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
 
 ## Product goals 
-
-
 
 ## Directory of taxonomy research 
 
