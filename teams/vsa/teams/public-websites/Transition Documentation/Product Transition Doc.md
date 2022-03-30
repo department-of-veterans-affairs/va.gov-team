@@ -124,7 +124,7 @@ Brief plain-language description of this product’s history and next steps
 > You can reference specific product outlines or the team charter if contact or meeting information exists there already
 ### Contacts
 
-- Person Name | email.address@va.gov -- Product owner
+- Dave Conlon | David.colon@va.gov -- Product owner
 - Person Name | email.address@va.gov -- Role
 - Person Name | email.address@va.gov -- Role
 - Person Name | email.address@va.gov -- Role
