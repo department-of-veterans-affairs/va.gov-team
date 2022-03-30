@@ -128,7 +128,9 @@ Now there are a couple of specific questions I have on this page.
 	* Go to the chat in zoom. It is located at the bottom of this zoom window and looks like a speech bubble.
 	* Click on the link for the optimal workshop card sort.
 	
-* On the left, we have various cards with information you might recognize from the My HealtheVet pages we just reviewed. On the right you can drag items and group them together. If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
+* On the left, we have various cards with information you might recognize from the My HealtheVet pages we just reviewed. 
+* On the right you can drag items and group them together. Try to think of these groups as broader categories rather than specific to the website we just looked at.
+* If you do not recognize what something is on one of the cards, or need me to explain it a bit more, let me know.
 * I started three groups for you, including one to place cards that don’t matter to you.
 	* If there is a card that doesn’t fit into any of the groups I made, you can create and name your own group. Let’s practice that.
 * Take the top card that says “Practice” and drop it into a column.
