@@ -142,6 +142,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
 - Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
 - Contact Center guide ticket [#38181](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38181)
+- Analytics - [Link Clicks Ticket #37589](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37589) and [API load success/fail Ticket #38739](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38739)
 - Staging ticket [#38376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38376)
 - Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
 
@@ -180,7 +181,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Dec 2021: Design work finalized
 - Jan 2022: Usability testing kickoff
 - Feb 2022: Finalize designs, development
-- Mar 2022: Complete QA _and begin UAT recruitment_
+- Mar 2022: Complete QA
 - _Apr 2022: Complete UAT_
 - _Apr 2022: Launch!_
 
