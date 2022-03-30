@@ -109,7 +109,7 @@ Brief plain-language description of this product
 - [Analytics dashboard]() (Domo or Google Analytics) - N/A
 - [Staging users and usecases]() - N/A
 
-### Out-reach events
+### Out-reach events and library
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events)
