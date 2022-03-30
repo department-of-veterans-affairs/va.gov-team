@@ -14,7 +14,7 @@ Although mobile clinics are very different than physical clinics in service offe
 
 _What is the problem?_
 
-The VMAC MVP detail page was designed with fixed locations offering multiple services in mind. As systems have rolled out nationwide, we realized there are other types of facilities - 
+The VAMC MVP detail page was designed with fixed locations offering multiple services in mind. As systems have rolled out nationwide, we realized there are other types of facilities - 
 - _mobile_ locations offering multiple services (mobile clinics)
 - fixed locations offering _one/minimal_ services (domiliciaries and community living centers) 
 
