@@ -24,7 +24,7 @@ Brief plain-language description of the problem space where your team and its pr
 ### Product name
 Brief plain-language description of this product
 
-- [Product folder]()
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites)
 - [Product outline]()
 - [Analytics dashboard]() (Domo or Google Analytics)
 - [Staging users and usecases]()
