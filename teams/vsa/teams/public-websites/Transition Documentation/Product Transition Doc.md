@@ -43,7 +43,7 @@ Brief plain-language description of this product
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md) 
 - [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ### Home Page Banner 
 Brief plain-language description of this product
