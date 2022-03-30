@@ -19,7 +19,7 @@ Links for notetakers:
 ## Moderator logistics
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - [ ] Mute your Slack notifications
-- [ ] Log into CAG and be prepared to log into [MHV on staging](https://mhv-syst.myhealth.va.gov/mhv-portal-web/home) in case the participant has trouble logging in. Use [the second user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mhv-lower-env-test-accounts.md) in the MHV lower environment user list
+- [ ] Log into CAG and be prepared to log into MHV on staging in case the participant has trouble logging in. Use [the second user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mhv-lower-env-test-accounts.md) in the MHV lower environment user list
 - [ ] Have the [Card sort link](https://p3y41d84.optimalworkshop.com/optimalsort/k3774wsz) ready
 - [ ] In the Attendees section, make sure everyone except the participant is on mute, and has changed their name to Observer.
 - [ ] Check your screensharing setup and share permissions for participants
@@ -51,6 +51,10 @@ Before we start, a few things I want to mention:
 ## Task 1: Review My HealtheVet Personal Info IA - 6 minutes
 **Task description:**
 - Now I’d like to take a look at My HealtheVet with you and get your thoughts on the personal information section of the site.  Can you go ahead and login, and then share your screen once you are logged in?
+- If participant cannot log in, moderator can log in on staging and share their screen to facilitate the conversation.
+	- Navigate to a browser on your VA virtual machine
+	- Go to MHV staging: https://mhv-syst.myhealth.va.gov/mhv-portal-web/home
+	- Use the second set of credentials on this list.
 
 **Begin:**
 
@@ -75,6 +79,9 @@ Now there are a couple of specific questions I have on this page.
 - Now talk to me about the “My VA Treating facilities” option. What is that for?
 - How did those boxes get checked?
 - How does it help you to be able to update this?
+- If applicable for participant:
+	- According to my notes, you’ve been to 2 different VA facilities in different states. Can you tell me a bit about what the experience has been like, going between the two?
+	- What has been challenging about managing health care across two different VA facilities?
 
 **Things to look out for:**
 - Which fields are most important for the participant to change?
@@ -134,6 +141,8 @@ Now there are a couple of specific questions I have on this page.
 
 * If participant created groups:
 	* Talk to me about the group you made. What does it mean to you?
+
+- When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
 
 **Moderator notes:**
 
