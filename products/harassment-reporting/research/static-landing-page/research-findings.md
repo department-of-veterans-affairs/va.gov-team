@@ -108,6 +108,16 @@ All 14 participants provided feedback on the landing page.
 5. **Expected to be able to report online.** Four participants expected a link on the landing page to report online and were disappointed when they couldn't find one. They wanted to be able to write out what happened in private instead of having to talk to someone, and also not get stuck on hold on the phone. One participant said that they would text VCL if they didn't want to talk to someone.
 > *"Sometimes you're on hold forever...I don't want to call the VA again...also if you're not comfortable talking about it" (p8).*
 
+1. There was **confusion about what happens after you report harassment**, some participants didn't read the "What to expect after you file your report" section, and others answered based on their own experiences with reporting at VA.
+  - 5 participants said they would want a followup to know the steps taken and their resolution, especially if the harassment was worse than a catcall. 
+  - 2 participants thought that nothing would happen after reporting and don't expect followup, although they would like to have it. 
+  - 1 participant expected to hear a timeline for the followup.
+ 
+  > *"I have been doing VA claims for MST and PTSD--extremely frustrating. I don't have a lot of confidence in their care and support" (p7).*
+
+  > *"When I did report it [to a patient advocate], nothing was done about it...'We'll get back to you', and then they disappear into the VA system, never to be seen or heard from again...Supposedly there was going to be an investigation, then nothing (p9)".*
+  - 
+
 7. **What participants *liked* about the landing page:**
 The following is a list of what participants mentioned liking about the landing page, with the number of participants who said this in parentheses if more than one:
     1. Definition of harassment and examples, including verbal comments so you know when you should report it (3 participants)
@@ -242,7 +252,7 @@ The following is a list of what participants mentioned liking about the landing 
 > *"Did you take my account seriously? If not, I will try the next resource...Don't want a single point of failure" (p4).*
 
   - **In-person with a patient pdvocate was the most popular way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences.  Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). (Do patient advocates currently do this?) Veterans shared about the frustrations they've had in trying to get issues at VA resolved and how they're often passed off from person to person, especially over the phone. We need the process of reporting harassment to be less of a burden so people will actually do it. Some participants said that they wouldn't report harassment to a VA-contracted medical provider or building security staff because of bad experiences they've had with them.
-> *"Best place...to get someone with authority. They get you to the right person...Have used patient advocates before in person and over the phone with mixed results" (p13).
+> *"Best place...to get someone with authority. They get you to the right person...Have used patient advocates before in person and over the phone with mixed results" (p13).*
 
   - Participants had different **reasons for wanting to report in person**:
     1. So the person you're talking to can see the anger/frustration in your face (2 participants)
