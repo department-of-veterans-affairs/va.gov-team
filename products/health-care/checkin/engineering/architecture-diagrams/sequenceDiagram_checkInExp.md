@@ -14,44 +14,39 @@ sequenceDiagram
     participant cw as Clinician Workflow
     participant url as URL Shortener Service
 
-    link c: info @ https://github.com/department-of-veterans-affairs/chip
-    link cw: info @ https://github.com/department-of-veterans-affairs/clinician_workflow
-    link l: info @ https://github.com/department-of-veterans-affairs/lorota
-    link url: info @ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/design-doc.md
-
     vet->>+vt: text "check-in"
     vt->>-c: initiate check-in
     activate c
     alt valid
       par
         c->>+va: get appointments
-        va-->>-c: appointments
+        va--)-c: appointments
       and
         c->>+va: check insurance validation
-        va-->>-c: validation not needed
+        va--)-c: validation not needed
       end
       par
         c->>+va: get demographics
-        va-->>-c: demographics
+        va--)-c: demographics
       and
         c->>+cw: get demographics confirmations
-        cw-->>-c: demographics confirmations
+        cw--)-c: demographics confirmations
       end
         c->>+l: save appointments
-        l-->>-c: documentId
+        l--)-c: documentId
         c->>+va: set status (E-CHECK-IN STARTED)
-        va-->>-c: documentId
+        va--)-c: status set
         c->>+url: get short url
-        url-->>-c: short url
+        url--)-c: short url
         c->>+t: call
-        t-->>-vet: send text (short url)
+        t-)-vet: send text (short url)
         deactivate c
     else unknown number
-        c->>t: call
-        t->>vet: send text (error phone not found)
+        c->>+t: call
+        t-)-vet: send text (error phone not found)
     else no appointments
-        c->>t: call
-        t->>vet: send text (error phone not found)
+        c->>+t: call
+        t-)-vet: send text (error phone not found)
     end
 ```
 
@@ -65,16 +60,14 @@ sequenceDiagram
     participant web as vets-website
     participant api as vets-api
 
-    link url: design @ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/design-doc.md
-
     activate vet
     vet->>+url: Click on "check-in" short URL
-    url->>-vet: 301 redirect
+    url--)-vet: 301 redirect
     vet->>+web: load "health-care/appointment-check-in"
-    web->>+api: check if session exists
-    api->>api: check in redis and session
-    api->>-web: session doesn't exist
-    web->>vet: redirect to login page
+    web->>+api: GET /sessions
+    api->>api: check if session exists
+    api--)-web: session doesn't exist
+    web--)-vet: redirect to login page
     deactivate vet
 ```
 
@@ -96,9 +89,9 @@ sequenceDiagram
         web->>+api: POST /sessions
         api->>api: check in redis and session
         api->>+l: POST /token
-        l->>api: 401 invalid auth
-        api->>-web: 401 invalid auth
-        web->>-vet: error page
+        l--)-api: 401 invalid auth
+        api--)-web: 401 invalid auth
+        web--)-vet: error page
         deactivate vet
     else valid auth
         activate vet
@@ -106,24 +99,24 @@ sequenceDiagram
         web->>+api: POST /sessions
         api->>api: check in redis and session
         api->>+l: POST /token
-        l->>-api: valid session
+        l--)-api: valid session
         api->>api: save token in redis
-        api->>web: return 'read.full'
+        api--)web: return 'read.full'
         deactivate api
         web->>+api: GET check-in appointments
         opt appointment identifiers exist
             api->>+c: refresh appointments
             c->>+va: get appointments
-            va->>-c: appointments
-            c->>-l: data
+            va--)-c: appointments
+            c--)-l: data
         end
         api->>+l: GET data
-        l->>-api: data
-        api->>-web: serialized data (appointments + demographics)
+        l--)-api: data
+        api--)-web: serialized data (appointments + demographics)
         opt demographics confirmations needed
-            web->>vet: demographics page
+            web--)vet: demographics page
         end
-        web->>-vet: appointments page
+        web--)-vet: appointments page
         deactivate vet
     end
 ```
@@ -147,26 +140,26 @@ sequenceDiagram
         web->>+api: PUT /demographics
         api->>+c: confirm demographics
         c->>+cw: set patient demographic status
-        cw->>-c: status set
-        c->>-api: response
-        api->>-web: response
+        cw--)-c: status set
+        c--)-api: response
+        api--)-web: response
     end
     web->>+api: POST /check-in
     api->>+c: check-in
     c->>+l: get appointment
-    l->>-c: appointment
+    l--)-c: appointment
     par
         c->>+va: set checkin
-        va->>-c: response
+        va--)-c: response
     and
         c->>+va: set appointment status (E-CHECKIN COMPLETE)
-        va->>-c: response
+        va--)-c: response
     and
         c->>+cw: set checkin step
-        cw->>-c: response
+        cw--)-c: response
     end
-    c->>-api: checkin successful
-    api->>-web: response
-    web->>-vet: successful checked in page
+    c--)-api: checkin successful
+    api--)-web: response
+    web--)-vet: successful checked in page
     deactivate vet
 ```
