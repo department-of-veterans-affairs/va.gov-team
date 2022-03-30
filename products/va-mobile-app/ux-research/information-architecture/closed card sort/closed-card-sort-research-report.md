@@ -13,7 +13,7 @@ Holly Collier, Melissa Lefevre
 
 **Jump to:**
 
-[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-goals)
+[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-goals)
 
 [Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#research-questions)
 
@@ -28,8 +28,6 @@ Holly Collier, Melissa Lefevre
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#recommendations)
 
 [Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#participant-demographics)
-
-[Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#next-steps)
 
 [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#appendix)
 
@@ -52,19 +50,11 @@ How do veterans think about the current and proposed pieces of content on the VA
 
 
 
-1. Do veterans understand the proposed categories?
-Yes, however...
-    1. Six participants suggested having sub categories would help. 
-    2. "Benefits", "account," and "payments" had crossover. Participants expressed uncertainty about these categories.
-    3. Seven people mentioned uncertainty about the payment section.
-2. Are there any cards that veterans felt uncertain about what category to place them in?
-    1. Yes, the following cards were split between 2 different categories.
-        1. Access letters and documents proving your veteran status
-        3.  COVID-19 updates & information
-3. Are there any categories missing?
-    1. Three participants added "Education"
-2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
-    1. Yes, there was a clear difference in responses from VA Mobile App users vs veterans not familiar with the mobile app. While the Health and Genaeral categories were similar for both with very high agreement (78% or above), the cards in "benefits", "account," and "payments" had a lower agreement (60% or less) for the non-mobie app userss.
+1. How do Veterans think about the current and proposed pieces of content on the VA Mobile app?
+    1. Do Veterans understand the proposed categories? 
+    2. Are there any cards that Veterans felt uncertain about what category to place them in?
+    3. Are there any categories missing?
+2. Does previous experience with specific services or tools within the VA (such as mobile app use) affect user mental models?
  
     
 
@@ -81,1238 +71,444 @@ Using Optimal Workshop, we conducted an unmoderated study in which participants 
 
 # Hypotheses and Conclusions
 
+Categories provided, and how we expected participants to sort cards: 
 
-1. Veterans will be able to categorize cards and name groups of cards presented in the card sort. 
-    i. **True**
-2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov. 
-    i. **False**
-While the category "Health" had cards with strong agreement, similar to how it is organized on VA.gov, The cards in categories Benefits, Account, Payments, and General VA information did not have the same strong agreement with the cards in the main buckets on va.gov. The Category labeled "health" in the card sort is also a category on VA.gov whereas all the other categories have different names. 
-3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
-    i. **True** 
-While the agreement was lower than expected for some of the cards in the payment category (46% on the low end), overall there was agrement with all of the payment cards we expected to be in the payment category.  
-4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
-    i. **False** Veterans did not create new categories that follow common app patterns. 
-
-# Results
-
-## Similarity Matrix
-![similarity-matrix (1)](https://user-images.githubusercontent.com/79866060/159011947-4c2d187d-668c-4604-ad54-1af8c03ce6a6.svg)
-
-
-## Standardization Grid
 
 <table>
   <tr>
-   <td>
-<strong>Name</strong>
-   </td>
-   <td><strong>Account</strong>
-   </td>
-   <td><strong>Benefits</strong>
-   </td>
-   <td><strong>Benefits (but not Payments)</strong>
-   </td>
-   <td><strong>Education</strong>
-   </td>
-   <td><strong>General VA Information</strong>
-   </td>
    <td><strong>Health</strong>
    </td>
-   <td><strong>Payments</strong>
+   <td><strong>Benefits</strong>
    </td>
-   <td><strong>VA Letters & Documents</strong>
+   <td><strong>Payments </strong>
    </td>
-   <td><strong>Not standardized</strong>
+   <td><strong>Account </strong>
    </td>
-  </tr>
-  <tr>
-   <td><strong>Access letters and documents proving your veteran status</strong>
-   </td>
-   <td>22
-   </td>
-   <td>14
-   </td>
-   <td>6
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
+   <td><strong>General VA Info </strong>
    </td>
   </tr>
   <tr>
-   <td><strong>Check the status of a disability claim you've filed</strong>
-   </td>
-   <td>8
-   </td>
-   <td>20
-   </td>
-   <td>15
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Check your disability rating</strong>
-   </td>
-   <td>9
-   </td>
-   <td>22
-   </td>
-   <td>11
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Check-in for your doctor appointment</strong>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>44
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Contact the VA</strong>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>45
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>COVID-19 updates & information</strong>
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>25
-   </td>
-   <td>18
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Find a VA location</strong>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>44
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Join a virtual doctor appointment</strong>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>43
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Make a doctor appointment</strong>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>41
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Manage the dependents benefitting from your disability compensation</strong>
-   </td>
-   <td>15
-   </td>
-   <td>18
-   </td>
-   <td>11
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Manage the types of notifications you would like to receive from the app</strong>
-   </td>
-   <td>34
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>12
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Manage your direct deposit information</strong>
-   </td>
-   <td>15
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>30
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Message your healthcare provider</strong>
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>41
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Pay your health care copay</strong>
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>5
-   </td>
-   <td>36
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Repay money you owe the VA</strong>
-   </td>
-   <td>5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>39
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Request a prescription refill</strong>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>43
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review a list of your prescribed medications</strong>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>42
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review balance of education funds remaining to you</strong>
-   </td>
-   <td>7
-   </td>
-   <td>20
-   </td>
-   <td>11
-   </td>
-   <td>3
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review pension payments the VA has made to you</strong>
-   </td>
-   <td>9
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>33
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review privacy policy</strong>
-   </td>
-   <td>7
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>38
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review reimbursements the VA has made to you for educational expenses</strong>
-   </td>
-   <td>4
-   </td>
-   <td>12
-   </td>
-   <td>
-   </td>
-   <td>3
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>27
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review the history of disability payments made to you</strong>
-   </td>
-   <td>6
-   </td>
-   <td>10
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>30
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your digital Veteran ID card</strong>
-   </td>
-   <td>36
-   </td>
-   <td>5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your direct deposit payment history</strong>
-   </td>
-   <td>4
-   </td>
-   <td>3
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>39
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your health record</strong>
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>42
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your history of vaccinations</strong>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>43
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your labs and test results</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>44
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your past & upcoming medical appointments</strong>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>42
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Review your personal information and set the address, phone numbers and email address associated with your account</strong>
-   </td>
-   <td>43
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Schedule a vaccination appointment</strong>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2
-   </td>
-   <td>42
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Share the app</strong>
-   </td>
-   <td>14
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>30
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Sign Out of the app</strong>
-   </td>
-   <td>28
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>17
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Submit a travel expense reimbursement</strong>
-   </td>
-   <td>7
-   </td>
-   <td>7
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>30
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Transfer GI bill dependents</strong>
-   </td>
-   <td>10
-   </td>
-   <td>20
-   </td>
-   <td>12
-   </td>
-   <td>3
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Turn on/off the ability to sign in with your finger print or face ID</strong>
-   </td>
-   <td>40
-   </td>
-   <td>1
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Your branch and period of military service</strong>
-   </td>
-   <td>34
-   </td>
-   <td>5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>5
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1
-   </td>
-   <td>1
+   <td>COVID-19 updates & information
+<p>
+vaccine records
+<p>
+make a doctor appointment
+<p>
+list of medical appointments
+<p>
+secure messaging
+<p>
+prescription refill request
+<p>
+schedule an immunization appointment
+<p>
+patient check-in
+<p>
+health record
+<p>
+join a video appointment
+<p>
+labs and tests
+<p>
+list of prescriptions
+   </td>
+   <td>claim status
+<p>
+VA letters and documents
+<p>
+GI bill balance
+<p>
+transfer GI bill dependents
+   </td>
+   <td>disability compensation
+<p>
+education payments
+<p>
+view direct deposit payment history
+<p>
+manage direct deposit
+<p>
+pay your health care copay
+<p>
+pay back your overpayments
+<p>
+pension payments
+<p>
+travel expense reimbursement
+   </td>
+   <td>disability rating
+<p>
+Veteran ID card
+<p>
+military information
+<p>
+personal and contact information
+<p>
+manage dependents
+<p>
+biometric sign on setting
+<p>
+notification settings
+<p>
+sign out
+<p>
+share this app
+<p>
+VA letters and documents
+   </td>
+   <td>contact the VA
+<p>
+find a VA location
+<p>
+privacy policy
    </td>
   </tr>
 </table>
 
-# Key Findings
-Overall, participants grouped cards in similar ways,  and the categories they created contained the same core groups of cards. In a small subset of cards, there was greater variation around category placement.
 
-1. Finding one: **With a few exceptions, participants agreed where cards should be sorted. They also sorted the cards into the categories we predicted** 
+
+1. **Veterans will be able to categorize cards presented in the card sort using the groups provided.**
+True
+
+2. **Veterans will categorize cards in a similar manner to how they are organized on VA.gov.** 
+Yes and no. In terms of categorizing cards similarly, participants grouped cards according to the new categories we created (Benefits, General VA Info) to represent a combination of several VA.gov subcategories (ex: participants sorted cards that correspond with the VA.gov “Disability claims”, “Education and training” and “Records” categories into the new mobile “Benefits” category), with few exceptions. They also filed cards that matched existing categories on VA.gov (Health, Account) into those categories. \
+In terms of categorizing cards differently from VA.gov, participants filed cards currently found in many sections on VA.gov under the new Payments category (more on that below). Participants mostly did _not_ create additional categories to correspond with the exact categories on VA.gov. 
+
+3. **Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.** 
+True. Overall, participants sorted payment-related cards into the new “Payments” category (7 out of 8 cards sorted into Payments had “high” or “very high” agreement). 
+
+4. **Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)**
+Yes and no. Veterans sorted cards having to do with their personal information into Account and cards related to the app’s settings into Account or General VA Info (Some apps in the wild include both personal info and app settings info in a single Account or Profile  category, others have a dedicated Settings category).
+
+
+# Key Findings
+
+* **Overall, participants grouped the cards provided in similar ways, and the categories they created contained the same core groups of cards**. In a small subset of cards, there was greater variation around category placement. 
+* **Overall, the categories participants created were in line with what we predicted** (more detail in the full findings). 
+* **Participants overwhelmingly agreed on which categories to place the majority of cards**, with 20 out of 36 cards having very high agreement (33 had “high” agreement or greater). That said, **more than half of participants (25) reported that they felt uncertain** about where to place one or more cards.
+* **Only a few participants created new categories** The only category created by more than one person was Education (3).
+* **The new Payments category performed well.** Despite the fact that a consolidated category does not yet exist on VA.gov, the majority of participants sorted payment-related cards into the new Payments category.
+* **Previous use of the VA Mobile app seemed to affect the way participants sorted cards** (19 participants who reported that they were VA Mobile App users grouped the cards in similar ways, whereas participants who reported that they were not VA Mobile App users grouped the cards in a variety of different ways).
+
+
+# Detailed findings (research questions—answered)
+
+
+### How do Veterans think about the current and proposed pieces of content on the VA Mobile app?
+
+
+
+* Participants agreed on which categories to place the majority of cards, with 33 out of 36 cards having at least “high” agreement in a single category among participants (20 had “very high” agreement)
+    * A few cards had lower agreement among participants (fewer than 60% sorted them into the same category):
+        * Education reimbursements from the VA (58% in Payments, 26% in Benefits, 8% in Account, 6% in Education)
+        * COVID-19 updates & information (54% in General VA Info, 39% in Health, 2% in Account, 2% in Benefits, 1% N/S)
+        * VA letters and documents (nearly even split of 43% in Benefits & 48% in General VA Info, 4% in General VA info, 4% in VA letters & documents
+* However, categories created by participants varied & there was some overlap between categories.
+    * Health was the strongest category, with most participants agreeing on the exact contents.
+    * The new Payments category had fair agreement among participants
+    * Cards within Payments, Account, Benefits, and General VA Info had high or very agreement.
+        * Participants sorted 33 different cards into Account, 22 different cards into General VA Info and  20 different cards into Benefits).
+        * There was also **overlap** in the cards sorted into the Benefits, Account & Payments categories. 
+    * Some participants also expressed uncertainty about these categories in our questionnaire.
+* **Categories created by participants mostly aligned with what we expected** (differences from our hypothesis highlighted in bold, cards with multiple placements indicated in italic):
+
 <table>
   <tr>
    <td>
-<strong>Health \
-</strong>(no change)
+<strong>Health</strong>
    </td>
    <td><strong>Benefits</strong>
-<p>
-(Claims)
    </td>
-   <td><strong>Payments \
-</strong>(New!)
+   <td><strong>Payments </strong>
    </td>
-   <td><strong>Account \
-</strong>(Profile)
+   <td><strong>Account </strong>
    </td>
-   <td><strong>General VA Info \
-</strong>(Home)
+   <td><strong>General VA Info </strong>
    </td>
   </tr>
   <tr>
-   <td>
-<ul>
-
-<li><em>COVID-19 updates & information</em>
-
-<li>vaccine records
-
-<li>make a doctor appointment
-
-<li>list of medical appointments
-
-<li>secure messaging
-
-<li>prescription refill request
-
-<li>schedule an immunization appointment
-
-<li>patient check-in
-
-<li>health record
-
-<li>join a video appointment
-
-<li>labs and tests
-
-<li>list of prescriptions
-</li>
-</ul>
+   <td>COVID-19 updates & information
+<p>
+vaccine records
+<p>
+make a doctor appointment
+<p>
+list of medical appointments
+<p>
+secure messaging
+<p>
+prescription refill request
+<p>
+schedule an immunization appointment
+<p>
+patient check-in
+<p>
+health record
+<p>
+join a video appointment
+<p>
+labs and tests
+<p>
+list of prescriptions
    </td>
-   <td>
-<ul>
-
-<li>claim status
-
-<li><em>VA letters and documents</em>
-
-<li>GI bill balance
-
-<li>transfer GI bill dependents
-
-<li><strong>disability rating</strong>
-
-<li><strong>manage dependents</strong>
-</li>
-</ul>
+   <td>claim status
+<p>
+VA letters and documents
+<p>
+GI bill balance
+<p>
+transfer GI bill dependents
+<p>
+<strong>disability rating</strong>
+<p>
+<strong>manage dependents</strong>
    </td>
-   <td>
-<ul>
-
-<li>disability compensation
-
-<li>education payments
-
-<li>view direct deposit payment history
-
-<li>manage direct deposit
-
-<li>pay your health care copay
-
-<li>pay back your overpayments
-
-<li>pension payments
-
-<li>travel expense reimbursement
-</li>
-</ul>
+   <td>disability compensation
+<p>
+education payments
+<p>
+view direct deposit payment history
+<p>
+manage direct deposit
+<p>
+pay your health care copay
+<p>
+pay back your overpayments
+<p>
+pension payments
+<p>
+travel expense reimbursement
    </td>
-   <td>
-<ul>
-
-<li><del>disability rating</del>
-
-<li>Veteran ID card
-
-<li>military information
-
-<li>personal and contact information
-
-<li><del>manage dependents</del>
-
-<li>biometric sign on setting
-
-<li>notification settings
-
-<li>sign out
-
-<li><em>share this app</em>
-
-<li>VA letters and documents
-</li>
-</ul>
+   <td><del>disability rating</del>
+<p>
+Veteran ID card
+<p>
+military information
+<p>
+personal and contact information
+<p>
+<del>manage dependents</del>
+<p>
+biometric sign on setting
+<p>
+notification settings
+<p>
+<em>sign out</em>
+<p>
+<em>share this app</em>
+<p>
+<em>VA letters and documents</em>
    </td>
-   <td>
-<ul>
-
-<li>contact the VA
-
-<li>find a VA location
-
-<li>privacy policy
-
-<li><strong>share this app</strong>
-
-<li><strong>COVID-19 updates & information</strong>
-
-<li><em>sign out</em>
-</li>
-</ul>
+   <td>contact the VA
+<p>
+find a VA location
+<p>
+privacy policy
+<p>
+<strong><em>share this app</em></strong>
+<p>
+<strong><em>COVID-19 updates & information</em></strong>
+<p>
+<em>sign out</em>
    </td>
   </tr>
 </table>
-Cards that were sorted into a different category than we expected are indicated above in **bold**. Cards that were sorted at least 30% into a second category appear in italics. 
-
-2. Finding Two: **Participants agreed on which categories to place the majority of cards, with 20 out of 36 cards having very high agreement (33 had “high” agreement or greater).**
-
-A few cards that had lower agreement among participants (fewer than 60% sorted them into the same category):
-
-* Education reimbursements from the VA (58% in Payments, 26% in Benefits, 8% in Account, 6% in Education)
-* COVID-19 updates & information (54% in General VA Info, 39% in Health, 2% in Account, 2% in Benefits, 1% N/S)
-* VA letters and documents (nearly even split of 43% in Benefits & 48% in General VA Info, 4% in General VA info, 4% in VA letters & documents
-
-**However, the cards participants sorted into each category varied & there was some overlap**
-
-* Health had the strongest agreement around cards of all the categories, 11/12 cards had very high agreement
-* Account, Benefits and General VA Info had the lowest agreement, at 6/7,  5/6 , and 4/5 with high agreement (These also felt like catch-all categories—participants sorted 33 different cards into Account,  22 into General VA Info and 20 in Benefits)
-* The new Payments category had fair agreement among participants, 7/8 cards had high agreement
-* There was some overlap in the cards sorted into the Benefits, Account, and Payments 
-
-    categories. Some participants also expressed uncertainty about these categories.
-
-
-See [Standardization grid ](#slide=id.g11e2a70868c_0_375)for detailed table of cards & categories
-
-
-3. Finding three: **Only a few participants created new categories**
-- 7 out of 46 participants created new categories
-- The most common new category created was Education (3). 
-- Other categories created: This App (1), VA Letters & Documents (1), Other (1), Computer/Cloud Documents (1)
-
-
-4. Finding four: **The new Payments category performed well**
-- Despite the fact that a consolidated category does not yet exist on VA.gov, the majority of participants sorted payment-related cards into the new Payments category.
-
-
-5. Finding five: **Previous use of the VA Mobile app seemed to affect the way participants sorted cards.**
-- 19 participants who reported that they were VA Mobile App users grouped the cards in similar ways.78% of participants agreed on the cards within Health, Benefits & Account 
-60% of participants agreed on the cards within General VA Info, Payments
-- 27 participants who reported that they were not VA Mobile app users, grouped the cards in a variety of different ways. 78% of participants agreed on the cards within Health, and General VA Info.  
-60% of participants agreed on the cards within Account, Benefits, Payments
-13 cards had lower (<50%) agreement. 
 
 
 
-6. Finding six: **Nearly all participants (42 of 46) reported that they understood the proposed categories**
 
-More than half of participants (25) reported that they felt uncertain about where to place one or more cards (21 participants said they did not): 
-- 7 participants mentioned uncertainty around Benefits
-    -   "Benefits, because almost everything fit somewhere else…” P7
-    -   “I felt uncertain about finding balance for benefits.” P6
-- 7  participants mentioned Payments
-    - “Payments to and from; documents, etc. establishing veteran status…” P14
-- 6 participants mentioned  a need for subcategories
-    - “...excessive number of cards in health and benefits without the ability to subcategorize…” P14
-    - “I would want separate benefits tabs… one for education benefits and one for disability benefits” P23
-- 2 participants mentioned Account
-    - “Anything with "MY" or my family status should be accessible in My personal account” P#1
+* 4 cards (disability rating, manage dependents, COVID updates & info and share this app) were sorted by a majority of participants into a different category than we anticipated.
+* 5 cards had stronger agreement in one category, but also had secondary category with over 30% agreement  (manage dependents, manage direct deposit, COVID 19 updates & info, share the app, sign out of the app)
+* 1 card (VA letters & documents) was sorted evenly between two categories \
+
+
+
+### Do Veterans understand the proposed categories? 
+
+Yes. Nearly all participants (42 of 46) reported that they understood the proposed categories
+
+
+### Are there any cards that Veterans felt uncertain about what category to place them in?
+
+    * Yes. More than half of participants (25) reported that they felt uncertain about where to place one or more cards (21 participants said they did not):
+* 7 participants mentioned uncertainty around Benefits
+    * "Benefits, because almost everything fit somewhere else…” P7
+    * “I felt uncertain about finding balance for benefits.” P6
+* 7 participants mentioned Payments
+    * “Payments to and from; documents, etc. establishing veteran status…” P14
+* 6 participants mentioned a need for subcategories
+    * “...excessive number of cards in health and benefits without the ability to subcategorize…” P14
+    * “I would want separate benefits tabs… one for education benefits and one for disability benefits” P23
+* 2 participants mentioned Account
+    * “Anything with "MY" or my family status should be accessible in My personal account” P#1
+
+
+### Are there any categories missing?
+
+Mostly no. Only a few participants created new categories
+
+* 5 out of 46 participants created new categories
+* The most common new category created was Education (3).
+* Other categories created: This App (1), VA Letters & Documents (1), Other (1), Computer/Cloud Documents (1) \
+
+
+
+### Does previous experience with the VA mobile app affect veteran mental models as they relate to the VA Mobile app?
+
+Yes, previous use of the VA Mobile app seemed to affect the way participants sorted cards.
+
+* 19 participants who reported that they were VA Mobile App users grouped the cards in similar ways. 78% of participants agreed on the cards within Health, Benefits & Account. 60% of participants agreed on the cards within General VA Info, Payments
+* 27 participants who reported that they were not VA Mobile app users, grouped the cards in a variety of different ways. 78% of participants agreed on the cards within Health, and General VA Info. 60% of participants agreed on the cards within Account, Benefits, Payments 13 cards had lower (&lt;50%) agreement.
 
 # Recommendations
 
-Overall, participants grouped cards in similar ways—the categories they created contained the same core groups of cards. In a small subset of cards, there was greater variation around category placement.
-
-Because these core groups were strong, we recommend moving forward with a Tree Test. 
+Overall, participants grouped cards in similar ways—the categories they created contained the same core groups of cards. In a small subset of cards, there was greater variation around category placement. Because these core groups were strong, we recommend moving forward rather than following up with another card sort.
 
 
-**Observations and Recommendations 1:**
-
-We recommend the following changes to improve clarity between categories and better match participants’ mental models:
+### We recommend the following changes to the high level IA to improve clarity between categories and better match participants’ mental models:
 
 **Health**
-
-
 
 * Keep category name & contents as proposed.
 * Explore adding subcategories in tree test taxonomy.
 
 **Payments**
 
-
-
 * Keep category name (could also consider an alternate label, ‘Money?’ if Payments doesn’t feel inclusive enough of both payments and debts); keep other content as proposed.
-* Move ‘Manage direct deposit’ into this category. 
+* Move ‘Manage direct deposit’ into this category.
 
 **Benefits**
 
-
-
 * Keep the category name, explore adding subcategories (Education and training, Disability claims and appeals) in taxonomy to address extensibility (allowing the app to grow in terms of benefit-related feature set).
-* Move ‘disability rating’ and ‘manage dependents’ into this category. 
+* Move ‘disability rating’ and ‘manage dependents’ into this category.
 
-~~Account** Profile**~~
+**Account** Profile****
 
-
-
-* Because it was a ‘catchall’ category for some participants, we recommend returning to “Profile” to better distinguish from Benefits category (“Account” label may be too general), explore adding subcategories in tree test taxonomy. 
+* Because it was a ‘catchall’ category for some participants, we recommend returning to “Profile” to better distinguish from Benefits category (“Account” label may be too general), explore adding subcategories in tree test taxonomy.
 * Move ‘VA letters & documents’ into this category
 
-~~General VA Info** N/A**~~
+**General VA Info** N/A****
+
+* Because it was a ‘catchall’ category for some participants, we recommend that we consider renaming this category or \
+dropping it altogether and having items live on Home (as they do currently).
+* Consider moving ‘Share this app’ into this category.
 
 
-
-* Because it was a ‘catchall’ category for some participants, we recommend that we consider renaming this category or  \
-dropping it altogether and having items live on Home (as they do  currently).
-* Consider moving ‘Share this app’ into this category. 
-
-Category recommendations for top-level navigation (updated based on closed card sort findings).
+### Category recommendations for top-level navigation (updated based on closed card sort findings & business goals). Items in italics have multiple placements.
 
 <table>
   <tr>
-   <td><strong>Health \
-</strong>(no change)
+  <td>**Health**
+
    </td>
-   <td><strong>Benefits</strong>
-<p>
-(Claims)
+   <td>**Benefits**
+
    </td>
-   <td><strong>Money</strong>
+   <td>**Payments**
+
    </td>
-   <td><strong>Profile</strong>
+   <td>**Profile**
+
    </td>
-   <td><strong>N/A \
-</strong>(Home)
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ul>
+   <td>**N/A** 
 
-<li><em>COVID-19 updates & information</em>
-
-<li>vaccine records
-
-<li>make a doctor appointment
-
-<li>list of medical appointments
-
-<li>secure messaging
-
-<li>prescription refill request
-
-<li>schedule an immunization appointment
-
-<li>patient check-in
-
-<li>health record
-
-<li>join a video appointment
-
-<li>labs and tests
-
-<li>list of prescriptions
-</li>
-</ul>
    </td>
    <td>
-<ul>
+   </tr>
+    <td>
+vaccine records
+   
+make a doctor appointment
 
-<li>claim status
+list of medical appointments
 
-<li><em>VA letters and documents</em>
+secure messaging
 
-<li>GI bill balance
+prescription refill request
 
-<li>transfer GI bill dependents
+schedule an immunization appointment
 
-<li><strong>disability rating</strong>
+patient check-in
 
-<li><strong>manage dependents</strong>
-</li>
-</ul>
+health record
+
+join a video appointment
+
+labs and tests
+
+list of prescriptions
+
+_COVID-19 updates & information_
+
    </td>
-   <td>
-<ul>
+   <td>claim status
 
-<li>disability compensation
+_VA letters and documents_
 
-<li>education payments
+GI bill balance
 
-<li>view direct deposit payment history
+transfer GI bill dependents
 
-<li>manage direct deposit
+disability rating
 
-<li>pay your health care copay
+manage dependents
 
-<li>Pay back your overpayments
-
-<li>pension payments
-
-<li>travel expense reimbursement
-</li>
-</ul>
    </td>
-   <td>
-<ul>
+   <td>disability compensation
 
-<li>Veteran ID card
+education payments
 
-<li>military information
+view direct deposit payment history
 
-<li>personal and contact information
+manage direct deposit
 
-<li>biometric sign on setting
+pay your health care copay
 
-<li>notification settings
+Pay back your overpayments
 
-<li>sign out
+pension payments
 
-<li><strong><em>VA letters and documents</em></strong>
-</li>
-</ul>
+travel expense reimbursement
+
    </td>
-   <td>
-<ul>
+   <td>Veteran ID card
 
-<li>contact the VA
+military information
 
-<li>find a VA location
+personal and contact information
 
-<li>privacy policy
+_VA letters and documents_
 
-<li><strong>share this app</strong>
+biometric sign on setting
 
-<li><strong><em>COVID-19 updates & information</em></strong>
-</li>
-</ul>
+notification settings
+
+sign out
+
+share this app
+
+privacy policy
+
    </td>
-  </tr>
+   <td>contact the VA
+
+find a VA location
+
+_COVID-19 updates & information_
+
+   </td>
 </table>
 
-**Observations and Recommendations 2:**
-As of 3/16/22, ‘COVID-19 updates’ isn’t on the VA.gov home page (but is still accessible via search, and vaccine information is included in the Health section)—we recommend following their lead in terms of including it on the homescreen.
+### Other Recommendations
 
 
-**Observations and Recommendations 3:**
-Based on the difference in mental model between mobile vs non-mobile user, we recommend considering onboarding or cross-references for some cards to address the gap.
 
-**Observations and Recommendations 4:**
-Consider testing the findability of items in the current app’s IA using TreeJack to set a benchmark (so we have something to compare the findability of items against) before testing the new IA.
+* As of 3/16/22, ‘COVID-19 updates’ isn’t on the VA.gov home page (but is still accessible via search, and vaccine information is included in the Health section)—we recommend following their lead in terms of whether or not to include it on the homescreen.
+* Based on the difference in mental model between mobile vs non-mobile user, we recommend considering onboarding or cross-references for some cards to address the gap.
+* Consider testing the findability of items in the current VA Mobile app’s IA using TreeJack to set a benchmark before testing the findability of items in the proposed IA.
 
 
-# Next Steps
-
-**Tree Test:**
-What will we test: The proposed taxonomy for the VA Mobile app, informed by two rounds of card sorts.* Test should cover all categories & represent both easy tasks and cards/tasks that were most confusing to users, limited to 8-10 tasks.
-Who: Veterans
-Why are we testing: We are testing the findability of tasks within our proposed IA—we want to see if our new categories and labels are intuitive for users.
-
-# Appendix
-
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
-
-[VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md#va-mobile-app-information-architecture--navigation---high-level-project-summary)
- 
- [VA Recruitment Checker Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
- 
- [2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
-
-## Tools used for Synthesis
-
-[Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
+# Participant Demographics
 
 ## Who participated in the study
 
@@ -1392,6 +588,23 @@ This research does not include the perspectives of the following marginalized Ve
 * Assistive Tech users
 
 [Appointments list recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
+
+
+# Appendix
+
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
+
+[VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md#va-mobile-app-information-architecture--navigation---high-level-project-summary)
+ 
+ [VA Recruitment Checker Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+ 
+ [2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
+
+## Tools used for Synthesis
+
+[Card sort qualitative Mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1647016990637?sender=uff1791dd79ec763420518644&key=e8da9144-d743-4e7a-9c0d-f2a1a43afa83)
+
+
 
 
 
