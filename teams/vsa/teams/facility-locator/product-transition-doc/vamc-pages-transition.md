@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-[Product Overview](#VAMC-modernized-pages-product-product-overview)
+[Product Overview](#VAMC-modernized-pages-product-overview)
 
 [History](#history)
 
