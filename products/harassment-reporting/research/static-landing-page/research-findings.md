@@ -207,14 +207,44 @@ The following is a list of what participants mentioned liking about the landing 
     1. How do you contact the VA police? Is there a phone #? Do you just flag them down? If so, where are they? Every location would have a different phone number and location. One participant said they they know that you can find security at the front desk, and VA police roam around but have an office in back.
 
 ## Attitudes around harassment and reporting
-1. When asked how they would report harassment, participants said they'd decide based on their current location (i.e., report in person if they're at a VA site vs. report by phone if they're at home), their own preferences, and their past experiences. Many said they'd try one method, and if it wasn't helpful, they would try a different way. 
+1. **Much harassment isn't reported for a variety of reasons.** Many participants said they wouldn't report harassment in the hypothetical situation discussed during the research session (on your way into a medical appointment, someone said something rude and made a sexual gesture that made you feel uncomfortable) or other times because of the following reasons:
+  - Didn't seem serious/bad enough or physical, vs. only verbal (7 participants)
+  - Just say something directly to the person and then try to forget about it (6)  
+  - Common for women in all-male work environments; females in the military are taught to not say anything about what happens (4)
+  - Wouldn't do any good if you don't know the name of the person (3)
+  - Concerned about retaliation if report in person at the facility where it happened 
+  - Fear of what it would do to the one who reports
+  - Don't report VA people because you need something from them
+  - Maybe I was just triggered by something else. Will talk it over with my therapist
+  - Didn't know that you could report harassment that happens at VA
+
+>  *“Tell the guy to f### himself. I would go report it to somebody. I’ve reported in the past and nothing was done so I would just go on with my day” (p9)*
+
+>  *"It happens a lot...have gotten used to it as a female...boys being boys...takes pride to not complain" (p14).*
+
+> *“Took me till 2019 [40 years] to share this [report MST after seeking treatment for PTSD]...“It’s a beautiful journey. I wrote the story” (p6).*
+
+> *"We don't know who it is, so there's nothing we can do about it" (p9).*
+
+> *If I call the 800 number now and tell them what happened a few weeks ago, what are they going to do? They can annotate what happened as far as statistics go. This happened so many times in this particular facility. Really they can't do anything to reprimand anybody" if they don't know their name (p3).*
+
+1. Participants said that they consider a number of **factors when deciding whether to report harassment**, including the following:
+  - How mad I got 
+  - Who did it and their age (i.e., homeless, older, VA employee)--would report if it was an employee because it could be repeated with others
+  - Who the person is and their age (i.e., homeless, older)
+  - Whether it happened repeatedly--would report if it did
+  - How rude it was, and whether it's worth the energy to try to get justice (2)
+
+> *"If it was a major offense--extraordinarily insulting because it takes energy to report" (p4).*
+
+1. Participants said they'd **decide HOW to report harassment based on their current location (i.e., report in person if they're at a VA site vs. report by phone if they're at home), their own preferences, and their past experiences**. Many said they'd try one method, and if it wasn't helpful, they would try a different way. 
 
 > *"Did you take my account seriously? If not, I will try the next resource...Don't want a single point of failure" (p4).*
 
   - **In-person with a patient pdvocate was the most popular way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences.  Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). (Do patient advocates currently do this?) Veterans shared about the frustrations they've had in trying to get issues at VA resolved and how they're often passed off from person to person, especially over the phone. We need the process of reporting harassment to be less of a burden so people will actually do it. Some participants said that they wouldn't report harassment to a VA-contracted medical provider or building security staff because of bad experiences they've had with them.
 > *"Best place...to get someone with authority. They get you to the right person...Have used patient advocates before in person and over the phone with mixed results" (p13).
 
-  - Participants had different reasons for wanting to report in person:
+  - Participants had different **reasons for wanting to report in person**:
     1. So the person you're talking to can see the anger/frustration in your face (2 participants)
     2. So you have a person's name who you can go back to if you have more information
     3. So it's more likely that the person bothering you is still there
@@ -228,9 +258,16 @@ The following is a list of what participants mentioned liking about the landing 
     - after seeing landing page
     - going forward
     
-    One participant said they would call Women's Veterans Call Center b/c more comfortable, safe talking with a woman about this
+    One female participant said they would call Women's Veterans Call Center because they would feel more comfortable and safe talking with another woman about this.
+    
+  - Two participants said that they wanted to be able to **report anonymously for safety or privacy reasons**. A third participant at first didn't see the "What if I’m not comfortable giving my name with my report?" accordion and so thought you couldn't report anonymously. Then they saw it and thought it sounded too complicated because the OIG sounds like a different organization.
 
-3. **Much harassment isn't reported for a variety of reasons.** Many participants said they wouldn't report harassment in the hypothetical situation discussed during the session (on your way into a medical appointment, someone said something rude and made a sexual gesture that made you feel uncomfortable) because it happens so often, didn't seem bad enough to report (not too offensive or physical), and wouldn't do any good if you don't know the name of the person. They'd just say something directly to the person and then try to forget about it. 
+  > *Reporting anonymously "sounds like more of a convoluted process, though, because leaving the VA and going into a whole other organization" (p8).
+  
+  > *"I very rarely go to the VA and don't run into somebody that I know...As a woman, it's hard for me to complain about anything...the military is a male-dominated thing, even more so in the Marines...If I'm going to report something, it would have to be pretty substantial, and I wouldn't want my name getting out there, my reputation destroyed because I've seen that happen before where someone comes forth to express being uncomfortable, and then it gets blown out of proportion, and the victim ends up turning into the criminal very quickly." (p14).*
+
+  > *"If sexually assaulted, I would want everyone to know. If catcalling, I would report anonymously because I'm afraid of what others would say. Should handle it myself...putting pressure on myself because I overthink it from my perspective and the other person's. How bad did it make me feel--harmless or psychologically damaging? Want to make the right decision to move forward. Report if something substantial because it takes resources and multiple people involved. "Have I felt victimized enough to complain about it?" (p14).*
+
 
 ## Broader VA context
 7. **Resources met with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page.
@@ -261,9 +298,12 @@ The following is a list of what participants mentioned liking about the landing 
 
 1. To report harassment by phone, there needs to be one phone number that you can call ANYTIME day or night. We need to focus on the user experience of the person gathering up the courage to report. The current phone number with limited hours and days will lead to fewer harassment reports and also likely erodes trust in VA. If there are some hours/days that the phone number isn't answered, there needs to be a message on it that tells callers how to report harassment in another way.
 
-1. Provide an online form to report harassment because that's more comfortable for some people.
+1. We need to get people more comfortable with reporting harassment. Providing an online form to report harassment would help.
+
+1. Consider making the anonymous reporting option more clear by adding the accordion on the same line as "Your name and contact information" under "Information we'll ask you to share", and also describing it in a more conversational tone.
 
 3. The new web page and poster on harassment reporting is only one part of a larger communication plan needed across all of VA and individual facilities that needs to speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening. One research participant suggested handing out a little card that has the the harassment reporting phone numbers, just like is currently done with VCL.
+4. VA has to **prove by *action* that that they'll do something useful with harassment reports**. It's not enough to say on a web page that VA will do something.
 
 # Next Steps
 
