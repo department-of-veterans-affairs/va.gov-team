@@ -6,6 +6,8 @@
 
 [Contacts](#contacts)
 
+[Taxonomy structure](#taxonomy-structure)
+
 [Product goals](#product-goals)
 
 [Directory of taxonomy research](#directory-of-taxonomy-research)
@@ -35,7 +37,7 @@ Dave Conlon | david.conlon@va.gov | Product owner
 Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
 
-**Taxonomy structure**
+## Taxonomy structure
 
 This is how the content is structured:
 
