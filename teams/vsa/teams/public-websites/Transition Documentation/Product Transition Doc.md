@@ -21,7 +21,7 @@
 Brief plain-language description of the problem space where your team and its products operate
 
 ## Product portfolio
-### AMA Follow up 
+### Appeal Modernization Process
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up)
@@ -96,9 +96,10 @@ Brief plain-language description of this product
 #### Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
 
-- Now
-- Next 
-- Later
+- Now [Events](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/28918)
+-     [Redirects]
+- Next [Columbus/Roseburg Cerner Launch](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/39062)
+- Later [Cerner Single source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/cerner.md)
 
 ## Product approach 
 
