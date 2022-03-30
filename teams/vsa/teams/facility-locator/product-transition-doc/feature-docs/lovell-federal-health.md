@@ -27,7 +27,7 @@
 [UX researchers and designers](#ux-researchers-and-designers)
 
 ## Feature background
-The VAMC modernized websites were designed to provide the top tasks and content that Veterans, families, and caregivers need most to prepare to visit a VA medical facility including location information, available health and social services, patient registration, and other acocount needs.
+The VAMC modernized websites were designed to provide the top tasks and content that Veterans, families, and caregivers need most to prepare to visit a VA medical facility including location information, available health and social services, patient registration, and other account needs.
 
 **Problem Statement** - The Captain James A. Lovell Federal Health Care Center serves Veterans and active duty military, their family members, and military retirees. They also care for an estimated 40,000 Navy recruits. Therefore, existing VAMC page design cannot support Lovell Federal health care system's unique needs.The Lovell health care system includes facilities which serve both Veterans and active duty personnel and other facilities which serve only Veterans or active duty personnel or enlisted recruits.
 VA and DoD benefits have different information and separate portals for completing tasks.
