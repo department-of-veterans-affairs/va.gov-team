@@ -329,8 +329,7 @@ Yes. Nearly all participants (42 of 46) reported that they understood the propos
 
 
 ### Are there any cards that Veterans felt uncertain about what category to place them in?
-
-    * Yes. More than half of participants (25) reported that they felt uncertain about where to place one or more cards (21 participants said they did not):
+Yes. More than half of participants (25) reported that they felt uncertain about where to place one or more cards (21 participants said they did not):
 * 7 participants mentioned uncertainty around Benefits
     * "Benefits, because almost everything fit somewhere else…” P7
     * “I felt uncertain about finding balance for benefits.” P6
@@ -382,12 +381,12 @@ Overall, participants grouped cards in similar ways—the categories they create
 * Keep the category name, explore adding subcategories (Education and training, Disability claims and appeals) in taxonomy to address extensibility (allowing the app to grow in terms of benefit-related feature set).
 * Move ‘disability rating’ and ‘manage dependents’ into this category.
 
-**Account** Profile****
+<del>Account</del> **Profile**
 
 * Because it was a ‘catchall’ category for some participants, we recommend returning to “Profile” to better distinguish from Benefits category (“Account” label may be too general), explore adding subcategories in tree test taxonomy.
 * Move ‘VA letters & documents’ into this category
 
-**General VA Info** N/A****
+<del>General VA Info</del> **N/A**
 
 * Because it was a ‘catchall’ category for some participants, we recommend that we consider renaming this category or \
 dropping it altogether and having items live on Home (as they do currently).
@@ -398,22 +397,20 @@ dropping it altogether and having items live on Home (as they do currently).
 
 <table>
   <tr>
-  <td>**Health**
+  <td><strong>Health</strong>
 
    </td>
-   <td>**Benefits**
+   <td><strong>Benefits</strong>
 
    </td>
-   <td>**Payments**
+   <td><strong>Payments</strong>
 
    </td>
-   <td>**Profile**
+   <td><strong>Profile</strong>
 
    </td>
-   <td>**N/A** 
+   <td><strong>N/A</strong>
 
-   </td>
-   <td>
    </tr>
     <td>
 vaccine records
