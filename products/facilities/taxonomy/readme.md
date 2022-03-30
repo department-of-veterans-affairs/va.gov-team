@@ -30,6 +30,8 @@ Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC
 
 **Taxonomy documentation**
 - [Health service taxonomy Github product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/medical-centers/services-taxonomy)
+- [Vaccination taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/facilities/vaccination-taxonomy/README.md)
+- -Vet Center service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
 
 - View or download the [VHA health services taxonomy](https://prod.cms.va.gov/vha-health-services) (_requires VA network connection but not Drupal credentials_)
  
