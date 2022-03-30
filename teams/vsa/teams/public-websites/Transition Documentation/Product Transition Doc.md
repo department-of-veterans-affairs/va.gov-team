@@ -131,15 +131,18 @@ Brief plain-language description of this product’s history and next steps
 
 ### Meetings
 
-- Meeting title
-   - Purpose
-   - Frequency
-- Meeting title
-   - Purpose
-   - Frequency
-- Meeting title
-   - Purpose
-   - Frequency
+- Public Website Daily Stand Up
+   - Team member briefly give update on what they are working on and discuss any blockers or decisions/information they might need.
+   - Monday, Wednesday, Thursday (Zoom) Tues + Fri (Slack)
+- Public Websites Team Backlog Grooming
+   - Add and remove Backlog Items, Change priority of items, Change Acceptance Criteria, Provide clarity on any item as requested
+   - Every other Wednesday 
+- Public Website Sprint Planning
+   - Set priorities for the coming up sprint and create any tickets needed
+   - Every other Wednesday
+- Public Websites Team Retro
+  - Time to Answer the Following for the past sprint- What went well, What didn't go as well, What could we improve
+  - Every other Wednesday 
 
 ### Open questions
 
