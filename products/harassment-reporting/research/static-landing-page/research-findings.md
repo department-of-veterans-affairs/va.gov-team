@@ -108,10 +108,17 @@ All 14 participants provided feedback on the landing page.
 5. **Expected to be able to report online.** Four participants expected a link on the landing page to report online and were disappointed when they couldn't find one. They wanted to be able to write out what happened in private instead of having to talk to someone, and also not get stuck on hold on the phone. One participant said that they would text VCL if they didn't want to talk to someone.
 > *"Sometimes you're on hold forever...I don't want to call the VA again...also if you're not comfortable talking about it" (p8).*
 
-1. There was **confusion about what happens after you report harassment**, some participants didn't read the "What to expect after you file your report" section, and others answered based on their own experiences with reporting at VA.
-  - 5 participants said they would want a followup to know the steps taken and their resolution, especially if the harassment was worse than a catcall. 
-  - 2 participants thought that nothing would happen after reporting and don't expect followup, although they would like to have it. 
-  - 1 participant expected to hear a timeline for the followup.
+1. There was **confusion about what happens after you report harassment**. Some participants didn't read the "What to expect after you file your report" section, and others spoke based on their own past experiences with reporting harassment at VA. Here some of the responses:
+  - Want a followup to know the steps taken and their resolution, especially if the harassment was worse than a catcall (5 participants) 
+  - Nothing would happen after reporting and don't expect followup, although they would like to have it (2)
+  - VA might send a letter to the perpetrator but this won't do anything for a civilian or a Veteran. The person who reports won't get any details due to privacy. Something might happen if if were a VA employee because they might get reprimanded and could lose their job if they don't change their behavior 
+  - Expects to hear a timeline for the followup
+  - Wonders how quickly they would hear back, and worried about how many other cases need to be followed up on "within 1 business day" (in subway step 1). If it takes more than a week, they'd have to re-live it again when asked what the perpetrator was wearing, etc. 
+  - Hopes that the perpetrator is reprimanded immediately and told that harassment isn't tolerated
+  - Assumes that the patient advocate would look for the person and get their side of the story
+
+
+> *Hoping for an immediate response or within an hour "while everything is still fresh in my mind" rather than "go into a black hole and who knows when I might get a response" (p5).*
  
   > *"I have been doing VA claims for MST and PTSD--extremely frustrating. I don't have a lot of confidence in their care and support" (p7).*
 
