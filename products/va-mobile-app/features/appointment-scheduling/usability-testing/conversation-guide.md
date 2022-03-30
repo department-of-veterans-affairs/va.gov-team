@@ -31,60 +31,65 @@ Thanks for joining the session! My name is Lauren and I am excited you are here.
 
 ## Warm up
 
-- For you, what stands out as a meaningful experience that you’ve had at the VA?
-- What services do you use at the VA?
+- What VA services do you use?
 	- *If they don’t mention healthcare. Have you ever used VA to manage your healthcare? What services?*
-- How do you typically access these services? Website, phone call, something else?
+- How do you typically access it? Website, phone call, something else?
+- For you, what stands out as a meaningful experience that you’ve had at the VA?
 - Anything else you’d like to share? 
 
 
 ### Task 1: Current appointment experience discovery interview. Conversational.
 
-Thank you for providing that information. It's helpful for me to understand your experience across a range of products. Now I want to ask you some questions about your overall experience with scheduling apppointments. 
+Thank you for providing that information. It helps me understand your experience across a range of products. Now I want to ask you some questions about your overall experience with scheduling apppointments. 
 
 **Overview**
 
-- Tell me your overall experience with booking appointments. 
+- Tell me about your experience with scheduling any type of appointment. 
 	* What things are more important to you? 
 	* What things are less important to you?
+- Do you schedule appointments online, over the phone, in person or a combination?
+	* What are some pain points about that experience?
 - How frequently do you make healthcare appointments?
-- Do you book appointments online, over the phone, in person or a combination? - What are some pain points about that experience?
 
 **Upcoming appointments**
 
-- How do you keep track of your upcoming appointments?
 - How far in advance do you schedule your appointments? Why?
+- What are some actions you take leading up to an appointment? 
 - Have you ever requested an appointment where you had to select different time slots? 
-- What are some actions you normally take leading up to an appointment? 
+- How do you keep track of your upcoming appointments?
 
 **After an appointment**
 
-- What are some actions you normally take after an appointment has occured?
-- Based on everything mentioned, do you manage VA appointments the same or differently from appointments outside the VA?
-	- If different, tell me more about this.
+- What are some actions you take after an appointment has occured?
 - If you could change one thing about the last experience, what would it be?
+- (skip if only discussed VA) With everything mentioned, do you manage your VA appointments the same way?
+	- If different, tell me more about this.
 
 **Things to watch: How the participant uses digital services to manage appointments. General actions they expect to occur after making an appointment.**
 
 
 ### Task 2: Appointment Request usability test. Prototype.
 
-Thank you for your insight. Now, I’d like to take a look at a list in the mobile app. If you have the handy, feel free to navigate to it and share your screen. If you don’t have it, no worries. I can share my screen and navigate locally if you tell me where to go.  
+Thank you for your insight. Now, we're going to take a look at a few things in a design prototype of a mobile app. If you have the link, feel free to navigate to it and share your screen. If you don’t have it, no worries. I can share my screen and navigate wherever you tell me to go.  
 
 [Link to prototype](https://www.sketch.com/s/7af71fd5-b940-4196-9402-c34b0861b441/a/9PJ5K9n)
 
+Before we select anything, let's just take a look at this. Feel free to scroll up and down, but stay on this list. 
 - What stands out to you first when looking at the landing screen?
         - Tell me more, or why is that?
-- Looking at this, what does “Request Appointment” mean to you?
-        - Does that feel useful?
+- What information do you notice when scanning this list of appointments?
+- Do you notice anything that says Pending? What does that mean to you? 
+- If you tap on “Request Appointment”, what would you expect to happen?
+        - Tell me more, or why is that?
 
-Now, I am goint to give you three scenarios I'd like you to work through as if you are using a mobile app to manage your appointment schedule. Feel free to talk aloud, sharing any thoughts you have as you work through it. I will also copy-paste each scenario into the chat feature for you to reference.
-- PROMPT: First, you need to make an Optometry appointment sometime in the near future.  
-- PROMPT: Next, you need to fetch the dates for a few appointments to confirm the details. 
+Now, I am going to give you three scenarios I'd like you to work through as if you are using a mobile app to manage your appointment schedule. Feel free to talk aloud, sharing any thoughts you have as you work through it. I will also copy-paste each scenario into the chat feature for you to reference.
+- PROMPT: First, you need to make an Optometry appointment for sometime in the near future.  
+- PROMPT: Next, you need to confirm the date and time information for a few upcoming appointments. 
 - PROMPT: Finally, you need to cancel an appointment.  
 
 *When Participant is finished with each task, if they did not talk through it, we will follow up for further insight*
-- What felt useful about this?
+- General thoughts?
+- What felt useful?
 - What are some pain points?
 - If you had questions, where would you go to get answers?
         
