@@ -24,6 +24,14 @@
 
 ## Feature background
 
+The VAMC MVP pages were designed with fixed locations offering multiple services in mind. As systems have rolled out nationwide, we realized this model doesn't fit 
+mobile locations offering multiple services (mobile clinics). Forcing them into the fixed location model can lead to misleading, incomplete and/or inaccurate information. 
+
+For example, the current VAMC page displays 
+- one address, which is probably where it is parked overnight - rather than representing the various locations where services are delivered/available
+- one set of hours - which may not represent true availability
+- parking and transportation information, which may not be relevant to a mobile location 
+
 ## UX design and research work products
 
 Phase	|	Purpose	|	Artifact	|	Notes
@@ -38,11 +46,17 @@ Design Validation	|	Purpose: to validate or invalidate the MVP design of the new
 Final design	|	MVP solution, "smallest slice", that unblocks health systems to publish mobile clinic facility pages with multiple schedules	|	[Prototype in UXPin - Oct 2021](https://preview.uxpin.com/20fd05cf8e86ce628f0c813166424d0a6ca38bfd#/pages/142019860/documentation/sitemap) - Final MVP design with specs and documentation / [UXPin file (.UXP)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/design/Mobile%20Clinic%20Schedule%20Section.uxp) - downloadable UXPin file, in case the prototype link ever breaks"	|	**Note:** This design **does not address** all the use cases uncovered as detailed in [discovery research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/research-findings.md) and [design validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery-round-2/research-findings.md) documentation
 Knowledge transfer	|	Knowledge transfer: VHA Mobile clinic design, recorded October 29, 2021	|	  https://user-images.githubusercontent.com/55411834/139921388-36f62447-ec80-4524-88b9-bb1a47ef6e91.mp4	|	
 
+### UX research studies
+Research should be conducted to validate that the new design 
+- helps Veterans understand how to find mobile clinic options at the system level (new grouping on VAMC Locations page)
+- includes the information Veterans expect to find for mobile clinics
+- supports understanding about mobile clinic location and service availability 
+
 ## Process milestones
 Include notes about which Platform process was in use when this feature was in design and development.
 
-- [Design intent]
-- [IA review]
+- [Design intent #24691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24691) | May 2021
+- [Design intent #29050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29050) | August 2021
 
 ## Other feature documentation
 - [**Initiative brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/initiative-brief.md)
