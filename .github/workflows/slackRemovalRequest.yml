@@ -29,7 +29,6 @@ jobs:
           slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
           slack-channel: vsp-slack-user-management
           slack-text: Hello! Please remove ${{ steps.request.outputs.command-arguments }} from DSVA Slack based on issue URL ${{ github.event.issue.html_url }} 
-          slack-optional-as_user: "false"
           slack-optional-icon_emoji: ":robot_face:"
           slack-optional-unfurl_links: "false"
           slack-optional-unfurl_media: "false"
