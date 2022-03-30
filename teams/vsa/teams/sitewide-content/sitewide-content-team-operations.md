@@ -12,6 +12,8 @@ Stakeholders from the different VA benefit offices will reach out via VA email f
 Sometimes the stakeholder needs a phone number updated, a link or dollar amount changed on the page, or some other small fix. Other times, they're asking to add new information or rework content that's currently on the page. Within a day of the email, a Sitewide Content team member will reply to the stakeholder that we've received the email and will review the information and get back to them with further questions. The PM will create a ticket for the work and the content team will use the assessment criteria for updating existing pages to determine how best to proceed. <br>
 [Read the assessment criteria for updating current VA.gov pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/VBA%20Stakeholders.md)
 
+**Note:** If the ask is urgent and it's a simple change (updating a link, changing a phone number or address, etc.) we don't need to send a preview link to the stakeholder. We can publish the change and send a link to the live page once it's available.
+
 [Read the document given to stakeholders explaining the collaboration between Sitewide Content and benefit offices for updating VA.gov pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/Content-updates-Drupal-editorial-process-032521.docx) [We need to update some of the info in this, including content team members and the CMS content release times]
 
 ### Product team requests
