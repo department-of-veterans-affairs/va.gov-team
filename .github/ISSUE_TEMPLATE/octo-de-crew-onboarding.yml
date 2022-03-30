@@ -19,6 +19,15 @@ body:
       - Mobile
       - Platform
       - Sitewide
+- type: dropdown
+  id: cop_name
+  attributes:
+    label: What OCTO Community of Practice is the team member part of?
+    multiple: false
+    options:
+      - Design
+      - Engineering
+      - Product
 - type: checkboxes
   attributes:
     label: Has user received VA.gov email address?
