@@ -93,6 +93,46 @@ Brief plain-language description of this product
 - [Analytics dashboard]() (Domo or Google Analytics) - N/A
 - [Staging users and usecases]() - N/A
 
+### Campaign Landing page
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/b719d7ce5f5496ef8cf25fad0c20c3684d4748ba/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/b719d7ce5f5496ef8cf25fad0c20c3684d4748ba/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates#readme) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Disability Rating Calculator
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities/README.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Out-reach events
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Global Header and footer
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/global/header-footer-and-navigation)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/global/header-footer-and-navigation#readme) 
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
+### Emergency and Promotional Banners
+Brief plain-language description of this product
+
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/emergency-banner)
+- [Product outline]() -N/A
+- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- [Staging users and usecases]() - N/A
+
 #### Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
 
