@@ -8,8 +8,6 @@
 
 [Taxonomy structure](#taxonomy-structure)
 
-[Product goals](#product-goals)
-
 [Directory of taxonomy research](#directory-of-taxonomy-research)
 
 ## Key resources 
@@ -27,8 +25,13 @@
 
 ## What to know about the product 
 
-**VHA Health Services Taxonomy**
-The VHA health services taxonomy is the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care. All VA digital health products should use the taxonomy.
+The service taxonomy was originally designed as the _**VHA health service taxonomy**_ and intended to be the official, customer-facing list of services offered across VA's 1,200 health care facilities. It was designed to create a consistent naming system for patients enrolled in VA health care and used by all VA digital health products. Over time, the taxonomy is evolving into the **_VA service taxonomy**_ which extends beyond purely health services and supports Vet Centers and other VA business lines, such as VBA. 
+
+The creation of an inclusive taxonomy representing a range of benefits and services allows for naming consistency plus the ability to map overlapping services delivered by different types of facilities. For example, counseling services are offered at VA medical facilities _and_ Vet Centers. Some readjustment services are delivered at Vet Centers _and_ VBA locations _plus_ by VBA representatives inside VA medical facilities. 
+
+The content structure of the taxonomy accommodates the nuances of certain services.
+
+By using a universal, inclusive taxonomy, we allow searchability, improve findability, and reduce the cognitive load on Veterans. 
 
 ## Contacts
 Person | Email | Role |
@@ -39,14 +42,10 @@ Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC
 
 ## Taxonomy structure
 
-This is how the content is structured:
-
 - Service name (required): Cardioloy
 - Patient-friendly name: Heart and circulation
 - Common conditions: heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
 - Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
-
-## Product goals 
 
 ## Directory of taxonomy research 
 
