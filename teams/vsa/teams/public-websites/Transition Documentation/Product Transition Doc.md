@@ -104,7 +104,7 @@ Brief plain-language description of this product’s history and next steps
 
 ### Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites#readme)
-- [Other]()
+- [DOMO dashboard](https://va-gov.domo.com/page/1314425343)
 - [Other]()
 
 ### Research and design
