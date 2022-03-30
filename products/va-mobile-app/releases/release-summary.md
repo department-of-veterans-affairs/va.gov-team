@@ -8,6 +8,11 @@ Improvements & Bug Fixes
   - Enable multi image upload capabilities
   - Bug fixes (constant display of snack bar)
   - Bug fixes-Styling & formatting on deleting photo uploads
+  
+  BackEnd Release
+  
+  - Worked with IAM to fix login.gov staging & prod issue, additional mapping added to our authentication logic
+  - 
 
 
 ## Release: 3/15/22
