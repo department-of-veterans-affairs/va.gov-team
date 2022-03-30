@@ -1,6 +1,6 @@
 
 
-# Closed Card Sort Research Findings 
+# VA Mobile App - IA & Navigation Research: Closed Card Sort Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Mobile App**
 
