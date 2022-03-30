@@ -35,7 +35,7 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
   - Do staff have to answer any questions about the pre-check-in experience?
   - How would adding telemedicine appointments to the pre-check-in experience impact staff?
 - How do Veterans and staff feel about pre-check-in and the mobile check-in solutions?
-- What is the current pre-registation process for telemedicine appointments, particularly telephone appointments?
+- What is the current pre-registration process for telemedicine appointments, particularly telephone appointments?
 - What challenges are staff experiencing related to telemedicine appointments, particularly telephone appointments?
 - How are patient record flags currently used?
   - How would staff like to review patient record flags in the future?
