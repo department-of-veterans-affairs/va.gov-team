@@ -38,13 +38,15 @@ body:
     id: ssh-key
     attributes:
       label: Public SSH Key
-      description: Requred for SOCKS. If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
+      description: If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
         ---
-        For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D).
+        For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D).
         If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
 
         CC: @department-of-veterans-affairs/vsp-operations
