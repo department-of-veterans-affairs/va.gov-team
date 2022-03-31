@@ -35,6 +35,7 @@ The Facilities team portfolio includes the following unauthenticated products:
 ## Roadmaps and planning
 - [2021 quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Facilities%204Q21%20Quarterly%20planning%20(1).pdf)
 - [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
+- [1Q 2022 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/2022%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE%20-%20Unnamed%20Area%20(1).pdf)
 
 ## Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
