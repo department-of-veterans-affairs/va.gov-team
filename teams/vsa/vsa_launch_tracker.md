@@ -80,6 +80,7 @@ Health care Exp	|  Check-in Experience	| 	Launch of Pre-Check-in MVP	| 	8/26/202
 10-10 Team | HCA	| 	Update Insurance copy	| 	1/12/2022	| 	yes	| 	Clarify insurance info requested to alleviate confusuion.	|
 Auth Exp - Profile | VA.gov Profile | Enable Profile access with Login.gov credentials | 1/25/2022 | yes | Allow users with Login.gov credentials to access VA.gov Profile and Direct Deposit pages.|
 Auth Exp - Profile | VA.gov Profile | Remove Fax Number | 2/1/2022 | yes | Remove defunct fax number field from Contact information page.|
+Auth Exp - Profile | VA.gov Profile | Remove Gender Field | 2/7/2022 | yes | Remove gender field from VA.gov Personal Information to improve inclusivity. |
 Claims & Appeals | Higher Level Review | Form updates and enhancements | 2/24/2022 | Yes | Allows veterans the ability to submit a request for a decision review
 Facilities	| 	Vet Centers	| 	50% of Vet Centers launched	| 	2/9/2022	| 	no	| 	Establishing a web presence for Vet Centers - Veterans can find out about nearby Vet Centers and the services they provide	| 	
 |10-10 Team| Caregiver (10-10CG) | Improve Legal Representative Experience (50%) | 2/10/2022 | yes | Better prepare legal rep applicants via content changes that clarify legal rep eligibility and valid documentation| | 
