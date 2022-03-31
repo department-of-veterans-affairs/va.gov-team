@@ -32,7 +32,7 @@ This research fits into the Veteran journey at these key moments:
 **The main goals of this study are:**
 1) To identify where Veterans expect to find the various methods of communication that VAMC pages provide.
 2) To validate the labels used to describe the communication methods found on VAMC pages.
-3) To identify why a Veteran would chose one particular communication method as opposed to another.
+3) To identify why a Veteran would choose one particular communication method as opposed to another.
 
 **Secondary goals include collecting supplemental feedback:**
 - What is confusing to Veterans?
@@ -41,17 +41,17 @@ This research fits into the Veteran journey at these key moments:
 
 ### Outcome
 
-Currently, not all communication methods available to Veterans are present on each VAMC page. This study will determine which VAMC pages should have what communication methods, and how those communications methods should be described and labled. This usability study will directly inform upcomign design changes to  VAMC pages.
+Currently, not all communication methods available to Veterans are present on each VAMC page. This study will determine which VAMC pages should have what communication methods, and how those communications methods should be described and labeled. This usability study will directly inform upcoming design changes to  VAMC pages.
 
 ### Research questions
 
-1) Where do Veterans expect to find each of the different methods of communication?
+1) Where do Veterans expect to find each of the different methods of communication? [Note: may need to confirm that the participant knows what each of these are, or onboard them in some way during the study.]
 	- VA Health Chat
 	- Secure messaging
 	- VA health connect (24/7 phone)
 	- VA telehealth
-2) How do Veterans expect communications methods to labeled/described? 
-3) Under what circumstances do Veterans choose particular communications methods?
+2) How do Veterans expect communications methods to be labeled/described? 
+3) Under what circumstances do Veterans choose specific communications methods?
 4) Which communication methods do Veterans prefer overall, and how does this impact their elevation/placement on VAMC pages?
 
 ### Hypotheses
@@ -60,7 +60,7 @@ Currently, not all communication methods available to Veterans are present on ea
 2) Most participants will prefer methods of communication *other* than phone numbers.
 3) Most participants will find phone number labeling adequate.
 4) Most participants will prefer at least one page that lists all available communication methods (ie. on the Contact Us page).
-5) Most participants will have similar use cases for particular communication methods (ie. secure messaging for appointments).
+5) Most participants will have similar use cases for specific communication methods (ie. secure messaging for appointments).
 
 ## Method	
 
@@ -86,15 +86,16 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 	- A tree test using system-level health care links/headings
 	- A tree test using facility-level health care links/headings
 - Goals
-	- Gives us specific data on where Veterans feel communiction methods should be located on VAMC pages, based on side navigation links, and page headings.
+	- Gives us specific data on where Veterans feel communication methods should be located on VAMC pages based on side navigation links, and page headings.
 
-**4) Contexual inquiry**
+**4) Contextual inquiry**
 
-Contexual inquiry will utilize a [Mural board with sections for different scenarios](https://app.mural.co/t/vsa8243/m/vsa8243/1646769310259/6ca0b11d0a55138780cfc6a03f4da72718e5932e?sender=u8a90be72499ecb4354e14700).
+Contextual inquiry will utilize a [Mural board with sections for different scenarios](https://app.mural.co/t/vsa8243/m/vsa8243/1646769310259/6ca0b11d0a55138780cfc6a03f4da72718e5932e?sender=u8a90be72499ecb4354e14700).
 
 - Method
 	- Asking specific questions about existing labels, based on micro-scenarios.
 	- Asking specific questions about which communication method Veterans would use for a given micro-scenario.
+	- [Note: It may be benefificial to explore participant mental models before showing them labels]
 - Goals
 	- Gives us feedback on communications elements themselves, as opposed to where they are located. This is also a chance to capture general feedback and suggestions that may not have come up in previous tasks.
 
