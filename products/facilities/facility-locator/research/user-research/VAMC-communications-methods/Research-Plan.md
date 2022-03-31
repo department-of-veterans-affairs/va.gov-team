@@ -6,7 +6,7 @@
 
 [#34431 - Methods for contacting VAMCs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34431)
 
-Unauthenticated VAMC site pages give Veterans multiple methods for contacting their doctors, patient advocates, and other members of their broader health care team. The variety of communication methods, and their placement on VAMC site pages, needs to be validated with Veteran feedback in order to determine which methods Veterans find the most useful, where it is most useful to Veterans to place this information on site pages, and how Veterans actually go about searching for this information in general.
+Unauthenticated VAMC site pages give Veterans multiple methods for contacting their doctors, patient advocates, and other members of their broader health care team. The variety of communication methods, and their placement on VAMC site pages, needs to be validated with Veteran feedback in order to determine which methods Veterans find the most useful, where it is most useful to Veterans to place this information on site pages, and where Veterans expect to find these different methods.
 
 ### OCTO Objectives 
 
@@ -78,7 +78,7 @@ This usability test will use staging/production sites as appropriate.
 - Goals
 	- Gives us data on how Veterans search for communication methods on VA.gov, where Veterans generally expect to find this information, and their overall impressions of this experience.
 
-**3) Tree test**
+**2) Tree test**
 
 Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.com/treejack/) tools.
 
@@ -88,7 +88,7 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 - Goals
 	- Gives us specific data on where Veterans feel communication methods should be located on VAMC pages based on side navigation links, and page headings.
 
-**4) Contextual inquiry**
+**3) Contextual inquiry**
 
 Contextual inquiry will utilize a [Mural board with sections for different scenarios](https://app.mural.co/t/vsa8243/m/vsa8243/1646769310259/6ca0b11d0a55138780cfc6a03f4da72718e5932e?sender=u8a90be72499ecb4354e14700).
 
@@ -124,9 +124,9 @@ Using Perigean recruiting, we would like to schedule **20 participants** to reac
 	- *Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing*
 - *At least 2 participants under 35 years old*
 - *At least 2 participants over 55 years old*
-- *At least 1 participant with cognitive disabilities*
+- *At least 2 participant with cognitive disabilities*
 - *At least 5 participants with no college degree or professional certificates*
-- *At least 3 participants of color*
+- *At least 5 participants of color*
 
 **Secondary criteria (nice-to-haves)**
 - *Mix of Veterans and Caregivers*
