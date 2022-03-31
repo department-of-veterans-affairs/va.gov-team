@@ -15,8 +15,8 @@ Last update 3/31/2022
 
 | Test case                                 | Intended outcome                                             | Staging User           | Prototype link |
 | ----------------------------------------- | ------------------------------------------------------------ | ---------------------- | -------------- |
-| LOA1 user has not verified their identity | User sees warning message stating that we can't load all of their profile information, and they are prompted to verify their identity | Any LOA1 user          |                |
-| Any LOA3 user logs in and selects Profile from the menu under their name in the header                           | User lands on the Personal information page           | Any verified LOA3 user |                |
+| LOA1 user has not verified their identity | User sees warning message stating that we can't load all of their profile information, and they are prompted to verify their identity | Any LOA1 user          |    [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post:            |
+| Any LOA3 user logs in and selects Profile from the menu under their name in the header                           | User lands on the Personal information page           | Any verified LOA3 user |  [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post:              |
 
 ### Test cases for Personal information page
 
