@@ -9,6 +9,9 @@ Last Updated 3/31/2021
 
 ## Personal Information Page - Blank State
 
+### Page URL
+- https://www.va.gov/profile/personal-information
+
 ### Specification
 The Blank state is similar to the Read-Only state, except that the Veteran has not yet added a value for a given field.
 
@@ -79,7 +82,7 @@ Edit your profile to add a preferred name <br>
    - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 ---
-**Gender identity** <br>
+**Gender identity**<br>
 
 ### Info Link
 "What to know before you share your gender identity"
@@ -90,6 +93,7 @@ If you want to share your gender identity in your health records only, talk with
 
 Edit your profile to add a gender identity<br> 
 {Edit button}
+
 ---
 
 ## Personal Information Page - Read-Only State
@@ -159,7 +163,7 @@ July 16, 1957
 
 
 **Preferred Name** <br>
-Share this information if you'd like us to use a first name that's different from your legal name when you come in to VA.
+Share this information if you'd like us to use a first name that's different from your legal name when you come in to VA.<br>
 Hector<br>
 {Edit button}
 
@@ -188,7 +192,12 @@ Man<br>
 ## Personal Information Page - Edit State
 `In the Edit state, only _one_ section may be edited at a time.  The information that is shown below takes the place of the corresponding section in the Read-Only state.`
 
-### Specification
+### Page URL
+- https://www.va.gov/profile/personal-information
+
+### Sketch Mockups
+- [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/GmRgyxE) `depicts all Edit states simultaneously, which will not happen on the actual page`
+- [Personal Information Page - Mobile Blank state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/KvxAd9y) `depicts all Edit states simultaneously, which will not happen on the actual page`
 
 ### Form Field Edit State Labels and Selection Options
 
@@ -196,7 +205,7 @@ Man<br>
 `Date of birth cannot be edited; should be displayed in a read-only state`
 
 **Preferred Name** <br>
-[Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxpjY)
+[Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxpjY)<br>
 Share this information if you'd like us to use a first name that's different from your legal name when you come in to VA.
 
 Provide your preferred name (25 characters maximum)(\*Required)  
