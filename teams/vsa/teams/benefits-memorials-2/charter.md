@@ -46,7 +46,7 @@
   - Consistent Customer satisfaction, reliability and secure online UX
 
 - **Team Mission Statement:** To help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
-- **Our Team Vision:** To make VA.gov  the "go-to" resource for Veterans to easily review all of their real-time debt information easily and reliably. 
+- **Our Team Vision:** To make VA.gov  the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. 
 
 
 ## Team Members
