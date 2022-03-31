@@ -1,5 +1,5 @@
 # Contact Information Front-End Documentation
-The Contact information page will follow the same patterns as is currently used in Production.  The only change is that the Date of birth and Gender (now "Birth sex") have been moved to the [new Personal info page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/personal-info-copy.md).
+The Contact information page will follow the same patterns as is currently used in Production.  The only change is that the Date of birth has been moved to the [new Personal info page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/personal-info-copy.md).
 
 ## Contact Information Page - Default State
 
