@@ -236,7 +236,6 @@ Select your gender identity (\*Required)<br>
 {Radio button}A gender not listed here<br>
 {Update button}{Cancel button}<br>
 
----
 `*Note - the Required label should only be displayed if the user clicks Update without making a selection. If no selection is made, the field is not denoted as required.`
 
 ## Related Slack Threads
