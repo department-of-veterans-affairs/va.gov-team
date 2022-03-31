@@ -40,7 +40,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 
 ## Use Case B 
 
-* **Description** Authenticted / Disability rating of 40% - [pre-populated rating or no rating (self-report)]
+* **Description** Authenticated / Disability rating of 40% - [pre-populated rating or no rating (self-report)]
   - Veteran is logged-in (authenticated) and we don't have a disability rating of 40% or lower.
     - General flow: Customer progresses through standard authenticated flow and enterans Veteran Info
     - Upon reaching the "Current Compensation from VA" screen, they select the radio button option for a disability rating of 40% or lower
