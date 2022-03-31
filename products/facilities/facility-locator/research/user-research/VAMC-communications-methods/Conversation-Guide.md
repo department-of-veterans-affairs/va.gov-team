@@ -9,8 +9,8 @@ Thank you note takers! Here's a breakdown of what we're hoping to highlight in t
 - **Which** communication methods have Veterans used?
 - **What** communications methods do Veterans prefer to use?
 - **How** do Veterans locate these communication methods? (This involves the usability tasks outlined below)
-- **When** do Veterans consider using particular communications methods - under what circumstances?
-- **What** labels or descriptions to Veterans associate with these communications methods?
+- **When** do Veterans consider using specific communications methods - under what circumstances?
+- **What** labels or descriptions to Veterans associate with these communication methods?
 
 ## Moderator logistics
 
@@ -36,12 +36,12 @@ Thank you note takers! Here's a breakdown of what we're hoping to highlight in t
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Nick, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the different ways of communicating with VA facilities and health care personell, that are available on site pages. 
+Thanks for joining us today! My name is Nick, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the different ways of communicating with VA facilities and health care personnel, that are available on site pages. 
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **During this session, you may need to share your screen.** Are you comfortable sharing your screen?
     - **Yes:** Ok, please make sure no personal information like email, etc. is visible on your screen before you share.
     - **No:** Ok no problem, for our tasks today I will share my screen and you can walk me through your process - I will explain again before we start.
@@ -57,10 +57,12 @@ Before we start, a few things I want to mention:
 
 1) Can you tell me a little bit about how you communicate with your health care team: what methods have you used?
     - **If none:** How would you prefer to communicate with your health care people?
-2) Do you have a preferred method of contacting VA facilities or health care personell?
+2) Do you have a preferred method of contacting VA facilities or health care personnel?
     - **If yes:**
         - Why do you prefer that one?
+        - Is there anything you wished was different about this experience?
         - How did you learn about, or find it?
+        - Have you used other methods?
     - **If no:**
         - Is there a method that you would prefer, that we don't have?
 3) How would you describe a good communication method - what makes it a good one for you?
@@ -96,17 +98,17 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 
 1) Tree test from system-level health care page
     - Side nave tree test
-        1) VA Health Chat allows for real-time chat messages with a VA health care personell. Under which heading, if any, would you expect to find VA Health Chat?
-        2) VA telehealth allows you to video call VA health care personell. Under which heading, if any, would you expect to find VA telehealth?
+        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Under which heading, if any, would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personnel. Under which heading, if any, would you expect to find VA telehealth?
         3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
     - Page heading/top task tree test
-        1) VA Health Chat allows for real-time chat messages with a VA health care personell. Under which heading, if any, would you expect to find VA Health Chat?
-        2) VA telehealth allows you to video call VA health care personell. Under which heading, if any, would you expect to find VA telehealth?
+        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Under which heading, if any, would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personnel. Under which heading, if any, would you expect to find VA telehealth?
         3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
 3) Tree test from facility-level health care page
     - Page heading tree test
-        1) VA Health Chat allows for real-time chat messages with a VA health care personell. Under which heading, if any, would you expect to find VA Health Chat?
-        2) VA telehealth allows you to video call VA health care personell. Under which heading, if any, would you expect to find VA telehealth?
+        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Under which heading, if any, would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personnel. Under which heading, if any, would you expect to find VA telehealth?
         3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
 
 **Moderator notes:**
