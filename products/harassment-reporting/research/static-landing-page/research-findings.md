@@ -51,6 +51,14 @@ ALL participants were given the URL for the landing page on the Staging server a
 
 After reviewing the landing page (and maybe the poster), research participants were asked whether they had any experiences with harassment at VA. 
 
+## Harassment and participant safety (trauma-informed research)
+
+Because harassment is a potentially triggering subject, we wanted to be careful about recruiting people to participate in this research. We wanted to have some Veterans who have experienced harassment at VA and are able to participate in research sessions without re-triggering the trauma that they've experienced. Our plans to help ensure participant safety included the following:
+- Provided an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
+- Worked with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
+- Limited the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
+  - For each session with a participant using a screen reader, have an accessibility specialist as the observer to help with any technical issues.
+
 # Hypotheses and Conclusions
 1.  
     1. MOSTLY TRUE: 
@@ -305,11 +313,36 @@ In this research, we tested the landing page and poster and got user feedback on
 
 > *"There is such a core belief in the military about sexual harassment and what it is and what it means to do it...I got out in '96 and avoided the VA for 17 years because I couldn't stand the harassment...better now because they recognize that harassment does exist...it can be said, 'you can't do that to me, you need to stop'...When I got out, it was 'don't make a scene, don't say anything, you're going to get in trouble'...One VA in California--I think it's Palo Alto--any woman Veteran who has used them loves them...they have a separate entrance, you get assigned case managers for things, and very pro-women. Unfortunately the one I'm at isn't like that. I don't understand why that's not the standard at every VA hospital because if it's such a priority, you'd make it a priority to treat us better...That plays into the abuse we get. We aren't treated with respect, so why should anybody else have to be treating us with respect...If the core institution is so all over the place with it, why is anyone else going to stop and be respectful?...The VA and the military both need to do some reckoning with how they serve women and how they treat assaults...You've got somebody who lived in that for 4 years--a guy or a girl--and they come out and go right into a similar situation. It almost seems indoctrinated into them" (p9).*
 
-9. **Some harassment is perpetrated by VA employees.** Some Veterans shared their own stories of harassment at VA, and especially disturbing are those where the perpetrator is a VA employee. This is a serious issue that needs to be addressed by the VA, and one that revising the landing page and poster isn't going to fix.
+9. **Four participants shared stories of harassment by VA employees or the VA facility in general.** Some research participants shared their own stories of harassment at VA, and especially disturbing are those where the perpetrator is a VA employee. This is a serious issue that needs to be addressed by the VA, and one that revising the landing page and poster isn't going to fix. Below is a summary of these stories.
+
+
+    1. p14 was once asked by a **VA employee** for her disability rating, and she said "100%". The VA employee then laughed and said, "who'd you have to do to get that?" 
+    1. p7 requested a female provider but didn't get one. She didn't feel comfortable with the **male VA provider** she saw--she didn't feel seen, didn't feel heard, and he wasn't addressing the root issues. He prescribed medication, which she didn't want. She asked for a different provider, for which she had to fill out a form. After that, the male provider called her and was defensive and berated her about not feeling comfortable with him. It took years for her to get a female provider, and now she's making progress without medication.	
+    2. While p9 was in a 2-month residential PTSD program, the **VA program director** did something bad (not named). She almost committed suicide because of it. She told the patient advocate what happened, and the advocate didn't report it she said that p9 had to do it herself. It took p9 a while to get better, and when she was, she no longer felt like reporting it and so never did. 
+
+> *"It requires a lot of extra effort to bring things to people's attention, and I didn't have the mental wherewithall to do it at the time" (p9).*	
+
+ 3. For her retirement, p4's VA packet said to talk with a provider about your ailments. She saw a **VA-contracted provider** twice who heard about her MST and said, "I don't know what this is", and countered her story with "maybe you're misperceiving this." The provider must have had no training in MST and being trauma-informed. He didn't make her feel at ease and heard--no empathy or compassion.	
+
+    1. p9 is a breast cancer survivor, and there are no women doctors at her VAMC to take care of her (**VAMC/clinic staffing**).
+    2. p9 once showed up for her gynecological exam, and was told that they had no gown for her to wear (**VA clinic supplies**). 
+    
+    > *“Stuff like that feels really humiliating" (p9).*
+
+
+1. **Four participants shared stories of harassment by other Veterans or visitors to VA.** Below is a summary of their stories.
+    1. p7 is a female Veteran who is asked by older **male Veterans**, "Are you here waiting for your husband?" She says, "No, I'm the Veteran". They don't understand that there are women Veterans.
+    1. p3 was harassed by an older couple in the waiting room waiting to be seen. The woman asked, "Are you 100%?" He said "Yes", and she said, “Well, we're only at 80%. We've been trying to get 100% for years, and they still won't bump us...You don't look like you're 100%, you don't look like you're completely disabled...you look fine to me”. "She kept harassing me about the way I looked physically and the way that her husband looked that I shouldn't be 100% but more like 50%. That really pi&&ed me off, but I just kind of brushed it off and ignored them. I didn't really think much of it until now." p3 sensed their frustration with VA and brushed it off. He realized during the research session that this was actually harassment, and someone else with PTSD could have been triggered by that. Asking someone their disability rating is like asking what they get paid. **Veteran's spouse or Veteran**
+    1. In a VA pharmacy, a guy's phone was blasting music loudly, and p9 couldn't hear what the pharmacist was saying because she's deaf in one ear. She asked the person nicely to please turn down the music, and he yelled profanity at her and wouldn't do it. She went to a cop for help, and the cop asked, "What do you want me to do about it?" and didn't do anything. The cop grilled her as to why she went to them, and she felt like a victim. He said he couldn't remove him from the building, and wouldn't stay there with her. p9 reported this, but never heard nothing back.	**unknown person**
+    1. p8 is non-binary and has been told in a VA site that they're in the wrong bathroom. They try looking for a single unisex bathroom. **unknown person**
 
 1. **Veterans' experiences interacting with the VA differ tremendously** 
 - One participant said that she's had wonderful experiences at her VA site, but she knows from Veteran groups on Facebook that more harassment happens at other sites.
 - A non-binary participant said that some of their VA clinics have become more welcoming of LGTBQ+ Veterans in the last few years, with posters about Pride month and LGBTQ+ Veterans, and having a separate Women's Clinic.
+- A female participant said that VA missed an opportunity to do something nice for women. Her picture was featured in the [I am not invisible](https://www.va.gov/womenvet/iani/index.asp) campaign at her VAMC, but nobody told her that she was being recognized for this. They just hung up the picture, and a friend of hers saw it and told her. 
+
+> *“That would have been a perfect opportunity for them to do something to recognize women, but they ruined it” (p9).*
+
 - Another participant talked about his frustration trying to reach VA on the phone, getting repeatedly transferred to different departments and people or disconnected without resolving his problem. And when talking to someone in person, they sometimes accuse you of being hostile.
 
 > *"If you get too loud or anything at the VA nowadays, they want to punch out that stress card and talk about how you're the one needing to calm down...they take frustration and loud voice as a threat...when you're trying to bust through the frustration of being handed off to 4 different offices over the phone, and you finally get maybe the right office, and you're trying to voice that something ain't right...and then someone says, 'hey, you need to calm down, you sound kinda hostile'...not having the right person in front of you who doesn't know how to deal with someone in crisis. Maybe it's a volunteer that doesn't have the right training" (p13).*
@@ -318,7 +351,9 @@ In this research, we tested the landing page and poster and got user feedback on
 
 
 ## Feedback on the trauma-informed research methods
-SUMMARIZE WHAT WAS DIFFERENT and how participants reacted 
+Below are a few findings that relate to the traum-informed research methods we used. 
+1. 
+
 
 # Recommendations
 
