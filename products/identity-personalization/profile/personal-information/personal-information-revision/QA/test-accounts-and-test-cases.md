@@ -16,7 +16,7 @@ Last update 3/31/2022
 | Test case                                 | Intended outcome                                             | Staging User           | Prototype link |
 | ----------------------------------------- | ------------------------------------------------------------ | ---------------------- | -------------- |
 | LOA1 user has not verified their identity | User sees warning message stating that we can't load all of their profile information, and they are prompted to verify their identity | Any LOA1 user          |    [Desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/QA/images/Security_error.png)            |
-| Any LOA3 user logs in and selects Profile from the menu under their name in the header                           | User lands on the Personal information page           | Any verified LOA3 user |  [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post:              |
+| Any LOA3 user logs in and selects Profile from the menu under their name in the header                           | User lands on the Personal information page           | Any verified LOA3 user |  [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3)              |
 
 ### Test cases for Personal information page
 
