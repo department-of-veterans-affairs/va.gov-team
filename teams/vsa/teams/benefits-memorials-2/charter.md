@@ -3,6 +3,7 @@
 ### **Table of Contents:**
 
 - [Product Portfolio](#product-portfolio)
+- [Staging Users and Use Cases](#staging-users-and-use-cases)
 - [Roadmap](#roadmap)
 - [Guideposts](#guideposts)
 - [Team Members](#team-members)
@@ -29,7 +30,8 @@
 |[Combined VA Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)  |TBD      |TBD  |[#36135](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/36131) ||TBD
 |[Combined FSR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr)  |TBD      |TBD |[#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)|TBD |TBD |
 
-
+## Staging Users and Use Cases
+Debt Resolution Staging Users are captured by Product on [**this document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md).
 
 ## Roadmap
 
