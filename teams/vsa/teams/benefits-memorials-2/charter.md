@@ -125,6 +125,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 - [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
+- [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
 
 
 
