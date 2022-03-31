@@ -41,6 +41,9 @@ Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC
 ## Vet Center pages product roadmap
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
+[1Q 2022 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/2022%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE%20-%20Unnamed%20Area%20(1).pdf)
+
+The most critical path items are listed below but do not represent the total of issues on the backlog.
 
 ### Now
 - **Publish remaining District 1 and 4 pages** | [Publishing runbook - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md) 
