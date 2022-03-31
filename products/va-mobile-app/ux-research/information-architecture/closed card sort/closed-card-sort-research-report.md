@@ -204,7 +204,7 @@ Yes and no. Veterans sorted cards having to do with their personal information i
     * A few cards had lower agreement among participants (fewer than 60% sorted them into the same category):
         * Education reimbursements from the VA (58% in Payments, 26% in Benefits, 8% in Account, 6% in Education)
         * COVID-19 updates & information (54% in General VA Info, 39% in Health, 2% in Account, 2% in Benefits, 1% N/S)
-        * VA letters and documents (nearly even split of 43% in Benefits & 48% in General VA Info, 4% in General VA info, 4% in VA letters & documents
+        * VA letters and documents (nearly even split of 43% in Benefits & 48% in Account, 4% in General VA info, 4% in VA letters & documents
 * However, categories created by participants varied & there was some overlap between categories.
     * Health was the strongest category, with most participants agreeing on the exact contents.
     * The new Payments category had fair agreement among participants
