@@ -1,12 +1,12 @@
 # Profile Personal Information Test/Use Cases & Users
 
-Last update 3/30/2022
+Last update 3/31/2022
 
 [Test cases for LOA1 user and LOA3 user](#test-cases-for-loa1-user-and-loa3-user)<br />
 [Test cases for Personal information page](#test-cases-for-personal-information-page)<br />
-[Test cases for Cersonal information page](#test-cases-for-contact-information-page)<br />
-[Test cases for blank state](#test-cases-for--blank-state)<br />
-[Test cases for successful add](#test-cases--successful-add)<br />
+[Test cases for Contact information page](#test-cases-for-contact-information-page)<br />
+[Test cases for blank state](#test-cases-for-blank-state)<br />
+[Test cases for successful add](#test-cases-for-successful-add)<br />
 [Test cases for unsuccessful add](#test-cases-for-unsuccessful-add)<br />
 [Test case for save error](#test-case-for-save-error)<br />
 
@@ -22,11 +22,11 @@ Last update 3/30/2022
 
 | Test case                                                    | Intended outcome                                                                                                               | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| User navigates to **Personal information** page              | H1 reads "Personal information" and only fields on page are for Personal info. No contact info fields should be present.<br /> | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| User interacts with `Why do we ask for this?` component      | If closed, should open to reveal content<br />If open, should close to hide content                                            | Any LOA3 user | [Desktop] :triangular_flag_on_post:                          |
-| User interacts with `How do I update my name, date of birth, or sex assigned at birth?` component | If closed, should open to reveal content<br />If open, should close to hide content       | Any LOA3 user | [Desktop]                                                    |
-| User reviews Name, Sex assigned at birth and date of birth   | All three fields should be read-only and contain no buttons to edit or remove      | Any LOA3 user | [Desktop]
-| User reviews Preferred name, Preferred pronouns, Gender identity, and Sexual orientation fields  | All four fields should be editable and contain an Edit button     | Any LOA3 user | [Desktop]         |
+| User navigates to **Personal information** page              | H1 reads "Personal information" and only fields on page are for Personal info. No contact info fields should be present.<br /> | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34) |
+| User interacts with `How to update your legal name` component      | If closed, should open to reveal content<br />If open, should close to hide content                                            | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34):                          |
+| User interacts with `How to fix an error in your name or date of birth` component | If closed, should open to reveal content<br />If open, should close to hide content       | Any LOA3 user | [Desktop]                                                    |
+| User reviews Date of birth   | Field should be read-only and contain no buttons to edit or remove      | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34)
+| User reviews Preferred name and Gender identity fields  | Both fields should be editable and contain an Edit button     | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34)         |
 
 ### Test cases for Contact information page
 
