@@ -126,7 +126,7 @@ If you've changed your legal name, you'll need to tell us so we can change your 
 
 ### Info Link
 "How to fix an error in your name or date of birth" <br>
-_On click, this info link will display the following see see [this Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/YG7mz7d) for reference
+_On click, this info link will display the following_ see [this Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/YG7mz7d) for reference
 
 If our records have a misspelling or other error in your name or date of birth, you can request a correction.  We'll ask for a current photo ID that shows proof of the correct information.  We'll accept a government-issued photo ID, driver's license, or passport as proof.
 
@@ -222,18 +222,19 @@ Provide your preferred name (25 characters maximum)(\*Required)
 ### Info Link
 "What to know before you share your gender identity"
 _On click, this info link will display the following_ see [this Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/eKYxzDm) for reference
+
 We follow strict security and privacy practices to keep your information secure. But you should know that any information you share in your VA.gov profile goes into your VA-wide records. Veterans Benefits Administration and National Cemetery Administration staff can also access this information.
 
 If you want to share your gender identity in your health records only, talk with your health care team.
 
 Select your gender identity (\*Required)<br> 
-{Radio button}Man
-{Radio button}Non-binary
-{Radio button}Transgender man
-{Radio button}Transgender woman
-{Radio button}Prefer not to answer
-{Radio button}A gender not listed here
-{Update button}{Cancel button}
+{Radio button}Man<br>
+{Radio button}Non-binary<br>
+{Radio button}Transgender man<br>
+{Radio button}Transgender woman<br>
+{Radio button}Prefer not to answer<br>
+{Radio button}A gender not listed here<br>
+{Update button}{Cancel button}<br>
 
 ---
 `*Note - the Required label should only be displayed if the user clicks Update without making a selection. If no selection is made, the field is not denoted as required.`
