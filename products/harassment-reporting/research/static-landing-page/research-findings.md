@@ -351,8 +351,19 @@ In this research, we tested the landing page and poster and got user feedback on
 
 
 ## Feedback on the trauma-informed research methods
-Below are a few findings that relate to the traum-informed research methods we used. 
-1. 
+Below are a few findings that relate to the trauma-informed research methods we used. 
+
+1. One participant **lauded the presence of a clinician** during their research session. "Dr. L" refers to the name of the social worker.
+
+> *“Impressed with having Dr. L here to support me” (p6).*
+
+2. **None of the participants appeared to have been triggered** during the research sessions, although two of them shed a few tears. At the end of one of those two sessions, the social worker checked in with the participant to ask if they needed support. The participant declined this offer because she had already thought of that and had scheduled time with a friend to talk afterwards.
+
+3. We had a **very low participant no-show rate of 13%** (1 no-show and 1 cancellation out of 15 participants scheduled), which might be due to the additional screening questions and session topic that Perigean was asked to share with potential participants before scheduling them. Perhaps these questions enabled participants to be better prepared to engage on the topic of harassment at VA. One participant shared why she was participating:
+
+> *"“I hold out hope the VA will change, and that’s why I participate in this stuff” (p9).*
+
+4. **All 14 participants said they were OK with the observers present** in the session. There was a social worker observing most of the sessions (10 of 14), and for the 4 sessions without one, a VA team member volunteered to keep a close eye on the participant. In every session, the social worker (or designated team member) appeared on camera and was introduced to the participant by the moderator. The moderator also describer her own role and said that there was a notetaker and another observer from the team, and asked the participant if they were comfortable proceeding. 
 
 
 # Recommendations
