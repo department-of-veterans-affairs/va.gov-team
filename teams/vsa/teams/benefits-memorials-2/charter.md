@@ -2,41 +2,20 @@
 
 ### **Table of Contents:**
 
-- [Product Portfolio](#product-portfolio)
-- [Staging Users and Use Cases](#staging-users-and-use-cases)
-- [Roadmap](#roadmap)
 - [Guideposts](#guideposts)
-- [Team Members](#team-members)
-- [Contact Information](#contact-information)
+- [Team Details](#team-details)
 - [VA Relationships](#va-relationships)
 - [Meeting Cadence](#meeting-cadence)
 - [Team Workflow](#team-workflow)
 - [GitHub Guidelines](#github-guidelines)
 - [Issue Estimation](#issue-estimation)
-- [Standard Issue Structure](#standard-issue-structure)
+
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 
 
-## Product Portfolio
 
-|**Product Folder**        |**Product Outline** |**KPIs**         |**GitHub Epic**                   | **Release Plan**        
-|-----------------------|------------------------------|----------|------------------|------------------|
-|[Medical Device Reordering Tool (mDOT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)       |TBD       | [mDOT KPI Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)   |TBD      |TBD       | TBD|
-|[Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp) |TBD |[Debt Portal DOMO](https://va-gov.domo.com/page/74130670?userId=1724393873)|TBD |TBD |
-|[Financial Status Report (FSR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)  |TBD      |[~FSR DOMO~](https://va-gov.domo.com/page/447193050) Currently pulling data from GA |[#14439](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/14439) |TBD |
-|[Medical Copays (MCP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays)  |[MCP Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)      |TBD |[#31352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31352) | [MCP Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/release_plan.md)
-|[Combined VA Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)  |TBD      |TBD  |[#36135](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/36131) ||TBD
-|[Combined FSR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr)  |TBD      |TBD |[#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)|TBD |TBD |
-
-## Staging Users and Use Cases
-Debt Resolution Staging Users are captured by Product on [**this document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md).
-
-## Roadmap
-
-- Strategic Roadmap - Detailed spreadsheet format
-- Strategic Roadmap - Presentation format
 
 
 ## Guideposts
@@ -48,12 +27,20 @@ Debt Resolution Staging Users are captured by Product on [**this document**](htt
   - Consistent Customer satisfaction, reliability and secure online UX
 
 - **Team Mission Statement:** To help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
-- **Our Team Vision:** To make VA.gov  the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. 
+- **Our Team Vision:** To make VA.gov  the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
+- **Product Line:** Benefits and Memorial Services; VA Debt Experience
 
+</br>
 
-## Team Members
+---
 
-|**Roles**              |**Assigned**                        |
+</br>
+
+## Team Details
+
+- **Team Slack Channel:** `#vsa-debt`
+
+|**Team Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
 |Team Product Manager   |Denise Coveyduc                   |
@@ -63,19 +50,21 @@ Debt Resolution Staging Users are captured by Product on [**this document**](htt
 |Design/Research      |Riley Orr                           |
 |Design/Research      |Kevin Stachura                        |
 
+</br>
+---
 
-## Contact Information
-- **Team Slack Channel:** `#vsa-debt`
-
+</br>
 
 ## VA Relationships
 - Matt Self | email.address@va.gov -- Product owner
 - Jill Anderson | email.address@va.gov -- Debt Management Center (DMC) Stakeholder
 - Brandon Bergeron | email.address@va.gov -- Veteran Health Administration (VHA)
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role 
+
+</br>
+
+---
+
+</br>
 
 ## Meeting Cadence
 
@@ -87,13 +76,15 @@ Debt Resolution Staging Users are captured by Product on [**this document**](htt
 |*Grooming* | 2nd Thursday of every sprint, @ 1:00pm ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|
 
 
+</br>
 
+---
 
-
+</br>
 
 ## Team Workflow
 
-### **Norms**
+ **Norms**
   * Be respectful, both online and off
   * Show your face (Webcam) at meetings / calls
   * Speak up! - everyone’s voice matters
@@ -103,31 +94,33 @@ Debt Resolution Staging Users are captured by Product on [**this document**](htt
   * Celebrate the wins - even the small ones
   * Let’s have fun and do great work!
 
-### Communication Best Practices 
- **Slack:** 
-  - Best communication method
+**Communication Best Practices** 
+  - Slack is the best communication method
   - Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
   - VFS teams should use public Slack channels as their first method of communication.
   - Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
   - Don't wait to organize a meeting to ask a question; this will slow our team down. 
-
-**Email:**
-  - Least effective communication method
+  - Email is the least effective communication method
   - Email communications are not easily searchable or archivable. Use this as a last resort for communication.
 
-### Decision Etiquette
+**Decision Etiquette**
+
 Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
 1. Is it my decision to make?
 2. Do I have all the information to make the decision?
 3. Do I have to make the decision now?
 
-### Role-Related Knowledge / Best Practices
+**Role-Related Knowledge / Best Practices**
 - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 - [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
 - [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
 
+</br>
 
+---
+
+</br>
 
 ## GitHub Guidelines
 
@@ -155,6 +148,8 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 * planned-work
 * unplanned-work
 
+---
+
 ## Issue Estimation
 _In an effort to standardize  team estimates the below can act as a reference guide during team planning sessions and Github Issue tracking.  The below chart will be updated as we review the sprint pipeline reflected burndown and velocity estimations of previous sprint performance._  
 
@@ -168,9 +163,13 @@ _In an effort to standardize  team estimates the below can act as a reference gu
                                                     
 *NOTE*:  Story points are unitless scales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability forward. 
 
+<br/>
 
+---
 
-## **Standard Issue Structure**
+<br/>
+
+## Standard Issue Structure
 
 > #### User Story:
 > As a __________, I need __________ so that I can __________.
