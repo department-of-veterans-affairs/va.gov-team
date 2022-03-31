@@ -55,7 +55,7 @@ Link to product outline: [Product outline](https://github.com/department-of-vete
 - B1
   - Name: Eric
   - email:vets.gov.user+11@gmail.com
-  - Password: 187SsNrLgPv5
+  - Password: [check [MVI Staging Users doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) (private repo)] 
   - Disability rating: 40% (auto short-form)
 - B2
   - Name: Christian
