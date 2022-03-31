@@ -72,13 +72,15 @@ Documentation about the CMS lives in various places
 ### Platform CMS Team
 - Jess Alexander, Product Manager - Slack `@Jess Alexander`
 - Elizabeth Neal, Delivery Manager - Slack `@Elizabeth Neal`
-- Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
-- Neil Hastings, Tech Lead - Slack `@Neil Hastings`
+- Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
+- Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
 
 ### Sitewide CMS Team
 - Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
 - Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+- Wes Rowe, Offices Team Product Manager - Slack `@Wes Rowe`
+- Ryan Koch, Offices Team Tech Lead - Slack `@Ryan Koch`
 
 ### CMS Program management
 - Clarence Maeng, Program Manager - Slack `@Clarence Maeng`
