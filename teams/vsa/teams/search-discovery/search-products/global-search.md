@@ -190,39 +190,39 @@ Location: [`src/applications/search/components/SearchDropdown/SearchDropdownComp
       </tr>
       <tr>
         <td><code>onOptionClick</code></td>
-        <td></td>
+        <td>Handler for choosing one of the dropdown options. If <code>submitOnClick</code> is enabled, initiates <code>onSuggestionSubmit</code>. If not, then select the option and close the dropdown.</td>
       </tr>
       <tr>
         <td><code>selectOption</code></td>
-        <td></td>
+        <td>Updates the state for <code>inputValue</code> with the suggested option, clears the activeIndex, and saves the suggestions.</td>
       </tr>
       <tr>
         <td><code>setA11yDescriptionFlag</code></td>
-        <td></td>
+        <td>Sets the A11y description flag in the session storage and updates the <code>displayA11yDescriptionFlag</code> with the same value.</td>
       </tr>
       <tr>
         <td><code>updateMenuState</code></td>
-        <td></td>
+        <td>Updates whether the menu is open or closed and refocus the menu if called for.</td>
       </tr>
       <tr>
         <td><code>clearSuggestions</code></td>
-        <td></td>
+        <td>Clears the suggestions and saved suggestions from the state.</td>
       </tr>
       <tr>
         <td><code>saveSuggestions</code></td>
-        <td></td>
+        <td>Saves the suggestions in the state.</td>
       </tr>
       <tr>
         <td><code>handleButtonShift</code></td>
-        <td></td>
+        <td>Handles shift tabbing to reset the suggestions list.</td>
       </tr>
       <tr>
         <td><code>setA11yStatusMessage</code></td>
-        <td></td>
+        <td>Derives the A11y status message for screen readers.</td>
       </tr>
       <tr>
         <td><code>render</code></td>
-        <td></td>
+        <td>Renders the <code>SearchDropdown</code> component.</td>
       </tr>
     </tbody>
   </table>
