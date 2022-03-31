@@ -137,9 +137,12 @@ Brief plain-language description of this product
 Brief plain-language description of this product’s history and next steps
 
 - Now [Events](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/28918)
--     [Redirects]
+-     [Redirects] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/content-team-processes/URL-redirect-process)
 - Next [Columbus/Roseburg Cerner Launch](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/39062)
 - Later [Cerner Single source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/cerner.md)
+- [Top Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-plan.md)
+- [Top Tasks WIP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/research/Veteran-tasks)
+- [Outreach Library](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events)
 
 ## Product approach 
 
