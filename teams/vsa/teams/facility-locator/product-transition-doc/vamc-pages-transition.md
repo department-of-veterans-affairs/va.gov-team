@@ -58,8 +58,10 @@ As the roll-out has been completed, responsibility for content and field staff c
 ##  Product roadmap
 
 [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
+[1Q 2022 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/2022%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE%20-%20Unnamed%20Area%20(1).pdf)
 
-The most critical path iteams are listed below but do not represent the total of issues on the backlog.
+The most critical path items are listed below but do not represent the total of issues on the backlog.
+
 
 ### Now
 - **Address any accessibility defects found during** [Accessibility Production Review #36974](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36974)
