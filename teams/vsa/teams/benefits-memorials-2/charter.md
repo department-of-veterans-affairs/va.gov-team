@@ -25,7 +25,7 @@
 |-----------------------|------------------------------|----------|------------------|------------------|
 |[Medical Device Reordering Tool (mDOT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)       |TBD       | [mDOT KPI Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)   |TBD      |TBD       | TBD|
 |[Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp) |TBD |[Debt Portal DOMO](https://va-gov.domo.com/page/74130670?userId=1724393873)|TBD |TBD |
-|[Financial Status Report (FSR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)  |TBD      |[~FSR DOMO~](https://va-gov.domo.com/page/447193050) |[#14439](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/14439) |TBD |
+|[Financial Status Report (FSR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)  |TBD      |[~FSR DOMO~](https://va-gov.domo.com/page/447193050) Currently pulling data from GA |[#14439](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/14439) |TBD |
 |[Medical Copays (MCP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays)  |[MCP Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)      |TBD |[#31352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31352) | [MCP Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/release_plan.md)
 |[Combined VA Debt Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)  |TBD      |TBD  |[#36135](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/36131) ||TBD
 |[Combined FSR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr)  |TBD      |TBD |[#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)|TBD |TBD |
@@ -137,22 +137,22 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 -  All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 - If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-### GitHub Label
-label: `vsa-debt`
-
-
+### GitHub Resources
+- Team Github Label = `vsa-debt`
+- [Team Zenhub Board](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board?notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
 
 ### Popular Labels in ZenHub
 * vsa
 * vsa-debt
 * frontend
+* backend
 * content
 * needs-grooming
 * design
 * Awaiting Feedback
 * research
-* planned work
-* un-planned work
+* planned-work
+* unplanned-work
 
 ## Issue Estimation
 _In an effort to standardize  team estimates the below can act as a reference guide during team planning sessions and Github Issue tracking.  The below chart will be updated as we review the sprint pipeline reflected burndown and velocity estimations of previous sprint performance._  
