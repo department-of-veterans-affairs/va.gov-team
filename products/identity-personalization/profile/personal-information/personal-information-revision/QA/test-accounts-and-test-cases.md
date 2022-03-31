@@ -22,9 +22,9 @@ Last update 3/31/2022
 
 | Test case                                                    | Intended outcome                                                                                                               | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| User navigates to **Personal information** page              | H1 reads "Personal information" and only fields on page are for Personal info. No contact info fields should be present.<br /> | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34) |
-| User interacts with `How to update your legal name` component      | If closed, should open to reveal content<br />If open, should close to hide content                                            | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34):                          |
-| User interacts with `How to fix an error in your name or date of birth` component | If closed, should open to reveal content<br />If open, should close to hide content       | Any LOA3 user | [Desktop]                                                    |
+| User navigates to **Personal information** page              | H1 reads "Personal information" and the only fields on page are for Personal info. No contact info fields should be present.<br /> | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34) |
+| User interacts with `How to update your legal name` component      | If closed, should open to reveal content<br />If open, should close to hide content                                            | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34)                          |
+| User interacts with `How to fix an error in your name or date of birth` component | If closed, should open to reveal content<br />If open, should close to hide content       | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/OmjMy8G)                                                    |
 | User reviews Date of birth   | Field should be read-only and contain no buttons to edit or remove      | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34)
 | User reviews Preferred name and Gender identity fields  | Both fields should be editable and contain an Edit button     | Any LOA3 user | [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/zxoPk34)         |
 
@@ -32,21 +32,17 @@ Last update 3/31/2022
 
 | Test case                                                    | Intended outcome                                                                         | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------ |
-| User navigates to **Contact information** page in Profile    | and only fields on page are for Contact info. No personal info fields should be present. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| User interacts with `Why do we ask for this?` component      | If closed, should open to reveal content<br />If open, should close to hide content | Any LOA3 user | [Desktop] :triangular_flag_on_post:                          |
-| User interacts with `How do I update my name, date of birth, or sex assigned at birth?` component | If closed, should open to reveal content<br />If open, should close to hide content | Any LOA3 user | [Desktop]                                                    |
-
+| User navigates to **Contact information** page in Profile    | H1 reads "Contact information" and the only fields on page are for Contact info. No personal info fields should be present. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| User interacts with `Which benefits and services does VA use this contact infomation for?` component      | If closed, should open to reveal content<br />If open, should close to hide content | Any LOA3 user | [Desktop] :triangular_flag_on_post:                          |
 
 ### Test cases for blank state
 
-Pre-condition - Log in as test user.  If values already exist in Preferred name, Pronouns, Gender identity, and Sexual orientation, select a different test user whose Staging profile has not already been updated with these values.
+Pre-condition - Log in as test user.  If values already exist in Preferred name and Gender identity fields, select a different test user whose Staging profile has not already been updated with these values.
 
 | Test case                                        | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| User navigates to **Preferred name** section     | **Preferred name** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| User navigates to **Pronouns** section           | **Pronouns** section reads "Edit your profile to add a pronoun" and an Edit button appears directly below | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| User navigates to **Gender identity** section    | **Gender identity** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| User navigates to **Sexual orientation** section | **Sexual orientation** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| User navigates to **Preferred name** section     | **Preferred name** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8A23d4)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxpjY) |
+| User navigates to **Gender identity** section    | **Gender identity** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/eKYx35P)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/JnVgyK0) |
 
 
 ### Test cases for successful add
