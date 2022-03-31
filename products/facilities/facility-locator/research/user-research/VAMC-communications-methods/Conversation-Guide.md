@@ -65,7 +65,7 @@ Before we start, a few things I want to mention:
         - Have you used other methods?
     - **If no:**
         - Is there a method that you would prefer, that we don't have?
-3) How would you describe a good communication method - what makes it a good one for you?
+3) What makes a communication experience enjoyable for you? (What makes it good?)
 
 ## Task 1: Usability testing - 20 minutes
 
