@@ -1,4 +1,4 @@
-# Benefit payments and debts: UAT Go/No-Go | Date TBD
+# Benefit payments and debts: UAT Go/No-Go | 4/4/2022
 
 ## Decision: 
 ---
