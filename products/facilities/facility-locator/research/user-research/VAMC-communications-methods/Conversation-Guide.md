@@ -122,15 +122,16 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 - [Contextual inquiry Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1646769310259/6ca0b11d0a55138780cfc6a03f4da72718e5932e?sender=u8a90be72499ecb4354e14700)
 
 1) Questions about labels.
-    - You need to contact a health care facility to ask a question about its hours of operation. Which communication label best applies?
-    - You need to contact your health care team about the results of recent check up. Which communication label best applies?
-    - You want to make an appointment with your health care team. Which communication label best applies?
-    - You need to speak to someone immediately about a health care question. Which communication label best applies?
+    - You need to contact a health care facility to ask a question about its hours of operation. Which communication label best applies, if any?
+    - You need to contact your health care team about the results of recent check up. Which communication label best applies, if any?
+    - You want to make an appointment with your health care team. Which communication label best applies, if any?
+    - You need to speak to someone immediately about a health care question. Which communication label best applies, if any?
 
 **Moderator notes:**
 
 - Try to get a sense of which labels are confusing.
-- What might the participant expect or suggest, based on their communications experience with other web pages/services?
+- Let participants know they can say none of them apply.
+- What might the participant expect or suggest, if none apply?
 
 ## Post-Task Interview - 3 minutes
 
