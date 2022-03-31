@@ -17,7 +17,7 @@
 
 [Our team](#our-team)
 
-Developer Resources (for devs)  (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/developer-env.md)
+[Developer Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/developer-env.md)
 
 
 
