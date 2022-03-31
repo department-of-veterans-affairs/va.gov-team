@@ -64,7 +64,7 @@ The most critical path iteams are listed below but do not represent the total of
 ### Now
 
 - **Update Mapbox security** 
-    - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
+    - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890) -> _currently blocked. See [Mapbox token conversion proposal](https://vfs.atlassian.net/wiki/spaces/FTT/pages/2139783260/MapboxToken+Conversion+Guide+Proposal+draft)_
 - **Implement VA health connect number on Facility Locator using CMS as source of truth** 
    - Issue [#38962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38962)
 
@@ -90,7 +90,7 @@ The most critical path iteams are listed below but do not represent the total of
 
 - **Service-centric (task-based) search**
    - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/80d947c076470728ec4bf84275d32769f1a75545/products/facilities/facility-locator/service-centric-search/initiative-brief.md)
-- **Add ability to return non-VAST locations, such as Vet Ceter community access points and VA health mobile stops** 
+- **Add ability to return non-VAST locations, such as Vet Center community access points and VA health mobile stops** 
    - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
 - **PPMS Taxonomy Mapping**
    - Epic [#9995](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9995)
