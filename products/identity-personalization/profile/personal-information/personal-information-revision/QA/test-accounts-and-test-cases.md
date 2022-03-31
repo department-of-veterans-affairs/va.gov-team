@@ -47,31 +47,29 @@ Pre-condition - Log in as test user.  If values already exist in Preferred name 
 
 ### Test cases for successful add
 
-Pre-condition: None.
+Pre-condition: Must be a logged in LOA3 user.
 
 | Test case                                                    | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| 1. User navigates to **Preferred name** section<br />2. User clicks Edit button<br />3. User enters a new value that does not exceed the stated character limit<br />4. User clicks the Save button | 1. The newly-saved value appears immediately below the **Preferred name** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| 1. User navigates to **Pronouns** section<br />2. User clicks Edit button<br />3. User selects "Pronouns not listed here"<br />4. User enters a new value into the text box that does not exceed the stated character limit<br />5. User clicks the Save button | 1. The newly-saved value(s) appears immediately below the **Pronouns** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| 1. User navigates to **Gender identity** section<br />2. User clicks the Edit button<br />3. User selects "A gender not listed here"<br />4. User enters a new value into the text box that does not exceed the stated character limit<br />5. User clicks the Save button | 1. The newly-saved value appears immediately below the **Gender identity** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| 1. User navigates to **Sexual orientation** section<br />2. User clicks the Edit button<br />3. User selects  "A sexual orientation not listed here"<br />4. User enters a new value into the text box that does not exceed the stated character limit<br />5. User clicks the Save button | 1. The newly-saved value appears immediately below the **Preferred name** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Preferred name** section<br />2. User clicks Edit button<br />3. User enters a new value that does not exceed the stated character limit<br />4. User clicks the Update button | 1. The newly-saved value appears immediately below the **Preferred name** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Gender identity** section<br />2. User clicks the Edit button<br />3. User selects "Woman" <br />3. User clicks the Update button | 1. The newly-saved value appears immediately below the **Gender identity** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
 
 ### Test cases for unsuccessful add
 
-Pre-condition: None.
+Pre-condition: Must be a logged in LOA3 user.
 
 | Test case                                                    | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| 1. User navigates to **Pronouns** section<br />2. User clicks Edit button<br />3. User selects "Pronouns not listed here"<br />4. User leaves the text box blank<br />5. User clicks the Save button | 1. An error appears showing that the text field in the Prounouns section is required | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
-| 1. User navigates to **Pronouns** section<br />2. User clicks Edit button<br />3. User selects "Pronouns not listed here"<br />4. User enters a value that exceeds the field character limit<br />5. User clicks the Save button | 1. An error appears stating that the value exceeds the character limit | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Preferred name** section<br />2. User clicks Edit button<br />3. User leaves the text box blank<br />4. User clicks the Update button | 1. An error appears showing that the text field in the Preferred name section is required | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User does not make a selection<br />4. User clicks the Update button | 1. An error appears stating that a value is required | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
 
 ### Test case for save error
 
-Pre-condition: After logging in and loading the Personal information page on Staging, disconnect your device from Wi-Fi.
+Pre-condition: After logging in and loading the Personal information page on Staging, use browser developer tools to simulate Offline mode.
 
 | Test case                                                    | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| 1. User navigates to **Pronouns** section<br />2. User clicks Edit button<br />3. User selects one or more of the supplied values EXCEPT "Pronouns not listed here"<br />4. User clicks the Save button | 1. An error message is displayed immediately above the **Pronouns** field label and reads, "We're sorry.  We can't save your Pronouns at this time.  We're working to fix this problem.   Please try again or check back soon." | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User selects one or more of the supplied values<br />4. User clicks the Update button | 1. An error message is displayed immediately above the **Preferred Name** field label and reads, "We're sorry.  We can't save your Preferred name at this time.  We're working to fix this problem.   Please try again or check back soon." | Any LOA3 user | [Mobile] :triangular_flag_on_post:<br />[Desktop] :triangular_flag_on_post: |
 
 
 
