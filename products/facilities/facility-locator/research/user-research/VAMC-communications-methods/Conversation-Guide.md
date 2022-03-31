@@ -98,18 +98,18 @@ Tree testing will use [Optimal Workshop's Treejack](https://www.optimalworkshop.
 
 1) Tree test from system-level health care page
     - Side nave tree test
-        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Under which heading, if any, would you expect to find VA Health Chat?
-        2) VA telehealth allows you to video call VA health care personnel. Under which heading, if any, would you expect to find VA telehealth?
-        3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
+        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Where would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personnel. Where would you expect to find VA telehealth?
+        3) VA Health Connect is a 24/7 health care phone number. Where would you expect to find VA Health Connect?
     - Page heading/top task tree test
-        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Under which heading, if any, would you expect to find VA Health Chat?
-        2) VA telehealth allows you to video call VA health care personnel. Under which heading, if any, would you expect to find VA telehealth?
-        3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
+        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Where would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personnel. Where would you expect to find VA telehealth?
+        3) VA Health Connect is a 24/7 health care phone number. Where would you expect to find VA Health Connect?
 3) Tree test from facility-level health care page
     - Page heading tree test
-        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Under which heading, if any, would you expect to find VA Health Chat?
-        2) VA telehealth allows you to video call VA health care personnel. Under which heading, if any, would you expect to find VA telehealth?
-        3) VA Health Connect is a 24/7 health care phone number. Under which heading, if any, would you expect to find VA Health Connect?
+        1) VA Health Chat allows for real-time chat messages with a VA health care personnel. Where would you expect to find VA Health Chat?
+        2) VA telehealth allows you to video call VA health care personnel. Where would you expect to find VA telehealth?
+        3) VA Health Connect is a 24/7 health care phone number. Where would you expect to find VA Health Connect?
 
 **Moderator notes:**
 
