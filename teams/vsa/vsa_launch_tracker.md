@@ -78,6 +78,7 @@ Health care Exp	| 	Check-in Experience | 	Confirm NOK information	| 	8/26/2021	|
 Health care Exp	| 	Check-in Experience	| 	Confirm Emergency Contact information	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm Emergency Contact information during mobile Check-in on the day of appointment| 
 Health care Exp	|  Check-in Experience	| 	Launch of Pre-Check-in MVP	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm information from the check-in application prior to the day of appointment	| 
 10-10 Team | HCA	| 	Update Insurance copy	| 	1/12/2022	| 	yes	| 	Clarify insurance info requested to alleviate confusuion.	|
+Auth Exp - Profile | Remove Fax Number | 2/1/2022 | yes | Remove defunct fax number field from Contact information page.
 Claims & Appeals | Higher Level Review | Form updates and enhancements | 2/24/2022 | Yes | Allows veterans the ability to submit a request for a decision review
 Facilities	| 	Vet Centers	| 	50% of Vet Centers launched	| 	2/9/2022	| 	no	| 	Establishing a web presence for Vet Centers - Veterans can find out about nearby Vet Centers and the services they provide	| 	
 |10-10 Team| Caregiver (10-10CG) | Improve Legal Representative Experience (50%) | 2/10/2022 | yes | Better prepare legal rep applicants via content changes that clarify legal rep eligibility and valid documentation| | 
