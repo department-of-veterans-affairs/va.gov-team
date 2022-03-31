@@ -69,12 +69,13 @@ Debt Resolution Staging Users are captured by Product on [**this document**](htt
 
 
 ## VA Relationships
-**Debt Management Center (DMC):** 
-- Jill Anderson
-
-**Veteran Health Administration (VHA) :** 
-- Brandon Bergeron
-
+- Matt Self | email.address@va.gov -- Product owner
+- Jill Anderson | email.address@va.gov -- Debt Management Center (DMC) Stakeholder
+- Brandon Bergeron | email.address@va.gov -- Veteran Health Administration (VHA)
+- Person Name | email.address@va.gov -- Role
+- Person Name | email.address@va.gov -- Role
+- Person Name | email.address@va.gov -- Role
+- Person Name | email.address@va.gov -- Role 
 
 ## Meeting Cadence
 
