@@ -83,9 +83,9 @@ Before we select anything, let's just take a look at this. Feel free to scroll u
         - Tell me more, or why is that?
 
 Now, I am going to give you three scenarios I'd like you to work through as if you are using a mobile app to manage your appointment schedule. Feel free to talk aloud, sharing any thoughts you have as you work through it. I will also copy-paste each scenario into the chat feature for you to reference.
-- PROMPT: First, you need to make an Optometry appointment for sometime in the near future.  
+- PROMPT: First, you need to make an Optometry appointment request. Once the request is complete, can you find it in the list?   
 - PROMPT: Next, you need to confirm the date and time information for a few upcoming appointments. 
-- PROMPT: Finally, you need to cancel an appointment.  
+- PROMPT: Finally, you need to cancel an appointment. Once the appointment is canceled, can you find it in the list? 
 
 *When Participant is finished with each task, if they did not talk through it, we will follow up for further insight*
 - General thoughts?
