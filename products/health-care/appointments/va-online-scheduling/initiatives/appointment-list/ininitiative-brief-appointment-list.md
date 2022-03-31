@@ -72,16 +72,25 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
     <li><a href="https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B6A5CFF66-F89C-4BC5-A39B-518FA6AD415C%7D&file=Appointments%20Features%20Description%20and%20Business%20Requirements.docx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1648741306594&action=default&mobileredirect=true">Analysis document</a></li>
     <li><a href="https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B24A0A2A8-279E-42D1-B0E4-3C1C8EF5D5F5%7D&file=MHV%2BVAOS%20Gap%20analysis%20recommendations.docx&wdOrigin=OFFICECOM-WEB.MAIN.SEARCH&ct=1648741454406&action=default&mobileredirect=true">Recommendations</a></li>
     <li><a href="https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B9E5702C8-5AF7-476B-879D-8DD1B717526F%7D&file=MHV%2BVAOS%20Appointments%20Project%20Scope%20and%20Decisions%20DRAFT220181.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1648741387781&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=8a5358d8-b930-4449-a0b6-b7957b856b86">Project scope and decisions</a></li>
-</ul>
-
+   </ul>
 </details>
 
  <details>
-  <summary>2022 Appointments list study</summary>
-  
-
-
+  <summary>February 2022 Appointments list study</summary>
+  <ul>
+      <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md">Findings report</a></li>
+      <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/Research%20Presentation%20-%20MHV%2BVAOS%20Appointments%20List%20Discovery.pdf">Findings slide deck</a></li>
+ </ul>
 </details>
+ 
+ <details>
+  <summary>January 2021 Appointments list study</summary>
+  <ul>
+      <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/report-out.md">Findings</a></li>
+  </ul>
+ </details>
+ 
+ 
 
 
 ### Assumptions/Risks
