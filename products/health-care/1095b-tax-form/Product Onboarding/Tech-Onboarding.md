@@ -1,38 +1,47 @@
 
 # Front End Architecture
 
-Last Updated: March 22, 2022
+Last Updated: March 31, 2022
 
 ## Overview
 
 The front end is built up of two parts, a React widget which lives in vets-website repo (see links below) that was built by the CEDAR 1095B  team, and the landing page in Drupal CMS where the React widget will be embedded, which is developed by Sitewide Content team. We chose to build a widget rather than a react application because most of the page is static content, and it is easier for the drupal team to update static content when it lives in their CMS. The only dynamic part of the page lives in the widget. 
 
-The widget code lives in the **src/applications/static-pages/download-1095b/**  directory on the feature branch. Currently it is awaiting code review (see relevant links) 
+The widget code lives in the **src/applications/static-pages/download-1095b/**  directory on the feature branch. 
 
 ## Relevant Links
 
-[The front end feature branch](https://github.com/department-of-veterans-affairs/vets-website/tree/feature/37015-poc-1095b-page)
 
+[error states PR (merged)](https://github.com/department-of-veterans-affairs/vets-website/pull/20693/)
 
-[PR open pending review from the VA](https://github.com/department-of-veterans-affairs/vets-website/pull/20619/)
+[POC PR (merged)](https://github.com/department-of-veterans-affairs/vets-website/pull/20619/)
 
+[POC front end feature branch](https://github.com/department-of-veterans-affairs/vets-website/tree/feature/37015-poc-1095b-page)
 
 [Sitewide content issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38448)
 
+[Error states issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39111)
 
 [Design mockups for landing page (sort by date to get most recent ones) ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/design/wireframes)
 
 
 [VA React widget documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html)
 
-## Ongoing Issues /Considerations
+## Updates
+
+For logged in users, widget now calls */available_forms* endpoint first in order to retrieve the last updated date of the veterans form as well as the most recent available tax year. If no tax year is returned, the widget displays the **notFoundComponent**. If the tax year is returned then the widget displays the last updated date and the PDF download button. If the user clicks the button and the */form1095_bs/download/${year}* endpoint fails to return a PDF, the **errorComponent** will display. This is handled with if statements as well as useState to track whether and error occurred and what type of error it is ("not found", "download error").  
 
 
+## Testing
+
+**Testing has been performed manually with test users that have necessary permissions.**  In order to conduct your own manual test, please use [vets.gov.user+10](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/test_users.csv) and make sure to visit the user profile page and click “verify user” or else you will get a 403 forbidden error from the server when attempting to download. You will also need to add data with an ICN number that matches the user in the rails console. Url to see widget in vets-website is **/health-care/download-1095b/**. 
+
+Final testing for accessibility will be conducted in Drupal by sitewide-content. 
+
+## Potential Issues
 
 1. There is a flashing which occurs during testing between the unauth and auth state of the widget. There is a chance that this will be fixed when the widget is embedded into the Drupal page. However, in the code the **loggedIn** variable only returns true or false. When it returns false, it could mean the data has not been received yet OR that the user is in fact not logged in. This is why the flashing occurs.
-2. There are **two endpoints** on the backend that the widget will need to call. Currently it only calls the one which grabs the data and generates the PDF. However it will be updated shortly to also display the “last updated on” date for that veterans form. It will also return the available tax years for the veteran. **Currently we are only fetching the current tax year** so the front end code will simply grab the most recent year available from the new endpoint and then use it to make the API call for downloading the form.
-3.  There are **two error states** which can occur - data for that veteran for that year does not exist, or  a technical glitch that causes a failure to download the form. The first error state can be distinguished using the new endpoint mentioned in #2 even before an attempt to download the form occurs. The second error will display if a non 200 status is returned from the server. **Design has created mockups for displaying these errors which are in review process.**
-4. **Testing has been performed manually with test users that have necessary permissions.** Cypress tests need to be added to test download ability of form and correct display for auth/unauth. In order to conduct your own manual test, please use [vets.gov.user+10](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/test_users.csv) and make sure to visit the user profile page and click “verify user” or else you will get a 403 forbidden error from the server when attempting to download. You will also need to add data with an ICN number that matches the user in the rails console. More information in the backend architecture section (pending).
+2. The PDF is technically not immediately downloaded by the user because it opens a preview of the PDF in a new tab. However it is relatively easy to change, because the */form1095_bs/download/${year}* endpoint will download the PDF by default, so it basically just requires removal of some code. 
 
 
 
