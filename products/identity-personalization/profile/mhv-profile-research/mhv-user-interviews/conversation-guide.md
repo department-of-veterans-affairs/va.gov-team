@@ -26,10 +26,11 @@ Links for notetakers:
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Liz, and I also have some colleagues on the line observing and taking notes. Today we’re going to talk about My HealtheVet, specifically - the personal information section. 
+Thanks for joining us today! My name is Liz, and I also have a note taker with me. Today we’re going to talk about My HealtheVet, specifically - the personal information section. 
 
 Before we start, a few things I want to mention:
 
+- There are a couple of members from the website team who would like to observe the session and hear your feedback live. Are you comfortable with them joining the session? No pressure either way.
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear about your experience, and your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **During this session, we are going to look at My HealtheVet and then do a sorting activity. You will need log into My HealtheVet and share your screen. This means we’ll see some personal information** Are you comfortable sharing your screen?
@@ -79,9 +80,10 @@ Now there are a couple of specific questions I have on this page.
 - Now talk to me about the “My VA Treating facilities” option. What is that for?
 - How did those boxes get checked?
 - How does it help you to be able to update this?
-- If applicable for participant:
-	- According to my notes, you’ve been to 2 different VA facilities in different states. Can you tell me a bit about what the experience has been like, going between the two?
-	- What has been challenging about managing health care across two different VA facilities?
+	- If applicable for participant:
+		- According to my notes, you’ve been to 2 different VA facilities in different states. Can you tell me a bit about what the experience has been like, going between the two?
+		- What has been challenging about managing health care across two different VA facilities?
+- And lastly, if you moved, where would you go to update your address for prescriptions?
 
 **Things to look out for:**
 - Which fields are most important for the participant to change?
@@ -144,6 +146,9 @@ Now there are a couple of specific questions I have on this page.
 * If participant created groups:
 	* Talk to me about the group you made. What does it mean to you?
 
+
+- I wanted to ask you about something else. It’s not in here, but are you familiar with the 1095B tax form? Where would you group that, if it was on a card?
+
 - When complete: Please go ahead and click the finish button so we can save these groupings. It’ll be anonymous. 
 
 **Moderator notes:**
@@ -157,8 +162,7 @@ Now there are a couple of specific questions I have on this page.
 - Any questions for me? 
 
 ## Thank-You and Closing - 1 minute
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
     **If Yes:** Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
