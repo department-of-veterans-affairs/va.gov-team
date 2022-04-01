@@ -71,10 +71,18 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 
 # Key Findings
 
-## Topic
-1. 
+## Feedback on the landing page and poster
+1. The desired amount of content varies greatly among participants.
+2. Some participants were skeptical that the harassment content reflects new change and policies at VA.
+3. The hours for reporting by phone were too limited.
+4. Some participants expected to be able to report online.
 
-## Topic
+## Attitudes around harassment and reporting
+1. Much harassment isn't reported for a variety of reasons. 
+2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. 
+3. 
+
+## The broader VA context
 1.
 
 # Details of Findings 
@@ -285,7 +293,7 @@ After seeing poster | 11 (100%)
 After seeing landing page | 12 (86%) | 2 
 Going forward | 8 (62%) | 1 | 4
 
-    - One female participant said she would call the Women's Veterans Call Center because she would feel more comfortable and safe talking with another woman about harassment.
+  - One female participant said she would call the Women's Veterans Call Center because she would feel more comfortable and safe talking with another woman about harassment.
 
     - **In-person with a patient advocate was the most common way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences. Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). 
 
