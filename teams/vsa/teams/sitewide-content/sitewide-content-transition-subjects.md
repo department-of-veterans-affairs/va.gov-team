@@ -41,13 +41,13 @@ _To support all VA products in producing an application and/or webpage(s), produ
 **Using Zenhub or Github, Filter by the label "Sitewide content" and look at the following Verticle columns**
 
 ### Sitewide Content Backlog
-47 current issues are listed within the Backlog column as of 4/5/22.  All have been reviewed and status updates with the latest informtion from stakeholders and/or OCTO POCs.
+Forty eight (48) stories/issues are currently in the Backlog column with the label "Sitewide Content" as of 4/1/22.  All 48 issues have been reviewed and a status update provided in comments. This includes latest actions and informtion from stakeholders and/or OCTO POCs as required.
 
 ### Recurring Sitewide Content Stories/Issues 
 There are two recurring stories that will require continued iteration through the Sitewide content lifecycle.
-- Replace Videos every two weeks for 
+- Replace Videos every two weeks for "Swap out videos in COVID CLP" - Month of April stories are in Backlog (week of 4/11 and 4/25).
 **See the following github stories for examples of the rotating videos**
-- Update the Claims data on the last day of the month in preparation for the upcoming month
+- Update number of days to complete disability-related claims for (x=month) 8 remaining stories are listed for 2022 in the backlog.
 **See the following github story for example of the required updates to this page.
 
 ### Sitewide Content Blocked status
