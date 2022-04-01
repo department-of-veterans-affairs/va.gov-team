@@ -55,7 +55,7 @@ After reviewing the landing page (and maybe the poster), research participants w
 
 Because harassment is a potentially triggering subject, we wanted to be careful about recruiting people to participate in this research. We wanted to have some Veterans who have experienced harassment at VA and are able to participate in research sessions without re-triggering the trauma that they've experienced. Our plans to help ensure participant safety included the following:
 - Provided an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
-- Worked with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
+- Worked with VA contacts to find social workers or other clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
 - Limited the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
   - For each session with a participant using a screen reader, have an accessibility specialist as the observer to help with any technical issues.
 
@@ -160,8 +160,9 @@ The following is a list of what participants mentioned liking about the landing 
     13. The header "Report harassment as a Veteran or visitor to VA" doesn't attract my attention; it's too broad
     14. Some language is too strong and overpromises:
       - "Everyone has the right to safety and respect at VA"--We know that's supposed to be, but that's not what happens, and so it turns off people so they won't read the rest of the page. Better to use the word "should", for example, "Here at the VA everyone should be treated with respect."
-      - "Stop the harassment" (under subway step 2 in "What to expect after you file your report") erodes trust when harassment happens again. Better to say that we can't stop it but can curtail it.
-      - "Corrective action happens right away". Better to say "corrective action will be taken" (don't say that it will happen right away).
+      - "Stop the harassment" (under subway step 2 in "What to expect after you file your report") erodes trust when harassment happens again. Better to say that we can't stop it but can curtail it. Better: "We will find ways to alleviate..."
+ > *"Can't be too concrete with certain words because of the trust factor" (p6).*
+      - "Corrective action happens right away". Better to say "corrective action will be taken" (don't say that it will happen right away becaues nothing happens right away at the VA).
     17. Some langauge has too condescending of a tone:
     - "Harassment is any unwanted behavior that creates a hostile space"--Better to be supportive without being condescending: "Harassment can happen to anyone, and it's not your fault".
     - "Read this page to learn how..." sounds like you're giving someone an order. Better: "Below you will find how to report harassment and what to expect..."
@@ -319,7 +320,7 @@ In this research, we tested the landing page and poster and got user feedback on
 
 > *“Harassment happens so frequently [at the VA that] it’s a surprise when it doesn’t happen” (p9).*
  
-> *“For years, no one wanted to admit this type of behavior was going on” (p6).*
+> *“Oh my goodness, the fact that you're even going to put it out there that these things exist at the VA. That's huge...because for years, nobody wanted to admit that any of this type of behavior was going on...It's the accountability--knowing that something's going on, and we're going to try to find a way to address it" (p6).*
 
 > *"I used to have some hope that it would be different, but no longer. With the VA, I don't expect anything because you'll only be disappointed" (p9).* 
 
@@ -373,15 +374,16 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
 1. One participant **lauded the presence of a clinician** during their research session. "Dr. L" refers to the name of the social worker.
 
-> *“Impressed with having Dr. L here to support me” (p6).*
+> *“I'm impressed with you having Dr. L here for support in case something triggers me, which is huge for me” (p6).*
 
-2. **None of the participants appeared to have been triggered** during the research sessions, although two of them shed a few tears. At the end of one of those two sessions, the social worker checked in with the participant to ask if they needed support. The participant declined this offer because she had already thought of that and had scheduled time with a friend to talk afterwards.
+2. **None of the participants appeared to have been triggered** during the research sessions, although two of them shed a few tears. During  two sessions, the clinician checked in with the participant to ask if they needed support. The participant declined this offer because she had already thought of that and had scheduled time with a friend to talk afterwards.
 
 3. We had a **very low participant no-show rate of 13%** (1 no-show and 1 cancellation out of 15 participants scheduled), which might be due to the additional screening questions and session topic that Perigean was asked to share with potential participants before scheduling them. Perhaps these questions enabled participants to be better prepared to engage on the topic of harassment at VA. One participant shared why she was participating:
 
 > *"“I hold out hope the VA will change, and that’s why I participate in this stuff” (p9).*
 
-4. **All 14 participants said they were OK with the observers present** in the session. There was a social worker observing most of the sessions (10 of 14), and for the 4 sessions without one, a VA team member volunteered to keep a close eye on the participant. In every session, the social worker (or designated team member) appeared on camera and was introduced to the participant by the moderator. The moderator also describer her own role and said that there was a notetaker and another observer from the team, and asked the participant if they were comfortable proceeding. 
+4. **All 14 participants said they were OK with the observers present** in the session. There was a clinician observing most of the sessions (10 of 14), and for the 4 sessions without one, a VA team member volunteered to keep a close eye on the participant. In every session, the clinician (or designated team member) appeared on camera and was introduced to the participant by the moderator. The moderator also described her own role, said that there was a notetaker and another observer from the team, and asked the participant if they were comfortable proceeding. The 3 social workers and 1 psychologist who volunteered to observe sessions were happy to help, and they shared insightful feedback afterwards.
+5. **Moderating three of these research sessions in a day was emotionally exhausting** because of the heavy stories shared by the participants, and the energy required to listen, reflect back to the participant, and provide empathy. One hour between sessions was not quite enough time to take notes and regroup before preparing for the next one. Debriefing at the end of each day with team members was super helpful to decompress and process together what we heard.
 
 
 # Recommendations
@@ -414,18 +416,18 @@ The harassment reporting process as currently described in the landing page and 
     3. The VA employees who receive harassment reporting calls or in-person reports need trauma-informed training in what to do and how to support or transfer people who are reporting harassment, sexual harassment, or sexual assault because people may not know the technical term for what happened. This includes VA providers and VA-contracted providers, who also might receive harassment reports.
 
 3. The new **web page and poster on harassment reporting are only one part of a larger communication plan needed across all of VA** and individual facilities that needs to speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening. 
-    1. Don't promise that you're fixing the world but say what you're trying to do. We shouldn't oversell how fast VA can change.
+    1. Don't promise that you're fixing the world but say what you're trying to do. We shouldn't oversell how fast VA can change, but we do want to indicate that we're trying to make it better.
     2. One research participant suggested handing out a little card that has the the harassment reporting phone numbers, just like is currently done with VCL.
 
 5. VA has to **prove by *action* that that they'll do something useful with harassment reports**. It's not enough to say on a web page that VA will do something. Look at VA sites with a lot of harassment reports and see how they're run. Perhaps their leaders and employees need more training on recognizing and handling harassment onsite.
 
 # Next Steps
 
-With the above recommendations, 
+With the above findings and recommendations, the service design for reporting harassment at VA should be discussed and streamlined from the Veteran/visitor perspective. Then the content on the landing page and poster can be simplified accordingly.
 
 # Further research needed
 
-We would like to 
+We recommend additional user research on revised versions of the landing page and poster.
 
 # Appendix
 
