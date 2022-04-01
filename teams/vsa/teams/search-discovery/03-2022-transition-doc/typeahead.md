@@ -16,6 +16,7 @@
 
 - [Typeahead for Design System](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/637)
 
+- [Typeahead Best Practices and Comparative Analysis (.docx)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/files/typeahead-comparative-analysis-best-practices.docx)
 
 <br>
 
@@ -28,7 +29,3 @@ This table includes links to the individual design work products.
 | Typeahead - Design System | [GH request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/637) | --- | Feb 2022| Submitted |
 | Typeahead for other search tools | [R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/typeahead/typeahead-suggestions.md) <br>[Find a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/typeahead/typeahead-suggestions.md) | --- | Feb 2022| Discovery |
 
-
-## Other feature documentation
-
-<br>
