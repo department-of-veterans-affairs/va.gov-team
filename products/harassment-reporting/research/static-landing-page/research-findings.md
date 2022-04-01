@@ -73,17 +73,22 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 
 ## Feedback on the landing page and poster
 1. The desired amount of content varies greatly among participants.
-2. Some participants were skeptical that the harassment content reflects new change and policies at VA.
+2. Some participants were skeptical that the harassment content reflects new change at VA.
 3. The hours for reporting by phone were too limited.
 4. Some participants expected to be able to report online.
 
 ## Attitudes around harassment and reporting
 1. Much harassment isn't reported for a variety of reasons. 
-2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. 
-3. 
+2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. In-person with a patient advocate was the most common way to report.
 
 ## The broader VA context
-1.
+1. Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.
+2. Harassment is pervasive at VA and in the military, especially directed towards women. Participants shared their own stories of harassment by VA employees or others at VA.
+
+## Feedback on the trauma-informed research methods
+1. One participant lauded the presence of a clinician during their research session.
+2. None of the participants appeared to have been triggered during the carefully planned research sessions.
+3. We had a very low participant no-show rate, which might be due to the additional screening questions and session topic that Perigean shared with potential participants before scheduling them. 
 
 # Details of Findings 
 
@@ -295,7 +300,7 @@ Going forward | 8 (62%) | 1 | 4
 
   - One female participant said she would call the Women's Veterans Call Center because she would feel more comfortable and safe talking with another woman about harassment.
 
-    - **In-person with a patient advocate was the most common way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences. Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). 
+  - **In-person with a patient advocate was the most common way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences. Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). 
 
     > *"Patient advocate is the best place...to get someone with authority. They get you to the right person...Have used patient advocates before in person and over the phone" (p13).*
 
@@ -321,7 +326,7 @@ Going forward | 8 (62%) | 1 | 4
 ## Broader VA context
 In this research, we tested the landing page and poster and got user feedback on the content and the reporting processes described. We can't fix all of the issues described above without understanding and potentially revising the VA harassment reporting processes and policies. In this section are some findings about the broader VA context.
 
-7. **Harassment reporting resources were met with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page, such as new policies and different behaviors by VA employees as evidence of change.
+7. **Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page, such as new policies and different behaviors by VA employees as evidence of change.
 
     > *“Harassment happens so frequently [at the VA that] it’s a surprise when it doesn’t happen” (p9).*
  
@@ -379,7 +384,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
     > *“I'm impressed with you having Dr. L here for support in case something triggers me, which is huge for me” (p6).*
 
-2. **None of the participants appeared to have been triggered** during the research sessions, although two of them shed a few tears. During  two sessions, the clinician checked in with the participant to ask if they needed support. Both participants declined this offer; one said they were fine, and the other had already scheduled time with a friend to talk afterwards.
+2. **None of the participants appeared to have been triggered** during the carefully planned research sessions, although two of them shed a few tears. During  two sessions, the clinician checked in with the participant to ask if they needed support. Both participants declined this offer; one said they were fine, and the other had already scheduled time with a friend to talk afterwards.
 
 3. We had a **very low participant no-show rate of 13%** (1 no-show and 1 cancellation out of 15 participants scheduled), which might be due to the additional screening questions and session topic that Perigean was asked to share with potential participants before scheduling them. Perhaps these questions enabled participants to be better prepared to engage on the topic of harassment at VA. One participant shared why she was participating:
 
