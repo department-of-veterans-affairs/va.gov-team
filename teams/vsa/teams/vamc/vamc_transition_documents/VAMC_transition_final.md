@@ -23,7 +23,8 @@ _VHA Digital Media supports the VAMC Upgrade SharePoint used by this team to hos
 
 ## VAMC Web Modernization Product Run Book 
 The Web Modernization Product run book provides guidance and insights to the process and guidelines used from inception of the VAMC product to publishing the final website product to production.  Please utilize this run book for questions regarding the process, tools, and lesson learned while modernizting the VAMC website product.
-[Web Modernization Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/Web_Modernization_Run_Book.md)
+[Learn more about the Web Modernization Product Run Book](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/Web_Modernization_Run_Book.md)
 
 ## Example Resources and Tools
 _The following documents, spread sheets, and tools were utilized in completion of the VAMC Web Modernization product and have been referenced in the aforementioned Web Moderniztaion Product._
+
