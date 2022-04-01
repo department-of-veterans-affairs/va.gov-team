@@ -33,7 +33,7 @@ No, a form name update in the database should NOT cause an outage. The RowID is 
 ### A form filename was changed upstream in the database. Will this cause an outage?
 Yes, a form filename update in the database WILL cause an outage. The length of the outage depends on what time the file name was changed. 
 
-**Note**: *The filenames of forms are should NOT to be edited by the forms database team, but they are fairly often.*
+**Note**: *The filenames of forms should NOT to be edited by the forms database team, but they are fairly often.*
 
 #### Example 1) Short outage
   - A form filename was changed from [VBA-22-1990t-ARE](https://www.vba.va.gov/pubs/forms/VBA-22-1990t-ARE.pdf) was changed to [VBA-22-1990t-ARE-ZZZ](https://www.vba.va.gov/pubs/forms/VBA-22-1990t-ARE-ZZZ.pdf) in the database at 11:15PM EST on Monday. The CMS will not know about the change until the nightly migration at 12:00AM EST on Tuesday. Lighthouse will not know about the change until it's nightly pull at 3:00AM EST Tuesday. Then it will not appear correctly until the first `content-build` build at 9:00AM EST on Tuesday, thus resulting in an outage of this form for ~9.75 hours.
