@@ -15,7 +15,8 @@ Refer back to the USDS values (unless OCTO has already forked them) on the groun
 
 ## Time Off
 - Mark leave on your personal calendar
-- Send a "free" invite to all team members for the days you are away
+- Send a "free" invite to Tracey Mulrooney for the days you are away
+- Inform team members at least a week in advance
 - Mark yourself as away "X" on slack
 
 ## Meetings
