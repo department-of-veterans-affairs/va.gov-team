@@ -44,6 +44,7 @@ We used these UX research resources during design and development.
 
 ### References
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
+- [Observer guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) _research attendee etiquette_
 
 ### Templates
 - [Research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
