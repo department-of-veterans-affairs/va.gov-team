@@ -8,15 +8,14 @@ _The purpose of this transition document is to provide a central starting point 
 
 [Web_Modernization_Run_Book](#VAMC-Web-Modernization-Product-Run-Book)
 
-[VAMC Web Moderniation Example Resources](#Sitewide-Content-Quality-Assurance-process-guidelines)
-
-[Sitewide Content 2022 Goal Setting](#Sitewide-Content-2022-Goal-Setting)
-
-[VA.gov Content Style Guide](#Sitewide-Content-VA-style-guide)
+[VAMC Web Moderniation Example Resources](#Example-Resources-and-Tools)
 
 
 ## Product Owner
 Sitewide team, David Conlon
+
+## Product Repo
+[Medical Center Upgrade Product Repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
 
 ## VAMC Upgrade SharePoint
 _VHA Digital Media supports the VAMC Upgrade SharePoint used by this team to host VAMC documentation, Community of Practice presentations, and helpful tools.  These presentations, documents and helpful tools can be found at this location._
