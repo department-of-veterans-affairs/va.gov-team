@@ -76,33 +76,19 @@ We used these UX design resources to guide our design and development.
 
 ## Our UX research/design process
 
-[IN PROGRESS]
+### High-level feature migration process
 
-Add team-specific process documentation; add notes.
-
-- [Team process doc]()
-- [Reference doc]()
-- [Reference doc]()
-
-<details>
-  <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
-
-Outline your process; add notes.
+Generally, the Facilites team follow these steps for research and design. Additional steps (such as a second round of usability testing, or production review) may be added as needed.
   
 1. Analyze existing feature
 2. Conduct discovery research on existing feature
 3. Synthesize analysis and research into lo-fi screens and flows
 4. Present synthesis/lo-fi visuals at design review
 5. Improve fidelity of screens and flows
-6. Provide content for sitewide review
-7. Present refined mockups at mid-point review
+6. Provide content for a-sync design feedback
+7. Refine/finalize screens and flows
 8. Conduct usability testing
-9. Refine/finalize screens and flows
-10. Review feature in staging
-11. Second usability testing round
-12. Review feature in production (if possible)
-13. Conduct user acceptance testing
-</details>
+9. Review feature in staging
 
 ### Design tools
   
