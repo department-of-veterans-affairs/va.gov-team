@@ -60,16 +60,14 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
   - For each session with a participant using a screen reader, have an accessibility specialist as the observer to help with any technical issues.
 
 # Hypotheses and Conclusions
-1.  
-    1. MOSTLY TRUE: 
-1. 
-    1. MAYBE TRUE: 
-3. 
-    1. PARTLY TRUE: 
 1. Veterans will feel comfortable reporting harassment that occurs at VA.
-2. Veterans will learn from the poster how to report harassment that happens at VA.
-2. Veterans will learn from the static landing page how to report harassment that happens at VA.
+    1. MOSTLY TRUE: Most participants seemed comfortable reporting harassment if it's "bad enough", though many wouldn't bother if with verbal-only harassment that they could ignore.
+1. Veterans will learn from the poster how to report harassment that happens at VA.
+    1. TRUE: All participants who saw the poster said that they would report in one of the ways listed.
+3. Veterans will learn from the static landing page how to report harassment that happens at VA.
+    1. MOSTLY TRUE: All participants except one said they'd report in one of the ways listed. One participant didn't have the patience to read the page.
 3. Veterans will understand what will happen when they report harassment at VA.
+    1. NOT TRUE: Half of the participants didn't read this section on the landing page and speculated based on their own experiences.
 
 # Key Findings
 
@@ -238,23 +236,23 @@ The following is a list of what participants mentioned liking about the landing 
 
 ## Attitudes around harassment and reporting
 1. If they had seen a poster about reporting harassment while at VA and wanted to find information about how to report later when they were home, participants had different ideas for where they would look:
-  - VA.gov (6 participants)
-  - Google (4)
-  - Contact patient advocate (2)
-  - Website of local VA site (2)
-  - MyHealtheVet (1)
-  - (Note: One participant said they would look for the patient advocate's phone number on the VA site's website, which is why there are a total of 15 responses above instead of 14.) 
+    - VA.gov (6 participants)
+    - Google (4)
+    - Contact patient advocate (2)
+    - Website of local VA site (2)
+    - MyHealtheVet (1)
+    - (Note: One participant said they would look for the patient advocate's phone number on the VA site's website, which is why there are a total of 15 responses above instead of 14.) 
 
 1. **Much harassment isn't reported for a variety of reasons.** Many participants said they wouldn't report harassment in the hypothetical situation discussed during the research session (on your way into a medical appointment, someone said something rude and made a sexual gesture that made you feel uncomfortable) or other times because of the following reasons:
-  - Didn't seem serious/bad enough or physical, vs. only verbal (7 participants)
-  - Just say something directly to the person and then try to forget about it (6)  
-  - Common for women in all-male work environments; females in the military are taught to not say anything about what happens (4)
-  - Wouldn't do any good if you don't know the name of the person (3)
-  - Concerned about retaliation if report in person at the facility where it happened 
-  - Fear of what it would do to the one who reports
-  - Don't report VA people because you need something from them
-  - Maybe I was just triggered by something else. Will talk it over with my therapist
-  - Didn't know that you could report harassment that happens at VA
+    - Didn't seem serious/bad enough or physical, vs. only verbal (7 participants)
+    - Just say something directly to the person and then try to forget about it (6)  
+    - Common for women in all-male work environments; females in the military are taught to not say anything about what happens (4)
+    - Wouldn't do any good if you don't know the name of the person (3)
+    - Concerned about retaliation if report in person at the facility where it happened 
+    - Fear of what it would do to the one who reports
+    - Don't report VA people because you need something from them
+    - Maybe I was just triggered by something else. Will talk it over with my therapist
+    - Didn't know that you could report harassment that happens at VA
 
 >  *“Tell the guy to f### himself. I would go report it to somebody. I’ve reported in the past and nothing was done so I would just go on with my day” (p9)*
 
