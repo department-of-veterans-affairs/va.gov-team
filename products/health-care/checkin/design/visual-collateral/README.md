@@ -3,7 +3,7 @@
 ## Posters to be hung in clinic waiting rooms
 
 Low-vision poster (PDF)
-- 8.5" X 11"
+- [8.5" X 11"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/letter-lowvision-poster.pdf)
 - 11" X 17" 
 - [24" x 36"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8090427/24x36-lowvision-v1.4a.pdf)
 
