@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Description
-Update product guides for <list feature(s) causing an update to the product guides)
+Update product guides for <list feature(s) causing an update to the product guides>
 
 ## Tasks
 - [ ] Update the PCI Product Guide, including content and screenshots
