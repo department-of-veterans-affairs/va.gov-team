@@ -74,7 +74,7 @@ Thank you for your insight. Now, we're going to take a look at a few things in a
 
 [Link to prototype](https://www.sketch.com/s/a755a2f8-0d0d-456e-8327-61a5d31b0a97/a/52jgk4w/play)
 
-Before we select anything, let's just take a look at this. Feel free to scroll up and down, but stay on this list. 
+Let's navigate to the list of Appointments. Before we select anything, let's just take a look at this. Feel free to scroll up and down, but stay on this list. 
 - What stands out to you first when looking at the landing screen?
         - Tell me more, or why is that?
 - What information do you notice when scanning this list of appointments?
