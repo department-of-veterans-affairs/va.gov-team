@@ -27,10 +27,10 @@
 ## Product portfolio and context 
 Our products help Veterans find and prepare to visit VA locations where they can receive services.
 The Facilities team portfolio includes the following unauthenticated products:
-- [Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
-- [VAMC modernized pages product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) 
-- [Vet Center product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md)
-- [Service taxonomy product transition document](hthttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/service-taxonomy-transition.md)
+- [Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) | March 2022
+- [VAMC modernized pages product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) | March 2022
+- [Vet Center product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md) | March 2022
+- [Service taxonomy product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/service-taxonomy-transition.md) | March 2022
 
 ## Roadmaps and planning
 - [2021 quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Facilities%204Q21%20Quarterly%20planning%20(1).pdf)
