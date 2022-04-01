@@ -78,7 +78,7 @@ Nancy Smith | nancy.smith@oddball.io | Mapbox POC
 - **PPMS Integrated Planning and Scheduling (PIPS)**
    - The purpose of this meeting is to give and receive technical updates to our Integrating partners.
    - Weekly on Tuesday at 1:00 p.m. ET
-   - Agenda and notes found in [PPMS Data Web Service Forum](https://vaww.oed.portal.va.gov/pm/iehr/vista_evolution/RA/CCP_PPMS/PPMS_DWS/SitePages/Home.aspx)
+   - Agenda and notes found in [PPMS Data Web Service Forum](https://vaww.oed.portal.va.gov/pm/iehr/vista_evolution/RA/CCP_PPMS/PPMS_DWS/SitePages/Home.aspx) _requires VA network connection_
 
 - **Vet Center office hours**
 
