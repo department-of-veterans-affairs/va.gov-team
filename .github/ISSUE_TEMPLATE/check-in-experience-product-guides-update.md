@@ -1,7 +1,14 @@
+---
+name: Check In Experience Product Guide Update Task
+about: For Check In Experience Product Guide Update Tasking
+title: "[UX]"
+labels: HCE-Checkin, ux
+assignees: ''
+
+---
+
 ## Description
-Update product guide for 
-- Change from using last 4 to DOB
-- Addition of messaging and link for directions on how to update contact, EC, and NOK info
+Update product guides for <list feature(s) causing an update to the product guides)
 
 ## Tasks
 - [ ] Update the PCI Product Guide, including content and screenshots
