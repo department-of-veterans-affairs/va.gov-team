@@ -33,7 +33,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 - [x] Your application will be saved... add to prototype (maybe "Request")
 - [ ] Confirm order of SIP alert and Finish later link
-- [ ] Adjust margin-top on DOB fieldset [FE]
+- [x] Adjust margin-top on DOB fieldset [FE] (Nothing can really be done about this because DoB is considered to be a different set of data from the name in the schema)
 - [x] Add application ID to SIP alert in prototype
 - [x] Remove tell-me-more accordion from prototype
 - [x] Add "Additional contact info" form title [FE]
@@ -43,12 +43,12 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [x] Your VA loan history: shorten text field for VA loan number [FE]
 - [x] Confim hex color for red label text in prototype
 - [x] Your service history screen: change third radio button to "I’m a current member of the National Guard or Reserves and was never activated" [FE]
-- [ ] Service period list-loop: check padding-left and spaceing above save button [FE]
+- [x] Service period list-loop: check padding-left and spaceing above save button [FE]
 - [x] ~~Confirm form section titles/headers are 15px in prototype~~ (Seems headers should be 17px)
-- [ ] - [x] Review page: confirm privacy checkbox is available
+- [x] Review page: confirm privacy checkbox is available
 - [x] ~~Review page: remove gender from prototype~~ (Accordion content is N/A)
 - [ ] Review page: confirm titles vs. no-title
-- [ ] Review page: Check military service drop-down value
+- [x] Review page: Check military service drop-down value
 - [ ] Review screen: add title for service selection
 - [ ] Review screen: add title for loans sections
 - [ ] Review screen: check all chapter/sub-chapters for titles
