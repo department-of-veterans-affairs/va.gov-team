@@ -1,6 +1,8 @@
 # Search & Discovery Development
 This describes setting up the environment to work on the Search & Discovery products on a MacBook Pro. The [technical outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA%20Technical%20Orientation.md) for VSA developers, which contains information on our stack, Slack, and lots of helpful links, should be read prior to this document.[^1]
 
+<hr>
+
 ## Table of Contents
 [Software Used](#software-used)
 
@@ -12,9 +14,11 @@ This describes setting up the environment to work on the Search & Discovery prod
 
 [Starting Environment](#starting-environment-for-search-development1)
 
+[Debug Help](#debug-help)
+
 [Helpful Links](#helpful-links)
 
-<br>
+<hr>
 
 ## Software Used
 - [VS Code](https://code.visualstudio.com/download)
@@ -24,7 +28,7 @@ This describes setting up the environment to work on the Search & Discovery prod
 - [Postman](https://www.postman.com/downloads/)
 - [GitKraken](https://www.gitkraken.com/download)
 
-<br>
+<hr>
 
 ## Software Setup
 ### *VS Code*
@@ -82,7 +86,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
      - 🟡 : Connecting...
      - 🟢 : Connected 
 
-<br>
+<hr>
 
 ## Products
 | Name | GitHub | VA.gov URL | Description | 
@@ -91,7 +95,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 | [Find VA Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/find-forms.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms) | [Find Forms](https://www.va.gov/find-forms/)| This allows veterans to search for, fill out, and download any forms available in the VA.gov database. | 
 | [Resources & Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/resources-support.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/resources-and-support) | [R&S](https://www.va.gov/resources/) | This lets veterans search for resources and support articles or search all of VA.gov. This page also displays commonly used and searched links to various resources. |
 
-<br>
+<hr>
 
 ## Repositories
 ### Frontend
@@ -113,7 +117,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 | :--- | :--- |
 | [Vets Json Schema](https://github.com/department-of-veterans-affairs/vets-api) | Shared JSON Schema definitions used by form applications and the APIs that they consume. |
 
-<br>
+<hr>
 
 ## Starting Environment for Search Development[^1]
 1. Clone all repositories above into the same directory. 
@@ -146,7 +150,25 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 
 The environment should now be set up and running. Once code changes have been made, save the file. The terminal window running the `vets-webite` will show the code re-building. Once complete, refresh the browser window to reflect the code changes. 
 
-<br>
+<hr>
+
+## Debug Help
+There are two subdomains for [VA.gov](https://staging.va.gov/) that can be utilized for debugging:
+
+| Name | URL |
+| :--- | :--- |
+| Staging | [https://staging.va.gov/](https://staging.va.gov/) |
+| Dev | [https://dev.va.gov/](https://dev.va.gov/) |
+
+For each of these, a Metalsmith template object is output from content to the console on each page of the VA site. It contains various information about the page.
+
+<details>
+  <summary><strong>Example from <a target="_blank" href="https://staging.va.gov/find-forms/">https://staging.va.gov/find-forms/</a></strong> (Click to expand)</summary>
+  
+  <img src="https://user-images.githubusercontent.com/17163973/161295617-e9af2d31-3cbe-41c3-a559-428f7cfb5b6d.png"/>
+</details>
+
+<hr>
 
 ## Helpful Links
 - [Citrix Access for Checking VA Email](https://citrixaccess.va.gov/vpn/index_citrix_splash.html)
