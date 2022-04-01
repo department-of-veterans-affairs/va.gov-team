@@ -185,7 +185,7 @@ The following is a list of what participants mentioned liking about the landing 
     11. Why is discrimination at very end of the page separate? It should be integrated into the "What harassment is" section.
     12. What is meant by "VA police"? Is it the onsite security guards?
     13. Who will be taking harassment reports and how will they be trained? 
-        > *"Who are the people taking harassment reports? Veterans? Contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).*
+    > *"Who are the people taking harassment reports? Veterans? Contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).*
 
     3. Re "What harassment is and when to report it": Thought it would be tell me when timewise to submit a report--do it now or wait until I get home? Do I have a limited amount of time?
     4. How do you contact VA police? Is there a phone number to call, or do you flag them down? If so, where are they? Every location would have a different phone number and location.
@@ -198,10 +198,10 @@ The following is a list of what participants mentioned liking about the landing 
 
 1. **Mixed feedback overall**. 
 
-  - 7 participants thought all the information needed to report harassment. One said that they want to see more of these at VA, especially in bathroom stalls.
-  - 4 people thought it was too wordy. 
-  - 2 people thought it wasn't new information. 
-  - 2 people said they'd take a picture with their phone so they could read it later. One of them said they wouldn't take the time to read it in a high-traffic area because they might be judged by others.
+    - 7 participants thought all the information needed to report harassment. One said that they want to see more of these at VA, especially in bathroom stalls.
+    - 4 people thought it was too wordy. 
+    - 2 people thought it wasn't new information. 
+    - 2 people said they'd take a picture with their phone so they could read it later. One of them said they wouldn't take the time to read it in a high-traffic area because they might be judged by others.
     > *"Thorough, a lot of information. Would take a picture with my phone" (p7).*
     
     > *"Not going to read all that!" (p6).*
@@ -287,13 +287,13 @@ After seeing poster | 11 (100%)
 After seeing landing page | 12 (86%) | 2 
 Going forward | 8 (62%) | 1 | 4
 
-  - One female participant said she would call the Women's Veterans Call Center because she would feel more comfortable and safe talking with another woman about harassment.
+    - One female participant said she would call the Women's Veterans Call Center because she would feel more comfortable and safe talking with another woman about harassment.
 
-  - **In-person with a patient advocate was the most common way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences. Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). 
+    - **In-person with a patient advocate was the most common way to report.** 9 of 14 participants said that they would report harassment to the patient advocate at the facility. It is unclear whether this is because of the content in the landing page and poster, the current VA anti-harassment poster in some facilities, and/or past experiences. Participants expected that if the patient advocate wasn't the right person, they would get you to the right person (e.g., the VA police). 
 
     > *"Patient advocate is the best place...to get someone with authority. They get you to the right person...Have used patient advocates before in person and over the phone" (p13).*
 
-   - Most participants said that they would ask at the front desk to speak with the patient advocate. Other participants said that they would report harassment to VA police or security, or to a VA doctor/provider (in person or via secure message, which gets documented).
+     - Most participants said that they would ask at the front desk to speak with the patient advocate. Other participants said that they would report harassment to VA police or security, or to a VA doctor/provider (in person or via secure message, which gets documented).
 
   - Participants had different **reasons for wanting to report in person**:
     1. So the person you're talking to can see the anger/frustration in your face (2 participants)
@@ -303,7 +303,7 @@ Going forward | 8 (62%) | 1 | 4
     5. I can focus better in person (vs. over the phone)
     6. I trust my primary care provider or therapist
     
-  - Two participants said that they wanted to be able to **report anonymously for safety or privacy reasons**. A third participant at first didn't see the "What if I’m not comfortable giving my name with my report?" accordion and so thought you couldn't report anonymously. Then they saw it and thought it sounded too complicated because the OIG sounds like a different organization.
+    - Two participants said that they wanted to be able to **report anonymously for safety or privacy reasons**. A third participant at first didn't see the "What if I’m not comfortable giving my name with my report?" accordion and so thought you couldn't report anonymously. Then they saw it and thought it sounded too complicated because the OIG sounds like a different organization.
 
     > *Reporting anonymously "sounds like more of a convoluted process, though, because leaving the VA and going into a whole other organization" (p8).*
   
@@ -355,13 +355,13 @@ In this research, we tested the landing page and poster and got user feedback on
     1. p8 is non-binary and has been told in a VA site that they were in the wrong bathroom. They then tried looking for a single unisex bathroom. **unknown person**
 
 1. **Veterans' experiences interacting with the VA differ tremendously** 
-  - One participant said that she's had wonderful experiences at her VA site, but she knows from Veteran groups on Facebook that more harassment happens at other sites.
-  - A non-binary participant said that some of their VA clinics have become more welcoming of LGTBQ+ Veterans in the last few years, with posters about Pride month and LGBTQ+ Veterans, and having a separate Women's Clinic.
-  - A female participant said that VA missed an opportunity to do something nice for women. Her picture was featured in the [I am not invisible](https://www.va.gov/womenvet/iani/index.asp) campaign at her VAMC, but nobody told her that she was being recognized for this. They just hung up the picture, and a friend of hers saw it and told her. 
+    1. One participant said that she's had wonderful experiences at her VA site, but she knows from Veteran groups on Facebook that more harassment happens at other sites.
+    1. A non-binary participant said that some of their VA clinics have become more welcoming of LGTBQ+ Veterans in the last few years, with posters about Pride month and LGBTQ+ Veterans, and having a separate Women's Clinic.
+    1. A female participant said that VA missed an opportunity to do something nice for women. Her picture was featured in the [I am not invisible](https://www.va.gov/womenvet/iani/index.asp) campaign at her VAMC, but nobody told her that she was being recognized for this. They just hung up the picture, and a friend of hers saw it and told her. 
 
     > *“That would have been a perfect opportunity for them to do something to recognize women, but they ruined it” (p9).*
 
-  - Another participant talked about his frustration trying to reach VA on the phone, getting repeatedly transferred to different departments and people or disconnected without resolving his problem. And when talking to someone in person, they sometimes accuse you of being hostile.
+    1. Another participant talked about his frustration trying to reach VA on the phone, getting repeatedly transferred to different departments and people or disconnected without resolving his problem. And when talking to someone in person, they sometimes accuse you of being hostile.
 
     > *"If you get too loud or anything at the VA nowadays, they want to punch out that stress card and talk about how you're the one needing to calm down...they take frustration and loud voice as a threat...when you're trying to bust through the frustration of being handed off to 4 different offices over the phone, and you finally get maybe the right office, and you're trying to voice that something ain't right...and then someone says, 'hey, you need to calm down, you sound kinda hostile'...not having the right person in front of you who doesn't know how to deal with someone in crisis. Maybe it's a volunteer that doesn't have the right training" (p13).*
 
@@ -379,7 +379,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
 3. We had a **very low participant no-show rate of 13%** (1 no-show and 1 cancellation out of 15 participants scheduled), which might be due to the additional screening questions and session topic that Perigean was asked to share with potential participants before scheduling them. Perhaps these questions enabled participants to be better prepared to engage on the topic of harassment at VA. One participant shared why she was participating:
 
-    > *"“I hold out hope the VA will change, and that’s why I participate in this stuff” (p9).*
+    > *“I hold out hope the VA will change, and that’s why I participate in this stuff” (p9).*
 
 4. **All 14 participants said they were OK with the observers present** in the session. There was a clinician observing most of the sessions (10 of 14), and for the 4 sessions without one, a VA team member volunteered to keep a close eye on the participant. In every session, the clinician (or designated team member) appeared on camera and was introduced to the participant by the moderator. The moderator also described her own role, said that there was a notetaker and another observer from the team, and asked the participant if they were comfortable proceeding. The 3 social workers and 1 psychologist who volunteered to observe sessions were happy to help, and they shared insightful feedback afterwards.
 5. **Moderating three of these research sessions in a day was emotionally exhausting** because of the heavy stories shared by the participants, and the energy required to listen, reflect back to the participant, and provide empathy. One hour between sessions was not quite enough time to take notes and regroup before preparing for the next one. Debriefing at the end of each day with team members was super helpful to decompress and process together what we heard.
