@@ -56,7 +56,7 @@ After reviewing the landing page (and maybe the poster), research participants w
 Because harassment is a potentially triggering subject, we wanted to be careful about recruiting people to participate in this research. We wanted to have some Veterans who have experienced harassment at VA and are able to participate in research sessions without re-triggering the trauma that they've experienced. Our plans to help ensure participant safety included the following:
 - Provided an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
 - Worked with VA contacts to find social workers or other clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
-- Limited the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
+- Limited the number of observers in the session to **one** team member (plus the moderator, a clinician, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
   - For each session with a participant using a screen reader, have an accessibility specialist as the observer to help with any technical issues.
 
 # Hypotheses and Conclusions
