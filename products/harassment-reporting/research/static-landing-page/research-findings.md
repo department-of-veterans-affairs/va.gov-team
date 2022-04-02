@@ -78,15 +78,15 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 4. Some participants expected to be able to report online.
 
 ## Attitudes around harassment and reporting
-1. Much harassment isn't reported for a variety of reasons. 
+5. Much harassment isn't reported for a variety of reasons. 
 2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. In-person with a patient advocate was the most common way to report.
 
 ## The broader VA context
-1. Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.
+7. Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.
 2. Harassment is pervasive at VA and in the military, especially directed towards women. Participants shared their own stories of harassment by VA employees or others at VA.
 
 ## Feedback on the trauma-informed research methods
-1. One participant lauded the presence of a clinician during their research session.
+9. One participant lauded the presence of a clinician during their research session.
 2. None of the participants appeared to have been triggered during the carefully planned research sessions.
 3. We had a very low participant no-show rate, which might be due to the additional screening questions and session topic that Perigean shared with potential participants before scheduling them. 
 
@@ -96,7 +96,7 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 All 14 participants provided feedback on the landing page.
 1. **Desired amount of content varies greatly among participants.** 
 
-    2. More than half of the participants (8 of 14) said that the landing page had a lot of information and was straightforward and helpful. Three participants read the content closely, opening all the accordions, and appreciated all the details and the organization. One participant asked if it's going to be launched soon because they want the information on how to report harassment at VA.
+    1. More than half of the participants (8 of 14) said that the landing page had a lot of information and was straightforward and helpful. Three participants read the content closely, opening all the accordions, and appreciated all the details and the organization. One participant asked if it's going to be launched soon because they want the information on how to report harassment at VA.
     4. Five participants skimmed through the headings but not the top paragraph or the details below. One said that they would read more details if they wanted to report harassment.
     5. Two participants said that it was way too much information and they wouldn't take the time to look at it all. 
     6. One participant said they didn't know what will happen after they report; they didn't read the "What to expect after you file your report" section.
@@ -148,9 +148,9 @@ The following is a list of what participants said they liked about the landing p
     1. List of questions at the bottom (2)
     1. Hyperlinks for phone numbers to call or text because they stand out visually and easy to use from a phone (2)
     1. Important that a visitor can report harassment--not just Veterans (2)
-    6. The opening paragraph
+    1. The opening paragraph
       > *"First paragraph is very sympathetic...It makes you feel as through the VA is taking harassment very seriously" (p15).*
-    7. Red VCL button
+    8. Red VCL button
     1. "What to expect when you file your report" section
     1. Subway steps in "What to expect after you file your report" 
     1. "How to report harassment" section
@@ -159,7 +159,7 @@ The following is a list of what participants said they liked about the landing p
     
 7. **What participants *didn't like* about the landing page:**
 
-    8. The opening paragraph 
+    1. The opening paragraph 
     9. Don't need the definition of harassment
     10. Important information is too hidden--if you're not comfortable giving your name (you have to click on it to read it) 
     11. Confusing to see the 800 reporting number with hours and the 24x7 VCL number. VCL is for suicide reports and won't be able to help with harassment reporting.
@@ -176,21 +176,21 @@ The following is a list of what participants said they liked about the landing p
       - "Harassment is any unwanted behavior that creates a hostile space"--Better to be supportive without being condescending: "Harassment can happen to anyone, and it's not your fault".
       - "Read this page to learn how..." sounds like you're giving someone an order. Better: "Below you will find how to report harassment and what to expect..."
      
-    1. "Corrective action" sounds like it refers only to VA employees. 	
+    11. "Corrective action" sounds like it refers only to VA employees. 	
     > *"This seems to be directed towards employees of the VA because it says that they will take the appropriate action. I am not sure how they can make someone come back to receive punishment if they are not an employee and walk out the door" (p12).*
   
 9. **What participants thought was *missing* on the landing page and should be added:**
 
-    12. Examples that are and aren't considered harassment so know what to report and what not to report (2 participants)
-    11. More information on sexual harassment and how it's different from harassment and assault
-    12. Reassurance that it's OK to submit a report if you don't know the person's name--add this near "name or a description of the person".
+    1. Examples that are and aren't considered harassment so know what to report and what not to report (2 participants)
+    1. More information on sexual harassment and how it's different from harassment and assault
+    1. Reassurance that it's OK to submit a report if you don't know the person's name--add this near "name or a description of the person".
     > *"Could say that the report is still taken seriously. Please still report even if you don't have the name of the person. Any description you can give would be beneficial" (p11).*
-    14. That you can discuss harassment with your primary care provider or therapist because you're comfortable with them and trust them
-    15. Offer a chaplain as a resource (suggested by a military chaplain)
+    4. That you can discuss harassment with your primary care provider or therapist because you're comfortable with them and trust them
+    1. Offer a chaplain as a resource (suggested by a military chaplain)
    
 11. **Questions about content on the landing page:**
 
-    8. What if the person doing the harassing is a visitor to VA instead of an employee? Is that covered here? Not finding it in the questions at the end.
+    1. What if the person doing the harassing is a visitor to VA instead of an employee? Is that covered here? Not finding it in the questions at the end.
     9. Can you report in-person at a different location from where the harassment occurred? Or must it be the one where the harassment occurred?
     10. If I'm a man, can I request that I report with a woman? Or is that option only for women?
     11. Why is discrimination at very end of the page separate? It should be integrated into the "What harassment is" section.
@@ -198,7 +198,7 @@ The following is a list of what participants said they liked about the landing p
     13. Who will be taking harassment reports and how will they be trained? 
     > *"Who are the people taking harassment reports? Veterans? Contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).*
 
-    3. Re "What harassment is and when to report it": Thought it would be tell me when timewise to submit a report--do it now or wait until I get home? Do I have a limited amount of time?
+    7. Re "What harassment is and when to report it": Thought it would be tell me when timewise to submit a report--do it now or wait until I get home? Do I have a limited amount of time?
     4. How do you contact VA police? Is there a phone number to call, or do you flag them down? If so, where are they? Every location would have a different phone number and location.
     5. Why would you go to a cemetery to file a report?
     6. Re "Get phone numbers for VA national cemetery district offices": Do many people get harassed in cemeteries? A different participant mentioned that some people get harassed at Veteran funerals.
@@ -326,7 +326,7 @@ Going forward | 8 (62%) | 1 | 4
 ## Broader VA context
 In this research, we tested the landing page and poster and got user feedback on the content and the reporting processes described. We can't fix all of the issues described above without understanding and potentially revising the VA harassment reporting processes and policies. In this section are some findings about the broader VA context.
 
-7. **Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page, such as new policies and different behaviors by VA employees as evidence of change.
+1. **Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page, such as new policies and different behaviors by VA employees as evidence of change.
 
     > *“Harassment happens so frequently [at the VA that] it’s a surprise when it doesn’t happen” (p9).*
  
@@ -349,7 +349,7 @@ In this research, we tested the landing page and poster and got user feedback on
 
     > *"It requires a lot of extra effort to bring things to people's attention, and I didn't have the mental wherewithall to do it at the time" (p9).*	
 
-    3. For her retirement, p4's VA packet said to talk with a provider about your ailments. She saw a **VA-contracted provider** twice who heard about her MST and said, "I don't know what this is", and countered her story with "maybe you're misperceiving this." The provider must have had no training in MST and being trauma-informed. He didn't make her feel at ease and heard--no empathy or compassion.	
+    4. For her retirement, p4's VA packet said to talk with a provider about your ailments. She saw a **VA-contracted provider** twice who heard about her MST and said, "I don't know what this is", and countered her story with "maybe you're misperceiving this." The provider must have had no training in MST and being trauma-informed. He didn't make her feel at ease and heard--no empathy or compassion.	
 
     1. p9 is a breast cancer survivor, and there are no women doctors at her VAMC to take care of her (**VAMC/clinic staffing**).
     2. p9 once showed up for her gynecological exam, and was told that they had no gown for her to wear (**VA clinic supplies**). 
@@ -370,7 +370,7 @@ In this research, we tested the landing page and poster and got user feedback on
 
     > *“That would have been a perfect opportunity for them to do something to recognize women, but they ruined it” (p9).*
 
-    1. Another participant talked about his frustration trying to reach VA on the phone, getting repeatedly transferred to different departments and people or disconnected without resolving his problem. And when talking to someone in person, they sometimes accuse you of being hostile.
+    4. Another participant talked about his frustration trying to reach VA on the phone, getting repeatedly transferred to different departments and people or disconnected without resolving his problem. And when talking to someone in person, they sometimes accuse you of being hostile.
 
     > *"If you get too loud or anything at the VA nowadays, they want to punch out that stress card and talk about how you're the one needing to calm down...they take frustration and loud voice as a threat...when you're trying to bust through the frustration of being handed off to 4 different offices over the phone, and you finally get maybe the right office, and you're trying to voice that something ain't right...and then someone says, 'hey, you need to calm down, you sound kinda hostile'...not having the right person in front of you who doesn't know how to deal with someone in crisis. Maybe it's a volunteer that doesn't have the right training" (p13).*
 
@@ -419,7 +419,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 ## We need to talk about VA processes and services 
 The harassment reporting process as currently described in the landing page and poster content is unnecessarily complex for Veterans and visitors to do. We should simplify the VA process from a service design perspective, and then the content can be simplified to make a better user experience.
 
-1. **Simplify the harassment reporting process to reduce the burden on the person reporting** because they may be distraught and not know whether what happened is assault, sexual assault, or harassment. Give them simple straightforward options for reporting so they don't have to choose between or try multiple avenues while they're upset. We need the process of reporting harassment to be as easy as possible so people will take the time to do it. 
+5. **Simplify the harassment reporting process to reduce the burden on the person reporting** because they may be distraught and not know whether what happened is assault, sexual assault, or harassment. Give them simple straightforward options for reporting so they don't have to choose between or try multiple avenues while they're upset. We need the process of reporting harassment to be as easy as possible so people will take the time to do it. 
  
     1. To report harassment by phone, there needs to be **a single phone number that you can call ANYTIME day or night** so you don't have to choose from multiple numbers. We need to focus on the user experience of the person gathering up the courage to report. The current phone number with limited hours and days will lead to fewer harassment reports and also likely erodes trust in VA. If there are some hours/days that the phone number isn't answered, there needs to be a message on it that tells callers how to report harassment in another way that's available right now. The people who answer this phone number need to be able to take the report or do a warm transfer (stay on the line and do an introduction) to 911 or wherever else is appropriate.
     2. **Simplify the message of who to report to in person: a patient advocate, any staff member you trust, or a security guard**. Leave out the details about which kinds of employees at different VA facilities and the cemetery district office phone numbers because it's too much information.
@@ -433,7 +433,8 @@ The harassment reporting process as currently described in the landing page and 
 
 # Next Steps
 
-With the above findings and recommendations, the service design for reporting harassment at VA should be discussed and streamlined from the Veteran/visitor perspective. Then the content on the landing page and poster can be simplified accordingly.
+1. With the above findings and recommendations, the service design for reporting harassment at VA should be discussed and streamlined from the Veteran/visitor perspective. 
+2. Then the content on the landing page and poster can be simplified accordingly.
 
 # Further research needed
 
