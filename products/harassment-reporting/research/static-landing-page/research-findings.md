@@ -413,6 +413,8 @@ Below are a few findings that relate to the trauma-informed research methods we 
     1. **Victims of harassment and witnesses of harassment**--Highlight the importance of reporting harassment that you witness (and not experience personally) because that can help reduce the burden to report on the victims of harassment. Include this message near the top of both the landing page and the poster.
     2. **All genders including women and non-binary** folks--With the current gender-neutral language, some women may feel unseen as targets of harassment. Consider acknowledging women specifically by using the word "women" in some places in the materials.
 
+1. **Consider removing the extra vertical spacing and separating gray line** between the subway steps and questions on the landing page so that it doesn't look like the bottom of the page.  
+
 
 ## We need to talk about VA processes and services 
 The harassment reporting process as currently described in the landing page and poster content is unnecessarily complex for Veterans and visitors to do. We should simplify the VA process from a service design perspective, and then the content can be simplified to make a better user experience.
