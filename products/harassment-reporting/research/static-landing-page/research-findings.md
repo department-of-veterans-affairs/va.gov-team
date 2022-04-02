@@ -468,11 +468,11 @@ We recommend additional user research on the landing page and poster once they h
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/landing-page-7.png">
 
 ### Screenshot of Poster
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/our-poster.png">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/our-poster.png" width="60%" height="60%">
 
 ### Screenshot of a different VA poster that's now in VA facilities
 This poster is currently being posted in VA facilities. This copy was shared by one of the social worker observers. Note that the poster has many fewer words so it's easy to quickly scan, and has a QR code for more information. 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/VA%20anti-harassment-poster.png">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/VA%20anti-harassment-poster.png" width="50%" height="50%">
 
 ### Screenshot of the web page reached from the QR code in the above poster 
 The QR code in the poster above leads to the following web page for the VHA Assault and Harassment Prevention Office. It contains information including a spedometer-type gauge of behavior that goes from Acceptable to Sexual Violence/Assault, which doesn't seem helpful and might actually be harmful.
