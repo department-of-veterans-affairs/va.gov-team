@@ -226,7 +226,7 @@ The following is a list of what participants said they liked about the landing p
 5. **What participants *liked* about the poster:**
     1. Very clear with phone number to call
     > *"That's new. Don't have much hope, but would try it" (p9).*
-    1. "What harassment is and when to report it" section
+    2. "What harassment is and when to report it" section
     2. Suggestion of a security guard because you might want someone in uniform to help
     3. Information that's in bold and larger font because you see it right away
 
@@ -419,7 +419,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 ## We need to talk about VA processes and services 
 The harassment reporting process as currently described in the landing page and poster content is unnecessarily complex for Veterans and visitors to do. We should simplify the VA process from a service design perspective, and then the content can be simplified to make a better user experience.
 
-5. **Simplify the harassment reporting process to reduce the burden on the person reporting** because they may be distraught and not know whether what happened is assault, sexual assault, or harassment. Give them simple straightforward options for reporting so they don't have to choose between or try multiple avenues while they're upset. We need the process of reporting harassment to be as easy as possible so people will take the time to do it. 
+6. **Simplify the harassment reporting process to reduce the burden on the person reporting** because they may be distraught and not know whether what happened is assault, sexual assault, or harassment. Give them simple straightforward options for reporting so they don't have to choose between or try multiple avenues while they're upset. We need the process of reporting harassment to be as easy as possible so people will take the time to do it. 
  
     1. To report harassment by phone, there needs to be **a single phone number that you can call ANYTIME day or night** so you don't have to choose from multiple numbers. We need to focus on the user experience of the person gathering up the courage to report. The current phone number with limited hours and days will lead to fewer harassment reports and also likely erodes trust in VA. If there are some hours/days that the phone number isn't answered, there needs to be a message on it that tells callers how to report harassment in another way that's available right now. The people who answer this phone number need to be able to take the report or do a warm transfer (stay on the line and do an introduction) to 911 or wherever else is appropriate.
     2. **Simplify the message of who to report to in person: a patient advocate, any staff member you trust, or a security guard**. Leave out the details about which kinds of employees at different VA facilities and the cemetery district office phone numbers because it's too much information.
