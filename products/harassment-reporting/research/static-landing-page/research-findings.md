@@ -72,14 +72,14 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 # Key Findings
 
 ## Feedback on the landing page and poster
-1. The desired amount of content varies greatly among participants.
+1. The desired amount of content varies greatly among participants (from "all the details" to "only the headers" to "just the phone number/link to report").
 2. Some participants were skeptical that the harassment content reflects new change at VA.
-3. The hours for reporting by phone were too limited.
+3. The days/hours for reporting by phone were too limited *(M, Tu, W, F 9 am - 4 pm ET and Th 9 am to 1 pm ET)*.
 4. Some participants expected to be able to report online.
 
 ## Attitudes around harassment and reporting
-5. Much harassment isn't reported for a variety of reasons. 
-2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. In-person with a patient advocate was the most common way to report.
+5. Much harassment isn't reported for a variety of reasons, most commonly because it doesn't seem serious/bad enough or physical, and so many people just say something directly to the person and then try to forget about it.
+2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. The most common way to report is in-person with a patient advocate.
 
 ## The broader VA context
 7. Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.
@@ -88,7 +88,7 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 ## Feedback on the trauma-informed research methods
 9. One participant lauded the presence of a clinician during their research session.
 2. None of the participants appeared to have been triggered during the carefully planned research sessions.
-3. We had a very low participant no-show rate, which might be due to the additional screening questions and session topic that Perigean shared with potential participants before scheduling them. 
+3. We had a very low participant no-show rate, which might have been due to the additional screening questions and session topic that Perigean shared with potential participants before scheduling them. 
 
 # Details of Findings 
 
@@ -114,7 +114,7 @@ All 14 participants provided feedback on the landing page.
 
 1. **Page layout gives the impression of a shorter page.** Two participants--one using a screen reader and one not--stopped scrolling the page after the subway map steps because they interpreted the separating gray line just below that as indicating the bottom of the page.
 
-3. **Hours for reporting by phone were too limited.** Half of the participants (7 of 14) were concerned about the limited hours for the harassment reporting phone number because the time of day when they finally summon enough courage to report harassment is unpredictable. They don't want to have to wait until the next morning or weekday. Also, the limited hours make it inconvenient for Veterans who work during the day to report in private after work. Some said they might call the Veterans Crisis Line because it's available 24x7 but doubted that they would be able to report harassment that way. One person wondered what message they would get if they tried calling the phone number after hours to report.
+3. **Days/hours for reporting by phone were too limited**: *Mondays, Tuesdays, Wednesdays, and Fridays, 9:00 a.m. to 4:00 p.m. ET and Thursdays, 9:00 a.m. to 1:00 p.m. ET*. Half of the participants (7 of 14) were concerned about the limited hours for the harassment reporting phone number because the time of day when they finally summon enough courage to report harassment is unpredictable. They don't want to have to wait until the next morning or weekday. Also, the limited hours make it inconvenient for Veterans who work during the day to report in private after work. Some said they might call the Veterans Crisis Line because it's available 24x7 but doubted that they would be able to report harassment that way. One person wondered what message they would get if they tried calling the phone number after hours to report.
 
     > *"I would hope for a 24-hour line...Sometimes this stuff happens at 3 am, or you remember it at 3 am, or you come to the conclusion that you should report it then...I experience delayed reaction when I have issues like that" (p12).*
 
@@ -438,7 +438,7 @@ The harassment reporting process as currently described in the landing page and 
 
 # Further research needed
 
-We recommend additional user research on the landing page and poster once they have been revised.
+We recommend additional user research on the landing page and poster once they have been revised. Participants should include more screen reader users, as this study had only one but planned for 3. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
 
 # Appendix
 
