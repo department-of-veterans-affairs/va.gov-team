@@ -29,8 +29,8 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 The purpose of this research was to get user feedback on the new static landing page and poster about harassment reporting at VA. From these resources, we would like Veterans to know how to report harassment at VA.
 
 # Research Questions
-1. How do Veterans today report harassment at VA? 
-2. How would Veterans find out how to report harassment at VA? 
+1. How do Veterans today report harassment at VA? (ask at beginning)
+2. How would Veterans find out how to report harassment at VA? (ask at beginning)
 4. What are users' reactions to the poster?
     1. What sentiments/feelings do they express? 
     2. How would they report harassment? 
