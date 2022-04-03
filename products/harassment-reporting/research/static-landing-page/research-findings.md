@@ -82,7 +82,7 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. The most common way to report is in-person with a patient advocate.
 
 ## The broader VA context
-7. Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.
+7. Participants reacted with varying degrees of skepticism about whether harassment reporting would make a difference at VA.
 2. Harassment is pervasive at VA and in the military, especially directed towards women. Participants shared their own stories of harassment by VA employees or others at VA.
 
 ## Feedback on the trauma-informed research methods
@@ -326,7 +326,7 @@ Going forward | 8 (62%) | 1 | 4
 ## Broader VA context
 In this research, we tested the landing page and poster and got user feedback on the content and the reporting processes described. We can't fix all of the issues described above without understanding and potentially revising the VA harassment reporting processes and policies. In this section are some findings about the broader VA context.
 
-1. **Participants reacted to the idea of harassment reporting at VA with varying degrees of skepticism.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page, such as new policies and different behaviors by VA employees as evidence of change.
+1. **Participants reacted with varying degrees of skepticism about whether harassment reporting would make a difference at VA.** Some Veterans appreciated these efforts by VA to acknowledge that harassment exists and finally trying to do something about it, while others said they're skeptical because of their many experiences to the contrary at VA and in the military. They don't think anything will change at VA and want to see evidence of systemic change in addition to a new poster and web page, such as new policies and different behaviors by VA employees as evidence of change.
 
     > *“Harassment happens so frequently [at the VA that] it’s a surprise when it doesn’t happen” (p9).*
  
@@ -438,7 +438,8 @@ The harassment reporting process as currently described in the landing page and 
 
 # Further research needed
 
-We recommend additional user research on the landing page and poster once they have been revised. Participants should include more screen reader users, as this study had only one but planned for 3. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
+- We recommend additional user research on the landing page and poster once they have been revised. 
+- Participants should include more screen reader users, as this study had only one but planned for 3. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
 
 # Appendix
 
