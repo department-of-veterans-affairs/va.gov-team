@@ -57,7 +57,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 - [x] Change "minimum active-duty service requirements" to "minimum service requirement"
 - [x] Available state: change link text to "Make changes to your COE online by filling out VA Form 26-1880"
-- [ ] Uploader: dropdown capital S on "Report of Separation and Record of Service (NGB Form 22)" [FE]
+- [x] Uploader: dropdown capital S on "Report of Separation and Record of Service (NGB Form 22)" [FE]
 - [ ] Uploader: make "upload document" button only as wide at the text plus padding [FE]
 - [ ] Uploader: hide Submit before upload [FE]
 - [ ] Check padding on blue border-left for hidden text field; check text field alignment shift [FE]
