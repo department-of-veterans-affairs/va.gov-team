@@ -75,7 +75,11 @@ Will focus on pre-check in (week before) and post visit functionality
 
 --- 
 ## Go-to-market Strategy
-A Pilot site will be chosen (possibly Martinsburg, West Virginia). Once the site is chosen that group of Veterans will be a pilot group where the Kiosk will be replaced with digital check-in.
+- Choose a Pilot site (St. Louis, MO)
+- Follow and support Pilot faciliites
+- Conduct research interviews with Veterans and staff at Pilot sites (April 27-29, 2022)
+- Make pre-check-in and check-in available to first VIZN (~ May 2, 2022)
+- Make pre-check-in and check-in available to other VIZNs (~ 1 per week)
 
 - [Link to Release Plan]There is no release plan at this time.
 
@@ -83,10 +87,10 @@ A Pilot site will be chosen (possibly Martinsburg, West Virginia). Once the site
 - *Target Launch Date*
   - 7/30/2021
 - *Actual Launch Date* 
-  - tbd
+  - ???
 - *What date will you evaluate impact after launch?*
-  - tbd
----
+  - Beginning Jan, 2022
+
 
 ## Solution Narrative
 
@@ -94,11 +98,12 @@ A Veteran will receive a text and email linking them to an easy to use check-in 
 
 ### Current Status
 
-Veteran and onsite (Veteran and staff) research has been completed. 
+- Veteran and onsite (Veteran and staff) research has been completed. 
+- MVP is in a Pilot phase
 
 ### Key Decisions
 
----
+- Full authentication is necessary in order to allow Veterans to update their personal contact, emergency contact, and/or next-of-kin contact information.
    
 ## Screenshots
 
