@@ -1,5 +1,5 @@
 # VSA View Payments UX research and design hub
-**VSA team name**
+**VSA eBenefits Migration team**
 
 <br>
 
