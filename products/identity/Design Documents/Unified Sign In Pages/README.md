@@ -80,7 +80,9 @@ This is currently the default method and requires the mobile application to impl
 2. `vets-website` will recognize when the `?application` type is one of the mobile application values, and will generate a `returnUrl` as `fed.eauth.va.gov/oauthe/sps/oauth/oauth20/authorize?<params>` where `?<params>` is all of the provided params.
 
 NOTE: `vets-website` has no validation on the provided params, and is impartial to what it appends onto the eAuth url. We simply append whatever comes in via the Unified Sign-In page.
+
 3. `vets-website` will handle authentication in our traditional sense utilizng the `vets-api -- v1/sessions` endpoints..
+
 4. Upon successful authentication, the user will be redirected to the generated EAuth url with the params attached. From here, the users SSO session will be recognized and EAuth will handle parsing the params and redirecting the user back to the mobile applications with the necessary auth tokens required for mobile.
 
 ### Sign-In Service Enabled
