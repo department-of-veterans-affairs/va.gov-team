@@ -1,8 +1,6 @@
 # VSA Mobile Health Clinics UX research and design hub
 **VSA Facilities**
 
-[IN PROGRESS]
-
 >**Feature transition document | March 2022**
 >
 > The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **this particular feature.** Also included are links to other resources and references used.
