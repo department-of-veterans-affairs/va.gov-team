@@ -71,13 +71,13 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
      - A Veteran will receive a text and email linking them to an easy to use pre-check-in website 
      - A Veteran can view their contact, emergency contact, and next-of-kin information and indicate if the information is correct or needs to be updated
      - A Veteran can view their list of appointments with links to perform check-in if it is the day of their appointment and they have no updates to their information
-     - Once mobile pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their apointment
+     - Once mobile pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
 - Release Date: Jan 2022
 
 #### Spanish Language Translations
 - Purpose: Allow Veterans to see check-in and pre-check-in instructions translated to Spanish
 - Functionality: Veteran will be provided with a mechanism on the pre-check-in and pre-check-in websites to indicate that they would like to see
-Release Date: Targeted for May 2022 
+- Release Date: Targeted for May 2022 
 
 #### Pre-check-in for Telemedicine Appointments
 - Purpose: Allow Veterans to perform check-in and pre-check-in for telephone appointments
