@@ -79,7 +79,7 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 
 ## Attitudes around harassment and reporting
 5. Much harassment isn't reported for a variety of reasons, most commonly because it doesn't seem serious/bad enough or physical, and so many people just say something directly to the person and then try to forget about it.
-2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site vs. at home), their own preferences, and their past experiences. The most common way to report is in-person with a patient advocate.
+2. Participants said they'd decide how to report harassment based on their current location (i.e., at a VA site *vs.* at home), their own preferences, and their past experiences. The most common way to report is in-person with a patient advocate.
 
 ## The broader VA context
 7. Participants reacted with varying degrees of skepticism about whether harassment reporting would make a difference at VA.
@@ -283,7 +283,7 @@ All 14 participants provided feedback on the landing page.
  
     > *"If it was a major offense--extraordinarily insulting because it takes energy to report" (p4).*
 
-1. Participants said they'd **decide HOW to report harassment based on their current location** (i.e., report in person if they're at a VA site vs. report by phone if they're at home), **their own preferences, and their past experiences**. Many said they'd try one method, and if it wasn't helpful, they would try a different way. 
+1. Participants said they'd **decide HOW to report harassment based on their current location** (i.e., report in person if they're at a VA site *vs.* report by phone if they're at home), **their own preferences, and their past experiences**. Many said they'd try one method, and if it wasn't helpful, they would try a different way. 
 
     > *"Did you take my account seriously? If not, I will try the next resource...Don't want a single point of failure" (p4).*
 
