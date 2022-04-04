@@ -25,4 +25,4 @@
   - Should certain Veterans not be intercepted?
 
 # [Platform research documentation](https://depo-platform-documentation.scrollhelp.site/research-design/)
-You can find detailed process information on remote studies and unmoderated studies. There are also links to the research plan and conversation guide templates. An interesting piece of timing information found with the research plan template, if you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person.
+This site provides detailed process information on remote and unmoderated studies. The research repo with all past studies is linked to from the platform site. There are also links to the research plan and conversation guide templates. An interesting piece of timing information found within the research plan template, if you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person.
