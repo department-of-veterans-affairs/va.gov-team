@@ -1,8 +1,6 @@
 # VSA Lovell Federal Health UX research and design hub
 **VSA Facilities**
 
-[IN PROGRESS]
-
 <br>
 
 >**Feature transition document | March 2022**
