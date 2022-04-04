@@ -28,6 +28,9 @@
  
 </details>
 
+## Monday, April 4, 2022
+* general updates (servicelocations, healthserviceAPI, VA health connect, facility urls, Cerner)
+
 ## Monday, March 28, 2022
 * `servicelocations` (8017)
   * LH in a holding pattern until latency issue is resolved
