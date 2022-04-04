@@ -14,6 +14,9 @@
     2. [Test Patient Management](#patients)
         1. [Get Patient Demographics](#getPatient)
         2. [Update Phone Number](#putPatient)
+5. [VistA Access](#vista-access)
+    1. [SSH Access](#ssh-connectivity-for-dev)
+    2. [Insurance Verification](#how-to-update-insurance-verification-timestamp)
 <a name=""></a>
 <a name=""></a>
 <a name="overview-section"></a>
