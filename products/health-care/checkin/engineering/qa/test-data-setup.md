@@ -477,14 +477,23 @@ curl --request PUT \
 ```
 # VistA Access 
 
-There may be a need to access VistA directly to schedult an appointment or checnge data for a test patient. 
+There may be a need to access VistA directly to schedule an appointment or change data for a test patient. 
 
-## ssh connectivity for dev. 
+## SSH connectivity for dev
 
-To access Vista, ssh to the follwoing system using port 2222 instead of 22.  For example:
+To access Vista, ssh to the following system using port 2222 instead of 22. (VPN access required)
 
-ssh -p 2222 vista@oitdvrappclin03.r01.med.va.gov
+For example:
+
+`ssh -p 2222 vista@oitdvrappclin03.r01.med.va.gov`
 
 email shane.elliott@va.gov for Access and Verify Code. 
 
+## How to update insurance verification timestamp
 
+- SSH into VistA as above
+- Select `Edit Insurance Timestamp`
+- type the test patient's name in `last, first` format
+- enter a date to set the insurance timestamp, such as `T@8AM` for today at 8 AM
+
+![vista_insurance_timestamp](https://user-images.githubusercontent.com/101649/161555137-896ffff7-1855-4c71-98ec-adbc06903823.png)
