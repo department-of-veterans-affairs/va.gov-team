@@ -24,8 +24,8 @@
   - Who does the initial intercept (you or staff)?
   - Should certain Veterans not be intercepted?
 
-# [Platform research documentation](https://depo-platform-documentation.scrollhelp.site/research-design/)
-This site provides:
+# Platform research documentation
+[This site](https://depo-platform-documentation.scrollhelp.site/research-design/) provides:
 - detailed process information on remote and unmoderated studies. 
 - link to the research repo with all past studies. 
 - links to the research plan and conversation guide templates. 
