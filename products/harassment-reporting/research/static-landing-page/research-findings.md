@@ -403,8 +403,8 @@ Below are a few findings that relate to the trauma-informed research methods we 
         3. The ability for the **harassment reporting line to triage employee reports over to the correct place** so that we don’t have to try to stress that this page is only for Veterans/visitors up front.
     1. For the poster and landing page, **make the title a strong but brief call to action** that speaks to both harassment and sexual assault. 
     1. **Make the “what harassment is” content less prominent**. Some people wanted this information, while others wanted less information overall, and 2 participants said that having VA define harassment for them felt condescending.
-        1. (landing page only) Place the “what harassment is” details behind an accordion or link. By putting this information behind an accordion or link, we allow people to still get the information if they want it, simplify the page, and bring the more critical “What to expect” section up higher on the page so people don’t miss it.
-        1. (poster only) Minimize the number of words so it's easy to scan and understand in a short amount of time. Consider deleting the "What harassment is and when to report it" section at the bottom to simplify the design. Consider adding a QR code to the landing page for more information.
+        1. *(landing page only)* Place the “what harassment is” details behind an accordion or link. By putting this information behind an accordion or link, we allow people to still get the information if they want it, simplify the page, and bring the more critical “What to expect” section up higher on the page so people don’t miss it.
+        1. *(poster only)* Minimize the number of words so it's easy to scan and understand in a short amount of time. Consider deleting the "What harassment is and when to report it" section at the bottom to simplify the design. Consider adding a QR code to the landing page for more information.
 
 1. We need to get people more comfortable with reporting harassment. **Providing an online form to report harassment** would help and was expected by many participants.
 
@@ -440,7 +440,7 @@ The harassment reporting process as currently described in the landing page and 
 # Further research needed
 
 - We recommend additional user research on the landing page and poster once they have been revised. 
-- Participants should include more screen reader users, as this study had only one but planned for 3. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
+- Participants should include more screen reader users, as this study had only one but planned for three. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
 
 # Appendix
 
