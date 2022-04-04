@@ -27,7 +27,7 @@
 # Platform research documentation
 [This site](https://depo-platform-documentation.scrollhelp.site/research-design/) provides:
 - detailed process information on remote and unmoderated studies. 
-- link to the research repo with all past studies. 
+- a link to the research repo with all past studies. 
 - links to the research plan and conversation guide templates. 
   - Interesting timing information from the research plan template:
     - If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person.
