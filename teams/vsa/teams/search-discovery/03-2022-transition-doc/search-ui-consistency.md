@@ -30,7 +30,5 @@ This table includes links to the individual design work products.
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
 | Mockups | [Mobile](https://vsateams.invisionapp.com/console/share/8Y10IE2JN2J4) <br> [Desktop](https://vsateams.invisionapp.com/console/share/SD10IE31CENR) | --- | Apr 2021 | In Production |
+| Search UI - Visual anatomy | [Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30400#issuecomment-934730163) | --- | Oct 2021| Mockup created |
 | Typeahead - Design System | [GH request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/637) | --- | Feb 2022| Submitted |
-
-
-
