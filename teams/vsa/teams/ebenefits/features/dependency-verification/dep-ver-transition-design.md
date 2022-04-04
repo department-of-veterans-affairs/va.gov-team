@@ -89,9 +89,11 @@ This table includes links to the individual design work products.
 ## Process milestones
 As of April 2022, this feature was blocked by technical deployment issues.
 
-- [Design intent ZZZ 2021]()
-- [IA review ZZZ 2021]()
-- [Content review ZZZ 2021]()
+- [Design intent AUG 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/28130)
+- [Content review JUL 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27948)
+- [Accessibility review JUL 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27842)
+- [Midpoint review JUL 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27637)
+- [Staging review SEP 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/29805)
 
 <br>
 
