@@ -30,6 +30,22 @@
 
 ## Monday, April 4, 2022
 * general updates (servicelocations, healthserviceAPI, VA health connect, facility urls, Cerner)
+* LH close to a QA-like environment this week, timelines will be clearer after that
+* facility url: CMS team to work on data structure agreed to
+* Cerner data
+  * what health record is being used at which system (3 states = Vista, Cerner, or almost Cerner)
+  * CMS could add to facility push but Dave has reservations
+    * OCTO-DE would prefer Veterans to go through VA's portal, not Cerner's
+    * may be some value for other systems to be able to differentiate
+    * would need to make a distinction between Cerner and specific Vista instance
+    * health care teams may be interested
+    * LH to validate if there's a consumer desire before CMS connects to LH
+    * data is currently available in the CMS
+  * doesn't add any benefit to LH today, might augment Vista info
+* VA health connect phone
+  * LH to add to v0
+  * 24 reload, details on how to send from CMS to LH
+  * CMS to provide LH IDs of facilities with health connect numbers (existing 3 VISNs: 2, 8, 17)
 
 ## Monday, March 28, 2022
 * `servicelocations` (8017)
