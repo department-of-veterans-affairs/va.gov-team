@@ -128,7 +128,7 @@ All 14 participants provided feedback on the landing page.
 1. There was **confusion about what happens after you report harassment**. Some participants didn't read the "What to expect after you file your report" section, and others spoke based on their own past experiences with reporting harassment at VA. Here some of the responses:
     - Want a followup to know the steps taken and their resolution, especially if the harassment was worse than a catcall (5 participants) 
     - Nothing would happen after reporting and don't expect followup, although they would like to have it (2)
-    - VA might send a letter to the perpetrator, but this won't do anything for a civilian or a Veteran. The person who reports won't get any details due to privacy. Something might happen if if were a VA employee because they might get reprimanded and could lose their job if they don't change their behavior.
+    - VA might send a letter to the perpetrator, but this won't do anything for a civilian or a Veteran. The person who reports won't get any details due to privacy. Something might happen if it were a VA employee because they might get reprimanded and could lose their job if they don't change their behavior.
     - Expects to hear a timeline for the followup
     - Wonders how quickly they would hear back, and worried about how many other cases need to be followed up on "within 1 business day" (in subway step 1). If it takes more than a week, they'd have to re-live the bad experience again when asked what the perpetrator was wearing, etc. 
     - Hopes that the perpetrator is reprimanded immediately and told that harassment isn't tolerated
@@ -196,7 +196,7 @@ All 14 participants provided feedback on the landing page.
     13. Who will be taking harassment reports and how will they be trained? 
     > *"Who are the people taking harassment reports? Veterans? Contractors? VA employees? Medical professionals? Someone with expertise? Someone who could reassure me that some action would be taken and in what timeframe?" (p5).*
 
-    7. Re "What harassment is and when to report it": Thought it would be tell me when timewise to submit a report--do it now or wait until I get home? Do I have a limited amount of time?
+    7. Re "What harassment is and when to report it": Thought it would tell me when timewise to submit a report--do it now or wait until I get home? Do I have a limited amount of time?
     4. How do you contact VA police? Is there a phone number to call, or do you flag them down? If so, where are they? Every location would have a different phone number and location.
     5. Why would you go to a cemetery to file a report?
     6. Re "Get phone numbers for VA national cemetery district offices": Do many people get harassed in cemeteries? A different participant mentioned that some people get harassed at Veteran funerals.
@@ -388,7 +388,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
     > *“I hold out hope the VA will change, and that’s why I participate in this stuff” (p9).*
 
-4. **All 14 participants said they were OK with the observers present** in the session. There was a clinician observing most of the sessions (10 of 14), and for the 4 sessions without one, a VA team member volunteered to keep a close eye on the participant. In every session, the clinician (or designated team member) appeared on camera and was introduced to the participant by the moderator. The moderator also described her own role, said that there was a notetaker and another observer from the team, and asked the participant if they were comfortable proceeding. The 3 social workers and 1 psychologist who volunteered to observe sessions were happy to help, and they shared insightful feedback afterwards.
+4. **All 14 participants said they were OK with the observers present** in the session. There was a clinician observing most of the sessions (10 of 14), and for the 4 sessions without one, a VA team member volunteered to keep a close eye on the participant. In every session, the clinician (or designated team member) appeared on camera and was introduced to the participant by the moderator. The moderator also described her own role, said that there was a notetaker and another observer from the team, and asked the participant if they were comfortable proceeding. The 3 social workers and 1 psychologist who volunteered to observe sessions were happy to help, and they shared insightful feedback afterwards about content focus on harassment victims *vs.* witnesses and gender-neutrality *vs.* women specifically.
 5. **Moderating three of these research sessions in a day was emotionally exhausting** because of the heavy stories shared by the participants, and the energy required to listen, reflect back to the participant, and provide empathy. One hour between sessions was not quite enough time to take notes and regroup before preparing for the next one. Debriefing at the end of each day with Danielle Thierry, Martha Wilkes, and Angela Fowler was super helpful to decompress and process together what we heard.
 
 
@@ -397,10 +397,10 @@ Below are a few findings that relate to the trauma-informed research methods we 
 ## What we can address with technology, content, and design
 
 1. The landing page and poster need to **provide simple, clear instructions for everyone on how to report harassment or assault, with easy access to optional information for those who want more detail**. Assuming that the purpose of this page is to explain how to report harassment (and not a hub for all information about harassment), some specific suggestions are below:
-    1. **Simplify the instructions on how to report harassment**. Note that this is only fully possible by simplifying the underlying process and barriers to reporting through this harassment prevention line. This means we need:
+    1. **Simplify the instructions on how to report harassment**. Note that this is only fully possible by simplifying the underlying process and barriers to reporting through this harassment reporting line. This means we need:
         1. **One phone number for all reports (including sexual assault) with 24-hour access** so we can provide simple, clear instructions for all right up front.
         2. **Training for all VA staff** on how to help people get to the right place to file a report so we can provide just a general note about how to report in person rather than details on different people and phone numbers for different VA locations.
-        3. The ability for the **harassment prevention line to triage employee reports over to the correct place** so that we don’t have to try to stress that this page is only for Veterans/visitors up front.
+        3. The ability for the **harassment reporting line to triage employee reports over to the correct place** so that we don’t have to try to stress that this page is only for Veterans/visitors up front.
     1. For the poster and landing page, **make the title a strong but brief call to action** that speaks to both harassment and sexual assault. 
     1. **Make the “what harassment is” content less prominent**. Some people wanted this information, while others wanted less information overall, and 2 participants said that having VA define harassment for them felt condescending.
         1. (landing page only) Place the “what harassment is” details behind an accordion or link. By putting this information behind an accordion or link, we allow people to still get the information if they want it, simplify the page, and bring the more critical “What to expect” section up higher on the page so people don’t miss it.
@@ -408,13 +408,13 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
 1. We need to get people more comfortable with reporting harassment. **Providing an online form to report harassment** would help and was expected by many participants.
 
-1. Consider **making the anonymous reporting option clearer by moving it closer to related content**.
+1. Consider **making the anonymous reporting option clearer by moving it closer to related content**; i.e., near "Your name and contact information" under "Information we'll ask you to share".
 
 1. Revisit the audience of these harassment reporting materials:
     1. **Victims of harassment and witnesses of harassment**--Highlight the importance of reporting harassment that you witness (and not experience personally) because that can help reduce the burden to report on the victims of harassment. Include this message near the top of both the landing page and the poster.
     2. **All genders including women and non-binary** folks--With the current gender-neutral language, some women may feel unseen as targets of harassment. Consider acknowledging women specifically by using the word "women" in some places in the materials.
 
-1. **Consider removing the separating gray line and the extra vertical spacing** between the subway steps and questions on the landing page so that it doesn't look like the bottom of the page.  
+1. **Consider removing the separating gray line and ideally also the extra vertical spacing** between the subway steps and questions on the landing page so that it doesn't look like the bottom of the page.  
 
 
 ## We need to talk about VA processes and services 
@@ -473,17 +473,19 @@ The harassment reporting process as currently described in the landing page and 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/our-poster.png" width="60%" height="60%">
 
 ### Screenshot of a different VA poster that's now in VA facilities
-This poster is currently being posted in VA facilities. This copy was shared by one of the social worker observers. 
-- Note that the poster has many fewer words so it's easy to quickly scan, and has a QR code for more information. 
-- However, the poster doesn't use plain language nor adhere to the existing VA style guide and design standards. 
+The poster shown below is currently being posted in VA facilities. This copy was shared by one of the social worker observers. 
+- Note that the poster has many fewer words than what was tested in this research so it's easy to quickly scan, and it has a QR code to get more information. 
+- However, the poster doesn't use plain language, nor adhere to the existing VA.gov content style guide and design standards. 
 - *Has this poster been tested with Veterans? What is the purpose of this poster, and will it be replaced by a revised version of the poster tested in this research study?*
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/VA%20anti-harassment-poster.png" width="50%" height="50%">
 
 ### Screenshot of the web page reached from the QR code in the above poster 
-The QR code in the above poster leads to the following web page for the VHA Assault and Harassment Prevention Office. 
-- This page doesn't use plain language nor adhere to the existing VA style guide and design standards.
+The QR code in the above poster leads to the web page shown below for the VHA Assault and Harassment Prevention Office. 
+- This page doesn't use plain language, nor adhere to the existing VA.gov content style guide and design standards.
 - *Has this web page been tested with Veterans? What is the purpose of this web page, and will it be replaced by a revised version of the landing page tested in this research study?*
-- This page contains information including a spedometer-type gauge of behavior that goes from Acceptable to Sexual Violence/Assault, which doesn't seem helpful and might actually be harmful.
+- This page contains a spedometer-like gauge of behavior that goes from Acceptable Behavior to Sexual Violence/Assault, which doesn't seem helpful and might actually be harmful. 
+  - *Is the target audience people who are wondering what acceptable behavior is, or is it for general guidance about how to interact with others?* Many research participants in this study said they wouldn't report harassment unless it was "bad enough", which would likely only be in the red area farthest to the right on the gauge. This gauge might leave the impression that the other types of harassment aren't as serious and so they're OK to not report.
+  - The gauge and the text around it isn't in plain language (e.g., "pervasive effects on the experiencer").
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/Harassment-prevention-office-1.png">
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/Harassment-prevention-office-2.png">
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/Harassment-prevention-office-gauge.png">
