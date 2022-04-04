@@ -103,7 +103,8 @@ Examples of **research with VA.gov users** include:
 - [ ] Static pages
 - [ ] Both
 
-*For tools and applications, take into account if any static page entry points will need updates.*
+*For tools and applications, take into account if any static page entry points will need updates.<br/>
+**For information and examples of Static vs Dynamic pages, review the [Static vs Dynamic guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/static-and-non-static-page-documentation.md).
 
 ### 7. Will your work include:  
 
