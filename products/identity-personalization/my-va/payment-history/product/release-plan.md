@@ -66,7 +66,7 @@
 
 |KPI/metric|Baseline: Jan-Mar 2022|Post-launch: Week 1| Post-launch: Month 1|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 8.5mil (visits to the url)|TBD URL visits, TBD URL visits originating from My VA|TBD URL visits, TBD URL visits originating from My VA|
+|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 8.5mil (visits to the url)|TBD URL visits, TBD URL visits orig from My VA|TBD URL visits, TBD URL visits orig from My VA|
 |Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 560k|TBD|TBD|
 |Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
 |Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 904k|TBD|TBD|
