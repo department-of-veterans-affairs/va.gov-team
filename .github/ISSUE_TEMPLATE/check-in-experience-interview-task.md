@@ -14,6 +14,8 @@ We would like to interview <person's name> regarding .....
 See list of questions generated here........
 
 ## Acceptance Criteria
-- [ ] Interview <person's name>
+- [ ] Identify person to lead the interview
+- [ ] Identify at least one note taker
+- [ ] Perform Interview
 - [ ] Take notes
 - [ ] Post de-identified notes to GitHub
