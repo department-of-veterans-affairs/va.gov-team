@@ -8,16 +8,13 @@ Welcome to the Identity folder. This directory contains information about user i
 
 ### Current Team Objectives
 
-**Login.gov Rollout**   
-_Current Status:_ In Progress 
-We are working to roll out Login.gov as an option for users within the VA.gov space.  This will allow Veterans and other users to utilize a modern, secure credential that is maintained by the US Government, and can be utilized throughout government services such as the SSA, IRS, and many others.  
 
 **Sign-in Service Pilot**  
-_Current Status:_ Actively working on this  
+_Current Status:_ Actively working on this.  Phase 1 done, starting on Phase 2 April 2022  
 We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
 
 **Inherited Proofing**  
-_Current Status:_ Preliminary Research and Design Work  
+_Current Status:_ Research underway April 2022
 We are working to provide a framework for users to migrate from legacy Credential Service Providers such as MyHealtheVet to more modern providers such as Login.gov.  This includes tools to help users select a new CSP that meets their needs, as well as validating that users are eligible to migrate to these CSPs.  The goal of this work is to provide users a more uniform, secure experience across government services.
 
 **In-Person and Online Identity Proofing**  
@@ -57,6 +54,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Alex Garcia - Frontend Engineer
 - Kyle Woolley - Frontend Engineer
 - Sylvester Lee - Security Engineer
+- Ian Hundree - DevOps Engineer
 
 
 ## Communications
