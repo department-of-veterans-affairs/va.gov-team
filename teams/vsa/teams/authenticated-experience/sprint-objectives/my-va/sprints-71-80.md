@@ -11,7 +11,7 @@
 - [Sprint 79](#sprint-79-727---89)
 - [Sprint 80](#sprint-80-810---823)
 
-## Sprint 71 (4/6 - 4/19) 
+## Sprint 71 (4/6 - 4/19) #37608
 
 - If applicable: Add Columbus, OH to list of Cerner facilities #38551
 
