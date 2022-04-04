@@ -95,7 +95,7 @@ Release Date: Targeted for May 2022
 - Conduct research interviews with Veterans and staff at Pilot sites (April 27-29, 2022)
 - Make product available to first VIZN (~ May 2, 2022)
 - Make product available to additional VIZNs (~ 1 per week)
-
+- Refer to this [spreadsheet](https://docs.google.com/spreadsheets/d/1QPT26waWswK5C-e-u3Z3UGu_T9BkeDRlSwFsUEVggTg/edit#gid=0) for go-to-market timeframes
 
 
 
