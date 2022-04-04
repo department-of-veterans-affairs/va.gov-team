@@ -1,6 +1,6 @@
 # Benefit payments and debts: UAT Go/No-Go | 4/4/2022
 
-## Decision: 
+## Decision: The team agrees that we are a GO for UAT!
 ---
 
 **Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/product/release-plan.md) complete and ready to execute against?**
