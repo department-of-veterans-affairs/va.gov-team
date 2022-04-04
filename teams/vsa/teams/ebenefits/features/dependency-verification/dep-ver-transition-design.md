@@ -41,7 +41,6 @@ This table includes links to the individual research studies.
 | Usability testing  | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependency-verification-research-findings.md) | --- |
 | UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/UAT/dep-ver-uat-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/UAT/dep-ver-uat-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/UAT/dependency-verification-UAT-summary.md) | --- |
 
-
 ### References used
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
@@ -81,18 +80,14 @@ This table includes links to the individual design work products.
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ### Tools used
-List your tools; add notes.
   
-- Sketch for Teams
-- UXPin
-- Mural
+- Adobe XD
 - Github markdown
-- VSCode
 
 <br>
 
 ## Process milestones
-As of March 2022, this feature bypassed midpoint review and was moving toward staging review an UAT.
+As of April 2022, this feature was blocked by technical deployment issues.
 
 - [Design intent APR 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23484)
 - [IA review NOV 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-home-loan-coe.md)
@@ -104,11 +99,6 @@ As of March 2022, this feature bypassed midpoint review and was moving toward st
 - [COE UX/UI/frontend punchlist MAR 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-punchlist.md)
 - [COE changelog JUL 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
 - [eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
-
-### Existing web pages
-- [How to apply for a VA home loan Certificate of Eligibility (VA.gov)](https://www.va.gov/housing-assistance/home-loans/how-to-apply/)
-- [Certificate of Eligibility for Home Loan (eBenefits)](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
-
 
 <br>
 
