@@ -1,3 +1,12 @@
+---
+name: Check In Experience Research Interview Task
+about: For Check In Experience Research Interview Tasking
+title: "[UX]"
+labels: ux, HCE-Checkin
+assignees: ''
+
+---
+
 ## Problem Statement
 We would like to interview <person's name> regarding <topic>.
 
