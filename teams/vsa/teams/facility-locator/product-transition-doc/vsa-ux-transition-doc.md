@@ -81,9 +81,9 @@ We used these UX design resources to guide our design and development.
 Generally, the Facilites team follow these steps for research and design. Additional steps (such as a second round of usability testing, or production review) may be added as needed.
   
 1. Analyze existing feature
-2. Conduct discovery research on existing feature
+2. Conduct discovery research on existing feature (see [Resources and support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/taxonomy/VBA-services-discovery.md) discovery example)
 3. Synthesize analysis and research into lo-fi screens and flows
-4. Present synthesis/lo-fi visuals at design review
+4. Present synthesis/lo-fi visuals at design review (see [Lovell Federal lofi designs](https://preview.uxpin.com/93cf67f26d2b936504ffc415de7cf97fcb8d8e1c?_gl=1*12uwaf2*_gcl_aw*R0NMLjE2NDgwNTUxMzkuQ2p3S0NBandpdXVSQmhCdkVpd0FGWEthTlA5M25BLTBsZlI4QTBtY3R6bEREZFB2bEIxWTJRcVZsdTdmc0UyT1VERlRSb3NybEc1UVVSb0NvQUlRQXZEX0J3RQ..#/pages/147178609/simulate/sitemap?mode=i) example)
 5. Improve fidelity of screens and flows
 6. Provide content for a-sync design feedback
 7. Refine/finalize screens and flows
