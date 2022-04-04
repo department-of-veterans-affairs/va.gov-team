@@ -8,7 +8,7 @@
 
 - Prototype is located on [a branch](https://github.com/department-of-veterans-affairs/vets-website/pull/20673)
 - In a demo-able state
-- NOT TESTED
+- Not production ready
 - The BE needs to be running to use it locally.
 - Has not be merged into master
 - created a new HOC called `withSession` that loads the session from the BE after the user logs
@@ -141,5 +141,4 @@
 - Investigate ways to track usage and drop off point during flows
 - Complete the BE endpoints to push data to the correct systems
 - Figure out when we are sending the demographics confirmation status
-
-
+- Test and find edge cases
