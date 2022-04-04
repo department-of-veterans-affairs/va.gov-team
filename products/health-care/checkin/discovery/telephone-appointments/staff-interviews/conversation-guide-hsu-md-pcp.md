@@ -31,7 +31,7 @@
 
 - Are all patients (e.g., new vs. returning), appointment types (e.g., screening, follow up, etc.) and reasons for their visit all able to schedule a telephone appointment (vs. in-person)? What are some of those patient eligibility requirements to schedule a telephone appointment? 
 
-- Are appointment reminders orany pre-registration sent to patients before a scheduled telephone appointment? If so, what information is typically in those communications and how are they delivered to patients? E.g., VeText, phone calls, emails, etc. 
+- Are appointment reminders or any pre-registration sent to patients before a scheduled telephone appointment? If so, what information is typically in those communications and how are they delivered to patients? E.g., VeText, phone calls, emails, etc. 
 
 - What typically happens immediately before a scheduled telephone appointment? For example, does the provider call the patient directly at the time of the appointment? Are there multiple phone numbers to try if the patient doesn’t pick up? 
 
