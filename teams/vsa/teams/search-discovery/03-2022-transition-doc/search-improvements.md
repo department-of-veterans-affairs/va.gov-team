@@ -14,7 +14,7 @@
 
 Search on VA.gov uses the Search Results API provided by Search.gov. The help manual can be found [here](http://search.digitalgov.gov/manual/).
 
-In order to get access to the search.gov console, you have to have a log in and be approved. This process is best accomplished by emailing [[search@gsa.gov](mailto:search@gsa.gov "mailto:search@gsa.gov")](mailto:[search@gsa.gov](mailto:search@gsa.gov "mailto:search@gsa.gov")). *When you do so, be sure to CC your PO as part of the process, as they track VA approval for all credentialed accounts they distribute.*
+In order to get access to the search.gov console, you have to have a log in and be approved. This process is best accomplished by emailing search@gsa.gov. *When you do so, be sure to CC your PO as part of the process, as they track VA approval for all credentialed accounts they distribute.*
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
 
@@ -40,9 +40,11 @@ This table includes links to the individual research studies.
 
 
 See:
-- Search UI Consistency 
-- Typeahead
+- [Search UI Consistency](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/search-ui-consistency.md)
+- [Typeahead](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/typeahead.md)
 
 ## Other feature documentation
-
+- Research has shown the need for scam awareness content on VA.gov:
+    - [Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b779828ffe71fa79eb96993ac979495be4efe981/teams/vsa/teams/search-discovery/03-2022-transition-doc/files/social-listening-scam-awareness.pptx)
+    - [GH request ticket with data on scam impact to Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16756)
 <br>
