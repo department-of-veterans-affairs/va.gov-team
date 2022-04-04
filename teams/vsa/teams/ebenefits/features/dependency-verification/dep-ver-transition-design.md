@@ -89,9 +89,9 @@ This table includes links to the individual design work products.
 ## Process milestones
 As of April 2022, this feature was blocked by technical deployment issues.
 
-- [Design intent APR 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/23484)
-- [IA review NOV 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-home-loan-coe.md)
-- [Content review AUG 2021](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/29435)
+- [Design intent ZZZ 2021]()
+- [IA review ZZZ 2021]()
+- [Content review ZZZ 2021]()
 
 <br>
 
