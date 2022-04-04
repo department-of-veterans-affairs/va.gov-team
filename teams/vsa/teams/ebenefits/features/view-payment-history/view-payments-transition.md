@@ -5,7 +5,7 @@
 
 >**Feature transition document | April 2022**
 >
-> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **this particular feature.** Also included are links to other resources and references used.
+> The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for the **View Payments tool.** Also included are links to other resources and references used.
 
 <br>
 
@@ -23,20 +23,17 @@
 <br>
 
 ## Feature background
-- [Existing feature]()
-- [VA product or form]()
-- [Product outline]()
+- [Existing feature landing page](https://www.va.gov/va-payment-history/)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history)
 
 ## UX research studies
 This table includes links to the individual research studies.
 
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| Discovery | [Link]() | [Link]() | [Link]() | --- |
-| Baseline | [Link]() | [Link]() | [Link]() | --- |
-| UAT | [Link]() | [Link]() | [Link]() | --- |
-| Study title | [Link]() | [Link]() | [Link]() | --- |
-
+| Discovery baseline | --- | --- | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md) | --- |
+| Usability testing | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-usability-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md) | --- |
+| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-convo-guide.md) | --- | --- |
 
 ### References used
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
@@ -47,11 +44,10 @@ This table includes links to the individual research studies.
 - [Findings template]()
 
 ### Tools used
-List your tools; add notes.
-  
-- InVision
-- Mural
-- Optimal workshop
+ 
+- Sketch
+- Github
+- Adobe XD
 
 <br>
 
