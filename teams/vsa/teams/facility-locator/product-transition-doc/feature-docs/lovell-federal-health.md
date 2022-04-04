@@ -36,6 +36,7 @@ This table includes links to the individual design work products.
 | Screens | Links | Last Rev | Last status |
 | :--- | :--- | :--- | :--- |
 | Information architecture flow | [Moqups](https://app.moqups.com/Rnc4BDEKrA/view/page/a38ead751) | March 2022 | IA review |
+| Top task discovery diagram | [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1642708450813/52521c15676970f2db4fcdd8161eb1dcb5ac87f1?sender=u8a90be72499ecb4354e14700) | March 2022 | Design intent |
 | Feature Flow Diagrams | [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1639752014389/5eeb47259cd9128ac0eef10e483761a6247137e0?sender=michellemiddaugh9063) | March 2022 |  Design intent |
 | Wireframes | [UXPin](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)| March 2022 | Design intent |
 
