@@ -114,16 +114,16 @@ Please recruit 12 participants for 6 completed sessions.
 ## Timeline
 ### Prepare
 When will the thing you are testing be finalized? 
-April 2022 (tentative)
+April 18, 2022 (tentative)
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD - Since we have very specific crtieria and were unale to find someone who meets it ourselves, we will use the first session as the test pilot. Please schedule only one person on the first day so we can make any necessary adjustments.
+* Pilot participant email: TBD - Since we have very specific crtieria and were unable to find someone who meets it ourselves, we will use the first session as the test pilot. Please schedule only one person on the first day so we can make any necessary adjustments.
 * Date and time of pilot session: 
   * TBD
 
 ### Research sessions
 What dates do you plan to do research? 
-3/21/2022 - 4/1/2022
+4/12/2022 - 4/15/2022
 
 ### Length of sessions
 Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
@@ -132,16 +132,10 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 3/21/2022 | 9am - 5pm |	
-| 3/22/2022 | 9am - 1pm, 4pm - any time |
-| 3/23/2022 | 9am - 12pm, 4:15pm - any time |
-| 3/24/2022 | 9am - 12pm, 1pm - any time |
-| 3/25/2022 | 9am - 1pm, 2pm - any time |
-| 3/28/2022 | 9am - 5pm |
-| 3/29/2022 | 9am - 2pm, 4pm - any time |
-| 3/30/2022 | 9am - 2pm, 4:30 - any time |
-| 3/31/2022 | 9am - 1:30pm, 3:30pm - any time |
-| 4/1/2022 | 9am - 1pm, 2pm - any time |
+| 4/12/2022 | 9am - any time |	
+| 4/13/2022 | 9am - 3pm |
+| 4/14/2022 | 9am - any time |
+| 4/15/2022 | 9am - any time |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
