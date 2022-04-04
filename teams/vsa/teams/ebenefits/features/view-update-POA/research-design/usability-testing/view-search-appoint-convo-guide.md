@@ -91,6 +91,7 @@ Before we look at the website, let’s start with a few introduction questions.
 - What elements does the user look for or interact with?  
     - Do they use search? 
     - Do they look under myVA? 
+    - What words do they use when talking about finding an accredited representative?
 
 
 ## Second Task: Finding a representative - 5-10 minutes 
