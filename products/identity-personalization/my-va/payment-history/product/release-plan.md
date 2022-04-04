@@ -64,18 +64,18 @@
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1| Post-launch: Month 1|
+|KPI/metric|Baseline: Jan-Mar 2022|Post-launch: Week 1| Post-launch: Month 1|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil (visits to the url)|TBD URL visits, TBD URL visits originating from My VA|TBD URL visits, TBD URL visits originating from My VA|
-|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
+|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 8.5mil (visits to the url)|TBD URL visits, TBD URL visits originating from My VA|TBD URL visits, TBD URL visits originating from My VA|
+|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 560k|TBD|TBD|
 |Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
-|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
+|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 904k|TBD|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Week 1| Post-launch: Month 1|
+|KPI/metric|Baseline: Jan - Mar 2022|Post-launch: Week 1| Post-launch: Month 1|
 |----------|-------------|---------------|-------------------|
 |Search rank for "payment” or "payment history" from My VA| #1, #10, #11|TBD|TBD|
 |Search rank for "debt” or "debt management" from My VA| #3, #20|TBD|TBD|
