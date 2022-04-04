@@ -4,7 +4,7 @@
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to outline the state of 1010-CG product development as of March 2022. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific "feature transition hubs" where you can find direct links to resources and references used during design and development.
+> This transition document links to the C+L teams' recommendations, based on research, interviews with other federal government agencies, internal stakeholders and testing of various technologies/approaches as part of discovery on a recommended appraoch to supporting an enterprise-wide translation effort: [here](https://dvagov-my.sharepoint.com/:f:/g/personal/danielle_thierry_va_gov/EoZNyWVWoqlFrwg0Gv7qp4wBESFqCTi5LgBFZ9iL6MLW3A?e=InGRw4)
 
 
 <br>
