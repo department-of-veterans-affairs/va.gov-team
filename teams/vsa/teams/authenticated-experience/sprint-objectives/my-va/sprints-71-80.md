@@ -43,7 +43,7 @@
 
 **Medical co-pays/debts**
 
-- TBD. Need to figure out if we need more explorations or if we have designs ready for testing.
+- TBD. Need to figure out if we need more explorations or if we have designs ready for testing. (#38984 exploration continues)
 
 ### My VA audit
 
