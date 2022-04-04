@@ -20,9 +20,9 @@
     - If you do not have a PIV card and were approved for a visitor’s pass, your first stop should be to pick up your visitor’s pass.
 
 ## Tips and recommendations
-  - If your methodology involves guerilla testing or intercepting Veterans, discuss the following with staff at each site before you begin your study:
-    - Who does the initial intercept (you or staff)?
-    - Should certain Veterans not be intercepted?
+- If your methodology involves guerilla testing or intercepting Veterans, discuss the following with staff at each site before you begin your study:
+  - Who does the initial intercept (you or staff)?
+  - Should certain Veterans not be intercepted?
 
 # [Platform research documentation](https://depo-platform-documentation.scrollhelp.site/research-design/)
 This site provides detailed process information on remote and unmoderated studies. The research repo with all past studies is linked to from the platform site. There are also links to the research plan and conversation guide templates. An interesting piece of timing information found within the research plan template, if you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person.
