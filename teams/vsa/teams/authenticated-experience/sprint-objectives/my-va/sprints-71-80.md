@@ -23,7 +23,6 @@
 ### Payment info
 
 - Updates from staging review, if necessary
-- Privacy and security review (ticket open and pending review)
 - If all is good to go, recruit and hold UAT #38194
 - PM: During UAT, make sure we can see analytics coming in for new links #39280
   - [Use this report](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions) and make sure you see [all new links for which we've added tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37589).
