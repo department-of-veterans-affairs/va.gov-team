@@ -140,8 +140,7 @@ All 14 participants provided feedback on the landing page.
 
     > *"When I did report it [to a patient advocate], nothing was done about it...'We'll get back to you', and then they disappear into the VA system, never to be seen or heard from again...Supposedly there was going to be an investigation, then nothing" (p9).*
 
-7. **What participants *liked* about the landing page:**
-The following is a list of what participants said they liked about the landing page, with the number of participants who said this in parentheses if more than one:
+7. Here is **what participants said they *liked* about the landing page**, with the number of participants who said this in parentheses if more than one:
     1. Definition of harassment and examples, including verbal comments so you know when you should report it (3 participants)
     1. Alert box at top with phone numbers (3)
     1. Organization with jump links at top and dropdowns for more information (3)
@@ -157,8 +156,7 @@ The following is a list of what participants said they liked about the landing p
     1. "Information we’ll ask you to share" section
     1. Good that you can report in any of these locations (in the "Report harassment in person" section)
     
-7. **What participants *didn't like* about the landing page:**
-
+7. Below is **what participants said they *didn't like* about the landing page** (each item was mentioned by one participant):
     1. The opening paragraph 
     9. Don't need the definition of harassment
     10. Important information is too hidden--if you're not comfortable giving your name (you have to click on it to read it) 
@@ -172,8 +170,8 @@ The following is a list of what participants said they liked about the landing p
      
       - "Corrective action happens right away". Better to say "corrective action will be taken" (don't say that it will happen right away because nothing happens right away at the VA).
      
-    17. Some languge has too condescending of a tone:
-      - "Harassment is any unwanted behavior that creates a hostile space"--Better to be supportive without being condescending: "Harassment can happen to anyone, and it's not your fault".
+    17. **Some language sounded too condescending** in tone:
+      - "Harassment is any unwanted behavior that creates a hostile space"--This participant at first felt that it was condescending for VA to define  what harassment is and that getting right into the next lines of “Harassment can happen to anyone. It’s not your fault.” would be better. This same participant then rethought and expressed that she did like having that one-line definition there. 
       - "Read this page to learn how..." sounds like you're giving someone an order. Better: "Below you will find how to report harassment and what to expect..."
      
     11. "Corrective action" sounds like it refers only to VA employees. 	
@@ -396,7 +394,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
 # Recommendations
 
-## What we can address with technology/content alone
+## What we can address with technology, content, and design
 
 1. The landing page and poster need to **better serve the entire range of audiences who want to read the details *vs.* only the headers *vs.* just the phone number/link to report** by providing the most critical details up front with optional access to more information lower down and/or accessible via links (progressive disclosure). Assuming that the purpose of this page is to explain how to report harassment (and not a hub for all information about harassment), some specific content suggestions are below:
 
@@ -407,7 +405,7 @@ Below are a few findings that relate to the trauma-informed research methods we 
 
 1. We need to get people more comfortable with reporting harassment. **Providing an online form to report harassment** would help and was expected by many participants.
 
-1. Consider **making the anonymous reporting option more clear** by adding the accordion on the same line as "Your name and contact information" under "Information we'll ask you to share", and also describing it in a more conversational tone.
+1. Consider **making the anonymous reporting option more clear** by adding the accordion on the same line as "Your name and contact information" under "Information we'll ask you to share".
 
 1. Revisit the audience of these harassment reporting materials:
     1. **Victims of harassment and witnesses of harassment**--Highlight the importance of reporting harassment that you witness (and not experience personally) because that can help reduce the burden to report on the victims of harassment. Include this message near the top of both the landing page and the poster.
