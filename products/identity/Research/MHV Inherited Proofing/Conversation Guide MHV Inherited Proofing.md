@@ -22,6 +22,7 @@
 - [x] Get the prototype link ready on hand to share
     - [x] [VA.gov Modal MHV Transition](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Inherited-Proofing?page-id=992%3A8889&node-id=992%3A8988&viewport=379%2C48%2C0.11&scaling=min-zoom&starting-point-node-id=992%3A8988)
     - [x] [Login.gov Inherited Proofing Flow](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Inherited-Proofing?page-id=421%3A1885&node-id=447%3A4390&viewport=379%2C48%2C0.12&scaling=min-zoom&starting-point-node-id=447%3A4390)
+    - [x] [VA.gov Ineligible Proofing Flow](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Inherited-Proofing?page-id=992%3A10896&node-id=992%3A10995&viewport=379%2C48%2C0.57&scaling=min-zoom&starting-point-node-id=992%3A10995)
 - [x] Get the email prototype link or PDF ready on hand to share
     - [x] [VA.gov Modal MHV Transition - Email Flow](https://www.figma.com/proto/p8GkEx3nIkDye1TxbUcfQz/MHV-Inherited-Proofing?page-id=43%3A93&node-id=328%3A1615&viewport=379%2C48%2C0.09&scaling=min-zoom&starting-point-node-id=328%3A1615)
 - [x] Review recruitment PDF for addtional participant information
