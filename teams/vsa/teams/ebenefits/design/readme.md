@@ -25,7 +25,7 @@ This table includes links to the individual feature directory and the latest ite
 | Feature (Github link) | AKA | Status (Latest feature link) | |
 | :--- | :--- | :--- | :---: |
 | [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | [In production](https://www.va.gov/disability/view-disability-rating/) | <ul><li> - [ ] </li></ul> |
-| View Dependents | --- | [In production](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | <ul><li> - [ ] </li></ul> |
+| [View Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | --- | [In production](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | <ul><li> - [ ] </li></ul> |
 | [View Payments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history) | Payment History | [In production](https://www.va.gov/va-payment-history/) | <ul><li> - [ ] </li></ul> |
 | [VA Form 21-686c/674](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | Add/remove dependents | [In production](https://www.va.gov/view-change-dependents/) | <ul><li> - [ ] </li></ul> |
 | [VA Form 28-8832](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling) | Chapter 36/PCPG | [In production]() | <ul><li> - [ ] </li></ul> |
