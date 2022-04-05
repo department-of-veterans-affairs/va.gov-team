@@ -151,11 +151,18 @@ Brief plain-language description of this product’s history and next steps
 - [DOMO dashboard](https://va-gov.domo.com/page/1314425343)
 - [Other]()
 
-### Research and design
-- [**Reasearch and design hub page**]()
-- [Individual feature/initiative hub page]()
-- [Individual feature/initiative hub page]()
-- [Individual feature/initiative hub page]()
+### User Research
+- [Baseline Wayfinding Research on VA.gov (Apr-May 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding)
+- [Search Design Concepts Research (Sept 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research/2021-Aug-research-study)
+- [Find a Form PDF Downloading Usability Research (July 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
+- [Outreach & Events Usability Research (Dec 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/research)
+- [Harassment Reporting Research--Landing page and poster (Mar 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/static-landing-page)
+- [Harassment Reporting Tool Research (incomplete)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/usability)
+- [Veteran Top Tasks Research (incomplete)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/research/Veteran-tasks)
+
+### Design
+- [Outreach & Events v3--Keyword & location search](https://www.sketch.com/s/7dcc203e-588d-4b74-8c89-e68ddfea35b1)
+- [Outreach & Events v2--Date filter](https://www.sketch.com/s/8ec18b80-a905-47fb-a217-5720450befa1)
 
 ### Engineering
 | Feature (Github link) | AKA | Status (Latest feature link) |
