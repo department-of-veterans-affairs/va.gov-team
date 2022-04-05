@@ -135,11 +135,10 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Consider removing the search feature from article pages. The search feature is not included on individual pages on Find a Form. The search feature on R&S pushes content down. Input field is not visible on mobile until expanded.
 
 - **Tags**
-  - During the moderated usability study, most users <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">did not recognize tags as clickable</a>
+  - During the moderated usability study, only 3 out of 8 users <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">expected tags to be clickable</a>
   - Tags are not heavily utilized by content editors, most pages only contain the tag, 'All Veterans'
-  - During usability testing, users did not recognize tags as clickable
   - Explore continuing the 'Topics' section from the R&S landing page instead of Tags
-     - Explore ordering 'Topics' by most popular 
+  - Explore ordering 'Topics' by most popular 
 
 - **Rate your experience**
   - Started tracking in June/July, there were 4,181 votes from July 1 – Oct 1, 2021
