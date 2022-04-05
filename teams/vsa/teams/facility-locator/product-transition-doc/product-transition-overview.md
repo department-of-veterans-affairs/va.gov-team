@@ -29,7 +29,7 @@ Our products help Veterans find and prepare to visit VA locations where they can
 The Facilities team portfolio includes the following unauthenticated products:
 - [Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) | March 2022
 - [VAMC modernized pages product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vamc-pages-transition.md) | March 2022
-- [VAMC Transition documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/VAMC_transition_final.md) | VMAC upgrade team | March 2022
+- [VAMC Transition documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/VAMC_transition_final.md) | VAMC upgrade team | March 2022
 - [Vet Center product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vet-center-pages-transition.md) | March 2022
 - [Service taxonomy product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/service-taxonomy-transition.md) | March 2022
 
