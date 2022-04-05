@@ -145,7 +145,7 @@ This page is shown if the rules engine still has a state of INPROGRESS after 60 
 
 #### Error
 This page is shown if the rules engine returns an error state. If this happens, the claimant is advised to retry later.
-<img alt="Under Review Decision Page" src="./screenshots/under-review-decision.png" height="400">
+<img alt="Error Decision Page" src="./screenshots/error-decision.png" height="400">
 
 ---
 
