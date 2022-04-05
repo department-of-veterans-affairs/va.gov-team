@@ -17,7 +17,9 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 - [Word (.docx)] [PRE-CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8247197/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
 
-### dd/mm/yyyy Release
+### Releases
+
+#### dd/mm/yyyy Release
 - Feature Flag    
 - Summary
 - New
