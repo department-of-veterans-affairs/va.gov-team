@@ -5,11 +5,12 @@
 >**Team transition document | March 2022**
 >
 > The purpose of this transition document is to outline the state of 1010-CG product development as of March 2022. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific "feature transition hubs" where you can find direct links to resources and references used during design and development.
-> 
+>
 > **Note:** The 10-10EZ health care application management was under the purview of the VSA-Caregivers team, thus you will notice that some 10-10EZ documentation is intermixed with 10-10CG documentation folders. This hub pages avoids this, please see the [VSA 10-10EZ transition hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/README.md) if you are looking for information on the health care application.
 
 
 <br>
+
 
 ## Table of Contents
 [Product context, portfolio, and artifacts](#product-context)
@@ -25,7 +26,7 @@
 <br>
 
 
-## Product context 
+## Product context
 Team vision: A seamless online experience that allows Veterans and Caregivers to easily apply for, track, and manage care-related benefits. The MVP of the online 10-10CG was released in October of 2020 as an unauthenticated experience. We continue to iterate in order to improve the experience of applying for The Program of Comprehensive Assistance for Family Caregivers.
 
 - Used by Veterans and Caregivers of disabled Veterans to apply for Caregiver benefits from the VA
@@ -83,7 +84,7 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 ## Roadmap
 
 **Now**
-- Improve acceptance rate of representative documents that are uploaded by user 
+- Improve acceptance rate of representative documents that are uploaded by user
 - CARMA Mulesoft Implementation
 - Report Automation
 - Add Failure alerts
@@ -97,8 +98,8 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 **Future**
 - Rewrite Introduction page
 - Notifications: Confirmation Email/text
-- Multilingual 
- 
+- Multilingual
+
 
 ### Features and initiatives we worked on
 This table includes links to the individual feature directory.
@@ -136,7 +137,7 @@ This table includes links to the individual feature directory.
 - Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
 - Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
 - Rebecca Bixler | rebecca.bixler@va.gov -- Health System Specialist
-- Aaron Sudholdt  | aaron.sudholt@va.gov -- PM, scheduling 
+- Aaron Sudholdt  | aaron.sudholt@va.gov -- PM, scheduling
 
 **CARMA team**
 - Caitlin Reyna | caitlin.reyna@va.gov - CARMA PM
