@@ -7,7 +7,7 @@
 2. Share your research plan with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
     - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
 3. Begin communicating with your contract’s COR officer for travel approvals.
-4. Begin communicating with the identified site contacts or Quality Management officers determine:
+4. Begin communicating with the identified site contacts or Quality Management officers to determine:
     - What dates work best for both you and the site.
     - Who to ask for when your research group arrives at the site.
     - Where to go (if necessary) when arriving.
