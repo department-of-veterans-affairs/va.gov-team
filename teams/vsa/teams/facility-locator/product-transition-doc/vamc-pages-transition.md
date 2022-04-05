@@ -46,6 +46,7 @@ Clarence Maeng | Slack @Clarence Maeng | CMS Delivery Manager
 ## Documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
 - [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
+- [VAMC Transition documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/VAMC_transition_final.md)
 - [Web Modernization Run Book](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/Web_Modernization_Run_Book.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632)
 
