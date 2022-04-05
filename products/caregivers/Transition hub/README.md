@@ -57,6 +57,7 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 **Analytics**
 - Analytics dashboard: [Domo](https://va-gov.domo.com/page/1905395623?userId=1492182741) (Original dashboard, no longer maintained), [Domo](https://va-gov.domo.com/page/447193050) (New consolidated forms dashboard), and [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20210501&_u.date01=20210524/)
 - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/metrics/Important%20Google%20Analytics%20event%20labels.md)
+- [DataDog Dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team?from_ts=1648597677333&to_ts=1649202477333&live=true) (need credentials)
 
 
 **Engineering**
@@ -106,7 +107,7 @@ This table includes links to the individual feature directory.
 | Feature (Github link) | AKA | Status |
 | :--- | :--- | :--- |
 | [Sign as a representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Sign%20as%20a%20representative.md) |Formally called "POA" (power of attorney)| In production at 50% |
-| [Mulesoft integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Mulesoft%20integration.md) | Mule in the Middle, Mulesoft Proxy | Prod 100% |
+| [Mulesoft integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Mulesoft%20integration.md) | Mule in the Middle, Mulesoft Proxy | Prod 100% (since Mar-30-2022) |
 | [Facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md) | Also designed for 10-10EZ use | In design |
 | [Primary/Secondary Caregiver selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Primary%20and%20Secondary%20Caregiver%20selection.md) | N/A | In design |
 
