@@ -33,8 +33,6 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 1. *ONLY participants on desktop and NOT using a screen reader:* **Show the poster** on the moderator's computer with mouse control given to the participant. Participants will be able to view the poster and scroll it.
 2. *ALL participants:* **Show the static landing page** on Staging by giving participants a URL to open in their browser. Participants will be able to view the page and interact with the content, opening and closing accordions.
 
-*[ACTION ITEM: Get the static landing page onto Staging that works on desktop & mobile with all accordions/links interactive and real-looking phone numbers]*
-
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
