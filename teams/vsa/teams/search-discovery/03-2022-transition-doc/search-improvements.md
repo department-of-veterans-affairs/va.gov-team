@@ -20,6 +20,8 @@ In order to get access to the search.gov console, you have to have a log in and 
 
 - [Search Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md)
 
+- [Team Planning Doc with KPIs/OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/files/team-planning-doc.xlsx)
+
 - [Best Bet - Request Ticket Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/Best%20Bet%20Request.md)
 
 - [Domo Dashboard](https://va-gov.domo.com/page/1964748112)
