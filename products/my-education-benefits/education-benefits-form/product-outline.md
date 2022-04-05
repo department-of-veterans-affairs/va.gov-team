@@ -136,6 +136,7 @@ This page is shown if the rules engine determines that the claimant has been app
 
 #### Disallowance
 This page is shown if the rules engine determines that the claimant has been denied for their benefit.
+
 <img alt="Denied Decision Page" src="./screenshots/denied-decision.png" height="400">
 
 #### Under Review
