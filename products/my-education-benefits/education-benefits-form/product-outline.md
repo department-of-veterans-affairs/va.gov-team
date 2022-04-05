@@ -109,7 +109,6 @@ Application is under development slated for March 2023 release.
 - Bradley Bergeron: BE Engineer
 - Khansa Ayari Hammmami: BE Engineer
 - Sebastian Caso: BE Engineer
-- Parwiz Rezai: BE Engineer
 - Nathaniel Buck: FE Engineer
 - Fernando Boza: FE Engineer
 - Ewaz Farang: QA Engineer
