@@ -2,4 +2,4 @@
 | :----------------- | :------------------ | :---------------------- | :--------- | :---------  | :---------  | :------------------- |
 | Spanish Translations | [Epic 38257](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38257) | check_in_experience_spanish_translation | ---- | ---- | ---- | ---- |
 | LoROTA Security Updates | [Epic 29193](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193) | check_in_experience_larota_security_updates | ---- | ---- | ---- | ---- |
-| Edit Messaging | [Epic 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270) | check_in_edit_messaging | ---- | ---- | ---- | ---- |
+| Edit Messaging | [Epic 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270) | check_in_edit_messaging |  |  |  |  |
