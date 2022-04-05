@@ -31,7 +31,6 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 
 - Used by Veterans and Caregivers of disabled Veterans to apply for Caregiver benefits from the VA
 - Approx 4,000 submissions per month
-- Login is not available
 
 
 <br>
