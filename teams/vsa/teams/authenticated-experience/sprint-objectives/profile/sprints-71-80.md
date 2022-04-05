@@ -70,6 +70,11 @@ Note: We can move this a sprint if Sharon needs to focus on general onboarding b
 
 ## Sprint 72 (4/20 - 5/3)
 
+### Bad address indicator
+
+- Start on QA use cases #39379
+- Document Staging user info for flag #39380
+
 ## Sprint 73 (5/4 - 5/17)
 
 ## Sprint 74 (5/18 - 5/31)
