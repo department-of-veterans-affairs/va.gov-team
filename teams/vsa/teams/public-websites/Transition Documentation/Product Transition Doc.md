@@ -155,7 +155,7 @@ Brief plain-language description of this product’s history and next steps
 - [Baseline Wayfinding Research on VA.gov (Apr-May 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding)
 - [Find a Form PDF Downloading Usability Research (July 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
 - [Search Design Concepts Research (Sept 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research/2021-Aug-research-study)
-- [VA.gov Veterans Crisit Line Analytics Findings (Nov 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/VCL-analytics-findings.md)
+- [VA.gov Veterans Crisis Line Analytics Findings (Nov 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/VCL-analytics-findings.md)
 - [Outreach & Events Usability Research (Dec 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/research)
 - [Harassment Reporting Research--Landing page and poster (Mar 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/static-landing-page)
 - [Harassment Reporting Tool Research (incomplete)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/usability)
