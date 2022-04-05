@@ -83,9 +83,9 @@ Let's navigate to the list of Appointments. Before we select anything, let's jus
         - Tell me more, or why is that?
 
 Now, I am going to give you three scenarios I'd like you to work through as if you are using a mobile app to manage your appointment schedule. Feel free to talk aloud, sharing any thoughts you have as you work through it. I will also copy-paste each scenario into the chat feature for you to reference.
-- PROMPT: First, you need to make an Optometry appointment request. Once the request is complete, can you find it in the list?   
-- PROMPT: Next, you need to confirm the date and time information for a few upcoming appointments. 
-- PROMPT: Finally, you need to cancel an appointment. Once the appointment is canceled, can you find it in the list? 
+- PROMPT: First, you need to make an Optometry appointment request for July 11 2022 in the morning. Once the request is complete, can you find it in the list?   
+- PROMPT: Next, you need to confirm the date and time information for any upcoming appointments. 
+- PROMPT: Finally, you need to cancel an appointment request. Once the appointment request is canceled, can you find it in the list? 
 
 *When Participant is finished with each task, if they did not talk through it, we will follow up for further insight*
 - General thoughts?
