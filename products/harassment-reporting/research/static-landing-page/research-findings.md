@@ -440,7 +440,7 @@ The harassment reporting process as currently described in the landing page and 
 # Further research needed
 
 - We recommend additional user research on the landing page and poster once they have been revised. 
-- Participants should include more screen reader users, as this study had only one but planned for three. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
+- Participants in user research on the revised landing page should include more screen reader users, as this study had only one but planned for three. One participant used a screen magnifier on his computer but not on his phone, which he used for the research session.
 
 # Appendix
 
