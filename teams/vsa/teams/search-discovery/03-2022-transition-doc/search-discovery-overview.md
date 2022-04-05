@@ -48,6 +48,9 @@ This table includes links to the individual feature transition doc and the lates
 - [Meeting with Content Team - notes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30781#issuecomment-944351486)
 - [Meeting with CMS Team - notes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31203#issuecomment-944356438)
 
+## Yellow Ribbon tool / Discharge Wizard
+Previously under the Decision Tools team, these tools were not prioritized and were not worked on during our ownership. Yellow Ribbon tool is being populated with an Excel document that needs to be updated with the latest information. Contact Tammy Hurley or Luke Tichner.
+
 <br>
 
 ## Our UX research resources
