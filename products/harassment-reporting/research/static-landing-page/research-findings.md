@@ -448,12 +448,12 @@ The harassment reporting process as currently described in the landing page and 
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/conversation-guide.md)
 
-[Interview notes]()
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/research/static-landing-page/notes)
 
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet]()
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/analysis/Harassment%20notes%20%26%20data%20analysis-final.xlsx)
 
 ## Pages and applications used
 
