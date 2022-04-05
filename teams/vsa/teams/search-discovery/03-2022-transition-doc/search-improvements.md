@@ -20,7 +20,7 @@ In order to get access to the search.gov console, you have to have a log in and 
 
 - [Search Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md)
 
-- [Team Planning Doc with KPIs/OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/files/team-planning-doc.xlsx)
+- [Team Planning Doc with KPIs/OKRs - Mar 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/03-2022-transition-doc/files/team-planning-doc.xlsx)
 
 - [Best Bet - Request Ticket Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/Best%20Bet%20Request.md)
 
@@ -35,7 +35,7 @@ This table includes links to the individual research studies.
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | Baseline | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/conversation-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md) | Feb 2021 |
-| Search Landing Page (not moving fwd on) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/conversation-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) | Oct 2021 |
+| Search Landing Page (not moving forward on) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/conversation-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) | Oct 2021 |
 
 
 ## UX design work products
