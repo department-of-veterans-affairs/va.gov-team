@@ -1,5 +1,17 @@
 # Frontend Engineering transition document
 
+
+## Table of contents
+
+- [Disability compensation (526)](#disability-compensation-form-21-526ez)
+- [Claim Status Tool (CST)](#claim-status-tool-app-cst)
+- [Higher-Level Review (HLR 0996)](#higher-level-review-hlr-form-20-0996)
+- [Board Appeal (NOD 10182)](#board-appeal-nod-form-10182)
+- [Benefits Letters app](#letters-app)
+- [Pre-need (10007)](#pre-need-form-40-10007)
+- [Burials (530)](#burial-form-21-530ez)
+- [Supplemental claim (0995)](#supplemental-claim-form-20-0995)
+
 ## Disability compensation (Form 21-526EZ)
 
 Form 526 is in production. A Veteran can file for:
@@ -50,7 +62,7 @@ Form 526 has around a 97% successful submission rate. The unsuccessful submissio
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Design system team need to update Forms system
   - [ ] New disability autocomplete work ([#6006](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6006) & [#30061](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30061)) - Design system team
-  - [ ] Add PTSD to review & submit ([#14014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14014)) - the Design system team is discussing plans to change the review & submit page.
+  - [ ] Add PTSD to review & submit ([#14014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14014)) - the Form library team is discussing plans to change the review & submit page.
   - [ ] Evaluate analytics `va-additional-info` ([#35050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35050)) - waiting on Design system team
   - [ ] Add EP code for BDD ([#29527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29527)) - waiting on EVSS
 - Fixed bug ticket followup (to ensure they are fixed)
@@ -70,10 +82,14 @@ Form 526 has around a 97% successful submission rate. The unsuccessful submissio
   - [ ] Lighthouse may add [disability list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/content/disabilityLabels.js) as an API endpoint
   - [ ] Facilities endpoint for search (disabled as the API was shutdown). Maybe use the facilities search API?
   - [ ] Release 8940/4192 into production. Feature flag `subform_8940_4192`
-  - Remove feature flags & associated code:
+  - [ ] Remove feature flags & associated code:
     - [ ] `show526_wizard` (for when the wizard was moved from intro page to `/start`)
     - [ ] `evss_upload_limit_150mb` (code in the CST as well)
     - [ ] `request_locked_pdf_password`
+  - There is a plan to either change the wizard to have one question per page, or completely remove it and incorporate wizard questions into the form flow.
+  - Discussion & discovery around providing the Veteran a PDF filled in with all of the data they entered if the submission should fail. Maybe provide this on the confirmation page so the Veteran has a record?
+  - Consider splitting off subforms into separate forms, or at least make the subforms into separate chapters
+
 
 ## Claim Status Tool App (CST)
 
@@ -95,11 +111,11 @@ Some backend preliminary investigation has been done to see if decision letters 
   - [ ] Fix linting issues ([#36054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36054)) - remaining linting issues require design/UX review since they are links that should be buttons; but we can't view all those pages without an appropriate test user, nor can we add a link style to a button (no longer allowed)
   - [ ] Add older issues ([#38778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38778)) - pattern needs review by Design system team & a11y review
 - Later work
-  - Remove feature flags & associated code - `evss_upload_limit_150mb` (code in 526 as well)
-  - Check if `omni_channel_link` feature flag is still needed?
-  - Time estimates are disabled because of COVID delays (see [#12480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12480)), find out when this gets added back
-  - CST complete redesign planned
-  - Code cleanup (lots of eslint warnings to be addressed)
+  - [ ] Remove feature flags & associated code - `evss_upload_limit_150mb` (code in 526 as well)
+  - [ ] Check if `omni_channel_link` feature flag is still needed?
+  - [ ] Time estimates are disabled because of COVID delays (see [#12480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12480)), find out when this gets added back
+  - [ ] CST complete redesign planned
+  - [ ] Code cleanup (lots of eslint warnings to be addressed)
 
 ## Higher-Level Review (HLR, Form 20-0996)
 
@@ -130,14 +146,15 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
-  - HLR - move entire app to `src/applications/appeals` folder, since it's an appeal and doesn't belong in `disability-benefits`
-  - Add claimant ([Lighthouse schema v2](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/appeals_api/config/schemas/v2/200996.json#L109))
-  - Lighthouse may be combining HLR & NOD get contestable issues endpoint. Check with backend to see if this will change the API the frontend is calling
-  - Remove `hlr_v2` feature flag & associated code
-  - Create `minimal-test-v2.json` for e2e testing
-  - Update `hlr-contact-loop.cypress.spec.js` so contact "update" test works (coordinate with authenticated experience team) - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#contact-loop-testing)
-  - Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
-  - Add `reviewErrors` to form config for review & submit page errors
+  - [ ] HLR - move entire app to `src/applications/appeals` folder, since it's an appeal and doesn't belong in `disability-benefits`
+  - [ ] Add claimant ([Lighthouse schema v2](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/appeals_api/config/schemas/v2/200996.json#L109))
+  - [ ] Lighthouse may be combining HLR & NOD get contestable issues endpoint. Check with backend to see if this will change the API the frontend is calling
+  - [ ] Remove `hlr_v2` feature flag & associated code
+  - [ ] Remove `list_loop` feature flag & associated code - this includes the previous contact info modal code
+  - [ ] Create `minimal-test-v2.json` for e2e testing
+  - [ ] Update `hlr-contact-loop.cypress.spec.js` so contact "update" test works (coordinate with authenticated experience team) - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#contact-loop-testing)
+  - [ ] Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
+  - [ ] Add `reviewErrors` to form config for review & submit page errors
 
 ## Board Appeal (NOD, Form 10182)
 
@@ -164,19 +181,19 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
-  - Update `10182-contact-loop.cypress.spec.js` so contact "update" test works (coordinate with authenticated experience team) - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#contact-loop-testing)
-  - Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
-  - Lighthouse may be combining HLR & NOD contestable issues endpoint. Check with backend to see if this will change the API the frontend is calling
+  - [ ] Update `10182-contact-loop.cypress.spec.js` so contact "update" test works (coordinate with authenticated experience team) - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#contact-loop-testing)
+  - [ ] Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
+  - [ ] Lighthouse may be combining HLR & NOD contestable issues endpoint. Check with backend to see if this will change the API the frontend is calling
 
-  - Update to use [Lighthouse API v2](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/appeals_api/config/schemas/v2/10182.json)):
-    - Submit `countryCodeISO2` instead of `countryName`
-    - Add extension reason. `extensionRequest` (boolean) & `extensionReason` (string)
-    - Add appeal of VHA denial - `appealingVhaDenial` (boolean)
-  - Add `reviewErrors` to form config for review & submit page errors - see [#25114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25114)
+  - [ ] Update to use [Lighthouse API v2](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/appeals_api/config/schemas/v2/10182.json)):
+    - [ ] Submit `countryCodeISO2` instead of `countryName`
+    - [ ] Add extension reason. `extensionRequest` (boolean) & `extensionReason` (string)
+    - [ ] Add appeal of VHA denial - `appealingVhaDenial` (boolean)
+  - [ ] Add `reviewErrors` to form config for review & submit page errors - see [#25114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25114)
 
 ## Letters App
 
-This app has needed some maintenance since this team was started. Mostly around the verify address step. There is some mobile app work being done to duplicate this app. Some accessibility updates have been completed recently, but it still needs some work.
+This app has needed some maintenance since this team was started, mostly around the verify address step. There is some mobile app work being done to duplicate this app. Some accessibility updates have been completed recently, but it still needs work.
 
 ### Outstanding tickets
 
@@ -185,7 +202,7 @@ This app has needed some maintenance since this team was started. Mostly around 
   - [ ] Support request ([#36869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36869))
 
 - Later work
-  - Code cleanup (lots of eslint warnings to be addressed)
+  - [ ] Code cleanup (lots of eslint warnings to be addressed)
 
 ## Pre-need (Form 40-10007)
 
@@ -212,11 +229,11 @@ This form still needs a lot of work; see later work in outstanding tickets secti
   - [ ] Allow Veterans to enter full address ([#34987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34987))
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
 - Later work
-  - Make cemetary autocomplete work locally & in staging
-  - Prefill telephone & email
-  - Fix review & submit accordion style
-  - Usability testing ([#28873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28873), placeholder?)
-  - Code cleanup (lots of eslint warnings to be addressed)
+  - [ ] Make cemetary autocomplete work locally & in staging
+  - [ ] Prefill telephone & email
+  - [ ] Fix review & submit accordion style
+  - [ ] Usability testing ([#28873](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28873), placeholder?)
+  - [ ] Code cleanup (lots of eslint warnings to be addressed)
 
 ## Burial (Form 21-530EZ)
 
@@ -233,3 +250,13 @@ The app hasn't been touched, as far as I know, since release. I think the proble
 ## Supplemental claim (Form 20-0995)
 
 Research & discovery work in progress. [Lighthouse endpoints](https://dev-developer.va.gov/explore/appeals/docs/decision_reviews?version=current) in place, but no schema.
+
+
+## Overall work (all apps)
+
+### Improvements
+
+- We're trying to change all the unit tests to use [React testing library](https://testing-library.com/docs/), and the code base is still littered with unit test that use [skin-deep](https://github.com/glenjamin/skin-deep) and [enzyme](https://enzymejs.github.io/enzyme/). The current recommendation is to write all new tests using testing library, but eventually we'll need to convert all the old tests over
+- Review and restore skipped (flaky) unit & e2e tests.
+- There may be many feature flags that are no longer being used, or have been enabled for a long time, we need to remove the feature flag code, and the flag itself.
+- There is a plan to remove all wizards, so we need to incorporate wizard into the form so that there is only one question per page (Form 526 & HLR needs this).
