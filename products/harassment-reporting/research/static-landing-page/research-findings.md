@@ -475,7 +475,7 @@ The harassment reporting process as currently described in the landing page and 
 ### Screenshot of a different VA poster that's now in VA facilities
 The poster shown below is currently being posted in VA facilities. This copy was shared by one of the social worker observers. 
 - Note that the poster has many fewer words than what was tested in this research so it's easy to quickly scan, and it has a QR code to get more information. 
-- However, the poster doesn't use plain language, nor adhere to the existing VA.gov content style guide and design standards. 
+- However, the poster doesn't adhere to the existing VA.gov content style guide and design standards. We'll also want consistent language and instructions across any posters and the landing page.
 - *Has this poster been tested with Veterans? What is the purpose of this poster, and will it be replaced by a revised version of the poster tested in this research study?*
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/images/VA%20anti-harassment-poster.png" width="50%" height="50%">
 
