@@ -43,3 +43,4 @@
 | Updates to Currently available vaccines accordion on main hub page | 3/15 | 3/16 | 3/17 | 3/17 | 3/17 | 3/15 | 3/17 |
 | Mask updates on FAQs | 3/21 | 3/21 | 3/24 | 3/24 | 3/24 | 3/22 | 3/24 | 
 | COVID-19 screening questionaire | | 3/21 | 3/24 |
+| Second Booster info | 4/4 | 4/4 |
