@@ -126,10 +126,25 @@ The following is the flow for the application with respective screenshots:
 12) The Claimant is presented with a final review page. Changes can be made at any section and the application submitted.
 <img alt="Final Review Page" src="./screenshots/final-review.png" height="400">
 
-13) When submitting, the claimant will be presented with a loading results page that will stay for up to 60 seconds while the rules are run by DGIB.
+13) When submitting, the claimant will be presented with a loading results page while the rules are run by DGIB. This loading page will be presented for up to 60 seconds.
 <img alt="Loading Decision Page" src="./screenshots/loading-decision.png" height="400">
 
+14) Within these 60 sseconds, the Claimant can land in four possible confirmation pages
 
+#### Eligible
+This page is shown if the rules engine determines that the claimant has been approved for their benefit.
+
+#### Disallowance
+This page is shown if the rules engine determines that the claimant has been denied for their benefit.
+<img alt="Denied Decision Page" src="./screenshots/denied-decision.png" height="400">
+
+#### Under Review
+This page is shown if the rules engine still has a state of INPROGRESS after 60 seconds. It is more than likely that at this point, the decision will take some time and likely requires human review. On this case, we show an Under Review page, with instructions of what to expect next.
+<img alt="Under Review Decision Page" src="./screenshots/under-review-decision.png" height="400">
+
+#### Error
+This page is shown if the rules engine returns an error state. If this happens, the claimant is advised to retry later.
+<img alt="Under Review Decision Page" src="./screenshots/under-review-decision.png" height="400">
 
 ---
 
