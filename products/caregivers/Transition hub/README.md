@@ -1,4 +1,4 @@
-# VSA 10-10CG Transition Hub
+# VSA 10-10CG (Care Giver) Transition Hub
 
 <br>
 
@@ -6,7 +6,7 @@
 >
 > The purpose of this transition document is to outline the state of 1010-CG product development as of March 2022. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific "feature transition hubs" where you can find direct links to resources and references used during design and development.
 >
-> **Note:** The 10-10EZ health care application management was under the purview of the VSA-Caregivers team, thus you will notice that some 10-10EZ documentation is intermixed with 10-10CG documentation folders. This hub pages avoids this, please see the [VSA 10-10EZ transition hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/README.md) if you are looking for information on the health care application.
+> **Note:** The 10-10EZ health care application management was under the purview of the VSA-Caregivers team, thus you will notice that some 10-10EZ documentation is intermixed with 10-10CG documentation folders. This hub page avoids this, please see the [VSA 10-10EZ transition hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/README.md) if you are looking for information on the health care application.
 
 
 <br>
