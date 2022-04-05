@@ -2,4 +2,4 @@
 | :----------------- | :------------------ | :-------------------------------------- | :--------- | :---------  | :------------------- |
 | Spanish Translations | [Epic 38257](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38257) | Allows Veteran to choose to see text in Spanish or English | ---- | ---- | ---- |
 | LoROTA Security Updates | [Epic 29193](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193) | Log in using DOB instead of last 4 & other security enhancements | ---- | ---- | ---- |
-| Edit Messaging | [Epic ](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270) | Content & link directing Veteran where to update their info | ---- | ---- | ---- |
+| Edit Messaging | [Epic 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270) | Content & link directing Veteran where to update their info | ---- | ---- | ---- |
