@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide: VSA 10-10 Team, Usability research of shortened form based on disability rating for the 10-10EZ, April 2022
+# Conversation Guide: VSA 10-10 Team, Usability research of shortened form based on disability rating for the 10-10EZ, April 2022
 
 ## Moderator Logistics
 
