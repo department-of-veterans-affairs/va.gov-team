@@ -1,9 +1,9 @@
-# Interview with Hsu, MD on Telephone Appointments
+# Interview with VA PCP Clinic on Telephone Appointments
 
 ## Meeting agenda: 
 
 - Kristen to kick off and introduce meeting goals and objectives
-- Ben and Kristen to conduct interview with Hsu, MD
+- Ben and Kristen to conduct interview
 - Ben, Kristen and Stephen to summarize next steps and action items 
  
 ## Meeting goals: 
