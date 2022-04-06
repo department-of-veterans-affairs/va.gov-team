@@ -21,5 +21,4 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 #### 04/06/2022  
 - Change made to the pre-check-in workflow to allow a veteran, who confirms their contact information but does not check into an appointment, to check in later without having to re-confirm their contact information.
-    - Tickets
-        - [39183](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39183)
+    - Tickets [39183](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39183)
