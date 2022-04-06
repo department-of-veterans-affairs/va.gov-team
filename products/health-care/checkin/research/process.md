@@ -1,7 +1,7 @@
 # Planning On-site Research with Veterans at VA Medical Facilities
 
 ## How to set up on-site research
-1. Create [research plan]. 
+1. Create [research plan] and [conversation guide]. 
     - Include reasons why the research should be completed on-site and not remotely.
     - Read through the [PRA overview](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) and [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) documentation, then apply accordingly. Its implications depend upon what methodology you plan to use while on-site.
 2. Share your research plan with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
