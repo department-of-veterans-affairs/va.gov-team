@@ -114,8 +114,8 @@ As issues are worked on, they will move through the ZenHub pipelines as follows:
 Demos are held at the end of each sprint for all teams at the same time. Everyone is expected to demo the work that they have completed to the team and stakeholders.
 
 ### Best practices
-1. Every team member should post what they will demo in the sprint’s demo script here.
-2. Record every demo and post the actual video file into the demo script here.
+1. Every team member should post what they will demo in the sprint’s demo script [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/213024818/Sprint+demos).
+2. Record every demo and post the actual video file into the demo script [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/213024818/Sprint+demos).
 3. Product Managers will arrange the demo to formulate a coherent message (e.g. DevOps issues first, grouped by product or objective).
 4. Application changes should be demoed from the production environment.
   - If this is not possible and the code will be merged within the next two business days, clearly communicate that the functionality is not in production and when it is expected to be deployed.
