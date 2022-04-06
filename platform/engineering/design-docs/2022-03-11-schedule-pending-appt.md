@@ -57,7 +57,6 @@ Implementation of this feature will be broken into five endpoints:
    - Will take list of facilities, type of service and type of eligibility (request or direct. Will only allow request until direct scheduling feature is built out )
    - Will return each facility eligibility. If not eligibile, will give reason why
 - Create Appointment Request
-   - Creates appointment request
 
 These endpoints will largely follow the logic listed in the background, with changes to improving the user experience. We will provide as much information as possible in the beginning of the process, to avoid users will being denied making an appointment already part way into the process
 
@@ -113,13 +112,16 @@ Parameters:
                "miles": "0.6",
                "clinics": []
             }
-         ]
+         ],
+         "metadata": {
+            "sort": "most recent appointment"
+         }
       }
    }
 }
 ```
 Note: Clinics are only used in direct scheduling. Adding field to prepare for adding direct scheduling later but will still empty until then.
-
+Note: metadata field is used so if user has no appointments in the system to sort by, then it will fall back to home location, current location then alphbetical.
 #### Service Eligibility Endpoint 
 Will consume following VAOS endpoints:
    - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
