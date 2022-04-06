@@ -18,9 +18,8 @@ Date: 04/04/2022
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Final_report.md#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Final_report.md##who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Final_report.md#who-we-talked-to)
 
-[Further research needed](insert link to section)
 
 <br>
 
