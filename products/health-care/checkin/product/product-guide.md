@@ -37,14 +37,23 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
- - Percentage of Veterans who successully complete mobile check-in 
-     - At least 70%
- - Percentage of Veterans who successully complete mobile pre-check-in 
-    - At least 70%
- - Percentage of Veterans who chose mobile check-in over face-to-face check-in 
-     - At least 70%
- - Check-in times (mobile vs. kiosk vs. face-to-face)
-     - Decreased by 50%
+ 
+ #### Check-in
+ - Percentage of Veterans who have in-person appointments choose to use mobile check-in 
+     - At least 50%
+ - Percentage of Veterans who use mobile check-in successully completed check-in
+     - At least 95%
+ - Time to check-in 
+     - Mobile vs. Face-to-face: Decreased by 90%
+     - Mobile vs. Kiosk: Decreased by 50%
+     
+ #### Pre-Check-in
+ - Percentage of Veterans who have in-person appointments choose to use mobile pre-check-in
+     - At least 50%
+ - Percentage of Veterans who do use mobile pre-check-in successully completed pre-check-in 
+    - At least 95%
+ - Time to verify contact information 
+     - Mobile vs. Face-to-face: Decreased by 70%     
 
 ## Solution Approach
 
