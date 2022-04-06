@@ -34,6 +34,7 @@ Thanks for joining the session! My name is Lauren and I am excited you are here.
 - What VA services do you use?
 	- *If they don’t mention healthcare. Have you ever used VA to manage your healthcare? What services?*
 - How do you typically access it? Website, phone call, something else?
+- What apps on your phone do you use the most, if any? Do you have the VA mobile app? (generic on purpose)
 - For you, what stands out as a meaningful experience that you’ve had at the VA?
 - Anything else you’d like to share? 
 
@@ -79,7 +80,7 @@ Let's navigate to the list of Appointments. Before we select anything, let's jus
         - Tell me more, or why is that?
 - What information do you notice when scanning this list of appointments?
 - Do you notice anything that says Pending? What does that mean to you? 
-- If you tap on “Request Appointment”, what would you expect to happen?
+- How would you start making a new apppointment request?
         - Tell me more, or why is that?
 
 Now, I am going to give you three scenarios I'd like you to work through as if you are using a mobile app to manage your appointment schedule. Feel free to talk aloud, sharing any thoughts you have as you work through it. I will also copy-paste each scenario into the chat feature for you to reference.
