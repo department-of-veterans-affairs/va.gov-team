@@ -35,8 +35,8 @@ Eligible users are still utilizing MHV as a CSP after December, 2022
 ### Key Performance Indicators (KPIs)
 
 **End of Q3 FY2022 (June)**: 20,000 users have attempted to convert with a success rate of 40% 
-**End of Q4 FY2022 (September)**: 40,000 users have attempted to convert with a success rate of 40%
-**End of 2022**: 80,000 users have attmepted to convert with a success rate of 40%
+**End of Q4 FY2022 (September)**: 40,000 users have attempted to convert with a success rate of 40%. 
+**End of 2022**: 80,000 users have attmepted to convert with a success rate of 40%. 
 
 #### Baseline KPI Values
 Currently 180,000 eligible users
@@ -45,7 +45,7 @@ Currently 180,000 eligible users
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Users understand and are able to complete the migration process
-  - Key result: 60% of users are able to convert
+  - Key result: 40% of users are able to convert
   - Key result: By end of 2022, half of all eligible MHV users have converted
 
 
