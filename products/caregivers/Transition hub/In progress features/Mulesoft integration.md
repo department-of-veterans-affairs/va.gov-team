@@ -26,6 +26,8 @@ The solution was to place the Mulesoft Proxy in between VA.gov and Salesforce so
 
 User story: As a va.gov user I would like to know when my online 10-10CG has been successful so I don't resubmit duplicates.
 
+## Feature Flipper
+`/flipper/features/caregiver_mulesoft`
 
 ## Engineering artifacts
 - [Architecture design](https://images.zenhubusercontent.com/5fb57aafa11eae0592a15cb1/223bdd9f-e95a-4611-b294-7e4f4cd480a6)
@@ -41,6 +43,8 @@ Include notes about which Platform process was in use when this feature was in d
 - [Collaboration Cycle Kickoff 10-10 Caregivers, Mulesoft Integration](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/34055)
 - [Security review]
 - [MS UAT (Techy & Business) of Mulesoft](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/35125)
+- Mar-29-2022: Enabled Feature Flipper in prod at 25% of the time
+- Mar-30-2022: Got approval from business for 100% after no errors seen by MULE, DTC, or VA.gov
 
 
 <br>
