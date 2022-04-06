@@ -66,6 +66,7 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
 ### Initiatives
 
 #### Check-in (MVP)
+- Status: Piloting in Production
 - Purpose: Allow Veterans to check in to their appointment on the day of their appointment so that staff members are notified of their arrival
 - Functionality:
      - A Veteran will receive a text and email linking them to an easy to use check-in website 
@@ -75,6 +76,7 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
 - Release Date: Nov 2021
 
 #### Pre-check-in 
+- Status: Piloting in Production
 - Purpose: Allow Veterans to confirm their Contact, Emergency Contact, and Next-of-kin information up to 7 days prior to their appointment so that staff know whether their information has changed and whether they will need to check them in face-to-face
 - Functionality:
      - A Veteran will receive a text and email linking them to an easy to use pre-check-in website 
@@ -84,11 +86,13 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
 - Release Date: Jan 2022
 
 #### Spanish Language Translations
+- Status: Design/Prep 
 - Purpose: Allow Veterans to see check-in and pre-check-in instructions translated to Spanish
 - Functionality: Veteran will be provided with a mechanism on the pre-check-in and pre-check-in websites to indicate that they would like to see
 - Release Date: Targeted for May 2022 
 
 #### Pre-check-in for Telemedicine Appointments
+- Status: Discovery
 - Purpose: Allow Veterans to perform check-in and pre-check-in for telephone appointments
 - Functionality: Veteran can perform pre-check-in and check-in for phone appointments
 - Release Date: TBD
@@ -96,6 +100,7 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
 ## Potential Future Initiatives
 - Allow Veterans to edit their Contact, Emergency Contact, and Next-of-kin information
 - Allow veterans to completed forms/paperwork needed for their appointment
+- Notifications
 - Link Veteran to a patient satisfaction survey
 ![116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg (1280×720)](https://user-images.githubusercontent.com/66287082/116461630-7cc64100-a836-11eb-9c3a-20ef58b26977.jpg)
  
