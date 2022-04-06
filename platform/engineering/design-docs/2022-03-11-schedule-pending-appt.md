@@ -121,7 +121,8 @@ Parameters:
 }
 ```
 Note: Clinics are only used in direct scheduling. Adding field to prepare for adding direct scheduling later but will still empty until then.
-Note: metadata field is used so if user has no appointments in the system to sort by, then it will fall back to home location, current location then alphbetical.
+Note: Metadata field is used so if user has no appointments in the system to sort by, then it will fall back to home location, current location then alphbetical.
+Note: Additional investigation will need to be conducted to use implement geolocation service to find distances to sort by. Can take advantage of service VAOS is using 
 #### Service Eligibility Endpoint 
 Will consume following VAOS endpoints:
    - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
@@ -322,7 +323,7 @@ This uses new VAOS endpoints that have not yet been finalized. By the time we fi
 Are endpoints we'll be consuming reliable enough to have a good user experience?
 
 ### Work Estimates
-5-6 weeks.
+3-5 sprints
 
 ### Alternatives
 - Rather than relying on other endpoints, we could create these features from the ground up to ensure we have full control of all parts of development and maintenance but it has been a long established aim of the Mobile API to reuse backend integrations wherever possible and to not add complexity to an already complex system. Creating redundant logic would not serve either of these objectives.
