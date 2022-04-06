@@ -48,7 +48,9 @@ Implementation of this feature will be broken into five endpoints:
    - List facilities information. Sorted by either home address, current location, alphbetically (determined by sort parameter). 
    - This is to be mapped to the facility ids in the service eligibility endpoint.
 - Service Eligibility
-   - For each service, will provide cc elgibility and list of va facilities that provide service.
+   - For each service, will provide list of va facilities that provide service.
+- CC Eligibility
+   - Will list if type of service given is eligible for Community Cares
 - CC Providers
    - List cc providers information. Sorted by either home address, current location, or major cities with registered facilities (determined by sort parameter).
 - Facility Eligibility
@@ -70,9 +72,12 @@ Will consume following VAOS endpoints:
    - `/vaos/v2/facilities?children=true&ids[]={facility id}&ids[]={facility id}`
       - Will only provide user registred facilities but return all children as well. 
 
+Considerations: 
+   - An additional sort option of sorting by most recent appointments will be added. This should be the most relevent to the user as well as having miminimal performance implications since we cache appointments for the user at login already.
+
 Parameters:
    - sort: string
-      - by home address, by current location, alphbetical 
+      - by most recent appointments (default), home address, by current location, alphbetical 
    
 ```json
 {
@@ -117,20 +122,8 @@ Note: Clinics are only used in direct scheduling. Adding field to prepare for ad
 
 #### Service Eligibility Endpoint 
 Will consume following VAOS endpoints:
-   - `/vaos/v0/community_care/eligibility/{type of care}` 
-      - Will be called for every type of service (~14)
    - `/vaos/v2/scheduling/configurations?facility_ids[]={facility_id}&facility_ids[]={facility_id}`
       - Will get schedule configurations for all registred facilities, including children. 
-
-Considerations:
-
-Calling the VAOS community cares eligibility service 14 times will add various complications, such as:
-   - Putting a strain on CPU utilization by running too many requests at once.
-      - This can be mitigated by running parallel request in batches. For example, we could only check CC eligibility for 4 services at a time until all types of services are checked.
-   - Increase the time for the endpoint to respond to be unacceptably long.
-      - This can be mitigated by taking advantage of polling of the endpoint. This would allow front end to periodically check this endpoint for community cares eligibility data and update the page as it receives the data. This prevents the user from waiting on all requests to be complete before choosing a type of service. 
-
-Polling is actively being investigated for feasibility, if these approaches turn out to not be feasibile then as an alternative, this endpoint can be called after a type of service is selected and only check CC eligibility for one type of service.
 
 Parameters:
    - facility_ids: array
@@ -145,15 +138,32 @@ Endpoint data structure:
          "services": [
             {
                "type":"optometry",
-               "cc_eligible":"true",
                "va":["983","984"]
             },
             {
                "type":"amputation",
-               "cc_eligible":"false",
                "va":[]
-            }
+            },
+            ...
          ],
+      }
+   }
+}
+```
+#### CC Eligibility
+Will consume following VAOS endpoints:
+- `/vaos/v0/community_care/eligibility/{type of care}` 
+
+Parameters:
+   - Type of Service: string
+
+```json
+{
+   "data": {
+      "type": "cc-eligibility",
+      "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
+      "attributes": {
+         "eligibility": "true"
       }
    }
 }
@@ -199,11 +209,14 @@ Will consume following VAOS endpoints:
 
 Considerations:
 
-Calling the VAOS eligibilty service for each registered facility will add similiar complications to the ones listed in the Service Eligibility Endpoint section. Running requests in batches as well as utilizing polling can also be used to migitigate these issues.
+- Here we plan to front load the facility eligibility information to give the user access to that information before choosing the facility. In order to keep the performance acceptable, we'll be taking advantaging of pagination to only show 3 facilties at time. This coupled with the facilities being listed by most recent appointments should minimize the need to load more then the first 3 facilities. 
 
 Parameters:
    - facility_ids: array
    - service_type: string
+   - page_number: integer
+   - page_size: integer
+      - Planning on keeping this to 3 as to keep response fast enough
    - type: string
       - Will always be request until direct scheduling feature is built out
 ```json
@@ -223,6 +236,11 @@ Parameters:
                "id": "984",
                "eligible": "false",
                "reason": "Non-primary facility with no visit within 12-24 months"
+            },
+            {
+               "id": "985",
+               "eligible": "false",
+               "reason": "Too many Requests at Location"
             }
          ]
       }
