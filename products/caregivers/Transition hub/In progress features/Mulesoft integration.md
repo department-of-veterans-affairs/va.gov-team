@@ -17,7 +17,7 @@
 ## Feature background
 VA.gov used to interface directly with
 CARMA (Salesforce) for 10-10CG form submissions and document uploads. The problems that seeded the need for the Mulesoft Proxy were:
-- Salesforce latency
+- Salesforce latency (gateway timeouts)
 - Salesforce API (breaking) changes
 
 The solution was to place the Mulesoft Proxy in between VA.gov and Salesforce so that Mulesoft could:
