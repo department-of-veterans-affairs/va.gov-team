@@ -1,60 +1,43 @@
-# Healthcare Experience - Appointment Check-in 
+# Healthcare Experience - Appointment Check-in & Pre-Check-in
 
 ## Overview
-This product reimagines the process by which Veterans check-in for a medical appointment by allowing them to perform check-in from their mobile device. The product is intented to replace the physical kiosks currently used for check-in at VA facilities. Development will involve coordinating with other product teams (VeText, VAOS, MyVA, mobile app) in order to consolidate the data from disparate systems necessary to complete check-in.
+This product reimagines the process by which Veterans check-in for a medical appointment by allowing them to perform pre-check-in and check-in from their mobile device. The product is intented to replace the physical kiosks currently used for check-in at VA facilities. Development will involve coordinating with other product teams (VeText, VAOS, MyVA, mobile app) in order to consolidate the data from disparate systems necessary to complete check-in.
 
 ## Problem Statement
-Currently, VA medical facilities each have a kiosk that is used by Veterans to check-in for medical appointments upon arrival at the facility. These Kiosks are being sun-set in March 2022. The purpose of this product is to: 
+Currently, VA medical facilities each have a kiosk that is used by Veterans to check-in for medical appointments upon arrival at the facility. These Kiosks are being sun-set in March 2022. 
+
+## Objectives & Key Results
  1. Replace the check-in functionaility offerred by the kiosks
- 2. Improve the check-in experience for the Veteran (ease of use and time spent checking in)
- 3. Create infrastructure for a mobile check-in experience that consolidates data from disparate systems 
+    - Veterans with mobile devices have the option to check-in using their mobile device
+ 2. Allow Veterans to verify their contact information before their appointment
+    - Time for staff to verify contact information is reduced by 50%
+ 4. Improve the check-in experience for the Veteran (ease of use and time spent checking in)
+    - At least 50% of Veterans who have an in-person appointment choose to check-in using their mobile device
+    - Time to check-in is reduced by 50% over in-person check-in
+    - Time to check-in is reduced by 20% over kiosk check-in
+ 6. Create infrastructure for a mobile check-in experience that consolidates data from disparate systems    
+    - Infrastructure exists and is optimized
  
 ## Desired & Undesired Outcomes
 
 ### User Outcomes
 #### Deisred
+ - Physical Kiosks can be eliminated
+ - Mobile check-in frees staff to perform patient-care duties
+ - Infrasturcture for unified digital healthcare is created
  - Veterans can easily and quickly check in for their appointments without using a Kiosk
  - Veterans can easily and quickly perform authentication to check in for their appointments
  - Veterans routinely choose the mobile check-in over face-to-face check-in experiences
  - Wait times between arrival and completion of check-in are improved
  
 #### Undesired 
+ - The only alternative to using kiosks is face-to-face check-in
+ - Increased face-to-face interactions
  - Veterans must perform face-to-face check-ins
  - Veterans have an experience that is inferior or less intuitive than the current physical kiosks 
  - Veterans choose face-to-face interactions over the modbile check-in
  - Wait times between arrival and completion of check-in are increased
  
-### Business Outcomes
-#### Desired
- - Physical Kiosks can be eliminated
- - Mobile check-in frees staff to perform patient-care duties
- - Infrasturcture for unified digital healthcare is created
-
-#### Undesired 
-- The only alternative to using kiosks is face-to-face check-in
-- Increased face-to-face interactions
-
-## Measuring Success
-
-### Key Performance Indicators (KPIs)
- 
- #### Check-in
- - Percentage of Veterans who have in-person appointments choose to use mobile check-in 
-     - At least 50%
- - Percentage of Veterans who use mobile check-in successully completed check-in
-     - At least 95%
- - Time to check-in 
-     - Mobile vs. Face-to-face: Decreased by 90%
-     - Mobile vs. Kiosk: Decreased by 50%
-     
- #### Pre-Check-in
- - Percentage of Veterans who have in-person appointments choose to use mobile pre-check-in
-     - At least 50%
- - Percentage of Veterans who do use mobile pre-check-in successully completed pre-check-in 
-    - At least 95%
- - Time to verify contact information 
-     - Mobile vs. Face-to-face: Decreased by 70%     
-
 ## Solution Approach
 
 ### Key Decisions
