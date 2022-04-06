@@ -31,6 +31,7 @@ assignees: ''
 - [ ] Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
 - [ ] Update Staging Review ticket with the product’s launch date after it has gone live.
 - [ ] Close Staging Review ticket when the review is complete and the product has launched.
+- [ ] Communicate any and all known Accessibility issues that are not addressed prior to launch to the VA 508 Office via [Audit Request](https://depo-platform-documentation.scrollhelp.site/developer-docs/Instructions-for-VA-508-Office-document-review.1857913061.html#HowtorequestsupportfromtheVA508Office-AuditRequest). 
 
 **Platform**
 
@@ -81,16 +82,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 
-- [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
-
 - [ ] List of known issues
 
-
-•	Issue 1
-
-•	Issue 2
-
-•	Issue 3
+     •	Issue 1
+     •	Issue 2
+     •	Issue 3
 
 
 ## Scheduling
