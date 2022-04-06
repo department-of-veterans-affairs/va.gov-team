@@ -15,7 +15,14 @@
 <br>
 
 ## Feature background
-Today, VA.gov interfaces directly with Carma (Salesforce) for 10-10CG form submissions. In the future, VA.gov will no longer connect directly to Carma. Instead, VA.gov will connect to Mulesoft, which in turn will connect to Carma. 
+VA.gov used to interface directly with
+CARMA (Salesforce) for 10-10CG form submissions and document uploads. The problems that seeded the need for the Mulesoft Proxy were:
+- Salesforce latency
+- Salesforce API (breaking) changes
+
+The solution was to place the Mulesoft Proxy in between VA.gov and Salesforce so that Mulesoft could:
+- manage API updates between itslef and Salesforce, taking the burden off the VA
+- asynchronously queue requests and provide a faster response to the VA frontend
 
 User story: As a va.gov user I would like to know when my online 10-10CG has been successful so I don't resubmit duplicates.
 
