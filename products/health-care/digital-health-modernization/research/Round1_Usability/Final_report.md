@@ -210,7 +210,7 @@ We used Mural, Google Sheets, and Github to synthesize our findings.
 - [Analysis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Round%201%20MHV%20on%20VA.gov%20Usability.xlsx)
 
 ## Pages and applications used
--[Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/jgzLvgz/play?hotspots=false)
+- [Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/jgzLvgz/play?hotspots=false)
 
 
 ## Who we talked to 
