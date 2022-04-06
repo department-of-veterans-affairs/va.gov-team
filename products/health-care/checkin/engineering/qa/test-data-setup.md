@@ -162,7 +162,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 347 | Thirtynine,Patient | Patrick (OVAC) |
 | 520 | Forty,Patient | Patrick (OVAC) | 
 | 41  | Fortyone,Patient | Zach |
-| 42  | Fortytwo,Patient | Eva |
+| 42  | Fortytwo,Patient | Ben |
 | 569 | Fotrythree,Patient | Brian |
 
 **Station 442**
