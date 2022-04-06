@@ -54,7 +54,44 @@ More specifically, data elements for MVP and future versions may include the fol
 •	TIU titles (possibly mapped to VA LOINC-like titles
 •	Imaging report titles
 
+## About the Team
+### GitHub/ZenHub/Teams/Jira
+Team repo: https://github.com/department-of-veterans-affairs/covid-patient-manager
+GitHub label = 
+ZenHub board - [link to this if/when you have one]
+Link to Teams folder if applicable: 
+Link to Jira if applicable: 
+List & link to the slack channels you use when you have them.
 
+
+### Team Members
+OCTO-DE/DEPO:
+- 
+Program Management:
+
+Product Management:
+- 
+Design & Research:
+- 
+Engineering:
+- 
+
+### What We're Working On
+- Name the core initiatives that you're building or working on
+
+
+### Product Documentation
+- Link to Roadmap
+- Link to Objectives & Key Results
+- Link to Product Guide
+
+### Who We Work With
+VA Business Owners:
+- 
+- 
+VA Stakeholders & their roles: 
+- 
+- 
 
 
 
@@ -73,4 +110,6 @@ More specifically, data elements for MVP and future versions may include the fol
 Proposed UI Mockup
  
 ## Team Repo
-https://github.com/department-of-veterans-affairs/covid-patient-manager
+
+
+
