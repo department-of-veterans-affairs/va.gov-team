@@ -57,6 +57,6 @@ Include notes about which Platform process was in use when this feature was in d
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
 
-<br>
-
----
+## External Developers
+- Igor Khurgin - Salesforce - igor.khurgin@salesforce.com
+- Jubilee Miremba - Mulesoft - jmiremba@mulesoft.com
