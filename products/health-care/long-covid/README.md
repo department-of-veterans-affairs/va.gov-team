@@ -12,9 +12,12 @@
 ```Create a user problem statement```
 
 ## About the Team
-### GitHub/ZenHub
+### GitHub/ZenHub/Teams/Jira
 GitHub label = long-covid
-ZenHub board - [link to this when you have one]
+ZenHub board - [link to this if/when you have one]
+Link to Teams folder if applicable: 
+Link to Jira if applicable: 
+
 
 ### Slack Channels
 - List & link to the slack channels you use when you have them.
