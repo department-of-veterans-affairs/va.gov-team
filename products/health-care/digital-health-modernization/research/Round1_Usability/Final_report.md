@@ -12,7 +12,7 @@ Date: 04/04/2022
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](# Hypotheses and Conclusions)
 
 [Key findings](insert link to section)
 
@@ -202,9 +202,10 @@ Our next steps are to bring these findings to our design team and iterate on our
 - [Interview transcripts](https://github.com/department-of-Participants-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/Round1_Usability)
 
 
+
 ## Tools used for Synthesis
 We used Mural, Google Sheets, and Github to synthesize our findings. 
-
+- [Analysis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Round%201%20MHV%20on%20VA.gov%20Usability.xlsx)
 
 ## Pages and applications used
 -[Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/jgzLvgz/play?hotspots=false)
