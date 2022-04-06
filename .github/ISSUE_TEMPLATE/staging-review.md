@@ -82,16 +82,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 
-- [ ] Document in your product folder that indicates all launch-blocking issues from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc have been resolved. 
-
 - [ ] List of known issues
 
-
-•	Issue 1
-
-•	Issue 2
-
-•	Issue 3
+     •	Issue 1
+     •	Issue 2
+     •	Issue 3
 
 
 ## Scheduling
