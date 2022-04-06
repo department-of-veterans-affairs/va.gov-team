@@ -34,9 +34,9 @@ Eligible users are still utilizing MHV as a CSP after December, 2022
 
 ### Key Performance Indicators (KPIs)
 
-**End of Q3 FY2022 (June)**: 20,000 users have attempted to convert with a success rate of 40% 
-**End of Q4 FY2022 (September)**: 40,000 users have attempted to convert with a success rate of 40%. 
-**End of 2022**: 80,000 users have attmepted to convert with a success rate of 40%. 
+- **End of Q3 FY2022 (June)**: 20,000 users have attempted to convert with a success rate of 40% 
+- **End of Q4 FY2022 (September)**: 40,000 users have attempted to convert with a success rate of 40% 
+- **End of 2022**: 80,000 users have attmepted to convert with a success rate of 40%
 
 #### Baseline KPI Values
 Currently 180,000 eligible users
@@ -78,7 +78,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - April 15, 2022
+  - May 15, 2022
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
