@@ -46,7 +46,9 @@ Include notes about which Platform process was in use when this feature was in d
 <br>
 
 ## Team members that worked on this
-- Kevin Musiorski | Kevin.Musiorski@va.gov -- Backend engineer
+- James Childers -- (Beginning Phase) Backend Engineer
+- Dillo Raju | dillo.raju@va.gov -- (Middle Phase) Backend Engineer
+- Kevin Musiorski | Kevin.Musiorski@va.gov -- (Final Phase) Backend engineer
 - Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
 - Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
