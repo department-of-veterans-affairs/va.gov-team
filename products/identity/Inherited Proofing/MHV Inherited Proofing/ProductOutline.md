@@ -36,7 +36,7 @@ Eligible users are still utilizing MHV as a CSP after December, 2022
 
 **End of Q3 FY2022 (June)**: 20,000 users have attempted to convert with a success rate of 40% 
 **End of Q4 FY2022 (September)**: 40,000 users have attempted to convert with a success rate of 40%
-**End of 2022**: 80,000 users have attmepted to convert with a success rate of 60%
+**End of 2022**: 80,000 users have attmepted to convert with a success rate of 40%
 
 #### Baseline KPI Values
 Currently 180,000 eligible users
