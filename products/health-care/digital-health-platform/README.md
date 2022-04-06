@@ -79,3 +79,19 @@ Kim Roberts, Michael Chaffee, Travis McKinstry, Yoni Doron-Peters, Todd StanichÂ
 #### Stakeholders
 
 Kimberly McManus, Arash Harzand, Blake Henderson
+
+#### GitHub/ZenHub/Teams/Jira
+GitHub label = 
+ZenHub board - [link to this if/when you have one]
+Link to Teams folder if applicable: 
+Link to Jira if applicable: 
+List & link to the slack channels you use
+
+#### Product Documentation
+- Link to Roadmap
+- Link to Objectives & Key Results
+- Link to Product Guide, if it lives elsewhere
+
+
+
+
