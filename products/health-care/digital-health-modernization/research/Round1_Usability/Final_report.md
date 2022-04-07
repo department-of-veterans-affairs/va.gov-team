@@ -199,8 +199,8 @@ Our next steps are to bring these findings to our design team and iterate on our
 
 
 # Appendix
-- [Research Plan](https://github.com/department-of-Participants-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/research-plan.md)
-- [Conversation guide](https://github.com/department-of-Participants-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/conversation_guide.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/conversation_guide.md)
 - [Interview transcripts](https://github.com/department-of-Participants-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/Round1_Usability)
 
 
