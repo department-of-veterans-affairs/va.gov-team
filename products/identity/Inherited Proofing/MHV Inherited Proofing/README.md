@@ -82,8 +82,10 @@ https://app.zenhub.com/workspaces/vsp-identity-5f5bab705a94c9001ba33734/issues/d
 ---
 
 ## Solution Narrative
+Our solution involves providing guidance to users who utilize MyHealtheVet (MHV) as their primary CSP (Credential Service Provider) to access VA services.  This includes notifying them of the change via physical and electronic mail, as well as through modals and other methods on VA.gov.  In addition, we will strive to provide information on why this transition is happening, how to identity proof, and why they should do so. 
 
 ### Current Status
+We are currently engaged in active research regarding the modal experience for eligible and ineligible veterans.
 
 ### Key Decisions
 
