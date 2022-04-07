@@ -21,6 +21,7 @@
 ## Pre-check-in Questions
 - Were you able to successfully complete pre-check-in?
   - If no, why? What screen were you on when you stopped filling out pre-check-in?
+- Do you remember receiving any error messages while completing pre-check-in? If so, what was the reason for the error?
 - How many days ago did you [start OR complete] pre-check-in?
   - Did you [start OR complete] pre-check-in immediately when you received the SMS or did you come back later to complete it? 
 - Where were you when you [started OR completed] pre-check-in?
