@@ -1,7 +1,7 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 
 ## Product 
-- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guide.md)
+- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-brief.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guide - Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/files/8319305/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 - [Product Guide - Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/files/8319310/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
