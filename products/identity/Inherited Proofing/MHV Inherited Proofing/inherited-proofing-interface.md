@@ -207,11 +207,11 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 
 | Name       | Description                             | Value Type                                              |
 |------------|-----------------------------------------|---------------------------------------------------------|
-| First_name | users first name                        | String, REQUIRED                                        |
-| Last_name  | users last name                         | String, REQUIRED                                        |
+| First_name | users first name                        | String, REQUIRED, VERIFIED                                        |
+| Last_name  | users last name                         | String, REQUIRED, VERIFIED                                        |
 | Phone      | users phone number                      | String, OPTIONAL                                        |
-| Birth_date | users birth date                        | String, REQUIRED,`iso8601` formatted (ex: `2020-01-31`) |
-| SSN        | users social security number            | String, REQUIRED                                        |
+| Birth_date | users birth date                        | String, REQUIRED,`iso8601` formatted (ex: `2020-01-31`), VERIFIED |
+| SSN        | users social security number            | String, REQUIRED, VERIFIED                                        |
 | Address    | address block of information for user   | Hash, REQUIRED                                     |
 | Street     | users street address                    | String, REQUIRED                                        |
 | Street 2   | optional sub street address description | String, OPTIONAL                                        |
