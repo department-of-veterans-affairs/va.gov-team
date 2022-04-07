@@ -70,6 +70,15 @@ Note: We can move this a sprint if Sharon needs to focus on general onboarding b
 
 ## Sprint 72 (4/20 - 5/3)
 
+### Personal info revisions
+
+**FE**
+
+Moved these from sprint 71
+
+- Add ability to Add/Update Preferred Name #38953
+- Add ability to Add/Update Gender Identity #38952
+
 ### Bad address indicator
 
 - Start on QA use cases #39379
