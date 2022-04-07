@@ -4,7 +4,7 @@
 
 Date: 04/04/2022
 
-[Lauryl Zenobi](lauryl@adhocteam.us), [Megan Graham](megan.graham@adhocteam.us)
+Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
 [Research Report PDF](link here)
 
