@@ -63,8 +63,7 @@ Y2ZjNkZTNjNjJjODdmNmYyIn0.HziiPA5EzB_tWhmSizocDfd3E6GyCK4W-nugKwp6HXg’
 * API must be called with a JWT, encoded with `inherited_proofing_auth` and `exp` fields, using the login.gov private key:
 ``` ruby
 { 
-inherited_proofing_auth: 
-  ${AUTH_CODE}, 
+  inherited_proofing_auth: ${AUTH_CODE}, 
   exp: ${EXPIRATION_TIME} 
 } 
 ```
@@ -78,8 +77,7 @@ inherited_proofing_auth:
 Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 ``` ruby
 { 
-  data: 
-    ${ENCRYPTED_USER_ATTRIBUTES}
+  data: ${ENCRYPTED_USER_ATTRIBUTES}
 }
 ```
 * `ENCRYPTED_USER_ATTRIBUTES` are user attributes encrypted as a JWE
@@ -116,7 +114,7 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 | Phone      | users phone number                      | String, OPTIONAL                                        |
 | Birth_date | users birth date                        | String, REQUIRED,`iso8601` formatted (ex: `2020-01-31`) |
 | SSN        | users social security number            | String, REQUIRED                                        |
-| Address    | address block of information for user   | JSON Blob, REQUIRED                                     |
+| Address    | address block of information for user   | Hash, REQUIRED                                     |
 | Street     | users street address                    | String, REQUIRED                                        |
 | Street 2   | optional sub street address description | String, OPTIONAL                                        |
 | City       | users city                              | String, OPTIONAL                                        |
