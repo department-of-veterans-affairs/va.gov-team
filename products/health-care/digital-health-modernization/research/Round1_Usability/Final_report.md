@@ -164,7 +164,7 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
 
 # Recommendations
 
-* Iterate on the breadcrumb design by changing “Home” text to “VA.gov” for the mobile testing
+* Iterate on the breadcrumb design by changing “Home” text to “VA.gov Home” for the mobile testing
 	* _Of the 8 participants who interacted with the breadcrumbs, 50% expected that the “Home” link would take them back to the My Health Landing page_
 	* _We’ve heard through conversations with other researchers that they have seen participants have similar difficulties_
 
