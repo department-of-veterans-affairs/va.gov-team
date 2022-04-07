@@ -190,7 +190,7 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
 * Iterate on Medical Records Tool design to address the following
 	* _Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”_
 	* _Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary_
-	* _Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records?_
+	* _Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? - Pass findings onto Mobile Team, see if they are still thinking about that._
 
 * Explore technical and UX options for including linking functionality across the MHV tools as they move to VA.gov
 	* _Pharmacy, Appointments, and Messages were areas that Participants wanted to be able to quickly connect different tools. For instance, auto filling details about an appointment or prescription in a message to your doctor_
