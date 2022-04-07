@@ -29,7 +29,7 @@ Our project is part of the Digital Health Modernization strategy, which aims to 
 
 The goals of this study are to:
 - Determine if Participants understand the concept of MHV on VA.gov as their "health apartment" 
-- Identify major usability or content issues with our current concept the look and functionality of replatforming MHV on VA.gov 
+- Identify major usability or content issues with our current concept of replatforming MHV on VA.gov 
 
 
 ### OCTO Objectives 
@@ -65,11 +65,11 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 # Hypotheses and Conclusions
 
-- Participants will easily understand the idea of a centralized place where they can access their VA medical information
+- Participants will easily understand the idea of a centralized place where they can access their VA medical information.
 	- *Likely True*. While Participants easily understood our prototype to be a centralized place to access their medical information, and even their other non-healthcare benefits, some did struggle with understanding whether they were on the VA.gov or MyHealtheVet website. This is likely due to their current experience of using both sites and not being able to easily differentiate between the two, and our as of yet finalized IA recommendations for where MHV functionality will live within the VA.gov website.
 - Participants will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care.
 	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
-- Participants will be able to accomplish a variety of health tasks as designed in this prototype
+- Participants will be able to accomplish a variety of health tasks as designed in this prototype.
 	- *Likely True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
 
 
@@ -173,20 +173,20 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
     * _Potential options to test include putting search as an option in the drop down menu or including a search bar visual_
 
 * Iterate on the content of the drop down menu within the Messages tool
-	* _Participants expected sort by: date range or calendar widget, doctor name, sender name, message priority, “most recent”, and longer time periods (6 months, last year, etc). Additional research or technical constraints are needed to determine what defines “most recent”._
+	*  _Participants expected sort by: date range or calendar widget, doctor name, sender name, message priority, “most recent”, and longer time periods (6 months, last year, etc). Additional research or technical constraints are needed to determine what defines “most recent”._
 
-* Iterate on the content of the Appointments details section
- 	*_Participants expected to see in Appointments detail section this data: specifics about their appointment such as purpose of visit or pre-work needed (e.g. fast for blood tests), the doctor they are seeing, location information, and contact information for the office or doctor._
+* Iterate on the content of the Appointments details section 
+	* _Participants expected to see in Appointments detail section this data: specifics about their appointment such as purpose of visit or pre-work needed (e.g. fast for blood tests), the doctor they are seeing, location information, and contact information for the office or doctor._
  
 * Assess feasibility and iterate on prescription status details for the Pharmacy Tool
-	*_Participants wanted to see expiration dates for statuses in the Pharmacy tool, particularly for “expiring soon” and “in progress”. Further testing is needed to ensure that these statuses are understandable and provide the necessary information._ 
+ 	* _Participants wanted to see expiration dates for statuses in the Pharmacy tool, particularly for “expiring soon” and “in progress”. Further testing is needed to ensure that these statuses are understandable and provide the necessary information._ 
  
 * Iterate on explanatory text of the Pharmacy Tool to clarify that this is mail only prescriptions
-	*_While most participants expected these prescriptions to go to their home address, a few participants also wanted the option to select a local pharmacy pick-up. Since this isn’t currently functionality we support, we’ll need to ensure via content and future testing that users understand the purpose of the Pharmacy refill tool._
+	* _While most participants expected these prescriptions to go to their home address, a few participants also wanted the option to select a local pharmacy pick-up. Since this isn’t currently functionality we support, we’ll need to ensure via content and future testing that users understand the purpose of the Pharmacy refill tool._
 
 * Iterate on Medical Records Tool design to address the following
 	* _Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”_
-	*_Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary_
+	* _Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary_
 	* _Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records?_
 
 * Explore technical and UX options for including linking functionality across the MHV tools as they move to VA.gov
