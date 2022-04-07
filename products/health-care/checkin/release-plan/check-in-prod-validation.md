@@ -1,3 +1,5 @@
+This list in to be used during scheduled production validation meetings as a reminder of the items that need to be validated in production.
+
 | Feature or Bug     | Link to Epic/Ticket | Feature Flag, if any | Merged | Prod Validated | Prod Available |
 | :----------------- | :------------------ | :------------------ | :--------- | :---------  | :---------  |
 | Demographics Confirmation | [Epic 39712](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39712) | check_in_experience_demographics_confirmation_enabled | 4/6/22 |  |  | 
