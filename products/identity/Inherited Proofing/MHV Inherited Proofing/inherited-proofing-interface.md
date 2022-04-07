@@ -93,13 +93,15 @@ And a payload, in this case the payload is `some-payload`
 Example Payload JSON:
 ```
 {
- "given_name": "abraham",
- "family_name": "lincoln",
+ "first_name": "abraham",
+ "last_name": "lincoln",
  "address": {
-   "street_address": "1600 Pennsylvania Ave",
-   "locality": "Washington",
-   "region": "DC",
-   "postal_code": "20500"
+   "street": "1600 Pennsylvania Ave",
+   "street2": "",
+   "City": "Washington",
+   "State": "DC",
+   "Country": "US",
+   "zip": "20500"
  },
  "phone": "(800) 867-5309",
  "dob": "1809-02-12",
@@ -230,4 +232,42 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 	* `https://staging-api.va.gov/review_instance/inherited_proofing/callback`
 	* `https://dev-api.va.gov/inherited_proofing/callback`
 
-
+## Testing
+In order to mock the creation of the auth_code on vets-api you can pass the value `mocked-auth-code-for-testing` into the `inherited_proofing_auth` param of your signed JWT request to the `/inherited_proofing/user_attributes` endpoint.
+ - Example payload: `payload = { inherited_proofing_auth: 'mocked-auth-code-for-testing', exp: 1651943405 }`
+ - Encode the JWT: JWT.encode(payload, private_key, 'RS256')
+ - Call the `/inherited_proofing/user_attributes` endpoint:
+```
+curl -X GET localhost:3000/inherited_proofing/user_attributes -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpbmhlcml0ZWRfcHJvb2ZpbmdfYXV0aCI6Im1vY2tlZC1hdXRoLWNvZGUtZm9yLXRlc3RpbmciLCJleHAiOjE2NTE5NDM0MDV9.smGHr2GLMdsCMO_msdh7A8fkuwzaGEtof0GNdoXfYJg"
+```
+ - You should then recieve a response:
+```
+{"data":"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhHQ00ifQ.oc6gQIVsUJ36K9aLHN5AQrfNz6GtYpGmN7qhOnXi2rXOGr5ZJXbx36LERdfZhII78wZ-h3XdJOOQs8Eu91zI8Gdf76jCijSzJEEuDuyPzvFlKJ_BbEOGGbu4OF0XOKnhr73h5GALlMfXlS4vmQ2J1oI4Htac4Xf5BjK9eDOXrjSfpvgqg8CnVvMPQT37V4oVVzBUHxG_RQhJF8jtpigfs3hO8zmlFZdLGam9qKqzTqxOUegDkCUeSJpzv9kcBxebCPZ_X2D9MWaqkhADkQO1B9zzapE25Mh7aM59vaO9Y0_c6ETn3sj0k7Wz0n3kYzxhAJ6Ud9zqJH9VOnyePqXJnQ.4LmsSKWrqtqdBvrA.z0ev6yfUPXuMaAOX4TNVgYsmyODXmPa-sOeVMaGX84i37hncppAQcWUOGemH9N32FTTKjDCGJW-H_CJJ83T9lmsIRksROBHIb80C74gXLs98AAJEM_KQVnwOGdwFMokQxRxrXOFmVh8FjmyviEtU1XK1xXZ35VDX5w2ca2UZODzCiQRlbCOxpfcjkGrCan2AM4B4kSkJ2xkEHWU9H4tSBU5ZUxYxR5t_6IZMFPQDrVdg8_420qjtWeLcd2A7fERwdBIkB_w3-TbRUX5rX1jbt1z9-URgYgRFUF4YI7Lj-dM.wFNdzLWyxHYWvWLGjJgFSw"}
+```
+ - Decrypt the data object with the private key that is paired with the public key registered [here](https://idp.int.identitysandbox.gov/api/openid_connect/certs) as of 7Apr2022.
+ - The decrypted object should have the mocked user data:
+```
+ {   
+    first_name: 'Fakey',
+    last_name: 'Fakerson',
+    address: mocked_address,
+     "address": {
+   "street": "1600 Pennsylvania Ave",
+   "street2": "",
+   "City": "Washington",
+   "State": "DC",
+   "Country": "US",
+   "zip": "20500"
+    phone: '2063119187',
+    birth_date: '2022-1-31',
+    ssn: '123456789'
+ }
+    
+    {
+    street: '123 Fake St',
+    street2: 'Apt 235',
+    city: 'Faketown',
+    state: 'WA',
+    country: nil,
+    zip: '98037'
+    }
