@@ -195,6 +195,7 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
 * Explore technical and UX options for including linking functionality across the MHV tools as they move to VA.gov
 	* _Pharmacy, Appointments, and Messages were areas that Participants wanted to be able to quickly connect different tools. For instance, auto filling details about an appointment or prescription in a message to your doctor_
 	* _Explore what constraints there are from a technical perspective, and then prioritize and include in roadmap for live code testing in the future_
+	* _Pass these findings onto the VAOS team/Peter Russo._
 
 # Next Steps
 
