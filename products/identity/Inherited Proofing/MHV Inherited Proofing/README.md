@@ -1,6 +1,4 @@
-# Product Outline Template
-
----
+# MHV Inherited Proofing Product Outline
 
 ## Overview
 
