@@ -182,6 +182,7 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
  
 * Assess feasibility and iterate on prescription status details for the Pharmacy Tool
  	* _Participants wanted to see expiration dates for statuses in the Pharmacy tool, particularly for “expiring soon” and “in progress”. Further testing is needed to ensure that these statuses are understandable and provide the necessary information._ 
+ 	* _Pass findings onto the Flagship Mobile Team, not immediately actionable for us but close collaboration will be needed in the future with this team_
  
 * Iterate on explanatory text of the Pharmacy Tool to clarify that this is mail only prescriptions
 	* _While most participants expected these prescriptions to go to their home address, a few participants also wanted the option to select a local pharmacy pick-up. Since this isn’t currently functionality we support, we’ll need to ensure via content and future testing that users understand the purpose of the Pharmacy refill tool._
