@@ -79,7 +79,3 @@ Diagram as of 31JAN22:
   * how many accounts have attempted the transition
   * how many were successful
   * how many failed (and the reasons why)
-
-## Diagram
-(draft)
-![](mhvaccounttransition_draft.png)
