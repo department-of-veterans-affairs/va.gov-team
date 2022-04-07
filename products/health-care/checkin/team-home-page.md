@@ -18,7 +18,7 @@
 - [Feature Flags](https://api.va.gov/flipper/features)
 
 ## Process 
-- [CIE Development Process](https://lucid.app/lucidchart/ce2a6513-dfcd-4e26-ab71-b97cdeab7b27/edit?beaconFlowId=D62DA0B455679C79&invitationId=inv_fbc06efe-b116-404c-82de-dcf2c01e607c&page=18_45#)
+- [CIE Development Process](https://lucid.app/lucidchart/ce2a6513-dfcd-4e26-ab71-b97cdeab7b27/edit?invitationId=inv_fbc06efe-b116-404c-82de-dcf2c01e607c)
 - [Decision Register](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/DecisionRegister.md)
 - [Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/meeting-notes)
 
