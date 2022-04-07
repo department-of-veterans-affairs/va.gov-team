@@ -69,10 +69,10 @@ Currently, VA medical facilities each have a kiosk that is used by Veterans to c
      - Once mobile pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
 - Release Date: Jan 2022
 
-#### Spanish Language Translations
+#### Language Translations (Spanish, Tagalog, English)
 - Status: Design/Prep 
-- Purpose: Allow Veterans to see check-in and pre-check-in instructions translated to Spanish
-- Functionality: Veteran will be provided with a mechanism on the pre-check-in and pre-check-in websites to indicate that they would like to see
+- Purpose: Allow Veterans to see check-in and pre-check-in instructions translated to Spanish, Tagalog, or English
+- Functionality: Veteran will be provided with a mechanism on the pre-check-in and pre-check-in websites to indicate the language they want
 - Release Date: Targeted for May 2022 
 
 #### Pre-check-in for Telemedicine Appointments
