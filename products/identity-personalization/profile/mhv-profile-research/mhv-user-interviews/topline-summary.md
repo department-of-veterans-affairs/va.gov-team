@@ -29,10 +29,12 @@ Only 1 participant had a profile with only required fields filled out; the major
 ### People expect that VA has access to all the information in their profile, updates made in their profile would be available to VA and have some kind of downstream effect.
 
 A resounding theme across all the data points discussed with participants was that they expected that VA has access to the information they entered into MHV, especially in their profile.  Only one participant expressed doubts about the VA having access to their MHV personal information section; this came up most frequently when we asked who could see the emergency contact information.
-> The doctor, clergy, it’ll be a small group of people who can actually see it - my point of contact. It should be in my records. If I’m not conscious, and can’t say who I am. - P11
+> The doctor, clergy, it’ll be a small group of people who can actually see it — my point of contact. It should be in my records. If I’m not conscious, and can’t say who I am. - P11
 
 Participants also talked about the VA being notified about updates made to  sections of their profile, such as a change to their My VA Treating Facility section, and that they expected those updates would kick off a change on the administrative side of VA.
 > I would assume I get e-mailed saying that something changed, and that information would go to the VA center too. - P13
+
+Overall, the impacts of making changes and who has access to what information in their profile is unclear to MHV users.
 
 ### People had varying ideas and levels of confidence about how data for “What is your relationship to VA” or “My VA treating facilites” is used by VA.
 
@@ -48,7 +50,7 @@ Participants speculated that the “What is your relationship to VA” checkboxe
 - To know whether or not someone is a Caregiver using a Veteran’s account.
 - A tag so the VA can use caution with who they are dealing with.
 
-Responses were slightly more consistent - related to records - when talking about the purpose of the “My VA Treating Facilities” checkboxes, but still varied. 
+Responses were slightly more consistent — related to records — when talking about the purpose of the “My VA Treating Facilities” checkboxes, but still varied. 
 
 Our participants guessed that the checkboxes meant:
 - These are where VA *could* have your medical records
@@ -88,16 +90,18 @@ The cards below had nearly equal or equal agreement between the “My health car
 - Notification settings for prescription shipping updates
 - Your blood type
 
-We also want to call out that 5 of 11 participants placed “Notification settings for the MHV newsletter” into the health care category (the rest had low agreement between profile and participant created categories). 
+We also want to call out that 5 of 11 participants placed “Notification settings for the MHV newsletter” into the health care category (the rest had low agreement between profile and participant created categories).  2 of 11 participants debated whether or not a list of VA facilities belonged in their profile or health care section.
 
 It may be helpful for Veterans to have content related to these categories cross-linked between the health apartment  and profile, or surfaced in multiple places.
 
 ### MHV users are used to being able to change their password and manage account access via security questions.
 Almost all participants mentioned changing their password, updating security questions, or doing both.   This tells us they’ll likely expect to have some sort of agency over the security of their account, even after we stop supporting the MHV credential.  We may need to provide some additional information or onboarding about managing account security to help users transition to managing information on VA.gov.
 
-### For the most part, participants expected to find health related information in their profile.
+### Participants expect to find some health related information in their profile.
 
+We designed our card sort to contain a mixed of what our team perceives as health-related and profile-related cards to better understand where MHV users would expect to find them. When participants placed these health items, such as blood type and the wallet health information card, into profile, we asked for them to tell us their thoughts around that placement. All participants shared a sentiment that their profile is part of their record and something VA has access too, and that’s why that information should be there.
 
+The table that follows shows the health-related cards, and the category with the highest agreement from our participants.
 
 | Card | Category |
 |---|---|
@@ -114,6 +118,8 @@ Almost all participants mentioned changing their password, updating security que
 | Your non-VA health insurance information | My VA.gov Profile |
 | Your power of attorney | My VA.gov Profile |
 | Your providers and doctors (self-entered) | My VA.gov Profile |
+
+The card sort doesn’t give us a straight answer about where *all* health-related profile information should live; it’ll need to be handled on a case by case basis.
 
 ## Additional findings
 ### Participants expect to be able to update their mailing address in their profile; if they’re not able to, the majority would call VA to make that change.
