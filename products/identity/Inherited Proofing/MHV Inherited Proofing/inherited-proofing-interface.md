@@ -50,9 +50,9 @@ ${AUTH_CODE}
 
 * API from login.gov to `vets-api`, `/inherited_proofing/user_attributes` with JWT  bearer token as authentication:
  ```
-curl -X GET https://staging-api.va.gov/inherited_proofing/user_attributes -H ‘Authorization: Bearer
+curl -X GET https://staging-api.va.gov/inherited_proofing/user_attributes -H "Authorization: Bearer
 eyJhbGciOiJIUzI1NiJ9.eyJpbmhlcml0ZWRfcHJvb2ZpbmdfYXV0aCI6IjJiYzViZjViOTU1YTg4ZG
-Y2ZjNkZTNjNjJjODdmNmYyIn0.HziiPA5EzB_tWhmSizocDfd3E6GyCK4W-nugKwp6HXg’
+Y2ZjNkZTNjNjJjODdmNmYyIn0.HziiPA5EzB_tWhmSizocDfd3E6GyCK4W-nugKwp6HXg"
 ```
 * During the process of inherited proofing, login.gov will call `vets-api` at one of the following to gain verified user attributes:
 	* `localhost:3000/inherited_proofing/user_attributes`
