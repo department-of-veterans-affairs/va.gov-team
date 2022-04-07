@@ -1,4 +1,4 @@
-This list in to be used during scheduled production validation meetings as a reminder of the items that need to be validated in production.
+**NOTE: This list is to be used during scheduled production validation meetings as a reminder of the items that need to be validated in production.**
 
 | Feature or Bug     | Link to Epic/Ticket | Feature Flag, if any | Merged | Prod Validated | Prod Available |
 | :----------------- | :------------------ | :------------------ | :--------- | :---------  | :---------  |
