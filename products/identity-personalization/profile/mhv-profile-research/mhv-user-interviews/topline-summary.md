@@ -16,6 +16,8 @@ This topline summary is a high level, top of mind summary of trends found in the
 * To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
 * To jump start synthesis by quickly organizing high level themes
 
+**Note:** Since this study is one component of [a larger research effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#project-outline-myhealthevetvagov-profile-transition-research), we won’t produce a findings document specifically for this round of user research. Rather, the findings most relevant to [overall research goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#research-goals) will be incorporated into our final findings summary.
+
 ## Initial Findings
 
 ### The sections of MHV Personal Information users find most useful are: Download my data, In case of Emergency, Change password, and My VA.gov Profile.
@@ -129,11 +131,9 @@ We asked participants where they would go to update their prescription shipping 
 - Their VAMC pharmacy
 - The VA eligibility office
 
-
-
 ### The participants who receive care at multiple facilities have not experienced challenges related to being registered at multiple VAMCs.
 
-We did some research in June 2021 to explore the value of adding preferred facilites to the VA.gov profile. Our findings in that study shows the ability of simply selecting a preferred or current facility from a list of registered facilities was not a useful feature to Veterans. 
+We did some [research in June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md) to explore the value of adding preferred facilites to the VA.gov profile. [Our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#findings-on-value) in that study shows the ability of simply selecting a preferred or current facility from a list of registered facilities was not a useful feature to Veterans. 
 
 In this round of research, we recruited participants who had been to multiple facilites in the last 18 months to validate those findings now that we’re planning for this transition.
 
