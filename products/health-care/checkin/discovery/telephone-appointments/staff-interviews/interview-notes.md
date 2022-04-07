@@ -82,3 +82,9 @@
 
 - When scheduling a telephone appointment, is any information captured from a patient that’s different from an in-person visit?
   - n/a
+
+- Have you worked with patients who are deaf or hard of hearing via the telephone? 
+  - Yes. It’s very challenging. Often I talk to the family member who mediates. I’m not really [directly] talking to the patient. 
+  - It’s difficult to communicate via a family member. Sometimes the patient gets frustrated and just stops talking
+  - At least in-person we can see each other (even video). So the phone is the least helpful modality for communicating with hard-of-hearing Veterans
+
