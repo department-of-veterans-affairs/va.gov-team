@@ -95,14 +95,14 @@ The most critical path items are listed below but do not represent the total of 
    - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
 - **PPMS Taxonomy Mapping**
    - Epic [#9995](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9995)
-- **Telehealth data availability in PPMS 
+- **Telehealth data availability in PPMS**
    - Epic [#17946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
 - **Online scheduling API**
     - EPIC [#27454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27454)
 
 ## Artifacts
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
-  - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie)_requires VA network connection_
+  - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie) _requires VA network connection_
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
 - [Engineering folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
 - [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
