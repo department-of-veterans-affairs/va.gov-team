@@ -1,22 +1,116 @@
 # MHV Inherited Proofing Usage
 
+## Summary
+This solution will enable veterans who have already completed the MHV in person verification process to automatically transition their verification information over to a login.gov account. This will work regardless of their login.gov account status. 
+
+## Description
+This document describes how to use the MHV Inherited Proofing VA.gov service. The service enables a client, such as login.gov, to receive a special authentication request from va.gov which includes an authentication code to then request verification information about the currently logged in user. The client will send a signed JWT request with the auth code and expect a JWT back from the VA.gov Inherited Proofing service. This JWT must be decrypted with the clients private key. Formal registration of the public private key pairs should be completed during the initial development phase of the project, with preference being given to public registered endpoints which share public certificates the client intends to use.
+
 ## Version History
 | Version Number | Author                                                 | Revision Date | Description of Change |
 |----------------|--------------------------------------------------------|---------------|-----------------------|
 | 0.1            | Trevor Bosaw, John Bramley, Josh Scanish, Joe Niquette | 4/7/2022      | Initial Creation      |
 
+## Definitions
+ - **Client**: Refers to login.gov backend services
+ - **User**: Refers to the entity which is attempting to complete the inherited proofing process. For example a Veteran who has logged in with a verified MHV account who is eligible for the inherited proofing process with login.gov would be considered a `user`.
+ - **user info api**, **vets-api**, **api**: All terms which refer to the endpoint which will listen for requests from clients which require user data of an eligible Veteran.
 
-## Summary
-The solution will enable veterans who have already completed the MHV in person verification process to automatically transition their verification information over to a login.gov account. This will work regardless of their login.gov account status. 
+## References
+ - [JWE RFC](https://datatracker.ietf.org/doc/html/rfc7516)
+ - [JWT RFC](https://datatracker.ietf.org/doc/html/rfc7519)
+ - [JWS RFC](https://datatracker.ietf.org/doc/html/rfc7515)
 
-## Description
-This document describes how to use the MHV Inherited Proofing VA.gov service. The service enables a client, such as login.gov, to receive a special authentication request from va.gov which includes an authentication code to then request verification information about the currently logged in user. The client will send a signed JWT request with the auth code and expect a JWT back from the VA.gov Inherited Proofing service. This JWT must be decrypted with the clients private key. Formal registration of the public private key pairs should be completed during the initial development phase of the project, with preference being given to public registered endpoints which share public certificates the client intends to use.
+## Overview
+- Vets-api passes the `auth_code` to the Login.gov service, which makes an authentication call to Login.gov, including the `auth_code` in the `inherited_proofing_auth` URL param.
+- As part of their account creation/signin process Login.gov will make an API call to `api.va.gov/inherited_proofing/user_attributes`. This call will include a JWT containing the `auth_code`, signed with Login.gov's private key, and will be passed through the authorization header.
+- The `InheritedProofingController` will validate the request's authenticity by first decrypting the JWT using Login.gov's public key, then using the decrypted code to find the saved Redis cache containing the user's uuid. It will then use the User uuid to obtain the necessary user attributes for IAL2 proofing and store them in a JWT encrypted with login.gov's public key before returning them to Login.gov.
+- Login.gov will use their associated private key to decode the JWT, then complete the account creation process with the contained user attributes and forward the user back to `api.va.gov/inherited_proofing/login`. At this point, the user will be logged out and have their session cleared (since they are currently authenticated through MHV), then placed into the regular Login.gov authentication flow. Since they will still possess an active session for their new Login.gov account, they will immediately be authenticated and returned back to the `v1/sessions/saml_callback` as an authenticated Login.gov IAL2 user.
 
 ## Diagram
 ![MHV Inherited Proofing - Technical Flow - API (1)](https://user-images.githubusercontent.com/71290526/162254371-b908ab45-8642-448a-898b-b1593b02937a.png)
 
+## Detailed Design
 
-## Authorization
+### Data Request
+
+Login.gov will send a GET request to `api.va.gov/inherited_proofing/user_attributes` with a JWT consisting of `{ inherited_proofing_auth: <auth_code>, exp: ${EXPIRATION_TIME} }` signed by the login.gov private key. The JWT will be passed through the authorization param: `Authorization: Bearer <JWT>`. This technique ensures the request came from login.gov. Vets-API will then validate the auth code by:
+ - validating the sender's certificate chain
+ - validate the request signature by decrypting the auth code value with the clients public key
+ - validate the auth code exists within the Redis store
+ - validate auth code attributes such as "has this code been used before" and "has the auth code expired"
+
+If the validation passes for the auth code then vets-api will update the auth code entry in Redis to mark the record for deletion. If the Redis entry for the auth code is not otherwise marked for deletion then the entry will expire naturally after 90 minutes. The auth code is the key in the Redis table, the value will be the attributes associated with the original creation of the auth code. These attributes will include:
+ - attribute :user_uuid, String
+ - attribute :code, String
+ - attribute :data, Hash
+
+The `:data, Hash` will be a hash of the attributes received from the MHV API and will contain the follow values:
+```
+    'mhvId' => 19031205,
+    'identityProofedMethod' => 'IPA',
+    'identityProofingDate' => '2020-12-14',
+    'identityDocumentExist' => true,
+    'identityDocumentInfo' => {
+       'primaryIdentityDocumentNumber' => '73929233',
+       'primaryIdentityDocumentType' => 'StateIssuedId',
+       'primaryIdentityDocumentCountry' => 'United States',
+       'primaryIdentityDocumentExpirationDate' => '2026-03-30'
+```
+
+An example request from the client:
+```
+curl -X GET localhost:3000/inherited_proofing/user_attributes -H 'Authorization: Bearer
+eyJhbGciOiJIUzI1NiJ9.eyJpbmhlcml0ZWRfcHJvb2ZpbmdfYXV0aCI6IjJiYzViZjViOTU1YTg4ZGY2ZjNkZTNjNjJjODdmNmYyIn0.HziiPA5EzB_tWhmSizocDfd3E6GyCK4W-nugKwp6HXg'
+```
+
+The bearer token is an Access Token JWT encoded with login.gov's private key and with at least the fields:
+```
+{ inherited_proofing_auth: <code_from_auth_call>, exp: <expiration_time_integer> }
+```
+They will decrypt using their private key, with default rails JWE methods, which are:
+
+`alg: RSA-OAEP`
+
+`enc: A128CBC-HS256`
+
+### Data Response
+Vets-API will create a JWT which contains the requested user attributes. The original auth code stored in Redis has a key which points to the user_uuid that can be used to obtain the PII of the current user. This user_uuid is used to search the user model Redis and returns all relevant PII for the currently logged in user. (Note: Standard validation checks of user_uuid are omitted from this document as they have been reviewed and approved in previous iterations of development) The user attributes are converted from a Ruby hash to JSON and then packaged inside the JWT payload which is encrypted with the clients public key (the public key for the client is obtained from an endpoint similar to this [one](https://idp.int.identitysandbox.gov/api/openid_connect/certs). The JWT is then sent over TLS back to login.gov. These interactions are not within the browser and occur only between backend servers from vets-api and login.gov.
+
+**Example resulting JWT:**
+
+`eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhHQ00ifQ.KoJTbwJhEVOUaGIX-i4jmav3_P4N_2PQZV9ViP0crVLhKBn-sQb4AQS2Drle0g24CBXJWnQ2RTohePWRnKQ_Ww.J9oXtVOaRqNch7aE.xhJHPRlmSYx_Mqz4.e6qKKqC007gF2BZpG795Hg`
+
+**Which is then decoded to produce a header:**
+```
+{
+  "alg": "RSA-OAEP",
+  "enc": "A128GCM"
+}
+```
+And a payload, in this case the payload is `some-payload`
+
+Example Payload JSON:
+```
+{
+ "given_name": "abraham",
+ "family_name": "lincoln",
+ "address": {
+   "street_address": "1600 Pennsylvania Ave",
+   "locality": "Washington",
+   "region": "DC",
+   "postal_code": "20500"
+ },
+ "phone": "(800) 867-5309",
+ "dob": "1809-02-12",
+ "ssn": "796111863",
+ "inherited_proofing_auth": "646061c0a41cea527c6045780849103e"
+}
+```
+
+# Login.gov Developer Guide
+
+## Login.gov Authorization
 *  Initial browser redirect from `vets-api` to login.gov is a standard OAuth Authorization, with an additional field, `inherited_proofing_auth`:
  ```
 https://idp.int.identitysandbox.gov/openid_connect/authorize?acr_values=
