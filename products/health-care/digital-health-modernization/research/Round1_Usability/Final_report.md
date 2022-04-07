@@ -305,5 +305,5 @@ This research does not include the perspectives of the following marginalized Pa
 * Use assistive technology
 
 
-_[Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitmenttracker.png) 
+![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitmenttracker.png) 
 
