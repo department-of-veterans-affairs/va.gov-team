@@ -8,7 +8,7 @@
 **I want** to use modern, secure Credential Service Providers (CSPs)
 **So that** I can ensure that my information is safe when accessing VA services.
 
-As we continue to evolve the VA.gov ecosystem,legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience.  We need to migrate users to newer CSP's that do meet these objectives.  In this specific instance, we are working to move select MyHealtheVet Premium users to Login.gov without the need to reverify their identities.
+As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience.  We need to migrate users to newer CSP's that do meet these objectives.  In this specific instance, we are working to move select MyHealtheVet Premium users to Login.gov without the need to reverify their identities.
  
 ## Desired User Outcomes
 
@@ -58,14 +58,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - We are building a process for eligible users to easily transition their account from MHV to Login.gov
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- In addition, we are working to provide users with information and guidance on both why and how to transition
+
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+https://app.zenhub.com/workspaces/vsp-identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/34838
 
 --- 
 
@@ -128,7 +125,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+-GSA/Login.gov
+-VSP Identity Team
+-MyHealtheVet
  
 </details>
 
