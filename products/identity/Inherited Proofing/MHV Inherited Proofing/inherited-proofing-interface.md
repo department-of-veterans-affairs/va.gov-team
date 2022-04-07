@@ -13,7 +13,7 @@ The solution will enable veterans who have already completed the MHV in person v
 This document describes how to use the MHV Inherited Proofing VA.gov service. The service enables a client, such as login.gov, to receive a special authentication request from va.gov which includes an authentication code to then request verification information about the currently logged in user. The client will send a signed JWT request with the auth code and expect a JWT back from the VA.gov Inherited Proofing service. This JWT must be decrypted with the clients private key. Formal registration of the public private key pairs should be completed during the initial development phase of the project, with preference being given to public registered endpoints which share public certificates the client intends to use.
 
 ## Diagram
-![MHV Inherited Proofing - Technical Flow - API](https://user-images.githubusercontent.com/71290526/162247628-f2d6d307-bae0-4b09-9a87-94795a3430cf.png)
+![MHV Inherited Proofing - Technical Flow - API (1)](https://user-images.githubusercontent.com/71290526/162254371-b908ab45-8642-448a-898b-b1593b02937a.png)
 
 
 ## Authorization
