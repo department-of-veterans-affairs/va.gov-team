@@ -174,9 +174,11 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
 
 * Iterate on the content of the drop down menu within the Messages tool
 	*  _Participants expected sort by: date range or calendar widget, doctor name, sender name, message priority, “most recent”, and longer time periods (6 months, last year, etc). Additional research or technical constraints are needed to determine what defines “most recent”._
+	* _Test expanded dropdown in next round_
 
 * Iterate on the content of the Appointments details section 
 	* _Participants expected to see in Appointments detail section this data: specifics about their appointment such as purpose of visit or pre-work needed (e.g. fast for blood tests), the doctor they are seeing, location information, and contact information for the office or doctor._
+	*  _Test expanded dropdown in next round_
  
 * Assess feasibility and iterate on prescription status details for the Pharmacy Tool
  	* _Participants wanted to see expiration dates for statuses in the Pharmacy tool, particularly for “expiring soon” and “in progress”. Further testing is needed to ensure that these statuses are understandable and provide the necessary information._ 
