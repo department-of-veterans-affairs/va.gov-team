@@ -51,11 +51,11 @@ This research fits into these points of a Participant's Journey:
 # Research Questions
 
 This research will help us answer:
-- Will Participants understand the concept of the health apartment as shown in this design? 
-- How would Participants expect to get to the health apartment?
-- What would they expect to see in their health apartment if they were logged in? Not logged in?
-- Will Participants be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
-- What is the Participant perception of how the health apartment would fit into how they manage their health at the VA?
+- Will participants understand the concept of a centralized place for their healthcare as shown in this design? 
+- How would Participants expect to get to the healthcare information?
+- What would they expect to see in their My Health landing page if they were logged in? Not logged in?
+- Will participants be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
+- What is the participant perception of how the health apartment would fit into how they manage their health at the VA?
 
 
 # Methodology 
@@ -65,8 +65,8 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 # Hypotheses and Conclusions
 
-- Participants will easily understand the idea of a centralized place where they can access their VA medical information.
-	- *Likely True*. While Participants easily understood our prototype to be a centralized place to access their medical information, and even their other non-healthcare benefits, some did struggle with understanding whether they were on the VA.gov or MyHealtheVet website. This is likely due to their current experience of using both sites and not being able to easily differentiate between the two, and our as of yet finalized IA recommendations for where MHV functionality will live within the VA.gov website.
+- Participants will easily understand the idea of a centralized place where they can access their VA healthcare information.
+	- *Likely True*. While Participants easily understood our prototype to be a centralized place to access their healthcare information, and even their other non-healthcare benefits, some did struggle with understanding whether they were on the VA.gov or MyHealtheVet website. This is likely due to their current experience of using both sites and not being able to easily differentiate between the two, and our as of yet finalized IA recommendations for where MHV functionality will live within the VA.gov website.
 - Participants will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care.
 	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
 - Participants will be able to accomplish a variety of health tasks as designed in this prototype.
@@ -150,7 +150,7 @@ Participants expected that the healthcare tools would cross-link to each other. 
 
 Labels: BNFT: Healthcare, PRDT: Benefit-letters, PRDT: health-care-apartment 
 
-Only one participant did not notice or comment on seeing Disability Benefits at the bottom of the My Health Landing Page. Participants said they usually expect to see that information on eBenefits, and that seeing their disability rating and options for increasing their benefits made them feel like this Health Apartment truly was a one-stop shop and that the VA was interested in helping them maximize their benefits. Although it was nice to see alongside health information, Participants said they would want to verify this section gives them as much detail as they can currently see on eBenefits. 
+Only one participant did not notice or comment on seeing Disability Benefits at the bottom of the My Health Landing Page. Participants said they usually expect to see that information on eBenefits, and that seeing their disability rating and options for increasing their benefits made them feel like My Health truly was a one-stop shop and that the VA was interested in helping them maximize their benefits. Although it was nice to see alongside health information, Participants said they would want to verify this section gives them as much detail as they can currently see on eBenefits. 
 
 > I can do a lot on this page. I like how you have the disability benefits. (Pilot participant, Participant)
 
