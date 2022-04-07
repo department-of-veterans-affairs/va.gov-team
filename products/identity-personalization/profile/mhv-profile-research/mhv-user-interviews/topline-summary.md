@@ -100,7 +100,7 @@ Almost all participants mentioned changing their password, updating security que
 
 
 | Card | Category |
-|—|—|
+|---|---|
 |A list of VA facilities where you receive health care | My Health Care |
 |A list of apps you’ve chosen that share information from your VA.gov profile and health record (apps like Apple Health) | My Health Care |
 | Emergency contacts | My VA.gov Profile |
