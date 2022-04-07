@@ -1,4 +1,5 @@
 # Healthcare Experience - Appointment Check-in & Pre-Check-in
+# Product Brief
 
 ## Overview
 This product reimagines the process by which Veterans check-in for a medical appointment by allowing them to perform pre-check-in and check-in from their mobile device. The product is intented to replace the physical kiosks currently used for check-in at VA facilities. Development will involve coordinating with other product teams (VeText, VAOS, MyVA, mobile app) in order to consolidate the data from disparate systems necessary to complete check-in.
