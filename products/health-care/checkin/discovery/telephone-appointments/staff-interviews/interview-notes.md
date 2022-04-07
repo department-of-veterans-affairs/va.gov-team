@@ -60,8 +60,6 @@
   - To text a reminder or gather other information would be very helfpul. 
   - A lot of the problem is that the providers are running 10-15 minutes late. Sometimes they don't have time to tell the nurse to let them know that the provider is running late. 
   - Sometimes the patients are very vegilant and will call at 4:02 and say that the provider is late. Having a way to connect with the patient would be helpful. 
-  - It's very challenging for deaf or hard of hearing patients. Often I talk to the family member who mediates. I'm not really directly talking to the patient. It's difficult to communicate via a family member. Sometimes the patient gets frustrated and just stops talking. At least in person, we can see each other. So, the phone is the least helpful modality for communicating with hard of hearing Veterans. 
-
 - Has there been any existing plans discussed at your practice or other ideas you haven’t yet shared to help improve or streamline the patient experience for scheduling a telephone appointment? Specifically, the time between when a patient schedules an appointment to when their appointment begins?  
   - n/a 
 
