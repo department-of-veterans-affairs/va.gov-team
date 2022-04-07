@@ -37,7 +37,7 @@
     - Did they attempt to scan the QR code? 
       - If so, did they have trouble?
     - How long did they wait to receive the check in link via text message?
-    - Did they need to make any changes to their contact information? If so, observe that process.
+    - Did they need to make any changes to their information? If so, observe that process.
     - Did they successfully complete check-in?
       - If not, what happened? Where did they get stuck?
     - Did the Veteran talk to the MSA/clerk for any reason?
