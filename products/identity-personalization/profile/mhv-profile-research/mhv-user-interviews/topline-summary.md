@@ -1,7 +1,7 @@
 # My HealtheVet (MHV) Personal Information Discovery -  User Interviews, Topline Summary
 *Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
 
-Date:`draft`
+Date: 4/8/2022
 
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
