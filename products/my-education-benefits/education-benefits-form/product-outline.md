@@ -134,6 +134,8 @@ The following is the flow for the application with respective screenshots:
 #### Eligible
 This page is shown if the rules engine determines that the claimant has been approved for their benefit.
 
+<img alt="Eligible Decision Page" src="./screenshots/eligible-decision.png" height="400">
+
 #### Disallowance
 This page is shown if the rules engine determines that the claimant has been denied for their benefit.
 
