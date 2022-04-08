@@ -21,7 +21,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ### 04/08/2022
 - Change made to allow Veterans, who confirm their demographics information during the pre-check-in process but fail to check-in for their appointment, to return later to check-in for their appointment and not have to re-confirm their demographics information.
-    - Feature Flag: check_in_experience_demographics_confirmation_enabled
     - [Epic 39712](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39712)
+    - Feature Flag: check_in_experience_demographics_confirmation_enabled
 - Fix to allow a veteran to seamlessly perform check-in and/or pre-check-in even if they have an active fully authenticated session.
     - [Ticket 38679](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38679)
