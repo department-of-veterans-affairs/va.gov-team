@@ -9,9 +9,8 @@
 - [Creating vcr tapes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
 - [Integration with Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)
 - [Using feature flags](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-feature-toggles-to-progressively-release-changes.590938137.html)
-- PPMS Swagger Instances
-  - [Non-Prod](https://np.dws.ppms.va.gov/swagger/ui/index#/) _requires VA network connection_
-  - [Prod](https://dws.ppms.va.gov/swagger/ui/index#/) _requires VA network connection_
+
+
 
 
 ### [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
