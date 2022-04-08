@@ -9,6 +9,7 @@
 - [Creating vcr tapes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
 - [Integration with Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)
 - [Using feature flags](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-feature-toggles-to-progressively-release-changes.590938137.html)
+- [PPMS forum](https://dvagov.sharepoint.com/sites/OITDSOSPMPPMSDWS)
 
 
 
