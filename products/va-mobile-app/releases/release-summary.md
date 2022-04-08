@@ -19,6 +19,10 @@ Bug Fixes
 
 ZenHub Release Report: [1.18.0](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/reports/release?release=Z2lkOi8vcmFwdG9yL1JlbGVhc2UvNzQ1ODk&invite=true)
 
+BackEnd 
+- Renamed appointments included param to include to follow JSON-API spec
+- Bug Fix: Fixed bug nil appointment location in facilities helper to address issue when appointments that have no location provided, the fill in appointment creation to fail
+
 
 ## Release: 3/29/22
 
