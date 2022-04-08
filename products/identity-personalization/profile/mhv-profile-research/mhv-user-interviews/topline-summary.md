@@ -28,7 +28,7 @@ We started the session asking users to tell us about how they’ve used the pers
 
 Only 1 participant had a profile with only required fields filled out; the majority stated that while they don’t regularly visit the profile page, they had used it in the past to make updates. The most common reasons people had for visiting My VA.gov Profile were managing email notifications and changing their account security questions.
 
-### People expect that VA has access to all the information in their profile, updates made in their profile would be available to VA and have some kind of downstream effect.
+### People expect that VA has access to all the information in their profile, and that updates made in their profile would be available to VA and have some kind of downstream effect.
 
 A resounding theme across all the data points discussed with participants was that they expected that VA has access to the information they entered into MHV, especially in their profile.  Only one participant expressed doubts about the VA having access to their MHV personal information section; this came up most frequently when we asked who could see the emergency contact information.
 > The doctor, clergy, it’ll be a small group of people who can actually see it — my point of contact. It should be in my records. If I’m not conscious, and can’t say who I am. - P11
