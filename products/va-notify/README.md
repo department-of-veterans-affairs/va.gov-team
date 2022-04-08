@@ -141,7 +141,7 @@ Lighthouse
 
 ## Recent Successes
 ![](images/Launched.png)
-![](images/Rx shipment.png)
+![](images/Rx%20shipment.png)
 ![](images/vaccine_confirmation.png)
 
 ## Find Out More & Get In Touch With Us
