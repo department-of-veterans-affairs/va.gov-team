@@ -25,7 +25,7 @@ Provide resources for planning, recruiting, facilitating, and synthesizing resea
 
 ## <a id="workingwithus"></a> Working with us
 ### Orientation
-During orientation, you’ll meet the people on the Platform who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you.
+Come to the Design Orientation session where you’ll meet the people on the Platform who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll show you around the tools, services, support, and documentation available to you. [Sign up for the next design orientation session](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform?month=2022-01)
 
 ### Platform Collaboration Cycle
 The [Platform Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) defines the process for Platform support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
@@ -46,7 +46,7 @@ We are also available for informal discussions about design challenges and can h
 Every Tuesday from 2:30-3:30pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=ZTIwYTc5cWExbmdkcXR1NGpxNG1vNmZkNnBfMjAyMTAzMDlUMTkzMDAwWiBuYW9taS5tYXJjdXNzZW5Ab2RkYmFsbC5pbw&tmsrc=naomi.marcussen%40oddball.io&scp=ALL).
 
 - **Design + Content + Research sync**
-Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design on VA.gov is invited to get together for an hour to show-and-tell, get feedback, share research, and collaborate on tough design problems. We plan the agenda ahead of time for this meeting, so let @Emily Waggoner know in Slack if you’d like to get on the list! [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2bDMzMGQxbTZncmo4aDltNzBxazhkOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmtwNGNoOWs2NTIzaWMxbTY0c2o4aDlrNjkxMzZjaGw2dDJqZWhoZzc1MGpnZTFpOGNzZ18yMDE5MTExOFQxODAwMDBaIGVtaWx5QGFkaG9jdGVhbS51cw&tmsrc=emily%40adhocteam.us&scp=ALL).
+Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design on VA.gov is invited to get together for an hour to show-and-tell, get feedback, share research, and collaborate on tough design problems. We plan the agenda ahead of time for this meeting, so let @Naomi Marcussen know in Slack if you’d like to get on the list! [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2bDMzMGQxbTZncmo4aDltNzBxazhkOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmtwNGNoOWs2NTIzaWMxbTY0c2o4aDlrNjkxMzZjaGw2dDJqZWhoZzc1MGpnZTFpOGNzZ18yMDE5MTExOFQxODAwMDBaIGVtaWx5QGFkaG9jdGVhbS51cw&tmsrc=emily%40adhocteam.us&scp=ALL).
 
 - **Design in the open**
 We encourage all designers to be open about their process and seek feedback throughout every step. Designers should share sketches and low-fi mockups of your work in the Slack #design channel. It’s a great way to get quick, asynchronous feedback and it helps to build a culture of transparency and openness.
@@ -62,6 +62,7 @@ We encourage all designers to be open about their process and seek feedback thro
 
 Date | Revisions Made | Author
 -----|----------------|--------
+April 8, 2022 | Updated names and added link to sign up for design orientation | Naomi Marcussen
 June 9, 2021 | Updated VSP to Platform and names of Collaboration Cycle points | Naomi Marcussen
 March 4, 2021 | Updated names and Office Hours | Naomi Marcussen
 March 20, 2020 | Reformatted using new template. | Emily Waggoner
