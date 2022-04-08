@@ -1,7 +1,7 @@
 # Planned Releases
 
 | Feature or Bug     | Feature Flag, if any | Est. Release Date | Prod Validated Date | Actual Release Date | Description |
-| :----------------- | :------------------ | :--------- | :---------  | :---------  | :---------  |
+| :----------------- | :------------------ | :--------- | :---------  | :---------  | :-----------------------------------------------------------------------  |
 | Custom Cookie | check_in_experience_demographics_confirmation_enabled | 4/8/22 |  |  | [Ticket 39712](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38679) Fix to allow a veteran to seamlessly perform check-in and/or pre-check-in even if they have an active fully authenticated session. |
 | Demographics Confirmation | check_in_experience_demographics_confirmation_enabled | 4/8/22 |  |  | [Epic 39712](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39712) Change made to allow Veterans, who confirm their demographics information during the pre-check-in process but fail to check-in for their appointment, to return later to check-in for their appointment and not have to re-confirm their demographics information. |
 | Translations | check_in_experience_translation_day_of_enabled check_in_experience_translation_pre_check_in_enabled | 5/2/22  |  | [Epic 38257](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38257) New feauture to allow Veterans to view page content translated to Spanish or Tagalog.   |
