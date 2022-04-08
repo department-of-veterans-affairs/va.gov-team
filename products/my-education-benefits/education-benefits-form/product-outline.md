@@ -111,7 +111,7 @@ The following is the flow for the application with respective screenshots:
 <img alt="Service History Page" src="./screenshots/service-history.png" height="400">
 <img alt="Service History Wrong Page" src="./screenshots/service-history-wrong.png" height="400"> 
 
-9) If the claimant qualifies for other benefits, he must relinquish one of them. In such case, they are presented with a page to relinquish the benefit they are eligible for.
+9) If the claimant qualifies for other benefits, they must relinquish one of them. In such case, they are presented with a page to relinquish the benefit they are eligible for.
 <img alt="Relinquishments Page" src="./screenshots/benefit-relinquishment.png" height="400"> 
 
 10) The Claimant is presented next with some additional question pages:
