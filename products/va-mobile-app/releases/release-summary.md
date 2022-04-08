@@ -1,5 +1,24 @@
 # VA Mobile team - Release Highlights
 
+
+## Release: 4/12/22
+
+Improvements & Bug Fixes
+
+- View VA Payments live in production
+- Improved spacing for vaccine details so the UI details does not look cluttered
+
+Bug Fixes
+- Secure Messaging
+    - Fixed auto scroll not working with large text 
+ - Claims
+    - Fixed screen reader issue to announce photo upload buttons as buttons, file size, and position in group
+    - Fix centering issue for add photo text on component
+    - Fixed 'we sent you a letter'  to helper size text on the file request screen for a calim requesting evidence
+    - Update the call to collapsible alert in order to fixed screen reader issue to read header
+
+
+
 ## Release: 3/29/22
 
 Improvements & Bug Fixes
