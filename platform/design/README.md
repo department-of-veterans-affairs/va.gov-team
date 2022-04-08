@@ -8,9 +8,9 @@ The Platform Design team supports teams building on VA.gov by providing guidance
 
 ## <a id="howtocontact"></a> How to contact us
 If you need a hand with anything, don't hesitate to contact us.
-- Ryan Thurlwell, Design Lead - VA - Slack @rtwell
-- Naomi Marcussen, Design Lead - Platform - Slack @NaomiMarcussen
-- Allison Christman, UX Designer - Platform Support Team - Slack @AllisonChristman
+- Matthew Dingee, Design Lead - VA - Slack @Matthew Dingee
+- Naomi Marcussen, Design Lead - Platform - Slack @Naomi Marcussen
+- Allison Christman, UX Designer - Platform Governance Team - Slack @Allison Christman
 
 Slack channel: [#design](https://dsva.slack.com/channels/design)
 Github/Zenhub labels: product-support
