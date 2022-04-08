@@ -42,6 +42,7 @@ It is the newer version of [VA's Legacy directory](https://www.va.gov/directory/
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md#error-states-and-steps-for-resolution)
 - [Issue response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
 - [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
+- [PPMS forum](https://dvagov.sharepoint.com/sites/OITDSOSPMPPMSDWS)
 
 ## Contacts
 Person | Email | Role |
