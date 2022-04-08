@@ -57,6 +57,8 @@ The Unified Sign-In page (va.gov/sign-in) is now available for use within the fo
 - Flagship Mobile (`?application=vamobile`)
 - VA OCC Mobile (`?application=vaoccmobile`)
 
+The authentication requests through the `vamobile` and `vaoccmobile` USiP use a non-standard initial authentication request to the backend (vets-api sessions controller). When a user clicks on one of the CSPs the frontend will call the sessions controller at a verified CSP route `<api>/v1/sessions/<csp>_verified/new` which forces all login requests through the `vamobile` and `vaoccmobile` USiP to return users who IAL2 or LOA3 verified users.
+
 There are currently 2 ways to utilize the Unified Sign-In page for a mobile application:
 
 1. With Sign-In Service disabled - default
