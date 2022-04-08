@@ -17,7 +17,9 @@ Contents:
 3. [One-pager](#one-pager)
 4. [Social media toolkit](#social-media-toolkit)
 5. [Social media graphics](#social-media-graphics)
-6. [Other content (articles, news releases, podcasts, etc.)](#other-content)
+6. [Newsletter blurbs](#newsletter-blurbs)
+7. [Emails to Veterans](#emails-to-veterans)
+8. [Other content (articles, news releases, podcasts, etc.)](#other-content)
 
 For outreach to women Veterans, you can also use these tailored materials from MVP’s women’s campaign. Materials include posters, videos, social media, blogs, a one-pager, and more.
 
@@ -71,6 +73,22 @@ Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets.
 - [Facebook image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-FB.png)
 - [Instagram image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-IG.png)
 - [Twitter image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Twitter.png)
+
+### Newsletter blurbs
+
+In the below Word document are two blurbs (one short, one longer) that can be used in any Veteran-facing newsletter. You can use the below graphic or any of the other graphics in this toolkit. 
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/doc/Newsletter-blurbs.docx">Newsletter blurbs (Word doc)</a>
+- [Graphic for newsletter (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/MVP-for-email.png)
+
+
+### Emails to Veterans
+
+If your facility or organization sends emails to Veteran subscribers, below are two email templates (one short, one longer) that you can use to invite Veterans to join MVP. The subject lines and preview text in these templates were tested and found to have high open rates. 
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/doc/Email-template.docx">Email templates (email body, subject line, preview text) (Word doc)</a>
+- [Graphic for email (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/MVP-for-email.png)
+
 
 ### Other content
 
