@@ -1,4 +1,4 @@
-# Planned Releases
+# Planned Releases ([Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md))
 
 | Feature or Bug     | Estimated Release | Prod Validation | Actual Release | Description |
 | :----------------- | :--------- | :---------  | :---------  | :--------------  |
