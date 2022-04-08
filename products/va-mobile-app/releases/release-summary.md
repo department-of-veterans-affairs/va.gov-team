@@ -17,6 +17,7 @@ Bug Fixes
     - Fixed 'we sent you a letter'  to helper size text on the file request screen for a calim requesting evidence
     - Update the call to collapsible alert in order to fixed screen reader issue to read header
 
+<img width="1111" alt="Screen Shot 2022-04-08 at 5 05 48 PM" src="https://user-images.githubusercontent.com/90273080/162531015-7bb9296c-37b9-41b2-97d6-0eee18b544df.png">
 
 
 ## Release: 3/29/22
