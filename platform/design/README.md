@@ -25,7 +25,7 @@ Provide resources for planning, recruiting, facilitating, and synthesizing resea
 
 ## <a id="workingwithus"></a> Working with us
 ### Orientation
-Come to the Design Orientation session where you’ll meet the people on the Platform who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll show you around the tools, services, support, and documentation available to you. [Sign up for the next design orientation session](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform?month=2022-01)
+Meet the people on the Platform who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX in our monthly design orientation. We’ll show you around the tools, services, support, and documentation available to you. [Sign up for the next design orientation session](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform?month=2022-01)
 
 ### Platform Collaboration Cycle
 The [Platform Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) defines the process for Platform support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
