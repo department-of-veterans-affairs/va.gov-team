@@ -46,7 +46,7 @@ If the validation passes for the auth code then vets-api will update the auth co
  - attribute :data, Hash
 
 The `:data, Hash` will be a hash of the attributes received from the MHV API and will contain the follow values:
-```
+``` erl
     'mhvId' => 19031205,
     'identityProofedMethod' => 'IPA',
     'identityProofingDate' => '2020-12-14',
@@ -59,30 +59,29 @@ The `:data, Hash` will be a hash of the attributes received from the MHV API and
 ```
 
 An example request from the client:
-```
+``` bash
 curl -X GET localhost:3000/inherited_proofing/user_attributes -H 'Authorization: Bearer
 eyJhbGciOiJIUzI1NiJ9.eyJpbmhlcml0ZWRfcHJvb2ZpbmdfYXV0aCI6IjJiYzViZjViOTU1YTg4ZGY2ZjNkZTNjNjJjODdmNmYyIn0.HziiPA5EzB_tWhmSizocDfd3E6GyCK4W-nugKwp6HXg'
 ```
 
 The bearer token is an Access Token JWT encoded with login.gov's private key and with at least the fields:
-```
+``` erl
 { inherited_proofing_auth: <code_from_auth_call>, exp: <expiration_time_integer> }
 ```
 They will decrypt using their private key, with default rails JWE methods, which are:
-
-`alg: RSA-OAEP`
-
-`enc: A128CBC-HS256`
+ - `alg: RSA-OAEP`
+ - `enc: A128CBC-HS256`
 
 ### Data Response
 Vets-API will create a JWT which contains the requested user attributes. The original auth code stored in Redis has a key which points to the user_uuid that can be used to obtain the PII of the current user. This user_uuid is used to search the user model Redis and returns all relevant PII for the currently logged in user. (Note: Standard validation checks of user_uuid are omitted from this document as they have been reviewed and approved in previous iterations of development) The user attributes are converted from a Ruby hash to JSON and then packaged inside the JWT payload which is encrypted with the clients public key (the public key for the client is obtained from an endpoint similar to this [one](https://idp.int.identitysandbox.gov/api/openid_connect/certs). The JWT is then sent over TLS back to login.gov. These interactions are not within the browser and occur only between backend servers from vets-api and login.gov.
 
 **Example resulting JWT:**
 
-`eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhHQ00ifQ.KoJTbwJhEVOUaGIX-i4jmav3_P4N_2PQZV9ViP0crVLhKBn-sQb4AQS2Drle0g24CBXJWnQ2RTohePWRnKQ_Ww.J9oXtVOaRqNch7aE.xhJHPRlmSYx_Mqz4.e6qKKqC007gF2BZpG795Hg`
+`eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhHQ00ifQ.KoJTbwJhEVOUaGIX-i4jmav3_P4N_2PQZV9ViP0crVLhKBn-
+sQb4AQS2Drle0g24CBXJWnQ2RTohePWRnKQ_Ww.J9oXtVOaRqNch7aE.xhJHPRlmSYx_Mqz4.e6qKKqC007gF2BZpG795Hg`
 
 **Which is then decoded to produce a header:**
-```
+``` erl
 {
   "alg": "RSA-OAEP",
   "enc": "A128GCM"
@@ -91,20 +90,21 @@ Vets-API will create a JWT which contains the requested user attributes. The ori
 And a payload, in this case the payload is `some-payload`
 
 Example Payload JSON:
-```
+``` json
 {
- "given_name": "abraham",
- "family_name": "lincoln",
+ "first_name": "abraham",
+ "last_name": "lincoln",
  "address": {
-   "street_address": "1600 Pennsylvania Ave",
-   "locality": "Washington",
-   "region": "DC",
-   "postal_code": "20500"
+   "street": "1600 Pennsylvania Ave",
+   "street2": "",
+   "City": "Washington",
+   "State": "DC",
+   "Country": "US",
+   "zip": "20500"
  },
  "phone": "(800) 867-5309",
  "dob": "1809-02-12",
- "ssn": "796111863",
- "inherited_proofing_auth": "646061c0a41cea527c6045780849103e"
+ "ssn": "796111863"
 }
 ```
 
@@ -112,7 +112,7 @@ Example Payload JSON:
 
 ## Login.gov Authorization
 *  Initial browser redirect from `vets-api` to login.gov is a standard OAuth Authorization, with an additional field, `inherited_proofing_auth`:
- ```
+ ``` erl
 https://idp.int.identitysandbox.gov/openid_connect/authorize?acr_values=
 http%3A%2F%2Fidmanagement.gov%2Fns%2Fassurance%2Fial%2F2&client_id=
 ${CLIENT_ID}&nonce=${NONCE}&prompt=select_account&redirect_uri=
@@ -147,7 +147,7 @@ ${AUTH_CODE}
 ### Request
 
 * API from login.gov to `vets-api`, `/inherited_proofing/user_attributes` with JWT  bearer token as authentication:
- ```
+ ``` bash
 curl -X GET https://staging-api.va.gov/inherited_proofing/user_attributes -H "Authorization: Bearer
 eyJhbGciOiJIUzI1NiJ9.eyJpbmhlcml0ZWRfcHJvb2ZpbmdfYXV0aCI6IjJiYzViZjViOTU1YTg4ZG
 Y2ZjNkZTNjNjJjODdmNmYyIn0.HziiPA5EzB_tWhmSizocDfd3E6GyCK4W-nugKwp6HXg"
@@ -203,7 +203,7 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 }
 ```
 
-## `inherited_proofing/user_attributes` Endpoint Parameters
+## Inherited_proofing User_attributes Endpoint Parameters
 
 | Name       | Description                             | Value Type                                              |
 |------------|-----------------------------------------|---------------------------------------------------------|
@@ -230,4 +230,44 @@ Response will be an encrypted json web token (JWE), in a simple JSON wrapper:
 	* `https://staging-api.va.gov/review_instance/inherited_proofing/callback`
 	* `https://dev-api.va.gov/inherited_proofing/callback`
 
-
+## Testing
+In order to mock the creation of the auth_code on vets-api you can pass the value `mocked-auth-code-for-testing` into the `inherited_proofing_auth` param of your signed JWT request to the `/inherited_proofing/user_attributes` endpoint.
+ - Example payload: `payload = { inherited_proofing_auth: 'mocked-auth-code-for-testing', exp: 1651943405 }`
+ - Encode the JWT: `JWT.encode(payload, private_key, 'RS256')`
+ - Call the `/inherited_proofing/user_attributes` endpoint with your JWT (signed by your private key) in the `Authorization: Bearer` header:
+``` bash
+curl -X GET https://dev-api.va.gov/inherited_proofing/user_attributes -H "Authorization: Bearer
+eyJhbGciOiJIUzI1NiJ9.eyJpbmhlcml0ZWRfcHJvb2ZpbmdfYXV0aCI6Im1vY2tlZC1hdXRoLWNvZGUtZm9yLXRlc3RpbmciLCJleHAiOjE2NTE5NDM0MDV9.
+smGHr2GLMdsCMO_msdh7A8fkuwzaGEtof0GNdoXfYJg"
+```
+ - You should then recieve a response:
+``` erl
+{"data":
+"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhHQ00ifQ.
+oc6gQIVsUJ36K9aLHN5AQrfNz6GtYpGmN7qhOnXi2rXOGr5ZJXbx36LERdfZhII78wZ-h3XdJOOQs8Eu91zI8Gdf76jCijSzJEEuDuyPzvFlKJ_
+BbEOGGbu4OF0XOKnhr73h5GALlMfXlS4vmQ2J1oI4Htac4Xf5BjK9eDOXrjSfpvgqg8CnVvMPQT37V4oVVzBUHxG_
+RQhJF8jtpigfs3hO8zmlFZdLGam9qKqzTqxOUegDkCUeSJpzv9kcBxebCPZ_X2D9MWaqkhADkQO1B9zzapE25Mh7aM59vaO9Y0_
+c6ETn3sj0k7Wz0n3kYzxhAJ6Ud9zqJH9VOnyePqXJnQ.4LmsSKWrqtqdBvrA.z0ev6yfUPXuMaAOX4TNVgYsmyODXmPa-
+sOeVMaGX84i37hncppAQcWUOGemH9N32FTTKjDCGJW-H_CJJ83T9lmsIRksROBHIb80C74gXLs98AAJEM_
+KQVnwOGdwFMokQxRxrXOFmVh8FjmyviEtU1XK1xXZ35VDX5w2ca2UZODzCiQRlbCOxpfcjkGrCan2AM4B4kSkJ2xkEHWU9H4tSBU5ZUxYxR5t_
+6IZMFPQDrVdg8_420qjtWeLcd2A7fERwdBIkB_w3-TbRUX5rX1jbt1z9-URgYgRFUF4YI7Lj-dM.wFNdzLWyxHYWvWLGjJgFSw"}
+```
+ - Decrypt the data object with the private key that is paired with the public key registered [here](https://idp.int.identitysandbox.gov/api/openid_connect/certs) as of 7Apr2022.
+ - The decrypted object should have the mocked user data:
+``` json
+{
+ "first_name": "Fakey",
+ "last_name": "Fakerson",
+ "address": {
+   "street": "123 Fake St",
+   "street2": "Apt 235",
+   "City": "Faketown",
+   "State": "WA",
+   "Country": "",
+   "zip": "98037"
+ },
+ "phone": "2063119187",
+ "dob": "2022-1-31",
+ "ssn": "123456789"
+}
+```
