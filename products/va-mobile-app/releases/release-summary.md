@@ -17,7 +17,7 @@ Bug Fixes
     - Fixed 'we sent you a letter'  to helper size text on the file request screen for a calim requesting evidence
     - Update the call to collapsible alert in order to fixed screen reader issue to read header
 
-<img width="1111" alt="Screen Shot 2022-04-08 at 5 05 48 PM" src="https://user-images.githubusercontent.com/90273080/162531015-7bb9296c-37b9-41b2-97d6-0eee18b544df.png">
+ZenHub Release Report: [1.18.0](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/reports/release?release=Z2lkOi8vcmFwdG9yL1JlbGVhc2UvNzQ1ODk&invite=true)
 
 
 ## Release: 3/29/22
