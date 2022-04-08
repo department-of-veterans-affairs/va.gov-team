@@ -2,12 +2,12 @@
 
 ## Contacts
 
-Peter Russo, Design Lead
-peter.russo@adhocteam.us
+**Peter Russo**, Design Lead<br>
+peter.russo@adhocteam.us<br>
 [@peter russo](https://dsva.slack.com/team/U01C2UUHXH9)
 
-Ciera Maddox, UX Designer
-ciera.maddox@adhocteam.us
+**Ciera Maddox**, UX Designer<br>
+ciera.maddox@adhocteam.us<br>
 [@ciera maddox](https://dsva.slack.com/team/U02JWT564E9)
 
 ## Starting points
