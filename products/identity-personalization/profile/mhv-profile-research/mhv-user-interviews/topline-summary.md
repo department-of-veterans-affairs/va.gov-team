@@ -2,7 +2,6 @@
 *Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
 
 Date: 4/11/2022
-
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/research-plan.md)
@@ -84,6 +83,31 @@ Upon initial review, the majority of participants focused on the level 2 heading
 ### MHV users are used to being able to change their password and manage account access via security questions.
 Almost all participants mentioned changing their password, updating security questions, or doing both.   This tells us they’ll likely expect to have some sort of agency over the security of their account, even after we stop supporting the MHV credential.  We may need to provide some additional information or onboarding about managing account security to help users transition to managing information on VA.gov.
 
+Participants expect to be able to update their mailing address in their profile; if they’re not able to, the majority would call VA to make that change.
+
+We asked participants where they would go to update their prescription shipping mailing address if they had moved; all participants expected to find a place to do this in their profile. Upon realizing the address field was not there, participants said they’d do it over the phone. Who they would call varied by participant:
+- VA help desk
+- Their VAMC pharmacy
+- The VA eligibility office
+
+### The participants who receive care at multiple facilities did not have a need to select or deselect facilities in their “My VA Treating Facilities” list.
+
+We did some [research in June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md) to explore the value of adding preferred facilites to the VA.gov profile. [Our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#findings-on-value) in that study shows the ability of simply selecting a preferred or current facility from a list of registered facilities was not a useful feature to Veterans. 
+
+In this round of research, we recruited participants who had been to multiple facilites in the last 18 months to validate those findings now that we’re planning for this transition.
+
+Of the participants that had more than one facility listed (about half), all stated they did not have problems with any online tools related to having to choose a facility.
+
+The ability to select or deselect a facility seemed non-valuable to some participants, at least based on what they could understand from the UI:
+
+> ”I don’t think a list of VA facilities is important, because I already don’t think they can communicate between themselves, and I am confident that I can walk into a facility anywhere in the world, and I can be treated.” - P10
+
+Some participants speculated how the ability to select a facility might be valuable to them, if they could search and save facilities for historical or travel purposes:
+
+> It’d be more helpful to see it at the clinic level. Maybe be able to click on each one and open up what I’ve done there and the records to sort my information based on what doctors you’ve seen. - P1
+
+> I am thinking maybe it needs a few more options to check. Perhaps a pull down list of the different VAs. In case, lets say, you are at a conference for a week and need the VA in Iowa City…I am from Georgia, and I am in Atlanta, I would want to go to the VA with no issues - P15
+
 ## Card sort findings
 
 ### There were some topics Veterans felt had overlap between healthcare and profile.
@@ -125,33 +149,5 @@ The table that follows shows the health-related cards, and the category with the
 
 The card sort doesn’t give us a straight answer about where *all* health-related profile information should live; it’ll need to be handled on a case by case basis.
 
-## Additional findings
-### Participants expect to be able to update their mailing address in their profile; if they’re not able to, the majority would call VA to make that change.
-
-We asked participants where they would go to update their prescription shipping mailing address if they had moved; all participants expected to find a place to do this in their profile. Upon realizing the address field was not there, participants said they’d do it over the phone. Who they would call varied by participant:
-- VA help desk
-- Their VAMC pharmacy
-- The VA eligibility office
-
-### The participants who receive care at multiple facilities have not experienced challenges related to being registered at multiple VAMCs.
-
-We did some [research in June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md) to explore the value of adding preferred facilites to the VA.gov profile. [Our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#findings-on-value) in that study shows the ability of simply selecting a preferred or current facility from a list of registered facilities was not a useful feature to Veterans. 
-
-In this round of research, we recruited participants who had been to multiple facilites in the last 18 months to validate those findings now that we’re planning for this transition.
-
-Of the participants that had more than one facility listed (about half): 
-- all used secure messaging
-- none used VAOS to schedule appointments (only cancel)
-- some used Rx refills. 
-- all stated they did not have problems with any online tools related to having to choose a facility.
-
-The ability to select or deselect a facility seemed non-valuable to some participants, at least based on what they could understand from the UI:
-
-> ”I don’t think a list of VA facilities is important, because I already don’t think they can communicate between themselves, and I am confident that I can walk into a facility anywhere in the world, and I can be treated.” - P10
-
-### Some participants shared how the ability to select a facility could be valuable to them, :
-> It’d be more helpful to see it at the clinic level. Maybe be able to click on each one and open up what I’ve done there and the records to sort my information based on what doctors you’ve seen. - P1
-
-> I am thinking maybe it needs a few more options to check. Perhaps a pull down list of the different VAs. In case, lets say, you are at a conference for a week and need the VA in Iowa City…I am from Georgia, and I am in Atlanta, I would want to go to the VA with no issues - P15
-
-Many participants in our previous study spoke to the value of being able to select and save facilities for travel purposes; this is something we should keep in mind as we consider how a facility-related feature could serve Veterans.
+## Next Steps
+We’ll produce a [recommendations document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/recommendations.md) outlining a proposed strategy for moving forward with the transition to a single Veteran profile on VA.gov.
