@@ -98,11 +98,11 @@ In this round of research, we recruited participants who had been to multiple fa
 
 Of the participants that had more than one facility listed (about half), all stated they did not have problems with any online tools related to having to choose a facility.
 
-The ability to select or deselect a facility seemed non-valuable to some participants, at least based on what they could understand from the UI:
+For some participants, the ability to select or deselect a facility did not seem to be valuable, at least based on what they could understand from the UI:
 
 > ”I don’t think a list of VA facilities is important, because I already don’t think they can communicate between themselves, and I am confident that I can walk into a facility anywhere in the world, and I can be treated.” - P10
 
-Some participants speculated how the ability to select a facility might be valuable to them, if they could search and save facilities for historical or travel purposes:
+Other participants speculated how the ability to select a facility might be valuable to them *if* they could search and save facilities for historical or travel purposes:
 
 > It’d be more helpful to see it at the clinic level. Maybe be able to click on each one and open up what I’ve done there and the records to sort my information based on what doctors you’ve seen. - P1
 
