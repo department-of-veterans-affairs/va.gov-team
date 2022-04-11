@@ -16,28 +16,12 @@ We will utilize feature toggles to manage a staged rollout.
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date range: _\[04/13/22 - 04/23/22\]_
+- How will you make the product available in production while limiting the number of users who can find/access it: \[_We will employ a phased rollout (utilizing percentage based feature flags - ie start with 10% of relevant users), to limit our initial audience._\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[_We will focus on delivery rates to show the emails are triggering correctly. Then click through rates to see if the users are getting back to the forms from these reminders. We will also look at open rates to get a guage on roughly how many users are opening these reminders._\]
+- Links to dashboard(s) showing "success criteria" metrics: _\[[Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fadd-remove-form-21-686c~2Fresume~2F) Delivery Rates are on our internal application]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
-### Stage A: Canary
-
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
-#### Planning
-
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ### Stage B: moderate
 
