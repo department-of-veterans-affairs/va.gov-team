@@ -55,7 +55,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage C: larger population
+### Stage C: very large population
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
@@ -79,7 +79,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Post-launch KPI 2: Users that clicked the link in the emails
 - Post-launch KPI 3: Open Rates
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/In%20Progress%20Go-no-Go.md]
+- Go / No Go: [(ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/In%20Progress%20Go-no-Go.md)
 
 ### 1-week results:
 - Number of unique users: x
