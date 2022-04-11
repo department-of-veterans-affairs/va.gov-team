@@ -1,7 +1,7 @@
 # My HealtheVet (MHV) Personal Information Discovery -  User Interviews, Topline Summary
 *Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
 
-Date: 4/8/2022
+Date: 4/11/2022
 
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
@@ -18,7 +18,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Note:** Since this study is one component of [a larger research effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#project-outline-myhealthevetvagov-profile-transition-research), we won’t produce a findings document specifically for this round of user research. Rather, the findings most relevant to [overall research goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#research-goals) will be incorporated into our final findings summary.
 
-## Initial Findings
+## Interview Findings
 
 ### The sections of MHV Personal Information users find most useful are: Download my data, In case of Emergency, Change password, and My VA.gov Profile.
 We started the session asking users to tell us about how they’ve used the personal information section.  6 of the 11 participants talked about using the following features. They were not the same 6 for each feature.
@@ -28,7 +28,7 @@ We started the session asking users to tell us about how they’ve used the pers
 
 Only 1 participant had a profile with only required fields filled out; the majority stated that while they don’t regularly visit the profile page, they had used it in the past to make updates. The most common reasons people had for visiting My VA.gov Profile were managing email notifications and changing their account security questions.
 
-### People expect that VA has access to all the information in their profile, and that updates made in their profile would be available to VA and have some kind of downstream effect.
+### People expect that VA has access to all the information in their profile, updates made in their profile would be available to VA and have some kind of downstream effect.
 
 A resounding theme across all the data points discussed with participants was that they expected that VA has access to the information they entered into MHV, especially in their profile.  Only one participant expressed doubts about the VA having access to their MHV personal information section; this came up most frequently when we asked who could see the emergency contact information.
 > The doctor, clergy, it’ll be a small group of people who can actually see it — my point of contact. It should be in my records. If I’m not conscious, and can’t say who I am. - P11
@@ -81,6 +81,11 @@ Upon initial review, the majority of participants focused on the level 2 heading
 
 > I would probably just bookmark in my browser. Don’t know that I’d save it here. - P7
 
+### MHV users are used to being able to change their password and manage account access via security questions.
+Almost all participants mentioned changing their password, updating security questions, or doing both.   This tells us they’ll likely expect to have some sort of agency over the security of their account, even after we stop supporting the MHV credential.  We may need to provide some additional information or onboarding about managing account security to help users transition to managing information on VA.gov.
+
+## Card sort findings
+
 ### There were some topics Veterans felt had overlap between healthcare and profile.
 We conducted a card sort after the interview portion of our session. The cards contained health care and profile items, and participants could sort them into 3 categories (as well as create their own). The categories were:
 - Your VA.gov Profile
@@ -95,9 +100,6 @@ The cards below had nearly equal or equal agreement between the “My health car
 We also want to call out that 5 of 11 participants placed “Notification settings for the MHV newsletter” into the health care category (the rest had low agreement between profile and participant created categories).  2 of 11 participants debated whether or not a list of VA facilities belonged in their profile or health care section.
 
 It may be helpful for Veterans to have content related to these categories cross-linked between the health apartment  and profile, or surfaced in multiple places.
-
-### MHV users are used to being able to change their password and manage account access via security questions.
-Almost all participants mentioned changing their password, updating security questions, or doing both.   This tells us they’ll likely expect to have some sort of agency over the security of their account, even after we stop supporting the MHV credential.  We may need to provide some additional information or onboarding about managing account security to help users transition to managing information on VA.gov.
 
 ### Participants expect to find some health related information in their profile.
 
@@ -147,7 +149,7 @@ The ability to select or deselect a facility seemed invaluable to some participa
 
 > ”I don’t think a list of VA facilities is important, because I already don’t think they can communicate between themselves, and I am confident that I can walk into a facility anywhere in the world, and I can be treated.” - P10
 
-### Some participants shared how the ability to select a facility could be valuable to them:
+### Some participants shared how the ability to select a facility could be valuable to them, :
 > It’d be more helpful to see it at the clinic level. Maybe be able to click on each one and open up what I’ve done there and the records to sort my information based on what doctors you’ve seen. - P1
 
 > I am thinking maybe it needs a few more options to check. Perhaps a pull down list of the different VAs. In case, lets say, you are at a conference for a week and need the VA in Iowa City…I am from Georgia, and I am in Atlanta, I would want to go to the VA with no issues - P15
