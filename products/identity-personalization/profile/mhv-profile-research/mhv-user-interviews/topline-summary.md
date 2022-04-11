@@ -2,6 +2,7 @@
 *Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
 
 Date: 4/11/2022
+
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/research-plan.md)
