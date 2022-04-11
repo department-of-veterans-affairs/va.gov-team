@@ -2,7 +2,6 @@
 *Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
 
 Date: 4/11/2022
-
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/research-plan.md)
@@ -145,7 +144,7 @@ Of the participants that had more than one facility listed (about half):
 - some used Rx refills. 
 - all stated they did not have problems with any online tools related to having to choose a facility.
 
-The ability to select or deselect a facility seemed invaluable to some participants, at least based on what they could understand from the UI:
+The ability to select or deselect a facility seemed non-valuable to some participants, at least based on what they could understand from the UI:
 
 > ”I don’t think a list of VA facilities is important, because I already don’t think they can communicate between themselves, and I am confident that I can walk into a facility anywhere in the world, and I can be treated.” - P10
 
