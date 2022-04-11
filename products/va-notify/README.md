@@ -122,7 +122,7 @@ If you have enabled website visitor tracking that includes referrer information 
 
 ## Upcoming Capabilities
  * Self Service Portal
- * VA Profile / VA.Gov Integrated Preferences
+ * Onsite Notifications
 
 
 ## See Who We Are Working With
