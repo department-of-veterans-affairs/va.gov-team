@@ -28,6 +28,15 @@
  
 </details>
 
+
+## Monday, April 11, 2022
+* This LH team is going to do Forms API.   Woot!
+* Pushing Vet Center CAP would need a new push endpoint or a new nightly sync from Lighthouse.  Post V1
+   * need to push lat lon.  Will be ready most likely by end of this sprint.  (admin only for moving pins)   
+   * default services? Not defined yet how to handle.  Awaiting feedback Jessica.
+* System Names  (official or plain)  Consumer investigation from Lighthouse may direct this decision. 
+* healtth connect phone number location in the payload.  (swirt and Adam to follow up offline, and Dave has thoughts on this too)
+
 ## Monday, April 4, 2022
 * general updates (servicelocations, healthserviceAPI, VA health connect, facility urls, Cerner)
 * LH close to a QA-like environment this week, timelines will be clearer after that
