@@ -2,16 +2,16 @@
 
 ---
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+## Phase I: Staged Rollout (also known as unmoderated production testing)
 
 We will utilize feature toggles to manage a staged rollout.
 
 | Phase | Population |  Timing |
 | --- | --- |---|
-| Phase 1 | 10% | 3 days
-| Phase 2 | 25% | 3 days
-| Phase 3 | 75% | 3 days
-| Final Phase | 100% | Complete Rollout |
+| Stage A | 10% | 3 days
+| Stage B | 25% | 3 days
+| Stage C | 75% | 3 days
+| Final Stage | 100% | Complete Rollout |
 
 
 ### Planning
@@ -23,14 +23,14 @@ We will utilize feature toggles to manage a staged rollout.
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
-### Stage B: moderate
+### Stage A: small population
 
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
+_Test the first population of users to make sure there are no issues exposed._
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+- Length of time: 3 Days
+- Percentage of Users (and roughly how many users do you expect this to be): 10% (35 users per day)
 
 #### Results:
 - Number of unique users: x
@@ -39,17 +39,47 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
+### Stage B: larger population
+
+_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
+
+#### Planning
+
+- Length of time: 3 Days
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (87 users per day)
+
+#### Results:
+- Number of unique users: x
+- Metrics at this stage (per your "success criteria"): x
+- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
+### Stage C: larger population
+
+_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
+
+#### Planning
+
+- Length of time: 3 Days
+- Percentage of Users (and roughly how many users do you expect this to be): 75% (262 users per day)
+
+#### Results:
+- Number of unique users: x
+- Metrics at this stage (per your "success criteria"): x
+- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- Desired date: 04/25/22
+- Post-launch KPI 1: Emails Delivered
+- Post-launch KPI 2: Users that clicked the link in the emails
+- Post-launch KPI 3: Open Rates
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/In%20Progress%20Go-no-Go.md]
 
 ### 1-week results:
 - Number of unique users: x
