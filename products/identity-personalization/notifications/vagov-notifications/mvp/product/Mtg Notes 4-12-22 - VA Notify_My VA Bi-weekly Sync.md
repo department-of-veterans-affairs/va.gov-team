@@ -17,4 +17,4 @@
           - **Response** Yes, let's have a separate sync for this
 
 ## Action Items
-- [ ] Melanie will coordinate a separate sync-up with VA Notify, Auth Exp - Profile and VA Profile teams to discuss _invalid (aka "bad") address notiifcation_
+- [ ] Melanie will coordinate a separate sync-up with VA Notify, Auth Exp - Profile and VA Profile teams to discuss _invalid (aka "bad") address notification_
