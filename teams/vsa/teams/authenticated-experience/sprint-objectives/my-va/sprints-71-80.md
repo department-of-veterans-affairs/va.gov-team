@@ -56,6 +56,27 @@
 
 ## Sprint 72 (4/20 - 5/3) [#39274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39274)
 
+### My VA: Payment history
+
+LAUNCH!!!
+
+**PM**
+
+- Monitor launch to 25%
+- Monitor launch to 50%
+- *For V2 updates*: Collab cycle kickoff
+- *For V2 updates*: Collab cycle design intent
+
+**FE**
+
+- Flip feature flag for launch to 25%
+- Flip feature flag for launch to 50%
+
+**Design**
+
+- *For V2 updates*: Collab cycle design intent
+- *For V2 updates*: Updates coming out of design intent
+
 ## Sprint 73 (5/4 - 5/17) [#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
 
 ## Sprint 74 (5/18 - 5/31)
