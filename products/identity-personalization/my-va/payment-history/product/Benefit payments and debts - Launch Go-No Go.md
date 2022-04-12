@@ -25,7 +25,7 @@
 **Samara/Heather**: are you ready to monitor analytics data for trends and problems?
 - Answer: 
 
-**Samara/Heather**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Payment%20Information%20-%20Release%20Plan.md) complete and ready to execute against?
+**Samara/Heather**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/product/release-plan.md) complete and ready to execute against?
 - Answer: 
 
 **Everyone**: does anyone have any concerns or reasons we should postpone a launch of notification settings to 25% of users?
