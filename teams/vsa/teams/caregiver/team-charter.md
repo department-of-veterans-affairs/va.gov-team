@@ -141,7 +141,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 
 ## Team Norms
-- We are iterate often and deliver frequently
+- We iterate often and deliver frequently
 - We are respectful, both online and off
 - We turn on cameras as often as possible at meetings / calls
 - We are flexible and intentional in the way we work
