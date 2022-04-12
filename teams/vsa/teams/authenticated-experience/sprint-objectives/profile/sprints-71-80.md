@@ -78,11 +78,11 @@ Anything outstanding from sprint 71, plus...
 
 - Submit call center guide for review
 
-**Design**
+**Design - Christina**
 
 - Create UAT Convo Guide #39866
 
-**FE**
+**FE - Adam**
 
 Moved these from sprint 71
 
@@ -102,11 +102,11 @@ Moved these from sprint 71
   - Talk to Tom/Marci about which test user to use. I think Tom worked with VA Profile already to get one set up.
 - Document Staging user info for flag #39380
 
-**Design**
+**Design - Christina**
 
 - Create high fidelity mockups
 
-**BE**
+**BE - Tom**
 
 Tom should finish all backend work for personal information revisions first. So, if there is still outstanding work from sprint 71 or other odds and ends that aren't on my radar, he should do that first before moving on to bad address indicator work.
 
@@ -120,12 +120,18 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ### MHV profile research
 
+**Design - Liz**
+
 - Share results with OCTO
 - Share results with MHV team/stakeholders
 
 ### Notification prefs
 
 - If we didn't finish the content/IA request from sprint 71, we need to finish that and get recommended content/IA back to VA Profile. Otherwise, nothing for this project this sprint.
+
+### General
+
+- Will likely need to find additional work for Mark
 
 ## Sprint 73 (5/4 - 5/17)
 
