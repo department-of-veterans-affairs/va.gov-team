@@ -72,6 +72,16 @@ Note: We can move this a sprint if Sharon needs to focus on general onboarding b
 
 ### Personal info revisions
 
+Anything outstanding from sprint 71, plus...
+
+**PM**
+
+- Submit call center guide for review
+
+**Design**
+
+- Create UAT Convo Guide #39866
+
 **FE**
 
 Moved these from sprint 71
@@ -79,10 +89,22 @@ Moved these from sprint 71
 - Add ability to Add/Update Preferred Name #38953
 - Add ability to Add/Update Gender Identity #38952
 
+**Everyone**
+
+- Once the feature is fully complete in staging, everyone on the project (Sharon, Christina, Adam, Tom) should go into staging and review the feature to make sure it's ready for QA. Note that this might need to get moved to the beginning of sprint 73 before QA.
+
 ### Bad address indicator
 
+**PM**
+
 - Start on QA use cases #39379
+  - This likely will not be completed this sprint
+  - Talk to Tom/Marci about which test user to use. I think Tom worked with VA Profile already to get one set up.
 - Document Staging user info for flag #39380
+
+**Design**
+
+- Create high fidelity mockups
 
 ## Sprint 73 (5/4 - 5/17)
 
