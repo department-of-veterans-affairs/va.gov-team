@@ -104,7 +104,7 @@ Some backend preliminary investigation has been done to see if decision letters 
 ### Outstanding tickets
 
 - Pending
-  - [ ] Reexamine eBenefits links ([#21207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21207))
+  - [ ] Reexamine eBenefits links ([#21207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21207)) - awaiting IA review
   - [ ] Label change from "submission date" to "discharge (RAD) date" ([#29078](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29078))
   - [ ] Improve unavailable status message ([#30030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30030))
   - [ ] Upload issue ([#34034](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34034))
@@ -200,6 +200,7 @@ This app has needed some maintenance since this team was started, mostly around 
 - Pending
   - [ ] Missing info ([#21066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21066))
   - [ ] Support request ([#36869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36869))
+  - [ ] Replace e-benefits links ([#39899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39899)) - awaiting IA & content review
 
 - Later work
   - [ ] Code cleanup (lots of eslint warnings to be addressed)
