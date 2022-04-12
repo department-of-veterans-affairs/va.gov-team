@@ -18,11 +18,11 @@ We will utilize feature toggles to manage a staged rollout.
 
 - Desired date range: _\[04/13/22 - 04/23/22\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: 
-- \[_We will employ a phased rollout (utilizing percentage based feature flags - ie start with 10% of relevant users), to limit our initial audience._\]
+\[_We will employ a phased rollout (utilizing percentage based feature flags - ie start with 10% of relevant users), to limit our initial audience._\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
-- \[_We will focus on delivery rates to show the emails are triggering correctly. Then click through rates to see if the users are getting back to the forms from these reminders. We will also look at open rates to get a guage on roughly how many users are opening these reminders._\]
+\[_We will focus on delivery rates to show the emails are triggering correctly. Then click through rates to see if the users are getting back to the forms from these reminders. We will also look at open rates to get a guage on roughly how many users are opening these reminders._\]
 - Links to dashboard(s) showing "success criteria" metrics: 
-- _\[[Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fadd-remove-form-21-686c~2Fresume~2F) Delivery Rates are on our internal application]_
+_\[[Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fadd-remove-form-21-686c~2Fresume~2F) Delivery Rates are on our internal application]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
