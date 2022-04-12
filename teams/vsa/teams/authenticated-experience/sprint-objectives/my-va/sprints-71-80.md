@@ -11,7 +11,7 @@
 - [Sprint 79](#sprint-79-727---89)
 - [Sprint 80](#sprint-80-810---823)
 
-## Sprint 71 (4/6 - 4/19) #37608
+## Sprint 71 (4/6 - 4/19) [#37608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37608)
 
 - If applicable: Add Columbus, OH to list of Cerner facilities #38551
 
@@ -54,9 +54,9 @@
 - Audit applications in progress #39052
 - If time, regroup with Samara/AJ (or Heather if she is still here) on existing states #39285
 
-## Sprint 72 (4/20 - 5/3)
+## Sprint 72 (4/20 - 5/3) [#39274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39274)
 
-## Sprint 73 (5/4 - 5/17)
+## Sprint 73 (5/4 - 5/17) [#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
 
 ## Sprint 74 (5/18 - 5/31)
 
