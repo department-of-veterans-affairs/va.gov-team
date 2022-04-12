@@ -89,6 +89,16 @@ TBD based on what VANotify is doing/needs from us.
 
 - Connect frontend to backend (if it didn't happen in sprint 71)
 
+### My VA: Audit
+
+**Design**
+
+- Review audit with team (to make sure nothing is missing
+- Start streamlining states for each section
+  - Start with nametag and payment info (since we are working on it anyway)
+  - Each section should always appear on the page
+  - Each section should have the following: loading state; blank state(s); content state(s); error state(s). Note: the nametag might be a little different, as there's never a totally blank state, and we don't show big error alerts for content we can't load.
+
 ## Sprint 73 (5/4 - 5/17)
 
 [#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
