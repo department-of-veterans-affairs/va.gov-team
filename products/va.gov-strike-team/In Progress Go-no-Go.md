@@ -1,4 +1,4 @@
-# `Product Name` Go / No Go 
+# In Progress Reminders: Go / No Go 
 ## `Date`
 
 ## Decision: `Continue launch / Pause / Pivot`
@@ -11,23 +11,23 @@ Platform: is monitoring and alerting configured and working as expected?
 Platform: is the Product Health Tool updated to track this product data and working as expected?
 - `yes/no - any notes`
 
-`Name of responsible team member`: are you ready to monitor analytics data for trends and problems?
+Megan Siddle: are you ready to monitor analytics data for trends and problems?
 - `yes/no - any notes`
 
-`Name of responsible team member`: are you ready to monitor performance data for latency, errors, etc?
+Nathan Wright: are you ready to monitor performance data for latency, errors, etc?
 - `yes/no - any notes`
 
-`Name of responsible team member`: are you confident we can handle the traffic?
+Nathan Wright: are you confident we can handle the traffic?
 - `yes/no - any notes`
 
-`Name of responsible team member`: is the release plan complete and ready to execute against?
+Nathan Wright: is the release plan complete and ready to execute against?
 - `yes/no - any notes`
 
-`Name of responsible team member`: did you see KPI metrics populating from UAT?
+Megan Siddle: did you see KPI metrics populating from UAT?
 - `yes/no - any notes`
 
-`Name of responsible team member`: are there any Sev1 bugs or accessibility issues outstanding?
+Nathan Wright: are there any Sev1 bugs or accessibility issues outstanding?
 - `yes/no - any notes`
 
-<!--`Name of responsible team member`: is call center ready to handle potential calls that may come in about preview.va.gov?
+<!--Megan Siddle: is call center ready to handle potential calls that may come in about preview.va.gov?
 - `yes/no - any notes`~-->
