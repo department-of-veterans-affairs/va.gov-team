@@ -119,7 +119,7 @@ Current metrics we're tracking:
 - Contact information comes from VA Profile.
 - Direct deposit for comp & pen information comes from EVSS.
 - Direct deposit for edu information comes from BGS.
-- Personal information comes from MPI.
+- Personal information comes from the Master Person Index (MPI).
 - Military information comes from eMIS.
 - Notification settings (communication permissions) come from VA Profile.
 
