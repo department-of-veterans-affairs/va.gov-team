@@ -77,6 +77,14 @@ LAUNCH!!!
 - *For V2 updates*: Collab cycle design intent
 - *For V2 updates*: Updates coming out of design intent
 
+### My VA: On-site notifications
+
+TBD based on what VANotify is doing/needs from us.
+
+**FE**
+
+- Connect frontend to backend (if it didn't happen in sprint 71)
+
 ## Sprint 73 (5/4 - 5/17) [#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
 
 ## Sprint 74 (5/18 - 5/31)
