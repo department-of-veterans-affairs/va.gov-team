@@ -2,6 +2,7 @@
 #### Attendees: AJ, Samara, Angela, Taylor, Tom, Melanie, Beverly, Elissa, Kyle, Jacob, Zack, Em, Adam, Liz
 
 ## Notes
+- **Hand-off** from Heather to returning PM, **AJ (Anastasia Jakabcin)**, to go forward with Authenticated Experience - My VA team!
 - **Check-in with VA Notify team on Onsite Notification development timeline**
      - Tech plan on VA Notify side, will be working on it in next few sprints, ready for integration by 5/15 - estimated.
 - **Clarification questions/items from Samara**
