@@ -15,7 +15,7 @@ We will utilize feature toggles to manage a staged rollout.
 
 ### Planning
 
-- Desired date range: _\[04/13/22 - 04/23/22\]_
+- Desired date range: _\[04/20/22 - 04/26/22\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_We will employ a phased rollout (utilizing percentage based feature flags - ie start with 10% of relevant users), to limit our initial audience._\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[_We will focus on delivery rates to show the emails are triggering correctly. Then click through rates to see if the users are getting back to the forms from these reminders. We will also look at open rates to get a guage on roughly how many users are opening these reminders._\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[[Google Analytics](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fadd-remove-form-21-686c~2Fresume~2F) Delivery Rates are on our internal application]_
@@ -28,8 +28,8 @@ _Test the first population of users to make sure there are no issues exposed._
 
 #### Planning
 
-- Length of time: 3 Days
-- Percentage of Users (and roughly how many users do you expect this to be): 10% (35 users per day)
+- Length of time: 2 Days
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (87 users per day)
 
 #### Results:
 - Number of unique users: x
@@ -44,8 +44,8 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Planning
 
-- Length of time: 3 Days
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (87 users per day)
+- Length of time: 2 Days
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (174 users per day)
 
 #### Results:
 - Number of unique users: x
@@ -57,7 +57,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 ## Go Live!
 
 ### Planning:
-- Desired date: 04/25/22
+- Desired date: 04/27/22
 - Post-launch KPI 1: Emails Delivered
 - Post-launch KPI 2: Users that clicked the link in the emails
 - Post-launch KPI 3: Open Rates
