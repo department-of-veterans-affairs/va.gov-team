@@ -88,6 +88,7 @@ VANotify to complete their work in the next two sprints
 **PM**
 
 - Determine QA plan (4/20 meeting)
+- Determine if there is any way to do UAT on this feature
 
 **FE**
 
@@ -97,7 +98,7 @@ VANotify to complete their work in the next two sprints
 
 **Design**
 
-- Review audit with team (to make sure nothing is missing
+- Review audit with team to make sure nothing is missing
 - Start streamlining states for each section
   - Start with nametag and payment info (since we are working on it anyway)
   - Each section should always appear on the page
