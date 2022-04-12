@@ -2,6 +2,7 @@
 
 - [ ] Make sure dev team has turned on feature for user
 - [ ] Review whether or not the participant roster states the participant has VA debt
+- [ ] Start a thread in #feedback-backchannel
 
 ## Intro - 2 minutes
 Thanks for joining us today! My name is Angela and I also have some colleagues on the line observing and taking notes. We're working on adding a new feature to help Veterans access their most recent payment and debt information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
