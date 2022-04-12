@@ -28,7 +28,7 @@ Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Participants to access their health information. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-Participants-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
 
 The goals of this study are to:
-- Determine if Participants understand the concept of MHV on VA.gov as their "health apartment" 
+- Determine if Participants understand the concept of MHV on VA.gov as a centralized place to access healthcare
 - Identify major usability or content issues with our current concept of replatforming MHV on VA.gov 
 
 
