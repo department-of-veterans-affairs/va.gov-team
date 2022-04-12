@@ -12,12 +12,13 @@
 
 ### Projected timelines for current projects & enhancements
 
-|Project|Q3 2021|Q4 2021|Q1 2022|Q2 2022|Q3 2022|
+|Project|Q3 2021|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022|
 |----|----|----|----|----|----|
-|**Add SIGI, preferred name & pronouns, and sexual orientation** | Planning | Discovery, design, FE build | Research, BE build, pre-launch | Launch | - | - | - | 
-|**Bad address indicator** | - | - | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |
-|**MHV Profile research**| - | - |Begin research | Finalize research & recommendations|-|
-|**Integrate military info through VA Profile**| - | - | - | Update integrations | Launch if not already done |
+|**Add SIGI, preferred name & pronouns, and sexual orientation** | Planning | Discovery, design, FE build | Research, BE build, pre-launch | Launch | - | - | - | - |
+|**Bad address indicator** | - | - | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
+|**MHV Profile research**| - | - |Begin research | Finalize research & recommendations|-|- |
+|**Integrate military info through VA Profile**| - | - | - | Update integrations | Launch if not already done |- |
+|**Persistently show direct deposit section instead of showing conditionally**| - | - | - | Design/Start build | Finish build; launch|- |
 
 ## Completed projects & enhancements
 
