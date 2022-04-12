@@ -8,9 +8,8 @@ We will utilize feature toggles to manage a staged rollout.
 
 | Phase | Population |  Timing |
 | --- | --- |---|
-| Stage A | 10% | 3 days
-| Stage B | 25% | 3 days
-| Stage C | 75% | 3 days
+| Stage A | 25% | 2 days
+| Stage B | 50% | 2 days
 | Final Stage | 100% | Complete Rollout |
 
 
@@ -47,22 +46,6 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 - Length of time: 3 Days
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (87 users per day)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-### Stage C: very large population
-
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
-#### Planning
-
-- Length of time: 3 Days
-- Percentage of Users (and roughly how many users do you expect this to be): 75% (262 users per day)
 
 #### Results:
 - Number of unique users: x
