@@ -83,7 +83,7 @@ LAUNCH!!!
 
 ### My VA: On-site notifications
 
-VANotiffy to complete their work in the next two sprints
+VANotify to complete their work in the next two sprints
 
 **PM**
 
