@@ -19,3 +19,4 @@
 
 ## Action Items
 - [ ] Melanie will coordinate a separate sync-up with VA Notify, Auth Exp - Profile and VA Profile teams to discuss _invalid (aka "bad") address notification_
+- [ ] Meeting scheduled for 4/20 with Debt resolution team to discuss QA Strategy
