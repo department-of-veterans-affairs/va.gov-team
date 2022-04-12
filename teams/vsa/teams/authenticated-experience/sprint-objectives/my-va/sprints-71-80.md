@@ -83,7 +83,11 @@ LAUNCH!!!
 
 ### My VA: On-site notifications
 
-TBD based on what VANotify is doing/needs from us.
+VANotiffy to complete their work in the next two sprints
+
+**PM**
+
+- Determine QA plan (4/20 meeting)
 
 **FE**
 
