@@ -127,7 +127,12 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ### Notification prefs
 
-- If we didn't finish the content/IA request from sprint 71, we need to finish that and get recommended content/IA back to VA Profile. Otherwise, nothing for this project this sprint.
+**FE - Mark**
+
+- Review how this feature was built so we make sure we understand the frontend implementation
+  -  Need to determine if Samara's understanding is correct, and if VA Profile is sending us the groups (eg "Your health care"), items (eg. Appointment reminders), and channels (eg. text) or if some of this is hard coded on our end.
+  -  Note: You'll see that we've added some code to show the health care section conditionally, but the other section is not gate by any conditional logic.
+  -  Ultimately, our goal is to make sure we know what we need to do as new notification preferences are added.
 
 ### General
 
