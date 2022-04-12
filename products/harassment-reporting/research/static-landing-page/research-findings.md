@@ -120,7 +120,7 @@ All 14 participants provided feedback on the landing page.
 
     > *"Hurry up and do it in the heat of the moment before you decide not to...VA complicates things" (p13).*
 
-    > *"Would discourage me from making a call" because it might be closed by the time I get home from my appointment" (p11).*
+    > *"Would discourage me from making a call because it might be closed by the time I get home from my appointment" (p11).*
 
 5. **Expected to be able to report online.** Four participants expected a link on the landing page to report online and were disappointed when they couldn't find one. They wanted to be able to write out what happened in private instead of having to talk to someone, and also not get stuck on hold on the phone. One participant said that they would text VCL if they didn't want to talk to someone.
     > *"Sometimes you're on hold forever...I don't want to call the VA again...also if you're not comfortable talking about it" (p8).*
