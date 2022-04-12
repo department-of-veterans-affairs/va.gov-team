@@ -12,7 +12,7 @@
           - Already reaching out to Tom to work through this and connectivity testing
           - Pretty straightforward!
 
-- **From VA Notify**
+- **Question from VA Notify**
      - Invalid address notification - do we need a separate time to talk about this?  VA Profile trying to do a similar thing, would like to sync
           - **Response** Yes, let's have a separate sync for this
 
