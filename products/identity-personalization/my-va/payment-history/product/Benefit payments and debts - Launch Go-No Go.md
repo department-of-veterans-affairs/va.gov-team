@@ -4,7 +4,7 @@
 
 ---
 
-**Lihan**: Is monitoring and alerting configured and working as expected via Slack channel for payment history and debt alerts?
+**Tom**: Is monitoring and alerting configured and working as expected via Slack channel for payment history and debt alerts?
 - Answer: 
 
 **Taylor**: are there any Sev1 bugs or accessibility issues outstanding?
