@@ -106,6 +106,27 @@ Moved these from sprint 71
 
 - Create high fidelity mockups
 
+**BE**
+
+Tom should finish all backend work for personal information revisions first. So, if there is still outstanding work from sprint 71 or other odds and ends that aren't on my radar, he should do that first before moving on to bad address indicator work.
+
+- Work on bad address indicator emails
+  - Initial email blast that will go out to everyone with the BAI once the functionality launches
+  - Individual emails that will go out to folks if a new BAI is added to their accounts *after* we launch the feature
+
+### Address change messaging
+
+- Is this work finished?
+
+### MHV profile research
+
+- Share results with OCTO
+- Share results with MHV team/stakeholders
+
+### Notification prefs
+
+- If we didn't finish the content/IA request from sprint 71, we need to finish that and get recommended content/IA back to VA Profile. Otherwise, nothing for this project this sprint.
+
 ## Sprint 73 (5/4 - 5/17)
 
 ## Sprint 74 (5/18 - 5/31)
