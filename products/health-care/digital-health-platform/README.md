@@ -10,14 +10,19 @@ The Digital Health Platform (DHP) enables Veterans to connect and share their pa
 Problem Statement
 -----------------
 
-Veterans are generating patient-generated health data today through the use of devices such as Fitbits and continuous glucose monitors. Care teams do not have consistent access to this data today and Veterans do not have a consistent way to share the data. Currently, it is shared through conversations, email, or by viewing data on a Veteran's device.
+Veterans are generating patient-generated health data today through the use of devices such as Fitbits and continuous glucose monitors. Care teams do not have consistent access to this data today and Veterans do not have a consistent way to share the data. Currently, it is shared through conversations, email, or by viewing data on a Veteran's device. With digital technology use on the rise, there are new opportunities to integrate insights from connected health technologies to drive a learning health system at Veterans Affairs (VA).
+
+Existing technical, operational, and policy constraints make it challenging to evaluate the value of digital health solutions prior to integration into operations and hinders VA innovators from collaborating with industry partners to lead quality improvement, research, and other innovation efforts.
+
+An extensible framework for early-stage testing and evaluation for digital health is needed.
 
 Desired User Outcomes
 ---------------------
 
 -   Veterans have an intuitive, central location to connect their digital health devices and accounts to share data with VA.
-
 -   Veterans can self-serve the connection of their PGD accounts to VA.
+-   Clinicians are able to view Veteran PGD, combined with VA data, in an intuitive dashboard
+-   Clinicians and data explorers can access PGD, and VA data, in a central location for data analytics and evaluating the value of the data
 
 Desired Business Outcomes
 -------------------------
@@ -81,11 +86,10 @@ Kim Roberts, Michael Chaffee, Travis McKinstry, Yoni Doron-Peters, Todd StanichÂ
 Kimberly McManus, Arash Harzand, Blake Henderson
 
 #### GitHub/ZenHub/Teams/Jira
-GitHub label = 
-ZenHub board - [link to this if/when you have one]
-Link to Teams folder if applicable: 
+GitHub label = https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform
+Link to Teams folder if applicable: https://teams.microsoft.com/l/team/19%3apBPuU6y6bX06LRhBKrJzImm8XBFuHOsfpUKzWtFhIVU1%40thread.tacv2/conversations?groupId=93a7bb6d-ecf0-4195-a188-03a1484d0f25&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf
 Link to Jira if applicable: 
-List & link to the slack channels you use
+List & link to the slack channels you use: #digital-health-platform-public, #digital-health-platform-team 
 
 #### Product Documentation
 - Link to Roadmap
