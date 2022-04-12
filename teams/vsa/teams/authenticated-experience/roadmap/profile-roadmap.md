@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Updated March 18, 2022**
+**Updated April 12, 2022**
 
 ## Current projects & enhancements
 
@@ -8,7 +8,7 @@
 |----|----|
 |[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | BE build |
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Design |
-|[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|User research|
+|[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Final write-up|
 
 ### Projected timelines for current projects & enhancements
 
