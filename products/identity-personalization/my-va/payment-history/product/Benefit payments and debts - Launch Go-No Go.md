@@ -1,4 +1,4 @@
-# Benefit Payments and Debts: Launch Go / No Go | Date TBD
+# Benefit Payments and Debts: Launch Go / No Go | Date 4/19/22
 
 ## Decision: 
 
