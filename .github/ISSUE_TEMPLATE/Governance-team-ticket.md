@@ -17,24 +17,24 @@ _"As a (persona), I (want to), (so that)."_
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
-Additional background for [Launch new Platform Orientation](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/13709) initiative <br />
+
 Additional background for [Collaboration Cycle - Improve tracking and status visibility of VA.gov products](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/34697) initiative <br />
 Additional background for [Collaboration Cycle - Transition VFS research activities to Platform](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/32698) initiative
 
 ## New Artifacts 
 
-## Artifacts Potentially / Confirmed Needing Updates
+## Artifacts Needing Updates
 
 ## Tasks
 - [ ] _Placeholder task_
 
 ## Acceptance Criteria
-- [ ] "Insert Page Name" Confluence document has been updated per guidance
-- [ ] "Insert Page Name" Confluence document has been created per guidance
-- [ ] "Insert GitHub template" GitHub template has been created per guidance
-- [ ] "Insert GitHub template" GitHub template has been updated per guidance
-- [ ] "Insert Platform Website Page" on Platform Website has been updated per guidance
-- [ ] "Insert Platform Website Page" on Platform Website has been created per guidance
+- [ ] Confluence: _Page Name_ has been updated
+- [ ] Confluence: _Page Name_ has been created
+- [ ] GitHub Template: _Page Name_ has been created
+- [ ] GitHub Template: _Page Name_ has been updated
+- [ ] Platform Website: _Page Name_ has been updated
+- [ ] Platform Website: _Page Name_ has been created
 - [ ] Updates have been Peer Reviewed by Governance Team member
 - [ ] User Story need has been fulfilled
 
