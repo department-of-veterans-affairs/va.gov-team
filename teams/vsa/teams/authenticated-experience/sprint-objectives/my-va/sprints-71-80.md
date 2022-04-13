@@ -94,6 +94,10 @@ VANotify to complete their work in the next two sprints
 
 - Connect frontend to backend (if it didn't happen in sprint 71)
 
+### My VA: Cerner
+
+- Add Columbus to list of facilities that see Cerner alert. #38551
+
 ### My VA: Audit
 
 **Design**
