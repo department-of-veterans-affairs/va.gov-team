@@ -17,6 +17,7 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); 
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
+- [Backend](#backend)
 - [Error Handling](#error-handling)
 - [Design](#design)
 
@@ -66,6 +67,10 @@ As a user, I want to be able to:
 ## How to Access and Test
 
 [See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+
+## Backend
+
+Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
 ## Error Handling
 
