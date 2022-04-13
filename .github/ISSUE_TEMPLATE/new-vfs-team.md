@@ -2,7 +2,7 @@
 name: New VFS Team
 about: For orienting new VFS teams to Platform policies/practices
 title: New VFS Team [Insert team name here]
-labels: governance-team
+labels: governance-team, analytics-insights
 assignees: ''
 
 ---
