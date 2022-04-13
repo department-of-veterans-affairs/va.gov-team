@@ -76,10 +76,10 @@ Generally, we do not recommend moving things that don’t link back to a VA data
 - Users weren’t clear about it’s purpose, despite it being directly under a heading reading “Welcome bar personalization”.  Many understood it to become a part of their health record so their doctor would know if they had any nicknames.
 - **Recommendation:** We shouldn't migrate this field to the VA.gov profile. Our name tag serves the same purpose as the welcome bar on MHV, and preferred name will give users the functionality to let their doctor know how they’d like to be addressed.
 
-##### Blood type
-- We heard from stakeholders that they feel this should not be an editable field.
-- We heard from users that they expect this to be part of their medical record, and not something they need to update in their profile.
-- **Recommendation:** Don’t move this over as an editable field in the VA.gov profile. Have further discussions with health modernization team regarding how to handle health-related profile items (see below).
+##### Blood type and organ donor
+- We heard from stakeholders that they feel these should not be editable fields in a VA.gov profile.
+- We heard from users that they expect this information to be part of their medical record, and not something they need to update in their profile.
+- **Recommendation:** Don’t move these as editable fields to the VA.gov profile. Have further discussions with health modernization team regarding how to handle health-related profile items (see below).
 
 ##### Preferred method of contact
 - Since the VA is not set up to honor these preferences for all communications, it isn’t helpful for users to be able to update this setting. 
@@ -118,18 +118,37 @@ Generally, we do not recommend moving things that don’t link back to a VA data
 
 ## Additional points to think about
 ### Self-journaling features are confusing for users.
-### We should collaborate with the health apartment team to determine where it makes the most sense to put health-related profile items.
-- Blood type
-- In case of emergency contact
-- 
-### We need further discussions on managing shipping addresses for prescriptions.
-	- Lots of complexity and conditional logic depending on whether or not a person has a PO Box.
-	- Currently, there is a temporary address in a back-end system.
-	- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it.
-### Determine the timing of retiring the MHV profile.
-### Have discussions with MHV team around X Y Z
-	- Will review notes from meeting with Carnetta.
+Users we interviewed were confused about self-journaling features and expected they had some kind of downstream effect at VA. 10 of 11 users expected the VA had access to the information they entered. 
 
+This is an important point to keep in mind as VA.gov and MHV partner during this migration.
+
+### We should collaborate with the health apartment team to determine where it makes the most sense to put health-related profile items.
+
+Our card sort revealed that it will likely be helpful to Veterans to reference health-related profile items in both the VA.gov profile and their health portal.  We’ll need to collaborate on a strategy of where makes the most sense for these data points to be managed vs linked.
+
+Below are the results from our card sort showing which category made sense to the majority of our 11 participants. In some cases, it was a slim majority.
+
+| Card | Category |
+|---|---|
+| Emergency contacts | My VA.gov Profile |
+| Next of kin | My VA.gov Profile |
+| Notification settings for prescription shipping updates | My VA.gov Profile |
+| Notification settings for the MHV newsletter | My Health Care |
+| Printable wallet health information card | My VA.gov Profile |
+| The ability to connect your health tracking device (like a FitBit) | My Health Care |
+| Your blood type | My Health Care |
+| Your caregivers | My Health Care |
+| Your non-VA health insurance information | My VA.gov Profile |
+| Your power of attorney | My VA.gov Profile |
+| Your providers and doctors (self-entered) | My VA.gov Profile |
+
+### We need further discussions on managing shipping addresses for prescriptions.
+	- We’ve learned there is a significant amount of complexity and conditional logic depending on whether or not a person has a PO Box.
+	- Currently, there is a temporary address in a back-end system.
+	- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it. 
+### Determine the timing of retiring the MHV profile.
+- We know new users will not be able to get a MHV credential starting in September 2022.
+- We need to learn more about the MHV team’s plans for retiring the profile.
 
 ## Appendix
 - [Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research)
