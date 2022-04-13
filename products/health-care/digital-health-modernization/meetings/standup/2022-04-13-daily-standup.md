@@ -12,7 +12,7 @@
 	- Will review the research read-out prior to next Monday 
 - Marci
 	- Reviewing documentation, historic docs
-	- Putting together a doc that Tracey will be using to shop around to the stakeholders
+	- Putting together an elevator pitch-type doc to explain what we are trying to do
 	
 - Megan
 	- Started working on Round 2 documentation
