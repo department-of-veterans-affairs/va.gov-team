@@ -17,7 +17,13 @@ Read [the questions we sought to answer](https://github.com/department-of-vetera
 
 
 ## Recommendations
-*Question: do we need to address the fact that there are other sections of personal information that are coming over, but will go to the health apartment and not managed by our team? E.g. Pay or Receive funds content, download my data, etc.*
+The following recommendations are focused on 4 sections of the My HealtheVet personal information section:
+1. My Profile
+2. In case of emergency
+3. Health information card
+4. My links
+
+The remaining sections are being migrated by the health modernization team; we focused our research on profile and other sections our teams had questions about.
 
 ### Maintain important items that are already consistent between the two profiles.
 
@@ -43,67 +49,86 @@ MHV currently has settings to manage email notifications for Rx Refill shipments
 
 We’ll need to revisit our design for VA.gov profile notification items, since it currently only handles single channel notifications.
 
-****
-
 ### Retire certain items with MHV.
 Generally, we do not recommend moving things that don’t link back to a VA database.  This includes self-entered data points such as blood type, My Links, and the MHV In Case of Emergency information.
 
-#### Social security number
+#### My Profile section
+##### Social security number
 - This is already slated for removal from the MHV profile in September 2022.
 - **Recommendation:** Follow MHV’s lead and don’t bring this over to the VA.gov profile.
 
-#### Gender
+##### Gender
 - We know from[previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/findings-summary.md#2-participants-who-identify-as-other-than-straight-or-cisgender-found-the-sex-assigned-at-birth-and-sexual-orientation-fields-triggering) that this data point is triggering for some Veterans, particularly because it can’t be changed online. 
 - **Recommendation:** Stick with our decision to keep this out of the VA.gov profile.
 
-#### Martial status and current occupation
+##### Martial status and current occupation
 - The MHV data for these fields does not impact any VA benefits for users.
 - The majority of users we spoke with did not name these as fields that are important to them to update.
 - **Recommendation:** Don’t bring these fields over to the VA.gov profile.
 
-#### What is your relationship to VA? 
+##### What is your relationship to VA? 
 - We heard from stakeholders that this field is valuable for internal VA purposes, but they weren’t aware of a value for end users.
 - End users were confused about the purpose of this field in their profile, and it wasn’t important to them to be able to update it since it doesn’t change.
 - **Recommendation:** We shouldn't migrate this field to the VA.gov profile.
 
-#### How would you like to be addressed?
+##### How would you like to be addressed?
 - We heard from stakeholders that users love this field.
 - Users weren’t clear about it’s purpose, despite it being directly under a heading reading “Welcome bar personalization”.  Many understood it to become a part of their health record so their doctor would know if they had any nicknames.
 - **Recommendation:** We shouldn't migrate this field to the VA.gov profile. Our name tag serves the same purpose as the welcome bar on MHV, and preferred name will give users the functionality to let their doctor know how they’d like to be addressed.
 
-#### Blood type
+##### Blood type
 - We heard from stakeholders that they feel this should not be an editable field.
 - We heard from users that they expect this to be part of their medical record, and not something they need to update in their profile.
 - **Recommendation:** Don’t move this over as an editable field in the VA.gov profile. Have further discussions with health modernization team regarding how to handle health-related profile items (see below).
 
-#### Preferred method of contact
+##### Preferred method of contact
 - Since the VA is not set up to honor these preferences for all communications, it isn’t helpful for users to be able to update this setting. 
 - **Recommendation:**  We shouldn't migrate this field to the VA.gov profile.
 
-#### Fax and pager
+##### Fax and pager
 - Stakeholders acknowledged that these were outdated methods of contact, and stated they were already planning to follow VA.gov profile and remove fax number.
 - Multiple users commented that these fields were outdated in our interviews.
 - **Recommendation:** We shouldn’t migrate these fields to the VA.gov profile.
 
-#### My VA Treating facilities 
-- We heard from stakeholders that this field is valuable for internal VA purposes, but they weren’t aware of a value for end users.
-- End users were confused about the purpose of this field in their profile, and it wasn’t important to them to be able to update it since it doesn’t change.
+##### My VA Treating facilities 
+- We heard from stakeholders that this field is used by help desk staff to assist VA patients, but help desk staff stated they didn’t use this information to support patients.
+- Stakeholders also stated that this field was intended to support functionality that was never completed.
+- End users were confused about the purpose of this field in their profile, and it wasn’t important to them to be able to update it, even if they actively receive care at multiple VA facilities listed in their profile.
 - **Recommendation:** We shouldn't migrate this field to the VA.gov profile.
-****
 
+##### Account security questions and answers
+- Stakeholders shared that the MHV credential will be retired and users will have to log in with ID.me or Login.gov in the near future.
+- Users shared they had used this field in the past to manage their account, and talked about the importance of being able to keep their account secure.
+- **Recommendation**: We shouldn’t migrate these fields to the VA.gov profile since it’ll be irrelevant once the MHV credential is retired. However, we need to consider users that are accustomed to managing their account security in their profile and be sure it’s clear to them that is no longer necessary.
 
+#### In case of emergency section
+- We heard from stakeholders that the data in this field is strictly used to inform the printable health information wallet card, and isn’t accessible by VA staff in an emergency situation.
+- We heard from users that it’s helpful to be able to manage this information because they expect it’s part of their health record and accessible by VA staff.
+- **Recommendation:** We shouldn’t bring this over to the VA.gov profile in its current state. It’s worth adding this item to the list of  health-related profile items to discuss with the health modernization team.
+
+#### Health information card
+- Stakeholders shared that this feature was popular when MHV first launched, but that it’s functionality was never fully completed (only the address can be edited).
+- 10 out of 11 users we spoke to had never used this card given that most things are digital today. They also didn’t expect that someone would search their wallet looking for this card if they were incapacitated. Some also saw it as duplicative of the card they use to check in for appointments.
+- **Recommendation:** We shouldn’t bring this over to the VA.gov profile.
+
+#### My links
+- We heard from stakeholders that this section is a remnant of an earlier era of digital tools, and is likely no longer useful.
+- Users agreed; no users we spoke to had ever used this, and many found it confusing.
+- **Recommendation:** We shouldn’t bring this over to the VA.gov profile. 
 
 ## Additional points to think about
 ### Self-journaling features are confusing for users.
 ### We should collaborate with the health apartment team to determine where it makes the most sense to put health-related profile items.
 - Blood type
+- In case of emergency contact
+- 
 ### We need further discussions on managing shipping addresses for prescriptions.
-- Lots of complexity and conditional logic depending on whether or not a person has a PO Box.
-- Currently, there is a temporary address in a back-end system.
-- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it.
+	- Lots of complexity and conditional logic depending on whether or not a person has a PO Box.
+	- Currently, there is a temporary address in a back-end system.
+	- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it.
 ### Determine the timing of retiring the MHV profile.
 ### Have discussions with MHV team around X Y Z
-- Will review notes from meeting with Carnetta.
+	- Will review notes from meeting with Carnetta.
 
 
 ## Appendix
