@@ -32,7 +32,6 @@ Currently, we show:
 - Preferred name (editable -- launching June 2022)
 - Gender identity (editable -- launching June 2022)
 
-
 ## Projects
 
 - [Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
@@ -41,10 +40,9 @@ Currently, we show:
 
 Personal information integrates through two different services:
 
-- Full name and date of birth come from MPI.
-- Preferred name and gender identity come from VA Profile.
+- Full name and date of birth come from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
+- Preferred name and gender identity come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
 ## Design 
 
 - [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
-
