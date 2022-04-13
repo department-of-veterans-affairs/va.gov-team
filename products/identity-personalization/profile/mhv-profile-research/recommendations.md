@@ -1,6 +1,5 @@
 # MyHealtheVet to VA.gov profile transition recommendations
 ## Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience
-
 Date: `draft`
 
 Liz Lantz, liz.lantz@adhocteam.us
@@ -20,14 +19,32 @@ Read [the questions we sought to answer](https://github.com/department-of-vetera
 ## Recommendations
 ### Maintain important items that are already consistent between the two profiles.
 
+The following data points exist in both the MHV and VA.gov profiles. We recommend keeping these in the VA.gov profile. Some are editable on MHV (indicated below) and will no longer be editable on VA.gov
+|Field|Editable on MHV?|
+|----|----|
+|First name| no |
+|Last name | no|
+|Suffix|no|
+
 ### Move certain items from MHV to the VA.gov profile.
 
 ### Retire certain items with MHV.
+Generally, we do not recommend moving things that don’t link back to a VA database.  This includes self-entered data points such as blood type, My Links, and the MHV In Case of Emergency information.
+
+- What is the item or section?
+		- What we heard from stakeholders
+		- What we heard from users
+		- Recommendation
 
 ## Additional points to think about
-
-
-
+### Self-journaling features are confusing for users.
+### We need further discussions on managing shipping addresses for prescriptions.
+	- Lots of complexity and conditional logic depending on whether or not a person has a PO Box.
+	- Currently, there is a temporary address in a back-end system.
+	- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it.
+### Determine the timing of retiring the MHV profile.
+### Have discussions with MHV team around X Y Z
+	- Will review notes from meeting with Carnetta.
 
 
 ## Appendix
