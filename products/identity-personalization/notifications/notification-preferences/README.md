@@ -34,7 +34,7 @@ Last Updated April 13, 2022
 - [MVP Approach](#mvp-approach)
 - [Status](#status)
 - [Product Decisions](#product-decisions)
-- How to access and test ()
+- [How to access and test](#how-to-access-and-test)
 - [Backend](#backend)
 - [Screenshots](#screenshots)
 
