@@ -32,12 +32,15 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: George Chewning
-- DEPO Engineering Lead: Mike Chelen
-- Team Product Manager: Sharon Kasimow
+- DEPO Product Lead: Lauren Alexanderson
+- DEPO Engineering Lead: TBD
+- Team Product Manager: Heather Justice
+- Team Associate Product Manager: Mark Fallows
 - UX/Research: Dené Gabaldón
+- UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
-- Back-End Engineering: James Childers
+- Front-end Enginerring: Matt Long
+- Back-End Engineering: Lihan Li
 
 ---
 
@@ -59,7 +62,7 @@ Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Monday of every sprint week @ 3pm ET
 - 1 hour
-- We'll use labels for each sprint to commit to what's in each sprint
+- We'll use the sprint field to indicate we have committed to what's in each sprint
 
 
 #### Retro
@@ -88,9 +91,13 @@ Anyone on the team can create a user story. All are responsible for keeping them
     - All components/steps have been accounted for in the epic
     - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
+- Naming convention for tickets/stories/tasks - Thoughts?
+    - [area of work] Epic/Initiative: Brief title of work to be done
+    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
+
 - For a task to go into the **"Icebox"** column, it must have the following:
    - Title that explains the goal
-   - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
+   - Labels: _vsa-10-10_ and what category it falls into (backend, front-end, research, design, product)
 
 - For a task to go into the **"Backlog"** column, it must have the following:
    - Title that explains the goal in plain language
@@ -98,6 +105,7 @@ Anyone on the team can create a user story. All are responsible for keeping them
    - Includes (as needed) background, goal and acceptance criteria   
 
 - For a task to go into the **"Ready"** column, it must have the following:
+   - Be groomed by the team
    - Estimate
    - Sense of priority (relative to other tickets)
    
