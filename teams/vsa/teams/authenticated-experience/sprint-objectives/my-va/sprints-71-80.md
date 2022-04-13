@@ -60,7 +60,7 @@
 
 [#39274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39274)
 
-### My VA: Payment history
+### Payment history
 
 LAUNCH!!!
 
@@ -81,7 +81,7 @@ LAUNCH!!!
 - *For V2 updates*: Collab cycle design intent
 - *For V2 updates*: Updates coming out of design intent
 
-### My VA: On-site notifications
+### On-site notifications
 
 VANotify to complete their work in the next two sprints
 
@@ -94,11 +94,19 @@ VANotify to complete their work in the next two sprints
 
 - Connect frontend to backend (if it didn't happen in sprint 71)
 
-### My VA: Cerner
+### My VA health care seciton: Cerner launch
 
 - Add Columbus to list of facilities that see Cerner alert. #38551
 
-### My VA: Audit
+### My VA health care section: Update "Next Appointment" connection
+
+**FE**
+
+We need to scope this out first, but assuming we have what we need...
+
+- Update "Next Appointment" so it connects to the latest version of VAOS
+
+### My VA audit
 
 **Design**
 
