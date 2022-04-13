@@ -1,7 +1,7 @@
 # Caregivers
 
 ### Description of Current Work
-Create a online experience for Caregivers and Veterans to apply for, track, and manage health care applications.
+Create a online experience for Caregivers to apply for, track, and manage benefits.
 
 ### Slack Channels
 - [#vsa-1010](https://dsva.slack.com/channels/vsa-caregiver) (Collabortion with other VSA teams)
