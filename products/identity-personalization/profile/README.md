@@ -122,6 +122,7 @@ Current metrics we're tracking:
 - Personal information comes from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
 - Military information comes from the [Enterprise Military Information Service (eMIS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html).
 - Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+- Confirmation emails for when people update contact information and direct deposit information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
 
 ## Design 
 
