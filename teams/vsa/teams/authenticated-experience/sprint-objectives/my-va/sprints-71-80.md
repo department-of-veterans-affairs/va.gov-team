@@ -75,6 +75,7 @@ LAUNCH!!!
 
 - Flip feature flag for launch to 25%
 - Flip feature flag for launch to 50%
+- Don't show an error message if people have no payment history at the VA [Slack convo](https://dsva.slack.com/archives/C909ZG2BB/p1649873367021449)
 
 **Design**
 
