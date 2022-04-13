@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-Last Updated: March 25, 2022
+Last Updated: April 13, 2022
 
 ### Communications
 
