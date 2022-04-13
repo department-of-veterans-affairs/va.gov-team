@@ -1,23 +1,23 @@
 # Caregivers
 
 ### Description of Current Work
-Create a online experience for Caregivers to apply for, track, and manage benefits.
+Create a online experience for Caregivers and Veterans to apply for, track, and manage health care applications.
 
 ### Slack Channels
-- [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver) (Collabortion with other VSA teams)
+- [#vsa-1010](https://dsva.slack.com/channels/vsa-caregiver) (Collabortion with other VSA teams)
 
 
 ### Github Labels
-- `#vsa-caregiver`
+- `#vsa-10-10`
 
 
 ### Points of Contact 
 
 - OCTO-DE Product: Lauren Alexanderson 
-- Product Management:  Chris Dyer
-- Front-End Engineering: Patrick Ryll 
-- Back-End Engineering: James Childers
-- Research and Design: Dené Gabaldón
+- Product Management:  Heather Justice and Mark Fallows
+- Front-End Engineering: Lisa Zapon and Matt Long
+- Back-End Engineering: Lihan Li
+- Research and Design: Dené Gabaldón and Nick Osmanski
 
 ### Key Documents
 
