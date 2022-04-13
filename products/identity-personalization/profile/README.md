@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: March 25, 2022
+Last Updated: April 13, 2022
 
 ### Communications
 
@@ -116,12 +116,12 @@ Current metrics we're tracking:
 
 ## Backend Systems that Support the Profile
 
-- Contact information comes from VA Profile.
-- Direct deposit for comp & pen information comes from EVSS.
-- Direct deposit for edu information comes from BGS.
-- Personal information comes from the Master Person Index (MPI).
-- Military information comes from eMIS.
-- Notification settings (communication permissions) come from VA Profile.
+- Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+- Direct deposit for comp & pen information comes from the [Enterprise Veterans Self Service (EVSS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html).
+- Direct deposit for edu information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
+- Personal information comes from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
+- Military information comes from the [Enterprise Military Information Service (eMIS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html).
+- Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
 ## Design 
 
