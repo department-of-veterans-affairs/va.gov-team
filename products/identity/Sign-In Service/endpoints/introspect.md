@@ -12,7 +12,7 @@ Production: https://api.va.gov/sign_in/introspect
 
 | Header key | Value |
 | --- | --- |
-| `Authorization` | `Bearer <accessTokenHash>` |
+| `Authorization` | `Bearer <accessTokenHash>` *requires an accessToken |
 
 *Sample request*
 
