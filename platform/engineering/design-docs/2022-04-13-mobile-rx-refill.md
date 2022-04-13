@@ -26,6 +26,7 @@ Implementation of this feature will be broken into 3 endpoints:
 Considerations: 
   - The station number and facility name fields do not seem to map directly to a facility id we can locate. Investigating further to see if this is just bad test data or if that is actually the case.
   - We may want to separate out the active history into a separate endpoint since it uses a different MHV service but the prescription controller this is based off of keeps it in one endpoint.
+  - Test data we're using currently does not include instructions but on the website, it shows instructions mixed in the `prescriptionName`. Doing further investigation and getting more up to date test data to see if instructions data will be accessible. 
 
 Parameters:
    - refill_status: string
@@ -48,6 +49,7 @@ Example Response:
       "type": "rxHistory",
       "id": "3097e489-ad75-5746-ab1a-e0aabc1b426a",
       "attributes": {
+        "prescriptionName":"VERAPAMIL HCL 120MG TAB",
         "refillStatus": "refillinprocess",
         "refillSubmitDate": "1/30/2017",
         "refillDate": "1/30/2017",
@@ -68,6 +70,7 @@ Example Response:
       "type": "rxHistory",
       "id": "3097e489-ad75-5746-ab1a-e0aabc1b426a",
       "attributes": {
+        "prescriptionName":"VERAPAMIL HCL 120MG TAB",
         "refillStatus": "discontinued",
         "refillSubmitDate": "1/30/2017",
         "refillDate": "1/30/2017",
