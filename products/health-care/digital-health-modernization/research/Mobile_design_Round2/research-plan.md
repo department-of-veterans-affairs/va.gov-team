@@ -31,9 +31,9 @@ Results of this study will help us determine if our proof of concept is headed i
 
 ### Research questions
 This research will help us answer:
-- Will Veterans understand the concept of the health apartment as shown in this design? 
-- How would Veterans expect to get to the health apartment?
-- What would they expect to see in their health apartment if they were logged in? Not logged in?
+- Will Veterans understand the concept of a centralized place to access their healthcare as shown in this design? 
+- How would Veterans expect to get to the healthcare information?
+- What would they expect to see in their My Health if they were logged in? Not logged in?
 - Will Veterans be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
 - What is the Veteran perception of how the health apartment would fit into how they manage their health at the VA?
 
