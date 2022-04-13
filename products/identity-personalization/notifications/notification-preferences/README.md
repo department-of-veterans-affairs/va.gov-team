@@ -1,6 +1,6 @@
-# Communications permissions (notification preferences): Product outline
+# Notification preferences (communications permissions): Product outline
 
-Last Updated Nov 5, 2021
+Last Updated April 13, 2022
 
 ## POCs
 
@@ -34,7 +34,8 @@ Last Updated Nov 5, 2021
 - [MVP Approach](#mvp-approach)
 - [Status](#status)
 - [Product Decisions](#product-decisions)
-- [Technical Details](#technical-details)
+- How to access and test ()
+- [Backend](#backend)
 - [Screenshots](#screenshots)
 
 
@@ -126,9 +127,7 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 
 - [UX specific decision doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/design/notifications-ux-decisions.md)
 
-## Technical Details
-
-### How to Access and Test
+## How to Access and Test
 - [Staging](https://staging.va.gov/profile/notifications)
 - Testing documentation
      - [Notification settings test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences.md)
@@ -136,6 +135,9 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 
 - [Production](https://va.gov/profile/notifications)
 
+## Backend
+
+Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
 ### Error Handling
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
