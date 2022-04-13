@@ -38,7 +38,7 @@ Currently, we show:
 
 ## Backend
 
-Military currently integrates through eMIS but will soon be moving to VA Profile.
+Military currently integrates through [eMIS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html) but will soon be moving to [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
 ## Design 
 
