@@ -334,7 +334,7 @@ In this research, we tested the landing page and poster and got user feedback on
 
 1. **Harassment is pervasive at VA and in the military, especially directed towards women.**
 
-    > *“Harassment happens so frequently [at the VA that] it’s a surprise when it doesn’t happen” (p9).*
+    > *“Harassment happens so frequently [at VA that] it’s a surprise when it doesn’t happen” (p9).*
  
     > *"There is such a core belief in the military about sexual harassment and what it is and what it means to do it...I got out in '96 and avoided the VA for 17 years because I couldn't stand the harassment...better now because they recognize that harassment does exist...it can be said, 'you can't do that to me, you need to stop'...When I got out, it was 'don't make a scene, don't say anything, you're going to get in trouble'...One VA in California--I think it's Palo Alto--any woman Veteran who has used them loves them...they have a separate entrance, you get assigned case managers for things, and very pro-women. Unfortunately the one I'm at isn't like that. I don't understand why that's not the standard at every VA hospital because if it's such a priority, you'd make it a priority to treat us better...That plays into the abuse we get. We aren't treated with respect, so why should anybody else have to be treating us with respect...If the core institution is so all over the place with it, why is anyone else going to stop and be respectful?...The VA and the military both need to do some reckoning with how they serve women and how they treat assaults...You've got somebody who lived in that for 4 years--a guy or a girl--and they come out and go right into a similar situation. It almost seems indoctrinated into them" (p9).*
 
