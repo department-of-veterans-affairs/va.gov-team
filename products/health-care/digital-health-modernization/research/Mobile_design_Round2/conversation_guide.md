@@ -96,7 +96,7 @@ Before we start, a few things I want to mention:
 
 ## Pharmacy - 5-10 minutes 
 - What can you do from here?
-- Let’s say you needed to refill some prescriptions, how would you do that?
+- Let’s say you needed to get more of some prescriptions, how would you do that?
 - How would you receive this Rx? (If by mail) What address would you expect it go to?
 - How many medications can you refill right now, based on what you see here? 
 - Why aren’t you able to refill some medications? What does Renew mean here? What would you expect to happen if you clicked that?
