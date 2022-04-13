@@ -1,6 +1,6 @@
 # Contact Information Product Outline
 
-Last Updated December 7, 2021
+Last Updated April 13, 2022
 
 Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
      
