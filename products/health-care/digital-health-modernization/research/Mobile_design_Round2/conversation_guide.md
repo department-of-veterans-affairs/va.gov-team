@@ -20,12 +20,12 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Lauryl and I also have some colleagues on the line observing and taking notes. Today we're going to show you some early ideas related to accessing and managing your VA healthcare online.
+Thanks for joining us today! My name is Lauryl/Megan and I also have some colleagues on the line observing and taking notes. Today we're going to show you some early ideas related to accessing and managing your VA healthcare online.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a Demo.** This is a demo and not a live website, parts may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Just let me know what you'd expect to happen in that case. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -48,7 +48,7 @@ Before we start, a few things I want to mention:
 - (if they noticed MHV branding) What does that mean to you?
 - What are you able to do on this page?
 - Now that you've seen this page, where would you expect to find it on the VA.gov website?
-- Talk to me about the links that you're seeing on this page (dig into side nav if they bring it up)
+- Talk to me about the links that you're seeing on this page (dig into hamburger menu if they bring it up)
 - How would you sign in?
 - What do you think you'd see if you were to sign in? 
 (have participant click thru login to auth'ed version of the page)
@@ -101,7 +101,7 @@ Before we start, a few things I want to mention:
 - How many medications can you refill right now, based on what you see here? 
 - Why aren’t you able to refill some medications? What does Renew mean here? What would you expect to happen if you clicked that?
 - You requested a refill a while back and want to get an update on when it’ll arrive. How would you do that?
-- What other things can you do on this page? (If they notice Other Medication + Allergies/Reactions action links) Where do you expect that info to go? Who would be able to see that info? What are your thoughts on being able to add that info here?
+- What other things can you do on this page? (If they notice Other Medication + Allergies/Reactions action links) Where do you expect that info to go? Who would be able to see that info? What are your thoughts on being able to add that info here? (If they notice the medication statuses ie. expiring soon, in progress, etc) What do you think that means? Is there any additional information that you need?
 - What's missing from this page? 
 - You want to check all your upcoming appointments, how would you do that from here? OR How would you get back to that first screen we saw?
 
@@ -122,7 +122,7 @@ Before we start, a few things I want to mention:
 
 ### Things to watch for:
 
-- Do Veterans understand that the side navigation has additional tools related to Appointments?
+- Do Veterans understand that the hamburger menu has additional tools related to Appointments?
 - Are Veterans successfully able to complete the tasks?
 
 ## Messages - 5-10 minutes
