@@ -1,4 +1,4 @@
-# Autheneticated experience roadmap
+# Authenticated experience roadmap
 
 **Last updated November 23, 2021**
 
