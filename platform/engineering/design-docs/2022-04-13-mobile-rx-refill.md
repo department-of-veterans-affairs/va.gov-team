@@ -47,21 +47,40 @@ Parameters:
 #### Rx Tracking Endpoint 
 
 Considerations: 
-   - This endpoint is currently under the assumption that FE will be utilizing the USPS api to get all needed tracking data. With this assumption, FE will only need the tracking # of the prescription to use the USPS api.
+   - This endpoint is currently under the assumption that FE will be utilizing the USPS api to get all needed tracking data. With this assumption, FE will only need the tracking # of the prescriptions to use the USPS api.
+   - The Rx tracking service used does have additional tracking information beyond the tracking number but misses many key data points such as the expected delivery, tracking destination history, map, etc. Because the expected delivery date is on the index page, this data alone cannot be used on the index page. It may be preferable to exclude the expected delivery date from the index page so the USPS api is not needed until a particular shipment is clicked.  
+   - The current wireframes have all shipments listed on index page, this means that BE will need to call to check if every prescription on the current page to see if there is a corresponding shipment to be tracked for it. This requires that the Rx history endpoint pagination is used, otherwise, checking tracking for every prescription of that user could get very expensive and slow.  
+   - There is also some performance implications aside from the parallel calls. FE cannot make this call until Rx history endpoint is returned with the rx numbers. FE then needs to wait for this Rx Tracking endpoint to return with the tracking #s to call the USPS api. Maybe we want to combine this Rx tracking endpoint with the rx history?
 
 Parameters:
-   - id: integer
-      - rx number
+   - ids: array of integers
+      - rx numbers
    
 ```json
 {
-   "data": {
-      "type": "rx-tracking",
-      "id": "abe3f152-90b0-45cb-8776-4958bad0e0ef",
-      "attributes": {
-         "tracking_number": "230494732"
-      }
-   }
+   "data": [
+     {
+        "type": "rx-tracking",
+        "id": "12345",
+        "attributes": {
+           "tracking_number": "23049471232"
+        }
+     },
+     {
+        "type": "rx-tracking",
+        "id": "5678",
+        "attributes": {
+           "tracking_number": "23049473322"
+        }
+     },
+     {
+        "type": "rx-tracking",
+        "id": "4923",
+        "attributes": {
+           "tracking_number": "nil"
+        }
+     }
+   ]
 }
 ```
 ### Code Location
