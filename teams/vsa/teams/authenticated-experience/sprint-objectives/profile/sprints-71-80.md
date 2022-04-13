@@ -136,7 +136,9 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ### General
 
-- Will likely need to find additional work for Mark
+**Mark & Tom**
+
+- Work on diagrams for profile products
 
 ## Sprint 73 (5/4 - 5/17)
 
