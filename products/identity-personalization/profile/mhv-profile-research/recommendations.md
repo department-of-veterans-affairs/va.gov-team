@@ -20,11 +20,18 @@ Read [the questions we sought to answer](https://github.com/department-of-vetera
 ### Maintain important items that are already consistent between the two profiles.
 
 The following data points exist in both the MHV and VA.gov profiles. We recommend keeping these in the VA.gov profile. Some are editable on MHV (indicated below) and will no longer be editable on VA.gov
-|Field|Editable on MHV?|
-|----|----|
-|First name| no |
-|Last name | no|
-|Suffix|no|
+| Field | Editable on MHV? | Note |
+|----|----|----|
+| First name | no | appears in name tag |
+| Middle name | yes | will be read only; appears in name tag |
+| Last name | no | appears in name tag |
+| Suffix | yes | will be read only;  appears in name tag |
+| Alias | yes | called “Preferred name” on VA.gov |
+| Birth date | no |   |
+| Email address | yes |   |
+| Home phone | yes |   |
+| Mobile phone | yes |   |
+| Work phone | yes |   |
 
 ### Move certain items from MHV to the VA.gov profile.
 
