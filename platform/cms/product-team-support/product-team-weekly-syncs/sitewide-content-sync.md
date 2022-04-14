@@ -10,9 +10,13 @@
 <details><summary>Parking lot</summary>
  </details>
 
-## April 5, 2022
+## April 19, 2022
 ### Agenda
-- item
+- Sitewide CMS team configuration (Kevin and Erika)
+
+
+## April 5, 2022
+-cancelled-
 
 ## March 22, 2022
 ### Agenda
