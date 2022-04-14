@@ -16,6 +16,7 @@
   - Let the provider know the patient is ready
   - Enable the patient to tell the provider they're ready, confirm or edit their phone number, remind them of the appointment type/modality and educate them on what to do next (e.g., wait for the provider to call)
   - A check-in solution to notify the patient that the provider is running X minutes late 
+- [Opportunities Mural](https://app.mural.co/t/civicactions3117/m/civicactions3117/1649777253301/29d43298818ec10044e3334ba33e950edc051be3?sender=niradatta0802)
 
 ## Open Items and Questions
 
