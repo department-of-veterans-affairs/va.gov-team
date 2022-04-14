@@ -121,9 +121,6 @@ Considerations:
    - The Rx tracking service used does have additional tracking information beyond the tracking number and shipped date but misses many key data points such as the expected delivery, tracking destination history, map, etc. Something to keep in mind if data is needed but probably best not to mix sources of truth data. Should primarily rely on this MHV service or USPS api.
    - The current wireframes have all shipments listed on index page, this means that BE will need to call to check if every prescription, that has `isTrackable = true`, on the current page to see if there is a corresponding shipment to be tracked for it. This requires that the Rx history endpoint pagination is used, otherwise, checking tracking for every prescription of that user could get very expensive and slow.  
 
-Questions:
-  - Does USPS API include package contents? If not, then the response will need to be expanded to include that information.
-
 Parameters:
    - ids: array of integers
       - rx numbers
@@ -136,24 +133,32 @@ Example Response:
         "type": "rx-tracking",
         "id": "12345",
         "attributes": {
+           "prescriptionName":"SIROLIMUS 1MG TAB",
            "tracking_number": "23049471232",
            "shipped_date": "1/2/2022"
+           "deliveryService":"USPS",
+           "otherPrescriptionListIncluded":[
+            {
+               "prescriptionName":"IPSUMLOREM 1MG TAB",
+               "prescriptionNumber":"2719536"
+            }
+         ]
         }
      },
      {
         "type": "rx-tracking",
-        "id": "5678",
+        "id": "56789",
         "attributes": {
-           "tracking_number": "23049473322",
-           "shipped_date": "1/4/2022"
-        }
-     },
-     {
-        "type": "rx-tracking",
-        "id": "4923",
-        "attributes": {
-           "tracking_number": "nil",
-           "shipped_date": "1/7/2022"
+          "prescriptionName":"PAROXETINE 1MG TAB",
+           "tracking_number": "23049471232",
+           "shipped_date": "1/2/2022"
+           "deliveryService":"USPS",
+           "otherPrescriptionListIncluded":[
+            {
+               "prescriptionName":"IPSUMLOREM 1MG TAB",
+               "prescriptionNumber":"2719536"
+            }
+         ]
         }
      }
    ]
