@@ -14,9 +14,9 @@ In order to do this, we wanted to better understand:
 4. How MHV users use the profile.
 
 We completed the following activities to inform our strategy:
-- Profile evaluation and comparison ([findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/findings.md))
-- Interviewed MHV product owners, MHV help desk directors, and a MHV coordinator lead ([findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/stakeholder-interviews.md))
-- Interviewed MHV users and asked them to complete a moderated card sort. ([Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/topline-summary.md))
+- Profile evaluation and comparison ([findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/findings.md))
+- Interviewed MHV product owners, MHV help desk directors, and a MHV coordinator lead ([interview summary report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/stakeholder-interviews.md))
+- Interviewed MHV users and asked them to complete a moderated card sort. ([topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/topline-summary.md))
 
 Read details about [the questions we sought to answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/README.md#research-questions) in our project outline.
 
@@ -56,7 +56,11 @@ After speaking to stakeholders and MHV users, we recommend retiring items in MHV
 - are duplicative of features we already know work well on VA.gov, such as “How would you like to be addressed”
 - had low usage or were not useful to end users (determined by Google Analytics and user interviews).
  
-We also recommend retiring self-entered data such as blood type, My Links, and the MHV health information card. In interviews, people talked about these kinds of items being confusing. They expect that the information will be shared with VA and become part of the care they receive as a VA patient.  Since that isn’t the case, they’re not useful and could contribute to mistrust in VA.
+We also recommend retiring fields and functionality that essentially serves as a self-entered journal for patients. These “self-journaling” entries are data points that users enter that are part of their MHV account, but not visible by anyone else at VA. Examples from the personal information section include blood type, My Links, and the MHV health information card. 
+
+In interviews, people talked about these kinds of items being confusing. 10 of 11 users expected the VA had access to the information they entered in these types of fields. They expect that the information will be shared with VA and have some kind of downstream effect at VA. 
+
+Since that isn’t the case, they’re not useful and could contribute to mistrust in VA.
 
 #### My Profile section
 ##### Social security number
@@ -77,7 +81,7 @@ We also recommend retiring self-entered data such as blood type, My Links, and t
 - We heard from stakeholders that the patient designation is important to them, but the rest of the options don’t have an impact outside of the MHV administration tool. 
 - Stakeholders agreed that these options don’t have any utility for end-users.
 - Stakeholders confirmed the options selected here don’t tie back to a VA database that impacts Veteran services or benefits.
-- End users were confused about the purpose of this field in their profile, and it wasn’t important to them to be able to update it since it doesn’t change.
+- End users do not see their relationship with the VA as a changeable thing, so they were confused about the purpose of this field in their profile. It isn’t wasn’t important to them to be able to update it.
 - **Recommendation:** We should continue to store this data for any meaningful internal VA purposes, but we shouldn't migrate this field to the VA.gov profile for end-users to self-journal their relationship.
 
 ##### Blood type and organ donor
@@ -132,11 +136,6 @@ Integrating this functionality will require collaboration between the MHV team, 
 **Recommendation:** Get a status update of where MHV and VA Notify are today in planning, and determine when it makes sense for our team to start getting involved.
 
 ## Additional points to think about
-### Self-journaling features are confusing for users.
-Users we interviewed were confused about self-journaling features and expected they had some kind of downstream effect at VA. 10 of 11 users expected the VA had access to the information they entered. 
-
-This is an important point to keep in mind as VA.gov and MHV partner during this migration.
-
 ### We should collaborate with the health apartment team to determine where it makes the most sense to put health-related profile items.
 
 Our card sort revealed that it will likely be helpful to Veterans to reference health-related profile items in both the VA.gov profile and their health portal.  We’ll need to collaborate on a strategy of where makes the most sense for these data points to be managed vs linked.
@@ -158,9 +157,10 @@ Below are the results from our card sort showing which category made sense to th
 | Your providers and doctors (self-entered) | My VA.gov Profile |
 
 ### We need further discussions on managing shipping addresses for prescriptions.
-	- We’ve learned there is a significant amount of complexity and conditional logic depending on whether or not a person has a PO Box.
-	- Currently, there is a temporary address in a back-end system.
-	- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it. 
+- We’ve learned there is a significant amount of complexity and conditional logic depending on whether or not a person has a PO Box.
+- Currently, there is a temporary address in a back-end system.
+- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it. 
+
 ### Determine the timing of retiring the MHV profile.
 - We know new users will not be able to get a MHV credential starting in September 2022.
 - We need to learn more about the MHV team’s plans for retiring the profile.
@@ -173,12 +173,13 @@ Below are the results from our card sort showing which category made sense to th
 - [MHV personal info audit (xlsx)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) 
 - [Comparative analysis findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/findings.md)
 
-### Stakholder interviews
+### Stakeholder interviews
 - [Stakeholder meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/meeting-notes)
 - [Stakeholder interview summary](ob/master/products/identity-personalization/profile/mhv-profile-research/stakeholder-interviews.md)
 
-### MHV user interviews
+### MHV user interviews and card sort
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/conversation-guide.md)
 - [MHV user interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/session-notes)
 - [Mural board](https://app.mural.co/invitation/mural/vsa8243/1648474932983?sender=lizlantz1528&key=d392672c-1eca-4670-a690-0e42df488af6)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/mhv-user-interviews/topline-summary.md)
