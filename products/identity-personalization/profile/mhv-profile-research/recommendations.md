@@ -43,6 +43,7 @@ Some are editable on MHV (indicated below) and will no longer be editable on VA.
 | Alias | yes | called “Preferred name” on VA.gov |
 | Birth date | no | VA.gov profile currently matches functionality on MHV  |
 | Military branches | yes | Read only; comes from MPI |
+| How would you like to be addressed? | yes | Read only; comes from MPI |
 | Email address | yes | VA.gov profile currently matches functionality on MHV    |
 | Home phone | yes | VA.gov profile currently matches functionality on MHV   |
 | Mobile phone | yes | VA.gov profile currently matches functionality on MHV   |
@@ -78,11 +79,6 @@ We also recommend retiring self-entered data such as blood type, My Links, and t
 - Stakeholders confirmed the options selected here don’t tie back to a VA database that impacts Veteran services or benefits.
 - End users were confused about the purpose of this field in their profile, and it wasn’t important to them to be able to update it since it doesn’t change.
 - **Recommendation:** We should continue to store this data for any meaningful internal VA purposes, but we shouldn't migrate this field to the VA.gov profile for end-users to self-journal their relationship.
-
-##### How would you like to be addressed?
-- We heard from stakeholders that users love this field.
-- Users weren’t clear about it’s purpose, despite it being directly under a heading reading “Welcome bar personalization”.  Many understood it to become a part of their health record so their doctor would know if they had any nicknames.
-- **Recommendation:** We shouldn't migrate this field to the VA.gov profile. We have a banner displaying the Veteran’s name and branch of service across the top of VA.gov  (similar to welcome bar on MHV), and preferred name will give users the functionality to let their doctor know how they’d like to be addressed.
 
 ##### Blood type and organ donor
 - We heard from stakeholders that they feel these should not be editable fields in a VA.gov profile.
