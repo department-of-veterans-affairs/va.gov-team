@@ -108,9 +108,10 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - October 2021: New profile team onboarded and project kickoff
 - Fall 2021: Design; Frontend build; Backend on hold as we wait for MPI to be ready to start integration
 - December 2021: User testing on interface designs; discussions begin with MPI
-- January 2021: Continued design updates and FE build; It is determined that VA Profile, not MPI, will support the backend
-- February 2021: Backend development begins; Continued delays and back and forth between MPI and VA Profile, though VA Profile remains the backend supporting this work.
-- March 2021: PRA determination made that we need approvals for pronouns and sexual orientation before we can continue with adding them to VA.gov; Still moving forward with preferred name and gender identity; Final design updates; Continued FE and BE build
+- January 2022: Continued design updates and FE build; It is determined that VA Profile, not MPI, will support the backend
+- February 2022: Backend development begins; Continued delays and back and forth between MPI and VA Profile, though VA Profile remains the backend supporting this work.
+- March 2022: PRA determination made that we need approvals for pronouns and sexual orientation before we can continue with adding them to VA.gov; Still moving forward with preferred name and gender identity; Final design updates; Continued FE and BE build
+- April 2022: Wrapping up backend integration; Integrating the frontend with the backend.
 
 ## Design
 
