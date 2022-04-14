@@ -43,22 +43,6 @@ Before we start, a few things I want to mention:
 - [have participant open up a browser] You got an email from the VA that there's a new way to look at all your healthcare needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
 
 
-## Health Apartment homepage, unauth - 5 minutes
-- What are you seeing here?
-- (if they noticed MHV branding) What does that mean to you?
-- What are you able to do on this page?
-- Now that you've seen this page, where would you expect to find it on the VA.gov website?
-- Talk to me about the links that you're seeing on this page (dig into hamburger menu if they bring it up)
-- How would you sign in?
-- What do you think you'd see if you were to sign in? 
-(have participant click thru login to auth'ed version of the page)
-
-
-### Things to watch for:
-- Do they notice this is MHV branded?
-- Do they expect to see something different if signed in or not?
-- How do they expect to get to this page? How does it relate to the bigger VA.gov site?
-
 ## Health Apartment homepage, auth - 5 minutes
 
 - What's different about this page? What website is this?
@@ -70,11 +54,11 @@ Before we start, a few things I want to mention:
 - Messages: You want to send a message to your doctor, how would you do that from here? (before clicking) What would you expect to see here? 
 - Appointments: You want to check all your upcoming appointments, how would you do that from here? (before clicking) What would you expect to see here?
 
-
 ### Things to watch for:
 - Do Veterans notice the info shown is now personalized?
 - Are Veterans successfully able to complete the tasks?
 - Does their understanding of what actions you can take on this page change once they see the logged in version?
+
 
 ## Medical Records - 5-10 minutes
 - What are you seeing here? What would you come here to do?
@@ -94,6 +78,7 @@ Before we start, a few things I want to mention:
 - Do they understand they are seeing recent stuff and not all, and how would they get to all?
 - Are Veterans successfully able to complete the tasks?
 
+
 ## Pharmacy - 5-10 minutes 
 - What can you do from here?
 - Let’s say you needed to get more of some prescriptions, how would you do that?
@@ -112,6 +97,7 @@ s) Where do you expect that info to go? Who would be able to see that info? What
 - Are Veterans successfully able to complete the tasks?
 - If the info listed on this page useful for Veterans?
 
+
 ## Appointments - 5-10 minutes
 - What can you do on this page?
 - How would you get more information about your appointment on November 25?
@@ -125,6 +111,7 @@ s) Where do you expect that info to go? Who would be able to see that info? What
 
 - Do Veterans understand that the hamburger menu has additional tools related to Appointments?
 - Are Veterans successfully able to complete the tasks?
+
 
 ## Messages - 5-10 minutes
 - What can you do on this page?
