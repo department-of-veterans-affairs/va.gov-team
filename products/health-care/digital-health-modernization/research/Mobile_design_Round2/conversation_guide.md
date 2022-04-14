@@ -115,7 +115,7 @@ s) Where do you expect that info to go? Who would be able to see that info? What
 
 ## Messages - 5-10 minutes
 - What can you do on this page?
-- You remember that you had sent your doctor a message a few months ago with a question. If you wanted to re-read their reply, how would you find that message?
+- You remember that you had sent your doctor a message awhile ago with a question. If you wanted to re-read their reply, how would you find that message?
 - You have a new message from your doctor about a recent test result, how would you look at it?
 - You want to send your doctor a message about your upcoming appointment, how would you do that?
 - Let's say you wanted to see messages just from the last 6 months, how would you do that?
