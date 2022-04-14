@@ -83,7 +83,7 @@ Because harassment is a potentially triggering subject, we wanted to be careful 
 
 ## The broader VA context
 7. Participants reacted with varying degrees of skepticism about whether harassment reporting would make a difference at VA.
-2. Harassment is pervasive at VA and in the military, especially directed towards women. Participants shared their own stories of harassment by VA employees or others at VA.
+2. Harassment is pervasive at VA and in the military, especially directed towards women. 10 of 14 (71%) participants said they’ve experienced harassment at VA.
 
 ## Feedback on the trauma-informed research methods
 9. One participant lauded the presence of a clinician during their research session.
@@ -332,7 +332,7 @@ In this research, we tested the landing page and poster and got user feedback on
 
     > *"This would get my interest: Sexual harassment or lunchtime events or womens' stuff, a separate entrance for women. Actions that I could feel happen--not just a web page...Tell me what's being done...What best practices and standard operating procedures are you going to be going under when this happens? What have you done to change to show me that it's not going to continue like that? Tell me you're hiring X number of MST coordinators, or you're putting more time into better therapy for MST, or you're going to require the men on base have some kind of class on it. If a guy is found to have done it, he's no longer welcome at that VA anymore, because when people get in trouble for that kind of stuff, they're still allowed to come back to the VA, and it's just a problem waiting to happen" (p9).*
 
-1. **Harassment is pervasive at VA and in the military, especially directed towards women.**
+1. **Harassment is pervasive at VA and in the military, especially directed towards women.** 10 of 14 (71%) participants said they’ve experienced harassment at VA.
 
     > *“Harassment happens so frequently [at VA that] it’s a surprise when it doesn’t happen” (p9).*
  
