@@ -58,7 +58,7 @@ Generally, we do not recommend moving things that don’t link back to a VA data
 - **Recommendation:** Follow MHV’s lead and don’t bring this over to the VA.gov profile.
 
 ##### Gender
-- We know from[previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/findings-summary.md#2-participants-who-identify-as-other-than-straight-or-cisgender-found-the-sex-assigned-at-birth-and-sexual-orientation-fields-triggering) that this data point is triggering for some Veterans, particularly because it can’t be changed online. 
+- We know from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/findings-summary.md#2-participants-who-identify-as-other-than-straight-or-cisgender-found-the-sex-assigned-at-birth-and-sexual-orientation-fields-triggering) that this data point is triggering for some Veterans, particularly because it can’t be changed online. 
 - **Recommendation:** Stick with our decision to keep this out of the VA.gov profile.
 
 ##### Martial status and current occupation
