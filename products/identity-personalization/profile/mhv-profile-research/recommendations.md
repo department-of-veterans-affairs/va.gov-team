@@ -63,59 +63,58 @@ In interviews, people talked about these kinds of items being confusing. 10 of 1
 Since that isn’t the case, they’re not useful and could contribute to mistrust in VA.
 
 #### My Profile section
-##### Social security number
+**Social security number**
 - We learned from Carnetta Scruggs that this is already slated for removal from the MHV profile in September 2022.
 - **Recommendation:** Follow MHV’s lead and don’t bring this over to the VA.gov profile.
 
-##### Gender
+**Gender**
 - This field is equivalent to a field we tested labeled "Sex assigned at birth". Through [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/findings-summary.md#2-participants-who-identify-as-other-than-straight-or-cisgender-found-the-sex-assigned-at-birth-and-sexual-orientation-fields-triggering), we learned that this data point is triggering for some Veterans, particularly because it can’t be changed online. 
 - We’ll be including a more inclusive gender identity field in June of 2022.
 - **Recommendation:** Stick with our decision to keep this out of the VA.gov profile, and instead use gender identity.
 
-##### Martial status and current occupation
+**Martial status and current occupation**
 - The MHV data for these fields does not impact any VA benefits for users.
 - The majority of users we spoke with did not name these as fields that are important to them to update.
 - **Recommendation:** Don’t bring these fields over to the VA.gov profile.
 
-##### What is your relationship to VA? 
+**What is your relationship to VA?** 
 - We heard from stakeholders that the patient designation is important to them, but the rest of the options don’t have an impact outside of the MHV administration tool. 
 - Stakeholders agreed that these options don’t have any utility for end-users.
 - Stakeholders confirmed the options selected here don’t tie back to a VA database that impacts Veteran services or benefits.
 - End users do not see their relationship with the VA as a changeable thing, so they were confused about the purpose of this field in their profile. It isn’t wasn’t important to them to be able to update it.
 - **Recommendation:** We should continue to store this data for any meaningful internal VA purposes, but we shouldn't migrate this field to the VA.gov profile for end-users to self-journal their relationship.
 
-##### Blood type and organ donor
+**Blood type and organ donor**
 - We heard from stakeholders that they feel these should not be editable fields in a VA.gov profile.
 - We heard from users that they expect this information to be part of their medical record, and not something they need to update in their profile.
 - **Recommendation:** Don’t move these as editable fields to the VA.gov profile. Have further discussions with health modernization team regarding how to handle health-related profile items (see below).
 
-##### Preferred method of contact
+**Preferred method of contact**
 - Since the VA is not set up to honor these preferences for all communications, it isn’t helpful for users to be able to update this setting. 
 - **Recommendation:**  We shouldn't migrate this field to the VA.gov profile.
 
-##### Fax and pager
+**Fax and pager**
 - Stakeholders acknowledged that these were outdated methods of contact, and stated they were already planning to follow VA.gov profile and remove fax number.
 - We removed Fax recently from the VA.gov profile at the recommendation of VA Profile, who let us know that stakeholders across the VA are not using fax as a means of communication with Veterans.
 - Multiple users commented that these fields were outdated in our interviews.
 - **Recommendation:** We shouldn’t migrate these fields to the VA.gov profile.
 
-##### My VA Treating facilities 
+**My VA Treating facilities** 
 - We heard from stakeholders that this field is used by help desk staff to assist VA patients, but help desk staff stated they didn’t use this information to support patients.
 - Stakeholders also stated that this field was intended to support functionality that was never completed.
 - End users were confused about the purpose of this field in their profile, and the impact it had on their medical records.  They assumed it would switch records from one VA medical center to another. 
 - It wasn’t important to them to be able to update it, even if they actively receive care at multiple VA facilities listed in their profile. This validates the findings from the [June 2021 research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md) we did to learn about the value of adding facilites to the VA.gov profile.
-- If this data did have a larger impact on VA records, and wasn’t a self-journaling item, it might be important.
+- If this data did have a larger impact on VA records, and wasn’t a self-journaling item, it *might* be important.
 - **Recommendation:** We shouldn't migrate this field to the VA.gov profile.
 
-##### Account security questions and answers
+**Account security questions and answers**
 - Stakeholders shared that the MHV credential will be retired and users will have to log in with ID.me or Login.gov in the near future.
 - Users shared they had used this field in the past to manage their account, and talked about the importance of being able to keep their account secure.
 - **Recommendation**: We shouldn’t migrate these fields to the VA.gov profile since it’ll be irrelevant once the MHV credential is retired. However, we need to consider users that are accustomed to managing their account security in their profile and be sure it’s clear to them that is no longer necessary.
 
 #### In case of emergency section
 - We heard from stakeholders that the data in this field is strictly used to inform the printable health information wallet card, and isn’t accessible by VA staff in an emergency situation.
-- We heard from users that it’s helpful to be able to manage this information **because they expect it’s part of their health record and accessible by VA staff**. Since it isn’t, it’s confusing.
-- This would be a helpful feature if it tied back to a VA database and updated emergency contact information within the health care system.
+- We heard from users that it’s helpful to be able to manage this information **because they expect it’s part of their health record and accessible by VA staff**. This would be a helpful feature if it tied back to a VA database and updated emergency contact information within the health care system/ Since it doesn’t, it misleads and confuses users.
 - **Recommendation:** We shouldn’t bring this over to the VA.gov profile in its current state. It’s worth adding this item to the list of  health-related profile items to discuss with the health modernization team.
 
 #### Health information card
@@ -128,10 +127,10 @@ Since that isn’t the case, they’re not useful and could contribute to mistru
 - Users agreed; no users we spoke to had ever used this, and many found it confusing.
 - **Recommendation:** We shouldn’t bring this over to the VA.gov profile. 
 
-### 3. Functionality we plan to incorporate into the VA.gov profile
+### 3. Plan to incorporate some functionality into the VA.gov profile
 MHV currently has settings to manage email notifications for Rx Refill shipments, appointment reminders, medical images and report availability, and the MHV newsletter.
 
-Integrating this functionality will require collaboration between the MHV team, VA Profile and VA Notify.  In our stakeholder interviews, we heard that transition discussions between MHV and VA Notify would start taking place soon, though we didn’t get an exact date
+We’ll need to work closely with the MHV, VA Profile and VA Notify teams to successfully integrate this into VA.gov.  In our stakeholder interviews, we heard that transition discussions between MHV and VA Notify would start taking place soon, though we didn’t get an exact date
 
 **Recommendation:** Get a status update of where MHV and VA Notify are today in planning, and determine when it makes sense for our team to start getting involved.
 
