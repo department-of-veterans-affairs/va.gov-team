@@ -121,7 +121,7 @@ Since that isn’t the case, they’re not useful and could contribute to mistru
 #### Health information card
 - Stakeholders shared that this feature was popular when MHV first launched, but that it’s functionality was never fully completed (only the address can be edited).
 - 10 out of 11 users we spoke to had never used this card given that most things are digital today. They also didn’t expect that someone would search their wallet looking for this card if they were incapacitated. Some also saw it as duplicative of the card they use to check in for appointments.
-- **Recommendation:** We shouldn’t bring this over to the VA.gov profile.
+- **Recommendation:** We shouldn’t bring this over to the VA.gov profile in its current state. It’s worth adding this item to the list of health-related profile items to discuss with the health modernization team.
 
 #### My links
 - We heard from stakeholders that this section is a remnant of an earlier era of digital tools, and is likely no longer useful.
