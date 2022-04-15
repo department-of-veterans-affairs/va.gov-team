@@ -16,7 +16,7 @@
 |----|----|----|----|----|----|
 |**Add payments & financials section to My VA** |Scoping and planning; Design | Design/Research/Build/Pre-launch | Launch|-|-|
 |**Redirect from homepage to My VA at login**|-|-|Conduct experiment 1 month after Payments launch|-|-|
-|**Payments & Debts/copays V2**|-|-|-|Design explorations; Research; FE Build| QA; Pre-launch; Launch|
+|**Payments & Debts/copays V2**|-|-|Design explorations; Research; FE Build| QA; Pre-launch; Launch|-|
 |**My VA audit**|-|-|Documentation; Determine next steps for My VA; Update designs|Research; FE updates; Launch|-|
 
 ## Completed projects
