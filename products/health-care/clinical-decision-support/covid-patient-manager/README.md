@@ -57,59 +57,59 @@ More specifically, data elements for MVP and future versions may include the fol
 ## About the Team
 ### GitHub/ZenHub/Teams/Jira
 Team repo: https://github.com/department-of-veterans-affairs/covid-patient-manager
-GitHub label = 
+GitHub label = covid-patient-manager (https://github.com/department-of-veterans-affairs/covid-patient-manager) 
 ZenHub board - [link to this if/when you have one]
 Link to Teams folder if applicable: 
+•	https://teams.microsoft.com/l/team/19%3at2CNBPjejMvipwwxdCeU5kessIuotzdnOcOkcLVQA8I1%40thread.tacv2/conversations?groupId=b1f59e8b-b653-4319-94ed-6a9d184c2752&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf 
+•	SMART-on-FHIR COVID-19 Patient Manager - General - All Documents (sharepoint.com)
+
 Link to Jira if applicable: 
 List & link to the slack channels you use when you have them.
-
+•	#cpm-public
+•	#cds-tools-team
 
 ### Team Members
 OCTO-DE/DEPO:
-- 
+- Dr. Stefany Holguin (VA OCTO, PIF, Product)
+- Varoon Mathur (VA OCTO, PIF, Data)
 Program Management:
-
+- Eric Slagle (Coforma)
 Product Management:
-- 
+- Erik Pollack (Coforma)
 Design & Research:
-- 
+- Kate Murphy (Coforma)
 Engineering:
-- 
+- Alex Saify (Coforma)
+- Jared Cunha (Coforma)
+- Dale Durham (Coforma)
+- Pratap Singh (Coforma)
+- Rocio DeSantiago (Coforma)
+- Vaibhav Paneri (Cofroma)
 
 ### What We're Working On
-- Name the core initiatives that you're building or working on
+•	Improving tool’s design via ongoing usability research 
+•	Understanding CPM Usage & opportunities 
+•	Exploring tool integration methods (e.g., automatic launch or button) 
+
 
 
 ### Product Documentation
 - Link to Roadmap
 - Link to Objectives & Key Results
-- Link to Product Guide
+- Link to Product Guide: CPM User Guide.pdf (sharepoint.com)
 
 ### Who We Work With
 VA Business Owners:
-- 
-- 
+- Dr. Shannon Brown (Philadelphia VAMC)
+- Dr. Tara Khan (Tampa VAMC)
+- Dr. David Ng (Bronx VAMC)
 VA Stakeholders & their roles: 
 - 
 - 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Proposed UI Mockup
  
 ## Team Repo
-
-
 
