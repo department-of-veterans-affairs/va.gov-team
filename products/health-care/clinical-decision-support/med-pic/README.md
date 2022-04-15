@@ -1,5 +1,3 @@
-!!!!  please update the text below. 
-
 # MedPic Initiative
 Help visualize patient medication histories for clinicians through a Smart on FHIR application. 
 
@@ -51,4 +49,3 @@ VA Business Owners:
 VA Stakeholders & their roles: 
 - 
 - 
-!!!  please replace this text. 
