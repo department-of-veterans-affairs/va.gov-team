@@ -1,6 +1,6 @@
 # MyHealtheVet to VA.gov profile transition recommendations
 ## Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience
-Date: `draft`
+Date: 4/15/2022
 
 Liz Lantz, liz.lantz@adhocteam.us
 
@@ -155,10 +155,10 @@ Below are the results from our card sort showing which category made sense to th
 | Your power of attorney | My VA.gov Profile |
 | Your providers and doctors (self-entered) | My VA.gov Profile |
 
-### We need further discussions on managing shipping addresses for prescriptions.
-- We’ve learned there is a significant amount of complexity and conditional logic depending on whether or not a person has a PO Box.
-- Currently, there is a temporary address in a back-end system.
-- It’s likely this problem needs to be solved at a higher level than our team. May need to work with VEO or a larger research effort needs to go into it. 
+### We need to learn more about managing shipping addresses for prescriptions.
+- We’ve learned that prescription shipping addresses aren’t managed in MHV, so we don’t need to be concerned with updating those as part of this transition.
+- At a high-level, we know there are complexities and undefined problems related to prescription shipping addresses, including conditional logic based on the kind of medication and type of address (PO Box, mailing, home etc).
+-  We need to have further conversations to define use cases and better understand all the problems in order to determine how the Veteran experience would improve if they could manage their prescription shipping address through the VA.gov profile.
 
 ### Determine the timing of retiring the MHV profile.
 - We know new users will not be able to get a MHV credential starting in September 2022.
