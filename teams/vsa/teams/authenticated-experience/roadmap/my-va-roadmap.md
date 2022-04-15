@@ -1,13 +1,13 @@
 # My VA roadmap
 
-**Updated March 23, 2022**
+**Updated April 15, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
 |[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme) | Pre-launch |
-|Add co-pay information| Design explorations|
+|Payments & Debts/copays V2| Design explorations|
 |My VA audit| Documentation|
 
 ### Projected timelines for current projects
@@ -16,8 +16,8 @@
 |----|----|----|----|----|----|
 |**Add payments & financials section to My VA** |Scoping and planning; Design | Design/Research/Build/Pre-launch | Launch|-|-|
 |**Redirect from homepage to My VA at login**|-|-|Conduct experiment 1 month after Payments launch|-|-|
-|**Add co-pay information**|-|-|-|Design explorations; Research; Launch dependent on debt team rolling copays into debt tool|-|
-|**My VA audit**|-|-|-|Documentation; Determine next steps for My VA|-|
+|**Payments & Debts/copays V2**|-|-|-|Design explorations; Research; FE Build| QA; Pre-launch; Launch|
+|**My VA audit**|-|-|Documentation; Determine next steps for My VA; Update designs|Research; FE updates; Launch|-|
 
 ## Completed projects
 
