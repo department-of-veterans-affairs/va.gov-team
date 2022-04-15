@@ -26,6 +26,7 @@ VCM Code base: https://coderepo.mobilehealth.va.gov/projects/VVCM/repos/virtual-
 ### Team Members
 OCTO-DE/DEPO:
 - This project is housed through VA OCC and Iron Bow Technologies.
+
 Program Management:
 - Carolyn Kniefel (Iron Bow Tech)
 - Aaron Steele (VHA Program Analyst)
