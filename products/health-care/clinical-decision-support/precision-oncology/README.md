@@ -26,12 +26,14 @@ OCTO-DE/DEPO:
 - Varoon Mathur (VA OCTO, PIF, Data)
 
 Program Management:
- Jeff Langworthy (Coforma)
+- Jeff Langworthy (Coforma)
  
 Product Management:
-- 
+- TBD
+
 Design & Research:
 - Lauren Sinreich (Coforma) 
+
 Engineering:
 - Alexander Saify (Coforma)
 
