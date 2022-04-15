@@ -70,7 +70,7 @@ Pre-condition: After logging in and loading the Personal information page on Sta
 
 | Test case                                                    | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User selects one or more of the supplied values<br />4. User clicks the Update button | 1. An error message is displayed immediately above the **Preferred Name** field label and reads, "We're sorry.  We can't save your Preferred name at this time.  We're working to fix this problem.   Please try again or check back soon." | Any LOA3 user | [Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User selects one or more of the supplied values<br />4. User clicks the Update button | 1. An error message is displayed immediately above the **Preferred Name** field label and reads, "We're sorry.  We can't save your Preferred name at this time.  We're working to fix this problem.   Please try again or check back soon." | Any LOA3 user | [Desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile_contact_error.png) |
 
 
 
