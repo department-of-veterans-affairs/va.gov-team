@@ -50,3 +50,16 @@
 * Start the product  guide  and product  video  for the Contact  Center review
 * Identify  if  generated PDF is accessible
 * Align  on  Opt-In  path forward
+
+## Sprint 4
+
+### Outputs
+* Designed error states
+* Presented research in VA Designers forum
+* Created product guides and video for Contact Center Review and HEC 
+* Drafted communications that would go out through VA Notify 
+* Coordinated with Sitewide Content on front end redesign
+* Built end-to-end flow to download a PDF
+* Investigated how to make our PDF accessible 
+* Coordinate remaining collaboration cycle reviews 
+* Investigate with Profiles team and HEC to understand how opt in process may be built
