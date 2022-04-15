@@ -32,13 +32,17 @@ Link to Jira if applicable:
 OCTO-DE/DEPO:
 - Dr. Stefany Holguin (VA OCTO, PIF, Product)
 - Varoon Mathur (VA OCTO, PIF, Data)
+
 Program Management:
 - Eric Sagle (Coforma)
+
 Product Management:
 - Laureen Kattan (Coforma)
 - Sade Ragsdale (Coforma, supporting)
+
 Design & Research:
 - James Hobbs (Coforma, Design lead)
+
 Engineering:
 - Nana Arkorful (Coforma, Dev lead)
 - Arman Mikaili (Coforma)
@@ -63,6 +67,7 @@ Roadmap
 VA Business Owners:
 - Dr. Stefany Holguin (VA OCTO, PIF)
 - Varoon Mathur (VA OCTO, Data)
+
 VA Stakeholders & their roles: 
 National Lung Cancer Screening Platform (NLCSP) Leadership:
 - Dr. Jeffery Honeycutt, Chief of Radiology & Chief of Informatics at Lexington VAMC
