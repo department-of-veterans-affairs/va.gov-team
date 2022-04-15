@@ -11,7 +11,7 @@
 ### Projected timelines for current projects
 
 |Project|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022|
-|----|----|----|----|----|----|----|
+|----|----|----|----|----|----|
 |**On-site notifications MVP: Debt notification**|Samara returns from maternity leave; design; work with VANotify; **unplanned project pause** | Backend build; Project largely on hold due to VANotify team change  | Frontend build; QA, Pre-launch |Launch; Observe analytics| 
 |**On-site notifications: V2 -- scale notifications**| - | - | - |Start explorations after MVP launch| TBD |
 
