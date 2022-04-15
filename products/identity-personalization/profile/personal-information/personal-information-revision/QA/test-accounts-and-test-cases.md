@@ -34,7 +34,7 @@ GH Ticket: #34466
 | Test case                                                    | Intended outcome                                                                         | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------ |
 | User navigates to **Contact information** page in Profile    | H1 reads "Contact information" and the only fields on page are for Contact info. No personal info fields should be present.| Any LOA3 user | [Desktop Top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile_contact_info_top.png) [Desktop Bottom](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile_contact_info_bottom.png) |
-| User interacts with `Which benefits and services does VA use this contact infomation for?` component      | If closed, should open to reveal content<br />If open, should close to hide content | Any LOA3 user | [Desktop] :triangular_flag_on_post:                          |
+| User interacts with `Which benefits and services does VA use this contact infomation for?` component      | If closed, should open to reveal content<br />If open, should close to hide content | Any LOA3 user | [Desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/Profile_Contact_FAQ_Benefits%2Bservices.png) |
 
 ### Test cases for blank state
 
