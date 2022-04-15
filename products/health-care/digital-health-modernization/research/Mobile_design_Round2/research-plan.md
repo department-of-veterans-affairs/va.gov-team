@@ -66,17 +66,23 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 **Primary criteria (must-haves)**
 - At least six participants that have VA healthcare and regularly use MyHealtheVet
 - Up to six participants that do not use VA healthcare or access their health information via MyHealtheVet
-- Must have access to a laptop or desktop computer to interact with the prototype
+- At least six participants that use their mobile device (smart phone or tablet) to access their VA health care benefits
+- Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
 
 **Secondary criteria (nice-to-haves)**
-- 8 participants over the age of 55 years
+- 10 participants over the age of 55 years
 - 4 participants from rural locations
-- At least 2 women
+- At least 4 participants who identify as women
 - 4 participants without a college degree
 - 8 participants with cognitive disabilities
+- At least 3 partcipants other than honorable discharge
+- 2 participants of immigrant origin
+- 2 particpants who identify as LGBTQ+
+- At least 3 participants who identify as Asian or Latinx
+
 
 ## Timeline
-add timeline (running session from x-x)
+
 
 ### Prepare
 
@@ -84,14 +90,14 @@ add timeline (running session from x-x)
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from April 26 - May 6, 2022, dependent on scheduling
+- We plan to run sessions from April 25 - May 6, 2022, dependent on scheduling
 
 ### Length of sessions
 1 hour sessions with 15 minute breaks in between (if possible). 
 
 ### Availability
 
-add times
+Moderator 1 is on Eastern Time. Monday 4/25, Tuesday 4/26, Wednesday 4/27, Thursday 4/28: 8am - 2:30pm ET Friday 4/29: 8am - 1pm ET, 2pm - 6pm ET Monday 5/2, Wednesday 5/4, Thursday 5/5: 8am - 2:30pm ET Tuesday 5/3: 10am- 2:30pm Friday 5/6: 8am - 6pm ET 
 
 
 	
