@@ -56,6 +56,15 @@ Additional resources:
 - If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
 - If conducting [research with disabled Veterans, refer to this checklist.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md) 
 
+### Trauma-informed research 
+*(Describe why it's important to take a trauma-informed approach to your research and what you plan to do)*
+
+Because TOPIC is a potentially triggering subject, we want to be careful about recruiting people to participate in this research because we don't want to re-trigger the trauma they have experienced. Our plans include the following:
+- Provide an overview of the session for Perigean personnel to share with potential participants and then ask if they are comfortable participating.
+- Work with VA contacts to find social workers or other clinicians to observe the sessions and provide support if trauma-triggering occurs. 
+- Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). Plan to get consent from the participant while all observers are in the Zoom waiting room; if the participant gives consent, then let the observers in.
+  - For each session with a participant using a screen reader, invite an accessibility specialist instead of the team observer to assist with any technical issues.
+
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
@@ -118,6 +127,16 @@ Write any recruitment criteria for experience or scenarios as screener questions
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
+**Additional questions to ask in the screener**
+
+*(We recommend sharing with potential participants what the topic is and what you want them to do before they decide whether to participate. Below are some sample questions.)*
+1. VA is working to DO ACTION RELATED TO TOPIC. As part of these efforts, we are exploring WHAT WE'RE WORKING ON. Feedback from Veterans like you will help us make sure that WHAT WE'RE WORKING ON will meet your needs and are easy to use. Are you interested in trying out WHAT WE'RE WORKING ON and sharing your opinions about them? 
+    1. No *(don't recruit)*
+    2. Yes *(ask the next question)*
+1. First, we want to stress that we’re contacting you because you’re a Veteran, not because we believe that you have been TOPIC. We also want to make sure everyone who participates in a feedback session knows exactly what to expect so you can decide if you’re comfortable participating. If you’ve experienced any type of TOPIC in the past, conversations in the feedback session might remind you of these past experiences. Our researcher may also ask you a few questions about whether you’ve experienced TOPIC. She won’t ask you to share any details about the experience. And you can choose to answer only questions you’re comfortable answering or end the session at any time. We won’t share what you tell us in a feedback session with anyone, and we won’t link your name or other personal details with your answers in any of our records. Would you feel comfortable participating in this feedback session? 
+    1. No *(don't recruit)*
+    2. Yes *(recruit)*
+
 ## Timeline
 If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
 
@@ -133,11 +152,13 @@ What dates do you plan to do research?
 
 ### Length of sessions
 How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+Specify if you want Perigean to schedule the sessions with buffer time *(at least 60-90 minutes recommended for trauma-informed research)* to allow for the researcher to debrief and decompress before the next session.
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+Please request enough dates and time slots for the number of requested participants (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+
+For trauma-informed research, we recommend scheduling *only 2-3 sessions per day* to allow ample time for the researcher to debrief and decompress between sessions.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -147,6 +168,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact:	
 - Participant(s) for pilot test:	
 - Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Observers: Will be invited directly by the Moderator because we need to limit the number of observers per session. 
 
