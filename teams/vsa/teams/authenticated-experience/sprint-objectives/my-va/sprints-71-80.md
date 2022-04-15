@@ -60,6 +60,13 @@
 
 [#39274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39274)
 
+### FE Priorities
+
+1. Payment info launch
+2. Cerner update
+3. Updating Next Appointment to VAOS V2
+4. On-site notifictions
+
 ### Payment history
 
 LAUNCH!!!
@@ -103,9 +110,11 @@ VANotify to complete their work in the next two sprints
 
 **FE**
 
-We need to scope this out first, but assuming we have what we need...
-
-- Update "Next Appointment" so it connects to the latest version of VAOS
+- Discovery: Update Next Appointment feature to connect to V2 of VAOS
+  - [V0 docs](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/docs/vaos/v0/vaos.yaml)
+  - [V2 docs](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/docs/vaos/v2/vaos_v2.yaml)
+ - If possible, make this update
+ - Note: V2 has not launched to prod yet, but is on staging. This will need to be gated to not go to prod before VAOS V2 goes to prod.
 
 ### My VA audit
 
