@@ -134,6 +134,17 @@ Tom should finish all backend work for personal information revisions first. So,
   -  Note: You'll see that we've added some code to show the health care section conditionally, but the other section is not gate by any conditional logic.
   -  Ultimately, our goal is to make sure we know what we need to do as new notification preferences are added.
 
+### Direct desposit
+
+**Design - Liz**
+
+- Update designs to account for showing direct deposit section persistently instead of conditionally
+  - We will still show the DS Logon/MHV gate.
+  - We'll need a state for people who have neither type of direct deposit.
+  - For people who have at least one kind of direct deposit, the design shouldn't really change.
+  - We'll need to change how we handle errors for this section when we are having backend difficulties. Right now, an alert shows on Personal & Contact Information if we are having trouble connecting to the backend. We'll no longer need to show this alert on the Personal & Contact Information section. We'll be able to show that within the direct deposit section because we show the section no matter what.
+  - In the Medallia data, people mentioned that they receive education payments via check and want to set up direct deposit on VA.gov. People can't set up direct deposit for education on VA.gov, they have to call in. We should create some copy that let's them know this. Note: People can set up direct deposit for the first time for comp & pen, so we do not need to add this copy to that section.
+
 ### General
 
 **Mark & Tom**
