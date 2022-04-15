@@ -84,7 +84,7 @@ add timeline (running session from x-x)
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from X, 2022
+- We plan to run sessions from April 26 - May 6, 2022, dependent on scheduling
 
 ### Length of sessions
 1 hour sessions with 15 minute breaks in between (if possible). 
