@@ -116,7 +116,9 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ### Address change messaging
 
-- Is this work finished?
+- Adam is finishing accessibility tests
+- Once this is in prod, we can do an internal UAT with our own prod accounts
+- Samara to file analytics request
 
 ### MHV profile research
 
