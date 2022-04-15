@@ -27,12 +27,16 @@ Link to Jira if applicable:
 OCTO-DE/DEPO:
 - Dr. Stefany Y Holguin (VA OCTO, PIF, Product)
 - Varoon Mathur (VA OCTO, PIF, Data)
+
 Program Management:
 - Jeremy Stitz (ThoughtWorks/TW)
+
 Product Management:
 - Reshmi Nair (TW)
+
 Design & Research:
 - Rachel Murray (TW)
+
 Engineering:
 - Phil Herbert (TW, Tech Lead)
 - Filip Fafara (TW, Domain Principal)
@@ -43,11 +47,14 @@ Engineering:
 
 ### What We're Working On
 •	The CDSP platform team conducted engagements with 11 different teams across the VA and identified three potential use cases for development and/or integration efforts. Those use cases include:
+
 o	Virtual Care Manager
 	Pending prioritization and level of effort by team
+
 o	STORM – Opioid management
 	Exploring UI design work to improve visibility of STORM w/CPRS
 	Determining technical feasibility 
+
 o	Precision Oncology (work being led by Coforma)
 	Exploring problem statement w/key stakeholders, i.e. Dr. Ahmed
 	Determining team bandwidth 
@@ -62,10 +69,11 @@ o	Precision Oncology (work being led by Coforma)
 ### Who We Work With
 VA Business Owners:
 - Dr. Jonathan Nebeker, Deputy Director CIDMO
+
 VA Stakeholders & their roles: 
 - Dr. Jeffery Honeycutt (Chief of Radiology, CIO, Lexington VAMC)
 - Dr. Doug Martin (CIDMO via IPA)
--Charleen Short (Program Analyst, Strategic Investment Management, VHA Office of Informatics and Analytics)
+- Charleen Short (Program Analyst, Strategic Investment Management, VHA Office of Informatics and Analytics)
 - Dr. Steve Brown (Director, VHA Health and Medical Informatics Office)
 - Charu Puri (Lead Program Specialist, VHA/OIA/HI Health Systems Informatics)
 - Doug Wahl (Health Systems Specialist, VHA/OHI/CIDMO/Health Solutions Management)
