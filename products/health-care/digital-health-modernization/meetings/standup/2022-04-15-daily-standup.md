@@ -32,6 +32,8 @@
 - Marci
 	- Met with Tracey earlier to get some background on how the team works together and uses ZenHub currently
 	- Putting together "elevator pitch" doc for MHV on VA.gov
+- Patrick
+	- Got pulled into a VAOS incident yesterday, spent a lot of the afternoon looking into that, then working on a Ruby upgrade on laptop.
 
 ## Decisions
 
