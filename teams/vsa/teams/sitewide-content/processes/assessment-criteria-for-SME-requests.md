@@ -9,7 +9,11 @@ These are the types of requests we get:
 
 ## How we assess incoming requests
 
-**The first question to ask:** Is it Veteran facing? 
+**The first question to ask:** Does the addition or edit retain the Veteran-facing focus of the page? 
+
+**Exception:** For a small percentage of our pages, the audience is family members or caregivers, so we'd want to retain that focus. 
+
+What we want to avoid is mixing in information for accredited representatives, school officials, or other people who support Veterans. The information for those audiences doesn't belong in our benefit hubs. It may be appropriate to talk to the stakeholder about placing the information in an existing or new resources and support article. 
 
 **Follow-up questions:**
 -	What’s the overall value to Veterans of this content change? 
@@ -19,7 +23,7 @@ These are the types of requests we get:
 
 ## Why we might decline a request
 
--	It’s not Veteran facing.
+-	It’s not Veteran-facing.
 -	It’s an addition that simply repackages (in the form of an administration webpage or PDF) info that we already have on our site.
 -	It’s promotional content that’s associated with a campaign.
 
