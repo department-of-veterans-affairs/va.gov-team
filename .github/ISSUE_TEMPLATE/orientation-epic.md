@@ -17,7 +17,6 @@ Because the VA is a huge organization that serves millions, the Platform it runs
 As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
 
 ## How to fill out this ticket
-- [ ] Add your github handle as the Assignee
 - [ ] Add your teams github label under Labels
 - [ ] Add your name to the ticket title
 - [ ] Complete the Onboarding Checklist below
@@ -31,9 +30,11 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
  - Preferred pronouns (e.g. she/her):
  - Role:
  - Email:
- - Github handle:
+ - GitHub handle*:
  - Start date:
  - VFS Team:
+
+*Providing your GitHub handle will allow Platform to provide you access to the necessary GitHub repos.
 
 ### General
 
@@ -94,5 +95,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 ## Platform Checklist
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
 - [ ] New VFS Team member has been added to the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0)
+- [ ] New VFS team member has been added to the vets.gov-write GitHub team
 
-CC: @department-of-veterans-affairs/vsp-product-support
+
