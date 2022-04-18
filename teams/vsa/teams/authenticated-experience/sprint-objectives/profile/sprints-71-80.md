@@ -120,6 +120,10 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ### Notification prefs
 
+**PM - Sharon**
+
+- Share IA/content recommendations with VA Profile #39381 (moved from sprint 71 because content/IA aren't done)
+
 **FE - Mark**
 
 - Review how this feature was built so we make sure we understand the frontend implementation
