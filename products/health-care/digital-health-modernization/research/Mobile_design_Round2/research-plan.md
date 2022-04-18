@@ -33,19 +33,19 @@ Results of this study will help us determine if our proof of concept is headed i
 
 ### Research questions
 This research will help us answer:
-- Will Veterans understand the concept of a centralized place to access their healthcare as shown in this design? 
-- How would Veterans expect to get to the healthcare information?
+- Will Veterans understand the concept of a centralized place to access their health care as shown in this design? 
+- How would Veterans expect to get to the health care information?
 - What would they expect to see in their My Health if they were logged in? Not logged in?
 - Will Veterans be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
-- What is the Veteran perception of how the health apartment would fit into how they manage their health at the VA?
+- What is the Veteran perception of how the health apartment would fit into how they manage their health care at the VA?
 
 ### Hypothesis
-- Veterans will easily understand the idea of a centralized place where they can access their VA medical information
+- Veterans will easily understand the idea of a centralized place where they can access their VA health care information
 - Veterans will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care
 - Veterans will be able to accomplish a variety of health tasks as designed in this prototype
 
 ## Method	
-We use conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the mobile version of the designs that we've iterated on from Round 1 testing.
+We conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the mobile version of the designs that we've iterated on from Round 1 testing.
 
 
 ### Location
