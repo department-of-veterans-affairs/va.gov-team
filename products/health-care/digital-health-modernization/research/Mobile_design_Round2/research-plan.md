@@ -11,8 +11,8 @@ You can read more about our Digital Health Modernization strategy [here](https:/
 ### OCTO Objectives 
 
 This work supports the following objectives:
-- Veterans can manage their health services online
-- Veterans and their families can find a single, authoritative source of information
+- Veterans can manage their VA health care online
+- Veterans and their families can find a single, authoritative source of information for VA health care
 - Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
@@ -24,7 +24,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals	
 The goals of this study are to:
-- determine if Veterans understand the concept of MHV on VA.gov as their centralized place to access healthcare 
+- determine if Veterans understand the concept of MHV on VA.gov as their centralized place to access health care 
 - identify major usability or content issues with the current concept of MHV on VA.gov on mobile devices
 
 
