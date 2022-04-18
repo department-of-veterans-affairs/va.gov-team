@@ -52,7 +52,7 @@ We conduct remote moderated usability studies using a high fidelity Sketch proto
 This research will be remote via Zoom. 
 
 ### Research materials 
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Mobile_design_Round2/conversation_guide.md)
 - [Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/VrxYEoo/play?hotspots=false)
 
 	
