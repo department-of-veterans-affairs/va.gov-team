@@ -6,6 +6,10 @@ labels: devops, needs-grooming, operations
 assignees: ''
 
 ---
+## Who is the devops resource on your team?
+_Please use their github username, if applicable (optional, please delete if unused)_
+
+@github-name
 
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
