@@ -77,6 +77,7 @@ Anything outstanding from sprint 71, plus...
 **PM**
 
 - Submit call center guide for review
+- All QA-related tickets (moving over from sprint 71)
 
 **Design - Christina**
 
