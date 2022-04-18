@@ -1,4 +1,4 @@
-# Conversation Guide: VSA Caregiver, Usability research of shortened form based on disability rating for the 10-10EZ, September 2021
+# Conversation Guide: VSA 1010, Usability research of shortened form based on disability rating for the 10-10EZ, September 2021
 
 ## Moderator Logistics
 
