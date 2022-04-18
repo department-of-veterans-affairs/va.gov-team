@@ -79,9 +79,12 @@ Before we start, a few things I want to mention:
 
 ### Things to watch for:
 - Does it make sense to have patient entered data on this page? Do Veterans find it useful?
-- Do veterans understand the difference between Health Summary and Blue Button and why/when they would need them?
+- Do Veterans understand the difference between VA Health Summary and Blue Button and why/when they would need them?
 - Do they understand they are seeing recent stuff and not all, and how would they get to all?
 - Are Veterans successfully able to complete the tasks?
+
+> *Under "Things to watch for," should we add something like this? (This also applies to Pharmacy, Appointments, and Messages.)
+> Do Veterans use or look inside the "In this section" navigation? Or do they click on the breadcrumb? Or use the back button?*
 
 
 ## Pharmacy - 5-10 minutes 
@@ -91,8 +94,7 @@ Before we start, a few things I want to mention:
 - How many medications can you refill right now, based on what you see here? 
 - Why aren’t you able to refill some medications? What does Renew mean here? What would you expect to happen if you clicked that?
 - You requested a refill a while back and want to get an update on when it’ll arrive. How would you do that?
-- What other things can you do on this page? (If they notice Other Medication + Allergies/Reactions action 
-s) Where do you expect that info to go? Who would be able to see that info? What are your thoughts on being able to add that info here? (If they notice the medication statuses ie. expiring soon, in progress, etc) What do you think that means? Is there any additional information that you need?
+- What other things can you do on this page? (If they notice Other Medication + Allergies/Reactions actions) Where do you expect that info to go? Who would be able to see that info? What are your thoughts on being able to add that info here? (If they notice the medication statuses ie. expiring soon, in progress, etc) What do you think that means? Is there any additional information that you need?
 - What other things can you do on this page? What's missing from this page? 
 - You want to check all your upcoming appointments, how would you do that from here? OR How would you get back to that first screen we saw?
 
@@ -100,14 +102,14 @@ s) Where do you expect that info to go? Who would be able to see that info? What
 - What would Veterans want to be able to do on this page but can't?
 - Do Veterans understand the different types of actions (refill, track, renew, and view all Rx) they can do here? Does it makes sense to them to have that on one page? 
 - Are Veterans successfully able to complete the tasks?
-- If the info listed on this page useful for Veterans?
+- Is the info listed on this page useful for Veterans?
 
 
 ## Appointments - 5-10 minutes
 - What can you do on this page?
 - How would you get more information about your appointment on November 25?
 - How would you make an appointment with your doctor?
-- (Check-in link) You got an email and VA needs you to fill out some paperwork ahead of your upcoming doctor visit, how might you do that from here?
+- (Pre-check-in link) You got an email and VA needs you to fill out some paperwork ahead of your upcoming doctor visit, how might you do that from here?
 - Let's say you wanted to sort the appointments you see here, how would you do that?
 - What other things can you do on this page? What's missing from this page?
 - You want to send a message to your doctor, how would you do that from here? OR How would you get back to that first screen we saw?
@@ -120,7 +122,7 @@ s) Where do you expect that info to go? Who would be able to see that info? What
 
 ## Messages - 5-10 minutes
 - What can you do on this page?
-- You remember that you had sent your doctor a message awhile ago with a question. If you wanted to re-read their reply, how would you find that message?
+- You remember that you had sent your doctor a message a while ago with a question. If you wanted to re-read their reply, how would you find that message?
 - You have a new message from your doctor about a recent test result, how would you look at it?
 - You want to send your doctor a message about your upcoming appointment, how would you do that?
 - Let's say you wanted to see messages just from the last 6 months, how would you do that?
@@ -133,6 +135,9 @@ s) Where do you expect that info to go? Who would be able to see that info? What
 
 - Do Veterans understand this is the same functionality as MHV secure messaging? 
 - Are Veterans successfully able to complete the tasks?
+
+> *Should we add these under "Things to watch for":
+> How do Veterans use search and/or the sort/filter menus? What sort/filter options do they expect? If they clicked on the search link, which messages would they expect to search?
 
 
 ## Post-Task Interview - 2 minutes
