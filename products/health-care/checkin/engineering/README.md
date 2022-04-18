@@ -54,6 +54,17 @@ Check In Experience consists of five main containers (see components section for
 
 #
 
+### URL Shortener
+
+- Provides a URL shortening service under the www.va.gov namespace
+- An API for creating shortened URLs is available to the CHIP & VEText teams
+- Shortened URLs are available under the www.va.gov/c/ path immediately after creation
+- Create & Read endpoints are AWS Lambda functions built with nodeJS
+- The Read endpoint is served to Veterans via the [VA.gov Reverse Proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594232/Reverse+Proxy)
+
+[![alt text](architecture-diagrams/containerDiagram_urlShortener-container-diagram.drawio.png "URL Shortener Component Diagram")](./architecture-diagrams/containerDiagram_urlShortener-container-diagram.drawio.png)
+
+
 ### Check In Integration Platform (CHIP):
 
 - Provides integration layer for access to various services including VistA and SMS messaging with Veteran
