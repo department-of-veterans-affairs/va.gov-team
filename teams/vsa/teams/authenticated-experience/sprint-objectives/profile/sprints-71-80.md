@@ -138,11 +138,6 @@ Tom should finish all backend work for personal information revisions first. So,
   - We'll need to change how we handle errors for this section when we are having backend difficulties. Right now, an alert shows on Personal & Contact Information if we are having trouble connecting to the backend. We'll no longer need to show this alert on the Personal & Contact Information section. We'll be able to show that within the direct deposit section because we show the section no matter what.
   - In the Medallia data, people mentioned that they receive education payments via check and want to set up direct deposit on VA.gov. People can't set up direct deposit for education on VA.gov, they have to call in. We should create some copy that let's them know this. Note: People can set up direct deposit for the first time for comp & pen, so we do not need to add this copy to that section.
 
-### General
-
-**Mark & Tom**
-
-- Work on diagrams for profile products
 
 ## Sprint 73 (5/4 - 5/17)
 
@@ -157,6 +152,12 @@ Tom should finish all backend work for personal information revisions first. So,
 **Design - Christina**
 
 - Create high fidelity mockups
+
+### General
+
+**Mark & Tom**
+
+- Work on diagrams for profile products
 
 ## Sprint 74 (5/18 - 5/31)
 
