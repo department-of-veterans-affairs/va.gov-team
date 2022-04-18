@@ -1,7 +1,7 @@
 ## Check-in Review Environments
 
 <aside>
-👉🏽 socks needs to be enabled to access any review environments
+👉🏽 socks needs to be enabled to access any review environments. Please follow the instructions [here](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) to get access through and configure socks
 </aside>
 
 ### vets-website
