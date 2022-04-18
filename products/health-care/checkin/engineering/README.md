@@ -61,6 +61,7 @@ Check In Experience consists of five main containers (see components section for
 - Shortened URLs are available under the www.va.gov/c/ path immediately after creation
 - Create & Read endpoints are AWS Lambda functions built with nodeJS
 - The Read endpoint is served to Veterans via the [VA.gov Reverse Proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594232/Reverse+Proxy)
+- [URL Shortener Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/url-shortener)
 
 [![alt text](architecture-diagrams/containerDiagram_urlShortener-container-diagram.drawio.png "URL Shortener Component Diagram")](./architecture-diagrams/containerDiagram_urlShortener-container-diagram.drawio.png)
 
