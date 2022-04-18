@@ -54,10 +54,7 @@ DONE in 2021:
 Beth Potts (Beth.Potts@va.gov) and Danielle Thierry (Danielle.Thierry@va.gov)
 
 #### Content team
-- Randi Hecht (Randi.Hecht@va.gov): Lead and content editor 
-- Selina Cooper (Selina.Cooper@va.gov): content writer
-- Patrick Sanders (patrick.sanders1@va.gov): content writer 
-- Stan Gardner (stanley.gardner@va.gov): PM
+To  be filled in
 
 ### How we work 
 **Slack channel:** va-sitewide-content-ia <br> 
