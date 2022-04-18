@@ -156,11 +156,23 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 <details>
 
-- Team Name: VAOS 
+- Team Name: VA Online Scheduling
 - GitHub Label(s): vaos 
 - Slack channel: #vaos-team
-- Product POCs: 
+- Product POCs: Leah De La Costa and Jeff Roof 
 
+</details>
+ 
+
+#### Team Members
+
+<details>
+ 
+- DEPO Lead: Lauren Alexanderson
+- PM: Leah De La Costa and Jeff Roff
+- Engineering: Simi Adebowale 
+- Research/Design: Peter Russo and Ciera Maddox
+ 
 </details>
 
 
@@ -170,7 +182,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 <details>
   
 - Office/Department:
-- Contact(s): 
+- Contact(s): Kay Lawyer (OCC)
  
 </details>
 
