@@ -84,7 +84,8 @@ Before we start, a few things I want to mention:
 - Are Veterans successfully able to complete the tasks?
 
 > *Under "Things to watch for," should we add something like this? (This also applies to Pharmacy, Appointments, and Messages.)
-> Do Veterans use or look inside the "In this section" navigation? Or do they click on the breadcrumb? Or use the back button?*
+> Do Veterans use or look inside the "In this section" navigation? Or do they click on the breadcrumb? Or use the back button?
+> Are Veterans able to easily close the section menu by clicking on the "X"?*
 
 
 ## Pharmacy - 5-10 minutes 
