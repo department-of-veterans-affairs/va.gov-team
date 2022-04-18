@@ -1,6 +1,6 @@
 # MyHealtheVet to VA.gov profile transition recommendations
 ## Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience
-Date: 4/15/2022
+Date: 4/18/2022
 
 Liz Lantz, liz.lantz@adhocteam.us
 
@@ -40,7 +40,7 @@ Some are editable on MHV (indicated below) and will no longer be editable on VA.
 | Middle name | yes | Read only; comes from MPI |
 | Last name | no | Read only; comes from MPI. |
 | Suffix | yes | Read only; comes from MPI |
-| Alias | yes | Called “Preferred name” on VA.gov |
+| Alias | yes | called “Preferred name” on VA.gov |
 | Birth date | no | VA.gov profile currently matches functionality on MHV  |
 | Military branches | yes | Read only; comes from MPI |
 | How would you like to be addressed? | yes | Read only; comes from MPI |
@@ -147,7 +147,6 @@ Below are the results from our card sort showing which category made sense to th
 | Next of kin | My VA.gov Profile |
 | Notification settings for prescription shipping updates | My VA.gov Profile |
 | Notification settings for the MHV newsletter | My Health Care |
-| Printable wallet health information card | My VA.gov Profile |
 | The ability to connect your health tracking device (like a FitBit) | My Health Care |
 | Your blood type | My Health Care |
 | Your caregivers | My Health Care |
