@@ -30,6 +30,11 @@ Add your team's practice and contact information below.
 - **VA Business Owner:**
 
 - **Crew:**
+   - [ ] Sitewide
+   - [ ] Account Experience
+   - [ ] Health Tools
+   - [ ] Benefit Tools
+   - [ ] Lighthouse API
 
 - **Github team label:**
  
@@ -43,8 +48,8 @@ Add your team's practice and contact information below.
 
 ## Platform Orientation for your team members
 In addition to providing information to Platform and completing necessary tasks at the team level, there are also tasks that need to be completed at the individual level. As a team leader, you will need to: 
-- [ ] Direct your team member to the [New VFS Team members section](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-NewVFSTeammembers) on the Platform Orientation page of Platform Website
-- [ ] Ask all of your team members to follow the instructions provided
+- [ ] Direct your team members to the guidance for [New VFS team members](https://depo-platform-documentation.scrollhelp.site/getting-started/Guidance-for-new-teams-and-team-members.2132803700.html#Guidancefornewteamsandteammembers-NewVFSTeammembers) on Platform Website
+- [ ] Ask all of your team members to complete the process
 
 ## Review and update your team's product information 
 - [ ] Go to the [VA Product Directory](https://vfs.atlassian.net/wiki/spaces/VAProducts/overview)
