@@ -106,12 +106,6 @@ Tom should finish all backend work for personal information revisions first. So,
   - Initial email blast that will go out to everyone with the BAI once the functionality launches
   - Individual emails that will go out to folks if a new BAI is added to their accounts *after* we launch the feature
 
-### Address change messaging
-
-- Adam is finishing accessibility tests
-- Once this is in prod, we can do an internal UAT with our own prod accounts
-- Samara to file analytics request
-
 ### MHV profile research
 
 **Design - Liz**
@@ -157,6 +151,12 @@ Tom should finish all backend work for personal information revisions first. So,
 **Design - Christina**
 
 - Create high fidelity mockups
+
+### Address change messaging
+
+- Adam is finishing accessibility tests
+- Once this is in prod, we can do an internal UAT with our own prod accounts
+- Add GA tracking to this
 
 ### General
 
