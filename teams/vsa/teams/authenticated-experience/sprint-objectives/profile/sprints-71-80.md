@@ -80,6 +80,8 @@ Anything outstanding from sprint 71, plus...
 
 **Design - Christina**
 
+- Finish contact center guide (moved from sprint 71)
+- Create UAT research plan (moved from sprint 71)
 - Create UAT Convo Guide #39866
 
 **FE - Adam**
@@ -94,17 +96,6 @@ Moved these from sprint 71
 - Once the feature is fully complete in staging, everyone on the project (Sharon, Christina, Adam, Tom) should go into staging and review the feature to make sure it's ready for QA. Note that this might need to get moved to the beginning of sprint 73 before QA.
 
 ### Bad address indicator
-
-**PM**
-
-- Start on QA use cases #39379
-  - This likely will not be completed this sprint
-  - Talk to Tom/Marci about which test user to use. I think Tom worked with VA Profile already to get one set up.
-- Document Staging user info for flag #39380
-
-**Design - Christina**
-
-- Create high fidelity mockups
 
 **BE - Tom**
 
@@ -154,6 +145,18 @@ Tom should finish all backend work for personal information revisions first. So,
 - Work on diagrams for profile products
 
 ## Sprint 73 (5/4 - 5/17)
+
+### Bad address indicator
+
+**PM**
+
+- Start on QA use cases #39379
+  - This likely will not be completed this sprint
+  - Talk to Tom/Marci about which test user to use
+
+**Design - Christina**
+
+- Create high fidelity mockups
 
 ## Sprint 74 (5/18 - 5/31)
 
