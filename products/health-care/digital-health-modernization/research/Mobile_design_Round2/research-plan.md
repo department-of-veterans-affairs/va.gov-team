@@ -59,16 +59,16 @@ This research will be remote via Zoom.
 ## Recruitment	
 
 ### Recruitment approach
-The audience is Veterans with and without VA healthcare, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitment_checker.png). 
+The audience is Veterans with and without VA health care, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitment_checker.png). 
 
 
 ### Recruitment criteria
 Please schedule a total of 15 Veterans for an expected completion rate of 10-12 studies. 
 
 **Primary criteria (must-haves)**
-- At least six participants that have VA healthcare and regularly use MyHealtheVet
-- Up to six participants that do not use VA healthcare or access their health information via MyHealtheVet
-- At least six participants that use their mobile device (smart phone or tablet) to access their VA health care benefits. We are testing a mobile prototype, so at least six participants should call in or be able to use their mobile device to complete the session
+- At least six participants who have VA health care and regularly use My HealtheVet
+- Up to six participants who do not use VA health care or access their health information via My HealtheVet
+- At least six participants who use their mobile device (smartphone or tablet) to access their VA health care benefits. We are testing a mobile prototype, so at least six participants should call in or be able to use their mobile device to complete the session
 - Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
 
 **Secondary criteria (nice-to-haves)**
@@ -108,6 +108,8 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 - Wednesday 5/4:8am - 5pm ET
 - Thursday 5/5: 8am - 2:30pm ET
 - Friday 5/6: 8am - 6pm ET 
+
+> *Note that My HealtheVet PI planning is the first week of May: Monday afternoon (ET), plus full days Tues-Thurs. Not necessarily a deal breaker, but something to discuss with the team, as several of us are planning to attend a good chunk of the time.*
 
 	
 ## Team Roles	
