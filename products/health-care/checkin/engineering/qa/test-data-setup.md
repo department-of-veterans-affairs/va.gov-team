@@ -149,7 +149,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 723 | Twentysix, Patient | Adrian |
 | 366 | Twentyeight, Patient | Dan |
 | 350 | Twentynine, Patient | Gaurav |
-| 391 | Thirty, Patient | Julie |
+| 391 | Thirty, Patient | Lori |
 | 384 | Thirtyone, Patient | Kanchana |
 | 140 | Thirtytwo, Patient | Nira |
 | 442 | Thirtythree, Patient | Paras |
