@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 ## Who is the devops resource on your team?
-_Please use their github username, if applicable (optional, please if unused)_
+_Please use their github username, if applicable (optional, please delete if unused)_
 
 @github-name
 
