@@ -156,10 +156,10 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: VAOS 
+- GitHub Label(s): vaos 
+- Slack channel: #vaos-team
+- Product POCs: 
 
 </details>
 
