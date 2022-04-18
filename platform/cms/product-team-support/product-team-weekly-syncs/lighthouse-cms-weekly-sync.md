@@ -29,6 +29,19 @@
 </details>
 
 
+## Monday, April 18, 2022
+* Sitewide crew org updates
+* System name with facility push details
+  * going with plain language common name
+  * waiting for LH to be ready to receive
+* Health connect phone number push details
+  * to be sent at the same time as facility but with system data
+  * CMS recommendation: always send phone numbers in the same structure
+  * similar to mental health, will be sent in a single string
+  * CMS most likely moving to two structures: one slimmed down, and one more beefed
+* VC CAP new push endpoint
+  * CMS and LH ready to implement post v1 rollout
+
 ## Monday, April 11, 2022
 * This LH team is going to do Forms API.   Woot!
 * Pushing Vet Center CAP would need a new push endpoint or a new nightly sync from Lighthouse.  Post V1
