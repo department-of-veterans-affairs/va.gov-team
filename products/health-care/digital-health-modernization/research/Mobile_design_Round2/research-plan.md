@@ -97,7 +97,7 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 
 ### Availability
 
-Moderator 1 is on Eastern Time. Monday 4/25, Tuesday 4/26, Wednesday 4/27, Thursday 4/28: 8am - 2:30pm ET Friday 4/29: 8am - 1pm ET, 2pm - 6pm ET Monday 5/2, Wednesday 5/4, Thursday 5/5: 8am - 2:30pm ET Tuesday 5/3: 10am- 2:30pm Friday 5/6: 8am - 6pm ET 
+Moderator 1 is on Eastern Time. Please note that Moderator 1 is out of the office on Monday 4/25. Moderator 1 is available Tuesday 4/26, Wednesday 4/27, Thursday 4/28: 8am - 2:30pm ET Friday 4/29: 8am - 1pm ET, 2pm - 6pm ET Monday 5/2, Wednesday 5/4, Thursday 5/5: 8am - 2:30pm ET Tuesday 5/3: 10am- 2:30pm Friday 5/6: 8am - 6pm ET 
 
 
 	
