@@ -38,11 +38,13 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions - 5-10 minutes
-- Do you have healthcare through the VA? How do you interact with your healthcare? How would you like to?
+- Do you have health care through the VA? How do you interact with your health care? How would you like to?
 - Do you have other benefits through the VA? How do you manage your benefits? How would you like to manage your benefits?
-- Have you used MyHealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)? What would you change about MHV?
+- Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)? What would you change about MHV?
 - Do you use secure messaging now? What for? How often? What would you change about it?
-- You got an email from the VA that there's a new way to look at all your healthcare needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
+- You got an email from the VA that there's a new way to look at all your health care needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
+
+> *Will we ask Veterans to sign in at this point? Or in the beginning of "Health Apartment homepage, auth"? In Round 1, we had them look at the unauth page, then asked them to sign in.*
 
 
 ## Health Apartment homepage, auth - 5 minutes
@@ -56,10 +58,11 @@ Before we start, a few things I want to mention:
 - Messages: You want to send a message to your doctor, how would you do that from here? (before clicking) What would you expect to see here? 
 - Appointments: You want to check all your upcoming appointments, how would you do that from here? (before clicking) What would you expect to see here?
 
+
 ### Things to watch for:
 - Do Veterans notice the info shown is now personalized?
 - Are Veterans successfully able to complete the tasks?
-- Does their understanding of what actions you can take on this page change once they see the logged in version?
+- Does their understanding of what actions you can take on this page change once they see the logged-in version?
 
 
 ## Medical Records - 5-10 minutes
