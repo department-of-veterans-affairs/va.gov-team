@@ -164,14 +164,14 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - We are respectful of others' time
 
 
-#### Slack:
+#### Slack "#1010-health-apps":
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
 GitHub is the single source of truth. All work is documented for tracking and capacity planning.
 
-#### *New* PTO
+#### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
 - Team members will send calendar invites to the rest of team when they have scheduled time off, **and** add it to the VSA PTO calendar
 
