@@ -24,7 +24,7 @@ Update various product assets, as necessary, based on changes to the product.
 - [ ] Product Guides are up-to-date (content & screenshots)
 - [ ] Poster is up-to-date
 - [ ] ALL screenshots are of the highest quality possible
-- [ ] User flow diagrams are up-to-date 
+- [ ] [User flow diagrams are up-to-date](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm)
 - [ ] R&D articles are up-to-date
 - [ ] Contact Center is aware of the changes
 - [ ] Training is aware of the changes
