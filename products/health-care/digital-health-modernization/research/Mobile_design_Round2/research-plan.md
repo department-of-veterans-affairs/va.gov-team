@@ -6,7 +6,7 @@ Our project is part of the Digital Health Modernization strategy, which aims to 
 > The page this link goes to ^^ should show how Round 2 builds on the results of the December study, which gave preference findings -- as opposed to having users do tasks. If we do feel that Round 2 and the December study are related, let's link to the findings preso b/c the link above goes to a page that doesn't have or link to findings info: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Post%20Guerrilla%20Testing%20Design%2C%20Research%2C%20findings%20presentation%2012.20.21.pdf 
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
-> Let's link to the product brief and give that context instead of linking to this directory.
+> Let's link to the product brief and give that context instead of linking to this directory: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md
 
 ### OCTO Objectives 
 
