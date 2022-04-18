@@ -40,7 +40,7 @@ Some are editable on MHV (indicated below) and will no longer be editable on VA.
 | Middle name | yes | Read only; comes from MPI |
 | Last name | no | Read only; comes from MPI. |
 | Suffix | yes | Read only; comes from MPI |
-| Alias | yes | called “Preferred name” on VA.gov |
+| Alias | yes | Called “Preferred name” on VA.gov |
 | Birth date | no | VA.gov profile currently matches functionality on MHV  |
 | Military branches | yes | Read only; comes from MPI |
 | How would you like to be addressed? | yes | Read only; comes from MPI |
