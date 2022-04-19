@@ -13,8 +13,3 @@ See [VA Mobile App - Information Architecture & Navigation - High Level Project 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
 - [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md)
 
-
-**Tree Test**
-- [Research plan]
-- [Research report]
-
