@@ -13,6 +13,7 @@
 ## April 19, 2022
 ### Agenda
 - Sitewide CMS team configuration (Kevin and Erika)
+- How does the work that the Sitewide Content team overlap with Sitewide CMS team's Content Strategists and how is it different?
 
 
 ## April 5, 2022
