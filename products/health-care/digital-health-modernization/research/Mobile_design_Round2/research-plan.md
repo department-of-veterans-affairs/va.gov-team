@@ -106,7 +106,7 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 - Monday 5/2: 8am - 2:30pm ET
 - Tuesday 5/3: 10am- 2:30pm ET
 - Wednesday 5/4:8am - 5pm ET
-- Thursday 5/5: 8am - 2:30pm ET
+- Thursday 5/5: 11am - 2:30pm ET
 - Friday 5/6: 8am - 6pm ET 
 
 > *Note that My HealtheVet PI planning is the first week of May: Monday afternoon (ET), plus full days Tues-Thurs. Not necessarily a deal breaker, but something to discuss with the team, as several of us are planning to attend a good chunk of the time.*
