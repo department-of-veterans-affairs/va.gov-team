@@ -42,4 +42,4 @@ It's important to note that there will still be shared code:
 Also important to note that there is one area of VA.gov that is using the current main-app API controllers - the "My VA" dashboard calls a single secure messaging operation (to determine if any unread messages are present) and a single RX refill operation (to determine if any prescriptions are refillable). If any API refactoring occurs, these use cases should be accounted for. 
 
 ## Decision
-TBD
+Consensus seemed to be to refactor into a single module. 
