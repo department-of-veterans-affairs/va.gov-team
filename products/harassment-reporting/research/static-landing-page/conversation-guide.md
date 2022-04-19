@@ -34,36 +34,35 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information.
 
-I'm also joined by my social work colleague, *[Name]*. If you need support at any time during this call, please feel free to ask me to stop and for *[Name]* to help answer questions or provide support. I may also ask *[Name]* to help provide support if needed.
+I'm also joined by my social work colleague, [Name]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support. I may also ask [Name] to help provide support if needed.
 
-*(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session. 
+(For sessions with a participant using a screen reader:) Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
 Before we continue, I'd like to tell you a little more about who I am and what we’re doing...
 
-I'm a usability researcher, and I work as part of a team that is improving VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure our resources meet their needs. 
+I'm a usability researcher, and I work as part of a team that is improving VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure our resources meet their needs.
 
-For this feedback session, we're here because VA is working to stop harassment and make our locations and services safer for everyone. We define harassment as any unwelcome behavior that intimidates, offends, or creates a hostile space. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own experiences. 
+For this feedback session, we're here because VA is working to stop harassment and make our locations and services safer for everyone. We define harassment as any unwelcome behavior that intimidates, offends, or creates a hostile space. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, not your own experiences.
 
-**Are you comfortable trying out resources for reporting harassment and sharing your opinions about them?**
-
-*If no:*
-
-- **Is there anything we can do to make you feel more comfortable?**
-- *[Get verbal confirmation or end session]*
-
-*If yes:*
-
-We've asked you to participate because you’re a Veteran, not because we believe that you have been harassed. If you’ve experienced any type of harassment in the past, conversations in this session might remind you of these past experiences. We won’t share what you tell us with anyone. 
-
-**Are you comfortable proceeding with this session?**
+Are you comfortable trying out resources for reporting harassment and sharing your opinions about them?
 
 *If no:*
 
-- **Is there anything we can do to make you feel more comfortable?**
-- *[Get verbal confirmation or end session]*
+Is there anything we can do to make you feel more comfortable?
+*[Get verbal confirmation or end session]*
 
 *If yes:*
-Thank you! We very much appreciate you talking with us today. Before we start, I want to give you an idea of what this session will be like...
+
+We've asked you to participate because you’re a Veteran, not because we believe that you have been harassed. If you’ve experienced any type of harassment in the past, conversations in this session might remind you of these past experiences. We won’t share what you tell us with anyone.
+
+Are you comfortable proceeding with this session?
+
+*If no:*
+
+Is there anything we can do to make you feel more comfortable?
+*[Get verbal confirmation or end session]*
+
+*If yes:* Thank you! We very much appreciate you talking with us today. Before we start, I want to give you an idea of what this session will be like...
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
 - **In this session, we want to get your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing these resources to learn how we can make them better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
