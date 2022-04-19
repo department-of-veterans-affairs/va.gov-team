@@ -15,6 +15,7 @@
  ## April 20, 2022
 
 - Updates on changes in flight
+  - Top task beta results
 - Metrics for change management
 
 ## March 31, 2022
