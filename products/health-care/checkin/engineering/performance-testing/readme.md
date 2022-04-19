@@ -1,19 +1,17 @@
 # Check In Experience Performance Testing
 
-{% note %}
-
-**Note:** This document is WIP
-
-{% endnote %}
+<aside>
+👉🏽 This document is WIP
+</aside>
 
 ## 1. Purpose
 
 The purpose of this document is to provide an overview of the approach to test the performance of Check-in and Pre Check-in Experience. Our current target is the upcoming rollout to VISN8 with facilities in FL, PR, and Virgin Islands.
 
-## Introduction
+## 2. Introduction
 
-
-## Test Methodology
+*TODO*
+## 3. Test Methodology
 
 ### Load Estimates
 
@@ -64,16 +62,27 @@ Check-in system comprises of various sub-systems that are shown in the container
 
 ![C4 Container Diagram for check-in experience](../architecture-diagrams/containerDiagram_checkInExp.png "Check In Experience container diagram")
 
+We're going to load test the individual sub-systems in addition to the end to end load testing.
 
-vets-website → vets-api → mock lorota and mock chip
+#### vets-website/vets-api
 
-vets-website → vets-api → lorota/chip → mock CW and vista-connector
+This subsystem comprises of user facing va.gov website (vets-website) and vets-api. These components are supported and deployed by the VA platform team. vets-website is a React.js app which is hosted in S3. vets-api is a Rails application and hosts the modules/engines that support various VA functionality built by different teams. It is deployed *TODO: add deployment methodology* in US GovCloud.
 
-CHIP → Clinician Workflow
-CHIP → vista-connector
+The goal of testing this subsystem is to ensure that vets-website front-end and vets-api backend can handle increased load due to check-in traffic.
+
+![vets-website and vets-api subsystem](./subsystems/subsytem_website_api.png "vets-website/vets-api Subsystem")
+
+For more details on vets-website and vets-api performance test approach, see [vets-website/vets-api performance test approach](./website-api-perf-testing.md)
+#### LoROTA
+
+LoROTA application is a set of lambdas that provide api endpoints for low risk token authentication.
+
+#### CHIP
 
 
+**Clinician Workflow**
 
+**VistA API/VistA**
 
 ### Test Environment
 
@@ -84,3 +93,4 @@ We will be running these tests in Staging Environment.
 ### Test Data Setup
 
 
+### Monitoring
