@@ -61,7 +61,7 @@ The purpose of this work is to inform the information architecture, content and 
 
 
 
-<img width="2077" alt="Lean Research & IA Process Diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/VA%20Mobile%20app%20-%20Lean%20Research%20%26%20IA%20Process%203-7-22.png">
+<img width="2077" alt="Lean Research & IA Process Diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/VA%20Mobile%20app%20Lean%20Research%20%26%20IA%20Process%204-19-22.png">
 
 
 [VA Mobile app: Lean Research & IA Process diagram (mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1643405078940/0d87c1339c19b434e7d540729b4a033c63a611e0?sender=u28718b63c8993f515e0b2240)
