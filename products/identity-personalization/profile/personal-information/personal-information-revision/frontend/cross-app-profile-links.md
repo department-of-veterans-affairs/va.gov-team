@@ -14,16 +14,22 @@ src/applications/coronavirus-vaccination/components/Form.jsx:
   124              <a
   125:               href="/profile"
   126                target="_blank"
+  
+  - Recommendation: This doesn't need to change since /profile redirects to /profile/personal-information
 
 src/applications/disability-benefits/all-claims/content/contactInformation.jsx:
   81        of your VA accounts,{' '}
   82:       <a href="/profile">please go to your profile page.</a>
   83      </p>
 
+  - Recommendation: This doesn't need to change since /profile redirects to /profile/personal-information
+
 src/applications/disability-benefits/view-payments/components/view-payments-lists/ViewPaymentsLists.jsx:
   165              <p className="vads-u-margin-bottom--3">
   166:               <a href="/profile">
   167                  Go to your profile to make updates to your contact and direct
+  
+  - Recommendation: This doesn't need to change since /profile redirects to /profile/personal-information
 
 src/applications/gi/routes.jsx:
   12          <Redirect
