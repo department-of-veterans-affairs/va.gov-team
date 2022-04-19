@@ -51,20 +51,17 @@ The original goal of tool landing pages was primarily SEO and targeted at newer 
 
 **Example:**
 
-![image](https://user-images.githubusercontent.com/62957278/110676010-81a93580-81a1-11eb-84cc-965852ab8fde.png)
+<img width="389" alt="VA benefit debt" src="https://user-images.githubusercontent.com/62957278/164014211-21d4ff15-bb7e-447a-bb9b-55aedd322a06.PNG">
 
 ### Account info for tools
 
 #### Background
 
-Previously, we worked info about needed accounts into the eligibility information. But this is standard info about signing into VA.gov in general.
+Previously, we worked info about needed accounts into the eligibility information. But this is standard info about signing into VA.gov in general and we cover it in the sign-in widget.
 
 #### Recommendation
 
-Include "What type of account do I need to sign in?" as an additional information compontent. 
-
-![image](https://user-images.githubusercontent.com/62957278/110673379-b5cf2700-819e-11eb-9eb2-524ecb12aedf.png)
-
+Remove this information.
 
 ### Am I eligible to use this tool?
  
