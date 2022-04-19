@@ -27,25 +27,28 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 ### Team Members
 
 Name & Link to slack or teams profile
+
 - OCTO-DE/DEPO:
-  - 
-- Program Management:
-  - 
+  - Stephen Barrs
 - Product Management:
-  - 
+  - Donny Kwan
 - Design & Research:
-  - 
-- Engineering:
-  - 
+  - Mel Choyce (@melchoyce)
+- Product Advisor:
+  - Emily Theis
 
 ## What We're Working On
-- Summary of major intitiatives 
+- Reviewing existing BTSSS documentation and resources
+- Conduct a heuristic review of the current BTSSS system
+- Interview stakeholders across business, technology, and users
+- Synthesizing research data into suggestions and lofi design proposals
 
 ## Product Documentation
 - Roadmap
 - Objectives & Key Results
 - Product Guide 
-- 
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
+
 ## Who We Work With
 
 - VA Business Partners:
