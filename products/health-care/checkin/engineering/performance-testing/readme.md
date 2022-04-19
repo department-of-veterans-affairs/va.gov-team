@@ -88,7 +88,7 @@ LoROTA application is a set of lambdas that provide api endpoints for low risk t
 
 We will be running these tests in Staging Environment.
 
-> TODO: Environment diagrams showing differences in Staging and Production environments for different components.
+*TODO: Environment diagrams showing differences in Staging and Production environments for different components.*
 
 ### Test Data Setup
 
