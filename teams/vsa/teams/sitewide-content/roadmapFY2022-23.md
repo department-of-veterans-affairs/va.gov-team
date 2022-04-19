@@ -44,6 +44,7 @@ Veterans have more single-source-of-truth content.
 | Ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review  | Backlog |
 | Benefit hub optimization: Disability | ---- | ---- | ---- |
 | Benefit hub optimization (partial): Health care | ---- | ---- | ---- |
+| Implement new Cerner alert pattern and new tool landing page pattern across tool landing pages (need public websites partnership for health pages) | ---- | ---- | ---- |
 | "Get benefits" translation: Disability | ---- | ---- | ---- |
 | R&S pilot: Complete phase 1 (community care) | ---- | ---- | ---- |
 | R&S pilot: Expand pilot to include education service | ---- | ---- | ---- |
