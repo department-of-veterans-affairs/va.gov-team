@@ -18,10 +18,13 @@ An RFC's lifecycle is managed through the github PR process.
 Steps:
 * create a branch
 * create your RFC from this [template](zz-RFC-template.md)
-* name your rfcs file using this format: `YYYY-MM-DD-<definitive statement of your decsion`
-* keep the description minimal, all the content should be in the RFC md file itself
-* publish your PR
-* share widely. solicit comments
+* name your rfcs file using this format: `YYYY-MM-DD-<definitive statement of your decision>`
+* write!
+* push your branch
+* open a PR
+  - append `template=issue_template.md` to the "compare" url to add the description template (optional - description should be minimal or even blank, all the content should be in the RFC md file itself)
+  - name the PR similar to the title of your RFC: `RFC: YYYY-MM-DD <definitive statement of your decision>`
+* share widely. solicit comments directly from folks you think should be involved
 * resolve comments by updating your RFC file. treat the process like a code PR
 * after all comments are resolved, and all discussion has ended, merge your PR
 * after merge, if further discussion is needed, or if the decision in the RFC has changed, create a new RFC to reflect that
