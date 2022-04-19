@@ -22,22 +22,16 @@
 
 ### Results:
 - **Number of users:**
-     - ...
+     - 12 scheduled, 8 completed (5 were no-shows or couldn't complete the exercise due to technical difficulties logging in)
 - **Number of bugs identified / fixed:**
-     - ...
-- **Was the data submitted (if any) easy for VA to process?:** 
-     - ...
-- **Types of errors logged:**
-     - ...
+     - 0
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-     - ...
-- **If yes, what:** 
-     - ...
+     - No
 
 ## Phase II: Staged Rollout
 
 ### Planning
-**Launch Go/No go:** Week of 4/18
+**Launch Go/No go:** completed 4/19
      - [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Release%20Plan/Benefit%20payments%20and%20debts%20-%20Launch%20Go-No%20Go.md)
 
 **Desired date range:** 04/18/2022 - 05/06/2022
@@ -59,7 +53,7 @@
 ## Go Live!
 
 ### Planning:
-- **Desired date:** 4/18/22
+- **Desired date:** _4/20/22_
 - **Actual date:**
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
