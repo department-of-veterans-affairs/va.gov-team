@@ -13,8 +13,9 @@ Given this, how can the teams working on these overlapping concerns best manage 
 1. Mobile app continues to maintain mobile-specific API routes and controllers in its module in vets-api.
 2. Current (mostly dormant) health APIs that live in the main Rails application get extracted into a second module that can be maintained by the MHV development teams as they join the VA.gov ecosystem.
 3. The proxy code in `/lib/sm`, `/lib/rx`, `lib/health_records` and any other MHV related directories remains as is and becomes a shared dependency of the two teams.<br/>
-  a. For accountability, we suggest adding a CODEOWNERS entry for each of these `lib` directories to ensure that **both** teams are required to approve any PRs that affect shared code.
-4. For now, keep any decisions about caching in the module-specific code (i.e. in either mobile or health apartment module), since each client may have different requirements here. Longer term, 
+  a. For accountability, we suggest adding a CODEOWNERS entry for each of these `lib` directories to ensure that **both** teams are aware of any PRs that affect shared code.
+  b. If upstream functionality changes, we can introduce versioning of this code using Ruby module namespacing (e.g. `SM::V1::Client` vs. `SM::V2::Client`). 
+4. For now, keep any decisions about caching in the module-specific code (i.e. in either mobile or health apartment module), since each client may have different requirements here.
 5. For now, don't inline any capabilities around MHV account creation in the shared upstream integration library code. This code can be present in the shared library code, but it should be invoked explicitly by either the mobile app or VA.gov when needed. 
 
 ```
@@ -57,6 +58,3 @@ Probably not:
 2. **Will this be tenable long term?**
 The shared code in `lib` is a coordination point among the teams. Mostly this code is a straightforward reflection of the upstream capabilities in the MHV API, but there's still potential for subtly different requirements to arise. 
 Longer term, the platform is moving in the direction of decomposing vets-api into independently-deployed applications. It's likely that both the mobile team and the MHV team will have separate deployable applications. At this point, we suggest refactoring the shared code in `lib` into a Ruby gem. By doing so, both teams can continue to contribute to this shared resource with appropriate code review process in place. The two applications will then be free to consume different versions of the Ruby gem as needed according to their respective release processes, further decoupling them. 
-
-
-
