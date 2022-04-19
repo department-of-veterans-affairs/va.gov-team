@@ -17,6 +17,10 @@ The purpose of this document is to provide an overview of the approach to test t
 
 Mobile Check-in will be enabled in the VISN8 stations in a staggered manner. The table below shows weekly deployment schedule and the actual appointments in those stations for the week of 4/22/2022.
 
+<details>
+  <summary>Deployment Schedule and Appointments</summary>
+  
+
 |                                  | **May 2** | **May 9** | **May 16** | **May 23** | **May 31** | **June 6** | **June 13** | **June 20** | **June 27** | **July 5** | **July 11** | **July 18** | **July 25** | **Aug 1** | **Aug 8** | **Aug 15** | **Aug 22** |
 |----------------------------------|-----------|-----------|------------|------------|------------|------------|-------------|-------------|-------------|------------|-------------|-------------|-------------|-----------|-----------|------------|------------|
 | Station ID's (STA3N )            | 516       | 508       | 502        | 504        | 501        | 358        | 436         | 589         | 437         | 537        | 506         | 596         | 558         | 512       | 460       | 526        | 402        |
@@ -34,18 +38,17 @@ Mobile Check-in will be enabled in the VISN8 stations in a staggered manner. The
 | Total sites                      | 126       | 95        | 101        | 94         | 126        | 97         | 135         | 81          | 109         | 71         | 130         | 76          | 71          | 62        | 81        | 106        | 85         |
 | Total Daily Average Appts (est.) | 29,956    | 19,072    | 17,666     | 18,656     | 22,280     | 16,041     | 13,360      | 11,370      | 14,242      | 15,591     | 24,089      | 12,580      | 18,841      | 8,909     | 12,493    | 14,213     | 12,717     |
 
+</details>
 
 The cumulative total number of daily appointments at the end of the rollout for all stations is **282,076**.
-
-Questions:
-- What % of these appointments will be eligible for mobile check-in?
-- What estimated % of these appointments will result in a pre check-in link being sent out?
 
 Check-in scenario: Assuming that these are equally distributed throughout the business day (8 - 5), the hourly load is 35,260 check-ins per hour.
 
 Pre check-in scenario: The pre check-in process is run in the morning with VEText calling the CHIP initiate-pre-checkin lambda. TBD the load profile for pre check-in components.
 
 Questions:
+- What % of these appointments will be eligible for mobile check-in?
+- What estimated % of these appointments will result in a pre check-in link being sent out?
 - Do we also need to include the reminders that are sent out 2nd or 3rd time (3 days or 1 day before the appointment)?
 - How does VEText invoke the CHIP lambda to initiate pre-checkin? Is this multi-threaded, how many threads and can that be staggered?
 
