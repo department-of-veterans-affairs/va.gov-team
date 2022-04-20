@@ -428,7 +428,7 @@ The harassment reporting process as currently described in the landing page and 
 
 3. The new **web page and poster on harassment reporting are only one part of a larger communication plan needed across all of VA** and individual facilities that should speak to ALL Veterans, including women who have been repeatedly harassed at VA, about what systemic changes are happening. 
     1. Don't promise that you're fixing the world but say what you're trying to do. We shouldn't oversell how fast VA can change, but we do want to indicate that we're trying to make it better.
-    2. One research participant suggested handing out a little card that has the the harassment reporting phone numbers, as is currently done for the VCL.
+    2. One research participant suggested handing out a little card that has the harassment reporting phone numbers, as is currently done for the VCL.
 
 5. VA has to **prove by *action* that that they'll do something useful with harassment reports**. It's not enough to say on a web page that VA will do something. Take a look at VA sites with a lot of harassment reports and see how they're run. Perhaps their leaders and employees need training on recognizing and handling harassment.
 
