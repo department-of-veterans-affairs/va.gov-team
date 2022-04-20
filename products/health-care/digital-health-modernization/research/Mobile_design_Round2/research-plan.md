@@ -2,11 +2,10 @@
 April, 2022
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information and do tasks related to managing health care. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
-> *It's unclear how this study builds on the December study, which focused on preferences for info on the homepage, as opposed to having users do tasks and navigate. Note that the December study had 3 mobile, 3 desktop participants. If we do feel that Round 2 directly builds on the December study, let's explain how and link to the findings preso b/c the link above goes to a page that doesn't show or link to findings: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Post%20Guerrilla%20Testing%20Design%2C%20Research%2C%20findings%20presentation%2012.20.21.pdf* 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information and do tasks related to managing health care. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like, which we are testing as part of this research. 
 
-You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
-> *Since we don't have a strategy link, let's link to the product brief instead of linking to the product directory. We should also change the wording here ^^ to say we're linking to the product brief: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md*
+You can read more about Digital Health Modernization [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).
+
 
 ### OCTO Objectives 
 
@@ -109,8 +108,6 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 - Thursday 5/5: 11am - 2:30pm ET
 - Friday 5/6: 8am - 6pm ET 
 
-> *Note that My HealtheVet PI planning is the first week of May: Monday afternoon (ET), plus full days Tues-Thurs. Not necessarily a deal breaker, but something to discuss with the team, as several of us are planning to attend a good chunk of the time.*
-
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -120,5 +117,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Tracey Mulrooney, tracey.mulrooney@va.gov
 - Participant(s) for pilot test: TBD	
 - Note-takers: Please provide from Perigean if possible
-- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Bobby Bailey, Robert.m.bailey@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com; Patrick Vinograd, patrick@adhocteam.us; Christopher Froehlich, Christopher.Froehlich@va.gov
+- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Bobby Bailey, Robert.m.bailey@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com; Patrick Vinograd, patrick@adhocteam.us; Christopher Froehlich, Christopher.Froehlich@va.gov, Marci McGuire, marci.mcguire@adhocteam.us; Mikki Northius, mikki@adhocteam.us
 
