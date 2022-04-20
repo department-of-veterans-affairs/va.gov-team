@@ -65,6 +65,8 @@ Because TOPIC is a potentially triggering subject, we want to be careful about r
 - Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). Plan to get consent from the participant while all observers are in the Zoom waiting room; if the participant gives consent, then let the observers in.
   - For each session with a participant using a screen reader, invite an accessibility specialist instead of the team observer to assist with any technical issues.
 - Request a content review of all Veteran-facing language in the research plan and conversation guide.
+- Schedule daily debrief meetings with the team to share observations and decompress, and encourage team members to attend.
+- Consider sharing session moderation with another researcher so that you can take turns moderating.
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
