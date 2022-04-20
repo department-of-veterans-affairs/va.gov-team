@@ -98,6 +98,7 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 
 ### Availability
 
+- Monday 5/2: 8am - 2:30pm ET
 - Tuesday 4/26: 8am - 3:30pm ET
 - Wednesday 4/27: 8am - 4pm ET
 - Thursday 4/28: 8am - 2:30pm ET
