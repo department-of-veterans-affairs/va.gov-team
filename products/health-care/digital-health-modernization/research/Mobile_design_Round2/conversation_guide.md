@@ -44,10 +44,9 @@ Before we start, a few things I want to mention:
 - Do you use secure messaging now? What for? How often? What would you change about it?
 - You got an email from the VA that there's a new way to look at all your health care needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
 
-> *Will we ask Veterans to sign in at this point? Or in the beginning of "Health Apartment homepage, auth"? In Round 1, we had them look at the unauth page, then asked them to sign in.*
-
 
 ## Health Apartment homepage, auth - 5 minutes
+*Veterans will be taken directly an authorized homepage screen.*
 
 - What's different about this page? What website is this?
 - Where do you think the information you're seeing is coming from?
