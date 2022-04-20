@@ -1,4 +1,4 @@
-# Trauma-Informed Conversation Guide 
+# Trauma-Informed Conversation Guide TEMPLATE
 
 ## Moderator logistics
 
@@ -28,14 +28,14 @@
 
 Thanks for joining us today! My name is [NAME]. 
 
-I'm joined by my social work colleague, [Name, who appears on camera with what they want to be called by the participant, not "Observer"]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support. I may ask [Name] to help provide support if needed.
+I'm joined by my social work colleague, [NAME, who appears on camera with what they want to be called by the participant, not "Observer"]. If you need support at any time during this call, please feel free to ask me to stop and for [NAME] to help answer questions or provide support. I may ask [NAME] to help provide support if needed.
 
 I have a teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information. 
 
 *(For sessions with a participant using a screen reader:)* [Usability Specialist NAME] is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
 
-I would like to get your preference on how many people are on this call. We can conduct a private session between the folks on this call right now, or we can invite [insert explicit number] of my teammates to join us. They find it helpful to be able to watch these sessions to learn more about how Veterans use VA.gov, but we can also just share our notes with them after this session ends. Both are perfectly OK. What matters most to us is what’s most comfortable for you. 
+I would like to get your preference on how many people are on this call. We can conduct a private session between the folks on this call right now, or we can invite one of my teammates to join us. They find it helpful to be able to watch these sessions to learn more about how Veterans use VA.gov, but we can also just share our notes with them after this session ends. Both are perfectly OK. What matters most to us is what’s most comfortable for you. 
 
 Would you prefer a private session between us, or are you comfortable with another team member joining the call?
 *If OK with someone else joining:* 
@@ -114,7 +114,7 @@ Before we start, a few things I want to mention:
   - Is this not a good time for this session?
 
 ### Social worker/clinician on the session (or on standby) jumps in to provide support, if notice triggering 
-- As a reminder, *[Name]* is a professional here to support you.
+- As a reminder, *[NAME]* is a professional here to support you.
 - I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
 - If you find that you're in crisis and need to talk to someone right away, you can also call our Veterans Crisis Line.
 
