@@ -81,10 +81,9 @@ Before we start, a few things I want to mention:
 - Do Veterans understand the difference between VA Health Summary and Blue Button and why/when they would need them?
 - Do they understand they are seeing recent stuff and not all, and how would they get to all?
 - Are Veterans successfully able to complete the tasks?
-
-> *Under "Things to watch for," should we add something like this? (This also applies to Pharmacy, Appointments, and Messages.)
-> Do Veterans use or look inside the "In this section" navigation? Or do they click on the breadcrumb? Or use the back button?
-> Are Veterans able to easily close the section menu by clicking on the "X"?*
+- Do Veterans use or look inside the "In this section" navigation? 
+- Do they click on the breadcrumb? Or use the back button?
+- Are Veterans able to easily close the section menu by clicking on the "X"?
 
 
 ## Pharmacy - 5-10 minutes 
@@ -103,6 +102,9 @@ Before we start, a few things I want to mention:
 - Do Veterans understand the different types of actions (refill, track, renew, and view all Rx) they can do here? Does it makes sense to them to have that on one page? 
 - Are Veterans successfully able to complete the tasks?
 - Is the info listed on this page useful for Veterans?
+- Do Veterans use or look inside the "In this section" navigation? 
+- Do they click on the breadcrumb? Or use the back button?
+- Are Veterans able to easily close the section menu by clicking on the "X"?
 
 
 ## Appointments - 5-10 minutes
@@ -118,6 +120,9 @@ Before we start, a few things I want to mention:
 
 - Do Veterans understand that the hamburger menu has additional tools related to Appointments?
 - Are Veterans successfully able to complete the tasks?
+- Do Veterans use or look inside the "In this section" navigation? 
+- Do they click on the breadcrumb? Or use the back button?
+- Are Veterans able to easily close the section menu by clicking on the "X"?
 
 
 ## Messages - 5-10 minutes
@@ -135,9 +140,12 @@ Before we start, a few things I want to mention:
 
 - Do Veterans understand this is the same functionality as MHV secure messaging? 
 - Are Veterans successfully able to complete the tasks?
-
-> *Should we add these under "Things to watch for":
-> How do Veterans use search and/or the sort/filter menus? What sort/filter options do they expect? If they clicked on the search link, which messages would they expect to search?
+- How do Veterans use search and/or the sort/filter menus?
+- What sort/filter options do they expect?
+- If they clicked on the search link, which messages would they expect to search?
+- Do Veterans use or look inside the "In this section" navigation? 
+- Do they click on the breadcrumb? Or use the back button?
+- Are Veterans able to easily close the section menu by clicking on the "X"?
 
 
 ## Post-Task Interview - 2 minutes
