@@ -1,4 +1,4 @@
-# Trauma-Informed Research Plan for [Team, Product, Date]
+# Trauma-Informed Research Plan TEMPLATE for [Team, Product, Date]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
