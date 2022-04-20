@@ -116,6 +116,10 @@ VANotify to complete their work in the next two sprints
  - If possible, make this update
  - Note: V2 has not launched to prod yet, but is on staging. This will need to be gated to not go to prod before VAOS V2 goes to prod.
 
+## Sprint 73 (5/4 - 5/17)
+
+[#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
+
 ### My VA audit
 
 **Design**
@@ -125,10 +129,6 @@ VANotify to complete their work in the next two sprints
   - Start with nametag and payment info (since we are working on it anyway)
   - Each section should always appear on the page
   - Each section should have the following: loading state; blank state(s); content state(s); error state(s). Note: the nametag might be a little different, as there's never a totally blank state, and we don't show big error alerts for content we can't load.
-
-## Sprint 73 (5/4 - 5/17)
-
-[#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
 
 ## Sprint 74 (5/18 - 5/31)
 
