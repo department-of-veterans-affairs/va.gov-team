@@ -17,8 +17,11 @@
 - NOTE: record the session for Jenny
 - Updates on changes in flight
   - Top task beta results (Suzanne)
-  - Top task rollout
-- Metrics for change management
+  - Top task rollout: Cerner blocking 2 of the 3 pages. Blake's recommendation is to roll out all 3 at same time (Kevin)
+  - Claro launch: CM complete
+  - Recurring events (Kevin)
+  - Care we provide (Kevin)
+- Next meeting: metrics for change management
 
 ## March 31, 2022
 
