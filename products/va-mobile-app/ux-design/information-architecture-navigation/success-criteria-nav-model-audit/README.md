@@ -50,7 +50,7 @@ We will use the following criteria to systematically audit our navigation design
 9. Navigation model **doesn’t negatively impact responsiveness/speed**
 
 
-### Inputs 
+#### Inputs 
 
 - [Mobile Redesign - Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)
 - [VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md)
