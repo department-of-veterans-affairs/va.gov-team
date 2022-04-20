@@ -57,6 +57,3 @@ We will use the following criteria to systematically audit our navigation design
 - [VA Mobile Comparative Analysis: Navigation UI Patterns - 2022](https://docs.google.com/presentation/d/1RHVh32V_ou0OGeuwpsA4naKRSfd_cst5UERsvSAVTk0/edit#slide=id.p1)
 - [Navigation Design Workshop (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1648667549883/2f4416cd2a5b9bddce0e2ecc0f078d4f7218a2fe?sender=uff1791dd79ec763420518644)
 - [Comparative Feature Analysis Summary - 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/summary.md)
-
-
-
