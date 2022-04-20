@@ -3,6 +3,7 @@
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+*Let observers know that they'll be in the waiting room until the participant agrees to have them in the session.*
 
 *Mute your Slack notifications*
 
@@ -25,11 +26,23 @@
 
 Thanks for joining us today! My name is [NAME]. 
 
-Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information.
-
-I'm also joined by my social work colleague, [Name]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support. I may ask [Name] to help provide support if needed.
+I'm joined by my social work colleague, [Name, who appears on camera with what they want to be called by the participant, not "Observer"]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support. I may ask [Name] to help provide support if needed.
 
 *(For sessions with a participant using a screen reader:)* [Usability Specialist] is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
+
+I would like to have a couple of my teammates join us in this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback; we won't link any notes to your name or other personal information. Would you be comfortable with one observer in this research session? The observer works on the VA [PRODUCT] that you'll be reviewing and is interested hearing your feedback live. Or would you prefer a more private session with only me and a notetaker without any observers? If you prefer a more private session, your feedback will be shared afterwards with your permission.
+
+Are you comfortable with the notetaker and one observer joining us? 
+
+*If no:*
+
+Is there anything we can do to make you feel more comfortable?
+
+*(If not comfortable, slack notetaker and observer to let them know that they won't be able to join.)*
+
+*If yes:*
+
+Thank you! I will now invite them in. *(Let notetaker and observer into the meeting with their cameras off and names set to "Notetaker" and "Observer").* 
 
 Before we continue, I'd like to tell you a little more about who I am and what we’re doing...
 
@@ -57,8 +70,7 @@ Is there anything we can do to make you feel more comfortable?
 
 *If yes:* Thank you! We very much appreciate you talking with us today. 
 
-
-I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Today we're going to talk about [description of your project]. 
 
 Before we start, a few things I want to mention:
 
@@ -119,6 +131,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: [TASK NAME] - X minutes
 
+*If the task might be triggering to the participant, present a made-up hypothetical situation and NOT ask participants about their own experiences until the end of the session.*
+
 - Step 1
 - Step 2
 
@@ -155,10 +169,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Question 1
 - Question 2
-- Any questions for me? 
+
+*(If you want to ask the participant about their own experiences with the potentially traumatic topic, do it here near the end of the session and say that it's optional like this...)*
+
+- We would like the TOPIC resources to meet the needs of ALL Veterans who may have been TOPIC at a VA site. If you've ever experienced any type of TOPIC at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. Are you comfortable if I ask a few more questions?
+
+Have you or anyone you know ever [TRAUMATIC TOPIC]?
 
 *(If they share a painful experience, say...)*
 - I am sorry you (or your friend) had this experience. We appreciate you sharing this with us. Your story will inform how we provide resources to help Veterans in the future. 
+
+- Any questions for me? 
+
 
 ## Thank-You and Closing - X minutes
 
