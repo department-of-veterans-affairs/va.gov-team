@@ -169,7 +169,7 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
 - [Graphana](https://grafana.vfs.va.gov/d/Zvfdzf_Gz/nod-notice-of-disagreement?orgId=1) (socks proxy required)
 - [DOMO dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F447193050)
 
-### Outstanding tickets
+### Outstanding tickets (not launch blocking)
 
 - Needs review/stakeholder review
   - [ ] Release NOD into production - `form10182_nod` feature flag
@@ -177,7 +177,7 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
   - [ ] QA review ([#21046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21046))
-  - [ ] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
+  - [x] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
 - Fixed bug ticket followup (to ensure they are fixed)
   - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
