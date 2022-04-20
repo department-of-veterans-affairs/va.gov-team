@@ -61,5 +61,5 @@ We will use the following criteria to systematically audit our navigation design
 
 
 ## Navigation Model UI - Audit
- <a href="/https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20exploration%20%2B%20audit.pdf">VA Mobile IA/Nav Explorations + Audit (pdf) </a>
+ <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20exploration%20%2B%20audit.pdf">VA Mobile IA/Nav Explorations + Audit (pdf) </a>
 
