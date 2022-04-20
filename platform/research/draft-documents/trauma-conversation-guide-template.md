@@ -3,17 +3,19 @@
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-*Let observers know that they'll be in the waiting room until the participant agrees to have them in the session.*
-
 *Mute your Slack notifications*
 
 *Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
+
+*Let observer(s) know that they'll be in the waiting room until/if the participant agrees to have them in the session.*
 
 *In the Attendees section, make sure everyone except the participant is on mute.*
 
 *In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
 
 *Check your [screensharing setup] and share permissions for participants.*
+
+*Admit the notetaker and the participant*
 
 *When the participant is ready, begin the session with the following intro*
 
@@ -28,21 +30,25 @@ Thanks for joining us today! My name is [NAME].
 
 I'm joined by my social work colleague, [Name, who appears on camera with what they want to be called by the participant, not "Observer"]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support. I may ask [Name] to help provide support if needed.
 
-*(For sessions with a participant using a screen reader:)* [Usability Specialist] is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
+I have a teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information. 
 
-I would like to have a couple of my teammates join us in this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback; we won't link any notes to your name or other personal information. Would you be comfortable with one observer in this research session? The observer works on the VA [PRODUCT] that you'll be reviewing and is interested hearing your feedback live. Or would you prefer a more private session with only me and a notetaker without any observers? If you prefer a more private session, your feedback will be shared afterwards with your permission.
+*(For sessions with a participant using a screen reader:)* [Usability Specialist NAME] is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
-Are you comfortable with the notetaker and one observer joining us? 
 
-*If no:*
+I would like to get your preference on how many people are on this call. We can conduct a private session between the folks on this call right now, or we can invite [insert explicit number] of my teammates to join us. They find it helpful to be able to watch these sessions to learn more about how Veterans use VA.gov, but we can also just share our notes with them after this session ends. Both are perfectly OK. What matters most to us is what’s most comfortable for you. 
 
-Is there anything we can do to make you feel more comfortable?
+Would you prefer a private session between us, or are you comfortable with another team member joining the call?
+*If OK with someone else joining:* 
+- Admit observer(s)
 
-*(If not comfortable, slack notetaker and observer to let them know that they won't be able to join.)*
+*If not:*
+- Is there anything we can do to make you feel more comfortable?
+
+*(If not comfortable, slack observer(s) in #feedback-backchannel to let them know that they won't be able to join.)*
 
 *If yes:*
 
-Thank you! I will now invite them in. *(Let notetaker and observer into the meeting with their cameras off and names set to "Notetaker" and "Observer").* 
+Thank you! I will now invite them in. *(Let observer into the meeting with their camera off and name set to "Observer").* 
 
 Before we continue, I'd like to tell you a little more about who I am and what we’re doing...
 
