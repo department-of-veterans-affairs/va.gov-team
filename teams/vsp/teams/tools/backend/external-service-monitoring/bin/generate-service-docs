@@ -2,6 +2,13 @@
 
 # frozen_string_literal: true
 
+require 'bundler/inline'
+gemfile do
+  source 'https://rubygems.org'
+
+  gem 'tty-table'
+end
+
 require 'csv'
 require 'erb'
 require 'json'
@@ -65,6 +72,8 @@ markdown = ERB.new(template).result(binding)
 
 File.write('tmp/all-overview.md', markdown)
 
+`command -v mdpdf || npm install mdpdf -g`
+
 # Use `mdpdf` to generate nice-looking PDF from Markdown files
 puts 'Writing out the PDFs...'
 `for f in tmp/*.md; do mdpdf --format=legal $f && rm $f; done;`
@@ -72,12 +81,11 @@ puts 'Writing out the PDFs...'
 # Merge PDFs using ghostscript
 puts 'PDFs written, merging into a single report...'
 outfile = "#{REPORT_DATE}-vsp-external-slo-report.pdf"
-`gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=#{outfile} tmp/*.pdf`
+`export PATH="/usr/local/Cellar/ghostscript/9.53.3_1/bin:$PATH"; gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=#{outfile} tmp/*.pdf`
 
 puts 'Cleaning up... '
 `mv tmp/ reports/#{REPORT_DATE}/`
 `mv #{outfile} reports/`
 
 # Cleanup
-puts "Done! - Report for #{REPORT_DATE} is found in #{REPORTS_OUT_PATH}#{outfile}"
-
+puts "Done! - Report for #{REPORT_DATE} is found in #{REPORTS_OUT_PATH}/#{outfile}"
