@@ -1,6 +1,6 @@
 # 2022 Production Rollout Support
 
-May 2nd 2022 will begin a staggered production roll out of eCheck-in and VSE-CS. Both products will be released to an average of 7 new VA stations per week, with the last week scheduled for August 22nd 2022. Refer [here](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#2022-production-rollout-support) for the schedule.
+May 2nd 2022 will begin a staggered production roll out of eCheck-in and VSE-CS. Both products will be released to an average of 7 new VA stations per week, with the last week scheduled for August 22nd 2022. Refer [here](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#2022-production-rollout-support) for the exact schedule.
 
 A dedicated 'Go Live' Microsoft Teams channel will be available during the first week of production for every new site. After the first week, sites will transition to utilize ServiceNow for all eCheck-in and VSE-CS product support. ServiceNow incidents will be funnelled initially to the Tier 2 queue/group called "Scheduling Support". Incidents will be subsequently routed to the "eCheck-in Vet Facing Apps" queue/group if determined to be issues with the front-end Patient Check-in and Pre-Check-in applications or the vets-api API. 
 
