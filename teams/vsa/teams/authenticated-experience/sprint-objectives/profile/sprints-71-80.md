@@ -139,10 +139,6 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ## Sprint 73 (5/4 - 5/17)
 
-### Onboarding
-
-- Onboard Erica #40106
-
 ### Bad address indicator
 
 **PM**
@@ -172,6 +168,10 @@ Tom should finish all backend work for personal information revisions first. So,
 - Work on diagrams for profile products
 
 ## Sprint 74 (5/18 - 5/31)
+
+### Onboarding
+
+- Onboard Erica #40106
 
 ## Sprint 75 (6/1 - 6/14)
 
