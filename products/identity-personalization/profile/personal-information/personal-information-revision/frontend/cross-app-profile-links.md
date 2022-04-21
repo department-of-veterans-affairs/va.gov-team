@@ -133,8 +133,8 @@ src/applications/static-pages/health-care-manage-benefits/refill-track-prescript
   251:                   Go to your <a href="/profile/">VA.gov profile</a>.<br />
   252                    Click <strong>Edit</strong> next to each address you’d like to
 
-  - Recommendation: This doesn't need to change since /profile redirects to /profile/personal-information
-
+  - Recommendation: Update this to /profile/contact-information after the personal info revisions launch.
+  
 src/applications/vaos/covid-19-vaccine/components/ContactInfoPage.jsx:
   42          <br />
   43:         <NewTabAnchor href="/profile">Go to your VA profile</NewTabAnchor>.
