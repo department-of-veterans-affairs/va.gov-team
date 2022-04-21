@@ -118,6 +118,7 @@ Location	|	Event Action	|	Unique Events
 The following data visualizations are from the Baseline wayfinding analysis, April 2021. 
 
 - [Top 4 boxes analytics visualization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/Top4-boxes-analytics-visualization.pdf) - covers data from 5/19-21 - 6/3/21
+
 - [Home page click visualizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(4).pptx)
 - [Veterans Crisis line anaytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/VCL-analytics-findings.md)
 
@@ -125,5 +126,5 @@ The following data visualizations are from the Baseline wayfinding analysis, Apr
 
 ##  Other search tools
 
-[Pageviews for other search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md#usage-data-apr-1-2020---apr-1-2021) | 4/1/20 - 4/1/21
+- [Pageviews for other search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md#usage-data-apr-1-2020---apr-1-2021) | 4/1/20 - 4/1/21
 
