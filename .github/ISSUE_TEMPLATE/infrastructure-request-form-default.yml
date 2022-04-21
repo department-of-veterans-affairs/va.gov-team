@@ -48,6 +48,14 @@ body:
     validations:
       required: false
   - type: input
+    id: devops-resource
+    attributes:
+      label: Devops resource
+      description: Who is your team's devops resource?
+      placeholder: e.g. Hannah Ilja
+    validations:
+      required: false
+  - type: input
     id: related-issue
     attributes:
       label: Related issue 
