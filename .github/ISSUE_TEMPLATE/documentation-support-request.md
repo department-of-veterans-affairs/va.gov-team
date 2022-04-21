@@ -34,5 +34,9 @@ assignees: gmaciolek
 - [ ] Yes, and describe ____________________
 - [ ] No
 
+**7. Are there plans to update other documents/pages that have similar content?**
+- [ ] Yes
+- [ ] No
+
 
 ## Relevant URLs
