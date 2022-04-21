@@ -148,4 +148,8 @@ VANotify to complete their work in the next two sprints
 
 ## Sprint 79 (7/27 - 8/9)
 
+### PTO
+
+- Samara: Aug 1 - 5
+
 ## Sprint 80 (8/10 - 8/23)
