@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Task to Update Production Release Assets (e.g. Product Guide)
 about: For Check In Experience Production Release Assets Update Tasking
-title: "[UX]"
+title: "[UX] Update Release Artifacts"
 labels: HCE-Checkin, ux, research
 assignees: ''
 
