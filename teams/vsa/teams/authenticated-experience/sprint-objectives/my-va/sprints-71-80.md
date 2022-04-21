@@ -123,6 +123,10 @@ VANotify to complete their work in the next two sprints
 ### PTO
 
 - Angela: 5/3 - 5/10
+- Erica: 5/3 - 5/10
+- AJ: 5/4 - 5/6
+
+## Sprint 74 (5/18 - 5/31)
 
 ### My VA audit
 
@@ -133,8 +137,6 @@ VANotify to complete their work in the next two sprints
   - Start with nametag and payment info (since we are working on it anyway)
   - Each section should always appear on the page
   - Each section should have the following: loading state; blank state(s); content state(s); error state(s). Note: the nametag might be a little different, as there's never a totally blank state, and we don't show big error alerts for content we can't load.
-
-## Sprint 74 (5/18 - 5/31)
 
 ## Sprint 75 (6/1 - 6/14)
 
