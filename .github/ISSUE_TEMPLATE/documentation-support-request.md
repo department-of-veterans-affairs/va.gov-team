@@ -30,5 +30,7 @@ assignees: gmaciolek
 
 **5. Who is the point of contact for this documentation?** ____________________
 
+**6. Are there other documents, tickets, or artifacts that will be impacted by this update?**
+
 
 ## Relevant URLs
