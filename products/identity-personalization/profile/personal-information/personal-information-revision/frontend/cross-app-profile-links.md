@@ -64,7 +64,7 @@ src/applications/lgy/coe/form/config/chapters/contact-information/mailing-addres
   14:       <a href="/profile/contact-information#addresses">
   15          Update your address in your profile
   
-  - Recommendation: This needs to be updated since this URL no longer exists. Should update to /profile/contact-information once the personal info revisions work goes out.
+  - Recommendation: This is fine. The URL works and takes people to the address heading in contact information.
       
 src/applications/my-education-benefits/config/form.js:
   421                    <p>
@@ -107,26 +107,26 @@ src/applications/personalization/profile/components/direct-deposit/PaymentInform
   90:       <a href="/profile/personal-information#edit-mailing-address">
   91          your profile
 
-  - Recommendation: This needs to be updated since this URL will break after personal information goes out. Should update to /profile/contact-information.
+  - Recommendation: This needs to be updated since this URL will not exist after personal information goes out. Should update to /profile/contact-information.
 
 src/applications/personalization/profile/tests/components/direct-deposit/PaymentInformationEditError.unit.spec.jsx:
   285      expect(wrapper.html()).to.contain(
   286:       'We’re sorry. We couldn’t update your direct deposit bank information because your mailing address is missing or invalid. Please go back to <a href="/profile/personal-information#edit-mailing-address">your profile</a> and fill in this required information.',
   287      );
   
-  - Recommendation: This needs to be updated since this URL will break after personal information goes out. Should update to /profile/contact-information.
+  - Recommendation: This needs to be updated since this URL will not exist after personal information goes out. Should update to /profile/contact-information.
   
   297      expect(wrapper.html()).to.contain(
   298:       'We’re sorry. We couldn’t update your direct deposit bank information because your work phone number is missing or invalid. Please go back to <a href="/profile/personal-information#edit-work-phone-number">your profile</a> and fill in this required information.',
   299      );
 
-  - Recommendation: This needs to be updated since this URL will break after personal information goes out. Should update to /profile/contact-information.
+  - Recommendation: This needs to be updated since this URL will not exist after personal information goes out. Should update to /profile/contact-information.
 
   307      expect(wrapper.html()).to.contain(
   308:       'We’re sorry. We couldn’t update your direct deposit bank information because your home phone number is missing or invalid. Please go back to <a href="/profile/personal-information#edit-home-phone-number">your profile</a> and fill in this required information.',
   309      );
   
-  - Recommendation: This needs to be updated since this URL will break after personal information goes out. Should update to /profile/contact-information.
+  - Recommendation: This needs to be updated since this URL will not exist after personal information goes out. Should update to /profile/contact-information.
 
 src/applications/static-pages/health-care-manage-benefits/refill-track-prescriptions-page/components/AuthContent/index.js:
   250                  <li>
