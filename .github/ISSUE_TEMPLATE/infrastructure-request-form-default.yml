@@ -50,8 +50,8 @@ body:
   - type: input
     id: devops-resource
     attributes:
-      label: Devops resource
-      description: Who is your team's devops resource?
+      label: DevOps resource
+      description: Who is your team's DevOps resource?
       placeholder: e.g. Hannah Ilja
     validations:
       required: false
