@@ -1,6 +1,6 @@
 ----
 # We're moving our docs! 
-### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/security/Personal-Identifiable-Information-(PII)-guidelines.894271679.html) on the Platform website.
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Personal-Identifiable-Information-(PII)-guidelines.894271679.html) on the Platform website.
 
 ### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
