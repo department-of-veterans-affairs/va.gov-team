@@ -4,13 +4,13 @@
 ## Attendees
 
 - Tracey Mulrooney
-- Christopher Froelich
-- Jonathan Nelson - 
-- Lauryl Zenobi
-- Patrick Vinograd
 - Meg Peters
-- 
-
+- Christopher Froelich
+- Patrick Vinograd
+- Jonathan Nelson
+- Lauryl Zenobi
+- Megan Graham
+- Marci McGuire
 
 ## Updates
 
