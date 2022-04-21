@@ -28,5 +28,7 @@ assignees: gmaciolek
 - [ ] Yes, and describe ____________________
 - [ ] No
 
+**5. Who is the point of contact for this documentation?** ____________________
+
 
 ## Relevant URLs
