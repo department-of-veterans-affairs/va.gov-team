@@ -1,7 +1,7 @@
 # Baseline homepage event data 
 
 ## Table of contents
-[Traffic to the homepage and login rates](#traffic-to-the-homepage-and-login-rates)
+[Traffic to the homepage and log-in rates](#traffic-to-the-homepage-and-login-rates)
 
 [Header events](#header-events)
 
