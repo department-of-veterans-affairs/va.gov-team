@@ -183,4 +183,8 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ## Sprint 79 (7/27 - 8/9)
 
+### PTO
+
+- Samara: Aug 1 - 5
+
 ## Sprint 80 (8/10 - 8/23)
