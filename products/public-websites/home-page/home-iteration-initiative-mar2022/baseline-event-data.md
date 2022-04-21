@@ -15,7 +15,11 @@
 
 [Events on Main page buttons](#events-on-main-page-buttons)
 
+[Data visualizations](#data-visualizations) 
+
+
 ## Traffic to the homepage and login rates
+_data from [DOMO](https://va-gov.domo.com/page/1030131175/kpis/details/1478718344) collected April 2022_
 
 Month	|	Unique visitors to VA.gov	|	Unique login	|	% logged in	|	CSAT	|	Unique pageviews	|	Average time on page (min)
 ---	|	---	|	---	|	---	|	---	|	---	|	---
@@ -108,3 +112,10 @@ Location	|	Event Action	|	Unique Events
 ---	|	---	|	---
 3 wide buttons	|	Navigation - Main Page Buttons	|	11,899
 
+---
+## Data visualizations
+The following data visualizations are from the Baseline wayfinding analysis, April 2021. 
+
+- [Top 4 boxes analytics visualization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/Top4-boxes-analytics-visualization.pdf) - covers data from 5/19-21 - 6/3/21
+- [Home page click visualizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(4).pptx)
+- [Veterans Crisis line anaytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/VCL-analytics-findings.md)
