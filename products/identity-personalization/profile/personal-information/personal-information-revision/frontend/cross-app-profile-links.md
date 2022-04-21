@@ -43,22 +43,22 @@ src/applications/hca/enrollment-status-helpers.jsx:
   380:         <a href="/profile">Go to your profile to update your address</a>.
   381        </p>
   
-  - Recommendation: This doesn't need to change since /profile redirects to /profile/personal-information
+  - Recommendation: This doesn't have to change since /profile redirects to /profile/personal-information, BUT we could more accurately point them to /profile/contact-information after the personal invo revisions launch.
 
 src/applications/hca/tests/components/HCAEnrollmentStatusFAQ.unit.spec.js:
   16    [HCA_ENROLLMENT_STATUSES.enrolled]:
   17: ⟪ 305 characters skipped ⟫A Form 10-10EZR</a>.</p><p>Or you can update your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.</p><p><a href="/profile">Go to your profile to update your address</a>.</p><h3 class="vads-u-font-size--h4">Will applying again update my information?</h3><p><strong>No. A new application won’t update your information.</strong> If you have questions about the information we have on record for you, please call your nearest VA medical center.</p><p><a class="usa-button-primary" href="/find-locations/">Find your VA medical center</a></p>',
   18    [HCA_ENROLLMENT_STATUSES.ineligCHAMPVA]:
 
-  - Recommendation: This doesn't need to change since /profile redirects to /profile/personal-information
-
+  - Recommendation: This doesn't have to change since /profile redirects to /profile/personal-information, BUT we could more accurately point them to /profile/contact-information after the personal invo revisions launch.
+  
 src/applications/letters/components/NoAddressBanner.jsx:
   7        <div>
   8:         You’ll need to <a href="/profile">update your address</a> before you can
   9          view and download your VA letters or documents.
   
-    - Recommendation: We could update this to /personal/contact-information, but this is not urgent since /profile redirects to /profile/personal-information, and people will still make it to the profile.
-
+  - Recommendation: This doesn't have to change since /profile redirects to /profile/personal-information, BUT we could more accurately point them to /profile/contact-information after the personal invo revisions launch.
+  
 src/applications/lgy/coe/form/config/chapters/contact-information/mailing-address.js:
   13        <br />
   14:       <a href="/profile/contact-information#addresses">
