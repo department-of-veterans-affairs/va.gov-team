@@ -174,6 +174,14 @@ Tom should finish all backend work for personal information revisions first. So,
 
 - Onboard Erica #40106
 
+### Personal info revisions
+
+**FE**
+
+- Adam to update URLS to point to new contact information sections
+  -  This work should be gated behind the personal info revisions feature flag
+  -  [Notes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/cross-app-profile-links.md) 
+
 ### General
 
 **Mark & Tom**
