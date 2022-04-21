@@ -167,5 +167,5 @@ src/applications/vre/28-1900/components/VeteranAddressDescription.jsx:
   15      </p>
   16:     <a href="/profile">
   17        Go to your profile page to update your contact information
-  ```
+  
   - Recommendation: Update this to /profile/contact-information after the personal info revisions launch.
