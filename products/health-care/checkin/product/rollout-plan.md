@@ -6,7 +6,7 @@ A dedicated 'Go Live' Microsoft Teams channel will be available during the first
 
 ## Monitoring
 
-A dedicated Engineer (with a backup) will be assigned to monitor all API's and be available to diagnose reported issues during the following hours of operation:
+A dedicated Engineer and a backup will be assigned to monitor all API's and channels and be available to diagnose reported issues during the following hours of operation:
 
 - Monday - Friday 
 - 8:00 AM - 4:00 PM EST
