@@ -17,7 +17,7 @@ Update various product assets, as necessary, based on changes to the product.
 - [ ] Update user flow diagrams, as necessary
 - [ ] Push changes to the appropriate GitHub files
 - [ ] Send updated screenshots to Danielle Thierry for the Resources & Support (R&S) articles in VA.gov
-- [ ] Notify the Contact Center of the changes
+- [ ] Notify the Contact Center of the changes (follow this [process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md))
 - [ ] Notify Training of the changes (Shawn Adams, Cheryl Wills, Farah Ford)
 
 ## Acceptance Criteria
