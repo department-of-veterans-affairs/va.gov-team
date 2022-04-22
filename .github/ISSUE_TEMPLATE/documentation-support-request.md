@@ -38,6 +38,5 @@ assignees: gmaciolek
 - [ ] Yes
 - [ ] No
 
-
 ### Relevant URL: https://dsva.slack.com/archives/CL181NRJQ
 
