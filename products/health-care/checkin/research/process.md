@@ -7,13 +7,14 @@
 2. Share your research plan with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
     - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
 3. Begin communicating with your contract’s COR officer for travel approvals.
-4. Begin communicating with the identified site contacts or Quality Management officers to determine:
+    - Speak with your program manager and/or project leads to discuss how best to reach out to your contract's COR officer.
+5. Begin communicating with the identified site contacts or Quality Management officers to determine:
     - What dates work best for both you and the site.
     - Who to ask for when your research group arrives at the site.
     - Where to go (if necessary) when arriving.
     - If a member of the research group does not have their PIV card yet, you must get approval from the site about whether that individual can travel to the site or not.
       - If the site approves, they will need to coordinate visitors passes for the research group member without a PIV card.
-5. Once everything is approved by your contract’s COR and the sites, book travel using your company’s preferred process. 
+6. Once everything is approved by your contract’s COR and the sites, book travel using your company’s preferred process. 
 
 ## Day of the research study
 1. Wear your PIV card (possibly on the lanyard), so it is visible throughout your trip.
@@ -24,6 +25,7 @@
 - If your methodology involves guerilla testing or intercepting Veterans, discuss the following with staff at each site before you begin your study:
   - Who does the initial intercept (you or staff)?
   - Should certain Veterans not be intercepted?
+    - Keep in mind that these Veterans are most often on-site to receive medical care. They may not be feeling up to participating in your study. Even if they initially agree to participant, they may need to stop in the middle of a session. Provide them with opportunities to stop participation.
 - You may take photos of the site, such as the waiting room, entrance, etc. Do not take photos with Veterans in them, where the Veteran could be identified.
 
 # Platform research documentation
