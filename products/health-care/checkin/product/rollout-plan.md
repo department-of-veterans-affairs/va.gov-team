@@ -15,7 +15,7 @@ Responsibilities include all of the following:
 
 1. Actively monitoring [DataDog Check-in (vets-api) dashboard](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1649964338537&to_ts=1650569138537&live=true) for anomalies, errors, etc. 
 2. Actively monitoring and responding to product inquiries received to the 'Go Live' Microsoft Teams channel
-3. Actively monitoring and responding to product inquiries received to the DSVA Slack [check-in-go-live channel](https://app.slack.com/client/T03FECE8V/C02UP02HHGX)
+3. Actively monitoring and responding to product inquiries received to the DSVA Slack [check-in-go-live channel](https://app.slack.com/client/T03FECE8V/C02UP02HHGX) and [check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF)
 4. Actively monitoring and managing the ServiceNow eCheck-in Vet Facing Applications group ticket queue as documented [here](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#servicenow-process). 
 5. Actively communincating with the Product Manager and Delivery Manager to priortize issues, bugs and potential hotfixes 
 6. Actively working with devops to monitor infrastructure (containers, database, concurrent lambda limits) for scalability
