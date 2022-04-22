@@ -2,16 +2,7 @@
 
 ## Table of contents
 
-[Intro](#intro)
-
 [Authenticated experience](#authenticated-experience)
-
-- Profile
-- Logged in homepage
-- my VA
-- Health apartment homepage
-
-[VAOS](#vaos)
 
 [Search](#search)
 
@@ -23,8 +14,6 @@ There are a variety of logged-in experiences in the VA.gov ecosystem. This secti
 ## Authenticated experience
 
 Purpose: A cohesive logged-in experience will help veterans complete tasks more quickly, increase veteran satisfaction with the VA, reduce the need for multiple touchpoints (other VA websites; VA call centers), and help veterans get benefits more quickly.
-
-Profile portfolio consists of products that store profile-related information about VA.gov users, including personal, contact, military and direct deposit information plus [notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences), account security (managed by the identity team) and [Connected Apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data) (managed by Lighthouse). 
 
 **Profile**
 - Purpose: The VA.gov profile provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
@@ -72,13 +61,6 @@ Profile portfolio consists of products that store profile-related information ab
       - Participants wanted specific task-specific action links
       - Tasks should be clear and separate from information links
       - Participants wanted some form of personalization (especially for health care and disability tasks)
-
----
-
-## VAOS
-- Purpose
-- Resources
-- Research
 
 ## Search
 
