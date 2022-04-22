@@ -29,7 +29,7 @@ Sprint 26 & 27 - May 14, 2020
   - no-collapsible-if
   - prefer-immediate-return
 - These rules will be under review for 4 weeks (Sprint 26 & 27) and enforced starting Sprint 28
-- Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
+- Feedback from VFS teams will be collected during this period. Please use the tag `@platform-release-tools` or message any of the front-end tools team members in Slack and provide us with your feedback.
 - Other ESLint rules that will be added:
   - va/use-resolved-path
   - react/prefer-stateless-function
@@ -62,7 +62,7 @@ Sprint 23 & 24 - April 2, 2020
   - no-small-switch
   - no-unused-collection
 - These rules will be under review for 4 weeks (Sprint 23 & 24) and enforced starting Sprint 25
-- Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
+- Feedback from VFS teams will be collected during this period. Please use the tag `@platform-release-tools` or message any of the release tools team members in Slack and provide us with your feedback.
 
 ## SonarJS deployed rules
 
@@ -100,7 +100,7 @@ Sprint 21 - March 4, 2020
   - prefer-single-boolean-return
   - prefer-while
 - These rules will be under review for 2 weeks (Sprint 21) and enforced starting Sprint 22
-- Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
+- Feedback from VFS teams will be collected during this period. Please use the tag `@platform-release-tools` or message any of the release tools team members in Slack and provide us with your feedback.
 
 ## SonarJS new rules
 

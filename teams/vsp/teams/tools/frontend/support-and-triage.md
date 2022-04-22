@@ -51,11 +51,11 @@ Support requests include every interaction you have with a VSF team member. Even
 
 ### Pull requests 
 
-Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/frontend-review-group more than 24 hours for a response. This includes follow-ups to reviews. 
+Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/platform-release-tools more than 24 hours for a response. This includes follow-ups to reviews. 
 
 ### Oncall support
 
-The oncall developer may reach out to the frontend support dev to assist with troubleshooting frontend related issues. 
+The oncall developer may reach out to the frontend support dev to assist with troubleshooting frontend related issues.
 
 ## Optional tasks
 

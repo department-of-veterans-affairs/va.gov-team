@@ -25,12 +25,12 @@ From the perspective of a VFS engineer, the current review process involves:
 1. Getting a peer review
     - Making any changes until the review is approving
 1. Marking the PR as `Ready for Review`
-1. Getting approval from a member of the VSP *frontend-review-group*
+1. Getting approval from a member of the VSP *platform-release-tools*
 
 The final approval from the review group is often not helpful, and it slows the process down.
 This frustration often leads to VFS teams ignoring this process and they will directly ask for a VSP review before their PR is ready.
 
-These problems have led to an effort to shift some review responsibility away from the frontend-review-group by implementing [code owners changes](./codeowners.md).
+These problems have led to an effort to shift some review responsibility away from the `platform-release-tools` by implementing [code owners changes](./codeowners.md).
 
 ### High Level Design
 
@@ -55,7 +55,7 @@ The script will:
   - This is a two step process:
     - Use `octokit.paginate()` to get a list of all comments on a PR and filter out comments that are outdated or weren't made by the bot
     - Filter out any additions from the processed & filtered diff if there is already a current bot comment on it
-- If there are any offenses which haven't been commented on, leave a comment and request a review from the *frontend-review-group*
+- If there are any offenses which haven't been commented on, leave a comment and request a review from the *platform-release-tools*
   - Use `octokit.pulls.createReviewRequest()` to request a review from the frontent-review-group
   - Use `octokit.pulls.createReview()` to leave a bot review with a comment on any addition that matched the pattern which hasn't been commented on
 
@@ -112,7 +112,7 @@ It is difficult to estimate the liklihood of this risk.  In order to discover wh
 
 > `is:pr commenter:va-vfs-bot is:merged`
 
-This will show us any merged PRs that the `va-vfs-bot` has commented on, and from there we can look at each PR to see if a review was left by the frontend-review-group before it was merged.
+This will show us any merged PRs that the `va-vfs-bot` has commented on, and from there we can look at each PR to see if a review was left by the `platform-release-tools` before it was merged.
 To help with the search we can also add a date parameter if we only want to look at PRs merged after a certain date:
 
 > `merged:>=YYYY-MM-DD`

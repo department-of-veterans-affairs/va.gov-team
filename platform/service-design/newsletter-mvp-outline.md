@@ -16,7 +16,7 @@ VSP is starting a periodic newsletter communicating important updates to the pla
 - *Solution:* We are now providing automated tooling to improve code quality with explicit and enforced standards to help reduce the burden of code reviews
 - *Supporting Documentation:* [Learn more](https://docs.google.com/document/d/1jgXFkDF25hPJLYHiyN3_js09dDyyGSWXyXIGITEpsUU/edit)
 - *Supporting Documentation:* [Get started](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/manual-reviews/)
-- *Feedback or Questions:* Please use the tag @frontend-review-group or message any of the front-end tools team members in Slack.
+- *Feedback or Questions:* Please use the tag `@platform-release-tools` or message any of the release tools team members in Slack.
 
 ------
 

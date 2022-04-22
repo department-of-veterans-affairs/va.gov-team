@@ -14,7 +14,7 @@ Provide automated tooling to automate to improve code quality with explicit and 
 ## Tools Implemented:
 **ESLint** - Establish a standard set of linting rules using 'eslint' that will be run during every build and report any warnings or errors to VFS Teams 
 
-**Manual Review Triggers** - Each PR on vets-website will run through an automated process which looks for code additions/modifications which could be considered bad for the platform. If a potential issue is found, a bot will leave an automated comment and request a review from the frontend-review-group.
+**Manual Review Triggers** - Each PR on vets-website will run through an automated process which looks for code additions/modifications which could be considered bad for the platform. If a potential issue is found, a bot will leave an automated comment and request a review from  `platform-release-tools`.
 
 ## Product Guides\Documentation:
 
@@ -37,7 +37,8 @@ Provide automated tooling to automate to improve code quality with explicit and 
 
 ## Version Notes:
 ### Release v1.2 Sprint 20 (04-02-20)
-- ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag @frontend-review-group or message any of the front-end tools team members in Slack and provide us with your feedback.
+
+- ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag @platform-release-tools or message any of the release tools team members in Slack and provide us with your feedback.
 ---
 ### Release v1.1 Sprint 21 (03-30-20)
 - ESLint - First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules) 
