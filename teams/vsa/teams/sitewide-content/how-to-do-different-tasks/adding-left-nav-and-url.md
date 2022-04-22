@@ -1,11 +1,12 @@
 ## How to add a Drupal page to the left nav
 
 1. Go to the Edit mode of a Drupal file. 
-2. In Menu Settings, check the "Provide a menu link" box.
-3. Type in the menu link title.
-4. Choose the parent link from the drop-down menu. 
-5. If this is a child page, confirm that the section listed in "Section settings" of the Drupal file is the same as the section listed for the parent page.
-6. Change the file from "Draft" to "Published" and select **Save**.
+2. On the right side of your screen in the body of the page, find Menu Settings. 
+3. Check the "Provide a menu link" box.
+4. Type in the menu link title.
+5. Choose the parent link from the drop-down menu. 
+6. If this is a child page, confirm that the section listed in "Section settings" of the Drupal file is the same as the section listed for the parent page.
+7. Change the file from "Draft" to "Published" and select **Save**.
 
 **Note:** Adding a Drupal page to the left nav can only be done when changing the current state of the Drupal page from "Draft" to "Published."
 
