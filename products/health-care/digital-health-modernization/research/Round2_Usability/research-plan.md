@@ -91,16 +91,13 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from April 26 - May 6, 2022, dependent on scheduling
+- We plan to run sessions from April 28 - May 6, 2022, dependent on scheduling
 
 ### Length of sessions
 1 hour sessions with 15 minute breaks in between (if possible). 
 
 ### Availability
 
-- Monday 5/2: 8am - 2:30pm ET
-- Tuesday 4/26: 8am - 3:30pm ET
-- Wednesday 4/27: 8am - 4pm ET
 - Thursday 4/28: 8am - 2:30pm ET
 - Friday 4/29: 8am - 5pm ET
 - Monday 5/2: 8am - 2:30pm ET
