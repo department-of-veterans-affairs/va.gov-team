@@ -25,10 +25,12 @@ If there were no bugs, you can write a brief summary stating that UAT went smoot
 
 ### Finding 1
 Brief description
+
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
 ### Finding 2
 Brief description
+
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
 Etc.
@@ -127,7 +129,7 @@ Disability and Assistive Technology (AT):
 * Captions: x
 
 
-## Underserved groups we haven’t talked to 
+### Underserved groups we haven’t talked to 
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
