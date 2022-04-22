@@ -29,7 +29,7 @@ Profile portfolio consists of products that store profile-related information ab
 **Profile**
 - Purpose: The VA.gov profile provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 - Resources
-  - [Profile folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile)
+  - [Profile product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
   - [Design for connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
 - Research
 
