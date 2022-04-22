@@ -9,7 +9,7 @@ A dedicated 'Go Live' Microsoft Teams channel will be available during the first
 A dedicated Engineer and a backup will be assigned to monitor all API's and channels and be available to diagnose reported issues during the following hours of operation:
 
 - Monday - Friday 
-- 8:00 AM - 4:00 PM EST (We need to verify these hours)
+- 8:00 AM - 4:00 PM in the Engineer's timezone (We need to verify these hours)
 
 2-week Rotation Schedule to coincide with a Sprint
 - Adrian
