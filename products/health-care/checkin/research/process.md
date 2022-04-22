@@ -25,7 +25,7 @@
 - If your methodology involves guerilla testing or intercepting Veterans, discuss the following with staff at each site before you begin your study:
   - Who does the initial intercept (you or staff)?
   - Should certain Veterans not be intercepted?
-    - Keep in mind that these Veterans are most often on-site to receive medical care. They may not be feeling up to participating in your study. Even if they initially agree to participant, they may need to stop in the middle of a session. Provide them with opportunities to stop participation.
+  - Keep in mind that these Veterans are most often on-site to receive medical care. They may not be feeling up to participating in your study. Even if they initially agree to participant, they may need to stop in the middle of a session. Provide them with opportunities to stop participation.
 - You may take photos of the site, such as the waiting room, entrance, etc. Do not take photos with Veterans in them, where the Veteran could be identified.
 
 # Platform research documentation
