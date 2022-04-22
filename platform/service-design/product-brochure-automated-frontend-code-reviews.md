@@ -8,7 +8,7 @@ Automated code quality checks allowing you to move faster and bypass reviews fro
 
 **ESLint:** A standard set of rules for analyzing code that run during every build and report any warnings or errors to VFS Teams.
 
-**Manual review triggers:** Each PR runs through an automated process that looks for code additions and modifications that could negatively impact the platform. If a potential issue is found, a bot leaves a comment and requests a review from the frontend-review-group.
+**Manual review triggers:** Each PR runs through an automated process that looks for code additions and modifications that could negatively impact the platform. If a potential issue is found, a bot leaves a comment and requests a review from `platform-release-tools`.
 
 ------
 

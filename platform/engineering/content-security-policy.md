@@ -32,7 +32,7 @@ _Reports are throttled by the reverse proxy by setting the `report-url` in the C
 
 The following applies when editing the CSP: 
 
-- Updates to the CSP **must be approved** by the [front end review group](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group)
+- Updates to the CSP **must be approved** by the [platform release tools team](https://github.com/orgs/department-of-veterans-affairs/teams/platform-release-tools)
 - Updates to the CSP must be tested on staging before releasing into production 
   - The only way to test the CSP is to add it to an environment and monitor the logger for violations 
 - Updates to the CSP must be in pull requests without other changes to enable easy rollback 

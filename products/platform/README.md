@@ -29,7 +29,7 @@
 
 ### Sprint 23 (04-02-2020 - 4-14-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.2
-  - ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag @frontend-review-group or message any of the front-end tools team members in Slack and provide us with your feedback.
+  - ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag `@platform-release-tools` or message any of the release tools team members in Slack and provide us with your feedback.
 
 ### Sprint 22 (04-01-2020)
 - [Feature Toggles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/feature-toggles) - v0.3

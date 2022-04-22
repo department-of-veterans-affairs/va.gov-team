@@ -17,12 +17,12 @@ This document covers how code owners are used to enforce required reviews. The i
 
 VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) feature to trigger required reviews. A code owner is a GitHub [team](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-teams) that must approve a change before it can be merged.
 
-By default, [`frontend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group) is the code owner of `vets-website` and [`backend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/backend-review-group) is the code owner of `vets-api`.
+By default, [`platform-release-tools`](https://github.com/orgs/department-of-veterans-affairs/teams/platform-release-tools) is the code owner of `vets-website` and [`backend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/backend-review-group) is the code owner of `vets-api`.
 
 ## Other Code Owners
 VSA and VFS teams can optionally [create a GitHub team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/vsp_user_managment_process.md#creating-a-github-team) under the [Department of Veteran Affairs GitHub organization](https://github.com/orgs/department-of-veterans-affairs/teams) by clicking on the **New team** button. This must be done for the team to become a code owner.
 
-In `vets-website`, a team can be assigned as a code owner of [application folders](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications). **This will remove `frontend-review-group` as a required reviewer when changes are made to those folders.** Follow the conventions in the [`CODEOWNERS` configuration file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/.github/CODEOWNERS) to assign your team to an application folder.
+In `vets-website`, a team can be assigned as a code owner of [application folders](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications). **This will remove `platform-release-tools` as a required reviewer when changes are made to those folders.** Follow the conventions in the [`CODEOWNERS` configuration file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/.github/CODEOWNERS) to assign your team to an application folder.
 
 In `vets-api`, a team can be assigned as a code owner of [module folders](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules). **This will remove `backend-review-group` as a required reviewer when changes are made to those folders.** Follow the conventions in the [`CODEOWNERS` configuration file](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/CODEOWNERS) to assign your team to an application folder.
 
