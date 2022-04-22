@@ -97,7 +97,7 @@ The most critical path items are listed below but do not represent the total of 
 - **PPMS Taxonomy Mapping**
    - Epic [#9995](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9995)
 - **Telehealth data availability in PPMS**
-   - Epic [#17946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
+   - Epic [#17946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17946)
 - **Online scheduling API**
     - EPIC [#27454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27454)
 
