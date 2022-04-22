@@ -11,7 +11,7 @@ assignees: gmaciolek
 ## Description
 **The questions below help our team to determine the project scope for incoming documentation support requests.**
 
-**1. What do you need help with?**
+**1. What do you need help with? Check one:**
 - [ ] Creating new documentation
 - [ ] Updating previously published documentation
 - [ ] Reviewing recently written, never-before-published drafts
