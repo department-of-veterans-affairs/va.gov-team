@@ -12,11 +12,11 @@ A dedicated Engineer and a backup will be assigned to monitor all API's and chan
 - 8:00 AM - 4:00 PM EST (We need to verify these hours)
 
 2-week Rotation Schedule to coincide with a Sprint
-Adrian
-Brian
-Gaurav
-Kanchana
-Bethany
+- Adrian
+- Brian
+- Gaurav
+- Kanchana
+- Bethany
 
 Responsibilities include all of the following:
 
