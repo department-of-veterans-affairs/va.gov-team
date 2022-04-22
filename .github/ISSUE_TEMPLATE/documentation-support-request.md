@@ -40,3 +40,4 @@ assignees: gmaciolek
 
 
 ## Relevant URLs
+https://dsva.slack.com/archives/CL181NRJQ
