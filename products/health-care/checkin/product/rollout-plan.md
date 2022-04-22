@@ -11,6 +11,13 @@ A dedicated Engineer and a backup will be assigned to monitor all API's and chan
 - Monday - Friday 
 - 8:00 AM - 4:00 PM EST (We need to verify these hours)
 
+2-week Rotation Schedule to coincide with a Sprint
+Adrian
+Brian
+Gaurav
+Kanchana
+Bethany
+
 Responsibilities include all of the following:
 
 1. Actively monitoring [DataDog Check-in (vets-api) dashboard](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1649964338537&to_ts=1650569138537&live=true) for anomalies, errors, etc. 
