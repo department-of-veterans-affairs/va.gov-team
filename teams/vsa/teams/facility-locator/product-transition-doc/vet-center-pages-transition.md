@@ -75,7 +75,7 @@ The most critical path items are listed below but do not represent the total of 
 - [Vet Center content workbook - last updated version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) _requires a VA network connection_
 - [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
 - [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
-- [Vet Center runbok](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md)
+- [Vet Center runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md)
 
 
 ### Design-research
