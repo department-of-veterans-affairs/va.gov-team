@@ -74,6 +74,7 @@ Pre-condition: After logging in and loading the Personal information page on Sta
 
 ---
 
-\*\* Blank-state test-accounts should be documented as RESERVED for blank-state testing, as they should ALWAYS remain blank-state and NEVER be used for testing inputs.
+\* Blank-state test-accounts should be documented as RESERVED for blank-state testing, as they should ALWAYS remain blank-state and NEVER be used for testing inputs. 
+
 \*\* Do NOT use blank-state [reserved] test-accounts.
 
