@@ -42,8 +42,8 @@ Pre-condition - Log in as test user.  If values already exist in Preferred name 
 
 | Test case                                        | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| User navigates to **Preferred name** section     | **Preferred name** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8A23d4)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxpjY) |
-| User navigates to **Gender identity** section    | **Gender identity** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/eKYx35P)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/JnVgyK0) |
+| User navigates to **Preferred name** section     | **Preferred name** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) |
+| User navigates to **Gender identity** section    | **Gender identity** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) |
 
 
 ### Test cases for successful add
