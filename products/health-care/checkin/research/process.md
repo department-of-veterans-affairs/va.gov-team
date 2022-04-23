@@ -4,8 +4,10 @@
 1. Create [research plan] and [conversation guide]. 
     - Include reasons why the research should be completed on-site and not remotely.
     - Read through the [PRA overview](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) and [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) documentation, then apply accordingly. Its implications depend upon what methodology you plan to use while on-site.
-2. Share your research plan with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
-    - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
+2. Share your research plan and conversation guide:
+    - with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
+      - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
+    - to complete a [Research Review.](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html)
 3. Begin communicating with your contract’s COR officer for travel approvals.
     - Speak with your program manager and/or project leads to discuss how best to reach out to your contract's COR officer.
 5. Begin communicating with the identified site contacts or Quality Management officers to determine:
