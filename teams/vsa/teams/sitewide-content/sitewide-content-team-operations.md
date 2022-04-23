@@ -7,7 +7,9 @@ This document outlines the work Sitewide Content does and has links to various h
 These are the basics that team members need to be familiar with:
 
 [VA.gov style guide](https://design.va.gov/content-style-guide/)
+
 [Plain language training](https://youtu.be/qRoMXztTDuw)
+
 [VA.gov design system](https://design.va.gov/)
 
 ## Incoming requests 
