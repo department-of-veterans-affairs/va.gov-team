@@ -7,7 +7,8 @@
 2. Share your research plan and conversation guide with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
     - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
 3. Complete a [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html).
-    - All portions of the review apply, except participants will not be recruited by Perigean.
+    - All portions of the review apply, except for participant recruitment.
+      - Review the ["In-person moderated studies" section of the "Recruiting Participants" page](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html#RecruitingParticipants-In-personmoderatedstudies) for more information.
 5. Begin communicating with your contract’s COR officer for travel approvals.
     - Speak with your program manager and/or project leads to discuss how best to reach out to your contract's COR officer.
 6. Begin communicating with the identified site contacts or Quality Management officers to determine:
