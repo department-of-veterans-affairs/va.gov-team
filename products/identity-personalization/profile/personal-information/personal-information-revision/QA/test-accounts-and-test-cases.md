@@ -42,8 +42,8 @@ Pre-condition - Log in as test user.  If values already exist in Preferred name 
 
 | Test case                                        | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| User navigates to **Preferred name** section     | **Preferred name** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) |
-| User navigates to **Gender identity** section    | **Gender identity** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Any LOA3 user | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) |
+| User navigates to **Preferred name** section     | **Preferred name** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Reserved LOA3 user\* | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) |
+| User navigates to **Gender identity** section    | **Gender identity** section reads "Edit your profile to add a preferred name" and an Edit button appears directly below | Reserved LOA3 user\* | [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)<br />[Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) |
 
 
 ### Test cases for successful add
@@ -52,8 +52,8 @@ Pre-condition: Must be a logged in LOA3 user.
 
 | Test case                                                    | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| 1. User navigates to **Preferred name** section<br />2. User clicks Edit button<br />3. User enters a new value that does not exceed the stated character limit<br />4. User clicks the Update button | 1. The newly-saved value appears immediately below the **Preferred name** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/%20profile%20-%20personal%20information%20-%20preferred%20name%20success%20state.pdf)|
-| 1. User navigates to **Gender identity** section<br />2. User clicks the Edit button<br />3. User selects "Woman" <br />3. User clicks the Update button | 1. The newly-saved value appears immediately below the **Gender identity** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user | [Desktop] same as above |
+| 1. User navigates to **Preferred name** section<br />2. User clicks Edit button<br />3. User enters a new value that does not exceed the stated character limit<br />4. User clicks the Update button | 1. The newly-saved value appears immediately below the **Preferred name** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user\*\* | [Desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/%20profile%20-%20personal%20information%20-%20preferred%20name%20success%20state.pdf)|
+| 1. User navigates to **Gender identity** section<br />2. User clicks the Edit button<br />3. User selects "Woman" <br />3. User clicks the Update button | 1. The newly-saved value appears immediately below the **Gender identity** section heading.<br />2. An "Update saved." confirmation message appears immediately below the newly-saved value. | Any LOA3 user\*\* | [Desktop] same as above |
 
 ### Test cases for unsuccessful add
 
@@ -72,5 +72,8 @@ Pre-condition: After logging in and loading the Personal information page on Sta
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
 | 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User selects one or more of the supplied values<br />4. User clicks the Update button | 1. An error message is displayed immediately above the **Preferred Name** field label and reads, "We're sorry.  We can't save your Preferred name at this time.  We're working to fix this problem.   Please try again or check back soon." | Any LOA3 user | [Desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile_contact_error.png) |
 
+---
 
+\*\* Blank-state test-accounts should be documented as RESERVED for blank-state testing, as they should ALWAYS remain blank-state and NEVER be used for testing inputs.
+\*\* Do NOT use blank-state [reserved] test-accounts.
 
