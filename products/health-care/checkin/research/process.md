@@ -4,19 +4,19 @@
 1. Create [research plan] and [conversation guide]. 
     - Include reasons why the research should be completed on-site and not remotely.
     - Read through the [PRA overview](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) and [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) documentation, then apply accordingly. Its implications depend upon what methodology you plan to use while on-site.
-2. Share your research plan and conversation guide:
-    - with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
-      - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
-    - to complete a [Research Review.](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html)
-3. Begin communicating with your contract’s COR officer for travel approvals.
+2. Share your research plan and conversation guide with your VA PO for approval and assistance with identifying contacts at the VA medical facilities.
+    - Some sites have Quality Management Service departments that have an officer that can help coordinate your visit.
+3. Complete a [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html).
+    - All portions of the review apply, except participants will not be recruited by Perigean.
+5. Begin communicating with your contract’s COR officer for travel approvals.
     - Speak with your program manager and/or project leads to discuss how best to reach out to your contract's COR officer.
-5. Begin communicating with the identified site contacts or Quality Management officers to determine:
+6. Begin communicating with the identified site contacts or Quality Management officers to determine:
     - What dates work best for both you and the site.
     - Who to ask for when your research group arrives at the site.
     - Where to go (if necessary) when arriving.
     - If a member of the research group does not have their PIV card yet, you must get approval from the site about whether that individual can travel to the site or not.
       - If the site approves, they will need to coordinate visitors passes for the research group member without a PIV card.
-6. Once everything is approved by your contract’s COR and the sites, book travel using your company’s preferred process. 
+7. Once everything is approved by your contract’s COR and the sites, book travel using your company’s preferred process. 
 
 ## Day of the research study
 1. Wear your PIV card (possibly on the lanyard), so it is visible throughout your trip.
