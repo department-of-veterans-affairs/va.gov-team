@@ -1,8 +1,14 @@
-This is a WIP
+# Sitewide Content operations
 
-# Sitewide Content team operations document
+This document outlines the work Sitewide Content does and has links to various helpful documentation and standards for team members. 
 
-This document serves as a helpful guide for the different tasks Sitewide Content does during the course of a sprint. This work is initiated from other product teams, VA benefit office stakeholders, and from the product owners.
+## Standards and training
+
+These are the basics that team members need to be familiar with:
+
+[VA.gov style guide](https://design.va.gov/content-style-guide/)
+[Plain language training](https://youtu.be/qRoMXztTDuw)
+[VA.gov design system](https://design.va.gov/)
 
 ## Incoming requests 
 ### Stakeholder requests
@@ -34,5 +40,5 @@ Besides stakeholder requests and product team help, the content team works regul
 We keep all our documentation about the work we're doing in the Sitewide Content teams folder in Github. [Go to our teams folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content) 
 - [Check this folder for help with Resources and Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/resources-and-support) 
 - [Check this folder for help with translation work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/translation-work)
-- [Check this folder for documentation on how to do different tasks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/checklists) 
+- [Check this folder for documentation on how to do different tasks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks) 
 - [Check this folder for our pre-publishing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/checklists)
