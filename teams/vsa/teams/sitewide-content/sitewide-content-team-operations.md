@@ -4,7 +4,7 @@ This document outlines the work Sitewide Content does and has links to various h
 
 ## Standards and training
 
-These are the basics that team members need to be familiar with:
+These are the basic quality and style standards that team members need to be familiar with:
 
 [VA.gov style guide](https://design.va.gov/content-style-guide/)
 
