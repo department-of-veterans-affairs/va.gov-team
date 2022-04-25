@@ -84,7 +84,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
  - Current search functionality does not surface results as readily as users may expect based on search engine experiences such as Google.  
 
 **Feasibility risks (can we build it with available tech/data?)**
- - The idea of creating a “parallel” homepage experience seems pretty straightforward but has not been tried before in recent memory. There are potential challenges to our ideas, including Analytics setup and Search API integration. Future CMS integration has not yet been explored for feasibility or level of effort.\
+ - The idea of creating a “parallel” homepage experience seems pretty straightforward but has not been tried before in recent memory. There are potential challenges to our ideas, including Analytics setup and Search API integration. Future CMS integration has not yet been explored for feasibility or level of effort.
  - Changes to the codebase are small and localized. The only external dependency relates to the Search component, but the implementation and functionality will be identical to the search that already exists in the header.
 
 **Organizational viability risks/constraints (will there be a positive organizational impact?)**
