@@ -1,5 +1,5 @@
 # Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* Test
 
 ## Background
 Briefly describe the background of your product. Consider:
