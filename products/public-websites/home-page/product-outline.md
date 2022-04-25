@@ -119,6 +119,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 ![First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 
 </details> 
+
 **Next steps**
 
 - Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices
