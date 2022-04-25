@@ -34,6 +34,7 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 - Confirm that the redirect is technically feasible (i.e. legacy pages that do not have our injected header can not be redirected by a front end developer)
 - Identify if there are any existing redirects that need to be updated to avoid a 301 chain when possible
 - Indicate any implementation requirements, such as how to handle casing variations or parameters, etc. 
+- Update documentation as appropriate
 
 ### Responsibility of implementation team
 - Size and schedule the request based on the requested launch date
