@@ -20,6 +20,9 @@
   * waiting for LH to be ready to receive
 * VC CAP new push endpoint
   * CMS and LH ready to implement post v1 rollout
+  * URL's for mobile sites and domiciaries.
+  * New need for a preview/snapshot view of all CMS services per Facility. (ATC comparison is needed on our end to facilitate a desire to use CMS as the source of truth)
+  * Health Connect Phone Number - Agreement on payload expectations.
 
 ## Monday, April 18, 2022
 * Sitewide crew org updates
