@@ -42,6 +42,7 @@ Purpose: A cohesive logged-in experience will help veterans complete tasks more 
   - [Help manual](http://search.digitalgov.gov/manual/)
   - [Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md)
   - [Data for search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/baseline-event-data.md#other-search-tools)
-- Research**
+- Research
 - Nielsen Norman Group - [Site search suggestions](https://www.nngroup.com/articles/site-search-suggestions/) -- e.g., autocomplete or autosuggest 
 - Nielsen Norman Group - [The pinball pattern of scanning the modern search results page](https://www.nngroup.com/articles/pinball-pattern-search-behavior/)
+
