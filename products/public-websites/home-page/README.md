@@ -36,7 +36,7 @@ A timeline of key milestones from large scale initiatives
 - April 2021
   - Baseline Wayfinding Research on VA.gov
 - March 2022
-  - Homepage iteration
+  - [Homepage iteration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022)
 
 ## Product artifacts
 - [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
