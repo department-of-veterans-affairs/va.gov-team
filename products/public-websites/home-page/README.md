@@ -52,7 +52,8 @@ A timeline of key milestones from large scale initiatives
 
 ### Design
 
-- [**Homepage iteration - Sketch**](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/a/PGEaJDr) | March 2022
+- [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design) | March 2022
+- [March 2022 Homepage phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design/phased-design-plan.md)
 
 ### Research
 
