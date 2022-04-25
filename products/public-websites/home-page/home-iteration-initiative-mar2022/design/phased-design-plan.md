@@ -95,6 +95,6 @@ The initial designs for the iteration of the VA.gov homepage planned an evolutio
 <summary> Mockup of other possible changes
  </summary>
 
-![Step 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-step-4.pn)g
+![Step 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-step-4.png)
 </details>
 
