@@ -60,7 +60,7 @@ Follow the [Redirect Process](https://github.com/department-of-veterans-affairs/
 ## Best practices and guides
 
 - [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
-- [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
+- [URL Guidelines](https://design.va.gov/content-style-guide/url-standards) (documented in the design system)
 - [SEO Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
 - [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
 - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
