@@ -1,6 +1,6 @@
 # VSA Product Outline: VA.gov homepage (WIP)
 
-> _This product outline has being written several years post-launch with the purpose of kicking off an initiative to update the home page._
+> _This product outline has being written several years post-launch with the purpose of kicking off an initiative to update the homepage._
 
 ## Executive summary
 
