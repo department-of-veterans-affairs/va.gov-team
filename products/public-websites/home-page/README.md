@@ -3,23 +3,23 @@
 This README page serves as a "front door" to documentation and resources collected during the course of product design and development. 
 
 ## Table of Contents
-[Product portfolio and context](#product-portfolio-and-context)
+[Product context](#product-context)
 
 [Timeline](#timeline)
 
-[Product documentation](#product-documentation)
+[Product artifacts](#product-artifacts)
 
-[Roadmaps and planning](#roadmaps-and-planning)
+[Research artifacts](#research-artifacts)
 
-[Research and design](#research-and-design)
+[Design artifacts](#design-artifacts)
 
-[Engineering](#engineering)
+[Engineering artifacts](#engineering-artifacts)
+
+[Related artifacts](#related-artifacts)
 
 [Contacts](#contacts)
 
 [Stakeholders](#stakeholders)
-
-[Related artifacts](#related-artifacts)
 
 ## Product context
 Conceived as the unifying "Veteran-facing digital brand" for the Department of Veteran Affairs when it launched in late 2018, VA.gov has become the front-door to top tasks, tools and information for Veterans and their beneficiaries. 
@@ -38,26 +38,23 @@ A timeline of key milestones from large scale initiatives
 - March 2022
   - Homepage iteration
 
-## Product documentation
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
+## Product artifacts
+- [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
 - [VA.gov Homepage evolution product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md) | August 2021
-- [Homepage iteration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022) | March 2022
+- [Initiative brief: Homepage iteration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022) | March 2022
 
-###  Roadmaps and planning
-
-## Research 
-
-## Design
-
-- [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design) | March 2022
+## Design artifacts
 - [March 2022 Homepage phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design/phased-design-plan.md)
 
-### Research
+## Research artifacts
+- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
+## Engineering artifacts
 
-## Engineering 
+## Related artifacts
+- [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md)
+- [VA.gov relaunch folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018)
 
 ## Contacts
 
@@ -70,7 +67,4 @@ A timeline of key milestones from large scale initiatives
 
 ## Stakeholders
 
-## Related artifacts
 
-- [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md)
-- [VA.gov relaunch folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018)
