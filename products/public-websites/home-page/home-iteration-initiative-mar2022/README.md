@@ -32,7 +32,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 ## Research and design 
 
 ### Design
-
+- [Phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design/phased-design-plan.md)
 - [**Sketch**](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/a/PGEaJDr) | March 2022
 
 ### Research
@@ -53,5 +53,6 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - Research: Cindy Merrill (Ad Hoc)
 
 ## Stakeholders
+- Web governance board
 
 ## Related artifacts
