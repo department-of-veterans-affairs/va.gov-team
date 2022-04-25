@@ -3,6 +3,7 @@
 ## Overview
 - Although the redesign was planned as a series of smaller changes, given the strong evidence for change and experimental nature of our work, it was decided to go straight to the planned Step 3 design for the first build. Further refinement will be informed by Veteran research before changes are moved to production.
 - So that users of assistive technology can participate in usability testing of the new design, the iteration will be built as functional code in a subdomain on staging. Because the page will not receive visitor traffic outside of user testing, no data layer has been applied. 
+- This "first build" will be complete with internal links vs. just a static Preview home page with links out to Prod sub-pages 
 
 ## Problems to solve
 
@@ -141,30 +142,6 @@ Since it’s not going to production, we don’t have external constraints.
  
 ![First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 
-</details>
----
-
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name:  CMS-Offices
-- GitHub Label(s): CMS-Offices, homepage
-- Slack channel:  #cms-offices
-- Product POCs:  Dave Conlon (VA Sitewide Crew), Wes Rowe (Sitewide CMS team)
-
-</details>
-
-
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
 </details>
 
 ---
