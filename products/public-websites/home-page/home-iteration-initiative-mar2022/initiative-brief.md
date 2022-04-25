@@ -1,49 +1,45 @@
 ## Initiative Brief – Home Page iteration March 2022
 
-#### Overview
+## Overview
+- Although the redesign was planned as a series of smaller changes, given the strong evidence for change and experimental nature of our work, it was decided to go straight to the planned Step 3 design for the first build. Further refinement will be informed by Veteran research before changes are moved to production.
+- So that users of assistive technology can participate in usability testing of the new design, the iteration will be built as functional code in a subdomain on staging. Because the page will not receive visitor traffic outside of user testing, no data layer has been applied. 
+- The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
-Our goal is to test ideas for making it easier to find and interact with the elements of the page that positively impact Veterans by improving the usefulness of what matters to them and removing clutter and distractions. ***These experiments are not going to be deployed in production, but rather on a publicly accessible subdomain of va.gov.***
+## Problems to solve
 
-We will work through the Collaboration Cycle to determine how to measure outcomes in a non-production environment.
-  
- 
----
-
-## Outcome Summary
-We have two primary hypotheses:
-- By giving a recent and Veteran-relevant VAntage Point blog article much higher and more visible placement, Veterans will engage with the content significantly more (at least 100% increase in clicks).
-- By promoting login through more visible placement of the CTA, we believe more Veterans will sign in and thereby receive a more personalized experience (KPIs TBD).
-
-**Related/Associated product(s)**
-- [Product](https://va.gov) | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/readme.md)
-
-## Problem
-
-Sitewide Crew sees an opportunity to improve engagement with the main content on the VA.gov home page and drive specific behaviors:
-- Veterans and their caregivers who use the unauthenticated version of VA.gov are getting a less personalized and useful experience.
-- We have seen very little engagement with VAntage Point blog articles on the home page. 
-- We also have found that very few of the Top Tasks in the 4 panels at the top of the page get meaningful levels of engagement. These massive blocks of text links have the potential to discourage engagement with the page in general.
-
+- In March 2022, ~10% of users logged in to VA.gov, which means the majority of users do not benefit from the personalized experience.
+- The home page has a very low engagement (measured by event rates), particularly for
+  - VAntage Point blog articles on the home page
+  - top tasks in the 4 panels 
+- The text-heavy current experience increases cognitive load and discourages engagement. 
+- The current UX design was optimized for viewability across Desktop and Mobile, limiting the number of links to five in each of the four top task boxes. This limitation has made it difficult to respond to the expanding benefit and program landscape and stakeholder requests. 
 
 ## Desired User Outcomes
-- Increased logins
-- Increased engagement with VAntage Point content
-- Less time spent on page before taking action
+- As a Veteran I want to be able to access tools and processes quickly and easily so that I can manage my own VA benefits 
+- As a Veteran, caregiver, family member, etc, I want to be able to learn about the different benefits available to me including eligibility etc. so that I can apply to these benefits.
+- As a secondary audience to VA.gov (VSO, Member of Congress, News) I need to understand where on VA.gov I should go to manage and learn activities appropriate to my needs 
+- Veterans have increased access to self-service tools through an elevated login funnel 
 
 ## Undesired User Outcomes
 - Decrease in engagement with the most popular Top Tasks might be concerning, but would have to be viewed in context of overal engagement patterns.
 - Search behavior should be monitored for signs that prominent placement of Search in the page is attracting users for use cases that would be better served by some other path/product.
 
 ## Desired Business Outcomes
-
+- Stakeholders can promote and give visibility to new products and services
 - More traffic from the home page to the VAntage Point blog
 - More logins
 
-## Undesired Business Outcomes
-- 
-
 ---
 ## Measuring Success
+
+Our goal is to test ideas for making it easier to find and interact with the elements of the page that positively impact Veterans by improving the usefulness of what matters to them and removing clutter and distractions. ***These experiments are not going to be deployed in production, but rather on a publicly accessible subdomain of va.gov.***
+
+We will work through the Collaboration Cycle to determine how to measure outcomes in a non-production environment.
+
+### Expected outcomes
+- Increase engagement with Veteran-relevant VAntage Point blog articles by changing content placement (measured by increase in click through rate) 
+- Increase use of personalized experience (measured by increase in sign-in/sign-up rates) 
+- Decrease time to take action
 
 ### Key Performance Indicators (KPIs)
 
@@ -64,15 +60,43 @@ Sitewide Crew sees an opportunity to improve engagement with the main content on
   - There is a lot of copy in the "Browse benefits..." section. Users are likely just scanning the headings and not reading the copy. It could be generally overwhelming and create too much cognitive load to some users and they may ignore the section.
 - **Feasibility Risks** (can we build it with available tech/data):
   - The idea of creating a “parallel” home page experience seems pretty straightforward but has not been tried before in recent memory. There are potential challenges to our ideas, including Analytics setup and Search API integration. Future CMS integration has not yet been explored for feasibility or level of effort.
-  - Changes to the codebase are small and localized. The only external dependency relates to the Search component, but the implementation and functionality will be identical to the search that already exists in the header.
-  
+  - Changes to the codebase are small and localized. The only external dependency relates to the Search component, but the implementation and functionality will be identical to the search that already exists in the header. 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - We may need the support of teams outside of OCTO-DE to get our experiment live on a va.gov subdomain.
 
-### Prioritization
+## Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 Given the strong evidence for change and experimental nature of our work, we intend to implement several ideas at once. Further refinement will be possible later, especially when any of these changes is moved to production.
+
+<details>
+<summary> First build - March 2022 </summary>
+ 
+![First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
+
+</details>
+
+### Summary of changes**
+ - A randomized, rotating set of Veteran portraits has been added to the top of the page 
+ - Sign in/Sign up CTA has elevated visibility and top placement
+ - Four top task boxes have been replaced with a data-driven list of links to 5 Veteran-facing pages where actions can be taken 
+ - A visible search option which mimics the site search is available, followed by a data-driven list of four other search tools not available through Search (such as Yellow Ribbon, Education benefits, Find a VA form, Facility Locator)
+ - VAntage blog article appears in prominent location with requirements to be Veteran facing and refreshed weekly, at a minimum
+ - Benefit hubs are listed based on use volume
+ - Static row of Veteran images appear immediately above the footer
+ - Governance and guidance is available to establish required content, character limitations and criteria for inclusion of links and tasks
+
+**Value proposition**
+- Veteran portraits humanize VA
+- By using analytics to determine search tools and task lists, we can ensure optimal use of space
+- Delivers simplified, easy to read design 
+
+**Out of scope**
+- Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
+
+**Next steps**
+
+- Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices
 
 --- 
 
@@ -106,8 +130,9 @@ Since it’s not going to production, we don’t have external constraints.
 
 ### Before (Current)
 <details>
-<summary>
-<img width="461" alt="image" src="https://user-images.githubusercontent.com/4054752/159072462-61d0404c-56c7-4aff-a096-c4b010911c2e.png">
+<summary> VA.gov home page as of 3/1/2022 </summary>
+
+![Current homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-current.png)
 </details>
 
 ### After (Still on VA.gov subdomain)
