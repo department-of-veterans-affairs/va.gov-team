@@ -24,6 +24,7 @@
 * New need for a preview/snapshot view of all CMS services per Facility. 
   * ATC comparison is needed on our end to facilitate a desire to use CMS as the source of truth
 * Health Connect Phone Number - Agreement on payload expectations.
+* Update "Regular participants" for this meeting.
 
 ## Monday, April 18, 2022
 * Sitewide crew org updates
