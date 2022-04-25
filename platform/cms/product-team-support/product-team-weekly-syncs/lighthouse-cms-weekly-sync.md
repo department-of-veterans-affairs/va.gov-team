@@ -15,6 +15,11 @@
 
 ## Monday, April 25, 2022
 * V1 Rollout
+* System name with facility push details
+  * going with plain language common name
+  * waiting for LH to be ready to receive
+* VC CAP new push endpoint
+  * CMS and LH ready to implement post v1 rollout
 
 ## Monday, April 18, 2022
 * Sitewide crew org updates
