@@ -1,6 +1,6 @@
 # Project outline: Add payment/financial info to the My VA dashboard
 
-Last updated January 31, 2022
+Last updated April 27, 2022
 
 ### Communications
 
@@ -150,8 +150,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
 
 - Payments API: /v0/profile/payment_history
-     - Currently managed by the eBenefits team
-          - PM:Jason Wolf
+     - Previously managed by the eBenefits team before 4/7/2022; Currently unsure who manages this
           - OCTO-DE Lead: Matt Self
 - Debts API: /v0/debts
      - Currently managed by the Debt resolution team 
@@ -182,8 +181,8 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Jan 2022: Usability testing kickoff
 - Feb 2022: Finalize designs, development
 - Mar 2022: Complete QA
-- _Apr 2022: Complete UAT_
-- _Apr 2022: Launch!_
+- Apr 2022: Complete UAT
+- Apr 20, 2022: Launch to 25% of users
 
 ---
    
