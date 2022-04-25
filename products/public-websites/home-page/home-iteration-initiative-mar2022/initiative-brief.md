@@ -105,14 +105,18 @@ Since it’s not going to production, we don’t have external constraints.
 ## Screenshots
 
 ### Before (Current)
-
+<details>
+<summary>
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/4054752/159072462-61d0404c-56c7-4aff-a096-c4b010911c2e.png">
-
+</details>
 
 ### After (Still on VA.gov subdomain)
+<details>
+<summary> First build - March 2022 </summary>
+ 
+![First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 
-<img width="649" alt="image" src="https://user-images.githubusercontent.com/4054752/159344901-b3eb3e07-780f-44a1-bec5-b8fe1f43f905.png">
-
+</details>
 ---
 
 #### Communications
