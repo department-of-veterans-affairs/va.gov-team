@@ -3,7 +3,6 @@
 ## Overview
 - Although the redesign was planned as a series of smaller changes, given the strong evidence for change and experimental nature of our work, it was decided to go straight to the planned Step 3 design for the first build. Further refinement will be informed by Veteran research before changes are moved to production.
 - So that users of assistive technology can participate in usability testing of the new design, the iteration will be built as functional code in a subdomain on staging. Because the page will not receive visitor traffic outside of user testing, no data layer has been applied. 
-- The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
 ## Problems to solve
 
@@ -76,7 +75,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 </details>
 
-### Summary of changes**
+### Summary of changes
  - A randomized, rotating set of Veteran portraits has been added to the top of the page 
  - Sign in/Sign up CTA has elevated visibility and top placement
  - Four top task boxes have been replaced with a data-driven list of links to 5 Veteran-facing pages where actions can be taken 
@@ -93,6 +92,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 **Out of scope**
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
+- The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
 **Next steps**
 
