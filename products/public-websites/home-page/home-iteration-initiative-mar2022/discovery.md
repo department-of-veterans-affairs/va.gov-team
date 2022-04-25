@@ -1,5 +1,9 @@
 # Discovery
 
+## Homepage research
+- [**Comprehensive user research conducted for the 2018 VA.gov home page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx) | October 2018
+- [**Baseline wayfinding research on VA.gov**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) | April 2021
+
 ## Authenticated experience
 
 Purpose: A cohesive logged-in experience will help veterans complete tasks more quickly, increase veteran satisfaction with the VA, reduce the need for multiple touchpoints (other VA websites; VA call centers), and help veterans get benefits more quickly.
@@ -41,9 +45,3 @@ Purpose: A cohesive logged-in experience will help veterans complete tasks more 
 - Research**
 - Nielsen Norman Group - [Site search suggestions](https://www.nngroup.com/articles/site-search-suggestions/) -- e.g., autocomplete or autosuggest 
 - Nielsen Norman Group - [The pinball pattern of scanning the modern search results page](https://www.nngroup.com/articles/pinball-pattern-search-behavior/)
-
----
-
-## Homepage research
-- [**Comprehensive user research conducted for the 2018 VA.gov home page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx) | October 2018
-- [**Baseline wayfinding research on VA.gov**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) | April 2021
