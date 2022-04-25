@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Welcome and Introduction
-We are excited to welcome your team to VA.gov. As a new VFS team, this template should be completed by your teams Prodcut Owner and/or Product Manager. 
+We are excited to welcome your team to VA.gov. As a new VFS team, this template should be completed by your teams Product Owner and/or Product Manager. 
 
 ## User Stories
 As the leader of a new VFS team, I need to share basic info about my team with Platform so that Platform teams can have knowledge of my team for future collaboration.
