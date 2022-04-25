@@ -43,7 +43,7 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 
 ### Process
 1.	Create an issue using the [redirect request issue template]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=Sitewide+IA&template=redirect-request.md&title=Redirect+Request) at least 2 weeks prior to desired launch date**
-2.	Notify the Public Websites team in slack 
+2.	IA will review and communicate any questions or changes, and assign over to the implementation team
 3.	Implementation team will review, size and schedule as appropriate, and notify the requesting team of any technical or timing issues.
 4.	Implementation team will implement the redirects in lower environments and validate
 5.	Requesting team and implementation team will validate redirects in production
