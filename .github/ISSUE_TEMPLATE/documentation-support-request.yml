@@ -5,9 +5,7 @@ labels:
 body:
   -type: markdown
   attributes:
-    values:
-    1. 
-    2. 
+    value:
   -type: dropdown
    id: type of help
    attributes: 
