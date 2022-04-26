@@ -7,7 +7,9 @@ The team reviewed all previous research associated with the current Review Page 
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This research effort will inform <a href = "https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022" Q2 2022 Objective </a href>: Build a working demo of the first iteration of the VA Forms System Core. <br>
+
+This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. 
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
