@@ -1,4 +1,4 @@
-# # Getting Started with VA.gov Forms
+# Getting Started with VA.gov Forms
 
 _Compiled by:_ Shawna Hein, VA.gov applications Design Lead
 
