@@ -179,16 +179,19 @@ QA!!!
 - Once this is in prod, we can do an internal UAT with our own prod accounts
 - Add GA tracking to this. [This is the ticket for analytics folk](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40107), but Adam will need to implement in our code.
 
+### Notification preferences
 
----
+TBD, but there is likely work here for either the comp & pen deposit notification or the eBenefits migration work.
+
+### Direct deposit
+
+This assumes all Liz's sprint 72 tickets are complete and the work is ready to go for Mark.
+
+**FE - Mark**
+
+- Implement Liz's updates to show direct deposit persistently
 
 ### Bad address indicator
-
-**PM**
-
-- Start on QA use cases #39379
-  - This likely will not be completed this sprint
-  - Talk to Tom/Marci about which test user to use
 
 **Design - Christina**
 
