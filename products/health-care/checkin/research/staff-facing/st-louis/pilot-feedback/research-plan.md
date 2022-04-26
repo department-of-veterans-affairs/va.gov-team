@@ -27,7 +27,7 @@ This research supports the following objectives:
 - Decrease time to successfully complete and submit online transactions
 
 ### Veteran Journey
-The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
 
 ## Research goals/questions
 - After a Veteran utilized the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/MSA?
