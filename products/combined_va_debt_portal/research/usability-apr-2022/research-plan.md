@@ -198,7 +198,7 @@ To understand how Veterans interact with the portal depending on their experienc
 #### Screener questions 
 
 1. Which of the following describes you?
-  * I use VA health care and receive copays (Group 1)
+  * I use VA health care and have received a copay bill in the past 6 months (Group 1)
   
   * I use VA health care and do not receive copays (Group 2)
   
@@ -216,7 +216,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
 ## Timeline
 
-TBD – likely mid-April 
+TBD – estimated late May 
 
 
 ### Prepare
@@ -227,7 +227,7 @@ TBD – likely mid-April
 
 ### Research sessions
 
-TBD – Depends on development timeline; likely mid-April  
+TBD – Depends on development timeline; estimated late May 
 
 #### Length of sessions 
 
@@ -235,26 +235,26 @@ TBD – Depends on development timeline; likely mid-April
 
 ### Availability
 
-[TBD post-contract agreement; likely mid-late April]
+[TBD post-contract agreement; estimated late May]
 
 Date | Time
 -----|-----
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
-4/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
+5/-/2022 | 0:00 AM - 0:00 PM
 
 ## Team Roles		
-- Moderator: Riley Orr (riley@amida.com)
+- Moderator: Riley Orr (riley@amida.com) and Kevin Stachura (kevin.stachura@govcio.com)
 - Research guide writing and task development: Riley Orr (riley@amida.com)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Riley Orr (riley@amida.com)
+- Project point of contact: Riley Orr (riley@amida.com) and Kevin Stachura (kevin.stachura@govcio.com)
 - Participant(s) for pilot test: TBD
-- Note-takers: Perigean
+- Note-takers: Riley Orr and Kevin Stachura 
 - Observers: Denise Coveyduc (denise.coveyduc@govcio.com), Matthew Self (matthew.self2@va.gov), Brandyn Sullins (brandyn.sullins@govcio.com), Scott James (scott.james@gcio.com), Andrew Rodiek (andrew.rodiek@govcio.com)
