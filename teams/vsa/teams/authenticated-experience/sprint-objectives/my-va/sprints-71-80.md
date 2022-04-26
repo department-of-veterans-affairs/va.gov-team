@@ -126,13 +126,28 @@ VANotify to complete their work in the next two sprints
 - Erica: 5/3 - 5/10
 - AJ: 5/4 - 5/6
 
-## Sprint 74 (5/18 - 5/31)
+### Benefit payments & debts
+
+**Design**
+
+- *For V2*: Updates coming out of the design intent (this assumes design intent happened in sprint 72)
+
+**FE**
+
+- *For V1*: Launch to 100%
 
 ### My VA audit
 
 **Design**
 
 - Review audit with team to make sure nothing is missing
+
+## Sprint 74 (5/18 - 5/31)
+
+### My VA audit
+
+**Design**
+
 - Start streamlining states for each section
   - Start with nametag and payment info (since we are working on it anyway)
   - Each section should always appear on the page
