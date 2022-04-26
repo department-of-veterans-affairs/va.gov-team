@@ -165,13 +165,13 @@ To understand how Veterans interact with the portal depending on their experienc
 
    - At least **10 people** who: 
 
-     - Have received a VA health care copay bill **and** 
+     - Have received a VA health care copay bill within the past 6 months **and** 
 
      - Have had at least one of the following VA Debts: CH 33/Post-9/11 GI Bill, CH 34, CH 35, or Compensation & Pension 
 
    - Maximum **5 people** who:  
 
-     - Have received a VA health care copay bill **and** 
+     - Have received a VA health care copay bill within thee past 6 months **and** 
 
      - Have never received a VA debt 
 
@@ -179,7 +179,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
 - Maximum **5 people** who: 
 
-   - Haven’t received VA health care copay bills **and** 
+   - Haven’t received VA health care copay bills within the past 6 months **and** 
 
    - Have had at least one of the following VA debts: CH 33, Post-9/11 GI Bill, CH 34, CH 35, or Compensation & Pension
 
