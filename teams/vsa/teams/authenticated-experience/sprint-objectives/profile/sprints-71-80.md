@@ -163,6 +163,11 @@ QA!!!
 
 ### Military information
 
+**PM - Sharon**
+
+- Fill out/submit collab cycle kickoff issue
+  - Make it clear this is a backend issue only, so we likely will only need parts of the collab cycle
+
 **BE - Tom**
 
 - Discovery: Review VA Profile swagger docs
