@@ -7,8 +7,7 @@ The team reviewed all previous research associated with the current Review Page 
 
 ### OCTO Objectives 
 
-This research effort will inform [Q2 2022 objectives](https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022)
-: Build a working demo of the first iteration of the VA Forms System Core. <br>
+This research effort will inform the [Q2 2022 objective](https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022): Build a working demo of the first iteration of the VA Forms System Core, specifically the Review Page pattern to be included in that working demo.<br>
 
 This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. 
 
@@ -19,9 +18,9 @@ Are there moments that matter?
 ## Research Goals	
 The Forms Library Team aims to understand:
 
-- How Veterans use the Review Page in the form experience and more specifically the Application for Burial Benefits form Review Page
-- Identify pain points and accessibility issues on the Review Page of the Application for Burial Benefits form experience
-- How Veterans interact with the Review Page components in order to determine which of the two design variation best suit their needs 
+- How Veterans use the Review Page in the forms experience by using the Application for Burial Benefits form Review Page as an example
+- Pain points and accessibility issues on the Review Page of the Application for Burial Benefits form experience
+- How Veterans interact with the Review Page components in order to determine which of the design variations best suit their needs 
 
 
 ### Outcome
@@ -48,12 +47,12 @@ The findings from this research will help the team better understand Veteran nee
 
 <h4> Pain Points</h4>
 - Thinking about the Review Page specifically, what are some of the things you like and don’t like about using the Review Page? <br>
-- Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s) <br>
+- Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s)? <br>
 
 
 ### Hypothesis
 Veterans are frustrated with manually filling long forms. <br>
-Veterans prefer to quickly review all hte information in the same Review page. <br>
+Veterans prefer to quickly review all the information in the same Review page. <br>
 Veterans would prefer to edit any information that might need updating in the original page rather than the Review page. 
 
 ## Method	
@@ -61,7 +60,7 @@ Veterans would prefer to edit any information that might need updating in the or
 
 - To talk about their experiences filling out forms (5 mins) 
 - Share the burial form prototype and fill out a couple of pages to get them grounded (5 mins)
-- Talk about Review Page in general (do they review before submission, do they edit before submission) (10 mins)
+- Talk about the Review Page in general (do they review before submission, do they edit before submission) (10 mins)
 - Task - request the participant to edit a typo in a specific form field to observe how participants find/edit information (5 mins)
 - Share the three variations of the Review page and compare the three design options to identify which better suits your need (30 mins)
 	- Open versus closed accordion
@@ -84,56 +83,48 @@ For moderated interviews:
 ## Recruitment	
 
 ### Recruitment approach
-Pergean will assist us to recruite Veterans for remote, moderated user testing research session.  
+Perigian will assist us to recruite Veterans for remote, moderated user testing research session.  
 
 ### Recruitment criteria
-Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions) <br> 
-Gender: <br>
-6 male and 6 female participants <br>
-Age group: <br>
-30 - 40yrs (4 participants) <br>
-40 - 50yrs (4 participants) <br>
-50 - 60yrs (4 participants)<br>
-Technology/screen size: 12 mobile users<br>
 
 **Primary criteria (must-haves)** <br>
-Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions) <br>
-Gender:6 male and 6 female participants <br>
-Technology/screen size: 12 mobile users <br>
+- Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions) <br>
+- Gender: 6 male and 6 female participants <br>
+- Technology/screen size: 12 mobile users <br>
 
 **Secondary criteria (nice-to-haves)** <br>
 Age group <br>
-30 - 40yrs (4 participants) <br>
-40 - 50yrs (4 participants) <br>
-50 - 60yrs (4 participants)<br>
+- 30 - 40yrs (4 participants) <br>
+- 40 - 50yrs (4 participants) <br>
+- 50 - 60yrs (4 participants)<br>
 
 ## Timeline
-Completion of 6 successful research session between June 9  - 13th
+Completion of 6 successful research session between May 9  - 13th
 
 ### Prepare
  
-June 5, 2022
+May 5, 2022
 
 * Pilot participant email: TBD
-* Date and time of pilot session: June 3, 2022 time (TBD)
+* Date and time of pilot session: May 3, 2022 time (TBD)
 
 ### Research sessions
-June 9  - 13th
+May 9  - 13th
 
 ### Length of sessions
 60 minutes with 30 minutes buffer between sessions
 
 ### Availability
-June 9, Monday - 12 - 5pm EST <br>
-June 10, Tuesday - 12 - 5pm EST <br>
-June 11, Wednesday - 12 - 5pm EST <br>
-June 12, Thursday - 12 - 5pm EST <br>
-June 13, Friday - 12 - 5pm EST
+May 9, Monday - 12 - 5pm EST <br>
+May 10, Tuesday - 12 - 5pm EST <br>
+May 11, Wednesday - 12 - 5pm EST <br>
+May 12, Thursday - 12 - 5pm EST <br>
+May 13, Friday - 12 - 5pm EST
 	
 ## Team Roles		
 - Moderator: Kavitha Krishnan (kavitha.krishnan@adhocteam.us)	<br>
 - Research guide writing and task development: Kavitha Krishnan	<br>
-- Participant recruiting & screening: Pergean<br>
+- Participant recruiting & screening: Perigian<br>
 - Project point of contact: Kavitha Krishnan	<br>	
 - Participant(s) for pilot test: TBD	<br>
 - Note-takers: Brittany Iannuzzi (Brittany.Iannuzzi@adhocteam.us) <br>
