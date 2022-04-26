@@ -160,7 +160,7 @@ How long do you estimate each session will be? (This helps with scheduling & tha
 When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 Please request enough dates and time slots for the number of requested participants (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
 
-Request that Perigean schedule the sessions with buffer time to enable the researcher to debrief and decompress before the next session. For trauma-informed research, we recommend scheduling as much time as the researcher needs between sessions to recover, even if it means conducting only one session per day (or every other day). As a minimum, we recommend *at least 60-90 minutes buffer time* between sessions, and a *maximum of 2-3 sessions per day.*
+Request that Perigean schedule the sessions with buffer time to enable the researcher to debrief and decompress before the next session. For trauma-informed research, we recommend scheduling as much time as the researcher needs between sessions to recover, even if it means conducting only one session per day (or every other day). As a minimum, we recommend *at least 60-90 minutes buffer time between sessions, and a maximum of 2-3 sessions per day.*
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
