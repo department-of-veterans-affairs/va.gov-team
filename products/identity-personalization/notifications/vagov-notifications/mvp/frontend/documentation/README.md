@@ -1,7 +1,5 @@
 # Notifications Frontend Documentation (WIP)
 
-All copy will be updated in this [Copy Documtenation doc.](add link)
-
 ## Sketch Mockups
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx)
@@ -29,7 +27,7 @@ If a user has no new notifications since they last logged in but has notificatio
 
 *Copy Specs*
 
-- [Copy Documentation](add link)
+- [exclamation-triangle icon] You have new debt. (link) Manage your VA debt
 
 **State 2: A user who has new notifications since they last logged in.**
 
@@ -43,7 +41,7 @@ If a user has new notifications since they last logged in, we will show the warn
 
 *Copy Specs*
 
-- [Copy Documentation](add link)
+- [exclamation-triangle icon] You have new debt. (link) Manage your VA debt
 
 **State 3: A user who has no notifications.**
 
@@ -54,52 +52,3 @@ If a user has no notifications, we will **NOT** show this section.
 *Visual Specs*
 
 ![Screen Shot 2022-04-26 at 11 17 22 AM](https://user-images.githubusercontent.com/97965610/165334406-b8ddec9a-242b-4573-8a1f-6ac15f43bb69.png)
-
-## Notifications page
-
-**State 1: A user who has notifications.**
-
-*UX Specs*
-
-We will show all notifications that we are able to through VA Notify in reverse chronological order. 
-
-This includes:
-
-- TBD
-
-### Notification breakdown
-
-The following are the data points that will be included for each specific notification.
-
-- TBD
-
-*Visual Specs*
-
-ADD IMAGE
-
-*Copy Specs*
-
-- [Copy Documentation](add link)
-
-## Notifications link in header (TBD)
-
-We will be adding an omni-present 'Notifications' link into the header. 
-
-(if we can NOT show prioritization on My VA)
-
-**Desktop** 
-
-We will add the 'Notifications link next to 'My Health".
-
-(if we can show prioritization on My VA)
-
-We will add a 'Notifications' link buried under the username dropdown menu. (same as mobile)
-
-*UX Specs*
-
-If a user has new notifications since they last logged in, we will show the red dot indicator next to the Notifications or the username of the user (TBD)
-
-*Visual Specs*
-
-ADD IMAGE
-
