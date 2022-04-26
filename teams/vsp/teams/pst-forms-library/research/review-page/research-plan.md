@@ -9,7 +9,7 @@ The team reviewed all previous research associated with the current Review Page 
 
 This research effort will inform the [Q2 2022 objective](https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022): Build a working demo of the first iteration of the VA Forms System Core, specifically the Review Page pattern to be included in that working demo.<br>
 
-This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. Further information is available in the [product outline] (https://vfs.atlassian.net/wiki/spaces/FLT/pages/2166915073/VA+Forms+System+Core+VAFSC+Product+Outline).
+This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. Further information is available in the [product outline](https://vfs.atlassian.net/wiki/spaces/FLT/pages/2166915073/VA+Forms+System+Core+VAFSC+Product+Outline).
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
