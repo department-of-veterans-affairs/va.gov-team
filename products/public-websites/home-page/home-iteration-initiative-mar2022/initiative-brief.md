@@ -97,6 +97,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 **Next steps**
 
+- Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
 - Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices
 
 --- 
