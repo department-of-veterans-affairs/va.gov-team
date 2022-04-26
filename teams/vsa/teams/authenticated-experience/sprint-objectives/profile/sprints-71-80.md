@@ -139,6 +139,44 @@ Tom should finish all backend work for personal information revisions first. So,
 
 ## Sprint 73 (5/4 - 5/17)
 
+### Personal information revisions
+
+QA!!!
+
+**PM**
+
+- QA go/no-go
+- Analytics request
+- Release plan
+
+**QA**
+
+- Complete QA & create tickets for issues found (if applicable)
+
+**Design, FE, BE**
+
+- If applicable, start on any issues coming out of QA (this assumes QA is complete well before the end of the sprint)
+
+### MHV Research
+
+- Deliver results to MHV folks (ticket already exists)
+
+### Military information
+
+**BE - Tom**
+
+- Discovery: Review VA Profile swagger docs
+- Scope work
+- Start working on reintegrating military information through VA Profile
+
+### Address change messaging
+
+- Once this is in prod, we can do an internal UAT with our own prod accounts
+- Add GA tracking to this. [This is the ticket for analytics folk](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40107), but Adam will need to implement in our code.
+
+
+---
+
 ### Bad address indicator
 
 **PM**
@@ -150,23 +188,6 @@ Tom should finish all backend work for personal information revisions first. So,
 **Design - Christina**
 
 - Create high fidelity mockups
-
-### Address change messaging
-
-- Once this is in prod, we can do an internal UAT with our own prod accounts
-- Add GA tracking to this. [This is the ticket for analytics folk](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40107), but Adam will need to implement in our code.
-
-### MHV Research
-
-- Meet with MHV folks (ticket already exists)
-
-### Military information
-
-**BE - Tom**
-
-- Discovery: Review VA Profile swagger docs
-- Scope work
-- Get started
 
 ## Sprint 74 (5/18 - 5/31)
 
