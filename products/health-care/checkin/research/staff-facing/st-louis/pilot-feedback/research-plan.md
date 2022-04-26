@@ -75,5 +75,5 @@ Research: 2-3 full days onsite during the week of April 25th.
 - Research guide writing and task development: Kristen McConnell
 
 
-### Note:
+## Notes
 The appointment notification questions are also related to this [VAOS study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop/research-plan.md).
