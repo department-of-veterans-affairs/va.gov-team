@@ -9,7 +9,7 @@ body:
     1. 
     2. 
   -type: dropdown
-   id: help-with
+   id: type of help
    attributes: 
       label: What do you need help with?
       description: What do you need help with?
@@ -19,3 +19,13 @@ body:
         -Reviewing recently written, never before published drafts
    validations:
      required: true
+  -type: dropdown
+    id: primary users
+    attributes:
+      label: Who are the primary users of your documentation? Check all that apply:
+      description: Who are the primary users of your documentation? Check all that apply:
+      options: 
+        -Developers
+        -Designers and researchers
+        -Product managers
+        -Others
