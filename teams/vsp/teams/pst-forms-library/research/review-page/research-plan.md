@@ -94,13 +94,13 @@ Age group: 30 - 40yrs (4 participants), 40 - 50yrs (4 participants) and 50 - 60y
 Technology/screen size: 12 mobile users
 
 **Primary criteria (must-haves)**
-Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions)<br>
-<h4>Demographics</h4><br>
+Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions) <br>
+<h4>Demographics</h4> <br>
 Gender:6 male and 6 female participants <br>
-Technology/screen size: 12 mobile users<br>
+Technology/screen size: 12 mobile users <br>
 
 **Secondary criteria (nice-to-haves)**
-<h4>Age group</h4>
+ Age group <br>
 30 - 40yrs (4 participants) <br>
 40 - 50yrs (4 participants) <br>
 50 - 60yrs (4 participants)<br>
