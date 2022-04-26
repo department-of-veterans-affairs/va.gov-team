@@ -110,10 +110,10 @@ This usability study will be conducted remotely via Zoom with participants that 
 
 Moderated usability study materials: 
 
-- [Link to conversation guide](TBD) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md) 
 
 - [Link to prototype](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i) 
-   - Note: We will be conducting the study in production behind a featur flag – URL TBD 
+   - Note: We will be conducting the study in production behind a feature flag – URL TBD 
 
 ## Recruitment
 
