@@ -174,6 +174,8 @@ _Why would your business want this to exist?_
 
 ![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
 
-### Version 2.0
+### Version 2.0 -- July 2022
 
 ![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
+
+### Addition of Benefit payments and debts
