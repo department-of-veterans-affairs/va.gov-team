@@ -7,7 +7,7 @@ The team reviewed all previous research associated with the current Review Page 
 
 ### OCTO Objectives 
 
-This research effort will inform [Q2 2022 Obhective] (https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022)
+This research effort will inform [Q2 2022 objectives](https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022)
 : Build a working demo of the first iteration of the VA Forms System Core. <br>
 
 This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. 
@@ -25,29 +25,30 @@ The Forms Library Team aims to understand:
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The findings from this research will help the team better understand Veteran needs and expectations around the Review Page (after completion but before submission of a form). Based on use, Veteran expectation and preference, a Review Page pattern that best suits Veteran needs will be chosen to build in the Q2 Working Demo. 
+
 
 ### Research questions
 <h4>General VA form filling experience </h4>
-1. What VA forms have you filled out in the past?
-2. Typically, who fills out the forms? (You or does someone else help you fill the forms?)
-3. What device do you use to fill out the forms? On your phone, computer, etc.?
+1. What VA forms have you filled out in the past? <br>
+2. Typically, who fills out the forms? (You or does someone else help you fill the forms?)<br>
+3. What device do you use to fill out the forms? On your phone, computer, etc.? <br>
 4. Typically, how long does it take for you to fill a form? <br>
 
 <h4>Review Page </h4>
-1. When in the process do you usually verify the information before submitting the form?
+1. When in the process do you usually verify the information before submitting the form? <br>
 2. Please talk to me about your experience editing or correcting any entry on the Review Page? <br>
 
 <h4>Design Options </h4>
-1. Compare the three design options to identify which better suits your need
-2. Open versus closed accordion
-3. Editing in Review page versus the original page
-4. Edit button per section or one for each element
+1. Compare the three design options to identify which better suits your need <br>
+2. Open versus closed accordion <br>
+3. Editing in Review page versus the original page <br>
+4. Edit button per section or one for each element <br>
 5. Using ‘edit’ versus ‘change’ (terminology) <br>
 
 <h4> Pain Points</h4>
-1. Thinking about the Review Page specifically, what are some of the things you like and don’t like about using the Review Page?
-2. Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s)
+1. Thinking about the Review Page specifically, what are some of the things you like and don’t like about using the Review Page? <br>
+2. Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s) <br>
 
 
 ### Hypothesis
