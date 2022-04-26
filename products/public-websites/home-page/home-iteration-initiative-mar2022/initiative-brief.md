@@ -65,7 +65,6 @@ We will work through the Collaboration Cycle to determine how to measure outcome
   - We may need the support of teams outside of OCTO-DE to get our experiment live on a va.gov subdomain.
 
 ## Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 Given the strong evidence for change and experimental nature of our work, we intend to implement several ideas at once. Further refinement will be possible later, especially when any of these changes is moved to production.
 
@@ -97,8 +96,13 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 **Next steps**
 
+Research
 - Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
-- Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices
+- Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices, with the following goals
+  - confirm list of "popular links" along with validating that Veterans understand to search for other tasks not appearing on that short list
+  - understand Veteran expectations of search behavior
+
+Explore routed queries
 
 --- 
 
