@@ -22,7 +22,7 @@ This README page serves as a "front door" to research documentation and resource
 
 ## Homepage research
 
-### Veteran Top Tasks UNMODERATED | _In planning 2Q22_
+### [Veteran Top Tasks UNMODERATED](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/research/Veteran-tasks) | _In planning 2Q22_
 - Goal: To determine how well the VA.gov homepage enables Veteran task completion
 
 ### [Baseline Wayfinding Research on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) | April 2021
