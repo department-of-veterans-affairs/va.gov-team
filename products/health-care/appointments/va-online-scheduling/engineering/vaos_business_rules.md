@@ -10,6 +10,12 @@ In order to open VAOS on va.gov, a user must:
 - Have a record in MPI
 - Have at least one correlation id in MPI that corresponds to a VistA site registration
 
+## SQA Current Deployment Schedule
+
+VAOS, VAR-RES, SM Web Current/Planned Deployment Schedule:
+
+https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
+
 ## New appointment flow
 
 ### Type of care page
