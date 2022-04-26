@@ -9,7 +9,7 @@ The team reviewed all previous research associated with the current Review Page 
 
 This research effort will inform the [Q2 2022 objective](https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022): Build a working demo of the first iteration of the VA Forms System Core, specifically the Review Page pattern to be included in that working demo.<br>
 
-This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. 
+This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. Further information is available in the [product outline] (https://vfs.atlassian.net/wiki/spaces/FLT/pages/2166915073/VA+Forms+System+Core+VAFSC+Product+Outline).
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
@@ -50,8 +50,7 @@ The findings from this research will help the team better understand Veteran nee
 - Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s)? <br>
 
 
-### Hypothesis
-Veterans are frustrated with manually filling long forms. <br>
+### Hypothesis 
 Veterans prefer to quickly review all the information in the same Review page. <br>
 Veterans would prefer to edit any information that might need updating in the original page rather than the Review page. 
 
@@ -59,7 +58,7 @@ Veterans would prefer to edit any information that might need updating in the or
 60 mins 1:1 semi-structured interview with 6 Veterans and 1 pilot session with a team member
 
 - To talk about their experiences filling out forms (5 mins) 
-- Share the burial form prototype and fill out a couple of pages to get them grounded (5 mins)
+- Share the burial form prototype and walk through the pages that would require Veterans to enter information to get them grounded (5 mins)
 - Talk about the Review Page in general (do they review before submission, do they edit before submission) (10 mins)
 - Task - request the participant to edit a typo in a specific form field to observe how participants find/edit information (5 mins)
 - Share the three variations of the Review page and compare the three design options to identify which better suits your need (30 mins)
@@ -72,11 +71,12 @@ Veterans would prefer to edit any information that might need updating in the or
 ### Location
 Remote research using Zoom
 
-### Research materials
+### Research materials (To be added)
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
+- [Link to Sketch Prototyoe] (url goes here)
 - [Link to conversation guide](url goes here) 
 
 	
