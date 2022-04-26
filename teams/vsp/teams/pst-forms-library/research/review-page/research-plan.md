@@ -1,4 +1,4 @@
-# Research Plan for Forms Library Team, Review Page, Apr - May 2022]
+# Research Plan for Forms Library Team, Review Page, Apr - May 2022
  
 
 ## Background
