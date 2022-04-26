@@ -23,7 +23,7 @@
 
 ## 1. Purpose
 
-The purpose of this document is to provide an overview of the approach to test the performance of Check-in and Pre Check-in Experience. Our current target is the upcoming rollout to VISN8 with facilities in FL, PR, and Virgin Islands.
+The purpose of this document is to provide an overview of the approach to test the performance of Check-in and Pre Check-in Experience. Our current target is the upcoming rollout to VISN8 with facilities in FL, PR, and Virgin Islands, scheduled for May 2, 2022.
 
 ## 2. Introduction
 
@@ -32,7 +32,7 @@ The purpose of this document is to provide an overview of the approach to test t
 
 ### Load Estimates
 
-Mobile Check-in will be enabled in the VISN8 stations in a staggered manner. The table below shows weekly deployment schedule and the actual appointments in those stations for the week of 4/22/2022.
+Mobile Check-in will be enabled in the health care stations in a staggered manner. The table below shows weekly deployment schedule and the actual appointments in those stations for the week of 4/22/2022.
 
 <details>
   <summary>Deployment Schedule and Appointments</summary>
@@ -93,18 +93,6 @@ The goal of testing this subsystem is to ensure that vets-website front-end and 
 ![vets-website and vets-api subsystem](./subsystems/subsytem_website_api.png "vets-website/vets-api Subsystem")
 
 For more details on vets-website and vets-api performance test approach, see [vets-website/vets-api performance test approach](./website-api-perf-testing.md)
-#### LoROTA
-
-LoROTA application is a set of lambdas that provide api endpoints for low risk token authentication. Currently, this is primary used by vets-api and CHIP to get and set the token or data associated with a patient (Veteran with a healthcare appointment).
-
-#### CHIP
-CHIP is a set of lambdas that provide various endpoints to vets-api (or other consumers) to interact with downstream services like VistA and Clinician Workflow.
-
-![CHIP subsystem](./subsystems/subsystem_chip.png "CHIP subsystem")
-
-For more details on CHIP performance test approach, see [CHIP performance test approach](./chip-perf-testing.md)
-
-#### Clinician Workflow
 
 #### VistA API
 
@@ -116,8 +104,17 @@ The goal of testing this subsystem is to ensure that the resources allocated to 
 
 For more details on vets-website and vets-api performance test approach, see [vista-api performance test approach](./vista-api-perf-testing.md)
 
-#### CHIP, Clinician Workflow and vista-api
-The goal of these tests is to validate the performance of a combined subsystem with CHIP, Clinician Workflow and vista-api.
+#### CHIP, LoROTA, Clinician Workflow and vista-api
+
+LoROTA is a set of lambdas that provide api endpoints for low risk token authentication. Currently, this is primary used by vets-api and CHIP to get and set the token or data associated with a patient (Veteran with a healthcare appointment).
+
+CHIP is a set of lambdas that provide various endpoints to vets-api (or other consumers) to interact with downstream services like VistA and Clinician Workflow.
+
+The goal of these tests is to validate the performance of a combined subsystem with CHIP, LoROTA, Clinician Workflow and vista-api.
+
+![CHIP/CW/VistA API subsystem](./subsystems/subsystem_chip_cw_vista-api-container-diagram.png "CHIP/CW/VistA API subsystem")
+
+For more details on CHIP performance test approach, see [CHIP/LoROTA/CW/VistA API performance test approach](./chip-lorota-cw-vista-api-perf-testing.md)
 
 ### Test Environment
 
