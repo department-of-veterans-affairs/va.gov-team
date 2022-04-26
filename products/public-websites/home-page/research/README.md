@@ -2,9 +2,9 @@
 
 This README page serves as a "front door" to research documentation and resources related to the VA.gov homepage. 
 
-Table of contents
+## Table of contents
 
-Homepage research
+**Homepage research**
  
  - [Veteran Top Tasks UNMODERATED](#veteran-top-tasks-unmoderated--in-planning-2q22)
 
@@ -12,8 +12,7 @@ Homepage research
 
 - [Comprehensive user research conducted for the 2018 VA.gov home page](#comprehensive-user-research-conducted-for-the-2018-vagov-home-page--october-2018)
 
-
-Related research
+**Related research**
 
 - [Comparative analysis: Personalization and profile](#comparative-analysis-personalization-and-profile--december-2021)
 
