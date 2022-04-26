@@ -1,0 +1,21 @@
+name: Documentation Support Request
+description: To request documentation support
+title: Documentation support for [platform team]
+labels: 
+body:
+  -type: markdown
+  attributes:
+    values:
+    1. 
+    2. 
+  -type: dropdown
+   id: help-with
+   attributes: 
+      label: What do you need help with?
+      description: What do you need help with?
+      options: 
+        -Creating new documentation
+        -Updating previously published documentation
+        -Reviewing recently written, never before published drafts
+   validations:
+     required: true
