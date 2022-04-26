@@ -1,8 +1,8 @@
-# Getting Started with VA.gov Forms
+# # Getting Started with VA.gov Forms
 
-_Compiled by:_ Shawna Hein, VSA Design Lead
+_Compiled by:_ Shawna Hein, VA.gov applications Design Lead
 
-_With contributions from:_ VSA Design: Jonathan Nelson, Liz Lantz, Christian Valla, Becca Walsh, VSP Engineering: Chris Valarida, VSP Content: Peggy Gannon
+_With contributions from:_ VA.gov applications: Jonathan Nelson, Liz Lantz, Christian Valla, Becca Walsh, VSP Engineering: Chris Valarida, VSP Content: Peggy Gannon
 
 So you’re moving a paper form online.  Or moving a legacy online form to VA.gov. What are your next steps? 
 
@@ -47,29 +47,29 @@ For a bit of context on the technical side, [read up on the form system](https:/
 ### Content Pages
 Typically, there is a Drupal content page that a user can read before entering an online form, where they learn about eligibility and how to apply.  This page can have wizards, buttons, and/or application status widgets that link to the form.
 
-Example here: [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406902817](https://www.va.gov/disability/how-to-file-claim/)
+[InVision mock-up example here](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406902817)
 
 You can see some “in the wild” examples here:
 
-* [https://www.va.gov/health-care/how-to-apply/](https://www.va.gov/health-care/how-to-apply/)
-* [https://www.va.gov/health-care/eligibility/](https://www.va.gov/health-care/eligibility/)
-* [https://www.va.gov/disability/how-to-file-claim/](https://www.va.gov/disability/how-to-file-claim/)
+* [How to apply for VA health care](https://www.va.gov/health-care/how-to-apply/)
+* [Eligibility for VA health care](https://www.va.gov/health-care/eligibility/)
+* [How to file a VA disability claim](https://www.va.gov/disability/how-to-file-claim/)
 
 #### The Application Status Widget
 This application status widget is a dynamic section within the content pages, and changes depending on whether the user is logged out/logged in and whether they have started a form or not.  
 
-The states can be seen here [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406902821](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406902821)
+The states can be seen [here](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406902821)
 
 ### The Introduction Page
 [Guidelines on the content of the introduction page can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md)
 
-Example here: [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500061](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500061)
+[Example here](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500061)
 
 ### The Main Form Pages
-Some examples start here (use the right arrow key to navigate through): [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387)
+[Some examples start here](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387) (use the right arrow key to navigate through)
 
 #### Sectioning of the Form
-(Reference: [https://dsva.slack.com/archives/C0NGDDXME/p1578005824025300](https://dsva.slack.com/archives/C0NGDDXME/p1578005824025300))
+([Reference](https://dsva.slack.com/archives/C0NGDDXME/p1578005824025300))
 
 * When deciding how fields should be laid out in the form in terms of “chunking,” forms should be sectioned into chapters, with the progress bar in a "how you would explain the steps to someone out loud" methodology. (e.g. first we'll get veteran info, then spouse info, then info about the claim)
 * If the screens within the chapters end up having more than 3-5 questions, or more than one conceptual topic, as a general rule, break those screens into multiple "pages" within the section. For example, if you have a chapter on “Veteran info” you may have multiple pages within that chapter, one where you get contact information, another where you get medical information. 
@@ -79,7 +79,7 @@ Some examples start here (use the right arrow key to navigate through): [https:/
 #### Addresses
 Many forms have sections where users are asked to review and/or edit an address. 
 
-If the user is editing an address, if possible, make sure it only is editing the address for that particular form and is not necesssarily editing the profile address on file. Use the following language on the form to make that clear to folks:
+If the user is editing an address, if possible, make sure it only is editing the address for that particular form and is not necessarily editing the profile address on file. Use the following language on the form to make that clear to folks:
 
 `This is the address we have on file for you. Any updates you make here to your address will apply only to this application.
 {address form fields, etc..}.` 
@@ -98,7 +98,7 @@ If your form has a section where user can add “multiple” of something, e.g. 
 There is a [Form labels master list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-labels.md) - Please work with a content editor to ensure we use these labels as defaults when creating form fields and questions. This document will continually be updated as more forms are brought online and new fields and/or questions are documented. 
 
 #### Optional vs Required labeling
-(Reference: [https://dsva.slack.com/archives/C0NGDDXME/p1570051496075200](https://dsva.slack.com/archives/C0NGDDXME/p1570051496075200))
+([Reference](https://dsva.slack.com/archives/C0NGDDXME/p1570051496075200))
 
 * For now we are marking fields as Required and assuming all fields not marked Required are optional
 * This may be revisited as part of a design system council initiative
@@ -112,7 +112,7 @@ If you want to give users direction on how to fill in a field, current standard 
 * [Step by step “Wizard” / Revealing more questions](https://design.va.gov/patterns/wizards)
 
 ### The Review Page
-Example here: [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903673](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903673)
+[Example here](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903673)
 
 This page consists primarily of accordions the user can expand to view and edit the data they have entered.
 
@@ -128,11 +128,11 @@ Examples of [confirmation pages in the wild can be seen here](https://dsva.slack
 ### Cross-Page Topics
 
 #### Legalese Vs Plain Language
-(Reference: [https://dsva.slack.com/archives/C0NGDDXME/p1579133450082200](https://dsva.slack.com/archives/C0NGDDXME/p1579133450082200))
+([Reference](https://dsva.slack.com/archives/C0NGDDXME/p1579133450082200))
 
 In general, our online forms should not be framed as a 1:1 mapping of the paper form - in other words, what we are building are data collection mechanisms for the forms themselves, and therefore do not need approval in the same way the forms themselves do.  Therefore, the language does not need to map 1:1 to the paper forms.  In general, voice and tone strategy on our online pages should use plain language.
 
-A legal memo addresses this situation.: “As long as the underlying, approved form is not altered and the interactive materials essentially collect the same information, then OIRA considers these applications a nonsubstantive change to an already approved collection, and would encourage their development.” ([https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/pra_flexibilities_memo_7_22_16_finalI.pdf](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/pra_flexibilities_memo_7_22_16_finalI.pdf)).
+[A legal memo](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/pra_flexibilities_memo_7_22_16_finalI.pdf) addresses this situation.: “As long as the underlying, approved form is not altered and the interactive materials essentially collect the same information, then OIRA considers these applications a nonsubstantive change to an already approved collection, and would encourage their development.” 
 
 For legal or regulatory content, however, we need to use judgment and be careful. Sometimes this might mean providing a plain language summary and the legal language in parentheses for reference. We’ve sometimes used this approach on the public website unauthenticated pages. For tools and authenticated experiences, you can use things like the “learn more” dropdown or modals to have plain language versions alongside legal definitions.
 
@@ -141,8 +141,7 @@ You may need to get PRA approval or other kinds of approval if you are tweaking 
 ## The Form Design Process
 There are a few documents that have been written to help PMs and their teams structure how and when they do things when embarking on a form project for VA.gov: 
 
-* [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
-* [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-process-modernizing-VA-forms.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-process-modernizing-VA-forms.md)
+* [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
 
 This document will not attempt to rewrite those documents, however, we will provide a few tips per practice area:
 
@@ -166,7 +165,7 @@ This document will not attempt to rewrite those documents, however, we will prov
 * If there is an already existing form of some kind:
    * How are users currently using the form and process? What can we learn from that?
    * Take all the fields on the form and think about them as individual components. Then group them together logically to start determine how your chapters and pages are going to be laid out
-   * Some folks have found it helpful to create a text-based outline of the form fields - to do some of the high level grouping and organization before getting into Sketch -- something like this: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/pension-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/pension-outline.md)
+   * Some folks have found it helpful to create a text-based outline of the form fields - to do some of the high level grouping and organization before getting into Sketch -- [something like this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/pension-outline.md).
       * An excel spreadsheet could also be helpful for this
    * Build a wireflow or flow diagrams to show at a high level how things are going to work
    * Create your final wireframes
@@ -178,8 +177,8 @@ This document will not attempt to rewrite those documents, however, we will prov
 * Make sure you read up on and understand form builder:
    *  Fill out a few forms on staging.va.gov to get a feel for the capabilities of the forms system.
    *  [Watch the zoom video of a quick demo Chris Valarida gave to the design team](./va-forms-informal-for-designers.mp4) in Feb. 2020. He goes over an example JSON object used by react-jsonschema-form (RJSF), and toggles between it and the rendered UI, so developers may find it useful.
-   *  Before coding, start with the VA<span/>.gov Forms System (VAFS) documentation on the [VA<span/>.gov Client Application Documentation site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/): **https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms**
-   *  The forms documentation is not perfect. Read through VSA's informal notes at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/engineering/forms-system. The documents there will be written from the perspective of developers consuming the library, so it may contain tips, gotcha's, and known issues. 
+   *  Before coding, start with the [VA.gov Forms System (VAFS) documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms) on the [VA.gov Client Application Documentation site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/)
+   *  The forms documentation is not perfect. Read through VA.gov application’s [informal notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/engineering/forms-system). The documents there will be written from the perspective of developers consuming the library, so it may contain tips, gotcha's, and known issues. 
    *  If you have determined that you need to implement custom behavior or appearance that the existing components do not support out-of-the-box, FIRST confirm with your design team that the feature is needed and cannot be implemented an alternate way that fits within the limitations of the existing forms framework. The va<span/>.gov Forms System (VAFS) is built on top of the VA's fork of react-jsonschema-form (RJSF), so if customization is required (or if you need a deeper understanding that goes beyond the tutorial), then you will need to dig one level deeper:
       *  Read the overview [Creating custom fields and widgets](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/creating-custom-fields-and-widgets), THEN
       *  Consult the lower-level RJSF documentation on the [GitHub Repository for the VA fork of RJSF](https://github.com/department-of-veterans-affairs/react-jsonschema-form). Although you may run into other web sites that cover RJSF, stick with the documentation used specifically by the VA fork.
@@ -210,4 +209,4 @@ The Design System Council will tell you what to do here soon….!
 **What are the constraints of the Form Builder tool?  Can we extend it / change it?**
 
 VSP is responsible for the forms system. extensive changes should involve the VSP FE Tools team (#vsp-tools-fe on slack) early, but it’s open to contribution by everyone.
-Some thoughts on this are in this thread https://dsva.slack.com/archives/CBU0KDSB1/p1580237084228800
+Some thoughts on this are in [this thread](https://dsva.slack.com/archives/CBU0KDSB1/p1580237084228800) 
