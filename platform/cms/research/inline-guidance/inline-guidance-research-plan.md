@@ -1,5 +1,10 @@
 # WIP ---- > Inline Guidance Research Plan for Sitewide CMS team, April 2022
 
+## Product info
+
+Team: Sitewide CMS team
+Product: Drupal content management system (CMS)
+
 
 ## Background
 
@@ -9,16 +14,14 @@ CMS content editors tasked with delivering quality, Veteran-centered VA.gov cont
 - They may need extra guidelines because they lack digital content management experience
 - They may use the CMS infrequently and therefore have a hard time recalling training and other guidance.
 
+**Problem we're trying to solve**
+Provide editors with extended guidance inline without adding to the existing clutter in the UI.
 
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-[Link to product brief](url goes here).
-
-
-
+**Ideal outcomes**
+- Editors get guidance in the place they need it without going to the extra effort of search the knowledge base or other resources
+- Fewer CMS Help Desk tickets about rules and guidelines
+- Better compliance with rules and guidelines, therefore increase in content quality
+- Editors feel more empowered to complete their content tasks
 
 
 ### OCTO Objectives 
