@@ -147,6 +147,7 @@ VANotify to complete their work in the next two sprints
 **PM**
 
 - Regroup to figure out if we need to remove debt alert in benefit payments and debts before notifications launch
+  - This is because of analytics tracking -- I'm unsure whether we can track clicks into the debt tool separately for each alert.
 - Figure out QA plan with DMC (backend team)
 
 **FE**
