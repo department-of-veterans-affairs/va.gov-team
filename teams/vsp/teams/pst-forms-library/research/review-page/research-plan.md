@@ -7,7 +7,7 @@ The team reviewed all previous research associated with the current Review Page 
 
 ### OCTO Objectives 
 
-This research effort will inform [Q2 2022 Objective] (https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022): Build a working demo of the first iteration of the VA Forms System Core. <br>
+This research effort will inform [Q2 2022 Objective] (https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022)?: Build a working demo of the first iteration of the VA Forms System Core. <br>
 
 This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. 
 
