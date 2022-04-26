@@ -15,8 +15,8 @@
         2. [LoROTA](#lorota)
         3. [CHIP](#chip)
         4. [Clinician Workflow](#clinician-workflow)
-        5. [vista-api](#vista-api)
-        6. [CHIP, Clinician Workflow, vista-api](#chip-clinician-workflow-and-vista-api)
+        5. [VistA API](#vista-api)
+        6. [CHIP, LoROTA, Clinician Workflow, vista-api](#chip-lorota-clinician-workflow-and-vista-api)
     4. [Test Environment](#test-environment)
     5. [Test Data Setup](#test-data-setup)
     6. [Monitoring](#monitoring)
@@ -94,6 +94,12 @@ The goal of testing this subsystem is to ensure that vets-website front-end and 
 
 For more details on vets-website and vets-api performance test approach, see [vets-website/vets-api performance test approach](./website-api-perf-testing.md)
 
+#### LoROTA
+
+#### CHIP
+
+#### Clinician Workflow
+
 #### VistA API
 
 VistA api comprises of a J2EE application running on WildFly application server, deployed on Linux hosts in VA on-prem data center. This application provides API endpoints to interact with VistA systems.
@@ -112,7 +118,7 @@ CHIP is a set of lambdas that provide various endpoints to vets-api (or other co
 
 The goal of these tests is to validate the performance of a combined subsystem with CHIP, LoROTA, Clinician Workflow and vista-api.
 
-![CHIP/CW/VistA API subsystem](./subsystems/subsystem_chip_cw_vista-api-container-diagram.png "CHIP/CW/VistA API subsystem")
+![CHIP/LoROTA/CW/VistA API subsystem](./subsystems/subsystem_chip_cw_vista-api-container-diagram.png "CHIP/LoROTA/CW/VistA API subsystem")
 
 For more details on CHIP performance test approach, see [CHIP/LoROTA/CW/VistA API performance test approach](./chip-lorota-cw-vista-api-perf-testing.md)
 
