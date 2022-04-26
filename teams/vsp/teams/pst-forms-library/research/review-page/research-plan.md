@@ -87,10 +87,13 @@ For moderated interviews:
 Pergean will assist us to recruite Veterans for remote, moderated user testing research session.  
 
 ### Recruitment criteria
-Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions)
-Demographics
-Gender: 6 male and 6 female participants
-Age group: 30 - 40yrs (4 participants), 40 - 50yrs (4 participants) and 50 - 60yrs (4 participants)
+Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions) <br>
+Demographics <br>
+Gender: 6 male and 6 female participants <br>
+Age group <br>
+30 - 40yrs (4 participants) <br>
+40 - 50yrs (4 participants) <br>
+50 - 60yrs (4 participants)<br>
 Technology/screen size: 12 mobile users
 
 **Primary criteria (must-haves)**
@@ -98,9 +101,8 @@ Number of Veterans: 12 (will discontinue research after completion of 6 successf
 <h4>Demographics</h4> <br>
 Gender:6 male and 6 female participants <br>
 Technology/screen size: 12 mobile users <br>
-
 **Secondary criteria (nice-to-haves)**
- Age group <br>
+Age group <br>
 30 - 40yrs (4 participants) <br>
 40 - 50yrs (4 participants) <br>
 50 - 60yrs (4 participants)<br>
