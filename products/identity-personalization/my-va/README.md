@@ -180,4 +180,4 @@ _Why would your business want this to exist?_
 
 ### Addition of Benefit payments and debts -- April 2022
 
-![My VA with benefits payments and debts]()
+![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
