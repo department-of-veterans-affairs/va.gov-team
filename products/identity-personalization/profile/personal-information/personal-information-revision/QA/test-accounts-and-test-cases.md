@@ -62,7 +62,7 @@ Pre-condition: Must be a logged in LOA3 user.
 | Test case                                                    | Intended outcome                                             | Staging User  | Prototype link                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
 | 1. User navigates to **Preferred name** section<br />2. User clicks Edit button<br />3. User leaves the text box blank<br />4. User clicks the Update button | 1. An error appears showing that the text field in the Preferred name section is required | Any LOA3 user | [Desktop](https://user-images.githubusercontent.com/79372956/165221005-782725c4-9768-4eba-b80c-028d967168f9.png) |
-| 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User does not make a selection<br />4. User clicks the Update button | 1. An error appears stating that a value is required | Any LOA3 user | [Desktop] :triangular_flag_on_post: |
+| 1. User navigates to **Gender identity** section<br />2. User clicks Edit button<br />3. User does not make a selection<br />4. User clicks the Update button | 1. An error appears stating that a value is required | Any LOA3 user | N/A (it is ok to leave this field blank) |
 
 ### Test case for save error
 
