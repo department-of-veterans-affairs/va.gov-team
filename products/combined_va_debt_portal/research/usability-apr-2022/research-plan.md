@@ -171,7 +171,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
    - Maximum **5 people** who:  
 
-     - Have received a VA health care copay bill within thee past 6 months **and** 
+     - Have received a VA health care copay bill within the past 6 months **and** 
 
      - Have never received a VA debt 
 
