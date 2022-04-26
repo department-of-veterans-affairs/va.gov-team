@@ -28,6 +28,13 @@ In the nearly three years since the site's launch, the range of VA benefits and 
 
 The VA.gov homepage needs to effectively bridge users to the personalized logged-in experience and act as a vital guidepost to a growing selection of new information and benefit services while managing stakeholders competing for valuable real estate on the homepage. 
 
+| Intention | Experience | User story |
+| --- | --- | --- |
+| Learn | Unauth | I need to discover/learn information about the benefits and services available to me because I am new to the VA or I have a new need/life circumstance.
+| Apply |  Auth | I need to create an account so I can take advantage of the personalized, streamlined experience. 
+| Manage | Auth | I need to manage my benefits and services, such as edit my existing profile or take an action, such as making an appointment. 
+
+
 ## Timeline
 A timeline of key milestones from large scale initiatives 
 
