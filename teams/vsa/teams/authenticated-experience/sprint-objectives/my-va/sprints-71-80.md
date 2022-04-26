@@ -126,7 +126,7 @@ VANotify to complete their work in the next two sprints
 - Erica: 5/3 - 5/10
 - AJ: 5/4 - 5/6
 
-### Benefit payments & debts
+### My VA: Benefit payments & debts
 
 **Design**
 
@@ -136,11 +136,22 @@ VANotify to complete their work in the next two sprints
 
 - *For V1*: Launch to 100%
 
-### My VA audit
+### My VA: Audit
 
 **Design**
 
 - Review audit with team to make sure nothing is missing
+
+### On-site notifications: MVP
+
+**PM**
+
+- Regroup to figure out if we need to remove debt alert in benefit payments and debts before notifications launch
+- Figure out QA plan with DMC (backend team)
+
+**FE**
+
+- Continue/finish frontend, including handling of multiple alerts
 
 ## Sprint 74 (5/18 - 5/31)
 
