@@ -212,7 +212,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
 #### Group diagram
 
-![Group diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/recruitment-mapping.png "Group diagram")
+
 
 ## Timeline
 
