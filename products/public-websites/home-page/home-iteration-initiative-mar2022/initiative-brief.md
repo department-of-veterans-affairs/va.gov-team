@@ -1,4 +1,4 @@
-## Initiative Brief – Home Page iteration March 2022
+## Initiative Brief – Homepage iteration March 2022
 
 ## Overview
 - Although the redesign was planned as a series of smaller changes, given the strong evidence for change and experimental nature of our work, it was decided to go straight to the planned Step 3 design for the first build. Further refinement will be informed by Veteran research before changes are moved to production.
@@ -102,7 +102,7 @@ Research
   - confirm list of "popular links" along with validating that Veterans understand to search for other tasks not appearing on that short list
   - understand Veteran expectations of search behavior
 
-Explore routed queries
+Explore routed queries - direct Veterans to a deep link rather than the search results page
 
 --- 
 
