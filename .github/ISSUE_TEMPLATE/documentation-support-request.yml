@@ -7,7 +7,7 @@ body:
   attributes:
     value:
   -type: dropdown
-   id: type of help
+   id: help type
    attributes: 
       label: What do you need help with?
       description: What do you need help with?
