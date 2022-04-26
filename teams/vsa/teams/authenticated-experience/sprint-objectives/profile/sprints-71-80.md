@@ -143,13 +143,13 @@ Tom should finish all backend work for personal information revisions first. So,
 
 QA!!!
 
-**PM**
+**PM - Sharon**
 
 - QA go/no-go
 - Analytics request
 - Release plan
 
-**QA**
+**QA - Tze**
 
 - Complete QA & create tickets for issues found (if applicable)
 
@@ -176,8 +176,15 @@ QA!!!
 
 ### Address change messaging
 
-- Once this is in prod, we can do an internal UAT with our own prod accounts
-- Add GA tracking to this. [This is the ticket for analytics folk](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40107), but Adam will need to implement in our code.
+**PM - Sharon**
+
+- Check in on analytics implementation [This is the ticket for analytics folk](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40107).
+
+**FE - Adam**
+
+- If the analytics folks have completed the GA work, implement analytics into the address update flow
+
+Stretch goal: If this work is ready to go into prod next sprint, we should do an internal UAT in prod via our own accounts.
 
 ### Notification preferences
 
