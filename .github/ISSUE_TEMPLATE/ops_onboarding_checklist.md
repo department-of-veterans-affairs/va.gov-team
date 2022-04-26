@@ -18,7 +18,7 @@ If you have any questions/need access please reach out to Jesse House (@jhouse-s
 ### Admin work
 - [ ] If new to VA, will need background check. Fill out forms from Amber, get fingerprinted, and fill out eQIP investigation request in order to get a PIV card
 - [ ] Set up [TMS](https://www.tms.va.gov/secureauth35/SecureAuth.aspx) account and take required trainings
-- [ ] Log into [Citrix Access Gateway](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) (Once PIV card has been obtained)
+- [ ] Login to [Citrix Access Gateway](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) (Once PIV card has been obtained)
 
 ### Access to what you need
 - [ ] [Getting setup](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
