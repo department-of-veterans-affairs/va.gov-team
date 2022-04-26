@@ -120,6 +120,8 @@ VANotify to complete their work in the next two sprints
 
 [#39608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39608)
 
+Whatever is not done from sprint 72, plus:
+
 ### PTO
 
 - Angela: 5/3 - 5/10
