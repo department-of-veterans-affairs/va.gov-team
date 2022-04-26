@@ -33,7 +33,7 @@ This research supports the following objectives:
 - Decrease time to successfully complete and submit online transactions
 
 ### Veteran Journey
-The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
 
 ## Research goals
 - Conduct user acceptance testing to evaluate if pre-check-in and check-in processes are functioning as planned at a variety of pilot locations in St. Louis.
