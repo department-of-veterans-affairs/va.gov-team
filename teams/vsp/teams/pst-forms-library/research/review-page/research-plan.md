@@ -52,11 +52,9 @@ The findings from this research will help the team better understand Veteran nee
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+Veterans are frustrated with manually filling long forms. <br>
+Veterans prefer to quickly review all hte information in the same Review page. <br>
+Veterans would prefer to edit any information that might need updating in the original page rather than the Review page. 
 
 ## Method	
 60 mins 1:1 semi-structured interview with 6 Veterans and 1 pilot session with a team member
@@ -80,34 +78,15 @@ Additional resources:
 - If conducting [research with disabled Veterans, refer to this checklist.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md) 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote research using Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
 - [Link to conversation guide](url goes here) 
 
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
@@ -164,11 +143,11 @@ Please request enough dates and time slots for the number of requested participa
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
+- Moderator: Kavitha Krishnan	
+- Research guide writing and task development: Kavitha Krishnan	(kavitha.krishnan@adhocteam.us)
+- Participant recruiting & screening: Pergean
+- Project point of contact: Kavitha Krishnan		
+- Participant(s) for pilot test: TBD	
+- Note-takers: Brittany Iannuzzi (Brittany.Iannuzzi@adhocteam.us) 
+- Observers: Karen Taylor (Karen.taylor@adhocteam.us), Micah Chiang (micah@adhocteam.us), BJ McCotter (bj.mccotter@adhocteam.us), Harshil Moradia (harshil.moradia@adhocteam.us), Sussana Kline (susanna.kline@adhocteam.us), Nick Gaydosh (nick.gaydosh@adhocteam.us), Lauren Maxwell (lauren.maxwell@adhocteam.us)
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
