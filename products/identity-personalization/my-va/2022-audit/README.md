@@ -76,7 +76,7 @@ TBD
 
 ### Key Dates
 
-- April 2022: Audit begins
+- March 2022: Audit begins
    
 ## Screenshots
 
