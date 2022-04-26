@@ -59,15 +59,15 @@ Veterans would prefer to edit any information that might need updating in the or
 ## Method	
 60 mins 1:1 semi-structured interview with 6 Veterans and 1 pilot session with a team member
 
-To talk about their experiences filling out forms (10mins)
-Share the burial form prototype and fill out a couple of pages to get them grounded (10mins)
-Talk about Review Page in general (do they review before submission, do they edit before submission) (10mins)
-Share the three variations of the Review page and compare the three design options to identify which better suits your need
-Open versus closed accordion
-Editing in Review page versus the original page
-Edit button per section or one for each element
-Using ‘edit’ versus ‘change’ (terminology)
-Task - request the participant to edit a typo in a specific form field to observe how participants find/edit information
+- To talk about their experiences filling out forms (10mins) 
+- Share the burial form prototype and fill out a couple of pages to get them grounded (10mins)
+- Talk about Review Page in general (do they review before submission, do they edit before submission) (10mins)
+- Share the three variations of the Review page and compare the three design options to identify which better suits your need
+- Open versus closed accordion
+- Editing in Review page versus the original page
+- Edit button per section or one for each element
+- Using ‘edit’ versus ‘change’ (terminology)
+- Task - request the participant to edit a typo in a specific form field to observe how participants find/edit information
 
 ### Location
 Remote research using Zoom
@@ -82,12 +82,6 @@ For moderated interviews:
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 Pergean will assist us to recruite Veterans for remote, moderated user testing research session.  
 
@@ -98,45 +92,47 @@ Gender: 6 male and 6 female participants
 Age group: 30 - 40yrs (4 participants), 40 - 50yrs (4 participants) and 50 - 60yrs (4 participants)
 Technology/screen size: 12 mobile users
 
-
 **Primary criteria (must-haves)**
-Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions)
-Demographics
-Gender:6 male and 6 female participants 
-Technology/screen size: 12 mobile users
+Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions)<br>
+<h4>Demographics</h4><br>
+Gender:6 male and 6 female participants <br>
+Technology/screen size: 12 mobile users<br>
 
 **Secondary criteria (nice-to-haves)**
-Age group: 30 - 40yrs (4 participants), 40 - 50yrs (4 participants) and 50 - 60yrs (4 participants)
+<h4>Age group</h4>
+30 - 40yrs (4 participants) <br>
+40 - 50yrs (4 participants) <br>
+50 - 60yrs (4 participants)<br>
 
 
 ## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+Completion of 6 successful research session between June 9  - 13th
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+ 
+June 5, 2022
 
-Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: June 3, 2022 time (TBD)
 
 ### Research sessions
-What dates do you plan to do research? 
+June 9  - 13th
 
 ### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+60 minutes with 30 minutes buffer between sessions
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+June 9, Monday - 12 - 5pm EST <br>
+June 10, Tuesday - 12 - 5pm EST <br>
+June 11, Wednesday - 12 - 5pm EST <br>
+June 12, Thursday - 12 - 5pm EST <br>
+June 13, Friday - 12 - 5pm EST
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Kavitha Krishnan	
-- Research guide writing and task development: Kavitha Krishnan	(kavitha.krishnan@adhocteam.us)
-- Participant recruiting & screening: Pergean
-- Project point of contact: Kavitha Krishnan		
-- Participant(s) for pilot test: TBD	
-- Note-takers: Brittany Iannuzzi (Brittany.Iannuzzi@adhocteam.us) 
+## Team Roles		
+- Moderator: Kavitha Krishnan (kavitha.krishnan@adhocteam.us)	<br>
+- Research guide writing and task development: Kavitha Krishnan	<br>
+- Participant recruiting & screening: Pergean<br>
+- Project point of contact: Kavitha Krishnan	<br>	
+- Participant(s) for pilot test: TBD	<br>
+- Note-takers: Brittany Iannuzzi (Brittany.Iannuzzi@adhocteam.us) <br>
 - Observers: Karen Taylor (Karen.taylor@adhocteam.us), Micah Chiang (micah@adhocteam.us), BJ McCotter (bj.mccotter@adhocteam.us), Harshil Moradia (harshil.moradia@adhocteam.us), Sussana Kline (susanna.kline@adhocteam.us), Nick Gaydosh (nick.gaydosh@adhocteam.us), Lauren Maxwell (lauren.maxwell@adhocteam.us)
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
