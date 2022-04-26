@@ -3,12 +3,8 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.*  
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+I reviewed all previous research associated with the current Review Page pattern. We learnt that multiple research studies had been conducted with developers and designers to better understand their experience building forms using the current Forms Library. However, there has been no research with Veterans regarding their experience using the current Review Page. As a result, it was decided that one project goal is to plan and execute research with Veterans on their experience working with the current Review Page and two proposed variations. Based on Veteran feedback, one Review page variation will be chosen to implement as part of the Q2 Working Demo. The team has chosen the Application for Burial Benefits form (21P-530) to research with Veterans.
 
-[Link to product brief](url goes here).
 
 ### OCTO Objectives 
 
@@ -19,18 +15,38 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 Are there moments that matter? 
 
 ## Research Goals	
-What are you trying to learn from this research? 
+The Forms Library Team aims to understand:
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- How Veterans use the Review Page in the form experience and more specifically the Application for Burial Benefits form Review Page
+- Identify pain points and accessibility issues on the Review Page of the Application for Burial Benefits form experience
+- How Veterans interact with the Review Page components in order to determine which of the two design variation best suit their needs 
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+<h4>General VA form filling experience </h4>
+1. What VA forms have you filled out in the past?
+2. Typically, who fills out the forms? (You or does someone else help you fill the forms?)
+3. What device do you use to fill out the forms? On your phone, computer, etc.?
+4. Typically, how long does it take for you to fill a form? <br>
+
+<h4>Review Page </h4>
+1. When in the process do you usually verify the information before submitting the form?
+2. Please talk to me about your experience editing or correcting any entry on the Review Page? <br>
+
+<h4>Design Options </h4>
+1. Compare the three design options to identify which better suits your need
+2. Open versus closed accordion
+3. Editing in Review page versus the original page
+4. Edit button per section or one for each element
+5. Using ‘edit’ versus ‘change’ (terminology) <br>
+
+<h4> Pain Points</h4>
+1. Thinking about the Review Page specifically, what are some of the things you like and don’t like about using the Review Page?
+2. Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s)
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -40,15 +56,18 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+60 mins 1:1 semi-structured interview with 6 Veterans and 1 pilot session with a team member
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+To talk about their experiences filling out forms (10mins)
+Share the burial form prototype and fill out a couple of pages to get them grounded (10mins)
+Talk about Review Page in general (do they review before submission, do they edit before submission) (10mins)
+Share the three variations of the Review page and compare the three design options to identify which better suits your need
+Open versus closed accordion
+Editing in Review page versus the original page
+Edit button per section or one for each element
+Using ‘edit’ versus ‘change’ (terminology)
+Task - request the participant to edit a typo in a specific form field to observe how participants find/edit information
+
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
