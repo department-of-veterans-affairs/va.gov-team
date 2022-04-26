@@ -38,9 +38,10 @@ If you have any questions/need access please reach out to Jesse House (@jhouse-s
   - [ ] [Sentry](http://sentry.vfs.va.gov/)
   - [ ] [Grafana](http://grafana.vfs.va.gov/)
   - [ ] [Argo CD](http://argocd.vfs.va.gov/)
-- [ ] [Pagerduty](https://dsva.pagerduty.com/) (for access, ask a pd admin: @jbritt1 or @mleclerc00)
+- [ ] [Pagerduty](https://dsva.pagerduty.com/) (ask a team member for access)
 - [ ] [Confluence](https://vfs.atlassian.net/wiki/home)
   - [ ] [Operations Team space](https://vfs.atlassian.net/wiki/spaces/OT/overview)
+  - [ ] [Venafi](https://vfs.atlassian.net/wiki/spaces/OT/pages/1719009302/Venafi+Gain+access+to+manage+internal+TLS+certificates) (Once PIV card has been obtained)
 - [ ] Keybase
 - [ ] Prometheus (not used directly, but check to make sure you have access by going [here](http://prometheus-prod.vfs.va.gov:9090/prometheus/graph?g0.range_input=1h&g0.expr=&g0.tab=0))
 - [ ] [Datadog](https://app.datadoghq.com/) (ask for invite from whoever is on call, or someone else on your team.)
