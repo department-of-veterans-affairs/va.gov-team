@@ -167,11 +167,24 @@ VANotify to complete their work in the next two sprints
 
 ## Sprint 75 (6/1 - 6/14)
 
+### My VA: Cerner updates
+
+(692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
+(653) Roseburg: Go-live -- 6/11/2022
+
 ## Sprint 76 (6/15 - 6/28)
+
+### My VA: Cerner updates
+
+(531) Boise: Go-live -- 6/25/2022
 
 ## Sprint 77 (6/29 - 7/12)
 
 ## Sprint 78 (7/13 - 7/26)
+
+### My VA: Cerner updates
+
+(463) Anchorage: Go-live -- 7/16/2022
 
 ## Sprint 79 (7/27 - 8/9)
 
@@ -180,3 +193,5 @@ VANotify to complete their work in the next two sprints
 - Samara: Aug 1 - 5
 
 ## Sprint 80 (8/10 - 8/23)
+
+(663) Seattle: Go-live -- 8/27/2022
