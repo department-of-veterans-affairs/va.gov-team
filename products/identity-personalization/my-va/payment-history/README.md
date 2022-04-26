@@ -9,14 +9,7 @@ Last updated April 25, 2022
 
 ### Roles
 
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Heather Justice|Product Manager| heather.justice@adhocteam.us |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Angela Agosto	|Designer |	angela.agosto@adhocteam.us|
-|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+[Please see the My VA product outline for the current My VA team(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
 
 ### Table of Contents
 
