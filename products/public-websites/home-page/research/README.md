@@ -18,7 +18,9 @@ This README page serves as a "front door" to research documentation and resource
 
 - [Health apartment homepage - Guerilla testing of homepage concepts](#health-apartment-homepage---guerilla-testing-of-homepage-concepts--december-2021)
 
-- [Logged-in Homepage User Research Findings](#logged-in-homepage-user-research-findings--may-2020)
+- [Search Design Concepts Usability Research](#search-design-concepts-usability-research)
+
+- [Logged-in Homepage User Research](#logged-in-homepage-user-research--may-2020)
 
 ## Homepage research
 
@@ -65,7 +67,14 @@ This README page serves as a "front door" to research documentation and resource
   - Tasks should be clear and separate from information links
   - Participants wanted some form of personalization (especially for health care and disability tasks)
 
-### [Logged-in Homepage User Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) | May 2020
+### [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) | September 2021
+- Goal: To get user feedback on new design concepts for surfacing site search and other search tools, including [a new link on the VA.gov home page under the "top 4" boxes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/new-search-link.png) that goes to the new search landing page and [links to other search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/search-landing-pg.png)
+- Relevant findings include:
+  - Participants were laser focused on finding a search box to use. Once they found it, most participants didn't scroll down below it
+  - Consolidation of all the search tools is recommended since using different search tools on different pages can be confusing (i.e., VA.gov site search, Find a VA Form, Resources and Support)
+  - Search on VA.gov returns a lot of irrelevant results, and so many Veterans have learned to look elsewhere first.
+
+### [Logged-in Homepage User Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) | May 2020
 - Goal: To talk with Veterans to better understand their needs and what would make the logged-in experience more useful to them inform the design for treating the logged-in homepage as a user's personalized landing pad and router
 - Relevant findings include
   - Participants want a page that is focused on current information specific to them, rather than generalized information for all Veterans.
