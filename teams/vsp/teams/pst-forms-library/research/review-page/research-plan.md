@@ -108,7 +108,7 @@ May 5, 2022
 * Date and time of pilot session: May 3, 2022 time (TBD)
 
 ### Research sessions
-May 9  - 13th
+May 9  - 18th
 
 ### Length of sessions
 60 minutes with 30 minutes buffer between sessions
