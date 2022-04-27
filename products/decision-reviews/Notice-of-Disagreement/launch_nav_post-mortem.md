@@ -1,9 +1,9 @@
 # NOD Launch, Bad Navigation Experience
 
 - **Date**: 2022-04-27
-**Authors**: Matthew Self
-**Status**: In-Progress
-**Summary**: While launching the NOD, we noticed the static page navigation link wasn't included in the scaled release code, resulting in an undesirable user experience for 75% of users. We removed the link on the static page until we have the opportunity to wrap it appropriately in a react component synced with our scaled release plan.
+- **Authors**: Matthew Self
+- **Status**: In-Progress
+- **Summary**: While launching the NOD, we noticed the static page navigation link wasn't included in the scaled release code, resulting in an undesirable user experience for 75% of users. We removed the link on the static page until we have the opportunity to wrap it appropriately in a react component synced with our scaled release plan.
 
 ## Details
 On Wednesday, April 27, 2022, the Notice of Disagreement (NOD) decision review workflow was launched on VA.gov (https://www.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/introduction). As requested by the stakeholder (Board of Veterans' Appeals, BVA), we used a scaled release plan to roll the feature out, initially launching to 25% of users, with plans to scale up by 25% every two weeks.
