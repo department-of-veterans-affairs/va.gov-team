@@ -27,9 +27,9 @@ Holly Collier, Melissa Lefevre
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#recommendations)
 
-[Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#participant-demographics)
+[Participant Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#participant-demographics)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#appendix)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#appendix)
 
 [Presentation deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/2022%20-%20VA%20Mobile%20App%20-%20Information%20Architecture%20User%20Research%20-%20Closed%20Card%20Sort%20Findings.pdf)
 
@@ -514,10 +514,10 @@ _COVID-19 updates & information_
 **Recruitment criteria**
 
 
-We had **47 participants** complete the card sort study.
+We had **46 participants** complete the card sort study.
 
 Audience segment:
-* Veterans: 9 
+* Veterans: 46 
 * Caregivers: 0 
 * Family members of a Veteran: 0  
 
