@@ -1,4 +1,4 @@
-# Notification preferences: Product outline
+# Notification settings: Product outline
 
 Last Updated April 27, 2022
 
@@ -33,7 +33,7 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 ## Overview
 
-The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA.gov profile supports notification preferences, which are powered by the [VA Profile backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
+The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA.gov profile supports notification settings, which are powered by the [VA Profile backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
 
 ## User Outcomes
 
@@ -58,17 +58,17 @@ The VA is ramping up their digital communications efforts, specifically through 
 
 ## Measuring success
 
-We are not currently measuring any OKRs or KPIs for notification preferences.
+We are not currently measuring any OKRs or KPIs for notification settings.
 
 For previous OKRs/KPIs:
 
-- [Notification preferences MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/mvp-project-outline.md#measuring-success)
+- [Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/mvp-project-outline.md#measuring-success)
 
 ## Projects
 
 |Projects|Launch date|
 |--------|-----------|
-|[Notification preferences MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/mvp-project-outline.md#measuring-success)| Nov 2021|
+|[Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/mvp-project-outline.md#measuring-success)| Nov 2021|
 
 ## How to Access and Test
 - [Staging](https://staging.va.gov/profile/notifications)
@@ -79,20 +79,20 @@ For previous OKRs/KPIs:
 
 ## Backend
 
-Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+Notification settings come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
 
 ### Error Handling
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
 
 ## Frontend
 
-- [Frontend documentation on how the notification preferences UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md)
+- [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md)
 
 ## Design
 
 ### Latest mockups
 
-- [Notification preferences sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
+- [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 
 ### Before
 This is a new feature, no **before** state.
