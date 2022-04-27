@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 04/11/22: "I honestly wish I (k)new about this app months if not years ago! All basics of what I would need in the app and the ability to change basic info life address and phone number. Wow! Beyond pleased. Saves me time from calling or logging in on a laptop or waiting for a letter in the mail. Again, basic info and letters." (Apple store review)
+
+- 04/02/22: "All I can say is that this app is smooth, fast, and just works brilliantly. Unlike all the other websites and online tools from the VA, this things works exactly like I would like with zero issues that I have encountered. Has all the features of va.gov and myhealthyvet that I use or have tried to use. It's been a long time coming but you all have finally cracked the code. This app is awesome. Thanks!" (Apple store review)
+
 - 03/03/22: "After setting this app up and using I have come to realize how useful this app can be. Used to call in and I could never seem to find the time to call in. Finally with this resource calling in is optional and getting my info, letters, claim status and much more is within a simple password exchange of getting into an app that gives me all the information in regards to my benefits!!! Thank you!!!" (Apple store review)
 
 - 03/01/22: "This eliminates the need to use a PC. You can access everything on this app as you could on a PC. I recommend every veteran that is enrolled should use this app." (Apple store review)
@@ -113,6 +117,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 ## Rx Refill
 
+- 04/23/22: "This is a great app. I really enjoy how smooth and easy it is to use. The only thing I'd really like to see is a medication tab. As to where I can go in and click to refill. That would make this a 5 star app." (Apple store review)
+
 - 01/26/22: "I have found this app to be easy to navigate, and it contains some of the most important information that a veteran needs at a moment's notice. Just wish it had the option of pharmacy refills." (Apple store review)
 
 - 12/19/21: "Overall the app looks nice and navigates well. I agree with some of the other feedback about moving the log out button to the home page and having the integration of the Rx refill app that already exists. Another good upgrade would be have the ability to do travel pay claims in the app." (Google play store review)
@@ -146,12 +152,14 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 
 ## Notifications
+- 04/26/22: "...it would be of great help if there were notifications, or if a badge icon would appear, to show that there is an update/change to a claim in progress, instea of the incessant checking most vets will do in the app, or web page on a daily basis." (Apple store review)
 
 - 11/2/21: "Can you guys add an automatic notification part to the app as well as the desktop that will text and/or email us when there is an update to our claim status or medical appointments, etc. I find myself logging in frequently to check things but it would be better to get it pushed to us if only to say 'There has been an update to your claim' or 'We've received a new claim in your account' or even better 'Your disability rating has been changed!'" (Apple store review)
 
 
 ## Letters
 
+- 04/10/22: "I needed an award letter and I couldn't access ebenefits. Went to VA.gov and I found this beauty!! Thank You this was a blessing!!" (Apple store review)
 
 - 12/20/21: "I've had the app literally for 10 minutes and I already think it's great. Got to download a couple of documents I didn't have on my file. Let's hope this app keeps working correctly :)" (Google play store review)
 
@@ -171,6 +179,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 
 ## Disability claim status
+
+- 04/16/2022: "VA desperately needs to improve this app where you can file claims and directly upload supporting documents to a case file. It's too cumbersome to submit and manage new and ongoing claims." (Apple store review)
 
 - 01/10/22: "Really needs medicine refill capabilities. Otherwise I love this app. It makes it easy to check my claims multiple times a day." (Google play store review)
 
