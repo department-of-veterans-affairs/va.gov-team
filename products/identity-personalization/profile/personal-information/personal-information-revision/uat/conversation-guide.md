@@ -62,9 +62,9 @@ If they are LOA3:
 - Why do you think the VA asks for this information? Without clicking on anything right now, if you were trying to find more information about this, where would you look / where do you think that would be on this page?
 - Is this information required? Why does this seem that way?
 
-- [ ] Confirm the Profile lands on the Personal information section is showing all information accurately
-	- [ ] Confirm user's non-editable personal information being pulled in correctly from the database
-	- [ ] If there is nothing in an editable field, confirm it is showing the correct text
+- [ ] UAT TASK: Confirm the Profile lands on the Personal information section is showing all information accurately
+	- [ ] UAT TASK: Confirm user's non-editable personal information being pulled in correctly from the database
+	- [ ] UAT TASK: If there is nothing in an editable field, confirm it is showing the correct text
 - [ ] Usability/Content/IA: Does the participant find anything confusing about the information shown?
 - [ ] Usability/Content/IA: Does the user understand how to update this information?
 - [ ] Usability/Content/IA: Does the user understand why this information is included?
