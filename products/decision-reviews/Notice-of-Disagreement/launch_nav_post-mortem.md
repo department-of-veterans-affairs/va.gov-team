@@ -1,6 +1,6 @@
 # NOD Launch, Bad Navigation Experience
 
-**Date**: 2022-04-27
+- **Date**: 2022-04-27
 **Authors**: Matthew Self
 **Status**: In-Progress
 **Summary**: While launching the NOD, we noticed the static page navigation link wasn't included in the scaled release code, resulting in an undesirable user experience for 75% of users. We removed the link on the static page until we have the opportunity to wrap it appropriately in a react component synced with our scaled release plan.
