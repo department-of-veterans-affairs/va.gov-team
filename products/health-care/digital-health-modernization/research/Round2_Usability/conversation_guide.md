@@ -1,5 +1,6 @@
 # Conversation Guide 
 [Prototype Link](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/VrxYEoo/play?hotspots=false)
+Short link: tinyurl.com/3d54yaeb
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
 
