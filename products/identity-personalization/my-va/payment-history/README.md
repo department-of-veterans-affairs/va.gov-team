@@ -175,7 +175,8 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Feb 2022: Finalize designs, development
 - Mar 2022: Complete QA
 - Apr 2022: Complete UAT
-- Apr 20, 2022: Launch to 25% of users
+- Apr 20, 2022: Launched to 25% of users
+- Apr 26, 2022: Launced to 50% of users
 
 ---
    
