@@ -1,8 +1,8 @@
-# Notification preferences (communications permissions): Product outline
+# Notification preferences: Product outline
 
-Last Updated April 13, 2022
+Last Updated April 27, 2022
 
-## POCs
+### Communications
 
 - GitHub Label: va-profile; profile
 - Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
@@ -11,18 +11,18 @@ Last Updated April 13, 2022
      - Communication preferences
      - Notification preferences
      - Notification settings (actual name of feature on FE)
-   
+ 
+ ### Roles
+
+[Please refere to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#roles).
+
+Additionally, we work in partnership with VANotify and VA Profile on this work. Additional partners include:
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Taylor Mitchell | FE Engineer| taylor.mitchell@gcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
+|Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
-|Terry Bazemore | VA Profile Engineer |Terry.Bazemore@va.gov |
 
 ### Table of Contents
 - [Overview](#overview)
