@@ -56,7 +56,7 @@ OK, let’s move on to the website. Please share your screen and then we will ge
 - [ ] UAT TASK: If records can't be matched and an error appears, end the session
 	- I see that the system is unable to match your records. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-If they are LOA3: 
+If they are LOA3:
 - What are your thoughts on the information shown here? 
 - What, if anything, do you find confusing about this?
 - Why do you think the VA asks for this information? Without clicking on anything right now, if you were trying to find more information about this, where would you look / where do you think that would be on this page?
