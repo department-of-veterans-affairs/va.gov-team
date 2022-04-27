@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated January 31, 2022**
+**Last updated April 27, 2022**
 
 ## Where to find us 
 
@@ -17,14 +17,15 @@
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Heather Justice |Product Manager| heather.justice@adhocteam.us |
-|Marci McGuire |Product Manager| marci.mcguire@gcio.com|
+|Anastasia (AJ) Jakabcin |Product Manager -- My VA team| ana@adhocteam.us |
+|Sharon Kasimow |Product Manager -- Profile team| sharon.kasimow@gcio.com |
+|Erica Sauve | Associate PM | erica.sauve@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Christina Gednalske| Designer | christina.gednalske@adhocteam.us |
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
 |Taylor Mitchell | FE Engineer| tmitchell@governmentcio.com |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Mark Dewey| FE Engineer | mark.dewey@gcio.com |
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 
 ## [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience/roadmap)
