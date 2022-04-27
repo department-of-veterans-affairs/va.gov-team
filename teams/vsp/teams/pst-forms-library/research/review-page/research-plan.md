@@ -1,4 +1,5 @@
-# Research Plan for Forms Library Team, Review Page, Apr - May 2022
+# Research Plan for Forms Library Team on Review Page
+Apr - May 2022
  
 
 ## Background
@@ -7,12 +8,21 @@ The team reviewed all previous research associated with the current Review Page 
 
 ### OCTO Objectives 
 
-This research effort will inform the [Q2 2022 objective](https://vfs.atlassian.net/wiki/spaces/FLT/pages/1992589392/Roadmap+Current#Q2-2022): Build a working demo of the first iteration of the VA Forms System Core, specifically the Review Page pattern to be included in that working demo.<br>
-
-This is the first step on the path to achieving the long-term initiative of providing a tool that teams working on the platform can use to easily spin up and build forms that provide a consistent veteran user experience across the VA.gov site. Further information is available in the [product outline](https://vfs.atlassian.net/wiki/spaces/FLT/pages/2166915073/VA+Forms+System+Core+VAFSC+Product+Outline).
+This research supports the following objectives
+1. Increase the usage and throughput of VA services
+2. Increase the quality and reliability of VA services
 
 ### Veteran Journey
-This research and product fits into the 'Dying' phase of the Veteran journey where a family member would fill the burial benefits form (21P-530).
+This research fits into these points of a Veteran's Journey where they might need to fill out a form:
+
+Getting Out
+Starting up
+Taking care of myself
+Reinventing Myself
+Putting down roots
+Retiring
+Aging
+Dying
 
 ## Research Goals	
 The Forms Library Team aims to understand:
