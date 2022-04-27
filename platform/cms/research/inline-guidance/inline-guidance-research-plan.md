@@ -91,10 +91,13 @@ What do you intend to learn and measure from this study? Think through these pro
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Usability testing (Semi-structured, moderated)
+Usability testing (semi-structured, moderated)
+
 Part 1: User context and experience with the CMS
+
 Part 2: Inline guidance component
-Part 3: Alternative designs
+
+Part 3: Preference testing against alternatives
    - Help text only
    - Help text with links out to the KB
 
