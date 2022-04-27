@@ -93,7 +93,7 @@ May 5, 2022
 May 9  - 18th
 
 ### Length of sessions
-60 minutes with 30 minutes buffer between sessions
+60 minutes with 30 minutes buffer between sessions (if possible)
 
 ### Availability
 May 9, Monday - 12 - 5pm EST <br>
