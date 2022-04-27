@@ -37,11 +37,10 @@ The findings from this research will help the team better understand Veteran nee
 
 
 ### Research questions
-<h4>General VA form filling experience </h4>
-- What VA forms have you filled out in the past? <br>
-- Typically, who fills out the forms? (You or does someone else help you fill the forms?)<br>
-- What device do you use to fill out the forms? On your phone, computer, etc.? <br>
-- Typically, how long does it take for you to fill a form? <br>
+This research will help us understand:
+- Veteran's general experience around filling out forms
+- Veteran's practices around Review page
+- Which of the three Review page design options work best for Veterans  
 
 <h4>Review Page </h4>
 - When in the process do you usually verify the information before submitting the form? <br>
@@ -64,18 +63,7 @@ Veterans prefer to quickly review all the information in the same Review page. <
 Veterans would prefer to edit any information that might need updating in the original page rather than the Review page. 
 
 ## Method	
-60 mins 1:1 semi-structured interview with 6 Veterans and 1 pilot session with a team member
-
-- To talk about their experiences filling out forms (5 mins) 
-- Share the burial form prototype and walk through the pages that would require Veterans to enter information to get them grounded (5 mins)
-- Talk about the Review Page in general (do they review before submission, do they edit before submission) (10 mins)
-- Task - request the participant to edit a typo in a specific form field to observe how participants find/edit information (5 mins)
-- Share the three variations of the Review page and compare the three design options to identify which better suits your need (30 mins)
-	- Open versus closed accordion
-	- Editing in Review page versus the original page
-	- Edit button per section or one for each element
-	- Using ‘edit’ versus ‘change’ (terminology)
-- Thank you and Concluding the session (5 mins)
+We will conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the mobile version of the designs.
 
 ### Location
 Remote research using Zoom
@@ -92,8 +80,7 @@ For moderated interviews:
 ## Recruitment	
 
 ### Recruitment approach
-Perigian will assist us to recruite Veterans for remote, moderated user testing research session.  
-
+The audience is Veterans, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitment_checker.png).
 ### Recruitment criteria
 
 **Primary criteria (must-haves)** <br>
