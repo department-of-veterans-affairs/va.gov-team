@@ -91,7 +91,7 @@ Please recruit 12 participants for 6 completed sessions.
 - At least 50% of participants should identify as having a cognitive disability
 - At least 50% of participants should be younger than 55
 
-Screener questions: (CHECKING WITH CINDY ON THIS - USE METHODS FROM HARASSMENT STUDY)
+**Screener questions**
   
 - We want to make sure everyone who participates in a feedback session knows exactly what to expect so you can decide if you’re comfortable participating. This study involves reviewing a part of VA.gov that helps Veterans view and update information related to gender identity. Feedback from Veterans like you will help us make sure that this section will meet your needs and is easy to use. Do you feel comfortable reviewing a website page that asks about information related to gender identity?
   - No (don't recruit)
