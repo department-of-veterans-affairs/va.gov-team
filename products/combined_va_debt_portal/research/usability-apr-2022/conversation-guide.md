@@ -33,7 +33,7 @@ Before we start, a few things I want to mention:
 
 **If for any reason and at any time you want to stop the session, please let me know.** You can take a break from the session or end it altogether. You will not lose your stipend or be penalized in any way if we need to stop.
 
-I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. **Are you comfortable if I record my screen and audio as we talk today?**
+**During this session, I'm going to have you sign into the new tool we've built in order to make sure it works for your needs. This means we'll be looking at your actual account information.** I'd also like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. **Are you comfortable if I record my screen and audio as we talk today?**
 
 * If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
