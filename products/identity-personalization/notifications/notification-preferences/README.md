@@ -4,8 +4,8 @@ Last Updated April 27, 2022
 
 ### Communications
 
-- GitHub Label: va-profile; profile
-- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
+- GitHub Label: va-profile; profile; notification-settings
+- Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) 
  
  ### Roles
 
