@@ -75,97 +75,20 @@ Using Optimal Workshop, we conducted an unmoderated study in which participants 
 
 Categories provided, and how we expected participants to sort cards: 
 
-
-<table>
-  <tr>
-   <td><strong>Health</strong>
-   </td>
-   <td><strong>Benefits</strong>
-   </td>
-   <td><strong>Payments </strong>
-   </td>
-   <td><strong>Account </strong>
-   </td>
-   <td><strong>General VA Info </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>COVID-19 updates & information
-<p>
-vaccine records
-<p>
-make a doctor appointment
-<p>
-list of medical appointments
-<p>
-secure messaging
-<p>
-prescription refill request
-<p>
-schedule an immunization appointment
-<p>
-patient check-in
-<p>
-health record
-<p>
-join a video appointment
-<p>
-labs and tests
-<p>
-list of prescriptions
-   </td>
-   <td>claim status
-<p>
-VA letters and documents
-<p>
-GI bill balance
-<p>
-transfer GI bill dependents
-   </td>
-   <td>disability compensation
-<p>
-education payments
-<p>
-view direct deposit payment history
-<p>
-manage direct deposit
-<p>
-pay your health care copay
-<p>
-pay back your overpayments
-<p>
-pension payments
-<p>
-travel expense reimbursement
-   </td>
-   <td>disability rating
-<p>
-Veteran ID card
-<p>
-military information
-<p>
-personal and contact information
-<p>
-manage dependents
-<p>
-biometric sign on setting
-<p>
-notification settings
-<p>
-sign out
-<p>
-share this app
-<p>
-VA letters and documents
-   </td>
-   <td>contact the VA
-<p>
-find a VA location
-<p>
-privacy policy
-   </td>
-  </tr>
-</table>
+| **Health** | **Benefits** | **Payments** | **Account** | **General VA Info** |
+|---|---|---|---|---|
+| COVID-19 updates & information | claim status | disability compensation | biometric sign on setting | Contact the VA |
+| vaccine records | VA letters and documents (called benefit letters on va.gov) | education payments | notification settings | Find a VA location |
+| list of medical appointments | GI bill balance (also called education benefits) | view direct deposit payment history | disability rating | privacy policy |
+| secure messaging | transfer GI bill dependents | manage direct deposit | military information |  |
+| Make a doctor appointment |  | pay your health care copay | personal and contact information |  |
+| prescription refill request |  | payback your overpayments | manage dependents |  |
+| schedule an immunization appointment |  | pension payments | sign out |  |
+| patient check-in |  | travel expense reimbursement | share this app |  |
+| health record |  |  | Veteran ID card |  |
+| join a video appointment |  |  |  |  |
+| labs and tests |  |  |  |  |
+| list of prescriptions |  |  |  |  |
 
 
 
@@ -214,108 +137,20 @@ Yes and no. Veterans sorted cards having to do with their personal information i
     * Some participants also expressed uncertainty about these categories in our questionnaire.
 * **Categories created by participants mostly aligned with what we expected** (differences from our hypothesis highlighted in bold, cards with multiple placements indicated in italic):
 
-<table>
-  <tr>
-   <td>
-<strong>Health</strong>
-   </td>
-   <td><strong>Benefits</strong>
-   </td>
-   <td><strong>Payments </strong>
-   </td>
-   <td><strong>Account </strong>
-   </td>
-   <td><strong>General VA Info </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>COVID-19 updates & information
-<p>
-vaccine records
-<p>
-make a doctor appointment
-<p>
-list of medical appointments
-<p>
-secure messaging
-<p>
-prescription refill request
-<p>
-schedule an immunization appointment
-<p>
-patient check-in
-<p>
-health record
-<p>
-join a video appointment
-<p>
-labs and tests
-<p>
-list of prescriptions
-   </td>
-   <td>claim status
-<p>
-VA letters and documents
-<p>
-GI bill balance
-<p>
-transfer GI bill dependents
-<p>
-<strong>disability rating</strong>
-<p>
-<strong>manage dependents</strong>
-   </td>
-   <td>disability compensation
-<p>
-education payments
-<p>
-view direct deposit payment history
-<p>
-manage direct deposit
-<p>
-pay your health care copay
-<p>
-pay back your overpayments
-<p>
-pension payments
-<p>
-travel expense reimbursement
-   </td>
-   <td><del>disability rating</del>
-<p>
-Veteran ID card
-<p>
-military information
-<p>
-personal and contact information
-<p>
-<del>manage dependents</del>
-<p>
-biometric sign on setting
-<p>
-notification settings
-<p>
-<em>sign out</em>
-<p>
-<em>share this app</em>
-<p>
-<em>VA letters and documents</em>
-   </td>
-   <td>contact the VA
-<p>
-find a VA location
-<p>
-privacy policy
-<p>
-<strong><em>share this app</em></strong>
-<p>
-<strong><em>COVID-19 updates & information</em></strong>
-<p>
-<em>sign out</em>
-   </td>
-  </tr>
-</table>
-
+| **Health** | **Benefits** | **Payments** | **Account** | **General VA Info** |
+|---|---|---|---|---|
+| *COVID-19 updates & information*       | claim status                | disability compensation             | ~~disability rating~~            | contact the VA                 |
+| vaccine records                      | *VA letters and documents*    | education payments                  | Veteran ID card                  | find a VA location             |
+| make a doctor appointment            | GI bill balance             | view direct deposit payment history | military information             | privacy policy                 |
+| list of medical appointments         | transfer GI bill dependents | manage direct deposit               | personal and contact information | ***share this app***                  |
+| secure messaging                     | **disability rating**           | pay your health care copay          | ~~manage dependents~~                | ***COVID-19 updates & information*** |
+| prescription refill request          | **manage dependents**           | pay back your overpayments          | biometric sign on setting        | *sign out*                       |
+| schedule an immunization appointment |                             | pension payments                    | notification settings            |                                |
+| patient check-in                     |                             | travel expense reimbursement        | *sign out*                         |                                |
+| health record                        |                             |                                     | *share this app*                   |                                |
+| join a video appointment             |                             |                                     | *VA letters and documents*         |                                |
+| labs and tests                       |                             |                                     |                                  |                                |
+| list of prescriptions                |                             |                                     |                                  |                                |
 
 
 
@@ -397,106 +232,22 @@ dropping it altogether and having items live on Home (as they do currently).
 
 ### Category recommendations for top-level navigation (updated based on closed card sort findings & business goals). Items in italics have multiple placements.
 
-<table>
-  <tr>
-  <td><strong>Health</strong>
+| **Health** | **Benefits** | **Payments** | **Profile** | **N/A** |
+|---|---|---|---|---|
+| *COVID-19 updates & information*       | claim status                | disability compensation             | Veteran ID card              | contact the VA                 |
+| vaccine records                      | *VA letters and documents*    | education payments                  | military information                  | find a VA location             |
+| make a doctor appointment            | GI bill balance             | view direct deposit payment history | personal and contact information             | ***COVID-19 updates & information***                 |
+| list of medical appointments         | transfer GI bill dependents | manage direct deposit               | ***VA letters and documents*** |                   |
+| secure messaging                     | **disability rating**           | pay your health care copay          | sign out                   |  |
+| prescription refill request          | **manage dependents**           | pay back your overpayments          | biometric sign on setting        |                       |
+| schedule an immunization appointment |                             | pension payments                    | notification settings            |                                |
+| patient check-in                     |                             | travel expense reimbursement        | privacy policy                    |                                |
+| health record                        |                             |                                     | **share this app**                  |                                |
+| join a video appointment             |                             |                                     |         |                                |
+| labs and tests                       |                             |                                     |                                  |                                |
+| list of prescriptions                |                             |                                     |                                  |                                |
 
-   </td>
-   <td><strong>Benefits</strong>
 
-   </td>
-   <td><strong>Payments</strong>
-
-   </td>
-   <td><strong>Profile</strong>
-
-   </td>
-   <td><strong>N/A</strong>
-
-   </tr>
-    <td>
-vaccine records
-   
-make a doctor appointment
-
-list of medical appointments
-
-secure messaging
-
-prescription refill request
-
-schedule an immunization appointment
-
-patient check-in
-
-health record
-
-join a video appointment
-
-labs and tests
-
-list of prescriptions
-
-_COVID-19 updates & information_
-
-   </td>
-   <td>claim status
-
-_VA letters and documents_
-
-GI bill balance
-
-transfer GI bill dependents
-
-disability rating
-
-manage dependents
-
-   </td>
-   <td>disability compensation
-
-education payments
-
-view direct deposit payment history
-
-manage direct deposit
-
-pay your health care copay
-
-Pay back your overpayments
-
-pension payments
-
-travel expense reimbursement
-
-   </td>
-   <td>Veteran ID card
-
-military information
-
-personal and contact information
-
-_VA letters and documents_
-
-biometric sign on setting
-
-notification settings
-
-sign out
-
-share this app
-
-privacy policy
-
-   </td>
-   <td>contact the VA
-
-find a VA location
-
-_COVID-19 updates & information_
-
-   </td>
-</table>
 
 ### Other Recommendations
 
@@ -599,8 +350,8 @@ This research does not include the perspectives of the following marginalized Ve
 
 [VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md#va-mobile-app-information-architecture--navigation---high-level-project-summary)
  
- [VA Recruitment Checker Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
- 
+[VA Mobile App - Closed card sort recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
+
  [2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit?usp=sharing)
 
 ## Tools used for Synthesis
