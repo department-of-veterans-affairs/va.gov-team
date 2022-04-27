@@ -21,9 +21,8 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 ### Table of Contents
 - [Overview](#overview)
-- [Assumptions](#assumptions)
-- [Questions](#questions)
-- [Value Propositions](#value-propositions)
+- [User Outcomes]()
+- [Business Outcomes]()
 - [Measuring Success](#measuring-success)
 - [Implementation Info](#implementation-info)
 - [MVP Approach](#mvp-approach)
@@ -36,66 +35,36 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 ## Overview
 
-The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.  
+The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA.gov profile supports notification preferences, which are powered by the [VA Profile backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
 
-### User Goals
+## User Outcomes
+
+### Desired user outcomes
 
 - As a veteran, I want to be able to see what types of communications I am eligible to receive.
 - As a veteran, I want to be able to select where and how I receive those communication (eg. receive emails for claim updates; receive texts for appointment reminders).
 - As a veteran, I only want to have to keep this information updated in one place.
 
-### Business Goals
+### Undesired user outcomes
+
+## Business Outcomes
+
+### Desired business outcomes
 
 - Allow veterans to set and manage communication preferences from their VA.gov profile.
 - Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
 - Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
 
-## Assumptions
+### Undesired business outcomes
 
-- Veterans expect to set notification preferences from the VA.gov profile.
-- It will be fast and easy for us to add in new preferences after the initial infrastructure is in place.
-
-## Questions
-
-- Where do veterans expect to set and manage notification preferences?
-- Given that all data will be pulled in dynamically from VA Profile (notification types, groupings, and "channels", ie email or text), how do we maintain content and usability integrity?
-
-## Value Propositions
-
-- Veterans will be able to update how they want to receive different types of communications from the VA.
-- Since this is integrated through VA Profile, those preferences will be consumable across the VA. So, that means that veterans should only have to update these preferences in one place — either the VA.gov profile, through a call center, etc — and that info should get updated everywhere.
 
 ## Measuring success
 
-These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
+We are not currently measuring any OKRs or KPIs for notification preferences.
 
-- [Notification Settings GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
-- [Top events: Notification Settings page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20211103&_u.date01=20211103&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22notifications%22,0%5D%5D&explorer-table.rowCount=50/)
+For previous OKRs/KPIs:
 
-**Objective: Allow Veteran's to easily customize how they communicate with the VA.**
-
-- **Key result #1**: Increase the number of profiles that have mobile phone numbers and email addresses by 15% each on a quarterly basis. [April 2021 baseline report from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/data/VA%20Profile%20PowerBI%20Report%2011%20Current%20Contact%20Info%20Report.pptx)
-
-|KPI/metric|Baseline (4..30.21; 15,329,217 veterans)| Baseline immediately before launch (11.3.21; 15,739,528 veterans) |% of profiles with this info at 3 months (Nov - Jan) | % of profiles with this info at the end of Q1 2022 (Jan - Mar)|
-|----------|-------------|---------------|--------------|--------------|
-|# of profiles with mobile phone saved in VA Profile backend*|7,759,973 (50.6%)|8,121,902 (52%)|8,420,023 (50%)|TBD|
-|# of profiles with email addresses saved in VA Profile backend*|6,367,462 (41.5%)|6,745,859 (43%)|6,963,396 (41%)|TBD|
-
-_*As of November 2021, we get these stats from the VA Profile team as it's not data that's available to us in our systems/on our GA dashboards. Reach out to Michael Richard in the #va-profile DSVA slack channel for assistance._
-
-- **Key result #2**: 60% of first time users of notification preferences have set at least one of the ~four~ three notification preferences available at launch within the first quarter of launch.
-
-|KPI/metric| Baseline immediately before launch (date TBD) |% of profiles with saved preferences at the end of Q4 2021 (Oct - Dec) | % of profiles with saved preferences at the end of Q1 2022 (Jan - Mar)|
-|----------|---------------|--------------|--------------|
-|% of profiles with notification preferences saved |0% (new feature)|54%|TBD|
-
-- **Key result #3**: Maintain at least a 95% success rate for successful saves of notification preference information.
-- **Key result #4**: Maintain at least a 95% success rate for retrievals of notification preferences.
-
-|KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
-|----------|-------------|---------------|-------------------|
-|95% successful retreivals|99%|99%|TBD|
-|95% successful saves|99%|99%|TBD|
+- [Notification preferences MVP project outline]()
 
 # Implementation Info
 
