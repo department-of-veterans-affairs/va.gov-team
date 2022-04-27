@@ -15,25 +15,36 @@ CMS content editors tasked with delivering quality, Veteran-centered VA.gov cont
 - They may use the CMS infrequently and therefore have a hard time recalling training and other guidance.
 
 **Problem we're trying to solve**
-Provide editors with extended guidance inline without adding to the existing clutter in the UI.
+
+Give editors the guidance they need, where they need it, without adding to the existing clutter in the UI.
 
 **Ideal outcomes**
 - Editors get guidance in the place they need it without going to the extra effort of search the knowledge base or other resources
 - Fewer CMS Help Desk tickets about rules and guidelines
 - Better compliance with rules and guidelines, therefore increase in content quality
 - Editors feel more empowered to complete their content tasks
+- Concepts introduced in training get reinforced in the UI
 
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? 
+
+- Veterans and their families can find a single, authoritative source of information
+- Veterans and their families trust the security accuracy and relevancy of VA.gov
+- Platform users can build and deploy high-quality products for Veterans
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
+The study only has indirect relevance to the Veteran journey.
+
 ## Research Goals	
 What are you trying to learn from this research? 
+- Understand if CMS editors can successfully use the inline guidance component as intended.
+- Understand if the inline guidance design component reduces effort it takes editors to find and use guidance.
+
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
