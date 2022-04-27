@@ -21,16 +21,14 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 ### Table of Contents
 - [Overview](#overview)
-- [User Outcomes]()
-- [Business Outcomes]()
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [Implementation Info](#implementation-info)
-- [MVP Approach](#mvp-approach)
-- [Status](#status)
-- [Product Decisions](#product-decisions)
+- [Projects](#projects)
 - [How to access and test](#how-to-access-and-test)
 - [Backend](#backend)
-- [Screenshots](#screenshots)
+- [Frontend](#frontend)
+- [Design](#Design)
 
 
 ## Overview
@@ -64,39 +62,19 @@ We are not currently measuring any OKRs or KPIs for notification preferences.
 
 For previous OKRs/KPIs:
 
-- [Notification preferences MVP project outline]()
+- [Notification preferences MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/mvp-project-outline.md#measuring-success)
 
-# Implementation Info
+## Projects
 
-## MVP approach
-
-Please see the [communications preferences MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for detailed documentation on the MVP requirements.
-
-## Status
-
-- **November 2020**: Initial meeting with VA Profile.
-- **December 2020**: Clarifying technical details and timelines with VA Profile.
-- **January 2021**: Backend integration begins; full definition of MVP outlined.
-- **February 2021**: Backend integration continues as we wait for API access from Terry; Team meets with Terry to discuss governance and group filtering.
-- **March 2021**: Design begins
-- **April 2021**: Initial design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
-- **June 2021**: Desktop usability study complete ([research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research))
-- **July 2021**: Development, design iterations
-- **August 2021**: Development, design iterations, testing with partners
-- **September 2021**: Development, Testing with partners, 
-- **October 2021**: UAT planning and execution
-- **November 2021**: Began phased launch (25%, 50%, 100%) Nov 3
-
-## Product Decisions
-
-- [UX specific decision doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/design/notifications-ux-decisions.md)
+|Projects|Launch date|
+|--------|-----------|
+|[Notification preferences MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/mvp-project-outline.md#measuring-success)| Nov 2021|
 
 ## How to Access and Test
 - [Staging](https://staging.va.gov/profile/notifications)
 - Testing documentation
      - [Notification settings test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences.md)
      - [Notification settings a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences-a11y.md)
-
 - [Production](https://va.gov/profile/notifications)
 
 ## Backend
@@ -106,11 +84,19 @@ Notification settings (communication permissions) come from [VA Profile](https:/
 ### Error Handling
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
 
-## Screenshots
+## Frontend
+
+- [Frontend documentation on how the notification preferences UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md)
+
+## Design
+
+### Latest mockups
+
+- [Notification preferences sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 
 ### Before
 This is a new feature, no **before** state.
 
-### After
+### MVP launch: November 2021
 <img width="628" alt="Screen Shot 2021-10-20 at 4 42 52 PM" src="https://user-images.githubusercontent.com/45603961/140571171-100fa36f-119e-4e53-83ee-116540ec3b08.png">
 
