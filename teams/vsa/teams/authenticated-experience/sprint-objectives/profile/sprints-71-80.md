@@ -218,6 +218,10 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
   -  This work should be gated behind the personal info revisions feature flag
   -  [Notes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/cross-app-profile-links.md) 
 
+### Direct deposit
+
+- Update sketch files
+
 ### General
 
 **Mark & Tom**
