@@ -15,13 +15,13 @@ This research supports the following objectives
 ### Veteran Journey
 This research fits into these points of a Veteran's Journey where they might need to fill out a form:
 
-Getting Out
-Starting up
-Taking care of myself
-Reinventing Myself
-Putting down roots
-Retiring
-Aging
+Getting Out <br>
+Starting up <br>
+Taking care of myself <br>
+Reinventing myself <br>
+Putting down roots <br>
+Retiring<br>
+Aging<br>
 Dying
 
 ## Research Goals	
