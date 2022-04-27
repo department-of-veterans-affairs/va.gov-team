@@ -42,22 +42,6 @@ This research will help us understand:
 - Veteran's practices around Review page
 - Which of the three Review page design options work best for Veterans  
 
-<h4>Review Page </h4>
-- When in the process do you usually verify the information before submitting the form? <br>
-- Please talk to me about your experience editing or correcting any entry on the Review Page? <br>
-
-<h4>Design Options </h4>
-- Compare the three design options to identify which better suits your need <br>
-- Open versus closed accordion <br>
-- Editing in Review page versus the original page <br>
-- Edit button per section or one for each element <br>
-- Using ‘edit’ versus ‘change’ (terminology) <br>
-
-<h4> Pain Points</h4>
-- Thinking about the Review Page specifically, what are some of the things you like and don’t like about using the Review Page? <br>
-- Can you talk to me about some other forms you have filled out in the past and how easy or hard it was for your to complete the form(s)? <br>
-
-
 ### Hypothesis 
 Veterans prefer to quickly review all the information in the same Review page. <br>
 Veterans would prefer to edit any information that might need updating in the original page rather than the Review page. 
