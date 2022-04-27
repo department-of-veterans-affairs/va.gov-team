@@ -13,6 +13,7 @@ Last updated March 14, 2022
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
+|Erica Sauve| Associate Product Manager | erica.sauve@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
