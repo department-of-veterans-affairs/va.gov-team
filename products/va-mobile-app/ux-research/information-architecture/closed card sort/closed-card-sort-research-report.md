@@ -586,7 +586,7 @@ This research does not include the perspectives of the following marginalized Ve
 * LGBTQ+
 * Assistive Tech users
 
-[Appointments list recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
+[VA Mobile App - Closed card sort recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
 
 
 # Appendix
