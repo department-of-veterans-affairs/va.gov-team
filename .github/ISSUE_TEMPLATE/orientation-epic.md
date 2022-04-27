@@ -38,7 +38,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### General
 
-- [ ] Attend General Orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/general-orientation-for-va-gov-platform?month=2021-11))
+- [ ] Attend General Orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/general-orientation-for-va-gov-platform?month=2021-11))
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
@@ -65,28 +65,29 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review [Design & Research Onboarding Documentation](https://design.va.gov/documentation/designers)
 - [ ] Review the [VA.gov Design System](https://design.va.gov/)
 - [ ] Review the [Research and Design Guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html) on Platform Website
-- [ ] Attend Design orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform))
-- [ ] Attend Accessibility orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
+- [ ] Attend Design orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform))
+- [ ] Attend Accessibility orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
 
 #### Front-end Engineers
 - [ ] Review [frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-developer-documentation.687931428.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Attend Front-end orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/front-end-orientation-for-va-gov-platform))
-- [ ] Attend Analytics orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform))
-- [ ] Attend Accessibility orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
-- [ ] Attend QA orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
+- [ ] Attend Front-end orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/front-end-orientation-for-va-gov-platform))
+- [ ] Attend Analytics orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform))
+- [ ] Attend Accessibility orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
+- [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
+- [ ] Attend Design System/Forms Library orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/design-system-forms-library-orientation))
 
 #### Back-end Engineers
 - [ ] Review [backend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-developer-documentation.1886289964.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Attend Back-end orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/back-end-orientation-for-va-gov-platform))
-- [ ] Attend QA orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
+- [ ] Attend Back-end orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/back-end-orientation-for-va-gov-platform))
+- [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
 
 #### Product Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
-- [ ] Attend Analytics orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform))
-- [ ] Attend Accessibility orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
-- [ ] Attend QA orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
+- [ ] Attend Analytics orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform))
+- [ ] Attend Accessibility orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform))
+- [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
 
 ### Off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
