@@ -6,11 +6,6 @@ Last Updated April 27, 2022
 
 - GitHub Label: va-profile; profile
 - Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
-- Keywords
-     - Communication permissions
-     - Communication preferences
-     - Notification preferences
-     - Notification settings (actual name of feature on FE)
  
  ### Roles
 
