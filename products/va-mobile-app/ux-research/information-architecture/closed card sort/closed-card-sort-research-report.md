@@ -327,7 +327,7 @@ privacy policy
 
 ### Do Veterans understand the proposed categories? 
 
-Yes. Nearly all participants (42 of 46) reported that they understood the proposed categories
+Yes. Nearly all participants (42 of 45) reported that they understood the proposed categories
 
 
 ### Are there any cards that Veterans felt uncertain about what category to place them in?
@@ -348,7 +348,7 @@ Yes. More than half of participants (25) reported that they felt uncertain about
 
 Mostly no. Only a few participants created new categories
 
-* 5 out of 46 participants created new categories
+* 5 out of 45 participants created new categories
 * The most common new category created was Education (3).
 * Other categories created: This App (1), VA Letters & Documents (1), Other (1), Computer/Cloud Documents (1) \
 
@@ -514,17 +514,17 @@ _COVID-19 updates & information_
 **Recruitment criteria**
 
 
-We had **46 participants** complete the card sort study.
+We had **45 participants** complete the card sort study.
 
 Audience segment:
-* Veterans: 46 
+* Veterans: 45 
 * Caregivers: 0 
 * Family members of a Veteran: 0  
 
 
 Gender:
-* Male: 35 
-* Female: 28 
+* Male: 24 
+* Female: 21 
 
 
 LGBTQ+:
@@ -534,46 +534,47 @@ LGBTQ+:
 
 
 Devices used during the study: 
-* Desktop: x 
-* Tablet: x 
-* Smartphone: x 
+* Desktop: 45 
+* Tablet: 0 
+* Smartphone: 0 
 * Assistive Technology: 0
 
 
 Age:
-* 25-34: 1
-* 35-44: 2
-* 45-54: 2
-* 55-64+: 4
+* 18-24: 1
+* 25-34: 4
+* 35-44: 4
+* 45-54: 11
+* 55-64+: 25
 * Unknown: 0
 
 
 Education:
-* High school degree or equivalent: 2
-* Some college (no degree): 9
-* Associate's degree, trade certificate, or vocational training: 16
-* Bachelor's degree: 23
-* Master's degree: 21
-* Doctorate degree: 2
+* High school degree or equivalent: 1
+* Some college (no degree): 6
+* Associate's degree, trade certificate, or vocational training: 5
+* Bachelor's degree: 19
+* Master's degree: 13
+* Doctorate degree: 1
 * Unknown: 0
 
 
 Geographic location:
-* Urban: 28
-* Rural: 35
+* Urban: 20
+* Rural: 25
 * Unknown: 0
 
 
 Race:
-* White: 47
-* Black: 2
-* Hispanic: 1
-* Biracial: 0
+* White: 34
+* Black: 6
+* Hispanic: 2
+* Biracial: 3
 * Asian: 0
 * Native: 0
 
 
-Disability and Assistive Technology (AT):
+Disability and Assistive Technology (AT): 0
 No participant joined using Assistive Technology
 
 ## Underserved groups who we haven’t talked to 
@@ -581,10 +582,13 @@ No participant joined using Assistive Technology
 This research does not include the perspectives of the following marginalized Veteran groups:
 
 * Cognitive Disability
+* Don't have a degree
 * Other than honorable 
+* Identify as Asian, Latinx, Native
 * Expat
 * LGBTQ+
 * Assistive Tech users
+* Mobile-only
 
 [VA Mobile App - Closed card sort recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=705010152)
 
