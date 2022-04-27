@@ -1,4 +1,14 @@
-# Navigation Model Exploration Audit
+# VA Mobile App - Navigation Model UI - Explorations, Audit & Refinement
+This work explores potential navigation models for the VA Mobile app. The design exploration below is based on the findings from Phase I's [Information Architecture research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture) & [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md) and a systematic evaluation of navigation model design directions based on [success criteria established by the team & product owners](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/README.md#choosing-a-mobile-navigation-direction).
+
+See also: [VA Mobile App - Information Architecture & Navigation - High Level Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md)
+
+## Navigation Model UI Design Process
+
+- VA Mobile IA/Nav Explorations + Audit - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20exploration%20%2B%20audit.pdf) |  [Balsamiq file](https://balsamiq.cloud/s4uw4la/pnnwuqv/r1EC9)
+- VA Mobile IA/Nav Explorations - Finalist refinement [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20finalist%20refinement.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r165D)
+- VA Mobile IA/Nav Explorations - Finalists for product & feasability review - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20feasibility%20review.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r2278)
+- VA Mobile IA/Nav - Proposed Navigation Model [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20proposed%20navigation%20model.pdf)  | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/rAA20)
 
 ## Choosing a Mobile Navigation Direction
 <p align="center">
@@ -57,12 +67,3 @@ We will use the following criteria to systematically audit our navigation design
 - [VA Mobile Comparative Analysis: Navigation UI Patterns - 2022](https://docs.google.com/presentation/d/1RHVh32V_ou0OGeuwpsA4naKRSfd_cst5UERsvSAVTk0/edit#slide=id.p1)
 - [Navigation Design Workshop (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1648667549883/2f4416cd2a5b9bddce0e2ecc0f078d4f7218a2fe?sender=uff1791dd79ec763420518644)
 - [Comparative Feature Analysis Summary - 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/summary.md)
-
-
-
-## Navigation Model UI - Audit
-
-- VA Mobile IA/Nav Explorations + Audit - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20exploration%20%2B%20audit.pdf) |  [Balsamiq file](https://balsamiq.cloud/s4uw4la/pnnwuqv/r1EC9)
-- VA Mobile IA/Nav Explorations - Finalist refinement [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20finalist%20refinement.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r165D)
-- VA Mobile IA/Nav Explorations - Finalists for product & feasability review - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20feasibility%20review.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r2278)
-- VA Mobile IA/Nav - Proposed navigation model [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20proposed%20navigation%20model.pdf)  | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/rAA20)
