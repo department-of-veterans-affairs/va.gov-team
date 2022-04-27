@@ -5,7 +5,7 @@
 ## Where to find us 
 
 - GitHub Label: vsa-authenticated-exp  
-- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp) 
+- Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) 
 
 ## General team overview
 
