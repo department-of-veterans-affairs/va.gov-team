@@ -18,14 +18,6 @@ CMS content editors tasked with delivering quality, Veteran-centered VA.gov cont
 
 Give editors the guidance they need, where they need it, without adding to the existing clutter in the UI.
 
-**Ideal outcomes**
-- Editors get guidance in the place they need it without going to the extra effort of search the knowledge base or other resources
-- Fewer CMS Help Desk tickets about rules and guidelines
-- Better compliance with rules and guidelines, therefore increase in content quality
-- Editors feel more empowered to complete their content tasks
-- Concepts introduced in training get reinforced in the UI
-
-
 ### OCTO Objectives 
 
 Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? 
@@ -42,20 +34,45 @@ The study only has indirect relevance to the Veteran journey.
 
 ## Research Goals	
 What are you trying to learn from this research? 
-- Understand if CMS editors can successfully use the inline guidance component as intended.
-- Understand if the inline guidance design component reduces effort it takes editors to find and use guidance.
-
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Interaction design: Understand if CMS editors can successfully use the inline guidance component as intended.
+2. Value: Understand if the inline guidance design component reduces effort it takes editors to find and use guidance.
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+**Ideal outcomes**
+- Editors get guidance in the place they need it without going to the extra effort of search the knowledge base or other resources
+- Fewer CMS Help Desk tickets about rules and guidelines
+- Better compliance with rules and guidelines, therefore increase in content quality
+- Editors feel more empowered to complete their content tasks
+- Concepts introduced in training get reinforced in the UI
+
+**What we'll do with our learnings**
+- Inform how / whether we proceed with building the inline guidance component into the CMS interface
+- If hypotheses are supported:
+   - Apply the inline guidance component to one content type to start (name content type here)
+   - Revisit in X months and assess whether to apply to additional content types.
+- If hypothesis are not supported:
+   - Followup discovery to understand the best way to serve guidance to editors.
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+Goal 1: interaction design
+- To what extent is the component noticable to editors? How many choose to open it without prompting?
+- To what extent is the additional info / collapsible design of the component effective in the context of the CMS?
+- Is the component contextualized correctly? Do editors understand that it applies to the given field?
+- How effective is the component label?
+- Do editors choose to close the component after reading?
+
+Goal 2: value
+- Is the content inside the collapsible element designed effectively?
+- What might be missing from the content? What parts are unnecessary?
+- Do editors prefer using this component over the KB or other resources?
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
