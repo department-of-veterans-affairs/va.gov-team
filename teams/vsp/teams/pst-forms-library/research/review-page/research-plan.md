@@ -82,11 +82,12 @@ For moderated interviews:
 ### Recruitment approach
 The audience is Veterans, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitment_checker.png).
 ### Recruitment criteria
+Please schedule a total of 12 Veterans for an expected completion rate of 6 studies.
 
 **Primary criteria (must-haves)** <br>
-- Number of Veterans: 12 (will discontinue research after completion of 6 successful sessions) <br>
-- Gender: 6 male and 6 female participants <br>
-- Technology/screen size: 12 mobile users <br>
+- We are testing a mobile prototype, so at least six participants should call in or be able to use their mobile device to complete the session
+- Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
+- At least 6 participants who identify as women
 
 **Secondary criteria (nice-to-haves)** <br>
 Age group <br>
