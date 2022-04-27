@@ -1,9 +1,10 @@
 # GIDS Database Migration Failure
 
-Date: 2019-07-03  
-Authors: Johnny Holton  
-Status: Resolved
+Date: 2022-04-27
+Authors: Matthew Self
+Status: In-Progress
 
+On Wednesday, April 27, 2022, the Notice of Disagreement (NOD) decision review workflow was launched on VA.gov. The feature code had
 On 7/3/2019, the [`gibct-data-service`](https://github.com/department-of-veterans-affairs/gibct-data-service/) (GIDS) was deployed to production.  
 There were two database migrations that each added a column to the `institutions` table that specified a default value and specified `null` values were not allowed for the new columns.  
 This meant that that after creating the columns, Postgresql tried to update the existing > 4.6mm rows with the default values.  
