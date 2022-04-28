@@ -1,8 +1,8 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, Feb 15, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, Apr 28, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
-We would like to learn which VA-related tasks are most important to Veterans and caregivers.
+We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the home page.
 
 ### OCTO Objectives 
 
@@ -16,10 +16,10 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 10-12 tasks that are most important from an initial set of about 30 tasks.
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 10-12 tasks that are most important from an initial set of about 30 (or more) tasks.
 
 ### Outcome
-The top tasks that we identify could be used to measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
+The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
 
 ### Research questions
 1. When Veterans or their caregivers contact the VA, what tasks are most important to them? 
@@ -54,7 +54,7 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - 1/2 (15 of 30) with experience using some VA benefits/services and 1/2 without such experience but interest in some
 
 ### For everyone:
-- ALL have a computer and are willing to use it to complete the activity (NO tablets or phones)
+- ALL have a computer and are willing to use it to complete the activity (NO tablets or smartphones)
 - ALL are willing to do an activity that requires dragging and dropping items on their computer screen with a mouse (NO screen reader users)
 - At least 10 women
 - Diversity across age groups
@@ -102,7 +102,7 @@ We will include a required field at the beginning of the card sort to collect a 
 We estimate it will take participants 15-20 minutes *(need to verify!)* to complete the card sort.
 
 ## Timeline
-- The card sort will be open for at least 2 weeks starting on Feb XX, and should remain open until there are 30 completes.
+- The card sort will be open for at least 2 weeks starting on MONTH XX, and should remain open until there are at least 30 completes.
 
 ### Prepare
 - The card sort link will be tested by several people on DATE TBD.
@@ -114,4 +114,4 @@ We estimate it will take participants 15-20 minutes *(need to verify!)* to compl
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on DATE TBD
-- Reviewed and approved by Shane or Kevin on DATE TBD
+- Reviewed and approved by Shane or Clayton on DATE TBD
