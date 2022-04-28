@@ -35,8 +35,7 @@ Check In Experience consists of five main containers (see components section for
   - Authorize Veteran based on matched phone number, lastName and lastFour
   - Refresh list of appointments
   - Check in for a specific appointment
-
-[vets-website Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-architecture.1855324196.html)
+- [vets-website Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-architecture.1855324196.html)
 
 #
 
@@ -49,8 +48,7 @@ Check In Experience consists of five main containers (see components section for
   - Trigger refresh of Veteran appointment data in Lorota
   - Check in for a specific appointment
 - Calls Lorota to GET Veteran appointment/demographic data
-
-[vets-api Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Overview.844955712.html)
+- [vets-api Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Overview.844955712.html)
 
 #
 
