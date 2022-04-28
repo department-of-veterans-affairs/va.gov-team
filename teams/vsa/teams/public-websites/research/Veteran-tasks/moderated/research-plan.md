@@ -1,7 +1,7 @@
 # Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, Apr 28, 2022
 
 ## Background
-The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers.
+The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the home page.
 
 ### OCTO Objectives 
 
@@ -15,10 +15,10 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to get feedback from Veterans and caregivers on a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and caregivers (on their own without a researcher present). 
+The goal of this research is to get feedback from Veterans and caregivers on a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and caregivers to complete independently (without a researcher present). 
 
 ### Outcome
-The feedback we get on the card sort will be used to refine it to better prepare for people to complete it unmoderated.
+The feedback we get on the card sort will be used to refine it to better prepare for people to complete it independently.
 
 ### Research questions
 1. When Veterans or their caregivers contact the VA, what tasks are most important to them? 
@@ -42,6 +42,7 @@ The card sort will be built in Optimal Workshop and will contain a list of about
 - *Schedule discussion with Meg Peters and Tracey Mulrooney (health apartment)*
 
 *Action item: Get Optimal Workshop license--reach out to Ariel*
+
 *Action item: Create a card sort with different tokens for recruiting cohorts.*
 
 ### Research materials
@@ -59,7 +60,7 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 - 3 are caregivers of Veterans
 - 5 have experience with one or more of the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 - 3 have NO experience with the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
-- ALL have a computer and are willing to use it to join our Zoom call (not a phone)
+- ALL have a computer and are willing to use it to join our Zoom call (NOT a smartphone)
   - All have a working microphone on their computer, or are willing to also join from their phone for a microphone and speaker 
   - All have the Zoom app downloaded to their computer prior to the session and know how to share their screen
   - During the session, all are willing to share their browser window over Zoom
