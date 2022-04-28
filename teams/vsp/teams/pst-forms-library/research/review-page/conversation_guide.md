@@ -115,7 +115,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 - Do you have any other thoughs or feedback?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
