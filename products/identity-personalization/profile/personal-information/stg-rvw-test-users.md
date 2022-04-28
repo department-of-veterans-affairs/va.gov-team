@@ -13,8 +13,8 @@ Constraint(s):
 | --- | --- | --- | --- |
 | ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
 | ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
-| 297 | QA | Tze Lei (@tlei123) |  |
-| ??? | Platform-QA | ??? |  |
+| 296 | PTEMS-QA | Tze Lei (@tlei123) |  |
+| 297 | Platform-QA | Darius Dzien (@ddzz) |  |
 
 ## Successful add
 
@@ -28,8 +28,8 @@ Constraint(s):
 | --- | --- | --- | --- |
 | ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
 | ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
-| 284-296 | QA | Tze Lei (@tlei123) |  |
-| ??? | Platform-QA | ??? |  |
+| 283-295 | PTEMS-QA | Tze Lei (@tlei123) |  |
+| ??? | Platform-QA | Darius Dzien (@ddzz) | ??? |
 
 
 
