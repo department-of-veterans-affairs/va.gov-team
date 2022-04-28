@@ -37,9 +37,12 @@ We will conduct remote moderated research sessions via Zoom. Research participan
 
 The card sort will be built in Optimal Workshop and will contain a list of about 30 (or maybe more) tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
 
-*Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks (or maybe more).*
+*Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks (or maybe more).* 
+- *Schedule discussion with Mikki Northuis (sitewide IA)*
+- *Schedule discussion with Meg Peters and Tracey Mulrooney (health apartment)*
 
-*Action item: Get Optimal Workshop license, and create a card sort with different tokens for recruiting cohorts.*
+*Action item: Get Optimal Workshop license--reach out to Ariel*
+*Action item: Create a card sort with different tokens for recruiting cohorts.*
 
 ### Research materials
 - [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Veteran-tasks-Feb17-EOD.xlsx)--Tasks are highlighted in yellow
