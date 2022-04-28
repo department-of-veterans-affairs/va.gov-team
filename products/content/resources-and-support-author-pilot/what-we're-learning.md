@@ -1,1 +1,14 @@
 
+# What we're learning during the Resources and Support author pilot
+
+## Author experience
+
+- Some web managers manage the online content, but don't generate the content themselves. Instead, that content comes from SMEs. We'll need to think about how that impacts the intake and editorial process.
+- Some of the content that program sites have on their sites now will move not into R&S, but into the benefit hubs. Only OCTO and our digital media partners have access to editing the benefit hubs. We also have a totally different process for plain language and content design reviews. We'll need to further think about and discuss how to best manage these scenarios and change management. Ideally, benefit hub content is largely evergreen and shouldn't need a lot of regular updating. 
+
+## Content migration
+
+- We're learning more about some of the benefits as we dig deeper into program content. This is elevating the need for some more benefit information to move into the hub or for us to move some existing content into different parts of the hubs (i.e. out of disability into family member). From a content strategy perspective, this shows how complicated migrating content is and will continue to be and reinforces our approach of working closely with our VA partners and implementing strong governance rather than simply opening resources and support. 
+  - Example 1: The Spina Bifida and CWVV programs looked at first like a few simple pages in the legacy community care site. However, the strategy is now to move existing content from disability to family member hub and to find ways to best surface deeper pharmacy benefit information for these audiences (plus CHAMPVA audience). There's also content around pharmacy benefits that's shared by both the beneficiary and provider audiences. This means we need to now consider how to best guide our partners on how to ensure a good provider experience once we migrate this content.
+  - Example 2: The Foreign Medical Program is a benefit that we don't have strong representation for in our hub yet. However, it meets criteria for hub placement rather than R&S.
+- We're learning that we're going to need to keep talking about navigation within R&S. As we bring in content around topics like pharmacy benefits or how to find a provider for CHAMPVA and other family member programs, we're going to need clear ways to distinguish that content from pharmacy benefit/find a provider content for Veterans. We'll need to sync with the R&S product team to talk about options for tagging, navigation, etc. We anticipate that each new program will bring more complications like this to consider.  
