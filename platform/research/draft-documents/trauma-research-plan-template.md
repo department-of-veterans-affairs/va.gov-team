@@ -170,6 +170,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact:	
 - Participant(s) for pilot test:	
 - Note-takers:	
-- Clinicians: Will be invited directly by the Moderator
+- Clinicians: 
 - Observers: Will be invited directly by the Moderator because we need to limit the number of observers per session. 
 
