@@ -1,3 +1,12 @@
+----
+
+# This documentation has moved! 
+### [The latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html) is found on the Platform website!
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Participant safety and responding to emergencies during remote research sessions
 In this document, you'll find: 
 
