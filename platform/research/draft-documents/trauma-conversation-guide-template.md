@@ -121,7 +121,9 @@ Before we start, a few things I want to mention:
 ### If I feel teary or emotional
 *Turn off my camera and/or say,* I need to step away for a moment.
 
-### If no clinician observer and you notice something
+Read Platform page on research safety [GET LINK FROM CLAYTON].
+
+### If no clinician and you notice something
 I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
 
 *If the participant looks like they need help right now...*
@@ -178,9 +180,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *(If you want to ask the participant about their own experiences with the potentially traumatic topic, do it here near the end of the session and say that it's optional like this...)*
 
-- We would like the TOPIC resources to meet the needs of ALL Veterans who may have been TOPIC at a VA site. If you've ever experienced any type of TOPIC at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. Are you comfortable if I ask a few more questions?
+- We would like the [TOPIC] resources to meet the needs of ALL Veterans who may have been [TOPIC] at a VA site. If you've ever experienced any type of [TOPIC] at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. Are you comfortable if I ask a few more questions?
 
 Have you or anyone you know ever [TRAUMATIC TOPIC]?
+
+During that [TRAUMATIC TOPIC] or anytime after, did you ever use [WHAT WE'RE WORKING ON]?”
 
 *(If they share a painful experience, say...)*
 - I am sorry you (or your friend) had this experience. We appreciate you sharing this with us. Your story will inform how we provide resources to help Veterans in the future. 
