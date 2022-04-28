@@ -105,4 +105,4 @@ Check In Experience consists of five main containers (see components section for
 - Ruby something something Fargate
 - Supports connection to VistA-api-service for Veteran and Staff facing applications
 
-[clinician workflow Component Diagram Todo](./todo)
+[clinician workflow context and sequence diagrams](https://github.com/department-of-veterans-affairs/clinician_workflow/blob/master/docs/Check-In-Experience.md#check-in-experience-context-diagram)
