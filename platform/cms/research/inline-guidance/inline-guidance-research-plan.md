@@ -51,7 +51,7 @@ How will this research advance your product to the next phase in the design proc
 - Inform how / whether we proceed with building the inline guidance component into the CMS interface
 - If hypotheses are supported:
    - Apply the inline guidance component to one content type to start (name content type here)
-   - Revisit in X months and assess whether to apply to additional content types.
+   - Revisit in 2 months and assess whether to apply to additional content types.
 - If hypothesis are not supported:
    - Followup discovery to understand the best way to serve guidance to editors.
 
@@ -59,7 +59,6 @@ How will this research advance your product to the next phase in the design proc
 
 
 Goal 1: value
-- 
 - Is the content inside the collapsible element designed effectively?
 - What might be missing from the content? What parts are unnecessary?
 - Do editors prefer using this component over the KB or other resources?
@@ -89,7 +88,7 @@ Usability testing (semi-structured, moderated)
 
 Part 1: User context and experience with the CMS
 
-Part 2: Preference testing against alternatives
+Part 2: Task walkthrough and preference testing against alternatives
    - Help text only
    - Help text with links out to the KB
    - Inline guidance component
