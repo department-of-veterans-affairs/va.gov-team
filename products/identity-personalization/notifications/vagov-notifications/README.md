@@ -12,11 +12,12 @@ Last updated November 22, 2021
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Heather Justice|Product Manager| heather.justice@adhocteam.us |
+|Anastasia Jakabcin|Product Manager| ana@adhocteam.us |
+|Erica Sauve | Associate Product Manager | erica.sauve@adhocteam.us|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+
 
 ### Table of Contents
 
