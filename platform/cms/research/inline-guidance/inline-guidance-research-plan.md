@@ -56,10 +56,6 @@ How will this research advance your product to the next phase in the design proc
    - Followup discovery to understand the best way to serve guidance to editors.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 Goal 1: interaction design
 - To what extent is the component noticable to editors? How many choose to open it without prompting?
@@ -76,14 +72,9 @@ Goal 2: value
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
 * Editors prefer to access guidance inline over going to external resources
-* Guidance is most effect when it is opt-in so as not to slow the experience for experienced users
+* Guidance is most effect when it is opt-in so as not to slow down experienced users
 * Guidance content is most effective when kept to short summaries
 
 
@@ -108,9 +99,9 @@ Conducted remotely via Zoom
 
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+Moderation guide and prototype to come
+
 
 For moderated interviews:
 - [Link to conversation guide](url goes here) 
@@ -148,7 +139,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 - Number: 5-10 editors
 - Product: VAMC
 - Experience level: a diversity of experience levels
-- Onboarding status: but all should have already gone through training and gotten to work in the CMS independently for at least a few weeks.
+- Onboarding status: all should have already gone through training and gotten to work in the CMS independently for at least a few weeks.
 
 
 ## Timeline
