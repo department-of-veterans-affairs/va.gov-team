@@ -36,6 +36,8 @@ We want to to conduct an unmoderated study in which participants are invited by 
 
 We would like to get complete sorting responses from **at least 30 Veterans and caregivers**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
+*Action item: Revisit cohort definitions and decide if want to incorporate under-represented groups (e.g., one group is Veterans with a cognitive disability)
+
 *Action item: Revise card sort per moderated research (part 1 of 2).*
 
 *Action item: Add a question for participants to provide their unique code from Perigean.*
