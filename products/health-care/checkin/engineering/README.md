@@ -84,6 +84,7 @@ Check In Experience consists of five main containers (see components section for
 
 - Provides a simple service that uses a unique key(UUID) passed between a user and various services to authenticate that user for certain low risk activities
 - AWS Lambda built with nodeJS and AWS DynamoDB
+- [LoTORA Documentation](https://github.com/department-of-veterans-affairs/lorota/blob/master/README.md)
 
 [![alt text](architecture-diagrams/componentDiagram_LOROTA_checkInExp.png "LoROTA Component Diagram")](./architecture-diagrams/componentDiagram_LOROTA_checkInExp.png)
 
