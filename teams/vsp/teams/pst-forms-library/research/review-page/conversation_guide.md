@@ -64,7 +64,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 - What would you do when you get here in the application process?
 - What do you think is the purpose of this page?
     - Are you able to easily accomplish that? Why or why not?
-    - Please talk to me about how easy it is to review the information in this page (feedback about accordion design)? 
+    - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
     - How would you like to see the information displayed? (always visible or open as required)?
 - Imagine, you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
@@ -74,31 +74,45 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 
 **Design Variation with Value Emphasis**
 
+*Imagine that you filled out all the required information and you arrived at this page. This is a variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
 
-- Design Varioation with Label Emmphasis
-- Design Variation with Open Accordion
+- Are you able to easily accomplish your goal using this design? Why or why not?
+- Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
+- How would you like to see the information displayed? (always visible or open as required)?
+- What do you think about the emphasis on Value (Name, DOB etc)
+- Imagine, you notice an error on this page and you want to fix the mistake
+    - Where would you click to fix the mistake?
+    - What do you think would happen when you do that? (based on what the participant says to the previous question)
+    - What do you like/dislike the most about this page? Why?
+    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
-### Things to watch for:
+**Design Varioation with Label Emmphasis**
+*This is another variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Please talk to me about how easy it is to review the information in this page (feedback about accordion design)? 
+- What do you think about the emphasis on Title (Name, DOB etc)
+- Imagine, you notice an error on this page and you want to fix the mistake
+    - Where would you click to fix the mistake?
+    - What do you think would happen when you do that? (based on what the participant says to the previous question)
+    - What do you like/dislike the most about this page? Why?
+    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
-## Third Task: [TASK NAME] - X minutes
+**Design Variation with Open Accordion**
+*This is another variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
 
-- Step 1
-- Step 2
+- Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
+    - How would you like to see the information displayed? (always visible or open as required)?
+- Imagine, you notice an error on this page and you want to fix the mistake
+    - Where would you click to fix the mistake?
+    - What do you think would happen when you do that? (based on what the participant says to the previous question)
+    - Comparing this to some of the other designs you saw today? which do you prefer? (See if participant talks about 'Edit' veresus 'Change')
+    - What do you like/dislike the most about this page? Why?
+    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
-### Things to watch for:
+## Post-Task Interview - 5 minutes
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
+- You saw 4 different design options today. Which do you prefer? why?
+- Do you have any other thoughs or feedback?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
@@ -109,8 +123,3 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
