@@ -204,6 +204,12 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
 
 - Create high fidelity mockups
 
+### General
+
+**FE**
+
+- Update how profile menu appears to screenreaders
+
 ## Sprint 74 (5/18 - 5/31)
 
 ### Onboarding
