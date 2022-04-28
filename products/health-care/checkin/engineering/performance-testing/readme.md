@@ -100,6 +100,10 @@ For more details on vets-website and vets-api performance test approach, see [ve
 
 #### Clinician Workflow
 
+![clinician workflow subsystem](./subsystems/subsystem_clinician-workflow.png "clinician workflow subsystem")
+
+For more details on clinician workflow performance test approach, see [clinician workflow performance test approach](./clinician-workflow-perf-testing.md)
+
 #### VistA API
 
 VistA api comprises of a J2EE application running on WildFly application server, deployed on Linux hosts in VA on-prem data center. This application provides API endpoints to interact with VistA systems.
@@ -108,7 +112,7 @@ The goal of testing this subsystem is to ensure that the resources allocated to 
 
 ![vista-api subsystem](./subsystems/subsystem_vista-api.png "vista-api subsystem")
 
-For more details on vets-website and vets-api performance test approach, see [vista-api performance test approach](./vista-api-perf-testing.md)
+For more details on vets-website and vista-api performance test approach, see [vista-api performance test approach](./vista-api-perf-testing.md)
 
 #### CHIP, LoROTA, Clinician Workflow and vista-api
 
