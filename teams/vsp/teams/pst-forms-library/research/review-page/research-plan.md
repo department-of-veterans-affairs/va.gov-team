@@ -58,7 +58,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated interviews:
 - [Link to Sketch Prototyoe] (url goes here)
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md) 
 
 	
 ## Recruitment	
