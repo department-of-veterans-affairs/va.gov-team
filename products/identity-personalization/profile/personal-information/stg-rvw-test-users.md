@@ -2,28 +2,34 @@
 
 Manage test-users here for testing Profile - Personal information on Staging.
 
-## Blank state
+## Blank state / Unsuccessful Add
 
 Constraint(s):
 
 - Should ALWAYS stay blank-state
+- Do NOT Add Preferred name or Gender identity &mdash; use ONLY for checking content/styling and Unsuccessful-add.
 
-| Staging test-user[^1] | Reserved for | Current incumbent | Comments |
+| Staging test-user[^1] | Reserved for | Current incumbent | Usage tracking/notes |
 | --- | --- | --- | --- |
-| 297 | PTEMS-QA | Tze Lei (@tlei123) | Do NOT add Personal name or Gender identity here |
+| ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
+| ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
+| 297 | QA | Tze Lei (@tlei123) |  |
 
-## Successful/Unsuccessful add
+## Successful add
 
-Constraints:
+Constraint(s):
 
 - Start in Blank-state
-- Can ONLY test Add ONCE &mdash; gets "burnt" after successful Add
-- Need to engage API team to "reset" to blank-state after each round of testing [or each Platform Staging Review]
+- Can ONLY test ONCE &mdash; gets "burnt" after successful Add
+- Need to engage API team to "reset" to blank-state[^2] after each round of testing [or each Platform Staging Review]
 
-| Staging test-user[^1] | Reserved for | Current incumbent | Comments |
+| Staging test-user | Reserved for | Current incumbent | Usage tracking/notes |
 | --- | --- | --- | --- |
-| 284-296 | PTEMS-QA | Tze Lei (@tlei123) | Use ONCE-only for each device or browser &mdash gets "burnt" after successful Add. |
+| ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
+| ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
+| 284-296 | QA | Tze Lei (@tlei123) |  |
 
 
 
 [^1]: All usernames (email-addresses) start with `vets.gov+user`, except where full email-addresses are listed.
+[^2]: Reset test-user by deleting Preferred-name & Gender-identity data from API back-end.
