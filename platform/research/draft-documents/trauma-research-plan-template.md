@@ -59,9 +59,9 @@ Additional resources:
 ### Trauma-informed research 
 *(Describe why it's important to take a trauma-informed approach to your research and what you plan to do)*
 
-Because TOPIC is a potentially triggering subject, we want to be careful about recruiting people to participate in this research because we don't want to re-trigger the trauma they have experienced. Our plans include the following:
+Because [TOPIC] is a potentially triggering subject, we want to be careful about recruiting people to participate in this research because we don't want to re-trigger the trauma they have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to share with potential participants and then ask if they are comfortable participating.
-- Work with VA contacts to find social workers or other clinicians to observe the sessions and provide support if trauma-triggering occurs. 
+- Talk with your Product Owner or OCTO on how you could include a social worker or other clinician in each session to provide support if trauma-triggering occurs.  
 - Limit the number of observers in the session to **one** team member (plus the moderator, a clinician, and a notetaker for a total of 4 people in the Zoom room with the participant). Plan to get consent from the participant while the observer is in the Zoom waiting room; if the participant gives consent, then let the observer in.
   - For each session with a participant using a screen reader, invite an accessibility specialist instead of the team observer to assist with any technical issues.
 - Request a content review of all Veteran-facing language in the research plan and conversation guide.
@@ -133,10 +133,10 @@ What criteria would strengthen your results?
 **Additional questions to ask in the screener**
 
 *(We recommend sharing with potential participants what the topic is and what you want them to do before they decide whether to participate. Below are some sample questions.)*
-1. VA is working to DO ACTION RELATED TO TOPIC. As part of these efforts, we are exploring WHAT WE'RE WORKING ON. Feedback from Veterans like you will help us make sure that WHAT WE'RE WORKING ON will meet your needs and are easy to use. Are you interested in trying out WHAT WE'RE WORKING ON and sharing your opinions about them? 
+1. VA is working to [DO ACTION RELATED TO TOPIC]. As part of these efforts, we are exploring [WHAT WE'RE WORKING ON]. Feedback from Veterans like you will help us make sure that [WHAT WE'RE WORKING ON] will meet your needs and are easy to use. Are you interested in trying out [WHAT WE'RE WORKING ON] and sharing your opinions about them? 
     1. No *(don't recruit)*
     2. Yes *(ask the next question)*
-1. First, we want to stress that we’re contacting you because you’re a Veteran, not because we believe that you have been TOPIC. We also want to make sure everyone who participates in a feedback session knows exactly what to expect so you can decide if you’re comfortable participating. If you’ve experienced any type of TOPIC in the past, conversations in the feedback session might remind you of these past experiences. Our researcher may also ask you a few questions about whether you’ve experienced TOPIC. They won’t ask you to share any details about the experience. And you can choose to answer only questions you’re comfortable answering or end the session at any time. We won’t share what you tell us in a feedback session with anyone, and we won’t link your name or other personal details with your answers in any of our records. Would you feel comfortable participating in this feedback session? 
+1. First, we want to stress that we’re contacting you because you’re a Veteran, not because we believe that you have been [TOPIC]. We also want to make sure everyone who participates in a feedback session knows exactly what to expect so you can decide if you’re comfortable participating. If you’ve experienced any type of [TOPIC] in the past, conversations in the feedback session might remind you of these past experiences. Our researcher may also ask you a few questions about whether you’ve experienced [TOPIC]. They won’t ask you to share any details about the experience. And you can choose to answer only questions you’re comfortable answering or end the session at any time. We won’t share what you tell us in a feedback session with anyone, and we won’t link your name or other personal details with your answers in any of our records. Would you feel comfortable participating in this feedback session? 
     1. No *(don't recruit)*
     2. Yes *(recruit)*
 
@@ -170,5 +170,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact:	
 - Participant(s) for pilot test:	
 - Note-takers:	
+- Clinicians: Will be invited directly by the Moderator
 - Observers: Will be invited directly by the Moderator because we need to limit the number of observers per session. 
 
