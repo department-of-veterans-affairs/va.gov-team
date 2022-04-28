@@ -57,18 +57,21 @@ How will this research advance your product to the next phase in the design proc
 
 ### Research questions
 
-Goal 1: interaction design
+
+Goal 1: value
+- 
+- Is the content inside the collapsible element designed effectively?
+- What might be missing from the content? What parts are unnecessary?
+- Do editors prefer using this component over the KB or other resources?
+- Are screenshots / images effective here?
+
+Goal 2: interaction design
 - To what extent is the component noticable to editors? How many choose to open it without prompting?
 - To what extent is the additional info / collapsible design of the component effective in the context of the CMS?
 - Is the component contextualized correctly? Do editors understand that it applies to the given field?
 - How effective is the component label?
 - Do editors choose to close the component after reading?
 
-Goal 2: value
-- Is the content inside the collapsible element designed effectively?
-- What might be missing from the content? What parts are unnecessary?
-- Do editors prefer using this component over the KB or other resources?
-- Are screenshots / images effective here?
 
 
 ### Hypothesis
@@ -86,11 +89,10 @@ Usability testing (semi-structured, moderated)
 
 Part 1: User context and experience with the CMS
 
-Part 2: Inline guidance component
-
-Part 3: Preference testing against alternatives
+Part 2: Preference testing against alternatives
    - Help text only
    - Help text with links out to the KB
+   - Inline guidance component
 
 
 ### Location
