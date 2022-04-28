@@ -84,10 +84,11 @@ Completion of 6 successful research session between May 9  - 13th
 
 ### Prepare
  
-May 5, 2022
+May 3- 5, 2022
 
 * Pilot participant email: TBD
 * Date and time of pilot session: May 3, 2022 time (TBD)
+* Any updates for the research plan, conversation guide, or prototype designs that come out of the May 3rd pilot session would be completed by EOD May 5th.
 
 ### Research sessions
 May 9  - 18th
@@ -101,6 +102,7 @@ May 10, Tuesday - 12 - 5pm EST <br>
 May 11, Wednesday - 12 - 5pm EST <br>
 May 12, Thursday - 12 - 5pm EST <br>
 May 13, Friday - 12 - 5pm EST
+[ADD TIME SLOTS FOR MAY 16-18, PER DISCUSSION IN 4/28 SYNC CALL WITH MATT]
 	
 ## Team Roles		
 - Moderator: Kavitha Krishnan (kavitha.krishnan@adhocteam.us)	<br>
