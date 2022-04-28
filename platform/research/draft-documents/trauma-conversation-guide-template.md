@@ -121,7 +121,7 @@ Before we start, a few things I want to mention:
 ### If I feel teary or emotional
 *Turn off my camera and/or say,* I need to step away for a moment.
 
-Also refer to Platform page on research safety [LINK TBD FROM CLAYTON].
+Also refer to Platform page on research safety **[LINK TBD FROM CLAYTON]**.
 
 ### If no clinician and you notice something
 I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
