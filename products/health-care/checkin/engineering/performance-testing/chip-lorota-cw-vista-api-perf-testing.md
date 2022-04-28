@@ -17,11 +17,11 @@ We're currently looking into both [locust](https://locust.io/) and [K6](https://
 
 | endpoint            | requests per min |
 |---------------------|------------------|
-| initiateCheckIn     | 147              |
-| refreshAppointments | 147              |
-| checkIn             | 147              |
-| initiatePreCheckin  | 604              |
-| refreshPreCheckin   | 604              |
+| initiateCheckIn     | 588              |
+| refreshAppointments | 588              |
+| checkIn             | 588              |
+| initiatePreCheckin  | 2417             |
+| refreshPreCheckin   | 2417             |
 
 
 ### Test Data Generation
