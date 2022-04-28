@@ -69,18 +69,16 @@ The audience is Veterans, to be recruited by Perigean. Participant criteria belo
 Please schedule a total of 12 Veterans for an expected completion rate of 6 studies.
 
 **Primary criteria (must-haves)** <br>
-- We are testing a mobile prototype, so at least six participants should call in or be able to use their mobile device to complete the session
+- We are testing a mobile prototype, so all participants should call in or be able to use their mobile device to complete the session
 - Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
-- At least 6 participants who identify as women
+
 
 **Secondary criteria (nice-to-haves)** <br>
-Age group <br>
-- 30 - 40yrs (4 participants) <br>
-- 40 - 50yrs (4 participants) <br>
-- 50 - 60yrs (4 participants)<br>
+- At least 2 participants who identify as womenAge group <br>
+- Atleast 2 participants over the age of 55<br>
 
 ## Timeline
-Completion of 6 successful research session between May 9  - 13th
+Completion of 6 successful research session between May 9  - 18th
 
 ### Prepare
  
@@ -94,7 +92,7 @@ May 3-5, 2022
 May 9-18, 20222
 
 ### Length of sessions
-60 minutes with 30 minutes buffer between sessions (if possible)
+45 minutes with 15 minutes buffer between sessions (if possible)
 
 ### Availability
 May 9, Monday - 12 - 5pm EST <br>
@@ -102,7 +100,9 @@ May 10, Tuesday - 12 - 5pm EST <br>
 May 11, Wednesday - 12 - 5pm EST <br>
 May 12, Thursday - 12 - 5pm EST <br>
 May 13, Friday - 12 - 5pm EST <br>
-[ADD TIME SLOTS FOR MAY 16-18, PER DISCUSSION IN 4/28 SYNC CALL WITH MATT]
+May 16, Monday - 12 - 5pm EST <br>
+May 17, Tuesday - 12 - 5pm EST <br>
+May 18, Wednesday - 12 - 5pm EST <br>
 	
 ## Team Roles		
 - Moderator: Kavitha Krishnan (kavitha.krishnan@adhocteam.us)	<br>
