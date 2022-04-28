@@ -1,7 +1,8 @@
 # Conversation Guide 
 Prototype Link - To be added
 
-[Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
+[Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md) <br>
+
 Mural Board for notes - To be added
 
 ## Moderator logistics
@@ -34,11 +35,16 @@ Before we start, a few things I want to mention:
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questiona - 5 - 10 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- What VA forms have you filled out in the past? Do you remember how long it took?
+- What device do you use to fill out the forms? On your phone, computer, etc.?
+- Typically, who fills out the forms? (You or does someone else help you fill the forms?)
+- Talk to me about when and how you usually verify information before submitting the form?
+- Please talk to me about your experience editing or correcting any entry on this page? 
+
 
 ## First Task: [TASK NAME] - X minutes
 
