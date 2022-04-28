@@ -61,7 +61,7 @@ Additional resources:
 
 Because [TOPIC] is a potentially triggering subject, we want to be careful about recruiting people to participate in this research because we don't want to re-trigger the trauma they have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to share with potential participants and then ask if they are comfortable participating.
-- Talk with your Product Owner or OCTO on how you could include a social worker or other clinician in each session to provide support if trauma-triggering occurs.  
+- Talk with your Product Owner or OCTO about how you could include a social worker or other clinician in each session to provide support if trauma-triggering occurs.  
 - Limit the number of observers in the session to **one** team member (plus the moderator, a clinician, and a notetaker for a total of 4 people in the Zoom room with the participant). Plan to get consent from the participant while the observer is in the Zoom waiting room; if the participant gives consent, then let the observer in.
   - For each session with a participant using a screen reader, invite an accessibility specialist instead of the team observer to assist with any technical issues.
 - Request a content review of all Veteran-facing language in the research plan and conversation guide.
