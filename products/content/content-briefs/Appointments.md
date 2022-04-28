@@ -36,11 +36,10 @@ You'll find your payroll deductions in a recent paycheck. Deductions include mon
 ## Word list
 | Word or phrase | Notes/reasoning | 
 | -------------- | --------------- |
-| check-in as adjective or noun; check in as verb: check-in is the step that the person takes when they arrive | AP style |
-| pre-check-in: this is the step the person takes ahead of their appointment | to be tested |
-| appointment | use consistently (don't interchange with "visit" or other words) |
-| VA health facility | use consistently for health facilities (don't interchange with "VA location" or other words) |
-
+| check-in or check in: This is the step that the person takes when they arrive. Use "check-in" (with hyphen) as a noun or adjective and "check in" (no hyphen) as a verb | AP style |
+| pre-check-in: This is the step the person takes ahead of their appointment | to be tested |
+| appointment | Use "appointment" consistently (don't interchange with "visit" or other words) |
+| VA health facility | Use this phrasing consistently for health facilities (don't interchange with "VA location" or other words) |
 
 
 **Note:** Terms to be tested in usability testing and may change.
