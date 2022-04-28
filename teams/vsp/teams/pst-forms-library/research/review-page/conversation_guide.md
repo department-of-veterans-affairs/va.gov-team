@@ -55,17 +55,28 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 *Imagine you are entering the information in this page. Once you are done, please click on the Continue button (participants would do this for multiple pages with the guidance of the moderator).* 
 
 
-### Things to watch for:
+## Second Task: Review page design feedback (30minutes)
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+**Existing design**
 
-## Second Task: [TASK NAME] - X minutes
+*Imagine that you filled out all the required information and you arrived at this page. Please take a couple of minutes to look at this page.*
 
-- Step 1
-- Step 2
+- What would you do when you get here in the application process?
+- What do you think is the purpose of this page?
+    - Are you able to easily accomplish that? Why or why not?
+    - Please talk to me about how easy it is to review the information in this page (feedback about accordion design)? 
+    - How would you like to see the information displayed? (always visible or open as required)?
+- Imagine, you notice an error on this page and you want to fix the mistake
+    - Where would you click to fix the mistake?
+    - What do you think would happen when you do that? (based on what the participant says to the previous question)
+    - What do you like/dislike the most about this page? Why?
+    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+
+**Design Variation with Value Emphasis**
+
+
+- Design Varioation with Label Emmphasis
+- Design Variation with Open Accordion
 
 ### Things to watch for:
 
