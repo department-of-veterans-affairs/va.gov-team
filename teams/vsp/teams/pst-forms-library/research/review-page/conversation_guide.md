@@ -88,7 +88,8 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
 **Design Variation with Label Emphasis**
-*This is another variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
+
+*This is another variation to the page you just viewed. Please take a couple of minutes to look at this page.*
 
 - Please talk to me about how easy it is to review the information in this page (feedback about accordion design)? 
 - Thinking about the question I asked you in the previous design - What do you think is more importanat for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
@@ -100,6 +101,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
 **Design Variation with Open Accordion**
+
 *This is another variation to the pages you have been looking at. Please take a couple of minutes to look at this page.*
 
 - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
