@@ -23,10 +23,11 @@ As we move toward preparing for translation, we want to be as consistent as poss
 | **appointment** | Use "appointment" consistently (don't interchange with "visit" or other words) | VA content standards (not yet in style guide) |
 | **VA health care facility** | Use this phrasing consistently for health care facilities (don't interchange with "VA location" or other words) |
 | **in-person or in person** | Use "in-person" (with hyphen) as a modifier and "in person" (no hyphen) in all other cases, including in a standalone label. Example: "You have an in-person appointment" vs. "You'll need to come to VA in person." |
-| **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." |
+| **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | |
+| **request vs. schedule** |  |
 
 
-**Note:** Terms can evolve with usability testing.
+**Note:** Terms may evolve with usability testing.
 
 ## Research findings
 Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
