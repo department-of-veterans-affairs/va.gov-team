@@ -14,6 +14,7 @@ Constraint(s):
 | ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
 | ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
 | 297 | QA | Tze Lei (@tlei123) |  |
+| ??? | Platform-QA | ??? |  |
 
 ## Successful add
 
@@ -28,6 +29,7 @@ Constraint(s):
 | ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
 | ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
 | 284-296 | QA | Tze Lei (@tlei123) |  |
+| ??? | Platform-QA | ??? |  |
 
 
 
