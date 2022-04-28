@@ -1,7 +1,5 @@
 # Research Plan for Authenticated Experience - Profile, Personal information UAT, April 2022
 
-_DRAFT_
-
 ## Background
 To mitigate issues around Veterans being addressed improperly at health appointments, our team has added four new fields to the Personal information section of the VA.gov Profile: Preferred name/Pronouns/Gender identity/Sexual orientation. These changes also allow Veterans to more accurately describe themselves within the VA. For MVP, we will be adding Preferred name and Gender identity only, with Pronouns and Sexual orientation to be added once we have PRA approval for those fields.
 
@@ -135,9 +133,9 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
 | ?/??/2022 | 12am - 8pm |	
-| ?/??/2022 | 12am - any time |
-| ?/??/2022 | 12am - any time |
-| ?/??/2022 | 12am - any time |
+| ?/??/2022 | 12am - 8pm |
+| ?/??/2022 | 12am - 8pm |
+| ?/??/2022 | 12am - 8pm |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -146,13 +144,13 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Christina Gednalske
 - Participant recruiting & screening: Perigean
 - Project point of contact: Christina Gednalske
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test: TBD
 - Note-takers: TBD
 - Observers:	
   - samara.strauss@va.gov
-  - Sharon
-  - Adam
+  - sharon.kasimow@gcio.com
+  - adam.whitlock@adhocteam.us
   - liz.lantz@adhocteam.us
-  - Tom
-  - Mark
+  - tom.harrison@adhocteam.us
+  - mark.dewey@gcio.com
  
