@@ -74,23 +74,25 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 
 **Design Variation with Value Emphasis**
 
-*Imagine that you filled out all the required information and you arrived at this page. This is a variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
+*Imagine that you filled out all the required information and you arrived at this page. This is a variation of the page you just viewed. Please take a couple of minutes to look at this page.*
 
 - Are you able to easily accomplish your goal using this design? Why or why not?
 - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
 - How would you like to see the information displayed? (always visible or open as required)?
-- What do you think about the emphasis on Value (Name, DOB etc)
+- What do you think is more important for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
+    - What do you think about the emphasis on Value (Name, DOB etc)? 
 - Imagine, you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What do you like/dislike the most about this page? Why?
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
-**Design Varioation with Label Emmphasis**
+**Design Variation with Label Emphasis**
 *This is another variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
 
 - Please talk to me about how easy it is to review the information in this page (feedback about accordion design)? 
-- What do you think about the emphasis on Title (Name, DOB etc)
+- Thinking about the question I asked you in the previous design - What do you think is more importanat for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
+    - What do you think about the emphasis on the title (Name, DOB etc)?  
 - Imagine, you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
@@ -98,7 +100,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
 **Design Variation with Open Accordion**
-*This is another variation to the Review page you just viewed. Please take a couple of minutes to look at this page.*
+*This is another variation to the pages you have been looking at. Please take a couple of minutes to look at this page.*
 
 - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
     - How would you like to see the information displayed? (always visible or open as required)?
@@ -112,7 +114,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 ## Post-Task Interview - 5 minutes
 
 - You saw 4 different design options today. Which do you prefer? why?
-- Do you have any other thoughs or feedback?
+- Do you have any other thoughts or feedback?
 - Any questions for me? 
 
 ## Thank-You and Closing - 5 minutes
