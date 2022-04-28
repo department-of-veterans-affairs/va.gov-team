@@ -24,7 +24,7 @@ Check In Experience consists of five main containers (see components section for
 
 [![alt text](architecture-diagrams/containerDiagram_checkInExp.png "Check In Experience Container Diagram")](./architecture-diagrams/containerDiagram_checkInExp.png)
 
-## Check In Experience Components
+## Check In Experience Components/Information:
 
 ### vets-website
 
@@ -36,7 +36,7 @@ Check In Experience consists of five main containers (see components section for
   - Refresh list of appointments
   - Check in for a specific appointment
 
-[vets-website Component Diagram image ToDo](./todo)
+[vets-website Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-architecture.1855324196.html)
 
 #
 
@@ -50,7 +50,7 @@ Check In Experience consists of five main containers (see components section for
   - Check in for a specific appointment
 - Calls Lorota to GET Veteran appointment/demographic data
 
-[vets-api Component Diagram image ToDo](./todo)
+[vets-api Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Overview.844955712.html)
 
 #
 
