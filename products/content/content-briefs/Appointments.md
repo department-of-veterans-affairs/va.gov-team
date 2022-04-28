@@ -1,6 +1,6 @@
-# VA.gov content brief for check-in experience
+# VA.gov content brief for appointments
 
-Created by the VA.gov sitewide content team for the health care team on 6.5.21.
+Created by the VA.gov sitewide content team for the health care team.
 
 **Questions about this brief?**
 
