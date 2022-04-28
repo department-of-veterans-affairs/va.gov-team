@@ -24,7 +24,7 @@ Constraint(s):
 - Can ONLY test ONCE &mdash; gets "burnt" after successful Add
 - Need to engage API team to "reset" to blank-state[^2] after each round of testing [or each Platform Staging Review]
 
-| Staging test-user | Reserved for | Current incumbent | Usage tracking/notes |
+| Staging test-user[^1] | Reserved for | Current incumbent | Usage tracking/notes |
 | --- | --- | --- | --- |
 | ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
 | ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
