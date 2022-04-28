@@ -24,6 +24,7 @@ As we move toward preparing for translation, we want to be as consistent as poss
 | **in-person or in person** | Use "in-person" (with hyphen) as a modifier and "in person" (no hyphen) in all other cases, including in a standalone label. Example: "You have an in-person appointment" vs. "You'll need to come to VA in person." |
 | **pre-check-in** | This is the step the person takes ahead of their appointment | VA content standards (not yet in style guide) |
 | **request vs. schedule** |  |
+| **sign in/sign out** | Use "sign in" and "sign out" consistently. Don't use "log in" at all.  |
 | **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | |
 
 
