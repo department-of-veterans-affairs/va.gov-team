@@ -3,6 +3,8 @@
 
 VAOS' content is captured in the [copy-docs folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content/copy-docs).
 
+See also the [platform scheduling content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md).
+
 ## Content templates
 
 ### Appointments list
