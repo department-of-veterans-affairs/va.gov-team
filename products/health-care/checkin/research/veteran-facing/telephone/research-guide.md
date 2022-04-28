@@ -232,11 +232,11 @@ Please schedule no more than 3 sessions a day.
 TBD
 	
 ## Team Roles	
-- Moderator: Nira Datta, Ben Brasso
-- Research guide writing and task development (usually but not always same as moderator): Nira Datta, Ben Brasso 
+- Moderator: Nira Datta, Kristen McConnell
+- Research guide writing and task development (usually but not always same as moderator): Nira Datta, Kristen McConnell
 - Participant recruiting & screening: Perigean
 - Project point of contact: Stephen Barrs (Stephen.Barrs@va.gov) and Patrick Bateman (patrick.bateman@va.gov)
-- Participant(s) for pilot test:
+- Participant(s) for pilot test: [TBD]
 - Note-takers: Perigean
 - Observers:	
 Stephen Barrs (Stephen.Barrs@va.gov)
