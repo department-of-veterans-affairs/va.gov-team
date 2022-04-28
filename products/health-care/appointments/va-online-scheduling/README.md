@@ -38,10 +38,9 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - Engineering:
   - [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
   - [Corey Ferris](https://dsva.slack.com/team/U01F5F6V8QN)
-  - [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
+  - [Ryan Shaw](https://dsva.slack.com/team/U039WSSQKS4)
   - [AJ Magbud](https://dsva.slack.com/team/UUW4NUCM7)
   - [Jennie McGibney](https://dsva.slack.com/team/UMLH49T7G)
-  - [Paul Touchton](https://dsva.slack.com/team/U02M8F08MK6)
   - [Tony Williams](https://dsva.slack.com/team/UMBGJ37EK)
 
 ## What We're Working On
