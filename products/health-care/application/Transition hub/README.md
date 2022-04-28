@@ -117,7 +117,7 @@ This table includes links to the individual feature directory and the latest ite
 | [SIGI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/SIGI.md) | Self-identified gender identity | In staging-ON HOLD |
 | [American Indian question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/American%20Indian.md) | N/A | In staging-ON HOLD |
 | [Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Notifications.md) | Email notifications for in progress reminders and application submission | In discovery |
-| [Medicare claim number](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/Transition%20hub/In%20progress%20features) | N/A | In discovery |
+| [Medicare claim number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/In%20progress%20features/Medicare%20claim%20number.md) | N/A | In discovery |
 
 <br>
 
