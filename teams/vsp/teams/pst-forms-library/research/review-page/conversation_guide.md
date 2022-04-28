@@ -48,8 +48,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Walk through the form - 5 minutes
 
-We are going to be looking at the burial benefits for today. As I mentioned, this is a prototype so it might not work the way you expect it to. 
+We are going to be looking at the burial benefits for today. As I mentioned, this is a prototype so it might not work the way you expect it to.
+
 *Please take a couple of minutes to look at this page - this is the information you would need to fill out if you were actually completing this process.* 
+
 *Imagine you are entering the information in this page. Once you are done, please click on the Continue button (participants would do this for multiple pages with the guidance of the moderator).* 
 
 
