@@ -18,7 +18,7 @@
 
 ### Project-specific setup
 
-- [ ] [UXPin Prototype]()
+- [ ] [UXPin Prototype]( will update when wireframes are finalized)
 
 ## Intro - 5 minutes
 
@@ -39,23 +39,23 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 10 minutes
 Now, I’m going to ask you to think about your last VA medical appointment where you spoke to the physician over the phone.
-What was the type of appointment, such as primary care, cardiology, dermatology, etc.?
-How did you schedule this appointment? 
-Was it a follow-up from an earlier appointment?
-Did anyone (possibly a nurse) call you prior to the appointment to ask you questions?
-What types of questions are you asked or what types of information do you review?
-Did you receive any reminder messages about this appointment?
-What type(s) of reminders?
-Can you describe the day of the appointment? 
-Who called who?
-Was it on your personal mobile phone, landline, or work phone?
-If it was on your mobile phone, do you recall if it was a general phone number or a private number?
-What types of questions do the medical professionals (such as a doctor) ask at the start of your telephone appointments? For instance, do they review your list of medications?
-If you need to cancel or reschedule your telephone appointment, how do you normally do that?
-Ideally, how would you like to cancel or reschedule?
-What do you like about medical appointments completed over the telephone?
-What problems have you run into before, during or after a telephone appointment?
-What could be improved? 
+- What was the type of appointment, such as primary care, cardiology, dermatology, etc.?
+- How did you schedule this appointment? 
+- Was it a follow-up from an earlier appointment?
+- Did anyone (possibly a nurse) call you prior to the appointment to ask you questions?
+- What types of questions are you asked or what types of information do you review?
+- Did you receive any reminder messages about this appointment?
+- What type(s) of reminders?
+- Can you describe the day of the appointment? 
+- Who called who?
+- Was it on your personal mobile phone, landline, or work phone?
+- If it was on your mobile phone, do you recall if it was a general phone number or a private number?
+- What types of questions do the medical professionals (such as a doctor) ask at the start of your telephone appointments? For instance, do they review your list of medications?
+- If you need to cancel or reschedule your telephone appointment, how do you normally do that?
+- Ideally, how would you like to cancel or reschedule?
+- What do you like about medical appointments completed over the telephone?
+- What problems have you run into before, during or after a telephone appointment?
+- What could be improved? 
 
 ## First Task: Happy path for pre-check-in for a telephone appointment - 30 minutes
 
@@ -118,16 +118,16 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 
 ## Second Task: Non-happy path for pre-check-in for a telephone appointment - 30 minutes
 
-Imagine it’s the morning of your appointment, and you decide to click on the link in a text you received a few days ago. You see this page [ show the ‘after midnight /before appointment’ error page]
-What are your thoughts about this page? 
-Why do you think you are seeing this page? 
-What information is helpful (if anything)? 
-Is there anything missing or would you change anything? 
-Would you want to navigate anywhere else? Why or why not? 
-What would be the next thing that you do related to your appointment?
+Imagine it’s the morning of your appointment, and you decide to click on the link in a text you received a few days ago. You see this page [ _show the ‘after midnight /before appointment’ error page_]
+- What are your thoughts about this page? 
+- Why do you think you are seeing this page? 
+- What information is helpful (if anything)? 
+- Is there anything missing or would you change anything? 
+- Would you want to navigate anywhere else? Why or why not? 
+- What would be the next thing that you do related to your appointment?
 
 ## Post-Task Interview - 9 minutes
-- Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
+Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
  
   - _If applicable_ As a caregiver, is there anything that we should be aware of?
 -  What are your thoughts on calling the experience you just completed “pre-check-in”? 
