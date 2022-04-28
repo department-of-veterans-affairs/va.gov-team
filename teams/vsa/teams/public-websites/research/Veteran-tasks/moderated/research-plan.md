@@ -35,9 +35,9 @@ The feedback we get on the card sort will be used to refine it to better prepare
 ## Method: Moderated Sessions over Zoom	
 We will conduct remote moderated research sessions via Zoom. Research participants will be asked about VA-related tasks that they do, and then they will be given a card sort activity link to do independently while sharing their web browser screen and talking aloud.
 
-The card sort will be built in Optimal Workshop and will contain a list of about 30 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
+The card sort will be built in Optimal Workshop and will contain a list of about 30 (or maybe more) tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
 
-*Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.*
+*Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks (or maybe more).*
 
 *Action item: Get Optimal Workshop license, and create a card sort with different tokens for recruiting cohorts.*
 
@@ -87,7 +87,7 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 - * Pilot #2: 
 
 ### Research sessions
-- Feb X-Y, 2022
+- Month X-Y, 2022
 
 ### Length of sessions
 - **60-minute sessions** with at least **30-minute breaks** in between
@@ -96,7 +96,7 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 
 Team Availability | Time (ET)
 ------------------|--------------
-Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
+Month X, 2022 | Noon - 3 pm, 4 - 8 pm
 
 	
 ## Team Roles	
@@ -106,8 +106,8 @@ Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
 - Project point of contact:	Cindy Merrill
 - Participants for pilot test:	(noted above)
 - Note-takers:	Perigean
-- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com)
+- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us)
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on DATE TBD
-- Reviewed and approved by Shane or Kevin on DATE TBD
+- Reviewed and approved by Shane or Clayton on DATE TBD
