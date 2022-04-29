@@ -18,8 +18,8 @@ A dedicated Engineer and a backup will be assigned to monitor all API's and chan
     - Adrian Rollett
     - Brian Seeks
     - Gaurav Gupta
-    - Kanchana
-    - Bethany
+    - Kanchana Suriyamoorthy
+    - Bethany Dunfield
 
 Responsibilities include all of the following:
 
