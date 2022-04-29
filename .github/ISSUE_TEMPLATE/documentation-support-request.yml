@@ -13,7 +13,7 @@ body:
       - Updating previously published documentation
       - Reviewing recently written, never before published drafts
     validations:
-    required: true
+      required: true
   - type: dropdown
     id: primary-users
     attributes:
