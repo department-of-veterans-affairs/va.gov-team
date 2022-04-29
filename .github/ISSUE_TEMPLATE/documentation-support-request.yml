@@ -1,5 +1,7 @@
 name: Documentation Support Request
 description: Use this template to request documentation support from the Platform content team
+name: Documentation Support Request
+description: Use this template to request documentation support from the Platform content team
 title: Documentation support
 labels: ['documentation-support']
 body:
@@ -9,9 +11,9 @@ body:
       label: Request type
       description: What type of help do you need? (Check all that apply.)
       options: 
-        - Writing new documentation
-        - Updating previously published documentation
-        - Reviewing recently written, never-before-published drafts
+        - value: Writing new documentation
+        - value: Updating previously published documentation
+        - value: Reviewing recently written, never-before-published drafts
     validations:
       required: true
   - type: input
@@ -21,32 +23,34 @@ body:
   - type: input
     id: point-of-contact
     attributes:
-      label: Who is the point of contact for this documentation?
+      label: Subject matter expert
+      description: Who is the point of contact for this documentation?
   - type: input
     id: approvals
     attributes:
-      label: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
+      label: Approvals
+      decsription: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
   - type: checkboxes
     id: embedded-media
     attributes:
-      label: Do the documents contain embedded media? (Check all that apply.)
-      description: Do the documents contain embedded media?
+      label: Embedded media
+      decription: Do the documents contain embedded media? (Check all that apply.)
       options:
-        - Screenshot(s)
-        - Diagram (s)
-        - Video (s)
+        - value: Screenshot(s)
+        - value: Diagram (s)
+        - value: Video (s)
   - type: checkboxes
     id: audience 
     attributes:
       label: Who are the primary users of this documentation? (Check all that apply.)
       description: Who are the primary users of this documentation?
       options: 
-        - Developers
-        - Designers and researchers
-        - Product managers
-        - Other
-  - type:textarea
+        - value: Developers
+        - value: Designers and researchers
+        - value: Product managers
+        - value: Other
+  - type: textarea
     id: anything-else
     attributes:
-      label: Links? References? Anything that will give us more context? Tip: Attach images or files by clicking this area to highlight it and then dragging files in.
-      description: Links? References? Anything that will give us more context?
+      label: Anything else?
+      description: Links? References? Anything that will give us more context? Tip: Attach images or files by clicking this area to highlight it and then dragging files in.
