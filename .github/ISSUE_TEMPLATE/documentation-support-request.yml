@@ -7,7 +7,7 @@ body:
   attributes:
     value:
   -type: dropdown
-    id: help type
+    id: help-type
     attributes: 
       label: What do you need help with?
       description: What do you need help with?
@@ -18,7 +18,7 @@ body:
    validations:
      required: true
   -type: dropdown
-    id: primary users
+    id: primary-users
     attributes:
       label: Who are the primary users of your documentation? Check all that apply:
       description: Who are the primary users of your documentation? Check all that apply:
@@ -27,3 +27,5 @@ body:
         -Designers and researchers
         -Product managers
         -Others
+
+---
