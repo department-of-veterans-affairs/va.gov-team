@@ -74,4 +74,23 @@ If they are LOA3:
 
 Now let’s look at each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
 
+- _If not already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
+	- _If needed:_ Did you see the sentence in gray under the Preferred name title of the section? 
+	- How does or doesn’t this information answer your questions or clarify this?
+	
+- Ok, now I’d like you to go ahead and type in your Preferred name and save your entry.
+	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
+	
+- Is there anything about that process that is confusing?
 
+
+	- [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
+	- [ ] **UAT TASK:** Confirm Preferred name edit state opens as expected.
+	- [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
+	- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
+	- [ ] **Usability:** How easy is it for participants to update this information? Observe if they struggle to understand how to enter or save the information.
+	- [ ] **Usability/Content:** How easy is it for participants to use the hint text to learn more about Preferred name? Observe if they do not notice this text, have difficulty reading it, or are confused about the information included.
+
+## 3. Gender identity - 5 minutes
+
+Now let’s look at the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
