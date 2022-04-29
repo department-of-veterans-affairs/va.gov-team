@@ -20,10 +20,10 @@ body:
       label: Who are the primary users of this documentation?
       description: Check all that apply.
       options: 
-        - Developers
-        - Designers and researchers
-        - Product managers
-        - Others
+        - label: Developers
+        - label: Designers and researchers
+        - label: Product managers
+        - label: Others
   - type: input
     id: number-of-docs
     attributes:
