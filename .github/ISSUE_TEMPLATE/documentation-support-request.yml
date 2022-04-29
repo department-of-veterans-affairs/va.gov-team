@@ -1,12 +1,9 @@
 name: Documentation Support Request
 description: Use this template to request documentation support
 title: Documentation support for [platform team]
-labels: 
+labels: [documentation-support]
 body:
-  -type: markdown
-  attributes:
-    value:
-  -type: dropdown
+  - type: dropdown
     id: help-type
     attributes: 
       label: What do you need help with?
@@ -17,7 +14,7 @@ body:
         -Reviewing recently written, never before published drafts
    validations:
      required: true
-  -type: dropdown
+  - type: dropdown
     id: primary-users
     attributes:
       label: Who are the primary users of your documentation? Check all that apply:
