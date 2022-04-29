@@ -63,6 +63,7 @@ Check In Experience consists of five main containers (see components section for
 
 [![alt text](architecture-diagrams/containerDiagram_urlShortener-container-diagram.drawio.png "URL Shortener Component Diagram")](./architecture-diagrams/containerDiagram_urlShortener-container-diagram.drawio.png)
 
+#
 
 ### Check In Integration Platform (CHIP):
 
