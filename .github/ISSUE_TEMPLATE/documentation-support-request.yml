@@ -1,7 +1,7 @@
 name: Documentation Support Request
-description: Use this template to request documentation support
-title: Documentation support for [platform team]
-labels: [documentation-support]
+description: Use this template to request documentation support from the Platform content team
+title: Documentation support
+labels: ['documentation-support']
 body:
   - type: dropdown
     id: help-type
@@ -9,20 +9,21 @@ body:
       label: What do you need help with?
       description: What do you need help with?
       options: 
-        -Creating new documentation
-        -Updating previously published documentation
-        -Reviewing recently written, never before published drafts
+        - Creating new documentation
+        - Updating previously published documentation
+        - Reviewing recently written, never before published drafts
    validations:
      required: true
   - type: dropdown
     id: primary-users
     attributes:
+      multiple: true
       label: Who are the primary users of your documentation? Check all that apply:
       description: Who are the primary users of your documentation? Check all that apply:
       options: 
-        -Developers
-        -Designers and researchers
-        -Product managers
-        -Others
+        - Developers
+        - Designers and researchers
+        - Product managers
+        - Others
 
 ---
