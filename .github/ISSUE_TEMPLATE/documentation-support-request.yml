@@ -29,6 +29,8 @@ body:
   - type: checkboxes
     id: embedded media
     attributes:
+      label: Do the documents contain embedded media? (Check all that apply.)
+      description: Do the documents contain embedded media?
       options:
         - Screenshot(s)
         - Diagram (s)
