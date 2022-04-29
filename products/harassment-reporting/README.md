@@ -8,6 +8,8 @@ This page serves as a "front door" to documentation and resources pertaining to 
 
 [Timeline](#timeline)
 
+[Analytics](#analytics)
+
 [Product artifacts](#product-artifacts)
 
 [Research artifacts](#research-artifacts)
@@ -48,14 +50,20 @@ A timeline of key milestones
     - Research: Harassment reporting static landing page and poster
 
 - **April 2022**
-    - [Research Readout- Harassment Reporting Landing Page & Poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) to leadership and VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support
-    - Decision to consolidate disparate phone numbers into single myVA411 and release static landing page/poster on VA.gov once design has been updated with clean unified content
+    - Veteran research findings on Harassment Reporting Landing Page and Poster presented to leadership and VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support
+      - [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) 
 
+- **May 2022**
+    - Final approval is expected by May 18th (pending consensus on using MyVA-411 and validation of associated content)
+
+### Next steps
+  - Once backend data collection process is in place, VA.gov team will revisit online reporting tool from perspective of reporting user 
 
 ## Product artifacts
-- Product outline
-- Initiative brief
-- Baseline analytics
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/product-outline.md)
+
+## Analytics
+- [Baseline analytics - traffic to existing harassment pges on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/harassment-reporting#traffic-to-existing-harassment-pages-on-vagov) (pre-static landing page release)
 
 ## Research artifacts
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/README.md)
@@ -73,18 +81,23 @@ A timeline of key milestones
 - [VA OIG Web Page and Link to Report Wrongdoing](https://www.va.gov/oig/)
 
 ## Contacts
-Product Owners: Dave Conlon (OCTO-DE), Marth Wilkes (OCTO-DE)
-Content Lead: Danielle Thierry
-PIF: Soni Meckem
-Designer: Cassandra Allen 
-Design lead: Matt Dingee (OCTO-DE)
-Product Manager: Michelle Middaugh (Ad Hoc)
-Research: Cindy Merrill (Ad Hoc)
+- Product Owners: Dave Conlon (OCTO-DE) and Martha Wilkes (OCTO-DE)
+- Content Lead: Danielle Thierry
+- Design lead: Matt Dingee (OCTO-DE)
+- Product Manager: Michelle Middaugh (Ad Hoc) 
+- Research: Cindy Merrill (Ad Hoc)
+
+### Other contributing team members
+- PIF: Soni Meckem
+- Designer: Cassandra Allen (until April 2022) 
+- Product Manager: Brian Lloyd (until April 2022) 
 
 ## Stakeholders
-Office of Resolution Management, Diversity and Inclusion (ORDMI)
-VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support - Dr. Jennifer MacDonald (VA)
-Integrated Project Team (IPT) - lead by Chakakhon Lea (VA)
+- Office of Resolution Management, Diversity and Inclusion (ORDMI)
+- VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support 
+  - Dr. Jennifer MacDonald (VA)
+- Integrated Project Team (IPT) 
+  - Chakakhon Lea (VA)
 
 
 
