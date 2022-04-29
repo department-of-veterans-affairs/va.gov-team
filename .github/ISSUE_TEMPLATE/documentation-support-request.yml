@@ -53,4 +53,4 @@ body:
     id: anything-else
     attributes:
       label: Anything else?
-      description: Links? References? Anything that will give us more context? Tip: Attach images or files by clicking this area to highlight it and then dragging files in.
+      description: Links? References? Anything that will give us more context? Attach images or files by clicking this area to highlight it and then dragging files in.
