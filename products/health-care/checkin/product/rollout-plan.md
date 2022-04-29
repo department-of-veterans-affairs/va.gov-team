@@ -6,17 +6,20 @@ A dedicated 'Go Live' Microsoft Teams channel will be available during the first
 
 ## Monitoring
 
-A dedicated Engineer and a backup will be assigned to monitor all API's and channels and be available to diagnose reported issues during the following hours of operation:
-
-- Monday - Friday 
-- 8:00 AM - 4:00 PM in the Engineer's timezone (We need to verify these hours)
-
-2-week Rotation Schedule to coincide with a Sprint
-- Adrian
-- Brian
-- Gaurav
-- Kanchana
-- Bethany
+A dedicated Engineer and a backup will be assigned to monitor all API's and channels and be available to diagnose reported issues during the following hours of operation Monday through Friday. Each of the following Engineers will be provide support for a Sprint duration as follows:
+- CHIP Team - 8:00 AM ET - 2:00 PM ET
+    - Michael Kimball
+    - Chris Wilmson
+    - James Mullin
+    - Mike Ollison
+    - Chance Crawford    - 
+    - Alex de los Reyes
+- CIE Team - 2:00 PM ET - 8:00 PM ET 
+    - Adrian
+    - Brian
+    - Gaurav
+    - Kanchana
+    - Bethany
 
 Responsibilities include all of the following:
 
@@ -25,6 +28,7 @@ Responsibilities include all of the following:
 3. Actively monitoring and responding to product inquiries received to the [check-in-go-live](https://app.slack.com/client/T03FECE8V/C02UP02HHGX) and [check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) DSVA Slack channels
     - APM Channel gives links to Data Dog and Sentry (see more link)
 5. Actively monitoring and managing the ServiceNow eCheck-in Vet Facing Applications group ticket queue as documented [here](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#servicenow-process). 
+    - We should log Service Now tickets when issues comes through a Teams or Slack channel 
 6. Actively communincating with the Product Manager and Delivery Manager to priortize issues, bugs and potential hotfixes 
 7. Actively working with devops to monitor infrastructure (containers, database, concurrent lambda limits) for scalability
 
