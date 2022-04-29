@@ -59,7 +59,7 @@
      - AI - After the schedule has been drafted, OIT to share with VA.gov team for MuleSoft queueing. VA.gov team to then review for any constraints
      - AI - Caitlin to send sample of VA.gov PPTs. Va.gov team to review and email fail/success percentage
 
-     </Details>
+</Details>
      
 ### Action Items
 - [ ] Caitlin will send the proposed workflow for the next phase of MuleSoft
