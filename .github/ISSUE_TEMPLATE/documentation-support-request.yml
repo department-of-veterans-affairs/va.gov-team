@@ -30,12 +30,12 @@ body:
     id: approvals
     attributes:
       label: Approvals
-      decsription: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
+      description: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
   - type: checkboxes
     id: embedded-media
     attributes:
       label: Embedded media
-      decription: Do the documents contain embedded media? (Check all that apply.)
+      description: Do the documents contain embedded media? (Check all that apply.)
       options:
         - label: Screenshot(s)
         - label: Diagram (s)
