@@ -41,3 +41,4 @@ body:
         - Yes
         - No
      validations
+       required: true
