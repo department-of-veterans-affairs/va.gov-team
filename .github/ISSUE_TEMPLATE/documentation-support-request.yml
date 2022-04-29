@@ -9,20 +9,21 @@ body:
       label: What do you need help with?
       description: What do you need help with?
       options: 
-      - Creating new documentation
-      - Updating previously published documentation
-      - Reviewing recently written, never before published drafts
+        - Creating new documentation
+        - Updating previously published documentation
+        - Reviewing recently written, never before published drafts
     validations:
       required: true
   - type: checkboxes
     id: primary-users
     attributes:
-      label: Who are the primary users of this documentation? (Check all that apply)
+      label: Who are the primary users of this documentation?
+      description: Check all that apply.
       options: 
-      - Developers
-      - Designers and researchers
-      - Product managers
-      - Others
+        - Developers
+        - Designers and researchers
+        - Product managers
+        - Others
   - type: input
     id: number-of-docs
     attributes:
