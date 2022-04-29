@@ -35,6 +35,7 @@ body:
         - Video (s)
   - type: checkboxes
     id: audience 
+    attributes:
       label: Who are the primary users of this documentation? (Check all that apply.)
       description: Who are the primary users of this documentation?
       options: 
@@ -42,4 +43,4 @@ body:
         - Designers and researchers
         - Product managers
         - Other
-  -
+ 
