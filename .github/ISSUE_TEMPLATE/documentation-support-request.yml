@@ -14,6 +14,10 @@ body:
         - Reviewing recently written, never-before-published drafts
     validations:
       required: true
+   - type: input
+    id: number-of-docs
+    attributes:
+      label: How many docs to be created, updated, or reviewed?
   - type: checkboxes
     id: primary-users
     attributes:
@@ -24,10 +28,6 @@ body:
         - label: Designers and researchers
         - label: Product managers
         - label: Others
-  - type: input
-    id: number-of-docs
-    attributes:
-      label: Estimate the number of pages to be created, updated, or reviewed.
   - type: input
     id: point-of-contact
     attributes:
