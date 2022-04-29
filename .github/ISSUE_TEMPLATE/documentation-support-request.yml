@@ -36,7 +36,7 @@ body:
     id: plans-to-update
     attributes:
       label: Are there plans to update other documents/pages that have similar content?
-      description:Select Yes or No
+      description: Select Yes or No
       options: 
         - label: Yes
         - label: No
