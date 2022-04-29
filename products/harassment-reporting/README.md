@@ -1,93 +1,91 @@
-# Proposed: VA.gov Secure Online Harassment Reporting Tool
+# Harassment Reporting README
+This page serves as a "front door" to documentation and resources pertaining to VA Harassment reporting
 
-The Office of Resolution Management, Diversity and Inclusion (ORDMI) is the office in-charge VA Wide for processing complaints from Veterans and Employees for alleged Civil Rights Violations as well as for Harassment, Reasonable Accommodations, and other inappropriate behaviors **while on a VA Site.**
+# Table of Contents
+[Product context](#product-context)
 
-In response to Section 5303 of the Deborah Sampson Act which is part of the Megabus Bill that was passed in January, and [new congressional demands for action](https://healthitsecurity.com/news/va-health-records-protocols-probed-following-sexual-harassment-reports), a team of Presidential Innovation Fellows (PIFs) is scoping the feasibility of creating a secure, online reporting tool on VA.gov that would enable Veterans and VA employees to report alleged incidents about violations from Veterans and  VA employees which occur **while on a VA Site.**
+[Problems to solve](#problems-to-solve)
 
-## Headlines
-**Business stakeholder -** The Office of Resolution Management, Diversity and Inclusion (ORDMI)
+[Timeline](#timeline)
 
-**DEPO owner**
+[Product artifacts](#product-artifacts)
 
-To be determined.
+[Research artifacts](#research-artifacts)
+
+[Design artifacts](#design-artifacts)
+
+[Engineering artifacts](#engineering-artifacts)
+
+[Reference links](#reference-links)
+
+[Contacts](#contacts)
+
+[Stakeholders](#stakeholders)
+
+## Product context
+A 2020 Government Accountability Office report showed the VA’s workplace sexual harassment policies were inconsistent and incomplete, including a lack of centralized reporting mechanisms or resources for VA beneficiaries who report sexual harrassment or assault by VA employees or on VA property.
+
+The Office of Resolution Management, Diversity and Inclusion (ORDMI) is responsible for processing complaints from Veterans and employees for alleged civil rights violations, harassment, reasonable accommodations, and other inappropriate behaviors experienced while on a VA site.
+
+In response to Section 5303 of the Deborah Sampson Act (part of the Megabus Bill that was passed in January 2021) and new congressional demands for action, ORDMI has been charged with building a secure, online reporting tool on VA.gov that would enable reporting of alleged incidents which occur in a VA facility.
+
+VA.gov teams initially planned an online reporting tool but this work was halted due to challenges with the backend database process. The Integrated Project Team (IPT) was convened to evaluate the feasibility of using the existing system vs replacing the current system with a centralized case management system. Pending the outcome of those decisions, the team focused efforts on a static landing page and poster. 
+
+## Problems to solve
+
+How might we improve the reporting experience easier for Veterans and employees?
+
+## Timeline
+A timeline of key milestones 
+
+June 2021 
+- Project kickoff for online reporting tool
+
+August 26, 2021
+- Pivot to fast path -> "landing page"
+
+March 2022
+- Research: Harassment reporting static landing page and poster
+
+April 2022
+- [Research Readout- Harassment Reporting Landing Page & Poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) to leadership and VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support
+- Decision to consolidate disparate phone numbers into single myVA411 and release static landing page/poster on VA.gov once design has been updated with clean unified content
 
 
-**Is request tracked to an event or Congressional deadline? -** 
+## Product artifacts
+Product outline
+Initiative brief
+Baseline event data
+Discovery folder
 
-It may be.  Per a letter sent by a group of 50 Congressional members to VA Secretary Denis McDonough in April: “It is absolutely critical for VA to move forward with implementation of Section 5303, creating a centralized reporting mechanism for VA beneficiaries and to designate sexual harassment and assault prevention coordinators, so that veterans know where to turn when subjected to degrading treatment when accessing care and benefits.” 
+## Research artifacts
+- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/README.md)
+- [Research Readout- Harassment Reporting Landing Page & Poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) | April 21, 2022
 
-## Details
-**Who is the primary user?**
-- Veterans who receive care at VA facilities **and** VA employees.
+## Design artifacts
+[Harassment reporting tool Sketch files](https://www.sketch.com/s/b3f90417-a2a0-41f5-8fb9-151ce163710a) | August 2021
 
-**What are the user goals for the project/page/product?**
+## Engineering artifacts
 
-The goals are:
-
-- To create a secure, easy-to-use digital (Web & Mobile) tool for self-reporting of incidents (e.g., Sexual Assault, Harassment, RA, Veterans Civil Rights, EEO, other Incivility Events -- bullying, micro-aggressions) that occur at VA facilities.
-- To create an administration component of the digital tool to enable processing, tracking and reporting of incidents that are self-reported via the tool.
-- To create a new federated Veterans Affairs system for Sexual Assault (e.g., System of Record (SoR) for Sexual Assaults that allows the import, enter, update, track, manage and report on all sexual assault events in the VA)
-
-
-**What is the business goal?**
-
-- To meet congressionally mandated requirements for Section 5303 by creating a centralized reporting mechanism for VA incidents of Sexual Assault and Harassment
-
-**How does this map to our North Star?**
-
-- [X] Increase availability of self-service tools**
-- [X] Decrease time to outcomes
-- [ ] Maximize satisfaction, reliability, availability, & security
-
-**How will we measure success?**
-- TBD
-
-**How well do we understand the problem?**
-- It is NOT abundantly clear yet that (a) this solution (e.g. a new front-end tool and back-end system) is required by law; that VA.gov needs to be the front-door to this solution and (c) that the scope as defined by the Presidential Innovation Fellows is designed and sized in a way that is aligned with our OCTO-DE approach of delivering value in a truly agile (smaller chunks) way.
-
-**What is DEPO's role in this work?**
-- Per the Presidential Innovation Fellow leads for the tech initiative (Soni Meckem at Office of Resolution Management, Diversity & Inclusion):
-   - Help Navigating any Privacy/ATO Administrative Processes that would be required
-   - Dev Environments with Heavy Consult/Collab on Front End Build
-   - Design (user testing) – I’m here to assist but need someone to take lead who knows internal processes
-   - Consult on getting data from Front-End to a SharePoint Environment
-
-(Note: Soni is the Program/Product lead and is partnered with Joshua Farrar an engineer at GSA.   They are assigned to this project through their terms in Sept. 2021 -- but may be extended for another year.)
-
-**What are the known risks?**
-- The ORDMI/PIF team responsible requires too much unplanned capacity/bandwidth from OCTO-DE (in particular Platform, etc.) to be successful.   NOTE: There is no known OCTO-DE/OIT budget for this initiative.
-- There is no clear "responsible/accountable" PO or team to own this for OCTO-DE.
-
-## Reference links:
-
-- The Office of Resolution Management, Diversity and Inclusion (ORDMI) - https://www.va.gov/ORMDI/HPP.asp
-- WIP Roadmap and Proposed Architecture - [Roadmap_Architecture Deck v1 SM.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6399894/Roadmap_Architecture.Deck.v1.SM.pdf)
-- Proposed System Architecture of Front End Portal and Federated System (with new and existing platforms)
-[example Federated Systems.pdf](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313817/example.Federated.Systems.pdf)
-- Draft Business Requirements (Last updated 5/12/2021)
-[REVISED 05_12_2021 Draft Business Requirements (2).xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511091/REVISED.05_12_2021.Draft.Business.Requirements.2.xlsx)
-- ORDMI PIFs: VA Cultural Health Initiative
-[DIVAC Harassment_4_22_final.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511053/DIVAC.Harassment_4_22_final.pdf)
-- ORDMI PIFs: Proposed Web to Datastore Flows
-[05_13_2021 Flow.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511058/05_13_2021.Flow.pdf)
-- ORDMI PIFs: Proposed Service Design
-[03_11_2021 Propsed TO BE Service Experience Design (draft).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6511063/03_11_2021.Propsed.TO.BE.Service.Experience.Design.draft.pdf)
-
+## Reference links
+- [Original reporting project links and artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/online-reporting-tool/archive)
 - SEC. 5303. ANTI-HARASSMENT AND ANTI-SEXUAL ASSAULT POLICY OF DEPARTMENT OF VETERANS AFFAIRS.
 [5303 Breakdown.xlsx](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313832/5303.Breakdown.xlsx)
-
-
 - VA OIG Web Page and Link to Report Wrongdoing - https://www.va.gov/oig/
 
+## Contacts
+Product Owners: Dave Conlon (OCTO-DE), Marth Wilkes (OCTO-DE)
+Content Lead: Danielle Thierry
+PIF: Soni Meckem
+Designer: Cassandra Allen 
+Design lead: Matt Dingee (OCTO-DE)
+Product Manager: Michelle Middaugh (Ad Hoc)
+Research: Cindy Merrill (Ad Hoc)
 
-**Screenshot Artifacts
-
-VA.gov Proposed Online Form WIP (e.g. the Front-Door)
-
-<img width="581" alt="harrassment_platform_3" src="https://user-images.githubusercontent.com/63107147/116579223-2e6d7c80-a8e0-11eb-8184-7f2d7ae7fb1f.png">
-
-<img width="362" alt="harrassment_platform_5" src="https://user-images.githubusercontent.com/63107147/116579243-32999a00-a8e0-11eb-952e-a6fc31eb886e.png">
-
+## Stakeholders
+Office of Resolution Management, Diversity and Inclusion (ORDMI)
+VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support - Dr. Jennifer MacDonald (VA)
+Integrated Project Team (IPT) - lead by Chakakhon Lea (VA)
 
 
 
