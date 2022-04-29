@@ -14,7 +14,7 @@ body:
       - Reviewing recently written, never before published drafts
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: primary-users
     attributes:
       label: Who are the primary users of this documentation? (Check all that apply)
