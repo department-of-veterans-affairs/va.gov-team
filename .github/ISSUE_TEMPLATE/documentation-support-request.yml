@@ -5,7 +5,7 @@ labels: [documentation-support]
 body:
   - type: dropdown
     id: help-type
-    attributes: 
+    attributes:
       label: What do you need help with?
       description: What do you need help with?
       options: 
