@@ -23,7 +23,7 @@ body:
       - Designers and researchers
       - Product managers
       - Others
-  - type: textarea
+  - type: input
     id: number-of-docs
     attributes:
       label: Estimate the number of pages to be created, updated, or reviewed
