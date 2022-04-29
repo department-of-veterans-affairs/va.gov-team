@@ -5,10 +5,22 @@
 
 Improvements & Bug Fixes
 
+- Update app to use user V1 endpoint
+   - leveraging authorizedServices object for direct deposit policy
+   - Removed Gender/Fax field
+
+- Crashlytics logging added to try/catch blocks
+- TLC
+   - Updated in-content buttons = sentence case
+   - HIG buttons (action sheets, alerts) are title cased
+   - Material buttons (dialogs) are all caps
+   - Links are sentenced case 
 
 Bug Fixes
 
-
+- Claim refinements for accessibility alerts
+- Fixed landscape/rotation spacing issues for claim file request photo upload thumbnail 
+- Fixed Military info page with no military info (dark mode) ensuring "we Can't access your military info' message is displayed
 
 BackEnd Release
 
