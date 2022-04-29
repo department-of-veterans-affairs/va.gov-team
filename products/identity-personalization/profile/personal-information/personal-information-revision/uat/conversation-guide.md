@@ -61,9 +61,9 @@ If they are LOA3:
 - Is this information required? Why does this seem that way?
 
 
-	- [ ] **UAT TASK:** Confirm the Profile lands on the Personal information section is showing all information accurately
-		- [ ] **UAT TASK:** Confirm user's non-editable personal information being pulled in correctly from the database
-		- [ ] **UAT TASK:** If there is nothing in an editable field, confirm it is showing the correct text
+	- [ ] **UAT TASK:** Confirm the Profile lands on the Personal information section is showing all information accurately.
+		- [ ] **UAT TASK:** Confirm user's non-editable personal information being pulled in correctly from the database.
+		- [ ] **UAT TASK:** If there is nothing in an editable field, confirm it is showing the correct text.
 	- [ ] **Usability/Content/IA:** Does the user find anything confusing about the information shown?
 	- [ ] **Usability/Content/IA:** Does the user understand how to update this information?
 	- [ ] **Usability/Content/IA:** Does the user understand why this information is included?
@@ -144,9 +144,9 @@ If they are LOA3:
 	- [ ] **UAT TASK:** Confirm radio buttons function as expected.
 	- [ ] **Usability:** Do users understand how to open and close the FAQs?
 	- [ ] **Usability:** Do users understand the information in the FAQs?
-	- [ ] **Usability (helpful for experimental design system component and overall placement):** Note whether or not participants notice the FAQs before they are pointed out?
+	- [ ] **Usability (helpful for experimental design system component and overall placement):** Do participants notice the FAQs before they are pointed out?
 
-_Note: Usability questions/tasks here are helpful in moving the additional info component (when used as hint text) along in the experimental design system_
+_Note: Usability questions/tasks here are helpful in moving the additional info FAQ component (when used as hint text) along in the experimental design system_
 
 ## Post-Task Interview - 2-3 minutes
 
