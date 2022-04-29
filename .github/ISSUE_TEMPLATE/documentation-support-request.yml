@@ -36,8 +36,8 @@ body:
     id: plans-to-update
     attributes:
       label: Are there plans to update other documents/pages that have similar content?
-      description: Check Yes or No.
+      description:
       options: 
-        - label: Yes
-        - label: No
+        - label: "Yes"
+        - label: "No"
      
