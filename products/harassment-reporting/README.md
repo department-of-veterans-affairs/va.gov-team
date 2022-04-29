@@ -69,9 +69,8 @@ A timeline of key milestones
 ## Reference links
 - [Harassment Prevention and Recourse Brochure](https://www.va.gov/STOP-HARASSMENT/docs/HarassmentPreventionandRecourseBrochureFINAL11152021.pdf) | November 2021
 - [Original reporting project links and artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/online-reporting-tool/archive)
-- SEC. 5303. ANTI-HARASSMENT AND ANTI-SEXUAL ASSAULT POLICY OF DEPARTMENT OF VETERANS AFFAIRS.
-[5303 Breakdown.xlsx](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313832/5303.Breakdown.xlsx)
-- VA OIG Web Page and Link to Report Wrongdoing - https://www.va.gov/oig/
+- [Specified functions breakdown of SEC. 5303. ANTI-HARASSMENT AND ANTI-SEXUAL ASSAULT POLICY OF DEPARTMENT OF VETERANS AFFAIRS](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313832/5303.Breakdown.xlsx)
+- [VA OIG Web Page and Link to Report Wrongdoing](https://www.va.gov/oig/)
 
 ## Contacts
 Product Owners: Dave Conlon (OCTO-DE), Marth Wilkes (OCTO-DE)
