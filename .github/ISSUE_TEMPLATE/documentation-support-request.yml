@@ -27,10 +27,15 @@ body:
     attributes:
       label: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
   - type: checkboxes
-    id: primary-users
-    attributes:
-      label: Who are the primary users of this documentation?
-      description: Check all that apply.
+    id: embedded media
+      options:
+        - Screenshot(s)
+        - Diagram (s)
+        - Video (s)
+  - type: checkboxes
+    id: audience 
+      label: Who are the primary users of this documentation? (Check all that apply.)
+      description: Who are the primary users of this documentation?
       options: 
         - label: Developers
         - label: Designers and researchers
