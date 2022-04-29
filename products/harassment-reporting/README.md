@@ -62,11 +62,12 @@ A timeline of key milestones
 - [Research Readout- Harassment Reporting Landing Page & Poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) | April 21, 2022
 
 ## Design artifacts
-[Harassment reporting tool Sketch files](https://www.sketch.com/s/b3f90417-a2a0-41f5-8fb9-151ce163710a) | August 2021
+- [Harassment reporting tool Sketch files](https://www.sketch.com/s/b3f90417-a2a0-41f5-8fb9-151ce163710a) | August 2021
 
 ## Engineering artifacts
 
 ## Reference links
+- [Harassment Prevention and Recourse Brochure](https://www.va.gov/STOP-HARASSMENT/docs/HarassmentPreventionandRecourseBrochureFINAL11152021.pdf) | November 2021
 - [Original reporting project links and artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting/online-reporting-tool/archive)
 - SEC. 5303. ANTI-HARASSMENT AND ANTI-SEXUAL ASSAULT POLICY OF DEPARTMENT OF VETERANS AFFAIRS.
 [5303 Breakdown.xlsx](https://github.com/department-of-veterans-affairs/digital-experience-products/files/6313832/5303.Breakdown.xlsx)
