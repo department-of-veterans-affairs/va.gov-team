@@ -72,7 +72,7 @@ If they are LOA3:
 
 ## 2. Update information - Preferred name - 5 minutes
 
-Now let’s look at each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
+- Now let’s look at each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
 
 - _If not already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
 	- _If needed:_ Did you see the sentence in gray under the Preferred name title of the section? 
@@ -93,4 +93,69 @@ Now let’s look at each editable section, starting with Preferred name. I’ll 
 
 ## 3. Gender identity - 5 minutes
 
-Now let’s look at the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
+- Now let’s look at the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
+
+- What are your thoughts on the information shown here?
+	- How useful or not useful would you say it is to have this information included on your profile? 
+	- _If they say useful:_ Is this information important to you, or just nice to have?
+
+- Earlier we talked about why the VA might ask about this information. How would you find out more about this?
+	- _If needed:_ Did you see the sentence with the dotted line below it? Can you click on that?
+	- How does or doesn’t this information answer your questions or clarify this?
+
+- Is this something that you would update? 
+	- Could you tell me more about why you would (or would not) enter information here?
+
+- Ok, now I’ll have you go ahead and click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
+
+- Is there anything about this process that is confusing?
+
+
+	- [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
+	- [ ] **UAT TASK:** Confirm Gender identity edit state opens as expected.
+	- [ ] **UAT TASK:** Confirm radio buttons function as expected.
+	- [ ] **UAT TASK:** Confirm FAQ dropdown functions as expected.
+	- [ ] **UAT TASK:** Confirm selection can be made and saved.
+	- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
+	- [ ] **Usability:** How easy is it for participants to select and save their options? Observe if they struggle to understand how to update or are confused about if only one selection or multiple selections can be made.
+	- [ ] **Usability/Content:** How easy is it for participants to learn more about Gender identity? Observe if they struggle to 1) understand how to learn more/notice the FAQs, 2) to use the FAQ dropdown functions, or 3) if they are confused about the information included.
+
+## 4. FAQs - 3 minutes
+
+- Ok, there’s one more thing I’d like you to try out. On the top of the page just under Personal information, please take a look at those two phrases with the dotted lines underneath them. _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
+
+- Did you notice those before?
+
+- Please go ahead and click on the first one and read the content.
+
+- What did you expect to happen when you clicked that?
+
+- Is there anything unclear about the content? Ok, you can go ahead and close that and click on the second phrase.
+
+- Take a look at this information.
+
+- And the same for this one, is there anything unclear about this content? 
+
+- Ok, thank you. You can go ahead and close that as well.
+
+
+	- [ ] **UAT TASK:** Confirm both FAQs and information contained are displayed as they should be.
+	- [ ] **UAT TASK:** Confirm FAQs open and close as expected.
+	- [ ] **UAT TASK:** Confirm radio buttons function as expected.
+	- [ ] **Usability:** Do users understand how to open and close the FAQs?
+	- [ ] **Usability:** Do users understand the information in the FAQs?
+	- [ ] **Usability (helpful for experimental design system component and overall placement):** Note whether or not participants notice the FAQs before they are pointed out?
+
+_Note: Usability questions/tasks here are helpful in moving the additional info component (when used as hint text) along in the experimental design system_
+
+## Post-Task Interview - 2-3 minutes
+
+Thank you so much! That was everything on the page I wanted to try out with you today. This has been so helpful for our team. 
+
+Do you have any feedback on what we looked at in this session or questions for me?
+
+## Thank-You and Closing - 1 minute
+
+Great, again thank you so much! That concludes our session for today. We really appreciate you taking the time to test these updates. This helps us to make sure everything will work when we launch them for all Veterans on VA.gov. 
+
+Have a great rest of your day!
