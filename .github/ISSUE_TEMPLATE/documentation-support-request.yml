@@ -11,15 +11,16 @@ body:
       label: Request type
       description: What type of help do you need? (Check all that apply.)
       options: 
-        - value: Writing new documentation
-        - value: Updating previously published documentation
-        - value: Reviewing recently written, never-before-published drafts
+        - label: Writing new documentation
+        - label: Updating previously published documentation
+        - label: Reviewing recently written, never-before-published drafts
     validations:
       required: true
   - type: input
     id: number-of-docs
     attributes:
-      label: How many documents to be created, updated, or reviewed?
+      label: Number of docs
+      description: How many documents to be created, updated, or reviewed?
   - type: input
     id: point-of-contact
     attributes:
@@ -36,19 +37,19 @@ body:
       label: Embedded media
       decription: Do the documents contain embedded media? (Check all that apply.)
       options:
-        - value: Screenshot(s)
-        - value: Diagram (s)
-        - value: Video (s)
+        - label: Screenshot(s)
+        - label: Diagram (s)
+        - label: Video (s)
   - type: checkboxes
     id: audience 
     attributes:
-      label: Who are the primary users of this documentation? (Check all that apply.)
-      description: Who are the primary users of this documentation?
+      label: Audience
+      description: Who are the primary users of this documentation? (Check all that apply.)
       options: 
-        - value: Developers
-        - value: Designers and researchers
-        - value: Product managers
-        - value: Other
+        - label: Developers
+        - label: Designers and researchers
+        - label: Product managers
+        - label: Other
   - type: textarea
     id: anything-else
     attributes:
