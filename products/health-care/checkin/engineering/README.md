@@ -102,5 +102,4 @@ Check In Experience consists of five main containers (see components section for
 - Provides functionality related to grouping of clinics for VSE CS staff facing appliction
 - Ruby something something Fargate
 - Supports connection to VistA-api-service for Veteran and Staff facing applications
-
-[clinician workflow context and sequence diagrams](https://github.com/department-of-veterans-affairs/clinician_workflow/blob/master/docs/Check-In-Experience.md#check-in-experience-context-diagram)
+- [clinician workflow context and sequence diagrams](https://github.com/department-of-veterans-affairs/clinician_workflow/blob/master/docs/Check-In-Experience.md#check-in-experience-context-diagram)
