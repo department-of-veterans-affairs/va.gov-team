@@ -14,10 +14,14 @@ body:
         - Reviewing recently written, never-before-published drafts
     validations:
       required: true
-   - type: input
+  - type: input
     id: number-of-docs
     attributes:
-      label: How many docs to be created, updated, or reviewed?
+      label: How many documents to be created, updated, or reviewed?
+  - type: input
+    id: point-of-contact
+    attributes:
+      label: Who is the point of contact for this documentation?
   - type: checkboxes
     id: primary-users
     attributes:
