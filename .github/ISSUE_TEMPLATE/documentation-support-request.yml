@@ -32,7 +32,7 @@ body:
     id: point-of-contact
     attributes:
       label: Who is the point of contact for this documentation?
-  - type: checkboxes
+  - type: dropdown
     id: plans-to-update
     attributes:
       label: Are there plans to update other documents/pages that have similar content?
