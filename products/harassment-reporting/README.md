@@ -29,7 +29,7 @@ A 2020 Government Accountability Office report showed the VA’s workplace sexua
 
 The Office of Resolution Management, Diversity and Inclusion (ORDMI) is responsible for processing complaints from Veterans and employees for alleged civil rights violations, harassment, reasonable accommodations, and other inappropriate behaviors experienced while on a VA site.
 
-In response to Section 5303 of the Deborah Sampson Act (part of the Megabus Bill that was passed in January 2021) and new congressional demands for action, ORDMI has been charged with building a secure, online reporting tool on VA.gov that would enable reporting of alleged incidents which occur in a VA facility.
+Currently, Veterans report incidents by phone or in-person at VA facility. In response to Section 5303 of the Deborah Sampson Act (part of the Megabus Bill that was passed in January 2021) and new congressional demands for action, ORDMI has been charged with building a secure, online reporting tool on VA.gov that would enable reporting of alleged incidents which occur in a VA facility.
 
 VA.gov teams initially planned an online reporting tool but this work was halted due to challenges with the backend database process. The Integrated Project Team (IPT) was convened to evaluate the feasibility of using the existing system vs replacing the current system with a centralized case management system. Pending the outcome of those decisions, the team focused efforts on a static landing page and poster. 
 
@@ -61,6 +61,10 @@ A timeline of key milestones
 
 ## Product artifacts
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/product-outline.md)
+
+Historical 
+- [Product epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24883).
+- [Overview with additional context, references and artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/harassment-reporting) 
 
 ## Analytics
 - [Baseline analytics - traffic to existing harassment pges on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/harassment-reporting#traffic-to-existing-harassment-pages-on-vagov) (pre-static landing page release)
