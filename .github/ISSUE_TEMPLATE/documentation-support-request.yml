@@ -28,6 +28,7 @@ body:
       label: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
   - type: checkboxes
     id: embedded media
+    attributes:
       options:
         - Screenshot(s)
         - Diagram (s)
@@ -37,21 +38,8 @@ body:
       label: Who are the primary users of this documentation? (Check all that apply.)
       description: Who are the primary users of this documentation?
       options: 
-        - label: Developers
-        - label: Designers and researchers
-        - label: Product managers
-        - label: Others
-  - type: input
-    id: point-of-contact
-    attributes:
-      label: Who is the point of contact for this documentation?
-  - type: dropdown
-    id: plans-to-update
-    attributes:
-      label: Are there plans to update other documents/pages that have similar content?
-      description: Select Yes or No
-      options: 
-        - Yes
-        - No
-     validations
-       required: true
+        - Developers
+        - Designers and researchers
+        - Product managers
+        - Other
+  -
