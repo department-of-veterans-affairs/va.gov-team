@@ -37,7 +37,7 @@ body:
       label: Embedded media
       description: Do the documents contain embedded media? (Check all that apply.)
       options:
-        - label: Screenshot(s)
+        - label: Screenshot (s)
         - label: Diagram (s)
         - label: Video (s)
   - type: checkboxes
