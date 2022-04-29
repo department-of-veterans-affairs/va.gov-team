@@ -17,13 +17,10 @@ body:
   - type: dropdown
     id: primary-users
     attributes:
-      multiple: true
-      label: Who are the primary users of your documentation? Check all that apply:
-      description: Who are the primary users of your documentation? Check all that apply:
+      label: Who are the primary users of your documentation? (Check all that apply)
+      description: Who are the primary users of your documentation? (Check all that apply)
       options: 
       - Developers
       - Designers and researchers
       - Product managers
       - Others
-
----
