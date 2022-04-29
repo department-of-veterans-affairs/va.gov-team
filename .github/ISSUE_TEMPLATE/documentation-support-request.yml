@@ -22,6 +22,10 @@ body:
     id: point-of-contact
     attributes:
       label: Who is the point of contact for this documentation?
+  - type: input
+    id: approvals
+    attributes:
+      label: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
   - type: checkboxes
     id: primary-users
     attributes:
