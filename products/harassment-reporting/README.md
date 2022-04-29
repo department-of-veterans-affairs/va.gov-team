@@ -38,18 +38,18 @@ How might we improve the reporting experience easier for Veterans and employees?
 ## Timeline
 A timeline of key milestones 
 
-**June 2021**
-- Project kickoff for online reporting tool
+- **June 2021**
+    - Project kickoff for online reporting tool
 
-**August 26, 2021**
-- Pivot to fast path -> "landing page"
+- **August 26, 2021**
+    - Pivot to fast path -> "landing page"
 
-**March 2022**
-- Research: Harassment reporting static landing page and poster
+- **March 2022**
+    - Research: Harassment reporting static landing page and poster
 
-**April 2022**
-- [Research Readout- Harassment Reporting Landing Page & Poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) to leadership and VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support
-- Decision to consolidate disparate phone numbers into single myVA411 and release static landing page/poster on VA.gov once design has been updated with clean unified content
+- **April 2022**
+    - [Research Readout- Harassment Reporting Landing Page & Poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/static-landing-page/Research%20Readout%204_21_2022_VA-IPT%20--%20Harassment%20Reporting%20Landing%20Page%20%26%20Poster--final.pdf) to leadership and VA Sub-Council on Sexual Harassment and Assault Prevention/Survivor Care and Support
+    - Decision to consolidate disparate phone numbers into single myVA411 and release static landing page/poster on VA.gov once design has been updated with clean unified content
 
 
 ## Product artifacts
