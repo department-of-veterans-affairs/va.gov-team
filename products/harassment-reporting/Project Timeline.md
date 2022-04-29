@@ -1,5 +1,7 @@
 # Project Timeline - Harrassment Reporting Tool 
 
+**NOTE: This project was paused in favor of a reporting static landing page and poster and may resume once current fragile database process has been replaced/improved**
+
 ### Project goals:
 
 1. To create a secure, easy-to-use digital (Web & Mobile) tool for self-reporting of incidents (e.g., Sexual Assault, Harassment, RA, Veterans Civil Rights, EEO, other Incivility Events -- bullying, micro-aggressions) that occur at VA facilities.
