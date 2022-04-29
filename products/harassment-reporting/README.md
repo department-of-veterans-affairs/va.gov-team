@@ -91,10 +91,12 @@ Historical
 - Product Manager: Michelle Middaugh (Ad Hoc) 
 - Research: Cindy Merrill (Ad Hoc)
 
-### Other contributing team members
+### Other contributing team members (pre-April 2022)
 - PIF: Soni Meckem
-- Designer: Cassandra Allen (until April 2022) 
-- Product Manager: Brian Lloyd (until April 2022) 
+- OCTO-DE Product Owner: John Hashimoto
+- Product Manager: Brian Lloyd
+- UX Designer: Cassandra Allen
+- Front End Engineer: Kelson Adams
 
 ## Stakeholders
 - Office of Resolution Management, Diversity and Inclusion (ORDMI)
