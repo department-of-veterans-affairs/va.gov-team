@@ -27,9 +27,11 @@ Responsibilities include all of the following:
     - [DataDog Check-in (vets-api) dashboard](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1649964338537&to_ts=1650569138537&live=true) 
     - [DataDog VistA API dashboard](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-9c3625f59e736694169aa21c2d2a6fc5?theme=dark&from_ts=1651249606037&to_ts=1651253206037&live=true)
     - [DataDog Clinician Workflow dashboard](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-c7fc8748d8cd4bcd040dd99d83eca3be?theme=dark&tpl_var_env=prod&from_ts=1651249687467&to_ts=1651253287467&live=true)
-3. Actively monitoring and responding to product inquiries received to the 'Go Live' Microsoft Teams channel
-4. Actively monitoring and responding to product inquiries received to the [check-in-go-live](https://app.slack.com/client/T03FECE8V/C02UP02HHGX) and [check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) DSVA Slack channels
-    - APM Channel gives links to Data Dog and Sentry (see more link)
+3. Actively monitoring and responding to product inquiries received to the 'Go Live' Microsoft Teams channels
+4. Actively monitoring and responding to product inquiries received to these DSVA Slack channels
+    - [check-in-go-live](https://app.slack.com/client/T03FECE8V/C02UP02HHGX) 
+    - [check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) 
+        - APM Channel gives links to Data Dog and Sentry (see more link)
 5. Actively monitoring and managing the ServiceNow eCheck-in Vet Facing Applications group ticket queue as documented [here](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#servicenow-process). 
     - We should log Service Now tickets when issues comes through a Teams or Slack channel 
 6. Actively communincating with the Product Manager and Delivery Manager to priortize issues, bugs and potential hotfixes 
