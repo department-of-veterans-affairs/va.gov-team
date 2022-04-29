@@ -46,6 +46,6 @@ body:
         - Product managers
         - Other
   - type:textarea
-    id: Anything else?
+    id: anything-else
     attributes:
       label: Links? References? Anything that will give us more context? Tip: Attach images or files by clicking this area to highlight it and then dragging files in.
