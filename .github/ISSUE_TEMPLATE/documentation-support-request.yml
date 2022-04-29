@@ -9,11 +9,11 @@ body:
       label: What do you need help with?
       description: What do you need help with?
       options: 
-        - Creating new documentation
-        - Updating previously published documentation
-        - Reviewing recently written, never before published drafts
-   validations:
-     required: true
+      - Creating new documentation
+      - Updating previously published documentation
+      - Reviewing recently written, never before published drafts
+    validations:
+    required: true
   - type: dropdown
     id: primary-users
     attributes:
