@@ -23,7 +23,7 @@ Mural Board for notes - To be added
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Kavitha and I also have some colleagues on the line observing and taking notes. Today we're going to talk about using the burial benefits form and more specifically the review page
+Thanks for joining us today! My name is Kavitha and I also have some colleagues on the line observing and taking notes. Today we're going to talk about using the burial benefits form and more specifically the review page.
 Before we start, a few things I want to mention:
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -48,7 +48,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Walk through the form - 5 minutes
 
-We are going to be looking at the burial benefits for today. As I mentioned, this is a prototype so it might not work the way you expect it to.
+We are going to be looking at the burial benefits form today. As I mentioned, this is a prototype so it might not work the way you expect it to.
 
 *Please take a couple of minutes to look at this page - this is the information you would need to fill out if you were actually completing this process.* 
 
@@ -79,7 +79,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 - Are you able to easily accomplish your goal using this design? Why or why not?
 - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
 - How would you like to see the information displayed? (always visible or open as required)?
-- What do you think is more important for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
+- What do you think is more important for you to look and recoginize? Title (Name, DOB)or the value associated with it? 
     - What do you think about the emphasis on Value (Name, DOB etc)? 
 - Imagine, you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
@@ -92,7 +92,7 @@ We are going to be looking at the burial benefits for today. As I mentioned, thi
 *This is another variation to the page you just viewed. Please take a couple of minutes to look at this page.*
 
 - Please talk to me about how easy it is to review the information in this page (feedback about accordion design)? 
-- Thinking about the question I asked you in the previous design - What do you think is more importanat for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
+- Thinking about the question I asked you in the previous design - What do you think is more important for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
     - What do you think about the emphasis on the title (Name, DOB etc)?  
 - Imagine, you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
