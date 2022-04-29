@@ -1,29 +1,6 @@
 # Harassment Reporting README
 This page serves as a "front door" to documentation and resources pertaining to VA Harassment reporting
 
-# Table of Contents
-[Product context](#product-context)
-
-[Problems to solve](#problems-to-solve)
-
-[Timeline](#timeline)
-
-[Analytics](#analytics)
-
-[Product artifacts](#product-artifacts)
-
-[Research artifacts](#research-artifacts)
-
-[Design artifacts](#design-artifacts)
-
-[Engineering artifacts](#engineering-artifacts)
-
-[Reference links](#reference-links)
-
-[Contacts](#contacts)
-
-[Stakeholders](#stakeholders)
-
 ## Product context
 A 2020 Government Accountability Office report showed the VA’s workplace sexual harassment policies were inconsistent and incomplete, including a lack of centralized reporting mechanisms or resources for VA beneficiaries who report sexual harrassment or assault by VA employees or on VA property.
 
@@ -34,7 +11,6 @@ Currently, Veterans report incidents by phone or in-person at VA facility. In re
 VA.gov teams initially planned an online reporting tool but this work was halted due to challenges with the backend database process. The Integrated Project Team (IPT) was convened to evaluate the feasibility of using the existing system vs replacing the current system with a centralized case management system. Pending the outcome of those decisions, the team focused efforts on a static landing page and poster. 
 
 ## Problems to solve
-
 How might we improve the reporting experience easier for Veterans and employees?
 
 ## Timeline
