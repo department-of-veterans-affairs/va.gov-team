@@ -21,9 +21,9 @@ body:
       label: Who are the primary users of your documentation? Check all that apply:
       description: Who are the primary users of your documentation? Check all that apply:
       options: 
-        - Developers
-        - Designers and researchers
-        - Product managers
-        - Others
+      - Developers
+      - Designers and researchers
+      - Product managers
+      - Others
 
 ---
