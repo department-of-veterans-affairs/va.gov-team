@@ -2,12 +2,12 @@
 
 Manage test-users[^1] here for testing Profile - Personal information on Staging.  Each section below manages a different test-scenario or group of scenarios.
 
-## Blank state / Unsuccessful Add
+## Blank state
 
 Constraint(s):
 
 - Should ALWAYS stay blank-state
-- Do NOT Add Preferred name or Gender identity &mdash; use ONLY for checking content/styling and Unsuccessful-add.
+- Do NOT Add Preferred name or Gender identity &mdash; use ONLY for checking blank-state content/styling.
 
 | Staging test-user(s)[^2] | Reserved for | Current incumbent | Usage tracking/notes |
 | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ Constraint(s):
 
 Constraint(s):
 
-- Start in Blank-state
+- Starts in Blank-state
 - Can ONLY test ONCE &mdash; gets "burnt" after successful Add
 - Need to engage API team to "reset" to blank-state[^3] after each round of testing [or each Platform Staging Review]
 
