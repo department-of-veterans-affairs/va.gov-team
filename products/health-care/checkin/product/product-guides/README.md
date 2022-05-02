@@ -12,6 +12,6 @@ Last uploaded: May 2, 2022
 
 Last uploaded: May 2, 2022
 
-- [PDF] [PRE-CHECK-IN_PRODUCT_GUIDE.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605120/PRE-CHECK-IN_PRODUCT_GUIDE.Version.2.pdf)
+- [PDF] [PRE-CHECK-IN_PRODUCT_GUIDE.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605613/PRE-CHECK-IN_PRODUCT_GUIDE.Version.2.pdf)
 
-- [Word (.docx)] [PRE-CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605116/PRE-CHECK-IN_PRODUCT_GUIDE.Version.2.docx)
+- [Word (.docx)] [PRE-CHECK-IN_PRODUCT_GUIDE.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8605615/PRE-CHECK-IN_PRODUCT_GUIDE.Version.2.docx)
