@@ -6,20 +6,7 @@ A dedicated 'Go Live' Microsoft Teams channel will be available during the first
 
 ## Monitoring
 
-A dedicated Engineer and a backup will be assigned to monitor all API's and channels and be available to diagnose reported issues during the following hours of operation Monday through Friday. Each of the following Engineers will be provide support for a Sprint duration as follows:
-- CHIP Team - 8:00 AM ET - 2:00 PM ET
-    - Michael Kimball
-    - Chris Wilmsen
-    - James Mullen
-    - Mike Olasin
-    - Chance Crawford    - 
-    - Alex de los Reyes
-- CIE Team - 2:00 PM ET - 8:00 PM ET 
-    - Adrian Rollett
-    - Brian Seeks
-    - Gaurav Gupta
-    - Kanchana Suriyamoorthy
-    - Bethany Dunfield
+A dedicated Engineer and a backup will be assigned to monitor all API's and channels and be available to diagnose reported issues during their working day based on their timezone. 
 
 Responsibilities include all of the following:
 
