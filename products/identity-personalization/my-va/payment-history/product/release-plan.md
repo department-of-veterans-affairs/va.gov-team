@@ -54,7 +54,7 @@
 
 ### Planning:
 - **Desired date:** _4/20/22_
-- **Actual date:**
+- **Actual date:** 4/20/22
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
