@@ -47,7 +47,7 @@ We would like to get complete sorting responses from **at least 30 Veterans and 
 *ISSUE: See if VA will upgrade our Optimal Workshop license from the current "Starter" license, which allows a maximum of 40 responses. Ideally, I'd like to be able to have 40-60 responses.*
 
 ### Research materials
-- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Veteran-tasks-Feb17-EOD.xlsx)--Tasks are highlighted in yellow
+- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
 - [Link to moderated research findings]()--NOT READY YET
 - [Link to online card sort]()--NOT READY YET
 
