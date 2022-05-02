@@ -56,9 +56,9 @@ Remote research using Zoom
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md) 
 - [Link to Sketch Prototyoe](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
-- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
-- [Link to Title emphasis design varioation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
-- [Link to Value emphasis design varioation](Link)
+	- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
+	- [Link to Title emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
+	- [Link to Value emphasis design variation](Link)
 
 	
 ## Recruitment	
