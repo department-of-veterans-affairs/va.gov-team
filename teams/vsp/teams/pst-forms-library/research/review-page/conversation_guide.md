@@ -6,7 +6,7 @@
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md) <br>
 
-Mural Board for notes - To be added
+[Mural Board for notes](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1651499085152?sender=u55b541fec6ecc32644994331&key=d8049342-4c55-45e8-924e-cd6e1bc7f542)
 
 ## Moderator logistics
 
