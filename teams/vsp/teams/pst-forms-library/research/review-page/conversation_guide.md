@@ -74,6 +74,8 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
     - What do you like/dislike the most about this page? Why?
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
+**(Note to the moderator - design variations will be show in different order for different participants to reduce bias)**
+
 **Design Variation with Value Emphasis**
 
 *Imagine that you filled out all the required information and you arrived at this page. This is a variation of the page you just viewed. Please take a couple of minutes to look at this page.*
