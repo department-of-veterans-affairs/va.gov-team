@@ -1,4 +1,4 @@
-### The application registry contains all the apps as well as forms: https://github.com/department-of-veterans-affairs/content-build/blob/master/src/applications/registry.json
+### The application registry contains all the apps as well as forms: https://github.com/department-of-veterans-affairs/content-build/blob/main/src/applications/registry.json
 
 
 ### Below is a sub-set of just the on-line app forms: 

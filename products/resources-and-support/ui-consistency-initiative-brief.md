@@ -70,11 +70,11 @@
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - We will need to work with the CMS team to pull in description text for linked articles within the  'Related information' section 
   - There are currently 5-6 different templates being used. We need to migrate articles in an organized fashion. The templates that exist and that are in use today: 
-  - https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/checklist.drupal.liquid
-https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/q_a.drupal.liquid
-https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/step_by_step.drupal.liquid
-https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/faq_multiple_q_a.drupal.liquid
-https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/support_resources_detail_page.drupal.liquid
+  - https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/checklist.drupal.liquid
+https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/q_a.drupal.liquid
+https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/step_by_step.drupal.liquid
+https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/faq_multiple_q_a.drupal.liquid
+https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/support_resources_detail_page.drupal.liquid
 
 - The templates themselves will not need to change. The design elements can be applied to each of the R&S Articles. We should however test a few before we change all forms. 
   

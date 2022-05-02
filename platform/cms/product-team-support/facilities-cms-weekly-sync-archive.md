@@ -86,7 +86,7 @@ Engineering
     * err on the side of over-communication
     * collaborate across teams on content model documentation
     * collaborate across teams on testing within tugboat (eg Dependabot-based PR environments for changes to EFF module)
-      * may require some additional clarification of what branch of `content-build` master is in use by a tugboat environment
+      * may require some additional clarification of what branch of `content-build` main is in use by a tugboat environment
 * Validation of links in Drupal  
   * CMS issue to make CTA link and label fields dependent on each other https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5439 
 
