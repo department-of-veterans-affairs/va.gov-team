@@ -157,6 +157,7 @@ Whatever is not done from sprint 72, plus:
 - Continue/finish frontend, including handling of multiple alerts
 
 ## Sprint 74 (5/18 - 5/31)
+[Epic: #40777](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40777)
 
 ### My VA audit
 
@@ -168,6 +169,7 @@ Whatever is not done from sprint 72, plus:
   - Each section should have the following: loading state; blank state(s); content state(s); error state(s). Note: the nametag might be a little different, as there's never a totally blank state, and we don't show big error alerts for content we can't load.
 
 ## Sprint 75 (6/1 - 6/14)
+[Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 
 ### My VA: Cerner updates
 
@@ -175,25 +177,30 @@ Whatever is not done from sprint 72, plus:
 (653) Roseburg: Go-live -- 6/11/2022
 
 ## Sprint 76 (6/15 - 6/28)
+[Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
 ### My VA: Cerner updates
 
 (531) Boise: Go-live -- 6/25/2022
 
 ## Sprint 77 (6/29 - 7/12)
+[Epic: #40787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40787)
 
 ## Sprint 78 (7/13 - 7/26)
+[Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
 
 ### My VA: Cerner updates
 
 (463) Anchorage: Go-live -- 7/16/2022
 
 ## Sprint 79 (7/27 - 8/9)
+[Epic: #40789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40789)
 
 ### PTO
 
 - Samara: Aug 1 - 5
 
 ## Sprint 80 (8/10 - 8/23)
+[Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
 
 (663) Seattle: Go-live -- 8/27/2022
