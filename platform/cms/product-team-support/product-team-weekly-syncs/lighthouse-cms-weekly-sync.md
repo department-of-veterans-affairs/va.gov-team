@@ -13,6 +13,25 @@
 
 </details>
 
+## Monday, May 2, 2022
+* V1 Rollout
+  * Identifying paths forward with latency
+  * New need for a preview/snapshot view of all CMS services per Facility. 
+  * ATC comparison is needed on our end to facilitate a desire to use CMS as the source of truth 
+  * All facililties with all services @SWIRT needed sooner that later. Impacts release to V1. within 5 days
+* System name with facility push details
+  * going with plain language common name
+  * waiting for LH to be ready to receive
+  * Adam looked at Steve's example. System component node with items commented out. Good to go. Can be released when ready. Send all fields.
+* VC CAP new push endpoint
+  * CMS and LH ready to implement post v1 rollout
+* URL's for mobile sites and domiciliaries.
+  * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
+  * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
+  * AI - Work VHA Digital Media - How editors handle a "This is how to handle Domiciliary" "How to handle a Community Living Center" need to be added to KB
+  * Audit to understand which ones are published in the CMS and hand it to VHA DIgital Media to cleanse.
+* Health Connect Phone Number - Agreement on payload expectations. COmpleted in System name work
+
 ## Monday, April 25, 2022
 * V1 Rollout
   * Identifying paths forward with latency
