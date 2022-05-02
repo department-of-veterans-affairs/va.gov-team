@@ -23,7 +23,7 @@ As we move toward preparing for translation, we want to be as consistent as poss
 | **health care facility** | Use this phrasing consistently for health care facilities (don't interchange with "VA location" or other words). You can shorten to "the facility" or "your facility" after first mention, unless there's a risk of confusion between VA and non-VA (i.e. community care) facilities. |
 | **in-person or in person** | Use "in-person" (with hyphen) as a modifier and "in person" (no hyphen) in all other cases, including in a standalone label. Example: "You have an in-person appointment" vs. "You'll need to come to VA in person." |
 | **pre-check-in** | This is the step the person takes ahead of their appointment | VA content standards (not yet in style guide) |
-| **request vs. schedule** |  |
+| **request vs. schedule** | People can't direct schedule online, but rather can "request" an appointment. See below re: "requested" in the context of statuses. |
 | **sign in/sign out** | Use "sign in" and "sign out" consistently. Don't use "log in" at all.  |
 | **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | |
 
@@ -31,7 +31,8 @@ As we move toward preparing for translation, we want to be as consistent as poss
 **Note:** Terms may evolve with usability testing.
 
 ## Research findings
-Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
+
+- Mobile app research showed that 4/8 people found the "Pending" status label confusing. They wondered what it meant and if they needed to do something about an appointment that was "pending." Consider changing status options to: Requested, Confirmed, Canceled.
 
 ## Other notes
 
