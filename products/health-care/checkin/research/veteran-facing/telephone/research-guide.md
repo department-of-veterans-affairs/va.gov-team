@@ -78,11 +78,12 @@ The pre-check-in experience is an important part of moments that matter at diffe
 
 ### Research Goals	
 
-Understand current experience that Veterans have with telephone appointments
-Understand expectations of pre-check-in for Veterans with telephone appointments
-Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
-How to denote that the appointment will take place on the telephone
-How to set expectations with a Veteran that a provider may not join the appointment exactly at the stated appointment time
+- Understand current experience that Veterans have with telephone appointments
+- Understand expectations of pre-check-in for Veterans with telephone appointments
+- Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
+- How to denote that the appointment will take place on the telephone
+- How to set expectations with a Veteran that a provider may not join the appointment exactly at the stated appointment time
+
 ### Research Outcomes 
 
 We will apply findings and insights from this research to identify the optimal way for Veterans with telephone appointments to access and complete the pre-check-in experience in a seamless way that’s deemed valuable to Veterans. 
