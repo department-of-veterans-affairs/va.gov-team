@@ -3,6 +3,7 @@
 - Make sure dev team has turned on feature for user
 - Post in #feedback-backchannel
 - Mute Slack notifications
+- Check that participant is ok with observers on the call
 
 ## Intro - 2 minutes
 Thanks for joining us today! My name is Christina and I also have some colleagues on the line observing and taking notes. We're working on a new section of the Profile on the VA.gov website that helps Veterans update their personal information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
