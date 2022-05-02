@@ -34,7 +34,7 @@ As we move toward preparing for translation, we want to be as consistent as poss
 
 ## Research findings
 
-- Mobile app research showed that 4/8 people found the "Pending" status label confusing. They wondered what it meant and if they needed to do something about an appointment that was "pending." Consider changing status options to: Requested, Confirmed, Canceled.
+- Mobile app research showed that 4/8 people found the "Pending" status label confusing. They wondered what it meant and if they needed to do something about an appointment that was "pending." However, previous research showed that Veterans understood "Pending" > "requested." There are additional complications to this. Guidance is to stay with "Pending" for now.
 
 ## Other notes
 
