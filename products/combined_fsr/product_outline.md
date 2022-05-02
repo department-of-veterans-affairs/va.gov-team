@@ -1,33 +1,33 @@
 ```COMING SOON```
 
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+This project's objective is to allow Veterans to request financial help for their VA health care copays via VA.gov's Financial Status Report (VA Form 5655). 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+When a Veteran receives a health care copay bill and are unable to pay the full balance, they're able to request financial help with their charges. Veterans can currently access their health care copay bills on VA.gov, but they're unable to use the online Financial Status Report (VA Form 5655) to request help. Therefore, they're only able to submit a paper version of the FSR through the mail. 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+How might we incorporate health care copay bills into the online FSR so Veterans can receive financial help quicker? 
+
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans will be able to submit online FSRs for their copay bills 
 
 ## Undesired User Outcomes
 
+- Veterans will prefer submitting the paper FSR rather than the online form 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Employees at the Veterans Health Administration (VHA) who process FSRs will be able to do so more quickly 
+- Less copay charges will be referred to The U.S. Department of Treasury for collection since requesting help will be more accessible 
+- There will be a reduced number of calls to the VHA's contact center requesting financial help with copays 
 
 ## Undesired Business Outcomes
 
+- There will be more phone calls to the VHA's contact center requeseting financial help with copays
 
 ---
 ## Measuring Success
@@ -109,10 +109,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
+- Team Name: benefits-team-2
 - GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Slack channel: #benefits-team-2
+- Product POCs: Matthew Self
 - Stakeholders: 
 
 </details>
@@ -121,10 +121,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Matthew Self
+ - PM: Denise Coveyduc
+ - Engineering: Andrew Rodiek, Brandyn Sullins, Scott James
+ - Research/Design: Kevin Stachura, Riley Orr
  
 </details>
 
@@ -133,7 +133,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+- Veterans Health Administration (VHA)
+- Veterans Benefits Administration (VBA)
  
 </details>
 
