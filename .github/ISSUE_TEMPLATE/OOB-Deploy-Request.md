@@ -23,10 +23,10 @@ Fill out Details of need and the PRs related to OOB sections below.
 
 *Performed by Platform SRE team*
  - [ ] PagerDuty OOB Deploy Incident Opened
- - [ ] OCTO-DE staff Acknowledged Requests
- - [ ] Notification is posted in the appropiate Slack Channels.
+ - [ ] OCTO-DE staff acknowledgment of Request
+ - [ ] Notification is posted in the appropiate Slack support and team Channels
  - [ ] Infrastructure/Operations has acknowledge the Requests
  - [ ] Security Team has Reviewed the requests
- - [ ] An Incident Post Mortem is Created withing Two business days
+ - [ ] An Incident Post Mortem is created withing two business days
 
  CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support
