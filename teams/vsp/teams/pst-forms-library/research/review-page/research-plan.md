@@ -74,7 +74,7 @@ Please schedule a total of 12 Veterans for an expected completion rate of 6 stud
 
 
 **Secondary criteria (nice-to-haves)** <br>
-- At least 2 participants who identify as womenAge group <br>
+- At least 2 participants who identify as women<br>
 - Atleast 2 participants over the age of 55<br>
 
 ## Timeline
