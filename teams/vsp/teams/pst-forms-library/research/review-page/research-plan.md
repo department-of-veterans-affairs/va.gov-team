@@ -17,12 +17,12 @@ This research supports the following objectives
 ### Veteran Journey
 This research fits into these points of a Veteran's Journey where they might need to fill out a form:
 
-Starting up <br>
-Taking care of myself <br>
-Reinventing myself <br>
-Putting down roots <br>
-Aging<br>
-Dying
+-Starting up <br>
+-Taking care of myself <br>
+-Reinventing myself <br>
+-Putting down roots <br>
+-Aging<br>
+-Dying
 
 ## Research Goals	
 The Forms Library Team aims to understand:
