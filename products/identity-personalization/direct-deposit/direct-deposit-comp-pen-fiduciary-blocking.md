@@ -18,4 +18,10 @@ notDeceasedIndicator | True if deathDtInd is not ‘Y’ | deathDtInd | deathDtI
 
 ### Staging users
 
-- User 0 currently shows this alert.
+- I saw this alert for user 0 con 5/2/22.
+
+The following test users were used for the original implementation, but I can't promise they work anymore or still have these flags:
+
+- Incompetent, no fiduciary: User +61
+- Incompetent + fiduciary: User +65
+- Deceased: User +33
