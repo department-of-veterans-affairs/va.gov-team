@@ -82,10 +82,10 @@ Completion of 6 successful research session between May 9  - 18th
 
 ### Prepare
  
-May 3-5, 2022
+May 4-5, 2022
 
 * Pilot participant email: TBD
-* Date and time of pilot session: May 3, 2022 time (TBD)
+* Date and time of pilot session: May 4, 2022 time (TBD)
 * Any updates for the research plan, conversation guide, or prototype designs that come out of the May 3rd pilot session would be completed by EOD May 5th.
 
 ### Research sessions
