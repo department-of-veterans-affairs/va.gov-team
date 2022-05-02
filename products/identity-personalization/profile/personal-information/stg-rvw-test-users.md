@@ -25,7 +25,7 @@ Constraint(s):
 | --- | --- | --- | --- |
 | ??? | Design/Research | Christina Gednalske (@cgednalske) |  |
 | ??? | F/E | Adam Whitlock (@adamwhitlock1) |  |
-| 283-295 | PTEMS-QA | Tze Lei (@tlei123) | Need 1 for each device/browser QA'ed |
+| 285-296 | QA | Tze Lei (@tlei123) | Need 1 for each device/browser QA'ed |
 | ??? | Platform-Design | ??? |  |
 | ??? | Platform-Content | ??? |  |
 | ??? | Platform-IA | ??? |  |
