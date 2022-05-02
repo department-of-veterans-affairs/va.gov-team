@@ -1,6 +1,5 @@
 # Conversation Guide 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md) 
-- [Link to Sketch Prototyoe](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
+- [Link to UXPin Prototype](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
 	- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
 	- [Link to Title emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
 	- [Link to Value emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941821/simulate/no-panels?mode=i)
@@ -33,7 +32,7 @@ Before we start, a few things I want to mention:
 - **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.**
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- **Are you comfortable if I record the screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 - **If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 *Start recording.* 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
@@ -68,7 +67,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
     - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
     - How would you like to see the information displayed? (always visible or open as required)?
 
-- Imagine, you notice an error on this page and you want to fix the mistake
+- Imagine that you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What do you like/dislike the most about this page? Why?
@@ -83,9 +82,9 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 - Are you able to easily accomplish your goal using this design? Why or why not?
 - Please talk to me about how easy it is to review the information on this page? 
 - How would you like to see the information displayed? (always visible or open as required)?
-- What do you think is more important for you to look and recoginize? Title (Name, DOB)or the value associated with it? 
+- What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - What do you think about the emphasis on Value (Name, DOB etc)? 
-- Imagine, you notice an error on this page and you want to fix the mistake
+- Imagine that you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What do you like/dislike the most about this page? Why?
@@ -96,9 +95,9 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 *This is another variation to the page you just viewed. Please take a couple of minutes to look at this page.*
 
 - Please talk to me about how easy it is to review the information in this page? 
-- Thinking about the question I asked you in the previous design - What do you think is more important for you to look and recoginize? Title (Name, DOB)or the value assocaited with it? 
+- Thinking about the question I asked you in the previous design - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - What do you think about the emphasis on the title (Name, DOB etc)?  
-- Imagine, you notice an error on this page and you want to fix the mistake
+- Imagine that you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What do you like/dislike the most about this page? Why?
@@ -110,7 +109,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
     - How would you like to see the information displayed? (always visible or open as required)?
-- Imagine, you notice an error on this page and you want to fix the mistake
+- Imagine that you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - Comparing this to some of the other designs you saw today? which do you prefer? (See if participant talks about 'Edit' veresus 'Change')
@@ -119,13 +118,13 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 ## Post-Task Interview - 5 minutes
 
-- You saw 4 different design options today. Which do you prefer? why?
+- You saw 4 different design options today. Which do you prefer? Why?
 - Do you have any other thoughts or feedback?
 - Any questions for me? 
 
 ## Thank-You and Closing - 5 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
