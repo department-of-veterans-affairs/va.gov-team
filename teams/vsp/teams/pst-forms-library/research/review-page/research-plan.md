@@ -54,11 +54,11 @@ Remote research using Zoom
 
 ### Research materials (To be added)
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to Sketch Prototyoe] (url goes here)
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md) 
+- [Link to Sketch Prototyoe](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
+- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
+- [Link to Title emphasis design varioation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
+- [Link to Value emphasis design varioation](Link)
 
 	
 ## Recruitment	
