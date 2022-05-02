@@ -8,9 +8,9 @@ A content brief is a support document that guides designers and PMs in content c
 
 ## What’s in a content brief?
 
-It captures everything from the big-picture decisions about messaging and stakeholder requirements to the smaller details such as word choice and how to define terms that aren’t plain language. It summarizes how we want to talk to Veterans or dependents about a benefit or tool. It also documents the words or phrases we intentionally don’t want to use.
+It captures everything from the big-picture decisions about messaging and VA partner requirements to the smaller details such as word choice and how to define terms that aren’t plain language. It summarizes how we want to talk to Veterans or dependents about a benefit or tool. It also documents the words or phrases we intentionally don’t want to use.
 
-The guidance in a content brief is based on research findings, the VA.gov style guide, and stakeholder/business requirements for the product in question.
+The guidance in a content brief is based on research findings, the VA.gov style guide, and VA partner/business requirements for the product in question.
 
 ## Who creates the content brief and who uses it?
 
