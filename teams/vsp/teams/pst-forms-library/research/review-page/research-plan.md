@@ -5,6 +5,8 @@ Apr - May 2022
 ## Background
 The team reviewed all previous research associated with the current Review Page pattern. We learnt that multiple research studies had been conducted with developers and designers to better understand their experience building forms using the current Forms Library. However, there has been no research with Veterans regarding their experience using the current Review Page. As a result, it was decided that one project goal is to plan and execute research with Veterans on their experience working with the current Review Page and two proposed variations. Based on Veteran feedback, one Review page variation will be chosen to implement as part of the Q2 Working Demo. The team has chosen the Application for Burial Benefits form (21P-530) to research with Veterans.
 
+Here is the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/VA%20Forms%20System%20Core%20(VAFSC)%20Product%20Outline.md). 
+
 
 ### OCTO Objectives 
 
