@@ -18,7 +18,7 @@ Fill out Details of need and the PRs related to OOB sections below.
    > Add Details Here ... 
    
 ## Verify The following
- - [ ] The OOB Deploy Requests is after the 2pm EST Cutoff for Regular Deploy
+ - [ ] The OOB Deploy Requests is after the 2pm EST cutoff for regular deploy
  - [ ] The OOB Deploy Requests is critial and must be resolved before the next automated deploy.
 
 *Performed by Platform SRE team*
@@ -27,6 +27,6 @@ Fill out Details of need and the PRs related to OOB sections below.
  - [ ] Notification is posted in the appropiate Slack support and team Channels
  - [ ] Infrastructure/Operations has acknowledge the Requests
  - [ ] Security Team has Reviewed the requests
- - [ ] An Incident Post Mortem is created withing two business days
+ - [ ] An Incident Post Mortem is created within two business days
 
  CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support
