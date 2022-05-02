@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
----
-
 # Instructions
 Fill out Details of need and the PRs related to OOB sections below.
 
@@ -17,10 +15,12 @@ Fill out Details of need and the PRs related to OOB sections below.
    > PR?????
 # Description
 - Please provide the details/reason for the OOB Deploy
-   > Details
+   > Add Details Here ... 
+   
 ## Verify The following
  - [ ] The OOB Deploy Requests is after the 2pm EST Cutoff for Regular Deploy
  - [ ] The OOB Deploy Requests is critial and must be resolved before the next automated deploy.
+
 *Performed by Platform SRE team*
  - [ ] PagerDuty OOB Deploy Incident Opened
  - [ ] OCTO-DE staff Acknowledged Requests
