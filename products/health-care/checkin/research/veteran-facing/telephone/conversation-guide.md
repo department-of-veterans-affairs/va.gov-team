@@ -41,18 +41,18 @@ Before we start, a few things I want to mention:
 Now, I’m going to ask you to think about your last VA medical appointment where you spoke to the physician over the phone.
 - What was the type of appointment, such as primary care, cardiology, dermatology, etc.?
 - How did you schedule this appointment? 
-- Was it a follow-up from an earlier appointment?
+  - Was it a follow-up from an earlier appointment?
 - Did anyone (possibly a nurse) call you prior to the appointment to ask you questions?
-- What types of questions are you asked or what types of information do you review?
+  - What types of questions are you asked or what types of information do you review?
 - Did you receive any reminder messages about this appointment?
-- What type(s) of reminders?
+  - What type(s) of reminders?
 - Can you describe the day of the appointment? 
-- Who called who?
-- Was it on your personal mobile phone, landline, or work phone?
-- If it was on your mobile phone, do you recall if it was a general phone number or a private number?
-- What types of questions do the medical professionals (such as a doctor) ask at the start of your telephone appointments? For instance, do they review your list of medications?
+  - Who called who?
+  - Was it on your personal mobile phone, landline, or work phone?
+    - If it was on your mobile phone, do you recall if it was a general phone number or a private number?
+  - What types of questions do the medical professionals (such as a doctor) ask at the start of your telephone appointments? For instance, do they review your list of medications?
 - If you need to cancel or reschedule your telephone appointment, how do you normally do that?
-- Ideally, how would you like to cancel or reschedule?
+  - Ideally, how would you like to cancel or reschedule?
 - What do you like about medical appointments completed over the telephone?
 - What problems have you run into before, during or after a telephone appointment?
 - What could be improved? 
@@ -128,10 +128,9 @@ Imagine it’s the morning of your appointment, and you decide to click on the l
 
 ## Post-Task Interview - 9 minutes
 Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
- 
   - _If applicable_ As a caregiver, is there anything that we should be aware of?
 -  What are your thoughts on calling the experience you just completed “pre-check-in”? 
-- Does it match with your expectations? Why or why not? 
+  - Does it match with your expectations? Why or why not? 
 - If not, what term would you use instead? 
 - Can you describe why you would be interested or not interested in reviewing these items prior to your telephone appointment?
 - Are there any other items or information that you would like to review and update prior to your appointment?
