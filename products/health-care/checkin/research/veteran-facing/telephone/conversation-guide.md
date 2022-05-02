@@ -127,7 +127,7 @@ Imagine it’s the morning of your appointment, and you decide to click on the l
 - What would be the next thing that you do related to your appointment?
 
 ## Post-Task Interview - 9 minutes
-Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
+- Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
   - _If applicable_ As a caregiver, is there anything that we should be aware of?
 -  What are your thoughts on calling the experience you just completed “pre-check-in”? 
   - Does it match with your expectations? Why or why not? 
