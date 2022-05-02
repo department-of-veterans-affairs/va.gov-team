@@ -58,7 +58,7 @@ Remote research using Zoom
 - [Link to Sketch Prototyoe](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
 	- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
 	- [Link to Title emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
-	- [Link to Value emphasis design variation](Link)
+	- [Link to Value emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941821/simulate/no-panels?mode=i)
 
 	
 ## Recruitment	
