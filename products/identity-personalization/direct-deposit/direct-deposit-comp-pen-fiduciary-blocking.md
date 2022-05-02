@@ -10,7 +10,7 @@ For more on the original implementation of this blocking, please read the [docum
 
 ### Codes
 
-PPIU API   control information | PPIU conversion from BGS | BGS   EBenefitsAddressUpdateWebService | BGS definition
+PPIU API   control information | PPIU conversion from [BGS](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html) | [BGS](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html)   EBenefitsAddressUpdateWebService | [BGS](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html) definition
 -- | -- | -- | --
 isCompetentIndicator | True if incompetentInd is not ‘Y’ | incompetentInd | incompetentInd – whether the Veteran   is incompetent or not
 noFiduciaryAssignedIndicator | True if fiduciaryInd is not ‘Y’ | fiduciaryInd | fiduciaryInd – whether the record has   a Fiduciary or not
