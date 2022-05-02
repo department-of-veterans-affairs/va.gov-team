@@ -18,7 +18,7 @@ Fill out Details of need and the PRs related to OOB sections below.
    > Add Details Here ... 
    
 ## Verify The following
- - [ ] The OOB Deploy Requests is after the 2pm EST cutoff for regular deploy - (Deployment Policy)[https://vfs.atlassian.net/wiki/spaces/SUP/pages/1279787009/Deployment+Policies]
+ - [ ] The OOB Deploy Requests is after the 2pm EST cutoff for regular deploy - [Deployment Policy](https://vfs.atlassian.net/wiki/spaces/SUP/pages/1279787009/Deployment+Policies)
  - [ ] The OOB Deploy Requests is critial and must be resolved before the next automated deploy.
 
 *Performed by Platform SRE team*
