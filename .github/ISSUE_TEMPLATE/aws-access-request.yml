@@ -84,7 +84,17 @@ body:
     attributes:
       value: |
         ---
+        All done! 
         For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
         If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
-
-        CC: @department-of-veterans-affairs/vsp-operations , @department-of-veterans-affairs/operations-aws-approvers.
+        :x: Don't fill out anything below here :x:
+  - type: checkboxes
+    attributes:
+      label: User must exist in a roster before AWS access can be granted
+      description: Don't fill this part out, please
+      options:
+      - label: "Search for user on the VFS Team Roster: https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665"
+      - label: "Or search for user on the Platform Team Roster: https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster"
+      - label: "If user is on a VFS team but not in the VFS Team Roster, add the 'NOT YET' label and instruct them to start the Platform orientation process https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html"
+      - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
+      - label: "Comment in this issue saying which roster the user is listed in."

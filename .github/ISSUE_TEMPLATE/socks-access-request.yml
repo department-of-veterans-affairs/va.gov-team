@@ -6,10 +6,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        1. Change the **Title** to include your name
-        2. Add the label used by your team (eg: `BAH-526`)
-        3. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        4. When the issue is closed you will be notified and can continue with on-boarding setup
+        :wave: **_Instructions_**
+        1. Before being granted access, you will need to have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and either be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665) or the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)
+        2. Change the **Title** to include your name
+        3. Add the label used by your team (eg: `BAH-526`)
+        4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
+        5. When the issue is closed you will be notified and can continue with on-boarding setup
   - type: input
     id: requestor-name
     attributes:
@@ -29,9 +31,9 @@ body:
   - type: input
     id: role
     attributes:
-      label: Your Role
-      description: Please provide your role on your team
-      placeholder: e.g. Backend Engineer
+      label: Your Role and Team
+      description: Please provide your role and your team name
+      placeholder: e.g. Backend Engineer on VA Mobile
     validations:
       required: true
   - type: textarea
@@ -46,7 +48,16 @@ body:
     attributes:
       value: |
         ---
+        All done!
         For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D).
-        If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
-
-        CC: @department-of-veterans-affairs/vsp-operations
+        :x: Don't fill out anything below here :x:
+  - type: checkboxes
+    attributes:
+      label: User must exist in a roster before SOCKS access can be granted
+      description: Don't fill this part out, please
+      options:
+      - label: "Search for user on the VFS Team Roster: https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665"
+      - label: "Or search for user on the Platform Team Roster: https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster"
+      - label: "If user is on a VFS team but not in the VFS Team Roster, add the 'NOT YET' label and instruct them to start the Platform orientation process https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html"
+      - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
+      - label: "Comment in this issue saying which roster the user is listed in."
