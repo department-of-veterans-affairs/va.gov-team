@@ -1,5 +1,7 @@
 # Screen Reader Walk-through with Angela Fowler - Profile
 
+Angela's suggestions in **bold**.
+
 ## Personal Information
 - The expandable information in accordions (FAQs) makes sense.
 - Liz asked “how do you know that that is an accordion?” Because of the “button collapsed” read out by the screen reader.
@@ -10,12 +12,11 @@
 - Samara had a question about the name tag on the top of the page element - currently showing on every page with a Veteran's full name, branch of service, disability rating, etc. We don't want it to read out on pages where it's not helpful, but we also don't want people to miss this. How do we handle that?
 	- Angela’s response: Right now it’s hiding above the first heading, unless you're arrowing down the page (like a beginner screen reader user would) you wouldn’t catch this. Ironically, a beginner screen reader user probably would catch it by arrowing down. For example, Angela would skip and miss it.
 	- She would consider this as almost “basic information.” **Could be displayed right below the H1 under an H2 heading that says “basic information.” Or for less priority, it could be at the bottom of the page. In order to make it visible to the screen reader, it would need to be under a new H2 heading under the H1.**
-	- If we put it above H1, do we really need to display it on each page? Might not need to, as it could get redundant.
-	- **Maybe have that read out with Personal information only.**
+	- If we put it above H1, do we really need to display it on each page? Might not need to, as it could get redundant. **Maybe have that read out with Personal information only.**
 	- This is something to come back to.
  
 ## Military Information
-- H1 - Military information.
+- H1 - Military information, which is good.
 - Angela arrowed down because she didn’t yet know the page.
 - Uses an unordered list as well.
 - This is consistent behavior across Profile.
@@ -38,10 +39,10 @@
  
 ## Connected Apps
 - Puts focus on H1, which is convenient.
-- Rather than go through the whole thing, Angela just went to H1 and hit number 2 to see if they were H2s -- but there is nothing else on here. **Angela suggested having an H2 that says Connected Apps and the rest are H3.** So could easily skip down to Veteran programs and services.
+- Rather than go through the whole thing, Angela just went to H1 and hit number 2 to see if they were H2s -- but "there is nothing else on here." **Angela suggested having an H2 that says Connected Apps and the rest are H3.** So could easily skip down to Veteran programs and services. Structure seems to make sense but it could be helpful to have H2 connected apps and drop all the app names to H3.
 - [Though it’s weird right now] The buttons do need to be like this.
 - “If I don't have 20 page long app names, I've gone through a bunch of buttons that say disconnect and learn about, so the app names are more valuable than brevity.”
-- **Structure seems to make sense but it could be helpful to have H2 connected apps and drop all the app names to H3.**
+
  
 ## General
 - Anyway to get it to not say "My VAAAA"? — Not really, more trouble than what it's worth.
