@@ -2,15 +2,15 @@
  
 Angela's suggestions in **bold**.
 
-- Noted that My VA uses H1, which is good. 
+- Noted that My VA uses H1, which is ideal. 
 
 - Because it was a new page to her, Angela arrowed down the page.
 
-- Noted that Claims and appeals is H2, which is good.
+- Noted that Claims and appeals is H2, which is ideal.
 
-- Noted that everything is organized so things like Healthcare claims appeals are H2 and “what to do popular actions” are H3s, which is good.
+- Noted that everything is organized so things like Healthcare claims appeals are H2 and “what to do popular actions” are H3s, which is ideal.
 
-- **I would put an H3 above "Your total VA debt…" that says something like “Your Total Debt.”**
+- **I would put an H3 above "Your total VA debt…" (currently small paragraph text) that says something like “Your Total Debt.”**
 
 - **Explore VA benefits and health care should probably be H2.**
 
@@ -25,3 +25,5 @@ Angela's suggestions in **bold**.
   - Samara: For My VA, might make sense to read out MyVA then name tag information before the rest of the page.
 
   - Angela: **Overall the name tag needs to be consistently in the same place and marked the same way.**
+
+_(Note: see [Profile walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) for more information on feedback for the name tag)_
