@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, Apr 28, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, May 3, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
@@ -16,7 +16,7 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 10-12 tasks that are most important from an initial set of about 30 (or more) tasks.
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 40 tasks.
 
 ### Outcome
 The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
@@ -32,7 +32,7 @@ The top tasks that we identify could be used to inform the redesign of the VA.go
 2. Veterans and caregivers will generally agree on which tasks are the least important.
 
 ## Method: Unmoderated Card Sort	
-We want to to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
+We want to to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 40 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
 
 We would like to get complete sorting responses from **at least 30 Veterans and caregivers**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
