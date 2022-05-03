@@ -112,6 +112,10 @@ The following is needed for the MVP build:
 - September 2021: Design discovery complete
 - October 2021: Technical discovery and MVP definition
 - November 2021: Project pause and revisiting
+- December 2021: MVP use case determine -- adding a new debt to VA.gov
+- January - March 2022: Project largely on hold due to VANotify team switch
+- April 2022: VANotify starts on build; 
+- May 2022: Design updates to accomodate multiple notifications; Connecting frontend to backend
 
 ## Backend
 
