@@ -114,13 +114,13 @@ Developers are expected to:
 
       * Read the [basic end-to-end test setup](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing) document
 
-      * Add [axe checks](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to all of your end-to-end tests
+      * Add [axe checks](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to all of your end-to-end tests
 
       * Run tests on  localhost  to confirm proper functionality
 
    * Expected result:
 
-      * End-to-end tests should show 0 violations. axe checks that result in 1 or more violations will break branch builds and prevent merging into the  master  branch until they are resolved.
+      * End-to-end tests should show 0 violations. axe checks that result in 1 or more violations will break branch builds and prevent merging into the main  branch until they are resolved.
 
 What kind of help is available to get up to speed?
 --------------------------------------------------

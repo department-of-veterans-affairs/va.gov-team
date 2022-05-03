@@ -6,7 +6,7 @@
    - We have to be careful when adding/removing dependencies, because they're shared across teams
    - Some common set up code assumes older core dependencies (primarily Redux and React-Router)
    - Code organization and patterns are in some cases reflective of React best practices from four years ago, not necessarily today
-- The vets-website master branch is deployed to production every day, keep this in mind when deciding to merge your changes
+- The vets-website main branch is deployed to production every day, keep this in mind when deciding to merge your changes
    - For example, the production release is cut at 2pm ET. If you need to test something in staging, merging it at 1:45 pm ET will give you very little time to do that testing.
     
 ## Working on the VAOS FE team

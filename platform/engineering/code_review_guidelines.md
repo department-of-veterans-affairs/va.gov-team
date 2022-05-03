@@ -25,7 +25,7 @@ We expect developers to be familiar with GitHub and the pull request review proc
 3. A VSP engineer will review your code when it is marked "ready for review."  These will typically be completed in one business day.
   - This step is unnecessary for code-owners. (Information on how VSP uses code owners can be found [here](codeowners.md).)
   - For frontend PRs, the [additional automated checks](./manual-review-triggers.md) can trigger a review from the **patform-release-tools** regardless of the use of code-owners.
-4.  When all review comments have been resolved, the PR can be merged into the master branch for deployment.
+4.  When all review comments have been resolved, the PR can be merged into the main branch for deployment.
 
 *Hint*: Smaller, focused pull requests will make this easier for everyone!
 

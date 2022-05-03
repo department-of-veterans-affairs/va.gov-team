@@ -11,12 +11,12 @@ This VSA Process is currently a subset of the base-process defined by VSF and fo
    
     
    ## Pull Request Process
-*   **Pull master** and **push feature branch** to `vets-website` repository
+*   **Pull main** and **push feature branch** to `vets-website` repository
 
-    git pull origin master
+    git pull origin main
     git push origin 12345-issue-title
 
-_Always **pull master** into your feature branch before creating a pull request._
+_Always **pull main** into your feature branch before creating a pull request._
 
 *   **Create a pull request** indicating that your code is ready for review.
 *   **Request peer review** on Github by tagging a fellow team member who you feel is qualified to review the code (this prevents the pull request from just sitting). You may also want to tag developers on other teams if the changes cover more than one application.
@@ -86,7 +86,7 @@ _A Jenkins job will run periodically and remove review instances for which the s
 
 *   Get at least one **pull request approval** from a peer
 *   It is recommended not to merge at the end of the day or right before the weekend unless necessary.
-*   [Squash your commits](https://github.blog/2016-04-01-squash-your-commits/) and **merge** into **master**
+*   [Squash your commits](https://github.blog/2016-04-01-squash-your-commits/) and **merge** into **main**
 *   **Delete** pull request branch
 
 ## Post Pull Request Checklist

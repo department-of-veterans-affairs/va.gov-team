@@ -2,17 +2,18 @@
 
 <hr/>
 
-* [What is Github?](#what-is-github)
-* [Github web interface tour](#github-web-interface-tour)
-* [Basic Github workflow](#basic-github-workflow)
-* [Common activities](#common-activities)
-  * [Edit a file](#edit-a-file)
-  * [Create a file](#create-a-file)
-  * [Upload files](#upload-files)
-  * [Create a folder](#create-a-folder)
-  * [Delete a file](#delete-a-file)
-  * [Delete a folder](#delete-a-folder)
-  * [Create a pull request](#create-a-pull-request)
+- [Github Primer](#github-primer)
+  - [What is Github?](#what-is-github)
+  - [Github web interface tour](#github-web-interface-tour)
+  - [Basic Github workflow](#basic-github-workflow)
+  - [Common activities](#common-activities)
+    - [Edit a file](#edit-a-file)
+    - [Create a file](#create-a-file)
+    - [Upload files](#upload-files)
+    - [Create a folder](#create-a-folder)
+    - [Delete a file](#delete-a-file)
+    - [Delete a folder](#delete-a-folder)
+    - [Create a pull request](#create-a-pull-request)
 
 <hr/>
 
@@ -26,8 +27,8 @@
 [Visit this page](https://github.com/department-of-veterans-affairs/va.gov-team) to see the UI features below:
 
 * **Branch dropdown**
-  * The master branch is always the source of truth for your product folder.
-  * Make sure you're on the master branch. Switch if you're not.
+  * The main branch is always the source of truth for your product folder.
+  * Make sure you're on the main branch. Switch if you're not.
 * **Create new file button** - add a new file
 * **Upload files button** - upload files
 * **Folder files and sub-folders**
@@ -44,13 +45,13 @@
 
 1. You make a commit, which means adding, editing, or deleting one or more files.
 1. Github creates a new branch for you.
-1. You create a pull request (PR) asking to merge your new branch into the master branch.
+1. You create a pull request (PR) asking to merge your new branch into the main branch.
 1. Another team member reviews and approves your PR.
-1. Your commit is merged into the master branch and is visible to everyone.
+1. Your commit is merged into the main branch and is visible to everyone.
 
     * A **commit** is a set of changes from the previous version of the repository.
     * A **branch** is a way to isolate a set of commits you want to make to the repository.
-    * A **pull request** allows for review and approval of a branch before it is merged into the master branch of the repository.
+    * A **pull request** allows for review and approval of a branch before it is merged into the main branch of the repository.
 
 
 ## Common activities
@@ -118,7 +119,7 @@ If you have to create a pull request for each file you want to delete, this coul
 1. Note that Github has automatically created a new branch name for you, e.g., ```ehuntdsva-patch-3```.
 1. Add a title and (optional) comment to describe your change.
 1. Click **Propose file change**.
-1. Make sure you're comparing the master branch to your new branch. If it says you're comparing master to master or your branch to your branch, select the master branch from the 1st dropdown and the new branch Github created from the 2nd dropdown.
+1. Make sure you're comparing the main branch to your new branch. If it says you're comparing main to main or your branch to your branch, select the main branch from the 1st dropdown and the new branch Github created from the 2nd dropdown.
 1. If the changes look good, click **Create pull request**.
 1. Click **Create pull request** again.
 1. Assign someone to review your pull request. Choice of reviewer depends on what you're trying to do. If you're not sure, ask a teammate.
@@ -128,6 +129,6 @@ If you have to create a pull request for each file you want to delete, this coul
     * The pull request screen will ask if you want to delete the pull request branch. Do it - it's no longer needed.
 
 *Notes*:
-* DSVA team members, DSVA detailees, and Internal contractors have *the ability to save directly to the master branch.*
-* To avoid potential conflicts with other people editing the same file, we recommend you create a pull request instead of saving directly to master.
+* DSVA team members, DSVA detailees, and Internal contractors have *the ability to save directly to the main branch.*
+* To avoid potential conflicts with other people editing the same file, we recommend you create a pull request instead of saving directly to main.
 * When the pull request tells you there are no conflicts, you can merge it yourself without asking for a reviewer.

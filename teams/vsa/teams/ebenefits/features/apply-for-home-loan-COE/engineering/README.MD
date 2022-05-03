@@ -8,11 +8,11 @@ When a Veteran wants to get a VA-backed home loan the VA can provide them with a
 
 This document is meant to provide a general walkthrough of the application as well as details about the code.
 
-[Folder for the code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/lgy/coe)
+[Folder for the code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/lgy/coe)
 
 ## How the form works for the Veteran
 
-If the Veteran does have a COE or is eligible for an automatically approved COE then we want to tell them that up front. When the Veteran starts out they are meant to start out in an "Eligibility App" of sorts that will tell them if they already have a COE or if they are automatically approved for a COE. This app currenty resides at `/housing-assistance/home-loans/apply-for-coe-form-26-1880/eligibility`. In the code the eligibility app resides [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/containers/EligibilityApp.jsx). When the Veteran arrives at this page we make a call in Redux to attempt to see if the Veteran has a COE or is eligible for an automatic COE. That code is contained [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/actions/index.js). Once we get a response from the endpoint to determine if the Veteran has a COE or is eligible for an automatic COE there are a few different possible states -
+If the Veteran does have a COE or is eligible for an automatically approved COE then we want to tell them that up front. When the Veteran starts out they are meant to start out in an "Eligibility App" of sorts that will tell them if they already have a COE or if they are automatically approved for a COE. This app currenty resides at `/housing-assistance/home-loans/apply-for-coe-form-26-1880/eligibility`. In the code the eligibility app resides [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/lgy/coe/containers/EligibilityApp.jsx). When the Veteran arrives at this page we make a call in Redux to attempt to see if the Veteran has a COE or is eligible for an automatic COE. That code is contained [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/lgy/coe/actions/index.js). Once we get a response from the endpoint to determine if the Veteran has a COE or is eligible for an automatic COE there are a few different possible states -
 
 1. `The Veteran has a COE already (available)`
 2. `The Veteran is eligible for an automatic COE (eligible)`
@@ -28,10 +28,10 @@ Once the Veteran has seen their status in some of these instances they can then 
 
 ### The Eligibility App
 
-In the code inside the eligibility app we have a switch statement that reads the `coe.status` and then renders one of the components [here](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/lgy/coe/components) based on the status. Most of the code for rendering the eligibility app and its statuses is pretty straightforward with just a few callouts -
+In the code inside the eligibility app we have a switch statement that reads the `coe.status` and then renders one of the components [here](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/lgy/coe/components) based on the status. Most of the code for rendering the eligibility app and its statuses is pretty straightforward with just a few callouts -
 
 #### Pending
-If the Veteran has already filled out an application for a COE with the VA then they may need to upload documents and submit them to the VA. We provide an interface for doing this on the eligibility app when the API call returns a `pending-upload` status. The code for this document upload interface is inside the COE pending component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/components/CoePending.jsx) and is atually it's own component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/components/CoeDocumentUpload.jsx).
+If the Veteran has already filled out an application for a COE with the VA then they may need to upload documents and submit them to the VA. We provide an interface for doing this on the eligibility app when the API call returns a `pending-upload` status. The code for this document upload interface is inside the COE pending component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/lgy/coe/components/CoePending.jsx) and is atually it's own component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/lgy/coe/components/CoeDocumentUpload.jsx).
 
 
 ### The Form

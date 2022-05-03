@@ -40,13 +40,13 @@ A GitHub repository (GitHub repo) is a collection of files that are organized in
 **Master branches**  
 Master branches contain production-ready files that are ready for deployment or that have already been deployed.  The “Resources for Schools” webpage leverages two Master branches: vets-website and vagov-content.  
 
-1. **vets-website:** The vets-website master branch contains 2 files that allow you to manage announcements and events (conferences, trainings, and webinars).  
+1. **vets-website:** The vets-website main branch contains 2 files that allow you to manage announcements and events (conferences, trainings, and webinars).  
 
-    The editable files in the vets-website master branch are:  
+    The editable files in the vets-website main branch are:  
 
-     * **announcements.json:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/school-resources/constants/announcements.json  
+     * **announcements.json:** https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/static-pages/school-resources/constants/announcements.json  
   
-     * **events.json:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/school-resources/constants/events.json  
+     * **events.json:** https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/static-pages/school-resources/constants/events.json  
 
 2. **vagov-content:** The vagov-content master branch contains a file that allows you to manage all main content on the “Resources for Schools” webpage, besides announcements and events. The editable file in the vagov-content master branch is:  
 

@@ -12,5 +12,5 @@
     - Go beyond dead link checker
     - Automate regression tests of the VA site -- in case a conflict with unknown dependencies triggered defects on parts of the site unrelated to the release
 - Either
-    - Create a dedicated integrated test environment that does not pull from **master** so as to avoid the overhead associated with committing to **master**
-    - Reduce / automate some of the overhead associated with committing to **master** in order to enhance the accessibility / usability of **staging** for testers
+    - Create a dedicated integrated test environment that does not pull from **main** so as to avoid the overhead associated with committing to **main**
+    - Reduce / automate some of the overhead associated with committing to **main** in order to enhance the accessibility / usability of **staging** for testers

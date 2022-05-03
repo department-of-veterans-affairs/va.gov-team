@@ -31,32 +31,32 @@ Code goes through several steps to get to production. This document describes th
 
 | Application  | Branch | Changes in by | Deployment Start | Release History                                                         |
 | ------------ | ------ | ------------- | ---------------- | ----------------------------------------------------------------------- |
-| vets-website | master | 2:00pm ET M-F | 3:00pm ET M-F    | https://github.com/department-of-veterans-affairs/vets-website/releases |
-| vets-api     | master | 2:00pm ET M-F | 3:00pm ET M-F    | https://github.com/department-of-veterans-affairs/vets-api/releases     |
+| vets-website | main | 2:00pm ET M-F | 3:00pm ET M-F    | https://github.com/department-of-veterans-affairs/vets-website/releases |
+| vets-api     | main | 2:00pm ET M-F | 3:00pm ET M-F    | https://github.com/department-of-veterans-affairs/vets-api/releases     |
 
 ## Summary
 
 For feature and hotfix development (code changes and content changes), the process looks like:
 
-1. Dev/Content: Create feature branch from `master` branch
+1. Dev/Content: Create feature branch from `main` branch
 1. Dev/Content: Commit changes to feature branch
-1. Dev/Content: Feature branch merged to the `master` branch (via Pull Request)
-1. Automatic: Build run from `master` branch to create an artifact
+1. Dev/Content: Feature branch merged to the `main` branch (via Pull Request)
+1. Automatic: Build run from `main` branch to create an artifact
 1. Automatic: Deploy newly created artifact to dev and staging
-1. Automatic: Create a release in GitHub from master, tag artifacts of that commit sha with release name
+1. Automatic: Create a release in GitHub from main, tag artifacts of that commit sha with release name
 1. Automatic: Deploy to production using artifacts
 
 ## Process Details
 
 The first half of the steps of are:
 
-> 1\. Dev: Create feature branch from `master` branch
+> 1\. Dev: Create feature branch from `main` branch
 
 > 2\. Dev: Commit changes to feature branch
 
-> 3\. Dev: Feature branch merged to the `master` branch (via Pull Request)
+> 3\. Dev: Feature branch merged to the `main` branch (via Pull Request)
 
-> 4\. Automatic: Build run from `master` branch to create an artifact
+> 4\. Automatic: Build run from `main` branch to create an artifact
 
 > 5\. Automatic: Deploy newly created artifact to dev and staging
 
@@ -69,15 +69,15 @@ During the pull request phase (step 3), the following things happen:
 
 All Vets.gov GitHub repos are setup to do squash merges (via the GitHub PR interface), leaving behind a clean revision history that is feature based.
 
-A big assumption in this process is that the `master` should always be deployable. As such, the deployment to the staging environment is configured to happen automatically and can be used to see what something would look like in a production-like environment for any kind of manual testing/verification.
+A big assumption in this process is that the `main` should always be deployable. As such, the deployment to the staging environment is configured to happen automatically and can be used to see what something would look like in a production-like environment for any kind of manual testing/verification.
 
-Because `master` is designed to always be deployable, long running features that should _not_ be deployed should utilize feature toggles in the code that disable the feature for the actual production environment. Notifying the DevOps team on what feature toggles should be enabled/disabled in staging and production environment is an important part of this process. However, it's likely that breakages in staging will occur and that this is necessary to discover these prior to moving anything to the production steps.
+Because `main` is designed to always be deployable, long running features that should _not_ be deployed should utilize feature toggles in the code that disable the feature for the actual production environment. Notifying the DevOps team on what feature toggles should be enabled/disabled in staging and production environment is an important part of this process. However, it's likely that breakages in staging will occur and that this is necessary to discover these prior to moving anything to the production steps.
 
 Speaking of production steps, things kick off with the daily production push
 
-> 6\. Create a release in GitHub from master, tag artifacts of that commit sha with release name
+> 6\. Create a release in GitHub from main, tag artifacts of that commit sha with release name
 
-Every work day at the configured time a Jenkins automerge job sends a link to the [#vetsgov-engineers](https://dsva.slack.com/channels/vetsgov-engineers) Slack channel with a diff between the last release and the most recent changes in `master`. This commit reference is stored to ensure the diff and released version is deterministic.
+Every work day at the configured time a Jenkins automerge job sends a link to the [#vetsgov-engineers](https://dsva.slack.com/channels/vetsgov-engineers) Slack channel with a diff between the last release and the most recent changes in `main`. This commit reference is stored to ensure the diff and released version is deterministic.
 
 After a time has elapsed ( currently set to 60m ) release is created at the reference from above.
 
@@ -87,13 +87,13 @@ From here, Jenkins can kickoff a production deployment. After the deployment occ
 
 ## Other Notes
 
-- The code that appears in the `master` branch _actually_ gets deployed to both dev and staging environments. This is done to support different configurations for the DevOps team as they work to support any configuration changes (i.e. in dev first).
+- The code that appears in the `main` branch _actually_ gets deployed to both dev and staging environments. This is done to support different configurations for the DevOps team as they work to support any configuration changes (i.e. in dev first).
 
 ## Deployment Rollbacks
 
 If a production deployment introduces issues that affect Service Level Objectives (SLOs) established for the project, the DevOps team may restore service to users by rolling back the deployment. This is accomplished by triggering a new deploy job in Jenkins using a previous release tag.
 
-The use of hotfixes is discouraged, but may be useful in an emergency situation when `master` has significantly deviated from the release and a fix to the failed production release is critical. To create a hotfix, create a branch from the last stable release tag, make changes necessary (with review), create a new release tag following the correct naming scheme, and trigger a deploy in Jenkins with the release name as a parameter.
+The use of hotfixes is discouraged, but may be useful in an emergency situation when `main` has significantly deviated from the release and a fix to the failed production release is critical. To create a hotfix, create a branch from the last stable release tag, make changes necessary (with review), create a new release tag following the correct naming scheme, and trigger a deploy in Jenkins with the release name as a parameter.
 
 If SLOs are not affected and a fix is not critical, no rollback will be issued. Instead the fix should be applied through the standard development workflow.
 
@@ -115,7 +115,7 @@ Other popular flows such as [Git Flow](http://nvie.com/posts/a-successful-git-br
 While it's not ideal to create our own strategy, none of the strategies seemed to fit the bill with priority being on simplicity. Instead this one was written and does the following things to meet its goals:
 
 - Stays very close to GitHub Flow, the simplest of the industry standards and the easiest to learn/manage
-- Uses Git Flow's emphasis on `master` always being deployable, which eases deployment and rollback
+- Uses Git Flow's emphasis on `main` always being deployable, which eases deployment and rollback
 - Just seven repeatable steps for any kind of development (feature or hotfix)
 - Integrates our team's people work flow (i.e. interactions between development and DevOps teams)
 

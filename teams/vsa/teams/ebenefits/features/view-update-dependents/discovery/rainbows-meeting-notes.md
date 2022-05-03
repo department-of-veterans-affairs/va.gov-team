@@ -101,9 +101,9 @@ These discussions were with both Andrea Schneider and Matt Self individually on 
 - If you don't have a 526, you can't get to a 686 (you need a disability to associate your dependents to)
 
 ## So what is on staging as of today (10/21/2019)?
-- A version of the 686 exists in `vets-website` [here](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/686). 
+- A version of the 686 exists in `vets-website` [here](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/disability-benefits/686). 
 - The existing form is broken down into 4 chapters: veteran information, household information, current spouse information, and unmarried children. 
 - The existing form can be walked through and filled out without any issues, however, attempting to submit it throws a schema validation error even though all fields are marked as valid. 
 - There is some groundwork in the actions and reducers for checking if the user is at least thirty percent disabled. It should be noted, this form cannot be used if a user is less than thirty percent disabled. 
 - There is currently no connection between the frontend and `vets-api`, though it looks like work has been done to scaffold the backend [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/dependents_application.rb)
-- There is a url that points to `/dependents_application/disability_rating` intended to fetch the total combined rating for a user and verify it is over thirty percent found [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/686/helpers.jsx#L47)
+- There is a url that points to `/dependents_application/disability_rating` intended to fetch the total combined rating for a user and verify it is over thirty percent found [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/686/helpers.jsx#L47)

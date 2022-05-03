@@ -147,7 +147,7 @@ export default {
 };
 ```
 
-The form config contains the setting and will render the `AddIssue` component. We're only showing the basic structure in this example. For a complete example see the [`AddIssue` page for Form 10182](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/components/AddIssue.jsx)
+The form config contains the setting and will render the `AddIssue` component. We're only showing the basic structure in this example. For a complete example see the [`AddIssue` page for Form 10182](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/10182/components/AddIssue.jsx)
 
 ```jsx
 const AddIssue = ({

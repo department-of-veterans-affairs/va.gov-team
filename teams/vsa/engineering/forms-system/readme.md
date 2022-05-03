@@ -1,5 +1,5 @@
 # VAFS/RJSF Recipes
-The VA.gov Forms System (VAFS) [[doc](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms)][[src](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/forms-system)] is built upon the VA fork of react-json-schema-form (RJSF) [[src](https://github.com/department-of-veterans-affairs/react-jsonschema-form)][[npm](https://www.npmjs.com/package/@department-of-veterans-affairs/react-jsonschema-form)]. Here is VSA's set of internal guidelines and patterns for common yet more advanced forms you may need to create using VASF/RJSF.
+The VA.gov Forms System (VAFS) [[doc](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms)][[src](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system)] is built upon the VA fork of react-json-schema-form (RJSF) [[src](https://github.com/department-of-veterans-affairs/react-jsonschema-form)][[npm](https://www.npmjs.com/package/@department-of-veterans-affairs/react-jsonschema-form)]. Here is VSA's set of internal guidelines and patterns for common yet more advanced forms you may need to create using VASF/RJSF.
 
 ## Contents
 

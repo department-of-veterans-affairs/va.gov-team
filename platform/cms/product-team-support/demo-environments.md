@@ -30,8 +30,8 @@ As a user of a demo or sandbox environment, I want to refresh it with the latest
 
 ## User story 4
 
-As a member of a product team wanting to test content changes along with unmerged VACMS or vets-website code changes, I want an environment where i can work with CMS and vets-website branches other than master.
- * Scenario 1: VACMS master and vets-website feature branch
+As a member of a product team wanting to test content changes along with unmerged VACMS or vets-website code changes, I want an environment where i can work with CMS and vets-website branches other than main.
+ * Scenario 1: VACMS main and vets-website feature branch
  * Scenario 2: VACMS feature branch and vets-website feature branch
 
 

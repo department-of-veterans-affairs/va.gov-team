@@ -43,7 +43,7 @@ The Web Component library will live in its own repo and will be added to `vets-w
 
 #### Web Component development
 
-In the `component-library` repo, we will start a fresh orphan branch in a clean directory for the Web Component version of the library to live. When we reach a point where the React version of the library is no longer in use (since it has been replaced with Web Components), we will rebase the orphan Web Component branch off of `master` (in order to cleanly preserve the history) and that will become the new default branch going forward.
+In the `component-library` repo, we will start a fresh orphan branch in a clean directory for the Web Component version of the library to live. When we reach a point where the React version of the library is no longer in use (since it has been replaced with Web Components), we will rebase the orphan Web Component branch off of `main` (in order to cleanly preserve the history) and that will become the new default branch going forward.
 
 Until we reach that point, the WC branch will be developed in the `component-library` repo alongside the main branch containing the React components. The WC branch will not be published to npm, and the `vets-website` dependency will instead [use a Git url with a tag](https://classic.yarnpkg.com/en/docs/cli/add/).
 

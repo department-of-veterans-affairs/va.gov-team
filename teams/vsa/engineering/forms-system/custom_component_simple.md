@@ -5,7 +5,7 @@ Based on answers from *Christopher Valarida* from Slack discussions:
 - **A field can not trigger a change to another field** \
 *We can! There's an ***updateFormData** available. Put that sucker in the **uiSchema** on a field and changes to it will trigger the callback you pass it. I highly recommend thinking hard about whether you need it first, however. It's a known footgun; if you're not careful, you can make a lot of sneaky bugs for your future self.*
 
-[*src/applications/disability-benefits/all-claims/config/forms.js*](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/config/form.js)
+[*src/applications/disability-benefits/all-claims/config/forms.js*](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/all-claims/config/form.js)
 ```
 const formConfig = {
 . . .
@@ -23,7 +23,7 @@ const formConfig = {
           },
 ```
 
-[*src/applications/disability-benefits/all-claims/pages/addDisabilities.js*](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/pages/addDisabilities.js)
+[*src/applications/disability-benefits/all-claims/pages/addDisabilities.js*](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/all-claims/pages/addDisabilities.js)
 ```
 export const updateFormData = (oldData, newData) => {
     const oldArr = oldData.newDisabilities;
@@ -51,10 +51,10 @@ export const updateFormData = (oldData, newData) => {
 ```
 
 - **Cannot update form state with an onChange handler within a custom widget** \
-*I'm not sure I follow what you're trying to do here, but we typically have a lot of control within custom widgets. An example custom widget I wrote a while back can be found at [src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx). If I had to guess, I'd say the thing you might be running into is just not knowing what all can be done with the props passed into it.*
+*I'm not sure I follow what you're trying to do here, but we typically have a lot of control within custom widgets. An example custom widget I wrote a while back can be found at [src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx). If I had to guess, I'd say the thing you might be running into is just not knowing what all can be done with the props passed into it.*
 
 
-*[src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx)*:
+*[src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx)*:
 
 ```
 import get from 'platform/utilities/data/get';
@@ -87,7 +87,7 @@ export default class SelectArrayItemsWidget extends React.Component {
 . . .     
 ```
 
-In *[src/applications/disability-benefits/all-claims/pages/ratedDisabilities.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/pages/ratedDisabilities.js)* we pass in our custom *SelectArrayItemsWidget* React component into the forms schema (uiSchema):
+In *[src/applications/disability-benefits/all-claims/pages/ratedDisabilities.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/all-claims/pages/ratedDisabilities.js)* we pass in our custom *SelectArrayItemsWidget* React component into the forms schema (uiSchema):
 
 ```
 import fullSchema from 'vets-json-schema/dist/21-526EZ-ALLCLAIMS-schema.json';

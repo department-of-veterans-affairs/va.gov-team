@@ -5,7 +5,7 @@ Status: Blocked by outstanding questions
 ## Services
 ### Current services used
 - None, but UI types are defined here
-  - https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js
+  - https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/utils/constants.js
 - Current backend types defined in 
   - `/VeteranAppointmentRequestService/v4/rest/clinical-services/types-of-care`
   - `/VeteranAppointmentRequestService/v4/rest/community-care-services/type-of-cares`

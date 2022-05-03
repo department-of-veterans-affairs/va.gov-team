@@ -40,7 +40,7 @@ or its own repo, as we may move it later.
     command to copy the files over to avoid deleting Storybook
   - This will be the only directory which the Storybook deploy will copy files
     to
-- Deployment will happen at the end of a successful `master` branch build if
+- Deployment will happen at the end of a successful `main` branch build if
   there have been changes to the library
   - This means continual deployment, which is a deviation of the pattern we use
     for all other deploys

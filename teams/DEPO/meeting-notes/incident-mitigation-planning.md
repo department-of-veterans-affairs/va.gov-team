@@ -30,17 +30,17 @@ But the long term work won't bear fruit for another 6-12 months. So what can we 
 
 Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22603)
 
-- **Faster FE and BE build time:** will make firedrills less painful when they happen, because fixes will get through faster. It'll also make staging changes render faster once master merges, so teams can use the full window to QA their work prior to the prod deploy. ETA mid April 2021.
+- **Faster FE and BE build time:** will make firedrills less painful when they happen, because fixes will get through faster. It'll also make staging changes render faster once main merges, so teams can use the full window to QA their work prior to the prod deploy. ETA mid April 2021.
 
 - **Content & app isolation:** separating the content build from the vets-website build is the first part of our larger code isolation initiative. This will.... ? ETA mid May. This will prevent content changes from accidentally messing up vets-website, and vice versa and should help with some of the public websites issues we've been seeing.
 
-- **[Tiered QA pilot on Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Review%20Instance%20Use%20Cases.md):** will be a manual slowing down mechanism to more thoroughly check and get sign-off on work prior to merging to master for staging and prod. This should reduce the amount of times we have a firedrill because an issue is found post-deploy. 
+- **[Tiered QA pilot on Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Review%20Instance%20Use%20Cases.md):** will be a manual slowing down mechanism to more thoroughly check and get sign-off on work prior to merging to main for staging and prod. This should reduce the amount of times we have a firedrill because an issue is found post-deploy. 
 
 - **Extend the "_slow_ down so we don't get _shut_ down" message across OCTO-DE:** using the Public Websites process as a pilot, socialize the need for all VFS teams to take this approach. Getting Chris J to help spread awareness will help with buy-in. We know this is not ideal - if teams had a better testing option, and if they could deploy fixes on their own, we wouldn't need to slow down. But since we're not there yet, we need to rely on manual process in the interim.
 
 - **Updated documentation about review instances and staging** will help VFS teams better understand how they can leverage these options for testing purposes. Neither are ideal, but more clarity may help folks better use them, and thus do better QA -- thus reducing the volume of firedrills that come up because teams weren't ready for the daily deploy, or found an issue that needs fixing post-deploy. 
  
-- **GitHub issues for off-cycle deploy requests** will help capture details in one place better, and will act as a prompt for post mortems since we can't close the ticket until the post-mortem has been linked. Taking off cycle deploys more seriously in this way may encourage teams to check their work more thoroughly before merging to master, and thus may reduce the volume of firedrills that come up because of broken stuff post-deploy.
+- **GitHub issues for off-cycle deploy requests** will help capture details in one place better, and will act as a prompt for post mortems since we can't close the ticket until the post-mortem has been linked. Taking off cycle deploys more seriously in this way may encourage teams to check their work more thoroughly before merging to main, and thus may reduce the volume of firedrills that come up because of broken stuff post-deploy.
     - This also includes updating and publishing the criteria for off-cycle deploys
     - This also includes making the post-mortem template more clear and readily available
 
@@ -59,10 +59,10 @@ Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/iss
 - Do we want to go after a crowd-sourcing QA solution?
     - We could use an outside service since VA.gov is public, similar to Perigian
     - Maybe some AI methods as well
-- Deploy jobs to staging were backed up a ton, so you merged something into master and a couple hours later you look in staging and that merge has not appeared on staging yet. So you look at staging and everything looks cool good on staging, but you haven't actually seen your merge there yet.
-    - Staging here means we can have certain feature flags on that we don't want on on production. Staging = master, but not deployed once a day and with feature flags.
+- Deploy jobs to staging were backed up a ton, so you merged something into main and a couple hours later you look in staging and that merge has not appeared on staging yet. So you look at staging and everything looks cool good on staging, but you haven't actually seen your merge there yet.
+    - Staging here means we can have certain feature flags on that we don't want on on production. Staging = main, but not deployed once a day and with feature flags.
     - Staging deploy goes at 9 am, people expect to see their stuff on staging at 10 am and then be able to check it prior to the 2 pm production deploy
-    - They're both master branch
+    - They're both main branch
 - We do have automated testing abilities to catch the things that have been issues lately, but the tests don't exist. 
     - Well we do, but it's only a smoke test and we need to also have it as a build test
 
@@ -110,7 +110,7 @@ Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/iss
 - **Staging deploys**
     - Get staging deploys faster so people know what they're seeing in staging is what's going to go out the door in the 2 pm deploy
 - **If we bring build time down to 20 min, could we migrate to twice a day deploys?**
-    - One risk of this: the window to check master in staging prior to it getting merged is super short
+    - One risk of this: the window to check main in staging prior to it getting merged is super short
     - It's doable but super difficult and extra work to use feature flags for this same ^ job
 - **Fix feature flags / VA form system to make QA'ing using feature flags easier for QA/demo purposes**
 - **2 week feature freeze for both VFS teams and Platform teams**
@@ -131,12 +131,12 @@ Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/iss
     - if application change, is it using feature flags?
     - has change been reviewed in staging or review instance?
     - we don't close the issue until a Post Mortem has been linked
-- Tests failing in `master` block deployments
-    - Revert all PRs that cause tests to fail in `master` (slows VFS teams velocity, but keeps `master` in deployable state)
-    - Require feature branches to be current with `master` before merge (might be impractical given current CI speed)
+- Tests failing in `main` block deployments
+    - Revert all PRs that cause tests to fail in `main` (slows VFS teams velocity, but keeps `main` in deployable state)
+    - Require feature branches to be current with `main` before merge (might be impractical given current CI speed)
 
 #### Which of these are long term plans that aren't on a roadmap, but should be evaluated by OCTO-DE as a potential idea?
-- dev server so we can see things before they're merged to master
+- dev server so we can see things before they're merged to main
     - review instances / tugboat / or some other solution for previewing and demo'ing and QA'ing.
 - visual regression testing
 
@@ -144,9 +144,9 @@ Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/iss
 - we have 2 options for QA right now: review instances, and staging
     - each has limitations and trade offs
     - staging connects with BE services
-    - there's only one staging, and it's deployed from master branch, and it's CI as in as soon as something is merged into master and the build passes then it gets deployed automatically
+    - there's only one staging, and it's deployed from main branch, and it's CI as in as soon as something is merged into main and the build passes then it gets deployed automatically
     - today staging is so backed up that merged PRs don't reflect in staging with enough time to review them 
-    - there's no versioning, it's just the most recent successfully built master branch gets deployed. You can see in Jenkins 
+    - there's no versioning, it's just the most recent successfully built main branch gets deployed. You can see in Jenkins 
     - Teams should QA in a review instance when you can, and if you can't then use staging with feature toggles
 - Chris said he thought we had better rigour around this stuff
     - Other govt agencies have more rigour and are super slow and waterfall. Making us nervous that new people at VA come in, hear about these incidents, and they start to raise questions that hinder our ability to keep running this platform. If we need to slow down a little bit to add more precautions, then that may be a valuable trade off but we need to communicate that.

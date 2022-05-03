@@ -19,7 +19,7 @@ Here is a brief list of Veteran Services Platform (VSP) recommended engineering 
 ### Pull requests
 
 - Post/update code in a PR frequently (multiple times per week, no less than once a week), be it work-in-progress, or a PR ready for review.
-- Favor multiple, smaller, focused PR's over large PR's. The master branch of `vets-website` and `vets-api` is deployed [every weekday](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/site-structure/environments/).
+- Favor multiple, smaller, focused PR's over large PR's. The main branch of `vets-website` and `vets-api` is deployed [every weekday](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/site-structure/environments/).
 - Always use the GitHub pull request template:
   - include background that provides context and a summary of why the PR is necessary, and what you've done in the PR
   - if applicable, include resources, links, images, and/or POCs

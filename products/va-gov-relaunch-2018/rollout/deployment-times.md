@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | Content Fix | <5m | Change to vagov-content and merge to master |
 | Downtime Notification | ~5m | PagerDuty maintenance window update, with 5m cache period |
-| Frontend Application Rebuild / Deploy | ~45m | vets-website PR test, master test, build, release, deploy - injection script logic updates |
+| Frontend Application Rebuild / Deploy | ~45m | vets-website PR test, main test, build, release, deploy - injection script logic updates |
 | Frontend Application Revert | ~4m | vets-website deploy |
 | Backend Application Rebuild / Deploy | ~39m | vets-api PR test, master test, build, release, deploy |
 | Backend Application Revert | ~5m | vets-api deploy |

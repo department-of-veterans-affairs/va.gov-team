@@ -47,7 +47,7 @@ Vets.gov only recognizes level 1 and level 3. A user signing in through third pa
 #### MHV has 3 basic account levels:
 
 1. Basic: This user is essentially equivalent to LOA1 described above. Anyone can create an account at this level.
-2. Advanced: This user is the same as a basic account, but it has been correlated to a record in the master veteran index providing some higher degree of assurance that MHV recognizes. In addition, these users are VA Patients.
+2. Advanced: This user is the same as a basic account, but it has been correlated to a record in the main veteran index providing some higher degree of assurance that MHV recognizes. In addition, these users are VA Patients.
 3. Premium: This user is the same as Advanced, but the user has been identity proofed either in-person or by way of FICAM identity proofing.
 
 Vets.gov only recognizes account level of Premium as being equivalent to LOA3.

@@ -91,9 +91,9 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 ## Products
 | Name | GitHub | VA.gov URL | Description | 
 | :--- | :--- | :--- | :--- |
-| [Global Search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/global-search.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/search) | [Search](https://www.va.gov/search/) | This handles the global search for the VA.gov. It acts as the entry point for the VA search engine, which utilizes [Search.gov](https://www.search.gov), which allows veterans to search for anything they may need on the VA website. |
-| [Find VA Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/find-forms.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms) | [Find Forms](https://www.va.gov/find-forms/)| This allows veterans to search for, fill out, and download any forms available in the VA.gov database. | 
-| [Resources & Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/resources-support.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/resources-and-support) | [R&S](https://www.va.gov/resources/) | This lets veterans search for resources and support articles or search all of VA.gov. This page also displays commonly used and searched links to various resources. |
+| [Global Search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/global-search.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/search) | [Search](https://www.va.gov/search/) | This handles the global search for the VA.gov. It acts as the entry point for the VA search engine, which utilizes [Search.gov](https://www.search.gov), which allows veterans to search for anything they may need on the VA website. |
+| [Find VA Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/find-forms.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/find-forms) | [Find Forms](https://www.va.gov/find-forms/)| This allows veterans to search for, fill out, and download any forms available in the VA.gov database. | 
+| [Resources & Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/search-products/resources-support.md) | [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/resources-and-support) | [R&S](https://www.va.gov/resources/) | This lets veterans search for resources and support articles or search all of VA.gov. This page also displays commonly used and searched links to various resources. |
 
 <hr>
 
@@ -124,7 +124,7 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 2. Setup the Content Build
    1. Navigate to `content-build` in a terminal window.
    2. Fetch the origin: `git fetch origin`
-   3. Pull down master changes: `git pull master`
+   3. Pull down main changes: `git pull main`
    4. Install node modules: `yarn install`
    5. Build `content-build`, if needed.
       1. Copy environment file: `cp .env.example .env`
@@ -137,11 +137,11 @@ For Core Tunnel, you can use the [setup script](https://github.com/department-of
 3. Setup the Vets Website
    1. Navigate to `vets-website` in a terminal window.
    2. Fetch the origin: `git fetch origin`
-   3. Pull down master changes: `git pull master`
+   3. Pull down main changes: `git pull main`
    4. Install node modules: `yarn install`
    5. If you would like connect to the API without running the `vets-api` locally:
       1. Open `vets-website` in VS Code: `code .`
-      2. Open the [platform environment file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/utilities/environment/index.js) located at `src/platform/utilities/environment/index.js` 
+      2. Open the [platform environment file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/utilities/environment/index.js) located at `src/platform/utilities/environment/index.js` 
       3. On line 59, change `API_URL: environment.API_URL` to `API_URL: 'https://staging-api.va.gov'`
          - This connects the `vets-website` to the staging API.
    7. Run `vets-website`: `yarn watch`

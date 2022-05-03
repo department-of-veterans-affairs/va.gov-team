@@ -19,7 +19,7 @@ Design POC: Samara Strauss
  
 
 Action Items:
-James: As BAH begins development on Vettec, they plan to keep their stubbed-out front-end in a separate branch until they  reach the appropriate checkpoints, but have proposed merging their back-end schema and controllers into master, since it will be inaccessible via the front-end; this is what they did for the ancillary forms; does anyone see an issue with this?
+James: As BAH begins development on Vettec, they plan to keep their stubbed-out front-end in a separate branch until they  reach the appropriate checkpoints, but have proposed merging their back-end schema and controllers into main, since it will be inaccessible via the front-end; this is what they did for the ancillary forms; does anyone see an issue with this?
 Leah/Brian: Can you coordinate an intro discussion with the POCs listed above (Lihan, Rian, and Ryan) so that BAH can work  with them as needed as they get moving on Vettec?
 
 

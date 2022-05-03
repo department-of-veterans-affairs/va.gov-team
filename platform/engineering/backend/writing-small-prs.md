@@ -37,7 +37,7 @@ Similarly, when you have some refactoring you're attempting to do, you can often
 
 ## Always be looking for ways to break up work more
 
-The above guidance is all well and good, but you still may get into working on a ticket and have it unexpectedly explode in complexity. As painful as it can be, continually looking for ways to break down the changes into pieces that can be done later while you're writing code can be useful. Just because you've picked up a single ticket to work on doesn't mean it has to come through in a single PR. One way to make this easier is to create another branch off your feature branch and create a PR for that branch, using your original feature branch as the base, instead of master. This will let people review smaller chunks of your PR without you having to merge code into production, since you can just merge back into your feature branch.
+The above guidance is all well and good, but you still may get into working on a ticket and have it unexpectedly explode in complexity. As painful as it can be, continually looking for ways to break down the changes into pieces that can be done later while you're writing code can be useful. Just because you've picked up a single ticket to work on doesn't mean it has to come through in a single PR. One way to make this easier is to create another branch off your feature branch and create a PR for that branch, using your original feature branch as the base, instead of main. This will let people review smaller chunks of your PR without you having to merge code into production, since you can just merge back into your feature branch.
 
 ## Separate refactoring from feature changes
 

@@ -42,7 +42,7 @@ All pages and applications must have axe checks that run on every continuous int
 
 **Expected result:**
 
-1. End-to-end tests should show 0 violations. Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `master` branch until they are resolved.
+1. End-to-end tests should show 0 violations. Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `main` branch until they are resolved.
 
 
 
@@ -98,7 +98,7 @@ Keyboard navigation is largely a manual testing process. With that said, VSP is 
 
 **Expected result:**
 
-1. Keyboard end-to-end tests should show 0 violations. Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `master` branch until they are resolved.
+1. Keyboard end-to-end tests should show 0 violations. Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `main` branch until they are resolved.
 
 
 

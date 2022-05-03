@@ -13,4 +13,4 @@ There are two potential options to implement this functionality:
 2. Use the form system to some extent, but derive branching workflows based on application state.
 - This option is more complex, and requires more investigation in its own right, but is probably more flexible and scalable in the long run because it operates outside of the 
 constraints of the form system. 
-- A functional application that illustrates this idea can be viewed [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/newAppointmentFlow.js).
+- A functional application that illustrates this idea can be viewed [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/newAppointmentFlow.js).

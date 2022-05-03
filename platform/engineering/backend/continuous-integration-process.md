@@ -34,9 +34,9 @@ In Zenhub, find the highest-priority ticket from the Current Sprint column you c
 
 ## Create feature branch
 
-Each project's code base has a branch called `master` by default. Anything in `master` is deemed to be stable and deployable.
+Each project's code base has a branch called `main` by default. Anything in `main` is deemed to be stable and deployable.
 
-When work on a new issue or feature is started, the developer should start by creating a new feature branch based on `master`. Since most new work derives from a GitHub Issue, it's recommended to suffix your branch name with the issue. For example, if you're working on a feature to collect a veteran's address as detailed in Issue #25, you might call your issue `address-i25`.
+When work on a new issue or feature is started, the developer should start by creating a new feature branch based on `main`. Since most new work derives from a GitHub Issue, it's recommended to suffix your branch name with the issue. For example, if you're working on a feature to collect a veteran's address as detailed in Issue #25, you might call your issue `address-i25`.
 
 ## Code new functionality
 
@@ -67,7 +67,7 @@ Also before submitting the pull request, the developer has run the automated tes
 
 ## Submit pull request
 
-At this point all your code is committed to the feature branch. Additionally, you should sync your feature branch with changes from the `master` branch to incorporate work that has been done concurrently.
+At this point all your code is committed to the feature branch. Additionally, you should sync your feature branch with changes from the `main` branch to incorporate work that has been done concurrently.
 
 Once that is done, you can submit a pull request indicating that your code is ready for review.
 
@@ -125,10 +125,10 @@ Also see our team's [code review norms](https://github.com/department-of-veteran
 
 ## Merge code to stable code base
 
-After all feedback from testing and code review is responded to and the developer and reviewer are in agreement that the code is satisfactory (including re-running automated tests and needing them to pass), it's time to merge the code from its feature branch into the `master` branch.
+After all feedback from testing and code review is responded to and the developer and reviewer are in agreement that the code is satisfactory (including re-running automated tests and needing them to pass), it's time to merge the code from its feature branch into the `main` branch.
 
 ## Additional Steps for Third Party Contributions
 
 Being an Open Source project there is also a possibility that the above steps will be done by a third party. Because we limit the testing infrastructure to only executing tests on internal branches there are a few additional steps that must take place to incorporate these changes into our CI pipeline. 
 
-After all tests and peer review has been completed a member of the team will need to create a branch and manually merge in the proposed changes. They will then need to close the original PR and create a new PR from their branch. This will allow the testing infrastructure to trigger automated testing on the propsed work. Once that testing in complete a second internal team member will be required to approve the work and merge it into the `master` branch
+After all tests and peer review has been completed a member of the team will need to create a branch and manually merge in the proposed changes. They will then need to close the original PR and create a new PR from their branch. This will allow the testing infrastructure to trigger automated testing on the propsed work. Once that testing in complete a second internal team member will be required to approve the work and merge it into the `main` branch

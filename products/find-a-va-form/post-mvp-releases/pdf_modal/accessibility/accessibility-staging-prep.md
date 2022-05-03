@@ -76,7 +76,7 @@ All pages and applications **must** have axe checks that run on every continuous
 
 Stable code with no violations reported in end-to-end tests.
 
-Note: Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `master` branch until they are resolved.
+Note: Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `main` branch until they are resolved.
 
 
 #### Definition of done

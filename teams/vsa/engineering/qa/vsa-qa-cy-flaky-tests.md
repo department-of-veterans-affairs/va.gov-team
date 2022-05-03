@@ -136,6 +136,6 @@ article][bahmutov-intercepts-article] by Gleb Bahmutov, former VP of
 Engineering, Cypress.io.
 
 [vsp-flaky-tests]: [cth-readme]:
-https://github.com/department-of-veterans-affairs/vets-website/tree/master/script/cypress-testrail-helper
+https://github.com/department-of-veterans-affairs/vets-website/tree/main/script/cypress-testrail-helper
 [bahmutov-intercepts-article]:
 https://glebbahmutov.com/blog/cypress-intercept-problems/

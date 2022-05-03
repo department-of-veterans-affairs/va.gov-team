@@ -10,20 +10,20 @@ content and do some content validation (see [Content
 Validation](#content-validation) for details). This means that **two
 subsequent builds can fail for reasons not introduced in the code.**
 
-The biggest example of this is when the `master` branch build fails
+The biggest example of this is when the `main` branch build fails
 due to broken links, which will halt the deploy. **Broken links
 prevent unrelated features in React applications from being
 deployed.**
 
 **Example**
-1. Somebody merges a branch into `master`
+1. Somebody merges a branch into `main`
 1. A full Jenkins build is triggered, which then passes
 1. A broken link is introduced in the CMS
-1. Somebody else merges a branch into `master`
+1. Somebody else merges a branch into `main`
 1. A new full Jenkins build is triggered
 1. The Metalsmith script queries for the latest content with the
    broken link
-1. Because of this latest content, the `vets-website` `master` build
+1. Because of this latest content, the `vets-website` `main` build
    fails, but not because of any changes in `vets-website` code
 
 The goal of this RFC is to determine an approach for separating the
@@ -43,11 +43,11 @@ The current `vets-website` build script looks like this.
 This RFC will use the following terms. These terms may or may not be
 used outside of this RFC.
 - Full Jenkins build
-  - All branches are build using this pipeline (including `master`)
+  - All branches are build using this pipeline (including `main`)
   - This attempts to pull all CMS content, but will fall back to the
     cache if necessary
   - This builds JavaScript and CSS assets
-    - For the build of the `master` branch, these assets are saved in
+    - For the build of the `main` branch, these assets are saved in
       S3
   - Runs the full suite of unit, e2e, and accessibility tests
 - Content-only build
@@ -92,7 +92,7 @@ vagov-content repo.
 
 | Validation | Full build | Content-only build | Preview server |
 | ---------- | ---------- | ------------------ | -------------- |
-| Broken link checking | True; will fail the build on the `master` branch only | True; will fail the build | False |
+| Broken link checking | True; will fail the build on the `main` branch only | True; will fail the build | False |
 | Accessibility | True; will fail the build | True; will fail the build | False |
 
 The Metalsmith script performs the check for broken internal
@@ -101,7 +101,7 @@ build pipelines.
 
 When broken links are discovered during a full Jenkins build, we send
 a Slack notification with a link to the build. If Jenkins was building
-the production (`master`) branch, the build will also fail, to prevent
+the production (`main`) branch, the build will also fail, to prevent
 broken links in production.
 
 Accessibility tests run the aXe checker on all pages found in the

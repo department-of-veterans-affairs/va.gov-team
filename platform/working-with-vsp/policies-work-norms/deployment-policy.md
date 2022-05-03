@@ -11,13 +11,13 @@
 
 ## Deployment Strategy
 
-We intend to keep our repositories **always deployable from master branches**. The deployment schedule below describes when deployments typically happen, but deployments from master branches may occur at any time. VA.gov does not use release branches; instead, we maintain a focus on keeping the master branches healthy.
+We intend to keep our repositories **always deployable from main branches**. The deployment schedule below describes when deployments typically happen, but deployments from main branches may occur at any time. VA.gov does not use release branches; instead, we maintain a focus on keeping the main branches healthy.
 
 For finer control over when your checked-in feature is released, see [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/).
 
 # Automated Deploys
 
-There are automated deploys of `vets-api` and `vets-website` Monday through Friday. The release is created from `master` at 2 pm Eastern and deployed at 3 pm Eastern. Code merged to `master` after 2 pm Eastern will not be added to a release and deployed until the next business day.
+There are automated deploys of `vets-api` and `vets-website` Monday through Friday. The release is created from `main` at 2 pm Eastern and deployed at 3 pm Eastern. Code merged to `main` after 2 pm Eastern will not be added to a release and deployed until the next business day.
 
 ## Exceptions to automated deploys
 

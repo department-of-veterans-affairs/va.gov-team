@@ -132,7 +132,7 @@ export default {
 
 ### `ContactInfoDescription` component
 
-The `ContactInfoDescription` we set up is a bit complex in that it displays alerts for missing info and a success alert once everything has been updated, but we'll just cover the basics here ([full contact info component code](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/appeals/10182/components/ContactInformation.jsx)). We need to render the contact info and links to their edit page:
+The `ContactInfoDescription` we set up is a bit complex in that it displays alerts for missing info and a success alert once everything has been updated, but we'll just cover the basics here ([full contact info component code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/10182/components/ContactInformation.jsx)). We need to render the contact info and links to their edit page:
 
 ```jsx
 (

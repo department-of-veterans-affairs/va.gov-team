@@ -5,8 +5,8 @@ If your change is in Drupal, skip to the next section.
 ## Merge content change in vagov-content
 1. When you get a PR request in `vagov-content`, wait for the build checks to pass and for the PR to be mergeable
    - If there's an issue with the build check, you may need to restart it (click on the Jenkins link in the PR to open it)
-2. Merge the PR in `vagov-content` into master
-3. Wait for Jenkins to build the change in `vets-website`. You should see a running build here: http://jenkins.vetsgov-internal/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master
+2. Merge the PR in `vagov-content` into main
+3. Wait for Jenkins to build the change in `vets-website`. You should see a running build here: http://jenkins.vetsgov-internal/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=main
    - If this build fails, you may need to log into Jenkins and restart it
 4. Once the build succeeds, the change is on dev and staging, and ready for the next production deploy
 
@@ -24,7 +24,7 @@ If your change is in Drupal, skip to the next section.
 ## If you need to immediately deploy the change to production, including undeployed vets-website changes
 1. Validate that the changes since the last deploy are safe to deploy, and include any vets-website commits you need:
    - You can check the build history at http://jenkins.vetsgov-internal/job/deploys/job/vets-gov-autodeploy-vets-website/ to get the time of the last deploy (usually daily at 2pm EST)
-   - Look for commits after the last deploy: https://github.com/department-of-veterans-affairs/vets-website/commits/master
+   - Look for commits after the last deploy: https://github.com/department-of-veterans-affairs/vets-website/commits/main
    - You may need to contact the developers of those commits to verify for sure
 2. Start a deploy job
    - Go to http://jenkins.vetsgov-internal/job/deploys/job/vets-gov-autodeploy-vets-website/

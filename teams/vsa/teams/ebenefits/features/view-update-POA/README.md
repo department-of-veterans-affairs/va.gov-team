@@ -13,15 +13,29 @@
 ### Table of Contents
 
 # Executive Summary
-- [Abstract](#abstract)
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements and Constraints](#requirements-and-constraints)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
-- [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [View and Update Representative](#view-and-update-representative)
+    - [Table of Contents](#table-of-contents)
+- [Executive Summary](#executive-summary)
+- [Implementation Information](#implementation-information)
+- [Executive Summary](#executive-summary-1)
+  - [Abstract](#abstract)
+  - [User Problem Statement](#user-problem-statement)
+  - [Solution Goals](#solution-goals)
+    - [User Goals](#user-goals)
+    - [Business Goals](#business-goals)
+  - [Assumptions](#assumptions)
+  - [Requirements and Constraints](#requirements-and-constraints)
+  - [Solution Approach](#solution-approach)
+  - [Value Propositions](#value-propositions)
+    - [User Value](#user-value)
+    - [Business Value](#business-value)
+- [Implementation Info](#implementation-info)
+  - [Status](#status)
+  - [Solution Narrative](#solution-narrative)
+  - [Product Decisions](#product-decisions)
+  - [Team](#team)
+  - [Resources and Documentation](#resources-and-documentation)
+  - [NOTES](#notes)
 
 # Implementation Information
 - [Status](#status)
@@ -85,9 +99,9 @@ As a Veteran in need of legal representation, I need to be able to submit a 21-2
       - Managing our own application routing
       - Handling api requests in our own way.
   - Examples of SchemaForm used outside of the vets-website formbuilder:
-    - [VAOS](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/vaos)
-    - [Manage Dependents](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/view-dependents/manage-dependents/containers/ManageDependentsApp.jsx)
-    - [Coronavirus Vaccine](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/coronavirus-vaccination/components/Form.jsx)
+    - [VAOS](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos)
+    - [Manage Dependents](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/view-dependents/manage-dependents/containers/ManageDependentsApp.jsx)
+    - [Coronavirus Vaccine](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/coronavirus-vaccination/components/Form.jsx)
   - Highlevel diagram of schemaform usage and react routes:
     ![Search Rep architecture overview](https://user-images.githubusercontent.com/15097156/119543243-71dfcd00-bd5e-11eb-90c6-af62b158d85e.png)
 

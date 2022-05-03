@@ -38,7 +38,7 @@ This call can be a long call, so a `generating PDF` message will show to the use
 
 questionnaire response id
 
-On the front end, once the data is received, then a `download link` will be shown. Once a user clicks that link a new window will open in the browser with the PDF available to be seen or downloaded. Relevant [FE code sample](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/components/SubmitError/DownloadLink.jsxhttps://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/components/SubmitError/DownloadLink.jsx)
+On the front end, once the data is received, then a `download link` will be shown. Once a user clicks that link a new window will open in the browser with the PDF available to be seen or downloaded. Relevant [FE code sample](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/caregivers/components/SubmitError/DownloadLink.jsxhttps://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/caregivers/components/SubmitError/DownloadLink.jsx)
 
 ![flow](assets/mvp.png)
 

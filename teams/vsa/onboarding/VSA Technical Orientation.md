@@ -20,11 +20,12 @@ The purpose of this document is meant to serve as a technical outline for VSA de
   - [SharePoint Calendar: PTO](#sharepoint-calendar-pto)
   - [Outlook Calendar: Work Account](#outlook-calendar-work-account)
   - [GitHub Repositories](#github-repositories)
-  - [GitHub Links](#github-links)
+  - [Links](#links)
+  - [Confluence Links](#confluence-links)
   - [Development System](#development-system)
     - [Software List](#software-list)
     - [VS Code Extensions (optional)](#vs-code-extensions-optional)
-    - [Local Build Instructions](#local-build-instructions)
+      - [Local Build Instructions](#local-build-instructions)
   - [Internal Sites (SOCKS access)](#internal-sites-socks-access)
     - [Tips](#tips)
   - [Citrix Access Gateway (CAG)](#citrix-access-gateway-cag)
@@ -32,6 +33,12 @@ The purpose of this document is meant to serve as a technical outline for VSA de
   - [VA Service Desk](#va-service-desk)
   - [Platform Newsletter](#platform-newsletter)
   - [Onboarding FAQs](#onboarding-faqs)
+  - [After I install everything, where do I start?](#after-i-install-everything-where-do-i-start)
+  - [I want create a new new pull request, where do I start?](#i-want-create-a-new-new-pull-request-where-do-i-start)
+  - [Where do I go with my initial technical questions about the site?](#where-do-i-go-with-my-initial-technical-questions-about-the-site)
+  - [What does the development process look like from start to finish?](#what-does-the-development-process-look-like-from-start-to-finish)
+  - [Where can find mock data?](#where-can-find-mock-data)
+  - [Do we have a style guide?](#do-we-have-a-style-guide)
 
 ## What We Do
 
@@ -419,7 +426,7 @@ The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 85
   <summary>After I install everything, where do I start?</summary>
 
   ## After I install everything, where do I start?
-  If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well.
+  If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/main/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well.
 
   If you are a back-end developer, clone this [API](https://github.com/department-of-veterans-affairs/vets-api) and get things set up without docker. You might also want to try to get the [website](https://github.com/department-of-veterans-affairs/vets-website) set up as well.
 </details>

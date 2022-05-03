@@ -192,7 +192,7 @@ Once you have your tests written, you can submit a PR with your changes. In that
 
 ## Updating vets-website and vets-api
 
-Once you've merged your changes to master, you'll need to update the front-end and back-end repos to use the new schema. This doesn't need to happen immediately, but you'll have to do at some point.
+Once you've merged your changes to main, you'll need to update the front-end and back-end repos to use the new schema. This doesn't need to happen immediately, but you'll have to do at some point.
 
 ### vets-website
 
@@ -203,7 +203,7 @@ yarn remove vets-json-schema
 yarn add https://github.com/department-of-veterans-affairs/vets-json-schema.git\#<commit>
 ```
 
-You will need to replace `<commit>` with the Git hash for the commit where your changes were merged into master.
+You will need to replace `<commit>` with the Git hash for the commit where your changes were merged into main.
 
 ### vets-api
 

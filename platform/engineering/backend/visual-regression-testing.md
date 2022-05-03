@@ -8,10 +8,10 @@ It works by gathering the links for the site using the sitemap, then opening an 
 1. **Start the local website instance**
 2. **Generate your baseline/golden image set for desktop with the following command** 
     - `npm run test:visual:baseline`
-    - Note - These images should be generated before your changes, so you may want to switch to the master branch before running this command. This will create the directory `site-root/logs/visual-regression/baseline/desktop` with all of the website images.
+    - Note - These images should be generated before your changes, so you may want to switch to the main branch before running this command. This will create the directory `site-root/logs/visual-regression/baseline/desktop` with all of the website images.
 3. **Generate your baseline/golden image set for mobile with the following command** 
     - `npm run test:visual:baseline -- --mobile`
-    - Note - These images should be generated before your changes, so you may want to switch to the master branch before running this command. This will create the directory `site-root/logs/visual-regression/baseline/mobile` with all of the website images.
+    - Note - These images should be generated before your changes, so you may want to switch to the main branch before running this command. This will create the directory `site-root/logs/visual-regression/baseline/mobile` with all of the website images.
 3. **Make your changes**
 4. **Run the visual regression test for desktop**
     - `npm run test:visual`

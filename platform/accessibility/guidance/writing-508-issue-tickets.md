@@ -7,7 +7,7 @@ Accessibility issues may be particularly challenging to document. Communicating 
 1. Use the [508 Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=).
 1. **Labels:** Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
 1. If this issue is being opened by a VFS team, please add the `vsp-product-support` label.
-1. **Issue tickets should be tested when you have created a pull request.** This gives the reviewer time to test your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.<br/><br/>
+1. **Issue tickets should be tested when you have created a pull request.** This gives the reviewer time to test your code before it is merged into the `main` branch. Once code is merged into `main` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.<br/><br/>
 We recommend using [ZenHub](https://app.zenhub.com/login) for linking issue tickets with your pull requests.
     - Install the [ZenHub for GitHub extension](https://help.zenhub.com/support/solutions/articles/43000507578-installing-the-zenhub-extension-for-cloud) in Firefox or Chrome
     - Sign into ZenHub using your GitHub credentials

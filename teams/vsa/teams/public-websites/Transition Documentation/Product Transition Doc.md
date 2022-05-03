@@ -169,15 +169,15 @@ Brief plain-language description of this product’s history and next steps
 | Feature (Github link) | AKA | Status (Latest feature link) |
 | :--- | :--- | :---: |
 | [Legacy Header](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/includes/header.html) | Legacy Header | [In Production](https://www.va.gov) |
-| [Mobile Header](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/site-wide/header) | Header V2 | [In Production](https://www.va.gov) |
-| [Global Footer](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/site-wide/va-footer) | Va Footer | [In Production](https://www.va.gov) |
+| [Mobile Header](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/header) | Header V2 | [In Production](https://www.va.gov) |
+| [Global Footer](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/va-footer) | Va Footer | [In Production](https://www.va.gov) |
 | [Home Page](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/home.drupal.liquid) | -- | [In Production](https://www.va.gov) |
-| [Banners](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/site-wide/banners) | Maintenance Banner | N/A |
+| [Banners](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/banners) | Maintenance Banner | N/A |
 | [Benefit Hub](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/landing_page.drupal.liquid) | -- | [In Production](https://www.va.gov/health-care/) |
 | [Campaign Landing Page](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/layouts/campaign_landing_page.drupal.liquid) | -- | [In Production](https://www.va.gov/vote/) |
-| [Cerner Support](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/utilities/cerner) | -- | N/A |
-| [Disability Rating Calulator](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/disability-rating-calculator) | Disability Rating Calculator | In Production |
-| [Outreach & Events](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/static-pages/events) | Events V2 | [In Production](https://www.va.gov/outreach-and-events/events/) |
+| [Cerner Support](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/utilities/cerner) | -- | N/A |
+| [Disability Rating Calulator](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/disability-benefits/disability-rating-calculator) | Disability Rating Calculator | In Production |
+| [Outreach & Events](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/events) | Events V2 | [In Production](https://www.va.gov/outreach-and-events/events/) |
 
 <br>
 

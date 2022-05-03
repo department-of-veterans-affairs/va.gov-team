@@ -33,8 +33,8 @@
 
 #### e2e
 
-- [list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/health-care-questionnaire/list/tests/e2e/00.home.cypress.spec.js#L12)
-- [form](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/health-care-questionnaire/questionnaire/tests/e2e/03.questionnaire.landing.page.accessibility.cypress.spec.js#L27)
+- [list](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/health-care-questionnaire/list/tests/e2e/00.home.cypress.spec.js#L12)
+- [form](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/health-care-questionnaire/questionnaire/tests/e2e/03.questionnaire.landing.page.accessibility.cypress.spec.js#L27)
 - No known issues
 
 
