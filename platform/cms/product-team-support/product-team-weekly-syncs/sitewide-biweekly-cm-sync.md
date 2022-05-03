@@ -13,7 +13,9 @@
  
  ## May 3, 2022
 
-###Agenda
-
-
-
+### Agenda
+- Housekeeping: agenda in Git, meeting notes in Google calendar invite
+- CM playbook status
+- Care we provide launch today
+- Top task launch May 5
+- Roundtable (new epics or issues with CM needs)
