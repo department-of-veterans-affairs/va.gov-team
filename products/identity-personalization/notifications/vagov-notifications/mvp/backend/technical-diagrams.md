@@ -4,9 +4,7 @@ The notifications endpoint (`/v0/onsite_notifications`) takes the following para
 - `va_profile_id`
 - `template_id`
 
-The following template ids are used for to send alerts:
-- Staging    `f9947b27-df3b-4b09-875c-7f76594d766d`
-- Production `7efc2b8b-e59a-4571-a2ff-0fd70253e973`
+The following template ids are stored in `[env].settings.yml`.
 
 
 ### Solution 1
