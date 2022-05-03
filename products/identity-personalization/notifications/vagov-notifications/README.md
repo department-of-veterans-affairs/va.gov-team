@@ -9,12 +9,14 @@ Last updated May 3, 2022
 
 ### Roles
 
-[Please see the My VA product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
-
-Additionally, we work with the VANotify team to support on-site notifications.
-
 |Name|Role|Email|
 |----|----|-----|
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
+|Erica Sauve | Associate Product Manager | erica.sauve@adhocteam.us|
+|Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Angela Agosto | Designer| angela.agosto@adhocteam.us|
+|Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
 |Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
 |Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 
