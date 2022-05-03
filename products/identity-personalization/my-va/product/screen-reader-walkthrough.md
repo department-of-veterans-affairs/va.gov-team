@@ -1,6 +1,6 @@
-## Screen Reader Walk-through with Angela Fowler - My VA
+## Screen reader walk-through with Angela Fowler - My VA
  
-Angela's suggestions in **bold**.
+Notes from the My VA portion of a screen reader walk-through with Angela. Angela's suggestions in **bold**.
 
 - Noted that My VA uses H1, which is ideal. 
 
