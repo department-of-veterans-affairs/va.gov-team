@@ -24,8 +24,12 @@ assignees: RLHecht
 ## Will this new product be released incrementally (for instance 25% of users initially)? 
   - [ ] Yes
   - [ ] No
+ 
+**Note:** If you checked yes, we'll reach out to discuss details about the content in the react widget.
   
 ## When do you expect to launch your product to 100% of users?
+  
+*Please provide an estimated date so our team can create other relevant tickets.*
   
 ## Supporting artifacts
 *Please provide supporting artifacts as available.*
