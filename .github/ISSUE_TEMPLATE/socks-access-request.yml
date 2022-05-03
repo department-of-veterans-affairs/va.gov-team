@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         :wave: **_Instructions_**
-        1. Before being granted access, you will need to have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and either be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665) or the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)
+        1. Before being granted access, you will need to either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
         2. Change the **Title** to include your name
         3. Add the label used by your team (eg: `BAH-526`)
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
@@ -38,13 +38,13 @@ body:
       required: true
   - type: input
     attributes:
-      label: Your Product Manager (PM)
+      label: Product Manager (PM) name and email
       description: Provide the name and email of your Product Manager
     validations:
       required: true
   - type: input
     attributes:
-      label: Your Product Owner (PO)
+      label: Product Owner (PO) name and email
       description: Provide the name and email of your Product Owner
     validations:
       required: true
@@ -60,7 +60,7 @@ body:
     attributes:
       value: |
         ---
-        All done!
+        :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
         For AWS access, open an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D).
         :x: Don't fill out anything below here :x:
   - type: checkboxes
