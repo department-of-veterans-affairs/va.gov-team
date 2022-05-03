@@ -15,7 +15,7 @@ We'll ask you these questions during kickoff:
 - Will you be conducting usability testing of the working page?
   - **Note:** Pages created in Drupal don't appear on staging until after they're published to the live site. 
 - Will you need a REACT sign-in widget? 
-  - **Note:** Product teams are responsible for creating the REACT sign-widget. The product team provides the sitewide content team with the code to add into Drupal.   
+  - **Note:** A Drupal page requires a REACT widget when the product is not launching to 100% of users. Product teams are responsible for creating the REACT sign-widget. The product team provides the sitewide content team with the code to add into Drupal.
 - Do you anticipate a need for password-protecting the landing page for UAT testing and/or a phased rollout of the landing page with dynamic content behind a feature toggle?
   - **Note:** Product teams are responsible for creating and monitoring feature toggles. <br> [Read more about the process for dynamic content on Drupal pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md)
 
