@@ -1,6 +1,4 @@
-```COMING SOON```
 
----
 
 ## Overview
 This project's objective is to allow Veterans to request financial help for their VA health care copays via VA.gov's Financial Status Report (VA Form 5655). 
