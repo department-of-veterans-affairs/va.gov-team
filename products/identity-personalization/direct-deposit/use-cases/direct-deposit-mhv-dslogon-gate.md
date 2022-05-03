@@ -7,7 +7,7 @@ Currently, we do not allow people who have logged in with MHV and DS Logon to ac
 See [Github issue #28794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28794) for background information on this use case.
 
 
-## Design
+## UX
 - Uses the [sign in or tool prompt alert component](https://design.va.gov/components/alert#sign-in-or-tool-prompt) from the VA design system
 - Review the [mock-up available in Sketch](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/dlQWx99) for a visual.
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
