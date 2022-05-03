@@ -2,12 +2,11 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-[Link to product brief](url goes here).
+The Lovell Federal Facility services both VA beneficiaries as well as DoD/TRICARE beneficiaries.
+However, the unauthenticated top tasks for these beneficiaries are accomplished in separate locations, making the experience confusing. Additionally, there is content that is specific to each type of location that needs to be separated for clarity and conciseness.
+Veterans are already familiar with the modernized location design, however, the split between the VA beneficiaries locations and content, and the DoD/TRICARE beneficiaries locations and content will be a new experience for them.
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell-initiative-brief.md).
+[Link to UX research and design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md#vsa-lovell-federal-health-ux-research-and-design-hub).
 
 ### OCTO Objectives 
 
