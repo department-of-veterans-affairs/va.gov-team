@@ -85,9 +85,14 @@ We receive on-site notification from [VANotify](https://depo-platform-documentat
 
 ## Frontend
 
-The frontend connects to VANotify via an API we set up.
+- The frontend connects to VANotify via an API we set up.
+- The frontend code currently stores the content for on-site notifications.
 
 ## Design
+
+- Notifications are a simple line of copy and a link to more information.
+- We do not show personalized data in notifications since that is not sent to us from VANotify.
+- We can show timestamps to help differentiate similar notifications.
 
 ### Before
 
