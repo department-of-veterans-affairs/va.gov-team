@@ -2,6 +2,8 @@
 
 Please delete this file once you are done making these updates.
 
+[Mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/OmJpOLG)
+
 ## Compensation and pension section
 
 Phone numbers should be linked appropriately and include an aria-label ([docs for phone number](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
