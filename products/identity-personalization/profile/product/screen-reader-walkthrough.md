@@ -1,6 +1,6 @@
 # Screen Reader Walk-through with Angela Fowler - Profile
 
-Angela's suggestions in **bold**.
+Notes from the Profile portion of a screen reader walk-through with Angela and the Authenticated Experience My VA and Profile teams. Angela's suggestions in **bold**.
 
 ## Personal Information
 - The expandable information in accordions (FAQs) makes sense.
