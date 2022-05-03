@@ -19,6 +19,7 @@
 9. Scrub delimiter characters from user input
 10. Configurate forward proxies for host destinations
 11. Coordination with Security and DevOps team to follow platform protocol
+12. Associate state with file processing (i.e. pending, received)
 
 ### Next steps
 If Debt Resolution claims responsibility for generating and delivering CSV files we'll need to take the following steps:
