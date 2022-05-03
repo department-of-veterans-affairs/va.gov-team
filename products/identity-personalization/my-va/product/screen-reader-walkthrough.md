@@ -26,4 +26,4 @@ Notes from the My VA portion of a screen reader walk-through with Angela and the
 
   - Angela: **Overall the name tag needs to be consistently in the same place and marked the same way.**
 
-_(Note: see [Profile walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) for more information on feedback for the name tag)_
+_(Note: see [Profile walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) for more information on name tag feedback.)_
