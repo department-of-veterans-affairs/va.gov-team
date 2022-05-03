@@ -5,11 +5,11 @@ To allow product teams to feature dynamic content as needed for UAT testing and 
 
 ## How the Sitewide Content team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
 
-1. The product team works with the Sitewide Content team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content.
+1. The product team works with the Sitewide Content team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content. This includes discussing what content is shown when the feature toggle is on and what content is shown when the feature toggle is off. 
 
-2.	The product team creates a react widget with the dynamic content.
+2.	The product team creates a react widget with the dynamic content. The Sitewide Content team provides this content in the product's team ticket for building the widget. If there needs to be different content in the widget for when the feature toggle is off, Sitewide Content notes this.
 
-3.	The Sitewide Content team adds the react widget to the Drupal page, which will entail moving some content out of Drupal content blocks. Sitewide Content should ensure that the new page with react widget matches the mockup page that the product team has provided.
+3.	The product team provides the Sitewide Content team with the react widget code, and the Sitewide Content team adds the react widget to the Drupal page, which will entail moving some content out of Drupal content blocks. Sitewide Content should ensure that the new page with react widget matches the mockup page that the product team has provided.
 
 4.	The product team creates a feature toggle to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools/blob/84d7f6201f7ada7e4167fac82807414c700df75d/packages/documentation/src/pages/platform/tools/feature-toggles.mdx)
 
