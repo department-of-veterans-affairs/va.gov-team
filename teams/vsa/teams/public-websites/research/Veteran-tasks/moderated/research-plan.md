@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 4, 2022
+# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 3, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the home page.
@@ -35,7 +35,7 @@ The feedback we get on the card sort will be used to refine it to better prepare
 ## Method: Moderated Sessions over Zoom	
 We will conduct remote moderated research sessions via Zoom. Research participants will be asked about VA-related tasks that they do, and then they will be given a card sort activity link to do independently while sharing their web browser screen and talking aloud.
 
-The card sort will be built in Optimal Workshop and will contain a list of about 30 (or maybe more) tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
+The card sort will be built in Optimal Workshop and will contain a list of about 40 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., *important to me and I do it frequently, important to me but I don't do it frequently, not important to me, I don't understand this task*). They will also be able to add new tasks and sort them.
 
 *Action item: Get feedback on list of tasks from Mikki Northuis (sitewide IA), Meg Peters and Tracey Mulrooney (health apartment), and anyone else interested (Shawna Hein, Danielle Thierry, Beth Potts?)*
 
