@@ -46,3 +46,12 @@ Angela's suggestions in **bold**.
  
 ## General
 - Anyway to get it to not say "My VAAAA"? — Not really, more trouble than what it's worth.
+
+## Editing something in Profile
+
+### Contact info - Edit Phone number
+- Focuses on wrong thing with error - not keeping focus on update button. _(Note: this might need more looking into, I'm not sure what the specific focus needs are)_
+- Also does not tell her about all the errors shown, just one.
+- Angela's suggestion: **The best thing to do is to have a list of errors together.**
+- For the "Are you sure?" Modal: Suggested considering the wording. Maybe instead of Continue and Cancel could be Are you Sure? with Yes/No. But as is might be better for those with cognitive disabilities. 
+
