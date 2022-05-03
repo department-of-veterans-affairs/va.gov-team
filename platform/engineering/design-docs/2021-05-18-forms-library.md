@@ -1,3 +1,6 @@
+**THIS DOCUMENT IS SUPERSEDED BY THE VA Forms System Core Design Document (WIP) DOCUMENT IN CONFLUENCE: https://vfs.atlassian.net/wiki/spaces/FLT/pages/2025029667/VA+Forms+System+Core+Design+Document+WIP**
+
+
 # Forms library
 
 **Author(s):** Christopher Valarida  
