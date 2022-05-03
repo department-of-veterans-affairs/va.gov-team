@@ -5,6 +5,22 @@
 - [Mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/OmJpOLG)
 - [FE ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40722)
 
+## Verify identity alert copy
+
+>[header] **Verify your identity with Login.gov or ID.me to change your direct deposit information online**
+
+>Before we give you access to change your direct deposit information, we need to make sure you're you—and not someone pretending to be you. This helps us protect your bank account and prevent fraud.
+>
+>**If you have a verified Login.gov or ID.me account,** sign out now. Then sign back in with that account to continue.
+>
+>**If you don't have one of these accounts,** you can create one and verify your identity now.
+>
+>[Create a Login.gov account] (link)
+>
+>[Create an ID.me account] (link)
+>
+>**Note:** If you need help to change your direct deposit information, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.<br/>    
+
 ## Compensation and pension section
 
 > Our records show that you don’t receive VA disability compensation or pension payments. 
