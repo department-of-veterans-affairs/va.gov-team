@@ -20,3 +20,16 @@ Each of these pieces of technology will be covered more in depth however it is g
 On VA.gov we have the ability to use feature toggles in the code to only execute that code based on if the feature toggle is `true` or `false`. When a feature toggle is set up there are both back end and front end components to it and there is an admin dashboard that engineers can use to set values for who will get a `true` value from the feature toggle and who will get a `false` value. The values can either be set as a percentage of users, specific user accounts (a list of login emails that are enabled), or a percentage of time. For the sake of phased rollouts it is advised that onle the first two possible options (percentage of time or specific emails) be used as a percentage of time can produce unexpected results.
 
 Once the back and and front end peices of the feature toggle are set up you will be able to change the values of who can see the code wrapped in the feature toggle using an admin dashboard. You can read about how to set up a feature toggle on VA.gov [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/Feature-toggles.1859780873.html). You will also need to have a login for VA.gov and all lower environments that uses your email and is set as an admin of the feature toggle dashboard. You can request this access by putting in a pull request with your email added to [this list](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml).
+
+
+### A React widget
+
+Generally the path that Veterans will take to get to a feature is intended to begin with a static page in Drupal. Since these pages are not written in React we as engineers need to build a React widget that taps into the feature toggle so that we can show different content on these static pages for those users intended to have a `true` value for the feature toggle.
+
+
+
+
+
+
+
+
