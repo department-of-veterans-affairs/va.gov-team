@@ -53,7 +53,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 We are going to be looking at the burial benefits form today. As I mentioned, this is a prototype so it might not work the way you expect it to.
 
-*I want you you pretend that you are applying for burial benefits form. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
+*I want you pretend that you are applying for burial benefits form. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
  
 ## Second Task: Review page design feedback (30minutes)
 
@@ -63,14 +63,14 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 - What would you do when you get here in the application process?
 - What do you think is the purpose of this page?
-    - Are you able to easily accomplish that? Why or why not?
+    - Can you show me what you'd do next to accomplish that goal on this page?
     - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
     - How would you like to see the information displayed? (always visible or open as required)?
 
-- Imagine that you notice an error on this page and you want to fix the mistake
+- Imagine that you notice an error in your address - wrong door number and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - What do you like/dislike the most about this page? Why?
+    - What are your first impressions of this page?
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
 **(Note to the moderator - design variations will be show in different order for different participants to reduce bias)**
@@ -119,6 +119,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 ## Post-Task Interview - 5 minutes
 
 - You saw 4 different design options today. Which do you prefer? Why?
+- If you had a magic wand and could change any 1 thing about what you saw today, what would you change?
 - Do you have any other thoughts or feedback?
 - Any questions for me? 
 
