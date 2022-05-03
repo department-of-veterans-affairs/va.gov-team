@@ -72,6 +72,7 @@ Things to watch for
   - Did they successfully find where they could update their home address?
 - Were there any usability issues/points of confusion?
 - Do they call out the type of appointment (telephone) when viewing the introduction page?
+- Did they wanting to indicate phone preference or issues in the past receiving calls at the wrong number? 
 - Were the next steps after completing pre-check-in understandable?
 – Did they try to select any of the accordions on the confirmation page? 
 
@@ -98,6 +99,7 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 - What are your thoughts about what this page is asking you?
 - Are there any other pieces of contact information that you would like to review on this page?
 - Is there anything missing or would you change anything?
+- Ideally, which phone number would you like a provider to call you at? 
 - (If applicable) what would you do if you noticed your address is wrong because you just moved? 
 
 **Next of kin**
@@ -110,11 +112,16 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 - Once you submit these  questions, who do you expect will have access to the answers that you entered?
   - Is it what you were expecting or not expecting?
 - Is there any other information we should include here?
-- What do you think happens when you click on the “Profile” link?
 - What do you do now that you have completed pre-check-in? 
   - Would you want to navigate anywhere else? Why or why not? 
   - What would be the next thing that you do related to your appointment?
-- What do you expect will happen if you clicked on the “Sign in to add to calendar and see details”
+- What other tasks could you do on this page?
+  - What are your thoughts on these tasks? 
+  - What do you think happens when you click on the "Get travel pay"?
+  - What do you think happens when you click on "Sign in to manage all appointments"? 
+  - What do you think happens when you click on "Check in to another appointment"? 
+- What do you think happens when you click on the “Log in" in the section "How can I update my information?"
+- What are your thoughts on the order of the information on this page? (Would you move anything around? why or why not?)
 
 ## Second Task: Non-happy path for pre-check-in for a telephone appointment - 30 minutes
 
