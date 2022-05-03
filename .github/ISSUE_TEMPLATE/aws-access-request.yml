@@ -66,6 +66,18 @@ body:
       placeholder: e.g. Platform Security, Backend Engineer, Ad Hoc
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Your Product Manager (PM)
+      description: Provide the name and email of your Product Manager
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Your Product Owner (PO)
+      description: Provide the name and email of your Product Owner
+    validations:
+      required: true
   - type: textarea
     id: aws-access
     attributes:

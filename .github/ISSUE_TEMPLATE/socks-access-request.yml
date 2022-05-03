@@ -36,6 +36,18 @@ body:
       placeholder: e.g. Backend Engineer on VA Mobile
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Your Product Manager (PM)
+      description: Provide the name and email of your Product Manager
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Your Product Owner (PO)
+      description: Provide the name and email of your Product Owner
+    validations:
+      required: true
   - type: textarea
     id: ssh-key
     attributes:
