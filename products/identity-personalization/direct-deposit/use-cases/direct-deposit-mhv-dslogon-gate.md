@@ -15,5 +15,6 @@ See [Github issue #28794](https://github.com/department-of-veterans-affairs/va.g
 ## Codes
 TBD
 
-## Staging users
-Log in with any MHV or DS Logon user to see this alert in action on staging.
+## Steps to reproduce
+1. Log in with any MHV or DS Logon user
+2. Navigate to Profile > Direct deposit
