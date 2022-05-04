@@ -47,11 +47,11 @@
 - MuleSoft Queuing
      - Might take more than 10 sec
      - Ranga did analysis. Found most requests do not take too long (8 sec - 30 sec)
-     - **Changes to VA.gov
-          - Give response it was successful OR timeout
-          - Need new message if timeout
-          - Instead of 2 payloads, put the attachment and info into 1 payload (eg 1 call)
-          - Reduce 90 sec wait time to 50 sec**
+     - **Changes to VA.gov**
+          - **Give response it was successful OR timeout**
+          - **Need new message if timeout**
+          - **Instead of 2 payloads, put the attachment and info into 1 payload (eg 1 call)**
+          - **Reduce 90 sec wait time to 50 sec**
      - 2% failure rate in current time period - does actually succeed but it tells the user that it did not work
           - 110k total through va.gov
           - 1,600 did NOT include an email. Should we require an email? Matt B to decide
