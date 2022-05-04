@@ -1,4 +1,4 @@
-## May 4, 2022  Internal 10-10 team - Mulesoft Ph 2 discussion on proposal from Stakeholder
+## May 4, 2022  Internal 10-10 team - discussion on Mulesoft - Queue proposal from Stakeholder
 
 ### Questions from the team:
 
