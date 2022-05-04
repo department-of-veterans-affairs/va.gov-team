@@ -1,4 +1,4 @@
-# Screen Reader Walk-through with Angela Fowler - Profile
+# Screen reader walk-through with Angela Fowler - Profile
 
 Notes from the Profile portion of a screen reader walk-through with Angela and the Authenticated Experience My VA and Profile teams. Angela's suggestions in **bold**.
 
