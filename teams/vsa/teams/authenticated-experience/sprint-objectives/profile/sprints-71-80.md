@@ -230,9 +230,9 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
 
 ### General
 
-**Mark & Tom**
+**FE**
 
-- Work on diagrams for profile products
+- In the "nametag" element, what happens if someone is in Space Force? #40910
 
 ## Sprint 75 (6/1 - 6/14)
 
