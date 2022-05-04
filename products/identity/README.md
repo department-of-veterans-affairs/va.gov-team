@@ -52,7 +52,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - John Bramley - Backend Engineer
 - Josh Scanish - Backend Engineer
 - Alex Garcia - Frontend Engineer
-- Kyle Woolley - Frontend Engineer
+- Jhonny Gonzalez - Frontend Engineer
 - Sylvester Lee - Security Engineer
 - Ian Hundree - DevOps Engineer
 
