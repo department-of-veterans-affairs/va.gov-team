@@ -40,6 +40,7 @@
 
 <Details>
      <Summary>Notes from Caitlin</Summary>
+     
 - What will it take to deliver to 100% applicants for VA.gov?
      - Wait to see what next month shows. Then go from there
      - If still around 60, then maybe up to 100
