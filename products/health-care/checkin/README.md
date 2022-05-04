@@ -6,8 +6,8 @@
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 
 ## Backlog & Roadmap
+- [Priorities](https://docs.google.com/document/d/1lo11HaGZzMvjcVYLFjmjeyiYTUuaim-z0bbtcrUtTYA/edit)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
-- [CIE Roadmap](https://app.mural.co/t/vfscie8528/m/agilesixapplications0942/1647270944596/917cf556db4f66da61e6cc5706100f96e44527d0?sender=ud3aa760e30b39bcf436d4473)
 - [CHIP/VSE/CIE Combined Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1635785913758/7351da6401af534be67689371f2108f3b0d3c3ec?sender=e4aa18d2-ce7d-41e6-8912-592ed5f9610a)
 
 ## Releases 
