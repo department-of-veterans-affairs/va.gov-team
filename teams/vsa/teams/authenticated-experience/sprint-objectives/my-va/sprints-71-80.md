@@ -171,10 +171,14 @@ Whatever is not done from sprint 72, plus:
 ## Sprint 75 (6/1 - 6/14)
 [Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 
-### My VA: Cerner updates
+### Cerner updates
 
 (692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
 (653) Roseburg: Go-live -- 6/11/2022
+
+### My VA redirect
+
+- Samara -- Re-evaluate [this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/my-va-redirect-transition-proposal.md) to make sure it is up to date for this experiment
 
 ## Sprint 76 (6/15 - 6/28)
 [Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
