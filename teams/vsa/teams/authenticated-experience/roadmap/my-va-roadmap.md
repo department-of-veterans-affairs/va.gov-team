@@ -6,7 +6,6 @@
 
 |Project|Status|
 |----|----|
-|[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme) | Launch to 50% |
 |Payments & Debts/copays V2| Design explorations|
 |My VA audit| Documentation|
 
