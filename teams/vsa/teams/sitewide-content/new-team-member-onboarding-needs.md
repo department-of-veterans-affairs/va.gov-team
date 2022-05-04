@@ -1,6 +1,6 @@
-# Onboarding tasks for new Sitewide Content team members
+# Tasks for onboarding new Sitewide Content team members
 
-When someone joins the Sitewide Content team there are several onboarding tasks to follow for full access to all the tools they'll need. This is separate form the general VA onboarding the contract company and COR will be working on.
+When someone joins the Sitewide Content team there are several onboarding tasks for the product owner, project manager, and new team member to follow for full access to all the tools they'll need. This is separate form the general VA onboarding the contract company and COR will be working on.
 
 ## Github access
 [Read the Platform documentation for getting set up in Github and Zenhub](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-GettingaccesstotheVAGitHuborganization![image](https://user-images.githubusercontent.com/48728214/166793995-4e3dcba1-f4d9-4a60-916b-2e7c1df45780.png)
