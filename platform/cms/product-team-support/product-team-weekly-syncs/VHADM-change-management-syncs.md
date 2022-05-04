@@ -11,8 +11,18 @@
 <details><summary>Parking lot</summary>
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
- 
- ## April 20, 2022
+
+## May 4, 2022
+
+- "Care we provide" launch: no known issues
+- Top task launch May 4
+  - change in prod this afternoon
+  - email ready for delivery Thursday, May 5
+  - dashboard ready to check progress
+  - follow-up email in draft to send May 26
+- Recurring events: next sprint (starts May 9)
+
+## April 20, 2022
 
 - NOTE: record the session for Jenny
 - Updates on changes in flight
