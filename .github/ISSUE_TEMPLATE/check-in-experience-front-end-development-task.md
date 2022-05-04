@@ -37,5 +37,8 @@ assignees: ''
 - [ ] Passes Accessibility checks using axe
 - [ ] Deployed to staging.
 - [ ] Tested on staging
+- [ ] Prod validation:
+  - [ ] not necessary
+  - [ ] scheduled
 - [ ] Designer has signed off on the feature
 - [ ] Product team has signed off on the  feature
