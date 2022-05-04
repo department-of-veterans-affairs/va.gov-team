@@ -36,4 +36,4 @@ Why was Mulesoft implemented to begin with?
 
 ### Action Items
 - [ ] Heather will send note to CG team requesting a presentation/explanation to help us understand what problem was being resolved by implementing Mulesoft, and now that Mulesoft is implemented, what problem is now occuring that this new solution is being presented?
-- [ ] Once we are in the discussion with the Caregiver teams, we can ask some of our questions that might inspire more thoughtful solutions, keeping the applicant experience in mind.
+- [ ] Once we are in the discussion with the Caregiver teams, we can ask some of our questions that might inspire more thoughts on the solution, keeping the applicant experience in mind.
