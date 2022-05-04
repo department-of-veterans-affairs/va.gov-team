@@ -13,14 +13,14 @@
                - Worried that having to wait  (more than 10 sec) is not a good user exp.
                - Analysis shows majority of requests do not take too long (8 seconds)
                     - Some take 60, 30, etc
-          - POV 2 - Try to go synch, and if fails go async
+          - **POV 2 - Try to go synch, and if fails go async**
                - Would know right away if app is processed or not
                - Analysis shows majority of requests do not take too long (8 seconds)
                - If Synch doesn't work, will queue and display message that app is taking longer than normal to process & will notify via email or phone call?
                - If not processed, system will resubmit
                - Then notify user of submission success
           - May need to change how we interact with va.gov
-               - Current has user print with Sorry we couldn't process
+               - Current has user print with "Sorry we couldn't process"
                - Future will show msg to queue, and when processed will recv email or phone call (whichever info is provided)
                - Application data and attachment sent in one message?
                     - Today case number is tied to attachment
@@ -46,7 +46,7 @@
 - MuleSoft Queuing
      - Might take more than 10 sec
      - Ranga did analysis. Found most requests do not take too long (8 sec - 30 sec)
-     - Changes to VA.gov
+     - **Changes to VA.gov**
           - Give response it was successful OR timeout
           - Need new message if timeout
           - Instead of 2 payloads, put the attachment and info into 1 payload (eg 1 call)
