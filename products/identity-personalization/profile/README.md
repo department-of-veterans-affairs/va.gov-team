@@ -1,10 +1,10 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: April 13, 2022
+Last Updated: May 4, 2022
 
 ### Communications
 
-Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles  
   
