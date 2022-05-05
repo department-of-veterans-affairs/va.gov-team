@@ -80,13 +80,13 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 *Imagine that you filled out all the required information and you arrived at this page. This is a variation of the page you just viewed. Please take a couple of minutes to look at this page.*
 
 - Talk to me about your first impression.
-- How would you like to see the information displayed? (always visible or open as required)?
+- Please talk to me about your experience reviewing the information on this page (feedback about accordion design)? 
+    - In terms of ease of use and to accomplish your goal - what is the best way to display the information displayed? (always visible or open as required)?
 - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - Talk to Did you notice the What do you think about the emphasis on Value (Name, DOB etc)? 
 - Imagine that you notice an error in the Service history on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - What do you like/dislike the most about this page? Why?
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
 **Design Variation with Label Emphasis**
@@ -99,7 +99,6 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 - Imagine that you notice an error in the Service history on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - What do you like/dislike the most about this page? Why?
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
 **Design Variation with Open Accordion**
@@ -116,7 +115,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 ## Post-Task Interview - 5 minutes
 
-- You saw 4 different design options today. Which do you prefer? Why?
+- You saw 4 different design options today. Which one best supports you in accomplishing your goal? Please explain. 
 - If you had a magic wand and could change any 1 thing about what you saw today, what would you change?
 - Do you have any other thoughts or feedback?
 - Any questions for me? 
