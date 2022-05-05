@@ -246,3 +246,4 @@ Please allow a buffer time of 15 minutes between sessions.
   - Dan Goodwin (dan.goodwin@civicactions.com)
   - Gaurav Gupta (ggupta@kindsys.us)
   - Kanchana Suriyamoorthy (ksuriyamoorthy@kindsys.us)
+  - Chris Horton (chris.horton@oddball.io)
