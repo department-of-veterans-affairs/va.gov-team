@@ -52,6 +52,10 @@
   - Key result: Number of applications increase
   - Key result: Length of time between starting application and submitting decreases 
 
+### Mock Ups ###
+
+- [Multiple in Progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/Mutliple%20Forms%20In%20Progress%20Reminder.png)
+- [Single in Progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/Single%20Form%20In%20Progress%20Reminder.png)
 ---
 
 ## Assumptions
@@ -75,6 +79,7 @@
   - The cadence of every two weeks and again at day 59 (right before expiration date) was also discussed. Since the expiration date is rolling, based on the user updating the application, we have opted to move forward without the day 59 reminder.
 - A check to ensure the Veteran is not deceased will be implemented. 
 - Applications can be started when not authenticated. Since these are not assocaited to the Veteran's profile these applications are out of scope for this project.
+- Do you have a mock-up or screenshot of what the email would look like with multiple applications in progress?
 
 
 ## Additional Points
@@ -131,6 +136,22 @@
     - Send them to their “My VA” page and automatically scroll them to the application section (This is ideal if more than 1 application, but the page is pending redesign coming potentially in  May 2022)
 
 
+## 10-10 Team Questions
+- How does the cadence work, if applications are started in between the 7-14 day timeframes?
+    - Ex: I have an application 14 days old (call this form A), but I have another application that is 11 days old (call this form B). Would the 14 day notification email contain both applications?
+           -  The older form would dictate the cadence. So the form B would be displayed on the reminder email that is sent on day 21 for form A.   
+- How does the process to trigger the email notification work?
+           - The trigger works by looking daily for any forms marked as `in progress` and specifically 7, 21, 35 or 49 days old. If a form falls on that age then an email is sent.
+- Does it monitor Saved In Progress applications that have opted in for these reminders?
+           - There currently isn't an opt in process for these reminders.
+- Would our system need to send a flag to VA Notify?
+           - No, the Strike team would create the job to check for the in progress forms that are the appropriate age. 
+- We are interested in any research done for this reminder, if you have any to share. 
+   - This is for our curiosity since we have heard similar feedback about too many notifications & related topics
+           - We do have a feedback loop in the responses we get to the emails. We can also see via utilzation stats that the users are clicking back through to these applications. We would recommend your team sets up a no-reply email address so you can see the responses from veterans.
+           - We also plan to evaulate the affect on submission rates  
+          
+
 #### Communications
 
 <details>
@@ -151,6 +172,6 @@
  - DM: Zachary Law
  - Engineering: Nathan Wright, Olaf Minkowicz, Andrew Mauricio
  - Research/Design: Ian Hilton, Elissa Folk
- - QA: Chris Peck
+ - QA: Jake Uhteg
  
 </details>
