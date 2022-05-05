@@ -6,3 +6,13 @@ As part of digital modernization, we want to open up the Resources & Support sec
 - Authoring experience
 
 _*Adding more, but details can be found here for now: [Non-OCTO author pilot.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/7942108/Non-OCTO.author.pilot.pptx)
+
+## Success metrics
+
+1. **Veteran and other beneficiary content from legacy Community Care site is deprecated and redirected.** We'll know we've succeeded when all Veteran and beneficiary content on the legacy Community Care site is deprecated and redirected to content in the modernized VA.gov environment.
+
+2. **New CC Resources and Support articles have a 70% or higher feedback rating.** We'll know we've succeeded when all new CC articles have a 70% or higher feedback rating after 3 months. If ratings are lower than 70%, we will prioritize the lowest-performing articles and conduct analytics discovery followed by usability testing to determine opportunities for improvement.
+
+3. ****
+
+
