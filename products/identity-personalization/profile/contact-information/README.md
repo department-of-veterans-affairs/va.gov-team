@@ -63,7 +63,7 @@ As a user, I want to be able to:
 
 ## Projects
 
-[See profile product outline for full list of projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects)
+[See profile roadmap for full list of completed projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
 ## How to Access and Test
 
