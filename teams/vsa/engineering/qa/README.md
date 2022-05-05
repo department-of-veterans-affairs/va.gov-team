@@ -1,14 +1,15 @@
-# VSA Quality Assurance
+# PTEMS Quality Assurance
 
-**Point of contact**: Tze-chiu Lei, QA Engineer [Github: @tlei123]
+**Point of contact**: Tze-chiu Lei, Sr. Software Engineer (QA) [Github: @tlei123]
+**GitHub label: ptems-qa
 
-This is the documentation home/hub of the VSA Quality Assurance (VSA-QA) process, best-practices, tools, and any other relevant information that would help VSA Engineering teams with QA/testing.
+This is the documentation home/hub of the PTEMS Quality Assurance (PTEMS-QA) processes, best-practices, tools, and any other relevant information that would help PTEMS VA.gov Applications teams with QA/testing.
 
-NOTE: This documentation here is VSA-QA's adaptation & supplement of [VSP's Quality Assurance documentation][vsp-qa].  As such, it does not encompass everything covered there [see [VSA-QA Tasks & Capacity](vsa-qa-tasks-capacity.md)]
+NOTE: This documentation here is PTEMS-QA's adaptation & supplement of [VSP's Quality Assurance documentation][vsp-qa].  As such, it does not encompass everything covered there [see [VSA-QA Tasks & Capacity](vsa-qa-tasks-capacity.md)]
 
 Content here will grow over time.  Below are links to our currently-available docs/tools/info:
 
-[Process (Manual-UI testing)](vsa-qa-process.md) (for VSP Staging Review)
+[Manual-UI Testing process](manual-ui-testing-process.md) (for Platform Staging Reviews)
 
 [Capacity & Tasks](vsa-qa-tasks-capacity.md)
 
