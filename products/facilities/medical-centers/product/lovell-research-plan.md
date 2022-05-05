@@ -157,18 +157,18 @@ The goal is for 2 sessions per day, with at least 15 minutes between sessions.
 
 ### Availability
 
-Monday, May 23rd: 9:00am ET - 12:00pm ET
-Tuesday, May 24th: 3:00pm ET - 7:00pm ET
-Wednesday, May 25th: 9:00am ET - 12:00pm ET
-Thursday, May 26th: 2:00pm ET - 6:00pm ET
-Friday, May 27th: 10:00am ET - 1:00pm ET
+Monday, May 23rd: 9:00am ET - 12:00pm ET<br>
+Tuesday, May 24th: 3:00pm ET - 7:00pm ET<br>
+Wednesday, May 25th: 9:00am ET - 12:00pm ET<br>
+Thursday, May 26th: 2:00pm ET - 6:00pm ET<br>
+Friday, May 27th: 10:00am ET - 1:00pm ET<br>
 	
 ## Team Roles	
 
-Moderator: Val Runde
-Research guide writing and task development (usually but not always same as moderator): Val Runde
-Participant recruiting & screening: Perigean
-Project point of contact: Val Runde
-Participant(s) for pilot test: 
-Note-takers: Perigean
+Moderator: Val Runde<br>
+Research guide writing and task development (usually but not always same as moderator): Val Runde<br>
+Participant recruiting & screening: Perigean<br>
+Project point of contact: Val Runde<br>
+Participant(s) for pilot test: <br>
+Note-takers: Perigean<br>
 Observers: Michelle Middaugh [optional] (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov)
