@@ -105,16 +105,16 @@ Examples of **research with VA.gov users** include:
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add design artifacts to the Artifacts section of this ticket at least two days before the scheduled Design Intent
+- [ ] Add all requested artifacts below at least two days before the scheduled Design Intent
   
-###### Design Intent artifacts
+**Design Intent artifacts**
 
-**Design artifacts**
+*Design artifacts*
 
 - Whiteboard sketch or other lo-fi prototypes or wireframes: 
 - User flow: 
 
-**IA artifacts**
+*IA artifacts*
 
 - User flow: 
   
@@ -162,29 +162,29 @@ Examples of **research with VA.gov users** include:
    - Click Schedule Event
 - [ ] Check this box if you'd like this review to be asynchronous (Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review)
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add or update all requested artifacts to the Artifacts section of this ticket at least two days before the scheduled Midpoint Review
+- [ ] Add or update all requested artifacts below at least two days before the scheduled Midpoint Review
   
-###### Midpoint Review artifacts
+**Midpoint Review artifacts**
   
-**Design artifacts**
+*Design artifacts*
 
 - Finalized design prototype or mockup: 
   
-**Research artifacts**
+*Research artifacts*
 
 - Research plan: 
 - Conversation guide: 
   
-**IA artifacts**
+*IA artifacts*
 
 - GitHub ticket for any relevant IA work: 
-  
-**Content artifacts**
+ 
+*Content artifacts*
   
 - Name of content of truth, for example, "Invision Prototypes": 
 - Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable): 
 
-**QA artifacts**
+*QA artifacts*
   
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
@@ -236,17 +236,18 @@ Examples of **research with VA.gov users** include:
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add or update all requested artifacts to the Artifacts section of this ticket at least **four** days before the scheduled Staging Review
-- [ ] Ensure you've provided staging access information for the tool or feature (don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
+- [ ] Add or update all requested artifacts below at least **four** days before the scheduled Staging Review
   
-###### Staging Review artifacts
+**Staging Review artifacts**
   
-**Product artifacts**
+*Product artifacts*
   
 - Release plan with the "Planning" sections completed:             <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
 - Staging URL and staging test-user information:                   <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
+  
+**Note:** Please double-check that you've provided staging access information appropriate for testing the tool or feature. Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 
-**QA artifacts**
+*QA artifacts*
 
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
@@ -254,7 +255,7 @@ Examples of **research with VA.gov users** include:
 - [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12): 
 - [Summary (Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14): 
   
-**Accessibility artifacts**
+*Accessibility artifacts*
   
 - [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc):  **(Preferred)** OR, 
 - Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete: 
