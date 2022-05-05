@@ -53,7 +53,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 We are going to be looking at the burial benefits form today. As I mentioned, this is a prototype so it might not work the way you expect it to.
 
-*I want you pretend that you are applying for burial benefits form. For the sake of this session, please assume that you are filling everything out withoug signing in. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
+*I want you pretend that you are applying for burial benefits form. For the sake of this session, please assume that you are filling everything out without signing in. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
  
 ## Second Task: Review page design feedback (30minutes)
 
@@ -79,8 +79,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 *Imagine that you filled out all the required information and you arrived at this page. This is a variation of the page you just viewed. Please take a couple of minutes to look at this page.*
 
-- Are you able to easily accomplish your goal using this design? Why or why not?
-- Please talk to me about how easy it is to review the information on this page? 
+- Talk to me about your first impression.
 - How would you like to see the information displayed? (always visible or open as required)?
 - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - Talk to Did you notice the What do you think about the emphasis on Value (Name, DOB etc)? 
@@ -94,7 +93,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 *This is another variation to the page you just viewed. Please take a couple of minutes to look at this page.*
 
-- Please talk to me about how easy it is to review the information in this page? 
+- Talk to me about your first impression.  
 - Thinking about the question I asked you in the previous design - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - What do you think about the emphasis on the title (Name, DOB etc)?  
 - Imagine that you notice an error in the Service history on this page and you want to fix the mistake
@@ -107,8 +106,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 
 *This is another variation to the pages you have been looking at. Please take a couple of minutes to look at this page.*
 
-- Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
-    - How would you like to see the information displayed? (always visible or open as required)?
+- Talk to me about your first impression
 - Imagine that you notice an error on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
