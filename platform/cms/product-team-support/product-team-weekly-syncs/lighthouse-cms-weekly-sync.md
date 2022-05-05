@@ -13,6 +13,15 @@
 
 </details>
 
+## Monday, May 9, 2022
+* Facility Covid Status
+  * Path forward identified and in progress.
+* URL's for mobile sites and domiciliaries.
+  * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
+  * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
+  * AI - Work VHA Digital Media - How editors handle a "This is how to handle Domiciliary" "How to handle a Community Living Center" need to be added to KB
+  * Audit to understand which ones are published in the CMS and hand it to VHA DIgital Media to cleanse.
+
 ## Monday, May 2, 2022
 * V1 Rollout
   * Identifying paths forward with latency
