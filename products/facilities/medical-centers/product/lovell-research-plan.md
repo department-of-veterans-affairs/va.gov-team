@@ -57,7 +57,8 @@ Aging
 ## Research Goals	
 
 The primary goals of this research are to determine:
-* Whether participants notice and understand the informational alert and switching between beneficiary types.
+* Whether participants notice and understand the informational alert.
+* Whether participants understand switching between beneficiary types.
 * Whether DoD service members understand that they are TRICARE beneficiaries.
 
 ### Outcome
