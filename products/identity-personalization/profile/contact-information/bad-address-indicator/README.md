@@ -1,10 +1,11 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: January 26, 2022
+Last Updated: May 5, 2022
 
 ### Communications
 
-Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+- **Github labels**: vsa-authenticated-exp; profile
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles  
   
@@ -76,6 +77,10 @@ Note: We will not have access to metrics on returned mail.
 ### Key dates
 
 - January 2022: PM/PO working on discovery for this project. 
+- February 2022: Kickoff; Start design
+- March 2022: Design intent
+- April 2022: Mostly on hold in favor of other project work
+- May 2022: Resume project; High fidelity mocks
 
 ## Design
 
