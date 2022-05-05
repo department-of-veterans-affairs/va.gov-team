@@ -4,7 +4,8 @@ Last Updated: May 4, 2022
 
 ### Communications
 
-Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+- **Github labels**: vsa-authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles  
   
