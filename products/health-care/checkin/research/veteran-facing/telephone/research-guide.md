@@ -154,8 +154,8 @@ We will use a lean maximum variation inclusive research strategy.
     - At least 1 who identifies as Biracial
     - At least 1 who doesn’t have a degree
 
-    - - At least 3 participants that have identified cognitive impairments and/or functional disabilities.
-    - Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+    - At least 3 participants that have identified cognitive impairments and/or functional disabilities.
+      - Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 - Participants must be willing to join the research session via their mobile phones:
     - At least 5 participants should have an iOS smartphone
