@@ -50,7 +50,6 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Joe Niquette - Engineering Lead
 - Trevor Bosaw - Backend Engineer
 - John Bramley - Backend Engineer
-- Josh Scanish - Backend Engineer
 - Alex Garcia - Frontend Engineer
 - Jhonny Gonzalez - Frontend Engineer
 - Sylvester Lee - Security Engineer
