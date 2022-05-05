@@ -126,14 +126,6 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Design Intent meeting
-- [ ] Add Zoom information for the scheduled Design Intent meeting
-  
-#### Design Intent meeting details
-  
-- Meeting date/time:
-- Zoom meeting URL:
-- Zoom password:
-- Zoom recording: 
   
 #### After meeting
   
@@ -144,6 +136,8 @@ Examples of **research with VA.gov users** include:
   - [ ] Accessibility feedback provided
   - [ ] IA feedback provided
 - [ ] Update this ticket with the Zoom recording
+  - Recording: 
+  - Password: 
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
@@ -199,14 +193,6 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Midpoint Review meeting
-- [ ] Add Zoom information for the scheduled Midpoint Review meeting (if synchronous)
-
-#### Midpoint Review meeting details (if synchronous)
-
-- Meeting date/time:
-- Zoom meeting URL:
-- Zoom password:
-- Zoom recording: 
 
 #### After meeting
   
@@ -219,6 +205,8 @@ Examples of **research with VA.gov users** include:
   - [ ] Content feedback provided
   - [ ] QA feedback provided
 - [ ] Update this ticket with the Zoom recording
+  - Recording: 
+  - Password:
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
@@ -270,27 +258,20 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Staging Review meeting
-- [ ] Add Zoom information for the scheduled Staging Review meeting
 - [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
   - [ ] Design feedback provided
   - [ ] Accessibility feedback provided
   - [ ] IA feedback provided
   - [ ] Content feedback provided
   - [ ] QA feedback provided
-  
-#### Staging Review meeting details
-
-- Drafting Template (for Platform use only): 
-- Meeting date/time:
-- Zoom meeting URL:
-- Zoom password:
-- Zoom recording: 
 
 #### After meeting
   
 ##### Platform actions
 
 - [ ] Update this ticket with the Zoom recording
+  - Recording: 
+  - Password:
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
