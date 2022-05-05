@@ -22,38 +22,37 @@ to user stories or specs._
 Version all endpoint that do not meet the naming convention as follows:
 ```
 namespace :health do
-      get '/appointment-requests/:appointment_request_id/messages', to: 'appointment_request_messages#index'
-      get '/appointments', to: 'appointments#index'
-      put '/appointments/:id/cancel', to: 'appointments#cancel'
-      get '/appointments/community-care/:service_type/eligibility', to: 'community_care_eligibility#show'
-      get '/appointments/va/eligibility', to: 'veterans_affairs_eligibility#show'
-      get '/appointments/facility/eligibility', to: 'facility_eligibility#index'
-      post '/appointment', to: 'appointments#create'
-      get '/community-care-providers', to: 'community_care_providers#index'
-    end
+  get '/appointment-requests/:appointment_request_id/messages', to: 'appointment_request_messages#index'
+  get '/appointments', to: 'appointments#index'
+  put '/appointments/:id/cancel', to: 'appointments#cancel'
+  get '/appointments/community-care/:service_type/eligibility', to: 'community_care_eligibility#show'
+  get '/appointments/va/eligibility', to: 'veterans_affairs_eligibility#show'
+  get '/appointments/facility/eligibility', to: 'facility_eligibility#index'
+  post '/appointment', to: 'appointments#create'
+  get '/community-care-providers', to: 'community_care_providers#index'
+  end
 
+namespace :benefits do
+  get '/appeal/:id', to: 'claims_and_appeals#get_appeal'
+  get '/claims-and-appeals-overview', to: 'claims_and_appeals#index'
+  get '/claim/:id', to: 'claims_and_appeals#get_claim'
+  post '/claim/:id/documents', to: 'claims_and_appeals#upload_document'
+  post '/claim/:id/documents/multi-image', to: 'claims_and_appeals#upload_multi_image_document'
+  post '/claim/:id/request-decision', to: 'claims_and_appeals#request_decision'
+  end
 
-    namespace :benefits do
-      get '/appeal/:id', to: 'claims_and_appeals#get_appeal'
-      get '/claims-and-appeals-overview', to: 'claims_and_appeals#index'
-      get '/claim/:id', to: 'claims_and_appeals#get_claim'
-      post '/claim/:id/documents', to: 'claims_and_appeals#upload_document'
-      post '/claim/:id/documents/multi-image', to: 'claims_and_appeals#upload_multi_image_document'
-      post '/claim/:id/request-decision', to: 'claims_and_appeals#request_decision'
-    end
+  get '/maintenance-windows', to: 'maintenance_windows#index'
+  get '/push/:endpoint_sid/prefs', to: 'push_notifications#get_prefs'
+  put '/push/:endpoint_sid/prefs', to: 'push_notifications#set_pref'
 
-    get '/maintenance-windows', to: 'maintenance_windows#index'
-    get '/push/:endpoint_sid/prefs', to: 'push_notifications#get_prefs'
-    put '/push/:endpoint_sid/prefs', to: 'push_notifications#set_pref'
-
-    scope :messaging do
-      scope :health do
-        resources :message_drafts, path: 'message-drafts', only: %i[create update], defaults: { format: :json } do
-          post ':reply_id/reply-draft', on: :collection, action: :create_reply_draft, as: :create_reply
-          put ':reply_id/reply-draft/:draft_id', on: :collection, action: :update_reply_draft, as: :update_reply
-        end
+scope :messaging do
+   scope :health do
+      resources :message_drafts, path: 'message-drafts', only: %i[create update], defaults: { format: :json } do
+        post ':reply_id/reply-draft', on: :collection, action: :create_reply_draft, as: :create_reply
+        put ':reply_id/reply-draft/:draft_id', on: :collection, action: :update_reply_draft, as: :update_reply
       end
-    end
+   end
+end
 ```
 Notes: 
 - Only endpoints being changed are shown above
@@ -89,22 +88,22 @@ put '/user/phones', to: 'phones#update'
 delete '/user/phones', to: 'phones#destroy'
 
 scope :messaging do
-      scope :health do
-        resources :triage_teams, only: [:index], defaults: { format: :json }, path: 'recipients'
+  scope :health do
+    resources :triage_teams, only: [:index], defaults: { format: :json }, path: 'recipients'
 
-        resources :folders, only: %i[index show create destroy], defaults: { format: :json } do
-          resources :messages, only: [:index], defaults: { format: :json }
-        end
-
-        resources :messages, only: %i[show create destroy], defaults: { format: :json } do
-          get :thread, on: :member
-          get :categories, on: :collection
-          patch :move, on: :member
-          post :reply, on: :member
-          resources :attachments, only: [:show], defaults: { format: :json }
-        end
-      end
+    resources :folders, only: %i[index show create destroy], defaults: { format: :json } do
+      resources :messages, only: [:index], defaults: { format: :json }
     end
+
+    resources :messages, only: %i[show create destroy], defaults: { format: :json } do
+      get :thread, on: :member
+      get :categories, on: :collection
+      patch :move, on: :member
+      post :reply, on: :member
+      resources :attachments, only: [:show], defaults: { format: :json }
+    end
+  end
+end
 ```
 ## Risks
 _What are the risks of the proposed changes?_
