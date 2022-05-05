@@ -21,6 +21,14 @@
 >
 >**Note:** If you need help to change your direct deposit information, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.<br/>    
 
+## Fiduciary flag alert Copy
+
+>[header] **We can’t show your financial information**
+
+>We’re sorry. Based on our records, we can't show your financial information in your VA.gov profile.
+>
+>If you think this is an error, you can call the VA.gov help desk at 855-574-7286. (TTY: 711). We're here Monday - Friday, 8 a.m. - 8 p.m. ET.
+
 ## Compensation and pension section
 
 > Our records show that you don’t receive VA disability compensation or pension payments. 
