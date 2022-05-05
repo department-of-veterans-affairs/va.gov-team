@@ -8,11 +8,8 @@
      - Could be revisited after more applications use this cadence
      - When applicant returns to application, cadence restarts
           - No activity at 7 days, an email is triggered with a link
-          - 21 days
-          - 35 days
-          - 49 days
-          - Forms expired at 60 days
-          - Reminders stop
+          - Every 2 weeks after that
+          - Forms expired at 60 days - Reminders stop
 - Collab Cycle completed, and the feature launched last week!
      - Content approved & privacy is good
      - Can use that same template for 10-10ez
