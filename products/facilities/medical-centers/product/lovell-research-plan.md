@@ -67,7 +67,7 @@ This research will help to determine whether the design solution is understood b
 
 ### Research questions
 
-# Research questions for VA beneficiaries
+<b>Research questions for VA beneficiaries</b>
 Whether Veterans understand the informational alert and switching between beneficiary types.<br>
 
 Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) page.
@@ -76,7 +76,7 @@ Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583ad
 Starting on a [DoD register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
 *You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran, what is the first step you'd take to register for care?
 
-# Research questions for TRICARE beneficiaries
+<b>Research questions for TRICARE beneficiaries</b>
 Whether DoD service members understand the informational alert and switching between beneficiary types.<br>
 
 Starting on a [VA beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) page.
