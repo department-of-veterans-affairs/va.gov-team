@@ -28,6 +28,18 @@ Generally the path that Veterans will take to get to a feature is intended to be
 
 > It is important to note that when you are performing a phased rollout you will generally want to show the content that was originally on the static > Drupal page to those who get a `false` value in the feature toggle (those outside the percentage you are releasing the app to). You should work with the Public Websites and content teams to determine what this original content was as well as what the new content for those who get a `true` value in the feature toggle should be.
 
+There is documentation from the platform on how to build a feature toggle [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html) however it is worth noting that this document does not provide steps to test your React widget. Here are the general steps to test your React widget -
+
+<details><summary>Testing a React widget</summary>
+<p>
+
+ Once you have followed the steps for creating a React widget you most likely want to test it to make sure it works as intended. Since your React widget will be used on a static page it needs to be tested on a static page within the `content-build` repo
+
+</p>
+</details>
+
+
+
 
 
 
