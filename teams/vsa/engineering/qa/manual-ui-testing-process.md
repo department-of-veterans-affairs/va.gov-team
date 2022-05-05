@@ -15,7 +15,7 @@ Ideally, once QA Test Plan/Cases are mature and Product/Feature is stable/testab
 
 ### Important timings
 
-- **At least 2 Sprints (4 weeks) before opening Platform Staging Review request-ticket**: Product Manager (PM) opens [PTEMS-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=ptems-qa&template=ptems-qa-test-plan.md&title=%5BProduct%2FFeature%5D+PTEMS-QA+Test+Plan).
+- **At least 2 Sprints (4 weeks) before opening Platform Staging Review request-ticket**: Product Manager (PM) opens [PTEMS-QA Test Plan ticket][ptems-qa-test-plan-tic].
 - **At least 1 Sprint (2 weeks) before scheduling VSP Staging Review meeting**: PM notifies PTEMS-QA to schedule QA test-runs -- Platform requires all artifacts to be ready for review at least 4 workdays before the meeting.
 
 ### Important Application-Team artifacts
@@ -38,7 +38,7 @@ These artifacts should be ready before opening PTEMS-QA Test Plan ticket:
 
 The required steps of the Process are as follows:
 
-1. At beginning of Build phase, **minimum 2 sprints (4 weeks) before requesting [Platform Staging Review][platform-stg-rvw]**, **Application-Team PM opens a [PTEMS-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=ptems-qa&template=ptems-qa-test-plan.md&title=%5BProduct%2FFeature%5D+PTEMS-QA+Test+Plan)** to signal/start of test-planning:
+1. At beginning of Build phase, **minimum 2 sprints (4 weeks) before requesting [Platform Staging Review][platform-stg-rvw]**, **Application-Team PM opens a [PTEMS-QA Test Plan ticket][ptems-qa-test-plan-tic]** to signal/start of test-planning:
     - Add self (PM) to Assignees
     - Add links[^1] to relevant Product/feature docs/tickets:
         - Product/feature Outline
@@ -79,5 +79,6 @@ The required steps of the Process are as follows:
 
 - [Manual-UI Testing: Tips & Tricks][manual-tips-tricks]
 
-[manual-tips-tricks]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-testing-tips-tricks.md
 [platform-stg-rvw]: https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html
+[ptems-qa-test-plan-tic]: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=ptems-qa,ptems-qa-test-plan&template=ptems-qa-test-plan.md&title=%5BProduct%2FFeature%5D+PTEMS-QA+Test+Plan
+[manual-tips-tricks]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-testing-tips-tricks.md
