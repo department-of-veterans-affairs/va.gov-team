@@ -21,6 +21,7 @@ This document describes how to use the MHV Inherited Proofing VA.gov service. Th
  - [JWT RFC](https://datatracker.ietf.org/doc/html/rfc7519)
  - [JWS RFC](https://datatracker.ietf.org/doc/html/rfc7515)
 
+
 ## Overview
 - Vets-api passes the `auth_code` to the Login.gov service, which makes an authentication call to Login.gov, including the `auth_code` in the `inherited_proofing_auth` URL param.
 - As part of their account creation/signin process Login.gov will make an API call to `api.va.gov/inherited_proofing/user_attributes`. This call will include a JWT containing the `auth_code` and `exp`, signed with Login.gov's private key, and will be passed through the authorization header.
@@ -271,3 +272,12 @@ KQVnwOGdwFMokQxRxrXOFmVh8FjmyviEtU1XK1xXZ35VDX5w2ca2UZODzCiQRlbCOxpfcjkGrCan2AM4
  "ssn": "123456789"
 }
 ```
+
+
+### Additional Notes
+ - [Pull public cert from JWKS](https://8gwifi.org/jwkconvertfunctions.jsp). Strip the `{"keys":[` off the front of the value at the [login.gov JWKS URL](https://idp.int.identitysandbox.gov/api/openid_connect/certs) and `]}` off of the end. Paste the value into the website to get the public cert.
+ - The other option is to use this ruby method with the JWKS pulled from the login.gov certs site which could be used in a future iteration where we auto update the public cert from login.gov:
+ 	- `uri = URI.parse('https://idp.int.identitysandbox.gov/api/openid_connect/certs')`
+ 	- `response = JSON.parse(Net::HTTP.get_response(uri).body)`
+ 	- `jwk = response['keys'].first`
+ 	- `public_key = JWT::JWK::RSA.import(jwk).public_key`
