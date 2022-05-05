@@ -10,11 +10,6 @@
 - [ ] Review the responses and update the ticket with recommended touchpoints and practice area involvement.
 - [ ] Add project to the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 
-Skip to...
-- [VFS product information](#vfs-product-information)
-- [Kickoff questions](#kickoff-questions)
-- [Collaboration Cycle touchpoints](#collaboration-cycle-touchpoints)
-
 ## VFS product information
 - **Product Name:**
 - **Feature Name:**             <!-- If this is for a new product, please input, 'N/A' -->
