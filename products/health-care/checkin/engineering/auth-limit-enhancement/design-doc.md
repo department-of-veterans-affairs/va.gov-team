@@ -47,7 +47,7 @@ We will store the max authentication retry limit in AWS Parameter Store to avoid
 
 # 5. Overall Design
 
-![EnhanceAuthLimit.png](Authentication%20Limit%20Enhancement%20733885cad2f7400996d94137a68f9719/EnhanceAuthLimit.png)
+![EnhanceAuthLimit.png](./EnhanceAuthLimit.png)
 
 # 6. Release Process
 
