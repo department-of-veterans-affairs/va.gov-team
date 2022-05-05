@@ -92,29 +92,23 @@ Recommendations and improvements will be included in subsequent releases of the 
 
 ### Research Questions 
 
-Understand current experience that Veterans have with telephone appointments
-What pain points exist, if any? 
-
-
-Understand expectations of pre-check-in for Veterans with telephone appointments
-What type of tasks would these patients expect to complete (if any) prior to their appointments? 
-
-Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
-Do Veterans have a preference (if any) on when and how to fill out pre-check-in questions prior to their telephone appointment? 
-Does the Veteran understand the appointment will take place over the phone and not in-person?
-What expectations does a Veteran have about  when a provider will join a telephone appointment?
+- Understand current experience that Veterans have with telephone appointments
+  - What pain points exist, if any? 
+- Understand expectations of pre-check-in for Veterans with telephone appointments
+  - What type of tasks would these patients expect to complete (if any) prior to their appointments? 
+- Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
+  - Do Veterans have a preference (if any) on when and how to fill out pre-check-in questions prior to their telephone appointment? 
+  - Does the Veteran understand the appointment will take place over the phone and not in-person?
+  - What expectations does a Veteran have about  when a provider will join a telephone appointment?
 
 Conversation guide (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
 
 ### Hypothesis
 
-Hypothesis 1. Veterans will find it valuable to confirm their phone number before their appointment in the pre-check-in experience. 
-
-Hypothesis 2: Veterans will find it easy to have the pre-check-in experience integrated into the existing appointment notifications process. 
-
-Hypothesis 3: Veterans will understand their appointment is supposed to take place over the telephone and not in-person.
-
-Hypothesis 4. Veterans will find the day of check-in easier for telephone appointments with a pre-check-in experience that educates them on what to expect on the day of their appointment (e.g. their provider will call, and the Veteran may need to wait after the scheduled time). 
+- Hypothesis 1. Veterans will find it valuable to confirm their phone number before their appointment in the pre-check-in experience. 
+- Hypothesis 2: Veterans will find it easy to have the pre-check-in experience integrated into the existing appointment notifications process. 
+- Hypothesis 3: Veterans will understand their appointment is supposed to take place over the telephone and not in-person.
+- Hypothesis 4. Veterans will find the day of check-in easier for telephone appointments with a pre-check-in experience that educates them on what to expect on the day of their appointment (e.g. their provider will call, and the Veteran may need to wait after the scheduled time). 
 
 ### Method	
 
