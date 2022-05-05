@@ -209,7 +209,7 @@ We are using Perigean to recruit and will submit 1 FULL week prior to the start 
 
 The prototypes will be finalized and ready for testing: May 10 (UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)) 
  
-* Pilot participant email: [TBD]
+* Pilot participant email: Brian Seek (brian.seek@civicactions.com)
 * Date and time of pilot session: May 11 @ 1 p.m.
 
 ### Research sessions and Availability
@@ -230,7 +230,7 @@ Please allow a buffer time of 15 minutes between sessions.
 - Research guide writing and task development (usually but not always same as moderator): Nira Datta, Kristen McConnell
 - Participant recruiting & screening: Perigean
 - Project point of contact: Stephen Barrs (Stephen.Barrs@va.gov) and Patrick Bateman (patrick.bateman@va.gov)
-- Participant(s) for pilot test: [TBD]
+- Participant(s) for pilot test: Brian Seek (brian.seek@civicactions.com)
 - Note-takers: Perigean
 - Observers:	
   - Stephen Barrs (Stephen.Barrs@va.gov)
