@@ -105,6 +105,7 @@ scope :messaging do
   end
 end
 ```
+Naming conventions will also be documented on mobile documentation site. 
 ## Risks
 _What are the risks of the proposed changes?_
 Must throughly test new endpoints to ensure nothing breaks.
