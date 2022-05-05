@@ -84,7 +84,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 - How would you like to see the information displayed? (always visible or open as required)?
 - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - Talk to Did you notice the What do you think about the emphasis on Value (Name, DOB etc)? 
-- Imagine that you notice an error in the Service period on this page and you want to fix the mistake
+- Imagine that you notice an error in the Service hisstory on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What do you like/dislike the most about this page? Why?
