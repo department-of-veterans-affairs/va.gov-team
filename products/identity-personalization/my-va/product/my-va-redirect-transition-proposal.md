@@ -1,5 +1,7 @@
 # Proposal for evaluating the redirect from the homepage to My VA after login
 
+Last updated May 5, 2022
+
 ## Plan overview
 
 This is the high level proposal for evaluating how well My VA performs once we start redirecting users to it who login from the homepage. **This is not a plan for My VA to entirely replace the existing homepage**. Conversations on how to handle the VA.gov homepage in a logged-out vs. logged-in state are still ongoing.
@@ -90,3 +92,11 @@ This is the high level proposal for evaluating how well My VA performs once we s
 |Letter|TBD|TBD|TBD|TBD|
 |Benefit letter|TBD|TBD|TBD|TBD|
 |GI bill|TBD|TBD|TBD|TBD|
+
+### Medallia feedback
+
+**KPI**: There are few or no complaints about the redirect.
+
+|| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
+|----|-----------|-----------|-----------|-----------|
+|Redirect feedback|TBD|TBD|TBD|TBD|
