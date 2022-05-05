@@ -10,16 +10,13 @@ Welcome to the Identity folder. This directory contains information about user i
 
 
 **Sign-in Service Pilot**  
-_Current Status:_ Actively working on this.  Phase 1 done, starting on Phase 2 April 2022  
+_Current Status:_ Actively working on this.  Currently working on second phase of work.  
 We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
 
 **Inherited Proofing**  
-_Current Status:_ Research underway April 2022
+_Current Status:_ Initial research is done.  Next up is accessibility research.
 We are working to provide a framework for users to migrate from legacy Credential Service Providers such as MyHealtheVet to more modern providers such as Login.gov.  This includes tools to help users select a new CSP that meets their needs, as well as validating that users are eligible to migrate to these CSPs.  The goal of this work is to provide users a more uniform, secure experience across government services.
 
-**In-Person and Online Identity Proofing**  
-_Current Status:_ Planning  
-We hope to provide guidance to users who need to perform Identity Proofing, either Online or In-Person, so that they are able to better utilize VA.gov services.
 
 **Alerting Improvements**  
 _Current Status:_ Actively working on this  
