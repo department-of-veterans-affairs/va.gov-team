@@ -4,7 +4,7 @@
 
 This is the high level proposal for evaluating how well My VA performs once we start redirecting users to it who login from the homepage. **This is not a plan for My VA to entirely replace the existing homepage**. Conversations on how to handle the VA.gov homepage in a logged-out vs. logged-in state are still ongoing.
 
-- Start transition after the "Benefit payments & debts" module on My VA launches (target: late March/early April 2022).
+- Start transition after the "Benefit payments & debts" module on My VA launches (target for transition: June 2022).
 - For people who login **from the homepage**, redirect them to My VA instead of keeping them on the homepage. Launch this to 25% of users for ~1 week, then evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week.
 - Determine next steps/tweeks. If necessary, make updates and changes to My VA before next phase of launch.
 - Launch to 50% of users for ~1 week, then evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week.
