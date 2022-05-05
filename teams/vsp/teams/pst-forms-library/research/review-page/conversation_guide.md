@@ -53,7 +53,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 We are going to be looking at the burial benefits form today. As I mentioned, this is a prototype so it might not work the way you expect it to.
 
-*I want you pretend that you are applying for burial benefits form. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
+*I want you pretend that you are applying for burial benefits form. For the sake of this session, please assume that you are filling everything out withoug signing in. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
  
 ## Second Task: Review page design feedback (30minutes)
 
