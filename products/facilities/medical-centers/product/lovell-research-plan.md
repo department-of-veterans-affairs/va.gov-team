@@ -67,27 +67,27 @@ This research will help to determine whether the design solution is understood b
 
 ### Research questions
 
-<b>Research questions for VA beneficiaries</b>
+<b>Research questions for VA beneficiaries</b><br>
 Whether Veterans understand the informational alert and switching between beneficiary types.<br>
 
 Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) page.
-*You’ve arrived at this location page through a Google Search. As a Veteran, where would you go to navigate to the information that’s relevant to you?
+* You’ve arrived at this location page through a Google Search. As a Veteran, where would you go to navigate to the information that’s relevant to you?
 
 Starting on a [DoD register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
-*You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran, what is the first step you'd take to register for care?
+* You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran, what is the first step you'd take to register for care?
 
-<b>Research questions for TRICARE beneficiaries</b>
+<b>Research questions for TRICARE beneficiaries</b><br>
 Whether DoD service members understand the informational alert and switching between beneficiary types.<br>
 
 Starting on a [VA beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) page.
-*You’ve arrived at this location page through a Google Search. As an active duty service member, where would you go to navigate to the information that’s relevant to you?
+* You’ve arrived at this location page through a Google Search. As an active duty service member, where would you go to navigate to the information that’s relevant to you?
 
 Starting on a [VA register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
-*You Googled "Register for Care at Lovell VA" and landed on this page. As an active duty service member, what is the first step you'd take to register for care?
+* You Googled "Register for Care at Lovell VA" and landed on this page. As an active duty service member, what is the first step you'd take to register for care?
 
 Whether DoD service members understand that they are TRICARE beneficiaries.<br>
 Starting on a [VA beneficiary system page.](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
-*Does this page contain information that would be relevant to you as a service member?
+* Does this page contain information that would be relevant to you as a service member?
 
 ### Hypothesis
 
