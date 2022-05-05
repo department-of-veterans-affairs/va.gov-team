@@ -101,7 +101,7 @@ Recommendations and improvements will be included in subsequent releases of the 
   - Does the Veteran understand the appointment will take place over the phone and not in-person?
   - What expectations does a Veteran have about  when a provider will join a telephone appointment?
 
-Conversation guide (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
 
 ### Hypothesis
 
