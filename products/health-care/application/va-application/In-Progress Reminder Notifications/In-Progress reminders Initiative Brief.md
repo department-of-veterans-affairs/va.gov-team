@@ -1,4 +1,5 @@
 # Initiative Brief - In-Progress Reminder Notifications
+
 ## Outcome Summary
 
 Increase applicant returns and submissions of saved applications, while shortening the amount of time that an application remains in-progress.
@@ -30,11 +31,35 @@ The reminders will encourage the Veteran to submit the application in order to r
 ---
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+### Objective
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+
+**Key Result 1:** Reduce the number of In-Progress or Expired applications 
+
+Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| KPI/Metric  | Baseline | Target | Post-Launch
+|----------------|----------------|----------------|----------------|
+|Reduce # of apps in progress| TBD | TBD | TBD|
+|Reduce # of Expired applications| TBD | TBD | TBD|
+
+
+**Key Result 2:** Increase the number of In-Progress applications that are submitted within 7 days of starting it.
+
+Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| KPI/Metric  | Baseline | Target | Post-Launch
+|----------------|----------------|----------------|----------------|
+|Increase # of Saved In Progress applications submitted| TBD | TBD | TBD|
+
+
+**Key Result 3:** Reduce the number of sessions to submit an application
+
+Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| KPI/Metric  | Baseline | Target | Post-Launch
+|----------------|----------------|----------------|----------------|
+|Reduce # of sessions to submission| TBD | TBD | TBD |
 
 ---
 
@@ -44,38 +69,37 @@ The reminders will encourage the Veteran to submit the application in order to r
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The value risk is that applicants will ignore the reminders. They could also route these emails to their spam/junk folder without realizing what it is for.  
+  - There is also a risk that an email cannot be sent, if the Veteran’s profile does not include an email address.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - There is a risk that, if the applicant is routed to My VA (via a link in the email when there is more than one in-progress application), they can be confused as to why they were not routed to the application itself.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - API availability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+   - TBD
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
+  - Increase in applicant returns and submissions of in-progress applications
 
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
-
+In-scope:
+Reminder Email to be sent through VA Notify template process for applications that are still in progress
+Email will be sent using the profile ID of the logged in applicant
+Out of scope:
+Confirmation emails
+Any other email notifications
+Using data within the application (such as the email address entered)
+Applications started while unauthenticated, which would not be saved in progress
 --- 
 
 ## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+- ???? 2022: Complete QA
+- ???? 2022: Complete UAT
+- ???? 2022: Launched to ???% of users
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -86,8 +110,7 @@ The reminders will encourage the Veteran to submit the application in order to r
 ---
    
 ## Screenshots
-
-### Before
+No UI Changes.  See this [Sample email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/In-Progress%20Reminder%20Notifications/Content%20From%20VA%20Notify/Content%20sample.md) for the proposed template from VA Notify
 
 ### After
 
@@ -98,10 +121,10 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 <details>
 
-- Team Name: 
+- Team Name: 10-10 Health Apps team
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice, Mark Fallows
 
 </details>
 
@@ -111,11 +134,7 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO-DE
+- Contact(s): Lauren Alexanderson
  
 </details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
