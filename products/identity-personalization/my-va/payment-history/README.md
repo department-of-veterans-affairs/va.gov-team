@@ -4,7 +4,7 @@ Last updated May 5, 2022
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; profile
+- **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
