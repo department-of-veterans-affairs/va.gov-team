@@ -1,0 +1,34 @@
+"¿Tiene una cita? Regístrese con su teléfono inteligente."
+"1. Envíe "check in" por mensaje de texto al 53079"
+"O escanée este código con su cámara."
+"Al: 53079."
+"Mensaje: check in"
+"2. Espere a recibir un mensaje de texto de respuesta que incluirá un enlace. Esto solo debe tomar unos segundos."
+"3. Haga clic en el enlace para iniciar su registro. Pueden aplicar cargos de datos."
+"¿No puede escanear el código QR? Entonces envíenos un mensaje de texto. ¿Necesita actualizar su información? Entonces regístrese con un miembro del personal.
+
+
+"Hermano",
+"Yerno o nuera",
+"Hija",
+"Miembro de la familia extendida",
+"Padre",
+"Nieto o nieta",
+"Esposo",
+"Madre",
+"Sobrino o sobrina",
+"Hermana",
+"Hijo",
+"Hijastro o hijastra",
+"Amigo sin parentesco",
+"Tutor",
+"Esposa",
+
+"Este es un sistema automático que no está vigilado.  Si está haciendo una pregunta, llame a su instalación de VA."
+"Lo sentimos, pero nuestro sistema automatizado no pudo completar su registro para su cita de VA.  Proceda a la clínica para completar el registro con un miembro de nuestro personal."
+"Lo sentimos. No podemos completar el registro en línea. Pídale asistencia a un miembro del personal."
+"Nuestros archivos muestran que tiene una cita hoy. Puede completar el registro hasta ${process.env.CHECKIN_MINUTES_BEFORE} minutos antes de su cita. Inténtelo más tarde."
+"Lo sentimos. No pudimos encontrar una cita programada para usted hoy. Pídale asistencia a un miembro del personal o llámenos para obtener asistencia. Puede encontrar nuestro número de teléfono en: https://www.va.gov/find-locations/.” 
+"No tenemos este número de teléfono en nuestros archivos. Intente utilizar un número de teléfono móvil que esté en nuestros archivos. Si necesita más asistencia, pídasela a un miembro del personal o llámenos. Puede encontrar nuestro número de teléfono en: https://www.va.gov/find-locations/.”
+"Lo sentimos. No podemos completar el registro en línea. Necesitamos revisar su información de seguro médico con usted. Pídale asistencia a un miembro del personal."
+"Regístrese para su cita de VA en ${shortUrl}.”
