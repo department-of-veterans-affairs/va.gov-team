@@ -212,6 +212,10 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
 
 ## Sprint 74 (5/18 - 5/31)
 
+### PTO
+
+- **Liz**: 5/18 - 20; 1/2 day on 5/27; 5/31
+
 ### Onboarding
 
 - Onboard Erica #40106
@@ -235,6 +239,10 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
 - In the "nametag" element, what happens if someone is in Space Force? #40910
 
 ## Sprint 75 (6/1 - 6/14)
+
+### PTO
+
+- **Liz**: 6/1 - 6/6
 
 ## Sprint 76 (6/15 - 6/28)
 
