@@ -13,20 +13,19 @@ The reminders will encourage the Veteran to submit the application in order to r
 
 
 ## Desired User Outcomes
-
 - Shorten the time the application remains "in progress"
 - Fewer expired applications
 - More returns and submissions of saved applications
 
 ## Undesired User Outcomes
-- Frustration in overcomplicated notifications or too many notifications
-- More complex application workflow to get to "in progress" application
+- Frustration in receiving email notifications they did not want
 
 ## Desired Business Outcomes
 - Veterans are reminded of in progress applications and return to complete them
 
 ## Undesired Business Outcomes
 - Confusion on submission status that leads to more expired applications
+- Emails being ignored or sent to Spam/Junk folders without being read
 
 ---
 ## Measuring Success
