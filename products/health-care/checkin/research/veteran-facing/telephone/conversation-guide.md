@@ -18,7 +18,7 @@
 
 ### Project-specific setup
 
-- [ ] [UXPin Prototype]( will update when wireframes are finalized)
+- UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)
 
 ## Intro - 5 minutes
 
