@@ -21,6 +21,8 @@
   * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
   * AI - Work VHA Digital Media - How editors handle a "This is how to handle Domiciliary" "How to handle a Community Living Center" need to be added to KB
   * Audit to understand which ones are published in the CMS and hand it to VHA DIgital Media to cleanse.
+* V1 Rollout update
+
 
 ## Monday, May 2, 2022
 * V1 Rollout
