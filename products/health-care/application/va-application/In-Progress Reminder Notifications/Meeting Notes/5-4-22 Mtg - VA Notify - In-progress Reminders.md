@@ -38,7 +38,7 @@
      - Timeline: 1-2 sprints
      - Testing will need to be completed with both teams engagement, along with new use case of multiple apps in progress (since we would be the 2nd application to onboard to In-progress reminders)
 - 10-10 team to provide Metrics - In-progress applications for the month of April to compare after implementation
-     - Metrics are tracked in Domo by VA Notify team
+     - Metrics are tracked in [Domo by VA Notify team](https://va-gov.domo.com/page/2040841289?userId=228456075)
      - Metrics looking good so far, click-thrus 32% for 686 form
 
 ---
