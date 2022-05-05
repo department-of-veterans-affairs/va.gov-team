@@ -8,7 +8,11 @@ assignees: ''
 ---
 
 # Steps to complete Design Intent Collaboration
-
+### NOTICE:
+- This ticket is being deprecated 
+- It is intended solely for VFS teams who completed their collaboration cycle kickoff **before** the release of the collaboration cycle combined ticket.
+- Teams who completed kickoff **after** the combined ticket release date should use the new combined ticket. 
+- If you're unsure whether this applies to you, please ask in the [#platform-collaboration-cycle slack channel.](https://dsva.slack.com/archives/G01DXP10GCA) 
 ## Before meeting
 
 **VFS Product Manager or Designer**
