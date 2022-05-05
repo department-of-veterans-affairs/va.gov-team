@@ -1,11 +1,11 @@
 # Project outline: On-site notifications MVP
 
-Last updated May 3, 2022
+Last updated May 5, 2022
 
 ### Communications
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
-- **Slack channel**: vsa-authd-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
 
