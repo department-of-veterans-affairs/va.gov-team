@@ -64,10 +64,10 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 - What would you do when you get here in the application process?
 - What do you think is the purpose of this page?
     - Can you show me what you'd do next to accomplish that goal on this page?
-    - Please talk to me about how easy it is to review the information on this page (feedback about accordion design)? 
-    - How would you like to see the information displayed? (always visible or open as required)?
+    - Please talk to me about your experience reviewing the information on this page (feedback about accordion design)? 
+    - In terms of ease of use and to accomplish your goal - what is the best way to display the information displayed? (always visible or open as required)?
 
-- Imagine that you notice an error in your address - wrong door number and you want to fix the mistake
+- Imagine that you notice an error in the spelling of your last name and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What are your first impressions of this page?
@@ -83,7 +83,7 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 - How would you like to see the information displayed? (always visible or open as required)?
 - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
     - Talk to Did you notice the What do you think about the emphasis on Value (Name, DOB etc)? 
-- Imagine that you notice an error in the Service hisstory on this page and you want to fix the mistake
+- Imagine that you notice an error in the Service history on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - What do you like/dislike the most about this page? Why?
