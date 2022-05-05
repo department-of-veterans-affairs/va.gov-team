@@ -131,8 +131,8 @@ Research sessions will be conducted in 1 hour sessions over Zoom using a UXPin p
 
 ### Research Materials
 
-- Conversation guide (TBD)
-- Prototype (TBD) 
+- Conversation guide (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
+- Prototype (UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)) 
 	
 ## Recruitment	
 
