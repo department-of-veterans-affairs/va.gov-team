@@ -33,7 +33,7 @@ There is documentation from the platform on how to build a feature toggle [here]
 <details><summary>Testing a React widget</summary>
 <p>
 
- Once you have followed the steps for creating a React widget you most likely want to test it to make sure it works as intended. Since your React widget will be used on a static page it needs to be tested on a static page within the `content-build` repo
+ Once you have followed the steps for creating a React widget you most likely want to test it to make sure it works as intended. Since your React widget will be used on a static page it should be tested on a static page set up by the `content-build` repo. 
 
 </p>
 </details>
