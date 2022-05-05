@@ -65,8 +65,6 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
   - The value risk is that applicants will ignore the reminders. They could also route these emails to their spam/junk folder without realizing what it is for.  
@@ -81,14 +79,14 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 
 ### Solution Summary
-In-scope:
-Reminder Email to be sent through VA Notify template process for applications that are still in progress
-Email will be sent using the profile ID of the logged in applicant
-Out of scope:
-Confirmation emails
-Any other email notifications
-Using data within the application (such as the email address entered)
-Applications started while unauthenticated, which would not be saved in progress
+- In-scope:
+     - Reminder Email to be sent through VA Notify template process for applications that are still in progress
+     - Email will be sent using the profile ID of the logged in applicant
+- Out of scope:
+     - Confirmation emails
+     - Any other email notifications
+     - Using data within the application (such as the email address entered)
+     - Applications started while unauthenticated, which would not be saved in progress
 --- 
 
 ## Launch Planning
