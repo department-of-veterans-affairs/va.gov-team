@@ -54,8 +54,8 @@
 
 ### Mock Ups ###
 
-- [Multiple in Progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/Mutliple%20Forms%20In%20Progress%20Reminder.png)
-- [Single in Progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/Single%20Form%20In%20Progress%20Reminder.png)
+- [Multiple in Progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/Mutliple%20Forms%20In%20Progress%20Reminder.png)
+- [Single in Progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/Single%20Form%20In%20Progress%20Reminder.png)
 ---
 
 ## Assumptions
