@@ -104,7 +104,7 @@ Do Veterans have a preference (if any) on when and how to fill out pre-check-in 
 Does the Veteran understand the appointment will take place over the phone and not in-person?
 What expectations does a Veteran have about  when a provider will join a telephone appointment?
 
-Conversation guide (TBD)
+Conversation guide (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
 
 ### Hypothesis
 
@@ -218,7 +218,7 @@ The prototypes will be finalized and ready for testing: [TBD]
 * Pilot participant email: [TBD]
 * Date and time of pilot session: May 11 @ 1 p.m.
 
-### Research sessions
+### Research sessions and Availability
 
 We’d like to schedule user testing sessions May 12 - 17. 
 - May 12 8:00 a.m. - 5 p.m.
@@ -230,11 +230,6 @@ We’d like to schedule user testing sessions May 12 - 17.
 
 The sessions will be 1 hour in length. 
 Please allow a buffer time of 15 minutes between sessions. 
-Please schedule no more than 3 sessions a day. 
-
-### Availability
-
-TBD
 	
 ## Team Roles	
 - Moderator: Nira Datta, Kristen McConnell
