@@ -216,11 +216,15 @@ We are using Perigean to recruit and will submit 1 FULL week prior to the start 
 The prototypes will be finalized and ready for testing: [TBD] 
 
 * Pilot participant email: [TBD]
-* Date and time of pilot session: [TBD]
+* Date and time of pilot session: May 11 @ 1 p.m.
 
 ### Research sessions
 
-We’d like to schedule user testing sessions [date range]. 
+We’d like to schedule user testing sessions May 12 - 17. 
+- May 12 8:00 a.m. - 5 p.m.
+- May 13 8:00 a.m. - 5 p.m.
+- May 16 8:00 a.m. - 2:30 p.m.
+- May 17 8:00 a.m. - 2:30 p.m.
 
 ### Length of sessions
 
@@ -240,16 +244,16 @@ TBD
 - Participant(s) for pilot test: [TBD]
 - Note-takers: Perigean
 - Observers:	
-Stephen Barrs (Stephen.Barrs@va.gov)
-Martha Wilkes (Martha.Wilkes@va.gov)
-Ya-ching Tsao (yaching.tsao@civicactions.com)
-Zach Park (zach.park@agile6.com)
-Sarah Knopp (sarah.knopp@agile6.com)
-Lori Pusey (lori.pusey@agile6.com)
-Kristen McConnel (Kristen.McConnell@adhocteam.us)
-Adrian Rollett (adrian.rollett@agile6.com)
-Bethany Dunfield (bethany.dunfield@civicactions.com)
-Brian Seek (brian.seek@civicactions.com)
-Dan Goodwin (dan.goodwin@civicactions.com)
-Gaurav Gupta (ggupta@kindsys.us)
-Kanchana Suriyamoorthy (ksuriyamoorthy@kindsys.us)
+  - Stephen Barrs (Stephen.Barrs@va.gov)
+  - Martha Wilkes (Martha.Wilkes@va.gov)
+  - Ya-ching Tsao (yaching.tsao@civicactions.com)
+  - Zach Park (zach.park@agile6.com)
+  - Sarah Knopp (sarah.knopp@agile6.com)
+  - Lori Pusey (lori.pusey@agile6.com)
+  - Kristen McConnel (Kristen.McConnell@adhocteam.us)
+  - Adrian Rollett (adrian.rollett@agile6.com)
+  - Bethany Dunfield (bethany.dunfield@civicactions.com)
+  - Brian Seek (brian.seek@civicactions.com)
+  - Dan Goodwin (dan.goodwin@civicactions.com)
+  - Gaurav Gupta (ggupta@kindsys.us)
+  - Kanchana Suriyamoorthy (ksuriyamoorthy@kindsys.us)
