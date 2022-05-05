@@ -178,8 +178,6 @@ Whatever is not done from sprint 72, plus:
 
 ### My VA redirect
 
-- Samara -- Re-evaluate [this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/my-va-redirect-transition-proposal.md) to make sure it is up to date for this experiment
-
 ## Sprint 76 (6/15 - 6/28)
 [Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
