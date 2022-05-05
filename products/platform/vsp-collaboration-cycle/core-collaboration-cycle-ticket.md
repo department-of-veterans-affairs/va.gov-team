@@ -112,11 +112,17 @@ Examples of **research with VA.gov users** include:
 *Design artifacts*
 
 - Whiteboard sketch or other lo-fi prototypes or wireframes: 
-- User flow: 
 
 *IA artifacts*
 
 - User flow: 
+  
+*Research artifacts*
+  
+- Research plan: 
+  
+*Other*
+- Any other artifacts you have so far:
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Design Intent meeting
@@ -181,7 +187,7 @@ Examples of **research with VA.gov users** include:
  
 *Content artifacts*
   
-- Name of content of truth, for example, "Invision Prototypes": 
+- Your product’s content source of truth: 
 - Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable): 
 
 *QA artifacts*
@@ -236,6 +242,7 @@ Examples of **research with VA.gov users** include:
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
+- [ ] If this product contains any [experimental design](https://design.va.gov/experimental-design/), add the `experimental-design` label and schedule a meeting with DSC to present the research findings.
 - [ ] Add or update all requested artifacts below at least **four** days before the scheduled Staging Review
   
 **Staging Review artifacts**
@@ -243,7 +250,7 @@ Examples of **research with VA.gov users** include:
 *Product artifacts*
   
 - Release plan with the "Planning" sections completed:             <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
-- Staging URL and staging test-user information:                   <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
+- Staging URL and staging test user information:                   <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
   
 **Note:** Please double-check that you've provided staging access information appropriate for testing the tool or feature. Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 
