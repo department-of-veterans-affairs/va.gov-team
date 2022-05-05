@@ -57,9 +57,8 @@ Aging
 ## Research Goals	
 
 The primary goals of this research are to determine:
-* Whether Veterans understand the informational alert and switching between beneficiary types.
+* Whether participants notice and understand the informational alert and switching between beneficiary types.
 * Whether DoD service members understand that they are TRICARE beneficiaries.
-* Whether VA beneficiaries understand that TRICARE information isn’t right for them.
 
 ### Outcome
 
@@ -67,28 +66,39 @@ This research will help to determine whether the design solution is understood b
 
 ### Research questions
 
+# Research questions for VA beneficiaries
 Whether Veterans understand the informational alert and switching between beneficiary types.
+Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) page.
+* You’ve arrived at this location page through a Google Search. As a Veteran, where would you go to navigate to the information that’s relevant to you?
+
+Starting on a [DoD register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
+* You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran, what is the first step you'd take to register for care?
+
+# Research questions for TRICARE beneficiaries
+Whether DoD service members understand the informational alert and switching between beneficiary types.
+Starting on a [VA beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) page.
 * You’ve arrived at this location page through a Google Search. As an active duty service member, where would you go to navigate to the information that’s relevant to you?
 
-Whether Veterans understand that they are TRICARE beneficiaries.
-* You are a retired service member, 
+Starting on a [VA register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
+* You Googled "Register for Care at Lovell VA" and landed on this page. As an active duty service member, what is the first step you'd take to register for care?
 
-Whether VA beneficiaries understand that TRICARE information isn’t right for them.
-* You know that you’re looking for the Lovell VA Federal Health Care Center. As a VA beneficiary, are you on the page of information that’s directed to VA beneficiaries?
+Whether DoD service members understand that they are TRICARE beneficiaries.
+Starting on a [VA beneficiary system page.](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
+* Does this page contain information that would be relevant to you as a service member?
+  * NO - where would you go to find 
 
 ### Hypothesis
 
-We already know that Veterans are familiar with a location experience that does not separate out locations by the type of beneficiary you are.
+We already know that Veterans are familiar with a location experience that does not separate out locations by type of beneficiary.
 
-* I believe users will not recognize themselves as TRICARE beneficiaries, causing some confusion around what information is intended for them.
-* I believe that users will overlook the informational alert, causing them to miss the “switcher” functionality if they do end up on the location page for a different beneficiary.
-* I believe users will like the concept of the information being more clearly defined by their beneficiary type, making top tasks easier and more clear.
+* Users may not recognize themselves as TRICARE beneficiaries, causing some confusion around what information is intended for them.
+* Users may overlook the informational alert, causing them to miss the “switcher” functionality.
 
 Veterans are familiar with a location experience that does not separate the experience by beneficiary, and by doing so, it creates inconsistency in the experience and Veterans may not recognize the type of beneficiary they are.
 
 ## Method	
 Research Method:
-* Usability testing. Designs have been reviewed by the collaboration cycle, and this method will help to determine whether the designs are understood by Veterans.
+* User testing. Designs have been reviewed by the collaboration cycle, and this method will help to determine whether the designs are understood by Veterans.
 
 Includes task flows from specific starting points:
 * Lovell VA beneficiary system page (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i) 
@@ -100,7 +110,7 @@ Includes task flows from specific starting points:
 
 ### Location
 
-Research sessions will be held remotely using Zoom.
+Research sessions will be held remotely using Zoom, and will be recorded.
 
 ### Research materials
 
@@ -142,7 +152,7 @@ Using Perigean recruiting, we would like to schedule 20 participants to reach ou
 
 Design mock up is ready for testing.
 
-Please indicate the date and name of a mock participant for a pilot session. 
+Please indicate the date and name of a mock participant for a pilot session. (Perigean to schedule pilot session and participant.)
 * Pilot participant email:
 * Date and time of pilot session: 
 
@@ -169,6 +179,6 @@ Moderator: Val Runde<br>
 Research guide writing and task development (usually but not always same as moderator): Val Runde<br>
 Participant recruiting & screening: Perigean<br>
 Project point of contact: Val Runde<br>
-Participant(s) for pilot test: <br>
+Participant(s) for pilot test: Perigean<br>
 Note-takers: Perigean<br>
-Observers: Michelle Middaugh [optional] (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov)
+Observers: Michelle Middaugh [optional] (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov) [optional]
