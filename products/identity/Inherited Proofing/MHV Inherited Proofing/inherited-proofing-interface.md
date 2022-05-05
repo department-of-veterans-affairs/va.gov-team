@@ -275,7 +275,7 @@ KQVnwOGdwFMokQxRxrXOFmVh8FjmyviEtU1XK1xXZ35VDX5w2ca2UZODzCiQRlbCOxpfcjkGrCan2AM4
 
 
 ### Additional Notes
- - [Pull public cert from JWKS](https://8gwifi.org/jwkconvertfunctions.jsp). Strip the `{"keys":[` off the front of the value at the [login.gov JWKS URL](https://idp.int.identitysandbox.gov/api/openid_connect/certs) and `]}` off of the end. Paste the value into the website to get the public cert.
+ - [Pull public cert from JWKS](https://8gwifi.org/jwkconvertfunctions.jsp). Strip the `{"keys":[` off the front of the value at the [login.gov JWKS URL](https://idp.int.identitysandbox.gov/api/openid_connect/certs) and `]}` off of the end. Paste the value into [this website](https://8gwifi.org/jwkconvertfunctions.jsp) to get the public cert.
  - The other option is to use this ruby method with the JWKS pulled from the login.gov certs site which could be used in a future iteration where we auto update the public cert from login.gov:
  	- `uri = URI.parse('https://idp.int.identitysandbox.gov/api/openid_connect/certs')`
  	- `response = JSON.parse(Net::HTTP.get_response(uri).body)`
