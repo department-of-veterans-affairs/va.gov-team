@@ -23,4 +23,6 @@ _*Adding more, but details can be found here for now: [Non-OCTO author pilot.ppt
 
 2. **New targeted Resources and Support articles improve VA's visibility for relevant targeted information.** We'll know we've successed if VA's SEO ranking for relevant targeted keywords improves and individual pageviews increased from on-page interactions (ex. accordion clicks).
 
-3. 
+3. **The application conversion funnel for hubs increases as we implement content placement criteria strategy.** We'll know we've succeeded if we have an increase in application introduction pageviews coming from affected pages (about benefit, eligibility, how to apply) as well as new R&S pages and if we have an increase in completed applications. If we see an increase in pageviews without an increase in succesful completions, we'll conduct analytics and usability testing discovery to determine opportunities for improvement.
+
+4. 
