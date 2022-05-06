@@ -4,6 +4,7 @@
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-brief.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
+- [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/known-issues.md)
 
 ## Backlog & Roadmap
 - [Priorities](https://docs.google.com/document/d/1lo11HaGZzMvjcVYLFjmjeyiYTUuaim-z0bbtcrUtTYA/edit)
