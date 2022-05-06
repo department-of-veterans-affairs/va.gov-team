@@ -1,5 +1,5 @@
 # Caregivers Product Outline
-- GitHub Label: [#1010-team]
+- GitHub Label: 1010-team
 - Slack channel: #1010-health-apps
 - VA.gov link: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
 - Product POCs: 
@@ -111,7 +111,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-Note: as of 05/27, the program office has not made specific plans to release the online 10-10CG to the public. When they do, we'll reach out to CSCs and VSOs to broadcast the changes to the Caregiver community. 
+Note: as of 05/27/2020, the program office has not made specific plans to release the online 10-10CG to the public. When they do, we'll reach out to CSCs and VSOs to broadcast the changes to the Caregiver community. 
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
