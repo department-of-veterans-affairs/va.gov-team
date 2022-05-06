@@ -6,7 +6,7 @@ While current capacity limitations preclude direct involvement by PTEMS-QA in Re
 
 ## "Soft" requirement
 
-Regression test-plans and test-cases are QA artifacts desired by Platform Midpoint & Staging Reviews.  **These are currently "soft" requirements**, but only because of current resource/staffing limitations.  For now, Platform should be satisfied that Team Engineers are updating automated tests as changes are made, and all tests are auto-run regularly in CI.
+Regression test-plans and test-cases are QA artifacts desired by Platform for Midpoint & Staging Reviews.  **These are currently "soft" requirements**, but only because of current resource/staffing limitations.  For now, Platform should be satisfied that Team Engineers are updating automated tests as changes are made, and all tests are auto-run regularly in CI.
 
 ## What is regression testing?
 
