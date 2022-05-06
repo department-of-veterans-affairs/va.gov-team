@@ -1,63 +1,65 @@
 # Initiative Brief - 10-10EZ Household section redesign
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+
+The 10-10EZ is easier for applicants to understand and complete without having to exit the application.
+- Reduce drop-off/exit rates on the Household section pages
+- Increase application submissions
+
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
 
-<!--
+- During Discovery research we identified how difficult the Household section is for people to work through
+     - (examples: Pause to talk to spouse, have to find financial paperwork, need to finish taxes, etc.)
+- We have noticed a 12-month trend of drop-offs around the Financial Disclosure page (4%), the Annual Income page (5.2%) and Spouse page (6.9%).  
+     - it was first brought to our attention because it showed the highest drop-off rate
+- HEC team (especially Stacey) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
+
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Applicants will be better prepared to complete the application the first time
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Applicants will be more confused and unable to complete the application
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- Applications will be completed and submitted quicker
+- More applications that are started will be submitted in a single session
+- Drop-off/exit rates will decrease
 
 ## Undesired Business Outcomes
--->
+- The Household section will cause confusion for applicants
+- The drop-off/exit rates will not decrease
+- Application submissions will not increase
 
 ---
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+**Key Result #1:** Reduce drop-off/exit rate for the Household section pages by half.
+
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
+
+| Product KPI | 12mo Baseline | Target | Post-Launch |
+| —------------- | —---------| —-------| —-------------- |
+|Financial Disclosure page | 4% | 2% | TBD|
+|Spouse page | 6.9% | 3.5% | TBD|
+|Dependent page | 0% | 0% | TBD|
+|Annual Income page | 5.2% | 2.5% | TBD|
+| Deductible Expenses page | 1.4% | .75% | TBD|
+
+
+**Key Result #2:** Increase application submissions by 10%, and submissions within a single session by 5%
+
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
+
+| Product KPI | 12mo Baseline | Target | Post-Launch |
+| —------------- | —---------| —-------| —-------------- |
+|Application Submissions | 14% (114k)  | 25% | TBD|
+|Single-session Submissions | 70% (80k) | 75% | TBD|
 
 ---
 
@@ -67,44 +69,78 @@
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The Value risk is that some applicants may find the Household section confusing or complicated.
+     - Research sessions will be conducted to ensure we are making the appropriate, informed changes, as needed.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - The Usability Risk is similar to Value risk, in that a redesign could cause confusion or further complicate the section, causing more drop-offs.
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - API availability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - None at the time
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
+  - The positive impacts to the organization will be an increase in completed applications, and less call center activity requesting assistance with the Household section.
 
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
-
+- In-Scope
+     - Redesign/reorganization of the Household Section only
+     - Revisit content of questions, choice-answers and help text/drop-downs
+- Out-of-Scope
+     - Redesign of other sections of the application
+     - Removal or additions of questions within the section
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Kickoff ticket [#33468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33468)
+- Design Intent ticket [#33477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33477)
+- Content ticket [#34015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
+- Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
+- Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
+- Contact Center guide ticket [#38181](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38181)
+- Analytics - [Link Clicks Ticket #37589](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37589) and [API load success/fail Ticket #38739](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38739)
+- Staging ticket [#38376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38376)
+- Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
 
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+### Incident Response info
+A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
 
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+- Payments API: /v0/profile/payment_history
+     - Previously managed by the eBenefits team before 4/7/2022; Currently unsure who manages this
+          - OCTO-DE Lead: Matt Self
+- Debts API: /v0/debts
+     - Currently managed by the Debt resolution team 
+          - PM: Denise Coveyduc
+          - OCTO-DE Lead: Matt Self
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+---
+## Key deliverables
 
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
+- Design documentation
+- [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Household%20section%20redesign/Research)
+- Technical documentation
+- How to access and test
+    - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
+    - Testing documentation - TestRail
+    - Household section test/use cases & users
+    - Household section a11y test case documentation
+- Release plan
+- [Production env](https://www.va.gov/health-care/apply/application/introduction)
+
+
+### Key Dates
+
+- May 2022: Kickoff with outline & begin design
+- ???? 2022: Design work finalized
+- ???? 2022: Usability testing kickoff
+- ???? 2022: Finalize designs, development
+- ???? 2022: Complete QA
+- ???? 2022: Complete UAT
+- ???? 2022: Launched to ???% of users
+
 
 ---
    
@@ -140,10 +176,11 @@
 
 <details>
 
-- Team Name: 
+- Team Name: 10-10 Health Apps team
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Slack channel: #1010-health-apps
+- Product POCs: Heather Justice & Mark Fallows
+
 
 </details>
 
@@ -153,8 +190,9 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO-DE
+- Contact(s): Lauren Alexanderson
+
  
 </details>
 
