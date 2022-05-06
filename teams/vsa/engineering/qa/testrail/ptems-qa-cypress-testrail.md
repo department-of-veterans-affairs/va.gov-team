@@ -1,12 +1,12 @@
-# VSA-QA Cypress-TestRail integration
+# PTEMS-QA Cypress-TestRail integration
 
 ## Who should read this?
 
-- VSA F/E Engineers
+- PTEMS Front-End Engineers
 
 ## What is this?
 
-A custom Cypress reporter and process for reporting vets-website's **[Cypress E2E][vsp-e2e-testing]** test results to our **[TestRail][vsp-testrail]** (TR) test case management system (TCMS) -- currently using tlei123's **[cy-tr-reporter][cy-tr-reporter]**.
+A custom Cypress reporter and process for reporting vets-website's **[Cypress E2E][platform-e2e-testing]** test results to our **[TestRail][vsp-testrail]** (TR) test case management system (TCMS) -- currently using tlei123's **[cy-tr-reporter][cy-tr-reporter]**.
 
 The cypress-testrail-reporter makes some assumptions about your E2E files and TestRail test-cases:
 - **One TestRail test-case Section for each Cypress spec-file**: If you have 3 E2E spec-files, you should have 3 TestRail test-case Sections (aka Groups).
@@ -18,9 +18,9 @@ This might not be a perfect fit with our existing spec-files organization or rep
 
 ### Start with VSP-QA basic process
 
-First, read **[VSP-QA's basic process][vsp-cy-tr-reporter]** to get a general idea.  Then, read the VSA-QA help/tips below for more details.
+First, read **[Platform-QA's basic process][vsp-cy-tr-reporter]** to get a general idea.  Then, read the PTEMS-QA help/tips below for more details.
 
-### Continue with VSA-QA help/tips
+### Continue with PTEMS-QA help/tips
 
 Additional help info is provided below, to flesh-out the basic process.
 
@@ -37,22 +37,14 @@ Additional help info is provided below, to flesh-out the basic process.
 
 #### TestRail Project & Suite IDs
 
-- Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 key environment variables you'd need to set), just refer to the table below:
+- Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 key environment variables you'd need to set), just refer to the table below [info will be updated over the next few days as Testrail Admin updates projects there.]
   
   | VSA Product Team  | TestRail Project Name/Link | TestRail Project ID | TestRail Suite ID |
   | ------------- | ------------- | ------------- | ------------- |
-  | Authenticated Experience | [VSA-Authd-Exp][authd-exp-tr-proj]  | 4  | 5 |
-  | Claims & Appeals | [VSA-Claims-Appeals][claims-tr-proj]  | 5  | 6 |
-  | Caregiver | [VSA-Caregiver][caregiver-tr-proj] | 10  | 11 |
-  | Content & Localization | [VSA-Content-Localization][content-loc-tr-proj] | 34  | 183 |
-  | Debt Resolution | [VSA-Debt-Resolution][debt-tr-proj]  | 7  | 8 |
-  | Decision Tools  | [VSA-Decision-Tools][dcsn-tools-tr-proj] | 30 | 136 |
-  | eBenefits Migration | [VSA-eBenefits][eben-tr-proj] | 3 | 3 |
-  | Facilities | [VSA-Facilities][fac-tr-proj] | 6 | 7 |
-  | Healthcare Experience [aka Clipboard] | [VSA-Healthcare-Exp][healthcare-tr-proj] | 24 | 35 |
-  | Public Websites | [VSA-Public-Websites][pubweb-tr-proj] | 8 | 9 |
-  | Search & Discovery | [VSA-Search-Discovery][search-tr-proj] | 31 | 150 |
-  | VAMC | [VSA-VAMC][vamc-tr-proj] | 9 | 10 |
+  | 10-10 | [PTEMS-1010][caregiver-tr-proj] | 10  | 11 |
+  | Authenticated Experience | [PTEMS-Authd-Exp][authd-exp-tr-proj]  | 4  | 5 |
+  | Debt Resolution | [PTEMS-Debt-Resolution][debt-tr-proj]  | 7  | 8 |
+  
 
 - Since you're unlikely to switch TR projects, you can also save TR_PROJECTID & TR_SUITEID in your **Terminal or default-shell profile**. E.g:
   ```shell
@@ -143,16 +135,16 @@ A good example TR Run Name is `EX-e2e-LandingPage`, where EX is the acronym for 
 
 Be sure to filter your test-cases (set TR_INCLUDE_ALL to false).  Your TestRail project/suite also includes manual test-cases that need to be excluded from your test-runs.
 
-##### Follow VSP's prodecure to complete test-run calls
+##### Follow Plagform's prodecure to complete test-run calls
 
-Now, just follow VSP's instructions to [set environment variables][vsp-cy-tr-env-vars] & [invoke Cypress with custom reporter options][vsp-cy-tr-optns].
+Now, just follow Platform's instructions to [set environment variables][vsp-cy-tr-env-vars] & [invoke Cypress with custom reporter options][vsp-cy-tr-optns].
 
 The end result is a new TestRail Test Run in your Team's TestRail project, with pass/fail results of the linked Test Cases corresponding to your Cypress test results.
 
 ## See also
 [End-to-end testing](vsa-qa-e2e-testing.md)
 
-[vsp-e2e-testing]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end
+[platform-e2e-testing]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end
 [vsp-testrail]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail
 [cy-tr-reporter]: https://github.com/tlei123/cy-tr-reporter
 [vsp-cy-tr-reporter]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md
