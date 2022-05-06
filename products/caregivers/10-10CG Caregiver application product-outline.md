@@ -1,8 +1,8 @@
 # Caregivers Product Outline
-- GitHub Label: [#vsa-caregivers]
-- Slack channel: [#vsa-caregivers](https://dsva.slack.com/channels/vsa-caregivers)
+- GitHub Label: [#1010-team]
+- Slack channel: #1010-health-apps
 - VA.gov link: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
-- Product POCs: George Chewning
+- Product POCs: 
 ---
 
 ### Table of Contents
