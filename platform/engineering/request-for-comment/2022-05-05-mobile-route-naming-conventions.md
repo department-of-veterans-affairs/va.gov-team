@@ -86,6 +86,7 @@ delete '/user/emails', to: 'emails#destroy'
 post '/user/phones', to: 'phones#create'
 put '/user/phones', to: 'phones#update'
 delete '/user/phones', to: 'phones#destroy'
+get '/facilities-info/:sort', to: 'facilities_info#index'
 
 scope :messaging do
   scope :health do
