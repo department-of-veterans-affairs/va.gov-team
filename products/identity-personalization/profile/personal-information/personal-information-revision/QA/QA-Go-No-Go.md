@@ -24,5 +24,7 @@
 
 **Have we received approval on all content/copy?**
 
+- Yes
+
 **Have test users been reset to default/null state so that QA can proceed with testing?**
 
