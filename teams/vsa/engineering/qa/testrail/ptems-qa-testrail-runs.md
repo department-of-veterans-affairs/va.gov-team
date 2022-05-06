@@ -6,7 +6,7 @@
 
 ### VSP basic procedure
 
-The basic procedure for creating a Test Run in TestRail is outlined in [VSP's Creating a test run in TestRail page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/testrail/creating-a-test-run.md).  That page gives you step-by-step instructions to add a Test Run.
+The basic procedure for creating a Test Run in TestRail is outlined in [Platform's Creating a test run in TestRail page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/testrail/creating-a-test-run.md).  That page gives you step-by-step instructions to add a Test Run.
 
 ## Usage Tips
 
