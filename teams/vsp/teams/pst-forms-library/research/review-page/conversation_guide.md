@@ -1,8 +1,6 @@
 # Conversation Guide 
 - [Link to UXPin Prototype](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
-	- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
-	- [Link to Title emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
-	- [Link to Value emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941821/simulate/no-panels?mode=i)
+	- [Link to Open Accordion design variation]74f#/pages/149941821/simulate/no-panels?mode=i)
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md) <br>
 
@@ -48,20 +46,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Talk to me about when and how you usually verify information before submitting the form?
 - Please talk to me about your experience editing or correcting any entry on this page? 
 
+## Help the participant screenshare and open the prototype
 
 ## First Task: Walk through the form - 5 minutes
 
-We are going to be looking at the burial benefits form today. As I mentioned, this is a prototype so it might not work the way you expect it to.
+We are going to be looking at the burial benefits form today. I would like you to pretend that you are applying burial benefits for a Veteran who has passed away. Imagine that you have already filled out all the forms necessary. You are here to submit the form. Take a minute to look at this page and click on "Start your application without signing in" option at the botoom of this page. As I mentioned, this is a prototype so it might not work the way you expect it to.
 
-*I want you pretend that you are applying for burial benefits form. For the sake of this session, please assume that you are filling everything out without signing in. Please fill out this form with fake information. (Participant will fill out 3 pages in this form)* 
- 
 ## Second Task: Review page design feedback (30minutes)
 
 **Existing design**
 
-*Imagine that you filled out all the required information and you arrived at this page. Please take a couple of minutes to look at this page.*
+*As I mentioned earlier, we are pretending that you have filled our all the information and you arrived at this page. Please take a couple of minutes to look at this page.*
 
-- What would you do when you get here in the application process?
 - What do you think is the purpose of this page?
     - Can you show me what you'd do next to accomplish that goal on this page?
     - Please talk to me about your experience reviewing the information on this page (feedback about accordion design)? 
@@ -73,6 +69,8 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
     - What are your first impressions of this page?
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
 
+Please click on Continue. Moderator will direct which design to choose
+
 **(Note to the moderator - design variations will be show in different order for different participants to reduce bias)**
 
 **Design Variation with Value Emphasis**
@@ -82,12 +80,13 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
 - Talk to me about your first impression.
 - Please talk to me about your experience reviewing the information on this page (feedback about accordion design)? 
     - In terms of ease of use and to accomplish your goal - what is the best way to display the information displayed? (always visible or open as required)?
-- What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
-    - Talk to Did you notice the What do you think about the emphasis on Value (Name, DOB etc)? 
+- (If not already noticed by participant ask now) What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
 - Imagine that you notice an error in the Service history on this page and you want to fix the mistake
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+
+Please click on Continue. Moderator will direct which design to choose
 
 **Design Variation with Label Emphasis**
 
@@ -100,6 +99,8 @@ We are going to be looking at the burial benefits form today. As I mentioned, th
     - Where would you click to fix the mistake?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
     - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+
+Please click on Continue. Moderator will direct which design to choose
 
 **Design Variation with Open Accordion**
 
