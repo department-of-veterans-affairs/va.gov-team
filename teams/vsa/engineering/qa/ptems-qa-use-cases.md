@@ -1,6 +1,6 @@
 # Use Cases
 
-VSA Product Teams need to provide Use Cases to VSA-QA for test-case development.  Read about Use Cases in general, and follow the relevant best practices.
+PTEMS VA.gov Application Teams need to provide Use Cases to PTEMS-QA for test-cases development.  Read about Use Cases in general, and follow the relevant best practices.
 
 ## Who should read this?
 
@@ -41,13 +41,13 @@ In order for your Use Cases to be testable on Staging, certain details must be p
 
 ### Use the Use Cases template
 
-In the VSA-QA Test Plan ticket, you should include a link to your Use Cases documentation, use the [Use Cases doc template][use-cases-template]:
+In the PTEMS-QA Test Plan ticket, you should include a link to your Use Cases documentation &mdash; use the [Use Cases doc template][use-cases-template]:
 
 - Click the template's **Edit** button, then copy all the **Markdown content**.
 - Go to your Product Outline doc's folder, then add a **new .md file**.
-- Paste the **template's Markdown content** into your new file, then replace with your **product-/feature-specific info** [but keep the general format].
+- Paste the **template's Markdown content** into your new file, then replace placeholder-content with your **product-/feature-specific info** [but keep the general format].
 
-**NOTE**: Keep each Use Case's title-format a **heading** (`### Use Case A - ...` in Markdown syntax), like the template.  VSP requires each QA Test Case to be traceable to a single, corresponding Use Case, and the headings enable specific deep-linking to facilitate meeting this requirement.
+**NOTE**: Keep each Use Case's title-format a **heading** (e.g., `### Use Case A - ...` in Markdown syntax), like the template.  Platform requires each QA Test Case to be traceable to a single, corresponding Use Case, and the headings enable specific deep-linking to facilitate this.
 
 
 [use-cases-template]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md
