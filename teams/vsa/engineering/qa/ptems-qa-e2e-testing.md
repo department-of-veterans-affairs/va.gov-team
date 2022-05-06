@@ -1,4 +1,4 @@
-# VSA-QA End-to-end testing
+# PTEMS-QA End-to-end testing
 
 **[Work In Progress]**
 
@@ -19,16 +19,16 @@ End-to-end (e2e) testing on VA.gov specifically means automated browser testing.
 
 ### VSP basic documentation
 
-If you're brand-new to E2E testing, be sure to read [VSP's basic End-to-end testing docs][vsp-e2e-docs].  This VSA-specific documentation here _supplements_ that information.
+If you're brand-new to E2E testing, be sure to read [VSP's basic End-to-end testing docs][vsp-e2e-docs].  This PTEMS-specific documentation here _supplements_ that information.
 
 ### Regression testing
 
-Going forward, VSP-QA intends regression testing to become a more formal aspect of QA.  Currently, regression testing is informally included in e2e tests.  VSA- and VSP-QA will be looking to implement a process by which regression and new-feature tests can be separated/organized/managed.  We'll document process developments here as progress is made, and we'll also be reaching out to team engineers for input during our research/planning.
+Going forward, VSP-QA intends regression testing to become a more formal aspect of QA.  Currently, regression testing is informally included in e2e tests.  PTEMS- and Platform-QA will be looking to implement a process by which regression and new-feature tests can be separated/organized/managed.  We'll document process developments here as progress is made, and we'll also be reaching out to team engineers for input during our research/planning.
 
 
-## VSA-specific help
+## PTEMS-specific help
 
-Currently, e2e tests are reviewed by regular code-reviewers during pull-requests.  Going forward, VSA-/VSP-QA will also participate in e2e-test reviews in a more formal way, when capacity allows.
+Currently, e2e tests are reviewed by regular code-reviewers during pull-requests.  Going forward, PTEMS-/Platform-QA will also participate in e2e-test reviews in a more formal way, when capacity allows.
 
 Much of the help offered here is intended to improve e2e test-coverage, and to that end facilitate the future expansion of review-audience.  Test-coverage analyses should become easy and straightforward, even if done by non-Engineers or someone unfamiliar with your product/feature.
 
@@ -51,7 +51,7 @@ Much of the help offered here is intended to improve e2e test-coverage, and to t
 - [Cypress Flaky Tests][cy-flaky-tests]
 
 [vsp-e2e-docs]: https://depo-platform-documentation.scrollhelp.site/developer-docs/End-to-end-testing.1738965071.html
-[cy-tr-integration]: testrail/vsa-qa-cypress-testrail.md
-[cy-flaky-tests]: vsa-qa-cy-flaky-tests.md
+[cy-tr-integration]: testrail/ptems-qa-cypress-testrail.md
+[cy-flaky-tests]: ptems-qa-cy-flaky-tests.md
 
 
