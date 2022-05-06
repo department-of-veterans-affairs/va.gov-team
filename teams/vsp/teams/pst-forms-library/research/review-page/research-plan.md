@@ -43,8 +43,8 @@ This research will help us understand:
 - Which of the three Review page design options work best for Veterans  
 
 ### Hypothesis 
-Veterans prefer to quickly review all the information in the same Review page. <br>
-Veterans would prefer to edit any information that might need updating on the original page rather than the Review page. 
+Veterans find it easier to quickly review all the information in the same Review page. <br>
+Veterans find it easier to edit any information that might need updating on the original page rather than the Review page. 
 
 ## Method	
 We will conduct remote moderated usability studies using a high fidelity UXPin prototype. This round of research is focused on the mobile version of the designs.
@@ -84,9 +84,9 @@ Completion of 6 successful research session between May 9  - 18th
  
 May 4-5, 2022
 
-* Pilot participant email: TBD
-* Date and time of pilot session: May 4, 2022 time (TBD)
-* Any updates for the research plan, conversation guide, or prototype designs that come out of the May 3rd pilot session would be completed by EOD May 5th.
+* Pilot participant email: lauryl@adhocteam.us
+* Date and time of pilot session: May 5, 2022 time (2:45 - 3:45pm CST)
+* Any updates for the research plan, conversation guide, or prototype designs that come out of the May 5th pilot session would be completed by EOD May 6th.
 
 ### Research sessions
 May 9-18, 20222
