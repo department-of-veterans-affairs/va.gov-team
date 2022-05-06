@@ -65,8 +65,6 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
   - The Value risk is that some applicants may find the Household section confusing or complicated.
@@ -82,7 +80,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 
 ### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+
 - In-Scope
      - Redesign/reorganization of the Household Section only
      - Revisit content of questions, choice-answers and help text/drop-downs
@@ -93,7 +91,6 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket [#]()
 - Design Intent ticket [#]()
@@ -140,26 +137,41 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 ## Screenshots
 
 ### Before
-#### Financial Disclosure
+
+<details>
+     <Summary>Financial Disclosure</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976635-8c747dab-ee14-413d-81a7-13f002da02a9.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976704-2bca6994-f0be-48d8-8194-50de58213b23.png)
 
-#### Spouse's Information
+</details>
+     
+<details>
+     <Summary>Spouse's Information</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976490-855187d1-4fb0-40e5-a177-3a628b5721b2.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976527-9a9c19df-ea7f-45f9-84bb-9c66297525c4.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976570-2ef0287e-4aa3-477a-bcdb-55c531a66c9f.png)
 
-#### Dependents
+</details)
+     
+<details>
+     <Summary>Dependents</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976314-52243e8b-eee1-4dc6-854d-3cd9c2cd7a92.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976364-fceca993-a899-409a-9449-f212d28e1911.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976403-1fa3a8e1-7ba0-44c2-9d8b-d4f1f291b6bc.png)
 
-#### Annual Income
+</details)
+     
+<details>
+     <Summary>Annual Income</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976262-da588c52-0feb-4ec6-afc4-6cd7d8f15499.png)
 
-#### Deductable Expenses
+</details)
+     
+<details>
+     <Summary>Deductable Expenses</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976108-1a09cb42-a825-4b11-8454-042cd92c07f1.png)
 
+</details>
 ### After
 
 ---
