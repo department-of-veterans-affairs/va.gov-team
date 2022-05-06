@@ -140,8 +140,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 <details>
 <Summary>Financial Disclosure</Summary>
-![image](https://user-images.githubusercontent.com/92328831/166976635-8c747dab-ee14-413d-81a7-13f002da02a9.png)
-![image](https://user-images.githubusercontent.com/92328831/166976704-2bca6994-f0be-48d8-8194-50de58213b23.png)
+![FD1](https://user-images.githubusercontent.com/92328831/166976635-8c747dab-ee14-413d-81a7-13f002da02a9.png)
+![FD2](https://user-images.githubusercontent.com/92328831/166976704-2bca6994-f0be-48d8-8194-50de58213b23.png)
 
 </details>
      
