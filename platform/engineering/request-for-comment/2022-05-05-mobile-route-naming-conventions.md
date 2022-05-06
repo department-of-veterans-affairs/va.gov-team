@@ -7,7 +7,6 @@
 Mobile routes currently have some inconsistencies in their naming conventions, such as:
 - Sometimes using snake_case over kebab-case (maintenance_windows, message_drafts)
 - :ids are after the resource action rather than before (canceling appointments)
-- Referring to the same thing with different names (appointments: 'pending' and 'requests')
 - Not nesting under parent products (the 'health' and 'benefits' app)
 
 ## Motivation
