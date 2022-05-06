@@ -105,15 +105,9 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - Privacy & Security ticket [#]()
 
 ### Incident Response info
-A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
-
-- Payments API: /v0/profile/payment_history
-     - Previously managed by the eBenefits team before 4/7/2022; Currently unsure who manages this
-          - OCTO-DE Lead: Matt Self
-- Debts API: /v0/debts
-     - Currently managed by the Debt resolution team 
-          - PM: Denise Coveyduc
-          - OCTO-DE Lead: Matt Self
+- The 1010EZ form is currently in production; we are only changing the flow of the application's questions
+- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
 ---
 ## Key deliverables
