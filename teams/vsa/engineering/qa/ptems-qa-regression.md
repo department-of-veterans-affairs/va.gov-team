@@ -1,12 +1,12 @@
-# VSA-QA Regression Testing
+# PTEMS-QA Regression Testing
 
 **[WORK IN PROGRESS]**
 
-While current capacity limitations preclude direct involvement by VSA-QA in Regression Testing, here are some basic info for VSA Product Teams to consider.
+While current capacity limitations preclude direct involvement by PTEMS-QA in Regression Testing, here are some basic info for PTEMS VA.gov Application Teams to consider.
 
 ## "Soft" requirement
 
-Regression test-plans and test-cases are QA artifacts desired by VSP for QA practice-area review, as part of their [Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) collaboration-cycle checkpoint.  **These are currently "soft" requirements**, but only because of current resource/staffing reality.  For now, VSP should be satisfied that Teams are consciously keeping regression testing in mind when planning new-feature development.
+Regression test-plans and test-cases are QA artifacts desired by Platform Midpoint & Staging Reviews.  **These are currently "soft" requirements**, but only because of current resource/staffing limitations.  For now, Platform should be satisfied that Team Engineers are updating automated tests as changes are made, and all tests are auto-run regularly in CI.
 
 ## What is regression testing?
 
@@ -14,7 +14,7 @@ Basically, regression testing means testing the **existing** functionality of yo
 
 ## How does regression testing differ from our e2e automated testing?
 
-Product-team Engineers have already been doing regression testing as part of development workflows:
+Application-team Engineers have already been doing regression testing as part of development workflows:
   - For front-end, regression testing is already part of existing E2E-testing;
   - For back-end, regression testing is already part of existing API load-testing.
 
