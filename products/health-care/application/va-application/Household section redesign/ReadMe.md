@@ -139,36 +139,36 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 ### Before
 
 <details>
-     <Summary>Financial Disclosure</Summary>
+<Summary>Financial Disclosure</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976635-8c747dab-ee14-413d-81a7-13f002da02a9.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976704-2bca6994-f0be-48d8-8194-50de58213b23.png)
 
 </details>
      
 <details>
-     <Summary>Spouse's Information</Summary>
+<Summary>Spouse's Information</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976490-855187d1-4fb0-40e5-a177-3a628b5721b2.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976527-9a9c19df-ea7f-45f9-84bb-9c66297525c4.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976570-2ef0287e-4aa3-477a-bcdb-55c531a66c9f.png)
 
-</details)
+</details>
      
 <details>
-     <Summary>Dependents</Summary>
+<Summary>Dependents</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976314-52243e8b-eee1-4dc6-854d-3cd9c2cd7a92.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976364-fceca993-a899-409a-9449-f212d28e1911.png)
 ![image](https://user-images.githubusercontent.com/92328831/166976403-1fa3a8e1-7ba0-44c2-9d8b-d4f1f291b6bc.png)
 
-</details)
+</details>
      
 <details>
-     <Summary>Annual Income</Summary>
+<Summary>Annual Income</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976262-da588c52-0feb-4ec6-afc4-6cd7d8f15499.png)
 
-</details)
+</details>
      
 <details>
-     <Summary>Deductable Expenses</Summary>
+<Summary>Deductable Expenses</Summary>
 ![image](https://user-images.githubusercontent.com/92328831/166976108-1a09cb42-a825-4b11-8454-042cd92c07f1.png)
 
 </details>
