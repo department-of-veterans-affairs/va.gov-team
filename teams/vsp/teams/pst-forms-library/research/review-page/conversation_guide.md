@@ -1,6 +1,6 @@
 # Conversation Guide 
 - [Link to UXPin Prototype](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
-	- [Link to Open Accordion design variation]74f#/pages/149941821/simulate/no-panels?mode=i)
+- [Shorter URL](https://tinyurl.com/4j55skpx)	 
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md) <br>
 
