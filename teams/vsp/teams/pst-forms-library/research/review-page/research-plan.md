@@ -105,6 +105,6 @@ May 18, Wednesday - 12 - 5pm EST <br>
 - Research guide writing and task development: Kavitha Krishnan	<br>
 - Participant recruiting & screening: Perigian<br>
 - Project point of contact: Kavitha Krishnan	<br>	
-- Participant(s) for pilot test: TBD	<br>
+- Participant(s) for pilot test: Lauryl Zenobi	<br>
 - Note-takers: Brittany Iannuzzi (Brittany.Iannuzzi@adhocteam.us) <br>
 - Observers: Karen Taylor (Karen.taylor@adhocteam.us), Micah Chiang (micah@adhocteam.us), BJ McCotter (bj.mccotter@adhocteam.us), Harshil Moradia (harshil.moradia@adhocteam.us), Susanna Kline (susanna.kline@adhocteam.us), Nick Gaydosh (nick.gaydosh@adhocteam.us), Lauren Maxwell (lauren.maxwell@adhocteam.us)
