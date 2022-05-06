@@ -13,10 +13,10 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 ## Personal information page Alert
 
-- In-line warning alert below H1 heading. 
+- In-line warning alert above H1 heading. Check in with Josh on proper implementation.
 - Appears immediately upon logging into Profile. 
 
-- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
+- High-Fi Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
 
 ### Heading (H2):
 - Please update your mailing address
@@ -27,7 +27,8 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 ### Link:
 - Review and edit your address
 
-<img width="673" alt="Screen Shot 2022-03-15 at 9 39 48 AM" src="https://user-images.githubusercontent.com/79372956/159099448-e7184863-5987-45b9-bab9-2c441803c545.png">
+<img width="768" alt="Screen Shot 2022-05-06 at 10 42 02 AM" src="https://user-images.githubusercontent.com/79372956/167186188-f10295ae-77e1-4365-a09d-97ea9a2a3294.png">
+
 
 ## Contact information page alert
 
@@ -38,6 +39,7 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 ### Heading (H2):
 Please update your mailing address
+(Check in with Josh on this. Per his instructions - something might need to be done to the code here to make it ok that it is above H1)
 
 ### Body:
 We believe the address we have on file for you may no longer be valid.
@@ -47,26 +49,8 @@ If the address listed is correct, confirm it here.
 ### Button:
 Confirm my address
 
-<img width="633" alt="Screen Shot 2022-03-15 at 9 40 03 AM" src="https://user-images.githubusercontent.com/79372956/159099570-263bbd2e-c395-4c01-aaa8-e7d3bf605f7f.png">
+<img width="764" alt="Screen Shot 2022-05-06 at 10 44 01 AM" src="https://user-images.githubusercontent.com/79372956/167186918-a042f141-7513-4eb8-b03e-65319f0f57bc.png">
 
-## Confirmation Modal
-
-- There exists the possibility that a Veteran's mailing address could be flagged in error in the event of a USPS mistake (sent to wrong address), clerical error, or a scenario where a Veteran moves into/out of/back into the same location where the address is invalid for a short time, but later becomes valid (ex - lived with parents, moved out, moved back in). Using a modal, the UI also provides affordance for Veterans to confirm a flagged address is valid without actually making any changes to the address on file.
-
-- Appears after selecting "Confirm my address" in the Contact information alert
-
-- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Jndjrgk) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/4anlvKD)
-
-### Heading (H2):
-Confirm your mailing address
-
-### Body:
-Confirm that you want us to use this mailing address. Or, cancel to go back and edit it.
-
-### Button:
-Use this address
-
-<img width="701" alt="Screen Shot 2022-03-15 at 2 04 19 PM" src="https://user-images.githubusercontent.com/79372956/159099546-5651d2a8-bfea-4bfb-8721-0109890eef41.png">
 
 ## Email
 
