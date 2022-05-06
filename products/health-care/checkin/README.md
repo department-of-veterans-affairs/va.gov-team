@@ -14,7 +14,7 @@
 ## Releases 
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
 - [Release Calendar](https://app.mural.co/t/productroadmap8493/m/productroadmap8493/1646158266495/bbb274128498b767fe9ec11b265d671ea8dd8277?sender=ube752f684996d4b8cbe60611)
-- [Prod Validation List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
+- [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
 - [Feature Flags](https://api.va.gov/flipper/features)
 
 ## Process 
