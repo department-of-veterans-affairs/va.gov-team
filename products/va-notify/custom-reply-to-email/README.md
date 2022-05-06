@@ -1,4 +1,5 @@
 # Custom reply-to email address (no-reply)
+**Feature Available as of April 2022**
 
 ## Value Statement
 
