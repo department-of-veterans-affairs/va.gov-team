@@ -48,9 +48,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Help the participant screenshare and open the prototype
 
+Please shar your screen in Zoom by clicking the screen share option and selecting 'Share weburl'
+Readout the tiny url to the participant - https://tinyurl.com/4j55skpx 
+
 ## First Task: Walk through the form - 5 minutes
 
-We are going to be looking at the burial benefits form today. I would like you to pretend that you are applying burial benefits for a Veteran who has passed away. Imagine that you have already filled out all the forms necessary. You are here to submit the form. Take a minute to look at this page and click on "Start your application without signing in" option at the botoom of this page. As I mentioned, this is a prototype so it might not work the way you expect it to.
+We are going to be looking at the burial benefits form today. I would like you to pretend that you are applying burial benefits for a Veteran who has passed away. Imagine that you have already filled out all the necessary information. Take a minute to look at this page and click on "Start your application without signing in" option at the botoom of this page.  
 
 ## Second Task: Review page design feedback (30minutes)
 
