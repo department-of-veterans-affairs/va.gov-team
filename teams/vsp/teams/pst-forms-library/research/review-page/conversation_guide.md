@@ -48,8 +48,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Help the participant screenshare and open the prototype
 
-Please shar your screen in Zoom by clicking the screen share option and selecting 'Share weburl'
-Readout the tiny url to the participant - https://tinyurl.com/4j55skpx 
+Please shar your screen in Zoom by clicking the screen share option and selecting 'Share weburl'. Readout the tiny url to the participant - https://tinyurl.com/4j55skpx 
 
 ## First Task: Walk through the form - 5 minutes
 
