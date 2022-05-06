@@ -1,4 +1,4 @@
-_First review at midpoint review - May 3rd_
+_First review at midpoint review - May 3rd, 2022_
 
 # Research Plan for The Debt Resolution Team, Combined VA Debt Portal, May 2022 
 
