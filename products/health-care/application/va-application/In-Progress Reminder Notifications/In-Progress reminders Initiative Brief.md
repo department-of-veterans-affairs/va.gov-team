@@ -39,7 +39,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|Reduce # of apps in progress| TBD | TBD | TBD|
+|Reduce # of apps in progress over 7 days| TBD | TBD | TBD|
 |Reduce # of Expired applications| TBD | TBD | TBD|
 
 
@@ -52,13 +52,13 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 |Increase # of Saved In Progress applications submitted| TBD | TBD | TBD|
 
 
-**Key Result 3:** Reduce the number of sessions to submit an application
+**Key Result 3:** Increase the number of returning applicants as a result of the email link
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|Reduce # of sessions to submission| TBD | TBD | TBD |
+|# of Click-thrus on email link | N/A | TBD | TBD |
 
 ---
 
