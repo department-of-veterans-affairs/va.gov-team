@@ -9,13 +9,13 @@
 
 ## Why create a Test Plan?
 
-The only way to create cross-device/-browser Test Runs is to first create a Test Plan.  When you Add a Test Run into a Test Plan, you can select **Configurations** for the Run -- configurations are devices/browsers you define for your TestRail project.  For VSA projects, VSA-QA has already created Configurations.
+The only way to create cross-device/-browser Test Runs is to first create a Test Plan.  When you Add a Test Run into a Test Plan, you can select **Configurations** for the Run -- configurations are devices/browsers you define for your TestRail project.  For PTEMS projects, PTEMS-QA has already created Configurations.
 
 ## Getting started
 
 ### VSP basic procedure
 
-The basic procedure for creating a Test Plan in TestRail is shown in [VSP's Create a Test Plan video](https://drive.google.com/file/d/1v5KIR3KJHkypfm7QJje0O7xo6aEtcCaC/view). That video shows you how to create an empty Test Plan.
+The basic procedure for creating a Test Plan in TestRail is shown in [Platform's Create a Test Plan video](https://drive.google.com/file/d/1v5KIR3KJHkypfm7QJje0O7xo6aEtcCaC/view). That video shows you how to create an empty Test Plan.
 
 ## Usage Tips
 
@@ -30,8 +30,6 @@ When you creating/editing a Test Plan, click **Add Test Run(s)** at the top of t
 ### Select Configurations for Test Runs
 
 After adding a Test Run to your Test Plan, click **Configurations** next to the Test Run title, then select the devices/browsers you need for the Run.
-
-[See Test Plan & Test Run video](https://governmentcio.sharepoint.com/:v:/r/sites/VSATeam/Shared%20Documents/Engineering/QA/QA-shared/TestRail/Videos/tr-plan-run-config.mp4?csf=1&web=1&e=inL8zR) [requires GCIO SharePoint access]
 
 
 [tr-plan-add-run]: ../images/tr-plan-add-run.png
