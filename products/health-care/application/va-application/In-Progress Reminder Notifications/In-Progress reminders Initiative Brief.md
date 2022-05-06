@@ -30,7 +30,7 @@ The reminders will encourage the Veteran to submit the application in order to r
 ---
 ## Measuring Success
 
-### Objective
+### Objective: Veterans return to successfully submit their in-progress applications.
 
 
 **Key Result 1:** Reduce the number of In-Progress or Expired applications 
