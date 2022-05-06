@@ -95,15 +95,14 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket [#33468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33468)
-- Design Intent ticket [#33477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33477)
-- Content ticket [#34015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
-- Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
-- Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
-- Contact Center guide ticket [#38181](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38181)
-- Analytics - [Link Clicks Ticket #37589](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37589) and [API load success/fail Ticket #38739](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38739)
-- Staging ticket [#38376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38376)
-- Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
+- Kickoff ticket [#]()
+- Design Intent ticket [#]()
+- Content ticket [#]()
+- Midpoint ticket [#]()
+- Contact Center guide ticket [#]()
+- Analytics ticket [#]()
+- Staging ticket [#]()
+- Privacy & Security ticket [#]()
 
 ### Incident Response info
 A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
