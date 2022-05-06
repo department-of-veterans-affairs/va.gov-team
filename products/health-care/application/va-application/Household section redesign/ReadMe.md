@@ -44,7 +44,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
 | Product KPI | 12mo Baseline | Target | Post-Launch |
-| —------------- | —---------| —-------| —-------------- |
+|------------- |---------|-------|-------------- |
 |Financial Disclosure page | 4% | 2% | TBD|
 |Spouse page | 6.9% | 3.5% | TBD|
 |Dependent page | 0% | 0% | TBD|
@@ -57,7 +57,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
 | Product KPI | 12mo Baseline | Target | Post-Launch |
-| —------------- | —---------| —-------| —-------------- |
+|------------- |---------|-------|-------------- |
 |Application Submissions | 14% (114k)  | 25% | TBD|
 |Single-session Submissions | 70% (80k) | 75% | TBD|
 
