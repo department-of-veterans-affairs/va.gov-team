@@ -1,7 +1,5 @@
 # Test Cases
 
-**[WORK IN PROGRESS]**
-
 Read about Test Cases in general, and follow the relevant best practices.
 
 [See also [TestRail help][tr-readme] for TestRail-specific test-case topics.].
@@ -17,7 +15,7 @@ Test Cases are for verifying a discreet system behavior, whereas Use Cases are f
 Use Cases are among the first development artifacts to be documented, before the product/feature build starts.  As such, Use Cases outline overall user scenarios/journeys/outcomes, without final implementational details.  Test Cases are later developed from the completed Use Cases, after the build has completed, and thus enumerate exact preconditions, steps, and expected results.
 
 <details>
-  <summary>Case contents comparison [expand/collapse]</summary>
+  <summary>Case contents comparison [click to expand/collapse]</summary>
 
 | Test Cases      | Use Cases       |
 | --------------- | --------------- |
@@ -26,6 +24,8 @@ Use Cases are among the first development artifacts to be documented, before the
 | **Specific test results**. E.g: "Browser displays edited Routing number, Bank name, Account number.  Content/layout matches [this copy-deck/design-screen]."   | **General task outcomes**. E.g: "User sees his/her bank info has been updated." |
 
 </details>
+
+For more on Use Cases, see [this doc][ptems-qa-use-cases].
 
 ## Test Case best practices
 
@@ -38,7 +38,7 @@ Each Test Case should be standalone, runnable by itself.  It should not depend o
 A Test Case's Preconditions should include all context details to ensure a consistent start.  They're circumstances that must always be established before performing the Steps.  Whether any of these preconditions require action depends on whether they've already been met.  That's why they're separate from Steps.
 
 <details>
-  <summary>Here are some examples: [expand]</summary>
+  <summary>Here are some examples: [click to expand/collapse]</summary>
 
 - Unauthenticated / Test-account
 - Entry URL
@@ -55,7 +55,7 @@ In other words, a Test Case's Preconditions  They're different from a Test Case'
 A Test Case's Steps should be written to enable the fastest execution-time possible.  They should only include interactive instructions.  They should not have any non-actionable content that hampers quick comprehension/action.  Testers must typically run the same Test Case against 8-12 browsers/devices, and any time wasted reading fluff would multiply quickly.
 
 <details>
-  <summary>Some tips: [expand]</summary>
+  <summary>Some tips: [click to expand/collapse]</summary>
 
 - **Use short, succinct directions**.  Say only what needs to be done.  E.g., instead of "click to select the **Yes** answer," say "Click **Yes**."
 - **Use wording that enables quick action**.  For element locations, start high-level, then drill-down -- think the oppositie of a mailing address.  E.g., instead of "Click the link at the end of the 2nd sentence of the 3rd paragraph...", say "In **paragraph 3**, at end of **sentence 2**, click **link**."
@@ -69,4 +69,4 @@ Copy decks, design screens, and other references in Expected Results should be p
 
 
 [tr-readme]: testrail/README.md
-[vsa-qa-use-cases]: ./vsa-qa-use-cases.md
+[ptems-qa-use-cases]: ./ptems-qa-use-cases.md
