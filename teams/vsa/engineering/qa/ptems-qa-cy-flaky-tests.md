@@ -8,15 +8,15 @@ occur on your local machine.
 
 ## Start with Platform documentation first
 
-You should FIRST consult [Platform's Flaky Tests Management
-doc][platform-flaky-tests]. That doc is the "central" documentation for ALL teams,
+You should FIRST consult [Platform's Flaky Tests Management][platform-flaky-tests]
+doc. That doc is the "central" documentation for ALL teams,
 not just PTEMS. Sections here on this page will be incrementally moved to
 Platform's doc, as Platform-team capacity permits. Whatever's still here is
 supplemental to that central doc.
 
 ## How to minimize flakes
 
-Here are some Cypress best-practices to minimize flaky E2E tests.
+Here are some _additional_ Cypress best-practices to minimize flaky E2E tests.
 
 ### Organize your intercepts
 
