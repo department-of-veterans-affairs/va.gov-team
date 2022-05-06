@@ -8,7 +8,7 @@ An initial email blast will go out to Veterans with flagged addresses. Following
 - [Contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#contact-information-page-alert)
 - [Email content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#email)
 
-Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
+Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/wLqqgOp) _Note: Mockups begin with Personal information alert. View Contact information alert and states by arrowing right._
 
 --------
 
@@ -17,7 +17,7 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 - In-line warning alert above H1 heading. Check in with Josh on proper implementation when adding above H1. Per his instructions - something might need to be done to the code here to make it ok that it is above H1.
 - Appears immediately upon logging into Profile. 
 
-- High-Fi Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
+- High-Fi Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4)
 
 ### Heading (H2):
 - Review your mailing address
@@ -39,18 +39,18 @@ Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 - In-line warning alert in mailing address field, below “Mailing.” 
 - Appear immediately upon arriving on Contact info page.
 
-- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/v8nO2w3) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgnMrQ5)
+- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
 ### Main alert
-Takes user to Mailing address field. Ask accessibility where focus should go.
+- Takes user to Mailing address field. Ask accessibility where focus should go.
 
 #### Heading (H2):
-Review your mailing address
+- Review your mailing address
 
 #### Body:
 - The address we have on file for you may not be correct. To change or confirm your address, select **Edit**. Once you've changed your address, or if it's already correct, select **Update** to confirm.
 
-_Note: Edit and Update are **bold**.
+_Note: Edit and Update are **bold**._
 
 #### Jump Link:
 - Review your mailing address
@@ -58,12 +58,36 @@ _Note: Edit and Update are **bold**.
 <img width="664" alt="Screen Shot 2022-05-06 at 11 11 06 AM" src="https://user-images.githubusercontent.com/79372956/167194327-040ed284-7e4a-4b1d-bbee-a7eebb9e7dce.png">
 
 ### In-line Warning Alert
-Appears within Mailing address field directly uner hint text.
+- Appears within Mailing address field directly below hint text.
 
 #### Text
 - Review your address.
 
 <img width="660" alt="Screen Shot 2022-05-06 at 11 07 59 AM" src="https://user-images.githubusercontent.com/79372956/167193911-ddb4eb93-0b5b-4220-ad2e-7ae176b05717.png">
+
+### Edit state with warning
+- Warning alert remains in Mailing address field below hint text.
+
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/25aaz55) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/L0mmL3d)
+
+<img width="657" alt="Screen Shot 2022-05-06 at 11 25 48 AM" src="https://user-images.githubusercontent.com/79372956/167196778-89ed23f2-1863-4a5c-9886-ce9052881273.png">
+
+
+### Error  
+- Warning alert disappears. Error alert appears above Update/Cancel buttons.
+
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/MyDD9ym) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yoov38)
+
+<img width="656" alt="Screen Shot 2022-05-06 at 11 26 09 AM" src="https://user-images.githubusercontent.com/79372956/167196745-4ccff6ae-11ad-4032-8194-24b79f42d8aa.png">
+
+
+### Success
+- Screen returns to read-only state. Success alert appears above Update/Cancel buttons
+
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgJJkgO) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/ygEE2DA)
+
+<img width="655" alt="Screen Shot 2022-05-06 at 11 26 25 AM" src="https://user-images.githubusercontent.com/79372956/167196811-92aa2cd4-e7f4-4f77-81e5-232bcd19a17a.png">
+
 
 --------
 
