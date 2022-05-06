@@ -56,9 +56,6 @@ Remote research using Zoom.
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md) 
 - [Link to UXPin Prototyoe](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
-	- [Link to Open Accordion design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941169/simulate/no-panels?mode=i)
-	- [Link to Title emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941170/simulate/no-panels?mode=i)
-	- [Link to Value emphasis design variation](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149941821/simulate/no-panels?mode=i)
 
 	
 ## Recruitment	
@@ -72,7 +69,6 @@ Please schedule a total of 12 Veterans for an expected completion rate of 6 stud
 - We are testing a mobile prototype, so all participants should call in or be able to use their mobile device to complete the session
 - Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
 
-
 **Secondary criteria (nice-to-haves)** <br>
 - At least 2 participants who identify as women<br>
 - Atleast 2 participants over the age of 55<br>
@@ -82,7 +78,7 @@ Completion of 6 successful research session between May 9  - 18th
 
 ### Prepare
  
-May 4-5, 2022
+May 5-6, 2022
 
 * Pilot participant email: lauryl@adhocteam.us
 * Date and time of pilot session: May 5, 2022 time (2:45 - 3:45pm CST)
