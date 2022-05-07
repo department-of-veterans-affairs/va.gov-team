@@ -1,14 +1,16 @@
 # Use Cases
 
-PTEMS VA.gov Application Teams need to provide Use Cases to PTEMS-QA for test-cases development.  Read about Use Cases in general, and follow the relevant best practices.
+PTEMS VA.gov Application Teams need to provide Use Cases to PTEMS-QA for test-cases development.  Read here about Use Cases in general, and follow the relevant best practices.
+
+Although required only as Platform Staging Review approaches, documented Use Cases _should_ be in place at the _start_ of Build phase.  This _central_ repository of basic requirements will help guide implementation work, by ensuring a common understanding of needs & expectations across all team-members.
 
 ## Who should read this?
 
 - All Product-Team members:
-  - **Product Managers** to plan & coordinate Use-Cases development work.
-  - **Designers** to flesh out the Cases' general User journey, and develop supporting Design reference(s).
-  - **Front-End Engineers** to assist Designer [as needed] in fleshing out any UI-behavior/-flow differences between Cases.
-  - IF any Cases require authentication, **Back-End Engineers** to specify Staging test-accounts and develop supporting Staging-API mock-data.
+  - **Product Managers** &mdash; plan & coordinate Use-Cases development work.
+  - **Designer** &mdash; flesh out the Cases' general User journey, and develop supporting Design reference(s).
+  - **Front-End Engineer** &mdash; assist Desinger in identifying specific UI-behavior/-flow differences between Cases.
+  - **Back-End Engineers** &mdash; indentify Staging test-accounts for the Cases, and develop matching Staging-API mock-data.
 
 ## Use Cases are NOT Test Cases
 
@@ -41,10 +43,10 @@ In order for your Use Cases to be testable on Staging, certain details must be p
 
 ### Use the Use Cases template
 
-In the PTEMS-QA Test Plan ticket, you should include a link to your Use Cases documentation &mdash; use the [Use Cases doc template][use-cases-template]:
+To create your Use-Cases doc, use the [Use Cases doc template][use-cases-template]:
 
 - Click the template's **Edit** button, then copy all the **Markdown content**.
-- Go to your Product Outline doc's folder, then add a **new .md file**.
+- Go to your Product-Outline doc's folder, then add a **new .md file**.
 - Paste the **template's Markdown content** into your new file, then replace placeholder-content with your **product-/feature-specific info** [but keep the general format].
 
 **NOTE**: Keep each Use Case's title-format a **heading** (e.g., `### Use Case A - ...` in Markdown syntax), like the template.  Platform requires each QA Test Case to be traceable to a single, corresponding Use Case, and the headings enable specific deep-linking to facilitate this.
