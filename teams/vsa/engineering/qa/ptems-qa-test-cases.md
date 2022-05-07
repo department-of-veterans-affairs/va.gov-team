@@ -1,12 +1,11 @@
 # Test Cases
 
-Read about Test Cases in general, and follow the relevant best practices.
-
-[See also [TestRail help][tr-readme] for TestRail-specific test-case topics.].
+Read about Test Cases in general, and follow the relevant best practices.  We store and maintain our test-cases in TestRail, VA.gov's test case management system (TCMS) of record.  [See [TestRail help][tr-readme] for TestRail-specific test-case topics.]
 
 ## Who should read this?
 
-- Anyone creating Test Cases in TestRail -- QA Engineer or Product-Team member "deputized" to create Test Cases.
+- QA Engineer
+- Any Application-Team member "deputized" to create test-cases in TestRail.
 
 ## Test Cases are not Use Cases
 
@@ -31,14 +30,14 @@ For more on Use Cases, see [this doc][ptems-qa-use-cases].
 
 ### A Test Case should be independent
 
-Each Test Case should be standalone, runnable by itself.  It should not depend on the result of any other Test Case.  It should have everything required to establish the starting context, execute the task, and verify the final expectation.
+Each Test Case should be standalone, runnable by itself.  It should not depend on the result of any other Test Case.  It should have everything required to establish the starting context/state, execute the interaction steps, and verify the expectated result.
 
 ### Preconditions should ensure consistent start
 
 A Test Case's Preconditions should include all context details to ensure a consistent start.  They're circumstances that must always be established before performing the Steps.  Whether any of these preconditions require action depends on whether they've already been met.  That's why they're separate from Steps.
 
 <details>
-  <summary>Here are some examples: [click to expand/collapse]</summary>
+  <summary>Here are some example items: [click to expand/collapse]</summary>
 
 - Unauthenticated / Test-account
 - Entry URL
@@ -65,7 +64,7 @@ A Test Case's Steps should be written to enable the fastest execution-time possi
 
 ### Expected-Result references should be hyperlinked
 
-Copy decks, design screens, and other references in Expected Results should be provided as hyperlinks.  File attachments and screenshots, while not unacceptable, are prone to falling out of date.  It's also much quicker and easier to copy-n-paste links than to download-/capture-n-attach files/screenshots.
+Copy decks, design screens, and other references in Expected Results should be provided as hyperlinks.  File attachments and screenshots, while not unacceptable, are prone to falling out of date and difficult to maintain.
 
 
 [tr-readme]: testrail/README.md
