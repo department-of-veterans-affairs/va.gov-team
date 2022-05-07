@@ -1,23 +1,21 @@
 # TestRail help
 
-**[WORK IN PROGRESS]**
-
-Get help on using TestRail the PTEMS way!
+Get info on using TestRail the PTEMS way!
 
 ## Who should read this?
 
 - QA Engineer
-- Anyone who need to create Test Plan/Runs/Cases in TestRail.
+- Anyone "deputized" to create Test Plan/Runs/Cases in TestRail.
 
 ## What is TestRail (TR)?
 
-TestRail (TR) is a test case management system (TCMS).  It's our VA.gov system-of-record for test planning, test case development, and test execution/reporting.  Platform's vision for TR is a one-stop-shop for documentating all things testing.  Currently, it's used mostly for manual UI testing, but going forward we're intending it to also support automated testing as well.
+TestRail (TR) is the test case management system (TCMS).  It's our VA.gov system-of-record for test planning, test cases development/maintenace, and test-results reporting.  Platform's vision for TR is a one-stop-shop for documentating all things testing.  Currently, it's used mostly for manual-UI testing, but going forward we're intending it to also support automated testing as well.
 
 ## Who uses TestRail?
 
 - **PTEMS-QA**: Most of the time, QA is the main user of TR.  That said, however, staffing/capacity limitations prevent PTEMS-QA from supporting all testing needs of PTEMS Product Teams all the time.
 - **PTEMS Product Managers**: PMs regularly access TR to check test results/reports, especially in prep for Platform Staging Reviews.  Occasionally, when PTEMS-QA's overbooked, PMs may need to "deputize" themselves to create/schedule Test Plans/Runs/Cases/Reports directly in TR.
-- **PTEMS Designers/Engineers**: Desingers/engineers regularly access TR to validate Test Cases created by PTEMS-QA.  Very occasionally, when PTEMS-QA's overbooked, PTEMS Designers and Engineers may need to "deputize" themselves to conduct Test Runs and report results directly in TR.
+- **PTEMS Designers/Engineers**: Access TR as/when needed to validate Test Case steps created by PTEMS-QA.  Occasionally, if deputized, also create and/or run the test-cases there.
 
 ## Brand-new to TestRail?
 
@@ -27,7 +25,7 @@ If you're brand-new to TR, be sure to read [Platform's basic documentation](http
 
 #### Existing PTEMS Teams
 
-Existing PTEMS teams should already have TestRail access (ask your Product Manager) and a team-specific TestRail Project.  Unless your PTEMS Team's brand-new, you can skip Platform's Getting Started topics for requesting access and creating a project.
+Existing PTEMS Application Teams should already have TestRail access (ask your Product Manager) and a team-specific TestRail Project.  Unless your PTEMS Team's brand-new, you can skip Platform's Getting Started topics for requesting access and creating a project.
 
 ### More TestRail help
 
