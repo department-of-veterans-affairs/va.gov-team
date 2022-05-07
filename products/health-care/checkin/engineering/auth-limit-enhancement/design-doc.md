@@ -57,9 +57,36 @@ The overall release process for the feature will be,
 
 - Turning on check_in_experience_lorota_security_updates_enabled to release authentication using DOB instead of SSN4
 - Turning on check_in_experience_lorota_delete_entry to release data delete if retry attempt exceeds configured limit
-
+  
 # 7. Tasks
 
 1. Paramstore configuration for Maximum Auth Limit - 2 Points
 2. Retry limit implementation with caching in Redis - 5 Points
 3. Delete implementation - 5 Points
+
+ # 8. Questions
+  
+### 1. Retry Attempts Expiry in Redis
+  
+  Retry attempts are planned to be cached in Redis with the expiry of 7 days (as the pre-checkin reminders are sent 7 days before the appointment).  If the retry attempt data gets removed from Redis, then the application will lose the retry attempt count.  This will cause veteran to see invalid entry error page until the max limit is reached again and an error page once attempt reaches max limit.  
+  
+  How often do we expect this expiry time to change?  Based on that vets-api will have this value configured in Paramstore or hard-coded directly in `settings.yml`.
+  
+  **Note:** Pre-checkin links are sent after the veteran confirms their appointment via SMS in an upcoming appointment reminder message.  Appointment reminder messages will not be sent once the veteran confirms their visit.  As the veteran already confirmed and got access to the pre-checkin link, record deletion after maximum retry attempts would result in no access to pre-checkin for the veteran.
+
+### 2. vets-website/vets-api SLA on authentication
+  
+  When LoROTA token endpoint gets called during authentication, it always return 401 with any of the error messages,
+  - Error message UUID not found for no record in DynamoDB
+  - Error message lastName does not match with current record for invalid lastName
+  - Error message SSN4 does not match with current record for invalid last4
+  
+Currently, vets-api sends 401 with error message Authentication Error to vets-website in all the retries.
+  
+  What would be the preference for vets-website to receive as an indication for record deletion?
+  - Option 1
+    - Send HTTP Status code 410 to indicate record being deleted
+  - Option 2
+    - Send HTTP Status code 403 to inform the access is forbidden 
+  - Option 3
+    - vets-api acts as pass through and send 401 status with error message from Lorota
