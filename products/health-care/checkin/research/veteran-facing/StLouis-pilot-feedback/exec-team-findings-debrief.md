@@ -1,7 +1,7 @@
 # St. Louis Pilot Research Executive Team Findings Debrief 
 Presented: April 29, 2022
 
-The following high-level observations and findings were reported to the St. Louis VAMC Executive Team on April 29, 2022. As session notes are aggregated, some findings may change. In addition, a full research report inclsuive of all findings will be created. 
+The following high-level observations and findings were reported to the St. Louis VAMC Executive Team on April 29, 2022. As session notes are aggregated, some findings may change. In addition, a full research report inclusive of all findings will be created. 
 
 ## Day 1 CBOC North County 
 
