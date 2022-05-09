@@ -33,37 +33,46 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 --------
 
-## Contact information page alerts
+## Contact information page main alert
 
-- Main alert at top of page, immediately below H1 Contact information.
-- In-line warning alert in mailing address field, below “Mailing.” 
+- Main alert at top of page, immediately below H1 Contact information. 
 - Appear immediately upon arriving on Contact info page.
+- Takes user to Mailing address field. Ask accessibility where focus should go.
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
-### Main alert
-- Takes user to Mailing address field. Ask accessibility where focus should go.
-
 #### Heading (H2):
+
 - Review your mailing address
 
 #### Body:
+
 - The address we have on file for you may not be correct. To change or confirm your address, select **Edit**. Once you've changed your address, or if it's already correct, select **Update** to confirm.
 
-_Note: Edit and Update are **bold**._
+	_Note: Edit and Update are **bold**._
 
 #### Jump Link:
+
 - Review your mailing address
 
 <img width="664" alt="Screen Shot 2022-05-06 at 11 11 06 AM" src="https://user-images.githubusercontent.com/79372956/167194327-040ed284-7e4a-4b1d-bbee-a7eebb9e7dce.png">
 
-### In-line Warning Alert
+--------
+
+## Contact information page in-line Warning Alert
 - Appears within Mailing address field directly below hint text.
+- Appears immediately upon arriving on Contact info page.
+
+- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
+
+### Read-only state with warning
 
 #### Text
 - Review your address.
 
 <img width="660" alt="Screen Shot 2022-05-06 at 11 07 59 AM" src="https://user-images.githubusercontent.com/79372956/167193911-ddb4eb93-0b5b-4220-ad2e-7ae176b05717.png">
+
+
 
 ### Edit state with warning
 - Warning alert remains in Mailing address field below hint text.
@@ -73,12 +82,14 @@ _Note: Edit and Update are **bold**._
 <img width="657" alt="Screen Shot 2022-05-06 at 11 25 48 AM" src="https://user-images.githubusercontent.com/79372956/167196778-89ed23f2-1863-4a5c-9886-ce9052881273.png">
 
 
+
 ### Error  
 - Warning alert disappears. Error alert appears above Update/Cancel buttons.
 
 - Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/MyDD9ym) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yoov38)
 
 <img width="656" alt="Screen Shot 2022-05-06 at 11 26 09 AM" src="https://user-images.githubusercontent.com/79372956/167196745-4ccff6ae-11ad-4032-8194-24b79f42d8aa.png">
+
 
 
 ### Success
