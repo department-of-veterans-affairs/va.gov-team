@@ -12,7 +12,18 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
-## May 4, 2022
+## May 18, 2022
+
+- Facilities COVID status update
+- Top task pages
+  - launched May 5
+  - reminder email going out today
+  - % Register | % Billing and insurance | % Medical records
+  - do we want a more comprehensive audit after June 5 deadline?
+  - do we want a survey to understand any pain points?
+- Recurring events update
+
+- ## May 4, 2022
 
 - "Care we provide" launch: no known issues
 - Top task launch May 4
