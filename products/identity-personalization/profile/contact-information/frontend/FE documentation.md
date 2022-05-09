@@ -38,7 +38,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 - Main alert at top of page, immediately below H1 Contact information. 
 - Appears immediately upon arriving on Contact info page.
-- Takes user to Mailing address field. Ask accessibility where focus should go.
+- Jump link takes user to Mailing address field. Ask accessibility where focus should go.
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
@@ -85,7 +85,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 
 ### Error  
-- Warning alert disappears. Error alert appears above Update/Cancel buttons.
+- Yellow warning alert disappears. Red error alert appears above Update/Cancel buttons.
 
 - Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/MyDD9ym) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yoov38)
 
@@ -94,7 +94,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 
 ### Success
-- Screen returns to read-only state. Success alert appears above Update/Cancel buttons
+- Screen returns to read-only state. Green success alert appears above Update/Cancel buttons
 
 - Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgJJkgO) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/ygEE2DA)
 
