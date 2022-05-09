@@ -10,6 +10,13 @@
 <details><summary>Parking lot</summary>
  </details>
 
+## May 10, 2022
+### Agenda
+- Facilities COVID status
+  - KB article: who's involved in creating this
+  - Progress on this file
+
+
 ## April 19, 2022
 ### Agenda
 - Sitewide CMS team configuration (Kevin and Erika)
