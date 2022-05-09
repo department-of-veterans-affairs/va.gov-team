@@ -60,16 +60,15 @@ We are going to be looking at the burial benefits form today. I would like you t
 
 *As I mentioned earlier, we are pretending that you have filled out all the information and you arrived at this page. Please take a couple of minutes to look at this page.*
 
-- What do you think is the purpose of this page?
-    - Can you show me what you'd do next to accomplish that goal on this page?
-    - Please talk to me about your experience reviewing the information on this page (feedback about accordion design)? 
-    - In terms of ease of use and to accomplish your goal - what is the best way to display the information displayed? (always visible or open as required)?
+- What are you seeing here?
+- What can you do from this page?
+    - Can you show how you will do that?
+- What information is important in this page for you?  
 
 - Imagine that you notice an error in the spelling of your last name and you want to fix the mistake
-    - Where would you click to fix the mistake?
+    - How would you fix it?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - What are your first impressions of this page?
-    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+    - what would you change about this page? Why?
 
 Please click on Continue. Moderator will direct which design to choose
 
@@ -79,14 +78,16 @@ Please click on Continue. Moderator will direct which design to choose
 
 *Imagine that you filled out all the required information and you arrived at this page. This is a variation of the page you just viewed. Please take a couple of minutes to look at this page.*
 
-- Talk to me about your first impression.
-- Please talk to me about your experience reviewing the information on this page (feedback about accordion design)? 
-    - In terms of ease of use and to accomplish your goal - what is the best way to display the information displayed? (always visible or open as required)?
-- (If not already noticed by participant ask now) What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
+- Talk to me about your first impression
+- What can you do from this page?
+    - Can you show how you will do that?
+- What information is important in this page for you? 
+- How is this page different from the other(s) we’ve looked at? 
+ 
 - Imagine that you notice an error in the Service history on this page and you want to fix the mistake
-    - Where would you click to fix the mistake?
-    - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+    - How would you fix it?
+    - What do you think would happen when you do that? 
+    - what would you change about this page? Why?
 
 Please click on Continue. Moderator will direct which design to choose
 
@@ -94,13 +95,16 @@ Please click on Continue. Moderator will direct which design to choose
 
 *This is another variation to the page you just viewed. Please take a couple of minutes to look at this page.*
 
-- Talk to me about your first impression.  
-- Thinking about the question I asked you in the previous design - What do you think is more important for you to look and recoginize? Title (Name, DOB) or the value associated with it? 
-    - What do you think about the emphasis on the title (Name, DOB etc)?  
+- Talk to me about your first impression
+- What can you do from this page?
+    - Can you show how you will do that?
+- What information is important in this page for you? 
+- How is this page different from the other(s) we’ve looked at? 
+ 
 - Imagine that you notice an error in the Service history on this page and you want to fix the mistake
-    - Where would you click to fix the mistake?
-    - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+    - How would you fix it?
+    - What do you think would happen when you do that? 
+    - what would you change about this page? Why?
 
 Please click on Continue. Moderator will direct which design to choose
 
@@ -109,12 +113,15 @@ Please click on Continue. Moderator will direct which design to choose
 *This is another variation to the pages you have been looking at. Please take a couple of minutes to look at this page.*
 
 - Talk to me about your first impression
-- Imagine that you notice an error on this page and you want to fix the mistake
-    - Where would you click to fix the mistake?
-    - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - Comparing this to some of the other designs you saw today? which do you prefer? (See if participant talks about 'Edit' veresus 'Change')
-    - What do you like/dislike the most about this page? Why?
-    - Talk to me about what is easy and not easy to use on this page? Alternate: what would you change about this? Why?
+- What can you do from this page?
+    - Can you show how you will do that?
+- What information is important in this page for you? 
+- How is this page different from the other(s) we’ve looked at? 
+ 
+- Imagine that you notice an error in the Service history on this page and you want to fix the mistake
+    - How would you fix it?
+    - What do you think would happen when you do that? 
+    - what would you change about this page? Why?
 
 ## Post-Task Interview - 5 minutes
 
