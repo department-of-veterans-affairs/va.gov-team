@@ -15,7 +15,7 @@
 
 ## Monday, May 9, 2022
 * Facility Covid Status
-  * Path forward identified and in progress.
+  * Path forward partially identified. Some items to be worked out in this meeting.
 * URL's for mobile sites and domiciliaries.
   * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
   * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
