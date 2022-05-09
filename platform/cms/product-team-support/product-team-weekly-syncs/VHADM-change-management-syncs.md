@@ -15,6 +15,7 @@
 ## May 18, 2022
 
 - Facilities COVID status update
+- Care we provide email tweak vs. content type clarity
 - Top task pages
   - launched May 5
   - reminder email going out today
