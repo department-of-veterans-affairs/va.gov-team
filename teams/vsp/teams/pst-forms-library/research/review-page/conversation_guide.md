@@ -6,6 +6,8 @@
 
 [Mural Board for notes](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1651499085152?sender=u55b541fec6ecc32644994331&key=d8049342-4c55-45e8-924e-cd6e1bc7f542)
 
+[Google sheet for notes](https://docs.google.com/spreadsheets/d/1tYEYjimrKFO_5D3Jl0yQqgvUorsISEPTxvB-PgPH61M/edit#gid=709919566)
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
