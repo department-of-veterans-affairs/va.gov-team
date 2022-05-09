@@ -1,28 +1,28 @@
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
+# Product Outline
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Updating the Form 22-5490 for Authenticated Users
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Currently, the authenticated experience as a user applying for Fry/DEA,Ch35 benefits require  manual data entry, and no ability to receive a near-real time decision, which results in process waiting times of up to 30 days for a decision. This is an opportunity to improve processes for over the 155,000 Fry/DEA students or 18% of all edu beneficiaries (data as of FY2020). 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+**How might we improve Fry/DEA claims processing while simultaneously enhancing the user experience?**
  
+
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Pre-filled information on file for authenticated users, _including_ an updated method for pre-filling and selecting a Veteran or service member that makes the applicant eligible to their benefits
+- Benefit estimations shown before applying to ensure that the user is getting best benefit for them
+- New & intuitive designs with a shortned flow that only asks the most important questions required for processing
+- The ability to yield a near real-time decision after submitting the application for some authenticated users
 
 ## Undesired User Outcomes
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Shorter education application processing times for applicants so they can use their benefits promptly
 
 ## Undesired Business Outcomes
 
@@ -32,58 +32,51 @@
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+To measure the effectiveness of the application in accomplishing its objectives, we will track:
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+- Visitor traffic to the website
+- Time spent completing each page and identify any sections that may be making aplicants spend a sizeable amount of time completing
+- Abandon rate by page
+- Percentage of users that complete a submission after starting an application
+- Percentage of users getting an automated approval/denial decission letter as opposed to requiring a manual review to identify automation improvements
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+-VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, letters, and submitted applications.
+-DGIB Services environment will be able to factor outstanding Disability, Pension, and Death records from Corp Database to properly adjudicate claims
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+*What are you going to build now, and why have you decided to start there?*
+- Improving the 22-5490 is a part of the larger goal to modernize and digitize the GI Bill for Veterans, service members, and their families. 
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+*What have you explicitly decided to not include in this initial set of functionality, and why?*
+- The updates to the 22-5490 will be primarily for authenticated users. At the current time, we want to prioritize the forms that will facilitate better claims processing and thus a more impactful experience in their education journey.  
 
-- Initiative | [Link to Initiative Brief](#)
-
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Our My Education Benefits team will continue to observe other VA education edu benefit forms and see how we can best improve them & add new features for active students. 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+How are Veterans and others using this product going to know it exists?
+
+Veterans will be informed about My Education Benefits through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
+
+What marketing, outreach, or communications are necessary for this product to be successful?
+
+- GI Bill Student Newsletter and SCO Newsletter blog posts
+- VAntage Point blog
+- Social media posts
+- benefits.VA.gov website updates (including a potential DGIB campaign landing page)
+- Email comms
+- Product Features video walking users through the new My Education Benefits experience
+- Media Outreach
+- Mentions at the GI Bill School Tour
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - TBD
 
 ---
 
@@ -107,11 +100,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+Team Name: My Education Benefits
+GitHub Label: @department-of-veterans-affairs/my-education-benefits
+Slack channel: education-benefits
+Product POCs: Cesar Santiago (tech lead), Audra Ayotte(Businesss Lead), Leelah Holmes (Design Lead)
+Stakeholders: Tammy Hurley, Eddie Ricks, Ricardo Da Silva
 
 </details>
 
@@ -119,10 +112,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+Cesar Santiago: Tech Lead
+Audra Ayotte: HCD Lead
+Leelah Holmes: Design Lead
  
 </details>
 
@@ -131,6 +123,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+Education Service | Veterans Benefits Administration
  
 </details>
+
