@@ -28,3 +28,7 @@ The following high-level observations and findings were reported to the St. Loui
 - Check in status from patients was quick into VSE. 
 - Of course, some Veterans either didn’t use a mobile phone or have data turned on. We also saw a few patients that were using a different mobile number, and therefore, couldn’t check in with their current phone (until their number is updated). 
 - Many patients were early to their appointments. E.g., an hour early. It can be frustrating to wait and go through the check in process to find out that they have to stand back up and see the MSA.  
+
+[St Louis VAMC Pilot Research Exec Findings.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/8652238/St.Louis.VAMC.Pilot.Research.Exec.Findings.docx)
+
+[St Louis VAMC Pilot Research Exec Findings.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/8652239/St.Louis.VAMC.Pilot.Research.Exec.Findings.pdf)
