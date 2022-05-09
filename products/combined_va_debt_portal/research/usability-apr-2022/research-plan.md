@@ -139,20 +139,6 @@ Using Perigean recruiting, we would like to schedule **20 participants** in orde
 
 - **All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the tool in production.**
 
-- At least 6 people who use a screen reader 
-
-- At least 10 people must identify as Black, Hispanic/Latina/Latinx, or Native
-
-- At least 10 people must identify as having a cognitive consideration
-
-- At least 10 people must identify as other than male
-
-- At least 10 people are without a degree or professional certificate
-
-- At least 5 people are under 35
-
-- At least 5 people are over 55
-
 #### Participant groups
 
 To understand how Veterans interact with the portal depending on their experience with debts and copay bills, the primary criteria has been split into two groups. 
@@ -182,6 +168,24 @@ To understand how Veterans interact with the portal depending on their experienc
    - Haven’t received VA health care copay bills within the past 6 months **and** 
 
    - Have had at least one of the following VA debts: CH 33, Post-9/11 GI Bill, CH 34, CH 35, or Compensation & Pension
+
+#### Demographic must-haves 
+
+**Note:** The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
+
+- At least 6 people who use a screen reader 
+
+- At least 10 people must identify as Black, Hispanic/Latina/Latinx, or Native
+
+- At least 10 people must identify as having a cognitive consideration
+
+- At least 10 people must identify as other than male
+
+- At least 10 people are without a degree or professional certificate
+
+- At least 5 people are under 35
+
+- At least 5 people are over 55
 
 #### Secondary criteria (nice-to-haves) 
 
