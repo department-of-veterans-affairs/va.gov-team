@@ -131,7 +131,7 @@ Using Perigean recruiting, we would like to schedule 20 participants to reach ou
 **Primary criteria (must-haves)**
 
 * At least 5 participants must be enrolled in VA health care
-* At least 5 participants must be dual eligible in both VA health care and TRICARE health care
+* At least 5 participants must be retired from active duty, and dual eligible for both VA health care and TRICARE health care
 * Laptop or desktop computer only
 * For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task
 * Be able to screenshare via Zoom
