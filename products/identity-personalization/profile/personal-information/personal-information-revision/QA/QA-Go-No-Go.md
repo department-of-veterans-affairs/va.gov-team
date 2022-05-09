@@ -28,3 +28,5 @@
 
 **Have test users been reset to default/null state so that QA can proceed with testing?**
 
+- N/A
+
