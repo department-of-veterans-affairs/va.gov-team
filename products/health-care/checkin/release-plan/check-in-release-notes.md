@@ -14,7 +14,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 05/06/2022
-- Added messaging and link to direct Veterans on how to update their demographic, emergency contact, and next-of-kin contact information.
+- Added messaging to direct Veterans on where to go to update their demographic, emergency contact, and next-of-kin contact information.
     - [Epic 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270)
     - Feature Flag: None
 
