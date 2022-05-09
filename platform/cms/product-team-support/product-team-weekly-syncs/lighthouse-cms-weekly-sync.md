@@ -15,9 +15,8 @@
 
 ## Monday, May 9, 2022
 * Facility Covid Status
-  * Path forward partially identified. Some items to be worked out in this meeting.
-  * Supplemental Status is a label(string). This would be freeform text that the API would just echo back whatever was sent. Would allow customized labels that could be changed dynamically to display whatever the data enterer wanted shown. Since they are freeform, the API would not be able to search/filter by status since the text could change at any time.
-  * Examples: Facility name, service name. VAST/CMS can update at any time and we automatically display the new value, but cannot do anything else with it.
+  * Supplemental Status is a structure containing both of the above options. This would combine the benefits (and detriments) of the other options. With both a label and an id, the API could use the static id for search/filter operations while consumers could use the label field for display purposes. CMS could change the label if desired while keeping the same id for dynamic display updates. Additions of new ids would still be a manual process for the API.
+  * Example: Operating status is a combo. It has a "code" field which is restricted to [Normal, Notice, Limited, Closed] and an "additional_info" field which is freeform and can display any text. The API can do logic based on the code field while consumers can get extra information from the info field. The info field can be changed dynamically but a new code could only be added as a manual update to the schema.
 * URL's for mobile sites and domiciliaries.
   * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
   * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
