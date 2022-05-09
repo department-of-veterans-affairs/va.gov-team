@@ -58,7 +58,7 @@ Project manager: Randi Hecht (r.hecht@bloomworks.digital) <br>
 Managing editor: Laura Willwerth (l.willwerth@bloomworks.digital) <br>
 Copy editor: Megan Zehnder (m.zehnder@bloomworks.digital) <br>
 Content writer: Aliyah Blackmore (a.blackmore@bloomworks.digital) <br>
-Content writer: 
+Content writer: Katherine Fung (k.fung@bloomworks.digital)
 
 ### How we work 
 **Slack channel:** va-sitewide-content-ia <br> 
