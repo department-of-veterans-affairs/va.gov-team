@@ -68,7 +68,7 @@ We are going to be looking at the burial benefits form today. I would like you t
 - Imagine that you notice an error in the spelling of your last name and you want to fix the mistake
     - How would you fix it?
     - What do you think would happen when you do that? (based on what the participant says to the previous question)
-    - what would you change about this page? Why?
+    - What would you change about this page? Why?
 
 Please click on Continue. Moderator will direct which design to choose
 
