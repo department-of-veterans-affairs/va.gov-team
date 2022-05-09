@@ -5,24 +5,24 @@ See also: [VA Mobile App - Information Architecture & Navigation - High Level Pr
 
 ## Navigation Model UI Design Process
 
-### Process 
-- VA Mobile IA/Nav Explorations + Audit - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20exploration%20%2B%20audit.pdf) |  [Balsamiq file](https://balsamiq.cloud/s4uw4la/pnnwuqv/r1EC9)
-- VA Mobile IA/Nav Explorations - Finalist refinement [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20finalist%20refinement.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r165D)
-- VA Mobile IA/Nav Explorations - Finalists for product & feasability review - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20feasibility%20review.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r2278)
-
 ### Proposed navigation model
 - VA Mobile IA/Nav - Proposed Navigation Model [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20proposed%20navigation%20model.pdf)  | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/rAA20)
 - [VA Mobile App: High Level sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture)
 - [2022 - VA Mobile App - Navigation UI Direction Recommendation - PO presentation 5/5/22](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/2022%20-%20VA%20Mobile%20App%20-%20Navigation%20UI%20Direction%20Recommendation%20PO%20presentation.pdf)
 
-## Choosing a Mobile Navigation Direction
+### Navigation model design process 
+- VA Mobile IA/Nav Explorations + Audit - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20exploration%20%2B%20audit.pdf) |  [Balsamiq file](https://balsamiq.cloud/s4uw4la/pnnwuqv/r1EC9)
+- VA Mobile IA/Nav Explorations - Finalist refinement [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20finalist%20refinement.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r165D)
+- VA Mobile IA/Nav Explorations - Finalists for product & feasability review - [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20feasibility%20review.pdf) | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/r2278)
+
+
+### Guidelines for choosing a mobile navigation model direction
+
+Choosing a navigation model involves balancing user, business, technical, and platform considerations. We will use the following criteria as a guide to systematically audit our navigation design explorations and narrow options down to the direction/s we intend to move forward with.
+
 <p align="center">
 <img width="600" alt="Mobile navigation decision diamond" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/mobile%20navigation%20decision%20diamonds.png"></center>
 </p>
-
-
-We will use the following criteria to systematically audit our navigation design explorations and narrow options down to the direction/s we intend to move forward with.
-
 
 ### Criteria for Evaluating VA Mobile App Navigation Model UI
 
@@ -65,7 +65,7 @@ We will use the following criteria to systematically audit our navigation design
 9. Navigation model **doesn’t negatively impact responsiveness/speed**
 
 
-#### Inputs 
+### Inputs 
 
 - [Mobile Redesign - Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)
 - [VA Mobile App: Information Architecture & Navigation - High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md)
