@@ -7,13 +7,12 @@ assignees: michelle-dooley
 
 ---
 
-# Request an Update to Your Standardized KPI Dashboard  
+# Request an update to your KPI Dashboard  
 
 ## What this form is for
 
-Use this ticket template to request an update to your existing standardized KPI dashboard. To request a new product be added to our dashboards, please use [Request a New Standardized KPI Dashboard template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D).
+Use this ticket template to request an update to your existing KPI dashboard. To request a new product be added to our dashboards, please use [Request a New Standardized KPI Dashboard template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D).
 
-If the dashboard that needs updating and is not a standardized dashboard (also called an “edge case”), please reach out to the Platform Analytics & Insights team on #vfs-platform-support for more information about how to request changes. 
 
 ### Expected delivery timelines
 
@@ -38,6 +37,6 @@ Next, use the original [KPI request template](https://docs.google.com/spreadshee
 
 **Additional Info**
 
-- Please use the [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) for more information on the metrics used in the Standard KPI dashboards. 
+- Please use the [KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf) for more information on the metrics used in the KPI dashboards. 
 - If you need any analytics support, read through the [How to request Analytics support](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guidelines.1586823275.html#Analyticscustomersupportguidelines-4.RequestaKPIDashboardinDomo).
 - If you do not have Domo access, please [request access here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
