@@ -2,14 +2,14 @@
 
 What is our list of criteria that must be met before a user story is considered “Done”. When are we “done-done” with a user story?
 
-Add template items for FE and BE and provide a link in template to this list
 * User story meets the acceptance criteria in the Zenhub ticket
 * Related tests should be updated
+* Passes Accessibility checks using axe (if Front End)
 * Appropriate person (UX team member, Product Manager, customer, etc) has reviewed and validated the work
 * Corresponding documentation has been created and posted to the appropriate repository
 * Work has been approved by another developer via PR 
 * Work has been promoted to staging, and validated in this environment (coordinated by ticket owner.)
-* Production feature flip enable (if necessary) and validation has been scheduled, or confirmed as not necessary.
+* Production feature flip enable (if necessary) and validation has been scheduled, or confirmed as not necessary
 
 
 <h1>Definition of Ready</h1>
@@ -20,7 +20,6 @@ What is our list of criteria that must be met before a user story is considered 
 * Clear indication of where change(s) or updates are needed on the ticket (list of pages, arrows, etc.)
 * An agreement from the team that the value of the work is understood (who it is for, what is the ask, is the work understood)
 * In the "Ready for Development" column
-
 
 ----
 
