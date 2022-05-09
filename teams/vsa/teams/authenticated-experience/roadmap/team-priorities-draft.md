@@ -19,7 +19,7 @@
 
 ### Q2 expected launch (before the end of June)
 
-- **MHV Profile research**: Deliever to MHV May 2022. *This doesn't include follow-on work.**
+- **MHV Profile research**: Deliever to MHV May 2022. *This doesn't include follow-on work.*
 - **Direct deposit updates**: Expected May 2022/early June 2022 at the latest.
 - **Personal information revisions**: Launch expected June 2022.
 
