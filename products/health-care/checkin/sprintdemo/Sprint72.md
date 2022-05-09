@@ -1,4 +1,4 @@
-Sprint 73 Team Demo 5/4/22
+Sprint 72 Team Demo 5/4/22
 
 Recording: https://us06web.zoom.us/rec/share/N_TA11CEMI4-uFVeIgARU6N1RljoVlDMbBthiMv6rsKfkluXAAMH4vU4A5bccmIz._NJG6dgmdbB8URbX
 Passcode: *Gk9K%.6
