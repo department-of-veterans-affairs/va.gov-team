@@ -28,4 +28,4 @@
 - **Military service re-integration**: Launch expected late June/early July 2022.
 - **Bad address indicator**: Launch expected September 2022. 
 - **Documentation updates**: Ongoing. Could be a good summer project.
-- **Notification preferences**: There is likely Work, but specifics are TBD depending on partner needs. 
+- **Notification preferences**: There is likely work, but specifics are TBD depending on partner needs. 
