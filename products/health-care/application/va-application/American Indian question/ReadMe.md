@@ -87,7 +87,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - Privacy & Security ticket [#]()
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only changing the flow of the application's questions
+- The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions
 - Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 - 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
