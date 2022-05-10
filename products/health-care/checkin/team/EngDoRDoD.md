@@ -9,6 +9,8 @@ What is our list of criteria that must be met before a user story is considered 
 * Corresponding documentation has been created and posted to the appropriate repository
 * Work has been approved by another developer via PR 
 * Work has been promoted to staging, and validated in this environment (coordinated by ticket owner.)
+* The Epic/feature has been added to this [Planned Releases list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md) and has been assigned an Estimated Release date that is at least 15 days after the date it is added to the list
+* PO has been notified that an item has been added to the Planned Releases list so that they can notify the necessary parties
 * Production feature flip enable (if necessary) and validation has been scheduled, or confirmed as not necessary
 
 
