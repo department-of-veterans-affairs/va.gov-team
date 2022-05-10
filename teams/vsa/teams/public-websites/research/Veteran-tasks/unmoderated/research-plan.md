@@ -48,7 +48,7 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 *ISSUE: See if VA will upgrade our Optimal Workshop license from the current "Starter" license, which allows a maximum of 40 responses. Ideally, I'd like to be able to have 40-60 responses.*
 
 ### Research materials
-- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
+- [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
 - [Link to moderated research findings]()--NOT READY YET
 - [Link to online survey]()--NOT READY YET
 
