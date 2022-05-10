@@ -9,6 +9,11 @@ assignees: ''
 
 # Steps to complete Midpoint Review 
 
+### NOTE:
+
+**This template is being deprecated**. If your kickoff meeting took place after [DATE TK], You should use the new template [Link TK] instead. If you are unsure if this applies to you, please reach out to the Governance Team on the **#platform-collaboration-cycle** Slack channel. 
+
+
 ## Before meeting
 
 **VFS Product Manager**
