@@ -3,7 +3,8 @@
 ## Outcome Summary
 
 The paper version of the 10-10EZ includes a question for Veterans to indicate whether they are of American Indian or Alaska Native descent.  
-- Help identify applicants who may not need to pay for care and/or services.
+- Help applicants identify their American Indian/Alaska Native heritage so they can apply for appropriate VA health care
+- Help VA identify applicants who qualify for VA benefits, and may not need to pay for care and/or services from VA.
 
 ### Definition of "Indian"
 >**INDIAN:** The term “Indians” or “Indian”, unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection 25 U.S.C. 1603(d) except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who (A) irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
