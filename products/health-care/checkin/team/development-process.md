@@ -41,11 +41,11 @@
 ## RELEASE FEATURES
 
 - UX
-    - UX moves tickets to "Validate" ZenHub pipeline when tickets meets definition of done
+    - UX moves tickets to "Validate" ZenHub pipeline when tickets meet definition of done
         - [UX DoD & DoR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/UXDoRDoD.md)
     - UX closes tickets when they have been validated
 - Engineering
-    - Engineers move tickets to "Validate" ZenHub pipeline when tickets meets definition of done
+    - Engineers move tickets to "Validate" ZenHub pipeline when tickets meet definition of done
         - [Engineering DoD & DoR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/EngDoRDoD.md)
     - Engineers close tickets when the code 
        - Has been deployed to production 
