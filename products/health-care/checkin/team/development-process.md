@@ -6,7 +6,7 @@
     - PO creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
     - PO creates user stories for a feature
 - Tech Debt
-    - Engineers create a tech debt work items in the "Product Backlog" ZenHub pipeline and adds to this Epic: [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
+    - Engineers create tech debt work items in the "Product Backlog" ZenHub pipeline and adds to this Epic: [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
 - Bugs
     - Anyone can create a bug in the "Product Backlog" ZenHub pipeline and adds to one of these Epics
         - If bug is for a feature already in production then this Epic: [Ongoing Engineering Support for VISN Rollout](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38980)
