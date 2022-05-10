@@ -1,5 +1,7 @@
 # Initiative Brief - 10-10EZ American Indian question
 
+- At the time of this Initiative Brief writing, the design and development has been done, with only content changes remaining.  The initiative was placed on hold until the Enrollment system was ready to receive the data from this question.  On 5/10/2022, we were given the approval to publish this in production, as the Enrollment system is now ready to receive it.  We will need to perform QA to ensure there are no issues, once the content is updated.
+
 ## Outcome Summary
 
 The paper version of the 10-10EZ includes a question for Veterans to indicate whether they are of American Indian or Alaska Native descent.  
