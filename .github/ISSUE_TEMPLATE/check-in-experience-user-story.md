@@ -11,21 +11,21 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
 
 ## User Workflow
 - Given I
-    - _insert user pre-conditions or logged-in permissions_
+    - **_insert user pre-conditions or logged-in permissions_**
 - When I
-    - _insert user actions_
+    - **_insert user actions_**
 - Then I
-    - _insert user expectations_
+    - **_insert user expectations_**
   
 ## Wireframes
-- [Sketch]() _insert link to sketch file_
+- [Sketch]() **_insert link to sketch file_**
 - NOTE: The following is a screenshot of the Sketch file at the time this ticket was created, if the screenshot differs from the Sketch file when this ticket is worked, please raise the issue with the team during stand up
 
-  - _insert screenshot of Sketch file that shows the work to perform in this ticket_
+  - **_insert screenshot of Sketch file that shows the work to perform in this ticket_**
 
 ## Tasks
-- [ ] [BE] 
-- [ ] [FE] 
+- [ ] [BE] **_insert frontend work_**
+- [ ] [FE] **_insert backend work_**
 - [ ] Create or update unit tests
 - [ ] Create or update e2e tests
 - [ ] Update relevant documentations (readme and use cases)_
