@@ -71,7 +71,7 @@ This research will help to determine whether the design solution is understood b
 Whether Veterans understand the informational alert and switching between beneficiary types.<br>
 
 Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) page.
-* You’ve arrived at this location page through a Google Search. As a Veteran with only VA benefits, where would you go to navigate to the information that’s relevant to you?
+* You’ve arrived at this location page through a Google Search. As a Veteran with only VA benefits, where would you go to navigate to pharmacy benefits?
 
 Starting on a [DoD register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
 * You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran with only VA benefits, what is the first step you'd take to register for care?
