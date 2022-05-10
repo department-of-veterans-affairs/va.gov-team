@@ -11,11 +11,11 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
 
 ## User Workflow
 - Given I
-    - 
+    - _insert user pre-conditions or logged-in permissions_
 - When I
-    - 
+    - _insert user actions_
 - Then I
-    - 
+    - _insert user expectations_
   
 ## Wireframes
 - [Sketch]() _insert link to sketch file_
