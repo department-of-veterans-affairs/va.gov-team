@@ -59,11 +59,11 @@ Aging
 The primary goals of this research are to determine:
 * Whether participants notice and understand the informational alert.
 * Whether participants understand switching between beneficiary types.
-* Whether dual-eligible understand when to go to VA benefits information and when to go to TRICARE benefits information.
+* Whether dual-eligible Veterans understand when to go to VA benefits information and when to go to TRICARE benefits information.
 
 ### Outcome
 
-This research will help to determine whether the design solution is understood by Veterans, or if future iterations are needed.
+This research will help to determine whether the design solution is understood by Veterans, or if additional iterations are needed.
 
 ### Research questions
 
@@ -76,19 +76,18 @@ Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583ad
 Starting on a [DoD register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
 * You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran with only VA benefits, what is the first step you'd take to register for care?
 
-<b>Research questions for retired, dual-eligible VA and TRICARE beneficiaries</b><br>
-Whether DoD service members understand the informational alert and switching between beneficiary types.<br>
+<b>Research questions for dual-eligible VA and TRICARE beneficiaries</b><br>
+Whether dual-eligible VA and TRICARE beneficiaries understand the informational alert and switching between beneficiary types.<br>
 
-Whether DoD service members understand that they are TRICARE beneficiaries.<br>
+Whether dual-eligible VA and TRICARE beneficiaries understand where they need to go for what task.<br>
 Starting on a [VA beneficiary system page.](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
-* Does this page contain information that would be relevant to you as a retired Veteran?
-
-Starting on a [VA beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) page.
-* You’ve arrived at this location page through a Google Search. As a retired Veteran, where would you go to navigate to the information that’s relevant to you?
+* Does this page contain information that would be relevant to you as a retired Veteran who prefers TRICARE benefits?
 
 Starting on a [VA register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
-* You Googled "Register for Care at Lovell VA" and landed on this page. As a retired Veteran, what is the first step you'd take to register for care?
+* You Googled "Register for Care at Lovell VA" and landed on this page. As a retired Veteran who prefers TRICARE benefits, what is the first step you'd take to register for care?
 
+Starting on a [VA beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) page.
+* You’ve arrived at this location page through a Google Search. As a retired Veteran who prefers TRICARE pharmacy benefits, where would you go to navigate to TRICARE pharmacy benefits?
 
 ### Hypothesis
 
