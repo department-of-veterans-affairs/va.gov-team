@@ -59,7 +59,7 @@ Aging
 The primary goals of this research are to determine:
 * Whether participants notice and understand the informational alert.
 * Whether participants understand switching between beneficiary types.
-* Whether DoD service members understand that they are TRICARE beneficiaries.
+* Whether dual-eligible understand when to go to VA benefits information and when to go to TRICARE benefits information.
 
 ### Outcome
 
