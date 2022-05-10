@@ -18,10 +18,10 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
     - 
   
 ## Wireframes
-- [Sketch](<insert link to sketch file>)
+- [Sketch]() _insert link to sketch file_
 - NOTE: The following is a screenshot of the Sketch file at the time this ticket was created, if the screenshot differs from the Sketch file when this ticket is worked, please raise the issue with the team during stand up
 
-  - <insert screenshot of Sketch file that shows the work to perform in this ticket>
+  - _insert screenshot of Sketch file that shows the work to perform in this ticket_
 
 ## Tasks
 - [ ] [BE] 
