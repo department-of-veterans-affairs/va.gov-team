@@ -39,14 +39,14 @@ The paper version of the 10-10EZ includes a question for Veterans to indicate wh
 
 ### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
 
-**Key Result #1:** Increase application submissions by 5%
+**Key Result #1:** Increase application submissions by 2%
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
 | Product KPI | 12mo Baseline | Target | Post-Launch |
 |------------- |---------|-------|-------------- |
-|Application Submissions | 14% (114k)  | 20% | TBD|
-|American Indian submissions | N/A | 5% | TBD|
+|Application Submissions | 14% (114k)  | 16% | TBD|
+|American Indian submissions | N/A | 2% | TBD|
 
 ---
 
