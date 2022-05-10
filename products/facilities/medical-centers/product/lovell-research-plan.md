@@ -9,6 +9,8 @@ However, the unauthenticated top tasks for these beneficiaries are accomplished 
 
 Veterans are already familiar with the modernized location design, however, the split between the VA beneficiaries locations and content, and the DoD/TRICARE beneficiaries locations and content will be a new experience for them.
 
+This bespoke health care system research is building upon earlier VAMC research.
+
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell-initiative-brief.md).
 
 [Link to UX research and design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md#vsa-lovell-federal-health-ux-research-and-design-hub).
@@ -57,63 +59,41 @@ Aging
 ## Research Goals	
 
 The primary goals of this research are to determine:
-* Whether Veterans and dual-eligibles know where they can access care at Lovell Federal Health Care.
-
-
+* Whether Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center.
 * Whether participants notice and understand the informational alert.
-* Whether participants understand switching between beneficiary types.
-* Whether dual-eligible Veterans understand when to go to VA benefits information and when to go to TRICARE benefits information.
+* Whether dual-eligible Veterans understand when to use the VA health care experience vs. the TRICARE health care experience.
 
 ### Outcome
 
-This research will help to determine whether the design solution is understood by Veterans, or if additional iterations are needed.
+This research will help to determine whether the design solution is understood by Veterans and dual-eligible Veterans, or if additional iterations are needed.
 
 ### Research questions
 
-Will Veterans understand 
-<b>Research questions for VA beneficiaries</b><br>
-Whether Veterans understand the informational alert and switching between beneficiary types.<br>
-
-Starting on a [DoD beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) page.
-* You’ve arrived at this location page through a Google Search. As a Veteran with only VA benefits, where would you go to navigate to pharmacy benefits?
-
-Starting on a [DoD register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
-* You Googled "Register for Care at Lovell VA" and landed on this page. As a Veteran with only VA benefits, what is the first step you'd take to register for care?
-
-<b>Research questions for dual-eligible VA and TRICARE beneficiaries</b><br>
-Whether dual-eligible VA and TRICARE beneficiaries understand the informational alert and switching between beneficiary types.<br>
-
-Whether dual-eligible VA and TRICARE beneficiaries understand where they need to go for what task.<br>
-Starting on a [VA beneficiary system page.](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
-* Does this page contain information that would be relevant to you as a retired Veteran who prefers TRICARE benefits?
-
-Starting on a [VA register for care](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) page.
-* You Googled "Register for Care at Lovell VA" and landed on this page. As a retired Veteran who prefers TRICARE benefits, what is the first step you'd take to register for care?
-
-Starting on a [VA beneficiary location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) page.
-* You’ve arrived at this location page through a Google Search. As a retired Veteran who prefers TRICARE pharmacy benefits, where would you go to navigate to TRICARE pharmacy benefits?
+* Will Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center?
+* Will participants notice and understand the informational alert?
+* Will dual-eligible Veterans understand when to user the VA health care experience vs. the TRICARE health care experience?
 
 ### Hypothesis
 
 We already know that Veterans are familiar with a location experience that does not separate out locations by type of beneficiary.
+We already know that research has been conducted on the existing VAMC experience.
 
-* Can dual-eligible Veterans find the information needed to complete a task using TRICARE or VA benefits?
-* Users may not understand which benefit information they are viewing.
-* Users may overlook the informational alert, causing them to miss the “switcher” functionality.
+* Veterans and dual-eligible Veterans will be able to identify whether the page they are on is for VA or TRICARE health care beneficiaries.
+* Veterans and dual-eligible Veterans will be able to locate the informational alert where they are able to switch between VA and TRICARE health care.
 
-Veterans are familiar with a location experience that does not separate the experience by beneficiary, and by doing so, it creates inconsistency in the experience and Veterans may not recognize the type of beneficiary they are.
+Veterans are familiar with a location experience that does not separate the experience by beneficiary, but they will be able to identify which health care they need and where they can find it.
 
 ## Method	
 Research Method:
-* User testing. Designs have been reviewed by the collaboration cycle, and this method will help to determine whether the designs are understood by Veterans.
+* User testing.
+* We will not be testing with screen readers because the designs are in UXPin, the design has been reviewed by the collaboration cycle, and the foundation of the VAMC pages have already been tested.
+* Not testing on mobile because the VAMC pages have already been tested on mobile.
 
 Includes task flows from specific starting points:
-* Lovell VA beneficiary system page (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i) 
-* Lovell TRICARE beneficiary system page  (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/sitemap?mode=i) 
-* VA location (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) 
-* TRICARE location (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) 
-* VA Register for Care (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629721/simulate/sitemap?mode=i) 
-* TRICARE Register for Care (https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148629914/simulate/sitemap?mode=i) 
+* [Lovell VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i) 
+* [Lovell TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/sitemap?mode=i)
+* [VA location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) 
+* [TRICARE location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) 
 
 ### Location
 
@@ -136,9 +116,9 @@ Using Perigean recruiting, we would like to schedule 20 participants to reach ou
 **Primary criteria (must-haves)**
 
 * At least 5 participants must be enrolled in only VA health care
-* At least 5 participants must be retired from active duty, and dual eligible for both VA health care and TRICARE health care
+* At least 5 participants must be retired from active duty, dual eligible for both VA health care and TRICARE health care, and actively enrolled in both.
 * Laptop or desktop computer only
-* For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task
+  * For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task, so we are limited participants to laptop or desktop computers only.
 * Be able to screenshare via Zoom
 * Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing
 * At least 2 participants under 35 years old
@@ -188,4 +168,4 @@ Participant recruiting & screening: Perigean<br>
 Project point of contact: Val Runde<br>
 Participant(s) for pilot test: Perigean<br>
 Note-takers: Perigean<br>
-Observers: Michelle Middaugh [optional] (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov) [optional]
+Observers: Michelle Middaugh [optional] (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov) [optional], Jenny Heiland-Leudtke (Jennifer.Heiland-Luedtke@va.gov) [optional], Jeff Grandon (Jeffrey.Grandon@va.gov) [optional], Steve Wirt (steve.wirt@civicactions.com) [optional], Ethan Teague (ethan.teague@civicactions.com) [optional], Max Antonucci (max.antonucci@agile6.com) [optional]
