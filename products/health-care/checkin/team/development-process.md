@@ -20,7 +20,7 @@
     - PO assigns points to tickets and moves them to the "Ready for Development" ZenHub pipeline
 - Engineering
     - Engineers meet with PO to refine feature & tech debt work items and bugs
-    - Engineers discusses and points stories
+    - Engineers discuss and point stories
     - PO assigns points to tickets and moves them to the "Ready for Development" ZenHub pipeline
 
 ## DEVELOP FEATURES
