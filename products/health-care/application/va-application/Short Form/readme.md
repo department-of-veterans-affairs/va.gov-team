@@ -34,11 +34,10 @@ The introduction of the short form will remove questions that are not necessary 
 
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
->>> Templated Information
+
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|Reduce # of apps in progress over 7 days| TBD | TBD | TBD|
-|Reduce # of Expired applications| TBD | TBD | TBD|
+|Increase # of applications submitted| TBD | TBD | TBD|
 
 
 **Key Result 2:** Reduce sessions/time taken to complete application.
@@ -47,7 +46,8 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|Increase # of Saved In Progress applications submitted| TBD | TBD | TBD|
+|Decrease time taken to complete application| TBD | TBD | TBD|
+|Decrease # of sessions required to complete application| TBD | TBD | TBD|
 
 
 **Key Result 3:** Reduce the number of abandoned applications
@@ -56,36 +56,33 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | KPI/Metric  | Baseline | Target | Post-Launch
 |----------------|----------------|----------------|----------------|
-|# of Click-thrus on email link | N/A | TBD | TBD |
+|Decrease # of abandoned applications | TBD | TBD | TBD |
 
 ---
->>> /Templated Information
 
 
 ## Discovery
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - The value risk is that applicants will ignore the reminders. They could also route these emails to their spam/junk folder without realizing what it is for.  
-  - There is also a risk that an email cannot be sent, if the Veteran’s profile does not include an email address.
+  - The value risk that Veterans may become confused when they transition to the short form, and spend time looking for where to input the information that is no longer necessary.
 - **Usability Risks** (can people figure out how to use it):
-  - There is a risk that, if the applicant is routed to My VA (via a link in the email when there is more than one in-progress application), they can be confused as to why they were not routed to the application itself.
+  - There is a risk that the incorrect disability rating will be selected, meaning they might not fill out the correct version of the form.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-   - TBD
+   - None
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Increase in applicant returns and submissions of in-progress applications
+  - Increase in application submissions.
 
 
 ### Solution Summary
 - In-scope:
-     - Reminder Email to be sent through VA Notify template process for applications that are still in progress
-     - Email will be sent using the profile ID of the logged in applicant
+     - Implementation of short form for users with a disability rating equal to or greater than 50% based on information stored in the user's profile.
+     - Implementation of short form for users with a disability rating equal to or greater than 50% based on self-disclosed information.
+     - Implementation of short form for users with a combat veteran status (TBD).
 - Out of scope:
-     - Confirmation emails
-     - Any other email notifications
-     - Using data within the application (such as the email address entered)
-     - Applications started while unauthenticated, which would not be saved in progress
+     - Implementation of the short form for any other reasons.
+     - Any clean-up / changes to the existing form.
 --- 
 
 ## Launch Planning
@@ -107,7 +104,8 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ---
    
 ## Screenshots
-No UI Changes.  See this [Sample email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/In-Progress%20Reminder%20Notifications/Content%20From%20VA%20Notify/Content%20sample.md) for the proposed template from VA Notify
+[Authenticated Workflow](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
+[Unauthenticated Workflow](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i)
 
 ### After
 
@@ -119,7 +117,7 @@ No UI Changes.  See this [Sample email](https://github.com/department-of-veteran
 <details>
 
 - Team Name: 10-10 Health Apps team
-- GitHub Label(s): 
+- GitHub Label(s): 1010-short-form
 - Slack channel: 1010-health-apps
 - Product POCs: Heather Justice, Mark Fallows
 
