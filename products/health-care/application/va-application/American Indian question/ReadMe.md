@@ -103,7 +103,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
     - Testing documentation - TestRail
     -  [Test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/American%20Indian%20question/product/american-indian-question%20Use%20Cases.md)
     - a11y test case documentation ticket [#33524](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/33524)
-- Release plan ticket #33514](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/33514)
+- Release plan ticket [#33514](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/33514)
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
 
