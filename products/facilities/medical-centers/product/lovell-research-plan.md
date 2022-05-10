@@ -94,7 +94,8 @@ Starting on a [VA register for care](https://preview.uxpin.com/d55fbe11583adc1a1
 
 We already know that Veterans are familiar with a location experience that does not separate out locations by type of beneficiary.
 
-* Users may not recognize themselves as TRICARE beneficiaries, causing some confusion around what information is intended for them.
+* Can dual-eligible Veterans find the information needed to complete a task using TRICARE or VA benefits?
+* Users may not understand which benefit information they are viewing.
 * Users may overlook the informational alert, causing them to miss the “switcher” functionality.
 
 Veterans are familiar with a location experience that does not separate the experience by beneficiary, and by doing so, it creates inconsistency in the experience and Veterans may not recognize the type of beneficiary they are.
