@@ -57,6 +57,9 @@ Aging
 ## Research Goals	
 
 The primary goals of this research are to determine:
+* Whether Veterans and dual-eligibles know where they can access care at Lovell Federal Health Care.
+
+
 * Whether participants notice and understand the informational alert.
 * Whether participants understand switching between beneficiary types.
 * Whether dual-eligible Veterans understand when to go to VA benefits information and when to go to TRICARE benefits information.
@@ -67,6 +70,7 @@ This research will help to determine whether the design solution is understood b
 
 ### Research questions
 
+Will Veterans understand 
 <b>Research questions for VA beneficiaries</b><br>
 Whether Veterans understand the informational alert and switching between beneficiary types.<br>
 
