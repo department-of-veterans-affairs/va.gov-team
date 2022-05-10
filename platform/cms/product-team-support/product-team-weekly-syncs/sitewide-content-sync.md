@@ -13,8 +13,8 @@
 ## May 10, 2022
 ### Agenda
 - Facilities COVID status
-  - KB article: who's involved in creating this
-  - Progress on this file
+  - Roundtable of what we're working on
+  - Any blockers or issues
 
 
 ## April 19, 2022
