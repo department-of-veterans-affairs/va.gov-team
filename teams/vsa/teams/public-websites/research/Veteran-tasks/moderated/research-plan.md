@@ -37,7 +37,7 @@ We will conduct remote moderated research sessions via Zoom. Research participan
 
 The online survey will be built in Optimal Workshop's survey tool, which is called Questions. The survey will contain a list of about 40 VA-related tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The [list of tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx) has been reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks have been combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported have been omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
 
-In the survey, participants will select which VA-related tasks are important to them personally (not for all Veterans). Participants will also be asked if there are any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
+In the survey, participants will select which VA-related tasks are important to them personally (*not* for all Veterans). Participants will also be asked if there are any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
 
 *Action item: Try to get Optimal Workshop license upgraded in order to allow more than 40 responses*
 
