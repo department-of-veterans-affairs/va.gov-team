@@ -86,8 +86,8 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **Date time pm** ET with TBD (email address)--DATE TBD during May 16-20
-- * Pilot #2: **Date time pm** ET with TBD (email address)--DATE TBD during May 16-20
+- * Pilot #1: **Date time pm** ET with TBD (email address)--DATE TBD during May 16-19
+- * Pilot #2: **Date time pm** ET with TBD (email address)--DATE TBD during May 16-19
 
 ### Research sessions
 - May 23-25, 2022
