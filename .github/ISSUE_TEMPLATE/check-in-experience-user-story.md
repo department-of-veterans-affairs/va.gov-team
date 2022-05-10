@@ -24,14 +24,19 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
   - **_insert screenshot of Sketch file that shows the work to perform in this ticket_**
 
 ## Tasks
-- [ ] [BE] **_insert frontend work_**
-- [ ] [FE] **_insert backend work_**
+- [ ] [BE] **_insert backend work_**
+- [ ] [FE] **_insert frontend work_**
 - [ ] Create or update unit tests
 - [ ] Create or update e2e tests
-- [ ] Update relevant documentations (readme and use cases)_
+- [ ] Update relevant documentations (readme and use cases)
 
 ## Acceptance Criteria
 - [ ] Passes Accessibility checks using axe
-- [ ] Deployed to staging
+- [ ] Deployed to staging.
+- [ ] Tested on staging
 - [ ] Designer has signed off on the feature
 - [ ] Product team has signed off on the  feature
+- [ ] Prod validation:
+  - [ ] not necessary
+  - [ ] scheduled
+
