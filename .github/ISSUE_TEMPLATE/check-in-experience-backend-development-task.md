@@ -1,6 +1,6 @@
 ---
 name: Check In Experience Back End Development Task
-about: For Check In Experience Back End Development Tasking
+about: Task for backend development
 title: "[BE]"
 labels: backend, HCE-Checkin
 assignees: ''
