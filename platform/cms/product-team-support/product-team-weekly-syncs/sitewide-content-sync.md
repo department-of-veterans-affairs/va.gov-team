@@ -16,7 +16,7 @@
   - Roundtable of what we're working on
   - Any blockers or issues
 - KB article
-- Resetting Facility Status to Normal
+- Resetting Facility Status to Normal?
 
 ## April 19, 2022
 ### Agenda
