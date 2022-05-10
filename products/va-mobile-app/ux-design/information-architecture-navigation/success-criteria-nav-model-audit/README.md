@@ -7,7 +7,7 @@ See also: [VA Mobile App - Information Architecture & Navigation - High Level Pr
 
 ### Proposed navigation model
 - VA Mobile IA/Nav - Proposed Navigation Model [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/VA%20Mobile%20-%20nav%20model%20directions%20-%20proposed%20navigation%20model.pdf)  | [Balsamiq file](https://balsamiq.cloud/s4uw4la/pa3zodh/rAA20)
-- [VA Mobile App: High Level sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture)
+- VA Mobile App: High Level Sitemap v1.1.1 [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/VA%20Mobile%20App%20High%20Level%20Sitemap%20v1.1.1.pdf) | [mural](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1649276676117?sender=u28718b63c8993f515e0b2240&key=adec8103-8bf8-45bc-9acf-d3ab94016188)
 - [2022 - VA Mobile App - Navigation UI Direction Recommendation - PO presentation 5/5/22](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/2022%20-%20VA%20Mobile%20App%20-%20Navigation%20UI%20Direction%20Recommendation%20PO%20presentation.pdf)
 
 ### Navigation model design process 
