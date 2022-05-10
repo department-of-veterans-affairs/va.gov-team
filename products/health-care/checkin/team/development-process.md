@@ -2,15 +2,15 @@
 
 ## IDENTIFY FEATURES, TECH DEBT, AND BUGS
 
-    - Features
-        - PO creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
-        - PO creates first pass user stories for a feature
-    - Tech Debt
-        - Engineers create a tech debt work item in the "Product Backlog" ZenHub pipeline and adds to this ticket: [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
-    - Bugs
-        - Anyone creates a bug in the "Product Backlog" ZenHub pipeline and adds to one of these Epics
-            - If bug is for a feature already in production then this Epic: [Ongoing Engineering Support for VISN Rollout](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38980)
-            - If bug is for a feature not yet in production, then use the Epic for the feature 
+- Features
+    - PO creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
+    - PO creates first pass user stories for a feature
+- Tech Debt
+    - Engineers create a tech debt work item in the "Product Backlog" ZenHub pipeline and adds to this ticket: [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
+- Bugs
+    - Anyone creates a bug in the "Product Backlog" ZenHub pipeline and adds to one of these Epics
+        - If bug is for a feature already in production then this Epic: [Ongoing Engineering Support for VISN Rollout](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38980)
+        - If bug is for a feature not yet in production, then use the Epic for the feature 
 
 ## REFINE WORK ITEMS
 
