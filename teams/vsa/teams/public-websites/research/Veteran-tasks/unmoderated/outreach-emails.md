@@ -16,11 +16,11 @@ You will be sent a link to an online survey in which you'll see a list of VA-rel
 
 **How long is the survey?**
 
-The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it at any time that's convenient for you.
+The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it any time that's convenient for you.
 
 **Interested in participating?** 
 
-Please reply to this email to receive the activity link and a participation code. After completing the activity, we'll send you instructions on how to access your thank you gift card.
+Please reply to this email to receive the survey link and a participation code. After completing the survey, we'll send you instructions on how to access your thank you gift card.
 
 ## Outreach email for Cohort B
 
@@ -38,11 +38,11 @@ You will be sent a link to an online survey in which you'll see a list of VA-rel
 
 **How long is the survey?** 
 
-The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it at any time that's convenient for you.
+The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it any time that's convenient for you.
 
 **Interested in participating?** 
 
-Please reply to this email to receive the activity link and a participation code. After completing the activity, we'll send you instructions on how to access your thank you gift card.
+Please reply to this email to receive the survey link and a participation code. After completing the survey, we'll send you instructions on how to access your thank you gift card.
 
 ## Outreach email for Cohort C
 
@@ -60,7 +60,7 @@ You will be sent a link to an online survey in which you'll see a list of VA-rel
 
 **How long is the survey?** 
 
-The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it at any time that's convenient for you.
+The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it any time that's convenient for you.
 
 **Interested in participating?** 
 
@@ -82,8 +82,8 @@ You will be sent a link to an online survey in which you'll see a list of VA-rel
 
 **How long is the survey?** 
 
-The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it at any time that's convenient for you.
+The survey should take you about 10 minutes to complete on your computer, tablet, or smartphone. You can do it any time that's convenient for you.
 
 **Interested in participating?** 
 
-Please reply to this email to receive the activity link and a participation code. After completing the activity, we'll send you instructions on how to access your thank you gift card.
+Please reply to this email to receive the survey link and a participation code. After completing the survey, we'll send you instructions on how to access your thank you gift card.
