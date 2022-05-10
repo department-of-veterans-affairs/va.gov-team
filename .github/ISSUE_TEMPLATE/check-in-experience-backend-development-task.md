@@ -14,8 +14,5 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
 - [ ] [BE] **_insert backend  work_**
 
 ## Acceptance Criteria
-- [ ] Deployed to staging.
+- [ ] Deployed to staging
 - [ ] Tested on staging
-- [ ] Prod validation:
-  - [ ] not necessary
-  - [ ] scheduled
