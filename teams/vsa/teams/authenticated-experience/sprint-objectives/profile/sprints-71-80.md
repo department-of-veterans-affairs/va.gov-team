@@ -279,7 +279,7 @@ For Design, FE, and BE: QA fixes, if applicable
 
 ### General
 
-**FE - Mark **
+**FE - Mark**
 
 - In the "nametag" element, what happens if someone is in Space Force? #40910
 
