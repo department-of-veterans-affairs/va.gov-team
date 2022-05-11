@@ -95,7 +95,7 @@
                         - Been listed on the Planned Releases page for at least 15 days
         - **STEP 5: Release Feature, Tech Debt, or Bug**
             - Dependencies
-                - STEPS 1-4
+                - STEPS 1, 4, & 4 (STEP 2 not necessary to release)
             - Inputs
             - Outputs
                 -  New entry in Release Notes for the feauture
