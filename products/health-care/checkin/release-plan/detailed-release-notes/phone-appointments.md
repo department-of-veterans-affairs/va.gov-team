@@ -2,13 +2,21 @@
 In the Product Backlog
 
 ## DESCRIPTION
-- Veterans will see text and an icon next to each of their appointment indicating whether the appointment is an in-person or phone appointment
+- Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment
 
-![image](https://user-images.githubusercontent.com/86678742/167903115-4681b7a7-b72f-458e-88a5-8f92be670547.png)
+![image](https://user-images.githubusercontent.com/86678742/167907652-8784c005-41d2-486d-a263-00f6fe4e389c.png)
 
 - Veterans who have a phone appointment and indicate that their contact, emergency contact, and/or next-of-kin information needs to be updated as part of the pre-check-in will not be instructed to contact a staff member when they check-in to update their information
--
-  ![image](https://user-images.githubusercontent.com/86678742/167904695-0c0a161e-99b4-46c8-a3b6-7fa19325b75a.png)
+
+![image](https://user-images.githubusercontent.com/86678742/167909049-8618e4b6-3bee-485e-bed1-33a0561a89cf.png)
+
+- Veterans who have a phone appointment will see different information in the "How can I update my information?" section than Veterans with an in-person appointment
+
+![image](https://user-images.githubusercontent.com/86678742/167910138-5ff5a602-3535-45c3-98e4-a70ac2237a26.png)
+
+
+
+
 
 
 
