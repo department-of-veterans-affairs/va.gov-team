@@ -4,7 +4,8 @@
 
 - Features
     - PO, based on input from the research and/or stakeholders, creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
-    - PO creates initial user stories for a feature    
+    - PO creates initial user stories for a feature   
+    - PO adds feature to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
     - Team creates additional user stories as needed
 - Tech Debt
     - Engineers create tech debt work items in the "Product Backlog" ZenHub pipeline and attaches to Epic [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
@@ -38,6 +39,7 @@
                 - Collaboration with Design System team
                 - Collaboration with Accessibility team
                 - Collaboration with Platform team
+                - Collaboration with Danielle
             - Outputs
                 - Finalized wireframes
                 - Content in English
@@ -47,6 +49,7 @@
             - Inputs
                 - Finalized wireframes
                 - Content in English
+                - Collaboration with Danielle
             - Outputs
                 - Translated content
                     - NOTE: translated content must go through internal VA QA process??????
@@ -65,6 +68,7 @@
             - Inputs
                 - Finalized wireframes
                 - Content in English
+                - Collaboration with Platform team
                 - Translated content 
                     - NOTE: This will come later, _"Full translation coming soon"_ message should be displayed on the page until all translated content is in production for that page
             - Outputs
@@ -73,6 +77,17 @@
                         - Been validated with design and/or PO
                         - Been validated with Stephen & Patrick
                         - Been listed on the Planned Releases page for at least 15 days
+        - STEP 5: Feature is released to production
+            - Dependencies
+                - STEPS 1-4
+            - Inputs
+            - Outputs
+                -  New entry in Release Notes for the feauture
+                -  Removal of feature row from the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
+                -  Notification of release in [Channel](https://dsva.slack.com/archives/C022AC2STBM), with callouts to
+                    -  Patrick & Stephen
+                    -  Shawn Adams (Training)
+                    -  Jason Woodman (Contact Center)
 - Sprint Planning
     - Team decides on Sprint capacity 
     - PO move tickets to the "Current Sprint" ZenHub pipeline for the team's Sprint commitment
