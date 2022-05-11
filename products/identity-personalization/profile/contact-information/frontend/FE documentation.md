@@ -18,6 +18,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 - In-line warning alert above H1 heading. 
 	- **Accessibility:** Check in with Josh on proper implementation when adding above H1. Per his instructions - something might need to be done to the code here to make it ok that it is above H1.
 - Appears immediately upon logging into Profile. 
+- Disappears once Mailing address is successfully updated and validated.
 
 - High-Fi Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4)
 
@@ -41,6 +42,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 - Appears immediately upon arriving on Contact info page.
 - Jump link takes user to Mailing address field. 
 	- **Accessibility:** Ask accessibility where focus should go.
+- Disappears once Mailing address is successfully updated and validated.
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
@@ -65,6 +67,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 ## Contact information page in-line alert
 - Appears within Mailing address field directly below hint text.
 - Appears immediately upon arriving on Contact info page.
+- Disappears once Mailing address is successfully updated and validated.
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
@@ -107,7 +110,9 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 ## Email
 
-This initial email template will be sent out through VA Notify to alert Veterans that their email address has been flagged as invalid and needs reviewing.
+_**Note:** FE is not involved in this Email work._ 
+
+This initial email template will be sent out through VA Notify to alert Veterans that their email address has been flagged as invalid and needs reviewing. This has already been added to VANotify staging for when we're ready to send this out. An intake request has also been submitted to VA Profile for them to connect to VANotify to power this notification.
 
 - **Initial email blast** - Initially, the email will be sent out at once to all Veterans with addresses that are currently flagged as invalid. 
 - **Event triggered emails** - Following the initial email blast, the email will be sent out to Veterans with newly flagged addresses - on a daily or weekly basis. Sent out when new addresses are flagged as bad addresses - whenever a new bad address is added.
