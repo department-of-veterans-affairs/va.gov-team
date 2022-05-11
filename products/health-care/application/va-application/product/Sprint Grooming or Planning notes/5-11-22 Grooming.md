@@ -1,4 +1,4 @@
-# May 11, 2022 HEC Bi-weekly Health Care application update
+# May 11, 2022 Grooming session
 
 **PTO/Holidays next sprint**
 - Memorial Holiday: 5/30
