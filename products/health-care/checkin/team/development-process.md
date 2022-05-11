@@ -56,4 +56,4 @@
        - Meets the [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/EngDoRDoD.md)
        - Has been deployed to production 
        - Has its feature flag, if any, turned ON
-       - **Has been prod validated, if necessary   **
+       - **Has been prod validated, if necessary**
