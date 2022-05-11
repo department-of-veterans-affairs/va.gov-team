@@ -2,7 +2,7 @@
 
 ## PURPOSE
 
-- To extend the use of Pre-Check-in to Veterans who have a telephone appointment.
+- To extend the use of Pre-Check-in to Veterans who have a telephone appointment
 
 ## STATUS
 
