@@ -7,6 +7,8 @@
     - PO creates initial user stories for a feature   
     - PO adds feature to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
     - Team creates additional user stories as needed
+- Research
+    - UX and/or PO adds user stories for research activities
 - Tech Debt
     - Engineers create tech debt work items in the "Product Backlog" ZenHub pipeline and attaches to Epic [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
 - Bugs
