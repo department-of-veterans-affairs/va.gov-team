@@ -43,7 +43,7 @@
    - Platform (logistics of research)
    - OVAC
 
-## DEVELOP FEATURES
+## DEVELOP FEATURES, TECH DEBT, OR BUGS
 
 - Features (i.e. Epics)
     - For each feature
@@ -93,7 +93,7 @@
                         - Been validated with design and/or PO
                         - Been validated with Stephen & Patrick
                         - Been listed on the Planned Releases page for at least 15 days
-        - STEP 5: Release Feature, Tech Debt, or Bug
+        - **STEP 5: Release Feature, Tech Debt, or Bug**
             - Dependencies
                 - STEPS 1-4
             - Inputs
