@@ -1,6 +1,6 @@
 # DEVELOPMENT PROCESSES
 
-## IDENTIFY FEATURES, TECH DEBT, AND BUGS
+## IDENTIFY FEATURES, RESEARCH, TECH DEBT, AND BUGS
 
 - Features
     - PO, based on input from the research and/or stakeholders, creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
