@@ -6,7 +6,7 @@
 
 
 #### Short Form
-- Ticket needed for research (Lisa/Matt) on adding a feature flag, so that we can release carefully, and perform UAT
+- Ticket [#41239](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/41239) for research (Lisa/Matt) on adding a feature flag, so that we can release carefully, and perform UAT
 >**Comment from Patrick:**
 >@Lisa and @Matt, this would probably break way too many rules and minds, but one way of possibly making the flagging easier is to clone the application so you have two stand alone 1010 apps, one in current form and one with all the changes, then using flagging at the routing level. Which is obv more complicated than it sounds, but I believe it is something we did on a COVID form recently.
 - Usability tests ready
