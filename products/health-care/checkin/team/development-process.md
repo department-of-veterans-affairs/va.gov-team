@@ -30,7 +30,7 @@
 
 - Sprint Planning
     - Team decides on Sprint capacity 
-    - Team & PO move tickets to the "Current Sprint" ZenHub pipeline as their Sprint commitment
+    - PO move tickets to the "Current Sprint" ZenHub pipeline for the team's Sprint commitment
     - Tickets that are identified as needing to be worked in the current sprint after Sprint Planning has occurred should be discussed with and approved by the Product Owner 
 - UX
     - UX researcher/designer moves tickets to "In Progress" ZenHub pipeline when work is started
