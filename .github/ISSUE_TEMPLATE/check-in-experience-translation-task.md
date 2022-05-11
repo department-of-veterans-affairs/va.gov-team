@@ -7,5 +7,9 @@ assignees: ''
 
 ---
 
-- [ ] Create json file with new content to be translated
-- [ ] Submit json file to the State Department
+## Tasks
+- [ ] Create JSON file with new content to be translated
+- [ ] Submit JSON file to the State Department
+
+## Acceptance Criteria
+- [ ] JSON file has been submitted to the State Department
