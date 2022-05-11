@@ -2,7 +2,7 @@
 In the Product Backlog
 
 ## DESCRIPTION
-- Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment; Veterans will only see the Facility Name for in-person appointments
+- Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment; in addition, Veterans will only see the Facility Name for in-person appointments
 
 ![image](https://user-images.githubusercontent.com/86678742/167910417-4663314b-bf59-4e5b-8534-319a3722f1dd.png)
 
