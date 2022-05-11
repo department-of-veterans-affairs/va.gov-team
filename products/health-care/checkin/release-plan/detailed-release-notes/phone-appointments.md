@@ -1,7 +1,11 @@
+# PRE-CHECK-IN FOR PHONE APPOINTMENT
+
 ## STATUS
 In the Product Backlog
 
 ## DESCRIPTION
+
+### Veterans who have a phone appointment and confirm their appointment via text, will receive a link where they can perform pre-check-in
 
 ### Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment
 
