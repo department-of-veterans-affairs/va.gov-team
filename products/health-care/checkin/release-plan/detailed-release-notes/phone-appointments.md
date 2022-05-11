@@ -3,7 +3,7 @@ In the Product Backlog
 
 ## DESCRIPTION
 
-### Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment
+#### Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment
 ### Veterans will only see the Facility Name for in-person appointments
 ### Veterans will only be instructed to bring their insurance card for in-person appointments
 ### Veterans will be instructed that their provider will call them for phone appointments
