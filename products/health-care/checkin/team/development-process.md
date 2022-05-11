@@ -33,28 +33,28 @@
     - PO move tickets to the "Current Sprint" ZenHub pipeline for the team's Sprint commitment
     - Tickets that are identified as needing to be worked in the current sprint after Sprint Planning has occurred should be discussed with and approved by the Product Owner and accepted or rejected into the Sprint by the team
 - UX
-    - UX researcher/designer moves tickets to "In Progress" ZenHub pipeline when work is started
+    - **UX researcher/designer moves tickets to "In Progress" ZenHub pipeline when work is started**
     - Researchers perform research studies as needed to support feature development
     - Designers create wireframes and prototypes to support feature development
 - Engineering
-    - Engineers move tickets to "In Progress" ZenHub pipeline when work is started
+    - **Engineers move tickets to "In Progress" ZenHub pipeline when work is started**
     - Engineers provide rollout and maintenance support for released features
     - Frontend and backend engineers work together to develop new features
 
 ## RELEASE FEATURES
 
 - UX
-    - UX moves tickets to "Validate" ZenHub pipeline when tickets meet definition of done
+    - **UX moves tickets to "Validate" ZenHub pipeline when tickets meet definition of done**
         - [UX DoD & DoR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/UXDoRDoD.md)
     - UX closes tickets when they have been validated
 - Engineering
-    - Engineers move tickets to "Validate" ZenHub pipeline when tickets meet definition of done
+    - **Engineers move tickets to "Validate" ZenHub pipeline when tickets meet definition of done**
         - [Engineering DoD & DoR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/EngDoRDoD.md)
-    - Engineers must add the Epic/feature to the [Planned Releases list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
+    - **Engineers must add the Epic/feature to the [Planned Releases list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)**
         - Item must remain on the Planned Releases list for at least 15 days before it can be released to production
-    - Engineers must notify the PO when they add an item to the Planned Releases list so that they can notify the necessary parties
+    - **Engineers must notify the PO when they add an item to the Planned Releases list so that they can notify the necessary parties**
     - Engineers close tickets when the code 
-       - Has been on the Planned Releases list for at least 15 days
+       - **Has been on the Planned Releases list for at least 15 days**
        - Has been deployed to production 
        - Has its feature flag, if any, turned ON
-       - Has been prod validated, if necessary   
+       - **Has been prod validated, if necessary   **
