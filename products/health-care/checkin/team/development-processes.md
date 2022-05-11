@@ -99,6 +99,7 @@
                     -  Patrick & Stephen
                     -  Shawn Adams (Training)
                     -  Jason Woodman (Contact Center)
+                    -  Comms????????
 - Sprint Planning
     - Team decides on Sprint capacity 
     - PO move tickets to the "Current Sprint" ZenHub pipeline for the team's Sprint commitment
