@@ -1,5 +1,8 @@
 # CANCELLED APPOINTMENT MESSAGING
 
+## PURPOSE
+To provide a clearer message to the Veteran who tries to complete pre-check-in for an appointment that has been cancelled
+
 ## STATUS
 In the Product Backlog, but Wireframes have not yet been developed
 
