@@ -35,8 +35,8 @@ Mar 2022	|	3.29 M	|	9.90%	|	58.8 |
 
 ## Event data 
 
-The following data represents mobile and desktop events during 3/24/2021 - 4/22/2021. 
-Full data is available in the [baseline wayfinding analysis folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/VA.gov%20home%20page%20link%20click%20events.xlsx).
+The following data represents unique mobile and desktop events during 3/24/2021 - 4/22/2021 and 3/24/2022 - 4/22/2022 as reported in Google analytics. 
+
 
 ### Header events
 
@@ -54,55 +54,110 @@ header  |	Navigation - Crisis Modal Clicked - Header	|	6,333
 ---
 
 ### Mega menu link events
+<details>
+  <summary> Mega menu secondary links </summary>
+  
+  ![Mega menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/secondary%20menu.PNG)
 
-Location	|	Event Action	|	Unique Events
----	|	---	|	---
-Mega menu	|	Navigation - Header - Open Top Level - VA Benefits and Health Care	|	87,132
-Mega menu	|	Navigation - Header - Open Second Level - Disability	|	19,882
-Mega menu	|	Navigation - Header - Open Second Level - Education and training	|	9,491
-Mega menu	|	Navigation - Header - Open Second Level - Health care	|	7,657
+
+Mega menu option	|		Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+---	|	--:	|	--:
+Navigation - Header - Open Second Level - Learn about VA	|	364	|	276
+Navigation - Header - Open Second Level - VA organizations	|	577	|	515
+Navigation - Header - Open Second Level - Burials and memorials	|	2,983	|	2,876
+Navigation - Header - Open Second Level - Life insurance	|	2,857	|	3,259
+Navigation - Header - Open Second Level - Careers and employment	|	3,303	|	4,097
+Navigation - Header - Open Second Level - Pension	|	5,376	|	5,560
+Navigation - Header - Open Second Level - Housing assistance	|	7,040	|	6,694
+Navigation - Header - Open Second Level -	|		|	7,119
+Navigation - Header - Open Second Level - Records	|	6,448	|	7,933
+Navigation - Header - Open Second Level - Health care	|	9,299	|	8,326
+Navigation - Header - Open Second Level - Education and training	|	12,925	|	17,501
+Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
+</details>
+
+### Events on top 4 boxes
+<details>
+  <summary> Top 4 box: health tasks  </summary>
+  
+  ![Top 4 health box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20health%20top%20box.PNG)
+
+|	Health task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+|	---	|	--:	|	--:
+|	Navigation - Zone One - ->/health-care/refill-track-prescriptions - Refill and track your prescriptions - Health care	|	86,077	|	122,822
+|	Navigation - Zone One - ->/health-care/secure-messaging - Send a secure message to your health care team - Health care	|	50,554	|	66,823
+|	Navigation - Zone One - ->/health-care/schedule-view-va-appointments - Schedule and manage health appointments - Health care	|	66,094	|	81,412
+|	Navigation - Zone One - ->/health-care/view-test-and-lab-results - View your lab and test results - Health care	|	37,257	|	49,878
+|	Navigation - Zone One - ->/health-care/apply/application - Apply now for VA health care - Health care	|	26,383	|	28,685
+</details>
+
+<details>
+  <summary> Top 4 box: education tasks  </summary>
+  
+![Top 4 education box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20education%20top%20box.PNG)
+
+|	Education task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+|	---	|	--:	|	--:
+|	Navigation - Zone One - ->/va-payment-history - View your payment history - Education	|		|	83,775
+|	Navigation - Zone One - ->/education/change-gi-bill-benefits - Change your current education benefits - Education	|	20,637	|	28,386
+|	Navigation - Zone One - ->/education/gi-bill-comparison-tool - Compare GI Bill benefits by school - Education	|	12,598	|	18,395
+|	Navigation - Zone One - ->/education/how-to-apply - Apply for education benefits - Education	|	45,611	|	60,077
+</details>
+
+<details>
+  <summary> Top 4 box: disability tasks </summary>
+  
+  ![Top 4 disability box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20education%20top%20box.PNG)
+
+
+|	Disability task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+|	---	|	--:	|	--:
+|	Navigation - Zone One - ->/claim-or-appeal-status - Check your claim or appeal status - Disability	|	723,718	|	866,210
+|	Navigation - Zone One - ->/va-payment-history - View your payment history - Disability	|	199,515	|	238,103
+|	Navigation - Zone One - ->/disability/upload-supporting-evidence - Upload evidence to support your claim - Disability	|	27,546	|	37,918
+|	Navigation - Zone One - ->/disability/how-to-file-claim	|	83,261	|	
+|	Navigation - Zone One - ->https://www.va.gov/disability/file-disability-claim-form-21-526ez/ - File for a VA disability increase - Disability	|		|	42,279
+|	Navigation - Zone One - ->https://www.va.gov/disability/file-disability-claim-form-21-526ez/ - File a claim for compensation - Disability	|		|	62,834
+
+
+</details>
+<details>
+  <summary> Top 4 box: records tasks </summary>
+![Top 4 records box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20records%20top%20box.PNG)
+
+
+|	Records task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+|	---	|	--:	|	--:
+|	Navigation - Zone One - ->/records/get-veteran-id-cards - Get Veteran ID cards - Records	|	52,221	|	52,286
+|	Navigation - Zone One - ->/health-care/get-medical-records - Get your VA medical records - Records	|	27,043	|	37,175
+|	Navigation - Zone One - ->/records/download-va-letters - Download your benefit letters - Records	|	102,657	|	136,295
+|	Navigation - Zone One - ->/change-address - Change your address - Records	|	13,979	|	15,820
+|	Navigation - Zone One - ->/records/get-military-service-records - Request your military records (DD214) - Records	|	30,485	|	36,859
+  </details>
 
 ---
-
-### Events on top 4 box tasks
-_percentages calculated based on a total of 1,032,219 unique events across tasks from top 4 boxes_
-
-Location	|	Task	|	Unique events	|	% of events 
----	|	---	|	---	|	---
-Top 4 boxes	|	 claim-or-appeal-status	|	402,201	|	38.96%
-Top 4 boxes	|	 va-payment-history	|	138,450	|	13.41%
-Top 4 boxes	|	 records/download-va-letters	|	74,986	|	7.26%
-Top 4 boxes	|	 disability/how-to-file-claim	|	63,380	|	6.14%
-Top 4 boxes	|	 health-care/refill-track-prescriptions	|	53,339	|	5.17%
-Top 4 boxes	|	 records/get-veteran-id-cards	|	42,119	|	4.08%
-Top 4 boxes	|	 health-care/schedule-view-va-appointments	|	40,144	|	3.89%
-Top 4 boxes	|	 education/how-to-apply	|	39,137	|	3.79%
-Top 4 boxes	|	 health-care/secure-messaging	|	29,753	|	2.88%
-Top 4 boxes	|	 records/get-military-service-records	|	24,809	|	2.40%
-Top 4 boxes	|	 health-care/view-test-and-lab-results	|	24,150	|	2.34%
-Top 4 boxes	|	 health-care/apply/application	|	22,296	|	2.16%
-Top 4 boxes	|	 disability/upload-supporting-evidence	|	20,646	|	2.00%
-Top 4 boxes	|	 health-care/get-medical-records	|	19,726	|	1.91%
-Top 4 boxes	|	 education/change-gi-bill-benefits	|	16,270	|	1.58%
-Top 4 boxes	|	 gi-bill-comparison-tool	|	11,097	|	1.08%
-Top 4 boxes	|	 change-address	|	9,716	|	0.94%
-
----
-
 ### Events on benefit hub links
-_percentages calculated based on a total of 75,269 unique events across all benefit hub links_
+<details>
+  <summary> Benefit hub links </summary>
+  
+![Benefit hub links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20link%20list.PNG)
 
-Location	|	Event Action	|	Unique Events	| % of events
----	|	---	|	---	|	---
-Benefit hubs	|	Navigation - Link List - Family member benefits	|	15,363	|	20.41%
-Benefit hubs	|	Navigation - Link List - Housing assistance	|	11,934	|	15.86%
-Benefit hubs	|	Navigation - Link List - Disability	|	11,868	|	15.77%
-Benefit hubs	|	Navigation - Link List - Service member benefits	|	11,792	|	15.67%
-Benefit hubs	|	Navigation - Link List - Careers and employment	|	9,182	|	0.89%
-Benefit hubs	|	Navigation - Link List - Health care	|	7,632	|	10.14%
-Benefit hubs	|	Navigation - Link List - Burials and memorials	|	7,498	|	9.96%
 
----
+Benefit hub link	|Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+|	---	|	--:	|	--:
+|	Navigation - Link List - Pension	|	4,767	|	4,939
+|	Navigation - Link List - Life insurance	|	6,032	|	6,511
+|	Navigation - Link List - Records	|	6,118	|	6,761
+|	Navigation - Link List - Education and training	|	6,315	|	8,250
+|	Navigation - Link List - Burials and memorials	|	7,994	|	8,287
+|	Navigation - Link List - Health care	|	8,774	|	8,587
+|	Navigation - Link List - Careers and employment	|	9,726	|	10,348
+|	Navigation - Link List - Housing assistance	|	14,063	|	13,433
+|	Navigation - Link List - Service member benefits	|	13,552	|	15,225
+|	Navigation - Link List - Disability	|	14,457	|	15,690
+|	Navigation - Link List - Family member benefits	|	17,225	|	17,625
+</details>
+
 
 ### Events on VAntage Point navigation
 
