@@ -97,7 +97,14 @@
             - Dependencies
                 - STEPS 1, 3, & 4 (STEP 2 not necessary to release)
             - Inputs
+                - Production-ready feature, tech debt, or bug
+                    - Validated with design and/or PO
+                    - Validated with Stephen & Patrick
+                    - Listed on the Planned Releases page for at least 15 days
             - Outputs
+                -  Feature, tech debt, or bug released to production
+                -  Release artifacts available in production
+                    -  Product Guides, poster, etc.
                 -  New entry in Release Notes for the feauture
                 -  Removal of feature row from the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
                 -  Notification of release in [Channel](https://dsva.slack.com/archives/C022AC2STBM), with callouts to
