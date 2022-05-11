@@ -61,7 +61,7 @@ Now, I’m going to ask you to think about your last VA medical appointment wher
 
 **Send participant [UXPin prototype link](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if) in chat.** 
 
-Alright, I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. You also recently moved, so you need to update your home address. 
+Alright, I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. 
 
 ### SMS and first pass through the first pre-check-in workflow
 At this point, I would like you to share your screen, so we can see the text too. Try to complete the task that the SMS is asking you about. I will just observe you as you try to complete it. I'll ask you questions later. Talk-aloud as you complete the task. Share your thoughts.
