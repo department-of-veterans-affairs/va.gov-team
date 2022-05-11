@@ -1,4 +1,4 @@
-# RELEASE NOTES
+# CHECK-IN AND PRE-CHECK-IN RELEASE NOTES
 
 ## Product Summary
 VA is replacing the proprietary VETLink appointment check-in kiosks with an in-house developed mobile friendly experience that allows Veterans to complete pre-appointment tasks from their home and check in for their health appointments. This system leverages the trusted VA.gov web experience to reduce costs and quickly surface veterans’ status to VA staff, while reducing required interactions and time spent. The check-in experience team does extensive 
