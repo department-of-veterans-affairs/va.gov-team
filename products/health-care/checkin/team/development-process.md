@@ -9,9 +9,9 @@
 - Tech Debt
     - Engineers create tech debt work items in the "Product Backlog" ZenHub pipeline and adds to this Epic: [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
 - Bugs
-    - Anyone can create a bug in the "Product Backlog" ZenHub pipeline and adds to one of these Epics
-        - If bug is for a feature already in production then this Epic: [Ongoing Engineering Support for VISN Rollout](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38980)
-        - If bug is for a feature not yet in production, then use the Epic for the feature 
+    - Anyone can create a bug in the "Product Backlog" ZenHub pipeline and attaches it to one of these Epics
+        - If bug is for a feature already in production, attach to this Epic [Ongoing Engineering Support for VISN Rollout](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38980)
+        - If bug is for a feature not yet in production, attach to the feature Epic 
 
 ## REFINE WORK ITEMS
 
