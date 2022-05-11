@@ -4,7 +4,7 @@ about: For PTEMS Application Teams to request QA Test Plan to be developed durin
   Phase of development.  Open this ticket AT LEAST 4 WEEKS (2 SPRINTS) BEFORE expected
   Platform Staging Review.
 title: "[Product/Feature] PTEMS-QA Test Plan"
-labels: ptems-qa, ptems-qa-test-plan
+labels: QA, PTEMS, qa-test-plan
 assignees: tlei123
 
 ---
@@ -27,10 +27,9 @@ assignees: tlei123
 
 ## Product-team SMEs
 
-**\[if different from (or more specific than) [VA.gov Applications Teams Org Chart](https://docs.google.com/drawings/d/1V5rYPy6gPb1DvjBl2VnygZQelu4bjZrN9trBLb8TpMw)]**
+\[For any Practice-areas worked by 2+ team-member, clarify who specifically is assigned to this initiative/project.  Leave blank for other areas.\]
 
-(Leave blank to implicitly refer to Org Chart linked above)
-Design/Research: 
+Design/Research:
 Content/IA: 
 Front-end: 
 Back-end: 
