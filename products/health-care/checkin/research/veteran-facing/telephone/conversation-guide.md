@@ -43,7 +43,7 @@ Now, I’m going to ask you to think about your last VA medical appointment wher
 - How did you schedule this appointment? 
   - Was it a follow-up from an earlier appointment?
 - Did anyone (possibly a nurse) call you prior to the appointment to ask you questions?
-  - What types of questions are you asked or what types of information do you review?
+  - What types of questions are you asked?
 - Did you receive any reminder messages about this appointment?
   - What type(s) of reminders?
 - Can you describe the day of the appointment? 
@@ -84,11 +84,6 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 - Would you add or remove anything from this text messages?
 - What would you do next? (Direct them to confirm if necessary/applicable, then ask again)
 
-**Identity verification page**
-- Can you explain to me what we're looking at?
-- What are your thoughts about what this page is asking you?
-- Is there anything missing?
-
 **Introduction page**
 - Can you explain to me what we're looking at?
 - What are your thoughts about the information shared with you on this page?
@@ -101,11 +96,6 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 - Is there anything missing or would you change anything?
 - Ideally, which phone number would you like a provider to call you at? 
 - (If applicable) what would you do if you noticed your address is wrong because you just moved? 
-
-**Next of kin**
-- Can you explain to me what we're looking at?
-- What are your thoughts about what this page is asking you?
-- Is there anything missing or would you change anything?
 
 **Confirmation page**
 - What are your thoughts about this page?
