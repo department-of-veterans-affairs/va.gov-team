@@ -3,7 +3,7 @@
 ## IDENTIFY FEATURES, TECH DEBT, AND BUGS
 
 - Features
-    - PO creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
+    - PO, based on input from the research and/or stakeholders, creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
     - PO creates initial user stories for a feature    
     - Team creates additional user stories as needed
 - Tech Debt
