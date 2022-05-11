@@ -1,5 +1,8 @@
 # SPANISH TRANSLATIONS FOR CHECK-IN AND PRE-CHECK-IN
 
+## PURPOSE
+To allow Veterans who's native language is Spanish to view the Pre-Check-in and Check-in content in Spanish
+
 ## STATUS
 In Progress
 
