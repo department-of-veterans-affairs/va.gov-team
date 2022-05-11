@@ -29,5 +29,7 @@ or Caucasian | 44 | Associate's degree,academic | Navy | GA |
 | P13 | Monday, May 16 11:30am - 12:30pm |  |  Android | Veteran | Man | Black or African American | 48 | Professional degree | Army | AL |
 | P14 | Monday, May 16 1:00pm - 2:00pm |  | Android | Veteran;Veteran's caregiver | Woman | American Indian or Alaska Native;White or Caucasian | 49 | Some college, no college degree | Army | TX |
 | P15 | Tuesday, May 17 9:00am - 10:00am |  | Android | Veteran | Woman | American Indian or Alaska Native;White or Caucasian | 55 | Associate's degree, occupational | Navy | OH |
+| P16 | Tuesday, May 17 10:15 am - 11:15 am |   | Veteran | Man | White or Caucasian | 55 | Associate's degree, academic | Army | UT |
+| P17 | Tuesday, May 17 11:30 am - 12:30 pm |   | Veteran | Man | White or Caucasian | 74 | Bachelor's degree | Army | CO |
 ## 
 
