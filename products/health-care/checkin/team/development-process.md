@@ -19,10 +19,12 @@
     - R&D meets with PO to refine research and design work items for a feature or for the research roadmap
     - R&D discusses and points stories
     - PO assigns points to tickets and moves them to the "Ready for Development" ZenHub pipeline
+    - All participate in prioritization of stories
 - Engineering
     - Engineers meet with PO to refine feature & tech debt work items and bugs
     - Engineers discuss and point stories
     - PO assigns points to tickets and moves them to the "Ready for Development" ZenHub pipeline
+    - All participate in prioritization of stories
 
 ## DEVELOP FEATURES
 
