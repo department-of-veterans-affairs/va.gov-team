@@ -113,7 +113,7 @@
     - Engineers provide rollout and maintenance support for released features
     - Frontend and backend engineers work together to develop new features
 
-## RELEASE FEATURES
+## RELEASE FEATURES, TECH DEBT, BUGS
 
 - UX
     - **UX moves tickets to "Validate" ZenHub pipeline when tickets meet the acceptance criteria and are ready to be validated**
