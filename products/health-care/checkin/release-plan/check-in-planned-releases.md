@@ -1,6 +1,6 @@
 # Planned Releases ([Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md))
 
-| Feature or Bug     | Estimated Release | Prod Validation | Actual Release | Description |
+| Feature or Bug     | Estimated Release | Prod Validation | Actual Release | Short Description |
 | :----------------- | :--------- | :---------  | :---------  | :--------------  |
 | Custom Cookie | 5/11/2022  |  |  | [Ticket 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38679) Fix to allow a veteran to seamlessly perform check-in and/or pre-check-in even if they have an active fully authenticated session. |
 | LoROTA Security Updates | TBD |  | | [Epic 29193](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193) Enhancements to security for low-risk one-time-access login. |
