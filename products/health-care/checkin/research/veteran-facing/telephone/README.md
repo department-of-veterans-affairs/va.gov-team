@@ -19,8 +19,7 @@
 | P04 | Thursday, May 12 1:00pm -2:00pm |  | iPhone | Veteran;Veteran's family member (such as a spouse or dependent) | Man | Hispanic, Latino, or Spanish Origin | 39 | Bachelor's degree | Army | TN |
 | P05 | Thursday, May 12 2:15pm – 3:15pm |  | iPhone | Veteran;Veteran's family member (such as a spouse or dependent);Veteran's caregiver;Service member | Woman | Hispanic, Latino, or Spanish origin | 45 | Bachelor's degree | Army | GA |
 | P06 | Friday, May 13 9:00am - 10:00am |  | Android | Veteran | Woman | Asian | 43 | Associate's degree,occupational | Navy | NM |
-| P07 | Friday, May 13 10:15am - 11:15am |  | iPhone | Veteran | Woman | American Indian or Alaska Native;Black or African American;White
-or Caucasian | 44 | Associate's degree,academic | Navy | GA |
+| P07 | Friday, May 13 10:15am - 11:15am |  | iPhone | Veteran | Woman | American Indian or Alaska Native;Black or African American;White or Caucasian | 44 | Associate's degree,academic | Navy | GA |
 | P08 | Friday, May 13 11:30am - 12:30pm. |  | iPhone | Veteran | Man | White or Caucasian | 79 | Associate's degree,occupational | Navy | OH |
 | P09 | Friday, May 13 1:00pm - 2:00pm |  | iPhone | Veteran;Veteran's family member (such as a spouse or dependent) | Man | Hispanic, Latino, or Spanish origin | 31 | Associate's degree,academic | Marine Corps | WA |
 | P10 | Friday, May 13 2:15pm – 3:15pm |  | iPhone | Veteran | Man | Black or African American | 43 | Master's degree | Army | CA |
