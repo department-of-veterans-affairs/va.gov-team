@@ -1,5 +1,8 @@
 # PRE-CHECK-IN FOR PHONE APPOINTMENTS
 
+## PURPOSE
+To extend the use of Pre-Check-in to Veterans who have a telephone appointment.
+
 ## STATUS
 In the Product Backlog
 
