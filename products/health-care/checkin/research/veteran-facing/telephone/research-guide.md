@@ -126,7 +126,7 @@ Research sessions will be conducted in 1 hour sessions over Zoom using a UXPin p
 ### Research Materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
-- Prototype (UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)) 
+- [Prototype](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if)
 	
 ## Recruitment	
 
@@ -207,7 +207,7 @@ We are using Perigean to recruit and will submit 1 FULL week prior to the start 
 
 ### Prepare
 
-The prototypes will be finalized and ready for testing: May 10 (UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)) 
+The prototypes will be finalized and ready for testing: May 10 ([UXPin](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if)) 
  
 * Pilot participant email: Brian Seek (brian.seek@civicactions.com)
 * Date and time of pilot session: May 11 @ 1 p.m.
