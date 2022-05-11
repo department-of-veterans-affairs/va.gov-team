@@ -173,6 +173,11 @@ We'll continue to monitor analytics for V1, but otherwise, these tasks are all f
 - Work with PM to submit sitewide content/IA review
 - Research planning -- what kind of research do we need, and when should we do it?
 
+### My VA health care section
+
+- Launch Next Appointment update when VAOS V2 goes out
+  - We can move this to the following sprint if the VAOS team is not launching before the end of May
+
 ### My VA audit
 
 **Design**
