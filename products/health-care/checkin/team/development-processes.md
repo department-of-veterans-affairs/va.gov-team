@@ -29,6 +29,15 @@
     - PO assigns points to tickets and moves them to the "Ready for Development" ZenHub pipeline
     - All participate in prioritization of stories
 
+## PERFORM RESEARCH
+
+- Identify research study needs and type
+- Develop research plan
+- Develop conversation guide
+- Execute research
+- Synthesize findings
+- Create research study report
+
 ## DEVELOP FEATURES
 
 - Features (i.e. Epics)
