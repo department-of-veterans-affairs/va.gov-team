@@ -216,6 +216,7 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
 
 - **Liz**: 5/18 - 20; 1/2 day on 5/27; 5/31
 - **Adam**: 5/19
+- **Christina**: 5/26 - 27
 
 ### Personal info revisions
 
