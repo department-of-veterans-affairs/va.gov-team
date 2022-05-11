@@ -58,7 +58,7 @@
         - Outputs
             - Finalized wireframes
             - Content in English
-    - **STEP 2: PO publishes pre-release notes w/ wireframes for Contact Center & Training to see upcoming features 
+    - **STEP 2: PO publishes pre-release notes w/ wireframes for Contact Center & Training to see upcoming features** 
         - Dependencies
             - STEP 1
             - NOTE: we should wait until we are ready to begin development work to publish the pre-release notes
