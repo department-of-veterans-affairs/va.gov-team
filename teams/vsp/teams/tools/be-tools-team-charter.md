@@ -40,7 +40,6 @@ _List of products within your team's perview - make sure the list of products he
 - BE Dev Engineer: Riley Anderson
 - BE Dev Engineer: Jeremy Wu
 - BE Dev Engineer: Rachal Cassity 
-- Dev Ops Engineer: Naoufal El Hilali
 ---
 
 ## How we work
