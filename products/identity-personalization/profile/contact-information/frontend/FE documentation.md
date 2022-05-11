@@ -15,7 +15,8 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 ## Personal information page Alert
 
-- In-line warning alert above H1 heading. Check in with Josh on proper implementation when adding above H1. Per his instructions - something might need to be done to the code here to make it ok that it is above H1.
+- In-line warning alert above H1 heading. 
+	- **Accessibility:** Check in with Josh on proper implementation when adding above H1. Per his instructions - something might need to be done to the code here to make it ok that it is above H1.
 - Appears immediately upon logging into Profile. 
 
 - High-Fi Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4)
@@ -38,7 +39,8 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 - Main alert at top of page, immediately below H1 Contact information. 
 - Appears immediately upon arriving on Contact info page.
-- Jump link takes user to Mailing address field. Ask accessibility where focus should go.
+- Jump link takes user to Mailing address field. 
+	- **Accessibility:** Ask accessibility where focus should go.
 
 - Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
