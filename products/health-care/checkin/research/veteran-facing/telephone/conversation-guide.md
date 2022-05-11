@@ -18,7 +18,7 @@
 
 ### Project-specific setup
 
-- UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)
+- [UXPin](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if)
 
 ## Intro - 5 minutes
 
@@ -59,8 +59,7 @@ Now, I’m going to ask you to think about your last VA medical appointment wher
 
 ## First Task: Happy path for pre-check-in for a telephone appointment - 30 minutes
 
-**Send participant [UXPin prototype link]() in chat.** 
-UXPin is in-progress. [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/eKer500/play)
+**Send participant [UXPin prototype link](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if) in chat.** 
 
 Alright, I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. You also recently moved, so you need to update your home address. 
 
