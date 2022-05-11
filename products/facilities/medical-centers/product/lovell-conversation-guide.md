@@ -25,11 +25,11 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Valerie Runde and I also have some colleagues on the line observing and taking notes. Today we're going to talk about a new design for the Lovell Federal Health Care Center. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -46,8 +46,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
-
+## First Task:  - 5 minutes
+Participant: Dual-eligible Veterans
+Start screen: (VA beneficiary Lovell Federal Health Care Center)[https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/sitemap?mode=i]
 - Step 1
 - Step 2
 
