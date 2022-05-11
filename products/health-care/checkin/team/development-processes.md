@@ -58,7 +58,21 @@
         - Outputs
             - Finalized wireframes
             - Content in English
-    - **STEP 2: UX sends content to the State Department to get translated (template = check-in-experience-translation-task.md)**
+    - **STEP 2: PO publishes pre-release notes w/ wireframes for Contact Center & Training to see upcoming features 
+        - Dependencies
+            - STEP 1
+            - NOTE: we should wait until we are ready to begin development work to publish the pre-release notes
+        - Inputs
+            - Finalized wireframes
+            - Content in English
+        - Outputs
+            - Published pre-release notes w/ wireframes attached
+            - Notification of planned release in [Channel](https://dsva.slack.com/archives/C022AC2STBM), with callouts to
+                -  Patrick & Stephen
+                -  Shawn Adams (Training)
+                -  Jason Woodman (Contact Center)
+                -  Comms????????
+    - **STEP 3: UX sends content to the State Department to get translated (template = check-in-experience-translation-task.md)**
         - Dependencies
             - STEP 1
         - Inputs
@@ -68,7 +82,7 @@
         - Outputs
             - Translated content
                 - NOTE: translated content must go through internal VA QA process??????
-    - **STEP 3: UX prepares updates to release artifacts (template = check-in-experience-prod-artifacts-task.md)**
+    - **STEP 4: UX prepares updates to release artifacts (template = check-in-experience-prod-artifacts-task.md)**
         - Dependencies
             - STEP 1
         - Inputs
@@ -77,7 +91,7 @@
         - Outputs
             - Updated product release artifacts
                 - NOTE: artifacts should not be made available until feature released to production
-    - **STEP 4: Engineering develops Feature, Tech Debt, or Bug**
+    - **STEP 5: Engineering develops Feature, Tech Debt, or Bug**
         - Dependencies
             - STEP 1
         - Inputs
@@ -92,14 +106,14 @@
                     - Been validated with design and/or PO
                     - Been validated with Stephen & Patrick
                     - Been listed on the Planned Releases page for at least 15 days
-    - **STEP 5: Release Feature, Tech Debt, or Bug**
+    - **STEP 6: Release Feature, Tech Debt, or Bug**
         - Dependencies
-            - STEPS 1, 3, & 4 (STEP 2 not necessary to release)
+            - STEPS 1, 2, 4, 5 (STEP 3 not necessary to release)
         - Inputs
             - Production-ready feature, tech debt, or bug
                 - Validated with design and/or PO
                 - Validated with Stephen & Patrick
-                - Listed on the Planned Releases page for at least 15 days
+                - Pre-release notes published
         - Outputs
             -  Feature, tech debt, or bug released to production
             -  Release artifacts available in production
@@ -127,7 +141,6 @@
     - Frontend and backend engineers work together to develop new features
     - Engineers move tickets to "Validate" ZenHub pipeline when tickets meet the acceptance criteria and are ready to be validated
     - Engineers close tickets when the code 
-       - **Has been on the Planned Releases list for at least 15 days**
        - Meets the [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/EngDoRDoD.md)
        - Has been deployed to production 
        - Has its feature flag, if any, turned ON
