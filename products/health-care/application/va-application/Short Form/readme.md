@@ -89,7 +89,6 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 ### Timeline 
 - ???? 2022: Complete QA
-- ???? 2022: Complete UAT
 - ???? 2022: Launched to ???% of users
 
 
@@ -97,7 +96,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - 4/7/2022
 - *Actual Launch Date* 
   - tbd
 
@@ -105,6 +104,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
    
 ## Screenshots
 [Authenticated Workflow](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
+
 [Unauthenticated Workflow](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i)
 
 ### After
