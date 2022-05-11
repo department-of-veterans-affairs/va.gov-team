@@ -1,5 +1,8 @@
 # LoROTA SECURITY UPDATES
 
+## PURPOSE
+To offer a more secure environment in which to allow Veterans to use the low-risk one-time authorization for completing the pre-check-in and check-in workflows.
+
 ## STATUS
 In Progress
 
