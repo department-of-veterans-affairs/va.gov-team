@@ -64,7 +64,7 @@ Paper version will be released in August
 ### Action Items:
 - Tarsha to take back 
      - Next step: Determine what questions are required for Registration Only pathway
-- Christopher will assist with getting the metrics we are requesting
-- HEC team to discuss with Josh F. on SIGI information, and what happens with it if ES is not ready in August
+     - Christopher will assist with getting the metrics we are requesting
+     - HEC team to discuss with Josh F. on SIGI information, and what happens with it if ES is not ready in August
 - Lauren will continue to find out more on Medicaid question
 - 10-10 team to discuss EZR (Christopher request)
