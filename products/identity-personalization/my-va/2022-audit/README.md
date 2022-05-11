@@ -1,6 +1,6 @@
-# Project outline: My VA audit & updates
+# Project outline: My VA audit, updates, and documentation
 
-Last updated April 26, 2022
+Last updated May 11, 2022
 
 ### Communications
 
@@ -35,12 +35,15 @@ As a result, we've decided to conduct an audit of My VA to document and evaluate
 
 Ultimately, we plan to make design updates that bring greater consistency to how each section loads, handles errors, and shows conditional information, resulting in a page that is easier to manage and scale. We hypothesize that this will improve the end user experience by increasing clarity and ease of use, as well as by making it easier for us to continue to add features we know people expect.
 
+Once we have completed updates to each section, we also plan to create comprehensive My VA documentation, which does not currently exist. This will help new and existing team members to be able to better manage this page.
+
 ## Problems
 
 - Each section of My VA handles loading, errors, and conditional states differently.
 - Each section of My VA has so many states that the My VA team can't remember or easily test them all.
 - Because we don't show sections unless we can successfully load information, this can result in errors floating at the top of My VA, unclear to what they are actually related.
 - Because of all of these inconsistencies, My VA is hard to scale because each new section adds a fair amount of chaos.
+- We do not have comprehensive My VA documentation, and we need that in order to more easily onboard new folks and manage this page.
 
 ## User Outcomes
 
@@ -61,6 +64,7 @@ Ultimately, we plan to make design updates that bring greater consistency to how
 - My VA will be more consistent.
 - My VA will be easier to manage.
 - My VA will be easier to scale.
+- My VA will have comprehensive documentation.
 
 ### Undesired Business Outcomes
 
