@@ -79,7 +79,7 @@ We already know that Veterans are familiar with a location experience that does 
 We already know that research has been conducted on the existing VAMC experience.
 
 * Veterans and dual-eligible Veterans will be able to identify whether the page they are on is for VA or TRICARE health care beneficiaries.
-* Veterans and dual-eligible Veterans will be able to locate the informational alert where they are able to switch between VA and TRICARE health care.
+* The informational alerts helps Veterans and dual-eligible Veterans understand whether they're viewing VA or TRICARE health information, and to navigate to the other experience, if desired.
 
 Veterans are familiar with a location experience that does not separate the experience by beneficiary, but they will be able to identify which health care they need and where they can find it.
 
