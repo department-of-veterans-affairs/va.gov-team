@@ -21,7 +21,7 @@ notDeceasedIndicator | True if deathDtInd is not ‘Y’ | deathDtInd | deathDtI
 
 ## Staging users
 
-- I saw this alert for user 0 con 5/2/22.
+- I saw this alert for user 0 on 5/2/22.
 
 The following test users were used for the original implementation, but I can't promise they work anymore or still have these flags:
 
