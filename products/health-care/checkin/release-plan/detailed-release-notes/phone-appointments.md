@@ -19,11 +19,11 @@ In the Product Backlog
 
 ![image](https://user-images.githubusercontent.com/86678742/167914408-31880aae-40c3-4d6a-9908-2847f24a3d87.png)
 
-### Veterans who have a phone appointment and indicate that their contact, emergency contact, and/or next-of-kin information needs to be updated as part of the pre-check-in will not be instructed to contact a staff member when they check-in to update their information
+### Veterans who have a phone appointment and indicate that their contact, emergency contact, and/or next-of-kin information needs to be updated as part of the pre-check-in process will not be instructed to contact a staff member when they check-in to update their information
 
 ![image](https://user-images.githubusercontent.com/86678742/167912796-e0ae630b-e36a-482c-b5d7-5ee0942a9781.png)
 
-### Veterans who have a phone appointment will see different information in the "How can I update my information?" section than Veterans with an in-person appointment
+### Veterans doing pre-check-in for a phone appointment will see different information in the "How can I update my information?" section than Veterans doing pre-check-in for an in-person appointment
 
 ![image](https://user-images.githubusercontent.com/86678742/167910138-5ff5a602-3535-45c3-98e4-a70ac2237a26.png)
 
