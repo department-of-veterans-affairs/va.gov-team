@@ -5,7 +5,7 @@
 - Features
     - PO, based on input from the research and/or stakeholders, creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
     - PO creates initial user stories for a feature   
-    - PO adds feature to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md)
+    - PO adds feature to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-prod-validation.md) with an Estimated Release Date of TBD
     - Team creates additional user stories as needed
 - Research
     - UX and/or PO adds user stories for research activities
