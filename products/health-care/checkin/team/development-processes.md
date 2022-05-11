@@ -1,4 +1,4 @@
-# DEVELOPMENT PROCESS
+# DEVELOPMENT PROCESSES
 
 ## IDENTIFY FEATURES, TECH DEBT, AND BUGS
 
@@ -28,6 +28,51 @@
 
 ## DEVELOP FEATURES
 
+- Features (i.e. Epics)
+    - For each feature
+        - STEP 1: UX develops wireframes (template = check-in-experience-wireframe-task.md)
+            - Dependencies
+                - None
+            - Inputs
+                - Research
+                - Collaboration with Design System team
+                - Collaboration with Accessibility team
+                - Collaboration with Platform team
+            - Outputs
+                - Finalized wireframes
+                - Content in English
+        - STEP 2: UX sends content to the State Department to get translated (template = check-in-experience-translation-task.md)
+            - Dependencies
+                - STEP 1
+            - Inputs
+                - Finalized wireframes
+                - Content in English
+            - Outputs
+                - Translated content
+                    - NOTE: translated content must go through internal VA QA process??????
+        - STEP 3: UX prepares updates to release artifacts (template = check-in-experience-prod-artifacts-task.md)
+            - Dependencies
+                - STEP 1
+            - Inputs
+                - Finalized wireframes
+                - Content in English
+            - Outputs
+                - Updated product release artifacts
+                    - NOTE: artifacts should not be made available until feature released to production
+        - STEP 4: Engineering develops feature
+            - Dependencies
+                - STEP 1
+            - Inputs
+                - Finalized wireframes
+                - Content in English
+                - Translated content 
+                    - NOTE: This will come later, _"Full translation coming soon"_ message should be displayed on the page until all translated content is in production for that page
+            - Outputs
+                - Validated feature
+                    - NOTE: feature should not be released to production until it has
+                        - Been validated with design and/or PO
+                        - Been validated with Stephen & Patrick
+                        - Been listed on the Planned Releases page for at least 15 days
 - Sprint Planning
     - Team decides on Sprint capacity 
     - PO move tickets to the "Current Sprint" ZenHub pipeline for the team's Sprint commitment
