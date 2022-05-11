@@ -11,7 +11,7 @@
 
 ## Participants
 
-| Session Notes   | Session Day & Time | Start with Prototype 1 or 2 | Session Status | Phone | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | In-person Visit | With Specialist | 
+| Session Notes   | Session Day & Time | Start with Prototype 1 or 2 | Attended or No Show | Phone | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | In-person Visit | With Specialist | 
 | ------------------------------------------------------------ |------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | P01 | Thursday, May 12 9:00am -10:00am | 1 |  | iPhone | Veteran | Woman | Black or African American | - | Master's degree | Army | VA | Yes | Yes |
 | P02| Thursday, May 12 10:15am -11:15am |  |  | iPhone | Veteran | Woman | Hispanic, Latino, or Spanish Origin | 25 | Some college, no college degree | Navy | MD | No | No |
