@@ -1,6 +1,11 @@
+----
+
+
 # History of research projects on Veteran Facing Tools
 
-This does not include research for Appeals projects, which is stored in different repos. 
+Please archive [your research findings on your research ticket on the Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/70#:~:text=What%20to%20do%20when%20you%20complete%20your%20research)
+
+Note: this document does not include research history for Appeals projects, which is stored in different repos. 
 
 **Updating This? Follow this format:** 
 

@@ -78,11 +78,12 @@ The pre-check-in experience is an important part of moments that matter at diffe
 
 ### Research Goals	
 
-Understand current experience that Veterans have with telephone appointments
-Understand expectations of pre-check-in for Veterans with telephone appointments
-Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
-How to denote that the appointment will take place on the telephone
-How to set expectations with a Veteran that a provider may not join the appointment exactly at the stated appointment time
+- Understand current experience that Veterans have with telephone appointments
+- Understand expectations of pre-check-in for Veterans with telephone appointments
+- Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
+- How to denote that the appointment will take place on the telephone
+- How to set expectations with a Veteran that a provider may not join the appointment exactly at the stated appointment time
+
 ### Research Outcomes 
 
 We will apply findings and insights from this research to identify the optimal way for Veterans with telephone appointments to access and complete the pre-check-in experience in a seamless way that’s deemed valuable to Veterans. 
@@ -91,29 +92,23 @@ Recommendations and improvements will be included in subsequent releases of the 
 
 ### Research Questions 
 
-Understand current experience that Veterans have with telephone appointments
-What pain points exist, if any? 
+- Understand current experience that Veterans have with telephone appointments
+  - What pain points exist, if any? 
+- Understand expectations of pre-check-in for Veterans with telephone appointments
+  - What type of tasks would these patients expect to complete (if any) prior to their appointments? 
+- Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
+  - Do Veterans have a preference (if any) on when and how to fill out pre-check-in questions prior to their telephone appointment? 
+  - Does the Veteran understand the appointment will take place over the phone and not in-person?
+  - What expectations does a Veteran have about  when a provider will join a telephone appointment?
 
-
-Understand expectations of pre-check-in for Veterans with telephone appointments
-What type of tasks would these patients expect to complete (if any) prior to their appointments? 
-
-Identify the optimal way for Veterans with telephone appointments to experience pre-check-in 
-Do Veterans have a preference (if any) on when and how to fill out pre-check-in questions prior to their telephone appointment? 
-Does the Veteran understand the appointment will take place over the phone and not in-person?
-What expectations does a Veteran have about  when a provider will join a telephone appointment?
-
-Conversation guide (TBD)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
 
 ### Hypothesis
 
-Hypothesis 1. Veterans will find it valuable to confirm their phone number before their appointment in the pre-check-in experience. 
-
-Hypothesis 2: Veterans will find it easy to have the pre-check-in experience integrated into the existing appointment notifications process. 
-
-Hypothesis 3: Veterans will understand their appointment is supposed to take place over the telephone and not in-person.
-
-Hypothesis 4. Veterans will find the day of check-in easier for telephone appointments with a pre-check-in experience that educates them on what to expect on the day of their appointment (e.g. their provider will call, and the Veteran may need to wait after the scheduled time). 
+- Hypothesis 1. Veterans will find it valuable to confirm their phone number before their appointment in the pre-check-in experience. 
+- Hypothesis 2: Veterans will find it easy to have the pre-check-in experience integrated into the existing appointment notifications process. 
+- Hypothesis 3: Veterans will understand their appointment is supposed to take place over the telephone and not in-person.
+- Hypothesis 4. Veterans will find the day of check-in easier for telephone appointments with a pre-check-in experience that educates them on what to expect on the day of their appointment (e.g. their provider will call, and the Veteran may need to wait after the scheduled time). 
 
 ### Method	
 
@@ -130,8 +125,8 @@ Research sessions will be conducted in 1 hour sessions over Zoom using a UXPin p
 
 ### Research Materials
 
-- Conversation guide (TBD)
-- Prototype (TBD) 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
+- [Prototype](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if)
 	
 ## Recruitment	
 
@@ -159,8 +154,8 @@ We will use a lean maximum variation inclusive research strategy.
     - At least 1 who identifies as Biracial
     - At least 1 who doesn’t have a degree
 
-    - - At least 3 participants that have identified cognitive impairments and/or functional disabilities.
-    - Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+    - At least 3 participants that have identified cognitive impairments and/or functional disabilities.
+      - Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 - Participants must be willing to join the research session via their mobile phones:
     - At least 5 participants should have an iOS smartphone
@@ -212,43 +207,43 @@ We are using Perigean to recruit and will submit 1 FULL week prior to the start 
 
 ### Prepare
 
-The prototypes will be finalized and ready for testing: [TBD] 
+The prototypes will be finalized and ready for testing: May 10 ([UXPin](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if)) 
+ 
+* Pilot participant email: Brian Seek (brian.seek@civicactions.com)
+* Date and time of pilot session: May 11 @ 1 p.m.
 
-* Pilot participant email: [TBD]
-* Date and time of pilot session: [TBD]
+### Research sessions and Availability
 
-### Research sessions
-
-We’d like to schedule user testing sessions [date range]. 
+We’d like to schedule user testing sessions May 12 - 17. 
+- May 12 8:00 a.m. - 5 p.m.
+- May 13 8:00 a.m. - 5 p.m.
+- May 16 8:00 a.m. - 2:30 p.m.
+- May 17 8:00 a.m. - 2:30 p.m.
 
 ### Length of sessions
 
 The sessions will be 1 hour in length. 
 Please allow a buffer time of 15 minutes between sessions. 
-Please schedule no more than 3 sessions a day. 
-
-### Availability
-
-TBD
 	
 ## Team Roles	
 - Moderator: Nira Datta, Kristen McConnell
 - Research guide writing and task development (usually but not always same as moderator): Nira Datta, Kristen McConnell
 - Participant recruiting & screening: Perigean
 - Project point of contact: Stephen Barrs (Stephen.Barrs@va.gov) and Patrick Bateman (patrick.bateman@va.gov)
-- Participant(s) for pilot test: [TBD]
+- Participant(s) for pilot test: Brian Seek (brian.seek@civicactions.com)
 - Note-takers: Perigean
 - Observers:	
-Stephen Barrs (Stephen.Barrs@va.gov)
-Martha Wilkes (Martha.Wilkes@va.gov)
-Ya-ching Tsao (yaching.tsao@civicactions.com)
-Zach Park (zach.park@agile6.com)
-Sarah Knopp (sarah.knopp@agile6.com)
-Lori Pusey (lori.pusey@agile6.com)
-Kristen McConnel (Kristen.McConnell@adhocteam.us)
-Adrian Rollett (adrian.rollett@agile6.com)
-Bethany Dunfield (bethany.dunfield@civicactions.com)
-Brian Seek (brian.seek@civicactions.com)
-Dan Goodwin (dan.goodwin@civicactions.com)
-Gaurav Gupta (ggupta@kindsys.us)
-Kanchana Suriyamoorthy (ksuriyamoorthy@kindsys.us)
+  - Stephen Barrs (Stephen.Barrs@va.gov)
+  - Martha Wilkes (Martha.Wilkes@va.gov)
+  - Ya-ching Tsao (yaching.tsao@civicactions.com)
+  - Zach Park (zach.park@agile6.com)
+  - Sarah Knopp (sarah.knopp@agile6.com)
+  - Lori Pusey (lori.pusey@agile6.com)
+  - Kristen McConnel (Kristen.McConnell@adhocteam.us)
+  - Adrian Rollett (adrian.rollett@agile6.com)
+  - Bethany Dunfield (bethany.dunfield@civicactions.com)
+  - Brian Seek (brian.seek@civicactions.com)
+  - Dan Goodwin (dan.goodwin@civicactions.com)
+  - Gaurav Gupta (ggupta@kindsys.us)
+  - Kanchana Suriyamoorthy (ksuriyamoorthy@kindsys.us)
+  - Chris Horton (chris.horton@oddball.io)

@@ -1,24 +1,26 @@
-# VSA Quality Assurance
+# PTEMS Quality Assurance
+[formerly VSA QA]
 
-**Point of contact**: Tze-chiu Lei, QA Engineer [Github: @tlei123]
+**Point of contact**: Tze-chiu Lei, Sr. Software Engineer (QA) [Github: @tlei123]
+**GitHub label: ptems-qa
 
-This is the documentation home/hub of the VSA Quality Assurance (VSA-QA) process, best-practices, tools, and any other relevant information that would help VSA Engineering teams with QA/testing.
+This is the documentation home/hub of the PTEMS Quality Assurance (PTEMS-QA) processes, best-practices, tools, and any other relevant information that would help PTEMS VA.gov Applications teams with QA/testing.
 
-NOTE: This documentation here is VSA-QA's adaptation & supplement of [VSP's Quality Assurance documentation][vsp-qa].  As such, it does not encompass everything covered there [see [VSA-QA Tasks & Capacity](vsa-qa-tasks-capacity.md)]
+NOTE: This documentation here is PTEMS-QA's adaptation & supplement of [Platform's Quality Assurance documentation][platform-qa-docs].  As such, it does not encompass everything covered there [see [PTEMS-QA Tasks & Capacity](ptems-qa-tasks-capacity.md)]
 
 Content here will grow over time.  Below are links to our currently-available docs/tools/info:
 
-[Process (Manual-UI testing)](vsa-qa-process.md) (for VSP Staging Review)
+[Manual-UI Testing process](manual-ui-testing-process.md) (for Platform Staging Reviews)
 
-[Capacity & Tasks](vsa-qa-tasks-capacity.md)
+[Capacity & Tasks](ptems-qa-tasks-capacity.md)
 
-[Test Cases](vsa-qa-test-cases.md) [WIP]
+[Test Cases](ptems-qa-test-cases.md)
 
-[TestRail help](testrail/README.md) [WIP]
+[TestRail help](testrail/README.md)
 
-[E2E Testing](vsa-qa-e2e-testing.md) [WIP]
+[E2E Testing](ptems-qa-e2e-testing.md)
 
-[Regression Testing](vsa-qa-regression.md) [WIP]
+[Regression Testing](ptems-qa-regression.md)
 
 
-[vsp-qa]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance
+[platform-qa-docs]: https://depo-platform-documentation.scrollhelp.site/developer-docs/QA-and-accessibility-testing.1847820556.html

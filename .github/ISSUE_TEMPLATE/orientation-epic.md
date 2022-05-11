@@ -62,7 +62,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### Get set up for your practice area
 #### Designers & Researchers
-- [ ] Review [Design & Research Onboarding Documentation](https://design.va.gov/documentation/designers)
+- [ ] Review [Design & Research Onboarding Documentation](https://design.va.gov/about/designers)
 - [ ] Review the [VA.gov Design System](https://design.va.gov/)
 - [ ] Review the [Research and Design Guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html) on Platform Website
 - [ ] Attend Design orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform))

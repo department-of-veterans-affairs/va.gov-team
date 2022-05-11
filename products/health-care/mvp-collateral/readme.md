@@ -93,6 +93,7 @@ If your facility or organization sends emails to Veteran subscribers, below are 
 ### Other content
 
 Note: Newest content is listed first
+- [AZO Life Sciences: An Interview with The Million Veteran Program (MVP)](https://www.azolifesciences.com/news/20220128/An-Interview-with-The-Million-Veteran-Program-(MVP).aspx)
 - [VAntage Point: #VADidThat: Million Veteran Program leads way to medical discoveries, one Veteran at a time](https://blogs.va.gov/VAntage/101496/vadidthat-million-veteran-program-leads-way-to-medical-discoveries-one-veteran-at-a-time/)
 - [Video: #VADidThat: Leading the way to medical discoveries, one Veteran at a time](https://www.youtube.com/watch?v=c5ZamPNuWAs)
 - [VAntage Point: Yogurt is good for your heart, VA study finds](https://blogs.va.gov/VAntage/100610/yogurt-is-good-for-your-heart-va-study-finds/)

@@ -18,7 +18,7 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 ### Phase II - Navigation Model Exploration ###
  - [Comparative Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis)
  - [Navigation Design Workshop (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1648667549883/2f4416cd2a5b9bddce0e2ecc0f078d4f7218a2fe?sender=uff1791dd79ec763420518644)
- - [Success Criteria & Navigation Model Audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit)
+ - [Navigation Model Audit + Recommendation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit)
  
  
  

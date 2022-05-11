@@ -20,3 +20,5 @@
 ## Example
 username,roles,sections<br>
 kitty.kauff@va.gov,"content_editor,vamc_content_creator",VA Birmingham health care
+
+csv example for download [bulk migrate.csv](https://github.com/department-of-veterans-affairs/va.gov-team/files/8603498/bulk.migrate.csv)

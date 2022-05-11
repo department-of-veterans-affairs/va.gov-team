@@ -1,8 +1,9 @@
 # Contact Information Product Outline
 
-Last Updated April 13, 2022
+Last Updated May 5, 2022
 
-Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+- **Github labels**: vsa-authenticated-exp; profile
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
      
 ## Roles
 
@@ -62,7 +63,7 @@ As a user, I want to be able to:
 
 ## Projects
 
-[See profile product outline for full list of projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects)
+[See profile roadmap for full list of completed projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
 ## How to Access and Test
 

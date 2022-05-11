@@ -139,14 +139,14 @@ The next phase will involve removing the `hlr_v2` feature flag, all the v1 code,
 - Pending
   - [ ] Update benefit selection ([#37470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37470))
   - [ ] Add VSO question ([#36135](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36135))
+  - [ ] HLR - move entire app to `src/applications/appeals` folder, since it's an appeal and doesn't belong in `disability-benefits` ([#41101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41101))
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
-  - [ ] HLR tier 3 support ([#37913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37913)) - awaiting Luke Majewski to provide Veteran's `account_uuid` for further investigation
-  - [ ] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
+  - [x] HLR tier 3 support ([#37913](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37913)) - awaiting Luke Majewski to provide Veteran's `account_uuid` for further investigation (Closed, incomplete)
+  - [x] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
 - Fixed bug ticket followup (to ensure they are fixed)
-  - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
+  - [x] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
-  - [ ] HLR - move entire app to `src/applications/appeals` folder, since it's an appeal and doesn't belong in `disability-benefits`
   - [ ] Add claimant ([Lighthouse schema v2](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/appeals_api/config/schemas/v2/200996.json#L109))
   - [ ] Lighthouse may be combining HLR & NOD get contestable issues endpoint. Check with backend to see if this will change the API the frontend is calling
   - [ ] Remove `hlr_v2` feature flag & associated code
@@ -176,10 +176,10 @@ Lighthouse reported that version 2 of the schema is ready to be implemented, cha
   - [ ] Need help phone number? ([#24984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24984)) - no phone number in the PDF, which number to use?
 - Work dependent on another team
   - [ ] Update form routers ([#36088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36088)) - Forms system needs to be updated
-  - [ ] QA review ([#21046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21046))
+  - [x] QA review ([#21046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21046))
   - [x] Content recommendations for verify your identity alert ([#38849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38849)) - this ticket is for HLR, but will also apply to NOD
 - Fixed bug ticket followup (to ensure they are fixed)
-  - [ ] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
+  - [x] Sentry error followup ([#27926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27926))
 - Later work
   - [ ] Update `10182-contact-loop.cypress.spec.js` so contact "update" test works (coordinate with authenticated experience team) - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#contact-loop-testing)
   - [ ] Update area of disagreement page to be a custom page and use the checkbox group component - see [tech docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_details.md#area-of-disagreement-grouped-checkboxes)
@@ -200,7 +200,7 @@ This app has needed some maintenance since this team was started, mostly around 
 - Pending
   - [ ] Missing info ([#21066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21066))
   - [ ] Support request ([#36869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36869))
-  - [ ] Replace e-benefits links ([#39899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39899)) - awaiting IA & content review
+  - [x] Replace e-benefits links ([#39899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39899)) - awaiting IA & content review
 
 - Later work
   - [ ] Code cleanup (lots of eslint warnings to be addressed)

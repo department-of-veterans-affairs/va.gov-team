@@ -11,3 +11,4 @@
 - [`/token` Token](endpoints/token.md)
 - [`/introspect` Introspect](endpoints/introspect.md)
 - [`/signout` Signout/Logout](endpoints/signout.md)
+- [`/revoke` Revoke Tokens](endpoints/revocation.md)

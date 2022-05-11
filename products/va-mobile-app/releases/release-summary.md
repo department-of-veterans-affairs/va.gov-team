@@ -1,14 +1,55 @@
 # VA Mobile team - Release Highlights
 
+## Release: 5/10/22
+
+Improvements & Bug Fixes
+
+Bug Fixes:
+- Fixed persistent display of snackbar in draft folder.  Snackbar now disappears during navigation 
+   - Additional Impacted flows: 
+   - claim evaluation request
+   - claim status details
+   - list of claims
+   - submitting a file/photo upload for claims loading screen
+   - file request list screen
+   - file request instructions screen for individual file request
+- Fixed issue where several unhappy path's for snackbars were not including the flag for a 'retry' button on the snackbar.
+- Readded fix to claims and appeals when the display title is missing and causing string manipulations methods to crash
+- Fixed double pop-up issue for asking to discard claims upload file/photo to only have one pop-up alert 
+- Fixed snackbar error messaging for removing address 
+- Fixed issue to enable screen reader to read sent date/time in message list items (inbox, custom folders)
+- Fix to Military Information page with no military info is non-functional with sufficiently large font. 
+
+TLC & Improvements:
+
+- Standardize snackbar focus & dismissal
+- Accessibility updates: 
+   - Added step and status information to claim phase accessibility labels
+- Implemented clearer messaging (confirmation/snackbar) when updates are made to a users mailing or home address (changed or removed)
+- Implemented clearer messaging (confirmation message/snackbar) when user updates their direct deposit info
+
+
 ## Release: 4/26/22
 
 
 Improvements & Bug Fixes
 
+- Update app to use user V1 endpoint
+   - leveraging authorizedServices object for direct deposit policy
+   - Removed Gender/Fax field
+
+- Crashlytics logging added to try/catch blocks
+- TLC
+   - Updated in-content buttons = sentence case
+   - HIG buttons (action sheets, alerts) are title cased
+   - Material buttons (dialogs) are all caps
+   - Links are sentenced case 
 
 Bug Fixes
 
-
+- Claim refinements for accessibility alerts
+- Fixed landscape/rotation spacing issues for claim file request photo upload thumbnail 
+- Fixed Military info page with no military info (dark mode) ensuring "we Can't access your military info' message is displayed
 
 BackEnd Release
 

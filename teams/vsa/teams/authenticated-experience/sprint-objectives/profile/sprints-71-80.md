@@ -212,29 +212,84 @@ This assumes all Liz's sprint 72 tickets are complete and the work is ready to g
 
 ## Sprint 74 (5/18 - 5/31)
 
-### Onboarding
+### PTO
 
-- Onboard Erica #40106
+- **Liz**: 5/18 - 20; 1/2 day on 5/27; 5/31
+- **Adam**: 5/19
+- **Christina**: 5/26 - 27
 
 ### Personal info revisions
 
-**FE**
+For Design, FE, and BE: QA fixes, if applicable
 
-- Adam to update URLS to point to new contact information sections
+**PM**
+
+- Hold Staging review
+- Make sure privacy review is completed, if not already done
+
+**FE - Adam**
+
+- FE to implement analytics tracking
+- Update URLS to point to new contact information sections
   -  This work should be gated behind the personal info revisions feature flag
   -  [Notes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/cross-app-profile-links.md) 
 
+### MHV profile research
+
+**Design - Liz**
+
+- If scheduling works out, share results with MHV team
+
+### Military information
+
+**PM**
+
+- Determine QA strategy -- do we need something beyond internal QA?
+- Determine UAT strategy -- do internal UAT with real veterans on the team?
+- Analytics planning -- do we need to make any updates?
+
+**BE**
+
+- Finish backend integration with VA Profile 
+
 ### Direct deposit
 
-- Update sketch files
+**PM**
+
+- Review build
+- Deetermine when we should launch strategy
+- Maybe launch updates
+
+**Design - Liz**
+
+- Continue documentation as needed
+- Review build 
+
+**FE - Mark**
+
+- Finish FE updates if they are not already done
+
+### Bad address indicator
+
+**Design - Christina**
+
+- Research plan and convo guide
+
+**FE - Adam**
+
+- Can we start FE build?
 
 ### General
 
-**Mark & Tom**
+**FE - Mark**
 
-- Work on diagrams for profile products
+- In the "nametag" element, what happens if someone is in Space Force? #40910
 
 ## Sprint 75 (6/1 - 6/14)
+
+### PTO
+
+- **Liz**: 6/1 - 6/6
 
 ## Sprint 76 (6/15 - 6/28)
 

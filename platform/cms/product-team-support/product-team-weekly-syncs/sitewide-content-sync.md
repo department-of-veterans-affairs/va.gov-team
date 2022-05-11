@@ -10,6 +10,16 @@
 <details><summary>Parking lot</summary>
  </details>
 
+## May 10, 2022
+### Agenda
+- Facilities COVID status
+  - Roundtable of what we're working on
+  - Any blockers or issues
+- How to [update standardized Facility COVID Status language](https://prod.cms.va.gov/admin/structure/taxonomy/manage/facility_supplemental_status/overview) (Content admins only)
+- Comms to PAOs about Web/CMS how-tos 
+  - timeline for writing and sending
+  - contents
+
 ## April 19, 2022
 ### Agenda
 - Sitewide CMS team configuration (Kevin and Erika)

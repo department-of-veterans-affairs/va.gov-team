@@ -18,7 +18,7 @@
 |**Bad address indicator** | - | - | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
 |**MHV Profile research**| - | - |Begin research | Finalize research & recommendations|-|- |
 |**Integrate military info through VA Profile**| - | - | - | Update integration | Launch if not already done |- |
-|**Persistently show direct deposit section instead of showing conditionally**| - | - | - | Design/Start build | Finish build; launch|- |
+|**Persistently show direct deposit section instead of showing conditionally**| - | - | - | Design, build, launch | - |- |
 
 ## Completed projects & enhancements
 

@@ -157,43 +157,90 @@ Whatever is not done from sprint 72, plus:
 - Continue/finish frontend, including handling of multiple alerts
 
 ## Sprint 74 (5/18 - 5/31)
+[Epic: #40777](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40777)
+
+### Payment and debts section
+
+We'll continue to monitor analytics for V1, but otherwise, these tasks are all for V2:
+
+**PM**
+
+- Submit sitewide content/IA review ([collab cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Sitewide-Content-and-IA-intake-request.2124906551.html))
+
+**Design**
+
+- Design updates if they didn't happen or weren't finished in sprint 73
+- Work with PM to submit sitewide content/IA review
+- Research planning -- what kind of research do we need, and when should we do it?
+
+### My VA health care section
+
+- Launch Next Appointment update when VAOS V2 goes out
+  - We can move this to the following sprint if the VAOS team is not launching before the end of May
 
 ### My VA audit
 
 **Design**
 
-- Start streamlining states for each section
-  - Start with nametag and payment info (since we are working on it anyway)
-  - Each section should always appear on the page
-  - Each section should have the following: loading state; blank state(s); content state(s); error state(s). Note: the nametag might be a little different, as there's never a totally blank state, and we don't show big error alerts for content we can't load.
+- If the audit is done, Angela should share it with the team
+- If it's not done, let's talk about what still needs to happen
+
+### My VA redirect
+
+**PM**
+
+- Collab cycle kickoff
+- Figure out which teams need to be involved in the redirect
+- Make sure we'll be able to get weekly Medallia reports as needed
+- Determine preliminary launch date
+
+### On-site notifications
+
+**PM**
+
+- Continue to figure out QA strategy with DMC
+- Figure out analytics issue -- can we track the on-site notification separately from what we have in payments & debts?
+- Once we have figured out the anayltics issue, submit analytics request
+
+**FE**
+
+- Finish FE if it's not done
 
 ## Sprint 75 (6/1 - 6/14)
+[Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 
-### My VA: Cerner updates
+### Cerner updates
 
 (692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
 (653) Roseburg: Go-live -- 6/11/2022
 
+### My VA redirect
+
 ## Sprint 76 (6/15 - 6/28)
+[Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
 ### My VA: Cerner updates
 
 (531) Boise: Go-live -- 6/25/2022
 
 ## Sprint 77 (6/29 - 7/12)
+[Epic: #40787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40787)
 
 ## Sprint 78 (7/13 - 7/26)
+[Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
 
 ### My VA: Cerner updates
 
 (463) Anchorage: Go-live -- 7/16/2022
 
 ## Sprint 79 (7/27 - 8/9)
+[Epic: #40789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40789)
 
 ### PTO
 
 - Samara: Aug 1 - 5
 
 ## Sprint 80 (8/10 - 8/23)
+[Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
 
 (663) Seattle: Go-live -- 8/27/2022

@@ -1,12 +1,15 @@
 ---
 name: Check In Experience Feature Flag Task
-about: For Creating a Check In Experience Feature Flag
+about: Task to create a feature flag
 title: "[FE] Create Feature Flag '<feature_flag_name>'"
 labels: frontend, HCE-Checkin
 assignees: ''
 
 ---
 
-## Task
-- [ ] Create the following feature flag and set it's state to Off in dev, staging, & production
-    - <feature_flag_name>
+## Feature Flag Name
+**_insert feature flag name_**
+
+## Tasks
+- Create feature flag
+- Set feature flag to OFF

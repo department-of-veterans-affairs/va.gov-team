@@ -123,7 +123,7 @@ Demos are held at the end of each sprint for all teams at the same time. Everyon
 5. Limit communication to what is being demoed. If questions arise that need further discussion, table them for another time.
 
 ## Retrospectives
-Retros are held at the end of each sprint separately, per team (Core Application, Product Support). The goal is to have a joint, all team retro at least once per quarter. Retros are typically captured in Trello here.
+Retros are held at the end of each sprint separately, per team (Core Application, Product Support). The goal is to have a joint, all team retro at least once per quarter. Retros are typically captured in Trello [here](https://trello.com/vacmsteam).
 
 ### Best practices
 1. The retro should feel as celebratory as possible - completing two weeks of good, impactful work is important to lift up.
