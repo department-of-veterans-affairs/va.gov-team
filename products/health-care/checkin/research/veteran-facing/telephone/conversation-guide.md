@@ -43,7 +43,7 @@ Now, I’m going to ask you to think about your last VA medical appointment wher
 - How did you schedule this appointment? 
   - Was it a follow-up from an earlier appointment?
 - Did anyone (possibly a nurse) call you prior to the appointment to ask you questions?
-  - What types of questions are you asked?
+  - What types of questions are you asked? And please note, no need to share anything specific related to your health which is your private info; I'm curious about the general type of questions you were asked. 
 - Did you receive any reminder messages about this appointment?
   - What type(s) of reminders?
 - Can you describe the day of the appointment? 
@@ -79,10 +79,10 @@ Things to watch for
 ### Second pass through the first pre-check-in workflow
 Now, I'm going to have you go back through the exercise again. This time I'll ask you some questions at each point in the process. 
 
-**Text**
+**Pre-check-in Text (second text with link to pre-check-in)**
 - What are your thoughts about what the text is asking you to do?
 - Would you add or remove anything from this text messages?
-- What would you do next? (Direct them to confirm if necessary/applicable, then ask again)
+- What would you do next? (Direct them to select the link if necessary)
 
 **Introduction page**
 - Can you explain to me what we're looking at?
@@ -115,8 +115,7 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 
 ## Second Task: Non-happy path for pre-check-in for a telephone appointment - 30 minutes
 
-Imagine it’s the morning of your appointment, and you decide to click on the link in a text you received a few days ago. You see this page [ _show the ‘after midnight /before appointment’ error page_]
-- What are your thoughts about this page? 
+Imagine it’s the morning of your appointment. You just remembered you were sent an SMS link about the appointment. You see this page, and you decide to complete the question it is asking you. Walk me through what you would do here. 
 - Why do you think you are seeing this page? 
 - What information is helpful (if anything)? 
 - Is there anything missing or would you change anything? 
