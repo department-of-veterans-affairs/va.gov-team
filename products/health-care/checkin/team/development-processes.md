@@ -34,9 +34,14 @@
 - Identify research study needs and type
 - Develop research plan
 - Develop conversation guide
+- Schedule the study
 - Execute research
 - Synthesize findings
-- Create research study report
+- Create research study report & presentation
+- Present the study 
+   - Team, Stephen, Patrick
+   - Platform (logistics of research)
+   - OVAC
 
 ## DEVELOP FEATURES
 
