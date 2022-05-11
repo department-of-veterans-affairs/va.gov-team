@@ -35,10 +35,10 @@
 - Develop research plan
 - Develop conversation guide
 - Schedule the study
-- Execute research
+- Execute the study
 - Synthesize findings
-- Create research study report & presentation
-- Present the study 
+- Create study report & presentation
+- Present the study to
    - Team, Stephen, Patrick
    - Platform (logistics of research)
    - OVAC
