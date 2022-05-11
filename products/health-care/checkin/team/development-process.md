@@ -4,7 +4,8 @@
 
 - Features
     - PO creates an Epic for a feature in the "Product Backlog" ZenHub pipeline 
-    - PO creates user stories for a feature
+    - PO creates initial user stories for a feature    
+    - Team creates additional user stories as needed
 - Tech Debt
     - Engineers create tech debt work items in the "Product Backlog" ZenHub pipeline and adds to this Epic: [Tech/Design Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/27217)
 - Bugs
