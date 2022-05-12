@@ -52,7 +52,7 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 We would like Perigean to recruit **63** people using the cohorts below in order to get at least **30 completes (ideally 40-50)**.
 Overall, we would like to get about 
 - **2/3 Veterans** and **1/3 caregivers** of Veterans
-- **1/2 with experience using some VA benefits/services** and 1/2 without such experience but interest in some
+- **1/2 with experience using some VA benefits/services** and others without such experience but interest in some
 
 ### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
