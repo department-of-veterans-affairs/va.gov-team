@@ -58,7 +58,7 @@ Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview
 - Does the participant notice the informational alert experience switcher?
 
 ## First Task v.2: Switching Experiences - 5 minutes
-Participant: Veteran with VA healthcare<br>
+Participant: Veteran with VA health care<br>
 Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148531346/simulate/no-panels?mode=i)
 
 - As someone who is enrolled in VA health care, where would you go to get more information on the pharmacy at Lovell Federal Health Center?
