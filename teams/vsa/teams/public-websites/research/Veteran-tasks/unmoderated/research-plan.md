@@ -87,7 +87,7 @@ Overall, we would like to get about
 - All must have experience with one or more of the following VA benefits or services: housing, pension, life insurance, or burial benefits
 - [Cohort G study link]()
 
-### Secondary participant criteria (across all cohorts):
+### Secondary participant criteria (nice to haves) across all cohorts:
 - At least 6 women
 - At least 15 people age 55 or older
 - At least 5 people age 35 or under
