@@ -15,6 +15,10 @@
 - **Cerner updates**: Ongoing throught Summer 2022, though this is a small effort.
 - **My VA audit and related updates**: On going large effort. Expected through Summer 2022.
 
+### Potential Q3 - Q4 projects
+
+- Research to determine what to do next with the profile
+
 ## Profile
 
 ### Q2 expected launch (before the end of June)
@@ -38,5 +42,4 @@ None of these would start until all Q2 launches are wrapped.
 - Tackle profile backlog
   - FE: Alert styling updates from Liz's audit last summer.
   - Design: Should we implement editing on a single page? If so, this would be a big research + design + FE effort.
-
-Do we need some research to determine what to do next with the profile?
+- Research to determine what to do next with the profile
