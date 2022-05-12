@@ -46,7 +46,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: Switching Experiences v.1 - 5 minutes
+## First Task v.1: Switching Experiences - 5 minutes
 Participant: Dual-eligible Veterans<br>
 Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/no-panels?mode=i)
 
@@ -57,7 +57,7 @@ Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview
 - Does the participant see that the page they are on is for VA beneficiaries?
 - Does the participant notice the informational alert experience switcher?
 
-## Second Task: Switching Experiences v.2 - 5 minutes
+## First Task v.2: Switching Experiences - 5 minutes
 Participant: Veteran with VA healthcare<br>
 Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148531346/simulate/no-panels?mode=i)
 
@@ -68,7 +68,7 @@ Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://pr
 - Does the participant see that the page they are on is for TRICARE beneficiaries?
 - Does the participant notice the informational alert experience switcher?
 
-## Third Task: Location Experience v.1 - 5 minutes
+## Second Task v.1: Location Experience - 5 minutes
 Participant: Dual-eligible Veterans<br>
 Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/no-panels?mode=i)
 
@@ -80,7 +80,7 @@ Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583
 - Does the participant notice the informational alert experience switcher?
 - Can the participant complete the task of starting at the VA system-level page and navigating through to the appropriate TRICARE location?
 
-## Fourth Task: Location Experience v.2 - 5 minutes
+## Second Task v.2: Location Experience v.2 - 5 minutes
 Participant: Veteran with VA health care<br>
 Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/no-panels?mode=i)
 
