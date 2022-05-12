@@ -27,7 +27,7 @@
 
 **Have we received approval on all content/copy?**
 
-- 
+- Yes [ticket 36862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36862)
 
 **Have test users been reset to default/null state so that QA can proceed with testing?**
 
