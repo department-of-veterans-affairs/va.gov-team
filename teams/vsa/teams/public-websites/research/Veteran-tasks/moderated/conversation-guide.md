@@ -17,7 +17,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to card sort: URL TBD*
+- *Open a standalone browser window to survey: URL TBD*
 
 - *Have bitly link in Slack ready to paste into Zoom chat (or wherever): TBD*
 
@@ -34,18 +34,13 @@
 ## Intro - 5 minutes
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
-I have some colleagues on the line observing and taking notes. Today we're going to talk about what you do with the VA.
+I have some colleagues on the line observing and taking notes. Today we're going to talk about what kinds of activities you do with the VA.
 
 Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-
-- I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
-  - I could dictate it to you, put it in the Zoom chat or email it to you.
-    - *(if email)* Is your current email XYX *(get from participant roster)* ?
-
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -73,48 +68,54 @@ Before we start, I want to go over a few things:
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
  
 ## Warm-up Questions - 5 minutes
-*NOTE how to share URL: dictate / Zoom chat / email* 
-
 Let’s start with a few questions... 
-- What device are you using today? *(iPhone / Android / Tablet / Computer--REQUIRED)*
+
+- I will be sharing a web page link with you during the session. How would you prefer to receive the URL?
+  - I could dictate it to you or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
+
+- What device are you using today? *(Computer / Tablet / Smartphone)*
 
 - Are you currently involved with the VA? If so, how? 
-- *want to get at what VA-related tasks they have done before, do regularly, plan to do. ask them to list some. ask what's most important* 
- 
-- Have you used any VA benefits or services before? If so, which ones?
-  - *RECORD: health care / education / career services / disability / housing / pension / life insurance / burial / ___________*
- 
-- Are there any that you haven't used before but are interested in exploring?
+
+- *(If yes:)* What kinds of VA-related activities do you do?
+- Can you list some specific activities that you do? *RECORD tasks*
+
+- *(For each task mentioned:)* When was the last time that you did that? 
+
+- Are there any VA benefits that you haven't used before but are interested in exploring?
 
 ## Screen sharing
-I have an activity that I'd like you to do on your computer while sharing your screen with me over Zoom.
+I have a survey that I'd like you to do on your computer while sharing your screen with me over Zoom.
 
-While you're looking doing this activity, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+While you're looking doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a URL that I'm going to *[spell/put into the Zoom chat/email]* for you to click on (TBD). 
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on (TBD). 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
-## Do the card sort
+## Do the survey
 
-I'd like you to do this activity and talk with me about it as you do it. 
+I'd like you to do this activity and talk with me about it as you do it. I especially want to hear about anything that seems confusing.
 
   
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
-- SUMMATIVE/REFLECTIVE Qs TBD
 
+I'm interested in your feedback on the survey you just did.- SUMMATIVE/REFLECTIVE Qs TBD
+- What did you like about the survey?
+- What did you dislike about the survey?
+- What would you like to change about the survey?
 - Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA website.
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## After Session 
 - Click "End" on zoom website
@@ -125,4 +126,4 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on TBD.
-- Reviewed and approved by TBD on TBD.
+- Reviewed and approved by Shane or Clayton on TBD.
