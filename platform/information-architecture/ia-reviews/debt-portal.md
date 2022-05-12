@@ -15,7 +15,13 @@
 
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
-
+- This work brings 2 authenticated tools together under an overarching summary page, and a parent unauth static landing page.  
+- Unauth users will always be taken to the unauth static landing page. From there the user can click/tap the sign-in CTA and complete the sign in flow.  Once authenticated, they should be taken directly to the summary level of the auth tool, or the intended deeper page within the authenticated too.
+- In order to continue to link users to specific functions within the auth tool, entry point links in content and navigation components may target deeper pages within the structure - i.e. a link to "Pay your copay bill" will take a user to that specific page within the tool rather than the summary level.  
+  - All unauth users will first be taken
+  - When unauth users are deep linked into the auth tool, they will first be sent to the unauth static page where they can click a CTA to sign-in and continue forward.  After authenticating, they should be forwarded on to their originally intended destination.
+  - When auth users are deep linked into the auth tool, they will bypass the unauth static page and be taken directly to their destination
+- Based on the approach to bypass the unauth static landing page for authenticated users, the corresponding segment for that page in the breadcrumb should be hidden once you are in the 
 ![image](https://user-images.githubusercontent.com/20994159/164260715-36f62613-9c2e-40ee-ae8c-dcbc806db4ff.png)
 
 
