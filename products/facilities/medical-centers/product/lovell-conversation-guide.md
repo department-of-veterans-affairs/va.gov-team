@@ -18,10 +18,6 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
 
 ## Intro - 5 minutes
 
