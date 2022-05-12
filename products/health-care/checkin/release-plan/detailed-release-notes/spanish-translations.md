@@ -6,7 +6,8 @@
 
 ## STATUS
 
-- In Progress
+- Wireframes have been developed
+- Feature development is in progress
 
 ## DESCRIPTION
 
