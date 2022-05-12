@@ -8,6 +8,7 @@
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
   - *@mention team members*
 - *Share brief summary of participant demographic info*
+- *Make sure that the survey is LIVE*
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
