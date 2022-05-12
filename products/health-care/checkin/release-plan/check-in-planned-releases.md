@@ -2,7 +2,7 @@
 
 # Past Releases
 
-Release notes for past releases can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md))
+Release notes for past releases can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
 
 # Planned Releases 
 
