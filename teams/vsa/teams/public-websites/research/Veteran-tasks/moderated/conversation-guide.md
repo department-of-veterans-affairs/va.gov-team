@@ -34,7 +34,7 @@
 ## Intro - 5 minutes
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
-I have some colleagues on the line observing and taking notes. Today we're going to talk about what kinds of activities you do with the VA.
+I have some colleagues on the line observing and taking notes. Today we're going to talk about what kinds of activities--if any--that you do with the VA.
 
 Before we start, I want to go over a few things:
 
@@ -71,14 +71,14 @@ Before we start, I want to go over a few things:
 Let’s start with a few questions... 
 
 - I will be sharing a web page link with you during the session. How would you prefer to receive the URL?
-  - I could dictate it to you or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
+  - I could dictate it to you, or put it in the Zoom chat. *NOTE how to share URL: dictate / Zoom chat* 
 
-- What device are you using today? *(Computer / Tablet / Smartphone)*
+- What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
 - Are you currently involved with the VA? If so, how? 
 
   - *(If yes:)* What kinds of VA-related activities do you do?
-  - Can you tell me about some specific activities that you have done? *RECORD tasks*
+  - Can you tell me about some specific activities that you have done? *(RECORD tasks)*
 
   - *(For each task mentioned:)* When was the last time that you did that? 
 
@@ -92,7 +92,7 @@ While you're looking doing this survey, I would like you to *talk aloud* as much
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on (https://bit.ly/3FG0eFT). 
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on (https://bit.ly/3FG0eFT) *(with a zero, not the letter "o")*. 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
