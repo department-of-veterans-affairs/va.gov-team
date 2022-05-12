@@ -39,8 +39,6 @@ The online survey will be built in Optimal Workshop's survey tool, which is call
 
 In the survey, participants will select which VA-related tasks are important to them personally (*not* for all Veterans). Participants will also be asked if there are any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
 
-*Action item: Try to get Optimal Workshop license upgraded in order to allow more than 40 responses*
-
 ### Research materials
 - [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
 - [Link to conversation guide]()--NOT READY YET
