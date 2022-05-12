@@ -6,7 +6,7 @@ Release notes for past releases can be found [here](https://github.com/departmen
 
 # Planned Releases 
 
-The following represents releases planned by the Modernized Check-in Team. Click on the release to see a description of the feature/bug along with its development status.
+The following are the releases planned by the Modernized Check-in Team. Click on the release to see a description of the feature/bug along with its development status.
 
 | Planned Release    | Estimated Release | Prod Validation | Actual Release | Short Description |
 | :----------------- | :--------- | :---------  | :---------  | :--------------  |
