@@ -61,7 +61,7 @@ Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview
 Participant: Veteran with VA healthcare<br>
 Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148531346/simulate/no-panels?mode=i)
 
-- As someone who is enrolled in VA benefits, where would you go first to get more information on pharmacy benefits at Lovell Federal Health Center?
+- As someone who is enrolled in VA benefits, where would you go to get more information on pharmacy benefits at Lovell Federal Health Center?
 
 ### Things to watch for:
 
