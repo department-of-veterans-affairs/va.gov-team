@@ -44,5 +44,5 @@ Why was Mulesoft implemented to begin with?
 >The overall goal is to give the users submitting an application a better experience and to ultimately reduce the number of failures to zero when they are submitting a 10-10CG. Queuing the data gives us an opportunity to present the user with a response (even if the system may need to continue to process things in the background) and will allow us to implement retry logic in cases where we encounter failures due to connectivity or timeout issues. Happy to discuss further on Friday's standing call if that works for you all. 
 
 ### Action Items
-- [ ] Heather will send note to CG team requesting a presentation/explanation to help us understand what problem was being resolved by implementing Mulesoft, and now that Mulesoft is implemented, what problem is now occuring that this new solution is being presented?
+- [x] Heather will send note to CG team requesting a presentation/explanation to help us understand what problem was being resolved by implementing Mulesoft, and now that Mulesoft is implemented, what problem is now occuring that this new solution is being presented?
 - [ ] Once we are in the discussion with the Caregiver teams, we can ask some of our questions that might inspire more thoughts on the solution, keeping the applicant experience in mind.
