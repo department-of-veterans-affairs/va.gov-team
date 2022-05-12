@@ -16,8 +16,6 @@ Giving us good insight into
 * % of duplicates
 * Changes in total # of applications overall
 
-![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/analytics/hcaapplicationbenchmarks.png "Application Benchmarks")
-![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/analytics/hcaapplicationoverall.png "Application Overall")
 
 ## Resources
 * [10-10EZ Google Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/)
