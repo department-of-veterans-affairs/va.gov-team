@@ -72,7 +72,7 @@ Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://pr
 Participant: Dual-eligible Veterans<br>
 Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/no-panels?mode=i)
 
-- As someone who prefers to receive care at a TRICARE locations, how would you find information on the USS Red Rover location?
+- As someone who prefers to receive care at a TRICARE location, how would you find information on the USS Red Rover location?
 
 ### Things to watch for:
 
@@ -80,7 +80,7 @@ Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583
 - Does the participant notice the informational alert experience switcher?
 - Can the participant complete the task of starting at the VA system-level page and navigating through to the appropriate TRICARE location?
 
-## Second Task v.2: Location Experience v.2 - 5 minutes
+## Second Task v.2: Location Experience - 5 minutes
 Participant: Veteran with VA health care<br>
 Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/no-panels?mode=i)
 
