@@ -50,7 +50,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 Participant: Dual-eligible Veterans<br>
 Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/no-panels?mode=i)
 
-- If you preferred TRICARE pharmacy benefits and wanted to learn more about TRICARE pharmacy benefits, where would you go?
+- If you preferred TRICARE pharmacy and wanted to learn more about TRICARE pharmacy benefits, where would you go?
 
 ### Things to watch for:
 
