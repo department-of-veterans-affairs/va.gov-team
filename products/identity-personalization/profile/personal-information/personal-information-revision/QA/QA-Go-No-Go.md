@@ -1,7 +1,7 @@
 # Personal Information Revisions: QA Go / No Go 
 ### Meeting Date: 5/12/2022
 
-### Decision: 
+### Decision: GO Tze!
 
 ---
 
