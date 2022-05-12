@@ -1,4 +1,4 @@
-# Conversation Guide: Veteran Top Tasks MODERATED research--*NEEDS WORK--NOT DONE!!*
+# Conversation Guide: Veteran Top Tasks MODERATED research
 
 ## Moderator logistics
 
@@ -17,9 +17,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to survey: URL TBD*
+- *Open a standalone browser window to survey: https://bit.ly/3FG0eFT (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=M)*
 
-- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): TBD*
+- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://bit.ly/3FG0eFT*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -77,12 +77,12 @@ Let’s start with a few questions...
 
 - Are you currently involved with the VA? If so, how? 
 
-- *(If yes:)* What kinds of VA-related activities do you do?
-- Can you list some specific activities that you do? *RECORD tasks*
+  - *(If yes:)* What kinds of VA-related activities do you do?
+  - Can you tell me about some specific activities that you have done? *RECORD tasks*
 
-- *(For each task mentioned:)* When was the last time that you did that? 
+  - *(For each task mentioned:)* When was the last time that you did that? 
 
-- Are there any VA benefits that you haven't used before but are interested in exploring?
+- Are there any VA benefits that you haven't used before but that you're interested in exploring?
 
 ## Screen sharing
 I have a survey that I'd like you to do on your computer while sharing your screen with me over Zoom.
@@ -92,20 +92,22 @@ While you're looking doing this survey, I would like you to *talk aloud* as much
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on (TBD). 
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on (https://bit.ly/3FG0eFT). 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
 ## Do the survey
 
-I'd like you to do this activity and talk with me about it as you do it. I especially want to hear about anything that seems confusing.
+I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you.
+
+*RECORD all feedback on survey--instructions, questions, tasks in list*
 
   
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-I'm interested in your feedback on the survey you just did.- SUMMATIVE/REFLECTIVE Qs TBD
+I'm interested in your thoughts on the survey you just did.
 - What did you like about the survey?
 - What did you dislike about the survey?
 - What would you like to change about the survey?
@@ -113,7 +115,7 @@ I'm interested in your feedback on the survey you just did.- SUMMATIVE/REFLECTIV
 
 ## Thank You and Closing - 1 minute
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA website.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
 Thank you so much again, and I hope that you enjoy the rest of your day!
 
