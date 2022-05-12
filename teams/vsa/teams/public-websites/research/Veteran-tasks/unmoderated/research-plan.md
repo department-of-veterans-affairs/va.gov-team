@@ -41,11 +41,7 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 
 *Action item: Revise survey per moderated research (phase 1 of 2).*
 
-*Action item: Add a question for participants to provide their unique code from Perigean.*
-
 *Action item: Add tokens to differentiate the different cohorts in the survey and create distinct links for each cohort. Add links below.*
-
-*ISSUE: See if VA will upgrade our Optimal Workshop license from the current "Starter" license, which allows a maximum of 40 responses. Ideally, I'd like to be able to have 40-60 responses.*
 
 ### Research materials
 - [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
