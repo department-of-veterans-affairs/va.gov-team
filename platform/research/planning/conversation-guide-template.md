@@ -93,6 +93,12 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
+##
+
+## Emergency Exit
+
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+
 ## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
 
 - [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 

@@ -54,7 +54,8 @@ Additional resources:
 - Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
 - If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
 - If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- If conducting [research with disabled Veterans, refer to this checklist.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md) 
+- If conducting [research with disabled Veterans, refer to this checklist.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/research-checklist.md)
+- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)

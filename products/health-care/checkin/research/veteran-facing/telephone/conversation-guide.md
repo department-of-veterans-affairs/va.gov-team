@@ -18,7 +18,7 @@
 
 ### Project-specific setup
 
-- [ ] [UXPin Prototype]( will update when wireframes are finalized)
+- [UXPin](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if)
 
 ## Intro - 5 minutes
 
@@ -41,27 +41,27 @@ Before we start, a few things I want to mention:
 Now, I’m going to ask you to think about your last VA medical appointment where you spoke to the physician over the phone.
 - What was the type of appointment, such as primary care, cardiology, dermatology, etc.?
 - How did you schedule this appointment? 
-- Was it a follow-up from an earlier appointment?
+  - Was it a follow-up from an earlier appointment?
 - Did anyone (possibly a nurse) call you prior to the appointment to ask you questions?
-- What types of questions are you asked or what types of information do you review?
+  - What types of questions are you asked? And please note, no need to share anything specific related to your health which is your private info; I'm curious about the general type of questions you were asked. 
 - Did you receive any reminder messages about this appointment?
-- What type(s) of reminders?
+  - What type(s) of reminders?
 - Can you describe the day of the appointment? 
-- Who called who?
-- Was it on your personal mobile phone, landline, or work phone?
-- If it was on your mobile phone, do you recall if it was a general phone number or a private number?
-- What types of questions do the medical professionals (such as a doctor) ask at the start of your telephone appointments? For instance, do they review your list of medications?
+  - Who called who?
+  - Was it on your personal mobile phone, landline, or work phone?
+    - If it was on your mobile phone, do you recall if it was a general phone number or a private number?
+  - What types of questions do the medical professionals (such as a doctor) ask at the start of your telephone appointments? For instance, do they review your list of medications?
 - If you need to cancel or reschedule your telephone appointment, how do you normally do that?
-- Ideally, how would you like to cancel or reschedule?
+  - Ideally, how would you like to cancel or reschedule?
 - What do you like about medical appointments completed over the telephone?
 - What problems have you run into before, during or after a telephone appointment?
 - What could be improved? 
 
 ## First Task: Happy path for pre-check-in for a telephone appointment - 30 minutes
 
-**Send participant [UXPin prototype link]() in chat.**
+**Send participant [UXPin prototype link](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638?mode=if) in chat.** 
 
-Alright, I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. You also recently moved, so you need to update your home address. 
+Alright, I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. 
 
 ### SMS and first pass through the first pre-check-in workflow
 At this point, I would like you to share your screen, so we can see the text too. Try to complete the task that the SMS is asking you about. I will just observe you as you try to complete it. I'll ask you questions later. Talk-aloud as you complete the task. Share your thoughts.
@@ -72,21 +72,17 @@ Things to watch for
   - Did they successfully find where they could update their home address?
 - Were there any usability issues/points of confusion?
 - Do they call out the type of appointment (telephone) when viewing the introduction page?
+- Did they wanting to indicate phone preference or issues in the past receiving calls at the wrong number? 
 - Were the next steps after completing pre-check-in understandable?
 – Did they try to select any of the accordions on the confirmation page? 
 
 ### Second pass through the first pre-check-in workflow
 Now, I'm going to have you go back through the exercise again. This time I'll ask you some questions at each point in the process. 
 
-**Text**
+**Pre-check-in Text (second text with link to pre-check-in)**
 - What are your thoughts about what the text is asking you to do?
 - Would you add or remove anything from this text messages?
-- What would you do next? (Direct them to confirm if necessary/applicable, then ask again)
-
-**Identity verification page**
-- Can you explain to me what we're looking at?
-- What are your thoughts about what this page is asking you?
-- Is there anything missing?
+- What would you do next? (Direct them to select the link if necessary)
 
 **Introduction page**
 - Can you explain to me what we're looking at?
@@ -98,28 +94,28 @@ Now, I'm going to have you go back through the exercise again. This time I'll as
 - What are your thoughts about what this page is asking you?
 - Are there any other pieces of contact information that you would like to review on this page?
 - Is there anything missing or would you change anything?
+- Ideally, which phone number would you like a provider to call you at? 
 - (If applicable) what would you do if you noticed your address is wrong because you just moved? 
-
-**Next of kin**
-- Can you explain to me what we're looking at?
-- What are your thoughts about what this page is asking you?
-- Is there anything missing or would you change anything?
 
 **Confirmation page**
 - What are your thoughts about this page?
 - Once you submit these  questions, who do you expect will have access to the answers that you entered?
   - Is it what you were expecting or not expecting?
 - Is there any other information we should include here?
-- What do you think happens when you click on the “Profile” link?
 - What do you do now that you have completed pre-check-in? 
   - Would you want to navigate anywhere else? Why or why not? 
   - What would be the next thing that you do related to your appointment?
-- What do you expect will happen if you clicked on the “Sign in to add to calendar and see details”
+- What other tasks could you do on this page?
+  - What are your thoughts on these tasks? 
+  - What do you think happens when you click on the "Get travel pay"?
+  - What do you think happens when you click on "Sign in to manage all appointments"? 
+  - What do you think happens when you click on "Check in to another appointment"? 
+- What do you think happens when you click on the “Log in" in the section "How can I update my information?"
+- What are your thoughts on the order of the information on this page? (Would you move anything around? why or why not?)
 
 ## Second Task: Non-happy path for pre-check-in for a telephone appointment - 30 minutes
 
-Imagine it’s the morning of your appointment, and you decide to click on the link in a text you received a few days ago. You see this page [ _show the ‘after midnight /before appointment’ error page_]
-- What are your thoughts about this page? 
+Imagine it’s the morning of your appointment. You just remembered you were sent an SMS link about the appointment. You see this page, and you decide to complete the question it is asking you. Walk me through what you would do here. 
 - Why do you think you are seeing this page? 
 - What information is helpful (if anything)? 
 - Is there anything missing or would you change anything? 
@@ -127,11 +123,10 @@ Imagine it’s the morning of your appointment, and you decide to click on the l
 - What would be the next thing that you do related to your appointment?
 
 ## Post-Task Interview - 9 minutes
-Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
- 
+- Now that you've seen an example of what this pre-check-in experience for telephone appointments could look like, what are your overall impressions?
   - _If applicable_ As a caregiver, is there anything that we should be aware of?
 -  What are your thoughts on calling the experience you just completed “pre-check-in”? 
-- Does it match with your expectations? Why or why not? 
+  - Does it match with your expectations? Why or why not? 
 - If not, what term would you use instead? 
 - Can you describe why you would be interested or not interested in reviewing these items prior to your telephone appointment?
 - Are there any other items or information that you would like to review and update prior to your appointment?

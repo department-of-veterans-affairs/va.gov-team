@@ -53,8 +53,8 @@ Before we start, a few things I want to mention:
 - What are you able to do on this page?
 - Now that you've seen this page, where would you expect to find it on the VA.gov website?
 - Talk to me about the links that you're seeing on this page (dig into side nav if they bring it up)
-- How would you sign in?
-- What do you think you'd see if you were to sign in? (have participant click thru login to auth'ed version of the page)
+- How would you log in?
+- What do you think you'd see if you were to log in? (have participant click thru login to auth'ed version of the page)
 
 ## Things to watch for:
 - Do they notice this is MHV branded?

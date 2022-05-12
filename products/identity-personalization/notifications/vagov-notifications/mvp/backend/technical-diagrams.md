@@ -1,5 +1,12 @@
 # Backend support for notifications on VA.gov
 
+The notifications endpoint (`/v0/onsite_notifications`) takes the following parameters:
+- `va_profile_id`
+- `template_id`
+
+The following template ids are stored in `[env].settings.yml`.
+
+
 ### Solution 1
 vets-api provides an API for VA Notify to send alerts data to _(determined path forward)_
 

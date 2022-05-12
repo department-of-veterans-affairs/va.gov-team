@@ -1,11 +1,11 @@
 # Project outline: Profile Personal Information Revision
 
-Last updated: March 24, 2022 
+Last updated: May 5, 2022 
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; profile
-- **Slack channel**: vsa-authd-exp
+- **Github labels**: vsa-authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles
 
@@ -112,6 +112,7 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - February 2022: Backend development begins; Continued delays and back and forth between MPI and VA Profile, though VA Profile remains the backend supporting this work.
 - March 2022: PRA determination made that we need approvals for pronouns and sexual orientation before we can continue with adding them to VA.gov; Still moving forward with preferred name and gender identity; Final design updates; Continued FE and BE build
 - April 2022: Wrapping up backend integration; Integrating the frontend with the backend.
+- May 2022: QA; 
 
 ## Design
 

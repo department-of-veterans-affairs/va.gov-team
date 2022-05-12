@@ -1,19 +1,21 @@
 # Project outline: MyHealtheVet/VA.gov profile transition research
 
-Last updated March 1, 2022
+Last updated May 5, 2022
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; personalization-2.0; profile
-- **Slack channel**: vsa-authd-exp
+- **Github labels**: vsa-authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles
 
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Marci McGuire |Product Manager| marci.mcguire@gcio.com |
+|Sharon Kasimow |Product Manager| sharon.kasimow@gcio.com |
 |Liz Lantz |Researcher| liz.lantz@adhocteam.us |
+
+Additionally, we have consulted with the health apartment team as part of this work.
 
 ## Problem Statement
 

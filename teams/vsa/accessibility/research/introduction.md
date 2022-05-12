@@ -95,7 +95,7 @@ This will likely vary project to project depending on what you’re working on, 
 * More than 50% age 55 or older
 * More than 50% Veterans of color (specifically Black, Hispanic/Latina/Latinx, and Native)
 * More than 50% primarily mobile or tablet device users
-* More than 50% women
+* More than 50% identify as other than male (for example: women, transgender, nonbinary, two-spirit)
 * More than 50% in a rural area
 * More than 50% without a degree or professional certificate
 

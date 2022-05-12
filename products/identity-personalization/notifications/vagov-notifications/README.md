@@ -1,23 +1,24 @@
 # Product: Alerts & notifications on VA.gov ("On-site Notifications")
 
-Last updated November 22, 2021
+Last updated May 5, 2022
 
 ### Communications
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
-- **Slack channel**: vsa-authd-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin|Product Manager| ana@adhocteam.us |
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Erica Sauve | Associate Product Manager | erica.sauve@adhocteam.us|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Angela Agosto |Designer| angela.agosto@adhocteam.us |
+|Angela Agosto | Designer| angela.agosto@adhocteam.us|
 |Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
-
+|Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
+|Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 
 ### Table of Contents
 
@@ -27,7 +28,9 @@ Last updated November 22, 2021
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Projects](#projects)
-- [Screenshots](#screenshots)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Design](#design)
 
 ## Overview
 
@@ -72,7 +75,24 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 - [On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/mvp)
 
-## Screenshots
+## Backend
+
+We receive on-site notification from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html). The system works as follows:
+
+- A backend system (eg. debt management) talks to VANotify and tells it to send out a notification.
+- VANotify then determines via what channels to send the notification (eg. email, text, VA.gov).
+- If VANotify determines it should send a notification to VA.gov (ie. on-site notifications), it will send a `user id` and `template id` to VA.gov. This will tell us what notification to show and to whom.
+
+## Frontend
+
+- The frontend connects to VANotify via an API we set up.
+- The frontend code currently stores the content for on-site notifications.
+
+## Design
+
+- Notifications are a simple line of copy and a link to more information.
+- We do not show personalized data in notifications since that is not sent to us from VANotify.
+- We can show timestamps to help differentiate similar notifications.
 
 ### Before
 

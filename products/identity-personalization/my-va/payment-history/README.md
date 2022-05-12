@@ -1,11 +1,11 @@
 # Project outline: Add payment/financial info to the My VA dashboard
 
-Last updated April 25, 2022
+Last updated May 5, 2022
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; profile
-- **Slack channel**: vsa-authd-exp
+- **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
 
@@ -177,6 +177,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Apr 2022: Complete UAT
 - Apr 20, 2022: Launched to 25% of users
 - Apr 26, 2022: Launced to 50% of users
+- May 2, 2022: Launced to 100% of users
 
 ---
    

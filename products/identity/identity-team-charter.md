@@ -1,6 +1,35 @@
-# Identity Team Charter
+# Identity
+Welcome to the Identity folder. This directory contains information about user identity on Va.gov. You'll find documentation on things like login, personalization, profile, and more.
 
-## Who we are
+**New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
+
+
+## What we're doing:
+
+### Current Team Objectives
+
+
+**Sign-in Service Pilot**  
+_Current Status:_ Actively working on this.  Currently working on second phase of work.  
+We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
+
+**Inherited Proofing**  
+_Current Status:_ Initial research is done.  Next up is accessibility research.
+We are working to provide a framework for users to migrate from legacy Credential Service Providers such as MyHealtheVet to more modern providers such as Login.gov.  This includes tools to help users select a new CSP that meets their needs, as well as validating that users are eligible to migrate to these CSPs.  The goal of this work is to provide users a more uniform, secure experience across government services.
+
+
+**Alerting Improvements**  
+_Current Status:_ Actively working on this  
+We are working to streamline our alerting and monitoring systems to reduce alert noise and improve accuracy, allowing us to more accurately and efficiently track and resolve issues.
+
+
+
+---
+
+Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the [#vfs-product](https://dsva.slack.com/channels/vfs-product) channel in Slack.
+
+
+## Team
 
 ### VA Product Owners
 - Cody Reinhold
@@ -18,23 +47,17 @@
 - Joe Niquette - Engineering Lead
 - Trevor Bosaw - Backend Engineer
 - John Bramley - Backend Engineer
-- Josh Scanish - Backend Engineer
 - Alex Garcia - Frontend Engineer
-- Kyle Woolley - Frontend Engineer
+- Jhonny Gonzalez - Frontend Engineer
 - Sylvester Lee - Security Engineer
+- Ian Hundree - DevOps Engineer
 
-## What we do
-We are working to develop and maintain aspects of the VSP Ecosystem related to identity.  This includes how users access VA services (sign-on page), transition between those services (Single Sign-On), and maintain the security of their identity (authentication with things like MPI).
 
-## What we're working on right now
-Our current goals as a Product organization are to implement Login.gov, conduct research on how users access VA services, transition users from legacy sign-on credentials to more modern ones, and explore additional options for allowing users access to VA.gov and the VA ecosystem.
+## Communications
+- Slack: #vsp-identity
+- Zenhub tag: identity
 
-**Login.gov**
-We are currently working on our remaining items to prepare for Login.gov rollout.  There will be further work as our partners complete their work on things like Single Sign-Out
+## Timeline
 
-**Transitioning users of legacy credentials to modern ones**
-Our goal is to transition users of legacy credentials such as MyHealtheVet to more modern ones, such as Login.gov and ID.me.  Our preliminary work will focus on establishing proper messaging and channels for users to help understand why they choose the credentials they do, and how we can best guide them to a newer credential that matches their needs.  
 
-**Sign-in Service**
-We are researching providing a sign-in service for non-SSO VA applications and products, to further streamline user access to tools such as the VA.gov mobile application
 

@@ -1,29 +1,57 @@
 name: Documentation Support Request
-description: Use this template to request documentation support
-title: Documentation support for [platform team]
-labels: 
+description: Use this template to request documentation support from the Platform content team
+name: Documentation Support Request
+description: Use this template to request documentation support from the Platform content team
+title: Documentation support
+labels: ['documentation-support']
 body:
-  -type: markdown
-  attributes:
-    value:
-  -type: dropdown
-    id: help type
-    attributes: 
-      label: What do you need help with?
-      description: What do you need help with?
-      options: 
-        -Creating new documentation
-        -Updating previously published documentation
-        -Reviewing recently written, never before published drafts
-   validations:
-     required: true
-  -type: dropdown
-    id: primary users
+  - type: checkboxes
+    id: help-type
     attributes:
-      label: Who are the primary users of your documentation? Check all that apply:
-      description: Who are the primary users of your documentation? Check all that apply:
+      label: Request type
+      description: What type of help do you need? (Check all that apply.)
       options: 
-        -Developers
-        -Designers and researchers
-        -Product managers
-        -Others
+        - label: Writing new documentation
+        - label: Updating previously published documentation
+        - label: Reviewing recently written, never-before-published drafts
+    validations:
+      required: true
+  - type: input
+    id: number-of-docs
+    attributes:
+      label: Number of docs
+      description: How many documents to be created, updated, or reviewed?
+  - type: input
+    id: point-of-contact
+    attributes:
+      label: Subject matter expert
+      description: Who is the point of contact for this documentation?
+  - type: input
+    id: approvals
+    attributes:
+      label: Approvals
+      description: Does this documentation require approval from anyone other than the point of contact before publishing? If so, who must approve?
+  - type: checkboxes
+    id: embedded-media
+    attributes:
+      label: Embedded media
+      description: Do the documents contain embedded media? (Check all that apply.)
+      options:
+        - label: Screenshot(s)
+        - label: Diagram(s)
+        - label: Video(s)
+  - type: checkboxes
+    id: audience 
+    attributes:
+      label: Audience
+      description: Who are the primary users of this documentation? (Check all that apply.)
+      options: 
+        - label: Developers
+        - label: Designers and researchers
+        - label: Product managers
+        - label: Other
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else?
+      description: Links? References? Anything that will give us more context? Attach images or files by clicking this area to highlight it and then dragging files in.

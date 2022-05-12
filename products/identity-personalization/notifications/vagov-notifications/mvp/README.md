@@ -1,23 +1,15 @@
 # Project outline: On-site notifications MVP
 
-Last updated February 7, 2022
+Last updated May 5, 2022
 
 ### Communications
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
-- **Slack channel**: vsa-authd-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
 
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Erica Sauve | Associate Product Manager | erica.sauve@adhocteam.us|
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Angela Agosto | Designer| angela.agosto@adhocteam.us|
-|Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
-
+[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
 
 ### Table of Contents
 
@@ -29,17 +21,21 @@ Last updated February 7, 2022
 - [Solution Approach](#solution-approach)
 - [Key deliverables](#key-deliverables)
 - [Key dates](#key-dates)
-- [Screenshots](#screenshots)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Design](#design)
 
 ## Overview
 
 VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. 
 
-The third and final pillar -- notifications that show to logged-in users on VA.gov -- is finally ready for MVP development by the auth. experience team. For our MVP, we plan to focus on **one** singular notification to start building the infrastructure to manage more robust on-site notification needs in the future.
+The third and final pillar -- notifications that show to logged-in users on VA.gov -- is finally ready for MVP development by the auth. experience team. For our MVP, we plan to focus on **one** singular notification to start building the infrastructure to manage more robust on-site notification needs in the future. 
+
+**MVP use case**: We will show an on-site notification when a new debt is added in someone's VA.gov account.
 
 ## Problem Statement
 
-- As a customer of the VA, I need to know if the VA needs me to do something related to the management of my benefits.
+- As a customer of the VA, I need to know if the VA has added a new debt to my account.
 
 ## User outcomes
 
@@ -79,7 +75,6 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 |----------|-------------|---------------|-------------------|
 |Clicks of debt notification on My VA| -- |TBD|TBD|
 
-
 ## Solution approach
 
 The following is needed for the MVP build:
@@ -88,27 +83,6 @@ The following is needed for the MVP build:
 
 - We will be building **one** notification out first as a proof of concept. We will then assess metrics for this MVP and determine next steps for the overall on-site notifications strategy.
 - That MVP use case is debt notifications.
-
-### Design
-
-- Notifications will likely be a simple line of copy and a link to more information.
-- We do not need to show personalized data in notifications.
-
-**Up for discussion**
-
-Some of this will be determined by the MVP use case.
-
-- Does there need to be a way to dismiss a notification?
-- Given that we are working with one notification for the MVP, do we need the separate notifications page?
-
-### Frontend
-
-- The frontend will receive information from the backend that determines which notification to show and to which user.
-- The frontend code will be where we store content for a given alert at this point in time.
-
-### Backend
-
-- The backend will receive information from VANotify that will allow us to determine what notification to show and to which user.
 
 ### VANotify requirements
 
@@ -138,8 +112,30 @@ Some of this will be determined by the MVP use case.
 - September 2021: Design discovery complete
 - October 2021: Technical discovery and MVP definition
 - November 2021: Project pause and revisiting
+- December 2021: MVP use case determine -- adding a new debt to VA.gov
+- January - March 2022: Project largely on hold due to VANotify team switch
+- April 2022: VANotify starts on build; 
+- May 2022: Design updates to accomodate multiple notifications; Connecting frontend to backend
 
-## Screenshots
+## Backend
+
+### How it works
+
+[Please see the product outline for details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/README.md#backend).
+
+### How to test
+
+Staging and testing documentation for the MVP is pending.
+
+## Frontend
+
+[Please see the product outline for details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/README.md#frontend).
+
+## Design
+
+- Notifications are a simple line of copy and a link to more information.
+- We do not show personalized data in notifications since that is not sent to us from VANotify.
+- We can show timestamps to help differentiate similar notifications.
 
 ### Before
 

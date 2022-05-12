@@ -1,7 +1,7 @@
 # Research Plan for Authenticated Experience - Profile, Personal information UAT, April 2022
 
 ## Background
-To mitigate issues around Veterans being addressed improperly at health appointments, our team has added four new fields to the Personal information section of the VA.gov Profile: Preferred name/Pronouns/Gender identity/Sexual orientation. These changes also allow Veterans to more accurately describe themselves within the VA. For MVP, we will be adding Preferred name and Gender identity only, with Pronouns and Sexual orientation to be added once we have PRA approval for those fields.
+To mitigate issues around Veterans being addressed improperly at health appointments, our team has added four new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA. 
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) for more details.
 
@@ -20,9 +20,7 @@ Since Veterans may need to add or update their information with VA at any time, 
 The primary goal of our UAT is to confirm that the Personal information section functionality works as expected and Veterans can view and update their preferences for Preferred name and Gender identity.
 
 As secondary goals, we’ll follow up on our last [research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/research-plan.md) and the subsequent changes made to the designs:
-- We would like to evaluate whether Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
 - We would like to evaluate whether or not Veterans understand what this information is and why we are asking for it.
-- We would like to validate that the order of information makes sense to Veterans.
 - We would like to validate that Veterans understand it is optional to provide this information. 
 - We would like to validate that no major usability hurdles have been introduced during our recent iterations.
 
@@ -33,8 +31,6 @@ Based on the outcome of this research study, we will either release our MVP to p
 - Does the functionality work as expected?
 - Are Veterans able to update their Personal information preferences without any usability hurdles?
 - Do Veterans understand what this information is and why we are asking for it? 
-- Do Veterans understand the terminology used in the Personal Information section?
-- Does anything about the placement of these fields cause confusion?
 - Do Veterans understand that these fields are optional?
 
 ### Hypothesis
@@ -78,14 +74,9 @@ Please recruit 12 participants for 6 completed sessions.
 	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your Personal information will be viewable. (Answer should be yes to qualify)
 
 - Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
-  
 - Must identity as part of the LGBTQ community
-
 - At least 50% of participants must identify as Hispanic, Native American, or Asian
-
-**Participant groups**
-
-- 50% of participants should identify as other than male 
+- 50% of participants should identify as other than male
 - At least 50% of participants should identify as having a cognitive disability
 - At least 50% of participants should be younger than 55
 

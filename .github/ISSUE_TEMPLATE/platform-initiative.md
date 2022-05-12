@@ -83,3 +83,4 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 ## TODOs
 - [ ] Convert this issue to an epic
 - [ ] Add your team's label to this epic
+- [ ] Add this initiative to the [Digital Experience Product Board](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3Acrew-platform) using [these instructions](https://vfs.atlassian.net/wiki/spaces/AP/pages/2120974387/Platform+Initiative+Guidelines+for+Digital+Experience+Product+Board)

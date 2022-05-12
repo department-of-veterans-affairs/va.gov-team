@@ -1,5 +1,8 @@
 # St. Louis Visit to Gather Feedback on Pilot from Veterans
 
+## Findings 
+
+[Executive Team Findings Debrief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/exec-team-findings-debrief.md)
 ## Research Plan
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-plan.md)
 

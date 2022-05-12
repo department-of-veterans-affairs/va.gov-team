@@ -5,72 +5,114 @@
 An initial email blast will go out to Veterans with flagged addresses. Following this, an event-triggered email will go out to Veterans with any newly flagged emails. This email will be accompanied by alerts on the Personal information page and Contact information page. 
 
 - [Personal information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#personal-information-page-alert)
-- [Contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#contact-information-page-alert)
-- [Confirmation modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#confirmation-modal)
+- [Contact information main alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#contact-information-page-main-alert)
+- [Contact information in-line alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#contact-information-page-in-line-alert)
 - [Email content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/frontend/FE%20documentation.md#email)
 
-Sketch Mockups (low to mid fi): [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
+Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/wLqqgOp) _Note: Mockups begin with Personal information alert. View Contact information alert and states by arrowing right._
+
+--------
 
 ## Personal information page Alert
 
-- In-line warning alert below H1 heading. 
+- In-line warning alert above H1 heading. 
+	- **Accessibility:** Check in with Josh on proper implementation when adding above H1. Per his instructions - something might need to be done to the code here to make it ok that it is above H1.
 - Appears immediately upon logging into Profile. 
+- Disappears once Mailing address is successfully updated and validated.
 
-- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OMD28m) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WK0EMb0)
+- High-Fi Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/eKeeAl0) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/wLqqgOp/r/O8adb4)
 
-### Heading (H2):
-- Please update your mailing address
+#### Heading (H2):
+- Review your mailing address
 
-### Body: 
-- We believe the mailing address we have on file for you may no longer be valid.
+#### Body: 
+- The mailing address we have on file for you may not be correct. 
 
-### Link:
-- Review and edit your address
+#### Link:
+- Go to your contact information to review your address
 
-<img width="673" alt="Screen Shot 2022-03-15 at 9 39 48 AM" src="https://user-images.githubusercontent.com/79372956/159099448-e7184863-5987-45b9-bab9-2c441803c545.png">
+<img width="663" alt="Screen Shot 2022-05-06 at 11 12 04 AM" src="https://user-images.githubusercontent.com/79372956/167194602-bf7c8d58-96fd-4b7c-9007-bd23997d0405.png">
 
-## Contact information page alert
 
-- In-line warning alert in mailing address field, above “Mailing.” 
+--------
+
+## Contact information page main alert
+
+- Main alert at top of page, immediately below H1 Contact information. 
 - Appears immediately upon arriving on Contact info page.
+- Jump link takes user to Mailing address field. 
+	- **Accessibility:** Ask accessibility where focus should go.
+- Disappears once Mailing address is successfully updated and validated.
 
-- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/v8nO2w3) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgnMrQ5)
+- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
-### Heading (H2):
-Please update your mailing address
+#### Heading (H2):
 
-### Body:
-We believe the address we have on file for you may no longer be valid.
-Review and edit your mailing address below.
-If the address listed is correct, confirm it here.
+- Review your mailing address
 
-### Button:
-Confirm my address
+#### Body:
 
-<img width="633" alt="Screen Shot 2022-03-15 at 9 40 03 AM" src="https://user-images.githubusercontent.com/79372956/159099570-263bbd2e-c395-4c01-aaa8-e7d3bf605f7f.png">
+- The address we have on file for you may not be correct. To change or confirm your address, select **Edit**. Once you've changed your address, or if it's already correct, select **Update** to confirm.
 
-## Confirmation Modal
+	_Note: Edit and Update are **bold**._
 
-- There exists the possibility that a Veteran's mailing address could be flagged in error in the event of a USPS mistake (sent to wrong address), clerical error, or a scenario where a Veteran moves into/out of/back into the same location where the address is invalid for a short time, but later becomes valid (ex - lived with parents, moved out, moved back in). Using a modal, the UI also provides affordance for Veterans to confirm a flagged address is valid without actually making any changes to the address on file.
+#### Jump Link:
 
-- Appears after selecting "Confirm my address" in the Contact information alert
+- Review your mailing address
 
-- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Jndjrgk) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/4anlvKD)
+<img width="664" alt="Screen Shot 2022-05-06 at 11 11 06 AM" src="https://user-images.githubusercontent.com/79372956/167194327-040ed284-7e4a-4b1d-bbee-a7eebb9e7dce.png">
 
-### Heading (H2):
-Confirm your mailing address
+--------
 
-### Body:
-Confirm that you want us to use this mailing address. Or, cancel to go back and edit it.
+## Contact information page in-line alert
+- Appears within Mailing address field directly below hint text.
+- Appears immediately upon arriving on Contact info page.
+- Disappears once Mailing address is successfully updated and validated.
 
-### Button:
-Use this address
+- Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/9P11OE7) and [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/EPqp12/a/qe11qZk)
 
-<img width="701" alt="Screen Shot 2022-03-15 at 2 04 19 PM" src="https://user-images.githubusercontent.com/79372956/159099546-5651d2a8-bfea-4bfb-8721-0109890eef41.png">
+### Read-only state with warning
+
+#### Text
+- Review your address.
+
+<img width="660" alt="Screen Shot 2022-05-06 at 11 07 59 AM" src="https://user-images.githubusercontent.com/79372956/167193911-ddb4eb93-0b5b-4220-ad2e-7ae176b05717.png">
+
+
+
+### Edit state with warning
+- Warning alert remains in Mailing address field below hint text.
+
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/25aaz55) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/L0mmL3d)
+
+<img width="657" alt="Screen Shot 2022-05-06 at 11 25 48 AM" src="https://user-images.githubusercontent.com/79372956/167196778-89ed23f2-1863-4a5c-9886-ce9052881273.png">
+
+
+
+### Error  
+- Yellow warning alert disappears. Red error alert appears above Update/Cancel buttons.
+
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/MyDD9ym) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yoov38)
+
+<img width="656" alt="Screen Shot 2022-05-06 at 11 26 09 AM" src="https://user-images.githubusercontent.com/79372956/167196745-4ccff6ae-11ad-4032-8194-24b79f42d8aa.png">
+
+
+
+### Success
+- Screen returns to read-only state. Green success alert appears above Update/Cancel buttons
+
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgJJkgO) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/ygEE2DA)
+
+<img width="655" alt="Screen Shot 2022-05-06 at 11 26 25 AM" src="https://user-images.githubusercontent.com/79372956/167196811-92aa2cd4-e7f4-4f77-81e5-232bcd19a17a.png">
+
+
+--------
 
 ## Email
 
-This initial email template will be sent out through VA Notify to alert Veterans that their email address has been flagged as invalid and needs reviewing.
+_**Note:** FE is not involved in this Email work._ 
+
+This initial email template will be sent out through VA Notify to alert Veterans that their email address has been flagged as invalid and needs reviewing. This has already been added to VANotify staging for when we're ready to send this out. An intake request has also been submitted to VA Profile for them to connect to VANotify to power this notification.
 
 - **Initial email blast** - Initially, the email will be sent out at once to all Veterans with addresses that are currently flagged as invalid. 
 - **Event triggered emails** - Following the initial email blast, the email will be sent out to Veterans with newly flagged addresses - on a daily or weekly basis. Sent out when new addresses are flagged as bad addresses - whenever a new bad address is added.

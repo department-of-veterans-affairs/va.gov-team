@@ -39,7 +39,7 @@ _____________________________________
 
 **Example Communication Flows Currently In Prod**
 
-1. Rx Shipment - Consent via 1010EZ
+1. Rx Shipment (SMS) - Consent via 1010EZ
 	* Implicit Consent
 	* When a shipment is ready
 	* VEText checks VA Profile for preferences. 
@@ -47,16 +47,22 @@ _____________________________________
 	* VANotify sends the notification.
 	* If false, VEText does not call the VA Notify API
 
-2. Rx Shipment - Unsubscribe thru text
+2. Rx Shipment (SMS) - Unsubscribe thru text
 	* Implicit Consent
 	* Veteran types STOP to unsubscribe
 	* VANotify passes this back to VEText, which sets explicit preference to false
 	
 	
-3. BVA Hearing Reminders
+3. BVA Hearing Reminders (SMS)
 	* Implicit Consent
 	* When a it's time for a hearing reminder
 	* VEText checks VA Profile for preferences. 
 	* If true or null, VEText makes a call to VA Notify API to send
 	* VANotify sends the notification.
 	* If false, VEText does not call the VA Notify API
+
+4. Comp & Pen Scheduled Payments (SMS) - Coming Soon
+	* Explicit Consent
+
+5. eBenefits (Email) - Coming Soon
+6. BVA Appeal and Hearing Status (Email/SMS) - Coming Soon

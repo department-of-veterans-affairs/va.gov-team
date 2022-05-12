@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Updated April 27, 2022**
+**Updated May 12, 2022**
 
 ## Current projects & enhancements
 
@@ -9,6 +9,8 @@
 |[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | QA |
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Design |
 |[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Read out|
+|Show direct deposit persistently| Frontend & documentation |
+|Reintegrate military info through VA Profile | Backend |
 
 ### Projected timelines for current projects & enhancements
 
@@ -18,7 +20,7 @@
 |**Bad address indicator** | - | - | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
 |**MHV Profile research**| - | - |Begin research | Finalize research & recommendations|-|- |
 |**Integrate military info through VA Profile**| - | - | - | Update integration | Launch if not already done |- |
-|**Persistently show direct deposit section instead of showing conditionally**| - | - | - | Design/Start build | Finish build; launch|- |
+|**Persistently show direct deposit section instead of showing conditionally**| - | - | - | Design, build, launch | - |- |
 
 ## Completed projects & enhancements
 

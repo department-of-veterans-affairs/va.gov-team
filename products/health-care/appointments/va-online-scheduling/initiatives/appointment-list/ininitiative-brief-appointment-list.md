@@ -143,11 +143,18 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Before
 
-**Appointmnet ListA**
+Current State: 
 
+<img width="592" alt="Screen Shot 2022-05-05 at 8 01 54 AM" src="https://user-images.githubusercontent.com/90797205/166919184-d6aa9850-f205-4542-b78c-b28836dd24e8.png">
+
+Future State (Post v2 Launch): 
+
+<img width="638" alt="Screen Shot 2022-05-05 at 7 58 13 AM" src="https://user-images.githubusercontent.com/90797205/166919230-c2640d26-5b42-44b1-81d0-361842eb8e4d.png">
 
 
 ### After
+
+[Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=193%3A24159&starting-point-node-id=193%3A24159)
 
 ---
 
@@ -159,19 +166,18 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 - Team Name: VA Online Scheduling
 - GitHub Label(s): vaos 
 - Slack channel: #vaos-team
-- Product POCs: Leah De La Costa and Jeff Roof 
+- Product POCs: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 
 </details>
  
-
 #### Team Members
 
 <details>
  
-- DEPO Lead: Lauren Alexanderson
-- PM: Leah De La Costa and Jeff Roff
-- Engineering: Simi Adebowale 
-- Research/Design: Peter Russo and Ciera Maddox
+- DEPO Lead: [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ)
+- PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
+- Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
+- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
  
 </details>
 

@@ -40,7 +40,6 @@ _List of products within your team's perview - make sure the list of products he
 - BE Dev Engineer: Riley Anderson
 - BE Dev Engineer: Jeremy Wu
 - BE Dev Engineer: Rachal Cassity 
-- Dev Ops Engineer: Naoufal El Hilali
 ---
 
 ## How we work
@@ -55,7 +54,6 @@ _List of products within your team's perview - make sure the list of products he
   - Tuesday/Thursday (Slack Ups)
 - Duration: 15 min
 - Details: 3 Question Format: What I did yesterday? What will I do today? Any blockers?
-- Stand up updates will be recorded daily in the BE Tools Team Notes located [here](https://docs.google.com/document/d/1LdP53ZdxyUZISgXPkttrnoOuxYwDx5gNdUt5Cqbl6DM/edit?pli=1#)
 
 #### Retro
 - What: Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items

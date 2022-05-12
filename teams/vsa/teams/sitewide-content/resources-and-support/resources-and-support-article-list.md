@@ -74,3 +74,4 @@
 | 72 | [COVID-19 testing at VA](https://www.va.gov/resources/covid-19-testing-at-va/) | Health care | 1/21/22 |
 | 73 | [In-state tuition rates under the Veterans Choice Act](https://www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) | Education | 2/10/22 |
 | 74 | [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/) | Pension | 3/11/22 |
+| 75 | [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) | Health care | 5/06/22 |

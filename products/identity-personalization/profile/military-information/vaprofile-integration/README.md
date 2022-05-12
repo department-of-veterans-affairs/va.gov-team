@@ -1,11 +1,11 @@
 # Project outline: Integrate military information through VA Profile
 
-Last updated: March 25, 2022 
+Last updated: May 5, 2022 
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; profile
-- **Slack channel**: vsa-authd-exp
+- **Github labels**: vsa-authenticated-exp; profile
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles
 
@@ -72,3 +72,4 @@ In February 2022, we were informed that the service through which the VA.gov pro
 ### Key dates
 
 - April 2022: Begin migrating integration from eMIS to VA Profile.
+- May  2022: Kickoff; Begin integration work.
