@@ -41,7 +41,6 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 
 *Action item: Revise survey per moderated research (phase 1 of 2).*
 
-*Action item: Add tokens to differentiate the different cohorts in the survey and create distinct links for each cohort. Add links below.*
 
 ### Research materials
 - [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
@@ -61,31 +60,31 @@ Overall, we would like to get about
 
 #### For Cohort A (9 Veterans)
 - All must have experience with VA health care 
-- [Cohort A study link]()
+- [Cohort A study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=A)
 
 #### For Cohort B (9 Caregivers)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
-- [Cohort B study link]()
+- [Cohort B study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=B)
 
 #### For Cohort C (9 Veterans)
 - All have NO experience with VA benefits or services but are interested in some 
-- [Cohort C study link]()
+- [Cohort C study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=C)
 
 #### For Cohort D (9 Veterans)
 - All have experience with VA disability compensation
-- [Cohort D study link]()
+- [Cohort D study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=D)
 
 #### For Cohort E (9 Caregivers)
 - All have NO experience with VA benefits or services but are interested in some 
-- [Cohort E study link]()
+- [Cohort E study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=E)
 
 #### For Cohort F (9 Veterans)
 - All must have experience with VA education benefits or career services
-- [Cohort F study link]()
+- [Cohort F study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=F)
 
 #### For Cohort G (9 Veterans)
 - All must have experience with one or more of the following VA benefits or services: housing, pension, life insurance, or burial benefits
-- [Cohort G study link]()
+- [Cohort G study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=G)
 
 ### Secondary participant criteria (nice to haves) across all cohorts:
 - At least 6 women
