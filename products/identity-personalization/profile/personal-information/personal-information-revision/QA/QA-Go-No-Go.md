@@ -20,7 +20,7 @@
 
 **Will all of our known "pre-QA" findings be resolved by end of sprint?**
 
-- 
+- N/A
 
 **Have we received sign-off on IA?**
 - Yes [ticket 32031](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/32031)
