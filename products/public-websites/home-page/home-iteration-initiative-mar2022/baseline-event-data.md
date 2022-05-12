@@ -40,24 +40,22 @@ The following data represents unique mobile and desktop events during 3/24/2021 
 
 ### Header events
 
-Location	|	Event Action	|	Unique Events
----	|	---	|	---
-header	|	Modal - Click - (not set) - (not set) - (not set) - (not set) - Sign in	|	626,033
-header	|	Navigation - Jumplink Click - Sign in	|	118,396
-header	|	Navigation - Header - Find a VA Location - https://www.va.gov/find-locations	|	24,988
-header	|	Navigation - Header - Open Top Level - About VA	|	22,475
-header	|	Navigation - Header - My VA - https://www.va.gov/my-va/	|	19,631
-header	|	Navigation - User - My VA	|	11,198
-header	|	Navigation - Header - My Health - https://www.va.gov/health-care/my-health-account-validation/	|	7,528
-header  |	Navigation - Crisis Modal Clicked - Header	|	6,333
+Header event	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
+---	|	--:	|	--:
+Modal - Click - (not set) - (not set) - (not set) - (not set) - Sign in	|	637,716	|	1,068,966
+Navigation - Jumplink Click - Sign in	|	120,829
+Navigation - Header - Find a VA Location - https://www.va.gov/find-locations	|	25,750 |	22,009
+Navigation - Header - Open Top Level - About VA	|	24,792	|	24,249
+Navigation - Header - My VA - https://www.va.gov/my-va/	|	49,988	| 98,634
+Navigation - User - My VA	|	28,637	|	51,558
+Navigation - Header - My Health - https://www.va.gov/health-care/my-health-account-validation/	|	27,610 |
+Navigation - Header - My Health - https://www.va.gov/health-care/my-health-account-validation/	|	| 32,908
+Navigation - Crisis Modal Clicked - Header	|	6,735	|	5,361
 
 ---
 
 ### Mega menu link events
-<details>
-  <summary> Mega menu secondary links </summary>
-  
-  ![Mega menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/secondary%20menu.PNG)
+
 
 
 Mega menu option	|		Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
@@ -74,13 +72,10 @@ Navigation - Header - Open Second Level - Records	|	6,448	|	7,933
 Navigation - Header - Open Second Level - Health care	|	9,299	|	8,326
 Navigation - Header - Open Second Level - Education and training	|	12,925	|	17,501
 Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
-</details>
+
 
 ### Events on top 4 boxes
-<details>
-  <summary> Top 4 box: health tasks  </summary>
-  
-  ![Top 4 health box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20health%20top%20box.PNG)
+
 
 |	Health task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
 |	---	|	--:	|	--:
@@ -89,12 +84,7 @@ Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
 |	Navigation - Zone One - ->/health-care/schedule-view-va-appointments - Schedule and manage health appointments - Health care	|	66,094	|	81,412
 |	Navigation - Zone One - ->/health-care/view-test-and-lab-results - View your lab and test results - Health care	|	37,257	|	49,878
 |	Navigation - Zone One - ->/health-care/apply/application - Apply now for VA health care - Health care	|	26,383	|	28,685
-</details>
 
-<details>
-  <summary> Top 4 box: education tasks  </summary>
-  
-![Top 4 education box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20education%20top%20box.PNG)
 
 |	Education task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
 |	---	|	--:	|	--:
@@ -102,12 +92,6 @@ Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
 |	Navigation - Zone One - ->/education/change-gi-bill-benefits - Change your current education benefits - Education	|	20,637	|	28,386
 |	Navigation - Zone One - ->/education/gi-bill-comparison-tool - Compare GI Bill benefits by school - Education	|	12,598	|	18,395
 |	Navigation - Zone One - ->/education/how-to-apply - Apply for education benefits - Education	|	45,611	|	60,077
-</details>
-
-<details>
-  <summary> Top 4 box: disability tasks </summary>
-  
-  ![Top 4 disability box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20education%20top%20box.PNG)
 
 
 |	Disability task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
@@ -120,10 +104,7 @@ Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
 |	Navigation - Zone One - ->https://www.va.gov/disability/file-disability-claim-form-21-526ez/ - File a claim for compensation - Disability	|		|	62,834
 
 
-</details>
-<details>
-  <summary> Top 4 box: records tasks </summary>
-![Top 4 records box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20records%20top%20box.PNG)
+
 
 
 |	Records task	|	Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
@@ -133,15 +114,7 @@ Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
 |	Navigation - Zone One - ->/records/download-va-letters - Download your benefit letters - Records	|	102,657	|	136,295
 |	Navigation - Zone One - ->/change-address - Change your address - Records	|	13,979	|	15,820
 |	Navigation - Zone One - ->/records/get-military-service-records - Request your military records (DD214) - Records	|	30,485	|	36,859
-  </details>
-
----
-### Events on benefit hub links
-<details>
-  <summary> Benefit hub links </summary>
-  
-![Benefit hub links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/homepage%20link%20list.PNG)
-
+ 
 
 Benefit hub link	|Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
 |	---	|	--:	|	--:
@@ -179,7 +152,6 @@ Location	|	Event Action	|	Unique Events
 The following data visualizations are from the Baseline wayfinding analysis, April 2021. 
 
 - [Top 4 boxes analytics visualization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/Top4-boxes-analytics-visualization.pdf) - covers data from 5/19-21 - 6/3/21
-
 - [Home page click visualizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(4).pptx)
 - [Veterans Crisis line anaytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/VCL-analytics-findings.md)
 
