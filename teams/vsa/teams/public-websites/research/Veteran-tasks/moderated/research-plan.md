@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 10, 2022
+# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 11, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the home page.
