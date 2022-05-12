@@ -84,7 +84,7 @@ Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583
 Participant: Veteran with VA health care<br>
 Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/no-panels?mode=i)
 
-- As someone with VA health care, how would you find the locations where you can receive care?
+- As someone with VA health care, how would you find information on the Evanston VA location?
 
 ### Things to watch for:
 
