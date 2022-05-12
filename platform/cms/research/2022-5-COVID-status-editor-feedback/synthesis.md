@@ -15,7 +15,7 @@ Editorial experience for updating the COVID-19 status
 
 **Observers:** Denise Eisner
 
-[Moderation guide](link to come)
+[Moderation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/moderation-guide.md)
 
 ## Research questions
 - Do editors understand the new approach to the operating status?
