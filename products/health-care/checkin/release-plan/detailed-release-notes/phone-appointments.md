@@ -6,7 +6,8 @@
 
 ## STATUS
 
-- In the Product Backlog
+- Wireframes have been developed and will be tested with Veterans
+- Feature development has not been started
 
 ## DESCRIPTION
 
