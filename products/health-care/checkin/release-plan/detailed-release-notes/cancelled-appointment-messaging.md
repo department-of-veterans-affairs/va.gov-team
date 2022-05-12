@@ -6,7 +6,7 @@
 
 ## STATUS
 
-- In the Product Backlog, but Wireframes have not yet been developed
+- No design or feature development has begun
 
 ## DESCRIPTION
 
