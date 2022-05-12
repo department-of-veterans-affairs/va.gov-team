@@ -13,6 +13,14 @@
 
 [Events on top 4 boxes](#events-on-top-4-boxes)
 
+- [Health tasks](#health-tasks)
+
+- [Education tasks](#education-tasks)
+
+- [Disability tasks](#disability-tasks)
+
+- [Records tasks](#records-tasks)
+
 [Benefits hub links](#benefits-hub-links)
 
 [Events on VAntage Point navigation](#events-on-vantage-point-navigation)
@@ -159,6 +167,8 @@ Navigation - Header - Open Second Level - Health care	|	9,299	|	8,326
 Navigation - Header - Open Second Level - Education and training	|	12,925	|	17,501
 Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
 
+---
+
 ### Events on top 4 boxes
 
 #### Health tasks
@@ -194,6 +204,8 @@ Navigation - Header - Open Second Level - Disability	|	29,338	|	32,089
 |	Navigation - Zone One - ->/change-address - Change your address - Records	|	13,979	|	15,820
 |	Navigation - Zone One - ->/records/get-military-service-records - Request your military records (DD214) - Records	|	30,485	|	36,859
 
+---
+
 ### Benefits hub links
 
 Benefit hub link	|Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
@@ -209,6 +221,8 @@ Benefit hub link	|Unique Events 3/24/21-4/22/21	|	Unique Events  3/24/22-4/22/22
 |	Navigation - Link List - Service member benefits	|	13,552	|	15,225
 |	Navigation - Link List - Disability	|	14,457	|	15,690
 |	Navigation - Link List - Family member benefits	|	17,225	|	17,625
+
+---
 
 ### Events on VAntage Point navigation
 
