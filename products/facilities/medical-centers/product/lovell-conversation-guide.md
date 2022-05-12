@@ -94,8 +94,8 @@ Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe
 
 ## Post-Task Interview - 3 minutes
 
-- Dual-eligible Veterans: Do you feel comfortable knowing when you'd use your VA health care vs. when you'd use your TRICARE health care?
-- Veteran with VA health care: Are you familiar with TRICARE?
+- Veteran with VA health care: How familiar are you with TRICARE?
+- Any additional thoughts on the tasks that you completed?
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
