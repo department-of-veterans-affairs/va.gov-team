@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 10, 2022
+# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 12, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the home page.
@@ -38,8 +38,6 @@ We will conduct remote moderated research sessions via Zoom. Research participan
 The online survey will be built in Optimal Workshop's survey tool, which is called Questions. The survey will contain a list of about 40 VA-related tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The [list of tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx) has been reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks have been combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported have been omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
 
 In the survey, participants will select which VA-related tasks are important to them personally (*not* for all Veterans). Participants will also be asked if there are any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
-
-*Action item: Try to get Optimal Workshop license upgraded in order to allow more than 40 responses*
 
 ### Research materials
 - [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
@@ -86,8 +84,8 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **Date time pm** ET with TBD (email address)--DATE TBD during May 16-19
-- * Pilot #2: **Date time pm** ET with TBD (email address)--DATE TBD during May 16-19
+- * Pilot #1: **Date TBD during May 16-18 time pm** ET with TBD (email address)
+- * Pilot #2: **May 19 5 pm ET** with angela.fowler@adhocteam.us
 
 ### Research sessions
 - May 23-25, 2022
@@ -109,7 +107,7 @@ May 25, 2022 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participants for pilot test:	TBD
+- Participants for pilot test:	TBD, Angela Fowler
 - Note-takers:	Perigean
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us)
 

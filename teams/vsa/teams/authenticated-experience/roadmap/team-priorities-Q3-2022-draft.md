@@ -28,4 +28,15 @@
 - **Military service re-integration**: Launch expected late June/early July 2022.
 - **Bad address indicator**: Launch expected September 2022. 
 - **Documentation updates**: Ongoing. Could be a good summer project.
-- **Notification preferences**: There is likely work, but specifics are TBD depending on partner needs. 
+- **Notification preferences**: There is likely work, but specifics are TBD depending on partner needs. We will likely have work for this coming out of the MHV profile research (migrating over MHV notification preferences).
+
+### Potential Q3 - Q4 projects
+
+None of these would start until all Q2 launches are wrapped.
+
+- Add dependent info to the profile
+- Tackle profile backlog
+  - FE: Alert styling updates from Liz's audit last summer.
+  - Design: Should we implement editing on a single page? If so, this would be a big research + design + FE effort.
+
+Do we need some research to determine what to do next with the profile?

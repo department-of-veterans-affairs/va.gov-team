@@ -1,3 +1,4 @@
+# CHECK-IN AND PRE-CHECK-IN 
 # RELEASE NOTES
 
 ## Product Summary
@@ -12,6 +13,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 #### [Pre-check-in (prior to day of appointment experience)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8247195/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
 
 ## Releases
+
+### 05/11/2022
+- Fix to allow a veteran to seamlessly perform check-in and/or pre-check-in even if they have an active fully authenticated session.
+    - [Ticket 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38679)
 
 ### 05/06/2022
 - Added messaging to direct Veterans on where to go to update their demographic, emergency contact, and next-of-kin contact information.

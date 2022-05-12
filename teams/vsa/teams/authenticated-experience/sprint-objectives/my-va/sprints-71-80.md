@@ -206,6 +206,10 @@ We'll continue to monitor analytics for V1, but otherwise, these tasks are all f
 
 - Finish FE if it's not done
 
+**BE**
+
+- Additional backend work mentioned [in this github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40815#issuecomment-1125037529)
+
 ## Sprint 75 (6/1 - 6/14)
 [Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 

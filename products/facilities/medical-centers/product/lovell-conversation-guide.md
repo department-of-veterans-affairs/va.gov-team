@@ -40,54 +40,65 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 3 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task:  - 5 minutes
-Participant: Dual-eligible Veterans
-Start screen: (VA beneficiary Lovell Federal Health Care Center)[https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/sitemap?mode=i]
-- Step 1
-- Step 2
+## First Task v.1: Switching Experiences - 5 minutes
+Participant: Dual-eligible Veterans<br>
+Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/no-panels?mode=i)
+
+- If you preferred TRICARE pharmacy and wanted to learn more about TRICARE pharmacy benefits, where would you go?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- Does the participant see that the page they are on is for VA beneficiaries?
+- Does the participant notice the informational alert experience switcher?
 
-## Second Task: [TASK NAME] - X minutes
+## First Task v.2: Switching Experiences - 5 minutes
+Participant: Veteran with VA health care<br>
+Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148531346/simulate/no-panels?mode=i)
 
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- As someone who is enrolled in VA health care, where would you go to get more information on the pharmacy at Lovell Federal Health Center?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant see that the page they are on is for TRICARE beneficiaries?
+- Does the participant notice the informational alert experience switcher?
 
-## Post-Task Interview - X minutes
+## Second Task v.1: Location Experience - 5 minutes
+Participant: Dual-eligible Veterans<br>
+Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/no-panels?mode=i)
 
-- Question 1
-- Question 2
+- As someone who prefers to receive care at a TRICARE location, how would you find information on the USS Red Rover location?
+
+### Things to watch for:
+
+- Does the participant see that the page they are on is for VA beneficiaries?
+- Does the participant notice the informational alert experience switcher?
+- Can the participant complete the task of starting at the VA system-level page and navigating through to the appropriate TRICARE location?
+
+## Second Task v.2: Location Experience - 5 minutes
+Participant: Veteran with VA health care<br>
+Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/no-panels?mode=i)
+
+- As someone with VA health care, how would you find information on the Evanston VA location?
+
+### Things to watch for:
+
+- Does the participant see that the page they are on is for VA beneficiaries?
+- Does the participant notice the informational alert experience switcher?
+- Can the participant complete the task of starting at the TRICARE system-level page and navigating through to the appropriate VA location?
+
+## Post-Task Interview - 3 minutes
+
+- Veteran with VA health care: How familiar are you with TRICARE?
+- Any additional thoughts on the tasks that you completed?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 

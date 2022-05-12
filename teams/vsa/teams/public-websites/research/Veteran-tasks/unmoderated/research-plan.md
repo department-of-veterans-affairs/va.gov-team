@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, May 10, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, May 12, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
@@ -41,11 +41,7 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 
 *Action item: Revise survey per moderated research (phase 1 of 2).*
 
-*Action item: Add a question for participants to provide their unique code from Perigean.*
-
 *Action item: Add tokens to differentiate the different cohorts in the survey and create distinct links for each cohort. Add links below.*
-
-*ISSUE: See if VA will upgrade our Optimal Workshop license from the current "Starter" license, which allows a maximum of 40 responses. Ideally, I'd like to be able to have 40-60 responses.*
 
 ### Research materials
 - [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
@@ -54,45 +50,51 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 
 ## Recruitment	
 
-Ask Perigean to recruit **60** people using the cohorts below in order to get at least **30 completes (ideally 40-50)**. Ideally, we would like to get about 
-- 2/3 (20 of 30) Veterans and 1/3 (10 of 30) caregivers of Veterans
-- 1/2 (15 of 30) with experience using some VA benefits/services and 1/2 without such experience but interest in some
+We would like Perigean to recruit **63** people using the cohorts below in order to get at least **30 completes (ideally 40-50)**.
+Overall, we would like to get about 
+- **2/3 Veterans** and **1/3 caregivers** of Veterans
+- **1/2 with experience using some VA benefits/services** and 1/2 without such experience but interest in some
 
-### For everyone:
+### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
-- At least 10 women
-- Diversity across age groups
-- Diversity across racial identities
-- Diversity across education levels
-- Diversity across rural and major metropolitan areas
+- This study will be broken up into 7 mini studies, segmented by the 7 cohorts below. 
 
-### For Cohort A (9 Veterans)
+#### For Cohort A (9 Veterans)
 - All must have experience with VA health care 
 - [Cohort A study link]()
 
-### For Cohort B (9 Caregivers)
+#### For Cohort B (9 Caregivers)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
 - [Cohort B study link]()
 
-### For Cohort C (9 Veterans)
+#### For Cohort C (9 Veterans)
 - All have NO experience with VA benefits or services but are interested in some 
 - [Cohort C study link]()
 
-### For Cohort D (9 Veterans)
+#### For Cohort D (9 Veterans)
 - All have experience with VA disability compensation
 - [Cohort D study link]()
 
-### For Cohort E (9 Caregivers)
+#### For Cohort E (9 Caregivers)
 - All have NO experience with VA benefits or services but are interested in some 
 - [Cohort E study link]()
 
-### For Cohort F (9 Veterans)
+#### For Cohort F (9 Veterans)
 - All must have experience with VA education benefits or career services
 - [Cohort F study link]()
 
-### For Cohort G (9 Veterans)
+#### For Cohort G (9 Veterans)
 - All must have experience with one or more of the following VA benefits or services: housing, pension, life insurance, or burial benefits
 - [Cohort G study link]()
+
+### Secondary participant criteria (nice to haves) across all cohorts:
+- At least 6 women
+- At least 15 people age 55 or older
+- At least 5 people age 35 or under
+- At least 10 people with a cognitive disability
+- At least 10 people of color
+- At least 5 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 5 people who live in a rural or remote area
 
 ### Coordination with Perigean
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*
