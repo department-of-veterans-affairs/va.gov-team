@@ -8,7 +8,7 @@
 
 Note on what is CARMA: Salesforce customized a system - CARMA - for Caregivers- [GH Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Mulesoft%20integration.md)
 
-After reviewing the 2nd of 3 paths in the [Mulesoft Queue business options document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Meeting%20Notes/VA.gov%20Mulesoft%20Queue%20Business%20Options_04.29.2022.pdf)
+After reviewing the 2nd of 3 paths in the [Mulesoft Queue business options document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Mulesoft%20Integration/Queuing/VA.gov%20Mulesoft%20Queue%20Business%20Options_04.29.2022.pdf)
 1. How long does Mulesoft plan to make attempts to Salesforce?
      - Where would these success/fail emails/texts come from? (VA Notify?, Salesforce?)
      - How would we know if applicants prefer an email over text, etc?
