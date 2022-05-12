@@ -16,7 +16,7 @@
 | P01 | Thursday, May 12 9:00am -10:00am | 1 | Attended | iPhone | Veteran | Woman | Black or African American | - | Master's degree | Army | VA | Yes | Yes |
 | P02| Thursday, May 12 10:15am -11:15am |  | Canceled | iPhone | Veteran | Woman | Hispanic, Latino, or Spanish Origin | 25 | Some college, no college degree | Navy | MD | No | No |
 | P03| Thursday, May 12 11:30am -12:30pm |  | Canceled  | Android | Veteran | Man | Prefer not to answer | 70 | Master's degree | Navy | GA | Yes | Yes |
-| P04 | Thursday, May 12 1:00pm -2:00pm | 2 |  | iPhone | Veteran;Veteran's family member (such as a spouse or dependent) | Man | Hispanic, Latino, or Spanish Origin | 39 | Bachelor's degree | Army | TN | Yes | Yes |
+| P04 | Thursday, May 12 1:00pm -2:00pm | 2 | Attended | iPhone | Veteran;Veteran's family member (such as a spouse or dependent) | Man | Hispanic, Latino, or Spanish Origin | 39 | Bachelor's degree | Army | TN | Yes | Yes |
 | P05 | Thursday, May 12 2:15pm – 3:15pm | 1 |  | iPhone | Veteran;Veteran's family member (such as a spouse or dependent);Veteran's caregiver;Service member | Woman | Hispanic, Latino, or Spanish origin | 45 | Bachelor's degree | Army | GA | No | No |
 | P06 | Friday, May 13 9:00am - 10:00am | 2 |  | Android | Veteran | Woman | Asian | 43 | Associate's degree,occupational | Navy | NM | Yes | Yes |
 | P07 | Friday, May 13 10:15am - 11:15am | 1 |  | iPhone | Veteran | Woman | American Indian or Alaska Native;Black or African American;White or Caucasian | 44 | Associate's degree,academic | Navy | GA | Yes | Yes |
