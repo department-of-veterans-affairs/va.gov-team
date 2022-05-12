@@ -101,16 +101,16 @@ Do you see the link?
 
 I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you.
 
-*RECORD all feedback on survey--instructions, questions, tasks in list*
+*(RECORD all feedback on survey--instructions, questions, tasks in list)*
 
   
-## (if time) Post-Task Interview - 5 minutes
+## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-I'm interested in your thoughts on the survey you just did.
-- What did you like about the survey?
-- What did you dislike about the survey?
-- What would you like to change about the survey?
+I'm interested in hearing your thoughts on the survey you just did.
+- What did you *like* about the survey?
+- What did you *dislike* about the survey?
+- What would you like to *change* about the survey?
 - Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
