@@ -14,7 +14,7 @@
 
 *In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
 
-*Check your [screensharing setup] and share permissions for participants.*
+*Check your Zoom and share permissions for participants.*
 
 *When the participant is ready, begin the session with the following intro*
 
