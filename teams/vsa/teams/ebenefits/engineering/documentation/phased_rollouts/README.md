@@ -33,7 +33,11 @@ There is documentation from the platform on how to build a feature toggle [here]
 <details><summary>Testing a React widget</summary>
 <p>
 
- Once you have followed the steps for creating a React widget you most likely want to test it to make sure it works as intended. Since your React widget will be used on a static page it should be tested on a static page set up by the `content-build` repo. 
+ Once you have followed the steps for creating a React widget you most likely want to test it to make sure it works as intended. Since your React widget will be used on a static page it should be tested on a static page set up by the `content-build` repo.
+ 
+ You will therefore need to get a static content page set up that you can put the code for your React widget on, [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-content-page.1848737888.html) is the documentation on how to set up a static content page.
+ 
+ Once you have your static content page set up you will then put the code for your widget on that page, this will be the code detailed in [step 2](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html) of setting up the React widget. When you run the static pages and pull your page up you should be able to see your React widget.
 
 </p>
 </details>
