@@ -3,7 +3,16 @@
 ## Summary
 Monitoring and Alerting within the identity team encompasses our efforts to ensure continuous uptime of our services, ensure we are notified of any outages and issues, and provide useful metrics on information relating to Identity within the VA space.  The primary tools we use for this are Data Dog, Sentry, Loki, and Grafana.
 
-## 
+## Goals
+Our Monitoring and Alerting efforts are directed towards the following goals:
+
+### Reduce downtime, and the impact of any outages or issues
+In order to reduce downtime, and quickly respond to any outages or issues, we will maintain a robust system of alerting and monitoring tools.  Our goal is to quickly respond to any issues which may impact the user experience for our products and users.  
+
+
+### Provide accurate information on user activity
+To provide VA.gov decision makers with accurate information, we will work to provide accurate, up-to-date statistics related to Identity.  This includes sign-in successes (and failures) for each CSP.
+
 
 ## Relevant Links:
 [Datadog Dashboard](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard?from_ts=1642954371746&to_ts=1643040771746&live=true)  
