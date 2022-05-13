@@ -1,8 +1,17 @@
 # VA.gov login events
 Data period: Jan 1, 2022-Apr 22, 2022	
 
+All users = 21,198,771 
+| | Sessions with the homepage as landing page | Sessions with homepage pageview
+--- | --: | --: |
+Users |  7,742,670 (36.5%) | 8,922,419 (42.09%)
+Login Through Header | 1,923,638 | 2,276,437
+Login Modal Opened | 2,529,682 | 3,240,336
+Login Attempted |  2,284,844 | 3,005,248
+Login Success | 2,009,508 | 2,919,497
+
 ## Homepage logins
-Point of login from homepage	|	Total events	|	Unique Events
+Task	|	Total events	|	Unique Events
 ---	|	--:	|	--:
 www.va.gov/	|	27,813,381	|	14,301,485
 www.va.gov/?next=loginmodal	|	14,188,415	|	9,154,529
