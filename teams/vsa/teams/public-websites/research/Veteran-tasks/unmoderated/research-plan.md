@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Public Websites, May 13, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2), Sitewide Home Page team, May 13, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
@@ -58,13 +58,14 @@ Overall, we would like to get about
 ### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
 - This study will be broken up into 7 mini studies, segmented by the 7 cohorts below. 
+- 
+**ACTION ITEM: REVISIT COHORTS WITH DAVE's FEEDBACK**
+- *POSSIBLE REPLACEMENT COHORT A OR ADDITIONAL COHORT:*
+- All must have NO experience with health care, but DO have experience with one or more of the following VA benefits or services: education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 
 #### For Cohort A (9 Veterans)
 - All must have experience with VA health care 
 - [Cohort A study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=A)
-
-#### POSSIBLE REPLACEMENT COHORT A OR ADDITIONAL COHORT
-- All must have NO experience with health care, but DO have experience with one or more of the following VA benefits or services: education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 
 #### For Cohort B (9 Veterans' family members or caregivers, survivors, or service members)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
