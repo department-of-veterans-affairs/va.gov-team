@@ -1,0 +1,54 @@
+Meeting Agenda – Amended from Caitlin R.’s Sent Yesterday
+
+Meeting Opening
+- Old Items/Action Items
+     - Matt B.: Should we require an email on the 10-10CG?
+          - TBD
+     - This is on the form currently. Question is require. Only 5% of applications don't have emails now.
+          - Paul K.: Should we use email for messages?
+               - Answered, yes.
+     - Lauren A.: Send POCs
+          - Good to go.
+- Current MuleSoft API
+     - Why did we install it?
+          - Needed to decouple VA.gov from Salesforce. Has many benefits.
+               - Will become a loosely-coupled system. VA.gov won't need to worry about any changes in SF. Va.gov will be posting to the API and SF will be responsible for their changes.
+               - Needed to address some of the issues related to timeout. When you call SF API directly and it's a longstanding direction. Mulesoft allows us to build a queue. Message will be deployed to the queue and respond back to the client it's queued if it doesn't finish.
+               - Will take the SF API to Mule, need to change authentication. But response and payload will be the same.
+     - Why is it better to build the queue on Mulesoft? Easiest route.
+          - Some concern as past systems had delays, issues. But will streamline.
+          - Provide PDF attachment support. Combine into one API call.
+     - What are the metrics?
+          - Failure rate shared by VA.gov.
+     - Goal: Create a better user experience by saving applicants from waiting two minutes. Will bring down to 30 seconds by sending message back at that point.
+          - Better to have the immediate response 98% of the time and to have the queue message recipient list be as small as possible.
+     - Take out the queue message? Just acknowledge?
+          - Matt B.: Most comfortable with current path.
+     - VETSAPI has the ability to do retrys with asymetric back-offs. Capability is there.
+          - Worth investigating.
+          - AI: Patric B. to check this is possible.
+     - Discuss setting dedicated time for a post-mortem/retrospective review of the Phase 2 development and implementation
+          - Repurpose this meeting in the future for this item.
+     - Metrics for success
+          - 0% failure
+- Enhancement: CARMA MuleSoft Queue (VA.gov MuleSoft Queue Business Options’)
+     - Why are we thinking of installing a queue?
+     - Walk through of Visio Flow
+     - Note: We have submitted an intake request to VA Notify
+     - What is needed from VA.gov
+          - Message change to users if going to queue
+          - Timeline (We are planning PI 8 and can be flexible)
+- Enhancement: VAMC System of Record from Lighthouse API
+     - Currently: We provide VA.gov a limited list of VAMCs for Veterans to answer
+          - This is a filtered list to where a CSC is  and does not allow a Veteran to fully answer the questions
+               - Name of VA medical center or clinic where you receive or plan to receive health care services
+               - Name of facility where you last received medical treatment:
+          - We worked with the Lighthouse team to add "CSC" present toggle to the API
+     - PI 7: We will connect to Lighthouse API to update our own internal to CARMA VAMC info
+          - Combined Overall Schedule.xlsx
+     - What is Needed from VA.gov
+          - The original plan was to have VA.gov then connect to Lighthouse API as well so that they could switch from the manual list to Lighthouse as well for the "where does a CSC sit"
+          - Then, the thought was to open up the choices for the veteran to choose from for those 2 questions. CARMA or MuleSoft would then route the application to the correct VAMC queue in CARMA 
+- Future Work: VA.gov CARMA Portal
+     - A way for Caregivers/Veterans to log in and view any submit applications, status of the applications, current caregivers
+     - This is down the road for us (+6 months)
