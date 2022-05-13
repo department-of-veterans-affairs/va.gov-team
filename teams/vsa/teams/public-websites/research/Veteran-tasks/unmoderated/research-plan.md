@@ -39,7 +39,7 @@ In the survey, participants will select which VA-related tasks are important to 
 
 We would like to get complete survey responses from **at least 30 Veterans and caregivers (ideally 40-50)**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
-*Action item: Revise survey per moderated research (phase 1 of 2).*
+*Action item: Revise survey per moderated research (phase 1 of 2), and add a question at the end for any feedback on the survey.*
 
 
 ### Research materials
