@@ -36,6 +36,4 @@ www.va.gov/?next=/records/download-va-letters/letters	|	88,931	|	40,917
 www.va.gov/?next=/track-claims	|	74,781	|	42,513
 www.va.gov/?next=/profile/direct-deposit	|	72,809	|	30,512
 
-## Top logins from other pages
-Page	|	Total events	|	Unique Events
----	|	--:	|	--:
+
