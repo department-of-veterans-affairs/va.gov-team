@@ -112,6 +112,8 @@ I'm interested in hearing your thoughts on the survey you just did.
 - What did you *like* about the survey?
 - What did you *dislike* about the survey?
 - What would you like to *change* about the survey?
+- Was there anything that you found to be *difficult or confusing*? 
+- Do you have any other feedback for if you were doing the survey by yourself (without having me here in this session)?
 - Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
