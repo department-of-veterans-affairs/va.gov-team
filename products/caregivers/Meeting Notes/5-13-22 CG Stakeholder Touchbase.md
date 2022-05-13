@@ -1,0 +1,90 @@
+- Previous Action Items
+    - Should we require an email address for CG?
+        - No answer yet
+        - Only about ~5% don’t have a Veteran email
+            - If combining Veteran + Primary, percentage still remains very low (no exact number)
+    - Should we use email for messages?
+        - Yes
+    - Send Points of Contacts for VA Notify
+        - Done
+- Metrics
+- MuleSoft
+    - Why did we install it?
+        - Wanted to decouple [VA.gov](http://VA.gov) from Salesforce
+            - Multiple benefits
+                - Loosely-coupled
+                - [VA.gov](http://VA.gov) don’t have to worry about changes to Salesforce
+                - [VA.gov](http://VA.gov) will be posting to MuleSoft, which will post to Salesforce
+    - How is it helping?
+        - Timeouts
+            - Long calls to Salesforce can have API timeouts
+                - No indication of whether the application was processed
+            - Implementation of MuleSoft allows to build a queue
+                - Client no longer needs to wait for transaction to finish
+                - Call will be deposited to the queue
+            - Multiple options
+                - Wait a little bit, let the client know whether the application has been processed
+    - How does it work?
+        - Did not introduce a lot of change
+        - Take the APIs from Salesforce and moved it to MuleSoft
+            - Authentication will change
+                - MuleSoft authentication is different
+        - Payload and responses will remain the same
+    - Metrics
+        - Address failure rate of applications
+            - “Sorry, we couldn’t process, here’s a PDF to mail in”
+    - Goal
+        - Send the entire payload
+            - Application + Payload
+        - Will process synchronously when possible
+            - “Artificial timeout” > 30 seconds
+                - Inform user of queueing
+        - After 24 hours, several retries, etc, will generate a ticket
+    - Postmortem / Retrospective
+        - Tentatively 5/20
+- LightHouse
+    - Currently provide limited list of VAMCs to select
+        - Filtered to centers that have CSC
+    - Does not allow Veterans to necessarily select their center or where they’re ceiveing care
+    - PI 7
+        - Connect LightHouse API to internal CARMA / VAMC
+        - Development work to connect to LightHouse API slated to start 5/30
+    - VA.gov
+        - Switch [VA.gov](http://VA.gov) to using the Lighthouse API so we no longer need the manual list
+            - Allow Veteran to select VA medical center where they receive, or plan to receive, care services
+            - Name of facility where you last received medical treatment
+        - Thought is to then allow more choices for the veteran to choose for those 2 questions
+        - CARMA and/or Mulesoft would then route the request to the appropriate queue
+- Future Work (6+ months away)
+    - [VA.gov](http://VA.gov) CARMA portal
+        - Allow Veterans / Caregivers to login and view their applications
+- Sign as Rep
+    - 100 applications from VA.gov
+        - 55 successful
+        - 45 failures
+        - Reasons
+            - General POAs
+            - Incomplete documents
+            - CG document itself
+            - What can we do to increase the accuracy?
+        - Of the 45 invalid documents, 42 were signed by someone other than the Veteran
+    - Go to 100% in ~1 month
+- Questions
+    - Why use MuleSoft instead of building the queue on the [VA.gov](http://VA.gov) side?
+        - Easiest route
+        - Previous experiences with man-in-the-middle lead to a lot of errors
+            - MITM would always state that it was the other end; could possibly happen again
+        - Can handle the process as a single transaction
+            - Current process involves sending multiple synchronous calls
+            - Can we deliver both parts as a single call?
+    - Why not queue everything?
+        - 2% - 5% lacking email will never get notified
+    - How much extra work is the hybrid model going to work?
+        - If the hybrid model proves to be a lot of work, we can use a full queue
+    - Should we be exposing this much information (queued vs. not) to our users?
+        - No matter what, we should be messaging back to the user that their application has been submitted
+            - “Let the magic happen behind the scenes”
+        - Will allow us to post a response to the user faster since we don’t need to wait for a determination
+    - Vets API can handle retries
+        - May be able to handle the process without MuleSoft
+            - Need to dig into some additional information
