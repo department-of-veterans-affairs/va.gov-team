@@ -3,7 +3,7 @@
 We evaluated the My HealtheVet (MHV) Personal Information section to compare it to VA.gov’s Profile section and work toward a strategy for how we might provide a single profile experience for Veterans on VA.gov
 
 ## Method
-1. We started with [a Mural board](https://app.mural.co/invitation/mural/vsa8243/1645732777530?sender=lizlantz1528&key=923bca62-d832-4ec4-bbb3-d9382ac47fd4) to get a sense of MHV screen-by-screen, and then did the same with our profile.  
+1. We started with [a Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1645732777530/3b751dac638c58f4463823ac9476e4e25dc1240f?sender=lizlantz1528) to get a sense of MHV screen-by-screen, and then did the same with our profile.  
 2. We conducted interviews with the MHV UX and Health Apartment teams to get a better sense of plans for MHV Personal Information, and learn what they know about how people use these pages today. (notes coming soon)
 3. We created an [excel document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) to capture:
 - whether or not information already lives on VA.gov
@@ -64,7 +64,7 @@ These are links to submit for travel pay reimbursement, pay co-pays, view patien
 We'll conduct interviews with MHV stakeholders in the next sprint, and start planning for interviews with Veterans, MHV help desk staff, and coordinators.
 
 ## Links
-- [Mural board](https://app.mural.co/invitation/mural/vsa8243/1645732777530?sender=lizlantz1528&key=923bca62-d832-4ec4-bbb3-d9382ac47fd4) (visual comparison of MHV + VA.gov structure)
+- [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1645732777530/3b751dac638c58f4463823ac9476e4e25dc1240f?sender=lizlantz1528) (visual comparison of MHV + VA.gov structure)
 - [MHV personal info audit (xlsx)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/comparison/mhv-profile-audit.xlsx) 
 
 [image:6517351A-8F80-4B35-9A5A-4D5BE06DB4E7-28619-00002A61D53A6D21/FCF56A9A-4781-404F-8644-C578E0D72C28.png]
