@@ -1,25 +1,32 @@
 # Conversation Guide 
 
 ## Moderator logistics
+### 2-3 days before the session
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-
-*Mute your Slack notifications*
-
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
-
-*In the Attendees section, make sure everyone except the participant is on mute.*
-
-*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
-
-*Check your [screensharing setup] and share permissions for participants.*
-
-*When the participant is ready, begin the session with the following intro*
-
-### Project-specific setup
+- Complete any project-specific setup tasks for this study (List them below)
 
 - [ ] Step 1
 - [ ] Step 2
+- [ ] Step 3
+
+
+### Day of the session
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- Mute your Slack notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+
+
+
+### Starting the session
+
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your [screensharing setup] and share permissions for participants.
+- When the participant is ready, begin the session with the following intro*
+
+
 
 ## Intro - 5 minutes
 
@@ -99,8 +106,7 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
+## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
 - [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
