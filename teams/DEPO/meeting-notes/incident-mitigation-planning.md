@@ -30,7 +30,7 @@ But the long term work won't bear fruit for another 6-12 months. So what can we 
 
 Epic: [#22603](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22603)
 
-- **Faster FE and BE build time:** will make firedrills less painful when they happen, because fixes will get through faster. It'll also make staging changes render faster once main merges, so teams can use the full window to QA their work prior to the prod deploy. ETA mid April 2021.
+- **Faster FE and BE build time:** will make firedrills less painful when they happen, because fixes will get through faster. It'll also make staging changes render faster once master merges, so teams can use the full window to QA their work prior to the prod deploy. ETA mid April 2021.
 
 - **Content & app isolation:** separating the content build from the vets-website build is the first part of our larger code isolation initiative. This will.... ? ETA mid May. This will prevent content changes from accidentally messing up vets-website, and vice versa and should help with some of the public websites issues we've been seeing.
 

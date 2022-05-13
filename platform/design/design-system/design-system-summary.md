@@ -114,7 +114,7 @@ The platform received substantial feedback from Formation users, and much of tha
 
 ### Deployments and environments
 
-The develops team developed a deployment process that mirrors VA.gov. Commits to the `main` branch trigger a build to both dev-design.va.gov and staging-design.va.gov.  On weekdays at 2pm, design.va.gov automatically builds from `main`. 
+The develops team developed a deployment process that mirrors VA.gov. Commits to the `master` branch trigger a build to both dev-design.va.gov and staging-design.va.gov.  On weekdays at 2pm, design.va.gov automatically builds from `master`. 
 
 #### Note about getting the subdomains
 The VA requires separate processes for external DNS resolution (outside the VA network) and internal DNS resolution (inside the VA network).  

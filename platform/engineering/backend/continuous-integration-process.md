@@ -34,7 +34,7 @@ In Zenhub, find the highest-priority ticket from the Current Sprint column you c
 
 ## Create feature branch
 
-Each project's code base has a branch called `main` by default. Anything in `main` is deemed to be stable and deployable.
+Each project's code base has a branch called `master` by default. Anything in `master` is deemed to be stable and deployable.
 
 When work on a new issue or feature is started, the developer should start by creating a new feature branch based on `main`. Since most new work derives from a GitHub Issue, it's recommended to suffix your branch name with the issue. For example, if you're working on a feature to collect a veteran's address as detailed in Issue #25, you might call your issue `address-i25`.
 

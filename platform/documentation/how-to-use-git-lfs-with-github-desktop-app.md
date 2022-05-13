@@ -27,13 +27,13 @@ Note: If you are not seeing the `department-of-veterans-affairs` organization, y
 ## Make sure your clone of the repo is up to date 
 
 - In GitHub Desktop app, select `Fetch origin` (in the top dark gray bar of the application) 
-- If your clone of the repo is out of sync, a blue shaded alert will appear — for example if it is out of sync by 1 commit it will say "Pull 1 commit from the origin remote: The current branch (main) has a commit on GitHub that does not exist on your machine"
+- If your clone of the repo is out of sync, a blue shaded alert will appear — for example if it is out of sync by 1 commit it will say "Pull 1 commit from the origin remote: The current branch (master) has a commit on GitHub that does not exist on your machine"
 - Select the blue button `Pull origin` 
 
 ## Upload your file 
 
 - Make sure you have your file named properly (lower-case-with-dashes), and drag it into the folder on your desktop where you want it to be in GitHub (open your desktop version of the `va.gov-team` repo and navigate through the repo to the appropriate folder on your desktop. The repo is located on your computer wherever you told GitHub Desktop app you wanted to save it.) 
-- In GitHub desktop app, if you made this change while "Current Branch" was set to "main", you should see the following message: "Push commits to the origin remote - You have 1 local commit waiting to be pushed to GitHub"
+- In GitHub desktop app, if you made this change while "Current Branch" was set to "master", you should see the following message: "Push commits to the origin remote - You have 1 local commit waiting to be pushed to GitHub"
 - Click the blue "Push origin" button 
 
 ## More info 

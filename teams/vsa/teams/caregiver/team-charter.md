@@ -122,7 +122,7 @@ Anyone on the team can create a user story. All are responsible for keeping them
 
 - For a task to be **"Done"** 
    - Internal validation has occured
-   - Merged to main
+   - Merged to main/master
    - Each ticket's last comment before closing should reflect when validation has occurred and by whom
    - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
 
