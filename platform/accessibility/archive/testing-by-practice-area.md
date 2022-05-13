@@ -4,8 +4,6 @@ This document will outline the team members or practice area(s) who are best sui
 
 ## Table of Contents
 
-- [Accessibility Testing by Practice Area](#accessibility-testing-by-practice-area)
-  - [Table of Contents](#table-of-contents)
   - [The Testing Process](#the-testing-process)
   - [Axe Scans in Daily Development](#axe-scans-in-daily-development)
   - [Axe Checks in End-to-End Tests](#axe-checks-in-end-to-end-tests)
