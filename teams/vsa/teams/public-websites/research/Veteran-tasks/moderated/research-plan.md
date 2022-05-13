@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 12, 2022
+# Research Plan for Veteran Top Tasks MODERATED (Phase 1 of 2), Public Websites, May 13, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the home page.
@@ -15,22 +15,23 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to get feedback from Veterans and caregivers on a survey designed to identify Veteran top tasks. We want to get feedback on the tasks, questions, and instructions before launching the unmoderated survey to a large group of Veterans and caregivers to complete independently (without a researcher present). 
+The goal of this research is to get feedback from Veterans and others (including Veterans' family members or caregivers, survivors, and service members) on a survey designed to identify Veteran top tasks. We want to get feedback on the tasks, questions, and instructions before launching the unmoderated survey to a large group of Veterans and others to complete independently (without a researcher present). 
 
 ### Outcome
-The feedback we get on the survey will be used to refine it to better prepare for Veterans and caregivers to complete it independently.
+The feedback we get on the survey will be used to refine it to better prepare for Veterans and others to complete it independently.
 
 ### Research questions
-1. When Veterans or their caregivers contact the VA, what tasks are most important to them? 
-2. What tasks are least important? 
-3. Are there any tasks in the survey that are unclear or confusing?
-4. Are there any important tasks missing from the survey?
-5. Is there anything about the survey that is unclear or confusing?
+1. When Veterans and others contact the VA, what tasks are most important to them? 
+2. How many tasks do Veterans and others identify as important to them?
+3. What tasks are least important? 
+4. Are there any tasks in the survey that are unclear or confusing?
+5. Are there any important tasks missing from the survey?
+6. Is there anything about the survey that is unclear or confusing?
 
 ### Hypotheses
-1. Veterans and caregivers will find the survey intuitive to use from desktop or mobile.
-2. Veterans and caregivers will be able to select which of the VA-related tasks presented in the survey are most important to them.
-3. Veterans and caregivers won't find any important tasks missing from the survey.
+1. Veterans and others will find the survey intuitive to use from desktop or mobile.
+2. Veterans and others will be able to select which of the VA-related tasks presented in the survey are most important to them.
+3. Veterans and others won't find any important tasks missing from the survey.
 
 ## Method: Moderated Sessions over Zoom	
 We will conduct remote moderated research sessions via Zoom. Research participants will be asked about VA-related tasks that they do, and then they will be given an online survey link to do while sharing their web browser screen and talking aloud.
@@ -51,9 +52,10 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 
 #### Primary criteria (must-haves)
 - 5 are Veterans
-- 3 are caregivers of Veterans
+- 3 are Veterans' family members or caregivers, survivors, or service members
 - 5 have experience with one or more of the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
-- 3 have NO experience with the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
+- 3 have NO experience with health care, but DO have experience with one or more of the following VA benefits or services: education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
+- 3 have NO experience with ANY VA benefits or services (including health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits)
 - ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
