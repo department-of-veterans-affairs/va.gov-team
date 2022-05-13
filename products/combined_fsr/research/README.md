@@ -4,4 +4,5 @@ This folder contains the research studies conducted on the Combined Financial St
 
 ## Quick links
 
-- [Usability study - May 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/research/usability-apr-2022)
+### SME interviews
+- [May 10, 2022 - Meeting with David Adcock](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/sme-interviews/05102022-sme-interview.md)
