@@ -40,7 +40,7 @@ MHV will need to do the following. The work of VA.gov, VANotify, and VA Profile 
 ### Implementation
 
 VA.gov / VANotify/ VA Profile all meet biweekly too coordinate on work. Each team does the following:
-- 
+
 #### VA.gov
 
 - Coordinates effort between VA.gov, VA Profile, VANotify, MHV.
