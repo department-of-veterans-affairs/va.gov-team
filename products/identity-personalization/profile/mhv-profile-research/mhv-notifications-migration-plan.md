@@ -15,7 +15,7 @@ This effort will involve the following:
 - Migrating existing user preferences into the VA Profile backend
 - Surfacing the preferences in the VA.gov interface
 
-## When wil this work start?
+## When will this work start?
 
 We'll need to submit an intake form for VA Profile and discuss this work with VANotify to get on everyone's roadmap. As such, this work will not likely start for at least a couple of months.
 
@@ -41,5 +41,10 @@ We'll need to submit an intake form for VA Profile and discuss this work with VA
 
 ### MHV
 
-- Coordinate with VA Profile on migration of existing functionality into VA Profile.
-- Serve in a stakeholder role to give guidance and approvals as needed.
+- Serve as SMEs/Stakeholders, providing guidance and approvals as necessary.
+- Outline requirements and needs so that functionality is implemented correctly.
+- Coordinate with VA Profile on migration of existing user preferences into VA Profile.
+
+## Rough outline of this effort
+
+- VA.gov meets with MHV to discuss profile audit findings and recommendations. We align on moving over MHV notification preferences to the VA.gov profile/VA Profile/VANotifiy.
