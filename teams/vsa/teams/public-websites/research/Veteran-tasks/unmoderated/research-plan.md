@@ -16,20 +16,21 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 40 tasks.
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 40 tasks. We want to get input from Veterans and others, including Veterans' family members or caregivers, survivors, and service members.
 
 ### Outcome
 The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
 
 ### Research questions
-1. When Veterans or their caregivers contact the VA, what tasks are most important to them? 
-2. What tasks are least important? 
-1. Are there any important tasks missing?
-2. What tasks are done most frequently online?
+1. When Veterans or others contact the VA, what tasks are most important to them? 
+2. How many tasks do Veterans and others identify as important to them?
+3. What tasks are least important? 
+5. Are there any important tasks missing?
+6. What tasks are done most frequently online?
 
 ### Hypotheses
-1. Veterans and caregivers will generally agree on which tasks are the most important.
-2. Veterans and caregivers will generally agree on which tasks are the least important.
+1. Veterans and others will generally agree on which tasks are the most important.
+2. Veterans and others will generally agree on which tasks are the least important.
 
 ## Method: Unmoderated Survey
 We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains a list of about 40 VA-related tasks. The online survey will be built in Optimal Workshop's survey tool, which is called Questions. The survey will contain a list of about 40 VA-related tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The [list of tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx) has been reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks have been combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported have been omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
@@ -37,7 +38,7 @@ We will conduct an unmoderated study in which participants are invited by email 
 In the survey, participants will select which VA-related tasks are important to them personally (*not* for all Veterans). Participants will also be asked if there are any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
 
 
-We would like to get complete survey responses from **at least 30 Veterans and caregivers (ideally 40-50)**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
+We would like to get complete survey responses from **at least 30 Veterans and others (ideally 40-50)**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
 *Action item: Revise survey per moderated research (phase 1 of 2), and add a question at the end for any feedback on the survey.*
 
@@ -51,8 +52,8 @@ We would like to get complete survey responses from **at least 30 Veterans and c
 
 We would like Perigean to recruit **63** people using the cohorts below in order to get at least **30 completes (ideally 40-50)**.
 Overall, we would like to get about 
-- **2/3 Veterans** and **1/3 caregivers** of Veterans
-- **1/2 with experience using some VA benefits/services** and others without such experience but interest in some
+- **2/3 Veterans** and **1/3 Veterans' family members or caregivers, survivors, or service members**
+- At least **1/2 with experience using some VA benefits/services** and 20% without such experience but interest in some
 
 ### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
@@ -62,7 +63,10 @@ Overall, we would like to get about
 - All must have experience with VA health care 
 - [Cohort A study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=A)
 
-#### For Cohort B (9 Caregivers)
+#### POSSIBLE REPLACEMENT COHORT A OR ADDITIONAL COHORT
+- All must have NO experience with health care, but DO have experience with one or more of the following VA benefits or services: education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
+
+#### For Cohort B (9 Veterans' family members or caregivers, survivors, or service members)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
 - [Cohort B study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=B)
 
@@ -74,7 +78,7 @@ Overall, we would like to get about
 - All have experience with VA disability compensation
 - [Cohort D study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=D)
 
-#### For Cohort E (9 Caregivers)
+#### For Cohort E (9 Veterans' family members or caregivers, survivors, or service members)
 - All have NO experience with VA benefits or services but are interested in some 
 - [Cohort E study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=E)
 
