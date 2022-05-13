@@ -238,6 +238,7 @@ For Design, FE, and BE: QA fixes, if applicable
 
 **Design - Liz**
 
+- Put together deck for MHV team
 - If scheduling works out, share results with MHV team
 
 ### Military information
