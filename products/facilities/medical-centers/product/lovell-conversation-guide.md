@@ -70,7 +70,7 @@ Participant: Dual-eligible Veterans<br>
 Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/no-panels?mode=i)
 
 *Stop sharing screen.*
-Pre-question: Imagine you're sitting down to your computer or laptop, what's the first thing that you would do to get to the va.gov page for the USS Red Rover location?
+Pre-question: Imagine you want to learn about a facility called the USS Red Rover. How would you use your phone or computer to get information about that location?
 
 *Start sharing screen.*
 - As someone who prefers to receive care at a TRICARE location, how would you find information on the USS Red Rover location?
