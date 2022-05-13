@@ -18,17 +18,57 @@ Under the SLA, "business hours" are from 9am to 5pm EST, and during these hours 
 
 ## Priority 1
 
-This is the highest priority, indicative of a critical defect or issue preventing the user from completing their work.  Examples would be an outage, an inability to publish content prior to deadline, "access denied" messages, and similar.
+Reserved for the highest priority, indicative of a critical defect or issue, that has a larger scale of impact and blocking or preventing someone from doing their work. Support resources to stop their current work to focus on resolution immediately.
+
+Resolution should be within 16 business hours or 2 business days.
+
+Examples:
+
+Broken link reporting (+10 breaks content release) - these need to be responded to within first 30 minutes due to impact for content release
+
+Not having access to the Drupal CMS system as a result of an outage
+
+Content not released within expected timeframes:
+
+Regularly scheduled releases supported from 9am - 5pm ET
+
+Manually releases supported from 8am - 9am ET, and 5pm - 8pm ET (banner alerts and triggered by an admin)
+
+“Access Denied” messages
+
+Operating statuses fail to go out
+
+Entire section of site is missing (i.e. the “Spotlight” section isn’t loading on any VAMC system pages on VA.gov)
 
 ## Priority 2
 
-The scope of P2 Tickets include issues like How-to use various features of the CMS or User Administration.
+This is the second highest priority pertaining to a specific section or facility. It is next in line in regards to urgency but not a show stopper and limited in scope. Support resources will communicate to the Product Owner within 5 business days, who will determine prioritization.
 
-A First response is required within 30 minutes of the request being made however unlike P1, P2 requests are expected to be resolved within 4 weeks.
+Resolution should be within 4 weeks once prioritized.
+
+Examples:
+
+Menu Links - enabling previously-disabled menu links, archiving old ones from archived pages (front-end issue requiring this as a workaround)
+
+Accessibility errors
+
+Site defect that isn’t a major blocker or showstopper, i.e. headings load at unexpected sizes
+
+Transfer or provide appropriate contact to SharePoint or Google Analytics
+
+User Administration - granting access to include training environment and deactivation once all know steps have been completed
 
 ## Priority 3
 
-P3 requests are reserved for issues that involve adding or altering a feature to improve the efficiency of the publishing and editing experience for users - or "nice to haves", and minor issues that do not interfere with User ability to publish content. 
+Reserved for lower priority issues that involve adding or altering a feature to improve the efficiency of the publishing and editing experience for users, "nice to haves", and for minor issues that do not interfere with User ability to publish content.
+
+Resolutions could include development work and non-development work therefore, some resolutions may be added to the Product Backlog and planned several months out on a roadmap for future releases. Support communicates back to the user.
+
+Examples:
+
+Spelling and grammar errors in the UI (help text or labels)
+
+Training feedback
 
 # Help Desk Service Hours
 
