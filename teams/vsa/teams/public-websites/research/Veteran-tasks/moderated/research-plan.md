@@ -86,7 +86,7 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **Date TBD during May 16-18 time pm** ET with TBD (email address)
+- * Pilot #1: **Date TBD during May 17-18 time pm** ET with TBD (email address)
 - * Pilot #2: **May 19 5 pm ET** with angela.fowler@adhocteam.us
 
 ### Research sessions
