@@ -48,3 +48,4 @@ We'll need to submit an intake form for VA Profile and discuss this work with VA
 ## Rough outline of this effort
 
 - VA.gov meets with MHV to discuss profile audit findings and recommendations. We align on moving over MHV notification preferences to the VA.gov profile/VA Profile/VANotifiy.
+- VA.gov meets with MHV to make sure we thoroughly understand existing MHV functionality and needs.
