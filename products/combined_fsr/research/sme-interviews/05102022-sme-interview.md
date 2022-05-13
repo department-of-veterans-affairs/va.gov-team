@@ -38,3 +38,12 @@ _May 10th, 2022_
 * Once the notification enters VHA's workstream, they will take action on it 
 * VA form 1100 is an agreement that articulates a payment plan 
    * Eventually wants a feature to guide the Veteran through the agreement online
+
+---
+## Next steps
+
+* Our team will incorporate the following:
+   * Adjust the combined FSR's UI to account for write-offs/waivers and compromise offers being the only debt relief options that require an FSR 
+   * Ideate on how to direct Veterans looking to set up a payment plan away from the FSR and towards the correct information/resource(s)
+* We have a few outstanding questions regarding content on the FSR's intro page that will be addressed asynchronously 
+
