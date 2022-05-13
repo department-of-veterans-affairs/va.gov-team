@@ -26,14 +26,14 @@ Add your team's practice and contact information below.
 - **Team Name:**
 
 - **OCTO-DE Product Owner:**
+
+- **VA Business Owner:**
    - [ ] OCTO (Office of the CTO)
    - [ ] VHA (Veterans Health Administration)
    - [ ] VBA (Veterans Benefits Administration)
    - [ ] NCA (National Cemetery Administration)
    - [ ] VACO (Veterans Affairs Central Office)
    - [ ] Other. Please specify: ____________
-
-- **VA Business Owner:**
 
 - **Crew:**
    - [ ] Sitewide
