@@ -7,7 +7,7 @@
 
 ## In progress
 
-* Appointments list usability
+* [Appointments list usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/README.md)
 
 
 ## 2022 Studies
