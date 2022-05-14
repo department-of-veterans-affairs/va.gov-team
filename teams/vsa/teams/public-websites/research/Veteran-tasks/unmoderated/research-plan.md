@@ -23,7 +23,7 @@ The top tasks that we identify could be used to inform the redesign of the VA.go
 
 ### Research questions
 1. When Veterans or others contact the VA, what tasks are most important to them? 
-2. How many tasks do Veterans and others identify as important to them?
+2. How many tasks do Veterans and others identify as important to themselves?
 3. What tasks are least important? 
 5. Are there any important tasks missing?
 6. What tasks are done most frequently online?
