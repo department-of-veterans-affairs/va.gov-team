@@ -22,7 +22,7 @@ The feedback we get on the survey will be used to refine it to better prepare fo
 
 ### Research questions
 1. When Veterans and others contact the VA, what tasks are most important to them? 
-2. How many tasks do Veterans and others identify as important to them?
+2. How many tasks do Veterans and others identify as important to themselves?
 3. What tasks are least important? 
 4. Are there any tasks in the survey that are unclear or confusing?
 5. Are there any important tasks missing from the survey?
