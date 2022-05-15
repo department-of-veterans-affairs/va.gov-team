@@ -1,3 +1,6 @@
+name: "Benefits Team 1 Issue Template"
+description: Issue template used by Benefits Team 1
+
 ## Value Statement
 **_As a_**
 **_I want to_**
