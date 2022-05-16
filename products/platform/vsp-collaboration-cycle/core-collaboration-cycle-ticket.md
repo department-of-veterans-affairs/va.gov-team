@@ -128,7 +128,6 @@ Examples of **research with VA.gov users** include:
 - [ ] Update this ticket with the Zoom recording
   - Recording: 
   - Password: 
-- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
 
