@@ -1,28 +1,31 @@
 # Trauma-Informed Conversation Guide TEMPLATE
 
 ## Moderator logistics
+### 2-3 days before the session
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+- Review VA Platforms [Research Safety and Emergency Exit Strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html)
+- Complete any project-specific setup tasks for this study (List them below)
+   - [ ] Step 1
+   - [ ] Step 2
+   - [ ] Step 3
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-*Mute your Slack notifications*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
+### Day of the session
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- Mute your Slack notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
-*Let observer(s) know that they'll be in the waiting room until/if the participant agrees to have them in the session.*
 
-*In the Attendees section, make sure everyone except the participant is on mute.*
+### Starting the session
 
-*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your [screensharing setup] and share permissions for participants.
+- Admit the notetaker and the participant
+- Let observer(s) know that they'll be in the waiting room until/if the participant agrees to have them in the session.
+- When the participant is ready, begin the session with the following intro
 
-*Check your [screensharing setup] and share permissions for participants.*
-
-*Admit the notetaker and the participant*
-
-*When the participant is ready, begin the session with the following intro*
-
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
 
 ## Intro - 5 minutes
 
