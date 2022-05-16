@@ -190,33 +190,23 @@ For nearly all alerts that could fire you should first check on datadog and view
 
         <ins>**Threshold:**</ins> `greater than or equal to 2 errors` in total over a `60 minute window` with a recovery of less than 30. 
 
-        <ins>**Metrics used:**</ins> 
+        <ins>**Metrics used:**</ins> Count test failures
 
-        ```
-        login as count
-        ```
     - ### 1.2.12 **Identity - Production [MHV Unified Sign-in] MHV Basic**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/66745855) specifically looks for MHV authentication in production. This alert typically indicates something is wrong with MHV Basic login. This alert would require investigating in the standard process described above, this alert would need further investigation as this issue would be a production issue.
 
         <ins>**Threshold:**</ins> `greater than or equal to 2 errors` in total over a `60 minute window` with a recovery of less than 30. 
 
-        <ins>**Metrics used:**</ins> 
+        <ins>**Metrics used:**</ins> Count test failures
 
-        ```
-        login as count
-        ```
-    - ### 1.2.13 **Identity - Production [MHV Unified Sign-in] IAL1**
+    - ### 1.2.13 **Identity - Production [MHV Unified Sign-in] logingov IAL1**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/66746216) specifically looks for IAL1 authentication in production. This alert typically indicates something is wrong with IAL1 login. This alert would require investigating in the standard process described above, this alert would need further investigation as this issue would be a production issue.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/66746216) specifically looks for logingov IAL1 authentication in production. This alert typically indicates something is wrong with logingov IAL1 login. This alert would require investigating in the standard process described above, this alert would require further investigation as this issue would be a production issue.
 
         <ins>**Threshold:**</ins> `greater than or equal to 2 errors` in total over a `60 minute window` with a recovery of less than 30.
 
-        <ins>**Metrics used:**</ins> 
-
-        ```
-        login as count
-        ```
+        <ins>**Metrics used:**</ins> Count test failures
         
 - ## 2 Staging
     The monitors in staging currently are set up to monitor and alert on internal system availability, external system availability, and any changes to the Identity application stack that cause unexpected results during the authentication process.
