@@ -1,3 +1,5 @@
+# USING CODESPACES AND THE MOCK API TO ACCESS PATIENT CHECK-IN 
+
 - Set up SOCKS access
 	- [Internal tools access via SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html)
 - Open Ubuntu
