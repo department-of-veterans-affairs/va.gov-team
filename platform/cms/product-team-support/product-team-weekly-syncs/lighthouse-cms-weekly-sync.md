@@ -9,18 +9,24 @@
   - Migrations
     - From VAST
     - To Lighthouse
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans, Kevin Walsh, Steve Wirt
 
 </details>
 
 ## Monday, May 16, 2022
 * Facility Covid Status
+  * Testing done in sandbox. Waiting for CMS to get data to push. Won't take place until everything is live. Editors will be entering data on Thurs/Fri this week.
+  * Won't show until Monday the 23rd when the flipper kicks off. 
+  * AI - Need to keep the LH team aware so that they can check the data when we start pushing. Will update in Slack when ready
 * URL's for mobile sites and domiciliaries.
   * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
   * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
   * AI - Work VHA Digital Media - How editors handle a "This is how to handle Domiciliary" "How to handle a Community Living Center" need to be added to KB
   * Audit to understand which ones are published in the CMS and hand it to VHA DIgital Media to cleanse.
+  * Still need additional discussion with Dave, Steve, etc... Need an agreement going forward
 * V1 Rollout update
+  * Next high priority item. V0 is being looked at now. Hope to have an update next week to veriofy.
+  * AI - Need some data from Steve to get all Services per Facility in a readable form. Done during the meeting and provided in Slack
 
 ## Monday, May 9, 2022
 * Facility Covid Status
