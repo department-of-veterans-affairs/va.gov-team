@@ -15,4 +15,4 @@
           - Would be used for Audit purposes
      - QA Testing is needed in staging with ES
      - Tarsha will share our approved content with HEC for the paper form addition
-- Monthly metrics for paper & online applications
+
