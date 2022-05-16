@@ -191,6 +191,8 @@ For nearly all alerts that could fire you should first check on datadog and view
         <ins>**Threshold:**</ins> `greater than or equal to 2 errors` in total over a `60 minute window` with a recovery of less than 30. 
 
         <ins>**Metrics used:**</ins> Count test failures
+        
+        <ins>**Severity:**</ins> Critical. This is impacting Veterans and is a production level outage.
 
     - ### 1.2.12 **Identity - Production [MHV Unified Sign-in] MHV Basic**
 
@@ -199,6 +201,8 @@ For nearly all alerts that could fire you should first check on datadog and view
         <ins>**Threshold:**</ins> `greater than or equal to 2 errors` in total over a `60 minute window` with a recovery of less than 30. 
 
         <ins>**Metrics used:**</ins> Count test failures
+        
+        <ins>**Severity:**</ins> Critical. This is impacting Veterans and is a production level outage.
 
     - ### 1.2.13 **Identity - Production [MHV Unified Sign-in] logingov IAL1**
 
@@ -207,6 +211,8 @@ For nearly all alerts that could fire you should first check on datadog and view
         <ins>**Threshold:**</ins> `greater than or equal to 2 errors` in total over a `60 minute window` with a recovery of less than 30.
 
         <ins>**Metrics used:**</ins> Count test failures
+        
+        <ins>**Severity:**</ins> Critical. This is impacting Veterans and is a production level outage.
         
 - ## 2 Staging
     The monitors in staging currently are set up to monitor and alert on internal system availability, external system availability, and any changes to the Identity application stack that cause unexpected results during the authentication process.
