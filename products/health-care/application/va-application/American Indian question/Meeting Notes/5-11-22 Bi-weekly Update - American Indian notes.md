@@ -1,6 +1,6 @@
 # May 11, 2022 HEC Bi-weekly Health Care application update
 
-## This is an excerpt from the meeting held on 5/11/22 with HEC team - for notes on discussed topics other than American Indian question, please see full [Meeting Notes]().
+## This is an excerpt from the meeting held on 5/11/22 with HEC team - for notes on discussed topics other than American Indian question, please see full [Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/5-11-22%20HEC%20Bi-weekly%20Health%20Care%20application%20update.md).
 
 
 ### Notes:
