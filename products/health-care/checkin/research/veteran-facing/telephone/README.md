@@ -23,7 +23,7 @@
 | P08 | Friday, May 13 11:30am - 12:30pm. | 1 | Attended | iPhone | Veteran | Man | White or Caucasian | 79 | Associate's degree,occupational | Navy | OH | Yes | No |
 | P09 | Friday, May 13 1:00pm - 2:00pm | 2 | Attended | iPhone | Veteran;Veteran's family member (such as a spouse or dependent) | Man | Hispanic, Latino, or Spanish origin | 31 | Associate's degree,academic | Marine Corps | WA | Yes | No |
 | P10 | Friday, May 13 2:15pm – 3:15pm |  | Canceled | iPhone | Veteran | Man | Black or African American | 43 | Master's degree | Army | CA | No | No |
-| P11 | Monday, May 16 9:00am - 10:00am | 1 |  | iPhone | Veteran | Man | Black or African American | 71 | Some college, no college degree | Air Force | MD| Yes | No |
+| P11 | Monday, May 16 9:00am - 10:00am | 1 | Attended | iPhone | Veteran | Man | Black or African American | 71 | Some college, no college degree | Air Force | MD| Yes | No |
 | P12 | Monday, May 16 10:15am - 11:15am | 2 |  | iPhone | Veteran | Man | Hispanic, Latino, or Spanish Origin | 42 | Associate's degree,occupational | Army;Navy | TX | Yes | No |
 | P13 | Monday, May 16 11:30am - 12:30pm | 1 |  | Android | Veteran | Man | Black or African American | 48 | Professional degree | Army | AL | No | Yes |
 | P14 | Monday, May 16 1:00pm - 2:00pm | 2 |  | Android | Veteran;Veteran's caregiver | Woman | American Indian or Alaska Native;White or Caucasian | 49 | Some college, no college degree | Army | TX | Yes | Yes |
