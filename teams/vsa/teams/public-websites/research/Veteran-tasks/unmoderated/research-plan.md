@@ -57,8 +57,27 @@ Overall, we would like to get about
 
 ### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
-- This study will be broken up into 7 mini studies, segmented by the 7 cohorts below. 
-- 
+- This study will be broken up into 8 mini studies, segmented by the 8 cohorts below. 
+
+### DRAFT COHORTS (63 people in 8 cohorts)
+
+- 9 Veterans *not using VA healthcare* but using at least one of education, career services, disability, housing, pension, life insurance, or burial
+
+- 9 Veterans using disability benefits
+- 6 Veterans using education benefits or career services
+- 6 Veterans using housing, pension, life insurance, or burial benefits
+
+- 9 Veterans *not using any VA benefits* but interested in some
+
+- 9 Non-Veterans using any of health care, education, career services, disability, housing, pension, life insurance, or burial
+- 9 Non-Veterans *not using any VA benefits*
+
+- 6 Anyone using any of health care, education, career services, disability, housing, pension, life insurance, or burial
+
+### END OF DRAFT
+
+- 6 Veterans using health care -- *NO because will likely get with other benefits*
+
 **ACTION ITEM: REVISIT COHORTS WITH DAVE's FEEDBACK**
 - *POSSIBLE REPLACEMENT COHORT A OR ADDITIONAL COHORT:*
 - All must have NO experience with health care, but DO have experience with one or more of the following VA benefits or services: education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
