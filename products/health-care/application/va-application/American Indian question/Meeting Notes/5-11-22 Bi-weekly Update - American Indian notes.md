@@ -9,7 +9,7 @@
      - Finalizing content updates
      - Launch in August alongside paper version
           - Josh says the data can be supported by ES
-     - Tribal Aff not needed right now
+     - Tribal Affiliation not needed right now
           - Christopher H spoke with Stacy and confirmed this
           - May implement at a later date/future
           - Would be used for Audit purposes
