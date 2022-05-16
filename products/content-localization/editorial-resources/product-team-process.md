@@ -1,6 +1,6 @@
 # Process for product team translation requests with State Department
 
-1. **Product team** and **Sitewide content team** ensure that the English content is final, free of errors, and meets the requirements of the preparing content for translation checklist. Teams also identify any new terms, context, or questions for the translation glossary and style guide.
+1. **Product team** and **Sitewide content team** ensure that the English content is final and meets the requirements of the preparing content for translation checklist. Teams also identify any new terms, context, or questions for the translation glossary and style guide.
 2. **Product team** provides translation files (JSON) and contextual materials (such as a link to the product in staging, screenshots, and product guides).
 3. **Sitewide content team** sends estimate request and materials to **State Department** for translation. *Timing:* 1/2 day
 4. **State Department sends quote estimate**. *Timing:* Typically 1-2 days, unless State has questions that take more back-and-forth.
