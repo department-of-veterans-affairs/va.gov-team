@@ -115,4 +115,4 @@ May 25, 2022 | Noon - 3 pm, 4 - 8 pm
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on May 13, 2022
-- Reviewed and approved by Shane or Clayton on DATE TBD
+- Reviewed and approved by Shane Strassberg on May 16, 2022
