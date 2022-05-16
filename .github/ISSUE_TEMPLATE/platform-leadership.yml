@@ -16,8 +16,6 @@ body:
       value: |
         - [ ] X has been added to Y
         - [ ] Z has been deleted
-      validations:
-        required: true
   - type: checkboxes
     id: subjects
     attributes:
