@@ -14,7 +14,7 @@
 |Project|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022
 |----|----|----|----|----|----|
 |**Add payments & financials section to My VA** |Scoping and planning; Design | Design/Research/Build/Pre-launch | Launch|-|-|
-|**Redirect from homepage to My VA at login**|-|-|Conduct experiment 1 month after Payments launch|-|-|
+|**Redirect from homepage to My VA at login**|-|-|Start phased launch of redirect 1 month after Payments launch|-|-|
 |**Payments & Debts/copays V2**|-|-|Design explorations; Research; FE Build| QA; Pre-launch; Launch|-|
 |**My VA audit**|-|-|Documentation; Determine next steps for My VA; Update designs|Research; FE updates; Launch|-|
 
