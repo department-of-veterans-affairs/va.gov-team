@@ -1,3 +1,4 @@
 # Github Actions
 
-This directory is used for running [Github Actions](https://docs.github.com/en/actions) on the `va.gov-team` repository. Anyone may contribute or modify these workflows and they will be reviewed by [Platform Engineering Leadership](https://github.com/orgs/department-of-veterans-affairs/teams/platform-leadership-engineering).
+This directory contains [automation](https://docs.github.com/en/actions) for the `va.gov-team` repository.
+We welcome all contributions to or modification of these workflows. [Platform Engineering Leadership](https://github.com/orgs/department-of-veterans-affairs/teams/platform-leadership-engineering) will automatically be added to any Pull Request involving assets in this directory.
