@@ -1,0 +1,18 @@
+# May 11, 2022 HEC Bi-weekly Health Care application update
+
+## This is an excerpt from the meeting held on 5/11/22 with HEC team - for notes on discussed topics other than American Indian question, please see full [Meeting Notes]().
+
+
+### Notes:
+
+- American Indian question approval
+     - Finalizing content updates
+     - Launch in August alongside paper version
+          - Josh says the data can be supported by ES
+     - Tribal Aff not needed right now
+          - Christopher H spoke with Stacy and confirmed this
+          - May implement at a later date/future
+          - Would be used for Audit purposes
+     - QA Testing is needed in staging with ES
+     - Tarsha will share our approved content with HEC for the paper form addition
+- Monthly metrics for paper & online applications
