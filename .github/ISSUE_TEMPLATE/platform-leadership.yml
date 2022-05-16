@@ -1,0 +1,31 @@
+name: Platform Leadership
+description: Issues that are being handled by Platform Leadership team.
+labels: ["platform-leads"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the issue.
+      placeholder: Tell us what the issue is!
+      value: "Let's do a thing!"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        - [ ] X has been added to Y
+        - [ ] Z has been deleted
+      validations:
+        required: true
+  - type: checkboxes
+    id: subjects
+    attributes:
+      label: Subject Areas
+      description: What subject areas apply to this issue?
+      options:
+        - label: Product
+        - label: Design
+        - label: Engineering
+        - label: OCTO-DE
+          required: true
