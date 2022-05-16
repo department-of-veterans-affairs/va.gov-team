@@ -116,7 +116,7 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Design Intent meeting
-- [ ] Meeting request date:
+- [ ] Request date:
 - [ ] Meeting date/time:
   
 #### After meeting
