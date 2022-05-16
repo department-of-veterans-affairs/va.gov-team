@@ -120,7 +120,7 @@ Write any recruitment criteria for experience or scenarios as screener questions
 What criteria would strengthen your results? 
 
 ## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
