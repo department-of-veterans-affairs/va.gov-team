@@ -71,9 +71,9 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 **Key result**: Establish baseline metric for how many people click the debt notification from My VA. Goal: 20K clicks/quarter.
 
-|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|KPI/metric|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks of debt notification on My VA| -- |TBD|TBD|
+|Clicks of debt notification on My VA|TBD|TBD|
 
 ## Solution approach
 
