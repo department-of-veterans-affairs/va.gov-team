@@ -97,7 +97,7 @@ Examples of **research with VA.gov users** include:
 #### Before meeting
   
 ##### VFS actions
-- [ ] Have Matt Dingee review your proposed designs
+- [ ] Has Matthew Dingee review your proposed designs?
 - [ ] Schedule your Design Intent when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
@@ -109,20 +109,10 @@ Examples of **research with VA.gov users** include:
   
 **Design Intent artifacts**
 
-*Design artifacts*
-
-- Whiteboard sketch or other lo-fi prototypes or wireframes: 
-
-*IA artifacts*
-
-- User flow: 
-  
-*Research artifacts*
-  
-- Research plan: 
-  
-*Other*
-- Any other artifacts you have so far:
+- [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
+- [ ] User flow
+- [ ] Research plan
+- [ ] Any other artifacts you have so far
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Design Intent meeting
