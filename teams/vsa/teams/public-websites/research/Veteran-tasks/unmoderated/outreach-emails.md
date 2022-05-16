@@ -1,4 +1,4 @@
-# Outreach emails for Recruitment for Veteran Top Tasks UNMODERATED 
+# Outreach emails for Recruitment for Veteran Top Tasks UNMODERATED survey
 
 ## Outreach email for Cohorts A, D, F, G
 
