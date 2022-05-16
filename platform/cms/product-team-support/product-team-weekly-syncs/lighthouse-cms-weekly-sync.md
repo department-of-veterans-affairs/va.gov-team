@@ -13,6 +13,15 @@
 
 </details>
 
+## Monday, May 16, 2022
+* Facility Covid Status
+* URL's for mobile sites and domiciliaries.
+  * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
+  * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
+  * AI - Work VHA Digital Media - How editors handle a "This is how to handle Domiciliary" "How to handle a Community Living Center" need to be added to KB
+  * Audit to understand which ones are published in the CMS and hand it to VHA DIgital Media to cleanse.
+* V1 Rollout update
+
 ## Monday, May 9, 2022
 * Facility Covid Status
   * Supplemental Status is a structure containing both of the above options. This would combine the benefits (and detriments) of the other options. With both a label and an id, the API could use the static id for search/filter operations while consumers could use the label field for display purposes. CMS could change the label if desired while keeping the same id for dynamic display updates. Additions of new ids would still be a manual process for the API.
