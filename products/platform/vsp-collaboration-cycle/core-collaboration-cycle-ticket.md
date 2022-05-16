@@ -121,10 +121,10 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 
-- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
-  - [ ] Design feedback provided
-  - [ ] Accessibility feedback provided
-  - [ ] IA feedback provided
+- [ ] If you have feedback, create feedback tickets and link to this epic. Once you have completed you review, check the box next to your practice area
+  - [ ] Design has completed the review and linked any feedback tickets
+  - [ ] IA has completed the review and linked any feedback tickets
+  - [ ] Research has completed the review and linked any feedback tickets
 - [ ] Update this ticket with the Zoom recording
   - Recording: 
   - Password: 
