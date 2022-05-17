@@ -4,7 +4,11 @@ MSA 1: North County CBOC, PCP<br>
 MSA 2: North County CBOC, PCP<br>
 MSA 3: Eye Clinic<br>
 MSA 4: Eye Clinic<br>
-MSA 5: Eye Clinic
+MSA 5: Eye Clinic<br>
+MSA 6: <br>
+MSA 7<br>
+MSA 8<br>
+MSA 9
 
 Nurse 1: Eye Clinic<br>
 Nurse 2: Eye Clinic<br>
@@ -37,7 +41,7 @@ MSA 9: Lot easier to know if patient is checked in.
 **Has pre-check-in impacted the veteran experience?** 
 
 MSA 1: She has VSE-GUI for scheduling, Vista for updating patient info, VSE-CS for workflow updates, and VetLink for labs all running.<br>
-MSA 2: A lot of veterans think it is difficult. She did not elaborate as to why.<\br>
+MSA 2: A lot of veterans think it is difficult. She did not elaborate as to why.<br>
 MSA 3: Some veterans say it is easy and convenient. Others are lost don’t understand what pre-check-in is.<br>
 MSA 4: Extra work assisting veterans with e-check-in.<br>
 MSA 5: n/a<br>
@@ -53,7 +57,7 @@ MSA 1: 7<br>
 MSA 2: 9<br>
 MSA 3: n/a<br>
 MSA 4: 7 if the veteran does pre-check-in, it saves the MSA time.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
 MSA 6: n/a<br>
 MSA 7: 10<br> 
 MSA 8: 10<br>
@@ -72,8 +76,8 @@ MSA 3: Work has increased with having to assist the veterans with the e-check-in
 MSA 4: Work has increased. Would like med sheet (patient summary?) to automatically print on e-check-in. She would like the vet to be able to check in on any phone not just one that is associated with the veteran’s record stored in VistA. Would like to be able to check the patient in with VSE-CS.<br>
 MSA 5: n/a<br>
 MSA 6: n/a<br>
-MSA 7: Most vets don’t have a phone. Work is increased because they greet the veteran and ask if they used mobile check-in then they walk the veteran through the process.
-MSA 8: n/a
+MSA 7: Most vets don’t have a phone. Work is increased because they greet the veteran and ask if they used mobile check-in then they walk the veteran through the process.<br>
+MSA 8: n/a<br>
 MSA 9: Puts them behind. The have to suggest mobile check-in to every vet and assist many of them with the process. They double check those veterans who completed pre-check-in to ensure the data is accurate. Did the veteran answer incorrectly?
 
 **Have you had to engage with or talk to Veterans who are using the mobile check-in? Why?**
@@ -118,7 +122,7 @@ MSA 1: n/a<br>
 MSA 2: No.<br>
 MSA 3: No. <br>
 MSA 4: No. <br>
-MSA 5: n/a
+MSA 5: n/a<br>
 MSA 6: n/a<br>
 MSA 7: All check-in status are helpful.<br>
 MSA 8: n/a<br>
@@ -166,7 +170,7 @@ MSA 1: n/a<br>
 MSA 2: No.<br>
 MSA 3: It is inconvenient. They have to learn something new. They just want to get checked in and don’t want to use their own phone. If the government wants them to check-in with a phone then the government should provide a phone to the veteran.<br>
 MSA 4: Veterans would like to be forewarned about the new process of e-check-in.<br>
-MSA 5: Extra work assisting veterans with e-check-in. It is difficult because clinic is beneath the X-ray department and cellular service is spotty in this location.
+MSA 5: Extra work assisting veterans with e-check-in. It is difficult because clinic is beneath the X-ray department and cellular service is spotty in this location.<br>
 MSA 6: n/a<br>
 MSA 7: Easy to do when they do, but they think they are checked in. Veterans feel like they are being hacked or tracked.<br>
 MSA 8: Some don’t get cellular service in the office. Many of the veterans do not have unlimited plans so they get charged for the text messages. Cellular service may be turned off (airplane mode). The veteran doesn’t know how to connect to wifi or turn off airplane mode. They would rather use the kiosk.<br>
@@ -214,7 +218,7 @@ MSA 1: n/a<br>
 MSA 2: Nothing.<br>
 MSA 3: Vets don’t want to learn something new.<br>
 MSA 4: e-check-in should not be in the eye clinic. The veteran is coming there because they can’t see.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
 MSA 6: n/a<br>
 MSA 7: Helps keep data up-to-date and accurate. The veteran should be able to update their demographics information during pre-check-in not just indicate if it is correct or not. Insurance doesn’t get updated at pre-check-in but she likes it other than that.<br>
 MSA 8: n/a<br>
