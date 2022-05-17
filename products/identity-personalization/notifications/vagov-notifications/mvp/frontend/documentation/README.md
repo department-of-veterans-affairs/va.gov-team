@@ -11,7 +11,7 @@ NOTE FROM ACCESSIBILITY: For the notification component we will need a descripti
 
 ### When to show this section
 
-- We will show this section if a user has any notifications. We will not show this section if the user has no notifications, has never had notifications, or has dismissed all past notifications.
+- We will show this section if a user has any notifications. We will not show this section if the user has no notifications, has never had notifications, or has dismissed all past notifications. We will show notifications individually, so a veteran can have multiple under the Notifications header.
 
 ### States
 
