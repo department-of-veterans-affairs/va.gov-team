@@ -43,29 +43,33 @@ The purpose of this research was to:
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+- Are Veterans able to complete pre-check-in successfully from home? Do they understand the difference between pre-check-in and check-in? 
+- What friction points arise for Veterans during check-in? How easy or difficult is check-in to complete on VA.gov? 
+- What is the impact on the new poster addressing low vision concerns? 
+- How do Veterans refer to the check-in process? 
+- How do MSAs interact with Veterans during the check-in process? What impact does pre-check-in and check-in have on MSAs workflow? 
+- What are the overall impressions of check-in among Veterans and staff? 
+- How are patient record flags currently used by staff? 
+- How would adding telephone appointments to the pre-check-in experience impact staff workflow?  
 
 # Methodology 
 
-_Brief description of method chosen_
+From April 27-29, 2022, we visited St. Louis VAMC, North County CBOC and Olive Street VA Clinic to conduct intercept interviews with Veterans when they arrived for their appointment. We observed Veterans interact with the updated poster, complete check-in on their mobile device and asked follow-up questions. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+We also observed and interviewed a variety of VA staff who have a role in the check-in process, including MSAs and clinicians. We used a [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/conversation-guide.md) to steer those conversations. 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
+1. Veterans should be able to successfully complete pre-check-in from the comfort of their homes. Veterans will correctly assume that they still need to complete mobile check-in even if they completed pre-check-in. The pre-check-in experience improves the staff experience, since they need to review contact, next of kin and emergency contact information with fewer Veterans.<br>
+      i. NOT ENOUGH INFORMATION: Most Veterans we spoke with did not complete pre-check-in. Therefore, there wasn't enough information to determine ease of use or perceptions about how it's related to check-in. However, staff said that when Veterans complete pre-check-in, it creates a more seamless check-in experience on the day of the appointment. 
+2. Veterans will be able to successfully check-in via their mobile device, verify their identity and confirm their demographic information without any friction. In the ideal scenario, Veterans will be able to complete check-in with little to no intervention from MSAs. Therefore, MSAs should have shorter lines of Veterans waiting to check in, since Veterans will be utilizing the new check-in solution in the waiting area. 
+      i. MAYBE TRUE: Some Veterans were able to complete check-in on their own, while others needed assistance from MSAs. In addition, in some clinics, MSAs engaged Veterans to help with the check-in process. Of course, there were Veterans that did not want to use the mobile check-in process, therefore requiring MSAs to assist them with check-in through VSE-GUI. 
+4. The updated poster enables low-vision Veterans to easily read check-in instructions. 
+5. MSAs will still check-in Veterans who prefer in-person over mobile. 
+6. Veteran responses will indicate that the pre-check-in and mobile phone check-in solutions are useful and do not negatively impact their care experience.
+7. Staff responses will indicate that the mobile check-in solution is useful and does not negatively impact experience or clinical workflow.
+8. Properly displaying patient record flags is very important to staff.
+9. Gathering necessary pre-registration and other information prior to a telephone appointment can be difficult. Adding telephone appointments to pre-check-in would solve the staff pain point of reviewing pre-registration during appointments.
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
