@@ -2,7 +2,7 @@
 
 ## PURPOSE
 
-- To present clearer messages to Veterans that will help them use the Check-in and Pre-Check-in features
+- To present clearer messages to Veterans that will help them complete Pre-Check-in and Check-in
 
 ## STATUS
 
