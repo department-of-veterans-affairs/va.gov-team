@@ -5,10 +5,10 @@ MSA 2: North County CBOC, PCP<br>
 MSA 3: Eye Clinic<br>
 MSA 4: Eye Clinic<br>
 MSA 5: Eye Clinic<br>
-MSA 6: <br>
-MSA 7<br>
-MSA 8<br>
-MSA 9
+MSA 6: GI Lab<br>
+MSA 7: Speciality Care Clinic<br>
+MSA 8: Dermatology<br>
+MSA 9: Women's Health
 
 Nurse 1: Eye Clinic<br>
 Nurse 2: Eye Clinic<br>
