@@ -136,7 +136,7 @@ Ask Perigean to recruit 126 people using the cohorts below in order to get at le
 
 
 * [Recruitment outreach email](#appendix-b-recruitment-email-appendix-b-recruitment-email)
-* [Recruitment outreach email (caregiver and family cohort)](#heading=h.sgaifrjuk4wm)
+* [Recruitment outreach email (caregiver and family cohort)](#appendix-c-recruitment-email-for-caregiver-and-family-cohort)
 * [Instructions email (cohort A – G)](#appendix-d-email-to-recruited-participant-cohort-a-g)
 * [Instructions email (cohort H – N) ](#appendix-e-email-to-recruited-participant-cohort-h-n)
 
