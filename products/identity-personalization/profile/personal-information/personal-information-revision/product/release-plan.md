@@ -10,8 +10,8 @@
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
 **Link to Research plan for UAT:**
-- Research Plan (add link)
-- Conversation Guide (add link)
+- Research Plan [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
+- Conversation Guide [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
 ### Results
 - **Number of users:** x
