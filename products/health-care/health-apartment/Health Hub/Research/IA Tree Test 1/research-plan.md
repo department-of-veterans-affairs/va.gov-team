@@ -137,8 +137,8 @@ Ask Perigean to recruit 126 people using the cohorts below in order to get at le
 
 * [Recruitment outreach email](#appendix-b-recruitment-email-appendix-b-recruitment-email)
 * [Recruitment outreach email (caregiver and family cohort)](#appendix-c-recruitment-email-for-caregiver-and-family-cohort)
-* [Instructions email (cohort A – G)](#appendix-d-email-to-recruited-participant-cohort-a-g)
-* [Instructions email (cohort H – N) ](#appendix-e-email-to-recruited-participant-cohort-h-n)
+* [Instructions email (cohort A – G)](#appendix-d--email-to-recruited-participant-cohort-a-g-appendix-d-email-to-recruited-participant-cohort-a-g)
+* [Instructions email (cohort H – N) ](#appendix-e--email-to-recruited-participant-cohort-h-n-appendix-e-email-to-recruited-participant-cohort-h-n)
 
 
 ## Timeline
@@ -255,8 +255,7 @@ Please reply to this email to receive the activity link and a participation code
 
 
 
-## Appendix D:  Email to recruited participant (cohort A-G) {#appendix-d-email-to-recruited-participant-cohort-a-g}
-
+## Appendix D:  Email to recruited participant (cohort A-G)
 
 ```
 Hello,
@@ -273,7 +272,7 @@ Click this <<link>> to begin the study.
 
 
 
-## Appendix E:  Email to recruited participant (cohort H-N) {#appendix-e-email-to-recruited-participant-cohort-h-n}
+## Appendix E:  Email to recruited participant (cohort H-N)
 
 
 ```
