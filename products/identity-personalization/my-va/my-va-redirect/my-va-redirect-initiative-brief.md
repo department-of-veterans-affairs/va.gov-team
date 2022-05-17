@@ -8,7 +8,7 @@ Evaluate how My VA performs as a personalized logged in homepage via redirect. T
 - My VA | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#product-outline-my-va) 
 
 ## Problem
-Our mission is to elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses, complete necessary tasks and take action where needed. The current logged in homepage on VA.gov lacks elements of personalization. 
+Our mission is to elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses, complete necessary tasks and take action where needed. The current logged in homepage on VA.gov lacks elements of personalization that enable them to do that as effectively and efficiently as possible.
 
 ---
 ## Measuring Success
