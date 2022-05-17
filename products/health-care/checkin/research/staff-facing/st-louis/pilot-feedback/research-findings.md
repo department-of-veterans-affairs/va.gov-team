@@ -9,7 +9,7 @@ Date: 05/17/2022
 
 Ben Brasso, ben.brasso@agile6.com, Ya-ching Tsao, yaching.tsao@civicactions.com, Zach Park, zach.park@agile6.com, David Dunnam, david.dunnam@va.gov
 
-[Research Report PDF] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf)
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf)
 
 <br>
 
