@@ -124,6 +124,7 @@ Examples of **research with VA.gov users** include:
 ##### Platform actions
 
 - [ ] If you have feedback, create feedback tickets and link to this epic. Once you have completed you review, check the box next to your practice area
+  - [ ] Accessibility has completed the review
   - [ ] Design has completed the review
   - [ ] IA has completed the review
   - [ ] Research has completed the review
