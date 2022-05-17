@@ -33,26 +33,36 @@ We are trying to learn the following from this research:
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-  · This research will advance AskVA product and streamline more upgrades in the design process. We believe our learnings will solidify a more efficient workflow for SCOs and VA employees handling cases in AVA. 
+  · This research will advance our user journey documentation for veterans callers using Tier 1 and 2 call centers. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 
 For Veterans  
  · For your primary VA needs, what steps do you take to reach a VA offical and/or call center?
+ 
  · What have been blockers/ difficulties in getting services through your VA call center? 
+ 
  · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)? 
+ 
  · When recieving a resolution for your case, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
+ 
  · Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry? 
+ 
  · Did you understand the timeframe in which you recieved an overall resolution to your inquiry? 
 
 
 For Tier 1 Call Center Teams
  · How many calls do you go through in the following time periods (day, week, month)?
+ 
  · When in communication with the Veteran, how do you determine if their issue can resolved within the first 10 minutes? 
+ 
  · When in communication with the Veteran, what are obstacles for you when trying to record their issue? (Can you please walk me through examples without any PII?)
+ 
  · When in communication with the Veteran, do you not technical challenges (remote access, low-tech capabilities, phone only etc) the Veteran may face during their service time? Please explain 
+ 
  · When in communication with the Veteran, how do you close their case or reroute to Tier 2? 
+ 
  · When in communication with the Veteran, what are overall blockers for you in trying to determine a resolution?  
 
 ### Hypothesis
@@ -81,13 +91,14 @@ We are seeking to perform this test with 10 participants
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
  - VA employees through our contact points at VEO 
+
  - Veteran  that had used Tier 1 call center services 
    - Recruitment plan (TBD)
 
 
 **Primary criteria (must-haves)**
 Must have for participants
-  ·  
+  ·  See above
   
 
 ## Timeline
@@ -97,8 +108,8 @@ Desired Timeline: May 25- June 9, 2022  60 minutes (45-minute session with 15-mi
 When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: 
-* Date and time of pilot session: 
+* Pilot participant email: TBD 
+* Date and time of pilot session: TBD 
 
 ### Research sessions
 What dates do you plan to do research? 
