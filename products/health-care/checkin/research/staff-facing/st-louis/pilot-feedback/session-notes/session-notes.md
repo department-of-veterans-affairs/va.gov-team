@@ -12,7 +12,10 @@ MSA 9: Women's Health
 
 Nurse 1: Eye Clinic<br>
 Nurse 2: Eye Clinic<br>
-Nurse 3: Eye Clinic 
+Nurse 3: Eye Clinic<br>
+Nurse 4: OT/PT
+
+MSA Lead 1: Women's Health 
 
 ### Pre-Check-In
 
@@ -316,9 +319,9 @@ MSA 1: What is a patient record flag? VS GUI – sometimes is going so fast they
 MSA 2: Doesn’t use patient flags.
 
 Nurse 1: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. <br>
-Nurse 2: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. 
-
-
+Nurse 2: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. <br>
+Nurse 3: n/a
+Nurse 4: They would like to see patient flags added to VSE-CS on the Workflow List as an indicator by the patient name. Hover text would be great. They don’t want another click to get the information they need.
 
 **Where do you see the flag and how do you respond?**
 
@@ -327,7 +330,10 @@ MSA 2: n/a
 
 Nurse 1: They see the patient flags in CPRS. They acknowledge the flags and act on them accordingly.<br>
 Nurse 2: They see the patient flags in CPRS. They acknowledge the flags and act on them accordingly.<br>
-Nurse 3: They see the flags in CPRS, acknowledge them and act on them accordingly.
+Nurse 3: They see the flags in CPRS, acknowledge them and act on them accordingly.<br>
+Nurse 4: They see the flags in CPRS, acknowledge them and act on them accordingly.<br>
+
+MSA Lead 1: Would like to have patient flags in VS-ECS on the Workflow List as an indicator with hover text (info button).
 
 **Do you use national or local flags? Both?**
 
@@ -345,7 +351,8 @@ MSA 2: An indicator by the patient’s name.
 
 Nurse 1: Would like an indicator by the patient name in VSE-CS.<br>
 Nurse 2: Yes, patient flags in VSECS would be helpful.<br>
-Nurse 3: Patient flags are not useful in VSECS. If flags are implemented she would like to see an indicator by the patient name or a new column. The flag should pop up when patient checks in.
+Nurse 3: Patient flags are not useful in VSECS. If flags are implemented she would like to see an indicator by the patient name or a new column. The flag should pop up when patient checks in.<br>
+Nurse 4: Would like to have patient flags in VSE-CS on the Workflow List as an indicator with hover text (info button).
 
 **Would you want only behavioral flags or all patient flags?**
 
@@ -356,6 +363,8 @@ Nurse 1: All. <br>
 Nurse 2: All. <br>
 Nurse 3: All. 
 
+MSA Lead 1: All
+
 **Is there any other patient information you would want to be alerted to that isn’t already in VSE for Clinical Staff?**
 
 MSA 1: Patient needs like wheelchair, low vision, etc would be helpful.,br>
@@ -363,7 +372,10 @@ MSA 2: None.
 
 Nurse 1: Difficult for nurses to see what they need. They have an eye tech but there is no “eye tech” or “other” in the workflow options drop down list.<br>
 Nurse 2: Last 4 of SSN would be helpful. Would like to see all alerts. Allowing check-in for multiple appointments is a problem because the patient may be in another clinic or location, not in the eye clinic. She would like the ability to assign the workflow to a specific user so the provider knows which nurse to look for to find the patient instead of having to track down each nurse individually to locate the patient.<br>
-Nurse 3:  Last 4 SSN. Alert of status changes – highlight the row. Workflow is ok.
+Nurse 3: Last 4 SSN. Alert of status changes – highlight the row. Workflow is ok.<br>
+Nurse 4: No.
+
+MSA Lead 1: No. 
 
 ### Appointment Notifications
 
@@ -377,12 +389,18 @@ MSA 2: Nurse’s do this.
 MSA 1: Incorrect patient phone numbers or addresses in VistA.<br>
 MSA 2: n/a
 
+MSA 8: They send patient letters. 
+
 **Are you currently capturing health information from patients before an appointment? If so, how is that information captured?**
 
 MSA 1: MSAs do not do this. Nurses do this.<br>
 MSA 2: n/a
 
-Are any other systems used to communicate with patients?
+MSA 7: No.<br>
+MSA 8: No. 
+
+**Are any other systems used to communicate with patients?**
+
 MSA 1: Letters, phone calls, texts, My HealthEVet email.
 
 ### Observations
