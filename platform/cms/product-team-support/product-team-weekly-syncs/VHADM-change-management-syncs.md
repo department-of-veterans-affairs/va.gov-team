@@ -14,16 +14,22 @@
 
 ## May 18, 2022
 
-- Facilities COVID status update
-- Top task pages
+### Facilities COVID status update
+  - FINALIZE: launch email language for delivery around 4:30 pm today
+  - DECISION NEEDED: should there be a reminder email next week?
+  - Demo of audit tool (Kevin)
+  - Demo of announcement block (Rachel)
+
+### Top task pages update
   - launched May 5
   - STATUS: % Register | % Billing and insurance | % Medical records
   - DECISION NEEDED: revisit deadline for when this work should be completed
   - reminder email scheduled to go out today
   - testing new announcement block in CMS
   - do we want a more comprehensive audit after the deadline?
-  - do we have any other research questions should should be xplored?
-- Recurring events update
+  - do we have any other research questions should should be explored?
+
+### Recurring events update
 
 - ## May 4, 2022
 
