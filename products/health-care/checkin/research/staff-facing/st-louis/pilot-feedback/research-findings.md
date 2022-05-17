@@ -28,14 +28,18 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+The check-in product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The check-in experience team, in particular, has created the portion of the ecosystem that enables a Veteran to utilize their mobile device to “check-in” through VA.gov (e.g., letting the VA know that the patient has arrived for their appointment). 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews.
 
+The purpose of this research was to: 
 
+- Evaluate effectiveness of check-in and pre-check-in experiences with Veterans and staff at St. Louis pilot clinics.
+- Identify strengths, pain points and opportunities to inform product team and roadmap (as VISN rollouts begin). 
+- Evaluate effectiveness of new poster that addresses low-vision concerns. 
+- Gain insights and opinions on product naming.  
+- Gain insights from VA staff on opportunities to integrate telephone appointments with pre-check-in and displaying patient record flags in VSE-CS. 
 
 # Research Questions
 
