@@ -1,5 +1,7 @@
 [Original Ticket](#)
 
+[URL of fix](#)
+
 # Expected behavior
 Please enter a description of the behavior that should be happening related to this pull request. Write this in terms simple enough that someone unfamiliar with your application could understand it (how would you describe the expected behavior to your mother?)
 
