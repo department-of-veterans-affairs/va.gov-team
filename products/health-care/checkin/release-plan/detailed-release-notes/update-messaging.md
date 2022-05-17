@@ -22,13 +22,18 @@ Veterans will see more detailed information messages in these scenarios
 
 ![image](https://user-images.githubusercontent.com/86678742/168903389-91e19cd1-188b-4abd-9d53-5705e5b0e152.png)
 
-- When they complete Pre-Check-in, will see information explaining the purpose for pre-check-in
-
-![image](https://user-images.githubusercontent.com/86678742/168904951-ad8e2582-6203-4f68-89d5-f3d8fda40b88.png)
 
 ### Error Messages
 
 Veterans will see more detailed and highlighted error messages in these scenarios
+
+- When they receive an error during Pre-Check-in, will see information explaining the purpose for pre-check-in
+
+![image](https://user-images.githubusercontent.com/86678742/168909335-73192e05-bdc6-4ebb-8748-91c871c4c4ea.png)
+
+- When they receive an error during Pre-Check-in, will see information explaining that they can still Check-in on the day of their appointment
+
+![image](https://user-images.githubusercontent.com/86678742/168909495-9d716687-7c38-4077-9120-01da45b2804a.png)
 
 - When they attempt to complete Pre-Check-in on the day of their appointment prior to 15 minutes after their appointment time
 
