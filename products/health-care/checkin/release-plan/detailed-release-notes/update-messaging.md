@@ -18,11 +18,11 @@ Veterans will see more detailed information messages in these scenarios
 
 ![image](https://user-images.githubusercontent.com/86678742/168902651-8a9c1deb-b641-41cd-a38b-b5f00a4163f8.png)
 
-- When they attempt to pre-check-in for an appointment for which they already completed pre-check-in
+- When they attempt to complete Pre-Check-in for an appointment for which they already completed pre-check-in
 
 ![image](https://user-images.githubusercontent.com/86678742/168903389-91e19cd1-188b-4abd-9d53-5705e5b0e152.png)
 
-- When they complete pre-check-in, will see information explaining the purpose for pre-check-in
+- When they complete Pre-Check-in, will see information explaining the purpose for pre-check-in
 
 ![image](https://user-images.githubusercontent.com/86678742/168904951-ad8e2582-6203-4f68-89d5-f3d8fda40b88.png)
 
