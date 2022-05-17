@@ -30,7 +30,8 @@ MSA 2: 9
 **How has mobile check in impacted your work?**
 
 MSA 1: She gets interrupted some days more than others to assist veterans with using e-check-in.<br>
-MSA 2: She feels like the e-check-in process works well. I did observe her assist veterans with the mobile check-in process when she observed them having trouble and also when they just came straight to the front desk to check-in. <br><br>
+MSA 2: She feels like the e-check-in process works well. I did observe her assist veterans with the mobile check-in process when she observed them having trouble and also when they just came straight to the front desk to check-in.
+
 Notes: Both MSA 1 and MSA 2 actively asked the veterans who came to the desk to check in if they had their smartphone and walked the veterans through the check-in process. MSA 1 and MSA 1 both feel like getting to know the veteran and assisting them improves the veterans experience and makes them feel more comfortable when visiting their practice/clinic.
 
 **Have you had to engage with or talk to Veterans who are using the mobile check-in? Why?**
@@ -48,7 +49,7 @@ MSA 2: It has impacted her work for the better. But negatively impacts her work 
 MSA 1: Every 3 minutes or so.<br>
 MSA 2: All day long every few minutes.
 
-**Are there any check-in statuses in VS GUI that you find more helpful than others?**
+**Are there any check-in statuses in VSE-GUI that you find more helpful than others?**
 
 MSA 1: n/a<br>
 MSA 2: No.
@@ -186,6 +187,20 @@ MSA 2: n/a
 
 Are any other systems used to communicate with patients?
 MSA 1: Letters, phone calls, texts, My HealthEVet email.
+
+### Observations
+
+**North County CBOC**
+
+MSA 1 and MSA 2 were very positive about the pre-check-in, e-check-in experience. They expressed that they takes the time to train the Veteran rather than just checking them in. They do this in a positive way stressing that it will be much easier for the veteran the next time they come in.
+
+Staff expressed they would like to see indicators like sounds, colors (highlighting), or flashing to indicate the screen has refreshed and there is new information.
+
+The most common complaint received from everyone is that cellular service is not good in most locations. The second most common complaint is technical issues where there is lag or the system is down for everyone or just certain individuals.
+
+Staff engaged with almost every Veteran. They acknowledged nearly every veteran regardless of their method of check-in. They believe in being friendly and engaging the veterans.
+
+The only improvement suggestion that MSA 2 had was to improve the speed and responsiveness of the application.
 
 
 
