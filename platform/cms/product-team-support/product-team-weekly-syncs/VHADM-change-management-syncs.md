@@ -15,13 +15,14 @@
 ## May 18, 2022
 
 - Facilities COVID status update
-- Care we provide email tweak vs. content type clarity
 - Top task pages
   - launched May 5
-  - reminder email going out today
-  - % Register | % Billing and insurance | % Medical records
-  - do we want a more comprehensive audit after June 5 deadline?
-  - do we want a survey to understand any pain points?
+  - STATUS: % Register | % Billing and insurance | % Medical records
+  - DECISION NEEDED: revisit deadline for when this work should be completed
+  - reminder email scheduled to go out today
+  - testing new announcement block in CMS
+  - do we want a more comprehensive audit after the deadline?
+  - do we have any other research questions should should be xplored?
 - Recurring events update
 
 - ## May 4, 2022
