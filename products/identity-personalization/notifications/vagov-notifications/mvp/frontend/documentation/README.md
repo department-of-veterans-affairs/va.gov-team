@@ -2,8 +2,8 @@
 
 ## Sketch Mockups
 
-- [Desktop]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/oY2Y85j)
-- [Mobile]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KMb2kk](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/z3QLqM/a/JnlaE9e/r/GxYWa5)
+- [Desktop]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/oY2Y85j))
+- [Mobile]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KMb2kk](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/z3QLqM/a/JnlaE9e/r/GxYWa5))
 
 ## Notifications section on My VA
 
