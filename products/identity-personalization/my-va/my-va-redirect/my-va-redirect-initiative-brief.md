@@ -1,26 +1,4 @@
 # My VA Redirect Initiative Brief
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
 ---
 
 ## Outcome Summary
@@ -31,19 +9,6 @@ Evaluate how My VA performs as a personalized logged in homepage via redirect. T
 
 ## Problem
 Our mission is to elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses, complete necessary tasks and take action where needed. The current logged in homepage on VA.gov lacks elements of personalization. 
-
-## Desired User Outcomes
-Veterans engage with My VA as their personalized logged in homepage and are able to access their benefit information more easily and take action where needed more efficiently. They spend less time searching on VA.gov for the information that is important and relevant to them.
-
-## Undesired User Outcomes
-- Veterans are confused by the experience and continue to seek out the current logged in homepage
-
-## Desired Business Outcomes
-- Enable Veterans to find what they need faster 
-- With more Veterans accessing My VA via redirect we'll be able to get more feedback on the product to continue to enhance it to meet Veterans' needs.
-
-## Undesired Business Outcomes
--
 
 ---
 ## Measuring Success
