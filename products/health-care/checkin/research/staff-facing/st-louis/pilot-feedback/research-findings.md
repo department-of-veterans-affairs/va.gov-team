@@ -1,11 +1,11 @@
 
 ---
 
-# Check-In Experience: St. Louis Pilot UAT with Staff Research Findings 
+# Modernized Check-In Experience: St. Louis Pilot UAT with Staff Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Care Products, Mordernized Check-In Experience**
 
-Date: MM/DD/YYYY
+Date: 05/17/YYYY
 
 [Designer 1] [email], [Designer 2] [email]
 
