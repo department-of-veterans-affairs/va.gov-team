@@ -29,7 +29,9 @@ MSA 4: Extra work assisting veterans with e-check-in.
 **On a scale of 1 to 10, where 0 is not at all likely, how likely is it that you’d recommend the pre-check-in process to another VA clinic or facility.**
 
 MSA 1: 7<br>
-MSA 2: 9
+MSA 2: 9<br>
+MSA 3: n/a<br>
+MSA 4: 7 if the veteran does pre-check-in, it saves the MSA time.
 
 ### Check-In
 
@@ -40,30 +42,43 @@ MSA 2: She feels like the e-check-in process works well. I did observe her assis
 
 Notes: Both MSA 1 and MSA 2 actively asked the veterans who came to the desk to check in if they had their smartphone and walked the veterans through the check-in process. MSA 1 and MSA 1 both feel like getting to know the veteran and assisting them improves the veterans experience and makes them feel more comfortable when visiting their practice/clinic.
 
+MSA 3: Work has increased with having to assist the veterans with the e-check-in process.<br>
+MSA 4: Work has increased. Would like med sheet (patient summary?) to automatically print on e-check-in. She would like the vet to be able to check in on any phone not just one that is associated with the veteran’s record stored in VistA. Would like to be able to check the patient in with VSE-CS.
+
 **Have you had to engage with or talk to Veterans who are using the mobile check-in? Why?**
 
 MSA 1: n/a<br>
-MSA 2: She likes to double check to ensure the veteran checked in successfully.
+MSA 2: She likes to double check to ensure the veteran checked in successfully.<br>
+MSA 3: Yes. She has to assist the veteran with how to do e-check-in.<br>
+MSA 4: n/a
 
 **How would you describe the impact of the changes to VSE GUI to your work?**
 
 MSA 1: n/a<br>
-MSA 2: It has impacted her work for the better. But negatively impacts her work when the system is slow.
+MSA 2: It has impacted her work for the better. But negatively impacts her work when the system is slow.<br>
+MSA 3: She likes it. It is easy and convenient. It makes her work easier.<br>
+MSA 4: n/a
 
 **How often do you review the different check-in statuses within VSE-GUI?**
 
 MSA 1: Every 3 minutes or so.<br>
-MSA 2: All day long every few minutes.
+MSA 2: All day long every few minutes.<br>
+MSA 3: Every few minutes throughout the day.<br>
+MSA 4: n/a
 
 **Are there any check-in statuses in VSE-GUI that you find more helpful than others?**
 
 MSA 1: n/a<br>
 MSA 2: No.
+MSA 3: No. 
+MSA 4: No. 
 
 **Did you have to change anything else about your work to accommodate the new mobile check-in and VSE-GUI process?**
 
 MSA 1: n/a<br>
-MSA 2: In the beginning she had to organize the check-in steps in her mind proactively to avoid workflow errors.
+MSA 2: In the beginning she had to organize the check-in steps in her mind proactively to avoid workflow errors.<br>
+MSA 3: They print the appointment list from VistA because when they first started using VSE-CS, they system was crashing. The kiosk would print a routing sheet for the patient at check-in. Now they have to manually complete the routing sheet.<br>
+MSA 4: Constantly has to go into the hall to help someone check-in.
 
 **How has mobile check-in affected communication between the MSAs and providers?**
 
