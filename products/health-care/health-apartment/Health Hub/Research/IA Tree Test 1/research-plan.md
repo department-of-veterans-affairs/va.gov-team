@@ -136,11 +136,7 @@ Ask Perigean to recruit 126 people using the cohorts below in order to get at le
 
 
 * [Recruitment outreach email](#appendix-b-recruitment-email)
-* 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recruitment outreach email (caregiver and family cohort)"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recruitment outreach email (caregiver and family cohort)](#heading=h.sgaifrjuk4wm)
+* [Recruitment outreach email (caregiver and family cohort)](#heading=h.sgaifrjuk4wm)
 * [Instructions email (cohort A – G)](#appendix-d-email-to-recruited-participant-cohort-a-g)
 * [Instructions email (cohort H – N) ](#appendix-e-email-to-recruited-participant-cohort-h-n)
 
