@@ -241,7 +241,7 @@ MSA 9: n/a
 **Do any, or all, of the providers at this practice/clinic use phone appointments for Veterans?**
 
 MSA 1: Yes – primary care<br>
-MSA 2: All of the providers do phone appointments. They encourage face to face or VVS appointments. She puts the patient’s preference first.
+MSA 2: All of the providers do phone appointments. They encourage face to face or VVS appointments. She puts the patient’s preference first.<br>
 MSA 3: n/a<br>
 MSA 4: No. <br>
 MSA 5: n/a<br>
