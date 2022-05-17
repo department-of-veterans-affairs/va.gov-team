@@ -98,6 +98,100 @@ MSA 2: Nothing.
 MSA 1: Shorten text messages.<br>
 MSA 2: Sometimes the process is very slow.
 
+### Telemedicine - Phone Appointments 
+
+**Do any, or all, of the providers at this practice/clinic use phone appointments for Veterans?**
+
+MSA 1: Yes – primary care<br>
+MSA 2: All of the providers do phone appointments. They encourage face to face or VVS appointments. She puts the patient’s preference first.
+
+**What type of appointments can be scheduled for phone?**
+
+MSA 1: Primary care. Consults do not use phone appointments. Physical Therapy does not do phone appointments. New patients are seen face to face.<br>
+MSA 2: New patients do not get scheduled for phone appointments.
+
+**What is the pre-registration process for phone appointments?**
+
+MSA 1: May call before or after the appointment to pre-register the patient. It depends on how busy they are at the desk.<br>
+MSA 2: She didn’t seem to understand pre-check-in. Her answers were as if I asked about e-check-in.
+
+**Is that process different from in-person or video visits?**
+
+MSA 1: No. The process is the same.<br>
+MSA 2: No. The process is the same.
+
+**Are there any existing challenges with scheduling or conducting phone appointments?**
+
+MSA 1: No, not as long as the system is functioning adequately.<br>
+MSA 2: No.
+
+**What would be the ideal way to do pre-registration with patients who have a phone appointment?**
+
+MSA 1: No change.<br>
+MSA 2: No change.
+
+**And what about for video visits?**
+
+MSA 1: No change as long as the system is functioning adequately.<br>
+MSA 2: No change.
+
+### Patient Record Flags
+
+**How do you currently use patient record flags, if at all?**
+
+MSA 1: What is a patient record flag? VS GUI – sometimes is going so fast they don’t look at the flags. Not many veterans at this practice/clinic have patient flags. MSAs know who the patients are and their needs.<br>
+MSA 2: Doesn’t use patient flags.
+
+**Where do you see the flag and how do you respond?**
+
+MSA 1: VS GUI. Usually they breeze past them since the know their patient and their patient’s needs.<br>
+MSA 2: n/a
+
+**Do you use national or local flags? Both?**
+
+MSA 1: Doesn’t know the difference. They use behavioral flags.<br>
+MSA 2: n/a
+
+**If patient record flags were added to VSE for Clinical Staff, where/when would you want to see them?**
+
+MSA 1: VSECS on the appointment list screen. She expressed she doesn’t want a pop-up. She prefers it be an indicator on the screen, maybe an info button with hover text.<br>
+MSA 2: An indicator by the patient’s name.
+
+**Would you want only behavioral flags or all patient flags?**
+
+MSA 1: Behavioral.<br>
+MSA 2: n/a
+
+**Is there any other patient information you would want to be alerted to that isn’t already in VSE for Clinical Staff?**
+
+MSA 1: Patient needs like wheelchair, low vision, etc would be helpful.,br>
+MSA 2: None.
+
+### Appointment Notifications
+
+**What tools or messages are used for this type of communication with Veterans?**
+
+MSA 1: Phone call and letter.<br>
+MSA 2: Nurse’s do this.
+
+**Are there any challenges you run into with using or managing these tools/messages?**
+
+MSA 1: Incorrect patient phone numbers or addresses in VistA.<br>
+MSA 2: n/a
+
+**Are you currently capturing health information from patients before an appointment? If so, how is that information captured?**
+
+MSA 1: MSAs do not do this. Nurses do this.<br>
+MSA 2: n/a
+
+Are any other systems used to communicate with patients?
+MSA 1: Letters, phone calls, texts, My HealthEVet email.
+
+
+
+
+
+
 
 
 
