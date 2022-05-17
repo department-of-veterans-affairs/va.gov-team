@@ -5,9 +5,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Healthcare Care Products, Mordernized Check-In Experience**
 
-Date: 05/17/YYYY
+Date: 05/17/2022
 
-[Designer 1] [email], [Designer 2] [email]
+Ben Brasso, ben.brasso@agile6.com, Ya-ching Tsao, yaching.tsao@civicactions.com, Zach Park, zach.park@agile6.com, David Dunnam, david.dunnam@va.gov
 
 [Research Report PDF] (link here)
 
