@@ -31,7 +31,7 @@ MSA 5: n/a<br>
 MSA 6: Most patients don’t do pre-checkin.<br>
 MSA 7: Opportunity to verify demographics and insurance. Prevents miscommunication.
 
-**How has the pre-check-in process impacted your work?** 
+**How has the pre-check-in process impacted your work?**
 
 MSA 1: Internet goes down a lot. May have to stop and train veteran. Pre-check-in text is too long. Veterans don’t read the whole thing and therefore don’t know what pre-check-in is.<br>
 MSA 2: Pre-check-in process hasn’t really affected her work. She enjoys seeing the veteran being successful with e-check-in.<br>
