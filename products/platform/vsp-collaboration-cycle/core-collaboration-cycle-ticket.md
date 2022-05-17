@@ -189,12 +189,12 @@ QA artifacts
   
 ##### Platform actions
 
-- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
-  - [ ] Design feedback provided
-  - [ ] Accessibility feedback provided
-  - [ ] IA feedback provided
-  - [ ] Content feedback provided
-  - [ ] QA feedback provided
+- [ ] If you have [midpoint review feedback](https://vfs.atlassian.net/wiki/spaces/PPS/pages/1945239838/How+to+provide+feedback+for+a+Midpoint+Review), create feedback ticket and link to this epic. Once you have completed your review, check the box next to your practice area
+  - [ ] Design has completed the review
+  - [ ] Accessibility has completed the review
+  - [ ] IA has completed the review
+  - [ ] Content has completed the review
+  - [ ] QA has completed the review
 - [ ] Update this ticket with the Zoom recording
   - Recording: 
   - Password:
