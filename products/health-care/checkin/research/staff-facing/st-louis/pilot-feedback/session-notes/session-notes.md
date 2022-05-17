@@ -265,20 +265,14 @@ Staff engaged with almost every Veteran. They acknowledged nearly every veteran 
 
 The only improvement suggestion that MSA 2 had was to improve the speed and responsiveness of the application.
 
+**St. Louis VAMC**
 
+Several MSAs and nurses on Day 2 agree that workflow diagrams would help. They would like to be able to provide brochures to patients that explain pre-check-in, e-check-in, and the workflow. Maybe include it in the patient letter that is sent to a patient when the appointment is booked.
 
+The GI clinic had a PA that was very pro mobile check-in. He was very excited about it and is an excellent advocate for the mobile check-in experience. He would make a good mobile check-in champion to encourage and assist his peers in using the application and using it correctly.
 
+The OT/PT clinic has two OTs that were very eager to speak with us about the mobile check-in process and VSECS. They are very unhappy with VSE-CS at this time due to the issues they currently face. The issues are the slowness in updating the patient status in VSECS. OT 1 does not have a laptop and she has to go back to her desktop computer and look through the list to find out if her patient is there. She can’t trust the screen so she goes to the waiting area or the MSA desk to look for the patient. She would like the system to send a message to her VA pager when the patient checks in. She and OT 2 would both like to see alerts in VSE-CS that persist to notify them that patients are checked in and ready to be seen. OT 2 has a laptop that he carries with him so he doesn’t have a need to receive alerts on a pager. The process is very painful for the OTs. When everything is working its fine but is really no better than before. They were unhappy with the way mobile check-in and VSECS were rolled out. No one knew about it, neither staff nor vets. Patient flags are not needed in VSE-CS. They are in CPRS and its overkill to have them in both places. If their issues get addressed they would be great mobile check-in/VSECS advocates and champions.
 
+The MSA in the OT/PT clinic would like to see why the e-check-in process was not completed not just that it wasn’t. She would also like the last 4 SSN in VSE-CS.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Two nurses in the Specialty Clinic said VSE-CS doesn’t work. They are very frustrated with mobile check-in and VSE-CS. Their work has increased considerably which is negatively impacting patient care. They are constantly having to go the waiting room to look for patients and see if they are there. They have to stop and assist veterans with the mobile check-in process. If VSEC-S is refreshing they have to sit on that screen and wait. They can’t go to another screen or application. If they do, then they have to start the process over from scratch to refresh VSECS. When VSECS is working as it is supposed to, they like it. Both nurses would like to see patient flags in VSE-CS as an indicator by the patient’s name on the workflow screen. The workflows do not update so they don’t know where the patient is. The MSAs in the Specialty Clinic would like the patient summary to print out automatically when the patient checks in. They would like to see the patient’s future appointments added to the Patient Summary. They would like to see the patient’s current medications on the Patient Summary but not discontinued meds. Both MSAs and nurses requested adding the last 4 of the veteran’s SSN to VSE-CS. MSAs would like to be able to check the patient in with VSE-CS instead of switching to VSE-GUI to check the patient in. Nurse 2 would like filters to shorten the list of patients by checked in status such as only show checked in patients. MSAs would like the patient to be able to update their demographics information during pre-check-in instead of just indicating their demographics are correct or need updating.
