@@ -12,7 +12,7 @@
 
 ### Informational Messages
 
-Veterans will see more detailed information messages in these scenarios
+Veterans will see more detailed informational messages in these scenarios
 
 - When they complete Pre-Check-in but indicate their contact, emergency contact and/or next of kin information in out of date
 
