@@ -1,15 +1,11 @@
 ## Research Plan for Health Hub Benefits Navigation. May 2022
 
 
-[TOC]
 
 
-
-## B ackground
+## Background
 
 Veterans find it extremely difficult to navigate commonplace interactions with the VA. The VA ecosystem is so complex that Veterans feel discouraged to learn about, apply, maximize, and manage their benefits. 
-
- 
 
 This experience extends online. There is a fragmentation in information and tools. In particular, navigating between general information and personalized information and tools is difficult. Veterans (will) come to VA.gov to learn what benefits are available to them, apply, and then track and manage those benefits. While these are distinct stages, we expect that Veterans will need to continue learning about their benefits during the application process, and when managing their benefits. 
 
@@ -20,32 +16,27 @@ As the team considers how to include the Health Apartment on VA.gov, this resear
 [[Product brief for the health apartment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)]
 
 
-### OCTO objectives {#octo-objectives}
+### OCTO objectives
 
 This effort supports the following OCTO objectives: 
-
-
 
 * Veterans and their families can find a single, authoritative source of information
 * Veterans can manage their health services online
 * Logged-in users have a personalized experience, with relevant and time-saving features
 
 
-### Veteran journey {#veteran-journey}
+### Veteran journey
 
 Veteran tasks fit into the following key points in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf): 
-
 
 
 * Primary point in the Veteran journey: “Taking care of myself”
 * Secondary points: “Starting up,” “Putting down roots,” “Retiring,” and “Aging”
 
 
-## Research goals {#research-goals}
+## Research goals
 
 How we might create an experience that allows Veterans to easily find the content and tools they need based on where they are in their VA health care journey: 
-
-
 
 * learning about the benefit
 * applying for the benefit
@@ -55,19 +46,18 @@ How we might create an experience that allows Veterans to easily find the conten
 We want to understand how Veterans might navigate between tasks in ‘get benefits’ and ‘manage benefits’ on proposed changes to VA.gov.  We will first explore how this works with health care, and later consider how our learnings will impact the other benefits. 
 
 
-### Outcome {#outcome}
+### Outcome
 
 To understand (and build consensus) how to best organize the UX for ‘get benefits’ and ‘manage benefits’ on VA.gov. We’ll use the information architecture insights from this research to build and test prototypes of a future Health Hub. 
 
 
-### Research questions {#research-questions}
-
+### Research questions
 
 
 1. Can users (Veterans and Caregivers) navigate proposed changes to VA.gov to find information or complete core tasks as they learn, apply, manage, their VA health care benefits and care. 
 
 
-### Specific goals {#specific-goals}
+### Specific goals
 
 
 
@@ -76,11 +66,9 @@ To understand (and build consensus) how to best organize the UX for ‘get benef
 * Gain insight into user mental models as they learn, apply, and manage their benefits and care
 
 
-### Hypotheses {#hypotheses}
+### Hypotheses
 
 We’re testing two competing hypotheses: 
-
-
 
 * Hypothesis 0: Veterans find it easier to understand the benefits that are available to them and navigate through the information when there is one unified section to ‘get benefits’ and ‘manage benefits’. 
 * Hypothesis 1: Veterans find it easier to navigate when there are two separate sections for ‘get benefits’ and ‘manage benefits’. 
@@ -88,7 +76,7 @@ We’re testing two competing hypotheses:
 The current [Heath Apartment prototype that’s being tested](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/7yK3287/play), assumes Hypothesis 0. 
 
 
-## Method and tools {#method-and-tools}
+## Method and tools
 
 This phase of the research is designed to indicate which information architecture strategy to follow: hypothesis 0 or hypothesis 1. In later research phases, we’ll conduct interviews, and build and test prototypes to arrive at a well-researched information architecture, navigation, and labeling strategy. This research plan only covers the first phase. 
 
@@ -97,15 +85,15 @@ In this first phase, unmoderated remotely conducted tree tests allow us to evalu
 We will use Optimal Workshop to conduct the tree tests. 
 
 
-### What it is {#what-it-is}
+### What it is 
 
 [Nielsen Norman Group - Tree Testing](https://www.nngroup.com/articles/tree-testing/)
 
 
-### Method {#method}
+### Method
 
 
-##### IA Tree Tests (remote, unmoderated) {#ia-tree-tests-remote-unmoderated}
+##### IA Tree Tests (remote, unmoderated)
 
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains 10 tasks a Veteran may experience when learning, applying, and managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed. 
 
@@ -114,7 +102,7 @@ We would like to get complete responses from at least 50 Veterans, in distinct c
 We’re using two trees, one for each hypothesis. 
 
 
-##### Research materials {#research-materials}
+##### Research materials
 
 
 
@@ -125,7 +113,7 @@ We’re using two trees, one for each hypothesis.
 * The [Tasks](#appendix-a-tasks) we’re asking each participant to complete. It will be the same tasks for both trees. 
 
 
-## Participants and recruitment {#participants-and-recruitment}
+## Participants and recruitment
 
 Ask Perigean to recruit 126 people using the cohorts below in order to get at least 25-50 completes for each hypothesis. Ideally, we would like to have:
 
@@ -146,7 +134,7 @@ Ask Perigean to recruit 126 people using the cohorts below in order to get at le
 **This [spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/Recruitment%20criteria%20cohorts%20A%20to%20N%20v6.xlsx) that describes each cohort. **
 
 
-### Email drafts:  {#email-drafts}
+### Email drafts:
 
 
 
@@ -160,7 +148,7 @@ Ask Perigean to recruit 126 people using the cohorts below in order to get at le
 * [Instructions email (cohort H – N) ](#appendix-e-email-to-recruited-participant-cohort-h-n)
 
 
-## Timeline {#timeline}
+## Timeline
 
 
 ### Prepare
@@ -178,7 +166,7 @@ The tree tests will be open for two weeks, starting May 23 and should remain ope
 This is an asynchronous online test. Participants are expected to spend 15 - 20 minutes. 
 
 
-## Team roles {#team-roles}
+## Team roles
 
 Research guide writing and task development: Team MOVE
 
@@ -187,10 +175,9 @@ Participant recruiting & screening: Perigean
 Project point of contact: 
 
 
-## Appendix A: Tasks {#appendix-a-tasks}
+## Appendix A: Tasks
 
-
-### Tasks {#tasks}
+### Tasks 
 
 The prioritized 14 tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in the tree itself, and we used plain language to write the tasks. Below, the parentheticals describe the general goal of the task.
 
