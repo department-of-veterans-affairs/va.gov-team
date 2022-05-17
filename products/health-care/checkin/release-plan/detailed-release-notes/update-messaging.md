@@ -36,7 +36,7 @@ Veterans will see more detailed and highlighted error messages in these scenario
 
 - When they attempt to complete Pre-Check-in on the day of their appointment more than 15 after their appointment time
 
-![image](https://user-images.githubusercontent.com/86678742/168904405-550cf3d2-50bb-4f00-b86d-76e96225b9b6.png)         
+![image](https://user-images.githubusercontent.com/86678742/168908923-eb6d8b06-59b2-460e-a17e-e22bfaff04b7.png)      
 
 - When an unexpected error occurs during Pre-Check-in
 
