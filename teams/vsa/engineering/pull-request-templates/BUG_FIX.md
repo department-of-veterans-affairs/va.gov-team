@@ -16,3 +16,10 @@ Describe the process you used to test that your fix is resulting in the expected
 
 ## Screenshots
 Screenshots or it didn’t happen.
+
+## Acceptance criteria
+- [ ] *
+
+
+## Definition of done
+- [ ] *
