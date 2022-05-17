@@ -154,7 +154,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
+* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
+* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)  
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
