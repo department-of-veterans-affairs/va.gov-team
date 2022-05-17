@@ -134,7 +134,7 @@ MSA 1: n/a<br>
 MSA 2: In the beginning she had to organize the check-in steps in her mind proactively to avoid workflow errors.<br>
 MSA 3: They print the appointment list from VistA because when they first started using VSE-CS, they system was crashing. The kiosk would print a routing sheet for the patient at check-in. Now they have to manually complete the routing sheet.<br>
 MSA 4: Constantly has to go into the hall to help someone check-in.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
 MSA 6: n/a<br>
 MSA 7: No.<br>
 MSA 8: n/a<br>
