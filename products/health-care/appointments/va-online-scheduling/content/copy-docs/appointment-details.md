@@ -80,15 +80,13 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```diff
-- {Canceler} canceled this request.
+```
 + {Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
-@@ GH36207 @@
 ```
 
 **PAGE CONTENT**
 
-```diff
+```
 VA appointment
 {Facility name}
 {Facility address}
@@ -224,10 +222,8 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```diff
-- {Canceler} canceled this appointment.
-+ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-@@ #35857 @@
+```
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
@@ -272,9 +268,8 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of care}
-@@ #36434 @@
+```
+Type of care: {Type of care}
 
 COVID-19 vaccine
 {Facility name}
@@ -322,9 +317,9 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-++ Type of care: {Type of care}
-@@ #36434 @@
+```
+Type of care: {Type of care}
+
 
 COVID-19 vaccine
 {Facility name}
@@ -358,17 +353,15 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```diff
-- {Canceler} canceled this appointment.
-+ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-@@ #35857 @@
+```
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
 
-```diff
-++ Type of care: {Type of care}
-@@ #36434 @@
+```
+Type of care: {Type of care}
+
 
 COVID-19 vaccine
 {Facility name}
@@ -1083,10 +1076,8 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```diff
-- {Canceler} canceled this appointment.
-+ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-@@ #35857 @@
+```
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
@@ -1217,10 +1208,8 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```diff
-- {Canceler} canceled this appointment.
-+ {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-@@ #35857 @@
+```
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
@@ -1291,9 +1280,8 @@ We've scheduled and confirmed your appointment.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of care}
-@@ #36434 @@
+```
+Type of care: {Type of care}
 
 COVID-19 vaccine
 {Facility name}
