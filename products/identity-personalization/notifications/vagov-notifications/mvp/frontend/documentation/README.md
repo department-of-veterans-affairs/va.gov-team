@@ -2,8 +2,8 @@
 
 ## Sketch Mockups
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KMb2kk)
+- [Desktop]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZObEKZx](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/oY2Y85j)
+- [Mobile]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KMb2kk](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/z3QLqM/a/JnlaE9e/r/GxYWa5)
 
 ## Notifications section on My VA
 
@@ -23,25 +23,27 @@ If a user has no new notifications since they last logged in but has notificatio
 
 *Visual Specs*
 
-![Screen Shot 2022-04-26 at 11 12 13 AM](https://user-images.githubusercontent.com/97965610/165333503-5cc936f8-5af6-48fc-a8c2-1f320d9844d6.png)
+![Screen Shot 2022-05-17 at 2 37 28 PM](https://user-images.githubusercontent.com/97965610/168886199-e9d849d0-a55f-4bf7-b1ea-5235fb0b05ea.png)
 
 *Copy Specs*
 
 - [exclamation-triangle icon] You have new debt. (link) Manage your VA debt
+- (Date) Month Day, Year
 
 **State 2: A user who has new notifications since they last logged in.**
 
 *UX Specs*
 
-If a user has new notifications since they last logged in, we will show the warning alert style with icon, text about notification, and a link. [Link to component in Storybook](https://design.va.gov/storybook/?path=/docs/components-va-alert--default)
+If a user has new notifications since they last logged in, we will show the warning alert style with icon, text about notification, a link, and a date that includes month, day and year. [Link to component in Storybook](https://design.va.gov/storybook/?path=/docs/components-va-alert--default)
 
 *Visual Specs*
 
-![Screen Shot 2022-04-26 at 11 12 13 AM](https://user-images.githubusercontent.com/97965610/165334199-bddc4f0b-d581-439e-b554-cb1018eef62b.png)
+![Screen Shot 2022-05-17 at 2 37 28 PM](https://user-images.githubusercontent.com/97965610/168886199-e9d849d0-a55f-4bf7-b1ea-5235fb0b05ea.png)
 
 *Copy Specs*
 
 - [exclamation-triangle icon] You have new debt. (link) Manage your VA debt
+- (Date) Month Day, Year
 
 **State 3: A user who has no notifications.**
 
