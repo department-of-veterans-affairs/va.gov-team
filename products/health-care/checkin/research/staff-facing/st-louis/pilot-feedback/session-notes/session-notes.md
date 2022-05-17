@@ -1,10 +1,11 @@
 # TBD
 
+MSA 1: North County CBOC, PCP<br>
+MSA 2: North County CBOC, PCP 
+
 ### Pre-Check-In
 
 **How has pre-check-in impacted check-ins on the day of appointments?**
-
-North County CBOC (Primary Care, etc.) 
 
 MSA 1: Some do. Some don’t. She thinks veterans think pre-check-in is check-in.<br>
 MSA 2: Many of the older veterans do not use pre-check-in. 
@@ -71,6 +72,32 @@ MSA 2: No change.
 
 MSA 1: n/a<br>
 MSA 2: No.
+
+**Do you know how quickly they’ve been receiving the check-in link after texting “check-in”?**
+
+MSA 1: Varies based on system response up to 5 minutes.<br>
+MSA 2: About 2 seconds.
+
+**Has it made an impact on complaints about long wait times? Or impacted the number of Veterans in the waiting room who haven’t been checked in?**
+
+MSA 1: Improved when the system is functioning adequately.<br>
+MSA 2: If the Veteran comes in right before their appointment the wait is longer because they have learn how to do e-check-in which is a new process for them.
+
+**Overall, what do you like about the check-in?**
+
+MSA 1: n/a<br>
+MSA 2: Teaches non-tech savvy. Everyone is equal and can do it.
+
+**What do you dislike about it?**
+
+MSA 1: n/a<br>
+MSA 2: Nothing.
+
+**What would you change about it?**
+
+MSA 1: Shorten text messages.<br>
+MSA 2: Sometimes the process is very slow.
+
 
 
 
