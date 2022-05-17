@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: VSA 10-10, UAT of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
+# [DRAFT] Research Plan: 10-10 Apps team, UAT of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
 
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the 10-10 Health Apps team.
