@@ -156,6 +156,8 @@ Examples of **research with VA.gov users** include:
 - [ ] Add or update all requested artifacts below at least two days before the scheduled Midpoint Review
   
 **Midpoint Review artifacts**
+
+  Platform guidance on [Midpoint Review artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html#Midpointreview-Artifacts)
   
 *Design and research artifacts*
 
