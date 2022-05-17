@@ -2,7 +2,7 @@
 name: Collab Cycle Feedback
 about: Feedback template for Collaboration Cycle reviewers to provide feedback to
   VFS teams
-title: Practice Area Feedback - Name of Collab Touchpoint - Name of Project
+title: Name of Collab Touchpoint - Practice Area Feedback - Name of Project
 labels: collab-cycle-feedback, collaboration-cycle
 assignees: ''
 
@@ -31,8 +31,8 @@ assignees: ''
 
 ## Platform directions
 - Update "Issue Title"
-- Link to collab cycle touchpoint meeting epic
-- Add to the Feedback pipeline on the Platform Governance team board
+- Link to collab cycle feature epic
+- Add to the Feedback pipeline on the Collaboration Cycle Reviews board
 - Add your feedback
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
