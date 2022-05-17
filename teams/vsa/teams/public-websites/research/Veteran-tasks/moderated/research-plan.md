@@ -86,7 +86,7 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **Date TBD during May 17-18 time pm** ET with TBD (email address)
+- * Pilot #1: **May 18 1 pm ET** with keith.adkins@adhocteam.us
 - * Pilot #2: **May 19 5 pm ET** with angela.fowler@adhocteam.us
 
 ### Research sessions
@@ -109,7 +109,7 @@ May 25, 2022 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participants for pilot test:	TBD, Angela Fowler
+- Participants for pilot test:	Keith Adkins, Angela Fowler
 - Note-takers:	Perigean
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us)
 
