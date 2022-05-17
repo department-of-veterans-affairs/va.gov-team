@@ -10,10 +10,10 @@ Per our [MHV profile audit](https://github.com/department-of-veterans-affairs/va
 
 This effort will involve the following:
 
-- Adding the email notifications to VANotify
-- Setting up the preferences in the VA Profile backend
-- Migrating existing user preferences into the VA Profile backend
-- Surfacing the preferences in the VA.gov interface
+- Adding each email notification to VANotify.
+- Setting up preferences in the VA Profile backend.
+- Migrating existing user preferences into the VA Profile backend.
+- Surfacing preferences in the VA.gov interface.
 
 ## When will this work start?
 
