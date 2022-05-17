@@ -100,7 +100,7 @@ Do you see the link?
 
 ## Do the survey
 
-I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you.
+I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you. For code, enter P#.
 
 *RECORD start time: ______________*
 
