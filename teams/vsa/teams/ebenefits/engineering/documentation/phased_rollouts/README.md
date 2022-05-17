@@ -37,7 +37,17 @@ There is documentation from the platform on how to build a feature toggle [here]
  
  You will therefore need to get a static content page set up that you can put the code for your React widget on, [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-content-page.1848737888.html) is the documentation on how to set up a static content page.
  
- Once you have your static content page set up you will then put the code for your widget on that page, this will be the code detailed in [step 2](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html) of setting up the React widget. When you run the static pages and pull your page up you should be able to see your React widget.
+ The easiest way at the time of this writing to set up a static page is by using the  `vetsgov-content` repo. To set a page up foloow these steps -
+ 
+ 1. Make sure you have both the `vagov-content` repo AND the `content-build` repo on your local machine
+ 2. Inside the `vagov-content` and inside the /pages folder create a new markdown file and format it the same as the others in that folder but with your own content in the html markup
+ 3. run `yarn build` inside the `content-build` repo and wait for the build process to finish
+ 4. run `yarn watch` inside the `content-build` repo and then go to http://localhost:3002 and you should see the homepage. Head the the URL for the page you created (it should just be the name of the markdown file without the .md)
+ 
+ If you see your page you can now go back and modify the html markup in your page to have the code to mount your widget, found in step two of [the React widget developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/Creating-a-new-React-widget.1849425948.html)
+ 
+ If you do not see your page contact platform support for help.
+ 
 
 </p>
 </details>
