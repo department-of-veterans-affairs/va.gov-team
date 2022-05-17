@@ -33,7 +33,7 @@ MHV will need to do the following:
 ### Planning and coordination
 
 - VA.gov will meet with MHV to discuss profile audit findings and recommendations. 
-- VA.gov will meet with MHV to make sure we thoroughly understand existing MHV functionality, needs, and requirements for moving over notification preferences.
+- VA.gov will meet with MHV to make sure we thoroughly understand existing functionality, needs, and requirements for moving over notification preferences. We will also discuss how MHV might want to handle their profile as we migrate functionality to VA.gov.
 - VA.gov will regroup with VANotify to coordinate on this effort. VANotify will determine how this work will fit into their roadmap.
 - VA.gov will fill out an intake form for VA Profile. VA Profile will determine how this work will fit into their roadmap.
 
@@ -66,3 +66,5 @@ Once the functionality is built as needed in VA.gov, VA Profile, and VANotify, w
 - Determine a launch strategy.
 - Conduct user acceptance testing.
 - Launch in a phased approach.
+
+
