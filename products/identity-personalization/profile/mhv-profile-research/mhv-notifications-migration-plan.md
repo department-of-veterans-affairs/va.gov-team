@@ -21,7 +21,7 @@ We'll need to submit an intake form for VA Profile and discuss this work with VA
 
 ## Work required by MHV
 
-MHV will need to do the following. The work of VA.gov, VANotify, and VA Profile is outlined further below.
+MHV will need to do the following:
 
 - Serve as SMEs/Stakeholders, providing guidance and approvals as necessary.
 - Outline requirements and needs so that functionality is implemented correctly (**Note**: VA.gov will help facilitate this process).
