@@ -16,7 +16,7 @@ Veterans will see more detailed informational messages in these scenarios
 
 - When they complete Pre-Check-in but indicate their contact, emergency contact and/or next of kin information in out of date
 
-![image](https://user-images.githubusercontent.com/86678742/168902651-8a9c1deb-b641-41cd-a38b-b5f00a4163f8.png)
+![image](https://user-images.githubusercontent.com/86678742/168909755-40460202-8286-4c50-8b99-35cc265f2caf.png)
 
 - When they attempt to complete Pre-Check-in for an appointment for which they already completed pre-check-in
 
