@@ -28,7 +28,11 @@ MSA 1: Internet goes down a lot. May have to stop and train veteran. Pre-check-i
 MSA 2: Pre-check-in process hasn’t really affected her work. She enjoys seeing the veteran being successful with e-check-in.<br>
 MSA 3: n/a<br>
 MSA 4: Extra work assisting veterans with e-check-in.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: n/a<br> 
+MSA 8: n/a<br>
+MSA 9: Lot easier to know if patient is checked in.
 
 **Has pre-check-in impacted the veteran experience?** 
 
@@ -36,7 +40,12 @@ MSA 1: She has VSE-GUI for scheduling, Vista for updating patient info, VSE-CS f
 MSA 2: A lot of veterans think it is difficult. She did not elaborate as to why.<\br>
 MSA 3: Some veterans say it is easy and convenient. Others are lost don’t understand what pre-check-in is.<br>
 MSA 4: Extra work assisting veterans with e-check-in.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: n/a<br> 
+MSA 8: A lot easier to know if patient is checked in.<br>
+MSA 9: n/a
 
 **On a scale of 1 to 10, where 0 is not at all likely, how likely is it that you’d recommend the pre-check-in process to another VA clinic or facility.**
 
@@ -45,6 +54,10 @@ MSA 2: 9<br>
 MSA 3: n/a<br>
 MSA 4: 7 if the veteran does pre-check-in, it saves the MSA time.<br>
 MSA 5: n/a
+MSA 6: n/a<br>
+MSA 7: 10<br> 
+MSA 8: n/a<br>
+MSA 9: 7 or 8
 
 ### Check-In
 
@@ -57,7 +70,11 @@ Notes: Both MSA 1 and MSA 2 actively asked the veterans who came to the desk to 
 
 MSA 3: Work has increased with having to assist the veterans with the e-check-in process.<br>
 MSA 4: Work has increased. Would like med sheet (patient summary?) to automatically print on e-check-in. She would like the vet to be able to check in on any phone not just one that is associated with the veteran’s record stored in VistA. Would like to be able to check the patient in with VSE-CS.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Most vets don’t have a phone. Work is increased because they greet the veteran and ask if they used mobile check-in then they walk the veteran through the process.
+MSA 8: n/a
+MSA 9: Puts them behind. The have to suggest mobile check-in to every vet and assist many of them with the process. They double check those veterans who completed pre-check-in to ensure the data is accurate. Did the veteran answer incorrectly?
 
 **Have you had to engage with or talk to Veterans who are using the mobile check-in? Why?**
 
@@ -65,7 +82,11 @@ MSA 1: n/a<br>
 MSA 2: She likes to double check to ensure the veteran checked in successfully.<br>
 MSA 3: Yes. She has to assist the veteran with how to do e-check-in.<br>
 MSA 4: n/a<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Yes, to assist the veteran with mobile check-in and train the veteran.<br>
+MSA 8: Yes, to assist the veteran with mobile check-in and train the veteran<br>
+MSA 9: n/a
 
 **How would you describe the impact of the changes to VSE GUI to your work?**
 
@@ -73,7 +94,11 @@ MSA 1: n/a<br>
 MSA 2: It has impacted her work for the better. But negatively impacts her work when the system is slow.<br>
 MSA 3: She likes it. It is easy and convenient. It makes her work easier.<br>
 MSA 4: n/a<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Has not changed much.<br>
+MSA 8: n/a <br>
+MSA 9: There hasn’t been much impact.
 
 **How often do you review the different check-in statuses within VSE-GUI?**
 
@@ -81,7 +106,11 @@ MSA 1: Every 3 minutes or so.<br>
 MSA 2: All day long every few minutes.<br>
 MSA 3: Every few minutes throughout the day.<br>
 MSA 4: n/a<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Constantly checking through the day.<br>
+MSA 8: n/a<br>
+MSA 9: n/a
 
 **Are there any check-in statuses in VSE-GUI that you find more helpful than others?**
 
@@ -90,6 +119,10 @@ MSA 2: No.<br>
 MSA 3: No. <br>
 MSA 4: No. <br>
 MSA 5: n/a
+MSA 6: n/a<br>
+MSA 7: All check-in status are helpful.<br>
+MSA 8: n/a<br>
+MSA 9: n/a
 
 **Did you have to change anything else about your work to accommodate the new mobile check-in and VSE-GUI process?**
 
@@ -98,11 +131,22 @@ MSA 2: In the beginning she had to organize the check-in steps in her mind proac
 MSA 3: They print the appointment list from VistA because when they first started using VSE-CS, they system was crashing. The kiosk would print a routing sheet for the patient at check-in. Now they have to manually complete the routing sheet.<br>
 MSA 4: Constantly has to go into the hall to help someone check-in.<br>
 MSA 5: n/a
+MSA 6: n/a<br>
+MSA 7: No.<br>
+MSA 8: n/a<br>
+MSA 9: n/a
 
 **How has mobile check-in affected communication between the MSAs and providers?**
 
 MSA 1: Still talk to providers. No change in communication. Inconsistent app up/down for individuals due to technical issues (network issues, lag in updating workflow status changes). Providers will IM asking if their patient is here.<br>
-MSA 2: No change.
+MSA 2: No change.<br>
+MSA 3: n/a<br>
+MSA 4: n/a<br>
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Workflow has not changed. They print paper summary which prints at the nurse’s desk so the nurse’s know the patient is in the waiting room and checked in.<br>
+MSA 8: n/a<br>
+MSA 9: n/a
 
 **Has mobile check-in affected the Veteran experience? If so, how?**
 
@@ -110,7 +154,11 @@ MSA 1: n/a<br>
 MSA 2: No change.<br>
 MSA 3: Frustrates the veterans that don’t want to do it. The more tech savvy veterans like it.<br>
 MSA 4: More veterans dislike it. Only about 20% of their patients like it.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Yes. Most hate it. Of verbal abuse from veterans.<br>
+MSA 8: Most elderly veterans won’t do it. MSA walk everyone through it unless the veteran says he doesn’t have a cell phone.<br>
+MSA 9: n/a
 
 **Have Veterans reported any specific check-in feedback to you?**
 
@@ -119,6 +167,10 @@ MSA 2: No.<br>
 MSA 3: It is inconvenient. They have to learn something new. They just want to get checked in and don’t want to use their own phone. If the government wants them to check-in with a phone then the government should provide a phone to the veteran.<br>
 MSA 4: Veterans would like to be forewarned about the new process of e-check-in.<br>
 MSA 5: Extra work assisting veterans with e-check-in. It is difficult because clinic is beneath the X-ray department and cellular service is spotty in this location.
+MSA 6: n/a<br>
+MSA 7: Easy to do when they do, but they think they are checked in.<br>
+MSA 8: n/a<br>
+MSA 9: n/a
 
 **Do you know how quickly they’ve been receiving the check-in link after texting “check-in”?**
 
@@ -139,7 +191,12 @@ MSA 1: n/a<br>
 MSA 2: Teaches non-tech savvy. Everyone is equal and can do it.<br>
 MSA 3: Pre-check is already completed by the veteran.<br>
 MSA 4: n/a<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Faster check-in for the veteran.<br>
+MSA 8: n/a<br>
+MSA 9: Harder use the phone. The tech savvy do fine.
+
 
 **What do you dislike about it?**
 
@@ -148,6 +205,10 @@ MSA 2: Nothing.<br>
 MSA 3: Vets don’t want to learn something new.<br>
 MSA 4: e-check-in should not be in the eye clinic. The veteran is coming there because they can’t see.<br>
 MSA 5: n/a
+MSA 6: n/a<br>
+MSA 7: Helps keep data up-to-date and accurate. The veteran should be able to update their demographics information during pre-check-in not just indicate if it is correct or not.<br>
+MSA 8: n/a<br>
+MSA 9: Lag during the early phases of roll out.
 
 **What would you change about it?**
 
