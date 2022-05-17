@@ -1,7 +1,4 @@
-## Research Plan for Health Hub Benefits Navigation. May 2022
-
-
-
+# Research Plan for Health Hub Benefits Navigation. May 2022
 
 ## Background
 
