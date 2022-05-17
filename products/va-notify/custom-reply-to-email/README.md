@@ -12,7 +12,7 @@ The mailbox used to send emails is not accessible to those outside VA Notify. We
 ## What does this look like?
 When the veteran clicks reply or reply all, the desired email address will automatically be populated in the to: field.
 
-![image](https://user-images.githubusercontent.com/99204969/167147341-b81cc1a1-02de-47b5-b143-ce5304d99db1.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/no-reply%20image.png)
 
 ## Configuration
 The default from email is: do-not-reply@notifications.va.gov  
