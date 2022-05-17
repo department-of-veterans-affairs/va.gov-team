@@ -8,17 +8,23 @@ MSA 2: North County CBOC, PCP
 **How has pre-check-in impacted check-ins on the day of appointments?**
 
 MSA 1: Some do. Some don’t. She thinks veterans think pre-check-in is check-in.<br>
-MSA 2: Many of the older veterans do not use pre-check-in. 
+MSA 2: Many of the older veterans do not use pre-check-in. <br>
+MSA 3: Check-ins are slow. Vets don’t have phone or don’t know what to do.<br>
+MSA 4: Work has increased. They get yelled at by patients. It is difficult and takes too long. The veteran shouldn’t have to use a phone.
 
 **How has the pre-check-in process impacted your work?** 
 
 MSA 1: Internet goes down a lot. May have to stop and train veteran. Pre-check-in text is too long. Veterans don’t read the whole thing and therefore don’t know what pre-check-in is.<br>
-MSA 2: Pre-check-in process hasn’t really affected her work. She enjoys seeing the veteran being successful with e-check-in.
+MSA 2: Pre-check-in process hasn’t really affected her work. She enjoys seeing the veteran being successful with e-check-in.<br>
+MSA 3: n/a<br>
+MSA 4: Extra work assisting veterans with e-check-in.
 
 **Has pre-check-in impacted the veteran experience?** 
 
 MSA 1: She has VSE-GUI for scheduling, Vista for updating patient info, VSE-CS for workflow updates, and VetLink for labs all running.<br>
-MSA 2: A lot of veterans think it is difficult. She did not elaborate as to why.
+MSA 2: A lot of veterans think it is difficult. She did not elaborate as to why.<\br>
+MSA 3: Some veterans say it is easy and convenient. Others are lost don’t understand what pre-check-in is.<br>
+MSA 4: Extra work assisting veterans with e-check-in.
 
 **On a scale of 1 to 10, where 0 is not at all likely, how likely is it that you’d recommend the pre-check-in process to another VA clinic or facility.**
 
@@ -72,7 +78,10 @@ MSA 2: No change.
 **Have Veterans reported any specific check-in feedback to you?**
 
 MSA 1: n/a<br>
-MSA 2: No.
+MSA 2: No.<br>
+MSA 3: It is inconvenient. They have to learn something new. They just want to get checked in and don’t want to use their own phone. If the government wants them to check-in with a phone then the government should provide a phone to the veteran.<br>
+MSA 4: Veterans would like to be forewarned about the new process of e-check-in.<br>
+MSA 5: Extra work assisting veterans with e-check-in.
 
 **Do you know how quickly they’ve been receiving the check-in link after texting “check-in”?**
 
@@ -87,12 +96,14 @@ MSA 2: If the Veteran comes in right before their appointment the wait is longer
 **Overall, what do you like about the check-in?**
 
 MSA 1: n/a<br>
-MSA 2: Teaches non-tech savvy. Everyone is equal and can do it.
+MSA 2: Teaches non-tech savvy. Everyone is equal and can do it.<br>
+MSA 3: Pre-check is already completed by the veteran.
 
 **What do you dislike about it?**
 
 MSA 1: n/a<br>
-MSA 2: Nothing.
+MSA 2: Nothing.<br>
+MSA 3: Vets don’t want to learn something new.
 
 **What would you change about it?**
 
