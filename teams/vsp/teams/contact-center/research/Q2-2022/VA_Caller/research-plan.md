@@ -16,6 +16,7 @@ This research supports the following:
 
 ### Veteran Journey
 This research sits within these stages of the Veteran Journey:
+
   ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging 
 
 
@@ -23,7 +24,9 @@ This research sits within these stages of the Veteran Journey:
 We are trying to learn the following from this research:
  
 · Understand all pain points of Veterans that use Tier 1 Call Center systems for their needs
+
 · Discover insights and task blockers for Veterans that have their service calls routed from Tier 1 to Tier 2 
+
 · Discover insights regarding Tier 1 service teams using VA tools Salesforce, Microsoft Dynamics and Ask VA (AVA) to interface with Veterans and/or their beneficaries. 
 
 
