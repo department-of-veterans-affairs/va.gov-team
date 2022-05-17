@@ -56,7 +56,7 @@ MSA 4: 7 if the veteran does pre-check-in, it saves the MSA time.<br>
 MSA 5: n/a
 MSA 6: n/a<br>
 MSA 7: 10<br> 
-MSA 8: n/a<br>
+MSA 8: 10<br>
 MSA 9: 7 or 8
 
 ### Check-In
@@ -168,14 +168,21 @@ MSA 3: It is inconvenient. They have to learn something new. They just want to g
 MSA 4: Veterans would like to be forewarned about the new process of e-check-in.<br>
 MSA 5: Extra work assisting veterans with e-check-in. It is difficult because clinic is beneath the X-ray department and cellular service is spotty in this location.
 MSA 6: n/a<br>
-MSA 7: Easy to do when they do, but they think they are checked in.<br>
-MSA 8: n/a<br>
+MSA 7: Easy to do when they do, but they think they are checked in. Veterans feel like they are being hacked or tracked.<br>
+MSA 8: Some don’t get cellular service in the office. Many of the veterans do not have unlimited plans so they get charged for the text messages. Cellular service may be turned off (airplane mode). The veteran doesn’t know how to connect to wifi or turn off airplane mode. They would rather use the kiosk.<br>
 MSA 9: n/a
 
 **Do you know how quickly they’ve been receiving the check-in link after texting “check-in”?**
 
 MSA 1: Varies based on system response up to 5 minutes.<br>
-MSA 2: About 2 seconds.
+MSA 2: About 2 seconds.<br>
+MSA 3: n/a<br>
+MSA 4: n/a<br>
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Some veterans get the text right away. Some veterans don’t the text for a very long time.<br>
+MSA 8: Depends on where they are standing in the clinic. Cellular service is better closer to the door and worse away from the door.<br>
+MSA 9: n/a
 
 **Has it made an impact on complaints about long wait times? Or impacted the number of Veterans in the waiting room who haven’t been checked in?**
 
@@ -183,7 +190,11 @@ MSA 1: Improved when the system is functioning adequately.<br>
 MSA 2: If the Veteran comes in right before their appointment the wait is longer because they have learn how to do e-check-in which is a new process for them.<br>
 MSA 3: It has increased older veteran’s frustration. Younger veterans have fewer complaints.<br>
 MSA 4: Some vets turn around and go home and don’t even try and won’t check in with the MSA. When they have a chance to help the veteran, he is already gone.<br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: It is a faster way to check-in, but veterans think it isn’t.<br>
+MSA 8: Increased complaints. Don’t want to learn something new.<br>
+MSA 9: n/a
 
 **Overall, what do you like about the check-in?**
 
@@ -193,10 +204,9 @@ MSA 3: Pre-check is already completed by the veteran.<br>
 MSA 4: n/a<br>
 MSA 5: n/a<br>
 MSA 6: n/a<br>
-MSA 7: Faster check-in for the veteran.<br>
-MSA 8: n/a<br>
+MSA 7: Faster check-in for the veteran. Potential to reduce work when veterans have adopted the technology.<br>
+MSA 8: Potential to reduce work when veterans have adopted the technology.<br>
 MSA 9: Harder use the phone. The tech savvy do fine.
-
 
 **What do you dislike about it?**
 
@@ -206,14 +216,21 @@ MSA 3: Vets don’t want to learn something new.<br>
 MSA 4: e-check-in should not be in the eye clinic. The veteran is coming there because they can’t see.<br>
 MSA 5: n/a
 MSA 6: n/a<br>
-MSA 7: Helps keep data up-to-date and accurate. The veteran should be able to update their demographics information during pre-check-in not just indicate if it is correct or not.<br>
+MSA 7: Helps keep data up-to-date and accurate. The veteran should be able to update their demographics information during pre-check-in not just indicate if it is correct or not. Insurance doesn’t get updated at pre-check-in but she likes it other than that.<br>
 MSA 8: n/a<br>
 MSA 9: Lag during the early phases of roll out.
 
 **What would you change about it?**
 
 MSA 1: Shorten text messages.<br>
-MSA 2: Sometimes the process is very slow.
+MSA 2: Sometimes the process is very slow.<br>
+MSA 3: n/a<br>
+MSA 4: n/a<br>
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: Directions on how to do pre-check-in and e-check-in need to be more clear.<br>
+MSA 8: Insurance and demographics updates should be able to be made by the veterans. Reduce the number of text messages the veteran receives. The signs outside the building don’t have instructions.<br>
+MSA 9: n/a
 
 ### Telemedicine - Phone Appointments 
 
@@ -223,27 +240,59 @@ MSA 1: Yes – primary care<br>
 MSA 2: All of the providers do phone appointments. They encourage face to face or VVS appointments. She puts the patient’s preference first.
 MSA 3: n/a<br>
 MSA 4: No. <br>
-MSA 5: n/a
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: n/a<br>
+MSA 8: Yes.<br>
+MSA 9: n/a<br>
 
 **What type of appointments can be scheduled for phone?**
 
 MSA 1: Primary care. Consults do not use phone appointments. Physical Therapy does not do phone appointments. New patients are seen face to face.<br>
-MSA 2: New patients do not get scheduled for phone appointments.
+MSA 2: New patients do not get scheduled for phone appointments.<br>
+MSA 3: n/a<br>
+MSA 4: n/a<br>
+MSA 5: n/a<br>
+MSA 6: n/a<br>
+MSA 7: n/a<br>
+MSA 8: Regular clinic appointments for established patients. No new patients, consults, or procedures.<br>
+MSA 9: n/a
 
 **What is the pre-registration process for phone appointments?**
 
 MSA 1: May call before or after the appointment to pre-register the patient. It depends on how busy they are at the desk.<br>
-MSA 2: She didn’t seem to understand pre-check-in. Her answers were as if I asked about e-check-in.
+MSA 2: She didn’t seem to understand pre-check-in. Her answers were as if I asked about e-check-in.<br>
+MSA 3: n/a <br>
+MSA 4: n/a <br>
+MSA 5: n/a <br>
+MSA 6: n/a <br>
+MSA 7: n/a <br>
+MSA 8: Copy of appointment schedule is given to the provider the day of the phone appointment. There is no pre-registration process.<br>
+MSA 9: n/a
 
 **Is that process different from in-person or video visits?**
 
 MSA 1: No. The process is the same.<br>
-MSA 2: No. The process is the same.
+MSA 2: No. The process is the same.<br>
+MSA 3: n/a <br>
+MSA 4: n/a <br>
+MSA 5: n/a <br>
+MSA 6: n/a <br>
+MSA 7: One provider does telephone appointments.<br>
+MSA 8: n/a <br>
+MSA 9: n/a
 
 **Are there any existing challenges with scheduling or conducting phone appointments?**
 
 MSA 1: No, not as long as the system is functioning adequately.<br>
-MSA 2: No.
+MSA 2: No.<br>
+MSA 3: n/a <br>
+MSA 4: n/a <br>
+MSA 5: n/a <br>
+MSA 6: n/a <br>
+MSA 7: No.<br>
+MSA 8: No. <br>
+MSA 9: n/a
 
 **What would be the ideal way to do pre-registration with patients who have a phone appointment?**
 
@@ -264,6 +313,8 @@ MSA 2: Doesn’t use patient flags.
 
 Nurse 1: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. <br>
 Nurse 2: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. 
+
+
 
 **Where do you see the flag and how do you respond?**
 
