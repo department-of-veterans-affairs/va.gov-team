@@ -157,12 +157,9 @@ Examples of **research with VA.gov users** include:
   
 **Midpoint Review artifacts**
   
-*Design artifacts*
+*Design and research artifacts*
 
 - Finalized design prototype or mockup: 
-  
-*Research artifacts*
-
 - Research plan: 
 - Conversation guide: 
   
