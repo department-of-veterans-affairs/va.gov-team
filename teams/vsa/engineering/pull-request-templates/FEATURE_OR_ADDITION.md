@@ -13,3 +13,9 @@ Please describe your code changes in enough detail that someone who is not famil
 
 ## How was your code tested
 Please describe the unit and end to end test coverage or changes needed for your pull request.
+
+## Acceptance criteria
+- [ ] *
+
+## Definition of done
+- [ ] *
