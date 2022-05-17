@@ -61,18 +61,21 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 # Hypotheses and Conclusions
 
 1. Veterans should be able to successfully complete pre-check-in from the comfort of their homes. Veterans will correctly assume that they still need to complete mobile check-in even if they completed pre-check-in. The pre-check-in experience improves the staff experience, since they need to review contact, next of kin and emergency contact information with fewer Veterans.<br>
-      i. NOT ENOUGH INFORMATION: Most Veterans we spoke with did not complete pre-check-in. Therefore, there wasn't enough information to determine ease of use or perceptions about how it's related to check-in. However, staff said that when Veterans complete pre-check-in, it creates a more seamless check-in experience on the day of the appointment. 
-2. Veterans will be able to successfully check-in via their mobile device, verify their identity and confirm their demographic information without any friction. In the ideal scenario, Veterans will be able to complete check-in with little to no intervention from MSAs. Therefore, MSAs should have shorter lines of Veterans waiting to check in, since Veterans will be utilizing the new check-in solution in the waiting area. 
-      i. MAYBE TRUE: Some Veterans were able to complete check-in on their own, while others needed assistance from MSAs. In addition, in some clinics, MSAs engaged Veterans to help with the check-in process. Of course, there were Veterans that did not want to use the mobile check-in process, therefore requiring MSAs to assist them with check-in through VSE-GUI. 
-4. The updated poster enables low-vision Veterans to easily read check-in instructions. 
-5. MSAs will still check-in Veterans who prefer in-person over mobile. 
-6. Veteran responses will indicate that the pre-check-in and mobile phone check-in solutions are useful and do not negatively impact their care experience.
-7. Staff responses will indicate that the mobile check-in solution is useful and does not negatively impact experience or clinical workflow.
-8. Properly displaying patient record flags is very important to staff.
-9. Gathering necessary pre-registration and other information prior to a telephone appointment can be difficult. Adding telephone appointments to pre-check-in would solve the staff pain point of reviewing pre-registration during appointments.
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+    1. NOT ENOUGH INFORMATION: Most Veterans we spoke with did not complete pre-check-in. Therefore, there wasn't enough information to determine ease of use or perceptions about how it's related to check-in. However, staff said that when Veterans complete pre-check-in, it creates a more seamless check-in experience on the day of the appointment. 
+1. Veterans will be able to successfully check-in via their mobile device, verify their identity and confirm their demographic information without any friction. In the ideal scenario, Veterans will be able to complete check-in with little to no intervention from MSAs. Therefore, MSAs should have shorter lines of Veterans waiting to check in, since Veterans will be utilizing the new check-in solution in the waiting area. 
+    1. MAYBE TRUE: Some Veterans were able to complete check-in on their own, while others needed assistance from MSAs. In addition, in some clinics, MSAs engaged Veterans to help with the check-in process. Of course, there were Veterans that did not want to use the mobile check-in process, therefore requiring MSAs to assist them with check-in through VSE-GUI. 
+1. The updated poster enables low-vision Veterans to easily read check-in instructions. 
+    1. NOT ENOUGH INFORMATION: Based on the nature of the research, we were not able to capture demograhpic information from Veterans. Many Veterans at the eye clinic were not thrilled with checking in on their mobile device, but it's unclear if the poster was problematic for them. 
+1. MSAs will still check-in Veterans who prefer in-person over mobile. 
+    1. MAYBE TRUE: Some clinics checked Veterans in through VSE-GUI that didn't want to use their phone, while other clinics were much more insistent on Veterans using thier phones.  
+1. Veteran responses will indicate that the pre-check-in and mobile phone check-in solutions are useful and do not negatively impact their care experience.
+    1. MAYBE TRUE: Responses were mixed. Some Veterans simply do not want to use their phone to check in, and of course, some cannot due to various reasons. However, other Veterans had no difficulty with the new process. 
+1. Staff responses will indicate that the mobile check-in solution is useful and does not negatively impact experience or clinical workflow.
+    1. MAYBE TRUE: Staff see the potential, but are hesitant until technical and lag issues are resolved. 
+1. Properly displaying patient record flags is very important to staff.
+    1. NOT ENOUGH INFORMATION: There were mixed opinions on where patient record flags should reside. Some feel that flags could be added to VSE-CS, while others are content with CPRS. 
+1. Gathering necessary pre-registration and other information prior to a telephone appointment can be difficult. Adding telephone appointments to pre-check-in would solve the staff pain point of reviewing pre-registration during appointments.
+    1. LIKELY TRUE: Clinics and providers seem to be inconsistent in how pre-registration is completed for telephone appointments. Therefore, utilizing the new check-in process would create consistencies. 
 
 # Key Findings
 
