@@ -102,7 +102,13 @@ Do you see the link?
 
 I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you.
 
-*(RECORD all feedback on survey--instructions, questions, tasks in list)*
+*RECORD start time: ______________*
+
+*RECORD all feedback on survey: instructions, questions, tasks in list*
+
+
+
+*RECORD end time: ______________*
 
   
 ## Post-Task Interview - 5 minutes
