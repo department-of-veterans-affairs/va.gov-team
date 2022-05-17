@@ -1221,7 +1221,10 @@ n/a
 
 **PAGE CONTENT**
 
-```
+```diff
++ Type of care: {Type of Care}
+@@ GH41492 @@
+
 Community care
 {Provider name}
 {Provider address}
