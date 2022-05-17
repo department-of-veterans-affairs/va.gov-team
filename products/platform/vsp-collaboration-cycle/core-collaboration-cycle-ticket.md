@@ -159,22 +159,22 @@ Examples of **research with VA.gov users** include:
 
   Platform guidance on [Midpoint Review artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html#Midpointreview-Artifacts)
   
-*Design and research artifacts*
+Design and research artifacts
 
 - Finalized design prototype or mockup: 
 - Research plan: 
 - Conversation guide: 
   
-*IA artifacts*
+IA artifacts
 
 - GitHub ticket for any relevant IA work: 
  
-*Content artifacts*
+Content artifacts
   
 - Your product’s content source of truth: 
 - Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable): 
 
-*QA artifacts*
+QA artifacts
   
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
