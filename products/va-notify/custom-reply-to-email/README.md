@@ -15,4 +15,7 @@ When the veteran clicks reply or reply all, the desired email address will autom
 ![image](https://user-images.githubusercontent.com/99204969/167147341-b81cc1a1-02de-47b5-b143-ce5304d99db1.png)
 
 ## Configuration
-This is currently managed by VA Notify. Self-service feature coming soon!
+The default from email is: do-not-reply@notifications.va.gov  
+The default reply-to email is: vanoreplymessages@va.gov  
+
+Customizing the reply-to email by notification template is currently managed by VA Notify. Self-service feature coming soon!
