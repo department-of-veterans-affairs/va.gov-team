@@ -1118,13 +1118,17 @@ n/a
 {appointment date} at {appointment time}
 ```
 
+
 **PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
-```
+```diff
++ Type of care: {Type of Care}
+@@ GH41492 @@
+
 Community care
 {Provider name}
 {Provider address}
@@ -1173,7 +1177,10 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```
+```diff
++ Type of care: {Type of Care}
+@@ GH41492 @@
+
 Community care
 {Provider name}
 {Provider address}
