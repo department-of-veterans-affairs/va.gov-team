@@ -88,7 +88,7 @@ Let’s start with a few questions...
 ## Screen sharing
 I have a survey that I'd like you to do on your computer while sharing your screen with me over Zoom.
 
-While you're looking doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
+While you're doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
