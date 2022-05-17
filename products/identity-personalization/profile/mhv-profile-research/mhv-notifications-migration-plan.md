@@ -17,7 +17,7 @@ This effort will involve the following:
 
 ## When will this work start?
 
-We'll need to submit an intake form for VA Profile and discuss this work with VANotify to get on everyone's roadmap. As such, this work will not likely start for at least a couple of months.
+We'll need to submit an intake form for VA Profile and discuss this work with VANotify to get on everyone's roadmap. As such, this work will likely not start for at least a couple of months.
 
 ## Work required by MHV
 
