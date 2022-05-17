@@ -32,31 +32,31 @@ MHV will need to do the following:
 
 ### Planning and coordination
 
-- VA.gov meets with MHV to discuss profile audit findings and recommendations. We align on moving over MHV notification preferences to the VA.gov profile/VA Profile/VANotifiy.
-- VA.gov meets with MHV to make sure we thoroughly understand existing MHV functionality, needs, and requirements.
-- VA.gov regroups with VANotify to coordinate on this effort. VANotify determines where this might fit into their roadmap.
-- VA.gov fills out an intake form for VA Profile. VA Profile determines where this might fit into their roadmap.
+- VA.gov will meet with MHV to discuss profile audit findings and recommendations. 
+- VA.gov will meet with MHV to make sure we thoroughly understand existing MHV functionality, needs, and requirements for moving over notification preferences.
+- VA.gov will regroup with VANotify to coordinate on this effort. VANotify will determine how this work will fit into their roadmap.
+- VA.gov will fill out an intake form for VA Profile. VA Profile will determine how this work will fit into their roadmap.
 
 ### Implementation
 
-VA.gov / VANotify/ VA Profile all meet biweekly too coordinate on work. Each team does the following:
+VA.gov / VANotify/ VA Profile currently meet biweekly to coordinate on work. We'll continue to do so as we move over notification settings from MHV to VA.gov. As part of that, each team will do the following:
 
-#### VA.gov
+#### VA.gov will:
 
-- Coordinates effort between VA.gov, VA Profile, VANotify, MHV.
-- Updates to the VA.gov profile, including design, content, frontend, and backend (if applicable).
-- Conducts usability testing.
+- Coordinate efforts between VA.gov, VA Profile, VANotify, and MHV.
+- Update the VA.gov profile as needed, including design, content, frontend, and backend (if applicable).
+- Conduct usability testing.
 
-#### VA Profile
+#### VA Profile will:
 
-- Implements MHV settings into the VA Profile backend.
-- Works with MHV to migrate existing users' preferences into VA Profile.
-- Connects VA Profile > VANotify.
+- Implement MHV settings into the VA Profile backend.
+- Work with MHV to migrate existing users' preferences into VA Profile.
+- Connect the VA Profile backend to VANotify.
 
-#### VANotify
+#### VANotify will:
 
-- Adds MHV email templates to the VANotify platform.
-- Connects VANotify to backend systems that trigger the notifications.
+- Work with MHV to add email templates to the VANotify platform.
+- Connect VANotify to backend systems that trigger the notifications.
 
 ### Testing and launch
 
