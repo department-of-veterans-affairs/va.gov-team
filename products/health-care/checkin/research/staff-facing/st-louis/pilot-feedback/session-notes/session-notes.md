@@ -1,7 +1,14 @@
 # TBD
 
 MSA 1: North County CBOC, PCP<br>
-MSA 2: North County CBOC, PCP 
+MSA 2: North County CBOC, PCP<br>
+MSA 3: Eye Clinic<br>
+MSA 4: Eye Clinic<br>
+MSA 5: Eye Clinic
+
+Nurse 1: Eye Clinic<br>
+Nurse 2: Eye Clinic<br>
+Nurse 3: Eye Clinic 
 
 ### Pre-Check-In
 
@@ -88,7 +95,9 @@ MSA 2: No change.
 **Has mobile check-in affected the Veteran experience? If so, how?**
 
 MSA 1: n/a<br>
-MSA 2: No change.
+MSA 2: No change.<br>
+MSA 3: Frustrates the veterans that don’t want to do it. The more tech savvy veterans like it.<br>
+MSA 4: More veterans dislike it. Only about 20% of their patients like it.
 
 **Have Veterans reported any specific check-in feedback to you?**
 
@@ -96,7 +105,7 @@ MSA 1: n/a<br>
 MSA 2: No.<br>
 MSA 3: It is inconvenient. They have to learn something new. They just want to get checked in and don’t want to use their own phone. If the government wants them to check-in with a phone then the government should provide a phone to the veteran.<br>
 MSA 4: Veterans would like to be forewarned about the new process of e-check-in.<br>
-MSA 5: Extra work assisting veterans with e-check-in.
+MSA 5: Extra work assisting veterans with e-check-in. It is difficult because clinic is beneath the X-ray department and cellular service is spotty in this location.
 
 **Do you know how quickly they’ve been receiving the check-in link after texting “check-in”?**
 
@@ -106,7 +115,9 @@ MSA 2: About 2 seconds.
 **Has it made an impact on complaints about long wait times? Or impacted the number of Veterans in the waiting room who haven’t been checked in?**
 
 MSA 1: Improved when the system is functioning adequately.<br>
-MSA 2: If the Veteran comes in right before their appointment the wait is longer because they have learn how to do e-check-in which is a new process for them.
+MSA 2: If the Veteran comes in right before their appointment the wait is longer because they have learn how to do e-check-in which is a new process for them.<br>
+MSA 3: It has increased older veteran’s frustration. Younger veterans have fewer complaints.<br>
+MSA 4: Some vets turn around and go home and don’t even try and won’t check in with the MSA. When they have a chance to help the veteran, he is already gone.
 
 **Overall, what do you like about the check-in?**
 
@@ -118,7 +129,8 @@ MSA 3: Pre-check is already completed by the veteran.
 
 MSA 1: n/a<br>
 MSA 2: Nothing.<br>
-MSA 3: Vets don’t want to learn something new.
+MSA 3: Vets don’t want to learn something new.<br>
+MSA 4: e-check-in should not be in the eye clinic. The veteran is coming there because they can’t see.
 
 **What would you change about it?**
 
@@ -131,6 +143,8 @@ MSA 2: Sometimes the process is very slow.
 
 MSA 1: Yes – primary care<br>
 MSA 2: All of the providers do phone appointments. They encourage face to face or VVS appointments. She puts the patient’s preference first.
+MSA 3: n/a<br>
+MSA 4: No. 
 
 **What type of appointments can be scheduled for phone?**
 
@@ -169,30 +183,53 @@ MSA 2: No change.
 MSA 1: What is a patient record flag? VS GUI – sometimes is going so fast they don’t look at the flags. Not many veterans at this practice/clinic have patient flags. MSAs know who the patients are and their needs.<br>
 MSA 2: Doesn’t use patient flags.
 
+Nurse 1: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. <br>
+Nurse 2: They see the patient flag pop ups and acknowledge them and act on the flags accordingly. 
+
 **Where do you see the flag and how do you respond?**
 
 MSA 1: VS GUI. Usually they breeze past them since the know their patient and their patient’s needs.<br>
 MSA 2: n/a
+
+Nurse 1: They see the patient flags in CPRS. They acknowledge the flags and act on them accordingly.<br>
+Nurse 2: They see the patient flags in CPRS. They acknowledge the flags and act on them accordingly.<br>
+Nurse 3: They see the flags in CPRS, acknowledge them and act on them accordingly.
 
 **Do you use national or local flags? Both?**
 
 MSA 1: Doesn’t know the difference. They use behavioral flags.<br>
 MSA 2: n/a
 
+Nurse 1: Both. <br>
+Nurse 2: Both. <br>
+Nurse 3: Both. 
+
 **If patient record flags were added to VSE for Clinical Staff, where/when would you want to see them?**
 
 MSA 1: VSECS on the appointment list screen. She expressed she doesn’t want a pop-up. She prefers it be an indicator on the screen, maybe an info button with hover text.<br>
 MSA 2: An indicator by the patient’s name.
+
+Nurse 1: Would like an indicator by the patient name in VSE-CS.<br>
+Nurse 2: Yes, patient flags in VSECS would be helpful.<br>
+Nurse 3: Patient flags are not useful in VSECS. If flags are implemented she would like to see an indicator by the patient name or a new column. The flag should pop up when patient checks in.
 
 **Would you want only behavioral flags or all patient flags?**
 
 MSA 1: Behavioral.<br>
 MSA 2: n/a
 
+Nurse 1: All. <br>
+Nurse 2: All. <br>
+Nurse 3: All. 
+
 **Is there any other patient information you would want to be alerted to that isn’t already in VSE for Clinical Staff?**
 
 MSA 1: Patient needs like wheelchair, low vision, etc would be helpful.,br>
 MSA 2: None.
+
+Nurse 1: Difficult for nurses to see what they need. They have an eye tech but there is no “eye tech” or “other” in the workflow options drop down list.<br>
+Nurse 2: Last 4 of SSN would be helpful. Would like to see all alerts. Allowing check-in for multiple appointments is a problem because the patient may be in another clinic or location, not in the eye clinic. She would like the ability to assign the workflow to a specific user so the provider knows which nurse to look for to find the patient instead of having to track down each nurse individually to locate the patient.<br>
+Nurse 3:  Last 4 SSN. Alert of status changes – highlight the row. Workflow is ok.
 
 ### Appointment Notifications
 
