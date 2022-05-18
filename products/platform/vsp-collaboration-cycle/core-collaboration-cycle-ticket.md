@@ -160,22 +160,22 @@ Examples of **research with VA.gov users** include:
 
   Platform guidance on [Midpoint Review artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html#Midpointreview-Artifacts)
   
-Design and research artifacts
+**Design and research artifacts**
 
 - Finalized design prototype or mockup: 
 - Research plan: 
 - Conversation guide: 
   
-IA artifacts
+**IA artifacts**
 
 - GitHub ticket for any relevant IA work: 
  
-Content artifacts
+**Content artifacts**
   
 - Your product’s content source of truth: 
 - Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable): 
 
-QA artifacts
+**QA artifacts**
   
 [Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
@@ -227,17 +227,17 @@ QA artifacts
   
   Platform guidance on [Staging Review artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html#Stagingreview-Artifacts)
   
-*Product artifacts*
+**Product artifacts**
   
 - Release plan with the "Planning" sections completed:             <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
 - Staging URL and staging test user information:                   <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
   
 **Note:** Please double-check that you've provided staging access information appropriate for testing the tool or feature. Don't put staging credentials in your va.gov-team ticket; Don't put staging credentials in your va.gov-team ticket; store [test user information, passwords, and tasks](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md) in a .md file in the va.gov-team-sensitive repository.
 
-*Content artifacts*
+**Content artifacts**
 - Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
   
-*QA artifacts*
+**QA artifacts**
 
 [Learn more about QA artifacts](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-artifacts.1906999390.html)
 
@@ -245,7 +245,7 @@ QA artifacts
 - [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12): 
 - [Summary (Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14): 
   
-*Accessibility artifacts*
+**Accessibility artifacts**
   
 - [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc):  **(Preferred)** OR, 
 - Document in your product folder that indicates all required checks from the [how to prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html) doc are complete: 
