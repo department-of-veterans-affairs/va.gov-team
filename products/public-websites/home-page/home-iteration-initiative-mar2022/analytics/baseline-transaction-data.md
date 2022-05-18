@@ -22,7 +22,7 @@ Mar 2022	|	12.5 M | 4,004,631	|	1:46
 ---
 _data from [VA.gov Performance Dashboard](https://www.va.gov/performance-dashboard/) collected May 18, 2022_
 Month	|	Logged in users	|	CSAT	
----	|	---	|	--:	|	--:	|	
+---	|	--:	|	--:	|	
 Aug 2021	|	1,376,158	|	64.1 |
 Dec 2020	|	1,358,375	|	63.6 |
 Mar 2022	|	1,385,378 |	58.8 |	
