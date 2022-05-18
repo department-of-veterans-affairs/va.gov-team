@@ -34,7 +34,7 @@
     - new deadline for when this work should be completed
     - timing for reminder email 
     - if more comprehensive audit needed after the deadline
-    - if we have any other research questions should should be explored
+    - if we have any other research questions that need to be explored
 
 ### Recurring events update
 
