@@ -5,10 +5,10 @@ https://us06web.zoom.us/rec/share/xpwEVQAqvOcNj39HOesKp8BnwLC7rQDsYAN4v7QxGP7gKE
 Passcode: D^d5H5%+
 
 <h3>Demo Agenda</h3>
-New error and confirmation page layouts- *Bethany Dunfield, Brian Seek*<br>
-Load Testing update- *Gaurav Gupta*<br>
-Generic error page for cancelled appointments, Confirmation page for user accessing Pre-Check-In who already completed it- *Adrian Rollett*<br>
-Load testing specific to vets-api *Kanchana Suriyamoorthy*<br>
-Updates on engineering support *Adrian Rollett*<br>
-Updates on User Experience Research activities *various UX team members*<br>
+New error and confirmation page layouts- <i>Bethany Dunfield, Brian Seek</i><br>
+Load Testing update- <i>Gaurav Gupta</i><br>
+Generic error page for cancelled appointments, Confirmation page for user accessing Pre-Check-In who already completed it- <i>Adrian Rollett</i><br>
+Load testing specific to vets-api- <i>Kanchana Suriyamoorthy</i><br>
+Updates on engineering support- <i>Adrian Rollett</i><br>
+Updates on User Experience Research activities- <i>various UX team members</i><br>
 FedHealthIT award received for Check-In Experience! 
