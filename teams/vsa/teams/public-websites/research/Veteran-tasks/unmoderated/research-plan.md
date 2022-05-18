@@ -52,8 +52,8 @@ We would like to get complete survey responses from **at least 30 Veterans and o
 
 We would like Perigean to recruit **63** people using the cohorts below in order to get at least **30 completes (ideally 40-50)**.
 Overall, we would like to get about 
-- **2/3 Veterans** and **1/3 Veterans' family members or caregivers, survivors, or service members**
-- At least **1/2 with experience using some VA benefits/services** and 20% without such experience but interest in some
+- 2/3 Veterans and 1/3 Veterans' family members or caregivers, survivors, or service members
+- At least 1/2 with experience using some VA benefits/services and 20% without such experience but interest in some
 
 ### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
@@ -61,18 +61,18 @@ Overall, we would like to get about
 
 ### DRAFT COHORTS (63 people in 8 cohorts)
 
-- 9 Veterans *not using VA healthcare* but using at least one of education, career services, disability, housing, pension, life insurance, or burial
+- **9 Veterans** who have *NO experience with VA healthcare* but do have *experience with at least one of education, career services, disability, housing, pension, life insurance, or burial benefits*
 
-- 9 Veterans using disability benefits
-- 6 Veterans using education benefits or career services
-- 6 Veterans using housing, pension, life insurance, or burial benefits
+- **9 Veterans** who have *experience with disability benefits*
+- **6 Veterans** who have *experience with at least one of education benefits or career services*
+- **6 Veterans** who have *experience with at least one of housing, pension, life insurance, or burial benefits*
 
-- 9 Veterans *not using any VA benefits* but interested in some
+- **9 Veterans** who have *NO experience with any VA benefits* but are interested in some
 
-- 9 Non-Veterans using any of health care, education, career services, disability, housing, pension, life insurance, or burial
-- 9 Non-Veterans *not using any VA benefits*
+- **9 Non-Veterans** who have *experience with at least one of health care, education, career services, disability, housing, pension, life insurance, or burial benefits*
+- **9 Non-Veterans** who have *NO experience with any VA benefits* but are interested in some
 
-- 6 Anyone using any of health care, education, career services, disability, housing, pension, life insurance, or burial
+- **6 Anyone** who has *experience with at least one of health care, education, career services, disability, housing, pension, life insurance, or burial benefits*
 
 ### END OF DRAFT
 
