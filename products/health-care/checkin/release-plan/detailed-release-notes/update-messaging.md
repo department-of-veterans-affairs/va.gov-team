@@ -25,9 +25,9 @@ Veterans will see more detailed informational messages in these scenarios
 
 ### Error Messages
 
-Veterans will see more detailed and highlighted error messages in these scenarios
+Veterans will see more detailed and visually highlighted error messages in these scenarios
 
-- When they receive an error during Pre-Check-in, they will see information explaining the purpose for Pre-Check-in
+- When they are unable to complete Pre-Check-in, they will see information explaining the purpose for Pre-Check-in
 
 ![image](https://user-images.githubusercontent.com/86678742/168909335-73192e05-bdc6-4ebb-8748-91c871c4c4ea.png)
 
