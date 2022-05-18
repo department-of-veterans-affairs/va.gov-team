@@ -1,7 +1,6 @@
 # Baseline homepage event data 
 
 ## Table of contents
-[Traffic to the homepage and log-in rates](#traffic-to-the-homepage-and-login-rates)
 
 [Summary of observations by benefit category](#summary-of-observations-by-benefit-category)
 
@@ -29,21 +28,6 @@
 
 [Data visualizations](#data-visualizations) 
 
-
-## Traffic to the homepage and login rates
-_data from [DOMO](https://va-gov.domo.com/page/1030131175/kpis/details/1478718344) collected April 2022_
-
-Month	|	Unique visitors to VA.gov	|	Unique pageviews	|	Average time on page (min)
----	|	---	|	--:	|	--:	|	
-Dec 2020	|	14.37 M (peak)	|	3,416,305	|	:58
-Aug 2021	|	10.36 M	|	4,238,486	|	2:31
-Mar 2022	|	12.5 M | 4,004,631	|	1:46
-
-Month	|	Unique login	|	% logged in	|	CSAT	
----	|	---	|	--:	|	--:	|	
-Dec 2020	|	2.27 M	|	7.00%	|	67.9 (peak)	|
-Aug 2021	|	3.64 M (peak)	|	12.3% (peak)	|	64.1	|
-Mar 2022	|	3.29 M	|	9.90%	|	58.8 |	
 
 ## Event data 
 
