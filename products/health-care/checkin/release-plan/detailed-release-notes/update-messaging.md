@@ -45,7 +45,8 @@ Veterans will see more detailed and visually highlighted error messages in these
 
 - When an unexpected error occurs during Pre-Check-in
 
-![image](https://user-images.githubusercontent.com/86678742/169086193-004e1df9-682c-4c37-a0cf-66fb015f1c0a.png)
+![image](https://user-images.githubusercontent.com/86678742/169086316-10859806-28c3-41a1-bcf1-fe46259e6fac.png)
+
 
     
 
