@@ -27,7 +27,7 @@
 ### Top task pages update
 
   - launched May 5
-  - STATUS: 21% Register | 25% Billing and insurance | 19% Medical records
+  - 21% Register | 25% Billing and insurance | 19% Medical records
   - broken link issue
 
   - DECISIONS NEEDED: 
