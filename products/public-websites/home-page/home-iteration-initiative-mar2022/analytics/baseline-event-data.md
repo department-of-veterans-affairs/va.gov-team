@@ -31,7 +31,7 @@
 
 ## Event data 
 
-The following data represents unique mobile and desktop events _by category_ during 3/24/2021 - 4/22/2021 and 3/24/2022 - 4/22/2022 as reported in Google analytics. 
+The following data represents unique mobile and desktop events on the VA.gov home page, _by category_ during 3/24/2021 - 4/22/2021 and 3/24/2022 - 4/22/2022 as reported in Google analytics. 
 
 ### Summary of observations by benefit category 
 
