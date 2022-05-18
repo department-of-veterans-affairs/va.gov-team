@@ -17,6 +17,7 @@
 ### Facilities COVID status update
 
   - FINALIZE: launch email language for delivery around 4:30 pm today
+  - what will appear if no status set for March 23
 
   - DECISIONS NEEDED: 
     - should there be a reminder email next week
