@@ -21,6 +21,7 @@
 
   - DECISIONS NEEDED: 
     - should there be a reminder email next week
+    - could VHADM do short reminder on MS Teams
     - what is the compliance protocol if statuses not set
   - Demo of audit tool
   - Demo of announcement block (Rachel)
