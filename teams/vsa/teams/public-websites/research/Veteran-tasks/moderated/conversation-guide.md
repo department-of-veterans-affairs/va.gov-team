@@ -37,13 +37,18 @@
 ## Intro - 5 minutes
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
-I have some colleagues on the line observing and taking notes. Today we're going to talk about what kinds of activities--if any--that you do with the VA.
+
+I have a colleague with us in this session who will be taking notes. 
+
+Today we're going to talk about what kinds of activities--if any--that you do with the VA.
 
 Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
+- There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
+  - *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -92,7 +97,7 @@ I have a survey that I'd like you to do on your computer while sharing your scre
 
 While you're doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3wpDB5C** (**PILOT **bit.ly/38CSecP**) 
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3wpDB5C** (**PILOT bit.ly/38CSecP**) 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
