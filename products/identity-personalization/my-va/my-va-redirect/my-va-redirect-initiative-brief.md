@@ -8,7 +8,7 @@ Evaluate how My VA performs as a personalized logged in homepage via redirect. T
 - My VA | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#product-outline-my-va) 
 
 ## Problem
-Our mission is to elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses, complete necessary tasks and take action where needed. The current logged in homepage on VA.gov lacks elements of personalization that enable them to do that as effectively and efficiently as possible.
+Our mission is to elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses, complete necessary tasks and take action where needed. The current logged in homepage on VA.gov lacks elements of personalization that enable Veterans to access the information they need and perform tasks as effectively and efficiently as possible.
 
 ---
 ## Measuring Success
@@ -105,23 +105,15 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
-
-- **Value Risks** (will people use it): 
-  1. Will we be able to tell tell if people are using it/like the redirect (e.g. Medallia)
 
 
-- **Usability Risks** (can people figure out how to use it):
-  1. What will the nature of redirect be? How to do it in the least jarring way, and track that experience appropriately?
-
-  
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  1. Can My VA handle traffic is the personalized logged in homepage?
-  2. Nature of redirect (see Usability risk above)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  1.  Who do we need to get support/champions for us, who is going to be opposed?
+| Risk Category | Risk | How will we validate/test/prep against this risk? | Comments |
+|--------|--------|---------|---------|
+| Value Risk (will people use it) | Will we be able to tell tell if people are using it/like the redirect? | Ensure Medallia is in place, functioning properly to capture feedback | |
+| Usability Risks (can people figure out how to use it)| What will the nature of redirect be? How to do it in the least jarring way, and track that experience appropriately? |    |
+|(Technical) Feasibility Risks (can we build it with available tech/data)| Can My VA handle traffic is the personalized logged in homepage? |  | |
+|(Technical) Feasibility Risks (can we build it with available tech/data)| What is the nature of the redirect? |  | |
+| Organizational Viability Risks/Constraints (will there be a positive organizational impact?)| Who do we need to get support/champions for us, who is going to be opposed? |   | |
 
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
@@ -167,8 +159,8 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
+- Team Name: Authenticated Experience My VA
+- GitHub Label(s): my-va-redirect
 - Slack channel: 
 - Product POCs:
 
