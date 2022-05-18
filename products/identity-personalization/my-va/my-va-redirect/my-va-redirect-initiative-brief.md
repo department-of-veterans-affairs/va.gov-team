@@ -115,8 +115,6 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 |(Technical) Feasibility Risks (can we build it with available tech/data)| What is the nature of the redirect? |  | |
 | Organizational Viability Risks/Constraints (will there be a positive organizational impact?)| Who do we need to get support/champions for us, who is going to be opposed? |   | |
 
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
 For Veterans who login from the homepage, implement a redirect to send them to My VA instead of landing on the logged in homepage post login. Begin a phased launch of this redirect to 25% of Veterans for ~1 week and evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week. Based on inital phased rollout make adjustments to My VA as needed and then continue phased launch to 50% of users, similarly for approximately 1 week. Again, monitor and make adjustments as needed, and continue phased launch to 100% of users. Once we have achieved 100% rollout, monitor analytics closely for 1 month to evaluate performance. It is important to reiterate that this initiative is not a replacement of the existing logged in homepage.
