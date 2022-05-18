@@ -1,6 +1,7 @@
-Onsite Notifications QA Strategy
+# Onsite Notifications QA Strategy
+See [#34543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34543) for reference
 
-Initial planning/strategy questions:
+## Initial planning/strategy questions:
 
 | Question | Answer |
 |------|-------|
