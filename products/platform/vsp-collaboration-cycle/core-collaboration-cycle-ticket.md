@@ -232,14 +232,14 @@ QA artifacts
 - Release plan with the "Planning" sections completed:             <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
 - Staging URL and staging test user information:                   <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
   
-**Note:** Please double-check that you've provided staging access information appropriate for testing the tool or feature. Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
+**Note:** Please double-check that you've provided staging access information appropriate for testing the tool or feature. Don't put staging credentials in your va.gov-team ticket; Don't put staging credentials in your va.gov-team ticket; store [test user information, passwords, and tasks](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md) in a .md file in the va.gov-team-sensitive repository.
 
 *Content artifacts*
 - Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
   
 *QA artifacts*
 
-[Learn more about QA artifacts]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-artifacts.1906999390.html)
+[Learn more about QA artifacts](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-artifacts.1906999390.html)
 
 - Product test cases/test plan in TestRail with test execution logs: 
 - [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12): 
@@ -248,7 +248,7 @@ QA artifacts
 *Accessibility artifacts*
   
 - [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc):  **(Preferred)** OR, 
-- Document in your product folder that indicates all required checks from the [how to prepare for an accessibility staging review]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html) doc are complete: 
+- Document in your product folder that indicates all required checks from the [how to prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html) doc are complete: 
 - List of known issues with links to tickets (when applicable)
   
 ##### Platform actions
