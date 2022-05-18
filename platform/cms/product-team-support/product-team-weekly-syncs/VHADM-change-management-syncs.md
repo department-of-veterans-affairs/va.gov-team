@@ -28,7 +28,7 @@
 
   - launched May 5
   - 21% Register | 25% Billing and insurance | 19% Medical records
-  - broken link issue
+  - broken link issue reported in MS Teams Tues am, resolved Tues pm
 
   - DECISIONS NEEDED: 
     - new deadline for when this work should be completed
