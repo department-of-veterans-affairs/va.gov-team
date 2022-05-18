@@ -18,6 +18,7 @@
 
   - FINALIZE: launch email language for delivery around 4:30 pm today
   - what will appear if no status set for March 23
+  - what should editors put in the "operating status - more info" field (how best to use this field)
 
   - DECISIONS NEEDED: 
     - should there be a reminder email next week
