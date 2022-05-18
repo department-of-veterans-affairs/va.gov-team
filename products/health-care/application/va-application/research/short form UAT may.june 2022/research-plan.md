@@ -68,9 +68,8 @@ We would like to work with Perigean to recruit for X fulfilled remote sessions. 
 ## When? 	
 Desired Timeline: TBD, 2022
 
-Session length: 2 hours for screenreader participants, 1 hour for non-screenreader participants. Please leave 30 minutes in between each session, and only recruit for a meximum of 4 participants a day.
+Session length: 45 minutes
 
-Notetaking: TBD (will be handled by the Caregiver team)
 	
 Team Availability | Time (EST)
 ------------------|--------------
