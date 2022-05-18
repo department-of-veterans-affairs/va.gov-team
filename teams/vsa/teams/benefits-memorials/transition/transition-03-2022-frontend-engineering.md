@@ -52,8 +52,13 @@ Form 526 has around a 97% successful submission rate. The unsuccessful submissio
 
 ### Outstanding tickets
 
-- Pending
+- In Progress
   - [ ] Fix typo in schema ([#29394](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29394)) - minor change, but needs coordination
+  - [ ] Remove feature flags & associated code:
+    - [ ] `show526_wizard` (for when the wizard was moved from intro page to `/start`)
+    - [ ] `evss_upload_limit_150mb` (code in the CST as well)
+    - [ ] `request_locked_pdf_password`
+
 - Needs review/stakeholder review
   - [ ] Page reorder ([#36028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36028))
   - [ ] New contention ([#1638](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1638)) - no idea on status
@@ -82,10 +87,6 @@ Form 526 has around a 97% successful submission rate. The unsuccessful submissio
   - [ ] Lighthouse may add [disability list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/content/disabilityLabels.js) as an API endpoint
   - [ ] Facilities endpoint for search (disabled as the API was shutdown). Maybe use the facilities search API?
   - [ ] Release 8940/4192 into production. Feature flag `subform_8940_4192`
-  - [ ] Remove feature flags & associated code:
-    - [ ] `show526_wizard` (for when the wizard was moved from intro page to `/start`)
-    - [ ] `evss_upload_limit_150mb` (code in the CST as well)
-    - [ ] `request_locked_pdf_password`
   - There is a plan to either change the wizard to have one question per page, or completely remove it and incorporate wizard questions into the form flow.
   - Discussion & discovery around providing the Veteran a PDF filled in with all of the data they entered if the submission should fail. Maybe provide this on the confirmation page so the Veteran has a record?
   - Consider splitting off subforms into separate forms, or at least make the subforms into separate chapters
