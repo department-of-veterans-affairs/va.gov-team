@@ -18,9 +18,11 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to survey: https://bit.ly/3FG0eFT (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=M)*
+- *Open a standalone browser window to survey: **https://bit.ly/3wpDB5C** (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0?token=M)*
 
-- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://bit.ly/3FG0eFT*
+- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://bit.ly/3wpDB5C*
+
+- **FOR PILOT ONLY:  https://bit.ly/38CSecP (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0?token=P)**
 
 - *Do Not Disturb ON so no notifications*
 
@@ -90,13 +92,13 @@ I have a survey that I'd like you to do on your computer while sharing your scre
 
 While you're doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
-- *(refer to Screen sharing instructions above, if needed)*
-
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on (https://bit.ly/3FG0eFT) *(with a zero, not the letter "o")*. 
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3wpDB5C** (**PILOT **bit.ly/38CSecP**) 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
+
+I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
+- *(refer to Screen sharing instructions above, if needed)*
 
 ## Do the survey
 
