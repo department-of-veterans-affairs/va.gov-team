@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+### NOTE:
+This template is being deprecated. If your kickoff meeting took place after 5/22/2022, You should use the new template [Link TK] instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
+
 # Steps to complete Staging Review
 
 ## Before meeting
