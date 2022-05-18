@@ -3,6 +3,7 @@ Onsite Notifications QA Strategy
 Initial planning/strategy questions:
 
 | Question | Answer |
+|------|-------|
 |1. When will our work be done?| |
 |2. When will VA Notify's work be done?| |
 |3. Does VANotify need to be part of this? If so, who on their team should participate?| |
