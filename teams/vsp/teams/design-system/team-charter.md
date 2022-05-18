@@ -68,12 +68,13 @@ Source of Truth Problem Statement
 
 ### Team Members:
 
-- OCTODE Product Lead: Kevin Hoffman 
-- VA Design Lead: Ryan Thurlwell
+- OCTODE Product Lead: Matthew Dingee 
 - Product Manager: Carol Wong
 - UX Designer: Natalie Hill
-- Engineering Lead: Christopher Valarida
+- Engineering Lead: Katy Bowman
 - Engineer: Brooks Johnson
+- Engineer: Preston Davies
+- Engineer: Andrés Rivera Toro
 
 ------
 
@@ -136,7 +137,7 @@ This is our main means of communication with each other. Keep as much conversati
 
 Private Team Slack channel: #vsp-design-system-team
 
-Public Design System Slack channel: #vsp-design-system
+Public Design System Slack channel: #platform-design-system
 
 #### GitHub
 
