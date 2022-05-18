@@ -61,10 +61,10 @@ Overall, we would like to get about
 
 ### DRAFT COHORTS (63 people in 8 cohorts)
 
-- **9 Veterans** who have *NO experience with VA healthcare* but do have *experience with at least one of education, career services, disability, housing, pension, life insurance, or burial benefits*
+- **9 Veterans** who have *NO experience with VA health care* but do have *experience with at least one of education, career services, disability, housing, pension, life insurance, or burial benefits*
 
 - **9 Veterans** who have *experience with disability benefits*
-- **6 Veterans** who have *experience with at least one of education benefits or career services*
+- **6 Veterans** who have *experience with education benefits or career services*
 - **6 Veterans** who have *experience with at least one of housing, pension, life insurance, or burial benefits*
 
 - **9 Veterans** who have *NO experience with any VA benefits* but are interested in some
