@@ -225,6 +225,8 @@ QA artifacts
   
 **Staging Review artifacts**
   
+  Platform guidance on [Staging Review artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html#Stagingreview-Artifacts)
+  
 *Product artifacts*
   
 - Release plan with the "Planning" sections completed:             <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
@@ -232,9 +234,12 @@ QA artifacts
   
 **Note:** Please double-check that you've provided staging access information appropriate for testing the tool or feature. Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
 
+*Content artifacts*
+- Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
+  
 *QA artifacts*
 
-[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
+[Learn more about QA artifacts]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-artifacts.1906999390.html)
 
 - Product test cases/test plan in TestRail with test execution logs: 
 - [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12): 
@@ -243,8 +248,8 @@ QA artifacts
 *Accessibility artifacts*
   
 - [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc):  **(Preferred)** OR, 
-- Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete: 
-- List of known issues: 
+- Document in your product folder that indicates all required checks from the [how to prepare for an accessibility staging review]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html) doc are complete: 
+- List of known issues with links to tickets (when applicable)
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Staging Review meeting
@@ -262,12 +267,11 @@ QA artifacts
 - [ ] Update this ticket with the Zoom recording
   - Recording: 
   - Password:
-- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
   
 - [ ] Respond to feedback tickets
-- [ ]  Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
+- [ ] Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment on this ticket.
 - [ ] Update Staging Review ticket with the product’s launch date after it has gone live
 
 </details>
