@@ -30,7 +30,7 @@ Hello,
 
 The VA.gov team at the Department of Veterans Affairs is conducting research to learn what VA-related tasks are most important to you.
 
-We are looking for caregivers of Veterans who are interested in participating in an online survey to help us understand your preferences.
+We are looking for people who are interested in participating in an online survey to help us understand your preferences.
 
 **What will I be doing in this survey?** 
 
@@ -74,7 +74,7 @@ Hello,
 
 The VA.gov team at the Department of Veterans Affairs is conducting research to learn what VA-related tasks are most important to you.
 
-We are looking for caregivers of Veterans who are interested in VA benefits or services, and would like to participate in an online survey to help us understand your preferences. 
+We are looking for people who are interested in VA benefits or services, and would like to participate in an online survey to help us understand your preferences. 
 
 **What will I be doing in this survey?** 
 
