@@ -14,7 +14,7 @@
 
 Veterans will see more detailed informational messages in these scenarios
 
-- When they complete Pre-Check-in but indicate their contact, emergency contact and/or next of kin information is out of date
+- When they complete Pre-Check-in but indicate their contact, emergency contact and/or next of kin information is out of date; they will be directed to check-in with  a staff member on the day of their appointment and update their information at that time or update their information in their VA account (personal contact information only)
 
 ![image](https://user-images.githubusercontent.com/86678742/168909755-40460202-8286-4c50-8b99-35cc265f2caf.png)
 
