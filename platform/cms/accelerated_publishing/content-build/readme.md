@@ -45,13 +45,13 @@ The `use_latest_release` parameter being set to `true` is what defines this Auto
 
 </details>
 
-This `use_latest_release` parameter indicates that rather than checking out the latest code in content-build (master branch), the build job should check out the code behind the [latest content-build release on GitHub](https://github.com/department-of-veterans-affairs/content-build/releases).
+This `use_latest_release` parameter indicates that rather than checking out the latest code in content-build (main branch), the build job should check out the code behind the [latest content-build release on GitHub](https://github.com/department-of-veterans-affairs/content-build/releases).
 
 Also observe that the `prerelease_job` parameter is set (by default, and probably shouldn't ever be changed) to `builds/content-build-content-only-vagovprod`, which refers to the Content Only Build.
 
 These parameters are passed to and processed throughout the [Auto-Deploy script](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/Jenkinsfiles/deploys/warn-release-deploy#L11). Together, the `use_latest_release` and `prerelease_job` parameters direct the Auto-Deploy to grab the commit SHA of the  latest _release_ (not the latest commit) in content-build, then pass that commit SHA to the job for executing a Content Only Build.
 
-Tracing further, the [Content Only Build](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy#L1368) will execute the [`Jenkinsfile` in content-build](https://github.com/department-of-veterans-affairs/content-build/blob/master/Jenkinsfile), which contains the logic for executing the content-build static website generator. This will result in a new archive of the latest content-build release rebuilt to contain the latest content from the CMS.
+Tracing further, the [Content Only Build](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy#L1368) will execute the [`Jenkinsfile` in content-build](https://github.com/department-of-veterans-affairs/content-build/blob/main/Jenkinsfile), which contains the logic for executing the content-build static website generator. This will result in a new archive of the latest content-build release rebuilt to contain the latest content from the CMS.
 
 ## The Content Build
 
@@ -61,4 +61,4 @@ The _Content Build_ refers to a specific process in the front-end repo that exec
 
 The tool behind the static website generator is [Metalsmith](https://metalsmith.io/). In general, Metalsmith is a simple library that accepts a local directory of content as an input (in the case of content-build, the original input is a sibling GitHub repository named vagov-content, which contains Markdown file), processes that original input throughout some steps known as "plugins", and then outputs the resultant directory of static HTML and other assets to the file system.
 
-The Metalsmith API for creating plugins is very simple and flexible - content-build has _many_. In the entry point for executing Metalsmith in content-build (usually referred to as the [build script](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/stages/build/index.js)), observe that each plugin is registered using the `metalsmith.use` function.
+The Metalsmith API for creating plugins is very simple and flexible - content-build has _many_. In the entry point for executing Metalsmith in content-build (usually referred to as the [build script](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/stages/build/index.js)), observe that each plugin is registered using the `metalsmith.use` function.

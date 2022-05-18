@@ -137,6 +137,6 @@ Engineering, Cypress.io.
 
 [platform-flaky-tests]: https://depo-platform-documentation.scrollhelp.site/developer-docs/Flaky-test-management-in-Cypress.1870430218.html
 [cth-readme]:
-https://github.com/department-of-veterans-affairs/vets-website/tree/master/script/cypress-testrail-helper
+https://github.com/department-of-veterans-affairs/vets-website/tree/main/script/cypress-testrail-helper
 [bahmutov-intercepts-article]:
 https://glebbahmutov.com/blog/cypress-intercept-problems/

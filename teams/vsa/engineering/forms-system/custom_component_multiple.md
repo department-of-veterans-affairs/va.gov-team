@@ -6,9 +6,9 @@ Based mostly on [bradl3yC](https://github.com/bradl3yC)'s write-up of his initia
   - Using a custom component requires that you pass in a schema for that component. It essentially maps a small slice of form state to the component. Because the same component is used twice but we are passing in a different schema, each of those components only has access to its own individual schema/form state. (Read [Background: The Original Problem](#background-the-original-problem) for further details.)
 
 ## The Solution/Hack:
-Take the custom React widget and connect it to Redux. After it is connected to Redux, map state to the entire form state so it can see the form state of other components.  From there, we need to be able to update form state for events we've added to the custom widget. We are leveraging *setData* located in [platform/forms-system/src/js/actions.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/forms-system/src/js/actions.js). We basically looked at what data the form system would send it naturally and mimicked it in our own *onChange* event here: https://github.com/department-of-veterans-affairs/vets-website/pull/12295/files#diff-e840e38183aa55fb387f1af118cd752bR92
+Take the custom React widget and connect it to Redux. After it is connected to Redux, map state to the entire form state so it can see the form state of other components.  From there, we need to be able to update form state for events we've added to the custom widget. We are leveraging *setData* located in [platform/forms-system/src/js/actions.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms-system/src/js/actions.js). We basically looked at what data the form system would send it naturally and mimicked it in our own *onChange* event here: https://github.com/department-of-veterans-affairs/vets-website/pull/12295/files#diff-e840e38183aa55fb387f1af118cd752bR92
 
-*[src/applications/disability-benefits/2346/components/ReviewCardField.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/2346/components/ReviewCardField.jsx)*
+*[src/applications/disability-benefits/2346/components/ReviewCardField.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/2346/components/ReviewCardField.jsx)*
 
 ```
 import { connect } from 'react-redux';
@@ -51,7 +51,7 @@ export default connect(
 ## Side-Effect: Extra Component
 You still need to pass in a schema that accounts for the data you want to modify with the form system. The form system will then add its own component for that data.  So you end up with an extra component. We need to hide it! The original way to do this was to leverage a *hideIf* param that exits in the *uiSchema*.  There is, however, a gotcha with this.  When you hide a component on the form, it removes its schema thus wiping out its form state. We confirmed this by digging into the underlying code a bit:
 
-*[src/platform/forms-system/src/js/state/helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/forms-system/src/js/state/helpers.js)*
+*[src/platform/forms-system/src/js/state/helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms-system/src/js/state/helpers.js)*
 
 ```
 export function removeHiddenData(schema, data) {
@@ -159,7 +159,7 @@ Here is the main conversation about it in Slack:
 We can! There's an *updateFormData* available. Put that sucker in the *uiSchema* on a field and changes to it will trigger the callback you pass it. I highly recommend thinking hard about whether you need it first, however. It's a known footgun; if you're not careful, you can make a lot of sneaky bugs for your future self.
 
 - **Cannot update form state with an onChange handler within a custom widget** \
-I'm not sure I follow what you're trying to do here, but we typically have a lot of control within custom widgets. An example custom widget I wrote a while back can be found at [src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx). If I had to guess, I'd say the thing you might be running into is just not knowing what all can be done with the props passed into it. There's...so much in there. It's very confusing. And, naturally, it's pretty much completely undocumented.
+I'm not sure I follow what you're trying to do here, but we typically have a lot of control within custom widgets. An example custom widget I wrote a while back can be found at [src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/disability-benefits/all-claims/components/SelectArrayItemsWidget.jsx). If I had to guess, I'd say the thing you might be running into is just not knowing what all can be done with the props passed into it. There's...so much in there. It's very confusing. And, naturally, it's pretty much completely undocumented.
 
 - **No way to compare current form data against original form data** \
 My initial reaction is that this smells like a problem with the approach. There may be a cleaner way to do what you need to without tracking changes over time (which I think is another footgun). 

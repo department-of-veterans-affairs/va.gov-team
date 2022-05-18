@@ -1,6 +1,6 @@
-The logic to display a banner alert is included on every page in the metalsmith build.  The [full width banner component](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/components/fullwidth_banner_alerts.drupal.liquid) is included from the [header.html](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html). The header.html component is included on every page.
+The logic to display a banner alert is included on every page in the metalsmith build.  The [full width banner component](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/components/fullwidth_banner_alerts.drupal.liquid) is included from the [header.html](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/includes/header.html). The header.html component is included on every page.
 
-Logic which tells what to display and if the alert should display are all contained within the [template](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/components/fullwidth_banner_alerts.drupal.liquid#L16d).
+Logic which tells what to display and if the alert should display are all contained within the [template](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/components/fullwidth_banner_alerts.drupal.liquid#L16d).
 
 Logic:
 * Cycle through `bannerAlert.entities`

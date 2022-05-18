@@ -6,7 +6,7 @@ Content developers will upload a file for each _story_ they are working on. Wire
 
 Developers will reference this for copy but will look to the wireframes or other prototypes for layout and behavior cues. We’ll try to keep the wires reasonably up to date with copy changes, but this should be the master reference.
 
-Updates can be commited directly to master, no need to deal with branches and merging.
+Updates can be commited directly to main, no need to deal with branches and merging.
 
 If you are making a big change, or it’s near a deadline, you can tag [@goldenmeanie](https://github.com/goldenmeanie), [@jbalboni](https://github.com/jbalboni), or [@akainic](https://github.com/akainic)
 

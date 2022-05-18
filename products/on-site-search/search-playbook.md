@@ -28,9 +28,9 @@ In order to get access to the search.gov console, you have to have a log in and 
 ### FE issues
 In the event of a front end issue with search, all of the front end code can be found in the following locations:
 - Search in the Header
-[Search Header](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchMenu.jsx)
+[Search Header](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/site-wide/user-nav/components/SearchMenu.jsx)
 - Search Results Page
-[Search App}(https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/search)
+[Search App}(https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/search)
 
 ### BE issues
 In the event of a back end issue with search, all of the back end code can be found in the following locations:

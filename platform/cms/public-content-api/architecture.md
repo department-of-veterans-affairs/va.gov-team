@@ -47,7 +47,7 @@ Option with a NodeJS layer between Drupal and the API Gateway.
 
 ### Content Build
 
-The [content_build](https://github.com/department-of-veterans-affairs/content-build) job requires an html page container for each route a React application owns.  An entry must be created in the [registry](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/applications/registry.json) to publish the application.  
+The [content_build](https://github.com/department-of-veterans-affairs/content-build) job requires an html page container for each route a React application owns.  An entry must be created in the [registry](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/applications/registry.json) to publish the application.  
 
 ### React Build
 

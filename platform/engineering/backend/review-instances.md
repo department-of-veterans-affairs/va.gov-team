@@ -123,7 +123,7 @@ Both vets-website and vets-api processes are managed via Docker Compose. The cod
 
 ### Cleanup
 
-The review instance is deleted when the non-master branch that a review instance is related to is deleted or when the instance is older than 7 days.
+The review instance is deleted when the non-main branch that a review instance is related to is deleted or when the instance is older than 7 days.
 
 ## User authentication
 

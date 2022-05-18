@@ -8,7 +8,7 @@ This documents describes how the screen at [va.gov/profile/notifications](https:
   - [TL;DR](#tldr)
   - [UI Notes](#ui-notes)
     - [Key](#key)
-    - [c. Options creation note](#c-options-creation-note)
+    - [3c. Options creation note](#3c-options-creation-note)
   - [To Expand to new Channels](#to-expand-to-new-channels)
   - [API Call](#api-call)
 
@@ -54,7 +54,7 @@ We create the radio button lists based on the following code.
 
 ## To Expand to new Channels
 
-- Edit the options list [here](<https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/components/notification-settings/NotificationChannel.jsx#L80jk>
+- Edit the options list [here](<https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/notification-settings/NotificationChannel.jsx#L80jk>
 
 ## API Call
 

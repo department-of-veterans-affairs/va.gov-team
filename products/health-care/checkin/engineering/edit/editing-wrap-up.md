@@ -12,7 +12,7 @@ The purpose of this is to document the state of the editing work as of 4/7/2022.
 - Current State
     - Front end
         - Developed POC for components to do the editing (Demographics, EC, & NOK) - shared components across these 3
-        - Code is all merged to master, in production but behind a feature flag
+        - Code is all merged to main, in production but behind a feature flag
     - Back end
         - Moving session cookie to custom cookie is done (so doesn't conflict with full auth)
         - Had discussions with Profile team

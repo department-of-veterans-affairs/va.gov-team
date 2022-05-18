@@ -8,7 +8,7 @@ In this doc, we'll walk through creating a new form and making some simple chang
 
 If you haven't already, get [vets-website](https://github.com/department-of-veterans-affairs/vets-website) set up and running on your machine.
 
-The first step after that is to get the basic scaffolding set up for a new application. We have a [generator tool](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/GeneratorOptions.md) to help you set up the files needed for the new React app and form. In the root of `vets-website`, you should install and run Yeoman and the generator:
+The first step after that is to get the basic scaffolding set up for a new application. We have a [generator tool](https://github.com/department-of-veterans-affairs/vets-website/blob/main/docs/GeneratorOptions.md) to help you set up the files needed for the new React app and form. In the root of `vets-website`, you should install and run Yeoman and the generator:
 
 ```bash
 npm install -g yo
@@ -17,7 +17,7 @@ npm install -g @department-of-veterans-affairs/generator-vets-website
 yo @department-of-veterans-affairs/vets-website
 ```
 
-You can answer the questions with the [documentation](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/GeneratorOptions.md) as a guide, or if you're just looking to try things out, here are the answers I'm using for this tutorial:
+You can answer the questions with the [documentation](https://github.com/department-of-veterans-affairs/vets-website/blob/main/docs/GeneratorOptions.md) as a guide, or if you're just looking to try things out, here are the answers I'm using for this tutorial:
 
 - What's the name of your application? This will be the default page title. `My new form`
 - What folder in `src/applications/` should your app live in? This can be a subfolder. `new-form`

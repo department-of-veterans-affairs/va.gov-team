@@ -4,7 +4,7 @@
 - The Spouses and Dependents  / Survivors spokes did not create a meaningful distinction
 - Family members were seeking the "manage" tasks in the Family Member Hub, although they were not there.
 ## What we learned
-- Validated keeping the main benefit hubs as the master source of truth for all user types
+- Validated keeping the main benefit hubs as the main source of truth for all user types
 - There is use in the Family Hub, since about 15% used it as their starting point for the tasks
 ## Recommendations
 - We need to update the Family Member Persona hub to include both the benefits specifically for the family member and the benefits that a family member might do on behalf of a Veteran.  Example spokes.

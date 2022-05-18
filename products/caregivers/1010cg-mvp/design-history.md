@@ -103,7 +103,7 @@ Outcomes
 - Terms from the 10-10CG accounted for and defined in plain language (paired with legalees when nesseracy) 
 - Added “family caregiver” to form.  
 There  was a healthy discussion between design and content regarding adding, "family caregiver" to form. Originally, designs had "primary caregiver" or "caregiver".  Content thinks we need to add family as this is the name of the program and distriques the program - I was worried that users would get tripped up over the use of "family". After consulting with team, PO, and PM it was determined to defer to content on this. 
-- Changed form labels whe needed (see master link below). 
+- Changed form labels whe needed (see main link below). 
 
 Resources
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md

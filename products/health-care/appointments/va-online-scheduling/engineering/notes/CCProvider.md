@@ -20,7 +20,7 @@ There are many different "Type of Care" classifications or taxonomies across the
 |           Taxonomy          |    Count    | Reference Documentation | Additional Notes |
 |:---------------------------:|:-----------:|:-----------------------:|:----------------:|
 | VHA                         | 95          | https://prod.cms.va.gov/vha-health-services                        | Must be on VA Network to access        |
-| VAOS                        | 6 (CC)      | https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js#L61 |  Only look at the ccID   |
+| VAOS                        | 6 (CC)      | https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/utils/constants.js#L61 |  Only look at the ccID   |
 | Lighthouse Service Types    | 14          | https://developer.va.gov/explore/health/docs/community_care?version=current                                            |  Have to drill down into parameteers to see supporter Service Types |
 | PPMS Specialty Codes        | 800+        | https://staging-api.va.gov/v1/facilities/ccp/specialties.json | This is a complete set of specialty codes from PPMS |
 | PPMS Specialty Rollup Codes | 245         | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/notes/PPMS/20201111_ppms_specialties.csv | The Rollup Codes end in 00000X |

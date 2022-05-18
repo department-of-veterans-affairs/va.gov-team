@@ -46,7 +46,7 @@ Any Github API calls will be made through the [Octokit](https://octokit.github.i
 
 The script will:
 
-- Diff the current PR branch against master
+- Diff the current PR branch against main
   - `octokit.pulls.get(...)` will be used with a [custom media type](https://developer.github.com/v3/pulls/#custom-media-types) format of `diff`
 - Loop through the diff output and mark any additions with the filename and position in the diff
 - Search the processed diff for occurrences of anything that should warrant a manual review

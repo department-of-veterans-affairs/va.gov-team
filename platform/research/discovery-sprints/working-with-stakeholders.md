@@ -1,6 +1,6 @@
 # Stakeholders 
 
-[Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/Master%20Stakeholder%20Deck%20Template.pptx) is the master stakeholder deck, which can be customized as needed. 
+[Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/Master%20Stakeholder%20Deck%20Template.pptx) is the main stakeholder deck, which can be customized as needed. 
 ### Working with Stakeholders 
 
 It's important to build trust and relationships with all stakeholders involved in a product.  When working with stakeholders, make sure to: 

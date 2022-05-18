@@ -8,7 +8,7 @@
 ## Background
 _Explain the current state of the feature._
 
-Currently, we are running terraform (plan and apply) from workstations manually. When a PR is opened, the expectation is that they add a `plan` output, it's approved, the change is `apply`'ed, then merged into master.
+Currently, we are running terraform (plan and apply) from workstations manually. When a PR is opened, the expectation is that they add a `plan` output, it's approved, the change is `apply`'ed, then merged into main.
 
 ## Motivation
 _Why do we want to change the current implementation? What problem(s) does the change solve?_
@@ -29,7 +29,7 @@ _Explain the proposed changes in enough detail so that a team member with workin
 of the project could implement the change themselves. Bonus points if this is easily mappable
 to user stories or specs._
 
-The design changes would involve implementing some form of automation that would see a new PR comparing a branch to master, run a `terraform fmt` to clean up extra or missing spaces / ensure standardized syntax, run a `terraform plan`, and paste the output of the plan to the PR as a comment. 
+The design changes would involve implementing some form of automation that would see a new PR comparing a branch to main, run a `terraform fmt` to clean up extra or missing spaces / ensure standardized syntax, run a `terraform plan`, and paste the output of the plan to the PR as a comment. 
 
 ## Risks
 _What are the risks of the proposed changes?_

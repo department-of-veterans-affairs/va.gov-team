@@ -40,13 +40,13 @@
   
 |File|Contains   |
 |---|---|
-|Testing job [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile)|configures the workflow- most of the testing calls are configured here.|
-|[Groovy file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy)|jenkins/build script call|
-|[jenkins/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/build.sh)|configures npm build script arguments|
+|Testing job [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/main/Jenkinsfile)|configures the workflow- most of the testing calls are configured here.|
+|[Groovy file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/jenkins/common.groovy)|jenkins/build script call|
+|[jenkins/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/main/jenkins/build.sh)|configures npm build script arguments|
 |`npm run build`|calls script/bash script|
-|[script/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh)|conditionally calls `yarn build:webpack` and `yarn build:content`|
-|`yarn build:webpack`|calls the webpack build using the webpack [config](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/webpack.config.js)|
-|`yarn build:content`|calls [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build-content.js) node script which is the main metalsmith build script|
+|[script/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/main/script/build.sh)|conditionally calls `yarn build:webpack` and `yarn build:content`|
+|`yarn build:webpack`|calls the webpack build using the webpack [config](https://github.com/department-of-veterans-affairs/vets-website/blob/main/config/webpack.config.js)|
+|`yarn build:content`|calls [this](https://github.com/department-of-veterans-affairs/vets-website/blob/main/script/build-content.js) node script which is the main metalsmith build script|
 
 _File order generally corresponds to call order._
   
@@ -81,8 +81,8 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
 <details>
 	<summary>Job list view</summary>
 	
-[Filtered](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) by the master branch, this view will show if there are any immediate problems with the current master branch build. 
-![master job list view](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-master-job-list-view.png)</details>
+[Filtered](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=main) by the main branch, this view will show if there are any immediate problems with the current main branch build. 
+![main job list view](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-master-job-list-view.png)</details>
 
 <details>
 	<summary>summary / detail views</summary>
@@ -103,9 +103,9 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
 <details>
 	<summary>👀 What to watch 👀</summary>
 
-### Failed [master branch jobs](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) should be restarted- investigate details if they continue to fail 
+### Failed [main branch jobs](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=main) should be restarted- investigate details if they continue to fail 
 
-![master job list restart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-master-job-list-restart.png)
+![main job list restart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-master-job-list-restart.png)
 
 ### Production deploy failure notifications in slack in #vfs-engineers
 
@@ -123,7 +123,7 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
   - Pull requests are a manual review process enabled by GitHub and are initiated by the developer through the GitHub UI. 
     - GitHub and git are separate tools. GitHub is the site that houses the git repository a and git is the tool that's used to manage changes. 
   - A pull request a business process to manage manual peer and automated system review. 
-    - Peer developers are able to review the change, engage in commentary, and approve the request for merging into the master branch in the pull request UI
+    - Peer developers are able to review the change, engage in commentary, and approve the request for merging into the main branch in the pull request UI
     - Systems can be notified about a pull request and provide change approval to the GitHub pull request process 
     - Pull requests must be both approved by peer developers and by the automated CI checks (system) before they can be merged.
   - Vets-website initiates several automated checks when a pull request is created (i.e. when GitHub notifies the continuous integration system)
@@ -140,8 +140,8 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
     - ![Required review UI](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/required-reviews.png)
     - The required reviews UI is the provides developers with an overview of the change approval 
     - It's summarizes manual and automated approvals 
-    - Once all approvals are met, the developer can click the Squash and Merge button on the reviews UI to close out their pull request and merge their change into master 
-    - Squash and merge is a specific type of merging supported by git - every change made to a branch is called a commit, and when a feature branch is merged into the master branch, we like to have developers "squash" their changes into a single commit before it's merged into master. This keeps the change history cleaner.</details> 
+    - Once all approvals are met, the developer can click the Squash and Merge button on the reviews UI to close out their pull request and merge their change into main 
+    - Squash and merge is a specific type of merging supported by git - every change made to a branch is called a commit, and when a feature branch is merged into the main branch, we like to have developers "squash" their changes into a single commit before it's merged into main. This keeps the change history cleaner.</details> 
       
 <details>
 	<summary>Typical exception flow</summary>
@@ -183,12 +183,12 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
     - Stakeholders currently watch the #vfs-engineers channel for failures announcement; acknowledge a failure as soon as possible 
     - Proactively update status of failure resolution. It's good practice to link to the jobs you are monitoring or waiting for. 
     - Escalate failures as needed to engineering leadership. 
-  - The autodeploy will wait until the latest master build finishes.
+  - The autodeploy will wait until the latest main build finishes.
     - The release will include commits up to the most recent one as of starting the job.
-    - Keeping the [master branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) job passing is a good way to avoid delaying the production deployment.
+    - Keeping the [main branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=main) job passing is a good way to avoid delaying the production deployment.
   - **Before manually running the autodeploy, make sure that the most recent commits have been deployed to staging.**
     - Production should not have commits that have not been deployed to staging.
-    - The simplest way to deploy the most recent commit to staging is to re-run the presumably failed build at the head of master until it passes.
+    - The simplest way to deploy the most recent commit to staging is to re-run the presumably failed build at the head of main until it passes.
     - You can inspect the [BUILD.txt on staging](https://staging.va.gov/BUILD.txt) to confirm what commit it's on.
 </details>
       

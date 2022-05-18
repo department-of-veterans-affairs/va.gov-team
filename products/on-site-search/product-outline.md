@@ -125,7 +125,7 @@ The search product can be found in the header of dev, staging, and production en
 
 |**Content Source**         |**Metadata**         |**Additional Details**| 
 |-----------------------|------------------------------|------------------------------|
-|Drupal (CMS)    "Modernized Content"         |[metatags.drupal.liquid](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/metatags.drupal.liquid) |Initiated in 2019,Majority of all va.gov content, Slack Channel: #csm-support  |
+|Drupal (CMS)    "Modernized Content"         |[metatags.drupal.liquid](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/includes/metatags.drupal.liquid) |Initiated in 2019,Majority of all va.gov content, Slack Channel: #csm-support  |
 |Teamsite "Legacy Content"            |[metatags.liquid](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/includes/metatags.liquid) |TBD |
 |[GH Content](https://github.com/department-of-veterans-affairs/vagov-content)             |TBD |this template in particular is used to inject meta properties throughout the whole site and injected in the [header.html](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/includes/header.html) 
 |Generated During Build (Derived from GH Content or Drupal)             |TBD |ex: sitemap xml, [sign on page](https://www.va.gov/resources/tag/sign-in/), application pages such as [find a location](https://www.va.gov/find-locations), |

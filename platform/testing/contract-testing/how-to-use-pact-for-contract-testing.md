@@ -11,48 +11,54 @@
 
 #### Table of contents
 
-- [Introduction](#introduction)
-  * [Terminology](#terminology)
-  * [Requirements](#requirements)
-  * [Workflow](#workflow)
+- [How to use Pact for contract testing](#how-to-use-pact-for-contract-testing)
+      - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Terminology](#terminology)
+    - [Requirements](#requirements)
+    - [Workflow](#workflow)
       - [Merge workflow](#merge-workflow)
       - [Front-end workflow](#front-end-workflow)
       - [Back-end workflow](#back-end-workflow)
-  + [Naming Conventions](#naming-conventions)
-- [Configuring the `vets-website` consumer codebase](#configuring-the-vets-website-consumer-codebase)
-  * [Running contract tests](#running-contract-tests)
-  * [Writing a contract test](#writing-a-contract-test)
-      - [example-app.pact.spec.js](#example-apppactspecjs)
-  * [Setting up interactions](#setting-up-interactions)
-    + [Provider states](#provider-states)
-    + [Matching](#matching)
-    + [Responses](#responses)
-    + [Optional attributes](#optional-attributes)
-    + [Optional arrays](#optional-arrays)
-  * [Troubleshooting](#troubleshooting)
-    + [Problems connecting to port 3000](#problems-connecting-to-port-3000)
-    + [Expected interactions did not match actual](#expected-interactions-did-not-match-actual)
-- [Configuring the `vets-api` provider codebase](#configuring-the-vets-api-provider-codebase)
-  * [1. Set up a provider state](#1-set-up-a-provider-state)
-    + [Using a local file if blocked by frontend](#using-a-local-file-if-blocked-by-frontend)
-    + [Expected responses](#expected-responses)
-    + [Naming Guidelines](#naming-guidelines)
-    + [Authorization](#authorization)
-    + [VCR](#vcr)
-	+ [Flipper](#flipper)
-  * [2. Adjust developer configurations](#2-adjust-developer-configurations)
-    + [Configure the `pact_uri/broker_url`](#configure-the--pact-uri-broker-url-)
-  * [3. Run the verification task](#3-run-the-verification-task)
-    + [Important: Docker workflow settings](#important--docker-workflow-settings)
-  * [4. Verify your results](#4-verify-your-results)
-  * [5. Remove developer configurations](#5-remove-developer-configurations)
-  *  [Broker matrix and tagging](#broker-matrix-and-tagging)
-  *  [CircleCI](#circleci)
-  *  [CircleCI and the Build Process](#circleci-and-the-build-process)
-     + [Deploy Strategy and Tagging](#deploy-strategy-and-tagging)
-	 + [Frontend](#frontend)
-	 + [Backend](#backend)
-  *  [Pact FAQ](#pact-faq)
+    - [Naming Conventions](#naming-conventions)
+  - [Configuring the `vets-website` consumer codebase](#configuring-the-vets-website-consumer-codebase)
+    - [Running contract tests](#running-contract-tests)
+    - [Writing a contract test](#writing-a-contract-test)
+        - [example-app.pact.spec.js](#example-apppactspecjs)
+    - [Setting up interactions](#setting-up-interactions)
+      - [Provider states](#provider-states)
+      - [Matching](#matching)
+      - [Responses](#responses)
+      - [Optional attributes](#optional-attributes)
+      - [Optional arrays](#optional-arrays)
+    - [Troubleshooting](#troubleshooting)
+      - [Problems connecting to port 3000](#problems-connecting-to-port-3000)
+      - [Expected interactions did not match actual](#expected-interactions-did-not-match-actual)
+  - [Configuring the `vets-api` provider codebase](#configuring-the-vets-api-provider-codebase)
+    - [1. Set up a provider state](#1-set-up-a-provider-state)
+      - [Using a local file if blocked by frontend](#using-a-local-file-if-blocked-by-frontend)
+        - [Native Workflow](#native-workflow)
+        - [Docker Workflow](#docker-workflow)
+      - [Expected responses](#expected-responses)
+      - [Naming Guidelines](#naming-guidelines)
+      - [Authorization](#authorization)
+      - [VCR](#vcr)
+      - [Flipper](#flipper)
+    - [2. Adjust developer configurations](#2-adjust-developer-configurations)
+      - [Configure the `pact_uri/broker_url`](#configure-the-pact_uribroker_url)
+    - [3. Run the verification task](#3-run-the-verification-task)
+      - [Important: Docker workflow settings](#important-docker-workflow-settings)
+    - [4. Verify your results](#4-verify-your-results)
+    - [5. Remove developer configurations](#5-remove-developer-configurations)
+    - [Broker matrix and tagging](#broker-matrix-and-tagging)
+    - [CircleCI](#circleci)
+    - [CircleCI and the Build Process](#circleci-and-the-build-process)
+      - [Deploy Strategy and Tagging](#deploy-strategy-and-tagging)
+      - [Frontend](#frontend)
+      - [Backend](#backend)
+    - [Pact FAQ](#pact-faq)
+      - [Can I generate my pact file from something like Swagger?](#can-i-generate-my-pact-file-from-something-like-swagger)
+      - [Why doesn't Pact use JSON Schema?](#why-doesnt-pact-use-json-schema)
 
 ## Introduction
 
@@ -111,7 +117,7 @@ Pact tests must be merged in the correct order in order for tests to pass on CI.
    - The job runs all Pact tests, which generate pacts if they pass.
    - The pacts are then published to a central broker.
 3. The vets-website CI pipeline runs a job to check `can-i-deploy`.
-   - The `can-i-deploy` task returns the verification statuses of all pacts against vets-api's master branch.
+   - The `can-i-deploy` task returns the verification statuses of all pacts against vets-api's main branch.
      This determines whether it's safe to merge this vets-website feature branch.
    - If there is no status yet for a pact, it will poll for 30 seconds while the pacts are asynchronously verified.
    - If the status of any pact can't be determined, the job times out with a failure.
@@ -125,7 +131,7 @@ Pact tests must be merged in the correct order in order for tests to pass on CI.
 #### Back-end workflow
 
 1. BE engineers update API endpoints and/or provider states in a feature branch in vets-api.
-2. The vets-api CI pipeline runs the verification job, which verifies all of the latest pacts on the vets-website master branch.
+2. The vets-api CI pipeline runs the verification job, which verifies all of the latest pacts on the vets-website main branch.
 3. If the verification job passes, the branch can be merged.
 4. If the verification has failed for any pact, BE engineers should discuss with FE engineers to resolve the failure.  
    BE should adjust provider states or API responses to accommodate the pact or FE should update the pact.  
@@ -654,7 +660,7 @@ The actual URL should point to the pact that was published from the vets-webs
 https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/HCA/version/d553c678bbdf1963fe3e27250eebc7c17b26fd55
 ```
 
-After the vets-api feature branch is merged to master, that pact should be able to pass verification.
+After the vets-api feature branch is merged to main, that pact should be able to pass verification.
 
 The CircleCI build for vets-api is still under construction with respect to parallelizing our test suite. Tests currently fail simplecov minimum coverage standards due to processes overriding results from other parallel test processes. A solution is in the works to properly merge simplecov results.
 
@@ -668,7 +674,7 @@ When the pact verification task runs in CircleCI (via the build or verification 
 Every build of vets-website publishes pacts, tags the version with the name of the branch, and triggers the verification task from a master build of vets-api.
 
 
-* Every build of vets-api verifies pacts tagged as `master` as well as [work-in-progress (WIP) pacts](https://docs.pact.io/pact_broker/advanced_topics/wip_pacts). If verification was successful, the build will the results with the name of the vets-api branch.
+* Every build of vets-api verifies pacts tagged as `main` as well as [work-in-progress (WIP) pacts](https://docs.pact.io/pact_broker/advanced_topics/wip_pacts). If verification was successful, the build will the results with the name of the vets-api branch.
 #### Frontend
 If verification was successful, the CI pipeline will proceed to deploy. If it failed, the pipeline will stop the deploy. For a feature branch, a successful verification allows a PR to be merged while a failed verification blocks a PR from merging. If the CI job responsible for the verification task fails to publish the verification results, the can-i-deploy check would also fail, since it's looking for a passing verification. It would be possible to re-run the verification task job in Circle CI in the event that it fails.
 

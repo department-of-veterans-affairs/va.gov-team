@@ -1,6 +1,6 @@
 ## How to collaborate on documents
 
-Most document updates and revisions are pretty easy. Make your change in the `master` branch (or upload your document) and commit. This simple way should be used for documents that are being added/edited, but don't need too much collaboration or there isn't anyone else likely to edit it before adding it to the repo (and if it turns out there is, someone can always change it later).
+Most document updates and revisions are pretty easy. Make your change in the `main` branch (or upload your document) and commit. This simple way should be used for documents that are being added/edited, but don't need too much collaboration or there isn't anyone else likely to edit it before adding it to the repo (and if it turns out there is, someone can always change it later).
 
 For documents that require multiple people to contribute ideas, feedback, and edits; the following is the best approach:
 

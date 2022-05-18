@@ -50,7 +50,7 @@
       - [Workflow](#workflow-1)
       - [Reasoning](#reasoning-1)
       - [Outstanding Questions](#outstanding-questions-2)
-   - [Meetings: Notes and next steps](#meetings-notes-and-next-steps)
+  - [Meetings: Notes and next steps](#meetings-notes-and-next-steps)
 
 ## Slack Channels
 
@@ -221,8 +221,8 @@ is an interactive mobile solution to send notifications through text messages to
 - Pre-Check-In: This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
 - Built with reactJS
 - Uses Vets-API as the main backend API and service bus
-- [Day of Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/day-of#readme)  
-- [Pre-Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/pre-check-in#readme)  
+- [Day of Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/day-of#readme)  
+- [Pre-Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/pre-check-in#readme)  
 
 ### VISTA
 

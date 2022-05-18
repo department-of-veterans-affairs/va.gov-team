@@ -40,7 +40,7 @@ See also [FE login/logout flow](FE_login_and_logout.md)
   
 ## RequiredLoginView component (secure messaging example)
 
-   [`src/js/common/components/RequiredLoginView.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/common/components/RequiredLoginView.jsx) (included from [`src/js/messaging/containers/MessagingApp.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/messaging/containers/MessagingApp.jsx)
+   [`src/js/common/components/RequiredLoginView.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/js/common/components/RequiredLoginView.jsx) (included from [`src/js/messaging/containers/MessagingApp.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/js/messaging/containers/MessagingApp.jsx)
    
 ### Not logged in
   ![required-login-view-not-signed-in.png](required-login-view-not-signed-in.png)  
@@ -78,7 +78,7 @@ See also [FE login/logout flow](FE_login_and_logout.md)
   
 ## User profile
 
-[`src/js/user-profile/containers/UserProfileApp.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/user-profile/containers/UserProfileApp.jsx)
+[`src/js/user-profile/containers/UserProfileApp.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/js/user-profile/containers/UserProfileApp.jsx)
 
 ### Not logged in
 Similar to `MessagingApp.jsx` above

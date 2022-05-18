@@ -4,13 +4,13 @@ Engineers will be responsible for writing automated tests and ensuring a level o
 Automated tests will be run on each branch using Travis CI.
 
 ## Backend
-The backend portions of the benefits application will be tested using automated tests. Developers will create the tests as they develop new features. Developers will ensure a minimum of 95% code coverage before merging new feature branches into master.
+The backend portions of the benefits application will be tested using automated tests. Developers will create the tests as they develop new features. Developers will ensure a minimum of 95% code coverage before merging new feature branches into main.
 
 ### Tools
 RSpec/MiniTest (unit/integration)
 
 ## Frontend
-The frontend portions of the benefits application will be tested using automated tests. Developers will create the tests as they develop new features. Developers will ensure a minimum of 95% code coverage before merging new feature branches into master.
+The frontend portions of the benefits application will be tested using automated tests. Developers will create the tests as they develop new features. Developers will ensure a minimum of 95% code coverage before merging new feature branches into main.
 
 Single-page applications should be tested prior to launch to ensure that there are no unnecessary files included in the application, and that static assests are delivered in a reasonable amount of time. This testing is the responsibility of the DevOps team with assistance from the Development team.
 

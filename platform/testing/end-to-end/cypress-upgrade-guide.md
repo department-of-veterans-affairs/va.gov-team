@@ -10,9 +10,11 @@ Cypress is under active development, and the Cypress development team has been r
 
 # Table of Contents
 
-- [Minor version updates](#minor-version-updates)
-- [Major version updates](#major-version-updates)
-- [Additional resources](#additional-resources)
+- [Cypress Upgrade Guide](#cypress-upgrade-guide)
+- [Table of Contents](#table-of-contents)
+  - [Minor version updates](#minor-version-updates)
+  - [Major version updates](#major-version-updates)
+  - [Additional resources](#additional-resources)
 
 ## Minor version updates
 
@@ -37,9 +39,9 @@ Due to the significant changes that come with major versions, Cypress has a [mig
 
 - A migration guide should be provided that covers key changes engineers should be aware of
 - If there are any deprecations, these should be mentioned in the migration guide.
-- The guide should be shared with all engineering teams before the update is merged to `master`.
+- The guide should be shared with all engineering teams before the update is merged to `main`.
 - If necessary, teams should be given sufficient notice of changes that may impact testing.
-- After sharing the migration guide, the update can be merged to `master`.
+- After sharing the migration guide, the update can be merged to `main`.
 - After merging, tests should be monitored to check for new issues. Cypress' migration guides are not comprehensive and may omit breaking changes.
 
 ## Additional resources

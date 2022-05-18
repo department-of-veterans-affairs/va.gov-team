@@ -83,7 +83,7 @@ department-of-veterans-affairs / va.gov-team
 
 - For a task to be **"Done"** 
    - Internal validation has occured
-   - Merged to master
+   - Merged to main
    - Each ticket's last comment before closing should reflect when validation has occurred and by whom
    - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
 

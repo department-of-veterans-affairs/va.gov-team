@@ -74,7 +74,7 @@ The code was reverted at 8:59 AM MT on June 24, 2020. A fix was deployed to Stag
 | 6/23/2020 | 3:20 PM MT | Meeting with Gibran Rodriguez, Michael Pelz-Sherman, Ethan Teague and Michelle Middaugh to review impact and identify affected templates |
 | 6/23/2020 | 4:19 PM MT | PR submitted to revert code [#13241](https://github.com/department-of-veterans-affairs/vets-website/pull/13241) |
 | 6/24/2020 | 8:52 AM MT | PR approved |
-| 6/24/2020 | 8:59 AM MT | Revert code merged to master |
+| 6/24/2020 | 8:59 AM MT | Revert code merged to main |
 | 6/25/2020 | 11:15 AM MT | Fix PR sumitted for approval |
 | 6/25/2020 | 3:24 PM MT | Fix PR approved by 2 team members |
 | 6/26/2020| 10:25 AM MT | Fix PR approved by FE Review group |

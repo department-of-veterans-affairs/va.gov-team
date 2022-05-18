@@ -36,7 +36,7 @@ workflows:
       - eslint-check:
           filters:
             branches:
-              ignore: master
+              ignore: main
      ...
 ```
 

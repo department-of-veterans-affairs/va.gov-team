@@ -14,7 +14,7 @@
     * County is not currently present as a field on the digital version.
     * For more information on the schema discrepancy [check this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/3506-summary.md)
 1. How were you married (11F) needs to be added to the digital form as a field.
-    * This has been used elsewhere in vets-website and should be re-used for the 686 if possible. [Use case here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/pensions/config/form.js#L975).
+    * This has been used elsewhere in vets-website and should be re-used for the 686 if possible. [Use case here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/pensions/config/form.js#L975).
 1. Spouse SSN (11C) is currently present in the digital form, but does not address the possibility that a spouse has no SSN.
    * A field already exists inside the schema.json file for the form, it just needs to be added to the frontend.
    * An unused field exists for stating the reason a spouse has no SSN [here](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/21-686C/schema.js#L368). This can be implemented in a similar way no ssn is implemented for veteran information.

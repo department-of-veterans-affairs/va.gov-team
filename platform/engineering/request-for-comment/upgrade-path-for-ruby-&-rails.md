@@ -35,7 +35,7 @@ Selected Major Rails features:
 - **Full changelogs can be found [here](https://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html)**
 
 ## Design
-We should upgrade incrementally, ensuring each major version bump is at the latest version and the application performs as expected (no regressions, qa performed etc). Merging incrementally into `master` will decrease the likelihood of a complex merge conflict. 
+We should upgrade incrementally, ensuring each major version bump is at the latest version and the application performs as expected (no regressions, qa performed etc). Merging incrementally into `main` will decrease the likelihood of a complex merge conflict. 
 
 - [ ] Gather changes and communicate with engineers the major changes and new features we're likely to benefit from
 - [ ] Ensure we are using atomic, well-written commit messages. Squashing commits can precede frustration in future understanding.
@@ -53,7 +53,7 @@ We should upgrade incrementally, ensuring each major version bump is at the late
 1. Run all tests
 1. Deploy to review instance and do QA
 1. Ticket and address any bugs
-1. Merge into master
+1. Merge into main
 
 ##### Notes/Known issues
 - [ ] Update module gemspecs to new versions
@@ -70,7 +70,7 @@ We should upgrade incrementally, ensuring each major version bump is at the late
 1. Run all tests
 1. Deploy to review instance and do QA
 1. Ticket and address any bugs
-1. Merge into master
+1. Merge into main
 
 ##### Notes/Known issues
 - Should be able to use `bin/rails upgrade` from here on
@@ -83,7 +83,7 @@ We should upgrade incrementally, ensuring each major version bump is at the late
 1. Run all tests
 1. Deploy to review instance and do QA
 1. Ticket and address any bugs
-1. Merge into master
+1. Merge into main
 
 ##### Notes/Known issues
 

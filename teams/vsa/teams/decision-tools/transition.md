@@ -11,7 +11,7 @@
 ## Find a VA Form Info
 - [Product URL](https://va.gov/find-forms/)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
-- [FE Source Code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms)
+- [FE Source Code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/find-forms)
 - [BE VETS API Proxy Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/forms_controller.rb#L6)
 - [BE Lighthouse API Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/va_forms/app/controllers/va_forms/v0/forms_controller.rb#L7)
 - [Modal of Flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)

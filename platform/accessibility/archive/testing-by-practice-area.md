@@ -4,13 +4,13 @@ This document will outline the team members or practice area(s) who are best sui
 
 ## Table of Contents
 
-* [The testing process](#the-testing-process)
-* [Axe scans in daily development](#axe-scans-in-daily-development)
-* [Axe checks in end-to-end tests](#axe-checks-in-end-to-end-tests)
-* [Color contrast and colorblindness](#color-contrast-and-colorblindness)
-* [Zoom layouts to 400%](#zoom-layouts-to-400)
-* [Keyboard navigation](#keyboard-navigation)
-* [Screen readers](#screen-readers)
+  - [The Testing Process](#the-testing-process)
+  - [Axe Scans in Daily Development](#axe-scans-in-daily-development)
+  - [Axe Checks in End-to-End Tests](#axe-checks-in-end-to-end-tests)
+  - [Color Contrast and Colorblindness](#color-contrast-and-colorblindness)
+  - [Zoom Layouts to 400%](#zoom-layouts-to-400)
+  - [Keyboard Navigation](#keyboard-navigation)
+  - [Screen Readers](#screen-readers)
 
 ## The Testing Process
 
@@ -56,7 +56,7 @@ This document will outline the team members or practice area(s) who are best sui
 **Definition of Done:**
 
 * Stable code has zero [WCAG 2.0 Level A or AA violations](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md#wcag-20-level-a--aa-rules) reported in CI/CD logs
-* Team certifies their automated axe checks in their preferred test case template. This should include links to line numbers in e2e tests checked into the `master` branch of vets-website. Accessibility specialists will be reviewing tests to make sure hidden content like accordions and modal windows are being evaluated.
+* Team certifies their automated axe checks in their preferred test case template. This should include links to line numbers in e2e tests checked into the `main` branch of vets-website. Accessibility specialists will be reviewing tests to make sure hidden content like accordions and modal windows are being evaluated.
 
 ## Color Contrast and Colorblindness
 

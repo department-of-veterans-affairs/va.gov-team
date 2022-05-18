@@ -199,7 +199,7 @@ active/inactive session this way, so in lieu of that the IAM team developed the
 The keepalive endpoint, https://eauth.va.gov/keepalive, has been designed to accomplish
 two tasks; a) give VA.gov information about the current SSOe session so we can keep the
 two (SSOe and VA.gov) sessions in sync and b) to update the TTL on the current SSOe session
-(keep it alive!).  When [invoked](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/utilities/sso/keepAliveSSO.js#L33)
+(keep it alive!).  When [invoked](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/utilities/sso/keepAliveSSO.js#L33)
 the endpoint returns an empty payload with a handful of response headers that tell us
 how long the session will be alive for, what CSP (idme, mhv, dslogon) they used to
 authenticate and the transaction id created during authentication.  The latter is

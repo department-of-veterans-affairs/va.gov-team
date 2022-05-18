@@ -4,7 +4,7 @@
 * Write [Unit Tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/unit-testing/README.md) to test form (or other) functionality.
 * Write [End-to-End Tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/README.md) to test how a form (or other) functionality interacts with other services, e.g., a data source.
 
-### 2. Test your code after it has been merged to master and is on staging
+### 2. Test your code after it has been merged to main and is on staging
 
 When your complete and final build has been code reviewed and merged:
 

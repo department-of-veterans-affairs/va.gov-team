@@ -10,7 +10,7 @@
 - In a demo-able state
 - Not production ready
 - The BE needs to be running to use it locally.
-- Has not be merged into master
+- Has not be merged into main
 - created a new HOC called `withSession` that loads the session from the BE after the user logs
 - deprecates `withAuth` and `withForm`
 - Adds the id being passed in the URL on every page in the useFormHook

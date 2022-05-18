@@ -31,7 +31,7 @@ property:
   on:
     pull_request:
       branches:
-        - master  # just in case we have PRs into other branches
+        - main  # just in case we have PRs into other branches
   jobs:
     ...
     cypress-run:
@@ -53,7 +53,7 @@ property:
   ...
   on:
     schedule:
-      - cron: '0 0 * * *'  # every day at midnight [only runs on default (master) branch]
+      - cron: '0 0 * * *'  # every day at midnight [only runs on default (main) branch]
     ...
     cypress-run:
       name: Cypress run
@@ -73,7 +73,7 @@ property:
   ```yaml
   ...
   on:
-    release: # releases are always on default (master) branch
+    release: # releases are always on default (main) branch
       types: [created]
     ...
     cypress-run:

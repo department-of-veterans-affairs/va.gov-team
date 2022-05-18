@@ -28,7 +28,7 @@ Currently, Cypress tests are divided into 8 groups, and each group of tests is e
 This process will be updated so that the number of containers created is dependent on the number of tests selected.
 
 **Step 3**  
-As a final precaution to ensure all tests pass, the full suite of Cypress tests will run when a PR is merged to `master`.
+As a final precaution to ensure all tests pass, the full suite of Cypress tests will run when a PR is merged to `main`.
 
 ## Consequences
 We expect:
@@ -36,9 +36,9 @@ We expect:
 - The cost associated with running the tests to reduce
 - Engineer happiness and productivity to increase
 ### Preliminary Data
-We are collecting data about `master` builds and `branch` builds on our [dashboard](https://va-gov.domo.com/page/1232474697) including the below key takeaways:
+We are collecting data about `main` builds and `branch` builds on our [dashboard](https://va-gov.domo.com/page/1232474697) including the below key takeaways:
 - About 80% of builds handled in GitHub Actions are `branch` builds
 - `Branch` builds on average select 56% fewer tests than the full suite of available tests
-- Given that fewer tests are selected for, `Branch` build test executions take an average of **4** containers as opposed to `master` build test executions that take 8
-- `Branch` build test executions take an average of about **5.5** minutes as opposed to `master` build test executions that take about **11.5** minutes
+- Given that fewer tests are selected for, `Branch` build test executions take an average of **4** containers as opposed to `main` build test executions that take 8
+- `Branch` build test executions take an average of about **5.5** minutes as opposed to `main` build test executions that take about **11.5** minutes
 - Generally we seem to be saving about 50% resources by selecting only relevant tests in `branch` builds

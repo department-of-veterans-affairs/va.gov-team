@@ -43,7 +43,7 @@ Jenkins
 Mocha, Nighwatch/Selenium, and Puppeteer We also manually use Sauce Labs and Browser Stack for testing across browsers/operating systems
 
 #### Code review practices
-We enforce code reviews via GitHub pull requests requiring at least one team member's approval before merging to the master branch, along with a pull request template where the author should explain to reviewers the intent of the code changes and connected issues
+We enforce code reviews via GitHub pull requests requiring at least one team member's approval before merging to the main branch, along with a pull request template where the author should explain to reviewers the intent of the code changes and connected issues
 
 #### Experience 
 | System     | Experience/Level |

@@ -49,7 +49,7 @@ The goals of that change would be to prevent similar issues and to better suppor
 
 ### High Level Design
 
-Content for builds on `master` are cached in S3 with a key such as `content-cache/master/content.tar.gz` instead of an ever-changing hash-based key.
+Content for builds on `main` are cached in S3 with a key such as `content-cache/main/content.tar.gz` instead of an ever-changing hash-based key.
 
 An Amazon Web Services (AWS) Lambda function pulls the content from Drupal and sync the cache periodically (every 5 minutes).
 - The function is versioned so that branches that have modified the query for the content can access the corresponding data.
@@ -91,7 +91,7 @@ The function performs the following steps:
    - Assets are downloaded into the `downloads` directory, separated into either `files` or `img` based on the file suffix.
 1. Close the tarball for writing and compress it.
 1. Upload the archived and compressed cache to the bucket.
-   - For `master`, the key is `content-cache/master/content.tar.gz`.
+   - For `main`, the key is `content-cache/main/content.tar.gz`.
    - For feature branches, the key is `content-cache/<hash>/content.tar.gz`, where the hash is the checksum of the source ZIP file.
 
 #### Continuous Integration
@@ -101,20 +101,20 @@ As part of continuous integration (CI), the function source is zipped and upload
 - Get the checksum or hash of the ZIP file.
 - Store the ZIP file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
 
-The S3 key will be `vetsgov-website-builds-s3-upload/content-cache/master/function.zip` on the `master` branch. Feature branches will replace `master` in that key with the checksum of the ZIP file.
+The S3 key will be `vetsgov-website-builds-s3-upload/content-cache/main/function.zip` on the `main` branch. Feature branches will replace `main` in that key with the checksum of the ZIP file.
 
 Check the [list of function aliases](https://docs.aws.amazon.com/lambda/latest/dg/API_ListAliases.html) for an alias matching the checksum.
 If an alias doesn't exist yet for the checksum:
 - [Update and publish the function code](https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateFunctionCode.html) using the archived function from S3.
 - [Create the alias](https://docs.aws.amazon.com/lambda/latest/dg/API_CreateAlias.html) for the new version of the function.
 
-If the current branch is **not** `master`, [synchronously invoke](https://docs.aws.amazon.com/lambda/latest/dg/API_Invoke.html) the new version of the function (aliased with the checksum).
+If the current branch is **not** `main`, [synchronously invoke](https://docs.aws.amazon.com/lambda/latest/dg/API_Invoke.html) the new version of the function (aliased with the checksum).
 
-If the current branch is `master`, also get the version that the `master` alias points to. If the master alias doesn't match the version of the checksum alias:
-- [Update the `master` alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-alias.html) to the version currently aliased with the checksum.
-- Synchronously invoke the new version of the function (aliased with `master`).
+If the current branch is `main`, also get the version that the `main` alias points to. If the main alias doesn't match the version of the checksum alias:
+- [Update the `main` alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-alias.html) to the version currently aliased with the checksum.
+- Synchronously invoke the new version of the function (aliased with `main`).
 
-Pull the cache from S3 that corresponds to the checksum (or `master` if on the `master` branch) for the build step.
+Pull the cache from S3 that corresponds to the checksum (or `main` if on the `main` branch) for the build step.
 
 ### Code Location
 
@@ -184,10 +184,10 @@ How do we want to manage the bucket storing the function source?
 Is it worth implementing the cache for feature branches if we're able to run a content build without it?
 - It's possible to configure a self-hosted runner in GitHub Actions to allow the build to access the Drupal server directly.
   - In that case, the cache would not be the only means of building content.
-- Having a cache for every branch would be less valuable than for `master`.
+- Having a cache for every branch would be less valuable than for `main`.
   - Large cost in resources and maintenance to scale the updates across all branches.
   - Directly pulling content makes more sense (and is a lighter process) for active development in branches that change the query.
-- What are the implications for review instances (or other use cases) if they always reflect content from the GraphQL query that's in `master` and not from branches?
+- What are the implications for review instances (or other use cases) if they always reflect content from the GraphQL query that's in `main` and not from branches?
 - Perhaps content can still be cached by directly putting it in S3 with a key that corresponds to the checksum of the changed function source.
   - This would be instead of uploading a new version of the function and invoking that version of the function.
   - Essentially, this changes the hash key for the content from (A) the GraphQL query string to (B) the generated caching function source code.

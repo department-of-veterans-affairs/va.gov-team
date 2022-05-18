@@ -41,7 +41,7 @@ Schema
 ```
 
 uiSchema: 
-[UI](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/686c-674/config/chapters/add-a-child/add-child-additional-evidence/addChildAdditionalEvidence.js#L14)
+[UI](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/686c-674/config/chapters/add-a-child/add-child-additional-evidence/addChildAdditionalEvidence.js#L14)
 
 
 Sample implementation 
