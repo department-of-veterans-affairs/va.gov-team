@@ -92,6 +92,6 @@ April 1     | TBD
 
 ## Resources	
 - [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
-- [Conversation Guide](h)
+- [Conversation Guide]([h](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/short%20form%20UAT%20may.june%202022/conversation-guide.md))
 - [Prod link](https://va.gov/health-care/apply/application/introduction)
 - [Research Findings]
