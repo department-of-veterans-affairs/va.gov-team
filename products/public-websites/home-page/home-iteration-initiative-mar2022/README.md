@@ -8,6 +8,8 @@ This README page serves as a "front door" to documentation and resources pertain
 
 [Product artifacts](#product-artifacts)
 
+[Baseline analytics](#baseline-analytics)
+
 [Research artifacts](#research-artifacts)
 
 [Design artifacts](#design-artifacts)
@@ -32,6 +34,10 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/initiative-brief.md) 
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/baseline-event-data.md)
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/discovery.md)
+
+## Baseline analytics
+- [Baseline-event-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
+- [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit cateogry_
 
 ## Research artifacts
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research)
