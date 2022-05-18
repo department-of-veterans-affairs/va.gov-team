@@ -36,7 +36,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/discovery.md)
 
 ## Baseline analytics
-- [Baseline-event-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
+- [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
 - [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit cateogry_
 
 ## Research artifacts
