@@ -41,15 +41,24 @@ A user can view their appointments (upcoming, pending, canceled or past) without
 ## Desired Outcomes
 - Provide clear information that answers basic questions about appointments in the list
 - Seamless navigation experience from MHV (MyHealtheVet) to VAOS
+- Veterans are able to find all the same appointment information in VAOS as currently available in MHV
 
 ## Undesired Outcomes
 - A user does not have clear information about their appointment details in the list 
 
 ## Key Decisions
-- It is preferred that VAOS provides the same value and information of the appointment list similiar to MHV application.
+- It is preferred that VAOS provides the same value and information of the appointment list similiar to MHV application
+- Use of icons to differentiate the different types of care is preferrable, based on user research
 
 ---
 ## Measuring Success
+
+- Success will be measured by the increased number of veterans using VAOS instead of MHV
+- Will look at these specific measurements:
+  - Number of unique users of VAOS
+  - Number of pageviews of appointment list page
+  - No increase in average response time of appointment list page
+  - Decrease in the number of errors when fetching appointment data (desired)
 
 ### Key Performance Indicators (KPIs)
 
@@ -125,6 +134,22 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+- Launch of the updated appointment list view will be marketed as an enhancement and will be part of a re-launch campaign for VAOS.
+- Re-launch and new appointment list will be marketed through veteran focused electronic newsletters, especially those related to health care.
+- Specific newsletters need to be identified and timelines for publication coordinated with launch plans
+
+- VAOS team investigating the use of an online, one time notice that would appear to veterans when navigating to VAOS landing page
+- Notice would be a small indicator that something is new on the site.
+- Clicking on the notice would provide more details about the change to the appointment list view.
+- The online notification would not lose focus after a veteran has clicked on it.  This includes subsequent sessions.
+- Online notification would only be visible for a configurable date range.
+- VAOS team to investigate feasibility of such a feature with the platform support team.
+
+- VA and CC scheduling personnel will need to be informed of the appointment view update and provided a demonstration.
+
+- VAOS product guide will need to be updated to include new screen shots of the updated appointment list view
+
+- Call Center will need to be informed of change to appointment list view
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
