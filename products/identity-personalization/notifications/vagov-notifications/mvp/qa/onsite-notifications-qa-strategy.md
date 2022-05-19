@@ -2,6 +2,7 @@
 See [#34543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34543) for reference
 
 ## Points of Contact
+Testing Onsite Notifications will involve coordination across three groups (that we know of so far): Auth Exp - My VA team, VA Notify team, and folks from the Debt Management Center. Critical points of contacts and roles are listed below.
 
 | Name | Team | Role |
 |------|------|------|
@@ -12,6 +13,8 @@ See [#34543](https://github.com/department-of-veterans-affairs/va.gov-team/issue
 | Beverly Nelson | VA Notify | PO |
 | Melanie Jones | VA Notify | PM |
 | Jake Uhteh | VA Notify | QA |
+| Jeff Chant | DMC | PjM |
+| Jill Anderson | DMC | PO/Stakeholder | 
 
 ## Initial planning/strategy questions:
 
@@ -24,6 +27,27 @@ See [#34543](https://github.com/department-of-veterans-affairs/va.gov-team/issue
 |5. What use cases do we need to test (single notification, multiple notifications, etc)? We'll want this so we can make sure the backend team sends us exactly what they need.| _TBD - hoping to answer at 5/25 meeting_ |
 
 ## Timeline
-...
+
+### 5/16 - 5/20
+1. Tom (My VA) completes work to update tokens for vets-API (tentative)
+
+### 5/23 - 5/27
+1. VA Notify completes work and connectivity testing with My VA's API. 
+2. Taylor (My VA) complets FE work 
+
+### 5/30 - 6/3
+1. My VA, VA Notify and DMC folks meet to coordinate test plan which should be scheduled to take place week 6/8 - 6/21
+2. My VA and VA Notify teams address any issues with found in connectivity testing
+
+### 6/6 - 6/10
+1. QA occurs
+
+### 6/13 - 6/17 
+1. QA occurs (cont.)
+2. Address any issues found in QA
+
+### 6/20 - 6/24
+1. Retest
+
 
 
