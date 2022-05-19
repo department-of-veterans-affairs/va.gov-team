@@ -12,7 +12,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 |Tze-chiu Lei | Shared Support PTEMS | QA |
 | Beverly Nelson | VA Notify | PO |
 | Melanie Jones | VA Notify | PM |
-| Jake Uhteh | VA Notify | QA |
+| Jake Uhteg | VA Notify | QA |
 | Jeff Chant | DMC | PjM |
 | Jill Anderson | DMC | PO/Stakeholder | 
 
