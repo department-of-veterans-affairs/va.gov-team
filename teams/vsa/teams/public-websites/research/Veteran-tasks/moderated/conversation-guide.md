@@ -120,7 +120,7 @@ I would like you to share your screen with me--a web browser please. You might w
 
 I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you. For code, enter P#.
 
-- *RECORD start time: ______________*
+- *RECORD survey start time: ______________*
 
 - *(If participant is on a phone and Zoom is in the way of the survey:)* You can drag the Zoom camera box off the screen to the side.
 
@@ -196,7 +196,7 @@ Pension
 Life insurance
 Burial benefits or memorial items
 
-- *RECORD end time: ______________*
+- *RECORD survey end time: ______________*
 
   
 ## Post-Task Interview - 5 minutes
