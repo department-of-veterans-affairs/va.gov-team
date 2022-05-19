@@ -45,12 +45,12 @@ Today we're going to talk about what kinds of activities--if any--that you do wi
 Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a survey to learn how we can make it easier to do. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
   - *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
+  - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
 
@@ -86,14 +86,25 @@ Let’s start with a few questions...
 - Are you currently involved with the VA? If so, how? 
 
   - *(If yes:)* What kinds of VA-related activities do you do?
-  - Can you tell me about some specific activities that you have done? *(RECORD tasks)*
+    - Can you tell me about some specific activities that you have done? *(RECORD tasks)*
 
-  - *(For each task mentioned:)* When was the last time that you did that? 
+VA-related activity or description | Last time did it
+--------------------|------------------
+*RECORD HERE...*
+*.*
+*.*
+*.*
+*.*
+*.*
+*.*
+
+  - *(For each task mentioned:)* When was the last time that you did that? *(RECORD in table above)*
 
 - Are there any VA benefits that you haven't used before but that you're interested in exploring?
+  - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
 ## Screen sharing
-I have a survey that I'd like you to do on your computer while sharing your screen with me over Zoom.
+I have a survey that I'd like you to do while sharing your screen with me over Zoom.
 
 While you're doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
@@ -109,13 +120,83 @@ I would like you to share your screen with me--a web browser please. You might w
 
 I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you. For code, enter P#.
 
-*RECORD start time: ______________*
+- *RECORD start time: ______________*
 
-*RECORD all feedback on survey: instructions, questions, tasks in list*
+- *(If participant is on a phone and Zoom is in the way of the survey:)* You can drag the Zoom camera box off the screen to the side.
 
+- *RECORD all feedback on survey--everything the participant says about the instructions or questions, but NOT their survey responses because those will be automatically saved online*
 
+#### How do you typically interact with the VA? Check all that apply.
+- *RECORD feedback on this question*
 
-*RECORD end time: ______________*
+#### Please read through this list of VA-related tasks, and check the tasks that are most important to YOU personally right now, no matter how you do them (in person, on the phone, or online).
+- *RECORD feedback on this question*
+
+Task | Participant Comments (NOT whether they checked the box because that will be saved online)
+-----|------------------
+Learn about or file for disability compensation | *RECORD HERE...*
+Check the current disability compensation rates
+Upload evidence to support disability claim
+Check your claim or appeal status
+Request a decision review (appeal) on a claim
+File for a VA disability increase
+View my disability rating
+Learn about or apply for education benefits
+Compare VA education benefits and rates by school
+Check or update your current education benefits
+Verify your monthly school enrollment
+View your payment history
+Pay your VA copay bill or other VA debt
+Get help with your VA debt
+Review or update direct deposit
+Learn about or apply for VA health care
+Update your VA health care information
+Check your lab or test results
+Message my doctor or get a health care message
+Refill or track a prescription
+Schedule or manage health appointments
+Find a mental health counselor or therapist
+Learn about or order hearing aid batteries
+Get your VA medical records
+Learn about or file for travel reimbursement
+Apply for a home loan Certificate of Eligibility (COE)
+Get help with your housing, rent, or utilities
+Update my contact information with VA
+Review or update your dependents
+Learn about or apply for a Veteran ID card
+Get your VA benefit letters
+Request your military records (DD214)
+Find a hospital, clinic, pharmacy, or Vet Center
+Find a VA form
+Apply for the VA caregiver assistance program
+Find Veterans events near me
+Get help with your VA claim/application from a VSO or an accredited representative
+Learn about job and training support available from VA
+Learn about or apply for a Veterans Pension
+Learn about or apply for life insurance
+Learn if eligible for burial in a VA cemetery (pre-need determination)
+
+#### Are there any VA-related tasks that are important to YOU right now that you didn't see in the previous list?
+- *RECORD feedback on this question, and anything the participant says but doesn't type into the survey*
+
+#### What VA-related tasks do YOU do most frequently?
+- *RECORD feedback on this question, and anything the participant says but doesn't type into the survey*
+
+#### What VA benefits (if any) do you have experience with? Check all that apply.
+- *RECORD feedback on this question, and anything the participant says but doesn't type into the survey*
+
+Option | Participant Comments (NOT whether they checked the box because that will be saved online)
+-----|------------------
+Health care (including clinic appointments, prescription refills, messaging) | *RECORD HERE...*
+Education (including GI Bill, Yellow Ribbon)
+Career services (including Vocational Rehabilitation & Employment, small business certification)
+Disability (including claims and appeals)
+Housing (including adaptive housing, home loans, homelessness services)
+Pension
+Life insurance
+Burial benefits or memorial items
+
+- *RECORD end time: ______________*
 
   
 ## Post-Task Interview - 5 minutes
