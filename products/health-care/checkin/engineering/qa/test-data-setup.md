@@ -113,7 +113,7 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 478 | STG/ECHO/5 | | M-F 8AM - 330PM | Yes |
 | 485 | STG/ECHO/6 | | M-F 8AM - 330PM | Yes |
 | 449 | STG/ENDROCRINE/1 | | M-F 8AM - 330PM | Yes |
-
+| 500 | STG/MH/8 | | M-F 8AM - 330PM | Yes |
 
 ### Available Clinics (station 500)
 
