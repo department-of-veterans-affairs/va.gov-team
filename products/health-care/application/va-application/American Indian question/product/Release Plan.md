@@ -17,7 +17,7 @@
 ### Results
 - Number of users: 
 - Number of bugs identified / fixed: 
-- UX changes required, based on logs, feedback, or challenges?
+- UX changes required, based on logs, feedback, or challenges
 
 
 ## Phase 2: Staged Rollout
