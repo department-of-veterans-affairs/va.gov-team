@@ -57,7 +57,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 
 **Analytics**
 - - Analytics dashboard: [Domo](https://va-gov.domo.com/page/980067552) (Original dashboard, no longer maintained), [Domo](https://va-gov.domo.com/page/447193050) (New consolidated forms dashboard), and [Google Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/_u.date00=20210301&_u.date01=20210524/)
-- - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/analytics/Important%20Google%20Analytics%20event%20labels.md)
+- - [Important Google Analytics Event Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Analytics/Important%20Google%20Analytics%20event%20labels.md)
 
 
 **Engineering**
