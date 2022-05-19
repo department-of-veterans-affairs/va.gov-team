@@ -2,11 +2,11 @@
 
 ## Decision: 
 
-- [ ] Release plan complete and ready to execute against
+- [ ] [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/American%20Indian%20question/product/Release%20Plan.md) complete and ready to execute against
 
-- [ ] Research plan and conversation guide documents for UAT complete
+- [ ] [Research Plan]() and conversation guide documents for UAT complete
 
-- [ ] Prepared to run UAT sessions as early as a week from now
+- [ ] Prepared to run UAT sessions as early as a week from now (Applicable?)
 
 - [ ] All launch-blocking accessibility issues fixed
 
@@ -16,6 +16,6 @@
 
 - [ ] Team prepared to attend UAT sessions in case there are issues that need troubleshooting (Applicable?)
 
-- [ ] Analytics in place to capture traffic during UAT
+- [ ] Analytics in place to capture traffic during UAT (Applicable?)
 
 - [ ] No other concerns that would prevent launch
