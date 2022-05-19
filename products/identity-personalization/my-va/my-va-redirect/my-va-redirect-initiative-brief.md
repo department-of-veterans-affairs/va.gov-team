@@ -2,7 +2,7 @@
 ---
 
 ## Outcome Summary
-Evaluate how My VA performs as a personalized logged in homepage via redirect. This is not an initiative to replace the existing logged in homepage. Veterans would be redirected to My VA upon logging in from the VA.gov homepage.
+Evaluate how My VA performs as a personalized logged in homepage via redirect. This is not an initiative to replace the existing logged in homepage. Veterans would be redirected to My VA upon logging in from the VA.gov homepage in order to provide them a more immediate personalized experience.
 
 **Related/Associated product(s)**
 - My VA | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#product-outline-my-va) 
