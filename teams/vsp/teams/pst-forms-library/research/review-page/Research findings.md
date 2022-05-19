@@ -1,7 +1,7 @@
 
 # Review Page Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Forms Library Team **
+**Office of the CTO - Digital Experience (OCTO-DE), Forms Library Team**
 
 Date: 05/19/2022
 
