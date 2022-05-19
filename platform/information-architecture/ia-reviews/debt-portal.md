@@ -28,21 +28,31 @@
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-![image](https://user-images.githubusercontent.com/20994159/164260392-d5058e29-c6e9-4519-a77c-373e93d35cfe.png)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/e186169c-87ad-42f4-89f6-3922c04d65fc)
 
 
-**Page** | **New/Existing** | **URL** | **Breadcrumb** | **Notes**
+**Page** | **New/Existing/Retire** | **Old URL** | **New URL** | **Notes**
 --- | --- | --- | --- | ---
-Debt and bills static landing page   | Existing   |  TBD | Home  >  Manage your VA debt and bills     | - This is the existing debt static page that will be modified to now encompass copay bills <br> - URL will change and old URL will need to be redirected 
-Your debt and bills summary page | NEW | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  | - This is the new summary level page of the manage debt and bills tool
-Current copay bills | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  | - This is the existing page <br> - The H1 will be modified slightly <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Copay bill details | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name] | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Copy bill statement | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name]  >   [date] statement | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Current benefit debt  | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Debt details | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt  > Debt details | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
-Debt letters | Existing | TBD | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt  > Debt letters | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
+
+1. Debt and bills static landing page - Existing
+  - Old URL: /manage-va-debt/
+  - New URL: /manage-debt-and-bills/ 
+  - Breadcrumb: 
+  - Notes: 
+    - This is the existing debt static page that will be modified to now encompass copay bills 
+    - URL will change and old URL will need to be redirected 
+
+Your debt and bills summary | NEW | /manage-debt-and-bills/summary/  | Home  >  Manage your VA debt and bills  > Your current debt and bills  | - This is the new summary level page of the manage debt and bills tool
+
+Copay bill balances | Existing | old: /health-care/pay-copay-bill/your-current-balances/ <br> new: /manage-debt-and-bills/summary/copay-bill-balances/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  | - This is the existing page <br> - The H1 will be modified slightly <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
+Copay bill details | Existing | old: /health-care/pay-copay-bill/your-current-balances/balance-details/ <br> new: /manage-debt-and-bills/summary/copay-bill-balances/detail/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name] | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
+Copy bill statement | Existing | old:/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ <br> new: /manage-debt-and-bills/summary/copay-bill-balances/detail/statement/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name]  >   [date] statement | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
+Benefit debt blalances  | Existing | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/summary/benefit-debt-balances/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
+Debt details | Existing | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/summary/benefit-debt-balances/details/  | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt  > Debt details | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
+Debt letters | Existing | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/summary/benefit-debt-balances/letters/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current benefit debt  > Debt letters | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
 Request help static landing page | NEW | TBD | Home  >  Manage your VA debt and bills  >  Request help for debt and bills | - This is a new static landing page that will incorporate content from the existing debt landing page, the FSR wizard, the copay financial hardship page, and the copay dispute charges page  | - This is the existing page <br> - The URL will change to reflect the new hierarchy and the old URL will need to be redirected
 Request help/FSR form | Existing | TBD | Home > Manage your VA debt and bills > Request help with VA debt (VA Form 5655)  | - This is the existing online FSR <br> - The URL will change to reflect the new hierarchy and the insertion of a static parent page, the old URL will need to be redirected
+Pay your copay bill static page | RETIRE | /pay-copay-bill/ | This page will be retired and redirected.
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
