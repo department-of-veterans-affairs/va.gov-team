@@ -15,14 +15,13 @@
 
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
-- This work brings 2 authenticated tools together under an overarching summary page, and a parent unauth static landing page.  
-- Unauth users will always be taken to the unauth static landing page. From there the user can click/tap the sign-in CTA and complete the sign in flow.  Once authenticated, they should be taken directly to the summary level of the auth tool, or the intended deeper page within the authenticated too.
+- This work brings 2 authenticated tools together under an overarching auth summary page, and a parent unauth static landing page.  
+- This section will also include an unauthenticated static page for requesting assistance with debt and bills, and the existing online FSR will also move to this section. 
 - In order to continue to link users to specific functions within the auth tool, entry point links in content and navigation components may target deeper pages within the structure - i.e. a link to "Pay your copay bill" will take a user to that specific page within the tool rather than the summary level.  
-  - All unauth users will first be taken
   - When unauth users are deep linked into the auth tool, they will first be sent to the unauth static page where they can click a CTA to sign-in and continue forward.  After authenticating, they should be forwarded on to their originally intended destination.
   - When auth users are deep linked into the auth tool, they will bypass the unauth static page and be taken directly to their destination
-- Based on the approach to bypass the unauth static landing page for authenticated users, the corresponding segment for that page in the breadcrumb should be hidden once you are in the 
-![image](https://user-images.githubusercontent.com/20994159/164260715-36f62613-9c2e-40ee-ae8c-dcbc806db4ff.png)
+
+![image](https://user-images.githubusercontent.com/20994159/169404143-8140fadd-774b-47f9-90c3-a17d363b03d7.png)
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
@@ -33,16 +32,16 @@
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | --- 
-(1) Debt and bills static landing page (Existing) | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/ | Home > Manage your VA debt and bills | This is the existing debt static page
+(1) Debt and bills static landing page (Existing) | **old:** /manage-va-debt/ <br> **new:** /manage-debt-and-bills/ | Home > Manage your VA debt and bills | This is the existing debt static page
 (2) Your debt and bills summary (NEW) | /manage-debt-and-bills/summary/ | Home > Manage your VA debt and bills > Your debt and bills summary | 
-(3) Copay bill balances (Existing) | old: /health-care/pay-copay-bill/your-current-balances/ <br> new: /manage-debt-and-bills/summary/copay-balances/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  | 
-(4) Copay bill details (Existing) | old: /health-care/pay-copay-bill/your-current-balances/balance-details/ <br> new: /manage-debt-and-bills/summary/copay-balances/detail/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name] | 
-(5) Copy bill statement (Existing) | old:/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ <br> new: /manage-debt-and-bills/summary/copay-balances/detail/statement/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name]  >   [date] statement | 
-(6) Benefit debt blalances (Existing) | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/summary/debt-balances/ | VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances  | 
-(7) Debt details (Existing) | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/summary/benefit-debt-balances/details/  | VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt details | 
-(8) Debt letters (Existing) | old: /manage-va-debt/ <br> new: /manage-debt-and-bills/summary/benefit-debt-balances/letters/ |VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt letters | 
+(3) Copay bill balances (Existing) | **old:** /health-care/pay-copay-bill/your-current-balances/ <br> **new:** /manage-debt-and-bills/summary/copay-balances/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  | 
+(4) Copay bill details (Existing) | **old:** /health-care/pay-copay-bill/your-current-balances/balance-details/ <br> **new:** /manage-debt-and-bills/summary/copay-balances/detail/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name] | 
+(5) Copy bill statement (Existing) | **old:**/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ <br> **new:** /manage-debt-and-bills/summary/copay-balances/detail/statement/ | Home  >  Manage your VA debt and bills  > Your current debt and bills  >  Current copay bills  > Copay bill for [facility name]  >   [date] statement | 
+(6) Benefit debt blalances (Existing) | **old:** /manage-va-debt/ <br> **new:** /manage-debt-and-bills/summary/debt-balances/ | VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances  | 
+(7) Debt details (Existing) | **old:** /manage-va-debt/ <br> **new**: /manage-debt-and-bills/summary/benefit-debt-balances/details/  | VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt details | 
+(8) Debt letters (Existing) | **old:** /manage-va-debt/ <br> **new:** /manage-debt-and-bills/summary/benefit-debt-balances/letters/ |VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt letters | 
 (9) Request help static landing page (NEW) | /manage-debt-and-bills/request-help/ | Home  >  Manage your VA debt and bills  >  Request help for debt and bills | New static landing page to help users find the right option  
-(10) Request help/FSR form (Existing) | /manage-debt-and-bills/request-help/request-financial-help-form-5655/ | VA.gov home  >  Manage your VA debt and bills  >  Request help with debt and bills  >  Request financial help (VA Form 5655)  | 
+(10) Request help/FSR form (Existing) | **old:** /manage-va-debt/request-debt-help-form-5655/  <br>  **new**  /manage-debt-and-bills/request-help/request-financial-help-form-5655/ | VA.gov home  >  Manage your VA debt and bills  >  Request help with debt and bills  >  Request financial help (VA Form 5655)  | 
 (11) Pay your copay bill static page (RETIRE) | /pay-copay-bill/ | n/a | This page is no longer needed and will be retired and redirected
 (12) Displute your VA copay charges (RETIRE) | /pay-copay-bill/dispute-charges/ | n/a | This page will be retired and redirected. Content will be moved to the Request help static page and applicable R&S articles. 
 (13) Request VA financial hardship assistance (RETIRE) | /pay-copay-bill/financial-hardship/ | n/a | This page will be retired and redirected. Content will be moved to the Request help static page and applicable R&S articles. 
@@ -53,8 +52,14 @@
 
 **A/R/M** | **Page/component** | **Link destination** | **Placement/description of change**
 --- | --- | --- | ---
-   |   |   |  | 
-
+Modify | Health care hub | www.va.gov/manage-debt-and-bills/summary/copay-balances/  | Update existing "Pay your VA copay bill" link to deep link into auth tool.  
+Modify | Health care left nav | www.va.gov/manage-debt-and-bills/summary/copay-balances/  | Update existing "Pay your VA copay bill" link to deep link into auth tool. 
+Add | Disabiltiy hub | |
+Add | Disability left nav | |
+Add | Education hub | |
+Add | Education left nav | |
+Add | Pension hub | |
+Add | Pension left nav | |
 
 
 ## <a name="redirects"></a>Redirects <br>
