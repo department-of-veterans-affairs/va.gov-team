@@ -39,7 +39,7 @@ The paper version of the 10-10EZ includes a question for Veterans to indicate wh
 ---
 ## Measuring Success
 
-### Objective: Update the 10-10EZ, so it is inclusive and easy for American Indian/Alaska Native applicants to identify their heritage and complete without having to exit the application.
+### Objective: Update the 10-10EZ, so it is inclusive and easy for American Indian/Alaska Native applicants to identify their heritage, and complete the application without having to exit the application.
 
 **Key Result #1:** Increase application submissions by 2%
 
