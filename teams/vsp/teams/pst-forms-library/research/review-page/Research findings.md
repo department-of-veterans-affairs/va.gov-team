@@ -1,7 +1,7 @@
 
 # Review Page Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Forms Library Team 
+**Office of the CTO - Digital Experience (OCTO-DE), Forms Library Team **
 
 Date: 05/19/2022
 
@@ -13,7 +13,7 @@ Date: 05/19/2022
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
 [Key findings](insert link to section)
 
@@ -30,7 +30,7 @@ This research will help us understand:
 
 Veteran's general experience around filling out forms
 Veteran's practices around the Review Page
-Which of the three Review page design options work best for Veterans
+Identify which of the three Review page design options work best for Veterans
 
 
 # Research Questions
@@ -42,38 +42,25 @@ Which of the three Review page design options work best for Veterans
 
 # Methodology 
 
-The team conducted 1:1 semi-structured interview over zoom with Veterans to understand their experience working with the current Review Page. 
+- The team conducted 1:1 semi-structured interview over zoom with Veterans to understand their experience working with the current Review Page. 
 - The team chose the Burial Benefits form (21P-530) to research with Veterans.
 - We presented three proposed variations to identify which design best suits Veteran needs for reviewing and editing prior to form submission. 
 
-
-
 # Hypotheses and Conclusions
 
-True - Veterans find it easier to quickly review all the information in the Review page with information always visible. <br>
-True - Veterans find it easier to edit individal data fields rather than entire sections. <br>
-More information required (planning futher research) - Veterans find it easier to edit any information that might need updating on the original page rather than the Review page.
+TRUE - Veterans find it easier to quickly review all the information in the Review page with information always visible. <br>
+TRUE - Veterans find it easier to edit individal data fields rather than entire sections. <br>
+MAYBE TRUE - Veterans find it easier to edit any information that might need updating on the original page rather than the Review page.
 
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+- 5 out of 6 Participants preferred Design Option #2 for the following reasons: 
+-- Visibility of information - always visible to review
+-- Edit option - ability to edit  individual data fields  
+- All participants preferred the Review page with the information always open so they can review the information with ease. 
+- 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. The other two participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
+- No participant interacted with anchors in the top of the page until prompted.  However, all participants valued the ability to easily get to a section from the top of the page.
 
 
 # Details of Findings 
@@ -125,7 +112,9 @@ Brief description
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+- All participants were unsure if their family would have access to their military history information that is required to fill out the burial benefits form.
+- 3 out of the 6 participants expected for certain sections of the burial benefits form to be auto-filled based on Social Security Number or with the help of VA assistance.
+- One participant said they would prefer a bigger font size for better readability.
 
 
 # Recommendations
@@ -140,12 +129,14 @@ _Put together initial recommendations here based on your findings along with sup
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Engineers will create a working prototype of the Review page pattern based on Design #2 
+- Edit option in the working prototype will take Veterans back to the appropriate form page and anchors on the field that was chosen to edit
+
 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+- Furtherresearch with Veterans to get feedback on desktop designs, accessibility issues and the new edit design
 
 
 # Appendix
@@ -165,11 +156,6 @@ e.g. mural boards, etc.
 ## Pages and applications used
 
 Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
 
 
 ## Secondary research
