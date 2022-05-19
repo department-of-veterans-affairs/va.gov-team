@@ -32,26 +32,25 @@ Veteran's general experience around filling out forms
 Veteran's practices around the Review Page
 Identify which of the three Review page design options work best for Veterans
 
-
 # Research Questions
 
 - How Veterans use the Review Page in the forms experience by using the Application for Burial Benefits form Review Page as an example?
 - What are the pain points and issues on the Review Page of the Application for Burial Benefits form experience?
 - How Veterans interact with the Review Page components? (help determine which of the design variations best suit their needs)
 
-
 # Methodology 
 
-- The team conducted 1:1 semi-structured interview over zoom with Veterans to understand their experience working with the current Review Page. 
-- The team chose the Burial Benefits form (21P-530) to research with Veterans.
-- We presented three proposed variations to identify which design best suits Veteran needs for reviewing and editing prior to form submission. 
+- We conducted 1:1 semi-structured remote moderated research sessions via Zoom on May 9 - 11, 2022. 
+- Participants we asked to imagine that they just filled out the burial benefits form and provide feedback on the Review page to better underestand understand their experience working with the current Review Page. 
+- Participants were asked how they would edit a wrong entry in the review page.
+- Each partticipant saw three proposed variation (in different order) and asked to provide feedback on the design variation. Participants were also asked how they would edit a wrong entry in that design variation. 
+- Finally, each participant was asked to  
 
 # Hypotheses and Conclusions
 
 TRUE - Veterans find it easier to quickly review all the information in the Review page with information always visible. <br>
 TRUE - Veterans find it easier to edit individal data fields rather than entire sections. <br>
 MAYBE TRUE - Veterans find it easier to edit any information that might need updating on the original page rather than the Review page.
-
 
 # Key Findings
 
@@ -62,26 +61,18 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 - 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. The other two participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
 - No participant interacted with anchors in the top of the page until prompted.  However, all participants valued the ability to easily get to a section from the top of the page.
 
-
 # Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 
 **Finding 1**
 
-Labels: label 1, label 2 
+- 5 out of 6 Participants preferred design option #2 for the following reasons
+--Visibility of information - All participants preferred the Review page with the information always open so they can review the information with ease.
+--Edit option - 4 out of 6 participants preferred the editing label on individual fields instead of entire sections. They believed this would help them avoid editing other fields by mistake.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> "you're going to have to review each section anyway - why not have them already open? If they're closed, people will skip the review altogether and just submit" (P4).
 
-Brief description
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> "I'm old and I'd rather see all of it like it's a piece of paper" (P1).
 
 
 **Finding 2**
