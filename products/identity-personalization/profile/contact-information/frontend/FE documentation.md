@@ -60,7 +60,8 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 - Review your mailing address
 
-<img width="664" alt="Screen Shot 2022-05-06 at 11 11 06 AM" src="https://user-images.githubusercontent.com/79372956/167194327-040ed284-7e4a-4b1d-bbee-a7eebb9e7dce.png">
+<img width="648" alt="Screen Shot 2022-05-19 at 3 57 50 PM" src="https://user-images.githubusercontent.com/79372956/169417689-b1d76d1d-9645-4bef-81ef-7e7df6502984.png">
+
 
 --------
 
