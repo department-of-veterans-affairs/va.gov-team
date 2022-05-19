@@ -1,7 +1,7 @@
 ---
 name: My VA Issue Template
 about: For the My VA Auth Exp team
-title: '[practice, initiative] description'
+title: '[practice],[initiative] description'
 labels: ''
 assignees: ''
 
