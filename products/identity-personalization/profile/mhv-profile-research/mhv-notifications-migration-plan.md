@@ -1,4 +1,4 @@
-# MHV notification settings migration plan - DRAFT
+# MHV notification settings migration plan
 
 Last updated May 13, 2022
 
@@ -10,10 +10,10 @@ Per our [MHV profile audit](https://github.com/department-of-veterans-affairs/va
 
 This effort will involve the following:
 
-- Adding each email notification to VANotify.
-- Setting up preferences in the VA Profile backend.
-- Migrating existing user preferences into the VA Profile backend.
-- Surfacing preferences in the VA.gov interface.
+- Adding each MHV email notification to VANotify.
+- Setting up MHV preferences in the VA Profile backend.
+- Migrating existing MHV user preferences into the VA Profile backend.
+- Surfacing MHV preferences in the VA.gov interface.
 
 ## When will this work start?
 
