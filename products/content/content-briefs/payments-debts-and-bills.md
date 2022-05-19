@@ -8,7 +8,9 @@ Created by the VA.gov sitewide content team for teams working on products relate
 
 ## Overview
 
-Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. This brief will help your team create content for your product that aligns with the VA.gov voice and content standards. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. We’ll work with your team to update it as we go.
+Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. As we move toward preparing for translation, consistency becomes even more important.  
+
+This brief will help your team create content for your product that aligns with the VA.gov voice and content standards and that uses consistent language about VA appointments. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. 
 
 [Read our top 10 plain language standards in the VA.gov content style guide for more]([https://design.va.gov/content-style-guide/](https://design.va.gov/content-style-guide/content-principles/plain-language)
 
