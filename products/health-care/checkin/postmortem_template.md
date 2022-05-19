@@ -4,6 +4,7 @@
 <h3>Summary & Impact</h3>
 Enter a concise summary of the event including the different (team-level) actors in the event.
 If possible, provide a quantified statement about the impact of the incident using available monitoring and/or metrics.
+Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. 
 
 <h3>What happened? Why?</h3>
 Describe in more detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts.
