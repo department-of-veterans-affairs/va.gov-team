@@ -1,14 +1,11 @@
-<br>**This is a template, PLEASE MAKE A COPY**
 
----
+# Review Page Research Findings 
 
-# [Study] Research Findings 
+**Office of the CTO - Digital Experience (OCTO-DE), Forms Library Team 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+Date: 05/19/2022
 
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+[Kavitha Krishnan] [kavitha.krishnan@adhocteam.us] 
 
 [Research Report PDF] (link here)
 
@@ -29,42 +26,33 @@ Date: MM/DD/YYYY
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+This research will help us understand:
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+Veteran's general experience around filling out forms
+Veteran's practices around the Review Page
+Which of the three Review page design options work best for Veterans
 
 
 # Research Questions
 
-_Research questions here_
+- How Veterans use the Review Page in the forms experience by using the Application for Burial Benefits form Review Page as an example?
+- What are the pain points and issues on the Review Page of the Application for Burial Benefits form experience?
+- How Veterans interact with the Review Page components? (help determine which of the design variations best suit their needs)
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
 
 # Methodology 
 
-_Brief description of method chosen_
+The team conducted 1:1 semi-structured interview over zoom with Veterans to understand their experience working with the current Review Page. 
+- The team chose the Burial Benefits form (21P-530) to research with Veterans.
+- We presented three proposed variations to identify which design best suits Veteran needs for reviewing and editing prior to form submission. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+True - Veterans find it easier to quickly review all the information in the Review page with information always visible. <br>
+True - Veterans find it easier to edit individal data fields rather than entire sections. <br>
+More information required (planning futher research) - Veterans find it easier to edit any information that might need updating on the original page rather than the Review page.
 
 
 # Key Findings
