@@ -12,7 +12,7 @@ Speaking plainly, compassionately, and consistently across VA.gov helps us build
 
 This brief will help your team create content for your product that aligns with the VA.gov voice and content standards and that uses consistent language about VA appointments. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. 
 
-[Read our top 10 plain language standards in the VA.gov content style guide for more]([https://design.va.gov/content-style-guide/](https://design.va.gov/content-style-guide/content-principles/plain-language)
+[Read our top 10 plain language standards in the VA.gov content style guide for more][https://design.va.gov/content-style-guide/](https://design.va.gov/content-style-guide/content-principles/plain-language)
 
 ## Related terminology
 
