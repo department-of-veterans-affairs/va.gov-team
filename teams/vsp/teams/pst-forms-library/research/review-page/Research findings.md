@@ -77,28 +77,16 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 
 **Finding 2**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+2 out of the 6 participants preferred to edit the entire section instead of individual data fields.  They wanted to access/edit the entire section/multiple data fields at the same time thus saving time and effort. 
 
 
 **Finding 3**
 
-Labels: label 1, label 2 
+No participant interacted with anchors in the top of the page until prompted. However, all participants valued the ability to easily get to a section from the top of the page.
+5 out of 6 participants understood the purpose of the anchors in the top of the page. One participant was confused by the downward facing arrows. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> "An arrow pointing down makes me think it’s simply to scroll down to get to that section… If the arrow was turned 90 degrees to face right, I would assume it was interactable" (P1).
 
 
 # Additional Insights
@@ -107,28 +95,16 @@ Brief description
 - 3 out of the 6 participants expected for certain sections of the burial benefits form to be auto-filled based on Social Security Number or with the help of VA assistance.
 - One participant said they would prefer a bigger font size for better readability.
 
-
-# Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
+> "A child shouldn't need to supply the military history and benefits information. I am unsure whether the military history and benefits information is supplied by the VA or entered by the claimant" (P6).
 
 # Next Steps
 
 - Engineers will create a working prototype of the Review page pattern based on Design #2 
 - Edit option in the working prototype will take Veterans back to the appropriate form page and anchors on the field that was chosen to edit
 
-
-
 # Further research needed
 
 - Furtherresearch with Veterans to get feedback on desktop designs, accessibility issues and the new edit design
-
 
 # Appendix
 
@@ -138,16 +114,13 @@ _Put together initial recommendations here based on your findings along with sup
 
 [Interview transcripts](link here)
 
-
 ## Tools used for Synthesis
 
 e.g. mural boards, etc.  
 
-
 ## Pages and applications used
 
 Link to prototypes or pages that were tested
-
 
 ## Secondary research
 
