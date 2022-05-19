@@ -146,6 +146,7 @@ sequenceDiagram
     participant c as CHIP
     participant va as VistA API
     participant cw as Clinician Workflow
+    participant vp as VA Profile
 
     activate vet
     vet->>+web: Click check-in
@@ -153,6 +154,8 @@ sequenceDiagram
         web->>+api: PUT /demographics
         api->>+c: confirm demographics
         c->>+cw: set patient demographic status
+        cw->>+vp: update timestamp
+        vp--)-cw: response
         cw--)-c: status set
         c--)-api: response
         api--)-web: response
