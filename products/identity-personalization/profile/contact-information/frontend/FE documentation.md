@@ -52,7 +52,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 #### Body:
 
-- The address we have on file for you may not be correct. To change or confirm your address, select **Edit**. Once you've changed your address, or if it's already correct, select **Update** to confirm.
+- The address we have on file for you may not be correct. Select **Edit** to review your address. After you correct your address, or if it's already correct, select **Update** to confirm.
 
 	_Note: Edit and Update are **bold**._
 
