@@ -103,6 +103,18 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 
 # VistA Configuration Data
 
+### Available Clinics (station 530)
+
+| `clinicIen` | `clinicName` | Patient Friendly Name | Usual Availability (ET) | E-Checkin Allowed |
+| --- | ---------------- | ------ |------| ------|
+| 451 | STG/CARDIO/1 | | M-F 8AM - 330PM | Yes |
+| 463 | STG/CARDIO/3 | | M-F 8AM - 330PM | Yes |
+| 464 | STG/ECHO/3 | | M-F 8AM - 330PM | Yes |
+| 478 | STG/ECHO/5 | | M-F 8AM - 330PM | Yes |
+| 485 | STG/ECHO/6 | | M-F 8AM - 330PM | Yes |
+
+
+
 ### Available Clinics (station 500)
 
 | `clinicIen` | `clinicName` | Patient Friendly Name | Usual Availability (ET) | E-Checkin Allowed |
