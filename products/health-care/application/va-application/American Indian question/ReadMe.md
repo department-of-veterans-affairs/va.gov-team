@@ -48,7 +48,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 | Product KPI | 12mo Baseline | Target | Post-Launch |
 |------------- |---------|-------|-------------- |
 |Application Submissions | 14% (114k)  | 16% | TBD|
-|American Indian submissions | N/A | 2% | TBD|
+
 
 ---
 
