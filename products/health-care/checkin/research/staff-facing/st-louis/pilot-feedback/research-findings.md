@@ -132,12 +132,12 @@ Brief description
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* **Pre-check-in**
+    * Explore opportunities to increase utilization of pre-check-in with Veterans (to ensure it doesn't "get lost.") For example, communicating the value to Veterans, test new text message variations, send the text message multiple times if not completed, send text message at a different time or day after confirminng their appointment, move pre-check-in link into initial text message, introduce email for pre-check-in, etc. 
+    * Consider implementing editing of demograhpic information in pre-check-in. 
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* **Check-in**
+    * Consider  
 
 # Appendix
 
