@@ -21,7 +21,7 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#recommendations)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#appendix)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#who-we-talked-to)
 
 <br>
 
