@@ -49,7 +49,7 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Last status |
 | :--- | :--- | :--- | 
-| Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
+| Form fields input chart | [Github-Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/10-10EZ%20fields_Short%20form_3.18.xlsx) | Up-to-date |
 | Authenticated-immediate alert flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq) | Up-to-date |
 | Authenticated-self-report flow | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/jgDjqJb) | Up-to-date |
 | Unathenticated-self-report flow  | [Sketch](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j)  | Up-to-date |
