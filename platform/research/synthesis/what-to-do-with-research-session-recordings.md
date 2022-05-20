@@ -1,3 +1,12 @@
+----
+
+# This documentation has moved! 
+### [The latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/Recording-User-Research-Sessions.2050949305.html) is found on the Platform website!
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 
 # Recording User Research Sessions 
 
