@@ -137,7 +137,29 @@ Brief description
     * Consider implementing editing of demograhpic information in pre-check-in. 
 
 * **Check-in**
-    * Consider  
+    * Consider implementing a push SMS message on day of appointment knowing that Veterans are arriving earlier than 30 minutes for check-in. And, consider increasing the check-in window beyond 30 minutes. 
+    * Look for opportunities (via an audit) to provide more context in error messages in VA.gov to expedite check-in process for Veterans and staff. 
+    * Work with engineers to replicate (and correct, if possible) the scenario where users are starting lower on the page after identify verification. 
+    * Explore oppportunities to improve the CHIP text response when 0 appointments are found. E.g., avoid Veteran confusion if/when directed to va.gov/find-locations. 
+
+* **Check-in poster**
+    * Consider finding a way to include the “30 minute window” message into the poster to increase Veteran satisfaction. In addition, consider adding a VA logo to the poster to add credibility and authenticity.
+    * Consider testing a poster option without a QR code (knowing that it’s troublesome for some Veterans and devices). 
+    * Look into creating guidelines for poster placement in clinics. In addition, look for opportunities for Human Centered Designers to offer assistance at clinics when setting up posters. 
+
+* **Back of the house**
+    * Continue to look for opportunities to improve lag time between VSE-GUI and VSE-CS, which was a staff frustration. 
+    * Share knowledge with training team on observations and feedback heard from staff on the desire for more training opportunities and creating consistencies between clinics on using VSE-GUI and VSE-CS, how to assist Veterans with check-in, when to go ahead and check in some Veterans, how to fix hard stops, etc.  
+    * Share knowledge with training team on success of staff member helping Veterans in the clinic waiting room for check-ins. Recommend piloting at other clinics during VISN roll outs. 
+    * Work with staff-facing check-in team to share knowledge on suggested improvements from staff on VSE-CS. E.g., more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient name, ability to check in, filtering options in Workflow, etc. 
+
+* **Feature enhancements**
+    * Talk with additional staff to understand if patient record flags are desirable in VSE-CS.
+    * Discuss telephone appointment findings with check-in team to determine if additional gaps exist prior to piloting. 
+    * Prioritize feature enhancements with product owners, including:  
+        * Integration of travel reimbursement into check-in 
+        * Ability for caregivers to check in for Veterans 
+        * Expansion into walk-in appointments 
 
 # Appendix
 
