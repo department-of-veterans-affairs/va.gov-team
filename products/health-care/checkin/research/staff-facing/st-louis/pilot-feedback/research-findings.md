@@ -155,3 +155,16 @@ Brief description
 ## Pages and applications used
 
 [Check-In Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos)
+
+## Who we talked to
+
+9 MSAs, MSA Leads and clinic administrators
+6 clinicians
+
+Due to the intercept method used for this research, we were unable to collect demographic information that supports the VA's inclusive research guidelines. 
+
+We spoke with staff from a number of clinics, including:
+
+- North County CBOC, St. Louis (Primary care, wellness, nutrition, etc.) 
+- GI Lab, Eye Clinic, OT/PT, Speciality Care Clinic (at St. Louis VAMC) 
+- Olive Street VA Clinic (Women's Health and Dermatology Clinic) 
