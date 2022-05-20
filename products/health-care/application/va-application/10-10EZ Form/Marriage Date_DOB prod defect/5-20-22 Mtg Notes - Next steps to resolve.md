@@ -1,0 +1,35 @@
+# May 20, 2022 - Team discussion with Lisa, guest starring Jesse Cohn
+
+
+Production error began 4/5/2022 - [Ticket #40039](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/40039)
+
+<details>
+  <Summary>Details of Production Defect</Summary>
+
+>## What happened?
+>Veterans are complaining that they receive an error when they are filling out the online 10-10EZ application form. When filling in spouses DOB and marriage date it kicks back the date saying it is invalid. The error code that comes up reads that the marriage date is before the date of birth. The above error is being thrown at this block of ```vets-website``` [code here](https://github.com/department-of-veterans-affairs/vets-website/blob/ae3d33359eeea88929348a268b7921bf80b81bb2/src/applications/hca/validation.js#L55-L73). 
+>
+>We are hearing of approx 100 reports of this issue. 
+>For additional details, notes and related tasks, see [Ticket #40039](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/40039)
+  
+We have since removed date validation so that applications can be submitted.  We have been unable to reproduce the issue ourselves.
+  
+</details>
+
+### Steps we will take to work toward resolving the defect
+- Change source of condition, to show authenticated user static page, to currentlyLoggedin instead of hasSession - ticket created
+- Change source of condition, to show unauthenticated name, dob & ssn pages, to currentlyLoggedin instead of hasSession - ticket created
+- Change source of data, on authenticated static page, to user profile data instead of prefill data.
+- Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data.
+- Do not display dob on static page if profile dob does not have a value
+     - Display date of birth page for user to input
+- Display a message on static page if profile veteran name does not have a value, like "we are experiencing issue please try again later." 
+     - Dene to assist with message
+     - We will not stop the applicant from moving past the page or submitting the application
+- Remove validations with dob, provide message on page instead, for the following:
+     - validateServiceDates
+     - validateMarriageDate
+- Make changes on backend to support the above.
+- Confirm users are not experiencing issues around submitting as a result of veteran name, dob and ssn.
+- Close Error on 1010EZ: Marriage Date and Spouse DOB #40039
+- Add logging in google analytics, sentry api and datadog to monitor
