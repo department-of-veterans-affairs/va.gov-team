@@ -19,7 +19,7 @@
 <br>
 
 ## Feature background
-Our analytics and [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/10-10EZ%20Discovery%20Research%20readout.pdf) shows that the sections that cause the most confusion and result in the most drop-offs is the Military information and Household/financial information sections. Because these sections are not necessary for Veterans that are in Priority group 1, we will remove any questions that aren't necessary for their application.
+Our analytics and [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery/10-10EZ%20Discovery%20Research%20readout.pdf) shows that the sections that cause the most confusion and result in the most drop-offs is the Military information and Household/financial information sections. Because these sections are not necessary for Veterans that are in Priority group 1, we will remove any questions that aren't necessary for their application.
 
 User story: As a Veteran applying for health care, I would like to expedite the application so I can complete it faster, remove blockers, and have less confusion.
 
