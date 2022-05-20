@@ -28,9 +28,9 @@ Date: 05/19/2022
 # Research Goals
 This research will help us understand:
 
-Veteran's general experience around filling out forms
-Veteran's practices around the Review Page
-Identify which of the three Review page design options work best for Veterans
+- Veteran's general experience around filling out forms
+- Veteran's practices around the Review Page
+- Identify which of the three Review page design options work best for Veterans
 
 # Research Questions
 
