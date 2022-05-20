@@ -80,7 +80,7 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 
 **Finding 2**
 
-2 out of the 6 participants preferred to edit the entire section instead of individual data fields.  They wanted to access/edit the entire section/multiple data fields at the same time thus saving time and effort. 
+- 2 out of the 6 participants preferred to edit the entire section instead of individual data fields.  They wanted to access/edit the entire section/multiple data fields at the same time thus saving time and effort. 
 
 
 **Finding 3**
@@ -115,22 +115,12 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md)
 
-[Interview transcripts](link here)
-
-## Tools used for Synthesis
-
-e.g. mural boards, etc.  
+[Interview transcripts](link here) - TBD
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+- [Link to UXPin Prototype](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
+- [Shorter URL](https://tinyurl.com/4j55skpx)	 
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -138,37 +128,41 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Primary criteria (must-haves) 
 
-We talked to **x participants.**
+We are testing a mobile prototype, so all participants should call in or be able to use their mobile device to complete the session
+Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
+Secondary criteria (nice-to-haves) 
+
+At least 2 participants who identify as women
+Atleast 2 participants over the age of 55
+
+We talked to **6 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 6 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 4 
+* Female: 2 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 1
+* Tablet: 2 
+* Smart phone: 3 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
+* 25-34: 0
+* 35-44: 1
 * 45-54: x
 * 55-64: x
 * 65+: x
