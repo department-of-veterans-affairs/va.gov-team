@@ -42,7 +42,7 @@ Ensure that they can’t be confused and that Veterans can easily select Save dr
 
     <br>    
 **Provider phone and email:**
-    - Consider having this info available to let Veterans know what to call if they don’t get a response fast enough. This info is in [Facility Locator](https://www.va.gov/find-locations), so one possibility is to link there.
+  - Consider having this info available to let Veterans know what to call if they don’t get a response fast enough. This info is in [Facility Locator](https://www.va.gov/find-locations), so one possibility is to link there.
 
     <br>  
 **Templates:**
