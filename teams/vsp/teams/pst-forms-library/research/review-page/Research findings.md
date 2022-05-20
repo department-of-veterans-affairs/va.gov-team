@@ -42,10 +42,10 @@ This research will help us understand:
 
 We conducted six 1:1 semi-structured remote moderated research sessions via Zoom between May 9 - 11, 2022. 
 - Participants were asked to imagine that they just filled out the burial benefits form and to provide feedback on the Review page to better underestand understand their experience working with the current Review Page. 
--- Participants were asked how they would edit a wrong entry in the review page.
+  -Participants were asked how they would edit a wrong entry in the review page.
 
 - Each participant saw three proposed variation (in different order) and were asked to provide feedback on the design variation. 
--- Participants were also asked how they would edit a wrong entry in that design variation. 
+  - Participants were also asked how they would edit a wrong entry in that design variation. 
 - Finally, each participant was asked to choose a design variation that allowed them to quickly and effeciently review information and edit any mistakes. 
 
 # Hypotheses and Conclusions
@@ -57,8 +57,8 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 # Key Findings
 
 - 5 out of 6 Participants preferred Design Option #2 for the following reasons: 
--- Visibility of information - always visible to review
--- Edit option - ability to edit  individual data fields  
+  - Visibility of information - always visible to review
+  - Edit option - ability to edit  individual data fields  
 - All participants preferred the Review page with the information always open so they can review the information with ease. 
 - 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. The other two participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
 - No participant interacted with anchors in the top of the page until prompted.  However, all participants valued the ability to easily get to a section from the top of the page.
