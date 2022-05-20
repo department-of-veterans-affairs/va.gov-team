@@ -111,7 +111,7 @@ May 25, 2022 | Noon - 3 pm, 4 - 8 pm
 - Project point of contact:	Cindy Merrill
 - Participants for pilot test:	Keith Adkins, Angela Fowler
 - Note-takers:	Perigean
-- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Meg Peters (meg.peters@va.gov), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov), Mikki Northuis (mikki@adhocteam.usocteam.us)
+- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Meg Peters (meg.peters@va.gov), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov), Mikki Northuis (mikki@adhocteam.usocteam.us), Tracey Mulrooney (tracey.mulrooney@va.gov)
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on May 13, 2022
