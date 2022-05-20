@@ -16,15 +16,17 @@ The alert could display on Messages landing page whenever message(s) are archive
   - Make it clear in the UI where and how to manage SM notification options. (When we move to VANotify, Veterans will manage these options in VA.gov profile.)
   - Consider where besides the Messages landing page to link to manage notification options. Messages left navigation? 
 
+
 2. **Compose message:**
-While on Compose screen: 
-— Alert the user before site times out. This alert is not prominent now, per ForeSee. Should we change the way the alert displays? 
-— Auto save message in Compose state, using a short time period. (This helps with site timeouts.)
+  a) Timeout and auto save: 
+  - The alert that MHV is timing out is not prominent now. Should we change the way the alert displays? 
+  - Auto save message in Compose state, using a short time period. 
+  - Can we code the site so that typing a message counts as an activity to keep the session active? 
 
-Contacts list:
-— Simplify it and show all providers the Veteran can send messages to
+  b) Contacts list:
+  - Simplify it and show all providers the Veteran can send messages to
 
-Save draft and Send buttons: 
+  c) Save draft and Send buttons: 
 Ensure that they can’t be mixed up. Options: 
 — Put them farther from each other or otherwise change placement
 — Consider using secondary button style for Save draft
@@ -32,9 +34,6 @@ Ensure that they can’t be mixed up. Options:
 
 Provider phone and email: 
 — Consider having this info available to let Veterans know what to call if they don’t get a response fast enough. This info is in Facility Locator, so one possibility is to link there: https://www.va.gov/find-locations
-
-— Site timeouts: 
-Can we code the site so that typing a message counts as an activity? This could be one reason users aren’t aware of timeouts now (in addition to the alert banner not being very visible).
 
 — Templates: 
 Veterans want templates for common messages and questions
