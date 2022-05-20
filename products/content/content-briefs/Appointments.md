@@ -8,14 +8,16 @@ Ask us in our slack channel: #va-sitewide-content <br>
 [Read about the purpose of a content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-purpose.md) <br>
 
 ## Overview
-Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. This brief will help your team create content for your product that aligns with the VA.gov voice and content standards and that uses consistent language about VA appointments. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. We’ll work with your team to update it as we go.
+Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. As we move toward preparing for translation, consistency becomes even more important.  
 
-As we move toward preparing for translation, we want to be as consistent as possible with content terms. 
+This brief will help your team create content for your product that aligns with the VA.gov voice and content standards and that uses consistent language about VA appointments. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. 
+
+[Read our top 10 plain language standards in the VA.gov content style guide for more]([https://design.va.gov/content-style-guide/](https://design.va.gov/content-style-guide/content-principles/plain-language)
 
 ## Related terminology
 
-| Word or phrase | Notes | Reference |
-| -------------- | --------------- | --------------- |
+| Word or phrase | Notes | Reference | Last updated |
+| -------------- | --------------- | --------------- | --------------- |
 | **appointment** | Use "appointment" consistently (don't interchange with "visit" or other words) | VA content standards (not yet in style guide) |
 | **check-in or check in** | This is the step that the person takes when they arrive. Use "check-in" (with hyphen) as a noun or adjective and "check in" (no hyphen) as a verb. Example: Complete the check-in process. vs. You can check in with your smartphone. | VA content standards (not yet in style guide) and AP style |
 | **clinic** | Clinics at VA have two meanings. One is the physical location where an appointment may be held. The other refers to the scheduling grid VA uses. A single provider can have many "clinics" - even if all of them take place in the same physical location. A provider may have a different clinic grid for each day of the week, for the format of care (phone, in person, telehealth), or even for returning vs. new patients, which may impact the length of the appointment. As part of the self-scheduling process, Veterans may see multiple "clinics" listed, and need to know which is THEIR clinic, so they can self-schedule. This is a known pain point in VistA scheduling, which will be alleviated somewhat once sites move to Cerner. 
