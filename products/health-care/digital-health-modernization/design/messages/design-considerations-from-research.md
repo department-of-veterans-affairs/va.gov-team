@@ -6,7 +6,7 @@ The design considerations below are based on various research studies dating fro
 
 ## Based on the research, here are some things to address and consider in Messages designs:
 
-1. **General:** 
+1. **General:** <br></br>
 45-day limit on messages: 
 — Show an info alert that 00 messages have been archived? 
 The alert could display on Messages landing page whenever message(s) are archived between the user’s SM sessions. “Since you were last here, 00 of your messages were archived. This means… XYZ.” Should an alert like this show on other pages besides Messages landing? 
