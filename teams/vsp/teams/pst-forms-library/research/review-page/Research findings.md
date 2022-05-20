@@ -40,10 +40,11 @@ This research will help us understand:
 
 # Methodology 
 
-- We conducted 1:1 semi-structured remote moderated research sessions via Zoom on May 9 - 11, 2022. 
-- Participants we asked to imagine that they just filled out the burial benefits form and provide feedback on the Review page to better underestand understand their experience working with the current Review Page. 
+- We conducted six 1:1 semi-structured remote moderated research sessions via Zoom between May 9 - 11, 2022. 
+- Participants were asked to imagine that they just filled out the burial benefits form and to provide feedback on the Review page to better underestand understand their experience working with the current Review Page. 
 - Participants were asked how they would edit a wrong entry in the review page.
-- Each partticipant saw three proposed variation (in different order) and asked to provide feedback on the design variation. Participants were also asked how they would edit a wrong entry in that design variation. 
+- Each participant saw three proposed variation (in different order) and were asked to provide feedback on the design variation. 
+- Participants were also asked how they would edit a wrong entry in that design variation. 
 - Finally, each participant was asked to  
 
 # Hypotheses and Conclusions
