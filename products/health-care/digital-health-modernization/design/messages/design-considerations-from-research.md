@@ -55,20 +55,19 @@ On MHV, after the user hits Reply on an archived message, they’re taken to a m
 - Should there be a Reply button on messages you can’t reply to? 
 <br> 
 
-### Considerations for when MHV notifications move to VANotify:** 
+### Considerations for when MHV notifications move to VANotify:
 - Default to emailing notifications instead of requiring the Veteran to turn on SM notifications? 
 - Currently the email MHV sends SM notifications to is different from both the the email in MHV profile and the email in VA.gov profile. Discuss and decide how to simplify and clarify the UX.  
 <br>
 
 ## Past design work on secure messaging 
-### Health APT prototypes for Messages: 
+**Health APT prototypes for Messages:**
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/m1vqVGL/play)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/1Kp7O8w/play?hotspots=false)
 
 
-### For 2019 SM designs by Martha Wilkes, see the “ComparisonSecureMessaging” Word doc linked at the top of the comments in the Github issue below.
-- [ComparisonSecureMessaging.docx](https://github.com/department-of-veterans-affairs/digitalservice/files/3975714/ComparisonSecureMessaging.docx)
-- [Github issue](https://github.com/department-of-veterans-affairs/digitalservice/issues/1059)
+**Secure messaging designs by Martha Wilkes in 2019:**
+- See this [ComparisonSecureMessaging.docx](https://github.com/department-of-veterans-affairs/digitalservice/files/3975714/ComparisonSecureMessaging.docx), which is linked from this [Github issue.](https://github.com/department-of-veterans-affairs/digitalservice/issues/1059)
 
-### Original Vets.gov design work (2018 or earlier):
+**Vets.gov designs for secure messaging:**
 - [These designs are from 2018 or earlier.](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Secure%20Messaging/Design) 
