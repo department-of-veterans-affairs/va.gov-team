@@ -92,7 +92,7 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**MSAs see value in allowing editing of demographic information in pre-check-in.**
 
 Labels: label 1, label 2 
 
@@ -105,7 +105,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 2**
+**Some staff felt that the roll out lacked proper training. Based on our observations, staff would benefit from training on a variety of fronts.**
 
 Labels: label 1, label 2 
 
@@ -117,6 +117,54 @@ Brief description
 
 > _Supporting data: Quote here_
 
+
+**Technical, network and cellular service have been the root of some staff unhappiness, however, most see the potential with check-in when those issues are resolved.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+**Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+**Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+**Inconsistencies in how clinicians and clinics complete pre-registration with patients for telephone appointments.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
 
 **Finding 3**
 
