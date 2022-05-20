@@ -111,20 +111,39 @@
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**A/R/M** | **Page/component** | **Link destination** | **Placement/description of change**
---- | --- | --- | ---
-Modify | Health care hub | www.va.gov/manage-debt-and-bills/summary/copay-balances/  | Update existing "Pay your VA copay bill" link to deep link into auth tool.  
 
-Placement: Health care left nav  (Modify)
-- Link label: Pay
-- Link destination: www.va.gov/manage-debt-and-bills/summary/copay-balances/
-- Notes: Update existing "Pay your VA copay bill" link to deep link into auth tool. 
-Add | Disability hub | |
-Add | Disability left nav | |
-Add | Education hub | |
-Add | Education left nav | |
-Add | Pension hub | |
-Add | Pension left nav | |
+1. Health care hub page (Existing)
+  - Link lable: TBD
+  - Link destination: www.va.gov/manage-debt-and-bills/summary/copay-balances/
+  - Notes: Update existing "Pay your VA copay bill" link to deep link into auth tool.  
+2. Health care left nav  (Existing)
+  - Link label: TBD
+  - Link destination: www.va.gov/manage-debt-and-bills/summary/copay-balances/
+  - Notes: Update existing "Pay your VA copay bill" link to deep link into auth tool. 
+3. Disability hub  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes: 
+5. Disability left nav  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+7. Education hub  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+9. Education left nav  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+11. Pension hub  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
+13. Pension left nav  (NEW)
+  - Link label: 
+  - Link destination: 
+  - Notes:
 
 
 ## <a name="redirects"></a>Redirects <br>
