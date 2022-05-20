@@ -18,11 +18,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to survey: **https://bit.ly/3wpDB5C** (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0?token=M)*
+- *Open a standalone browser window to survey: **https://bit.ly/3MswsXQ** (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0?token=M)*
 
-- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://bit.ly/3wpDB5C*
-
-- **FOR PILOT ONLY:  https://bit.ly/38CSecP (https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0?token=P)**
+- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://**bit.ly/3MswsXQ***
 
 - *Do Not Disturb ON so no notifications*
 
@@ -40,6 +38,11 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
+There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
+- *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
+
+*(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
+
 Today we're going to talk about what kinds of activities--if any--that you do with the VA.
 
 Before we start, I want to go over a few things:
@@ -47,9 +50,8 @@ Before we start, I want to go over a few things:
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a survey to learn how we can make it easier to do. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- There are a few of my teammates who would like to watch this session. **Would it be OK with you if I invited them to join us?**
-  - *(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
-- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
+
+- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
@@ -83,6 +85,10 @@ Let’s start with a few questions...
 
 - What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
+- *(If using assistive technology:)* 
+  - How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
+  - How long have you been using a screen reader?
+
 - Are you currently involved with the VA? If so, how? 
 
   - *(If yes:)* What kinds of VA-related activities do you do?
@@ -108,7 +114,7 @@ I have a survey that I'd like you to do while sharing your screen with me over Z
 
 While you're doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3wpDB5C** (**PILOT bit.ly/38CSecP**) 
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3MswsXQ**  
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
@@ -129,7 +135,7 @@ I'd like you to do this survey and talk with me about it as you do it. I especia
 #### How do you typically interact with the VA? Check all that apply.
 - *RECORD feedback on this question*
 
-#### Please read through this list of VA-related tasks, and check the tasks that are most important to YOU personally right now, no matter how you do them (in person, on the phone, or online).
+#### Please check the VA-related tasks that are most important to YOU personally right now, no matter how you do them (in person, on the phone, or online).
 - *RECORD feedback on this question*
 
 Task | Participant Comments (NOT whether they checked the box because that will be saved online)
