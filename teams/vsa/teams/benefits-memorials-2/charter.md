@@ -56,9 +56,9 @@
 </br>
 
 ## VA Relationships
-- Matt Self | email.address@va.gov -- Product owner
-- Jill Anderson | email.address@va.gov -- Debt Management Center (DMC) Stakeholder
-- Brandon Bergeron | email.address@va.gov -- Veteran Health Administration (VHA)
+- Matt Self | matthew.self2@va.gov -- Digital Services Product Owner
+- Jill Anderson | jill.anderson3@va.gov -- Debt Management Center (DMC) Stakeholder
+
 
 </br>
 
@@ -83,7 +83,8 @@
 </br>
 
 ## Team Workflow
-
+_[Additional Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/Workflow.md)_
+ 
  **Norms**
   * Be respectful, both online and off
   * Show your face (Webcam) at meetings / calls
