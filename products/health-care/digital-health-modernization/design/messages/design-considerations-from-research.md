@@ -28,8 +28,8 @@ The alert could display on Messages landing page whenever message(s) are archive
   - The alert that MHV is timing out is not prominent now. Should we change the way the alert displays? 
   - Auto save message in Compose state, using a short time period. 
   - Can we code the site so that typing a message counts as an activity to keep the session active? 
-    <br>
     
+    <br>
 **Contacts list:**<br>
   - Simplify it and show all providers the Veteran can send messages to
     <br>
