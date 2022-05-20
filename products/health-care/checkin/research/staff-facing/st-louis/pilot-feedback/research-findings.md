@@ -3,7 +3,7 @@
 
 # Modernized Check-In Experience: St. Louis Pilot UAT with Staff Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Care Products, Mordernized Check-In Experience**
+**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Products, Mordernized Check-In Experience**
 
 Date: 05/17/2022
 
@@ -79,24 +79,12 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+1. MSAs see value in allowing editing of demographic information in pre-check-in. 
+1. Some staff felt that the roll out lacked proper training. Based on our observations, staff would benefit from training on a variety of fronts. 
+1. Technical, network and cellular service have been the root of some staff unhappiness, however, most see the potential with check-in when those issues are resolved. 
+1. Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options. 
+1. Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS. 
+1. Inconsistencies in how clinicians and clinics complete pre-registration with patients for telephone appointments. 
 
 # Details of Findings 
 
