@@ -5,17 +5,18 @@
 ### Planning
 - UAT Go/No Go: No UAT Planned, this is an addition of a single Yes/No question.
 - Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/American%20Indian%20question/product/UAT%20Readiness%20Checlist.md)
-- Desired date range or test duration: TBD
-- Desired number of users: TBD
-- Recruitment method: TBD
-- How testing will be conducted: TBD
-- How users will be given access to the product in production without making it fully available: Feature is hidden behind a feature flag
+- Desired date range or test duration: N/A
+- Desired number of users: N/A
+- Recruitment method: N/A
+- How testing will be conducted: N/A
+- How users will be given access to the product in production without making it fully available: N/A
 
 
 ### Results
-- Number of users: 
-- Number of bugs identified / fixed: 
+- Number of users: N/A
+- Number of bugs identified / fixed: N/A
 - UX changes required, based on logs, feedback, or challenges
+  - N/A 
 
 
 ## Phase 2: Staged Rollout
