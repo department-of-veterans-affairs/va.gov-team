@@ -1,3 +1,13 @@
+----
+
+# This documentation has moved! 
+### [The latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) is found on the Platform website!
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
+
 # How to use Perigean to recruit participants for your moderated user research studies
 
 ## Who is Perigean? 
