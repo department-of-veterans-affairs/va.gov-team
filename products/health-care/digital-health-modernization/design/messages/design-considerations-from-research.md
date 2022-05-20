@@ -7,13 +7,13 @@ The design considerations below are based on various research studies dating fro
 ## Based on the research, here are some things to address and consider in Messages designs:
 
 1. **General:** <br>
-  a) 45-day limit on messages: 
+  45-day limit on messages: 
   - Show an info alert that 00 messages have been archived? 
 The alert could display on Messages landing page whenever message(s) are archived between the user’s SM sessions. “Since you were last here, 00 of your messages were archived. This means… XYZ.”
   - If we had an alert like this, should it show on other pages besides Messages landing? 
   <br>
   
-  b) Notifications: 
+  Notifications: 
   - Make it clear in the UI where and how to manage SM notification options. (When we move to VANotify, Veterans will manage these options in VA.gov profile.)
   - Consider where besides the Messages landing page to link to manage notification options. Messages left navigation? 
 <br>
