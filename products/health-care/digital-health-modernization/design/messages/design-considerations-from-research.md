@@ -11,12 +11,11 @@ The design considerations below are based on various research studies dating fro
   - Show an info alert that 00 messages have been archived? 
 The alert could display on Messages landing page whenever message(s) are archived between the user’s SM sessions. “Since you were last here, 00 of your messages were archived. This means… XYZ.”
   - If we had an alert like this, should it show on other pages besides Messages landing? 
-
+  
   b) Notifications: 
   - Make it clear in the UI where and how to manage SM notification options. (When we move to VANotify, Veterans will manage these options in VA.gov profile.)
   - Consider where besides the Messages landing page to link to manage notification options. Messages left navigation? 
-
-
+<br>
 2. **Compose message:**
   a) Timeout and auto save: 
   - The alert that MHV is timing out is not prominent now. Should we change the way the alert displays? 
