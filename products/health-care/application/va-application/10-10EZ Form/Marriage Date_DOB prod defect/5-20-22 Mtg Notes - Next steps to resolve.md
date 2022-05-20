@@ -17,7 +17,7 @@ We have since removed date validation so that applications can be submitted.  We
 </details>
 
 ### Steps we will take to work toward resolving the defect
-- Change source of condition, to show authenticated user static page, to currentlyLoggedin instead of hasSession - ticket created
+- Change source of condition, to show authenticated user static page, to currentlyLoggedin instead of hasSession - [ticket #41339](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/41339)
 - Change source of condition, to show unauthenticated name, dob & ssn pages, to currentlyLoggedin instead of hasSession - ticket created
 - Change source of data, on authenticated static page, to user profile data instead of prefill data.
 - Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data.
