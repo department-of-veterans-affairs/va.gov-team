@@ -43,5 +43,5 @@
 ## Phase 3: Go Live!
 
 ### Planning
-- Planned date: 
+- Planned date: August 2022
 - Actual date: 
