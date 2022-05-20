@@ -32,22 +32,23 @@ The alert could display on Messages landing page whenever message(s) are archive
     <br>
 **Contacts list:**<br>
   - Simplify it and show all providers the Veteran can send messages to
-    <br>
     
+    <br>
 **Save draft and Send buttons:**<br>
 Ensure that they can’t be confused and that Veterans can easily select Save draft or Send. Some options: 
   - Put them farther from each other or otherwise change placement
   - Consider using secondary button style for Save draft
   - Show confirmation that a message was sent (This also relates to site timeouts.)
-    <br>
-    
+
+    <br>    
 **Provider phone and email:**
     - Consider having this info available to let Veterans know what to call if they don’t get a response fast enough. This info is in [Facility Locator](https://www.va.gov/find-locations), so one possibility is to link there.
-    <br>
-    
+
+    <br>  
 **Templates:**
   - Veterans want templates for common messages and questions
 
+    <br>
 **These are from 2014 research, so they may have been resolved:**
 - Veterans want SM to work like email: spell check, print, formatting options, read receipts
 - Veterans want to be able to attach pieces of their medical records to messages 
