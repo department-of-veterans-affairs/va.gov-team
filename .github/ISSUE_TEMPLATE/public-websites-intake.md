@@ -19,7 +19,7 @@ assignees: ''
 ## How to submit your request
 
 - [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.  
-- [ ] Post a link to this issue: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites), and in slack tag @brianalloyd, @kelsonic.    
+- [ ] Post a link to this issue: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites), and in slack tag @Wes Rowe & @jilladams.    
 - [ ] If noted in the guidance below, please schedule any relevant meetings.
 
 ### When to submit your request
@@ -72,19 +72,21 @@ What's the ETA for the app/tool launch or the date when you need this request co
 ---
 
 ### About your team
+Please populate all information:
 
-- Team name: *enter name*
-- DEPO product owner: *enter name*
-- Product manager: *enter name*
-- Designer: *enter name*
-- FE engineer: *enter name*
-- Product/team Slack channel: *enter*
+- Team name: 
+- DEPO product owner: 
+- Product manager: 
+- Designer: 
+- FE engineer: 
+- Product/team Slack channel: 
 
 --- 
 ### Public Websites internal use
 
 #### Acceptance Criteria
-- [ ] Convert this request into a Zenhub epic
+- [ ] Move to va.gov-cms repo
+- [ ] Convert this request into a Zenhub epic or add to existing epic
 - [ ] Follow-up with requestor to address any lingering questions/concerns
 - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
