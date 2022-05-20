@@ -26,7 +26,8 @@ Planned | Streamlined Waiver |Simplifying and streamlining the waiver request pr
 
 |Status|Product|Description|GH Epic #| Projected Launch   |Actual Launch 
 |--|--|--|--|--|--|
-Launched| FSR email notification |As a Veteran I would like to receive an email notification after I submit my FSR with next steps | [#26027](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/26027)| Early May| May 9, 2022
 Launched| Medical Copay |As a Veteran I want the ability to see my medical co-pay bills online.  | [#31352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31352)| End of June 2022|January 13, 2022
+Launched| FSR email notification |As a Veteran I would like to receive an email notification after I submit my FSR with next steps | [#26027](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/26027)| Early May| May 9, 2022
+
 
     
