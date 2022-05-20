@@ -10,9 +10,7 @@
 - Recruitment method: TBD
 - How testing will be conducted: TBD
 - How users will be given access to the product in production without making it fully available: Feature is hidden behind a feature flag
-- Link to UAT materials
-  - [Research Plan]()
-  - [Conversation Guide]()
+
 
 ### Results
 - Number of users: 
