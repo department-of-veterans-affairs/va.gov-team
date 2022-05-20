@@ -12,6 +12,19 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
+## June 1, 2022
+
+### Facilities COVID status update
+
+  - % completed status updates
+  - any new issues
+  - reminder?
+
+### Top task pages update
+
+  - % completed
+  - revisit deadline and next reminder
+
 ## May 18, 2022
 
 ### Facilities COVID status update
