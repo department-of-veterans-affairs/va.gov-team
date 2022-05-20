@@ -156,10 +156,4 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
+[Check-In Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos)
