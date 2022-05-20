@@ -28,21 +28,21 @@ Date: 05/19/2022
 # Research Goals
 This research will help us understand:
 
-- Veteran's general experience around filling out forms
-- Veteran's practices around the Review Page
+- Veteran's general experience around filling out VA forms
+- Veteran's practices around the Review Page in VA forms
 - Identify which of the three Review page design variations work best for Veterans
 
 # Research Questions
 
-- How Veterans use the Review Page in the forms experience by using the Application for Burial Benefits form Review Page as an example?
-- What are the pain points and issues on the Review Page of the Application for Burial Benefits form experience?
+- How Veterans use the Review Page in the forms experience by using the Burial Benefits form Review Page as an example?
+- What are the pain points and issues on the Review Page?
 - How Veterans interact with the Review Page components? (help determine which of the design variations best suit their needs)
 
 # Methodology 
 
 We conducted six 1:1 semi-structured remote moderated research sessions via Zoom between May 9 - 11, 2022. 
-- Participants were asked to imagine that they just filled out the burial benefits form and to provide feedback on the Review page to better underestand understand their experience working with the current Review Page. 
-  -Participants were asked how they would edit a wrong entry in the review page.
+- Participants were asked to imagine that they just filled out the Burial Benefits form and to provide feedback on the Review page to better understand their experience working with the current Review Page. 
+  - Participants were asked how they would edit a wrong entry in the review page.
 
 - Each participant saw three proposed variation (in different order) and were asked to provide feedback on the design variation. 
   - Participants were also asked how they would edit a wrong entry in that design variation. 
@@ -58,9 +58,10 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 
 - 5 out of 6 Participants preferred Design Option #2 for the following reasons: 
   - Visibility of information - always visible to review
-  - Edit option - ability to edit  individual data fields  
+  - Edit option - ability to edit individual data fields  
 - All participants preferred the Review page with the information always open so they can review the information with ease. 
-- 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. The other two participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
+- 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. 
+- 2 out of 6 participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
 - No participant interacted with anchors in the top of the page until prompted.  However, all participants valued the ability to easily get to a section from the top of the page.
 
 # Details of Findings 
@@ -84,8 +85,8 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 
 **Finding 3**
 
-No participant interacted with anchors in the top of the page until prompted. However, all participants valued the ability to easily get to a section from the top of the page.
-5 out of 6 participants understood the purpose of the anchors in the top of the page. One participant was confused by the downward facing arrows. 
+- No participant interacted with anchors in the top of the page until prompted. However, all participants valued the ability to easily get to a section from the top of the page.
+- 5 out of 6 participants understood the purpose of the anchors in the top of the page. One participant was confused by the downward facing arrows. 
 
 
 > "An arrow pointing down makes me think it’s simply to scroll down to get to that section… If the arrow was turned 90 degrees to face right, I would assume it was interactable" (P1).
@@ -101,18 +102,18 @@ No participant interacted with anchors in the top of the page until prompted. Ho
 
 # Next Steps
 
-- Engineers will create a working prototype of the Review page pattern based on Design #2 
-- Edit option in the working prototype will take Veterans back to the appropriate form page and anchors on the field that was chosen to edit
+- Engineers will create a visual prototype of the Review page pattern based on Design #3. Although this was not the most preferred design, we want to use this more common pattern as a baseline for further testing with the more experimental Design #2.
+ 
 
 # Further research needed
 
-- Furtherresearch with Veterans to get feedback on desktop designs, accessibility issues and the new edit design
+- Further usability research with Veterans to get feedback on desktop designs, accessibility issues and the new edit design.
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsp/teams/pst-forms-library/research/review-page/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md)
 
 [Interview transcripts](link here)
 
