@@ -132,12 +132,6 @@ Brief description
 
 > _Supporting data: Quote here_
 
-
-# Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
-
 # Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
@@ -146,17 +140,6 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 * Recommendation 2
     * _Supporting evidence_
-
-
-# Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
 
 # Appendix
 
@@ -169,8 +152,7 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+[Research Synthesis Mural](https://app.mural.co/t/vfscie8528/m/vfscie8528/1651764128759/12f7863ae34343d5eb0086756dee8998d6124f61?sender=u70b8b2930b03d3ef317d2520)
 
 ## Pages and applications used
 
@@ -180,18 +162,4 @@ Link to prototypes or pages that were tested
 ## Other supporting documents created
 
 e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-
-## Who we talked to 
-
-
-## Underserved groups we haven’t talked to 
-
 
