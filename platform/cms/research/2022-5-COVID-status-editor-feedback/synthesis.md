@@ -37,7 +37,7 @@ Both participants strongly supported the effort to standardize COVID-19 guidelin
 - “The why is important. Sometimes things just get thrown at us. We want to know why and what the end result will be for Veterans.”
 
 Insight 3 
-## Participants clearly understood the different intent for the operating and COVID-19 statuses.
+### Participants clearly understood the different intent for the operating and COVID-19 statuses.
 
 When asked about how they’d use the operating status in the new design, the participants’ responses aligned with guidance. They seemed to get the need to “clear out” COVID content from the operating status details.
 - “This is where I would normally have had a facility notice about covid. I would take that off [once COVID-19 level is in place]. I wouldn’t want to have two notices, that would make me look unprofessional. It would erode Veteran trust.”
@@ -60,7 +60,7 @@ Insight 4
 - “It would require opening up 15 different pages [to set covid status], and that would be kind of annoying…especially if changes are often.”
 
 Insight 5
-#### One participant was concerned that the Veteran-facing guidelines didn’t provide specific enough guidance about caregivers.
+### One participant was concerned that the Veteran-facing guidelines didn’t provide specific enough guidance about caregivers.
 They weren’t sure their audience would understand who their care team is, in part because their system has different teams for inpatient and outpatient care.
 
 ## Tangents - not directly related but need attention 
