@@ -24,10 +24,10 @@
 - Launch Go / No Go: 06/27/2022
 - Desired date range: 06/28/2022 - 08/31/2022
 - Success criteria to be reviewed prior to advancing rollout to the next stage
-  - Completion rate of short form (can we identify who's using the short form via analytics/metrics?)
+  - Completion rate of short form
   - Minimal to no increase in drop off rate in short form sections
 - Dashboards showing success criteria metrics
-  - TBD (Will we need something separate in Domo to track the short form?)
+  - TBD (Will we have a separate dashboard in Domo?)
 
 ### Phased Rollout
 - 25% of users (~1 month): 06/28/2022
