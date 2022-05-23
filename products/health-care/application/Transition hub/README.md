@@ -41,7 +41,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 - [Staging link](https://staging.va.gov/health-care/apply/application/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
-- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/HCA.Product.Guide.docx)
+- [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/HCA.Product.Guide.shortform.FinalDraft.docx)
 
 
 
