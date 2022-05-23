@@ -128,39 +128,23 @@ Two OT's were very unhappy with VSE-CS, primarily because of its slowness in upd
 
 **Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS.**
 
-Labels: label 1, label 2 
+- MSAs don’t always look at the patient record flags, depending on how busy they are. Most know who the patients are and their needs. 
+- Some clinics use national, local, behavioral or both types of flags. 
+- Two OT’s said patient flags are not needed in VSE-CS. Patient flags are in CPRS and it would be overkill to have them in both places. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _We don’t use patient flags. Not useful in VSE-CS. We typically see the flags in CPRS and acknowledge them._
 
-Brief description
+> _Would like to see patient flags added to VSE-CS on the Workflow List as an indicator near the patient name (or in a new column). Hover text would be great. I want to avoid clicking to get the information._
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _The flag should pop up when the patient checks in._
 
 **Inconsistencies in how clinicians and clinics complete pre-registration with patients for telephone appointments.**
 
-Labels: label 1, label 2 
+Some clinics do more telephone appointments than others, typically based on the speciality, treatment, etc. E.g., physical therapy can’t not do phone appointments. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Completing pre-registration is inconsistent. E.g., MSA may call before or after the appointment. Depends on how busy they are. Or, sometimes nurse will call. 
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+One provider was asking whether or not they could check a patient in through VSE-CS since MSAs aren’t involved with check-in for those patients. Sometimes, the MSA will mark them as a “no show” the following day because it appears they never arrived. 
 
 # Recommendations
 
