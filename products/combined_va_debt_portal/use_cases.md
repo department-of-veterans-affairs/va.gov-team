@@ -49,12 +49,18 @@ searches and gets no results.", etc.
 - **Link to designs**
   - TBD
 
-## Use Case B - TBD
-- **Description:** TBD
+## Use Case B - Veteran wants to view their copay bill on the combined debt portal
+- **Description:** A Veteran is interested in viewing their medical copay bill on the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
 	- `vets.gov.user+##@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
+	- Click 'Manage your VA debt' button on the page
+	- Select first copay debt
+	- View details of copy debt
+	- On copay debt detail page, select the page jump link entitled "How do I pay my VA debt?"
+	- click on link to pay.va.gov
 
 - **Link to designs**
   - TBD
