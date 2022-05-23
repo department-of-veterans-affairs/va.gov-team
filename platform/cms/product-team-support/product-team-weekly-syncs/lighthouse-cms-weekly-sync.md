@@ -17,12 +17,9 @@
 * Facility Covid Status
   * Rollout looks successful
 * URL's for mobile sites and domiciliaries.
-  * Mobile units are a problem space that needs a little more investigation. Multiple use cases. 
-  * Domiciliaries - treated as programs. Not all are listed in VAST. May be useful to use the MC URL. They are currently pointed to VA Clinic (for Burlington)
-  * AI - Work VHA Digital Media - How editors handle a "This is how to handle Domiciliary" "How to handle a Community Living Center" need to be added to KB
-  * Audit to understand which ones are published in the CMS and hand it to VHA DIgital Media to cleanse.
-  * Still need additional discussion with Dave, Steve, etc... Need an agreement going forward
+  * Will touch on this again next week. 
 * V1 Rollout update
+  * Health connect (V0 - high priority item) went out today. Investigation in progress this sprint. Should be ready for us next sprint.
 
 ## Monday, May 16, 2022
 * Facility Covid Status
