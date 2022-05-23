@@ -34,7 +34,7 @@ searches and gets no results.", etc.
 
 ## Use Case A -  Veteran wants to view and pay a debt in combined debt portal
 
--- **Description:** A veteran wants to understand what their debt is and seeks a way to resolve that debt via the combined debt portal.
+-- **Description:** A veteran wants to understand what their debt is via the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
 	- login via user `vets.gov.user+81@gmail.com` ("Travis")
