@@ -1,12 +1,12 @@
-# MHV on VA.gov Round 1 Usability Research Findings 
+# MHV on VA.gov Round 2 Usability Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), MHV on VA.gov, Health Modernization Initiative Team**
 
-Date: 04/04/2022
+Date: 05/14/2022
 
 Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
-[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/MHV%20to%20VA.gov%20Round%201%20Usability%20Readout.pdf)
+[Research Report PDF]( )
 
 <br>
 
@@ -60,13 +60,13 @@ This research will help us answer:
 
 # Methodology 
 
-We conducted eleven remote hour-long moderated usability studies using a high fidelity Sketch prototype. This round of research focused on the laptop/desktop experience. Note: Future rounds of research will explore mobile versions of the prototype.
+We conducted eleven remote hour-long moderated usability studies using a high fidelity Sketch prototype. This round of research focused on the mobile experience. 
 
 
 # Hypotheses and Conclusions
 
 - Participants will easily understand the idea of a centralized place where they can access their VA healthcare information.
-	- *Likely True*. While Participants easily understood our prototype to be a centralized place to access their healthcare information, and even their other non-healthcare benefits, some did struggle with understanding whether they were on the VA.gov or MyHealtheVet website. This is likely due to their current experience of using both sites and not being able to easily differentiate between the two, and our as of yet finalized IA recommendations for where MHV functionality will live within the VA.gov website.
+	- *Definitely True*. Participants easily understood our prototype to be a centralized place to access their healthcare information, and even their other non-healthcare benefits.
 - Participants will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care.
 	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
 - Participants will be able to accomplish a variety of health tasks as designed in this prototype.
