@@ -7,4 +7,4 @@
 - [ ] All launch-blocking accessibility issues resolved
 - [ ] Team prepared to attend UAT sessions in case there are issues that need troubleshooting
 - [ ] Analytics in place to capture traffic during UAT
-- [ ] No other concerns that would prevent launch
+- [ ] No other concerns that would prevent us from running UAT sessions
