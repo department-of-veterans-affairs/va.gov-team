@@ -40,14 +40,11 @@ Testing Onsite Notifications will involve coordination across three groups (that
 2. My VA and VA Notify teams address any issues with found in connectivity testing
 
 ### 6/6 - 6/10
-1. QA occurs
+1.
 
 ### 6/13 - 6/17 
-1. QA occurs (cont.)
+1. **Targeting QA 6/15 or after**
 2. Address any issues found in QA
 
 ### 6/20 - 6/24
 1. Retest
-
-
-
