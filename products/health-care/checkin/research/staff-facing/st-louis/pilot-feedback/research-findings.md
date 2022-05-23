@@ -86,6 +86,8 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 
 # Details of Findings 
 
+Labels: AUD: Staff, PRDT: health-care-check-in, RESRCH: Interviews, VETSJNY: Taking care of themselves
+
 **MSAs see value in allowing editing of demographic information in pre-check-in.**
 
 MSAs felt that allowing Veterans to edit their information in pre-check-in would expedite the check-in process. I.e., Veterans wouldn't be required to speak with an MSA if their information needs to be updated. In turn, shortening the line of Veterans that have to speak to MSAs on the day of their appointment. 
