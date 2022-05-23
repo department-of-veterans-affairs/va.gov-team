@@ -1,5 +1,4 @@
-
-  # Caregivers Team Charter
+# 10-10 Team Charter
 ---
 ## Table of Contents
 1. [Guideposts](#guideposts)
@@ -33,12 +32,15 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson
-- DEPO Engineering Lead: Mike Chelen
-- Team Product Manager: Sharon Kasimow
+- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman
+- DEPO Engineering Lead: Stephen Barrs
+- Team Product Manager: Heather Justice
+- Team Associate Product Manager: Mark Fallows
 - UX/Research: Dené Gabaldón
+- UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
-- Back-End Engineering: James Childers
+- Front-end Engineering: Matt Long
+- Back-End Engineering: Lihan Li
 
 ---
 
@@ -60,7 +62,7 @@ Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Monday of every sprint week @ 3pm ET
 - 1 hour
-- We'll use labels for each sprint to commit to what's in each sprint
+- We'll use the sprint field to indicate we have committed to what's in each sprint
 
 
 #### Retro
@@ -89,9 +91,13 @@ Anyone on the team can create a user story. All are responsible for keeping them
     - All components/steps have been accounted for in the epic
     - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
+- Naming convention for tickets/stories/tasks - Thoughts?
+    - [area of work] Epic/Initiative: Brief title of work to be done
+    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
+
 - For a task to go into the **"Icebox"** column, it must have the following:
    - Title that explains the goal
-   - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
+   - Labels: _vsa-10-10_ and what category it falls into (backend, front-end, research, design, product)
 
 - For a task to go into the **"Backlog"** column, it must have the following:
    - Title that explains the goal in plain language
@@ -99,6 +105,7 @@ Anyone on the team can create a user story. All are responsible for keeping them
    - Includes (as needed) background, goal and acceptance criteria   
 
 - For a task to go into the **"Ready"** column, it must have the following:
+   - Be groomed by the team
    - Estimate
    - Sense of priority (relative to other tickets)
    
@@ -115,7 +122,7 @@ Anyone on the team can create a user story. All are responsible for keeping them
 
 - For a task to be **"Done"** 
    - Internal validation has occured
-   - Merged to main
+   - Merged to main/master
    - Each ticket's last comment before closing should reflect when validation has occurred and by whom
    - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
 
@@ -142,7 +149,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 
 ## Team Norms
-- We are iterate often and deliver frequently
+- We iterate often and deliver frequently
 - We are respectful, both online and off
 - We turn on cameras as often as possible at meetings / calls
 - We are flexible and intentional in the way we work
@@ -157,16 +164,16 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - We are respectful of others' time
 
 
-#### Slack:
+#### Slack "#1010-health-apps":
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
 GitHub is the single source of truth. All work is documented for tracking and capacity planning.
 
-#### *New* PTO
+#### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
-- Team members will send calendar invites to the rest of team when they have scheduled time off, **and** add it to the VSA PTO calendar
+- Team members will send calendar invites to the rest of team when they have scheduled time off.
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
