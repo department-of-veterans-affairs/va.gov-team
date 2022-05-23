@@ -24,7 +24,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 |2. When will VA Notify's work be done?| Targeting by end of their current sprint which ends 5/27. They need Tom to complete [#41268](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41268) (See above). |
 |3. Does VA Notify need to be part of this? If so, who on their team should participate?| Yes, sounds like they should. According to Melanie they'd like to have their QA person involved (see POC table above). |
 |4. Does Tze need to be part of this? If so, what does he need to do? Or can he just take a look at things once the notification has already been sent?| _Initial answer is yes. Meeting scheduled for 5/25 to discuss with him._ |
-|5. What use cases do we need to test (single notification, multiple notifications, etc)? We'll want this so we can make sure the backend team sends us exactly what they need.| _TBD - hoping to answer at 5/25 meeting_ |
+|5. What use cases do we need to test (single notification, multiple notifications, etc)? We'll want this so we can make sure the backend team sends us exactly what they need.|[On-site notification test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Onsite-Notification.md) |
 
 ## Timeline
 
