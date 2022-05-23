@@ -105,6 +105,7 @@
 
 - As of 05/2022, we are
    - Still testing Short Form with plans to launch first to Veterans with 50% or higher disability rating (authenticated)
+   - Adding in-progress app reminders to authenticated applicants via VA Notify
    - Designing for Medicare Claim number field
    - Researching Household section redesigns
 
