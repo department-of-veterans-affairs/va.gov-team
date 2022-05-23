@@ -1,4 +1,4 @@
-# Caregivers Team Charter
+# 10-10 Team Charter
 ---
 ## Table of Contents
 1. [Guideposts](#guideposts)
@@ -32,8 +32,8 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Lauren Alexanderson
-- DEPO Engineering Lead: TBD
+- DEPO Product Lead: Lauren Alexanderson, Patrick Bateman
+- DEPO Engineering Lead: Stephen Barrs
 - Team Product Manager: Heather Justice
 - Team Associate Product Manager: Mark Fallows
 - UX/Research: Dené Gabaldón
