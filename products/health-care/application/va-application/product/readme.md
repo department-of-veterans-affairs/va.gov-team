@@ -1,2 +1,2 @@
-- Documentation for user interviews done as part of discovery for this project [can be found in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research).
-- [Staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-duplicate-healthcare-applications.md)
+
+- [Staging user info for testing Duplicate Health care applications](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-duplicate-healthcare-applications.md)
