@@ -37,8 +37,14 @@ searches and gets no results.", etc.
 -- **Description:** A veteran wants to understand what their debt is and seeks a way to resolve that debt via the combined debt portal.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+81@gmail.com` (NAME)
+	- login via user `vets.gov.user+81@gmail.com` ("Travis")
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
+	- Click 'Manage your VA debt' button on the page
+	- Select first debt ("Post-9/11 GI Bill debt for housing")
+	- View details of debt
+	- On debt detail page, select the page jump link entitled "How do I pay my VA debt?"
+	- click on link to pay.va.gov
 
 - **Link to designs**
   - TBD
