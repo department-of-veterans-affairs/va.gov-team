@@ -92,32 +92,24 @@ MSAs felt that allowing Veterans to edit their information in pre-check-in would
 
 > _If the Veteran does pre-check-in, it saves us time. They should be able to update their demographic information in pre-check-in._
 
-
-
 **Some staff felt that the roll out lacked proper training. Based on our observations, staff would benefit from training on a variety of fronts.**
 
-Labels: label 1, label 2 
+Direction on how to use VSE-GUI and VSE-CS seemed inconsistent at times across clinics or individual MSAs. For example, some MSAs were instructed to use VSE-CS for specific activities, while others weren't. And, some MSAs were more persistent in requiring Veterans to use mobile check-in vs. simply using VSE-GUI to check them in. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Clinics that received sufficient training and were staffed higher compared to others viewed the changes to be fairly easy and convenient. 
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+> _No one knew about it; neither staff or Veterans._
 
 **Technical, network and cellular service have been the root of some staff unhappiness, however, most see the potential with check-in when those issues are resolved.**
 
-Labels: label 1, label 2 
+The most common complaint received was that cellular service is not good in many locations. The second most common complaint is technical issues. E.g., where there is lag or the system is down for everyone or specific individuals. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _There’s potential to reduce work and improve wait times when the system is functioning properly and when Veterans have more fully adopted it._
 
-Brief description
+> _It has impacted our work for the better. But, it really hurts us when the system is slow._
 
-> _Supporting data: Quote here_
+> _Some Veterans don’t get good cellular service in the office. In addition, many of the Veterans do not have unlimited plans, so they get charged for each text message. Sometimes, cellular service may be turned off too and the Veteran doesn’t know how to connect to WiFi or turn off airplane mode._
 
-> _Supporting data: Quote here_
 
 **Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options.**
 
