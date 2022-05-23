@@ -86,23 +86,12 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **MSAs see value in allowing editing of demographic information in pre-check-in.**
 
-Labels: label 1, label 2 
+MSAs felt that allowing Veterans to edit their information in pre-check-in would expedite the check-in process. I.e., Veterans wouldn't be required to speak with an MSA if their information needs to be updated. In turn, shortening the line of Veterans that have to speak to MSAs on the day of their appointment. 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _If the Veteran does pre-check-in, it saves us time. They should be able to update their demographic information in pre-check-in._
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 
 **Some staff felt that the roll out lacked proper training. Based on our observations, staff would benefit from training on a variety of fronts.**
