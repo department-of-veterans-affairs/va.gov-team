@@ -1,4 +1,5 @@
-# 10-10EZ Address - Use Cases
+# 10-10EZ Address - Use Cases (2020)
+This has been implemented before 5/2022 (team transition)
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
 
