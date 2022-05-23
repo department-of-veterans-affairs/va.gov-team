@@ -38,7 +38,7 @@
 - URL:
   - **old:** /manage-va-debt/ 
   - **new:** /manage-debt-and-bills/ 
-- Breadcrumb: Home > Manage your VA debt and bills 
+- Breadcrumb: Home > Manage your VA debt and *copay* bills 
 - Notes: This is the existing debt static page
 
 **2) Your debt and bills summary (NEW)**
