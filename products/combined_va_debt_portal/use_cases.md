@@ -25,19 +25,19 @@ searches and gets no results.", etc.
 <details>
 <summary>[click to expand/collapse a short list of all use cases]</summary>
   
-- [Use Case A - TBD](#use-case-a---TBD)
+- [Use Case A - Veteran wants to view and pay a debt](#use-case-a---TBD)
 - [Use Case B - TBD](#use-case-b---TBD)
 - [Use Case C - TBD](#use-case-c---TBD)
 - [Use Case D - TBD](#use-case-d---TBD)
 
 </details>
 
-## Use Case A -  TBD
+## Use Case A -  Veteran wants to view and pay a debt in combined debt portal
 
--- **Description:** TBD
+-- **Description:** A veteran wants to understand what their debt is and seeks a way to resolve that debt via the combined debt portal.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- `vets.gov.user+81@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 
 - **Link to designs**
