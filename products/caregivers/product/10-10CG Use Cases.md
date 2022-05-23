@@ -2,7 +2,7 @@
 
 _Tracks and maintains the various use cases that exist for a given product and is best maintained alongside the product outline._
 
-Link to product outline: [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md)
+Link to product outline: [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 
 
 ## Notes
