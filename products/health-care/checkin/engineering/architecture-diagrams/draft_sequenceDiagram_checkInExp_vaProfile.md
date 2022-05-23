@@ -27,21 +27,10 @@ sequenceDiagram
         c->>+va: check insurance validation
         va--)-c: validation not needed
       end
-      par
-        c->>+cw: get demographics
-        par
-            cw->>+vp: GET /cuf/contact-information/v1/<id>
-            vp--)-cw: contact information
-            cw->>+vp: get demographics (get endpoints)
-            vp--)-cw: demographics
-        end
-        cw--)-c: demographics
-      and
-        c->>+cw: get demographics confirmations
-
-
-        cw--)-c: demographics confirmations
-      end
+        c->>+cw: get demographics and confirmations
+        cw->>+vp: GET VA Profile data
+            vp--)-cw: contact info, NoK and emergency contact
+        cw--)-c: demographics and confirmations
         c->>+l: save appointments
         l--)-c: documentId
         c->>+va: set status (E-CHECK-IN STARTED)
@@ -154,8 +143,10 @@ sequenceDiagram
         web->>+api: PUT /demographics
         api->>+c: confirm demographics
         c->>+cw: set patient demographic status
-        cw->>+vp: update timestamp
-        vp--)-cw: response
+        opt demographics up to date
+            cw->>+vp: update timestamp
+            vp--)-cw: response
+        end
         cw--)-c: status set
         c--)-api: response
         api--)-web: response
