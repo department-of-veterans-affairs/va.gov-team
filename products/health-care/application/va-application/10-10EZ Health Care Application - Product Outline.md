@@ -29,8 +29,6 @@
 
 ### Key Performance Indicators (KPIs)
 
-
-
 * How many Veterans are looking at the How to Apply page?
 * How are Veterans getting to the How to Apply page?
 * How many Veterans are completing and submitting the form online? 
@@ -104,6 +102,11 @@
 ## Solution Narrative
 
 ### Current Status
+
+- As of 05/2022, we are
+   - Still testing Short Form with plans to launch first to Veterans with 50% or higher disability rating (authenticated)
+   - Designing for Medicare Claim number field
+   - Researching Household section redesigns
 
 - As of 01/2022, we're going to focus on
    - Updating "sign as legal rep" section
