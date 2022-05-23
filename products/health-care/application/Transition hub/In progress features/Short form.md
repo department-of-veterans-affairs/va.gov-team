@@ -83,11 +83,12 @@ Include notes about which Platform process was in use when this feature was in d
 <br>
 
 ## Team members that worked on this
-- Dené Gabaldón | dene.gabaldon@va.gov -- UX researcher/designer
-- Mickin Sahni | Mickinjit.Sahni@va.gov  -- Product lead
-- Sharon Kasimow | Sharon.Kasimow@va.gov -- Product Manager
+- Dené Gabaldón | dene.gabaldon@va.gov -- Sr UX researcher/designer
+- Nick Osmanski | nick.osmanaski@va.gov -- UX researcher/designer
+- Heather Justice | heather.justice1@va.gov -- Product Manager
+- Mark Fallows | mark.fallows@va.gov -- Associate Product Manager
 - Lisa Zapson | lisa.zapson@va.gov -- Frontend engineer
-- Kevin Musiorski | kevin.musiorski@va.gov -- Backend engineer
+- Matt Long | matt.long@va.gov -- Frontend engineer
 - Lihan Li | lihan@adhocteam.us -- Backend engineer
 - Danielle Thierry | danielle.thierry@va.gov -- Content writer
 
