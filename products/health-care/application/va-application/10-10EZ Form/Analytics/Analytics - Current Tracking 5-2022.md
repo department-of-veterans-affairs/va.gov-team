@@ -34,37 +34,37 @@ Giving us good insight into
 |form_Name|	step_Number	|step_name|	step_link
 |--------------|--------------|-------------------|------------------|
 |Form 10-10EZ - Enrollment Application for Health Benefits|	1	|Introduction	|www.va.gov/health-care/apply/application/introduction|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	1	|ID Form | www.va.gov/health-care/apply/application/id-form |
-|Form 10-10EZ - Enrollment Application for Health Benefits|	2	|Personal Information|	www.va.gov/health-care/apply/application/veteran-information/personal-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	2	|Profile Information | www.va.gov/health-care/apply/application/veteran-information/profile-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	2	|Profile SSN |www.va.gov/health-care/apply/application/veteran-information/profile-information-ssn|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	2	|Profile Date of Birth |www.va.gov/health-care/apply/application/veteran-information/profile-information-dob|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	3	|Birth Information|	www.va.gov/health-care/apply/application/veteran-information/birth-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	3	|Maiden Name | www.va.gov/health-care/apply/application/veteran-information/maiden-name-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	3	|Birth Sex | www.va.gov/health-care/apply/application/veteran-information/birth-sex|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	4	|Demographic Information|	www.va.gov/health-care/apply/application/veteran-information/demographic-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	5	|Veteran Address	|www.va.gov/health-care/apply/application/veteran-information/veteran-address|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	6	|Veteran Home Address	|www.va.gov/health-care/apply/application/veteran-information/veteran-home-address|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	7	|Contact Information	|www.va.gov/health-care/apply/application/veteran-information/contact-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	8	|Basic Information |www.va.gov/health-care/apply/application/va-benefits/basic-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	8	|Confirm Service Pay |www.va.gov/health-care/apply/application/va-benefits/confirm-service-pay|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	8	|Pension Information |www.va.gov/health-care/apply/application/va-benefits/pension-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	8	|Service Information	|www.va.gov/health-care/apply/application/military-service/service-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	9	|Additional Information	|www.va.gov/health-care/apply/application/military-service/additional-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|10	|Document Upload	|www.va.gov/health-care/apply/application/military-service/documents|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	11	|Financial Disclosure	|www.va.gov/health-care/apply/application/household-information/financial-disclosure|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	12	|Marital Status|www.va.gov/health-care/apply/application/household-information/marital-status|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	12	|Spouse Information|	www.va.gov/health-care/apply/application/household-information/spouse-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	13	|Dependent Information	|www.va.gov/health-care/apply/application/household-information/dependent-information|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	14	|Annual Income	|www.va.gov/health-care/apply/application/household-information/annual-income|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	15	|Deductible Expenses|	www.va.gov/health-care/apply/application/household-information/deductible-expenses|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	16	|Medicaid|www.va.gov/health-care/apply/application/insurance-information/medicaid|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	16	|Medicare	|www.va.gov/health-care/apply/application/insurance-information/medicare|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	16	|Medicare	Part A|www.va.gov/health-care/apply/application/insurance-information/medicare-part-a-effective-date|
-|Form 10-10EZ - Enrollment Application for Health Benefits|17	|General	|www.va.gov/health-care/apply/application/insurance-information/general|
-|Form 10-10EZ - Enrollment Application for Health Benefits|18	|VA Facility	|www.va.gov/health-care/apply/application/insurance-information/va-facility|
-|Form 10-10EZ - Enrollment Application for Health Benefits|19	|Review and Submit|	www.va.gov/health-care/apply/application/review-and-submit|
-|Form 10-10EZ - Enrollment Application for Health Benefits|	20	|Confirmation	|www.va.gov/health-care/apply/application/confirmation|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	2	|ID Form | www.va.gov/health-care/apply/application/id-form |
+|Form 10-10EZ - Enrollment Application for Health Benefits|	3	|Personal Information|	www.va.gov/health-care/apply/application/veteran-information/personal-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	4	|Profile Information | www.va.gov/health-care/apply/application/veteran-information/profile-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	5	|Profile SSN |www.va.gov/health-care/apply/application/veteran-information/profile-information-ssn|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	6	|Profile Date of Birth |www.va.gov/health-care/apply/application/veteran-information/profile-information-dob|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	7	|Birth Information|	www.va.gov/health-care/apply/application/veteran-information/birth-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	8	|Maiden Name | www.va.gov/health-care/apply/application/veteran-information/maiden-name-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	9	|Birth Sex | www.va.gov/health-care/apply/application/veteran-information/birth-sex|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	10	|Demographic Information|	www.va.gov/health-care/apply/application/veteran-information/demographic-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	11	|Veteran Address	|www.va.gov/health-care/apply/application/veteran-information/veteran-address|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	12	|Veteran Home Address	|www.va.gov/health-care/apply/application/veteran-information/veteran-home-address|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	13	|Contact Information	|www.va.gov/health-care/apply/application/veteran-information/contact-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	14	|Basic Information |www.va.gov/health-care/apply/application/va-benefits/basic-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	15	|Confirm Service Pay |www.va.gov/health-care/apply/application/va-benefits/confirm-service-pay|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	16	|Pension Information |www.va.gov/health-care/apply/application/va-benefits/pension-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	17	|Service Information	|www.va.gov/health-care/apply/application/military-service/service-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	18	|Additional Information	|www.va.gov/health-care/apply/application/military-service/additional-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|19	|Document Upload	|www.va.gov/health-care/apply/application/military-service/documents|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	20	|Financial Disclosure	|www.va.gov/health-care/apply/application/household-information/financial-disclosure|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	21	|Marital Status|www.va.gov/health-care/apply/application/household-information/marital-status|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	22	|Spouse Information|	www.va.gov/health-care/apply/application/household-information/spouse-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	23	|Dependent Information	|www.va.gov/health-care/apply/application/household-information/dependent-information|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	24	|Annual Income	|www.va.gov/health-care/apply/application/household-information/annual-income|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	25	|Deductible Expenses|	www.va.gov/health-care/apply/application/household-information/deductible-expenses|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	26	|Medicaid|www.va.gov/health-care/apply/application/insurance-information/medicaid|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	27	|Medicare	|www.va.gov/health-care/apply/application/insurance-information/medicare|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	28	|Medicare	Part A|www.va.gov/health-care/apply/application/insurance-information/medicare-part-a-effective-date|
+|Form 10-10EZ - Enrollment Application for Health Benefits|29	|General	|www.va.gov/health-care/apply/application/insurance-information/general|
+|Form 10-10EZ - Enrollment Application for Health Benefits|30	|VA Facility	|www.va.gov/health-care/apply/application/insurance-information/va-facility|
+|Form 10-10EZ - Enrollment Application for Health Benefits|31	|Review and Submit|	www.va.gov/health-care/apply/application/review-and-submit|
+|Form 10-10EZ - Enrollment Application for Health Benefits|	32	|Confirmation	|www.va.gov/health-care/apply/application/confirmation|
 
 </details>
 
