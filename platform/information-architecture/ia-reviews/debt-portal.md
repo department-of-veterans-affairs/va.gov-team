@@ -65,20 +65,20 @@
 
 **6) Benefit debt blalances (Existing)**
 - URL:
-  - **old:** /manage-va-debt/ 
+  - **old:** /manage-va-debt/your-debt/
   - **new:** /manage-debt-and-bills/summary/debt-balances/
 - Breadcrumb: VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances  
 
 **7) Debt details (Existing)**
 - URL:
-  - **old:** /manage-va-debt/ 
-  - **new**: /manage-debt-and-bills/summary/benefit-debt-balances/details/  
+  - **old:** /manage-va-debt/your-debt/debt-detail/
+  - **new**: /manage-debt-and-bills/summary/debt-balances/details/  
 - Breadcrumb: VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt details 
 
 **8) Debt letters (Existing)**
 - URL:
-  - **old:** /manage-va-debt/ 
-  - **new:** /manage-debt-and-bills/summary/benefit-debt-balances/letters/ 
+  - **old:** /manage-va-debt/your-debt/debt-letters/
+  - **new:** /manage-debt-and-bills/summary/debt-balances/letters/ 
 - Breadcrumb: VA.gov home  >  Manage your VA debt and bills  > Your debt and bills summary  >  Benefit debt balances > Debt letters 
 
 **9) Request help static landing page (NEW)**
