@@ -104,24 +104,27 @@ Clinics that received sufficient training and were staffed higher compared to ot
 
 The most common complaint received was that cellular service is not good in many locations. The second most common complaint is technical issues. E.g., where there is lag or the system is down for everyone or specific individuals. 
 
+Clinicians in multiple clinics were frustrated at VSE-CS and said it doesn't work. E.g., concern around time it takes for statuses to change in VSE-CS. Their work has increased considerably, which is negatively impacting patient care. They are constantly having to go to the waiting room to look for patients. Then, they have to stop and assist Veterans with check-in. 
+
+Two OT's were very unhappy with VSE-CS, primarily because of its slowness in updating patient statuses and how it was rolled out. However, when VSE-CS is working as it's supposed to, they like it. 
+
 > _There’s potential to reduce work and improve wait times when the system is functioning properly and when Veterans have more fully adopted it._
 
 > _It has impacted our work for the better. But, it really hurts us when the system is slow._
 
 > _Some Veterans don’t get good cellular service in the office. In addition, many of the Veterans do not have unlimited plans, so they get charged for each text message. Sometimes, cellular service may be turned off too and the Veteran doesn’t know how to connect to WiFi or turn off airplane mode._
 
-
 **Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options.**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+- Many clinicians mentioned they’d like to see alerts in VSE-CS that persist to notify them that patients are checked in and ready to be seen. Or, highlight the row when statuses change. 
+- Would like to see visual indicators like sounds, colors, flashing, etc. to know that the screen has refreshed and there is new information. 
+- One OT requested that alerts be sent to their VA pager when a patient checks in. This solution was proposed because the OT does not have a laptop and has to go back to their office to find out if their patient has arrived. 
+- Two clinicians talked about the need for an “other” option in the Workflow dropdown that offered a text input.
+- Adding last 4 digits of SSN in VSE-CS seemed helpful to most clinicians and MSAs. 
+- One nurse requested the ability to assign the Workflow to a specific user so the provider knows which nurse to look for to find the patient instead of having to track down each nurse individually to locate the patient. 
+- The MSAs in the Speciality Clinic would like the patient summaries to print out automatically when the patient checks in. They’d like to see the patient’s future appointments added to the Patient Summary. And, they would like to see the patient’s current medications on the Patient Summary, but not discontinued medications. 
+- We heard multiple times that MSAs would like to check patients in with VSE-CS. 
+- One nurse would like the ability to use filters to shorten the list of patients by check-in status in VSE-CS, such as only show checked in patients.
 
 **Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS.**
 
