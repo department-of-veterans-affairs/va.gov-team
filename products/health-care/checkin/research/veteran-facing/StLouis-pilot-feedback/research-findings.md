@@ -95,7 +95,22 @@ Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: User
 
 **There's a large population of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes much faster.**
 
-> _If the Veteran does pre-check-in, it saves us time. They should be able to update their demographic information in pre-check-in._
+Of the 59 Veterans we spoke with, 17 (or 29%) either did not have a mobile device with a data plan or were unable or willing to use the mobile check-in process. 
+
+And, of the 42 (or 71%) that did use the check-in process, a mixed sentiment was returned for the overall perception of check-in. Returning patients were the most confident using check-in. For example, Veterans returning for a routine visit to their primary care physician. And based on our observations, younger Veterans tended to have an easier time adjusting to the new process. 
+
+*Positive*
+
+> _It [mobile check in] was better than the kiosk._
+
+> _It was super easy to get checked in._ 
+
+> _Love how it works. It works really well._
+
+> _I like not having to wait in a long line._
+
+> _It was hard at first, but it’s been good now._
+
 
 **Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText.**
 **Veterans were frustrated that they had to wait to check in when arriving early for appointments.**
