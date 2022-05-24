@@ -288,6 +288,8 @@ For Design, FE, and BE: QA fixes, if applicable
 
 ## Sprint 75 (6/1 - 6/14)
 
+If nothing carries over from last sprint, then we are light on FE and BE work for this sprint, so we will likely need to ask the engineering lead if they have additional work for Adam/Mark/Tom.
+
 ### PTO
 
 - **Liz**: 6/1 - 6/6
@@ -322,23 +324,16 @@ For Design, FE, and BE: QA fixes, if applicable
 
 ### Military info
 
-**BE**
+**PM**
+
+If there is no more backend work:
+
+- Team QA (probably Samara and Sharon)
+- Privacy & security review
+
+**BE - Tom**
 
 - Is there still work to be done?
-
-### Notification preferences
-
-**Design - Liz**
-
-- Determine what design changes, if any, are needed to accomodate the default opt-in indicator
-
-**FE**
-
-- Discovery on supporting the default opt-in indicator
-
-**BE**
-
-- Discovery on supporting the default opt-in indicator
 
 ### Direct deposit work
 
@@ -346,7 +341,7 @@ For Design, FE, and BE: QA fixes, if applicable
 
 - Support launch
 
-**FE**
+**FE - Mark **
 
 - Launch
 
@@ -357,6 +352,10 @@ For Design, FE, and BE: QA fixes, if applicable
 - Midpoint review prep
 - Schedule midpoint review for the beginning of the next sprint
 - Stretch goal: Hold midpoint review *this* sprint
+
+**FE - Mark**
+
+- Continue FE work, if applicable
 
 ## Sprint 76 (6/15 - 6/28)
 
