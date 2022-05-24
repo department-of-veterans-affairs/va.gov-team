@@ -111,6 +111,17 @@ And, of the 42 (or 71%) that did use the check-in process, a mixed sentiment was
 
 > _It was hard at first, but it’s been good now._
 
+*Somewhat negative*
+
+> _Don’t use a cell phone. Never do._
+
+> _It would have been easier if I had just spoken to them [MSA]._
+
+> _It was pretty difficult._
+
+> _What are they going to have us do next?_
+
+
 
 **Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText.**
 **Veterans were frustrated that they had to wait to check in when arriving early for appointments.**
