@@ -7,7 +7,7 @@ Date: 05/19/2022
 
 [Kavitha Krishnan] [kavitha.krishnan@adhocteam.us] 
 
-[Research Report PDF] (link here)
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2649a97886b05a6d8dc698ed8659a765e5e715cb/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Findings.pdf)
 
 <br>
 
@@ -61,7 +61,7 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
   - Edit option - ability to edit individual data fields  
 - All participants preferred the Review page with the information always open so they can review the information with ease. 
 - 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. 
-  - 2 out of 6 participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
+- 2 out of 6 participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
 - No participant interacted with anchors in the top of the page until prompted.  However, all participants valued the ability to easily get to a section from the top of the page.
 
 # Details of Findings 
@@ -132,8 +132,8 @@ We are testing a mobile prototype, so all participants should call in or be able
 Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
 Secondary criteria (nice-to-haves) 
 
--At least 2 participants who identify as women
--Atleast 2 participants over the age of 55
+At least 2 participants who identify as women
+Atleast 2 participants over the age of 55
 
 We talked to **6 participants.**
 
@@ -180,29 +180,29 @@ Education:
 Geographic location:
 * Urban: x
 * Rural: x
-* Unknown: x
+* Unknown: 5
 
 
 Race:
 * White: 4
 * Black: 1
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* Hispanic: 0
+* Biracial: 0
+* Asian: 0
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 0
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
@@ -211,9 +211,13 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive Disability 
+* Rural
+* Other than honorable
+* Immigrant origin
+* Expat
+* Hispanic, Asian and Native
+* LGBTQ
+* Assisitive Technology users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/062b0dbd799d04e3ca57fe46a0831b4e6a0b0fd7/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Participant%20checker.pdf)
