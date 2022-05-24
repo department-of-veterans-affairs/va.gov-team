@@ -61,7 +61,7 @@ Remote research using Zoom.
 ## Recruitment	
 
 ### Recruitment approach
-The audience is Veterans, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitment_checker.png)
+The audience is Veterans, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6e9ea2c8c535a5053b7493c524590628b845b6b9/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Participant%20checker.png))
 
 ### Recruitment criteria
 Please schedule a total of 12 Veterans for an expected completion rate of 6 studies.
