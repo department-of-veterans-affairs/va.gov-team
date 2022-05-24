@@ -77,17 +77,28 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 
 # Key Findings
 
-1. MSAs 
+1. There's a large population of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes much faster. 
+1. Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText. 
+1. Veterans were frustrated that they had to wait to check in when arriving early for appointments. 
+1. The new poster addressing low vision concerns was successful, but requires additional testing with low-vision participants.  
+1. If posters weren’t in line of sight of Veterans between entering the clinic and walking up to the MSA counter, then Veterans often missed them altogether. 
+1. Network and cell signal strength are variable between clinics. 3-15 seconds to receive second text message from VeText. 5-15 seconds for VA.gov to load. 
+1. Work has increased for many MSAs as a result of helping Veterans with check-in. However, Veterans appreciate the help and have a much better first time experience. 
 
 # Details of Findings 
 
 Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: User Acceptance Testing, RESRCH: Interviews, VETSJNY: Taking care of themselves
 
-**MSAs see value in allowing editing of demographic information in pre-check-in.**
-
-MSAs felt that allowing Veterans to edit their information in pre-check-in would expedite the check-in process. I.e., Veterans wouldn't be required to speak with an MSA if their information needs to be updated. In turn, shortening the line of Veterans that have to speak to MSAs on the day of their appointment. 
+**There's a large population of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes much faster.**
 
 > _If the Veteran does pre-check-in, it saves us time. They should be able to update their demographic information in pre-check-in._
+
+**Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText.**
+**Veterans were frustrated that they had to wait to check in when arriving early for appointments.**
+**The new poster addressing low vision concerns was successful, but requires additional testing with low-vision participants.**
+**If posters weren’t in line of sight of Veterans between entering the clinic and walking up to the MSA counter, then Veterans often missed them altogether.**
+**Network and cell signal strength are variable between clinics. 3-15 seconds to receive second text message from VeText. 5-15 seconds for VA.gov to load.**
+**Work has increased for many MSAs as a result of helping Veterans with check-in. However, Veterans appreciate the help and have a much better first time experience.**
 
 # Recommendations
 
