@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: May 5, 2022
+Last Updated: May 22, 2022
 
 ### Communications
 
@@ -16,6 +16,7 @@ Last Updated: May 5, 2022
 |Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+|Mark Dewey | FE Engineer | mark.dewey@gcio.com |
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
