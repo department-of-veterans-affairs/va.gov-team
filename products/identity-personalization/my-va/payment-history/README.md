@@ -1,4 +1,4 @@
-# Project outline: Add payment/financial info to the My VA dashboard
+# Project outline: Add payment and debt info to the My VA dashboard
 
 Last updated May 24, 2022
 
@@ -208,7 +208,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 
 #### V1
 
-![My VA 2.0 with payments]()
+![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
 
 #### V2 
 
