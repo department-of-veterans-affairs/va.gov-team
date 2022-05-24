@@ -8,6 +8,7 @@ Date: 05/23/2022
 Kavitha Krishnan [kavitha.krishnan@adhocteam.us]
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2649a97886b05a6d8dc698ed8659a765e5e715cb/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Findings.pdf)
+
 <br>
 
 **Jump to:**
@@ -21,6 +22,7 @@ Kavitha Krishnan [kavitha.krishnan@adhocteam.us]
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/Research%20findings.md#Who-wetalked-to)
 
 [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/Research%20findings.md#Further-research-needed)
+
 <br>
 
 # Research Goals
