@@ -1,6 +1,6 @@
 # Project outline: Add payment/financial info to the My VA dashboard
 
-Last updated May 5, 2022
+Last updated May 24, 2022
 
 ### Communications
 
@@ -27,13 +27,26 @@ Last updated May 5, 2022
 
 ## Overview
 
-People have mentioned that seeing payment info on their My VA dashboard is a high priority since our [initial dashboard discovery in 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important), and again in later research sessions, including during [December 2020 exploration research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md#additional-insights), [March 2021 usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing), and [July 2021 notifications discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#things-veterans-mentioned-theyd-want-to-see-as-an-alert). The importance of payment information also bears out in analytics. Viewing payments is [a top interaction on VA.gov overall](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20201122&_u.date01=20211121&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.eventCategory:Interactions/), and "Payments" is  [a top search from the My VA dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches). This effort aims to add payment information to the My VA dashboard and to determine if any other financial information should be elevated as well.
+People have mentioned that seeing payment info on their My VA dashboard is a high priority since our [initial dashboard discovery in 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important), and again in later research sessions, including during [December 2020 exploration research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md#additional-insights), [March 2021 usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing), and [July 2021 notifications discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#things-veterans-mentioned-theyd-want-to-see-as-an-alert). The importance of payment information also bears out in analytics. Viewing payments is [a top interaction on VA.gov overall](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20201122&_u.date01=20211121&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.eventCategory:Interactions/), and "Payments" is  [a top search from the My VA dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches).
+
+Our intitial effort -- to add payment information to the My VA dashboard -- aimed to meet this expectation, and appears to have done so. After having launched this work to 100% of users in May 2022, the link to view payment information is already 5th most-clicked link on My VA. Additionally, the debt and direct deposit links we added get a fair amount of traction, and searches for debt and direct deposit from My VA are down from where they were prior to launch.
+
+Prior to this initial launch, we were made aware of some usability problems with our MVP through UAT and the VA.gov collab cycle staging review. Feedback of note included that it was sometimes hard to differentiate between payment info (money going to the veteran) and debt info (money owed to the VA), and that we did not give enough emphasis to debt information. Given how late in the project we heard this feedback, we did not get a chance to address these issues before launch, so our team is now working on a "V2" of this section to better clarify and balance payment and debt information shown within this section.
 
 ## Problems
+
+**MVP problems**
 
 - Users expect to see their payment information on My VA, but currently do not.
 - Users have trouble finding this information, with terms like “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA.
 - When My VA eventually becomes the authenticated homepage, it needs to accomodate all of the top tasks on VA.gov, of which viewing payment history is one.
+
+**Problems we are addressing in our V2**
+
+- It's hard to differentiate between payment info and debt info.
+- At a glance, people confuse payment information with a debt notice because they see the debt alert and assume the gray box (payment info) below it is showing money they owe to the VA. 
+- Payment information has a much larger emphasis than debt information, even though debt information is more important for those to whom that scenario applies.
+- We are using a notification style for the debt information but a gray box style for payment info. This is confusing, and the two should be styled more consistently. 
 
 ## User Outcomes
 
@@ -49,8 +62,9 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 - Veterans will more quickly view and complete tasks related to their payment and debt information.
 
 ### Undesired User Outcomes
-- We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable
-- We do not want the My VA page to become too cluttered or cumbersome, slowing down veterans, instead of expediting their experience
+
+- We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable.
+- We do not want the My VA page to become too cluttered or cumbersome, slowing down veterans, instead of expediting their experience.
  
 ## Business Outcomes
 
@@ -58,7 +72,7 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 *Why would your business want this to exist?*
 
-The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks.
+Showing payment and debt information on My VA helps fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks.
 
 *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
@@ -175,9 +189,10 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Feb 2022: Finalize designs, development
 - Mar 2022: Complete QA
 - Apr 2022: Complete UAT
-- Apr 20, 2022: Launched to 25% of users
-- Apr 26, 2022: Launced to 50% of users
-- May 2, 2022: Launced to 100% of users
+- Apr 20, 2022: Launched V1 to 25% of users
+- Apr 26, 2022: Launched V1 to 50% of users
+- Apr 29, 2022: Design intent for V2 updates
+- May 2, 2022: Launched V1 to 100% of users
 
 ---
    
@@ -191,6 +206,10 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 
 ### After
 
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+#### V1
+
+![My VA 2.0 with payments]()
+
+#### V2 
+
+(TBD)
