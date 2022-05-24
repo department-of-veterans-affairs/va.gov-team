@@ -114,6 +114,10 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 485 | STG/ECHO/6 | | M-F 8AM - 330PM | Yes |
 | 449 | STG/ENDROCRINE/1 | | M-F 8AM - 330PM | Yes |
 | 500 | STG/MH/8 | | M-F 8AM - 330PM | Yes |
+| 525 | STG/SLEEP LAB | | M-F 4PM - 2300PM | Yes |
+| 64 | Audiology | Hearing |M-F 7AM - 230PM | Yes |
+| 195 | Cardiology | | M-F 7AM - 230PM | Yes |
+| 62 | Dermatology | | M-F 7AM - 230PM | Yes |
 
 ### Available Clinics (station 500)
 
