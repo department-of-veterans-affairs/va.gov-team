@@ -293,6 +293,70 @@ For Design, FE, and BE: QA fixes, if applicable
 - **Liz**: 6/1 - 6/6
 - **Samara**: Afternoon of 6/14
 
+### Personal information revisions
+
+**PM**
+
+- UAT go/no-go (if we didn't hold it last sprint)
+
+**Design - Christina**
+
+- UAT recruiting
+- UAT research sessions!
+- If time, determine what design documentation is needed for this work, and add it to the project folder
+
+**FE - Adam**
+
+- Support UAT
+- Determine what frontend documentation is needed for this work, and add it to the project folder
+
+**BE - Tom**
+
+- Determine what backend documentation is needed for this work, and add it to the project folder
+
+### MHV research
+
+**Design - Liz**
+
+- Share report with MHV
+
+### Military info
+
+**BE**
+
+- Is there still work to be done?
+
+### Notification preferences
+
+**Design - Liz**
+
+- Determine what design changes, if any, are needed to accomodate the default opt-in indicator
+
+**FE**
+
+- Discovery on supporting the default opt-in indicator
+
+**BE**
+
+- Discovery on supporting the default opt-in indicator
+
+### Direct deposit work
+
+**PM**
+
+- Support launch
+
+**FE**
+
+- Launch
+
+### Bad address indicator
+
+**PM**
+
+- Midpoint review prep
+- Schedule midpoint review for the beginning of the next sprint
+- Stretch goal: Hold midpoint review *this* sprint
 
 ## Sprint 76 (6/15 - 6/28)
 
