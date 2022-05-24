@@ -291,6 +291,7 @@ For Design, FE, and BE: QA fixes, if applicable
 ### PTO
 
 - **Liz**: 6/1 - 6/6
+- **Samara**: Afternoon of 6/14
 
 ### Priorities
 
