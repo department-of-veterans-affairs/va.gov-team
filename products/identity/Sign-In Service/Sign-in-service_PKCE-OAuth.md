@@ -194,3 +194,10 @@ curl -X POST https://staging-api.va.gov/sign_in/refresh -H 'Content-Type: applic
   }
 }
 ```
+
+## Logging and Monitoring
+The following links will provide information about the SiS.
+
+- Applications logs related to the sign in service in Grafana Loki(https://grafana.vfs.va.gov/d/-q9Nn3unz/sign-in-service-logs?orgId=1&var-env=Loki%20(Staging))
+  - Switch the environment and timing to your preference
+- Sign in service errors in Sentry 
