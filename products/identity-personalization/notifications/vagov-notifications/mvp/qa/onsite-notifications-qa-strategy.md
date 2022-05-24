@@ -27,7 +27,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 |5. What use cases do we need to test (single notification, multiple notifications, etc)? We'll want this so we can make sure the backend team sends us exactly what they need.|[On-site notification test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Onsite-Notification.md) |
 |6. For QA on Staging, can notification dismissed-states be manually cleared? If yes, how?|[If no (i.e., test-acct gets "burnt"), then QA would need 12-15 Staging test-accts for cross-device/-browser testing]|
 
-## Timeline
+## Timeline (tentative)
 
 ### 5/16 - 5/20
 1. Tom (My VA) completes work to update tokens for vets-API (tentative)
