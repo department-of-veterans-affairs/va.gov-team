@@ -25,12 +25,12 @@ Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
 # Research Goals
 
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Participants to access their health information. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-Participants-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Participants to access their health information. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like on mobile devices, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-Participants-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021 and our [Round 1 testing with a desktop prototype]( ), conducted in March 2022. 
 
 The goals of this study are to:
-- Determine if Participants understand the concept of MHV on VA.gov as a centralized place to access healthcare
+- Determine if participants understand the concept of MHV on VA.gov as a centralized place to access healthcare
 - Identify major usability or content issues with our current concept of replatforming MHV on VA.gov 
-
+- Evaluate if participants are able to use the current prototype on a mobile device (currently 50% of users access MHV from a mobile device)
 
 ### OCTO Objectives 
 
@@ -56,6 +56,7 @@ This research will help us answer:
 - What would they expect to see in their My Health landing page if they were logged in? Not logged in?
 - Will participants be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
 - What is the participant perception of how the health apartment would fit into how they manage their health at the VA?
+- Can participants smoothly use the proposed navigation for MHV on a mobile device?
 
 
 # Methodology 
@@ -71,6 +72,8 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
 - Participants will be able to accomplish a variety of health tasks as designed in this prototype.
 	- *Likely True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
+- Participants will be able to smoothly use the proposed navigation for MHV on a mobile device.
+	-  *Definitely True*. Participants 
 
 
 # Key Findings
