@@ -3,7 +3,7 @@
 
 # Modernized Check-In Experience: St. Louis Pilot UAT with Staff Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Products, Mordernized Check-In Experience**
+**Office of the CTO - Digital Experience (OCTO-DE), Healthcare Products, Modernized Check-In Experience**
 
 Date: 05/17/2022
 
