@@ -17,10 +17,10 @@ This document describes how our PKCE OAuth partners can integrate with the Sign 
  
 ## Sign in service will provide: 
 - Unified Sign in Page: `staging.va.gov/sign-in?application=vamobile`
-- Authorization endpoint: `staging-api.va.gov/sign_in/CSP/authorize`
-- Token URL: `staging-api.va.gov/sign_in/token`
-- User info/introspect URL: `staging-api.va.gov/sign_in/introspect`
-- Refresh URL: `staging-api.va.gov/sign_in/refresh`
+- Authorization endpoint: `staging-api.va.gov/v0/sign_in/CSP/authorize`
+- Token URL: `staging-api.va.gov/v0/sign_in/token`
+- User info/introspect URL: `staging-api.va.gov/v0/sign_in/introspect`
+- Refresh URL: `staging-api.va.gov/v0/sign_in/refresh`
 
 ## Sign in Service Well-Known Configurations
 - Dev: TBD
@@ -35,14 +35,14 @@ This document describes how our PKCE OAuth partners can integrate with the Sign 
         - => "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="
     - code_verifier is stored on client for future /token call
     - code_challenge_method MUST equal ‘S256’
-2. VA.gov calls vets-api authorization endpoint: staging-api.va.gov/sign_in/CSP/authorize?code_challenge=VALUE=&code_challenge_method=S256
+2. VA.gov calls vets-api authorization endpoint: staging-api.va.gov/v0/sign_in/CSP/authorize?code_challenge=VALUE=&code_challenge_method=S256
 3. User will authenticate with CSP
-4. CSP calls staging-api.va.gov/sign_in/CSP/callback endpoint, vets-api creates auth code
+4. CSP calls staging-api.va.gov/v0/sign_in/CSP/callback endpoint, vets-api creates auth code
 5. User redirected to vamobile://login-success with auth code in the query param
     - `vamobile://login-success?code=9406c906-1923-4525-adf0-ba63e98ef3f6`
 6. Copy the auth code and call /token: 
 ``` bash
-curl -X POST https://staging-api.va.gov/sign_in/token -H 'Content-Type: application/json' 
+curl -X POST https://staging-api.va.gov/v0/sign_in/token -H 'Content-Type: application/json' 
 -d '{"grant_type": "authorization_code", "code_verifier": "5787d673fb784c90f0e309883241803d",
 "code": "9406c906-1923-4525-adf0-ba63e98ef3f6"}'
 ```
@@ -52,7 +52,7 @@ curl -X POST https://staging-api.va.gov/sign_in/token -H 'Content-Type: applicat
 ```
 8. Use access token in header to get user data from the /introspect endpoint:
 ``` bash
-curl -X GET  https://staging-api.va.gov/sign_in/introspect -H 'Authorization: Bearer eyJhbGciOi…’
+curl -X GET  https://staging-api.va.gov/v0/sign_in/introspect -H 'Authorization: Bearer eyJhbGciOi…’
 ```
 9. The /introspect endpoint will return user info:
     - Note: only logingov and idme csp is returning data at this time
@@ -101,7 +101,7 @@ curl -X GET  https://staging-api.va.gov/sign_in/introspect -H 'Authorization: Be
 ```
 10. Use refresh token to get new access token and refresh tokens (when access token expires) from the /refresh endpoint:
 ``` bash
-curl -X POST https://staging-api.va.gov/sign_in/refresh -H 'Content-Type: application/json' -d '{"refresh_token": "v1:insecure+data+A6ZX…"}'
+curl -X POST https://staging-api.va.gov/v0/sign_in/refresh -H 'Content-Type: application/json' -d '{"refresh_token": "v1:insecure+data+A6ZX…"}'
 ```
 11. The /refresh endpoint will return a new access token and refresh token:
 ``` json
