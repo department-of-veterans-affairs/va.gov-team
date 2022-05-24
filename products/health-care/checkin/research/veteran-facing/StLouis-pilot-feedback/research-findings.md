@@ -177,12 +177,13 @@ We also heard from clinicians that they like to know if their patients are there
 
 ## Who we talked to
 
-9 MSAs, MSA Leads and clinic administrators
-6 clinicians
+59 Veterans were observed during check-in
+
+- 17 (or 29%) of the 59 Veterans either did not have a mobile device with a data plan or were unable or willing to use the mobile check-in process
 
 Due to the intercept method used for this research, we were unable to collect demographic information that supports the VA's inclusive research guidelines. 
 
-We spoke with staff from a number of clinics, including:
+We spoke with Veterans from a number of clinics, including:
 
 - North County CBOC, St. Louis (Primary care, wellness, nutrition, etc.) 
 - GI Lab, Eye Clinic, OT/PT, Speciality Care Clinic (at St. Louis VAMC) 
