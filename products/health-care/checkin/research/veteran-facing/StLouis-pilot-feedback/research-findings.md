@@ -108,16 +108,11 @@ Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: User
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/conversation-guide.md)
 
-[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/session-notes/session-notes.md)
-
-
-## Tools used for Synthesis
-
-[Research Synthesis Mural](https://app.mural.co/t/vfscie8528/m/vfscie8528/1651764128759/12f7863ae34343d5eb0086756dee8998d6124f61?sender=u70b8b2930b03d3ef317d2520)
+[Session notes]
 
 ## Pages and applications used
 
