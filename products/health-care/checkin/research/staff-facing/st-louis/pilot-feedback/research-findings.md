@@ -11,6 +11,8 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf)
 
+[Companion study research findings with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md)
+
 <br>
 
 **Jump to:**
@@ -83,6 +85,8 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 1. Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options. 
 1. Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS. 
 1. Inconsistencies in how clinicians and clinics complete pre-registration with patients for telephone appointments. 
+
+[Companion study research findings with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md)
 
 # Details of Findings 
 
