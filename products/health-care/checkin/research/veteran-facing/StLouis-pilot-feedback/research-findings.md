@@ -11,6 +11,8 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 
 [Research Report PDF]
 
+[Companion study research findings with staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md)
+
 <br>
 
 **Jump to:**
@@ -84,6 +86,8 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 1. If posters weren’t in line of sight of Veterans between entering the clinic and walking up to the MSA counter, then Veterans often missed them altogether. 
 1. Network and cell signal strength are variable between clinics. 3-15 seconds to receive second text message from VeText. 5-15 seconds for VA.gov to load. 
 1. Work has increased for many MSAs as a result of helping Veterans with check-in. However, Veterans appreciate the help and have a much better first time experience. 
+
+[Companion study research findings with staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md)
 
 # Details of Findings 
 
