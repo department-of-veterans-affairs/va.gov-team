@@ -213,10 +213,69 @@ We'll continue to monitor analytics for V1, but otherwise, these tasks are all f
 ## Sprint 75 (6/1 - 6/14)
 [Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 
+### Priorities
+
+In order of importance, in case it's needed:
+
+1. On-site notifications
+2. Cerner updates
+3. My VA redirect
+4. Payment info V2
+5. Audit updates
+
+There are *a lot* of PM tasks this sprint. The sprint is mostly PM stuff moving along each project. We should talk about how this work can be divided among AJ, Erica, and Samara (as needed).
+
+Also, besides the Cerner updates, I don't have any frontend priorities for Taylor right now. If there are no carryover tickets from last sprint or FE tickets in the backlog, please check in with the engineering lead to get him some work for this sprint.
+
+### On-site notifications
+
+Goal: Be ready for QA by 6/15
+
+**PM**
+
+- Request QA from Tze
+- Figure out how to get the backend (DMC) to support test users
+- Coordinate QA with all necessary parties
+- QA go/no-go
+
 ### Cerner updates
 
-(692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
-(653) Roseburg: Go-live -- 6/11/2022
+**FE**
+
+- Add the following facilities to the list of Cerner sites for My VA
+  - (692) White City/Roseburg: Go-live -- 6/11/2022 (Note: not clear to me whether these are separate or one health system)
+  - (653) Roseburg: Go-live -- 6/11/2022
+
+### My VA redirect
+
+**PM**
+
+- Assuming we may not get the Sprint 74 tasks done with AJ needing to take some sick time, so let's move the sprint 74 tasks into sprint 75
+
+**Design - Liz**
+
+- UAT/research planning
+
+### Payments and debts V2
+
+Design on hold while we prep for midpoint review
+
+**PM**
+
+- Midpoint review prep, including starting a preliminary list of QA tasks
+- Hold midpoint review by the end of the sprint if possible
+
+### Audit updates
+
+**PM**
+
+- Collab cycle kickoff
+
+**Design**
+
+- Finish use cases if they aren't done
+- Outline design updates
+- Start on design updates
 
 ### My VA redirect
 
