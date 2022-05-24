@@ -5,7 +5,7 @@
 
 Date: 05/19/2022
 
-[Kavitha Krishnan] [kavitha.krishnan@adhocteam.us] 
+[Kavitha Krishnan](kavitha.krishnan@adhocteam.us)
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2649a97886b05a6d8dc698ed8659a765e5e715cb/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Findings.pdf)
 
@@ -220,4 +220,4 @@ _List all groups in red from the spreadsheet_
 * LGBTQ
 * Assisitive Technology users
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/062b0dbd799d04e3ca57fe46a0831b4e6a0b0fd7/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Participant%20checker.pdf)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6e9ea2c8c535a5053b7493c524590628b845b6b9/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Participant%20checker.png)
