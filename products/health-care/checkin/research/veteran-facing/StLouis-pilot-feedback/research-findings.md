@@ -15,13 +15,13 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions]
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#key-findings)
+[Key findings]
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#recommendations)
+[Recommendations]
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md#who-we-talked-to)
+[Who we talked to]
 
 <br>
 
@@ -29,7 +29,7 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Ya-ching Tsa
 
 The check-in product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The check-in experience team, in particular, has created the portion of the ecosystem that enables a Veteran to utilize their mobile device to “check-in” through VA.gov (e.g., letting the VA know that the patient has arrived for their appointment). 
 
-With this round of research, we are looking to gather feedback on the pilot release from staff across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews.
+With this round of research, we are looking to gather feedback on the pilot release from Veterans across the St. Louis area. We are also interested in gaining insights into how to connect telemedicine appointments to pre-check-in and display patient record flags. Going on-site allows us to quickly interview many more Medical Support Assistants (MSA) and clinic management members compared to remote interviews.
 
 The purpose of this research was to: 
 
