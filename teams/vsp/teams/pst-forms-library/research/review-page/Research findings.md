@@ -123,8 +123,6 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
 - [Shorter URL](https://tinyurl.com/4j55skpx)	 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
@@ -134,8 +132,8 @@ We are testing a mobile prototype, so all participants should call in or be able
 Must have access to a mobile device (smartphone or tablet), laptop or desktop computer to interact with the prototype
 Secondary criteria (nice-to-haves) 
 
-At least 2 participants who identify as women
-Atleast 2 participants over the age of 55
+-At least 2 participants who identify as women
+-Atleast 2 participants over the age of 55
 
 We talked to **6 participants.**
 
@@ -170,13 +168,13 @@ Age:
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 0
+* Bachelor's degree: 0
+* Master's degree: 4
+* Doctorate degree: 1
+* Unknown: 0
 
 
 Geographic location:
@@ -186,8 +184,8 @@ Geographic location:
 
 
 Race:
-* White: x
-* Black: x
+* White: 4
+* Black: 1
 * Hispanic: x
 * Biracial: x
 * Asian: x
