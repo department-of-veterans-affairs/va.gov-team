@@ -151,11 +151,39 @@ We also heard from clinicians that they like to know if their patients are there
 
 **The new poster addressing low vision concerns was successful, but requires additional testing with low-vision participants.**
 
+No Veterans we spoke with had difficulties being able to read the new poster. 
+
+However, it's worth noting that overall sentiment on check-in was much lower at the eye clinic. I.e., potentially it's challenging for that Veteran population to use their phone and/or use the poster. 
+
 **If posters weren’t in line of sight of Veterans between entering the clinic and walking up to the MSA counter, then Veterans often missed them altogether.**
+
+This in turn created a small waiting line at some clinics for staff to provide help. 
+
+In addition, check-in posters were often competing with other posters for real estate. E.g., posters on safety, COVID-19, visitors, etc. 
 
 **Network and cell signal strength are variable between clinics. 3-15 seconds to receive second text message from VeText. 5-15 seconds for VA.gov to load.**
 
+Initial response from VeText following “check in” text was immediate. The second message from VeText took 3-15 seconds on average to arrive. Although not a lengthy time, it had the potential to create a line at the MSA counter. 
+
+Depending on the strength of cell service for the Veteran’s mobile device, it took anywhere from 5-15 seconds on average to load VA.gov. 
+
+And, at times, we observed that the Contact Information page was slow to load. There were a few scenarios where the bottom of the page loaded first, requiring the Veteran to scroll up to view the question.  
+
 **Work has increased for many MSAs as a result of helping Veterans with check-in. However, Veterans appreciate the help and have a much better first time experience.**
+
+Most MSAs still interacted with Veterans because of their proximity to the clinic entrance. Other reasons included: 
+
+- Veterans may not have seen the check-in posters; 
+- MSAs offered to assist them through the check-in process, e.g., to get them comfortable;
+- Some Veterans needed assistance using their mobile device 
+
+> _It was much easier since you helped me._ 
+
+At times, there was a pattern for MSAs to walk Veterans down the “happy path” of confirming all of their information (in order to create a frictionless experience for the Veteran).  
+
+There were moments that MSAs reached “hard stops” with Veterans either as a text or on VA.gov. In a few of those scenarios, MSAs didn’t know how to correct the issue and instructed the Veteran to try again, which led to a repeat failure (and frustrating experience for both). 
+
+Although MSAs ensured all Veterans were checked in to VSE-GUI, many still messaged providers in Teams to let them know their patients had arrived (likely due to technical issues the clinic has previously experienced with check-in). 
 
 # Recommendations
 
