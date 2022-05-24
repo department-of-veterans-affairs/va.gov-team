@@ -238,7 +238,7 @@ Gender:
 LGBTQ+:
 * Transgender: unknown
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: unknown
-* Gay, lesbian, or bisexual: unknown
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
@@ -250,9 +250,9 @@ Note, since this was a desktop only prototype, the moderator had to screen-share
 
 Age:
 * 25-34: 0
-* 35-44: 5
-* 45-54: 3
-* 55-64: 0
+* 35-44: 3
+* 45-54: 0
+* 55-64: 5
 * 65+: 3
 * Unknown: 0
 
@@ -268,41 +268,39 @@ Education:
 
 
 Geographic location:
-* Urban: 5
-* Rural: 6
+* Urban: 6
+* Rural: 5
 * Unknown: 0
 
 
 Race:
-* White: 6
-* Black: 4
-* Hispanic: 1
-* Biracial: 1
-* Asian: 0
-* Native: 1
+* White: 4
+* Black: 0
+* Hispanic: 3
+* Biracial: 3
+* Asian: 1
+* Native: 0
 
 
-Disability and Assistive Technology (AT):
-* Cognitive: 11
+* Cognitive: 5
 * AT beginner: 0
-* AT advanced user: 0
-* Desktop screen reader: 0
-* Mobile screen reader: 0
-* Magnification/Zoom: 0
+* AT advanced user: 2
+* Desktop screen reader: 1
+* Mobile screen reader: unknown
+* Magnification/Zoom: 2
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
 * Hearing aids: 1
 * Sighted keyboard: 0
 * Captions: 0
+* Dark mode: 1
+* Increased text size: 1
 
 
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Participant groups:
-* Have other than honorable discharge
-* Are of immigrant origin
-* Identify as a woman
-* Identify as Latinx, Asian,or  LGBTQ+
-* Use assistive technology
+* Black and Native veterans
+*
 
 
 ![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Recruitmenttracker.png) 
