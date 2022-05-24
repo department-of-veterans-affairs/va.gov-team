@@ -120,6 +120,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ## Discovery
 
 ### Solution Summary
+
+<details>  <summary>MVP</summary>  
+
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 **In Scope - MVP**
@@ -138,8 +141,13 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - VA Homeloans information
 - Co-pay details (future enhancement as data comes available)
 
+ </details>
+ 
 ---
 ## Launch Planning
+
+<details>  <summary>MVP</summary>  
+
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
@@ -152,6 +160,8 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Analytics - [Link Clicks Ticket #37589](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37589) and [API load success/fail Ticket #38739](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38739)
 - Staging ticket [#38376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38376)
 - Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
+
+</details>
 
 ### Incident Response info
 A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
@@ -167,6 +177,9 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 ---
 ## Key deliverables
 
+
+<details>  <summary>MVP</summary>  
+
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
 - Design documentation [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1638500075560/0e849f61e282ebe2d8e7119eea504e4c05b0bbe4?sender=u5ad49c107baa41137f271007), [Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment) and [UXPIN Prototype](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i)
 - [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
@@ -178,7 +191,8 @@ A security vulnerability is unlikely due to the 2-factor authentication required
     - [Payments Information a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/Staging%20Review/Accessibility%20testing.md)
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/product/release-plan.md)
 - [Production env](https://www.va.gov/my-va/)
-
+ 
+ </details>
 
 ### Key Dates
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
