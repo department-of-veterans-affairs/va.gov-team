@@ -5,7 +5,7 @@
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/research-guide.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
 - [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/telephone/session-notes)
-- [Synthesis document]()
+- [Synthesis document](https://app.mural.co/invitation/mural/vsa8243/1652370780913?sender=uc940f53ad96ac0203d6d3631&key=7da1bf71-9b34-452e-b9b8-eeb2fb8d3d71)
 - [Research report]()
 - [Participants](#participants)
 
