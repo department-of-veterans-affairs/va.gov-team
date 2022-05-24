@@ -121,7 +121,9 @@ And, of the 42 (or 71%) that did use the check-in process, a mixed sentiment was
 
 > _What are they going to have us do next?_
 
+> _If the government wants them to check-in with their phone, then the government should provide a phone._
 
+> _Veterans feel like they're being hacked and tracked._
 
 **Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText.**
 **Veterans were frustrated that they had to wait to check in when arriving early for appointments.**
