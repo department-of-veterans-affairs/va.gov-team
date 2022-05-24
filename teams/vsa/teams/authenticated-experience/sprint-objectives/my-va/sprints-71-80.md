@@ -276,7 +276,7 @@ Design on hold while we prep for midpoint review
 
 - Collab cycle kickoff
 
-**Design**
+**Design - Angela**
 
 - Finish use cases if they aren't done
 - Outline design updates
