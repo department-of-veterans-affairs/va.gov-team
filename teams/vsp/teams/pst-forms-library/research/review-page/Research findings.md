@@ -61,7 +61,7 @@ MAYBE TRUE - Veterans find it easier to edit any information that might need upd
   - Edit option - ability to edit individual data fields  
 - All participants preferred the Review page with the information always open so they can review the information with ease. 
 - 4 out of 6 participants preferred the editing individual fields instead of entire sections to avoid editing other fields by mistake. 
-- 2 out of 6 participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
+  - 2 out of 6 participants preferred to edit the entire section instead of individual data fields to edit entire section/multiple data fields at the same time thus saving time and effort. 
 - No participant interacted with anchors in the top of the page until prompted.  However, all participants valued the ability to easily get to a section from the top of the page.
 
 # Details of Findings 
@@ -163,10 +163,10 @@ Devices used during study:
 Age:
 * 25-34: 0
 * 35-44: 1
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 45-54: 1
+* 55-64: 1
+* 65+: 3
+* Unknown: 0
 
 
 Education:
