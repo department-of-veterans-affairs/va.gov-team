@@ -113,46 +113,26 @@ Need content here ->
 
 Labels: 
 
-While Pharmacy and Medical Records tool performed well, there are still areas we can improve:
+9 users interacted with the sub-navigation which was a drop down labeled "In This Section" and they interacted with it in a variety of ways. (Users may have interacted with the menu in multiple ways.)
+- 5 of the 9 users interacted with the subnavigation when asked where they would go if they had questions about the content of the page. There are "FAQ" and "How to" links in the menu.
+- 3 of the 9 users tried to sort their messages in the "In This Section" navigation which is not possible.
+- 1 of the 9 users tried to use it to navigate to the home page which is not possible.
+- 4 of the 9 users interacted with the menu after prompting for the moderator (ie. Do you see a way that you can do that on this page?)
 
-**Pharmacy Tool**
-- Participants wanted to see expiration dates for statuses in the Pharmacy tool, particularly for “expiring soon” and “in progress”. Further testing is needed to ensure that these statuses are understandable and provide the necessary information.
-- While most participants expected these prescriptions to go to their home address, a few participants also wanted the option to select a local pharmacy pick-up. 
-
-> Only thing not clear was “in progress” dates and “expiring soon.”..It should give me a date (P2, Participant)
-
-**Medical Records**
-- Participants weren’t sure what constituted “recent” for the table at the top of the tool. Does recent mean the last week, month, etc?
-- While most participants were not familiar with BlueButton, they were able to determine what it was based on contextual clues. 
-- Participants weren’t sure what the difference was between their Health Summary, and their BlueButton Medical Record.
-- One participant mentioned there wasn’t a clear section for vaccine records, and wasn’t sure where they would live within the tool.
+> If you had a question about your messages- well . . . I don't know, maybe I'd just have to see if there's a FAQ or something or option to click for help in "Message menu". (P1, participant)
 
 
-Appointments and Messages had the largest areas for improvement and iteration:
+**4. Users were confused about certain terms including "Pending" and "Blue Button".
+Labels:
 
-**Appointments**
-- Participants expected to see in the Appointments detail section this data: specifics about their appointment such as purpose of visit or pre-work needed (e.g. fast for blood tests), the doctor they are seeing, location information, and contact information for the office or doctor.
-
-**Messages**
-- Participants expected sort by: date range or calendar widget, doctor name, sender name, message priority, “most recent”, and longer time periods (6 months, last year, etc). Additional research or technical constraints are needed to determine what defines “most recent”.
-
-**4. Participants expected the various healthcare tools to link to each other. For instance, if they clicked on an appointment, they’d be able to redirect to send a message directly to that doctor listed in the appointment information.**
-
-Labels: PRDT: health-care-apartment, DSP: Email template
-
-Participants expected that the healthcare tools would cross-link to each other. In the context of the Pharmacy tool, this looked like Participants wanting the “Contact your doctor to Renew Prescription” link to generate a message with partially pre-filled prescription information. On the Appointments tools, Participants wanted to be able to send their doctor a message about a particular appointment directly from the Appointment Details page (shown as the “Details” link in the current prototype). 
-
-> If you clicked on this [Contact your doctor to renew] it’d bring you into a messaging system where you message that says ‘hey, I’d like to refill my Tamoxifen citrate 10mg’. And the message would be linked up to this medication (P9, Participant)
+50% of participants had heard of Blue Button and understand what it did or had used it before.  None of the participants knew that Pending appointments had not yet been confirmed by the VA.
 
 
+**5. Users did not find the "Pre-check in" link in the "In This Section" menu.
 
-**5.  Almost all users (10/11) noticed and had positive comments about seeing their disability ratings information alongside their health information.**
+Labels:
 
-Labels: BNFT: Healthcare, PRDT: Benefit-letters, PRDT: health-care-apartment 
-
-Only one participant did not notice or comment on seeing Disability Benefits at the bottom of the My Health Landing Page. Participants said they usually expect to see that information on eBenefits, and that seeing their disability rating and options for increasing their benefits made them feel like My Health truly was a one-stop shop and that the VA was interested in helping them maximize their benefits. Although it was nice to see alongside health information, Participants said they would want to verify this section gives them as much detail as they can currently see on eBenefits. 
-
-> I can do a lot on this page. I like how you have the disability benefits. (Pilot participant, Participant)
+None of the participants expected to find 
 
 
 
@@ -160,41 +140,14 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
 
 - Mail
 - Sort
+- Search
 
 # Recommendations
 
-* Iterate on the breadcrumb design by changing “Home” text to “VA.gov Home” for the mobile testing
-	* _Of the 8 participants who interacted with the breadcrumbs, 50% expected that the “Home” link would take them back to the My Health Landing page_
-	* _We’ve heard through conversations with other researchers that they have seen participants have similar difficulties_
+* Recomendation 1
+	* _Sub-rec 1_
+	* _Sub-rec 2_
 
-* Iterate on the design of the search messages functionality to make it more obvious to Participants
-    * _6 participants did not see or use the search messages link, and half (3) of those 6 instead expected to be able to search by clicking on the drop down menu_
-    * _Potential options to test include putting search as an option in the drop down menu or including a search bar visual_
-
-* Iterate on the content of the drop down menu within the Messages tool
-	*  _Participants expected sort by: date range or calendar widget, doctor name, sender name, message priority, “most recent”, and longer time periods (6 months, last year, etc). Additional research or technical constraints are needed to determine what defines “most recent”._
-	* _Test expanded dropdown in next round_
-
-* Iterate on the content of the Appointments details section 
-	* _Participants expected to see in Appointments detail section this data: specifics about their appointment such as purpose of visit or pre-work needed (e.g. fast for blood tests), the doctor they are seeing, location information, and contact information for the office or doctor._
-	*  _Pass findings onto Peter Russo_
- 
-* Assess feasibility and iterate on prescription status details for the Pharmacy Tool
- 	* _Participants wanted to see expiration dates for statuses in the Pharmacy tool, particularly for “expiring soon” and “in progress”. Further testing is needed to ensure that these statuses are understandable and provide the necessary information._ 
- 	* _Pass findings onto the Flagship Mobile Team, not immediately actionable for us but close collaboration will be needed in the future with this team_
- 
-* Iterate on explanatory text of the Pharmacy Tool to clarify that this is mail only prescriptions
-	* _While most participants expected these prescriptions to go to their home address, a few participants also wanted the option to select a local pharmacy pick-up. Since this isn’t currently functionality we support, we’ll need to ensure via content and future testing that users understand the purpose of the Pharmacy refill tool._
-
-* Iterate on Medical Records Tool design to address the following
-	* _Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”_
-	* _Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary_
-	* _Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? - Pass findings onto Mobile Team, see if they are still thinking about that._
-
-* Explore technical and UX options for including linking functionality across the MHV tools as they move to VA.gov
-	* _Pharmacy, Appointments, and Messages were areas that Participants wanted to be able to quickly connect different tools. For instance, auto filling details about an appointment or prescription in a message to your doctor_
-	* _Explore what constraints there are from a technical perspective, and then prioritize and include in roadmap for live code testing in the future_
-	* _Pass these findings onto the VAOS team/Peter Russo._
 
 # Next Steps
 
@@ -202,9 +155,9 @@ Our next steps are to bring these findings to our design team and iterate on our
 
 
 # Appendix
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/conversation_guide.md)
-- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/Round1_Usability)
+- [Research Plan]( )
+- [Conversation guide]( )
+- [Interview transcripts]( )
 
 
 
