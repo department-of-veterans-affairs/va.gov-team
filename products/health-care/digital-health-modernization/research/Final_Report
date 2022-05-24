@@ -97,8 +97,7 @@ Labels:
 
 The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment.
 
-> At end of session, he noticed the refill all eligible Rxs. I would probably just click that. This is fewer steps and also less time trying to find the Rx I want. Would be really nice to refill all eligible. Would be great. (more accessible!)
-The less steps you have to go to - the less clicks - way easier to remember one click over four clicks, Blind person tries to memorize the steps.(P8, Participant)
+> This is fewer steps and also less time trying to find the Rx I want. It would be really nice to refill all eligible. It's way easier to remember one click over four clicks; a blind person tries to memorize the steps.(P8, Participant, when he noticed the "Refill all eligible perscriptions" link)
 
 
 **2. Most users (10/11) logged in using the embedded sign in/create an account button.**
@@ -110,9 +109,9 @@ Need content here ->
 > It would give me a total sign in. It would sign me in to all of this. (P2, Participant, noticing that signing in would give him access to information in a single place that is currently on multiple sites)
 
 
-**3. The Pharmacy and Medical Records Tools had very high task success rates across all users. Users had more variable success with the Appointments and Messages Tools.**
+**3. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.**
 
-Labels: DSP: Contextual help, PRDT: health-care-apartment
+Labels: 
 
 While Pharmacy and Medical Records tool performed well, there are still areas we can improve:
 
@@ -159,9 +158,8 @@ Only one participant did not notice or comment on seeing Disability Benefits at 
 
 # Additional Insights
 
-- The pre-check-in link tested successfully, even with users who had never interacted with it before. This validates extensive research by the Healthcare Team on naming convention and functionality. 
-- Twice as many participants used the embedded sign in button (6) versus the top sign in button (3). One participant accidentally started on the auth’ed version of the prototype and did not interact with the sign in buttons.
-- All but one participant interacted extensively with the side navigation menu to move between tools and additional links. It will be interesting to see if this pattern persists when testing the mobile version of these designs. 
+- Mail
+- Sort
 
 # Recommendations
 
