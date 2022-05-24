@@ -169,7 +169,7 @@ We also heard from clinicians that they like to know if their patients are there
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/conversation-guide.md)
 
-[Session notes]
+[Session notes (Google Doc)](https://docs.google.com/document/d/1UjzNQ0MLiCPIMIaB-BrrUb5uCN5PJMEP-JITsAs5BwI/edit?usp=sharing)
 
 ## Pages and applications used
 
