@@ -213,6 +213,11 @@ We'll continue to monitor analytics for V1, but otherwise, these tasks are all f
 ## Sprint 75 (6/1 - 6/14)
 [Epic: #40784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40784)
 
+### PTO
+
+- **Liz**: 6/1 - 6/6
+- **Samara**: Afternoon of 6/14
+
 ### Priorities
 
 In order of importance, in case it's needed:
@@ -288,6 +293,10 @@ Design on hold while we prep for midpoint review
 
 ## Sprint 77 (6/29 - 7/12)
 [Epic: #40787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40787)
+
+### PTO
+
+- Samara: TBD, but likely taking some time off during July 4th week
 
 ## Sprint 78 (7/13 - 7/26)
 [Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
