@@ -282,8 +282,6 @@ Design on hold while we prep for midpoint review
 - Outline design updates
 - Start on design updates
 
-### My VA redirect
-
 ## Sprint 76 (6/15 - 6/28)
 [Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
