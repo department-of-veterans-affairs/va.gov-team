@@ -178,8 +178,8 @@ Education:
 
 
 Geographic location:
-* Urban: x
-* Rural: x
+* Urban: 0
+* Rural: 0
 * Unknown: 5
 
 
