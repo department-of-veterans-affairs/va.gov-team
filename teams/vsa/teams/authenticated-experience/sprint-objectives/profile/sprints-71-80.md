@@ -320,7 +320,7 @@ Goal: Be ready for QA by 6/15
 
 **PM**
 
-- Assuming we may not get the Sprint 74 tasks done with AJ needing to take some sick time, so let's move te sprint 74 tasks into sprint 75
+- Assuming we may not get the Sprint 74 tasks done with AJ needing to take some sick time, so let's move the sprint 74 tasks into sprint 75
 
 **Design - Liz**
 
