@@ -73,7 +73,7 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 - Participants will be able to accomplish a variety of health tasks as designed in this prototype.
 	- *Likely True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
 - Participants will be able to smoothly use the proposed navigation for MHV on a mobile device.
-	-  *Definitely True*. Participants 
+	-  *Mostly True*. Participants navigated successfully through the higher levels of the IA but struggled with navigating within specific pages.
 
 
 # Key Findings
@@ -82,7 +82,7 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 2. Most users (10/11) logged in using the embedded sign in/create an account button.
 
-3. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled more with finding sub-navigation within pages.
+3. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.
 
 4. Users were confused about certain terms including "Pending" and "Blue Button".
 
@@ -95,17 +95,19 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 Labels: 
 
-The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment. They were also able to 
+The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment.
+
+> At end of session, he noticed the refill all eligible Rxs. I would probably just click that. This is fewer steps and also less time trying to find the Rx I want. Would be really nice to refill all eligible. Would be great. (more accessible!)
+The less steps you have to go to - the less clicks - way easier to remember one click over four clicks, Blind person tries to memorize the steps.(P8, Participant)
+
 
 **2. Most users (10/11) logged in using the embedded sign in/create an account button.**
 
 Labels: 
 
-Six participants did not see or use the search messages link, and half (3) of those 6 instead expected to be able to search by clicking on the drop down menu instead of the search link. 
+Need content here ->
 
-> At end of session, he noticed the refill all eligible Rxs. I would probably just click that. This is fewer steps and also less time trying to find the Rx I want. Would be really nice to refill all eligible. Would be great. (more accessible!)
-The less steps you have to go to - the less clicks - way easier to remember one click over four clicks, Blind person tries to memorize the steps.(P8, Participant)
-
+> It would give me a total sign in. It would sign me in to all of this. (P2, Participant, noticing that signing in would give him access to information in a single place that is currently on multiple sites)
 
 
 **3. The Pharmacy and Medical Records Tools had very high task success rates across all users. Users had more variable success with the Appointments and Messages Tools.**
