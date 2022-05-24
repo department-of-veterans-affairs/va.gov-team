@@ -5,7 +5,7 @@
 
 Date: 05/19/2022
 
-[Kavitha Krishnan](kavitha.krishnan@adhocteam.us)
+Kavitha Krishnan [kavitha.krishnan@adhocteam.us]
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2649a97886b05a6d8dc698ed8659a765e5e715cb/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Findings.pdf)
 
