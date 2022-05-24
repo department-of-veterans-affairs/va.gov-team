@@ -55,13 +55,13 @@ Remote research using Zoom.
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page/conversation_guide.md) 
-- [Link to UXPin Prototyoe](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
+- [Link to UXPin Prototype](https://preview.uxpin.com/64d3c5baeea35fa18c11add52a41f9227620c74f#/pages/149929272/simulate/no-panels?mode=i)
 
 	
 ## Recruitment	
 
 ### Recruitment approach
-The audience is Veterans, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6e9ea2c8c535a5053b7493c524590628b845b6b9/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Participant%20checker.png))
+The audience is Veterans, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6e9ea2c8c535a5053b7493c524590628b845b6b9/teams/vsp/teams/pst-forms-library/research/review-page/Review%20Page%20Research%20Participant%20checker.png)
 
 ### Recruitment criteria
 Please schedule a total of 12 Veterans for an expected completion rate of 6 studies.
