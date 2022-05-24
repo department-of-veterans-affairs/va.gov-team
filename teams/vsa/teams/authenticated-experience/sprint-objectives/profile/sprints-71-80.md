@@ -351,6 +351,10 @@ Design on hold while we prep for midpoint review
 
 ## Sprint 77 (6/29 - 7/12)
 
+### PTO
+
+- Samara: TBD, but likely taking some time off during July 4th week
+
 ## Sprint 78 (7/13 - 7/26)
 
 ## Sprint 79 (7/27 - 8/9)
