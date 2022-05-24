@@ -300,6 +300,8 @@ If nothing carries over from last sprint, then we are light on FE and BE work fo
 **PM**
 
 - UAT go/no-go (if we didn't hold it last sprint)
+- Work with sitewide/public websites to get content updates ready #34247
+  - Note: This work doesn't need to launch until our launch to 100% is complete. 
 
 **Design - Christina**
 
