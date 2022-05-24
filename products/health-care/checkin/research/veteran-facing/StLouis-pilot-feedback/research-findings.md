@@ -126,10 +126,35 @@ And, of the 42 (or 71%) that did use the check-in process, a mixed sentiment was
 > _Veterans feel like they're being hacked and tracked._
 
 **Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText.**
+
+When asked if Veterans remember completing pre-check-in, almost all either thought, a) they completed it by confirming their appointment through text message, or b) they weren't aware it existed. 
+
+One Veteran mentioned that they receive too many text messages from the VA to easily spot the pre-check-in message. They suggested that they may be more inclined to see the text message if it wasn't an immediate response tied to the appointment confirmation. 
+
+Most Veterans were unaware of pre-check-in's value to them. 
+
+> _It looks like all the other messages."_
+
+> _Veterans don't read the entire pre-check-in message, and therefore don't know what pre-check-in even is. The message needs to be a lot shorter._
+
 **Veterans were frustrated that they had to wait to check in when arriving early for appointments.**
+
+We observed many Veterans arriving 1 hour early (i.e., 30 minutes prior to check-in availability) for their scheduled medical appointments as a result of a number of reasons: 
+
+- Travel arrangements
+- Provider/staff recommendation
+- Typically requires caregiver assistance
+
+We learned that it can be frustrating for Veterans, especially those that require caregiver assistance, to wait to check in to only learn that they have to stand back up and see the MSA to confirm their information. 
+
+We also heard from clinicians that they like to know if their patients are there early because there's a chance they can be seen earlier (especially for morning appointments). 
+
 **The new poster addressing low vision concerns was successful, but requires additional testing with low-vision participants.**
+
 **If posters weren’t in line of sight of Veterans between entering the clinic and walking up to the MSA counter, then Veterans often missed them altogether.**
+
 **Network and cell signal strength are variable between clinics. 3-15 seconds to receive second text message from VeText. 5-15 seconds for VA.gov to load.**
+
 **Work has increased for many MSAs as a result of helping Veterans with check-in. However, Veterans appreciate the help and have a much better first time experience.**
 
 # Recommendations
