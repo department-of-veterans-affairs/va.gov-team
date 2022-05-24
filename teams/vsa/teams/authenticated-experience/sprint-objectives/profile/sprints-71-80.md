@@ -292,6 +292,61 @@ For Design, FE, and BE: QA fixes, if applicable
 
 - **Liz**: 6/1 - 6/6
 
+### Priorities
+
+In order of importance, in case it's needed:
+
+1. On-site notifications
+2. My VA redirect
+3. Payment info V2
+4. Audit updates
+
+There are *a lot* of PM tasks this sprint. The sprint is mostly PM stuff moving along each project. We should talk about how this work can be divided among AJ, Erica, and Samara (as needed).
+
+Also, I don't have any frontend priorities for Taylor right now. If there are no tickets for him in the backlog, please check in with the engineering lead to get him some work for this sprint.
+
+### On-site notifications
+
+Goal: Be ready for QA by 6/15
+
+**PM**
+
+- Request QA from Tze
+- Figure out how to get the backend (DMC) to support test users
+- Coordinate QA with all necessary parties
+- QA go/no-go
+
+### My VA redirect
+
+**PM**
+
+- Assuming we may not get the Sprint 74 tasks done with AJ needing to take some sick time, so let's move te sprint 74 tasks into sprint 75
+
+**Design - Liz**
+
+- UAT/research planning
+
+### Payments and debts V2
+
+Design on hold while we prep for midpoint review
+
+**PM**
+
+- Midpoint review prep, including starting a preliminary list of QA tasks
+- Hold midpoint review by the end of the sprint if possible
+
+### Audit updates
+
+**PM**
+
+- Collab cycle kickoff
+
+**Design**
+
+- Finish use cases if they aren't done
+- Outline design updates
+- Start on design updates
+
 ## Sprint 76 (6/15 - 6/28)
 
 ## Sprint 77 (6/29 - 7/12)
