@@ -303,7 +303,7 @@ In order of importance, in case it's needed:
 
 There are *a lot* of PM tasks this sprint. The sprint is mostly PM stuff moving along each project. We should talk about how this work can be divided among AJ, Erica, and Samara (as needed).
 
-Also, I don't have any frontend priorities for Taylor right now. If there are no tickets for him in the backlog, please check in with the engineering lead to get him some work for this sprint.
+Also, I don't have any frontend priorities for Taylor right now. If there are no carryover tickets from last sprint or FE tickets in the backlog, please check in with the engineering lead to get him some work for this sprint.
 
 ### On-site notifications
 
