@@ -81,31 +81,27 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 3. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled more with finding sub-navigation within pages.
 
-4. Users 
+4. Users were confused about certain terms including "Pending" and "Blue Button".
 
-5. Almost all user
+5. Users did not find the "Pre-check in" link in the "In This Section" menu.
 
 
 # Details of Findings 
 
-**1. Users were confused about the navigation breadcrumbs, and where this prototype would live within the IA of VA.gov** 
+**1. Users were able to successfully complete many basic health-related tasks.** 
 
-Labels: DSC: Breadcrumbs, PRDT: health-care-apartment
+Labels: 
 
-Our breadcrumbs were titled My Home > My Health > [healthcare tool child page]. Seven of the eleven participants thought “My Health” would bring them back to the My Health Landing Page, which is correct. However, when asked what they thought “Home” was, the group was split, with four participants thinking it would take them to the My Health Landing Page, and another four thinking it would take them to the VA.gov home page. Two participants did not understand the navigation breadcrumb links, and one participant didn’t interact with them at all. 
+The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment. They were also able to 
 
-We hypothesized that Participants might have a tough time with the navigation given their mental model of MyHealtheVet (MHV) and VA.gov as two separate websites. This finding confirms additional planning is needed to determine where MHV tools could live within the VA.gov IA once migrated. 
+**2. Most users (10/11) logged in using the embedded sign in/create an account button.**
 
-Participants expected to get to the My Health Landing page either directly from VA.gov, or from a redirect from MHV or eBenefits. Four participants that mentioned this looked like MHV, but that it was on VA.gov based on the branding and design.Only one participant did not expect to see this on VA.gov at all. Those that did think it was MHV but on VA.gov thought they would find this page under VA Benefits and Health Care> Health Care in the main navigation.
-
-
-**2. Most users (6/11) were unsuccessful in interacting with the “Search messages” link in the Messages tool.**
-
-Labels: PRDT: On-site-search, PRDT: health-care-apartment, DSC: Action link
+Labels: 
 
 Six participants did not see or use the search messages link, and half (3) of those 6 instead expected to be able to search by clicking on the drop down menu instead of the search link. 
 
-> I’d go to the ‘show messages by’ drop down there. It’d show something like past conversations (P8, Participant)
+> At end of session, he noticed the refill all eligible Rxs. I would probably just click that. This is fewer steps and also less time trying to find the Rx I want. Would be really nice to refill all eligible. Would be great. (more accessible!)
+The less steps you have to go to - the less clicks - way easier to remember one click over four clicks, Blind person tries to memorize the steps.(P8, Participant)
 
 
 
