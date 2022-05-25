@@ -45,7 +45,7 @@ sequenceDiagram
         t-)-vet: send text (error phone not found)
     else no appointments
         c->>+t: call
-        t-)-vet: send text (error phone not found)
+        t-)-vet: send text (too few appointments)
     end
 ```
 
