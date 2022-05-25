@@ -361,6 +361,10 @@ If there is no more backend work:
 
 ## Sprint 76 (6/15 - 6/28)
 
+### PTO
+
+- Tom: 6/17 - 6/24
+
 ## Sprint 77 (6/29 - 7/12)
 
 ### PTO
