@@ -155,7 +155,13 @@ This research will be remote via Zoom.
 
 [Figma prototype](https://www.figma.com/proto/ftl8JoMu8OrGw1I8wiLCn6/Rx-Refills-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-179%2C620%2C0.34&scaling=min-zoom&starting-point-node-id=1226%3A18714)
 
-
+### Project-Specific Setup
+1. Participant's should have the Zoom application downloaded on their phone 
+   * [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
+   * [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+2. A link to the prototype
+   * [Figma prototype](https://www.figma.com/proto/ftl8JoMu8OrGw1I8wiLCn6/Rx-Refills-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-179%2C620%2C0.34&scaling=min-zoom&starting-point-node-id=1226%3A18714)
+   
 ## Recruitment 
 
 ### Recruitment Approach
