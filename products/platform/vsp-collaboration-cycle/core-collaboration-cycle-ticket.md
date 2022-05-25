@@ -152,7 +152,7 @@ Examples of **research with VA.gov users** include:
    - Click "Schedule Event"
 - [ ] Check this box if you'd like this review to be asynchronous (Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review)
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add or update all requested artifacts below at least two days before the scheduled Midpoint Review
+- [ ] Add or update all requested artifacts below **at least two days before** the scheduled Midpoint Review
   
 **Midpoint Review artifacts**
 
@@ -219,7 +219,7 @@ Examples of **research with VA.gov users** include:
    - Click "Schedule Event"
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
 - [ ] If this product contains any [experimental design](https://design.va.gov/experimental-design/), add the `experimental-design` label and schedule a meeting with DSC to present the research findings.
-- [ ] Add or update all requested artifacts below at least **four** days before the scheduled Staging Review
+- [ ] Add or update all requested artifacts below **at least four days before** the scheduled Staging Review
   
 **Staging Review artifacts**
   
