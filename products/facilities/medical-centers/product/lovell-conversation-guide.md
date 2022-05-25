@@ -1,5 +1,3 @@
-[WORK IN PROGRESS]
-
 # Conversation Guide 
 
 ## Moderator logistics
