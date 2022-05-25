@@ -90,8 +90,8 @@ Research Method:
 Includes task flows from specific starting points:
 * [Lovell VA beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/no-panels) 
 * [Lovell TRICARE beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395168/simulate/no-panels)
-* [VA location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395165/simulate/no-panels) 
-* [TRICARE location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395170/simulate/no-panels) 
+* [VA Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395164/simulate/no-panels) 
+* [TRICARE Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395169/simulate/no-panels) 
 
 ### Location
 
