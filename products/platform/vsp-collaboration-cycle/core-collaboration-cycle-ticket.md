@@ -97,7 +97,6 @@ Examples of **research with VA.gov users** include:
 #### Before meeting
   
 ##### VFS actions
-- [ ] Has Matthew Dingee review your proposed designs?
 - [ ] Schedule your Design Intent when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
