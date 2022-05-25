@@ -25,6 +25,11 @@
   - % completed
   - revisit deadline and next reminder
 
+### Recurring events
+
+  - QA complete, next step is...
+  - revisit comms approach and timing
+
 ## May 18, 2022
 
 ### Facilities COVID status update
