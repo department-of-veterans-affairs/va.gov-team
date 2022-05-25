@@ -45,7 +45,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task v.1: Switching Experiences - 5 minutes
 Participant: Dual-eligible Veterans<br>
-Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/no-panels?mode=i)
+Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395164/simulate/no-panels)
 
 - If you preferred TRICARE pharmacy and wanted to learn more about TRICARE pharmacy benefits, where would you go?
 
@@ -56,7 +56,7 @@ Start screen: [VA beneficiary Lovell Federal Health Care Center](https://preview
 
 ## First Task v.2: Switching Experiences - 5 minutes
 Participant: Veteran with VA health care<br>
-Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148531346/simulate/no-panels?mode=i)
+Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395169/simulate/no-panels)
 
 - As someone who is enrolled in VA health care, where would you go to get more information on the pharmacy at Lovell Federal Health Center?
 
@@ -67,7 +67,7 @@ Start screen: [TRICARE beneficiary Lovell Federal Health Care Center](https://pr
 
 ## Second Task v.1: Location Experience - 5 minutes
 Participant: Dual-eligible Veterans<br>
-Start screen: [VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/no-panels?mode=i)
+Start screen: [VA beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/no-panels)
 
 *Stop sharing screen.*
 Pre-question: Imagine you want to learn about a facility called the USS Red Rover. How would you use your phone or computer to get information about that location?
@@ -83,7 +83,7 @@ Pre-question: Imagine you want to learn about a facility called the USS Red Rove
 
 ## Second Task v.2: Location Experience - 5 minutes
 Participant: Veteran with VA health care<br>
-Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/no-panels?mode=i)
+Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395168/simulate/no-panels)
 
 *Stop sharing screen.*
 Pre-question: Imagine you're sitting down to your computer or laptop, what's the first thing that you would do to get to the va.gov page for the Evanston VA location?
