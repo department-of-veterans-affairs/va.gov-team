@@ -6,8 +6,8 @@ labels: collab-cycle-review, collaboration-cycle, design-intent, governance-team
 assignees: ''
 
 ---
-### NOTE:
-This template is being deprecated. If your kickoff meeting took place after May 25, 2022, You should use the [new template](https://github.com/briandeconinck/cc-test/issues/new?assignees=briandeconinck&labels=collab-cycle-review%2Ccollaboration-cycle%2Cgovernance-team&template=core-collab-cycle-yaml.yml&title=Collaboration+Cycle+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
+# NOTE
+This template is being deprecated. If your kickoff meeting took place after May 25, 2022, you should be following the guidance specified in the Collaboration Cycle Rquest per the [May 25, 2022 change history post](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1846870032.html) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
 
 # Steps to complete Design Intent Collaboration
 
