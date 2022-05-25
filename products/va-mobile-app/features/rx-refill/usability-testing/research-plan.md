@@ -81,17 +81,13 @@ This work supports the following objectives:
    </td>
    <td>Taking care of myself
    </td>
-   <td>1. Recognizing and addressing   
+   <td>
 <p>
-   mental health needs 
+1. Recognizing and addressing mental health needs 
 <p>
-2. Managing primary care and 
-<p>
-    chronic health issues 
-<p>
-3. Seeking support for an 
-<p>
-    acute health event
+2. Managing primary care and chronic health issues 
+<p> 
+3. Seeking support for an acute health event 
 <p>
 4. Maintaining my health
    </td>
@@ -99,15 +95,18 @@ This work supports the following objectives:
   <tr>
    <td>Phase 3: Retiring and Aging
    </td>
-   <td>1. Retiring
+   <td>
+<p>
+1. Retiring
 <p>
 2. Aging
    </td>
-   <td>1. Taking care of my health
+   <td>
 <p>
-2. Managing my declining  
+1. Taking care of my health
 <p>
-    health
+2. Managing my declining health  
+<p>
    </td>
   </tr>
 </table>
