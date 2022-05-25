@@ -127,7 +127,7 @@ Examples of **research with VA.gov users** include:
   - [ ] IA has completed the review
   - [ ] Research has completed the review
 - [ ] Update this ticket with the Zoom recording
-  - Recording: 
+  - Recording URL: 
   - Password: 
   
 ##### VFS actions
@@ -194,7 +194,7 @@ Examples of **research with VA.gov users** include:
   - [ ] Content has completed the review
   - [ ] QA has completed the review
 - [ ] Update this ticket with the Zoom recording
-  - Recording: 
+  - Recording URL: 
   - Password:
   
 ##### VFS actions
@@ -263,7 +263,7 @@ Examples of **research with VA.gov users** include:
 ##### Platform actions
 
 - [ ] Update this ticket with the Zoom recording
-  - Recording: 
+  - Recording URL: 
   - Password:
   
 ##### VFS actions
