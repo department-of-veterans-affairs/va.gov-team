@@ -152,7 +152,7 @@ The goal is for 2 sessions per day, with at least 15 minutes between sessions.
 
 ### Availability
 
-Monday, June 6: 9:00am ET - 12:00pm ET<br>
+Monday, June 6: 1:00pm ET - 6:00pm ET<br>
 Tuesday, June 7: 3:00pm ET - 7:00pm ET<br>
 Wednesday, June 8: 9:00am ET - 12:00pm ET<br>
 Thursday, June 9: 2:00pm ET - 6:00pm ET<br>
