@@ -1,4 +1,4 @@
-# Research Plan for Facilities, Lovell Federal Testing, June 2022
+# Research Plan for Lovell Federal Experience Testing, June 2022
 
 ## Background
 The Lovell Federal Facility services both VA beneficiaries as well as DoD/TRICARE beneficiaries.
