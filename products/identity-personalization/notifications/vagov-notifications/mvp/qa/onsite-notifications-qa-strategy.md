@@ -36,7 +36,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 ## Timeline (tentative)
 
 ### 5/16 - 5/20
-1. ~Tom (My VA) completes work to update tokens for vets-API (tentative)~
+[ ] ~Tom (My VA) completes work to update tokens for vets-API (tentative)~
 
 ### 5/23 - 5/27
 1. Tom (My VA) completes work to update tokens for vets-API (tentative)
