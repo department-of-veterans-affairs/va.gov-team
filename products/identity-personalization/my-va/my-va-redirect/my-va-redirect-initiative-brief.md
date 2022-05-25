@@ -1,7 +1,7 @@
 # My VA Redirect Initiative Brief
 Last updated: 5/20/2022
 
-Table of Contents
+### Table of Contents
 - [Outcome Summary](#outcome-summary)
 - [Problem](#problem)
 - [Measuring Success](#measuring-success)
