@@ -187,7 +187,7 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 
-- [ ] If you have [midpoint review feedback](https://vfs.atlassian.net/wiki/spaces/PPS/pages/1945239838/How+to+provide+feedback+for+a+Midpoint+Review), create feedback ticket and link to this epic. Once you have completed your review, check the box next to your practice area
+- [ ] If you have midpoint review feedback, create feedback ticket and link to this epic. Once you have completed your review, check the box next to your practice area
   - [ ] Design has completed the review
   - [ ] Accessibility has completed the review
   - [ ] IA has completed the review
