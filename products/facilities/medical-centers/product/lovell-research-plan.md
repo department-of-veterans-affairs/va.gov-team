@@ -90,10 +90,10 @@ Research Method:
 * Not testing on mobile because the VAMC pages have already been tested on mobile.
 
 Includes task flows from specific starting points:
-* [Lovell VA beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i) 
-* [Lovell TRICARE beneficiary system page](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524850/simulate/sitemap?mode=i)
-* [VA location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148538622/simulate/sitemap?mode=i) 
-* [TRICARE location](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148541087/simulate/sitemap?mode=i) 
+* [Lovell VA beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/no-panels) 
+* [Lovell TRICARE beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395168/simulate/no-panels)
+* [VA location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395165/simulate/no-panels) 
+* [TRICARE location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395170/simulate/no-panels) 
 
 ### Location
 
@@ -102,8 +102,8 @@ Research sessions will be held remotely using Zoom, and will be recorded.
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148524996/simulate/sitemap?mode=i)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell-conversation-guide.md)
+- [Link to prototype](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/sitemap)
 	
 ## Recruitment	
 
@@ -145,7 +145,7 @@ Please indicate the date and name of a mock participant for a pilot session. (Pe
 
 ### Research sessions
 
-Monday, May 23rd,2022 - Friday, May 27th, 2022
+Monday, June 6, 2022 - Friday, June 10, 2022
 
 ### Length of sessions
 
@@ -154,16 +154,16 @@ The goal is for 2 sessions per day, with at least 15 minutes between sessions.
 
 ### Availability
 
-Monday, May 23rd: 9:00am ET - 12:00pm ET<br>
-Tuesday, May 24th: 3:00pm ET - 7:00pm ET<br>
-Wednesday, May 25th: 9:00am ET - 12:00pm ET<br>
-Thursday, May 26th: 2:00pm ET - 6:00pm ET<br>
-Friday, May 27th: 10:00am ET - 1:00pm ET<br>
+Monday, June 6: 9:00am ET - 12:00pm ET<br>
+Tuesday, June 7: 3:00pm ET - 7:00pm ET<br>
+Wednesday, June 8: 9:00am ET - 12:00pm ET<br>
+Thursday, June 9: 2:00pm ET - 6:00pm ET<br>
+Friday, June 10: 10:00am ET - 1:00pm ET<br>
 	
 ## Team Roles	
 
 Moderator: Val Runde<br>
-Research guide writing and task development (usually but not always same as moderator): Val Runde<br>
+Research guide writing and task development: Val Runde<br>
 Participant recruiting & screening: Perigean<br>
 Project point of contact: Val Runde<br>
 Participant(s) for pilot test: Perigean<br>
