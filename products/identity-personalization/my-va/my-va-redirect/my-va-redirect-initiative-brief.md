@@ -114,15 +114,18 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 ## Discovery
 ### Assumptions/Risks
-
+  - Value Risk: will people use it?
+  - Usability Risk: can people figure out how to use it
+  - Technical/Feasibility Risks: can we build it with available tech/data?
+  - Organizational Viability Risks/Constraints: will there be a positive organizational impact?
 
 | Risk Category | Risk | How will we validate/test/prep against this risk? | Comments |
 |--------|--------|---------|---------|
-| Value Risk (will people use it) | Will we be able to tell tell if people are using it/like the redirect? | Ensure Medallia is in place, functioning properly to capture feedback | |
-| Usability Risks (can people figure out how to use it)| What will the nature of redirect be? How to do it in the least jarring way, and track that experience appropriately? |    |
-|(Technical) Feasibility Risks (can we build it with available tech/data)| Can My VA handle traffic is the personalized logged in homepage? |  | |
-|(Technical) Feasibility Risks (can we build it with available tech/data)| What is the nature of the redirect? |  | |
-| Organizational Viability Risks/Constraints (will there be a positive organizational impact?)| Who do we need to get support/champions for us, who is going to be opposed? |   | |
+| Value Risk | Will we be able to tell tell if people are using it/like the redirect? | Ensure Medallia is in place, functioning properly to capture feedback | |
+| Usability Risk| What will the nature of redirect be? How to do it in the least jarring way, and track that experience appropriately? | Consider naming of page to make it clear to users; consider adding a loading image with message "loading your personalized experience", consider adding a prominent button/link to return to the current logged in home page, conduct generative research post-launch of redirect to get feedback |
+|(Technical) Feasibility Risk| Can My VA handle traffic is the personalized logged in homepage? |  | |
+|(Technical) Feasibility Risk| What is the nature of the redirect? |  | |
+| Organizational Viability Risk/Constraint| Who do we need to get support/champions for us, who is going to be opposed? |   | |
 
 
 ### Solution Summary
