@@ -250,7 +250,7 @@ Examples of **research with VA.gov users** include:
   
 ##### Platform actions
 - [ ] Follow Moderator Responsibilities guidance for Staging Review
-- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
+- [ ] Create feedback tickets and link to this epic
   - [ ] Design feedback provided
   - [ ] Accessibility feedback provided
   - [ ] IA feedback provided
@@ -268,8 +268,8 @@ Examples of **research with VA.gov users** include:
 ##### VFS actions
   
 - [ ] Respond to feedback tickets
-- [ ] Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment on this ticket.
-- [ ] Update Staging Review ticket with the product’s launch date after it has gone live
+- [ ] Close individual feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment on the issue ticket.
+- [ ] Update the VFS product information section with the product’s launch date and production URL after it has gone live
 
 </details>
 
