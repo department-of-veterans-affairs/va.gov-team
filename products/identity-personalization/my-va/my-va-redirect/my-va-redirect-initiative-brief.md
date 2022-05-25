@@ -114,10 +114,15 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 ## Discovery
 ### Assumptions/Risks
+  #### Risk types
+  <details>
+  <summary>Click to expand</summary>
+  
   - Value Risk: will people use it?
   - Usability Risk: can people figure out how to use it
   - Technical/Feasibility Risks: can we build it with available tech/data?
   - Organizational Viability Risks/Constraints: will there be a positive organizational impact?
+  </details>
 
 | Risk Category | Risk | How will we validate/test/prep against this risk? | Comments |
 |--------|--------|---------|---------|
