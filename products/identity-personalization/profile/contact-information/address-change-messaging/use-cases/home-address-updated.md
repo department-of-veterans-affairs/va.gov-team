@@ -6,7 +6,7 @@ If a user updates their Home address and it does not their Mailing address, they
 
 For more on this, please read the [initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/initiative-brief.md).
 
-View the [discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/documentation.md) and design documentation (link).
+View the [discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/documentation.md) and [design FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/frontend/fe-documentation.md).
 
 ## UX
 - Uses the [address change modal](https://design.va.gov/components/alert#warning-alert) from the VA design system
