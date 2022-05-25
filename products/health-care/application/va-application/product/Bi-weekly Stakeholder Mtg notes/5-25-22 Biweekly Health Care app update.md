@@ -10,13 +10,10 @@
      - Heather to send email reminder to Tarsha & Christopher on this
 
 ### HEC Team - Agenda Items
-- Kim Bostic - new supervisor, 
-- Jessica Soza - New to the team, 
-- Lindsey Peace - Works on paper version, transferring duties to Jessica Soza
-
-- I am preparing for a leadership briefing and wanted to know, how do I save the screenshots on the VA Form 10-10EZ mural page? : [10-10EZ screenshot flow](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.mural.co%2Ft%2Fadhoccorporateworkspace2583%2Fm%2Fadhoccorporateworkspace2583%2F1632923531828%2F474bfdde942c22a0df26ad416a0b23e36b834d4a%3Fsender%3Du6ad375c1c8425e5bfec67027&data=04%7C01%7C%7Caf25b8f042cd467237ae08d997bd1b4d%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C637707660726820620%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=dk%2FIz5eg5ozGaZa4P0caP7sBN%2B4J2KCRK8vIqIWuJWk%3D&reserved=0)
-
-Also these are the questions I will need to discuss at today’s meeting.  It will basically be like an update.  I have to brief upper Member Services leadership on the project timeline and progression.
+- INTROS
+     - Kim Bostic: new supervisor, 
+     - Jessica Soza: New to the team, 
+     - Lindsey Peace: Works on paper version, transferring duties to Jessica Soza
 
 - DEFINITIONS
      - Definitions are needed to clarify which path can be taken - Enrollment or Registration
@@ -57,8 +54,9 @@ Also these are the questions I will need to discuss at today’s meeting.  It wi
           - Confirmed we are ready for this to deliver in August
      - After August release, we should compare paper and online form to make sure we are collecting the same info
 
+---
 
-### Action Items
+## Action Items
 - **Medicare Claim Number**
      - Lindsey & team will confirm whether this field is needed on the paper form
      - 10-10 Team to hold on further work until feedback is received
