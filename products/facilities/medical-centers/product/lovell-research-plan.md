@@ -118,7 +118,7 @@ Using Perigean recruiting, we would like to schedule 20 participants to reach ou
 * Laptop or desktop computer only
   * For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task, so we are limited participants to laptop or desktop computers only.
 * Be able to screenshare via Zoom
-* Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing
+  * Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing
 * At least 2 participants under 35 years old
 * At least 2 participants over 55 years old
 * At least 2 participant with cognitive disabilities
