@@ -23,7 +23,7 @@ We have since removed date validation so that applications can be submitted.  We
 - Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data. - NOT NEEDED (discussed during grooming 5/25)
 - Do not display dob on static page if profile dob does not have a value - TICKET NEEDED
      - Display date of birth page for user to input
-- Display a message on static page if profile veteran name does not have a value, like "we are experiencing issue please try again later." 
+- Display a message on static page if profile veteran name does not have a value, like "we are experiencing issue please try again later."  - NOT NEEDED (discussed during grooming 5/25)
      - Dene to assist with message
      - We will not stop the applicant from moving past the page or submitting the application
 - Remove validations with dob, provide message on page instead, for the following:
