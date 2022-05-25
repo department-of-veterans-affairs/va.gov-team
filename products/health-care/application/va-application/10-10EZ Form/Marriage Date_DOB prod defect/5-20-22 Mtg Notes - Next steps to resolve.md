@@ -19,9 +19,9 @@ We have since removed date validation so that applications can be submitted.  We
 ### Steps we will take to work toward resolving the defect
 - Change source of condition, to show authenticated user static page, to currentlyLoggedin instead of hasSession - [ticket #41339](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/41339)
 - Change source of condition, to show unauthenticated name, dob & ssn pages, to currentlyLoggedin instead of hasSession - Same [ticket #41339](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/41339)
-- Change source of data, on authenticated static page, to user profile data instead of prefill data.
-- Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data.
-- Do not display dob on static page if profile dob does not have a value
+- Change source of data, on authenticated static page, to user profile data instead of prefill data. - LISA WILL WORK ON THIS
+- Change authenticated static page to show name and dob, and not show ssn, ssn is not included in user profile data. - NOT NEEDED (discussed during grooming 5/25)
+- Do not display dob on static page if profile dob does not have a value - TICKET NEEDED
      - Display date of birth page for user to input
 - Display a message on static page if profile veteran name does not have a value, like "we are experiencing issue please try again later." 
      - Dene to assist with message
