@@ -102,9 +102,9 @@ Examples of **research with VA.gov users** include:
    - Select a date and time and click “Confirm”
    - Add your name and email
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
-   - Click Schedule Event
+   - Click "Schedule Event"
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add all requested artifacts below at least two days before the scheduled Design Intent
+- [ ] Add all requested artifacts below **at least two days before** the scheduled Design Intent
   
 **Design Intent artifacts**
 
