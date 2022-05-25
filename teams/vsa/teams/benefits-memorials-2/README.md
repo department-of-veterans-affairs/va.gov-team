@@ -8,6 +8,7 @@
 - [**Transition Documentation**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md): to outline the current state of Debt Resolution product development
 - [**Product Intro**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md): Introduction to All Products
 - [**Sprint Objectives:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/sprint-objectives.md) Summary of the current goals and tasks
+- [**Roadmap:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/roadmap.md) _'Near term'_ product focus areas
 
 
 
