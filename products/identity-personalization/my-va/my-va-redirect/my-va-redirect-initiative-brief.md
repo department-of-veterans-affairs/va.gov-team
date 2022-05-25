@@ -1,7 +1,7 @@
 # My VA Redirect Initiative Brief
----
 Last updated: 5/20/2022
 
+Table of Contents
 - [Outcome Summary](#outcome-summary)
 - [Problem](#problem)
 - [Measuring Success](#measuring-success)
@@ -9,6 +9,7 @@ Last updated: 5/20/2022
 - [Launch Planning](#launch-planning)
 - [Screenshots](#screenshots)
 
+---
 ## Outcome Summary
 Evaluate how My VA performs as a personalized logged in homepage via redirect. This is not an initiative to replace the existing logged in homepage. Veterans would be redirected to My VA upon logging in from the VA.gov homepage in order to provide them a more immediate personalized experience.
 
