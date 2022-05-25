@@ -17,7 +17,12 @@ View the [discovery documentation](https://github.com/department-of-veterans-aff
 
 ## Codes
 
+No specific API codes are used in reference to this feature. The main logic for displaying the address change messaging is based on comparing the home and mailing address data to display the dialog modal if the addresses differ.
+
+Within the modal dialog flow, the same API calls and error handing from standard address updates are used.
 
 ## Staging users
 
+Any staging test user with a mailing address can be used to test this feature.
 
+During active development **vets.gov.user+36@gmail.com** was the main user that was used.
