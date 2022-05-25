@@ -12,6 +12,7 @@ View the [discovery documentation](https://github.com/department-of-veterans-aff
 - Uses the [modal](link) from the VA design system
 - Review the [mock-ups available in Sketch](link) for a visual.
 - Address change modal is applied to the Home address only
+- The prompt will either appear after address validation has run and the user has confirmed the address via a suggested address OR after validation has run and no address suggestions were provided/needed. 
 - Review the [user flow mockup in Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1648492872357/ccc5ced279f2062e7336460965ddc8681e6e9722?sender=u28f508d646c449cc1afe4873)
 
 ## Codes
