@@ -36,12 +36,12 @@ Testing Onsite Notifications will involve coordination across three groups (that
 ## Timeline (tentative)
 
 ### 5/16 - 5/20
-[ ] ~Tom (My VA) completes work to update tokens for vets-API (tentative)~
+ - [ ] ~Tom (My VA) completes work to update tokens for vets-API (tentative)~
 
 ### 5/23 - 5/27
-1. Tom (My VA) completes work to update tokens for vets-API (tentative)
-2. VA Notify completes work and connectivity testing with My VA's API. 
-3. Taylor (My VA) complets FE work 
+- [ ] Tom (My VA) completes work to update tokens for vets-API (tentative)
+- [ ] VA Notify completes work and connectivity testing with My VA's API. 
+- [ ] Taylor (My VA) complets FE work 
 
 ### 5/30 - 6/3
 1. My VA, VA Notify and DMC folks meet to coordinate test plan which should be scheduled to take place week 6/8 - 6/21
