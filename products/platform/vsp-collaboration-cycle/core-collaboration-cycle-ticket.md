@@ -114,7 +114,7 @@ Examples of **research with VA.gov users** include:
 - [ ] Any other artifacts you have so far
   
 ##### Platform actions
-- [ ] Add Platform reviewers to the scheduled Design Intent meeting
+- [ ] Follow Moderator Responsibilities guidance for Design Intent
 - [ ] Meeting date/time:
   
 #### After meeting
@@ -181,7 +181,7 @@ Examples of **research with VA.gov users** include:
 - Link to test cases/test plan in TestRail (draft OK): 
   
 ##### Platform actions
-- [ ] Add Platform reviewers to the scheduled Midpoint Review meeting
+- [ ] Follow Moderator Responsibilities guidance for Midpoint Review
 
 #### After meeting
   
@@ -250,7 +250,7 @@ Examples of **research with VA.gov users** include:
 - List of known issues with links to tickets (when applicable)
   
 ##### Platform actions
-- [ ] Add Platform reviewers to the scheduled Staging Review meeting
+- [ ] Follow Moderator Responsibilities guidance for Staging Review
 - [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
   - [ ] Design feedback provided
   - [ ] Accessibility feedback provided
