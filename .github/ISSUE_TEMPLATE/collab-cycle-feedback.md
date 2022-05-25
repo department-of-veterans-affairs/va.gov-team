@@ -32,7 +32,6 @@ assignees: ''
 ## Platform directions
 - Update "Issue Title"
 - Link to collab cycle Request epic
-- Add to the Feedback pipeline on the Collaboration Cycle Reviews board
 - Add your feedback
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
