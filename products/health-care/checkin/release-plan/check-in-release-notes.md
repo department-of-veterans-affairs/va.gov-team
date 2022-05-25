@@ -15,7 +15,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 05/25/2022
-- Veterans will see more detailed informational messages in these scenarios
+- Veterans will see more detailed informational messages in these scenarios ([detailed release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/update-messaging.md))
     - When they complete Pre-Check-in but indicate their contact, emergency contact and/or next of kin information is out of date
     - When they attempt to complete Pre-Check-in for an appointment for which they already completed pre-check-in
     - When they are unable to complete Pre-Check-in, they will see information explaining the purpose for Pre-Check-in
@@ -23,9 +23,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
     - When they attempt to complete Pre-Check-in on the day of their appointment prior to 15 minutes after their appointment time
     - When they attempt to complete Pre-Check-in on the day of their appointment more than 15 after their appointment time
     - When an unexpected error occurs during Pre-Check-in
-    - [Epic 38136](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38136) 
-    - [Epic 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270) 
-    - More detailed release notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/update-messaging.md)
+    - [Epic 38136](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38136) & [Epic 39270](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39270)  
 
 ### 05/19/2022
 - Fix to auto-refresh the appointment list page when a check-in window is about to expire, to prevent people from trying to check in after they're able to and seeing an error. It also fixes the missing refresh when going back to the appointment list from the check-in confirmation page and adds various tests.
