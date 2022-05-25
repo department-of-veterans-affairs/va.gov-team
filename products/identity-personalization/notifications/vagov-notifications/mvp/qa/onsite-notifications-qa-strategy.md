@@ -9,6 +9,8 @@ Testing Onsite Notifications will involve coordination across three groups (that
 | Samara Strauss| Auth Exp | PO |
 | Anastasia Jakabcin (AJ)| Auth Exp - My VA | PM|
 |Erica Sauve | Auth Exp - My VA | APM|
+| Taylor Mitchell | Auth Exp - My VA | FE|
+| Tom Harrison | Auth Exp - My VA | BE|
 |Tze-chiu Lei | Shared Support PTEMS | QA |
 | Beverly Nelson | VA Notify | PO |
 | Melanie Jones | VA Notify | PM |
