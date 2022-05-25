@@ -14,7 +14,7 @@ Sketch Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1d
 
 ## Primary Modal: Updated home address
 
-- Appears after editing Home address and selecting Update. 
+- After editing Home address and selecting Update, the prompt will either appear after address validation has run and the user has confirmed the address via a suggested address OR after validation has run and no address suggestions were provided/needed. 
 
 **User has mailing address:**
 
