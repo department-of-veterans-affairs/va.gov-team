@@ -27,7 +27,6 @@ Testing Onsite Notifications will involve coordination across three groups (that
 
 
 ## Technical/Functional questions:
-## Initial planning/strategy questions:
 
 | Question | Answer |
 |------|-------|
