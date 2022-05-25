@@ -29,7 +29,7 @@ We have since removed date validation so that applications can be submitted.  We
      - We will not stop the applicant from moving past the page or submitting the application
 - Remove validations with dob, provide message on page instead, for the following: **NEED TICKETS**
      - validateServiceDates - **WE WILL NOT TOUCH THIS VALIDATION**
-     - validateMarriageDate - **DENE & LISA WILL WORK ON THIS**
+     - validateMarriageDate - **DENE' & LISA WILL WORK ON THIS**
 - Make changes on backend to support the above. - **CHANGES ALREADY MADE**
 - Confirm users are not experiencing issues around submitting as a result of veteran name, dob and ssn. -**NO TICKET NEEDED AT THIS TIME (continue to monitor for errors)**
 - Close Error on 1010EZ: Marriage Date and Spouse DOB [#40039](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/40039) - **THIS IS DONE**
