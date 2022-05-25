@@ -279,7 +279,8 @@ Examples of **research with VA.gov users** include:
   <summary>Toggle Sitewide Content and IA Intake Request</summary>
 
 ##### VFS actions
-- [ ] Placeholder task
+- [ ] Complete the [sitewide content and IA intake request process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Sitewide-Content-and-IA-intake-request.2124906551.html)
+- [ ] Link to the Sitewide Content and IA Intake Request ticket below
 
 </details>
 
@@ -287,7 +288,7 @@ Examples of **research with VA.gov users** include:
 <details>
   <summary>Toggle Research Plan Review</summary>
 
-#### VFS Actions
+#### VFS actions
 - [ ] Complete the [research plan review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html)
 
 </details>
@@ -296,11 +297,9 @@ Examples of **research with VA.gov users** include:
 <details>
   <summary>Toggle Analytics Request</summary>
 
-#### VFS Actions
+#### VFS actions
 - [ ] Complete the [analytics request process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html)
 - [ ] Link to the Analytics Implementation and QA Request ticket below
-
-[Analytics implementation and QA request ticket](#)
 
 </details>
   
@@ -308,23 +307,21 @@ Examples of **research with VA.gov users** include:
 <details>
   <summary>Toggle Contact Center Review</summary>
 
-#### VFS Actions
+#### VFS actions
 - [ ] Complete the [Contact Center review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html)
 - [ ] Link to the Contact Center review request ticket below
 
-  
-[Contact Center review request ticket](#)
-
 </details>
 
-### Privacy and Security Review
+### Privacy, Security, Infrastructure Readiness Review
 <details>
-  <summary>Toggle Privacy and Security Review</summary>
+  <summary>Toggle Privacy, Security, Infrastructure Readiness Review</summary>
   
-#### VFS Actions
+#### VFS actions
 - [ ] Complete the [Privacy, security, infrastructure readiness review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
 - [ ] Link to the Readiness Review ticket below
 
-[Readiness review ticket](#)
+#### Platform actions
+- [ ] Privacy, security, infrastructure readiness review is complete
 
 </details>
