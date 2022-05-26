@@ -22,5 +22,6 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
  
  
  
- ### Phase III - Evaluative Research ###
+ ### Phase III - Implementation & Evaluative Research ###
+- [High fidelity design for navigation model]
 - [Research folder]
