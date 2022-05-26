@@ -59,7 +59,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - Research: Cindy Merrill (Ad Hoc)
 
 ## Stakeholders
-- Web Governance Board - comprised of comprises key communication representatives from VA organizations, including
+- [Web Governance Board](https://www.va.gov/web/index.cfm), which is comprised of key communication representatives from VA organizations, including
   - Office of Public and Intergovernmental Affairs
   - Office of Information and Technology
   - Veterans Benefits Administration
