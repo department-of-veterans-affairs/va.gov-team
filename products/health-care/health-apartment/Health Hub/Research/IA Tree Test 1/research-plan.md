@@ -45,7 +45,7 @@ We want to understand how Veterans might navigate between tasks in ‘get benefi
 
 ### Outcome
 
-To understand (and build consensus) how to best organize the UX for ‘get benefits’ and ‘manage benefits’ on VA.gov. We’ll use the information architecture insights from this research to build and test prototypes of a future Health Hub. 
+To understand (and build consensus) how to best organize the UX for ‘get benefits’ and ‘manage benefits,’ specifically for health care, on VA.gov. We’ll use the information architecture insights from this research to build and test prototypes of a future Health Hub. 
 
 
 ### Research questions
