@@ -55,11 +55,11 @@ We'll use the findings from this research to update our alert content and inform
 Method
 ------
 
-We'll conduct remote usability testing over Zoom using a prototype on production. Testing on production allows us to use a code-based prototype and be more inclusive with our recruiting approach. We will pause the recording once we have users log in to avoid capturing PII.
+We'll conduct remote usability testing over Zoom using a prototype on production or in CodePen. This allows us to use a code-based prototype and be more inclusive with our recruiting approach. If testing on production, we will pause the recording as users log in.
 
 ### Research materials
 
--   Link to conversation guide
+-   Link to [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/conversation-guide.md)
 
 Recruitment
 -----------
@@ -92,7 +92,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 -   8 women, 8 men
 
 ##### Inclusion
--   4 participants who use assistive technology (e.g. screen reader, magnification) - including 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition). 
+-   4 participants who use assistive technology (e.g. screen reader, magnification) - including 3 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition). 
 -   10 participants who identify as other than white
 -   5 participants who identify as other than straight/heterosexual and cisgender / part of the LGBTQ community
 -   8 participants age 55+
@@ -119,7 +119,7 @@ Timeline
 
 When will the thing you are testing be finalized?
 
-TBD
+-   TBD
 
 Please indicate the date and name of a mock participant for a pilot session.
 
