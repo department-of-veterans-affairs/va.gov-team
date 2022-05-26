@@ -95,7 +95,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usabiility research session? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
