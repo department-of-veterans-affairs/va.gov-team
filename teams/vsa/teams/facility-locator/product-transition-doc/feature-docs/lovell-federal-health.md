@@ -47,7 +47,7 @@ Veteran research should be conducted using the new design with a group of dual e
 Include notes about which Platform process was in use when this feature was in design and development.
 
 - [January 2022 Design intent #34483](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34483)
-- [March 2022 Design intent #38196](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38196) _requested to discuss additional input regarding dual eligibles and need to sitch between VA and Tricare experiences_
+- [March 2022 Design intent #38196](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38196) _requested to discuss additional input regarding dual eligibles and need to switch between VA and Tricare experiences_
 - [IA review #38735](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37835)
 
 ## Other feature documentation
