@@ -74,11 +74,13 @@ Thank you for sharing that. It helps me understand your experience across a rang
 
 ### Task
 
-* In terms of managing your prescriptions, do you think about or organize them in any way? Ones you’re currently taking? Ones that need to be refilled soon? Ones that need to be renewed soon?
+* Take me through how you manage your prescriptions. Do you use digital services? How do you use them? If you don't use digital services, how do you manage them?
 
 ### Things to watch for
 
 * Do they group prescriptions in a certain way? Why or why not?
+* How are they using digital services to manage their prescriptions?
+* Do they have system for how they manange their prescriptions?
 
 ## Pharmacy Landing Screen - 5 minutes
 
