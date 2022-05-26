@@ -1,0 +1,144 @@
+name: "Collaboration Cycle Request"
+description: "Begin engaging with the Collaboration Cycle."
+title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
+labels: ["collab-cycle-review", "collaboration-cycle", "governance-team", "CC-Request"]
+assignees:
+  - briandeconinck 
+body:
+  - type: markdown
+    attributes:
+      value: "# Collaboration Cycle"
+  - type: markdown
+    attributes:
+      value: |
+        The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) is where teams who are building products on VA.gov get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Teams engage with the Collaboration Cycle throughout their product’s/feature's lifecycle.
+  - type: markdown
+    attributes:
+      value: |
+        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html).)
+  - type: markdown
+    attributes:
+      value: |
+        **Fields marked with an asterisk (*) are required.**
+  - type: markdown
+    attributes:
+      value: "## VFS product information"
+  - type: input
+    id: product-team
+    attributes:
+      label: VFS team name
+      description: 
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: product-name
+    attributes:
+      label: Product name
+    validations:
+      required: true
+  - type: input
+    id: feature-name
+    attributes:
+      label: Feature name
+    validations:
+      required: true
+  - type: input
+    id: product-label
+    attributes:
+      label: GitHub label for product
+      description: Enter a label from the va.gov-team repo.
+    validations:
+      required: true
+  - type: input
+    id: feature-label
+    attributes:
+      label: GitHub label for feature
+      description: Enter a label from the va.gov-team repo, if applicable.
+    validations:
+      required: false
+  - type: input
+    id: start-date
+    attributes:
+      label: When did/will you start working on this product/feature?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Kickoff questions"
+  - type: markdown
+    attributes:
+      value: |
+        Please refer to the guidance in [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
+  - type: dropdown
+    id: visible-changes
+    attributes:
+      label: Will your work result in visible changes to the user experience?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
+    id: user-research
+    attributes:
+      label: Are you doing research with VA.gov users?
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+    validations:
+      required: true
+  - type: dropdown
+    id: changes-to
+    attributes:
+      label: Will your work involve changes to...
+      description: For tools and applications, take into account if any static page entry points will need updates. For information and examples of Static vs Dynamic pages, review the [Static vs Dynamic guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/static-and-non-static-page-documentation.md).
+      options:
+        - "Tools and applications"
+        - "Static pages"
+        - "Both"
+        - "Other"
+    validations:
+      required: true
+  - type: dropdown
+    id: analytics-domo
+    attributes:
+      label: Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+    validations:
+      required: true
+  - type: dropdown
+    id: other-analytics
+    attributes:
+      label: Do you need to capture any additional analytics or metrics?
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Artifacts"
+  - type: input
+    id: product-outline
+    attributes:
+      label: Product outline
+      description: Please enter a URL for your product outline. See the [product outline template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Next steps"
+  - type: checkboxes
+    id: notify-slack
+    attributes:
+      label: Notify the Collaboration Cycle team of this ticket in the `#vfs-platform-support` Slack channel.
+      description: See ["Getting help from the Platform in Slack"](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
+      options:
+        - label: I acknowledge that I must notify \#vfs-platform-support after submitting this issue.
+          required: true
