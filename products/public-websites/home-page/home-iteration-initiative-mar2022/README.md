@@ -30,6 +30,7 @@ In the nearly three years since the site's launch, the range of VA benefits and 
 The VA.gov homepage needs to effectively bridge users to the personalized logged-in experience and act as a vital guidepost to a growing selection of new information and benefit services while managing stakeholders competing for valuable real estate on the homepage. 
 
 ## Product artifacts
+- [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) | Written by Ryan Thurlwell and Jeff Barnes | November 2021
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/initiative-brief.md) 
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/baseline-event-data.md)
@@ -59,7 +60,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - Research: Cindy Merrill (Ad Hoc)
 
 ## Stakeholders
-- [Web Governance Board](https://www.va.gov/web/index.cfm), which is comprised of key communication representatives from VA organizations, including
+- The [VA.gov Web Governance Board](https://www.va.gov/web/index.cfm) oversees changes made to the public va.gov homepage and is comprised of key communication representatives from VA organizations, including
   - Office of Public and Intergovernmental Affairs
   - Office of Information and Technology
   - Veterans Benefits Administration
@@ -76,3 +77,4 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
   - Office of Management
   - Office of Operations, Security, and Preparedness
   - Veterans Experience Office
+- Charles Worthington - as it pertains to modifications to the VA digital strategy and VA.gov roadmap
