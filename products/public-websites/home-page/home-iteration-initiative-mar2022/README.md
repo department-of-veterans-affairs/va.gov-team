@@ -59,4 +59,20 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - Research: Cindy Merrill (Ad Hoc)
 
 ## Stakeholders
-- Web governance board
+- Web Governance Board - comprised of comprises key communication representatives from VA organizations, including
+  - Office of Public and Intergovernmental Affairs
+  - Office of Information and Technology
+  - Veterans Benefits Administration
+  - Veterans Health Administration
+  - National Cemetery Administration
+  - Office of the Secretary
+  - Office of the Executive Secretary
+  - Board of Veterans Appeals
+  - Office of Acquisition, Logistics, and Construction
+  - Office of Congressional and Legislative Affairs
+  - Office of Enterprise Integration
+  - Office of General Counsel
+  - Office of Human Resource Administration
+  - Office of Management
+  - Office of Operations, Security, and Preparedness
+  - Veterans Experience Office
