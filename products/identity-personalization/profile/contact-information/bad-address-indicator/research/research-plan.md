@@ -139,7 +139,12 @@ What dates do you plan to do research?
 
 ### Availability
 
-
+| Date       | Times (Eastern) |
+| ---------- | --------------- |
+| ?/??/2022 | 10am - 8pm |	
+| ?/??/2022 | 10am - 8pm |
+| ?/??/2022 | 10am - 8pm |
+| ?/??/2022 | 10am - 8pm |
 
 Team Roles
 ----------
