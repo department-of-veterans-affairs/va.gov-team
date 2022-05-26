@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 # NOTE
-This template is being deprecated. If your kickoff meeting took place after May 25, 2022, you should be following the guidance specified in the Collaboration Cycle Rquest per the [May 25, 2022 change history post](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1846870032.html) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
+This template is being deprecated. If your kickoff meeting took place after May 26, 2022, you should be following the guidance specified in the Collaboration Cycle Rquest per the [May 26, 2022 change history post](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1846870032.html) instead. If you are unsure if this applies to you, please reach out to the Governance Team on the vfs-platform-support Slack channel.
 
 # Steps to complete Design Intent Collaboration
 
