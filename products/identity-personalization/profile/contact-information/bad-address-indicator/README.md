@@ -89,9 +89,25 @@ We are also working on UI updates to VA.gov to show an alert in the VA.gov profi
 
 ## Measuring success
 
-#### Objective #1: Reduce returned mail at the VA
+Our main objective is to reduce the amount of mail returned to the VA. However, we don't have access to metrics on returned mail, so we can use the bad address indicator and number of address updates as proxies and assume if fewer people have the bad address indicator and more people are updating their addresses, less mail will be returned to the VA. 
 
-Note: We will not have access to metrics on returned mail.
+### Metrics to track once the initial email blast goes out to 10K people
+
+#### Objective: Reduce number of people with the bad address indicator
+
+**Key Result #1** -- Establish baseline metric for what % of 10K people receiving this email update their mailing address (we will determine this by seeing how many of them have the bad address indicator removed).
+
+|KPI/metric|Baseline|Post-launch #1| Post-launch #2|
+|----------|-------------|---------------|-------------------|
+|Number of addresses with the bad address indicator| ?|?|?|
+
+**Key Result #2** -- Establish baseline metric for what % increase we should see in terms of address updates in VA.gov.
+
+|KPI/metric|Baseline|Post-launch #1| Post-launch #2|
+|----------|-------------|---------------|-------------------|
+|Number of mailing address updates|?|?|?|
+
+### Metrics to track once the initial email blast goes to 100%
 
 **Key Result #1** -- Decrease the number of users in VA Profile who have addresses that are marked as bad by 25%.
 
@@ -99,11 +115,13 @@ Note: We will not have access to metrics on returned mail.
 |----------|-------------|---------------|-------------------|
 |Number of addresses with the bad address indicator| ?|?|?|
 
-**Key Result #2** -- Increase the number of mailing addresses updated per week by 25% from baseline for four weeks in a row.
+**Key Result #2** -- Increase the number of mailing addresses updated per week by 25% from baseline.
 
 |KPI/metric|Baseline|Post-launch #1| Post-launch #2|
 |----------|-------------|---------------|-------------------|
 |Number of mailing address updates|?|?|?|
+
+### Metrics to track once the UI updates go out
 
 ## Design
 
