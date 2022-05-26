@@ -1,7 +1,9 @@
 ---
+
 name: Console Services Issue 
 about: For VA.gov Platform Console Services Team
-labels: Console-Services
+labels: console-services
+
 ---
 
 ## Description
