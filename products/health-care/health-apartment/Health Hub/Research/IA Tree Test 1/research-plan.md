@@ -69,13 +69,14 @@ We’re testing two competing hypotheses:
 
 * Hypothesis 0: Veterans find it easier to understand the benefits that are available to them and navigate through the information when there is one unified section to ‘get benefits’ and ‘manage benefits’. 
 * Hypothesis 1: Veterans find it easier to navigate when there are two separate sections for ‘get benefits’ and ‘manage benefits’. 
+* We'll also be testing the existing VA.gov sitemap to give us a baseline against which we can measure both hypotheses
 
 The current [Heath Apartment prototype that’s being tested](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/7yK3287/play), assumes Hypothesis 0. 
 
 
 ## Method and tools
 
-This phase of the research is designed to indicate which information architecture strategy to follow: hypothesis 0 or hypothesis 1. In later research phases, we’ll conduct interviews, and build and test prototypes to arrive at a well-researched information architecture, navigation, and labeling strategy. This research plan only covers the first phase. 
+This phase of the research is designed to indicate which information architecture strategy to follow: hypothesis 0 or hypothesis 1. 
 
 In this first phase, unmoderated remotely conducted tree tests allow us to evaluate navigation and labeling quickly across multiple research cohorts. 
 
@@ -96,7 +97,7 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 
 We would like to get complete responses from at least 50 Veterans, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL. 
 
-We’re using two trees, one for each hypothesis. 
+We’re using three trees, one for each hypothesis, and one for the current site.
 
 
 ##### Research materials
@@ -104,15 +105,17 @@ We’re using two trees, one for each hypothesis.
 
 
 * Tree test for hypothesis 0
-* Tree test for hypothesis 0 (for caregivers)
+* Tree test for hypothesis 0 (for Cargivers and family members)
 * Tree test for hypothesis 1
-* Tree test for hypothesis 1 (for caregivers)
+* Tree test for hypothesis 1 (for Cargivers and family members)
+* Tree test for baseline
+* Tree test for baseline (for Caregivers and family members)
 * The [Tasks](#appendix-a-tasks) we’re asking each participant to complete. It will be the same tasks for both trees. 
 
 
 ## Participants and recruitment
 
-Ask Perigean to recruit 126 people using the cohorts below in order to get at least 25-50 completes for each hypothesis. Ideally, we would like to have:
+Ask Perigean to recruit 126 people using the cohorts below in order to get at least 25-50 completes for each tree. Ideally, we would like to have:
 
 
 
