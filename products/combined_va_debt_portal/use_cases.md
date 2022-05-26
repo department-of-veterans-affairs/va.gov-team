@@ -2,7 +2,7 @@
 
 # Combined VA Debt Portal - Use Cases
 
-**Last updated:** TBD
+**Last updated:** 5/26/2022
 
 **Description:** Track and maintain the various use cases that exist for a given product and is
 best maintained alongside the product outline.
@@ -53,7 +53,7 @@ searches and gets no results.", etc.
 - **Description:** A Veteran is interested in viewing their medical copay bill on the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- `vets.gov.user+80@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
 	- Click 'Manage your VA debt' button on the page
@@ -66,26 +66,41 @@ searches and gets no results.", etc.
   - TBD
 
 
-## Use Case C - TBD
+## Use Case C - Veteran has neither a copay bill or debt
 
-- **Description:** TBD
+- **Description:** Veteran is just curious to see if they have any active VA debts or copay bills.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- `vets.gov.user+56@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 
 - **Link to designs**
   - TBD
 
 
-## Use Case D - TBD
+## Use Case D - Veteran is not enrolled in healthcare
 
-- **Description:** TBD
+- **Description:** Veteran is not enrolled in healthcare.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+##@gmail.com` (NAME)
+	- `vets.gov.user+3@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 
 - **Link to designs**
   - TBD
 
+## Use Case E - Veteran has both a copay and debt they'd like to see
+
+- **Description:** Veteran has both.
+
+- **Instructions to access in Staging** 
+	- `vets.gov.user+81@gmail.com` (NAME)
+	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+
+- **Link to designs**
+  - TBD
+
+- Make sure to add the 404 error states, empty states, VBA API 404's VHA 404's
+
+
+- content difference between one facility or multiple facilities? For medical copays
