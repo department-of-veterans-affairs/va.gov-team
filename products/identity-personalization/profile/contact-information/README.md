@@ -17,10 +17,12 @@ Last Updated May 5, 2022
 - [Measuring success](#measuring-success)
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
-- [How to Access and Test](#how-to-access-and-test)
-- [Backend](#backend)
-- [Error Handling](#error-handling)
 - [Design](#design)
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+
 
 ---
  
@@ -65,9 +67,18 @@ As a user, I want to be able to:
 
 [See profile roadmap for full list of completed projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
-## How to Access and Test
+## Design 
 
-[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+- [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- Need use case documentation for updating mailing and home address
+- Need use case documentation for address validation
+- [Use cases: Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/use-cases/README.md)
+
+## Frontend
+
+- Need frontend documentation for updating mailing and home address
+- Need frontend documentation for address validation
+- [Frontend documentation: Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/frontend/fe-documentation.md)
 
 ## Backend
 
@@ -75,10 +86,10 @@ Contact information comes from [VA Profile](https://depo-platform-documentation.
 
 Confirmation emails for when people update contact information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
 
+## How to Access and Test
+
+[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+
 ## Error Handling
 
 [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
-
-## Design 
-
-[Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
