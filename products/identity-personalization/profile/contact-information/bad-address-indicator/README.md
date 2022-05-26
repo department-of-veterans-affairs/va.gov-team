@@ -20,6 +20,8 @@ Last Updated: May 26, 2022
 - [Solution Approach](#solution-approach)
 - [Measuring Success](#measuring-success)
 - [Design](#design)
+- [Frontend](#frontend)
+- [Backend](#backend)
 
 ## Overview
 
@@ -105,6 +107,17 @@ Note: We will not have access to metrics on returned mail.
 
 ## Design
 
+- Need sketch files
+- Need use case documentatio
+
 ### Before
 
 ### After
+
+## Frontend
+
+- Need frontend documentation
+
+## Backend
+
+- Need backend documentation
