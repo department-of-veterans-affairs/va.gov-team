@@ -4,7 +4,7 @@ about: Incoming Platform website support requests triaged by the Platform Conten
   & IA team.
 title: ''
 labels: documentation-support, pw-footer-feedback
-assignees: gmaciolek, lianilychee
+assignees: lianilychee
 
 ---
 
