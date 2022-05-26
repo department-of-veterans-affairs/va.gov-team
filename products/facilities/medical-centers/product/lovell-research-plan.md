@@ -164,6 +164,6 @@ Moderator: Val Runde<br>
 Research guide writing and task development: Val Runde<br>
 Participant recruiting & screening: Perigean<br>
 Project point of contact: Val Runde<br>
-Participant(s) for pilot test: Jay Darnell (jay.darnell@civicactions.com)<br>
+Participant(s) for pilot test: Jay Darnell (jay.darnell@civicactions.com), Perigean to set up pilot test<br>
 Note-takers: Perigean<br>
 Observers: Michelle Middaugh [optional] (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov) [optional], Steve Tokar (steve.tokar@va.gov) [optional], Jenny Heiland-Leudtke (Jennifer.Heiland-Luedtke@va.gov) [optional], Jeff Grandon (Jeffrey.Grandon@va.gov) [optional], Suzanne Gray (suzanne.gray@civicactions.com) [optional], Steve Wirt (steve.wirt@civicactions.com) [optional], Ethan Teague (ethan.teague@civicactions.com) [optional], Max Antonucci (max.antonucci@agile6.com) [optional], Jay Darnell (jay.darnell@civicactions.com) [optional]
