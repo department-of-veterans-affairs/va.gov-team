@@ -93,7 +93,7 @@ We will use Optimal Workshop to conduct the tree tests.
 
 ##### IA Tree Tests (remote, unmoderated)
 
-Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains 10 tasks a Veteran may experience when learning, applying, and managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed. 
+Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains, respecitvely, 12 tasks for a Veteran and 11 tasks for Caregivers and family members that they may experience when getting or managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed. 
 
 We would like to get complete responses from at least 50 Veterans, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL. 
 
@@ -168,7 +168,7 @@ Research guide writing and task development: Team MOVE
 
 Participant recruiting & screening: Perigean
 
-Project point of contact: 
+Project point of contact: Jordan White (Jordan@themostudio.com)
 
 
 ## Appendix A: Tasks
