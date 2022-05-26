@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: May 5, 2022
+Last Updated: May 26, 2022
 
 ### Communications
 
@@ -17,8 +17,8 @@ Last Updated: May 5, 2022
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
 - [Solution Approach](#solution-approach)
+- [Measuring Success](#measuring-success)
 - [Design](#design)
 
 ## Overview
@@ -54,6 +54,37 @@ When mail is sent to a veteran and then returned to the VA, the address is marke
 - No reduction in users with the bad address indicator flag.
 - No reduction in returned mail.
 
+## Solution approach
+
+### Update phases
+
+There are going to be two phases of bad address updates, which will happen asynchronously:
+
+#### Email notifications
+
+We are working with VA Profile to send an initial email blast to folks who have the bad address indicator currently. **This email will go out before the UI updates are completed on VA.gov.** The current plan:
+
+- VA Profile wants to pilot an initial email that's sent to 10K of 300K users with the bad address indicator.
+- We will track analytics, and then scale the email and send to more users.
+
+Once this email is sent out to the people who currently have the bad address indicator, VA Profile will also send out an email to user for whom the bad address indicator is newly added going forward.
+
+**Anticipated launch date**: Early summer 2022
+
+#### VA.gov UI updates
+
+We are also working on UI updates to VA.gov to show an alert in the VA.gov profile if someone has the bad address indicator. Once a person updates their mailing address, the alert will be removed.
+
+**Anticipated launch date**: Late summer 2022
+
+### Key dates
+
+- January 2022: PM/PO working on discovery for this project. 
+- February 2022: Kickoff; Start design
+- March 2022: Design intent
+- April 2022: Mostly on hold in favor of other project work
+- May 2022: Resume project; High fidelity mocks; Discussions with VA Profile on email notifications
+
 ## Measuring success
 
 #### Objective #1: Reduce returned mail at the VA
@@ -66,21 +97,11 @@ Note: We will not have access to metrics on returned mail.
 |----------|-------------|---------------|-------------------|
 |Number of addresses with the bad address indicator| ?|?|?|
 
-**Key Result #2** -- Increase the number of amailing ddresses updated per week by 25% from baseline for four weeks in a row.
+**Key Result #2** -- Increase the number of mailing addresses updated per week by 25% from baseline for four weeks in a row.
 
 |KPI/metric|Baseline|Post-launch #1| Post-launch #2|
 |----------|-------------|---------------|-------------------|
 |Number of mailing address updates|?|?|?|
-
-## Solution approach
-
-### Key dates
-
-- January 2022: PM/PO working on discovery for this project. 
-- February 2022: Kickoff; Start design
-- March 2022: Design intent
-- April 2022: Mostly on hold in favor of other project work
-- May 2022: Resume project; High fidelity mocks
 
 ## Design
 
