@@ -136,7 +136,7 @@ body:
   - type: checkboxes
     id: notify-slack
     attributes:
-      label: Notify the Collaboration Cycle team of this ticket in the #vfs-platform-support Slack channel.
+      label: Notify the Collaboration Cycle team of this ticket in the \#vfs-platform-support Slack channel.
       description: See ["Getting help from the Platform in Slack"](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
       options:
         - label: I acknowledge that I must notify \#vfs-platform-support after submitting this issue.
