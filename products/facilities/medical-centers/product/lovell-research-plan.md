@@ -83,9 +83,9 @@ Veterans are familiar with a location experience that does not separate the expe
 
 ## Method	
 Research Method:
-* User testing.
+* Usability testing.
 * We will not be testing with screen readers because the designs are in UXPin, the design has been reviewed by the collaboration cycle, and the foundation of the VAMC pages have already been tested.
-* Not testing on mobile because the VAMC pages have already been tested on mobile.
+* Not testing on mobile because the VAMC pages have already been tested on mobile during the VAMC redesign testing.
 
 Includes task flows from specific starting points:
 * [Lovell VA beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/no-panels) 
