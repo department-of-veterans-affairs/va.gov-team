@@ -172,50 +172,229 @@ Project point of contact:
 
 ### Tasks 
 
-The prioritized 14 tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in the tree itself, and we used plain language to write the tasks. Below, the parentheticals describe the general goal of the task.
+The prioritized tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in the tree itself, and we used plain language to write the tasks. Below, the parentheticals describe the general goal of the task.
 
-**For Veterans:**
+[Link to trees](https://docs.google.com/spreadsheets/d/1B14UkjcpJsqlo4kZvIv3G4Pw1cgmTFYXYnvXv5MWSfQ/edit#gid=0)
 
+All targets begin with &#39;VA benefits and health care&#39;
 
+# For Veterans
 
-1. You’re thinking of signing up for VA health care and you want to know what benefits you are eligible for. Where would you find information on benefit eligibility? (G)
-2. You want to apply for and enroll in the VA health care benefit for the first time. Where would you go to start your application? (G)
-3. You woke up with a toothache and want to see a dentist. Where would you go to find out if you qualify for dental care? (M)
-4. You're not enrolled in VA health care, but you need mental health care. You want to know if VA can help you. (G)
-5. You recently applied for VA health care and you want to know what’s next and how to get started with care. (G)
-6. You lost your job and you want to tell VA about your loss of income to see if you can pay less in copays. (M)
-7. Your disability status has changed (or you just got your rating) . How do you find out how this affects your benefits? (G)
-8. You have been approved for community care and want to send your health records to a non-VA facility. (M)
-9. You want to check how much you owe for your last medical visit and pay your bill. (M)
-10. You’re almost out of one of your medications . Where would you go to request more? (M)
-11.  You have a question for your doctor about recent lab results and want to contact them online. (M)
+**As a Veteran, you want to know if you can get VA health care. (G)**
 
- 
+  1. Baseline: Health care - Get benefits - Eligibility - Veteran eligibility
+ Baseline: Health care - Get benefits - Apply now
+  2. H0: My Health - VA health care benefits - Apply for VA health care - Eligibility - Veteran eligibility
+  3. H1: Health care - Get health care benefits - Eligibility
 
+**You&#39;re a Veteran who wants to enroll in VA health care. (G)**
 
+  1. Baseline: Health care - Get benefits - How to apply
+ Baseline: Health care - Get benefits - Apply now
+  2. H0: My Health - VA health care benefits - Apply for VA health care - How to apply
 
-12.  You already have personal health insurance and you are trying to decide if you would like to use the VA Health system, how will you find out access and quality information on your local VA Medical Center? (G)
-13. You have a follow-up with your primary care doctor about a specialist visit you had last week. How would you find the name of the doctor that you saw last week? (M)
+H0: My Health - VA health care benefits - Apply for VA health care - Apply now
 
-**For Caregiver and family members:**
+  1. H1: Health care - Get health care benefits - Apply now
+ H1: Health care - Get health care benefits - How to apply
 
+**As a Veteran, you want to know if you can get dental benefits through VA. (G/M)**
 
+  1. Baseline: Health care - Get benefits - About VA health benefits - Dental care
+ Baseline: Health care - More resources - Health needs and conditions - Health topics A-Z
+  2. H0: VA benefits and health care- My Health - VA health care benefits - Coverage
+  3. H1: Health care - Get health care benefits - More veteran VA health care services and programs - VA Dental Insurance Program (VADIP)
+ H1: Health care - Get health care benefits - About VA health benefits - What services are covered
 
-1. You’re caring for a recently separated Veteran and want to help them find information about enrolling in VA health care. You want to know what benefits they are eligible for. Where would you find information on benefit eligibility? (G)
-2. The Veteran that you are caring for wants you to help them apply for and enroll in the VA health care benefit for the first time. Where would you go to start the application? (G)
-3. Your spouse, a disabled Veteran, has been suffering from a toothache and you want to take them to a dentist. Where would you go to find out if they qualify for dental care? (M)
-4. You're caring for a Veteran who is not enrolled in VA health care, but needs mental health care. You want to know if VA can help you. (G)
-5. You recently applied for VA health care and you want to know what’s next and how to get started with care. (G)
-6. Your family has had a loss of income and you want to tell VA about your loss of income to see if you can pay less in copays. (M)
-7. You are caring for a Veteran whose disability status has changed (or they just got their rating). How do you find out how this impacts their benefits? (G)
-8. Your spouse was 100% disabled and recently passed away. You want to know if you're still eligible for health care. (G)
-9. A Veteran that you are helping care for has been approved for community care and you want to send their health records to a non-VA facility. (M)
-10. You want to check how much is owed for the last medical visit a Veteran had and pay the bill. (M)
-11. A Veteran that you are caring for is almost out of one of their medications. Where would you go to request more? (M)
-12.  You have a question for a doctor about recent lab results and want to contact them online. (M)
-13.  You/your Veteran spouse already have personal health insurance and you are trying to decide if you would like to use the VA Health system, how will you find out access and quality information on your local VA Medical Center? (G)
-14. You have to take a Veteran to a follow-up with their primary care doctor about a specialist visit they went to last week. How would you find the name of the doctor that was seen last week? (M)
+**You want to know what types of services and support you can get for your mental health needs. (G/M)**
 
+  1. Baseline: Health care - More resources - Health needs and conditions - Mental health
+ Baseline: Health care - More resources - Wellness programs
+ Baseline: Health care - More resources - Health needs and conditions - Health topics A-Z
+ Baseline: Health care - Get benefits - About VA health benefits - Care and services covered
+  2. H0: My Health - Health resources - Getting connected to mental health care at VA
+  3. H1: Health care - Health resources - Getting connected to mental health care at VA
+ H1: Health care - Get health care benefits - About VA health benefits - What services are covered
+ H1: Health care - Health resources - Programs for health and wellness
+
+**You want to find out the costs for VA health care services. (G/M)**
+
+  1. Baseline: Health care - Get benefits - About VA health benefits - Your health care costs
+ Baseline: Health care - More resources - VA health care copay rates
+  2. H0: My Health - Copay bills and travel pay - View VA copay rates
+  3. H1: Health care - My Health - Copay bills and travel pay - View VA copay rates
+ H1: Health care - Get health care benefits - VA health care copay rates
+
+H1: Health care - Get health care benefits - About VA health benefits - Costs of care
+
+**You just received your new disability rating. You want to find out how this could affect how much you would have to pay for VA health care. (G/M)**
+
+  1. Baseline: Health care - Get benefits - About VA health benefits - Your health care costs
+ Baseline: Health care - More resources - VA health care copay rates
+ Baseline: Health care - Get benefits - Eligibility - VA priority groups
+  2. H0: My Health - Copay bills and travel pay - View VA copay rates
+ H0: My Health - VA health care benefits - Learn how to upgrade your health care
+ H0: My Health - VA health care benefits - Coverage - Apply for VA health care - Eligibility - VA priority groups
+  3. H1: Health care - My Health - Copay bills and travel pay - View VA copay rates
+ H1: Health care - Get health care benefits - VA health care copay rates
+ H1: Health care - Get health care benefits - About VA health benefits - Costs of care
+ H1: Health care - Get health care benefits - Eligibility - VA priority groups
+
+**As a Veteran with VA health care, you want to send your VA health records to a non-VA provider. (M)**
+
+  1. Baseline: Health care - Manage benefits - Get medical records
+ Baseline: Disability - Manage benefits - Share medical records
+ Baseline: Records - Get records - Get medical records
+  2. H0: My Health - Medical records - VA Blue Button report
+ H0: My Health - Medical records - VA health summary
+ H0: My Health - Medical records - Manage your electronic record sharing options
+ H0: Disability - Manage benefits - Share medical records
+ H0: Records - Get records - Get medical records
+  3. H1: Health care - My Health - Medical records - VA Blue Button report
+ H1: Health care - My Health - Medical records - VA health summary
+ H1: Health care - My Health - Medical records - Manage your electronic record sharing options
+ H1: Disability - Manage benefits - Share medical records
+ H1: Records - Get records - Get medical records
+
+**You want to check how much you owe for your last medical visit and pay your bill. (M)**
+
+  1. Baseline: Health care - Manage benefits - Pay your VA copay bill
+  2. H0: My Health - Copay bills and travel pay - See copay bill activity
+ H0: My Health - Copay bills and travel pay - How to pay your bill
+  3. H1: Health care - My Health - Copay bills and travel pay - See copay bill activity
+ H1: Health care - My Health - Copay bills and travel pay - How to pay your bill
+
+**You need to request a refill for a prescription you get from VA by mail. (M)**
+
+  1. Baseline: Health care - Manage benefits - Refill and track prescriptions
+  2. H0: My Health - Pharmacy - Refill prescriptions
+  3. H1: Health care - My Health - Pharmacy - Refill prescriptions
+
+**You have a question for your doctor and want to communicate with them online. (M)**
+
+  1. Baseline: Health care - Manage benefits - Use secure messaging
+  2. H0: My Health - Messages - Compose
+  3. H1: Health care - My Health - Messages - Compose
+
+**You want to know if VA will pay for you to get health care outside of VA. (G/M)**
+
+  1. Baseline: Health care - Get benefits - About VA health benefits - Where you&#39;ll go for care
+ Baseline: Health care - More resources - Community care
+  2. H0: My health - Health resources - Getting care outside of VA
+ H0: My Health - VA health care benefits - Outside providers
+  3. H1: Health care - Health resources - Getting care outside of VA
+ H1: Health care - Get health care benefits - About VA health benefits - Where you get care
+
+**You drove to your VA primary care appointment and want to get paid back for the cost of gas. (M)**
+
+  1. Baseline: Health care - Manage benefits - Get travel pay
+  2. H0: My Health - Copays and travel pay - Get travel pay
+  3. H1: Health care - My Health - Copay bills and travel pay - Get travel pay
+
+# For Caregivers and family members:
+
+**As a family member or caregiver of a Veteran, you want to know if the Veteran can get VA health care. (G)**
+
+  1. Baseline: Health care - Get benefits - Eligibility - Veteran eligibility
+  2. H0: My Health - VA health care benefits - Apply for VA health care - Eligibility - Veteran eligiblity
+  3. H1: Health care - Get health care benefits - Eligibility - Veteran eligibility
+
+**As a family member or caregiver, you want to know if you can get dental benefits through VA. (G)**
+
+  1. Baseline: Health care - Get benefits - Family health benefits
+ Baseline: Family member benefits
+  2. H0: My Health - VA health care benefits - Coverage - Family and caregiver benefits
+  3. H1: Health care - Get health care benefits - More veteran VA health care services and programs - VA Dental Insurance Program (VADIP)
+ H1: Health care - Get health care benefits - Family and caregiver benefits
+ H1: Family member benefits
+
+**You want to know what types of services and support you can get for your mental health needs. (G/M)**
+
+  1. Baseline: Health care - Get benefits - Family health benefits
+ Baseline: Family member benefits
+  2. H0: My Health - VA health care benefits - Coverage - Family and caregiver benefits
+ H0: Find a VA Location - Vet Centers
+  3. H1: Health care - Get health care benefits - Family and caregiver benefits
+ H1: Health care - Health resources - Getting connected to mental health care at VA
+ H1: Family member benefits
+ H1: Find a VA Location - Vet Centers
+
+**As a family member or caregiver of a Veteran, you want to find out the Veteran&#39;s cost for health care services. (G/M)**
+
+  1. Baseline: Health care - Get benefits - About VA health benefits - Your health care costs
+ Baseline: Health care - More resources - VA health care copay rates
+  2. H0: My Health - Copay bills and travel pay - View VA copay rates
+ H0: My Health - Copay bills and travel pay - Copay FAQs
+  3. H1: Health care - My Health - Copay bills and travel pay - View VA copay rates
+ H1: Health care - Get health care benefits - VA health care copay rates
+ H1: Health care - Get health care benefits - About VA health benefits - Costs of care
+ H1: Health care - My Health - Copay bills and travel pay - Copay FAQs
+
+**The Veteran in your family just received their new disability rating. You want to find out how much they would have to pay for VA health care.**
+
+  1. Baseline: Health care - Get benefits - About VA health benefits - Your health care costs
+ Baseline: Health care - More resources - VA health care copay rates
+ Baseline: Health care - Get benefits - Eligibility - VA priority groups
+  2. H0: My Health - Copay bills and travel pay - View VA copay rates
+ H0: My Health - VA health care benefits - Learn how to upgrade your health care
+ H0: My Health - VA health care benefits - Eligibility - VA priority groups
+  3. H1: Health care - Get health care benefits - VA health care copay rates
+ H1: Health care - Get health care benefits - About VA health benefits - Costs of care
+ H1: Health care - My Health - Copay bills and travel pay - View VA copay rates
+ H1: Health care - Get health care benefits - Eligibility - VA priority groups
+
+**You&#39;re the spouse or caregiver of a Veteran and you want to know if you can get health care through VA. (G)**
+
+  1. Baseline: Healthcare - Get benefits - Family health benefits
+ Baseline: Family member benefits
+  2. H0: My Health - VA health care benefits - Coverage - Family and caregiver benefits
+  3. H1: Health care - Get health care benefits - Family and caregiver benefits
+ H1: Family member benefits
+
+**As a family member or caregiver of a Veteran, you want to send their VA health records to a non-VA provider. (M)**
+
+  1. Baseline: Health care - Manage benefits - Get medical records
+ Baseline: Disability - Manage benefits - Share medical records
+ Baseline: Records - Get records - Get medical records
+  2. H0: My Health - Medical records - VA Blue Button report
+ H0: My Health - Medical records - VA health summary
+ H0: My Health - Medical records - Manage your electronic record sharing options
+ H0: Disability - Manage benefits - Share medical records
+ H0: Records - Get records - Get medical records
+  3. H1: Health care - My Health - Medical records - VA Blue Button report
+ H1: Health care - My Health - Medical records - VA health summary
+ H1: Health care - My Health - Medical records - Manage your electronic record sharing option
+ H1: Disability - Manage benefits - Share medical records
+ H1: Records - Get records - Get medical records
+
+**As a family member or caregiver of a Veteran, you want to check how much the Veteran owes for their last medical visit and pay the bill. (M)**
+
+  1. Baseline: Health care - Manage benefits - Pay your VA copay bill
+  2. H0: My Health - Copay bills and travel pay - See copay bill activity
+ H0: Health care - My Health - Copay bills and travel pay - See copay bill activity
+ H0: My Health - Copay bills and travel pay - See copay bill activity
+ H0: My Health - Copay bills and travel pay - How to pay your bill
+
+  1. H1: Health care - My Health - Copay bills and travel pay - See copay bill activity
+ H1: Health care - My Health - Copay bills and travel pay - How to pay your bill
+
+**The Veteran in your family needs to request a refill for a prescription they get from VA by mail (M)**
+
+  1. Baseline: Health care - Manage benefits - Refill and track prescriptions
+  2. H0: My Health - Pharmacy - Refill prescriptions
+  3. H1: Health care - My Health - Pharmacy - Refill prescriptions
+
+**As a Veteran&#39;s family member or caregiver, you have a question for the Veteran&#39;s doctor and want to communicate with them online.**
+
+  1. Baseline: Health care - Manage benefits - Use secure messaging
+  2. H0: My Health - Messages - Compose
+  3. H1: Health care - My Health - Messages - Compose
+
+**You drove the Veteran in your family to a VA primary care appointment at VA and want to get paid back for the cost of gas. (M)**
+
+  1. Baseline: Health care - Manage benefits - Get travel pay
+  2. H0: My Health - Copays and travel pay - Get travel pay
+  3. H1: Health care - My Health - Copays and travel pay - Get travel pay
 
 ## Appendix B: Recruitment email {#appendix-b-recruitment-email}
 
