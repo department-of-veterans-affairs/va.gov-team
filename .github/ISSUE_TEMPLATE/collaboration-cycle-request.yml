@@ -3,7 +3,6 @@ description: "Begin engaging with the Collaboration Cycle."
 title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
 labels: ["collab-cycle-review", "collaboration-cycle", "governance-team", "CC-Request"]
 assignees:
-
 body:
   - type: markdown
     attributes:
