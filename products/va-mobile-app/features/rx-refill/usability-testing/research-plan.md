@@ -180,11 +180,11 @@ We want to recruit 15 Veterans for an expected completion of 10-12 studies.
 
 * Can join via a mobile device (tablet or phone) 
 * Veterans and caregivers with experience managing VA prescriptions using MHV or the Rx refill app
-    * _Managing prescriptions is defined as:_
-     * _Refilling a VA prescription,_
-     * _Viewing VA prescription history_
-     * _Tracking a VA prescription package_
-     * _Renewing a VA prescription_
+  * _Managing prescriptions is defined as:_
+    * _Refilling a VA prescription,_
+    * _Viewing VA prescription history_
+    * _Tracking a VA prescription package_
+    * _Renewing a VA prescription_
 * Diverse participants in age, gender, race/ethnicity, and cognitive ability
 
 #### Secondary Criteria (nice-to-haves)
@@ -195,7 +195,7 @@ For inclusivity, it would be nice to have:
 * 8 participants with cognitive disabilities 
 * 4 participants from rural areas
 * 4 participants without a degree
-* 2 participants that identify as women
+* At least 2 participants that identify as women
 * At least 4 participants that identity as non-Caucasian
 * At least 2 participants that use assistive technology
     * Due to tool constraints, recruit for hearing aids and magnification/zoom
