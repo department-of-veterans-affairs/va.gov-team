@@ -4,7 +4,7 @@ This checklist is for content authors working in Drupal to use when creating a n
 
 **Note:** The content team will confirm that the items on this list have been accounted for before publishing. If one of these standards hasn't been met, they'll make any necessary changes or edits.
 
-### Accessibility standards
+### Accessibility checks
 
 - [ ] If your link or button will take the user off VA.gov to a different website, confirm that the text for the link or button contains a purpose and a target. The user should be able to tell from the link or button text what the call to action is (the purpose) and where they will end up if they click on the link (the target). The following link is an example of this: [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
