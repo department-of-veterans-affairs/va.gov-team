@@ -30,7 +30,7 @@ In the nearly three years since the site's launch, the range of VA benefits and 
 The VA.gov homepage needs to effectively bridge users to the personalized logged-in experience and act as a vital guidepost to a growing selection of new information and benefit services while managing stakeholders competing for valuable real estate on the homepage. 
 
 ## Product artifacts
-- [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) | Written by Ryan Thurlwell and Jeff Barnes | November 2021
+- [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/initiative-brief.md) 
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/baseline-event-data.md)
