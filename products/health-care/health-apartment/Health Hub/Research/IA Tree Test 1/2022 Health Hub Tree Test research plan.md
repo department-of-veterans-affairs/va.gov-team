@@ -125,21 +125,23 @@ We’re using three trees, one for each hypothesis, and one for the current site
 
 ## Participants and recruitment
 
-Ask Perigean to recruit 126 people using the cohorts below in order to get at least 25-50 completes for each tree. Ideally, we would like to have:
+Ask Perigean to recruit 189 people using the cohorts below in order to get at least 25-50 completes for each tree. Ideally, we would like to have:
 
 
 
-* 1/7 of recruited participants Veterans' family members or caregivers who help a Veteran manage their VA health care
-* 6/7 of participants are Veterans
-    * 1/2 are enrolled in VA health care with a preference for those who have used the MyHealtheVet online health management tool within the last year. 
-    * 1/2 Veterans are not enrolled in VA health care with a preference for those who do not receive any other VA benefits
+* 1/7 of recruited participants Veterans' family members or caregivers who help a Veteran manage their VA health care (21)
+* 6/7 of participants are Veterans (162)
+    * 54 are enrolled in VA health care and have used MyHealtheVet online health management tool within the last year.
+    * 27 are enrolled in VA health care and have not used MyHealtheVet online health managemnt tool or have not done so in the last year  
+    * 27 are not enrolled in VA healthcare but are enrolled in at least one other VA benefit (i.e. disability compensation, disability pension, education).
+    * 54 are not enrolled in enrolled in VA health care and are not enrolled / recieving another VA benefit
 * We want to ensure we research with the following underserved Veteran populations:
     * Females 
     * Minorities 
     * Lower education
     * LGTBQAI2S+
     * Cognitive disorder
-    * _Candidates may meet several secondary criteria so long as a minimum number of identified underserved Veteran populations identified are represented in the data pool._
+    * _Candidates may meet several secondary criteria so long as a minimum number of identified underserved Veteran populations identified in spreadsheet are represented in the data pool._
 
 **This [spreadsheet] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/Research%20recruitment%20Cohort%20A%20to%20U%205.20.22.xlsx) that describes each cohort. **
 
