@@ -65,8 +65,8 @@ As a Veteran, I:
   - TBD
 
 ## Handoff
-- When the following year's 1095-B tax form is available, the 1095-b owner will need to ensure they're using the blank 1095-b pdf for the current tax year.
-- Following dark launch, the sitewide team will need to introduce appropriate wayfinding and navigation to the form 
+- When the following year's 1095-B tax form is available, the 1095-b owner will need to ensure they're using the blank 1095-b pdf for the current tax year. The new PDF should be added to the API once the form is available.
+- Following dark launch, the sitewide team will need to introduce appropriate wayfinding and navigation to the form.
 ---
    
 
