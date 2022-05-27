@@ -80,7 +80,7 @@ Thank you for sharing that. It helps me understand your experience across a rang
 
 * Do they group prescriptions in a certain way? Why or why not?
 * How are they using digital services to manage their prescriptions?
-* Do they have system for how they manange their prescriptions?
+* Do they have a system for how they manange their prescriptions?
 
 ## Pharmacy Landing Screen - 5 minutes
 
