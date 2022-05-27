@@ -168,7 +168,7 @@ This research will be remote via Zoom.
 
 The intended audience for this research are Veterans and caregivers who refill prescriptions at the VA. We will be recruiting participants through Perigean. 
 
-We aim to be inclusive in our research and will be using the lean representative strategy to recruit participants.
+We aim to be inclusive in our research and will be using the lean and representative strategy to recruit participants.
 
 [Recruitment Checker Table](https://docs.google.com/spreadsheets/d/1EdZFvO1GGowx8psu0PMlyfHjKe2FMZlfOfq1OEif1Wk/edit#gid=632024334)
 
