@@ -164,7 +164,7 @@ We’ll conduct a pilot session with a mock participants (Date TBD).
 
 ### Research sessions
 
-The tree tests will be open for two weeks, starting May 23 and should remain open until there are at least May 30
+The tree tests will be open for two weeks, with the starting date TBD
 
 
 ### Length of session
