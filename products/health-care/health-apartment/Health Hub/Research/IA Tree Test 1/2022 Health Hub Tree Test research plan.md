@@ -141,7 +141,7 @@ Ask Perigean to recruit 126 people using the cohorts below in order to get at le
     * Cognitive disorder
     * _Candidates may meet several secondary criteria so long as a minimum number of identified underserved Veteran populations identified are represented in the data pool._
 
-**This [spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/Recruitment%20criteria%20cohorts%20A%20to%20N%20v6.xlsx) that describes each cohort. **
+**This [spreadsheet] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/Research%20recruitment%20Cohort%20A%20to%20U%205.20.22.xlsx) that describes each cohort. **
 
 
 ### Email drafts:
