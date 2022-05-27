@@ -1,4 +1,4 @@
-# Research Plan for VA Mobile Team, Pharmacy, [Date TBD]
+# Research Plan for VA Mobile Team, Pharmacy, 05/25/22
 
 ## Background 
 
