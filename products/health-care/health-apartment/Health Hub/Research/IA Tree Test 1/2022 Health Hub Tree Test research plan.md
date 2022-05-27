@@ -201,6 +201,7 @@ All targets begin with &#39;VA benefits and health care&#39;
  Baseline: Health care - Get benefits - Apply now
   2. H0: My Health - VA health care benefits - Apply for VA health care - Eligibility - Veteran eligibility
   3. H1: Health care - Get health care benefits - Eligibility
+   H1: Health care - Get health care benefits - Apply now
 
 **You&#39;re a Veteran who wants to enroll in VA health care. (G)**
 
