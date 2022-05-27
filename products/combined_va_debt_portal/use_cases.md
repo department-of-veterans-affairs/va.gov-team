@@ -116,18 +116,18 @@ searches and gets no results.", etc.
 
 - We also have error states for:
 	- VHA 404's 
-		- (Debt and Bills Overview page)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149503316/specification/sitemap?mode=i]
-		- (Debt list page)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149376498/specification/sitemap?mode=i]
-		- (Copay balance list)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149423132/specification/sitemap?mode=i]
+		- [Debt and Bills Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149503316/specification/sitemap?mode=i)
+		- [Debt list page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149376498/specification/sitemap?mode=i)
+		- [Copay balance list](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149423132/specification/sitemap?mode=i)
 	- VBA 404's
-		- (Debt and Bills Overview page)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149503317/simulate/sitemap?mode=i]
-		- (Debt list page)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149376499/simulate/sitemap?mode=i]
-		- (Copay balance list)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149423131/simulate/sitemap?mode=i]
+		- [Debt and Bills Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149503317/simulate/sitemap?mode=i)
+		- [Debt list page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149376499/simulate/sitemap?mode=i)
+		- [Copay balance list](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149423131/simulate/sitemap?mode=i)
 - And empty states as well:
-	- Empty State: (no debts or bills)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/sitemap?mode=i]
-	- Empty state: (copays, but no debts)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492807/simulate/sitemap?mode=i]
-	- Empty state: (debts, but no copays)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492808/simulate/sitemap?mode=i] 
+	- [Empty State: no debts or bills](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/sitemap?mode=i)
+	- [Empty state: copays, but no debts](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492807/simulate/sitemap?mode=i)
+	- [Empty state: debts, but no copays](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492808/simulate/sitemap?mode=i) 
 
 - There are content difference between one facility or multiple facilities when it comes to medical copays, so just something to keep an eye out for:
-	- (1 facility)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524983/simulate/sitemap?mode=i]
-	- (Multiple facilities)[https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148559873/simulate/sitemap?mode=i]
+	- [1 facility](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524983/simulate/sitemap?mode=i)
+	- [Multiple facilities](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148559873/simulate/sitemap?mode=i)
