@@ -19,6 +19,7 @@ The purpose of this research was to get feedback from Veterans and others (inclu
 We talked to **7 people (4 Veterans, 1 Caregiver of a Veteran, 1 Dependent of a Veteran, and 1 Service Member)**. 
 - ALL of them had experience with some VA benefits or services, though 2 of them had the experience only *indirectly* by advising a Veteran on how to work with the VA. 
 - 2 had no experience with VA health care.
+- 1 had experience with only one VA benefit (education).
 - We wanted to have some participants who didn't have *any* experience with VA benefits, but that wasn't the case for those recruited by Perigean (except for one with only indirect VA experience through her dad), presumably due to outdated information in their recruitment database.
 
 ## Preliminary Findings
@@ -27,7 +28,7 @@ We talked to **7 people (4 Veterans, 1 Caregiver of a Veteran, 1 Dependent of a 
 2. Four participants thought the **list of tasks seemed complete**. The other 3 participants suggested a few additions.
 3. Four participants **understood the meaning of all of the tasks** listed in the survey.
 4. Two participants were **able to fill out the survey based on their recent *indirect* experience with the VA** from helping others with VA benefits (*vs.* interacting directly with the VA on their own behalf or someone else's). 
-5. Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list.
+5. Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list (a change made after the first pilot participant, who found a random order of tasks to be disorienting).
 
 ### Issues with the Survey
 6. Three participants were **unclear on the meaning of a few of the tasks**.
