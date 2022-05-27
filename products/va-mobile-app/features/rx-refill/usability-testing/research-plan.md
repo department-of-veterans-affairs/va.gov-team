@@ -44,7 +44,7 @@ This work supports the following objectives:
 
 ### Measures to increase:
 
-* Usage of digital, self- service tools
+* Usage of digital self- service tools
 * Completion rate of online transactions
 * Veteran satisfaction with VA.gov
 
