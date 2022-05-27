@@ -293,7 +293,7 @@ Moderator is on Pacific Time, please schedule after 11am ET to accommodate.
 
 ### Moderator
 
-Esther Kitavi - esther@digitalfoundry.com)
+Esther Kitavi - esther@digitalfoundry.com
 
 ### Research guide writing and task development
 
