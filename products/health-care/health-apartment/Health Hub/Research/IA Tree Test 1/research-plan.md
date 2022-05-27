@@ -51,7 +51,7 @@ To understand (and build consensus) how to best organize the UX for ‘get benef
 ### Research questions
 
 
-1. Can users (Veterans and Caregivers) navigate proposed changes to VA.gov to find information or complete core tasks as they learn, apply, manage, their VA health care benefits and care. 
+1. Can users (Veterans and Caregivers or family members) navigate proposed changes to VA.gov to find information or complete core tasks as they get and/or manage their VA health care benefits and care? 
 
 
 ### Specific goals
@@ -60,7 +60,17 @@ To understand (and build consensus) how to best organize the UX for ‘get benef
 
 * Evaluate the usability of navigation in and between the ‘get benefits’ and ‘manage benefits’ sections
 * Assess the labeling of health hub section
-* Gain insight into user mental models as they learn, apply, and manage their benefits and care
+* Gain insight into user mental models as they get and manage their benefits and care
+
+
+At this stage it would be ideal to focus mainly on overall high-level results for each of the hypothesis — Baseline, H0 and H1 and not each of the questions asked (Optimal Workshop provides a large amount of data on many metrics at this lower level). The metrics to focus on are:
+
+* Overall Success: The Success score refers to the percentage of participants who selected a correct answer, regardless of whether or not they had to jump around the tree a few times before doing so.
+* Overall Directness: The Directness score is the percentage of participants who did not backtrack at all when selecting an answer, whether their answer was correct or incorrect. It attempts to measure how certain participants were in selecting their answer, though it's important to not assume too much about what your participants were thinking.
+* Time Taken: The time taken score is a box plot of the recorded task completion times. Participants who took longer than 100 seconds to complete a task are excluded.
+* Optimal Workshop also provides a weighted average of the squares (^2) of success and directness that favors success over directness. This is a number that we will record, but it's usefulness to our study is not determined yet.
+
+Restricting our focus to these overall scores at this stage should guide us to next steps and help us determine if a closer/deeper look at more specific metrics is warranted.
 
 
 ### Hypotheses
