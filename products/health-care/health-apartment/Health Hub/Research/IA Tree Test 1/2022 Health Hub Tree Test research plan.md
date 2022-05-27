@@ -317,8 +317,10 @@ H1: Health care - Get health care benefits - About VA health benefits - Costs of
 
 **As a family member or caregiver, you want to know if you can get dental benefits through VA. (G)**
 
-  1. Baseline: Health care - Get benefits - Family health benefits
- Baseline: Family member benefits
+  1. Baseline: Health care - Get benefits - Family health benefits 
+  Baseline: Family member benefits 
+  Baseline: Get benefits - About VA health benefits - Dental care 
+  Baseline: Health care - More resources - Health needs and conditions - Health topics A-Z
   2. H0: My Health - VA health care benefits - Coverage - Family and caregiver benefits
   3. H1: Health care - Get health care benefits - More veteran VA health care services and programs - VA Dental Insurance Program (VADIP)
  H1: Health care - Get health care benefits - Family and caregiver benefits
