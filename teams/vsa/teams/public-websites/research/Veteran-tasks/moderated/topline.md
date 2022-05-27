@@ -35,5 +35,15 @@ We talked to **7 people (4 Veterans, 1 Caregiver of a Veteran, 1 Dependent of a 
 7. Two participants **didn't scroll on the task importance question** and so didn't see the full task list. 
 8. Two people said that the **long list of tasks was overwhelming** and recommended breaking them down into categories. The other 5 participants thought the list was OK as is.
 
+### Number of tasks marked as "important"
+The task importance question included in the survey during this research was worded as follows: 
+*Please check the VA-related tasks below that are most important to YOU personally right now, no matter how you do them (in person, on the phone, or online).* 
+
+Originally, the survey asked people to "select about 10 tasks" and didn't specify timeframe (past, present, future) or modality of interaction with the VA. Based on experiences during piloting, we removed "about 10 tasks" from the question (to reduce cognitive load) and added the timeframe and modality (to improve clarity).
+
+9. From the list of 41 VA-related tasks presented in the survey, research **participants selected an average of 13 tasks (ranging from 3 to 26) as important**. 
+- The two people who selected only 3 tasks were a service member (for whom most VA-related tasks were irrelevant) and a Veteran (who was only using the VA education benefit and interpreted "right now" in the question quite literally, even though she was interested in using other benefits in the future). 
+- The two people who selected the greatest numbers of tasks (21 and 26) were a Veteran's caregiver and a Veteran--both of which were interested in exploring many VA benefits that they haven't yet tried.
+
 ## Next Steps
 From data synthesis, I will put together a list of revisions for the survey before launching it to more people.
