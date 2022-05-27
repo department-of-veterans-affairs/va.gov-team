@@ -185,7 +185,7 @@ We want to recruit 15 Veterans for an expected completion of 10-12 studies.
      * _Viewing VA prescription history_
      * _Tracking a VA prescription package_
      * _Renewing a VA prescription_
-* Diverse participants in age, gender, race/ethnicity, cognitive ability, and use of assistive technology
+* Diverse participants in age, gender, race/ethnicity, and cognitive ability
 
 #### Secondary Criteria (nice-to-haves)
 
