@@ -80,13 +80,11 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 1. Users were able to successfully complete many basic health-related tasks.
 
-2. Most users (10/11) logged in using the embedded sign in/create an account button.
+2. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.
 
-3. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.
+3. Users were confused about certain terms including "Pending" and "Blue Button".
 
-4. Users were confused about certain terms including "Pending" and "Blue Button".
-
-5. Users did not find the "Pre-check in" link in the "In This Section" menu.
+4. Users did not find the "Pre-check in" link in the "In This Section" menu.
 
 
 # Details of Findings 
@@ -95,21 +93,12 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 Labels: 
 
-The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment.
+The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment. This was consistent with the previous round of testing.
 
-> This is fewer steps and also less time trying to find the Rx I want. It would be really nice to refill all eligible. It's way easier to remember one click over four clicks; a blind person tries to memorize the steps.(P8, Participant, when he noticed the "Refill all eligible perscriptions" link)
-
-
-**2. Most users (10/11) logged in using the embedded sign in/create an account button.**
-
-Labels: 
-
-Need content here ->
-
-> It would give me a total sign in. It would sign me in to all of this. (P2, Participant, noticing that signing in would give him access to information in a single place that is currently on multiple sites)
+> I would click on the appointment details and get everything I need. (P6, Participant)
 
 
-**3. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.**
+**2. Most users (6/7) were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.**
 
 Labels: 
 
@@ -119,16 +108,18 @@ Labels:
 - 1 of the 9 users tried to use it to navigate to the home page which is not possible.
 - 4 of the 9 users interacted with the menu after prompting for the moderator (ie. Do you see a way that you can do that on this page?)
 
+In the previous round of research with a desktop, protoype participants were able to navigate using the sub-navigation in the left rail, but struggled with navigating from the main page to sub-pages and back using the bread crumbs.
+
 > If you had a question about your messages- well . . . I don't know, maybe I'd just have to see if there's a FAQ or something or option to click for help in "Message menu". (P1, participant)
 
 
-**4. Users were confused about certain terms including "Pending" and "Blue Button".
+**3. Users were confused about certain terms including "Pending" and "Blue Button".
 Labels:
 
 50% of participants had heard of Blue Button and understand what it did or had used it before.  None of the participants knew that Pending appointments had not yet been confirmed by the VA.
 
 
-**5. Users did not find the "Pre-check in" link in the "In This Section" menu.
+**4. Users did not find the "Pre-check in" link in the "In This Section" menu.
 
 Labels:
 
@@ -138,9 +129,8 @@ None of the participants expected to find
 
 # Additional Insights
 
-- Mail
-- Sort
-- Search
+- Most users (10/11) logged in using the embedded sign in/create an account button. The eleventh user talked about both the button and the link at the top of the page.
+- Some users confused the VA.gov header menu and footer links with MHV content.
 
 # Recommendations
 
@@ -151,7 +141,7 @@ None of the participants expected to find
 
 # Next Steps
 
-Our next steps are to bring these findings to our design team and iterate on our prototype. We will incorporate these recommendations into our next round of usability testing, which is focused on testing a mobile version of these designs. 
+Our next steps are to bring these findings to our design team and iterate on our prototype. We will incorporate these recommendations into our next round of usability testing, which will be focused on messaging. 
 
 
 # Appendix
