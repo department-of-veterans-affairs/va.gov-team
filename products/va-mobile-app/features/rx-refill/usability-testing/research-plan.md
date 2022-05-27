@@ -211,7 +211,7 @@ Date and time of pilot session: TBD
 
 ### Research Sessions
 
-We plan to run sessions from June 6th - June 15th, 2022.
+We plan to run sessions from June 8th - June 17th, 2022.
 
 ### Length of Sessions
 
@@ -226,22 +226,6 @@ Moderator is on Pacific Time, please schedule after 11am ET to accommodate.
    <td><strong>SESSION DATE</strong>
    </td>
    <td><strong>AVAILABILITY </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>6/6/22
-   </td>
-   <td>11am-12pm ET
-<p>
-2pm-7pm ET
-   </td>
-  </tr>
-  <tr>
-   <td>6/7/22
-   </td>
-   <td>11am-12pm ET
-<p>
-3pm-7pm ET
    </td>
   </tr>
   <tr>
@@ -284,6 +268,22 @@ Moderator is on Pacific Time, please schedule after 11am ET to accommodate.
    <td>6/15/22
    </td>
    <td>12pm-7pm ET
+   </td>
+  </tr>
+  <tr>
+   <td>6/16/22 (if needed)
+   </td>
+   <td>11am-12pm ET
+ <p>
+ 3pm-7pm ET
+   </td>
+  </tr>
+  <tr>
+   <td>6/17/22 (if needed)
+   </td>
+   <td>12pm-2pm ET
+ <p>
+ 3pm-7pm ET
    </td>
   </tr>
 </table>
