@@ -41,19 +41,23 @@ This accounts for unplanned requests that come in regularly from our VFS product
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
 | Ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review  | In progress |
-| Publish top 10 plain language standards in content style guide | OCTO leads capacity  | Page published | Complete |
-| Deliver initial plain language and content design training to non-OCTO content authors | OCTO leads capacity  | Initial training session delivered to 250+ non-OCTO content authors | Complete |
+| Publish top 10 plain language standards in content style guide | OCTO lead capacity  | Page published | Complete |
+| Deliver initial plain language and content design training to non-OCTO content authors | OCTO lead capacity  | Initial training session delivered to 250+ non-OCTO content authors | Complete |
+| Publish Drupal knowledge base article with Danielle's plain language training session video | OCTO lead capacity | Page published | In progress |
 
 #### OKR: Reduce the time it takes for Veterans to find, use, and receive VA services.
 
 - Increase translated content volume 
 - Increase quantity of new, select content types 
-Retire legacy content pages by replacing them with content on Modernized experience
+- Retire legacy content pages by replacing them with content on Modernized experience
 - Decrease time to access the Auth Experience and increase use of the Authenticated experience
 
-| Initiatives | Dependencies | Measurements | Status |
-| ---- | ---- | ---- | ---- |
-| Create process and supporting materials for translation coordination with State Department IAA | OCTO leads capacity | Process and materials completed | In progress |
+| Initiatives | Dependencies | Measurements | Status | OKR |
+| ---- | ---- | ---- | ---- | ---- |
+| Create process and supporting materials for translation coordination with State Department IAA | OCTO lead capacity | Process and materials completed | In progress | Increase translated content volume |
+| Coordinate translation for check-in experience app and 1095b product | OCTO lead and team capacity | Initial translation complete (will be ongoing for check-in) | In progress | Increase translated content volume |
+| Finalize content strategy and IA recommendations for community care content migration | OCTO lead and IA  capacity | Content strategy and IA recommendations delivered | In progress | Retire legacy content pages by replacing them with content on Modernized experience|
+| Publish reworked travel pay reimbursement page + supporting R&S article | OCTO lead and team capacity; VHA partner reviews | Content published | In progress | Decrease time to access the Auth Experience and increase use of the Auth experience |
 
 
 
@@ -76,6 +80,29 @@ This accounts for unplanned requests that come in regularly from our VA partners
 This accounts for unplanned requests that come in regularly from our VFS product teams. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
 
 ### Q3
+
+#### OKR: Increase the accessibility, reliability, and security of Veteran’s digital services.
+
+- Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content.
+- Reduce defects (508, plain language etc) produced by editors in the CMS 
+
+#### OKR: Reduce the time it takes for Veterans to find, use, and receive VA services.
+
+- Increase translated content volume 
+- Increase quantity of new, select content types 
+- Retire legacy content pages by replacing them with content on Modernized experience
+- Decrease time to access the Auth Experience and increase use of the Authenticated experience
+
+| Initiatives | Dependencies | Measurements | Status |
+| Migrate Veteran and family member community care and copay/billing content to modernized VA.gov and retired legacy pages | OCC and Sitewide content and IA team capacity | Migrated Drupal content published and legacy pages retired/redirected | In progress |
+| Publish new life insurance content to retire 6 life insurance pages | OCTO lead and team capacity; VBA partner reviews | Drupal content published and legacy pages retired/redirected | Retire legacy content pages by replacing them with content on Modernized experience |
+
+
+
+
+| Initiatives | Dependencies | Measurements | Status |
+| ---- | ---- | ---- | ---- |
+
 
 #### Outcome 1
 
