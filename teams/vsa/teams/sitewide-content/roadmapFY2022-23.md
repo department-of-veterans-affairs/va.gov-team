@@ -1,10 +1,9 @@
-# Sitewide content roadmap
+# Sitewide content and IA roadmap (updated to include translation)
 
 ## High-level objectives and impact
-- **Team mission:** 
-- **OCTO OKR:** 
-- **Sitewide crew OKR:** 
-- **How this maps to the Veteran impact:** 
+
+### Sitewide objective
+Increase VA's ability to deliver consistent, accessible, quality information across the digital ecosystem.
 
 ## FY2022-2023 roadmap
 
@@ -16,8 +15,7 @@
 
 ### Q1
 
-#### Outcome 1
-
+#### OKRs
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
@@ -35,13 +33,31 @@ This accounts for unplanned requests that come in regularly from our VFS product
 
 ### Q2
 
-#### Outcome 1
+#### OKR: Increase the accessibility, reliability, and security of Veteran’s digital services.
 
-Veterans have more single-source-of-truth content.
+- Decrease duplicative content on VA.gov through creation/use of Create-Once-Publish-Everywhere (COPE) Content.
+- Reduce defects (508, plain language etc) produced by editors in the CMS 
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| Ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review  | Backlog |
+| Ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review  | In progress |
+| Publish top 10 plain language standards in content style guide | OCTO leads capacity  | Page published | Complete |
+| Deliver initial plain language and content design training to non-OCTO content authors | OCTO leads capacity  | Initial training session delivered to 250+ non-OCTO content authors | Complete |
+
+#### OKR: Reduce the time it takes for Veterans to find, use, and receive VA services.
+
+- Increase translated content volume 
+- Increase quantity of new, select content types 
+Retire legacy content pages by replacing them with content on Modernized experience
+- Decrease time to access the Auth Experience and increase use of the Authenticated experience
+
+| Initiatives | Dependencies | Measurements | Status |
+| ---- | ---- | ---- | ---- |
+| Create process and supporting materials for translation coordination with State Department IAA | OCTO leads capacity | Process and materials completed | In progress |
+
+
+
+
 | Benefit hub optimization: Disability | ---- | ---- | ---- |
 | Benefit hub optimization (partial): Health care | ---- | ---- | ---- |
 | Implement new Cerner alert pattern and new tool landing page pattern across tool landing pages (need public websites partnership for health pages) | ---- | ---- | ---- |
@@ -65,7 +81,6 @@ This accounts for unplanned requests that come in regularly from our VFS product
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| Create MVP training program (OCTO) | Backlog |
 | Expand style guide: Iterate on error message style guide and dictionary (OCTO) | ---- | ---- | ---- |
 | Benefit hub optimization (full): Health care | ---- | ---- | ---- |
 | Benefit hub optimization: Education | ---- | ---- | ---- |
