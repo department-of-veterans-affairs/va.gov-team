@@ -82,10 +82,10 @@ We will conduct remote moderated directed interviews via Zoom with Veterans that
 
 ## Recruitment	
 
-We are seeking to perform this test with 10 participants
+We are seeking to perform this test with 10 participants total max
 
-- VA call center employees 
-- Veterans that had used Tier 1 call center services 
+- VA call center employees (3-5)
+- Veterans that had used Tier 1 call center services (3-5)
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
