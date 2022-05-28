@@ -80,11 +80,11 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 # Key Findings
 
 1. MSAs see value in allowing editing of demographic information in pre-check-in. 
-1. Some staff felt that the roll out lacked proper training. Based on our observations, staff would benefit from training on a variety of fronts. 
-1. Technical, network and cellular service have been the root of some staff unhappiness, however, most see the potential with check-in when those issues are resolved. 
-1. Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options. 
-1. Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS. 
-1. Inconsistencies in how clinicians and clinics complete pre-registration with patients for telephone appointments. 
+1. Some staff felt that the roll out lacked proper communication and training. Staff would benefit from training on a variety of fronts. E.g., how to use Workflows in VSE-CS, how to fix specific "hard stops" during check-in, when MSAs should check in Veterans themselves, etc. The amount of training MSAs received was a major factor on whether they felt their job was greatly impacted. Some MSAs are using VSE-CS, which was not the original intent. Often to avoid the “lag” between systems, the want to use fewer systems or for reasons we do not yet understand. 
+1. Technical and network issues have been the root of some staff unhappiness, however most see the potential of check-in when those issues are resolved.
+1. Staff had a variety of recommendations for VSE-CS, including more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name and filtering options in Workflow. 
+1. Some staff see value in adding patients flags to VSE-CS, while others are content with using CPRS. 
+1. Each clinic handles pre-registration for patients with telephone appointments differently.
 
 [Companion study research findings with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md)
 
@@ -98,7 +98,7 @@ MSAs felt that allowing Veterans to edit their information in pre-check-in would
 
 > _If the Veteran does pre-check-in, it saves us time. They should be able to update their demographic information in pre-check-in._
 
-**Some staff felt that the roll out lacked proper training. Based on our observations, staff would benefit from training on a variety of fronts.**
+**Some staff felt that the roll out lacked proper communication and training. Based on our observations, staff would benefit from training on a variety of fronts. Some MSAs are using VSE-CS, which was not the original intent. Often to avoid the “lag” between systems, the want to use fewer systems or for reasons we do not yet understand.**
 
 Direction on how to use VSE-GUI and VSE-CS seemed inconsistent at times across clinics or individual MSAs. For example, some MSAs were instructed to use VSE-CS for specific activities, while others weren't. And, some MSAs were more persistent in requiring Veterans to use mobile check-in vs. simply using VSE-GUI to check them in. 
 
@@ -120,17 +120,15 @@ Two OT's were very unhappy with VSE-CS, primarily because of its slowness in upd
 
 > _Some Veterans don’t get good cellular service in the office. In addition, many of the Veterans do not have unlimited plans, so they get charged for each text message. Sometimes, cellular service may be turned off too and the Veteran doesn’t know how to connect to WiFi or turn off airplane mode._
 
-**Staff had a variety of recommendations for VSE-CS, including more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient record, ability to check Veterans in and filtering options.**
+**Staff had a variety of recommendations for VSE-CS, including more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name and filtering options in Workflow.**
 
 - Many clinicians mentioned they’d like to see alerts in VSE-CS that persist to notify them that patients are checked in and ready to be seen. Or, highlight the row when statuses change. 
-- Would like to see visual indicators like sounds, colors, flashing, etc. to know that the screen has refreshed and there is new information. 
-- One OT requested that alerts be sent to their VA pager when a patient checks in. This solution was proposed because the OT does not have a laptop and has to go back to their office to find out if their patient has arrived. 
-- Two clinicians talked about the need for an “other” option in the Workflow dropdown that offered a text input.
+- Would like to see visual indicators, like sounds, colors, flashing, etc., to know that the screen has refreshed and there is new information. 
+- One OT requested that alerts be sent to their VA pager when a patient checks in. This solution was proposed because the OT does not have a laptop and has to go back to their office to find out if their patient has arrived. (Other clinics also had clinicians that don’t have easy access to a computer.)  
 - Adding last 4 digits of SSN in VSE-CS seemed helpful to most clinicians and MSAs. 
-- One nurse requested the ability to assign the Workflow to a specific user so the provider knows which nurse to look for to find the patient instead of having to track down each nurse individually to locate the patient. 
-- The MSAs in the Speciality Clinic would like the patient summaries to print out automatically when the patient checks in. They’d like to see the patient’s future appointments added to the Patient Summary. And, they would like to see the patient’s current medications on the Patient Summary, but not discontinued medications. 
-- We heard multiple times that MSAs would like to check patients in with VSE-CS. 
-- One nurse would like the ability to use filters to shorten the list of patients by check-in status in VSE-CS, such as only show checked in patients.
+- Two clinicians talked about the need for an “other” option in the VSE-CS’s Workflow dropdown that offered an open text box. E.g., to document which provider the patient is with or enter information specific to their clinic. (It was mentioned this option was available in the previous system.) 
+- The MSAs in the Speciality Care clinic would like the patient summaries to print out automatically when the patient checks in. They’d like to see the patient’s future appointments added to the Patient Summary, as well as current medications, but not discontinued medications. 
+- One nurse would like the ability to use filters to shorten the list of patients by check-in status in VSE-CS, such as only show checked-in patients.
 
 **Some staff see value in adding patient flags to VSE-CS, while others are content with using CPRS.**
 
@@ -144,7 +142,7 @@ Two OT's were very unhappy with VSE-CS, primarily because of its slowness in upd
 
 > _The flag should pop up when the patient checks in._
 
-**Inconsistencies in how clinicians and clinics complete pre-registration with patients for telephone appointments.**
+**Each clinic handles pre-registration for patients with telephone appointments differently.**
 
 Some clinics do more telephone appointments than others, typically based on the speciality, treatment, etc. E.g., physical therapy can’t not do phone appointments. 
 
@@ -155,29 +153,35 @@ One provider was asking whether or not they could check a patient in through VSE
 # Recommendations
 
 * **Pre-check-in**
-    * Explore opportunities to increase utilization of pre-check-in with Veterans (to ensure it doesn't "get lost.") For example, communicating the value to Veterans, test new text message variations, send the text message multiple times if not completed, send text message at a different time or day after confirminng their appointment, move pre-check-in link into initial text message, introduce email for pre-check-in, etc. 
-    * Consider implementing editing of demograhpic information in pre-check-in. 
+    * Explore opportunities to increase utilization of pre-check-in with Veterans (and ensure it doesn’t “get lost”). 
+        * Communicate the value to Veterans (in marketing communications, text message, etc.) 
+        * Test new text messages (e.g., test moving the pre-check-in link into initial confirmation text message) 
+        * Send text message at a different time or day after confirming their appointment
+        * Send pre-check-in message multiple times, if not completed
+        * Introduce email for pre-check-in 
+    * Consider implementing editing of demographic information in pre-check-in.  
 
 * **Check-in**
-    * Consider implementing a push SMS message on day of appointment knowing that Veterans are arriving earlier than 30 minutes for check-in. And, consider increasing the check-in window beyond 30 minutes. 
-    * Look for opportunities (via an audit) to provide more context in error messages in VA.gov to expedite check-in process for Veterans and staff. 
-    * Work with engineers to replicate (and correct, if possible) the scenario where users are starting lower on the page after identify verification. 
-    * Explore oppportunities to improve the CHIP text response when 0 appointments are found. E.g., avoid Veteran confusion if/when directed to va.gov/find-locations. 
+    * Consider implementing a push text message on day of appointment, e.g., pushing the check-in link out to Veterans (knowing that Veterans are arriving earlier than 30 minutes). And, consider increasing the check-in window beyond 30 minutes. 
+    * Look for opportunities (via an audit) to provide more context in error messages on VA.gov pages to expedite check-in process for Veterans and staff.
+    * Explore opportunities to improve the CHIP text response when 0 appointments are found. E.g., avoid Veteran confusion if/when directed to va.gov/find-locations.   
+    * Work with engineers to replicate (and correct, if possible) the scenario where users are starting lower on the page after identity verification.  
 
 * **Check-in poster**
-    * Consider finding a way to include the “30 minute window” message into the poster to increase Veteran satisfaction. In addition, consider adding a VA logo to the poster to add credibility and authenticity.
-    * Consider testing a poster option without a QR code (knowing that it’s troublesome for some Veterans and devices). 
-    * Look into creating guidelines for poster placement in clinics. In addition, look for opportunities for Human Centered Designers to offer assistance at clinics when setting up posters. 
+    * Consider finding a way to include the “30 minute window” message into the poster to increase Veteran satisfaction. In addition, consider adding a VA logo to the poster to add credibility and authenticity.  
+    * Consider testing a poster option where text option is primary and QR code is secondary (knowing that it’s troublesome for some Veterans and devices). 
+    * Look into creating recommendations and guidelines for poster placement in clinics. Or, look for opportunities for Human Centered Designers to offer assistance at clinics when setting up posters. 
 
 * **Back of the house**
-    * Continue to look for opportunities to improve lag time between VSE-GUI and VSE-CS, which was a staff frustration. 
-    * Share knowledge with training team on observations and feedback heard from staff on the desire for more training opportunities and creating consistencies between clinics on using VSE-GUI and VSE-CS, how to assist Veterans with check-in, when to go ahead and check in some Veterans, how to fix hard stops, etc.  
-    * Share knowledge with training team on success of staff member helping Veterans in the clinic waiting room for check-ins. Recommend piloting at other clinics during VISN roll outs. 
-    * Work with staff-facing check-in team to share knowledge on suggested improvements from staff on VSE-CS. E.g., more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient name, ability to check in, filtering options in Workflow, etc. 
+    * Continue to look for opportunities to improve lag time between VSE-GUI and VSE-CS. 
+    * Share knowledge with stakeholders and training team about the impact that training has on MSA’s workload and usage of VSE-GUI and VSE-CS. I.e., with a goal to create better consistencies on how staff use these systems, how they work with Veterans to get checked in and how to mitigate when Veterans reach hard stops. 
+    * Talk to more MSAs to understand why they’re using VSE-CS. 
+    * Share knowledge with stakeholders and training team on successes of a dedicated staff member helping Veterans with check-in. As a result, recommend testing at high-volume clinics. 
+    * Work with VSE-CS team to understand and prioritize suggested improvements to VSE-CS. E.g., more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name, filtering options in Workflow, etc. 
 
 * **Feature enhancements**
     * Talk with additional staff to understand if patient record flags are desirable in VSE-CS.
-    * Discuss telephone appointment findings with check-in team to determine if additional gaps exist prior to piloting. 
+    * Cross-reference telephone appointment findings with usability testing findings to determine if additional gaps exist prior to piloting. 
     * Prioritize feature enhancements with product owners, including:  
         * Integration of travel reimbursement into check-in 
         * Ability for caregivers to check in for Veterans 
