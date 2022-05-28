@@ -93,7 +93,7 @@ We also observed and interviewed a variety of VA staff who have a role in the ch
 
 Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: User Acceptance Testing, RESRCH: Interviews, VETSJNY: Taking care of themselves
 
-**There's a large population of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes much faster.**
+**There's a large cohort of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes in a more streamlined manner.**
 
 Of the 59 Veterans we spoke with, 17 (or 29%) either did not have a mobile device with a data plan or were unable or willing to use the mobile check-in process. 
 
@@ -125,7 +125,7 @@ And, of the 42 (or 71%) that did use the check-in process, a mixed sentiment was
 
 > _Veterans feel like they're being hacked and tracked._
 
-**Pre-check-in was not widely used by Veterans because it's overlooked when confirming their appointment with VeText.**
+**Pre-check-in was not widely used by Veterans because it's overlooked and conflated with the initial appointment confirmation message.**
 
 When asked if Veterans remember completing pre-check-in, almost all either thought, a) they completed it by confirming their appointment through text message, or b) they weren't aware it existed. 
 
@@ -149,7 +149,7 @@ We learned that it can be frustrating for Veterans, especially those that requir
 
 We also heard from clinicians that they like to know if their patients are there early because there's a chance they can be seen earlier (especially for morning appointments). 
 
-**The new poster addressing low vision concerns was successful, but requires additional testing with low-vision participants.**
+**The new poster addressing low vision concerns was initially successful, but requires additional testing with low-vision participants.  **
 
 No Veterans we spoke with had difficulties being able to read the new poster. 
 
@@ -161,7 +161,7 @@ This in turn created a small waiting line at some clinics for staff to provide h
 
 In addition, check-in posters were often competing with other posters for real estate. E.g., posters on safety, COVID-19, visitors, etc. 
 
-**Network and cell signal strength are variable between clinics. 3-15 seconds to receive second text message from VeText. 5-15 seconds for VA.gov to load.**
+**Network and cell signal strength are variable between clinics: 3-15 seconds to receive second text message from VeText, 5-15 seconds for VA.gov to load.**
 
 Initial response from VeText following “check in” text was immediate. The second message from VeText took 3-15 seconds on average to arrive. Although not a lengthy time, it had the potential to create a line at the MSA counter. 
 
@@ -169,7 +169,7 @@ Depending on the strength of cell service for the Veteran’s mobile device, it 
 
 And, at times, we observed that the Contact Information page was slow to load. There were a few scenarios where the bottom of the page loaded first, requiring the Veteran to scroll up to view the question.  
 
-**Work has increased for many MSAs as a result of helping Veterans with check-in. However, Veterans appreciate the help and have a much better first time experience.**
+**Veterans appreciate the help from MSAs when checking in. However, it’s increased the workload of many MSAs.**
 
 Most MSAs still interacted with Veterans because of their proximity to the clinic entrance. Other reasons included: 
 
@@ -188,29 +188,35 @@ Although MSAs ensured all Veterans were checked in to VSE-GUI, many still messag
 # Recommendations
 
 * **Pre-check-in**
-    * Explore opportunities to increase utilization of pre-check-in with Veterans (to ensure it doesn't "get lost.") For example, communicating the value to Veterans, test new text message variations, send the text message multiple times if not completed, send text message at a different time or day after confirminng their appointment, move pre-check-in link into initial text message, introduce email for pre-check-in, etc. 
-    * Consider implementing editing of demograhpic information in pre-check-in. 
+    * Explore opportunities to increase utilization of pre-check-in with Veterans (and ensure it doesn’t “get lost”). 
+        * Communicate the value to Veterans (in marketing communications, text message, etc.) 
+        * Test new text messages (e.g., test moving the pre-check-in link into initial confirmation text message) 
+        * Send text message at a different time or day after confirming their appointment
+        * Send pre-check-in message multiple times, if not completed
+        * Introduce email for pre-check-in 
+    * Consider implementing editing of demographic information in pre-check-in.  
 
 * **Check-in**
-    * Consider implementing a push SMS message on day of appointment knowing that Veterans are arriving earlier than 30 minutes for check-in. And, consider increasing the check-in window beyond 30 minutes. 
-    * Look for opportunities (via an audit) to provide more context in error messages in VA.gov to expedite check-in process for Veterans and staff. 
-    * Work with engineers to replicate (and correct, if possible) the scenario where users are starting lower on the page after identify verification. 
-    * Explore oppportunities to improve the CHIP text response when 0 appointments are found. E.g., avoid Veteran confusion if/when directed to va.gov/find-locations. 
+    * Consider implementing a push text message on day of appointment, e.g., pushing the check-in link out to Veterans (knowing that Veterans are arriving earlier than 30 minutes). And, consider increasing the check-in window beyond 30 minutes. 
+    * Look for opportunities (via an audit) to provide more context in error messages on VA.gov pages to expedite check-in process for Veterans and staff.
+    * Explore opportunities to improve the CHIP text response when 0 appointments are found. E.g., avoid Veteran confusion if/when directed to va.gov/find-locations.   
+    * Work with engineers to replicate (and correct, if possible) the scenario where users are starting lower on the page after identity verification.  
 
 * **Check-in poster**
-    * Consider finding a way to include the “30 minute window” message into the poster to increase Veteran satisfaction. In addition, consider adding a VA logo to the poster to add credibility and authenticity.
-    * Consider testing a poster option without a QR code (knowing that it’s troublesome for some Veterans and devices). 
-    * Look into creating guidelines for poster placement in clinics. In addition, look for opportunities for Human Centered Designers to offer assistance at clinics when setting up posters. 
+    * Consider finding a way to include the “30 minute window” message into the poster to increase Veteran satisfaction. In addition, consider adding a VA logo to the poster to add credibility and authenticity.  
+    * Consider testing a poster option where text option is primary and QR code is secondary (knowing that it’s troublesome for some Veterans and devices). 
+    * Look into creating recommendations and guidelines for poster placement in clinics. Or, look for opportunities for Human Centered Designers to offer assistance at clinics when setting up posters. 
 
 * **Back of the house**
-    * Continue to look for opportunities to improve lag time between VSE-GUI and VSE-CS, which was a staff frustration. 
-    * Share knowledge with training team on observations and feedback heard from staff on the desire for more training opportunities and creating consistencies between clinics on using VSE-GUI and VSE-CS, how to assist Veterans with check-in, when to go ahead and check in some Veterans, how to fix hard stops, etc.  
-    * Share knowledge with training team on success of staff member helping Veterans in the clinic waiting room for check-ins. Recommend piloting at other clinics during VISN roll outs. 
-    * Work with staff-facing check-in team to share knowledge on suggested improvements from staff on VSE-CS. E.g., more visual alerts, text box option for Workflow status, adding last 4 digits of SSN to patient name, ability to check in, filtering options in Workflow, etc. 
+    * Continue to look for opportunities to improve lag time between VSE-GUI and VSE-CS. 
+    * Share knowledge with stakeholders and training team about the impact that training has on MSA’s workload and usage of VSE-GUI and VSE-CS. I.e., with a goal to create better consistencies on how staff use these systems, how they work with Veterans to get checked in and how to mitigate when Veterans reach hard stops. 
+    * Talk to more MSAs to understand why they’re using VSE-CS. 
+    * Share knowledge with stakeholders and training team on successes of a dedicated staff member helping Veterans with check-in. As a result, recommend testing at high-volume clinics. 
+    * Work with VSE-CS team to understand and prioritize suggested improvements to VSE-CS. E.g., more visual alerts for status changes, open text box option for Workflow status, adding last 4 digits of SSN to patient name, filtering options in Workflow, etc. 
 
 * **Feature enhancements**
     * Talk with additional staff to understand if patient record flags are desirable in VSE-CS.
-    * Discuss telephone appointment findings with check-in team to determine if additional gaps exist prior to piloting. 
+    * Cross-reference telephone appointment findings with usability testing findings to determine if additional gaps exist prior to piloting. 
     * Prioritize feature enhancements with product owners, including:  
         * Integration of travel reimbursement into check-in 
         * Ability for caregivers to check in for Veterans 
