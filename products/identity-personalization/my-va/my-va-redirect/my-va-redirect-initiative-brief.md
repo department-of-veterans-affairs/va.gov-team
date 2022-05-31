@@ -155,7 +155,7 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - June 2022 (exact date tbd)
+  - Summer 2022 (exact date tbd)
 - *Actual Launch Date* 
   - tbd
 
