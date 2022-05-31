@@ -15,7 +15,7 @@
 
 ### Agenda
 - Recurring event launch and planned comms/training
-- New CM tactic: (announcement block)[https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9122]
+- New CM tactic: [announcement block](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9122)
 - Look ahead
 
  ## May 3, 2022
