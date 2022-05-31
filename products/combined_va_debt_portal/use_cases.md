@@ -23,11 +23,12 @@ searches and gets no results.", etc.
 <details>
 <summary>[click to expand/collapse a short list of all use cases]</summary>
   
-- [Use Case A - Veteran only has a debt](#use-case-a---TBD)
-- [Use Case B - Veteran only has a copay bill](#use-case-b---TBD)
-- [Use Case C - Veteran has neither a copay bill nor a debt](#use-case-c---TBD)
-- [Use Case D - Veteran is not enrolled in healthcare](#use-case-d---TBD)
-- [Use Case E - Veteran has both a copay bill and debt](#use-case-e---TBD)
+- [Use Case A - Veteran only has a debt](#use-case-a----veteran-only-has-a-debt)
+- [Use Case B - Veteran only has a copay bill](#use-case-b---veteran-only-has-a-copay-bill)
+- [Use Case C - Veteran has neither a copay bill nor a debt](#use-case-c---veteran-has-neither-a-copay-bill-nor-debt)
+- [Use Case D - Veteran is not enrolled in healthcare](#use-case-d---veteran-is-not-enrolled-in-healthcare)
+- [Use Case E - Veteran has both a copay bill and debt](#use-case-e---veteran-has-both-a-copay-bill-and-debt)
+- [Notes - Additional error states, 404s, and variations](#notes)
 
 </details>
 
