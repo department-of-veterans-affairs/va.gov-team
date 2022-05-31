@@ -93,7 +93,7 @@ Do you see the amounts in a different color than the other text? What color is i
 
 ### Things to watch for:
 
-- Do users refer to debts and copays as bills? 
+- Do users understand these amounts are due? What info is most prominent currently? Does that line up with what they say is the most important piece of information?
 - Do the alerts stand out to the participant?
 - Do they mention anything about alerts being on top and mixed into sections of the page?
 - Is the link sufficient for participants to take action from the payment section?
