@@ -23,7 +23,7 @@
 
 ### Recurring events
 
-  - project launch: June 6
+  - project launch: looking at June 6
   - revisit comms approach and timing
 
 ### Steve's suggestions (via email)
