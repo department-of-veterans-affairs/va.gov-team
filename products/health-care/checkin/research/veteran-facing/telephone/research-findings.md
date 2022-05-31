@@ -206,34 +206,46 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
   - Our participant sample is biased towards mobile and may not represent the larger Veteran population.
 
 # Recommendations
-1. Enabling pre-check-in for telephone appointments is valuable to Veterans, so we should continue with implementation.
-2. Keep the name “Pre-check-in.”
-3. Explore/revisit adding health questionnaires (AKA digital health forms), a medication review, and editing contact information to pre-check-in.
+- Enabling pre-check-in for telephone appointments is valuable to Veterans, so we should continue with implementation.
+- Keep the name “Pre-check-in.”
+- Explore/revisit adding health questionnaires (AKA digital health forms), a medication review, and editing contact information to pre-check-in.
   - This may help address the negative reaction to pre-check-in, because the current-state may be too minimal to add value for some Veterans.
-4. Evaluate and prioritize all the additional features mentioned by Veterans for pre-check-in, such as ‘Preferred phone number’ and ‘Provider’s name.’
-5. Update the VAOS link to the new wording ‘Sign in to manage all appointments’.
-6. Re-imagine the ‘too late’ messaging to reduce confusion.
+- Evaluate and prioritize all the additional features mentioned by Veterans for pre-check-in, such as ‘Preferred phone number’ and ‘Provider’s name.’
+- Update the VAOS link to the new wording ‘Sign in to manage all appointments’.
+- Re-imagine the ‘too late’ messaging to reduce confusion.
 
 # Appendix
 
-[Research plan]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/research-plan.md
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/research-guide.md)
 
-[Conversation guide]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/conversation-guide.md
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/telephone/session-notes)
 
-
-## Tools used for Synthesis
-
-Mural Board
+[Synthesis document](https://app.mural.co/invitation/mural/vsa8243/1652370780913?sender=uc940f53ad96ac0203d6d3631&key=7da1bf71-9b34-452e-b9b8-eeb2fb8d3d71)
 
 ## Who we talked to 
 
-**Recruitment criteria**
-
+- We tested with 13 participants
+  - 12 had a telephone appointment in the past 6 months; 1 via video
+  - 5 Android; 7 iOS
+  - 5 aged 55+
+  - 5 female; 7 male
+  - 2 identified LGTBQ+
+  - 6 live in rural areas
+  - 3 identified as Black, 4 as Hispanic, 1 as Asian, 2 as Native 
+  - 3 used an AT device
+    - Types of assistive technology included: 
+      - Magnification/Zoom
+      - Live caption phone
+      - Hearing aid
+  - 4 live with a cognitive disability
 
 ## Underserved groups we haven’t talked to 
+- Findings does not include the following underserved Veteran groups:
+  - Of immigrant origin
+  - Additional assistive technology (AT) devices
+- We recommend studies with these underserved groups in the future.
 
-_
-Screenshot of completed recruitment checker
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/Screen%20Shot%202021-11-29%20at%2010.53.27%20AM.png)
+Screenshot of [completed recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1943082993)
+<img width="672" alt="Screen Shot 2022-05-31 at 2 13 29 PM" src="https://user-images.githubusercontent.com/66287082/171256370-b0e30127-a25f-4291-9a96-65d58de02156.png">
