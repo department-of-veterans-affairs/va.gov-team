@@ -29,6 +29,12 @@
   - QA complete, next step is...
   - revisit comms approach and timing
 
+### Steve's suggestions (via email)
+
+  - Banner alert KB article
+  - Spinal Cord Injuries and Disorders hub detail pages
+  - getting each VAMC website to correctly identify and link to their facility’s Women Veteran Program Manager (WVPM)
+
 ## May 18, 2022
 
 ### Facilities COVID status update
