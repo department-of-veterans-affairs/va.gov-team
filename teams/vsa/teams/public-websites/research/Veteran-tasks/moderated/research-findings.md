@@ -1,60 +1,60 @@
-# [Study] Research Findings 
+# Veteran Top Tasks MODERATED Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: MM/DD/YYYY
+Date: 06/03/2022
 
-[Designer 1] [email], [Designer 2] [email]
-
-[Research Report PDF] (link here)
+Cindy Merrill [cindy.merrill@adhocteam.us]
 
 <br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#recommendations)
 
-[Who we talked to](insert link to section)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#further-research-needed)
 
-[Further research needed](insert link to section)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#appendix)
+
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#who-we-talked-to)
 
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the VA.gov home page. The goal of this research was to **get feedback from Veterans and others** (including Veterans' family members or caregivers, survivors, and service members) **on a survey designed to identify Veteran top tasks**. We wanted to get feedback on the tasks, questions, and instructions before launching the unmoderated survey to a large group of Veterans and others to complete independently (without a researcher present).
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+Veteran tasks fit into the Veteran journey throughout their lives:
+- Starting up (Serving in and separating from the military)
+- Living civilian life
+- Retiring and aging
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+1. When Veterans and others contact the VA, what tasks are most important to them?
+1. How many tasks do Veterans and others identify as important to themselves?
+1. What tasks are least important?
+1. Are there any tasks in the survey that are unclear or confusing?
+1. Are there any important tasks missing from the survey?
+1. Is there anything about the survey that is unclear or confusing?_Research questions here_
 
 # Methodology 
 
-_Brief description of method chosen_
+We conducted remote moderated research sessions via Zoom. Research participants were asked about VA-related tasks that they do, and then were given an online survey link to do while sharing their web browser screen and talking aloud.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks that were  synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The [list of tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx) was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
+
+In the survey, participants were asked to select which VA-related tasks were important to them personally right now (*not* for all Veterans). Participants were also asked if there were any VA-related tasks that were important to them that weren't on the list, and which tasks they do most frequently.
 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. Veterans and others will find the survey intuitive to use from desktop or mobile.
+1. Veterans and others will be able to select which of the VA-related tasks presented in the survey are most important to them.
+1. Veterans and others won't find any important tasks missing from the survey.
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
@@ -158,33 +158,21 @@ _If there are demographics that were not included in this study or you discovere
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/conversation-guide.md)
 
 [Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis spreadsheet](link here)
 
 
-## Pages and applications used
+## Survey used
 
 Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
