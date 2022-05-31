@@ -1,5 +1,17 @@
 ## Production Support
 
+### Summary
+
+Based on the CIE and TEVI team discussions, here is the current production support guidance for Check-in Experience team:
+
+- CIE Engineers will have a weekly rotation to provide production support
+- CIE Engineers will schedule the production support hours to be able to complement the support hours of CHIP team. Currently, that schedule is M - F, 1pm - 8pm Eastern Time
+- The support tasks for CIE Engineers are to proactively monitor the datadog dashboards ([Links](#links), [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) and [#check-in-go-live](https://dsva.slack.com/archives/C02UP02HHGX) slack channels.
+    - for any alerts in #check-in-experience-apm channel, perform initial debugging into the Sentry error message and the corresponding downstream error. If needed, alert the TEVI team by sending a message in #check-in-experience-engineering slack channel and tagging Charley and/or Michael Kimball
+    - for any anomaly in stats or error traces, alert the TEVI team by sending a message in #check-in-experience-engineering slack channel
+    - for any questions or issues in #check-in-go-live channel, perform initial debugging to identify/narrow down root cause. If needed, include Shane or Andy (for VistA, vista-api info), Rob Durkin (for VEText info) or Charley (for CHIP/LoROTA/Clinician Workflow info).
+
+### Links
 1. Clinician Workflow Stats: [https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true](https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true)
     - Sidekiq enqueued: shows the jobs currently enqueued in Sidekiq. This can increase if vista-apis start behaving anomalously (slow or erroring out)
     - Puma Backlog: if it starts increasing, puma can’t keep up with the incoming requests
