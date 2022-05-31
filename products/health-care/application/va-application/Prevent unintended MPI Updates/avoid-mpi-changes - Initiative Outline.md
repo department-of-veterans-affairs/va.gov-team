@@ -1,4 +1,4 @@
-# Prevent unintended MPI updates via 10-10ez
+# Prevent unintended MPI updates via 10-10ez (created prior to 5/2022, moved to its own folder)
 
 ## Outcome Summary
 Prevent unintended/inappropriate modifications to MPI when filling out the 10-10ez.
