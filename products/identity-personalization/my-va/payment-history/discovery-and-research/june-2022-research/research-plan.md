@@ -6,7 +6,7 @@ Throughout [My VA payment information research](https://github.com/department-of
 
 Since the addition of benefit payments and debts on My VA, the importance of financial information is also reflected in analytics, as viewing payments is a top interaction on My VA and managing debt has performed well since its launch in April 2022.
 
-This effort aims to iterate and build on the recent addition of benefit payments and debts by incorporating payment and debt details that will encourage action where necessary and include key pieces of information that veterans want to see on My VA.
+This effort aims to iterate and build on the recent addition of benefit payments and debts by incorporating payment and debt details that will encourage action where necessary and include key pieces of information that veterans want to see on My VA. This effort will also introduce outstanding copays on My VA.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history).
 
@@ -16,7 +16,7 @@ The iteration of a financial information section should help fulfill our north s
 
 ### Veteran Journey
 
-Since Veterans can incur debt any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
+Since Veterans can incur debt and receive payments any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
 
 ## Research Goals
 
@@ -59,18 +59,18 @@ We'll use the findings from this research to update the content and links in thi
 
 ### Hypothesis
 
-- We believe Veterans will find the bill information useful and be able to determine a path to resolve bills that are due from My VA.
+- We believe Veterans will find the bill information useful and will be able to determine a path to resolve bills that are due from My VA.
 - We believe Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.
 - We believe that surfacing more details about bills and payments is important to Veterans and is something they would want to see upon logging into the site.
 - We believe that there may be some confusion around whether copays should fall under bills or belong under a healthcare-related section because feedback on this topic has been split fairly even so far.
 
 ## Method
 
-We'll conduct remote usability testing over Zoom using a prototype in UXPin. This method will enable us to show copays, bills, and payments for all participants without restricting by which they currently have so we have a diverse user population to pull from. We will plan to test in production with a screen reader user before launch since that is a limitation of testing with UXPin.
+We'll conduct remote usability testing over Zoom using a prototype. This method will enable us to show copays, bills, and payments for all participants without restricting by which they currently have so we have a diverse user population to pull from and all users can see both bills and payments. We will plan to test in production with a screen reader user before launch since that is a limitation of testing with a prototype.
 
 ### Research materials
 
-- [Link to conversation guide]()
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/conversation-guide.md)
 
 - Links to prototypes: [desktop]() and [mobile]()
 
