@@ -74,7 +74,11 @@ Please recruit 12 participants for 6 completed sessions.
 	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your Personal information will be viewable. (Answer should be yes to qualify)
 
 - Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
-- Must identity as part of the LGBTQ community
+
+**Inclusion:**
+- At least 33% (4) of participants must identify as transgender
+- At least 33% (4) of participants must identify as non-binary or another gender identity other than cis-gender
+- At least 3 participants should have limited English proficiency
 - At least 50% of participants must identify as Hispanic, Native American, or Asian
 - 50% of participants should identify as other than male
 - At least 50% of participants should identify as having a cognitive disability
