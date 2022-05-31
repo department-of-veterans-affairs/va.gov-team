@@ -83,8 +83,6 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 	-   If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 	-   Qualifier: Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your Personal information will be viewable. (Answer should be yes to qualify)
 -   must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
--   All participants must be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
-	-   Participants should understand that facilitators and observers will be able to see their VA account information, and be comfortable with this.
 -   50% of participants should be able to participate from a desktop device.
 -   50% of participants should be able to participate from a non-desktop device (tablet or mobile phone).
 
