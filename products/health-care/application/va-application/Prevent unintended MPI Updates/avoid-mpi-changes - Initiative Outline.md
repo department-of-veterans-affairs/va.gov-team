@@ -1,4 +1,6 @@
-# Prevent unintended MPI updates via 10-10ez (created prior to 5/2022, moved to its own folder)
+# Prevent unintended MPI updates via 10-10ez 
+- Initiative Completed 4/2022, this brief was only moved to its own folder in 5/2022
+- [Epic #31683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31683)
 
 ## Outcome Summary
 Prevent unintended/inappropriate modifications to MPI when filling out the 10-10ez.
