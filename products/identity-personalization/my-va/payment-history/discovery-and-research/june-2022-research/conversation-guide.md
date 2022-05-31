@@ -1,6 +1,6 @@
 # Conversation Guide for Authenticated Experience team - Benefit Payments and Debts, June 2022
 
-- [ ] Have link to prototype ready: [desktop]() and [mobile]()
+- [ ] Have link to prototype ready: [desktop](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/pa2qY2Q/play) and [mobile]()
 
 ## Intro - 2 minutes
 
