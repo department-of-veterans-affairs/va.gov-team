@@ -16,7 +16,7 @@
 ### Agenda
 - Recurring event launch and planned comms/training
 - New CM tactic: announcement block
-- Look ahead schedule
+- Look ahead
 
  ## May 3, 2022
 
