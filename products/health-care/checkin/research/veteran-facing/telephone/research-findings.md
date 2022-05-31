@@ -10,18 +10,6 @@ Date: May 31, 2022
 
 <br>
 
-**Jump to:**
-
-[Key findings](#key)
-
-[Recommendations](#recommendations)
-
-[Who we talked to](#who)
-
-[Further research needed](#further)
-
-<br>
-
 # Background
 In general, there’s been an increase in telemedicine appointments, mainly due to COVID-19. This is often either via video or telephone.
 
