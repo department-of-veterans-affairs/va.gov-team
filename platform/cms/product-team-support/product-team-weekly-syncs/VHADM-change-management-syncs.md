@@ -16,13 +16,21 @@
 
 ### Facilities COVID status update
 
-  - % completed status updates
+  - % published status updates
   - any new issues
   - reminder?
 
 ### Top task pages update
 
-  - % completed
+  - % published
+    - Register for care: 26%
+    - Medical records: 25%
+    - Billing and insurance: 33%
+
+  - KB articles visited April 28-May 30 (pageviews)
+    - Register for care: 4
+    - Medical records: 2
+    - Billing and insurance: 6
   - revisit deadline and next reminder
 
 ### Recurring events
