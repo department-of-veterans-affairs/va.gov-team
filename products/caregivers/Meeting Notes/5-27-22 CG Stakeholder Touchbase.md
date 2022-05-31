@@ -47,13 +47,13 @@
                     - **Lauren** - states we should not indicate that the application is not yet received
           - **Matt Brown**
                - Frustrated on the turnover
-               - Confirmed that va.gov team was involved (no)
-               - We have viable path forward with mulesoft
-               - **Mili** - says they want to go forward with the mulesoft solution and it is viable
+               - Confirmed that va.gov team was involved from the beginning last summer
+               - We have viable path forward with Mulesoft
+               - **Mili** - says they want to go forward with the Mulesoft solution and it is viable
                     - We can have convo about the messaging and va.gov team concerns
-                    - **Patrick** reiterated that we shouldnt show diff messages
+                    - **Patrick** reiterated that we shouldnt show different messages
                     - If ultimate system failure - VA CG will contact the applicant and have them complete the paperform and sent it in??
-                         - Patrick - We would want the PDF formatted and sent ourselves, without having to reach back out
+                         - **Patrick** - We would want the PDF formatted and sent ourselves, without having to reach back out
           - **Patrick** - Would like to look at possibility to implement vets-api retries in the event Mulesoft fails
                - **Igor** - this would make sense
                - We can explore this a bit more so the logic works together properly
