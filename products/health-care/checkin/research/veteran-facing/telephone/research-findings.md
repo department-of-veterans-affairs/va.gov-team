@@ -41,7 +41,7 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
 - Used Perigean recruitment  
 - Remote, moderated 1 hour sessions
 - Semi-structured interviews
-- Observational and task-based [usability testing via UX Pin](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044653/simulate/no-panels?mode=if)
+- Observational and task-based [usability testing via UX Pin](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638/simulate/no-panels?mode=if)
 
 # Key Findings
 ## How telephone appointments current work and are viewed
