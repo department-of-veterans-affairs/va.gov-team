@@ -7,7 +7,7 @@
 - Answer: 
 
 **Christina: Are the research plan and conversation guide for UAT complete?**
-- Answer: Yes
+- Answer: 
 
 **Christina: Are you prepared to run UAT sessions as early as this week from now?**
 - Answer: 
