@@ -1,8 +1,6 @@
-> _DRAFT: Will be updated soon!_
-
 # Combined VA Debt Portal - Use Cases
 
-**Last updated:** 5/26/2022
+**Last updated:** 5/31/2022
 
 **Description:** Track and maintain the various use cases that exist for a given product and is
 best maintained alongside the product outline.
@@ -25,32 +23,30 @@ searches and gets no results.", etc.
 <details>
 <summary>[click to expand/collapse a short list of all use cases]</summary>
   
-- [Use Case A - Veteran wants to view and pay a debt](#use-case-a---TBD)
-- [Use Case B - TBD](#use-case-b---TBD)
-- [Use Case C - TBD](#use-case-c---TBD)
-- [Use Case D - TBD](#use-case-d---TBD)
+- [Use Case A - Veteran only has a debt](#use-case-a---TBD)
+- [Use Case B - Veteran only has a copay bill](#use-case-b---TBD)
+- [Use Case C - Veteran has neither a copay bill nor a debt](#use-case-c---TBD)
+- [Use Case D - Veteran is not enrolled in healthcare](#use-case-d---TBD)
+- [Use Case E - Veteran has both a copay bill and debt](#use-case-e---TBD)
 
 </details>
 
-## Use Case A -  Veteran wants to view their VA debts in combined debt portal
+## Use Case A -  Veteran only has a debt
 
--- **Description:** A veteran wants to understand what their debt is via the combined debt portal and see if they can resolve it online.
+- **Description:** A veteran wants to understand what their debt is via the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
 	- login via user `vets.gov.user+81@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
 	- Click 'Manage your VA debt' button on the page
-	- Select first debt ("Post-9/11 GI Bill debt for housing")
-	- View details of debt
-	- On debt detail page, select the page jump link entitled "How do I pay my VA debt?"
-	- Click the 'Option 1: Pay Online' accordion to open 
-	- click on link to pay.va.gov
+
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492808/simulate/no-panels?mode=i)
+  - [Debt details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148546854/simulate/no-panels?mode=i)
 
-## Use Case B - Veteran wants to view their copay bill on the combined debt portal
+## Use Case B - Veteran only has a copay bill
 - **Description:** A Veteran is interested in viewing their medical copay bill on the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
@@ -58,17 +54,13 @@ searches and gets no results.", etc.
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
 	- Click 'Manage your VA debt' button on the page
-	- Select first copay debt
-	- View details of copy debt
-	- On copay debt detail page, select the page jump link entitled "How do I pay my VA debt?"
-	- Click the 'Option 1: Pay Online' accordion to open 
-	- click on link to pay.va.gov
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492807/simulate/no-panels?mode=i)
+  - [Copay details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148559873/simulate/no-panels?mode=i)
 
 
-## Use Case C - Veteran has neither a copay bill or debt
+## Use Case C - Veteran has neither a copay bill nor debt
 
 - **Description:** Veteran is just curious to see if they have any active VA debts or copay bills.
 
@@ -79,7 +71,9 @@ searches and gets no results.", etc.
 	- Click 'Manage your VA debt' button on the page
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/no-panels?mode=i)
+  - [Debt details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149534493/simulate/no-panels?mode=i)
+  - [Copay details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149285598/simulate/no-panels?mode=i)
 
 
 ## Use Case D - Veteran is not enrolled in healthcare
@@ -92,9 +86,10 @@ searches and gets no results.", etc.
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
 
 - **Link to designs**
-  - TBD
+**Note:** The design linked pertains to the Medical Copay Tool's MVP. The alert should remain the same within the combined debt portal.
+  - [Overview page](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468871/simulate/no-panels?mode=i)
 
-## Use Case E - Veteran has both a copay and debt they'd like to view and manage
+## Use Case E - Veteran has both a copay bill and debt
 
 - **Description:** Veteran has both a VA debt and a medical copay they would like to view and manage.
 
@@ -103,13 +98,9 @@ searches and gets no results.", etc.
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/) on staging
 	- Click 'Manage your VA debt' button on the page
-	- Select first VA debt
-	- View details of VA debt on subsequent page
-	- Return to the 'Current VA Debt' page
-	- View details of copay debt
 
 - **Link to designs**
-  - TBD
+  - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i)
 
 
 ### Notes
