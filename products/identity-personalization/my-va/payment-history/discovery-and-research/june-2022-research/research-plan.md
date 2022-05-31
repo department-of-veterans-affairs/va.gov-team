@@ -72,7 +72,7 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/conversation-guide.md)
 
-- Links to prototypes: [desktop]() and [mobile]()
+- Links to prototypes: [desktop](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/pa2qY2Q/play) and [mobile]()
 
 ## Recruitment
 
