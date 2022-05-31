@@ -127,6 +127,46 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
 - The phone icon, “Phone call” wording, and the next steps wording were well understood and liked by Veterans. 
   - The combination helped eliminate confusion between this appointment type being an audio only appointment vs. a video appointment.
 <img width="156" alt="Screen Shot 2022-05-27 at 5 25 36 PM" src="https://user-images.githubusercontent.com/66287082/171253117-298b9a87-d7b3-493b-8de0-edb7b14e8b09.png">
+- This is an interesting anecdote that gives some small insight into Veterans mental model for appointment types.
+
+
+### 8. Health questionnaires and medication reviews increased the perceived value of pre-check-in for Veterans.
+- Without any specific prompting about health questionnaires,
+  - Half of our participants commented that they would like to review their medication list within pre-check-in. They believe it would help their provider understand their medical history and help streamline their appointment experience.
+  - Half of our participants also commented that they wanted other health questionnaire features, such as:
+    - Questions for my provider
+    - Updating what medical concerns they want to talk to their provider about
+
+“I try to have all my ducks in a row before the appointment, so I get what I need…I will have the list of questions I have to ask her and that kind of stuff.”
+
+### 9. Veterans suggested a variety of features or appointment information to add to the experience.
+- Preferred phone number (3 participants)
+- Provider’s name (3 participants)
+- Type of appointment, such primary care or cardiology (3 participants)
+- Add to calendar (2 participants)
+- Insurance review (2 participants) 
+- Confirmation email that pre-check-in was completed (2 participants) 
+- Sharing earlier when pre-check-in expires (2 participants)
+- We have heard a lot of these suggestions in previous studies as well.
+
+### 10. All participants thought the name “Pre-check-in” clearly represented the experience.
+- “Yeah, I think it is good. I don’t think I could call it anything else.”
+- “I think pre-check-in is the best bet. You aren’t checking in, because you are doing it in advance.”
+- “I don’t know what else you would call it. It is exactly a pre-check-in.”
+- “I would leave it the same, because that is normal verbiage.”
+
+### 11. The majority of Veterans appreciated the “running late” message.
+- While most Veterans understood and liked this wording, it prompted additional questions from a select few Veterans:
+  - What do I do if it’s past the 15 minutes?
+  - Why am I seeing this?
+    - This group was also confused about the timing and overall purpose of pre-check-in. 
+“I understand doctors get behind and I am glad the box is there to remind people. At least, there’s a preventative step to warn people whereas a lot of people don’t want to wait.”
+<img width="514" alt="Running-late" src="https://user-images.githubusercontent.com/66287082/171253967-20871f33-fc43-4b84-b285-46f9767675fa.png">
+
+### 12. The current link to VA.gov’s profile in order to edit contact information is sufficient for Veterans; however, most participants ultimately expected to edit directly within the pre-check-in workflow.
+<img width="158" alt="Clicking-no" src="https://user-images.githubusercontent.com/66287082/171254082-b1c05ab3-4540-413a-bcb7-103e61272487.png">
+- “If I click no, then it would let me edit it.”
+
 
 # Additional Insights
 
