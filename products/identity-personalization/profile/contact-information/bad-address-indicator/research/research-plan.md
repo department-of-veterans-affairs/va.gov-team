@@ -91,12 +91,13 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
 ##### Inclusion
 -   4 participants who use assistive technology (e.g. screen reader, magnification) - including 3 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition). 
--   10 participants who identify as other than white
--   5 participants who identify as other than straight/heterosexual and cisgender / part of the LGBTQ community
+-   8 participants who identify as other than white
+-   3 participants who identify as other than straight/heterosexual
+-   2 participants who identify as transgender, non-binary, or another gender identity other than cis-gender
 -   8 participants age 55+
 -   8 participants who identify as having a cognitive disability
 -   5 participants who do not have a college degree
--   5 participants who live in a rural area
+-   4 participants who live in a rural area
 
 #### Secondary criteria (nice-to-haves)
 
