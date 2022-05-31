@@ -14,15 +14,12 @@
 
 ## June 1, 2022
 
-### Facilities COVID status update
+### Facilities COVID status and top task updates
 
-  - % published status updates
-  - any new issues
-  - reminder?
-
-### Top task pages update
-
- - Deck sent May 31
+ - Deck sent May 31 with data
+ - Any new issues?
+ - What is new deadline for top task pages completion?
+ - When should reminder email go out?
 
 ### Recurring events
 
