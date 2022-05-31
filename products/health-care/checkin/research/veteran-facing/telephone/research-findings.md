@@ -102,7 +102,8 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
 - Veterans reschedule and cancel telephone appointments in a variety of ways:
   - Calling in
   - Digital method (website, native app, or secured messaging)
-- 5. Veterans have strong preferences on how they want to be contacted by the VA for telephone appointments.
+
+### 5. Veterans have strong preferences on how they want to be contacted by the VA for telephone appointments.
 - Veterans may screen calls, so it is important to identify the phone number that the provider is calling from.
 - Some Veterans missed calls from the VA, when the VA didn’t contact them at their preferred phone number.
   - For our participants, most wanted their mobile phone listed as their preferred number and they commented on missing calls to their landlines or not having a home phone.
