@@ -1,5 +1,20 @@
 # VA Mobile team - Release Highlights
 
+
+## Release: 6/7/22
+
+Release included Bug Fixes & TLC updates
+
+Release Report: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/1190#workspaces/va-mobile-product-view-610035bc5395bb000e62e529/reports/release?release=Z2lkOi8vcmFwdG9yL1JlbGVhc2UvNzUzODM
+
+## Release: 5/24/22
+
+Release included Bug Fixes & TLC updates
+
+
+Release Report: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/1190#workspaces/va-mobile-product-view-610035bc5395bb000e62e529/reports/release?release=Z2lkOi8vcmFwdG9yL1JlbGVhc2UvNzUzODI
+
+
 ## Release: 5/10/22
 
 Improvements & Bug Fixes
