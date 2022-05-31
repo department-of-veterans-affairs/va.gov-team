@@ -3,7 +3,7 @@
 ## Decision: 
 ---
 
-**Samara: Is the release plan complete and ready to execute against?**
+**Samara: Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/product/release-plan.md) complete and ready to execute against?**
 - Answer: 
 
 **Christina: Are the research plan and conversation guide for UAT complete?**
