@@ -181,7 +181,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+We wanted to interview some Veterans and others who had a diverse range of experience with VA benefits and services, including no experience at all and some experience that doesn't include VA health care.
 
 We talked to **7 participants.**
 
@@ -190,6 +190,14 @@ Audience segment:
 * Caregivers: 1 
 * Family members of a Veteran: 1 
 * Service member: 1 
+
+
+Experience with VA benefits and services:
+* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): 7
+* NO experience with health care, but DO have experience with one or more other VA benefits or services: 2
+* NO experience with ANY VA benefits or services: 0 
+ 
+**We wanted to get some participants without any VA benefits experience at all, but the participants recruited who didn't have any experience according to Perigean's recruitment survey actually did have experience**--perhaps because the survey data was outdated (at least it was for the participant who had just applied for a home loan certificate of eligibility the day before the research session).
 
 
 Gender:
@@ -238,7 +246,6 @@ Race:
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
 * Has a cognitive disability
 * Identify as Hispanic, Biracial, Asian, or Native
 * Identify as gay, lesbian, bisexual, transgender, or non-binary
@@ -247,5 +254,6 @@ _List all groups in red from the spreadsheet_
 * Expat (living abroad)
 * Use assistive technology
 
-_[insert screenshot of completed recruitment checker]_
+**We wanted to include a few people who had a cognitive disability and someone who used a screen reader, but the participants recruited who showed up for sessions didn't have any of these characteristics.**
+
 ![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/images/VA-recruitment-checker.png)
