@@ -44,4 +44,4 @@
 | Mask updates on FAQs | 3/21 | 3/21 | 3/24 | 3/24 | 3/24 | 3/22 | 3/24 | 
 | COVID-19 screening questionaire | | 3/21 | 3/24 |
 | Second Booster info | 4/4 | 4/4 | 5/5 | 5/11 | 5/12 |
-| Additional doses info | | 5/12 |
+| Additional doses info | | 5/12 | 5/31 | 
