@@ -151,10 +151,13 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
 - We have heard a lot of these suggestions in previous studies as well.
 
 ### 10. All participants thought the name “Pre-check-in” clearly represented the experience.
-- “Yeah, I think it is good. I don’t think I could call it anything else.”
-- “I think pre-check-in is the best bet. You aren’t checking in, because you are doing it in advance.”
-- “I don’t know what else you would call it. It is exactly a pre-check-in.”
-- “I would leave it the same, because that is normal verbiage.”
+“Yeah, I think it is good. I don’t think I could call it anything else.”
+
+“I think pre-check-in is the best bet. You aren’t checking in, because you are doing it in advance.”
+
+“I don’t know what else you would call it. It is exactly a pre-check-in.”
+
+“I would leave it the same, because that is normal verbiage.”
 
 ### 11. The majority of Veterans appreciated the “running late” message.
 - While most Veterans understood and liked this wording, it prompted additional questions from a select few Veterans:
@@ -163,6 +166,7 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
     - This group was also confused about the timing and overall purpose of pre-check-in. 
 
 “I understand doctors get behind and I am glad the box is there to remind people. At least, there’s a preventative step to warn people whereas a lot of people don’t want to wait.”
+
 <img width="514" alt="Running-late" src="https://user-images.githubusercontent.com/66287082/171253967-20871f33-fc43-4b84-b285-46f9767675fa.png">
 
 ### 12. The current link to VA.gov’s profile in order to edit contact information is sufficient for Veterans; however, most participants ultimately expected to edit directly within the pre-check-in workflow.
@@ -174,11 +178,39 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
 
 “I think it is fine, because it does give you the option to sign in to correct those positions that need to be corrected.”
 
+### 13. Veterans expectations for the ‘Sign in to manage appointments’  link matched its designed intent.
+- An earlier version of the link label was “ Go to your appointment details”.  
+  - We heard that Veterans didn’t understand the value of this link (to VAOS). 
+  - They also didn’t expect to have to sign in further to access the additional information.
+- With this new wording, these misinterpretations were corrected.
+  - Veterans understood that they could review, cancel, and manage their other appointments. 
+  - They also understood that they would have to sign in further to access VAOS.
+<img width="234" alt="Sign-in-to-manage" src="https://user-images.githubusercontent.com/66287082/171254898-7d89e7b9-8b93-483d-be0c-c4be565527ab.png">
 
-# Additional Insights
+### 14. The ‘too late’ message confused many Veterans.
+- Veterans thought the message was due to variety of reasons -- system error, missing their appointment
+  - However, the content in the ‘Why can’t I pre-check-in’ accordion seemed to help clarify the confusion
+<img width="304" alt="Why-cant-I-pre-check-in" src="https://user-images.githubusercontent.com/66287082/171255029-d486d727-11e5-4180-bc6d-777fc2ab976f.png">
+- Of those who understood the message, the 'running late’ message was helpful and eased concerns
+<img width="200" alt="No-longer-available" src="https://user-images.githubusercontent.com/66287082/171255134-c7147f7d-08f7-4c1e-917c-18e0fa0c80a8.png">
 
+# Secondary findings
+- We spoke with a participant who wears a hearing aid as well as another participant who utilizes live captions.
+  - They had generally positive impressions of pre-check-in.
+    - They particularly liked that it was text-based and questions weren’t verbally asked during the appointment.
+    - The participant who used live caption wanted to be called on their mobile phone, because they have it connected to their live caption.
+- 3 participants initially missed the “Answer questions” actionlink on our [Introduction page](https://preview.uxpin.com/c9613f8da892cb84bd512b73b4d4cd3b075e7d27#/pages/150044638/simulate/no-panels?mode=if).
+- A minority of participants wanted to complete pre-check-in on a desktop due to the advantages of a large screen.
+  - Our participant sample is biased towards mobile and may not represent the larger Veteran population.
 
 # Recommendations
+1. Enabling pre-check-in for telephone appointments is valuable to Veterans, so we should continue with implementation.
+2. Keep the name “Pre-check-in.”
+3. Explore/revisit adding health questionnaires (AKA digital health forms), a medication review, and editing contact information to pre-check-in.
+  - This may help address the negative reaction to pre-check-in, because the current-state may be too minimal to add value for some Veterans.
+4. Evaluate and prioritize all the additional features mentioned by Veterans for pre-check-in, such as ‘Preferred phone number’ and ‘Provider’s name.’
+5. Update the VAOS link to the new wording ‘Sign in to manage all appointments’.
+6. Re-imagine the ‘too late’ messaging to reduce confusion.
 
 # Appendix
 
