@@ -217,6 +217,7 @@ We'll continue to monitor analytics for V1, but otherwise, these tasks are all f
 
 - **Liz**: 6/1 - 6/6
 - **Samara**: Afternoon of 6/14
+- **Taylor**: 6/6 - 6/10
 
 ### Priorities
 
