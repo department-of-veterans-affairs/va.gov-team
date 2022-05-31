@@ -13,7 +13,7 @@ assignees: ''
 - [ ] Push updated Product Guides to Git
 
 ## DESIGN TASKS
-- [ ]  Merge wireframes to Abstract main branch
+- [ ]  Merge final wireframes to Abstract main branch
 - [ ]  Merge Sketch files to VA Sketch cloud
 
 ## PRODCT TASKS
