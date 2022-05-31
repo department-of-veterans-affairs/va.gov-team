@@ -28,7 +28,7 @@ We talked to **7 people (4 Veterans, 1 Caregiver of a Veteran, 1 Dependent of a 
 2. Four participants thought the **list of tasks seemed complete**. The other 3 participants suggested a few additions.
 3. Four participants **understood the meaning of all of the tasks** listed in the survey.
 4. Two participants were **able to fill out the survey based on their recent *indirect* experience with the VA** from helping others with VA benefits (*vs.* interacting directly with the VA on their own behalf or someone else's). 
-5. Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list (a change made after the first pilot participant, who found a random order of tasks to be disorienting).
+5. Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list (a change made after the first pilot participant, who found the then-random order of tasks to be disorienting).
 
 ### Issues with the Survey
 6. Three participants were **unclear on the meaning of a few of the tasks**.
