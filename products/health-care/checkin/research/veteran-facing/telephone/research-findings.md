@@ -119,6 +119,7 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
   - Reluctance to complete if mandatory for every appointment
 
 “I like it…it is really simple”
+
 “The pre-check in doesn’t do anything because they re-verify it when you call.”
 
 ### 7. A few Veterans believed telephone appointments included video appointments, but the UI design helped eliminate this confusion.
@@ -160,12 +161,18 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
   - What do I do if it’s past the 15 minutes?
   - Why am I seeing this?
     - This group was also confused about the timing and overall purpose of pre-check-in. 
+
 “I understand doctors get behind and I am glad the box is there to remind people. At least, there’s a preventative step to warn people whereas a lot of people don’t want to wait.”
 <img width="514" alt="Running-late" src="https://user-images.githubusercontent.com/66287082/171253967-20871f33-fc43-4b84-b285-46f9767675fa.png">
 
 ### 12. The current link to VA.gov’s profile in order to edit contact information is sufficient for Veterans; however, most participants ultimately expected to edit directly within the pre-check-in workflow.
 <img width="158" alt="Clicking-no" src="https://user-images.githubusercontent.com/66287082/171254082-b1c05ab3-4540-413a-bcb7-103e61272487.png">
-- “If I click no, then it would let me edit it.”
+
+“If I click no, then it would let me edit it.”
+
+<img width="301" alt="Profile link" src="https://user-images.githubusercontent.com/66287082/171254290-1eaa425b-f088-4afa-b435-8e7d0940775d.png">
+
+“I think it is fine, because it does give you the option to sign in to correct those positions that need to be corrected.”
 
 
 # Additional Insights
