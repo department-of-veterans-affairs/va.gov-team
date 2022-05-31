@@ -190,8 +190,9 @@ Our MVP addresses two potential pain points (based on an [interview with VA prov
 ### 14. The ‘too late’ message confused many Veterans.
 - Veterans thought the message was due to variety of reasons -- system error, missing their appointment
   - However, the content in the ‘Why can’t I pre-check-in’ accordion seemed to help clarify the confusion
-<img width="304" alt="Why-cant-I-pre-check-in" src="https://user-images.githubusercontent.com/66287082/171255029-d486d727-11e5-4180-bc6d-777fc2ab976f.png">
 - Of those who understood the message, the 'running late’ message was helpful and eased concerns
+
+<img width="304" alt="Why-cant-I-pre-check-in" src="https://user-images.githubusercontent.com/66287082/171255029-d486d727-11e5-4180-bc6d-777fc2ab976f.png">
 
 <img width="200" alt="No-longer-available" src="https://user-images.githubusercontent.com/66287082/171255134-c7147f7d-08f7-4c1e-917c-18e0fa0c80a8.png">
 
