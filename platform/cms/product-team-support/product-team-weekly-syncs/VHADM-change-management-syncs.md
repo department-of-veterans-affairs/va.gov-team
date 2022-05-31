@@ -22,16 +22,7 @@
 
 ### Top task pages update
 
-  - % published
-    - Register for care: 26%
-    - Medical records: 25%
-    - Billing and insurance: 33%
-
-  - KB articles visited April 28-May 30 (pageviews)
-    - Register for care: 4
-    - Medical records: 2
-    - Billing and insurance: 6
-  - revisit deadline and next reminder
+ - Deck sent May 31
 
 ### Recurring events
 
