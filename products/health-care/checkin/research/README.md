@@ -11,3 +11,4 @@
 | [Pre-check-in Usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/research-findings.md) | 11 Veterans | October-November 2021 |
 | [St. Louis Research Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.md) | 12 Staff Members | November 2021 |
 | [St. Louis UAT Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf) | 59 Veterans, 15 Staff Members | April 2022 | 
+| [Enabling Pre-check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/telephone) | 13 Veterans | May 2022 |
