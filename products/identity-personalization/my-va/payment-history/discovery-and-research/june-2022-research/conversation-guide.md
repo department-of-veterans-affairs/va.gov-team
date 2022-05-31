@@ -4,19 +4,12 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Angela and I also have some colleagues on the line observing and taking notes. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans get their most recent details about VA payments and bills.
+Thanks for joining us today! My name is Angela and I also have some colleagues on the line who will just be observing and taking notes. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans get their most recent details about VA payments and bills.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work. We want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
-
-**If testing on production:**
-
-- I'm going to ask you to log into va.gov. This means we'll be able to see your personal information once you are logged in. We won't record it or ask you to make any changes that will impact your VA information or benefits.
-- The specific section of VA.gov I want your feedback in is still under development, so some things may not work quite as you expect them to.
-
-**If using a prototype:**
 
 - **You'll be interacting with a prototype.** This may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.**
@@ -33,13 +26,15 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, I'd like to get a little background information from you:
 
-1. As part of the scheduling for this session, we asked if you had either received payments from VA or incurred education, compensation, pension, or health care-related debt. Can you tell me how you got info from VA about updates on those payments or debts?
+1. First, tell me a little about yourself.
+
+2. As part of the scheduling for this session, we asked if you had either received payments from VA or incurred education, compensation, pension, or health care-related debt. Can you tell me how you got info from VA about updates on those payments or debts?
   
-2. You mentioned that you receive updates on your payments or debts via *insert what the participant said*. What information about your payments and debts is included? Was that helpful? Was anything missing?
+3. You mentioned that you receive updates on your payments or debts via *insert what the participant said*. What information about your payments and debts is included? Was that helpful? Was anything missing?
   
-3. How do you manage your VA finances? Online, by mail, etc?
-  
-4. Let's talk about the website - how do you use VA.gov?
+4. How do you manage your VA finances? Online, by mail, etc?
+
+5. Let's talk about the website - how do you use VA.gov?
   
 
 ## First Task: Determine if the title of this section accurately conveys the content. - 3 minutes
@@ -73,105 +68,78 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 **Task goal: Validate that the details displayed for debts and copays are the most important pieces of information for bills**.
 
-Taking a look at the outstanding bills section. Can you describe to me what this section is for? What's standing out to you?
+- Let's take a look at the outstanding bills section. Can you describe to me what this section is for? What's standing out to you?
 
-Based on the titles of the bills, tell me how you think you would have come to have these showing in your account. 
+- Based on the titles of the bills, tell me how you think you would have come to have these showing in your account. 
 
 *Listen to hear if they are noticing some are debts and some are copays or if they don't make that differentiation.*
 
-On the 9/11 Post GI Bill debt where it says "We're reviewing your information", why do you think it says that instead of showing a due date?
+- On the 9/11 Post GI Bill debt where it says "We're reviewing your information", why do you think it says that instead of showing a due date?
 
-What would you do next if you want to pay or request help for one of these bills?
+- What's the most important piece of information you would want to know about a bill that you have?
 
-What's the most important piece of information you see here?
-
-Is there anything you expect to see here that you don't? Is anything about this section confusing to you?
+- Is there anything you expect to see here that you don't? Is anything about this section confusing to you?
 
 *If user has colorblindness, ask:*
-
-Do you see the amounts in a different color than the other text? What color is it? Does the color differentiate this section from the next one at all? Is anything hard to see?
-
-### Things to watch for:
-
-- Do users understand these amounts are due? What info is most prominent currently? Does that line up with what they say is the most important piece of information?
-- Do the alerts stand out to the participant?
-- Do they mention anything about alerts being on top and mixed into sections of the page?
-- Is the link sufficient for participants to take action from the payment section?
-- What does the participant think about timing for fiancial information?
-- Where does the participant expect to see travel reimbursement info?
-
-## Third Task: Review onsite notifications - 5 minutes
-
-**Task goal: Validate that the design of the onsite notification is effective and does not present any usability hurdles, learn how participants would want to interact with the alert, and understand user expectations around onsite notifications.**
-
-- Let's imagine that you recently incurred a new debt with the VA. How would you know about it based on what you're looking at here?
-
----
-
-***Skip this if participant has debt and you are using production***
-
-I want to get your input on another new feature, but since you don't have any debt, I'll show you in a prototype instead of on the live site. Let me send you a link in the chat, and resume the recording.
-
-- Send link in chat. [desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) and [mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
-- Resume recording
-
----
-
-- Now let's look specifically at the call-outs (yellow notifications) on the page. Tell me your thoughts on those.
-  
-- *If needed*:
-  
-  - What are your thoughts on how they're placed within the page?
-    
-  - What are your thoughts on the information shown in those call-outs?
-    
-  - What would you change about these call-outs?
-    
-  - If you were to click on 'Manage your VA debt', what would you expect to happen?
-    
-- Say you clicked on 'Manage your VA debt', viewed your debt, and then came back to this page, what would happen to this notification?
-  
-- Say you paid your VA debt, what would you expect to happen to this notification?
-  
-- Can you scroll down to the 'Benefit payments and debts' section. What would happen if you were to click on 'Manage your VA debt' here?
-  
-- What are your thoughts on having two similar notifications on the same page?
-  
-- Is it important for you to know how many new debts have been added, or only that you have new debt?
-  
-- Okay great, let's talk about the things you can do with these alerts. Talk me through what you can do with them. (**Note: this is to begin to evaluate dismissable vs non-dismissable alerts.**)
-  
-  - Why would you want to dismiss this alert?
-    
-  - What do you expect to happen after you dismiss it?
-    
-  - After dismissing an alert, how would you find that information again?
-    
-  - Why do you think some are dismissible and some are not?
-    
-- **If this question was already asked at the beginning, you can skip this**: And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information?
-  
-- One more specific thing I want your feedback on - do you have any experience with VA travel reimbursement? Show me where you'd look for that on this page.
-  
-  - Why would you expect to see that there?
+- Do you see the amounts in a different color than the other text? What color is it? Does the color differentiate this section from the next one at all? Is anything hard to see?
 
 ### Things to watch for:
 
-- Did the participant notice the alerts on the page without being directed to them?
-- How does the participant feel about having call outs both at the top of the page and within sections?
-- What are the participants reasons for wanting to dismiss at alert?
-- What are the participant's expectations around dismissing alerts and finding that information again?
-- At what point does the participant expect to see new debt information?
-- How does the participant expect to find out about new notifications on VA.gov?
+- Do users understand why these amounts are due?
+- What info is most prominent currently? Does that line up with what they say is the most important piece of information about bills?
+- Are veterans confused about why one bill has a status update instead of a due date?
+- Is there any important information missing in this section?
+
+## Third Task: Discuss action items in bills section - 5 minutes
+
+**Task goal: Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
+
+- What do you think you'd want to do with this information?
+
+- What would you do next if you wanted to pay or request help for one of these bills?
+
+- What do you expect to happen next if you click the Manage your VA bills link? What would you like to happen next?
+
+### Things to watch for:
+
+- Do veterans want to act on individual bills or go to another page to see details about all of them?
+- Do veterans know how to take action on bills that are due?
+- What do veterans expect to happen if they click the Manage your VA bills link?
+- Is the action link standing out enough?
+
+## Fourth Task: Discuss details in the payments section - 5 minutes
+
+**Task goal: Validate that the most important pieces of payment information are being presented on My VA.**
+
+- Let's take a look at the section that says Recent payments deposited. Can you describe to me what this section is for? What's standing out to you?
+
+- Based on the titles of the payments, tell me how you think you would have come to have these showing in your account. 
+
+- Do you know where these payments were deposited to?
+
+- Do you have any ideas as to why you're seeing two payments and a link to view your payment history?
+
+- What's the most important piece of information you would want to know about your payments?
+
+- Is there anything you expect to see here that you don't? Is anything about this section confusing to you?
+
+*If user has colorblindness, ask:*
+- Do you see the amounts in a different color than the other text? What color is it? Does the color differentiate this section from the previous one at all? Is anything hard to see?
+
+### Things to watch for:
+
+- Is it clear that payments are made to them from the VA?
+- Do veterans know how to take action on bills that are due?
+- What do veterans expect to happen if they click the Manage your VA bills link?
+- Is the action link standing out enough?
 
 ## Post Task Interview - 5 minutes
 
-- Now that we've walked through this page a bit, let's talk about your thoughts on the overall page.
+- Now that we've walked through this page a bit, let's talk about your thoughts on the overall experience.
 
-1. Have you ever used this dashboard on VA.gov?
-2. Can you summarize what this page for?
-3. What is confusing about this page?
-4. What information is missing on this page?
+1. How important is the information that we looked at today to you?
+2. Is this something you would want to see as soon as you log in to VA, or something you might search out once in a while?
+3. If you could change one thing about the page we just looked at together, what would it be?
 
 ## Thank-You and Closing - 3 minutes
 
