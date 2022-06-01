@@ -66,7 +66,6 @@ If they are LOA3:
 	- [ ] **UAT TASK:** Confirm user's non-editable personal information being pulled in correctly from the database.
 	- [ ] **UAT TASK:** If there is nothing in an editable field, confirm it is showing the correct text.
 - [ ] **Usability/Content/IA:** Does the user find anything confusing about the information shown?
-- [ ] **Usability/Content/IA:** Does the user understand how to update this information?
 - [ ] **Usability/Content/IA:** Does the user understand why this information is included?
 - [ ] **Usability/Content/IA:** Is the user able to find more about why this information is included? (Via hint text / FAQs)
 - [ ] **Usability/Content/IA:** Does the user understand that this information is not required?
