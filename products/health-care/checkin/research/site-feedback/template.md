@@ -1,6 +1,6 @@
 How to name the file: mmddyyyy-SiteName.md
 
-# Date and Name of Site giving feedback
+# Date and Name of Site Providing Feedback
 
 ## Role(s) of individual(s) giving the feedback
 - Role (MSA, nurse, administrator, etc)
