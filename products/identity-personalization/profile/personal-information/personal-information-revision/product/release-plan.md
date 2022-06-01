@@ -68,9 +68,9 @@ Desired date: June '22
 
 |Field name| Total Events May 2022 | # of monthly updates 1 month post-launch | 2 months post-launch | 3 months post-launch |
 |----------|------------|------------|------------|------------|
-|Mailing address |  | | | |
-|Home address |  | | | |
-|Mobile phone |  | | | |
-|Email address |  | | | |
+|Mailing address | 29k | | | |
+|Home address |29.2k  | | | |
+|Mobile phone |14.4k  | | | |
+|Email address |14.3k  | | | |
 
 
