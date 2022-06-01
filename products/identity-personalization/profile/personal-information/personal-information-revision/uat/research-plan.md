@@ -143,7 +143,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Christina Gednalske
 - Participant(s) for pilot test: TBD
-- Note-takers: TBD
+- Note-takers: Perigean
 - Observers:	
   - samara.strauss@va.gov
   - sharon.kasimow@gcio.com
