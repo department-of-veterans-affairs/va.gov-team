@@ -1,7 +1,7 @@
-# Personal Information Revision: UAT Go/No-Go | 06/xx/22
+# Personal Information Revision: UAT Go/No-Go | 06/01/22
 
 ## Decision: 
----
+--- Yes - GO. Just need to confirm analytics is working before UAT starts.
 
 **Samara: Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/product/release-plan.md) complete and ready to execute against?**
 - Answer: Yes
