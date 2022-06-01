@@ -1,4 +1,5 @@
 # Initiative Brief - 10-10EZ Household section redesign
+- [Household section redesign epic #31146](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31146)
 
 ## Outcome Summary
 
@@ -61,6 +62,13 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 |Application Submissions | 14% (114k)  | 25% | TBD|
 |Single-session Submissions | 70% (80k) | 75% | TBD|
 
+
+**Key Result #3:** Veterans feel prepared when they begin the Household section
+
+**Key Result #4:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
+
+Data source - Qualitative research and usability feedback
+
 ---
 
 ## Discovery
@@ -92,17 +100,18 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 ## Launch Planning
 ### Collaboration Cycle
 
-- Kickoff ticket [#]()
-- Design Intent ticket [#]()
-- Content ticket [#]()
-- Midpoint ticket [#]()
-- Contact Center guide ticket [#]()
-- Analytics ticket [#]()
-- Staging ticket [#]()
-- Privacy & Security ticket [#]()
+- Collab Cycle ticket [#]()
+     - [ ] Design Intent
+     - [ ] Content and IA
+     - [ ] Research
+     - [ ] Midpoint
+     - [ ] Contact Center guide
+     - [ ] Analytics
+     - [ ] Staging
+     - [ ] Privacy & Security
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only changing the flow of the application's questions
+- The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions
 - Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 - 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
@@ -161,6 +170,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 ### After
 
+TBD
+
 ---
 
 #### Communications
@@ -169,7 +180,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 <details>
 
 - Team Name: 10-10 Health Apps team
-- GitHub Label(s): 
+- GitHub Label(s): household-info-redesign
 - Slack channel: #1010-health-apps
 - Product POCs: Heather Justice & Mark Fallows
 
@@ -183,7 +194,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Lauren Alexanderson
+- Contact(s): Lauren Alexanderson, Patrick Bateman
 
  
 </details>
