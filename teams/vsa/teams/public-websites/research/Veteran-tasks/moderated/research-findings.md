@@ -144,9 +144,9 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
+1. Revise list of tasks in survey
     * _Supporting evidence_
-* Recommendation 2
+2. Revise questions in survey Recommendation 2
     * _Supporting evidence_
 
 
