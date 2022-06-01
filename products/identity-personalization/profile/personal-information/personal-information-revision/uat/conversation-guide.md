@@ -5,7 +5,7 @@
 - Mute Slack notifications
 
 ## Intro - 2 minutes
-Thanks for joining us today! My name is Christina, and I also have a note taker with me. We're working on a new section of the Profile on the VA.gov website that helps Veterans update their personal information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
+Thanks for joining us today! My name is Christina, and I also have a note taker and an observer with me. We're working on a new section of the Profile on the VA.gov website that helps Veterans update their personal information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
 
 Before we start, a few things I want to mention:
 
