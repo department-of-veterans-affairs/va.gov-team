@@ -114,7 +114,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
 ##### Inclusion
 
-- 3 participants who use assistive technology (e.g. screen reader, magnification) - Please check with them prior to scheduling to confirm they understood this requirement correctly and do use assistive technology
+- 3 participants who have a form of colorblindness
 - 8 participants who identify as other than white
 - 5 participants who identify as other than straight/heterosexual and cisgender
 - 8 participants age 55+
