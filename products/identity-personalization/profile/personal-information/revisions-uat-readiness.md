@@ -15,7 +15,7 @@
 **Adam: Are all launch-blocking accessibility issues fixed?**
 - Answer: 
 
-**All: Have you all reviewed the tool in staging and confirmed that it works as expected?**
+**All: Have you all reviewed the feature in staging and confirmed that it works as expected?**
 - Answer:
 
 **Adam: Are you prepared to manage giving UAT participants access to feature in production?**
