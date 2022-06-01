@@ -78,10 +78,11 @@ If they are LOA3:
 	- _If needed:_ Did you see the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 	
-- Ok, now I’d like you to go ahead and type in your Preferred name and save your entry.
+- Ok, now this is totally optional, but if you are comfortable doing so, I’d like you to type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	
 - Is there anything about that process that is confusing?
+	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
 
 
 	- [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -102,9 +103,11 @@ If they are LOA3:
 - Is this something that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
-- Ok, now I’ll have you go ahead and click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
+- Ok, now this is totally optional, but if you are comfortable doing so, I’d like you to choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+	- If you do want to make a selection, I’ll have you go ahead and click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 
 - Is there anything about this process that is confusing?
+	-- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 
 
 	- [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
