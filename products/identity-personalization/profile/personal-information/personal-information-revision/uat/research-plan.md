@@ -128,8 +128,8 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
 | 6/8/2022 | 11:30am - 8pm |	
-| 6/9/2022 | 9:30am - 3pm |
-| 6/10/2022 | 9:30am - 6:30pm |
+| 6/9/2022 | 10am - 3pm |
+| 6/10/2022 | 10:30am - 6:30pm |
 | 6/13/2022 | 11:30am - 8pm |
 | 6/14/2022 | 11:30am - 8pm |
 
