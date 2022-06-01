@@ -9,7 +9,7 @@
 **Christina: Are the research plan and conversation guide for UAT complete?**
 - Answer: 
 
-**Christina: Are you prepared to run UAT sessions as early as this week from now?**
+**Christina: Are you prepared to run UAT sessions as early as this week?**
 - Answer: 
 
 **Adam: Are all launch-blocking accessibility issues fixed?**
