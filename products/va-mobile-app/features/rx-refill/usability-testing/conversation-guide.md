@@ -169,7 +169,7 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 ## Post-Task Interview - 2 minutes
 
 * What did you find difficult or annoying about the things we asked you to help us test today? Why did you find those things difficult or annoying?
-* What did you like or finf useful about the things we asked you to help us test today? Why did you like or find those things useful?
+* What did you like or find useful about the things we asked you to help us test today? Why did you like or find those things useful?
 * Do you have any questions for me?
 
 ## Thank You & Closing  - 2 minutes
