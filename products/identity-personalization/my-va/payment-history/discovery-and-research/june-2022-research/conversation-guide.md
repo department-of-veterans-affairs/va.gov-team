@@ -71,8 +71,6 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 *Listen to hear if they are noticing some are debts and some are copays or if they don't make that differentiation.*
 
-- Are you surprised to see both debts and copays in this section? 
-
 - On the 9/11 Post GI Bill debt where it says "We're reviewing your information", why do you think it says that instead of showing a due date?
 
 - What's the most important piece of information you would want to know about a bill that you have?
@@ -88,7 +86,7 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 - Do users understand why these amounts are due?
 - What info is most prominent currently? Does that line up with what they say is the most important piece of information about bills?
-- Do copays and debts make sense to be shown in the same section as bills?
+- Do users notice that there are both copays and debts in this section?
 - Are veterans confused about why one bill has a status update instead of a due date?
 - Is there any important information missing in this section?
 - Do colorblind users struggle to see or interpret the dark red text?
@@ -120,7 +118,7 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 - Do you know where these payments were deposited to?
 
-- Do you have any ideas as to why you're seeing two payments and a link to view your payment history?
+- Why are you seeing two payments here and a link to view your payment history?
 
 - What's the most important piece of information you would want to know about your payments?
 
