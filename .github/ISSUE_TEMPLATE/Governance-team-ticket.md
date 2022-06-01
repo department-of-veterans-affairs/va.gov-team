@@ -19,7 +19,7 @@ _What details are necessary for understanding the specific work or request track
 
 
 Additional background for [Collaboration Cycle - Improve tracking and status visibility of VA.gov products](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/34697) initiative <br />
-Additional background for [Collaboration Cycle - Transition VFS research activities to Platform](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/32698) initiative
+Additional background for [Collaboration Cycle - Refine operational guidance and clarify VFS expectations for Staging Review](https://app.zenhub.com/workspaces/platform-governance-team-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/40002) initiative
 
 ## New Artifacts 
 
