@@ -48,7 +48,7 @@ Great! Thanks for confirming all of that.
 
 OK, let’s move on to the website. Please share your screen and then we will get started.
 
-## 1. Review Personal information section - 5-7 minutes
+## 1. Review Personal information section - 5 minutes
 
 - I'd like you to open a new tab in your browser, and go to https://www.va.gov/. Once you are logged in, please go to your Profile by clicking on your name in the top right corner. 
 - Let’s review the Personal information section that appears here.
