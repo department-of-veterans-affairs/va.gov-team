@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- How often would you say you use va.gov?
+- How often would you say you use VA.gov?
 - If often, do you find that you browse information on VA.gov, or do you go there looking for specific information?
 - If not often, do you find or receive VA information in another way?
 
