@@ -9,7 +9,7 @@ Thanks for joining us today! My name is Christina, and I also have a note taker 
 
 Before we start, a few things I want to mention:
 
-- There are a couple of members from the website team who would like to observe the session and hear your feedback live. Are you comfortable with them joining the session? No pressure either way.
+- There are a couple additional members from the website team who would like to observe the session and hear your feedback live. Are you comfortable with them joining the session? No pressure either way.
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
