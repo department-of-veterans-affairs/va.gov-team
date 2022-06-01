@@ -3,7 +3,7 @@
 Agenda
 
 Engineering Support<br>
-Performance Testing<br>
-MVP Web Tool to create appts in STG<br>
-Translation Support<br>
+Performance Testing- *Gaurav Gupta*<br>
+MVP Web Tool to create appts in STG- *front end crew*<br>
+Translation Support- Toggle Design- *Ya-ching Tsao*<br>
 LoROTA Security Updates
