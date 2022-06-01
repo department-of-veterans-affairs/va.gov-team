@@ -9,7 +9,7 @@ How to name the file: mmddyyyy-SiteName.md
 ## How was this feedback gathered
 - [ ] Phone call
 - [ ] Email
-- [ ] Other
+- [ ] Other:
 
 ## Feedback item 
 Details of feedback
