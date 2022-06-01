@@ -265,7 +265,7 @@ Moderator is on Pacific Time, please schedule after 11am ET to accommodate.
    </td>
   </tr>
   <tr>
-   <td>6/15/22
+   <td>6/15/22 (if needed)
    </td>
    <td>12pm-7pm ET
    </td>
