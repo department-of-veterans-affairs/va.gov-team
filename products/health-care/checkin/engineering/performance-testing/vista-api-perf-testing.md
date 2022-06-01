@@ -24,15 +24,19 @@ We're currently looking into both [locust](https://locust.io/) and [K6](https://
 ### Load Profile
 Based on the current load estimates (see [above](#load-estimates)), here's the combined load profile for vista-apis. Note that this doesn't include the load from Clinician Workflow to vista-apis, and future work will be needed to include that in the load tests.
 
-| **endpoint**        | **requests per min** |
-|---------------------|----------------------|
-| /token              | 3005                 |
-| /getAppointments    | 147                  |
-| /insurance-verify   | 147                  |
-| /demographics       | 1355                 |
-| /checkin-status-set | 1502                 |
-| /appts-by-patient   | 1355                 |
-| /checkin            | 147                  |
+| **endpoint**           | ** 1/4th rps** |
+|------------------------|----------------|
+| /token                 | 50             |
+| /getAppointments       | 2              |
+| /insurance-verify      | 2              |
+| /demographics          | 23             |
+| /checkin-status-set    | 25             |
+| /appts-by-patient      | 23             |
+| /checkin               | 2              |
+| /appts-by-clinic       | 5              |
+| /has-grid              | 0.5            |
+| /insurance-verify (v2) | 0.25           |
+| /demographics (v2).    | 0.25           |
 
 ### Test Data Generation
 Shane has created a node script to generate test appointments in VistA: https://github.com/shanemelliott/createAppts
