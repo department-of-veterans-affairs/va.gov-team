@@ -83,6 +83,7 @@ If they are LOA3:
 	
 - Is there anything about that process that is confusing?
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
+	- _If not mentioned:_ Is this something you'd like to be able to do?
 
 
 	- [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -108,6 +109,7 @@ If they are LOA3:
 
 - Is there anything about this process that is confusing?
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
+	- _If not mentioned:_ Is this something you'd like to be able to do?
 
 
 	- [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
