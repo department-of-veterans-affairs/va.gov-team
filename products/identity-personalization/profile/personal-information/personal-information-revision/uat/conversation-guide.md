@@ -41,7 +41,8 @@ _Confirm they qualify for the study._
 	- _If not:_ Are these readily accessible? Could you get them?
 	- _If the user can not remember or retrieve their login credentials, end the session:_ Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-- Ok, so today we’re going to observe you interacting with the new feature. Would you feel comfortable sharing your screen with me at this time? You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
+- So today we’re going to observe you interacting with the new feature. Would you feel comfortable sharing your screen with me at this time? 
+	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 Great! Thanks for confirming all of that. 
@@ -50,15 +51,17 @@ OK, let’s move on to the website. Please share your screen and then we will ge
 
 ## 1. Review Personal information section - 5 minutes
 
-- I'd like you to open a new tab in your browser, and go to https://www.va.gov/. Then go ahead and log in. Once you are logged in, please go to your Profile by clicking on your name in the top right corner. 
-- Let’s review the Personal information section that appears here.
+- So now I'd like you to open a new tab in your browser, and go to https://www.va.gov/. Then go ahead and log in. 
+- Now that you are logged in, please go to your Profile by clicking on your name in the top right corner. 
+- Let’s review the Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
 
 #### UAT and Usability
 - [ ] **UAT TASK:** _Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, end the session._ I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 - [ ] **UAT TASK:** _If records can't be matched and an error appears, end the session._ I see that the system is unable to match your records. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 If they are LOA3:
-- Without clikcing on anything yet, why do you think the VA asks for this information? If you were trying to learn more about the information included here, where would you look / where do you think that would be on this page?
+- Without clicking on anything yet, why do you think the VA asks for this information? 
+- If you were trying to learn more about the information included here, where would you look / where do you think that would be on this page?
 - Is this information required? Why does this seem that way?
 
 #### UAT and Usability
@@ -83,7 +86,7 @@ If they are LOA3:
 	
 - Is there anything about that process that is confusing?
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
-	- _If not mentioned:_ How would or wouldn't it be helpful to be able to do this [remove information entered]?
+	- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -109,7 +112,7 @@ If they are LOA3:
 
 - Is there anything about this process that is confusing?
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
-	- _If not mentioned:_ How would or wouldn't it be helpful to be able to do this [remove information entered]?
+	- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
