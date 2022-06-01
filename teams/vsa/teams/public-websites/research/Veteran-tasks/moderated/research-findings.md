@@ -16,8 +16,6 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#recommendations)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#further-research-needed)
-
 [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#appendix)
 
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#who-we-talked-to)
@@ -65,11 +63,7 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. The survey was well-received by research participants. 
+1. The **survey was well-received** by research participants. 
 2. Three participants were **unclear on the meaning of a few of the tasks**.
 7. Two participants **didn't scroll on the task importance question** and so didn't see the full task list. 
 8. Two people said that the **long list of tasks was overwhelming** and recommended breaking them down into categories. The other 5 participants thought the list was OK as is.
@@ -77,32 +71,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **The survey was well-received by research participants**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
 
 1. All but one participant thought that the survey was **simple and easy to fill out**.
 2. Four participants thought the **list of tasks seemed complete**. The other 3 participants suggested a few additions.
@@ -110,18 +79,10 @@ Brief description
 4. Two participants were **able to fill out the survey based on their recent *indirect* experience with the VA** from helping others with VA benefits (*vs.* interacting directly with the VA on their own behalf or someone else's). 
 5. Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list (a change made after the first pilot participant, who found the then-random order of tasks to be disorienting).
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
 
 **Participants selected an average of 13 tasks as important**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-9. From the list of 41 VA-related tasks presented in the survey, research **participants selected an average of 13 tasks as important (ranging from 3 to 26)**. 
+From the list of 41 VA-related tasks presented in the survey, research **participants selected an average of 13 tasks as important (ranging from 3 to 26)**. 
 - The two people who selected only 3 tasks were a service member (for whom most VA-related tasks were irrelevant) and a Veteran (who was only using the VA education benefit and interpreted "right now" in the question quite literally, even though she was interested in using other benefits in the future). 
 - The two people who selected the greatest numbers of tasks (21 and 26) were a Veteran's caregiver and a Veteran--both of whom were interested in exploring many VA benefits that were new to them.
 
@@ -130,34 +91,18 @@ The task importance question included in the survey during this research was wor
 
 Originally, the survey asked people to "select about 10 tasks" and didn't specify timeframe (past, present, future) or modality of interaction with the VA (in person, phone, online). Based on experiences during piloting, we removed "about 10 tasks" from the question (to reduce cognitive load and give participants the freedom to select however many were important to them) and added the timeframe and modality (to improve clarity).
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-# Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 
 # Recommendations
+Because this moderated research was a kind of extended pilot test for the unmoderated research, the revisions that will be made to the survey are summarized below, along with the rationale for each.
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+Recommendation | Rationale
+-------------- | ---------
 
-1. Revise list of tasks in survey
-    * _Supporting evidence_
-2. Revise questions in survey Recommendation 2
-    * _Supporting evidence_
 
 
 # Next Steps
 
 _Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
 # Appendix
