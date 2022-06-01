@@ -38,6 +38,22 @@ Make sure you have an assigned test user DFN before setting up appointment tests
 
 # Pre check-in and day of check-in Testing Workflow
 
+## Web Tool
+
+A web UI is available (for staging only) [here](https://vigilant-couscous-ab7fb4a4.pages.github.io). It is accessible on VPN (GFE/CAG) to anyone with access to [the staging scheduler repo](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/). It allows you to:
+
+- View and create clinic appointments
+- View patient appointments
+- Create check-in/pre-check-in links
+- view and reset demographics confirmations
+- clear a test patient's insurance flag
+
+Guidelines for use:
+
+- please use the test patient assigned to you or a person that is not currently on the team if you need to add appointments for additional patients
+- if you receive an error message regarding your cell phone number when creating a check-in or pre-check-in link, you can ask an engineer for help or use the [Update Phone Number](#putPatient) endpoint to set your phone number
+- for questions or if you encounter any errors, post in the #check-in-experience-engineering channel and tag the front end team
+
 ## Network access
 
 You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
