@@ -69,20 +69,11 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+1. The survey was well-received by research participants. 
+2. Three participants were **unclear on the meaning of a few of the tasks**.
+7. Two participants **didn't scroll on the task importance question** and so didn't see the full task list. 
+8. Two people said that the **long list of tasks was overwhelming** and recommended breaking them down into categories. The other 5 participants thought the list was OK as is.
+9. **Participants selected an average of 13 tasks as important (ranging from 3 to 26)**. 
 
 # Details of Findings 
 
@@ -92,7 +83,7 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**The survey was well-received by research participants**
 
 Labels: label 1, label 2 
 
@@ -113,18 +104,31 @@ _List all labels that apply to this finding from the [research repository label 
 
 Brief description
 
-> _Supporting data: Quote here_
+1. All but one participant thought that the survey was **simple and easy to fill out**.
+2. Four participants thought the **list of tasks seemed complete**. The other 3 participants suggested a few additions.
+3. Four participants **understood the meaning of all of the tasks** listed in the survey.
+4. Two participants were **able to fill out the survey based on their recent *indirect* experience with the VA** from helping others with VA benefits (*vs.* interacting directly with the VA on their own behalf or someone else's). 
+5. Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list (a change made after the first pilot participant, who found the then-random order of tasks to be disorienting).
 
 > _Supporting data: Quote here_
 
+> _Supporting data: Quote here_
 
-**Finding 3**
+
+**Participants selected an average of 13 tasks as important**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+9. From the list of 41 VA-related tasks presented in the survey, research **participants selected an average of 13 tasks as important (ranging from 3 to 26)**. 
+- The two people who selected only 3 tasks were a service member (for whom most VA-related tasks were irrelevant) and a Veteran (who was only using the VA education benefit and interpreted "right now" in the question quite literally, even though she was interested in using other benefits in the future). 
+- The two people who selected the greatest numbers of tasks (21 and 26) were a Veteran's caregiver and a Veteran--both of whom were interested in exploring many VA benefits that were new to them.
+
+The task importance question included in the survey during this research was worded as follows: 
+*Please check the VA-related tasks below that are most important to YOU personally right now, no matter how you do them (in person, on the phone, or online).* 
+
+Originally, the survey asked people to "select about 10 tasks" and didn't specify timeframe (past, present, future) or modality of interaction with the VA (in person, phone, online). Based on experiences during piloting, we removed "about 10 tasks" from the question (to reduce cognitive load and give participants the freedom to select however many were important to them) and added the timeframe and modality (to improve clarity).
 
 > _Supporting data: Quote here_
 
@@ -193,7 +197,7 @@ Audience segment:
 
 
 Experience with VA benefits and services:
-* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): 7
+* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): 7 (ALL of them)
 * NO experience with health care, but DO have experience with one or more other VA benefits or services: 2
 * NO experience with ANY VA benefits or services: 0 
  
