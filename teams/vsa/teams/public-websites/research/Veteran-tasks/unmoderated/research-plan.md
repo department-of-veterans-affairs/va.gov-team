@@ -67,10 +67,10 @@ Overall, we would like to get about
 - **6 Veterans** who have *experience with education benefits or career services*
 - **6 Veterans** who have *experience with at least one of housing, pension, life insurance, or burial benefits*
 
-- **9 Veterans** who have *NO experience with any VA benefits* but are interested in some
+- **9 Veterans** who have *NO experience with any VA benefits* but are interested in some. 
 
-- **9 Non-Veterans** who have *experience with at least one of health care, education, career services, disability, housing, pension, life insurance, or burial benefits*
-- **9 Non-Veterans** who have *NO experience with any VA benefits* but are interested in some
+- **9 Non-Veterans** who have *experience with at least one of health care, education, career services, disability, housing, pension, life insurance, or burial benefits*. 3 should be Caregivers, 3 should be Veteran family members or Survivors, and 3 should be Service Members.
+- **9 Non-Veterans** who have *NO experience with any VA benefits* but are interested in some. 3 should be Caregivers, 3 should be Veteran family members or Survivors, and 3 should be Service Members.
 
 - **6 Anyone** who has *experience with at least one of health care, education, career services, disability, housing, pension, life insurance, or burial benefits*
 
