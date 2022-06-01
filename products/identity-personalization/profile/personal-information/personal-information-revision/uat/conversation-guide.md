@@ -53,6 +53,7 @@ OK, let’s move on to the website. Please share your screen and then we will ge
 - I'd like you to open a new tab in your browser, and go to https://www.va.gov/. Once you are logged in, please go to your Profile by clicking on your name in the top right corner. 
 - Let’s review the Personal information section that appears here.
 
+#### UAT and Usability
 	- [ ] **UAT TASK:** _Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, end the session._ I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 	- [ ] **UAT TASK:** _If records can't be matched and an error appears, end the session._ I see that the system is unable to match your records. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
@@ -60,7 +61,7 @@ If they are LOA3:
 - Why do you think the VA asks for this information? Without clicking on anything right now, if you were trying to learn more about the information included here, where would you look / where do you think that would be on this page?
 - Is this information required? Why does this seem that way?
 
-#### UAT and Usability Tasks
+#### UAT and Usability
 - [ ] **UAT TASK:** Confirm the Profile lands on the Personal information section is showing all information accurately.
 	- [ ] **UAT TASK:** Confirm user's non-editable personal information being pulled in correctly from the database.
 	- [ ] **UAT TASK:** If there is nothing in an editable field, confirm it is showing the correct text.
@@ -85,7 +86,7 @@ If they are LOA3:
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
 	- _If not mentioned:_ Is this something you'd like to be able to do?
 
-#### UAT and Usability Tasks
+#### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
 - [ ] **UAT TASK:** Confirm Preferred name edit state opens as expected.
 - [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
@@ -111,7 +112,7 @@ If they are LOA3:
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 	- _If not mentioned:_ Is this something you'd like to be able to do?
 
-#### UAT and Usability Tasks
+#### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
 - [ ] **UAT TASK:** Confirm Gender identity edit state opens as expected.
 - [ ] **UAT TASK:** Confirm radio buttons function as expected.
@@ -139,7 +140,7 @@ If they are LOA3:
 
 - Ok, thank you. You can go ahead and close that as well.
 
-#### UAT and Usability Tasks
+#### UAT and Usability
 - [ ] **UAT TASK:** Confirm both FAQs and information contained are displayed as they should be.
 - [ ] **UAT TASK:** Confirm FAQs open and close as expected.
 - [ ] **UAT TASK:** Confirm radio buttons function as expected.
