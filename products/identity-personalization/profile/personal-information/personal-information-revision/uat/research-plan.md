@@ -47,7 +47,7 @@ We will be conducting remote, moderated interviews using Zoom. The sessions will
 Remote, via Zoom
 
 ### Research materials
-Conversation guide(link) 
+[Conversation guide]([link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)) 
 
 ## Recruitment	
 Our intended audience for this research are Veterans who are part of the LGTBQ community. We'll use Perigean to recruit them.
@@ -127,10 +127,11 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| ?/??/2022 | 12am - 8pm |	
-| ?/??/2022 | 12am - 8pm |
-| ?/??/2022 | 12am - 8pm |
-| ?/??/2022 | 12am - 8pm |
+| 5/8/2022 | 11:30am - 8pm |	
+| 5/9/2022 | 9:30am - 3pm |
+| 5/10/2022 | 9:30am - 6:30pm |
+| 5/13/2022 | 11:30am - 8pm |
+| 5/14/2022 | 11:30am - 8pm |
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
