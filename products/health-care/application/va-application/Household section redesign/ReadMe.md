@@ -123,7 +123,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 ### Key Dates
 
-- May 2022: Kickoff with outline & begin design
+- May 2022: Initiative Review
+- June 2022: Kickoff with outline & begin design
 - ???? 2022: Design work finalized
 - ???? 2022: Usability testing kickoff
 - ???? 2022: Finalize designs, development
