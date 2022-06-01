@@ -24,6 +24,7 @@
 ### Recurring events
 
   - project launch: looking at June 6
+  - product preview (Kevin)
   - revisit comms approach and timing
 
 ### Steve's suggestions (via email)
