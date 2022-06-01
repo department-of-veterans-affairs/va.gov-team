@@ -39,7 +39,7 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - How often would you say you use va.gov?
-- If often, do you find that you browse information on va.gov, or do you go there looking for specific information?
+- If often, do you find that you browse information on VA.gov, or do you go there looking for specific information?
 - If not often, do you find or receive VA information in another way?
 
 ## First Task v.1: Switching Experiences - 5 minutes
@@ -85,7 +85,7 @@ Participant: Veteran with VA health care<br>
 Start screen: [TRICARE beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395168/simulate/no-panels)
 
 *Stop sharing screen.*
-Pre-question: Imagine you're sitting down to your computer or laptop, what's the first thing that you would do to get to the va.gov page for the Evanston VA location?
+Pre-question: Imagine you're sitting down to your computer or laptop, what's the first thing that you would do to get to the VA.gov page for the Evanston VA location?
 
 *Start sharing screen.*
 - As someone with VA health care, how would you find information on the Evanston VA location?
@@ -101,7 +101,7 @@ Pre-question: Imagine you're sitting down to your computer or laptop, what's the
 - For dual-eligible Veterans: How often do you use 1 health care benefit over the other?
 - Any additional thoughts on the tasks that you completed?
 - Any questions for me? 
-- If time permits and they are a va.gov user: Is there anything else about your experience on va.gov that you'd like to share?
+- If time permits and they are a VA.gov user: Is there anything else about your experience on VA.gov that you'd like to share?
 
 ## Thank-You and Closing - 2 minutes
 
