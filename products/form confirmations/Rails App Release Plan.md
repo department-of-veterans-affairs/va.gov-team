@@ -5,7 +5,7 @@
 ## Phase I: Staging Release (User facing environment)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
+- Desired date range: [date - date] or [duration]
 - How will existing users logins be cutover?
         - How will Github authorization work?
         - Is there a new authorized app in Github? 
@@ -19,7 +19,6 @@
 ### Results:
 - Number of users: x
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
