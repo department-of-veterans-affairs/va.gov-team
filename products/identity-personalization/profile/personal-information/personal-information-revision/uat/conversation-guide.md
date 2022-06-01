@@ -107,7 +107,7 @@ If they are LOA3:
 	- If you do want to make a selection, I’ll have you go ahead and click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 
 - Is there anything about this process that is confusing?
-	-- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
+	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 
 
 	- [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
