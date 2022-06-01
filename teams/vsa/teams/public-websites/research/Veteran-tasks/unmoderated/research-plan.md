@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2) Survey, Sitewide Home Page team, May 17, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2) Survey, Sitewide Home Page team, June 1, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
@@ -44,9 +44,9 @@ We would like to get complete survey responses from **at least 30 Veterans and o
 
 
 ### Research materials
-- [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)
+- [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)--NOT READY YET
 - [Link to moderated research findings]()--NOT READY YET
-- [Link to online survey](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu)
+- [Link to online survey]()--NOT READY YET
 
 ## Recruitment	
 
@@ -61,35 +61,35 @@ Overall, we would like to get about
 
 #### For Cohort A (9 Veterans)
 - All **must NOT have experience with _VA health care_** but **MUST** have experience with at least one of _education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort A study link](URL-TBD?token=A)
+- [Cohort A study link](URL-TBD?token=A)--NOT READY YET
 
 #### For Cohort B (9 Veterans)
 - All must have experience with _disability benefits_
-- [Cohort B study link](URL-TBD?token=B)
+- [Cohort B study link](URL-TBD?token=B)--NOT READY YET
 
 #### For Cohort C (6 Veterans)
 - All must have experience with _education benefits or career services_
-- [Cohort C study link](URL-TBD?token=C)
+- [Cohort C study link](URL-TBD?token=C)--NOT READY YET
 
 #### For Cohort D (6 Veterans)
 - All must have experience with at least one of _housing, pension, life insurance, or burial benefits_
-- [Cohort D study link](URL-TBD?token=D)
+- [Cohort D study link](URL-TBD?token=D)--NOT READY YET
 
 #### For Cohort E (9 Veterans)
 - All have **NO** experience with _any_ VA benefits or services but are interested in some 
-- [Cohort E study link](URL-TBD?token=E)
+- [Cohort E study link](URL-TBD?token=E)--NOT READY YET
 
 #### For Cohort F (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or survivors, 3 service members)
 - All have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_. 
-- [Cohort F study link](URL-TBD?token=F)
+- [Cohort F study link](URL-TBD?token=F)--NOT READY YET
 
 #### For Cohort G (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or survivors, 3 service members)
 - All must have **NO** experience with _any_ VA benefits but are interested in some
-- [Cohort G study link](URL-TBD?token=G)
+- [Cohort G study link](URL-TBD?token=G)--NOT READY YET
 
 #### For Cohort H (6 participants: Veterans, Caregivers, Veteran family members, survivors, or service members)
 - All must have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort G study link](URL-TBD?token=H)
+- [Cohort G study link](URL-TBD?token=H)--NOT READY YET
 
 ### Secondary participant criteria (nice to haves) across all cohorts:
 - At least 6 women
@@ -105,7 +105,7 @@ To assess potential participants' experiences with VA benefits or services, plea
 
 For potential participants who don't have any experience with VA benefits or services, the recruitment emails we provide will ask for interest in VA benefits or services.
 
-We will provide an [outreach email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md) and a unique survey link for Perigean to use when reaching out to each cohort of potential participants. 
+We will provide an [outreach email template--NOT READY YET](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md) and a unique survey link for Perigean to use when reaching out to each cohort of potential participants. 
 
 We will include a required field at the beginning of the survey to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the survey. 
 
