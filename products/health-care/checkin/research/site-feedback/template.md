@@ -6,6 +6,11 @@ How to name the file: mmddyyyy-SiteName.md
 - Role (MSA, nurse, administrator, etc)
 - Role (MSA, nurse, administrator, etc)
 
+## How was this feedback gathered
+- [ ] Phone call
+- [ ] Email
+- [ ] Other
+
 ## Feedback item 
 Details of feedback
 
