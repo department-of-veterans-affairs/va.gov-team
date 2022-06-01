@@ -57,62 +57,39 @@ Overall, we would like to get about
 
 ### Primary participant criteria:
 - ALL have a computer or mobile device and are willing to use it to complete the activity
-- This study will be broken up into 8 mini studies, segmented by the 8 cohorts below. 
-
-### DRAFT COHORTS (63 people in 8 cohorts)
-
-- **9 Veterans** who have *NO experience with VA health care* but do have *experience with at least one of education, career services, disability, housing, pension, life insurance, or burial benefits*
-
-- **9 Veterans** who have *experience with disability benefits*
-- **6 Veterans** who have *experience with education benefits or career services*
-- **6 Veterans** who have *experience with at least one of housing, pension, life insurance, or burial benefits*
-
-- **9 Veterans** who have *NO experience with any VA benefits* but are interested in some. 
-
-- **9 Non-Veterans** who have *experience with at least one of VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits*. 3 should be Caregivers, 3 should be Veteran family members or Survivors, and 3 should be Service Members.
-- **9 Non-Veterans** who have *NO experience with any VA benefits* but are interested in some. 3 should be Caregivers, 3 should be Veteran family members or Survivors, and 3 should be Service Members.
-
-- **6 Anyone** who has *experience with at least one of VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits*
-
-~~### END OF DRAFT~~
-
-~~- 6 Veterans using health care -- *NO because will likely get with other benefits*~~
-
-**ACTION ITEM: REVISIT COHORTS WITH DAVE's FEEDBACK**
-- *POSSIBLE REPLACEMENT COHORT A OR ADDITIONAL COHORT:*
-- All must have NO experience with health care, but DO have experience with one or more of the following VA benefits or services: education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
+- This study will be broken up into 8 mini studies, segmented by the 8 cohorts below.
 
 #### For Cohort A (9 Veterans)
 - All **must NOT have experience with _VA health care_** but **MUST** have experience with at least one of _education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort A study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=A)
+- [Cohort A study link](URL-TBD?token=A)
 
 #### For Cohort B (9 Veterans)
 - All must have experience with _disability benefits_
-- [Cohort B study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=B)
+- [Cohort B study link](URL-TBD?token=B)
 
 #### For Cohort C (6 Veterans)
 - All must have experience with _education benefits or career services_
-- [Cohort C study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=C)
+- [Cohort C study link](URL-TBD?token=C)
 
 #### For Cohort D (6 Veterans)
 - All must have experience with at least one of _housing, pension, life insurance, or burial benefits_
-- [Cohort D study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=D)
+- [Cohort D study link](URL-TBD?token=D)
 
 #### For Cohort E (9 Veterans)
 - All have **NO** experience with _any_ VA benefits or services but are interested in some 
-- [Cohort E study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=E)
+- [Cohort E study link](URL-TBD?token=E)
 
-#### For Cohort F (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or Survivors, 3 Service Members)
+#### For Cohort F (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or survivors, 3 service members)
 - All have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_. 
-- [Cohort F study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=F)
+- [Cohort F study link](URL-TBD?token=F)
 
-#### For Cohort G (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or Survivors, 3 Service Members)
+#### For Cohort G (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or survivors, 3 service members)
 - All must have **NO** experience with _any_ VA benefits but are interested in some
-- [Cohort G study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu?token=G)
+- [Cohort G study link](URL-TBD?token=G)
 
-#### For Cohort H (6 participants: Veterans, caregivers, Veteran family members, survivors, or service members)
+#### For Cohort H (6 participants: Veterans, Caregivers, Veteran family members, survivors, or service members)
 - All must have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort G study link](TBD)
+- [Cohort G study link](URL-TBD?token=H)
 
 ### Secondary participant criteria (nice to haves) across all cohorts:
 - At least 6 women
