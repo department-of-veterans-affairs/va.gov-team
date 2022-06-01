@@ -136,7 +136,9 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 ## Team Roles	
 Please list the people who will be serving in each role. 
 
-- Moderator: Christina Gednalske, christina.gednalske@adhocteam.us
+- Moderator: 
+	- Christina Gednalske, christina.gednalske@adhocteam.us
+	- Angela Agosto (angela.agosto@adhocteam.us) and Liz Lantz (liz.lantz@adhocteam.us) may moderate sessions before 11:30am EST
 - Research guide writing and task development (usually but not always same as moderator): Christina Gednalske
 - Participant recruiting & screening: Perigean
 - Project point of contact: Christina Gednalske
@@ -149,4 +151,5 @@ Please list the people who will be serving in each role.
   - liz.lantz@adhocteam.us
   - tom.harrison@adhocteam.us
   - mark.dewey@gcio.com
+  - angela.agosto@adhocteam.us
  
