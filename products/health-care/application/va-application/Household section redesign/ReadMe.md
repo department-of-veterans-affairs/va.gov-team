@@ -6,6 +6,7 @@
 The 10-10EZ is easier for applicants to understand and complete without having to exit the application.
 - Reduce drop-off/exit rates on the Household section pages
 - Increase application submissions
+- Relieve painpoints reported to the Call Center
 
 
 **Related/Associated product(s)**
@@ -40,7 +41,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 
 ### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
 
-**Key Result #1:** Reduce drop-off/exit rate for the Household section pages by half.
+#### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by half.
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
@@ -53,7 +54,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 | Deductible Expenses page | 1.4% | .75% | TBD|
 
 
-**Key Result #2:** Increase application submissions by 10%, and submissions within a single session by 5%
+#### **Key Result #2:** Increase application submissions by 10%, and submissions within a single session by 5%
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228456075)
 
@@ -63,11 +64,15 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 |Single-session Submissions | 70% (80k) | 75% | TBD|
 
 
-**Key Result #3:** Veterans feel prepared when they begin the Household section
+#### **Key Result #3:** Veterans feel prepared when they begin the Household section
 
-**Key Result #4:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
+#### **Key Result #4:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 
 Data source - Qualitative research and usability feedback
+
+#### **Key Result #5:** Reduced call center complaints on the Household section of questions
+
+Data source - Call Center team/TBD
 
 ---
 
