@@ -47,7 +47,7 @@ We will be conducting remote, moderated interviews using Zoom. The sessions will
 Remote, via Zoom
 
 ### Research materials
-[Conversation guide]([link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
 ## Recruitment	
 Our intended audience for this research are Veterans who are part of the LGTBQ community. We'll use Perigean to recruit them.
