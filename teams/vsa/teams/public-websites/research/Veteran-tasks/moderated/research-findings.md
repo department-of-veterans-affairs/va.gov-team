@@ -51,15 +51,11 @@ In the survey, participants were asked to select which VA-related tasks were imp
 # Hypotheses and Conclusions
 
 1. Veterans and others will find the survey intuitive to use from desktop or mobile.
-1. Veterans and others will be able to select which of the VA-related tasks presented in the survey are most important to them.
-1. Veterans and others won't find any important tasks missing from the survey.
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+    2. TRUE: All participants were able to fill out the survey from the desktop or mobile device they were using. 
+3. Veterans and others will be able to select which of the VA-related tasks presented in the survey are most important to them.
+    2. MOSTLY TRUE: All participants were able to select important tasks but some of the tasks were unclear to a few of the participants.
+5. Veterans and others won't find any important tasks missing from the survey.
+    2. FALSE: 3 participants suggested additional tasks that they currently do that weren't on the list in the survey.
 
 # Key Findings
 
@@ -97,6 +93,17 @@ Because this moderated research was a kind of extended pilot test for the unmode
 
 Recommendation | Rationale
 -------------- | ---------
+Consider **adding a few more tasks**: See if my illness or condition might be service-connected (e.g., Agent Orange exposure), Find a rehab/nursing home, Get durable medical equipment, Volunteer at events to support the VA | 3 participants suggested these additional tasks because they do them but didn't see them in the list
+**Add brief descriptions to some tasks** to explain these terms or tasks: disability; Update your VA health care information; travel reimbursement; Get help with your housing, rent or utilities; VA benefit letters; VA caregiver assistance program; Veteran events; VSO; pension; pre-needed determination | 3 participants were unclear on the meaning of some of these terms of tasks
+Change wording of benefits experience question (#5): "including" to "for example", and put "or" between the examples | 1 participant not sure whether to mark that they have experience with Career Services if they have experience with one but not the other example listed
+Clarify housing options in benefits experience question (#5): move "home loans" into a new option and rename to "home loan Certificate of Eligibility (COE)" | 1 participant had gotten a COE but not a home loan, and then didn't check the "housing" option
+Add to the survey welcome about what we're doing (i.e., mention VA, want to learn more about what VA benefits and services are most important to you so we can help) | 1 participant wanted to know the intent behind the survey to legitimize it
+
+
+
+
+
+
 
 
 
@@ -121,12 +128,10 @@ _Next steps here. Include owners if appropriate._
 
 ## Survey used
 
-Link to prototypes or pages that were tested
+[Survey questions]
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
@@ -134,7 +139,7 @@ We wanted to interview some Veterans and others who had a diverse range of exper
 
 We talked to **7 participants.**
 
-Audience segment:
+Audience segments:
 * Veterans: 4 
 * Caregivers: 1 
 * Family members of a Veteran: 1 
