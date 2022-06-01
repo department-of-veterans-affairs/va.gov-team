@@ -100,11 +100,11 @@ If they are LOA3:
 
 - Now let’s look at the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
 
-- Earlier we talked about why the VA might ask about this information. How would you find out more about this?
+- _If not already specifically addressed:_ Earlier we talked about why the VA might ask about this information. How would you find out more about this?
 	- _If needed:_ Did you see the sentence with the dotted line below it? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- Is this something that you would update? 
+- Looking at this field, is this something that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
 - Ok, now this is totally optional, but if you are comfortable doing so, I’d like you to choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
@@ -131,8 +131,6 @@ If they are LOA3:
 - Did you notice those before?
 
 - Please go ahead and click on the first one and read the content.
-
-- What did you expect to happen when you clicked that?
 
 - Is there anything unclear about the content? Ok, you can go ahead and close that and click on the second phrase.
 
