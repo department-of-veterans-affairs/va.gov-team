@@ -148,8 +148,6 @@ If they are LOA3:
 - [ ] **Usability:** Do users understand the information in the FAQs?
 - [ ] **Usability (helpful for experimental design system component and overall placement):** Do participants notice the FAQs before they are pointed out?
 
-_Note: Usability questions/tasks here are helpful in moving the additional info FAQ component (when used as hint text) along in the experimental design system_
-
 ## Post-Task Interview - 2-3 minutes
 
 Thank you so much! That was everything on the page I wanted to try out with you today. This has been so helpful for our team. 
