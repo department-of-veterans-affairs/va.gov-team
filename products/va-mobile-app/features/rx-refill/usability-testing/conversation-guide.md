@@ -84,7 +84,7 @@ Thank you for sharing that. It helps me understand your experience across a rang
 
 ## Pharmacy Landing Screen - 5 minutes
 
-Thank you for sharing that. Now, we're going to take a look at a few things in a prototype that we’re developing for the VA Mobile App. If you have the prototype link handy, feel free to pull that up now and share your screen. If you don’t have the link I can send it in the chat as well.
+Thank you for sharing that. Now, we're going to take a look at a few things in a prototype that we’re developing for the VA Mobile App. If you have the prototype link handy, feel free to pull that up now and share your screen. I'm also sending the link in the Zoom chat now.
 
 [Figma prototype](https://www.figma.com/proto/ftl8JoMu8OrGw1I8wiLCn6/Rx-Refills-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-179%2C620%2C0.34&scaling=min-zoom&starting-point-node-id=1226%3A18714)
 
@@ -168,8 +168,8 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 
 ## Post-Task Interview - 2 minutes
 
-* Was there anything you found difficult or annoying about the things we asked you to help us test today?
-* Was there anything you liked or found useful about the things we asked you to help us test today?
+* What did you find difficult or annoying about the things we asked you to help us test today? Why did you find those things difficult or annoying?
+* What did you like or finf useful about the things we asked you to help us test today? Why did you like or find those things useful?
 * Do you have any questions for me?
 
 ## Thank You & Closing  - 2 minutes
