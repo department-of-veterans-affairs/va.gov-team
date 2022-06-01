@@ -6,10 +6,15 @@
 
 ### Planning:
 - Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- How will existing users logins be cutover?
+        - How will Github authorization work?
+        - Is there a new authorized app in Github? 
+- How will we roll it out? Will all staging users be immediately directed to the new app?
+- Is there an outtage time necessary?
+        - If so, how do we communicate this to the users?
+        - Proactively include a message banner a few days ahead to alert them to the outtage?
+- What is the rollback plan?
+- What is the redirect URI that we need to provide the SSOi team?  
 
 ### Results:
 - Number of users: x
