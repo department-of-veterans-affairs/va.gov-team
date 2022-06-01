@@ -60,15 +60,15 @@ If they are LOA3:
 - Why do you think the VA asks for this information? Without clicking on anything right now, if you were trying to learn more about the information included here, where would you look / where do you think that would be on this page?
 - Is this information required? Why does this seem that way?
 
-
-	- [ ] **UAT TASK:** Confirm the Profile lands on the Personal information section is showing all information accurately.
-		- [ ] **UAT TASK:** Confirm user's non-editable personal information being pulled in correctly from the database.
-		- [ ] **UAT TASK:** If there is nothing in an editable field, confirm it is showing the correct text.
-	- [ ] **Usability/Content/IA:** Does the user find anything confusing about the information shown?
-	- [ ] **Usability/Content/IA:** Does the user understand how to update this information?
-	- [ ] **Usability/Content/IA:** Does the user understand why this information is included?
-	- [ ] **Usability/Content/IA:** Is the user able to find more about why this information is included? (Via hint text / FAQs)
-	- [ ] **Usability/Content/IA:** Does the user understand that this information is not required?
+#### UAT and Usability Tasks
+- [ ] **UAT TASK:** Confirm the Profile lands on the Personal information section is showing all information accurately.
+	- [ ] **UAT TASK:** Confirm user's non-editable personal information being pulled in correctly from the database.
+	- [ ] **UAT TASK:** If there is nothing in an editable field, confirm it is showing the correct text.
+- [ ] **Usability/Content/IA:** Does the user find anything confusing about the information shown?
+- [ ] **Usability/Content/IA:** Does the user understand how to update this information?
+- [ ] **Usability/Content/IA:** Does the user understand why this information is included?
+- [ ] **Usability/Content/IA:** Is the user able to find more about why this information is included? (Via hint text / FAQs)
+- [ ] **Usability/Content/IA:** Does the user understand that this information is not required?
 
 ## 2. Update information - Preferred name - 5 minutes
 
@@ -85,13 +85,13 @@ If they are LOA3:
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
 	- _If not mentioned:_ Is this something you'd like to be able to do?
 
-
-	- [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
-	- [ ] **UAT TASK:** Confirm Preferred name edit state opens as expected.
-	- [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
-	- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
-	- [ ] **Usability:** How easy is it for participants to update this information? Observe if they struggle to understand how to enter or save the information.
-	- [ ] **Usability/Content:** How easy is it for participants to use the hint text to learn more about Preferred name? Observe if they do not notice this text, have difficulty reading it, or are confused about the information included.
+#### UAT and Usability Tasks
+- [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
+- [ ] **UAT TASK:** Confirm Preferred name edit state opens as expected.
+- [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
+- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
+- [ ] **Usability:** How easy is it for participants to update this information? Observe if they struggle to understand how to enter or save the information.
+- [ ] **Usability/Content:** How easy is it for participants to use the hint text to learn more about Preferred name? Observe if they do not notice this text, have difficulty reading it, or are confused about the information included.
 
 ## 3. Gender identity - 5 minutes
 
@@ -111,15 +111,15 @@ If they are LOA3:
 	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 	- _If not mentioned:_ Is this something you'd like to be able to do?
 
-
-	- [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
-	- [ ] **UAT TASK:** Confirm Gender identity edit state opens as expected.
-	- [ ] **UAT TASK:** Confirm radio buttons function as expected.
-	- [ ] **UAT TASK:** Confirm FAQ dropdown functions as expected.
-	- [ ] **UAT TASK:** Confirm selection can be made and saved.
-	- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
-	- [ ] **Usability:** How easy is it for participants to select and save their options? Observe if they struggle to understand how to update or are confused about if only one selection or multiple selections can be made.
-	- [ ] **Usability/Content:** How easy is it for participants to learn more about Gender identity? Observe if they struggle to 1) understand how to learn more/notice the FAQs, 2) to use the FAQ dropdown functions, or 3) if they are confused about the information included.
+#### UAT and Usability Tasks
+- [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
+- [ ] **UAT TASK:** Confirm Gender identity edit state opens as expected.
+- [ ] **UAT TASK:** Confirm radio buttons function as expected.
+- [ ] **UAT TASK:** Confirm FAQ dropdown functions as expected.
+- [ ] **UAT TASK:** Confirm selection can be made and saved.
+- [ ] **UAT TASK:** Confirm the success message appears when an update is made.
+- [ ] **Usability:** How easy is it for participants to select and save their options? Observe if they struggle to understand how to update or are confused about if only one selection or multiple selections can be made.
+- [ ] **Usability/Content:** How easy is it for participants to learn more about Gender identity? Observe if they struggle to 1) understand how to learn more/notice the FAQs, 2) to use the FAQ dropdown functions, or 3) if they are confused about the information included.
 
 ## 4. FAQs - 3 minutes
 
@@ -139,13 +139,13 @@ If they are LOA3:
 
 - Ok, thank you. You can go ahead and close that as well.
 
-
-	- [ ] **UAT TASK:** Confirm both FAQs and information contained are displayed as they should be.
-	- [ ] **UAT TASK:** Confirm FAQs open and close as expected.
-	- [ ] **UAT TASK:** Confirm radio buttons function as expected.
-	- [ ] **Usability:** Do users understand how to open and close the FAQs?
-	- [ ] **Usability:** Do users understand the information in the FAQs?
-	- [ ] **Usability (helpful for experimental design system component and overall placement):** Do participants notice the FAQs before they are pointed out?
+#### UAT and Usability Tasks
+- [ ] **UAT TASK:** Confirm both FAQs and information contained are displayed as they should be.
+- [ ] **UAT TASK:** Confirm FAQs open and close as expected.
+- [ ] **UAT TASK:** Confirm radio buttons function as expected.
+- [ ] **Usability:** Do users understand how to open and close the FAQs?
+- [ ] **Usability:** Do users understand the information in the FAQs?
+- [ ] **Usability (helpful for experimental design system component and overall placement):** Do participants notice the FAQs before they are pointed out?
 
 _Note: Usability questions/tasks here are helpful in moving the additional info FAQ component (when used as hint text) along in the experimental design system_
 
