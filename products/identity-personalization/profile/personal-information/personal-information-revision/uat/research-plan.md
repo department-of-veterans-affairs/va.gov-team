@@ -1,7 +1,7 @@
 # Research Plan for Authenticated Experience - Profile, Personal information UAT, April 2022
 
 ## Background
-To mitigate issues around Veterans being addressed improperly at health appointments, our team has added four new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA. 
+To mitigate issues around Veterans being addressed improperly at health appointments, our team has added two new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA. 
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) for more details.
 
