@@ -148,7 +148,7 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 
 ### Task
 
-* If you wanted to view ypprescriptions that are being tracked, how would you go about doing that?
+* If you wanted to view prescriptions that are on the way to you, how would you go about doing that?
 
 ### Things to watch for
 
