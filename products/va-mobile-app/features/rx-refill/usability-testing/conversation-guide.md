@@ -148,7 +148,7 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 
 ### Task
 
-* If you wanted to view tracking details for your Motrin prescription, how would you go about doing that?
+* If you wanted to view ypprescriptions that are being tracked, how would you go about doing that?
 
 ### Things to watch for
 
@@ -160,10 +160,12 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 
 ### Task
 
+* If you wanted to view tracking details for your Motrin prescription, how would you go about doing that?
 * When viewing a tracked prescription, what information would be important for you to know about that prescription? 
 
 ### Things to watch for
 
+* Are Veterans successfully able to navigate to the tracking details modal?
 * Do they understand that they can click on a prescription to view more information?
 
 ## Post-Task Interview - 2 minutes
