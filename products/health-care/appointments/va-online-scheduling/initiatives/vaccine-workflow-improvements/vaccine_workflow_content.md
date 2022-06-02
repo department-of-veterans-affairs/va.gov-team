@@ -6,8 +6,7 @@ We would like to improve the vaccine appointment workflow. In the current state,
 
 We want to remove the first dose requirements and allow the Veteran to schedule a COVID-19 vaccine appointment regardless if it's their first, second or booster dose. 
 
-When a Veteran starts scheduling a COVID-19 vaccine appointment in VAOS, the Veteran will see a page providing details for only scheduling a first dose and to call the facility for the second or booster dose. 
- 
+The team is looking for guidance and suggestions from the Content team to help improve the Veteran's experience when scheduling a COVID-19 vaccine online. 
 ---
 
 ## COVID-19 Workflow Details 
