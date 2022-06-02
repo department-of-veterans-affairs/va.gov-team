@@ -6,11 +6,12 @@
 
 ### Planning:
 - Desired date range: [date - date] or [duration]
-- How will existing users logins be cutover?
+- Can we release the application to staging and test while keeping the old application, or do we have to overwrite?
+- How will existing user logins be cutover?
      - How will Github authorization work?
      - Is there a new authorized app in Github? 
 - How will we roll it out? Will all staging users be immediately directed to the new app?
-- Is there any outtage time necessary?
+- Is there any outtage?
      - If so, how do we communicate this to the users?
      - Proactively include a message banner a few days ahead to alert them to the outtage?
 - What is the rollback plan?
