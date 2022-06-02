@@ -93,7 +93,7 @@ We are planning to launch by the end of July 2022.
 
 #### Team Members
 
-Kimberly Roberts, Michael Chaffee, Travis McKinstry, Yoni Doron-Peters, Todd Stanich, Suzanne Scott, Cam Bui, Rebecca Green, Aurelio Nogueira 
+Kimberly Roberts, Michael Chaffee, Stephen Ruiz, Suzanne Miller, Aurelio Nogueira, Cam Bui, Lex Joseph, Rebecca Green, Yoni Doron-Peters, 
 
 #### Stakeholders
 
