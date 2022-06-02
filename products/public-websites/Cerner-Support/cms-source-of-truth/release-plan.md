@@ -1,137 +1,90 @@
-# Release Plan Template
+# Cerner CMS Source of Truth Release Plan Template
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
+## Scope of release
+[Initiative: Cerner react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
 
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
+This is a backend data change that should remain invisible to site users. Thus, this release plan is not a standard plan in regard to exposing the feature to a % of prod users. 
 
-That's what this Release Plan Template is for!
+Cerner cutover support epic [#7158](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7158) includes a subset of tickets that describe this launch: 
+* [Add static data build step to content-build #8199](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8199)
+* [Add Electronic Health Care Record data query/endpoint #8201](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8201)
+* [Cerner, React: read EMHR indicator from JSON/CMS instead of hard-code #8687](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8687)
+* [Add feature toggle to switching data source for Cerner (hardcoded vs. Drupal) #9076](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9076)
+* [Document new state of Cerner source of truth #9248](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9248)
+* [Remove Cerner data source feature toggle and hard coded mechanism #9078](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9078)
 
----
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+
+## Phase I: Staging User Acceptance Testing, or UAT
+
+Users for this launch are downstream stakeholder teams whose apps rely on the existing hard coded `isCerner` value. We will deploy all code to both Staging & Prod, using a feature toggle that controls whether the Cerner data source is hard coded (Off) or Drupal CMS (On). 
+
+[Documentation in #9248](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9248)
+
+### Stakeholder Testers
+VAOS
+* Jeff Roof - PM, front end, Point of contact
+* Simi Adebowale - Lead Engineer, Point of contact
+* Leah de la Costa - Associate PM
+
+MyVA
+* Samara Strauss - PO, OCTO auth experience
+* Anastasia Jakabcin - VSA auth experience, Sr PM, Point of contact
+* Erica Sauve - PM
+* Taylor Mitchell - Engineer
+* Angela Agosto - Designer
+
+Health apartment
+* Tracey Mulrooney - Product lead
+* Christopher Froehlich - Engineer lead
+* Patrick Vinograd - Engineer lead, Point of contact
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration: TBD, tentatively PW Sprint 61, June 20-July 1
+- How you'll conduct the testing: In Staging, we will enable the feature toggle. Testers will update application code as needed to fetch the new Drupal CMS data, and test applications to confirm that the user experience does not change from current behavior in prod. 
 
 ### Results:
-- Number of users: x
+- Teams with confirmed testing results: 
+    - [ ] VAOS
+    - [ ] MyVA
+    - [ ] Health apartment
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Types of errors logged: 
+- Any changes necessary based on tests? yes/no 
+- If yes, what: 
+- If no, results of go / no go meeting: 
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+## Phase II: Go live / unmoderated production testing
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-Other exceptions to this requirement can be approved by DEPO VSP leads.
+This is not a Staged Rollout. The feature toggle will allow us to seamlessly return to current prod behavior with little to no user impact.
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date: Wed July 6, TBD Phase 1 testing results
+- How will you make the product available in production while limiting the number of users who can find/access it: In Production, we will enable the feature toggle. All users will be exposed to the change. This was deemed an acceptable risk, as the goal of the project is a seamless/invisible change from a user perspective. 
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Helpdesk tickets related to Cerner EHR access. If users report issues within any app that has adopted the Drupal CMS source of truth, we can disable the feature toggle and return to hard coded data.
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
-### Stage A: Canary
-
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
-#### Planning
-
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-### Stage B: moderate
-
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
-
-## Go Live!
-
-### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
-
-### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+### 2-week results:
+- Number of helpdesk issues / bugs filed: x
+- Any issues with VA handling/processing?: yes/no
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what: 
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Number of helpdesk issues / bugs filed: x
+- Any issues with VA handling/processing?: yes/no
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what: 
+
+
+## Phase III: Clean up tech debt
+
+### Planning:
+- Desired date: July 20, 2022 - Go / no go
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+
 
 ## Post-launch Questions 
 
