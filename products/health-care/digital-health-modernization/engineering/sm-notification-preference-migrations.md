@@ -38,5 +38,20 @@ A couple salient details
 
 Given the above, how do we get from point A to point B? What order of changes will allow notification functionality to continue uninterrupted but get us to the desired end state?
 
+### Scenarios
 
-### Challenges
+1. **MHV continues issuing notifications, move preference UX to VA.gov**<br/>
+Keep status quo on the backend, but relocate the preference setting to VA.gov. VA.gov would use the existing MHV notification preference API to make updates requested by the user. This will involve some one-off development of a notification preference setting that interacts with the MHV API instead of VA Profile's API.
+
+2. **MHV adopts VANotify for issuing notifications, specifies email address**<br/>
+Combine with the above - continue to manage notification preferences in MHV, via VA.gov frontend. But transition MHV to issuing notifications via VA Notify by specifying a direct recipient. Don't rely on VA Profile preferences. 
+
+3. **Migrate preferences to VA Profile**<br/>
+Ideally this should only happen after VA Notify is adopted for issuing notifications. If this happens while MHV is still issuing notifications, then MHV needs a mechanism to fetch the preference from VA Profile - either through vets-api, or directly from VA Profile's API.  
+
+### Migration/Change Management
+
+* It's unlikely we'll be able to do any bulk migration of notification preferences from MHV into VA Profile. It's not reasonable to overwrite the user's VA Profile email address with one from MHV without knowing the provenance of those two data fields. At most we could migrate the notification opt in/out state, but even that seems risky in cases where the email address differs (users start getting SM notifications at a different address without warning). More likely we'll need to have users explicitly confirm their notification preference. 
+* Given that, we most likely need an indicator of when users have confirmed/updated their notification preference in VA Profile for SM. That indicator needs to be available to the MHV backend so it can determine whether to keep sending notifications to the MHV-originated email address, or to send via VA Notify+VA Profile. 
+  * One option would be to set a reserved value like `migrated@example.com` in the MHV notification preference field. If MHV observes this value, they would know that notification preferences are migrated for this user.
+  * Alternatively, if VA Profile returns a null value that indicates a preference is un-set, then MHV could consume this field, but would need to do a net-new integration with VA Profile. 
