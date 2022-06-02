@@ -14,3 +14,4 @@
 - [`/introspect` Introspect](endpoints/introspect.md)
 - [`/signout` Signout/Logout](endpoints/signout.md)
 - [`/revoke` Revoke Tokens](endpoints/revocation.md)
+- [`/revoke_all` Revoke all sessions](endpoints/revoke_all.md)
