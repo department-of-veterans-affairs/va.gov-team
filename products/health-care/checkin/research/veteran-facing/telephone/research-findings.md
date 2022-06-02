@@ -9,18 +9,14 @@ Date: May 31, 2022
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/research-findings.pdf)
 
 # Background
-In general, there’s been an increase in telemedicine appointments, mainly due to COVID-19. This is often either via video or telephone.
-
-After stakeholder feedback and feasibility discussions, we decided to focus on integrating telephone appointments into pre-check-in. 
-
-We interviewed a VA provider and identified two potential pain points we wanted to address for our MVP. 
-
-Pre-check-in is currently available for in-person appointments.
-
-Veterans can review and confirm: 
+Pre-check-in is currently available for in-person appointments. Veterans can review and confirm: 
 - contact information
 - emergency contact
 - next of kin
+ 
+In general, there’s been an increase in telemedicine appointments, mainly due to COVID-19. This is often either via video or telephone.
+
+After stakeholder feedback and feasibility discussions, we decided to focus on integrating telephone appointments into pre-check-in. 
 
 We built an MVP for pre-check-in for telephone appointments.
 
