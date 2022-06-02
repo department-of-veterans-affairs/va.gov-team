@@ -39,10 +39,15 @@ Staging User  |Use Case|
 <br/>
 
 ### Combined VA Debt Portal Staging Users
+[Staging URL](https://staging.va.gov/manage-debt-and-bills/)
+[Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
 Staging User  |Use Case|
 |--|--|
-| test-user-##| TBD
-| test user-## |TBD
+| test-user-81 or test-user-228| Veteran only has one debt
+| test user-80 |Veteran only has one copay
+| test user-56 |Empty State:Veteran has neither a copay bill nor debt
+| test user-3 |Veteran is not enrolled in healthcare
+| test user-81 |Veteran has both a copay bill and debt
 
 <br/>
 <br/>
