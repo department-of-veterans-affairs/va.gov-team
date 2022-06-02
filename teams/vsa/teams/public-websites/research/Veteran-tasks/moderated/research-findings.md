@@ -120,7 +120,7 @@ Recommendation | Rationale
 -------------- | ---------
 Add to the survey welcome about **what we're doing** (i.e., mention VA, want to learn more about what VA benefits and services are most important to you so we can help) | 1 participant wanted to know the intent behind the survey to legitimize it
 Add to survey welcome: **"This is a short survey with a few short questions and one longer question"** | Participants were pleasantly surprised that the survey was so short after filling out the long task importance question
-Add to the survey ending message about **how to get info about any of the VA benefits** mentioned in this survey | Several participants said that they wanted to know more about some of the VA benefits
+Add to the survey ending message about **how to get info about any of the VA benefits** mentioned in this survey (go to VA.gov) | Several participants said that they wanted to know more about some of the VA benefits
 
 
 # Next Steps
