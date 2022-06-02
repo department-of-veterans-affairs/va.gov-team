@@ -112,9 +112,10 @@ When will the thing you are testing be finalized?
 - Finalized with minor updates in progress
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD 
+* Pilot participant email:robin.garrison@adhocteam.us
+	* Please invite adam.whitlock@adhocteam.us as well
 * Date and time of pilot session: 
-  * TBD
+  * 6/6/2022 - 2:30pm EST
 
 ### Research sessions
 What dates do you plan to do research? 
