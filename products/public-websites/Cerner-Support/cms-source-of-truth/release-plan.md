@@ -1,9 +1,9 @@
-# Cerner CMS Source of Truth Release Plan Template
+# Cerner CMS Source of Truth Release Plan - DRAFT
 
 ## Scope of release
-[Initiative: Cerner react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
+Initiative brief: [Initiative: Cerner react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
 
-This is a backend data change that should remain invisible to site users. Thus, this release plan is not a standard plan in regard to exposing the feature to a % of prod users. 
+This is a backend data change that should remain invisible to site users. 
 
 Cerner cutover support epic [#7158](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7158) includes a subset of tickets that describe this launch: 
 * [Add static data build step to content-build #8199](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8199)
@@ -14,34 +14,35 @@ Cerner cutover support epic [#7158](https://github.com/department-of-veterans-af
 * [Remove Cerner data source feature toggle and hard coded mechanism #9078](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9078)
 
 
+### Cerner cutover schedule
+During the testing / launch period for this change, additional Systems will cutover to Cerner. Timing for each phase is planned with respect to the following launches: 
+* June 13 - White City, Roseburg
+* June 25 - Boise
+* July 16 - Anchorage
+* August 27 - Puget Sound
 
-## Phase I: Staging User Acceptance Testing, or UAT
 
-Users for this launch are downstream stakeholder teams whose apps rely on the existing hard coded `isCerner` value. We will deploy all code to both Staging & Prod, using a feature toggle that controls whether the Cerner data source is hard coded (Off) or Drupal CMS (On). 
+## Phase I: Validate in Staging
 
-[Documentation in #9248](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9248)
+Integration testers for this release are downstream stakeholder teams whose apps rely on the existing hard coded `isCerner` value. 
+* VAOS
+* MyVA
+* Health apartment
 
-### Stakeholder Testers
-VAOS
-* Jeff Roof - PM, front end, Point of contact
-* Simi Adebowale - Lead Engineer, Point of contact
-* Leah de la Costa - Associate PM
+We will deploy all code to both Staging & Prod, using a feature toggle that controls the Cerner data source. 
+* Off = Hard coded data
+* On = Drupal CMS data
 
-MyVA
-* Samara Strauss - PO, OCTO auth experience
-* Anastasia Jakabcin - VSA auth experience, Sr PM, Point of contact
-* Erica Sauve - PM
-* Taylor Mitchell - Engineer
-* Angela Agosto - Designer
+[#9248](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9248) will capture final documentation for integration testing.
 
-Health apartment
-* Tracey Mulrooney - Product lead
-* Christopher Froehlich - Engineer lead
-* Patrick Vinograd - Engineer lead, Point of contact
 
 ### Planning:
-- Desired date range or test duration: TBD, tentatively PW Sprint 61, June 20-July 1
-- How you'll conduct the testing: In Staging, we will enable the feature toggle. Testers will update application code as needed to fetch the new Drupal CMS data, and test applications to confirm that the user experience does not change from current behavior in prod. 
+- **Desired date range or test duration**: 
+    - Deploy and enable Staging feature flag: ASAP, tentatively during PW Sprint 61, June 20-July 1
+    - Staging integration testing: July 18 - August 1
+- **How you'll conduct the testing:**
+    - We will enable the Staging feature toggle. 
+    - Testers will update application code as needed to fetch the new Drupal CMS data, and test applications to confirm that the user experience does not change from current behavior in prod. 
 
 ### Results:
 - Teams with confirmed testing results: 
@@ -52,23 +53,31 @@ Health apartment
 - Types of errors logged: 
 - Any changes necessary based on tests? yes/no 
 - If yes, what: 
-- If no, results of go / no go meeting: 
 
-## Phase II: Go live / unmoderated production testing
 
-This is not a Staged Rollout. The feature toggle will allow us to seamlessly return to current prod behavior with little to no user impact.
+## Phase II: Validate in Production
+
+This is not a Staged Rollout. Following Staging validation, we will enable the feature toggle in production. 
 
 ### Planning
 
-- Desired date: Wed July 6, TBD Phase 1 testing results
-- How will you make the product available in production while limiting the number of users who can find/access it: In Production, we will enable the feature toggle. All users will be exposed to the change. This was deemed an acceptable risk, as the goal of the project is a seamless/invisible change from a user perspective. 
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Helpdesk tickets related to Cerner EHR access. If users report issues within any app that has adopted the Drupal CMS source of truth, we can disable the feature toggle and return to hard coded data.
+- **Desired date**: Mon Aug 1, 2022, TBD Phase 1 testing results
+- **Go / No Go**: (ready/not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- **How will you make the product available in production while limiting the number of users who can find/access it:** 
+    - We will not limit the number of users exposed to the change. In Production, we will enable the feature toggle for all users. This was deemed an acceptable risk, as this is a backend data change, and the goal of the project is a seamless/invisible change from a user perspective. 
+- **What metrics-based criteria will you look at ("success criteria")?**: 
+    - Helpdesk tickets related to Cerner EHR access.
+    - TBD analytics deviation from baseline
+- **Response plan**:
+    - If metrics or users are negatively impacted, we will disable the feature toggle and return to hard coded data.    
 
 ### 2-week results:
 - Number of helpdesk issues / bugs filed: x
 - Any issues with VA handling/processing?: yes/no
 - Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- If yes, what: 
+- Any analytics affected? yes/no
 - If yes, what: 
 
 ### 1-month results:
@@ -77,14 +86,14 @@ This is not a Staged Rollout. The feature toggle will allow us to seamlessly ret
 - Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: 
-
+- Any analytics affected? yes/no
+- If yes, what: 
 
 ## Phase III: Clean up tech debt
 
 ### Planning:
-- Desired date: July 20, 2022 - Go / no go
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
-
+- **Desired date**: Mon Aug 29, 2022
+- If metrics from 2-week and 1-month results are acceptable, and feature flag has been enabled in production successfully for that period of time, we will remove the hard coded data path and the feature flag. Drupal CMS data will become the new baseline in production.
 
 ## Post-launch Questions 
 
