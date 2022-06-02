@@ -159,3 +159,9 @@ Do you have any feedback on what we looked at in this session or questions for m
 Great, again thank you so much! That concludes our session for today. We really appreciate you taking the time to test these updates. This helps us to make sure everything will work when we launch them for all Veterans on VA.gov. 
 
 Have a great rest of your day!
+
+## Emergency Exit Strategy
+
+We will be using the out of question exit strategy if an emergency arises:
+
+- Exit strategy: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
