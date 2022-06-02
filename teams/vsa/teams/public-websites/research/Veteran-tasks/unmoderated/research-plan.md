@@ -1,4 +1,4 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2) Survey, Sitewide Home Page team, June 1, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (Phase 2 of 2) Survey, Sitewide Home Page team, June 2, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
@@ -44,8 +44,8 @@ We would like to get complete survey responses from **at least 30 Veterans and o
 
 
 ### Research materials
-- [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx)--NOT READY YET
-- [Link to moderated research findings]()--NOT READY YET
+- [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research_Jun2EOD.xlsx)
+- [Link to moderated research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md)--NOT DONE YET
 - [Link to online survey]()--NOT READY YET
 
 ## Recruitment	
