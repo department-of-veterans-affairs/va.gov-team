@@ -10,7 +10,6 @@ _*REMINDER: Needs to be GitHub Link not ZenHub link_
 - [FSR] Itemize "other living expenses" provided by Veterans [#41718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41718)
 - [FSR] NaN are interfering with FSR column calculations #[41721](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41721)
 - Veteran entered compromise amount not seen on DMC Endpoint [#39033](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39033)
-- [Debt Letters] Expand the 'Debt letters history' table to 'Debt history' [#18354](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18354)
 - VBMS Letter Fix [#38770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38770)
 
 </br>
@@ -21,4 +20,4 @@ _*REMINDER: Needs to be GitHub Link not ZenHub link_
 
 ### Resolved
 
-- TBD
+- [Debt Letters] Expand the 'Debt letters history' table to 'Debt history' [#18354](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18354)
