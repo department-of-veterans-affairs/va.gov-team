@@ -2,7 +2,7 @@
 
 ## Overview
 
-We would like to improve the vaccine appointment workflow. In current state, we only allow the Veteran to schedule their first dose online. If they want to schedule a second dose, we ask the Veteran to call the facility. 
+We would like to improve the vaccine appointment workflow. In the current state, we only allow the Veteran to schedule their first dose online. If they want to schedule a second dose, we ask the Veteran to call the facility. 
 
 We want to remove the first dose requirements and allow the Veteran to schedule a COVID-19 vaccine appointment regardless if it's their first, second or booster dose. 
 
