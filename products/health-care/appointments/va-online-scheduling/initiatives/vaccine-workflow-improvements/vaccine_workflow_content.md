@@ -24,7 +24,7 @@ If the user selects Yes, then the user is prompted to a new screen indicating to
 <img width="582" alt="Screen Shot 2022-06-02 at 10 29 24 AM" src="https://user-images.githubusercontent.com/90797205/171654242-8e74ea61-b995-4480-89df-baf3febe8356.png">
 
 
-If the user select No, then the user proceeds with scheduling an appointment online. Once the user selects the date and time for the appointment, they are prompted to a screen that gives details of when to schedule a second dose. 
+If the user select No, then the user proceeds with scheduling an appointment online. Once the user selects the date and time for the appointment, they are prompted to a screen that gives details of when to plan for a second dose. 
 
 <img width="670" alt="Screen Shot 2022-06-02 at 10 29 57 AM" src="https://user-images.githubusercontent.com/90797205/171654444-2b78717d-89d0-4992-8c30-1c76ca375679.png">
 
