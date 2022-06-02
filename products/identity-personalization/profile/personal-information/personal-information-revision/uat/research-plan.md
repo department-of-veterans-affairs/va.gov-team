@@ -78,7 +78,6 @@ Please recruit 12 participants for 6 completed sessions.
 **Inclusion:**
 - At least 33% (4) of participants must identify as transgender
 - At least 33% (4) of participants must identify as non-binary or another gender identity other than cis-gender
-- At least 3 participants should have limited English proficiency
 - At least 50% of participants must identify as Hispanic, Native American, or Asian
 - 50% of participants should identify as other than male
 - At least 50% of participants should identify as having a cognitive disability
@@ -97,6 +96,7 @@ Please recruit 12 participants for 6 completed sessions.
 #### Secondary criteria (nice-to-haves)
 ##### Inclusion:
 - 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition)
+- At least 3 participants with a first language other than English
 - At least 3 Veterans living abroad (please work with researcher to coordinate time zones)
 - At least 2 Veterans with other than honorable discharge
 - At least 3 Veterans who have an immigrant origin
