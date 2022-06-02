@@ -12,10 +12,12 @@ When a Veteran starts scheduling a COVID-19 vaccine appointment in VAOS, the Vet
 
 ## COVID-19 Workflow Details 
 
-When a Veteran starts scheduling their COVID-19, the user is given intrustions on scheduling a vaccine appointment. 
+When a Veteran starts scheduling their COVID-19 appointment in VAOS, the user is given intrustions on scheduling a vaccine appointment. 
 
+_User selects COVID-19 as the type of care_
 <img width="463" alt="Screen Shot 2022-06-02 at 10 28 42 AM" src="https://user-images.githubusercontent.com/90797205/171653767-4bfe645a-c66d-47c0-9224-bb8e8cd17545.png">
 
+_User directed to a new screen dislaying instructions to schedule a COVID-19 appointment_
 <img width="555" alt="Screen Shot 2022-06-02 at 10 29 00 AM" src="https://user-images.githubusercontent.com/90797205/171653837-ecfecb61-7f73-4692-9ca4-e4c37b6eb510.png">
 
 After the user clicks on Continue, the user will answer the question if they have received the first dose. 
