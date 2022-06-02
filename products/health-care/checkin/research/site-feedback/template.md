@@ -14,8 +14,20 @@ How to name the file: mmddyyyy-SiteName.md
 ## Feedback item 
 Details of feedback
 
+**What product(s) does this feedback apply to**
+- [ ] VSE
+- [ ] CHIP
+- [ ] VeText
+- [ ] VA.gov
+
 ## Feedback item 
 Details of feedback
+
+**What product(s) does this feedback apply to**
+- [ ] VSE
+- [ ] CHIP
+- [ ] VeText
+- [ ] VA.gov
 
 ## Next steps
 - Details
