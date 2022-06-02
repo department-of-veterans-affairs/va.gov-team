@@ -10,7 +10,7 @@ The CSWs look at the facilities that a user is associated with and then provide 
 When we're successful, across all experiences on VA.gov related to Cerner/VistA, cutting a system/facility over to Cerner will be a matter of configuration (in Drupal) rather than a code change that has to be deployed to reach users. 
 
 **Related/Associated product(s)**
-- Cerner React Widgets | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support)
+- Cerner React Widgets | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/product-outline.md)
 
 
 ## Discovery
