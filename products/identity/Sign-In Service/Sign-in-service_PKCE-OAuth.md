@@ -17,10 +17,12 @@ This document describes how our PKCE OAuth partners can integrate with the Sign 
  
 ## Sign in service will provide: 
 - Unified Sign in Page: `staging.va.gov/sign-in?application=vamobile`
-- Authorization endpoint: `staging-api.va.gov/v0/sign_in/CSP/authorize`
+- Authorization URL: `staging-api.va.gov/v0/sign_in/CSP/authorize`
 - Token URL: `staging-api.va.gov/v0/sign_in/token`
 - User info/introspect URL: `staging-api.va.gov/v0/sign_in/introspect`
 - Refresh URL: `staging-api.va.gov/v0/sign_in/refresh`
+- Revocation URL: `staging-api.va.gov/v0/sign_in/revoke`
+- Revoke_all URL: `staging-api.va.gov/v0/sign_in/revoke_all`
 
 ## Sign in Service Well-Known Configurations
 - Dev: TBD
@@ -194,6 +196,12 @@ curl -X POST https://staging-api.va.gov/v0/sign_in/refresh -H 'Content-Type: app
   }
 }
 ```
+
+## Revoke All Endpoint
+- This endpoint expects a valid access token from the user to be present when calling the `revoke_all` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
+
+## Revocation Endpoint
+- This endpoint will allow a user to logout of the current session, not impacting other sessions for the same user on another device. The function should remove the access and refresh tokens from the endpoint and invalidate the refresh token on the backend. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revocation.md).
 
 ## Logging and Monitoring
 The following links will provide information about the SiS.
