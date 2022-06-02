@@ -96,7 +96,7 @@ Please recruit 12 participants for 6 completed sessions.
 #### Secondary criteria (nice-to-haves)
 ##### Inclusion:
 - 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition)
-- At least 3 participants with a first language other than English
+- At least 3 participants with a first language other than English (please note that sessions will be held in English)
 - At least 3 Veterans living abroad (please work with researcher to coordinate time zones)
 - At least 2 Veterans with other than honorable discharge
 - At least 3 Veterans who have an immigrant origin
