@@ -19,7 +19,7 @@ Before we start, a few things I want to mention:
 
 - **If for any reason and at any time you want to stop the session, please let me know.**
 
-- **Are you comfortable if I record my screen and audio as we talk today?** I will stop the recording while you are logging into the site so we don't record your personal information. We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- **Are you comfortable if I record my screen and audio as we talk today?** I will stop the recording while you are logging into the site so we don't record your login information. We use the recordings to confirm that we have captured your opinions accurately, and the recordings are destroyed after we complete analysis. So none of your comments will be attributed to you directly.
 	- _If yes:_ **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
 _Start recording._
@@ -41,19 +41,20 @@ _Confirm they qualify for the study._
 	- _If not:_ Are these readily accessible? Could you get them?
 	- _If the user can not remember or retrieve their login credentials, end the session:_ Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
+- Great! I'll have you log in in just a second. 
+
 - So today we’re going to observe you interacting with the new feature. Would you feel comfortable sharing your screen with me at this time? 
+
+- Great! Thanks for confirming. In that case, we can move on to the website. Please share your screen and then we will get started.
 	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-Great! Thanks for confirming all of that. 
-
-OK, let’s move on to the website. Please share your screen and then we will get started.
-
 ## 1. Review Personal information section - 5 minutes
 
-- So now I'd like you to open a new tab in your browser, and go to https://www.va.gov/. Then go ahead and log in. 
+- So now I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
+- Now you can go ahead and log in. I will stop the recording as you do that.
 - Now that you are logged in, please go to your Profile by clicking on your name in the top right corner. 
-- Let’s review the Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
+- So we're going to review the Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
 
 #### UAT and Usability
 - [ ] **UAT TASK:** _Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, end the session._ I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
@@ -158,7 +159,7 @@ Do you have any feedback on what we looked at in this session or questions for m
 
 Great, again thank you so much! That concludes our session for today. We really appreciate you taking the time to test these updates. This helps us to make sure everything will work when we launch them for all Veterans on VA.gov. 
 
-Have a great rest of your day!
+So thank you again and have a great rest of your day!
 
 ## Emergency Exit Strategy
 
