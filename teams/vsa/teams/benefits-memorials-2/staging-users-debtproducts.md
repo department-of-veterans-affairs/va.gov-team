@@ -39,7 +39,8 @@ Staging User  |Use Case|
 <br/>
 
 ### Combined VA Debt Portal Staging Users
-[Staging URL](https://staging.va.gov/manage-debt-and-bills/)
+[Staging URL-https://staging.va.gov/manage-debt-and-bills/](https://staging.va.gov/manage-debt-and-bills/) 
+[Note(6/2)until content pages are added add 'summary' at end of url
 
 [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
 Staging User  |Use Case|
