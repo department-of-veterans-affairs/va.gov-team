@@ -17,7 +17,7 @@
 
 ### Potential Q3 - Q4 projects
 
-- Research to determine what to do next with the profile
+- Research to determine what to do next with the My VA.
 
 ## Profile
 
@@ -42,4 +42,4 @@ None of these would start until all Q2 launches are wrapped.
 - Tackle profile backlog
   - FE: Alert styling updates from Liz's audit last summer.
   - Design: Should we implement editing on a single page? If so, this would be a big research + design + FE effort.
-- Research to determine what to do next with the profile
+- Research to determine what to do next with the profile.
