@@ -23,6 +23,7 @@
 ### CMS standards
 
 - [ ] Make sure all apostrophes and quotation marks are curly not straight. (Once this is automatic in Drupal, we can remove this item.)
+- [ ] If there are alerts at the top of the Drupal Edit node for broken links, redirected links, or links to unpublished pages, correct the issues. If there's an alert for a broken link but the link is actually working, report the issue to the CMS help desk. [Read more about link alerts in the CMS knowledge base](https://prod.cms.va.gov/help/cms-basics/how-to-fix-broken-links-and-redirects)
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
 
 ### Additional checks for Resources and Support articles
