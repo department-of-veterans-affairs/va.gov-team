@@ -25,6 +25,8 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 # Research Goals
 We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the VA.gov home page. The goal of this research was to **get feedback from Veterans and others** (including Veterans' family members or caregivers, survivors, and service members) **on a survey designed to identify Veteran top tasks**. We wanted to get feedback on the tasks, questions, and instructions before launching the unmoderated survey to a large group of Veterans and others to complete independently (without a researcher present).
 
+*Note: Because this research is like an extended pilot of the survey, this abbreviated report describes the findings and recommendations needed to make revisions to the survey and then move forward with the unmoderated research. Some details have been omitted in order to move as quickly as possible to the unmoderated research.*
+
 Veteran tasks fit into the Veteran journey throughout their lives:
 - Starting up (Serving in and separating from the military)
 - Living civilian life
