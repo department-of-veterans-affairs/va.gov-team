@@ -89,7 +89,7 @@ Overall, we would like to get about
 
 #### For Cohort H (6 participants: Veterans, Caregivers, Veteran family members, survivors, or service members)
 - All must have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort G study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=H)
+- [Cohort H study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=H)
 
 ### Secondary participant criteria (nice to haves) across all cohorts:
 - At least 6 women
