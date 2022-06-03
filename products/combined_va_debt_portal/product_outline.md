@@ -41,11 +41,11 @@ This solution will empower the Veteran to see all their debt and copayment state
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |Combined Debt Portal Pageviews          |                    |                    |        |
-| KPI      | Click Thru Rates            |                    |                    |        |
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
+| KPI      |             | All Pageviews to /manage-debt-and-bills/ |  |     |
+| KPI      |             | All Pageviews to /manage-debt-and-bills/summary/ |                    |        |
+| KPI      |             | CTR from /manage-debt-and-bills/summary/ To /manage-debt-and-bills/summary/copay-balances/   |                    |        |
+| KPI      |             | CTR from /manage-debt-and-bills/summary/ To /manage-debt-and-bills/summary/debt-balances/  |                    |        |
+| KPI      |             | Total Bounces on /manage-debt-and-bills/summary/ |                    |        |
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
@@ -53,8 +53,8 @@ This solution will empower the Veteran to see all their debt and copayment state
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
-  - Key result: 
-  - Key result: 
+  - Key result:  Pageviews to /manage-debt-and-bills/summary/ XXX pageviews per day
+  
 
 
 ---
@@ -83,18 +83,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  -  March 29, 2022
+  -  June 28, 2022
 - *Actual Launch Date* 
   - tbd
 - *Post Launch Evaluation*
-	-  tbd
-- *Impact Review*
-  - tbd
+	-  Planned for July 18
+
 
 ---
 
 ## Solution Narrative
-
+[User Flow](https://app.mural.co/t/vsa8243/m/vsa8243/1645453970389/5712442eb61e558df96599ac35c346436aafcc9c?sender=riley5075)
+[Design Prototype](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages//simulate/sitemap?mode=i)
 ### Current Status
 
 ### Key Decisions
@@ -115,7 +115,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Team Name: Debt Resolution
 - GitHub Label: vsa-debt
-- Slack channel: #vsa-debt
+- Slack channel: #benefits-team-2
 
 
 </details>
@@ -127,7 +127,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  - DEPO Lead: Matt Self
  - PM: Denise Coveyduc
  - Engineering: Scott James, Brandyn Sullins, Andrew Rodiek
- - Research/Design:  Riley Orr
+ - Research/Design:  Riley Orr, Megan Gayle
  
  
 </details>
