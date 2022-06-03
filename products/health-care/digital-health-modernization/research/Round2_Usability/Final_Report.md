@@ -6,7 +6,7 @@ Date: 05/14/2022
 
 Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
-[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/RecruitmentTracker.png)
+[Research Report PDF]( )
 
 <br>
 
