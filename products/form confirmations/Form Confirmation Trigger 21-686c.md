@@ -21,8 +21,8 @@ The 21-686c and the 21-674 have a somewhat joined workflow. This trigger is only
 
 _Link to the following materials as relevant._
 
-- VFS-facing Product README (in `/platform`)
-- Any product health or success dashboards
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/form%20submission%20product%20outline.md)
+- [DOMO Dashboard](https://va-gov.domo.com/page/2040841289)
 
 ### Communications
 
