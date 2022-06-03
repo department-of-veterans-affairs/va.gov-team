@@ -1,4 +1,4 @@
-# May 2022 Usability study resources 
+# June 2022 Usability study resources 
 
 This folder contains the combined debt portal's usability study materials. 
 
