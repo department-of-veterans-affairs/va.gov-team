@@ -85,9 +85,10 @@ If they are LOA3:
 - Ok, now this is totally optional, but if you are comfortable doing so, I’d like you to type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	
-- _If yes to question above:_ Is there anything about this process that is confusing? _If no to question above:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
-	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
-	- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
+- _If YES to question above:_ Is there anything about this process that is confusing? 
+- _If NO to question above:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
+- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -111,9 +112,13 @@ If they are LOA3:
 - Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- If you do want to make a selection, I’ll have you go ahead and click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 
-- _If yes to question above:_ Is there anything about this process that is confusing? _If no to question above:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
-	- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
-	- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered?
+- _If YES to question above:_ Is there anything about this process that is confusing? 
+
+- _If NO to question above:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+
+- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
+
+- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
