@@ -38,7 +38,7 @@ Staging User  |Use Case|
 | test user-87  | Veteran is not enrolled in VA health care
 <br/>
 
-### Combined VA Debt Portal Staging Users
+### Combined Debt Portal Staging Users
 [Staging URL-https://staging.va.gov/manage-debt-and-bills/](https://staging.va.gov/manage-debt-and-bills/) 
 [Note(6/2)until content pages are added add 'summary' at end of url
 
