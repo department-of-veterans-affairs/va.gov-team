@@ -6,7 +6,7 @@ Date: 05/14/2022
 
 Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
-[Research Report PDF]( )
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/RecruitmentTracker.png)
 
 <br>
 
@@ -251,4 +251,4 @@ This research does not include the perspectives of the following marginalized Pa
 * Expat veterans
 
 
-![Recruitment tracker](not sure how to put this in) 
+![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/RecruitmentTracker.png)
