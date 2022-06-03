@@ -4,13 +4,10 @@
 
 ## My VA
 
-### Q2 expected launch (before the end of June)
-
-- **Logged out homepage > Sign in > My VA redirect**: Begin launch June 2022; Phase launch and monitor analytics through June.
-
 ### Q3 expected launch (before the end of September) 
 
-- **Launch on-site notifications**: Launch expected July 2022.
+- **Launch on-site notifications MVP**: Launch expected July 2022.
+- **Logged out homepage > Sign in > My VA redirect**: Launch expected July 2022.
 - **V2 of benefit payments and debts**: Launch TBD. Haven't completed long term planning for this.
 - **Cerner updates**: Ongoing throught Summer 2022, though this is a small effort.
 - **My VA audit and related updates**: On going large effort. Expected through Summer 2022.
@@ -18,6 +15,7 @@
 ### Potential Q3 - Q4 projects
 
 - Research to determine what to do next with the My VA.
+- Continued on-site notifications work.
 
 ## Profile
 
