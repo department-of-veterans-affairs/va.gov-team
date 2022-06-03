@@ -12,13 +12,13 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#hypotheses-and-conclusions)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#key-findings)
+[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#recommendations)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#appendix)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#who-we-talked-to)
 
 <br>
 
