@@ -95,7 +95,7 @@ Labels:
 
 In the previous round of research with a desktop prototype participants were confused by the navigation breadcrumbs but the secondary navigation on the left side of the worked well.
 
-> 
+> There is a MyHealtheVet with a back arrow I would click on that. (P1, Veteran)
 
 
 **2. Participants were able to successfully complete many basic health-related tasks.**
@@ -104,7 +104,7 @@ Labels:
 
 The tasks they completed include refilling their medications, sending their providers a message, viewing their medical records, making an appointment, and viewing details about an existing appointment. This was true in the desktop (Round 1) and the mobile (Round 2) prototype.
 
-> I would click on the appointment details and get everything I need. (P6, Participant)
+> I would click on the appointment details and get everything I need. (P6, Veteran)
 
 
 **3. Participants were confused about certain terms, including "Pending," "Blue Button,” and “Adverse Reactions.”**
@@ -113,7 +113,7 @@ Labels:
 
 50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round.  None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
 
->  
+> Allergies and adverse reactions. I am guessing you can put in the medication, and it would give you the possible adverse reactions. (P1, Veteran) 
 
 
 **4. Participants did not find the pre-appointment paperwork under the "Pre-check in" link in the "In This Section" menu.**
@@ -122,7 +122,7 @@ Labels:
 
 When asked where they would expect to find the link, participants expected to find it under Appointment Details or in their Messages. In the previous desktop design users also did not expect to find their paperwork under the Pre-check in link, but the link was more discoverable because it was in the side navigation and so more of them saw it.
 
-
+> [Pre-check-in] could be in the details tab. Right here on the phone I should be able to fill it out. (P15, Veteran)
 
 
 # Additional Insights
