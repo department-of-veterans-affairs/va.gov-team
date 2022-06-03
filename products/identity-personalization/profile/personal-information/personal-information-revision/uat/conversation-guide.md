@@ -132,7 +132,7 @@ If they are LOA3:
 
 ## 4. FAQs - 3 minutes
 
-- Ok, there’s one more thing I’d like you to try out. On the top of the page just under Personal information, please take a look at those two phrases with the dotted lines underneath them. _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
+- Ok, now we'll go to top of the page just under Personal information. Please take a look at those two phrases with the dotted lines underneath them. _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
 
 - Did you notice those before?
 
