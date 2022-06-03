@@ -34,6 +34,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 |------|-------|
 |1. What use cases do we need to test (single notification, multiple notifications, etc)? We'll want this so we can make sure the backend team sends us exactly what they need.|[On-site notification test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Onsite-Notification.md) |
 |2. For QA on Staging, can notification dismissed-states be manually cleared? If yes, how?|[If no (i.e., test-acct gets "burnt"), then QA would need 12-15 Staging test-accts for cross-device/-browser testing]|
+|3. What does the backend team need from us in order to add debts for our staging users?| They need the "file number" for each user, which is almost always the SSN for the user. We have SSNs for our staging users, so we can get the SSNs to the backend team before our end-to-end testing.|
 
 ## Timeline (tentative)
 
@@ -43,7 +44,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 ### 5/23 - 5/27
 - [ ] Tom (My VA) completes work to update tokens for vets-API (tentative)
 - [ ] VA Notify completes work and connectivity testing with My VA's API. 
-- [x] Taylor (My VA) complets FE work 
+- [x] Taylor (My VA) completes FE work 
 
 ### 5/30 - 6/3
 - [ ] My VA, VA Notify and DMC folks meet to coordinate test plan which should be scheduled to take place week 6/8 - 6/21
