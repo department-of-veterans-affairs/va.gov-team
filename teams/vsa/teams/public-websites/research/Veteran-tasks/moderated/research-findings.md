@@ -166,12 +166,14 @@ Add to the survey ending message about **how to get info about any of the VA ben
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts]([link here])
 
 
 ## Tools used for Synthesis
 
-[Synthesis spreadsheet](link here)
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Top-Tasks-notes%26data-analysis.xlsx)
+
+[Survey data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Survey-data-from-moderated-sessions.xlsx)
 
 
 ## Survey used
