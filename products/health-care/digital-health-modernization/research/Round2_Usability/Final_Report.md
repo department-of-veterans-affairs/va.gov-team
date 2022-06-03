@@ -78,69 +78,70 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 # Key Findings
 
-1. Users were able to successfully complete most basic health-related tasks.
+1. Most participants (6/7) were able to successfully navigate from the primary  page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages. 
 
-2. Most users were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.
+2. Participants were able to successfully complete many basic health-related tasks.
 
-3. Users were confused about certain terms including "Pending" and "Blue Button".
+3. Participants were confused about certain terms, including "Pending," "Blue Button,” and “Adverse Reactions.”
 
-4. Users did not find the "Pre-check in" link in the "In This Section" menu.
+4. Participants did not find the pre-appointment paperwork under the "Pre-check in" link in the "In This Section" menu.
 
 
 # Details of Findings 
 
-**1. Participants were able to successfully complete most basic health-related tasks.** 
+**1. Most participants (6/7) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
 
 Labels: 
 
-The health-related tasks that users were able to complete included refilling their medications and sending their providers a message.  They were also able to view their medicial records, including labs and x-rays. Finally they were able to make an appointment and view details about an existing appointment. This was consistent with the previous round of testing.
+In the previous round of research with a desktop prototype participants were confused by the navigation breadcrumbs but the secondary navigation on the left side of the worked well.
+
+> 
+
+
+**2. Participants were able to successfully complete many basic health-related tasks.**
+
+Labels: 
+
+The tasks they completed include refilling their medications, sending their providers a message, viewing their medical records, making an appointment, and viewing details about an existing appointment. This was true in the desktop (Round 1) and the mobile (Round 2) prototype.
 
 > I would click on the appointment details and get everything I need. (P6, Participant)
 
 
-**2. Most participants were able to successfully navigate from the main page to sub-pages and back; however, they struggled with finding sub-navigation within pages.**
-
-Labels: 
-
-9 users interacted with the sub-navigation which was a drop down labeled "In This Section" and they interacted with it in a variety of ways. (Users may have interacted with the menu in multiple ways.)
-- 5 of the 9 participants interacted with the subnavigation when asked where they would go if they had questions about the content of the page. There are "FAQ" and "How to" links in the menu.
-- 3 of the 9 participants tried to sort their messages in the "In This Section" navigation which is not possible.
-- 1 of the 9 participants tried to use it to navigate to the home page which is not possible.
-- 4 of the 9 participants interacted with the menu after prompting for the moderator (ie. Do you see a way that you can do that on this page?)
-
-In the previous round of research with a desktop, protoype participants were able to navigate using the sub-navigation in the left rail, but struggled with navigating from the main page to sub-pages and back using the bread crumbs.
-
-> If you had a question about your messages- well . . . I don't know, maybe I'd just have to see if there's a FAQ or something or option to click for help in "Message menu". (P1, participant)
-
-
-**3. Participants were confused about certain terms including "Pending" and "Blue Button".**
+**3. Participants were confused about certain terms, including "Pending," "Blue Button,” and “Adverse Reactions.”**
 
 Labels:
 
-50% of participants had heard of Blue Button and understand what it did or had used it before.  None of the participants knew that Pending appointments had not yet been confirmed by the VA.
+50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round.  None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
 
->  See what is a blue button? I am not familiar with that term. (Participant, P6)
+>  
 
 
-**4. Participants did not find the "Pre-check in" link in the "In This Section" menu.**
+**4. Participants did not find the pre-appointment paperwork under the "Pre-check in" link in the "In This Section" menu.**
 
 Labels:
 
-Half of participants expected to find it under Appointment Details and the other half expected to find it in their Messages.
+When asked where they would expect to find the link, participants expected to find it under Appointment Details or in their Messages. In the previous desktop design users also did not expect to find their paperwork under the Pre-check in link, but the link was more discoverable because it was in the side navigation and so more of them saw it.
 
 
 
 
 # Additional Insights
 
-- Most users (10/11) logged in using the embedded sign in/create an account button. The eleventh user talked about both the button and the link at the top of the page.
-- Some users confused the VA.gov header menu and footer links with MHV content.
+- Most users (10/11) logged in using the embedded sign in/create an account button.  In the previous round of testing with the desktop prototype users saw both options. 
+- Some users did not see the difference between health tool content and the VA.gov header, menu, and footer.
+- Users understood prescription statuses, such as in process, renew soon, and in transit. In the previous round users struggled with this aspect of the pharmacy tool.
+- 9 of 11 participants found or commented on the ability to search messages.  This is an improvement from 6 of 11 participants in the previous round.
+
 
 # Recommendations
 
-* Recomendation 1
-	* _Sub-rec 1_
-	* _Sub-rec 2_
+* Explore the feasibility of changing the language on the “In this section” menu to help Veterans know what to expect inside the menu and to help Veterans understand the differences between health navigation and Va.gov navigation.
+* Adopt the naming convention of VA.gov and Heath Homepage in the breadcrumbs.
+* Coordinate with other teams working on appointment scheduling to find language that is clearer to Veterans than “Pending” appointments.
+* Consider what the pre-checkin experience should be going forward.  In both the desktop and mobile prototypes participants expected tools to be linked, for example they expected to see pre-checkin paperwork in their appointment details because the paperwork is related to a specific appointment.
+* Continue to pay attention to pharmacy label text in future rounds, participants struggled with it in the desktop prototype but it tested well in the mobile prototype.
+* Continue with both the login button and the login link as they tested well on mobile and desktop.
+
 
 
 # Next Steps
@@ -229,13 +230,13 @@ Race:
 
 
 * Cognitive: 5
-* AT beginner: 0
-* AT advanced user: 2
+* AT beginner: 1
+* AT advanced user: 1
 * Desktop screen reader: 1
 * Mobile screen reader: unknown
 * Magnification/Zoom: 2
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-* Hearing aids: 1
+* Hearing aids: 2
 * Sighted keyboard: 0
 * Captions: 0
 * Dark mode: 1
