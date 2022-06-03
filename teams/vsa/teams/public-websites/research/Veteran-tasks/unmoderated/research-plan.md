@@ -105,11 +105,11 @@ To assess potential participants' experiences with VA benefits or services, plea
 
 For potential participants who don't have any experience with VA benefits or services, the recruitment emails we provide will ask for interest in VA benefits or services.
 
-We will provide an [outreach email template--NOT READY YET](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md) and a unique survey link for Perigean to use when reaching out to each cohort of potential participants. 
+We will provide an [outreach email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md) and a unique survey link for Perigean to use when reaching out to each cohort of potential participants. 
 
 We will include a required field at the beginning of the survey to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the survey. 
 
-We estimate it will take participants 10 minutes *(need to verify!)* to complete the survey.
+We estimate it will take participants 5 minutes to complete the survey.
 
 ## Timeline
 - The survey will be open for at least 1 week starting on June 13, and should remain open until there are at least 30 (ideally 40-50) completes.
