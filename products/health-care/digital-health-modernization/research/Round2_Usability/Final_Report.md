@@ -89,11 +89,11 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 # Details of Findings 
 
-**1. Most participants (6/7) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
+**1. Most participants (5/9) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
 
 Labels: 
 
-In the previous round of research with a desktop prototype participants were confused by the navigation breadcrumbs but the secondary navigation on the left side of the worked well.
+4 participants said they would use the back button. In the previous round of research with a desktop prototype participants were confused by the navigation breadcrumbs but the secondary navigation on the left side of the worked well.
 
 > There is a MyHealtheVet with a back arrow I would click on that. (P1, Veteran)
 
