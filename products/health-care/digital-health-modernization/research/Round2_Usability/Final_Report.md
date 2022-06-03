@@ -67,18 +67,18 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 # Hypotheses and Conclusions
 
 - Participants will easily understand the idea of a centralized place where they can access their VA healthcare information.
-	- *Definitely True*. Participants easily understood our prototype to be a centralized place to access their healthcare information, and even their other non-healthcare benefits.
+	- *Mostly True*. Participants understood our prototype to be a centralized place to access their healthcare information, and some understood it would include their other non-healthcare benefits.
 - Participants will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care.
 	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
 - Participants will be able to accomplish a variety of health tasks as designed in this prototype.
-	- *Likely True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
+	- *Mostly True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
 - Participants will be able to smoothly use the proposed navigation for MHV on a mobile device.
 	-  *Mostly True*. Participants navigated successfully through the higher levels of the IA but struggled with navigating within specific pages.
 
 
 # Key Findings
 
-1. Most participants (6/7) were able to successfully navigate from the primary  page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages. 
+1. Many participants (5/9) were able to successfully navigate from the primary  page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages. 
 
 2. Participants were able to successfully complete many basic health-related tasks.
 
@@ -89,7 +89,7 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 # Details of Findings 
 
-**1. Most participants (5/9) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
+**1. Many participants (5/9) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
 
 Labels: 
 
@@ -150,9 +150,9 @@ Our next steps are to bring these findings to our design team and iterate on our
 
 
 # Appendix
-- [Research Plan]( )
-- [Conversation guide]( )
-- [Interview transcripts]( )
+- [Research Plan]([ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/research-plan.md))
+- [Conversation guide]([ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/conversation_guide.md))
+- [Interview transcripts]([ ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/Round2_Usability))
 
 
 
