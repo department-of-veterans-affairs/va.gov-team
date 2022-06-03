@@ -112,7 +112,7 @@ We estimate it will take participants 5 minutes to complete the survey.
 - The survey will be open for at least 1 week starting on June 13, and should remain open until there are at least 30 (ideally 40-50) completes.
 
 ### Prepare
-- The survey link will be tested by several people on June 6.
+- The survey link has been tested by several people on June 3.
 
 ## Team Roles	
 - Research guide writing and task development:	Cindy Merrill
