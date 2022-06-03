@@ -12,8 +12,7 @@ Latest Release (PDF)
 - [11" X 17"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) III [11" x 17" (US Territories)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834049/11x17-v1.1.US.Territories.pdf) for Philippine 
 
 
-- [24" x 36"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf)
-- [24" x 36" (US Territories)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834051/24x36-lowvision-v1.5.US.Territories.pdf) for Philippine
+- [24" x 36"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) --- [24" x 36" (US Territories)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834051/24x36-lowvision-v1.5.US.Territories.pdf) for Philippine
 
 
 Previous Release/Version (PDF)
