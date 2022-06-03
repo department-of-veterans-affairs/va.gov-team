@@ -7,7 +7,7 @@ Latest Release (PDF)
   - 6/02/2022 - Added US Territories posters
   - 4/12/2022 - Updated background colors<br><br>
 - [8.5" X 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542776/8.5x11-v1.1.pdf) 
--- [8.5" x 11" (US Territories)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834029/8.5x11-v1.1.US.Territories.pdf) for Philippine 
+/// [8.5" x 11" (US Territories)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834029/8.5x11-v1.1.US.Territories.pdf) for Philippine 
 
 
 - [11" X 17"](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf)
