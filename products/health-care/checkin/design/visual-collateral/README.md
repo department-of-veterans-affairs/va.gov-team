@@ -19,8 +19,8 @@ Previous Release/Version (PDF)
 - Release Notes
   - 10/20/2021 - As of 4/19/2022, still in facilities that haven't replaced their posters with lastest release<br><br>
 - [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7899242/8.5x11-v1.pdf)
-- [11" X 17"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/11x17-checkin-poster.pdf)
-- [24" X 36"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/24x36-checkin-poster.pdf)
+- [11" X 17"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/11x17-checkin-poster.pdf) - TBD
+- [24" X 36"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/24x36-checkin-poster.pdf) - TBD
 
 ### Sketch file
 Graphic designers: Here is the original Sketch files to make changes, if you don't see what you need above:
