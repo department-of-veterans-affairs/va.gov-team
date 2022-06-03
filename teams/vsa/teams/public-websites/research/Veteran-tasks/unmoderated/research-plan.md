@@ -120,5 +120,5 @@ We estimate it will take participants 5 minutes to complete the survey.
 - Project point of contact:	Cindy Merrill
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on DATE TBD
+- Reviewed and approved by Dave Conlon (PO) on June 3, 2022
 - Reviewed and approved by Shane or Clayton on DATE TBD
