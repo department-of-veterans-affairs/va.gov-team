@@ -47,7 +47,7 @@ Veteran tasks fit into the Veteran journey throughout their lives:
 
 We conducted remote moderated research sessions via Zoom. Research participants were asked about VA-related tasks that they do, and then were given an online survey link to do while sharing their web browser screen and talking aloud.
 
-The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks that were  synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The [list of tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research.xlsx) was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
+The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The list of tasks was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
 
 In the survey, participants were asked to select which VA-related tasks were important to them personally right now (*not* for all Veterans). Participants were also asked if there were any VA-related tasks that were important to them that weren't on the list, and which tasks they do most frequently.
 
@@ -56,11 +56,11 @@ In the survey, participants were asked to select which VA-related tasks were imp
 
 1. Veterans and others will find the survey intuitive to use from desktop or mobile.
 
-    2. TRUE: All participants were able to fill out the survey from the desktop or mobile device they were using. 
+    2. TRUE: All participants were able to readily fill out the survey from the desktop or mobile device they were using. 
 
 3. Veterans and others will be able to select which of the VA-related tasks presented in the survey are most important to them.
 
-    2. MOSTLY TRUE: All participants were able to select important tasks but some of the tasks were unclear to a few of the participants.
+    2. MOSTLY TRUE: All participants were able to select important tasks, but some of the tasks were unclear to a few of the participants.
    
 5. Veterans and others won't find any important tasks missing from the survey.
 
@@ -72,13 +72,13 @@ In the survey, participants were asked to select which VA-related tasks were imp
 2. Three participants were **unclear on the meaning of a few of the tasks**.
 7. Two participants **didn't scroll on the task importance question** and so didn't see the full task list. 
 8. Two people said that the **long list of tasks was overwhelming** and recommended breaking them down into categories. The other 5 participants thought the list was OK as is.
-10. (Preliminary results) Top tasks: The tasks **selected by the most people as important were *Learn about or file for disability compensation* and *Schedule or manage health appointments*.**
-11. (Preliminary results) **Participants selected an average of 13 tasks as important (ranging from 3 to 26)**.
+10. (Preliminary results) **Top tasks**: The tasks selected by the most people as important were ***Learn about or file for disability compensation* and *Schedule or manage health appointments*.**
+11. (Preliminary results) Participants selected an **average of 13 tasks as important** (ranging from 3 to 26).
 
 
 # Details of Findings 
 
-**1. The survey was well-received by research participants**
+**1. The survey was well-received by research participants.**
 
 - All but one participant thought that the survey was **simple and easy to fill out**.
 - Four participants thought the **list of tasks seemed complete**. The other 3 participants suggested a few additions.
@@ -86,18 +86,22 @@ In the survey, participants were asked to select which VA-related tasks were imp
 - Two participants were **able to fill out the survey based on their recent *indirect* experience with the VA** from helping others with VA benefits (*vs.* interacting directly with the VA on their own behalf or someone else's). 
 - Two participants remarked that they liked how **related tasks** (e.g., all about disability) **were near each other** in the list (a change made after the first pilot participant, who found the then-random order of tasks to be disorienting).
 
-**2. Three participants were unclear on the meaning of a few of the tasks**
+**2. Three participants were unclear on the meaning of a few of the tasks.**
+
 This is described below in the Recommendations section.
 
-**3. Two participants **didn't scroll on the task importance question** 
+**3. Two participants didn't scroll on the task importance question.** 
+
 This is described below in the Recommendations section.
 
-**4. Two people said that the **long list of tasks was overwhelming**
+**4. Two people said that the long list of tasks was overwhelming.**
+
 2 of 7 participants suggested breaking down the long list of tasks into categories by topic (e.g., health care, disability, education). We know that having a survey question with 41 multi-select options isn't ideal, but this is the standard methodology for top tasks research because you want participants to *compare ALL tasks at once* (*vs.* only tasks in one category at a time).
 
 To make it easier for participants to read through the entire list while considering importance, tasks in similar categories were ordered next to each other (*vs.* presenting tasks in a random order).
 
 **5. (Preliminary results) Top tasks: *Learn about or file for disability compensation* and *Schedule or manage health appointments*.**
+
 This top task data from only 7 participants isn't enough to be at all confident of the results, but the data is summarized below in the bar chart and table. To get more reliable data, we will invite a larger number of people to the unmoderated survey. 
 
 The following three tasks weren't marked as important by any of the 7 participants and so are least important to this small sample:
@@ -108,7 +112,7 @@ The following three tasks weren't marked as important by any of the 7 participan
 ![bar-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/images/bar-chart.png)
 ![task-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/images/task-table.png)
 
-**6. (Preliminary results) Participants selected an average of 13 tasks as important**
+**6. (Preliminary results) Participants selected an average of 13 tasks as important.**
 
 From the list of 41 VA-related tasks presented in the survey, research **participants selected an average of 13 tasks as important (ranging from 3 to 26)**. 
 - The two people who selected only 3 tasks were a service member (for whom most VA-related tasks were irrelevant) and a Veteran (who was only using the VA education benefit and interpreted "right now" in the question quite literally, even though she was interested in using other benefits in the future). 
