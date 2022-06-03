@@ -33,7 +33,7 @@ Testing Onsite Notifications will involve coordination across three groups (that
 | Question | Answer |
 |------|-------|
 |1. What use cases do we need to test (single notification, multiple notifications, etc)? We'll want this so we can make sure the backend team sends us exactly what they need.|[On-site notification test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-Onsite-Notification.md) |
-|2. For QA on Staging, can notification dismissed-states be manually cleared? If yes, how?|[If no (i.e., test-acct gets "burnt"), then QA would need 12-15 Staging test-accts for cross-device/-browser testing]|
+|2. For QA on Staging, how many test accounts do we need to set up?|Tze needs 12 accounts with 1 notification and one account with multiple notifications. [Slack](https://dsva.slack.com/archives/C909ZG2BB/p1654273406114689?thread_ts=1654266535.783549&cid=C909ZG2BB)|
 |3. What does the backend team need from us in order to add debts for our staging users?| They need the "file number" for each user, which is almost always the SSN for the user. We have SSNs for our staging users, so we can get the SSNs to the backend team before our end-to-end testing.|
 
 ## Timeline (tentative)
