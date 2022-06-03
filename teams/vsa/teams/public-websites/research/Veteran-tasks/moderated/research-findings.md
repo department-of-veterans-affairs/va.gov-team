@@ -166,7 +166,7 @@ Add to the survey ending message about **how to get info about any of the VA ben
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/conversation-guide.md)
 
-[Interview transcripts]([link here])
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/notes)
 
 
 ## Tools used for Synthesis
