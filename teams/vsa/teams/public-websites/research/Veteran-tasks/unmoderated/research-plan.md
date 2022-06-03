@@ -43,7 +43,7 @@ We would like to get complete survey responses from **at least 30 Veterans and o
 ### Research materials
 - [Link to task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Task%20List%20for%20Veteran%20Top%20Task%20Research_Jun2EOD.xlsx)
 - [Link to moderated research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md)
-- [Link to online survey](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0)
+- [Link to online survey](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0)
 
 ## Recruitment	
 
@@ -58,35 +58,35 @@ Overall, we would like to get about
 
 #### For Cohort A (9 Veterans)
 - All **must NOT have experience with _VA health care_** but **MUST** have experience with at least one of _education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort A study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=A)
+- [Cohort A study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=A)
 
 #### For Cohort B (9 Veterans)
 - All must have experience with _disability benefits_
-- [Cohort B study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=B)
+- [Cohort B study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=B)
 
 #### For Cohort C (6 Veterans)
 - All must have experience with _education benefits or career services_
-- [Cohort C study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=C)
+- [Cohort C study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=C)
 
 #### For Cohort D (6 Veterans)
 - All must have experience with at least one of _housing, pension, life insurance, or burial benefits_
-- [Cohort D study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=D)
+- [Cohort D study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=D)
 
 #### For Cohort E (9 Veterans)
 - All have **NO** experience with _any_ VA benefits or services but are interested in some 
-- [Cohort E study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=E)
+- [Cohort E study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=E)
 
 #### For Cohort F (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or survivors, 3 service members)
 - All have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_. 
-- [Cohort F study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=F)
+- [Cohort F study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=F)
 
 #### For Cohort G (9 Non-Veterans: 3 Caregivers, 3 Veteran family members or survivors, 3 service members)
 - All must have **NO** experience with _any_ VA benefits but are interested in some
-- [Cohort G study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=G)
+- [Cohort G study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=G)
 
 #### For Cohort H (6 participants: Veterans, Caregivers, Veteran family members, survivors, or service members)
 - All must have experience with at least one of _VA health care, education, career services, disability, housing, pension, life insurance, or burial benefits_
-- [Cohort H study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0?token=H)
+- [Cohort H study link](https://dj540s05.optimalworkshop.com/questions/pnrzx6eu-0-0-0-0?token=H)
 
 ### Secondary participant criteria (nice to haves) across all cohorts:
 - At least 6 women
