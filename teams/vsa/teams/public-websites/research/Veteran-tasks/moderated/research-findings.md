@@ -98,11 +98,11 @@ This is described below in the Recommendations section.
 
 2 of 7 participants suggested breaking down the long list of tasks into categories by topic (e.g., health care, disability, education). We know that having a survey question with 41 multi-select options isn't ideal, but this is the standard methodology for top tasks research because you want participants to *compare ALL tasks at once* (*vs.* only tasks in one category at a time).
 
-To make it easier for participants to read through the entire list while considering importance, tasks in similar categories were ordered next to each other (*vs.* presenting tasks in a random order).
+To make it easier for participants to read through the entire list while considering importance, tasks in similar categories were ordered next to each other (*vs.* presenting tasks in a random order, as usually done in top tasks studies).
 
 **5. (Preliminary results) Top tasks: *Learn about or file for disability compensation* and *Schedule or manage health appointments*.**
 
-This top task data from only 7 participants isn't enough to be at all confident of the results, but the data is summarized below in the bar chart and table. To get more reliable data, we will invite a larger number of people to the unmoderated survey. 
+This top task data from only 7 participants isn't enough to be at all confident of the results, but the data is summarized below in the bar chart and table. To get more reliable data, we will invite a larger number of people to complete the unmoderated survey. 
 
 The following three tasks weren't marked as important by any of the 7 participants and so are least important to this small sample:
 - Get help with your housing, rent, or utilities
@@ -139,8 +139,8 @@ Consider **adding a few more tasks**: See if my illness or condition might be se
 Recommendation | Rationale
 -------------- | ---------
 Change **wording of benefits experience question (#5)**: "including" to "for example", and put "or" between the examples | 1 participant not sure whether to mark that they have experience with Career Services if they have experience with one but not the other example listed
-**Clarify housing options in benefits experience question (#5)**: move "home loans" into a new option and rename to "home loan Certificate of Eligibility (COE)" | 1 participant had gotten a COE but not a home loan, and then didn't check the "housing" option
-Add **new option to VA interaction question (#1)**: "I don't contact the VA directly, but I hear about it while helping someone else" | 2 participants knew about the VA through helping other Veteran(s) access their benefits--1 talks with her dad about VA services even though he lives far away from her; 1 helps other Veterans by answering questions through the Together We Served organization
+**Clarify housing options in benefits experience question (#5)**: move "home loans" into a new option and rename to "home loan Certificate of Eligibility (COE)" | 1 participant had gotten a COE but not a home loan, and didn't check the "housing" option
+Add **new option to VA interaction question (#1)**: "I don't contact the VA directly, but I hear about it while helping someone else" | 2 participants knew about the VA through helping other Veteran(s) access their benefits--1 talks with her dad about VA services even though he lives far away from her; 1 helps other Veterans by answering Veterans' questions through the Together We Served organization
 Add **new question at the end about the respondent's role** (Veteran, Veteran's family member, Veteran's caregiver, Service member, Survivor, Other) | Same reason as above, and sometimes Perigean's information about participants is out-of-date
 **Add to task importance question (#2): "you'll need to scroll** down to see all the options" | 2 participants didn't realize that they had to scroll to see the full task list
 **Add to task importance question (#2) options: "None of the above"** | 1 participant (a service member) noticed that the question was required but there's no way to answer if none of the tasks are important, as might be the case for other service members
@@ -185,7 +185,7 @@ Add to the survey ending message about **how to get info about any of the VA ben
 
 **Recruitment criteria**
 
-We wanted to interview some Veterans and others who had a diverse range of experience with VA benefits and services, including no experience at all and some experience that doesn't include VA health care.
+We wanted to interview Veterans and others who had a diverse range of experience with VA benefits and services, including no experience at all and some experience that doesn't include VA health care.
 
 We talked to **7 participants.**
 
@@ -197,7 +197,7 @@ Audience segments:
 
 
 Experience with VA benefits and services:
-* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): 7 (ALL of them)
+* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): **7 (ALL of them)**
 * NO experience with health care, but DO have experience with one or more other VA benefits or services: 2
 * NO experience with ANY VA benefits or services: 0 
  
