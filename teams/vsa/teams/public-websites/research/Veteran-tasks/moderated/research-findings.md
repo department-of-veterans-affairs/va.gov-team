@@ -176,7 +176,7 @@ Add to the survey ending message about **how to get info about any of the VA ben
 [Survey data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Survey-data-from-moderated-sessions.xlsx)
 
 
-## Survey used
+## Survey questions
 
 ![survey-questions-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/images/survey-questions_1.png)
 ![survey-questions-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/images/survey-questions_2.png)
