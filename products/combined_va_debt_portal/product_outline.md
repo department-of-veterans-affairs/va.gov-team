@@ -43,9 +43,13 @@ This solution will empower the Veteran to see all their debt and copayment state
 |----------|-------------|--------------------|--------------------|--------|
 | KPI      |             | All Pageviews to /manage-debt-and-bills/ |  |     |
 | KPI      |             | All Pageviews to /manage-debt-and-bills/summary/ |                    |        |
-| KPI      |             | CTR from /manage-debt-and-bills/summary/ To /manage-debt-and-bills/summary/copay-balances/   |                    |        |
-| KPI      |             | CTR from /manage-debt-and-bills/summary/ To /manage-debt-and-bills/summary/debt-balances/  |                    |        |
-| KPI      |             | Total Bounces on /manage-debt-and-bills/summary/ |                    |        |
+| KPI      |  CTR from /manage-debt-and-bills/summary/ To /manage-debt-and-bills/summary/copay-balances/           |  |                    |        |
+| KPI      |  CTR from /manage-debt-and-bills/summary/ To /manage-debt-and-bills/summary/debt-balances/           |   |                    |        |
+| KPI      |             | |                    |     Total Bounces on /manage-debt-and-bills/summary/    |
+|KPI| |Total clicks to FSR|
+|KPI| Total clicks to pay.va.gov|
+|KPI| Total clicks to pay.gov|
+
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
