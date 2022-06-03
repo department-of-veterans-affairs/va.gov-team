@@ -24,7 +24,7 @@ Previous Release/Version (PDF)
 
 ### Sketch file
 Graphic designers: Here is the original Sketch files to make changes, if you don't see what you need above:
-- [Latest Release (8.5x11, 11x17, 24x36)](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/p/4E6A93C4-6C93-4AF6-A616-5B040D1F9BC5) 
+- [Latest Release (8.5x11, 11x17, 24x36, US Territories)](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/p/4E6A93C4-6C93-4AF6-A616-5B040D1F9BC5) 
 - [Previous Release/Version (8.5x11, 11x17, 24x36)](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/p/80C46047-6911-43FD-84F3-D19713E0E75F)  
 
 ## One-pager for clinic staff  
