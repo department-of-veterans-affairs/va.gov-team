@@ -52,8 +52,8 @@ _Confirm they qualify for the study._
 ## 1. Review Personal information section - 5 minutes
 
 - So now I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
-- Now you can go ahead and log in. I will stop the recording as you do that.
-- Now that you are logged in, please go to your Profile by clicking on your name in the top right corner. 
+- Now you can go ahead and log in. I will stop the recording as you do that. _Stop recording_
+- _Start recording._ Now that you are logged in, please go to your Profile by clicking on your name in the top right corner. 
 - So we're going to review the Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
 
 #### UAT and Usability
@@ -148,6 +148,26 @@ If they are LOA3:
 - [ ] **Usability:** Do users understand how to open and close the FAQs?
 - [ ] **Usability:** Do users understand the information in the FAQs?
 - [ ] **Usability (helpful for experimental design system component and overall placement):** Do participants notice the FAQs before they are pointed out?
+
+## 5. (Optional if time) - Update and Refresh Page
+
+Ok, now that we've finished all the tasks and have a little extra time, I have one more thing I like you to try.
+
+- We're going to change your Preferred name information again and then refresh the entire page right away. We'll change your information back again once we've tried this.
+
+- So first, could you please go back to Preferred name and enter something different? For example, you could enter [VERSION OF NAME]. 
+
+- Great. Now go ahead and press update and then refresh the entire page by clicking the refresh button at the top of your browser window.
+	- _If needed:_ This is usually a circular arrow in the top left part of your browser window next to the URL. 
+
+- How did this or didn't this match up with what you were expecting to happen?
+
+- Was there anything confusing about this?
+
+- Great now let's go back and change the information back to [PREVIOUS ENTRY]
+
+- Just to confirm - does the information you have entered now look correct?!
+
 
 ## Post-Task Interview - 2-3 minutes
 
