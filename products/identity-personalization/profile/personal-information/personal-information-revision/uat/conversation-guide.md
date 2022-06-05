@@ -45,7 +45,7 @@ _Confirm they qualify for the study._
 
 - So today we’re going to observe you interacting with the new feature. Would you feel comfortable sharing your screen with me at this time? 
 
-- Great! Thanks for confirming. In that case, we can move on to the website. Please share your screen and then we will get started.
+- Great! Thanks for confirming. In that case, please share your screen and then we will move on to the website and get started.
 	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
