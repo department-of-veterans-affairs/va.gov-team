@@ -109,7 +109,9 @@ If they are LOA3:
 - Looking at this field, is this something that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
-- Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+- (_If NO to question above:_ Ok, so from what we just discussed it sounds like you might not want to choose a response for this today. Just want to double check that that is the case or if you would like to make a selection. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.) 
+
+- (_If YES to question above:_ Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- If you do want to make a selection, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 
 - _If YES to question above:_ Is there anything about this process that is confusing? 
