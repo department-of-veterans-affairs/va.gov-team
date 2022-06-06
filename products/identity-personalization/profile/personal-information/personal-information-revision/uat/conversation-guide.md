@@ -78,11 +78,11 @@ If they are LOA3:
 
 - Now let’s review each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
 
-- _If not already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
+- _If NOT already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
 	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already somewhat addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
+- _If already addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
 	
 - Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
@@ -104,11 +104,11 @@ If they are LOA3:
 
 - Now let’s review the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
 
-- _If not already specifically addressed:_ Earlier we talked about why the VA might ask about this information. How would you find out more about this?
+- _If NOT already specifically addressed:_ Earlier we talked about why the VA might ask about this information. How would you find out more about this?
 	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already somewhat addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
+- _If already addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
 
 - Is this a field that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
