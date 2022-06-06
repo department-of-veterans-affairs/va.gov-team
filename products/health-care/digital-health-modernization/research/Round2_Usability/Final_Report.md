@@ -6,7 +6,7 @@ Date: 05/14/2022
 
 Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
-[Research Report PDF]( )
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/Round2_Usability)
 
 <br>
 
@@ -91,7 +91,7 @@ We conducted eleven remote hour-long moderated usability studies using a high fi
 
 **1. Many participants (5/9) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
 
-Labels: 
+Labels: PRDT: health-care-apartment, DSC: Breadcrumbs
 
 4 participants said they would use the back button. In the previous round of research with a desktop prototype participants were confused by the navigation breadcrumbs but the secondary navigation on the left side of the worked well.
 
@@ -100,7 +100,7 @@ Labels:
 
 **2. Participants were able to successfully complete many basic health-related tasks.**
 
-Labels: 
+Labels: PRDT: health-care-apartment, PRDT: Medical-records, MHV: Pharmacy, MHV: Secure Messaging, MHV: Appointments
 
 The tasks they completed include refilling their medications, sending their providers a message, viewing their medical records, making an appointment, and viewing details about an existing appointment. This was true in the desktop (Round 1) and the mobile (Round 2) prototype.
 
@@ -109,7 +109,7 @@ The tasks they completed include refilling their medications, sending their prov
 
 **3. Participants were confused about certain terms, including "Pending," "Blue Button,” and “Adverse Reactions.”**
 
-Labels:
+Labels: PRDT: health-care-apartment, DSC: Labels
 
 50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round.  None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
 
@@ -118,7 +118,7 @@ Labels:
 
 **4. Participants did not find the pre-appointment paperwork under the "Pre-check in" link in the "In This Section" menu.**
 
-Labels:
+Labels: PRDT: health-care-apartment, PRDT: health-care-check-in
 
 When asked where they would expect to find the link, participants expected to find it under Appointment Details or in their Messages. In the previous desktop design users also did not expect to find their paperwork under the Pre-check in link, but the link was more discoverable because it was in the side navigation and so more of them saw it.
 
