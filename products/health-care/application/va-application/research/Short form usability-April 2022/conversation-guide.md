@@ -1,4 +1,4 @@
-# Conversation Guide: VSA 10-10 Team, Usability research of shortened form based on disability rating for the 10-10EZ, April 2022
+# Conversation Guide: VSA 10-10 Team, Usability research of shortened form based on disability rating for the 10-10EZ, June 2022
 
 ## Moderator Logistics
 
@@ -13,7 +13,7 @@
 
 Thanks for joining us today! My name is Dené and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of the health care application.
 
-- This entire session should take about 1 hour (2 hours for participants using a screenreader). I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- This entire session should take about 1 hour or less (2 hours for participants using a screenreader). I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - You'll be interacting with a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - Please talk aloud as you're looking through things. For example, say "now I'd click on this, because I'd expect it to do this..." This helps me understand what's going through your head while using the tool.
@@ -49,8 +49,6 @@ Ok. Now we're really ready to begin!
 ## Warm-up Questions - 5 minutes
 
 **For Veterans:**
-- Tell me a little about yourself 
-- How many years has it been since you left the service?
 - Do you currently have health care benefits through the VA or through another provider?
 - Tell me a little bit about how you chose this health care option?
 - (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
@@ -79,13 +77,6 @@ Now that I understand a little bit more about your background.
 
 Let's look at the screen that I have shared with you. Put yourself back to the moment that you arrived at this screen to apply for health care benefits in the past. (or if has never applied- you arrive here with the intention of applying for health care benefits.) Go ahead and talk me through what you would do upon arriving at this page. 
 
-If the participant immediately moves to click on "start your application..." button, I will ask them if they usually read this intro page, even if no, continue with the following questions.
-
-- Please read the entire page and let me know if any questions come to mind.
-- After participant reads and initial questions are noted:
-  - What do you think of the listed requirements? 
-  - Is there anything that you would not have on-hand or would need to prepare before starting this application?
-  - Do you have any additional thoughts or questions? 
 
 ## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at sign in - 15 minutes
 
@@ -106,7 +97,7 @@ Alright, let's continue
      - Prompt participant to interact with alert on the third or fourth page of the form if they haven't already - note any interaction/content positives/confusion
 
 
-## Variation 2, Design A: Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question - 15 minutes
+## Variation 2 : Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
 
@@ -129,28 +120,6 @@ For the purpose of this research, imagine that you actually do not have a disabi
 Ask participant to continue filling out the form
 - Prompt participant to interact with alert on form if they haven't already - note any interaction/content positives/confusion
 
-## Variation 2, Design B: Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question - 15 minutes
-
-Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
-
-Let's pretend that you went through the sign in process and are taken to here (authenticated Intro page), from here please continue with the application.
-
-- Participant will next navigate to the first page of the form "Veteran information"
-     - Mostly let the participant fill out the form (noting any comments)
-
-Once participant selects that they receive pay for a disability of 50% or higher:
-- Participant will next be shown the short form confirmation page
-     - Note any response
-     - Can you tell me a little about your thoughts as you read this page?
-     - What do you expect to happen next?
-     - Do you have any questions?
-     - Is there anything that stands out to you on this page? Good, bad, indifferent
-
-For the purpose of this research, imagine that you actually do not have a disability rating of 50% or higher, and you reached this page by accident. What would you do next?
-- Note their response/interaction
-
-Ask participant to continue filling out the form
-- Prompt participant to interact with alert on form if they haven't already - note any interaction/content positives/confusion
      
 ## Variation 3: Applying to health care benefits, does not have 50% or higher disability rating (1-2 participants) - 15 minutes
 
