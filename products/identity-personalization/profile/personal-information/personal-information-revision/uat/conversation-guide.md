@@ -76,17 +76,17 @@ If they are LOA3:
 
 ## 2. Update information - Preferred name - 5 minutes
 
-- Now let’s look at each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
+- Now let’s review each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
 
 - _If not already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
-	- _If needed:_ Did you see the sentence in gray under the Preferred name title of the section? 
+	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 	
 - Ok, now this is totally optional, but if you are comfortable doing so, I’d like you to type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	
 - _If YES to question above:_ Is there anything about this process that is confusing? 
-- _If NO to question above:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+- _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
 - _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
 
@@ -100,24 +100,24 @@ If they are LOA3:
 
 ## 3. Gender identity - 5 minutes
 
-- Now let’s look at the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
+- Now let’s review the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
 
 - _If not already specifically addressed:_ Earlier we talked about why the VA might ask about this information. How would you find out more about this?
-	- _If needed:_ Did you see the sentence with the dotted line below it? Can you click on that?
+	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- Looking at this field, is this something that you would update? 
+- Considering the contents of this field, is this something that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
 - _If NO to updating:_ Ok, so from what we just discussed it sounds like you might not want to choose a response for this today. Just to double check - is that correct, or would you like to select a response? Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
-	- _If NO:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+	- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
 	- _If YES:_ Great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 		- Is there anything about this process that is confusing?
 
 - _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 		- Is there anything about this process that is confusing? 
-	- _If NO:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+	- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
 
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 
@@ -135,15 +135,15 @@ If they are LOA3:
 
 ## 4. FAQs - 3 minutes
 
-- Ok, now we'll go to top of the page just under Personal information. Please take a look at those two phrases with the dotted lines underneath them. _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
+- Ok, now we'll go to top of the page just under Personal information. Please review those two phrases with the dotted lines underneath them. _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
 
 - Did you notice those before?
 
-- Please go ahead and click on the first one and read the content.
+- Please go ahead and click on the first one and review the content.
 
 - Is there anything unclear about the content? 
 
-- Ok, you can go ahead and close that and click on the second phrase. Take a look at this information.
+- Ok, you can go ahead and close that and click on the second phrase. Go ahead and review this information.
 
 - And the same for this one, is there anything unclear about this content? 
 
@@ -183,7 +183,7 @@ Ok, now that we've finished all the tasks and have a little extra time, I have o
 
 Thank you so much! That was everything on the page I wanted to try out with you today. This has been so helpful for our team. 
 
-Do you have any feedback on what we looked at in this session or questions for me?
+Do you have any feedback on what we reviewed in this session or questions for me?
 
 ## Thank-You and Closing - 1 minute
 
