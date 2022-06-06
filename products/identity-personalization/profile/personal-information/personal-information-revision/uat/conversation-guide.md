@@ -81,6 +81,8 @@ If they are LOA3:
 - _If not already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
 	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
+
+- _If already somewhat addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
 	
 - Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
@@ -88,7 +90,7 @@ If they are LOA3:
 - _If YES to question above:_ Is there anything about this process that is unclear? 
 - _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
-- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
+- _If not mentioned:_ How would it be helpful or unhelpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -106,12 +108,14 @@ If they are LOA3:
 	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- Would you update this field? 
+- _If already somewhat addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
+
+- Is this a field that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
 - _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, would you like to go ahead and select an option here?
 
-- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
+- _If NO - skip for screen reader users:_ Ok so to confirm, you would not like to update this today - is that correct? So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
 - _If YES to updating:_ Ok, great. Again this is totally optional, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
@@ -120,7 +124,7 @@ If they are LOA3:
 
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 
-- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
+- _If not mentioned:_ How would it be helpful or unhelpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
