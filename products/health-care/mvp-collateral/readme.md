@@ -93,6 +93,8 @@ If your facility or organization sends emails to Veteran subscribers, below are 
 ### Other content
 
 Note: Newest content is listed first
+- [Borne the Battle #280: Benefits Breakdown – Million Veteran Program - VAntage Point](https://blogs.va.gov/VAntage/104361/borne-the-battle-280-benefits-breakdown-million-veteran-program/)
+- [Your Height Could Be a Factor in Disease Risk | Health News | US News](https://www.usnews.com/news/health-news/articles/2022-06-03/your-height-could-be-a-factor-in-disease-risk)
 - [Mapping out the human genome (va.gov)](https://www.research.va.gov/currents/0522-Mapping-out-the-human-genome.cfm)
 - [VA research being used to help children with heart defects](https://www.research.va.gov/research_in_action/VA-research-being-used-to-help-children-with-heart-defects.cfm)
 - [Height may be risk factor for multiple health conditions (va.gov)](https://www.research.va.gov/currents/0622-Height-may-be-risk-factor-for-multiple-health-conditions.cfm)
