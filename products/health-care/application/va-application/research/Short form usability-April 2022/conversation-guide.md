@@ -150,7 +150,8 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 **Overall** 
 
-- What did you think of the overall experience?
+-_ For those that receive the short form:_ What did you think of this short form experience?
+-_ For those that don't receive the short form:_ Overall, What did you think about this experience of applying for health care?
 - Was there anything that stood out to you? Then prompt positives/ negatives / confusing
 - Tell me about this experience in your own words, as if I was another Veteran interested in applying for health care
 - What did you think of this "short form" experience?
