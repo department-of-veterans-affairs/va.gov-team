@@ -82,11 +82,11 @@ If they are LOA3:
 	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 	
-- Ok, now this is totally optional, but if you are comfortable doing so, I’d like you to type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+- Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	
-- _If YES to question above:_ Is there anything about this process that is confusing? 
-- _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+- _If YES to question above:_ Is there anything about this process that is unclear? 
+- _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
 - _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
 
@@ -106,18 +106,15 @@ If they are LOA3:
 	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- Is this field something that you would update? 
+- Would you like to update this field today? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
-- _If NO to updating:_ Ok, so from what we just discussed it sounds like you might not want to choose a response for this today. Just to double check - is that correct, or would you like to select a response? Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
-	- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
-	- _If YES:_ Great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
-		- Is there anything about this process that is unclear?
+- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
-- _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+- _If YES to updating:_ Ok, great. Again this is totally optional, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 		- Is there anything about this process that is unclear? 
-	- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
+	- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 
