@@ -94,15 +94,13 @@ Notetaking: Will be handled by the 10-10 team
 	
 Team Availability | Time (ET)
 ------------------|--------------
-June 10     | 2:00pm - 5pm
-June 13     | 9:00am - 5pm
-June 14     | 9:00am - 5pm
-June 15     | 9:00am - 2pm and 3pm-5pm
+June 14     | 9:00am - 7pm
+June 15     | 9:00am - 2pm and 3pm-7pm
 June 16     | 9:00am - 5pm
 June 17     | 2:00pm - 5pm
 
 
-Pilot Session: June 10 | 9:00am ET 	
+Pilot Session: June 10 | 2:00pm ET 	
 
 ## Team Roles	
 	
