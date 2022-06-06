@@ -13,6 +13,12 @@
 
 </details>
 
+## Monday, June 6, 2022
+* URL's for mobile sites and domiciliaries.
+  * Will touch on this again next week. 
+* V1 Rollout update
+  * Health connect (V0 - high priority item) went out today. Investigation in progress this sprint. Should be ready for us next sprint.
+
 ## Monday, May 23, 2022
 * Facility Covid Status
   * Rollout looks successful
