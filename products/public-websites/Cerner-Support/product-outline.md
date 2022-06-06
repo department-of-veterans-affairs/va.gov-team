@@ -1,31 +1,40 @@
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
----
+# Cerner React Widgets - Product outline
+(Note: this is being completed retroactively by a successor team.)
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+React Widgets will enable Veterans to be directed to the correct electronic system (VistA/MyHealtheVet or Cerner/My VA Health) for 5 top tasks based on which VA medical system (geographic) is appropriate.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Before VA systems started cutting over to Cerner, the implementation of these common top tasks assumed that all actions would be taken through VistA. The gradual roll-out of Cerner has introduced the need to match Veterans to the correct EHR system.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Top tasks in question:
+- Refill a prescription
+- Send a secure message
+- Make an appointment
+- View medical records
+- View test results
+
+_How might we enable the VA.gov user interface to intelligently send Veterans to the right EHR portal based on their history with specific facilities?_
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Understand that they need to take different actions for medical care/teams associated with different facilities
+- Take the correct action to complete their task
 
 ## Undesired User Outcomes
 
+- Failure to complete necessary tasks
+- Confusion leading to loss of trust in VA
+- Unnecessary phone calls or visits to VA
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Roll out Cerner without negatively impacting Veterans or VA operations
 
 ## Undesired Business Outcomes
 
+- Increased call center visits
+- Decreasing Veteran trust scores
 
 ---
 ## Measuring Success
@@ -56,36 +65,22 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Veterans know which VA system they need to interact with.
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- A react widget enables the combination of two data sources to conditionally change the UI for a given visitor:
+  - The user object in the browser has info from an API about which medical systems the Veteran has had records/interactions with.
+  - A list of which VA Medical Systems has cut over to Cerner can be provided through the codebase (MVP) or external configuration (future iteration).
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- Externalize the list of Cerner facilities | [CMS Source of Truth iteration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
-
----
+- We are adding these widgets to Benefit Detail pages, in the same place a similar CTA existed prior.
 
 ## Solution Narrative
 
@@ -100,6 +95,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Before
 
 ### After
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/4054752/172259057-45b864b2-a1e4-4997-940e-f1ced1d98f5c.png">
+
 
 ---
 
@@ -107,11 +104,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Sitewide Public Websites
+- GitHub Label: Public Websites
+- Slack channel: #sitewide-public-websites
+- Product POCs: Wesley Rowe (PM), Dave Conlon (OCTO-DE)
+- Stakeholders: Lauren Alexanderson (OCTO-DE)
 
 </details>
 
@@ -119,9 +116,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
+ - DEPO Lead: Dave Conlon
+ - PM: Wes Rowe
+ - Engineering: Ryan Koch
  - Research/Design: 
  
 </details>
