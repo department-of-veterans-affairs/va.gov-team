@@ -89,8 +89,8 @@ If they are LOA3:
 	
 - _If YES to question above:_ Is there anything about this process that is unclear? 
 - _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
-- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer?
-- _If not mentioned:_ How would it be helpful or unhelpful to be able to remove information entered here?
+- Do you have any questions about not being able to completely remove/clear this answer?
+- How would it be helpful or unhelpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -114,17 +114,17 @@ If they are LOA3:
 	- Could you tell me more about why you would (or would not) enter information here?
 
 - _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, would you like to go ahead and select an option here?
+	- _If YES to updating:_ Ok, great. Again this is totally optional, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+		- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
+			- Is there anything about this process that is unclear? 
+		- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
-- _If NO - skip for screen reader users:_ Ok so to confirm, you would not like to update this today - is that correct? So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
+- _If NO - skip for screen reader users:_ Ok so to confirm, is it correct that you would NOT like to update this today? Ok, no problem. So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
-- _If YES to updating:_ Ok, great. Again this is totally optional, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
-	- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
-		- Is there anything about this process that is unclear? 
-	- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
-- _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
+- Do you have any questions about not being able to completely remove/clear this answer? 
 
-- _If not mentioned:_ How would it be helpful or unhelpful to be able to remove information entered here?
+- How would it be helpful or unhelpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
