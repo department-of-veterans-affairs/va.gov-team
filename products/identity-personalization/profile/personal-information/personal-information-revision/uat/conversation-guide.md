@@ -121,7 +121,7 @@ If they are LOA3:
 
 - _If not mentioned:_ Do you have any questions about not being able to completely remove/clear this answer? 
 
-- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered?
+- _If not mentioned:_ How would or wouldn't it be helpful to be able to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
