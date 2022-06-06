@@ -1,4 +1,6 @@
 # Initiative Outline - Improve Facility Selection on the 10-10CG (DRAFT)
+
+[Epic for 10-10CG Improve Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
 ---
 
 ## Overview
