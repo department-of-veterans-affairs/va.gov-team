@@ -109,7 +109,7 @@ We will include a required field at the beginning of the survey to collect a cod
 We estimate it will take participants 5 minutes to complete the survey.
 
 ## Timeline
-- The survey will be open for at least 1 week starting on June 13, and should remain open until there are at least 30 (ideally 40-50) completes.
+- The survey will be open for at least 1 week starting on June 14, and should remain open until there are at least 30 (ideally 40-50) completes.
 
 ### Prepare
 - The survey link has been tested by several people on June 3.
