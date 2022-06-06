@@ -106,8 +106,10 @@ If they are LOA3:
 	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- Would you like to update this field today? 
+- Would you update this field? 
 	- Could you tell me more about why you would (or would not) enter information here?
+
+- Ok, now this is totally optional, but if you are comfortable doing so, would you like to select an option here?
 
 - _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
