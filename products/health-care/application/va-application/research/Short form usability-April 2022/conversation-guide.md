@@ -121,7 +121,7 @@ Ask participant to continue filling out the form
 - Prompt participant to interact with alert on form if they haven't already - note any interaction/content positives/confusion
 
      
-## Variation 3: Applying to health care benefits, does not have 50% or higher disability rating (1-2 participants) - 15 minutes
+## Variation 3: Applying to health care benefits, does not have 50% or higher disability rating (1-2 participants) - 30 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
 
