@@ -63,7 +63,7 @@ We would like to work with Perigean to recruit for 9 fulfilled remote sessions. 
 - At least 6 Veterans
 - At least 2 Power of attorney (POA) but no more than 3
 - At least 7 people with a disability rating of 50% or higher but no more than 8
-     - At least 3 people who use a screenreader (at least 1 that is new to assistive technology and 1 that has used ssistive technology for more than 3 years)
+     - At least 3 people who use a screenreader (at least 1 that is new to assistive technology and 1 that has used assistive technology for more than 3 years)
      - At least 5 people with a cognitive disability
 - At least 6 people who will use a mobile device during the research session (tablet is ok too)
 
