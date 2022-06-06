@@ -1,10 +1,10 @@
-# VA.gov Homepage research README
+# VA.gov Home page research README
 
 This README page serves as a "front door" to research documentation and resources related to the VA.gov homepage. 
 
 ## Table of contents
 
-[Homepage research summary](#homepage-research-summary)
+[Home page research summary](#homepage-research-summary)
 - Top Tasks - unmoderated | June 2022
 - Top Tasks - moderated | May 2022
 - Baseline Wayfinding Research on VA.gov | April 2021
@@ -12,9 +12,9 @@ This README page serves as a "front door" to research documentation and resource
 
 [Related research](#related-research)
 - Comparative analysis: Personalization and profile | December 2021
-- Health apartment homepage - Guerilla testing of homepage concepts | December 2021
+- Health apartment home page - Guerilla testing of homepage concepts | December 2021
 - Search Design Concepts Usability Research | September 2021
-- Logged-in Homepage User Research | May 2020
+- Logged-in Home page User Research | May 2020
 
 ## Homepage research summary
 
