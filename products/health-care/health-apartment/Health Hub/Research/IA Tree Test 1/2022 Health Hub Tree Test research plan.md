@@ -101,7 +101,7 @@ We will use Optimal Workshop to conduct the tree tests.
 ### Method
 
 
-##### IA Tree Tests (remote, unmoderated)
+#### IA Tree Tests (remote, unmoderated)
 
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains, respecitvely, 12 tasks for a Veteran and 11 tasks for Caregivers and family members that they may experience when getting or managing their health care benefits. For each task, the participant will locate in the tree where a specific task can be completed. 
 
@@ -110,16 +110,38 @@ We would like to get complete responses from at least 50 Veterans, in distinct c
 We’re using three trees, one for each hypothesis, and one for the current site.
 
 
-##### Research materials
+### Research materials
 
+#### Tree tests and tasks
 
+##### Tree test — Hypothesis 0
+* [Cohort A](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q?token=A) (9 Veterans—H0)
+* [Cohort B](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q?token=B) (9 Veterans—H0)
+* [Cohort C](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q?token=C) (9 Veterans—H0)
+* [Cohort D](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q?token=D) (9 Veterans—H0)
+* [Cohort E](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q?token=E) (9 Veterans—H0)
+* [Cohort F](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q?token=F) (9 Veterans—H0)
+* [Cohort G](https://dj540s05.optimalworkshop.com/treejack/tsimbd6q-1?token=G) (9 Caregivers—H0)
 
-* Tree test for hypothesis 0
-* Tree test for hypothesis 0 (for Cargivers and family members)
-* Tree test for hypothesis 1
-* Tree test for hypothesis 1 (for Cargivers and family members)
-* Tree test for baseline
-* Tree test for baseline (for Caregivers and family members)
+##### Tree test — Hypothesis 1
+* [Cohort H](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-2-0-0?token=H) (9 Veterans—H1)
+* [Cohort I](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-2-0-0?tokenI) (9 Veterans—H1)
+* [Cohort J](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-2-0-0?token=J) (9 Veterans—H1)
+* [Cohort K](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-2-0-0?token=K) (9 Veterans—H1)
+* [Cohort L](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-2-0-0?token=L) (9 Veterans—H1)
+* [Cohort M](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-2-0-0?token=M) (9 Veterans—H1)
+* [Cohort N](https://dj540s05.optimalworkshop.com/treejack/3tcd71tc-0?token=N) (9 Caregivers—H1)
+
+##### Tree test — Hypothesis Baseline
+* [Cohort O](https://dj540s05.optimalworkshop.com/treejack/3l312tkk-1-0-0?token=O) (9 Veterans—HB)
+* [Cohort P](https://dj540s05.optimalworkshop.com/treejack/3l312tkk-1-0-0?token=P) (9 Veterans—HB)
+* [Cohort Q](https://dj540s05.optimalworkshop.com/treejack/3l312tkk-1-0-0?token=Q) (9 Veterans—HB)
+* [Cohort R](https://dj540s05.optimalworkshop.com/treejack/3l312tkk-1-0-0?token=R) (9 Veterans—HB)
+* [Cohort S](https://dj540s05.optimalworkshop.com/treejack/3l312tkk-1-0-0?token=S) (9 Veterans—HB)
+* [Cohort T](https://dj540s05.optimalworkshop.com/treejack/3l312tkk-1-0-0?token=T) (9 Veterans—HB)
+* [Cohort U](https://dj540s05.optimalworkshop.com/treejack/f5mzmh07?token=U) (9 Caregivers—HB)
+
+# Tasks
 * The [Tasks](#appendix-a-tasks) we’re asking each participant to complete. It will be the same tasks for both trees. 
 
 
