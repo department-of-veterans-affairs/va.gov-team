@@ -17,6 +17,8 @@ Check-in enables Veterans with appointments to:
 
 - Utilize their smartphone to check-in on the day of their appointment 
 
+<img width="1134" alt="Screen Shot 2022-06-06 at 11 19 23 AM" src="https://user-images.githubusercontent.com/101129355/172191216-3de723ac-4a5c-4f3c-acb8-c08f6ad356cd.png">
+
 In speaking with the [Beneficiary Travel Reimbursement Path Analysis Team](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104), we also know that travel reimbursement is being considered for integration with the check-in product. The following draft mock ups have been created to communicate the workflow: 
 
 [Beneficiary Travel Reimbursement Prototype #1](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play)
