@@ -109,12 +109,12 @@ If they are LOA3:
 - Looking at this field, is this something that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
-- _If NO to question above:_ Ok, so from what we just discussed it sounds like you might not want to choose a response for this today. Just want to double check that that is the case or if you would like to make a selection. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+- _If NO to updating:_ Ok, so from what we just discussed it sounds like you might not want to choose a response for this today. Just want to double check that that is the case or if you would like to make a selection. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If NO:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
 	- _If YES:_ Great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 		- Is there anything about this process that is confusing?
 
-- _If YES to question above:_ Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+- _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, you can choose a response here. Again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
 	- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 		- Is there anything about this process that is confusing? 
 	- _If NO:_ So because we're not going to select a response, let's just take a look at the field - is there anything confusing about how you'd update this?
@@ -141,9 +141,9 @@ If they are LOA3:
 
 - Please go ahead and click on the first one and read the content.
 
-- Is there anything unclear about the content? Ok, you can go ahead and close that and click on the second phrase.
+- Is there anything unclear about the content? 
 
-- Take a look at this information.
+- Ok, you can go ahead and close that and click on the second phrase. Take a look at this information.
 
 - And the same for this one, is there anything unclear about this content? 
 
@@ -161,20 +161,22 @@ If they are LOA3:
 
 Ok, now that we've finished all the tasks and have a little extra time, I have one more thing I like you to try.
 
-- We're going to change your Preferred name information again and then refresh the entire page right away. We'll change your information back again once we've tried this.
+- We're going to change your Preferred name information again, click update, and then refresh the entire page right away using the refresh button in your browser window. 
 
-- So first, could you please go back to Preferred name and enter something different? For example, you could enter [VERSION OF NAME]. 
+- And don't worry, we will change your information back again once we've tried this.
 
-- Great. Now go ahead and press update and then refresh the entire page by clicking the refresh button at the top of your browser window.
+- So first, could you please click on Preferred name and enter something slightly different? For example, you could enter [VERSION OF NAME]. 
+
+- Great, now go ahead and press update, and then right away click on the refresh button at the top of your browser window to refresh the entire page.
 	- _If needed:_ This is usually a circular arrow in the top left part of your browser window next to the URL. 
 
 - How did this or didn't this match up with what you were expecting to happen?
 
 - Was there anything confusing about this?
 
-- Great now let's go back and change the information back to [PREVIOUS ENTRY]
+- Ok, now let's go back and change your information back to [PREVIOUS ENTRY]
 
-- Just to confirm - does the information you have entered now look correct?!
+- Great. And just to confirm - does the information you have entered now look correct?
 
 
 ## Post-Task Interview - 2-3 minutes
@@ -185,7 +187,7 @@ Do you have any feedback on what we looked at in this session or questions for m
 
 ## Thank-You and Closing - 1 minute
 
-Great, again thank you so much! That concludes our session for today. We really appreciate you taking the time to test these updates. This helps us to make sure everything will work when we launch them for all Veterans on VA.gov. 
+Great, again thank you so much! That concludes our session for today. We really appreciate you taking the time to test these updates. It really helps us make sure everything will work when we launch them for all Veterans on VA.gov. 
 
 So thank you again and have a great rest of your day!
 
