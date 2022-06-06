@@ -9,15 +9,18 @@
   - Migrations
     - From VAST
     - To Lighthouse
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans, Kevin Walsh, Steve Wirt
+- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans, Kevin Walsh, Steve Wirt, David Shannon.
 
 </details>
 
 ## Monday, June 6, 2022
 * URL's for mobile sites and domiciliaries.
-  * Will touch on this again next week. 
+  * We will put this on hold until we understand more about them.
+  * Website value for these will become NULL and redirects don't need to be worried about. 
+  * Should we clear out domiciliaries that have a URL? Need to get an audit of the domiciliaries that currently have URLS associated
 * V1 Rollout update
-  * Health connect (V0 - high priority item) went out today. Investigation in progress this sprint. Should be ready for us next sprint.
+  * Health connect (V0 - high priority item) went out.
+  * V1 - Working through backlog. Expect to have readout results ATC vs CMS. Should have these this week. 
 
 ## Monday, May 23, 2022
 * Facility Covid Status
