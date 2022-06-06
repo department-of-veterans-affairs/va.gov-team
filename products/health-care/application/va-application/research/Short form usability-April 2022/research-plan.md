@@ -1,4 +1,4 @@
-# Research Plan: VSA 10-10, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
+# Research Plan: 10-10 applications team, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
 
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the VSA 10-10 team.
