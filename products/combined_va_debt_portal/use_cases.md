@@ -68,8 +68,9 @@ searches and gets no results.", etc.
 - **Instructions to access in Staging** 
 	- `vets.gov.user+56@gmail.com` (NAME)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
-	- Click 'Manage your VA debt' button on the page
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging to view combined portal
+	- Navigate to the [Debt Details](https://staging.va.gov/manage-debt-and-bills/summary/debt-balances) on staging to view debt details ppage
+	- Navigate to the [Copay Details](https://staging.va.gov/manage-debt-and-bills/summary/copay-balances) on staging to view copay details ppage
 
 - **Link to designs**
   - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/no-panels?mode=i)
@@ -98,7 +99,6 @@ searches and gets no results.", etc.
 	- `vets.gov.user+81@gmail.com` ("Travis")
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
-	- Click 'Manage your VA debt' button on the page
 
 - **Link to designs**
   - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i)
