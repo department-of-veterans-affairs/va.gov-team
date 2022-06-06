@@ -6,6 +6,12 @@
 ## Overview
 * We want to increase the confidence with which Veterans select a facility on the 10-10CG, since it's key to getting their application routed appropriately.
 
+Request from CG Team:
+
+>CARMA looking into connection with Lighthouse API for VAMC info (eg name, phone number, address, etc)
+>Would go to prod in ~August 2022
+>VA.gov Scope: look into changing VA.gov list of VAMC info for Veteran questions on 1010CG from manual CARMA list to the Lighthouse API
+
 ## Problems to solve
 
 * Facility names change often
