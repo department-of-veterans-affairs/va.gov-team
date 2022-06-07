@@ -12,7 +12,7 @@ This document is to help us decide and track what we have agreed would be benefi
 ### Suggestions
 
 1. Expandable/accordion information for definitions and instructions
-     - [ ] Yes
+     - [x] Yes
      - [ ] No
 3. Dynamic Substepper
      - [ ] Yes
