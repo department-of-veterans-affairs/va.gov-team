@@ -8,8 +8,8 @@ The current VA.gov website was launched in 2018 but hadn't been the subject of m
 ### OCTO Objectives 
 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme): 
-- Veterans, caregivers, family members, survivors and service members are able to access tools and processes quickly and easily to learn about and manage their benefits
-- Veterans, caregivers, family members, survivors and service members have increased access to self-service tools through an elevated login funnel
+- Veterans, caregivers, family members, and service members are able to access tools and processes quickly and easily to learn about and manage their benefits
+- Veterans, caregivers, family members, and service members have increased access to self-service tools through an elevated login funnel
 
 ### Veteran Journey
 Use of the VA.gov home page fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) throughout 
@@ -65,11 +65,13 @@ wayfinding prompts to explore the redesigned VA.gov home page on the Staging ser
 	
 ## Recruitment	
 
-Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family members, and survivors** in order to get **12 completed sessions** using the criteria below.
+Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family members, and Service members** in order to get **12 completed sessions** using the criteria below.
 
 ### Primary criteria (must-haves)
 - 13 are Veterans
-- 7 are Veterans' family members, caregivers, or survivors
+- 3 are Veterans' caregivers
+- 2 are Veterans' family members
+- 2 are Service members
 - 6 have NO experience with ANY VA benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
 - 10 have experience ANY VA benefit including health care *(see Additional Question #1 below)*
@@ -77,7 +79,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family memb
 - At least 5 people who plan to use their smartphone for the session
 - At least 5 people with a cognitive disability (e.g., TBI)
 - At least 5 people who are age 55 or older
-- At least 3 people who use assistive technology, such as a screen reader or screen magnifier *(see Additional Question #3 below)*
+- At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
 - ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
@@ -90,7 +92,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family memb
 - At least 3 people 35 or under
 - At least 4 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 4 people who live in a rural or remote area
-- At least 1 non-native English speaker *(see Additional Question #4 below)*
+- At least 1 non-native English speaker *(see Additional Question #3 below)*
 
 ### Additional questions to ask in the screener
 1. What VA benefits (if any) do you have experience with? For example, Health Care, Education, Career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items.
@@ -102,13 +104,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family memb
     1. No *(recruit 5)*
     1. Yes
     1. Not sure
-
-1. Do you use any assistive technology (for example, a screen reader or screen magnifier) to access the internet? If so, what kind?
-    1. Yes, always *(record what kind of assistive technology and recruit)*
-    2. Most of the time
-    3. Sometimes
-    4. No, never
-     
+    
 1. How well do you speak English?
     1. Not at all *(record as "non-native English speaker" and recruit)*
     1. Not well *(record as "non-native English speaker" and recruit)*
