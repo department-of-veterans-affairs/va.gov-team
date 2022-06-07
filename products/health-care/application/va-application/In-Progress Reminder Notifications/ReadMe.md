@@ -88,17 +88,11 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - Applications started while unauthenticated, which would not be saved in progress
 --- 
 
-## Launch Planning
+## Launch Dates
 
 ### Timeline 
 - June 6, 2022: Launched to 25% of in-progress application population
 
-
-
-
-#### Initiative Launch Dates
-- *Actual Launch Date* 
-  - 6/6/2022
 
 ---
    
