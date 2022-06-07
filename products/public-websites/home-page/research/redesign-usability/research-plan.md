@@ -1,14 +1,15 @@
 # Research Plan for VA.gov Home Page Redesign Usability Testing [Sitewide Home Page team, July 2022]
 
 ## Background
-Since the launch of VA.gov in 2018, the range of VA benefits and programs has grown and evolved, which has resulted in the addition of new capabilities and content to the VA.gov site. The VA.gov home page needs to enable Veterans and others to find the information and benefits they need and facilitate getting them to a personalized logged-in experience. [User research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) have been conducted on the current VA.gov home page, and the findings have helped inform a redesign of the home page. 
+The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) was conducted in April 2021. Findings from this research and also from [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) have been incorporated into a new VA.gov home page design. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
 
 ### OCTO Objectives 
 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme): 
-- Increase the usage and throughput of VA services
+- Veterans, caregivers, family members, survivors and service members are able to access tools and processes quickly and easily to learn about and manage their benefits
+- Veterans, caregivers, family members, survivors and service members have increased access to self-service tools through an elevated login funnel
 
 ### Veteran Journey
 Use of the VA.gov home page fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) throughout 
@@ -17,34 +18,43 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 - Retiring and aging
 
 ## Research Goals	
-The purpose of this research is to get user feedback on the redesigned VA.gov home page and assess whether the design changes have improved the usability of the home page for Veterans and other users of VA benefits/services for completing benefit-related tasks.
+The purpose of this research is to get user feedback on the redesigned VA.gov home page and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, and those acting on behalf of Veterans while completing important benefit-related tasks. 
 
 ### Outcome
-The feedback we get on the home page redesign will be used to refine it before launch.
+This research will inform iterations to the home page redesign, the need for future research, and release decisions.
 
 ### Research questions
-1. Are users able to accomplish all of the tasks from the home page?
-1. What part(s) of the home page do users interact with?
-    2. Sign in button
-    3. The common tasks listed
-    4. The new search box (next to the common tasks)
-    5. The "other search tools" (next to the common tasks)
-    6. Benefit hubs (which ones?)
-    7. The entire main content of the page (between the header and footer)
-    8. The VAntage Point blog promo (below search and common tasks)
-1. What works well for users of the redesigned home page?
-1. What issues do users encounter with the redesigned home page?
-1. What are participants' expectations for the new VAntage Point blog promo?
-    1. What kinds of content do they expect to see there?
-    2. How often do they expect to see the content change? 
+1. Are participants able to easily and quickly initiate tasks from the home page?
+    1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
+3. What part(s) of the home page do participants use to complete tasks?
+    1. "Sign in or create account" button
+    3. "Common tasks"
+    4. The new search box (next to common tasks)
+    5. "Other search tools" (next to common tasks)
+    6. Benefit hubs below search and common tasks
+    7. The main content of the page (between the header and footer)--scrolled all the way down the page?
+    8. VAntage Point blog promo (below search and common tasks)
+    9. Header, including Search, Sign in, VA Benefits and Health Care megamenu *(not an area of focus for this research)*
+    10. Footer *(not an area of focus for this research)*
+1. Does the home page support participants, including those using assistive technology, in completing their tasks?
+1. Do the words/labels used on the home page support participant understanding?
+1. What do participants expect from various areas of the home page, including search functionality and the VAntage Point blog promo?
 
 ### Hypotheses
-1. Participants can complete all the tasks using the redesigned home page.
-2. Participants will notice, understand, and use the common task links.
-3. Participants will use Search or other search tools if what they want to do isn't in the common task links.
+1. The prominent sign in/sign up location and CTA makes it easier for Veterans to easily sign in/sign up.
+1. More Veterans will use the prominent sign in/sign up CTA than the button in the header.
+1. The streamlined design helps Veterans complete tasks more efficiently. 
+    1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
+1. The new design includes the most common/important Veteran-facing tasks.
+1. The link labels are sufficient for Veterans to understand and use them.
+1. Veterans will know to search for tasks not listed as most common. 
+1. Veterans understand where "other search tools" links will take them and what information they will find there.
+1. A focused and prominently displayed VAntage Point blog promo increases Veteran engagement with the content.
+1. Participants will scroll all the way down the home page to see the footer. 
 
 ## Method	
-We will conduct remote moderated usability sessions via Zoom. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some common Veteran tasks as wayfinding prompts to explore the redesigned VA.gov home page on the Staging server.
+We will conduct remote moderated usability sessions via Zoom. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some Veteran top tasks (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) as 
+wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign.
 
 *ACTION ITEM: Top tasks identified from the Veteran Top Tasks Unmoderated Survey should be incorporated into the home page redesign in the "common tasks" section.*
 
@@ -55,48 +65,85 @@ We will conduct remote moderated usability sessions via Zoom. Participants will 
 	
 ## Recruitment	
 
-Ask Perigean to recruit 20 Veterans, Veterans' caregivers and family members, survivors, and service members in order to get 12 completed sessions using the criteria below.
+Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family members, and survivors** in order to get **12 completed sessions** using the criteria below.
 
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+### Primary criteria (must-haves)
+- 13 are Veterans
+- 7 are Veterans' family members, caregivers, or survivors
+- 6 have NO experience with ANY VA benefits or services *(see Additional Question #1 below)*
+- 6 have NO experience with health care, but DO have experience with another VA benefits or service *(see Additional Question #1 below)*
+- 10 have experience using health care or any VA benefits or services *(see Additional Question #1 below)*
+- At least 5 people who plan to use their desktop or laptop computer for the session
+- At least 5 people who plan to use their smartphone for the session
+- At least 5 people with a cognitive disability (e.g., TBI)
+- At least 5 people who are age 55 or older
+- At least 3 people who use assistive technology, such as a screen reader *(see Additional Question #3 below)*
+- At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
+- ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
+  - During the session, are willing to share over Zoom a web browser window on their device
+  - Have a working microphone on their device
+  - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+### Secondary criteria (nice-to-haves)
+- At least 10 people of color
+- At least 6 women
+- At least 5 people 35 or under
+- At least 5 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 5 people who live in a rural or remote area
+- At least 1 non-native English speaker *(see Additional Question #4 below)*
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+### Additional questions to ask in the screener
+1. What VA benefits (if any) do you have experience with? For example, Health Care, Education, Career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items.
+    1. None *(recruit 6)*
+    1. One or more NOT including Health Care *(recruit 6)*
+    1. One or more including Health Care *(recruit 10)*
+    
+1. Have you ever used the VA.gov website before?
+    1. No *(recruit 5)*
+    1. Yes
+    1. Not sure
 
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+1. Do you use any assistive technology (for example, a screen reader) to access the internet? If so, what kind?
+    1. Yes, always *(record what kind of assistive technology and recruit)*
+    2. Most of the time
+    3. Sometimes
+    4. No, never
+     
+1. How well do you speak English?
+    1. Not at all *(record as "non-native English speaker" and recruit)*
+    1. Not well *(record as "non-native English speaker" and recruit)*
+    1. Well
+    1. Very well 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? TBD Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: TBD
+- * Pilot #1: **TBD** with TBD
+- * Pilot #2: **TBD** with TBD
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: **July TBD**
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+
+Team Availability | Time (ET)
+------------------|--------------
+July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
+July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
+July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
+July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
+July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role. 	
 - Moderator: 
-- Research guide writing and task development (usually but not always same as moderator):	Cindy Merrill (cindy.merrill@adhocteam.us)
+- Research guide writing and task development:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participant(s) for pilot test:	TBD
+- Project point of contact:	Cindy Merrill 
+- Participants for pilot test:	TBD
 - Note-takers:	Perigean
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov)
