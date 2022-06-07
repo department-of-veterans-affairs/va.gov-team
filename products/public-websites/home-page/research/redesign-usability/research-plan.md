@@ -34,11 +34,19 @@ This research will inform iterations to the home page redesign, the need for fut
     6. Benefit hubs below search and common tasks
     7. The main content of the page (between the header and footer)--scrolled all the way down the page?
     8. VAntage Point blog promo (below search and common tasks)
-    9. Header, including Search, Sign in, VA Benefits and Health Care megamenu *(not an area of focus for this research)*
-    10. Footer *(not an area of focus for this research)*
+    9. Header, including Search, Sign in, VA Benefits and Health Care megamenu 
+    10. Footer 
 1. Does the home page support participants, including those using assistive technology, in completing their tasks?
 1. Do the words/labels used on the home page support participant understanding?
 1. What do participants expect from various areas of the home page, including search functionality and the VAntage Point blog promo?
+
+### Areas of focus
+We are primarily interested in the following areas of the home page, in context with the header or footer, which may provide a path for task completion:
+- Login/signup CTA
+- Common task list
+- Search
+- Benefit hubs
+- VAntage Point blog promo
 
 ### Hypotheses
 1. The prominent sign in/sign up location and CTA makes it easier for Veterans to easily sign in/sign up.
