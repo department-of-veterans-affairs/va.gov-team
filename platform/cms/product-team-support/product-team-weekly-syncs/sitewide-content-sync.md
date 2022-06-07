@@ -14,6 +14,7 @@
 ### Agenda
 - Q3 plans for Sitewide Content team
   - How can CMS content team support their mission within the content model?
+- Top task and COVID status update
 
 ## May 10, 2022
 ### Agenda
