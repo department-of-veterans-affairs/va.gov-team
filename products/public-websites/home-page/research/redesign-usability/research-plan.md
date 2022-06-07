@@ -73,7 +73,7 @@ wayfinding prompts to explore the redesigned VA.gov home page on the Staging ser
 	
 ## Recruitment	
 
-Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family members, and Service members** in order to get **12 completed sessions** using the criteria below.
+Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family members, and Service members** in order to get **12 completed sessions** using the criteria below.
 
 ### Primary criteria (must-haves)
 - 13 are Veterans
