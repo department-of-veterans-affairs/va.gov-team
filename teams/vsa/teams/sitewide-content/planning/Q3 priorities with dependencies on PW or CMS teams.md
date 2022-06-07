@@ -2,7 +2,7 @@
 
 - **SWC priority:** Create a broad content intake request form that helps to guide our VA partners through the process of determining if they need a CLP, benefit hub content (new/updated), resources and support content (new/updated), or something else.
   - **Key collaboration needs:**
-    - Input and collaboration as needed
+    - Collaboration on form
     
 # Resources and support
 
