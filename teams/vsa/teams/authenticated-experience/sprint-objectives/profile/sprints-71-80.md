@@ -376,7 +376,20 @@ Launch!! This assumes no serious launch-blockers came out of UAT.
 - Flip feature on to 50% of users 
   - Unless the backend feature flipper is a one-time thing, remember to flip the backend flipper as well
 
+### MHV profile research
 
+- Read out with MHV stakeholders if we had to postpone from last sprint
+
+### Military information
+
+On hold while Tom is out
+
+### Direct deposit
+
+**FE**
+
+- Launch to 50% (if didn't happen last sprint)
+- Launch to 100%
 
 ## Sprint 77 (6/29 - 7/12)
 
