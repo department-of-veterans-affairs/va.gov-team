@@ -1,7 +1,7 @@
 # Research Plan for VA.gov Home Page Redesign Usability Testing [Sitewide Home Page team, July 2022]
 
 ## Background
-The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) was conducted in April 2021. Findings from this research and also from [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) have been incorporated into a new VA.gov home page design. 
+The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md) was conducted in April 2021. Findings from this research and also from [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) have been incorporated into a new VA.gov home page design. 
 
 [Link to initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
 
