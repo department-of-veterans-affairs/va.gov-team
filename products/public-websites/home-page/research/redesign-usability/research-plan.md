@@ -3,7 +3,7 @@
 ## Background
 The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) was conducted in April 2021. Findings from this research and also from [Search Design Concepts Usability Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) have been incorporated into a new VA.gov home page design. 
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
+[Link to initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
 
 ### OCTO Objectives 
 
@@ -24,28 +24,26 @@ The purpose of this research is to get user feedback on the redesigned VA.gov ho
 This research will inform iterations to the home page redesign, the need for future research, and release decisions.
 
 ### Research questions
-For the purposes of this research plan, "successfully completing" a task means that the participant has found an appropriate place on VA.gov to do the task (WORDING!!!).
+*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they will be able to do that task, perhaps after signing in.*
 1. Are participants able to easily and quickly complete tasks from the home page?
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
-3. What part(s) of the home page do participants use to complete tasks and how?
+3. Which parts of the home page do participants use to complete tasks and how?
     1. "Sign in or create account" button
     3. "Common tasks"
     4. The new search box (next to common tasks)
     5. "Other search tools" (next to common tasks)
-    6. Benefit hubs below search and common tasks
-    7. The main content of the page (between the header and footer)--scrolled all the way down the page?
+    6. Benefit hubs (below search and common tasks)
+    7. The main content of the page (between the header and footer)--Did they scroll all the way down the page?
     8. VAntage Point blog promo (below search and common tasks)
-    9. Header, including Search, Sign in, VA Benefits and Health Care megamenu 
+    9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
-1. Does the home page support participants, including those using assistive technology, in completing their tasks?
-1. What do participants find confusing on the home page? (WORDING!!!)
-2. What worked well on the home page? (WORDING!!!)
+1. Is there anything that participants find unclear or confusing on the home page? 
 3. What are participants' expectations of the VAntage Point blog promo content?
-    1. What information would be meaningful to be there?
+    1. What content would be helpful to be there?
     2. How often should the content be refreshed?
 
 ### Areas of focus
-We are primarily interested in the following areas of the home page, in context with the header or footer, which may provide a path for task completion:
+In this research, we are primarily interested in the following areas of the home page as used in task completion:
 - Login/signup CTA
 - Common task list
 - Search
@@ -58,7 +56,7 @@ We are primarily interested in the following areas of the home page, in context 
 1. The streamlined design helps participants complete tasks efficiently. 
     1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
 1. Participants will know to search for tasks not listed as most common. 
-1. Participants understand where "other search tools" links will take them and what information they will find there.
+1. Participants understand where "other search tools" links will take them and what they will find there.
 1. A focused and prominently displayed VAntage Point blog promo increases participants engagement with the content.
 1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 
