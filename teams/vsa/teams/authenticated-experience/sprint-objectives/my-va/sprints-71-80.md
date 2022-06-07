@@ -286,6 +286,10 @@ Design on hold while we prep for midpoint review
 ## Sprint 76 (6/15 - 6/28)
 [Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
+### PTO
+
+- **Tom**: 6/17 - 6/24 (this might affect end-to-end testing for on-site notifications)
+
 Projects are in priority order:
 
 ### On-site notifications
