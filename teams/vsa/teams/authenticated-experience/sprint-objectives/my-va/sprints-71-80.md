@@ -326,7 +326,7 @@ This assumes discovery is complete. If we need additional discovery and have una
 
 ### My VA: Cerner updates
 
-**FE*
+**FE**
 
 - (531) Boise: Go-live -- 6/25/2022
 
