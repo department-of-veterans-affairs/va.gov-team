@@ -70,26 +70,26 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family memb
 ### Primary criteria (must-haves)
 - 13 are Veterans
 - 7 are Veterans' family members, caregivers, or survivors
-- 6 have NO experience with ANY VA benefits or services *(see Additional Question #1 below)*
-- 6 have NO experience with health care, but DO have experience with another VA benefits or service *(see Additional Question #1 below)*
-- 10 have experience using health care or any VA benefits or services *(see Additional Question #1 below)*
+- 6 have NO experience with ANY VA benefit *(see Additional Question #1 below)*
+- 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
+- 10 have experience ANY VA benefit including health care *(see Additional Question #1 below)*
 - At least 5 people who plan to use their desktop or laptop computer for the session
 - At least 5 people who plan to use their smartphone for the session
 - At least 5 people with a cognitive disability (e.g., TBI)
 - At least 5 people who are age 55 or older
-- At least 3 people who use assistive technology, such as a screen reader *(see Additional Question #3 below)*
-- At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
+- At least 3 people who use assistive technology, such as a screen reader or screen magnifier *(see Additional Question #3 below)*
 - ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 ### Secondary criteria (nice-to-haves)
-- At least 10 people of color
-- At least 6 women
-- At least 5 people 35 or under
-- At least 5 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
-- At least 5 people who live in a rural or remote area
+- At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
+- At least 6 people of color
+- At least 4 women
+- At least 3 people 35 or under
+- At least 4 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 4 people who live in a rural or remote area
 - At least 1 non-native English speaker *(see Additional Question #4 below)*
 
 ### Additional questions to ask in the screener
@@ -103,7 +103,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veteran family memb
     1. Yes
     1. Not sure
 
-1. Do you use any assistive technology (for example, a screen reader) to access the internet? If so, what kind?
+1. Do you use any assistive technology (for example, a screen reader or screen magnifier) to access the internet? If so, what kind?
     1. Yes, always *(record what kind of assistive technology and recruit)*
     2. Most of the time
     3. Sometimes
