@@ -10,6 +10,10 @@
 <details><summary>Parking lot</summary>
  </details>
 
+## June 7, 2022
+### Agenda
+- Q3 plans
+
 ## May 10, 2022
 ### Agenda
 - Facilities COVID status
