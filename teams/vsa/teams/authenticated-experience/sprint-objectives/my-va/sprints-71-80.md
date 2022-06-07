@@ -296,7 +296,9 @@ Projects are in priority order:
 
 **Full team**
 
-- End-to-end testing
+- End-to-end testing. How we are going to handle this:
+  -  Once VANotify has completed their backend testing, we will ask DMC to add the test data for a subset of staging users. If we can then validate that on-site notifications showed up in those accounts as expected, there is no need to hold an e2e call.
+  -  However, if we ask DMC to add debts and no on-site notification shows up, we should hold a call to troubleshoot the issue. 
 
 **PM**
 
