@@ -88,16 +88,21 @@ We would like to work with Perigean to recruit for 9 fulfilled remote sessions. 
 ## When? 	
 Desired Timeline: June 10-17, 2022
 
-Session length: 2 hours for screenreader participants, 1 hour for non-screenreader participants. Please leave 15 minutes in between each session, and only recruit for a maximum of 5 participants a day.
+Session length: 2 hours for screenreader participants, 1 hour for non-screenreader participants. Please leave 15 minutes in between each session.
 
 Notetaking: Will be handled by the 10-10 team
 	
 Team Availability | Time (ET)
 ------------------|--------------
-June 14     | 9:00am - 7pm
+June 14     | 9:00am - 6pm
 June 15     | 9:00am - 2pm and 3pm-7pm
 June 16     | 9:00am - 5pm
-June 17     | 2:00pm - 5pm
+June 17     | 9:00am - 11am and 2pm-5pm
+
+Also available _only use if necessary_
+------------------|--------------
+June 21     | 9:00am - 6pm
+June 22     | 9:00am - 1pm
 
 
 Pilot Session: June 10 | 2:00pm ET 	
