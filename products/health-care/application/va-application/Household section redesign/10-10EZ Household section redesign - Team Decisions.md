@@ -4,8 +4,10 @@ Nick provided an overview of suggestions for the section, and Heather provided m
 
 This document is to help us decide and track what we have agreed would be beneficial to implement and test.
 
+#### References
 - [Initial Design Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf)
 - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/ReadMe.md)
+---
 
 ### Suggestions
 
