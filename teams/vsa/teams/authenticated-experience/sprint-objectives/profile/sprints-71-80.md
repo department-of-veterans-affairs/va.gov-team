@@ -365,6 +365,19 @@ If there is no more backend work:
 
 - Tom: 6/17 - 6/24
 
+### Personal information revisions
+
+Launch!! This assumes no serious launch-blockers came out of UAT.
+
+**FE**
+
+- Flip feature on to 25% of users
+  - Remember to switch the backend feature flipper as well
+- Flip feature on to 50% of users 
+  - Unless the backend feature flipper is a one-time thing, remember to flip the backend flipper as well
+
+
+
 ## Sprint 77 (6/29 - 7/12)
 
 ### PTO
