@@ -8,12 +8,13 @@
 
 - **SWC priority:** Continue to migrate more legacy content into Resources and Support, while bringing more non-OCTO content authors into Drupal.
   - **Key collaboration needs:** 
-    - Expand reusability of Q&As to the R&S detail template (and beyond if possible) _[#1 priority]_
+    - Expand reusability of Q&As to the R&S detail template (and beyond if possible) _(#1 priority)_
     - Refine resources and support analytics dashboard (collaboration with analytics team as well)
     - Continue exploration, testing, and monitoring of tag UI as we add more content and topic tags
     - Continued non-OCTO author training and Drupal support
     - Make it possible for authors to choose both "Veterans" and "Family members" as audience type, with governance added in as to when to choose both (limited cases of content that will cross both audiences)
-    - Implement deeper feedback choices for R&S articles if possible
+  - **Additional collaboration needs:**
+    - Implement deeper feedback choices for R&S articles (in progress)
     - Document criteria and process for resources and support redirects
     - Add content governance/standards guidance into the authoring experience
     - Continue exploration of taxonomy iteration (no significant action for teams in Q3, but noting for awareness)
@@ -28,7 +29,8 @@
   - **Key collaboration needs:**
     - Refine benefit hub analytics dashboard (collaboration with analytics team as well)
     - Create structured content model for information and harden templates for eligibility and how to apply pages
-    - Make related link descriptions automatic 
+  - **Additional collaboration needs:**
+    - Make related link descriptions automatically generated 
 
 # Multilingual content
 
