@@ -14,6 +14,9 @@ Starting point for appointments-related projects on VA.gov.
 * [VA Employee-Patient Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veterans%20Outpatient%20Journey%20Map.pdf)
 </details>
 
+## Research
+See the Appointments on VA.gov [**research hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointment-scheduling/usability-testing/research-findings.md).
+
 ## Content
 
 [**Appointments content brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/Appointments.md)
@@ -35,4 +38,4 @@ Tools Veterans and facilities can use to manage, track, and schedule appointment
 | Flagship Mobile App  | Mobile app |
 | VA Notify            | Email      | 
 
-### Facility touchpoints
+
