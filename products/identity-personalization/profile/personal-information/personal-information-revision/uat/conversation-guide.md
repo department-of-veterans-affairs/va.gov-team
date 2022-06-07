@@ -41,20 +41,18 @@ _Confirm they qualify for the study._
 	- _If not:_ Are these readily accessible? Could you get them?
 	- _If the user can not remember or retrieve their login credentials, end the session:_ Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-- Great! I'll have you log in in just a second. 
+- Great! In that case, I'd like you to open a new tab in your browser, and go to https://www.va.gov/.
+ 
+- Now you can go ahead and log in. 
 
-- So today we’re going to observe you interacting with the new feature. Would you feel comfortable sharing your screen with me at this time? 
-
-- Great! Thanks for confirming. In that case, please share your screen and then we will move on to the website and get started.
+- Ok, now that you're logged in, could you please share your screen?
 	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 ## 1. Review Personal information section - 5 minutes
 
-- So now I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
-- Now you can go ahead and log in. I will stop the recording as you do that. _Stop recording_
-- _Start recording._ Now that you are logged in, please go to your Profile by clicking on your name in the top right corner. 
-- So we're going to review the Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
+- Great. Thank you! Now that you are logged in and sharing your screen, please go to your Profile by clicking on your name in the top right corner. 
+- So we're going to be reviewing this Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
 
 #### UAT and Usability
 - [ ] **UAT TASK:** _Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, end the session._ I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
@@ -82,7 +80,7 @@ If they are LOA3:
 	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
+- _If already addressed:_ We already discussed a little about why VA might ask about this information, but taking another look at the information you pointed out in this field, is any unclear about this?
 	
 - Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know. _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	- _If YES to question above:_ Is there anything about this process that is unclear? 
@@ -108,7 +106,7 @@ If they are LOA3:
 	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
+- _If already addressed:_ We already discussed a little about why VA might ask about this information, but taking another look at the information you pointed out in this field, is any unclear about this?
 
 - Is this a field that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
