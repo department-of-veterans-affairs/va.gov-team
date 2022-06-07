@@ -18,13 +18,3 @@ Date(s): April 27-29, 2022
 
 [Check-In Pilot Feedback Capture for Veterans (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8507175/Check-In.Pilot.Feedback.Capture.for.Veterans.pdf)<br>
 [Check-In Pilot Feedback Capture for Veterans (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/8507176/Check-In.Pilot.Feedback.Capture.for.Veterans.docx)
-
-### Key Findings
-
-1. There's a large cohort of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes in a more streamlined manner.  
-1. Pre-check-in was not widely used by Veterans because it's overlooked and conflated with the initial appointment confirmation message.
-1. Veterans were frustrated that they had to wait to check in when arriving early for appointments. 
-1. The new poster addressing low vision concerns was initially successful, but requires additional testing with low-vision participants.  
-1. If posters weren’t in line of sight of Veterans between entering the clinic and walking up to the MSA counter, then Veterans often missed them altogether. 
-1. Network and cell signal strength are variable between clinics: 3-15 seconds to receive second text message from VeText, 5-15 seconds for VA.gov to load. 
-1. Veterans appreciate the help from MSAs when checking in. However, it’s increased the workload of many MSAs. 
