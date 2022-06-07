@@ -162,9 +162,7 @@ If they are LOA3:
 
 Ok, now that we've finished all the tasks and have a little extra time, I have one more thing I like you to try.
 
-- We're going to change your Preferred name information again, click update, and then refresh the entire page right away using the refresh button in your browser window. 
-
-- And don't worry, we will change your information back again once we've tried this.
+- We're going to change your Preferred name information again, click update, and then refresh the entire page right away using the refresh button in your browser window. And don't worry, we will change your information back again once we've tried this.
 
 - So first, could you please click on Preferred name and enter something slightly different? For example, you could enter [VERSION OF NAME]. 
 
