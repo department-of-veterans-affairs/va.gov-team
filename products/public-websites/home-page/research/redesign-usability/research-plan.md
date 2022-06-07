@@ -18,7 +18,7 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 - Retiring and aging
 
 ## Research Goals	
-The purpose of this research is to get user feedback on the redesigned VA.gov home page and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and Service members while completing important benefit-related tasks. 
+The purpose of this research is to **get user feedback on the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks. 
 
 ### Outcome
 This research will inform iterations to the home page redesign, the need for future research, and release decisions.
@@ -53,16 +53,16 @@ In this research, we are primarily interested in the following areas of the home
 ### Hypotheses
 1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
 1. More participants will use the prominent sign in/sign up CTA than the button in the header.
-1. The streamlined design helps participants complete tasks efficiently. 
+1. The streamlined design enables participants to complete tasks efficiently. 
     1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
-1. Participants will know to search for tasks not listed as most common. 
+1. Participants will know to search for tasks not listed as "common tasks". 
 1. Participants understand where "other search tools" links will take them and what they will find there.
-1. A focused and prominently displayed VAntage Point blog promo increases participants engagement with the content.
+1. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
 1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 
 ## Method	
-We will conduct remote moderated usability sessions via Zoom. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some Veteran top tasks (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) as 
-wayfinding prompts to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign.
+We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
+wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign.
 
 *ACTION ITEM: Top tasks identified from the Veteran Top Tasks Unmoderated Survey should be incorporated into the home page redesign in the "common tasks" section.*
 
@@ -73,18 +73,18 @@ wayfinding prompts to explore the redesigned VA.gov home page on the Staging ser
 	
 ## Recruitment	
 
-Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family members, and Service members** in order to get **12 completed sessions** using the criteria below.
+Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family members, and service members** in order to get **12 completed sessions** using the criteria below.
 
 ### Primary criteria (must-haves)
 - 13 are Veterans
 - 3 are Veterans' caregivers
 - 2 are Veterans' family members
-- 2 are Service members
+- 2 are service members
 - 6 have NO experience with ANY VA benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
-- 10 have experience ANY VA benefit including health care *(see Additional Question #1 below)*
+- 4 have experience with health care *(see Additional Question #1 below)*
 - At least 5 people who plan to use their desktop or laptop computer for the session
-- At least 5 people who plan to use their mobile device for the session *(IF the prototype is responsive enough)*
+- At least 5 people who plan to use their mobile device for the session *(IF the prototype is responsive enough to work on tablets and phones)*
 - At least 5 people with a cognitive disability (e.g., TBI)
 - At least 5 people who are age 55 or older
 - At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
@@ -103,10 +103,10 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 - At least 1 non-native English speaker *(see Additional Question #3 below)*
 
 ### Additional questions to ask in the screener
-1. What VA benefits (if any) do you have experience with? For example, Health Care, Education, Career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Perigean: Please ask this even though it's in the screener questionnaire because it may have changed since the participant questionnaire filled out.)*
+1. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
     1. None *(recruit 6)*
-    1. One or more NOT including Health Care *(recruit 6)*
-    1. One or more including Health Care *(recruit 10)*
+    1. One or more NOT INCLUDING Health Care *(recruit 6)*
+    1. One or more INCLUDING Health Care *(recruit 4)*
     
 1. Have you ever used the VA.gov website before?
     1. No *(recruit 5)*
