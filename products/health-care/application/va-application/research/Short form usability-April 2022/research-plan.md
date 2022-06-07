@@ -99,10 +99,10 @@ June 15     | 9:00am - 2pm and 3pm-7pm
 June 16     | 9:00am - 5pm
 June 17     | 9:00am - 11am and 2pm-5pm
 
-Also available _only use if necessary_
+_Only use if necessary_ | Time (ET)
 ------------------|--------------
-June 21     | 9:00am - 6pm
-June 22     | 9:00am - 1pm
+June 21     | 9:00am - 6pm 
+June 22     | 9:00am - 1pm 
 
 
 Pilot Session: June 10 | 2:00pm ET 	
