@@ -14,6 +14,9 @@
      - Expandable sections for each dependent
           - [ ] Yes
           - [ ] No
+     - Add expandable/accordion contextual info "who counts as a dependent"
+          - [ ] Yes
+          - [ ] No
 6. Annual Income page
      - Separate Veteran and Spouse information
           - [ ] Yes
