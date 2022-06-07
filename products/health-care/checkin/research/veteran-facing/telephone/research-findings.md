@@ -1,4 +1,4 @@
-# Enabling pre-check-in for telephone appointments  Research Findings 
+# Enabling Pre-check-in for Telephone Appointments Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Check-in Experience**
 
