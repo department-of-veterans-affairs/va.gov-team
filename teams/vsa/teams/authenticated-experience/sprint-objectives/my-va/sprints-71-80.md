@@ -286,9 +286,64 @@ Design on hold while we prep for midpoint review
 ## Sprint 76 (6/15 - 6/28)
 [Epic: #40785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40785)
 
+Projects are in priority order:
+
+### On-site notifications
+
+**Full team**
+
+- End-to-end testing
+
+**PM**
+
+- Hold QA go/no-go
+- Fill out release plan
+- Support call center guide updates
+
+**Design**
+
+- Call center guide updates (can use My VA guide) 
+
+**QA**
+
+- Tze to conduct QA
+
+### My VA redirect
+
+This assumes discovery is complete. If we need additional discovery and have unanswered questions after sprint 75, we should prioritize getting those answers.
+
+**PM**
+
+- General coordination
+
+**FE**
+
+- Code implementation (other teams may need to be involved in this)
+
+**Design -- Liz**
+
+- UAT planning
+
 ### My VA: Cerner updates
 
-(531) Boise: Go-live -- 6/25/2022
+**FE*
+
+- (531) Boise: Go-live -- 6/25/2022
+
+### Payments V2
+
+Design is on hold bc of midpoint review
+
+**PM**
+
+- Midpoint review prep, including starting a preliminary list of QA tasks
+- Hold midpoint review by the end of the sprint if possible
+
+### Audit
+
+**Design**
+
+- Design for Claim status & health care sections 
 
 ## Sprint 77 (6/29 - 7/12)
 [Epic: #40787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40787)
