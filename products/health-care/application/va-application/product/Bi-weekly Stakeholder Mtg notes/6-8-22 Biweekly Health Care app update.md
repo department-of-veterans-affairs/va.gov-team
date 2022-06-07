@@ -10,7 +10,8 @@
      - [ ] Stacey Echols is requesting that a LOE be estimated to add the Registration path to the online form
      - [ ] Lauren Alexanderson is requesting that the fields for the Registration path be identified for comparison to Enrollment path
 - Short Form
-     - [ ] Online Health Apps team to confirm data sources we use to pre-populate the information on the form
+     - [x] Online Health Apps team to confirm data sources we use to pre-populate the information on the form
+          - The data sources used are MPI, Enterprise Military Information Service (eMIS), EVSS PCIU, and VA Profile.
      - [ ] Tarsha to check with Leadership on any concerns for Data Integrity
      - [x] Dene’ to send spreadsheet showing the fields that are being pre-populated for logged in applicants
 - Notifications
