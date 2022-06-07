@@ -28,7 +28,7 @@
 - **SWC priority:** Create structured content model for benefit high-level description, eligibility, and how to apply content. Rework these pages in at least health care and disability in Q3.
   - **Key collaboration needs:**
     - Refine benefit hub analytics dashboard (collaboration with analytics team as well)
-    - Create structured content model for information and harden templates for eligibility and how to apply pages
+    - Create structured content model for information and harden templates for eligibility and how to apply pages _(could carry over into Q4)_
   - **Additional collaboration needs:**
     - Make related link descriptions automatically generated 
 
