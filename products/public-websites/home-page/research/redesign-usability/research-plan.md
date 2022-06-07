@@ -136,8 +136,8 @@ July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator: 
-- Research guide writing and task development:	Cindy Merrill (cindy.merrill@adhocteam.us)
+- Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
+- Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill 
 - Participants for pilot test:	TBD
