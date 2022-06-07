@@ -91,18 +91,14 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ## Launch Planning
 
 ### Timeline 
-- ???? 2022: Complete QA
-- ???? 2022: Complete UAT
-- ???? 2022: Launched to ???% of users
+- June 6, 2022: Launched to 25% of in-progress application population
 
 
 
 
 #### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
 - *Actual Launch Date* 
-  - tbd
+  - 6/6/2022
 
 ---
    
@@ -132,6 +128,6 @@ No UI Changes.  See this [Sample email](https://github.com/department-of-veteran
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Lauren Alexanderson
+- Contact(s): Lauren Alexanderson, Patrick Bateman
  
 </details>
