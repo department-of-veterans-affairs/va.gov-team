@@ -18,15 +18,16 @@ Use of the VA.gov home page fits into the [Veteran journey](https://github.com/d
 - Retiring and aging
 
 ## Research Goals	
-The purpose of this research is to get user feedback on the redesigned VA.gov home page and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, and those acting on behalf of Veterans while completing important benefit-related tasks. 
+The purpose of this research is to get user feedback on the redesigned VA.gov home page and assess whether the design changes have improved the usability of the home page. We will observe which areas of the home page they use and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and Service members while completing important benefit-related tasks. 
 
 ### Outcome
 This research will inform iterations to the home page redesign, the need for future research, and release decisions.
 
 ### Research questions
-1. Are participants able to easily and quickly initiate tasks from the home page?
+For the purposes of this research plan, "successfully completing" a task means that the participant has found an appropriate place on VA.gov to do the task (WORDING!!!).
+1. Are participants able to easily and quickly complete tasks from the home page?
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
-3. What part(s) of the home page do participants use to complete tasks?
+3. What part(s) of the home page do participants use to complete tasks and how?
     1. "Sign in or create account" button
     3. "Common tasks"
     4. The new search box (next to common tasks)
@@ -37,8 +38,11 @@ This research will inform iterations to the home page redesign, the need for fut
     9. Header, including Search, Sign in, VA Benefits and Health Care megamenu 
     10. Footer 
 1. Does the home page support participants, including those using assistive technology, in completing their tasks?
-1. Do the words/labels used on the home page support participant understanding?
-1. What do participants expect from various areas of the home page, including search functionality and the VAntage Point blog promo?
+1. What do participants find confusing on the home page? (WORDING!!!)
+2. What worked well on the home page? (WORDING!!!)
+3. What are participants' expectations of the VAntage Point blog promo content?
+    1. What information would be meaningful to be there?
+    2. How often should the content be refreshed?
 
 ### Areas of focus
 We are primarily interested in the following areas of the home page, in context with the header or footer, which may provide a path for task completion:
@@ -49,16 +53,14 @@ We are primarily interested in the following areas of the home page, in context 
 - VAntage Point blog promo
 
 ### Hypotheses
-1. The prominent sign in/sign up location and CTA makes it easier for Veterans to easily sign in/sign up.
-1. More Veterans will use the prominent sign in/sign up CTA than the button in the header.
-1. The streamlined design helps Veterans complete tasks more efficiently. 
+1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
+1. More participants will use the prominent sign in/sign up CTA than the button in the header.
+1. The streamlined design helps participants complete tasks efficiently. 
     1. For tasks that are the same as those used in last year's baseline wayfinding research, task completion rates will be higher.
-1. The new design includes the most common/important Veteran-facing tasks.
-1. The link labels are sufficient for Veterans to understand and use them.
-1. Veterans will know to search for tasks not listed as most common. 
-1. Veterans understand where "other search tools" links will take them and what information they will find there.
-1. A focused and prominently displayed VAntage Point blog promo increases Veteran engagement with the content.
-1. Participants will scroll all the way down the home page to see the footer. 
+1. Participants will know to search for tasks not listed as most common. 
+1. Participants understand where "other search tools" links will take them and what information they will find there.
+1. A focused and prominently displayed VAntage Point blog promo increases participants engagement with the content.
+1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
 
 ## Method	
 We will conduct remote moderated usability sessions via Zoom. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some Veteran top tasks (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) as 
@@ -84,17 +86,17 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
 - 10 have experience ANY VA benefit including health care *(see Additional Question #1 below)*
 - At least 5 people who plan to use their desktop or laptop computer for the session
-- At least 5 people who plan to use their smartphone for the session
+- At least 5 people who plan to use their mobile device for the session *(IF the prototype is responsive enough)*
 - At least 5 people with a cognitive disability (e.g., TBI)
 - At least 5 people who are age 55 or older
 - At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
+- At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
 - ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 ### Secondary criteria (nice-to-haves)
-- At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
 - At least 6 people of color
 - At least 4 women
 - At least 3 people 35 or under
@@ -103,7 +105,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 - At least 1 non-native English speaker *(see Additional Question #3 below)*
 
 ### Additional questions to ask in the screener
-1. What VA benefits (if any) do you have experience with? For example, Health Care, Education, Career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items.
+1. What VA benefits (if any) do you have experience with? For example, Health Care, Education, Career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Perigean: Please ask this even though it's in the screener questionnaire because it may have changed since the participant questionnaire filled out.)*
     1. None *(recruit 6)*
     1. One or more NOT including Health Care *(recruit 6)*
     1. One or more including Health Care *(recruit 10)*
