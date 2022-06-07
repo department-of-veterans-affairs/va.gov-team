@@ -84,12 +84,12 @@ If they are LOA3:
 
 - _If already addressed:_ We already discussed this a bit, but taking another look at the information you pointed out in this field explaining why VA might ask about this information, is any unclear about this?
 	
-- Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
-	- _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
-	
-- _If YES to question above:_ Is there anything about this process that is unclear? 
-- _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
+- Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know. _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
+	- _If YES to question above:_ Is there anything about this process that is unclear? 
+	- _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
+
 - Do you have any questions about not being able to completely remove/clear this answer?
+
 - How would it be helpful or unhelpful to be able to remove information entered here?
 
 #### UAT and Usability
