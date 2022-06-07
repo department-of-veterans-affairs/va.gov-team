@@ -10,6 +10,7 @@
 - Definitions
      - [ ] Stacey Echols is requesting that a LOE be estimated to add the Registration path to the online form
      - [ ] Lauren Alexanderson is requesting that the fields for the Registration path be identified for comparison to Enrollment path
+          - **Feedback from Joshua/ES:** They are handled differently, they are placed into a Registration Only enrollment status and are not enrolled into any priority group. It is more commonly done in person at a VAMC and not on a mailed in form.
 - Short Form
      - [x] Online Health Apps team to confirm data sources we use to pre-populate the information on the form
           - **The data sources used are MPI, Enterprise Military Information Service (eMIS), EVSS PCIU, and VA Profile.**
