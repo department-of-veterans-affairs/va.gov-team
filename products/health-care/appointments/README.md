@@ -15,7 +15,7 @@ Starting point for appointments-related projects on VA.gov.
 </details>
 
 ## Research
-See the Appointments on VA.gov [**research hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointment-scheduling/usability-testing/research-findings.md).
+See the appointments on VA.gov [**research hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md).
 
 ## Content
 
