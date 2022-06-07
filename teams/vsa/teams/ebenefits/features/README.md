@@ -1,0 +1,1 @@
+All "feature" [folders moved to `products/ebenefits/` folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits)
