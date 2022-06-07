@@ -1,4 +1,5 @@
 # Appointments research on VA.gov
+Research related to appointments on VA.gov. Feel free to link to relevant studies. Questions or comments? Contact peter.russo@adhocteam.us or ask on Slack in #vaos-team.
 
 ## 2022
 
