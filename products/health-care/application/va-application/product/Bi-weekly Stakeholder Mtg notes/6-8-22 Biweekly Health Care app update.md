@@ -15,7 +15,8 @@
      - [ ] Tarsha to check with Leadership on any concerns for Data Integrity
      - [x] Dene’ to send spreadsheet showing the fields that are being pre-populated for logged in applicants
 - Notifications
-     - [ ] Lauren Alexanderson and Patrick Bateman will check with Joshua Faulkner to confirm that the Confirmation email is sent from the Enrollment System when an application is submitted
+     - [x] Lauren Alexanderson and Patrick Bateman will check with Joshua Faulkner to confirm that the Confirmation email is sent from the Enrollment System when an application is submitted
+          - upon receipt it sends them an email (if they provided one) to confirm their application was received and it also includes the number to the call center if they have any questions. 
 
 
 ### Online Health App Team - Agenda Items
