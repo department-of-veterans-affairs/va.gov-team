@@ -45,61 +45,54 @@ This research plan maps to the following moment within the Veteran journey:
 
 Our goal for this research is to utilize our [baseline research plan for the St. Louis pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md) to evaluate pre-check-in and check-in at additional VAMCs. In addition, the Modernized Check-In Team is building off of the [beneficiary travel research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104) that is pointing to a potential solution that integrates travel reimbursement with check-in. Specifically, we’re looking to accomplish the following: 
 
-- Evaluate the effectiveness of pre-check-in and check-in with Veterans
+- Evaluate the effectiveness of pre-check-in and check-in with MSAs
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
-- Evaluate effectiveness of check-in poster
-- Gain insights into product naming 
+- Understand how, if at all, MSAs are using VSE-CS
 - Gain insights on understanding the optimal experience for incorporating travel reimbursement into the check-in experience for Veterans 
 
 ### Research Questions
 
-- How often are Veterans using pre-check-in? 
-- Do Veterans assume they still have to do day-of check-in when pre-check-in is complete? 
 - What’s working and not working with pre-check-in and check-in? 
 - What changes could help improve the check-in process?  
 - How often are MSAs interacting with Veterans during the check-in process? 
 - Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in? 
+- What’s been the impact on MSA workload? 
 - How often are MSAs troubleshooting errors or clearing review flags?
+- How comfortable are MSAs troubleshooting errors or clearing review flags? 
 - What are the issues that MSAs are helping Veterans troubleshoot?  
+- What changes in MSA to clinician communication for check-in have changed?
+- What changes to check-in can help improve MSA to clinician communication for check-in?  
+- Are MSAs using VSE-CS? If so, how is it being used and why is it being used?  
 - How do Veterans feel about pre-check-in and check-in?
-- Are Veterans able to use the check-in poster? 
-- What would Veterans call this process?
 - When do Veterans expect to complete a travel reimbursement claim in relation to their appointment? 
 - What steps should a Veteran have to complete for filing a travel reimbursement claim? 
 - What steps could be removed from the existing BTSSS process to make it easier for Veterans to file a claim?  
 
 ### Hypothesis 
 
-1. Veterans who use pre-check-in are able to complete the required steps. 
-1. Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment. 
-1. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
+1. The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed. 
 1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
 1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
 1. MSAs will have shorter lines of Veterans waiting to be checked in. 
-1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-1. Veterans will indicate that check-in does not affect their care experience. 
-1. Veterans are able to use the check-in poster without friction. 
-1. Veterans refer to the process as “check in” or “mobile check in.” 
-1. Veterans are called for their appointment once check-in is complete.  
-1. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
+1. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased. 
+1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE. 
+1. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended. 
+1. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
 
 ## Method
 
 This research will be conducted as in-person interviews at Bay Pines VAMC and other clinics that the Bay Pines team is able to identify. Our preference is to visit various clinics at Bay Pines VAMC and an additional two CBOCs that are scheduled during times of high appointment check-ins. 
 
-We will work with the Bay Pines team at each clinic to determine the best approach for intercepting and observing Veterans. 
+We will ask MSAs questions from our conversation guide (in development) to measure their perceptions on pre-check-in, check-in, etc. and document responses, comments, improvements, etc.  
 
-Our aim is to intercept at least 5-10 Veterans at each clinic before check-in occurs. We will also observe Veterans to see how check-in works without our interception. 
-
-Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our conversation guide (in development) to measure their perceptions of check-in, pre-check-in, etc. and document responses, comments, improvements, etc.  
-
-When time permits, will also incorporate in-person usability testing on the travel reimbursement prototypes with Veterans that are familiar with the VA’s Beneficiary Travel Self Service System (BTSSS).
+We will also incorporate in-person usability testing on the travel reimbursement prototypes with staff familiar with this process. E.g., MSAs, travel clerks, etc. 
 
 Two researchers will be conducting this research. In addition, at least one product owner (Stephen Barrs) from VA OCTO will be in attendance. 
 
 ### Location 
 
 Bay Pines VAMC 
+Bay Pines VAMC travel reimbursement office 
 Bay Pines CBOCs
 
 ### Research Materials
