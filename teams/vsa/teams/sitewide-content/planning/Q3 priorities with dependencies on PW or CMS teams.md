@@ -19,7 +19,7 @@
 
 # Multilingual content
 
-- **SWC priority #1:** Translate more vital benefit content and maintain existing translated content. Potentially add language assistance and resources pages in more languages (depending on "fact sheet" solution).
+- **SWC priority:** Translate more vital benefit content and maintain existing translated content. Potentially add language assistance and resources pages in more languages (depending on "fact sheet" solution).
   - **Key collaboration needs:**
     - Engineering work to add language toggles and ensure accessibility for each added page (limited work to support each release)
     - Add ability to import/export XLIFF, HTML, or XML versions of Drupal pages
