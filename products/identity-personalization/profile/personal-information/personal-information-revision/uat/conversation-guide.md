@@ -53,15 +53,15 @@ _Confirm they qualify for the study._
 ## 1. Review Personal information section - 5 minutes
 
 - Great. Thank you! Now that you are logged in and sharing your screen, please go to your Profile by clicking on your name in the top right corner. 
-- So we're going to be reviewing this Personal information section that appears here. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
+- So we're going to be reviewing this Personal information section that is on this page. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
 
 #### UAT and Usability
 - [ ] **UAT TASK:** _Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, end the session._ I see that your identity isn't yet verified. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 - [ ] **UAT TASK:** _If records can't be matched and an error appears, end the session._ I see that the system is unable to match your records. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 If they are LOA3:
-- Without clicking on anything yet, why do you think the VA asks for this information? 
-- If you were trying to learn more about the information included here, where would you look / where do you think that would be on this page?
+- Without clicking on anything yet, why do you think VA asks for this information? 
+- If you were trying to learn more about the information included here, where would you search for that / where do you think that would be on this page?
 - Is this information required? Why does this seem that way?
 
 #### UAT and Usability
@@ -75,17 +75,17 @@ If they are LOA3:
 
 ## 2. Update information - Preferred name - 5 minutes
 
-- Now let’s review each editable section, starting with Preferred name. I’ll have you go ahead and click on that section to make sure it works how it should.
+- Now let’s review each editable section, starting with Preferred name. I’ll have you go ahead and select that section to make sure it works how it should.
 
-- _If NOT already specifically addressed:_ So we just talked about why the VA might ask about this specific information. How would you learn more about this at this point?
+- _If NOT already specifically addressed:_ So we just talked about why VA might ask about this specific information. How would you learn more about this at this point?
 	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already addressed:_ We already discussed a little about why VA might ask about this information, but taking another look at the information you pointed out in this field, is any unclear about this?
+- _If already addressed:_ We already discussed a little about why VA might ask about this information, but if you can again review the information you pointed out in this field (hint text), is anything unclear about this?
 	
 - Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know. _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	- _If YES to question above:_ Is there anything about this process that is unclear? 
-	- _If NO to question above - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
+	- _If NO to question above:_ So because we're not going to select a response, let's just review the field - is there anything unclear about how you'd update this?
 
 - Do you have any questions about not being able to completely remove/clear this answer?
 
@@ -101,24 +101,24 @@ If they are LOA3:
 
 ## 3. Gender identity - 5 minutes
 
-- Now let’s review the Gender identity section. I’ll have you go ahead and click on that section to make sure it works how it should.
+- Now let’s review the Gender identity section. I’ll have you go ahead and select that section to make sure it works how it should.
 
-- _If NOT already specifically addressed:_ Earlier we talked about why the VA might ask about this information. How would you find out more about this?
-	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you click on that?
+- _If NOT already specifically addressed:_ Earlier we talked about why VA might ask about this information. How would you find out more about this?
+	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you select that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already addressed:_ We already discussed a little about why VA might ask about this information, but taking another look at the information you pointed out in this field, is any unclear about this?
+- _If already addressed:_ We already discussed a little about why VA might ask about this information, but if you can again review the information you pointed out in this field (FAQ dropdown), is any unclear about this?
 
 - Is this a field that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
 - _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, would you like to go ahead and select an option here?
 	- _If YES to updating:_ Ok, great. Again this is totally optional, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
-		- _If YES:_ Ok great, you can go ahead and just click on **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
+		- _If YES:_ Ok great, you can go ahead and just select **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 			- Is there anything about this process that is unclear? 
 		- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
-- _If NO - skip for screen reader users:_ Ok so to confirm, is it correct that you would NOT like to update this today? Ok, no problem. So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
+- _If NO:_ Ok so to confirm, is it correct that you would NOT like to update this today? Ok, no problem. So because we're not going to select a response, let's just review the field - is there anything unclear about how you'd update this?
 
 
 - Do you have any questions about not being able to completely remove/clear this answer? 
@@ -141,11 +141,11 @@ If they are LOA3:
 
 - Did you notice those before?
 
-- Please go ahead and click on the first one and review the content.
+- Please go ahead and select the first one and review the content.
 
 - Is there anything unclear about the content? 
 
-- Ok, you can go ahead and close that and click on the second phrase. Go ahead and review this information.
+- Ok, you can go ahead and close that and select the second phrase. Go ahead and review this information.
 
 - And the same for this one, is there anything unclear about this content? 
 
@@ -163,20 +163,20 @@ If they are LOA3:
 
 Ok, now that we've finished all the tasks and have a little extra time, I have one more thing I like you to try.
 
-- We're going to change your Preferred name information again, click update, and then refresh the entire page right away using the refresh button in your browser window. And don't worry, we will change your information back again once we've tried this.
+- We're going to change your Preferred name information again, select update, and then refresh the entire page right away using the refresh button in your browser window. And don't worry, we will change your information back again once we've tried this.
 
-- So first, could you please click on Preferred name and enter something slightly different? For example, you could enter [VERSION OF NAME]. 
+- So first, could you please select Preferred name and enter something slightly different? For example, you could enter [VERSION OF NAME]. 
 
-- Great, now go ahead and press update, and then right away click on the refresh button at the top of your browser window to refresh the entire page.
+- Great, now go ahead and press update, and then right away select the refresh button at the top of your browser window to refresh the entire page.
 	- _If needed:_ This is usually a circular arrow in the top left part of your browser window next to the URL. 
 
 - How did this or didn't this match up with what you were expecting to happen?
 
-- Was there anything confusing about this?
+- Was there anything unclear or confusing about this?
 
 - Ok, now let's go back and change your information back to [PREVIOUS ENTRY]
 
-- Great. And just to confirm - does the information you have entered now look correct?
+- Great. And just to confirm - does the information you have entered now seem correct?
 
 
 ## Post-Task Interview - 2-3 minutes
