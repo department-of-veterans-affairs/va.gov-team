@@ -114,7 +114,6 @@ The in-person format will allow for both greater inclusivity as well as visibili
 
 [Conversation Guide](https://docs.google.com/document/d/1uFctFPYn1kIxLN6fhYXgDuVvnqY55DYw03SuOqOZjTY/edit?usp=sharing)
 
-[Participant consent form](https://www.va.gov/find-forms/about-form-10-3203/)
 
 **Recruitment**
 
