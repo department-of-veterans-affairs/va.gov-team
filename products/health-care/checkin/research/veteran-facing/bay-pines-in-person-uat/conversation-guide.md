@@ -76,6 +76,6 @@ You can get started by using the check-in poster.
 - What information do you think the VA should have to be able to review and approve a claim? 
 - Would it be beneficial to be able to file a claim during the mobile check-in process? Why or why not? 
 
-## Closing - Less than 1 minute 
+## Closing - Less Than 1 Minute 
 
 Thank you for your time and helping us continue to improve the check-in experience. 
