@@ -95,8 +95,8 @@ Notetaking: Will be handled by the 10-10 team
 Team Availability | Time (ET)
 ------------------|--------------
 June 14     | 9:00am - 6pm
-June 15     | 9:00am - 2pm and 3pm-7pm
-June 16     | 9:00am - 5pm
+June 15     | 9:00am - 2pm and 3pm-5pm
+June 16     | 9:00am - 3pm
 June 17     | 9:00am - 11am and 2pm-5pm
 
 _Only use if necessary_ | Time (ET)
