@@ -17,7 +17,8 @@ This research supports the following:
 ### Veteran Journey
 This research sits within these stages of the Veteran Journey:
 
-  ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging *what is this referencing?*
+  ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging 
+  - *what is this referencing?*
 
 
 ## Research Goals	
@@ -36,7 +37,8 @@ How will this research advance your product to the next phase in the design proc
   · This research will advance our user journey documentation for veterans callers using Tier 1 and 2 call centers. *Provide potential recommendations for improvements to the support user journey as it relates to resolving VA.gov issues and blockers.*
 
 ### Research questions 
-Consider bucketing research questions under research goals. For each question, think about: *I think these questions might be a bit too broad but overall are in the right direction.*
+Consider bucketing research questions under research goals. For each question, think about: 
+- *I think these questions might be a bit too broad but overall are in the right direction.*
 
 For Veterans  
  · ~~For your primary VA needs~~ When you encounter an problem on VA.gov, what steps do you take to contact the VA about your issue ~~reach a VA offical and/or call center?~~
