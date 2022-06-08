@@ -1,9 +1,9 @@
 # Mobile V2 Appointments Index
 
 **Author(s):** Kris Pethtel
-**Last Updated:** April 13,2022
+**Last Updated:** June 7,2022
 **Status:** **Draft**
-**Approvers:** FE, BE, Product, Design
+**Approvers:** FE, BE, Product
 
 ## Overview
 
@@ -37,8 +37,17 @@ Does this also handle requests?
 
 ### Frontend: Switch to V2 Appointments Index
 
-Older versions of the mobile client will continue to work after the switch to V2 because we'll create backend data adapters to maintain the schema. However, this is not an ideal approach moving forward.
+Older versions of the mobile client will continue to work after the switch to VAOS V2 because we'll create backend data adapters to maintain the schema. However, this data modification is creating confusion and making the feature difficult to understand and to communicate about. The web back end passes the data from the upstream service to the web front end without significant modification. The mobile back end accepts the data from the upstream service, modifies it to fit a different schema, and sends it in that schema to the front end. This makes it significantly more difficult for the mobile front end team to make the app appear and behave exactly like the web front end.
+
+This ticket will require changing the front end to consume the new V2 mobile appointments endpoint and making any other changes necessary to accommodate the new schema.
+
+## Schemas
+
+### V0 Schema
+
+### V2 Schema
+
 
 ## Release Plan
 
-The mobile team will need to coordinate closely with the VAOS team to coordinate the switch to V2. The switch can be handled via a feature flag.
+The mobile team will need to coordinate closely with the VAOS team to coordinate the switch to V2. The mobile team switch can be handled via a feature flag.
