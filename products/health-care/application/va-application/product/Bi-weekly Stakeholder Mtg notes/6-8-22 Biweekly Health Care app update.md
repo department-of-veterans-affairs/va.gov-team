@@ -12,8 +12,8 @@
      - [ ] Christopher H. will produce KM document
           - Requesting HEC team provide Lauren/Patrick/Online Health Apps team the fields for the Registration path be identified for comparison to Enrollment path
           - **(6/8) Feedback from Joshua/ES:** They are handled differently, they are placed into a Registration Only enrollment status and are not enrolled into any priority group. It is more commonly done in person at a VAMC and not on a mailed in form.
-- Short Form
-     - [ ] Tarsha to check with Leadership on any concerns for Data Integrity
+- Short Form - Data sources
+     - [ ] Tarsha to check with Leadership on any concerns for Data Integrity (Data sources mentioned in previous action items below)
 
 ### Agenda Items
 - Provide update on Short form
