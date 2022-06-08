@@ -8,8 +8,6 @@ This README page serves as a "front door" to documentation and resources pertain
 
 [Product artifacts](#product-artifacts)
 
-[Baseline analytics](#baseline-analytics)
-
 [Research artifacts](#research-artifacts)
 
 [Design artifacts](#design-artifacts)
@@ -32,19 +30,19 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 ## Product artifacts
 - [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
-- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/initiative-brief.md) 
-- [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/baseline-event-data.md)
-- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/discovery.md)
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
+- [Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative/analytics)
+- [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/discovery.md)
 
 ## Baseline analytics
-- [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
-- [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit cateogry_
+- [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
+- [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit cateogry_
 
 ## Research artifacts
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research)
 
 ## Design artifacts
-- [Phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design/phased-design-plan.md)
+- [Phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/phased-design-plan.md)
 - [First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 - [Sketch file](https://www.sketch.com/s/3aa40506-4be2-46cc-876b-93f1a9f3a857/a/PGEaJDr) | March 2022
 
