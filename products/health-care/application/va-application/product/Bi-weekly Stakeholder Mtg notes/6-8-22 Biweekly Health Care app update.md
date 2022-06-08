@@ -32,6 +32,7 @@
 - In-progress Notification emails
      - Launched to 25% of the outstanding In-progress forms population
      - Started on 6/6 at 4pm 
+     - Initial Launch: 162 successful deliveries, 3 application submissions resulting from reminder emails
 - Short Form - Combat Status
      - Requesting a list of statuses that qualify for short form flow
           - Tarsha: Not how the service connection works, privacy issue. Would be part of EED? Go by rating only.
