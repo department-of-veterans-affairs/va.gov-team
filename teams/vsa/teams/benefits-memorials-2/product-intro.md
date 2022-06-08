@@ -1,42 +1,197 @@
-# Introduction to BAM2 / Debt Resolution Products
+# Debt Documentation + FAQs
+The purpose of this document is to capture necessary knowledge needed to understand  Debt related products and the overall landscape of the debt with Veterans Affairs. Typical uses include reference, onboarding and general knowledge transfer for interested parties.  It serves as a "front door" to ALL documentation and resources collected during the course of product design and development and may included links to more specific resources/references.
+**Last Updated : March 2022**
 
-**Last updated: September 30th, 2021**
+## Table of Contents
 
-## Team resources
+> **Team Resources**
+> - [Product Team Mission](#product-team-mission)
+> - [Product Team Resources](#product-team-resources)
+> 
+> **Roadmap Resources**
+> - [Product Roadmap](#product-roadmap)
+> 
+> **Product Documentation for each Product in the Portfolio which includes:**
+>        + Resources by discipline (Product, Design/Research, Engineering
+>        + Platform Collaboration Cycle Touchpoints
+>        + General Notes about project
+>        + Frequently Asked Questions about the project
+>        + Intended Improvements/Next Steps
+>
+>
+> - [Medical Device Reordering [mDot]](#Medical-Device-Reordering-[mDot]-Product-Documentation)
+> - [Debt Portal (Debt Letters MVP) ](#Debt-Portal-(Debt-Letters-MVP)-Product-Documentation)
+> - [ Financial Status Report [FSR] ](#Financial-Status-Report-[FSR]-Product-Documentation)
+> - [Medical Copays [MCP]](#Medical-Copays-[MCP]-Product-Documentation)
+> - [Combined  Debt Portal [CDP]](#Combined-Debt-Portal-[CDP]-Product-Documentation)
+> - [Combined  FSR [cFSR]](#Combined-FSR-[cFSR]-Product-Documentation)
+> - [Streamlined Waiver [SW]](#Streamlined-Waiver-[SW]-Product-Documentation)
 
-OCTO-DE PO: Matthew Self
+♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒
 
-### Team functional links:
+<br>
 
-* [Zenhub Scrum Board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-benefits-2&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
 
-### Documentation
+## Product Team Mission 
+The Debt Resolution team is focused on making VA.gov the "go-to" resource for Veterans to review all of their real-time debt information easily and reliably. Our mission is to help Veterans understand why they have debt, what the status of their debt is, and what steps they need to take to resolve their debt.
+<br>
 
-* [Debt Resolution / BAM2 Team Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
+## Product Team Resources 
+_"Resources for product team developing these products"_
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/charter.md)
+- [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+- [Zenhub Scrum Board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-benefits-2&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+- [Team GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
+- [Staging Users by Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Sprint Planning](https://salientcrgt.sharepoint.com/:w:/r/sites/VSATeam/_layouts/15/doc.aspx?sourcedoc=%7B501c1a33-c7ad-40be-9778-5e8df64b5ccd%7D&action=edit)
+- [Summary of Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/sprint-objectives.md)
+- [VA Platform Collab Cycle Information](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) 
+- [Platform Deployment Policies](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html) (incl. Code Freezes)
 
-* [VSA Product Management Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product)
-* [VSA Research Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-research-process.md)
-* [VSA Org Chart](https://docs.google.com/drawings/d/1_OmxooPQXRwUjb08DoaMoEvw1-2Gq9e_wYLunMzEsxE/edit)
 
-## Debt Resolution Tools
 
-### Debt Letters MVP / "Debt Portal" Project:
+## Product Roadmap 
 
-Authenticated VA.gov tool to view VA Education, Compensation, and Pension debts.
+- All Roadmap  information can be found in this [**roadmap folder**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/roadmap/readme.md) which  outlines:
+   - [**Roadmap Summary:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/roadmap.md) _'Near term'_ product focus areas
+  - [**Roadmap Overview (.ppt)**](tbd): Consumable presentation format of detailed spreadsheet
+  - [**Detailed Roadmap (spreadsheet)**](tbd): Detailed overview of roadmap
+<br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br> 
 
+# MEDICAL DEVICE REORDERING TOOL[mDot] Product Documentation
+_"Providing Veterans eligible for hearing aid battery and/or accessory resupply the ability to order available items through an end-to-end online ordering process."_
+
+**Product:** 
+
+- [Product Folder in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool) 
+ - [MDT Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
+ - [GitHub Epic]()
+  - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)  
+- [mDot Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#mdot-artifacts)
+- [Staging product link](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/)
+  
+ **Design/Research Info:** 
+- [UXPin Mockups Link](https://preview.uxpin.com/9fb3b46e7fc67c772e75b55c7d836e1b55afe102#/pages/127751367/simulate/sitemap?mode=i)
+- [MDT Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
+- [Ideation Miro Board](https://miro.com/app/board/o9J_kv3bibg=/)
+
+ 
+ **Engineering:** 
+ - [TBD]()
+
+**Relevant Dates:** 
+ - Product Launch Date:XXX
+ 
+#### General Notes about this project:
+
+- The Denver Logistics Center (DLC) is a warehouse that distributes hearing aid batteries, hearing aid accessories, and prosthetic socks to qualifying Veterans
+- An online ordering tool already existed, but only allowed Veterans to order batteries
+- A significant amount of Veterans need to order accessories as well, so the online ordering tool had a low usage rate because they'd need to call or mail an order card to order the rest of their items anyway 
+- The project was originally slated to include all of those items, but we quickly found out that prosthetic socks only account for ~1% of all orders
+- As a result, we decided to focus on bringing hearing aid accessories into the online ordering experience to increase engagement 
+- Veterans can order items once every 6 months, so it's entirely possible for items to be on different ordering cadences 
+- We only display items that have been ordered within the past 2 years 
+- We originally had hearing aid batteries + accessories items on separate pages with a gatekeeping question asking whether or not they needed to order those items, but post-usability we put all items on one page
+- Due to the form system's constraints, we're unable to make item selection required; Veterans can theoretically submit an empty order but we show an alert if this happens
+- After this tool launched our team pivoted to working on the Debt Portal and have since expanded to focus on the wider VA Debt experience
+
+
+**FAQs about the Medical Device Reordering Tool** 
+ 
+ ***Q: What....?***
+  A: Here is the answer
+
+***Q: What....?***
+  A: Here is the answer
+		    
+#### Intended improvements:
+
+- None at this time
+- The DLC reached out for us to add prosthetic socks and CPAPs to the online ordering ecosystem, but that work currently isn't captured on the roadmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+ 
+ 
+
+ 
+ 
+# DEBT PORTAL  (VBA Debt Letters MVP) Product Documentation
+*"Authenticated VA.gov tool enabling Veterans to view VA Education, Compensation, and Pension debts."*
+
+ **Product:** 
+-  [Debt Portal Product Folder ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
+-  [Debt Letters Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/new%20product_outline.md)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Debt Portal DOMO Dashboard](https://va-gov.domo.com/page/74130670?userId=1724393873)
+- [Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#debt-portal) 
+- [Staging product link](https://staging.va.gov/manage-va-debt/)
+
+ 
+
+
+ **Design/Research:** 
 * [UXPin Mockups Link](https://preview.uxpin.com/067dc9cad4c5966bc8a5f3a400cf10206e6a51d4#/pages/132263526/simulate/no-panels?mode=i)
-* [Staging product link](https://staging.va.gov/manage-va-debt/)
-* [Debt Letters Product Outline and Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
 * [Debt Letters Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/research)
+ 
+ **Engineering:** 
+ - [TBD]()
+ 
+ **Relevant Dates:** 
+ - Product Launch Date: XXX
 
-#### Notes about this project:
+#### General Notes about this project:
 
 * Debt Portal is a product that responds to the Veteran Fair Debt Notice Act; it shows a subsection of the most common debts and their letters.
 * Debt Portal shows the status of a debt through the 'diary code' being sent to us (e.g. "awaiting payment," "your compromise offer was accepted," "on hold," etc.) and tells a Veteran what their next steps are.
 * The stakeholder group for this is VBA's Debt Management Center (Jill's group)
 * The types of debts shown in the product currently are the ones whose PDFs that are available through VBMS, but we are able to pull data for those other debts.
 
-#### Intended Improvements:
+
+### **FAQs: about the VBA Debt Portal** 
+ ***Q: What type of Letters are Veterans able to view and download on the debt portal?***
+		    A: Here is a breakdown of the letters that we are sharing:  
+100 - Inactive debtor initial notification  
+101 - Active debtor debt notification  
+117 - Inactive debtor second notification  
+123 - Inactive debtor final notification  
+130 - debt increase letter
+
+ ***Q: What....?***
+  A: Here is the answer
+
+***Q: What....?***
+  A: Here is the answer
+		    
+#### Intended Improvements/Next Steps:
 
 * Debt history table to replace 'debt letter history' table
 * Incorporate payment data / Update 'Next step' cards with new design
@@ -44,35 +199,65 @@ Authenticated VA.gov tool to view VA Education, Compensation, and Pension debts.
 * Allow for simpler payment pathway by connecting to pay.va.gov
 * (Long-term goal) combine portal with medical copayments portal so all money owed is visible
 * (Long-term goal) provide sitewide notifications to alert authenticated Veterans of a debt 
+ </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+ </br>
+</br>
+</br>
 
-### Financial Status Report (FSR):
 
-Authenticated VA.gov form to apply for financial help for Education, Comp, and Pension debts.
+# Financial Status Report [FSR] Product Documentation
+_"Authenticated VA.gov form to apply for financial help for Education, Comp, and Pension debts."_
 
-* [UXPin Mockups Link](https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701647/simulate/sitemap?mode=i)
-* [Staging product link](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+ **Product:** 
 
-* [FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
-* [FSR SME Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/oct-2020)
-* [FSR Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021)
+- [Financial Status Report (FSR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)
+-  [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md) 
+- [GitHub Epic #14439](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/14439)
+- [FRS Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#financial-status-report-fsr-artifacts)
+- [Staging product link](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+- [FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
 
-#### Notes about this project:
+ **Design/Research:** 
+ - [UXPin Mockups Link](https://preview.uxpin.com/803dc24213cf723bfce6c5e3eaef5a2c3f3e344b#/pages/133701647/simulate/sitemap?mode=i)
+- [FSR SME Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/oct-2020)
+- [FSR Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021)
+ 
+ **Engineering:** 
+ - [TBD]()
 
-* This is a follow-on feature based on the Debt Portal work 
-* Veterans can currently use this form to request a payment plan, waiver, or compromise offer for their VBA debts 
-* The form's purpose is to capture a monthly snapshot of the Veteran's financial situation
-* Through research we learned that Veterans often incorrectly fill out the paper form
+ **Relevant Dates:** 
+ - Product Launch Date: XXX
 
+#### General Notes about this project:
+
+- This is a follow-on feature based on the Debt Portal work 
+- Veterans can currently use this form to request a payment plan, waiver, or compromise offer for their VBA debts 
+- The form's purpose is to capture a monthly snapshot of the Veteran's financial situation
+- Through research we learned that Veterans often incorrectly fill out the paper form
    * They duplicate their expenses in multiple sections 
    * They miscalculate section totals which impact the total of leftover income that DMC reviews to assess whether or not to approve a request
-
-* It's in the Veteran's best interest to provide all their expenses so the DMC has an accurate view of their finances; we sought to support that through the new list loop component 
-
+-  It's in the Veteran's best interest to provide all their expenses so the DMC has an accurate view of their finances; we sought to support that through the new list loop component 
    * Veterans struggled to use the component during usability testing; they would type letters to see what appeared in the dropdown, didn't realize the input field was freeform, and would continue to the next page without saving 
+- Veterans are anxious about questions in the form related to household assets (homes, cars, additional assets) 
 
-* Veterans are anxious about questions in the form related to household assets (homes, cars, additional assets) 
+#### **FAQs: about Financial Status Report** 
 
-#### Intended Improvements:
+***Q: Where can I see the hardcopy Form 5655?***
+  A: [VA Form 5655](https://www.va.gov/vaforms/va/pdf/va5655.pdf) which is accessible on the [portal here](https://staging.va.gov/find-forms/about-form-5655/). 
+  
+
+***Q: What....?***
+  A: Here is the answer
+		    
+
+#### Intended Improvements/Next Steps:
 
 * Download completed FSR as PDF
 * Combined FSR (bringing in copay debts)
@@ -81,68 +266,212 @@ Authenticated VA.gov form to apply for financial help for Education, Comp, and P
 * Resubmit form / prefill functionality
 * Credit card improvement to installment contracts and other debts section
 * (Long-term goal) exploring ways to reduce forcing Veterans within certain financial thresholds from filling out the entire form (i.e. unemployed for the past 2 years, cars under a certain value, etc.) 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+ </br>
+</br>
+</br>
+ 
+ 
+# Medical Copays [MCP] Product Documentation
+*"Incorporating medical copayment bills into the VA debt experience."*
 
-### Medical Copayments Enhancement (MCP):
+ **Product:** 
+- [MCP Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays)  
+- [MCP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)      
+- [GitHub Epic #31352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31352)
+- [MCP Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#medical-copaysmcp-artifacts)
+- [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Staging product link](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
+- [MCP User Flow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture-doc.md)
+- [MCP Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/release_plan.md)  
+- [MCP Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Docs/MCP-Use-Cases.md)
 
-Investigating incorporating medical copayment bills into the VA debt experience (into the existing Debt Portal tool, an evolution of it, or a new tool altogether).
+ **Design/Research:** 
+ -  [UXPin Mockups Link](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages//simulate/sitemap?mode=i)
+- [MCP Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research)
+- [Ideation Miro Board](https://miro.com/app/board/o9J_lFg6K9s=/)
+- [MCP Diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture.pdf)
+ 
+ **Engineering:** 
+ - [TBD]()
 
-* [UXPin Mockups Link](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages//simulate/sitemap?mode=i)
-* [Staging product link](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
-* [MCP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)
-* [MCP Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research)
-* [Ideation Miro Board](https://miro.com/app/board/o9J_lFg6K9s=/)
+**Collaboration Cycle Touchpoints**
+- [Kickoff #20449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20449)      
+- [Design Intent #24438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24438)       
+- [Midpoint Review #27333](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27333) 
+- [IA Request #25663](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25663)        
+- [Contact Center Review #32858](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32858)                
+- [Staging Review #32081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32081)       
+- [Privacy and Security Review #337](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/337)                
+
+ **Relevant Dates:** 
+ - Product Launch Date: XXX
 
 #### Notes about this project:
 
 * Shows active balances for facilities and allows for downloading statements from the past six months.
 * NOT real-time; our balances only update when new statements are generated monthly
-* Built out separately for a few reasons, primarily IA/Auth Exp concerns, but would ideally be combined so that all debt is foundtogether.
+* Built out separately for a few reasons, primarily IA/Auth Exp concerns, but would ideally be combined so that all debt is found together.
 * Infrastructure / data support is much weaker for copays than benefit debts
 
-#### Intended Improvements:
+#### **FAQs about Medical Copays** 
 
-* Charges / payments table (trimmed from MVP)
-* Showing facilities with $0 balances and their respective bills from the past 6 months
-* Extending data past 6 months
-* Improving to (more) real-time data
-* Payment agreement data / FSR status
-* Status (currently unsupported with their systems)
-* (Long-term goal) combine with debt portal so all money owed is visible
+***Q: What....?***
+  A: Here is the answer
+		    
 
-## Additional tools
+#### Intended Improvements/Next Steps:
+- Charges / payments table (trimmed from MVP)
+- Showing facilities with $0 balances and their respective bills from the past 6 months
+- Extending data past 6 months
+- Improving to (more) real-time data
+- Payment agreement data / FSR status
+- Status (currently unsupported with their systems)
+- (Long-term goal) combine with debt portal so all money owed is visible
 
-### Medical Device Reordering:
+ 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-Providing Veterans eligible for hearing aid battery and/or accessory resupply the ability to order available items through an end-to-end online ordering process.
+# Combined  Debt Portal [CDP] Product Documentation
+ **Product:** 
+- [CDP Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)  
+- [CDP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md) 
+- [GitHub Epic #36135](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/36131) 
+- [Combined Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#combined-va-debt-portal-artifacts)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+ - [CDP Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/release_plan.md) 
+ - [CDP Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
+ - [CDP Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_guide.md)
+ 
+ **Design/Research:** 
+- [Wireflow Exploration(UXPin)](https://preview.uxpin.com/32e8ac818076b3dc502846e0b13356fa40779575#/pages/147589342/simulate/sitemap?mode=i)
+- [User Flow (Mural)](https://app.mural.co/t/vsa8243/m/vsa8243/1645453970389/5712442eb61e558df96599ac35c346436aafcc9c?sender=riley5075)
+- [Design Prototype(UXPin)](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages//simulate/sitemap?mode=i)
+- [GH Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/design/user-flows)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-plan.md)
+- [Conversation Guide ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md)
+ 
+ **Engineering:** 
+ - [TBD]()
 
-* [UXPin Mockups Link](https://preview.uxpin.com/9fb3b46e7fc67c772e75b55c7d836e1b55afe102#/pages/127751367/simulate/sitemap?mode=i)
-* [Staging product link](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/)
-* [MDT Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
-* [MDT Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
-* [Ideation Miro Board](https://miro.com/app/board/o9J_kv3bibg=/)
+ **Collaboration Cycle Touchpoints:** 
+- [Kickoff #37730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37730) 
+- [Design Intent #37887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37887)  
+-  [Midpoint Review #40519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40519)      
+- Content & IA Request [#36844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36844), &  [#39294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39294)      
+- [CDP Analytics Dashboard Request #42360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42360)  
 
-#### Notes about this product:
+ **Relevant Dates:** 
+ - Product Launch Date: XXX
 
-* The Denver Logistics Center (DLC) is a warehouse that distributes hearing aid batteries, hearing aid accessories, and prosthetic socks to qualifying Veterans
-* An online ordering tool already existed, but only allowed Veterans to order batteries
+#### **FAQs about Combined Debt Portal** 
 
-   * A significant amount of Veterans need to order accessories as well, so the online ordering tool had a low usage rate because they'd need to call or mail an order card to order the rest of their items anyway 
+***Q: What....?***
+  A: Here is the answer
+  
+#### Intended Improvements/Next Steps:
+- TBD
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-* The project was originally slated to include all of those items, but we quickly found out that prosthetic socks only account for ~1% of all orders
+# Combined FSR [cFSR] Product Documentation
+ **Product:** 
+- [Combined FSR Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr)  
+- [Combined FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/product_outline.md)
+- [GitHub Epic#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+ - [cFSR Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/release_plan.md) 
+ - [cFSR Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/use_cases.md)
+ - [cFSR Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/product_guide.md)
 
-   * As a result, we decided to focus on bringing hearing aid accessories into the online ordering experience to increase engagement 
 
-* Veterans can order items once every 6 months, so it's entirely possible for items to be on different ordering cadences 
 
-* We only display items that have been ordered within the past 2 years 
+ **Design/Research:** 
+ - [Documentation]()
+ - [Documentation]()
+ 
+ **Engineering:** 
+ - [Documentation]()
+ - [Documentation]() 
 
-* We originally had hearing aid batteries + accessories items on separate pages with a gatekeeping question asking whether or not they needed to order those items, but post-usability we put all items on one page
+ **Collaboration Cycle Touchpoints:** 
+ - [Kickoff #40813](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/40813)
+ - [Design Intent #42333](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/42333)
 
-   * Due to the form system's constraints, we're unable to make item selection required; Veterans can theoretically submit an empty order but we show an alert if this happens
+ **Relevant Dates:** 
+ - Product Launch Date: XXX
 
-* After this tool launched our team pivoted to working on the Debt Portal and have since expanded to focus on the wider VA Debt experience
+#### **FAQs about Combined FSR** 
 
-#### Intended improvements:
+***Q: What....?***
+  A: Here is the answer
+  
+#### Intended Improvements/Next Steps:
+- TBD
+- </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+ 
+# Streamlined Waiver [SW] Product Documentation
+ (`COMING SOON - some links are just templates at this time`) 
+  
+**Product:** 
+- [GitHub Epic #39330](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/39330)
+- [SW Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/product_outline.md)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+ - [SW Release Plan    ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/release_plan.md)    
+ - [SW Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/use_cases.md)
+ - [SW Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/product_guide.md)
+ 
+ **Design/Research:** 
+ - [TBD]()
 
-* None at this time
-* The DLC reached out for us to add prosthetic socks and CPAPs to the online ordering ecosystem, but that work currently isn't captured on the roadmap
+ 
+ **Engineering:** 
+ - [TBD]()
+
+ **Collaboration Cycle Touchpoints:** 
+ - TBD
+
+ **Relevant Dates:** 
+ - Product Launch Date: XXX
+
+#### **FAQs about Streamlined Waiver Process** 
+
+***Q: What prompted this project***
+  A: During the stat of the union address the President announced his plans to support Veterans experiencing financial hardship which can be read in this [White House Briefing Room Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/)
+  
+#### Intended Improvements/Next Steps:
+- TBD
+- </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
