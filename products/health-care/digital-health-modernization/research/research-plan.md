@@ -22,8 +22,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals	
 The goals of this study are to:
-- determine if Veterans understand the concept of MHV on VA.gov as their "health apartment" 
-- identify major usability or content issues with the current concept of MHV on VA.gov
+- identify major usability or content issues with the current concept of secure messaging in MHV on VA.gov
 
 
 ### Outcome
@@ -31,7 +30,11 @@ Results of this study will help us determine if our proof of concept is headed i
 
 ### Research questions
 This research will help us answer:
-- Will 
+- Do participants notice that the left nav are links and folders?
+- Do participants like the option of a more compressed inbox so more messages fit on a page?
+- Do participants see the action links (compose and search?
+- Do participants realize that this messaging on VA.gov is the same as MHV messaging?
+
 
 ### Hypothesis
 - Veterans 
