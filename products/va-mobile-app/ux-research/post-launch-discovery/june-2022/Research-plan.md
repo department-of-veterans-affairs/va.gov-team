@@ -98,11 +98,11 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 5. How do Veterans describe their digital trust level with the app?
 
 
-### **Hypothesis**
+## **Hypothesis**
 
 Veterans who currently use the VA Health and Benefits mobile app use it for quick, transactional tasks, but there are other things Veterans want to be able to use the app to do that they can’t do right now, such as finding out about benefits they might be missing out on.
 
-**Methodology**
+## **Methodology**
 
 This is a moderated, in-person study.
 
@@ -110,15 +110,12 @@ Sessions will take place in the Greater Boston area at the [West Roxbury VAMC](h
 
 The in-person format will allow for both greater inclusivity as well as visibility into touch interactions as Veterans interact in the app. This location was chosen as it is accessible by public transportation, has free parking,  and will provide a sense familiarity for Veterans who visit VAMCs.
 
-**Research Materials**
+## **Research Materials**
 
 [Conversation Guide](https://docs.google.com/document/d/1uFctFPYn1kIxLN6fhYXgDuVvnqY55DYw03SuOqOZjTY/edit?usp=sharing)
 
 
-**Recruitment**
-
-
-### Recruitment approach
+## Recruitment approach
 
 We will recruit Veteran participants using a lean maximum variation strategy. We'll leverage Perigean's recruiting services to identify and schedule participants.
 
@@ -128,7 +125,7 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 Recruit 12 Veterans for a minimum of 8 successfully completed sessions.
 
 
-## Primary Criteria
+### Primary Criteria
 
 Veterans who are active monthly users of the VA Health and Benefits mobile app. (Active monthly users is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.)
 
@@ -137,7 +134,7 @@ Veterans who live in the Greater Boston area who are able to travel by car or pu
 Sessions will take place at the [West Roxbury VAMC](https://www.va.gov/boston-health-care/locations/west-roxbury-va-medical-center/) in the Canteen conference room. The West Roxbury VAMC has ample free, on campus parking.
 
 
-## Secondary Criteria
+### Secondary Criteria
 
 
 Inclusion
@@ -153,24 +150,24 @@ Inclusion
 * 2 participants who identify as women
 
 
-# Timeline
+## Timeline
 
 We are looking to hold these sessions June 23, 24 and June 28 and 29th from 8am - 6pm EST. 
 
 No more than 4 sessions should be scheduled in one day, with 30 minutes minimum in-between each session.
 
 
-# Pilot 
+## Pilot 
 
 Pilot TBD
 
 
-# Sessions
+## Sessions
 
 Sessions will be 75 minutes in length. We will look to end by 60 minutes but will add the extra 15 minutes in case of traffic delays.
 
 
-# Team Roles
+## Team Roles
 
 
 
@@ -185,4 +182,4 @@ Sessions will be 75 minutes in length. We will look to end by 60 minutes but wil
     * Alex Taylor, Principal Designer, VA Mobile App, alex.taylor@adhocteam.us
     * Misty Milliron-Grant, Senior UX Writer, VA Mobile App, misty.milliron-grant@adhocteam.us
 
-# END
+### END
