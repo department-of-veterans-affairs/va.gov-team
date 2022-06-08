@@ -388,8 +388,34 @@ On hold while Tom is out
 
 **FE**
 
-- Launch to 50% (if didn't happen last sprint)
-- Launch to 100%
+- Launch to 100% (if it didn't happen last sprint)
+
+### Notification preferences
+
+Default opt-in discovery
+
+**Design**
+
+- Determine if UI changes are needed for the default opt-in indicator
+
+**FE & BE**
+
+- Default opt-in indicator discovery
+  - What changes need to happen?
+  - What information do we receive? 
+
+### Bad address indicator
+
+**PM**
+
+- Hold midpoint review
+
+**Design**
+
+After midpoint review...
+
+- Research recruiting
+- Research (OK if sessions flow into the next sprint)
 
 ## Sprint 77 (6/29 - 7/12)
 
