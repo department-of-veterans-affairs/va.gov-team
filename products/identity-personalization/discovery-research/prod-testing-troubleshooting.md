@@ -1,7 +1,7 @@
 # Troubleshooting for VA.gov Research Sessions in Prod
 
 **Problem: User cannot log in**
-* Check that the email they’re trying to use matches our roster if using ID.me.
+* Check that the email they’re trying to use matches the Perigean tracker if using ID.me.
 * Ask them to try other login options if they have any. ID.me is preferred if they have it since we can verify the email they're logging in with.
 * For future sessions, ask Perigean moderator to call participants prior to the session to verify that they are able to log in to the site.
 
