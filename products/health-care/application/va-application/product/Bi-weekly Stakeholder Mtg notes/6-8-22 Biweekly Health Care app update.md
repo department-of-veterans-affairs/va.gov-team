@@ -34,8 +34,7 @@
      - Started on 6/6 at 4pm 
      - Initial Launch: 162 successful deliveries, 3 application submissions resulting from reminder emails
 - Short Form - Combat Status
-     - Requesting a list of statuses that qualify for short form flow
-          - Tarsha: Not how the service connection works, privacy issue. Would be part of EED? Go by rating only.
-          - Dene': qualifying factors (having been in camp lejuen, combat awards, etc)
+     - Online Health Apps team requesting a list of statuses that qualify for short form flow
+          - Looking for qualifying factors, such as having been in camp lejuen, combat awards, etc
           - **Table this for now, HEC team will discuss internally with SMEs**
 
