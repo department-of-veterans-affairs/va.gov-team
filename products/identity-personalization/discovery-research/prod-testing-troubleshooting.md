@@ -1,7 +1,7 @@
 # Troubleshooting for VA.gov Research Sessions in Prod
 
 **Problem: User cannot log in**
-* A good way to avoid this prior to the session is to ask the Perigean moderator to call participants prior to the session to verify that they are able to log in to the site. They are willing to do this if you request it.
+* A good way to avoid this is to ask the Perigean moderator to call participants prior to the session to verify that they are able to log in to the site. They are willing to do this if you request it.
 * Check that the email they’re trying to use matches the Perigean tracker if using ID.me.
 * Ask them to try other login options if they have any. ID.me is preferred if they have it since we can verify the email they're logging in with.
 
@@ -14,6 +14,6 @@
 * Ask the participant to log out and log back in.
 
 **Problem: User cannot hear you/you can't hear them on Zoom**
-* A good way to avoid this prior to the session is to ask the Perigean moderator to call participants prior to the session to verify that they are able to use audio and video on Zoom. They are willing to do this if requested.
+* A good way to avoid this is to ask the Perigean moderator to call participants prior to the session to verify that they are able to use audio and video on Zoom. They are willing to do this if requested.
 * Direct the participant to check the audio source from the microphone icon on the far left bottom of the screen using the up arrow next to the icon. If they can hear you, you can say this out loud. If they can't hear you, try putting instructions in the chat.
 * If all else fails, ask the user to call in on their phone. Once they call in, ask them to either mute their computer or change the audio source to phone to avoid echo.
