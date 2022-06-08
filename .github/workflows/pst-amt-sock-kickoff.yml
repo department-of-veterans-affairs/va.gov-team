@@ -4,7 +4,6 @@ name: SOCKS Issue creation kickoff Workflow
 # For support see #github-management or #github_information on DSVA
 
 on:
-  push:
   issues:
     types: [opened]
 env:
