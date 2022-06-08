@@ -1,3 +1,12 @@
+----
+
+# This documentation is deprecated
+### Zoom is the current solution for VA, please see [Platform documentation on using Zoom for research](https://depo-platform-documentation.scrollhelp.site/research-design/using-zoom-for-research)
+
+### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # How To Use GoToMeeting
 
 `GoToMeeting is for user research sessions **only** and must be left available for user research sessions. GoToMeeting accounts and sessions **must** be reserved in advance by coordinating with our recruiting contract, Perigean. These are not accounts that you can just hop into.` 
