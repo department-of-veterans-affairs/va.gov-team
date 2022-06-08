@@ -46,21 +46,19 @@ Health Products
 
 ## How we work
 
-<details><summary>Workflow and Cadence</summary>
+<details><summary>Team Meetings Cadence</summary>
 <p>
    
 #### Stand-up
 Check in on people and product progress
 
-- Every day @ 11am Eastern
-- 30 min
-- 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
+- Every Monday, Thursday and Friday @ 11:30am ET/8:30am PT
+- 15-30 min block
 - We use the daily Slack thread to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
-
-- 1st Monday of every sprint week @ 3pm ET
+- Last Tuesday of every sprint week @ 3pm ET
 - 1 hour
 - We'll use the sprint field to indicate we have committed to what's in each sprint
 
@@ -68,65 +66,56 @@ Outline work to be done this sprint in order to accomplish the team's goals
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 11:30ET
+- 1st Wednesday of every sprint @ 12pm ET/9am PT
 - 30 min
 
 #### Grooming
 Create, review, estimate, and prioritize backlog items.
 
-- 2nd Wednesday of every sprint, 10:00am
+- 2nd Wednesday of every sprint, 3pm ET/12pm PT
 - 1 hour
 
 </p>
 </details>
 
 #### Issue Etiquette
-Anyone on the team can create a user story. All are responsible for keeping them up to date.
+- Anyone on the team can create a(n) issue/ticket/story. 
+- All teammates are responsible for keeping them up to date.
+- Templates are available within the new issue/ticket/story during creation - Pick one you like!
 
-- We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
-    - Clear acceptance criteria
-    - Definition of done  
-    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
-    - Been broken up into discreet tasks/Github tickets that are attatched to the epic
-    - All components/steps have been accounted for in the epic
-    - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
+**Labels to use**
+- All tickets should include:
+     - 1010-team
+     - Product: Either 1010-ez or 1010-cg
+- EZ initiative labels
+     - 1010-short-form
+     - 10-10ez notifications
+     - household-info-redesign
+     - American Indian
+     - sigi
+     - facilities-1010
+- CG initiative labels
+     - legal-rep
+     - MuleSoft
+     - 1010 primary/secondary
+     - facilities-1010
 
-- Naming convention for tickets/stories/tasks - Thoughts?
-    - [area of work] Epic/Initiative: Brief title of work to be done
-    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
+**Epics** should include:
+   - Clear acceptance criteria
+   - Definition of done  
+   - A user story that reflects the benefit to a Veteran, Caregiver, or other user
+   - Been broken up into discreet tasks/Github tickets that are attatched to the epic
+   - All components/steps have been accounted for in the epic
+   - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
-- For a task to go into the **"Icebox"** column, it must have the following:
-   - Title that explains the goal
-   - Labels: _vsa-10-10_ and what category it falls into (backend, front-end, research, design, product)
-
-- For a task to go into the **"Backlog"** column, it must have the following:
+**Stories/Tickets** should include:
    - Title that explains the goal in plain language
-   - Linked to a user story/epic
-   - Includes (as needed) background, goal and acceptance criteria   
-
-- For a task to go into the **"Ready"** column, it must have the following:
-   - Be groomed by the team
-   - Estimate
-   - Sense of priority (relative to other tickets)
+   - Linked to another ticket or epic
+   - Includes:
+        - Description (what happened & why we need this ticket), 
+        - General tasks to perform
+        - Acceptance criteria (expected result)
    
-- During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
-- As they are worked, tickets get moved into **"In Progress"**
-
-- For a task to be in **"Blocked"** 
-   - An external dependency prevents the ticket from being completed
-   
-- For a task to be in **"Validate"** 
-   - All work related to the ticket is implemented
-   - Acceptance criteria have been met
-   - Work is accessible in a review instance and ready for internal team members to review
-
-- For a task to be **"Done"** 
-   - Internal validation has occured
-   - Merged to main/master
-   - Each ticket's last comment before closing should reflect when validation has occurred and by whom
-   - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
-
-- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
