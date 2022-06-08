@@ -5,11 +5,12 @@
 - Mute Slack notifications
 
 ## Intro - 2 minutes
-Thanks for joining us today! My name is Christina, and I also have a note taker and an observer with me. We're working on a new section of the Profile on the VA.gov website that helps Veterans update their personal information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
+Thanks for joining us today! My name is Christina, and I also have a note taker and another member of the website team with me. We're working on a new section of the Profile on the VA.gov website that helps Veterans update their personal information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
 
 Before we start, a few things I want to mention:
 
 - There are a couple additional members from the website team who would like to observe the session and hear your feedback live. Are you comfortable with them joining the session? No pressure either way.
+	- _Let other observers into room and allow a short pause to say hello._ Ok, looks like everyone is here. For those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
