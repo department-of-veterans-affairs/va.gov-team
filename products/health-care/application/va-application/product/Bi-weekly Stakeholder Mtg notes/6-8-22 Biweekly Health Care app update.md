@@ -23,6 +23,11 @@
 
 
 ### Online Health App Team - Agenda Items
+- Provide update on Short form
+     - Starting Usability tests on Friday
+- In-progress Notification emails
+     - Launched to 25% of the outstanding Inprogress forms population
+     - Started on 6/6 at 4pm 
 - Short Form - Combat Status
      - Requesting a list of statuses that qualify for short form flow
 
