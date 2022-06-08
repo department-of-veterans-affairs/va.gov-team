@@ -1,0 +1,32 @@
+name: SOCKS Issue creation kickoff Workflow
+# Assigns new issues to project based on label
+# See https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245
+# For support see #github-management or #github_information on DSVA
+
+on:
+  issues:
+    types: [opened]
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  start_workflow:
+    runs-on: ubuntu-latest
+    name: Start workflow in devops repo
+    if: |
+      github.event.action == 'opened' &&
+      contains(github.event.issue.title, "SOCKS access for")
+    steps:
+    - name: Run workflow
+      uses: actions/github-script@v5
+      with:
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            'department-of-veterans-affairs',
+            'devops',
+            'workflows/pst-amt-roster-check.yml',
+            'ksoskin/automate_roster_check',
+            inputs: {
+              ISSUE_ID: ${{ github.event.issue.id }}
+            },
+          });
