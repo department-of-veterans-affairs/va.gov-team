@@ -1,6 +1,6 @@
 Translations Received from the State Department on 6/8/2022:
 
-- [LS-2022-0117400-SPA-FINAL_check-in-translations-round-2.json]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/check-in-translations-round-2.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/LS-2022-0117400-SPA-FINAL_check-in-translations-round-2.json))
+- [LS-2022-0117400-SPA-FINAL_check-in-translations-round-2.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/LS-2022-0117400-SPA-FINAL_check-in-translations-round-2.json))
 
 Translations Received from the State Department on 5/4/2022:
 
