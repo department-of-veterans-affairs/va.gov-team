@@ -2,7 +2,7 @@
 
 
 ## Background
-This study is being conducted by the VSP Contact Center team and for the purpose of establishing a verified user journey for Veteran callers using the Contact Center services. [This research will be used to inform this documented user journey map.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40967).
+This study is being conducted by the VSP Contact Center team and for the purpose of establishing a verified user journey for ~~Veteran~~ VA.gov users who call to use Contact Center services. [This research will be used to inform this documented user journey map.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40967).
 
 ### OCTO Objectives 
 
@@ -11,21 +11,21 @@ This research supports the following:
 - Veterans and their families can find a single, authoritative source of information.
 - Logged-in users have a personalized experience, with relevant and time-saving features
 - Veterans and their families trust the security accuracy and relevancy of VA.gov
-- Platform users can build and deploy high-quality products for Veteran
+~~- Platform users can build and deploy high-quality products for Veteran~~
 
 
 ### Veteran Journey
 This research sits within these stages of the Veteran Journey:
 
-  ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging 
+  ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging *what is this referencing?*
 
 
 ## Research Goals	
 We are trying to learn the following from this research:
  
-· Understand all pain points of Veterans that use Tier 1 Call Center systems for their needs
+· Understand the ~~all~~ pain points of ~~Veterans~~ VA.gov users that use Tier 1 Call Center systems for resolving VA.gov issues. ~~their needs~~
 
-· Discover insights and task blockers for Veterans that have their service calls routed from Tier 1 to Tier 2 
+· Discover insights and task blockers for ~~Veterans~~ VA.gov users that have their ~~service calls~~ issues routed from Tier 1 to Tier 2 
 
 · Discover insights regarding Tier 1 service teams using VA tools Salesforce, Microsoft Dynamics and Ask VA (AVA) to interface with Veterans and/or their beneficaries. 
 
@@ -33,13 +33,13 @@ We are trying to learn the following from this research:
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-  · This research will advance our user journey documentation for veterans callers using Tier 1 and 2 call centers. 
+  · This research will advance our user journey documentation for veterans callers using Tier 1 and 2 call centers. *Provide potential recommendations for improvements to the support user journey as it relates to resolving VA.gov issues and blockers.*
 
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
+### Research questions 
+Consider bucketing research questions under research goals. For each question, think about: *I think these questions might be a bit too broad but overall are in the right direction.*
 
 For Veterans  
- · For your primary VA needs, what steps do you take to reach a VA offical and/or call center?
+ · ~~For your primary VA needs~~ When you encounter an problem on VA.gov, what steps do you take to contact the VA about your issue ~~reach a VA offical and/or call center?~~
  
  · What have been blockers/ difficulties in getting services through your VA call center? 
  
