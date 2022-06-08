@@ -1,0 +1,54 @@
+- High Level Roadmap
+    - Team has historically self-organized
+        - Usually decided what to work on next
+        - Team usually short a front- and back-end developer
+        - “Go forth and self-organize”
+- Current work
+    - EZ
+        - Short Form is in Staging for Usability testing
+            - Currently have sessions scheduled
+        - Notifications currently launched to 25% population
+            - Reviewing how best to handle expanding to a larger audience
+        - Household Section redesign
+            - Currently working on remaking this section
+                - Based on qualitative and quantitative metrics
+            - One of the biggest points of application abandonment
+- On Hold
+    - EZ
+        - Medicare Claim Number
+            - Design completed, waiting on stakeholder feedback
+        - SIGI
+            - On hold due to enrollment system
+- Up Next
+    - EZ
+        - American Indian
+            - Aiming for some time in August
+            - Work is mostly complete, just need validation / confirmation
+            - No big list of Tribes and Affiliations
+        - Short Form Combat Status
+            - Working on completing the initial Short Form first
+        - Lacking list of states that should receive the short form
+            - Still waiting on feedback from VA leadership
+- Future
+    - EZ
+        - Confirmation Notifications coming from VA Notify
+        - Preferred contact method
+            - VA Profile has settings for preferred notification methods
+            - Work with VA Notify, etc, so that Veterans can select their preferred method and we communicate with them that way
+            - May go into the form itself
+                - Current form only asks for email address and phone number
+                - No supporting context to help explain why the information is necesary
+                - 
+        - Updating designs to evaluate with updated forms
+        - Review for extraneous questions
+        - Registration Flow
+        - Update initial screener to reduce redundancy
+        - Resolving outstanding accessibility concerns
+            - Address these now / ASAP instead of waiting until that area is redesigned
+- Tasks
+    - Heather
+        - [ ]  Add Stephen and Patrick to Usability Testing
+    - Mark
+        - [ ]  How many accessibility tickets do we have outstanding?
+    - General
+        - [ ]  Success / Failure rate of 10-10EZ submissions
