@@ -1,3 +1,7 @@
+Translations Received from the State Department on 6/8/2022:
+
+
+
 Translations Received from the State Department on 5/4/2022:
 
 - [SPA-FINAL_CIE in-app content.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/SPA-FINAL_CIE%20in-app%20content.json)
