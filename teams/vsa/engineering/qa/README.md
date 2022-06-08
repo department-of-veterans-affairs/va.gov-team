@@ -1,8 +1,9 @@
 # PTEMS Quality Assurance
 [formerly VSA QA]
 
-**Point of contact**: Tze-chiu Lei, Sr. Software Engineer (QA) [Github: @tlei123]
-**GitHub label: ptems-qa
+Point of contact: Tze-chiu Lei, Sr. Software Engineer (QA) [Github: **@tlei123**] 
+
+GitHub label: **ptems-qa**
 
 This is the documentation home/hub of the PTEMS Quality Assurance (PTEMS-QA) processes, best-practices, tools, and any other relevant information that would help PTEMS VA.gov Applications teams with QA/testing.
 
