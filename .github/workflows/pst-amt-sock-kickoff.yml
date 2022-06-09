@@ -12,9 +12,15 @@ jobs:
     name: Start workflow in devops repo
     # if: contains(github.event.issue.title, 'SOCKS access for')
     steps:
+    - name: Get bot token from Parameter Store
+        uses: marvinpinto/action-inject-ssm-secrets@latest
+        with:
+          ssm_parameter: /devops/VA_VSP_BOT_GITHUB_TOKEN
+          env_variable_name: VA_VSP_BOT_GITHUB_TOKEN
     - name: Run workflow
       uses: actions/github-script@v6
       with:
+        github-token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
         script: |
           await github.rest.actions.createWorkflowDispatch({
             owner: 'department-of-veterans-affairs',
