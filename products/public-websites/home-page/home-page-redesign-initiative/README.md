@@ -1,4 +1,4 @@
-# Homepage iteration - March 2022
+# Home page redesign iteration - March 2022
 
 This README page serves as a "front door" to documentation and resources pertaining to the home page design iteration which began in March 2022. 
 
