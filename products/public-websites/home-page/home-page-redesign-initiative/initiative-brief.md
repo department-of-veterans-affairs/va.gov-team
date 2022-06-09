@@ -1,4 +1,28 @@
-## Initiative Brief – Homepage iteration March 2022
+## Initiative Brief – Home page redesign initiative 
+
+[Overview](#overview)
+
+[Problems to solve](#problems-to-solve)
+
+[Desired outcomes](#desired-outcomes)
+
+[Measuring success](#measuring-success)
+
+[Assumptions and risks](#assumptions-and-risks)
+
+[Prioritization](#prioritization)
+
+[Summary of changes](#summary-of-changes)
+
+[Next steps](#next-steps)
+
+-[Research](#research)
+
+-[Connection to authenticated experience](#connection-to-authenticated-experience)
+
+[Launch planning](#launch-planning)
+
+[Screenshots](#screenshots)
 
 ## Overview
 - Although the redesign was planned as a series of smaller changes, given the strong evidence for change and experimental nature of our work, it was decided to go straight to the planned Step 3 design for the first build. Further refinement will be informed by Veteran research before changes are moved to production.
@@ -6,7 +30,6 @@
 - This "first build" will be complete with internal links vs. just a static Preview home page with links out to Prod sub-pages 
 
 ## Problems to solve
-
 - In March 2022, ~10% of users logged in to VA.gov, which means the majority of users do not benefit from the personalized experience.
 - The home page has a very low engagement (measured by event rates), particularly for
   - VAntage Point blog articles on the home page
@@ -14,17 +37,18 @@
 - The text-heavy current experience increases cognitive load and discourages engagement. 
 - The current UX design was optimized for viewability across Desktop and Mobile, limiting the number of links to five in each of the four top task boxes. This limitation has made it difficult to respond to the expanding benefit and program landscape and stakeholder requests. 
 
-## Desired User Outcomes
+## Desired Outcomes
+**Desired user outcomes**
 - As a Veteran I want to be able to access tools and processes quickly and easily so that I can manage my own VA benefits 
 - As a Veteran, caregiver, family member, etc, I want to be able to learn about the different benefits available to me including eligibility etc. so that I can apply to these benefits.
 - As a secondary audience to VA.gov (VSO, Member of Congress, News) I need to understand where on VA.gov I should go to manage and learn activities appropriate to my needs 
 - Veterans have increased access to self-service tools through an elevated login funnel 
 
-## Undesired User Outcomes
+**Undesired User Outcomes**
 - Decrease in engagement with the most popular Top Tasks might be concerning, but would have to be viewed in context of overal engagement patterns.
 - Search behavior should be monitored for signs that prominent placement of Search in the page is attracting users for use cases that would be better served by some other path/product.
 
-## Desired Business Outcomes
+**Desired Business Outcomes**
 - Stakeholders can promote and give visibility to new products and services
 - More traffic from the home page to the VAntage Point blog
 - More logins
@@ -47,8 +71,7 @@ We will work through the Collaboration Cycle to determine how to measure outcome
 
 ---
 
-## Discovery
-### Assumptions/Risks
+## Assumptions/Risks
 
 **Value Risks** (will people use it): 
   - The use of the home page itself is a given.
@@ -94,16 +117,16 @@ Given the strong evidence for change and experimental nature of our work, we int
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
 - The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
-### Next steps
+## Next steps
 
-## Research
+### Research
 - Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
 - Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices, with the following goals
   - confirm list of "popular links" along with validating that Veterans understand to search for other tasks not appearing on that short list
   - understand Veteran expectations of search behavior
 - Research findings should be shared broadly, including Authenticated Experience team and Apartment teams
 
-## Connection to authenticated experience
+### Connection to authenticated experience
 - Explore routed queries - direct Veterans to a deep link rather than the search results page
 - Determine expected behavior for logged in users
   - should sign in/sign up CTA still be present? 
