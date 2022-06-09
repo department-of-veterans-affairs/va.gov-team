@@ -30,6 +30,7 @@
 | Education and training | [In-state tuition rates under the Veterans Choice Act](https://www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) | Learn about GI Bill benefits | |
 | Health care | [How to set up direct deposit for VA travel pay reimbursement](https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/) | Go to the AccessVA travel claim portal | Get VA Form 10091 |
 | Health care | [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/) | Go to the AccessVA travel claim portal | |
+| Health care | [How to file a VA travel reimbursement claim online]](va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online) | Go to the AccessVA travel claim portal | |
 | Health care | [Can I get free health care and prescriptions as a Veteran?](https://www.va.gov/resources/can-i-get-free-health-care-and-prescriptions-as-a-veteran/) | Learn about your VA health care costs |  |
 | Health care |[Does VA cover nursing home, assisted living, or other long-term care?](https://www.va.gov/resources/does-va-cover-nursing-home-assisted-living-or-other-long-term-care/) | Learn more about long-term care services | |
 | Health care | [How to get help with concerns at a VA health facility](https://www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) | Find your nearest VA health facility | |
