@@ -4,7 +4,7 @@ Last Updated: June 9, 2022
 
 ### Team Communications
 
-- **Government lead**: [Matthew Self](matthew.self2@va.gov) (Benefits Crew)
+- **Government lead**: Matthew Self (Benefits Crew)
 - **Slack channel**: [#benefits-team-1](https://dsva.slack.com/channels/benefits-team-1)
 - **Github labels**: benefits-team-1
 
@@ -12,7 +12,7 @@ Last Updated: June 9, 2022
   
 |Name|Role|Email|
 |----|----|-----|
-|Matthew Self |Product Owner| matthew.self2@va.gov |
+|Matthew Self |Product Owner, Gov't Lead| matthew.self2@va.gov |
 |Sade Ragsdale |Product Manager| sade@coforma.io|
 |Pam Hastings| Research & Design |pamela.hastings@adhocteam.us |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
@@ -41,9 +41,9 @@ Last Updated: June 9, 2022
 
 ## Overview
 
-Since the VA modernized its appeals process via the Appeals Modernization Act (AMA) in 2017, Claimants who disagree with a VA decision dated on or after February 19,2019 have had 3 decision review options: Higher-Level Review, Board Appeal, and Supplemental Claims.
+Since the VA modernized its appeals process via the Appeals Modernization Act (AMA) in 2017, Claimants who disagree with a VA decision dated on or after February 19,2019 have had 3 decision review options: [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/), [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/), and **Supplemental Claims**.
 
-Supplementatl claims allow Claimants to submit or identify new and relevant evidence to a reviewer for consideration before determining if the new evidence changes a decision. Of the three decision review pathways, supplemental claims are the most widely used.
+Supplemental claims allow Claimants to submit or identify new and relevant evidence and submit it to the VA where a reviewer will determine whether the new evidence changes the decision. Of the three decision review pathways, supplemental claims are the most widely used. More than XXX Claimants file supplemental claims each month which indicates that streamlining and enhancing this pathway has the greatest potential to impact the lives of Veterans and their families.
 
 
 The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
