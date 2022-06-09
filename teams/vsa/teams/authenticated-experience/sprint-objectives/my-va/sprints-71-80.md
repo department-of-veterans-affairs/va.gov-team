@@ -316,8 +316,6 @@ Projects are in priority order:
 
 ### My VA redirect
 
-This assumes discovery is complete. If we need additional discovery and have unanswered questions after sprint 75, we should prioritize getting those answers.
-
 **PM**
 
 - Submit IA review (if not already done)
