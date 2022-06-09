@@ -17,15 +17,18 @@ The create endpoint only works for appointment requests at this time and already
 
 The cancel endpoint is currently on V0. We will need to add functionality for cancelling both appointments and appointment requests using V2.
 
-## Maintaining V0
+## Maintaining V0 Appointments Index
 
-Because we must maintain older versions of the mobile app, we must maintain the V0 endpoint with its current data schema. We will need to develop an adapter that converts data from the VAOS V2 api to the same data schema we have now.
+Because we must maintain older versions of the mobile app, we will need to maintain the V0 appointments index endpoint with its current data schema. We will need to develop an adapter that converts data from the VAOS V2 api to the same data schema we have now.
 
 ## Tickets Needed
 
 ### Backend: Adapt VAOS V2 Appointments to V0 Appointments Schema
 
-Because we need to maintain older versions of the mobile client, we must maintain the V0 appointments index with the current schema while switching the source of data from V0 to V2. We can do this by using a feature flag to switch the source of truth. We will also have to create new adapters because the incoming data schema will be different from what we currently use. This will be the most complex part because we will need to keep the data as consistent as possible between versions.
+Because we need to maintain older versions of the mobile client, we must maintain the V0 appointments index with the current schema while switching the source of data from V0 to V2. We can do this by using a feature flag to switch the source of truth. We will also have to create new adapters because the incoming data schema will be different from what we currently use. This will be the most complex part because we will need to keep the data as consistent as possible between versions. We will have to create adapters for all four appointment types: VA appointments, CC appointments, VA appointment requests, and CC appointment requests.
+
+Pagination...
+Feature flag...
 
 ### Backend: V2 Appointments Index
 
