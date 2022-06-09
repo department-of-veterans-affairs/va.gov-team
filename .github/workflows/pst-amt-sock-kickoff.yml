@@ -10,7 +10,7 @@ jobs:
   start_workflow:
     runs-on: ubuntu-latest
     name: Start workflow in devops repo
-    if: contains(github.event.issue.title, 'SOCKS access for')
+    # if: contains(github.event.issue.title, 'SOCKS access for')
     steps:
     - name: Run workflow
       uses: actions/github-script@v5
