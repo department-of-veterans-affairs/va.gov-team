@@ -4,11 +4,8 @@
 ## Overview
 This product reimagines the process by which Veterans check-in for a medical appointment by allowing them to perform pre-check-in and check-in from their mobile device. The product is intented to replace the physical kiosks currently used for check-in at VA facilities. Development will involve coordinating with other product teams (VeText, VAOS, MyVA, mobile app) in order to consolidate the data from disparate systems necessary to complete check-in.
 
-## Problem Statement
-Currently, VA medical facilities each have a kiosk that is used by Veterans to check-in for medical appointments upon arrival at the facility. These Kiosks are being sun-set in March 2022. 
-
-[Current Priorities](https://docs.google.com/document/d/1lo11HaGZzMvjcVYLFjmjeyiYTUuaim-z0bbtcrUtTYA/edit?usp=sharing)
-[Objectives & Key Results](https://app.mural.co/t/vfscie8528/m/vfscie8528/1654695959441/d90ed2bae0315fa65761373df8362460f2c82b28?sender=ud3aa760e30b39bcf436d4473)
+### [Current Priorities](https://docs.google.com/document/d/1lo11HaGZzMvjcVYLFjmjeyiYTUuaim-z0bbtcrUtTYA/edit?usp=sharing)
+### [Objectives & Key Results](https://app.mural.co/t/vfscie8528/m/vfscie8528/1654695959441/d90ed2bae0315fa65761373df8362460f2c82b28?sender=ud3aa760e30b39bcf436d4473)
 
 ## Desired & Undesired Outcomes
 
