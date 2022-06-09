@@ -13,15 +13,15 @@ jobs:
     # if: contains(github.event.issue.title, 'SOCKS access for')
     steps:
     - name: Run workflow
-      uses: actions/github-script@v5
+      uses: actions/github-script@v6
       with:
         script: |
           await github.rest.actions.createWorkflowDispatch({
-            'department-of-veterans-affairs',
-            'devops',
-            'workflows/pst-amt-roster-check.yml',
-            'ksoskin/automate_roster_check',
+            owner: 'department-of-veterans-affairs',
+            repo: 'devops',
+            workflow_id:'workflows/pst-amt-roster-check.yml',
+            ref: 'ksoskin/automate_roster_check',
             inputs: {
-              ISSUE_ID: ${{ env.ISSUE_ID }}
-            }
+              issue_id: ${{ env.ISSUE_ID }}
+            },
           });
