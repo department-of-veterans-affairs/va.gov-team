@@ -60,7 +60,7 @@ _Confirm they qualify for the study._
 - [ ] **UAT TASK:** _If records can't be matched and an error appears, end the session._ I see that the system is unable to match your records. Because of that we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 If they are LOA3:
-- Without clicking on anything yet, why do you think VA asks for this information? 
+- Without selecting anything yet, why do you think VA asks for this information? 
 - If you were trying to learn more about the information included here, where would you search for that / where do you think that would be on this page?
 - Is this information required? Why does this seem that way?
 
@@ -78,10 +78,10 @@ If they are LOA3:
 - Now let’s review each editable section, starting with Preferred name. I’ll have you go ahead and select that section to make sure it works how it should.
 
 - _If NOT already specifically addressed:_ So we just talked about why VA might ask about this specific information. How would you learn more about this at this point?
-	- _If needed:_ Did you notice the sentence in gray under the Preferred name title of the section? 
+	- _If needed:_ Did you notice the sentence (in gray) under the Preferred name title of the section? 
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already addressed:_ We already discussed a little about why VA might ask about this information, but if you can again review the information you pointed out in this field (hint text), is anything unclear about this?
+- _If already addressed:_ We already discussed a little about why VA might ask about this information, but if you can again review the information you pointed out in this field (gray hint text), is anything unclear about this?
 	
 - Ok, now this is totally optional, but if you are comfortable doing so, you can type in your Preferred name and save your entry. I do want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know. _If needed:_ You can just enter [YOUR FIRST NAME] so we can make sure this functions as intended.
 	- _If YES to question above:_ Is there anything about this process that is unclear? 
@@ -104,17 +104,17 @@ If they are LOA3:
 - Now let’s review the Gender identity section. I’ll have you go ahead and select that section to make sure it works how it should.
 
 - _If NOT already specifically addressed:_ Earlier we talked about why VA might ask about this information. How would you find out more about this?
-	- _If needed:_ Did you notice the sentence with the dotted line below it (just below Gender identity)? Can you select that?
+	- _If needed:_ Did you notice the sentence just below Gender identity (with the dotted line below it)? Can you select that?
 	- How does or doesn’t this information answer your questions or clarify this?
 
-- _If already addressed:_ We already discussed a little about why VA might ask about this information, but if you can again review the information you pointed out in this field (FAQ dropdown), is any unclear about this?
+- _If already addressed:_ We already discussed a little about why VA might ask about this information, but if you can again review the information you pointed out in this field, is any unclear about this? (referring to FAQ dropdown)
 
 - Is this a field that you would update? 
 	- Could you tell me more about why you would (or would not) enter information here?
 
 - _If YES to updating:_ Ok, now this is totally optional, but if you are comfortable doing so, would you like to go ahead and select an option here?
-	- _If YES to updating:_ Ok, great. Again this is totally optional, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
-		- _If YES:_ Ok great, you can go ahead and just select **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
+	- _If YES to updating:_ Ok, great. And again, I want to make it clear that once you enter information here, it can be edited but not fully deleted. So if you don't want to update this, you don't have to. Just let me know.
+		- _If YES:_ You can go ahead and just select **Prefer not to answer** so we can make sure this functions as intended. And of course if you’d like to choose a different selection you are welcome to.
 			- Is there anything about this process that is unclear? 
 		- _If NO - skip for screen reader users:_ So because we're not going to select a response, let's just take a look at the field - is there anything unclear about how you'd update this?
 
@@ -137,7 +137,7 @@ If they are LOA3:
 
 ## 4. FAQs - 3 minutes
 
-- Ok, now we'll go to top of the page just under Personal information. Please review those two phrases with the dotted lines underneath them. _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
+- Ok, now we'll go to top of the page just under Personal information. Please review those two phrases just underneath the Personal information heading (with the dotted lines underneath them). _(“How to update your legal name” and “how to fix an error in your name or date of birth”)_
 
 - Did you notice those before?
 
