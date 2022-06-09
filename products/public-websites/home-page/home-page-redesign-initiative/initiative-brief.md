@@ -22,7 +22,9 @@
 
 [Launch planning](#launch-planning)
 
-- [Collaboration cycle]
+- [Collaboration cycle](#collaboration-cycle)
+
+- [Go-to-market strategy](#go-to-market-strategy)
 
 - [Timeline](#timeline) 
 
@@ -149,7 +151,7 @@ Given the strong evidence for change and experimental nature of our work, we int
   - [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512)
   - [Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503)
 
-### Go-to-market 
+### Go-to-market strategy
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 ### Timeline 
