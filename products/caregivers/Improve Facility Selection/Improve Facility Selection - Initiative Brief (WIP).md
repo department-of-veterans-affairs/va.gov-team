@@ -9,6 +9,19 @@
 
 Request from CG Team:
 
+>- Current
+>     - Provide VA.gov a limited list of VAMCs for Veterans to select
+>          - Filtered to where CSC is and does not allow a Veteran to fully answer the questions
+>               - Name of VA medical center or clinic where you receive, or plan to receive, health care services
+>               - Name of facility where you last received medical treatment
+>     - Worked with Lighthouse team to add “CSC” present toggle in the API
+>- PI 7
+>     - Connect Lighthouse API to updated internal CARMA VAMC info
+>- Needed from VA.gov
+>     - Original plan was to have VA.gov connect to Lighthouse as well so they could switch away from the manual list
+>     - Open up choices for the Veteran to choose from for those 2 questions
+>          - CARMA or MuleSoft would then route the application to the correct VAMC queue in CARMA
+>
 >CARMA looking into connection with Lighthouse API for VAMC info (eg name, phone number, address, etc)
 >- Would go to prod in ~August 2022
 >- VA.gov Scope: look into changing VA.gov list of VAMC info for Veteran questions on 1010CG from manual CARMA list to the Lighthouse API
