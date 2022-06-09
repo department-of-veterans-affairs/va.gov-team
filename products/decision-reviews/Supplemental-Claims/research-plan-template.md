@@ -48,13 +48,13 @@ Desired start date for research sessions is April 20, 2020 for one week
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	As this is more of a verification with specific steps to follow, I don't think we need to pilot it
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	Andrea Schneider (andrea.schneider@va.gov; 301-537-4450)
-- Research guide writing and task development (usually but not always same as moderator):	Andrea Schneider
-- Participant recruiting & screening:	Perigean POC?
-- Project point of contact:	Andrea Schneider
+- Moderator:
+- Research guide writing and task development (usually but not always same as moderator):
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	 
 - Participant(s) for pilot test:	
-- Note-takers:	Michael Walker ("Walker, Michael (Insignia)" <Michael.Walker10@va.gov>)
-- Observers:	("Rive, Courtney R. (Insignia)" <Courtney.Rive@va.gov>), "Raparthi, Mahesh (CSRA)" <Mahesh.Raparthi@va.gov>, "Bogale, Epharm S. (ERPi)" <Epharm.Bogale@va.gov>, "Beehler, Dale" <Dale.Beehler@va.gov>
+- Note-takers:	
+- Observers:	
 
 ## Resources	
 - Project Brief: 	
