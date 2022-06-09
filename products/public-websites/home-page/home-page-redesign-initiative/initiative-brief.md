@@ -50,18 +50,18 @@ We will work through the Collaboration Cycle to determine how to measure outcome
 ## Discovery
 ### Assumptions/Risks
 
-- **Value Risks** (will people use it): 
+**Value Risks** (will people use it): 
   - The use of the home page itself is a given.
   - The case for change is very strong, given engagement gaps with the current design.
-- **Usability Risks** (can people figure out how to use it):
+**Usability Risks** (can people figure out how to use it):
   - It may be unclear that "Search" is searching content on VA.gov. The list of other search tools below complicates what exactly they're searching when they type something into that section.
   - The "Popular" heading may be unclear as to what exactly this list is for. (Popular what?)
   - The "other search tools" may be unclear as to where someone would actually be going when they click on those links, and what information they would find there.
   - There is a lot of copy in the "Browse benefits..." section. Users are likely just scanning the headings and not reading the copy. It could be generally overwhelming and create too much cognitive load to some users and they may ignore the section.
-- **Feasibility Risks** (can we build it with available tech/data):
+**Feasibility Risks** (can we build it with available tech/data):
   - The idea of creating a “parallel” home page experience seems pretty straightforward but has not been tried before in recent memory. There are potential challenges to our ideas, including Analytics setup and Search API integration. Future CMS integration has not yet been explored for feasibility or level of effort.
   - Changes to the codebase are small and localized. The only external dependency relates to the Search component, but the implementation and functionality will be identical to the search that already exists in the header. 
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+**Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - We may need the support of teams outside of OCTO-DE to get our experiment live on a va.gov subdomain.
 
 ## Prioritization
@@ -76,7 +76,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 </details>
 
 ### Summary of changes
- - A randomized, rotating set of Veteran portraits has been added to the top of the page 
+ - A randomized, rotating set of Veteran portraits has been added to the top of the page (but will not appear in mobile experience) 
  - Sign in/Sign up CTA has elevated visibility and top placement
  - Four top task boxes have been replaced with a data-driven list of links to 5 Veteran-facing pages where actions can be taken 
  - A visible search option which mimics the site search is available, followed by a data-driven list of four other search tools not available through Search (such as Yellow Ribbon, Education benefits, Find a VA form, Facility Locator)
@@ -86,7 +86,7 @@ Given the strong evidence for change and experimental nature of our work, we int
  - Governance and guidance is available to establish required content, character limitations and criteria for inclusion of links and tasks
 
 **Value proposition**
-- Veteran portraits humanize VA
+- Veteran portraits humanize VA and remind stakeholders who VA.gov is intended to serve
 - By using analytics to determine search tools and task lists, we can ensure optimal use of space
 - Delivers simplified, easy to read design 
 
@@ -94,16 +94,20 @@ Given the strong evidence for change and experimental nature of our work, we int
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
 - The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
-**Next steps**
+### Next steps
 
-Research
+## Research
 - Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
 - Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices, with the following goals
   - confirm list of "popular links" along with validating that Veterans understand to search for other tasks not appearing on that short list
   - understand Veteran expectations of search behavior
+- Research findings should be shared broadly, including Authenticated Experience team and Apartment teams
 
-Explore routed queries - direct Veterans to a deep link rather than the search results page
-
+## Connection to authenticated experience
+- Explore routed queries - direct Veterans to a deep link rather than the search results page
+- Determine expected behavior for logged in users
+  - should sign in/sign up CTA still be present? 
+  - user flow when My VA becomes the logged in home page (expected Summer 2022)
 --- 
 
 ## Launch Planning
@@ -115,14 +119,14 @@ Explore routed queries - direct Veterans to a deep link rather than the search r
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
-Since it’s not going to production, this is a future concern.
+[TBD]
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-Since it’s not going to production, we don’t have external constraints.
+[TBD]
 
-* [Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
 
 #### Initiative Launch Dates
 - *Target Launch Date*
