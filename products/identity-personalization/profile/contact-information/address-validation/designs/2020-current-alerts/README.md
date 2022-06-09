@@ -27,6 +27,6 @@ Sketch files: Desktop & Mobile
 
 Sketch files: Desktop & Mobile
 
-Address validation overlaps with Bad address indicator if a user has updated their flagged Mailing address and address validation is triggered before the address is returned as successful. Address validation then becomes part of the BAI user flow, and the address validation alert is shown as BAI alerts are visually hidden, though BAI alerts are not actually removed until address validation is successfully complete.
+Address validation overlaps with Bad address indicator if a user has updated their flagged Mailing address and address validation is triggered before the address is returned as successful. The address validation alert is shown as BAI alerts are (visually) hidden, though BAI alerts are not actually removed until address validation is successfully complete.
 
 See [BAI use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-use-cases-profile-contact-bai.md) for more details.
