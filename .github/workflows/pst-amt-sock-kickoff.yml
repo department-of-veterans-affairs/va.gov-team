@@ -13,7 +13,7 @@ jobs:
     # if: contains(github.event.issue.title, 'SOCKS access for')
     steps:
     - name: Run workflow
-      uses: actions/github-script@v6
+      uses: actions/github-script@v5
       with:
         script: |
           await github.rest.actions.createWorkflowDispatch({
