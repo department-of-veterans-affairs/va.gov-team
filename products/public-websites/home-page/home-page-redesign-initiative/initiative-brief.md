@@ -147,7 +147,12 @@ Given the strong evidence for change and experimental nature of our work, we int
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-[TBD]
+| Date | Milestone|
+|---|---|
+| May 2022 | Moderated Top Task research - [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
+| June 3, 2022 | First build deployed to staging |  
+| June 2022 | Unmoderated Top Task research |
+| July 2022 | Usability research | 
 
 
 
@@ -170,7 +175,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 ### After (Still on VA.gov subdomain)
 <details>
-<summary> First build - March 2022 </summary>
+<summary> First build - June 2022 </summary>
  
 ![First build design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/va-home-page-first-build.png)
 
