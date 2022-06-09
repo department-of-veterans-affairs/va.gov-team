@@ -20,8 +20,6 @@ jobs:
             owner: 'department-of-veterans-affairs',
             repo: 'devops',
             workflow_id:'pst-amt-roster-check.yml',
-            ref: 'ksoskin/automate_roster_check',
-            token: secrets.GITHUB_TOKEN,
             inputs: {
               issue_id: ${{ env.ISSUE_ID }}
             },
