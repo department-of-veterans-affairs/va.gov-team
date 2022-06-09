@@ -48,6 +48,21 @@ body:
       description: Provide the name and email of your Product Owner
     validations:
       required: true
+  - type: choice
+    attributes:
+      label: Access Level Requesting
+      description: Provide level of access you belive you will need.
+    validations:
+      required: true
+    default: viewers
+    options:
+      - automation
+      - automation_external
+      - developers
+      - drupal_developers
+      - platform
+      - viewers
+      - temp_debug_access
   - type: textarea
     id: ssh-key
     attributes:
