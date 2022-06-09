@@ -75,3 +75,4 @@
 | 73 | [In-state tuition rates under the Veterans Choice Act](https://www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) | Education | 2/10/22 |
 | 74 | [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/) | Pension | 3/11/22 |
 | 75 | [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) | Health care | 5/06/22 |
+| 76 | [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) | Health care | 5/06/22 |
