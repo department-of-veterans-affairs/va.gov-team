@@ -49,6 +49,6 @@
 - [ ] If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
 - [ ] [Add the action link wording to our Github file of action link labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md).
 - [ ] [Add the new article to our Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md).
-- [ ] Notify the Content Center Support team in their Slack channel (#vsp-contact-center-support) that we've published a new article. Provide the link and a few details about the article. It may be helpful to them for either communicating with Veterans or researching questions themselves. 
+- [ ] Notify the Contact Center Support team in their Slack channel (#vsp-contact-center-support) that we've published a new article. Provide the link and a few details about the article. It may be helpful to them for either communicating with Veterans or researching questions themselves. 
 
 **Note:** All published pages must meet VA.gov's experience standards. [Review the list of experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html)  
