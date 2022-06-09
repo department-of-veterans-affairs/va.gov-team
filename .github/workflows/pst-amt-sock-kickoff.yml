@@ -3,17 +3,25 @@ name: SOCKS Issue creation kickoff Workflow
 # See https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245
 # For support see #github-management or #github_information on DSVA
 
+# on:
+  # issue_comment:
+  #   types: [created]
 on:
-  issues:
-    types: [opened]
+  workflow_dispatch:
+    inputs:
+      issue_id:
+        description: 'Issue ID #'
+        required: true
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # ISSUE_ID: ${{ github.event.issue.id }}
+  ISSUE_ID: ${{ github.event.inputs.issue_id }}
 
 jobs:
   start_workflow:
     runs-on: ubuntu-latest
     name: Start workflow in devops repo
-    if: github.event.action == 'opened' && contains(github.event.issue.title, 'SOCKS access for')
+    if: contains(github.event.issue.title, 'SOCKS access for')
     steps:
     - name: Run workflow
       uses: actions/github-script@v5
@@ -25,6 +33,6 @@ jobs:
             'workflows/pst-amt-roster-check.yml',
             'ksoskin/automate_roster_check',
             inputs: {
-              ISSUE_ID: ${{ github.event.issue.id }}
+              ISSUE_ID: ${{  }}
             },
           });
