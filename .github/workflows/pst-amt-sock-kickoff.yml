@@ -23,5 +23,5 @@ jobs:
             'ksoskin/automate_roster_check',
             inputs: {
               ISSUE_ID: ${{ env.ISSUE_ID }}
-            },
+            }
           });
