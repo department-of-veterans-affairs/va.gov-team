@@ -23,7 +23,7 @@ Sketch files: Desktop & Mobile
 
 Sketch files: Desktop & Mobile
 
-### Address Validation within Bad address indicator Flow
+### Address validation and Bad address indicator (BAI)
 
 Sketch files: Desktop & Mobile
 
