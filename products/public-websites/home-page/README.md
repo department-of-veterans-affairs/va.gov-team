@@ -49,7 +49,7 @@ A timeline of key milestones from large scale initiatives
 - [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
 - [VA.gov Homepage evolution product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md) | August 2021
-- [Initiative brief: Homepage iteration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022) | March 2022
+- [Initiative brief: Homepage iteration]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-iteration-initiative-mar2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md) | March 2022
 
 ## Design artifacts
 - [March 2022 Homepage phased design plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/design/phased-design-plan.md)
