@@ -16,9 +16,9 @@
 
 [Next steps](#next-steps)
 
--[Research](#research)
+- [Research](#research)
 
--[Connection to authenticated experience](#connection-to-authenticated-experience)
+- [Connection to authenticated experience](#connection-to-authenticated-experience)
 
 [Launch planning](#launch-planning)
 
@@ -71,7 +71,7 @@ We will work through the Collaboration Cycle to determine how to measure outcome
 
 ---
 
-## Assumptions/Risks
+## Assumptions and risks
 
 **Value Risks** (will people use it): 
   - The use of the home page itself is a given.
