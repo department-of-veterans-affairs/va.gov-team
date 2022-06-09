@@ -5,7 +5,7 @@
 ### Planning
 - UAT Go / No Go: 06/06/2022
 - Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/UAT%20Readiness%20Checklist.md)
-- Desired range or test duration: 06/13/2022 - 06/20/2022
+- Desired range or test duration: 06/10/2022 - 06/17/2022
 - Desired number of users: TBD
 - Recruitment method: Perigean
 - How testing will be conducted: Sessions over Zoom
