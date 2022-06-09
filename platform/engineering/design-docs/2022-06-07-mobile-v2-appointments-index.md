@@ -15,7 +15,7 @@ Aside from index, the mobile app also has appointments cancel and create endpoin
 
 The create appointment endpoint only works for appointment requests at this time and already uses the V2 api. This endpoint will not be in use until after the switch to V2. No action is needed here.
 
-The cancel endpoint is currently on V0 for both appointments and appointment requests. 
+The cancel endpoint is currently on V0 for both appointments and appointment requests. This will need to V2 for appointments.
 
 ## Maintaining V0 Appointments Index
 
@@ -49,7 +49,7 @@ This will involve:
 
 ### Backend: V2 Appointment Cancel
 
-This can also be handled by a feature flag. The new functionality should be straight-forward. VAOS has written a V2 update endpoint that handles cancel functionality. It is unclear if it works for both appointments and appointment requests. (Test this on staging.)
+We can add use the same feature flag to toggle between V0 and V2. VAOS has written a V2 update endpoint that handles cancel functionality. The web app appears to use that endpoint for cancelling both appointments and appointment requests, so we should be able to do the same.
 
 ### Backend: V2 Appointments Index (Optional)
 
