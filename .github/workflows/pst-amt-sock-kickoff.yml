@@ -2,7 +2,6 @@ name: SOCKS Issue creation kickoff Workflow
 on:
   push:
 env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # ISSUE_ID: ${{ github.event.issue.id }}
   ISSUE_ID: 42533
 
@@ -12,21 +11,10 @@ jobs:
     name: Start workflow in devops repo
     # if: contains(github.event.issue.title, 'SOCKS access for')
     steps:
-    - name: Configure AWS Credentials
-      uses: aws-actions/configure-aws-credentials@v1
-      with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: "us-gov-west-1"
-    - name: Get bot token from Parameter Store
-      uses: marvinpinto/action-inject-ssm-secrets@latest
-      with:
-        ssm_parameter: /devops/VA_VSP_BOT_GITHUB_TOKEN
-        env_variable_name: VA_VSP_BOT_GITHUB_TOKEN
     - name: Run workflow
       uses: actions/github-script@v6
       with:
-        github-token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
+        github-token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
         script: |
           await github.rest.actions.createWorkflowDispatch({
             owner: 'department-of-veterans-affairs',
