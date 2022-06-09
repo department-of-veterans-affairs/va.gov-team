@@ -22,6 +22,10 @@
 
 [Launch planning](#launch-planning)
 
+- [Collaboration cycle]
+
+- [Timeline](#timeline) 
+
 [Screenshots](#screenshots)
 
 ## Overview
@@ -136,25 +140,28 @@ Given the strong evidence for change and experimental nature of our work, we int
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
-
+- Epic: [VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845)
 - Kickoff ticket
+- Design intent [CMS-Offices team - VA.gov Home Page #39038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
+- Research [Epic: Veteran Top Task Research (moderated and unmoderated) #40857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
+- Research [Epic: Usability of redesigned home page #41578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
+- Analytics requests
+  - [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512)
+  - [Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503)
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
-[TBD]
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 | Date | Milestone|
 |---|---|
-| May 2022 | Moderated Top Task research - [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
+| March 39, 2022 | Design intent |
+| June 3, 2022 | Moderated Top Task research synthesis - [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
 | June 3, 2022 | First build deployed to staging |  
-| June 2022 | Unmoderated Top Task research |
+| June 2022 | Unmoderated Top Task research - _findings (TBD)_ |
 | July 2022 | Usability research | 
-
-
 
 #### Initiative Launch Dates
 - *Target Launch Date*
