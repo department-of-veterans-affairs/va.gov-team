@@ -45,27 +45,15 @@ Since the VA modernized its appeals process via the Appeals Modernization Act (A
 
 Supplemental claims allow Claimants to submit or identify new and relevant evidence and submit it to the VA where a reviewer will determine whether the new evidence changes the decision. Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined!) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
+## Problem Statement(s)
 
-The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
+I am a Claimant who has received an unfavorable decision on my original claim. For various reasons (time, money, convenience, control) I would like to file a decision review request myself, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).
 
-Currently, the VA.gov profile supports the following information:
+I am a VA.gov software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed, intuitive, and comprehensive API to send the data gathered from my web application so the request can be processed by internal VA systems.
 
-- [Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)
-- [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
-- [Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
-- [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
-- [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
-- Account security
-- Connected apps (managed by the Lighthouse team)
+I own a case management software product that enables my customers to help Veterans submit claims and appeals. I need a well-designed, intuitive, and comprehensive API so my software can submit appeals forms to VA digitally, and so my customers don't have to print, mail, or fax the forms to VA. This process is frustrating and time-consuming.
 
-### Is VA Profile the same thing as the VA.gov profile?
-
-**No, VA Profile and the VA.gov profile are not the same thing and do not have a 1:1 relationship.**
-
-- **VA Profile**: This is a backend system that was formerly known as Vet360. It came about in 2018 to act as a connector between a bunch of VA backends and frontends, so that veterans could update their info in one place and it would save everywhere (or almost everywhere). The VA Profile team is not part of the OCTO/DEPO contracts. They are an entirely separate team that we work with, and they work with a lot of other teams. 
-- **The VA.gov profile** — The VA.gov profile is a section of VA.gov, which you can view at https://staging.va.gov/profile/personal-information with pretty much any staging user. The VA.gov profile is a **frontend only**; we do not store any information. We rely entirely on [various VA backend systems](#backend-systems-that-support-the-profile) to show and save data. VA Profile is only one of them, which we currently use to show and save contact information. 
-
-## Problem Statement
+I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
 
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
 
