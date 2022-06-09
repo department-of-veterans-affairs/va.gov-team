@@ -15,7 +15,7 @@ https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557
 
 IA recommendations: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-home-loan-coe.md
 
-Preview of new static page that we'll need to publish when this product launches:
+Preview of new static page we've created in the CMS that we'll need to publish when this product launches:
 [Check the status of your VA home loan COE](http://preview-prod.vfs.va.gov/preview?nodeId=44020) - You'll need to be on the VA network for this preview link to work.
 **Note:** This has not yet been seen by the collab cycle
 
