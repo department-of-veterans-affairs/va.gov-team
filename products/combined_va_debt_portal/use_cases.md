@@ -37,7 +37,7 @@ searches and gets no results.", etc.
 - **Description:** A veteran wants to understand what their debt is via the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
-	- login via user `vets.gov.user+228@gmail.com` (NAME)
+	- login via user `vets.gov.user+228@gmail.com` (Colder)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
 	- Click 'Check the status and resolve your debt' link under 'Debt and bill overview' section
@@ -51,7 +51,7 @@ searches and gets no results.", etc.
 - **Description:** A Veteran is interested in viewing their medical copay bill on the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+80@gmail.com` (NAME)
+	- `vets.gov.user+80@gmail.com` (Oscar)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
 	- Click 'Check your balance and resolve your bill' link under 'Debt and bill overview' section
