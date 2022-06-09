@@ -2,7 +2,7 @@
 name: Platform Orientation Template
 about: For orienting new VFS teams/members to Platform policies/practices
 title: Platform Orientation Template [Your name here]
-labels: governance-team, analytics-insights
+labels: governance-team, analytics-insights, analytics-request
 assignees: ''
 
 ---
