@@ -1,8 +1,6 @@
 name: SOCKS Issue creation kickoff Workflow
 on:
-  issue_comment:
-    types: [created]
-
+  push:
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # ISSUE_ID: ${{ github.event.issue.id }}
