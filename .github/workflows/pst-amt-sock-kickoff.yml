@@ -22,6 +22,6 @@ jobs:
             workflow_id:'pst-amt-roster-check.yml',
             ref: 'ksoskin/automate_roster_check',
             inputs: {
-              issue_id: ${{ env.ISSUE_ID }}
+              issue_id: "${{ env.ISSUE_ID }}"
             },
           });
