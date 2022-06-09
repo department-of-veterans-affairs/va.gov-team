@@ -34,6 +34,29 @@ This research will help us answer:
 - Do participants like the option of a more compressed inbox so more messages fit on a page?
 - Do participants see the action links (compose and search?
 - Do participants realize that this messaging on VA.gov is the same as MHV messaging?
+- Folders: Should the character limit for custom folder names change? Consider all places the name shows, espec on mobile.
+- Message list: Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
+- Compose and Reply: Should messages have a signature?
+- Compose & Reply: Add text telling user it could take 3 days to get a reply.
+- Message detail and Reply: Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
+- Reply: Figure out replying to the practice/team versus replying to an individual.
+- Message detail & Reply: Where do you click to expand the message thread?
+- Messages landing/Inbox: How does a draft message look?
+- Compose and Reply: Can you edit the list of names under "To"? If so, where? 
+- General: Do we need a preferences page? Or would it just be a page to edit the list of names under "To"? 
+- RE: Preferences: Notification options for Messages will be in VA.gov Profile. Do we need the signature settings (they contain COVID and flu text by default)? And based on our design direction, users don't control how many messages show in a list. 
+- Folders: Should we limit number of custom folders? Consider display of left nav on desktop and mobile. 
+- Subject Line required for General. If not General, then MHV uses Subject + “inquiry.”
+- Multi screens: How and where should the Compose button be displayed?
+- Message detail and Reply: How many messages can be in the thread? 
+- Compose and Reply: Work on attach message UX + design that alert.
+- 911 alert
+- Left nav: What should we call the Deleted folder? 
+- Compose: Would changing how the “To” field works confuse Veterans?  
+- 
+
+
+
 
 
 ### Hypothesis
