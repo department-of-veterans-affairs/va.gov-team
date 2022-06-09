@@ -320,11 +320,13 @@ This assumes discovery is complete. If we need additional discovery and have una
 
 **PM**
 
-- General coordination
+- Submit IA review (if not already done)
+- Test the feature once it's in staging (QA)
+- Figure out what contact center guide updates need to happen
 
 **FE**
 
-- Code implementation (other teams may need to be involved in this)
+- Code implementation by identity team
 
 **Design -- Liz**
 
