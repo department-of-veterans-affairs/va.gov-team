@@ -13,9 +13,9 @@ VAOS will be switching entirely to V2 appointments soon. The V0 api used by the 
 
 Aside from index, the mobile app also has appointments cancel and create endpoints.
 
-The create endpoint only works for appointment requests at this time and already uses the V2 api. Work is planned to add creation for appointments and it will be done using V2.
+The create appointment endpoint only works for appointment requests at this time and already uses the V2 api. This endpoint will not be in use until after the switch to V2. No action is needed here.
 
-The cancel endpoint is currently on V0. We will need to add functionality for cancelling both appointments and appointment requests using V2.
+The cancel endpoint is currently on V0 for both appointments and appointment requests. 
 
 ## Maintaining V0 Appointments Index
 
@@ -43,14 +43,13 @@ This will involve:
     	https://staging-api.va.gov/vaos/v2/appointments?_include=facilities,clinics&start=2022-02-08&end=2022-06-08&statuses[]=proposed&statuses[]=cancelled
 - Because the mobile app does not separate appointments and instead interleaves them into a single mix, we will need to make all of these requests up-front with slight modifications. We will need to request:
   - booked, arrived, fulfilled, and cancelled appointments for the date range of the beginning of last year through one year from now. That is the date range we currently use for V0. We use the beginning of last year because the mobile app has an option to see all records for last year so we prime the app with all of those records. We could also choose to grab records for the upcoming 13 months to match web app functionality.
-  - proposed appointments for the past four months. Cancelled does not need to be included in this request because those are already fetched by the initial request.
-- NOTE: 
-
+  - proposed appointments for the past four months.
+  - NOTE: when the user navigates to cancelled appointments on the web app, it only fetches the past four months of cancelled appointments. However, it always fetches cancelled appointments from one month ago to 13 months from now before fetching the past four months of cancelled appointments when the user navigates to cancelled. Then it only seems to show cancelled appointments starting from one month ago. We should look at front end code to better understand why this is happening.
+- SUGGESTED ACTION: capture entire response for V0 and ensure that V2 response matches it
 
 ### Backend: V2 Appointment Cancel
 
-Does this also handle requests?
-
+This can also be handled by a feature flag. The new functionality should be straight-forward. VAOS has written a V2 update endpoint that handles cancel functionality. It is unclear if it works for both appointments and appointment requests. (Test this on staging.)
 
 ### Backend: V2 Appointments Index (Optional)
 
@@ -61,13 +60,6 @@ This will include both appointments and appointment requests because the V2 api 
 Older versions of the mobile client will continue to work after the switch to VAOS V2 because we'll create backend data adapters to maintain the schema. However, this data modification is creating confusion and making the feature difficult to understand and to communicate about. The web back end passes the data from the upstream service to the web front end without significant modification. The mobile back end accepts the data from the upstream service, modifies it to fit a different schema, and sends it in that schema to the front end. This makes it significantly more difficult for the mobile front end team to make the app appear and behave exactly like the web front end.
 
 This ticket will require changing the front end to consume the new V2 mobile appointments endpoint and making any other changes necessary to accommodate the new schema.
-
-## Schemas
-
-### V0 Schema
-
-### V2 Schema
-
 
 ## Release Plan
 
