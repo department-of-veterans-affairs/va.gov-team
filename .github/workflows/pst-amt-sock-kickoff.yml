@@ -1,8 +1,4 @@
 name: SOCKS Issue creation kickoff Workflow
-# Assigns new issues to project based on label
-# See https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245
-# For support see #github-management or #github_information on DSVA
-
 on:
   issue_comment:
     types: [created]
@@ -28,6 +24,6 @@ jobs:
             'workflows/pst-amt-roster-check.yml',
             'ksoskin/automate_roster_check',
             inputs: {
-              ISSUE_ID: ${{  }}
+              ISSUE_ID: ${{ env.ISSUE_ID }}
             },
           });
