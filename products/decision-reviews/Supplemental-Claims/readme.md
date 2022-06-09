@@ -47,9 +47,9 @@ Supplemental claims allow Claimants to submit or identify new and relevant evide
 
 ## Problem Statement(s)
 
-I am a Claimant who has received an unfavorable decision on my original claim. For various reasons (time, money, convenience, control) I would like to file a decision review request myself, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).
+I am a Claimant who has received an unfavorable decision on my original claim. Since I received a decision on my claim, I've obtained or identified new evidence that I believe is relevant to my case and I'd like the VA to give it another look, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).
 
-I am a VA.gov software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed, intuitive, and comprehensive API to send the data gathered from my web application so the request can be processed by internal VA systems.
+I am a VA.gov software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed and documented, modern, and powerful API to send and receive data from my applications which are collecting the Claimants data so the request can be processed by internal VA systems.
 
 I own a case management software product that enables my customers to help Veterans submit claims and appeals. I need a well-designed, intuitive, and comprehensive API so my software can submit appeals forms to VA digitally, and so my customers don't have to print, mail, or fax the forms to VA. This process is frustrating and time-consuming.
 
