@@ -19,7 +19,7 @@ jobs:
           await github.rest.actions.createWorkflowDispatch({
             owner: 'department-of-veterans-affairs',
             repo: 'devops',
-            workflow_id:'workflows/pst-amt-roster-check.yml',
+            workflow_id:'pst-amt-roster-check.yml',
             ref: 'ksoskin/automate_roster_check',
             inputs: {
               issue_id: ${{ env.ISSUE_ID }}
