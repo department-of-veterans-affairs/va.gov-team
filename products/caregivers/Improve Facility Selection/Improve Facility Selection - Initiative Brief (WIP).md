@@ -2,12 +2,13 @@
 
 #### [Epic for 10-10CG Improve Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
 #### [Transition document for Facility Selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/In%20progress%20features/Facility%20selection.md)
+
 ---
 
 ## Overview
 * We want to increase the confidence with which Veterans select a facility on the 10-10CG, since it's key to getting their application routed appropriately.
 
-Request from CG Team:
+**Request from CG Team:**
 
 >- Current
 >     - Provide VA.gov a limited list of VAMCs for Veterans to select
@@ -25,6 +26,9 @@ Request from CG Team:
 >CARMA looking into connection with Lighthouse API for VAMC info (eg name, phone number, address, etc)
 >- Would go to prod in ~August 2022
 >- VA.gov Scope: look into changing VA.gov list of VAMC info for Veteran questions on 1010CG from manual CARMA list to the Lighthouse API
+
+**Feedback from the Facilities team:**
+>The facilitator locator uses the Lighthouse API to get data out of the legacy VAST facilities dB to populate search results. 
 
 ## Problems to solve
 
