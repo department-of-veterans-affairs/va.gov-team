@@ -2,7 +2,7 @@ name: SOCKS Issue creation kickoff Workflow
 on:
   push:
 env:
-  # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # ISSUE_ID: ${{ github.event.issue.id }}
   ISSUE_ID: 42533
 
