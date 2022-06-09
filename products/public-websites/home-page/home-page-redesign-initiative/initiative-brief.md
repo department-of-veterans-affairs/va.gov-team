@@ -154,6 +154,12 @@ Given the strong evidence for change and experimental nature of our work, we int
 ### Go-to-market strategy
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
+1. Deploy first build into publicly available interactive environment (for access by stakeholders and usability research)
+2. Request analytics support
+3. Develop usability research plan
+4. Discussions with VA leadership, Digital media partners and other stakeholders
+5. Evolution of Web Governance board
+
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
