@@ -8,8 +8,8 @@ This documents describes how the screen at [va.gov/profile/notifications](https:
   - [TL;DR](#tldr)
   - [UI Notes](#ui-notes)
     - [Key](#key)
-    - [3c. Options creation note](#3c-options-creation-note)
-  - [To Expand to new Channels](#to-expand-to-new-channels)
+    - [c. Options creation note](#c-options-creation-note)
+  - [Points of interests](#points-of-interests)
   - [API Call](#api-call)
 
 <!-- /TOC -->
@@ -52,9 +52,11 @@ We create the radio button lists based on the following code.
         ]}
 ```
 
-## To Expand to new Channels
+## Points of interests
 
-- Edit the options list [here](<https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/notification-settings/NotificationChannel.jsx#L80jk>
+- Edit the options list [here](<https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/components/notification-settings/NotificationChannel.jsx#L80jk>. Once we expand to email, this will be where the dev work will start.
+- RX tracking notification is controlled by facility id. The allow-list is located at <https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/constants.js#L65>
+- Healthcare Notifications only show if the user has *any* facilities. The filter logic is located at <https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/ducks/communicationPreferences.js#L353>
 
 ## API Call
 
