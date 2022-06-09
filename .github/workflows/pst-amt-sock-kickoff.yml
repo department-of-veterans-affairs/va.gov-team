@@ -3,19 +3,14 @@ name: SOCKS Issue creation kickoff Workflow
 # See https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245
 # For support see #github-management or #github_information on DSVA
 
-# on:
-  # issue_comment:
-  #   types: [created]
 on:
-  workflow_dispatch:
-    inputs:
-      issue_id:
-        description: 'Issue ID #'
-        required: true
+  issue_comment:
+    types: [created]
+
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # ISSUE_ID: ${{ github.event.issue.id }}
-  ISSUE_ID: ${{ github.event.inputs.issue_id }}
+  ISSUE_ID: 42533
 
 jobs:
   start_workflow:
