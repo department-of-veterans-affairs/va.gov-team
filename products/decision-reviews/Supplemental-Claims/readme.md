@@ -25,7 +25,7 @@ Last Updated: June 9, 2022
 
 ### Table of Contents
 
-- [Overview](#overview)
+- [Summary](#summary)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
@@ -39,25 +39,29 @@ Last Updated: June 9, 2022
 
 ---
 
-## Overview
+## Executive Summary
 
+#### Overview
 Since the VA modernized its appeals process via the Appeals Modernization Act (AMA) in 2017, Claimants who disagree with a VA decision dated on or after February 19,2019 have had 3 decision review options: [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/), [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/), and **Supplemental Claims**.
 
 Supplemental claims allow Claimants to submit or identify new and relevant evidence and submit it to the VA where a reviewer will determine whether the new evidence changes the decision. Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined!) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
+#### Strategiy Alignment
+OKR: Make the VAs claims experience better than the private sector's
+CTO Priority: Reduce the time it takes for Veterans to find, use, and receive VA services.
+
 ## Problem Statement(s)
 
-I am a Claimant who has received an unfavorable decision on my original claim. Since I received a decision on my claim, I've obtained or identified new evidence that I believe is relevant to my case and I'd like the VA to give it another look, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).
+**I am a Claimant who has received an unfavorable decision on my original claim. Since I received a decision on my claim, I've obtained or identified new evidence that I believe is relevant to my case and I'd like the VA to give it another look, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).**
 
-I am a VA.gov software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed and documented, modern, and powerful API to send and receive data from my applications which are collecting the Claimants data so the request can be processed by internal VA systems.
+I am a VA software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed and documented, modern, and powerful API to send and receive data from my applications which are collecting the Claimant's data, so the request can be processed by internal VA systems.
 
-I own a case management software product that enables my customers to help Veterans submit claims and appeals. I need a well-designed, intuitive, and comprehensive API so my software can submit appeals forms to VA digitally, and so my customers don't have to print, mail, or fax the forms to VA. This process is frustrating and time-consuming.
+I own a case management software product that enables my customers to help Veterans submit claims and appeals. I need a well-designed and documented, modern and powerful API so my software can submit supplmental claims forms to VA digitally, and so my customers don't have to print, mail, or fax the forms to VA. This process is frustrating and time-consuming.
 
 I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
 
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
-
-Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any given department or medical center may have access to different pieces of information. This makes it hard to understand the full picture of what the VA knows about any given Veteran/person.
+## OKR Alignment
+Addressing the supplemental claims problem is a
 
 ## Opportunities
 
