@@ -26,8 +26,8 @@
      - [ ] **(6/3) Need to map out the whole process flow. And then discuss messaging**
      - [ ] **(6/3) Need to identify how to avoid duplicate**
 
-#### Agenda
-- Review Action Items
+#### Notes
+- Reviewed Action Items
 - Patrick requesting to SPS team to provide schema for any changes needed
      - VA.gov team can code against that
      - [ ] **(6/10) Heather to provide GH Link for team board for CG items
@@ -42,7 +42,7 @@
                     -  constantly tested by other orgs
                -  CG Team does not want to convey msg that it is successful, potentially misinterpretation
                -  [ ] **(6/10) Discuss on 6/17 - Still looking for technical process, number of retries, etc to better inform messaging**
-               -  [ ] **(6/10) Discuss on 6/24 - Content for messaging with Dene'
+               -  [ ] **(6/10) Discuss on 6/24 - Content for messaging with Dene'**
      - vets-api call will be async, and first call would go to mulesoft upon success response (within half a second)
 
 - Review of Statistic/ Metrics Review
