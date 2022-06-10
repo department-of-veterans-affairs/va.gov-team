@@ -23,22 +23,6 @@ Last Updated: June 9, 2022
 
 ---
 
-### Table of Contents
-
-- [Executive Summary](#summary)
-- [Problem Statement](#problem-statement)
-- [Opportunities](#opportunities)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
-- [Projects](#projects)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
-- [Design](#design)
-
----
-
 ## Executive Summary
 
 #### Overview
