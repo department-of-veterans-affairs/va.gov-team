@@ -33,7 +33,7 @@
      - [ ] **(6/10) Heather to provide GH Link for team board for CG items
 - Review of Queueing Next Steps
      - [ ] **(6/3) VA.gov scope : change from 2 data payloads to 1**
-     - [ ] **VA.gov scope : Messaging changes review**
+     - [ ] VA.gov scope : Messaging changes review
           - VA.gov team wants one unified message - All Good!
           - Pathway to get to CG team/CARMA is behind the scenes
                -  Concern for those users who call quick after submission, and we wouldn't have the record yet.
@@ -41,7 +41,8 @@
                -  Matt B - Massive scrutiny, concerned of misinterpretation
                     -  constantly tested by other orgs
                -  CG Team does not want to convey msg that it is successful, potentially misinterpretation
-               -  [ ] **(6/17) Discuss next week - Still looking for technical process, number of retries, etc to better inform messaging**
+               -  [ ] **(6/10) Discuss on 6/17 - Still looking for technical process, number of retries, etc to better inform messaging**
+               -  [ ] **(6/10) Discuss on 6/24 - Content for messaging with Dene'
      - vets-api call will be async, and first call would go to mulesoft upon success response (within half a second)
 
 - Review of Statistic/ Metrics Review
@@ -53,5 +54,5 @@
      - Patrick shares what he has found
      - Does process VHA forms
      - It is an option to process the rare instance of 1010CG forms, requirements will need to be outlined
-     - Talk a bit more about how we want to address this
+     - Should talk a bit more about how we want to address this
 
