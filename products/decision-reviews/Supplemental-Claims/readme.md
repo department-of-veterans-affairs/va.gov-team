@@ -47,9 +47,9 @@ Since the VA modernized its appeals process via the Appeals Modernization Act (A
 Supplemental claims allow Claimants to submit or identify new and relevant evidence and submit it to the VA where a reviewer will determine whether the new evidence changes the decision. Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined!) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
 #### Strategic Alignment
-OKR: Make the VAs claims experience better than the private sector's
+**Benefits OKR**: Make the VAs claims experience better than the private sector's
 
-CTO Priority: Reduce the time it takes for Veterans to find, use, and receive VA services.
+**CTO Priority**: Reduce the time it takes for Veterans to find, use, and receive VA services.
 
 ## Problem Statement(s)
 
@@ -85,14 +85,19 @@ As a VSR or RVSR processing Supplemental Claims, I want to spend less time valid
 
 As a VSR or RVSR processing Supplemental Claims, I want the process of making an accurate rating decision to be as quick and easy as possible, so that Claimants receive decisions as quickly as possible.
 
-Audiences Served
-
+@benefits-team-1
 
 ### Undesired user outcomes
 
-We don’t want to force users to go to the Profile to view/edit information if that doesn’t feel intuitive in some cases, so one risk is that we use the profile as a de facto place for all Veteran information when they don’t anticipate finding it there.
+*What do we want to avoid? What should we be cognizant or preventing?*
 
-## Business outcomes
+We don't want to create an unforeseen situation where VSRs or RVSRs are incentivized to make incorrecot or inaccurate decisions just to process a supplemental claim quicker.
+
+We want users to choose the right (best) decision review option; that means we don't want users submitting supplemental claims if they don't have new and relevant evidence, but we also want to make sure they choose this options when appropriate :/
+
+@benefits-team-1
+
+## Desired Business outcomes
 
 ### Desired business outcomes
 
