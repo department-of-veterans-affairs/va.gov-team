@@ -7,19 +7,19 @@
 
 ## Overview
 
-VAOS will be switching entirely to V2 appointments soon. The V0 api used by the mobile app will be deprecated at that time. Appointments and appointment requests created in the V2 api will be inaccessible by the V0 api, so the mobile app will need to be switched at the same time as the web app to ensure that users see the same data on both platforms.
+VAOS will be switching entirely to V2 appointments soon. The V0 API used by the mobile app will be deprecated at that time. Appointments and appointment requests created in the V2 API will be inaccessible by the V0 API, so the mobile app will need to be switched at the same time as the web app to ensure that users see the same data on both platforms.
 
 ## Other Appointments Functionality
 
 Aside from index, the mobile app also has appointments cancel and create endpoints.
 
-The create appointment endpoint only works for appointment requests at this time and already uses the V2 api. This endpoint will not be in use until after the switch to V2. No action is needed here.
+The create appointment endpoint only works for appointment requests at this time and already uses the V2 API. This endpoint will not be in use until after the switch to V2. No action is needed here.
 
 The cancel endpoint is currently on V0 for both appointments and appointment requests. This will need to V2 for appointments.
 
 ## Maintaining V0 Appointments Index
 
-Because we must maintain older versions of the mobile app, we will need to maintain the V0 appointments index endpoint with its current data schema. We will need to develop an adapter that converts data from the VAOS V2 api to the same data schema we have now.
+Because we must maintain older versions of the mobile app, we will need to maintain the V0 appointments index endpoint with its current data schema. We will need to develop an adapter that converts data from the VAOS V2 API to the same data schema we have now.
 
 ## Tickets Needed
 
@@ -35,6 +35,7 @@ This will involve:
   - Upcoming: requests booked, arrived, fulfilled, and cancelled appointments for date range of one month ago through 13 months from now.
     - Example (recorded on 2022-06-08):
       https://staging-api.va.gov/vaos/v2/appointments?_include=facilities,clinics&start=2022-05-09&end=2023-07-08&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled
+    - NOTE: this call is always made, even if the user bypasses the upcoming appointments and navigates directly to another appointment type.
   - Past: requests booked, arrived, fulfilled, and cancelled appointments for the past three months until the current time.
     - Example (recorded on 2022-06-08):
 	    https://staging-api.va.gov/vaos/v2/appointments?_include=facilities,clinics&start=2022-03-08T00:00:00-05:00&end=2022-06-08T16:47:08-04:00&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled
@@ -45,21 +46,29 @@ This will involve:
   - booked, arrived, fulfilled, and cancelled appointments for the date range of the beginning of last year through one year from now. That is the date range we currently use for V0. We use the beginning of last year because the mobile app has an option to see all records for last year so we prime the app with all of those records. We could also choose to grab records for the upcoming 13 months to match web app functionality.
   - proposed appointments for the past four months.
   - NOTE: when the user navigates to cancelled appointments on the web app, it only fetches the past four months of cancelled appointments. However, it always fetches cancelled appointments from one month ago to 13 months from now before fetching the past four months of cancelled appointments when the user navigates to cancelled. Then it only seems to show cancelled appointments starting from one month ago. We should look at front end code to better understand why this is happening.
-- SUGGESTED ACTION: capture entire response for V0 and ensure that V2 response matches it
+- SUGGESTED ACTION: capture entire response for V0 and ensure that V2 response matches it. That may be the only way to ensure that our new adapters are working correctly.
 
 ### Backend: V2 Appointment Cancel
 
 We can add use the same feature flag to toggle between V0 and V2. VAOS has written a V2 update endpoint that handles cancel functionality. The web app appears to use that endpoint for cancelling both appointments and appointment requests, so we should be able to do the same.
 
-### Backend: V2 Appointments Index (Optional)
+## Optional Future Work
 
-This will include both appointments and appointment requests because the V2 api mixes the two into a single endpoint. We will need to create a V2 appointments endpoint that uses the VAOS V2 service. We should also change our data schema to match what the web app uses. This will require front end changes but will make it much easier to make the web app and mobile app match. This change will make bugs less likely and the code more maintainable.
+As mentioned, we have to maintain the data schema of our existing appointments index in order to support existing mobile app versions. However, that means that we have to translate all four appointment types through adapters on the back end, then attempt to match web app functionality on the front end with data structures that do not match what the web app front end uses. This has made our appointments features more bug-prone, difficult to understand, and difficult to communicate about. In order to more easily match the web app, it may be worth switching to the same data schema moving forward. This does not need to be done but may save us pain moving foward. The back end for this is relatively simple, but it will require a bit more work on the front end. The front end team will need to decide whether it's worth the additional effort.
 
-### Frontend: Switch to V2 Appointments Index (Optional)
+### Backend: V2 Appointments Index
 
-Older versions of the mobile client will continue to work after the switch to VAOS V2 because we'll create backend data adapters to maintain the schema. However, this data modification is creating confusion and making the feature difficult to understand and to communicate about. The web back end passes the data from the upstream service to the web front end without significant modification. The mobile back end accepts the data from the upstream service, modifies it to fit a different schema, and sends it in that schema to the front end. This makes it significantly more difficult for the mobile front end team to make the app appear and behave exactly like the web front end.
+Required changes should be limited:
+- create new V2 appointments index endpoint
+- create new V2 appointments model. This is necessary in order to enable data caching with the new schema.
+- create new V2 appointments serializer.
+- the new service class created in the [above ticket](#backend-adapt-vaos-v2-appointments-to-v0-appointments-schema) will handle the data fetching. It may need some small changes to avoid using the data adapters and to use the new model.
 
-This ticket will require changing the front end to consume the new V2 mobile appointments endpoint and making any other changes necessary to accommodate the new schema.
+### Frontend: Switch to V2 Appointments Index
+
+This ticket will require:
+- changing the front end to consume the new V2 mobile appointments endpoint
+- changing the model attributes used in various views. This will be the complex part, as it will require going through each displayed field and matching the logic found in the web app code. While this will be somewhat involved, it may make development and maintenance easier in the future.
 
 ## Release Plan
 
