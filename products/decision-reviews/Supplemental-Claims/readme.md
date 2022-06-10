@@ -25,7 +25,7 @@ Last Updated: June 9, 2022
 
 ### Table of Contents
 
-- [Summary](#summary)
+- [Executive Summary](#summary)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
 - [User Outcomes](#user-outcomes)
