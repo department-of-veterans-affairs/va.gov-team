@@ -116,6 +116,10 @@ We want users to choose the right (best) decision review option; that means we d
 - Dustin Williams: Procedures/Maintanence Analyst
 - Melissa Milenkovic: ?
 
+## Designs
+
+@benefits-team-1
+
 ## How to Access and Test
 
 @benefits-team-1
@@ -123,10 +127,6 @@ We want users to choose the right (best) decision review option; that means we d
 ## Integrations and Error Handling
 
 *What integrations (upsteam & downstream) does the feature make use of? How does the feature surface errors? If necessary, how does one tranlate them so they're actionable?*
-
-@benefits-team-1
-
-## Designs
 
 @benefits-team-1
 
