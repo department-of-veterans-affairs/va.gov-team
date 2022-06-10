@@ -48,6 +48,7 @@ You can get started by using the check-in poster.
 ### Follow up questions: 
 
 - Was this your first time using mobile check-in? 
+- What information about your appointment is most important to see when checking in? E.g., appointment time, facility name, doctor name, clinic name, reason for visit, building and room number, etc. 
 - How would you describe the security of the check-in process? 
 - Have you used a QR code before? If so, when? 
 - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate your experience with getting checked in? 
@@ -71,8 +72,8 @@ You can get started by using the check-in poster.
 
 ## Section 3: Beneficiary Travel Reimbursement 
 
-- Have you filed a travel reimbursement claim for an appointment in the past 12 months? If yes… 
-- When do you typically initiate a claim? E.g., before, during or after an appointment. 
+- Have you filed a travel reimbursement claim for an appointment in the past 12 months?
+- If so, when do you typically initiate a claim? E.g., before, during or after an appointment. 
 - What information do you think the VA should have to be able to review and approve a claim? 
 - Would it be beneficial to be able to file a claim during the mobile check-in process? Why or why not? 
 
