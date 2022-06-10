@@ -104,6 +104,10 @@ We want users to choose the right (best) decision review option; that means we d
 
 *Additional context, background, or useful information*
 
+#### Open questions
+
+@benefits-team-1
+
 #### Stakeholders
 - Paul Shute: Director of Benefits Automation
 - Alejandro Mendiolaflores: Lead Innovation Strategist
@@ -111,10 +115,6 @@ We want users to choose the right (best) decision review option; that means we d
 - Marisa Prugsawan: Sr. Program Analyst
 - Dustin Williams: Procedures/Maintanence Analyst
 - Melissa Milenkovic: ?
-
-## Open Questions
-
-@benefits-team-1
 
 ## How to Access and Test
 
@@ -138,3 +138,5 @@ We want users to choose the right (best) decision review option; that means we d
 [Suppl claims on VA.gov](https://www.va.gov/decision-reviews/supplemental-claim/)
 [Decision review hub on VA.gov](https://www.va.gov/decision-reviews/)
 [AMA overview and law](https://benefits.va.gov/benefits/appeals.asp)
+
+@benefits-team-1
