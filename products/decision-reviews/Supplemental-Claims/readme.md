@@ -46,7 +46,7 @@ Since the VA modernized its appeals process via the Appeals Modernization Act (A
 
 Supplemental claims allow Claimants to submit or identify new and relevant evidence and submit it to the VA where a reviewer will determine whether the new evidence changes the decision. Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined!) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
-#### Strategiy Alignment
+#### Strategic Alignment
 OKR: Make the VAs claims experience better than the private sector's
 CTO Priority: Reduce the time it takes for Veterans to find, use, and receive VA services.
 
@@ -60,14 +60,9 @@ I own a case management software product that enables my customers to help Veter
 
 I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
 
-## OKR Alignment
-Addressing the supplemental claims problem is a
-
 ## Opportunities
 
-*"How might we... _______" statement re-framing the challenge as an opportunity.*
-
-The VA.gov profile aims to solve for this by providing a centralized place that consolidates and displays the information the VA knows about a Veteran/person. It also provides paths to update information as needed, whether that is from the profile itself or outside of VA.gov (eg. in instances where someone needs to change an official government record).
+How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require  them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
 
 ## User outcomes
 
