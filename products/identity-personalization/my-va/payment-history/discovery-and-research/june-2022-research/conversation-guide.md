@@ -122,6 +122,8 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 - What's the most important piece of information you would want to know about your payments?
 
+- Let's say you used to receive payments from the VA but now you don't anymore. How long do you think you'd want to see these past deposits in your account? If they were here for a set amount of time and then you could only access them in your payment history, what would you want that amount of time to be?
+
 - Is there anything you expect to see here that you don't? Is anything about this section confusing to you?
 
 *If user has colorblindness, ask:*
