@@ -60,19 +60,32 @@ I own a case management software product that enables my customers to help Veter
 
 I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
 
-## Opportunities
-
-How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require  them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
-
-## User outcomes
-
-### Desired user outcomes
+## Desired User Outcomes
 
 *Why would a user want to use this? What should users be able to do/achieve that they couldn't before?*
 
-Instead of wondering whether the VA has the correct information for a given person, they can easily check and confirm this in the VA.gov profile. 
+As a Claimant, I want the ability to submit a Supplemental Claim Decision Review of my claim online, without having to solicit professional help, so that I can save time and energy when I disagree with a VA decision on my claim.
 
-Also, if they see information that is incorrect, it’s quick and easy to update information from the VA.gov profile, much easier than needing to submit a paper form or having to go through a VA medical center to get information updated.
+As a Claimant, I want the claims I submit to be visible to me as they move through VA systems, and I want proactive communications about their progress.
+
+As a Claimant, I want the VA to be able to easily interact with internal and external medical service providers to grab the medical records I indicate.
+
+As a Claimant, I want the process of choosing and filing a decision review (and by extension supplemental claim) to be easily understandable.
+
+As a VA.gov engineer, I want to be able to create a tool that helps a Claimant understand the benefit appeal process and allows them to easily submit a Supplemental Claim Decision Review. I will need a modern and performant API that interacts with the Benefit Appeal system in order to do so.
+
+As a software vendor creating products to enable VSOs to help Claimants, I want to have a modern API that I can integrate with that will make submitting a Supplemental Claim Decision Review online quick and reliable. This will allow my software to provide more value to my VSO consumers.
+
+As an accredited representative, I want to be able to use software tools to be able to quickly and easily submit a Supplemental Claim Decision Review for the Claimants I serve. I need this interaction to be reliable and to provide visibility into the status of the submission.
+
+As a VA employee in charge of intaking Supplemental Claims, I want to spend less time manually processing 0995 forms. This will allow me to focus more of my time on higher priority tasks.
+
+As a VSR or RVSR processing Supplemental Claims, I want to spend less time validating and clarifying data sent on Supplemental Claim Decision Review forms. Having data that has been previously validated will allow me to spend more time on higher priority tasks.
+
+As a VSR or RVSR processing Supplemental Claims, I want the process of making an accurate rating decision to be as quick and easy as possible, so that Claimants receive decisions as quickly as possible.
+
+Audiences Served
+
 
 ### Undesired user outcomes
 
@@ -94,7 +107,33 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 Current metrics we're tracking:
 
--
+## Opportunities
+
+How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require  them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
+
+How might we make submitting supplemental claims take as little input from the user as possible?
+
+How might we give rating officials all of the data they need to make an immediate decision on a supplementatl claim?
+
+How might we ensure Claimants are always in the loop about what's going on with their claim?
+
+## Context and Decisions
+
+#### Stakeholders
+- Paul Shute: Director of Benefits Automation
+- Alejandro Mendiolaflores: Lead Innovation Strategist
+- Andrew Gray: Sr. Automation Strategist
+- Marisa Prugsawan: Sr. Program Analyst
+- Dustin Williams: Procedures/Maintanence Analyst
+- Melissa Milenkovic: ?
+
+
+
+#### Discovery Artifacts
+[VA.gov Decision Review Research Readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Decision%20Reviews/Research%20and%20Design/AMA-VFT_Discovery1-Research-Readout.pdf)
+[Lighthouse Supplementatl Claims API Initiative Brief](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
+
+#### Open Questions
 
 ## Projects
 
