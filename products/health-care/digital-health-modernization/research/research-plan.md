@@ -2,7 +2,7 @@
 June 2022
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, MyHealtheVet (MHV), including Secure Messaging, will be replatformed to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like, which we are testing as part of this research.
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, MyHealtheVet (MHV), including Secure Messaging, will be replatformed to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device, which we are testing as part of this research.
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -23,6 +23,7 @@ This research fits into these points of a Veteran's Journey:
 ## Research Goals	
 The goals of this study are to:
 - identify major usability or content issues with the current concept of secure messaging in MHV on VA.gov
+- determine if Veterans understand that secure messaging is now part of MHV on VA.gov
 
 
 ### Outcome
@@ -30,40 +31,15 @@ Results of this study will help us determine if our proof of concept is headed i
 
 ### Research questions
 This research will help us answer:
-- Do participants notice that the left nav are links and folders?
-- Do participants like the option of a more compressed inbox so more messages fit on a page?
-- Do participants see the action links (compose and search?
-- Do participants realize that this messaging on VA.gov is the same as MHV messaging?
-- Folders: Should the character limit for custom folder names change? Consider all places the name shows, espec on mobile.
-- Message list: Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
-- Compose and Reply: Should messages have a signature?
-- Compose & Reply: Add text telling user it could take 3 days to get a reply.
-- Message detail and Reply: Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
-- Reply: Figure out replying to the practice/team versus replying to an individual.
-- Message detail & Reply: Where do you click to expand the message thread?
-- Messages landing/Inbox: How does a draft message look?
-- Compose and Reply: Can you edit the list of names under "To"? If so, where? 
-- General: Do we need a preferences page? Or would it just be a page to edit the list of names under "To"? 
-- RE: Preferences: Notification options for Messages will be in VA.gov Profile. Do we need the signature settings (they contain COVID and flu text by default)? And based on our design direction, users don't control how many messages show in a list. 
-- Folders: Should we limit number of custom folders? Consider display of left nav on desktop and mobile. 
-- Subject Line required for General. If not General, then MHV uses Subject + “inquiry.”
-- Multi screens: How and where should the Compose button be displayed?
-- Message detail and Reply: How many messages can be in the thread? 
-- Compose and Reply: Work on attach message UX + design that alert.
-- 911 alert
-- Left nav: What should we call the Deleted folder? 
-- Compose: Would changing how the “To” field works confuse Veterans?  
-- 
 
-
-
+- xx
 
 
 ### Hypothesis
-- Veterans 
+- xx
 
 ## Method	
-We use conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the laptop/desktop experience (check this). Future rounds of research will explore mobile versions of the prototype.
+We will conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research will test both the mobile user experience and the desktop user experience.
 
 
 ### Location
@@ -81,23 +57,27 @@ The audience is Veterans with and without VA healthcare, to be recruited by Peri
 
 
 ### Recruitment criteria
-Please schedule a total of 15 Veterans for an expected completion rate of 10-12 studies. 
+Please schedule a total of 22 Veterans for an expected completion rate of 16-18 studies. 
 
 **Primary criteria (must-haves)**
-- At least six participants that have VA healthcare and regularly use Secure Messaging
-- Up to six participants that do not use VA healthcare or use Secure Messaging
-- Must have access to a laptop or desktop computer to interact with the prototype (check this)
+- At least 10 participants who regularly use Secure Messaging
+- Up to 10 participants that do not use Secure Messaging
+- At least 10 participants who are mobile users
 
 **Secondary criteria (nice-to-haves)**
-- 8 participants over the age of 55 years
-- 8 participants with cognitive disabilities
-- 5 participants from rural locations
-- 5 participants without a college degree
-- 5 participants with other than honorable discharge 
-- 5 participants of immigrant origin
-- 3 expat participants
-- 4 participants who identify as women
-- 6 non-white participants
+- 11 participants over the age of 55 years
+- 11 participants with cognitive disabilities
+- 6 participants from rural locations
+- 6 participants without a college degree
+- x participants with other than honorable discharge 
+- 4 participants of immigrant origin
+- 3 participants who identify as women
+- 1 expat participant
+- 4 Black participants
+- 3 Latinx participants
+- 1 Biracial participant
+- 1 Asian participant
+- 1 Native participant
 - 3 LGBTQ+ participants
 
 ## Timeline
@@ -109,14 +89,17 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from June 21 to 28th or July 5th - July 12th, 2022
+- We plan to run sessions from June 22 to 28th
 
 ### Length of sessions
-1 hour sessions with 15 minute breaks in between (if possible). 
+1 hour sessions with 15 minute breaks in between (if possible)
 
 ### Availability
-Wednesday 6/x: 11am - 1pm ET, 2pm - 4:30pm ET
-Thursday 6/xx: 
+Wednesday 6/22: 8am - 5pm ET
+Thursday 6/23: 8am - 5pm ET
+Friday 6/24: 8am - 3pm ET
+Monday 6/27: 8am - 5pm ET
+Tuesday 6/28: 8am - 5pm ET
 
 
 	
