@@ -61,6 +61,25 @@ I own a case management software product that enables my customers to help Veter
 
 I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
 
+
+## Measuring Success
+
+How will we know if we were right?
+
+@benefits-team-1
+
+## Opportunities
+
+How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require  them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
+
+How might we make submitting supplemental claims take as little input from the user as possible?
+
+How might we give rating officials all of the data they need to make an immediate decision on a supplementatl claim?
+
+How might we ensure Claimants are always in the loop about what's going on with their claim?
+
+@benefits-team-1
+
 ## Desired User Outcomes
 
 *Why would a user want to use this? What should users be able to do/achieve that they couldn't before?*
@@ -87,9 +106,9 @@ As a VSR or RVSR processing Supplemental Claims, I want the process of making an
 
 @benefits-team-1
 
-### Undesired user outcomes
+## Undesired user outcomes
 
-*What do we want to avoid? What should we be cognizant or preventing?*
+*What do we want to avoid? What should we be cognizant of or preventing?*
 
 We don't want to create an unforeseen situation where VSRs or RVSRs are incentivized to make incorrecot or inaccurate decisions just to process a supplemental claim quicker.
 
@@ -97,33 +116,9 @@ We want users to choose the right (best) decision review option; that means we d
 
 @benefits-team-1
 
-## Desired Business outcomes
-
-### Desired business outcomes
-
-*Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
-
-The profile gives us a place to present a consolidated view of what we know about Veterans and other users instead of silo-ing it in benefit hubs.
-
-### Undesired business outcomes
-
-We don’t want the profile to become such a de facto place for Veteran information that we ignore larger mental models and intuitive IA. Over time, we should regularly assess whether certain information actually makes sense to live in the profile, or whether that information should live elsewhere based on where Veterans and other users most anticipate finding it. 
-
-## Measuring Success
-
-Current metrics we're tracking:
-
-## Opportunities
-
-How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require  them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
-
-How might we make submitting supplemental claims take as little input from the user as possible?
-
-How might we give rating officials all of the data they need to make an immediate decision on a supplementatl claim?
-
-How might we ensure Claimants are always in the loop about what's going on with their claim?
-
 ## Context and Decisions
+
+*Additional context, background, or useful information*
 
 #### Stakeholders
 - Paul Shute: Director of Benefits Automation
@@ -133,44 +128,29 @@ How might we ensure Claimants are always in the loop about what's going on with 
 - Dustin Williams: Procedures/Maintanence Analyst
 - Melissa Milenkovic: ?
 
+## Open Questions
 
-
-#### Discovery Artifacts
-[VA.gov Decision Review Research Readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Decision%20Reviews/Research%20and%20Design/AMA-VFT_Discovery1-Research-Readout.pdf)
-[Lighthouse Supplementatl Claims API Initiative Brief](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
-
-#### Open Questions
-
-## Projects
-
-[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
+@benefits-team-1
 
 ## How to Access and Test
 
-- Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
-- Visit https://staging.va.gov/profile/
-- [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
+@benefits-team-1
 
-## Error Handling
+## Integrations and Error Handling
 
-- [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
+*What integrations (upsteam & downstream) does the feature make use of? How does the feature surface errors? If necessary, how does one tranlate them so they're actionable?*
 
-## Backend Systems that Support the Profile
+@benefits-team-1
 
-- Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
-- Direct deposit for comp & pen information comes from the [Enterprise Veterans Self Service (EVSS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html).
-- Direct deposit for edu information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
-- Personal information comes from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
-- Military information comes from the [Enterprise Military Information Service (eMIS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html).
-- Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
-- Confirmation emails for when people update contact information and direct deposit information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
+## Designs
 
-## Design 
+@benefits-team-1
 
-- [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
-- [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
-- [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-- [Direct deposit](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131)
-- [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
-- [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
-- [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
+## Appendix
+#### Discovery Artifacts
+[Lighthouse suppl claims API discoveryf](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
+[Decision review API discovery](https://community.max.gov/display/VAExternal/Decision+Review+API+-+Product+Outline)
+[Suppl claims paper form (0995)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
+[Suppl claims on VA.gov](https://www.va.gov/decision-reviews/supplemental-claim/)
+[Decision review hub on VA.gov](https://www.va.gov/decision-reviews/)
+[AMA overview and law](https://benefits.va.gov/benefits/appeals.asp)
