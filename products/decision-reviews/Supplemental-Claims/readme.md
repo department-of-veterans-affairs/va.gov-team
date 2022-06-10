@@ -48,6 +48,7 @@ Supplemental claims allow Claimants to submit or identify new and relevant evide
 
 #### Strategic Alignment
 OKR: Make the VAs claims experience better than the private sector's
+
 CTO Priority: Reduce the time it takes for Veterans to find, use, and receive VA services.
 
 ## Problem Statement(s)
