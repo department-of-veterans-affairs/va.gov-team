@@ -31,6 +31,8 @@
      - [ ] **VA.gov scope : change from 2 data payloads to 1**
      - [ ] **VA.gov scope : Messaging changes review**
 - Review of Statistic/ Metrics Review
+     - Added error breakdown as far back as September (Datadog implementation)
+     - Did not include "Other errors" until we find out what they are (currently unclassified)
 - Sign as a Representative Metrics Review
      - Check in next week after May numbers come out
 - Central Mail
