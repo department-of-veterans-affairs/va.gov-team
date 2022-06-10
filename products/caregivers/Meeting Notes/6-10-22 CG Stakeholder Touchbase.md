@@ -31,8 +31,8 @@
      - [ ] **VA.gov scope : change from 2 data payloads to 1**
      - [ ] **VA.gov scope : Messaging changes review**
 - Review of Statistic/ Metrics Review
-     - 
 - Sign as a Representative Metrics Review
-     - 
-- VA.gov retry workflow proposal
+     - Check in next week after May numbers come out
+- Central Mail
+     - Patrick shares what he has found
 
