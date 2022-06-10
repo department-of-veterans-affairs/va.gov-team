@@ -66,11 +66,11 @@ searches and gets no results.", etc.
 - **Description:** Veteran is just curious to see if they have any active VA debts or copay bills.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+56@gmail.com` (NAME)
+	- `vets.gov.user+56@gmail.com` (Shirley)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging to view combined portal
-	- Navigate to the [Debt Details](https://staging.va.gov/manage-debt-and-bills/summary/debt-balances) on staging to view debt details ppage
-	- Navigate to the [Copay Details](https://staging.va.gov/manage-debt-and-bills/summary/copay-balances) on staging to view copay details ppage
+	- Navigate to the [Debt Details](https://staging.va.gov/manage-debt-and-bills/summary/debt-balances) on staging to view debt details page with alert
+	- Navigate to the [Copay Details](https://staging.va.gov/manage-debt-and-bills/summary/copay-balances) on staging to view copay details page with alert
 
 - **Link to designs**
   - [Overview page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149492806/simulate/no-panels?mode=i)
