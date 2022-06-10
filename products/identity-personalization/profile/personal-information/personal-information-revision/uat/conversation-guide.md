@@ -44,9 +44,9 @@ _Confirm they qualify for the study._
 
 - Great! In that case, I'd like you to open a new tab in your browser, and go to https://www.va.gov/.
  
-- Now you can go ahead and log in. 
+- I'll now stop the recording and you can go ahead and log in. _Stop recording._
 
-- Ok, now that you're logged in, could you please share your screen?
+- _Start recording._ Ok, now that you're logged in, could you please share your screen?
 	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
