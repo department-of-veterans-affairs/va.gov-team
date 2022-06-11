@@ -13,13 +13,31 @@
 
 </details>
 
+## Monday, June 13, 2022
+Last week:
+* URL's for mobile sites and domiciliaries.
+* V1 Rollout update 
+
+New issues:
+* https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
+Adjust facility migrations timing
+* https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
+* https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406
+Define plan to address LH facility service audit
+https://dsva.slack.com/archives/C02BTJTDFTN/p1654864140104429
+ 
+DS Notes: 
+Define domiciliary
+  
+
 ## Monday, June 6, 2022
 * URL's for mobile sites and domiciliaries.
   * We will put this on hold until we understand more about them.
   * Website value for these will become NULL and redirects don't need to be worried about. 
   * Should we clear out domiciliaries that have a URL? Need to get an audit of the domiciliaries that currently have URLS associated
 * V1 Rollout update
-  * Health connect (V0 - high priority item) went out.
+  * Health Connect (V0 - high priority item) went out.
   * V1 - Working through backlog. Expect to have readout results ATC vs CMS. Should have these this week. 
 
 ## Monday, May 23, 2022
