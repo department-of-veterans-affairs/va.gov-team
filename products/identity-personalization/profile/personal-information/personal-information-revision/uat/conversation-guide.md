@@ -174,6 +174,8 @@ Ok, now that we've finished all the tasks and have a little extra time, I have o
 
 - Was there anything unclear or confusing about this?
 
+- Thanks for trying that. This is a bug that we're working to sort out, so it's great to get your feedback.
+
 - Ok, now let's go back and change your information back to [PREVIOUS ENTRY]
 
 - Great. And just to confirm - does the information you have entered now seem correct?
