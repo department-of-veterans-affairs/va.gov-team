@@ -14,7 +14,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-- **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express. We're testing our work, not you, so you can't do or say anything wrong here.
+- **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us test our work and figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express. 
 
 - **We will be able to see some of your real information today.** During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable.
 
@@ -89,7 +89,7 @@ If they are LOA3:
 
 - Do you have any questions about not being able to completely remove/clear this answer?
 
-- How would it be helpful or unhelpful to be able to remove information entered here?
+- Could you speak to how it might be helpful for you to have a way to remove information entered here?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
