@@ -49,6 +49,8 @@ This is the full text message and resolution for individual errors that can be e
   
   If you have trouble downloading your application, call our VA.gov help desk at 1-877-327-0022.  We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
   
+  ![image](https://user-images.githubusercontent.com/92328831/173358928-b880e177-acba-47d1-9a3b-f04a2009955f.png)
+
   </details>
   
 <details>
