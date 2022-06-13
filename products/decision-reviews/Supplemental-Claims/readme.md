@@ -133,10 +133,15 @@ We want users to choose the right (best) decision review option; that means we d
 ## Appendix
 #### Discovery Artifacts
 [Lighthouse suppl claims API discoveryf](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
+
 [Decision review API discovery](https://community.max.gov/display/VAExternal/Decision+Review+API+-+Product+Outline)
+
 [Suppl claims paper form (0995)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
+
 [Suppl claims on VA.gov](https://www.va.gov/decision-reviews/supplemental-claim/)
+
 [Decision review hub on VA.gov](https://www.va.gov/decision-reviews/)
+
 [AMA overview and law](https://benefits.va.gov/benefits/appeals.asp)
 
 @benefits-team-1
