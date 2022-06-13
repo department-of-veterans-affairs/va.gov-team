@@ -9,6 +9,7 @@
 - [**Product Intro**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md): Introduction to All Products
 - [**Sprint Objectives:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/sprint-objectives.md) Summary of the current goals and tasks
 - [**Roadmap:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/roadmap.md) _'Near term'_ product focus areas
+- [**Key Milestones:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/key_milestones.md) Summary of projected project dates and key milestones the team is working toward.
 
 
 
