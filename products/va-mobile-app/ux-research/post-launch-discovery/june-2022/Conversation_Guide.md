@@ -37,6 +37,7 @@ Great! Any questions before we get started?
 
 Ok, I'm going to hit the record button now. _Start recording._
 
+I've begun the recording now. Is it ok by you if we continue to record?
 
 ## Section 1: Warm-Up Questions (5 minutes)
 
