@@ -2,12 +2,20 @@ name: SOCKS Issue creation kickoff Workflow
 on:
   issues:
     types:
-      - created
+      - opened
 env:
   ISSUE_ID: ${{ github.event.issue.id }}
   # ISSUE_ID: 42533
 
 jobs:
+  debugging_info:
+    runs-on: ubuntu-latest
+    name: Outputting debugging info
+    steps:
+      - name: Output ENV
+        run: env
+      - name: Output Issue
+        run: echo "${{ github.event.issue }}"
   start_workflow:
     runs-on: ubuntu-latest
     name: Start workflow in devops repo
