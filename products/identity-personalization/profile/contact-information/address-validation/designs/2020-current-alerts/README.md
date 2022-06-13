@@ -27,10 +27,12 @@ Sketch files: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2
 
 ### Bad address indicator (BAI)
 
-Address validation overlaps with Bad address indicator if a user has updated their flagged Mailing address and address validation is triggered before the address is returned as successful. The address validation alert is shown as BAI alerts are (visually) hidden, though BAI alerts are not actually removed until address validation is successfully complete.
+Sketch files: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/My3wK8b) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WKe2P40)
+
+Address validation overlaps with Bad address indicator if a user has updated their flagged Mailing address and address validation is triggered before the address is returned as successful. The address validation alert is shown as BAI alerts are (visually) hidden, though BAI alerts are not actually removed until address validation is successfully complete. 
 
 See [BAI use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-use-cases-profile-contact-bai.md) for more details.
 
 ### Address change messaging
 
-
+Address validation may appear following [Address change messaging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/frontend/fe-documentation.md) flow, immediately after Mailing address has been confirmed in the [second modal step](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/25K3vb5). 
