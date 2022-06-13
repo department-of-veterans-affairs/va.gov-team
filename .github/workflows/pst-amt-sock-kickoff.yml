@@ -2,7 +2,7 @@ name: SOCKS Issue creation kickoff Workflow
 on:
   issues:
     types:
-      - created
+      - opened
 env:
   ISSUE_ID: ${{ github.event.issue.id }}
   # ISSUE_ID: 42533
