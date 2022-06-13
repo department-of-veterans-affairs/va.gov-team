@@ -52,7 +52,7 @@ _Confirm they qualify for the study._
 
 ## 1. Review Personal information section - 5 minutes
 
-- Great. Thank you! Now that you are logged in and sharing your screen, please go to your Profile by clicking on your name in the top right corner. 
+- Great. Thank you! Now that you are logged in and sharing your screen, please go to your Profile by selecting your name in the top right corner. 
 - So we're going to be reviewing this Personal information section that is on this page. And as a reminder feel free to think out loud as we go along. This really helps us get a better idea of your experience on the site.
 
 #### UAT and Usability
