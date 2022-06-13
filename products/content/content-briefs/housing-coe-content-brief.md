@@ -27,7 +27,7 @@ Preview of new static page we've created in the CMS that we'll need to publish w
 ## The 5 basics 
 
 Follow these content style best practices:
-- **Use contractions** to achieve a conversational voice and tone (this helps avoid formal-sounding language).  Hwoever, avoid non-standard and stacked contractions, such as "you'll" or "we'd've."
+- **Use contractions** to achieve a conversational voice and tone (this helps avoid formal-sounding language). 
 - **Keep it brief**
   - < 52 characters for H1s
   - < 70 characters for H2s
@@ -54,5 +54,7 @@ Follow these content style best practices:
 ## Research findings
 
 Add content-related notes that came out of research that should inform the messaging generally and word choice specifically.
+
+## Possible additions to this resource for consideration
 
 ## Other notes
