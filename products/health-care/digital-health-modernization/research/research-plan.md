@@ -32,7 +32,12 @@ Results of this study will help us determine if our proof of concept is headed i
 ### Research questions
 This research will help us answer:
 
-- xx
+- Will Veterans understand that this messaging on VA.gov is the same as MHV messaging?
+- corresponding with a person or a team
+- How would Veterans expect to get to the health care information?
+What would they expect to see in their My Health if they were logged in? Not logged in?
+Will Veterans be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
+What is the Veteran perception of how the health apartment would fit into how they manage their health care at the VA?
 
 
 ### Hypothesis
