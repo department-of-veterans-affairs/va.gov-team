@@ -40,7 +40,7 @@ This research will help us answer:
 
 ### Hypothesis
 - Veterans will understand that they are interacting with the same messaging system that is now on VA.gov.
-- Veterans will expect to be corresponding with a person.
+- Veterans will expect to be corresponding with a person through secure messaging.
 - Veterans will have have widely varied expectations and use of folders.
 - Veterans will be able to send and reply to messages with minimal difficulty.
 
