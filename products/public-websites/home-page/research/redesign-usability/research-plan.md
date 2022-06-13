@@ -151,3 +151,8 @@ Please list the people who will be serving in each role.
 - Participants for pilot test:	TBD
 - Note-takers:	Perigean
 - Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov)
+
+## Approvals
+- Reviewed and approved by Dave Conlon (PO) on XXX, 2022
+- Reviewed and approved by Shane Strassberg on YYY, 2022
+
