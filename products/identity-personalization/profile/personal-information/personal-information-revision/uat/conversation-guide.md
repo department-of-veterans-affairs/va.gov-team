@@ -89,7 +89,7 @@ If they are LOA3:
 
 - Do you have any questions about not being able to completely remove/clear this answer?
 
-- Could you speak to how it might be helpful for you to have a way to remove information entered here?
+- Could you speak to how it might be helpful for you to have a way to remove information entered here? _OR_ Would it be helpful or not for you to have a way to remove information here? Why's that?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Preferred name is displaying correctly.
@@ -123,7 +123,7 @@ If they are LOA3:
 
 - Do you have any questions about not being able to completely remove/clear this answer? 
 
-- How would it be helpful or unhelpful to be able to remove information entered here?
+- How might it be helpful (or unhelpful) to be able to remove information entered here? _OR_ Could you speak to how it might be helpful for you to have a way to remove information entered here? _OR_ Would it be helpful or not for you to have a way to remove information here? Why's that?
 
 #### UAT and Usability
 - [ ] **UAT TASK:** Confirm Gender identity field is displayed as it should be.
