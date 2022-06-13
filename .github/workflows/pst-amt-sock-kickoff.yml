@@ -1,0 +1,29 @@
+name: SOCKS Issue creation kickoff Workflow
+on:
+  issues:
+    types:
+      - created
+env:
+  ISSUE_ID: ${{ github.event.issue.id }}
+  # ISSUE_ID: 42533
+
+jobs:
+  start_workflow:
+    runs-on: ubuntu-latest
+    name: Start workflow in devops repo
+    if: contains(github.event.issue.title, 'SOCKS access')
+    steps:
+    - name: Run workflow
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            owner: 'department-of-veterans-affairs',
+            repo: 'devops',
+            workflow_id:'pst-amt-roster-check.yml',
+            ref: 'main',
+            inputs: {
+              issue_id: "${{ env.ISSUE_ID }}"
+            },
+          });
