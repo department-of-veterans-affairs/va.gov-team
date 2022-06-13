@@ -18,7 +18,7 @@
 **Adam: Are we prepared to revoke the feature flag if any serious issues arise?**
 - Answer: 
 
-**Samara/Sharon: Are analytics beiong properly recorded and showing in the GA widget(s)?**
+**Samara/Sharon: Are analytics being properly recorded and showing in the GA widget(s)?**
 - Answer: 
 
 
