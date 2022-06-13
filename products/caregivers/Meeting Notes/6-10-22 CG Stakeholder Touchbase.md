@@ -57,41 +57,37 @@
      - Should talk a bit more about how we want to address this
 
 <details>
-     <summary>Notes from Cailin</summary>
+     <summary>Notes from Caitlin</summary>
      
 **Notes**
  
 Action Items from Last Week
 - Issues identified during VA.gov review of statistics
-     - AI VA.gov to log body of the errors in the future to assist in error analysis - In Progress. VA.gov looking into setting up. VA.gov to share git hub page about error
+     - [ ] **AI VA.gov to log body of the errors in the future to assist in error analysis - In Progress. VA.gov looking into setting up. VA.gov to share git hub page about error**
           - The ability to log the errors will release to prod today.
           - VA.gov sent Github link in the slide deck for submission errors in last week's PPT
-     - AI After receiving information from VA.gov, SPS and MuleSoft will discuss the errors with MuleSoft DTC team In Progress
+     - [ ] **AI After receiving information from VA.gov, SPS and MuleSoft will discuss the errors with MuleSoft DTC team In Progress**
           - SPS has sent information to MuleSoft DTC. May seem like Salesforce downtime. Team still investigating
           - For the downtime on 6/11, VA.gov will post the offline message from ~12pm-12:05pm ET
  
 
 - From VA.gov Demo of Checkbox - Check a box saying I Live in the Same Place as the Veteran. Reuse Address. UI Only Change
-     - AI Va.gov team to let teams know when testing and release to prod can occur
+     - [ ] **AI Va.gov team to let teams know when testing and release to prod can occur**
           - Design completed. In this sprint, ending 6/14. Testing dates on 6/13-6/14
                - Blocker: Issue that is blocking the release to prod, but can test. Select component for state recognizes user input but not programmatic change of the value. Looks like state not selected even though has a value
                     - Conduct front end testing on VA.gov side only.
  
 
 - Sign as a Representative - Flag to Send when Rep Signs in Place of Veteran (no UI side changes)
-     - AI Ramesh to confirm that if VA.gov goes into prod before us it will not break the current functionality (changes at the Mule layer to send to Salesforce layer? Will it break the current Mule flow?)
+     - [ ] **AI Ramesh to confirm that if VA.gov goes into prod before us it will not break the current functionality (changes at the Mule layer to send to Salesforce layer? Will it break the current Mule flow?)**
           - Recommendation for future: CARMA/SPS maintain a schema so that VA.gov can code against
- 
-
-- Ranga to send schema. VA.gov to agree to schema so that CARMA can code to schema - **Completed**
- 
-
-- VA.gov notify when it can be in Staging testing environment, and release to prod date - In Progress
+     - Ranga to send schema. VA.gov to agree to schema so that CARMA can code to schema - **Completed**
+     - [ ] VA.gov notify when it can be in Staging testing environment, and release to prod date - In Progress
  
 
 CARMA/VA.gov Access to Backlog Items
 
-- Heather to give CARMA OIT and SPS access to backlog. OIT and SPS to enter VA.gov US into the backlog. Load supporting docs (technical and Visio). The refine with the whole team
+- [x] **Heather to give CARMA OIT and SPS access to backlog. OIT and SPS to enter VA.gov US into the backlog. Load supporting docs (technical and Visio). The refine with the whole team**
  
 
 **Agenda**
@@ -99,19 +95,19 @@ CARMA/VA.gov Access to Backlog Items
 - Review of Queueing Next Steps
      - SPS and CSP updated the Visio flow
      - Centralize Mail Portal - Patrick spoke with team. Thought processing digital 1010CG if VA.gov retries fail is SUPER possible for ultimate failures on VA.gov side
-     - AI Patrick to look into if VA.gov can store PII PHI
+     - [ ] **AI Patrick to look into if VA.gov can store PII PHI**
      - Next Steps:
           - Meeting on 6/17 will focus purely on the technical discussion. Then, discuss messaging
  
 
 - Review of Statistic/ Metrics Review
      - Breakdown for the reason for the errors - VA.gov to include going forward
-     - AI VA.gov to share GitHub page about errors
+     - [x] **AI VA.gov to share GitHub page about errors**
           - Errors display based on what the user is seeing/the cause of the issue
 - Planned Downtime (Processing and messaging)
      - VA.gov has verbiage for planned outage "We're making some updates to this [application]. We're sorry its not working right now and we hope to be finished by [end of time]. Please check back soon"
      - VA.gov already gets MPI downtime messages. OIT and SPS to share just in case
-          - AI SPS and OIT to discuss if:
+          - [ ] **AI SPS and OIT to discuss if:**
                - Do we want any changes to the message
                - Should they automatically put the message and take down the 1010CG if MPI is planned to be down
      
