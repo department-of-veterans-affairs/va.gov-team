@@ -33,15 +33,16 @@ Results of this study will help us determine if our proof of concept is headed i
 This research will help us answer:
 
 - Will Veterans understand that this messaging on VA.gov is the same as MHV messaging?
-- corresponding with a person or a team
-- How would Veterans expect to get to the health care information?
-What would they expect to see in their My Health if they were logged in? Not logged in?
-Will Veterans be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
-What is the Veteran perception of how the health apartment would fit into how they manage their health care at the VA?
+- Do Veterans expect to be corresponding with a person or a team?
+- How do Veterans expect to use folders, including the custom folders, Drafts, and Deleted folders?
+- Are Veterans able to successfully send and reply to messages?
 
 
 ### Hypothesis
-- xx
+- Veterans will understand that they are interacting with the same messaging system that is now on VA.gov.
+- Veterans will expect to be corresponding with a person.
+- Veterans will have have widely varied expectations and use of folders.
+- Veterans will be able to send and reply to messages with minimal difficulty.
 
 ## Method	
 We will conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research will test both the mobile user experience and the desktop user experience.
