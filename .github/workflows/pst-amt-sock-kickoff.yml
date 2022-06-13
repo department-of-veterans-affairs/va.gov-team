@@ -10,7 +10,7 @@ env:
 jobs:
   debugging_info:
     runs-on: ubuntu-latest
-    name: Determining if issue is a SOCKS request
+    name: Outputting debugging info
     steps:
       - name: Output ENV
         run: env
