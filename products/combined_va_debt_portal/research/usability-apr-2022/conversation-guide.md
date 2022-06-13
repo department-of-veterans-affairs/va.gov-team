@@ -137,11 +137,13 @@ For the next portion of our session, we're going to chat about VA.gov. Please op
 
       * How does this compare to how you'd expect to find this page? 
 
-   * What would you do next?
+I'm now going to post a link in the Zoom chat. _Paste the following link in the chat: https://va.gov/manage-debt-and-bills/_ 
 
-* _If the Veteran doesn't navigate to the tool, direct them to the content page either through the site or by pasting the content page's link (link TBD) in the Zoom chat_ 
+* _If the Veteran doesn't navigate to the tool, direct them to the content page by posting the link in the Zoom chat_ 
 
-   * What would you do next?
+   * What are your thoughts about this page? 
+   
+   * What would you do next to access information about your \[copay bills and/or debts previously mentioned]\?
 
 
 _**Things to watch for:**_
@@ -168,13 +170,11 @@ _**Things to watch for:**_
 
 ## Task two: The combined debt portal -- 25 minutes 
 
-### Scenario 1: Navigated through content page (overview page) 
-
 **1. How would you describe this page?**
 
 **2. What can you do from this page?**
 
-#### If the Veteran only has copay bill(s) OR VA debt(s)
+### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s)
 
 * _If they only have debt(s):_
 
@@ -205,7 +205,7 @@ _**Things to watch for:**_
 
 ---
 
-#### If the Veteran has both copay(s) and debt(s)
+### Scenario 2: The Veteran has both copay(s) and debt(s)
 
 * Let's say you wanted to request financial help for your \[debt type\] debt. What would you do?
 
@@ -227,75 +227,6 @@ _**Things to watch for:**_
       * If they were on the list page, did they notice the callout to other bills/debts? 
 
       * Did they navigate back to the overview page? 
-
----
-
-### Scenario 2: Navigated through resources and support (deep linking)
-
-**1. How would you describe this page?**
-
-**2. What can you do from this page?**
-
-#### If the Veteran only has copay bill(s) OR VA debt(s)
-
-* _If they only have debt(s):_
-
-   * Let's say you wanted to request financial help for your \[debt type\] debt. What would you do?
-
-* _If they only have copay(s):_
-
-   * What do you expect to be able to do in this tool?
-
-   * Let's say you want to download your most recent statement. How would you do that?
-
-
-_**Things to watch for:**_
-
-* How did the participant perceive the list page? 
-
-* Did the participant mention being able to do any tasks that are currently unavailable in the portal? If so, what task(s)?
-
-* If they had debt(s), was the participant able to find how to request financial help?
-
-   * How far into the portal did the participant navigate? (list page, detail page?)
-
-* If they had copay(s), was the participant able to find how to download their most recent statement? 
-
-* Did the participant navigate to the overview page at any point?
-
----
-
-#### If the Veteran has both copay(s) and debt(s)
-
-_Pick one of the following tasks depending on if the participant is looking at the debt list or copay list. **Then, do the other task(s)**._
-
-**Debt list** 
-
-* Let's say you want to request financial help for your \[debt type\] debt. What would you do?
-
-**Copay list**
-
-* I'm going to give you a new scenario: let's say you want to pay your copay balance. What would you do next?
-
-* Let's say you want to download your most recent copay statement. How would you do that?
-
-
-_**Things to watch for:**_
-
-* How did the participant perceive the list page?
-
-* Did the participant mention being able to do any tasks that are currently unavailable in the portal? If so, what task(s)?
-
-* Was the participant able to find how to request financial help, pay their bill, and download the most recent statement?
-
-   * How did the participant navigate to accomplish those tasks? 
-
-      * Did they notice the callout to other bills/debts? 
-
-         * If yes, did they navigate back to the overview page or click the link to the other list page?
-
-* Did the participant navigate to the overview page at any point?
-
 ---
 
 ## Post-task interview -- 3 minutes
