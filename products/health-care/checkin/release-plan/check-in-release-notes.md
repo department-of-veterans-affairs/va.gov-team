@@ -14,7 +14,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ### 06/13/2022
 - Veterans will now be able to trigger the submission of the authentication form when they press the return/enter key; applies to both the Pre-Check-in and Check-in authentication forms
-   - [Ticket 40262](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40262)
+   - [Ticket 40262](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40262)
 
 ### 05/25/2022
 - Veterans will see more detailed informational messages in these scenarios ([detailed release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/update-messaging.md))
