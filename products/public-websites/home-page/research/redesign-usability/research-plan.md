@@ -82,9 +82,9 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 - 2 are service members
 - 6 have NO experience with ANY VA benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
-- 4 have experience with health care *(see Additional Question #1 below)*
-- At least 5 people who plan to use their desktop or laptop computer for the session
-- At least 5 people who plan to use their mobile device for the session *(IF the prototype is responsive enough to work on tablets and phones)*
+- 4 have experience with health care, and optionally with other VA benefits *(see Additional Question #1 below)*
+- 10 people who plan to use their desktop or laptop computer for the session
+- 10 people who plan to use their mobile device for the session *(IF the prototype is responsive enough to work on tablets and phones)*
 - At least 5 people with a cognitive disability (e.g., TBI)
 - At least 5 people who are age 55 or older
 - At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
