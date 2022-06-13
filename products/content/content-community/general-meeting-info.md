@@ -13,4 +13,6 @@ We’ll have a fluid agenda, with these primary goals:
 
 From time to time, we’ll also welcome in folks from other practice areas for shared information and learning.
 
+**Meeting time:** 4th Monday of every month, from 4 to 5 p.m. ET. 
+
 **Note:** If you or someone on your team is in a content-specific role and you need an invite to this meeting, send a slack to Danielle Thierry.
