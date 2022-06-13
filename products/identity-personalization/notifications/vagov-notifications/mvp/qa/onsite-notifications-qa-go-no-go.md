@@ -20,7 +20,10 @@
 ### Have we received sign-off on IA?
 - ...
 
-### Have we tested with our partners on VA Notify?
+### Have we completed end-to-end testing with our partners on VA Notify and DMC?
+- ...
+
+### Have we resolved any blocker issues that came up in end-to-end testing?
 - ...
 
 ### Have we received approval on all content/copy?
