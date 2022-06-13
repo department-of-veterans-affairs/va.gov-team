@@ -4,14 +4,14 @@ Research:
 
 In looking at the new forms system and the documentation by the Forms Platform Spike team there are some areas that the forms system excels, and areas where it falls short. Specific to the profile use case here are some of those pros and cons.
 
-Pros
+**Pros**
 - there is a defined structure for multipage forms and longer forms can be created with sections for each set of fields
 - Validation is handled in the schema and can be automatic based on patterns or validator functions
 - Routing is handled in the form system for navigation and slug creation via React Router
 - The review page is baked in and has its own customization that is possible.
-- The new forms system can override individual pages and review page sections to provide and 'escape hatch' to use new features and component without being bound to existing rules.
+- The new forms system can override individual pages and review page sections to provide and 'escape hatch' to use new features and components without being bound to existing rules.
 
-Cons
+**Cons**
 - for the profile there is no use for multiple pages, and each field in the profile is treated as its own mini form with only a single or small set of fields that are shown at a time.
 - no use for review page as well
 - since the escape hatch for using the new form system is at the page and review page level, that escape hatch wouldn't really work for our needs either.
