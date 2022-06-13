@@ -24,7 +24,7 @@ The purpose of this research is to **get user feedback on the redesigned VA.gov 
 This research will inform iterations to the home page redesign, the need for future research, and release decisions.
 
 ### Research questions
-*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they will be able to do that task, perhaps after signing in.*
+*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they will be able to do that task (some tasks will require signing in).*
 1. Are participants able to easily and quickly complete tasks from the home page?
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
 3. Which parts of the home page do participants use to complete tasks and how?
@@ -113,7 +113,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
     1. Yes
     1. Not sure
     
-1. How well do you speak English?
+1. How comfortable do you feel speaking and reading English? (We are asking so we can include people with different English skills.)
     1. Not at all *(record as "non-native English speaker" and recruit)*
     1. Not well *(record as "non-native English speaker" and recruit)*
     1. Well
