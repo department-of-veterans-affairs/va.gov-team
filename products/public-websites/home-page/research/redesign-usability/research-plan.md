@@ -25,7 +25,7 @@ This research will inform iterations to the home page redesign, the need for fut
 
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they will be able to do that task (some tasks will require signing in).*
-1. Are participants able to easily and quickly complete tasks from the home page?
+1. Are ALL participants able to easily and quickly complete tasks from the home page?
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
 3. Which parts of the home page do participants use to complete tasks and how?
     1. "Sign in or create account" button
