@@ -15,12 +15,49 @@
 
 ## Monday, June 13, 2022
 Last week:
-* URL's for mobile sites and domiciliaries.
+* URL's for mobile sites and domiciliaries. ON HOLD FOR NOW 
+
+Many mobile sites didn't have a URL, didnt want ot break existing URLs, need to determine what the LH role is here, purge or leave in place?
+Task is on OCTO side - take a look at list. Answer quesitons, value of redirects - >>DS get link to list  
+
 * V1 Rollout update 
+
+What is the source of truthe  for all service related data, CMS, ATC, DST 
+Audit was performed - 300 facilites show one service in CMS, but ACT and DST dont have
+1042 show service exists in ATC and DST, CMS shows none 
+  nutrition, podiatry and dentisty 
+  are the cross listed? no not in ATC, which is why we have to get them
+  Next Step: 
+  ATC lists XX services that are not populated in CMS
+  Bring to Jenny H L - VHA >>Dave C discuss with JHL and report back 
+  VHA has conflicting sources 
+  Moving to CMS being SSOT 
+  
+  CMS not in ATC or DST
+  Someone has updated CMS regardless of notation in ATC or DTC
+  Some of this may be related to mobile site. Has there been an apt in last 30 days? if no, we don't provide it.
+  
+  ATC and DST contains WaitTime , Satisfaction
+  
+  What should we use today vs where do we want to move 
+
+https://dsva.slack.com/archives/C02BTJTDFTN/p1654694809562479
+https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+
+OUTAGE:
+CDW Issue? we seem to lost access. We cannont reload Facility DB becuase of changes far upstream. 
+Anyting being sent into LH, is received and staged but can't update. 
+Theory VSSC has made security changes - revoked our auth? What does this apply to? VAH problem but effects abilty to update anything 
+Status should be updated bcuz it's not staged.
+We need a layman's explanation - Why is LH not updating in Facilities API. Last update was Friday. 
+This impacts Drupal users.
+Does LH Team have a plan to communmicate to users? Goal is to fix today, if extends til tomorrow will expedt LH to communicate 
 
 New issues:
 * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
 Adjust facility migrations timing
+Good info shared, in works, planning on kick off CMS migration at 8am
+LH grabs everything at 7:30am
 * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
 Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
 * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406
