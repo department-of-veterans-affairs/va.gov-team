@@ -21,6 +21,9 @@ This is the full text message and resolution for individual errors that can be e
   **Resolution** <br>
   Use the 'Back' button on the application to return to either the Primary Caregiver or Secondary Caregiver sections and add at least one.  Then attempt to submit the application again.
   
+![image](https://user-images.githubusercontent.com/92328831/173354684-b3f8c2b8-b02a-461b-ac6e-0fa4eedee39f.png)
+
+  
 </details>
 
 <details>
