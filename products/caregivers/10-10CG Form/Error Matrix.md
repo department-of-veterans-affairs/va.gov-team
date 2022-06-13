@@ -64,6 +64,8 @@ This is the full text message and resolution for individual errors that can be e
   Review the application to make sure you entered your information correctly.  Then attempt to download the form again.<br>
   If you have trouble downloading your application, call our VA.gov help desk at 1-877-327-0022.  We're here Monday through Friday, 8:00 am.m. to 8:00 p.m. ET.
   
+  ![image](https://user-images.githubusercontent.com/92328831/173359083-ad2da720-8aac-4c31-bdd5-8e7ff41972c6.png)
+
   </details>
   
 <details>
@@ -77,6 +79,8 @@ This is the full text message and resolution for individual errors that can be e
   Review the application to make sure you entered your information correctly.  Then wait a few minutes and attempt to download the form again.<br>
   If you have trouble downloading your application, call our VA.gov help desk at 1-877-327-0022.  We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
   
+  ![image](https://user-images.githubusercontent.com/92328831/173359164-2028a30e-648c-4396-9adc-6f007b4b8c0b.png)
+
   </details>
   
 <details>
