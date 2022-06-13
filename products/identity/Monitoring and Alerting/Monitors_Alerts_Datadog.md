@@ -1,6 +1,6 @@
 # 
 
-Last Update: 09JUN22
+Last Update: 13JUN22
 
 The VSP Identity team utilizes two primary solutions for monitoring and alerting of [va.gov](http://va.gov/) login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions rely on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures the required information the Identity team is captured.
 
@@ -31,6 +31,8 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 - <ins>**Response Process:**</ins>
 For nearly all alerts that could fire you should first check on datadog and view the images that were captured in the failed test. Then check slack for related outages. Often times the [#va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL)
 slack channel will have information about other outages such as DSLogon being down. If any CSP is down, this monitor will often fire, but not every time. The next location to check for issues is within Sentry. Start with [this URL](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=-1&query=is%3Aunresolved+assigned%3A%23vsp-identity&statsPeriod=14d) which filters issues down that are assigned to VSP Identity. The final location to look for anomalies would be in our [grafana SSOe stats dashboard](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&refresh=30m).
+- <ins>**Response Contacts:**</ins>
+As you determine that others may need to be pulled in to help with the remediation of an issue that has led you to this document, you can find all of the most up to date contacts in [this document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md) (requires Github VA Internal Team Access).
 - <ins>**Metric Sources:**</ins>
 These metrics and their initialization can be found starting [at this line of the sessions controller](https://github.com/department-of-veterans-affairs/vets-api/blob/db8635cc65d786ce265c27bcc22b96b415aa028f/app/controllers/v1/sessions_controller.rb#L24). The metrics are handled and incremented in the [login_stats function](https://github.com/department-of-veterans-affairs/vets-api/blob/db8635cc65d786ce265c27bcc22b96b415aa028f/app/controllers/v1/sessions_controller.rb#L265).
 - <ins>**Notifications:**</ins>
