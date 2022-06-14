@@ -38,11 +38,15 @@ There would still be a need to track the open edit views to show the 'currently 
 
 # Potential POC implementation
 
-- Feature Toggle dependent: `profile_next` to denote the 'next' iteration of profile functionality / work. Definitely not tied to this naming, but wondering what feature toggle naming would be more clear.
+- **Feature Toggle dependent**: `profile_next` to denote the 'next' iteration of profile functionality / work. Definitely not tied to this naming, but wondering what feature toggle naming would be more clear.
 	- Worth noting we already have similar naming:
 		- `profile_schema_forms`: Enables SchemaForm based contact info edit forms in profile. This leads me to believe that at one time in the past we didn't actually use the forms system components for the profile?
 		- `profile_enhancements`: Used to show any enhancement for the profile. This flag is used for the new Personal information Fields to show them and split contact information into a different slug/route. This seems overly broad and could be more specific.
 		- `profile_show_demographics`: similar to `profile_enhancements` but just used server side to determine whether to show the 'enhanced` personal information data at all from the api call.
+
+- **Create a substitution for the `ProfileInformationFieldController` to handle the containing logic in a more modular way.
+	- This 600+ loc file is the main entry for any profile field, and it manages the various views being displayed depending on state of edit/data viewing.
+	- The controller also has workarounds added fro various formatting, address validation edge cases, and other code smells.
 
 - **Move a single field over to the new implementation to try out the functionality and test within staging.**
 	- Preferred name probably one of the easier fields to test this with
