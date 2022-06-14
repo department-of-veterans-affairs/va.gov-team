@@ -49,10 +49,10 @@
   * Does LH Team have a plan to communmicate to users? Goal is to fix today, if extends til tomorrow will expect LH to communicate 
 
 * Adjust facility migrations timing
- * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
- * Good info shared, in works, planning on kick off CMS migration at 8am
- * LH grabs everything at 7:30am
- * SOLVED?
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
+  * Good info shared, in works, planning on kick off CMS migration at 8am
+  * LH grabs everything at 7:30am
+  * SOLVED?
 
 * Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
@@ -62,10 +62,10 @@
   * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
   * David to expand sheet to list each service 
  
-DS Notes: 
+DS Notes
 Define domiciliary
-FYI: In the *About this meeting* header on this page, I changed the owner of this meeting from Clarence to myself. Also I think we should change the Standing Agenda.
-  
+FYI In the *About this meeting* header on this page, I changed the owner of this meeting from Clarence to myself. Also I think we should change the Standing Agenda.
+
 
 ## Monday, June 6, 2022
 * URL's for mobile sites and domiciliaries.
