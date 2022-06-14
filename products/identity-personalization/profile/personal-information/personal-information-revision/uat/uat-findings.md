@@ -15,8 +15,8 @@ etc.
 
 ### Approach
 Summary of how you conducted UAT (include method, and number of participants)
-- Link to UAT research plan
-- Link to UAT conversation guide
+- [UAT research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
+- [UAT conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
 ## Findings details
 Findings in UAT are typically bugs that need to be fixed. You can link to relevant GH issues to close the loop and demonstrate the team is addressing the finding, when appropriate.
