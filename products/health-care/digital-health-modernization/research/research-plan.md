@@ -2,7 +2,7 @@
 June 2022
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device, which we are testing as part of this research.
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device, which we are testing as part of this research.
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
