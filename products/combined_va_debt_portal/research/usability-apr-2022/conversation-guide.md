@@ -131,18 +131,25 @@ For the next portion of our session, we're going to chat about VA.gov. Please op
 
 ### Feedback on navigation
 
-* _If the Veteran navigates to the tool's content page OR resources and support article:_ 
+* _If the Veteran navigates to the tool's content page OR a resources and support article:_ 
 
    * What are your thoughts about how you found this page?
 
       * How does this compare to how you'd expect to find this page? 
 
-I'm now going to post a link in the Zoom chat. _Paste the following link in the chat: https://va.gov/manage-debt-and-bills/_ 
+I'm now going to post a link in the Zoom chat. 
 
+_Paste one of the following links in the chat:_ 
+
+* _If they navigated to **the content page**: https://va.gov/manage-debt-and-bills/_ 
+* _If they navigated to a **benefit debt resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/debt-balances_ 
+* _If they navigated to a **copay bill resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/copay-balances_
 * _If the Veteran doesn't navigate to the tool, direct them to the content page by posting the link in the Zoom chat_ 
 
-   * What are your thoughts about this page? 
+
+* What are your thoughts about this page? 
    
+* _If on the content page:_ 
    * What would you do next to access information about your \[copay bills and/or debts previously mentioned]\?
 
 
