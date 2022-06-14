@@ -43,7 +43,7 @@ Etc.
 [Interview transcripts](link here)
 
 ### Tools used for Synthesis
-e.g. mural boards, etc.  
+[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1654721796209/c2e42a35ff78fe654a47f027581d7b20c2546a5f?invited=true&sender=u28f508d646c449cc1afe4873)  
 
 ### Pages and applications used
 Link to pages that were tested
