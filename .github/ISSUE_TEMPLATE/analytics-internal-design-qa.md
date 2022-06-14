@@ -1,7 +1,7 @@
 ---
 name: Analytics Internal - Dashboard Design QA
-about: To request a new dataset be created in BigQuery and/or Domo
-title: Analytics Internal - New Dataset Request Template
+about: To request a new dashboard or cards be configured for usability
+title: Analytics Internal - Dashboard Design QA
 labels: analytics-insights
 
 ---
