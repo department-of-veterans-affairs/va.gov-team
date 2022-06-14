@@ -1,6 +1,6 @@
 # Debt Documentation + FAQs
 The purpose of this document is to capture necessary knowledge needed to understand  Debt related products and the overall landscape of the debt with Veterans Affairs. Typical uses include reference, onboarding and general knowledge transfer for interested parties.  It serves as a "front door" to ALL documentation and resources collected during the course of product design and development and may included links to more specific resources/references.
-**Last Updated : March 2022**
+**Last Updated : June 2022**
 
 ## Table of Contents
 
@@ -92,7 +92,7 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
  - [TBD]()
 
 **Relevant Dates:** 
- - Product Launch Date:XXX
+ - Product Launch Date: Early 2020
  
 #### General Notes about this project:
 
@@ -148,9 +148,9 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 *"Authenticated VA.gov tool enabling Veterans to view VA Education, Compensation, and Pension debts."*
 
  **Product:** 
--  [Debt Portal Product Folder ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
--  [Debt Letters Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/new%20product_outline.md)
- - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Debt Portal Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
+- [Debt Letters Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/new%20product_outline.md)
+- [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
 - [Debt Portal DOMO Dashboard](https://va-gov.domo.com/page/74130670?userId=1724393873)
 - [Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#debt-portal) 
 - [Staging product link](https://staging.va.gov/manage-va-debt/)
@@ -166,24 +166,26 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
  - [TBD]()
  
  **Relevant Dates:** 
- - Product Launch Date: XXX
+ - Product Launch Date: Late 2020
 
 #### General Notes about this project:
 
-* Debt Portal is a product that responds to the Veteran Fair Debt Notice Act; it shows a subsection of the most common debts and their letters.
-* Debt Portal shows the status of a debt through the 'diary code' being sent to us (e.g. "awaiting payment," "your compromise offer was accepted," "on hold," etc.) and tells a Veteran what their next steps are.
-* The stakeholder group for this is VBA's Debt Management Center (Jill's group)
+* **This is the MVP product for what has now become the Combined Debt Portal**
+* The Debt Portal is a product that responds to the Veteran Fair Debt Notice Act; it shows a subsection of the most common debts and their letters.
+* The portal shows the status of a debt through the 'diary code' being sent to us (e.g. "awaiting payment," "your compromise offer was accepted," "on hold," etc.) and tells a Veteran what their next steps are.
+* The stakeholder group for this is VBA's Debt Management Center (Jill is our main stakeholder) 
 * The types of debts shown in the product currently are the ones whose PDFs that are available through VBMS, but we are able to pull data for those other debts.
+* Research during this project uncovered that Veterans expected to find medical copays in the same place as debts, which led to the Combined Debt Portal 
 
 
 ### **FAQs: about the VBA Debt Portal** 
- ***Q: What type of Letters are Veterans able to view and download on the debt portal?***
-		    A: Here is a breakdown of the letters that we are sharing:  
-100 - Inactive debtor initial notification  
-101 - Active debtor debt notification  
-117 - Inactive debtor second notification  
-123 - Inactive debtor final notification  
-130 - debt increase letter
+- ***Q: What type of Letters are Veterans able to view and download on the debt portal?***
+   - A: Examples of [the letters can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/letter-samples). Additionally, here is a breakdown of the letters that we are sharing:  
+     - 100 - Inactive debtor initial notification  
+     - 101 - Active debtor debt notification  
+     - 117 - Inactive debtor second notification  
+     - 123 - Inactive debtor final notification  
+     - 130 - debt increase letter
 
  ***Q: What....?***
   A: Here is the answer
