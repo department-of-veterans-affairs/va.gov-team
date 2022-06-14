@@ -113,4 +113,4 @@ Research guide writing and task development: Ben Brasso<br>
 Participant recruiting & screening: In-person <br>
 Project point of contact: Stephen Barrs ([stephen.barrs@va.gov](mailto:stephen.barrs@va.gov)), Patrick Bateman ([patrick.bateman@va.gov](mailto:patrick.bateman@va.gov)), Lori Pusey ([lori.pusey@agile6.com](mailto:lori.pusey@agile6.com))<br>
 Participants for pilot test: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))<br>
-Note-takers: Lori Pusey 
+Note-takers: Lori Pusey, Kristen McConnell, Nira Datta ([nira.datta@civicactions.com](mailto:nira.datta@civicactions.com))
