@@ -59,41 +59,41 @@ _If you had specific criteria that you recruited for, use this space to explain 
 We talked to **x participants.**
 
 Audience segment:
-* Veterans: 4 
+* Veterans: 6 
 * Caregivers: x 
 * Family members of a Veteran: 1  
 
 
 Gender:
-* Male: x 
+* Male: 1 
 * Female: 1 
 * Transgender: 1 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 3
-* Gay, lesbian, or bisexual: unsure
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 3 (4?)
+* Gay, lesbian, or bisexual: 1+ (unsure)
 
 
 Devices used during study: 
-* Desktop: 4 
+* Desktop: 6 
 * Tablet: x 
 * Smart phone: 1 
-* Assistive Technology: x
+* Assistive Technology: 1
 
 
 Age:
 * 25-34: 1
 * 35-44: 2
 * 45-54: 1
-* 55-64: 1
-* 65+: x
+* 55-64: 2
+* 65+: 1
 * Unknown: x
 
 
 Education:
-* High school degree or equivalent: x
+* High school degree or equivalent: 1
 * Some college (no degree): 2
 * Associate's degree, trade certificate or vocational training: 1
 * Bachelor's degree: 1
-* Master's degree: 1
+* Master's degree: 2
 * Doctorate degree: x
 * Unknown: x
 
@@ -121,9 +121,10 @@ Disability and Assistive Technology (AT):
 * Mobile screen reader: x
 * Magnification/Zoom: x
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
+* Hearing aids: 1
 * Sighted keyboard: x
 * Captions: x
+* Prosethic voice box: 1
 
 
 ### Underserved groups we haven’t talked to 
@@ -132,7 +133,7 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
+* Asian and Native participants
 * Group 2
 * Group 3
 
