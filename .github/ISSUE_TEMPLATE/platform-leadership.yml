@@ -11,11 +11,6 @@ body:
       value: "Let's do a thing!"
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        - [ ] X has been added to Y
-        - [ ] Z has been deleted
   - type: checkboxes
     id: subjects
     attributes:
@@ -26,4 +21,16 @@ body:
         - label: Design
         - label: Engineering
         - label: OCTO-DE
-          required: true
+    validations:
+      required: true
+  - type: textarea
+    id: ac
+    attributes:
+      label: Acceptance Criteria
+      description: How do we know when this goal is complete?
+      value: |
+         - [ ] Feature A has been deployed in production
+         - [ ] Documentation has been updated in Confluence
+    validations:
+      required: true
+
