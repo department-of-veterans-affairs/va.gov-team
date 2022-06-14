@@ -54,7 +54,7 @@ You can get started by using the check-in poster.
 - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate your experience with getting checked in? 
 - Why did you choose this rating? 
 - What are your overall impressions of check-in? 
-- What did you like about check-in? What did you dislike about it? 
+- What went well? What didn’t go so well?
 - What could make it better? 
 - What would you call the experience you completed today? 
 - What wording would you expect to be used to describe this experience? E.g., check-in, mobile check-in, e-check-in, online check-in, etc. 
@@ -66,7 +66,7 @@ You can get started by using the check-in poster.
 - Do you recall how many days ago you completed it? 
 - Do you remember being able to complete pre-check-in or did you run into any issues?  
 - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate your experience with pre-check-in? 
-- What do you remember liking or disliking about it?
+- What do you remember went well? What didn’t go so well? 
 - What would make it better? 
 - What overall impact do you think pre-check-in has on your check-in for today? 
 
