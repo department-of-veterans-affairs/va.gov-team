@@ -61,8 +61,8 @@ Before we start, a few things I want to mention:
 - How often do Veterans need help with check-in? 
 - What common issues do Veterans run into with check-in? 
 - How often do Veterans check-in on their own without first coming up to the desk? 
-- Overall, what do you like about check-in? 
-- What do you dislike about check-in? 
+- Overall, what is going well with check-in? 
+- What isn’t going so well? 
 - What would you change about it? 
 - On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile check-in to another clinic? 
 
@@ -75,8 +75,8 @@ Before we start, a few things I want to mention:
 - How has pre-check-in impacted Veterans? 
 - Have Veterans reported any specific feedback to you? 
 - What common issues do Veterans run into with pre-check-in? 
-- Overall, what do you like about pre-check-in? 
-- What do you dislike about pre-check-in? 
+- Overall, what is going well with check-in? 
+- What isn’t going so well?  
 - What would you change about it? 
 - On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile pre-check-in to another clinic? 
 
