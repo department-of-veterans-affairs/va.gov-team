@@ -44,7 +44,7 @@ The web app appointments V2 index makes three different requests, depending on w
 
 This will involve:
 - creating a feature flag that will determine how the data is fetched and serialized
-- creating new serializers for each of the four appointment types: VA appointments, CC appointments, VA appointment requests, and CC appointment requests
+- creating new adapters for each of the four appointment types: VA appointments, CC appointments, VA appointment requests, and CC appointment requests
 - refactoring the appointments proxy. This service class already does too much. At the very least, we should extract all v2 functionality into a new service class.
 - using the new VAOS V2 service classes to fetch the data.
 - Because the mobile app does not separate appointments by type like the web app does and instead interleaves them into a single list, we will need to make all of [these](#web-app-index-functionality) requests up-front with slight modifications. We will need to request:
@@ -57,11 +57,11 @@ We can add use the same feature flag to toggle between V0 and V2. VAOS has writt
 
 ### Backend: Cleanup
 
-Once we've switched to V2,established that everything is stable, and confirmed that we will not need to roll back, we can get rid of some old code, including the existing appointments proxy, models, serializers, and adapters.
+Once we've switched to V2, established that everything is stable, and confirmed that we will not need to roll back, we can get rid of some old code, including the existing appointments proxy, models, serializers, and adapters.
 
 ## Optional Future Work
 
-As mentioned, we have to maintain the data schema of our existing appointments index in order to support existing mobile app versions. However, that means that we have to translate all four appointment types through adapters on the back end, then attempt to match front end web app functionality using data structures that do not match what the web app uses. This has made our appointments features more difficult to understand, bug-prone, and difficult to communicate about. In order to more easily match the web app, it may be worth switching to the same data schema moving forward. The back end for this is relatively simple, but it will require a bit more work on the front end. The front end team will need to decide whether the effort of making this change outweighs the carrying cost of this tech debt.
+As mentioned, we have to maintain the data schema of our existing appointments index in order to support existing mobile app versions. However, that means that we have to translate all four appointment types through adapters on the back end, then attempt to match front end web app functionality using data structures that do not match what the web app uses. This has made our appointments features bug-prone and more difficult to understand and communicate about. In order to more easily match the web app, it may be worth switching to the same data schema moving forward. The back end for this is relatively simple, but it will require a bit more work on the front end. The front end team will need to decide whether the effort of making this change outweighs the carrying cost of this tech debt.
 
 ### Backend: V2 Appointments Index
 
