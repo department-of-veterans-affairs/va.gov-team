@@ -3,8 +3,8 @@
 <details><summary>About this meeting</summary>
 
 - Mondays 3-3:30pm ET 
-- Meeting owner: Clarence Maeng
-- Facilitator: Clarence Maeng
+- Meeting owner: David Shannon
+- Facilitator: David Shannon
 - Standing agenda: 
   - Migrations
     - From VAST
@@ -14,58 +14,57 @@
 </details>
 
 ## Monday, June 13, 2022
-Last week:
+*Last week*
 * URL's for mobile sites and domiciliaries. ON HOLD FOR NOW 
-
-Many mobile sites didn't have a URL, didnt want ot break existing URLs, need to determine what the LH role is here, purge or leave in place?
-Task is on OCTO side - take a look at list. Answer quesitons, value of redirects - >>DS get link to list  
+  *  Many mobile sites didn't have a URL, we didn't want to break existing URLs, need to determine what the LH role is here, purge or leave in place?
+  *  Task is on OCTO side - take a look at list. Answer the questions, what is the value of redirects 
+  *  https://dsva.slack.com/archives/C02BTJTDFTN/p1654694809562479
 
 * V1 Rollout update 
+  * What is the source of truth for all service related data, CMS, ATC, DST 
+  * Audit was performed - 300 facilites show a  service in CMS, which ACT and DST dont have
+  * 1042 show service exists in ATC and DST, where CMS shows none 
+  * Note: DST tracks only: nutrition, podiatry and dentisty 
+  * Question: Are they cross listed? A: No not in ATC, which is why we have to get them out of CMS
+  * Next Step: 
+    * ATC lists XX services that are not populated in CMS
+    * Dave C to bring to Jenny H L (VHA) and report back 
+    * VHA has conflicting sources 
+    * Moving to CMS being SSOT 
+    * Regarging CMS not in ATC or DST
+     * Someone has updated CMS regardless of notation in ATC or DTC
+     * Some of this may be related to mobile site. Has there been an apt in last 30 days? if not, we don't provide it 
+     * ATC and DST contains WaitTime , Satisfaction values 
+     * Consider what we should we use today vs where do we ultimately want to move?
+     * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
 
-What is the source of truthe  for all service related data, CMS, ATC, DST 
-Audit was performed - 300 facilites show one service in CMS, but ACT and DST dont have
-1042 show service exists in ATC and DST, CMS shows none 
-  nutrition, podiatry and dentisty 
-  are the cross listed? no not in ATC, which is why we have to get them
-  Next Step: 
-  ATC lists XX services that are not populated in CMS
-  Bring to Jenny H L - VHA >>Dave C discuss with JHL and report back 
-  VHA has conflicting sources 
-  Moving to CMS being SSOT 
-  
-  CMS not in ATC or DST
-  Someone has updated CMS regardless of notation in ATC or DTC
-  Some of this may be related to mobile site. Has there been an apt in last 30 days? if no, we don't provide it.
-  
-  ATC and DST contains WaitTime , Satisfaction
-  
-  What should we use today vs where do we want to move 
+*New issues*
+* Recent outage
+  * CDW Issue? we seem to have lost access. We cannont reload Facility DB because of changes far upstream. 
+  * Anyting being sent into LH, is received and staged but can't update. 
+  * Theory: VSSC has made security changes - revoked our auth? What does this apply to? VAH problem but effects abilty to update anything 
+  * Facility Status should be updated bcuz it's not staged.
+  * We need a layman's explanation - Why is LH not updating in Facilities API. Last update was Friday. 
+  * This impacts Drupal users.
+  * Does LH Team have a plan to communmicate to users? Goal is to fix today, if extends til tomorrow will expect LH to communicate 
 
-https://dsva.slack.com/archives/C02BTJTDFTN/p1654694809562479
-https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+* Adjust facility migrations timing
+ * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
+ * Good info shared, in works, planning on kick off CMS migration at 8am
+ * LH grabs everything at 7:30am
+ * SOLVED?
 
-OUTAGE:
-CDW Issue? we seem to lost access. We cannont reload Facility DB becuase of changes far upstream. 
-Anyting being sent into LH, is received and staged but can't update. 
-Theory VSSC has made security changes - revoked our auth? What does this apply to? VAH problem but effects abilty to update anything 
-Status should be updated bcuz it's not staged.
-We need a layman's explanation - Why is LH not updating in Facilities API. Last update was Friday. 
-This impacts Drupal users.
-Does LH Team have a plan to communmicate to users? Goal is to fix today, if extends til tomorrow will expedt LH to communicate 
+* Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
 
-New issues:
-* https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
-Adjust facility migrations timing
-Good info shared, in works, planning on kick off CMS migration at 8am
-LH grabs everything at 7:30am
-* https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
-Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
-* https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406
-Define plan to address LH facility service audit
-https://dsva.slack.com/archives/C02BTJTDFTN/p1654864140104429
+* Define plan to address LH facility service audit
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406 
+  * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+  * David to expand sheet to list each service 
  
 DS Notes: 
 Define domiciliary
+FYI: In the *About this meeting* header on this page, I changed the owner of this meeting from Clarence to myself. Also I think we should change the Standing Agenda.
   
 
 ## Monday, June 6, 2022
