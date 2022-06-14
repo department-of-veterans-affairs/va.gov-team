@@ -36,7 +36,7 @@ To reduce complexity of using a dynamic schema and injecting a mini form instanc
 
 There would still be a need to track the open edit views to show the 'currently editing' alert, but I think that overall we could eliminate/simplify the need for things like the schema objects, overly complex [ProfileInformationFieldController](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/user/profile/vap-svc/components/ProfileInformationFieldController.jsx) component, and other technical debt that is difficult to reason through for engineers.
 
-# Potential POC implementation
+## Potential POC implementation
 
 - **Feature Toggle dependent**: `profile_next` to denote the 'next' iteration of profile functionality / work. Definitely not tied to this naming, but wondering what feature toggle naming would be more clear.
 	- Worth noting we already have similar naming:
@@ -44,9 +44,10 @@ There would still be a need to track the open edit views to show the 'currently 
 		- `profile_enhancements`: Used to show any enhancement for the profile. This flag is used for the new Personal information Fields to show them and split contact information into a different slug/route. This seems overly broad and could be more specific.
 		- `profile_show_demographics`: similar to `profile_enhancements` but just used server side to determine whether to show the 'enhanced` personal information data at all from the api call.
 
-- **Create a substitution for the `ProfileInformationFieldController` to handle the containing logic in a more modular way.
+- **Create a substitution for the `ProfileInformationFieldController` to handle the containing logic in a more modular way.**
 	- This 600+ loc file is the main entry for any profile field, and it manages the various views being displayed depending on state of edit/data viewing.
 	- The controller also has workarounds added fro various formatting, address validation edge cases, and other code smells.
+	- We could keep the existing controller component, and move single fields to Formik at first, and look at this refactor a bit down the road after a POC, but I feel like this main component could use the most refactoring.
 
 - **Move a single field over to the new implementation to try out the functionality and test within staging.**
 	- Preferred name probably one of the easier fields to test this with
@@ -73,6 +74,13 @@ There would still be a need to track the open edit views to show the 'currently 
 
 
 
+## Long term considerations around profile
+
+- **Unify code locations**
+	- `src/platform/user/vap-svc` houses some of the 'higher level' code, but still imports things like `ProfileInformationEditView` and utilities from the application folder
+	- `src/applications/personalization/profile` imports from several places, and ideally we could eliminate cross imports as is recommended by the platform team.
+		- Currently the whole personalization application imports from these locations: `Debt-letters, hca, claims-status, facility-locator, static-pages`
+		
 ---
 
 # POC branch
