@@ -6,10 +6,10 @@
         - Will we use a FF or a FB?
         - Is this in the Planned Releases list yet?
         - Can we release this sprint?
-    - Pick a release date that is at least 1 weeks in advance
+    - Pick a release date that is at least 1 week in advance
     - Coordinate the release with UX & Product
 - For a bug or tech debt
-    - Let us know in the release channel when it gets merged
+    - Let everyone know in the release channel when it gets merged
  
  ## Releasing
 - Validation
