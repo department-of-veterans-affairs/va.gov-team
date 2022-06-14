@@ -31,26 +31,18 @@ Results of this study will help us determine if our proof of concept is headed i
 
 ### Research questions
 This research will help us answer:
+- Are Veterans able to find who they want to message and understand who they are corresponding with?
+- Based on the prototype do Veterans understand that secure messaging is not for use in emergencies? What would they do in an emergency?
+- How do Veterans find and organize their messages?
+- Are Veterans able to compose and reply to messages?
 
-- Will Veterans understand that this messaging on VA.gov is the same as MHV messaging?**
-- Do Veterans expect to be corresponding with a single person or with a team?
-- How do Veterans expect to use folders, including the custom folders, Drafts, and Deleted folders?
-- Are Veterans able to successfully send and reply to messages?
-- Will Veterans understand the purpose of SMand that it should not be used for emergency communication?
-- Are Veterans able to successfully find messages using the search and sort functionalities?
-- What do Veterans expect when they send a SM? We say we'll respond in 3 days.
-- What would a Veteran do in a medical emergency? Call 911?
-- What about a non-medical emergency? Call the Veterans Crisis Line?
-- How do Veterans decipher the name of the triage group and if there are issues there?
-- How do Veterans organize and find messages?
 
 ### Hypothesis
-- Veterans will understand that they are interacting with the same messaging system that is now on VA.gov.
 - Veterans will expect to be corresponding with a person through secure messaging.
-- Veterans will have have widely varied expectations and use of folders.
-- Veterans will be able to send and reply to messages with minimal difficulty.
 - Veterans will understand that SM is a not a replacement for critical/emergency services.
-- Veterans will be able to access the search/sort functions with minimal effort.
+- Veterans will have have widely varied methods for finding and organzing messages.
+- Veterans will be able to send and reply to messages with minimal difficulty.
+
 
 ## Method	
 We will conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research will test both the mobile user experience and the desktop user experience.
@@ -80,11 +72,12 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 - At least 10 participants who are NOT mobile users
 
 **Secondary criteria (nice-to-haves)**
+- up to 7 participants who not have VA healthcare
+- up to 7 participants who do not use My HealtheVet
 - 11 participants over the age of 55 years
 - 11 participants with cognitive disabilities
 - 6 participants from rural locations
 - 6 participants without a college degree
-- x participants with other than honorable discharge 
 - 4 participants of immigrant origin
 - 3 participants who identify as women
 - 1 expat participant
@@ -127,7 +120,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Tracey Mulrooney, tracey.mulrooney@va.gov
 - Participant(s) for pilot test: TBD	
 - Note-takers: Please provide from Perigean if possible
-- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Bobby Bailey, Robert.m.bailey@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com; Patrick Vinograd, patrick@adhocteam.us; Christopher Froehlich, Christopher.Froehlich@va.gov, Marci McGuire, marci.mcguire@adhocteam.us; Mikki Northius, mikki@adhocteam.us; Arienne Walters, arienne.walters@bylight.com; Bob Lewis, Bob.Lewis@bylight.com; Lichelle Bain, lichelle.bain@va.gov; Bryan Riley, bryan.riley@va.gov; Patty Henry, patricia.henry@va.gov; 
+- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com; Patrick Vinograd, patrick@adhocteam.us; Christopher Froehlich, Christopher.Froehlich@va.gov, Marci McGuire, marci.mcguire@adhocteam.us; Mikki Northius, mikki@adhocteam.us; Arienne Walters, arienne.walters@bylight.com; Bob Lewis, Bob.Lewis@bylight.com; Lichelle Bain, lichelle.bain@va.gov; Bryan Riley, bryan.riley@va.gov; Patty Henry, patricia.henry@va.gov; Damjan Petrovski, Damjan.petrovski@bylight.com; Michael D. Moyer, Michael.Moyer@va.gov; Oleksii Morgun, Oleksii.Morgun@va.gov; Jamil Naeem, Jamil.Naeem@va.gov; Kolby Balch, kolby.balch@blueguardianit.com; Matt Wright, matt.wright@blueguardianit.com; Robert Rodriguez, Roberto.Rodriguez@bylight.com;
 
 
 
