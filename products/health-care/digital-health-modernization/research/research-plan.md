@@ -69,6 +69,7 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 - At least 10 participants who regularly use Secure Messaging
 - Up to 10 participants that do not use Secure Messaging
 - At least 10 participants who are mobile users
+- At least 10 participants who are NOT mobile users
 
 **Secondary criteria (nice-to-haves)**
 - 11 participants over the age of 55 years
