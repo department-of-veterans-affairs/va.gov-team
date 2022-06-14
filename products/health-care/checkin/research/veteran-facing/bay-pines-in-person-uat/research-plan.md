@@ -91,7 +91,7 @@ We will work with the Bay Pines team at each clinic to determine the best approa
 
 Our aim is to intercept at least 5-10 Veterans at each clinic before check-in occurs. We will also observe Veterans to see how check-in works without our interception. 
 
-Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our conversation guide (in development) to measure their perceptions of check-in, pre-check-in, etc. and document responses, comments, improvements, etc.  
+Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/conversation-guide.md) to measure their perceptions of check-in, pre-check-in, etc. and document responses, comments, improvements, etc.  
 
 When time permits, will also incorporate in-person usability testing on the travel reimbursement prototypes with Veterans that are familiar with the VA’s Beneficiary Travel Self Service System (BTSSS).
 
@@ -104,7 +104,7 @@ Bay Pines CBOCs
 
 ### Research Materials
 
-Conversation guide (in development) <br>
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/conversation-guide.md) <br>
 [Conversation guide brainstorm for beneficiary travel (Mural)](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1654533159772/a1b103ce14dee9165bc524443569ce962daca601?sender=u83bc52d7fa73658f84f27755)<br>
 [Beneficiary Travel Reimbursement Prototype #1](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play)<br>
 [Beneficiary Travel Reimbursement Prototype #2](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/52Qv7ed/play)    
