@@ -30,7 +30,7 @@ jobs:
               owner: 'department-of-veterans-affairs',
               repo: 'devops',
               workflow_id:'pst-amt-roster-check.yml',
-              ref: 'main',
+              ref: 'master',
               inputs: {
                 issue_id: "${{ env.ISSUE_ID }}"
               },
