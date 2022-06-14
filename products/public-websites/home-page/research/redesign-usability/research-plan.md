@@ -8,8 +8,9 @@ The current VA.gov website was launched in 2018 but hadn't been the subject of m
 ### OCTO Objectives 
 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme): 
-- Veterans, caregivers, family members, and service members are able to access tools and processes quickly and easily to learn about and manage their benefits
-- Veterans, caregivers, family members, and service members have increased access to self-service tools through an elevated login funnel
+1. Veterans and their families can apply for all benefits online 
+1. Veterans can manage their health services online 
+1. Logged-in users can easily track applications, claims, or appeals online
 
 ### Veteran Journey
 Use of the VA.gov home page fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) throughout 
