@@ -11,6 +11,11 @@
  - item
  </details>
  
+ ## June 14, 2022
+
+### Agenda
+- Cerner cutovers (Roseburg and White City)
+
  ## May 31, 2022
 
 ### Agenda
