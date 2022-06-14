@@ -183,9 +183,11 @@ Ok, now that we've finished all the tasks and have a little extra time, I have o
 
 ## Post-Task Interview - 2-3 minutes
 
-Thank you so much! That was everything on the page I wanted to try out with you today. This has been so helpful for our team. 
+- Thank you so much! That was everything on the page I wanted to try out with you today. This has been so helpful for our team. 
 
-Do you have any feedback on what we reviewed in this session or questions for me?
+- Do you have any feedback on what we reviewed in this session or questions for me?
+
+- And so you are aware, this feature will be temporarily removed from your Profile now until it is fully launched on VA.gov, so if you don't see this Personal information page with your information next time you log on, don't worry, it will be back once everything is implemented.
 
 ## Thank-You and Closing - 1 minute
 
