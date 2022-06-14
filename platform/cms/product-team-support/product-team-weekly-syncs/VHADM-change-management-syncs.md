@@ -5,12 +5,22 @@
 - Thursday 3-4:00 pm ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Denise Eisner
-- Attendees: Kevin Walsh, Suzanne Gray, David Conlon, Jeffrey Grandon, Steve Tokar
+- Attendees: Kevin Walsh, Suzanne Gray, David Conlon, Jeffrey Grandon, Steve Tokar, 
 </details>
 
 <details><summary>Parking lot</summary>
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
+
+## June 15, 2022
+
+### Facility COVID Status
+
+- Update on access to the reports: continue request fulfillment for now (Kevin)
+
+### Facility service data
+
+- (candidate
 
 ## June 1, 2022
 
