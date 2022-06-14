@@ -72,7 +72,7 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 - At least 10 participants who are NOT mobile users
 
 **Secondary criteria (nice-to-haves)**
-- up to 7 participants who not have VA healthcare
+- up to 7 participants who do not have VA healthcare
 - up to 7 participants who do not use My HealtheVet
 - 11 participants over the age of 55 years
 - 11 participants with cognitive disabilities
