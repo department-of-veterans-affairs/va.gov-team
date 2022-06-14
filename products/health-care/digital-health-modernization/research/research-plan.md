@@ -23,7 +23,7 @@ This research fits into these points of a Veteran's Journey:
 ## Research Goals	
 The goals of this study are to:
 - identify major usability or content issues with the current concept of secure messaging in MHV on VA.gov
-- determine if Veterans understand that secure messaging is now part of MHV on VA.gov
+- understand how Veterans use secure messaging
 
 
 ### Outcome
