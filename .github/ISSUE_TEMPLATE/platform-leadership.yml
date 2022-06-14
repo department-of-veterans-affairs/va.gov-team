@@ -4,15 +4,17 @@ labels: ["platform-leads"]
 body:
   - type: textarea
     id: description
+    validations:
+      required: true
     attributes:
       label: Description
       description: Please describe the issue.
       placeholder: Tell us what the issue is!
       value: "Let's do a thing!"
-    validations:
-      required: true
   - type: checkboxes
     id: subjects
+    validations:
+      required: true
     attributes:
       label: Subject Areas
       description: What subject areas apply to this issue?
@@ -21,16 +23,14 @@ body:
         - label: Design
         - label: Engineering
         - label: OCTO-DE
-    validations:
-      required: true
   - type: textarea
     id: ac
+    validations:
+      required: true
     attributes:
       label: Acceptance Criteria
       description: How do we know when this goal is complete?
       value: |
          - [ ] Feature A has been deployed in production
          - [ ] Documentation has been updated in Confluence
-    validations:
-      required: true
 
