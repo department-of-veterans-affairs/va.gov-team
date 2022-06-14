@@ -2,7 +2,7 @@
 June 2022
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, MyHealtheVet (MHV), including Secure Messaging, will be replatformed to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device, which we are testing as part of this research.
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device, which we are testing as part of this research.
 
 You can read more about our Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -32,17 +32,25 @@ Results of this study will help us determine if our proof of concept is headed i
 ### Research questions
 This research will help us answer:
 
-- Will Veterans understand that this messaging on VA.gov is the same as MHV messaging?
-- Do Veterans expect to be corresponding with a person or a team?
+- Will Veterans understand that this messaging on VA.gov is the same as MHV messaging?**
+- Do Veterans expect to be corresponding with a single person or with a team?
 - How do Veterans expect to use folders, including the custom folders, Drafts, and Deleted folders?
 - Are Veterans able to successfully send and reply to messages?
-
+- Will Veterans understand the purpose of SMand that it should not be used for emergency communication?
+- Are Veterans able to successfully find messages using the search and sort functionalities?
+- What do Veterans expect when they send a SM? We say we'll respond in 3 days.
+- What would a Veteran do in a medical emergency? Call 911?
+- What about a non-medical emergency? Call the Veterans Crisis Line?
+- How do Veterans decipher the name of the triage group and if there are issues there?
+- How do Veterans organize and find messages?
 
 ### Hypothesis
 - Veterans will understand that they are interacting with the same messaging system that is now on VA.gov.
 - Veterans will expect to be corresponding with a person through secure messaging.
 - Veterans will have have widely varied expectations and use of folders.
 - Veterans will be able to send and reply to messages with minimal difficulty.
+- Veterans will understand that SM is a not a replacement for critical/emergency services.
+- Veterans will be able to access the search/sort functions with minimal effort.
 
 ## Method	
 We will conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research will test both the mobile user experience and the desktop user experience.
@@ -96,18 +104,18 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from June 22 to 28th
+- We plan to run sessions from June 24 to 29th, with July 5th as an additional day if necessary
 
 ### Length of sessions
 1 hour sessions with 15 minute breaks in between (if possible)
 
 ### Availability
 
-- Wednesday 6/22: 8am - 5pm ET
-- Thursday 6/23: 8am - 5pm ET
 - Friday 6/24: 8am - 3pm ET
 - Monday 6/27: 8am - 5pm ET
 - Tuesday 6/28: 8am - 5pm ET
+- Wednesday 6/29: 8am - 5pm ET
+- Tuesday 7/05: 8am - 5pm ET
 
 
 	
@@ -119,6 +127,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Tracey Mulrooney, tracey.mulrooney@va.gov
 - Participant(s) for pilot test: TBD	
 - Note-takers: Please provide from Perigean if possible
-- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Bobby Bailey, Robert.m.bailey@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com; Patrick Vinograd, patrick@adhocteam.us; Christopher Froehlich, Christopher.Froehlich@va.gov, Marci McGuire, marci.mcguire@adhocteam.us; Mikki Northius, mikki@adhocteam.us
+- Observers: Tracey Mulrooney, tracey.mulrooney@va.gov; Meg Peters, meg.peters@va.gov; Gavin Quinn, gavin.quinn@bylight.com; Lexi Wunder, alexia.wunder@bylight.com; Bobby Bailey, Robert.m.bailey@bylight.com; Jessica Robertson, Jessica.robertson@bylight.com; Patrick Vinograd, patrick@adhocteam.us; Christopher Froehlich, Christopher.Froehlich@va.gov, Marci McGuire, marci.mcguire@adhocteam.us; Mikki Northius, mikki@adhocteam.us; Arienne Walters, arienne.walters@bylight.com; Bob Lewis, Bob.Lewis@bylight.com; Lichelle Bain, lichelle.bain@va.gov; Bryan Riley, bryan.riley@va.gov; Patty Henry, patricia.henry@va.gov; 
+
 
 
