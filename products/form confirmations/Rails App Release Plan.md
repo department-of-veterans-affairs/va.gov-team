@@ -5,7 +5,7 @@
 ## Phase I: Staging Release (User facing environment)
 
 ### Planning:
-- Desired date range: [date - date] or [duration]
+- Desired date range: June 15th 
 - Can we release the application to staging and test while keeping the old application, or do we have to overwrite?
 - How will existing user logins be cutover?
      - How will Github authorization work?
