@@ -17,6 +17,11 @@
 - What is the rollback plan?
 - What is the redirect URI that we need to provide the SSOi team?  
 
+Slack Channel Announcement:
+Place it on #va-notify-public
+ADVANCED NOTIFICATION: The VA Notify Self Service User Interface will have a maintenance window on Wednesday, June 15th from X to X. You may experience downtime for the website during this window.
+
+
 ### Results:
 - Number of users: x
 - Number of bugs identified / fixed: x/x
