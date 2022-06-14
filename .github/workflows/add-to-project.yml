@@ -15,6 +15,6 @@ jobs:
     steps:
       - uses: actions/add-to-project@main
         with:
-          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/623
+          project-url: https://github.com/orgs/department-of-veterans-affairs/projects/623/views/1
           github-token: ${{ secrets.GITHUB_TOKEN }}
           labeled: platform-leadership
