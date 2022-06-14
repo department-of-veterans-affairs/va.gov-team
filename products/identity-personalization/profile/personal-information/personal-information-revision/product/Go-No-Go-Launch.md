@@ -21,5 +21,7 @@
 **Samara/Sharon: Are analytics being properly recorded and showing in the GA widget(s)?**
 - Answer: 
 
+**Everyone: Does anyone have any concerns about us launching this feature to 25% of users after this meeting?**
+- Answer:
 
 
