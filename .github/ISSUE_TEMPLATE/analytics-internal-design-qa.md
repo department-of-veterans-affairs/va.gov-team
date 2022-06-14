@@ -13,7 +13,7 @@ As we roll out new edge case dashboards, other non-standard dashboards, or new c
 
 ## Resources
 - _(Add link to dashboard here)_
-- Confluence instructions: [How to Design QA a Domo dashboard]([url](https://vfs.atlassian.net/wiki/spaces/AT/pages/2216002036/How+to+Design+QA+a+Domo+dashboard))
+- **Confluence instructions:** [How to design QA a Domo dashboard](https://vfs.atlassian.net/wiki/spaces/AT/pages/2216002036/How+to+Design+QA+a+Domo+dashboard)
 
 ## Instructions
 
@@ -30,7 +30,7 @@ Is there anything else the person conducting the Design QA needs to know about s
 
 #### For person conducting QA
 - Log into the `Participant Tester` account in Domo for all tests.
-- Copy "Usability checklist" table from [How to Design QA a Domo dashboard]([url](https://vfs.atlassian.net/wiki/spaces/AT/pages/2216002036/How+to+Design+QA+a+Domo+dashboard)).
+- Copy "Usability checklist" table from [How to design QA a Domo dashboard](https://vfs.atlassian.net/wiki/spaces/AT/pages/2216002036/How+to+Design+QA+a+Domo+dashboard).
 - Make any modifications to checklist specific to this dashboard.
 - Complete all dashboard, section, and card-level checks.
   - If check is passed, paste "Pass ✅" in the Pass/Fail column
