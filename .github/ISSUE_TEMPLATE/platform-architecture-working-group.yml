@@ -24,7 +24,6 @@ body:
       description: "What is the type of the presentation?"
       options:
         - "ADR"
-        - "RFC"
         - "Other"
     validations:
       required: true
