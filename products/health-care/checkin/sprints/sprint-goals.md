@@ -9,7 +9,8 @@
     - Q:Do we need prod validation?
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
     -  Complete all work (including product guides)
-    - **Release on 6/27 or 28**
+        - Do we need a ticket for BE work?
+    - **Release on 6/27 or 28**    
     - Q for SB: how do we get the word out?
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Continue moving performance testing forward 
@@ -37,7 +38,8 @@
         - Decide on scope for multilingual study
     - Complete August research plan & convo guides
 - Tech Debt
-    - Q: Do we need to pull in anything?
+    - [Fix our Review Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42857)
+    - Q: Do we need to pull in anything else?
     
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
