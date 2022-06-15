@@ -13,7 +13,7 @@ VAOS will be switching to V2 appointments soon. The V0 API used by the mobile ap
 
 ### Index
 
-Because we must maintain older versions of the mobile app, we will need to maintain the V0 appointments index endpoint with its current data schema. [Changes needed are described below.](#backend-adapt-vaos-v2-appointments-to-v0-appointments-schema)
+Our V0 appointments index must be updated to use the V2 appointments service while maintaining the current schema for older versions of the client. [Changes needed are described below.](#backend-adapt-vaos-v2-appointments-to-v0-appointments-schema)
 
 ### Create
 
@@ -53,7 +53,15 @@ This will involve:
 
 ### Backend: V2 Appointment Cancel
 
-We can add use the same feature flag to toggle between V0 and V2. VAOS has written a V2 update endpoint that handles cancel functionality. The web app appears to use that endpoint for cancelling both appointments and appointment requests. We should be able to do the same.
+We can use the same feature flag to toggle between V0 and V2. VAOS has written a V2 update endpoint that handles cancel functionality. The web app appears to use that endpoint for cancelling both appointments and appointment requests. We should be able to do the same.
+
+### Backend: Coordinate Deploy
+
+- Coordinate with VAOS team to determine when this is happening.
+- Turn on feature flag in production when V2 goes live.
+- Test on staging.
+- Monitor Sentry and Datadog and respond to any errors or concerns that arise.
+- Work with VAOS on any rollbacks that may arise.
 
 ### Backend: Cleanup
 
