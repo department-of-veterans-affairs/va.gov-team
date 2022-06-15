@@ -107,33 +107,41 @@ Before we start, a few things I want to mention:
 
 
 ## Reply to a message - 5 - 10 minutes 
-- 
+- If you wanted to send your provider a response to this message how would you do that?
+- What are you seeing here?
 - How long would you expect it would take to get a response to your message?
-- Do you ever start writing a message but not finish it? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
+- Who do you think would respond to your message?
 
 ### Things to watch for:
-- Should messages have a signature?
-- Form fields: Are there error scenarios we should test?
-- Do Veterans want a signature field? 
-- Work on attach message UX + design that alert.
 - What do users mean by “provider”? An individual or a group?
 - Figure out replying to the practice/team versus replying to an individual.
 
 
 ## Send a new message - 5 - 10 minutes
+- If you had a new question for your provider how would you go about reaching out to them?
+- What kind of concerns would you send messages about and are there cases when you should not send a secure message?
+- How do you decide who to send your message to?
+- Would you ever want to edit your list of providers? How would you expect to do that?
+- Who would you expect the message to say that it is from?
+- Do you ever add signatures to your messages? (If so) Would you like to be able to do that here? What would you include?
+- Which category would you pick for your message? How do you decide which category to choose?
 - How long would you expect it would take to get a response to your message?
+- Do you ever send documents to your provider? How would you do that?
+- Which fields so you have to fill out in order to send your message?
+- If you made some kind of mistake in filling out your message how would you expect to find that out?
+- Do you ever start writing a message but not finish it? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
+- After you finished writing your message what would you do? 
+- What would you expect to happen next?
 
 ### Things to watch for:
-- Compose and Reply: Should messages have a signature?
-- Compose & Reply: Add text telling user it could take 3 days to get a reply.
+- Should messages have a signature?
+- Which send action button do they click on?
+- Add text telling user it could take 3 days to get a reply.
 - Form fields: Are there error scenarios we should test?
-- Compose / Message preferences: Do Veterans want a signature field?
 - Compose and Reply: Work on attach message UX + design that alert. 
-- Multi screens: What do users mean by “provider”? An individual or a group?
 - Compose: Would changing how the “To” field works confuse Veterans?  
-- Multi screens: What do users mean by “provider”? An individual or a group?
+- What do users mean by “provider”? An individual or a group?
 - Compose and Reply: Can you edit the list of names under "To"? If so, where? 
-- Subject Line required for General. If not General, then MHV uses Subject + “inquiry.”
 - Message detail and Reply: Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
 
 
