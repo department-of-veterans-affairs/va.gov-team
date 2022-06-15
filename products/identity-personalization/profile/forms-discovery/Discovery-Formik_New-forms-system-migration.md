@@ -84,3 +84,9 @@ There would still be a need to track the open edit views to show the 'currently 
 ---
 
 # POC branch
+
+https://github.com/department-of-veterans-affairs/vets-website/tree/41971-profile-discovery-new-form-system
+
+Features a Formik based Preferred Name field, feature toggle check, mock server with feature toggle added, validation, and a simple API request on submit.
+
+This branch shows an isolated way to use formik with our VaTextField web component to wire up one profile field, but we would want to approach this strategically so that all fields could be easily migrated without a whole ton of manual form creation.
