@@ -15,7 +15,7 @@
  
  ## Releasing
 - Validation
-    - Upon completion of a ticket (i.e. no more changes are expected or possible)
+    - Upon completion of a ticket (i.e. no more changes are expected or possible and PR is done)
         - Ticket owner will move the ticket to the Validate column
         - Ticket owner will do 1 of these, depending on the validation difficulty
             - Attach screenshots from the developer's local environment if only content changes are included (i.e. no business logic)
