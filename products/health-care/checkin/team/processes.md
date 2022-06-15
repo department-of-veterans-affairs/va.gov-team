@@ -8,6 +8,9 @@
         - Can we release this sprint?
     - Pick a release date that is at least 2 weeks in advance
     - Coordinate the release with UX & Product
+- For a Ticket
+    - Questions to answer
+        - Who needs to validate the ticket (who has the most knowledge from UX)?        - 
 - For a bug or tech debt
     - Questions to answer
         - Is the bug getting released this sprint?
@@ -16,7 +19,7 @@
  ## Releasing
 - Validation
     - Upon completion of a ticket (i.e. no more changes are expected or possible and PR is done)
-        - Ticket owner will move the ticket to the Validate column
+        - Ticket owner will move the ticket to the Validate column        - 
         - Engineering Ticket owner will do 1 of these, depending on the validation difficulty
             - Attach screenshots from the developer's local environment if only content changes are included (i.e. no business logic)
             - Attach a link to Review environment so that Design/Product can run the application in the review environment
