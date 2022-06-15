@@ -26,6 +26,7 @@
             - Q for Zach: how close are we to having the final wireframe done?
     - Styling/Layout 
         - Q: Which ones can we pull in?
+        - Q for Zach: can we get the wireframes attached?
 - Create Final Wireframes for
     - [Cancelled Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40179) - **Zach**
     - [Physical Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42723) - **Ya-Ching**
