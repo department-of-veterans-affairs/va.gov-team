@@ -179,7 +179,7 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 
 
 ### **FAQs: about the VBA Debt Portal** 
-- ***Q: What type of Letters are Veterans able to view and download on the debt portal?***
+- ***Q: Debt Letters are sent from VBMS to the Debt Portal. What type of Letters are Veterans able to view and download?***
    - A: Examples of [the letters can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/letter-samples). Additionally, here is a breakdown of the letters that we are sharing:  
      - 100 - Inactive debtor initial notification  
      - 101 - Active debtor debt notification  
@@ -187,10 +187,20 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
      - 123 - Inactive debtor final notification  
      - 130 - debt increase letter
 
- ***Q: What....?***
+  ***Q: What types of debts can a Veteran see on the Debt Portal?***
+  A: Here is the answer
+ 
+ ***Q: What are diary codes and how were they grouped for the various debt messages?***
   A: Here is the answer
 
-***Q: What....?***
+   ***Q: Is there a list/spreadsheet of diary codes for VBA Debt***
+  A: Here is the answer
+  
+   ***Q: What are Post 9/11 GI bills? What are the three parts they include? ***
+  A: Here is the answer
+  
+  
+   ***Q: What are comp and pen debts***
   A: Here is the answer
 		    
 #### Intended Improvements/Next Steps:
@@ -255,7 +265,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
   A: [VA Form 5655](https://www.va.gov/vaforms/va/pdf/va5655.pdf) which is accessible on the [portal here](https://staging.va.gov/find-forms/about-form-5655/). 
   
 
-***Q: What....?***
+***Q: Why do the list loops need to be redone? Why didn't they test well? ***
   A: Here is the answer
 		    
 
@@ -324,7 +334,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 
 #### **FAQs about Medical Copays** 
 
-***Q: What....?***
+   ***Q: What are EHRM/ Cerner Statements***
   A: Here is the answer
 		    
 
@@ -376,7 +386,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [CDP Analytics Dashboard Request #42360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42360)  
 
  **Relevant Dates:** 
- - Product Launch Date: XXX
+ - Product Launch Date: TBD (Projected End of June/Early July)
 
 #### **FAQs about Combined Debt Portal** 
 
@@ -463,6 +473,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 
 ***Q: What prompted this project***
   A: During the stat of the union address the President announced his plans to support Veterans experiencing financial hardship which can be read in this [White House Briefing Room Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/)
+  
+ 
   
 #### Intended Improvements/Next Steps:
 - TBD
