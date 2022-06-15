@@ -47,18 +47,21 @@ Before we start, a few things I want to mention:
 - Do you use secure messaging now? What for? How often? What would you change about it?
 
 
-## View messages - 5 minutes
+## View message inbox - 5 minutes
 - What are you seeing here?
 - How many messages do you have?
 - How many messages would you like to see at a time?
+- Can you respond to all of these messages? (If they say no) Which ones can you respond to?
+- Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
+- After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Have you ever gotten rid of a message and then needed it again? Do you see a way to find those messages?
+- If you had questions about secure messages what would you do?
 
 ### Things to watch for:
 - Do participants notice that the left nav are links and folders?
-- Do participants see the action link "search"?
+- Do participants see the action links "search" and "compose"?
 - Do participants see the < previous and next > navigation? 
-- Do users want to sort, filter, or scan by attachment? 
-- How and where should the Compose button be displayed?
 - Do participants like the option of a more compressed inbox so more messages fit on a page? 
+- Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
 
 
 ## Scroll and/or search messages - 5 - 10 minutes
@@ -84,15 +87,40 @@ Before we start, a few things I want to mention:
 - What would you expect to see? (if they hit the search button here)
 - How would you get back to the first screen that we saw?
 
-
 ### Things to watch for:
 - Do participants see the action link "search"?
 - Do participants see the < previous and next > navigation? 
 - Do users want to sort, filter, or scan by attachment? 
+- Which search link do they click on?
 - Search questions here ->
 
 
-## Send a new message - x minutes
+## Message Content - 5 minutes
+- What are you seeing here?
+- Who sent you this message?
+- If you wanted to read the previous messages in this thread how would you do that?
+- Do you ever organize your messages? If so, how do you organize them? Do you see a way to do that here? (If they mention folders) What would you call those folders? Where would you expect to see them?
+- Is there anything else that you would like to do on this page?
+- If you wanted to get back to the first screen that you saw how would you do that?
+
+### Things to watch for:
+
+
+## Reply to a message - 5 - 10 minutes 
+- 
+- How long would you expect it would take to get a response to your message?
+- Do you ever start writing a message but not finish it? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
+
+### Things to watch for:
+- Should messages have a signature?
+- Form fields: Are there error scenarios we should test?
+- Do Veterans want a signature field? 
+- Work on attach message UX + design that alert.
+- What do users mean by “provider”? An individual or a group?
+- Figure out replying to the practice/team versus replying to an individual.
+
+
+## Send a new message - 5 - 10 minutes
 - How long would you expect it would take to get a response to your message?
 
 ### Things to watch for:
@@ -109,59 +137,16 @@ Before we start, a few things I want to mention:
 - Message detail and Reply: Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
 
 
-## Reply to a message - x minutes 
-- How long would you expect it would take to get a response to your message?
-
-### Things to watch for:
-- Message list: Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
-- Compose and Reply: Should messages have a signature?
-- Compose & Reply: Add text telling user it could take 3 days to get a reply.
-- Form fields: Are there error scenarios we should test?
-- Compose / Message preferences: Do Veterans want a signature field? 
-- Compose and Reply: Work on attach message UX + design that alert.
-- Multi screens: What do users mean by “provider”? An individual or a group?
-- Compose: Would changing how the “To” field works confuse Veterans?  
-- Compose and Reply: Can you edit the list of names under "To"? If so, where? 
-- Reply: Figure out replying to the practice/team versus replying to an individual.
-- Message detail & Reply: Where do you click to expand the message thread?
-- Subject Line required for General. If not General, then MHV uses Subject + “inquiry.”
-- Message detail and Reply: How many messages can be in the thread? 
-- Message list: Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
-
-
-## Message Content - 5 minutes
-- x
-
-### Things to watch for:
-
-
 ## Last Questions - 5 minutes
 - What would you do in the case of an emergency?
 
 ### Things to watch for:
 
-- Folders: Should the character limit for custom folder names change? Consider all places the name shows, espec on mobile.
-- Folders: Should we limit number of custom folders? Consider display of left nav on desktop and mobile. 
-- General: Do we need a preferences page? Or would it just be a page to edit the list of names under "To"? 
-- RE: Preferences: Notification options for Messages will be in VA.gov Profile. Do we need the signature settings (they contain COVID and flu text by default)? And based on our design direction, users don't control how many messages show in a list. 
-- Do participants realize that this messaging on VA.gov is the same as MHV messaging?
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Post-Task Interview - 2 minutes
 - What are your thoughts about what we looked at today?
 - Any other things that would be good for us to know?
+
 
 ## Thank-You and Closing - 2 minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
