@@ -1,7 +1,7 @@
 # SPRINT GOALS
 
 ## 6/15/2022
-#### Tentative Goals
+#### Sprint Goals
 - Support VISN rollout
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     - **Release on 6/27 or 28**
