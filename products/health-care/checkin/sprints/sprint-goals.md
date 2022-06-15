@@ -31,9 +31,7 @@
 - Research
     - [Talk to VAOS & Mobile App Team regarding V2 data fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42721)
     - Complete June research trip & notes
-    - Complete July research plan & convo guides
-        - Decide on scope for multilingual study
-    - Complete August research plan & convo guides
+    - Decide on scope for multilingual study 
 - Tech Debt
     - [Fix our Review Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42857)
     
