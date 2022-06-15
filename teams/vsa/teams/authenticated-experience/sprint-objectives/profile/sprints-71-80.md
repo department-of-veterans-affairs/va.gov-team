@@ -390,20 +390,6 @@ On hold while Tom is out
 
 - Launch to 100% (if it didn't happen last sprint)
 
-### Notification preferences
-
-Default opt-in discovery
-
-**Design**
-
-- Determine if UI changes are needed for the default opt-in indicator
-
-**FE & BE**
-
-- Default opt-in indicator discovery
-  - What changes need to happen?
-  - What information do we receive? 
-
 ### Bad address indicator
 
 **PM**
@@ -422,6 +408,20 @@ After midpoint review...
 ### PTO
 
 - Samara: TBD, but likely taking some time off during July 4th week
+
+### Notification preferences
+
+Default opt-in discovery
+
+**Design**
+
+- Determine if UI changes are needed for the default opt-in indicator
+
+**FE & BE**
+
+- Default opt-in indicator discovery
+  - What changes need to happen?
+  - What information do we receive? 
 
 ## Sprint 78 (7/13 - 7/26)
 
