@@ -251,5 +251,5 @@ Date | Time
 - Participant recruiting & screening: Perigean
 - Project point of contact: Denise Coveyduc (denise.coveyduc@gcio.com) and Megan Gayle (megan.gayle@govcio.com)
 - Participant(s) for pilot test: TBD
-- Note-takers: Riley Orr and Kevin Stachura 
+- Note-takers: Perigean
 - Observers: Denise Coveyduc (denise.coveyduc@govcio.com), Matthew Self (matthew.self2@va.gov), Brandyn Sullins (brandyn.sullins@govcio.com), Scott James (scott.james@gcio.com), Andrew Rodiek (andrew.rodiek@govcio.com)
