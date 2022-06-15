@@ -36,7 +36,6 @@
     - Complete August research plan & convo guides
 - Tech Debt
     - [Fix our Review Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42857)
-    - Q: Do we need to pull in anything else?
     
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
