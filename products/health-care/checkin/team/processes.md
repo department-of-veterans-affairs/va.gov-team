@@ -31,7 +31,7 @@
     - The Team will determine an estimated release date that is at least 2 weeks from the date it was decided 
         - Product will update the estimated release date
         - Product will notify Training & Contact Center et. al. of the changes to the Planned Release list
-    - The Team Will coordinate the release of an Epic, including
+    - The Team will coordinate the release of an Epic, including
         - Changes to production guides (UX)
         - Merging of code or flipping of feature flag (Engineering)
         - Updating of release notes (Product)
