@@ -1,6 +1,9 @@
 # Conversation Guide 
-[Prototype Link]()
-[Short Link]()
+[Prototype Desktop Link]()
+[Short Desktop Link]()
+
+[Prototype Mobile Link]()
+[Short Mobile Link]()
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
 
@@ -51,7 +54,12 @@ Before we start, a few things I want to mention:
 - What are you seeing here?
 - How many messages do you have?
 - How many messages would you like to see at a time?
-- Can you respond to all of these messages? (If they say no) Which ones can you respond to?
+- Can you respond to all of these messages? (If they say no) Which ones can you respond to? How do you know?
+- How do you know which messages you have read and which messages you have not read?
+- Are you seeing single messages or a series of messages sent back and forth, or both?
+- Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
+- What name are you seeing on these messages?
+- Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
 - Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
 - After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Have you ever gotten rid of a message and then needed it again? Do you see a way to find those messages?
 - If you had questions about secure messages what would you do?
@@ -67,16 +75,12 @@ Before we start, a few things I want to mention:
 ## Scroll and/or search messages - 5 - 10 minutes
 - Let's say that you are looking for a message that your provider sent you a little while ago. It had test results in it that you would like to review.  How would you find that message?
 
-- *If they scroll. . . 
+*If they scroll. . .* 
 - What are you looking for?
-- How do you know which messages you have read and which messages you have not read?
-- Are you seeing single messages or a series of messages sent back and forth, or both?
-- Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
-- What name are you seeing on these messages?
-- Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
-- Would you select one of these messages to read?
+- How would you select one of these messages to read?
+- How many messages would you be comfortable scrolling through?
 
-- *If they search. . . 
+*If they search. . .*
 - What are you seeing here? 
 - What would you enter here?
 - What would you expect to see? (if they hit the search button here)
@@ -85,14 +89,12 @@ Before we start, a few things I want to mention:
 - What do these fields mean to you?
 - What order would you like them to be in?
 - What would you expect to see? (if they hit the search button here)
-- How would you get back to the first screen that we saw?
 
 ### Things to watch for:
 - Do participants see the action link "search"?
 - Do participants see the < previous and next > navigation? 
 - Do users want to sort, filter, or scan by attachment? 
 - Which search link do they click on?
-- Search questions here ->
 
 
 ## Message Content - 5 minutes
@@ -111,13 +113,14 @@ Before we start, a few things I want to mention:
 - What are you seeing here?
 - How long would you expect it would take to get a response to your message?
 - Who do you think would respond to your message?
+- How would you get back to the first screen that we saw?
 
 ### Things to watch for:
 - What do users mean by “provider”? An individual or a group?
 - Figure out replying to the practice/team versus replying to an individual.
 
 
-## Send a new message - 5 - 10 minutes
+## Send a new message - 10 minutes
 - If you had a new question for your provider how would you go about reaching out to them?
 - What kind of concerns would you send messages about and are there cases when you should not send a secure message?
 - How do you decide who to send your message to?
