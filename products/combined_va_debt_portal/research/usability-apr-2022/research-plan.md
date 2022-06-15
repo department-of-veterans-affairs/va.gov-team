@@ -231,8 +231,6 @@ TBD – estimated late May
 
 ### Research sessions
 
-TBD – Depends on development timeline; estimated late May 
-
 #### Length of sessions 
 
 **60** minute sessions with **60** minute breaks between  
