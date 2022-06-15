@@ -45,39 +45,55 @@ Before we start, a few things I want to mention:
 - Do you have other benefits through the VA?
 - Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)? What would you change about MHV?
 - Do you use secure messaging now? What for? How often? What would you change about it?
-- You got an email from the VA that there's a new way to look at all your health care needs in one place, but you can't remember what it was called. How would you find it?[if needed, direct participant to open VA.gov homepage] Where would you expect to find it on VA.gov?
 
 
-*Are we dropping them into messages or will they need to navigate there?
-
-
-## View messages - x minutes
+## View messages - 5 minutes
 - What are you seeing here?
-- How long would you expect it to take to get a reply to your message?
-
-- Let's say you remember that you had sent your cardiologist a message at the beginning of this year. If you wanted to re-read their reply, how would you find that message?
-- (If they use use the navigation at the bottom of the page) Let's say that you have dozens of messages, what would you do?
-- (If navigate to search) What are you seeing here? 
-- What would you enter here?
-- Do you ever use advanced search?
-- What would you see once you hit the search button?
+- How many messages do you have?
+- How many messages would you like to see at a time?
 
 ### Things to watch for:
 - Do participants notice that the left nav are links and folders?
 - Do participants see the action link "search"?
-- Do participants see the < previous and next > navigation?
-- *Message detail & Reply: Research whether to expand or collapse message thread.
-- *Message detail & Reply: Does a user realize the message thread can expand? 
-- Left nav: What should we call the Deleted folder? 
-- Multi screens: Do users want to sort, filter, or scan by attachment? 
-- Multi screens: How and where should the Compose button be displayed?
-- Messages landing/Inbox: How does a draft message look?
-- Message detail & Reply: Where do you click to expand the message thread?
-- Do participants like the option of a more compressed inbox so more messages fit on a page? *Is there something in the UI or is this a research question?
+- Do participants see the < previous and next > navigation? 
+- Do users want to sort, filter, or scan by attachment? 
+- How and where should the Compose button be displayed?
+- Do participants like the option of a more compressed inbox so more messages fit on a page? 
+
+
+## Scroll and/or search messages - 5 - 10 minutes
+- Let's say that you are looking for a message that your provider sent you a little while ago. It had test results in it that you would like to review.  How would you find that message?
+
+- *If they scroll. . . 
+- What are you looking for?
+- How do you know which messages you have read and which messages you have not read?
+- Are you seeing single messages or a series of messages sent back and forth, or both?
+- Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
+- What name are you seeing on these messages?
+- Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
+- Would you select one of these messages to read?
+
+- *If they search. . . 
+- What are you seeing here? 
+- What would you enter here?
+- What would you expect to see? (if they hit the search button here)
+- Do you ever use advanced search?
+- Which fields would you use?
+- What do these fields mean to you?
+- What order would you like them to be in?
+- What would you expect to see? (if they hit the search button here)
+- How would you get back to the first screen that we saw?
+
+
+### Things to watch for:
+- Do participants see the action link "search"?
+- Do participants see the < previous and next > navigation? 
+- Do users want to sort, filter, or scan by attachment? 
+- Search questions here ->
 
 
 ## Send a new message - x minutes
-- x
+- How long would you expect it would take to get a response to your message?
 
 ### Things to watch for:
 - Compose and Reply: Should messages have a signature?
@@ -94,7 +110,7 @@ Before we start, a few things I want to mention:
 
 
 ## Reply to a message - x minutes 
-- x
+- How long would you expect it would take to get a response to your message?
 
 ### Things to watch for:
 - Message list: Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
@@ -113,26 +129,21 @@ Before we start, a few things I want to mention:
 - Message list: Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
 
 
-## Other - x minutes
+## Message Content - 5 minutes
 - x
 
 ### Things to watch for:
-- 911 banner
+
+
+## Last Questions - 5 minutes
+- What would you do in the case of an emergency?
+
+### Things to watch for:
+
 - Folders: Should the character limit for custom folder names change? Consider all places the name shows, espec on mobile.
 - Folders: Should we limit number of custom folders? Consider display of left nav on desktop and mobile. 
 - General: Do we need a preferences page? Or would it just be a page to edit the list of names under "To"? 
 - RE: Preferences: Notification options for Messages will be in VA.gov Profile. Do we need the signature settings (they contain COVID and flu text by default)? And based on our design direction, users don't control how many messages show in a list. 
-
-## XXX - x minutes
-- x
-
-### Things to watch for:
-
-- x
-
-
-
-
 - Do participants realize that this messaging on VA.gov is the same as MHV messaging?
 
 
