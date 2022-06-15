@@ -33,7 +33,10 @@
     - [Talk to VAOS & Mobile App Team regarding V2 data fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42721)
     - Complete June research trip & notes
     - Complete July research plan & convo guides
+        - Decide on scope for multilingual study
     - Complete August research plan & convo guides
+- Tech Debt
+    - Q: Do we need to pull in anything?
     
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
