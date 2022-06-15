@@ -41,8 +41,8 @@
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     -  **Release on 6/27 or 28**
-- [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    -  **Release on 6/27 or 28******
+- Styling/Layout 
+    -  **Release on 6/27 or 28**
 - [Change VAOS Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42105)
     - **Will release when it is ready**      
 
