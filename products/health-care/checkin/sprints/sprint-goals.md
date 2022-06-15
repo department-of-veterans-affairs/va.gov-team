@@ -5,8 +5,8 @@
 - Support VISN rollout
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     - **Release on 6/27 or 28**
-    - Q:Can we get the browser detection bug done?
-    - Q:Do we need prod validation?
+    - Q:Can we get the browser detection bug done? YES
+    - Q:Do we need prod validation? Action item - Adrian to schedule
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
     -  Complete all work (including product guides)
         - Do we need a ticket for BE work?
