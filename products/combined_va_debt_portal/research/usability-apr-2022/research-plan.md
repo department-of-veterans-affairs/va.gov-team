@@ -1,6 +1,6 @@
 _First review at midpoint review - May 3rd, 2022_
 
-# Research Plan for The Debt Resolution Team, Combined VA Debt Portal, May 2022 
+# Research Plan for The Debt Resolution Team, Combined VA Debt Portal, June 2022 
 
 ## Background
 
@@ -239,26 +239,17 @@ TBD – Depends on development timeline; estimated late May
 
 ### Availability
 
-[TBD post-contract agreement; estimated late May]
-
 Date | Time
 -----|-----
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
-5/-/2022 | 0:00 AM - 0:00 PM
+6/27/2022 | 10:00 AM - 4:00 PM EST
+6/29/2022 | 9:00 AM - 4:00 PM EST
+6/28/2022 | 10:00 AM - 4:00 PM EST
 
 ## Team Roles		
-- Moderator: Riley Orr (riley@amida.com) and Kevin Stachura (kevin.stachura@govcio.com)
+- Moderator: Liz Lantz (liz.lantz@adhocteam.us), Shawna Hein (shawna@adhocteam.us), and Megan Gayle (megan.gayle@govcio.com)
 - Research guide writing and task development: Riley Orr (riley@amida.com)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Riley Orr (riley@amida.com) and Kevin Stachura (kevin.stachura@govcio.com)
+- Project point of contact: Denise Coveyduc (denise.coveyduc@gcio.com) and Megan Gayle (megan.gayle@govcio.com)
 - Participant(s) for pilot test: TBD
 - Note-takers: Riley Orr and Kevin Stachura 
 - Observers: Denise Coveyduc (denise.coveyduc@govcio.com), Matthew Self (matthew.self2@va.gov), Brandyn Sullins (brandyn.sullins@govcio.com), Scott James (scott.james@gcio.com), Andrew Rodiek (andrew.rodiek@govcio.com)
