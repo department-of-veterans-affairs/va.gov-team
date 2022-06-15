@@ -17,10 +17,11 @@
 - Validation
     - Upon completion of a ticket (i.e. no more changes are expected or possible and PR is done)
         - Ticket owner will move the ticket to the Validate column
-        - Ticket owner will do 1 of these, depending on the validation difficulty
+        - Engineering Ticket owner will do 1 of these, depending on the validation difficulty
             - Attach screenshots from the developer's local environment if only content changes are included (i.e. no business logic)
             - Attach a link to Review environment so that Design/Product can run the application in the review environment
             - Attach a link to a video demonstrating the change
+        - Design ticket owner will attach links to the wireframes
     - At stand up, if there are any tickets in the validate column for a team member, the team will identify & document in the ticket who has the action item to validate the item and the timeframe in which it needs to get validated
     - After a ticket has been validated, the primary owner of the ticket will close the ticket
 - Epics 
