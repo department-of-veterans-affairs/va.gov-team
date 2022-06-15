@@ -17,10 +17,25 @@
 ### Facility COVID Status
 
 - Update on access to the reports: continue request fulfillment for now (Kevin)
+- 1022 to 1024 in 7 days
+
+### Top tasks
+
+Change since last week
+- 64 Billing and insurance  [↑3]
+- 51 Medical records office  [↑1]
+- 51 Register for care [↑2]
 
 ### Facility service data
 
-- (candidate
+CMS now has 13K services associated across 1235 facilities, which includes
+- walk-ins accepted or appointments are required
+- referrals required
+- opening hours 
+- phone numbers
+- contact info
+
+Candidate for Q3 2022: develop a QA framework with VHA DM
 
 ## June 1, 2022
 
