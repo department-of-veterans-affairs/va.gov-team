@@ -8,10 +8,7 @@
     - Q:Can we get the browser detection bug done? YES
     - Q:Do we need prod validation? Action item - Adrian to schedule
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    -  Complete all work (including product guides)
-        - Do we need a ticket for BE work?
-    - **Release on 6/27 or 28**    
-    - Q for SB: how do we get the word out?
+    -  Continue to make progress                  
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Continue moving performance testing forward 
     - We will know when we are done when:
@@ -23,11 +20,11 @@
 - Complete a few Enhancements
     - Content
         - [Change VAOS Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42105)
+            - **Will release when it is ready**            
         - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
-            - Q for Zach: how close are we to having the final wireframe done?
+            - We may pull this in if FE runs out of things to do
     - Styling/Layout 
-        - Q: Which ones can we pull in?
-        - Q for Zach: can we get the wireframes attached?
+        - **Release on 6/27 or 28**
 - Create Final Wireframes for
     - [Cancelled Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40179) - **Zach**
     - [Physical Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42723) - **Ya-Ching**
@@ -43,7 +40,11 @@
     
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
+    -  **Release on 6/27 or 28**
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
+    -  **Release on 6/27 or 28******
+- [Change VAOS Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42105)
+    - **Will release when it is ready**      
 
     
     
