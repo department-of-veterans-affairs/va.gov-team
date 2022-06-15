@@ -187,11 +187,15 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
      - 123 - Inactive debtor final notification  
      - 130 - debt increase letter
 
-  ***Q: What types of debts can a Veteran see on the Debt Portal?***
-  A: Here is the answer
+- ***Q: What types of debts can a Veteran see on the Debt Portal?***
+     - A: Veterans can access the following debt types within the portal:
+        - Compensation and Pension
+        - Ch 33 (Post-9/11 GI Bill)
+        - CH 34
+        - CH 35
  
- ***Q: What are diary codes and how were they grouped for the various debt messages?***
-  A: Here is the answer
+- ***Q: What are diary codes and how were they grouped for the various debt messages?***
+     - A: 
 
    ***Q: Is there a list/spreadsheet of diary codes for VBA Debt***
   A: Here is the answer
