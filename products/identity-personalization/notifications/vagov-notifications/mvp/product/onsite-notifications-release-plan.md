@@ -4,9 +4,9 @@
 ### Planning:
 - **Desired date range or test duration:** _date tk_
 - **UAT Go/No go:** _date tk_
-- **Start UAT**: 
-   - Hold UAT go/no go ticket: link tk 
-   - UAT go/no go readiness checklist: link tk 
+- **Start UAT**: _
+   - Hold UAT go/no go ticket: _create ticket and link_ 
+   - UAT go/no go readiness checklist: _create doc and link_ 
 - **Desired number of users:** _provide summary_
 - **How you'll recruit the right production test users:** _tk_
 - **How you'll conduct the testing:** _tk_
@@ -24,9 +24,9 @@
 **Launch Go/No go:** 
 
 **Desired date range for phased rollout:** 
-- 25% of users (1 week), Dates: (dates + ticket tk)
-- 50% of users (1 week), Dates: (dates + ticket tk)
-- If all goes well, then go to 100% of users: (dates + ticket tk)
+- 25% of users (1 week), Dates: _(dates + ticket tk)_
+- 50% of users (1 week), Dates: _(dates + ticket tk)_
+- If all goes well, then go to 100% of users: _(dates + ticket tk)_
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 _Link to analytics_
