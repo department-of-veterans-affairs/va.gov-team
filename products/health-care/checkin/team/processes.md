@@ -38,6 +38,6 @@
         - Notification of Training & Contact Center et. al. (Product)
         - Closing of all tickets & the Epic
 - Tech debt & Bugs
-    - Tech Debt & Bug items Will not appear on the Planned Releases list
-    - Engineering will post a notice in the check-in-release-planning channel on the day an item has been merged and it expected to go to production
-    - Product will create release notes for a Tech Debt item after 3 pm when the item gets pushed to production and post to the check-in-release-planning channel for review
+    - Tech Debt & Bug items wll not appear on the Planned Releases list
+    - Engineering will post a notice in the check-in-release-planning channel on the day an item has been merged and is expected to go to production
+    - Product will create release notes for a Tech Debt item after 3 pm when the item gets pushed to production and post to the check-in-release-planning channel for review by Engineering
