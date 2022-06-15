@@ -36,6 +36,7 @@
         - Merging of code or flipping of feature flag (Engineering)
         - Updating of release notes (Product)
         - Notification of Training & Contact Center et. al. (Product)
+        - Closing of all tickets & the Epic
 - Tech debt & Bugs
     - Tech Debt & Bug items Will not appear on the Planned Releases list
     - Engineering will post a notice in the check-in-release-planning channel on the day an item has been merged and it expected to go to production
