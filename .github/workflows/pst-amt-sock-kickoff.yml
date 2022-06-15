@@ -4,7 +4,7 @@ on:
     types:
       - opened
 env:
-  ISSUE_ID: ${{ github.event.number }}
+  ISSUE_ID: ${{ github.event.issue.number }}
   # ISSUE_ID: 42533
 
 jobs:
