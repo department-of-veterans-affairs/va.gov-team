@@ -12,6 +12,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
   - NOTE: you will need to be on the VA network to access the tool
 - Go to the Test Patients tab
+- Select your assigned test patient
 - Click "Reset All" to reset the update flags for each set of Demographics information 
   - Alternatively, you can click "Reset" for any of the Demographiucs to reset just one or two
 
@@ -20,7 +21,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
   - NOTE: you will need to be on the VA network to access the tool
 - Go to the Appointments tab
 - Select any clinic
-- Select yourself from the patient list 
+- Select your assigned test patient from the patient list 
 - Select today's tab under Available Appointments
 - Find an appointment for which the Book button is not greyed out
     - In order to verify the Mobile Check-in now you should choose an appointment time that is either
@@ -37,7 +38,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
   - NOTE: you will need to be on the VA network to access the tool
 - Go to the Appointments tab
 - Select any clinic
-- Select yourself from the patient list 
+- Select your assigned test patient from the patient list 
 - Select the next business day's tab under Available Appointments
 - Find an appointment for which the Book button is not greyed out
 - Click "Book"
@@ -50,8 +51,8 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Do one of these
     - Open the link that was texted to your mobile device
     - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
-- Enter the last name for your test patient
-- Enter the last 4 digits of your test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
+- Enter the last name for your assigned test patient
+- Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
 - Answer "Yes" to the "Current Contact Information?" questionv
@@ -62,8 +63,8 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ## Testing Pre-Check-in
 - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
-- Enter the last name for your test patient
-- Enter the last 4 digits of your test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
+- Enter the last name for your assigned test patient
+- Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
 - Click "Answer Questions"
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
