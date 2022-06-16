@@ -159,6 +159,11 @@ Note: as of 05/27/2020, the program office has not made specific plans to releas
 
 ## How to Access and Test
 - https://staging.va.gov/caregivers/
+- This user can be used for testing in all environments
+     - first name: WESLEY
+     - last name: FORD
+     - Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) for additional SSN, DOB information
+
 
 ## Error Handling
 - If the Veteran cannot be found in MPI, the submission will not go through and the user will be prompted to print and fill out the paper form
