@@ -2,8 +2,13 @@
 
 ## Stand Up / Daily Scrum
 - For each Team Member
+    - Questions to answer
+        - What is your Balance score?
+        - What you did yesterday?
+        - What you did today?
+        - Do you have any blockers?
     - If any tickets in Validate column
-        - Team Member mentions who is responsible for reviewing the ticket and a timeframe for completion is discussed
+        - Team Member mentions who is responsible for reviewing the ticket and discusses a timeframe for completion
 
 ## Refinement 
 - For each Epic
@@ -13,7 +18,6 @@
             - Upon Completion & Approval
         - Is this in the Planned Releases list yet?
             - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list            
-    - Coordinate the release with UX & Product using the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
     - Ensure these tickets are created and added to the Epic using the referenced templates
         - [check-in-experience-translation-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-translation-task.md)
             - Used for generating and submitting a json file of content to be translated to the State Department
@@ -24,12 +28,12 @@
         - NOTE: some of these may not always be needed for every Epic
 - For each Ticket
     - Questions to answer & document in the ticket
-        - Is the Ticket part of an Epic and do we understand
+        - Is the Ticket part of an Epic and do we understand whether it is part of a Feature Flag or Feature Branch?
         - Who needs to validate the ticket?
+        - Will we need a release note?
 - For each bug or tech debt item
     - Questions to answer & document in the ticket
-        - Is the bug getting released this sprint?
-        - Do we need a release note?
+        - Will we need a release note?
  
  ## Planning
  - Epics 
@@ -41,12 +45,11 @@
         - Product will notify Training & Contact Center et. al. of the changes to the Planned Release list
 - Tech debt & Bugs
     - Tech Debt & Bug items wll not appear on the Planned Releases list   
-    - Product will create release notes for a Tech Debt item after 3 pm when the item gets pushed to production and post to the check-in-release-planning channel for review by Engineering
  
  ## Validating
 - Upon completion of a ticket (i.e. no more changes are expected and PR is done)
     - Ticket owner moves the ticket to the Validate column                 
-    - Ticket owner attaches at least 1 of these depending on the validation required & its difficulty
+    - Ticket owner attaches at least 1 of the following to the ticket 
         - For wireframes
             - Screenshots
             - Links to section in Abstract
@@ -62,14 +65,17 @@
 
 ## Releasing
 - Epics 
-    - Product will remove the Epic from the Planned Releases list as soon as it is pushed to production
-    - Product will create a release note for each item in the Planned Releases list (use pre-release note as a base if it exists)        
-    - The Team will coordinate the release of an Epic, including
-        - Changes to production guides (UX)
+    - Team will coordinate the release using the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
+        - Changes to product guides et. al. (UX)
         - Merging of code or flipping of feature flag (Engineering)
         - Updating of release notes (Product)
         - Notification of Training & Contact Center et. al. (Product)
         - Closing of all tickets & the Epic (Engineering & Product)
+    - Product will post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
+    - Product will notify Training & Contact Center et. al. of the release
+    - Product will remove the Epic from the Planned Releases list 
 - Tech debt & Bugs    
     - Engineering will post a notice in the check-in-release-planning channel on the day an item has been merged and is expected to go to production
-    - Product will create release notes for a Tech Debt item after 3 pm when the item gets pushed to production and post to the check-in-release-planning channel for review by Engineering
+    - Product will create a release note, if needed, and post it after 3 pm when the item gets pushed to production 
+   - Product will post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
+   - Product will notify Training & Contact Center et. al. of the release
