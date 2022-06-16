@@ -4,9 +4,9 @@ You will need to create 2 appointments in VistA's Staging environment in order t
 - One appointment should be within a half hour of the current date & time so that you can test the Mobile Check-in 
 - One appointment should be after today so that you can test Pre-Check-in
 
-There is a Web tool available that makes creating VistA appointments in staging easy.
+There is a VistA Staging tool available that makes creating VistA appointments in staging easy.
 
-## Appointment Tool
+## VistA Staging Appointment Tool
 
 ### Reset Your Confirmations
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
