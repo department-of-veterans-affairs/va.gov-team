@@ -16,5 +16,5 @@ jobs:
       - uses: actions/add-to-project@main
         with:
           project-url: https://github.com/orgs/department-of-veterans-affairs/projects/623/views/1
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.VAGOV_TEAM_ADD_TO_PROJECT }} # Expires on Thu, Jun 1 2023.
           labeled: platform-leadership
