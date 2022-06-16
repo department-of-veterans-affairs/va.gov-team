@@ -65,17 +65,17 @@ Solution Approach
 
 -   In order to connect their Fitbit account and data a Veteran must:
 
--   Navigate to a page about connecting their PGD to VA
+    -   Navigate to a page about connecting their PGD to VA
 
--   Sign in with their VA account
+    -   Sign in with their VA account
 
--   Select the type of account they would like to connect (Fitbit)
+    -   Select the type of account they would like to connect (Fitbit)
 
--   Be redirected to the Fitbit website to sign in 
+    -   Be redirected to the Fitbit website to sign in 
 
--   Select the data (steps, heart rate, sleep, activity, etc) they would like to share (On Fitbit's website)
+    -   Select the data (steps, heart rate, sleep, activity, etc) they would like to share (On Fitbit's website)
 
--   Be redirected back to a confirmation page on VA.gov indicating the account was successfully linked
+    -   Be redirected back to a confirmation page on VA.gov indicating the account was successfully linked
 
 * * * * *
 
