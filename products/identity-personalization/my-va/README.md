@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated May 5, 2022
+Last updated June 16, 2022
 
 ### Communications
 
@@ -117,7 +117,7 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|[Adding payment & debt information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| QA/Pre-launch|
+|[Adding payment & debt information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
