@@ -18,7 +18,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
 - Go to the Appointments tab
 - Select any clinic
-- Select patient Thirteen 
+- Select yourself from the patient list 
 - Select today's tab under Available Appointments
 - Find an appointment for which the Book button is not greyed out
     - In order to verify the Mobile Check-in now you should choose an appointment time that is either
@@ -28,40 +28,44 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Get Check-in Link"
 - Wait for the link to generate
 - Click "Copy Link to Clipboard"
-- Open a new Browser tab/window and paste the copied link into the address bar
+- Save the link that you copied, you will need it later if you want to test somewhere other than you mobile device
 
 ### Create an Appointment for the Next Business Day
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
 - Go to the Appointments tab
 - Select any clinic
-- Select patient Thirteen 
+- Select yourself from the patient list 
 - Select the next business day's tab under Available Appointments
 - Find an appointment for which the Book button is not greyed out
 - Click "Book"
 - Click "Get Pre-Check-in Link"
 - Wait for the link to generate
 - Click "Copy Link to Clipboard"
-- Open a new Browser tab/window and paste the copied link into the address bar
-  
-## Pre-Check-in
-- Open the Browser tab/window that contains the URL pasted for today's appointment
-- Enter "Thirteen" as the Last Name
-- Enter "0013" as the Last 4 digits of the SSN
-- Click "Continue" or hit Enter
-- Click "Answer Questions"
-- NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days, the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool
-- Answer "Yes" to the "Current Contact Information?" questionv
-- Answer "Yes" to the "Current Emergency Contact?" question
-- Answer "Yes" to the "Current Next of Kin?" question
+- Save the link that you copied, you will need it later if you want to test somewhere other than you mobile device
 
 ## Mobile Check-in
-- Open the Browser tab/window that contains the URL pasted for the next business day's appointment
-- Enter "Thirteen" as the Last Name
-- Enter "0013" as the Last 4 digits of the SSN
+- Do one of these
+    - Open the link that was texted to your mobile device
+    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment
+- Enter your last name 
+- Enter the last 4 digits of your mobile number as the SSN
 - Click "Continue" or hit Enter
-- NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days, the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool
+- NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
 - Answer "Yes" to the "Current Contact Information?" questionv
 - Answer "Yes" to the "Current Emergency Contact?" question
 - Answer "Yes" to the "Current Next of Kin?" question
 - NOTE: if "No" is selected for any of the Demographics information, the Veteran will be instructed to check-in with a staff memeber
 - Click "Check in now" on your appointment
+
+## Pre-Check-in
+- Open the Browser tab/window that contains the URL pasted for the next business day's appointment
+- Enter your last name 
+- Enter the last 4 digits of your mobile number as the SSN
+- Click "Continue" or hit Enter
+- Click "Answer Questions"
+- NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
+- Answer "Yes" to the "Current Contact Information?" questionv
+- Answer "Yes" to the "Current Emergency Contact?" question
+- Answer "Yes" to the "Current Next of Kin?" question
+
+
