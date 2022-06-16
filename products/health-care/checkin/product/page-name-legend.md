@@ -1,4 +1,5 @@
 | Application | Page Name |  Description  |   Screenshot for Reference |
+| :----------------- | :--------- | :---------  | :---------  | 
 | Check-in | Sign in | User enters their information to verify themselves   |      |
 | Check-in | Self Contact Question | User answers Yes or No if their Personal Contact info is correct   |      |
 | Check-in | Emergency Contact Question |   User answers Yes or No if the Emergency Contact info is correct |      |
