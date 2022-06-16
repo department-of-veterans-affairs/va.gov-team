@@ -1,15 +1,16 @@
 | Application | Page Name |  Description  |   Screenshot for Reference |
 | :----------------- | :--------- | :---------  | :---------  | 
-| Check-in | Sign in | User enters their information to verify themselves   |      |
-| Check-in | Self Contact Question | User answers Yes or No if their Personal Contact info is correct   |      |
-| Check-in | Emergency Contact Question |   User answers Yes or No if the Emergency Contact info is correct |      |
-| Check-in |  Next of Kin Contact Question |  User answers Yes or No if the Next of Kin info is correct  |      |
-| Check-in | Your Appointments List |  User sees a list of their appointments for the current day  |      |
-| Check-in | Check-in Confirmation | User has checked-in for an appointment and this is the page that tells them that they are checked-in   |      |
-| Check-in | Check-in with a staff member | Displays when the user has answered No to any of the questions   |      |
-| Pre-Check-in |  Sign in  |  User enters their information to verify themselves    |      |
-| Pre-Check-in | Answer Questions Start   |    User answers Yes or No if their Personal Contact info is correct  |      |
-| Pre-Check-in | Self Contact Question | User answers Yes or No if their Personal Contact info is correct   |      |
-| Pre-Check-in | Emergency Contact Question |   User answers Yes or No if the Emergency Contact info is correct |      |
-| Pre-Check-in | Next of Kin Contact Question |  User answers Yes or No if the Next of Kin info is correct  |      |
-| Pre-Check-in | Pre-Check-in Confirmation  |  User has completed pre-check-in for an appointment and and this is the page that tells them that they have completed pre-check-in    |      |
+| Check-in | Sign in | User enters their information to verify themselves   |  ![image](https://user-images.githubusercontent.com/86678742/174118548-9edd7c89-cd87-4578-a41c-d68262066338.png)     |
+| Check-in | Current Contact Info | User answers Yes or No if their Personal Contact info is correct   |  ![image](https://user-images.githubusercontent.com/86678742/174118775-fa861db2-bbe3-4973-a66b-fa2e7b7c2163.png)    |
+| Check-in | Current Emergency Contact |   User answers Yes or No if the Emergency Contact info is correct |  ![image](https://user-images.githubusercontent.com/86678742/174118867-898dcc6b-cd4a-4967-ac7c-f365c24af8f0.png)     |
+| Check-in |  Current Next of Kin |  User answers Yes or No if the Next of Kin info is correct  |   ![image](https://user-images.githubusercontent.com/86678742/174120900-9c8ccac2-83f1-4b48-b3a8-50f23ff478bc.png)    |
+| Check-in | Your Appointments List |  User sees a list of their appointments for the current day  |  ![image](https://user-images.githubusercontent.com/86678742/174118917-5bb479cf-c799-4047-80ea-c1be9ca9ff54.png)    |
+| Check-in | Check-in Confirmation | User has checked-in for an appointment and this is the page that tells them that they are checked-in   |   ![image](https://user-images.githubusercontent.com/86678742/174119073-98fb1575-db9d-4749-96a5-cb1fccb8912d.png)    |
+| Check-in | Check-in with a staff member | Displays when the user has answered No to any of the questions   |   ![image](https://user-images.githubusercontent.com/86678742/174118978-7a2303e6-e75e-4f0c-ba0b-2b7be6c776d2.png)    |
+| Pre-Check-in |  Sign in  |  User enters their information to verify themselves    |   ![image](https://user-images.githubusercontent.com/86678742/174119414-5daabfd2-fb10-492b-97ca-7c15c8402d69.png)    |
+| Pre-Check-in | Answer Pre-Chechk-in Questions  |    User answers Yes or No if their Personal Contact info is correct  |  ![image](https://user-images.githubusercontent.com/86678742/174119539-402603fa-f713-46fe-91b0-4c40ad377001.png)   |
+| Pre-Check-in | Current Contact Info | User answers Yes or No if their Personal Contact info is correct   |  ![image](https://user-images.githubusercontent.com/86678742/174120737-ff791598-0f13-4a95-a09a-b1761e73b62c.png)     |
+| Pre-Check-in | Current Emergency Contact |   User answers Yes or No if the Emergency Contact info is correct |   ![image](https://user-images.githubusercontent.com/86678742/174119736-50caf170-7813-45b0-9156-47f18cd008cc.png)    |
+| Pre-Check-in | Current Next of Kin |  User answers Yes or No if the Next of Kin info is correct  |   ![image](https://user-images.githubusercontent.com/86678742/174119784-ce050beb-1801-4635-8e97-1a25143b5039.png)   |
+| Pre-Check-in | Pre-Check-in Confirmation  |  User has completed pre-check-in for an appointment and and this is the page that tells them that they have completed pre-check-in    |  ![image](https://user-images.githubusercontent.com/86678742/174119862-c1d1c09b-6c87-49c8-befb-862d2709088e.png)     |
+| Check-in **AND** Pre-Check-in | Error Page  |  Displays an error message to the User |    |
