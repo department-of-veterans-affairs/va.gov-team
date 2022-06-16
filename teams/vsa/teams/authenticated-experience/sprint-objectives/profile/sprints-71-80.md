@@ -423,6 +423,15 @@ Default opt-in discovery
   - What changes need to happen?
   - What information do we receive? 
 
+### Direct deposit
+
+**BE**
+
+- Have Tom add backend documentation to Github
+  - [Docs were originally posted in Slack](https://dsva.slack.com/archives/C909ZG2BB/p1655406539093199?thread_ts=1655313185.572799&cid=C909ZG2BB).
+  - Please don't upload the PDF. As much content as possible should be pulled out into Github docs.
+  - It might be worth collaborating with Liz on where this best fits into the structure she set up. 
+
 ## Sprint 78 (7/13 - 7/26)
 
 ## Sprint 79 (7/27 - 8/9)
