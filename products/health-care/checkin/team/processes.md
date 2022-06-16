@@ -9,13 +9,14 @@
         - When do we think we can release? (no sooner than 2 weeks after it appears on the Planned Releases list)
     - Pick a release date that is at least 2 weeks in advance
     - Coordinate the release with UX & Product
-    - Ensure these tickets are created using the referenced templates
+    - Ensure these tickets are created and added to the Epic using the referenced templates
         - [check-in-experience-translation-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-translation-task.md)
             - Used for generating and submitting a json file of content to be translated to the State Department
         - [check-in-experience-prod-artifacts-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-artifacts-task.md)
             - Used for updating the product guides, posters, etc.
         - [check-in-experience-prod-release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-release.md)
             - Used for coordinating a production release between UX, Design, & Product
+        - NOTE: some of these may not always be needed for every Epic
 - For a Ticket
     - Questions to answer
         - Who needs to validate the ticket (who has the most knowledge from UX)?        - 
