@@ -273,8 +273,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
   A: [VA Form 5655](https://www.va.gov/vaforms/va/pdf/va5655.pdf) which is accessible on the [portal here](https://staging.va.gov/find-forms/about-form-5655/). 
   
 
-***Q: Why do the list loops need to be redone? Why didn't they test well? ***
-  A: Here is the answer
+- ***Q: Why do the list loops need to be redone? Why didn't they test well? ***
+   - A: The list loops were a component created for the Financial Status Report's MVP in an attempt to help Veterans quickly add multiple items of a similar category. For example, adding 10 utilities. However, usability testing found that the component wasn't intuitive. [You can read more about our findings here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/readout.md#are-veterans-able-to-easily-use-the-new-list-loop-component).   
 		    
 
 #### Intended Improvements/Next Steps:
@@ -342,7 +342,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 
 #### **FAQs about Medical Copays** 
 
-   ***Q: What are EHRM/ Cerner Statements***
+- ***Q: What are EHRM/ Cerner Statements***
   A: Here is the answer
 		    
 
