@@ -1,7 +1,7 @@
 # Team Development Processes
 
 ## Refinement and/or Planning
-- For an Epic
+- For each Epic
     - Questions to answer
         - How will we release the work for this Epic? 
             - Coordinated
@@ -20,11 +20,11 @@
         - [check-in-experience-prod-release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-release.md)
             - Used for coordinating a production release between UX, Design, & Product
         - NOTE: some of these may not always be needed for every Epic
-- For a Ticket
-    - Questions to answer
-        - Who needs to validate the ticket (who has the most knowledge from UX)?        - 
-- For a bug or tech debt
-    - Questions to answer
+- For each Ticket
+    - Questions to answer & document in the ticket
+        - Who needs to validate the ticket?
+- For each bug or tech debt item
+    - Questions to answer & document in the ticket
         - Is the bug getting released this sprint?
         - Do we need a release note?
  
