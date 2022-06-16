@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5-10 minutes
 - Do you have health care through the VA?
 - Do you have other benefits through the VA?
-- Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)? What would you change about MHV?
+- Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
 - Do you use secure messaging now? What for? How often? What would you change about it?
 
 
