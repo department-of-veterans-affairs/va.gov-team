@@ -34,6 +34,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ### Create an Appointment for the Next Business Day
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
+  - NOTE: you will need to be on the VA network to access the tool
 - Go to the Appointments tab
 - Select any clinic
 - Select yourself from the patient list 
@@ -48,7 +49,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 ## Testing Mobile Check-in
 - Do one of these
     - Open the link that was texted to your mobile device
-    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment
+    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to access the tool)
 - Enter your last name 
 - Enter the last 4 digits of your mobile number as the SSN
 - Click "Continue" or hit Enter
@@ -60,7 +61,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Check in now" on your appointment
 
 ## Testing Pre-Check-in
-- Open the Browser tab/window that contains the URL pasted for the next business day's appointment
+- Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to access the tool)
 - Enter your last name 
 - Enter the last 4 digits of your mobile number as the SSN
 - Click "Continue" or hit Enter
