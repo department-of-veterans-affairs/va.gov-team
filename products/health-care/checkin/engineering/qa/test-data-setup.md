@@ -178,7 +178,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 8   | Ten, Patient | QA Team |
 | 224 | Eleven, Patient | Patrick |
 | 204 | Twelve, Patient | Mark |
-| 228 | Thirteen, Patient | Dillo |
+| 228 | Thirteen, Patient | Demo & Staging Reviews |
 | 271 | Fourteen, Patient | Kristen |
 | 723 | Twentysix, Patient | Adrian |
 | 366 | Twentyeight, Patient | Dan |
