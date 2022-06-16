@@ -11,7 +11,7 @@
             - As soon as approved        
         - Is this in the Planned Releases list yet?
             - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list            
-    - Coordinate the release with UX & Product using the [check-in-release-planning channel](https://dsva.slack.com/archives/C03KQAUFVT6)
+    - Coordinate the release with UX & Product using the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
     - Ensure these tickets are created and added to the Epic using the referenced templates
         - [check-in-experience-translation-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-translation-task.md)
             - Used for generating and submitting a json file of content to be translated to the State Department
