@@ -14,13 +14,13 @@ Last updated June 16, 2022
 ### Table of Contents
 
 - [Overview](#overview)
-- [User Problem Statement]()
-- [Measuring success]()
+- [User Problem Statements](#user-problem-statements)
+- [Measuring success](#measuring-success)
 - [Projects](#projects)
-- [Feature Overview]()
-- [How to Access and Test]()
-- [Backend]()
-- [Design and UX]()
+- [Feature Overview](#feature-overview)
+- [How to Access and Test](#how-to-access-and-test)
+- [Backend](#backend)
+- [Design and UX](#design-and-UX)
 
 ## Overview
 
@@ -30,43 +30,15 @@ Our intitial effort -- to add payment information to the My VA dashboard -- aime
 
 Prior to this initial launch, we were made aware of some usability problems with our MVP through UAT and the VA.gov collab cycle staging review. Feedback of note included that it was sometimes hard to differentiate between payment info (money going to the veteran) and debt info (money owed to the VA), and that we did not give enough emphasis to debt information. Given how late in the project we heard this feedback, we did not get a chance to address these issues before launch, so our team is now working on a "V2" of this section to better clarify and balance payment and debt information.
 
-## User Outcomes
+## User Problem Statements
 
-### Desired User Outcomes
-
-*Why would a user want to use this?*
-
-- This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans.
-- Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
-
-*With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
-- Veterans will more quickly view and complete tasks related to their payment and debt information.
-
-### Undesired User Outcomes
-
-- We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable.
-- We do not want the My VA page to become too cluttered or cumbersome, slowing down veterans, instead of expediting their experience.
- 
-## Business Outcomes
-
-### Desired Business Outcomes
-
-*Why would your business want this to exist?*
-
-Showing payment and debt information on My VA helps fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks.
-
-*With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-- Provide veterans with a personalized go-to source for payment and debt information.
-- Provide veterans with links to related action items, such as viewing outstanding debts, payment history, or direct deposit.
-- Reduce the number of payment or debt-related searches.
-
-### Undesired Business Outcomes
-- We do not want the My VA page to become cumbersome and unusable.
+- As a veteran who receives payments from the VA, I expect to see that information reflected on my personalized dashboard.
+- As a veteran who owes money to the VA, I expect to be alerted to that promptly and clearly, including on my personalized dashboard.
 
 ---
 ## Measuring Success
+
+These stats are for the MVP effort to add payment and debt info to My VA.
 
 ### Objective: Meet user need/expectation and elevate payment and debt information to user dashboard.
 
@@ -236,22 +208,35 @@ A security vulnerability is unlikely due to the 2-factor authentication required
  
 </details> 
 
----
+## Feature Overview
+
+Include information here on when payment information shows on My VA.
+
+## How to Access and Test
+
+[Staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info.md)
+
+## Backend
+
+- Payment information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
+- Debt information comes from the Debt Management Center (DMC).
+
+## Design and UX
+
+### Use cases
+
+- WIP
    
-## Screenshots
+### Screenshots
 
-### Before
-
-*My VA 2.0 prior to adding a payments section*
+#### My VA prior to adding a payments section
 
 ![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
-### After
-
-#### V1
+#### My VA after adding a payments section
 
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
 
-#### V2 
+#### My VA after V2 updates to the payments section 
 
 (TBD)
