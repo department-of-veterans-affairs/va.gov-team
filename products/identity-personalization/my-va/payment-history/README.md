@@ -35,7 +35,6 @@ Prior to this initial launch, we were made aware of some usability problems with
 - As a veteran who receives payments from the VA, I expect to see that information reflected on my personalized dashboard.
 - As a veteran who owes money to the VA, I expect to be alerted to that promptly and clearly, including on my personalized dashboard.
 
----
 ## Measuring Success
 
 These stats are for the MVP effort to add payment and debt info to My VA.
