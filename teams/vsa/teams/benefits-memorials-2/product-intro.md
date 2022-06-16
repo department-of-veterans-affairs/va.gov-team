@@ -195,17 +195,21 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
         - CH 35
  
 - ***Q: What are diary codes and how were they grouped for the various debt messages?***
-     - A: 
+     - A: The Debt Management Center (DMC) has a database containing over 200 diary codes that a debt can sit in. Some of these diary codes might include receiving a Financial Status Report, a second notification letter being sent, or a waiver being reviewed. The diary codes were grouped together with the help of our DMC stakeholders through multiple workshop sessions. 
 
-   ***Q: Is there a list/spreadsheet of diary codes for VBA Debt***
-  A: Here is the answer
+- ***Q: Is there a list/spreadsheet of diary codes for VBA Debt***
+     - A: Both the spreadsheet of original diary codes and our grouped version can be found in the VSA Team Sharepoint: 
+        - [Original diary code spreadsheet](https://salientcrgt.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Benefits%20%26%20Memorials%202/Debt%20Letters%20Master%20Codes%20and%20Transactions%20Catalog.xlsx?d=w50365d7002b248828873928f7b6a6c7f&csf=1&web=1&e=8xDirj) 
+        - [Grouped diary codes spreadsheet](https://salientcrgt.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Benefits%20%26%20Memorials%202/Debt%20Letters%20MVP/Iteration%203/Debt%20Portal%20Statuses%20V2.0.xlsx?d=web6d9eb5b68e4a89b8efb3b8ecbefc31&csf=1&web=1&e=T6iP8w)
   
-   ***Q: What are Post 9/11 GI bills? What are the three parts they include? ***
-  A: Here is the answer
+- ***Q: What are Post 9/11 GI bills? What are the three parts they include? ***
+   - A: The Post-9/11 GI Bill (CH 33) is an education benefit type for Veterans who've served on active duty after Septmeber 10, 2001. [You can read more about this benefit type here](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/). If a Veteran incurs a Post-9/11 GI Bill debt, it's split into **three separate debts** for:
+      - Housing
+      - Tuition and fees
+      - Books and supplies  
   
-  
-   ***Q: What are comp and pen debts***
-  A: Here is the answer
+- ***Q: What are comp and pen debts***
+   - A: Veterans who have a service-related injury or illness may be entitled to disability compensation. Compensation and Pension debts are the result of an overpayment in their monthly benefit received for their disability compensation.
 		    
 #### Intended Improvements/Next Steps:
 
