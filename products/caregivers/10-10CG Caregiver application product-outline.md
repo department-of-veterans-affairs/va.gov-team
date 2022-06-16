@@ -162,7 +162,7 @@ Note: as of 05/27/2020, the program office has not made specific plans to releas
 - This user can be used for testing in all environments
      - first name: WESLEY
      - last name: FORD
-     - Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) for additional SSN, DOB information
+     - Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Testing User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional SSN, DOB information
 
 
 ## Error Handling
