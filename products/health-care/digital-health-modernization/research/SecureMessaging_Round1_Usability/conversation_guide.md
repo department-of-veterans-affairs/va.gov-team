@@ -44,19 +44,18 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions - 5-10 minutes
+- What device are you using to talk to us today?
 - Do you have health care through the VA?
 - Do you have other benefits through the VA?
 - Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
-- Do you use secure messaging now? What for? How often? What would you change about it?
 
 
 ## View message inbox - 5 minutes
 - What are you seeing here?
 - How many messages do you have?
-- How many messages would you like to see at a time?
-- Can you respond to all of these messages? (If they say no) Which ones can you respond to? How do you know?
+- Can you respond to all of these messages? (If they say no) Which ones can you respond to? How do you know?*****
 - How do you know which messages you have read and which messages you have not read?
-- Are you seeing single messages or a series of messages sent back and forth, or both?
+- Are you seeing single messages or a series of messages sent back and forth, or both?*****
 - Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
 - What name are you seeing on these messages?
 - Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
@@ -66,19 +65,20 @@ Before we start, a few things I want to mention:
 
 ### Things to watch for:
 - Do participants notice that the left nav are links and folders?
-- Do participants see the action links "search" and "compose"?
+- Do participants see the action link "search" and "compose" text box?
 - Do participants see the < previous and next > navigation? 
 - Do participants like the option of a more compressed inbox so more messages fit on a page? 
-- Is there a better place in the UX for the "you can reply to this message" swoosh that's now in the message list? Or should we mark the messages you *can't* reply to?  
 
 
-## Scroll and/or search messages - 5 - 10 minutes
+## Find messages - 5 - 10 minutes
 - Let's say that you are looking for a message that your provider sent you a little while ago. It had test results in it that you would like to review.  How would you find that message?
 
 *If they scroll. . .* 
 - What are you looking for?
 - How would you select one of these messages to read?
 - How many messages would you be comfortable scrolling through?
+
+*If they filter. . .*****
 
 *If they search. . .*
 - What are you seeing here? 
