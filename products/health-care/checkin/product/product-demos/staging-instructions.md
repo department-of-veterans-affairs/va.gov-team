@@ -43,7 +43,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Copy Link to Clipboard"
 - Save the link that you copied, you will need it later if you want to test somewhere other than you mobile device
 
-## Mobile Check-in
+## Testing Mobile Check-in
 - Do one of these
     - Open the link that was texted to your mobile device
     - Open the Browser tab/window that contains the URL pasted for the next business day's appointment
@@ -57,7 +57,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - NOTE: if "No" is selected for any of the Demographics information, the Veteran will be instructed to check-in with a staff memeber
 - Click "Check in now" on your appointment
 
-## Pre-Check-in
+## Testing Pre-Check-in
 - Open the Browser tab/window that contains the URL pasted for the next business day's appointment
 - Enter your last name 
 - Enter the last 4 digits of your mobile number as the SSN
