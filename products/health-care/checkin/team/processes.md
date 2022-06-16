@@ -9,10 +9,7 @@
 - For each Epic
     - Questions to answer & document in the ticket
         - How will we release the work for this Epic? 
-            - Coordinated
-                - Will we use?
-                    - Feature Flag (document name in the ticket)
-                    - Feature Branch (document name in the ticket)
+            - Coordinated - will we use a Feature Flag or Feature Branch? 
             - As soon as approved        
         - Is this in the Planned Releases list yet?
             - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list            
