@@ -9,8 +9,8 @@
 - For each Epic
     - Questions to answer & document in the ticket
         - How will we release the work for this Epic? 
-            - Coordinated - will we use a Feature Flag or Feature Branch? 
-            - As soon as approved        
+            - Scheduled & Coordinated - will we use a Feature Flag or Feature Branch? 
+            - Upon Completion & Approval
         - Is this in the Planned Releases list yet?
             - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list            
     - Coordinate the release with UX & Product using the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
