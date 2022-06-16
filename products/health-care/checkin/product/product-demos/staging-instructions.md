@@ -49,7 +49,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 ## Testing Mobile Check-in
 - Do one of these
     - Open the link that was texted to your mobile device
-    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to access the tool)
+    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
 - Enter your last name 
 - Enter the last 4 digits of your mobile number as the SSN
 - Click "Continue" or hit Enter
@@ -61,7 +61,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Check in now" on your appointment
 
 ## Testing Pre-Check-in
-- Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to access the tool)
+- Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
 - Enter your last name 
 - Enter the last 4 digits of your mobile number as the SSN
 - Click "Continue" or hit Enter
