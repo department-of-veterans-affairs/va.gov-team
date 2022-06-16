@@ -1,7 +1,7 @@
 # Instructions for Accessing Patient Check-in in the Staging Environment
 
 You will need to create 2 appointments in VistA's Staging environment in order to test the Pre-Check-in and Mobile Check-in applications.
-- One appointment should be within a half hour of the current date & time so that you can test the Mobile Check-in 
+- One appointment should be within a half hour of the current date & time (ET) so that you can test the Mobile Check-in 
 - One appointment should be after today so that you can test Pre-Check-in
 
 There is a VistA Staging tool available that makes creating VistA appointments in staging easy.
@@ -25,8 +25,8 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Select today's tab under Available Appointments
 - Find an appointment for which the Book button is not greyed out
     - In order to verify the Mobile Check-in now you should choose an appointment time that is either
-      - No more than 30 minutes after the current date & time
-      - No more than 15 minutes before the current date & time
+      - No more than 30 minutes after the current date & time (see current time ET in the upper right corner)
+      - No more than 15 minutes before the current date & time (see current time ET in the upper right corner)
 - Click "Book"
 - Click "Get Check-in Link"
 - Wait for the link to generate
@@ -50,7 +50,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 ## Testing Mobile Check-in
 - Do one of these
     - Open the link that was texted to your mobile device
-    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
+    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment
 - Enter the last name for your assigned test patient
 - Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
@@ -62,7 +62,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Check in now" on your appointment
 
 ## Testing Pre-Check-in
-- Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
+- Open the Browser tab/window that contains the URL pasted for the next business day's appointment
 - Enter the last name for your assigned test patient
 - Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
