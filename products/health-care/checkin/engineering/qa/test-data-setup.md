@@ -172,12 +172,12 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 25  | Three, Patient | Paras |
 | 229 | Four, Patient | Andy |
 | 231 | Five, Patient | Justin |
-| 418 | Six, Patient | Kevin |
+| 418 | Six, Patient | Chris Walker (Collab Cycle) |
 | 253 | Seven, Patient | Carl |
 | 3   | Eight, Patient | Stephen |
 | 8   | Ten, Patient | QA Team |
 | 224 | Eleven, Patient | Patrick |
-| 204 | Twelve, Patient | Mark |
+| 204 | Twelve, Patient | Jose Beltran (Collab Cycle) |
 | 228 | Thirteen, Patient | Demo & Staging Reviews |
 | 271 | Fourteen, Patient | Kristen |
 | 723 | Twentysix, Patient | Adrian |
