@@ -104,11 +104,11 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 
 ### Availability
 
-- Friday 6/24: 8am - 3pm ET
-- Monday 6/27: 8am - 5pm ET
+- Monday 6/27: 8am - 12:30pm, 2:30pm - 5pm ET
 - Tuesday 6/28: 8am - 5pm ET
 - Wednesday 6/29: 8am - 5pm ET
 - Tuesday 7/05: 8am - 5pm ET
+- Wednesday 7/06: 8am - 5pm ET
 
 
 	
