@@ -10,12 +10,14 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ### Reset Your Confirmations
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
+  - NOTE: you will need to be on the VA network to access the tool
 - Go to the Test Patients tab
 - Click "Reset All" to reset the update flags for each set of Demographics information 
   - Alternatively, you can click "Reset" for any of the Demographiucs to reset just one or two
 
 ### Create an Appointment for Today
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
+  - NOTE: you will need to be on the VA network to access the tool
 - Go to the Appointments tab
 - Select any clinic
 - Select yourself from the patient list 
