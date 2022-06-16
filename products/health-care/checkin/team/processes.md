@@ -88,3 +88,8 @@
     - Product will create a release note, if needed, and post it after 3 pm when the item gets pushed to production 
    - Product will post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
    - Product will notify Training & Contact Center et. al. of the release
+
+
+
+![image](https://user-images.githubusercontent.com/86678742/174146310-06d1b5e3-5b9c-4e25-8496-404bc52b8cf3.png)
+
