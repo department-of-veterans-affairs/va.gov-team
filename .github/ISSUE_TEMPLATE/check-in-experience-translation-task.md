@@ -9,7 +9,7 @@ assignees: ''
 
 ## Tasks
 - [ ] Create JSON file with new content to be translated
-- [ ] Do a diff between the English json file and all translated files to ensure all keys have been included in the new submission
+- [ ] Do a diff between the English json file and each non-English json file to ensure all keys that we need translated have been included in the new submission file
 - [ ] Submit JSON file to the State Department
 
 ## Acceptance Criteria
