@@ -1,5 +1,5 @@
 # note: this GHA applies only to Github Projects Beta
-# docs: https://github.com/actions/add-to-project
+# docs: https://github.com/actions/add-to-project ?
 name: Add issues to Github Beta projects
 
 on:
