@@ -45,8 +45,6 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5-10 minutes
 - What device are you using to talk to us today?
-- Do you have health care through the VA?
-- Do you have other benefits through the VA?
 - Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
 
 
@@ -67,7 +65,6 @@ Before we start, a few things I want to mention:
 - Do participants notice that the left nav are links and folders?
 - Do participants see the action link "search" and "compose" text box?
 - Do participants see the < previous and next > navigation? 
-- Do participants like the option of a more compressed inbox so more messages fit on a page? 
 
 
 ## Find messages - 5 - 10 minutes
@@ -109,7 +106,7 @@ Before we start, a few things I want to mention:
 
 
 ## Reply to a message - 5 - 10 minutes 
-- If you wanted to send your provider a response to this message how would you do that?
+- If you wanted to respond to this message, what would you do?
 - What are you seeing here?
 - How long would you expect it would take to get a response to your message?
 - Who do you think would respond to your message?
@@ -121,23 +118,23 @@ Before we start, a few things I want to mention:
 
 
 ## Send a new message - 10 minutes
-- If you had a new question for your provider how would you go about reaching out to them?
+- If you had a new question for your care team how would you go about reaching out to them?
 - What kind of concerns would you send messages about and are there cases when you should not send a secure message?
 - How do you decide who to send your message to?
 - Would you ever want to edit your list of providers? How would you expect to do that?
 - Who would you expect the message to say that it is from?
-- Do you ever add signatures to your messages? (If so) Would you like to be able to do that here? What would you include?
+- How do you normally end your messages to your care team? Do you include any kind of closing words? (If so) Would you like to be able to do that here? What would you include?
 - Which category would you pick for your message? How do you decide which category to choose?
-- How long would you expect it would take to get a response to your message?
-- Do you ever send documents to your provider? How would you do that?
+- Do you ever send attachements to your provider? How would you do that? What kind of attachments would you send?
 - Which fields so you have to fill out in order to send your message?
-- If you made some kind of mistake in filling out your message how would you expect to find that out?
-- Do you ever start writing a message but not finish it? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
+- If you made some kind of mistake in filling out your message how would you expect to find that out?***(Do we want to get into error messages?)***
+- If you started composing a message, but wanted to come back and finish it later, what would you do? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
 - After you finished writing your message what would you do? 
 - What would you expect to happen next?
 
 ### Things to watch for:
 - Should messages have a signature?
+- Which “compose” link do they click (top of the page or navigation menu)?
 - Which send action button do they click on?
 - Add text telling user it could take 3 days to get a reply.
 - Form fields: Are there error scenarios we should test?
