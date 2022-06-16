@@ -59,7 +59,9 @@
             - Screenshots of completed work 
             - Link to Review Environment
             - Link to video demonstrating the feature
-    - Ticket owner calls out in a ticket comment the person(s) identified as reviewers
+    - Ticket owner calls out in at least 1 of these 2 locations the person(s) identified as reviewers
+        - Ticket comment
+        - [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
 - Upon completion of validation
     - Ticket owner closes the ticket
 
