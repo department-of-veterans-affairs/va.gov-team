@@ -3,8 +3,11 @@
 ## Refinement and/or Planning
 - For an Epic
     - Questions to answer
-        - How will we release the work for this Epic? Coordinated or as soon as approved?
-        - Will we use a Feature Flag or a Feature Branch?
+        - How will we release the work for this Epic? 
+            - Coordinated, which will we use?
+                - Feature Flag
+                - Feature Branch
+            - As soon as approved        
         - Is this in the Planned Releases list yet?
         - When do we think we can release? (no sooner than 2 weeks after it appears on the Planned Releases list)
     - Pick a release date that is at least 2 weeks in advance
