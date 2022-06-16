@@ -16,7 +16,7 @@ Last updated June 16, 2022
 - [Overview](#overview)
 - [User Problem Statement]()
 - [Measuring success]()
-- [Projects]()
+- [Projects](#projects)
 - [Feature Overview]()
 - [How to Access and Test]()
 - [Backend]()
@@ -108,6 +108,37 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 - Users expect to see their payment information on My VA, but currently do not.
 - Users have trouble finding this information, with terms like “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA.
 - When My VA eventually becomes the authenticated homepage, it needs to accomodate all of the top tasks on VA.gov, of which viewing payment history is one.
+
+#### Desired User Outcomes
+
+*Why would a user want to use this?*
+
+- This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans.
+- Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
+
+*With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
+- Veterans will more quickly view and complete tasks related to their payment and debt information.
+
+#### Undesired User Outcomes
+
+- We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable.
+- We do not want the My VA page to become too cluttered or cumbersome, slowing down veterans, instead of expediting their experience.
+ 
+#### Desired Business Outcomes
+
+*Why would your business want this to exist?*
+
+Showing payment and debt information on My VA helps fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks.
+
+*With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+
+- Provide veterans with a personalized go-to source for payment and debt information.
+- Provide veterans with links to related action items, such as viewing outstanding debts, payment history, or direct deposit.
+- Reduce the number of payment or debt-related searches.
+
+#### Undesired Business Outcomes
+- We do not want the My VA page to become cumbersome and unusable.
 
 #### Discovery
 
