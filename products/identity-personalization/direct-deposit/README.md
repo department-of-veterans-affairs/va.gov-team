@@ -4,7 +4,7 @@
  
 ## Overview
 
-Currently, VA.gov is home to both **direct deposit for compensation & pension** information and **direct deposit for edu** information. This functionality was added to VA.gov between 2019 - 2021 as part of the eBenefits migration.
+Currently, VA.gov is home to both **direct deposit for compensation & pension** information and **direct deposit for education** information. This functionality was added to VA.gov between 2019 - 2021 as part of the eBenefits migration.
 
 ## User Problem Statements
 
