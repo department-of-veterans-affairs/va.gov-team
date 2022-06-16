@@ -50,8 +50,8 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Do one of these
     - Open the link that was texted to your mobile device
     - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
-- Enter your last name 
-- Enter the last 4 digits of your mobile number as the SSN
+- Enter the last name for your test patient
+- Enter the last 4 digits of your test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
 - Answer "Yes" to the "Current Contact Information?" questionv
@@ -62,8 +62,8 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ## Testing Pre-Check-in
 - Open the Browser tab/window that contains the URL pasted for the next business day's appointment (NOTE: you will need to be on the VA network to use this link)
-- Enter your last name 
-- Enter the last 4 digits of your mobile number as the SSN
+- Enter the last name for your test patient
+- Enter the last 4 digits of your test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
 - Click "Answer Questions"
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
