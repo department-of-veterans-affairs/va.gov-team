@@ -1,6 +1,6 @@
-# Project outline: Add payment and debt info to the My VA dashboard
+# Feature: Payment and debt info on the My VA dashboard
 
-Last updated May 24, 2022
+Last updated June 16, 2022
 
 ### Communications
 
@@ -14,16 +14,13 @@ Last updated May 24, 2022
 ### Table of Contents
 
 - [Overview](#overview)
-- [Problem Statement](#problem)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
-- [Discovery](#discovery)
-- [Launch Planning](#launch-planning)
-- [Key deliverables](#key-deliverables)
-- [Key Dates](#key-dates)
-- [Screenshots](#screenshots)
-
+- [User Problem Statement]()
+- [Measuring success]()
+- [Projects]()
+- [Feature Overview]()
+- [How to Access and Test]()
+- [Backend]()
+- [Design and UX]()
 
 ## Overview
 
@@ -32,21 +29,6 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 Our intitial effort -- to add payment information to the My VA dashboard -- aimed to meet this expectation, and appears to have done so. After having launched this work to 100% of users in May 2022, the link to view payment information is already 5th most-clicked link on My VA. Additionally, the debt and direct deposit links we added get a fair amount of traction, and searches for debt and direct deposit from My VA are down from where they were prior to launch.
 
 Prior to this initial launch, we were made aware of some usability problems with our MVP through UAT and the VA.gov collab cycle staging review. Feedback of note included that it was sometimes hard to differentiate between payment info (money going to the veteran) and debt info (money owed to the VA), and that we did not give enough emphasis to debt information. Given how late in the project we heard this feedback, we did not get a chance to address these issues before launch, so our team is now working on a "V2" of this section to better clarify and balance payment and debt information.
-
-## Problems
-
-**MVP problems**
-
-- Users expect to see their payment information on My VA, but currently do not.
-- Users have trouble finding this information, with terms like “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA.
-- When My VA eventually becomes the authenticated homepage, it needs to accomodate all of the top tasks on VA.gov, of which viewing payment history is one.
-
-**Problems we are addressing in our V2**
-
-- It's hard to differentiate between payment info and debt info.
-- At a glance, people confuse payment information with a debt notice because they see the debt alert and assume the gray box (payment info) below it is showing money they owe to the VA. 
-- Payment information has a much larger emphasis than debt information, even though debt information is more important for those to whom that scenario applies.
-- We are using a notification style for the debt information but a gray box style for payment info. This is confusing, and the two should be styled more consistently. 
 
 ## User Outcomes
 
@@ -115,13 +97,19 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |Search rank for "debt” or "debt management"| #23|TBD|TBD|
 |Search rank for "direct deposit”| #7, #17|TBD|TBD|
 
----
+## Projects
 
-## Discovery
-
-### Solution Summary
+### MVP: Adding payments and debts to My VA (October 2021 - May 2022)
 
 <details>  <summary>MVP</summary>  
+ 
+#### Problems
+
+- Users expect to see their payment information on My VA, but currently do not.
+- Users have trouble finding this information, with terms like “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA.
+- When My VA eventually becomes the authenticated homepage, it needs to accomodate all of the top tasks on VA.gov, of which viewing payment history is one.
+
+#### Discovery
 
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
@@ -140,15 +128,10 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Caregiver program
 - VA Homeloans information
 - Co-pay details (future enhancement as data comes available)
-
- </details>
  
----
-## Launch Planning
+#### Launch Planning
 
-<details>  <summary>MVP</summary>  
-
-### Collaboration Cycle
+##### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket [#33468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33468)
@@ -161,9 +144,8 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Staging ticket [#38376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38376)
 - Privacy & Security ticket [#434](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/434)
 
-</details>
 
-### Incident Response info
+#### Incident Response info
 A security vulnerability is unlikely due to the 2-factor authentication required to access the page and personal information.
 
 - Payments API: /v0/profile/payment_history
@@ -174,11 +156,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
           - PM: Denise Coveyduc
           - OCTO-DE Lead: Matt Self
 
----
-## Key deliverables
-
-
-<details>  <summary>MVP</summary>  
+#### Key deliverables
 
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
 - Design documentation [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1638500075560/0e849f61e282ebe2d8e7119eea504e4c05b0bbe4?sender=u5ad49c107baa41137f271007), [Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment) and [UXPIN Prototype](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i)
@@ -192,10 +170,7 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/product/release-plan.md)
 - [Production env](https://www.va.gov/my-va/)
  
- </details>
-
-### Key Dates
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+#### Key Dates
 
 - Nov 2021: Kickoff with MVP outlined & begin design
 - Dec 2021: Design work finalized
@@ -207,6 +182,28 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 - Apr 26, 2022: Launched V1 to 50% of users
 - Apr 29, 2022: Design intent for V2 updates
 - May 2, 2022: Launched V1 to 100% of users
+ 
+ </details>
+ 
+ 
+### V2: Updating payments and debts to address usability issues (May 2022 - current)
+
+<details>  <summary>V2</summary>  
+ 
+#### Problems 
+ 
+- In the V1 of benefit payments and debts, it's hard to differentiate between payment info and debt info.
+- At a glance, people confuse payment information with a debt notice because they see the debt alert and assume the gray box (payment info) below it is showing money they owe to the VA. 
+- Payment information has a much larger emphasis than debt information, even though debt information is more important for those to whom that scenario applies.
+- We are using a notification style for the debt information but a gray box style for payment info. This is confusing, and the two should be styled more consistently. 
+ 
+#### Key Dates
+ 
+- April 2022: Collab cycle kickoff, design iterations, design intent
+- May 2022: Design updates
+- June 2022: User research
+ 
+</details> 
 
 ---
    
