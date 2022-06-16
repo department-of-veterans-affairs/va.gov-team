@@ -1,4 +1,4 @@
-# Insructions for Accessing Patient Check-in in Staging Environment
+# Instructions for Accessing Patient Check-in in the Staging Environment
 
 You will need to create 2 appointments in VistA's Staging environment in order to test the Pre-Check-in and Mobile Check-in applications.
 - One appointment should be within a half hour of the current date & time so that you can test the Mobile Check-in 
