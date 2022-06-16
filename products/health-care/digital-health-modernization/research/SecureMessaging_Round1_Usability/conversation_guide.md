@@ -7,7 +7,7 @@
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
 
-[Mural board for notes]()
+[Mural board for notes]() ***
 
 ## Moderator logistics
 
@@ -52,13 +52,12 @@ Before we start, a few things I want to mention:
 - What are you seeing here?
 - How many messages do you have?
 - Can you respond to all of these messages? (If they say no) Which ones can you respond to? How do you know?*****
-- How do you know which messages you have read and which messages you have not read?
+- Do you know which messages you have read and which messages you have not read? If so, how?
 - Are you seeing single messages or a series of messages sent back and forth, or both?*****
 - Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
 - What name are you seeing on these messages?
 - Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
-- Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
-- After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Have you ever gotten rid of a message and then needed it again? Do you see a way to find those messages?
+- After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Have you ever gotten rid of a message and then needed it again? Do you see a way to find those messages? ***
 - If you had questions about secure messages what would you do?
 
 ### Things to watch for:
@@ -76,6 +75,7 @@ Before we start, a few things I want to mention:
 - How many messages would you be comfortable scrolling through?
 
 *If they filter. . .*****
+- Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
 
 *If they search. . .*
 - What are you seeing here? 
