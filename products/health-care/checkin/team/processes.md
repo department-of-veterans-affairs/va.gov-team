@@ -90,6 +90,7 @@
    - Product will notify Training & Contact Center et. al. of the release
 
 
+![CIE Development Process - BPMN process flow](https://user-images.githubusercontent.com/86678742/174146821-a7dcfcb8-38a0-4675-bdb0-52c1c633e5bb.jpeg)
 
-![image](https://user-images.githubusercontent.com/86678742/174146310-06d1b5e3-5b9c-4e25-8496-404bc52b8cf3.png)
+
 
