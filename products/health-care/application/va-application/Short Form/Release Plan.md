@@ -6,16 +6,16 @@
 - UAT Go / No Go: 06/06/2022
 - Link to [Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/UAT%20Readiness%20Checklist.md)
 - Desired range or test duration: 06/10/2022 - 06/17/2022
-- Desired number of users: TBD
+- Desired number of users: 9
 - Recruitment method: Perigean
 - How testing will be conducted: Sessions over Zoom
 - How users will be given access without making it fully available in production: Feature flag
 
 ### Results
-- Number of users: TBD
-- Number of bugs identified / fixed: TBD
+- Number of users: 10
+- Number of bugs identified / fixed: 0
 - UX changes required, based on feedback, logs, or challenges
-  -  TBD
+  -  None
 
 
 ## Phase 2: Staged Rollout
