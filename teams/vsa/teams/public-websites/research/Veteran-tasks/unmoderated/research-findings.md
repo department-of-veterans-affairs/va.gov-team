@@ -92,7 +92,7 @@ The task importance question included in the survey during this research was wor
 
 # Appendix
 
-[Research plan]()
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-plan.md)
 
 
 ## Tools used for Synthesis
