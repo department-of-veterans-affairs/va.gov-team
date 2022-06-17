@@ -5,8 +5,8 @@
     - Raise your virtual hand when you enter Stand up and take it down after you have given your update
     - Answer the following questions
         - What is your Balance score?
-        - What you did yesterday?
-        - What you did today?
+        - What did you do yesterday towards our Sprint goals?
+        - What did you do today towards our Sprint goals?
         - Do you have any blockers?
     - Discuss who is responsible for reviewing any tickets that need validation and a timeframe for completion
 
@@ -40,10 +40,10 @@
         - Create pre-release notes for each item in the Planned Releases list
         - Include a release date or range with each Planned Release item (can be TBD)
         - Update the estimated release date in Planned Releases when one has been agreed upon by the Team
-        - Notify Training, Contact Center, & Comms of updates to Planned Releases            
+        - Notify Training, Contact Center, & Comms of updates to Planned Releases (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases)) 
         - **NOT** put **Tech Debt & Bug** items on the Planned Releases list   
     - Team will 
-        - Determine an estimated release date that is at least 2 weeks from the date it was decided         
+        - Determine an estimated release date that is at least 2 weeks from the date it was decided for scheduled & coordinated releases      
         - Estimate their capacity for the Sprint
         - Pull tickets into the Sprint
         - Agree on the Sprint goals
@@ -79,18 +79,17 @@
             - Updating of release notes (Product)
             - Notification of Training & Contact Center et. al. (Product)
             - Closing of all tickets & the Epic (Engineering & Product)
-        - Choose a release date that is at least 2 weeks from the date it was decided 
     - Product will 
         - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
         - Remove the Epic from the Planned Releases list 
-        - Notify Training & Contact Center et. al. of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
+        - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
 - Tech debt & Bugs & stand-alone tickets that are pushed as soon as approved  
     - Engineering will 
-        - Post a notice in the check-in-release-planning channel on the day an item has been merged and is expected to go to production
+        - Post a notice in the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel on the day an item has been merged and is expected to go to production
     - Product will 
         - Create a release note, if needed, and post it after 3 pm when the item gets pushed to production 
         - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
-        - Notify Training & Contact Center et. al. of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
+        - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
 
 
 ## Notifications of Releases & Updates to Planned Releases
@@ -98,6 +97,8 @@
     -   [CIE channel](https://dsva.slack.com/archives/C022AC2STBM) - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
     -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
 
+
+## Diagram of All Team Processes
 
 ![CIE Development Process - BPMN process flow (1)](https://user-images.githubusercontent.com/86678742/174146999-201947c6-33b6-4564-bb64-a1bce22631df.jpeg)
 
