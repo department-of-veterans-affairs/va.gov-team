@@ -10,61 +10,49 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 **Jump to:**
 
-[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#hypotheses-and-conclusions)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#key-findings)
+[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#recommendations)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#appendix)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#who-we-talked-to)
 
 <br>
 
 # Research Goals
-We would like to learn which VA-related tasks are most important to Veterans and caregivers so that these tasks can be best supported from the VA.gov home page. The goal of this research was to **get feedback from Veterans and others** (including Veterans' family members or caregivers, survivors, and service members) **on a survey designed to identify Veteran top tasks**. We wanted to get feedback on the tasks, questions, and instructions before launching the unmoderated survey to a large group of Veterans and others to complete independently (without a researcher present).
+The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
 
-*Note: Because this research is like an extended pilot of the survey, this abbreviated report describes the findings and recommendations needed to make revisions to the survey and then move forward with the unmoderated research. Some details have been omitted in order to move as quickly as possible to the unmoderated research.*
+We wanted to learn which VA-related tasks are most important to Veterans and others, including Veterans' family members or caregivers, survivors, and service members, so that these tasks can be best supported from the home page. 
 
-Veteran tasks fit into the Veteran journey throughout their lives:
-- Starting up (Serving in and separating from the military)
-- Living civilian life
-- Retiring and aging
+The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
 
 # Research Questions
-## Primary
-1. Are there any tasks in the survey that are unclear or confusing?
-1. Are there any important tasks missing from the survey?
-1. Is there anything about the survey that is unclear or confusing?
-
-## For unmoderated research phase, but could look at preliminary results
-3. When Veterans and others contact the VA, what tasks are most important to them?
+1. When Veterans and others contact the VA, what tasks are most important to them?
 4. How many tasks do Veterans and others identify as important to themselves?
 5. What tasks are least important?
+5. Are there any important tasks missing?
+6. What tasks are done most frequently online?
 
 # Methodology 
+We conducted an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants received a link to an online survey that contains a list of 41 VA-related tasks. The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks that were synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The list of tasks was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*). The survey design has already been refined following the phase 1 [moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md). 
 
-We conducted remote moderated research sessions via Zoom. Research participants were asked about VA-related tasks that they do, and then were given an online survey link to do while sharing their web browser screen and talking aloud.
+In the survey, participants selected which VA-related tasks were important to them personally (*not* for all Veterans). Participants were also asked if there were any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
 
-The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The list of tasks was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).
-
-In the survey, participants were asked to select which VA-related tasks were important to them personally right now (*not* for all Veterans). Participants were also asked if there were any VA-related tasks that were important to them that weren't on the list, and which tasks they do most frequently.
-
+We wanted to get complete survey responses from **at least 30 Veterans and others (ideally 40-50)**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
 # Hypotheses and Conclusions
 
-1. Veterans and others will find the survey intuitive to use from desktop or mobile.
+1. Veterans and others will generally agree on which tasks are the most important.
 
-    2. TRUE: All participants were able to readily fill out the survey from the desktop or mobile device they were using. 
+    2. TRUE: . 
 
-3. Veterans and others will be able to select which of the VA-related tasks presented in the survey are most important to them.
+3. Veterans and others will generally agree on which tasks are the least important.
 
-    2. MOSTLY TRUE: All participants were able to select important tasks, but some of the tasks were unclear to a few of the participants.
+    2. MOSTLY TRUE: 
    
-5. Veterans and others won't find any important tasks missing from the survey.
-
-    2. FALSE: 3 participants suggested additional tasks that they currently do that weren't on the list in the survey.
 
 # Key Findings
 
@@ -131,7 +119,7 @@ Audience segments:
 
 
 Experience with VA benefits and services:
-* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): **7 (ALL of them)**
+* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): **Y**
 * NO experience with health care, but DO have experience with one or more other VA benefits or services: 
 * NO experience with ANY VA benefits or services:  
  
