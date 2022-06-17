@@ -1,6 +1,6 @@
 ## June 17, 2022 CG Stakeholder Touchbase
 
-#### Action Items from 6/10
+#### Action Items from 6/10 (did not review during 6/17 meeting)
 - VA.gov - Mulesoft Queueing : 
      - [ ] **(6/3) AI Dene to review verbiage and make recommendations - In Progress**
      - “Your application is en route to the VA Medical Center you designated in the application. All applicants that provided an email address on the application will receive an email confirmation once the application is received by the VA.”
@@ -32,13 +32,34 @@
 
 
 #### Notes
-- Reviewed Action Items
-- Review of Queueing/Retries
-     - 
-- Review of Statistic/ Metrics Review
-     - 
-- Sign as a Representative Metrics Review
-     - 
+- Due to staff outages and other conflicts, technical queuing discussion is moved to next week.
+- **Production issue** - Release of POA flag caused all applications to fail after 4:30pm ET
+     - Maintenance notice was posted, then taken back down after reverting code change back
+     - **Observation from Mili**:
+          - VA.gov was not calling Mulesoft
+     - **Finding**: VA.gov team did not test the change in lower environment
+          - Staging environment currently connects to 
+          - This needs to be updated to connect to the Mulesoft testing environment
+               - Planning to do this on VA.gov side
+          - 2 sides to testing
+               - Internal local testing - no connections needed
+               - End to End testing 
+                    - To be done when any changes to payload or flows are made (not just UI)
+               - **Question**: Are you all able to do backend testing without mule?
+                    - So end to end only needs to happen in staging?
+                         - **Mili**: User _**must exist in MPI**_ for proper testing to receive ICN and everything
+                    - **Igor**: We don't have to use real data in staging.  As long as the data that Va.gov has in our environment matches what is in the Mulesoft environment.  
+                         - NOTE: We can share the test user data we will be using
+                         - Lihan Concern: If we connect to Mulesoft staging, there is a potential security issue since their environment contains real people data.
+                         - May be able to switch to UAT
+     - **Finding**: Backend code did not allow the call to go through
+          - This is how we identified that BE changes are needed
+          - **Lihan** looking for the correct test server address - posted in shared slack
+     - Need to look at adjusting or creating alerts with shorter threshold time periods
+          - Currently at 25% failures for the month
+          - Need to look at an alert within a shorter time.
+
+
 
 
 <details>
@@ -46,6 +67,27 @@
      
 **Notes**
  
+**Production Issue**
+- Why occurred?
+     - POA flag on backend. Did not test in a lower environment. 124 failed apps
+     - [ ] **AI Lihan - Slack channel that VA.gov has for error did not go off. Lihan to adjust to ensure that it will ping (was set to 25% failure/mnth. Can we set for 100% failure in XX min)**
+          - [ ] **AI David to work Lihan to discuss the pings needed - 1 for critical crashes where a bunch fail in an hour, and 1 for weird oops that keep cropping up**
+     - [ ] **AI Heather to add SPS and OIT teams to the slack channel.**
+     - [ ] **AI Tham and David to set up end to end testing for VA.gov and Mulesoft and Salesforce**
+          - David and Tham to reach out to Lihan in slack. Lihan is not sure which server to use (go through MPI SQAi --> Mulesoft --> CARMA staging)
+                    - David to make testing policy and procedure
+                         - How to test between 2 teams
+          - VA.gov Staging (all fake. No PII/PHI needed) --> Preprod. Can test in dev. VA.gov staging is not working
+                    - MPI preprod can have PII/PHI AND fake people
+                    - Last time VA.gov staging was trying to connect to MPI SQA
+          - Mulesoft can set up way where additional individuals can be used, but identities must exist in MPI Preprod
+     - Has front end end-to-end testing. Did not have backend. Backend did not allow the attribute to be added
+
+- Next Steps for Checkbox
+     - Depends on what change needs to be done to test/setting up the testing
+     - Lihan to connect staging to Mulesoft/Salesforce
+     - 3 days for VA.gov write code
+     - David to facilitate testing in Slack the week of July 5th
 
   
      </details>
