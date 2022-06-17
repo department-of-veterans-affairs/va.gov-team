@@ -12,13 +12,19 @@
 
 ## Refinement 
 - Team will 
-    - Answer the following questions for each Epic/Ticket
+    - Answer & document in the Epic/Ticket the following questions for each Epic/Ticket
         - How will we release the work for this Epic/Ticket? 
             - Scheduled & Coordinated - will we use a Feature Flag or Feature Branch? 
+                - All Epics should be scheduled and coordinated
             - Upon Completion & Approval
+                - Bugs not related to an Epic and Tech Debt can be released upon completion & approval
         - Is this in the Planned Releases list yet or does it not need to be?
-            - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list            
-    - Ensure these tickets are created and added to an Epic using the referenced templates
+            - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list    
+        - Does this Ticket need a release note?
+   - Discuss and modify Acceptance Criteria, as necessary
+   - Estimate/Point each Ticket (or apply a time box)
+   - Understand the work that is necessary (high level) for each Ticket and how it is being released
+   - Ensure these tickets are created and added to each Epic using the referenced templates
         - [check-in-experience-translation-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-translation-task.md)
             - Used for generating and submitting a json file of content to be translated to the State Department
         - [check-in-experience-prod-artifacts-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-artifacts-task.md)
@@ -26,18 +32,6 @@
         - [check-in-experience-prod-release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-release.md)
             - Used for coordinating a production release between UX, Design, & Product
         - NOTE: some of these may not always be needed for every Epic
-- For each Ticket
-    - Questions to answer & document in the ticket
-        - Is the Ticket part of an Epic and do we understand whether it is part of a Feature Flag or Feature Branch?
-        - Who needs to validate the ticket?
-        - Will we need a release note?
-    - Discuss and modify AC if needed
-    - Point the ticket
-- For each bug or tech debt item
-    - Questions to answer & document in the ticket
-        - Will we need a release note?
-    - Discuss and modify AC if needed
-    - Point the ticket
  
  ## Planning
  - Epics 
@@ -47,13 +41,13 @@
         - Include a release date or range with each Planned Release item (can be TBD)
         - Update the estimated release date in Planned Releases when one has been agreed upon by the Team
         - Notify Training, Contact Center, & Comms of updates to Planned Releases            
+        - **NOT** put **Tech Debt & Bug** items on the Planned Releases list   
     - Team will 
         - Determine an estimated release date that is at least 2 weeks from the date it was decided         
-- Tech debt & Bugs
-    - Product will
-        - **NOT** put Tech Debt & Bug items on the Planned Releases list   
-- Team estimates capacity for next Sprint
-- Team plans the next Sprint by pulling in tickets that are development-ready
+        - Estimate their capacity for the Sprint
+        - Pull tickets into the Sprint
+        - Agree on the Sprint goals
+        - Agree on the Sprint content
  
  ## Validating
 - Upon completion of a ticket (i.e. no more changes are expected and PR is done)
