@@ -220,7 +220,7 @@ To understand how Veterans interact with the portal depending on their experienc
 
 ## Timeline
 
-TBD – estimated late May 
+Beginning June 27, 2022 until 8-10 sessions are completed.
 
 
 ### Prepare
