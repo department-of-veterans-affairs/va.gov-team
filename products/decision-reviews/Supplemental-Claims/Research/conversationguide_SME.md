@@ -1,4 +1,4 @@
-# Conversation Guide \
+# Conversation Guide
 Supplemental Claims - Claims SMEs
 
 VA Benefits Team 1
@@ -27,7 +27,7 @@ Thanks for joining us today! My name is Pam, I am a Senior Designer/Researcher o
         * Any pitfalls we should avoid?
     * How are SC decisions typically communicated to the Veteran or VSO?
 
-**Automation Opportunities **
+# Automation Opportunities **
 * Do you know of any initiatives where the VA was able to presumptively connect people to a claim? [Blue Water Navy]
     * If yes, what did they do?
     * If yes, are these claims adjudicated in the same way? What is the same or different?
