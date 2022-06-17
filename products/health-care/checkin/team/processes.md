@@ -1,15 +1,15 @@
 # Team Development Processes
 
 ## Stand Up / Daily Scrum
-- For each Team Member
+- Each Team Member will
     - Raise your virtual hand when you enter Stand up and take it down after you have given your update
     - Questions to answer
         - What is your Balance score?
         - What you did yesterday?
         - What you did today?
         - Do you have any blockers?
-    - If any tickets in Validate column
-        - Team Member mentions who is responsible for reviewing the ticket and discusses a timeframe for completion
+    - If you have any tickets in Validate column
+        - Mention who is responsible for reviewing the ticket and discuss a timeframe for completion
 
 ## Refinement 
 - For each Epic
@@ -42,53 +42,70 @@
  
  ## Planning
  - Epics 
-    - Product will add an Epic to the Planned Releases list as soon as it enters our Product Backlog
-    - Product will create pre-release notes for each item in the Planned Releases list
-    - Product will include a TBD release date or range with each Planned Release item
-    - The Team will determine an estimated release date that is at least 2 weeks from the date it was decided 
-        - Product will update the estimated release date in Planned Releases
-        - Product will notify Training & Contact Center et. al. of the changes to the Planned Release list
+    - Product will 
+        - Add an Epic to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) list as soon as it enters our Product Backlog
+        - Create pre-release notes for each item in the Planned Releases list
+        - Include a release date or range with each Planned Release item (can be TBD)
+        - Update the estimated release date in Planned Releases when one has been agreed upon by the Team
+        - Notify Training, Contact Center, & Comms of updates to Planned Releases            
+    - Team will 
+        - Determine an estimated release date that is at least 2 weeks from the date it was decided         
 - Tech debt & Bugs
-    - Tech Debt & Bug items wll not appear on the Planned Releases list   
+    - Product will
+        - **NOT** put Tech Debt & Bug items on the Planned Releases list   
 - Team estimates capacity for next Sprint
 - Team plans the next Sprint by pulling in tickets that are development-ready
  
  ## Validating
 - Upon completion of a ticket (i.e. no more changes are expected and PR is done)
-    - Ticket owner moves the ticket to the Validate column                 
-    - Ticket owner attaches at least 1 of the following to the ticket 
-        - For wireframes
-            - Screenshots
-            - Links to section in Abstract
-        - For research
-            - Links to files
-        - For development
-            - Screenshots of completed work 
-            - Link to Review Environment
-            - Link to video demonstrating the feature
-            - Do a quick Zoom call
-    - Ticket owner calls out in the approvers in the UX or Engineering channels
-        - Reviewer posts approval in the ticket comment & responds to slack post  
-- Upon completion of validation
-    - Ticket owner closes the ticket
+    - Ticket owner will
+        - Move the ticket to the Validate column                 
+        - Attach at least 1 of the following to the ticket 
+            - For wireframes
+                - Screenshots
+                - Links to section in Abstract
+            - For research
+                - Links to files
+            - For development
+                - Screenshots of completed work 
+                - Link to Review Environment
+                - Link to video demonstrating the feature
+                - Do a quick Zoom call
+        - Notify approvers in the UX or Engineering channels that the ticket is ready to be validated
+        - Close the ticket once all reviews have been completed
+    - Reviewer will
+        - Add a comment to the ticket when their review is complete
+        - Post in the thread that their review is complete
 
 ## Releasing
 - Epics 
-    - Team will coordinate the release using the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
-        - Changes to product guides et. al. (UX)
-        - Merging of code or flipping of feature flag (Engineering)
-        - Updating of release notes (Product)
-        - Notification of Training & Contact Center et. al. (Product)
-        - Closing of all tickets & the Epic (Engineering & Product)
-    - Product will post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
-    - Product will notify Training & Contact Center et. al. of the release
-    - Product will remove the Epic from the Planned Releases list 
+    - Team will 
+        - Coordinate the release using the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel
+            - Changes to product guides et. al. (UX)
+            - Merging of code or flipping of feature flag (Engineering)
+            - Updating of release notes (Product)
+            - Notification of Training & Contact Center et. al. (Product)
+            - Closing of all tickets & the Epic (Engineering & Product)
+        - Choose a release date that is at least 2 weeks from the date it was decided 
+    - Product will 
+        - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
+        - Remove the Epic from the Planned Releases list 
+        - Notify Training & Contact Center et. al. of the release
+            -   [CIE channel](https://dsva.slack.com/archives/C022AC2STBM) - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
+            -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
 - Tech debt & Bugs & stand-alone tickets that are pushed as soon as approved  
-    - Engineering will post a notice in the check-in-release-planning channel on the day an item has been merged and is expected to go to production
-    - Product will create a release note, if needed, and post it after 3 pm when the item gets pushed to production 
-   - Product will post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
+    - Engineering will 
+        - Post a notice in the check-in-release-planning channel on the day an item has been merged and is expected to go to production
+    - Product will 
+        - Create a release note, if needed, and post it after 3 pm when the item gets pushed to production 
+        - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
    - Product will notify Training & Contact Center et. al. of the release
 
+
+## Notifications of Releases & Updates to Planned Releases
+- Product will notify the following people that the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page has been updated
+    -   [CIE channel](https://dsva.slack.com/archives/C022AC2STBM) - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
+    -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
 
 
 ![CIE Development Process - BPMN process flow (1)](https://user-images.githubusercontent.com/86678742/174146999-201947c6-33b6-4564-bb64-a1bce22631df.jpeg)
