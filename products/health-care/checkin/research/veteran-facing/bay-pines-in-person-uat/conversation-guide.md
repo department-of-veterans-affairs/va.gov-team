@@ -42,6 +42,7 @@ You can get started by using the check-in poster.
 - Did they have multiple appointments? If so, ask about their overall impressions of this page? Does it have all the information they’d expect to see? What information is missing? 
 - Did they get checked in on their phone or did they have to see the MSA? 
 - What step did they end on? 
+- Did they ever think they were checked in before they completed the process?
 - Did the Veteran interact with the MSAs? If so, for what reasons? 
 - Did the MSAs interact with the Veteran? If so, for what reasons? 
 
