@@ -1,4 +1,4 @@
-_Note: This is a WIP checlist._
+_Note: This is a WIP checklist._
 
 # Checklist for content readiness for translation
 
