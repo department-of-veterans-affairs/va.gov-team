@@ -60,6 +60,8 @@ Before we start, a few things I want to mention:
 - How many Veterans use check-in?  
 - How often do Veterans need help with check-in? 
 - What common issues do Veterans run into with check-in? 
+- How often are Veterans found waiting, thinking they’re checked in, but aren’t?
+- What could be the cause of Veterans thinking they’re checked in?  
 - How often do Veterans check-in on their own without first coming up to the desk? 
 - Overall, what is going well with check-in? 
 - What isn’t going so well? 
