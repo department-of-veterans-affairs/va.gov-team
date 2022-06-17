@@ -23,7 +23,7 @@ The findings from this effort will produce prioritized recommendations for moder
 [PACT Act Legislation](https://enchanting-fossa-083.notion.site/PACT-Act-Overview-for-Presumptive-Claims-RRD-b8da586e2b1f4ff38a76c672a0b37a68#94f8b7c860324764890ecc6b5d3fd01f): _VBA predicts the PACT Act legislation will result in up to ~7.5 million additional supplemental claims being submitted in the next ten years. The anticipated volume of presumptive claims being added to the existing claims processing backlog is a major concern for VBA._
 
 
-# Hypothesis
+## Hypothesis
 
 Veterans will benefit by having a clear pathway to file a supplemental claim on VA.gov, helping them achieve the goal of being compensated for their disability incurred while serving within a reasonable amount of time. 
 
@@ -34,7 +34,7 @@ Veterans will benefit by having a clear pathway to file a supplemental claim on 
 * Reduce factors that contribute to unfavorable decisions
 
 
-# Previous Research
+## Previous Research
 * [Lighthouse Supplemental Claims Discovery](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2021-09-Supplemental-Claims-Discovery-Administrators)
     * Admins
     * VSOs
@@ -42,7 +42,7 @@ Veterans will benefit by having a clear pathway to file a supplemental claim on 
 * [OCTO research with VSOs](https://www.notion.so/2022-June-PACT-Act-VSO-research-Report-2b1faf024d9643cd899ba0f8a00d3d3b) (2022)
 
 
-# Research Questions
+## Research Questions
 
 **Phase 1: SMEs and Collaborative Teams**
 * What are the biggest challenges for Decision Reviews?
@@ -58,7 +58,7 @@ Veterans will benefit by having a clear pathway to file a supplemental claim on 
 * Do they know where to find help gathering evidence?
 
 
-# Methods
+## Methods
 
 **Phase 1:** Remote subject-matter experts (SME), collaborative team members  and review of past research conducted with administrative staff at the VA involved with intaking, processing and deciding Supplemental Claims.   
 [Conversation Guide SME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/conversationguide_SME.md)
@@ -77,7 +77,7 @@ Methods also include:
 * [Form audit and journey mapping ](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1653490344368/8a035f7639e54b70edb4dc7002cae95967c36d1a?sender=uf4e8628bdc7dc81e50353314)
 
 
-# Participants 
+## Participants 
 
 **PHASE 1: Subject Matter Experts (SMEs) and Collaborative Team Members**
 
@@ -98,7 +98,7 @@ Collaborative Teams
 * VSRs and RVSRs Form Audit and Research Review
 
 
-# Schedule
+## Schedule
 
 **Phase 1: June 1-15**
 
@@ -114,7 +114,7 @@ Outcomes:
 * We define assumption tests to execute.
 
 
-# Team Roles
+## Team Roles
 * Study prepared by: Pamela Hastings
 * Interviewer/Moderator: Pamela Hastings
 * Observers: Various team members, Sade Ragsdale
@@ -122,7 +122,7 @@ Outcomes:
 * Notetakers: Sarah Ortiz Shields, team members
 
 
-# Resources:
+## Resources:
 * [PACT Act Overview](https://enchanting-fossa-083.notion.site/PACT-Act-Overview-for-Presumptive-Claims-RRD-b8da586e2b1f4ff38a76c672a0b37a68#94f8b7c860324764890ecc6b5d3fd01f)
 * [Lighthouse API Work on Supplemental Claims](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
 * [Lighthouse research on Supplemental Claims](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery)
