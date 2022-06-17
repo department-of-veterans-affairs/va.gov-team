@@ -57,12 +57,15 @@ This product reimagines the process by which Veterans check-in for a medical app
 
 ### Spanish Language Support Enhancement
 - Status: Complete; release date 6/28/2022
-- Purpose: Allow Veterans to confirm their Contact, Emergency Contact, and Next-of-kin information up to 7 days prior to their appointment so that staff know whether their information has changed and whether they will need to check them in face-to-face
+- Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Spanish
 - Functionality:
-     - A Veteran will receive a text and email linking them to an easy to use pre-check-in website 
-     - A Veteran can view their contact, emergency contact, and next-of-kin information and indicate if the information is correct or needs to be updated
-     - A Veteran can view their list of appointments with links to perform check-in if it is the day of their appointment and they have no updates to their information
-     - Once mobile pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
+     - Veteran can choose to see the content in Spanish or English
+
+### Tagalog Language Support Enhancement
+- Status: TBD
+- Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
+- Functionality:
+     - Veteran can choose to see the content in English, Spanish, or Tagalog
 
 ### Beneficiary Travel Enhancement
 - Status: Discovery
