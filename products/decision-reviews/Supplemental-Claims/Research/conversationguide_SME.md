@@ -2,8 +2,8 @@
 Supplemental Claims - Claims SMEs
 
 VA Benefits Team 1
-Pam Hastings, Design and Research
-Sade Ragsdale, Product
+* Pam Hastings, Design and Research
+* Sade Ragsdale, Product
 June 10, 2022
 
 # Introduction
