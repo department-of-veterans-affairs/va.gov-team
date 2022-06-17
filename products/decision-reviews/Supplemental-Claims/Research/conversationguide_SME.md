@@ -4,7 +4,6 @@ Supplemental Claims - Claims SMEs
 VA Benefits Team 1
 * Pam Hastings, Design and Research
 * Sade Ragsdale, Product
-June 10, 2022
 
 # Introduction
 Thanks for joining us today! My name is Pam, I am a Senior Designer/Researcher on the VA Benefits Crew. Today we’d like to learn about your experience with the Supplemental Claims benefit form and process. 
