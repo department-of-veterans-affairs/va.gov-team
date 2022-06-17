@@ -70,10 +70,10 @@
 **Production Issue**
 - Why occurred?
      - POA flag on backend. Did not test in a lower environment. 124 failed apps
-     - [ ] **AI Lihan - Slack channel that VA.gov has for error did not go off. Lihan to adjust to ensure that it will ping (was set to 25% failure/mnth. Can we set for 100% failure in XX min)**
-          - [ ] **AI David to work Lihan to discuss the pings needed - 1 for critical crashes where a bunch fail in an hour, and 1 for weird oops that keep cropping up**
-     - [ ] **AI Heather to add SPS and OIT teams to the slack channel.**
-     - [ ] **AI Tham and David to set up end to end testing for VA.gov and Mulesoft and Salesforce**
+     - [ ] **(6/17) AI Lihan - Slack channel that VA.gov has for error did not go off. Lihan to adjust to ensure that it will ping (was set to 25% failure/mnth. Can we set for 100% failure in XX min)**
+          - [ ] **(6/17) AI David to work Lihan to discuss the pings needed - 1 for critical crashes where a bunch fail in an hour, and 1 for weird oops that keep cropping up**
+     - [ ] **(6/17) AI Heather to add SPS and OIT teams to the slack channel.**
+     - [ ] **(6/17) AI Tham and David to set up end to end testing for VA.gov and Mulesoft and Salesforce**
           - David and Tham to reach out to Lihan in slack. Lihan is not sure which server to use (go through MPI SQAi --> Mulesoft --> CARMA staging)
                     - David to make testing policy and procedure
                          - How to test between 2 teams
