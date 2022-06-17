@@ -11,6 +11,7 @@ assignees: ''
 ## VFS acceptance criteria
 - [ ] Let Platform know when the **Must** feedback has been incorporated 
 - [ ] Leave any comments for feedback you decide _not_ to take
+- [ ] Let Platform know if your VA Business owner decides not to act on any of our Collaboration Cycle feedback
 - [ ] VFS team closes the ticket
 
 ## Thoughts/questions
