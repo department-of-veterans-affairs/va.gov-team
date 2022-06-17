@@ -48,9 +48,10 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Save the link that you copied, you will need it later if you want to test somewhere other than you mobile device
 
 ## Testing Mobile Check-in
+- NOTE: you will only be able to check-in if you appointment time is no more than 30 minutes from now and no more than 15 minutes ago
 - Do one of these
-    - Open the link that was texted to your mobile device on the day of your appointment
-    - Open the link that you copied after creating an appointment in the Staging tool (only possible if within the check-in window on the day of appointment)
+    - Text "Check in" to 254-278-2622 (this is the phone number for Staging SMS)
+    - Open the link that you copied after creating an appointment in the Staging tool
 - Enter the last name for your assigned test patient
 - Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
@@ -62,6 +63,7 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Check in now" on your appointment
 
 ## Testing Pre-Check-in
+- NOTE: you will only be able to do Pre-Check-in before the appointment day
 - Do one of these
     - Open the link that was provided to you manually by a team member    
     - Open the link that you copied after creating an appointment in the Staging tool
