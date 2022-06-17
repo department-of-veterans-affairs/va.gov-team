@@ -93,7 +93,11 @@
 
 
 ## Notifications of Releases & Updates to Planned Releases
-- The following people will be notified when there are updates to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page or the team releases to Production
+- Notification of updates to Planned Releases
+    - Modernized Check-in team has updated their Planned Releases. (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
+- Notification of production releases
+    - Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here. (include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md))
+- Notify the following people via Slack and email
     -   [check-in-release-planning](https://dsva.slack.com/archives/C022AC2STBM) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
     -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
 
