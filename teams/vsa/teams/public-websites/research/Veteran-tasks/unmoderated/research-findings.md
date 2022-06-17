@@ -29,6 +29,12 @@ We wanted to learn which VA-related tasks are most important to Veterans and oth
 
 The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
 
+Veteran tasks fit into the Veteran journey throughout their lives:
+
+- Starting up (Serving in and separating from the military)
+- Living civilian life
+- Retiring and aging
+
 # Research Questions
 1. When Veterans and others contact the VA, what tasks are most important to them?
 4. How many tasks do Veterans and others identify as important to themselves?
