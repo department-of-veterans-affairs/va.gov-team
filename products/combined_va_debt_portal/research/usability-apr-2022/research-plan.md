@@ -233,17 +233,18 @@ Beginning June 27, 2022 until 8-10 sessions are completed.
 
 #### Length of sessions 
 
-**60** minute sessions with **60** minute breaks between  
+**60** minute sessions with **30** minute breaks between, unless noted
 
 ### Availability
 
-Date | Time
------|-----
-6/27/2022 | 10:00 AM - 6:00 PM EST
-6/28/2022 | 9:00 AM - 4:00 PM EST
-6/29/2022 | 10:00 AM - 4:00 PM EST
-6/30/2022 | 12:30 PM - 8:00 PM EST
-7/1/2022 | 12:00 PM - 8:00 PM EST
+Date | Time | Note
+-----|-----|-----
+6/27/2022 | 10:00 AM - 5:00 PM EST |
+6/28/2022 | 9:00 AM - 5:00 PM EST | schedule 60 minutes between sessions for anything starting prior to 12:30pm
+6/29/2022 | 9:00 AM - 5:00 PM EST |
+6/30/2022 | 9:00 AM - 5:00 PM EST | 
+7/1/2022 | 9:00 AM - 5:00 PM EST | 
+7/5/2022 | 9:00 AM - 5:00 PM EST | Please only use this day if needed
 
 
 ## Team Roles		
