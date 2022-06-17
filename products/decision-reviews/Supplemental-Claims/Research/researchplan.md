@@ -7,14 +7,14 @@
 ## Specific Goal	
 Veterans and their families can claim disability benefits faster and more accurately, leading to more favorable outcomes. 
 ## Veteran Journey
-Services and products coming out of this effort would support Taking Care of Myself, specifically Managing primary care and chronic health issues in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+Services and products coming out of this effort would support Taking Care of Myself, specifically managing primary care and chronic health issues in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
 
 ## Research Goals
 The goal of this discovery is to 
 - Understand Veteran needs around applying for disability compensation through a Supplemental Claim (SC)
 - Identify opportunities to optimize the actions and decisions that lead to favorable claims outcomes for a subset of the Veteran population related to the Honoring our Promise to Address Comprehensive Toxics Act of 2021 ([PACT Act](https://enchanting-fossa-083.notion.site/PACT-Act-Overview-for-Presumptive-Claims-RRD-b8da586e2b1f4ff38a76c672a0b37a68#94f8b7c860324764890ecc6b5d3fd01f)).
 
-## Background: 
+## Background
 Veterans file Supplemental Claims when their claim for disability compensation is denied and new and relevant evidence is needed. The Supplemental Claim Decision Review type is the most widely used DR. Currently there is no way to digitally submit a Supplemental Claim apart from uploading a PDF.  The Lighthouse API team has done work to support building a Veteran facing experience to file a Supplemental Claim.  
 
 The findings from this effort will produce prioritized recommendations for modernizing the Supplemental Claims application with potential optimizations for Veterans that fall under the PACT Act.
