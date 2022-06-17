@@ -51,7 +51,7 @@ Veterans will benefit by having a clear pathway to file a supplemental claim on 
 * Can we learn from other benefit automation efforts?
 * How does this work relate to the personalization initiative?
 
-**Phase 2: Remote Interviews and form audit exercise**
+**Phase 2: Representatives**
 * What are the biggest challenges Veterans face when filing supplemental claims?
 * What is considered new and relevant evidence?
 * Do Veterans and their families understand what evidence they need and how to gather it?
@@ -61,7 +61,7 @@ Veterans will benefit by having a clear pathway to file a supplemental claim on 
 # Methods
 
 **Phase 1:** Remote subject-matter experts (SME), collaborative team members  and review of past research conducted with administrative staff at the VA involved with intaking, processing and deciding Supplemental Claims.   
-[Conversation Guide SME](https://docs.google.com/document/d/1gtGtZkXzz1aUioOAzCHVI6gkFpkzpsTOxE5QomMoBL8/edit#heading=h.jaz6fxibk4yu) | [Conversation Guide Collaborative Team](https://docs.google.com/document/d/1DIuxpFl_bIIcU2ZLEEgWPf81wn7Tt7i_t0ObKgyB7Dw/edit?usp=sharing)  
+[Conversation Guide SME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/conversationguide_SME.md)
 
 Methods also include:
 * Stakeholder interviews
@@ -70,7 +70,7 @@ Methods also include:
 * Past research review
 
 
-**Phase 2:** Remote interviews and form audit exercise with Representatives (VSOs) to understand their process and pain points when processing and helping Veterans file Supplemental Claims.   [Conversation Guide - VSO](https://docs.google.com/document/d/17f6DDwQaazR9X3Wh3QpP4u6JgQXtq4vMIw2GyslMAUo/edit#heading=h.7lwgz4lmnmj6).  
+**Phase 2:** Remote interviews and form audit exercise with Representatives to understand their process and pain points when processing and helping Veterans file Supplemental Claims.   [Conversation Guide - VSO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/conversationguide_VSO.md).  
 Methods also include:
 * Review of research conducted with adjudicators
 * Technical Discovery
@@ -95,7 +95,7 @@ Collaborative Teams
 
 **PHASE 2: Representatives**  
 * VSOs for volume of Veteran pain points
-* VSRs and RVSRs Form Audit and Contextual Inquiry
+* VSRs and RVSRs Form Audit and Research Review
 
 
 # Schedule
