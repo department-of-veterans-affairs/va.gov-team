@@ -167,7 +167,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 
 | `patientDFN`  | Name | Assigned To |
 | --- | ------------ | ----- |
-| 237 | One, Patient | Shane |
+| 237 | One, Patient (renamed to Harris, Sheba in 500) | Shane |
 | 205 | Two, Patient | Rob  |
 | 25  | Three, Patient | Paras |
 | 229 | Four, Patient | Andy |
