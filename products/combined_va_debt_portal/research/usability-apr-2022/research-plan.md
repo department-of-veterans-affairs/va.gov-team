@@ -239,11 +239,11 @@ TBD – estimated late May
 
 Date | Time
 -----|-----
-6/27/2022 | 10:00 AM - 5:00 PM EST
+6/27/2022 | 10:00 AM - 6:00 PM EST
 6/28/2022 | 10:00 AM - 4:00 PM EST
 6/29/2022 | 9:00 AM - 4:00 PM EST
-6/30/2022 | 12:30 PM - 5:00 PM EST
-7/1/2022 | 12:00 PM - 5:00 PM EST
+6/30/2022 | 12:30 PM - 8:00 PM EST
+7/1/2022 | 12:00 PM - 8:00 PM EST
 
 
 ## Team Roles		
