@@ -49,8 +49,8 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 
 ## Testing Mobile Check-in
 - Do one of these
-    - Open the link that was texted to your mobile device
-    - Open the Browser tab/window that contains the URL pasted for the next business day's appointment
+    - Open the link that was texted to your mobile device on the day of your appointment
+    - Open the link that you copied after creating an appointment in the Staging tool (only possible if within the check-in window on the day of appointment)
 - Enter the last name for your assigned test patient
 - Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
@@ -62,7 +62,9 @@ There is a VistA Staging tool available that makes creating VistA appointments i
 - Click "Check in now" on your appointment
 
 ## Testing Pre-Check-in
-- Open the Browser tab/window that contains the URL pasted for the next business day's appointment
+- Do one of these
+    - Open the link that was provided to you manually by a team member    
+    - Open the link that you copied after creating an appointment in the Staging tool
 - Enter the last name for your assigned test patient
 - Enter the last 4 digits of your assigned test patient's last name as the SSN (e.g. if last name is Thirty then the last 4 is 0030)
 - Click "Continue" or hit Enter
