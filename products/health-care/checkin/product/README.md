@@ -38,24 +38,37 @@ This product reimagines the process by which Veterans check-in for a medical app
 ### MVP
 
 #### Check-in
-- Status: Piloting in Production
+- Status: In Production as of 5/2/2022
 - Purpose: Allow Veterans to check in to their appointment on the day of their appointment so that staff members are notified of their arrival
 - Functionality:
      - A Veteran will receive a text and email linking them to an easy to use check-in website 
      - A Veteran can also chose to text "I am here" using their mobile device
      - The Veteran will select their appointment for which they want to check in
      - Once mobile check-in is complete, the VA facility will be notified that the Veteran has checked in 
-- Release Date: Nov 2021
 
 #### Pre-check-in
-- Status: Piloting in Production
+- Status: In Production as of 5/2/2022
 - Purpose: Allow Veterans to confirm their Contact, Emergency Contact, and Next-of-kin information up to 7 days prior to their appointment so that staff know whether their information has changed and whether they will need to check them in face-to-face
 - Functionality:
      - A Veteran will receive a text and email linking them to an easy to use pre-check-in website 
      - A Veteran can view their contact, emergency contact, and next-of-kin information and indicate if the information is correct or needs to be updated
      - A Veteran can view their list of appointments with links to perform check-in if it is the day of their appointment and they have no updates to their information
      - Once mobile pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
-- Release Date: Jan 2022
+
+#### Spanish Language Support Enhancement
+- Status: Complete; release date 6/28/2022
+- Purpose: Allow Veterans to confirm their Contact, Emergency Contact, and Next-of-kin information up to 7 days prior to their appointment so that staff know whether their information has changed and whether they will need to check them in face-to-face
+- Functionality:
+     - A Veteran will receive a text and email linking them to an easy to use pre-check-in website 
+     - A Veteran can view their contact, emergency contact, and next-of-kin information and indicate if the information is correct or needs to be updated
+     - A Veteran can view their list of appointments with links to perform check-in if it is the day of their appointment and they have no updates to their information
+     - Once mobile pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
+
+### Beneficiary Travel Enhancement
+- Status: Discovery
+- Purpose: Allow Veterans to submit a travel reimbursement claim for their trip to a VA health appointment as an alternative to submitting the claim through the Beneficiary Travel Self Service System (BTSSS) or through a travel office.
+- Functionality:
+     - TBD
 
 ## Go-to-market Strategy
 - Pilot with several facilities in the St. Louis, MO area
