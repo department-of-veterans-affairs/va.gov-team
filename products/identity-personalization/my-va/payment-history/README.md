@@ -228,11 +228,11 @@ Include information here on when payment information shows on My VA.
    
 ### Screenshots
 
-#### My VA prior to adding a payments section
+#### My VA prior to adding a payments section v1
 
 ![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
-#### My VA after adding a payments section
+#### My VA after adding a payments section v1
 
 ![My VA with benefits payments and debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/My%20VA_April%202022.jpeg)
 
