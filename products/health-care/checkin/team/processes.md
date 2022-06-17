@@ -94,7 +94,7 @@
 
 ## Notifications of Releases & Updates to Planned Releases
 - The following people will be notified when there are updates to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page or the team releases to Production
-    -   [CIE channel](https://dsva.slack.com/archives/C022AC2STBM) - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
+    -   [check-in-release-planning](https://dsva.slack.com/archives/C022AC2STBM) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
     -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
 
 
