@@ -51,9 +51,7 @@ Before we start, a few things I want to mention:
 ## View message inbox - 5 minutes
 - What are you seeing here?
 - How many messages do you have?
-- Can you respond to all of these messages? (If they say no) Which ones can you respond to? How do you know?*****
 - Do you know which messages you have read and which messages you have not read? If so, how?
-- Are you seeing single messages or a series of messages sent back and forth, or both?*****
 - Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
 - What name are you seeing on these messages?
 - Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
@@ -67,7 +65,7 @@ Before we start, a few things I want to mention:
 
 
 ## Find messages - 5 - 10 minutes
-- Let's say that you are looking for a message that your provider sent you a little while ago. It had test results in it that you would like to review.  How would you find that message?
+- Let's say that you are looking for a message that your care team sent you a little while ago. It had test results in it that you would like to review.  How would you find that message?
 
 *If they scroll. . .* 
 - What are you looking for?
@@ -127,7 +125,6 @@ Before we start, a few things I want to mention:
 - Which category would you pick for your message? How do you decide which category to choose?
 - Do you ever send attachements to your provider? How would you do that? What kind of attachments would you send?
 - Which fields so you have to fill out in order to send your message?
-- If you made some kind of mistake in filling out your message how would you expect to find that out?***(Do we want to get into error messages?)***
 - If you started composing a message, but wanted to come back and finish it later, what would you do? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
 - After you finished writing your message what would you do? 
 - What would you expect to happen next?
@@ -163,3 +160,6 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
+
+Regarding the 911 content: I wonder if we add it during the post-test questions…. “If you had questions about what qualifies as a medical or mental emergency, where would you look?”***
+
