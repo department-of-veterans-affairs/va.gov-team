@@ -6,7 +6,7 @@
 When an LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and has set up direct deposit for comp+pen and education payment, they will be able to view and edit bank account information for both.
 
 ## UX and design
-- Clicking the `edit` button button will enable edit mode within the corresponding section. A user can edit their routing number, account number, and account type.
+- Clicking the `edit` button will enable edit mode within the corresponding section. A user can edit their routing number, account number, and account type.
 - Bank name is automatically filled in based on the routing number; users can't edit their bank name.
 - [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
 - There is no way for a user to completely remove a direct deposit account online.
