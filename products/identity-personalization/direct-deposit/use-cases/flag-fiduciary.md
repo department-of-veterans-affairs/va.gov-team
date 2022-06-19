@@ -1,6 +1,6 @@
 # Direct deposit for comp & pen: Blocking updates if someone has a fiduciary/incompetent/deceased flag
 
-**Last updated May 3, 2022**
+**Last updated June 19, 2022**
 
 Currently, we do not allow people who have a fiduciary/are incompetent/are marked as deceased to access and update the direct deposit section of the VA.gov profile. We get these flags from the endpoint, and show an alert on the direct deposit page if someone has one of those flags.
 
@@ -8,8 +8,10 @@ For more on the original implementation of this blocking, please read the [docum
 
 ## UX
 - Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system
-- Review the [mock-up available in Sketch](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/kaAZP0R) for a visual.
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
+- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/kaAZP0R)
+- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/R1zRPO2)
+
 
 ## Codes
 
