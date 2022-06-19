@@ -17,6 +17,7 @@ If a LOA3 user logged in with two-factor authentication navigates to the direct 
 ### Education payments
 - Users will see content directing them to call VA to set up direct deposit payments
 - There is currently no way for users to set up DD pamyents for education benefits online
+- Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
 
 ## Codes
 TBD
