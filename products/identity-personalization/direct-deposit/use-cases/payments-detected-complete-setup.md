@@ -17,5 +17,5 @@ When an LOA3 user logged in with two-factor authentication navigates to the dire
 TBD
 
 ## How to reproduce
-1. Log in with user vets.gov.user+175
+1. Log in with user vets.gov.user+378
 2. Navigate to Profile > Direct deposit
