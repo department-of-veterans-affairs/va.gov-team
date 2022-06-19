@@ -2,7 +2,7 @@
 
 **Last update: June 19, 2022**
 
-If a LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and we detect they're payments, they'll see different messages in each payment section of the page.
+If a LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and we detect they're receiving payments, they'll see different messages in each payment section of the page.
 
 ## UX
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ZOm73bZ)
