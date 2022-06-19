@@ -4,22 +4,23 @@ Direct deposit use case documentation is available in this directory.
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
 ## Common use cases
-### User with 2-factor authentication (2FA), and no flags on their account
+### User logs in with LOA3 ID.me or Login.gov; No flags on their account
 - [No comp+pen or education payments detected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md)
 - Comp + pen, or education benefit payments detected
   - [Has not set up direct deposit (DD) for any payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md)
   - [Has set up DD for one, but not both benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-partial-setup.md)
   - [Has set up DD for both benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-complete-setup.md)
+- [User needs to edit account information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
 
-### User without 2FA, and no flags on their account
+### User logs in with DS Logon or MyHealtheVet; No flags on their account
 - [User has logged in with My HealtheVet or DS Logon](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/gate-mhv-dslogon.md)
 
 ## Edge cases
 ### Validation
 - Does not have valid home phone, work phone, and/or mailing address in profile (need more clarification before creating docs)
 ### Flags
-- [2FA user has a fiduciary/incompetent/deceased flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fiduciary.md) 
-- 2FA user has a fraud or identity theft flag on their account (need more clarification before creating docs)
+- [LOA3 user logs in and has a fiduciary/incompetent/deceased flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fiduciary.md) 
+- LOA3 ID.me or Login.gov user tries to update their bank information, but they have a fraud or identity theft flag on their account
 
 ### System
 - [Something has gone wrong and VA.gov can't display any direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/system-cant-display-dd.md)
