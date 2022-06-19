@@ -1,4 +1,4 @@
-# Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type.
+# Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type
 
 **Last update: June 19, 2022**
 
