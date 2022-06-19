@@ -10,7 +10,7 @@ If a LOA3 user logged in with two-factor authentication navigates to the direct 
 
 ### Compensation and pension payments
 - Content prompts user to add account information
-- Clicking the `edit` button will enable edit mode within this section. A user can add their routing number, account number, and account type.
+- Clicking the `Add` button will enable edit mode within this section. A user can add their routing number, account number, and account type.
 - Bank name will be automatically filled in based on the routing number; users can't manually add their bank name.
 - [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
 
