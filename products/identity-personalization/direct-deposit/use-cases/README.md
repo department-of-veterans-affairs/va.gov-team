@@ -4,6 +4,9 @@ Direct deposit use case documentation is available in this directory.
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
 ## Common use cases
+### User logs in with LOA1 account
+LOA1 users can't access direct deposit in profile. They'll see an alert in the account security page of profile directing them to authenticate.
+
 ### User logs in with LOA3 ID.me or Login.gov; No flags on their account
 - [No comp+pen or education payments detected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md)
 - Comp + pen, or education benefit payments detected
