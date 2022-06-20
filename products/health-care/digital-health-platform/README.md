@@ -57,7 +57,7 @@ Measuring Success
 Solution Approach
 -------------------
 
--   The initial launch will be scoped to a small group of users at our pilot site (Atlanta VA Whole Health) using Fitbits. Future iterations will likely expand this to a larger group as the value of the DHP is proven. 
+-   The initial launch will be scoped to a small group of users at various sites who are using Fitbits. Future iterations will likely expand this to a larger group as the value of the DHP is proven. 
 
 -   VA.gov was selected as the location for the device-registration experience because it is a centralized location Veterans are familiar with, and provides much of the needed base functionality such as authentication. Future iterations may expand to include the flagship mobile app or Myhealthevet.  
 
@@ -82,7 +82,7 @@ Solution Approach
 Go-to-market Strategy
 ---------------------
 
-Our initial users will be part of a pilot site at the Atlanta VA Whole Health. Veterans in this group will learn about the program through their care team at this site.
+Our initial users will be care team members at various sites who actively engage with Veteran Fitbit users. Veterans in this group will learn about the program through their care team at this site.
 
 Launch Dates
 ------------
