@@ -144,7 +144,7 @@ Observed issues are usability problems that were observed for enough users that 
 Some of the users observed engaged in behavior that indicated they did not realize that the menus had changed when the clicked on either a parent item, or the downward carat to open the menu. This was evidenced by behaviors such as 
 	* Not scrolling down the page to browse the menu after it was revealed beyond the scroll point/bottom of the window. 
 	* Repeatedly clicking on a parent menu item, then expressing confusion why they hadn’t gone to the the page in question (without realizing a menu was opening and closing) 
-	* If the menu is open, I observed people closing the menu thinking it 
+	* If the menu is open, I observed people closing the menu thinking it was a link
 * Related to the previous issue of a detectable change in state, double clicking on this menu design creates confusion for users who are likely to double click. 
 Older users tend to either double click by default, or double click when they believe they aren’t getting what they want from a single click. Double clicking on parent items in this menu design does essentially nothing by opening and closing the menu. 
 
