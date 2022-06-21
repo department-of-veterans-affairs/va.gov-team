@@ -70,9 +70,8 @@ Methods also include:
 * Past research review
 
 
-**Phase 2:** Remote interviews and form audit exercise with Representatives to understand their process and pain points when processing and helping Veterans file Supplemental Claims.   [Conversation Guide - VSO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/conversationguide_VSO.md).  
+**Phase 2:** Remote interviews, past research review and form audit exercise with internal teams to understand pain points around the processing and filing Supplementatl Claims. We will also identify gaps and assumptions that will inform specific research with Veterans.  
 Methods also include:
-* Review of research conducted with adjudicators
 * Technical Discovery
 * [Form audit and journey mapping ](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1653490344368/8a035f7639e54b70edb4dc7002cae95967c36d1a?sender=uf4e8628bdc7dc81e50353314)
 
@@ -93,10 +92,10 @@ Collaborative Teams
 * Contact Center
 * Content/IA Team (ongoing)
 
-**PHASE 2: Representatives**  
-* VSOs for volume of Veteran pain points
-* VSRs and RVSRs Form Audit and Research Review
-
+**PHASE 2: Processing and Filing Claims**  
+* Internal teams technical discovery
+* Adjudicator and representative research review and form breakdown exercise
+* Gap analysis to define further research
 
 ## Schedule
 
@@ -130,8 +129,8 @@ Outcomes:
 * [Decision Review Historical Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/research/readme.md) (may not include all)
 * [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review) (Platform)
 
-- Project Brief: 	
-- Convo Guide
+
+- [Conversation Guide SME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/conversationguide_SME.md)
 - Synthesis	
 - Lessons Learned	
 - Read-Out/Results	
