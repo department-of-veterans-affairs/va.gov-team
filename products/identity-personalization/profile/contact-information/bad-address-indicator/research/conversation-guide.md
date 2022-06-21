@@ -30,7 +30,7 @@ _Start recording._
 
 -   **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-Warm-up Questions (Optional) - 3 minutes
+Warm-up Questions (Optional) - 2 minutes
 ----------------------------------------
 
 _Confirm they qualify for the study._
@@ -54,6 +54,8 @@ _Participant shares screen_
 -   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. 
 -   I will stop recording while you log in.
 -   _Send link to va.gov via chat if needed_
+
+## Background Questions - 2 minutes
 
 **Once logged in to VA.gov:** 
 -   Great. Now that you're logged in, I have a few initial questions for you.
