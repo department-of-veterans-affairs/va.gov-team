@@ -126,12 +126,15 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 | Risk Category | Risk | How will we validate/test/prep against this risk? | Comments |
 |--------|--------|---------|---------|
-| Value Risk | Will we be able to tell tell if people are using it/like the redirect? | Ensure Medallia is in place, functioning properly to capture feedback | |
+| Value Risk | Will we be able to tell if people are using it? Does it meet expectations? | Ensure Medallia is in place, functioning properly to capture feedback | |
 | Usability Risk| What will the nature of redirect be? How to do it in the least jarring way, and track that experience appropriately? | Consider naming of page to make it clear to users; consider adding a loading image with message "loading your personalized experience", consider adding a prominent button/link to return to the current logged in home page, conduct generative research post-launch of redirect to get feedback |
 |(Technical) Feasibility Risk| Can My VA handle traffic is the personalized logged in homepage? |  | |
-|(Technical) Feasibility Risk| What is the nature of the redirect? |  | |
+|(Technical) Feasibility Risk| What is the nature of the redirect? | Identity team implemented redirect post-log-in | |
 | Organizational Viability Risk/Constraint| Who do we need to get support/champions for us, who is going to be opposed? |   | |
-
+| Usability Risk | We'll want to measure/track what will people do next?| Usability testing  | |
+| Usability Risk | What do they need to do next and can they do it?| Usability testing  | |
+| Usability Risk | Do all forms of login credentials function properly?| Usability testing  | |
+|(Technical) Feasibility Risk| Will device type matter for redirect experience? | Usability test on mobile and desktop | |
 
 ### Solution Summary
 For Veterans who login from the homepage, implement a redirect to send them to My VA instead of landing on the logged in homepage post login. Begin a phased launch of this redirect to 25% of Veterans for ~1 week and evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week. Based on inital phased rollout make adjustments to My VA as needed and then continue phased launch to 50% of users, similarly for approximately 1 week. Again, monitor and make adjustments as needed, and continue phased launch to 100% of users. Once we have achieved 100% rollout, monitor analytics closely for 1 month to evaluate performance. It is important to reiterate that this initiative is not a replacement of the existing logged in homepage.
