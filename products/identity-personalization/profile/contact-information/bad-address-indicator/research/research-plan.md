@@ -122,7 +122,7 @@ When will the thing you are testing be finalized?
 
 Please indicate the date and name of a mock participant for a pilot session.
 
--   TBD
+-   Tuesday, June 28th, 9:30am - 10:15am
 
 ### Research sessions
 
