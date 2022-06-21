@@ -68,7 +68,7 @@ Staging User  |Use Case|
 | Staging User | User Profile Details        |
 |--------------|-----------------------------|
 | 1            | TBD                         |
-| 3            | TBD                         |
+| 3            | Has not received a Copay or Bill in 6 months but is enrolled in health care |
 | 14           | can reorder medical devices |
 | 56           | TBD                         |
 | 80           | TBD                         |
