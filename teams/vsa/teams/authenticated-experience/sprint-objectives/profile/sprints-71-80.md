@@ -432,6 +432,13 @@ Default opt-in discovery
   - Please don't upload the PDF. As much content as possible should be pulled out into Github docs.
   - It might be worth collaborating with Liz on where this best fits into the structure she set up. 
 
+
+### Military history
+
+**FE - Mark**
+
+- Errors for when military information doesn't load shouldn't show on the personal info section
+
 ## Sprint 78 (7/13 - 7/26)
 
 ## Sprint 79 (7/27 - 8/9)
