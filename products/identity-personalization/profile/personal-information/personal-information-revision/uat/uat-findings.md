@@ -69,7 +69,7 @@ Gender:
 * Female: 1 
 * Transgender: 1 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 3 (4?)
-* Gay, lesbian, or bisexual: 1+ (unsure)
+* Gay, lesbian, or bisexual: 1 (unknown)
 
 
 Devices used during study: 
