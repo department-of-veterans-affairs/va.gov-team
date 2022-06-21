@@ -53,3 +53,7 @@ Personal contact information for individuals working on VA.gov should generally 
 ### Test user information + credentials for lower environments
 
 Credentials should remain private.
+
+### API Keys
+
+API keys and tokens that need to remain private are stored in AWS Parameter Store.  See [this link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D) for instructions on requesting AWS access.  Access the parameter store via AWS Systems Manager to retrieve relevant tokens.  Parameter store can be accessed either via the console or by following [these instructions](https://depo-platform-documentation.scrollhelp.site/developer-docs/store-a-secret-in-parameter-store) for CLI access.  Ensure tokens are stored in a .env file that is not commited to public repos.
