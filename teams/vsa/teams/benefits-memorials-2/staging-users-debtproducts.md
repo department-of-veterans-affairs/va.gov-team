@@ -62,3 +62,29 @@ Staging User  |Use Case|
 - Is behind the SOCKS proxy, so you have to have that setup in order to use TUD.
 - To use TUD, start SOCKS, then go to [https://tud.vfs.va.gov/](https://tud.vfs.va.gov/) and login with GitHub.
 - [https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html)
+
+
+## Staging User Profiles for Reference
+| Staging User | User Profile Details        |
+|--------------|-----------------------------|
+| 1            | TBD                         |
+| 3            | TBD                         |
+| 14           | can reorder medical devices |
+| 56           | TBD                         |
+| 80           | TBD                         |
+| 81           | TBD                         |
+| 82           | TBD                         |
+| 83           | TBD                         |
+| 84           | TBD                         |
+| 85           | TBD                         |
+| 86           | TBD                         |
+| 87           | TBD                         |
+| 88           | TBD                         |
+| 89           | TBD                         |
+| 90           | TBD                         |
+| 91           | TBD                         |
+| 92           | TBD                         |
+| 93           | TBD                         |
+| 94           | TBD                         |
+| 95           | TBD                         |
+| 228          | TBD                         |
