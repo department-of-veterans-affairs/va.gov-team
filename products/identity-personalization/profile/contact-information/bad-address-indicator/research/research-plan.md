@@ -140,10 +140,9 @@ What dates do you plan to do research?
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| ?/??/2022 | 10am - 8pm |	
-| ?/??/2022 | 10am - 8pm |
-| ?/??/2022 | 10am - 8pm |
-| ?/??/2022 | 10am - 8pm |
+| 6/29/2022 | 9am - 7pm |	
+| 6/30/2022 | 9am - 7pm |
+| 7/1/2022 | 9am - 7pm |
 
 Team Roles
 ----------
@@ -152,7 +151,7 @@ Please list the people who will be serving in each role. Include the primary pho
 
 -   Moderator: 
 	-   Christina Gednalske, <christina.gednalske@adhocteam.us>
-	-   Liz Lantz, <liz.lantz@adhocteam.us> Liz will facilitate sessions beginning before 12:00pm EST
+	-   Angela Agosto, <angela.agosto@adhocteam.us> Angela will facilitate sessions beginning before 12:00pm EST
 -   Research guide writing and task development (usually but not always same as moderator): Christina Gednalske
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Christina Gednalske
