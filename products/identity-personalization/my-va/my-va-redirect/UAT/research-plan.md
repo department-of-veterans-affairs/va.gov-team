@@ -1,9 +1,9 @@
 # Research Plan for Authenticated Experience, My VA Redirect UAT, July 2022
 
 ## Background
-Our mission is to elevate Veterans’ personal and benefit information on VA.gov so that they can more easily understand their statuses, complete necessary tasks and take action where needed. The current logged in homepage on VA.gov lacks elements of personalization that enable Veterans to access the information they need and perform tasks as effectively and efficiently as possible.
+To improve personalization and access to action items, we’re implementing a redirect so users are redirected to My VA when they log in from the homepage.  
 
-We’re implementing a redirect so users are redirected to My VA when they log in from the homepage.  If they log in from any other page, they will not be redirected from My VA.
+If they log in from any other page, they will not be redirected from My VA.
 
 See our [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/README.md) for more details.
 
