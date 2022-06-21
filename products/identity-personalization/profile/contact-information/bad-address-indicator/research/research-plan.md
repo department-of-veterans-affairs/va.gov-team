@@ -150,7 +150,7 @@ What dates do you plan to do research?
 
 **Secondary Dates:**
 
-- Please schedule during above dates and use the following only if the study must be extended to meet recruitment criteria.
+- Please schedule during above dates and use the following secondary dates only if the study must be extended to meet recruitment criteria.
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
