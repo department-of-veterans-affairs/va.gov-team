@@ -408,6 +408,7 @@ After midpoint review...
 ### PTO
 
 - Samara: TBD, but likely taking some time off during July 4th week
+- Christina: July 4 - 12
 
 ### Notification preferences
 
@@ -431,7 +432,6 @@ Default opt-in discovery
   - [Docs were originally posted in Slack](https://dsva.slack.com/archives/C909ZG2BB/p1655406539093199?thread_ts=1655313185.572799&cid=C909ZG2BB).
   - Please don't upload the PDF. As much content as possible should be pulled out into Github docs.
   - It might be worth collaborating with Liz on where this best fits into the structure she set up. 
-
 
 ### Military history
 
