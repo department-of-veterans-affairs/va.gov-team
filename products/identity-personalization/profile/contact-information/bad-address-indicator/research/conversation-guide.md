@@ -54,7 +54,6 @@ _Participant shares screen_
 -   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. 
 -   I will stop recording while you log in.
 -   _Send link to va.gov via chat if needed_
--   Now that you're logged in, I'd like you to go to your Profile by clicking on your name in the top right corner.
 
 **Once logged in to VA.gov:** 
 -   Great. Now that you're logged in, I have a few initial questions for you.
