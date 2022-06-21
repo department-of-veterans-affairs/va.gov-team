@@ -37,4 +37,14 @@ They will also see a block under each payment section called "VA Payment History
 TBD
 
 ## How to reproduce
-TBD
+
+### Has set up education direct deposit, and is eligible for compensation or pension payments
+No test user set up for this use case
+
+### Has set up education direct deposit, and is not eligible for compensation or pension payments
+No test user set up for this use case
+
+### Has set up compensation and pension direct deposit, but has not set up education payments
+1. Log into staging with Judy Morrison
+2. Navigate to direct deposit
+3. You will see compensation and pension direct deposit set up, but not education
