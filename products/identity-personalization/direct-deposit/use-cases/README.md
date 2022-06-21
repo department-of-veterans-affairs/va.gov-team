@@ -8,8 +8,8 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 LOA1 users can't access direct deposit in profile. They'll see an alert in the account security page of profile directing them to authenticate.
 
 ### User logs in with LOA3 ID.me or Login.gov; No flags on their account
-- [No comp+pen or education payments detected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md)
-- Comp + pen, or education benefit payments detected
+- [No compensation and pension or education payments detected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md)
+- Compensation and pension, or education benefit payments detected
   - [Has not set up direct deposit (DD) for any payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md)
   - [Has set up DD for one, but not both benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-partial-setup.md)
   - [Has set up DD for both benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-complete-setup.md)
