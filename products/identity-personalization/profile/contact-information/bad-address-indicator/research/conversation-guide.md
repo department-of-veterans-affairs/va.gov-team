@@ -43,9 +43,10 @@ _Confirm they qualify for the study._
 -   Do you know your username and password?
 	-   _If not:_ Are these readily accessible? Could you get them?
 	-   _If the user can not remember or retrieve their login credentials, end the session:_ Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
--   Ok, so today we're going to observe you interacting with the new feature. Would you feel comfortable sharing your screen with me at this time? You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
-	-   _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
--   Great! Thanks for confirming all of that. Please share your screen and then we will get started.
+
+- _Start recording._ Ok, now that you're logged in, could you please share your screen?
+	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
+	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 _Participant shares screen_
 
