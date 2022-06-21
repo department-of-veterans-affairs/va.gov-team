@@ -154,8 +154,8 @@ What dates do you plan to do research?
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 7/13/2022 | 9am - 7pm |	
-| 7/14/2022 | 9am - 7pm |
+| 7/14/2022 | 9am - 7pm |	
+| 7/15/2022 | 9am - 7pm |
 
 Team Roles
 ----------
