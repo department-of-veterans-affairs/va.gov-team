@@ -1,6 +1,6 @@
 # Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type
 
-**Last update: June 19, 2022**
+**Last update: June 21, 2022**
 
 If a LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and we detect they're receiving payments, they'll see different messages in each payment section of the page.
 
@@ -23,5 +23,5 @@ If a LOA3 user logged in with two-factor authentication navigates to the direct 
 TBD
 
 ## How to reproduce
-1. Log in with user vets.gov.user+204
+1. Log into staging with user (TBD)
 2. Navigate to Profile > Direct deposit
