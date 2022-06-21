@@ -118,7 +118,7 @@ Timeline
 
 When will the thing you are testing be finalized?
 
--   TBD
+-   We will be using a toggle setup on production, which is finalized and ready for testing.
 
 Please indicate the date and name of a mock participant for a pilot session.
 
