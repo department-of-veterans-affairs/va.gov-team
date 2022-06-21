@@ -123,6 +123,7 @@ When will the thing you are testing be finalized?
 Please indicate the date and name of a mock participant for a pilot session.
 
 -   Tuesday, June 28th, 9:30am - 10:15am
+-   Participant: Angela Fowler, angela.fowler@adhocteam.us
 
 ### Research sessions
 
