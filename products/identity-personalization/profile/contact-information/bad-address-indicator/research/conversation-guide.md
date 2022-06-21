@@ -60,11 +60,20 @@ _Participant shares screen_
 -   OK, I'm going to send you a prototype in the chat that you'll be able to open and interact with.
 -   _Send link to prototype_
 
+**Once logged in to VA.gov:** 
+-   First off, I have a few initial questions for you.
+-   How often do you go to or look at your Profile?
+-   What are the reasons you generally visit your Profile?
+-   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Without selecting anything, could you tell me what you would do next?
+	-   What would you be searching for?
+
+
 Task #1: Review Personal information page and alert - 3 minutes
 ---------------------------------------------------------------
 
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
 
+-   Now if you could you please go to your Profile by selecting your name in the top right corner.
 -   Now I'll have you go through a few things. And just a reminder, it'll be very helpful if you could think out loud and share what's on your mind as much as possible.
 -   Before you click on anything else, I'll have you take a look at this page. Could you briefly tell me about what's included here?
 -   What stands out to you on this page?
