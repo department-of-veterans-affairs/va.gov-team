@@ -69,11 +69,9 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 - At least 10 participants who regularly use Secure Messaging
 - Up to 10 participants that do not use Secure Messaging
 - At least 10 participants who are mobile users
-- At least 10 participants who are NOT mobile users
+- At least 10 participants who are desktop users
 
 **Secondary criteria (nice-to-haves)**
-- up to 7 participants who do not have VA healthcare
-- up to 7 participants who do not use My HealtheVet
 - 11 participants over the age of 55 years
 - 11 participants with cognitive disabilities
 - 6 participants from rural locations
@@ -97,18 +95,19 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from June 24 to 29th, with July 5th as an additional day if necessary
+- We plan to run sessions from July 5th to 8th, with July 11th and 12th as additional days if necessary
 
 ### Length of sessions
 1 hour sessions with 15 minute breaks in between (if possible)
 
 ### Availability
 
-- Monday 6/27: 8am - 12:30pm, 2:30pm - 5pm ET
-- Tuesday 6/28: 8am - 5pm ET
-- Wednesday 6/29: 8am - 5pm ET
-- Tuesday 7/05: 8am - 5pm ET
+- Tuesday 7/05: 10am - 5pm ET
 - Wednesday 7/06: 8am - 5pm ET
+- Thursday 7/07: 8am - 5pm ET
+- Friday 7/08: 8am - 5pm ET
+- Monday 7/11: 8am - 5pm ET (if necessary)
+- Tuesday 7/12: 8am - 5pm ET (if necessary)
 
 
 	
