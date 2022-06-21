@@ -148,6 +148,15 @@ What dates do you plan to do research?
 | 6/30/2022 | 9am - 7pm |
 | 7/1/2022 | 9am - 7pm |
 
+**Secondary Dates:**
+
+- Please schedule during above dates and use the following only if the study must be extended to meet recruitment criteria.
+
+| Date       | Times (Eastern) |
+| ---------- | --------------- |
+| 7/13/2022 | 9am - 7pm |	
+| 7/14/2022 | 9am - 7pm |
+
 Team Roles
 ----------
 
@@ -159,9 +168,8 @@ Please list the people who will be serving in each role. Include the primary pho
 -   Research guide writing and task development (usually but not always same as moderator): Christina Gednalske
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Christina Gednalske
--   Participant(s) for pilot test: TBD
+-   Participant(s) for pilot test: Angela Fowler, angela.fowler@adhocteam.us
 -   Note-takers: Perigean
-	-   Since we will need to pause the recording for the majority of the session, we will need verbatim notes.
 -   Observers:
 	-   <samara.strauss@va.gov>
 	-   <liz.lantz@adhocteam.us>
