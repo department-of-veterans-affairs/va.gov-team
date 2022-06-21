@@ -55,10 +55,6 @@ _Participant shares screen_
 -   _Send link to va.gov via chat if needed_
 -   Now that you're logged in, I'd like you to go to your Profile by clicking on your name in the top right corner.
 
-**If using CodePen:**
--   OK, I'm going to send you a prototype in the chat that you'll be able to open and interact with.
--   _Send link to prototype_
-
 Task #1: Review Personal information page and alert - 3 minutes
 ---------------------------------------------------------------
 
