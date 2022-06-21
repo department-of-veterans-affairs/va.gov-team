@@ -9,7 +9,7 @@
 - In-progress Notification emails
      - Rolled back
 - Confirmation page after application is submitted
-     - Confirm that the applicant will be contacted via email per image below
+     - Online Health Apps team would like to confirm that the applicant will be contacted via email per image below
 
 <details>
   <summary>Image of section on confirmation page</summary>
