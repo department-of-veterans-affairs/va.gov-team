@@ -9,6 +9,7 @@ If a user clicks the `edit` button for either payment section, they will enter e
 - Uses the [form control components](https://design.va.gov/components/form/) from the VA design system, including validation patterns
 - Once the form is successfully saved, the user is returned to "read" mode and a background-only success alert should display above the edit button
 - If a user cancels during the editing process, they'll be presented with a modal asking them to confirm they want to leave edit mode.
+- When direct deposit information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case a fraudster has changed the contact email address. These confirmation emails have information on how to report fraud.
 
 - [Desktop mock-up, editing](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Jn3mY79)
 - [Mobile mock-up, editing](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Omxl74R)
