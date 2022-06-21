@@ -1,4 +1,4 @@
-# [Product/Feature] UAT Findings
+# Personal information UAT Findings
 06/14/2022
 
 Christina Gednalske, Profile
