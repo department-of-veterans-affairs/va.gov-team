@@ -128,7 +128,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 What dates do you plan to do research?
 
--   TBD
+-   June 29, 2022 - July 1, 2022
 
 ### Length of sessions
 
