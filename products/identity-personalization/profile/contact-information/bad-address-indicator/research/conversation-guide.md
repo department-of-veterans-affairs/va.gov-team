@@ -56,13 +56,8 @@ _Participant shares screen_
 -   _Send link to va.gov via chat if needed_
 -   Now that you're logged in, I'd like you to go to your Profile by clicking on your name in the top right corner.
 
-**If using CodePen:**
-
--   OK, I'm going to send you a prototype in the chat that you'll be able to open and interact with.
--   _Send link to prototype_
-
 **Once logged in to VA.gov:** 
--   First off, I have a few initial questions for you.
+-   Great. Now that you're logged in, I have a few initial questions for you.
 -   How often do you go to or look at your Profile?
 -   What are the reasons you generally visit your Profile?
 -   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Without selecting anything, could you tell me what you would do next?
