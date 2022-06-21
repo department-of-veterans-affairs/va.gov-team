@@ -90,7 +90,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 -   8 women, 8 men
 
 ##### Inclusion
--   4 participants who use assistive technology (e.g. screen reader, magnification) - including 3 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition). 
+-   5 participants who use assistive technology (e.g. screen reader, magnification) - including 3 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition). 
 -   8 participants who identify as having a cognitive disability
 -   8 participants who identify as other than white
 -   8 participants age 55+
