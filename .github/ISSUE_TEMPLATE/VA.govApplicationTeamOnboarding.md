@@ -9,7 +9,7 @@ assignees: anerbovig
 
 ## Welcome to VA.gov Application Teams
 
-Welcome! This issue will be used to track your onboarding to your team.
+Welcome! This issue will be used to track your onboarding to your team. Before you start, your program manager will meet with your practice lead and product manager for your team (if applicable), to review onboarding responsibilities.
 
 ---
 
@@ -21,8 +21,9 @@ Program Manager Tasks
 
 - [ ] BAH Onboarding Point of Contact
 - [ ] VA Product Owner
-- [ ] Practice Lead
-- [ ] VSP Onboarding
+- [ ] Practice Lead (add as an assignee to this ticket)
+- [ ] Product Manager (add as an assignee to this ticket)
+
 
 **Access Requests**
 
@@ -30,8 +31,7 @@ Program Manager Tasks
 - [ ] Access to [VSA GitHub Repositories](https://github.com/orgs/department-of-veterans-affairs/teams/va-gov-vsa/members)
 - [ ] Request access to [DSVA Slack Workspace](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=KevinMHoffmanUSDS%2C+LEHigley&labels=Slack+Request&template=slack-request-template.md&title=Adding+%5Bindividual%5D+to+DSVA+Slack)
 - [ ] Request New Hire to Complete VA Onboarding Paperwork
-- [ ] After New Hire is set up with the VA Organization in Github: Reach out to Shira to give them write access to the vets.gov-write respository
-
+- [ ] After New Hire is set up with the VA Organization in Github: Comfirm that the new hire has created a Platform Orientation Ticket
 ---
 
 ## Onboarding
@@ -40,8 +40,8 @@ Program Manager Tasks
 
 *Day 1*
 - [ ] Attend Program check-in meeting, share github handle
-- [ ] Share calendar visibility with team members
-- [ ] Complete VA Onboarding paperwork (sent by prime contractor onboarding contact)
+- [ ] Begin VA Contractor Onboarding paperwork (sent by prime contractor onboarding contact)
+- [ ] Review tasks in your personalized 60- or 90-day onboarding plan (this will be provided by your practice manager or onboarding buddy)
 
 *Week 2*
 - [ ] Self assign [Platform Orientation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=orientation-epic.md&title=Platform+Orientation+Template) for getting onboarded with VA.gov Platform
@@ -51,6 +51,7 @@ Program Manager Tasks
 - [ ] Request SOCKS Access, after SAC Adjudication
 
 **Practice Lead Tasks**
+A practice lead is responsible for meeting with the new hire and providing orientation/structure around their practice area of engineering, research, design, or product. Some tasks may be delegated as needed to an onboarding buddy or practice manager who will be working more closely with the new team member.
 
 *Day 1*
 - [ ] Reach out to new hire over Slack to say hello
@@ -63,9 +64,11 @@ Program Manager Tasks
 - [ ] Schedule Accessibility Orientation meeting with New Hire and VSA Accessibility Specialists 
 
 **Product Manager Tasks**
+A product manager will generally be working with the new hire on their second week, after they've spent the first week completing paperwork and getting onboarded with their practice.
 
 *Week 2*
 - [ ] Reach out to new hire over Slack to say hello
 - [ ] Add new hire to the team’s DSVA Slack Channels
 - [ ] Conduct Intro Meeting with New Hire
 - [ ] Add New Hire to Product team meetings
+- [ ] Create any supporting tickets to onboard new hire to the team (you can check this box if your team's onboarding does not require additional documented steps)
