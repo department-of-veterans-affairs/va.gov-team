@@ -14,7 +14,7 @@ Before we start, a few things I want to mention:
 
 -   **There are a couple of members from the website team who would like to observe the session and hear your feedback live**. Are you comfortable with them joining the session? No pressure either way.
 
--   **This entire session should take about 30 minutes**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+-   **This entire session should take about 45 minutes or less**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 -   **In this session, we want to hear your honest opinions**. If you find something we show you to be confusing, we want to hear about it. Your feedback helps us figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express. We're testing our work, not you, so you can't do or say anything wrong here.
 
