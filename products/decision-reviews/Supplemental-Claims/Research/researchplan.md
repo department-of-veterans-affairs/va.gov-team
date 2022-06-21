@@ -51,12 +51,12 @@ Veterans will benefit by having a clear pathway to file a supplemental claim on 
 * Can we learn from other benefit automation efforts?
 * How does this work relate to the personalization initiative?
 
-**Phase 2: Representatives**
+**Phase 2: Form audit, technical discovery and research gap assessment**
 * What are the biggest challenges Veterans face when filing supplemental claims?
+* What are the biggest challenges adjudicators face in approving claims?
 * What is considered new and relevant evidence?
-* Do Veterans and their families understand what evidence they need and how to gather it?
-* Do they know where to find help gathering evidence?
-
+* Where are the opportunities to pre-fill, automate or presumptively connect Veteran claims?
+* How does communication with the Veteran typically happen during supplemental claims processing?
 
 ## Methods
 
@@ -70,7 +70,7 @@ Methods also include:
 * Past research review
 
 
-**Phase 2:** Remote interviews, past research review and form audit exercise with internal teams to understand pain points around the processing and filing Supplementatl Claims. We will also identify gaps and assumptions that will inform specific research with Veterans.  
+**Phase 2:** Past research review and form audit exercise with internal teams to understand pain points around the processing and filing Supplemental Claims. We will also identify gaps and opportunities for research with Veterans.  
 Methods also include:
 * Technical Discovery
 * [Form audit and journey mapping ](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1653490344368/8a035f7639e54b70edb4dc7002cae95967c36d1a?sender=uf4e8628bdc7dc81e50353314)
@@ -94,7 +94,7 @@ Collaborative Teams
 
 **PHASE 2: Processing and Filing Claims**  
 * Internal teams technical discovery
-* Adjudicator and representative research review and form breakdown exercise
+* Adjudicator and representative research review and form audit exercise
 * Gap analysis to define further research
 
 ## Schedule
