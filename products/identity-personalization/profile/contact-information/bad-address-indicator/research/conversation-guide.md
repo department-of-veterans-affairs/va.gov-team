@@ -84,7 +84,7 @@ Task #1: Review Personal information page and alert - 3 minutes
 -   Does the participant find the alert information to be important?
 -   Does the participant find anything confusing about the alert?
 
-Task #2: Navigate to Contact information page - 3 minutes
+Task #2: Navigate to Contact information page - 2 minutes
 ---------------------------------------------------------
 
 **Task goal: Make sure the participant can easily navigate to the Contact information using the link.**
@@ -153,7 +153,7 @@ Task #5: Confirm Mailing address - 5 minutes
 -   Does the participant seem to understand the difference between confirming and updating?
 -   Does the participant note anything confusing about this process?
 
-### Reset Address and Post Task Interview - 3 minutes
+### Reset Address and Post Task Interview - 2 minutes
 -   _If using production:_
 	-   Ok great, that is just about everything I wanted to get your feedback on.
 	-   Lastly, I'd like to make sure that we now have all of your correct information, since we made one small change to your zip code. Could you please take a moment to double check your zip code?
