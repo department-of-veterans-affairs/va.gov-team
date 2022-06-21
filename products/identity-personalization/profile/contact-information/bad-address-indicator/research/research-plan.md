@@ -132,7 +132,7 @@ What dates do you plan to do research?
 
 ### Length of sessions
 
--   Sessions will be 30 minutes
+-   Sessions will be 45 minutes
 
 -   Schedule minimum of 30 minutes between sessions
 
