@@ -1,4 +1,4 @@
-# Direct deposit for compensation and pension: Blocking updates if someone has a fiduciary/incompetent/deceased flag
+# Direct deposit: Blocking updates if someone has a fiduciary/incompetent/deceased flag
 
 **Last updated June 19, 2022**
 
