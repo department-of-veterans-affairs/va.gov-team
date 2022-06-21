@@ -24,7 +24,7 @@ v1_health_appointments_community_care_providers GET    /v1/health/appointments/c
                                                 GET    /v1/health/appointments/facilities-info/:sort(.:format)                       mobile/v1/health/appointments/facilities_info#index
                                                 GET    /v1/health/appointments/eligibility/community-care/:service_type(.:format)    mobile/v1/health/appointments/community_care_eligibility#show
                       v1_health_appointments_va GET    /v1/health/appointments/eligibility/va(.:format)                              mobile/v1/health/appointments/veterans_affairs_eligibility#show
-                v1_health_appointments_facility GET    /v1/health/appointments/eligibility/facility(.:format)                        mobile/v1/health/appointments/facility_eligibility#index
+                v1_health_appointments_facilities GET    /v1/health/appointments/eligibility/facilities(.:format)                        mobile/v1/health/appointments/facility_eligibility#index
                          v1_health_triage_teams GET    /v1/health/messaging/recipients(.:format)                                     mobile/v1/health/triage_teams#index {:format=>:json}
                       v1_health_folder_messages GET    /v1/health/messaging/folders/:folder_id/messages(.:format)                    mobile/v1/health/messages#index {:format=>:json}
                               v1_health_folders GET    /v1/health/messaging/folders(.:format)                                        mobile/v1/health/folders#index {:format=>:json}
