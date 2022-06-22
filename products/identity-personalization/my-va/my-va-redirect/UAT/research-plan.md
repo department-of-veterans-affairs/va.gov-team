@@ -36,12 +36,12 @@ We'll have participants go through a list of specific tasks for UAT, and ask fol
 Remote, via Zoom
 
 ### Research materials
-Conversation guide (link to come)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/conversation-guide.md)
 
 ## Recruitment	
 Our intended audience for this research is BIPOC Veterans who have payments and debt with VA. We'll use Perigean to recruit them.
 
-We'll focus our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
+We’ll focus our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
 
 ### Recruitment criteria
 
@@ -77,7 +77,9 @@ Please recruit 14 participants for 7 completed sessions.
 
 #### Secondary criteria (nice-to-haves)
 - 4 people who use zoom magnification software
-	- **Qualifier:** Do you use zoom magnification software, or zoom in more than 400% to read words on your screen? **Answer should be yes to qualify.**
+	- **Qualifier:** Do you ever need to zoom in or use magnification to read text on your screen? **If yes, move onto next question.**
+	- **Qualifier:** Do you use software to zoom in? **Answer should be yes to qualify. If not, next question**
+	- **Qualifier:** Do you zoom in 400% or more? **Answer should be yes to qualify.** 
 - At least 6 participants should identify as other than male 
 At least 6 Veterans who identify as Hispanic, Asian, or Native
 - At least 2 Veterans with other than honorable discharge
@@ -98,7 +100,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 What dates do you plan to do research? 
-TBD
+July 1 - July 7, 2022
 
 ### Length of sessions
 Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
@@ -107,7 +109,10 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| TBD | TBD |	
+| July 1 | 10:30am-4:30pm |	
+| July 5 | 10am-4:30pm |	
+| July 6 | 9am-4pm |	
+| July 7 | 9am-4:30pm |	
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
