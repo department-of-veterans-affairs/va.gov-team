@@ -16,17 +16,14 @@ They will also see a block under each payment section called "VA Payment History
 - [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/WKez5xy)
 
 ### Has set up education direct deposit, and is eligible for compensation or pension payments
-- Content in disability and compensation section prompts user to add account information
-- Clicking the `Add` button will enable edit mode within this section. 
-- Content in education section displays account information, and an `edit button`.
-- [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
+- Content in education section displays account information, and an `edit button`. [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md).
+- [Content in disability and compensation section prompts user to add account information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md).
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/9P3yvln)
 - [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/PGjgyEQ)
 
 ### Has set up education direct deposit, and is not eligible for compensation or pension payments
-- Content in disability and compensation section guides user to learn more about benefit eligibility
-- Content in education section displays account information, and an `edit button`.
-- [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
+- Content in education section displays account information, and an `edit button`. [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md). 
+- [Content in disability and compensation section guides user to learn more about benefit eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md).
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ygD7P9A)
 - [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/2530WVM)
 
