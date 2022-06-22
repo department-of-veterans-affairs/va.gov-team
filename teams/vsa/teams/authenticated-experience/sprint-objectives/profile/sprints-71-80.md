@@ -411,33 +411,18 @@ After midpoint review...
 - Christina: July 4 - 12
 - Liz: July 8 (Plus, Liz will be conducting research for the My VA half of the team)
 
+**In priority order:**
+
 ### Personal information revisions
 
 - Launch to 100% if we didn't already do so last sprint
 - Make sure content page updates go out after we go to 100%
 
-### Notification preferences
+### Bad address indicator
 
-This is pending Liz's availability. She is doing some research for My VA this sprint, which is higher priority.
+**Design - Christina**
 
-**Design**
-
-- Determine if UI changes are needed for the default opt-in indicator
-
-**FE & BE**
-
-- Default opt-in indicator discovery
-  - What changes need to happen?
-  - What information do we receive? 
-
-### Direct deposit
-
-**BE**
-
-- Have Tom add backend documentation to Github
-  - [Docs were originally posted in Slack](https://dsva.slack.com/archives/C909ZG2BB/p1655406539093199?thread_ts=1655313185.572799&cid=C909ZG2BB).
-  - Please don't upload the PDF. As much content as possible should be pulled out into Github docs.
-  - It might be worth collaborating with Liz on where this best fits into the structure she set up. 
+- Complete research sessions
 
 ### Military history
 
@@ -457,17 +442,37 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 - Coordinate with the platform team on whether we need to wait to launch to prod until prefill functionality has been updated
 
-### Bad address indicator
-
-**Design - Christina**
-
-- Complete research sessions
-
 ### Address change messaging
+
+After personal info launch is complete...
 
 - Launch to 25%
 - Launch to 50%
 - Launch to 100%
+
+### Direct deposit
+
+**BE**
+
+- Have Tom add backend documentation to Github
+  - [Docs were originally posted in Slack](https://dsva.slack.com/archives/C909ZG2BB/p1655406539093199?thread_ts=1655313185.572799&cid=C909ZG2BB).
+  - Please don't upload the PDF. As much content as possible should be pulled out into Github docs.
+  - It might be worth collaborating with Liz on where this best fits into the structure she set up. 
+
+
+### Notification preferences
+
+This is pending Liz's availability. She is doing some research for My VA this sprint, which is higher priority.
+
+**Design**
+
+- Determine if UI changes are needed for the default opt-in indicator
+
+**FE & BE**
+
+- Default opt-in indicator discovery
+  - What changes need to happen?
+  - What information do we receive? 
 
 ## Sprint 78 (7/13 - 7/26)
 
