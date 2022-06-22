@@ -107,7 +107,6 @@ July 1 - July 7, 2022
 ### Length of sessions
 - Sessions will be 30 minutes with 30 minutes in between sessions.
 - Please schedule no more than 5 sessions per day.
-- Please do not schedule sessions with screen reader users prior to 12pm EST, as our support person is in California.
 
 ### Availability
 
@@ -126,7 +125,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening:	Perigean
 - Project point of contact: Liz Lantz
 - Assistive technology support: Angela Fowler
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test: Shane Strassberg, shane.strassberg@omb.eop.gov
 - Observers:	
   - samara.strauss@va.gov
   - ana@adhocteam.us 
