@@ -459,20 +459,17 @@ After personal info launch is complete...
   - Please don't upload the PDF. As much content as possible should be pulled out into Github docs.
   - It might be worth collaborating with Liz on where this best fits into the structure she set up. 
 
-
 ### Notification preferences
-
-This is pending Liz's availability. She is doing some research for My VA this sprint, which is higher priority.
 
 **Design**
 
+This is pending Liz's availability. She is doing some research for My VA this sprint, which is higher priority.
+
 - Determine if UI changes are needed for the default opt-in indicator
 
-**FE & BE**
+**FE**
 
-- Default opt-in indicator discovery
-  - What changes need to happen?
-  - What information do we receive? '
+- Update list of facilities that have prescription SMS texts
 
 ### General
 
