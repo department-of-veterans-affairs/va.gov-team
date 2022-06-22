@@ -2,8 +2,7 @@
 
 **Last update: June 17, 2022**
 
-
-When an LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and has set up direct deposit for comp+pen and education payment, they will be able to view and edit bank account information for both.
+If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and has set up direct deposit for comp+pen and education payment, they will be able to view and edit bank account information for both.
 
 ## UX and design
 - Clicking the `edit` button will enable edit mode within the corresponding section. A user can edit their routing number, account number, and account type.
