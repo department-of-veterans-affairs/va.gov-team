@@ -2,22 +2,24 @@
 
 ### 6/22 Meeting - Outstanding Action Items
 
-- Team update
-     - Zach (Enrollment Case Mgmt) is leaving 7/15 - Annie Rice is replacing
+### Team updates
+- Zach (Enrollment Case Mgmt) is leaving the team 7/15 - Annie Rice is replacing
+- Dene' is leaving the team 6/24
 
 ### Agenda Items
 - Provide update on Short form
      - Usability tests went well!
      - Synthesis in progress and will be shared with the audience
-     - Potential to deliver in July, will discuss at the next meeting 7/6
+     - Potential to deliver in July, **will discuss at the next meeting 7/6**
 - In-progress Notification emails
      - Rolled back due to not having an "opt-out" process at this time
-     - Further analysis will be done with VA Notify team for future implementation
+     - [ ] **(6/22) - Online Health Apps team** will conduect further analysis will be done with VA Notify team for future implementation
 - Confirmation page after application is submitted
      - Online Health Apps team would like to confirm that the applicant will be contacted via email per image below
-- Registration Only process
-     - Confirm use cases
-
+     - (6/22) - Contact center would contact via phone, not email due to potentially having PII
+          - Researching future email messaging without PII, but not yet implemented
+          - Content to be updated or removed on Confirmation Page to reflect the accurate process
+          - [ ] **(6/22) - Tarsha** will send to Stacey Echols for review as well
 
 <details>
   <summary>Image of section on confirmation page</summary>
@@ -26,13 +28,35 @@
 
 </details>
 
+- Registration Only process
+     - Online Health Apps team would like confirm use cases with HEC team
+          - New 10-10 paper form has definitions for enrollment and registration (17.37 CFR)
+          - [ ] **(6/22) - Christopher H.** has powerpoint he can share
+          - Registration Only could be used for (not a complete list):
+               - enrolled veteran is changing facility from which they want to receive care
+               - active duty service member with TRICARE
+               - active duty service member getting a comp and pen exam
+               - active duty service member getting care where there is a sharing agreement in place b/w DoD and VA
+               - active duty service member getting VA care within a "Military Treatment Facility" (not sure what this is)
+               - Moving permanently
+               - Moving temporarily (i.e. seasonal)
+               - Registration of collaterals (family members, like SAVE Lives Act / covid)
+               - active duty transitioning out w/ future discharge date
+               - veteran that only wants to be seen for SC condition and doesn't want to enroll
+               - HUD-VASH (sp?) some veterans who might not be eligible b/c of char of discharge but can be seen w/in 1 year of separation eligible for mental health evaluation
+               - Employees
+               - Humanitarian case
+
 ### 6/8 Action Items with 6/22 update
 - Medicare Claim Number
-     - [ ] (5/25) - Lindsey & team will confirm whether this field is needed on the paper form
-          - Online Health Apps Team to hold on further work until feedback is received
-          - **(6/21) - Received preliminary approval to include in Online form from Stacey Echols, pending review of UI design**
+     - [ ] (6/22) - Jessica (Jessi) Soza and team working on adding the Medicare Claim number field to the paper form
+          - Online Health Apps Team to hold on releasing to production until we can coordinate with them
+          - (6/21) - Received preliminary approval to include in Online form from Stacey Echols
+          - **(6/22) - Pending Stacey Echols'** review of UI design
 - Total applications submitted metrics
-     - [ ] (6/8) - Christopher H. will check with EED team on obtaining monthly volume of received applications
+     - [x] (6/8) - Christopher H. will check with EED team on obtaining monthly volume of received applications
+          - 6/21) - Received A&I enrollment numbers showing Fiscal Year over Year information
+               - This information is wmailed out monthly
 - Definitions
      - [ ] (5/25) - Online Health Apps team will provide a LOE be estimated to add the Registration path to the online form - requested by Stacey Echols
      - [x] (6/8) - Christopher H. will produce KM document so that the LOE can be determined
@@ -43,5 +67,7 @@
 - Short Form - Data sources
      - [ ] (6/8) - Tarsha to check with Leadership on any concerns for Data Integrity
           -  The data sources used are MPI (Master Person Index), eMIS (Enterprise Military Information Service), EVSS PCIU (Electronic Veterans Self-service - Personal Contact Information [Update]), and VA Profile.
+          -  (6/22) - Tarsha confirmed with HEC leadership and no concerns for Data Integrity
+          -  **(6/22) - Tarsha** will reach out to VA Profile team for any concerns
 - Short Form - Combat Status
      - [ ] (6/8) - HEC team to discuss what qualifying factors may allow a Veteran be eligible to fill out the shortened 10-10EZ form (skipping financial/household sections)
