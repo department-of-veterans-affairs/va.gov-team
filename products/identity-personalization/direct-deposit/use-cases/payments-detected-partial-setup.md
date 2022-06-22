@@ -1,6 +1,6 @@
 # Direct deposit: user has set up direct deposit for one, but not both benefits
 
-**Last update: June 19, 2022**
+**Last update: June 23, 2022**
 
 If a LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and has only set up direct deposit for one benefit, they'll see different messages in each payment section of the page.
 
