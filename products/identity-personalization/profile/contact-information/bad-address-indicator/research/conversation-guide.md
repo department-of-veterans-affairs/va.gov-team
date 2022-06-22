@@ -16,7 +16,7 @@ Before we start, a few things I want to mention:
 
 -   **This entire session should take about 45 minutes or less**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
--   **In this session, we want to hear your honest opinions**. If you find something we show you to be confusing, we want to hear about it. Your feedback helps us figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express. We're testing our work, not you, so you can't do or say anything wrong here.
+-   **In this session, we want to hear your honest opinions**. If you find something to be confusing, we want to hear about it. Your feedback helps us figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express. We're testing our work, not you, so you can't do or say anything wrong here.
 
 -   **We will be able to see some of your real information today**. During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable.
 
@@ -59,7 +59,7 @@ _Participant shares screen_
 
 **Once logged in to VA.gov:** 
 -   Great. Now that you're logged in, I have a few initial questions for you.
--   How often do you go to or look at your Profile?
+-   How often do you go to your Profile?
 -   What are the reasons you generally visit your Profile?
 -   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Without selecting anything, could you tell me what you would do next?
 	-   What would you be searching for?
@@ -70,9 +70,9 @@ Task #1: Review Personal information page and alert - 3 minutes
 
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
 
--   Now if you could you please go to your Profile by selecting your name in the top right corner.
+-   Now if you could you please go to your Profile by selecting your name (located in the top right corner).
 -   Now I'll have you go through a few things. And just a reminder, it'll be very helpful if you could think out loud and share what's on your mind as much as possible.
--   Before you click on anything else, I'll have you take a look at this page. Could you briefly tell me about what's included here?
+-   Before you select anything else, I'll have you go over this page. Could you briefly tell me about what's included here?
 -   What stands out to you on this page?
 	-   _If needed:_ Did you notice the gray box with the yellow stripe?
 -   What is your interpretation of the alert?
@@ -91,7 +91,7 @@ Task #2: Navigate to Contact information page - 2 minutes
 -   Ok, let's move on. Based on this information, where would you go from here? 
 -   Go ahead and do that / navigate there. 
 -   Talk me through what you just did.
-	-   _If needed, ask:_ Did you notice the link in the alert? Why did you decide not to click on that?
+	-   _If needed, ask:_ Did you notice the link in the alert? Why did you decide not to select that?
 
 ### Things to watch for:
 -   Does the participant immediately navigate to the Contact information page? 
@@ -103,7 +103,7 @@ Task #3: Review Contact information alert - 3 minutes
 -----------------------------------------------------
 
 **Task goal: Make sure the participant understands the information included in the Contact information alert and can easily act on it.**
--   Now before you click on anything, I'll have you take a look at this page. Could you tell me briefly about what's included here?
+-   Now before you select anything, I'll have you review this page. Could you tell me briefly about what's included here?
 -   What stands out to you on this page?
 	-   _If needed:_ Did you notice the gray box with the yellow stripe?
 -   What's your interpretation of that alert?
@@ -120,10 +120,10 @@ Task #4: Update Mailing address - 5 minutes
 
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
--   Now I'm going to ask you to imagine that you're looking at your address and your zip code is incorrect like the alert says. Could you walk me through how you would update that?
+-   Now I'm going to ask you to imagine that you're reviewing your address and your zip code is incorrect like the alert says. Could you walk me through how you would update that?
 	-   _If needed, ask:_
 		-   I saw you hesitated at [action], why was that?
-		-   What information are you looking for?
+		-   What information are you searching for?
 		-   Why did you decide to take that route?
 -   Was there anything confusing about that process?
 
