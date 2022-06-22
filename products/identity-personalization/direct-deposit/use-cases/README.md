@@ -6,6 +6,8 @@ Direct deposit use case documentation is available in this directory.
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
+[High-level flow with screenshots](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Vr49MAw) is available in Sketch.
+
 ## Common use cases
 ### User logs in with LOA1 account
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/loa1-user.md)
