@@ -357,6 +357,7 @@ Design is on hold bc of midpoint review
 ### PTO
 
 - Samara: July 5 - 6
+- AJ: July 5
 - Do other folks have PTO??
 
 In priority order:
