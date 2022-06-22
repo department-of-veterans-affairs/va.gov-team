@@ -463,6 +463,12 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 - Complete research sessions
 
+### Address change messaging
+
+- Launch to 25%
+- Launch to 50%
+- Launch to 100%
+
 ## Sprint 78 (7/13 - 7/26)
 
 ## Sprint 79 (7/27 - 8/9)
