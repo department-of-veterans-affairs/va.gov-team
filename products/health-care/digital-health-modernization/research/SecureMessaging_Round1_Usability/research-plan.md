@@ -67,6 +67,7 @@ The audience is Veterans with and without VA healthcare, to be recruited by Peri
 Please schedule a total of 22 Veterans for an expected completion rate of 16-18 studies. 
 
 **Primary criteria (must-haves)**
+- All participants must use or be eligable for VA Healthcare
 - At least 10 participants who regularly use Secure Messaging
 - Up to 10 participants that do not use Secure Messaging
 - At least 10 participants who are mobile users
