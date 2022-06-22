@@ -139,10 +139,10 @@ Task #5: Confirm Mailing address - 5 minutes
 **Task goal: Make sure the participant understands how to CONFIRM a mailing address.**
 
 -   Now I'm going to ask you to show me something slightly different.
--   I'd like you to imagine that you came to this page and saw the same alerts, but when you checked your mailing address you didn't see any errors - everything looked correct. In this scenario, could you show me how you would go about telling VA your address is correct?
+-   I'd like you to imagine that you came to this page and found the same alerts, but when you checked your mailing address you didn't find any errors - everything was correct. In this scenario, could you show me how you would go about telling VA your address is correct?
 	-   _If needed, ask:_
 		-   I saw you hesitated at [action], why was that?
-		-   What kind of information are you looking for?
+		-   What kind of information are you searching for?
 		-   Why did you expect it to be there?
 		-   Why did you decide to take that route?
 -   Was there anything confusing about this process?
@@ -157,7 +157,7 @@ Task #5: Confirm Mailing address - 5 minutes
 -   _If using production:_
 	-   Ok great, that is just about everything I wanted to get your feedback on.
 	-   Lastly, I'd like to make sure that we now have all of your correct information, since we made one small change to your zip code. Could you please take a moment to double check your zip code?
-	-   Does everything look correct here?
+	-   Does everything seem correct here?
 -   Great! That's everything I wanted to get your feedback on. Do you have any questions or thoughts for me before we end the session?
 
 ### Thank-You and Closing - 1 minutes
