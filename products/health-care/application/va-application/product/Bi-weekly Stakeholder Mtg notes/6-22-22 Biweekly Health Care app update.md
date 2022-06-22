@@ -30,7 +30,7 @@
      - [x] (6/8) - Christopher H. will produce KM document so that the LOE can be determined
           - Requesting HEC team provide Lauren/Patrick/Online Health Apps team the fields for the Registration path be identified for comparison to Enrollment path
           - (6/8) Feedback from Joshua/ES:** They are handled differently, they are placed into a Registration Only enrollment status and are not enrolled into any priority group. It is more commonly done in person at a VAMC and not on a mailed in form.
-          - **(6/21) - Received link from Christopher H. 
+          - **(6/21) - Received link from Christopher H.**
                - [(VAMC Enroll Elig) VES Veteran Registration - Job Aid](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvaww.vrm.km.va.gov%2Fsystem%2Ftemplates%2Fselfservice%2Fva_kanew%2Fhelp%2Fagent%2Flocale%2Fen-US%2Fportal%2F554400000001046%2Fcontent%2F554400000188743%2FVAMC-Enroll-Elig-VES-Veteran-Registration-JA%3Fquery%3Dregistration%2520Only&data=05%7C01%7C%7C2777c336a0f54e00271108da544415ad%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C637914948652165421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2K%2B9awdh6iXRHW%2BYXlebf2nINto2RJQy%2FcSO3kgc970%3D&reserved=0)
 - Short Form - Data sources
      - [ ] (6/8) - Tarsha to check with Leadership on any concerns for Data Integrity
