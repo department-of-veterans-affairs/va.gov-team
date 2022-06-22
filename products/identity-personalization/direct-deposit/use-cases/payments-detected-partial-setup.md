@@ -32,7 +32,7 @@ They will also see a block under each payment section called "VA Payment History
 - [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/2530WVM)
 
 ## Codes
-TBD
+N/A
 
 ## How to reproduce
 
