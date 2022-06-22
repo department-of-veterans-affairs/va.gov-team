@@ -358,7 +358,7 @@ Design is on hold bc of midpoint review
 
 - Samara: July 5 - 6
 - AJ: July 5
-- Do other folks have PTO??
+- Liz: July 8
 
 **In priority order:**
 
