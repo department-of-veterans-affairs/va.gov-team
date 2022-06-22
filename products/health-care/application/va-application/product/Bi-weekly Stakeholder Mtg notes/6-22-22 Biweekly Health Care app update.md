@@ -2,14 +2,22 @@
 
 ### 6/22 Meeting - Outstanding Action Items
 
+- Team update
+     - Zach (Enrollment Case Mgmt) is leaving 7/15 - Annie Rice is replacing
 
 ### Agenda Items
 - Provide update on Short form
-     - Usability tests
+     - Usability tests went well!
+     - Synthesis in progress and will be shared with the audience
+     - Potential to deliver in July, will discuss at the next meeting 7/6
 - In-progress Notification emails
-     - Rolled back
+     - Rolled back due to not having an "opt-out" process at this time
+     - Further analysis will be done with VA Notify team for future implementation
 - Confirmation page after application is submitted
      - Online Health Apps team would like to confirm that the applicant will be contacted via email per image below
+- Registration Only process
+     - Confirm use cases
+
 
 <details>
   <summary>Image of section on confirmation page</summary>
