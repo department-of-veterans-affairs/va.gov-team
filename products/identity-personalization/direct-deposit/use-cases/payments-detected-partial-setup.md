@@ -12,7 +12,7 @@ They will also see a block under each payment section called "VA Payment History
 - [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
 - Content in education section directs user to call VA to set up direct deposit payments.
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
-- There is currently no way for users to set up DD pamyents for education benefits online.
+- There is currently no way for users to set up DD payments for education benefits online.
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/wLOKyLA)
 - [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/WKez5xy)
 
