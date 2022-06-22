@@ -17,7 +17,7 @@
      - Centralize Mail Portal - Patrick spoke with team. Thought processing digital 1010CG if VA.gov retries fail is SUPER possible for ultimate failures on VA.gov side
      - [ ] **AI Patrick to look into if VA.gov can store PII PHI**
 - MuleSoft API Error/503 Errors
-     - Yellow other errors - 
+     - Yellow other errors
           - [ ] **(6/3) VA.gov to look into and provide more error to identify what the error is**
      - [ ] **(6/3) VA.gov to discuss sharing automated alerts to VA.gov with the SPS team. Use shared slack channel? See if it can be pointed to shared channel**
 - VA.gov retry workflow proposal
@@ -26,8 +26,8 @@
           - [ ] **(6/3) AI CSP and SPS to decide how this "ultimate failure" should play out**
      - [ ] **(6/3) AI Team to determine new messaging as a one size fits all**
      - [ ] **(6/3) Need to map out the whole process flow. And then discuss messaging**
-               -  [ ] **(6/10) Discuss on 6/17 - Still looking for technical process, number of retries, etc to better inform messaging**
-               -  [ ] **(6/10) Discuss on 6/24 - Content for messaging with Dene'**
+          - [ ] **(6/10) Discuss on 6/17 - Still looking for technical process, number of retries, etc to better inform messaging**
+          - [ ] **(6/10) Discuss on 6/24 - Content for messaging with Dene'**
      - [ ] **(6/3) Need to identify how to avoid duplicate**
 
 
@@ -57,7 +57,7 @@
           - **Lihan** looking for the correct test server address - posted in shared slack
      - Need to look at adjusting or creating alerts with shorter threshold time periods
           - Currently at 25% failures for the month
-          - Need to look at an alert within a shorter time.
+          - Need to look at an alert within a shorter time - [#43084 ticket created](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43084)
 
 
 
