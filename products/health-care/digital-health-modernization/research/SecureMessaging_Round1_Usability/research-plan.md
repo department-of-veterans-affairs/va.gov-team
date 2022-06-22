@@ -1,5 +1,5 @@
 # Research Plan for Secure Messaging Usability Round 1
-June 2022
+June & July 2022
 
 ## Background
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We developed a prototype of what Secure Messaging in MHV on VA.gov could look like on desktop and on a mobile device, which we are testing as part of this research.
@@ -91,8 +91,8 @@ Please schedule a total of 22 Veterans for an expected completion rate of 16-18 
 
 ### Prepare
 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: gavin.quinn@bylight.com
+* Date and time of pilot session: Friday 6/24: 11am - 12pm ET
 
 ### Research sessions
 - We plan to run sessions from July 5th to 8th, with July 11th and 12th as additional days if necessary
