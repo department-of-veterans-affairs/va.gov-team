@@ -1,10 +1,11 @@
 # Direct deposit: user has set up direct deposit for both payment types
 
-**Last update: June 17, 2022**
+**Last update: June 22, 2022**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and has set up direct deposit for comp+pen and education payment, they will be able to view and edit bank account information for both.
 
 ## UX and design
+- Bank information will show as read-only in the comp+pen section and the education section, which a corresponding `edit` button for both.
 - Clicking the `edit` button will enable edit mode within the corresponding section. A user can edit their routing number, account number, and account type.
 - Bank name is automatically filled in based on the routing number; users can't edit their bank name.
 - [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
