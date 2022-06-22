@@ -1,6 +1,6 @@
 # Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type
 
-**Last update: June 21, 2022**
+**Last update: June 22, 2022**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and we detect they're receiving payments, they'll see different messages in each payment section of the page.
 
