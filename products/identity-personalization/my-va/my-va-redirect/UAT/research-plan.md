@@ -65,9 +65,11 @@ Please recruit 14 participants for 7 completed sessions.
 
 ##### Participant groups
 - 5 participants should be able to join the session using My HealtheVet log in credential
-	- **Qualifier:** Do you have a My HealtheVet account you can login with to access VA>gov? **Answer should be yes to qualify.**
+	- **Qualifier:** Do you have a My HealtheVet account you can login with to access VA.gov? **Answer should be yes to qualify.**
 - 5 participants should be able to join the session using DS Logon
-	-  **Qualifier:** Do you have a DSLogon account you can login with to access VA>gov? **Answer should be yes to qualify.**
+	-  **Qualifier:** Do you have a DSLogon account you can login with to access VA.gov? **Answer should be yes to qualify.**
+- 4 participants should be able to join the session using ID.me or Login.gov
+	-  **Qualifier:** Do you have an ID.me or Login.gov account you can login with to access VA.gov? **Answer should be yes to qualify.**
 - 8 participants should be able to join the session from a device other than a laptop or desktop computer (tablets are OK)
 	- **Qualifier:** Do you have a smartphone or tablet you can use to join the session? **Answer should be yes to qualify.**
 - At least 4 participants should use a screen reader.
