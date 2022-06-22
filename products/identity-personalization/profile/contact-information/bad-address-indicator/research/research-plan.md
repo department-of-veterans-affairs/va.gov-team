@@ -146,7 +146,7 @@ What dates do you plan to do research?
 | ---------- | --------------- | ---------- |
 | 6/29/2022 | 9am - 7pm |	
 | 6/30/2022 | 9am - 7pm |
-| 7/1/2022 | 9am - 7pm | No screen reader sessions on this date |
+| 7/1/2022 | 9am - 7pm | No screen reader sessions this day |
 
 **Secondary Dates:**
 
