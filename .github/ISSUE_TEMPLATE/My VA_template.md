@@ -18,8 +18,8 @@ _What details are necessary for understanding the specific work or request track
 - [ ] _What will be created or happen as a result of this story?_
 
 ## Validation
-- _Who can validate this ticket? (FE, BE, Design, PM)?_Any team member
-- _How can this work be validated? review designs, research materials and prototype to confirm updates have been made.
+- Who can validate this ticket? (FE, BE, Design, PM)? Any team member
+- How can this work be validated? review designs, research materials and prototype to confirm updates have been made.
 
 ## Resources
 - optional: links, screenshots, etc.
