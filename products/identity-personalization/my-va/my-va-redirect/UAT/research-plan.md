@@ -49,7 +49,7 @@ Please recruit 14 participants for 7 completed sessions.
 
 #### Primary criteria (must-haves)
 
-**All participants**
+##### All participants
 - must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
 	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
 	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
@@ -63,7 +63,7 @@ Please recruit 14 participants for 7 completed sessions.
 
 - Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the redirect in production.
 
-**Participant groups**
+##### Participant groups
 - 5 participants should be able to join the session using My HealtheVet log in credential
 	- **Qualifier:** Do you have a My HealtheVet account you can login with to access VA>gov? **Answer should be yes to qualify.**
 - 5 participants should be able to join the session using DS Logon
