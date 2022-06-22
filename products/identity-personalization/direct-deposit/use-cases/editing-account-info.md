@@ -2,7 +2,7 @@
 
 **Last updated June 21, 2022**
 
-If a user clicks the `edit` button for either payment section, they will enter edit mode for that section on the direct deposit page.
+If a user clicks the `edit` button for either direct deposit section, they will enter edit mode for that section.
 
 ## UX
 
