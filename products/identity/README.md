@@ -11,7 +11,7 @@ Welcome to the Identity folder. This directory contains information about user i
 
 **Sign-in Service Pilot**  
 _Current Status:_ Actively working on this.  Currently working on second phase of work.  
-We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
+We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. We completed work on the mobile part of our Sign-in Service, to be utilized by the VA Flagship Mobile App in May of 2022, and are currently working on the web-based version, anticipated to finish in Sprint 6.
 
 **Inherited Proofing**  
 _Current Status:_ Initial research is done.  Next up is accessibility research.
@@ -41,7 +41,6 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 ### UX
 - Amanda Porter - UX Designer/Researcher
-- Sam Vang - UX Designer/Researcher
 
 ### Engineering
 - Joe Niquette - Engineering Lead
