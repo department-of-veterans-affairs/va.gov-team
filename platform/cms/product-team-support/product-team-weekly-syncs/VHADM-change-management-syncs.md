@@ -12,6 +12,12 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
+## June 29, 2022
+
+Training to edit Centralized content 
+
+Q3 priorities
+
 ## June 15, 2022
 
 ### Facility COVID Status
