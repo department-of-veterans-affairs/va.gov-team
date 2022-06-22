@@ -1,8 +1,8 @@
-# Direct deposit: user is not receiving compensation, pension, or education payments.
+# Direct deposit: LOA3 ID.me or Login.gov user does not receive compensation, pension, or education payments.
 
-**Last update: June 19, 2022**
+**Last update: June 22, 2022**
 
-If a LOA3 user logged in with two-factor authentication navigates to the direct deposit page, and we don't detect they're receiving any kind of payments, they'll see messaging in both the comp + pen, and education sections telling them we don't detect they're receiving payments.
+If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov navigates to the direct deposit page and we don't detect that they're receiving any kind of payments, they'll see messaging in both the comp + pen and education sections telling them we don't detect they're receiving payments.
 
 ## UX
 - Content guides user to next step, which is learning more about benefit eligibility
