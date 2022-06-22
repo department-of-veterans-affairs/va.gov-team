@@ -83,7 +83,7 @@ searches and gets no results.", etc.
 - **Description:** Veteran is not enrolled in healthcare.
 
 - **Instructions to access in Staging** 
-	- `vets.gov.user+3@gmail.com` (NAME)
+	- `vets.gov.user+3@gmail.com` (Kenneth)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
 
