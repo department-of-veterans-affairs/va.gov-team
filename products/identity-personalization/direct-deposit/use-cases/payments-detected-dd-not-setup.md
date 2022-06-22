@@ -15,7 +15,7 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 - [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
 
 ### Education payments
-- Users will see content directing them to call VA to set up direct deposit payments
+- Education section will show the same state as if the user [does not receive education payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md). Users will see content directing them to call VA to set up direct deposit payments.
 - There is currently no way for users to set up DD pamyents for education benefits online
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
 
