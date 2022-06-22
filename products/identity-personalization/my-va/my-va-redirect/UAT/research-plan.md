@@ -111,10 +111,10 @@ July 1 - July 7, 2022
 
 ### Availability
 
-| Date       | Times (Eastern) | 
-| ---------- | --------------- |
-| July 1 | 10:30am-4:30pm 
-| July 5 | 10am-4:30pm |	
+| Date       | Times (Eastern) |  Notes | 
+| ---------- | --------------- | --------------- |
+| July 1 | 10:30am-4:30pm |
+| July 5 | 10am-4:30pm | No screenreader sessions this day |
 | July 6 | 9am-4pm |	
 | July 7 | 9am-4:30pm |	
 
