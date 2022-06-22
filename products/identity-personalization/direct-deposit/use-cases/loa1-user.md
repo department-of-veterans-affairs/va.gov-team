@@ -1,6 +1,6 @@
 # Direct deposit: LOA1 user attempts to access direct deposit
 
-LOA1 users can't see any page in profile other than Account Security.
+A user is considered "LOA1" when they log in to VA.gov but have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov and go to the profile can't see any page in profile other than Account Security. This means that they can not view the direct deposit section.
 
 ## UX
 - When an LOA1 user navigates to profile, they'll only see the Account Security page; no other pages in profile are available from the profile navigation menu.
