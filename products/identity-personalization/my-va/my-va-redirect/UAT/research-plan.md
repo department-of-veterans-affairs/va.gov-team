@@ -103,13 +103,15 @@ What dates do you plan to do research?
 July 1 - July 7, 2022
 
 ### Length of sessions
-Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
+- Sessions will be 30 minutes with 30 minutes in between sessions.
+- Please schedule no more than 5 sessions per day.
+- Please do not schedule sessions with screen reader users prior to 12pm EST, as our support person is in California.
 
 ### Availability
 
-| Date       | Times (Eastern) |
+| Date       | Times (Eastern) | 
 | ---------- | --------------- |
-| July 1 | 10:30am-4:30pm |	
+| July 1 | 10:30am-4:30pm 
 | July 5 | 10am-4:30pm |	
 | July 6 | 9am-4pm |	
 | July 7 | 9am-4:30pm |	
@@ -121,6 +123,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Liz Lantz
 - Participant recruiting & screening:	Perigean
 - Project point of contact: Liz Lantz
+- Assistive technology support: Angela Fowler
 - Participant(s) for pilot test:	TBD
 - Observers:	
   - samara.strauss@va.gov
@@ -128,3 +131,4 @@ Please list the people who will be serving in each role.
   - erica.sauve@adhocteam.us 
   - taylor.mitchell@gcio.com
   - angela.agosto@adhocteam.us
+  - angela.fowler@adhocteam.us (only include for screen reader sessions)
