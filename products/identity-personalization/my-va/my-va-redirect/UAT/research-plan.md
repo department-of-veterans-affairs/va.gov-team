@@ -72,16 +72,19 @@ Please recruit 14 participants for 7 completed sessions.
 	-  **Qualifier:** Do you have an ID.me or Login.gov account you can login with to access VA.gov? **Answer should be yes to qualify.**
 - 8 participants should be able to join the session from a device other than a laptop or desktop computer (tablets are OK)
 	- **Qualifier:** Do you have a smartphone or tablet you can use to join the session? **Answer should be yes to qualify.**
-- At least 4 participants should use a screen reader.
+	- **Follow-up:** What kind of device will you use to join the session?
+- At least 4 participants should use a screen reader. **Record answer in roster.**
 	- **Qualifier:** Do you rely on a screen reader to navigate the internet and use a computer? **Answer should be yes to qualify.**
+	- 	**Follow-up:** What kind of screen reader do you use? **Record answer in roster.**
 - At least 7 participants should identify as having a cognitive disability
 - At least 6 participants should be older than 55
 
 #### Secondary criteria (nice-to-haves)
 - 4 people who use zoom magnification software
-	- **Qualifier:** Do you ever need to zoom in or use magnification to read text on your screen? **If yes, move onto next question.**
-	- **Qualifier:** Do you use software to zoom in? **Answer should be yes to qualify. If not, next question**
-	- **Qualifier:** Do you zoom in 400% or more? **Answer should be yes to qualify.** 
+	1. **Qualifier:** Do you ever need to zoom in or use magnification to read text on your screen? **If yes, move onto next question.**
+	2. **Qualifier:** Do you use software to zoom in? **Answer should be yes to qualify. If not, go to question 4**
+	3. **If yes, use software:** What kind of software do you use? **Record answer in roster.**
+	4. **If no, use software:** Do you zoom in 400% or more? **Answer should be yes to qualify.**
 - At least 6 participants should identify as other than male 
 At least 6 Veterans who identify as Hispanic, Asian, or Native
 - At least 2 Veterans with other than honorable discharge
