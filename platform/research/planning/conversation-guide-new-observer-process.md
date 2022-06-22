@@ -21,7 +21,7 @@ Slack for real-time feedback from observers.
 
 ### Starting the session
 
-- ### **Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with name displayed for a brief introduction to particpant when they are admitted to the session.**
+- ### **Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session.**
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
@@ -31,9 +31,9 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-### Thanks for joining us today! My name is [NAME] and I also have some colleagues in the waiting room who want to be observers and take notes. Perigean had priorly asked for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them observe this research session?
+### Thanks for joining us today! My name is [NAME] and I also have some colleagues in the waiting room who would like to observer and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
 
-- ### **If participant does not consent, ask the observers to kindly leave the Zoom.**
+- ### **If participant does not consent, ask the observers to kindly leave the Zoom via Slack.**
 - ### **If participant consents, admit observers for brief introduction to wave or say hello, then ask observers to turn off their cameras for remainder of the session. (This is meant to humanize the interaction of observation for the participant)**
 
 Okay, Today we're going to talk about [description of your project]. 
@@ -101,10 +101,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. 
 
-### Also, I'd like to ask how you felt being observed today. 
- ### - Were you nervous, self-conscious or comfortable with having observers? Or felt anything else?
- ### - Did you appreciate being asked for consent at the beginning?
- ### - Did the brief introductions put you at ease or make you nervous?
+### Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
+[wait for observers to leave]
+ ### - Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
+ ### - Sometimes we have the observers already in the session when you join, instead of how we did it today. When I asked you for consent  before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
+ ### - Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
 
 Thank you! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usabiility research session? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
