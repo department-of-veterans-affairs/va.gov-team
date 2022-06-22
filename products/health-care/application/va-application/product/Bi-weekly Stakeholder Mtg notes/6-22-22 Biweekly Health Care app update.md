@@ -27,7 +27,7 @@
      - [ ] (6/8) - Christopher H. will check with EED team on obtaining monthly volume of received applications
 - Definitions
      - [ ] (5/25) - Online Health Apps team will provide a LOE be estimated to add the Registration path to the online form - requested by Stacey Echols
-     - [ ] (6/8) - Christopher H. will produce KM document so that the LOE can be determined
+     - [x] (6/8) - Christopher H. will produce KM document so that the LOE can be determined
           - Requesting HEC team provide Lauren/Patrick/Online Health Apps team the fields for the Registration path be identified for comparison to Enrollment path
           - (6/8) Feedback from Joshua/ES:** They are handled differently, they are placed into a Registration Only enrollment status and are not enrolled into any priority group. It is more commonly done in person at a VAMC and not on a mailed in form.
           - **(6/21) - Received link from Christopher H. 
