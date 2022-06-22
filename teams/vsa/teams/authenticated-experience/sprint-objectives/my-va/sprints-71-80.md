@@ -360,7 +360,7 @@ Design is on hold bc of midpoint review
 - AJ: July 5
 - Do other folks have PTO??
 
-In priority order:
+**In priority order:**
 
 ### On-site notifications
 
@@ -404,6 +404,12 @@ This can be on hold this sprint if Angela doesn't have bandwidth due to payments
 - Preliminary research planning
   - This is separate from a formal research plan, though you may want to document some thoughts to include in the research plan when we get there.
   - Do we need to test in code? If so, how do we plan on doing this (prod, code-pen or equivalent, staging)? Make sure the method serves our objectives.
+
+### Documentation
+
+This is a stretch goal and can be moved to next sprint if needed. PMs should be focused on on-site notifications and the My VA redirect as top priorities.
+
+- Create a plan for updating My VA documentation in Github (see Liz's plan in [#40862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40862#issuecomment-1128093147) for guidance)
 
 ## Sprint 78 (7/13 - 7/26)
 [Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
