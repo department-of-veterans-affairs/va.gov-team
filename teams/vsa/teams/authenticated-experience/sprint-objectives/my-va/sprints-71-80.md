@@ -356,7 +356,53 @@ Design is on hold bc of midpoint review
 
 ### PTO
 
-- Samara: TBD, but likely taking some time off during July 4th week
+- Samara: July 5 - 6
+- Do other folks have PTO??
+
+In priority order:
+
+### On-site notifications
+
+Our main objective this sprint is to make sure the feature is working. If it is, great! If not, we may need to add/adjust sprint tasks in order to get it working.
+
+**PM**
+
+- Oversee end-to-end testing (if the call happens)
+
+Once we are sure the feature is working...
+
+- QA go/no-go; QA
+- Release plan
+- Call center guide updates (can use My VA guide) 
+
+### My VA redirect
+
+**PM**
+
+- Contact center guide updates
+
+**Design**
+
+- Research recruiting
+- Conduct UAT/usability testing
+
+### Payment & debts V2
+
+**Design**
+
+- Research recruiting (if it didn't happen in sprint 76)
+- Conduct research sessions
+- Research summary (if time; dependent on when sessions start)
+
+### My VA Audit
+
+This can be on hold this sprint if Angela doesn't have bandwidth due to payments V2 research. However, if she does:
+
+**Design**
+
+- Preliminary research planning
+  - This is separate from a formal research plan, though you may want to document some thoughts to include in the research plan when we get there.
+  - Do we need to test in code? If so, how do we plan on doing this (prod, code-pen or equivalent, staging)? Make sure the method serves our objectives.
 
 ## Sprint 78 (7/13 - 7/26)
 [Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
