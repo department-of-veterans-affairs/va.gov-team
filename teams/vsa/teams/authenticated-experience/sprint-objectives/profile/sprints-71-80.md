@@ -409,10 +409,16 @@ After midpoint review...
 
 - Samara: TBD, but likely taking some time off during July 4th week
 - Christina: July 4 - 12
+- Liz: July 8 (Plus, Liz will be conducting research for the My VA half of the team)
+
+### Personal information revisions
+
+- Launch to 100% if we didn't already do so last sprint
+- Make sure content page updates go out after we go to 100%
 
 ### Notification preferences
 
-Default opt-in discovery
+This is pending Liz's availability. She is doing some research for My VA this sprint, which is higher priority.
 
 **Design**
 
@@ -435,9 +441,27 @@ Default opt-in discovery
 
 ### Military history
 
+**PM**
+
+- Coordinate internal UAT after analytics are setup and we determine that this work does not have to wait until prefill functionality is updated by the platform
+
 **FE - Mark**
 
-- Errors for when military information doesn't load shouldn't show on the personal info section
+- Errors for when military information doesn't load shouldn't show on the personal info section, if not completed last sprint
+
+**FE - Adam**
+
+- Analytics setup, if not completed last sprint
+
+**BE**
+
+- Coordinate with the platform team on whether we need to wait to launch to prod until prefill functionality has been updated
+
+### Bad address indicator
+
+**Design - Christina**
+
+- Complete research sessions
 
 ## Sprint 78 (7/13 - 7/26)
 
