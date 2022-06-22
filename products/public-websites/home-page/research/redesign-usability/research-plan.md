@@ -81,7 +81,6 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 - 3 are Veterans' caregivers
 - 2 are Veterans' family members
 - 2 are service members
-- 6 have NO experience with ANY VA benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
 - 4 have experience with health care, and optionally with other VA benefits *(see Additional Question #1 below)*
 - 10 people who plan to use their desktop or laptop computer for the session
@@ -96,6 +95,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 ### Secondary criteria (nice-to-haves)
+- 2 have NO experience with ANY VA benefit *(see Additional Question #1 below)*
 - At least 6 people of color
 - At least 4 women
 - At least 3 people 35 or under
@@ -105,7 +105,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 
 ### Additional questions to ask in the screener
 1. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
-    1. None *(recruit 6)*
+    1. None *(recruit 2)*
     1. One or more NOT INCLUDING Health Care *(recruit 6)*
     1. One or more INCLUDING Health Care *(recruit 4)*
     
@@ -115,7 +115,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
     1. Not sure
     
 1. How comfortable do you feel speaking and reading English? (We are asking so we can include people with different English skills.)
-    1. Not at all *(record as "non-native English speaker" and recruit)*
+    1. Not at all 
     1. Not well *(record as "non-native English speaker" and recruit)*
     1. Well
     1. Very well 
