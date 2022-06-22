@@ -8,9 +8,8 @@ They will also see a block under each payment section called "VA Payment History
 
 ## UX
 ### Has set up compensation and pension direct deposit, but has not set up education payments
-- Content in compensation and pension section displays account information, and an `edit button`.
-- [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
-- Education section will show the same state as if the user [does not receive education payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md) or [does not have education payments set up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md#direct-deposit-user-receives-payments-but-hasnt-set-up-direct-deposit-for-any-payment-type).
+- Content in compensation and pension section displays account information, and an `edit button`. [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md).
+- Education section will show the same state as if the user [does not receive education payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md)/[does not have education payments set up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md#direct-deposit-user-receives-payments-but-hasnt-set-up-direct-deposit-for-any-payment-type).
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
 - There is currently no way for users to set up DD payments for education benefits online.
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/wLOKyLA)
