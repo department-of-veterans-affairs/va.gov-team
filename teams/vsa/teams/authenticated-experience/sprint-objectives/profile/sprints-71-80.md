@@ -469,7 +469,7 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 **FE**
 
-- Update list of facilities that have prescription SMS texts
+- Update list of facilities that have prescription SMS texts #43206
 
 ### General
 
