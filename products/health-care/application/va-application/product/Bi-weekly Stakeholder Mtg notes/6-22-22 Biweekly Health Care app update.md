@@ -30,7 +30,7 @@
      - [ ] (6/8) - Christopher H. will produce KM document so that the LOE can be determined
           - Requesting HEC team provide Lauren/Patrick/Online Health Apps team the fields for the Registration path be identified for comparison to Enrollment path
           - (6/8) Feedback from Joshua/ES:** They are handled differently, they are placed into a Registration Only enrollment status and are not enrolled into any priority group. It is more commonly done in person at a VAMC and not on a mailed in form.
-          - **(6/21) - Per Christopher H, this is done.  I haven't seen it come through
+          - **(6/21) - Per Christopher H, this is done.  I haven't seen it come through**
 - Short Form - Data sources
      - [ ] (6/8) - Tarsha to check with Leadership on any concerns for Data Integrity
           -  The data sources used are MPI (Master Person Index), eMIS (Enterprise Military Information Service), EVSS PCIU (Electronic Veterans Self-service - Personal Contact Information [Update]), and VA Profile.
