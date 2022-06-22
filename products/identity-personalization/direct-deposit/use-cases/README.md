@@ -1,4 +1,7 @@
 # Direct Deposit Use Cases
+
+**Last updated:** June 23, 2022
+
 Direct deposit use case documentation is available in this directory.
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
