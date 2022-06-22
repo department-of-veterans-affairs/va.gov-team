@@ -10,6 +10,9 @@ assignees: ''
 ## User Story
 _"As a (persona), I (want to), (so that)."_
 
+Assignee:
+Peer Reviewer:
+
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
@@ -20,16 +23,17 @@ _What details are necessary for understanding the specific work or request track
 - [ ] _Placeholder task_
 
 ## Peer Review
-- [ ] Determine Peer Reviewer and reassign ticket
+- [ ] Ticket reassigned to peer reviewer when ready for peer review
 - [ ] Peer Reviewer: Completes review and validates user story/Acceptance Criteria are met
 
 ## Acceptance Criteria
-- [ ] _Placeholder task_
+- [ ] _Placeholder AC_
 
 ## How to prepare this issue
 - [ ] Attach story to appropriate Iniative or Quarterly Tech-Debt Epic.
 - [ ] Add User Story, description, tasks, and Acceptance Criteria
 - [ ] Add any [additional appropriate labels](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2220359751/WIP+Tech+Debt+Ticket+Organization).
 - [ ] Once all above items are checked, add the 'Ready' label.
+- [ ] Ticket has been discussed as a team and sized.
 - [ ] When brought into a sprint, move to the Planned pipeline.
-- [ ] When brought into a sprint, add assignees.
+- [ ] When brought into a sprint, add assignee and specify Peer Reviewer.
