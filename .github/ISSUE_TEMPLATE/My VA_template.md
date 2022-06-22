@@ -19,7 +19,7 @@ _What details are necessary for understanding the specific work or request track
 
 ## Validation
 - _Who can validate this ticket? (FE, BE, Design, PM)? Any team member_
-- _How can this work be validated? review designs, research materials and prototype to confirm updates have been made_
+- _How can this work be validated?_
 
 ## Resources
 - optional: links, screenshots, etc.
