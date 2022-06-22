@@ -472,7 +472,11 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 - Default opt-in indicator discovery
   - What changes need to happen?
-  - What information do we receive? 
+  - What information do we receive? '
+
+### General
+
+- This might be a good sprint to pull in work from the backlog for Adam and Mark.
 
 ## Sprint 78 (7/13 - 7/26)
 
