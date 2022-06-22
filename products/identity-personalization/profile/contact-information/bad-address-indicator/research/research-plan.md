@@ -142,11 +142,11 @@ What dates do you plan to do research?
 
 ### Availability
 
-| Date       | Times (Eastern) |
-| ---------- | --------------- |
+| Date       | Times (Eastern) | Notes      | 
+| ---------- | --------------- | ---------- |
 | 6/29/2022 | 9am - 7pm |	
 | 6/30/2022 | 9am - 7pm |
-| 7/1/2022 | 9am - 7pm |
+| 7/1/2022 | 9am - 7pm | No screen reader sessions on this date |
 
 **Secondary Dates:**
 
