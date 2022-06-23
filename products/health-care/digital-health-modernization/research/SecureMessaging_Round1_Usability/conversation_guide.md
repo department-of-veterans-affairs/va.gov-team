@@ -57,7 +57,8 @@ Before we start, a few things I want to mention:
 - Do you know which messages you have read and which messages you have not read? If so, how?
 - Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
 - What name are you seeing on these messages?
-- After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Have you ever gotten rid of a message and then needed it again? Do you see a way to find those messages? ***
+- After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Would you expect to be able to see or access those messages again?
+- (If they don't go to deleted folder, prompt them to go there) What would you call these messages? Do you want to be able to access them again?
 - If you had questions about secure messages what would you do?
 - Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
 
@@ -98,7 +99,7 @@ Before we start, a few things I want to mention:
 ## Message Content - 5 minutes
 - What are you seeing here?
 - Who sent you this message?
-- If you wanted to read the previous messages in this thread how would you do that?
+- If you wanted to read the past messages in this conversation, how would you do that?”
 - Do you ever organize your messages? If so, how do you organize them? Do you see a way to do that here? (If they mention folders) What would you call those folders? Where would you expect to see them?
 - Is there anything else that you would like to do on this page?
 - If you wanted to send a message to your provider in response to this message what would you do?
