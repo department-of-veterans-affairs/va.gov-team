@@ -44,6 +44,8 @@ A timeline of key milestones from large scale initiatives
   - Baseline Wayfinding Research on VA.gov
 - March 2022
   - [Homepage iteration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative)
+- June 22, 2022
+  - Review of redesign and research plan with Dave Conlon, Chris Johnston, and Jeff Barnes
 
 ## Product artifacts
 - [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
