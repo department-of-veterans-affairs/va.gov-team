@@ -60,17 +60,21 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
 ### Finding 4
-Brief description
+**6/7 participants understood that the fields were NOT required.** Main reasons:
+- (3/7) they didn't see anything stating the fields were required
+- (3/7) in comparison, date of birth was required and could not be edited 
+- (2/7) the gender identity dropdown information saying "if you would like to share"
+- (2/7) the fields could be edited
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
 ### Finding 5
-Brief description
+**All participants updated their information for both Preferred name and Gender identity.** One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer.”
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
 ### Finding 6
-Brief description
+**All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
