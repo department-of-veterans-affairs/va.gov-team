@@ -139,7 +139,9 @@ Task #5: Confirm Mailing address - 5 minutes
 **Task goal: Make sure the participant understands how to CONFIRM a mailing address.**
 
 -   Now I'm going to ask you to show me something slightly different.
--   I'd like you to imagine that you came to this page and found the same alerts, but when you checked your mailing address you didn't find any errors - everything was correct. In this scenario, could you show me how you would go about telling VA your address is correct?
+-   First, could you please open a new window in your browser and go to VA.gov again? This will reinstate the alerts so we can review them again.
+-   Thank you! And go ahead and navigate to your Profile once again.
+-   Ok, great. Now I'd like you to imagine that you came to this page and found the same alerts, but when you checked your mailing address you didn't find any errors - everything was correct. In this scenario, could you demonstrate how you would go about telling VA your address is correct?
 	-   _If needed, ask:_
 		-   I saw you hesitated at [action], why was that?
 		-   What kind of information are you searching for?
