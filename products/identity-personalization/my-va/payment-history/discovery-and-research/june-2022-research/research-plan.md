@@ -23,32 +23,32 @@ Since Veterans can incur debt and receive payments any time after establishing b
 ### **1. Determine if the title of this section accurately conveys the content.**
 
 - Before reviewing the content of the section, what do users expect to see in this section?
-- What do users think that bills are?
+- What do users think that debts are?
 - What do users think that payments are?
 - After revealing the content of the section, are there any surprises?
 - Is this information that veterans would want to see once they log into VA.gov?
 
-### **2. Validate that the details displayed for debts and copays are the most important pieces of information for bills.**
+### **2. Validate that the details displayed are the most important pieces of information for debts.**
 
 - Do the titles give enough information to determine why the debt or copay is due?
-- Do veterans find it useful to see the status of their debt or copay on My VA, or is this only necessary once diving further into VA bills?
-- Is showing the amount for each type of bill useful on My VA?
-- Does the usage of the dark red color for bills due convey a sense of importance and things that are due? Do colorblind and low vision users have any difficulty seeing the dark red text?
-- Do veterans consider both debts and copays to be bills?
-- Is the difference between debts and copays clear?
+- Do veterans find it useful to see the status of their debt on My VA, or is this only necessary once diving further into all VA debts?
+- Is showing the amount for each type of debt useful on My VA?
+- Does the usage of the dark red color for debts due convey a sense of importance and things that are due? Do colorblind and low vision users have any difficulty seeing the dark red text?
+- Is the concept of debts clear that it encompasses anything that is due from them to the VA?
+- Is the difference between different types of debts and copays within the section clear?
 - Is there any important information missing in this section?
 
 ### **3. Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
 
-- How do users think they would go about paying or requesting help for one of these bills?
+- How do users think they would go about paying or requesting help for one of these debts?
 - What do users expect to happen when they click the Manage all VA debt link?
-- Do users want to be able to click on an individual bill, or go to a page to view and manage all VA bills?
-- What would a user do if they had questions about their bills?
-- Would a user expect to see anything here if they had paid off a bill?
+- Do users want to be able to click on an individual debt, or go to a page to view and manage all VA debt?
+- What would a user do if they had questions about their debts?
+- Would a user expect to see anything here if they had paid off a debt?
 
 ### **4. Validate that the most important pieces of payment information are being presented on My VA.**
 
-- Is the difference between bills and payments clear?
+- Is the difference between debts and payments clear?
 - How many previous payments would a user like to see on My VA versus on their full payment history?
 - Does the dark green color convey that these are payments that have been deposited to them? Do colorblind and low vision users have any difficulty seeing the dark green text?
 - Is there any important information missing in this section?
@@ -59,14 +59,14 @@ We'll use the findings from this research to update the content and links in thi
 
 ### Hypothesis
 
-- We believe Veterans will find the bill information useful and will be able to determine a path to resolve bills that are due from My VA.
+- We believe Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.
 - We believe Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.
-- We believe that surfacing more details about bills and payments is important to Veterans and is something they would want to see upon logging into the site.
-- We believe that there may be some confusion around whether copays should fall under bills or belong under a healthcare-related section because feedback on this topic has been split fairly even so far.
+- We believe that surfacing more details about debts and payments is important to Veterans and is something they would want to see upon logging into the site.
+- We believe that there may be some confusion around whether copays should fall under debts or belong under a healthcare-related section because feedback on this topic has been split fairly even so far.
 
 ## Method
 
-We'll conduct remote usability testing over Zoom using a prototype. This method will enable us to show copays, bills, and payments for all participants without restricting by which they currently have so we have a diverse user population to pull from and all users can see both bills and payments. We will plan to test in production with a screen reader user before launch since that is a limitation of testing with a prototype.
+We'll conduct remote usability testing over Zoom using a prototype. This method will enable us to show various types of debt and payments for all participants without restricting by which they currently have so we have a diverse user population to pull from and all users can see both debts and payments. We will plan to test in production with a screen reader user before launch since that is a limitation of testing with a prototype.
 
 ### Research materials
 
