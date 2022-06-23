@@ -38,12 +38,14 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - 6/7 had very positive responses upon viewing the page. 
 - The remaining participant thought it was fine and understood why these fields were needed. 
 
+**Next step:** None
+
 ### Finding 2
 **Participants felt VA asks for this information to make Veterans feel comfortable and to minimize confusion.** 
 - Some initially felt it was for medical rather than social reasons, and one felt it was also to contribute to demographic data. 
 - All participants understood the health care aspect once they read more information about the fields, with a few wording elements that could be clarified.
 
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+**Next step:** None
 
 ### Finding 3
 **Participants had trouble noticing the hint text component but noticed the FAQ dropdown fairly easily.** 
