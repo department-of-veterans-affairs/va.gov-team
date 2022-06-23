@@ -19,10 +19,10 @@ Thanks for joining us today! My name is Christina, I also have a note taker and 
 
 Before we start, a few things I want to mention:
 
--   ### I also have some colleagues in the waiting room who would like to observer and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
+-   ### I also have some other colleagues in the waiting room who would like to observer and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
 	- ### If participant does not consent, ask the observers to kindly leave the Zoom via Slack.
 	- ### If participant consents, admit observers for brief introduction to wave or say hello, then ask observers to turn off their cameras for remainder of the session. (This is meant to humanize the interaction of observation for the participant)
-		- _Let other observers into room and allow a short pause to say hello._ Ok, so here we have some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
+		- _Let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
 
 -   **This entire session should take about 45 minutes or less**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
