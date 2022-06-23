@@ -16,7 +16,7 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 
 [Household info wire flow]()
 
-## UX Best Practices
+## UX best practices
 
 There are a number of form UX best practices that could benefit the household information section, and possibly the 10-10EZ overall.
 
