@@ -47,7 +47,7 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
-### Finding 2
+### Finding 3
 **Participants had trouble noticing the hint text component but noticed the FAQ dropdown fairly easily.** 
 - 5/7 participants DID NOT notice the Preferred name hint text when first asked to look at the page for more information. 
 	- 3 of these 5 participants later noticed this when looking at individual fields
@@ -59,12 +59,22 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
-### Finding 2
+### Finding 4
 Brief description
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
-### Finding 2
+### Finding 5
+Brief description
+
+**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+
+### Finding 6
+Brief description
+
+**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+
+### Finding 7
 Brief description
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
