@@ -6,6 +6,13 @@ DRAFT
 
 Christina Gednalske, Profile
 
+[Background]
+Findings Details
+Additional Findings
+Next Steps
+Appendix
+
+
 ## Background
 To mitigate issues around Veterans being addressed improperly at health appointments, our team has added two new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA.
 
