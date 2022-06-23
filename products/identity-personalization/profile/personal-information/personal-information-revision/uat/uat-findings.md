@@ -10,7 +10,7 @@ Christina Gednalske, Profile
 
 [Findings Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##findings-details)
 
-Additional Findings
+[Additional Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##additional-findings)
 
 Next Steps
 
@@ -42,7 +42,7 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - **UI:** FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch. (Link to GitHub issue)
 - **Usability:** Participants were able to update their information easily and quickly. 
 
-## Additional Findings:
+## Additional Findings
 
 ### Finding #1
 **Participants had positive responses to the new fields.** 
