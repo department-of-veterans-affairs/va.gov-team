@@ -98,7 +98,7 @@ _**Next step:** Identify if character max or characters allowed can/should be ch
 _**Next step:** None_
 
 ### Finding #10
-**Participants found the information included in the FAQ dropdowns relatively clear. **
+**Participants found the information included in the FAQ dropdowns relatively clear.**
 - 2 participants were concerned with VA visibility and would like more information on who can view this information.
 - 3 participants wondered why the NCM would need to see gender identity, but did not have a negative view on this
 - 1 participant thought more information should be included for how to update their gender identity with their health care team and to define the “healthcare team” 
