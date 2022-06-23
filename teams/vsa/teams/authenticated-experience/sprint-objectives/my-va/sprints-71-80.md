@@ -364,17 +364,9 @@ Design is on hold bc of midpoint review
 
 ### On-site notifications
 
-Our main objective this sprint is to make sure the feature is working. If it is, great! If not, we may need to add/adjust sprint tasks in order to get it working.
-
-**PM**
-
-- Oversee end-to-end testing (if the call happens)
-
-Once we are sure the feature is working...
-
-- QA go/no-go; QA
-- Release plan
-- Call center guide updates (can use My VA guide) 
+- VANotify to fix VA Profile ID bug
+- Get DMC to add debts
+- Taylor to fix bug with removing on-site alert
 
 ### My VA redirect
 
@@ -413,6 +405,20 @@ This is a stretch goal and can be moved to next sprint if needed. PMs should be 
 
 ## Sprint 78 (7/13 - 7/26)
 [Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
+
+### On-site notifications
+
+Our main objective this sprint is to make sure the feature is working. If it is, great! If not, we may need to add/adjust sprint tasks in order to get it working.
+
+**PM**
+
+- Oversee end-to-end testing (if the call happens)
+
+Once we are sure the feature is working...
+
+- QA go/no-go; QA
+- Release plan
+- Call center guide updates (can use My VA guide) 
 
 ### My VA: Cerner updates
 
