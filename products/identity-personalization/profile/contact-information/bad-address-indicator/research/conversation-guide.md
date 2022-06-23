@@ -5,7 +5,7 @@ Conversation Guide for Bad Address Indicator
 -   _Post in #feedback-backchannel_
 -   _Mute Slack notifications_
 
-### Starting the session
+## Starting the session
 - ### Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session.
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
@@ -56,9 +56,8 @@ _Confirm they qualify for the study._
 
 **If using production:**
 
--   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. 
+-   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. _Send link to va.gov via chat if needed_
 -   I will stop recording while you log in.
--   _Send link to va.gov via chat if needed_
 
 _Stop recording._
 
