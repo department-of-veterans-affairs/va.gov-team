@@ -210,7 +210,7 @@ Education:
 Geographic location:
 * Urban: x
 * Rural: x
-* Unknown: 5
+* Unknown: 7
 
 
 Race:
