@@ -28,9 +28,8 @@
 *Summary of validation points across all systems*
 
 - **VODA**
-  - Generate one or multiple JSON examples of FSR requests
-  - Split VBA debt from VHA debt within request
-  - Parse delimiter characters out of JSON
+  - VBA and VHA debt requests are separated between systems
+  - Assure delimiters are parsed out of JSON response
   - send Json file to VBS to confirm file transfer is established
   - send PDF file to SharePoint to ensure file transfer is established correctly
 - **VBS**
