@@ -39,6 +39,7 @@
   - send .csv file to Huron server via SFTP
 -  **Huron**
    - validate .csv file has been received from VBS endpoint 
+   - validate CSV structure matches what's expected
    - validate file has been integrated into workflow and available for VHA Revenue operations to process
 - **Sharepoint**
   - validate PDF has been received from VODA
