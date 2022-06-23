@@ -6,11 +6,11 @@ DRAFT
 
 Christina Gednalske, Profile
 
-[Background]
-Findings Details
-Additional Findings
-Next Steps
-Appendix
+- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##background)
+- Findings Details
+- Additional Findings
+- Next Steps
+- Appendix
 
 
 ## Background
