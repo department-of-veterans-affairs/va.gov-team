@@ -38,12 +38,10 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - 6/7 had very positive responses upon viewing the page. 
 - The remaining participant thought it was fine and understood why these fields were needed. 
 
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
-
 ### Finding 2
 **Participants felt VA asks for this information to make Veterans feel comfortable and to minimize confusion.** 
 - Some initially felt it was for medical rather than social reasons, and one felt it was also to contribute to demographic data. 
-- All participants understood the health care aspect once they read more information about the fields.
+- All participants understood the health care aspect once they read more information about the fields, with a few wording elements that could be clarified.
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
@@ -57,7 +55,7 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - 5/7 participants DID notice the Gender identity dropdown when first looking at the page
 	- Two participants suggested using a similar dropdown in Preferred name as well. 
 
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+**Next step:** Confirm that Preferred name hint text is sufficient and dropdown is not needed. [Link to GH issue]
 
 ### Finding 4
 **6/7 participants understood that the fields were NOT required.** Main reasons:
@@ -66,22 +64,51 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - (2/7) the gender identity dropdown information saying "if you would like to share"
 - (2/7) the fields could be edited
 
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
-
 ### Finding 5
 **All participants updated their information for both Preferred name and Gender identity.** One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer.”
-
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
 
 ### Finding 6
 **All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
 
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+**Next step:** When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding _?)[Link to GH issue]
 
 ### Finding 7
-Brief description
+**Preferred name field: All participants had a positive response to the Preferred name field and found the information to be clear, useful, and the field easy to use.**
+- 2 mentioned that using a preferred name is important for comfort within their interaction with VA 
+- Reasons for use of Preferred name including nicknames or alternative versions of names, name changes, and correcting mistakes
+
+### Finding 8
+**Preferred name field: 2 participants mentioned that restrictions for how to enter Preferred name - such as character maximum and not allowing special characters or capitalization - could cause issues for Veterans.**
+
+**Next step:** Identify if character max or characters allowed can/should be changed. [Link to GH issue]
+
+### Finding 9
+Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information. 
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+
+### Finding 10
+**Participants found the information included in the FAQ dropdowns relatively clear. **
+- 2 participants were concerned with VA visibility and would like more information on who can view this information.
+- 3 participants wondered why the NCM would need to see gender identity, but did not have a negative view on this
+- 1 participant thought more information should be included for how to update their gender identity with their health care team and to define the “healthcare team” 
+
+**Next step:** Determine if any additional information is needed - return to discuss about Resources & Support article. [Link to GH issue]
+
+### Finding 11
+**3 participants expressed a desire for the additional fields:** Pronouns and Sexual orientation. 2 conveyed the need for Pronouns and 1 for Sexual orientation.
+
+**Next step:** Continue work to add these fields once approved - pending PRA approval. [Link to GH issue]
+
+### Finding 11
+Some participants did not notice the FAQs at the top of the page.
+- All found them clear once they went through them
+- One participant in the process of changing their legal name found this FAQ placement and information extremely helpful
+
+### Finding 11
+**All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
+
+**Next step:** [Link to GH issue]
 
 Etc.
 
