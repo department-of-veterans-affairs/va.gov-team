@@ -179,7 +179,7 @@ Task #5: Confirm Mailing address - 5 minutes
 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-### Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
+Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
 
 _wait for observers to leave_
 
