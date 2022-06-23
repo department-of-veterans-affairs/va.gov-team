@@ -14,4 +14,6 @@ For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into th
 TBD
 
 ## How to reproduce
-TBD
+
+- This is not reproducible in staging given that we can't force errors from the backend.
+- To confirm: Can this be reproduced locally?
