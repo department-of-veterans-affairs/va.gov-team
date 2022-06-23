@@ -43,6 +43,35 @@ Purpose: A cohesive logged-in experience will help veterans complete tasks more 
   - [Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md)
   - [Data for search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-iteration-initiative-mar2022/baseline-event-data.md#other-search-tools)
 - Research
-- Nielsen Norman Group - [Site search suggestions](https://www.nngroup.com/articles/site-search-suggestions/) -- e.g., autocomplete or autosuggest 
-- Nielsen Norman Group - [The pinball pattern of scanning the modern search results page](https://www.nngroup.com/articles/pinball-pattern-search-behavior/)
+  - Nielsen Norman Group - [Site search suggestions](https://www.nngroup.com/articles/site-search-suggestions/) -- e.g., autocomplete or autosuggest 
+  - Nielsen Norman Group - [The pinball pattern of scanning the modern search results page](https://www.nngroup.com/articles/pinball-pattern-search-behavior/)
+
+---
+
+## ChooseVA
+- Purpose
+  - To help Veterans learn about VA benefits and services
+-  Content
+   - Home page
+     - Promo video
+     - Subscribe to email
+     - Explore the services and benefits that help Veterans thrive with same blurbs and hubs
+     - Hubs link box
+   - Benefit categories
+     - Each has video overview of benefits
+     - Written overview of benefits
+     - Application process
+     - Personal story with benefit
+     - Link to relevant VA.gov page
+     - Links to applications/claims assistance and relevant form/document
+     - Some sub-pages with eligibility (i.e. Veteran Readiness and Employment, GI Bill, Family Members)
+   - Get assistance page
+      - Links to assistance
+     - “Ready to apply?” with links to forms
+     - Video Gallery
+     - Videos providing an overview of benefits
+     - Personal stories about benefits
+   - Outreach portal
+     - Downloadable benefit related images and newsletter articles
+
 
