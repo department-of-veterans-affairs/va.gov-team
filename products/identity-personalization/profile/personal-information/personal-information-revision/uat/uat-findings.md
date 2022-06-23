@@ -33,21 +33,21 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 
 ## Additional Findings:
 
-### Finding 1
+### Finding #1
 **Participants had positive responses to the new fields.** 
 - 6/7 had very positive responses upon viewing the page. 
 - The remaining participant thought it was fine and understood why these fields were needed. 
 
 _**Next step:** None_
 
-### Finding 2
+### Finding #2
 **Participants felt VA asks for this information to make Veterans feel comfortable and to minimize confusion.** 
 - Some initially felt it was for medical rather than social reasons, and one felt it was also to contribute to demographic data. 
 - All participants understood the health care aspect once they read more information about the fields, with a few wording elements that could be clarified.
 
 _**Next step:** None_
 
-### Finding 3
+### Finding #3
 **Participants had trouble noticing the hint text component but noticed the FAQ dropdown fairly easily.** 
 - 5/7 participants DID NOT notice the Preferred name hint text when first asked to look at the page for more information. 
 	- 3 of these 5 participants later noticed this when looking at individual fields
@@ -59,7 +59,7 @@ _**Next step:** None_
 
 _**Next step:** Confirm that Preferred name hint text is sufficient and dropdown is not needed. [Link to GH issue]_
 
-### Finding 4
+### Finding #4
 **6/7 participants understood that the fields were NOT required.** 
 
 Main reasons:
@@ -70,34 +70,34 @@ Main reasons:
 
 _**Next step:** None_
 
-### Finding 5
+### Finding #5
 **All participants updated their information for both Preferred name and Gender identity.** One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer.”
 
 **Next step:** None
 
-### Finding 6
+### Finding #6
 **All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
 
 _**Next step:** When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding _?)[Link to GH issue]_
 
-### Finding 7
+### Finding #7
 **Preferred name field: All participants had a positive response to the Preferred name field and found the information to be clear, useful, and the field easy to use.**
 - 2 mentioned that using a preferred name is important for comfort within their interaction with VA 
 - Reasons for use of Preferred name including nicknames or alternative versions of names, name changes, and correcting mistakes
 
 _**Next step:** None_
 
-### Finding 8
+### Finding #8
 **Preferred name field: 2 participants mentioned that restrictions for how to enter Preferred name - such as character maximum and not allowing special characters or capitalization - could cause issues for Veterans.**
 
 _**Next step:** Identify if character max or characters allowed can/should be changed. [Link to GH issue]_
 
-### Finding 9
+### Finding #9
 **Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information.** 
 
 _**Next step:** None_
 
-### Finding 10
+### Finding #10
 **Participants found the information included in the FAQ dropdowns relatively clear. **
 - 2 participants were concerned with VA visibility and would like more information on who can view this information.
 - 3 participants wondered why the NCM would need to see gender identity, but did not have a negative view on this
@@ -105,21 +105,21 @@ _**Next step:** None_
 
 _**Next step:** Determine if any additional information is needed - return to discuss about Resources & Support article. [Link to GH issue]_
 
-### Finding 11
+### Finding #11
 **3 participants expressed a desire for the additional fields: Pronouns and Sexual orientation**. 
 - 2 conveyed the need for Pronouns
 - 1 requested Sexual orientation
 
 _**Next step:** Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. [Link to GH issue]_
 
-### Finding 11
+### Finding #12
 **Some participants did not notice the FAQs at the top of the page.**
 - All found them clear once they went through them
 - One participant in the process of changing their legal name found this FAQ placement and information extremely helpful
 
 _**Next step:** None_
 
-### Finding 11
+### Finding 13
 **All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
 
 _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
