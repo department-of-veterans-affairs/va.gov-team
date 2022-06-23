@@ -137,6 +137,10 @@ Given the strong evidence for change and experimental nature of our work, we int
 - Determine expected behavior for logged in users
   - should sign in/sign up CTA still be present? 
   - user flow when My VA becomes the logged in home page (expected Summer 2022)
+
+### Discussions with stakeholders
+- June 22, 2022 Review of redesign and research plan with Dave Conlon, Chris Johnston, and Jeff Barnes
+
 --- 
 
 ## Launch Planning
