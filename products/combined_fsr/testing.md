@@ -34,13 +34,15 @@
   - send PDF file to SharePoint to ensure file transfer is established correctly
 - **VBS**
   - validate file has been received Json file from VODA 
-  - validate circular process to create csv file is working as expected
-  - send .csv file to Huron server 
+  - validate the JSON structure matches what VBS expects
+  - validate circular process to pull last window of requests from DB and build csv file is working as expected
+  - send .csv file to Huron server via SFTP
 -  **Huron**
    - validate .csv file has been received from VBS endpoint 
    - validate file has been integrated into workflow and available for VHA Revenue operations to process
 - **Sharepoint**
   - validate PDF has been received from VODA
+  - validate file name and formatting of PDF
   - validate routing process for PDF to document storage locations identified by VHA
 - **VHA Revenue Operations**
   - validate FSR can be seen in Huron workflow process
