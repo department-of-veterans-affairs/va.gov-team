@@ -1,17 +1,23 @@
 # Personal information UAT Findings
-06/14/2022
+
+DRAFT
+
+06/22/2022
 
 Christina Gednalske, Profile
 
 ## Background
-Brief summary of what this product is for.
-[Link to product outline]
+To mitigate issues around Veterans being addressed improperly at health appointments, our team has added two new fields to the Personal information section of the VA.gov Profile: Preferred name and Gender identity. These changes also allow Veterans to more accurately describe themselves within the VA.
+
+See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) for more details.
 
 ### Goals
-1. UAT goal
-2. UAT goal
-3. UAT goal
-etc.
+The primary goal of our UAT is to confirm that the Personal information section functionality works as expected and Veterans can view and update their preferences for Preferred name and Gender identity.
+
+As secondary goals, we’ll follow up on our last [research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/research-plan.md) and the subsequent changes made to the designs:
+1. We would like to evaluate whether or not Veterans understand what this information is and why we are asking for it.
+2. We would like to validate that Veterans understand it is optional to provide this information. 
+3. We would like to validate that no major usability hurdles have been introduced during our recent iterations.
 
 ### Approach
 Summary of how you conducted UAT (include method, and number of participants)
@@ -19,11 +25,41 @@ Summary of how you conducted UAT (include method, and number of participants)
 - [UAT conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
 ## Findings details
-Findings in UAT are typically bugs that need to be fixed. You can link to relevant GH issues to close the loop and demonstrate the team is addressing the finding, when appropriate.
+UAT went smoothly and no significant findings were uncovered to prevent launch. 
 
-If there were no bugs, you can write a brief summary stating that UAT went smoothly and no changes are needed.
+- **Functionality:** All page elements functioned as expected. 
+- **UI:** FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch.
+- **Usability:** Participants were able to update their information easily and quickly. 
+
+## Additional Findings:
 
 ### Finding 1
+**Participants conveyed positive response to the new fields.** 
+- 6/7 had very positive responses upon viewing the page. 
+- The remaining participant thought it was fine and understood why these fields were needed. 
+
+**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+
+### Finding 2
+**Participants felt VA asks for this information to make Veterans feel comfortable and to minimize confusion.** 
+- Some initially felt it was for medical rather than social reasons, and one felt it was also to contribute to demographic data. 
+- All participants understood the health care aspect once they read more information about the fields.
+
+**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+
+### Finding 2
+**Participants had trouble noticing the hint text component but noticed the FAQ dropdown fairly easily.** 
+- 5/7 participants DID NOT notice the Preferred name hint text when first asked to look at the page for more information. 
+	- 3 of these 5 participants later noticed this when looking at individual fields
+	- 2 participants still didn’t notice it when looking at the individual fields
+	- The remaining 2 participants also didn’t notice the drop down when first looking at the page, or when looking at the individual fields.
+
+- 5/7 participants DID notice the Gender identity dropdown when first looking at the page
+	- Two participants suggested using a similar dropdown in Preferred name as well. 
+
+**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+
+### Finding 2
 Brief description
 
 **Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
