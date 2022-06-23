@@ -34,7 +34,7 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 ## Additional Findings:
 
 ### Finding 1
-**Participants conveyed positive response to the new fields.** 
+**Participants had positive responses to the new fields.** 
 - 6/7 had very positive responses upon viewing the page. 
 - The remaining participant thought it was fine and understood why these fields were needed. 
 
