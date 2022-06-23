@@ -22,18 +22,16 @@ There are a number of form UX best practices that could benefit the household in
 
 ### Nielsen Norman Recommendations
 
-[Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.com/articles/web-form-design/)
+The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.com/articles/web-form-design/) is a list of common form UX principles, some of which can be applied to the household information section of the 10-10EZ.
 
-1) **Keep it short**
-3) **Visually group related fields**
-4) **Use a single column layout**
-5) **Logical question/field sequencing**
-6) **Avoid placeholder text**
-7) **Visually match fields to type and size of input**
-8) **Distinguish optional and required fields**
-9) **Explain input formatting requirements**
-10) **Avoid *reset* or *clear* buttons**
-11) **Highly visible error and specific messages**
+- **Keep it short**
+  - "Remove fields which collect information that can be (a) derived in some other way, (b) collected more conveniently at a later date, or (c) simply omitted."
+- **Visually group related fields**
+  - "Labels should be close to the fields they describe (immediately above the field for mobile and shorter desktop forms, or next to the field for extremely long desktop forms). Avoid ambiguous spacing, where labels are equidistant from multiple fields, and make sure to include the label attribute for screen readers."
+- **Distinguish optional and required fields**
+  - "First, eliminate as many optional fields as possible (see the first recommendation above). If some fields truly are necessary, but only apply to a subset of users, don’t make users find out through trial and error. Limit the form to only 1 or 2 optional fields, and clearly label them as optional."
+- **Avoid *reset* or *clear* buttons**
+  - "Provide a ‘Cancel’ button to support those users who abandon the form and want to delete their information. But make sure that the Cancel button has significantly less visual prominence than the Submit button, to avoid accidental clicks."
 
 ## Existing VA design patterns
 
