@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 06/22/2022
+- Changed the text for the VAOS link from "Go to your appointment details” to "Sign in to manage all appointments" to clarify that the Veteran will need to sign into another application to manage their appointments
+   - [Epic 42105](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42105)
+
 ### 06/13/2022
 - Veterans will now be able to trigger the submission of the authentication form when they press the return/enter key; applies to both the Pre-Check-in and Check-in authentication forms
    - [Ticket 40262](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40262)
