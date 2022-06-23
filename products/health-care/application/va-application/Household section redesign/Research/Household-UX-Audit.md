@@ -28,6 +28,8 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
   - "Remove fields which collect information that can be (a) derived in some other way, (b) collected more conveniently at a later date, or (c) simply omitted."
 - **Visually group related fields**
   - "Labels should be close to the fields they describe. Avoid ambiguous spacing, where labels are equidistant from multiple fields, and make sure to include the label attribute for screen readers. If your form asks about two different topics, section it into two separate groups of fields."
+- **Use logical sequencing**
+  - "Stick to standard sequences both for fields and for value choices. But for field values, also consider usage frequency, and list the most common values first when possible."
 - **Distinguish optional and required fields**
   - "First, eliminate as many optional fields as possible (see the first recommendation above). If some fields truly are necessary, but only apply to a subset of users, don’t make users find out through trial and error. Limit the form to only 1 or 2 optional fields, and clearly label them as optional."
 - **Avoid *reset* or *clear* buttons**
