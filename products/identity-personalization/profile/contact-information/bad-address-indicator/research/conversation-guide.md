@@ -5,14 +5,24 @@ Conversation Guide for Bad Address Indicator
 -   _Post in #feedback-backchannel_
 -   _Mute Slack notifications_
 
+### Starting the session
+- ### Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session.
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your [screensharing setup] and share permissions for participants.
+- When the participant is ready, begin the session with the following intro
+
 Intro - 3 minutes
 -----------------
 
-Thanks for joining us today! My name is Christina, and I also have a note taker with me. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
+Thanks for joining us today! My name is Christina, I also have a note taker and another member of the website team with me. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
 
 Before we start, a few things I want to mention:
 
--   **There are a couple of members from the website team who would like to observe the session and hear your feedback live**. Are you comfortable with them joining the session? No pressure either way.
+-   ### I also have some colleagues in the waiting room who would like to observer and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
+	- ### If participant does not consent, ask the observers to kindly leave the Zoom via Slack.
+	- ### If participant consents, admit observers for brief introduction to wave or say hello, then ask observers to turn off their cameras for remainder of the session. (This is meant to humanize the interaction of observation for the participant)
+		- _Let other observers into room and allow a short pause to say hello._ Ok, so here we have some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
 
 -   **This entire session should take about 45 minutes or less**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
@@ -155,15 +165,25 @@ Task #5: Confirm Mailing address - 5 minutes
 -   Does the participant seem to understand the difference between confirming and updating?
 -   Does the participant note anything confusing about this process?
 
-### Reset Address and Post Task Interview - 2 minutes
+## Reset Address and Post Task Interview - 2 minutes
 -   _If using production:_
 	-   Ok great, that is just about everything I wanted to get your feedback on.
 	-   Lastly, I'd like to make sure that we now have all of your correct information, since we made one small change to your zip code. Could you please take a moment to double check your zip code?
 	-   Does everything seem correct here?
 -   Great! That's everything I wanted to get your feedback on. Do you have any questions or thoughts for me before we end the session?
 
-### Thank-You and Closing - 1 minutes
+## Thank-You and Closing - 1 minutes
 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-I hope you enjoy the rest of your day!
+### Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
+
+_wait for observers to leave_
+
+- ### Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
+- ### Sometimes we have the observers already in the session when you join, instead of how we did it today. When I asked you for consent before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
+- ### Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
+
+Great, thank you for your feedback and thank you so much again for joining us today. We really appreciate it.
+
+Have a great rest of your day!
