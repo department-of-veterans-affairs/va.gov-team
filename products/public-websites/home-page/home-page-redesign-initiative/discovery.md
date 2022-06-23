@@ -73,5 +73,21 @@ Purpose: A cohesive logged-in experience will help veterans complete tasks more 
      - Personal stories about benefits
    - Outreach portal
      - Downloadable benefit related images and newsletter articles
+- Analytics (June 1, 2021 - June 22, 2022)
+  - 1,360,605 users (71.4% new)
+  - 1.18 sessions/user
+  - 1.8 pages/session
+  - Average bounce rate = 61%
+
+Top 5 pages
+
+Page Title | Pageviews | Unique Pageviews | % of total unique pageviews
+| ---| ---| ---| --- | 
+| ChooseVA | 1,496,550 | 1,247,264 | 52.27%
+| Health Care | 391,663| 335,018| 14.04%
+| Family Members | 144,733| 111,858| 4.69%
+| Burials and Memorials | 143,857| 118,612| 4.97%
+| Disability | 139,561 | 108,653| 4.55%
+
 
 
