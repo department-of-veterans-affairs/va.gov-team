@@ -4,7 +4,7 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Angela and I also have some colleagues on the line who will just be observing and taking notes. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans get their most recent details about VA payments and bills.
+Thanks for joining us today! My name is Angela and I also have some colleagues on the line who will just be observing and taking notes. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans get their recent details about VA payments and debts.
 
 Before we start, a few things I want to mention:
 
@@ -48,64 +48,64 @@ Now I'm going to ask you to open a prototype from a link I'll post in the chat a
 
 We will be looking at a prototype as a fictional logged in user, so the content may not apply directly to you, but I'd like to hear your thoughts on a scenario where we'll imagine that they do. We'll be looking at a prototype of My VA and talking about a specific section.
 
-Let's scroll down to the Bills and Payments section. Before we reveal the content in this section, can you tell me what type of things you think you'd see here just based on the title of the section?
+Let's scroll down to the Debts and Payments section. Before we reveal the content in this section, can you tell me what type of things you think you'd see here just based on the title of the section?
 
-What do you think "bills" refers to here? What about "payments"?
+What do you think "debts" refers to here? What about "payments"?
 
 Okay, let's click once and we'll take a look at the content of this section.
 
 - Reveal the content of the section by clicking anywhere on the page
 ### Things to watch for:
 
-- Do users mention debt and/or copays when they're thinking of what bills might be?
+- Do users mention any types of debt and/or copays when they're thinking of what debts might be?
 - Do users understand that payments will be paid to them, or do they think they are paid to the VA?
 - Are there any negative reactions to the title?
 
-## Second Task: Review and get feedback on details for bills - 8 minutes
+## Second Task: Review and get feedback on details for debts - 8 minutes
 
-**Task goal: Validate that the details displayed for debts and copays are the most important pieces of information for bills**.
+**Task goal: Validate that the details displayed are the most important pieces of information for debts**.
 
-- Let's take a look at the outstanding bills section. Can you describe to me what you think this section is for? What's standing out to you?
+- Let's take a look at the recent unpaid debts section. Can you describe to me what you think this section is for? What's standing out to you?
 
-- Based on the titles of the bills, tell me how you think you would have come to have these showing in your account. 
+- Based on the titles of these line items here, tell me how you think you would have come to have these showing in your account. 
 
 *Listen to hear if they are noticing some are debts and some are copays or if they don't make that differentiation.*
 
 - On the 9/11 Post GI Bill debt where it says "We're reviewing your information", why do you think it says that instead of showing a due date?
 
-- What's the most important piece of information you would want to know about a bill that you have?
+- What's the most important piece of information you would want to know about a debt that you have?
 
-- If you had these bills in your account, do you think you'd like to manage them from this website or some other way?
+- If you had these debts in your account, do you think you'd like to manage them from this website or some other way?
 
 - Is there anything you expect to see here that you don't? Is anything about this section confusing to you?
 
 *If user has colorblindness, ask:*
-- Do you see the bill amounts in a different color than the other text? What color does it look like? Does the color differentiate this section from the next one at all? Is anything hard to see?
+- Do you see the debt amounts in a different color than the other text? What color does it look like? Does the color differentiate this section from the next one at all? Is anything hard to see?
 
 ### Things to watch for:
 
 - Do users understand why these amounts are due?
-- What info is most prominent currently? Does that line up with what they say is the most important piece of information about bills?
-- Do users notice that there are both copays and debts in this section?
-- Are veterans confused about why one bill has a status update instead of a due date?
+- What info is most prominent currently? Does that line up with what they say is the most important piece of information about debts?
+- Do users notice that there are both copays and different types of debt in this section?
+- Are veterans confused about why one debt has a status update instead of a due date?
 - Is there any important information missing in this section?
 - Do colorblind users struggle to see or interpret the dark red text?
 
 ## Third Task: Discuss action items in bills section - 5 minutes
 
-**Task goal: Validate that the logical next step for bills is effectively presented to the Veteran and they know how to take action on it.**
+**Task goal: Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
 
 - What do you think you'd want to do with this information?
 
-- What would you do next if you wanted to pay or request help for one of these bills?
+- What would you do next if you wanted to pay or request help for one of these debts?
 
-- What do you expect to see if you click the Manage your VA bills link?
+- What do you expect to see if you click the Manage your VA debt link?
 
 ### Things to watch for:
 
-- Do veterans want to act on individual bills or go to another page to see details about all of them?
-- Do veterans know how to take action on bills that are due?
-- What do veterans expect to happen if they click the Manage your VA bills link?
+- Do veterans want to act on individual items or go to another page to see details about all of them?
+- Do veterans know how to take action on debts that are due?
+- What do veterans expect to happen if they click the Manage your VA debt link?
 - Is the action link standing out enough?
 
 ## Fourth Task: Discuss details in the payments section - 5 minutes
@@ -114,7 +114,7 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 - Let's take a look at the section that says Recent payments deposited. Can you describe to me what you think this section is for? What's standing out to you?
 
-- Based on the titles of the payments, tell me how you think you would have come to have these showing in your account. 
+- Based on the titles of these line items, tell me how you think you would have come to have these showing in your account. 
 
 - Do you know where these payments were deposited to?
 
