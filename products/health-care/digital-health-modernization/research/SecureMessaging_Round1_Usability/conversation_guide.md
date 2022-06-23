@@ -47,6 +47,8 @@ Before we start, a few things I want to mention:
 - What device are you using to talk to us today?
 - Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
 - Do you ever send messages in My HealtheVet? What kind of messages do you send? Do you feel comfortable sending that information? Is there anything that you aren't comfortable sending in messages? What makes you comfortable/uncomfortable?  
+- If you need to call someone at the VA and you don't know what their number is how would you find it? Have you ever called your local VA Call Center?
+- If you ever have a medical emergency what would you do? Who would you contact? How would you contact them?
 
 
 ## View message inbox - 5 minutes
@@ -55,9 +57,9 @@ Before we start, a few things I want to mention:
 - Do you know which messages you have read and which messages you have not read? If so, how?
 - Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
 - What name are you seeing on these messages?
-- Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
 - After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Have you ever gotten rid of a message and then needed it again? Do you see a way to find those messages? ***
 - If you had questions about secure messages what would you do?
+- Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
 
 ### Things to watch for:
 - Do participants notice that the left nav are links and folders?
@@ -73,8 +75,8 @@ Before we start, a few things I want to mention:
 - How would you select one of these messages to read?
 - How many messages would you be comfortable scrolling through?
 
-*If they filter. . .*****
-- Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
+*If they sort. . .*****
+- Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
 
 *If they search. . .*
 - What are you seeing here? 
@@ -99,17 +101,18 @@ Before we start, a few things I want to mention:
 - If you wanted to read the previous messages in this thread how would you do that?
 - Do you ever organize your messages? If so, how do you organize them? Do you see a way to do that here? (If they mention folders) What would you call those folders? Where would you expect to see them?
 - Is there anything else that you would like to do on this page?
-- If you wanted to get back to the first screen that you saw how would you do that?
+- If you wanted to send a message to your provider in response to this message what would you do?
 
 ### Things to watch for:
 
 
 ## Reply to a message - 5 - 10 minutes 
-- If you wanted to respond to this message, what would you do?
 - What are you seeing here?
-- How long would you expect it would take to get a response to your message?
+- Who are you sending this message to?
 - Who do you think would respond to your message?
-- How would you get back to the first screen that we saw?
+- How long would you expect it would take to get a response to your message?
+- How would you send this message? 
+- If you had a new question for your care team how would you send them a message?
 
 ### Things to watch for:
 - What do users mean by “provider”? An individual or a group?
@@ -117,18 +120,18 @@ Before we start, a few things I want to mention:
 
 
 ## Send a new message - 10 minutes
-- If you had a new question for your care team how would you go about reaching out to them?
 - What kind of concerns would you send messages about and are there cases when you should not send a secure message?
 - How do you decide who to send your message to?
-- Would you ever want to edit your list of providers? How would you expect to do that?
+- Would you ever want to change who is in your list of providers? How would you expect to do that?
 - Who would you expect the message to say that it is from?
-- How do you normally end your messages to your care team? Do you include any kind of closing words? (If so) Would you like to be able to do that here? What would you include?
 - Which category would you pick for your message? How do you decide which category to choose?
 - Do you ever send attachements to your provider? How would you do that? What kind of attachments would you send?
 - Which fields so you have to fill out in order to send your message?
+- How do you normally end your messages to your care team? Do you include any kind of closing words? (If so) Would you like to be able to do that here? What would you include?
 - If you started composing a message, but wanted to come back and finish it later, what would you do? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
 - After you finished writing your message what would you do? 
 - What would you expect to happen next?
+- How would you get back to the first screen that we saw?f
 
 ### Things to watch for:
 - Should messages have a signature?
@@ -137,12 +140,6 @@ Before we start, a few things I want to mention:
 - What do users mean by “provider”? An individual or a group?
 - Can you edit the list of names under "To"? If so, where? 
 - Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
-
-
-## Last Questions - 5 minutes
-- What would you do in the case of an emergency?
-
-### Things to watch for:
 
 
 ## Post-Task Interview - 2 minutes
@@ -156,7 +153,6 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day!
 
-Regarding the 911 content: I wonder if we add it during the post-test questions…. “If you had questions about what qualifies as a medical or mental emergency, where would you look?”***
 
