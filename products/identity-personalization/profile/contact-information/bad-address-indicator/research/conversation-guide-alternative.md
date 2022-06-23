@@ -1,5 +1,6 @@
 Alternative Conversation Guide for Bad Address Indicator
 ============================================
+_**Use this guide if starting with Confirm task rather than Edit task**_
 
 -   _Make sure dev team has turned on feature for user_
 -   _Post in #feedback-backchannel_
