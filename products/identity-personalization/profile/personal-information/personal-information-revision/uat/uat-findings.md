@@ -64,8 +64,12 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - (2/7) the gender identity dropdown information saying "if you would like to share"
 - (2/7) the fields could be edited
 
+**Next step:** None
+
 ### Finding 5
 **All participants updated their information for both Preferred name and Gender identity.** One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer.”
+
+**Next step:** None
 
 ### Finding 6
 **All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
@@ -77,15 +81,17 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - 2 mentioned that using a preferred name is important for comfort within their interaction with VA 
 - Reasons for use of Preferred name including nicknames or alternative versions of names, name changes, and correcting mistakes
 
+**Next step:** None
+
 ### Finding 8
 **Preferred name field: 2 participants mentioned that restrictions for how to enter Preferred name - such as character maximum and not allowing special characters or capitalization - could cause issues for Veterans.**
 
 **Next step:** Identify if character max or characters allowed can/should be changed. [Link to GH issue]
 
 ### Finding 9
-Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information. 
+**Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information.** 
 
-**Next step:** [Link to GH issue] that will address the problem or statement of why we won’t fix before launch
+**Next step:** None
 
 ### Finding 10
 **Participants found the information included in the FAQ dropdowns relatively clear. **
@@ -96,23 +102,24 @@ Gender identity: Participants had a positive response to Gender identity and had
 **Next step:** Determine if any additional information is needed - return to discuss about Resources & Support article. [Link to GH issue]
 
 ### Finding 11
-**3 participants expressed a desire for the additional fields:** Pronouns and Sexual orientation. 2 conveyed the need for Pronouns and 1 for Sexual orientation.
+**3 participants expressed a desire for the additional fields: Pronouns and Sexual orientation**. 
+- 2 conveyed the need for Pronouns
+- 1 requested Sexual orientation
 
-**Next step:** Continue work to add these fields once approved - pending PRA approval. [Link to GH issue]
+**Next step:** Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. [Link to GH issue]
 
 ### Finding 11
-Some participants did not notice the FAQs at the top of the page.
+**Some participants did not notice the FAQs at the top of the page.**
 - All found them clear once they went through them
 - One participant in the process of changing their legal name found this FAQ placement and information extremely helpful
+
+**Next step:** None
 
 ### Finding 11
 **All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
 
-**Next step:** [Link to GH issue]
+**Next step:** Resolve latency issue (in progress) [Link to GH issue]
 
-Etc.
-
-## Next steps
  
 ## Appendix
 [Research plan](link here)
