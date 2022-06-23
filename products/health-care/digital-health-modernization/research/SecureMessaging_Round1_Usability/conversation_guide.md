@@ -28,7 +28,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Megan and I also have some colleagues on the line observing and taking notes. Today we're going to show you some ideas related to viewing and sending secure messages.
+Thanks for joining us today! My name is Megan and I also have some colleagues on the line observing and taking notes. Today we're going to show you some ideas related to viewing and sending messages.
 
 Before we start, a few things I want to mention:
 
@@ -46,6 +46,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5-10 minutes
 - What device are you using to talk to us today?
 - Have you used My HealtheVet? If Yes, how often do you use it? What do you use it for? How do you access it (phone, tablet, laptop, etc)?
+- Do you ever send messages in My HealtheVet? What kind of messages do you send? Do you feel comfortable sending that information? Is there anything that you aren't comfortable sending in messages? What makes you comfortable/uncomfortable?  
 
 
 ## View message inbox - 5 minutes
@@ -133,13 +134,9 @@ Before we start, a few things I want to mention:
 - Should messages have a signature?
 - Which “compose” link do they click (top of the page or navigation menu)?
 - Which send action button do they click on?
-- Add text telling user it could take 3 days to get a reply.
-- Form fields: Are there error scenarios we should test?
-- Compose and Reply: Work on attach message UX + design that alert. 
-- Compose: Would changing how the “To” field works confuse Veterans?  
 - What do users mean by “provider”? An individual or a group?
-- Compose and Reply: Can you edit the list of names under "To"? If so, where? 
-- Message detail and Reply: Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
+- Can you edit the list of names under "To"? If so, where? 
+- Switch order of "From" and "To"? (Not sure about this b/c "From" comes first in many UIs.)
 
 
 ## Last Questions - 5 minutes
