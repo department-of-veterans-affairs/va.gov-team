@@ -28,7 +28,7 @@ Summary of how you conducted UAT (include method, and number of participants)
 UAT went smoothly and no significant findings were uncovered to prevent launch. 
 
 - **Functionality:** All page elements functioned as expected. 
-- **UI:** FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch.
+- **UI:** FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch. (Link to GitHub issue)
 - **Usability:** Participants were able to update their information easily and quickly. 
 
 ## Additional Findings:
@@ -78,7 +78,7 @@ _**Next step:** None_
 ### Finding #6
 **All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
 
-_**Next step:** When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding _?)[Link to GH issue]_
+_**Next step:** When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding?)[Link to GH issue]_
 
 ### Finding #7
 **Preferred name field: All participants had a positive response to the Preferred name field and found the information to be clear, useful, and the field easy to use.**
