@@ -34,3 +34,9 @@ There are a number of form UX best practices that could benefit the household in
 8) **Explain input formatting requirements**
 9) **Avoid *reset* or *clear* buttons**
 10) **Highly visible error and specific messages**
+
+## Existing VA design patterns
+
+## Definitions
+
+## Household info wire flow
