@@ -8,7 +8,7 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 
 ## Contents
 
-[UX best practices]()
+[UX best practices](#UX Best Practices)
 
 [Existing VA design patterns]()
 
@@ -17,3 +17,5 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 [Design suggestions]()
 
 [Household info wire flow]()
+
+## UX Best Practices
