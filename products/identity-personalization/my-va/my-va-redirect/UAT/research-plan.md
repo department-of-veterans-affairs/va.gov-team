@@ -81,10 +81,9 @@ Please recruit 14 participants for 7 completed sessions.
 
 #### Secondary criteria (nice-to-haves)
 - 4 people who use zoom magnification software
-	1. **Qualifier:** Do you ever need to zoom in or use magnification to read text on your screen? **If yes, move onto next question.**
-	2. **Qualifier:** Do you use software to zoom in, such as ZoomText? **Answer should be yes to qualify. If not, go to question 4**
+	1. **Qualifier:** Do you ever need to zoom in or use magnification to read text on your screen? **If yes, user qualifies. Please move onto next question.**
+	2. **Qualifier:** Do you use software to zoom in, such as ZoomText or an alternative? **Answer should be yes to qualify.**
 	3. **If yes, use software:** What kind of software do you use? **Record answer in roster.**
-	4. **If no, use software:** Do you zoom in 400% or more? **Answer should be yes to qualify.**
 - At least 6 participants should identify as other than male 
 At least 6 Veterans who identify as Hispanic, Asian, or Native
 - At least 2 Veterans with other than honorable discharge
