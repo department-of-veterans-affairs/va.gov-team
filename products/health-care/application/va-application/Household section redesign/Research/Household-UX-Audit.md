@@ -42,12 +42,6 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
 - **Avoid *reset* or *clear* buttons**: "Provide a ‘Cancel’ button to support those users who abandon the form and want to delete their information. But make sure that the Cancel button has significantly less visual prominence than the Submit button, to avoid accidental clicks."
   - At the point of review, just before submitting the application, there is no option to cancel and reset the process. A cancel button, with some form of confirmation, may be a useful UX addition.
 
-### VA Design System recommendations
-
-Parts of the household information section, and 10-10EZ overall, can still benefit from alignement with the VA Design System.
-
-[neccessary?]
-
 ## Existing VA design patterns
 
 ## Definitions
