@@ -4,6 +4,9 @@
 ## Problem Statement
 
 - How might we improve the experience of Veterans who are applying for VA health care online?
+
+## Goal
+- Enable Veterans to access VA Health care easily with any device, at any time, with or without assistance
  
 ## Desired User Outcomes
 
