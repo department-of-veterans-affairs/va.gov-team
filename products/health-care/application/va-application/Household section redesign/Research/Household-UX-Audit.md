@@ -61,7 +61,9 @@ What are some existing VA design patterns that we can use to improve the househo
 
 ### Dependents design pattern
         
+The dependents section of the household information flow can quickly become a souce of form fatigue, due to the large of numbers of fields and long scroll length. The collabsible input field "accordions" [present in the eBenefits flow](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/screen/f0d37107-9854-4bf8-87ee-d7e6f8c973ce/) is an existing pattern than can be applied to the 10-10EZ.
 
+<img width="1048" alt="image" src="https://user-images.githubusercontent.com/81988788/175615857-1755c3d6-218c-4b8f-9cd8-c47ab812a0e0.png">
         
 ## Definitions
 
