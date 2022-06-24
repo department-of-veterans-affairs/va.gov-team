@@ -2,10 +2,13 @@
 
 ## Points of Contact
 
+[#accountexp-authexp](https://dsva.slack.com/archives/C909ZG2BB)
+
 |Name|Role|Team|
 |----|----|----|
 |Tom Harrison|Engineer|Authenticated Experience|
 |Anastasia Jakabcin|Product Manager|Authenticated Experience|
+|Samara Strauss|VA PO|Authenticated Experience and Profile|
 
 ## Value Statement
 
@@ -34,7 +37,7 @@ We will implement this first version with DMC's existing debt notification.
 - Onsite notifications will be sent regardless of communication preference and message status.
 
 
-![image](https://user-images.githubusercontent.com/99204969/160860415-f312ae1d-a32a-4fce-9944-1f448f2218d7.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/onsite-notification.png)
 
 ### Workflow Overview
 - Business line triggers a new debt notification by calling the VA Notify API
