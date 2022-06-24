@@ -43,6 +43,8 @@ OK, please share your screen, and then we will get started.
 ## 1. Confirm redirect takes user to My VA from home page- 5 minutes
 I'd like you to open a new tab in your browser, and go to https://www.va.gov/ and sign in.
 
+*Pause recording during sign in*
+
 *Participant should be redirected to My VA after signing in.* 
 
 ### UAT tasks
@@ -51,6 +53,9 @@ I'd like you to open a new tab in your browser, and go to https://www.va.gov/ an
 - [ ] Note the device and browser
 
 ## 2. Understand expectation and next steps - 5 minutes
+
+*Make sure you have resumed recording!*
+
 Great! Tell me about where you’ve landed on the website.
 
 **For magnification users, if needed to evaluate two-column layout**:  Take a look around this page and talk to me about what you can do from here.
@@ -76,7 +81,7 @@ Talk to me about the difference between those two pages.
 
 How would you use the homepage, now that you’re familiar with My VA?
 
-## 3. Confirm redirect does not take user to My VA from other pages - 5 minutes
+## 4. Confirm redirect does not take user to My VA from other pages - 5 minutes
 Thanks for sharing all of that. Now I’ll have you sign out.  
 
 Now click on the payment history link under Disability.
