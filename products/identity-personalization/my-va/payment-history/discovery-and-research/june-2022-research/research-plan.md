@@ -20,7 +20,14 @@ Since Veterans can incur debt and receive payments any time after establishing b
 
 ## Research Goals
 
-### **1. Determine if the title of this section accurately conveys the content.**
+### **1. Determine if the redesigned notification style is clear and actionable.**
+
+- Do users notice the notification at the top of the page?
+- Do any users have trouble seeing any aspect of the notification?
+- What would users do next after reading this notification?
+- What would users do if they had settled all debts but this notification was still appearing at the top of My VA?
+
+### **2. Determine if the title of this section accurately conveys the content.**
 
 - Before reviewing the content of the section, what do users expect to see in this section?
 - What do users think that debts are?
@@ -28,7 +35,7 @@ Since Veterans can incur debt and receive payments any time after establishing b
 - After revealing the content of the section, are there any surprises?
 - Is this information that veterans would want to see once they log into VA.gov?
 
-### **2. Validate that the details displayed are the most important pieces of information for debts.**
+### **3. Validate that the details displayed are the most important pieces of information for debts.**
 
 - Do the titles give enough information to determine why the debt or copay is due?
 - Do veterans find it useful to see the status of their debt on My VA, or is this only necessary once diving further into all VA debts?
@@ -38,7 +45,7 @@ Since Veterans can incur debt and receive payments any time after establishing b
 - Is the difference between different types of debts and copays within the section clear?
 - Is there any important information missing in this section?
 
-### **3. Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
+### **4. Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
 
 - How do users think they would go about paying or requesting help for one of these debts?
 - What do users expect to happen when they click the Manage all VA debt link?
@@ -46,7 +53,7 @@ Since Veterans can incur debt and receive payments any time after establishing b
 - What would a user do if they had questions about their debts?
 - Would a user expect to see anything here if they had paid off a debt?
 
-### **4. Validate that the most important pieces of payment information are being presented on My VA.**
+### **5. Validate that the most important pieces of payment information are being presented on My VA.**
 
 - Is the difference between debts and payments clear?
 - How many previous payments would a user like to see on My VA versus on their full payment history?
@@ -55,10 +62,11 @@ Since Veterans can incur debt and receive payments any time after establishing b
 
 ### Outcome
 
-We'll use the findings from this research to update the content and links in this section of My VA.
+We'll use the findings from this research to update the content and links in this section of My VA, and to propose a new notification component for the design system.
 
 ### Hypothesis
 
+- We believe that all users will be able to clearly see and read the notification at the top of the page and will know how to act on it if they wished to see more details or resolve a debt.
 - We believe Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.
 - We believe Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.
 - We believe that surfacing more details about debts and payments is important to Veterans and is something they would want to see upon logging into the site.
