@@ -34,9 +34,14 @@ Summary of how you conducted UAT (include method, and number of participants)
 ## Findings details
 UAT went smoothly and no significant findings were uncovered to prevent launch. 
 
-- **Functionality:** All page elements functioned as expected. 
-- **UI:** FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch. (Link to GitHub issue)
-- **Usability:** Participants were able to update their information easily and quickly. 
+### Functionality:
+All page elements functioned as expected. 
+
+### UI: 
+FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch. (Link to GitHub issue)
+
+### Usability:
+Participants were able to update their information easily and quickly. 
 
 ## Additional Findings
 
