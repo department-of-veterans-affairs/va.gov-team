@@ -1,5 +1,20 @@
 # Discovery
 
+[Homepage research](#homepage-research)
+
+[Authenticated Experience](#authenticated-experience)
+
+[Profile](#profile)
+
+[myVA](#myva)
+
+[Health apartment homepage](#health-apartment-homepage)
+
+[Search](#search)
+
+[ChooseVA](#chooseva)
+
+
 ## Homepage research
 - [**Comprehensive user research conducted for the 2018 VA.gov home page**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx) | October 2018
 - [**Baseline wayfinding research on VA.gov**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) | April 2021
@@ -16,7 +31,7 @@ Purpose: A cohesive logged-in experience will help veterans complete tasks more 
 - Research
   - [Logged-in homepage user research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) | May 2020
 
-### my VA
+### myVA
 - Purpose: When Veterans log into VA.gov, they expect to be met with an experience that reflects their personal circumstances at VA. My VA aims to meet this expectation by providing Veterans with a direct route to their most critical tasks and updates. The My VA dashboard on VA.gov provides Veterans easier access to critical information in one place. My VA allows Veterans to view a summary of important information about themselves, applicable benefits, statuses and additional resources.
 - Resources
   - [My VA folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/Authenticated%20Experience_My%20VA%20-%20Team%20README.md)
