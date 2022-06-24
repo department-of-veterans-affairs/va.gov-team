@@ -21,10 +21,10 @@ As a secondary goal, we will also take special note of any participant feedback 
 
 We conducted 1 pilot + 10 participant remote, task-based usability studies, with Zoom, using the Perigean contract. Each moderated session was approximately 1 hour long for non-screen readers and approximately 1.5 hours for screen reader users, in which we asked participants to talk about their health care application experience and fill out one of our 10-10EZ short form flows. The moderator began with introduction questions and prompted participants with guiding questions (from the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/conversation-guide.md). Participants were shown one of three staging prototyped flows:
 
-THIS
-1. X participants: Short form based on pre-populated disability rating of 50% or higher at application start [V1 Prototype-Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
-2. 6 participants: Short form based on self-reported disability rating of 50% or higher on VA compensation question [V2.1 Prototype Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)
-3. 4 participants: Short form based on self-reported disability rating of 50% or higher on VA compensation question [V2.2 Prototype Self-reported short form](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i)
+
+1. 3 participants: Short form based on pre-populated disability rating of 50% or higher at application start (Signed in to fake staging account and moderator share screen)
+2. 3 participants + 1 as a task: Short form based on self-reported disability rating of 50% or higher on VA compensation question 
+3. 4 participants: Full application, this is our control group, thy had 40% or less disability rating and 
 
 Flows:
 - Variation 1: [Immediate alert short form](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq)
@@ -34,7 +34,8 @@ Flows:
 ### Who we talked to ( not including pilot participant)
 
 - 10 Veterans 
-- 7 participants All have a service-connected disability rating of 50% or higher
+- 7 participants had a service-connected disability rating of 50% or higher
+- 2 participants reported a cognitive disability
 
 - Gender:
   - Female: 6
@@ -73,21 +74,25 @@ Flows:
 This research may not meet the needs of the following marginalized Veteran groups:
 
 - Expat (living abroad)
-- 
+- Mobile user
+- With no degree
+- With a cognitive disability
+- Asian Veterans
+- Black Veterans
 
 
 | Category            | Target | Study Total 
 |---------------------|--------|-------------
-| Age 55-64+        | ?    | 7    
-| Mobile user      | 2   | 2
-| Rural               | 4  | 5   
-| No degree           | 4    | 2 
-| Women               | 2    |  6   
-| Cognitive disability ❗ | -    | 2  
-| Assistive tech user ❗ | -    | 2  
+| Age 55-64+        | 4    | 7    
+| Mobile user      ❗ | 4    | 2
+| Rural               | 3 | 5   
+| No degree           ❗ | 3    | 2 
+| Women               | 1    |  6   
+| Cognitive disability ❗ | 4    | 3  
+| Assistive tech user  | -    | 2  
 | Veterans abroad ❗  | 1    | 0 
 | Asian  ❗          | 1    | 0 
-| Black              | 3    | 2   
+| Black            ❗  | 3    | 2   
 | Hispanic           | 2    | 3
 | Native American     | 1    | 1 
 
