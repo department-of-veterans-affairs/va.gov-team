@@ -55,15 +55,9 @@ I'd like to start by learning more about your experience with VA health care and
 
    - _If no: move on to the Experience with VA Debt questions_
 
-**2. Have you received a letter in the mail from VA containing health care or prescription charges within the last 6 months?**
-
-   - _If yes:_
-
-      - Tell me more about that letter you received
-
 ### Experience with VA Debts
 
-**3. Have you ever had a debt balance with VA, not including health care related debt like co-pays?** (If needed: Debts are usually a result of an overpayment and can include CH33 or Post-911 GI Bill, Compensation and Pension, CH 34, and CH 35 debts.) 
+**2. Have you ever had a debt balance with VA, not including health care related debt like co-pays?** (If needed: Debts are usually a result of an overpayment and can include CH33 or Post-911 GI Bill, Compensation and Pension, CH 34, and CH 35 debts.) 
 
    - _If yes:_ 
 
@@ -71,15 +65,15 @@ I'd like to start by learning more about your experience with VA health care and
 
 ### General questions
 
-**4. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account?** 
+**3. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account?** 
 
-**5. Do you know your username and password?** 
+**4. Do you know your username and password?** 
 
    - _If no:_ Are these readily accessible? Could you get them? 
 
    _If the participant cannot remember or retrieve their login credentials, let them know that this is necessary for the test and proceed to the closing statements._
 
-**6. Today we'll be checking out a new tool on VA.gov. Would you feel comfortable sharing your screen with me so I can follow along while you interact with it?** 
+**5. Today we'll be checking out a new tool on VA.gov. Would you feel comfortable sharing your screen with me so I can follow along while you interact with it?** 
 
    - _If yes: Thank you! Please share your screen, and we can get started._ 
 
