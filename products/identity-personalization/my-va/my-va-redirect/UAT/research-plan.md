@@ -39,9 +39,6 @@ Remote, via Zoom
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/conversation-guide.md)
 
 ## Recruitment	
-Our intended audience for this research is BIPOC Veterans who have payments and debt with VA. We'll use Perigean to recruit them.
-
-We’ll focus our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
 
 ### Recruitment criteria
 
