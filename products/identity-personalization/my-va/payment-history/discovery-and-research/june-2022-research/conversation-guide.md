@@ -26,7 +26,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, I'd like to get a little background information from you:
 
-1. First, tell me a little about yourself.
+1. First, tell me a little about yourself and your relationship to the VA.
 
 2. As part of the scheduling for this session, we asked if you had either received payments from VA or incurred education, compensation, pension, or health care-related debt. Can you tell me how you got info from VA about updates on those payments or debts?
   
@@ -46,9 +46,17 @@ Now I'm going to ask you to open a prototype from a link I'll post in the chat a
 - Send link to prototype in Zoom chat *(Or do we share our screen and give them control?)*
 - Ask participant to share their screen
 
-We will be looking at a prototype as a fictional logged in user, so the content may not apply directly to you, but I'd like to hear your thoughts on a scenario where we'll imagine that they do. We'll be looking at a prototype of My VA and talking about a specific section.
+We will be looking at a prototype as a fictional logged in user, so the content may not apply directly to you, but I'd like to hear your thoughts on a scenario where we'll imagine that they do. We'll be looking at a prototype of My VA and talking about specific sections.
 
-Let's scroll down to the Debts and Payments section. Before we reveal the content in this section, can you tell me what type of things you think you'd see here just based on the title of the section?
+So looking at just what you can see now without scrolling, what's jumping out to you?
+*(If they don't mention notifications)* Did you notice the "notifications" section here?
+Now taking a look at this notifications section, is everything visible to you and easy to read?
+Why do you think you might come to see a notification like this?
+What would you do next after having seen this notification?
+What would you do if you wanted more information about this debt?
+Let's say you clicked on Manage your VA debt, went and paid the debt that you had, and you came back to this page (My VA) and this notification was still here. What would you think about that and what would you do?
+
+Okay, now let's scroll down to the Debts and Payments section. Before we reveal the content in this section, can you tell me what type of things you think you'd see here just based on the title of the section?
 
 What do you think "debts" refers to here? What about "payments"?
 
