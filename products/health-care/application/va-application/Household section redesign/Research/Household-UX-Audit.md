@@ -55,6 +55,12 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
 
 ## Existing VA design patterns
 
+What are some existing VA design patterns that we can use to improve the household section?
+
+### Dependents design pattern
+        
+
+        
 ## Definitions
 
 ## Household info wire flow
