@@ -25,10 +25,21 @@ There are a number of form UX best practices that could benefit the household in
 The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.com/articles/web-form-design/) is a list of common form UX principles, some of which can be applied to the household information section of the 10-10EZ.
 
 - **Keep it short**: "Remove fields which collect information that can be (a) derived in some other way, (b) collected more conveniently at a later date, or (c) simply omitted."
-    - Although the fields themselves are mostly required, we can break up lengthy stretches of fields onto multiple pages to reduce form fatigue, and reduce cognitive load for parts of the form.
+    - Although the fields themselves are mostly required, we can break up lengthy stretches of fields onto multiple pages to reduce form fatigue, and reduce cognitive load for parts of the form. For example, breaking the spousal information section into basic information, and additional conditional information that may require more fields on the page.
+ 
+      <details>
+        <summary>[Screenshot: Conditional spousal information]</summary>
+       <img width="500" alt="image" src="https://user-images.githubusercontent.com/81988788/175577657-ca9514a5-7c0f-49b5-b140-370e3affe485.png">
+    <details> 
+    - Although the fields themselves are mostly required, we can break up lengthy stretches of fields onto multiple pages to reduce form fatigue, and reduce cognitive load for parts of the form. For example, breaking the spousal information section into basic information, and additional conditional information that may require more fields on the page.
 
 - **Visually group related fields**: "If your form asks about two different topics, section it into two separate groups of fields."
   - Similar to the idea of breaking up long stretches of fields across multiple pages, sections of fields with related topics can be broken up across multiple pages as well. For example, the Veteran's annual income fields are on the same page as their spouse's annual income fields, even though this information may require two separate tax forms.
+
+    <details>
+        <summary>[Screenshot: Veteran vs spouse annual income sections]</summary>
+        <img width="912" alt="image" src="https://user-images.githubusercontent.com/81988788/175576805-a65dd9c9-a68f-4b88-944b-2c204c469bbe.png">
+    <details>
 - **Use logical sequencing**: "Stick to standard sequences both for fields and for value choices. But for field values, also consider usage frequency, and list the most common values first when possible."
   - In this case, the current order of onboarding information, and fields requesting information, doesn't neccessarily make sense. The household information sections begins with a lenghty content section about financials, but fincianl information fields don't show up until a few pages later. Financial fields should follow financial onboarding content.
 - **Distinguish optional and required fields**: "First, eliminate as many optional fields as possible (see the first recommendation above). If some fields truly are necessary, but only apply to a subset of users, don’t make users find out through trial and error. Limit the form to only 1 or 2 optional fields, and clearly label them as optional."
