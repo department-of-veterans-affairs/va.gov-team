@@ -40,6 +40,7 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
     </details>
 
 - **Avoid *reset* or *clear* buttons**: "Provide a ‘Cancel’ button to support those users who abandon the form and want to delete their information. But make sure that the Cancel button has significantly less visual prominence than the Submit button, to avoid accidental clicks."
+  - The dependents design pattern should allow Veterans to add and remove dependents as necessary, so it makes sense to give the the option to cancel the process of adding a new dependent.
   - At the point of review, just before submitting the application, there is no option to cancel and reset the process. A cancel button, with some form of confirmation, may be a useful UX addition.
 
 ## Existing VA design patterns
