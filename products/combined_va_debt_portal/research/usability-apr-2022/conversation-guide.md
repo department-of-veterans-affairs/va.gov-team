@@ -181,7 +181,7 @@ https://www.va.gov/manage-debt-and-bills/summary
 
 **2. What can you do from this page?**
 
-### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s)
+### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s) - if they have both, SKIP to Scenario 2
 
 * _If they only have debt(s):_
 
