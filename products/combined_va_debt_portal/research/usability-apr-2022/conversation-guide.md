@@ -139,8 +139,7 @@ _**Things to watch for:**_
 
 ## Task two: The combined debt portal -- 25 minutes 
 Paste the following links in the chat:
-https://www.va.gov/manage-debt-and-bills/summary
-* Backup UXPIn URL: https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/sitemap?mode=i
+https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 
 ### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s) - if they have both, SKIP to Scenario 2
@@ -184,7 +183,7 @@ Let's say you got an email telling you that you need to pay your copay balance w
 Paste the following links in the chat:
 https://va.gov/manage-debt-and-bills/summary/copay-balances NOTE I'm NOT POSITIVE THIS LINK IS RIGHT - would the email link them to a specific copay or to the list of all copays?
 
-* Backup UXPIn URL:https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=i (all copays) or https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148307639/simulate/sitemap?mode=i (specific copay)
+* Backup UXPIn URL:https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=if (all copays) or https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148307639/simulate/sitemap?mode=if (specific copay)
 
 * Let's say you want to download your most recent copay statement. How would you do that?
 
@@ -195,8 +194,7 @@ _Switch to a debt task_
 _**If they didn't make it to the overview page**_
 go ahead and go here
 Paste the following links in the chat:
-https://www.va.gov/manage-debt-and-bills/summary
-* Backup UXPIn URL:
+https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 * What are your thoughts on this page? What is working and not working about it?
 
