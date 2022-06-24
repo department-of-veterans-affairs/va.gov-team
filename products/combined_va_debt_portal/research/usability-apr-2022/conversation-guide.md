@@ -66,6 +66,7 @@ I'd like to start by learning more about your experience with VA health care and
 ### General questions
 
 **3. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account?** 
+- What is the email address you're using to make sure you're on our whitelist?
 
 **4. Do you know your username and password?** 
 
@@ -91,13 +92,9 @@ For the next portion of our session, we're going to chat about VA.gov. Please op
 
       - What are some reasons why you come to this site?
 
-      - How often would you say you visit this site?
-
    - _If unfamiliar, consider asking:_
 
       - What VA sites do you normally visit?
-
-      - What are your impressions of this site? 
 
 ### Navigating to the tool
 
@@ -116,21 +113,6 @@ For the next portion of our session, we're going to chat about VA.gov. Please op
    * What are your thoughts about how you found this page?
 
       * How does this compare to how you'd expect to find this page? 
-
-I'm now going to post a link in the Zoom chat. 
-
-_Paste one of the following links in the chat:_ 
-
-* _If they navigated to **the summary page** (share this screenshot): https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
-* _If they navigated to a **benefit debt resources and support article**: https://va.gov/manage-debt-and-bills/summary/debt-balances_ 
-* _If they navigated to a **copay bill resources and support article**: https://va.gov/manage-debt-and-bills/summary/copay-balances_
-* _If the Veteran doesn't navigate to the tool, direct them to the content page by posting the link in the Zoom chat_ 
-
-
-* What are your thoughts about this page? 
-   
-* _If on the content page:_ 
-   * What would you do next to access information about your \[copay bills and/or debts previously mentioned]\?
 
 
 _**Things to watch for:**_
@@ -158,19 +140,21 @@ _**Things to watch for:**_
 ## Task two: The combined debt portal -- 25 minutes 
 Paste the following links in the chat:
 https://www.va.gov/manage-debt-and-bills/summary
+* Backup UXPIn URL: https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/sitemap?mode=i
 
-**1. How would you describe this page?**
-
-**2. What can you do from this page?**
 
 ### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s) - if they have both, SKIP to Scenario 2
 
+I'm now going to post a link in the Zoom chat. 
+
 * _If they only have debt(s):_
 
+   * What are your thoughts about this page? What is working and not working about it?
    * Let's say you wanted to request financial help for your \[debt type\] debt. What would you do?
 
 * _If they only have copay(s):_
-
+*
+   * What are your thoughts about this page? What is working and not working about it?
    * What do you expect to be able to do in this tool?
 
    * Let's say you want to pay your copay balance at \[facility name\]. What would you do next?
@@ -195,12 +179,26 @@ _**Things to watch for:**_
 ---
 
 ### Scenario 2: The Veteran has both copay(s) and debt(s)
+Let's say you got an email telling you that you need to pay your copay balance with the following link. Follow the link and tell me what you would do next.
 
-* Let's say you wanted to request financial help for your \[debt type\] debt. What would you do?
+Paste the following links in the chat:
+https://va.gov/manage-debt-and-bills/summary/copay-balances NOTE I'm NOT POSITIVE THIS LINK IS RIGHT - would the email link them to a specific copay or to the list of all copays?
 
-* I'm going to give you a new scenario: let's say you want to pay your copay balance at \[facility name\]. What would you do next?
+* Backup UXPIn URL:https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=i (all copays) or https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148307639/simulate/sitemap?mode=i (specific copay)
 
 * Let's say you want to download your most recent copay statement. How would you do that?
+
+_Switch to a debt task_
+
+* Now Let's say you wanted to request financial help for your \[debt type\] **debt** that you mentioned earlier? What would you do next?
+
+_**If they didn't make it to the overview page**_
+go ahead and go here
+Paste the following links in the chat:
+https://www.va.gov/manage-debt-and-bills/summary
+* Backup UXPIn URL:
+
+* What are your thoughts on this page? What is working and not working about it?
 
 
 _**Things to watch for:**_
