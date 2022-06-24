@@ -1,7 +1,6 @@
-VSP Identity Sign in Service - DRAFT
+VSP Identity Sign in Service
 
-NOTE: This document must be updated to reflect new URLs for web, this is a copypasta of the PKCE version other than the diagram and version history
-# VA.gov OAuth Integration
+# [VA.gov](http://VA.gov) OAuth Integration
 
 ### Version History
 
@@ -14,99 +13,68 @@ NOTE: This document must be updated to reflect new URLs for web, this is a copyp
 This document describes how our Web Based OAuth partners can integrate with the Sign in Service.
 
 ### Sequence Diagram
-![Vagovweboauth](https://user-images.githubusercontent.com/71290526/175567747-37530d92-76c1-4612-b274-8b7e9503b738.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams)
+![vagovweboauth (1)](https://user-images.githubusercontent.com/71290526/175662350-1ecccfcf-4da3-4370-9483-5b15c263d428.png)
+[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/Web_OAuth.md)
 
 ### Technical Diagram
-![Sign in Service - Web (1)](https://user-images.githubusercontent.com/71290526/175569756-d2f8c3af-2f7f-4454-a5b0-c0b8e5e0b8b4.png)
+![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
 ## Sign in service will provide:
 
-- Unified Sign in Page: `staging.va.gov/sign-in?application=vamobile`
-- Authorization URL: `staging-api.va.gov/v0/sign_in/CSP/authorize`
+- Sign in Page: `staging.va.gov/sign-in/?oauth=true`
+- Authorization URL: `staging-api.va.gov/v0/sign_in/authorize`
 - Token URL: `staging-api.va.gov/v0/sign_in/token`
 - User info/introspect URL: `staging-api.va.gov/v0/sign_in/introspect`
 - Refresh URL: `staging-api.va.gov/v0/sign_in/refresh`
 - Revocation URL: `staging-api.va.gov/v0/sign_in/revoke`
-- Revoke_all URL: `staging-api.va.gov/v0/sign_in/revoke_all`
-
-## Sign in Service Well-Known Configurations
-
-- Dev: TBD
-- Staging: TBD
-- Production: TBD
+- Revoke_all_sessions URL: `staging-api.va.gov/v0/sign_in/revoke_all_sessions`
+- Logout URL: `staging-api.va.gov/v0/sign_in/logout`
 
 ## Oauth Workflow
 
-1. VA.gov redirects user to: staging.va.gov/sign-in?application=web&oauth=true&code_challenge=xyz&code_challenge_method=xyz
-    - code_challenge is a value created from a code_verifier hex that is hashed and encoded:
-        - code_verifier = '5787d673fb784c90f0e309883241803d'
-        - url_unsafe_code_challenge = Digest::SHA256.digest(code_verifier)
-        - code_challenge = Base64.urlsafe_encode64(url_unsafe_code_challenge)
-        - => "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="
-    - code_verifier is stored on client for future /token call
-    - code_challenge_method MUST equal ‘S256’
-2. [VA.gov](http://va.gov/) calls vets-api authorization endpoint: staging-api.va.gov/v0/sign_in/CSP/authorize?code_challenge=VALUE=&code_challenge_method=S256
-3. User will authenticate with CSP
-4. CSP calls [staging-api.va.gov/v0/sign_in/CSP/callback](http://staging-api.va.gov/v0/sign_in/CSP/callback) endpoint, vets-api creates auth code
-5. User redirected to vamobile://login-success with auth code in the query param
-    - `vamobile://login-success?code=9406c906-1923-4525-adf0-ba63e98ef3f6`
-6. Copy the auth code and call /token:
+1. User lands on [VA.gov](http://va.gov/) wanting to sign in via OAuth
+2. User clicks on the button to sign in with their service provider **<CSP>**
+3. Vets-website calls the vets-api OAuth `/authorize` endpoint with specific query parameters outlined in the Parameters Table below
+4. Vets-api redirects to **<CSP>** website for user to enter credentials
+5. **<CSP>** calls Sign-in-Service (SiS) API endpoint `/callback` to create an auth code
+6. SiS API redirects user to `[environment]/auth/login/callback` with a `code` query parameter and `state` that is verified client side
+7. Vets-website makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token Cookies
 
-```
-curl -X POST <https://staging-api.va.gov/v0/sign_in/token> -H 'Content-Type: application/json'
--d '{"grant_type": "authorization_code", "code_verifier": "5787d673fb784c90f0e309883241803d",
-"code": "9406c906-1923-4525-adf0-ba63e98ef3f6"}'
-
-```
-
-1. The /token endpoint will return access tokens and refresh tokens:
-
-```
-{"data":{"access_token":"eyJhbGciOi…","refresh_token":"v1:insecure+data+A6ZX…","anti_csrf_token":"be5a…"}}
-
-```
-
-1. Use access token in header to get user data from the /introspect endpoint:
-
-```
-curl -X GET  <https://staging-api.va.gov/v0/sign_in/introspect> -H 'Authorization: Bearer eyJhbGciOi…’
-
-```
-
-1. The /introspect endpoint will return user info:
-    - Note: only logingov and idme csp is returning data at this time
-
-```
-{
-    "data":{
-       "id":"",
-       "type":"users",
-       "attributes":{
-          "uuid":"876f0f36-6b12-4273-babe-12144eaa2d57",
-          "first_name":"FAKEY",
-          "middle_name":null,
-          "last_name":"MCFAKERSON",
-          "birth_date":"1938-10-06",
-          "email":"faker.fake@fake.com",
-          "gender":"M",
-          "ssn":"123456789",
-          "birls_id":null,
-          "authn_context":"logingov",
-          "icn":"1012852978V019884",
-          "edipi":"1320002080",
-          "active_mhv_ids":[
-             "12210827",
-             "123456"
-          ],
-          "sec_id":null,
-          "vet360_id":null,
-          "participant_id":"600152407",
-          "cerner_id":null,
-          "cerner_facility_ids":[
-
-          ],
+| Cookie Name | Description |
+| --- | --- |
+| vagov_access_token | Access token used to access authenticated pages on va.gov, contains no user information |
+| vagov_refresh_token | May contain user information, used to obtain new tokens |
+| vagov_anti_csrf_token | Anti CSRF to prevent CSRF |
+| vagov_info_token | Token used by the frontend to determine timeout counters |
+    
+8. Vets-api stores Access Token + Refresh Token + Anti-CSRF Token in cookies
+9. Vets-website uses Access Token in Authorization header to hit the `/introspect` endpoint
+    1. `Authorization: Bearer <accessTokenHash>`
+    
+    ```
+    "data": {
+       "id": "",
+       "type": "users",
+       "attributes": {
+          "uuid": "876f0f36-6b12-4273-babe-12144eaa2d57",
+          "first_name": "FAKEY",
+          "middle_name": null,
+          "last_name": "MCFAKERSON",
+          "birth_date": "1938-10-06",
+          "email": "faker.fake@fake.com",
+          "gender": "M",
+          "ssn": "123456789",
+          "birls_id": null,
+          "authn_context": "logingov",
+          "icn": "1012852978V019884",
+          "edipi": "1320002080",
+          "active_mhv_ids": ["12210827", "123456"],
+          "sec_id": null,
+          "vet360_id": null,
+          "participant_id": "600152407",
+          "cerner_id": null,
+          "cerner_facility_ids": [],
           "vha_facility_ids":[
              "200MH",
              "989",
@@ -114,38 +82,39 @@ curl -X GET  <https://staging-api.va.gov/v0/sign_in/introspect> -H 'Authorizatio
              "200MHS",
              "648"
           ],
-          "id_theft_flag":false,
-          "verified":true,
-          "access_token_ttl":300
-       }
+          "id_theft_flag": false,
+          "verified": true,
+          "access_token_ttl": 300
+         }
+      }
     }
- }
-
-```
-
-1. Use refresh token to get new access token and refresh tokens (when access token expires) from the /refresh endpoint:
-
-```
-curl -X POST <https://staging-api.va.gov/v0/sign_in/refresh> -H 'Content-Type: application/json' -d '{"refresh_token": "v1:insecure+data+A6ZX…"}'
-
-```
-
-1. The /refresh endpoint will return a new access token and refresh token:
-
-```
-{"data":{"access_token":"eyJabCciOi…","refresh_token":"v1:insecure+data+A7XZ…","anti_csrf_token":"be5a…"}}
-
-```
+    
+    ```
+    
+10. Uses the Refresh token to get an new Access Token + Refresh Token (when Access token reaches expiry) by hitting the `/refresh` endpoint
+    
+    ```
+    {
+      "data": {
+    		"access_token": "<accessTokenHash>",
+    		"refresh_token": "<refreshTokenHash>",
+        "anti_csrf_token": "<antiCsrfTokenHash>"
+      }
+    }
+    
+    ```
+    
 
 ## Parameters
 
 | Name | Description | Value Type |
 | --- | --- | --- |
-| application | vamobile, partner identifier, must be vamobile no other values work at this time | String |
+| acr | Values can be ial1, ial2, loa1, loa3,min | String |
+| client_id | Must be included, value expected for web version is web | String |
 | code_challenge_method | Client specified, most common value is S256 | String |
 | oauth | MUST be true, used in backend | Boolean |
-| CSP | Values can be: logingov, dslogon, mhv, idme. All of which will be IAL2 or LOA3 calls, no LOA1 or IAL1 users will be returned to vamobile | String |
-| code_challenge | Value created by vamobile client and passed in param to unified sign in page | Base64url |
+| type | Values can be: logingov, dslogon, mhv, idme. All of which will be IAL2 or LOA3 calls, no LOA1 or IAL1 users will be returned to web | String |
+| code_challenge | Value created by vets-api and passed in param to login modal | Base64url |
 | grant_type | authorization_code , only value allowed at this time | String |
 | authorization | Bearer token also known as access_token | String |
 | code_verifier | Value created and stored by client | String |
@@ -237,13 +206,14 @@ curl -X POST <https://staging-api.va.gov/v0/sign_in/refresh> -H 'Content-Type: a
 
 ```
 
-## Revoke All Endpoint
+## Revoke All Sessions Endpoint
 
-- This endpoint expects a valid access token from the user to be present when calling the `revoke_all` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
+- This endpoint expects a valid access token from the user to be present when calling the `revoke_all_sessions` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
+- This endpoint currently is not callable by vets-website but will be released in a future version.
 
-## Revocation Endpoint
+## Logout Endpoint
 
-- This endpoint will allow a user to logout of the current session, not impacting other sessions for the same user on another device. The function should remove the access and refresh tokens from the endpoint and invalidate the refresh token on the backend. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revocation.md).
+- This endpoint expects a valid access token from the user to be present when calling the `logout` endpoint. This function will allow a user to logout of the session associated with the access token. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
 
 ## Logging and Monitoring
 
