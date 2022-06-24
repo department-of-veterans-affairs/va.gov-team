@@ -33,6 +33,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
 - [Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative/analytics)
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/discovery.md)
+- [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/decision-log.md)
 
 ## Baseline analytics
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
