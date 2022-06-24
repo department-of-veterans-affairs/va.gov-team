@@ -139,7 +139,8 @@ I'm now going to post a link in the Zoom chat.
 
 _Paste one of the following links in the chat:_ 
 
-* _If they navigated to **the content page**: https://va.gov/manage-debt-and-bills/_ 
+* _If they navigated to **the content page**: https://staging.va.gov/manage-debt-and-bills/_ 
+* Alternative to conent page in the event is isn't working https://staging.va.gov/manage-debt-and-bills/summary
 * _If they navigated to a **benefit debt resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/debt-balances_ 
 * _If they navigated to a **copay bill resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/copay-balances_
 * _If the Veteran doesn't navigate to the tool, direct them to the content page by posting the link in the Zoom chat_ 
