@@ -99,7 +99,7 @@ I'd like to start by learning more about your experience with VA health care and
 
 ## Task one: Navigating to the tool -- 10 minutes 
 
-For the next portion of our session, we're going to chat about VA.gov. Please open a web browser of your choice and navigate to VA.gov. 
+For the next portion of our session, we're going to chat about VA.gov. Please open a web browser of your choice and navigate to **staging.VA.gov**. 
 
 ### Experience with VA.gov
 
