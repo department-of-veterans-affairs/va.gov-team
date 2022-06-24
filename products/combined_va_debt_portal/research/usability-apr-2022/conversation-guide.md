@@ -138,7 +138,7 @@ _**Things to watch for:**_
 ---
 
 ## Task two: The combined debt portal -- 25 minutes 
-Paste the following links in the chat:
+Paste the following links in the chat (this is the content page, the green button links to the [summary page](https://va.gov/manage-debt-and-bills/summary)):
 https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 
@@ -193,7 +193,7 @@ _Switch to a debt task_
 
 _**If they didn't make it to the overview page**_
 go ahead and go here
-Paste the following links in the chat:
+Paste the following links in the chat (this is the content page, the green button links to the [summary page](https://va.gov/manage-debt-and-bills/summary)):
 https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 * What are your thoughts on this page? What is working and not working about it?
