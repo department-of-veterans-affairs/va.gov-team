@@ -174,7 +174,7 @@ _**Things to watch for:**_
 ---
 
 ## Task two: The combined debt portal -- 25 minutes 
-
+Paste the following links in the chat:
 https://www.va.gov/manage-debt-and-bills/summary
 
 **1. How would you describe this page?**
