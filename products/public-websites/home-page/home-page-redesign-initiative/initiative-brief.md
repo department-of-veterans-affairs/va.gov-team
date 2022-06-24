@@ -146,14 +146,16 @@ Given the strong evidence for change and experimental nature of our work, we int
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
-- Epic: [VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845)
-- Kickoff ticket
-- Design intent [CMS-Offices team - VA.gov Home Page #39038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
-- Research [Epic: Veteran Top Task Research (moderated and unmoderated) #40857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
-- Research [Epic: Usability of redesigned home page #41578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)
-- Analytics requests
-  - [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512)
-  - [Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503)
+
+
+| Collab cycle milestone |	Date	|	Issue	|	Notes |
+---	|	---	|	---	|	---
+| | | Epic: [VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845)| |
+| Design intent | 03/29/2022 | [CMS-Offices team - VA.gov Home Page #39038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) | |
+| Research | 5/2022 - 6/2022| [Epic: Veteran Top Task Research (moderated and unmoderated) #40857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) | |
+| Research | _planned 7/2022_ | [Epic: Usability of redesigned home page #41578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038) | |
+| Analytics | _requested 5/2022_ | [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512) / [Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503) | |
+| Accessibility | _requested 6/2022_| [Accessibility spot check review for redesigned VA.gov home page #42860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42860)| |
 
 ### Go-to-market strategy
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
