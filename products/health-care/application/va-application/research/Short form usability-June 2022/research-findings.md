@@ -78,17 +78,18 @@ This research may not meet the needs of the following marginalized Veteran group
 
 | Category            | Target | Study Total 
 |---------------------|--------|-------------
-| Age 55-64+ ❗       | ?    | 7    
-| Mobile user ❗      | 2   | 2
+| Age 55-64+        | ?    | 7    
+| Mobile user      | 2   | 2
 | Rural               | 4  | 5   
 | No degree           | 4    | 2 
 | Women               | 2    |  6   
-| Assistive tech user ❗ | -    | 0  
+| Cognitive disability ❗ | -    | 2  
+| Assistive tech user ❗ | -    | 2  
 | Veterans abroad ❗  | 1    | 0 
 | Asian  ❗          | 1    | 0 
 | Black              | 3    | 2   
-| Hispanic ❗   | 2    | 0 
-| Native American  ❗   | 1    | 0 
+| Hispanic           | 2    | 3
+| Native American     | 1    | 1 
 
 
 
@@ -99,6 +100,7 @@ This research may not meet the needs of the following marginalized Veteran group
 The research questions we sought to address: 
 - Are users able to navigate through the pre-populated short form easily and without confusion?
 - Are users able to navigate through the short form based on self-reported information easily and without confusion?
+- Does the green expandable alert cause annoyance or feel repetitive?
 - Do users understand what the short form is?
 - Do users understand why they can fill out a short form?
 - What is the overall sentiment about this short form experience?
@@ -107,12 +109,7 @@ The research questions we sought to address:
 ## Key Findings
 
 **General**
-Are users able to navigate through the pre-populated short form easily and without confusion?
-Are users able to navigate through the short form based on self-reported information easily and without confusion?
-Does the green expandable alert cause annoyance or feel repetitive?
-Do users understand what the short form is?
-Do users understand why they can fill out a short form?
-What is the overall sentiment about this short form experience?
+Are users 
 
 **Specific to Version 2.1**
 1. Some participants were confused about the step numbers and why the number changed upon entering into the short form
