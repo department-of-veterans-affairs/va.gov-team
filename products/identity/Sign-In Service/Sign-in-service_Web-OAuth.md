@@ -1,6 +1,4 @@
-VSP Identity Sign in Service
-
-# [VA.gov](http://VA.gov) OAuth Integration
+# VA.gov Web OAuth Integration
 
 ### Version History
 
