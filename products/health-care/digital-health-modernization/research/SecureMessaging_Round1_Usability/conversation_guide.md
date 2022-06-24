@@ -59,7 +59,7 @@ Before we start, a few things I want to mention:
 - What name are you seeing on these messages?
 - After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Would you expect to be able to see or access those messages again?
 - (If they don't go to deleted folder, prompt them to go there) What would you call these messages? Do you want to be able to access them again?
-- If you had questions about secure messages what would you do?
+- If you had questions about messages what would you do?
 - Do you ever look at messages after you have written them to your provider? If so, where would you go to find them?
 
 ### Things to watch for:
