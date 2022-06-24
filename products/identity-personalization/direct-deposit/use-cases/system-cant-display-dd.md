@@ -17,4 +17,4 @@ TBD
 ## How to reproduce
 
 - This is not reproducible in staging given that we can't force errors from the backend.
-- To confirm: Can this be reproduced locally?
+- This can be reproduced locally.
