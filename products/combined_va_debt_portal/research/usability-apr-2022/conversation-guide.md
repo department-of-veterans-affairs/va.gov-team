@@ -181,9 +181,9 @@ _**Things to watch for:**_
 Let's say you got an email telling you that you need to pay your copay balance with the following link. Follow the link and tell me what you would do next.
 
 Paste the following links in the chat:
-https://va.gov/manage-debt-and-bills/summary/copay-balances NOTE I'm NOT POSITIVE THIS LINK IS RIGHT - would the email link them to a specific copay or to the list of all copays?
+https://va.gov/manage-debt-and-bills/summary/copay-balances 
 
-* Backup UXPIn URL:https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=if (all copays) or https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148307639/simulate/sitemap?mode=if (specific copay)
+* Backup UXPIn URL:https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=if 
 
 * Let's say you want to download your most recent copay statement. How would you do that?
 
