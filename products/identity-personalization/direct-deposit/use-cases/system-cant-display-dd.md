@@ -7,7 +7,8 @@ For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into th
 ## UX
 - An LOA3 ID.me or Login.gov user goes to the direct deposit section of the profile. If we are having issues connecting to the backend (eg. backend is down), we will show an error that explains we can't access direct deposit information at the moment, and to check back later.
 - Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
-- Review the [mock-up available in Sketch](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/rbaOjaq) for a visual.
+- [Desktop mockup](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/m19eRvV)
+- [Mobile mockup](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/09y85M0)
 
 ## Codes
 
