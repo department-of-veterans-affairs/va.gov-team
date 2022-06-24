@@ -21,6 +21,7 @@ Before we start, a few things I want to mention:
 * **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Warm-up Questions (Optional) - 2 minutes
+**Task goal: Confirm they qualify for the study
 
 1. As part of the scheduling for this session, we asked if you have an account on VA.gov. Can you confirm for me that you have a DS Logon, MyHealtheVet, Login.gov or ID.me account?
 	* If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?)
@@ -54,9 +55,9 @@ Great! Tell me about where you’ve landed on the website.
 
 **For magnification users, if needed to evaluate two-column layout**:  Take a look around this page and talk to me about what you can do from here.
 
-How does that line up with your expectations?
+You logged in from the homepage, and now you are seeing a page called My VA. How does that line up with your expectations?
 
-Is there anything confusing about this?
+Is there anything confusing about having logged in from the homepage and now seeing a page called My VA?
 
 You mentioned you had recently logged into VA.gov to [what they shared during the warm up]. Show me what you would do from here if you had come here today to do that same thing.
 
@@ -66,10 +67,17 @@ You mentioned you had recently logged into VA.gov to [what they shared during th
 - [ ] Anything confusing here?
 - [ ] What would they do next?
 
+## 3. Understand the homepage and My VA relationship - 3 minutes
+Now I’ll have you go back to My VA.
+
+From here, show me how you would get back to the homepage.
+
+Talk to me about the difference between those two pages.
+
+How would you use the homepage, now that you’re familiar with My VA?
 
 ## 3. Confirm redirect does not take user to My VA from other pages - 5 minutes
-Now I’ll have you sign out.  
-*User will be redirected to the homepage upon signing out* 
+Thanks for sharing all of that. Now I’ll have you sign out.  
 
 Now click on the payment history link under Disability.
 
@@ -89,6 +97,12 @@ Is there anything confusing about this?
 ## Post-Task Interview - X minutes
 Thank you so much! That was everything I wanted you to review today. This has been really helpful for our team. Do you have any feedback on what we looked at today?
 * Do you have any questions for me?
+
+### Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
+[wait for observers to leave]
+1. Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
+2. Sometimes we have the observers already in the session when you join, instead of how we did it today. When I asked you for consent  before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
+3. Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
 
 
 ## Thank-You and Closing - 1 minute
