@@ -25,7 +25,8 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Edge cases
 ### Validation
-- [Does not have valid home phone, work phone, and/or mailing address in profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md)
+- [LOA3 ID.me or Login.gov user tries to update their bank information, but they don't have
+ have valid home phone, work phone, and/or mailing address in profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md)
 - [LOA3 user logs in and has a fiduciary/incompetent/deceased flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fiduciary.md) 
 - LOA3 ID.me or Login.gov user tries to update their bank information, but they have a fraud or identity theft flag on their account
 
