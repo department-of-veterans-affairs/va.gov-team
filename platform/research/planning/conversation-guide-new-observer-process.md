@@ -31,7 +31,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-### Thanks for joining us today! My name is [NAME] and I also have some colleagues in the waiting room who would like to observer and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
+### Thanks for joining us today! My name is [NAME] and I also have some colleagues in the waiting room who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
 
 - ### **If participant does not consent, ask the observers to kindly leave the Zoom via Slack.**
 - ### **If participant consents, admit observers for brief introduction to wave or say hello, then ask observers to turn off their cameras for remainder of the session. (This is meant to humanize the interaction of observation for the participant)**
