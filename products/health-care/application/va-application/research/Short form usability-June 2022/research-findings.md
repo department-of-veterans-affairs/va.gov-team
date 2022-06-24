@@ -2,7 +2,7 @@
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 06/23/2022
 
-View the [Research Plan(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-plan.md)
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-plan.md)
 
 
 ## Research Goals 
@@ -117,8 +117,10 @@ The research questions we sought to address:
 **General**
 1. 100% of participants who received the short form (6) were able to move through the application without indication of a block
 2. All paeticipants who recieved the short form expressed that it exceeded their expectations of time (shorter than they expected)
-3. A couple of participants worried that if they filled out a shortened application that they would later be asked to provide that information. This sentiment was also shared by some participants who recieved the full application had wondered the dame thing if they were not to provide their DD214 and financial information, but short form participants didn't indicate that this would block them from completion. 
-4. Some participants think that there's no reason to tell the user that they are getting a shorter application
+3. Most participants who recieved the short form expressed that is was simple and easy. 
+4. A couple of participants worried that if they filled out a shortened application that they would later be asked to provide that information. This sentiment was also shared by some participants who recieved the full application had wondered the dame thing if they were not to provide their DD214 and financial information, but short form participants didn't indicate that this would block them from completion. 
+5. Some participants think that there's no reason to tell the user that they are getting a shorter application.
+
 
 **Specific to short form**
 1. Wrapping on green alert on mobile looks a little weird
@@ -196,11 +198,24 @@ The research questions we sought to address:
 
 ## Next Steps
 
-1. (to be updated)
+1. Update short form-specific content
+2. Publish short form
+3. Monitor comparative completion and drop-off rates
 
 
 ###  In the future
-* (to be updated)
+* Redesign the beginning "screener" flow
+* Update Medicaid page- consider adding who is eligible
+* Update VA facility page
+  - Remove minimum essential coverage from VA facility header
+  - Provide a way to search by distance/radius
+  - Make list consistent with name of clinic and location
+  - Alphabatize the list
+* Consider adding more context to the other information page
+* Update household information section, integrating above findings as much as possible
+* Check all fields with screen reader to ensure that the question is read properly
+* Check each page with screen reader to ensure that it moves people to expected region on every page
+* Conduct more mobile testing (noticed screen moves from right to left, and some alerts/content wrap visually strangely) 
 
 
 ## Appendix
