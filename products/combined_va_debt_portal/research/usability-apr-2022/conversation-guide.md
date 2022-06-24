@@ -69,12 +69,6 @@ I'd like to start by learning more about your experience with VA health care and
 
       - Tell me more about this debt
 
-         - What type of debt was it?
-
-         - When did you receive this debt?
-
-         - How did you resolve it?
-
 ### General questions
 
 **4. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account?** 
@@ -85,13 +79,7 @@ I'd like to start by learning more about your experience with VA health care and
 
    _If the participant cannot remember or retrieve their login credentials, let them know that this is necessary for the test and proceed to the closing statements._
 
-**6. Can you tell me what type of computer you are using today?** 
-
-   - _If needed:_ I'm asking this question because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed. 
-
-**7. Can you tell me which web browser you use?** 
-
-**8. Today we'll be checking out a new tool on VA.gov. Would you feel comfortable sharing your screen with me so I can follow along while you interact with it?** 
+**6. Today we'll be checking out a new tool on VA.gov. Would you feel comfortable sharing your screen with me so I can follow along while you interact with it?** 
 
    - _If yes: Thank you! Please share your screen, and we can get started._ 
 
