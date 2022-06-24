@@ -11,7 +11,7 @@ See [Github issue #28794](https://github.com/department-of-veterans-affairs/va.g
 - If someone who is LOA3 and logs in with a DS Logon or MHV account goes to the direct deposit section of the profile, we will show them an alert that tells them to log in with ID.me or DS Logon to access their direct deposit information.
 - Uses the [sign in or tool prompt alert component](https://design.va.gov/components/alert#sign-in-or-tool-prompt) from the VA design system
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
-- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/dlQWx99)
+- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/dlp7OP9)
 - [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/oYdOpQ5)
 
 ## Codes
