@@ -121,7 +121,7 @@ Before we start, a few things I want to mention:
 
 
 ## Send a new message - 10 minutes
-- What kind of concerns would you send messages about and are there cases when you should not send a secure message?
+- What kind of concerns would you send messages about and are there cases when you should not send a message?
 - How do you decide who to send your message to?
 - Would you ever want to change who is in your list of providers? How would you expect to do that?
 - Who would you expect the message to say that it is from?
