@@ -85,7 +85,7 @@ Please recruit 14 participants for 7 completed sessions.
 	2. **Qualifier:** Do you use software to zoom in, such as ZoomText or an alternative? **Answer should be yes to qualify.**
 	3. **If yes, use software:** What kind of software do you use? **Record answer in roster.**
 - At least 6 participants should identify as other than male 
-At least 6 Veterans who identify as Hispanic, Asian, or Native
+- At least 6 Veterans who identify as Hispanic, Asian, or Native
 - At least 2 Veterans with other than honorable discharge
 * At least 4 Veterans who have an immigrant origin
 * At least 8 Veterans who live in a rural environment
