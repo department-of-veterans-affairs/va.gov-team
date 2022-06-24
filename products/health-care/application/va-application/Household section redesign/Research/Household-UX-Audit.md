@@ -26,12 +26,11 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
 
 - **Keep it short**: "Remove fields which collect information that can be (a) derived in some other way, (b) collected more conveniently at a later date, or (c) simply omitted."
     - Although the fields themselves are mostly required, we can break up lengthy stretches of fields onto multiple pages to reduce form fatigue, and reduce cognitive load for parts of the form. For example, breaking the spousal information section into basic information, and additional conditional information that may require more fields on the page.
- 
-      <details>
-        <summary>[Screenshot: Conditional spousal information]</summary>
-       <img width="500" alt="image" src="https://user-images.githubusercontent.com/81988788/175577657-ca9514a5-7c0f-49b5-b140-370e3affe485.png">
-    <details> 
-    - Although the fields themselves are mostly required, we can break up lengthy stretches of fields onto multiple pages to reduce form fatigue, and reduce cognitive load for parts of the form. For example, breaking the spousal information section into basic information, and additional conditional information that may require more fields on the page.
+
+        <details>
+            <summary>[Screenshot: Conditional spousal information]</summary>
+           <img width="500" alt="image" src="https://user-images.githubusercontent.com/81988788/175577657-ca9514a5-7c0f-49b5-b140-370e3affe485.png">
+        <details>
 
 - **Visually group related fields**: "If your form asks about two different topics, section it into two separate groups of fields."
   - Similar to the idea of breaking up long stretches of fields across multiple pages, sections of fields with related topics can be broken up across multiple pages as well. For example, the Veteran's annual income fields are on the same page as their spouse's annual income fields, even though this information may require two separate tax forms.
