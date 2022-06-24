@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 06/24/2022
+- Minor styling changes to make Pre-Check-in and Check-in consistent with each other and the intended design
+   - [Epic 42481](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42481)
+
 ### 06/22/2022
 - Changed the text for the VAOS link from "Go to your appointment details” to "Sign in to manage all appointments" to clarify that the Veteran will need to sign into another application to manage their appointments
    - [Epic 42105](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42105)
