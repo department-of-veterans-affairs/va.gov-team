@@ -119,20 +119,32 @@ _**Next step:** None_
 _**Next step:** Determine if any additional information is needed - return to discuss about Resources & Support article. [Link to GH issue]_
 
 ### Finding #11
+**Participants found some details about Gender identity field could be further improved**
+- 2 participants noted that being able to write in an option for Gender identity would be important to a lot of people
+- A transgender participant noted that the alphabetical order of the Gender identity selections may not be the best way to sort them. This participant also mentioned that transgender man/woman felt clunky and that normally people just say trans.
+
+_**Next step:**_
+
+### Finding #12
+**A Gender identity selection was already made for 2 participants who had not yet visited the page.**
+
+_**Next step:** Determine how this factors into the inability to fully remove information once entered._ 
+
+### Finding #13
 **3 participants expressed a desire for the additional fields: Pronouns and Sexual orientation**. 
 - 2 conveyed the need for Pronouns
 - 1 requested Sexual orientation
 
 _**Next step:** Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. [Link to GH issue]_
 
-### Finding #12
+### Finding #14
 **Some participants did not notice the FAQs at the top of the page.**
 - All found them clear once they went through them
 - One participant in the process of changing their legal name found this FAQ placement and information extremely helpful
 
 _**Next step:** None_
 
-### Finding 13
+### Finding 15
 **All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
 
 _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
@@ -143,8 +155,8 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 3. _(Finding 6)_ When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding?)
 4. _(Finding 8)_ Identify if character max or characters allowed can/should be changed for Preferred name. 
 5. _(Finding 10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
-6. _(Finding 11)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. 
-7. _(Finding 13)_ Resolve latency issue (in progress) 
+6. _(Finding 13)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. 
+7. _(Finding 15)_ Resolve latency issue (in progress) 
 
 
 ## Appendix
