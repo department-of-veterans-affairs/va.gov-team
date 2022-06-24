@@ -32,6 +32,14 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
   - "Stick to standard sequences both for fields and for value choices. But for field values, also consider usage frequency, and list the most common values first when possible."
 - **Distinguish optional and required fields**
   - "First, eliminate as many optional fields as possible (see the first recommendation above). If some fields truly are necessary, but only apply to a subset of users, don’t make users find out through trial and error. Limit the form to only 1 or 2 optional fields, and clearly label them as optional."
+
+The VA marks required fields by default, but many online forms only mark optional fields, and show "required" labelling contextually. Since marking every "required" field is a pattern found in the VA design system, making a shift to only marking "optional" fields - while better UX - is a longer-term effort, requiring additional research and collaboration cycle input.
+
+<details>
+<summary>[Screnshot: VA form fields vs AAA form fields]</summary>
+<img width="829" alt="image" src="https://user-images.githubusercontent.com/81988788/175565557-d0a5df60-3cbb-4a7e-860e-d5be5956cc50.png">
+</details>
+
 - **Avoid *reset* or *clear* buttons**
   - "Provide a ‘Cancel’ button to support those users who abandon the form and want to delete their information. But make sure that the Cancel button has significantly less visual prominence than the Submit button, to avoid accidental clicks."
 
