@@ -6,6 +6,8 @@ Following up on the [Household info design discovery suggestions](https://github
 
 This UX audit focuses on broader issues with the form design of the 10-10EZ overall, using the household info section as a representative cross-section. The expectation is that some of the design suggestions from the previous discovery, and from this audit, be applied to the 10-10EZ (and possibly 10-10CG) overall.
 
+- [Household info section Mural board notes](https://app.mural.co/t/vsa8243/m/vsa8243/1652991806939/037e6432bb2e5d5975be35b35357ab151dc005b8?sender=u8a90be72499ecb4354e14700)
+
 ## Contents
 
 [UX best practices]()
