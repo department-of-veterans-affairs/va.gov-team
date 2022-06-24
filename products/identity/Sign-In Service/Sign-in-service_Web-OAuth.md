@@ -50,7 +50,7 @@ This document describes how our Web Based OAuth partners can integrate with the 
 9. Vets-website uses Access Token in Authorization header to hit the `/introspect` endpoint
     1. `Authorization: Bearer <accessTokenHash>`
     
-    ```
+    ```json
     "data": {
        "id": "",
        "type": "users",
@@ -85,22 +85,10 @@ This document describes how our Web Based OAuth partners can integrate with the 
           "access_token_ttl": 300
          }
       }
-    }
     
     ```
     
-10. Uses the Refresh token to get an new Access Token + Refresh Token (when Access token reaches expiry) by hitting the `/refresh` endpoint
-    
-    ```
-    {
-      "data": {
-    		"access_token": "<accessTokenHash>",
-    		"refresh_token": "<refreshTokenHash>",
-        "anti_csrf_token": "<antiCsrfTokenHash>"
-      }
-    }
-    
-    ```
+10. Use the Refresh token to get an new Access Token + Refresh Token (when Access token reaches expiry) by hitting the `/refresh` endpoint. New token cookies will be stored in the browser with a successful response.
     
 
 ## Parameters
