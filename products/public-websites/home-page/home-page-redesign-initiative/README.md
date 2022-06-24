@@ -58,6 +58,7 @@ The VA.gov homepage needs to effectively bridge users to the personalized logged
 - Research: Cindy Merrill (Ad Hoc)
 
 ## Stakeholders
+- [Stakeholder feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/stakeholder%20feedback.md)
 - The [VA.gov Web Governance Board](https://www.va.gov/web/index.cfm) oversees changes made to the public va.gov homepage and is comprised of key communication representatives from VA organizations, including
   - Office of Public and Intergovernmental Affairs
   - Office of Information and Technology
