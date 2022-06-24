@@ -200,10 +200,11 @@ The research questions we sought to address:
 
 1. Update short form-specific content
 2. Publish short form
-3. Monitor comparative completion and drop-off rates
+3. Monitor comparative now vs. after completion and drop-off rates
 
 
 ###  In the future
+* Update how compensation question can be edited from review page
 * Redesign the beginning "screener" flow
 * Update Medicaid page- consider adding who is eligible
 * Update VA facility page
@@ -213,6 +214,7 @@ The research questions we sought to address:
   - Alphabatize the list
 * Consider adding more context to the other information page
 * Update household information section, integrating above findings as much as possible
+* Update intro page- especially the buttons/links to start (placement and heading content)
 * Check all fields with screen reader to ensure that the question is read properly
 * Check each page with screen reader to ensure that it moves people to expected region on every page
 * Conduct more mobile testing (noticed screen moves from right to left, and some alerts/content wrap visually strangely) 
