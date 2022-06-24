@@ -36,6 +36,8 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 
 ## Solution Goals
 
+- Enable formal and informal caregivers and Veterans to submit the right information allowing for fast, transparent adjudication so they can get the support they need.
+
 ### User Goals
 - Caregivers and veterans want to be able to fill out the 10-10CG online.
 
