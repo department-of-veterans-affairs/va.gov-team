@@ -24,24 +24,23 @@ There are a number of form UX best practices that could benefit the household in
 
 The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.com/articles/web-form-design/) is a list of common form UX principles, some of which can be applied to the household information section of the 10-10EZ.
 
-- **Keep it short**
-  - "Remove fields which collect information that can be (a) derived in some other way, (b) collected more conveniently at a later date, or (c) simply omitted."
-- **Visually group related fields**
-  - "Labels should be close to the fields they describe. Avoid ambiguous spacing, where labels are equidistant from multiple fields, and make sure to include the label attribute for screen readers. If your form asks about two different topics, section it into two separate groups of fields."
-- **Use logical sequencing**
-  - "Stick to standard sequences both for fields and for value choices. But for field values, also consider usage frequency, and list the most common values first when possible."
-- **Distinguish optional and required fields**
-  - "First, eliminate as many optional fields as possible (see the first recommendation above). If some fields truly are necessary, but only apply to a subset of users, don’t make users find out through trial and error. Limit the form to only 1 or 2 optional fields, and clearly label them as optional."
+- **Keep it short**: "Remove fields which collect information that can be (a) derived in some other way, (b) collected more conveniently at a later date, or (c) simply omitted."
+    - Although the fields themselves are mostly required, we can break up lengthy stretches of fields onto multiple pages to reduce form fatigue, and reduce cognitive load for parts of the form.
 
-The VA marks required fields by default, but many online forms only mark optional fields, and show "required" labelling contextually. Since marking every "required" field is a pattern found in the VA design system, making a shift to only marking "optional" fields - while better UX - is a longer-term effort, requiring additional research and collaboration cycle input.
+- **Visually group related fields**: "If your form asks about two different topics, section it into two separate groups of fields."
+  - Similar to the idea of breaking up long stretches of fields across multiple pages, sections of fields with related topics can be broken up across multiple pages as well. For example, the Veteran's annual income fields are on the same page as their spouse's annual income fields, even though this information may require two separate tax forms.
+- **Use logical sequencing**: "Stick to standard sequences both for fields and for value choices. But for field values, also consider usage frequency, and list the most common values first when possible."
+  - In this case, the current order of onboarding information, and fields requesting information, doesn't neccessarily make sense. The household information sections begins with a lenghty content section about financials, but fincianl information fields don't show up until a few pages later. Financial fields should follow financial onboarding content.
+- **Distinguish optional and required fields**: "First, eliminate as many optional fields as possible (see the first recommendation above). If some fields truly are necessary, but only apply to a subset of users, don’t make users find out through trial and error. Limit the form to only 1 or 2 optional fields, and clearly label them as optional."
+  - The current VA design system requires all "required" fields to be marked, but this is an awkward UX and accessibility practice. Making this change will likely require research and full "design council" collaboration.
 
-<details>
-<summary>[Screnshot: VA form fields vs AAA form fields]</summary>
-<img width="829" alt="image" src="https://user-images.githubusercontent.com/81988788/175565557-d0a5df60-3cbb-4a7e-860e-d5be5956cc50.png">
-</details>
+    <details>
+    <summary>[Screnshot: VA form fields with required fields marked, versus AAA (insurance) form fields with optional fields marked]</summary>
+    <img width="829" alt="image" src="https://user-images.githubusercontent.com/81988788/175565557-d0a5df60-3cbb-4a7e-860e-d5be5956cc50.png">
+    </details>
 
-- **Avoid *reset* or *clear* buttons**
-  - "Provide a ‘Cancel’ button to support those users who abandon the form and want to delete their information. But make sure that the Cancel button has significantly less visual prominence than the Submit button, to avoid accidental clicks."
+- **Avoid *reset* or *clear* buttons**: "Provide a ‘Cancel’ button to support those users who abandon the form and want to delete their information. But make sure that the Cancel button has significantly less visual prominence than the Submit button, to avoid accidental clicks."
+  - At the point of review, just before submitting the application, there is no option to cancel and reset the process. A cancel button, with some form of confirmation, may be a useful UX addition.
 
 ### VA Design System recommendations
 
