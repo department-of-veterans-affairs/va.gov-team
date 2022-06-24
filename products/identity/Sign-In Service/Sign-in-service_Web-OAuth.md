@@ -1,7 +1,7 @@
 VSP Identity Sign in Service - DRAFT
 
 NOTE: This document must be updated to reflect new URLs for web, this is a copypasta of the PKCE version other than the diagram and version history
-# [VA.gov](http://VA.gov) OAuth Integration
+# VA.gov OAuth Integration
 
 ### Version History
 
@@ -13,8 +13,13 @@ NOTE: This document must be updated to reflect new URLs for web, this is a copyp
 
 This document describes how our Web Based OAuth partners can integrate with the Sign in Service.
 
+### Sequence Diagram
 ![Vagovweboauth](https://user-images.githubusercontent.com/71290526/175567747-37530d92-76c1-4612-b274-8b7e9503b738.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams)
+
+### Technical Diagram
+![Sign in Service - Web (1)](https://user-images.githubusercontent.com/71290526/175569756-d2f8c3af-2f7f-4454-a5b0-c0b8e5e0b8b4.png)
+[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
 ## Sign in service will provide:
 
