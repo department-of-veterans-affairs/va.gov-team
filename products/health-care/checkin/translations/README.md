@@ -1,5 +1,6 @@
 ## Final Spanish Translations Received from the State Department on 6/24/2022 (QA Round)
-- [June%2024%202022%20-%20SPA-FINAL_CIE%20in-app%20content.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/June%2024%202022%20-%20SPA-FINAL_CIE%20in-app%20content.json)
+- [June 24 2022-SPA-FINAL_CIE%20in-app%20content.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/June%2024%202022%20-%20SPA-FINAL_CIE%20in-app%20content.json)
+- [June 24 02022-SPA-FINAL_Poster-%20SMS-NOK-relationships.txt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/June%2024%202022%20-%20SPA-FINAL_Poster-%20SMS-NOK-relationships.txt)
 
 ## Tagalog Translations Received from the State Department on 6/13/2022 (Tagalog Round 1):
 - [LS-2022-0117538-A-FIL-FINAL_Poster-%20SMS-NOK-relationships.txt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/LS-2022-0117538-A-FIL-FINAL_Poster-%20SMS-NOK-relationships.txt)
