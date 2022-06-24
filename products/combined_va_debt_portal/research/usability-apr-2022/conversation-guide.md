@@ -99,7 +99,7 @@ I'd like to start by learning more about your experience with VA health care and
 
 ## Task one: Navigating to the tool -- 10 minutes 
 
-For the next portion of our session, we're going to chat about VA.gov. Please open a web browser of your choice and navigate to **staging.VA.gov**. 
+For the next portion of our session, we're going to chat about VA.gov. Please open a web browser of your choice and navigate to VA.gov. 
 
 ### Experience with VA.gov
 
@@ -139,9 +139,9 @@ I'm now going to post a link in the Zoom chat.
 
 _Paste one of the following links in the chat:_ 
 
-* _If they navigated to **the summary page** (user needs to be logged in to see this page): https://staging.va.gov/manage-debt-and-bills/summary
-* _If they navigated to a **benefit debt resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/debt-balances_ 
-* _If they navigated to a **copay bill resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/copay-balances_
+* _If they navigated to **the summary page** (user needs to be logged in to see this page): https://va.gov/manage-debt-and-bills/summary
+* _If they navigated to a **benefit debt resources and support article**: https://va.gov/manage-debt-and-bills/summary/debt-balances_ 
+* _If they navigated to a **copay bill resources and support article**: https://va.gov/manage-debt-and-bills/summary/copay-balances_
 * _If the Veteran doesn't navigate to the tool, direct them to the content page by posting the link in the Zoom chat_ 
 
 
