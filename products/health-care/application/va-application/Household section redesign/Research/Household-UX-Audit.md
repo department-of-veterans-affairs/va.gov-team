@@ -1,6 +1,6 @@
 [IN PROGRESS]
 
-# Household Info UX Audit
+# Household Info Form UX Audit
 
 Following up on the [Household info design discovery suggestions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Household%20info%20design%20discovery.pdf), the team deciced to take the opportunity to conduct a broader UX audit, rather than immediately start solutioning based on the suggestions.
 
