@@ -13,12 +13,13 @@
 [Prioritization](#prioritization)
 
 [Summary of changes](#summary-of-changes)
+ - [March 2022 iteration](#march-2022-iteration)
+ - [Next iteration](#next-iteration)
 
-[Next steps](#next-steps)
 
-- [Research](#research)
-
+[Ongoing efforts](#ongoing-efforts)
 - [Connection to authenticated experience](#connection-to-authenticated-experience)
+- [Discussions with stakeholders](discussions-with-stakeholders)
 
 [Launch planning](#launch-planning)
 
@@ -97,6 +98,10 @@ We will work through the Collaboration Cycle to determine how to measure outcome
 
 Given the strong evidence for change and experimental nature of our work, we intend to implement several ideas at once. Further refinement will be possible later, especially when any of these changes is moved to production.
 
+## Summary of changes
+
+### March 2022 iteration
+
 <details>
 <summary> First build - March 2022 </summary>
  
@@ -104,8 +109,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 </details>
 
-### Summary of changes
- - A randomized, rotating set of Veteran portraits has been added to the top of the page (but will not appear in mobile experience) 
+ - A randomized, rotating set of Veteran portraits has been added to the top of the page
  - Sign in/Sign up CTA has elevated visibility and top placement
  - Four top task boxes have been replaced with a data-driven list of links to 5 Veteran-facing pages where actions can be taken 
  - A visible search option which mimics the site search is available, followed by a data-driven list of four other search tools not available through Search (such as Yellow Ribbon, Education benefits, Find a VA form, Facility Locator)
@@ -123,14 +127,25 @@ Given the strong evidence for change and experimental nature of our work, we int
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
 - The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
-## Next steps
+**Next steps - Research**
 
-### Research
 - Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
-- Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices, with the following goals
-  - confirm list of "popular links" along with validating that Veterans understand to search for other tasks not appearing on that short list
-  - understand Veteran expectations of search behavior
+- Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices, including the following
+  - that the redesigned home page supports Veterans and beneficiaries in task completion 
+  - that users understand to use search for tasks which are not explicitly displayed 
 - Research findings should be shared broadly, including Authenticated Experience team and Apartment teams
+
+### Next iteration 
+
+**Planned changes ~3Q22**
+- Update for Top Tasks based on research findings
+- Language/labels for "other search tools"
+- Consider replacing Veteran portraits with additional promo space to be used for OPIA priority information (i.e. PACT ACT)
+  - _this will require consensus on content governance and accessibility support, particularly for images_
+- "Off ramp" area for non-Veteran facing content
+- Order of benefit hubs
+
+## Ongoing efforts
 
 ### Connection to authenticated experience
 - Explore routed queries - direct Veterans to a deep link rather than the search results page
