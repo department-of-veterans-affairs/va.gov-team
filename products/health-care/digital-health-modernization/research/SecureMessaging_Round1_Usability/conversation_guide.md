@@ -54,8 +54,8 @@ Before we start, a few things I want to mention:
 ## View message inbox - 5 minutes
 - What are you seeing here?
 - How many messages do you have?
-- Do you know which messages you have read and which messages you have not read? If so, how?
-- Your doctor sent you a document with a copy of your test results. How would you find out which message contains this information?
+- Do you have any unread messages? If so, how many? How can you tell that they are unread?
+- Your doctor sent you a document with a copy of your test results included. How would you find out which message contains this information?
 - What name are you seeing on these messages?
 - After you are finished with a message do you keep it or get rid of it? What do you call that? If so, how would you do that? Would you expect to be able to see or access those messages again?
 - (If they don't go to deleted folder, prompt them to go there) What would you call these messages? Do you want to be able to access them again?
