@@ -135,6 +135,7 @@ The research questions we sought to address:
 2. One particpants screen reader kept reading many fields as "date" when it had nothing to do with a date
 3. One participant's screen reader didn't read many of the question labels on the first time, so often the particpant would guess at an answer (resulting in some misinformation) or they would have to start and reread from the top.
 4. As the particpants advanced through the form by pushing the continue button, sometimes they would land on the next screen at the top, other times at the bottom. (this is not consistent)
+5. One question per page might not be ideal for screen reader users.
 
 **Other observations**
 1. The screener at the beginning is very confusing for participants (3). Some participants think they made a mistake. This is amplified for screen reader users. 
