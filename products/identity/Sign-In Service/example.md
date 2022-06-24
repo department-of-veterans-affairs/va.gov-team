@@ -77,3 +77,24 @@
       }
     }
     ```
+
+    
+    
+    ### Authorization endpoint (Web)
+
+```jsx
+Staging: https://staging-api.va.gov/sign_in/<CSP>/authorize
+Production: https://api.va.gov/sign_in/<CSP>/authorize
+
+enum <CSP> { "logingov", "idme", "dslogon", "mhv" }
+```
+
+| Query parameter | Description | Default |
+| --- | --- | --- |
+| response_type | Set to code to indicate that an authorization code is requested as the response | code |
+| client_id | Identifier for the app.  You will receive a client_id when first registering your app with the service |  |
+| state | Services two primary functions: 1. A way to persist data between the user being directed to the auth server & back again, 2.) Serves as a CSRF protection mechanism |  |
+| redirect_uri | Optional. The URL to which a user should be redirected to after the authorization is complete.  Must match the redirect URL that you have previously registered with the service. |  |
+| scope | Optional. Includes one or more scope values to request additional levels of access (depending on service). |  |
+| code_challenge | Used internally by SiS to hash & encode a value to verify good requests |  |
+| code_challenge_method | Hashing algorithm. | S256 |
