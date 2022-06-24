@@ -1,17 +1,15 @@
 _First review at midpoint review - May 3rd, 2022_
 
-# Conversation guide for Debt Resolution Team, Combined Debt Portal Usability, May 2022
+# Conversation guide for Debt Resolution Team, Combined Debt Portal Usability, June 2022
 
 
 ## Moderator logistics 
 
+_Confirm participant email has been granted feature access_
+
 _Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers._
 
 _Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel))._
-
-_In the Attendees section, make sure everyone except the participant is on mute_
-
-_In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked_
 
 _Check your \[screensharing setup\]_
 
