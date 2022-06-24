@@ -135,7 +135,7 @@ Use font awesome icon `dollar` for icon in link list
 ### State 1: A user who has outstanding debt + received a payment within the last 30 days.  
 
 #### Visual specs
-- Use the Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
 - The payment card uses the following styles from the design system:
 	- `H3` element for heading
 	- `p` for payment type
@@ -145,7 +145,6 @@ Use font awesome icon `dollar` for icon in link list
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1rWvEe)
--
 ---
 
 ### State 2: A user who has NO outstanding debt + received a payment within the last 30 days.  
@@ -162,7 +161,7 @@ Use font awesome icon `dollar` for icon in link list
 
 ---
 
-### State 3: A user has had NO payments in the last 30 days + NO debt.
+### State 3: A user has had NO payments in the last 30 days but has received payments before + NO debt.
 
 #### Visual specs
 - Use a plain `p` element for no outstanding debt message
@@ -181,13 +180,13 @@ Mock-ups
 ### State 4: If a user has had NO payments in the last 30 days + HAS debt.  
 
 #### Visual Specs
-- Use the Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
 - Use a plain `p` element for no recent payments message
 - Display the “View your payment history” link in the link list
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/paD25yQ)
-- [Mobile] - TBD 
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/eKx5KlW) 
 ---
 
 ### State 5: If a user has multiple deposits in the same day.
