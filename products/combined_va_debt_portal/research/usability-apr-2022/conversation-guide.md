@@ -139,7 +139,7 @@ I'm now going to post a link in the Zoom chat.
 
 _Paste one of the following links in the chat:_ 
 
-* _If they navigated to **the content page** (user needs to be logged in to see this page): https://staging.va.gov/manage-debt-and-bills/summary
+* _If they navigated to **the summary page** (user needs to be logged in to see this page): https://staging.va.gov/manage-debt-and-bills/summary
 * _If they navigated to a **benefit debt resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/debt-balances_ 
 * _If they navigated to a **copay bill resources and support article**: https://staging.va.gov/manage-debt-and-bills/summary/copay-balances_
 * _If the Veteran doesn't navigate to the tool, direct them to the content page by posting the link in the Zoom chat_ 
