@@ -39,7 +39,7 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
 
 Parts of the household information section, and 10-10EZ overall, can still benefit from alignement with the VA Design System.
 
-
+[neccessary?]
 
 ## Existing VA design patterns
 
