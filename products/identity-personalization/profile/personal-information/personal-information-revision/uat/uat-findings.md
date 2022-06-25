@@ -106,9 +106,11 @@ _**Next step:** None_
 _**Next step:** Identify if character max or characters allowed can/should be changed for Preferred name. [Link to GH issue]_
 
 ### Finding #9
-**Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information.** 
+**Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information, but had suggestions for how the field could be further improved.** 
+- 2 participants noted that being able to write in an option for Gender identity would be important to a lot of people
+- A transgender participant noted that the alphabetical order of the Gender identity selections may not be the best way to sort them. This participant also mentioned that transgender man/woman felt clunky and that normally people just say trans.
 
-_**Next step:** None_
+_**Next step:** Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. [Link to GH issue]_
 
 ### Finding #10
 **Participants found the information included in the FAQ dropdowns relatively clear.**
@@ -118,17 +120,10 @@ _**Next step:** None_
 
 _**Next step:** Determine if any additional information is needed - return to discuss about Resources & Support article. [Link to GH issue]_
 
-### Finding #11
-**Participants found some details about Gender identity field could be further improved**
-- 2 participants noted that being able to write in an option for Gender identity would be important to a lot of people
-- A transgender participant noted that the alphabetical order of the Gender identity selections may not be the best way to sort them. This participant also mentioned that transgender man/woman felt clunky and that normally people just say trans.
-
-_**Next step:**_
-
 ### Finding #12
 **A Gender identity selection was already made for 2 participants who had not yet visited the page.**
 
-_**Next step:** Determine how this factors into the inability to fully remove information once entered._ 
+_**Next step:** Determine how this factors into the inability to fully remove information once entered. [Link to GH issue]_ 
 
 ### Finding #13
 **3 participants expressed a desire for the additional fields: Pronouns and Sexual orientation**. 
@@ -154,9 +149,10 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 2. _(Finding 3)_ Confirm that Preferred name hint text is sufficient and dropdown is not needed. 
 3. _(Finding 6)_ When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding?)
 4. _(Finding 8)_ Identify if character max or characters allowed can/should be changed for Preferred name. 
-5. _(Finding 10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
-6. _(Finding 13)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. 
-7. _(Finding 15)_ Resolve latency issue (in progress) 
+5. _(Finding 9)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed.
+6. _(Finding 10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
+7. _(Finding 13)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. 
+8. _(Finding 15)_ Resolve latency issue (in progress) 
 
 
 ## Appendix
