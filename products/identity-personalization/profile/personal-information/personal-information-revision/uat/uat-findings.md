@@ -19,15 +19,16 @@ To mitigate issues around Veterans being addressed improperly at health appointm
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) for more details.
 
 ### Goals
-The primary goal of our UAT is to confirm that the Personal information section functionality works as expected and Veterans can view and update their preferences for Preferred name and Gender identity.
+The primary goal of our UAT was to confirm that the Personal information section functionality works as expected and Veterans can view and update their preferences for Preferred name and Gender identity.
 
-As secondary goals, we’ll follow up on our last [research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/research-plan.md) and the subsequent changes made to the designs:
-1. We would like to evaluate whether or not Veterans understand what this information is and why we are asking for it.
-2. We would like to validate that Veterans understand it is optional to provide this information. 
-3. We would like to validate that no major usability hurdles have been introduced during our recent iterations.
+As secondary goals, we followed up on our last [research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/research-plan.md) and the subsequent changes made to the designs:
+1. We evaluated whether or not Veterans understood what this information is and why we are asking for it.
+2. We validated that Veterans understood it is optional to provide this information. 
+3. We validated that no major usability hurdles were introduced during our recent iterations.
 
 ### Approach
-Summary of how you conducted UAT (include method, and number of participants)
+We conducted remote, moderated interviews using Zoom with 7 participants. The sessions were moderated using VA.gov. We had participants go through a list of specific tasks for UAT, and then asked follow-up questions to get feedback on our content/IA related questions. Our intended audience for this research was Veterans who are part of the LGTBQ community.
+
 - [UAT research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
 - [UAT conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
@@ -156,9 +157,9 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 
 
 ## Appendix
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
-[Interview transcripts](link here)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
+- [Interview transcripts](link here)
 
 ### Tools used for Synthesis
 [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1654721796209/c2e42a35ff78fe654a47f027581d7b20c2546a5f?invited=true&sender=u28f508d646c449cc1afe4873)  
@@ -252,7 +253,7 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
 * Asian and Native participants
-* Screen reader users
+* Screen reader users due to no-shows
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
