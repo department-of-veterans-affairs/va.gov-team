@@ -166,7 +166,7 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 ## Appendix
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
-- [Interview transcripts](link here)
+- [Interview transcripts](link here) - _in progress_
 
 ### Tools used for Synthesis
 [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1654721796209/c2e42a35ff78fe654a47f027581d7b20c2546a5f?invited=true&sender=u28f508d646c449cc1afe4873)  
@@ -175,8 +175,6 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 Sketch files for Personal information revisions: [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) & [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)
 
 ### Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
