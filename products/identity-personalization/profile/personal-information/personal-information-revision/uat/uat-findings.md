@@ -146,13 +146,13 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 
 ## Next Steps:
 1. _(Main finding)_ Resolve bugs shown on Android mobile device. 
-2. _(Finding 3)_ Confirm that Preferred name hint text is sufficient and dropdown is not needed. 
-3. _(Finding 6)_ When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding?)
-4. _(Finding 8)_ Identify if character max or characters allowed can/should be changed for Preferred name. 
-5. _(Finding 9)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed.
-6. _(Finding 10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
-7. _(Finding 13)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. 
-8. _(Finding 15)_ Resolve latency issue (in progress) 
+2. Confirm that Preferred name hint text is sufficient and dropdown is not needed. _(Additional Finding 3)_
+3. When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding?) _(Additional Finding 6)_ 
+4. Identify if character max or characters allowed can/should be changed for Preferred name. _(Additional Finding 8)_ 
+5. Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. _(Additional Finding 9)_
+6. Determine if any additional information is needed - return to discuss about Resources & Support article. _(Additional Finding 10)_
+7. Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. _(Additional Finding 13)_ 
+8. Resolve latency issue (in progress). _(Additional Finding 15)_ 
 
 
 ## Appendix
@@ -242,7 +242,7 @@ Disability and Assistive Technology (AT):
 * Hearing aids: 1
 * Sighted keyboard: x
 * Captions: x
-* Prosethic voice box: 1
+* Prosthetic voice box: 1
 
 
 ### Underserved groups we haven’t talked to 
