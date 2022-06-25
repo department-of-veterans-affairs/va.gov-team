@@ -147,9 +147,9 @@ _**Next step:** None_
 ### Finding 15
 **All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
 
---------
-
 _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
+
+--------
 
 ## Next Steps:
 1. _(Main finding)_ Resolve bugs shown on Android mobile device. 
