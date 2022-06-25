@@ -35,16 +35,17 @@ We conducted remote, moderated interviews using Zoom with 7 participants. The se
 --------
 
 ## Findings details
-UAT went smoothly and no significant findings were uncovered to prevent launch. 
+- UAT went smoothly and no significant findings were uncovered to prevent launch. 
 
 ### Functionality:
-All page elements functioned as expected. 
+- All page elements functioned as expected. 
 
 ### UI: 
-FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch. (Link to GitHub issue)
+- FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is working on this post-launch. (Link to GitHub issue)
+- Phone number was not clickable - resolved. ([Link to GitHub issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42758))
 
 ### Usability:
-Participants were able to update their information easily and quickly. 
+- Participants were able to update their information easily and quickly. 
 
 --------
 
@@ -153,13 +154,14 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 
 ## Next Steps:
 1. _(Main finding)_ Resolve bugs shown on Android mobile device. 
-2. _(#3)_ Confirm that Preferred name hint text is sufficient and dropdown is not needed. 
-3. _(#6)_ When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). 
-4. _(#8)_ Identify if character max or characters allowed can/should be changed for Preferred name.  
-5. _(#9)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. 
-6. _(#10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
-7. _(#13)_ Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval.  
-8. _(#15)_ Resolve latency issue (in progress).  
+2. _(Main finding)_ Make phone number clickable. RESOLVED ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42758))
+3. _(#3)_ Confirm that Preferred name hint text is sufficient and dropdown is not needed. 
+4. _(#6)_ When technically possible, add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). 
+5. _(#8)_ Identify if character max or characters allowed can/should be changed for Preferred name.  
+6. _(#9)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. 
+7. _(#10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
+8. _(#13)_ Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval.  
+9. _(#15)_ Resolve latency issue (in progress).  
 
 --------
 
