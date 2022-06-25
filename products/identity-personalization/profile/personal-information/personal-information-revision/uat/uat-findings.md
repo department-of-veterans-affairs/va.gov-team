@@ -35,7 +35,7 @@ We conducted remote, moderated interviews using Zoom with 7 participants. The se
 --------
 
 ## Findings details
-- UAT went smoothly and no significant findings were uncovered to prevent launch. 
+UAT went smoothly and no significant findings were uncovered to prevent launch. 
 
 ### Functionality:
 - All page elements functioned as expected. 
@@ -92,7 +92,7 @@ _**Next step:** None_
 **All participants updated their information for both Preferred name and Gender identity.** 
 - One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer”
 
-**Next step:** None
+_**Next step:** None_
 
 ### Finding #6
 **All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
