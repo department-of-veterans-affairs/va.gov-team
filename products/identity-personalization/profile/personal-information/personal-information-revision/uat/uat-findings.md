@@ -156,15 +156,15 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 
 
 ## Appendix
-[Research plan](link here)
-[Conversation guide](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 [Interview transcripts](link here)
 
 ### Tools used for Synthesis
 [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1654721796209/c2e42a35ff78fe654a47f027581d7b20c2546a5f?invited=true&sender=u28f508d646c449cc1afe4873)  
 
 ### Pages and applications used
-Link to pages that were tested
+Sketch files for Personal information revisions: [Desktop](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) & [Mobile](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxr23)
 
 ### Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -172,9 +172,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+For this study, our goal was to recruit as many Veterans identifying as part of the LGBTQ+ community as possible, particularly transgender and non-binary folks. We were aiming to recruit 4 transgender and 4 non-binary participants. Recruitment fell slightly short of this goal with only 1 transgender participant. However, non-binary folks and members of the LGBTQ+ community were well-represented overall.
 
-We talked to **x participants.**
+We talked to **7 participants.**
 
 Audience segment:
 * Veterans: 6 
@@ -183,11 +183,11 @@ Audience segment:
 
 
 Gender:
-* Male: 1 
+* Male: 1 (possibly 2 - may have been confusion with term cis-gender)
 * Female: 1 
 * Transgender: 1 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 3 (4?)
-* Gay, lesbian, or bisexual: 1 (unknown)
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 4 (possibly 3 - may have been confusion with term cis-gender)
+* Gay, lesbian, or bisexual: 1 (other participants unknown)
 
 
 Devices used during study: 
@@ -223,7 +223,7 @@ Geographic location:
 
 
 Race:
-* White: 2
+* White: 4
 * Black: 1
 * Hispanic: 
 * Biracial: 2
@@ -252,8 +252,7 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
 * Asian and Native participants
-* Group 2
-* Group 3
+* Screen reader users
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
