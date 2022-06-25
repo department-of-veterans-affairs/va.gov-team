@@ -135,7 +135,7 @@ _**Next step:** Determine how this factors into the inability to fully remove in
 - 2 conveyed the need for Pronouns
 - 1 requested Sexual orientation
 
-_**Next step:** Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval. [Link to GH issue]_
+_**Next step:** Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval._
 
 ### Finding #14
 **Some participants did not notice the FAQs at the top of the page.**
@@ -158,7 +158,7 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 4. _(#8)_ Identify if character max or characters allowed can/should be changed for Preferred name.  
 5. _(#9)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. 
 6. _(#10)_ Determine if any additional information is needed - return to discuss about Resources & Support article. 
-7. _(#13)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval.  
+7. _(#13)_ Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval.  
 8. _(#15)_ Resolve latency issue (in progress).  
 
 --------
