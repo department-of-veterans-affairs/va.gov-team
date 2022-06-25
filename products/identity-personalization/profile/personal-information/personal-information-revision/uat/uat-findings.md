@@ -32,6 +32,8 @@ We conducted remote, moderated interviews using Zoom with 7 participants. The se
 - [UAT research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
 - [UAT conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
 
+--------
+
 ## Findings details
 UAT went smoothly and no significant findings were uncovered to prevent launch. 
 
@@ -43,6 +45,8 @@ FAQs and hint text appeared much larger than they should have for a participant 
 
 ### Usability:
 Participants were able to update their information easily and quickly. 
+
+--------
 
 ## Additional Findings
 
@@ -143,6 +147,8 @@ _**Next step:** None_
 ### Finding 15
 **All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
 
+--------
+
 _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 
 ## Next Steps:
@@ -155,6 +161,7 @@ _**Next step:** Resolve latency issue (in progress) [Link to GH issue]_
 7. _(#13)_ Continue work to add Pronouns and Sexual orienation once approved - pending PRA approval.  
 8. _(#15)_ Resolve latency issue (in progress).  
 
+--------
 
 ## Appendix
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
