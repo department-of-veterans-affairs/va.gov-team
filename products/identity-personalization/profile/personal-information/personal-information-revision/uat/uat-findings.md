@@ -103,7 +103,7 @@ Main reasons:
 _**Next step:** None_
 
 ### Finding #5
-**All participants decided to update their information for both Preferred name and Gender identity and were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.** 
+**All participants decided to update their information for both Preferred name and Gender identity and were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to remove their answers.** 
 - One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer”
 
 _**Next step:** Add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). [Link to GH issue]_
