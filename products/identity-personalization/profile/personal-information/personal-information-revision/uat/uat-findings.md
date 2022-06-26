@@ -65,6 +65,8 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 12. Some participants did not notice the FAQs at the top of the page.
 13. All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.
 
+### DETAILS 
+
 ### Finding #1
 **Participants had positive responses to the new fields.** 
 - 6/7 had very positive responses upon viewing the page. 
