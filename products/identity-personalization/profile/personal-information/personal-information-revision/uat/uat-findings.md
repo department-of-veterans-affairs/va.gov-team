@@ -140,7 +140,7 @@ _**Next step:** Determine if any additional information is needed in Gender iden
 ### Finding #10
 **Gender identity: A Gender identity selection was already made for 2 participants who had not yet visited the page.**
 
-_**Next step:** Determine how this factors into the inability to fully remove information once entered. [Link to GH issue]_ 
+_**Next step:** Determine how pre-filled data factors into the inability to fully remove information once entered. [Link to GH issue]_ 
 
 ### Finding #11
 **3 participants expressed a desire for the additional fields on the page: Pronouns and Sexual orientation**. 
@@ -171,7 +171,7 @@ _**Next step:** Resolve latency issue (in progress). [Link to GH issue]_
 5. _(#7)_ Identify if character max or characters allowed for Preferred name can/should be changed.  
 6. _(#8)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. 
 7. _(#9)_ Determine if any additional information is needed in Gender identity FAQ - return to discussion about Resources & Support article. ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36751#issuecomment-1071904916)) 
-8. _(#10)_ Determine how this factors into the inability to fully remove information once entered.
+8. _(#10)_ Determine how pre-filled data factors into the inability to fully remove information once entered.
 9. _(#11)_ Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval.  
 10. _(#13)_ Resolve latency issue (in progress).  
 
