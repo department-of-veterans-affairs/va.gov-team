@@ -39,8 +39,10 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 - All page elements functioned as expected. 
 
 ### UI: 
-- FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. The team is looking into this post-launch. (Link to GitHub issue)
-- RESOLVED - Phone number was not clickable. ([Link to GitHub issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42758))
+- FAQs and hint text appeared much larger than they should have for a participant using a specific Android mobile device. 
+	- **Next step:** The team is looking into this post-launch. (Link to GitHub issue)
+- Phone number was not clickable. 
+	- **RESOLVED** ([Link to GitHub issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42758))
 
 ### Usability:
 - Participants were able to update their information easily and quickly. 
