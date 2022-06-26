@@ -272,5 +272,5 @@ _List all groups in red from the spreadsheet_
 * Asian and Native participants
 * Screen reader users due to no-shows
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="762" alt="Screen Shot 2022-06-26 at 2 07 57 PM" src="https://user-images.githubusercontent.com/79372956/175833868-8694692e-2215-4646-a9d4-b4a2bd12c836.png">
+
