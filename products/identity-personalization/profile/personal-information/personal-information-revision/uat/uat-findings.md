@@ -51,20 +51,20 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 
 ## Additional Findings
 
-1. **Participants had positive responses to the new fields.** 
-2. **Participants felt VA asks for this information to make Veterans feel comfortable and to minimize confusion.** 
-3. **Participants had trouble noticing the hint text component but noticed the FAQ dropdown fairly easily.** 
-4. **6/7 participants understood that the fields were NOT required.**
-5. **All participants updated their information for both Preferred name and Gender identity.** 
-6. **All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.**
-7. **Preferred name: All participants had a positive response to the Preferred name field and found it to be clear, useful, and easy to use.**
-8. **Preferred name: 2 participants mentioned that restrictions for how to enter Preferred name - such as character maximum and not allowing special characters or capitalization - may cause issues for some Veterans.**
-9. **Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information, but a few had suggestions for how the field could be further improved.** 
-10. **Gender identity: Participants found the information included in the FAQ dropdowns relatively clear.**
-11. **Gender identity: A Gender identity selection was already made for 2 participants who had not yet visited the page.**
-12. **3 participants expressed a desire for the additional fields on the page: Pronouns and Sexual orientation**.
-13. **Some participants did not notice the FAQs at the top of the page.**
-14. **All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.**
+1. Participants had positive responses to the new fields.
+2. Participants felt VA asks for this information to make Veterans feel comfortable and to minimize confusion.
+3. Participants had trouble noticing the hint text component but noticed the FAQ dropdown fairly easily.
+4. 6/7 participants understood that the fields were NOT required.
+5. All participants decided to update their information for both Preferred name and Gender identity.
+6. All participants were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to do so.
+7. Preferred name: All participants had a positive response to the Preferred name field and found it to be clear, useful, and easy to use.
+8. Preferred name: 2 participants mentioned that restrictions for how to enter Preferred name - such as character maximum and not allowing special characters or capitalization - may cause issues for some Veterans.
+9. Gender identity: Participants had a positive response to Gender identity and had no trouble updating their information, but a few had suggestions for how the field could be further improved.
+10. Gender identity: Participants found the information included in the FAQ dropdowns relatively clear.
+11. Gender identity: A Gender identity selection was already made for 2 participants who had not yet visited the page.
+12. 3 participants expressed a desire for the additional fields on the page: Pronouns and Sexual orientation.
+13. Some participants did not notice the FAQs at the top of the page.
+14. All participants who tested the latency issue (3) found it confusing, but said they would not normally refresh the page this way.
 
 ### Finding #1
 **Participants had positive responses to the new fields.** 
@@ -104,7 +104,7 @@ Main reasons:
 _**Next step:** None_
 
 ### Finding #5
-**All participants updated their information for both Preferred name and Gender identity.** 
+**All participants decided to update their information for both Preferred name and Gender identity.** 
 - One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer”
 
 _**Next step:** None_
