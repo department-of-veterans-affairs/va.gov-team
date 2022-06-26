@@ -135,7 +135,7 @@ _**Next step:** Continue to work towards adding a text input field for Gender id
 - 3 participants wondered why the NCM would need to see gender identity, but did not have a negative view on this.
 - 1 participant thought more information should be included for how to update their gender identity with their health care team and to define the “healthcare team.” 
 
-_**Next step:** Determine if any additional information is needed in Gender identity FAQ - return to discuss about Resources & Support article. [Link to GH issue]_
+_**Next step:** Determine if any additional information is needed in Gender identity FAQ - return to discussion about Resources & Support article. [Link to GH issue]_
 
 ### Finding #10
 **Gender identity: A Gender identity selection was already made for 2 participants who had not yet visited the page.**
@@ -144,7 +144,7 @@ _**Next step:** Determine how this factors into the inability to fully remove in
 
 ### Finding #11
 **3 participants expressed a desire for the additional fields on the page: Pronouns and Sexual orientation**. 
-- 2 participant conveyed the need for Pronouns.
+- 2 participants conveyed the need for Pronouns.
 - 1 participant requested Sexual orientation.
 
 _**Next step:** Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval._
@@ -170,7 +170,7 @@ _**Next step:** Resolve latency issue (in progress). [Link to GH issue]_
 4. _(#5)_ Add Remove button to give Veterans more autonomy over selctions, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). 
 5. _(#7)_ Identify if character max or characters allowed for Preferred name can/should be changed.  
 6. _(#8)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed. 
-7. _(#9)_ Determine if any additional information is needed in Gender identity FAQ - return to discuss about Resources & Support article. 
+7. _(#9)_ Determine if any additional information is needed in Gender identity FAQ - return to discussion about Resources & Support article. 
 8. _(#10)_ Determine how this factors into the inability to fully remove information once entered.
 9. _(#11)_ Add Pronouns once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38951)) Add Sexual orientation once approved ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38954))- pending PRA approval.  
 10. _(#13)_ Resolve latency issue (in progress).  
