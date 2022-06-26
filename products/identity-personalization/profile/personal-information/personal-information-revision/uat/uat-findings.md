@@ -1,7 +1,5 @@
 # Personal information UAT Findings
 
-DRAFT
-
 06/22/2022
 
 Christina Gednalske, Profile
@@ -10,7 +8,7 @@ Christina Gednalske, Profile
 - [Findings Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##findings-details)
 - [Additional Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##additional-findings)
 - [Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##next-steps)
-- Appendix
+- [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/uat-findings.md##appendix)
 
 
 ## Background
