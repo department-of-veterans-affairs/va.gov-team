@@ -2,9 +2,6 @@ Alternative Conversation Guide for Bad Address Indicator
 ============================================
 _**Use this guide if starting with Confirm task rather than Edit task**_
 
-Conversation Guide for Bad Address Indicator
-============================================
-
 -   _Make sure dev team has turned on feature for user_
 -   _Post in #feedback-backchannel_
 -   _Mute Slack notifications_
