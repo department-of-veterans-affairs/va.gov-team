@@ -109,6 +109,7 @@ Previous research indicates that Veterans filling out the household information 
 
 ## Recommendations and next steps
 
-- Design a wire-flow mockup incorporating the Nielsen Norman form UX recommendations
+- Consider incorporating the Nielsen Norman form UX recommendations in the household info section
+- Consider improving the UX of the expandable input field accordion before incorporating it into the household flow
 - 
 
