@@ -15,6 +15,8 @@ How to name the file: mmddyyyy-SiteName.md
 ## Feedback item 
 Details of feedback
 
+**What is the value to Veterans**
+
 **What product(s) does this feedback apply to**
 - [ ] VSE
 - [ ] CHIP
@@ -23,6 +25,8 @@ Details of feedback
 
 ## Feedback item 
 Details of feedback
+
+**What is the value to Veterans**
 
 **What product(s) does this feedback apply to**
 - [ ] VSE
