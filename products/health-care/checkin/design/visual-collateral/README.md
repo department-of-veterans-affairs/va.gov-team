@@ -16,6 +16,8 @@ Latest Release (PDF)
 - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Phillipines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8993239/24x36-lowvision-v1.5.Phillipines.pdf)
 
 
+
+
 Previous Release/Version (PDF)
 - Release Notes
   - 10/20/2021 - As of 4/19/2022, still in facilities that haven't replaced their posters with lastest release<br><br>
