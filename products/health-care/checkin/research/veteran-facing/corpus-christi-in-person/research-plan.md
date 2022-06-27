@@ -43,7 +43,7 @@ This research plan maps to the following moment within the Veteran journey:
 
 ## Research Goals 
 
-Our goal for this research is to utilize our [baseline research plan for the St. Louis pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md) to evaluate pre-check-in and check-in at additional VAMCs. In addition, the Modernized Check-In Team is building off of the [beneficiary travel research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104) that is pointing to a potential solution that integrates travel reimbursement with check-in. Specifically, we’re looking to accomplish the following: 
+Our goal for this research is to utilize our [baseline research plan for the St. Louis pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md), and more recently, [Bay Pines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-plan.md), to evaluate pre-check-in and check-in at additional VAMCs. In addition, the Modernized Check-In Team is building off of the [beneficiary travel research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104) that is pointing to a potential solution that integrates travel reimbursement with check-in. Specifically, we’re looking to accomplish the following: 
 
 - Evaluate the effectiveness of pre-check-in and check-in with Veterans
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
@@ -85,9 +85,9 @@ Our goal for this research is to utilize our [baseline research plan for the St.
 
 ## Method
 
-This research will be conducted as in-person interviews at Bay Pines VAMC and other clinics that the Bay Pines team is able to identify. Our preference is to visit various clinics at Bay Pines VAMC and an additional two CBOCs that are scheduled during times of high appointment check-ins. 
+This research will be conducted as in-person interviews at Corpus Christi VA Clinic and other clinics that the Corpus Christi VA Clinic HAS (Health Administration Services) team is able to identify. E.g., South Enterprize VA Clinic, Old Brownsville VA Clinic. Our preference is to visit various clinics within the facilities during times of high appointment check-ins. 
 
-We will work with the Bay Pines team at each clinic to determine the best approach for intercepting and observing Veterans. 
+We will work with the Corpus Christi VA Clinic team at each clinic to determine the best approach for intercepting and observing Veterans. 
 
 Our aim is to intercept at least 5-10 Veterans at each clinic before check-in occurs. We will also observe Veterans to see how check-in works without our interception. 
 
@@ -95,7 +95,7 @@ Once check-in is complete through intercept or observation, we will ask Veterans
 
 When time permits, will also incorporate in-person usability testing on the travel reimbursement prototypes with Veterans that are familiar with the VA’s Beneficiary Travel Self Service System (BTSSS).
 
-Two researchers will be conducting this research. In addition, at least one product owner (Stephen Barrs) from VA OCTO will be in attendance. 
+Two researchers will be conducting this research. 
 
 ### Location 
 
