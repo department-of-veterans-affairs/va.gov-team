@@ -85,7 +85,7 @@ Our goal for this research is to utilize our [baseline research plan for the St.
 
 ## Method
 
-This research will be conducted as in-person interviews at Corpus Christi VA Clinic and other clinics that the Corpus Christi VA Clinic HAS (Health Administration Services) team is able to identify. E.g., South Enterprize VA Clinic, Old Brownsville VA Clinic. Our preference is to visit various clinics within the facilities during times of high appointment check-ins. 
+This research will be conducted as in-person interviews at Corpus Christi VA Clinic and other clinics that the Corpus Christi VA Clinic Health Administration Services (HAS) team is able to identify. E.g., South Enterprize VA Clinic, Old Brownsville VA Clinic. Our preference is to visit various clinics within the facilities during times of high appointment check-ins. 
 
 We will work with the Corpus Christi VA Clinic team at each clinic to determine the best approach for intercepting and observing Veterans. 
 
