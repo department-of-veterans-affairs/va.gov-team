@@ -14,6 +14,8 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 
 [Definitions](#definitions)
 
+[Recent research](#recent-research)
+
 [Recommendations and next steps](#recommendations-and-next-steps)
 
 ## UX best practices
@@ -104,6 +106,12 @@ Previous research indicates that Veterans filling out the household information 
 | Deductible expenses        | A deductible for taxes is an expense that a taxpayer or business can subtract from adjusted gross income, which reduces their income, thereby reducing the overall tax they need to pay. ([Investopedia definition](https://www.investopedia.com/terms/d/deductible.asp#:~:text=Key%20Takeaways,tax%20they%20need%20to%20pay.))                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                          | Any expenses that count towards decreasing your net income.                                                                             |
 | Funeral or burial expenses |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Provided by the Veteran.                                                                                                                                 | Any expenses associated with the funeral or burial of a family member.                                                                  |
 | Education expenses         | "Qualified expenses are amounts paid for tuition, fees and other related expense for an eligible student that are required for enrollment or attendance at an eligible educational institution. Eligible expenses also include student activity fees you are required to pay to enroll or attend the school. For example, an activity fee that all students are required to pay to fund all on-campus student organizations and activities." ([IRS definition](https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses)) ([VA's list of education benefits](https://www.va.gov/resources/how-va-education-benefit-payments-affect-your-taxes/)) | Provided by the Veteran.                                                                                                                                 | These are things you have to spend money on to further your education. This includes things like books, tuition, and other course fees. |
+
+## Recent research
+        
+The recent [10-10EZ short-form usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md) yielded some findings relevent to the household information section.
+        
+
 
 ## Recommendations and next steps
 
