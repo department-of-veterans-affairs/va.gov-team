@@ -12,11 +12,11 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 
 [UX best practices]()
 
-[Existing VA design patterns]()
+[Specific design patterns]()
 
 [Definitions]()
 
-[Household info wire flow]()
+[Recommendations]()
 
 ## UX best practices
 
@@ -59,15 +59,23 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
         
 I checked a few other online healthcare and insurance applications and noted their features to get a better sense of common best practices relative to VA form design.
 
-## Existing VA design patterns
+## Specific design patterns
 
 What are some existing VA design patterns that we can use to improve the household section?
 
-### Dependents design pattern
+### VA dependents design pattern
         
 The dependents section of the household information flow can quickly become a souce of form fatigue, due to the large of numbers of fields and long scroll length. The collabsible input field "accordions" [present in the eBenefits flow](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/screen/f0d37107-9854-4bf8-87ee-d7e6f8c973ce/) is an existing pattern than can be applied to the 10-10EZ.
 
 <img width="1048" alt="image" src="https://user-images.githubusercontent.com/81988788/175615857-1755c3d6-218c-4b8f-9cd8-c47ab812a0e0.png">
+
+### Sub-stepper design
+        
+Sub-steppers are not normally used, owing to the potential complications associated with dynamic forms. Most forms use a stepper for clearly defined sections of the form, with a set number of questions associated with that section. For example, the Esurance form section progress bar:
+
+<img width="872" alt="image" src="https://user-images.githubusercontent.com/81988788/175977350-aa32b5b8-86c8-4569-8525-d812838df411.png">
+
+There are some possible solutions for a sub-stepper in a dynamic form, but these are not ideal. For example
         
 ## Definitions
 
@@ -83,5 +91,6 @@ Previous research indicates that Veterans filling out the household information 
 | Deductible expenses        | A deductible for taxes is an expense that a taxpayer or business can subtract from adjusted gross income, which reduces their income, thereby reducing the overall tax they need to pay. ([Investopedia definition](https://www.investopedia.com/terms/d/deductible.asp#:~:text=Key%20Takeaways,tax%20they%20need%20to%20pay.))                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                          | Any expenses that count towards decreasing your net income.                                                                             |
 | Funeral or burial expenses |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Provided by the Veteran.                                                                                                                                 | Any expenses associated with the funeral or burial of a family member.                                                                  |
 | Education expenses         | "Qualified expenses are amounts paid for tuition, fees and other related expense for an eligible student that are required for enrollment or attendance at an eligible educational institution. Eligible expenses also include student activity fees you are required to pay to enroll or attend the school. For example, an activity fee that all students are required to pay to fund all on-campus student organizations and activities." ([IRS definition](https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses)) ([VA's list of education benefits](https://www.va.gov/resources/how-va-education-benefit-payments-affect-your-taxes/)) | Provided by the Veteran.                                                                                                                                 | These are things you have to spend money on to further your education. This includes things like books, tuition, and other course fees. |
-        
-## Household info wire flow
+
+## Recommendations
+
