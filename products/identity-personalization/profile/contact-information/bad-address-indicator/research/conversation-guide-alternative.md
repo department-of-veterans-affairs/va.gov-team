@@ -20,7 +20,7 @@ Thanks for joining us today! My name is Christina, I also have a note taker and 
 
 Before we start, a few things I want to mention:
 
--   **I also have some other colleagues in the waiting room who would like to observer and take notes.** Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
+-   **I also have some other colleagues in the waiting room who would like to observe and take notes.** Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay with letting them in for this research session?
 	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
 	- _If participant consents, let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
 
