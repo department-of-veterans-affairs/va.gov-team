@@ -422,7 +422,7 @@ Once we are sure the feature is working...
 
 ### My VA: Cerner updates
 
-(463) Anchorage: Go-live -- 7/16/2022
+- (531) Boise: Go-live -- 6/25/2022
 
 ## Sprint 79 (7/27 - 8/9)
 [Epic: #40789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40789)
@@ -433,5 +433,3 @@ Once we are sure the feature is working...
 
 ## Sprint 80 (8/10 - 8/23)
 [Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
-
-(663) Seattle: Go-live -- 8/27/2022
