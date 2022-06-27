@@ -84,13 +84,13 @@ Task #1: Review Personal information page and alert - 3 minutes
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
 
 -   Now if you could you please go to your Profile by selecting your name (located in the top right corner).
--   Now I'll have you go through a few things. And just a reminder, it'll be very helpful if you could think out loud and share what's on your mind as much as possible.
+-   Ok, great. Now I'll have you go through a few things. And just a reminder, it'll be very helpful if you could think out loud and share what's on your mind as much as possible.
 -   Before you select anything else, I'll have you go over this page. Could you briefly tell me about what's included here?
 -   What stands out to you on this page?
 	-   _If needed:_ Did you notice the gray box with the yellow stripe?
 -   What is your interpretation of the alert?
 -   How important does this alert information seem?
--   Is there anything confusing about the alert?
+-   Is there anything unclear about the alert?
 
 ### Things to watch for:
 -   Did the participant notice the alert without any prompting? 
@@ -121,7 +121,7 @@ Task #3: Review Contact information alert - 3 minutes
 	-   _If needed:_ Did you notice the gray box with the yellow stripe?
 -   What's your interpretation of that alert?
 -   How important does the alert information seem?
--   Is there anything confusing about this alert?
+-   Is there anything unclear about this alert?
 
 ### Things to watch for:
 -   Did the participant notice the alert without any prompting? At what point?
@@ -138,7 +138,7 @@ Task #4: Update Mailing address - 5 minutes
 		-   I saw you hesitated at [action], why was that?
 		-   What information are you searching for?
 		-   Why did you decide to take that route?
--   Was there anything confusing about that process?
+-   Was there anything unclear about that process?
 
 ### Things to watch for:
 -   Does the participant use the jump link to navigate down the page?
@@ -160,7 +160,7 @@ Task #5: Confirm Mailing address - 5 minutes
 		-   What kind of information are you searching for?
 		-   Why did you expect it to be there?
 		-   Why did you decide to take that route?
--   Was there anything confusing about this process?
+-   Was there anything unclear about this process?
 
 ### Things to watch for:
 -   Can the participant easily confirm their address?
