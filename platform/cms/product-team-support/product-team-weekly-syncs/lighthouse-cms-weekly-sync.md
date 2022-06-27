@@ -14,7 +14,19 @@
 </details>
 
 ## Monday, June 27, 2022
-*Last week*
+*Last meeting*
+* Adjust facility migrations timing
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9395
+  * Good info shared, in works, planning on kick off CMS migration at 8am
+  * LH grabs everything at 7:30am
+  * SOLVED?* 
+ * Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+* Define plan to address LH facility service audit
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406 
+  * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
+  * David to expand sheet to list each service 
+
 
 ## Monday, June 20, 2022
 HOLIDAY - JUNETEENTH
