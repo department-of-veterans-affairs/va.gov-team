@@ -91,7 +91,7 @@ We will work with the Bay Pines team at each clinic to determine the best approa
 
 Our aim is to intercept at least 5-10 Veterans at each clinic before check-in occurs. We will also observe Veterans to see how check-in works without our interception. 
 
-Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/conversation-guide.md) to measure their perceptions of check-in, pre-check-in, etc. and document responses, comments, improvements, etc.  
+Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our conversation guide to measure their perceptions of check-in, pre-check-in, etc. and document responses, comments, improvements, etc.  
 
 When time permits, will also incorporate in-person usability testing on the travel reimbursement prototypes with Veterans that are familiar with the VA’s Beneficiary Travel Self Service System (BTSSS).
 
