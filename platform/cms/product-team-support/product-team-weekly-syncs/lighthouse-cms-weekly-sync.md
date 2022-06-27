@@ -20,13 +20,49 @@
   * Good info shared, in works, planning on kick off CMS migration at 8am
   * LH grabs everything at 7:30am
   * SOLVED?* 
- * Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
-  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+  * In backlog for now 
+
 * Define plan to address LH facility service audit
   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406 
   * https://docs.google.com/spreadsheets/d/19Gihg32Fifu3FW4y0nMIeVUUbjcXYIzsbV7-B34JzsE/edit#gid=1839316337
   * David to expand sheet to list each service 
   * https://docs.google.com/spreadsheets/d/1_qPlxUgbOfqflklFFsFeFuZVmG3SY8k0/edit#gid=1932035819
+
+Short term, Tryiong to determine what source of truth should be used
+Long term - Make CMS the source of truth
+There are some concerns...given the large descepancies 
+Joshua will discuss, what stpes can be taken be editors.
+As we move, use a combination of data... then assess... is the CMS data close enough? 
+
+Dave C, Jenny HL, and Dave M need to get on the same page 
+Josh will get on same page within Lighthouse team, then circle back with Dave Dave and Jenny 
+A fcilitye says they have a service, but no ATC data associated with it, we have no Wait Time or Satisfaction data 
+Specialty Care is no longer a category that should be reflected (it's a catch all)
+ATC team is relauching on 30th/1st, New services? New endpoints? James C and Josh to investigate with some urgency. Discussing with David Jenson 
+
+https://va-atc-dev.azurewebsites.us/
+
+Access to Care /  Decision Search Tool
+We are under scrutiny right now, wait times, satisfaction data. 
+
+*This week*
+ * Work with Lighthouse to establish a sync of cms data down sandbox-api.va.gov
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+  * Production and sandbox take care of their data independently, this model has worked until we stated pushing data, since it only comes from production, you don't push data to staging/sandbox 
+  * Each API env is self-contained, outside of CMS, we actilvely pull (from ATC, VAST, CDW) so every day we rebuild the base model
+  * THe only thing that's different, is Drupal Facility data doesnt get pulled, it's get pushed onlyh to PRoduction  - so no other env's have the overly data
+  * We set up some back-end fetatuer to occasionaly copy from production to other envs? -or- Facilites team pushes to other endpoints
+  * Drupal  would push to both Sandbox and Prod 
+  * Swirt: prob with that, sandbox has really low hit rate, we can only push 60 records/minute
+  * Josh can see if rate limit can be increased.. would it solve?  Maybe
+  * If one fails.  prod receives it sandbox doesnt - is that considered a failure.. are we creating a loophole where data can drift.. .
+  * From data integrity POV, wouold prefer a pull from Prod to lower envs, even if once a week, to assure any drift is accounted for with a full sync 
+  * James/Adam will consider options - increase limits? is thate easiest overall solution? would be fastest to implement 
+  * Spin up someothing to inviestigate how woe would set up data migration.. 
+  * WHen is a good time to check back?  CHeck back in next 2 weeks . would be dificult to launch V1, if now CMS data is being pushed 
+
+Dave C - follow up offline: Email about mobile facilities, get up to reaerch we've done. 
+James: Let's lay out among our teams before bringing any proposal.
 
 
 ## Monday, June 20, 2022
