@@ -2,18 +2,30 @@ Alternative Conversation Guide for Bad Address Indicator
 ============================================
 _**Use this guide if starting with Confirm task rather than Edit task**_
 
+Conversation Guide for Bad Address Indicator
+============================================
+
 -   _Make sure dev team has turned on feature for user_
 -   _Post in #feedback-backchannel_
 -   _Mute Slack notifications_
 
+## Starting the session
+- _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
+- _In the Attendees section, make sure everyone except the participant is on mute._
+- _In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked._
+- _Check your [screensharing setup] and share permissions for participants._
+- _When the participant is ready, begin the session with the following intro._
+
 Intro - 3 minutes
 -----------------
 
-Thanks for joining us today! My name is Christina, and I also have a note taker with me. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
+Thanks for joining us today! My name is Christina, I also have a note taker and another member of the website team with me. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
 
 Before we start, a few things I want to mention:
 
--   **There are a couple of members from the website team who would like to observe the session and hear your feedback live**. Are you comfortable with them joining the session? No pressure either way.
+-   I also have some other colleagues in the waiting room who would like to observer and take notes. Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay to let them in for this research session?
+	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
+	- _If participant consents, let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
 
 -   **This entire session should take about 45 minutes or less**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
@@ -45,16 +57,20 @@ _Confirm they qualify for the study._
 	-   _If not:_ Are these readily accessible? Could you get them?
 	-   _If the user can not remember or retrieve their login credentials, end the session:_ Without login credentials, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
-- _Start recording._ Ok, now that you're logged in, could you please share your screen?
+**If using production:**
+
+-   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. _Send link to va.gov via chat if needed_
+-   I will stop recording while you log in.
+
+_Stop recording._
+
+_Start recording once logged in._
+
+- Ok, now that you're logged in, could you please share your screen?
 	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
 _Participant shares screen_
-
-**If using production:**
--   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. 
--   I will stop recording while you log in.
--   _Send link to va.gov via chat if needed_
 
 ## Background Questions - 2 minutes
 
@@ -104,7 +120,6 @@ Task #3: Review Contact information alert - 3 minutes
 -----------------------------------------------------
 
 **Task goal: Make sure the participant understands the information included in the Contact information alert and can easily act on it.**
-
 -   Now before you select anything, I'll have you review this page. Could you tell me briefly about what's included here?
 -   What stands out to you on this page?
 	-   _If needed:_ Did you notice the gray box with the yellow stripe?
@@ -169,4 +184,13 @@ Task #5: Update Mailing address - 5 minutes
 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-I hope you enjoy the rest of your day!
+- Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
+- _wait for observers to leave_
+- Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
+- Sometimes we have the observers already in the session when you join, instead of how we did it today. When I asked you for consent before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
+- Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
+
+Great, thank you for your feedback and thank you so much again for joining us today. We really appreciate it.
+
+Have a great rest of your day!
+
