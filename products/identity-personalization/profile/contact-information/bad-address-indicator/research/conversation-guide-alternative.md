@@ -58,7 +58,7 @@ _Confirm they qualify for the study._
 
 -   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. _Send link to va.gov via chat if needed_
 -   And go ahead and log in.
-- Ok, now that you're logged in, could you please share your screen?
+- Great, now that you're logged in, could you please share your screen?
 	- _If needed:_ You can do that by clicking the green button on the bottom of the Zoom window that says "Share Screen." It will then ask you which window you'd like to share and you can share either just your web browser where you'll be looking at the page we're testing or your entire desktop/background.
 	- _If no, explain this is necessary for testing. If they are still unwilling, end the call._ I completely understand. However if you're not comfortable sharing your screen for the session, we aren't able to test this feature with you today so I'm going to end the call. Thank you so much for your willingness to participate; it is greatly appreciated.
 
@@ -67,7 +67,7 @@ _Participant shares screen_
 ## Background Questions - 2 minutes
 
 **Once logged in to VA.gov:** 
--   Great. Now that you're logged in, I have a few initial questions for you.
+-   Ok, now that you're logged in and I can see your screen, I have a few initial questions for you.
 -   How often do you go to your Profile?
 -   What are the reasons you generally visit your Profile?
 -   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Without selecting anything, could you tell me what you would do next?
