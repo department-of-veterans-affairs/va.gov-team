@@ -16,7 +16,7 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 
 [Definitions]()
 
-[Recommendations]()
+[Recommendations and next steps]()
 
 ## UX best practices
 
@@ -88,7 +88,9 @@ I was unable to find a live example of a sub-stepper, and it seems that sub-step
 
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/81988788/175977350-aa32b5b8-86c8-4569-8525-d812838df411.png">
 
-There are some possible solutions for a sub-stepper in a dynamic form, but these are not ideal. Here a 
+There are some possible solutions for a sub-stepper in a dynamic form, but these are not ideal. This possible solution is pulled from UX Stack Exchange:
+
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/81988788/175982758-e018994e-32c8-4d2e-b499-98eaa52bc3df.png">
         
 ## Definitions
 
@@ -105,5 +107,7 @@ Previous research indicates that Veterans filling out the household information 
 | Funeral or burial expenses |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Provided by the Veteran.                                                                                                                                 | Any expenses associated with the funeral or burial of a family member.                                                                  |
 | Education expenses         | "Qualified expenses are amounts paid for tuition, fees and other related expense for an eligible student that are required for enrollment or attendance at an eligible educational institution. Eligible expenses also include student activity fees you are required to pay to enroll or attend the school. For example, an activity fee that all students are required to pay to fund all on-campus student organizations and activities." ([IRS definition](https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses)) ([VA's list of education benefits](https://www.va.gov/resources/how-va-education-benefit-payments-affect-your-taxes/)) | Provided by the Veteran.                                                                                                                                 | These are things you have to spend money on to further your education. This includes things like books, tuition, and other course fees. |
 
-## Recommendations
+## Recommendations and next steps
+        
+
 
