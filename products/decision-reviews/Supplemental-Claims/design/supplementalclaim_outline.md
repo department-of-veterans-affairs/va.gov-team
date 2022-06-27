@@ -24,15 +24,6 @@ If you’d like to file for multiple benefit types, you’ll have to complete a 
 6. DOB *
 7. Service Number
 
-
-## Step 1 of 5: Veteran Information
-
-Are you experiencing homelessness or at risk of becoming homeless?
-
-- [ ] Yes
-- [ ] No
-
-
 ## Step 1 of 5: Veteran information
 Please complete all the following information.
 
@@ -62,6 +53,13 @@ Claimant Type:
 - [ ] Veteran Parent
 - [ ] Other
 
+## Step 1 of 5: Veteran Information
+
+Are you experiencing homelessness or at risk of becoming homeless?
+
+- [ ] Yes
+- [ ] No
+
 ## Step 1 of 5: Veteran information
 Contact information
 Please complete all the following information.
@@ -81,8 +79,7 @@ Please complete all the following information.
 1. Issue
 2. Date of Decision Notice
 
-## 
-Step 3 of 5: Evidence
+## Step 3 of 5: Evidence
 1. Submit (upload evidence and/or records)
 2. List name and location of VA Facility and Date of Records for VA to gather
 3. Form 4142 for VA to assist collection of records
