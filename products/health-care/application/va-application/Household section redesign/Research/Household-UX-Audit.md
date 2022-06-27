@@ -58,6 +58,19 @@ The [Nielsen Norman Top 10 Form Usability Recommendations](https://www.nngroup.c
 ### Other online forms
         
 I checked a few other online healthcare and insurance applications and noted their features to get a better sense of common best practices relative to VA form design.
+        
+| Feature                              | Geico                                                     | Esurance                                                   | AAA                                                 | Kaiser Permanente           |
+| ------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------- | --------------------------- |
+| Expandable sections                  | Yes - accordions; not editable in-line                    |                                                            |                                                     |                             |
+| Onboarding content style             | Info pop-up modals, contextual sentences; simple labeling | Simple contextual sentences                                | Simple context;                                     |                             |
+| Save/continue feedback               | None                                                      | Save and exit/continue button option; confirmation stepper |                                                     |                             |
+| Notifications                        | On page info alerts                                       | Error info alerts; none on section completion              |                                                     |                             |
+| Sub-stepper                          | Dynamic per-section stepper; no numbers                   | no                                                         | No                                                  |                             |
+| Autofocus                            | Yes (some fields, radio, and checkboxes)                  | No                                                         | Yes, some fields                                    |                             |
+| Pre-fill                             | Yes, from previous fields                                 | Yes                                                        | Yes; or pre-checked boxes                           | Yes, some fields            |
+| Field constraints (visual and input) | Yes, from previous fields                                 |                                                            |                                                     |                             |
+| Optional vs required                 | None - all required                                       | No "required" labels, some "optional" labels.              | No "required" labels; required appears contextually | Required (\*) fields marked |
+| Placeholder text                     | Yes                                                       | Yes                                                        | Yes                                                 | Self                        |
 
 ## Specific design patterns
 
