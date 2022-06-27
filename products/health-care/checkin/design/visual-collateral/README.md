@@ -14,7 +14,7 @@ Latest Release (PDF)
 
 
 - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Phillipines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8993239/24x36-lowvision-v1.5.Phillipines.pdf)
- 
+ <br><br>
  
  
 Previous Release/Version (PDF)
