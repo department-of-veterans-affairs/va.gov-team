@@ -10,13 +10,13 @@ This UX audit focuses on broader issues with the form design of the 10-10EZ over
 
 ## Contents
 
-[UX best practices]()
+[UX best practices](#ux-best-practices)
 
-[Specific design patterns]()
+[Specific design patterns](#specific-design-patterns)
 
-[Definitions]()
+[Definitions](#definitions)
 
-[Recommendations and next steps]()
+[Recommendations and next steps](#recommendations-and-next-steps)
 
 ## UX best practices
 
@@ -110,6 +110,16 @@ Previous research indicates that Veterans filling out the household information 
 ## Recommendations and next steps
 
 - Consider incorporating the Nielsen Norman form UX recommendations in the household info section
-- Consider improving the UX of the expandable input field accordion before incorporating it into the household flow
-- 
+    - Design a wire flow that incorporates these recommendations, focusing on:
+        - Breaking up long sections of fields and information into less fatiguing stretches
+        - Rearranging question order so that financial onboarding inforation is closer to financial fields
+        - Incorporating lofi versions of expandable input field accordions, and a initial alternative to a sub-progress bar design
+- Consider updating the definitions of financial terms, incorporating in-context expandable info alerts where appropriate
+- Consider updating financial field labeling to reflect new definitions
+- Consider updating the design of the expandable input field accordion to incorporate common UX practices (work started in [42077](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42077))
+    - Propose the design changes via the collab cycle and official design
+- Consider an alternative to a sub-stepper progress bar: static numbering (ie. "Question 1") without context may help, and avoid the issues created by dynamic elements of the forms
+- Consider moving to marking "optional" fields only, instead of every "required" field
+- Consider how to apply these recommendations to other parts of the 1010EZ/CG, including addtional considerations:
+    - Provide a "cancel" button or equivalent to reset an application before submission
 
