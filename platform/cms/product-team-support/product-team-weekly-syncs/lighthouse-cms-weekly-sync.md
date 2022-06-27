@@ -13,6 +13,12 @@
 
 </details>
 
+## Monday, June 27, 2022
+*Last week*
+
+## Monday, June 20, 2022
+HOLIDAY - JUNETEENTH
+
 ## Monday, June 13, 2022
 *Last week*
 * URL's for mobile sites and domiciliaries. ON HOLD FOR NOW 
