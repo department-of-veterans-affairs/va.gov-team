@@ -84,11 +84,11 @@ The dependents section of the household information flow can quickly become a so
 
 ### Sub-stepper design
         
-Sub-steppers are not normally used, owing to the potential complications associated with dynamic forms. Most forms use a stepper for clearly defined sections of the form, with a set number of questions associated with that section. For example, the Esurance form section progress bar:
+I was unable to find a live example of a sub-stepper, and it seems that sub-steppers are not normally utilized owing to the potential complications associated with dynamic forms. Most forms use a stepper for clearly defined sections of the form, with a set number of questions associated with that section. For example, the Esurance form section progress bar:
 
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/81988788/175977350-aa32b5b8-86c8-4569-8525-d812838df411.png">
 
-There are some possible solutions for a sub-stepper in a dynamic form, but these are not ideal. For example
+There are some possible solutions for a sub-stepper in a dynamic form, but these are not ideal. Here a 
         
 ## Definitions
 
