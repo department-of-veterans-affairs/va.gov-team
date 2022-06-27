@@ -24,21 +24,6 @@ If you’d like to file for multiple benefit types, you’ll have to complete a 
 6. DOB *
 7. Service Number
 
-## Step 1 of 5: Veteran information
-Please complete all the following information.
-
-1. Veteran’s first name(*Required)
-2. Veteran’s middle name
-3. Veteran’s last name(*Required)
-4. Veteran’s social security number or tax identification number(*Required)
-5. VA File Number
-6. Veteran’s date of birth(*Required)
-7. Date of Birth: (*Required)
-    1. Month	
-    2. Day
-    3. Year
-8. Veteran’s service number
-
 **Step 1 of 5: Veteran information**
 
 Claimant’s Name: (if other than Veteran’s)
