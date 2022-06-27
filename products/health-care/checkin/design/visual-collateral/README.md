@@ -4,15 +4,16 @@
 
 Latest Release (PDF)
 - Release Notes
+  - 6/27/2022 - Updated file name and QR codes for Philippines only posters
   - 6/02/2022 - Added Philippines only posters
   - 4/12/2022 - Updated background colors<br><br>
-- 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542776/8.5x11-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834029/8.5x11-v1.1.US.Territories.pdf) 
+- 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542776/8.5x11-v1.1.pdf) Or [Phillipines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8993232/8.5x11-v1.1.Phillipines.pdf)
 
 
-- 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834049/11x17-v1.1.US.Territories.pdf)  
+- 11" x 17" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8542774/11x17-v1.1.pdf) Or [Phillipines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8993233/11x17-v1.1.Phillipines.pdf)
 
 
-- 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8834051/24x36-lowvision-v1.5.US.Territories.pdf)  
+- 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/8474826/24x36-lv-v1.5.pdf) Or [Phillipines](https://github.com/department-of-veterans-affairs/va.gov-team/files/8993239/24x36-lowvision-v1.5.Phillipines.pdf)
 
 
 Previous Release/Version (PDF)
