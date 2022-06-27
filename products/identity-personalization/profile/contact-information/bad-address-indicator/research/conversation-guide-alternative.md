@@ -79,7 +79,7 @@ Task #1: Review Personal information page and alert - 3 minutes
 
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
 
--   Ok, great. So now I'll have you go through a few things. And just a reminder, it'll be very helpful if you could think out loud and share what's on your mind as much as possible.
+-   Ok, great. So now I'll have you go through a few things step by step. And just a reminder, it'll be very helpful if you could think out loud and share what's on your mind as much as possible.
 -   First, please go to your Profile by selecting your name (located in the top right corner).
 -   Before you select anything else, I'll have you go over this page. Could you briefly tell me about what's included here?
 -   What stands out to you on this page?
