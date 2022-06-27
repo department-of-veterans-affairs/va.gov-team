@@ -110,5 +110,5 @@ Previous research indicates that Veterans filling out the household information 
 ## Recommendations and next steps
 
 - Design a wire-flow mockup incorporating the Nielsen Norman form UX recommendations
-- Identify 
+- 
 
