@@ -111,7 +111,12 @@ Previous research indicates that Veterans filling out the household information 
         
 The recent [10-10EZ short-form usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md) yielded some findings relevent to the household information section.
         
-
+- P8's response to the household info section:
+    - Had some questions about the financial onboarding information; how recent counts as "recently discharged"
+    - Expected an input field on selecting "yes" to financial disclosure; lots of onboarding, but no financial fields right after onboarding
+    - Dependent's birth date vs when they became an official VA dependent: wasn't sure when an document or official process made his dependent a dependent
+    - Wasn't sure about "Veteran's other income": what counts towards that total amount?; "Never really understood what the VA considers an 'income'"
+    - Spouse doesn't use VA, so some fields asking to include spousal information seeemed confusing, because spouse doesn't factor into VA financials
 
 ## Recommendations and next steps
 
@@ -126,6 +131,7 @@ The recent [10-10EZ short-form usability study](https://github.com/department-of
     - Propose the design changes via the collab cycle and official design
 - Consider an alternative to a sub-stepper progress bar: static numbering (ie. "Question 1") without context may help, and avoid the issues created by dynamic elements of the forms
 - Consider moving to marking "optional" fields only, instead of every "required" field
+- Consider research/discovery into which terms need to be defined (recent short-form [usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md) may provide more insight)
 - Consider how to apply these recommendations to other parts of the 1010EZ/CG, including addtional considerations:
     - Provide a "cancel" button or equivalent to reset an application before submission
 
