@@ -180,7 +180,7 @@ Great, thank you so much. This has been really helpful for our team, and we appr
 - Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
 - _wait for observers to leave_
 - Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
-- Sometimes we have the observers already in the session when you join, instead of how we did it today. When I asked you for consent before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
+- Sometimes we have the additional observers already in the session when you join, instead of how we did it today. When I asked you for consent before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
 - Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
 
 Great, thank you for your feedback and thank you so much again for joining us today. We really appreciate it.
