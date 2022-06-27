@@ -54,7 +54,6 @@ Claimant Type:
 - [ ] Other
 
 ## Step 1 of 5: Veteran Information
-
 Are you experiencing homelessness or at risk of becoming homeless?
 
 - [ ] Yes
@@ -74,29 +73,31 @@ Please complete all the following information.
 8. Veteran’s email address
 9. Re-enter Veteran’s email address
 
-
 ## STEP 2 of 5: Issues
 1. Issue
 2. Date of Decision Notice
+3. Add
+4. Issue Summary
 
 ## Step 3 of 5: Evidence
 1. Submit (upload evidence and/or records)
 2. List name and location of VA Facility and Date of Records for VA to gather
 3. Form 4142 for VA to assist collection of records
-
+4. Add evidence
+5. Evidence Summary
 
 ## Step 4 of 5: Notice of Acknowledgement 5103
 - [ ] Yes
 - [ ] No (mail form, pause for 30 days)
-
 
 ## Step 5 of 5: Certification and Signature
 1. Signature
 2. Name
 3. Date
 
-
 ## Step 5 of 5: Alternate Certification and Signature
 1. Signature
 2. Name
 3. Date
+
+## Review and Submit
