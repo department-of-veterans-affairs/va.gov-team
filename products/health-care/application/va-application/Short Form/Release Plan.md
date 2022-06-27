@@ -14,7 +14,7 @@
 ### Results
 - Number of users: 10
 - Number of bugs identified / fixed: 0
-- UX changes required, based on feedback, logs, or challenges
+- UX/Content changes required, based on feedback, logs, or challenges
   -  None
 
 
