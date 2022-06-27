@@ -76,6 +76,11 @@ Please complete all the following information.
 - [ ] No (mail form, pause for 30 days)
 
 ## Step 5 of 5: Certification and Signature
+Who is Signing? 
+- [ ] Veteran
+- [ ] Other
+
+## Steo 5 of 5: Veteran
 1. Signature
 2. Name
 3. Date
