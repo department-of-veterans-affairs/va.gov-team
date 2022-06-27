@@ -108,6 +108,7 @@ Previous research indicates that Veterans filling out the household information 
 | Education expenses         | "Qualified expenses are amounts paid for tuition, fees and other related expense for an eligible student that are required for enrollment or attendance at an eligible educational institution. Eligible expenses also include student activity fees you are required to pay to enroll or attend the school. For example, an activity fee that all students are required to pay to fund all on-campus student organizations and activities." ([IRS definition](https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses)) ([VA's list of education benefits](https://www.va.gov/resources/how-va-education-benefit-payments-affect-your-taxes/)) | Provided by the Veteran.                                                                                                                                 | These are things you have to spend money on to further your education. This includes things like books, tuition, and other course fees. |
 
 ## Recommendations and next steps
-        
 
+- Design a wire-flow mockup incorporating the Nielsen Norman form UX recommendations
+- Identify 
 
