@@ -100,6 +100,7 @@ Task #2: Navigate to Contact information page - 2 minutes
 -   Go ahead and do that / navigate there. 
 -   Talk me through what you just did.
 	-   _If needed, ask:_ Did you notice the link in the alert? Why did you decide not to select that?
+-   Was there anything unclear about that?
 
 ### Things to watch for:
 -   Does the participant immediately navigate to the Contact information page? 
