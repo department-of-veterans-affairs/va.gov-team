@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for Supplemental Claims
+# Research Plan for Supplemental Claims
 ## OCTO Objectives
 ## North Stars
 - Increase the usage and throughput of VA services
