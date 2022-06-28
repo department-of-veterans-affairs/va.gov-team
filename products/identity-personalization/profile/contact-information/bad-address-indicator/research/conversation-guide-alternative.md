@@ -153,7 +153,7 @@ Task #5: Update Mailing address - 5 minutes
 -   First, could you please open a new window in your browser and go to VA.gov again? This will reinstate the alerts so we can review them again.
 -   Thank you! And go ahead and navigate to your Profile once again.
 -   Ok, great. 
--   Now I'm going to ask you to imagine that you're reviewing your address and your zip code has an error - like the alert says. Could you walk me through how you would update that?
+-   Now I'm going to ask you to imagine that you're reviewing your mailing address and your zip code has an error - like the alert says. Could you walk me through how you would update that?
 	-   _If needed, ask:_
 		-   I saw you hesitated at [action], why was that?
 		-   What information are you searching for?
