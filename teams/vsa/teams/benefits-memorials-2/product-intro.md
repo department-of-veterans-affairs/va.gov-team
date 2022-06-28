@@ -251,10 +251,10 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [FSR Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021)
  
  **Engineering:** 
- - [TBD]()
+ - [Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Debt%20%2B%20FSR%20Architecture.pdf)
 
  **Relevant Dates:** 
- - Product Launch Date: XXX
+ - Product Launch Date: November 2021
 
 #### General Notes about this project:
 
@@ -267,6 +267,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 -  It's in the Veteran's best interest to provide all their expenses so the DMC has an accurate view of their finances; we sought to support that through the new list loop component 
    * Veterans struggled to use the component during usability testing; they would type letters to see what appeared in the dropdown, didn't realize the input field was freeform, and would continue to the next page without saving 
 - Veterans are anxious about questions in the form related to household assets (homes, cars, additional assets) 
+- Veterans are able to download a PDF copy of the form they just completed 
 
 #### **FAQs: about Financial Status Report** 
 
@@ -280,7 +281,6 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 
 #### Intended Improvements/Next Steps:
 
-* Download completed FSR as PDF
 * Combined FSR (bringing in copay debts)
 * Improved wizard (one question per page)
 * List loop improvements
