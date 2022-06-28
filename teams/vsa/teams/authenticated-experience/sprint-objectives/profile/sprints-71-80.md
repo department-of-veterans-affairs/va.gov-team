@@ -483,12 +483,6 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 - Update Links (post-launch) #40351
 
-### Notification preferences
-
-**FE - Adam**
-
-- Update list of facilities that support prescription texts in notification preferences section #43206
-
 ## Sprint 79 (7/27 - 8/9)
 
 ### PTO
