@@ -526,6 +526,17 @@ We should be good to launch this, assuming analytics are good to go and UAT does
   - Other issues in our backlog
 - Depending on how long this takes, we could regroup to start talking about prioritization/strategy. If there's not time, this can wait until next sprint.
 
+### Forms system updates
+
+**FE - Mark/Adam**
+
+- Scope and plan this work
+  - What needs to be done?
+  - How can we break this down? Section by section? Form by form? Something else?
+  - Roughly, how long do we think this will take?
+  - How can we validate the updates to the forms functionality?
+  - Create tickets (it would be helpful if FE did as much ticket creation as possible so Sharon can focus on some other things)
+
 ## Sprint 79 (7/27 - 8/9)
 
 ### PTO
