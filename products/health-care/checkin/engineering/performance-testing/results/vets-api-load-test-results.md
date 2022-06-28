@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document summarizes the results of the load testing done for vets-api subsystem as detailed in the performance test strategy outlined [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/performance-testing/website-api-perf-testing.md). The tests were run in vets-api Staging environment at 50% as well as 100% of the peak projected load. We monitored the system performance during the tests, as well as the response times for different endpoints and error rates. In this document, we also list the follow up questions to be discussed with platform team and recommendations for next steps.
+This document summarizes the results of the load testing done for vets-api subsystem as detailed in the performance test strategy outlined [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/performance-testing/website-api-perf-testing.md). The tests were run in vets-api Staging environment at 50% as well as 100% of the peak projected load. We monitored the system performance during the tests, as well as the response times for different endpoints and error rates. In this document, we we provide the analysis as well as the follow up questions to be discussed with platform team and recommendations for next steps.
 
 ## Test Scenarios
 
@@ -92,7 +92,7 @@ In terms of vets-api system performance, we saw an expected increase in server C
 |:--:|:--:|
 | Vets-api Memory Utilization | Requests per minute |
 
-We observed that the Puma ran out of available threads and correspondingly, the request backlog started to increase. **This showed that the system wasn’t able to handle the 1x load.**
+We observed that Puma ran out of available threads and correspondingly, the request backlog started to increase. **This showed that the system wasn’t able to handle the 1x load.**
 
 The graphs below show the data for an extended period after the load was stopped to provide analysis of recovery after the test was stopped.
 
