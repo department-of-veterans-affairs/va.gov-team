@@ -477,6 +477,12 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 ## Sprint 78 (7/13 - 7/26)
 
+### Personal info revisions
+
+**FE - Adam**
+
+- Update Links (post-launch) #40351
+
 ### Notification preferences
 
 **FE - Adam**
