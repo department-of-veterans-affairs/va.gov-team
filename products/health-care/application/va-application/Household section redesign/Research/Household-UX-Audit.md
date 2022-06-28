@@ -128,7 +128,7 @@ The recent [10-10EZ short-form usability study](https://github.com/department-of
 - Consider updating the definitions of financial terms, incorporating in-context expandable info alerts where appropriate
 - Consider updating financial field labeling to reflect new definitions
 - Consider updating the design of the expandable input field accordion to incorporate common UX practices (work started in [42077](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42077))
-    - Propose the design changes via the collab cycle and official design
+    - Propose the design changes via the collab cycle and official design council review
 - Consider an alternative to a sub-stepper progress bar: static numbering (ie. "Question 1") without context may help, and avoid the issues created by dynamic elements of the forms
 - Consider moving to marking "optional" fields only, instead of every "required" field
 - Consider research/discovery into which terms need to be defined (recent short-form [usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/Short%20form%20usability-June%202022/research-findings.md) may provide more insight)
