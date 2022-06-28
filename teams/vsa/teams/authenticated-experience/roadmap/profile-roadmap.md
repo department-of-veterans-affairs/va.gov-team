@@ -1,31 +1,29 @@
 # VA.gov profile roadmap
 
-**Updated May 12, 2022**
+**Updated June 28, 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | QA |
-|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Design |
+|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Usability testing |
 |[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Read out|
-|Show direct deposit persistently| Frontend & documentation |
-|Reintegrate military info through VA Profile | Backend |
+|Reintegrate military info through VA Profile | UAT |
 
 ### Projected timelines for current projects & enhancements
 
 |Project|Q3 2021|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022|
 |----|----|----|----|----|----|----|
-|**Personal information revisions** | Planning | Discovery, design, FE build | Research, BE build, pre-launch | Launch | - | - | - | - |
 |**Bad address indicator** | - | - | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
-|**MHV Profile research**| - | - |Begin research | Finalize research & recommendations|-|- |
 |**Integrate military info through VA Profile**| - | - | - | Update integration | Launch if not already done |- |
-|**Persistently show direct deposit section instead of showing conditionally**| - | - | - | Design, build, launch | - |- |
 
 ## Completed projects & enhancements
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Added the ability to view and update preferred name and gender identity in the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)| June 2022|
+|[MHV Profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Presented to stakeholders June 2022|
+|[Remove conditional logic to show direct deposit section only to users who receive payments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40722)| June 2022|
 |[Remove requirement for international postal code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39775)| April 2022 |
 |[Remove Fax number field from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35975) | February 2022 |
 |[Remove "Gender" (aka sex assigned at birth) from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36009) | February 2022 |
@@ -74,12 +72,12 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Show direct deposit section persistently for all users| Auth exp|3.3.22| This suggestion is based on Medallia survey feedback of people saying they should hace direct deposit in their profile but it's not showing up. It sounds like we are somehow not able to detect their direct deposit info. While persistently showing the tab would not entirely solve the problem, it would at least stop people from searching around for this section|
+
 
 ### Notification preferences requests
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Establish governance process for adding new preferences | Auth exp | - | We need to figure out a process to review planned updates for notification preferences so new preferences don't end up in our UI without having been reviewed and tested (if needed) by our team |
 |Add default opt-in functionality | VA Profile | January 2022 | We need functionality that tells us if a person is receiving a notification by default without having explicitly opted in themselves so we can reflect this in the profile. This is currently being worked on by VA Profile.|
 |Add notification preferences currently in eBenefits| Melissa Rebstock|2.11.22| Melissa Rebstock said there are notification preferences currently managed in eBenefits that need to move over to VA.gov. I explained that we need to first get VA Profile and VANotify on board before making any changes in VA.gov, so that process should start soon with a launch date of no later than Oct 2022.|
+|Add notification preferences from MHV| MHV/VA.gov | June 2022 | We need to do this as a part of the health apartment migration.|
