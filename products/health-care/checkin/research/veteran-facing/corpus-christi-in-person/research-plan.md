@@ -100,9 +100,7 @@ We will work with the Corpus Christi VA Clinic team at each clinic to determine 
 
 Our aim is to intercept at least 5-10 Veterans at each clinic before check-in occurs. We will also observe Veterans to see how check-in works without our interception. 
 
-Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our conversation guide to measure their perceptions of check-in, pre-check-in, etc. and document responses, comments, improvements, etc.  
-
-When time permits, will also incorporate in-person usability testing on the travel reimbursement prototypes with Veterans that are familiar with the VA’s Beneficiary Travel Self Service System (BTSSS).
+Once check-in is complete through intercept or observation, we will ask Veterans follow-up questions using our conversation guide to measure their perceptions of check-in, pre-check-in, Spanish translations, travel reimbursement, etc. and document responses, comments, improvements, etc.  
 
 Two researchers will be conducting this research. 
 
