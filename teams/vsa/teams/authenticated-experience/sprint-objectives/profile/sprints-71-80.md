@@ -417,6 +417,7 @@ After midpoint review...
 
 - Launch to 100% if we didn't already do so last sprint
 - Make sure content page updates go out after we go to 100%
+- Update Links (post-launch) #40351
 
 ### Bad address indicator
 
@@ -477,11 +478,6 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 ## Sprint 78 (7/13 - 7/26)
 
-### Personal info revisions
-
-**FE - Adam**
-
-- Update Links (post-launch) #40351
 
 ## Sprint 79 (7/27 - 8/9)
 
