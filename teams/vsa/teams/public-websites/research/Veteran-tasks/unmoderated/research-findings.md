@@ -62,11 +62,11 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 # Key Findings
 
-1. **Overall top tasks**: Most top tasks across all survey participants were health care related.  tasks selected by the most people as important were...5 of the 6 were health-related. 
-2. For participants who don't use VA health care, the top tasks were different.   For the x% of participants who don't use VA health care, the top tasks were different...Overlap is 2 tasks.
-3. Top tasks also varied by participant age, with older participants...and younger participants...
-6. Participants selected an **average of X tasks as important** (ranging from Y to Z).
-7. Most frequent tasks (by self-report) aligned with the top tasks.
+1. **Overall top tasks**: Across all survey participants 5 of the 6 top tasks were related to health care.
+2. For the participants who use VA health care, tasks related to health care were the most important; however, for the participants who don't use VA health care, top tasks were quite different. Only 2 tasks overlapped between the two lists: *Learn about or file for disability compensation (service-related)* and *Get your VA medical records*.
+4. Top tasks also varied by participant age, with older participants focused on health care and burial, and and younger participants focused on education benefits and payment history.
+6. Participants selected an **average of 9.5 tasks as important** (ranging from 1 to 26).
+7. The most frequent tasks (per self-report responses) were all related to health care and aligned closely with the overall top tasks.
 8. It was challenging to recruit people who don't use VA benefits because such people generally aren't interested in providing feedback to VA.
 
 
@@ -75,6 +75,13 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 **1. Top tasks: **
 
 Note: We didn't get enough responses to be statistically significant.
+
+- Schedule or manage health appointments
+- Message your doctor or get a health care message
+  - Check your lab or test results
+  - Refill or track a prescription
+  - Learn about or file for disability compensation (service-related)
+  - Get your VA medical records
 
 ![bar-chart]()
 ![task-table]()
@@ -88,7 +95,8 @@ The task importance question included in the survey during this research was wor
 
 
 # Recommendations
-1. Health care tasks are really important 
+1. Consider grouping together health care tasks on the home page because most people will either want to do many of them or none of them. 
+2. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently enrolled in. 
 
 
 # Next Steps
