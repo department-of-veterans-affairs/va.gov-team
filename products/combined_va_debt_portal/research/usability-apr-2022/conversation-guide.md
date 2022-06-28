@@ -31,7 +31,9 @@ Before we start, a few things I want to mention:
 
 **If for any reason and at any time you want to stop the session, please let me know.** You can take a break from the session or end it altogether. You will not lose your stipend or be penalized in any way if we need to stop.
 
-**During this session, I'm going to have you sign into the new tool we've built in order to make sure it works for your needs. This means we'll be looking at your actual account information.** I'd also like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. **Are you comfortable if I record my screen and audio as we talk today?**
+**During this session, you'll be interacting with a prototype.** This means some things will be clickable, and others will not. Go head and move through the prototype like it was a real website, and I'll be able to help if you get stuck.
+
+**I'm also going to have you sign into the new tool we've built in order to make sure it works for your needs. This means we'll be looking at your actual account information.** I'd also like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. **Are you comfortable if I record my screen and audio as we talk today?**
 
 * If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
@@ -139,20 +141,24 @@ _**Things to watch for:**_
 
 ## Task two: The combined debt portal -- 25 minutes 
 
+To get ready for the next portion of the session, go ahead and sign in to VA.gov.  _Pause recording_
+
+_Resume recording once they're signed in_
+
 ### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s) - if they have both, SKIP to Scenario 2
 
 I'm now going to post a link in the Zoom chat. 
 Paste the following links in the chat (this is the content page, the green button links to the [summary page in UXPin](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i)):
 https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
+What are your thoughts about this page? What is working and not working about it?
+
 * _If they only have debt(s):_
 
-   * What are your thoughts about this page? What is working and not working about it?
    * Let's say you wanted to request financial help for your \[debt type\] debt. What would you do?
 
-* _If they only have copay(s):_
-*
-   * What are your thoughts about this page? What is working and not working about it?
+* _If they only have copay(s)
+
    * What do you expect to be able to do in this tool?
 
    * Let's say you want to pay your copay balance at \[facility name\]. What would you do next?
