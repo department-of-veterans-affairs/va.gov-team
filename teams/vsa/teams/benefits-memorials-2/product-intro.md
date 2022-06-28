@@ -431,7 +431,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
  - [Research Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research)
  
  **Engineering:** 
- - [Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Combined%20FSR%20Rough%20Draft.pdf)
+ - [Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Combined%20FSR%20Rough%20Draft.pdf)(WIP)
  - [e2e Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/testing.md)
 
  **Collaboration Cycle Touchpoints:** 
