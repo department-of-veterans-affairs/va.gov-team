@@ -192,7 +192,7 @@ _Switch to a debt task_
 
 _**If they didn't make it to the overview page**_
 go ahead and go here
-Paste the following links in the chat (this is the content page, the green button links to the [summary page](https://va.gov/manage-debt-and-bills/summary)):
+Paste the following links in the chat (this is the content page, the green button links to the [summary page in UXPin](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/sitemap?mode=i)):
 https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 * What are your thoughts on this page? What is working and not working about it?
