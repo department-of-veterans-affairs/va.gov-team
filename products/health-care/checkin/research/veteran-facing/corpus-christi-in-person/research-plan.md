@@ -108,8 +108,8 @@ Two researchers will be conducting this research.
 
 ### Location 
 
-Corpus Christi VA Clinic
-South Enterprize VA Clinic 
+Corpus Christi VA Clinic<br>
+South Enterprize VA Clinic <br>
 Old Brownsville VA Clinic 
 
 ### Research Materials
