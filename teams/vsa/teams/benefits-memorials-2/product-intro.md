@@ -47,6 +47,7 @@ _"Resources for product team developing these products"_
 - [Summary of Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/sprint-objectives.md)
 - [VA Platform Collab Cycle Information](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) 
 - [Platform Deployment Policies](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html) (incl. Code Freezes)
+- [External Service Integrations](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1889599494/External+Service+Integrations)
 
 
 
@@ -454,7 +455,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 #### Intended Improvements/Next Steps:
 - Depending on discovery, PDFs may be uploaded to DMS service rather than SharePoint (or both?)
 - Possible migration to Lighthouse
-- </br>
+ </br>
 </br>
 </br>
 </br>
@@ -495,7 +496,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
   
 #### Intended Improvements/Next Steps:
 - TBD
-- </br>
+ </br>
 </br>
 </br>
 </br>
