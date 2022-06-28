@@ -2,7 +2,7 @@
 
 |	Data year	|	Benefit/service	|	Number of receipients/beneficiaries
 |	---	|	---	|	--:
-|	FY 2021<sup>1</sup>| Veteran population | 19,088,805
+|	FY 2021<sup>1</sup>| Veteran population (projected) | 19,088,805
 | FY 2021<sup>1</sup>	|	VA Health Care System enrollees	|	9,260,000
 |	FY 2021<sup>1</sup>	|	Total unique patients treated 	|	6,322,423
 |	FY 2021<sup>4</sup>	|	Lives insured	|	5,690,000
