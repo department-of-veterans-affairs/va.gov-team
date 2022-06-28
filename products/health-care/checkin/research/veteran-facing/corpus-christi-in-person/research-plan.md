@@ -43,7 +43,11 @@ This research plan maps to the following moment within the Veteran journey:
 
 ## Research Goals 
 
-Our goal for this research is to utilize our [baseline research plan for the St. Louis pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md), and more recently, [Bay Pines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-plan.md), to evaluate pre-check-in and check-in at additional VAMCs. In addition, the Modernized Check-In Team is building off of the [beneficiary travel research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104) that is pointing to a potential solution that integrates travel reimbursement with check-in. Specifically, we’re looking to accomplish the following: 
+Our goal for this research is to utilize our [baseline research plan for the St. Louis pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md), and more recently, [Bay Pines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-plan.md), to evaluate pre-check-in and check-in at additional VAMCs.
+
+Utilization for check-in across all VISNs with check-in enbaled during the week of June 20 - 24 was 1.2%. Within that week, Texas Valley Coastal Bend HCS (Harlingen, TX) VISN had a utilization of 11%, which far exceeded the average. Our goal is to uncover how Texas Valley Coastal Bend HCS has implemented and operationalized check-in in order to share those findings with product owners, trainers and other VISNs.  
+
+In addition, the Modernized Check-In Team is building off of the [beneficiary travel research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104) that is pointing to a potential solution that integrates travel reimbursement with check-in. Specifically, we’re looking to accomplish the following: 
 
 - Evaluate the effectiveness of pre-check-in and check-in with Veterans
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
