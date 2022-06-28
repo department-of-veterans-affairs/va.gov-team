@@ -72,7 +72,7 @@ UAT went smoothly and no significant findings were uncovered to prevent launch.
 1. _(Main finding)_ Resolve bugs shown on Android mobile device. 
 2. _(Main finding)_ Make phone number clickable. RESOLVED ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42758))
 3. _(#3)_ Confirm that Preferred name hint text is sufficient and dropdown is not needed. 
-4. _(#5)_ Add Remove button to give Veterans more autonomy over selections, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). 
+4. _(#5)_ Remove button could be added to give Veterans more autonomy over selections, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). **Note:** We can not currently do this, as we don't have clearance from our stakeholders.
 5. _(#7)_ Identify if character max or characters allowed for Preferred name can/should be changed.  
 6. _(#8)_ Continue to work towards adding a text input field for Gender identity - reliant on API - and possibly consider revisiting order of terms listed and changing "transgender" to "trans." 
 7. _(#9)_ Determine if any additional information is needed in Gender identity FAQ - return to discussion about Resources & Support article. ([Link to GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36751#issuecomment-1071904916)) 
@@ -125,7 +125,7 @@ _**Next step:** None_
 **All participants decided to update their information for both Preferred name and Gender identity and were ok with not being able to remove information. However, 6/7 said it would be helpful to have the option to remove their answers.** 
 - One participant (transgender) said they would need to think about the pros and cons of identifying with a specific Gender identity and chose “Prefer not to answer”
 
-_**Next step:** Add Remove button to give Veterans more autonomy over selections, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). [Link to GH issue]_
+_**Next step:** Remove button could be added to give Veterans more autonomy over selections, particularly because some participants already had their Gender identity information auto-filled (see Finding #12). **Note:** We can not currently do this, as we don't have clearance from our stakeholders. [Link to GH issue]_
 
 ### Finding #6
 **Preferred name: All participants had a positive response to the Preferred name field and found it to be clear, useful, and easy to use.**
