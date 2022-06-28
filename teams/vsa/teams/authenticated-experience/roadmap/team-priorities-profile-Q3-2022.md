@@ -15,7 +15,7 @@ We did a lot, including:
 ## Work winding down in early Q3
 
 - **Personal information revisions**: We need to finish some post-launch tickets, submitt for 508 review, and thoroughly document our work in Github.
-- **Military information integration through VA Profile**: We need to conduct UAT, then we are ready for launch!
+- **Military information integration through VA Profile**: We need to conduct UAT, then we are ready for launch followed by documentation.
 - **Confirmation to update mailing address after updating home address**: This should launch right at the beginning of July.
 
 ## Upcoming work for Q3 2022 
