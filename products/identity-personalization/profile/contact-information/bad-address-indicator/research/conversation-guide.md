@@ -129,7 +129,7 @@ Task #4: Update Mailing address - 5 minutes
 
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
--   Now I'm going to ask you to imagine that you're reviewing your address and your zip code is incorrect like the alert says. Could you walk me through how you would update that?
+-   Now I'm going to ask you to imagine that you're reviewing your mailing address and your zip code is incorrect like the alert says. Could you walk me through how you would update that?
 	-   _If needed, ask:_
 		-   I saw you hesitated at [action], why was that?
 		-   What information are you searching for?
