@@ -4,7 +4,7 @@ about: For PTEMS Application Teams to request QA Test Plan to be developed durin
   Phase of development.  Open this ticket AT LEAST 4 WEEKS (2 SPRINTS) BEFORE expected
   Platform Staging Review.
 title: "[Product/Feature] PTEMS-QA Test Plan"
-labels: QA, PTEMS, qa-test-plan
+labels: Shared-Support-Team, QA, PTEMS, qa-test-plan
 assignees: tlei123
 
 ---
