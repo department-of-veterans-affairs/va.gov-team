@@ -229,6 +229,8 @@ _**Things to watch for:**_
 
 ## Thank-you and closing -- 2 minutes 
 
+Before we wrap up, I want to let you know we turned this feature on in your account for this session. We'll turn it off later today, so if you go back and try to access it again and can't, don't be alarmed.  You will have access to it once we finish our improvements and publish it on the website.
+
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans, so thank you for your time.
 
 Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
