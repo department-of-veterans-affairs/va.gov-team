@@ -2,7 +2,7 @@
 
 **Last updated June 27, 2022**
 
-If an LOA3 user attempts to update their compensation and pension direct deposit (DD) information , and the VA fraud team has placed a fraud flag on their accoun t, they're blocked from making an update.
+If an LOA3 user attempts to update their compensation and pension direct deposit (DD) information , and the VA fraud team has placed a fraud flag on their account, they're blocked from making an update.
 
 **Note:** This does not apply to education direct deposit information.
 
