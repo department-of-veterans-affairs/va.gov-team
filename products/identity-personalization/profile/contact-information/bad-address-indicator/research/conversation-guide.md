@@ -169,7 +169,7 @@ Task #5: Confirm Mailing address - 5 minutes
 	-   Ok great, that is just about everything I wanted to get your feedback on.
 	-   Lastly, I'd like to make sure that we now have all of your correct information, since we made one small change to your zip code. Could you please take a moment to double check your zip code?
 	-   Does everything seem correct here?
--   Great! That's everything I wanted to get your feedback on. Do you have any questions or thoughts for me before we end the session?
+-   Great! That's everything I wanted to get your feedback on. Do you have any questions or thoughts for me on what we've reviewed?
 
 ## Thank-You and Closing - 1 minutes
 
