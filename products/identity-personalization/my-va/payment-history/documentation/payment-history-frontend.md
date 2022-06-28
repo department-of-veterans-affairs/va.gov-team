@@ -10,12 +10,12 @@ We show this section if a veteran has ever received payments or has any outstand
 
 **Show**
 - If we receive any information from the payment history API *or*
-- If we receive any information from the debts API and it does not equal 0.
+- If we receive any information from the debts API, and the debt is not 0.
 
 **Do NOT show**
-- If we don't receive any information from the payment history API *or*
+- If we don't receive any information from the payment history API *AND*
 - If we don't receive any information from the debts API *or*
-- We receive information from the debts API and the debt equals 0.
+- We receive information from the debts API, and the debt equals 0.
 
 ## UX Specs
 ### Outstanding debt notification
