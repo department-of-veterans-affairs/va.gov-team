@@ -52,6 +52,7 @@ In addition, the Modernized Check-In Team is building off of the [beneficiary tr
 Specifically, we’re looking to accomplish the following: 
 
 - Evaluate the effectiveness of pre-check-in and check-in with MSAs
+- Better understand the percentage of Spanish speakers and if nuances exist within that population about patient check-in  
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
 - Understand how, if at all, MSAs are using VSE-CS
 - Gain insights on the process for staff needing to cancel appointments 
@@ -72,6 +73,8 @@ Specifically, we’re looking to accomplish the following:
 - What changes to check-in can help improve MSA to clinician communication for check-in?  
 - Are MSAs using VSE-CS? If so, how is it being used and why is it being used?  
 - How do Veterans feel about pre-check-in and check-in?
+- What's the percentage of Veterans that are bi-lingual and low English proficient Spanish speakers? 
+- What are some of the potential nuances of check-in that might be challenging for Spanish speakers to understand?  
 - How frequently does staff need to cancel appointments? 
 - What's the process when staff needs to cancel an appointment? 
 - How many days out do appointments typically get cancelled? 
@@ -95,7 +98,7 @@ Specifically, we’re looking to accomplish the following:
 
 This research will be conducted as in-person interviews at Corpus Christi VA Clinic and other clinics that the Corpus Christi VA Clinic Health Administration Services (HAS) team is able to identify. E.g., South Enterprize VA Clinic, Old Brownsville VA Clinic. Our preference is to visit various clinics within the facilities during times of high appointment check-ins. 
 
-We will ask MSAs questions from our conversation guide to measure their perceptions on pre-check-in, check-in, travel reimbursement, etc. and document responses, comments, improvements, etc.  
+We will ask MSAs questions from our conversation guide to measure their perceptions on pre-check-in, check-in, travel reimbursement, Spanish translations, etc. and document responses, comments, improvements, etc.  
 
 We will also arrange a time to meet with travel assistants and ask them questions from our conversation guide to understand what information is used and how to review and approve reimbursement requests. 
 
