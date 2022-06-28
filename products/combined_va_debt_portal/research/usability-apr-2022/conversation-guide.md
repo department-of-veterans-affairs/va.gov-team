@@ -59,7 +59,7 @@ I'd like to start by learning more about your experience with VA health care and
 
 ### Experience with VA Debts
 
-**2. Have you ever had a debt balance with VA, not including health care related debt like co-pays?** (If needed: Debts are usually a result of an overpayment and can include CH33 or Post-911 GI Bill, Compensation and Pension, CH 34, and CH 35 debts.) 
+**2. Are you familiar with the term "VA debt?" What does that mean to you?  THEN: Have you ever had a debt balance with VA, not including health care related debt like co-pays?** (If needed: Debts are usually a result of an overpayment and can include CH33 or Post-911 GI Bill, Compensation and Pension, CH 34, and CH 35 debts.) 
 
    - _If yes:_ 
 
