@@ -163,7 +163,7 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 * [Debt Letters Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/research)
  
  **Engineering:** 
- - [TBD]()
+ - [Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Debt%20%2B%20FSR%20Architecture.pdf)
  
  **Relevant Dates:** 
  - Product Launch Date: Late 2020
@@ -175,7 +175,8 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 * The portal shows the status of a debt through the 'diary code' being sent to us (e.g. "awaiting payment," "your compromise offer was accepted," "on hold," etc.) and tells a Veteran what their next steps are.
 * The stakeholder group for this is VBA's Debt Management Center (Jill is our main stakeholder) 
 * The types of debts shown in the product currently are the ones whose PDFs that are available through VBMS, but we are able to pull data for those other debts.
-* Research during this project uncovered that Veterans expected to find medical copays in the same place as debts, which led to the Combined Debt Portal 
+* Research during this project uncovered that Veterans expected to find medical copays in the same place as debts, which led to the Combined Debt Portal
+* Future state: moving to umbrella project that contains Benefit Debt + Medical Copays  
 
 
 ### **FAQs: about the VBA Debt Portal** 
