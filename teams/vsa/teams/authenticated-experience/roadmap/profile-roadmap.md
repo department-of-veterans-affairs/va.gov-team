@@ -7,7 +7,6 @@
 |Project|Status|
 |----|----|
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Usability testing |
-|[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Read out|
 |Reintegrate military info through VA Profile | UAT |
 
 ### Projected timelines for current projects & enhancements
