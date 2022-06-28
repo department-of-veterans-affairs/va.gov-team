@@ -2,7 +2,7 @@
 
 **Last updated June 27, 2022**
 
-If an LOA3 user attempts to update their compensation and pension direct deposit information (DD), and they don't have a valid mailing address or home, work, or mobile number on file, they're blocked from making an update and prompted to review their contact information. There is no actual requirement for a user to have a valid address and phone to update direct deposit data; this requirement is a symptom of the BGS service that updates direct deposit.
+If an LOA3 user attempts to update their compensation and pension direct deposit information (DD), and they don't have a valid mailing address or home, work, or mobile number on file, they're blocked from making an update and prompted to review their contact information. There is no actual requirement for a user to have a valid address and phone to update direct deposit data; this requirement is a symptom of the BGS service that updates direct deposit and how functionality used to work when the ability to update direct deposit existed on eBenefits.
 
 In June 2022, the DD team started working with the BGS team to remove contact information from this service. That work is currently in progress.
 
