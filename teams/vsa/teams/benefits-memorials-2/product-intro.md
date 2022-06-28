@@ -317,10 +317,9 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
  -  [UXPin Mockups Link](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages//simulate/sitemap?mode=i)
 - [MCP Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research)
 - [Ideation Miro Board](https://miro.com/app/board/o9J_lFg6K9s=/)
-- [MCP Diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture.pdf)
  
  **Engineering:** 
- - [TBD]()
+ - [Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture.pdf)
 
 **Collaboration Cycle Touchpoints**
 - [Kickoff #20449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20449)      
@@ -332,7 +331,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [Privacy and Security Review #337](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/337)                
 
  **Relevant Dates:** 
- - Product Launch Date: XXX
+ - Product Launch Date: January 2022
 
 #### Notes about this project:
 
@@ -351,8 +350,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - Charges / payments table (trimmed from MVP)
 - Showing facilities with $0 balances and their respective bills from the past 6 months
 - Extending data past 6 months
-- Improving to (more) real-time data
-- Payment agreement data / FSR status
+- Improving to (more) real-time data (possibly pulled from CDW
+- Payment agreement data / FSR status (also possibly accessible from CDW)
 - Status (currently unsupported with their systems)
 - (Long-term goal) combine with debt portal so all money owed is visible
 
