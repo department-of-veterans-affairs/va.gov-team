@@ -138,13 +138,12 @@ _**Things to watch for:**_
 ---
 
 ## Task two: The combined debt portal -- 25 minutes 
-Paste the following links in the chat (this is the content page, the green button links to the [summary page](https://va.gov/manage-debt-and-bills/summary)):
-https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
-
 
 ### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s) - if they have both, SKIP to Scenario 2
 
 I'm now going to post a link in the Zoom chat. 
+Paste the following links in the chat (this is the content page, the green button links to the [summary page](https://va.gov/manage-debt-and-bills/summary)):
+https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 * _If they only have debt(s):_
 
