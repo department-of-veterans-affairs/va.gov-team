@@ -1,3 +1,6 @@
+# NOTE
+This document is deprecated.  You can find the [latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) on the Platform website.
+
 # Troubleshooting for VA.gov Research Sessions in Prod
 
 **Problem: User cannot log in**
