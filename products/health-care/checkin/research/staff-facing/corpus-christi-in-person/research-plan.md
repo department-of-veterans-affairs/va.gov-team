@@ -54,7 +54,9 @@ Specifically, we’re looking to accomplish the following:
 - Evaluate the effectiveness of pre-check-in and check-in with MSAs
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
 - Understand how, if at all, MSAs are using VSE-CS
+- Gain insights on the process for staff needing to cancel appointments 
 - Gain insights on understanding the optimal experience for incorporating travel reimbursement into the check-in experience for Veterans 
+- Understand what information travel assistants use and how to review and approve reimbursement requests 
 
 ### Research Questions
 
@@ -70,9 +72,12 @@ Specifically, we’re looking to accomplish the following:
 - What changes to check-in can help improve MSA to clinician communication for check-in?  
 - Are MSAs using VSE-CS? If so, how is it being used and why is it being used?  
 - How do Veterans feel about pre-check-in and check-in?
+- How frequently does staff need to cancel appointments? 
+- What's the process when staff needs to cancel an appointment? 
+- How many days out do appointments typically get cancelled? 
 - When do Veterans expect to complete a travel reimbursement claim in relation to their appointment? 
-- What steps should a Veteran have to complete for filing a travel reimbursement claim? 
-- What steps could be removed from the existing BTSSS process to make it easier for Veterans to file a claim?  
+- What information do travel asisstants use to review and approve reimbursement requests?
+- How do travel assistants use that information to review and approve a request?  
 
 ### Hypothesis 
 
@@ -83,6 +88,7 @@ Specifically, we’re looking to accomplish the following:
 1. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased. 
 1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE. 
 1. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended. 
+1. MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter. 
 1. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
 
 ## Method
@@ -90,6 +96,8 @@ Specifically, we’re looking to accomplish the following:
 This research will be conducted as in-person interviews at Corpus Christi VA Clinic and other clinics that the Corpus Christi VA Clinic Health Administration Services (HAS) team is able to identify. E.g., South Enterprize VA Clinic, Old Brownsville VA Clinic. Our preference is to visit various clinics within the facilities during times of high appointment check-ins. 
 
 We will ask MSAs questions from our conversation guide to measure their perceptions on pre-check-in, check-in, travel reimbursement, etc. and document responses, comments, improvements, etc.  
+
+We will also arrange a time to meet with travel assistants and ask them questions from our conversation guide to understand what information is used and how to review and approve reimbursement requests. 
 
 Two researchers will be conducting this research. 
 
