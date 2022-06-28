@@ -64,6 +64,7 @@ Specifically, we’re looking to accomplish the following:
 - Do Veterans assume they still have to do day-of check-in when pre-check-in is complete? 
 - What’s working and not working with pre-check-in and check-in? 
 - What changes could help improve the check-in process?  
+- Was there anything difficult to understand or could be communicated more clearly with the Spanish version of check-in?   
 - How often are MSAs interacting with Veterans during the check-in process? 
 - Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in? 
 - How often are MSAs troubleshooting errors or clearing review flags?
@@ -80,6 +81,7 @@ Specifically, we’re looking to accomplish the following:
 1. Veterans who use pre-check-in are able to complete the required steps. 
 1. Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment. 
 1. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
+1. Check-in was easy to understand and used plain language for Spanish speakers.  
 1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
 1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
 1. MSAs will have shorter lines of Veterans waiting to be checked in. 
