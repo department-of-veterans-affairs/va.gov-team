@@ -14,6 +14,7 @@
 |	FY 2021<sup>4</sup> | Veterans in receipt of Individual Unemployability benefits | 374,217
 |	FY 2020<sup>2</sup>	|	Non-service-connected disability Veteran and survivor pension 	|	378,670
 |	FY 2020<sup>2</sup>|	Attendees at Transition Assistance Program (TAP) events  	|	213,343 attendees - 70,258 events
+| Estimated annual<sup>5</sup> | Number of transitioning service members | 200,000 |
 |	FY 2020<sup>2</sup>	|	VA fiduciary program services 	|	162,779
 |	FY 2020<sup>2</sup>	|	Veteran Readiness and Employment participants	|	123, 490
 |	FY 2020<sup>2</sup>	|	Borrowers saved from foreclosure	|	119,513
@@ -30,6 +31,7 @@
 
 <sup>4</sup>VA Benefits & Health Care Utilization pocket card, updated 4/21/2022
 
+<sup>5</sup>[US Governent Accountability Office](https://www.gao.gov/products/gao-19-438r)
 
 
 
