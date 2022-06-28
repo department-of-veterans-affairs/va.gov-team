@@ -83,7 +83,7 @@ Task #1: Review Personal information page and alert - 3 minutes
 -   First, please go to your Profile by selecting your name (located in the top right corner).
 -   Before you select anything else, I'll have you go over this page. Could you briefly tell me about what's included here?
 -   What stands out to you on this page?
-	-   _If needed:_ Did you notice the gray box with the yellow stripe?
+	-   _If needed:_ Did you notice the alert (gray box with the yellow stripe)?
 -   What is your interpretation of the alert?
 -   How important does this alert information seem?
 -   Is there anything confusing about the alert?
@@ -113,9 +113,9 @@ Task #3: Review Contact information alert - 3 minutes
 -----------------------------------------------------
 
 **Task goal: Make sure the participant understands the information included in the Contact information alert and can easily act on it.**
--   Now before you select anything, I'll have you review this page. Could you tell me briefly about what's included here?
+-   Now before you select anything, I'll have you review this page as well. Could you tell me briefly about what's included here?
 -   What stands out to you on this page?
-	-   _If needed:_ Did you notice the gray box with the yellow stripe?
+	-   _If needed:_ Did you notice the alert (gray box with the yellow stripe)?
 -   What's your interpretation of that alert?
 -   How important does the alert information seem?
 -   Is there anything confusing about this alert?
