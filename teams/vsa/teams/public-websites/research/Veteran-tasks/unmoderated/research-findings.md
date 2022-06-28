@@ -62,11 +62,12 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 # Key Findings
 
-1. **Overall top tasks**: The tasks selected by the most people as important were...5 of 6 were health-related. 
-2. **Top tasks for those who don't use VA health care**: For the x% of participants who don't use VA health care, the top tasks were different...Overlap is 2 tasks.
-3. Overlap between overall top tasks and those 
-4. (Preliminary results) Participants selected an **average of X tasks as important** (ranging from Y to Z).
-5. It was hard for Perigean to recruit people who don't use VA benefits because such people generally aren't interested in providing feedback to VA.
+1. **Overall top tasks**: Most top tasks across all survey participants were health care related.  tasks selected by the most people as important were...5 of the 6 were health-related. 
+2. For participants who don't use VA health care, the top tasks were different.   For the x% of participants who don't use VA health care, the top tasks were different...Overlap is 2 tasks.
+3. Top tasks also varied by participant age, with older participants...and younger participants...
+6. Participants selected an **average of X tasks as important** (ranging from Y to Z).
+7. Most frequent tasks (by self-report) aligned with the top tasks.
+8. It was challenging to recruit people who don't use VA benefits because such people generally aren't interested in providing feedback to VA.
 
 
 # Details of Findings 
@@ -87,7 +88,7 @@ The task importance question included in the survey during this research was wor
 
 
 # Recommendations
-1. 
+1. Health care tasks are really important 
 
 
 # Next Steps
