@@ -8,11 +8,11 @@ If an LOA3 ID.me or Login.gov user attempts to update their compensation and pen
 
 ## UX
 - If a user with this flag in place attempts to update their DD information, they will see an error message at the top of the DD form.
-- We display the generic system error when this flag is in place
+- We display a generic error when this flag is in place.
 - We're working with the EVSS team to improve the data sent so we can display a more accurate and helpful message to the user.
 - Uses the [alert component](https://design.va.gov/components/alert) from the VA design system
-- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ELA5LMg)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/09y85M0)
+- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Kv1Q0yD)
+- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/wLdJ57D)
 
 ## Codes
 TBD
