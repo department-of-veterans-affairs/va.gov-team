@@ -229,6 +229,8 @@ _**Things to watch for:**_
 
 * Was there anything missing that you expected to see?
 
+* Talk to me about the difference between copays, bills, and debts. What do those words mean to you?
+
 * How would you describe the web pages we looked at today, in a few words?
 
 * Do you have any other thoughts on what we talked about today?
