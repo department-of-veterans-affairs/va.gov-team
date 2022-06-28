@@ -478,6 +478,54 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 ## Sprint 78 (7/13 - 7/26)
 
+### Personal info revisions
+
+**PM**
+
+- Submit for 508 review (or at least find out what we need to do for this)
+
+### Military info updates
+
+We should be good to launch this, assuming analytics are good to go and UAT doesn't yield any issues.
+
+**PM**
+
+- Coordinate UAT (internal with real veterans on the VA.gov team)
+- Coordinate launch
+
+**BE - Tom**
+
+- Launch to 25%
+- Launch to 50%
+- Launch to 100%
+- Fully document the feature in [the military info github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
+  - Given that this is a pretty simple read-only feature, this should be a low level of effort. However, I'd still recommend grabbing 30 minutes of Liz's time to consulte on how we can be thorough about this. There are probably things that can be learned from her direct deposit docs, recognizing that the military info documentation will be much simpler since the feature is much less complex.
+
+### Notification preferences
+
+- Determine if we are going to pursue any default opt-in work now
+- TBD based on stakeholder needs and scheduling. We've got the MHV working group and 1095B functionality on our radar and will meet with those teams as needed.
+
+### Bad address indicator
+
+**PM**
+
+- Finalize QA documentation
+- Request QA for sprint 80 (8/10-23)
+
+**Design - Christina**
+
+- Summarize research
+- Design updates from research (if applicable)
+
+### Accessibility updates
+
+- Document all the accessibility updates with the profile in one place. This might include:
+  - Notes from our conversation with Angela and Josh from a few weeks ago.
+  - Editing profile content on a separate page instead of in-line.
+  - Updates to how we handle address validation.
+  - Other issues in our backlog
+- Depending on how long this takes, we could regroup to start talking about prioritization/strategy. If there's not time, this can wait until next sprint.
 
 ## Sprint 79 (7/27 - 8/9)
 
