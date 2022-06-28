@@ -2,7 +2,7 @@
 
 **Last updated June 27, 2022**
 
-If an LOA3 ID/me or Login.gov user attempts to update their compensation and pension direct deposit (DD) information, and the VA fraud team (separate team from OCTO based out of Utah) has placed a fraud flag on their account, they will be blocked from making an update.
+If an LOA3 ID.me or Login.gov user attempts to update their compensation and pension direct deposit (DD) information, and the VA fraud team (separate team from OCTO based out of Utah) has placed a fraud flag on their account, they will be blocked from making an update.
 
 **Note:** This does not apply to education direct deposit information.
 
