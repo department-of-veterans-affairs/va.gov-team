@@ -6,11 +6,16 @@
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/p/43720C90-8E38-4058-8213-B52543FFE8C7/?search=payment)
 
 ## When to show the ‘Benefit payments and debt’ section
+We show this section if a veteran has ever received payments or has any outstanding debt.
+
 **Show**
-- If we receive any information from the payment history API *or* the debts API and the debts API doesn't equal 0, then we will show this section.  
+- If we receive any information from the payment history API *or*
+- If we receive any information from the debts API and it does not equal 0.
 
 **Do NOT show**
-- If we don't receive any information from the payment history API *or* the debts API *or* the debts API equals 0.
+- If we don't receive any information from the payment history API *or*
+- If we don't receive any information from the debts API *or*
+- We receive information from the debts API and the debt equals 0.
 
 ## UX Specs
 ### Outstanding debt notification
