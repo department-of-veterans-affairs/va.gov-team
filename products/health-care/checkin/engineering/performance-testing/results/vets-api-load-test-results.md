@@ -102,13 +102,15 @@ The graphs below show the data for an extended period after the load was stopped
 
 ## Assumptions
 
-We should note that the 1x load used for the tests is the peak projected load when all VISNs are enabled and close to 100% of check-ins and pre check-ins are done through mobile devices. We currently are in the process of enabling mobile check-in and are seeing increased usage but it is still less than 0.5% of the peak projected load (as of 6/26/2022 we have a [peak](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?from_ts=1654066800000&to_ts=1656282780000&live=false) of about ~1000 check-ins and ~2500 pre check-ins on a given day). We currently don’t have estimates on how quick the actual ramp up of mobile check-ins will be and it’s something we’ll continue to monitor.
+* We should note that the 1x load used for the tests is the peak projected load when all VISNs are enabled and close to 100% of check-ins and pre check-ins are done through mobile devices. We currently are in the process of enabling mobile check-in and are seeing increased usage but it is still less than 0.5% of the peak projected load (as of 6/26/2022 we have a [peak](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?from_ts=1654066800000&to_ts=1656282780000&live=false) of about ~1000 check-ins and ~2500 pre check-ins on a given day). We currently don’t have estimates on how quick the actual ramp up of mobile check-ins will be and it’s something we’ll continue to monitor.
 
-/todo provide link to deployment schedule/status
+    /todo provide link to deployment schedule/status
 
-We should also note that above load calculations assume that Veterans go through both check-in and pre check-in scenarios to completion. However, in real life we’re seeing some % of scenarios being abandoned within an intermediate step due to various reasons. The impact is that the actual production load on vets-api is going to be somewhat lower than estimated peak.
+* We should also note that above load calculations assume that Veterans go through both check-in and pre check-in scenarios to completion. However, in real life we’re seeing some % of scenarios being abandoned within an intermediate step due to various reasons. The impact is that the actual production load on vets-api is going to be somewhat lower than estimated peak.
 
-Lastly, these results are based on the current check-in functionality. We have plans to add more features to the check-in scenarios (ability to update demographics, BTSSS) and that will create a need to revisit the load tests and the recommendations.
+* A decision we made when running these tests was to exclude any downstream services by mocking the calls, adding an average response delay and isolating these tests to vets-api only. This also let us avoid the complexity of setting up test data in downstream systems like VistA. But it also meant that these tests were run in a simulated ideal scenario, where all downstream services perform well under load. In real world, we see stochastic delays and/or errors due to multiple downstream services/systems involved, which may result in vets-api server threads being held for longer duration, or other issues due to downstream errors.
+
+* Lastly, these results are based on the current check-in functionality. We have plans to add more features to the check-in scenarios (ability to update demographics, BTSSS) and that will create a need to revisit the load tests and the recommendations.
 
 ## Follow-ups/Recommendation
 
