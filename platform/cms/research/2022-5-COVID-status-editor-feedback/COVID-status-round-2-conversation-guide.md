@@ -1,7 +1,4 @@
-# Conversation Guide
-COVID status round 2 editor feedback
-
-June/July 2022
+# Conversation Guide for COVID Facility Operating Status – June/July 2022
 
 ## Moderator logistics
 Prep a sharing window with:
@@ -23,7 +20,7 @@ Before we start, a few things I want to mention:
 * If for any reason and at any time you want to stop the session, please let me know.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-Start recording.
+*Start recording.
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Interview Questions 
@@ -41,11 +38,11 @@ Before we dive in to the COVID facility status, I’d like to learn a little bit
 As you know, at the end of May VHA implemented a new COVID facility status, to give Veterans consistent information about COVID health protection guidelines at VAMC facilities. 
 * In general, how has this effort been going for you so far? 
 
-Screenshare, logged in as them in staging
+*Screenshare, logged in as them in staging
 
 Now we’ll take a look at the COVID health protection guidelines. I’m logged into the CMS as you. This is not the live site–I can’t make any changes, so don’t worry. This is just to have a visual aid. 
 
-Once logged in to Drupal CMS, show COVID operating status field and ask:
+*Once logged in to Drupal CMS, show COVID operating status field and ask:
 
 * Looking at the COVID health protection guidelines, what specific language is working or not working for your facility? Why? (make sure they address each line)
 * What other COVID messages did you want to convey to Veterans, that are not covered by the national language?
@@ -59,7 +56,7 @@ Once logged in to Drupal CMS, show COVID operating status field and ask:
 
 Changing gears a little, I’m also curious about how you convey other types of information about your facility to Veterans. 
 
-(Navigate to each content type to have a visual aid)
+*Navigate to each content type to have a visual aid
 
 * When do you use [content type]?  
   * Facility operating status
