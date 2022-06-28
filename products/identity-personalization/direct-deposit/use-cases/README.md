@@ -1,6 +1,6 @@
 # Direct Deposit Use Cases
 
-**Last updated:** June 23, 2022
+**Last updated:** June 28, 2022
 
 Direct deposit use case documentation is available in this directory.
 
