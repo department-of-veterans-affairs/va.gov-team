@@ -32,7 +32,7 @@ Before we start, a few things I want to mention:
 
 -   **If for any reason and at any time you want to stop the session, please let me know**.
 
--   **Are you comfortable if I record my screen and audio as we talk today?** I will stop the recording while you are logging into the site so we don't record your personal information. We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+-   **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 
 	-   _If yes:_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
