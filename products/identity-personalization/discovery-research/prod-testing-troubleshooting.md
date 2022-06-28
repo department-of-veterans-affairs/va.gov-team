@@ -1,3 +1,6 @@
+# NOTE
+This document is being deprecated. 
+
 # Troubleshooting for VA.gov Research Sessions in Prod
 
 **Problem: User cannot log in**
