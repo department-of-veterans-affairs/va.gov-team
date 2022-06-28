@@ -111,7 +111,9 @@ Thank you so much! That was everything I wanted you to review today. This has be
 
 
 ## Thank-You and Closing - 1 minute
-Before we go, I was wondering if you have any friends or family that might be interested in participating in future sessions? 
+The feature we tested today is called a redirect - the website does not normally route you to My VA after you log in from the homepage. We turned that on for you just for this session, and we’ll turn it off later day. I want to give you a heads up about that in case you log in again and don’t experience that.  Once we release that feature in the coming weeks, your account will work like it did in the session today.
+
+One more thing - I was wondering if you have any friends or family that might be interested in participating in future sessions? 
 
 If yes - wonderful! It’s so helpful to have people participate in sessions like these. I’ll have our team send you a blurb you can pass along to them.
 
