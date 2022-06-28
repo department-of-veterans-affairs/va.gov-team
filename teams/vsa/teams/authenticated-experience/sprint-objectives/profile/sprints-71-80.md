@@ -490,7 +490,6 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 
 **PM**
 
-- Coordinate UAT (internal with real veterans on the VA.gov team)
 - Coordinate launch
 
 **BE - Tom**
