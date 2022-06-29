@@ -133,3 +133,11 @@ Next steps for our team are to share the results with the platform team and disc
     - When does on-call get notified of the increase in traffic and the need for scaling up the fleet?
 - **Alerts/Notifications**
     - Does production vets-api have alerts configured to notify appropriate team(s) in case of anomalies (unexpected load spike etc)?
+
+## Update 06/29/2022: Discussion with Platform Infrastructure team
+
+- Instance Scaling: Currently in production, additional instances (up to a maximum of 32) are provisioned if CPU usage of any instance is above a threshold of 60% for 3 health checks. These health checks are 60 seconds apart, so additional instances would be provisioned within 3 minutes of any instance experiencing a sustained load that causes CPU to stay above the threshold. Currently, CPU is the only metric used for scaling.
+- Infrastructure: Docker containers running on EC2 instances. There is an effort underway to move to EKS, which will allow us to monitor additional metrics like Puma backlog queue size to scale up/down. Currently it's been deployed to dev environment and the plan is to move to staging in Q3.
+- Puma threads: Currently, Puma is configured with 16 threads (4 threads per core). Check-in transactions are relatively lightweight so a single thread doesn't take up that much resources, but other applications can have more resource intensive threads. 
+- Monitoring/Alerts: Metrics are being migrated from Prometheus to DataDog. Any scaling event (for example, when a new instance is provisioned based on CPU threshold criteria) results in an alert.
+- Overall, we concluded that since currently the check-in related load is not significant, there's no need for changes. We'll continue to monitor the check-in volume and revisit the load testing effort when needed. 
