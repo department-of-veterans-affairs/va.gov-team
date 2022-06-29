@@ -18,20 +18,20 @@
 ##### Engineering Sprint Goals
 - Support VISN rollout (last sprint for this)
 - Get CDW access (Adrian, Gaurav, Lori)
-- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
-    - Complete the 4 tickets
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     - Complete and Release
+- [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
+    -  Complete and Release
+- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
+    - Complete the 4 tickets
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
     - Incorporate files
     - Generate screenshots for WF documents
-    - Sent WF documents to State Department for QA approval
+    - Send WF documents to State Department for QA approval
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Incorporate files
     - Generate screenshots for WF documents
-    - Sent WF documents to State Department for QA approval
-- [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    -  Complete and Release
+    - Send WF documents to State Department for QA approval
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Complete but continue to support CHIP team as necessary    
 - Enhancements
