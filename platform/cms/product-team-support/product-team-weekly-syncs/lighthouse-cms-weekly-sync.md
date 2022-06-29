@@ -13,6 +13,12 @@
 
 </details>
 
+## Monday, July11, 2022
+*Last meeting*
+
+## Monday, July7, 2022
+*Independence Day* :fireworks:
+
 ## Monday, June 27, 2022
 *Last meeting*
 * Adjust facility migrations timing
