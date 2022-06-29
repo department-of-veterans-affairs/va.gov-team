@@ -9,6 +9,9 @@ Previously, this EHR data point has been maintained via a combination of:
 1. **Hard-coded data array.** Specifically, the `CERNER_FACILITY_IDS` array found in [this file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/utilities/cerner/index.js). When a VAMC facility is cutting over from VistA to Cerner, a value representing that facility is added in this array.
 2. **Flipper feature toggles.** When a value is added to the previously mentioned array in code, a corresponding feature toggle is added for that specific facility. Then, that toggle can be flipped in staging/prod as necessary to finalize the cutover to Cerner for the facility in question.
 
+For more information: [How to set up a VAMC's Cerner integration within the VA.gov health care portals
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md) documents the previous process and will eventually be deprecated.
+
 _Note: While the EHR system is something that applies to an entire VAMC system, the data point that is managed in this approach is the main facility within that VAMC system. So, when working with this approach, the term "facility" is used to represent the entity that employs a certain EHR. In the new approach, the data point exists at the VAMC-System level. Importantly, this detail is not a critical distinction from the perspective of the app/widget developer. It's just noted here because it affects the language that is used to discuss the data point._
 
 ### How this data point is managed by Drupal
