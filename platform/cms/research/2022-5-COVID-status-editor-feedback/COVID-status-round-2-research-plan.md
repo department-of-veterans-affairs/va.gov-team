@@ -2,13 +2,21 @@
 
 ## Background
 
-VHA introduced 3 levels of standard COVID-19 health protection guidelines in May 2022. VAMC editors in Drupal CMS must select the current level for their locations so that Veterans can see the level for those locations on VA.gov.
+In July 2020, in the early part of the COVID-19 pandemic, OCTODE and VHA Digital Media collaborated with the local facilities and the Lighthouse team to create a single source of truth to help inform Veterans of the status of services at each health care facility through the use of the free-text Facility Status in Drupal. 
 
-The language describing a facility’s COVID operating status is managed centrally by the Office of Health Transformation (OHT). It was designed to be general enough to encompass a variety of use cases at the facility level. However, some facilities have found that their local policies don’t fit into the national language. Visitor policies are a particular source of discrepancy. 
+In May of 2022, VHA's Office of Health Transformation (OHT) wished to standardize the messaging around the patient experience and introduced 3 levels of standard COVID-19 health protection guidelines. These guidelines are based upon a high, medium, or low transmission rate in a facility's locality based on CDC transimssion rate data, updated each Monday. VAMC editors in Drupal CMS must select the current level for their locations (High, Medium, or Low) that then associates national standard guidance for the facility to enable to Veterans see the level for any specific health care facility location on VA.gov and the associated national standardized guidance. 
 
-Some Drupal CMS editors have worked around this by adding further details related to COVID-19 health protection guidelines to other parts of their website. For example, as of June 22, 2022, 97 facilities have supplemental COVID-related information published in their website banner alerts.
+The language describing a facility’s COVID operating status is managed centrally by the VA.gov Content Team in coordination with the Office of Health Transformation (OHT) and the COVID Communication Task Force. The text focused on (1) Masking (2) Screening (3) Visitors and (4) Virtual Care. It was created by VACO to be general enough to encompass a variety of use cases at the facility level however the field was not consulted before crafting the messages. The associated text is as follows:
 
-OHT is interested in allowing site editors to customize information about COVID guidelines. But first we need to understand what information editors want to convey to Veterans, and what is and isn’t working about the current COVID status language. 
+| Level | Masking/Physical Distancing | Screening | Visitors | Virtual Care |
+| ----- | ----- | ----- | ----- | ----- |
+| High | Everyone must wear a mask and practice physical distancing | We may screen you for COVID-19 symptoms at the entrance. | Approved visitors only. Ask your care team who can visit. | Ask your team about phone or video appointment options. |
+| Medium | Everyone must wear a mask | Your care partner is welcome (no other visitors). | Please self-screen. If you've had any COVID-19 symptoms in the past 48 hours, call first unless you need care now. | N/A |
+| Low | Everyone must wear a mask | Visitors are welcome | Please self-screen. If you've had any COVID-19 symptoms in the past 48 hours, call first unless you need care now. | N/A |
+
+During the roll-out/adoption, some facilities expressed concern that their local policies don’t align with the national language. This resulted in some facilities not adopting the new messaging protocol. In addition, for those that did adopt the messaging, the visitor policy directing Veterans to "ask your care team who can visit" has resulted in an increase of calls to local facilities.
+
+Some Drupal CMS editors have worked around the challenges by adding further details related to COVID-19 health protection guidelines to other parts of their website. For example, as of June 22, 2022, 97 facilities have supplemental COVID-related information published in their full-width banner alerts which result in a degraded Veteran experience on the websites (large amounts of text, multiple banners, etc).
  
 ## OCTO objectives
 ### North Star
@@ -30,10 +38,10 @@ Veterans entering the fourth stage of their VA journey (Starting up) start to se
 The COVID status of their chosen facility is vital to helping Veterans understand what to expect so they can plan their next visit. For those relying on the web channel for information, VA.gov plays an instrumental role in describing a facility’s COVID status and related visitation rules.
 
 ## Research goals
-The primary goals of this research is to determine how the COVID-19 facility operating status content is working or is not working, and why, from a Public Affairs Officer (PAO) perspective.
+The primary goals of this research is to understand from the perspective of Public Affairs Officers (PAOs) how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility, what parts of the messaging are successful, what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities.
 
 ## Outcomes
-The results of this research will be used to develop recommendations for OCTO-DE and OHT to inform a potential iteration of the COVID facility operating status in Drupal.
+The results of this research will be used to develop recommendations for OCTO-DE and OHT to inform a future direction for how to inform Veterans about the impact of COVID-19 protection levels at a specific facility and how that may impact their health care journey.
 
 ## Hypothesis
 PAOs want the flexibility to add specific, local guidance to the national COVID operating status language, in order to provide Veterans with the info they need for their visit.
