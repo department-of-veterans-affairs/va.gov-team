@@ -10,6 +10,3 @@ assignees: ''
 ## Tasks
 - [ ] Decide what success looks like for the Epic
 - [ ] Determine how we will measure success
-- [ ] Create metrics to capture measurements
-- [ ] Present to the ideas to the team
-- [ ] Create follow-up ticket to monitor the metrics over time (what time period?)
