@@ -4,6 +4,10 @@ This document explains how we prioritize content for translation on VA.gov.
 
 ## Table of contents
 [Guiding principles](#guiding-principles)
+[Document scope](#document-scope)
+[Prioritizing languages](#prioritizing-languages)
+[Prioritizing content by topic](#prioritizing-content-by-topic)
+[Prioritizing content by benefit](#prioritizing-content-by-benefit)
 
 ## Guiding principles
 This prioritization takes into account technical blockers and team capacity to ensure that we can follow our 5 guidelines principles for multilingual content:
@@ -77,11 +81,13 @@ Refer to the next section for how we're prioritizing content by benefit.
 This content includes select additional benefit content that meets either of these criteria:
 
 - The content requires a response or action from the Veteran or family member that, if not taken, could lead to negative consequences for that individual (such as content on debt)
-- Analytics and research show the content to be of particular importance to Veterans and family members with limited English proficiency (for example, medical appointments and travel reimbursement)
+- Search data and usability research show the content to be of particular importance to Veterans and family members seeking content in Spanish (for example, medical appointments and travel reimbursement)
 
 ## Prioritizing content by benefit
 
 Within vital benefit content for initial access, we prioritize benefits based on need.
+
+Analytics data shows the following:
 
 - Disability and health care are top areas of current pageviews for people who visit VA.gov with their browsers set to Spanish.
 
