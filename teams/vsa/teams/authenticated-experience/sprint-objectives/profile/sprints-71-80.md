@@ -517,14 +517,14 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 - Summarize research
 - Design updates from research (if applicable)
 
-### Accessibility updates
+### Documentation
 
-- Document all the accessibility updates with the profile in one place. This might include:
-  - Notes from our conversation with Angela and Josh from a few weeks ago.
-  - Editing profile content on a separate page instead of in-line.
-  - Updates to how we handle address validation.
-  - Other issues in our backlog
-- Depending on how long this takes, we could regroup to start talking about prioritization/strategy. If there's not time, this can wait until next sprint.
+**Design - Liz**
+
+- Create plan for documentating Contact Info section
+  - This is a big one, and includes address validation.
+  - I think Christina has already put together some documentation on the new confirmation modal we added to the home address field that allows people to update their mailing address at the same time, so you might want to check in with her about this.
+- Start on documentation updates  
 
 ### Forms system updates
 
@@ -544,3 +544,12 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 - Samara: Aug 1 - 5
 
 ## Sprint 80 (8/10 - 8/23)
+
+### Accessibility updates
+
+- Document all the accessibility updates with the profile in one place. This might include:
+  - Notes from our conversation with Angela and Josh from a few weeks ago.
+  - Editing profile content on a separate page instead of in-line.
+  - Updates to how we handle address validation.
+  - Other issues in our backlog
+- Depending on how long this takes, we could regroup to start talking about prioritization/strategy. If there's not time, this can wait until next sprint.
