@@ -63,31 +63,37 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 # Key Findings
 
 1. Across all survey participants, **5 of the 6 top tasks were related to health care**:
-    1. Schedule or manage health appointments
-    1. Message your doctor or get a health care message
-    1. Check your lab or test results
-    1. Refill or track a prescription
-    1. Learn about or file for disability compensation (service-related)
-    1. Get your VA medical records
 
-3. For the participants who use VA health care, tasks related to health care were the most important; however, **for participants who don't use VA health care, top tasks were quite different** (see list below; only 2 tasks overlapped with the list above):
-    1. Learn about or file for disability compensation (service-related) -- *OVERLAP*
-    1. Learn about or apply for education benefits
-    1. Apply for a home loan Certificate of Eligibility (COE)
-    1. Update your contact information with VA 
-    2. Review or update your dependents
-    1. Get your VA medical records -- *OVERLAP*
+![top-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps.png)
 
-4. **Top tasks also varied by participant age**, with older participants favoring health care and burial, while younger participants more focused on education benefits and payment history.
+2. For the participants who use VA health care, tasks related to health care were the most important; however, **for participants who don't use VA health care, top tasks were quite different** (only *disability compensation* and *VA medical records* tasks overlapped).
+
+<details>
+  <summary>Click to show details</summary>
+
+  ![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
+
+  ![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
+    
+</details>
+
+3. **Top tasks also varied by participant age**, with older participants favoring health care and burial, while younger participants more focused on education benefits and payment history.
+
+<details>
+  <summary>Click to show details</summary>
+
+![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
+
+![top-tasks-under35](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35.png)
+    
+</details>
+
 6. Participants selected an **average of 9.5 tasks as important**, ranging from 1 to 26. This was interesting because we didn't include the "select up to 10" wording that was originally in the survey question.
 7. The most frequent tasks (per open-ended responses) were all related to health care and aligned closely with the overall top tasks.
 8. Here are the **least important tasks overall**:
-     1. Learn about or apply for monthly Veterans pension payments
-     1. Verify your monthly school enrollment
-     1. Learn about or order hearing aid batteries
-     1. Get help with your rent, utility bills, or other housing-related expenses
-     1. Apply to receive benefits as a Veteran's caregiver
-     1. Get help with your VA debt
+
+![low-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/low-tasks-all-ps.png)
+
 10. It was **challenging to recruit people who don't use VA benefits** because such people generally aren't interested in providing feedback to VA. We wanted 20% of such particpants but instead got only 2%.
 
 
@@ -99,9 +105,9 @@ Notes:
 - We didn't get enough responses to be statistically significant.
 - Survey data analyzed includes **55 total participants**, which included 48 from the unmoderated survey (phase 2) plus 7 from the moderated interviews (phase 1).
 
-![bar-chart]()
+![bar-chart--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-chart.png)
 
-![task-table]()
+![task-table--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-table.png)
 
 **1. (Preliminary results) Participants selected an average of X tasks as important.**
 
