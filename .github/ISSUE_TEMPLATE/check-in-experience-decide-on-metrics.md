@@ -1,12 +1,12 @@
 ---
-name: Check In Experience Metrics Task
-about: Task to decide on and create metrics to measure success for an Epic
-title: "[UX] Capture Metrics to Measure Success
+name: Check In Experience Decide on Metrics Task
+about: Task to decide on metrics to measure success for an Epic
+title: "[UX] Decide on Metrics to Measure Success for an Epic
 labels: ux,research, HCE-Checkin
 assignees: ''
 
 ---
 
 ## Tasks
-- [ ] Decide what success looks like for the Epic
-- [ ] Determine how we will measure success
+- [ ] Decide what metrics will indicate what success looks like for the Epic
+- [ ] Determine how we will capture the metrics
