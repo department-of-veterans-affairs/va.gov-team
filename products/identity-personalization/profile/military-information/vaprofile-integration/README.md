@@ -1,6 +1,6 @@
 # Project outline: Integrate military information through VA Profile
 
-Last updated: May 5, 2022 
+Last updated: June 29, 2022 
 
 ### Communications
 
