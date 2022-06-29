@@ -1,5 +1,5 @@
 ---
-name: Check In Experience Translations Task
+name: Check In Experience Submit Translations Task
 about: For Submitting Check In Experience Translations to the State Department
 title: "[UX] Submit Translations to the State Department"
 labels: ux,research,HCE-Checkin
