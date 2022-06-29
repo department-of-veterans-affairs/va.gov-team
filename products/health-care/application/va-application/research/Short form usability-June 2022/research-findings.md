@@ -24,7 +24,7 @@ We conducted 1 pilot + 10 participant remote, task-based usability studies, with
 
 1. 3 participants: Short form based on pre-populated disability rating of 50% or higher at application start (Signed in to fake staging account and moderator share screen)
 2. 3 participants + 1 as a task: Short form based on self-reported disability rating of 50% or higher on VA compensation question 
-3. 4 participants: Full application, this is our control group, thy had 40% or less disability rating and 
+3. 4 participants: Full application, this is our control group, thy had 40% or less disability rating and **(_THIS SENTENCE IS INCOMPLETE_)**
 
 Flows:
 - Variation 1: [Immediate alert short form](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq)
@@ -116,9 +116,9 @@ The research questions we sought to address:
 
 **General**
 1. 100% of participants who received the short form (6) were able to move through the application without indication of a block
-2. All paeticipants who recieved the short form expressed that it exceeded their expectations of time (shorter than they expected)
+2. All participants who recieved the short form expressed that it exceeded their expectations of time (shorter than they expected)
 3. Most participants who recieved the short form expressed that is was simple and easy. 
-4. A couple of participants worried that if they filled out a shortened application that they would later be asked to provide that information. This sentiment was also shared by some participants who recieved the full application had wondered the dame thing if they were not to provide their DD214 and financial information, but short form participants didn't indicate that this would block them from completion. 
+4. A couple of participants worried that if they filled out a shortened application that they would later be asked to provide that information. This sentiment was also shared by some participants who recieved the full application had wondered the same thing if they were not to provide their DD214 and financial information, but short form participants didn't indicate that this would block them from completion. 
 5. Some participants think that there's no reason to tell the user that they are getting a shorter application.
 
 
