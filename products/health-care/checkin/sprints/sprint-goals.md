@@ -34,7 +34,7 @@
     - Send WF documents to State Department for QA approval
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Complete but continue to support CHIP team as necessary    
-- Enhancements
+- Enhancements - Complete & release?
     - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
     - [Physical Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42723)
     - [Use curly quotations marks consistently](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43159)
