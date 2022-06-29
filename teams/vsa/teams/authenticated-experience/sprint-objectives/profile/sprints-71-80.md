@@ -478,6 +478,14 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 ## Sprint 78 (7/13 - 7/26)
 
+### Priorities
+
+- **Personal info**: Submit for 508 review
+- **Military info**: Launch
+- **Documentation**: Military info and Contact info
+- **Forms system updates**: Discovery and scoping
+- **Notification preferences**: Work as needed, though I don't have any definitive work right now.
+
 ### Personal info revisions
 
 **PM**
@@ -497,8 +505,6 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 - Launch to 25%
 - Launch to 50%
 - Launch to 100%
-- Fully document the feature in [the military info github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
-  - Given that this is a pretty simple read-only feature, this should be a low level of effort. However, I'd still recommend grabbing 30 minutes of Liz's time to consulte on how we can be thorough about this. There are probably things that can be learned from her direct deposit docs, recognizing that the military info documentation will be much simpler since the feature is much less complex.
 
 ### Notification preferences
 
@@ -519,12 +525,17 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 
 ### Documentation
 
-**Design - Liz**
+**Contact information - Liz**
 
 - Create plan for documentating Contact Info section
   - This is a big one, and includes address validation.
   - I think Christina has already put together some documentation on the new confirmation modal we added to the home address field that allows people to update their mailing address at the same time, so you might want to check in with her about this.
 - Start on documentation updates  
+
+**Military information - Tom**
+
+- Fully document the feature in [the military info github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
+  - Given that this is a pretty simple read-only feature, this should be a low level of effort. However, I'd still recommend grabbing 30 minutes of Liz's time to consult on how we can be thorough about this. There are probably things that can be learned from her direct deposit docs, recognizing that the military info documentation will be much simpler since the feature is much less complex.
 
 ### Forms system updates
 
