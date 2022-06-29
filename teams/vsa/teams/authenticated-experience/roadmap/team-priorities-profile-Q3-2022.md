@@ -28,7 +28,7 @@ Additionally, we are working with VA Profile to get an email alert out for the b
 
 ### Notification preferences
 
-Work is ongoing here, though there is nothing that needs immediate action. In the coming weeks, we anticipate updates to add an opt-in/opt-out to receive the 1095B tax form digitally. Additionally, Liz, Sharon, and Samara will be working with MHV stakeholders to define technical needs for migrating MHV notification preferences over to he VA.gov profile. 
+Work is ongoing. In the coming weeks, we anticipate updates to add an opt-in/opt-out to receive the 1095B tax form digitally. Additionally, Liz, Sharon, and Samara will be working with MHV stakeholders to define technical needs for migrating MHV notification preferences over to he VA.gov profile. 
 
 ### Profile documentation
 
