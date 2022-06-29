@@ -92,7 +92,7 @@ Pre-question: Imagine you're sitting down to your computer or laptop, what's the
 
 ### Things to watch for:
 
-- Does the participant see that the page they are on is for VA beneficiaries?
+- Does the participant see that the page they are on is for TRICARE beneficiaries?
 - Does the participant notice the informational alert experience switcher?
 - Can the participant complete the task of starting at the TRICARE system-level page and navigating through to the appropriate VA location?
 
