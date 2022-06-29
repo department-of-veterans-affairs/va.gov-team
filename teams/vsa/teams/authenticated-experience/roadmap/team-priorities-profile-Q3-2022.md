@@ -22,9 +22,9 @@ We did a lot, including:
 
 ### Bad address indicator
 
-We are currently conducting usability testing, followed by research updates, QA, and pre-launch tasks. Unless unforeseen issues come up, we'll likely have this out before the end of the quarter.
+We are currently conducting usability testing, followed by updates that have come out of testing, QA, and pre-launch tasks. Unless unforeseen issues come up, we'll likely have this out before the end of the quarter.
 
-Additionally, we are working with VA Profile to get an email alert out for the bad address indicator. This work is going to go our separately from our UI updates, so we may see some improvements on this before the UI alerts have launched.
+Additionally, we are working with VA Profile to get an email alert out for the bad address indicator. This work is going to go out separately from our UI updates, so we may see some improvements on this before the UI alerts have launched.
 
 ### Notification preferences
 
