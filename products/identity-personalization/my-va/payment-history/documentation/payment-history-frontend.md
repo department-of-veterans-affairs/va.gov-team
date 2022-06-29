@@ -6,6 +6,8 @@
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/p/43720C90-8E38-4058-8213-B52543FFE8C7/?search=payment)
 
 ## When to show the ‘Benefit payments and debt’ section
+_**NOTE:** This functionality is **pending** approval/completion of [43568](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43568). Once 43568 is complete the following would be true of the feature on production:_
+
 We show this section if a veteran has ever received payments or has any outstanding debt.
 
 **Show**
