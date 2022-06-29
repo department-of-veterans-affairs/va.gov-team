@@ -5,7 +5,7 @@
 We did a lot, including:
 
 - Launching the ability to view and update preferred name and gender identity in the profile.
-- Removing logic to show the direct deposit section conditionally.
+- Removing logic that showed the direct deposit section conditionally.
 - Thoroughly documenting the direct deposit section.
 - Auditing the MHV profile, and presented findings to stakeholders.
 - Removing the requirement for the international postal code.
