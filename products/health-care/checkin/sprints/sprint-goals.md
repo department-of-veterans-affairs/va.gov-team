@@ -2,26 +2,31 @@
 
 ## 6/29/2022
 
-#### R&D Sprint Goals (TENTATIVE)
+#### R&D Sprint Goals
 - June Research
     - Complete trip report & present
+    - Identify any other tickets needed
 - July Research
     - Finalize trip details
     - Create convo guide
 - August Research (REMOTE)
     - Plan & Organize remote study
     - Create convo guide
+- Content Updates
+    - Update wording for 1 SMS message
 - Beneficiary Travel - MVP
     - Review & Document Travel Clerk processes
     - Decide on Metrics to Measure Success (Analytics)
+- Analytics
+    - Create notification for abandonment rate
     
-##### Engineering Sprint Goals (TENTATIVE)
+##### Engineering Sprint Goals
 - Support VISN rollout (last sprint for this)
 - Get CDW access (Adrian, Gaurav, Lori)
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     - Complete and Release
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    -  Complete and Release
+    -  Complete and maybe release
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
     - Complete the 4 tickets
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
@@ -32,22 +37,28 @@
     - Incorporate files
     - Generate screenshots for WF documents
     - Send WF documents to State Department for QA approval
+- Beneficiary Travel
+    - [SPIKE] Research APIs Available for BT
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
-    - Complete but continue to support CHIP team as necessary    
-- Enhancements - Complete & release?
+    - Vets-api complete 
+    - Support CHIP team as necessary for CHIP api
+    - Work on vista-api load testing
+- Enhancements - We will get to as much of this as we have time for
     - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
-    - [Physical Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42723)
     - [Use curly quotations marks consistently](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43159)
     - [[SPIKE] "Definition" is being read by screen readers after each definition list item #43176 ](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43176)  
     - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
-- Tech Debt
-    - ??  
+        - Review Environment URL
+        - Display IEN
+    - Tech Debt
 
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     -  **Release by 7/11**
--  [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    - **Release by 7/12**
+- [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
+    -  **Release by 7/11**
+-  Perhaps Telephone Appointments if CHIP is finished with their part
+    -  **Release by 7/11**  
 
 ## 6/15/2022
 #### Sprint Goals
