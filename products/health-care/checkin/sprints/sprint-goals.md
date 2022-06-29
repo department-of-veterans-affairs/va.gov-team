@@ -19,6 +19,7 @@
 - Support VISN rollout (last sprint for this)
 - Get CDW access (Adrian, Gaurav, Lori)
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
+    - Complete the 4 tickets
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     - Complete and Release
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
