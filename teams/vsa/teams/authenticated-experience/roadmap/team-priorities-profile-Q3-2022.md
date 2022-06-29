@@ -18,7 +18,7 @@ We did a lot, including:
 - **Military information integration through VA Profile**: We need to conduct UAT, then we are ready for launch followed by documentation.
 - **Confirmation to update mailing address after updating home address**: Launch should be complete July 11th.
 
-## Upcoming work for Q3 2022 
+## Continuing and upcoming work for Q3 2022 
 
 ### Bad address indicator
 
