@@ -3,11 +3,11 @@
 This document explains how we prioritize content for translation on VA.gov. 
 
 ## Table of contents
-[Guiding principles](#guiding-principles)
-[Document scope](#document-scope)
-[Prioritizing languages](#prioritizing-languages)
-[Prioritizing content by topic](#prioritizing-content-by-topic)
-[Prioritizing content by benefit](#prioritizing-content-by-benefit)
+[Guiding principles](#guiding-principles)<br>
+[Document scope](#document-scope)<br>
+[Prioritizing languages](#prioritizing-languages)<br>
+[Prioritizing content by topic](#prioritizing-content-by-topic)<br>
+[Prioritizing content by benefit](#prioritizing-content-by-benefit)<br>
 
 ## Guiding principles
 This prioritization takes into account technical blockers and team capacity to ensure that we can follow our 5 guidelines principles for multilingual content:
@@ -28,21 +28,37 @@ We prioritize languages for VA.gov content translation based on these 3 factors:
 - Estimated share of language speakers with limited English proficiency
 - Estimated volume of language speakers seeking information specifically on VA.gov
 
-This is our plan, based on these factors:
+### Estimated total volume of language need
 
-- Focus on translating priority content in Spanish first
-  - Population data shows the following for total volume of language need:
-    - Significanty more Hispanic or Latino Veterans speak a language other than English than Veterans of any other race or ethnicity (761,404 Hispanic or Latino Veterans vs. 434,147 for the next highest group, White, non-Hispanic Veterans)
-    - Spanish is the top language Veterans who are immigrants to the U.S. speak at home (26% for Spanish vs. next highest language at 9% for Tagalog)
-    - Hispanic or Latino Veterans show the greatest projected growth. This group is projected to grow to be 12% of the total Veteran population by 2044.
+Population data shows the following for total volume of language need:
+
+  - Significanty more Hispanic or Latino Veterans speak a language other than English than Veterans of any other race or ethnicity (761,404 Hispanic or Latino Veterans vs. 434,147 for the next highest group, White, non-Hispanic Veterans).[Reference 1]
+
+  ![image](https://user-images.githubusercontent.com/62957278/176435302-d0f4f78d-c426-49cc-b23b-416b7a989f72.png)
+  
+  - Spanish is by far the top language Veterans who are immigrants to the U.S. speak at home (26% for Spanish vs. next highest language at 9% for Tagalog). [Reference 2].
+
+  ![image](https://user-images.githubusercontent.com/62957278/176435491-863f1cd5-15c9-4f0d-a2e5-e15048a6aec3.png)
+
+    - Of the top 3 bilingual Veteran populations by race or ethnicity, the Hispanic or Latino Veteran population is projected to have the most growth over the coming decades.This group is projected to grow to be 12% of the total Veteran population by 2044. [Reference 3]
+    
+    ![image](https://user-images.githubusercontent.com/62957278/176435994-9474b39c-babd-4ea3-9124-ea61335b016b.png)
+
     - 16% of active-duty spouses and 12% of reserve component spouses identify as Hispanic or Latino.
-  - Population data shows the following for share of language speakers with limited English proficiency:
-    - Nearly 40,000 more Hispanic or Latino Veterans report having limited English proficiency than any other group.
-    - Among the U.S. resident population who speak a language other than English at home, 40% of residents who speak Spanish report having limited English proficiency.
-    - Spanish is the top language by far for VA medical center and contact center requests for interpreters (based on limited data).
+    - 2019 DoD survey of active-duty spouses
+    ![image](https://user-images.githubusercontent.com/62957278/176436074-79a109f8-0c1f-4666-9e0c-9081f59ed03e.png)
+    - 2019 DoD survey of reserve component spouses
+    ![image](https://user-images.githubusercontent.com/62957278/176436170-a475ab01-d5af-4e63-8f8f-e2d900b0a55b.png)
+
+### Share of language speakers with limited English proficiency
+
+Population data shows the following for share of language speakers with limited English proficiency:
+  - Nearly 40,000 more Hispanic or Latino Veterans report having limited English proficiency than any other group.
+  - Among the U.S. resident population who speak a language other than English at home, 40% of residents who speak Spanish report having limited English proficiency.
+  - Spanish is the top language by far for VA medical center and contact center requests for interpreters (based on limited data).
   - Analytics data shows the following about the volume of language speakers seeking information specifically on VA.gov:
-    - Nearly 70% of people visiting VA.gov with their browser set to a language other than English have their browser set to Spanish.
-    - Spanish pageviews and engagement with available Spanish content continues to increase. Spanish COVID-19 content on VA.gov (COVID-19 content and language and assistance resources pages) had a total of 9,519 pageviews in June, 2021. Engagement grew to 161,476 pageviews by December, 2021.
+  - Nearly 70% of people visiting VA.gov with their browser set to a language other than English have their browser set to Spanish.
+  - Spanish pageviews and engagement with available Spanish content continues to increase. Spanish COVID-19 content on VA.gov (COVID-19 content and language and assistance resources pages) had a total of 9,519 pageviews in June, 2021. Engagement grew to 161,476 pageviews by December, 2021.
 
 ## Prioritizing content by topic
 
@@ -96,4 +112,11 @@ Analytics data shows the following:
 - All of the top 10 pdf forms downloaded by people with their browsers set to Spanish are health care and disability forms.
 
 ![image](https://user-images.githubusercontent.com/62957278/175784779-f3cfe057-a4a7-48aa-a4c6-5e2df86c0d4c.png)
+
+## References
+
+1. Reference: U.S. Department of Veterans Affairs Office of Data Governance and Analytics (2017). Minority Veterans report: Military service history and VA benefit utilization statistics; pp. 64, 77, 81, 85, 89, 93, 97, 101. Retrieved December 20, 2021, from https://www.va.gov/vetdata/docs/SpecialReports/Minority_Veterans_Report.pdf. 
+2. Reference: Zong J and Batalova J (2019, May). Immigrant Veterans in the United States. Migration Policy Institute. Retrieved December 20, 2021, from https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018. 
+3. Reference: U.S. Department of Veterans Affairs Office of Health Equity. (2020, July 9). Population page - racial and ethnic minority Veterans. Retrieved December 20, 2021, from https://www.va.gov/HEALTHEQUITY/Race_Ethnicity.asp.
+
 
