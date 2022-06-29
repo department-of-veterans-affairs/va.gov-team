@@ -1,21 +1,36 @@
 # Multilingual content prioritization
 
-This document explains how we prioritize content for translation on VA.gov. Note that this applies only to content that's directly for Veterans, service members, and their family members. We don't translate content for other audiences.
-
-Here are the inputs we use to prioritize content for translation:
-- Policy guidance on vital information to translate
-- Analytics on most visited content in languages other than English
-- Usability research with Veterans and family members
-- Data on benefit and health care needs of specific populations
+This document explains how we prioritize content for translation on VA.gov. Note that this applies only to content that's directly for Veterans, service members, and their family members. We don't translate content for other audiences. This prioritization also doesn't include the [Veteran and Family Member Information Act](https://www.congress.gov/bill/117th-congress/house-bill/2093/text/pl?overview=closed) law direction for fact sheets, as that is a separate enterprise-wide effort.
 
 ## Prioritizing languages
 
-For VA.gov, we aim to prioritize languages based on these 2 factors:
+We prioritize languages for VA.gov content translation based on these 3 factors:
+- Estimated total volume of language need
+- Estimated share of language speakers with limited English proficiency
+- Estimated volume of language speakers seeking information specifically on VA.gov
 
+This is our plan, based on these factors:
 
+- Focus on translating priority content in Spanish first
+  - Population data shows the following for total volume of language need:
+    - Significanty more Hispanic or Latino Veterans speak a language other than English than Veterans of any other race or ethnicity (761,404 Hispanic or Latino Veterans vs. 434,147 for the next highest group, White, non-Hispanic Veterans)
+    - Spanish is the top language Veterans who are immigrants to the U.S. speak at home (26% for Spanish vs. next highest language at 9% for Tagalog)
+    - Hispanic or Latino Veterans show the greatest projected growth. This group is projected to grow to be 12% of the total Veteran population by 2044.
+    - 16% of active-duty spouses and 12% of reserve component spouses identify as Hispanic or Latino.
+  - Population data shows the following for share of language speakers with limited English proficiency:
+    - Nearly 40,000 more Hispanic or Latino Veterans report having limited English proficiency than any other group.
+    - Among the U.S. resident population who speak a language other than English at home, 40% of residents who speak Spanish report having limited English proficiency.
+    - Spanish is the top language by far for VA medical center and contact center requests for interpreters (based on limited data).
+  - Analytics data shows the following about the volume of language speakers seeking information specifically on VA.gov:
+    - Nearly 70% of people visiting VA.gov with their browser set to a language other than English have their browser set to Spanish.
+    - Spanish pageviews and engagement with available Spanish content continues to increase. Spanish COVID-19 content on VA.gov (COVID-19 content and language and assistance resources pages) had a total of 9,519 pageviews in June, 2021. Engagement grew to 161,476 pageviews by December, 2021.
 
+## Prioritizing content by topic
 
-## Prioritizing content by language
+We prioritize VA.gov content for translation based on these 3 factors:
+- Policy guidance on vital information to translate
+- Analytics data on most visited content in languages other than English
+- Usability research with Veterans and family members
 
 ### Priority 1: COVID-19 vaccine and benefit access information
 
