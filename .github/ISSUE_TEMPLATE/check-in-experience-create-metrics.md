@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 ## Tasks
-- [ ] Create metrics to capture measurements to evaluate success for the Epic
+- [ ] Create metrics to measure and evaluate success for the Epic
 - [ ] Make metrics available to the team
