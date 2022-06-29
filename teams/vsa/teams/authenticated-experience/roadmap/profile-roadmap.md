@@ -8,13 +8,17 @@
 |----|----|
 |[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Usability testing |
 |Reintegrate military info through VA Profile | UAT |
+|Notification preferences: Integration MHV prefs| Planning |
+|Notification preferences: 1095B| Planning |
 
 ### Projected timelines for current projects & enhancements
 
-|Project|Q3 2021|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022|
-|----|----|----|----|----|----|----|
-|**Bad address indicator** | - | - | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
-|**Integrate military info through VA Profile**| - | - | - | Update integration | Launch if not already done |- |
+|Project| Q1 2022|Q2 2022|Q3 2022|Q4 2022|
+|----|----|----|----|----|
+|**Bad address indicator** | Discover, design, research, FE build | FE build, BE build | Pre-launch, launch |- |
+|**Integrate military info through VA Profile**| - | Update integration | Launch if not already done |- |
+|**Notification preferences: Integration MHV prefs**| - | - | Planning | Work TBD |
+|**Notification preferences: 1095B**| - | - | Planning; design; Testing; Build | QA, Pre-launch, Launch |
 
 ## Completed projects & enhancements
 
