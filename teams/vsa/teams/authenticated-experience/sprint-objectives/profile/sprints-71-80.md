@@ -483,7 +483,7 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 - **Personal info**: Submit for 508 review
 - **Military info**: Launch
 - **Bad address indicator**: Research summary and design updates
-- **Documentation**: Military info and Contact info
+- **Documentation**: Contact info and Military info
 - **Forms system updates**: Discovery and scoping
 - **Notification preferences**: Work as needed, though I don't have any definitive work right now.
 
