@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Create Metrics Task
 about: Task to create metrics to measure success for an Epic
-title: "[FE] Create Metrics to Measure Success for an Epic"
+title: "[UX][Research] Create Metrics to Measure Success for an Epic"
 labels: us, research, HCE-Checkin
 assignees: ''
 
