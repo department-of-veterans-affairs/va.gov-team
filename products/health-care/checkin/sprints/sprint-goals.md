@@ -25,11 +25,11 @@
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
     - Incorporate files
     - Generate screenshots for WF documents
-    - Get QA approval
+    - Sent WF documents to State Department for QA approval
 - [Tagalog Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Incorporate files
-    - Generate screenshot for WF documents
-    - Get QA approval
+    - Generate screenshots for WF documents
+    - Sent WF documents to State Department for QA approval
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
     -  Complete and Release
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
