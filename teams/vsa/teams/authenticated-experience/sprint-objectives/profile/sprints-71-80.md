@@ -482,6 +482,7 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 - **Personal info**: Submit for 508 review
 - **Military info**: Launch
+- **Bad address indicator**: Research summary and design updates
 - **Documentation**: Military info and Contact info
 - **Forms system updates**: Discovery and scoping
 - **Notification preferences**: Work as needed, though I don't have any definitive work right now.
@@ -505,11 +506,6 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 - Launch to 25%
 - Launch to 50%
 - Launch to 100%
-
-### Notification preferences
-
-- Determine if we are going to pursue any default opt-in work now
-- TBD based on stakeholder needs and scheduling. We've got the MHV working group and 1095B functionality on our radar and will meet with those teams as needed.
 
 ### Bad address indicator
 
@@ -547,6 +543,11 @@ We should be good to launch this, assuming analytics are good to go and UAT does
   - Roughly, how long do we think this will take?
   - How can we validate the updates to the forms functionality?
   - Create tickets (it would be helpful if FE did as much ticket creation as possible so Sharon can focus on some other things)
+
+### Notification preferences
+
+- Determine if we are going to pursue any default opt-in work now
+- TBD based on stakeholder needs and scheduling. We've got the MHV working group and 1095B functionality on our radar and will meet with those teams as needed.
 
 ## Sprint 79 (7/27 - 8/9)
 
