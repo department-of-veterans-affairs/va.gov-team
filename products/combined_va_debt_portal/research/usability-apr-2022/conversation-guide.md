@@ -152,6 +152,7 @@ Paste the following links in the chat:
 https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
 - (FYI this is the content page, the green button links to the production summary page)
+- FYI: For screen reader users send them https://va.gov/manage-debt-and-bills/summary/
 
 What are your thoughts about this page? What is working and not working about it?
 
