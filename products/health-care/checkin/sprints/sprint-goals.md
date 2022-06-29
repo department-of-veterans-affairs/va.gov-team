@@ -39,6 +39,7 @@
     - [Physical Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42723)
     - [Use curly quotations marks consistently](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43159)
     - [[SPIKE] "Definition" is being read by screen readers after each definition list item #43176 ](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43176)  
+    - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
 - Tech Debt
     - ??  
 
