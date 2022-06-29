@@ -148,10 +148,10 @@ _Resume recording once they're signed in_
 ### Scenario 1: The Veteran only has copay bill(s) OR VA debt(s) - if they have both, SKIP to Scenario 2
 
 I'm now going to post a link in the Zoom chat. 
-Paste the following links in the chat (this is the content page, the green button links to the [summary page in UXPin](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i)):
+Paste the following links in the chat:
 https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250980?mode=cvhidfm
 
-If going to prod, after user sees the content page and wants to click on the green button, we should send them the summary page link: https://va.gov/manage-debt-and-bills/summary/
+- (FYI this is the content page, the green button links to the production summary page)
 
 What are your thoughts about this page? What is working and not working about it?
 
