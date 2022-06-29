@@ -22,7 +22,7 @@ We did a lot, including:
 
 ### Bad address indicator
 
-We are about to go into usability testing, followed by research updates, QA, and pre-launch. Unless unforeseen issues come up, we'll likely have this out before the end of the quarter.
+We are currently conducting usability testing, followed by research updates, QA, and pre-launch. Unless unforeseen issues come up, we'll likely have this out before the end of the quarter.
 
 ### Notification preferences
 
