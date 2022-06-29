@@ -2,7 +2,7 @@
 
 ## 6/29/2022
 
-#### R&D Sprint Goals
+#### R&D Sprint Goals (TENTATIVE)
 - June Research
     - Complete trip report & present
 - July Research
@@ -15,7 +15,7 @@
     - Review & Document Travel Clerk processes
     - Decide on Metrics to Measure Success (Analytics)
     
-##### Engineering Sprint Goals
+##### Engineering Sprint Goals (TENTATIVE)
 - Support VISN rollout (last sprint for this)
 - Get CDW access (Adrian, Gaurav, Lori)
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
