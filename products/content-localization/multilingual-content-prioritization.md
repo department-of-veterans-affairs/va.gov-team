@@ -1,6 +1,21 @@
 # Multilingual content prioritization
 
-This document explains how we prioritize content for translation on VA.gov. Note that this applies only to content that's directly for Veterans, service members, and their family members. We don't translate content for other audiences. This prioritization also doesn't include the [Veteran and Family Member Information Act](https://www.congress.gov/bill/117th-congress/house-bill/2093/text/pl?overview=closed) law direction for fact sheets, as that is a separate enterprise-wide effort.
+This document explains how we prioritize content for translation on VA.gov. 
+
+## Table of contents
+[Guiding principles](#guiding-principles)
+
+## Guiding principles
+This prioritization takes into account technical blockers and team capacity to ensure that we can follow our 5 guidelines principles for multilingual content:
+  - **Relevancy:** Determine the right solutions and priority content for each language based on limited English proficiency need within the Veteran community.
+  - **Quality:** Make sure that translated content is clear, accurate, timely, and culturally relevant.
+  - **Accessibility:** Make sure that translated content is accessible to all who need it, including those with low or no vision or hearing, low literacy, and cognitive issues.
+  - **Equity:** Take the same care with multilingual content as we do with English content. And create solutions that are equitable for all (including bilingual VA employees for whom adding translation on top of core responsibilities can be an undue burden).
+  - **Sustainability:** Scope translation content and solutions appropriately and establish foundational processes and systems to maintain quality over time. 
+
+## Document scope
+- This approach applies only to content that's on modernized VA.gov pages and that speaks directly to Veterans, service members, and their family members. We don't translate content for other audiences.
+- This prioritization doesn't include the [Veteran and Family Member Information Act](https://www.congress.gov/bill/117th-congress/house-bill/2093/text/pl?overview=closed) law direction for fact sheets. That is a separate enterprise-wide effort.
 
 ## Prioritizing languages
 
