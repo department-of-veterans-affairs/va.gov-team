@@ -9,23 +9,27 @@
 - Enable Veterans to access VA Health care easily with any device, at any time, with or without assistance
  
 ## Desired User Outcomes
-
-- Increase in the number of online applications
+- Veterans are comfortable and confident applying online
 - Less time to complete an application
-- Fewer dropoffs/incomplete applications
-- More returns and submissions of saved applications
+- Ability to return and submit saved application
 - Greater user understanding of what and why information is asked for in the application
+- Increased trust and satisfaction with VA
 
 ## Undesired User Outcomes
 - Longer time to apply
 - More complex application
+- Abandon online application process
 
 ## Desired Business Outcomes
-- Veterans are comfortable and confident applying online
+- Fewer dropoffs/incomplete applications
 - Fewer opt to apply in person
+- Provide meaningful support to those that need it
+- Increase in the number of online applications
 
 ## Undesired Business Outcomes
 - False/incorrect applications
+- Increased Support calls to walk through the online application process
+- Application abandonments
 
 ---
 ## Measuring Success
