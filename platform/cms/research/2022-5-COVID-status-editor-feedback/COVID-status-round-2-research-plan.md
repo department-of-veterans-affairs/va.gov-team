@@ -38,7 +38,10 @@ Veterans entering the fourth stage of their VA journey (Starting up) start to se
 The COVID status of their chosen facility is vital to helping Veterans understand what to expect so they can plan their next visit. For those relying on the web channel for information, VA.gov plays an instrumental role in describing a facility’s COVID status and related visitation rules.
 
 ## Research goals
-The primary goals of this research is to understand from the perspective of Public Affairs Officers (PAOs) how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility, what parts of the messaging are successful, what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities.
+The primary goals of this research are to understand from the perspective of Public Affairs Officers (PAOs):
+* how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility
+* what parts of the messaging are successful
+* what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE and OHT to inform a future direction for how to inform Veterans about the impact of COVID-19 protection levels at a specific facility and how that may impact their health care journey.
@@ -60,7 +63,7 @@ PAOs want the flexibility to add specific, local guidance to the national COVID 
 * Remote, via Zoom 
   
 ## Research materials
-* A conversation guide will be developed prior to the interviews. 
+* [Conversation guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/COVID-status-round-2-conversation-guide.md) 
 
 ## Recruitment
 The CMS Facilities team will work with VHA Digital Media to recruit 6-7 PAOs for this research using the the following criteria:
@@ -88,6 +91,6 @@ July 1 - July 8, 2022
 The CMS Facility research team will use Calendly to book time with the participants identified by VHA Digital Media.
 
 ## Team Roles
-* Suzanne Gray –CMS UX lead, facilitator, notetaker 
+* Suzanne Gray – CMS UX lead, facilitator, notetaker 
 * Denise Eisner – Facilitator, notetaker 
 * Dave Pickett – notetaker 
