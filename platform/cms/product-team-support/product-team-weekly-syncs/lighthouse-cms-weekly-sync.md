@@ -14,7 +14,8 @@
 </details>
 
 ## Monday, July11, 2022
-*Last meeting*
+* Lat/Long info for VetCenter CAPs
+  * https://dsva.slack.com/archives/C02BTJTDFTN/p1656535172014689
 
 ## Monday, July7, 2022
 *Independence Day* :fireworks:
