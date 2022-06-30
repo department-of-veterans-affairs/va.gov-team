@@ -25,7 +25,30 @@
    - Estimate/Point each Ticket (or apply a time box)
    - Understand the work that is necessary (high level) for each Ticket and how it is being released
    - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
-        ![image](https://user-images.githubusercontent.com/86678742/176724043-2133a384-129a-41be-bdc5-3bbf62fbf021.png)
+        - DESIGN
+            - check-in-experience-design-create-final-wireframes.md
+        - DEVELOPMENT
+            - check-in-experience-development-backend.md
+            - check-in-experience-development-create-feature-flag.md
+            - check-in-experience-development-frontend.md
+            - check-in-experience-release-to-production.md
+            - check-in-experience-release-update-atifacts.md
+        - METRICS
+            - check-in-experience-metrics-decide.md    
+            - check-in-experience-metrics-create.md            
+            - check-in-experience-metrics-monitor.md
+        - RESEARCH
+            - check-in-experience-research-assets-task.md
+            - check-in-experience-research-plan-and-convo-guide-task.md
+            - check-in-experience-research-interview.md
+            - check-in-experience-research-remote-study.md
+            - check-in-experience-research-study-report-task.md
+            - check-in-experience-research-synthesis-task.md
+        - TRANSLATIONS
+            - check-in-experience-translations-add-to-spreadsheet.md
+            - check-in-experience-translations-submit-to-SD.md
+            - check-in-experience-translations-add-content.md             
+            - check-in-experience-translations-submit-workflows.md      
  
  ## Planning
  - Epics 
