@@ -63,7 +63,7 @@ PAOs want the flexibility to add specific, local guidance to the national COVID 
 * Remote, via Zoom 
   
 ## Research materials
-* [Conversation guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/COVID-status-round-2-conversation-guide.md) 
+* (Conversation guide)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/COVID-status-round-2-conversation-guide.md] 
 
 ## Recruitment
 The CMS Facilities team will work with VHA Digital Media to recruit 6-7 PAOs for this research using the the following criteria:
