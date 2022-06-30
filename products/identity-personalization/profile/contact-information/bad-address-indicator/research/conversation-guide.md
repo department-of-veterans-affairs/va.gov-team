@@ -69,7 +69,7 @@ _Participant shares screen_
 -   Ok, so now that you're logged in and I can see your screen, I have a few initial questions for you.
 -   How often do you go to your Profile?
 -   What are the reasons you generally visit your Profile?
--   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Without selecting anything, could you tell me what you would do next?
+-   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Could you tell me what you would do next?
 	-   What would you be searching for?
 
 
