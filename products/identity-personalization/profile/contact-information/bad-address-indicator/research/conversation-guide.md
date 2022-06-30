@@ -69,7 +69,7 @@ _Participant shares screen_
 -   Ok, so now that you're logged in and I can see your screen, I have a few initial questions for you.
 -   How often do you go to your Profile?
 -   What are the reasons you generally visit your Profile?
--   Let's pretend you received an email that some of your information was incorrect and so you decide to visit your Profile. Could you tell me what you would do next?
+-   Let's pretend you received an email that your mailing address was incorrect and so you decide to visit your Profile. (Without selecting anything quite yet) Could you tell me what you would do next?
 	-   What would you be searching for?
 
 
@@ -79,7 +79,7 @@ Task #1: Review Personal information page and alert - 3 minutes
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
 
 -   Ok, great. So now I'll have you go through a few things step by step. And just a reminder, feel free to think out loud and share what's on your mind as much as possible.
--   First, please go to your Profile by selecting your name (located in the top right corner).
+-   First, please go to your Profile. (_If they cannot find it, guide them there after a while._)
 -   Before you select anything else, I'll have you go over this page. Could you briefly tell me about what's included here?
 -   What stands out to you on this page?
 	-   _If needed:_ Did you notice the alert (gray box with the yellow stripe)?
@@ -87,7 +87,7 @@ Task #1: Review Personal information page and alert - 3 minutes
 -   How important does this alert information seem?
 -   Is there anything unclear about the alert?
 
-_Let participant know that their information is actually correct - this has been placed here in order for us to test it out._
+_If needed: Let participant know that their information is actually correct - this has been placed here in order for us to test it out._
 
 ### Things to watch for:
 -   Did the participant notice the alert without any prompting? 
@@ -98,29 +98,29 @@ Task #2: Navigate to Contact information page - 2 minutes
 ---------------------------------------------------------
 
 **Task goal: Make sure the participant can easily navigate to the Contact information using the link.**
--   Ok, let's move on. Based on this information, where would you go from here? 
+-   Ok, let's move on. Based on this information in the alert, where would you go from here? 
 -   Go ahead and do that / navigate there. (Go ahead and walk me through that.)
 -   Talk me through what you just did.
-	-   _If needed, ask:_ Did you notice the link in the alert? Why did you decide not to select that?
+	-   _If needed, ask:_ Did you notice the link in the alert on that first page? Why did you decide not to select that?
 	-   Was there anything unclear about that?
 
-_At this point, if the participant continues on through the edit or confirm flow once on the Contact information page, allow them to continue and then ask follow up questions afterwards._
+_At this point, if the participant continues to go through the Contact information page, allow them to continue and then ask follow up questions afterwards._
 
 	- What stood out to you on this page?
 		-   If needed: When did you notice the alert (gray box with the yellow stripe)?
-	-   How important did the alert information seem?
-	-   Was there anything unclear about this alert?
+	-   How important did/does the alert information seem?
+	-   Was/is there anything unclear about this alert?
 	
-_If they've already updated the mailing address:_
+_If they've already updated or confirmed the mailing address:_
 
 	- Could you walk me through what you just did?
 		- If needed, ask:
 			- I saw you hesitated at [action], why was that?
 			- What information are you searching for?
 			- Why did you decide to take that route?
-			- Was there anything unclear about that process?
+	- Was there anything unclear about that process?
 			
-_Then skip to Task #5 - Confirm address_
+_Then skip to Task #5 - Confirm address (or #4 if they already went through Confirm)_
 
 ### Things to watch for:
 -   Does the participant immediately navigate to the Contact information page? 
