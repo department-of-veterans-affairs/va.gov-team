@@ -48,6 +48,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Trevor Bosaw - Backend Engineer
 - John Bramley - Backend Engineer
 - Alex Garcia - Frontend Engineer
+- Afia Caruso (Frontend Engineer)
 - Jhonny Gonzalez - Frontend Engineer
 - Sylvester Lee - Security Engineer
 - Ian Hundree - DevOps Engineer
