@@ -26,6 +26,7 @@
    - Understand the work that is necessary (high level) for each Ticket and how it is being released
    - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
         - DESIGN
+            - check-in-experience-create-prototype.md
             - check-in-experience-design-create-final-wireframes.md
         - DEVELOPMENT
             - check-in-experience-development-backend.md
@@ -41,9 +42,10 @@
             - check-in-experience-research-assets-task.md
             - check-in-experience-research-plan-and-convo-guide-task.md
             - check-in-experience-research-interview.md
+            - check-in-experience-research-conduct-study.md
             - check-in-experience-research-remote-study.md
-            - check-in-experience-research-study-report-task.md
             - check-in-experience-research-synthesis-task.md
+            - check-in-experience-research-study-report-task.md            
         - TRANSLATIONS
             - check-in-experience-translations-add-to-spreadsheet.md
             - check-in-experience-translations-submit-to-SD.md
