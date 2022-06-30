@@ -6,7 +6,7 @@
     - Answer the following questions
         - What is your Balance score?
         - What did you do yesterday towards our Sprint goals?
-        - What did you do today towards our Sprint goals?
+        - What are you doing today towards our Sprint goals?
         - Do you have any blockers?
     - Discuss who is responsible for reviewing any tickets that need validation and a timeframe for completion
 
@@ -17,21 +17,15 @@
             - Scheduled & Coordinated - will we use a Feature Flag or Feature Branch? 
                 - All Epics should be scheduled and coordinated
             - Upon Completion & Approval
-                - Bugs not related to an Epic and Tech Debt can be released upon completion & approval
+                - Bugs not related to an Epic plus Tech Debt can be released upon completion & approval
         - Is this in the Planned Releases list yet or does it not need to be?
             - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list    
         - Does this Ticket need a release note?
    - Discuss and modify Acceptance Criteria, as necessary
    - Estimate/Point each Ticket (or apply a time box)
    - Understand the work that is necessary (high level) for each Ticket and how it is being released
-   - Ensure these tickets are created and added to each Epic using the referenced templates
-        - [check-in-experience-translation-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-translation-task.md)
-            - Used for generating and submitting a json file of content to be translated to the State Department
-        - [check-in-experience-prod-artifacts-task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-artifacts-task.md)
-            - Used for updating the product guides, posters, etc.
-        - [check-in-experience-prod-release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/check-in-experience-prod-release.md)
-            - Used for coordinating a production release between UX, Design, & Product
-        - NOTE: some of these may not always be needed for every Epic
+   - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
+        ![image](https://user-images.githubusercontent.com/86678742/176697904-3064c7b2-397b-4b66-aa0b-86b8f29a1ce1.png)
  
  ## Planning
  - Epics 
@@ -53,13 +47,13 @@
 - Upon completion of a ticket (i.e. no more changes are expected and PR is done)
     - Ticket owner will
         - Move the ticket to the Validate column                 
-        - Attach at least 1 of the following to the ticket 
-            - For wireframes
+        - Attach at least 1 of the following to the ticket per ticket type
+            - For design/wireframe tickets
                 - Screenshots
                 - Links to section in Abstract
-            - For research
+            - For research tickets
                 - Links to files
-            - For development
+            - For development tickets
                 - Screenshots of completed work 
                 - Link to Review Environment
                 - Link to video demonstrating the feature
@@ -68,7 +62,7 @@
         - Close the ticket once all reviews have been completed
     - Reviewer will
         - Add a comment to the ticket when their review is complete
-        - Post in the thread that their review is complete
+        - Post in the thread, if there is one, that their review is complete
 
 ## Releasing
 - Epics 
