@@ -89,6 +89,7 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports
 
+
 #### Baseline KPIs
 
 - TBD
@@ -106,7 +107,22 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 			
 #### Objective 3: Improve the experience of being a caregiver			
 - Key result 1: Improve caregiver and veteran assessments of the PCAFC 	
+---
+### New OKRs from 2022 Workshop
+#### Objective 1: Increase in number of VA-recognized Caregivers
+- Key result 1: Increase the number of successful online applications to the PCAFC
+- Key result 2: Increase % of caregivers who apply for benefits
+- Key result 3: Increase % of caregivers who obtain approval for benefits
 
+#### Objective 2: Decrease time from submission to decision
+- Key result 1: Decrease application completion time
+- Key result 2: Decrease application processing time and follow-ups by customer support
+- Key result 3: Decrease number of status update calls to customer support
+
+#### Objective 3: Increase transparency of the application processing and decisions
+- Key result 1: Decrease % of application inquiry calls to customer support
+- Key result 2: Increase application status checks online
+- Key result 3: Increase number of appeals filed after rejection decision
 --- 
 
 ## Go-to-market Strategy
