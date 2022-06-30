@@ -122,9 +122,8 @@ Tentative date(s) on-site: July 19, 20 and 21 (with travel the day before and af
 
 ## Team Roles
 
-Moderator: Ben Brasso ([ben.brasso@agile6.com](mailto:ben.brasso@agile6.com))<br>
-Research guide writing and task development: Ben Brasso<br>
+Moderators: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us)) and Nira Datta ([nira.datta@civicactions.com](mailto:nira.datta@civicactions.com))<br>
+Research guide writing and task development: Ben Brasso ([ben.brasso@agile6.com](mailto:ben.brasso@agile6.com))<br>
 Participant recruiting & screening: In-person <br>
 Project point of contact: Stephen Barrs ([stephen.barrs@va.gov](mailto:stephen.barrs@va.gov)), Patrick Bateman ([patrick.bateman@va.gov](mailto:patrick.bateman@va.gov)), Lori Pusey ([lori.pusey@agile6.com](mailto:lori.pusey@agile6.com))<br>
-Participants for pilot test: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))<br>
-Note-takers: Lori Pusey, Kristen McConnell, Nira Datta ([nira.datta@civicactions.com](mailto:nira.datta@civicactions.com))
+Note-takers: Kristen McConnell and Nira Datta
