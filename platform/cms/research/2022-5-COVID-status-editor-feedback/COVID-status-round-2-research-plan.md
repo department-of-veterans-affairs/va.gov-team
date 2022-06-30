@@ -77,7 +77,7 @@ The CMS Facilities team will work with VHA Digital Media to recruit 6-7 PAOs for
   * CMS Facilities research team to share research plan with OCTO-DE and OHT for input 
   * VHA DM to identify 12 potential participants for interviews 
 * June 29: CMS Facilities research team to start scheduling participants for interviews while starting conversation guide draft 
-* June 1 - 8: Interviews with PAO participants 
+* July 1 - 8: Interviews with PAO participants 
 * July 11-15: Synthesis of research findings, including data from help desk, and development of readout deck and recommendations for discussion with OCTO-DE Product Owner Dave Conlon 
 * July 21: readout of research findings and recommendations with Dave Conlon, Danielle Thierry, and representatives from VHA Digital Media and OHT 
   
