@@ -68,14 +68,14 @@
 
 #### Objective 2: Increase trust and satisfaction with the VA Health Care application process
 - Key result 1: Decrease application completion time
-- Key result 2: Decrease application processing time and follow-ups by customer support
-- Key result 3: Increase application completions across multiple devices for ease of use
+- Key result 2: Decrease application processing time (including follow-ups by customer support)
+- Key result 3: Increase number of application completions across multiple devices for ease of use
 - Key result 4: Decrease number of drop-off/exit rates while completing the application
 
 #### Objective 3: Provide meaningful support to those that need it
-- Key result 1: Increase in the proportion of meaningful support calls (i.e. less noise = more ppl who really need it are getting help)
-- Key result 2: Increase application completions in a single session
-- Key result 3: Decrease the number of abandoned applications
+- Key result 1: Increase % of meaningful support calls (i.e. less noise = more ppl who really need it are getting help)
+- Key result 2: Increase number of application completions in a single session
+- Key result 3: Decrease number of abandoned applications
 ---
 
 ## Assumptions
