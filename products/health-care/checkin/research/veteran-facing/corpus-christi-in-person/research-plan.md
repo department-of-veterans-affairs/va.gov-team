@@ -1,6 +1,6 @@
 # Check-In Research Plan for In-Person Veteran Interviews at Corpus Christi, TX
 
-Date: June 27, 2022
+Date: June 30, 2022
 
 ## Background 
 
@@ -119,6 +119,8 @@ TBD
 ## Timeline 
 
 Tentative date(s) on-site: July 19, 20 and 21 (with travel the day before and after)
+
+We plan to spend one day at each location listed above and meet with travel clerks on one of the days.
 
 ## Team Roles
 
