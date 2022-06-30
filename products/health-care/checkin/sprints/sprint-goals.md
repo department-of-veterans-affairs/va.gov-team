@@ -25,8 +25,6 @@
 - Get CDW access (Adrian, Gaurav, Lori)
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     - Complete and Release
-- [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    -  Complete and maybe release
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
     - Complete the 4 tickets
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
@@ -40,9 +38,8 @@
 - Beneficiary Travel
     - [SPIKE] Research APIs Available for BT
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
-    - Vets-api complete 
-    - Support CHIP team as necessary for CHIP api
     - Work on vista-api load testing
+    - Support CHIP team as necessary for CHIP api
 - Enhancements - We will get to as much of this as we have time for
     - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
     - [Use curly quotations marks consistently](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43159)
@@ -50,15 +47,12 @@
     - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
         - Review Environment URL
         - Display IEN
-    - Tech Debt
 
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
     -  **Release by 7/11**
 - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
     -  **Release by 7/11**
--  Perhaps Telephone Appointments if CHIP is finished with their part
-    -  **Release by 7/11**  
 
 ## 6/15/2022
 #### Sprint Goals
