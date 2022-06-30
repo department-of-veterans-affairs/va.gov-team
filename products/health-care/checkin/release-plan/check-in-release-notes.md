@@ -14,7 +14,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ### 07/01/2022
 - Replaced straight quotation marks with curly quotation marks to maintain consistency with the VA Design System.
-   - [Ticket](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43159)
+   - [Ticket 43159](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43159)
 
 ### 06/24/2022
 - Minor styling changes to make Pre-Check-in and Check-in consistent with each other and the intended design
