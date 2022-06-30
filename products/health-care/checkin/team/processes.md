@@ -25,7 +25,7 @@
    - Estimate/Point each Ticket (or apply a time box)
    - Understand the work that is necessary (high level) for each Ticket and how it is being released
    - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
-        ![image](https://user-images.githubusercontent.com/86678742/176697904-3064c7b2-397b-4b66-aa0b-86b8f29a1ce1.png)
+        ![image](https://user-images.githubusercontent.com/86678742/176724043-2133a384-129a-41be-bdc5-3bbf62fbf021.png)
  
  ## Planning
  - Epics 
