@@ -120,6 +120,8 @@ TBD
 
 Tentative date(s) on-site: July 19, 20 and 21 (with travel the day before and after)
 
+We plan to spend one day at each location listed above and meet with travel clerks on one of the days.
+
 ## Team Roles
 
 Moderators: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us)) and Nira Datta ([nira.datta@civicactions.com](mailto:nira.datta@civicactions.com))<br>
