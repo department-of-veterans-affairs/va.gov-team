@@ -53,7 +53,7 @@ Veteran population (projected)<sup>1</sup> = ~19,088,805
 |	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
 |	---	|	---	| --- | --:
 |	FY 2015	|	Family member benefits | Enrolled in the caregiver program	|	33,000
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary | Survivors pension 	|	378,670
+|	FY 2020<sup>2</sup>	|	Pension and Fiduciary | Survivors pension 	|	159,083
 | FY 2020<sup>2</sup>	|	Disability | Survivor Dependency and Indemnity Compensation (DIC) benefits 	|	445,503
 
 ## Data sources
