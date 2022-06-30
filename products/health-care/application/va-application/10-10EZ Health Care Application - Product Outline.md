@@ -59,7 +59,23 @@
 - Objective: More eligible Veterans apply for health care online
   - Key result: Number of applications increase
   - Key result: Proportion of applications submitted online vs. in person increases 
+---
+### New OKRs from 2022 Workshop
+#### Objective 1: Increase use of the VA Health Care program
+- Key result 1: Decrease number of applications that require additional review or revisions
+- Key result 2: Increase % of Veterans who successfully apply for benefits online
+- Key result 3: Increase % of Veterans who obtain approval for benefits
 
+#### Objective 2: Increase trust and satisfaction with the VA Health Care application process
+- Key result 1: Decrease application completion time
+- Key result 2: Decrease application processing time and follow-ups by customer support
+- Key result 3: Increase application completions across multiple devices for ease of use
+- Key result 4: Decrease number of drop-off/exit rates while completing the application
+
+#### Objective 3: Provide meaningful support to those that need it
+- Key result 1: Increase in the proportion of meaningful support calls (i.e. less noise = more ppl who really need it are getting help)
+- Key result 2: Increase application completions in a single session
+- Key result 3: Decrease the number of abandoned applications
 ---
 
 ## Assumptions
