@@ -1,5 +1,12 @@
 # SPRINT GOALS
 
+## 7/13/2022
+
+#### Planned Releases
+- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
+
+
 ## 6/29/2022
 
 #### R&D Sprint Goals
@@ -20,7 +27,7 @@
 - Analytics
     - Create notification for abandonment rate
     
-##### Engineering Sprint Goals
+#### Engineering Sprint Goals
 - Support VISN rollout (last sprint for this)
 - Get CDW access (Adrian, Gaurav, Lori)
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
@@ -35,7 +42,7 @@
     - Incorporate files
     - Generate screenshots for WF documents
     - Send WF documents to State Department for QA approval
-- Beneficiary Travel
+- [Beneficiary Travel](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
     - [SPIKE] Research APIs Available for BT
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Work on vista-api load testing
@@ -50,9 +57,9 @@
 
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
-    -  **Release by 7/11**
+    -  **Release ~7/11**
 - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
-    -  **Release by 7/11**
+    -  **Release ~7/11**
 
 ## 6/15/2022
 #### Sprint Goals
