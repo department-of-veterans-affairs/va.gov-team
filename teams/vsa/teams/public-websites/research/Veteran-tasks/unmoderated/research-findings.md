@@ -132,11 +132,15 @@ Survey participants were asked *What VA-related tasks do you do MOST FREQUENTLY?
 From the above list of 5 frequently done tasks, #2 and #5 weren't listed as tasks in our survey (health care visits/appointments and MyHealtheVet), but  the other 3 tasks were top tasks #1, 2, and 4 across all participants.
 
 ## 3. For participants who don't use VA health care, top tasks were quite different
-(only *disability compensation* and *VA medical records* tasks overlapped)
 
+Because most of the top tasks across all survey responses were related to health care, we subdivided the data by participants who use VA health care (41 or 75%) and those who don't use VA health care (14 or 25%). When you compare the top tasks for each of these groups, the results are very different, and only *disability compensation* and *VA medical records* are on both lists: 
+
+![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
+
+![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
 
 <details>
-  <summary>Click to show details</summary>
+  <summary>Click to show details for ALL tasks</summary>
 
   ![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
 
