@@ -2,6 +2,9 @@
 Welcome to the VSP Identity Team.  We're excited to have you here!  Please take the time to make a copy of this document to your personal GitHub so that
 you can use it for future reference, and in order to complete the checklists below.
 
+## What is Identity?
+The Identity team at VSP is responsible for many aspects of how we handle users within the VA.gov ecosystem.  This includes the [Unified Sign-in Page](https://www.va.gov/?next=loginModal), our upcoming Sign-in Service, Inherited Proofing (migrating users from legacy to modern CSP's), and much more.  
+
 ## Important Reading
 - [Identity Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/README.md)
 - [Identity Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/identity-team-charter.md)
