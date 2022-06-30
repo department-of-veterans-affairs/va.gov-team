@@ -215,7 +215,7 @@ For MVP, we will only show the most recent payment.
 ### Error State 1: The Payment History API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
 >We're sorry. We can't access some of your information right now.  We're working to fix this problem. Please check back later.
 - Do not display Benefit payment and debt section
 
@@ -227,7 +227,7 @@ For MVP, we will only show the most recent payment.
 ### Error State 2: The Debt API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
+- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list
 - Display the payment card below the alert component
