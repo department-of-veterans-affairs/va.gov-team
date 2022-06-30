@@ -104,7 +104,7 @@ The graphs below show the data for an extended period after the load was stopped
 
 * We should note that the 1x load used for the tests is the peak projected load when all VISNs are enabled and close to 100% of check-ins and pre check-ins are done through mobile devices. We currently are in the process of enabling mobile check-in and are seeing increased usage but it is still less than 0.5% of the peak projected load (as of 6/26/2022 we have a [peak](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?from_ts=1654066800000&to_ts=1656282780000&live=false) of about ~1000 check-ins and ~2500 pre check-ins on a given day). We currently don’t have estimates on how quick the actual ramp up of mobile check-ins will be and it’s something we’ll continue to monitor.
 
-    /todo provide link to deployment schedule/status
+    > Here's a link to current deployment schedule: https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#2022-production-rollout-support
 
 * We should also note that above load calculations assume that Veterans go through both check-in and pre check-in scenarios to completion. However, in real life we’re seeing some % of scenarios being abandoned within an intermediate step due to various reasons. The impact is that the actual production load on vets-api is going to be somewhat lower than estimated peak.
 
