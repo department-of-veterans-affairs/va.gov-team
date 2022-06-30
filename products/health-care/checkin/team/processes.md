@@ -72,10 +72,13 @@
         - Move the ticket to the Validate column                 
         - Attach at least 1 of the following to the ticket per ticket type
             - For design/wireframe tickets
-                - Screenshots
-                - Links to section in Abstract
+                - Screenshots of wireframes
+                - Links to section in Abstract with relevant wireframes
+            - For content tickets (TBD)
+                - Link to spreadsheet with content
+                - Actual content
             - For research tickets
-                - Links to files
+                - Links to relevant files
             - For development tickets
                 - Screenshots of completed work 
                 - Link to Review Environment
@@ -94,6 +97,7 @@
             - Changes to product guides et. al. (UX)
             - Merging of code or flipping of feature flag (Engineering)
             - Updating of release notes (Product)
+            - Merging wireframes to Abstract main branch & updating VA Sketch cloud (Design)
             - Notification of Training & Contact Center et. al. (Product)
             - Closing of all tickets & the Epic (Engineering & Product)
     - Product will 
