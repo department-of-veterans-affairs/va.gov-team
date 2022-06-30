@@ -4,9 +4,9 @@
 
 In July 2020, in the early part of the COVID-19 pandemic, OCTODE and VHA Digital Media collaborated with the local facilities and the Lighthouse team to create a single source of truth to help inform Veterans of the status of services at each health care facility through the use of the free-text Facility Status in Drupal. 
 
-In May of 2022, VHA's Office of Health Transformation (OHT) wished to standardize the messaging around the patient experience and introduced 3 levels of standard COVID-19 health protection guidelines. These guidelines are based upon a high, medium, or low transmission rate in a facility's locality based on CDC transimssion rate data, updated each Monday. VAMC editors in Drupal CMS must select the current level for their locations (High, Medium, or Low) that then associates national standard guidance for the facility to enable to Veterans see the level for any specific health care facility location on VA.gov and the associated national standardized guidance. 
+In May of 2022, VHA's Office of Health Transformation (OHT) wished to standardize the messaging around the patient experience and introduced 3 levels of standard COVID-19 health protection guidelines. These guidelines are based upon a high, medium, or low transmission rate in a facility's locality based on CDC transimssion rate data, updated each Monday. VAMC editors in Drupal CMS must select the current level for their locations (High, Medium, or Low) that then associates national standard guidance for the facility. This guidance lets Veterans see the level for any specific health care facility location on VA.gov and the associated national standardized guidance. 
 
-The language describing a facility’s COVID operating status is managed centrally by the VA.gov Content Team in coordination with the Office of Health Transformation (OHT) and the COVID Communication Task Force. The text focused on (1) Masking (2) Screening (3) Visitors and (4) Virtual Care. It was created by VACO to be general enough to encompass a variety of use cases at the facility level however the field was not consulted before crafting the messages. The associated text is as follows:
+The language describing a facility’s COVID operating status is managed centrally by the VA.gov Content Team in coordination with the Office of Health Transformation (OHT) and the COVID Communication Task Force. The text focused on (1) Masking (2) Screening (3) Visitors and (4) Virtual Care. It was created by VACO to be general enough to encompass a variety of use cases at the facility level; however, the field was not consulted before crafting the messages. The associated text is as follows:
 
 | Level | Masking/Physical Distancing | Screening | Visitors | Virtual Care |
 | ----- | ----- | ----- | ----- | ----- |
@@ -38,7 +38,10 @@ Veterans entering the fourth stage of their VA journey (Starting up) start to se
 The COVID status of their chosen facility is vital to helping Veterans understand what to expect so they can plan their next visit. For those relying on the web channel for information, VA.gov plays an instrumental role in describing a facility’s COVID status and related visitation rules.
 
 ## Research goals
-The primary goals of this research is to understand from the perspective of Public Affairs Officers (PAOs) how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility, what parts of the messaging are successful, what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities.
+The primary goals of this research are to understand from the perspective of Public Affairs Officers (PAOs):
+* how the COVID-19 facility operating status content aligns with the on-the-ground policies and procedures at each facility
+* what parts of the messaging are successful
+* what parts of the messaging is confusing/conflicting or resulting in additional contact load for staff at the local facilities
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE and OHT to inform a future direction for how to inform Veterans about the impact of COVID-19 protection levels at a specific facility and how that may impact their health care journey.
@@ -60,7 +63,7 @@ PAOs want the flexibility to add specific, local guidance to the national COVID 
 * Remote, via Zoom 
   
 ## Research materials
-* A conversation guide will be developed prior to the interviews. 
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/2022-5-COVID-status-editor-feedback/COVID-status-round-2-conversation-guide.md) 
 
 ## Recruitment
 The CMS Facilities team will work with VHA Digital Media to recruit 6-7 PAOs for this research using the the following criteria:
@@ -74,7 +77,7 @@ The CMS Facilities team will work with VHA Digital Media to recruit 6-7 PAOs for
   * CMS Facilities research team to share research plan with OCTO-DE and OHT for input 
   * VHA DM to identify 12 potential participants for interviews 
 * June 29: CMS Facilities research team to start scheduling participants for interviews while starting conversation guide draft 
-* June 1 - 8: Interviews with PAO participants 
+* July 1 - 8: Interviews with PAO participants 
 * July 11-15: Synthesis of research findings, including data from help desk, and development of readout deck and recommendations for discussion with OCTO-DE Product Owner Dave Conlon 
 * July 21: readout of research findings and recommendations with Dave Conlon, Danielle Thierry, and representatives from VHA Digital Media and OHT 
   
@@ -88,6 +91,6 @@ July 1 - July 8, 2022
 The CMS Facility research team will use Calendly to book time with the participants identified by VHA Digital Media.
 
 ## Team Roles
-* Suzanne Gray –CMS UX lead, facilitator, notetaker 
+* Suzanne Gray – CMS UX lead, facilitator, notetaker 
 * Denise Eisner – Facilitator, notetaker 
 * Dave Pickett – notetaker 

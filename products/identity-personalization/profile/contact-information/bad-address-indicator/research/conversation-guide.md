@@ -99,10 +99,28 @@ Task #2: Navigate to Contact information page - 2 minutes
 
 **Task goal: Make sure the participant can easily navigate to the Contact information using the link.**
 -   Ok, let's move on. Based on this information, where would you go from here? 
--   Go ahead and do that / navigate there. 
+-   Go ahead and do that / navigate there. (Go ahead and walk me through that.)
 -   Talk me through what you just did.
 	-   _If needed, ask:_ Did you notice the link in the alert? Why did you decide not to select that?
 	-   Was there anything unclear about that?
+
+_At this point, if the participant continues on through the edit or confirm flow once on the Contact information page, allow them to continue and then ask follow up questions afterwards._
+
+	- What stood out to you on this page?
+		-   If needed: When did you notice the alert (gray box with the yellow stripe)?
+	-   How important did the alert information seem?
+	-   Was there anything unclear about this alert?
+	
+_If they've already updated the mailing address:_
+
+	- Could you walk me through what you just did?
+		- If needed, ask:
+			- I saw you hesitated at [action], why was that?
+			- What information are you searching for?
+			- Why did you decide to take that route?
+			- Was there anything unclear about that process?
+			
+_Then skip to Task #5 - Confirm address_
 
 ### Things to watch for:
 -   Does the participant immediately navigate to the Contact information page? 
