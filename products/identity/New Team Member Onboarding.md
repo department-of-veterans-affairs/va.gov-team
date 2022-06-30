@@ -3,13 +3,13 @@ Welcome to the VSP Identity Team.  We're excited to have you here!  Please take 
 you can use it for future reference, and in order to complete the checklists below.
 
 ## Important Reading
-[Identity Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/README.md)
-[Identity Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/identity-team-charter.md)
+- [Identity Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/README.md)
+- [Identity Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/identity-team-charter.md)
 
 ## Tools we use:
-Github (Issue Management/Knowledgebase)
-Zenhub (Ticket Tracker)
-Confluence (We don't really use this much anymore)
+- Github (Issue Management/Knowledgebase)
+- Zenhub (Ticket Tracker)
+- Confluence (We don't really use this much anymore)
 
 
 ## Onboarding Items (All team members)
