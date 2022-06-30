@@ -197,3 +197,8 @@ For example:
   * Under "VAMC system" you can verify the name of the Healthcare system the facility belongs to (in this case: VA Southern Oregon), and that this facility is marked as "Main location" via checkbox. If that's true: we've found our VAMC System.
 * Now find the System node: https://prod.cms.va.gov/admin/content - Filter by: VAMC System, Title: "VA Southern Oregon" <the system name you just found on the Facility node> = and now you can edit that node's EHR value.
   
+## Drupal source of truth
+The system documented here will be updated to be managed entirely by Drupal, as Cerner widgets are updated to use Drupal as the source of truth. During this transition, both data sources will be maintained, and app/widget developers can opt in to the new data source (Drupal). Eventually, the old data source will be deprecated, and apps/widgets will then be required to adopt the new "API".
+
+[How to opt in to Drupal as the source of truth for Cerner-related apps and widgets
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/opt-in-drupal-source-of-truth.md)
