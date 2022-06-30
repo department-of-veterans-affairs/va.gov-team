@@ -77,6 +77,7 @@ Specifically, we’re looking to accomplish the following:
 - What are some of the potential nuances of check-in that might be challenging for Spanish speakers to understand?  
 - How frequently does staff need to cancel appointments? 
 - What's the process when staff needs to cancel an appointment? 
+- How do staff notify Veterans that their appointment was canceled?
 - How many days out do appointments typically get cancelled? 
 - When do Veterans expect to complete a travel reimbursement claim in relation to their appointment? 
 - What information do travel asisstants use to review and approve reimbursement requests?
@@ -85,14 +86,15 @@ Specifically, we’re looking to accomplish the following:
 ### Hypothesis 
 
 1. The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed. 
-1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
-1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
-1. MSAs will have shorter lines of Veterans waiting to be checked in. 
-1. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased. 
-1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE. 
-1. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended. 
-1. MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter. 
-1. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
+2. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
+3. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
+4. MSAs will have shorter lines of Veterans waiting to be checked in. 
+5. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased. 
+6. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE. 
+7. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended. 
+8. MSAs provide Spanish translation support in an ad-hoc fashion to Veterans/caregivers when needed.
+9. MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter. 
+10. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
 
 ## Method
 
