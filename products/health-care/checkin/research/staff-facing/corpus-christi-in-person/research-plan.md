@@ -118,7 +118,7 @@ TBD
 
 ## Timeline 
 
-Travel date(s): TBD
+Tentative date(s) on-site: July 19, 20 and 21 (with travel the day before and after)
 
 ## Team Roles
 
