@@ -35,8 +35,8 @@ Veteran population (projected)<sup>1</sup> = ~19,088,805
 
 |	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
 |	---	|	---	| --- | --:
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary |Veterans pension 	|	378,670
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary | Survivors pension 	|	378,670
+|	FY 2020<sup>2</sup>	|	Pension and Fiduciary |Veterans pension 	|	219,587
+|	FY 2020<sup>2</sup>	|	Pension and Fiduciary | Survivors pension 	|	159,083
 |	FY 2020<sup>2</sup>	|	Pension and Fiduciary |VA fiduciary program services 	|	162,779
 
 |	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
