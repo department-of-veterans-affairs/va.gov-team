@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-Last Updated: May 5, 2022
+Last Updated: July 1, 2022
 
 ### Communications
 
@@ -16,7 +16,10 @@ Last Updated: May 5, 2022
 ### Table of Contents
 
 - [Overview](#overview)
+- [User problem statements](#user-problem-statements)
+- [Measuring success](#measuring-success)
 - [Projects](#projects)
+- [How to access and test](#how-to-access-and-test)
 - [Backend](#backend)
 - [Design](#design)
 
@@ -30,12 +33,31 @@ Currently, we show:
 
 - Full name (not editable)
 - Date of birth (not editable)
-- Preferred name (editable -- launching June 2022)
-- Gender identity (editable -- launching June 2022)
+- Preferred name (editable)
+- Gender identity (editable)
+
+## User problem statements 
+
+- As a Veteran, I want to see what name and birth date the VA has on file for me.
+- As a Veteran, I want to be able to let VA staff know how to address me.
+- As a Veteran, I want to be able to let the VA know my gender identity.
+
+## Measuring success
+
+- [Personal information Google Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 
 ## Projects
 
 - [Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
+
+## How to Access and Test
+
+[Personal information staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-information.md)
+
+To access the personal information section of the profile in staging:
+
+1. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
+2. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
 
 ## Backend
 
