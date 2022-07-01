@@ -230,6 +230,21 @@ A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a 
 ![interact-VA-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-table.png)
 
 ### Missing tasks
+After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of the suggestions for new tasks, all of which were suggested by only one respondent:
+1. Find MST (Military Sexual Trauma) events, retreats, support groups 
+1. Obtain every Choice/Community Care referral provided to me for non-VA care with authorization numbers (in order to prove that VA bills were authorized by the VA and should be paid)
+1. Obtain a VA satisfaction survey to rate and provide a review of my experience as a patient receiving home telehealth monitoring 
+1. Find VA providers' background, education and qualifications on a VA sponsored site 
+1. View patient satisfaction results for each MD/NP/DO/PA
+1. Find a VA Rehab/nursing home
+1. Get DME (durable medical equipment)
+1. Get counseling in insurance options for Veterans (i.e. Medicare, Medicaid, Hospice)
+1. Find events/ceremonies that honor Veterans around holidays like Memorial Day, Armed Forces Day, and Veterans Day
+1. Get community care services
+1. Learn about legislative activities that affect VA benefits and programs.
+1. Obtain assistance with Board for Correction of Naval Records
+1. Request for Agent Orange (AO) or illness related to AO.
+1. Volunteer events to support the VA
 
 ### Feedback for VA
 
