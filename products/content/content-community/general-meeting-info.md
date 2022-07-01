@@ -4,12 +4,12 @@ This is a monthly meeting for VA.gov team members who are in a writing, editing,
 
 We’ll have a fluid agenda, with these primary goals:
 
-•	Share content-specific questions and support
-•	Share support for how to advocate for plain language and content design
-•	Share new content-specific research insights
-•	Conduct deep-dive learning sessions on sections of the VA.gov content style guide
-•	Brainstorm around shared content problems
-•	Identify opportunities to bring problems or presentations to the broader Monday design/content/research meetings
+- Share content-specific questions and support
+- Share support for how to advocate for plain language and content design
+- Share new content-specific research insights
+- Conduct deep-dive learning sessions on sections of the VA.gov content style guide
+- Brainstorm around shared content problems
+- Identify opportunities to bring problems or presentations to the broader Monday design/content/research meetings
 
 From time to time, we’ll also welcome in folks from other practice areas for shared information and learning.
 
