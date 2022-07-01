@@ -16,7 +16,7 @@ All of the content in the "Get benefits" section (outside of the actual 10-10EZ)
 **Notes on content strategy and IA of this section:**
 - There is a current, ongoing content and IA strategy effort to streamline this section (as well as other "Get benefits" sections). The goal of this effort is to make this section as easy as possible for Veterans and family members who are not familiar with VA to find, understand, and take action on. As part of this effort, some of the deeper content in this section may move into the Resources and support section of the site in the future.
 - This section is part of the vital benefit content slated for translation. We must take that into account when discussing changes around IA and content in this section.
-- This content must remain easy to find for people with little to no familiarity with VA, including those with limited English proficiency.
+- This content must remain easy to find for people with little to no familiarity with VA, including those with limited English proficiency. This will be particularly important as the PACT Act opens up health care eligibility to millions more Veterans.
 
 **Notes on content ownership and management of this section:**
 - The VA.gov content team and VHA digital will continue to own the "Get benefit" content. These teams must be full strategic, decision-making partners in any restructuring efforts and should lead any rewriting of this content.
@@ -35,9 +35,7 @@ This section includes mainly landing pages to online tools that currently live i
 
 ### Notes on content ownership and management
 
-The VA.gov content team currently manages this content. The content is owned by the VA.gov content team and relevant product partners/SMEs. We will need to decide which team (or teams) will be responsible for actively managing this content once the health apartment is live and how the team (or teams) will work with the different SMEs. 
-
-The content will need to continue to follow the VA.gov content standards. Any teams working on this content can come to the VA.gov content team for guidance and reviews.
+The VA.gov content team currently manages this content. The content is currently owned by the VA.gov content team and relevant product partners/SMEs. We'll need to clearly document which teams will be responsible for actively managing each piece of this content once the health apartment is live and how the teams will work with the different SMEs and with each other to make sure that all content adheres to the VA.gov content style guide. Any teams working on this content can come to the VA.gov content team for guidance and reviews.
 
 ### Notes on the COVID-19 content in this section
 
