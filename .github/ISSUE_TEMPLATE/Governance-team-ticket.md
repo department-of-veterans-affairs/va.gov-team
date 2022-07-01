@@ -30,7 +30,7 @@ _What details are necessary for understanding the specific work or request track
 - [ ] _Placeholder AC_
 
 ## How to prepare this issue
-- [ ] Attach story to appropriate Iniative or Quarterly Tech-Debt Epic.
+- [ ] Attach story to appropriate Initiative or Quarterly Tech-Debt Epic.
 - [ ] Add User Story, description, tasks, and Acceptance Criteria
 - [ ] Add any [additional appropriate labels](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2220359751/WIP+Tech+Debt+Ticket+Organization).
 - [ ] Once all above items are checked, add the 'Ready' label.
