@@ -1,6 +1,8 @@
 # 20-0995 Supplemental Claims Outline
 
 
+## Introduction
+
 ## Step 1 of 5 – Veteran Information
 - [ ] Disability compensation
 - [ ] Pension & Survivor’s Benefits
