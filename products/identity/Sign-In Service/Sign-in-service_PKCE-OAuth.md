@@ -13,7 +13,12 @@ VSP Identity Sign in Service
 ## Description
 This document describes how our PKCE OAuth partners can integrate with the Sign in Service.
 
+### Sequence Diagram
 ![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)
+
+### Technical Diagram
+![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
+[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
  
 ## Sign in service will provide: 
 - Unified Sign in Page: `staging.va.gov/sign-in?application=vamobile`
