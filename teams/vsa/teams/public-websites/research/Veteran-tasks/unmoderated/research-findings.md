@@ -53,11 +53,11 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 1. Veterans and others will generally agree on which tasks are the most important.
 
-    2. TRUE: . 
+    2. PARTLY TRUE: There is general agreement in task importance within subgroups but not overall. There are major differences in task importance between people who are using VA health care *vs.* not using it, and also between older and younger people. 
 
 3. Veterans and others will generally agree on which tasks are the least important.
 
-    2. MOSTLY TRUE: 
+    2. PARTLY TRUE: Same reason as above.
    
 
 # Key Findings
@@ -86,7 +86,7 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 ![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
 
-![top-tasks-under35](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35.png)
+![top-tasks-under35_a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35_a.png)
     
 </details>
 
@@ -117,7 +117,7 @@ The percentages for these top tasks can be compared to all the other tasks in th
 
 ![bar-chart--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-chart.png)
 
-![task-table--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-table.png)
+![all-tasks-all-ps-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-all-ps-table.png)
 
 ## 2. Most frequently done tasks were all related to health care and aligned closely with the overall top tasks
 
@@ -133,7 +133,9 @@ From the above list of 5 frequently done tasks, #2 and #5 weren't listed as task
 
 ## 3. For participants who don't use VA health care, top tasks were quite different
 
-Because most of the top tasks across all survey responses were related to health care, we subdivided the data by participants who use VA health care (41 or 75%) and those who don't use VA health care (14 or 25%). When you compare the top tasks for each of these groups, the results are very different, and only *disability compensation* and *VA medical records* are on both lists: 
+Because most of the top tasks across all survey responses were related to health care, we separated the data by participants who use VA health care (41 or 75%) and those who don't use VA health care (14 or 25%). When you compare the top tasks for each of these groups, the results are very different, and only *disability compensation* and *VA medical records* are on both lists (see below). 
+
+For people who don't use VA health care, it might be unexpected that *Get your VA medical records* would be an important task. However, they may have medical records from past experience with VA health care (maybe they voluntarily disenrolled or became ineligible), or perhaps they mean DoD medical records from their military service.
 
 ![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
 
@@ -141,50 +143,87 @@ Because most of the top tasks across all survey responses were related to health
 
 <details>
   <summary>Click to show details for ALL tasks</summary>
+  
+  ![all-tasks-no-hc-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-no-hc-chart.png)
 
-  ![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
-
-  ![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
+  ![all-tasks-no-hc-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-no-hc-table.png)
     
+  ![all-tasks-hc-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-hc-chart.png) 
+    
+  ![all-tasks-hc-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-hc-table.png)
+  
 </details>
 
 ## 4. Top tasks varied by participant age
 
-, with older participants favoring health care and burial, while younger participants more focused on education benefits and payment history.
-
-<details>
-  <summary>Click to show details</summary>
+We also partitioned participants by age to see whether there were difference in top tasks selected. We compared the top tasks from participants who were at least 55 years old with the top tasks from participants under 35 years old. The results showed that **older participants thought health care and burial tasks were most important**, whereas **younger participants were more focused on education benefits and payment history**, and *not* health care (see tables below.
 
 ![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
 
-![top-tasks-under35](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35.png)
+![top-tasks-under35_a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35_a.png)
+
+<details>
+  <summary>Click to show details for ALL tasks</summary>
+
+    ![all-tasks-55%26over-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-chart.png)
+
+    ![all-tasks-55%26over-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-table.png)
+    
+    ![all-tasks-under35-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-chart.png)
+    
+    ![all-tasks-under35-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-table.png)
     
 </details>
 
 ## 5. Least important tasks overall
 
+Below are the *least important* tasks across all survey participants, which were marked as important by fewer than 10% of participants.
+
 ![low-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/low-tasks-all-ps.png)
 
-
+Two of these tasks involve financial help (*Get help with your rent, utility bills, or other housing-related expenses* and *Get help with your VA debt*), so perhaps most of our research participants are not currently facing financial hardship. Other low-importance tasks involve less popular VA benefits (pension, caregiver program), as well as other benefits that apply to fewer people (hearing aids, school enrollment verification--only relevant if you're currently in school).
 
 ## 6. Participants selected an average of 9.5 tasks as important
-, ranging from 1 to 26. This was interesting because we didn't include the "select up to 10" wording that was originally in the survey question.
 
-## 7. It was **challenging to recruit people who don't use VA benefits** because such people generally aren't interested in providing feedback to VA. We wanted 20% of such participants but instead got only 2%.
+In the survey question about selecting which tasks are important, we didn't specify how many tasks to select. We had hoped that people would select about 5-10 of them. The average number selected was 9.5, with a range from 1 to 26. The average of 9.5 was interesting because we had originally included the instruction "select up to 10" but removed it. In the chart below, the number of tasks selected shows a normal curve, with the greatest number of people selecting 6-10 tasks.
 
+![#tasks-selected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/%23tasks-selected.png)
 
+## 7. Challenging to recruit people who don't use VA benefits
 
-**1. (Preliminary results) Participants selected an average of X tasks as important.**
+In recruiting participants for this survey, we wanted people who had experience with a variety of VA benefits and services so that each of our tasks would be potentially relevant to at least some respondents (see chart and table below). **The greatest number of survey respondents had experience with VA health care, disability, and education.** One person wrote in that they have experience with services for MST (Military Sexual Trauma).
 
-From the list of 41 VA-related tasks presented in the survey, research **participants selected an average of X tasks as important (ranging from Y to Z)**. 
+![benefit-experience-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/benefit-experience-chart.png)
 
-The task importance question included in the survey during this research was worded as follows (REVISE!!): 
-*Please check the VA-related tasks below that are most important to YOU personally right now, no matter how you do them (in person, on the phone, or online).* 
+![benefit-experience-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/benefit-experience-table.png)
 
+We also wanted 20% of our participants to be people who *haven't used any* VA benefits but were interested in doing so, so that the "learn about or apply" tasks might be more relevant for a group of people. Unfortunately, Perigean had difficulty recruiting people who don't use VA benefits, perhaps due to the following reasons:
+1. The benefits usage data in Perigean's recruitment database may be outdated because people may have applied for new benefits after filling out the recruitment survey. This was true for one participant interviewed during a moderated session who said he had applied for a home loan Certificate of Eligibility the day before the research session. 
+2. **People who don't use VA benefits generally aren't interested in providing feedback to VA.**
+
+We had only one participant (2%) who had no experience with VA benefits, which is a long way from our original goal of 20%.
+
+## Other Findings
+
+### How participants interact with VA
+A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a VA site, and/or call the VA. Somewhat fewer participants (38%) use eBenefits. A small number of people said that they don't contact the VA directly (7%) or don't interact with VA at all (6%).  
+
+![interact-VA-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-chart.png)
+
+![interact-VA-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-table.png)
+
+### Missing tasks
+
+### Feedback for VA
 
 # Recommendations
+1. Consider including these tasks on the home page and in home page usability studies:
+     1. TBD
+     2. TBD
+     3. TBD
+     4. 
 1. Consider grouping together health care tasks on the home page because most people will either want to do many of them or none of them. 
-2. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently enrolled in. 
+2. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
 
 
 # Next Steps
@@ -215,31 +254,26 @@ The task importance question included in the survey during this research was wor
 
 **Recruitment criteria**
 
-We wanted to interview Veterans and others who had a diverse range of experience with VA benefits and services, including no experience at all and some experience that doesn't include VA health care.
+We wanted to include Veterans and others who had a diverse range of experience with VA benefits and services, including some whose experience doesn't include VA health care, and some who had no experience at all with VA benefits.
 
-We talked to **N participants.**
+**55 participants** completed the survey (**48** from the unmoderated survey plus **7** from the moderated interviews).
 
 Audience segments:
-* Veterans:  
-* Caregivers: 
-* Family members of a Veteran:  
-* Service member:  
+* Veterans:  47 (86%)
+* Family members of a Veteran:  13 (24%)
+* Caregivers: 8 (15%)
+* Service member:  3 (6%)
+* Survivor: 1 (2%)
 
-
-Experience with VA benefits and services:
-* Experience with one or more VA benefits or services (i.e., health care, education or career services, disability benefits, housing benefits, pension, life insurance, burial benefits): **Y**
-* NO experience with health care, but DO have experience with one or more other VA benefits or services: 
-* NO experience with ANY VA benefits or services:  
- 
-**We wanted to get some participants without any VA benefits experience at all, but the participants recruited who didn't have any experience according to Perigean's recruitment survey actually did have experience**--perhaps because the survey data was outdated 
+![participant-roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/participant-roles.png)
 
 Gender:
-* Male:  
-* Female: 
-* Unknown: 
+* Male:   28
+* Female: 26
+* Unknown: 1
 
 
-Age:
+Age: **DO with MVS checker!**
 * 25-34: 
 * 35-44: 
 * 45-54: 
@@ -247,7 +281,7 @@ Age:
 * 65+: 
 
 
-Education:
+Education: **DO with MVS checker!**
 * High school degree or equivalent: 
 * Some college (no degree): 
 * Associate's degree, trade certificate or vocational training: 
@@ -256,18 +290,18 @@ Education:
 
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban: 35
+* Rural: 20
 
 
 Race:
-* White: 
-* Black: 
-* Hispanic: 
-* Biracial: 
-* Asian: 
-* Native: 
-* Unknown: 
+* White: 34
+* Black: 10
+* Hispanic: 7 
+* Biracial: 1
+* Asian: 1
+* Native: 2
+* Unknown: 2
 
 
 ## Underserved groups we haven’t talked to 
@@ -278,7 +312,5 @@ This research does not include the perspectives of the following marginalized Ve
 * Immigrant origin
 * Expat (living abroad)
 * Use assistive technology
-
-**We wanted to include a few people who had a cognitive disability and someone who used a screen reader, but the participants recruited who showed up for sessions didn't have any of these characteristics.**
 
 ![VA-recruitment-checker]()
