@@ -1,6 +1,6 @@
 name: Slack User Request
 description: To request adjustments to users in dsva.slack.com
-title: "[Slack]: "
+title: "[Slack User Request]: User Name"
 labels: ["Slack Request"]
 assignees:
   - eunicegar
