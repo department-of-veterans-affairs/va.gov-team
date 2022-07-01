@@ -7,7 +7,7 @@ assignees:
   - LEHigley
 body:
   - type: dropdown
-      id: request-type
+      id: request_type
       attributes:
         label: Request Type
         description: What type of request are you making?
@@ -17,7 +17,7 @@ body:
       validations:
             required: true
   - type: textarea
-      id: user-email
+      id: user_email
       attributes:
         label: Add New User: Email
         description: Email address of new user
@@ -27,7 +27,7 @@ body:
         label: Change User: Username
         description: Slack username of the existing user
   - type: dropdown
-      id: change-type
+      id: change_type
       attributes:
         label: Change User: Type
         description: Type of user change
