@@ -66,6 +66,7 @@ Personal information integrates through two different services:
 - Full name and date of birth come from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
 - Preferred name and gender identity come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
-## Design 
+## Design & UX
 
-- [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
+- [Personal information sketch files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
+- Use case documentation needed.
