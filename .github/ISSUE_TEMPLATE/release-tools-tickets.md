@@ -2,7 +2,7 @@
 name: Release Tools Tickets
 about: Template used by Release Tools when creating a new ticket
 title: 'Release Tools Tickets'
-labels: platform-team-release-tools
+labels: team-platform-release-tools
 assignees: ''
 ---
 
