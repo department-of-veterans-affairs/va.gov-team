@@ -12,8 +12,11 @@ body:
       label: "Request Type"
       description: "What type of request are you making?"
       options:
-        - "Add New User"
-        - "Change User"
+        - "Add New User: Single Channel Guest"
+        - "Add New User: Multi Channel Guest"
+        - "Add New User: Full Member"
+        - "Change User: Guest Channel Membership"
+        - "Change User: Guest to Full Member"
     validations:
           required: true
   - type: textarea
@@ -28,14 +31,6 @@ body:
       label: "Change User: Username"
       description: "Slack username of the existing user"
       placeholder: "@username"
-  - type: dropdown
-    id: change-type
-    attributes:
-      label: "Change User: Type"
-      description: "Type of user change"
-      options:
-        - "Single channel guest to multi channel guest"
-        - "Guest user to full member"
   - type: textarea
     id: logs
     attributes:
