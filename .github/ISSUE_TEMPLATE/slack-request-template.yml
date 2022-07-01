@@ -19,19 +19,19 @@ body:
   - type: textarea
     id: user-email
     attributes:
-      label: Add New User: Email
+      label: "Add New User: Email"
       description: Email address of new user
       placeholder: user@example.com
   - type: textarea
     id: username
     attributes:
-      label: Change User: Username
+      label: "Change User: Username"
       description: Slack username of the existing user
       placeholder: @username
   - type: dropdown
     id: change-type
     attributes:
-      label: Change User: Type
+      label: "Change User: Type"
       description: Type of user change
       options:
         - Single channel guest to multi channel guest
