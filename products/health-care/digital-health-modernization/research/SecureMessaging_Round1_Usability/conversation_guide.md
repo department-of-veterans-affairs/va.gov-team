@@ -7,7 +7,7 @@
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
 
-[Mural board for notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffair[…]/2d0a9e6d50017286384de901095380a15fddc1ac?sender=megpeters0505)
+[Mural board for notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1656704659736/7da8369eecb4edaa157bacd89647c6a6a654df18?sender=u8abf3342601897092e1b3882)
 
 ## Moderator logistics
 
