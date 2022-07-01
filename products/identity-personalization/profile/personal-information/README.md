@@ -21,7 +21,7 @@ Last Updated: July 1, 2022
 - [Projects](#projects)
 - [How to access and test](#how-to-access-and-test)
 - [Backend](#backend)
-- [Design](#design)
+- [Design](#design--ux)
 
 ---
 
