@@ -18,7 +18,7 @@ We will utilize feature toggles to manage a staged rollout.
 - Desired date range: _\[07/06/22 - 07/13/22\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_We will employ a phased rollout (utilizing percentage based feature flags - ie start with 25% of relevant users), to limit our initial audience._\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[_We will focus on delivery rates to show the emails are triggering correctly. We will also look at open rates to get a guage on roughly how many users are opening these reminders._\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[[Google Analytics] Delivery Rates are on our internal application]_
+- Links to dashboard(s) showing "success criteria" metrics: _\[[DOMO Dashboard](https://va-gov.domo.com/page/447193050). [Open rates for Happy Path](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open,analytics.eventLabel:Chapter%2031%20(form%2028-1900)%20Confirmation) [Open Rates for Central Mail](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open,analytics.eventLabel:Chapter%2031%20(form%2028-1900)%20Confirmation%20(CMP))
 
 
 ### Stage A: small population
@@ -28,7 +28,7 @@ _Test the first population of users to make sure there are no issues exposed._
 #### Planning
 
 - Length of time: 2 Days
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (X users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (75 users per day)
 
 #### Results:
 - Number of unique users: x
@@ -44,7 +44,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 #### Planning
 
 - Length of time: 2 Days
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (x users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (150 users per day)
 
 #### Results:
 - Number of unique users: x
