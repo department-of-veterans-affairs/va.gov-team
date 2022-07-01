@@ -406,6 +406,23 @@ This is a stretch goal and can be moved to next sprint if needed. PMs should be 
 ## Sprint 78 (7/13 - 7/26)
 [Epic: #40788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40788)
 
+This is roughly in priority order, though the redirect and on-site notifications are about the same level of priority. **My VA audit & updates and documentation efforts are currently on hold unless people have bandwidth**.
+
+### My VA redirect
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+- Release plan
+
+**Design**
+
+This assumes everything is fixed with the feature flag.
+
+- UAT/usability testing
+- Write up
+
 ### On-site notifications
 
 Our main objective this sprint is to make sure the feature is working. If it is, great! If not, we may need to add/adjust sprint tasks in order to get it working.
@@ -419,10 +436,17 @@ Once we are sure the feature is working...
 - QA go/no-go; QA
 - Release plan
 - Call center guide updates (can use My VA guide) 
+- Make sure we know where we are tracking analytics for this
+  - Do metrics need to get added to our [existing dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)? 
 
 ### My VA: Cerner updates
 
-- (531) Boise: Go-live -- 6/25/2022
+- (531) Boise: Go-live -- 7/23/2022
+
+### Payments V2
+
+- Another midpoint review
+- Research recruiting
 
 ## Sprint 79 (7/27 - 8/9)
 [Epic: #40789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40789)
