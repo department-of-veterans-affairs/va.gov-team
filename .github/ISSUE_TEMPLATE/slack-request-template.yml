@@ -9,36 +9,36 @@ body:
   - type: dropdown
     id: request-type
     attributes:
-      label: Request Type
-      description: What type of request are you making?
+      label: "Request Type"
+      description: "What type of request are you making?"
       options:
-        - Add New User
-        - Change User
+        - "Add New User"
+        - "Change User"
     validations:
           required: true
   - type: textarea
     id: user-email
     attributes:
       label: "Add New User: Email"
-      description: Email address of new user
-      placeholder: user@example.com
+      description: "Email address of new user"
+      placeholder: "user@example.com"
   - type: textarea
     id: username
     attributes:
       label: "Change User: Username"
-      description: Slack username of the existing user
-      placeholder: @username
+      description: "Slack username of the existing user"
+      placeholder: "@username"
   - type: dropdown
     id: change-type
     attributes:
       label: "Change User: Type"
-      description: Type of user change
+      description: "Type of user change"
       options:
-        - Single channel guest to multi channel guest
-        - Guest user to full member
+        - "Single channel guest to multi channel guest"
+        - "Guest user to full member"
   - type: textarea
     id: logs
     attributes:
-      label: Guest Users: Channels
-      description: What channels do they need to be added to? (For single or multi channel guests only)
+      label: "Guest Users: Channels"
+      description: "What channels do they need to be added to? (For single or multi channel guests only)"
       render: shell
