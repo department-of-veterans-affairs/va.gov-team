@@ -229,7 +229,7 @@ A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a 
 # Next Steps
 
 - Present results to Sitewide Public Websites team
-- Work with Public Websites to get top tasks into home page redesign in preparation for usability testing
+- Use some of the top tasks from this research as tasks for usability testing the home page redesign
 
 # Appendix
 
