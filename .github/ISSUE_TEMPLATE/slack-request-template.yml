@@ -21,11 +21,13 @@ body:
     attributes:
       label: Add New User: Email
       description: Email address of new user
+      placeholder: user@example.com
   - type: textarea
     id: username
     attributes:
       label: Change User: Username
       description: Slack username of the existing user
+      placeholder: @username
   - type: dropdown
     id: change_type
     attributes:
