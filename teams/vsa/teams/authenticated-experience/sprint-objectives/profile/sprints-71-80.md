@@ -523,6 +523,8 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 
 **Contact information - Liz**
 
+**This is actually happening now in sprint 77 since Liz's My VA work got postponed, so we can include in the sprint 77 epic and not sprint 78 epic**
+
 - Create plan for documentating Contact Info section
   - This is a big one, and includes address validation.
   - I think Christina has already put together some documentation on the new confirmation modal we added to the home address field that allows people to update their mailing address at the same time, so you might want to check in with her about this.
