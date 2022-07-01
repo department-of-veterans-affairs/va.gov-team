@@ -16,9 +16,12 @@ Last Updated: May 5, 2022
 ### Table of Contents
 
 - [Overview](#overview)
+- [User problem statements](#user-problem-statements)
+- [Measuring success](#measuring-success)
 - [Projects](#projects)
+- [How to access and test](#how-to-access-and-test)
 - [Backend](#backend)
-- [Design](#design)
+- [Design](#design--ux)
 
 ---
 
@@ -33,6 +36,14 @@ Currently, we show:
 - Period end dates
 - Multple periods of service, if applicable
 
+## User problem statements
+
+- As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
+
+## Measuring success
+
+Need link to GET/POST data in Google Analytics.
+
 ## Projects
 
 - [Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)
@@ -43,4 +54,5 @@ Military currently integrates through [eMIS](https://depo-platform-documentation
 
 ## Design 
 
-- [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775).
+- Use case documentation is needed.
