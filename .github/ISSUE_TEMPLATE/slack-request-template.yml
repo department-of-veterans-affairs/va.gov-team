@@ -7,33 +7,33 @@ assignees:
   - LEHigley
 body:
   - type: dropdown
-      id: request_type
-      attributes:
-        label: Request Type
-        description: What type of request are you making?
-        options:
-          - Add New User
-          - Change User
-      validations:
-            required: true
+    id: request_type
+    attributes:
+      label: Request Type
+      description: What type of request are you making?
+      options:
+        - Add New User
+        - Change User
+    validations:
+          required: true
   - type: textarea
-      id: user_email
-      attributes:
-        label: Add New User: Email
-        description: Email address of new user
+    id: user_email
+    attributes:
+      label: Add New User: Email
+      description: Email address of new user
   - type: textarea
-      id: username
-      attributes:
-        label: Change User: Username
-        description: Slack username of the existing user
+    id: username
+    attributes:
+      label: Change User: Username
+      description: Slack username of the existing user
   - type: dropdown
-      id: change_type
-      attributes:
-        label: Change User: Type
-        description: Type of user change
-        options:
-          - Single channel guest to multi channel guest
-          - Guest user to full member
+    id: change_type
+    attributes:
+      label: Change User: Type
+      description: Type of user change
+      options:
+        - Single channel guest to multi channel guest
+        - Guest user to full member
   - type: textarea
     id: logs
     attributes:
