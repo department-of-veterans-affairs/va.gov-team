@@ -8,6 +8,12 @@ This document discusses the available options for developing MHV features on VA.
 3. MHV service APIs are intranet-only. 
 4. MHV developers have GFEs that can access the intranet, but these are underpowered for running vets-api or vets-website locally. 
 5. MHV developers have corporate-issued laptops that can run vets-api or vets-website locally (both of these code bases are open-source/public repos), but can't access the intranet. 
+6. VA.gov's lower environments are continuously deployed from the master branch as follows:
+
+VA.gov Environment | MHV environment | Frontend domain | Backend domain 
+---|---|---|---
+dev | intb | dev.va.gov | dev-api.va.gov
+staging | sysb | staging.va.gov | staging-api.va.gov
 
 So given the above, what's the ideal setup for MHV developers to be productive? They will _mostly_ be actively developing frontend React code, but may need to tweak vets-api behavior as well. Initial development can probably proceed against a fairly static set of test data (opening the possibility of mocking data), but we should expect the need to test/debug against a live MHV lower environment.  
 
