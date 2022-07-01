@@ -11,13 +11,13 @@ This section includes content about the following topics:
 - After you apply
 - Family health benefits
 
-The VA.gov sitewide content and IA team and VHA digital team own the content in this section, and regularly collaborate with other OCTO and VHA teams. The VA.gov sitewide content and IA team works with the OCTO health apps product team and VHA member services on the 10-10EZ application itself.
+The VA.gov sitewide content and IA team and VHA digital team own the content in this section, in close collaboration with other OCTO and VHA teams. The VA.gov sitewide content and IA team works with the OCTO health apps product team and VHA member services on the 10-10EZ application itself.
 
 **Notes on content strategy and IA of this section:**
 -  This content must remain easy to find for people with little to no familiarity with VA, including those with limited English proficiency. This will be particularly important as the PACT Act opens up health care eligibility to millions more Veterans.
 - The VA.gov sitewide crew is engaged in 3 current, ongoing content and IA strategy efforts for this section. We must take these efforts into account when discussing proposed changes around IA and content in this section:
   - An effort to harden the content model for benefit eligibility and how to apply information across health care and other benefits to enable reusability (i.e., Create once publish everywhere, COPE, or Create once reuse everywhere, CORE).
-  - An effort to streamline this section as well as other "Get benefits" sections. The goal of this effort is to make this section as easy as possible for Veterans and family members who are not familiar with VA to find, understand, and take action on. As part of this effort, some of the deeper content in this section may move into the Resources and support section of the site in the future.
+  - An effort to streamline this section as well as other "Get benefits" sections (reflected in the "H1" concept that we're currently testing). The goal of this effort is to make this section as easy as possible for Veterans and family members who are not familiar with VA to find, understand, and take action on. As part of this effort, some of the deeper content in this section may move into the Resources and support section of the site in the future.
   - An effort to offer this section as well as other vital benefit content in Spanish. 
 
 **Notes on content ownership and management of this section:**
