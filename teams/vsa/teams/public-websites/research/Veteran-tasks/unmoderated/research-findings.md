@@ -68,7 +68,7 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 Resulting from additional analyses of segments of the survey responses, here's a longer list of top tasks partitioned into primary, secondary, tertiary groupings based on how often they ended up in segment top task lists:
 
-![top-tasks-3-tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-3-tiers.png)
+![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
 
 2. The **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks.
 
@@ -125,16 +125,21 @@ The percentages for these top tasks can be compared to all the other tasks in th
 
 ## SUMMARY of top tasks overall
 
-The goal of this research was to come up with one list of top tasks that can be used in the VA.gov home page design, usability studies, and other user research and analytics assessments of VA.gov. Survey responses from the following 5 different segments of participants were analyzed for this report: 
+The goal of this research was to come up with one list of top tasks that can be used in the VA.gov home page design, usability studies, and other user research and analytics assessments of VA.gov. Survey responses from the following 6 different segments of participants were analyzed for this report: 
 1. All participants
 2. Participants using VA health care
 3. Participants *not* using VA health care
 4. Participants who were 55 years old or older
-5. Participants who were under 35 years old
+5. Participants who were 35-54 years old
+6. Participants who were under 35 years old
 
-All tasks that were marked as important by at least 30% of any one of the above segments were compiled, and the number of times that each task appeared on one of the 5 lists was tallied. The results show which tasks were rated as important the most often, and this leads to the following list of primary, secondary, and tertiary top tasks:
+All tasks that were marked as important by at least 30% of any one of the above segments were compiled, and the number of times that each task appeared on one of the 6 lists was tallied, along with the percentage of all participants who marked each as important. 
 
-![top-tasks-3-tiers-tallies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-3-tiers-tallies.png)
+![top-tasks-6segments-tallies&percents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies%26percents.png)
+
+The above results show which tasks were rated as important the most often, and this suggests the grouping below of primary, secondary, and tertiary top tasks. Within each primary/secondary/tertiary grouping, tasks are in order of decreasing percentage selected by all participants.
+
+![top-tasks-6segments-tallies-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies-a.png)
 
 ## 2. Most frequently done tasks were all related to health care and aligned closely with the overall top tasks
 
@@ -173,22 +178,29 @@ For people who don't use VA health care, it might be unexpected that *Get your V
 
 ## 4. Top tasks varied by participant age
 
-We segmented participants by age to see whether there were difference in top tasks selected. We compared the top tasks from participants who were at least 55 years old (42% of all participants) with the top tasks from participants under 35 years old (13% of participants). The results showed that **older participants thought health care and burial tasks were most important**, whereas **younger participants were more focused on education benefits and payment history**, and *not* health care (see tables below. Note that the older group had many more people (23 of 55) than the younger group (7 of 55).
+We segmented participants by age to see whether there were difference in top tasks selected. We compared the top tasks from participants who were at least 55 years old (42% of all participants) with the top tasks from participants under 35 years old (13% of participants). The results showed that **older participants thought health care and burial tasks were most important**, whereas **younger participants were more focused on education benefits, payment history, and contact information**--and *not* health care (see tables below). Note that the older group had many more people (23 of 55) than the younger group (7 of 55). We also defined a third segment with the 25 participants (45%) who were between the oldest and youngest groups (age 35-54), and those data align more with the older group--mostly health care tasks plus disability compensation, but no burial.
 
 ![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
 
 ![top-tasks-under35_a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35_a.png)
 
+![top-tasks-age35-54](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-age35-54.png)
+
+
 <details>
   <summary>Click to show details for ALL tasks</summary>
 
-    ![all-tasks-55%26over-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-chart.png)
+  ![all-tasks-55%26over-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-chart.png)
 
-    ![all-tasks-55%26over-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-table.png)
+  ![all-tasks-55%26over-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-table.png)
     
-    ![all-tasks-under35-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-chart.png)
+  ![all-tasks-under35-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-chart.png)
     
-    ![all-tasks-under35-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-table.png)
+  ![all-tasks-under35-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-table.png)
+    
+  ![all-tasks-age35-54-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-age35-54-chart.png)
+    
+  ![all-tasks-age35-54-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-age35-54-table.png)
     
 </details>
 
@@ -249,9 +261,9 @@ After the task importance question, the survey asked if there were any other imp
 ### Feedback for VA
 
 # Recommendations
-1. Going forward, consider including the 7 primary top tasks in the VA.gov home page, usability tests, and other user research and analytics. If a longer list or wider range of tasks is needed, draw from the 8 secondary top tasks and possibly the 10 tertiary top tasks.
+1. Going forward, consider including the 6 primary top tasks in the VA.gov home page, usability tests, and other user research and analytics. If a longer list or wider range of tasks is needed, draw from the 9 secondary top tasks and possibly the 10 tertiary top tasks. **SPECIFY HOW MANY AND WHICH ONES**
 
-![top-tasks-3-tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-3-tiers.png)
+![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
      
 2. With limited space to list tasks on the redesigned VA.gov home page, consider grouping together health care tasks since most users will either want to do most of them or none of them. 
 2. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
