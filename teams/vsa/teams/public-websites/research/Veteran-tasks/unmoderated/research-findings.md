@@ -141,6 +141,12 @@ The above results show which tasks were rated as important the most often, and t
 
 ![top-tasks-6segments-tallies-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies-a.png)
 
+These top 25 tasks can be viewed by benefit category, as seen below in the order above and then sorted by benefit. 9 of the top 25 tasks are related to health care, followed by 4 related to education, 3 related to disability, 3 other, and 6 that are independent of the benefit categories.
+
+![top-tasks-by-benefit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit.png)
+
+![top-tasks-by-benefit-sorted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit-sorted.png)
+
 ## 2. Most frequently done tasks were all related to health care and aligned closely with the overall top tasks
 
 Survey participants were asked *What VA-related tasks do you do MOST FREQUENTLY?* to answer with open-ended text. By far the most numerous responses were for health care tasks:
@@ -163,7 +169,7 @@ For people who don't use VA health care, it might be unexpected that *Get your V
 
 ![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
 
-It is interesting to note that in the above top tasks lists, the *disability compensation percentage is much higher for people without VA health care* (71%) as compared to those with VA health care (37%). 
+It is interesting to note that in the above top tasks lists, the *disability compensation percentage is much higher for people without VA health care* (71%) as compared to those with VA health care (37%). Perhaps a number of Veterans start exploring disability compensation before applying for VA health care.
 
 <details>
   <summary>Click to show details for ALL tasks</summary>
@@ -262,13 +268,34 @@ After the task importance question, the survey asked if there were any other imp
 
 ### Feedback for VA
 
+**TBD**
+
 # Recommendations
-1. Going forward, consider including the 6 primary top tasks in the VA.gov home page, usability tests, and other user research and analytics. If a longer list or wider range of tasks is needed, draw from the 9 secondary top tasks and possibly the 10 tertiary top tasks. **SPECIFY HOW MANY AND WHICH ONES**
+1. When choosing user tasks for use in designing the VA.gov home page or planning user research or analytics, consider your audience:
+- Will there will be people who use VA health care? People who don't use VA health care? Both? **If there are many people who don't use VA health care, be aware that tasks related to health care may be totally irrelevant.**
+- What age range(s) of people? Younger? Older? All ages? **Older people may be more focused on health care and burial but not on education, whereas younger people may be the opposite.** 
+Consider including a range of tasks from the list of the top 25 to have at least some relevant to most people in your user base.
 
 ![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
-     
+
+2. Since the unauthenticated VA.gov home page serves users of all ages with and without VA health care, and there is limited space to list tasks on the redesigned home page, consider including the following:
+     1. Learn about or file for disability compensation (service-related)
+     1. Get your VA medical records
+     2. Manage your VA health care
+     4. Update your contact information with VA
+     5. Learn about, apply for, or update your education benefits
+     6. Get letters about your VA benefits and service history (benefit letters)
+     7. Learn in advance if eligible for burial in a VA cemetery
+
+*Manage your VA health care* could have the following links below it:
+- Schedule or manage health appointments
+- Message your doctor or get a health care message
+- Check your lab or test results
+- Refill or track a prescription 
+
 2. With limited space to list tasks on the redesigned VA.gov home page, consider grouping together health care tasks since most users will either want to do most of them or none of them. 
-2. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
+
+4. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
 
 
 # Next Steps
