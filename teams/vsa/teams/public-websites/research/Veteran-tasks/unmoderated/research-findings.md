@@ -137,15 +137,19 @@ All tasks that were marked as important by at least 30% of any one of the above 
 
 ![top-tasks-6segments-tallies&percents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies%26percents.png)
 
-The above results show which tasks were rated as important the most often, and this suggests the grouping below of primary, secondary, and tertiary top tasks. Within each primary/secondary/tertiary grouping, tasks are in order of decreasing percentage selected by all participants.
+The above results show which tasks were rated as important the most often, and this suggests the grouping below of **primary, secondary, and tertiary top tasks**. Within each primary/secondary/tertiary grouping, tasks are in order of decreasing percentage selected by all participants.
 
 ![top-tasks-6segments-tallies-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies-a.png)
 
-These top 25 tasks can be viewed by benefit category, as seen below in the order above and then sorted by benefit. 9 of the top 25 tasks are related to health care, followed by 4 related to education, 3 related to disability, 3 other, and 6 that are independent of the benefit categories.
+These top 25 tasks can be **viewed by benefit category**, as seen below in the order above and then sorted by benefit. 9 of the top 25 tasks are related to health care, followed by 4 related to education, 3 related to disability, 3 other, and 6 that are independent of the benefit categories.
 
 ![top-tasks-by-benefit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit.png)
 
 ![top-tasks-by-benefit-sorted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit-sorted.png)
+
+The top benefit-specific tasks split almost evenly in half between those that enable people to **learn/explore/browse/apply** for benefits *vs.* those that enable **regular/routine management of benefits** that they already use. Within each grouping, tasks are in order of decreasing percentage selected by all participants.
+ 
+![top-tasks-by-learn-manage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-learn-manage.png)
 
 ## 2. Most frequently done tasks were all related to health care and aligned closely with the overall top tasks
 
@@ -271,35 +275,23 @@ After the task importance question, the survey asked if there were any other imp
 **TBD**
 
 # Recommendations
-1. When choosing user tasks for use in designing the VA.gov home page or planning user research or analytics, consider your audience:
-- Will there will be people who use VA health care? People who don't use VA health care? Both? **If there are many people who don't use VA health care, be aware that tasks related to health care may be totally irrelevant.**
-- What age range(s) of people? Younger? Older? All ages? **Older people may be more focused on health care and burial but not on education, whereas younger people may be the opposite.** 
-Consider including a range of tasks from the list of the top 25 to have at least some relevant to most people in your user base.
+1. When choosing user tasks for use in designing the VA.gov home page or planning any user research or analytics, **consider your audience:**
+- Where will people be in their **journey using VA benefits**? Will they be focused more on learning about VA benefits and applying for them, or managing the benefits they already have, or both? 
+- Will there will be people who **use VA health care?** People who don't use VA health care? Both? 
+- What **age range(s)** of people? Younger? Older? All ages? 
+
+Then **select a range of tasks from the list of the top 25 to have at least some relevant to most people in your user base.**
 
 ![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
 
-2. Since the unauthenticated VA.gov home page serves users of all ages with and without VA health care, and there is limited space to list tasks on the redesigned home page, consider including the following:
-     1. Learn about or file for disability compensation (service-related)
-     1. Get your VA medical records
-     2. Manage your VA health care appointments, messages, lab results, or prescriptions
-     4. Update your contact information with VA
-     5. Learn about, apply for, or update your education benefits
-     6. Get letters about your VA benefits and service history (benefit letters)
-     7. Learn in advance if eligible for burial in a VA cemetery
-
-*Manage your VA health care* could have the following links below it:
-- Schedule or manage health appointments
-- Message your doctor or get a health care message
-- Check your lab or test results
-- Refill or track a prescription 
-
-4. **NEED TO REVISE** The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
-
+2. Since the unauthenticated VA.gov home page serves users of all ages, experience levels with VA (including with and without VA health care), **we'd like the home page to support all 25 top tasks**. Usability testing of the redesigned home page will provide valuable input to see whether all top tasks--including both learn/apply and manage benefits tasks--are easy to do from the home page.
 
 # Next Steps
 
-- Present results to Sitewide Public Websites team
-- Use some of the top tasks from this research as tasks for usability testing the home page redesign
+- Present results to Sitewide Public Websites team.
+- Use a variety of top tasks from this research as tasks for usability testing the home page redesign.
+- From the planned usability testing of the home page redesign, learn what parts of the home page people use to accomplish tasks (e.g., Common Tasks, search, benefit hubs), and what works well and not so well.
+- For tasks that prove difficult to do, consider design changes to the redesigned home page to make them easier, and then do another round of usability testing.
 
 # Appendix
 
