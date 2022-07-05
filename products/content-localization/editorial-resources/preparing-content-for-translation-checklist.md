@@ -5,12 +5,7 @@ _Note: This is a WIP checklist._
 ## General grammar, style, and punctuation
 
 - [ ] Text is free of spelling and grammatical errors.
-- [ ] Text is written in sentence casing.
-
-| Like this | Not like this |
-|---|---|
-| Managing your health care | Managing Your Health Care |
-
+- [ ] Text is written in sentence casing, with only proper nouns and the first letter of the first word of each title, subhead, or sentence capitalized.
 - [ ] Text uses the Oxford comma.
 
 | Like this | Not like this |
@@ -24,13 +19,14 @@ _Note: This is a WIP checklist._
 | If you delete this entry, you'll lose all your information. | If you delete this entry, all your information will be lost. |
 | Call us at 800-555-5555. | We can be reached at 800-555-5555. |
 
-- [ ] Text avoids indicating the plural by using (s)
+- [ ] Text avoids indicating the plural by using (s).
 - [ ] Text avoids indicating "and" by using an "&".
+- [ ] Text avoids "and/or".
 
 ## Sentences
 
 - [ ] Sentences are no more than 25 words in length. Aim for sentences between 5 and 20 words whenever possible.
-- [ ] In general, each sentence conveys 1 thought and contains 1 active verb. There may be exceptions where a sentence with 2 active verbs is better in order to avoid awkward writing. 
+- [ ] Each sentence conveys 1 thought and contains 1 active verb. Note: You may have occassional exceptions where a sentence with 2 active verbs is better in order to avoid awkward writing. 
 
 - [ ] Each sentence within body copy is complete. Each sentence starts with a capital letter includes the following:
   - A subject
@@ -81,8 +77,6 @@ _Note: This is a WIP checklist._
 
 - [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
 
-- [ ] Text avoids "and/or" 
-
 - [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out on the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
 
 ## Bulleted lists
@@ -92,7 +86,7 @@ _Note: This is a WIP checklist._
 - [ ] In bulleted lists, each list item is a complete sentence wherever possible. There may be exceptions when a phrase or single word makes sense.
 - [ ] Dates are written in non-numeric format.
 
-## URLs and links Links to other pages
+## Links to other pages
 
 - [ ] Links to pages that won't be translated include "(in English)" as part of the link. **Note:** This is a specific 508 requirement.
 
