@@ -14,7 +14,7 @@
 
 - Ideally, we use one toggle per feature.
 - A feature is an enhancement we would want to test and prove out before the end users can see/use it.
-- Always aim to deprecate a toggle after the feature is successfully deployed to production. 
+- Always aim to deprecate a toggle after the feature is successfully deployed to production.
 - Namespace your toggles by naming the toggle using the `profile_` prefix. The toggle should be specific to your feature. For example: `profile_my_feature` or `profile_do_not_require_zip_code`.
 
 ## Rough guidelines of how to implement a toggle
@@ -29,8 +29,9 @@
 
 ## Testing features in production
 
-- First, we start by enabling the feature per user. Enabling per user allows for smoke testing and UAT testing. 
+- First, we start by enabling the feature per user. Enabling per user allows for smoke testing and UAT testing.
   - To note, the team should be checking analytics for the smoke test to confirm they are working.
 - Once the feature has been smoke-tested and UAT tested, we enable it for a subset of users, usually `25%` of logged-in users.
 - After a bit, we bump the number to `50%`, then `75%`, and then `100%` of logged-in users. With each bump happening after we verify the feature works as expected, using the analytics we have set up.
+  - Each of these steps will be a ticket created by your PM/PO.
 - Once the feature is entirely on, the developer can remove the feature toggle. Removing the toggle will also include removing old tests and code no longer needed.
