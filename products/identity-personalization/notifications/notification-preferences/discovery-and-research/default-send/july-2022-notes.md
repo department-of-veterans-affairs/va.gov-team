@@ -24,7 +24,20 @@ Telephone Consumer Protection Act (TCPA), the only requirement is that we need t
 - Implicit send (aka default send) says that they can still send the notification without an explicit opt in
 
 6. **Do we still need to require people to opt in OR out for each notification type?** 
-- We 
+Not necessarily. For all notifications, we must have a record of whether a person has opted out, so there is a paper trail should the person ever have a problem with receiving VA notifications after they have unsubscribed.
+
+If we use the new default send flag in combination with the permission value for a notification (communication item), we can determine whether or not a person has explicitly opted out . 
+
+|Consent type|defaultSendIndicator value|permission value|subscription status|person has explicitly opted out?|
+| --- |--- |--- |--- |--- |
+|Implicit (default send)| `true`|`null`|subscribed|no|
+|Implicit (default send)| `true`|`true`|subscribed|yes|
+|Implicit (default send)| `true`|`false`|unsubscribed|yes|
+|Explicit| `false`|`null`|unsubscribed|no|
+|Explicit| `false`|`true`|subscribed|yes|
+|Explicit| `false`|`false`|unsubscribed|yes|
+
+
 
 7. **How does this new flag change the data structure of VA Profile’s API?**
 - This is a boolean value in the communication group data called `defaultSendIndicator`
