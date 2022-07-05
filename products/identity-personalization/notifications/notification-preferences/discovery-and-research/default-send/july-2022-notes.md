@@ -15,8 +15,7 @@ VA Profile has added a data point to their API that tells us whether or not a no
 4. **How do other websites approach this? Are there any best practices” we should consider?**
 
 5. **As a government entity, are we required to show the difference between when a user has opted in themselves and when they have been opted in by default?**
-- There are no requirements to show this difference. To comply with 
-Telephone Consumer Protection Act (TCPA), the only requirement is that we need to provide an explicit means of opting out.
+There are no requirements to show this difference. To comply with Telephone Consumer Protection Act (TCPA), the only requirement is that we need to provide an explicit means of opting out.
 
 6. **How is VA Notify using this new flag?**
 - It’s a technical flag to understand what kind of logic to use when they’re notifying somebody
@@ -28,7 +27,7 @@ Not necessarily. For all notifications, we must have a record of whether a perso
 
 If we use the new default send flag in combination with the permission value for a notification (communication item), we can determine whether or not a person has explicitly opted out . 
 
-|Consent type|defaultSendIndicator value|permission value|subscription status|person has explicitly opted out?|
+|Consent type|defaultSendIndicator value|permission value|subscription status|person has explicitly opted in or out?|
 | --- |--- |--- |--- |--- |
 |Implicit (default send)| `true`|`null`|subscribed|no|
 |Implicit (default send)| `true`|`true`|subscribed|yes|
