@@ -47,7 +47,7 @@ The primary goals of this research are to understand from the perspective of Pub
 The results of this research will be used to develop recommendations for OCTO-DE and OHT to inform a future direction for how to inform Veterans about the impact of COVID-19 protection levels at a specific facility and how that may impact their health care journey.
 
 ## Hypothesis
-PAOs want the flexibility to add specific, local guidance to the national COVID operating status language, in order to provide Veterans with the info they need for their visit.
+The standardized COVID health protection guidelines do not reflect the actual policies and practices at local VAMC facilities. This creates multiple problems for Veterans and staff including: confusion for Veterans both before a visit and when they arrive, an increasing the burden on the the VA staff who may have to clarify the policies. This confusion and misalignment can slow the Veteran's ability to receive care.
 
 ## Research Questions
 * What specific language is working or not working at the facility level? Why? 
