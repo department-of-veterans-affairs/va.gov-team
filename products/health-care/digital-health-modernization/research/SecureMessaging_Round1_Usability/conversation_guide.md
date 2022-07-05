@@ -122,8 +122,8 @@ Before we start, a few things I want to mention:
 
 ## Send a new message - 10 minutes
 - What kind of concerns would you send messages about and are there cases when you should not send a message?
-- How do you choose who you are sending your message to?
-- Let's say you wanted to change who is in your list of providers, how would you expect to do that?
+- How do you select the provider you want to send your message to?
+- If you want to change who is in your list of providers, how would you do that?
 - Who would you expect the message to say that it is from?
 - Which category would you pick for your message? How do you decide which category to choose?
 - If you wanted to send a file to your provider, how would you do that? What kind of attachments would you send?
