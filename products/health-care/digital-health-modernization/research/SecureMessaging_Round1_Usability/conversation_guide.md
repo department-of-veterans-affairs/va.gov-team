@@ -83,7 +83,7 @@ Before we start, a few things I want to mention:
 - What are you seeing here? 
 - What would you enter here?
 - What would you expect to see? (if they hit the search button here)
-- Do you ever use advanced search?
+- Lets say you didn’t get enough detail in that search result, what would you do? (if they click advanced search)
 - Which fields would you use?
 - What do these fields mean to you?
 - What order would you like them to be in?
@@ -122,11 +122,11 @@ Before we start, a few things I want to mention:
 
 ## Send a new message - 10 minutes
 - What kind of concerns would you send messages about and are there cases when you should not send a message?
-- How do you decide who to send your message to?
-- Would you ever want to change who is in your list of providers? How would you expect to do that?
+- How do you choose who you are sending your message to?
+- Let's say you wanted to change who is in your list of providers, how would you expect to do that?
 - Who would you expect the message to say that it is from?
 - Which category would you pick for your message? How do you decide which category to choose?
-- Do you ever send attachements to your provider? How would you do that? What kind of attachments would you send?
+- If you wanted to send a file to your provider, how would you do that? What kind of attachments would you send?
 - Which fields so you have to fill out in order to send your message?
 - How do you normally end your messages to your care team? Do you include any kind of closing words? (If so) Would you like to be able to do that here? What would you include?
 - If you started composing a message, but wanted to come back and finish it later, what would you do? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
