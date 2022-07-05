@@ -9,7 +9,7 @@
      - (6/22) - Contact center would contact via phone, not email due to potentially having PII
           - Researching future email messaging without PII, but not yet implemented
           - Content to be updated or removed on Confirmation Page to reflect the accurate process
-          - [ ] **(6/22) - Tarsha** will send to Stacey Echols for review as well
+          - [x] **(6/22) - Tarsha** will send to Stacey Echols for review as well
 - Medicare Claim Number
      - [ ] (6/22) - Jessica (Jessi) Soza and team working on adding the Medicare Claim number field to the paper form
           - Online Health Apps Team to hold on releasing to production until we can coordinate with them
