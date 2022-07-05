@@ -27,7 +27,7 @@ The current design of the VA.gov home page provides easy access to some Veteran 
 
 We wanted to learn which VA-related tasks are most important to Veterans and others, including Veterans' family members or caregivers, survivors, and service members, so that these tasks can be best supported from the home page. 
 
-The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them.
+The top tasks that we identify could be used to inform the redesign of the VA.gov home page and measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks. We can also look at the navigation path(s) for each top task and examine analytics for them. The identification of top tasks will also be informative to other teams working throughout the VA.gov ecosystem.
 
 Veteran tasks fit into the Veteran journey throughout their lives:
 
@@ -66,7 +66,7 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 ![top-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps.png)
 
-Resulting from additional analyses of segments of the survey responses, here's a longer list of top tasks partitioned into primary, secondary, tertiary groupings based on how often they ended up in segment top task lists:
+After additional analyses of survey responses segmented by participant age and whether they use VA health care, here's a longer list of top tasks partitioned into primary, secondary, tertiary groupings based on how often they ended up in segment top task lists:
 
 ![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
 
@@ -100,7 +100,7 @@ Resulting from additional analyses of segments of the survey responses, here's a
 
 6. Participants selected an **average of 9.5 tasks as important**, ranging from 1 to 26. This was interesting because we didn't include the "select up to 10" wording that was originally in the survey question.
 
-7. It was **challenging to recruit people who don't use VA benefits** because such people generally aren't interested in providing feedback to VA. We wanted 20% of such participants but instead got only 2%.
+7. It was **challenging to recruit people who don't use VA benefits** because such people generally aren't interested in providing feedback to VA. We wanted 20% of such participants but instead got only 2% (1 participant of 55).
 
 
 # Details of Findings 
@@ -145,13 +145,13 @@ The above results show which tasks were rated as important the most often, and t
 
 Survey participants were asked *What VA-related tasks do you do MOST FREQUENTLY?* to answer with open-ended text. By far the most numerous responses were for health care tasks:
 
+1. Schedule/check medical appointments (19)
 1. Refill a prescription (15)
-2. Health care visits/appointments (11)
-3. Message or contact medical providers (9)
-4. Schedule or check medical appointments (8)
-5. MyHealtheVet (6)--no specific task
+1. Message/contact medical providers (9)
+1. MyHealtheVet *[no specific task]* (6)
+1. Check/verify/transfer education benefits (4)
 
-From the above list of 5 frequently done tasks, #2 and #5 weren't listed as tasks in our survey (health care visits/appointments and MyHealtheVet), but  the other 3 tasks were top tasks #1, 2, and 4 across all participants.
+From the above list of 5 frequently done tasks, #4 MyHealtheVet wasn't listed as a task in our survey, but #1-3 were top tasks #1, 2, and 4 across all participants. Education-related tasks were further down in the top tasks.
 
 ## 3. For participants who don't use VA health care, top tasks were quite different
 
@@ -162,6 +162,8 @@ For people who don't use VA health care, it might be unexpected that *Get your V
 ![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
 
 ![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
+
+It is interesting to note that in the above top tasks lists, the *disability compensation percentage is much higher for people without VA health care* (71%) as compared to those with VA health care (37%). 
 
 <details>
   <summary>Click to show details for ALL tasks</summary>
