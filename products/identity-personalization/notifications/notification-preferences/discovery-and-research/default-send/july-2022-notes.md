@@ -10,6 +10,7 @@ VA Profile has added a data point to their API that tells us whether or not a no
 2. **How do we convey the different notification types to users (user opt-in vs default opt-in)?**
 
 3. **How can a user opt-out of a default opt-in?**
+- A user can reply STOP to a text message to unsubscribe
 
 4. **How do other websites approach this? Are there any best practices” we should consider?**
 
@@ -27,3 +28,20 @@ Telephone Consumer Protection Act (TCPA), the only requirement is that we need t
 
 7. **How does this new flag change the data structure of VA Profile’s API?**
 - This is a boolean value in the communication group data called `defaultSendIndicator`
+
+
+
+## Outstanding questions for VA Notify
+1. Do all VA Notify emails have an unsubscribe link?
+2. Does every text message include “reply STOP to opt out” or something to that effect?
+3. Are there VA emails that have default sends, or is it just text messages?
+4. 
+5. I’m trying to understand which types of notifications are eligible for default sends, and found info below in the PDF Beverly shared. Are there any other kinds of default sends a Veteran could receive that aren’t covered here? I don’t see transactional messages listed (e.g. email address in your profile has been changed) but perhaps that falls under the 3rd item in that list.
+> A 2015 FCC Declaratory Ruling5 notes the following types of messages would not require “explicit written consent”:
+> i. Health care communication, including communication about appointment and exam confirmations and reminders, wellness checkups, hospital pre-registration instructions, pre-operative instructions, lab results, post-discharge follow-up intended to prevent readmission, prescription notifications, and home healthcare instructions
+> ii. Notification of shipment and tracking information
+> iii. Notification about the status of a service an individual is seeking
+> iv. Financial related messages (i.e. notes about debts owed)
+> v. Disaster related messages related to health and safety
+
+
