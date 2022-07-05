@@ -31,4 +31,6 @@
      - Potential to deliver in July, **will discuss at the next meeting 7/6**
 - American Indian question
      - Online Health Apps team would like to confirm the go-live date for adding this in production
-     - Would this date be the same for adding the Medicare Claim number field?
+- Medicare Claim number field
+     - What is the data going to be used for or by?
+          - Is there a downstream system that will use this data?
