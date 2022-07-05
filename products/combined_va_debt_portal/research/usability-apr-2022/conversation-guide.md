@@ -154,7 +154,8 @@ https://preview.uxpin.com/14f87574b6f025caa5d45944153e0003aa62fab4#/pages/151250
 - FYI this is the content page, the green button links to the production summary page 
 
 * Backup UXPin URL for summary page with debts and copays: https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/sitemap?mode=if 
-* FYI: For screen reader users send them https://va.gov/manage-debt-and-bills/summary/
+
+* FYI: For screenreader users on a mobile device, tell them to type in this link (to summary page) bit.ly/vastudy1. You can also text or email them https://va.gov/manage-debt-and-bills/summary/
 
 What are your thoughts about this page? What is working and not working about it?
 
@@ -192,6 +193,8 @@ Let's say you got an email telling you that you need to pay your copay balance w
 
 Paste the following links in the chat:
 https://va.gov/manage-debt-and-bills/summary/copay-balances 
+
+For screenreader users on a mobile device, have them type in bit.ly/vastudy2. You can also text or email them https://va.gov/manage-debt-and-bills/summary/copay-balances 
 
 * Backup UXPin URL for copay balances page:https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=if
 * Backup UXPin URL for summary page with debts and copays: https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/sitemap?mode=if 
