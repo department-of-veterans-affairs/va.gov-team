@@ -7,8 +7,10 @@ Review Page Round 2 Conversation Guide
     -   Mobile: <https://tinyurl.com/2xk47ejy>
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
-Mural Board for notes
-Google sheet for notes
+
+[Mural Board for notes](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1657036043870/8f68071ff4da216495fc17f3622fd78fd54e7740?sender=ud966d802f30041ec83a99047)
+
+[Google sheet for notes](https://docs.google.com/spreadsheets/d/1XHIdKm3kJ-px_38-oWMp_b3KYE6OaQQqD2X7KYDr_yQ/edit?usp=sharing)
 
 Moderator logistics
 -------------------
