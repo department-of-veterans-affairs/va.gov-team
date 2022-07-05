@@ -281,7 +281,7 @@ Consider including a range of tasks from the list of the top 25 to have at least
 2. Since the unauthenticated VA.gov home page serves users of all ages with and without VA health care, and there is limited space to list tasks on the redesigned home page, consider including the following:
      1. Learn about or file for disability compensation (service-related)
      1. Get your VA medical records
-     2. Manage your VA health care
+     2. Manage your VA health care appointments, messages, lab results, or prescriptions
      4. Update your contact information with VA
      5. Learn about, apply for, or update your education benefits
      6. Get letters about your VA benefits and service history (benefit letters)
@@ -293,9 +293,7 @@ Consider including a range of tasks from the list of the top 25 to have at least
 - Check your lab or test results
 - Refill or track a prescription 
 
-2. With limited space to list tasks on the redesigned VA.gov home page, consider grouping together health care tasks since most users will either want to do most of them or none of them. 
-
-4. The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
+4. **NEED TO REVISE** The VA.gov home page should enable people to do tasks related to their current VA benefits, as well as highlight other benefits that they're not yet using. The VA provides a large range of benefits that many people don't know about or haven't looked into their eligibility for. Consider featuring different benefits on the home page, perhaps on a rotating basis--ideally (for an authenticated user) benefits that the user isn't currently using but could be. 
 
 
 # Next Steps
