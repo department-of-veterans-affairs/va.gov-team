@@ -4,17 +4,9 @@
 - In-progress Notification emails
      - Rolled back due to not having an "opt-out" process at this time
      - [ ] **(6/22) - Online Health Apps team** will conduect further analysis will be done with VA Notify team for future implementation
-- Confirmation page after application is submitted
-     - Online Health Apps team would like to confirm that the applicant will be contacted via email per image below
-     - (6/22) - Contact center would contact via phone, not email due to potentially having PII
-          - Researching future email messaging without PII, but not yet implemented
-          - Content to be updated or removed on Confirmation Page to reflect the accurate process
-          - [x] **(6/22) - Tarsha** will send to Stacey Echols for review as well
 - Medicare Claim Number
      - [ ] (6/22) - Jessica (Jessi) Soza and team working on adding the Medicare Claim number field to the paper form
-          - Online Health Apps Team to hold on releasing to production until we can coordinate with them
-          - (6/21) - Received preliminary approval to include in Online form from Stacey Echols
-          - **(6/22) - Pending Stacey Echols'** review of UI design
+          - **(6/30) - Received Stacey Echols' approval of UI design to implement for Online application
 - Registration path
      - [ ] **(5/25) - Online Health Apps team** will provide a LOE be estimated to add the Registration path to the online form - requested by Stacey Echols
 - Short Form - Data sources
