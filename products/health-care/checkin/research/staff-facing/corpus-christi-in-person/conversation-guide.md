@@ -32,10 +32,10 @@ Before we start, a few things I want to mention:
 - Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in? 
 - How often are MSAs troubleshooting errors or clearing review flags?
 - How comfortable are MSAs troubleshooting errors or clearing review flags? 
+  - DO MSAs need to troubleshoot anything specifically for Spanish speakers?
 - What are the issues that MSAs are helping Veterans troubleshoot?  
 - How has check-in changed communication between MSAs and clinicians? 
-- Are MSAs using VSE-CS? If so, how is it being used? 
-- Are their any aspects of check-in that are challenging for Spanish speakers?  
+- Are MSAs using VSE-CS? If so, how is it being used?  
 
 ### Follow up questions: 
 
@@ -66,7 +66,7 @@ Before we start, a few things I want to mention:
 - How often do Veterans check-in on their own without first coming up to the desk?
 - What percentage of Veterans coming to this location are bi-lingual and low English proficient Spanish speakers?
   - What is check-in currently like for Spanish-speaking Veterans?
-  - Do any challenges checking in exist due to Englissh proficiency?
+  - Do any challenges checking in exist due to English proficiency?
 - Overall, what is going well with check-in? 
 - What isn’t going so well? 
 - What would you change about it? 
@@ -90,7 +90,7 @@ Before we start, a few things I want to mention:
 
 We’d also like to understand canceled appointment more. 
 
-- How often does the VA have to cancel an appointment?
+- How often does the VA (not the Veteran) have to cancel an appointment?
 - What are the steps taken when the VA needs to cancel an appointment?
 - Are any notifications sent to Veterans when a cancellation occurs?
 - What type of notification is sent and when is it sent? 
@@ -102,8 +102,8 @@ We’d also like to get your input on travel reimbursement.
 - When is a Veteran able to start the claim process? E.g., once the appointment is scheduled, once the Veteran checks in, once the appointment is marked complete in VistA, etc. 
 - Did the kiosks have a different starting point? 
 - Do you ever help Veterans with their travel claims?
-  - What do you have to help them with? 
-- What common issues do Veterans have that requires them to visit the VA travel office? 
+  - What do you typical help them with? 
+- What common issues require Veterans to visit the VA travel office? 
 - In the future, is there a reason that the claim process couldn’t begin during check-in? Why or why not? 
 
 ## Closing - Less than 1 minute 
