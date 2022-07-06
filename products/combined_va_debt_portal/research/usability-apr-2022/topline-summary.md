@@ -2,12 +2,12 @@
 
 # Combined Debt Portal Topline Summary
 
-**Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
+**The Debt Resolution Team, Combined VA Debt Portal, July 2022**
 
 
-[link research plan]()
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-plan.md)
 
-[link conversation guide]()
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md)
 
 [link interview transcripts]()
 
@@ -29,7 +29,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1**
+**Participants defined copays, bills, and debts with separate definitions  **
 
 - More details on Finding #1
 - These details could be key words, actions, or test outcomes
@@ -37,7 +37,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 > Quote (if relevant)
 
 
-**Finding #2**
+**Overall, did not have issues navigating between debts and copays**
 
 - More details on Finding #2
 - These details could be key words, actions, or test outcomes
@@ -45,23 +45,23 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 > Quote (if relevant)
 
 
-**Finding #3**
+**Most participants were able to locate how to request financial help**
 
-- More details on Finding #3
+- If they were not able to find it, they were able to quickly locate the number to call for assistance.
 - These details could be key words, actions, or test outcomes
 
 > Quote (if relevant)
 
 
-**Finding #4**
+**Several participants mentioned there being too many layers of pages**
 
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 
-> Quote (if relevant)
+> "If you are looking at debt you shouldn't have to click thru 4 or 5 pages to get to all the details."
 
 
-**Finding #5**
+**Several participants mentioned wanting payment links/buttons on other pages**
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
