@@ -1,4 +1,4 @@
-# VA.gov Web OAuth Integration
+# VA.gov Mobile OAuth Integration
 
 ### Version History
 | Version Number | Author(s)                                              | Revision Date | Description of Change                                                                      |
@@ -26,7 +26,7 @@ A Postman collection featuring the routes and variables required for PKCE intera
 - `staging.va.gov/sign-in/?oauth=true`
 ##### [Authorization URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md)
 - `staging-api.va.gov/v0/sign_in/authorize`
-- params: `acr`, `type`, `code_challenge`, `code_challenge_method`, `client_id`
+- params: `type`, `client_id`, `acr`, `code_challenge`, `code_challenge_method`
 - optional params: `state`
 ##### [Introspect URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/introspect.md)
 - `staging-api.va.gov/v0/sign_in/introspect`
@@ -55,16 +55,16 @@ A Postman collection featuring the routes and variables required for PKCE intera
 
 ## Oauth Workflow
 1. VAMobile redirects user to: `staging.va.gov/sign-in` with the following parameters:
-    -  application: `vamobile`
+    - application: `vamobile`
     - oauth: `true`
-    -  code_challenge: takes the client-created `code_verifier` and SHA-256 hashes it. The client stores the `code_verifier` and uses it in later SiS calls to validate their requests with vets-api
+    - code_challenge: takes the client-created `code_verifier` and SHA-256 hashes it. The client stores the `code_verifier` and uses it in later SiS calls to validate their requests with vets-api
 2. User clicks on the button to sign in with their credential service provider (CSP)
 3. VA.gov calls vets-api OAuth `/authorize` endpoint with specific query parameters outlined in the Parameters Table below
 4. User authenticates with CSP
-5. CSP calls staging-api.va.gov/v0/sign_in/callback endpoint, vets-api creates auth code
-6. User redirected to vamobile://login-success with auth code and CSP type in the query params
+5. CSP calls SiS `/callback` endpoint, vets-api creates auth code
+6. User redirected to `vamobile://login-success` with auth code and CSP type in the query params
     - `vamobile://login-success?code=9406c906-1923-4525-adf0-ba63e98ef3f6&type=logingov`
-7. VAMobile makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token
+7. VAMobile makes a POST call to the SiS `/token` endpoint to get Access Token + Refresh Token + potentially Anti-CSRF Token
 ```json
   {
     "data": {
@@ -77,19 +77,19 @@ A Postman collection featuring the routes and variables required for PKCE intera
 8. VAMobile uses Access Token in Authorization header to call the `/introspect` endpoint and other authentication-protected routes:
     - request: `Authorization: Bearer <accessTokenHash>`
     - response: `"data": { user_data }`
-9. When access token reaches expiry VAMobile uses the Refresh token to get new Access Token + Refresh Token by calling the `/refresh` endpoint. New token cookies are returned in a JSON payload identical to those returned from the `/token` endpoint.
+9. When access token reaches expiry VAMobile uses the Refresh token to get new tokens by calling the `/refresh` endpoint. New token cookies are returned in a JSON payload identical to those returned from the `/token` endpoint.
 
 ## Parameters
 | Name                  | Description                                                                                                                                      | Value Type |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| application           | `vamobile`, partner identifier, must be vamobile no other values work at this time                                                               | String     |
+| application           | partner identifier, must be `vamobile` - no other values work at this time                                                               | String     |
 | code_challenge_method | Client specified, most common value is `S256`                                                                                                    | String     |
 | oauth                 | MUST be `true`, used in backend                                                                                                                  | Boolean    |
 | CSP                   | Values can be: `logingov`, `dslogon`, `mhv`, `idme`. All of which will be IAL2 or LOA3 calls, no LOA1 or IAL1 users will be returned to vamobile | String     |
 | code_challenge        | Value created by vamobile client and passed in param to unified sign in page                                                                     | Base64url  |
 | grant_type            | `authorization_code` , only value allowed at this time                                                                                           | String     |
-| authentication         | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access)token                                                                                                          | String     |
-| code_verifier         | Value created and stored by client                                                                                                               | String     |
+| authentication         | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access token                                                                                                          | String     |
+| code_verifier         | Value created, used to create the client's `code_challenge`, and stored by client                                                                                                             | String     |
 | access_token          | Value returned by /token endpoint                                                                                                                | String     |
 | refresh_token         | Value returned by /token endpoint                                                                                                                | String     |
 | user_uuid             | Value returned from vets-api that maps the user from the usermodel to the current session                                                        | String     |

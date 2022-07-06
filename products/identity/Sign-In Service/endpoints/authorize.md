@@ -18,7 +18,7 @@ Production: https://api.va.gov/v0/sign_in/authorize
 | `acr` | Level of authentication requested, dependant on CSP. Values: `loa1`, `loa3`, `ial1`, `ial2`, `min` |
 | `code_challenge` | Used internally by SiS to hash & encode a value to verify good requests |
 | `code_challenge_method` | Hashing algorithm. Values: `S256` |
-| `code_verifier` | Required/stored client-side for future /token calls |
+| `code_verifier` | Required/stored client-side for future `token` calls (not included in `authorize` call) |
 | `state` | Optional string that can be taken in the `authorize` call and returned with the `callback` redirect for the client's verification purposes. This feature is currently *not* available. |
 
 *Sample request*
