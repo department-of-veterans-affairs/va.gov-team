@@ -106,8 +106,8 @@ After additional analyses of survey responses segmented by participant age and w
 # Details of Findings 
 
 Notes:
-- We didn't get enough responses to be statistically significant.
-- Responses from **55 participants** were analyzed--**48** from the unmoderated survey (phase 2) plus **7** from the moderated interviews (phase 1).
+- We didn't have enough survey participants for the results to be statistically significant.
+- Survey responses from **55 participants** were analyzed--**48** from the unmoderated survey (phase 2) plus **7** from the moderated interviews (phase 1).
 
 ## 1. Most top tasks were related to health care
 
@@ -254,7 +254,7 @@ A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a 
 ![interact-VA-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-table.png)
 
 ### Missing tasks
-After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of the suggestions for new tasks, all of which were suggested by only one respondent:
+After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of the other tasks--all of which were suggested by only one respondent:
 1. Find background, education and qualifications for VA medical providers on a VA-sponsored site 
 1. View patient satisfaction results for VA medical providers
 1. Obtain a VA satisfaction survey to rate and provide a review of my experience as a patient 
@@ -271,7 +271,7 @@ After the task importance question, the survey asked if there were any other imp
 
 ### Feedback for VA
 
-In the open-ended survey responses, there was some feedback specifically for VA, which is listed below:
+In the open-ended survey responses, there was some feedback specifically for VA, which is listed below but not analyzed because it's outside the scope of this study:
 1. The VA service at James Haley Veterans' Hospital in Tampa is outstanding.
 1. I would love for all of the VA benefits to be in the same site. For each issue, it seems that there is a totally different site that you have to know about, log into, register, etc.
 1. Obtain a call center line/text message that will provide crisis counseling to Vets that are not suicidal. Allow Veterans 24/7 support without threat of mental health hospitalization.
@@ -285,8 +285,8 @@ In the open-ended survey responses, there was some feedback specifically for VA,
 1. The National VA Advisory board members are all urban and not in alignment with rural veterans. 
 
 # Recommendations
-1. When choosing user tasks for use in designing the VA.gov home page or planning any user research or analytics, **consider your audience:**
-- Where will people be in their **journey using VA benefits**? Will they be focused more on learning about VA benefits and applying for them, or managing the benefits they already have, or both? 
+1. When choosing user tasks for use in designing the VA.gov home page or planning any user research or analytics, **consider your intended audience:**
+- Where will they be in their **journey using VA benefits**? Will they be focused on learning about VA benefits and applying for them? Mnaging the benefits they already have? Both? 
 - Will there will be people who **use VA health care?** People who don't use VA health care? Both? 
 - What **age range(s)** of people? Younger? Older? All ages? 
 
@@ -294,7 +294,7 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 ![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
 
-2. Since the unauthenticated VA.gov home page serves users of all ages, experience levels with VA (including with and without VA health care), **we'd like the home page to support all 25 top tasks**. Usability testing of the redesigned home page will provide valuable input to see whether all top tasks--including both learn/apply and manage benefits tasks--are easy to do from the home page.
+2. Since the unauthenticated VA.gov home page serves users of all ages and experience levels with VA (including with and without VA health care), **we'd like the home page to support all 25 top tasks**. Usability testing of the redesigned home page will provide valuable input to see whether all top tasks--including both learn/apply and manage benefits tasks--are easy to do from the home page.
 
 # Next Steps
 
