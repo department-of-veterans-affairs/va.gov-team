@@ -91,12 +91,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - [Link to Release Plan](#go-to-market-strategy)
 
 ## Launch Dates
-- *Target Launch Date*
-  - tbd
 - *Actual Launch Date* 
-  - tbd
+  - 02/09/2022 (to 50% of applicants)
+  - 04/29/2022 (to 75% of applicants)
+  - 07/07/2022 (to 100% of applicants)
 - *What date will you evaluate impact after launch?*
-  - 
+  - 07/08/2022
 ---
 
 ## Solution Narrative
