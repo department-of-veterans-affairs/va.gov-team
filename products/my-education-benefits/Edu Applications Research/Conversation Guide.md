@@ -135,7 +135,7 @@ i)	What are your impressions as you scroll through these pages?
 ii)	What part of the pages stand out to you?
 iii)	Is there anything missing or confusing about these pages?
 
-c)	SAY: “On the final page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
+c)	SAY: “On the final contact information page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
 
 d)	Assess: Was the participant able to radio “email” and “Yes, send me text message notifications?” Immediately Successful, Successful, Needed Assistance
 
@@ -386,7 +386,7 @@ i)	What are your impressions as you scroll through this pages?
 ii)	What parts of the page stand out to you?
 iii)	Is there anything missing or confusing about this page?
 
-c)	SAY: “On the final page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
+c)	SAY: “On the final contact information page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
 
 d)	Assess: Was the participant able to radio “email” and “Yes, send me text message notifications?” Immediately Successful, Successful, Needed Assistance
 
@@ -582,7 +582,7 @@ i.	What are your impressions as you scroll through this pages?
 ii.	What parts of the page stand out to you?
 iii.	Is there anything missing or confusing about this page?
 
-c.	SAY: “On the final page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
+c.	SAY: “On the final contact information page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
 
 d.	Assess: Was the participant able to radio “email” and “Yes, send me text message notifications?” Immediately Successful, Successful, Needed Assistance
 
@@ -775,7 +775,7 @@ i)	What are your impressions as you scroll through these pages?
 ii)	What parts of the page stand out to you?
 iii)	Is there anything missing or confusing about this page?
 
-c. SAY: “On the final page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
+c. SAY: “On the final contact information page, please mark that you prefer email for follow up questions, and opt in to text message notifications”
 
 d.	Assess: Was the participant able to radio “email” and “Yes, send me text message notifications?” Immediately Successful, Successful, Needed Assistance
 
