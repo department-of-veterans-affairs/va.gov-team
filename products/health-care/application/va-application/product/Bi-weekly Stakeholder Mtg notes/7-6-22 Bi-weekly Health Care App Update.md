@@ -19,7 +19,7 @@
      - [ ] (6/8) - **HEC team** to discuss what qualifying factors may allow a Veteran be eligible to fill out the shortened 10-10EZ form (skipping financial/household sections)
 
 
-### Agenda Items
+### 7/6 Agenda Items
 - Provide update on Short form
      - Wrapping up small content and alignment updates
      - Release very soon - perhaps within the next week!
