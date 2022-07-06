@@ -6,7 +6,7 @@ Example: [Manage your VA debt](va.gov/manage-va-debt/)
 
 The Sitewide Content and IA team builds and manages tool landing pages in the Drupal CMS. Sitewide Content and IA works with product teams to create content for these pages that align with our content patterns and the VA.gov content style guide. Product teams are responsible for creating the react widget that serves as the auth/unauth entry into the tool itself.
 
-## Here's the information we need from your team for a product landing team
+## Here's the information we need from your team for a tool landing page
 
 - Who are the SMEs you're working with on this project, and who needs to approve the page?
 - What's the estimated launch date?
