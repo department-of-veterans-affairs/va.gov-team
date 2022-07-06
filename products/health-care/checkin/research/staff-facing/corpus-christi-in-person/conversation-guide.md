@@ -24,7 +24,7 @@ Before we start, a few things I want to mention:
 - We want to hear your honest opinions. We will not be offended by any opinions you express. We welcome your feedback. 
 - If for any reason, and at any time, you want to stop this session, just let me know. 
 
-## Section 1: Check-In with MSAs
+## Section 1: Check-in with MSAs
 
 ### Things to observe:  
 
@@ -63,13 +63,16 @@ Before we start, a few things I want to mention:
 - What common issues do Veterans run into with check-in? 
 - How often are Veterans found waiting, thinking they’re checked in, but aren’t?
 - What could be the cause of Veterans thinking they’re checked in?  
-- How often do Veterans check-in on their own without first coming up to the desk? 
+- How often do Veterans check-in on their own without first coming up to the desk?
+- What percentage of Veterans coming to this location are bi-lingual and low English proficient Spanish speakers?
+  - What is check-in currently like for Spanish-speaking Veterans?
+  - Do any challenges checking in exist due to Englissh proficiency?
 - Overall, what is going well with check-in? 
 - What isn’t going so well? 
 - What would you change about it? 
 - On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile check-in to another clinic? 
 
-## Section 2: Pre-Check-In with MSAs
+## Section 2: Pre-Check-in with MSAs
 
 - How has pre-check-in been working? 
 - How often are Veterans using pre-check-in?
@@ -83,25 +86,25 @@ Before we start, a few things I want to mention:
 - What would you change about it? 
 - On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile pre-check-in to another clinic? 
 
-## Section 3: Beneficiary Travel with MSAs
+## Section 3: Canceled Appointments with MSAs
+
+We’d also like to understand canceled appointment more. 
+
+- How often does the VA have to cancel an appointment?
+- What are the steps taken when the VA needs to cancel an appointment?
+- Are any notifications sent to Veterans when a cancellation occurs?
+- What type of notification is sent and when is it sent? 
+
+## Section 4: Beneficiary Travel with MSAs
 
 We’d also like to get your input on travel reimbursement. 
 
 - When is a Veteran able to start the claim process? E.g., once the appointment is scheduled, once the Veteran checks in, once the appointment is marked complete in VistA, etc. 
-- Did the kiosks have a different starting point? If so, what were the reasons this changed with BTSSS? 
-- What common issues did Veterans run into with the kiosks that may have required them to visit the VA travel office? 
+- Did the kiosks have a different starting point? 
+- Do you ever help Veterans with their travel claims?
+  - What do you have to help them with? 
+- What common issues do Veterans have that requires them to visit the VA travel office? 
 - In the future, is there a reason that the claim process couldn’t begin during check-in? Why or why not? 
-
-## Section 4: Patient Record Flags with MSAs
-
-We’d also like to get your input on the use and value of patient record flags. 
-
-- How do you currently use patient record flags, if at all? 
-- Where do you see the flag and how do you respond? 
-- Do you use national or local flags? 
-- If patient record flags were added to VSE-CS, where or when would you expect to see them? 
-- Would it be helpful to only see specific flags, such as behavioral? 
-- Is there any other patient information you would want to be alerted to that’s not in VSE-CS? 
 
 ## Closing - Less than 1 minute 
 
