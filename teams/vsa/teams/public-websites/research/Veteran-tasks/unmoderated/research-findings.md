@@ -311,6 +311,7 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 ## Tools used for Synthesis
 
 [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/analysis/Top%20Tasks%20survey%20data%20analysis.xlsx)
+
 [Synthesis pictures for report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/analysis/Top%20Tasks%20pictures%20for%20report.pptx)
 
 
