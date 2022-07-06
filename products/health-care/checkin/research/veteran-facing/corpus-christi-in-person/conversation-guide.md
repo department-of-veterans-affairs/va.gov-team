@@ -34,8 +34,8 @@ You can get started by using the check-in poster.
 - Did they use the text or QR code method? 
 - Did they have any problems using the QR code? 
 - Did they utilize Spanish translation at any point? 
-  - Did they interact with the language toggle at all or were their browser preferences set?
-  - Did any of the Spanish translation could confusion?
+  - Did they interact with the language toggle?
+  - Did any of the Spanish translations cause confusion?
 - What message was returned from VeText? 
 - How long did it take to receive the second text message? 
 - How long did it take for VA.gov to load? 
@@ -63,8 +63,8 @@ You can get started by using the check-in poster.
 - What could make it better? 
 - What would you call the experience you completed today? 
 - What wording would you expect to be used to describe this experience? E.g., check-in, mobile check-in, e-check-in, online check-in, etc. 
-- If they used the Spanish translation, what is your overall impression of the Spanish translation?
-  - What could make it better? Could anything be communicated more clearly within the Spanish version?
+- (If they used the Spanish translation) What is your overall impression of the Spanish translation?
+  - Could anything be communicated more clearly within the Spanish version?
   - How would you describe your English proficiency? (Beginner, Intermediate, Advanced, Fluent)
 
 ## Section 2: Pre-Check-In
