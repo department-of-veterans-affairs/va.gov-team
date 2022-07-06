@@ -290,7 +290,7 @@ In the open-ended survey responses, there was some feedback specifically for VA,
 - Will there will be people who **use VA health care?** People who don't use VA health care? Both? 
 - What **age range(s)** of people? Younger? Older? All ages? 
 
-Then **select a range of tasks from the list of the top 25 to have at least some relevant to most people in your user base.**
+Then **select a range of tasks from the list of the top 25 to have at least some relevance to most people in your user base.**
 
 ![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
 
@@ -310,16 +310,15 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 ## Tools used for Synthesis
 
-[Synthesis spreadsheet]()
-
-[Survey data]()
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/analysis/Top%20Tasks%20survey%20data%20analysis.xlsx)
+[Synthesis pictures for report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/analysis/Top%20Tasks%20pictures%20for%20report.pptx)
 
 
 ## Survey questions
 
-![survey-questions-1]()
-![survey-questions-2]()
-![survey-questions-3]()
+![survey-questions-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-1.png)
+![survey-questions-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-2.png)
+![survey-questions-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-3.png)
 
 
 ## Who we talked to 
@@ -345,20 +344,21 @@ Gender:
 * Unknown: 1
 
 
-Age: **DO with MVS checker!**
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65+: 
+Age: 
+* 25-34: 7
+* 35-44: 13
+* 45-54: 12
+* 55-64: 13
+* 65+:   10
 
 
-Education: **DO with MVS checker!**
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
+Education: 
+* High school degree or equivalent: 3
+* Some college (no degree): 7
+* Associate's degree, trade certificate or vocational training: 6
+* Bachelor's degree: 15
+* Master's degree: 20
+* Doctoral degree: 4
 
 
 Geographic location:
@@ -379,10 +379,11 @@ Race:
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
+* Mobile users
 * Identify as gay, lesbian, bisexual, transgender, or non-binary
 * Other than honorable discharge
 * Immigrant origin
 * Expat (living abroad)
 * Use assistive technology
 
-![VA-recruitment-checker]()
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/VA-recruitment-checker.png)
