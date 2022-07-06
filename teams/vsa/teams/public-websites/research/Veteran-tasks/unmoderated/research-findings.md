@@ -63,44 +63,32 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 # Key Findings
 
 1. Across all survey participants, **most top tasks were related to health care**:
+     1. Schedule or manage health appointments
+     1. Message your doctor or get a health care message
+     1. Check your lab or test results
+     1. Refill or track a prescription
+     1. Learn about or file for disability compensation (service-related)
+     1. Get your VA medical records
 
-![top-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps.png)
+2. The self-reported **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks.
 
-After additional analyses of survey responses segmented by participant age and whether they use VA health care, here's a longer list of top tasks partitioned into primary, secondary, tertiary groupings based on how often they ended up in segment top task lists:
+3. **For participants who don't use VA health care, top tasks were quite different**, with only the only overlap being *disability compensation* and *VA medical records*.
 
-![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
+4. **Top tasks varied by participant age**, with older participants favoring health care and burial tasks, while younger participants more focused on education benefits and payment history.
 
-2. The **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks.
+5. **Merging the top tasks from all of the above segments (all participants, different age groups, and VA health care users and non-users) results in a longer list of top tasks** that can be categorized by how often they appeared in top task lists. 
 
-3. **For participants who don't use VA health care, top tasks were quite different** (only *disability compensation* and *VA medical records* tasks overlapped).
-<details>
-  <summary>Click to show details</summary>
+6. Here are the **least important tasks overall**:
+     1. Learn about or apply for monthly Veterans pension payments
+     1. Verify your monthly school enrollment
+     1. Learn about or order hearing aid batteries
+     1. Get help with your rent, utility bills, or other housing-related expenses
+     1. Apply to receive benefits as a Veteran's caregiver
+     1. Get help with your VA debt
 
-  ![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
+7. Participants selected an **average of 9.5 tasks as important**, ranging from 1 to 26. This was interesting because we didn't include the "select up to 10" wording that was originally in the survey question.
 
-  ![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
-    
-</details>
-
-4. **Top tasks varied by participant age**, with older participants favoring health care and burial, while younger participants more focused on education benefits and payment history.
-
-
-<details>
-  <summary>Click to show details</summary>
-
-![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
-
-![top-tasks-under35_a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35_a.png)
-    
-</details>
-
-5. Here are the **least important tasks overall**:
-
-![low-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/low-tasks-all-ps.png)
-
-6. Participants selected an **average of 9.5 tasks as important**, ranging from 1 to 26. This was interesting because we didn't include the "select up to 10" wording that was originally in the survey question.
-
-7. It was **challenging to recruit people who don't use VA benefits** because such people generally aren't interested in providing feedback to VA. We wanted 20% of such participants but instead got only 2% (1 participant of 55).
+8. It was **challenging to recruit people who don't use VA benefits** because such people generally aren't interested in providing feedback to VA. We wanted 20% of such participants but instead got only 2% (1 participant of 55).
 
 
 # Details of Findings 
