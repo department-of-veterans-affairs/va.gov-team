@@ -13,13 +13,13 @@ Supplemental claims allow Claimants to identify or submit new and relevant evide
 Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
 ### Opportunities
-* How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
+* How might we give claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
 
 * How might we make submitting supplemental claims take as little input from the user as possible?
 
 * How might we give rating officials all of the data they need to make an immediate decision on a supplementatl claim?
 
-* How might we ensure Claimants are always in the loop about what's going on with their claim?
+* How might we ensure claimants are always in the loop about what's going on with their claim?
 
 ### What We Did
 * SME interviews
