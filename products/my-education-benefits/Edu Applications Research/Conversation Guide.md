@@ -8,9 +8,10 @@ Route 4 (DEA) Mobile
  
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_
 
-**Route 1 – Non-33 Expanded 1990 Applicant**
+# Route 1 – Non-33 Expanded 1990 Applicant
 
-**Moderator logistics before the session**: 
+## Moderator logistics before the session
+
 •	Mute other computer notifications
 
 •	Send out the observer instructions to your observers
@@ -27,7 +28,7 @@ Usability Testing Prep:
   
   o	Check that guests can access and navigate through the prototype 
 
-**Intro** - 5 minutes
+## Intro - 5 minutes
 
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
@@ -41,7 +42,7 @@ Start recording.
 •	I have started recording. Can you confirm that you are okay with me recording this session?
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+## To kick us off, we wanted to start with a few warm-up questions (5 mins):
 1.	If you feel comfortable, could you tell us where you are from?
 2.	Have you used education benefits before? What has been your experience so far?
 a.	Can you share what education benefits you have right now?
@@ -240,9 +241,9 @@ Great, well thank you so much again, and enjoy the rest of your day
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
-**Route 2 – Transfer of Entitlement (ToE) 1990e Applicant**
+# Route 2 – Transfer of Entitlement (ToE) 1990e Applicant
 
-**Moderator logistics before the session:** 
+## Moderator logistics before the session:
 
 •	Mute other computer notifications
 
@@ -260,7 +261,7 @@ Usability Testing Prep:
 
   o	Check that guests can access and navigate through the prototype 
 
-**Intro** - 5 minutes
+## Intro - 5 minutes
 
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
@@ -279,7 +280,7 @@ Start recording.
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
 
-**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+## To kick us off, we wanted to start with a few warm-up questions** (5 mins):
 
 3.	If you feel comfortable, could you tell us where you are from?
 
@@ -442,9 +443,9 @@ Great, well thank you so much again, and enjoy the rest of your day
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
-**Route 3 – Fry Scholarship**
+# Route 3 – Fry Scholarship
 
-**Moderator logistics before the session:** 
+## Moderator logistics before the session: 
 
 •	Mute other computer notifications
 
@@ -462,7 +463,7 @@ Usability Testing Prep:
 
  o	Check that guests can access and navigate through the prototype 
 
-**Intro** - 5 minutes
+## Intro - 5 minutes
 
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
@@ -479,7 +480,7 @@ Start recording.
 
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+## To kick us off, we wanted to start with a few warm-up questions (5 mins):
 
 1.	If you feel comfortable, could you tell us where you are from?
 2.	Have you used education benefits before? What has been your experience so far?
@@ -632,10 +633,10 @@ _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
-**Route 4 – DEA Applicant (Mobile)**
+# Route 4 – DEA Applicant (Mobile)
 
 
-**Moderator logistics before the session**: 
+## Moderator logistics before the session: 
 
 •	Mute other computer notifications
 
@@ -654,7 +655,7 @@ Usability Testing Prep:
 
  o	Check that guests can access and navigate through the prototype 
 
-**Intro** - 5 minutes
+## Intro - 5 minutes
 
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
@@ -671,7 +672,7 @@ Start recording.
 
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+## To kick us off, we wanted to start with a few warm-up questions (5 mins):
 
 1.	If you feel comfortable, could you tell us where you are from?
 
