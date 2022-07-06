@@ -1,3 +1,4 @@
+
 Route 1 (Non-33)
 Route 2 (ToE)
 Route 3 (Fry)
@@ -5,18 +6,24 @@ Route 4 (DEA) Mobile
  
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_
 
-Route 1 – Non-33 Expanded 1990 Applicant
+**Route 1 – Non-33 Expanded 1990 Applicant**
 
-Moderator logistics before the session: 
+**Moderator logistics before the session**: 
 •	Mute other computer notifications
+
 •	Send out the observer instructions to your observers
+
 •	In the Attendees section, make sure everyone except the participant is on mute.
+
 •	Check your [screensharing setup] and share permissions for participants.
+
 Usability Testing Prep:
+
 •	Confirm that the participant has consented to the study before starting the session
+
 •	Have prototype link ready for sharing in the meeting chat
-o	Check that guests can access and navigate through the prototype 
-Intro - 5 minutes
+  o	Check that guests can access and navigate through the prototype 
+**Intro** - 5 minutes
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
 Before we start, a few things I wanted to mention:
@@ -29,7 +36,7 @@ Start recording.
 •	I have started recording. Can you confirm that you are okay with me recording this session?
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-To kick us off, we wanted to start with a few warm-up questions (5 mins):
+**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
 1.	If you feel comfortable, could you tell us where you are from?
 2.	Have you used education benefits before? What has been your experience so far?
 a.	Can you share what education benefits you have right now?
@@ -38,7 +45,8 @@ So now let us click that [LINK] that you can find in the chat. It will take you 
 
 (Backup Plan – HCD (Human Centered Design) facilitator may need to share their screen to scroll/click for the participant)
 
-Route 1 – Non-33 Expanded 1990 Applicant
+**Route 1 – Non-33 Expanded 1990 Applicant**
+
 For the moderator’s awareness: Here our participant will be a Veteran, who is using/has used their GI Bill benefits in the past. In this prototype, they will be applying for Chapter 1606, being denied, and then submitting an additional application through the truncated version for the Post-9/11 GI Bill. 
 
 1.	How to apply
@@ -227,40 +235,59 @@ Great, well thank you so much again, and enjoy the rest of your day
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
-Route 2 – Transfer of Entitlement (ToE) 1990e Applicant
+**Route 2 – Transfer of Entitlement (ToE) 1990e Applicant**
 
-Moderator logistics before the session: 
+**Moderator logistics before the session:** 
+
 •	Mute other computer notifications
+
 •	Send out the observer instructions to your observers
+
 •	In the Attendees section, make sure everyone except the participant is on mute.
+
 •	Check your [screensharing setup] and share permissions for participants.
+
 Usability Testing Prep:
+
 •	Confirm that the participant has consented to the study before starting the session
+
 •	Have prototype link ready for sharing in the meeting chat
-o	Check that guests can access and navigate through the prototype 
-Intro - 5 minutes
+
+  o	Check that guests can access and navigate through the prototype 
+
+**Intro** - 5 minutes
+
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
 Before we start, a few things I wanted to mention:
-6.	This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic.
-7.	You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA benefits. 
-8.	Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the preferences for all GI Bill Students, and we welcome your feedback.
-9.	Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs.
-10.	On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete. 
+
+1.	This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic.
+2.	You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA benefits. 
+3.	Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the preferences for all GI Bill Students, and we welcome your feedback.
+4.	Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs.
+5.	On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete. 
+
 Start recording.
+
 •	I have started recording. Can you confirm that you are okay with me recording this session?
+
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-To kick us off, we wanted to start with a few warm-up questions (5 mins):
+
+**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+
 3.	If you feel comfortable, could you tell us where you are from?
+
 4.	Have you used education benefits before? What has been your experience so far?
+
 a.	Can you share what education benefits you have right now?
 
 So now let us click that [LINK] that you can find in the chat. It will take you to the prototype. The password is: [PASSWORD]. I am going to ask you to share your screen if possible, so please let me know if you need any assistance with that. … 
 
 (Backup Plan – HCD (Human Centered Design) facilitator may need to share their screen to scroll/click for the participant)
 
-Route 2 – Transfer of Entitlement (ToE) 1990e Applicant
+**Route 2 – Transfer of Entitlement (ToE) 1990e Applicant**
+
 For the moderator’s awareness: Here our participant will be a DEPENDENT who is using/has used GI Bill benefits from a SPONSOR in the past. In this prototype, they will be applying for TOE benefits. They will be denied because they applied for multiple sponsors (one of which they will have to manually enter)
 
 
@@ -410,31 +437,45 @@ Great, well thank you so much again, and enjoy the rest of your day
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
-Route 3 – Fry Scholarship
+**Route 3 – Fry Scholarship**
 
-Moderator logistics before the session: 
+**Moderator logistics before the session:** 
+
 •	Mute other computer notifications
+
 •	Send out the observer instructions to your observers
+
 •	In the Attendees section, make sure everyone except the participant is on mute.
+
 •	Check your [screensharing setup] and share permissions for participants.
+
 Usability Testing Prep:
+
 •	Confirm that the participant has consented to the study before starting the session
+
 •	Have prototype link ready for sharing in the meeting chat
-o	Check that guests can access and navigate through the prototype 
-Intro - 5 minutes
+
+ o	Check that guests can access and navigate through the prototype 
+
+**Intro** - 5 minutes
+
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
 Before we start, a few things I wanted to mention:
-11.	This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic.
-12.	You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA benefits. 
-13.	Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the preferences for all GI Bill Students, and we welcome your feedback.
-14.	Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs.
-15.	On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete. 
+1.	This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic.
+2.	You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA benefits. 
+3.	Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the preferences for all GI Bill Students, and we welcome your feedback.
+4.	Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs.
+5.	On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete. 
+
 Start recording.
+
 •	I have started recording. Can you confirm that you are okay with me recording this session?
+
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-To kick us off, we wanted to start with a few warm-up questions (5 mins):
+**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+
 1.	If you feel comfortable, could you tell us where you are from?
 2.	Have you used education benefits before? What has been your experience so far?
 a.	Can you share what education benefits you have right now?
@@ -443,7 +484,8 @@ So now let us click that [LINK] that you can find in the chat. It will take you 
 
 (Backup Plan – HCD (Human Centered Design) facilitator may need to share their screen to scroll/click for the participant)
 
-Route 3 – Fry Scholarship
+**Route 3 – Fry Scholarship**
+
 For the moderator’s awareness: Here our participant will be a DEPENDENT who is using/has used GI Bill benefits from a Veteran or service member that has either died in the line of duty or is 100% permanently disabled. PLEASE be considerate of the participant and be extra vigilant of any triggering moments. 
 In this prototype, they will be applying for Fry Scholarship benefits. They will be a Spouse and approved for benefits.
 
@@ -585,39 +627,59 @@ _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
 
-Route 4 – DEA Applicant (Mobile)
+**Route 4 – DEA Applicant (Mobile)**
 
-Moderator logistics before the session: 
+
+**Moderator logistics before the session**: 
+
 •	Mute other computer notifications
+
 •	Send out the observer instructions to your observers
+
 •	In the Attendees section, make sure everyone except the participant is on mute.
+
 •	Check your [screensharing setup] and share permissions for participants.
+
 Usability Testing Prep:
+
+
 •	Confirm that the participant has consented to the study before starting the session
+
 •	Have prototype link ready for sharing in the meeting chat
-o	Check that guests can access and navigate through the prototype 
-Intro - 5 minutes
+
+ o	Check that guests can access and navigate through the prototype 
+
+**Intro** - 5 minutes
+
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
 Before we start, a few things I wanted to mention:
-16.	This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic.
-17.	You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA benefits. 
-18.	Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the preferences for all GI Bill Students, and we welcome your feedback.
-19.	Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs.
-20.	On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete. 
+1.	This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic.
+2.	You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA benefits. 
+3.	Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the preferences for all GI Bill Students, and we welcome your feedback.
+4.	Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs.
+5.	On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete. 
+
 Start recording.
+
 •	I have started recording. Can you confirm that you are okay with me recording this session?
+
 •	If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in!
 
-To kick us off, we wanted to start with a few warm-up questions (5 mins):
-5.	If you feel comfortable, could you tell us where you are from?
-6.	Have you used education benefits before? What has been your experience so far?
-a.	Can you share what education benefits you have right now?
+**To kick us off, we wanted to start with a few warm-up questions** (5 mins):
+
+1.	If you feel comfortable, could you tell us where you are from?
+
+2.	Have you used education benefits before? What has been your experience so far?
+
+3.	Can you share what education benefits you have right now?
 
 So now let us click that [LINK] that you can find in the chat. It will take you to the prototype. The password is: [PASSWORD]. I am going to ask you to share your screen if possible, so please let me know if you need any assistance with that. … 
 
 (Backup Plan – HCD (Human Centered Design) facilitator may need to share their screen to scroll/click for the participant)
-Route 4 – DEA Applicant (Mobile)
+
+**Route 4 – DEA Applicant (Mobile)**
+
 For the moderator’s awareness: Here our participant will be a DEPENDENT who is using/has used GI Bill benefits from a Veteran or service member that has either died in the line of duty or is 100% permanently disabled. PLEASE be considerate of the participant and be extra vigilant of any triggering moments. 
 In this prototype, they will be applying for DEA benefits. They will be a Child and approved for benefits.
 
@@ -757,6 +819,3 @@ If Yes: Thank you! I will have our team send you a follow-up email for you to se
 Great, well thank you so much again, and enjoy the rest of your day
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
-
-![image](https://user-images.githubusercontent.com/85356640/177384445-971f99ad-c98e-4e11-a998-09dadf021349.png)
-[DGIB Edu Applications Convo Guide.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/9048368/DGIB.Edu.Applications.Convo.Guide.docx)
