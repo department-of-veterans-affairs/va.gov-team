@@ -822,3 +822,7 @@ If Yes: Thank you! I will have our team send you a follow-up email for you to se
 Great, well thank you so much again, and enjoy the rest of your day
 
 _v_v_v_v_v_v__v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v_v
+
+Please look to VA's Research Saftey and Emergency Exit Strategies for any potentially triggering experiences during usability testing
+
+https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Creatingasafespaceforparticipants
