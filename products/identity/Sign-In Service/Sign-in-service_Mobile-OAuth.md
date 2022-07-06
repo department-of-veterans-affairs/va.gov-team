@@ -1,26 +1,22 @@
-VSP Identity Sign in Service
+# VA.gov Web OAuth Integration
 
-
-
-
-# PKCE Oauth Integration
-#### Version History
+### Version History
 | Version Number | Author(s)                                              | Revision Date | Description of Change                                                                      |
 |----------------|--------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
 |       0.1      | Trevor Bosaw, John Bramley, Josh Scanish, Joe Niquette |    3/17/22    | Initial creation                                                                           |
 |       0.2      |                      Joe Niquette                      |    3/25/22    | Added new introspection response example, moved some sections around for better formatting |
 |       0.3      |                      John Bramley                      |    7/05/22    | Updates for mobile vs. web authentication |
 ## Description
-This document describes how our PKCE OAuth partners can integrate with the Sign in Service.
+This document describes how our Mobile/API-based OAuth partners can integrate with the Sign in Service.
 
 ### Postman Routes
 A Postman collection featuring the routes and variables required for PKCE interaction with the Sign in Service [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json).
 
 ### Sequence Diagram
-![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)
+![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/PKCE_Oauth.md)
 
 ### Technical Diagram
-![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
+![image](https://user-images.githubusercontent.com/20125855/177562919-43b99aa7-287b-475b-aa2f-da0e00c05a5c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
 
 ## Sign in Service Public Routes:
