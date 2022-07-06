@@ -6,13 +6,20 @@ Since the VA modernized its appeals process via the Appeals Modernization Act (A
 
 Supplemental claims allow Claimants to identify or submit new and relevant evidence to the VA so that a reviewer can make a determination whether the new evidence changes the decision. Supplemental claims can be used to:
 
-
-
 * Supplement a claim within 1 year - Use this to add supplemental evidence to a claim decision within 1 year of its effective date.
 * Re-open a prior claim closed 1+ years ago - Use this to re-open a prior decision that denied service connection, so that you can continue to prosecute the claim. This action will not re-open the prior effective date.
 * Continuously prosecute a claim - Use this to continue prosecuting a claim and keep your effective date rolling.
 
 Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
+
+### Opportunities
+* How might we give Claimants who have received an unfavorable decision and have new evidence a quick, easy intuitive method to file a supplemental claim, that doesn't require them to enter data the VA should already know, and that generally results in quicker more favorable outcomes?
+
+* How might we make submitting supplemental claims take as little input from the user as possible?
+
+* How might we give rating officials all of the data they need to make an immediate decision on a supplementatl claim?
+
+* How might we ensure Claimants are always in the loop about what's going on with their claim?
 
 ### What We Did
 * SME interviews
