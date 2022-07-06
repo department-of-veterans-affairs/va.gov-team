@@ -1,6 +1,6 @@
 [DGIB Edu Applications Usability Testing (060922) (2).docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/9056537/DGIB.Edu.Applications.Usability.Testing.060922.2.docx)
 
-**Research Plan** 
+# Research Plan 
 
 
 Team: Digital GI Bill (DGIB) - Human Centered Design
@@ -9,14 +9,14 @@ Project: DGIB Education Applications Usability Testing (Authenticated Forms 22-1
 
  
 
-**Goals**
+## Goals
 
 _What product & team are you doing this research for?_
 
 This research request comes from the Digital GI Bill team for the Veterans Benefits Administration Education Service. Digital GI Bill is modernizing the GI Bill experience through enhancing the user experience, improving claims processing, addressing the complexities of recent legislation, and integrating legacy IT systems. This research plan comes from the Human Centered Design (HCD) agile team as we seek to conduct usability testing for applications within VA education including, Transfer of Entitlement (Form 22-1990e), Montgomery GI Bill (Form 22-1990), and the Fry Scholarship & Survivors’ and Dependents’ Education Assistance (DEA, Form 22-5490). Usability testing will inform us how students understand the education application processes and how they feel about the updated designs. 
 
 
-**Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
+## Background
 
 VA offers education benefits to Veterans, Service members, and their families. Depending on their background, an applicant will need to apply for a specific education benefit that best suits them. Currently, these applications are available for online submission through Va.Gov. The education forms that we will be testing are highlighted below: 
 
@@ -62,7 +62,7 @@ For students who have applied in the past, we anticipate that the updated applic
 
  
 
-**Method**
+## Method
 
 _What method of research are you planning?_  
 
@@ -80,7 +80,7 @@ The quantitative measures collected during sessions will look to consider indivi
 
  
 
-**Participants and Recruitment** 
+## Participants and Recruitment
 
 _Participant criteria: Primary Criteria/Must have_ - 
 
@@ -144,12 +144,12 @@ Recruitment will be conducted remotely:
 
  
 
-**Timeline?** 
+## Timeline
 
 
 We plan to begin usability testing from **July 18th – August 13th**, if necessary. We are open to hosting usability testing sessions from 9am – 6pm (Est.). We will have the complete prototype built and finalized a week prior to data collection. Each UT session will span 45 – 60 minutes. Exact dates and times for testing sessions are flexible and we will coordinate with Perigean once the research request is approved. Reaching our maximum goal of participants will determine if we need to extend the data collection time window. There will be multiple pilot runs of our usability testing. We encourage VA collaboration teams to attend any of our pilot testing sessions. 
 
-**Team Roles** 
+## Team Roles 
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.  
 
