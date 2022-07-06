@@ -1,3 +1,5 @@
+[DGIB Edu Applications Convo Guide (1).docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/9056533/DGIB.Edu.Applications.Convo.Guide.1.docx)
+
 
 Route 1 (Non-33)
 Route 2 (ToE)
