@@ -69,7 +69,7 @@ Before we start, a few things I want to mention:
 
 
 ## Find messages - 5 - 10 minutes
-- Let's say that you are looking for a message that your care team sent you a little while ago. It had test results in it that you would like to review.  How would you find that message?
+- You remember that you had sent your doctor a message a while ago with a question. If you wanted to re-read their reply, how would you find that message?
 
 *If they scroll. . .* 
 - What are you looking for?
@@ -113,7 +113,7 @@ Before we start, a few things I want to mention:
 - Who do you think would respond to your message?
 - How long would you expect it would take to get a response to your message?
 - How would you send this message? 
-- If you had a new question for your care team how would you send them a message?
+- If you had a new question for one of your providers, Dr. Hergst, how would you send them a message?
 
 ### Things to watch for:
 - What do users mean by “provider”? An individual or a group?
@@ -121,8 +121,7 @@ Before we start, a few things I want to mention:
 
 
 ## Send a new message - 10 minutes
-- What kind of concerns would you send messages about and are there cases when you should not send a message?
-- How do you select the provider you want to send your message to?
+- How do you select the provider, Dr Hergst, you want to send your message to?
 - If you want to change who is in your list of providers, how would you do that?
 - Who would you expect the message to say that it is from?
 - Which category would you pick for your message? How do you decide which category to choose?
@@ -130,6 +129,7 @@ Before we start, a few things I want to mention:
 - Which fields so you have to fill out in order to send your message?
 - How do you normally end your messages to your care team? Do you include any kind of closing words? (If so) Would you like to be able to do that here? What would you include?
 - If you started composing a message, but wanted to come back and finish it later, what would you do? If so, do you expect the message you started to be saved? If it is saved where would you expect to find it?
+- What kind of concerns would you send messages about and are there cases when you should not send a message?
 - After you finished writing your message what would you do? 
 - What would you expect to happen next?
 - How would you get back to the first screen that we saw?f
