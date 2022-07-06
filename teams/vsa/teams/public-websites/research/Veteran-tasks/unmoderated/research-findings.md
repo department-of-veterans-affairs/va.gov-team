@@ -62,6 +62,8 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 # Key Findings
 
+*Note: The Key Findings below are presented in a logical order, not in order of importance.*
+
 1. Across all survey participants, **most top tasks were related to health care**:
      1. Schedule or manage health appointments
      1. Message your doctor or get a health care message
@@ -72,11 +74,11 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 
 2. The self-reported **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks.
 
-3. **For participants who don't use VA health care, top tasks were quite different**, with only the only overlap being *disability compensation* and *VA medical records*.
+3. **For participants who don't use VA health care, top tasks were quite different**, with the only overlap being *disability compensation* and *VA medical records*.
 
 4. **Top tasks varied by participant age**, with older participants favoring health care and burial tasks, while younger participants more focused on education benefits and payment history.
 
-5. **Merging the top tasks from all of the above segments (all participants, different age groups, and VA health care users and non-users) results in a longer list of top tasks** that can be categorized by how often they appeared in top task lists. 
+5. **Merging the top tasks from all of the above segments (all participants, different age groups, and VA health care users and non-users) results in a longer list of top tasks** that can be categorized in various ways. 
 
 6. Here are the **least important tasks overall**:
      1. Learn about or apply for monthly Veterans pension payments
@@ -111,35 +113,9 @@ The percentages for these top tasks can be compared to all the other tasks in th
 
 ![all-tasks-all-ps-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-all-ps-table.png)
 
-## SUMMARY of top tasks overall
 
-The goal of this research was to come up with one list of top tasks that can be used in the VA.gov home page design, usability studies, and other user research and analytics assessments of VA.gov. Survey responses from the following 6 different segments of participants were analyzed for this report: 
-1. All participants
-2. Participants using VA health care
-3. Participants *not* using VA health care
-4. Participants who were 55 years old or older
-5. Participants who were 35-54 years old
-6. Participants who were under 35 years old
 
-All tasks that were marked as important by at least 30% of any one of the above segments were compiled, and the number of times that each task appeared on one of the 6 lists was tallied, along with the percentage of all participants who marked each as important. 
-
-![top-tasks-6segments-tallies&percents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies%26percents.png)
-
-The above results show which tasks were rated as important the most often, and this suggests the grouping below of **primary, secondary, and tertiary top tasks**. Within each primary/secondary/tertiary grouping, tasks are in order of decreasing percentage selected by all participants.
-
-![top-tasks-6segments-tallies-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies-a.png)
-
-These top 25 tasks can be **viewed by benefit category**, as seen below in the order above and then sorted by benefit. 9 of the top 25 tasks are related to health care, followed by 4 related to education, 3 related to disability, 3 other, and 6 that are independent of the benefit categories.
-
-![top-tasks-by-benefit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit.png)
-
-![top-tasks-by-benefit-sorted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit-sorted.png)
-
-The top benefit-specific tasks split almost evenly in half between those that enable people to **learn/explore/browse/apply** for benefits *vs.* those that enable **regular/routine management of benefits** that they already use. Within each grouping, tasks are in order of decreasing percentage selected by all participants.
- 
-![top-tasks-by-learn-manage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-learn-manage.png)
-
-## 2. Most frequently done tasks were all related to health care and aligned closely with the overall top tasks
+## 2. Most frequently done tasks were all related to health care 
 
 Survey participants were asked *What VA-related tasks do you do MOST FREQUENTLY?* to answer with open-ended text. By far the most numerous responses were for health care tasks:
 
@@ -204,7 +180,35 @@ We segmented participants by age to see whether there were difference in top tas
     
 </details>
 
-## 5. Least important tasks overall
+## 5. Merging the top tasks from all of the above segments (all participants, different age groups, and VA health care users and non-users) results in a longer list of top tasks
+
+The goal of this research was to come up with one list of top tasks that can be used in the VA.gov home page design, usability studies, and other user research and analytics assessments of VA.gov. As detailed above, survey responses from the following 6 different segments of participants were analyzed for this report: 
+1. All participants
+2. Participants using VA health care
+3. Participants *not* using VA health care
+4. Participants who were 55 years old or older
+5. Participants who were 35-54 years old
+6. Participants who were under 35 years old
+
+All tasks that were marked as important by at least 30% of any one of the above segments were compiled, and the number of times that each task appeared on one of the 6 lists was tallied, along with the percentage of all participants who marked each as important. 
+
+![top-tasks-6segments-tallies&percents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies%26percents.png)
+
+The above results show which tasks were rated as important the most often, and this leads to the partition below into **primary, secondary, and tertiary top tasks**. Within each primary/secondary/tertiary grouping, tasks are in order of decreasing percentage selected by all participants.
+
+![top-tasks-6segments-tallies-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies-a.png)
+
+These top 25 tasks can be **viewed by benefit category**, as seen below in the order above and then sorted by benefit. 9 of the top 25 tasks are related to health care, followed by 4 related to education, 3 related to disability, 3 other, and 6 that are independent of the benefit categories.
+
+![top-tasks-by-benefit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit.png)
+
+![top-tasks-by-benefit-sorted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit-sorted.png)
+
+The top benefit-specific tasks split almost evenly in half between those that enable people to **learn/explore/browse/apply** for benefits *vs.* those that enable **regular/routine management of benefits** that they already use. Within each grouping, tasks are in order of decreasing percentage selected by all participants.
+ 
+![top-tasks-by-learn-manage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-learn-manage.png)
+
+## 6. Least important tasks overall
 
 Below are the *least important* tasks across all survey participants, which were marked as important by fewer than 10% of participants.
 
@@ -212,13 +216,13 @@ Below are the *least important* tasks across all survey participants, which were
 
 Two of these tasks involve financial help (*Get help with your rent, utility bills, or other housing-related expenses* and *Get help with your VA debt*), so perhaps most of our research participants are not currently facing financial hardship. Other low-importance tasks involve less popular VA benefits (pension, caregiver program), as well as other benefits that apply to fewer people (hearing aids, school enrollment verification--only relevant if you're currently in school).
 
-## 6. Participants selected an average of 9.5 tasks as important
+## 7. Participants selected an average of 9.5 tasks as important
 
 In the survey question about selecting which tasks are important, we didn't specify how many tasks to select. We had hoped that people would select about 5-10 of them. The average number selected was 9.5, with a range from 1 to 26. The average of 9.5 was interesting because we had originally included the instruction "select up to 10" but removed it. In the chart below, the number of tasks selected shows a normal curve, with the greatest number of people selecting 6-10 tasks.
 
 ![#tasks-selected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/%23tasks-selected.png)
 
-## 7. Challenging to recruit people who don't use VA benefits
+## 8. Challenging to recruit people who don't use VA benefits
 
 In recruiting participants for this survey, we wanted people who had experience with a variety of VA benefits and services so that each of our tasks would be potentially relevant to at least some respondents (see chart and table below). **The greatest number of survey respondents had experience with VA health care, disability, and education.** One person wrote in that they have experience with services for MST (Military Sexual Trauma).
 
