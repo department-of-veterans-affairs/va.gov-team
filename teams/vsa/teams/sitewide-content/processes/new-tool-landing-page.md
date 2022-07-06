@@ -4,7 +4,7 @@ A tool landing page is a static landing page that serves as an entry point to a 
 
 Example: [Manage your VA debt](va.gov/manage-va-debt/)
 
-The Sitewide Content and IA team builds and manages tool landing pages in the Drupal CMS. Sitewide Content and IA works with product teams to create content for these pages that align with our content patterns and the VA.gov content style guide. 
+The Sitewide Content and IA team determines the IA for this pages and builds and manages the pages in the Drupal CMS. Sitewide Content and IA works with product teams to create content for these pages that align with our content patterns and the VA.gov content style guide. 
 
 Product teams are responsible for creating the react widget that serves as the auth/unauth entry into the tool itself.
 
