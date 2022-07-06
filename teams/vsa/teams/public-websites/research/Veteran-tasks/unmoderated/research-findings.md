@@ -255,24 +255,34 @@ A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a 
 
 ### Missing tasks
 After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of the suggestions for new tasks, all of which were suggested by only one respondent:
+1. Find background, education and qualifications for VA medical providers on a VA-sponsored site 
+1. View patient satisfaction results for VA medical providers
+1. Obtain a VA satisfaction survey to rate and provide a review of my experience as a patient 
+1. Learn if your condition or disability might be connected to Agent Orange exposure (or burn pit, etc.) during your service
 1. Find MST (Military Sexual Trauma) events, retreats, support groups 
-1. Obtain every Choice/Community Care referral provided to me for non-VA care with authorization numbers (in order to prove that VA bills were authorized by the VA and should be paid)
-1. Obtain a VA satisfaction survey to rate and provide a review of my experience as a patient receiving home telehealth monitoring 
-1. Find VA providers' background, education and qualifications on a VA sponsored site 
-1. View patient satisfaction results for each MD/NP/DO/PA
 1. Find a VA Rehab/nursing home
-1. Get DME (durable medical equipment)
+1. Get durable medical equipment
 1. Get counseling in insurance options for Veterans (i.e. Medicare, Medicaid, Hospice)
-1. Find events/ceremonies that honor Veterans around holidays like Memorial Day, Armed Forces Day, and Veterans Day
-1. Get community care services
-1. Learn about legislative activities that affect VA benefits and programs.
+1. Learn about legislative activities that affect VA benefits and programs
 1. Obtain assistance with Board for Correction of Naval Records
-1. Request for Agent Orange (AO) or illness related to AO.
 1. Volunteer events to support the VA
+1. Obtain every Choice/Community Care referral provided to me for non-VA care with authorization numbers (in order to prove that VA bills were authorized by the VA and should be paid)
+
 
 ### Feedback for VA
 
-**TBD**
+In the open-ended survey responses, there was some feedback specifically for VA, which is listed below:
+1. The VA service at James Haley Veterans' Hospital in Tampa is outstanding.
+1. I would love for all of the VA benefits to be in the same site. For each issue, it seems that there is a totally different site that you have to know about, log into, register, etc.
+1. Obtain a call center line/text message that will provide crisis counseling to Vets that are not suicidal. Allow Veterans 24/7 support without threat of mental health hospitalization.
+1. Be offered VA medical care, educational groups, diagnostics at times outside of my 8 to 5 work-hours so that I don’t have to take off work every time. VA does not offer ANY appointments outside of work hours. This is a very large gap in care. 
+1. Want to be able to see a specialist doctor without having to wait 1-3 months.
+1. Request expired prescriptions on-line instead of calling them in.
+1. Be able to email VA medical providers, and allow providers to send me documents by email instead of mailing them to me. 
+1. Fix the MyHealthVet app so that attachments that I send by Secure Message go through to the provider. 
+1. How does one submit a complaint to the VA about appointments that are cancelled by the VA? 
+1. View the entire content of my medical records on MyHealtheVet, including all addenda, emails between providers, and VA notes that are not provided on a MHV chart request. 
+1. The National VA Advisory board members are all urban and not in alignment with rural veterans. 
 
 # Recommendations
 1. When choosing user tasks for use in designing the VA.gov home page or planning any user research or analytics, **consider your audience:**
