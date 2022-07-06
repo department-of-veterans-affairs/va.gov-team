@@ -77,7 +77,7 @@ Before we start, a few things I want to mention:
 - How many messages would you be comfortable scrolling through?
 
 *If they sort. . .*
-- Would you ever want to change the order you see these messages in? What order would you like to see them in? How would you do that?
+- How would you change the order you see these messages in? What order would you like to see them in? 
 
 *If they search. . .*
 - What are you seeing here? 
