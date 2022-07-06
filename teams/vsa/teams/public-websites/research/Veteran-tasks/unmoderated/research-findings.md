@@ -286,7 +286,7 @@ In the open-ended survey responses, there was some feedback specifically for VA,
 
 # Recommendations
 1. When choosing user tasks for use in designing the VA.gov home page or planning any user research or analytics, **consider your intended audience:**
-- Where will they be in their **journey using VA benefits**? Will they be focused on learning about VA benefits and applying for them? Mnaging the benefits they already have? Both? 
+- Where will they be in their **journey using VA benefits**? Will they be focused on learning about VA benefits and applying for them? Managing the benefits they already have? Both? 
 - Will there will be people who **use VA health care?** People who don't use VA health care? Both? 
 - What **age range(s)** of people? Younger? Older? All ages? 
 
