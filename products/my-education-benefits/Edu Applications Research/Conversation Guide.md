@@ -22,8 +22,11 @@ Usability Testing Prep:
 •	Confirm that the participant has consented to the study before starting the session
 
 •	Have prototype link ready for sharing in the meeting chat
+  
   o	Check that guests can access and navigate through the prototype 
+
 **Intro** - 5 minutes
+
 Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate applying for education benefits.
 
 Before we start, a few things I wanted to mention:
