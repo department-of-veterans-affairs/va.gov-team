@@ -19,7 +19,7 @@
 
 [Ongoing efforts](#ongoing-efforts)
 - [Connection to authenticated experience](#connection-to-authenticated-experience)
-- [Discussions with stakeholders](discussions-with-stakeholders)
+- [Discussions with stakeholders](#discussions-with-stakeholders)
 
 [Launch planning](#launch-planning)
 
@@ -189,7 +189,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 | March 39, 2022 | Design intent |
 | June 3, 2022 | Moderated Top Task research synthesis - [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
 | June 3, 2022 | First build deployed to staging |  
-| June 2022 | Unmoderated Top Task research - _findings (TBD)_ |
+| June 2022 | [Unmoderated Top Task research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)|
 | July 2022 | Usability research | 
 
 #### Initiative Launch Dates
