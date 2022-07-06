@@ -85,11 +85,15 @@ _Participant criteria: Primary Criteria/Must have_ -
 
 * Target Sample Size: 20-25 participants 
 
-* Age: Diverse distribution preferred 
+* Age: Diverse distribution preferred (~40% Age 55-64+)
 
 * Accessibility Preferences:  Must have access to a computer or mobile phone to use the testing platform. Participant should indicate their preference before scheduling.  
  - Note: VA has identified underrepresented demographic populations that should be prioritized for user engagement and feedback sessions.  We want to be sure to include the following Veteran groups below: 
- Live in rural or abroad ; Identify as Latinx, Biracial, Asian, Native, or LGBTQ+ ;Have a cognitive disability 
+ * Live in rural area ( (~20% of participants)
+ 
+ * Identify as Latinx, Biracial, Asian, Native, or LGBTQ+ (~20% of participants)
+  
+ * Have a cognitive disability (~40% of participants)
 
 * Geographical Diversity: Diverse distribution preferred 
 
