@@ -56,9 +56,14 @@ TBD
 4. Are there VA emails that have default sends, or is it just text messages?
 5. I’m trying to understand which types of notifications are eligible for default sends, and found info below in the PDF Beverly shared. Are there any other kinds of default sends a Veteran could receive that aren’t covered here? I don’t see transactional messages listed (e.g. email address in your profile has been changed) but perhaps that falls under the 3rd item in that list.
 > A 2015 FCC Declaratory Ruling5 notes the following types of messages would not require “explicit written consent”:
+
 > i. Health care communication, including communication about appointment and exam confirmations and reminders, wellness checkups, hospital pre-registration instructions, pre-operative instructions, lab results, post-discharge follow-up intended to prevent readmission, prescription notifications, and home healthcare instructions
+
 > ii. Notification of shipment and tracking information
+
 > iii. Notification about the status of a service an individual is seeking
+
 > iv. Financial related messages (i.e. notes about debts owed)
+
 > v. Disaster related messages related to health and safety
 
