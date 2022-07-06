@@ -298,9 +298,9 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 # Next Steps
 
-- Present results to Sitewide Public Websites team.
+- Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 - Use a variety of top tasks from this research as tasks for usability testing the home page redesign.
-- From the planned usability testing of the home page redesign, learn what parts of the home page people use to accomplish tasks (e.g., Common Tasks, search, benefit hubs), and what works well and not so well.
+- We are not yet deciding on which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common Tasks, search, benefit hubs), and what works well and not so well.
 - For tasks that prove difficult to do, consider design changes to the redesigned home page to make them easier, and then do another round of usability testing.
 
 # Appendix
