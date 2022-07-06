@@ -1,60 +1,73 @@
 # Veteran benefit utilization data
 
 Veteran population (projected)<sup>1</sup> = ~19,088,805
+## Health care
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-| FY 2021<sup>1</sup>	|	Health care | VA Health Care System enrollees	|	9,260,000
-|	FY 2021<sup>1</sup>	|	Health care | Total unique patients treated 	|	6,322,423
+| Benefit/service	|	FY 2021<sup>1</sup>	Receipients/beneficiaries | 
+| --- | --:
+| VA Health Care System enrollees	|	9,260,000
+| Total unique patients treated 	|	6,322,423
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2021<sup>4</sup>	|	Life insurance | Lives insured	|	5,690,000
+## Life insurance
+| Benefit/service	|	FY 2021<sup>6</sup> Receipients/beneficiaries 
+| --- | --:
+| Lives insured	|	5,705,017
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-| FY 2016<sup>3</sup> | Burials and Memorials | Memorial benefits | 3,000,000
+## Burials and memorials
+| Benefit/service	|	FY 2016<sup>3</sup> Receipients/beneficiaries
+| --- | --:
+| Memorial benefits | 3,000,000
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-| FY 2020<sup>2</sup>	|	Disability | Veteran service-connected compensation benefits 	|	5,081,692
-| FY 2020<sup>2</sup>	|	Disability | Survivor Dependency and Indemnity Compensation (DIC) benefits 	|	445,503
-|	FY 2021<sup>4</sup> | Disability | Compensated for PTSD	|	1,291,428
-|	FY 2021<sup>4</sup> | Disability | Veterans in receipt of Individual Unemployability benefits | 374,217
+## Disability
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+| --- | --: | --:
+| Veteran service-connected compensation benefits 	|	5,081,692<sup>2</sup> | 5,225,420<sup>6</sup> |
+| Survivor Dependency and Indemnity Compensation (DIC) benefits 	|	445,503<sup>2</sup> | 460,591<sup>6</sup>
+| Compensated for PTSD	| |	1,291,428<sup>4</sup> 
+| Veterans in receipt of Individual Unemployability benefits |  | 374,217<sup>4</sup> 
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2020<sup>2</sup>	|	Housing assistance | Home loans guaranteed	|	1,246,817
-|	FY 2020<sup>2</sup>	|	Housing assistance | Interest rate reduction loans	|	662,065
-|	FY 2020<sup>2</sup>	|	Housing assistance | Borrowers saved from foreclosure	|	119,513
-|	FY 2020<sup>2</sup>	|	Housing assistance | Specially adapted housing grants and direct loans	|	2,113
+## Housing
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+| --- | --: | --:
+|Home loans guaranteed	|	1,246,817<sup>2</sup> | 1,441,745<sup>6</sup>
+|Interest rate reduction loans	|	662,065<sup>2</sup> | 831,824<sup>6</sup>
+|Borrowers saved from foreclosure	|	119,513<sup>2</sup> ||
+|Specially adapted housing grants and direct loans	|	2,113<sup>2</sup> ||
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2020<sup>2</sup>	|	Education and training | Education programs	|	875,060
+## Education and training
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+|	---	| ---: | --:
+| Education programs	|	875,060<sup>2</sup> | 836,834<sup>6</sup>
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary |Veterans pension 	|	219,587
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary | Survivors pension 	|	159,083
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary |VA fiduciary program services 	|	162,779
+## Pension
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+|	---	| ---: | --:
+|	Pension and Fiduciary |Veterans pension 	|	219,587<sup>2</sup>| 194,712836,834<sup>6</sup> | 
+| Survivors pension 	|	159,083<sup>2</sup> | 139,864<sup>6</sup>
+| VA fiduciary program services 	|	162,779<sup>2</sup> | |
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2020<sup>2</sup>|	Service member benefits | Attendees at Transition Assistance Program (TAP) events  	|	213,343 attendees - 70,258 events
-|	FY 2020<sup>2</sup>|	Service member benefits | VA Solid Start   	|	123,743
-| Estimated annual<sup>5</sup> | Service member benefits  | Number of transitioning service members | 200,000 |
+## Service member benefits
+Number of transitioning service members = 200,000 estimated annual<sup>5</sup>
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2020<sup>2</sup>	|	Careers and employment | Veteran Readiness and Employment participants	|	123,490
-|	FY 2020<sup>2</sup>	|	Careers and employment | Personalized Career Planning and Guidance (PCPG) (Chapter 36)	|	6,223
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+|	---	| ---: | --:
+| Transition Assistance Program (TAP)	|	213,343 attendees - 70,258 events<sup>2</sup> | 172,830 at 60,371 events<sup>6</sup>
+| VA Solid Start   	|	123,743 <sup>2</sup> | 257, 039<sup>6</sup>
 
-|	Data year	|	Benefit category | Benefit/service	|	Number of receipients/beneficiaries
-|	---	|	---	| --- | --:
-|	FY 2015	|	Family member benefits | Enrolled in the caregiver program	|	33,000
-|	FY 2020<sup>2</sup>	|	Pension and Fiduciary | Survivors pension 	|	159,083
-| FY 2020<sup>2</sup>	|	Disability | Survivor Dependency and Indemnity Compensation (DIC) benefits 	|	445,503
+
+## Careers and employment
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+|	---	| ---: | --:
+| Veteran Readiness and Employment participants	|	123,490<sup>2</sup> | 92,247<sup>6</sup>
+| Personalized Career Planning and Guidance (PCPG) (Chapter 36)	|	6,223<sup>2</sup>||
+
+## Family member benefits
+Enrolled in the caregiver program, FY 2015= 33,000
+
+| Benefit/service	|	FY 2020	Receipients/beneficiaries | FY 2021	Receipients/beneficiaries
+|	---	| ---: | --:
+| Survivors pension 	|	159,083<sup>2</sup> | 139,864<sup>6</sup>
+| Survivor Dependency and Indemnity Compensation (DIC) benefits 	|	445,503<sup>2</sup> | 460,591<sup>6</sup>
 
 ## Data sources
 <sup>1</sup>GDX 2021
@@ -66,6 +79,8 @@ Veteran population (projected)<sup>1</sup> = ~19,088,805
 <sup>4</sup>VA Benefits & Health Care Utilization pocket card, updated 4/21/2022
 
 <sup>5</sup>[US Governent Accountability Office](https://www.gao.gov/products/gao-19-438r)
+
+<sup>6</sup> Veterans Benefits Adminitration Annual Benefits Report, FY 2021
 
 
 
