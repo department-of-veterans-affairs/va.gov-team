@@ -11,7 +11,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Common use cases
 ### User logs in with LOA1 account
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/loa1-user.md)
+- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 ID.me or Login.gov; No flags on their account
 - [No compensation and pension or education payments detected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md)
