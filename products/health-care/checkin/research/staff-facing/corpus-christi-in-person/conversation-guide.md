@@ -118,7 +118,7 @@ Thank you again and enjoy the rest of your day.
 
 ### Introduction 
 
-We are conducting research on behalf of OCTO to help evaluate BTSSS and the beneficiary travel reimbursement process to improve both the Veteran and staff experience. We would like to better understand your process for reviewing claims and what information you require to complete a review. We will be reviewing a map of the end-to-end process as we currently understand it. We are hoping you help us continue to build out the map, correct any inaccuracies, and provide general feedback.
+We are conducting research on behalf of OCTO to help evaluate BTSSS and the beneficiary travel reimbursement process to improve both the Veteran and staff experience. We would like to better understand your process for reviewing claims and what information you require to complete a review. We will be reviewing a map of the end-to-end process as we currently understand it. We are hoping you would help us continue to build out the map, correct any inaccuracies, and provide general feedback.
 
 If we have time, we will also be reviewing a prototype of a possible Veteran experience.
 
