@@ -13,6 +13,8 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 7/7/2022
+- Spanish Language Support - New feauture to allow Veterans to view page content translated to Spanish. See detailed release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/spanish-translations.md)
+   - [Epic 38257](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38257) 
 - Session storage to keep track of user verification attempts now resets each time a new appointment identifier (UUID) is set for the session. This allows a user to have 3 verification attempts per appointment identifier. Verification attempts also get reset upon successful login.
    - [Ticket 36483](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36483)
 
