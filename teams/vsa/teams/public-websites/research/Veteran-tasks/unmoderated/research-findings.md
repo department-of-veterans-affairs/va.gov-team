@@ -43,9 +43,13 @@ Veteran tasks fit into the Veteran journey throughout their lives:
 6. What tasks are done most frequently?
 
 # Methodology 
-We conducted an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants received a link to an online survey that contains a list of 41 VA-related tasks. The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks that were synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The list of tasks was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*). The survey design has already been refined following the phase 1 [moderated research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md). 
+In the first phase of this research, we conducted a moderated study in which 7 participants completed an online survey and provided their feedback in discussion with the moderator. Based on this feedback as documented in the [research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md), the survey questions were refined to make them more intuitive. 
 
-In the survey, participants selected which VA-related tasks were important to them personally (*not* for all Veterans). Participants were also asked if there were any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently.
+Then for the second phase for this research, we conducted an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants received a link to an online survey. The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks that were synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The list of tasks was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).  
+
+In the survey, participants selected which VA-related tasks were important to them personally (*not* for all Veterans). Note that participants were asked about task importance independent of VA-provided web pages, and so the findings are not directly comparable with VA.gov home page click analytics. Plus, some of the top tasks aren't readily available from the current VA.gov home page.
+
+Participants were also asked if there were any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently. 
 
 We wanted to get complete survey responses from **at least 30 Veterans and others (ideally 40-50)**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
@@ -96,8 +100,8 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
 # Details of Findings 
 
 Notes:
-- We didn't have enough survey participants for the results to be statistically significant.
-- Survey responses from **55 participants** were analyzed--**48** from the unmoderated survey (phase 2) plus **7** from the moderated interviews (phase 1).
+- Survey responses from **55 participants** were analyzed: **48** from the unmoderated survey (phase 2) plus **7** from the moderated interviews (phase 1).
+- We didn't have enough survey participants for the results to be statistically significant. This means that if the study were run again, the results may not exactly match the data in this report. Based on the number of responses we had, individual percentages for specific tasks could differ as much as +/- 10%. However, it's still worthwhile to do this research because large differences between tasks--the top tasks *vs.* the bottom tasks--are likely to be accurate.
 
 ## 1. Most top tasks were related to health care
 
@@ -112,8 +116,6 @@ The percentages for these top tasks can be compared to all the other tasks in th
 ![bar-chart--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-chart.png)
 
 ![all-tasks-all-ps-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-all-ps-table.png)
-
-
 
 ## 2. Most frequently done tasks were all related to health care 
 
@@ -154,7 +156,11 @@ It is interesting to note that in the above top tasks lists, the *disability com
 
 ## 4. Top tasks varied by participant age
 
-We segmented participants by age to see whether there were difference in top tasks selected. We compared the top tasks from participants who were at least 55 years old (42% of all participants) with the top tasks from participants under 35 years old (13% of participants). The results showed that **older participants thought health care and burial tasks were most important**, whereas **younger participants were more focused on education benefits, payment history, and contact information**--and *not* health care (see tables below). Note that the older group had many more people (23 of 55) than the younger group (7 of 55). We also defined a third segment with the 25 participants (45%) who were between the oldest and youngest groups (age 35-54), and those data align more with the older group--mostly health care tasks plus disability compensation, but no burial.
+We segmented participants by age to see whether there were difference in top tasks selected. We compared the top tasks from participants who were at least 55 years old (42% of all participants) with the top tasks from participants under 35 years old (13% of participants). 
+
+The results showed that **older participants thought health care and burial tasks were most important**, whereas **younger participants were more focused on education benefits, payment history, and contact information**--and *not* health care (see tables below). 
+
+Note that the older group had many more people (23 of 55) than the younger group (7 of 55). We also defined a third segment with the 25 participants  who were between the oldest and youngest groups (age 35-54). The data from these 25 **in-between-aged participants** (45% of all participants) align more with the older group--**mostly health care tasks plus disability compensation, but no burial**.
 
 ![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
 
@@ -292,7 +298,7 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 - Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 - Use a variety of top tasks from this research as tasks for usability testing the home page redesign.
-- We are not yet deciding on which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common Tasks, search, benefit hubs), and what works well and not so well.
+- We are not yet deciding on which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common tasks, Search, Benefit hubs), and what works well and not so well.
 - For tasks that prove difficult to do, consider design changes to the redesigned home page to make them easier, and then do another round of usability testing.
 
 # Appendix
