@@ -8,7 +8,7 @@ assignees: ''
 
 ## ENGINEERING TASKS
 - [ ] Merge code to main branch **prior to 2 pm ET** on day of release (or flip a feature flag
-- [ ] Conduct prod validation, if necessary
+- [ ] Conduct prod or staging validation
 
 ## RESEARCH TASKS
 - [ ] Push updated Product Guides to Git
