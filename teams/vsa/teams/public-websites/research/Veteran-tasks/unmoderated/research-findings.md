@@ -47,7 +47,7 @@ In the first phase of this research, we conducted a moderated study in which 7 p
 
 Then for the second phase for this research, we conducted an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants received a link to an online survey. The online survey was built in Optimal Workshop's survey tool, which is called Questions. The survey contained a list of 41 VA-related tasks that were synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. The list of tasks was reviewed by colleagues in IA and Content. In order to keep the list down to a manageable length, some related tasks were combined (e.g., *Learn about or apply for VA health care*), and a few tasks that are required to be supported were omitted (e.g., *Contact the Veterans Crisis Line*, and *Report harassment that occurred at a VA site or online*).  
 
-In the survey, participants selected which VA-related tasks were important to them personally (*not* for all Veterans). Note that participants were asked about task importance independent of VA-provided web pages, and so the findings are not directly comparable with VA.gov home page click analytics. Plus, some of the top tasks aren't readily available from the current VA.gov home page.
+In the survey, participants selected which VA-related tasks were important to them personally (*not* for all Veterans). Note that participants were asked about task importance without the context of any VA-provided web pages, and the tasks don't align with the tasks currently displayed on the VA.gov homepage. Thus, the findings are not directly comparable with VA.gov home page click analytics data.
 
 Participants were also asked if there were any VA-related tasks that are important to them that weren't on the list, and which tasks they do most frequently. 
 
@@ -76,7 +76,7 @@ We wanted to get complete survey responses from **at least 30 Veterans and other
      1. Learn about or file for disability compensation (service-related)
      1. Get your VA medical records
 
-2. The self-reported **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks.
+2. The **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks. (The survey asked this in an open-text field, not by providing a list of tasks from which to choose.)
 
 3. **For participants who don't use VA health care, top tasks were quite different**, with the only overlap being *disability compensation* and *VA medical records*.
 
