@@ -1,4 +1,6 @@
 ## QA Round Spanish Tweaks Received from the State Department on 7/6/2022 
+- [LS_2022-0117053-B-LQM-v2_Check-in Workflow_final changes.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/LS_2022-0117053-B-LQM-v2_Check-in%20Workflow_final%20changes.pdf)
+- [LS_2022-0117053-A-LQM-v2_Pre-Check-in Workflow_final changes.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/LS_2022-0117053-A-LQM-v2_Pre-Check-in%20Workflow_final%20changes.pdf)
 
 ## QA Round Spanish Tweaks Received from the State Department on 6/24/2022 
 - [June 24 2022-SPA-FINAL_CIE%20in-app%20content.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/June%2024%202022%20-%20SPA-FINAL_CIE%20in-app%20content.json)
