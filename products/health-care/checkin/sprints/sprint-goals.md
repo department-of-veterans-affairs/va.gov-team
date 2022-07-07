@@ -58,7 +58,7 @@
 
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
-    -  **Release ~7/12**
+    -  **Release ~7/12** (actual release was 7/7)
 - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
     -  **Release ~7/12**
 
