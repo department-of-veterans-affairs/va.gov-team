@@ -67,12 +67,12 @@ Based on participants' feedback and usability issues with the survey as document
 *Note: The Key Findings below are presented in a logical order, not in order of importance.*
 
 1. Across all survey participants, **most top tasks were related to health care**:
-     1. Schedule or manage health appointments
-     1. Message your doctor or get a health care message
-     1. Check your lab or test results
-     1. Refill or track a prescription
-     1. Learn about or file for disability compensation (service-related)
-     1. Get your VA medical records
+- Schedule or manage health appointments
+- Message your doctor or get a health care message
+- Check your lab or test results
+- Refill or track a prescription
+- Learn about or file for disability compensation (service-related)
+- Get your VA medical records
 
 2. The **most *frequently done* tasks were all related to health care** and aligned closely with the overall top tasks. (The survey asked this in an open-text field, not by providing a list of tasks from which to choose.)
 
@@ -83,12 +83,12 @@ Based on participants' feedback and usability issues with the survey as document
 5. **Merging the top tasks from all of the above segments (all participants, different age groups, and VA health care users and non-users) results in a longer list of top tasks** that can be categorized in various ways. 
 
 6. Here are the **least important tasks overall**:
-     1. Learn about or apply for monthly Veterans pension payments
-     1. Verify your monthly school enrollment
-     1. Learn about or order hearing aid batteries
-     1. Get help with your rent, utility bills, or other housing-related expenses
-     1. Apply to receive benefits as a Veteran's caregiver
-     1. Get help with your VA debt
+- Learn about or apply for monthly Veterans pension payments
+- Verify your monthly school enrollment
+- Learn about or order hearing aid batteries
+- Get help with your rent, utility bills, or other housing-related expenses
+- Apply to receive benefits as a Veteran's caregiver
+- Get help with your VA debt
 
 7. Participants selected an **average of 9.5 tasks as important**, ranging from 1 to 26. This was interesting because we didn't include the "select up to 10" wording that was originally in the survey question.
 
