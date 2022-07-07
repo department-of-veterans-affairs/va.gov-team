@@ -1,9 +1,9 @@
 # 20-0995 Supplemental Claims Outline
 
 
-## Introduction
+## Introduction Signed Out
 
-## Step 1 of 5 – Veteran Information
+## Choose Benefit Type
 - [ ] Disability compensation
 - [ ] Pension & Survivor’s Benefits
 - [ ] Fiduciary
@@ -16,6 +16,12 @@
 
 **What if I want to file for more than one benefit type? (expand)** \
 If you’d like to file for multiple benefit types, you’ll have to complete a separate VA Form 20-0995 for each benefit type.
+
+## Introduction Signed In
+Follow these steps to file your Disability Claim:
+1. Prepare: Check your eligibility
+2. Gather your information: What you need to apply
+3. File your Supplemental Claim
 
 ## Step 1 of 5 – Veteran Information
 1. First *
