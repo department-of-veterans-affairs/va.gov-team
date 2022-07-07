@@ -54,4 +54,4 @@ Please provide the following information about the individual being offboarded:
    
    > Documentation for this process can be found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members)
 
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-analytics-insights , @department-of-veterans-affairs/confluence-admins
+ CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/platform-analytics-insights-team , @department-of-veterans-affairs/confluence-admins
