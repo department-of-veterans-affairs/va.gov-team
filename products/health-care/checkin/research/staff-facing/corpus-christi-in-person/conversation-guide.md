@@ -92,6 +92,7 @@ Before we start, a few things I want to mention:
 We’d also like to understand canceled appointment more. 
 
 - How often does the VA (not the Veteran) have to cancel an appointment?
+- Typically, how in advance do cancellations by VA occur?
 - What are the steps taken when the VA needs to cancel an appointment?
 - Are any notifications sent to Veterans when a cancellation occurs?
 - What type of notification is sent and when is it sent? 
