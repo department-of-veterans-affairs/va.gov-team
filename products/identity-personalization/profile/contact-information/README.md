@@ -3,7 +3,7 @@ Last Updated July 6, 2022
      
 ## Table of Contents
 
-- [POCs](#pocs)
+- [POCs](#)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
 - [Measuring success](#measuring-success)
@@ -12,7 +12,7 @@ Last Updated July 6, 2022
 - [How to Access and Test](#how-to-access-and-test)
 - [Backend](#backend)
 - [Frontend](#frontend)
-- [Design and UX](#design-and-ux)
+- [Design and UX](#design)
 
 
 ## POCs
@@ -58,6 +58,20 @@ As a user, I want to be able to:
 
 ## Feature overview
 ### What to know about this feature
+* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile/direct-deposit) .
+* This feature allows users to complete two core tasks:
+	- **Edit** their mailing address
+	- **Add, edit, and delete** 
+		- home address
+		- home phone number
+		- mobile phone number
+		- work phone number
+		- contact email address
+* To access this feature in the profile, users need to login to  VA.gov  with an identity-verified (LOA3)  account.
+* Contact information is pulled from and written to the VA Profile API.
+* Updates made in VA.gov profile contact information will sync with any other systems that are using the VA Profile API for contact information.
+* The only piece of contact information that can’t be deleted once added is a mailing address
+* This feature doesn’t support international phone numbers 
 
 ## How to Access and Test
 [See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
