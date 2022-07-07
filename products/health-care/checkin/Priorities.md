@@ -8,7 +8,6 @@
 | Research| [August Research Study (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)| Prepping|| 3| 2| 2||
 | Research| [Beneficiary Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)| Discovery| 5| 4| 4|||
 | Research| [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)|| 1| 4||||
-| Development | [Spanish Support - Round 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38257)| Done - **Released 7/7**||| | 38|  |
 | Development | [Canceled Appointment Messaging](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40418)| In Progress **Release 7/12?**||| 4| 1| |
 | Development| [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)| In Progress **Release 7/26?**|| 2| 2| 31||
 | Development| [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)| In Progress **Release 7/26?**|| 1| 2| 10||
@@ -20,3 +19,6 @@
 | Development| [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)| Needs refine| 4|||||
 | Development| [Type of Care & Doctor’s Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)| Discovery| 6| 3| 1|||
 | Development| [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) | Blocked|| 2||| Waiting on CHIP work|
+| Development| [Send Pre-Check-in Link via Email](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42620) | || ||| |
+
+
