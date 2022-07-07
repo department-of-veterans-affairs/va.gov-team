@@ -17,7 +17,7 @@ assignees: ''
 - [ ]  Merge final wireframes to Abstract main branch
 - [ ]  Merge Sketch files to VA Sketch cloud
 
-## PRODCT TASKS
+## PRODUCT TASKS
 - [ ] Create release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
 - [ ] Remove corresponding entry from the [Planned Releases page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
 - [ ] Send release notification via slack in the [check-in-expreience](https://dsva.slack.com/archives/C022AC2STBM) channel 
