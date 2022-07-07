@@ -39,7 +39,7 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Refresh token is not defined** | The Refresh token is not present or not valid | - |
+| 400 | **Refresh token is not defined** | This occurs if the Refresh Token is not found in the cookies or passed via parameters | Clear cookies & cache, try again |
 </details>
 
 <details>
