@@ -3,7 +3,7 @@
 ### Outstanding Action Items with 7/6 update
 - In-progress Notification emails
      - Rolled back due to not having an "opt-out" process at this time
-     - [ ] **(6/22) - Online Health Apps team** will conduect further analysis will be done with VA Notify team for future implementation
+     - [ ] **(6/22) - Online Health Apps team** will conduct further analysis will be done with VA Notify team for future implementation
 - Medicare Claim Number
      - [x] (6/22) - Jessica (Jessi) Soza and team working on adding the Medicare Claim number field to the paper form
           - (6/30) - Received Stacey Echols' approval of UI design to implement for Online application
