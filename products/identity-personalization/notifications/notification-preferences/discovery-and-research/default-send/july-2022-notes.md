@@ -1,15 +1,20 @@
 # Default send notification settings discovery
-July 6, 2022
+July 7, 2022
 
 ## Background
 VA Profile has added a data point to their API that tells us whether or not a notification is sent by default when a Veteran signs up for a service.  We conducted some discovery work to understand the implications of this on the UI of our notification settings feature in profile.
 
 ## Q&A
-1. **What type of notifications are eligible for a default opt-in?**
-TBD
+1. **What type of notifications are eligible for a default send?**
+- SMS/Text messages
+- Currently, all emails handled by VA Notify are sent by default, but they’re system generated messages (e.g. confirmations) and don’t fit into the same type of notification that either implied vs explicit consent.
 
-2. **How can a user opt-out of a default opt-in?**
-- A user can reply STOP to a text message to unsubscribe
+2. **How can a user opt-out of a default send notification?**
+- There isn’t a way for users to opt out of any VA Notify emails right now. The team is working on it.
+- Users can opt out of default send text messages via the VA.gov notification settings page.
+- They can also opt out by replying STOP to a text message to unsubscribe. However, if a user does this, **it is not reflected in VA Profile**.
+	- VETText will check against this “STOP” message, so users won’t receive texts **BUT**
+	- VA.gov will still reflect that they are opted in since VA profile will not update the preferences based on a phone number.
 
 3. **How do other websites approach this? Are there any best practices we should consider?**
 - We didn’t find any examples of websites among our own accounts that differentiated default send notifications on their settings page.
@@ -27,8 +32,8 @@ TBD
 
 6. **How is VA Notify using this new flag?**
 - It’s a technical flag to understand what kind of logic to use when they’re notifying somebody
-- If you’re requiring someone to explicitly opt in, we need to check for that opt-in before we send it
-- Implicit send (aka default send) says that they can still send the notification without an explicit opt in
+- If a notification requires someone to explicitly opt in, VA notify need to check for that opt-in before they send it
+- Implicit send notifications (aka default send) says that they can still send the notification without an explicit opt in
 
 7. **Do we still need to require people to opt in OR out for each notification type?** 
 - Not necessarily. 
@@ -47,23 +52,10 @@ TBD
 8. **How does this new flag change the data structure of VA Profile’s API?**
 - This is a boolean value in the communication group data called `defaultSendIndicator`
 
+## Findings 
+1. There are no best practices or technical reasons we need to change anything in our notification settings UI to support this new flag.
+2. VA Profile’s API doesn’t reflect opt-outs unless they happen in the VA.gov profile, which means the VA.gov profile may show someone is opted-in when they are actually opted out. 
+3. The data from the default send flag means we have more flexibility with our design and can simplify the notification settings UI.  When the default send data is combined with the permission value, we can still satisfy VA Notify’s requirement to identify explicit opt outs (refer to table above).
 
 
-## Outstanding questions for VA Notify
-1. Is the information I captured in questions 1, 2, 4, 6 and 7 accurate?
-2. Do all VA Notify emails have an unsubscribe link?
-3. Does every text message include “reply STOP to opt out” or something to that effect?
-4. Are there VA emails that have default sends, or is it just text messages?
-5. I’m trying to understand which types of notifications are eligible for default sends, and found info below in the PDF Beverly shared. Are there any other kinds of default sends a Veteran could receive that aren’t covered here? I don’t see transactional messages listed (e.g. email address in your profile has been changed) but perhaps that falls under the 3rd item in that list.
-> A 2015 FCC Declaratory Ruling5 notes the following types of messages would not require “explicit written consent”:
-
-> i. Health care communication, including communication about appointment and exam confirmations and reminders, wellness checkups, hospital pre-registration instructions, pre-operative instructions, lab results, post-discharge follow-up intended to prevent readmission, prescription notifications, and home healthcare instructions
-
-> ii. Notification of shipment and tracking information
-
-> iii. Notification about the status of a service an individual is seeking
-
-> iv. Financial related messages (i.e. notes about debts owed)
-
-> v. Disaster related messages related to health and safety
 
