@@ -4,11 +4,6 @@
 
 - To allow Veterans who's native language is Spanish to view the Pre-Check-in and Check-in content in Spanish
 
-## STATUS
-
-- Wireframes have been developed
-- Feature development is in progress
-
 ## DESCRIPTION
 
 - Veterans will be able to indicate if they prefer to see the page content in English or Spanish; the default language will follow the Veteran's configured browser language, if any, or English where there is no default specified
