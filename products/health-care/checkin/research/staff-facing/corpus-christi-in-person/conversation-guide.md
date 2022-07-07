@@ -118,9 +118,9 @@ Thank you again and enjoy the rest of your day.
 
 ### Introduction 
 
-We are conducting research on behalf of OCTO to help evaluate BTSSS and the beneficiary travel reimbursement process to improve both the Veteran and staff experience. A team we partner with within OCTO has created some ideas on how the Veteran experience could be updated to reach those goals.  
+We are conducting research on behalf of OCTO to help evaluate BTSSS and the beneficiary travel reimbursement process to improve both the Veteran and staff experience. We would like to better understand your process for reviewing claims and what information you require to complete a review. We will be reviewing a map of the end-to-end process as we currently understand it. We are hoping you help us continue to build out the map, correct any inaccuracies, and provide general feedback.
 
-What we’d like to do is demo those ideas, listen and gather feedback and ask some follow up questions.  
+If we have time, we will also be reviewing a prototype of a possible Veteran experience.
 
 Before we start, a few things I want to mention: 
 
@@ -132,6 +132,24 @@ Before we start, a few things I want to mention:
 
 I have started recording.
 
+### Process Map
+Share the process map (link TBD).
+
+This map is made of several layers. Let's review each. [Go through layer types.]
+
+We'll go from left to right and dig through each step, using the layers as a checklist to add, change, or remove items.
+
+Any questions?
+
+#### General Questions (ask during the map exercise)
+
+- Is there a scenario where the driving routes are challenged? Why? If so, is this still needed? And, what is this process like? 
+- How often do manual reviews occur? Why? If so, are these still needed? And, what is this process like?  
+- When is a Veteran able to start the claim process? E.g., once the appointment is scheduled, once the Veteran checks in, once the appointment is marked complete in VistA, etc. 
+- Did the kiosks have a different starting point? If so, what were the reasons this changed with BTSSS? 
+- In the future, is there a reason that the claim process couldn’t begin during check-in? Why or why not? 
+- Who would be responsible for deciding?
+ 
 ### Prototype 1 
 
 *Open [Prototype 1](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play) and begin the demo. Encourage participants to provide feedback at any time during the demo.*
@@ -205,15 +223,6 @@ Confirm Contact Information Page
 - Was the information in the prototypes in a logical order? 
 - Was there any information missing? 
 - Was there anything else that could be removed that’s no longer needed? 
-
-#### General Questions 
-
-- Is there a scenario where the driving routes are challenged? Why? If so, is this still needed? And, what is this process like? 
-- How often do manual reviews occur? Why? If so, are these still needed? And, what is this process like?  
-- When is a Veteran able to start the claim process? E.g., once the appointment is scheduled, once the Veteran checks in, once the appointment is marked complete in VistA, etc. 
-- Did the kiosks have a different starting point? If so, what were the reasons this changed with BTSSS? 
-- In the future, is there a reason that the claim process couldn’t begin during check-in? Why or why not? 
-- Who would be responsible for deciding?
 
 ### Closing 
 
