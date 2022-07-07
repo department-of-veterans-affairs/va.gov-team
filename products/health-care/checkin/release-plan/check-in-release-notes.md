@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 7/7/2022
-- Session storage to keep track of user verification attempts now resets each time a new appointment identifier (UUID) is set for the session. This allows a user to have 3 verification attempts per appointment identifier.
+- Session storage to keep track of user verification attempts now resets each time a new appointment identifier (UUID) is set for the session. This allows a user to have 3 verification attempts per appointment identifier. Verification attempts also get reset upon successful login.
    - [Ticket 36483](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36483)
 
 ### 07/01/2022
