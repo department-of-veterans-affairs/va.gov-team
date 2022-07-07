@@ -1,4 +1,4 @@
-## Final Spanish Translations Received from the State Department on 6/24/2022 (QA Round)
+## QA Round Tweaks Received from the State Department on 6/24/2022 
 - [June 24 2022-SPA-FINAL_CIE%20in-app%20content.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/June%2024%202022%20-%20SPA-FINAL_CIE%20in-app%20content.json)
 - [June 24 02022-SPA-FINAL_Poster-%20SMS-NOK-relationships.txt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/June%2024%202022%20-%20SPA-FINAL_Poster-%20SMS-NOK-relationships.txt)
 
