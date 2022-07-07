@@ -28,9 +28,8 @@ Before we start, a few things I want to mention:
 
 ### Things to observe:  
 
-- Did MSAs have to educate Veterans about the check-in process?
-  - If so, approximately how long did this education take?
 - Did the MSAs interact with the Veterans? If so, for what reasons? 
+  - If it was to educate them about the process, approximately how long did this education take?
 - Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in? 
 - How often are MSAs troubleshooting errors or clearing review flags?
 - How comfortable are MSAs troubleshooting errors or clearing review flags? 
