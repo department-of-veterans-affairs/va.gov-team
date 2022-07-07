@@ -18,7 +18,7 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#who-we-talked-to)
+[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#who-we-talked-to)
 
 <br>
 
@@ -318,7 +318,7 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 ![survey-questions-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-3.png)
 
 
-## Who we talked to 
+## Who we heard from 
 
 **Recruitment criteria**
 
