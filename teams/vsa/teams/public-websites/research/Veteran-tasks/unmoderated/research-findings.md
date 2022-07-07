@@ -109,7 +109,7 @@ Five of the top 6 tasks marked as important to the greatest number of participan
 
 ![top-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps.png)
 
-The percentages for these top tasks can be compared to all the other tasks in the bar chart and the table below (note that percentages 20-39% are highlighted in yellow). 
+The percentages for these top tasks can be compared to all the other tasks in the bar chart and the table below. 
 
 ![bar-chart--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-chart.png)
 
@@ -154,7 +154,7 @@ It is interesting to note that in the above top tasks lists, the *disability com
 
 ## 4. Top tasks varied by participant age
 
-We segmented participants by age to see whether there were difference in top tasks selected. We compared the top tasks from participants who were at least 55 years old (42% of all participants) with the top tasks from participants under 35 years old (13% of participants). 
+We segmented participants by age to see whether there were differences in top tasks selected. We compared the top tasks from participants who were at least 55 years old (42% of all participants) with the top tasks from participants under 35 years old (13% of participants). 
 
 The results showed that **older participants thought health care and burial tasks were most important**, whereas **younger participants were more focused on education benefits, payment history, and contact information**--and *not* health care (see tables below). 
 
@@ -234,8 +234,8 @@ In recruiting participants for this survey, we wanted people who had experience 
 
 ![benefit-experience-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/benefit-experience-table.png)
 
-We also wanted 20% of our participants to be people who *haven't used any* VA benefits but were interested in doing so, so that the "learn about or apply" tasks might be more relevant for a group of people. Unfortunately, Perigean had difficulty recruiting people who don't use VA benefits, perhaps due to the following reasons:
-1. The benefits usage data in Perigean's recruitment database may be outdated because people may have applied for new benefits after filling out the recruitment survey. This was true for one participant interviewed during a moderated session who said he had applied for a home loan Certificate of Eligibility the day before the research session. 
+We also wanted 20% of our participants to be people who *haven't used any VA benefits but were interested in doing so*, so that the "learn about or apply" tasks might be most relevant for those people. Unfortunately, Perigean had difficulty recruiting people who don't use VA benefits, perhaps due to the following reasons:
+1. Some of the benefits usage data in Perigean's recruitment database were outdated because people may have applied for new benefits after filling out the recruitment survey. This was true for one participant interviewed during a moderated session who said he had applied for a home loan Certificate of Eligibility the day before the research session. 
 2. **People who don't use VA benefits generally aren't interested in providing feedback to VA.**
 
 We had only one participant (2%) who had no experience with VA benefits, which is a long way from our original goal of 20%.
@@ -250,7 +250,7 @@ A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a 
 ![interact-VA-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-table.png)
 
 ### Missing tasks
-After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of the other tasks--all of which were suggested by only one respondent:
+After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of those tasks--each of which was suggested by only one person:
 1. Find background, education and qualifications for VA medical providers on a VA-sponsored site 
 1. View patient satisfaction results for VA medical providers
 1. Obtain a VA satisfaction survey to rate and provide a review of my experience as a patient 
@@ -258,10 +258,10 @@ After the task importance question, the survey asked if there were any other imp
 1. Find MST (Military Sexual Trauma) events, retreats, support groups 
 1. Find a VA Rehab/nursing home
 1. Get durable medical equipment
-1. Get counseling in insurance options for Veterans (i.e. Medicare, Medicaid, Hospice)
+1. Get counseling in insurance options for Veterans (i.e., Medicare, Medicaid, Hospice)
 1. Learn about legislative activities that affect VA benefits and programs
 1. Obtain assistance with Board for Correction of Naval Records
-1. Volunteer events to support the VA
+1. Find out about volunteer events to support the VA
 1. Obtain every Choice/Community Care referral provided to me for non-VA care with authorization numbers (in order to prove that VA bills were authorized by the VA and should be paid)
 
 
@@ -270,14 +270,14 @@ After the task importance question, the survey asked if there were any other imp
 In the open-ended survey responses, there was some feedback specifically for VA, which is listed below but not analyzed because it's outside the scope of this study:
 1. The VA service at James Haley Veterans' Hospital in Tampa is outstanding.
 1. I would love for all of the VA benefits to be in the same site. For each issue, it seems that there is a totally different site that you have to know about, log into, register, etc.
-1. Obtain a call center line/text message that will provide crisis counseling to Vets that are not suicidal. Allow Veterans 24/7 support without threat of mental health hospitalization.
+1. Obtain a call center line/text message that will provide crisis counseling to Vets who are not suicidal. Allow Veterans 24/7 support without threat of mental health hospitalization.
 1. Be offered VA medical care, educational groups, diagnostics at times outside of my 8 to 5 work-hours so that I don’t have to take off work every time. VA does not offer ANY appointments outside of work hours. This is a very large gap in care. 
 1. Want to be able to see a specialist doctor without having to wait 1-3 months.
-1. Request expired prescriptions on-line instead of calling them in.
+1. Request expired prescriptions online instead of calling them in.
 1. Be able to email VA medical providers, and allow providers to send me documents by email instead of mailing them to me. 
 1. Fix the MyHealthVet app so that attachments that I send by Secure Message go through to the provider. 
 1. How does one submit a complaint to the VA about appointments that are cancelled by the VA? 
-1. View the entire content of my medical records on MyHealtheVet, including all addenda, emails between providers, and VA notes that are not provided on a MHV chart request. 
+1. View the entire contents of my medical records on MyHealtheVet, including all addenda, emails between providers, and VA notes that are not provided on a MHV chart request. 
 1. The National VA Advisory board members are all urban and not in alignment with rural veterans. 
 
 # Recommendations
@@ -296,8 +296,8 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 - Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 - Use a variety of top tasks from this research as tasks for usability testing the home page redesign.
-- We are not yet deciding on which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common tasks, Search, Benefit hubs), and what works well and not so well.
-- For tasks that prove difficult to do, consider design changes to the redesigned home page to make them easier, and then do another round of usability testing.
+- We are not yet deciding which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common tasks, Search, Benefit hubs), and what works well and not so well.
+- For tasks that prove difficult to do from usability testing, consider design changes to the redesigned home page to make them easier, and then do another round of usability testing.
 
 # Appendix
 
