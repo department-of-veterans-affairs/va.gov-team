@@ -4,8 +4,9 @@
 
 #### Planned Releases
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+    -  **Release ~7/26** 
 - [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
-
+    -  **Release ~7/26** 
 
 ## 6/29/2022
 
@@ -57,9 +58,9 @@
 
 #### Planned Releases
 - [Spanish Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38257)
-    -  **Release ~7/11**
+    -  **Release ~7/12**
 - [Cancelled Appointment Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40418)
-    -  **Release ~7/11**
+    -  **Release ~7/12**
 
 ## 6/15/2022
 #### Sprint Goals
