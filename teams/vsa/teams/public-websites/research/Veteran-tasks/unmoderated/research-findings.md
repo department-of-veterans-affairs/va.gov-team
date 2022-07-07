@@ -18,7 +18,7 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#appendix)
 
-[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#who-we-talked-to)
+[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#who-we-heard-from)
 
 <br>
 
