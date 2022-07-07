@@ -141,6 +141,8 @@ We'll go from left to right and dig through each step, using the layers as a che
 
 Any questions?
 
+[Begin reviewing the map in detail.]
+
 #### General Questions (ask during the map exercise)
 
 - Is there a scenario where the driving routes are challenged? Why? If so, is this still needed? And, what is this process like? 
