@@ -1,5 +1,5 @@
 # Contact Information Product Outline
-Last Updated July 6, 2022
+Last Updated July 7, 2022
      
 ## Table of Contents
 
@@ -59,8 +59,8 @@ As a user, I want to be able to:
 ## Feature overview
 ### What to know about this feature
 * Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile/direct-deposit) .
-* This feature allows users to complete two core tasks:
-	- **Edit** their mailing address
+* This feature allows users to complete the following core tasks:
+	- **Add and edit** their mailing address
 	- **Add, edit, and delete** 
 		- home address
 		- home phone number
