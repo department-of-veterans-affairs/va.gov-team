@@ -7,7 +7,7 @@
 - Medicare Claim Number
      - [x] (6/22) - Jessica (Jessi) Soza and team working on adding the Medicare Claim number field to the paper form
           - (6/30) - Received Stacey Echols' approval of UI design to implement for Online application
-          - **(7/6) - Christopher H confirmed release date August 8th into production with a dormant/testing week, then fully functional on August 16th**
+          - **(7/6) - Christopher H confirmed release date August 8th into production with a compliance week, then fully functional on August 16th**
 - Registration path
      - [ ] **(5/25) - Online Health Apps team** will provide a LOE be estimated to add the Registration path to the online form - requested by Stacey Echols
 - Short Form - Data sources
