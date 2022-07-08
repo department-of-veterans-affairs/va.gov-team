@@ -5,7 +5,7 @@
 We released an unauthenticated chatbot in February 2022 with the aim of acting as a way to provide veterans with access to information. We followed this with an authenticated version in April 2022 with the focus being on personalization and features to access private information such as progressing compensation claims. This personalization included the ability of users to sign in with credentials, an updated end to conversation flow, and a feature that enables encryption of sensitive information to name a few. Lastly, the Chatbot was launched in beta in March 2022 to 25% traffic and recently released to 50% availability in May 2022 so it is fairly new to Veterans. 
 We need to gather feedback concerning the latest updates in the live version of the chatbot. We also need to gain a sense of priority/interest for the proposed bot features being considered for Phase III.
 
-https://staging.va.gov/contact-us/virtual-agent/
+https://dev.va.gov/contact-us/virtual-agent
 
 
 ### OCTO Objectives 
@@ -58,18 +58,8 @@ Finally, with the recent finalization of the Virtual Agent Chatbot team’s Road
 
 ## Method	
 This usability study will be conducted remotely via Zoom with participants and will consist of semi-structured interviews and usability testing.
-  Research materials
-  Moderated usability study materials:
-    -   Link to conversation guide here
-    -   Link to MURAL here
-
+ 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
 
 For moderated usability tests: 
 - Conversation Guide: (https://docs.google.com/document/d/1smhMw2djpzZIrLa6-jTaFFC-iusOgaTWbTg-XPlklVA/edit#heading=h.q3y8d0casl2u)
@@ -77,6 +67,7 @@ For moderated usability tests:
 	
 ## Recruitment	
 
+### Recruitment	Approach
 I would like Perigean recruiting to schedule 10 participants in order to achieve 6 completed sessions. I would like all participants to be veterans. 
 
 
@@ -97,30 +88,31 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
     -   At least 4 people that have login credentials [Note: they will not need to use them but this is to ensure that they are familiar with the processes]
 
 ## Timeline
-Beginning July 14, until 5-6 sessions are complete.
+Beginning July 15, until 5-6 sessions are complete.
 
 ### Prepare
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: TBD
-* Date and time of pilot session: July 13, 2022
+* Date and time of pilot session: July 14, 2022
 
 ### Research sessions
-Planned dates of research: July 14th - July 29th
+Planned dates of research: July 15th - August 1st, 2022
 
 ### Length of sessions
-45 minutes sessions with 15 minutes allotted for any possible tech issues
+1 hr sessions with 15 minutes allotted for any possible tech issues
 
 ### Availability
-  -   July 14th - 10 AM - 11 AM CST, 1:30 PM - 2:30 PM CST
-  -   July 15th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST
-  -   July 18th - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST, 3:00 PM - 4:00 PM CST
-  -   July 19th - 12:30 PM - 1:30 PM CST, 3:30 PM - 4:30 PM CST
-  -   July 20th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST
-  -   July 25th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST
-  -   July 26th - 12:30 PM - 1:30 PM CST
-  -   July 27th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST
-  -   July 28th - 10 AM - 11 AM CST, 2:00 PM - 3:00 PM CST
-  -   July 29th - 10 AM - 11 AM CST, 2:00 PM - 3:00 PM CST, 3:30 PM - 4:30 PM CST
+  -   July 15th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST 
+  -   July 18th - 10 AM - 11 AM CST, 1:00 PM - 2:00 PM CST, 3:00 PM - 4:00 PM CST 
+  -   July 19th - 12:30 PM - 1:30 PM CST, 3:30 PM - 4:30 PM CST 
+  -   July 20th - 10 AM - 11 AM CST, 12:30 PM - 1:30 PM CST, 3:00 PM - 4:00 PM CST 
+  -   July 25th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST 
+  -   July 26th - 12:30 PM - 1:30 PM CST 
+  -   July 27th - 10 AM - 11 AM CST, 3:00 PM - 4:00 PM CST 
+  -   July 28th - 10 AM - 11 AM CST, 2:00 PM - 3:00 PM CST 
+  -   July 29th - 10 AM - 11 AM CST, 2:00 PM - 3:00 PM CST, 3:30 PM - 4:30 PM CST 
+  -   August 1st - 10 AM- 11 AM CST, 3:00 PM - 4:00 PM CST
+
 
 	
 ## Team Roles	
@@ -132,4 +124,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test:	TBD
 - Note-takers:	Perigean & Shane Strassburg
 - Observers:	TBD
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
