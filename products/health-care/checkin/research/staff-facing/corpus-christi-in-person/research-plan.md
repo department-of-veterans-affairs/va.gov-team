@@ -112,13 +112,10 @@ Corpus Christi VA Clinic<br>
 South Enterprize VA Clinic <br>
 Old Brownsville VA Clinic 
 
-### Research Materials
-
-TBD 
 
 ## Timeline 
 
-Tentative date(s) on-site: July 19, 20 and 21 (with travel the day before and after)
+Date(s) on-site: July 19, 20 (with travel the day before and after)
 
 We plan to spend one day at each location listed above and meet with travel clerks on one of the days.
 
