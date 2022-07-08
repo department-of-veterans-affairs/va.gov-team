@@ -17,7 +17,7 @@ body:
     id: cor-name
     attributes:
       label: COR Name
-      description: The name of Contracting Officer's Representative (COR) covering the target principal
+      description: The name of the Contracting Officer's Representative (COR) covering the target principal.
       options:
         - Cecila Lee
         - Courtney Bethea
@@ -49,7 +49,7 @@ body:
     attributes:
       label: Your Name
       description: Please provide the name of the target principal
-      placeholder: e.g. Jane Doe
+      placeholder: Jane Doe
     validations:
       required: true
   - type: input
@@ -57,7 +57,7 @@ body:
     attributes:
       label: Your Email
       description: Please provide the work email for the target principal
-      placeholder: e.g. jane.doe@company.com
+      placeholder: jane.doe@company.com
     validations:
       required: true
   - type: input
@@ -65,7 +65,7 @@ body:
     attributes:
       label: Team, Role, and Company of the target principal
       description: Please provide the name of the team, their role on that team, and the name of the company the target principal works for
-      placeholder: e.g. Platform Security, Backend Engineer, Ad Hoc
+      placeholder: Team Moose, Antler Development, Alces LLC
     validations:
       required: true
   - type: input
