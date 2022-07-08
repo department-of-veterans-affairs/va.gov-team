@@ -116,7 +116,21 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 
 Thank you again and enjoy the rest of your day. 
 
-## Section 5: Beneficiary Travel with Travel Clerks 
+## Section 5: Reporting with Clinic Manager
+
+We are interested to understand more about your reporting interests regarding check-in.
+
+- What check-in stats are of interest to you?
+  - How is that information helpful? What does it let you improve, monitor, or change?
+- Do you eve review Power BI dashboards?
+  - If yes, bring up check-in's dashboard.
+    - What works well about how the information is presented? What doesn’t work so well? 
+    - How easy or difficult is it to use the date range and facility filters? 
+    - Is any of the information difficult to understand? 
+    - What information could be added to make it more valuable? 
+    - What improvements would you like to see? 
+
+## Section 6: Beneficiary Travel with Travel Clerks 
 
 ### Introduction 
 
