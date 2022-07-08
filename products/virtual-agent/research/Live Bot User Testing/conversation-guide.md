@@ -59,7 +59,7 @@ General Questions
 -   Can you confirm if you have a Login.gov, ID.me, DS Logon, or MyHealtheVet account? 
     -   If they do not already have login credentials:
         -  Would you see value in creating login credentials in the future?
-    -   If you chose to, after creating those credentials, what topics would you be hoping to find more personalized information on first? 
+        -   If you chose to, after creating those credentials, what topics would you be hoping to find more personalized information on first? 
 -   Can you tell me which web browser you are currently using?
 -   Lastly, can you tell me which type of device you are on (i.e. phone, tablet, computer)?
 
@@ -112,10 +112,11 @@ Let’s say you have been having login issues and would like to reset your passw
   -   During the session: What other keywords/phrases would you consider typing in to help you complete this task outside of the one provided?
   -   During the session: After you’re asked “Do you have an account?”, what would you expect in the next step of the process?
   -   During the session: After resetting your password what would you expect to do next? 
-  -   Are you familiar with the type of account that you have?
+        -   Would you expect to have to log out after that?
+  -   During the session: Before this exercise, were you aware of the four types of accounts you could have? And if so, did you know the difference between them?
+  -   During the session: If you pressed the wrong button for the type of account, how would you expect to get back to the previous screen?
   -   How would you describe the flow of this process? Is it clear?
   -   After you have reset your password, would you like reminders concerning if your password is about to expire?
-  -   Of the two presented flows, what is your preferred flow and why?
   -   Would you be interested in being able to reset your username through the chatbot also?
 
 ### Things to watch for:
