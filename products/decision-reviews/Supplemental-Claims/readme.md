@@ -41,16 +41,35 @@ Of the three decision review pathways, supplemental claims are the most widely u
 
 **CTO Priority**: Reduce the time it takes for Veterans to find, use, and receive VA services.
 
+## The Problem Space
+
+The current process lacks education about how to use the process for adjudication, confusing timelines, difficult-to-understand legal language, unclear document and evidence requirements, a lack of transparency, and great potential for human error. As a result, many claimants submit errors that cause delays or result in unfavorable outcomes. To circumvent these challenges, claimants work through services offered by accredited representatives (VSOs, VSRs, attorneys, POAs) or caregivers.
+
+- Usability: The content within the form does not support claimants by educating them through the process. The process requires the claimant to understand dependencies, related systems, and implications underpinning each field. Due to this, claimants rely on someone with prior experience to increase the likelihood of success.
+
+- Timelines: Completing the supplemental claim form can span weeks and involves manually gathering multiple data points, including medical records, decision letters, and authorization forms. Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.
+
+- Language barriers: The language and acronyms used in the form require the user to understand dependencies on other VA systems and processes. Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
+
+- Data population: Claimants spend additional time working to provide personal data already available to the VA, such as basic personal information, effective dates, condition codes, and Veteran file information.
+
+- Evidence requirements: The form does not clearly define what constitutes new and relevant evidence. Further, the current process requires the claimant to either manually cross-reference previous and new evidence, or wait until post-submission to find out if they meet the requirement. 
+
+- Task management: The current available services and processes that support supplemental claims are primarily manual and spread responsibility across the claimant, VA services, accredited representatives, and adjudicators. Claimants have no central location to manage tasks related to completing a supplemental claim unless they work through services offered by accredited representatives.
+
+- Transparency: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives must interpret the data.
+
+- Human error: Guidance provided to claimants about submitting contentions is inconsistent. Consequently, adjudicators struggle to match evidence efficiently and accurately. This highly manual process opens the potential for data to be either misinterpreted or edited in a way that results and unfavorable outcomes.
+
 ## Problem Statement(s)
 
-**I am a Claimant who has received an unfavorable decision on my original claim. Since I received a decision on my claim, I've obtained or identified new evidence that I believe is relevant to my case and I'd like the VA to give it another look, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).**
+- **I am a Claimant who has received an unfavorable decision on my original claim. Since I received a decision on my claim, I've obtained or identified new evidence that I believe is relevant to my case and I'd like the VA to give it another look, but there is no way to do that online. Moreover, the paper forms I have to fill out sometimes don't make sense, and ask me to provide personal information that I believe VA should already have. If I make a mistake on these forms (which is easy to do), it could delay a favorable decision by a significant amount of time (or prevent a favorable decision from being made to begin with).**
 
-I am a VA software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed and documented, modern, and powerful API to send and receive data from my applications which are collecting the Claimant's data, so the request can be processed by internal VA systems.
+- I am a VA software engineer building a web application for submitting a Supplemental Claim appeal request. I need a well-designed and documented, modern, and powerful API to send and receive data from my applications which are collecting the Claimant's data, so the request can be processed by internal VA systems.
 
-I own a case management software product that enables my customers to help Veterans submit claims and appeals. I need a well-designed and documented, modern and powerful API so my software can submit supplmental claims forms to VA digitally, and so my customers don't have to print, mail, or fax the forms to VA. This process is frustrating and time-consuming.
+- I own a case management software product that enables my customers to help Veterans submit claims and appeals. I need a well-designed and documented, modern and powerful API so my software can submit supplmental claims forms to VA digitally, and so my customers don't have to print, mail, or fax the forms to VA. This process is frustrating and time-consuming.
 
-I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
-
+- I work at a VSO and spend my time helping Veterans through the complex benefit appeal process. I spend a lot of time helping Veterans fill out paper forms, then faxing them to VA. This process is frustrating as it is time consuming and not always easy to know when the documents have been received by VA.
 
 ## Measuring Success
 
