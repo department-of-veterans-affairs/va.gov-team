@@ -30,8 +30,6 @@ You can get started by using the check-in poster.
 
 ### Things to observe:  
 
-- Did Veterans become aware of mobile check-in without our intercept or did any MSAs/us help to educate them about the process?
-  - How long did the education process take?
 - Did they have any problems understanding the poster? 
 - Did they use the text or QR code method? 
 - Did they have any problems using the QR code? 
@@ -50,6 +48,7 @@ You can get started by using the check-in poster.
 - What step did they end on? 
 - Did they ever think they were checked in before they completed the process?
 - Did the Veteran interact with the MSAs? If so, for what reasons? 
+  - Did they have the educate the Veteran about the process? (Compare this to responses to the later question of "Was this your first time using mobile check-in?)
 - Did the MSAs interact with the Veteran? If so, for what reasons? 
 
 ### Follow up questions: 
