@@ -17,7 +17,7 @@ Last Updated: June 9, 2022
 |Pam Hastings| Research & Design |pamela.hastings@adhocteam.us |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
 |Scott Meyers | FE Engineer| scott.meyers@coforma.io |
-|Sam Cormier | BE Engineer | sam.cormier@coforma.io |
+|Michel McDonald | BE Engineer | michel.mcdonald@adhocteam.us |
 |Rocio de Santiago | BE Engineer | rocio@coforma.io |
 |Josh Kim | A11y lead | josh.kim@adhocteam.us |
 
