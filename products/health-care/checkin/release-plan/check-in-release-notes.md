@@ -12,6 +12,12 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 7/8/2022
+- Veterans will now see a new error message when they attempt to complete pre-check-in for an appointment that has been cancelled. See detailed release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/cancelled-appointment-messaging.md)
+   - [Epic 40418](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40418) 
+- Removed the visual display of the Pre-Check-in expiration date so that Veterans would not be confused by the date and what it means; more detailed messages are already presented to the Veteran when they attempt to use a Pre-Check-in link on the day of or after their appointment
+   - [Ticket 43547](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43547)
+
 ### 7/7/2022
 - Spanish Language Support - New feauture to allow Veterans to view page content translated to Spanish. See detailed release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/spanish-translations.md)
    - [Epic 38257](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38257) 
