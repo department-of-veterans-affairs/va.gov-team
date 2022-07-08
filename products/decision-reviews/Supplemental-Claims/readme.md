@@ -26,9 +26,7 @@ Last Updated: July 8, 2022
 ## Executive Summary
 
 #### Overview
-Since the VA modernized its appeals process via the Appeals Modernization Act (AMA) in 2017, Claimants who disagree with a VA decision dated on or after February 19, 2019 have had 3 decision review options: [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/), [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/), and **Supplemental Claims**.
-
-Supplemental claims allow Claimants to identify or submit new and relevant evidence to the VA so that a reviewer can make a determination whether the new evidence changes the decision. Supplemental claims can be used to:
+As per the Appeals Modernization Act of 2017, Veteran and non-Veteran claimants seeking to correct perceived discrepancies in their benefit awards must submit new and relevant evidence by initiating the supplemental claim process. To do this, they must submit the Supplemental Claim form (VA Form 20-0995). New evidence enables a reviewer to determine if they should change the previous decision. Claimants can use the supplemental claims process in three ways:
 
 - Supplement a claim within 1 year - Use this to add supplemental evidence to a claim decision within 1 year of its effective date. 
 - Re-open a prior claim closed 1+ years ago - Use this to re-open a prior decision that denied service connection, so that you can continue to prosecute the claim. This action will not re-open the prior effective date. 
