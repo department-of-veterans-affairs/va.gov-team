@@ -25,7 +25,7 @@ Last Updated: July 8, 2022
 
 ## Executive Summary
 
-#### Overview
+### Overview
 As per the Appeals Modernization Act of 2017, Veteran and non-Veteran claimants seeking to correct perceived discrepancies in their benefit awards must submit new and relevant evidence by initiating the supplemental claim process. To do this, they must submit the Supplemental Claim form (VA Form 20-0995). New evidence enables a reviewer to determine if they should change the previous decision. Claimants can use the supplemental claims process in three ways:
 
 - Supplement a claim within 1 year - Use this to add supplemental evidence to a claim decision within 1 year of its effective date. 
@@ -34,7 +34,7 @@ As per the Appeals Modernization Act of 2017, Veteran and non-Veteran claimants 
 
 Of the three decision review pathways, supplemental claims are the most widely used. More than 32,000 supplemental claims are filed each month (more than double then number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
-#### Strategic Alignment
+### Strategic Alignment
 **Benefits OKR**: Make the VAs claims experience better than the private sector's
 
 **CTO Priority**: Reduce the time it takes for Veterans to find, use, and receive VA services.
