@@ -2,7 +2,7 @@
 name: My VA Issue Template
 about: For the Authenticated Experience - My VA team
 title: '[practice]initiative: description'
-labels: 'vsa-authenticated-experience'
+labels: 'vsa-authenticated-exp'
 assignees: ''
 
 ---
