@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 07/07/2022
+Date: 07/08/2022
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -83,7 +83,6 @@ Based on participants' feedback and usability issues with the survey as document
 5. **Merging the top tasks from all of the above segments (all participants, different age groups, and VA health care users and non-users) results in a longer list of top tasks** that can be categorized in various ways. 
 
 6. Here are the **least important tasks overall**:
-- Learn about or apply for monthly Veterans pension payments
 - Verify your monthly school enrollment
 - Learn about or order hearing aid batteries
 - Get help with your rent, utility bills, or other housing-related expenses
@@ -125,7 +124,7 @@ Survey participants were asked *What VA-related tasks do you do MOST FREQUENTLY?
 1. MyHealtheVet *[no specific task]* (6)
 1. Check/verify/transfer education benefits (4)
 
-From the above list of 5 frequently done tasks, #4 MyHealtheVet wasn't listed as a task in our survey, but #1-3 were top tasks #1, 2, and 4 across all participants. Education-related tasks were further down in the top tasks.
+From the above list of 5 frequently done tasks, #1-3 above were top tasks #1, 2, and 4 across all participants. #4 MyHealtheVet above wasn't included as a task in our survey but likely involves doing some or all of tasks #1-3. Education-related tasks were further down in the top tasks.
 
 ## 3. For participants who don't use VA health care, top tasks were quite different
 
@@ -208,9 +207,6 @@ These top 25 tasks can be **viewed by benefit category**, as seen below in the o
 
 ![top-tasks-by-benefit-sorted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit-sorted.png)
 
-The top benefit-specific tasks split almost evenly in half between those that enable people to **learn/explore/browse/apply** for benefits *vs.* those that enable **regular/routine management of benefits** that they already use. Within each grouping, tasks are in order of decreasing percentage selected by all participants.
- 
-![top-tasks-by-learn-manage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-learn-manage.png)
 
 ## 6. Least important tasks overall
 
@@ -218,11 +214,14 @@ Below are the *least important* tasks across all survey participants, which were
 
 ![low-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/low-tasks-all-ps.png)
 
-Two of these tasks involve financial help (*Get help with your rent, utility bills, or other housing-related expenses* and *Get help with your VA debt*), so perhaps most of our research participants are not currently facing financial hardship. Other low-importance tasks involve less popular VA benefits (pension, caregiver program), as well as other benefits that apply to fewer people (hearing aids, school enrollment verification--only relevant if you're currently in school).
+The first of these tasks *(Learn about or apply for monthly Veterans pension payments)* turned out to be a duplicate of a top task *(Learn about or file for disability compensation)* and so perhaps wasn't well understood and thus not marked as important. 
+
+Two of these tasks involve financial help (*Get help with your rent, utility bills, or other housing-related expenses* and *Get help with your VA debt*), so perhaps most of our research participants are not currently facing financial hardship. Other low-importance tasks involve less popular VA benefits (e.g., caregiver program), as well as other benefits that apply to fewer people (hearing aids, school enrollment verification--only relevant if you're currently in school). 
+
 
 ## 7. Participants selected an average of 9.5 tasks as important
 
-In the survey question about selecting which tasks are important, we didn't specify how many tasks to select. We had hoped that people would select about 5-10 of them. The average number selected was 9.5, with a range from 1 to 26. The average of 9.5 was interesting because we had originally included the instruction "select up to 10" but removed it. In the chart below, the number of tasks selected shows a normal curve, with the greatest number of people selecting 6-10 tasks.
+In the survey question about selecting which tasks are important, we didn't specify how many tasks to select. We had hoped that people would select about 5-10 of them. The average number selected was 9.5, with a range from 1 to 26. The average of 9.5 was interesting because we had originally included the instruction "select up to 10" but removed it. In the chart below, the number of tasks selected shows a normal curve, with the greatest number of people selecting 6-10 tasks. The mode (most commonly occurring number of tasks) was 7.
 
 ![#tasks-selected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/%23tasks-selected.png)
 
@@ -238,12 +237,14 @@ We also wanted 20% of our participants to be people who *haven't used any VA ben
 1. Some of the benefits usage data in Perigean's recruitment database were outdated because people may have applied for new benefits after filling out the recruitment survey. This was true for one participant interviewed during a moderated session who said he had applied for a home loan Certificate of Eligibility the day before the research session. 
 2. **People who don't use VA benefits generally aren't interested in providing feedback to VA.**
 
-We had only one participant (2%) who had no experience with VA benefits, which is a long way from our original goal of 20%.
+We had only one participant (2%) who had no experience with VA benefits, which is a long way from our original goal of 20%. Some participants had experience with only one or two VA benefits.
 
 ## Other Findings
 
 ### How participants interact with VA
-A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a VA site, and/or call the VA. Somewhat fewer participants (38%) use eBenefits. A small number of people said that they don't contact the VA directly (7%) or don't interact with VA at all (6%).  
+A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a VA site, and/or call the VA. Digital interactions (MyHealtheVet and VA.gov) are slightly higher than person-to-person interactions (at a VA site or over the phone). Somewhat fewer participants (38%) use eBenefits, which is going away. A small number of people said that they don't contact the VA directly (7%) or don't interact with VA at all (6%).  
+
+Note that the percentages add up to more than 100% because many people interact with VA in more than way.
 
 ![interact-VA-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-chart.png)
 
@@ -292,11 +293,17 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 2. Since the unauthenticated VA.gov home page serves users of all ages and experience levels with VA (including with and without VA health care), **we'd like the home page to support all 25 top tasks**. Usability testing of the redesigned home page will provide valuable input to see whether all top tasks--including both learn/apply and manage benefits tasks--are easy to do from the home page.
 
+3. Since all of the top health care tasks are so important to anyone using VA health care and irrelevant to those who are not, consider grouping them together into one navigation item (i.e., "**manage your health care**") instead of listing them separately:
+- Schedule or manage health appointments
+- Message your doctor or get a health care message
+- Check your lab or test results
+- Refill or track a prescription
+
 # Next Steps
 
 - Present results to Sitewide Public Websites, Health Apartment, Authenticated Experience, and any other interested teams.
 - Use a variety of top tasks from this research as tasks for usability testing the home page redesign.
-- We are not yet deciding which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common tasks, Search, Benefit hubs), and what works well and not so well.
+- We are not yet deciding which top tasks and how many should be included in the "Common tasks" area of the home page redesign. We expect usability testing of the home page redesign and other discovery efforts (e.g., analytics) to inform decision-making. From the usability research, we'll learn what parts of the home page people use to accomplish tasks (e.g., Common tasks, Search, Benefit hubs), and what works well and not so well.
 - For tasks that prove difficult to do from usability testing, consider design changes to the redesigned home page to make them easier, and then do another round of usability testing.
 
 # Appendix
@@ -332,6 +339,8 @@ Audience segments:
 * Caregivers: 8 (15%)
 * Service member:  3 (6%)
 * Survivor: 1 (2%)
+
+Note that the percentages add up to more than 100% because many people have more than one role (e.g., a Veteran who's also a family member of another Veteran).
 
 ![participant-roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/participant-roles.png)
 
