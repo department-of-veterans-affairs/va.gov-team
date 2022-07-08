@@ -41,7 +41,7 @@ body:
         - Magnum Opus - Paula G. Mendoza
         - Liberty IT -  Michael G. Lovejoy
         - Accenture Federal Services - Alexa Elliot
-        - Other - please specify in comment after filing if known
+        - Other - please specify in 'Additional Notes'
     validations:
       required: true
   - type: input
@@ -84,8 +84,8 @@ body:
     id: aws-access
     attributes:
       label: Desired AWS Access
-      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) would you like to access and why you need this access. Also list what type of access will you need (read, read-write, etc.). If there is a teammate whose permissions should be copied, please list their name.
-      placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket because <reason>.
+      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) and which type of access is requested. Explicitly list which type(s) of access are needed for which resources and keep these scopes as small/tight as possible. If there is a teammate whose permissions should be copied, please list their name.
+      placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
   - type: input
     id: expiration-date
     attributes:
@@ -94,6 +94,12 @@ body:
       placeholder: timestamp
     validations:
       required: true
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Use this section to add notes, such as justification for the access request, COR information when 'Other' was selected, etc.
+      placeholder: I need this access because of <reason>
   - type: markdown
     attributes:
       value: |
