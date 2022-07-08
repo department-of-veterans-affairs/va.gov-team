@@ -2,7 +2,8 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-We released an unauthenticated chatbot in February 2022 with the aim of acting as a way to provide veterans with access to information. We followed this with an authenticated version in April 2022 with the focus being on personalization and features to access private information such as progressing compensation claims. This personalization included the ability of users to sign in with credentials, an updated end to conversation flow, and a feature that enables encryption of sensitive information to name a few. Lastly, the Chatbot was launched in beta in March 2022 to 25% traffic and recently released to 50% availability in May 2022 so it is fairly new to Veterans. 
+We released an unauthenticated chatbot in February 2022 with the aim of acting as a way to provide veterans with access to information. We followed this with an authenticated version in April 2022 with the focus being on personalization and features to access private information such as progressing compensation claims. This personalization included the ability of users to sign in with credentials, an updated end to conversation flow, and a feature that enables encryption of sensitive information to name a few. Lastly, the chatbot was launched in beta in March 2022 to 25% traffic and recently released to 50% availability in May 2022 so it is fairly new to Veterans. 
+
 We need to gather feedback concerning the latest updates in the live version of the chatbot. We also need to gain a sense of priority/interest for the proposed bot features being considered for Phase III.
 
 https://dev.va.gov/contact-us/virtual-agent
@@ -22,7 +23,7 @@ The research will also help decrease these measures:
 
 
 ### Veteran Journey
-The need for assistance and clarity from the VA can happen at any time for a Veteran. With Veterans having only the option of either contacting the VA through either a phone number or VA.gov the Virtual Chatbot fits into the user journey by being one of the first interfaces they can interact with on VA.gov. The Chatbot is also a self service platform furthering the fact that it can be accessed at any time. 
+The need for assistance and clarity from the VA can happen at any time for a Veteran. With Veterans having only the option of either contacting the VA through either a phone number or VA.gov the chatbot fits into the user journey by being one of the first interfaces they can interact with on VA.gov. The chatbot is also a self service platform furthering the fact that it can be accessed at any time. 
 
 ## Research Goals	
 1.  Gain insight on lack of feedback survey completion
@@ -35,7 +36,7 @@ Currently it is hard to gauge the overall experience of users with the chatbot d
 
 Secondly, sign-in issues have been reported throughout various pieces of data and we currently have no user flows programmed within that chatbot to address these pain points. After the completion of this usertest we hope to gain valuable feedback to best account for these pain points.  
 
-Finally, with the recent finalization of the Virtual Agent Chatbot team’s Roadmap we hope this research will serve as a guide to better inform which features to prioritize.
+Finally, with the recent finalization of the chatbot team’s Roadmap we hope this research will serve as a guide to better inform which features to prioritize.
 
 
 ### Research questions
