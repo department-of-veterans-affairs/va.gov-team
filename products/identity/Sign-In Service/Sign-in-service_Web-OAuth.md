@@ -5,7 +5,7 @@
 | Version Number | Author | Revision Date | Description of Change |
 | --- | --- | --- | --- |
 | 0.1 | Trevor Bosaw, John Bramley, Alex Garcia, Joe Niquette | 6/24/2022 | Initial creation |
-| 0.q | John Bramley | 7/01/2022 | Endpoint updates |
+| 0.2 | John Bramley | 7/05/2022 | Updates for mobile vs. web authentication |
 
 ## Description
 
@@ -27,31 +27,31 @@ A Postman collection featuring the routes and variables required for web/cookie-
 ### GET Routes
 ##### Sign in Page 
 - `staging.va.gov/sign-in/?oauth=true`
-##### Authorization URL
+##### [Authorization URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md)
 - `staging-api.va.gov/v0/sign_in/authorize`
 - params: `acr`, `type`, `code_challenge`, `code_challenge_method`, `client_id`
 - optional params: `state`
-##### Introspect URL
+##### [Introspect URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/introspect.md)
 - `staging-api.va.gov/v0/sign_in/introspect`
-- params: `authorization`
-##### Revoke all Sessions URL
+- params: `authentication`
+##### [Revoke all Sessions URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all_sessions.md)
 - `staging-api.va.gov/v0/sign_in/revoke_all_sessions`
-- params: `authorization`
-##### Logout URL
+- params: `authentication`
+##### [Logout URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/logout.md)
 - `staging-api.va.gov/v0/sign_in/logout`
-- params: `authorization`
+- params: `authentication`
 - optional parameters: `anti_csrf_token`
 
 ### POST Routes
-##### Token URL
+##### [Token URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md)
 - `staging-api.va.gov/v0/sign_in/token`
 - params: `grant_type`, `code_verifier`, `code`
 - optional params: `anti_csrf_token`
-##### Refresh URL
+##### [Refresh URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/refresh.md)
 - `staging-api.va.gov/v0/sign_in/refresh`
 - params: `refresh_token`
 - optional params: `anti_csrf_token`
-##### Revocation URL
+##### [Revocation URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke.md)
 - `staging-api.va.gov/v0/sign_in/revoke`
 - params: `refresh_token`
 - optional params: `anti_csrf_token`
@@ -60,25 +60,25 @@ A Postman collection featuring the routes and variables required for web/cookie-
 ## Oauth Workflow
 
 1. User lands on [VA.gov](http://va.gov/) wanting to sign in via OAuth
-2. User clicks on the button to sign in with their service provider **<CSP>**
+2. User clicks on the button to sign in with their credential service provider (CSP)
 3. Vets-website calls the vets-api OAuth `/authorize` endpoint with specific query parameters outlined in the Parameters Table below
-4. Vets-api redirects to **<CSP>** website for user to enter credentials
-5. **<CSP>** calls Sign-in-Service (SiS) API endpoint `/callback` to create an auth code
+4. Vets-api redirects to CSP website for user to enter credentials
+5. CSP calls Sign-in-Service (SiS) API endpoint `/callback` to create an auth code
 6. SiS API redirects user to `[environment]/auth/login/callback` with a `code` query parameter and `state` that is verified client side
-7. Vets-website makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token Cookies
+7. Vets-website makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token + Info Token Cookies
 
 | Cookie Name | Description |
 | --- | --- |
 | vagov_access_token | Access token used to access authenticated pages on va.gov, contains no user information |
 | vagov_refresh_token | May contain user information, used to obtain new tokens |
-| vagov_anti_csrf_token | Anti CSRF to prevent CSRF |
+| vagov_anti_csrf_token | Optional, currently disabled feature to preven cross-site request forgery |
 | vagov_info_token | Token used by the frontend to determine timeout counters |
     
 8. Vets-api stores Access Token + Refresh Token + Anti-CSRF Token in cookies
-9. Vets-website uses Access Token in Authorization header to hit the `/introspect` endpoint
-    - request: `Authorization: Bearer <accessTokenHash>`
-    - response: `"data": { example_user_data }`
-10. Use the Refresh token to get an new Access Token + Refresh Token (when Access token reaches expiry) by hitting the `/refresh` endpoint. New token cookies will be stored in the browser with a successful response.
+9. Vets-website uses Access Token cookie to hit the `/introspect` endpoint and other authentication-protected routes:
+    - request: `vagov_access_token=<accessTokenHash>`
+    - response: `"data": { user_data }`
+10. Vets-website uses the Refresh token to get an new Access Token + Refresh Token (when Access token reaches expiry) by hitting the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
     
 
 ## Parameters
@@ -87,7 +87,7 @@ A Postman collection featuring the routes and variables required for web/cookie-
 | --- | --- | --- | --- |
 | access_token | Value returned by /token endpoint | String | [See Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) |
 | acr | The level of user authentication asked for. Web logins require IAL2/LoA3, no IAL1/LoA1 users will be returned | String | `ial2`, `loa3`, `min` |
-| authorization | Bearer authorization passing a valid vets-api access_token | String | `Authorization: Bearer {{encoded_access_token}}` |
+| authentication | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access_token | String | `Authorization: Bearer {{encoded_access_token}}` |
 | client_id | Determines cookie-based (web) or API-based (mobile) authentication | String | `web`, `mobile` |
 | code_challenge | Value created by vets-api and passed in param to login modal | Base64url | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | code_challenge_method | Client specified, most common value is S256 | String | `S256` |
@@ -124,16 +124,19 @@ A Postman collection featuring the routes and variables required for web/cookie-
 ### Anti CSRF Token
 
 - Typically this must be used for /refresh calls, and must match the anti_csrf_token given in the latest /token endpoint call, or latest /refresh call
-- Currently this is disabled, this can be safely ignored
+- Currently this is disabled, and can be safely ignored
 
 ### Code Verifier / Code Challenge
 
 - Code verifier is a random string value
-    - `code_verifier = '5787d673fb784c90f0e309883241803d'`
+  - `code_verifier = '5787d673fb784c90f0e309883241803d'`
 - Code challenge is a hashed urlsafe_encoded value from code_verifier:
-    - `url_unsafe_code_challenge = Digest::SHA256.digest(code_verifier)`
-    - `code_challenge = Base64.urlsafe_encode64(url_unsafe_code_challenge)`
-        - `=> "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="`
+  ```ruby
+  code_verifier = '5787d673fb784c90f0e309883241803d'
+  url_unsafe_code_challenge = Digest::SHA256.digest(code_verifier)
+  code_challenge = Base64.urlsafe_encode64(url_unsafe_code_challenge)
+  => "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="
+  ```
     
 ### Logout Endpoint
 

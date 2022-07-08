@@ -1,25 +1,28 @@
 # Introspect
 
 ### Description
-Used to get user data from the `/introspect` endpoint
+Used to get user data from the `/introspect` endpoint. This is an authenticated route: an Access Token must be passed, either through Bearer Authentication for mobile/API or a cookie for web/cookie authentication.
 
 ### Token endpoint
 
 ```
-Staging: https://staging-api.va.gov/sign_in/introspect
-Production: https://api.va.gov/sign_in/introspect
+Staging: https://staging-api.va.gov/v0/sign_in/introspect
+Production: https://api.va.gov/v0/sign_in/introspect
 ```
 
-| Header key | Value |
-| --- | --- |
-| `Authorization` | `Bearer <accessTokenHash>` *requires an accessToken |
+| Client ID | Header key | Value |
+| --- | --- | --- |
+| mobile | `Authorization` | `Bearer <accessTokenHash>` |
+| web | `vagov_access_token` | `<accessTokenHash>` |
+
+
 
 *Sample request*
 
 ```
 // Receives accessToken from storage
 
-staging-api.va.gov/sign_in/introspect
+staging-api.va.gov/v0/sign_in/introspect
 Headers: ...
   Authorization: Bearer eyJWT...
 ```
