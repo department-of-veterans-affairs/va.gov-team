@@ -242,7 +242,7 @@ We had only one participant (2%) who had no experience with VA benefits, which i
 ## Other Findings
 
 ### How participants interact with VA
-A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a VA site, and/or call the VA. Digital interactions (MyHealtheVet and VA.gov) are slightly higher than person-to-person interactions (at a VA site or over the phone). Somewhat fewer participants (38%) use eBenefits, which is going away. A small number of people said that they don't contact the VA directly (7%) or don't interact with VA at all (6%).  
+**A majority (about 60%) of survey participants use MyHealtheVet, VA.gov, visit a VA site, and/or call the VA**. Digital interactions (MyHealtheVet and VA.gov) are slightly higher than person-to-person interactions (at a VA site or over the phone). Somewhat fewer participants (38%) use eBenefits, which is going away. A small number of people said that they don't contact the VA directly (7%) or don't interact with VA at all (6%).  
 
 Note that the percentages add up to more than 100% because many people interact with VA in more than way.
 
