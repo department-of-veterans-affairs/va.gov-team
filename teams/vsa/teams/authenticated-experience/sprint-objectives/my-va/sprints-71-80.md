@@ -429,15 +429,16 @@ Our main objective this sprint is to make sure the feature is working. If it is,
 
 **PM**
 
-- Oversee end-to-end testing (if the call happens)
-
-Once we are sure the feature is working...
-
-- QA go/no-go; QA
+- Oversee end-to-end testing (July 22)
+- Oversee QA (if QA is able to happen)
 - Release plan
 - Call center guide updates (can use My VA guide) 
 - Make sure we know where we are tracking analytics for this
   - Do metrics need to get added to our [existing dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)? 
+
+**QA**
+
+- Conduct QA (if possible; if not, we will move to next sprint)
 
 ### My VA: Cerner updates
 
