@@ -28,7 +28,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Kiera and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Virtual Live Agent Chatbot. 
+Thanks for joining us today! My name is Kiera and I also have some colleagues on the line observing and taking notes. Today we're going to talk about chatbot. 
 
 Before we start, a few things I want to mention:
 
@@ -63,13 +63,13 @@ General Questions
 -   Can you tell me which web browser you are currently using?
 -   Lastly, can you tell me which type of device you are on (i.e. phone, tablet, computer)?
 
-Today I will be asking you to go through a series of tasks using the Virtual Agent Chatbot. Would you be comfortable with sharing your screen so that I can follow along as you do some of the activities?
+Today I will be asking you to go through a series of tasks using the chatbot. Would you be comfortable with sharing your screen so that I can follow along as you do some of the activities?
 
 ## First Task: Engaging the Feedback Survey - 5-10 minutes
-For the next portion of our session, we’re going to complete a task using the Virtual Agent chatbot. Please open a web browser of your choice and follow the link provided.
+For the next portion of our session, we’re going to complete a task using the chatbot. Please open a web browser of your choice and follow the link provided.
 
-### Experience with the Virtual Chatbot
--   How familiar are you with the Virtual Chatbot on VA.gov? 
+### Experience with the chatbot
+-   How familiar are you with the chatbot on VA.gov? 
     -  If familiar: 
         - What are some topics that have you asked the chatbot to assist you with in the past?
         - How often have you used the virtual chatbot while visiting VA.gov?
@@ -77,7 +77,7 @@ For the next portion of our session, we’re going to complete a task using the 
         - What kind of topics and information are you hoping the chatbot can provide you with most?
 
 ### Completing the feedback form
-Let’s say I asked you to use the Virtual Chatbot to see if you qualify for dental care. Walk me through what you would do to complete this task.
+Let’s say I asked you to use the chatbot to see if you qualify for dental care. Walk me through what you would do to complete this task.
 
 ### Feedback on completing the feedback form
   -   Once the bot asks you if that answers your question what do you expect to happen after this point?
