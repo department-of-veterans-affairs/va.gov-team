@@ -89,7 +89,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Attend QA orientation session ([schedule via Calendly](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform))
 
 ### Off-boarding of teammates
-- [ ] Review [process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
+- [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
 
 
 ## Platform Checklist
