@@ -1,6 +1,6 @@
 # Product Outline: Supplemental Claims
 
-Last Updated: June 9, 2022
+Last Updated: July 8, 2022
 
 ### Team Communications
 
