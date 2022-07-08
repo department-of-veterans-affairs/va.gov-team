@@ -481,7 +481,7 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 ### Priorities
 
 - **Personal info**: Submit for 508 review
-- **Military info**: Launch
+- **Military info**: UAT and start launch (pending VA Profile being ready)
 - **Bad address indicator**: Research summary and design updates
 - **Documentation**: Contact info and Military info
 - **Forms system updates**: Discovery and scoping
@@ -495,17 +495,15 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 ### Military info updates
 
-We should be good to launch this, assuming analytics are good to go and UAT doesn't yield any issues.
-
 **PM**
 
-- Coordinate launch
+- Coordinate UAT
+  - We can only start UAT *after* VA Profile has completed the ICD and updated access permissions, so please wait for me to get the all-clear from them before proceeding. 
 
 **BE - Tom**
 
 - Launch to 25%
-- Launch to 50%
-- Launch to 100%
+- Launch to 50%, if time
 
 ### Bad address indicator
 
@@ -556,6 +554,13 @@ We should be good to launch this, assuming analytics are good to go and UAT does
 ### PTO
 
 - Samara: Aug 1 - 5
+
+### Military information
+
+**BE**
+
+- Launch to 50% if it didn't already happen
+- Launch to 100%, but not while Samara is on PTO
 
 ## Sprint 80 (8/10 - 8/23)
 
