@@ -172,7 +172,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 25  | Three, Patient | Paras |
 | 229 | Four, Patient | Andy |
 | 231 | Five, Patient | Justin |
-| 418 | Six, Patient | Chris Walker (508 Office) |
+| 418 | Six, Patient | Chris Wilmsen |
 | 253 | Seven, Patient | Carl |
 | 3   | Eight, Patient | Stephen |
 | 8   | Ten, Patient | QA Team |
