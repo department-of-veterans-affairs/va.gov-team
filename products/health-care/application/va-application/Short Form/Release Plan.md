@@ -15,30 +15,35 @@
 - Number of users: 10
 - Number of bugs identified / fixed: 0
 - UX/Content changes required, based on feedback, logs, or challenges
-  -  None
+  -  [Replace the self-report first alert (you are on step 3 of 4) with the green expandable alert that is on all following pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43434)
+  -  [Blue confirm page to be updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43435)
+  -  [Authenticated immediate alert- updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43438)
+  -  [Remove the text on the authenticated immediate alert page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43440)
+  -  [Check short form specific pages on mobile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43443)
 
 
 ## Phase 2: Staged Rollout
 
 ### Planning
-- Launch Go / No Go: 06/27/2022
-- Desired date range: 06/28/2022 - 08/31/2022
+- Launch Go / No Go: 07/11/2022
+- Desired date range: 7/11/2022 - 7/29/2022
 - Success criteria to be reviewed prior to advancing rollout to the next stage
   - Completion rate of short form
   - Minimal to no increase in drop off rate in short form sections
 - Dashboards showing success criteria metrics
-  - TBD (Will we have a separate dashboard in Domo?)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - 
 
 ### Phased Rollout
-- 25% of users (~1 month): 06/28/2022
-- 50% of users (~1 month): 08/01/2022
-- 100% of users: 09/01/2022
+- 10% of users (1 week): 07/11/2022
+- 50% of users (1 week): 07/18/2022
+- 100% of users: 07/25/2022
 
 
 ## Go Live!
 
 ### Planning
-- Desired date: 06/28/2022
+- Desired date: 07/11/2022
 - Actual date: TBD
 
 **Key Result:** Increase number of application submissions
