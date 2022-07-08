@@ -8,7 +8,6 @@
 | Research| [August Research Study (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)| Prepping|| 3| 2| 2||
 | Research| [Beneficiary Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)| Discovery| 5| 4| 4|||
 | Research| [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)|| 1| 4||||
-| Development | [Canceled Appointment Messaging](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40418)| In Progress **Release 7/12?**||| 4| 1| |
 | Development| [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)| In Progress **Release 7/26?**|| 2| 2| 31||
 | Development| [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)| In Progress **Release 7/26?**|| 1| 2| 10||
 | Development| [CIE Performance Testing](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39600)| In Progress||| 1| 9| Finishing vista-api testing |
