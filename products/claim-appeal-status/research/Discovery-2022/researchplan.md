@@ -1,5 +1,9 @@
 # Research Plan for Claim Status Tool
 
+Skyler Schain · Designer/Researcher
+
+July 2022
+
 ## Background
 The Claim Status Tool (CST) is meant to provide vets with a comprehensive understanding of the status of their claims and appeals. Benefits Team 1 is working to improve the level of detail and information available in the tool. Past research has shown that CST does not provide enough meaningful information about the status of claims in progress.
 As a veteran applying for disability benefits or filing various forms of disagreements/appeals for past decisions, it is often difficult to know the status of my claim and to identify action items I could take to accelerate the VA’s decision-making process, so that I can receive the benefits I earned, including compensation that will help me meet my basic needs.
