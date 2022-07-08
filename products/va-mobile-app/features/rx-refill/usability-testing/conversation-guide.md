@@ -1,6 +1,6 @@
 # Conversation Guide for 2022 VA Mobile App Rx Refill/Pharmacy Usability Test
 
-[Figma prototype](https://www.figma.com/proto/ftl8JoMu8OrGw1I8wiLCn6/Rx-Refills-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-179%2C620%2C0.34&scaling=min-zoom&starting-point-node-id=1226%3A18714](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714))
+[Figma prototype](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714)
 
 ## Moderator Logistics
 
@@ -21,7 +21,7 @@
    * [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
    * [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 2. A link to the prototype
-   * [Figma prototype](https://www.figma.com/proto/ftl8JoMu8OrGw1I8wiLCn6/Rx-Refills-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-179%2C620%2C0.34&scaling=min-zoom&starting-point-node-id=1226%3A18714](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714))
+   * [Figma prototype](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714)
 
 ## Research Goals
 
@@ -86,7 +86,7 @@ Thank you for sharing that. It helps me understand your experience across a rang
 
 Thank you for sharing that. Now, we're going to take a look at a few things in a prototype that we’re developing for the VA Mobile App. If you have the prototype link handy, feel free to pull that up now and share your screen. I'm also sending the link in the Zoom chat now.
 
-[Figma prototype](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714))
+[Figma prototype](https://www.figma.com/proto/0jczVP6AhE4Xvq2LFztizr/Rx-Refill-Wireframes?page-id=1226%3A18701&node-id=1226%3A18714&viewport=-597%2C141%2C0.6&scaling=scale-down&starting-point-node-id=1226%3A18714)
 
 Before we select anything or navigate anywhere else I’d like to pause on this screen and have you look around and speak to what you’re seeing and thinking. Feel free to scroll up and down, but just remain on this screen
 
