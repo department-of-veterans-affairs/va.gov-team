@@ -42,6 +42,8 @@ Before we start, a few things I want to mention:
 
 - How has mobile check-in been working? 
 - How often do you engage with Veterans about check-in? Why? 
+  - How much time do you spend educating them about the process?
+    - Is their a difference between first-time and returning mobile check-in users?
 - How has mobile check-in impacted your work? 
 - How has mobile check-in impacted your work within VSE? 
 - How often do you review the check-in statuses for a patient? 
