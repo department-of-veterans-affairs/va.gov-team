@@ -45,21 +45,21 @@ Of the three decision review pathways, supplemental claims are the most widely u
 
 The current process lacks education about how to use the process for adjudication, confusing timelines, difficult-to-understand legal language, unclear document and evidence requirements, a lack of transparency, and great potential for human error. As a result, many claimants submit errors that cause delays or result in unfavorable outcomes. To circumvent these challenges, claimants work through services offered by accredited representatives (VSOs, VSRs, attorneys, POAs) or caregivers.
 
-- Usability: The content within the form does not support claimants by educating them through the process. The process requires the claimant to understand dependencies, related systems, and implications underpinning each field. Due to this, claimants rely on someone with prior experience to increase the likelihood of success.
+- **Usability**: The content within the form does not support claimants by educating them through the process. The process requires the claimant to understand dependencies, related systems, and implications underpinning each field. Due to this, claimants rely on someone with prior experience to increase the likelihood of success.
 
-- Timelines: Completing the supplemental claim form can span weeks and involves manually gathering multiple data points, including medical records, decision letters, and authorization forms. Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.
+- **Timelines**: Completing the supplemental claim form can span weeks and involves manually gathering multiple data points, including medical records, decision letters, and authorization forms. Various fields and checkboxes open the potential for actions that can negatively affect the timeline and the decision.
 
-- Language barriers: The language and acronyms used in the form require the user to understand dependencies on other VA systems and processes. Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
+- **Content**: The language and acronyms used in the form require the user to understand dependencies on other VA systems and processes. Without this background knowledge, claimants may take actions that have unclear consequences for the claim.
 
-- Data population: Claimants spend additional time working to provide personal data already available to the VA, such as basic personal information, effective dates, condition codes, and Veteran file information.
+- **Data population**: Claimants spend additional time working to provide personal data already available to the VA, such as basic personal information, effective dates, condition codes, and Veteran file information.
 
-- Evidence requirements: The form does not clearly define what constitutes new and relevant evidence. Further, the current process requires the claimant to either manually cross-reference previous and new evidence, or wait until post-submission to find out if they meet the requirement. 
+- **Evidence requirements**: The form does not clearly define what constitutes new and relevant evidence. Further, the current process requires the claimant to either manually cross-reference previous and new evidence, or wait until post-submission to find out if they meet the requirement. 
 
-- Task management: The current available services and processes that support supplemental claims are primarily manual and spread responsibility across the claimant, VA services, accredited representatives, and adjudicators. Claimants have no central location to manage tasks related to completing a supplemental claim unless they work through services offered by accredited representatives.
+- **Task management**: The current available services and processes that support supplemental claims are primarily manual and spread responsibility across the claimant, VA services, accredited representatives, and adjudicators. Claimants have no central location to manage tasks related to completing a supplemental claim unless they work through services offered by accredited representatives.
 
-- Transparency: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives must interpret the data.
+- **Transparency**: Claimants do not have visibility into the claim status once it enters the adjudication process. They rely on accredited representatives for status updates. The data that representatives see wasn't intended for this, so representatives must interpret the data.
 
-- Human error: Guidance provided to claimants about submitting contentions is inconsistent. Consequently, adjudicators struggle to match evidence efficiently and accurately. This highly manual process opens the potential for data to be either misinterpreted or edited in a way that results and unfavorable outcomes.
+- **Human error**: Guidance provided to claimants about submitting contentions is inconsistent. Consequently, adjudicators struggle to match evidence efficiently and accurately. This highly manual process opens the potential for data to be either misinterpreted or edited in a way that results and unfavorable outcomes.
 
 ## Problem Statement(s)
 
