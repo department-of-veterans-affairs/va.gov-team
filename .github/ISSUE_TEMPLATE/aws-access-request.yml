@@ -90,7 +90,7 @@ body:
     id: expiration-date
     attributes:
       label: Access Expiration
-      description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access. If ongoing is selected, add a comment to this request after filing to justify the ongoing access.
+      description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access. If ongoing is selected, add a justification for this to the 'Additional Notes' field.
       placeholder: timestamp
     validations:
       required: true
