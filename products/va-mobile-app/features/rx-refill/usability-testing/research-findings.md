@@ -144,7 +144,7 @@ We interviewed 10 Veterans in a remote moderated usability study using a low fid
 * Participants understood what the prescription history screen would show but had different ideas on what information should be presented 
     * 1 participant wanted to see date last filled, 2 participants mentioned wanting to see the instructions, 1 participant mentioned not finding the RX number useful
 * 9/10 participants were able to easily filter the prescription history screen without prompting or guidance
-   > "Very simple to do [filter]…It's intuitive... I'm an intuitive guy!" (P14)_
+   > "Very simple to do [filter]…It's intuitive... I'm an intuitive guy!" (P14)
 * 3/10 participants wanted to see a version history (if and when a dosage changed)
    > I would want to see the history of that one certain medication. Every time I was prescribed the medication. I want the entire history. If I could see the details for every bottle I have…To see if dosage was changed. The dates my medication was changed on to keep my providers updated with that information.” (P1)
 * Participants reacted positively to the prescription details screen and the information presented
