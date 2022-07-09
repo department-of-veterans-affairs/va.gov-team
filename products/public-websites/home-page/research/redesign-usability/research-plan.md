@@ -38,9 +38,11 @@ This research will inform iterations to the home page redesign, the need for fut
     8. VAntage Point blog promo (below search and common tasks)
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
-1. Is there anything that participants find unclear or confusing on the home page? 
+1. Is there a difference between which parts of the page are used for browsing/learning *vs.* managing tasks?
+    1. Are the benefit hubs used? Only for browsing/learning?
+3. Is there anything that participants find unclear or confusing on the home page? 
     1. Other search tools?
-3. What are participants' expectations of the VAntage Point blog promo content?
+4. What are participants' expectations of the VAntage Point blog promo content?
     1. What content would be helpful to be there?
     2. How often should the content be refreshed?
 
@@ -106,7 +108,7 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 
 ### Additional questions to ask in the screener
 1. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
-    1. None *(recruit 2)*
+    1. None *(recruit 2 if possible)*
     1. One or more NOT INCLUDING Health Care *(recruit 6)*
     1. One or more INCLUDING Health Care *(recruit 4)*
     
@@ -124,11 +126,11 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **TBD** with TBD
-- * Pilot #2: **TBD** with TBD
+- * Pilot #1: **July 27/28/29** with TBD
+- * Pilot #2: **July 27/28/29** with TBD
 
 ### Research sessions
-* Planned dates of research: **July TBD**
+* Planned dates of research: **August 1-5**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -138,11 +140,11 @@ Ask Perigean to recruit **20 Veterans, Veterans' caregivers, Veterans' family me
 
 Team Availability | Time (ET)
 ------------------|--------------
-July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
-July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
-July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
-July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
-July TBD, 2022 | Noon - 3 pm, 4 - 8 pm
+August 1, 2022 | Noon - 3 pm, 4 - 8 pm
+August 2, 2022 | Noon - 3 pm, 4 - 8 pm
+August 3, 2022 | Noon - 3 pm, 4 - 8 pm
+August 4, 2022 | Noon - 3 pm, 4 - 8 pm
+August 5, 2022 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
