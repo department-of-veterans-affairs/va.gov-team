@@ -90,10 +90,10 @@ Let’s start with a few questions...
 
 - Are you currently involved with the VA? If so, how? 
 
-- What VA benefits have you used before?
+- What VA benefits do you have experience with?
   - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-- What VA benefits that you haven't used before but that you're interested in exploring?
+- What VA benefits that you don't have experience with but that you're interested in exploring?
   - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
 ## Screen sharing
