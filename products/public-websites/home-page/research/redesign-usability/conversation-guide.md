@@ -18,9 +18,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page: **https://staging.va.gov/homepage-test/** 
-- *Have link in Slack ready to paste into Zoom chat*
--  
+- *Open a standalone browser window to web page: **bit.ly/3Ix90HN (https://staging.va.gov/homepage-test/)** 
+- *Paste link into Slack so ready to paste into Zoom chat*
+
 - *Do Not Disturb ON so no notifications*
 
 - *Make sure everyone is muted except me and the participant*
@@ -42,7 +42,7 @@ There are a few of my teammates who would like to watch this session. **Would it
 
 *(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
-Today we're going to talk about what kinds of activities--if any--that you do with the VA.
+Today we're going to talk about some things that you might do with the VA.
 
 Before we start, I want to go over a few things:
 
@@ -62,7 +62,7 @@ Before we start, I want to go over a few things:
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or "Share URL" (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
@@ -88,20 +88,28 @@ Let’s start with a few questions...
   - How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
   - How long have you been using a screen reader?
 
-- Are you currently involved with the VA? If so, how? 
-
-- What VA benefits do you have experience with?
+- What VA benefits, if any, do you have experience with?
   - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-- What VA benefits that you don't have experience with but that you're interested in exploring?
+- What VA benefits that you *don't* have experience with might you be interested in exploring?
   - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-## Screen sharing
-I have a survey that I'd like you to do while sharing your screen with me over Zoom.
+- Where do you typically go to get information and benefits from the VA?
+  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
-While you're doing this survey, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
+- Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3MswsXQ**  
+## Tasks
+Now I'm going to ask you to do a number of things that you may or may not have done before. For each task, I will stop you at a point when I feel like we've done enough, and I won't ask you to sign in.
+
+I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+
+### Screen sharing
+I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
+
+While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
+
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3Ix90HN**  
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
@@ -109,26 +117,68 @@ Do you see the link?
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-## Do the survey
+### Task 1: [Find a VA location] - 4 minutes
 
-I'd like you to do this survey and talk with me about it as you do it. I especially want to hear about anything that seems confusing or unclear to you. For code, enter P#.
+- I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
 
-- *RECORD survey start time: ______________*
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
 
-- *(If participant is on a phone and Zoom is in the way of the survey:)* You can drag the Zoom camera box off the screen to the side.
+### Task 1: [IF HAVE VA HEALTHCARE: Message doctor] - 4 minutes
 
-- *RECORD all feedback on survey--everything the participant says about the instructions or questions, but NOT their survey responses because those will be automatically saved online*
+- Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+       
+   
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
 
+
+### Task 7: [Get benefit letter] - 4 minutes 
+
+- Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+### Task 8: [Get medical records] - 4 minutes
+
+- You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+### Task 9: [Update dependents] - 4 minutes
+
+- Say that you just got married. How would you tell the VA about your new spouse (because it might increase your disability compensation)?
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
   
 ## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-I'm interested in hearing your thoughts on the survey you just did.
-- What did you *like* about the survey?
-- What did you *dislike* about the survey?
-- What would you like to *change* about the survey?
-- Was there anything that you found to be *difficult or confusing*? 
-- Do you have any other feedback for if you were doing the survey by yourself (without having me here in this session)?
+- What worked *well* for you?
+- What was *unclear or didn't work well* for you?
+- What would you like to *change*?
+- I'd like to ask you about a specific part of the first page that you looked at: the dark blue section on Veteran homelessness. 
+  - What are your thoughts on what you see here in this section of the page?   
+  - What kind of information would be helpful to show here?
+  - How often should the information be changed?
+- Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
+
 - Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
