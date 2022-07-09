@@ -68,11 +68,10 @@ In this research, we are primarily interested in the following areas of the home
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
 wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign.
 
-*ACTION ITEM: Top tasks identified from the Veteran Top Tasks Unmoderated Survey should be incorporated into the home page redesign in the "common tasks" section.*
 
 ### Research materials
-- [Link to conversation guide](url goes here)
-- [Link to prototype on Staging server](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/conversation-guide.md)
+- [Link to prototype on Staging server](https://staging.va.gov/homepage-test/)
 
 	
 ## Recruitment	
