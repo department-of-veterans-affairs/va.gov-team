@@ -47,6 +47,7 @@
 - Actual date: TBD
 
 **Key Result:** Increase number of application submissions
+*Use last 6 months to calculate Baselines*
 | KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
 | Avg. Submissions per Month | TBD | TBD | TBD |
