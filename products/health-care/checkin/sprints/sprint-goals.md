@@ -11,7 +11,7 @@
 #### R&D Sprint Goals
 - Beneficiary Travel - MVP    
     - Decide on Metrics to Measure Success (Analytics)
-    - Create wireframes for MVP
+    - Create wireframes for MVP prototype
 - July Research
     - Conduct study    
 - August Research (REMOTE)
