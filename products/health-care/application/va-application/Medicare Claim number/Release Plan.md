@@ -5,7 +5,7 @@
 ### Planning
 - UAT Go/No Go: No UAT Planned, this is an addition of a single Yes/No question.
 - Link to [Readiness Checklist]()
-- Desired date range or test duration: 07/18/2022 - 07/22/2022
+- Desired date range or test duration: N/A
 - Desired number of users: N/A
 - Recruitment method: N/A
 - How testing will be conducted: N/A
