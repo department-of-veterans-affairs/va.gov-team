@@ -18,7 +18,7 @@ How might we rebuild this application so that we clearly define the Veteran use 
 - *As a Veteran I need to be able to find the income threshold for my locality so that I can understand whether or not my financial threshold contributes to or detracts from my eligibility for VA benefits.*
 - *As a Veteran I need to be able to model changes in my life circumstances to see if such changes may impact my eligibility for VA benefits.*
 - *As a Veteran who determines that they are eligible based on income/location/dependents I need to know what next steps I may need to take to determine additional eligibility criteria.*
-- - *As a Veteran who determines that they are eligible based on income/location/dependents I need to know what next steps I may need to take to apply for a VA benefit or service.*
+- *As a Veteran who determines that they are eligible based on income/location/dependents I need to know what next steps I may need to take to apply for a VA benefit or service.*
 - *As a Veteran who determines that they may be ineligible based on income/location/dependents I need to know what, if any, next steps I may need to take to determine additional eligibility criteria*
 - *As a Veteran who determines that they may be ineligible based on income/location/dependents I need to know what, if any, next steps I may be able to take to protest the ineligibility criteria*
 
