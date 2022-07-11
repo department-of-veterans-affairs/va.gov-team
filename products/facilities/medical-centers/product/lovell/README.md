@@ -8,4 +8,5 @@
 ## Facilities Team v.1 (Old documentation)
 - [Research & design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md)
 - [Original epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+-- Open issue about [taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38431)
 
