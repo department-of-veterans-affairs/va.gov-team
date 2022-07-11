@@ -1,4 +1,4 @@
-# [DRAFT] 10-10 applications team, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
+# 10-10 applications team, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, June 2022
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 06/23/2022
 
