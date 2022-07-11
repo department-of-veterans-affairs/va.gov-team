@@ -6,22 +6,27 @@
 
 ## Overview
 
-Veterans, their caregivers, and their family members need a one-stop application to easily and quickly discover benefits available to them based on the veterans’ income, location, and number of dependents.
+Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
 
 ## Problem Statement
 
-VA.gov currently lacks any easy or quick way to help veterans answer the question: “What benefits are available to me and my family?” Currently, veterans seeking this information must wade through extensive data tables to uncover their eligibility. 
-How might we make this process simple, quick, and easy to find? 
+The [existing Income Limits web application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) is difficult to maintain the data to accurately provide information to Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents. In addition, the current application lacks plain language or clearly defined use cases/usability design and testing to validate that it is intuitively aligned to problems for the Veteran and providing information that is clear and easy to understand.
+
+How might we rebuild this application so that we clearly define the Veteran use cases for this application and modernize the application to better align with how Veterans need to make use of income, location, dependent information as it relates to VA benefit eligibility?
 
  
 ## Desired User Outcomes
 
-- In the case of an eligible Veteran: Quickly move on from “What am I eligible for?” to action (obtaining benefits).
+*I'm not sure these are right* 
+
+- In the case of an eligible Veteran: Quickly move on from “What might I be eligible for?” to action (obtaining benefits).
 - In the case of an ineligible Veteran: Understand what criteria were used to render a negative result, and provide a path to resolve questions.
 - Self-service tool: no need for wait times associated with calling the VA
 
 
 ## Undesired User Outcomes
+
+*I'm not sure these are right* 
 
 - Confusion or frustration with tool itself
 - Feeling that unwelcome news (lack of eligibility) is opaque/unjustified, unfair, or wrongly determined.
@@ -31,7 +36,7 @@ How might we make this process simple, quick, and easy to find?
 ## Desired Business Outcomes
 
 - Increase the use of VA’s self-service tools, and reduce phone calls to the VA.
-- Maintain a single source of truth for income limits instead of the variety of documents currently available in disparate places (some of which are out of date).
+- ~Maintain a single source of truth for income limits instead of the variety of documents currently available in disparate places (some of which are out of date).~
 - Better serve veterans by helping them get faster access to the benefits they are entitled to.
 
 ## Undesired Business Outcomes
