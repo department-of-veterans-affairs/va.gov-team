@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
         :wave: **_Instructions_**
-        1. Before being granted access, the principal for whom access is requested (the 'target principal') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
-        2. Change the **Title** to include target principal
-        3. Add the label used by the target principal's team (eg: `BAH-526`)
+        1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
+        2. Change the **Title** to include target individual
+        3. Add the label used by the target individual's team (eg: `BAH-526`)
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
         6. When the issue is closed you will be notified and can continue with on-boarding setup
@@ -17,7 +17,7 @@ body:
     id: cor-name
     attributes:
       label: COR Name
-      description: The name of the Contracting Officer's Representative (COR) covering the target principal.
+      description: The name of the Contracting Officer's Representative (COR) covering the target individual.
       options:
         - Cecila Lee
         - Courtney Bethea
@@ -32,7 +32,7 @@ body:
     id: vendor
     attributes:
       label: Vendor Onboarding Representative Name
-      description: This is the person from the contracting company responsible for the onboarding process of the target principal.
+      description: This is the person from the contracting company responsible for the onboarding process of the target individual.
       options:
         - Oddball - Amber Malcolm
         - Insignia - Kimberly S. Cole
@@ -48,7 +48,7 @@ body:
     id: requestor-name
     attributes:
       label: Your Name
-      description: Please provide the name of the target principal
+      description: Please provide the name of the target individual
       placeholder: Jane Doe
     validations:
       required: true
@@ -56,28 +56,28 @@ body:
     id: email
     attributes:
       label: Your Email
-      description: Please provide the work email for the target principal
+      description: Please provide the work email for the target individual
       placeholder: jane.doe@company.com
     validations:
       required: true
   - type: input
     id: team-name
     attributes:
-      label: Team, Role, and Company of the target principal
-      description: Please provide the name of the team, their role on that team, and the name of the company the target principal works for
+      label: Team, Role, and Company of the target individual
+      description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
       placeholder: Team Moose, Antler Development, Alces LLC
     validations:
       required: true
   - type: input
     attributes:
       label: Product Manager (PM) name and email
-      description: Provide the name and email of the Product Manager working with the target principal
+      description: Provide the name and email of the Product Manager working with the target individual
     validations:
       required: true
   - type: input
     attributes:
       label: Product Owner (PO) name and email
-      description: Provide the name and email of the Product Owner for the target principal
+      description: Provide the name and email of the Product Owner for the target individual
     validations:
       required: true
   - type: textarea
