@@ -1,81 +1,28 @@
-# Contact information: address validation triggered
+# Contact information: address not recognized as entered
 **Last updated: July 11, 2022**
-If a user changes their address from the VA.gov profile and that address triggers the address validation, they will be presented with the address validation flow.
-There are 8 possibles flows a user can go through.
+
+If a user changes their address from the VA.gov profile and that address isn’t recognized by the U.S. Postal Service (USPS), they’ll be provided with a suggestion or an option to:
+- use the address as entered
+- return to editing
+- cancel the edit
 
 ## UX
+For each scenario, the user is presented with a warning alert component that appears within the address field, above the address they entered. 
 
-### Validation is overrideable and there are suggestions
+We’re aware of accessibility issues with the current implementation, and [proposed improvements back in Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/designs/2021-alert-updates/README.md). These haven’t yet been implemented due to the overlapping [address change messaging modal feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-change-messaging/use-cases), since that could create a user flow where many modals appear back to back.
 
-- "Continue" will take users to the confirmation screen; "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
 
-**Copy**
+### Address can’t be confirmed with USPS, and a suggested address is found.
+- User is presented with suggested and entered address as radio button options
+- They can select one and choose the “Use this address” button to save their changes or
+- They can press cancel, and will be returned to edit mode
+- Desktop mock-up
+- Mobile mock-up
 
-(Design)
+### Address and/or unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
 
-### Validation is overrideable but there are NO suggestions
+### Address is missing a unit number
 
-- "Continue" will take users to the confirmation screen; "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
-
-### Validation is NOT overrideable but there are suggestions
-
-- "Continue" will take users to the confirmation screen; "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
-
-### Validation is NOT overrideable and there are NO suggestions
-
-- "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
-
-### Add a unit number with override
-
-- "Continue" will take users to the confirmation screen; "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
-
-### Add a unit number WITHOUT override
-
-- "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
-
-### Edit a unit number with override
-
-- "Continue" will take users to the confirmation screen; "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
-
-### Edit a unit number WITHOUT override
-
-- "Cancel" or "X" will close the form.
-- "Edit address" will take them back to the Edit form.
-
-**Copy**
-
-(Design)
 
 ## Confirmation screens
 
@@ -97,5 +44,6 @@ From this screen, "Update" will close the form and save the new address; "Cancel
 
 **Copy**
 
+## Analytics
 ## Codes
 ## How to reproduce
