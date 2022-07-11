@@ -3,6 +3,8 @@
 
 ## Facilities Team v.2
 - [Research & Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7622)
+   - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
+   - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
 - [Implementation Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9656)
 
 ## Facilities Team v.1 (Old documentation)
