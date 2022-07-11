@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 7/12/2002
+- For low-vision Veteran or Veteran who only use a keyboard, the alert for a user verification error now gets the focus when displayed.
+   - [Ticket 43525](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43525)
+
 ### 7/8/2022
 - Veterans will now see a new error message when they attempt to complete pre-check-in for an appointment that has been cancelled. See detailed release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/cancelled-appointment-messaging.md)
    - [Epic 40418](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40418) 
