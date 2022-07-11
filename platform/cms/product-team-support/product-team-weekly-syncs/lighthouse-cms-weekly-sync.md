@@ -16,19 +16,45 @@
 ## Monday, July11, 2022
 * Lat/Long info for VetCenter CAPs
   * https://dsva.slack.com/archives/C02BTJTDFTN/p1656535172014689
+  * LH still needs to set up endpoint - similar to other updates, seperate URL ot CAPs
+  * Logic not in place yet, LH team still has work to do to address - plan for POST V1
+  * Some bandwidths within a few sprints?  What's thet deadline?  As Soon As We Can Get It. 
+  * *For awareness - starting VBA work, which will involve replacing current database with Drupal source of truth. This may be more of a driver than the CAPs.
+  * Do we anticipate VBA data being daily refresh or real-time? We don't know enough yet. Pre-kickoff is happening on Thursday. No site to experiment with yet.
+  * As SSOT moves to Drupal, does BZL still pull ..?  BZL will have to have some change, Right now they're pulling directy from CDW from Sandy's DB?  Does drupal write to CDW directly? What does BZL want to do?  We need to put deprecation strategy in place.
+  * Need to approach this change with BISL. Sandys 'singel table' db is going away, data is going to be maintained in drupal (Business INtelligence Service Line)
+  * V1 is #1 priority, CAPS is #2 = maybe 2 or 3 sprints from now, tickets are spun up.
 * SSOT
   * Dave C, Jenny HL and Dave M meeting?
   * Josh discussion with LH team?
   * ATC relaunching?
+  * Email from James 
+  * Joshua: Topic as a whole - WE're going to set up an additional call, LH & Jenny. Needs to be time alloted for Jenny to work with editors to get data up to date. Jenny knows which VISNs to work with. For V1 intent wast to have Drupal data only, at initail launch, ATC, DST, and CMS - if any 3 say this service exists it will be reported.  ATC, DST are historical.  does not represent real time. This will have impact on editors.  Ifa drupal editor says "we no longer have a service" it can persist up to 30 days.  Will need documentaiton and CM - how best to edit the CMS page, but if it's one of these 19 core services it will take time.  This should be temporary.  On XX date LH will move away from ATC and it will only be CMS data and at the poing it will be realt time. Then resp moves to editor to make change. 
+  * Dave: Is there a way for editors to validate DST the way they can ATC?  "I deleted a service, why is it stil there" - can we instruct, first check with ATC and notify them. They may just say "if there's no appt in 30 days it will go away"
+  * Goal is to clearly identify "it's not CMS issue"
+  * What can we do about DST? Is there a way for folks to determine - Josh.. not a log of insight. We onlyl pull 3 services, dental and 2 otehr.  We can mimimize 
+If the descrpency is on of these 3 Dentistry, Podiatyr, Nutrition, - then it's DST.
+  * We can provide some guidance based on the service. .if it's this service, check here. 
+  * How do we empower editors, give them guidance for why it's stil showing up in FL - can also be contradictory - liek Urgent Care wait times for a facility that doesnt offer Urgent care  - why is this not in service accordion 
+  * Jpsh confirmed: Satisfaction is at facility level, wait time is at service level 
+  * Re: Gillette had the issue, no urgent care but ATC is reporting it as existing and has wait time and satisfaction scores 
+  * https://www.va.gov/sheridan-health-care/locations/gillette-va-clinic/
+editor said:
+There is a "Veteran satisfaction" section on noted web page that only seems to be on one CBOC page... it notes "Urgent Care" wait times. There is no urgent care, how can I remove that section? Thanks
+* We can't get rid of ATC fully, but no longer be a source of service info, but must stil use to get wait times and sat scores 
+* 
+
 * Service audit
   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406  
 * Sync CMS data to sandbox 
   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9400
+  * Joshua - led to larger discussion, wil update us - we don't quite  know yet - have to look 
 * Mobile facilites
   * Dave C - follow up offline: Email about mobile facilities, get up to speed on research we've done. 
   * James: Let's lay out among our teams before bringing any proposal.
+  * DAve C to follow up
 * PPMS 
-  * Not relevant?
+  * Confirmed:  Not relevant?
 
 
 ## Monday, July7, 2022
