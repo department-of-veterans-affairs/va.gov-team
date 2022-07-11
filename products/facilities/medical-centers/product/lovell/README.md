@@ -1,6 +1,7 @@
 # Lovell Federal Health Care Center
 ## Overview
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+
 This project transitioned teams in April 2022. It is currently managed by Facilities Team v.2, but some of the documentation from Facilities Team v.1 might be helpful for context.
 
 ## Facilities Team v.2
