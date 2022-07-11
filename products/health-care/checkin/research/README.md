@@ -13,3 +13,5 @@
 | [St. Louis MVP Intercept with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback) | 59 Veterans | April 2022 | 
 | [St. Louis MVP Interviews with Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback) | 15 Staff Members | April 2022 | 
 | [Enabling Pre-check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/telephone) | 13 Veterans | May 2022 |
+| [Bay Pines Veteran In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat) | 17 Veterans | June 2022 |
+| [Bay Pines Staff In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/readme.md) | 36 Staff Members | June 2022 |
