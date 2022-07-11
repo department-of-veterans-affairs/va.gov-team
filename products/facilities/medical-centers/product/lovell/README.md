@@ -8,7 +8,7 @@ This project transitioned teams in April 2022. It is currently managed by Facili
 - [Research & Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7622)
 
 #### Technical Feasibility | April 2022
-- [Technical feasibility] (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7626)
+- [Technical feasibility](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7626)
 
 #### User research | June 2022
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
