@@ -21,6 +21,7 @@
 
 - Add the toggle to the code base via the instructions in the platform docs.
 - Typically, FE and BE should use the same toggle unless there are unique requirements. Typically the fewer toggles, the better.
+- If separate FE and BE feature toggles are required, then the BE toggle will need to be fully enabled during rollout to avoid any issues with 25/50/75% deployments
 - Add a new selector to the selector file [Example](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/selectors.js). This allows for easy reuse and removal
 - Add your toggle to our [mock API server](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/mocks/feature-toggles/index.js#L1). This will help in the creation of the e2e tests and other testing situations.
 - Implement your cool feature and get it merged into staging
