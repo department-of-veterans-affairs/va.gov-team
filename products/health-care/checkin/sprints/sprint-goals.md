@@ -41,6 +41,8 @@
     - Send translations to VA Design System for components
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Complete frontend work (CHIP is working on API ticket this sprint)
+- [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
+    - Perform SPIKE to determine from where we will get the Doctor's Name and Type of Care field values
 - Bugs & Tech Debt
     - [Reloading app routes to VA 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44113)
     - [Appointment start time interpreted as UTC in < es6 browsers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40027)
