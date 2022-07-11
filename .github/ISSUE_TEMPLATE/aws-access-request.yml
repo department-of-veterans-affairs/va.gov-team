@@ -98,7 +98,7 @@ body:
     id: additional-notes
     attributes:
       label: Additional Notes
-      description: Use this section to add notes, such as justification for the access request, COR information when 'Other' was selected, etc.
+      description: Use this section to add notes, such as justification for the access request, COR/VOR information when 'Other' was selected, etc.
       placeholder: I need this access because of <reason>
   - type: markdown
     attributes:
