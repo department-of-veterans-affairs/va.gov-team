@@ -7,6 +7,7 @@
 | Research| [July Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38256) | Prepping | | 3 | 1 | 2 | |
 | Research| [August Research Study (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)| Prepping| 1 | 3| 2| 2||
 | Research| [Beneficiary Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)| Discovery| 5| 4| 3| 1 ||
+| Design | [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)| Discovery| | 3 | |  ||
 | Research| [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)|| 1| 4||||
 | Development| [Staging Review](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43016)| In Progress || | 4| ||
 | Development| [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)| In Progress **Release 7/26?**|| 2| 1| 11||
