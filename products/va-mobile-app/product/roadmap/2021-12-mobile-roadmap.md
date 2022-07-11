@@ -1,6 +1,3 @@
-<!-- Copy and paste the converted output. -->
-
-
 ### Mobile App Roadmap
 
 1. [Outcomes Roadmap (updated quarterly)](#outcomes-roadmap)
@@ -44,7 +41,7 @@
    </td>
    <td>Difficulty Signing in: Veterans interact with VA websites less because they find login too cumbersome
    </td>
-   <td>Inequitable Access: 
+   <td>Inequitable Access:
 <p>
 VA services are not always accessible across the digital divide and to those with disabilities.
    </td>
@@ -58,7 +55,7 @@ VA services are not always accessible across the digital divide and to those wit
    </td>
    <td colspan="3" >Reduce the time it takes for Veterans to find, use, and receive VA services.
    </td>
-   <td>Increase the accessibility, reliability, and security of Veteran’s digital services. 
+   <td>Increase the accessibility, reliability, and security of Veteran’s digital services.
    </td>
   </tr>
   <tr>
@@ -102,7 +99,7 @@ VA services are not always accessible across the digital divide and to those wit
    <td>
 <ul>
 
-<li>Design & Tech debt 
+<li>Design & Tech debt
 
 <li>Analytics
 
@@ -179,7 +176,7 @@ VA services are not always accessible across the digital divide and to those wit
 
 <li>Health Records expansion
 
-<li>Inter-health integrations 
+<li>Inter-health integrations
 
 <li>Patient check in
 
@@ -318,7 +315,7 @@ VA services are not always accessible across the digital divide and to those wit
 
 <li>PN for SM*
 
-<li>SM refinements 
+<li>SM refinements
 
 <li>PN architecture*
 </li>
@@ -338,9 +335,9 @@ VA services are not always accessible across the digital divide and to those wit
 
 <li>IA research
 
-<li>Dark Mode 
+<li>Dark Mode
 
-<li>Demo Mode 
+<li>Demo Mode
 </li>
 </ul>
    </td>
@@ -384,7 +381,7 @@ VA services are not always accessible across the digital divide and to those wit
 * Rx Refill design + build
 * Health Records expansion
 * Profile: view (and manage?) dependents
-* Inter-health integrations 
+* Inter-health integrations
 * Patient check in
 * Veteran ID card
 * Travel reimbursement
