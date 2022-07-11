@@ -41,6 +41,11 @@ We will implement this first version with DMC's existing debt notification.
 
 ### Workflow Overview
 - Business line triggers a new debt notification by calling the VA Notify API
+    - person identifier used in request?
+        If no, do not send an onsite notification
+- We check if the template is enabled with onsite
+    - False?
+        - If yes, do not send an onsite notification
 - VA Notify begins the person lookup in MPI
     - Deceased?
         - If yes, do not send an onsite notification
