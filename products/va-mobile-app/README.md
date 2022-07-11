@@ -68,6 +68,10 @@ In 2020, we undertook a discovery sprint to understand how Veterans were current
 - Slack: `#va-mobile-app` `va-mobile-app-design`
 - Zenhub tag: va-mobile-app
 
+## Key Documents
+- [Product Roadmap](product/roadmap)
+- [Product Outline](product/Product-Outline.md)
+
 ## Release Timeline
 - MVP was soft-launched on July 13 2021
 
