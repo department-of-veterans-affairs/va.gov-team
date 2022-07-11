@@ -59,6 +59,7 @@
 | Avg. Sessions per Submission | TBD | TBD | TBD |
 
 **Key Result:** Reduce abandoned applications
+*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the household information section*
 | KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
 | Avg. Applications Abandoned | TBD | TBD | TBD |
