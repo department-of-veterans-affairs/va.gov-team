@@ -9,7 +9,7 @@ Veterans are already familiar with the modernized location design, however, the 
 
 This bespoke health care system research is building upon earlier VAMC research.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell-initiative-brief.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md).
 
 [Link to UX research and design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md#vsa-lovell-federal-health-ux-research-and-design-hub).
 
@@ -100,7 +100,7 @@ Research sessions will be held remotely using Zoom, and will be recorded.
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell-conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
 - [Link to prototype](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/sitemap)
 	
 ## Recruitment	
