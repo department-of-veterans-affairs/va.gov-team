@@ -1,4 +1,4 @@
-# Initiative Brief Template (WIP)
+# Lovell Initiative Brief 
 ## Product: VAMC pages
 ### Initiative: Lovell Federal health care
 
