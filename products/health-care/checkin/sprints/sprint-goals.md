@@ -7,20 +7,23 @@
 - [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
-- [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027) 
 
-#### R&D Sprint Goals
+#### R&D Sprint Goals (TENTATIVE)
 - Beneficiary Travel - MVP    
     - Decide on Metrics to Measure Success (Analytics)
     - Create wireframes for MVP prototype
+    - Talk with Bay Pines & Corpus Cristi travel clerks
+    - Create research plan & conversation guide
 - July Research
-    - Conduct study    
+    - Conduct study & start synthesis    
 - August Research (REMOTE)
     - Plan & Organize remote study
 - Content Updates
     - Update wording for remaining SMS messages
+- Poster Modifications
+    - Complete
 
-#### Engineering Sprint Goals
+#### Engineering Sprint Goals (TENTATIVE)
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
     - Complete and release the 4 tickets
 - [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
