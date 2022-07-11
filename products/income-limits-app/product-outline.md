@@ -17,7 +17,7 @@ How might we rebuild this application so that we clearly define the Veteran use 
  
 ## Desired User Outcomes
 
-*I'm not sure these are right* 
+*I'm not sure these are right - where is the "learn" part of this.* 
 
 - In the case of an eligible Veteran: Quickly move on from “What might I be eligible for?” to action (obtaining benefits).
 - In the case of an ineligible Veteran: Understand what criteria were used to render a negative result, and provide a path to resolve questions.
@@ -29,8 +29,8 @@ How might we rebuild this application so that we clearly define the Veteran use 
 *I'm not sure these are right* 
 
 - Confusion or frustration with tool itself
-- Feeling that unwelcome news (lack of eligibility) is opaque/unjustified, unfair, or wrongly determined.
-- Incorrectly discouraging an eligible Veteran from pursuing benefits.
+- ~Feeling that unwelcome news (lack of eligibility) is opaque/unjustified, unfair, or wrongly determined.~ I don't think that this application is the sole determinant of "lack of eligibility" so this use case is potentially invalid.
+- Incorrectly discouraging an eligible Veteran from pursuing benefits. (per my note above, this is not the only determinant so we would want to provide routes for Veteran to get more information and/or advocate for their case with the other criterion)
 
 
 ## Desired Business Outcomes
