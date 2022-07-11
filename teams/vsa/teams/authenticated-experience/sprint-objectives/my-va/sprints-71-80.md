@@ -408,6 +408,10 @@ This is a stretch goal and can be moved to next sprint if needed. PMs should be 
 
 This is roughly in priority order, though the redirect and on-site notifications are about the same level of priority. **My VA audit & updates and documentation efforts are currently on hold unless people have bandwidth**.
 
+### PTO
+
+Liz: Jul 22 - 29
+
 ### My VA redirect
 
 **PM**
@@ -455,6 +459,7 @@ Our main objective this sprint is to make sure the feature is working. If it is,
 ### PTO
 
 - Samara: Aug 1 - 5
+- Liz: Jul 27 - 29
 
 ## Sprint 80 (8/10 - 8/23)
 [Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
