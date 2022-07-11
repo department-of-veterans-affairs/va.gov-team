@@ -3,11 +3,39 @@
 ## 7/13/2022
 
 #### Planned Releases
-- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
-    -  **Release ~7/26** 
+- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
 - [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
-    -  **Release ~7/26** 
+- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+- [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
 
+#### R&D Sprint Goals
+- Beneficiary Travel - MVP    
+    - Decide on Metrics to Measure Success (Analytics)
+    - Create wireframes for MVP
+- July Research
+    - Conduct study    
+- August Research (REMOTE)
+    - Plan & Organize remote study
+- Content Updates
+    - Update wording for remaining SMS messages
+
+#### Engineering Sprint Goals
+- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
+    - Complete and release the 4 tickets
+- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
+    - Test & Release
+- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+    - Test & Release
+- [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
+    - Work on vista-api load testing
+    - Support CHIP team as necessary for CHIP api
+- [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
+    - Incorporate files
+    - Generate screenshots for WF documents
+    - Send WF documents to State Department for QA approval
+- [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
+    - Complete & Release
+        
 ## 6/29/2022
 
 #### R&D Sprint Goals
