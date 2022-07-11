@@ -83,7 +83,7 @@ Ask Perigean to recruit **28 Veterans, Veterans' caregivers, Veterans' family me
 - At least 3 are Veterans' caregivers
 - At least 2 are Veterans' family members
 - At least 2 are service members
-- 3 have NO experience with ANY VA benefit or experience with only one benefit *(see Additional Question #1 below)*
+- 3 have NO experience with ANY VA benefit OR experience with ONLY ONE benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
 - 4 have experience with health care, and optionally with other VA benefits *(see Additional Question #1 below)*
 - 10 people who plan to use their desktop or laptop computer for the session
