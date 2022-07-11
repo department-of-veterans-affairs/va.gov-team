@@ -1,59 +1,77 @@
 # VA Mobile App
+The flagship mobile app (VA: Health and Benefits) is delivering two key improved experiences to Veterans who already have a digital relationship with VA.
+1. Streamlining sign in with biometric authentication
+2. Pulling together access to common tasks that cut across VA organizational lines (VHA, VBA, NCA)
+  - Appointments (continued development)
+  - Claim Status
+  - Download VA Letters
+  - VA Payments
+  - Prescription Refills (in development)
+  - Secure Messages
+
+The mobile app team has a hypothesis, validated by user research, that native functionality in a mobile app can allow Veterans to more easily complete key transactions across VA Health and Benefits services.
 
 ## Background
-On VA.gov today, nearly 40% of all traffic comes from users on their mobile devices. This traffic is typically driven by users that want to complete quick transactions, such as viewing Claims Status or Facility Locator. Our team has a hypothesis, validated by user research, that native functionality in a mobile app will allow Veterans to more easily complete key transactions across VA Health and Benefits services.
+Traffic to VA websites is typically driven by users that want to complete quick transactions, such as view the status of claims, read Secure Messages, or use the Facility Locator. Currently, about 40% of overall visits to VA.gov are made  with mobile devices.
+
+Sign in to VA websites is a commonly cited pain point, and this is especially onerous when the task you are trying to complete only takes a few seconds ("has my claim advanced?" "Did my doctor get back to me?"). Mobile devices can streamline this with easy to use biometric authentication that many veterans have already integrated into their daily lives. These devices have other capabilities— like location, camera, and local storage— that we think have greart potential to improve the Veteran experience.
+
+In 2020, we undertook a discovery sprint to understand how Veterans were currently using mobile devices with VA and what they wished they could do more easily. That research led to the MVP feature set and our ongoing work with Veterans continues to guide the product roadmap today.
+
 
 ## Team
 
 ### VA Product Owners
-- Leanna Miller
-- Travis Newby
+- Chris Johnston (acting)
 - Martha Wilkes (part time design and accessibility)
 
 ### Product and Program Management
-- Meko Hong - Product
-- Brenda Cudone - Product
 - Ashley Matthews - Product
+- Brenda Cudone – Product
 - Brenda Rocha - Product
-- Seth Eheart - Program
+- Meko Hong - Product
+- Matt Hall – Product Leadership
+- Seth Eheart - Program Leadership
 
 
 ### UX
-- Jen Ecker - UX Design Leadership
-- Meli Manak - UX Design
-- Melissa Lefevre - UX Design
-- Lauren Russell - UX Design
+- Brea Blackwelder - UX Design
 - Esther Kitavi - UX Design
 - Holly Collier - UX Design
-- Liz Straghalis - Research
-- Alex Taylor - Principal UX Designer
+- Lauren Russell - UX Design
+- Liz Straghalis – UX Research
+- Melissa Lefevre - UX Design
+- Misty Milliron-Grant – UX Writing
+- Jen Ecker – UX Design Leadership
+- Alex Taylor - Managing Principal Designer
 
 
 ### Engineering
-- Patrick Saxton - Engineer Leadership
-- Alastair Dawson - Engineer
-- Chika Adibemma - Engineer
-- Kris Pethtel - Engineer
-- Andrew Herzberg - Engineer
-- Jayson Perkins - Engineer
-- Narin Ratana - Engineer
-- Teesh Shahi - Engineer
-- Rafael Arroyo, Engineer
-- John Marchi, Engineer
-- Ken Li, Engineer
-- Jon, Bindbeutel, Engineer
-- Ken Harrison - QA
-- Tom Gammons - QA
-- Therese Dickson - QA
+- Andrew Herzberg – Engineering
+- Chika Adibemma – Engineering
+- Jason Conigliari – Engineering
+- Jayson Perkins – Engineering
+- John Marchi, Engineering
+- Jon, Bindbeutel – Engineering
+- Ken Harrison – QA
+- Ken Li – Engineering
+- Kris Pethtel – Engineering
+- Narin Ratana – Engineering
+- Rafael Arroyo – Engineering
+- Therese Dickson – QA
+- Tim Roettger – Engineering
+- Tom Gammons – QA
+- Patrick Saxton – Engineering Leadership
 
 
 ## Communications
-- Slack: #va-mobile-app
+- Slack: `#va-mobile-app` `va-mobile-app-design`
 - Zenhub tag: va-mobile-app
 
-## Timeline
-- MVP V1: Released to Test Flight by end of Nov. 2020
-- MVP V1 or V2: Released to app store in Q2 2021
+## Release Timeline
+- MVP was soft-launched on July 13 2021
 
 ## Release Cycle
-Because VSP's Collaboration Cycle is designed for web features, the VA Mobile App team is going to leverage parts of the process that make sense for mobile and create other quality control processes where it doesn't. For example, the VA Mobile App team is creating its own Accessibility review that is tailored to mobile devices. These deviations will be documented [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/mobile-collaboration%20cycle.md) 
+We release new builds to the app stores every two weeks.
+
+Our process and infrastructure is different enough that we are not participating in the web-centric VSP Collaboration Cycle.
