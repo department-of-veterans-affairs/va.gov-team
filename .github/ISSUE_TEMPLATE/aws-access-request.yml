@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
         :wave: **_Instructions_**
-        1. Before being granted access, you will need to either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
-        2. Change the **Title** to include your name
-        3. Add the label used by your team (eg: `BAH-526`)
+        1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
+        2. Change the **Title** to include target individual
+        3. Add the label used by the target individual's team (eg: `BAH-526`)
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         5. Add additional info as a comment after GitHub issue is created if you select 'Other' for any of the form inputs.
         6. When the issue is closed you will be notified and can continue with on-boarding setup
@@ -17,7 +17,7 @@ body:
     id: cor-name
     attributes:
       label: COR Name
-      description: Your Contracting Officer's Representative (COR) name.
+      description: The name of the Contracting Officer's Representative (COR) covering the target individual.
       options:
         - Cecila Lee
         - Courtney Bethea
@@ -25,14 +25,14 @@ body:
         - Doris Lin
         - Vilay Senthep
         - Eunice Garcia
-        - Other
+        - Other - please specify in 'Additional Notes'
     validations:
       required: true
   - type: dropdown
     id: vendor
     attributes:
       label: Vendor Onboarding Representative Name
-      description: This is the person from the contracting company responsible for your onboarding process.
+      description: This is the person from the contracting company responsible for the onboarding process of the target individual.
       options:
         - Oddball - Amber Malcolm
         - Insignia - Kimberly S. Cole
@@ -41,59 +41,65 @@ body:
         - Magnum Opus - Paula G. Mendoza
         - Liberty IT -  Michael G. Lovejoy
         - Accenture Federal Services - Alexa Elliot
-        - Other
+        - Other - please specify in 'Additional Notes'
     validations:
       required: true
   - type: input
     id: requestor-name
     attributes:
       label: Your Name
-      description: Please provide your name
-      placeholder: e.g. Jane Doe
+      description: Please provide the name of the target individual
+      placeholder: Jane Doe
     validations:
       required: true
   - type: input
     id: email
     attributes:
       label: Your Email
-      description: Please provide your work email
-      placeholder: e.g. jane.doe@company.com
+      description: Please provide the work email for the target individual
+      placeholder: jane.doe@company.com
     validations:
       required: true
   - type: input
     id: team-name
     attributes:
-      label: Your Team, Role, and Company
-      description: Please provide the name of your team, your role on that team, and the name of the company you work for
-      placeholder: e.g. Platform Security, Backend Engineer, Ad Hoc
+      label: Team, Role, and Company of the target individual
+      description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
+      placeholder: Team Moose, Antler Development, Alces LLC
     validations:
       required: true
   - type: input
     attributes:
       label: Product Manager (PM) name and email
-      description: Provide the name and email of your Product Manager
+      description: Provide the name and email of the Product Manager working with the target individual
     validations:
       required: true
   - type: input
     attributes:
       label: Product Owner (PO) name and email
-      description: Provide the name and email of your Product Owner
+      description: Provide the name and email of the Product Owner for the target individual
     validations:
       required: true
   - type: textarea
     id: aws-access
     attributes:
       label: Desired AWS Access
-      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) would you like to access. Also list what type of access will you need (read, read-write, etc.). If there is a teammate whose permissions you'd like to copy, please list their name.
+      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) and which type of access is requested. Explicitly list which type(s) of access are needed for which resources and keep these scopes as small/tight as possible. If there is a teammate whose permissions should be copied, please list their name.
       placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
   - type: input
     id: expiration-date
     attributes:
       label: Access Expiration
-      description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access.
+      description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access. If ongoing is selected, add a justification for this to the 'Additional Notes' field.
       placeholder: timestamp
     validations:
       required: true
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Use this section to add notes, such as justification for the access request, COR/VOR information when 'Other' was selected, etc.
+      placeholder: I need this access because of <reason>
   - type: markdown
     attributes:
       value: |
