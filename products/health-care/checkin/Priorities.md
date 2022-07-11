@@ -18,7 +18,7 @@
 | Development| [Tagalog Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788)| In Progress| 1 | 1| | 2 |
 | Development| [Translations - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)| Prepping|| 3| 2|||
 | Development| [Physical Location Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42794)| Ready for Dev|| 5|| 1||
-| Development| [Type of Care & Doctor’s Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)| Needs Refine| 7| 3| |2| Need wireframes |
+| Development| [Type of Care & Doctor’s Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)| Blocked | 7| 3| |2| Waiting on VAOS V2 fields to be available |
 | Development| [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) | Blocked|| 2||| Waiting on CHIP work|
 | Development| [Send Pre-Check-in Link via Email](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42620) | || ||| |
 
