@@ -1,12 +1,8 @@
-# [Study] Research Findings 
+# Lovell Federal Experience - Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Medical Centers, Facilities Team **
 
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
-
-[Research Report PDF] (link here)
+**Researchers:** Valerie Runde [email], Dave Pickett [email]
 
 <br>
 
