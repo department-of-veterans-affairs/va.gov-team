@@ -1,7 +1,7 @@
 name: "Collaboration Cycle Request"
 description: "Begin engaging with the Collaboration Cycle."
 title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
-labels: ["collab-cycle-review", "collaboration-cycle", "governance-team", "CC-Request"]
+labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
 assignees: []
 body:
   - type: markdown
@@ -94,7 +94,7 @@ body:
       label: Will your work involve changes to...
       description: For tools and applications, take into account if any static page entry points will need updates. For information and examples of Static vs Dynamic pages, review the [Static vs Dynamic guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/static-and-non-static-page-documentation.md).
       options:
-        - "Tools and applications"
+        - "Tools, applications and dynamic pages"
         - "Static pages"
         - "Both"
         - "Other"
