@@ -54,3 +54,14 @@
 - Online Health Apps team shared metrics
      - Created a ticket in the backlog to research the steady trend of errors where the Veteran is not found in MPI
 
+
+### Notes from Tham
+Meeting Notes and AI items from today’s call: Routine touchbase with the VA.gov Team and the CSP, SPS, and MuleSoft teams
+- Not receiving message within 24 hours – 2 instances captured for catastrophic events;
+1. Application goes to Mulesoft queue and if there is power cut
+2. Queueing on Mulesoft Orchestrates and not able to retry or trying to create a subversion, CSP manual is not possible also.
+     - **AI VA.gov** needs to make SOP of catastrophic failure and how to get it to CSP manually
+     - **AI Mulesoft SPS** to look into if the deployment can be any earlier
+     - **AI Ruman** to provide a how to connect to the new API document to Lihan for the VA.gov Queue by 7/15
+     - **AI VA.gov team** to look into the Veteran not MPI Errors
+
