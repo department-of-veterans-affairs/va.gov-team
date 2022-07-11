@@ -1,6 +1,6 @@
 # Lovell Federal Experience - Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Medical Centers, Facilities Team **
+**Office of the CTO - Digital Experience (OCTO-DE), Medical Centers, Facilities Team**
 
 **Researchers:** Valerie Runde [email], Dave Pickett [email]
 
