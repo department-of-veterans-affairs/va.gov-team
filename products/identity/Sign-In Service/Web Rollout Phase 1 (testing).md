@@ -5,7 +5,23 @@ We hope to use this test to measure any improvements in sign-in time from our ba
 
 If at any point during our testing, the login success rate falls below 50%, we intend to pause the test while we evaluate causes.
 
-# Baseline Metrics
+# Baseline Metrics (Default)
+
+| CSP       | Test 1 | Test 2 | Test 3 |
+|-----------|--------|--------|--------|
+| ID.me     |        |        |        |
+| MHV       |        |        |        |
+| DSLogon   |        |        |        |
+| Login.gov |        |        |        |
+
+# Baseline Metrics (Sign-in Service)
+
+| CSP       | Test 1 | Test 2 | Test 3 |
+|-----------|--------|--------|--------|
+| ID.me     |        |        |        |
+| MHV       |        |        |        |
+| DSLogon   |        |        |        |
+| Login.gov |        |        |        |
 
 
 Safari users successful login before/after
