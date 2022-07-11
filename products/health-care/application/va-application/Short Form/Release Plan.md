@@ -56,7 +56,6 @@
 **Key Result:** Reduce Sesssions / Time taken to complete application 
 | KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Time per Submission | TBD | TBD | TBD |
 | Avg. Sessions per Submission | TBD | TBD | TBD |
 
 **Key Result:** Reduce abandoned applications
