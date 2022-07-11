@@ -478,6 +478,10 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 
 ## Sprint 78 (7/13 - 7/26)
 
+### PTO 
+
+Liz: Jul 22 - 29
+
 ### Priorities
 
 - **Personal info**: Submit for 508 review
@@ -554,6 +558,7 @@ This is pending Liz's availability. She is doing some research for My VA this sp
 ### PTO
 
 - Samara: Aug 1 - 5
+- Liz: Jul 27 - 29
 
 ### Military information
 
