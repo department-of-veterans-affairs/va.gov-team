@@ -21,6 +21,8 @@
     - Update wording for SMS messages
 - [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)
     - Complete
+- [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
+    - Create wireframes
 
 #### Engineering Sprint Goals (TENTATIVE)
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
@@ -39,8 +41,6 @@
     - Send translations to VA Design System for components
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Complete frontend work (CHIP is working on API ticket this sprint)
-- [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
-    - Complete and release?
 - Bugs
     - [Reloading app routes to VA 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44113)
         
