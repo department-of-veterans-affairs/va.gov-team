@@ -11,8 +11,6 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Lori Pusey [
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/PCI%20Bay%20Pines%20Research%20Report.pdf)
 
-Companion study research findings with staff
-
 <br>
 
 **Jump to:**
@@ -108,29 +106,111 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 1. MSAs and one clinician confirmed feedback we’ve previously heard about the staff-facing applications; many of which are being addressed. E.g., adding last four, too much of a delay, etc. 
 1. MSAs pointed out new feedback about the staff-facing applications. E.g., no shows not working, walk-ins not working, sort within each clinic/group, etc. 
 
-Companion study research findings with staff
-
 # Details of Findings 
 
 Labels: AUD: Veterans, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: User Acceptance Testing, RESRCH: Interviews, VETSJNY: Taking care of themselves
 
-**There's a large cohort of Veterans that feel they shouldn't have to use their phone to check in at the VA. However, younger Veterans and returning patients have adopted the changes in a more streamlined manner.**
+## Key Findings 
 
-Of the 59 Veterans we spoke with, 17 (or 29%) either did not have a mobile device with a data plan or were unable or willing to use the mobile check-in process. 
+### 1. A few clinics were not fully ready to use PCI due to conflicting communication or unresolved clinic-specific needs, e.g., routing slips. 
 
-And, of the 42 (or 71%) that did use the check-in process, a mixed sentiment was returned for the overall perception of check-in. Returning patients were the most confident using check-in. For example, Veterans returning for a routine visit to their primary care physician. And based on our observations, younger Veterans tended to have an easier time adjusting to the new process. 
+MSAs at Bay Pines VAMC, Building 100 received conflicting direction on whether to start using PCI. Some MSAs were instructed to continue using VetLink. Therefore, communication to Veterans about PCI was limited, resulting in low utilization. 
 
-*Positive*
+Mobile check-in was not being used at Bay Pines VAMC, Building 100, clinic 3D because MSAs need to print routing slips for each patient, which is something not supported in VSE CS.
 
-> _It [mobile check in] was better than the kiosk._
+Currently, MSAs print the routing slips once a patient checks in with them. 
 
-> _It was super easy to get checked in._ 
+### 2. The kiosks were affecting the check-in experience for Veterans, e.g., using them, ignoring the check-in poster and thinking they’re checked in. Additionally, too many choices at the point of check-in (e.g., posters, brochures, VA-owned devices) may ultimately create confusion, leading Veterans to not use any mobile solution or VA-owned devices.
 
-> _Love how it works. It works really well._
+Kiosks were still present in most clinics and “on” in some. On the kiosks, Veterans were able to view today’s appointments, future appointments and update their information. While they still work, they’re also impacting the check-in experience: 
 
-> _I like not having to wait in a long line._
+- Increases the number of touch points during a visit
+- Creates confusion on where to go to check in 
+- Conflates using the kiosk with a check-in – something that MSAs have confirmed is happening 
+- Creates inconsistencies of the check-in experience between clinics  
 
-> _It was hard at first, but it’s been good now._
+In addition, the area that check-in posters are located in the clinics are becoming problematic due to the number of choices that Veterans are presented with. E.g., kiosk, BTSSS brochure, My HealtheVet brochure, privacy reminder, social distancing reminder, and more. The more choices, the greater the chance to cause confusion that results in Veterans not using a mobile solution or VA-owned device.
+
+### 3. Confusion exists, for various reasons, among Veterans and MSAs on the difference between pre-check-in and check-in. 
+
+Veterans and MSAs didn’t seem to understand the distinction between pre-check-in and check-in. 
+
+- Some MSAs had never heard of pre-check-in or conflated it with PCI, check-in or pre-registration.
+- We observed a Veteran thinking they were checked in for an appointment after having received the first text message response from CHIP. 
+
+MSAs reported that there’s times when Veterans think they’re checked in after completing pre-check-in.
+
+MSAs at Lee County VA Clinic Mental Health 4A clinic received direction from clinic supervisors to bring all patients up to the counter to confirm their information even if they completed mobile check-in. We speculate that this is a tactic to help counter Veterans thinking they’re checked in, when they’re not. 
+
+> _I like it. But, I thought I did some of this before._
+
+### 4. MSAs from a few clinics and one Veteran thought that adding travel reimbursement to check-in would be valuable. 
+
+One Veteran explained how difficult it is to file a claim with Beneficiary Travel Self-service System (BTSSS) and get it approved. He said that he was close to giving up on filing claims since none of his claims get approved or reviewed very quickly.  
+
+He thought that adding travel reimbursement during check-in would be ideal compared to the existing process with BTSSS. 
+
+> _It’s been very, very difficult. They have a lot of work, but it’s not going very well._
+
+> _Absolutely. That would be a lot easier._
+
+### 5. The current travel reimbursement process for Veterans is complex due to nuances in how BTSSS works, eligibility criteria (e.g., community care vs. VA clinic appointments), claim review process, etc.   
+
+- Most claims are manually reviewed by travel assistants. 
+- Community care appointments are eligible for reimbursement. However, they require an extra step compared to VA appointments. I.e., a doctor’s note that contains no protected health information (PHI). If there’s no note provided in the claim, travel assistants send them a letter explaining why their claim was denied. This process is a cause for confusion and frustration among Veterans and staff. 
+- Sometimes the clinic doesn’t check the patient out. When this happens, the travel assistants on site tell the Veteran to go back to the clinic to get checked out, which is a cause of frustration.
+- Lab appointments, EKGs, X Rays, etc. (i.e., walk-ins) don’t get checked out. Travel assistants can override in BTSSS. 
+- There’s a national database that travel assistants use to determine driving routes and mileage. 
+- Mileage disputes will occur when Veterans file a claim for visiting a VA location that is farther away from a closer location that offers the same service or treatment.
+- 9/10 claims submitted are incomplete. E.g., information was missing, information was not entered in the correct format, etc. This means that travel assistants have to spend time with each claim to correct it before it’s approved. 
+- If a Veteran was to file a claim during check-in, wait for their appointment and leave because the wait is too long, that would be problematic from a reimbursement perspective. Therefore, it’s important to ensure the Veteran has completed their appointment before a claim can be submitted.  
+- Walk-in appointments are eligible for one-way reimbursement. Often in BTSSS, these appointments come in as round trip that need to be changed. 
+- Travel reimbursement is paid by the visit, not the appointment.
+
+### 6. Travel assistants recommend avoiding the inclusion of options in the travel reimbursement experience for Veterans that likely lead to a denial of reimbursement, such as “Other” fields, VTS and carpool. 
+
+> _Don’t show options that aren’t eligible for reimbursement, such as VTS or carpool._
+
+> _Don’t include “Other” options. It’s just another opportunity that could lead to a denied claim._
+
+<img width="485" alt="Screen Shot 2022-07-12 at 5 42 59 PM" src="https://user-images.githubusercontent.com/101129355/178600599-3b8d1d7d-600d-48c5-bcdb-713f6b5f2a55.png">
+
+### 7. Many Veterans prefer checking in with MSAs, and that’s okay, while others preferred the kiosks because they’re a larger screen and easier to see. 
+
+We witnessed many Veterans walking into the clinics with their VA ID in hand, ready to scan it or hand it to the MSAs and ready to announce their last name, last four. 
+
+With continued awareness and education about PCI, some Veterans will try check-in in the future. 
+
+> _They liked the kiosks. They could also see their future appointments and update their information._
+
+> _Some Veterans, [regardless of age,] need help with using their cell phone, so it’s not right for everyone._
+
+> _The kiosks were much easier because the screen is bigger and easier to see._
+
+### 8. MSAs and one clinician confirmed feedback we’ve previously heard about the staff-facing applications; many of which are being addressed. E.g., adding last four, too much of a delay, etc. 
+
+- Many MSAs expressed frustration that the amount of applications they use have increased from moving away from VetLink. In addition, some MSAs have to rely on other staff to make updates in VistA, which hampers the process of keeping Veterans’ information up to date. 
+- The delay between VSE and VSE CS is too long. 
+- There’s a need for a memo field to communicate which provider the patient is with or what’s being done. E.g., EKG. In addition, MSAs from Lee County VA Clinic pointed out that they lost the ability to write in the patient’s reason for visit for walk-in appointments in VSE since moving away from VetLink. 
+- Better notifications in VSE CS to ensure clinicians know when a Workflow Status change occurs. E.g., visual, sound or pop-up dialogue that requires closure. 
+- Clinicians would like to see last four added to VSE CS to be able to more easily match the patient in other applications. E.g., CPRS, VistA, etc. 
+
+### 9. MSAs pointed out new feedback about the staff-facing applications. E.g., no shows not working, walk-ins not working, sort within each clinic/group, etc. 
+
+- No MSAs asked about adding check-in into VCE CS, which was something we heard previously from other facilities. Roughly half of the MSAs we spoke with monitor VSE CS, while the other half do not use it at all. Unlike what we heard from other facilities, many clinics at Bay Pines are not using Teams to tell clinicians that their patients have arrived. 
+- MSAs at Bay Pines VAMC reported that marking a patient as a “no show” in VSE is not saving to VSE CS and vice versa. 
+- One MSA expressed the need to be able to view and check-in multiple patients at the same in VSE, which was possible in VetLink. For example, having multiple windows open would allow them to check a patient in that’s at the counter, while updating another patient’s information that’s currently on hold on the phone.
+- One staff member who monitors clinical operations at a few clinics would like the ability to group clinics together, then sort by appointment time within each group in VSE CS’s Workflow List. 
+- New appointments that are created in VSE for walk-ins are not consistently appearing in VSE CS.
+
+## Secondary Findings
+
+- MSAs report PCI feedback to clinic supervisors or Health Administration Services (HAS) trainers. 
+- One Veteran received a system not operational message from CHIP, but also received a second message with a link to start their check-in. This occurred at the clinic that was still using VetLink for checking patients in. 
+- One Veteran on an Android device scanned the QR code, but it did not populate “check in” into the message field.
+- A Veteran checking in who didn’t realize their appointment was scheduled for later in the day wasn’t clear why they were receiving the following response from CHIP: Our records show that you have an appointment today. You can check in up to 30 minutes before your appointment. Try again later. 
+- One Veteran, who turned out to be late for their appointment, couldn’t understand why they were receiving the following response from CHIP: We're sorry. We can't check you in online. Ask a staff member for help.
+- When a Veteran needed their health insurance reviewed, they thought something was wrong when reading the response from CHIP, which lead with, “We’re sorry…”
 
 # Recommendations
 
