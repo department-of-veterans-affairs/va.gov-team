@@ -67,5 +67,5 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
   - Partipicates either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
 
-    > Quote (if relevant)
+
 
