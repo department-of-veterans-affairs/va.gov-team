@@ -8,15 +8,11 @@ Date: 07/11/2022
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#hypotheses-and-conclusions)
-
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#key-findings)
-
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#recommendations)
-
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#who-we-talked-to)
-
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#further-research-needed)
+- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#hypotheses-and-conclusions)
+- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#key-findings)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#recommendations)
+- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#who-we-talked-to)
+- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#further-research-needed)
 
 # Research Goals
 _First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
@@ -27,8 +23,7 @@ _Then, describe your goals for this research_
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
 
 
-
-# Research Questions
+# Research Questions ✅
 
 * Will Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center?
 * Will participants notice and understand the informational alert?
@@ -45,8 +40,6 @@ Includes task flows from specific starting points:
 * [Lovell TRICARE beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395168/simulate/no-panels)
 * [VA Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395164/simulate/no-panels) 
 * [TRICARE Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395169/simulate/no-panels)
-
-Particiants overview
 
 # Hypotheses and Conclusions
 
