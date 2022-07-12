@@ -14,6 +14,7 @@
 
 ## July 12, 2022
 
+- 988 phone number
 - Review Facilities Q3 priorities
 - Coordination for Lovell
 - Training to edit Centralized content 
