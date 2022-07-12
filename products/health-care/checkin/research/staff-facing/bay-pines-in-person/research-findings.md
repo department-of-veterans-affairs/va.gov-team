@@ -71,13 +71,21 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 # Hypotheses and Conclusions
 
 1. The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed.
+     1. LIKELY TRUE: It's likely that the speed of check-ins with VSE are quicker when contact information, emergency contact information and next of kin information is verified with pre-check-in. However, we did not collect enough information to validate. 
 1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
+     1. DEFINITELY FALSE: Most Veterans do not see the check-in poster in the clinics. Therefore, they're waiting in line to speak with the MSA, often with their VA ID in hand.
 1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
+     1. DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in.
 1. MSAs will have shorter lines of Veterans waiting to be checked in.
+     1. LIKELY FALSE: PCI utilization was very low in the clinics. Therefore, the line to get checked in with an MSA was not affected. However, when a line is present, a few Veterans would see the check-in poster and begin mobile check-in.
 1. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased.
+     1. DEFINITELY FALSE: Many MSAs expressed frustration that the amount of applications they use have increased from moving away from VetLink. In addition, some MSAs have to rely on other staff to make updates in VistA, which hampers the process of keeping Veterans’ information up to date. 
 1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
+     1. MAYBE TRUE: We did not observe any MSAs troubleshooting error messages within the Veteran check-in experience. Instead, MSAs would start the manual check-in process in VSE, which helped skip potential friction with troubleshooting error messages.
 1. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended.
+     1. MAYBE TRUE: Most communication was frictionless with some MSAs even reporting that clinics are not using Teams to tell clinicians that their patients have arrived. However, MSAs reported a handful of issues with the staff-facing applications that affect communication. E.g., no shows not working correctly, walk-ins not working correctly, better notifications, etc.   
 1. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing.
+     1. LIKELY TRUE: Travel clerks thought the workflow was optimal for Veterans. However, they brought up scenarios that may require further investigation. E.g., community care appointments, filing once per visit, etc.  
 
 # Key Findings
 
