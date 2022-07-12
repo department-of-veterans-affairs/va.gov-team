@@ -12,6 +12,8 @@ body:
         3. Add the label used by your team (eg: `BAH-526`)
         4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         5. When the issue is closed you will be notified and can continue with on-boarding setup
+        
+        This issue can also be used to update existing access, including updating ssh-keys or changing the access type group you are in. 
   - type: input
     id: requestor-name
     attributes:
