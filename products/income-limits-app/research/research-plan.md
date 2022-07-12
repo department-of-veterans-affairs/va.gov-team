@@ -76,8 +76,6 @@ Interviews will take place remotely to ensure participation by Veterans from a d
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
 	
 ## Recruitment	
-[Inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
-
 ### Recruitment approach
 Intended audience is Veterans and recruitment is through Perigean. 
 
