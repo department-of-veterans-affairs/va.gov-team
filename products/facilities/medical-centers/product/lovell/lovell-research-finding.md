@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Medical Centers, Facilities Team**
 
-**Researchers:** Valerie Runde [email], Dave Pickett [email]
+**Researchers:** Valerie Runde [valerie.runde@civicactions.com](mailto:valerie.runde@civicactions.com), Dave Pickett [dave.pickett@civicactions.com](mailto:dave.pickett@civicactions.com)
 
 Date: 07/11/2022
 
