@@ -95,13 +95,11 @@ Let’s start with a few questions...
 1. Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
 
 ## Tasks
-*(Note: There are a lot of tasks, but each participant will be asked to do a **subset** of them based on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session.)*
-
 Now I'm going to ask you to do a number of things that you may or may not have done before. For each task, I will stop you at a point when I feel like we've done enough, and I won't ask you to sign in.
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-### Screen sharing
+## Screen sharing
 I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
 
 While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
@@ -113,6 +111,56 @@ Do you see the link?
 
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
+
+## Overview of Tasks
+Each participant will be asked to do a **subset** of the 20 tasks detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session.  
+
+<details>
+  <summary>Click to see the list of ALL tasks and when to ask them</summary>
+
+IF HAVEN'T USED EDUCATION BENEFITS…
+- Task 1: [Learn about or apply for education benefits]
+- Task 2: [Compare VA education benefits and rates by school]
+
+IF HAVEN'T USED DISABILITY BENEFITS...
+- Task 3: [Learn about or file for disability compensation (service-related)]
+- Task 20A: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK*
+  
+IF HAVE USED DISABILITY BENEFITS...
+- Task 4: [File for a VA disability increase]
+- Task 20B: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK*
+- Task 5A: [View your payment history]
+- Task 6A: [Check the current disability compensation rates]
+
+IF HAVE USED EDUCATION BENEFITS...
+- Task 5B: [View your payment history] -- *SKIP if did task 5A*
+- Task 7: [Check or update your current education benefits]
+
+FOR EVERYONE
+- Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
+- Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
+- Task 9: [Get your VA medical records]
+
+IF HAVE VA HEALTH CARE...
+- Task 10: [Message your doctor or get a health care message]
+- Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
+- Task 20C: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK & HAVEN'T DONE TASK 20 BEFORE*
+
+IF DON'T HAVE VA HEALTH CARE...
+- Task 12: [Learn about or apply for VA health care]
+- Task 20D: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK & HAVEN'T DONE TASK 20 BEFORE*
+
+FOR EVERYONE
+- Task 13: [Get letters about your VA benefits and service history (benefit letters)]
+- Task 14: [Review or update your dependents]
+- Task 15: [Update your contact information with VA]
+- Task 16: [Find a mental health counselor or therapist]
+- Task 17: [Learn in advance if eligible for burial in a VA cemetery]
+- Task 18: [Apply for a home loan Certificate of Eligibility (COE)]
+- Task 19: [Request your military records (DD214)]
+    
+</details>
+
 
 ### IF HAVEN'T USED EDUCATION BENEFITS...
 
