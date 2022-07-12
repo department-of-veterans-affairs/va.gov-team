@@ -39,31 +39,38 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
   - Most stated that a copay could be a debt. Five participants stated that debt was an overpayment from VA. One participant stated that defining it as copay causes him to not consider it debt. 
 
 
+3. **Participants defined bills as similar to debt, as money owed**
 
-3. **Most participants did not have issues navigating from copays to debts**
+  - Participants stated that a bill could be for a copay or debt and thought of it as a statement for money owed.
+  
+    > Bills being a request for me to pay my liable for my debt to the VA. 
 
-   - Participants located the breadcrumb to navigate to the summary page where they were able to view all of their copays and debts.
 
 
-4. **Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay**
+4. **Most participants did not have issues navigating from copays to debts**
 
-  - Some selected 'View Payment History' under Disability or Education "because it says 'payment'". There is a link near the footer of the [Payment History page](https://www.va.gov/va-payment-history/) to Manage your VA debt.
+  - Participants were able to navigate to the summary page where they were able to view all of their copays and debts. However, most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it. 
+
+
+5. **Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay**
+
+  - Some selected 'View Payment History' under Disability or Education "because it says 'payment'". There is a link near the footer of the [Payment History page](https://www.va.gov/va-payment-history/) to Manage your VA debt that several participants located.
   - Some utilized the search feature and entered terms such as: "debt" and "copay".
 
     > "I would go under records I would assume. I don’t see any other links under it that would show. Well under disability it says see payment history. Under education I see look at your payment history. I would just click on one of the ones that says payment and see where it would take me."
 
 
-5. **Most participants were able to locate how to request financial help**
+6. **Most participants were able to locate how to request financial help**
 
   - If they were not able to find it, they were able to quickly locate the number to call for assistance.
 
 
-6. **Most participants were able to locate how to view statements**
+7. **Most participants were able to locate how to view statements**
 
   - Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail.
 
 
-7. **Most participants were able to locate how pay their debt/copay**
+8. **Most participants were able to locate how pay their debt/copay**
 
   - Partipicates either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
 
