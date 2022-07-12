@@ -66,7 +66,9 @@ In this research, we are primarily interested in the following areas of the home
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
-wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign.
+wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
+
+Participants will be asked to complete a set of tasks based on which VA benefits they have experience with, based on their responses to some VA benefits questions at the beginning of the session. Each participant will do a subset of the full list of tasks in the conversation guide.
 
 
 ### Research materials
