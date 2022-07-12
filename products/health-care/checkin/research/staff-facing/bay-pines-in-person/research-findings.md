@@ -31,26 +31,27 @@ The patient check-in (PCI) product is reimagining the ecosystem that allows a Ve
 
 Our goal for this research is to utilize our [baseline research plan for the St. Louis pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-plan.md) to evaluate pre-check-in and check-in at additional VAMCs. In addition, the Modernized Check-In Team is building off of the [beneficiary travel research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104) that is pointing to a potential solution that integrates travel reimbursement with check-in. Specifically, we’re looking to accomplish the following:
 
-- Evaluate effectiveness of check-in and pre-check-in experiences with Veterans and staff. 
-- Identify strengths, pain points and opportunities for improvements within the PCI ecosystem. 
-- Understand how, if at all, MSAs are using VSE CS. 
-- Gain insights into understanding the optimal experience for incorporating travel reimbursement into PCI for Veterans.* 
+- Evaluate the effectiveness of pre-check-in and check-in with MSAs
+- Identify strengths, pain points and opportunities for improvement within the check-in ecosystem
+- Understand how, if at all, MSAs are using VSE-CS
+- Gain insights on understanding the optimal experience for incorporating travel reimbursement into the check-in experience for Veterans* 
 
 '* The Beneficiary Travel Reimbursement Path Analysis Team identified the check-in product as a recommended access point for Veterans to file for travel reimbursement, among other recommendations.
 
 # Research Questions
 
-- How often are Veterans using pre-check-in?
-- Do Veterans assume they still have to do day-of check-in when pre-check-in is complete?
 - What’s working and not working with pre-check-in and check-in?
 - What changes could help improve the check-in process?
 - How often are MSAs interacting with Veterans during the check-in process?
 - Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in?
+- What’s been the impact on MSA workload?
 - How often are MSAs troubleshooting errors or clearing review flags?
+- How comfortable are MSAs troubleshooting errors or clearing review flags?
 - What are the issues that MSAs are helping Veterans troubleshoot?
+- What changes in MSA to clinician communication for check-in have changed?
+- What changes to check-in can help improve MSA to clinician communication for check-in?
+- Are MSAs using VSE-CS? If so, how is it being used and why is it being used?
 - How do Veterans feel about pre-check-in and check-in?
-- Are Veterans able to use the check-in poster?
-- What would Veterans call this process?
 - When do Veterans expect to complete a travel reimbursement claim in relation to their appointment?
 - What steps should a Veteran have to complete for filing a travel reimbursement claim?
 - What steps could be removed from the existing BTSSS process to make it easier for Veterans to file a claim?
@@ -69,30 +70,14 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 
 # Hypotheses and Conclusions
 
-1. Veterans who use pre-check-in are able to complete the required steps.
-     1. NOT ENOUGH INFORMATION: Not enough information captured.  
-1. Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment.
-     1. LIKELY FALSE: Some Veterans conflate pre-check-in and check-in. E.g., Veterans that complete pre-check-in think they've completed check-in, which results in staff not being aware the Veteran has arrived for their appointment.  
-1. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
-     1. NOT ENOUGH INFORMATION: Not enough information captured.  
+1. The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed.
 1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
-     1. DEFINITELY FALSE: Most Veterans do not see the check-in poster in the clinics. Therefore, they're waiting in line to speak with the MSA, often with their VA ID in hand. 
 1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
-     1. DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in. 
 1. MSAs will have shorter lines of Veterans waiting to be checked in.
-     1. LIKELY FALSE: PCI utilization was very low in the clinics. Therefore, the line to get checked in with an MSA was not affected. However, when a line is present, a few Veterans would see the check-in poster and begin mobile check-in. 
+1. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased.
 1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-     1. MAYBE TRUE: We did not observe any MSAs troubleshooting error messages within the Veteran check-in experience. Instead, MSAs would start the manual check-in process in VSE, which helped skip potential friction with troubleshooting error messages.  
-1. Veterans will indicate that check-in does not affect their care experience.
-     1. MAYBE TRUE: We did not encouter any Veterans who had a negative experience with PCI. However, some Veterans prefer the VA-owned kiosks because the screen is larger and easier to see.  
-1. Veterans are able to use the check-in poster without friction.
-     1. DEFINITELY TRUE: 16/17 participants were able to use the check-in poster. One participant ran into an issue with the QR code not working as intended. 
-1. Veterans refer to the process as “check in” or “mobile check in.”
-     1. NOT ENOUGH INFORMATION: Not enough information captured. However, some Veterans did describe it as "check-in."   
-1. Veterans are called for their appointment once check-in is complete.
-     1. LIKELY TRUE: Veterans who we observed using mobile check-in were updated in VSE. However, we did hear from MSAs that some issues exist with manually creating walk-in appointments. 
-1. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
-     1. NOT ENOUGH INFORMATION: One Veteran explained how difficult it is to file a claim with Beneficiary Travel Self-service System (BTSSS) and get it approved. He said that he was close to giving up on filing claims since none of his claims get approved or reviewed very quickly. He thought that adding travel reimbursement during check-in would be ideal compared to the existing process with BTSSS. 
+1. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended.
+1. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing.
 
 # Key Findings
 
