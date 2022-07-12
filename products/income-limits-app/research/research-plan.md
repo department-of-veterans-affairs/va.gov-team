@@ -8,7 +8,7 @@ However, there are multiple issues with the existing application, which lacks:
 - Plain language
 - Clearly defined use cases, usability design, and testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use
 
-How might we rebuild and modernize this application using clearly defined Veteran use cases to better align with Veterans' needs to understand their VA benefit eligibility as it relates to income, location, and dependent information?
+How might we rebuild and modernize this application using clearly defined Veteran use cases to better align with Veterans' needs?
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/product-outline.md)
 
