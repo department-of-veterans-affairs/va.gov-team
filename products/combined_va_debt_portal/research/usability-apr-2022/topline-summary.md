@@ -69,9 +69,9 @@ This topline summary is a high level, top of mind summary of trends found in the
   - Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail.
 
 
-8. **Most participants were able to locate how pay their debt/copay**
+8. **Most participants were able to locate how to pay their debt/copay**
 
-  - Partipicates either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
+  - Participants either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
 
 
 
