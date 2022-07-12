@@ -43,28 +43,28 @@ Age:
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
+* High school degree or equivalent: 1
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 4
+* Bachelor's degree: 2
+* Master's degree: 1
+* Doctorate degree: 1
 
 
 
 Geographic location:
-* Urban: x
-* Rural: x
+* Urban: 9
+* Rural: 2
 
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 9
+* Black: 1
+* Hispanic: 3
+* Biracial: 1
+* Asian: 0
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
@@ -92,4 +92,4 @@ _List all groups in red from the spreadsheet_
 * Expat (living abroad)
 * Users of Assistive Technology other than hearing aids
 
-<img src="usability-apr-2022/recruitment-checker-for-equality.png" width="400">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/recruitment-checker-for-equality.png" width="400">
