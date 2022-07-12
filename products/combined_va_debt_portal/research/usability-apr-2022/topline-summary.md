@@ -36,15 +36,23 @@ This topline summary is a high level, top of mind summary of trends found in the
 2. **Participants defined debt as money owed, usually through overpayment from VA**
 
   - Most stated that a copay could be a debt. Five participants stated that debt was an overpayment from VA. One participant stated that defining it as copay causes him to not consider it debt. 
+   
+    > "Bill is something that is due now. Debt is money you owe, debt is something you owe from the past."
+    
+    > "Debt is an overpayment that I owe them back."
 
 
-3. **Participants defined bills as similar to debt, as money owed**
+3. **Most participants defined bills as similar to debt, as money owed**
 
   - Participants stated that a bill could be for a copay or debt and thought of it as a statement for money owed.
   
-    > Bills being a request for me to pay my liable for my debt to the VA. 
-
-
+    > "Bills being a request for me to pay my liable for my debt to the VA."
+    
+  - Some participants had more nuanced definitions of the term 'bill'.
+  
+    > "A bill is: I am being shown what has been paid and what I may owe. It does necessarily mean I owe money."
+    
+    > "A bill is a debt that I incurred. An overpayment is a debt that was forced upon me by the VA." 
 
 4. **Most participants did not have issues navigating from copays to debts**
 
@@ -72,6 +80,11 @@ This topline summary is a high level, top of mind summary of trends found in the
 8. **Most participants were able to locate how to pay their debt/copay**
 
   - Participants either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
+
+9. **Most participants did not have issues navigating from copays to debts and vice versa**
+  - Most participants did not have both debts and copays and began on the summary page, not the copay page that contains the "Your other VA bills" link. Of the few who started their journey on the copay or debt page, all were able to navigate to the debt or copay page either via breadcrumbs or the "Your other VA bills" link. One user noted that that the "Your other VA bills" link was hidden.
+  
+   > "Almost like they don't want people to pay their copay." 
 
 
 
