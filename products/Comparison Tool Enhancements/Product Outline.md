@@ -127,7 +127,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Product POCs: Abe Blanco, Manish Sha, Mitch Livingstone
 
   
-  @mrblanco1 for awareness
+@mrblanco1 , @MitchLivingstone , @af-manish for awareness!
 
 </details>
 
