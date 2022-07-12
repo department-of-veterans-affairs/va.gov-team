@@ -150,5 +150,5 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 VA Education
  
- - Stakeholders: Bria Grubb, Michael Napper, Darla VanNieukerk
+ - Stakeholders: Brian Grubb, Michael Napper, Darla VanNieukerk
  
