@@ -7,7 +7,7 @@
 
 Date: 07/12/2022
 
-Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Lori Pusey [[lori.pusey@agile6.com](mailto:lori.pusey@agile6.com)], 
+Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Lori Pusey [[lori.pusey@agile6.com](mailto:lori.pusey@agile6.com)]
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/PCI%20Bay%20Pines%20Research%20Report.pdf)
 
