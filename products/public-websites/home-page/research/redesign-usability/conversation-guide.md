@@ -95,6 +95,8 @@ Let’s start with a few questions...
 1. Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
 
 ## Tasks
+*(Note: There are a lot of tasks, but each participant will be asked to do a **subset** of them based on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session.)*
+
 Now I'm going to ask you to do a number of things that you may or may not have done before. For each task, I will stop you at a point when I feel like we've done enough, and I won't ask you to sign in.
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
