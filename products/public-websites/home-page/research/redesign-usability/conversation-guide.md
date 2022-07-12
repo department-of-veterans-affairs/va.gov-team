@@ -113,10 +113,12 @@ I would like you to share your screen with me--a web browser please. You might w
 - *(refer to Screen sharing instructions above, if needed)*
 
 ## Overview of Tasks
-Each participant will be asked to do a **subset** of the 20 tasks detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session.  
+Each participant will be asked to do a **subset** (probably no more than 9) of the 20 tasks detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session. The goal is for each of the 20 tasks to be done by at least 4 participants (and hopefully more).
 
 <details>
   <summary>Click to see the list of ALL tasks and when to ask them</summary>
+  
+I'll be keeping track of how many participants complete each task and will make note of which ones need to get prioritized in subsequent sessions. If I'm unable to find enough participants that meet the benefit qualification below (in CAPS) for a particular task, the backup plan is to ask any participant to do that task.
 
 IF HAVEN'T USED EDUCATION BENEFITS…
 - Task 1: [Learn about or apply for education benefits]
