@@ -73,12 +73,7 @@ Semi-structured interviews to guide Veteran through a chronological re-telling o
 Interviews will take place remotely to ensure participation by Veterans from a diverse range of geographical locations. Zoom is preferred video conferencing software.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
 	
 ## Recruitment	
 
