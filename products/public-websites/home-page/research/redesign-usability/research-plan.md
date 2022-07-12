@@ -150,12 +150,12 @@ August 9, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:	Cindy Merrill
+- Research guide writing and task development:	Cindy Merrill *(note that I'll be on PTO July 14-25; back on July 26)*
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill 
-- Participants for pilot test:	TBD
+- Participants for pilot test:	TBD, Angela Fowler
 - Note-takers:	Perigean
-- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov)
+- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov). *For only sessions with assistive technology: Angela Fowler (angela.fowler@adhocteam.us)*
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on XXX, 2022
