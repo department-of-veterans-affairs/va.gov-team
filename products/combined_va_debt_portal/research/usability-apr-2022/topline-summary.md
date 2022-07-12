@@ -9,7 +9,7 @@
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md)
 
-[link interview transcripts]()
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/notes)
 
 
 
