@@ -89,27 +89,24 @@ All participants will have responded:
 2. "Health care benefits" to question 23 of the recruitment survey: "Which VA benefits or services do you have experience with?"
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
-
 1. Year received first VA benefit
-- At least x participants: within the past 3 years
-- Is it possible to find out if people have re-applied for benefits after the first time?
+- At least 7 participants: within the past 3 years
 
 2. How applied for first VA benefit
-- At least x participants: On my own, on paper
-- At least x participants: On my own, online
-- At least x participants: On my own, in person
-- At least x participants: With the help of a VSO or With the help of a transition service officer at Department of Defense
-- At least x participants: With the help of a fellow veteran
-- At least x participants: Other
+- At least 1 participants: On my own, on paper
+- At least 2 participants: On my own, online
+- At least 1 participants: On my own, in person
+- At least 1 participants: With the help of a VSO or With the help of a transition service officer at Department of Defense
+- At least 1 participants: With the help of a fellow veteran
+- At least 1 participants: Other
 
 3. How often go online to access VA benefits and services
-- At least x participants: Never
-- At least x participants: Once per year or less, or once per quarter
-- At least x participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
+- At least 2 participants: Never
+- At least 2 participants: Once per year or less, or once per quarter
+- At least 3 participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
 
 Additional screening questions:
-1. Have you applied for healthcare benefits *more than once*?
+1. Have you applied for healthcare benefits *more than once*? [answer should be yes to qualify.]
 2. 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
@@ -122,8 +119,6 @@ What criteria would strengthen your results?
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
 * Date and time of pilot session: 
@@ -132,7 +127,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
+* Session length: up to 1 hour
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 
 ### Availability
@@ -142,11 +137,11 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Moderator: Florence McCafferty, florence.mccafferty@agile6.com, (315) 751-2796	
+- Research guide writing and task development: Florence McCafferty	
+- Participant recruiting & screening: Perigean	
+- Project point of contact: Wes Rowe, wesley.rowe@agile6.com	
 - Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
+- Note-takers: Perigean	
+- Observers: Dave Conlon, Wes Rowe, Jill Adams	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
