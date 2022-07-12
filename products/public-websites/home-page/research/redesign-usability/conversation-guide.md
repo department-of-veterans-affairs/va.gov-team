@@ -213,7 +213,7 @@ You're thinking about taking a few more college classes. How would you find out 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-### FOR EVERYONE
+### FOR EVERYONE...
 
 #### Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
 You'd like to see VA's current disability compensation rates. How would you find this?
@@ -294,7 +294,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-### FOR EVERYONE
+### FOR EVERYONE...
 
 #### Task 13: [Get letters about your VA benefits and service history (benefit letters)]  
 - Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
