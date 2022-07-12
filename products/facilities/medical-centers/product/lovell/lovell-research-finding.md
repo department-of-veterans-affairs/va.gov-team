@@ -38,12 +38,27 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Methodology 
 
-_Brief description of method chosen_
+* Usability testing
+* We did not test with screen readers because the designs are in UXPin, the design has been reviewed by the collaboration cycle, and the foundation of the VAMC pages have already been tested
+* Not testing on mobile because the VAMC pages have already been tested on mobile during the VAMC redesign testing
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+Includes task flows from specific starting points:
+* [Lovell VA beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395163/simulate/no-panels) 
+* [Lovell TRICARE beneficiary system page](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395168/simulate/no-panels)
+* [VA Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395164/simulate/no-panels) 
+* [TRICARE Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395169/simulate/no-panels)
 
+Particiants overview
 
 # Hypotheses and Conclusions
+
+We already know that Veterans are familiar with a location experience that does not separate out locations by type of beneficiary.
+We already know that research has been conducted on the existing VAMC experience.
+
+* Veterans and dual-eligible Veterans will be able to identify whether the page they are on is for VA or TRICARE health care beneficiaries.
+* The informational alerts helps Veterans and dual-eligible Veterans understand whether they're viewing VA or TRICARE health information, and to navigate to the other experience, if desired.
+
+Veterans are familiar with a location experience that does not separate the experience by beneficiary, but they will be able to identify which health care they need and where they can find it.
 
 _Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
