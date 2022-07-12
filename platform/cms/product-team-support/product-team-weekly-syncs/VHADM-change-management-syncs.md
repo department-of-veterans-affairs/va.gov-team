@@ -12,11 +12,15 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
+## July 12, 2022
+
+- Review Facilities Q3 priorities
+- Coordination for Lovell
+- Training to edit Centralized content 
+
 ## June 29, 2022
 
-Training to edit Centralized content 
-
-Q3 priorities
+Cancelled
 
 ## June 15, 2022
 
