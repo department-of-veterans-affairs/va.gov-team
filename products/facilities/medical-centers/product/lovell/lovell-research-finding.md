@@ -4,7 +4,7 @@
 
 **Researchers:** Valerie Runde [email], Dave Pickett [email]
 
-<br>
+Date: 07/11/2022
 
 **Jump to:**
 
@@ -32,14 +32,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* Will Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center?
+* Will participants notice and understand the informational alert?
+* Will dual-eligible Veterans understand when to use the VA health care experience vs. the TRICARE health care experience?
 
 # Methodology 
 
