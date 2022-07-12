@@ -71,8 +71,18 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 
 # Hypotheses and Conclusions
 
-1. Veterans should be able to successfully complete pre-check-in from the comfort of their homes. Veterans will correctly assume that they still need to complete mobile check-in even if they completed pre-check-in. The pre-check-in experience improves the staff experience, since they need to review contact, next of kin and emergency contact information with fewer Veterans.<br>
-    1. NOT ENOUGH INFORMATION: Most Veterans we spoke with did not complete pre-check-in. Therefore, there wasn't enough information to determine ease of use or perceptions about how it's related to check-in. However, staff said that when Veterans complete pre-check-in, it creates a more seamless check-in experience on the day of the appointment.  
+1. Veterans who use pre-check-in are able to complete the required steps.
+1. Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment.
+1. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed.
+1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
+1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
+1. MSAs will have shorter lines of Veterans waiting to be checked in.
+1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
+1. Veterans will indicate that check-in does not affect their care experience.
+1. Veterans are able to use the check-in poster without friction.
+1. Veterans refer to the process as “check in” or “mobile check in.”
+1. Veterans are called for their appointment once check-in is complete.
+1. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
 
 # Key Findings
 
