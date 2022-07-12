@@ -84,15 +84,17 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 12 total Veterans to be recruited as participants for this study. 
 
+
+
+**Primary criteria (must-haves)**
 All participants will have responded:
 1. "Yes" or "I don't know" to question 22 of the recruitment survey: "Do you currently receive any VA benefits or services?
 2. "Health care benefits" to question 23 of the recruitment survey: "Which VA benefits or services do you have experience with?"
 
-**Primary criteria (must-haves)**
-1. Year received first VA benefit
+3. Year received first VA benefit
 - At least 7 participants: within the past 3 years
 
-2. How applied for first VA benefit
+4. How applied for first VA benefit
 - At least 1 participants: On my own, on paper
 - At least 2 participants: On my own, online
 - At least 1 participants: On my own, in person
@@ -100,14 +102,14 @@ All participants will have responded:
 - At least 1 participants: With the help of a fellow veteran
 - At least 1 participants: Other
 
-3. How often go online to access VA benefits and services
+5. How often go online to access VA benefits and services
 - At least 2 participants: Never
 - At least 2 participants: Once per year or less, or once per quarter
 - At least 3 participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
 
 Additional screening questions:
-1. Have you applied for healthcare benefits *more than once*? [answer should be yes to qualify.]
-2. 
+6. Have you applied for healthcare benefits *more than once*? [answer should be yes to qualify.]
+7. 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
