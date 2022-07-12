@@ -42,7 +42,7 @@ There are a few of my teammates who would like to watch this session. **Would it
 
 *(For sessions with a participant using a screen reader:)* Angela is also in this meeting to help with any technical issues that may arise with your use of a screen reader during this session.
 
-Today we're going to talk about some things that you might do with the VA.
+Today I'm going to be asking you some questions about your experiences with the VA, and then I'll ask you to do some specific tasks using a website that I will share with you.
 
 Before we start, I want to go over a few things:
 
@@ -159,8 +159,8 @@ Your hearing loss from your time in the military has gotten worse over the last 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+#### Task 5A: [View your payment history]
+How would you check the amount of your current disability compensation?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -168,8 +168,8 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+#### Task 6A: [Check the current disability compensation rates]
+You recently applied for an increase in your disability rating and wonder how it might affect your payment amount. How would you check the currently compensation rates?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -177,8 +177,10 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+### IF *HAVE* USED EDUCATION BENEFITS...
+
+#### Task 5B: [View your payment history] -- *SKIP if did task 5A*
+How would you see the amount of money last sent to your school?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -186,8 +188,8 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+#### Task 7: [Check or update your current education benefits]
+You're thinking about taking a few more college classes. How would you find out how much GI Bill money you have left?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -195,8 +197,10 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+### FOR EVERYONE
+
+#### Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
+You'd like to see VA's current disability compensation rates. How would you find this?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -204,8 +208,8 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+#### Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
+I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -213,8 +217,8 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
+#### Task 9: [Get your VA medical records]
+You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
@@ -222,93 +226,42 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
+### IF *HAVE* VA HEALTH CARE...
 
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task X: [task]
-User task
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-#### Task 1: [Find a VA location]
-
-- I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
-- *RECORD navigation* 
-    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
-    - What do you expect to see next?
-
-- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
-- *RECORD task success: yes / no / help needed*
-
-### Task X: [IF HAVE VA HEALTHCARE: Message doctor] 
+### Task 10: [Message your doctor or get a health care message] 
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
-       
    
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
 
-### Task X: [Get benefit letter]  
+#### Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
+You recently traveled a long way for a doctor's appointment at the VA. How could you find out if the VA will cover your travel expenses? 
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
 
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+### IF *DON'T* HAVE VA HEALTH CARE...
+
+#### Task 12: [Learn about or apply for VA health care]
+A new VA health clinic just opened near you, and you might want to see a doctor there. How would you learn about VA health care?
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+### FOR EVERYONE
+
+### Task 13: [Get letters about your VA benefits and service history (benefit letters)]  
 - Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
@@ -317,24 +270,70 @@ User task
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-### Task X: [Get medical records] 
-
-- You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
+### Task 14: [Review or update your dependents] 
+- Say that you just got married. How would you tell the VA about your new spouse?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
 
-### Task X: [Update dependents] 
-
-- Say that you just got married. How would you tell the VA about your new spouse (because it might increase your disability compensation)?
+#### Task 15: [Update your contact information with VA]
+You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this?
 - *RECORD navigation* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
+
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
-  
+
+#### Task 16: [Find a mental health counselor or therapist]
+Recent news stories have affected you more than you expected, and you want to talk to a therapist or counselor about how you're feeling.  How would you do this?
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+#### Task X: [task]
+User task
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+#### Task X: [task]
+User task
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+#### Task X: [task]
+User task
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+#### Task X: [task]
+User task
+- *RECORD navigation* 
+    - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
+    - What do you expect to see next?
+
+- How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
+- *RECORD task success: yes / no / help needed*
+
+
+
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
