@@ -1,53 +1,69 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Public Websites, Income Limits App, June 2022
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the income limits for VA National medical benefits and prescriptions based on location and number of dependents. 
 
-[Link to product brief](url goes here).
+However, there are multiple issues with the existing application, which lacks:
+- Reliably accurate data
+- Plain language
+- Clearly defined use cases, usability design, and testing to ensure that it is aligned to Veteran needs and is intuitive for Veterans to use
+
+How might we rebuild and modernize this application using clearly defined Veteran use cases to better align with Veterans' needs to understand their VA benefit eligibility as it relates to income, location, and dependent information?
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/product-outline.md)
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This research aligns with the following [OCTO Objectives]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme))
+
+North Stars:
+1. Increase the usage and throughput of VA services
+2. Decrease the time Veterans spend waiting for an outcome
+3. Increase the quality and reliability of VA services
+
+Goals:
+
+5. Veterans and their families can find a single, authoritative source of information
+7. Veterans and their families trust the security, accuracy, and relevancy of VA.gov
+
+Increase:
+- Usage of digital, self-service tools
+- Percent of applications submitted online (maybe, if we can help Veterans move from this tool to online application)
+- Benefit use and enrollment
+- Veteran satisfaction with VA.gov
+
+Decrease:
+- Call center volume, wait time, and time to resolution
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+What are Veteran use cases for determining eligibility for VA National medical benefits and prescriptions?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Learnings will inform redesign of the application, taking into account context surrounding Veteran use cases to make the application experience as intuitive and seamless as possible.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- What events drive a Veteran to consider their eligibility for medical benefits and prescriptions?
+- How do Veterans first determine eligibility for medical benefits and prescriptions? 
+- Then, how do Veterans determine eligibility again after a life event (i.e. marriage, having a child, relocating, retirement) changes their circumstances?
+- What problems do Veterans encounter when trying to determine eligibility?
+- What do Veterans need to do after they understand their eligibility?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+What do you already know about this problem space? 
+- I know nothing/very little about this problem space.
+- As of 2016, about 60% of Veterans are eligible for VA care and fewer than half of those eligible use VA health benefits. [Source.](https://www.rand.org/pubs/periodicals/health-quarterly/issues/v6/n1/12.html) 
+
+What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+- Veterans will likely not know the current application exists, and the VA.gov may not be Veterans' go-to source of information around benefit eligibility.
+- Veterans with benefits will have worked with someone in person or over the phone to get help determining eligibility and applying for benefits.
+- Veterans may not be aware of when or how their eligibility for benefits was determined.
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Semi-structured interviews to guide Veteran through a chronological re-telling of experience(s) determining benefit eligibility
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
@@ -58,14 +74,7 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Interviews will take place remotely to ensure participation by Veterans from a diverse range of geographical locations. Zoom is preferred video conferencing software.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -96,12 +105,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+Intended audience is Veterans and recruitment is through Perigean. 
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
