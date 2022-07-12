@@ -17,7 +17,7 @@ This project transitioned teams in April 2022. It is currently managed by Facili
 - Research Readout
    - [Recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) password = *dGV.1I6 
    - [Slides](https://docs.google.com/presentation/d/1r5alvANBRUgN9t4KfzxUSFUgLbrjqCCcJS6_1zKmAmU/edit?usp=sharing)
-- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell#facilities-team-v2) (IN PROGRESS)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md) (IN PROGRESS)
    
 ### Implementation 
 - [Implementation Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9656)
