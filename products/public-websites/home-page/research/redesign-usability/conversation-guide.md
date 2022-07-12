@@ -118,7 +118,7 @@ Each participant will be asked to do a **subset (probably no more than 9) of the
 <details>
   <summary>Click to see the list of ALL tasks and when to ask them</summary>
   
-I'll be keeping track of how many participants complete each task and will make note of which ones need to get prioritized in subsequent sessions. If I'm unable to find enough participants that meet the benefit qualification below (in CAPS) for a particular task, the backup plan is to ask any participant to do that task.
+We will track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions. If we're unable to find enough participants that meet the benefit qualification below (in CAPS) for a particular task, the backup plan is to ask any participant to do that task.
 
 IF HAVEN'T USED EDUCATION BENEFITS…
 - Task 1: [Learn about or apply for education benefits]
