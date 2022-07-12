@@ -25,26 +25,28 @@ The purpose of this research is to **get user feedback on the redesigned VA.gov 
 This research will inform iterations to the home page redesign, the need for future research, and release decisions.
 
 ### Research questions
-*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they will be able to do that task (some tasks will require signing in).*
+*Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
 1. Are ALL participants able to easily and quickly complete tasks from the home page?
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
-3. Which parts of the home page do participants use to complete tasks and how?
+3. Which parts of the home page do participants use to complete tasks and how? Where do they go first?
     1. "Sign in or create account" button
     3. "Common tasks"
     4. The new search box (next to common tasks)
     5. "Other search tools" (next to common tasks)
-    6. Benefit hubs (below search and common tasks)
+    6. Benefit hubs (below search and common tasks)--Are they used at all?
     7. The main content of the page (between the header and footer)--Did they scroll all the way down the page?
     8. VAntage Point blog promo (below search and common tasks)
     9. Header (including Search, Sign in, VA Benefits and Health Care megamenu)
     10. Footer 
-1. Is there a difference between which parts of the page are used for browsing/learning *vs.* managing tasks?
-    1. Are the benefit hubs used? Only for browsing/learning?
+1. When do participants search (by typing into a box) *vs.* browse (clicking on links, like the benefit hubs)?
+    1. Are there differences between browsing/learning tasks *vs.* managing tasks?
+    2. Are there differences between people more *vs.* less familiar with VA benefits? 
 3. Is there anything that participants find unclear or confusing on the home page? 
     1. Other search tools?
 4. What are participants' expectations of the VAntage Point blog promo content?
     1. What content would be helpful to be there?
     2. How often should the content be refreshed?
+3. Where do participants typically go to get information and benefits from the VA? (i.e., search engine, VA.gov, call VA, etc.)
 
 ### Areas of focus
 In this research, we are primarily interested in the following areas of the home page as used in task completion:
@@ -63,12 +65,13 @@ In this research, we are primarily interested in the following areas of the home
 1. Participants understand where "other search tools" links will take them and what they will find there.
 1. A focused and prominently displayed VAntage Point blog promo increases participants' engagement with the content.
 1. Participants will scroll all the way down the home page to the footer (even if they don't look at links in the footer). 
+2. Most participants start with a search engine, not VA.gov.
 
 ## Method	
 We will conduct **remote moderated usability sessions via Zoom**. Participants will be asked a few questions about their past usage of the VA.gov site, and then will be given some **Veteran top tasks** (per findings from the Veteran Top Tasks Unmoderated Survey in June 2022) **as 
 wayfinding prompts** to explore the redesigned VA.gov home page on the Staging server. Some top tasks will be represented in the "common tasks" section of the redesigned home page, and others will not. For any tasks that were used in last year's baseline wayfinding research, task completion rates will be compared to assess the home page redesign. 
 
-Participants will be asked to complete a set of tasks based on which VA benefits they have experience with, based on their responses to some VA benefits questions at the beginning of the session. Each participant will do a subset of the full list of tasks in the conversation guide.
+Participants will be asked to complete some tasks based on which VA benefits they have experience with, per their responses to questions at the beginning of the session. Each participant will do a subset of the full list of tasks in the conversation guide. We will **track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions**. If we're unable to find enough participants that meet the benefit qualification for a particular task, the backup plan is to ask any participant to do that task.
 
 
 ### Research materials
@@ -85,17 +88,17 @@ Ask Perigean to recruit **28 Veterans, Veterans' caregivers, Veterans' family me
 - At least 3 are Veterans' caregivers
 - At least 2 are Veterans' family members
 - At least 2 are service members
-- 3 have NO experience with ANY VA benefit OR experience with ONLY ONE benefit *(see Additional Question #1 below)*
+- 3 have NO experience with ANY VA benefit OR experience with ONLY ONE VA benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
 - 4 have experience with health care and optionally with other VA benefits *(see Additional Question #1 below)*
 - 10 people who plan to use their desktop or laptop computer for the session
-- 10 people who plan to use their mobile device for the session *(IF the prototype is responsive enough to work on tablets and phones)*
+- 10 people who plan to use their mobile device for the session 
 - At least 7 people with a cognitive disability (e.g., TBI)
 - At least 7 people who are age 55 or older
 - At least 5 people 35 or under
 - At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
 - At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
-- ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
+- ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
   - During the session, are willing to share over Zoom a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
@@ -127,7 +130,7 @@ Ask Perigean to recruit **28 Veterans, Veterans' caregivers, Veterans' family me
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **July 27/28/29** with TBD
+- * Pilot #1: **July 27/28/29** with Angela Fowler (angela.fowler@adhocteam.us)
 - * Pilot #2: **July 27/28/29** with TBD
 
 ### Research sessions
@@ -152,14 +155,14 @@ August 9, 2022 | 12-1, 1:30-2:30, 4-5, 5:30-6:30, 7-8 pm
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:	Cindy Merrill *(note that I'll be on PTO July 14-25; back on July 26)*
+- Research guide writing and task development:	Cindy Merrill **(note that I'll be on PTO July 14-25; back on July 26)**
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill 
-- Participants for pilot test:	TBD, Angela Fowler
+- Participants for pilot test:	Angela Fowler, TBD
 - Note-takers:	Perigean
-- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Allison Lu (allison@cityfriends.tech), Wesley Rowe (wesley.rowe@agile6.com), Aslan French (aslan.french@civicactions.com), Dave Conlon (david.conlon@va.gov). *For only sessions with assistive technology: Angela Fowler (angela.fowler@adhocteam.us)*
+- Observers:	Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov). *For sessions with assistive technology: Angela Fowler (angela.fowler@adhocteam.us)* Other observers will need to sign up with Michelle Middugh so we can limit the number of observers per session. 
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on XXX, 2022
-- Reviewed and approved by Shane Strassberg on YYY, 2022
+- Reviewed and approved by Dave Conlon (PO) on July 12, 2022
+- Reviewed and approved by Shane Strassberg on TBD 2022
 
