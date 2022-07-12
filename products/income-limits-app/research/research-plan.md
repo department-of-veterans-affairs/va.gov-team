@@ -82,7 +82,7 @@ Intended audience is Veterans and recruitment is through Perigean.
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-X total Veterans to be recruited as participants for this study. 
+12 total Veterans to be recruited as participants for this study. 
 
 All participants will have responded:
 1. "Yes" or "I don't know" to question 22 of the recruitment survey: "Do you currently receive any VA benefits or services?
