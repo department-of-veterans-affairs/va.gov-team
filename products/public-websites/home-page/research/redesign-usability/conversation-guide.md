@@ -113,7 +113,7 @@ I would like you to share your screen with me--a web browser please. You might w
 - *(refer to Screen sharing instructions above, if needed)*
 
 ## Overview of Tasks
-Each participant will be asked to do a **subset** (probably no more than 9) of the 20 tasks detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session. The goal is for each of the 20 tasks to be done by at least 4 participants (and hopefully more).
+Each participant will be asked to do a **subset (probably no more than 9) of the 20 tasks** detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session. We would like **each of the 20 tasks to be done by at least 4 participants** (and hopefully more).
 
 <details>
   <summary>Click to see the list of ALL tasks and when to ask them</summary>
