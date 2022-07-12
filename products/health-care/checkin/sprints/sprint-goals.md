@@ -23,6 +23,8 @@
     - Complete
 - [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
     - Create wireframes
+- [Send Pre-Check-in Link via Email](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42620)
+    - Create content for SMS message(s)
 
 #### Engineering Sprint Goals (TENTATIVE)
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
@@ -47,6 +49,7 @@
     - [Reloading app routes to VA 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44113)
     - [Appointment start time interpreted as UTC in < es6 browsers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40027)
     - [Integrate vets-api with LoROTA new GET Endpoint before refreshing Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/31619)
+    - [Update List Semantics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44145)
         
 ## 6/29/2022
 
