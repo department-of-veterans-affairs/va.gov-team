@@ -23,6 +23,7 @@
 | Development| [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) | Blocked|| 2||| Waiting on CHIP work|
 | Development| [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135) | || ||| Need wireframes |
 | Development| [Send Pre-Check-in Link via Email](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42620) | || ||| Needs content |
+| Development| Edit Contact Information | || ||| Needs discussion |
 
 
 
