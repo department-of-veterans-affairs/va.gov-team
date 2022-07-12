@@ -29,47 +29,43 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Participants defined copays in relation to money owed for medical related expenses**
+1. **Participants defined copays in relation to money owed for medical related expenses**
 
-> "A copay is when you're paying whatever insurance doesn't cover for service that you had"
-
-
-**Participants defined debt as money owed, usually through overpayment from VA**
-
-- Most stated that a copay could be a debt. Five participants stated that debt was an overpayment from VA. One participant stated that defining it as copay causes him to not consider it debt. 
+   > "A copay is when you're paying whatever insurance doesn't cover for service that you had"
 
 
+2. **Participants defined debt as money owed, usually through overpayment from VA**
 
-**Most participants did not have issues navigating from copays to debts**
-
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
-
-> "If you are looking at debt you shouldn't have to click thru 4 or 5 pages to get to all the details."
+  - Most stated that a copay could be a debt. Five participants stated that debt was an overpayment from VA. One participant stated that defining it as copay causes him to not consider it debt. 
 
 
-**Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay**
 
-- Some selected 'View Payment History' under Disability or Education "because it says 'payment'". There is a link near the footer of the [Payment History page](https://www.va.gov/va-payment-history/) to Manage your VA debt.
-- Some utilized the search feature and entered terms such as: "debt" and "copay".
+3. **Most participants did not have issues navigating from copays to debts**
 
-> "I would go under records I would assume. I don’t see any other links under it that would show. Well under disability it says see payment history. Under education I see look at your payment history. I would just click on one of the ones that says payment and see where it would take me."
+   - Participants located the breadcrumb to navigate to the summary page where they were able to view all of their copays and debts.
 
 
-**Most participants were able to locate how to request financial help**
+4. **Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay**
 
-- If they were not able to find it, they were able to quickly locate the number to call for assistance.
+  - Some selected 'View Payment History' under Disability or Education "because it says 'payment'". There is a link near the footer of the [Payment History page](https://www.va.gov/va-payment-history/) to Manage your VA debt.
+  - Some utilized the search feature and entered terms such as: "debt" and "copay".
 
-> Quote (if relevant)
-
-**Most participants were able to locate how to view statements**
-
-- Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail.
+    > "I would go under records I would assume. I don’t see any other links under it that would show. Well under disability it says see payment history. Under education I see look at your payment history. I would just click on one of the ones that says payment and see where it would take me."
 
 
-**Most participants were able to locate how pay their debt/copay**
+5. **Most participants were able to locate how to request financial help**
 
-- Partipicates either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
+  - If they were not able to find it, they were able to quickly locate the number to call for assistance.
 
-> Quote (if relevant)
+
+6. **Most participants were able to locate how to view statements**
+
+  - Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail.
+
+
+7. **Most participants were able to locate how pay their debt/copay**
+
+  - Partipicates either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
+
+    > Quote (if relevant)
 
