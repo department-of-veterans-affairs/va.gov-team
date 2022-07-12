@@ -26,7 +26,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
 1. **Participants defined copays in relation to money owed for medical related expenses**
