@@ -15,13 +15,13 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)], Lori Pusey [
 
 **Jump to:**
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/research-findings.md#key-findings)
 
-[Recommendations](#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/research-findings.md#recommendations)
 
-[Who we talked to](#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/research-findings.md#who-we-talked-to)
 
 <br>
 
