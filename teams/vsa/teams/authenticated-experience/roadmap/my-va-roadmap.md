@@ -1,22 +1,22 @@
 # My VA roadmap
 
-**Updated May 4, 2022**
+**Updated July 12, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|Payments & Debts/copays V2| Design explorations|
-|My VA audit| Documentation|
+|Payments & Debts/copays V2|Midpoint review|
+|My VA redirect| Development|
+|My VA audit| On hold|
 
 ### Projected timelines for current projects
 
-|Project|Q4 2021|Q1 2022|Q2 2022|Q3 2022|Q4 2022
-|----|----|----|----|----|----|
-|**Add payments & financials section to My VA** |Scoping and planning; Design | Design/Research/Build/Pre-launch | Launch|-|-|
-|**Redirect from homepage to My VA at login**|-|-|Planning; Start phased launch of redirect ~1 month after Payments launch|-|-|
-|**Payments & Debts/copays V2**|-|-|Design explorations; Research; FE Build| QA; Pre-launch; Launch|-|
-|**My VA audit**|-|-|Documentation; Determine next steps for My VA; Update designs|Research; FE updates; Launch|-|
+|Project|Q1 2022|Q2 2022|Q3 2022|Q4 2022
+|----|----|----|----|----|
+|**Payments & Debts/copays V2**|-|Design explorations; Research; FE Build| QA; Pre-launch tasks and reviews; Launch|-|
+|**Redirect from homepage to My VA at login**|-|Planning; Development|UAT; Pre-launch tasks and reviews; Launch|-|
+|**My VA audit**|-|Documentation; Determine next steps for My VA; |Update designs; Research; FE updates|Pre-launch tasks and reviews; Launch|
 
 ## Completed projects
 
