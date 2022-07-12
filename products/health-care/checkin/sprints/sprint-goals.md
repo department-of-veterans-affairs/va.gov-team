@@ -5,7 +5,6 @@
 #### Planned Releases (TENTATIVE)
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
-- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258) (TENTATIVE)
 
 #### R&D Sprint Goals (TENTATIVE)
 - [Beneficiary Travel - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)   
@@ -44,12 +43,8 @@
     - Send translations to VA Design System for components
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Complete frontend work (CHIP is working on API ticket this sprint)
-- [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
-    - Perform SPIKE to determine from where we will get the Doctor's Name and Type of Care field values
 - Bugs & Tech Debt
     - [Reloading app routes to VA 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44113)
-    - [Appointment start time interpreted as UTC in < es6 browsers](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40027)
-    - [Integrate vets-api with LoROTA new GET Endpoint before refreshing Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/31619)
     - [Update List Semantics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44145)
         
 ## 6/29/2022
