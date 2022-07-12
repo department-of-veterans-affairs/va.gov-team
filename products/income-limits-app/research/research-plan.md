@@ -36,8 +36,12 @@ Decrease:
 - Call center volume, wait time, and time to resolution
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+1. Getting out (Engaging VA to access benefits and services)
+2. Starting up (Attending to health needs, Finding something to do/Balancing finances, Finding a place to live)
+3. Putting down roots (Starting, growing or maintaining my family)
+4. Retiring (Taking care of my health)
+5. Aging (Not listed in journey, but dealing with death of spouse)
 
 ## Research Goals	
 What are Veteran use cases for determining eligibility for VA National medical benefits and prescriptions?
