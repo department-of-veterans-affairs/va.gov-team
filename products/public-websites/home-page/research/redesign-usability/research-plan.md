@@ -85,12 +85,12 @@ Ask Perigean to recruit **28 Veterans, Veterans' caregivers, Veterans' family me
 - At least 2 are service members
 - 3 have NO experience with ANY VA benefit OR experience with ONLY ONE benefit *(see Additional Question #1 below)*
 - 6 have NO experience with health care, but DO have experience with another VA benefit *(see Additional Question #1 below)*
-- 4 have experience with health care, and optionally with other VA benefits *(see Additional Question #1 below)*
+- 4 have experience with health care and optionally with other VA benefits *(see Additional Question #1 below)*
 - 10 people who plan to use their desktop or laptop computer for the session
 - 10 people who plan to use their mobile device for the session *(IF the prototype is responsive enough to work on tablets and phones)*
-- At least 5 people with a cognitive disability (e.g., TBI)
-- At least 5 people who are age 55 or older
-- At least 3 people 35 or under
+- At least 7 people with a cognitive disability (e.g., TBI)
+- At least 7 people who are age 55 or older
+- At least 5 people 35 or under
 - At least 3 people who use assistive technology on a daily or near-daily basis *(record which technologies from recruitment screener)*
 - At least 5 people who have never used the VA.gov website before *(see Additional Question #2 below)*
 - ALL have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices
@@ -107,9 +107,9 @@ Ask Perigean to recruit **28 Veterans, Veterans' caregivers, Veterans' family me
 
 ### Additional questions to ask in the screener
 1. What VA benefits (if any) do you have experience with? For example, health care, education, career services, housing, home loan certificate of eligibility, pension, life insurance, burial benefits or memorial items. *(Note to Perigean: Please ask this question even though it's in the screener questionnaire because participants' answers may have changed since they filled out the questionnaire.)*
-    1. None or only one *(recruit 3)*
-    1. One or more NOT INCLUDING Health Care *(recruit 6)*
-    1. One or more INCLUDING Health Care *(recruit 4)*
+    1. Zero or one *(recruit 3)*
+    1. Two or more NOT INCLUDING Health Care *(recruit 6)*
+    1. Two or more INCLUDING Health Care *(recruit 4)*
     
 1. Have you ever used the VA.gov website before?
     1. No *(recruit 5)*
