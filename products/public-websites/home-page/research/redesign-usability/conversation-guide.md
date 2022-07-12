@@ -88,23 +88,21 @@ Let’s start with a few questions...
 
 1. What VA benefits, if any, do you have experience with? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-1. What VA benefits that you *don't* have experience with might you be interested in exploring? RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
+1. What VA benefits that you *don't* have experience with might you be interested in exploring? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
 1. Where do you typically go to get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
 1. Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
 
-## Tasks
+## User Tasks
 Now I'm going to ask you to do a number of things that you may or may not have done before. For each task, I will stop you at a point when I feel like we've done enough, and I won't ask you to sign in.
 
-I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
-
-## Screen sharing
+### Screen sharing
 I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom.
 
 While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on **bit.ly/3Ix90HN**  
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3Ix90HN**  
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
@@ -112,7 +110,7 @@ Do you see the link?
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-## Overview of Tasks
+### Overview of Tasks
 Each participant will be asked to do a **subset (probably no more than 9) of the 20 tasks** detailed below, depending on which VA benefits they have experience with, which tasks have/not been done by other participants, and the time constraints of the session. We would like **each of the 20 tasks to be done by at least 4 participants** (and hopefully more).
 
 <details>
@@ -163,6 +161,9 @@ FOR EVERYONE
     
 </details>
 
+*Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
+- Can you tell me about what you expect and why?
+- If you were on a public computer and didn't want to sign in, is there anything you might expect to do from this web page?
 
 ### IF HAVEN'T USED EDUCATION BENEFITS...
 
@@ -414,14 +415,15 @@ Your employer asked you to provide proof of your military service and honorable 
 
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
-1. What would you like to *change*?
+1. What would you like to *change or add*?
 1. I'd like to ask you about a specific part of the first page that you looked at: the dark blue section on Veteran homelessness. 
      1. What are your thoughts on what you see here in this section of the page?   
      1. What kind of information would be helpful to show here?
      1. How often should the information be changed?
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
-
-1. Is there anything else that we haven't talked about that you think I should know? 
+1. Can you tell me about how you usually look for information on web pages in general? (not specifically VA or government websites)
+    *RECORD: type into search box / click on links (browse) / _______________________*
+3. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
 
@@ -437,5 +439,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Reviewed and approved by Dave Conlon (PO) on TBD
-- Reviewed and approved by Shane Strassberg on TBD
+- Reviewed and approved by Dave Conlon (PO) on July 12, 2022
+- Reviewed and approved by Shane Strassberg on TBD 2022
