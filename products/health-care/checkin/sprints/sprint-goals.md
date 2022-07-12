@@ -2,10 +2,10 @@
 
 ## 7/13/2022
 
-#### Planned Releases
+#### Planned Releases (TENTATIVE)
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
-- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258) (TENTATIVE)
 
 #### R&D Sprint Goals (TENTATIVE)
 - [Beneficiary Travel - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)   
@@ -30,9 +30,10 @@
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
     - Complete and release the 4 tickets
 - [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
-    - Test & Release
+    - Based on the slack thread, we will make a decision if we want to release this
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
-    - Test & Release
+    - Swap out our date control to use the Design System's new Memorable date control
+    - Test & release
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Work on vista-api load testing
     - Support CHIP team as necessary for CHIP api
