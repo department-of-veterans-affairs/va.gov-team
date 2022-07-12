@@ -34,11 +34,11 @@ Devices used during study:
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
+* 25-34: 1
+* 35-44: 1
+* 45-54: 3
+* 55-64: 2
+* 65+: 4
 
 
 
@@ -68,7 +68,7 @@ Race:
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
+* Cognitive: 2
 * AT beginner: 0
 * AT advanced user: 0
 * Desktop screen reader: 0
