@@ -3,7 +3,6 @@
 ## 7/13/2022
 
 #### Planned Releases (TENTATIVE)
-- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
 
 #### R&D Sprint Goals (TENTATIVE)
@@ -12,6 +11,7 @@
     - Create wireframes for MVP prototype
     - Talk with Bay Pines & Corpus Cristi travel clerks
     - Create research plan & conversation guide
+    - Add risks to the Risk Register
 - [July Research](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38256)
     - Conduct study & start synthesis    
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
@@ -19,33 +19,34 @@
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
     - Update wording for SMS messages
 - [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)
-    - Complete
+    - Complete & notify clinics
 - [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
     - Create wireframes
 - [Send Pre-Check-in Link via Email](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42620)
-    - Create content for SMS message(s)
+    - Research the feasibility of this??
 
 #### Engineering Sprint Goals (TENTATIVE)
-- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43016)
-    - Complete and release the 4 tickets
-- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
-    - Based on the slack thread, we will make a decision if we want to release this
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Swap out our date control to use the Design System's new Memorable date control
     - Test & release
+- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
+    - Based on the slack thread, we will make a decision if we want to release this
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
-    - Work on vista-api load testing
+    - Meet to talk though the findings on the app payload SPIKE
     - Support CHIP team as necessary for CHIP api
 - [Spanish Support - Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)
-    - Generate screenshots for WF documents
     - Send WF documents to State Department for QA approval
 - [Tagalog Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42788)
     - Send translations to VA Design System for components
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
-    - Complete frontend work (CHIP is working on API ticket this sprint)
+    - Complete frontend work 
+    - Complete backend work if CHIP finishes their portion in time
+- [CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
+    - Meet with Shawn Adams to investigate CVT Appointments
 - Bugs & Tech Debt
     - [Reloading app routes to VA 404](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44113)
     - [Update List Semantics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44145)
+    - [Investigate users starting on the bottom of page after login](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42684)
         
 ## 6/29/2022
 
