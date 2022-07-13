@@ -79,8 +79,6 @@ Interviews will take place remotely to ensure participation by Veterans from a d
 ### Recruitment approach
 Intended audience is Veterans and recruitment is through Perigean. 
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
 ### Recruitment criteria
 12 total Veterans to be recruited as participants for this study: One group of participants will have recently (within the past 3 years) applied for their first VA benefit. Of this first group, there should be a diversity of application methods. A second group of participants will have recently re-applied for health care benefits. Both groups should have a diversity of responses to "How often do you go online to access VA benefits and services" and recruiting for both groups should employ [maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md). 
 
@@ -111,14 +109,13 @@ The additional 5 participants (those that received first VA benefits longer ago 
 7. How long ago did you most recently apply for healthcare benefits? [answer should be within the past 3 years].
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
 [Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
+- Geographic distribution: 25% east coast, 25% midwest, 25% south, 25% west coast
 - 50% aged 55-64+
 - 50% with an identified cognitive disability
 - 50% primarily mobile users
 - 30% people of color (especially Native)
-- 25% in a rural area(anecdotally quoted at 45% by David Shulkin)
+- 25% in a rural area
 - 25% without a degree
 - 17% with immigrant origins (either immigrant themselves or with immigrant family)
 - 10% women
@@ -133,16 +130,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: August 1 - August 12, 2022
 
 ### Length of sessions
 * Session length: up to 1 hour
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+### Moderator Availability
+7AM - 8PM ET, August 1 - August 12, 2022
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -152,6 +147,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Wes Rowe, wesley.rowe@agile6.com	
 - Participant(s) for pilot test:	
 - Note-takers: Perigean	
-- Observers: Dave Conlon, Wes Rowe, Jill Adams
+- Observers: Dave Conlon david.conlon@va.gov, Wes Rowe wesley.rowe@agile6.com
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
