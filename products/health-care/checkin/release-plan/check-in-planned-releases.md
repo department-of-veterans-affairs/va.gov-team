@@ -17,6 +17,7 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 | Physical Location Information | TBD |  | | [Epic 42794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42794) Add physical location to display of appointment information |
 | Type of Care & Doctor Name Information | TBD |  | | [Epic 42027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42027) Add type of care and doctor's name to display of appointment information |
 | Delete LoROTA Entry when All Authentication Attempts Fail | TBD |  | | [Epic 43720](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) Delete LoROTA Entry when All Authentication Attempts Fail. |
+| Travel Reimbursement | TBD |  | | [Epic 40265](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) Allow Veterans to submit a mileage-only travel reimbusement claim when they check-in for an appointment |
 
 
 
