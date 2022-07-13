@@ -80,17 +80,19 @@ Interviews will take place remotely to ensure participation by Veterans from a d
 Intended audience is Veterans and recruitment is through Perigean. 
 
 ### Recruitment criteria
-12 total Veterans to be recruited as participants for this study: One group of participants will have recently (within the past 3 years) applied for their first VA benefit. Of this first group, there should be a diversity of application methods. A second group of participants will have recently re-applied for health care benefits. Both groups should have a diversity of responses to "How often do you go online to access VA benefits and services" and recruiting for both groups should employ [maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md). 
+12 total Veterans  (within 2 cohorts of 6 participants each) to be recruited as participants for this study.
 
 **Primary criteria (must-haves)**
-All 12 participants will have responded:
-1. "Yes" or "I don't know" to question 22 of the recruitment survey: "Do you currently receive any VA benefits or services?
-2. "Health care benefits" to question 23 of the recruitment survey: "Which VA benefits or services do you have experience with?"
+Seeking two cohorts of participants
+Cohort 1: have recently *(within the past 12 months)* applied for VA health care benefits (6 participants)
+Cohort 2: are actively considering applying for VA health care benefits (6 participants)
 
-3. Year received first VA benefit
-- At least 7 participants: within the past 3 years
+For both cohorts, seeking a diversity of responses to question: How often do you go online to access VA benefits and services?
+- At least 20% participants: Never
+- At least 20% participants: Once per year or less, or once per quarter
+- At least 20% participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
 
-4. How applied for first VA benefit
+For cohort 1, seeking a diversity of responses to question: How did you recently apply for VA health care benefits?
 - At least 1 participants: On my own, on paper
 - At least 2 participants: On my own, online
 - At least 1 participants: On my own, in person
@@ -98,31 +100,18 @@ All 12 participants will have responded:
 - At least 1 participants: With the help of a fellow veteran
 - At least 1 participants: Other
 
-5. How often go online to access VA benefits and services
-- At least 2 participants: Never
-- At least 2 participants: Once per year or less, or once per quarter
-- At least 3 participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
-
-**Additional screening questions:**
-
-The additional 5 participants (those that received first VA benefits longer ago than past 3 years) should answer the following screening questions:
-
-6. Have you applied for healthcare benefits *more than once*? [answer should be yes to qualify.]
-
-7. How long ago did you most recently apply for healthcare benefits? [answer should be within the past 3 years].
+For cohort 1, seeking a diversity of responses to question: Is this your first time applying for VA benefits?
+- At least 30% of participants: Yes
+- At least 30% of participants: No
 
 **Secondary criteria (nice-to-haves)**
 
 [Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
 - Geographic distribution: 25% east coast, 25% midwest, 25% south, 25% west coast
-- 50% aged 55-64+
-- 50% with an identified cognitive disability
-- 50% primarily mobile users
 - 30% people of color (especially Native)
 - 25% in a rural area
 - 25% without a degree
-- 17% with immigrant origins (either immigrant themselves or with immigrant family)
-- 10% women
+- 25% women
 - 10% LGBTQ
 
 ## Timeline
