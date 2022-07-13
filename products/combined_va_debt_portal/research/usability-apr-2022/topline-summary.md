@@ -68,7 +68,7 @@ This topline summary is a high level, top of mind summary of trends found in the
   - Participants were able to navigate to the summary page where they were able to view all of their copays and debts. However, most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it. 
   - Of the few who started their journey on the copay or debt page, all were able to navigate to the debt or copay page either via breadcrumbs or the "Your other VA bills" link. One user noted that that the "Your other VA bills" link was hidden.
   
-   > "Almost like they don't want people to pay their copay." 
+    > "Almost like they don't want people to pay their copay." 
 
 
 6. **Most participants were able to locate how to request financial help**
@@ -87,9 +87,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
   - Some participants stated there were too many layers of pages where the only navigation available were breadcrumbs. They wanted more information on one page with important links such as a pay button at the top of the page. 
   
-  >  "I don’t feel it is necessary to click through four to five pages to get all your information."
+    >  "I don’t feel it is necessary to click through four to five pages to get all your information."
   
-  >  "I'll follow your cookie crumbs but I'm not happy about it."
+    >  "I'll follow your cookie crumbs but I'm not happy about it."
 
 
 
