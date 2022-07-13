@@ -6,6 +6,8 @@
 
 Date: 07/11/2022
 
+[Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
+
 **Jump to:** 
 
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#hypotheses-and-conclusions)
