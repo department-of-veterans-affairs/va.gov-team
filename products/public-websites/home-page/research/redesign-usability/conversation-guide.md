@@ -429,6 +429,8 @@ Your employer asked you to provide proof of your military service and honorable 
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
+If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the email blurb that you'll receive from our team. 
+
 Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## After Session 
