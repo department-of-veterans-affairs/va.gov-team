@@ -104,8 +104,11 @@ All 12 participants will have responded:
 - At least 3 participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
 
 **Additional screening questions:**
+
 The additional 5 participants (those that received first VA benefits longer ago than past 3 years) should answer the following screening questions:
+
 6. Have you applied for healthcare benefits *more than once*? [answer should be yes to qualify.]
+
 7. How long ago did you most recently apply for healthcare benefits? [answer should be within the past 3 years].
 
 **Secondary criteria (nice-to-haves)**
