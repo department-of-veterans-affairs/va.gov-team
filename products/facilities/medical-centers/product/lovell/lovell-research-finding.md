@@ -159,7 +159,7 @@ _If there are demographics that were not included in this study or you discovere
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/interview_transcripts)
 
 
 ## Tools used for Synthesis
