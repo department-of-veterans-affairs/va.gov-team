@@ -64,7 +64,7 @@
         - **NOT** put **Tech Debt & Bug** items on the Planned Releases list   
     - Team will 
         - Determine an estimated release date that is at least 2 weeks from the date it was decided for scheduled & coordinated releases      
-        - Estimate team's capacity for the Sprint using the [SprintCapacityCalculator.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/9020531/VASprintCapacityCalculator.xlsx)
+        - Estimate team's capacity for the Sprint using the [Sprint Capacity Calculator](https://github.com/department-of-veterans-affairs/va.gov-team/files/9105212/VASprintCapacityCalculator.xlsx)
         - Pull tickets into the Sprint
         - Agree on the Sprint goals
         - Agree on the Sprint content
