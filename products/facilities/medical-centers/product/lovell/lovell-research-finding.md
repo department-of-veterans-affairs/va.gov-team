@@ -6,7 +6,7 @@
 
 Date: 07/11/2022
 
-**Jump to:** ✅
+**Jump to:** 
 
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#hypotheses-and-conclusions)
 - [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#key-findings)
@@ -23,13 +23,13 @@ This bespoke health care system research is building upon earlier VAMC research.
 
 # Research Questions ✅
 
-* Will Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center?
-* Will participants notice and understand the informational alert?
-* Will dual-eligible Veterans understand when to use the VA health care experience vs. the TRICARE health care experience?
+1. Will Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center?
+2. Will participants notice and understand the informational alert?
+3. Will dual-eligible Veterans understand when to use the VA health care experience vs. the TRICARE health care experience?
 
 # Methodology ✅
 
-* Usability testing
+* Usability testing using UXPin
 * We did not test with screen readers because the designs are in UXPin, the design has been reviewed by the collaboration cycle, and the foundation of the VAMC pages have already been tested
 * Not testing on mobile because the VAMC pages have already been tested on mobile during the VAMC redesign testing
 
@@ -153,9 +153,9 @@ _If there are demographics that were not included in this study or you discovere
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
 
 [Interview transcripts](link here)
 
