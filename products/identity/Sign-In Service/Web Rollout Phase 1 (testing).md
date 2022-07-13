@@ -40,8 +40,13 @@ At each hour if the success (login) % is under 50%, we should pause/terminate th
 **Test Start:**  
 **Test End:**
 
+# Alerting and Monitoring
+
+# Communications Plan
+
 
 # To add
 - SSO Stats
 - Monitoring details
+- Communication plan
 - 
