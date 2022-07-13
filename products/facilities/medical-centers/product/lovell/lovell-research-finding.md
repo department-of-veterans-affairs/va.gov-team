@@ -155,22 +155,19 @@ _If there are demographics that were not included in this study or you discovere
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
-
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
-
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/interview_transcripts)
-
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/interview_transcripts)
 
 ## Tools used for Synthesis
 
 e.g. mural boards, etc.  
 
 
-## Pages and applications used
+## Pages and applications used ✅
 
-Link to prototypes or pages that were tested
-
+- [UXPin prototype](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
+- [UXPin prototype images](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/uxpin_images)
 
 ## Other supporting documents created
 
