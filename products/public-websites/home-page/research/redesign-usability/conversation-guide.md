@@ -168,8 +168,8 @@ FOR EVERYONE
 ### IF HAVEN'T USED EDUCATION BENEFITS...
 
 #### Task 1: [Learn about or apply for education benefits]
-Let's say that you're considering going back to school to get your degree, and you're wonder if the VA can help you pay for it. What might you do from the web page?
-- *RECORD navigation* 
+Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What might you do from the web page?
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -178,7 +178,7 @@ Let's say that you're considering going back to school to get your degree, and y
 
 #### Task 2: [Compare VA education benefits and rates by school]
 There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -189,7 +189,7 @@ There are several universities in your area, and you want to figure out which on
 
 #### Task 3: [Learn about or file for disability compensation (service-related)]
 Your hearing loss might be related to your military service, and you want to know if you qualify for disability compensation. What would you do from the web page?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -198,7 +198,7 @@ Your hearing loss might be related to your military service, and you want to kno
 
 #### Task 20A: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK 
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -209,7 +209,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 #### Task 4: [File for a VA disability increase]
 Your hearing loss from your time in the military has gotten worse over the last year and you want to try to increase your disability rating. How would you do that from the web page?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -218,7 +218,7 @@ Your hearing loss from your time in the military has gotten worse over the last 
 
 #### Task 20B: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK 
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -228,7 +228,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 #### Task 5A: [View your payment history]
 How would you check the amount of your current disability compensation?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -237,7 +237,7 @@ How would you check the amount of your current disability compensation?
 
 #### Task 6A: [Check the current disability compensation rates]
 You recently applied for an increase in your disability rating and wonder how it might affect your payment amount. How would you check the currently compensation rates?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -248,7 +248,7 @@ You recently applied for an increase in your disability rating and wonder how it
 
 #### Task 5B: [View your payment history] -- *SKIP if did task 5A*
 How would you see the amount of money last sent to your school?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -257,7 +257,7 @@ How would you see the amount of money last sent to your school?
 
 #### Task 7: [Check or update your current education benefits]
 You're thinking about taking a few more college classes. How would you find out how much GI Bill money you have left?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -268,7 +268,7 @@ You're thinking about taking a few more college classes. How would you find out 
 
 #### Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
 You'd like to see VA's current disability compensation rates. How would you find this?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -277,7 +277,7 @@ You'd like to see VA's current disability compensation rates. How would you find
 
 #### Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -286,7 +286,7 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 #### Task 9: [Get your VA medical records]
 You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -298,7 +298,7 @@ You were just advised to see a doctor outside the VA, and their office asked for
 #### Task 10: [Message your doctor or get a health care message] 
 
 - Let's pretend that you had a doctor's appointment at the VA last week, and now you have a followup question for the doctor. How could you contact them? 
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
    
@@ -308,7 +308,7 @@ You were just advised to see a doctor outside the VA, and their office asked for
 
 #### Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
 You recently traveled a long way for a doctor's appointment at the VA. How could you find out if the VA will cover your travel expenses? 
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -317,7 +317,7 @@ You recently traveled a long way for a doctor's appointment at the VA. How could
 
 #### Task 20C: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK *& HAVEN'T DONE TASK 20 BEFORE*
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -329,7 +329,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 #### Task 12: [Learn about or apply for VA health care]
 A new VA health clinic just opened near you, and you might want to see a doctor there. How would you learn about VA health care?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -338,7 +338,7 @@ A new VA health clinic just opened near you, and you might want to see a doctor 
 
 #### Task 20D: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK *& HAVEN'T DONE TASK 20 BEFORE*
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -349,7 +349,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 #### Task 13: [Get letters about your VA benefits and service history (benefit letters)]  
 - Your mortgage lender has asked for proof of your income. How can you get a document that shows the income that you receive from the VA?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -358,7 +358,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 #### Task 14: [Review or update your dependents] 
 - Say that you just got married. How would you tell the VA about your new spouse?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
@@ -366,7 +366,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 #### Task 15: [Update your contact information with VA]
 You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -375,7 +375,7 @@ You recently moved and want to make sure that your mail and benefit information 
 
 #### Task 16: [Find a mental health counselor or therapist]
 Recent news stories have affected you more than you expected, and you want to talk to a therapist or counselor about how you're feeling.  How would you do this?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -384,7 +384,7 @@ Recent news stories have affected you more than you expected, and you want to ta
 
 #### Task 17: [Learn in advance if eligible for burial in a VA cemetery]
 You have been wondering about whether you could be buried in a VA cemetery. How would you find out? 
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -393,7 +393,7 @@ You have been wondering about whether you could be buried in a VA cemetery. How 
 
 #### Task 18: [Apply for a home loan Certificate of Eligibility (COE)]
 Say you have been looking for a new home, and your bank asked for proof that you qualify for a VA home loan. How would you provide this?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -402,7 +402,7 @@ Say you have been looking for a new home, and your bank asked for proof that you
 
 #### Task 19: [Request your military records (DD214)]
 Your employer asked you to provide proof of your military service and honorable discharge. How would you do this?
-- *RECORD navigation* 
+- *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
@@ -442,4 +442,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on July 12, 2022
-- Reviewed and approved by Shane Strassberg on TBD 2022
+- Reviewed and approved by Shane Strassberg on July 13, 2022
