@@ -26,7 +26,7 @@ This research will inform iterations to the home page redesign, the need for fut
 
 ### Research questions
 *Note: In this research plan, "successfully completing" a task means that a participant has navigated to a web page on VA.gov where they could do that task or sign in to do the task (participants will NOT sign in during the sessions).*
-1. Are ALL participants able to easily and quickly complete tasks from the home page?
+1. Are ALL participants able to easily complete tasks from the home page? ("easily" = being able to figure out where to go and not get stuck)
     1. For tasks that are the same as those from last year's baseline wayfinding research, how do success rates compare with last year? 
 3. Which parts of the home page do participants use to complete tasks and how? Where do they go first?
     1. "Sign in or create account" button
@@ -164,5 +164,5 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on July 12, 2022
-- Reviewed and approved by Shane Strassberg on TBD 2022
+- Reviewed and approved by Shane Strassberg on July 13, 2022
 
