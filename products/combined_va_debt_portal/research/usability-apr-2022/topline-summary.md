@@ -54,17 +54,21 @@ This topline summary is a high level, top of mind summary of trends found in the
     
     > "A bill is a debt that I incurred. An overpayment is a debt that was forced upon me by the VA." 
 
-4. **Most participants did not have issues navigating from copays to debts**
 
-  - Participants were able to navigate to the summary page where they were able to view all of their copays and debts. However, most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it. 
-
-
-5. **Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay**
+4. **Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay**
 
   - Some selected 'View Payment History' under Disability or Education "because it says 'payment'". There is a link near the footer of the [Payment History page](https://www.va.gov/va-payment-history/) to Manage your VA debt that several participants located.
   - Some utilized the search feature and entered terms such as: "debt" and "copay".
 
     > "I would go under records I would assume. I don’t see any other links under it that would show. Well under disability it says see payment history. Under education I see look at your payment history. I would just click on one of the ones that says payment and see where it would take me."
+
+
+5. **Most participants did not have issues navigating from copays to debts**
+
+  - Participants were able to navigate to the summary page where they were able to view all of their copays and debts. However, most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it. 
+  - Of the few who started their journey on the copay or debt page, all were able to navigate to the debt or copay page either via breadcrumbs or the "Your other VA bills" link. One user noted that that the "Your other VA bills" link was hidden.
+  
+   > "Almost like they don't want people to pay their copay." 
 
 
 6. **Most participants were able to locate how to request financial help**
@@ -81,10 +85,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 
   - Participants either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill"  and click "Pay your copay bill".
 
-9. **Most participants did not have issues navigating from copays to debts and vice versa**
-  - Most participants did not have both debts and copays and began on the summary page, not the copay page that contains the "Your other VA bills" link. Of the few who started their journey on the copay or debt page, all were able to navigate to the debt or copay page either via breadcrumbs or the "Your other VA bills" link. One user noted that that the "Your other VA bills" link was hidden.
+  - Some participants stated there were too many layers of pages where the only navigation available were breadcrumbs. They wanted more information on one page with important links such as a pay button at the top of the page. 
   
-   > "Almost like they don't want people to pay their copay." 
+  >  "I don’t feel it is necessary to click through four to five pages to get all your information."
+  
+  >  "I'll follow your cookie crumbs but I'm not happy about it."
+
+
 
 
 
