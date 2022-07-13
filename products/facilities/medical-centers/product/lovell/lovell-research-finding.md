@@ -6,7 +6,7 @@
 
 Date: 07/11/2022
 
-**Jump to:**
+**Jump to:** ✅
 
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#hypotheses-and-conclusions)
 - [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#key-findings)
@@ -14,14 +14,12 @@ Date: 07/11/2022
 - [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#who-we-talked-to)
 - [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#further-research-needed)
 
-# Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+# Research Goals ✅
+The Lovell Federal Facility services both VA beneficiaries as well as DoD/TRICARE beneficiaries. However, the unauthenticated top tasks for these beneficiaries are accomplished in separate locations, making the experience confusing. Additionally, there is content that is specific to each type of location that needs to be separated for clarity and conciseness.
 
-_Then, describe your goals for this research_
+The legacy Lovell website combines the VA & TRICARE information in a single site. The team created a prototype that splits VA & TRICARE information into two separate sites in the modernized VAMC template. The two sites are connected by informational alerts that allow users to switch back and forth between between the TRICARE and VA versions of the page they are on.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+This bespoke health care system research is building upon earlier VAMC research.
 
 # Research Questions ✅
 
@@ -29,7 +27,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 * Will participants notice and understand the informational alert?
 * Will dual-eligible Veterans understand when to use the VA health care experience vs. the TRICARE health care experience?
 
-# Methodology 
+# Methodology ✅
 
 * Usability testing
 * We did not test with screen readers because the designs are in UXPin, the design has been reviewed by the collaboration cycle, and the foundation of the VAMC pages have already been tested
