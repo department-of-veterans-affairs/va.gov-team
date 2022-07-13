@@ -16,7 +16,6 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 | Tagalog Support | TBD   |  |  | [Epic 42788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788) Adding Tagalog translations.  |
 | Physical Location Information | TBD |  | | [Epic 42794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42794) Add physical location to display of appointment information |
 | Type of Care & Doctor Name Information | TBD |  | | [Epic 42027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42027) Add type of care and doctor's name to display of appointment information |
-| Content Updates | TBD |  | | [Epic 42572](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42572) Updates to content and messaging based on research findings |
 | Delete LoROTA Entry when All Authentication Attempts Fail | TBD |  | | [Epic 43720](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) Delete LoROTA Entry when All Authentication Attempts Fail. |
 
 
