@@ -2,10 +2,10 @@
 
 ## 7/13/2022
 
-#### Planned Releases (TENTATIVE)
+#### Planned Releases 
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
 
-#### R&D Sprint Goals (TENTATIVE)
+#### R&D Sprint Goals
 - [Beneficiary Travel - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)   
     - Decide on Metrics to Measure Success (Analytics)
     - Create wireframes for MVP prototype
@@ -16,21 +16,17 @@
     - Conduct study & start synthesis    
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Plan & Organize remote study
-- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
-    - Update wording for SMS messages
+    - Create prototype for language toggle
 - [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)
     - Complete & notify clinics
 - [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
     - Create wireframes
-- [Send Pre-Check-in Link via Email](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42620)
-    - Research the feasibility of this??
 
-#### Engineering Sprint Goals (TENTATIVE)
+#### Engineering Sprint Goals
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Swap out our date control to use the Design System's new Memorable date control
+    - Create tag to release to part of the segment
     - Test & release
-- [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
-    - Based on the slack thread, we will make a decision if we want to release this
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Meet to talk though the findings on the app payload SPIKE
     - Support CHIP team as necessary for CHIP api
