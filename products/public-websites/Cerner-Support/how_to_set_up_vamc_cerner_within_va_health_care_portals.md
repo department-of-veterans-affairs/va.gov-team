@@ -1,4 +1,4 @@
-# How to set up a VAMC's Cerner integration within the VA.gov health care portals: hard coded data
+# How to set up a VAMC's Cerner integration within the VA.gov health care portals: hard coded data and CMS data
 
 ## Purpose
 As healthcare systems migrate to using Cerner for electronic health records, the website will update to point users to Cerner API / UI for tasks like prescription refills, appointment scheduling, viewing lab results, messaging healthcare team, etc. As a result, some of the links that we direct our users to if they belong to that facility need to reflect that change. This document gives examples / steps for a Cerner cutover using hard coded data.
