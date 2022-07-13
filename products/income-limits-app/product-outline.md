@@ -1,8 +1,4 @@
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
-
----
+# Product Outline – Income Limits Web App
 
 ## Overview
 
@@ -25,27 +21,22 @@ How might we rebuild this application so that we clearly define the Veteran use 
  
 ## Desired User Outcomes
 
-*I'm not sure these are right - where is the "learn" part of this.* 
-
-- In the case of an eligible Veteran: Quickly move on from “What might I be eligible for?” to action (obtaining benefits).
-- In the case of an ineligible Veteran: Understand what criteria were used to render a negative result, and provide a path to resolve questions.
-- Self-service tool: no need for wait times associated with calling the VA
-
+- Veteran understands in plain language how income/location/dependents are used as a component to their eligibility for benefits.
+- Moving on from “What might I be eligible for?” to action (applying) with a better understanding of the evaluation process.
+- In the case of an optional life change, Veteran has more information on which to base a decision.
 
 ## Undesired User Outcomes
 
 *I'm not sure these are right* 
 
-- Confusion or frustration with tool itself
-- ~Feeling that unwelcome news (lack of eligibility) is opaque/unjustified, unfair, or wrongly determined.~ I don't think that this application is the sole determinant of "lack of eligibility" so this use case is potentially invalid.
-- Incorrectly discouraging an eligible Veteran from pursuing benefits. (per my note above, this is not the only determinant so we would want to provide routes for Veteran to get more information and/or advocate for their case with the other criterion)
-
+- Confusion or frustration with tool itself.
+- Feeling confused by the information presented by the tool.
+- Discouraging a Veteran from pursuing benefits.
 
 ## Desired Business Outcomes
 
 - Increase the use of VA’s self-service tools, and reduce phone calls to the VA.
-- ~Maintain a single source of truth for income limits instead of the variety of documents currently available in disparate places (some of which are out of date).~
-- Better serve veterans by helping them get faster access to the benefits they are entitled to.
+- Better serve veterans by helping them get faster access to information about some factors affecting benefit eligibility.
 
 ## Undesired Business Outcomes
 
