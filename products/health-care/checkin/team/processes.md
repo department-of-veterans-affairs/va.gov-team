@@ -29,7 +29,7 @@
             - check-in-experience-create-prototype.md
             - check-in-experience-design-create-final-wireframes.md
         - DEVELOPMENT
-            - check-in-experience-risk-register.md
+            - check-in-experience-development-risk-register.md
             - check-in-experience-development-backend.md
             - check-in-experience-development-create-feature-flag.md
             - check-in-experience-development-frontend.md
