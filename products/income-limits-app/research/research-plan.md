@@ -109,6 +109,7 @@ The additional 5 participants (those that received first VA benefits longer ago 
 7. How long ago did you most recently apply for healthcare benefits? [answer should be within the past 3 years].
 
 **Secondary criteria (nice-to-haves)**
+
 [Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
 - Geographic distribution: 25% east coast, 25% midwest, 25% south, 25% west coast
 - 50% aged 55-64+
