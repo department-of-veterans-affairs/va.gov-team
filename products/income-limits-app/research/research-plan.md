@@ -82,12 +82,10 @@ Intended audience is Veterans and recruitment is through Perigean.
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-12 total Veterans to be recruited as participants for this study. 
-
-
+12 total Veterans to be recruited as participants for this study: One group of participants will have recently (within the past 3 years) applied for their first VA benefit. Of this first group, there should be a diversity of application methods. A second group of participants will have recently re-applied for health care benefits. Both groups should have a diversity of responses to "How often do you go online to access VA benefits and services" and recruiting for both groups should employ [maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md). 
 
 **Primary criteria (must-haves)**
-All participants will have responded:
+All 12 participants will have responded:
 1. "Yes" or "I don't know" to question 22 of the recruitment survey: "Do you currently receive any VA benefits or services?
 2. "Health care benefits" to question 23 of the recruitment survey: "Which VA benefits or services do you have experience with?"
 
@@ -107,15 +105,24 @@ All participants will have responded:
 - At least 2 participants: Once per year or less, or once per quarter
 - At least 3 participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
 
-Additional screening questions:
+**Additional screening questions:**
+The additional 5 participants (those that received first VA benefits longer ago than past 3 years) should answer the following screening questions:
 6. Have you applied for healthcare benefits *more than once*? [answer should be yes to qualify.]
-7. 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+7. How long ago did you most recently apply for healthcare benefits? [answer should be within the past 3 years].
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
+
+[Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
+- 50% aged 55-64+
+- 50% with an identified cognitive disability
+- 50% primarily mobile users
+- 30% people of color (especially Native)
+- 25% in a rural area(anecdotally quoted at 45% by David Shulkin)
+- 25% without a degree
+- 17% with immigrant origins (either immigrant themselves or with immigrant family)
+- 10% women
+- 10% LGBTQ
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
