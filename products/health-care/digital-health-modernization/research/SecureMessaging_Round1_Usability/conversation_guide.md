@@ -121,7 +121,7 @@ Before we start, a few things I want to mention:
 
 
 ## Send a new message - 10 minutes
-- How do you select the provider, Dr Hergst, you want to send your message to?
+- How do you select the provider, Dr Hengst, you want to send your message to?
 - If you want to change who is in your list of providers, how would you do that?
 - Who would you expect the message to say that it is from?
 - Which category would you pick for your message? How do you decide which category to choose?
