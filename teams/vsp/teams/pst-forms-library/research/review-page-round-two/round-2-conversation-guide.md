@@ -1,7 +1,9 @@
 Review Page Round 2 Conversation Guide
 ======================================
 
--   UXPin Prototype ([Desktop](https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bed#/pages/150370509?mode=chidm) - [Mobile](https://preview.uxpin.com/3f788e8c6673bebc0365fd5d08a28347037aa809#/pages/150422609?mode=chidm))
+-   UXPin Prototype ([Desktop](https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bed#/pages/150370509?mode=cvhidm) - [Mobile](https://preview.uxpin.com/2f628ef89864a97c1e1980bda352d38ac75e3592cvhidm))
+    - Desktop raw link: https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bed#/pages/150370509?mode=cvhidm
+    - Mobile raw link: https://preview.uxpin.com/2f628ef89864a97c1e1980bda352d38ac75e3592cvhidm
 -  Shorter URLs
     -   Desktop: <https://tinyurl.com/2p8h22jh>
     -   Mobile: <https://tinyurl.com/4v9d8wus>
