@@ -13,6 +13,8 @@
 
 </details>
 
+Get best estimate of V1 ship date
+
 ## Monday, July11, 2022
 * Lat/Long info for VetCenter CAPs
   * https://dsva.slack.com/archives/C02BTJTDFTN/p1656535172014689
