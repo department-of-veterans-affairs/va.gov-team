@@ -1,5 +1,5 @@
 # Contact Information Product Outline
-Last Updated July 7, 2022
+Last Updated July 14, 2022
      
 ## Table of Contents
 
@@ -17,7 +17,6 @@ Last Updated July 7, 2022
 
 ## POCs
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-- **Github labels**: vsa-authenticated-exp; profile
 - [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
 ## Overview
