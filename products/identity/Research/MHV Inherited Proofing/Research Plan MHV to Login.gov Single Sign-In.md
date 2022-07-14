@@ -112,7 +112,7 @@ For moderated usability tests:
 - [Zoom](https://zoom.us/) or [www.webex.com](https://www.webex.com/)
 - [www.va.gov](https://www.va.gov/)
 - [Figma Prototype MHV to VA.gov](https://www.figma.com/proto/y7qLXNy9I6gAMqTMChgJnu/Single-Sign-on-Non-Verified?node-id=131%3A746&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=131%3A746)
-- [Figma Prototype Login.gov](https://www.figma.com/file/sfRxIa6nHafoUqWl5cZjas/MHV-Inherited-Proofing-(Working-Session?node-id=421%3A1885)
+- [Figma Prototype Login.gov](https://www.figma.com/proto/sfRxIa6nHafoUqWl5cZjas/MHV-Inherited-Proofing---Working-Session?node-id=447%3A4390&scaling=min-zoom&page-id=421%3A1885&starting-point-node-id=447%3A4390)
     
 ## Recruitment    
 
@@ -176,7 +176,7 @@ _If you are using Perigean to recruit please submit 1 FULL week prior to the sta
 ### Research sessions
 >What dates do you plan to do research?
 
-- July 4th - August 3th 11:00am - 3:00pm, 5:00-6pm EST (with 15 min breaks in between sessions)
+- July 27th - August 3th 11:00am - 3:00pm, 5:00-6pm EST (with 15 min breaks in between sessions)
 
 - We will be recruiting **20 participants**
 
