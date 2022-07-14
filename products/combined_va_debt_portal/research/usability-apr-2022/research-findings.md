@@ -86,18 +86,10 @@ Other key moments this research touches key moments in the Veteran journey are:
 # Methodology 
 
 
-This usability study will be conducted remotely via Zoom
+This usability study was be conducted remotely via Zoom. Participants either logged into their account where the feature was turned on for them or they looked at a UXPin prototype optimized for desktop.
 
 
 # Hypotheses and Conclusions
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 1. Most participants will search for a link to their debts and bills within one of the four quadrants on the VA.gov homepage 
@@ -108,6 +100,8 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 3. Participants may want more real-time transaction data regarding their debts and bills  
 	- *Not enough information.* Not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
+
+Another participant noted that the information he's received is not always updated in a timely matter:
 	> _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
 
 4. Participants may want to view their debt and copay bill details before resolving them, so they may think there’s too much content on the ‘current debts’ and ‘current copay bills’ pages 
@@ -141,10 +135,6 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 ## 1. How participants defined copays, debt, and bills
 
@@ -229,11 +219,11 @@ One participants saw the 'View other VA debt' link but noted that the text was s
 
 ## 4.  Participants were able to locate how to request financial help.
 
-Some participant saw the *'Request help with your bill'* on the prototype that was not clickable. One participant saw the link but stated he would call. Another participant stated he thought the link might go to a live chat or a messaging system where he would get a response within 24 hours. He also mentioned being able to send a photo of a bill he already paid in order to dispute a charge.
+Some participants saw the *'Request help with your bill'* on the prototype that was not clickable. One participant saw the link but stated he would call. Another participant stated he thought the link might go to a live chat or a messaging system where he would get a response within 24 hours. He also mentioned being able to send a photo of a bill he already paid in order to dispute a charge.
 
 ## 5. Participants were able to locate how to view statements.
 
-Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail.
+Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail. Some participants noted that there were characters (&nbsp;) , "gibberish", added within their statement. 
 
 ## 6.  Participants were able to locate how to pay their debt/copay.
 Participants either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill" and click "Pay your copay bill".
@@ -273,6 +263,8 @@ _Put together initial recommendations here based on your findings along with sup
 * Look into ways of consolidating pages and surfacing important statement data and pay link sooner
 
 * Look into ways to make 'View my other VA debts' link more prominent
+
+* Eliminate "`&nbsp;`" characters on the copay statement page
   
 
 # Next Steps
@@ -280,10 +272,13 @@ _Put together initial recommendations here based on your findings along with sup
  - Review content and user flow and assess whether pages can be consolidated
  - Review design and whether important statement information and a pay link can appear sooner to users
  - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear.
+ - Assess whether "`&nbsp;`" characters on the copay statement page can be eliminated
 
 
 
 # Further research needed
+
+Further research should be conducted involving Veterans who have both debts and copays within the last 6 months.
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 * Identify as Women, Asian, or LGBTQ+
