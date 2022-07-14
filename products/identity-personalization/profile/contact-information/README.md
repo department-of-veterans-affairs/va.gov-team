@@ -6,7 +6,7 @@ Last Updated July 14, 2022
 - [POCs](#)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Measuring success](#measuring-success)
+- [Analytics](#analytics)
 - [Projects](#projects)
 - [Feature overview](#feature-overview)
 - [How to Access and Test](#how-to-access-and-test)
@@ -48,7 +48,7 @@ As a user, I want to be able to:
 - Update my contact information as it changes.
 - Update my contact information in one place and have it update everywhere at the VA.
 
-## Measuring success
+## Analytics
 - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [GA dashboard for address validation](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
 
