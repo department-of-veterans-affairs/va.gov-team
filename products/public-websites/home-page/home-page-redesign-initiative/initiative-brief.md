@@ -14,18 +14,16 @@
 
 [Summary of changes](#summary-of-changes)
  - [March 2022 iteration](#march-2022-iteration)
- - [Next iteration](#next-iteration)
-
+ - [Next steps](#next-steps)
 
 [Ongoing efforts](#ongoing-efforts)
+- [Cross-team collaboration](cross-team-collaboration)
 - [Connection to authenticated experience](#connection-to-authenticated-experience)
 - [Discussions with stakeholders](#discussions-with-stakeholders)
 
 [Launch planning](#launch-planning)
 
 - [Collaboration cycle](#collaboration-cycle)
-
-- [Go-to-market strategy](#go-to-market-strategy)
 
 - [Timeline](#timeline) 
 
@@ -56,6 +54,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 - The current UX design was optimized for viewability across Desktop and Mobile, limiting the number of links to five in each of the four top task boxes. This limitation has made it difficult to respond to the expanding benefit and program landscape and stakeholder requests. 
 
 ## Desired Outcomes
+
 **Desired user outcomes**
 - As a Veteran I want to be able to access tools and processes quickly and easily so that I can manage my own VA benefits 
 - As a Veteran, caregiver, family member, etc, I want to be able to learn about the different benefits available to me including eligibility etc. so that I can apply to these benefits.
@@ -86,7 +85,7 @@ Iterations should support the following goals:
 
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 - Increased clickthrough rates
 - Decreased time on page before taking action
 - Increased login from homepage
@@ -152,16 +151,14 @@ Iterations should support the following goals:
 4. Continue to refine objectives and key results 
 5: Develop a rubric for delivering menaingful Veteran-facing content 
 6. Design iterations, informed by analytics and research findings 
-
-### Next iteration 
-
-**Planned changes ~3Q22**
-- Update for Top Tasks based on research findings
-- Language/labels for "other search tools"
-- Consider replacing Veteran portraits with additional promo space to be used for OPIA priority information (i.e. PACT ACT)
-  - _this will require consensus on content governance and accessibility support, particularly for images_
-- "Off ramp" area for non-Veteran facing content
-- Order of benefit hubs based on benefit utilization and analytics
+   > Planned changes ~3Q22**
+   > - Address accessibility feedback
+   > - Update Top Tasks based on research findings
+   > - Language/labels for "other search tools"
+   > - Consider replacing Veteran portraits with additional promo space to be used for OPIA priority information (i.e. PACT ACT)
+   >    - _this will require consensus on content governance and accessibility support, particularly for images_
+   > - "Off ramp" area for non-Veteran facing content
+   > - Order of benefit hubs based on benefit utilization and analytics
 
 ## Ongoing efforts
 
