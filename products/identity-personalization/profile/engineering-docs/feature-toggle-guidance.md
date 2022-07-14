@@ -1,5 +1,7 @@
 # Auth Experience team feature toggle guide
 
+Last updated: July 11, 2022
+
 - [Auth Experience team feature toggle guide](#auth-experience-team-feature-toggle-guide)
   - [Overview](#overview)
   - [Team specific practices](#team-specific-practices)
