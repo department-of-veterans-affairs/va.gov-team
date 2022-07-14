@@ -17,7 +17,8 @@
 - 988 Crisis Line phone number (Dave/Denise/Kevin)
 - Review Facilities Q3 priorities (Denise)
 - Coordination for Lovell (Kevin)
-- Training to edit Centralized content for VHADM (4 x 138 pages)
+- Training to edit centralized content for VHADM (4 x 138 pages) (Kevin)
+- Notifications: research (Erika)
 
 ## June 29, 2022
 
