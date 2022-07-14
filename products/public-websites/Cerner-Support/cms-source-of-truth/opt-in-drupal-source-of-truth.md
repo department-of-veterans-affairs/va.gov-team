@@ -35,10 +35,10 @@ Under the existing hard-coded solution, there are mechanisms in place that serve
     connectDrupalSourceOfTruthCerner(store.dispatch);
     ```
     
-    [See an example here.](https://github.com/department-of-veterans-affairs/vets-website/blob/1b2eb6292fccec7caa0da1b9448b6bb6a1548c8d/src/applications/static-pages/health-care-manage-benefits/get-medical-records-page/index.js#L10)
+    [See an example here.](https://github.com/department-of-veterans-affairs/vets-website/blob/fc37c42addc87a150b13a8238776b77dc7fd2c7b/src/applications/static-pages/health-care-manage-benefits/get-medical-records-page/index.js#L10)
     
     
-2. Updating calls to these selectors to use the new selectors with `...Dsot` (Drupal Source of Truth) suffix:
+2. Updating calls to these selectors to use the new selectors from the `cerner-dsot` (Drupal Source of Truth) selectors file:
 
    ```
    import { selectPatientFacilities } from 'platform/user/selectors';
@@ -49,24 +49,24 @@ Under the existing hard-coded solution, there are mechanisms in place that serve
    ```
    becomes
    ```
-   import { selectPatientFacilitiesDsot } from 'platform/user/selectors';
+   import { selectPatientFacilities } from 'platform/user/cerner-dsot/selectors';
    ...
    ...
    ...
    const facilities = selectPatientFacilitiesDsot(state);
    ```
-   [See an example here](https://github.com/department-of-veterans-affairs/vets-website/blob/a656954e83c95958c2d88e77466c12f71c2ec43a/src/applications/static-pages/health-care-manage-benefits/get-medical-records-page/components/App/index.js#L49) that conditionally uses either the old source of truth or the new (Drupal) source of truth based on a Flipper feature toggle.
+   [See an example here](https://github.com/department-of-veterans-affairs/vets-website/blob/fc37c42addc87a150b13a8238776b77dc7fd2c7b/src/applications/static-pages/health-care-manage-benefits/get-medical-records-page/components/App/index.js#L47) that conditionally uses either the old source of truth or the new (Drupal) source of truth based on a Flipper feature toggle.
    
-Here is a list of selectors that can be used with the Drupal source of truth:
-- `selectCernerFacilitiesDsot` Selects facilities that use Cerner as EHR.
-- `selectCernerFacilityIdsDsot` Selects ids of facilities that user Cerner as EHR.
-- `selectPatientFacilitiesDsot` (from example above) Selects facilities associated with currently authenticated user.
-- `selectPatientCernerFacilitiesDsot` Selects facilities that user Cerner as EHR and are associated with currently authenticated user.
-- `selectIsCernerOnlyPatientDsot` Returns true if currently authenticated user is associated with only Cerner facilities.
-- `selectIsCernerPatientDsot` Returns true if currently authenticated user is associated with any Cerner facilities.
+Here is a list of selectors that can be used with the Drupal source of truth (see [platform/user/cerner-dsot/selectors](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/user/cerner-dsot/selectors.js)):
+- `selectCernerFacilities` Selects facilities that use Cerner as EHR.
+- `selectCernerFacilityIds` Selects ids of facilities that user Cerner as EHR.
+- `selectPatientFacilities` (from example above) Selects facilities associated with currently authenticated user.
+- `selectPatientCernerFacilities` Selects facilities that user Cerner as EHR and are associated with currently authenticated user.
+- `selectIsCernerOnlyPatient` Returns true if currently authenticated user is associated with only Cerner facilities.
+- `selectIsCernerPatient` Returns true if currently authenticated user is associated with any Cerner facilities.
 
 
 ## This is an opt-in feature, but should be used for all new development
-The opt-in approach is designed as a sort of new "API version" so that existing apps/widgets/functionality that are currently using `selectPatientFacilities`, for example, can update to `selectPatientFacilitiesDsot` at a time that is convenient. That said, the old source of truth will eventually be deprecated. All new development should employ this new approach.
+The opt-in approach is designed as a sort of new "API version" so that existing apps/widgets/functionality that are currently using `selectPatientFacilities`, for example, can update to the `cerner-dsot` version at a time that is convenient. That said, the old source of truth will eventually be deprecated. All new development should employ this new approach.
 
 
