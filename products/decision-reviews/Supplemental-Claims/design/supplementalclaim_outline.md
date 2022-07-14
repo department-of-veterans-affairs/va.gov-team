@@ -85,19 +85,19 @@ Please complete all the following information.
 5. Form 4142 for VA to assist collection of records
 6. Evidence Summary
 
-## Step 5 of 5: Certification and Signature
+## Step 4 of 5: Certification and Signature
 Who is Signing? 
 - [ ] Veteran
 - [ ] Other
 
-## Step 5 of 5: Veteran
+## Step 4 of 5: Veteran
 1. Signature
 2. Name
 3. Date
 
-## Step 5 of 5: Alternate Certification and Signature
+## Step 4 of 5: Alternate Certification and Signature
 1. Signature
 2. Name
 3. Date
 
-## Review and Submit
+## Step 5 of 5: Review and Submit
