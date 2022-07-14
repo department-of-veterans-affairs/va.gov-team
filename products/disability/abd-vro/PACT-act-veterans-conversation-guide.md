@@ -36,7 +36,7 @@ Are you familiar at all with the PACT Act?
     - Do you believe you have any conditions that will be considered presumptive if it passes?
     - If so, do you plan on submitting a claim for those conditions?
 - [If NO … explain at a high level what the PACT Act is, and get their response]
-    - [About the PACT Act](https://www.notion.so/About-the-PACT-Act-5d522999f2e149e9ae0af2cabbef76db)
+    - [About the PACT Act](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EdBSqOnCWdZKoD6M4P5mgusBfg-_AAfX0wLSo_geMRigSg?e=EScRqI)
 - [if the veteran served in the Gulf War, War in Afghanistan or related territories]
     - Are you familiar with the Burn Pit registry? *(probe thoughtfully)*
         - [if YES] What is your understanding of what that is?
