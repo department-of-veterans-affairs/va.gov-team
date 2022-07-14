@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience, My VA Redirect UAT, July 2022
+# Research Plan for Authenticated Experience, My VA Redirect UAT, August 2022
 
 ## Background
 To improve personalization and access to action items, we’re implementing a redirect so users are redirected to My VA when they log in from the homepage.  
@@ -94,14 +94,9 @@ Please recruit 14 participants for 7 completed sessions.
 When will the thing you are testing be finalized? 
 June 22, 2022
 
-Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: tbd
-* Date and time of pilot session: 
-* Please schedule 45 minutes to allow for extra time
-
 ### Research sessions
 What dates do you plan to do research? 
-July 1 - July 7, 2022
+August 1 - August 4, 2022
 
 ### Length of sessions
 - Sessions will be 30 minutes with 30 minutes in between sessions.
@@ -111,10 +106,10 @@ July 1 - July 7, 2022
 
 | Date       | Times (Eastern) |  Notes | 
 | ---------- | --------------- | --------------- |
-| July 1 | 10:30am-4:30pm |
-| July 5 | 10am-4:30pm | No screenreader sessions this day |
-| July 6 | 9am-4pm |	
-| July 7 | 9am-4:30pm |	
+| August 1 | 9am-4:30pm |
+| August 2 | 10am-4:30pm | |
+| August 3 | 9am-4:30pm |	
+| August 4 | 10am-4:30pm |	
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -122,9 +117,9 @@ Please list the people who will be serving in each role.
 - Moderator: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
 - Research guide writing and task development: Liz Lantz
 - Participant recruiting & screening:	Perigean
+- Notetakers:	Perigean
 - Project point of contact: Liz Lantz
 - Assistive technology support: Angela Fowler
-- Participant(s) for pilot test: Shane Strassberg, shane.strassberg@omb.eop.gov
 - Observers:	
   - samara.strauss@va.gov
   - ana@adhocteam.us 
