@@ -38,7 +38,7 @@
 - [ ] Content shouldn't be changed
 
 **What to bring**
-- [ ] Language should be copied from national content
+- [ ] Language should be copied from workbook
 
 **Transportation**
 - [ ] Mentions specific bus lines, bus stops, transit lines 
