@@ -1,4 +1,4 @@
-# Product: Alerts & notifications on VA.gov ("On-site Notifications")
+# Product outline: On-site Notifications (ie. personalized notifications that show on VA.gov)
 
 Last updated July 14, 2022
 
