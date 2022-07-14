@@ -116,6 +116,8 @@ The following is needed for the MVP build:
 - January - March 2022: Project largely on hold due to VANotify team switch
 - April 2022: VANotify starts on build; 
 - May 2022: Design updates to accomodate multiple notifications; Connecting frontend to backend
+- June 2022: VANotify fixes some issues; Begin trying to get end-to-end testing to work
+- July 2022: Figure out how all staging environments are connected; Get first working e2e test on July 12
 
 ## Backend
 
