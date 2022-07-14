@@ -73,6 +73,10 @@ Please complete all the following information.
 5. Add
 6. Issue Summary
 
+## Step 3 of 5: Notice of Acknowledgement 5103
+- [ ] Yes
+- [ ] No (mail form, pause for 30 days)
+
 ## Step 3 of 5: Evidence
 1. Evidence Summary
 2. Add evidence
@@ -80,10 +84,6 @@ Please complete all the following information.
 4. List name and location of VA Facility and Date of Records for VA to gather
 5. Form 4142 for VA to assist collection of records
 6. Evidence Summary
-
-## Step 4 of 5: Notice of Acknowledgement 5103
-- [ ] Yes
-- [ ] No (mail form, pause for 30 days)
 
 ## Step 5 of 5: Certification and Signature
 Who is Signing? 
