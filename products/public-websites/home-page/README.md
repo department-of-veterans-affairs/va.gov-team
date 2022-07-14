@@ -62,7 +62,7 @@ A timeline of key milestones from large scale initiatives
 - June 22, 2022
   - Review of redesign and research plan with Dave Conlon, Chris Johnston, and Jeff Barnes
 - July 13, 2022
-  - Deep dive presentation at Digital Modernization Council
+  - [Deep dive presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf) at Digital Modernization Council
 - August 2022
   - Usability research | [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
 
