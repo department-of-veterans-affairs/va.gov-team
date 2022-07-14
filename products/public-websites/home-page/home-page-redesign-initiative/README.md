@@ -52,7 +52,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 ## Baseline analytics
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
 - [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit cateogry_
-- [Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/benefit-utilization-data.md)
+- [Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/benefit-utilization-data.md) >_Receipient/beneficiary numbers by benefit category
 
 ## Research artifacts
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research)
