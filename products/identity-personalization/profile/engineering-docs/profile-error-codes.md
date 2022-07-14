@@ -1,6 +1,8 @@
 # Profile error codes
 
-Last updated: June 18, 2020
+**Last updated: June 18, 2020**
+
+This table represents error codes from the VA Profile API when a user tries to update their profile information
 
 | _Code_ | _Meaning_ |
 |----------------|-------------|
