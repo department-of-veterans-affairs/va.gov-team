@@ -42,12 +42,12 @@ In the nearly three years since the site's launch, the range of VA benefits and 
 Veterans have evolved too - from never logging in to understanding that some tasks are possible online _only when logged in_. The VA.gov homepage needs to reflect the evolution of our Veterans and the benefit landscape. 
 
 ## Product artifacts
-- [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/product-outline.md)
-- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
+
+- [Homepage redesign initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
 - [Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative/analytics)
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/discovery.md)
 - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/decision-log.md)
+- [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
 
 ## Baseline analytics
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
