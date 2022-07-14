@@ -6,6 +6,8 @@
 
 [Desired outcomes](#desired-outcomes)
 
+[Approach](#approach)
+
 [Measuring success](#measuring-success)
 
 [Assumptions and risks](#assumptions-and-risks)
@@ -37,11 +39,22 @@
 - This "first build" will be complete with internal links vs. just a static Preview home page with links out to Prod sub-pages 
 
 ## Problems to solve
-- In March 2022, ~10% of users logged in to VA.gov, which means the majority of users do not benefit from the personalized experience.
-- The home page has a very low engagement (measured by event rates), particularly for
-  - VAntage Point blog articles on the home page
-  - top tasks in the 4 panels 
-- The text-heavy current experience increases cognitive load and discourages engagement. 
+
+**1. The text-heavy current experience increases cognitive load and discourages engagement.**
+- The volume of content causes Veterans to focus on a single area of the homepage, usually the top 4 boxes. 
+- Some tasks are easier than others to complete. 
+- A few tasks in the top four boxes get most of the traffic.
+
+**2. The row of Veteran portraits acts as a false bottom which negatively affects engagement with content displayed below the images.**
+
+**3. Search and login**
+- ~15% of users logged in to VA.gov, which means the majority of users do not benefit from the personalized experience.
+- ~ 586K unique searches initiated from the homepage Jan-Jun 2022 - second only to Find a VA Form but still only 12% of all unique searches. 
+
+**4. The current homepage does not meet organizational and stakeholder needs.**
+- We need to help Veterans discover changes in products, services, or eligibility that affect them so they can take action.
+- We need to empower Veterans to receive information, rather than to actively seek it out (i.e. subscirbe for email updates).
+- We need to direct non-Veteran/beneficiary audiences where to go for the information and tasks appropriate to their needs
 - The current UX design was optimized for viewability across Desktop and Mobile, limiting the number of links to five in each of the four top task boxes. This limitation has made it difficult to respond to the expanding benefit and program landscape and stakeholder requests. 
 
 ## Desired Outcomes
@@ -60,23 +73,21 @@
 - More traffic from the home page to the VAntage Point blog
 - More logins
 
----
+## Approach
+Use findings from Veteran research, quantitative user data and benefit utilization to inform design iterations which support the followiing goals
+- make it easier for Veterans to navigate the page, engage with relevant information and complete their tasks
+- increase the use of the authenticated experience
+- intuitively empower Veterans to find and take action on less common tasks
+- provide and avenue for Veterans to receive updates and information
+
 ## Measuring Success
 
-Our goal is to test ideas for making it easier to find and interact with the elements of the page that positively impact Veterans by improving the usefulness of what matters to them and removing clutter and distractions. ***These experiments are not going to be deployed in production, but rather on a publicly accessible subdomain of va.gov.***
-
-We will work through the Collaboration Cycle to determine how to measure outcomes in a non-production environment.
-
-### Expected outcomes
-- Increase engagement with Veteran-relevant VAntage Point blog articles by changing content placement (measured by increase in click through rate) 
-- Increase use of personalized experience (measured by increase in sign-in/sign-up rates) 
-- Decrease time to take action
-
 ### Key Performance Indicators (KPIs)
-
-**Because we are going to run this experiment on a subdomain of va.gov, we will need to work closely with the Analytics team to design the experiment and KPIs. We will need to design the experiment around a lack of historical data on subdomain traffic and a current lack of A/B testing capability.**
-
----
+- Increased clickthrough rates
+- Decreased time on page before taking action
+- Increased login from homepage
+- Increased Veteran satisfaction scores
+- Increased subscriptions to email updates
 
 ## Assumptions and risks
 
@@ -115,11 +126,8 @@ Given the strong evidence for change and experimental nature of our work, we int
  - A randomized, rotating set of Veteran portraits has been added to the top of the page
  - Sign in/Sign up CTA has elevated visibility and top placement
  - Four top task boxes have been replaced with a data-driven list of links to 5 Veteran-facing pages where actions can be taken 
- - A visible search option which mimics the site search is available, followed by a data-driven list of four other search tools not available through Search (such as Yellow Ribbon, Education benefits, Find a VA form, Facility Locator)
- - VAntage blog article appears in prominent location with requirements to be Veteran facing and refreshed weekly, at a minimum
- - Benefit hubs are listed based on use volume
- - Static row of Veteran images appear immediately above the footer
- - Governance and guidance is available to establish required content, character limitations and criteria for inclusion of links and tasks
+ - A visible search option which mimics the site search is available, followed by a  list of other search tools not available through Search (such as Yellow Ribbon, Education benefits, Find a VA form, Facility Locator)
+ - VAntage blog article appears in prominent location
 
 **Value proposition**
 - Veteran portraits humanize VA and remind stakeholders who VA.gov is intended to serve
@@ -158,6 +166,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 ### Discussions with stakeholders
 - June 22, 2022 Review of redesign and research plan with Dave Conlon, Chris Johnston, and Jeff Barnes
+- July 12, 2022 Deep dive presentation to Digital Modernization Council
 
 --- 
 
