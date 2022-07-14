@@ -19,15 +19,16 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - 
 
 ## What we need to do
-- Research, design, and define the facilities heirarchical structure as it relates to Veteran needs and understanding
-- Research, design, and write new content/create content guidelines for editors for "Prepare for your visit" section
+- Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
+- Research, design, and write new content/create content guidelines for field editors for location-specific content, for example "prepare for your visit" section and others
+- Research, design, and write new content/create content guidelines for national editors for national COPE content
 - Research, design, and extend the VA services taxonomy to include VBA services; write as-necessary
 - Research, design, and write (first draft/pilot) local facility content for each benefit service
-- Build Regional Office/benefits facilities in Drupal
-- Build and publish new front-end VA Regional Office facility product
-- Research, design, and write new content for new facility products
+- Build pilot VBA facilities in Drupal
+- Build and publish new front-end VBA facilities product(s)
+- Sunset legacy sites
 - Integrate VBA facilities from Drupal into the Facilities API as source of truth
-- Identify current users of VBA database, create sunset plan and deprecate VBA database
+- Identify current users of VBA_facilities CDW database, create sunset plan and deprecate VBA database
 
 ## Old/legacy Regional Office/benefits websites
 
