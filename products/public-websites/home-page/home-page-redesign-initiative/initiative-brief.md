@@ -1,4 +1,4 @@
-## Initiative Brief – Home page redesign initiative 
+## Home page redesign initiative brief 
 
 [Overview](#overview)
 
