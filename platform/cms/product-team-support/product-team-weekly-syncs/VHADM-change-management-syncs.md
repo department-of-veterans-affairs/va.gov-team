@@ -15,8 +15,10 @@
 ## July 14, 2022
 
 - 988 Crisis Line phone number (Dave/Denise/Kevin)
-- Review Facilities Q3 priorities (Denise)
-- Coordination for Lovell (Kevin)
+- Review Facilities Q3 priorities (Denise/Kevin)
+  - Coordination for Lovell (Kevin)
+  - VAMC operating status and VAMC banner alerts (Kevin/David S.)
+  - Facility COVID status post-launch: research underway (Denise)
 - Training to edit centralized content for VHADM (4 x 138 pages) (Kevin)
 - Notifications: research (Erika)
 
