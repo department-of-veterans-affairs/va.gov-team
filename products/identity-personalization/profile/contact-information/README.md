@@ -81,7 +81,8 @@ As a user, I want to be able to:
 - Confirmation emails for when people update contact information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
 
 ### Error Handling
-[List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
+- [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
+- [Address save failure errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
 
 ## Frontend
 - Need frontend documentation for updating mailing and home address
