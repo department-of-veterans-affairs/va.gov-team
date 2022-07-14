@@ -39,7 +39,7 @@ To help Veterans and beneficiaries
 
 In the nearly three years since the site's launch, the range of VA benefits and programs has grown and evolved, with new valuable offerings. The VA.gov authenticated experience has expanded to include MyVA, MyProfile, eBenefits migration, and soon MyHealthevet integration. 
 
-The VA.gov homepage needs to effectively bridge users to the personalized logged-in experience and act as a vital guidepost to a growing selection of new information and benefit services while managing stakeholders competing for valuable real estate on the homepage. Veterans have evolved too - from never logging in to understanding that some tasks are possible online _only when logged in_. The VA.gov homepage needs to reflect the evolution of our Veterans and the benefit landscape. 
+Veterans have evolved too - from never logging in to understanding that some tasks are possible online _only when logged in_. The VA.gov homepage needs to reflect the evolution of our Veterans and the benefit landscape. 
 
 ## Product artifacts
 - [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
