@@ -117,7 +117,7 @@ Please list the people who will be serving in each role.
 - Moderator: Liz Lantz, liz.lantz@adhocteam.us, 843-898-4463
 - Research guide writing and task development: Liz Lantz
 - Participant recruiting & screening:	Perigean
-- Notetakers:	Perigean
+- Notetakers:	My VA team members
 - Project point of contact: Liz Lantz
 - Assistive technology support: Angela Fowler
 - Observers:	
