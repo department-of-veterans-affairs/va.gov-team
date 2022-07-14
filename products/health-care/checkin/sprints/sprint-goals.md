@@ -1,5 +1,15 @@
 # SPRINT GOALS
 
+## 7/27/2022
+
+#### Planned Releases
+
+#### R&D Sprint Goals (TENTATIVE)
+
+#### Engineering Sprint Goals (TENTATIVE)
+- [Brainstorm Delivering Login/General Errors Up the Chain to Staff-Facing Applications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44360)
+    - Investigate & discuss with team
+
 ## 7/13/2022
 
 #### Planned Releases 
