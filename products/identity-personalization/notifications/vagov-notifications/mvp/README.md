@@ -125,7 +125,12 @@ The following is needed for the MVP build:
 
 ### How to test
 
-Staging and testing documentation for the MVP is pending.
+This is the [on-site notification MVP QA documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-onsite-notification.md). 
+
+It is important to note that notifications are dismissible in the MVP, so it's possible that as time passes, users who had on-site notifications for QA no longer have them if someone dismisses them. To get new debt notifications added, there are two possible options:
+
+- If you want to trigger an on-site notification AND to have debts show in the debt section of VA.gov, you will need to Work with the debt management backend team (DMC). They can add debts to the debt tool in staging and also trigger alerts to VANotify, which will trigger the on-site notification on VA.gov.
+- If you only need an on-site notification to show on My VA, you can get VANotify to do this. However, if you go through VANotify, this will not add a debt to the debt tool. Therefore, the notification they add will show on My VA, but it won't correspond to a debt in the debt tool.
 
 ## Frontend
 
