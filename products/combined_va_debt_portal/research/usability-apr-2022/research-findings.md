@@ -102,7 +102,8 @@ This usability study was be conducted remotely via Zoom. Participants either log
 	- *Not enough information.* Not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
 
 Another participant noted that the information he's received is not always updated in a timely matter:
-	> _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
+	
+> _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
 
 4. Participants may want to view their debt and copay bill details before resolving them, so they may think there’s too much content on the ‘current debts’ and ‘current copay bills’ pages 
 	- *Maybe true.* Participants talked about the ability to quickly either view details or quickly pay their bill based on their situation. Several participants noted that there were too many pages and that 
@@ -264,7 +265,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 * Look into ways to make 'View my other VA debts' link more prominent
 
-* Eliminate "`&nbsp;`" characters on the copay statement page
+* Eliminate `&nbsp;` characters on the copay statement page
   
 
 # Next Steps
@@ -272,7 +273,7 @@ _Put together initial recommendations here based on your findings along with sup
  - Review content and user flow and assess whether pages can be consolidated
  - Review design and whether important statement information and a pay link can appear sooner to users
  - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear.
- - Assess whether "`&nbsp;`" characters on the copay statement page can be eliminated
+ - Assess whether `&nbsp;` characters on the copay statement page can be eliminated
 
 
 
@@ -311,8 +312,6 @@ Summary page:
 Copay page: 
 - [https://va.gov/manage-debt-and-bills/summary/copay-balances](https://va.gov/manage-debt-and-bills/summary/copay-balances)
 -   [UXPin copay page](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524984/simulate/sitemap?mode=if)
-
-
 
 
 
