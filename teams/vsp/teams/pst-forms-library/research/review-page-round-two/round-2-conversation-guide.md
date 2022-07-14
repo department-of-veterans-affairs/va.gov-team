@@ -1,12 +1,9 @@
 Review Page Round 2 Conversation Guide
 ======================================
 
--   UXPin Prototype ([Desktop](https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bed#/pages/150370509?mode=cvhidm) - [Mobile](https://preview.uxpin.com/2f628ef89864a97c1e1980bda352d38ac75e3592cvhidm))
-    - Desktop raw link: https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bed#/pages/150370509?mode=cvhidm
-    - Mobile raw link: https://preview.uxpin.com/2f628ef89864a97c1e1980bda352d38ac75e3592cvhidm
--  Shorter URLs
-    -   Desktop: <https://tinyurl.com/2p8h22jh>
-    -   Mobile: <https://tinyurl.com/4v9d8wus>
+-   UXPin Prototype
+    - Desktop raw link: https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bedcvhidm
+    - Mobile raw link: https://preview.uxpin.com/3f788e8c6673bebc0365fd5d08a28347037aa809cvhidm
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
 
@@ -54,8 +51,8 @@ Help the participant screenshare and open the prototype
 
 Please share your screen in Zoom by clicking the screen share option and selecting 'Share web url'. Readout the tiny url to the participant.
 
--   Desktop: <https://tinyurl.com/36ud9p34>
--   Mobile: <https://tinyurl.com/2xk47ejy>
+- Desktop: https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bedcvhidm
+- Mobile: https://preview.uxpin.com/3f788e8c6673bebc0365fd5d08a28347037aa809cvhidm
 
 First Task: Walk through the form - 5 - 10 minutes
 --------------------------------------------------
