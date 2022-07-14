@@ -40,14 +40,6 @@ To help Veterans and beneficiaries
 - get the latest information 
 - log in for access to a personalized streamlined experience
 
-
-| Intention | Experience | User story |
-| --- | --- | --- |
-| Learn | Unauth | I need to discover/learn information about the benefits and services available to me because I am new to the VA or I have a new need/life circumstance.
-| Apply |  Auth | I need to create an account so I can take advantage of the personalized, streamlined experience. 
-| Manage | Auth | I need to manage my benefits and services, such as edit my existing profile or take an action, such as making an appointment. 
-
-
 ## Timeline
 A timeline of key milestones from large scale initiatives 
 
