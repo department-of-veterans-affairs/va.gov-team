@@ -2,6 +2,8 @@
 
 This README page serves as a "front door" to documentation and resources collected during the course of product design and development. 
 
+Related: [Homepage redesign iteration READ.ME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration)
+
 ## Table of Contents
 [Product context](#product-context)
 
