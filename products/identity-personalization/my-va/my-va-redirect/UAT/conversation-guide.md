@@ -21,7 +21,7 @@ Before we start, a few things I want to mention:
 * **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Warm-up Questions (Optional) - 2 minutes
-**Task goal: Confirm they qualify for the study
+Task goal: Confirm they qualify for the study
 
 1. As part of the scheduling for this session, we asked if you have an account on VA.gov. Can you confirm for me that you have a DS Logon, MyHealtheVet, Login.gov or ID.me account?
 	* If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?)
