@@ -92,6 +92,11 @@ Iterations should support the following goals:
 - Increased Veteran satisfaction scores
 - Increased subscriptions to email updates
 
+**Baseline values**
+- [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md)
+  > includes traffic to the homepage and log-in rates, events on the header, mega menu, top 4 box tasks, benefit hubs/"explore section", VAntage Point navigation, main page buttons and data visualizations
+- [Homepage login data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/analytics/homepage-login.md)
+
 ## Assumptions and risks
 
 **Value Risks** (will people use it): 
