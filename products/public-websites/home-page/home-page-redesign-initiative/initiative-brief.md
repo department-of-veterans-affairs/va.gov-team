@@ -198,6 +198,8 @@ Iterations should support the following goals:
 
 | Date | Milestone|
 |---|---|
+| November 11, 2018 | VA.gov launch
+| April 2021 | Baseline Wayfinding Research | 
 | March 39, 2022 | [Design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39038)|
 | June 3, 2022 | Moderated Top Task research/[findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
 | June 3, 2022 | First build deployed to [Staging](https://staging.va.gov/homepage-test/) |  
