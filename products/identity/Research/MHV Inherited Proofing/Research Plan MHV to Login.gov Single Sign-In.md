@@ -111,8 +111,8 @@ For moderated usability tests:
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/MHV%20Inherited%20Proofing/Conversation%20Guide%20MHV%20to%20Login.gov%20Single%20Sign-In.md)
 - [Zoom](https://zoom.us/) or [www.webex.com](https://www.webex.com/)
 - [www.va.gov](https://www.va.gov/)
-- [Figma Prototype MHV to VA.gov]()
-- [Figma Prototype Login.gov]()
+- [Figma Prototype MHV to VA.gov](https://www.figma.com/proto/y7qLXNy9I6gAMqTMChgJnu/Single-Sign-on-Non-Verified?node-id=131%3A746&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=131%3A746)
+- [Figma Prototype Login.gov](https://www.figma.com/file/sfRxIa6nHafoUqWl5cZjas/MHV-Inherited-Proofing-(Working-Session?node-id=421%3A1885)
     
 ## Recruitment    
 
