@@ -12,8 +12,6 @@
 
 [Assumptions and risks](#assumptions-and-risks)
 
-[Prioritization](#prioritization)
-
 [Summary of changes](#summary-of-changes)
  - [March 2022 iteration](#march-2022-iteration)
  - [Next iteration](#next-iteration)
@@ -34,9 +32,9 @@
 [Screenshots](#screenshots)
 
 ## Overview
-- Although the redesign was planned as a series of smaller changes, given the strong evidence for change and experimental nature of our work, it was decided to go straight to the planned Step 3 design for the first build. Further refinement will be informed by Veteran research before changes are moved to production.
-- So that users of assistive technology can participate in usability testing of the new design, the iteration will be built as functional code in a subdomain on staging. Because the page will not receive visitor traffic outside of user testing, no data layer has been applied. 
-- This "first build" will be complete with internal links vs. just a static Preview home page with links out to Prod sub-pages 
+In the nearly three years since the site's launch, the range of VA benefits and programs has grown and evolved, with new valuable offerings. The VA.gov authenticated experience has expanded to include MyVA, MyProfile, eBenefits migration, and soon MyHealthevet integration. 
+
+Veterans have evolved too - from never logging in to understanding that some tasks are possible online _only when logged in_. This redesign initative was undertaken because the VA.gov homepage needs to reflect the evolution of our Veterans and the benefit landscape. 
 
 ## Problems to solve
 
@@ -74,7 +72,13 @@
 - More logins
 
 ## Approach
-Use findings from Veteran research, quantitative user data and benefit utilization to inform design iterations which support the followiing goals
+The redesign was originally planned as [a series of smaller changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/design/phased-design-plan.md) but it was decided to go straight to the planned Step 3 design for the first build, given the strong evidence for change and experimental nature of our work. Further refinement will be informed by Veteran research before changes are moved to production.
+
+So that users of assistive technology can participate in usability testing of the new design, the nital iteration will be built as functional code with functional links, header and footer, in a subdomain on staging. Because the page will not receive visitor traffic outside of user testing, no data layer will be applied. See  - [March 2022 iteration](#march-2022-iteration) for a summary of changes. 
+
+We will use findings from Veteran research, quantitative user data and benefit utilization to inform design iterations before moving the changes to production or replacing the existing homepage. 
+
+Iterations should support the following goals:
 - make it easier for Veterans to navigate the page, engage with relevant information and complete their tasks
 - increase the use of the authenticated experience
 - intuitively empower Veterans to find and take action on less common tasks
@@ -108,10 +112,6 @@ Use findings from Veteran research, quantitative user data and benefit utilizati
 **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - We may need the support of teams outside of OCTO-DE to get our experiment live on a va.gov subdomain.
 
-## Prioritization
-
-Given the strong evidence for change and experimental nature of our work, we intend to implement several ideas at once. Further refinement will be possible later, especially when any of these changes is moved to production.
-
 ## Summary of changes
 
 ### March 2022 iteration
@@ -138,13 +138,20 @@ Given the strong evidence for change and experimental nature of our work, we int
 - Initial scope will not include the header and footer as these are shared across VA.gov and developing consensus on their use will be significantly more complicated. 
 - The “Other VA resources” section (which contains links to other VA resources such as Choose VA, Resources and Support, VSO websites, VA offices and Programs) is found in the design but not implemented in the testing version as the links are not Veteran-facing. 
 
-**Next steps - Research**
+### Next steps
 
-- Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
-- Validate design changes with Veterans, including those who use screen readers, screen magnification, and voice command at a variety of experience/skill levels and a variety of devices, including the following
-  - that the redesigned home page supports Veterans and beneficiaries in task completion 
-  - that users understand to use search for tasks which are not explicitly displayed 
-- Research findings should be shared broadly, including Authenticated Experience team and Apartment teams
+1. Conduct Veteran research to identify top tasks, informing the list of "most popular" links which replace the 4 top task boxes in the new iteration
+   > Status: Complete - June 2022 | [Unmoderated top task finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)
+
+2. Validate design changes with Veterans
+   > Status: Planned for August 2022 | [Usability research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
+
+3. Share research findings broadly 
+   > Status: ongoing. Top task presentation to Sitewide PO group planned for August 11, 2022. 
+
+4. Continue to refine objectives and key results 
+5: Develop a rubric for delivering menaingful Veteran-facing content 
+6. Design iterations, informed by analytics and research findings 
 
 ### Next iteration 
 
@@ -154,9 +161,12 @@ Given the strong evidence for change and experimental nature of our work, we int
 - Consider replacing Veteran portraits with additional promo space to be used for OPIA priority information (i.e. PACT ACT)
   - _this will require consensus on content governance and accessibility support, particularly for images_
 - "Off ramp" area for non-Veteran facing content
-- Order of benefit hubs
+- Order of benefit hubs based on benefit utilization and analytics
 
 ## Ongoing efforts
+
+### Cross-team collaboration
+- Tight collaboration/communication/research readouts with relevant teams (Public Websites, Apartment, Auth Experience)
 
 ### Connection to authenticated experience
 - Explore routed queries - direct Veterans to a deep link rather than the search results page
@@ -166,7 +176,7 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 ### Discussions with stakeholders
 - June 22, 2022 Review of redesign and research plan with Dave Conlon, Chris Johnston, and Jeff Barnes
-- July 12, 2022 Deep dive presentation to Digital Modernization Council
+- July 12, 2022 [Deep dive presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf) to Digital Modernization Council
 
 --- 
 
@@ -184,15 +194,6 @@ Given the strong evidence for change and experimental nature of our work, we int
 | Analytics | _requested 5/2022_ | [Search DOMO #41512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41512) / [Content DOMO #41503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41503) | |
 | Accessibility | _requested 6/2022_| [Accessibility spot check review for redesigned VA.gov home page #42860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42860)| |
 
-### Go-to-market strategy
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
-1. Deploy first build into publicly available interactive environment (for access by stakeholders and usability research)
-2. Request analytics support
-3. Develop usability research plan
-4. Discussions with VA leadership, Digital media partners and other stakeholders
-5. Evolution of Web Governance board
-
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
@@ -202,13 +203,8 @@ Given the strong evidence for change and experimental nature of our work, we int
 | June 3, 2022 | Moderated Top Task research synthesis - [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md) |
 | June 3, 2022 | First build deployed to staging |  
 | June 2022 | [Unmoderated Top Task research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)|
-| July 2022 | Usability research | 
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
+| July 22, 2022 | [Deep dive presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/VA.gov%20homepage%20deep%20dive%20-%20July%202022.pdf) to Digital Modernization Council 2022 
+| August 2022 | Usability research | 
 
 ---
    
@@ -229,8 +225,5 @@ Given the strong evidence for change and experimental nature of our work, we int
 
 </details>
 
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
 
 
