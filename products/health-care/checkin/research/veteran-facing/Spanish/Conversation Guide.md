@@ -1,4 +1,5 @@
-# Conversation guide for pre-check-in and check-in Spanish content & toggle design
+# Conversation guide for Spanish Check-in & Toggle Design
+
 
 ## Moderator logistics
 Use #feedback-backchannel in Slack for real-time feedback from observers.
