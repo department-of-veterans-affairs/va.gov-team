@@ -29,7 +29,8 @@ The homepage fulfills Lincoln's promise, the VA's mission to honor and serve Ame
 - to enable faster access to care and timely delivery of services
 - improve the use experience of interacting with the VA
 
-2018 homepage goals
+**2018 homepage goals**
+
 To help Veterans and beneficiaries
 - explore VA benefits and services
 - complete tasks to manage their benefits and services
