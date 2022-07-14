@@ -150,3 +150,4 @@ It is important to note that notifications are dismissible in the MVP, so it's p
 
 ### After
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/onsite-notification.png)
