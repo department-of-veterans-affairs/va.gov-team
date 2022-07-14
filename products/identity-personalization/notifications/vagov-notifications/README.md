@@ -1,6 +1,6 @@
 # Product: Alerts & notifications on VA.gov ("On-site Notifications")
 
-Last updated May 5, 2022
+Last updated July 14, 2022
 
 ### Communications
 
@@ -77,11 +77,19 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Backend
 
+### How it works
+
 We receive on-site notification from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html). The system works as follows:
 
 - A backend system (eg. debt management) talks to VANotify and tells it to send out a notification.
 - VANotify then determines via what channels to send the notification (eg. email, text, VA.gov).
 - If VANotify determines it should send a notification to VA.gov (ie. on-site notifications), it will send a `user id` and `template id` to VA.gov. This will tell us what notification to show and to whom.
+
+### How to test
+
+Currently, there is only one notification to test (2022). In the future, there may be multiple notifications that need to be tested in different ways. 
+
+- For information on how to test the on-site notification MVP ("you have a new debt"), [please refer to the project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md#how-to-test).
 
 ## Frontend
 
