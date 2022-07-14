@@ -67,7 +67,7 @@ We will be conducting these interviews remotely, over Zoom.
 
 ### Research materials
 
-- [Conversation guide](https://www.notion.so/Research-plan-for-PACT-Act-presumptive-claims-veteran-research-3b7bfa3d76e149aeb3750d3c1fb563eb)
+- [Conversation guide](PACT-act-veterans-conversation-guide.md)
 
 ## Recruitment
 
