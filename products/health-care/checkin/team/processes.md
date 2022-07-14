@@ -68,6 +68,7 @@
         - Pull tickets into the Sprint
         - Agree on the Sprint goals
         - Agree on the Sprint content
+    - Product will assign the current sprint to each ticket in the Sprint
  
  ## Validating
 - Upon completion of a ticket (i.e. no more changes are expected and PR is done)
