@@ -92,5 +92,24 @@ A timeline of key milestones from large scale initiatives
 - Research: Cindy Merrill (Ad Hoc)
 
 ## Stakeholders
-
+- Digital Modernization Council (DMC)
+  > Context from Chris Johnston: The DMC is a cross-administration body that supports VA's digital modernization vision and strategy -- specifically making VA.gov the primary online destination for Veterans and their families to learn about, apply for, track, and manage their VA benefits. The Council is comprised of senior leadership across VA, including representatives from VHA, VBA, NCA, VEO, OPIA, OIT, CTO, AMO, OEHRM, and more. Goals are varied, but generally orbit around the idea that we want relevant stakeholders to be aware and in support of our work. "Support" could come in many forms, including helping remove blockers, making connections to other groups, and defending budget. One key thing that enables OCTO to continue to do the work we do, and in the way we do it, is because we deliver good results, repeatedly. Our participation in the DMC, where we transparently showcase our work, is a key component of our ongoing autonomy.
+- The [VA.gov Web Governance Board](https://www.va.gov/web/index.cfm) oversees changes made to the public va.gov homepage and is comprised of key communication representatives from VA organizations, including
+  - Office of Public and Intergovernmental Affairs
+  - Office of Information and Technology
+  - Veterans Benefits Administration
+  - Veterans Health Administration
+  - National Cemetery Administration
+  - Office of the Secretary
+  - Office of the Executive Secretary
+  - Board of Veterans Appeals
+  - Office of Acquisition, Logistics, and Construction
+  - Office of Congressional and Legislative Affairs
+  - Office of Enterprise Integration
+  - Office of General Counsel
+  - Office of Human Resource Administration
+  - Office of Management
+  - Office of Operations, Security, and Preparedness
+  - Veterans Experience Office
+- Charles Worthington - as it pertains to modifications to the VA digital strategy and VA.gov roadmap
 
