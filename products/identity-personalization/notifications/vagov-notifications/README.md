@@ -79,11 +79,17 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ### How it works
 
-We receive on-site notification from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). The system works as follows:
+We receive on-site notification from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
 
-- A backend system (eg. debt management) talks to VANotify and tells it to send out a notification.
-- VANotify then determines via what channels to send the notification (eg. email, text, VA.gov).
+- The debt management center backend (DMC) will add debts for a given set of users. Those debts will show up in the debt tool in VA.gov.
+- Once a day, the DMC backend will send a batch request to VANotify to send out notifications to folks alerting them that they have a new debt.
+- VANotify will then send out notifications:
+  - An email notification (this existed prior to the on-site notification MVP and was an entirely separate effort).
+  - A notification that shows on someone's My VA personalized dashboard if they are logged in and identity-verified (LOA3) on VA.gov.
+  - Users receieve notifications based on their preferences. Email notifications can be turned off; on-site notifications can not. 
 - If VANotify determines it should send a notification to VA.gov (ie. on-site notifications), it will send a `user id` and `template id` to VA.gov. This will tell us what notification to show and to whom.
+
+[Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
 
 ### How to test
 
