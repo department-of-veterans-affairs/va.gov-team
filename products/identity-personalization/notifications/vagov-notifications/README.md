@@ -105,6 +105,9 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ## Design
 
+- Add Sketch files
+- Add use cases
+
 ### Before
 
 *My VA 2.0*
