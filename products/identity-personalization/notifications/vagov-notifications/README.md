@@ -79,7 +79,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ### How it works
 
-We receive on-site notification from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html). The system works as follows:
+We receive on-site notification from [VANotify][A list of all VA.gov partner services can be found in the Platform developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services).). The system works as follows:
 
 - A backend system (eg. debt management) talks to VANotify and tells it to send out a notification.
 - VANotify then determines via what channels to send the notification (eg. email, text, VA.gov).
