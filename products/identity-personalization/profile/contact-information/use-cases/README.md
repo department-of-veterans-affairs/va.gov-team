@@ -2,7 +2,7 @@
 
 `draft`
 
-**Last updated:** July 7, 2022
+**Last updated:** July 14, 2022
 
 Contact information use case documentation is available in this directory.
 
@@ -24,8 +24,9 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### Validation
 - [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/use-cases/README.md) 
-- Postal services does not recognize an address
-- A suggested address is provided
+- [Address can’t be confirmed with USPS, and a suggested address is found.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#address-cant-be-confirmed-with-usps-and-a-suggested-address-is-found)
+- [Address and/or unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#address-andor-unit-number-cant-be-confirmed-with-us-postal-service-usps-and-a-suggestion-is-not-found)
+- [Address is missing a unit number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#address-is-missing-a-unit-number)
 
 ### System
 - Something has gone wrong and VA.gov can't display any contact information
