@@ -60,47 +60,34 @@ As a Veteran, I:
 
 ## Launch Dates
 - *Target Launch Date* 
-  - April 1
+  - August 2022
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - TBD
+  - September 2022
+---
+
 
 ## Handoff
-- When the following year's 1095-B tax form is available, the 1095-b owner will need to ensure they're using the blank 1095-b pdf for the current tax year. The new PDF should be added to the API once the form is available.
+- When the following year's 1095-B tax form is available, the 1095-B owner will need to ensure they're using the IRS blank 1095-B pdf and txt version for the current tax year. The new PDF and txt version should be added to the API once the form is available.
 - Following dark launch, the sitewide team will need to introduce appropriate wayfinding and navigation to the form.
 ---
    
 
 #### Communications
-
-<details>
-
 - Team Name: MOVE
 - GitHub Label: 1095b-Tax-Form
 - Slack channel: #cedar-1095b
-- Product POCs: Tracey Mulrooney (VA), Jordan White (MOVE), Ashley Castillo (MOVE)
+- Product POCs: Tracey Mulrooney (VA), Munish Sikka (MOVE), Tamera (Tami) Corson (MOVE)
 - Stakeholders: 
-
-</details>
+---
 
 #### Team Members
-
-<details>
- 
  - DEPO Lead: Tracey Mulrooney
- - PM: Jordan White/Ashley Castillo
- - Engineering: Ben Morris (MOVE)
- - Research/Design: Kit Casey (MOVE)
- 
-</details>
+ - PM: Munish Sikka / Tamera (Tami) Corson
+ - Engineering: Shashank Khandelwal / Teagan Stephenson 
+ - Research/Design: Thomas McCue / Carl Dickerson (content)
+---
 
 
 #### Stakeholders
-
-<details>
- 
-- Tarsha Tremble
- 
-</details>
-
-
-
+- Tarsha Tremble, Health Enrollment Center (HEC)
+ ---
