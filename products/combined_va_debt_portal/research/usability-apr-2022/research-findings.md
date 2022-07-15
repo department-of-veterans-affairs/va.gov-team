@@ -183,12 +183,11 @@ Some participants had more nuanced definitions of the term 'bill'.
 
 While looking at the 4 quadrants on the homepage, participants were most likely to either select or mention thinking about selecting the *'View payment history'* link on the homepage.
 
-
-![4 quad](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/va-4-quad.png?raw=true)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/va-4-quad.png?raw=true" alt="4 quadrants" width=500>
 
 The *[View your payment history](https://www.va.gov/va-payment-history/)* page contains a link at the bottom of the page to *[Manage your VA debt](https://www.va.gov/manage-va-debt/)* that most participants saw and clicked on. 
 
-![view payment history page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/view-payment-history.png?raw=true)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/view-payment-history.png?raw=true" alt="View payment history page" width=500>
 
 Some participants stated they would utilize the search feature. One of those participants was not able to locate the search feature on mobile. 
 
@@ -216,6 +215,7 @@ Most participants began at the summary page and knew it existed before being ask
 One participants saw the 'View other VA debt' link but noted that the text was small and it appeared hidden:
 > _"Almost like they don't want people to pay their copay."_
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/other-bills.png?raw=true" alt="View other VA debt link" width=400>
 
 
 ## 4.  Participants were able to locate how to request financial help
@@ -265,7 +265,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 * Look into ways of consolidating pages and surfacing important statement data and pay link sooner
 
-* Look into ways to make 'View my other VA debts' link more prominent
+* Look into ways to make 'View my other VA debts' link more prominent and consider using the term "Copays" instead of "Your other VA bills" when linking to the copay page.
 
 * Eliminate `&nbsp;` characters on the copay statement page
   
