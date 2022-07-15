@@ -6,7 +6,7 @@
 
 Date: 07/07/2022
 
-[Megan Gayle] [megan.gayle@gcio.com]
+[Megan Gayle](megan.gayle@gcio.com)
 
 
 <br>
@@ -86,7 +86,7 @@ Other key moments this research touches key moments in the Veteran journey are:
 # Methodology 
 
 
-This usability study was be conducted remotely via Zoom. Participants either logged into their account where the feature was turned on for them or they looked at a UXPin prototype optimized for desktop.
+This usability study was conducted remotely via Zoom. Participants either logged into their account where the feature was turned on for them or they looked at a UXPin prototype optimized for desktop.
 
 
 # Hypotheses and Conclusions
@@ -106,10 +106,10 @@ Another participant noted that the information he's received is not always updat
 > _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
 
 4. Participants may want to view their debt and copay bill details before resolving them, so they may think there’s too much content on the ‘current debts’ and ‘current copay bills’ pages 
-	- *Maybe true.* Participants talked about the ability to quickly either view details or quickly pay their bill based on their situation. Several participants noted that there were too many pages and that 
+	- *Maybe True.* Participants talked about the ability to quickly either view details or quickly pay their bill based on their situation. Several participants noted that there were too many pages and that 
 
 5. Participants will understand the difference between a copay bill and benefit debt, but may be confused by the differences in payment and resolution options with those debts and bills  
-	- *Likely False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay, where to request financial help. Some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
+	- *Maybe False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay, where to request financial help. Some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
 
 6. Participants may not think the ‘Your other VA bills’ or ‘Your other VA debts’ section is prominent enough  
 	- *Not enough information.* We did not receive enough participants who had both copays and debts. Most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it.
@@ -230,7 +230,9 @@ Some mentioned expecting to immediately see a PDF statement but were able to loc
 Participants either located the "Pay online" accordion that transferred them to pay.va.gov or they would select "Check your balance to resolve bill" and click "Pay your copay bill".
 >_I guess I would click this link that says 'check your balance and resolve your bill'. Click on the 'how to pay your copay bill' and hit the plus button to open each window and either pay online as long as there is no fee or pay by mail."_
 >
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/where-to-pay.png?raw=true" alt="Where to pay" width=430> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/where-to-pay-2.png?raw=true" alt="Where to pay" width=430>
+<table style="border-color:white !important;"><tbody>
+        <tr><td valign="top" border=0><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/where-to-pay-1.png?raw=true" alt="Where to pay" width=460> </td><td valign="top" border=0><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/where-to-pay-2.png?raw=true" alt="Where to pay" width=460></tbody>
+        </tr></table>
 
 ## 7. Some participants felt there were too many pages and that important features were hidden
 
