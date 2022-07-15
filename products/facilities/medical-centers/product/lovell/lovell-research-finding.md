@@ -41,24 +41,15 @@ Includes task flows from specific starting points:
 * [VA Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395164/simulate/no-panels) 
 * [TRICARE Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395169/simulate/no-panels)
 
-# Hypotheses and Conclusions
+# Hypotheses and Conclusions ✅
 
 We already know that Veterans are familiar with a location experience that does not separate out locations by type of beneficiary.
 We already know that research has been conducted on the existing VAMC experience.
 
 * Veterans and dual-eligible Veterans will be able to identify whether the page they are on is for VA or TRICARE health care beneficiaries.
+  * NOT ENOUGH INFORMATION - Only a few participants successfully identified the distinction between VA and TRICARE. Several participants attempted to use site features that were not functional in the prototype that led to artifical dead ends. 
 * The informational alerts helps Veterans and dual-eligible Veterans understand whether they're viewing VA or TRICARE health information, and to navigate to the other experience, if desired.
-
-Veterans are familiar with a location experience that does not separate the experience by beneficiary, but they will be able to identify which health care they need and where they can find it.
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+  * FALSE - Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
 # Key Findings
 
