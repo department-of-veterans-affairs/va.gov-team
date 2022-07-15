@@ -144,7 +144,7 @@ _Next steps here. Include owners if appropriate._
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
-# Appendix
+# Appendix ✅
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
@@ -165,7 +165,7 @@ _If there are demographics that were not included in this study or you discovere
 - [Research readout recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) - password = *dGV.1I6
 - [Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
 
-## Who we talked to 
+## Who we talked to ✅
 
 **Recruitment criteria**
 
@@ -203,5 +203,9 @@ Geographic location:
 Race:
 * White: 7
 * Black: 4
+
+## Underserved groups we haven’t talked to 
+
+One area we were unsuccessful in our recruiting efforts was veterans without a college degree.
 
 ![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell_partricipants.png)
