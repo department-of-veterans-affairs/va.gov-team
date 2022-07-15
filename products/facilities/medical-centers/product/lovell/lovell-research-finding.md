@@ -95,14 +95,6 @@ Labels: [BNFT: Healthcare](https://github.com/department-of-veterans-affairs/va.
 
 4. When searching for a location, the majority of Veterans we spoke to would immediately start at Google.
 
-# Details of Findings 🚧
-
-
-
-
-
-
-
 # Recommendations 
 This research was focused on the usability of the informational alert as an “experience switcher.” This research plan was not designed to identify alternate solutions.
 
