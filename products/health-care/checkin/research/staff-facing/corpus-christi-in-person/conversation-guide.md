@@ -136,105 +136,59 @@ We are interested to understand more about your reporting interests regarding ch
 
 ## Section 6: Beneficiary Travel with Travel Clerks 
 
-### Introduction 
+### Intro - 1 minute 
 
-We are conducting research on behalf of OCTO to help evaluate BTSSS and the beneficiary travel reimbursement process to improve both the Veteran and staff experience. We would like to better understand your process for reviewing claims and what information you require to complete a review. We will also be reviewing a prototype of a possible Veteran experience.
+Hello. My name is Ben and I’m a researcher on the Patient Check-In (PCI) team. We are conducting research on behalf of OCTO to help evaluate how travel pay can be incorporated into Patient Check-In. 
+
+What we’d like to do today is ask some questions that we’ve prepared to help our team better understand the travel reimbursement process both from the staff-side and the Veteran-side. We’ve been working together with other VA employees that are knowledgeable about the travel reimbursement process, so hopefully you’ll find that our questions are much more nuanced, looking for specific information, versus high-level questions. And from those questions, we’d like to listen and gather your responses. Our goal is to collect as much information as possible to improve the reimbursement process for Veterans.    
+How does that sound? Any questions?  
 
 Before we start, a few things I want to mention: 
 
 - We want to hear your honest opinions. We will not be offended by any opinions you express. We welcome your feedback. 
-- Are you comfortable if we record this session? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis. No comments are attributed to individuals. 
+- Also, are you comfortable if we record this session? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis. And, no comments are attributed to individuals. 
 - Once I start recording, I am going to confirm that you are okay with me recording this session once more. 
 
-*Start recording.*
+*Start recording.* 
 
-I have started recording.
+I have started recording. And, once again for the record, are you comfortable if I record this session today? 
 
+### Section 1: General Questions  
 
-### Prototype 1 
+- We’ve heard that claims can get automatically approved. How does one get automatically approved? 
+- What factors or information from Veterans can help reduce the chance a claim is manually reviewed (vs. automatically approved)?  
+- What else causes issues with a claim? For example, we’ve heard that abbreviations or punctuations in the mailing address cause issues, missing checkboxes, etc. 
+- When submitting a claim, are Veterans required to specify whether the appointment was a scheduled appointment or walk-in? If so, how do Veterans provide that information? Is there an appointment type field?  
+- Roughly, what percentage of reimbursement claims get automatically approved? 
+- Roughly, what percentage of claims get denied?
+- Does the percentage of denied claims vary by submission modality? E.g., paper, in-person with staff kiosk, BTSSS, etc. 
+- What happens when a claim gets denied? 
+- How do Veterans get alerted about a denied claim?
+- How does the process differ between submission modality? E.g., paper, in-person with staff kiosk, BTSSS, etc.   
+- What are the typical reasons for a claim getting denied? 
+- Do you know what types of notifications a Veteran receives when they submit a claim? For example, a confirmation email. 
+- How do the notifications differ between submission modality? E.g., paper, in-person with staff kiosk, BTSSS, etc.  
+- Do Veterans receive any other types of notifications? For example, when a claim is being reviewed, when a claim is approved, etc.    
+- Do Veterans have to be checked out by the clinic in order to receive travel pay? If so, how do travel assistants check if they’ve been checked out? Do travel assistants have to review each claim and check VistA, for example?
+- What happens when they're not checked out?  
+- How long does it normally take to review a claim? I.e., the time from when a claim is submitted to when it is reviewed and approved.
+- Roughly, what percentage of claims are for Veterans driving their own vehicle (vs. another transportation method)? 
+- What are some of the other most common methods of transportation that Veterans file reimbursement for? 
+- How often do claims for driving their own vehicle include additional expenses, such as meals, hotel, etc.? What are, typically, those expenses for?  
+- Is it possible for a Veteran to add other expenses to a claim that’s already been submitted? For example, they forgot to add an expense. If so, how would a Veteran add that expense? Is it a separate claim or can they amend the existing claim?
+- What (other) issues might arise related to amending a claim?    
+- Is it possible for a Veteran or caregiver to file a travel reimbursement claim, but not actually be eligible to receive benefits? And, if so, would travel assistants spot that the Veteran or caregiver is not eligible during the review process?    
+- Is eligibility for travel reimbursement determined when a Veteran receives their disability rating or when a caregiver gets approved through the caregiver program? Or, does approval for travel reimbursement happen separately? If so, what is that process and when does it happen?   
+- Is it common for a Veteran to know whether or not they’re eligible to receive travel reimbursement? Is it common knowledge? 
+- Is it possible for a claim to get submitted, but the Veteran has another issue that prevents them from receiving payment, such as their direct deposit isn’t set up? Does that happen? If so, what happens as a result? 
+- Are there any safeguards, to your knowledge, that prevent a Veteran who’s ineligible to receive travel pay from filing? For example, maybe they can’t log in to the AccessVA claim portal. 
+- Do most Veterans know that they can only file one claim per facility trip and not per appointment?  
+- What can Veterans file when they have to visit two facilities in one day? 
+- How often does it happen that Veterans file two claims for one day? What do travel assistants do when this happens? Are they able to easily determine the appropriate reimbursement from the claims? 
+- Do you have any questions or comments for me? 
 
-*Open [Prototype 1](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play) and begin the demo. Encourage participants to provide feedback at any time during the demo.*
-
-Confirm Contact Information Page 
-
-- Is this page needed? Why or why not?  
-- If so, can anything be removed that’s not needed? 
-
-#### Appointments Page
-
-- What are the different claim statuses that are needed? E.g., claim submitted, claim in manual review, claim denied, claim issued, claim closed, etc.
-- Is there a need for Veterans to see a list of appointments beyond the last 30 days? Is there any information missing from this page? 
-- Can anything be removed that’s no longer needed? 
-
-#### Review Page 
-
-- Is there any information missing from this page? 
-- Can anything be removed that’s no longer needed? 
-
-### Prototype 2
-
-*Open [Prototype 2](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/52Qv7ed/play) and continue the demo. Encourage participants to provide feedback at any time.*
-
-#### Non Drive Options Page
-
-- Is this page needed? 
-- Who or what role uses this information? 
-- How is the information used? 
-- Are there any options missing? 
-- Can anything be removed that’s no longer needed? 
-
-#### Ineligible Page
-
-- Is there any information missing from this page? 
-- Can anything be removed that’s no longer needed? 
-
-#### Non Drive Form Page 
-
-- Who or what role uses this information? 
-- How is this information used? 
-- Are there any fields missing? 
-- Can anything be removed that’s no longer needed? 
-- Are these fields required or optional? 
-
-#### Additional Expenses Page
-
-- Is this page still needed? 
-- Who or what role uses this information? 
-- How is this information used? 
-- Are there any options missing? 
-- Can anything be removed that’s no longer needed? 
-
-#### Lodging Form Page 
-
-- Who or what role uses this information? 
-- How is this information used? 
-- Are there any fields missing? 
-- Can anything be removed that’s no longer needed? 
-- Are these fields required or optional? 
-
-#### Review Page 
-
-- Is there any information missing from this page? 
-- Can anything be removed that’s not needed? 
-
-### Follow up questions: 
-- Is there a scenario where the driving routes are challenged? Why? If so, is this still needed? And, what is this process like? 
-- How often do manual reviews occur? Why? If so, are these still needed? And, what is this process like?  
-- When is a Veteran able to start the claim process? E.g., once the appointment is scheduled, once the Veteran checks in, once the appointment is marked complete in VistA, etc. 
-- Did the kiosks have a different starting point? If so, what were the reasons this changed with BTSSS? 
-- In the future, is there a reason that the claim process couldn’t begin during check-in? Why or why not? 
-- Who would be responsible for deciding?
-
-#### About the Prototypes
-
-- Was the information in the prototypes in a logical order? 
-- Was there any information missing? 
-- Was there anything else that could be removed that’s no longer needed? 
-
-### Closing 
+### Closing - 1 minute 
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improvise the Veteran and staff experience. 
-
-Thanks! And if you know any other staff who might be interested in speaking with us, please let us know. 
 
 Thank you again and enjoy the rest of your day. 
