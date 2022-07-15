@@ -559,6 +559,7 @@ Liz: Jul 22 - 29
 
 - Samara: Aug 1 - 5
 - Liz: Jul 27 - 29
+- Christina: Jul 28 - 29
 
 ### Military information
 
