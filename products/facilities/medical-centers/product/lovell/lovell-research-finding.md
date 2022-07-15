@@ -53,31 +53,47 @@ We already know that research has been conducted on the existing VAMC experience
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+## Usability Findings
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+1. Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
-1. Finding one
+2. Many participants were attempting to utilize other navigational elements that they were already familiar with to get to their destination:
+   - Site search
+   - Find a location
+   - On this page
+   - Health services
 
-2. Finding two
+3. Most participants began (or continued) their task by first scrolling through the page they were already on
 
-3. Finding three
+4. Top Task buttons are the primary call-to-action on the page and compete with the informational alert
 
-4. Finding four
+## Findings related to TRICARE & VA Benefits
 
-5. Finding five
+1. When asking VA beneficiaries whether they are familiar with TRICARE, most indicated they were aware of it, but didn’t know much about it
 
-6. Finding six
+2. Most of our participants either use one or the other, almost exclusively. There are few instances of Veterans using both.
 
-7. Finding seven
+3. Why dual-eligible Veterans choose VA or TRICARE:
+   - Local facility convenience - 3/5 
+   - Familiarity with system - 2/5
+   - Coverage for specific health services - 2/5
+   - Different family members use different benefits - 1/5
 
+4. The actual journey to receive care and benefits isn’t always clear to Veterans
+
+## Findings related to VA.gov usage
+
+1. Most participants indicated they visit VA.gov weekly. Most common reasons include: Pay bills, secure messaging, appointments, MyHealtheVet, checking claims, finding forms, prescription refills.
+
+2. Most Veterans are attempting to complete very specific tasks while on VA.gov, and don’t browse very often
+
+3. Many of the Veterans we spoke to indicated the high number of other emails, phone calls, and other communications they receive
+
+4. When searching for a location, the majority of Veterans we spoke to would immediately start at Google.
 
 # Details of Findings 
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 **Finding 1**
