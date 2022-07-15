@@ -53,7 +53,10 @@ We already know that research has been conducted on the existing VAMC experience
 
 # Key Findings
 
+Labels: [PRDT: Facilities](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20Facilities), [RESRCH: Remote](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Remote), [AUD: Veterans](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/AUD%3A%20Veterans)
+
 ## Usability Findings
+Labels: [RESRCH: Usability](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Usability), [DSC: Alert boxes](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSC%3A%20Alert%20boxes)
 
 1. Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
@@ -68,6 +71,7 @@ We already know that research has been conducted on the existing VAMC experience
 4. Top Task buttons are the primary call-to-action on the page and compete with the informational alert
 
 ## Findings related to TRICARE & VA Benefits
+Labels: [BNFT: Healthcare](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/BNFT%3A%20Healthcare)
 
 1. When asking VA beneficiaries whether they are familiar with TRICARE, most indicated they were aware of it, but didn’t know much about it
 
@@ -93,45 +97,11 @@ We already know that research has been conducted on the existing VAMC experience
 
 # Details of Findings 🚧
 
-Labels: [PRDT: Facilities](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20Facilities), [RESRCH: Remote](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Remote), [RESRCH: Usability](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Usability), [DSC: Alert boxes](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSC%3A%20Alert%20boxes)
 
-## Usability Findings 🚧
 
-**Finding 1**
 
-Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
-> _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
-
-**Finding 2**
-
-Many participants were attempting to utilize other navigational elements that they were already familiar with to get to their destination:
-- Site search
-- Find a location
-- On this page
-- Health services
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-**Finding 3**
-
-Most participants began (or continued) their task by first scrolling through the page they were already on
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-**Finding 4**
-
-Top Task buttons are the primary call-to-action on the page and compete with the informational alert
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 # Recommendations 
 This research was focused on the usability of the informational alert as an “experience switcher.” This research plan was not designed to identify alternate solutions.
