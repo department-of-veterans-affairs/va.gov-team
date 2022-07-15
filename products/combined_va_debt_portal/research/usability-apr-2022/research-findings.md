@@ -227,7 +227,7 @@ Some participants saw the *'Request help with your bill'* on the prototype that 
 Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail. Some participants noted that there were characters (`&nbsp;`) , "gibberish", added within their statement. 
 
 ## 6.  Participants were able to locate how to pay their debt/copay
-Participants either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill" and click "Pay your copay bill".
+Participants either located the "Pay online" accordion that transferred them to pay.va.gov or they would select "Check your balance to resolve bill" and click "Pay your copay bill".
 >_I guess I would click this link that says 'check your balance and resolve your bill'. Click on the 'how to pay your copay bill' and hit the plus button to open each window and either pay online as long as there is no fee or pay by mail."_
 
 
@@ -256,6 +256,8 @@ While on the status page, one participant commented on how it appeared as if the
 
 > _"I am not sure if that is possible or not. Being able to log in and go straight to your debt. Sometimes I must sign in and go through 2-3 other menus to get to my debt. I don’t know if that it possible. Like your most visited sites. Or a dashboard for each user."_
 
+>_"If anything is missing it is links to the new travel pay system. That would be a one stop shop. We all love one stop shopping."_
+
 
 # Recommendations
 
@@ -272,8 +274,8 @@ _Put together initial recommendations here based on your findings along with sup
 
  - Review content and user flow and assess whether pages can be consolidated
  - Review design and whether important statement information and a pay link can appear sooner to users
- - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear.
- - Assess whether `&nbsp;` characters on the copay statement page can be eliminated
+ - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear
+ - The statment page issue of `&nbsp;` characters appearing on the statement page has already been fixed
 
 
 
