@@ -44,7 +44,9 @@ Confirm specific cases with DSVA.
 
 *Gray area.* This depends heavily on the systems themselves. Try asking around in DSVA's [#sre](https://dsva.slack.com/channels/sre) Slack channel.
 
-Areas like the VA's network toplogy, especially regarding the TIC and surrounding systems, are likely to be considered sensitive by VA's networking and security teams.
+Areas like the VA's network toplogy (including CIDRs), especially regarding the TIC and surrounding systems, are most likely to be considered sensitive by VA's networking and security teams. Specific versions, configurations, or flavors of software may also be considered sensitive as they may offer adversaries avenues for attacks. Anything involving accounts, CIDRs/IP addresses, or other information that could potentially provide adversaries with information on how to attack a system, should also be considered sensitive.
+
+As with everything, when you are unsure about whether something would be considered sensitive, ask around on slack and/or start out the content in the sensitive repo.
 
 ### Internal phone numbers / email addresses
 
