@@ -66,6 +66,26 @@ Personal information integrates through two different services:
 - Full name and date of birth come from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
 - Preferred name and gender identity come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
+### Preferred Name Validation Rules
+The VA Profile API applies the following rules to the preferred name field:
+
+| Message Key | Message Code | Description
+| ------------| ------------ | ----------- |
+| preferredName.NotNull | PRFN100 | Must not be null
+| preferredName.ValidCharacters | PRFN102 | Must only contain alpha, -, acute, grave, diaeresis, circumflex, tilde (case sensitive)
+| preferredName.Size | PRFN103 | Size must be between 1 and 25
+
+Examples for each of the allowed accents:
+
+| | | |
+| ------------| ------------ | ----------- |
+| Hyphen | - | Mary-Jo |
+| Acute | á | Renée |
+| Grave | à | Agnès |
+| Circumflex | â | Siân |
+| Tilde | ã | Nuñez |
+| Diaeresis | ä | Noël |
+
 ## Design & UX
 
 - [Personal information sketch files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
