@@ -150,27 +150,20 @@ _If there are demographics that were not included in this study or you discovere
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
 - [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/interview_transcripts)
 
-## Tools used for Synthesis
+## Tools used for Synthesis ✅
 
-e.g. mural boards, etc.  
-
+- [Mural of user paths](https://app.mural.co/t/vagov6717/m/vagov6717/1654786135163/55a44581c62c3876c4e80ea0fc67a828bca91569?sender=u20829d1b64855e281dde2585)
 
 ## Pages and applications used ✅
 
 - [UXPin prototype](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
 - [UXPin prototype images](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/uxpin_images)
 
-## Other supporting documents created
+## Other supporting documents created ✅
 
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+- [Participant Tracker](https://docs.google.com/spreadsheets/d/1fnmXkgXiFNw3emCSuTFzCKrg26YIKQ_pZKmYOCMCcC8/edit?usp=sharing)
+- [Research readout recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) Password = *dGV.1I6
+- [Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -180,78 +173,28 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **11 participants.**
 
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+Beneficiary type:
+* VA only: 6 
+* VA & TRICARE: 5 
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
+* Male: 3 
+* Female: 8 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* 25-34: 2
+* 35-54: 4
+* 55+: 5
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+* Urban: 8
+* Rural: 3
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
+* White: 7
+* Black: 4
 
 ## Underserved groups we haven’t talked to 
 
