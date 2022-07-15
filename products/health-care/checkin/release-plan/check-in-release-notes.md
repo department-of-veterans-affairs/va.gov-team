@@ -12,7 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-### 7/12/2002
+### 7/16/2022
+- Fixed a bug where text inputs were missing the red line that indicates an error state
+    - [Ticke 44335](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44335)
+
+### 7/12/2022
 - For low-vision Veterans or Veterans who only use a keyboard, the alert for a user verification error now gets the focus when displayed.
    - [Ticket 43525](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43525)
 - Modified several HTML aria labels to enhance compatibility with screen readers  
