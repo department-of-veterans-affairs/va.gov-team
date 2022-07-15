@@ -162,16 +162,24 @@ _If there are demographics that were not included in this study or you discovere
 ## Other supporting documents created ✅
 
 - [Participant Tracker](https://docs.google.com/spreadsheets/d/1fnmXkgXiFNw3emCSuTFzCKrg26YIKQ_pZKmYOCMCcC8/edit?usp=sharing)
-- [Research readout recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) Password = *dGV.1I6
+- [Research readout recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) - password = *dGV.1I6
 - [Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- At least 5 participants must be enrolled in only VA health care
+- At least 5 participants must be retired from active duty and actively enrolled in VA health care and TRICARE health care.
+Laptop or desktop computer only
+   - For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task, so we are limited participants to laptop or desktop computers only.
+- Be able to screenshare via Zoom
+   - Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing
+- At least 2 participants under 35 years old
+- At least 2 participants over 55 years old
+- At least 2 participant with cognitive disabilities
+- At least 5 participants with no college degree or professional certificates
+- At least 5 participants of color
 
 We talked to **11 participants.**
 
@@ -195,16 +203,6 @@ Geographic location:
 Race:
 * White: 7
 * Black: 4
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
