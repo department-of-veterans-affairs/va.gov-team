@@ -185,7 +185,7 @@ While looking at the 4 quadrants on the homepage, participants were most likely 
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/va-4-quad.png?raw=true" alt="4 quadrants" width=500>
 
-The *[View your payment history](https://www.va.gov/va-payment-history/)* page contains a link at the bottom of the page to *[Manage your VA debt](https://www.va.gov/manage-va-debt/)* that most participants saw and clicked on. 
+The *[View your payment history](https://www.va.gov/va-payment-history/)* page contains a link at the bottom of the page to *[Manage your VA debt](https://www.va.gov/manage-va-debt/)* that most participants who viewed the page clicked on. 
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/view-payment-history.png?raw=true" alt="View payment history page" width=500>
 
