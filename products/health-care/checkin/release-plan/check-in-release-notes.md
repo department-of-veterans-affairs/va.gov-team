@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 7/16/2022
-- Fixed a bug where text inputs were missing the red line that indicates an error state
+- Fixed a bug where text inputs were missing the red line that visually indicates an error state
     - [Ticke 44335](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44335)
 
 ### 7/12/2022
