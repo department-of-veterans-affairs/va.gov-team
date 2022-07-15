@@ -14,22 +14,22 @@ Date: 07/11/2022
 - [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#key-findings)
 - [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#recommendations)
 - [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#who-we-talked-to)
-- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#further-research-needed)
 
-# Research Goals ✅
+# Research Goals 
+
 The Lovell Federal Facility services both VA beneficiaries as well as DoD/TRICARE beneficiaries. However, the unauthenticated top tasks for these beneficiaries are accomplished in separate locations, making the experience confusing. Additionally, there is content that is specific to each type of location that needs to be separated for clarity and conciseness.
 
 The legacy Lovell website combines the VA & TRICARE information in a single site. The team created a prototype that splits VA & TRICARE information into two separate sites in the modernized VAMC template. The two sites are connected by informational alerts that allow users to switch back and forth between between the TRICARE and VA versions of the page they are on.
 
 This bespoke health care system research is building upon earlier VAMC research.
 
-# Research Questions ✅
+# Research Questions
 
 1. Will Veterans and dual-eligible Veterans know where they can receive care at Lovell Federal Health Care Center?
 2. Will participants notice and understand the informational alert?
 3. Will dual-eligible Veterans understand when to use the VA health care experience vs. the TRICARE health care experience?
 
-# Methodology ✅
+# Methodology
 
 * Usability testing using UXPin
 * We did not test with screen readers because the designs are in UXPin, the design has been reviewed by the collaboration cycle, and the foundation of the VAMC pages have already been tested
@@ -41,7 +41,7 @@ Includes task flows from specific starting points:
 * [VA Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395164/simulate/no-panels) 
 * [TRICARE Lovell location](https://preview.uxpin.com/85c0c5e5501b4c222f4d37bfdd4d6eb59dd93386#/pages/150395169/simulate/no-panels)
 
-# Hypotheses and Conclusions ✅
+# Hypotheses and Conclusions
 
 We already know that Veterans are familiar with a location experience that does not separate out locations by type of beneficiary.
 We already know that research has been conducted on the existing VAMC experience.
@@ -51,7 +51,7 @@ We already know that research has been conducted on the existing VAMC experience
 * The informational alerts helps Veterans and dual-eligible Veterans understand whether they're viewing VA or TRICARE health information, and to navigate to the other experience, if desired.
   * FALSE - Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
-# Key Findings ✅
+# Key Findings
 
 ## Usability Findings
 
@@ -91,11 +91,11 @@ We already know that research has been conducted on the existing VAMC experience
 
 4. When searching for a location, the majority of Veterans we spoke to would immediately start at Google.
 
-# Details of Findings 
+# Details of Findings 🚧
 
 Labels: [PRDT: Facilities](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20Facilities), [RESRCH: Remote](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Remote), [RESRCH: Usability](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Usability), [DSC: Alert boxes](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSC%3A%20Alert%20boxes)
 
-## Usability Findings
+## Usability Findings 🚧
 
 **Finding 1**
 
@@ -133,54 +133,37 @@ Top Task buttons are the primary call-to-action on the page and compete with the
 
 > _Supporting data: Quote here_
 
+# Recommendations 
+This research was focused on the usability of the informational alert as an “experience switcher.” This research plan was not designed to identify alternate solutions.
 
-# Additional Insights
+Additional discovery and research is recommended on the following gaps before a path forward can be determined:
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+* More refined understanding of shared vs. separate VA and DoD content
+* Differing VA and DoD Services taxonomy
+* Explore a single site architecture
 
-
-# Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-
-# Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
-# Appendix ✅
+# Appendix 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
 - [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/interview_transcripts)
 
-## Tools used for Synthesis ✅
+## Tools used for Synthesis 
 
 - [Mural of user paths](https://app.mural.co/t/vagov6717/m/vagov6717/1654786135163/55a44581c62c3876c4e80ea0fc67a828bca91569?sender=u20829d1b64855e281dde2585)
 
-## Pages and applications used ✅
+## Pages and applications used 
 
 - [UXPin prototype](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
 - [UXPin prototype images](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/uxpin_images)
 
-## Other supporting documents created ✅
+## Other supporting documents created 
 
 - [Participant Tracker](https://docs.google.com/spreadsheets/d/1fnmXkgXiFNw3emCSuTFzCKrg26YIKQ_pZKmYOCMCcC8/edit?usp=sharing)
 - [Research readout recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) - password = *dGV.1I6
 - [Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
 
-## Who we talked to ✅
+## Who we talked to 
 
 **Recruitment criteria**
 
