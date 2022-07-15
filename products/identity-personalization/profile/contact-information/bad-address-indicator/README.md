@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: May 26, 2022
+Last Updated: July 15, 2022
 
 ### Communications
 
@@ -144,7 +144,7 @@ TBD
 
 ## Frontend
 
-- Need frontend documentation
+- [Frontend documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/frontend.md)
 
 ## Backend
 
