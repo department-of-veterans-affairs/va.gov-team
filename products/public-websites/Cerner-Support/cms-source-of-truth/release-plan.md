@@ -91,7 +91,28 @@ This is not a Staged Rollout. Following Staging validation, we will enable the f
 - Any analytics affected? yes/no
 - If yes, what: 
 
+### Analytics opportunities
+Under PW issue #[9311](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9311), the PW team engaged with Platform Analytics to understand how we might use GA funnels to monitor EHR CTA Widgets for signs of malfunction or undesired user behavior. The team used a [Mural board](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?wid=0-1652291838842) to document user flows.
 
+GA opportunities fall in two buckets: A) monitor technical health of app, B) monitor usability/ux.
+
+Category A is the important one for this release plan.
+
+A separate funnel needs to be built for each of the five Benefit Detail pages that are the main homes of these widgets.
+
+#### User flow 1: User can sign in and reach the EHR to finish their task
+Because some users will already be signed in, we need to pick up the flow after login.
+- Flow begins with clicking a CTA button that links to either Cerner or VistA. 
+    - The GA click event on a Cerner link:
+      - ec (category): "Interactions",
+      - ea (action): "Default Button CTA - Go to My VA Health - rgb(0, 62, 115)",
+      - el (element?): "cta-button-click"
+    - The click on a VistA link is the same, except the text on the button is "Go to My HealtheVet" instead (reflected in the `ea` property above).
+- **It doesn't appear that GA can track the user to the new tab that opens up for either Cerner or VistA.** 
+- The only thing we think we can watch for (for site health monitoring) is to see if the user returns to the original widget page for further interaction. 
+  - Since the CTA opened another tab, there is not likely to be a new Page View event.
+  - Clicking a CTA within the widget (ie, a different button or the same one again) would be an antipattern to monitor (expected but not common)
+  - Other interactions with the widget page would be expected, but a change in behavior would be an antipattern to watch for
 
 
 ## Phase III: API adoption
