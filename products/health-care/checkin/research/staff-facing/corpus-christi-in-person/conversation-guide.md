@@ -122,13 +122,17 @@ We are interested to understand more about your reporting interests regarding ch
 
 - What check-in stats are of interest to you?
   - How is that information helpful? What does it let you improve, monitor, or change?
-- Do you eve review Power BI dashboards?
+  - What is the most important stat to track?
+- Do you ever review Power BI dashboards?
   - If yes, bring up check-in's dashboard.
     - What works well about how the information is presented? What doesn’t work so well? 
-    - How easy or difficult is it to use the date range and facility filters? 
     - Is any of the information difficult to understand? 
+    - What is currently your biggest pain point with this new mobile check-in? with CSE-CS?
     - What information could be added to make it more valuable? 
     - What improvements would you like to see? 
+    - What do you wish we could trach more effectively with mobile check-in?
+    - What current reporting feature in VetLink would you like to see inculded with VSE-CS?
+- What do you think would help with adoption and buy-in from your teams?
 
 ## Section 6: Beneficiary Travel with Travel Clerks 
 
