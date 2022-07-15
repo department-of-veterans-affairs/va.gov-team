@@ -127,3 +127,5 @@ Please list the people who will be serving in each role.
   - taylor.mitchell@gcio.com
   - angela.agosto@adhocteam.us
   - angela.fowler@adhocteam.us (only include for screen reader sessions)
+  - cindy.merrill@adhocteam.us
+  - michelle.middaugh@adhocteam.us
