@@ -51,7 +51,7 @@ We already know that research has been conducted on the existing VAMC experience
 * The informational alerts helps Veterans and dual-eligible Veterans understand whether they're viewing VA or TRICARE health information, and to navigate to the other experience, if desired.
   * FALSE - Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
-# Key Findings
+# Key Findings ✅
 
 ## Usability Findings
 
@@ -93,42 +93,41 @@ We already know that research has been conducted on the existing VAMC experience
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+Labels: [PRDT: Facilities](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20Facilities), [RESRCH: Remote](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Remote), [RESRCH: Usability](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/RESRCH%3A%20Usability), [DSC: Alert boxes](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSC%3A%20Alert%20boxes)
 
+## Usability Findings
 
 **Finding 1**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
+Across all participants and tasks, the informational alert was only noticed only 7/22 times = 32% success rate
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
-
 
 **Finding 2**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
+Many participants were attempting to utilize other navigational elements that they were already familiar with to get to their destination:
+- Site search
+- Find a location
+- On this page
+- Health services
 
 > _Supporting data: Quote here_
 
+> _Supporting data: Quote here_
 
 **Finding 3**
 
-Labels: label 1, label 2 
+Most participants began (or continued) their task by first scrolling through the page they were already on
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _Supporting data: Quote here_
 
-Brief description
+> _Supporting data: Quote here_
+
+**Finding 4**
+
+Top Task buttons are the primary call-to-action on the page and compete with the informational alert
 
 > _Supporting data: Quote here_
 
