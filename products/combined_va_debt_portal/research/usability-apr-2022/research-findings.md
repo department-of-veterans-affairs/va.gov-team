@@ -229,7 +229,8 @@ Some mentioned expecting to immediately see a PDF statement but were able to loc
 ## 6.  Participants were able to locate how to pay their debt/copay
 Participants either located the "Pay online" accordion that transferred them to pay.va.gov or they would select "Check your balance to resolve bill" and click "Pay your copay bill".
 >_I guess I would click this link that says 'check your balance and resolve your bill'. Click on the 'how to pay your copay bill' and hit the plus button to open each window and either pay online as long as there is no fee or pay by mail."_
-
+>
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/where-to-pay.png?raw=true" alt="Where to pay" width=430> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/images/where-to-pay-2.png?raw=true" alt="Where to pay" width=430>
 
 ## 7. Some participants felt there were too many pages and that important features were hidden
 
@@ -275,7 +276,7 @@ _Put together initial recommendations here based on your findings along with sup
  - Review content and user flow and assess whether pages can be consolidated
  - Review design and whether important statement information and a pay link can appear sooner to users
  - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear
- - The statment page issue of `&nbsp;` characters appearing on the statement page has already been fixed
+ - The issue of `&nbsp;` characters appearing on the statement page has already been fixed
 
 
 
