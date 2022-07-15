@@ -1,6 +1,6 @@
 # Project outline: Profile Personal Information Revision
 
-Last updated: June 21, 2022 
+Last updated: July 15, 2022 
 
 ### Communications
 
@@ -67,21 +67,22 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 ## Measuring success
 
+[Personal information Google Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/_u.date00=20220615&_u.date01=20220714/)
+
 ### Objective: Allow people to more accurately define themselves within the VA.
 
 **KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
 
-|Field name|Updates in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|Field name|Updates in first month after launch (6/15/22 - 7/14/22); Includes launches to 25 & 50%| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
 |----------|------------|------------|------------|
-|Preferred name| | | |
-|Gender identity| | | |
+|Preferred name| 5015 | | |
+|Gender identity| 9349 | | |
 
 **KPI**: We see at least a 95% success rate for retrieving this information from the backend.
 
-|Field name|% of successful retrievals in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|Field name|% of successful retrievals in first month after launch (6/15/22 - 7/14/22)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
 |----------|------------|------------|------------|
-|Preferred name| | | |
-|Gender identity| | | |
+|Retrieval rate| 99%| | |
 
 
 **KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
@@ -115,6 +116,7 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - May 2022: QA
 - June 15, 2022: Launch to 25%
 - June 21, 2022: Launch to 50%
+- June 27, 2022: Launch to 100%
 
 ## Design
 
