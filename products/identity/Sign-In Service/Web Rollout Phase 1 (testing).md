@@ -43,7 +43,7 @@ At each hour if the success (login) % is under 50%, we should pause/terminate th
 # Alerting and Monitoring
 
 # Communications Plan
-
+Our intention is to communicate our testing at least 14 days in advance via Team of Teams, our channel at #vsp-identity, and through any other relevant slack channels.  
 
 # To add
 - SSO Stats
