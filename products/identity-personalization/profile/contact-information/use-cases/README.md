@@ -2,7 +2,7 @@
 
 `draft`
 
-**Last updated:** July 14, 2022
+**Last updated:** July 15, 2022
 
 Contact information use case documentation is available in this directory.
 
@@ -15,7 +15,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-- User needs to add contact information (addresses, phone numbers, or contact email address)
+- [User needs to add contact information (addresses, phone numbers, or contact email address)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-contact-info.md)
 - User needs to edit contact information (addresses, phone numbers, or contact email address)
 
 ## Edge cases
