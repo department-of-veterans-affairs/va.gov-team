@@ -109,7 +109,7 @@ Another participant noted that the information he's received is not always updat
 	- *Maybe true.* Participants talked about the ability to quickly either view details or quickly pay their bill based on their situation. Several participants noted that there were too many pages and that 
 
 5. Participants will understand the difference between a copay bill and benefit debt, but may be confused by the differences in payment and resolution options with those debts and bills  
-	- *Likely False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay and most were able to locate how to request financial assistance or quickly saw who to call if they did not.
+	- *Likely False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay, where to request financial help. Some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
 
 6. Participants may not think the ‘Your other VA bills’ or ‘Your other VA debts’ section is prominent enough  
 	- *Not enough information.* We did not receive enough participants who had both copays and debts. Most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it.
@@ -119,17 +119,17 @@ Another participant noted that the information he's received is not always updat
 
 1. How participants defined **copays, debt, and bills**: Participants defined **copays** in relation to money owed for medical related expenses. **Debt** as money owed, usually through overpayment from VA. Most participants defined **bills** as similar to debt, as money owed.
 
-2. Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay.
+2. Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay
 
-3. Most participants did not have issues navigating from copays to debts and vice versa but most participants saw the summary page.
+3. Most participants did not have issues navigating from copays to debts and vice versa but most participants saw the summary page
 
-4.  Most participants were able to locate how to request financial help.
+4.  Most participants were able to locate how to request financial help
 
-5. Most participants were able to locate how to view statements.
+5. Most participants were able to locate how to view statements
 
-6.  Most participants were able to locate how to pay their debt/copay.
+6.  Most participants were able to locate how to pay their debt/copay
 
-7.  Some participants felt there were too many pages and important features were hidden.
+7.  Some participants felt there were too many pages and that important features were hidden
 
 
 
@@ -218,22 +218,22 @@ One participants saw the 'View other VA debt' link but noted that the text was s
 
 
 
-## 4.  Participants were able to locate how to request financial help.
+## 4.  Participants were able to locate how to request financial help
 
 Some participants saw the *'Request help with your bill'* on the prototype that was not clickable. One participant saw the link but stated he would call. Another participant stated he thought the link might go to a live chat or a messaging system where he would get a response within 24 hours. He also mentioned being able to send a photo of a bill he already paid in order to dispute a charge.
 
-## 5. Participants were able to locate how to view statements.
+## 5. Participants were able to locate how to view statements
 
-Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail. Some participants noted that there were characters (&nbsp;) , "gibberish", added within their statement. 
+Some mentioned expecting to immediately see a PDF statement but were able to locate where to download the PDF statement. One participant mentioned that the PDF statement showed more detail than the statements he gets in the mail. Some participants noted that there were characters (`&nbsp;`) , "gibberish", added within their statement. 
 
-## 6.  Participants were able to locate how to pay their debt/copay.
+## 6.  Participants were able to locate how to pay their debt/copay
 Participants either located the "Pay online" accordion that transferred them to pay.gov or they would select "Check your balance to resolve bill" and click "Pay your copay bill".
 >_I guess I would click this link that says 'check your balance and resolve your bill'. Click on the 'how to pay your copay bill' and hit the plus button to open each window and either pay online as long as there is no fee or pay by mail."_
 
 
-## 7. Some participants felt there were too many pages and important features were hidden
+## 7. Some participants felt there were too many pages and that important features were hidden
 
-Some participants stated there were too many layers of pages where the only navigation available were breadcrumbs. They wanted more information on one page with important links such as a pay button at the top of the page.
+Some participants stated there were too many layers of pages where the only navigation available were breadcrumbs. They wanted more information on one page with important links such as a pay button at the top of the page. One participant stated he would have liked to see the *“Notice of rights and responsibilities”* featured on the first page. He mentioned that he received that information on a paper bill in the past and it helped him understand his rights and who to contact. 
     
   > _"I don’t feel it is necessary to click through four to five pages to get all your information."_
 
@@ -295,6 +295,8 @@ This research does not include the perspectives of the following marginalized Ve
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/conversation-guide.md)
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/research/usability-apr-2022/notes)
+
+[Mural board with User Flow](https://app.mural.co/t/vsa8243/m/vsa8243/1645453970389/5712442eb61e558df96599ac35c346436aafcc9c?sender=u80f7d2d5a61ae1a237507144)
 
 
 ## Tools used for Synthesis
