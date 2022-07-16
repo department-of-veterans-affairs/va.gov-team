@@ -19,9 +19,9 @@ Before browser-testing, if clearing storage is necessary to restore app-state, y
 2. Click **Console** tab, then paste the following code at the blinking insertion point:
   - To clear all **local storage**: `localStorage.clear();`
   - To clear a specific **local storage item**: `localStorage.removeItem('<item-key>');` 
-  [replace <item-key> with actual key of the item you need to clear]
+  [replace `<item-key>` with actual key of the item you need to clear]
   - To clear all **session storage**: `sessionStorage.clear();`
   - To clear a specific **sesstion storage item**: `sessionStorage.removeItem('<item-key>');` 
-  [replace <item-key> with actual key of the item you need to clear]
+  [replace `<item-key>` with actual key of the item you need to clear]
 3. Press **Enter**.
 4. If necessary, **Refresh** your web-page.
