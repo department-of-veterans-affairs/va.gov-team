@@ -15,7 +15,7 @@ Before browser-testing, if clearing storage is necessary to restore app-state, y
 
 1. Open browser **Developer Tools** [Web Inspector in Safari]:
   - In **Edge**, **Chrome**, or **Firefox**, press **F12**.
-  - In Safari, press **Cmd+Opt+I**.
+  - In **Safari**, press **Cmd+Opt+I**.
 2. Click **Console** tab, then paste the following code at the blinking insertion point:
   - To clear all **local storage**: `localStorage.clear();`
   - To clear a specific **local storage item**: `localStorage.removeItem('<item-key>');` 
