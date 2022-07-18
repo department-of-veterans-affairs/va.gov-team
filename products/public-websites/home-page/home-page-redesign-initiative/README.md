@@ -56,7 +56,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 [Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/benefit-utilization-data.md) >_Receipient/beneficiary numbers by benefit category_
 
 ### Banner and alert interaction data
-- [Banner and alert interaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md)
+- [Banner and alert interaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md) > _data on interactions with sitewide alerts, warning alert boxes,and promo banners_
 
 ## Research artifacts
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research)
