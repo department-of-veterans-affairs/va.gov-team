@@ -135,7 +135,6 @@ Planned dates of research: July 21, 2022—August 4, 2022
 
 | Session Date   | Availability                                    |
 | -------------- | ----------------------------------------------- |
-| July 21, 2022  | 8:00 a.m. to 12 noon ET<br>2:00 p.m. to 4 p.m. ET |
 | July 22, 2022  | 8:00 a.m. to 5 p.m. ET                          |
 | July 25, 2022  | 8:00 a.m. to 5 p.m. ET                          |
 | July 26, 2022  | 8 a.m. to 2 p.m. ET                             |
@@ -146,6 +145,7 @@ Planned dates of research: July 21, 2022—August 4, 2022
 | August 2, 2022 | 8:00 a.m. to 3 p.m. ET                          |
 | August 3, 2022 | 8 a.m. to 2 p.m. ET                             |
 | August 4, 2022 | 8:00 a.m. to 12 noon ET                         |
+| August 5, 2022 | 11:00 a.m. to 5 p.m. ET                         |
 
 ## Team Roles
 - **Moderator**: Ian McCullough, ian.mccullough@oddball.io
