@@ -10,7 +10,6 @@ Date(s): April 27-29, 2022
 [Executive team findings debrief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/exec-team-findings-debrief.md)<br>
 [Research findings (Markdown)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md)<br>
 [Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf)<br>
-[Research report - all slides (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report%20Full.pdf)
 
 [Companion study with staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/README.md)
 
