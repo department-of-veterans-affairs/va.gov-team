@@ -2,14 +2,24 @@
 
 - [ ] Have link to prototype ready: [desktop](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/pa2qY2Q/play) and [mobile](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/wLOQpkq/play)
 
+## Starting the session
+- _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
+- _In the Attendees section, make sure everyone except the participant is on mute._
+- _In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked._
+- _Check your [screensharing setup] and share permissions for participants._
+- _When the participant is ready, begin the session with the following intro._
+
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Angela and I also have some colleagues on the line who will just be observing and taking notes. Today we're going to talk about a new feature we're adding to VA.gov to help Veterans get their recent details about VA payments and debts.
+Thanks for joining us today! My name is Angela and I also have a note taker here with me. Today we're going to talk about a new feature on VA.gov that will help Veterans get their recent details about VA payments and debts.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work. We want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
+- **I also have some other colleagues in the waiting room who would like to observe and take notes.** Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay with letting them in for this session?
+	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
+	- _If participant consents, let other observers into room and allow a short pause to say hello._ Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work so you cannot do anything wrong here. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
 
 - **You'll be interacting with a prototype.** This may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.**
