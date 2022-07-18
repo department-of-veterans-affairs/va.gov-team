@@ -26,6 +26,7 @@ To help Veterans and beneficiaries
 ## [Design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#design-artifacts)
 
 ## [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
+- [Related research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research/related-research)
 
 ## Engineering artifacts
 
