@@ -1,6 +1,7 @@
 # Vets-api retries - Mulesoft failures
 
-In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is no response (or an error??).
+In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is a response _other than_ status codes `201` or `202`.
+
 In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams.
 
 Vets-api will perform retries in the intervals below:
@@ -28,6 +29,7 @@ After 24 hours of retries, any alerts will be posted to the Slack Channel #healt
 - Ramesh Dugar
 - Ranganathan Balasubramanian
 - Sreeni Komma
+
 All communications and failure remediation triage will occur in Slack Channel vecms-carma_vadotgov_development_external.
 
 Upon receiving the alert, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  
