@@ -1,5 +1,5 @@
-# Contact information: User needs to add, edit, or remove contact information
-Last updated: July 15, 2022
+# Contact information: User needs to add or update contact information
+Last updated: July 18, 2022
 
 - If a user doesn’t have contact information on file, they’ll see a prompt to add missing information within the relevant section.  
 - They can use the “Edit” button to add or update their contact information in edit mode. This applies to:
@@ -29,8 +29,8 @@ Clicking the edit button will put the section into edit mode and reveal the nece
 - [Mobile mock-up, save success](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/oYO1LOj)
 
 #### Save error: information can’t be saved
-* If an API call fails, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
-* If the API call continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Omrvwym))
+* If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
+* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Omrvwym))
 
 ### Removing information
 - Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information
