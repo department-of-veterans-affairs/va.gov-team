@@ -1,6 +1,7 @@
 # VA.gov Homepage README
 
-## [Homepage redesign iteration READ.ME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) picks up the story with the redesign initiative beginning in March 2022. 
+## Recommended reading
+[Homepage redesign iteration READ.ME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) > _picks up the story with the redesign initiative beginning in March 2022_. 
 
 ## Product context
 
