@@ -67,7 +67,7 @@ We will be conducting these interviews remotely, over Zoom.
 
 ### Research materials
 
-- [Conversation guide](PACT-act-veterans-conversation-guide.md)
+- [Conversation guide](/PACT-act-veterans-conversation-guide.md)
 
 ## Recruitment
 
