@@ -6,7 +6,7 @@
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
 - _In the Attendees section, make sure everyone except the participant is on mute._
 - _In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked._
-- _Check your [screensharing setup] and share permissions for participants._
+- _Check your screensharing setup and share permissions for participants._
 - _When the participant is ready, begin the session with the following intro._
 
 ## Intro - 2 minutes
