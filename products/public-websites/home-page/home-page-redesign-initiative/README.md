@@ -29,7 +29,7 @@ The homepage fulfills Lincoln's promise, the VA's mission to honor and serve Ame
 - to enable faster access to care and timely delivery of services
 - improve the use experience of interacting with the VA
 
-**2018 homepage goals**
+**Homepage goals**
 
 To help Veterans and beneficiaries
 - explore VA benefits and services
@@ -49,12 +49,8 @@ Veterans have evolved too - from never logging in to understanding that some tas
 
 ## Analytics 
 - [Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative/analytics)
-
-### Baseline data
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
 - [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit category_
-
-### Utilization data
 - [Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/benefit-utilization-data.md) >_Receipient/beneficiary numbers by benefit category_
 
 ### Banner and alert interaction data
