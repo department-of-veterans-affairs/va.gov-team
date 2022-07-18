@@ -106,6 +106,8 @@ Share link to prototype:
 - What questions do you have about the content on this page?
 - Does anything need to be explained?
 - Let’s say you just recently experienced an issue logging in to VA.gov. Can you use this tool to help troubleshoot that issue?
+- What steps would you take from the information you viewed?
+- Is this easier than how you would address these login issues in the past? How so?
 
 ### What to Look For:
 - Were they able to succesfully navigate through the prototype?
@@ -117,8 +119,6 @@ Share link to prototype:
 - What did you like about this prototype?
 - What do you dislike?
 - What would you change?
-- Would you personally use this tool?
-- Did you feel comfortable using this tool?
 - Does anything within this product seem out of place or unnecessary to you?
 - Is there anything in this process we didn’t cover today that you think we should know about?
 
