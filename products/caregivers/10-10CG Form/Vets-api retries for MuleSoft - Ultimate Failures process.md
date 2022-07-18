@@ -4,13 +4,48 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams without further intervention from the applicant.
 
-- Vets-api will perform retries in the intervals below:
+- Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See table below)
      - 1 minute after first failed response (example, not actual timing)
      - X minutes later
      - X minutes later
      - X minutes later
      - X minutes later
      - X minutes later
+
+<details>
+     <Summary>Current Automatic Job Retry library - Table for approximate retry waiting times</Summary>
+ 
+ - Hint: This table was calculated under the assumption that `rand(10)` always returns 5. See `Sidekiq::JobRetry#delay_for` for the current formula.
+     
+ |# | Next retry backoff | Total waiting time|
+ |---|-------------------|------------------|
+ 1 |       0d 0h 0m 20s |       0d 0h 0m 20s
+ 2 |       0d 0h 0m 26s |       0d 0h 0m 46s
+ 3 |       0d 0h 0m 46s |       0d 0h 1m 32s
+ 4 |       0d 0h 1m 56s |       0d 0h 3m 28s
+ 5 |       0d 0h 4m 56s |       0d 0h 8m 24s
+ 6 |      0d 0h 11m 10s |      0d 0h 19m 34s
+ 7 |      0d 0h 22m 26s |       0d 0h 42m 0s
+ 8 |      0d 0h 40m 56s |      0d 1h 22m 56s
+ 9 |       0d 1h 9m 16s |      0d 2h 32m 12s
+10 |      0d 1h 50m 26s |      0d 4h 22m 38s
+11 |      0d 2h 47m 50s |      0d 7h 10m 28s
+12 |       0d 4h 5m 16s |     0d 11h 15m 44s
+13 |      0d 5h 46m 56s |      0d 17h 2m 40s
+14 |      0d 7h 57m 26s |        1d 1h 0m 6s
+15 |     0d 10h 41m 46s |     1d 11h 41m 52s
+16 |      0d 14h 5m 20s |      2d 1h 47m 12s
+17 |     0d 18h 13m 56s |       2d 20h 1m 8s
+18 |     0d 23h 13m 46s |     3d 19h 14m 54s
+19 |      1d 5h 11m 26s |      5d 0h 26m 20s
+20 |     1d 12h 13m 56s |     6d 12h 40m 16s
+21 |     1d 20h 28m 40s |       8d 9h 8m 56s
+22 |       2d 6h 3m 26s |    10d 15h 12m 22s
+23 |      2d 17h 6m 26s |     13d 8h 18m 48s
+24 |      3d 5h 46m 16s |      16d 14h 5m 4s
+25 |     3d 20h 11m 56s |     20d 10h 17m 0s
+
+</details>
 
 - After 24 hours of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
