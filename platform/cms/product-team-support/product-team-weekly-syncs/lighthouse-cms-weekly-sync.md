@@ -15,13 +15,18 @@
 
 ## Monday, July 18, 2022
 
+* Dave C on leave next week July 25-
 * Estimate of V1 ship date?
+  * No solidified date yet, getting close. We have answers to all q's. Implementing last chagnes.  Data soruces, SOT, logic around moving away from ATC. other items. 
+  * Still targeting an August timeframe 
+  * Need answers from ATC - what's happening to data as it exists today? Hoepfully nothing major. Mapping old names to new names - don't want to risk losing data.
+  * Q: Is that pertinent to v1? We mightn not have wiat times or sat scores? A: Existied as part of v0.  Ie Different wait times for group vs individual. Determining how to get these answers - underlying data is going to change - even in v0. 
+  * LH Please keep us in loop - Dave C personally wants to stay in loop
+* ATC Changes to v0 - monitoring - Facilites team needs to be kept in loop .. implication to FL and VAMC product
+  * Notify us if any changes require support
 * Lovell: CMS team will add 4 DoD facilities directly to Drupal to support Lovell. Our assumption is that these should be pushed to Facility API. 
-  * Correct? 
-  * Anything special about this? 
-  * What about Facility ID? We propose dod_nodeID as a format... so something like dod_55555. Thoughts? Character limits?
-  * What do we need to think about in terms of pushing this data? 
-  * Reference: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1940, https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1941
+  * Asked and answered - Not going into LH API
+  * Not veteran facing facilities. . confirmed in past
 * VBA is starting pre-kickoff - Goal to eliminate Sandy's db, source from Drupal
 * Overall SSOT truth discussions. LH team, Jenny HL, Dave C
 * Sync CMS data to sandbox. Joshua offline discussion
