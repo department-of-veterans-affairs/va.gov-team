@@ -106,7 +106,7 @@ Another participant noted that the information he's received is not always updat
 > _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
 
 4. Participants may want to view their debt and copay bill details before resolving them, so they may think there’s too much content on the ‘current debts’ and ‘current copay bills’ pages 
-	- *Maybe True.* Participants talked about the ability to quickly either view details or quickly pay their bill based on their situation. Several participants noted that there were too many pages and that 
+	- *Maybe True.* Participants talked about the ability to either quickly view details or quickly pay their bill based on their situation. Several participants noted that they had to go through too many pages to get to the information they were looking for. One participant noted that there was too much text and he prefers to scan websites and not read every line.
 
 5. Participants will understand the difference between a copay bill and benefit debt, but may be confused by the differences in payment and resolution options with those debts and bills  
 	- *Maybe False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay, where to request financial help. Some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
@@ -121,7 +121,7 @@ Another participant noted that the information he's received is not always updat
 
 2. Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay
 
-3. Most participants did not have issues navigating from copays to debts and vice versa but most participants saw the summary page
+3. Most participants did not have issues navigating from copays to debts and vice versa when starting from the summary page. We don't have enough data to know if this will be an issue if they start from a detail page.
 
 4.  Most participants were able to locate how to request financial help
 
@@ -207,8 +207,7 @@ If they wanted to search, search terms they mentioned they would try include:
 
 
 
-## 3. Most participants did not have issues navigating from copays to debts and vice versa but most participants saw the summary page first
-
+## 3. Most participants did not have issues navigating from copays to debts and vice versa when starting from the summary page. We don't have enough data to know if this will be an issue if they start from a detail page.
 
 Most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page at the beginning of the session were still able to navigate to either the copay or debt page utilizing either the 'View other VA debt' link or by clicking on the breadcrumb.
 
@@ -264,7 +263,6 @@ While on the status page, one participant commented on how it appeared as if the
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Look into ways of consolidating pages and surfacing important statement data and pay link sooner
 
