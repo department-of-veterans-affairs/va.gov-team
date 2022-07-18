@@ -11,7 +11,7 @@ Before we start, a few things I want to mention:
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work. We want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
 
-- **You'll be interacting with a prototype.** This may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototype.** This may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
@@ -39,11 +39,11 @@ Before we look at the website, I'd like to get a little background information f
 
 ## First Task: Determine if the title of this section accurately conveys the content. - 3 minutes
 
-**Task goal: Get feedback on the title of the section, whether it's clear what the content will be, and whether the title resonates with terminology Veterans are familiar with.**
+**Task goal: Get feedback on the titles of the sections, whether they are clear what the content will be, and whether the titles resonate with terminology Veterans are familiar with.**
 
 Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
-- Send link to prototype in Zoom chat *(Or do we share our screen and give them control?)*
+- Send link to prototype in Zoom chat
 - Ask participant to share their screen
 
 We will be looking at a prototype as a fictional logged in user, so the content may not apply directly to you, but I'd like to hear your thoughts on a scenario where we'll imagine that they do. We'll be looking at a prototype of My VA and talking about specific sections.
@@ -56,32 +56,39 @@ What would you do next after having seen this notification?
 What would you do if you wanted more information about this debt?
 Let's say you clicked on Manage your VA debt, went and paid the debt that you had, and you came back to this page (My VA) and this notification was still here. What would you think about that and what would you do?
 
-Okay, now let's scroll down to the Debts and Payments section. Before we reveal the content in this section, can you tell me what type of things you think you'd see here just based on the title of the section?
+Okay, now let's scroll down to the Outstanding Debts and Benefit Payments sections. Before we reveal the content of these sections, can you tell me what type of things you think you'd see here just based on the titles?
 
-What do you think "debts" refers to here? What about "payments"?
+What do you think "outstanding debts" refers to here? What about "benefit payments"?
 
-Okay, let's click once and we'll take a look at the content of this section.
+Okay, let's click once and we'll take a look at the content of these sections.
 
 - Reveal the content of the section by clicking anywhere on the page
+
 ### Things to watch for:
 
 - Do users mention any types of debt and/or copays when they're thinking of what debts might be?
 - Do users understand that payments will be paid to them, or do they think they are paid to the VA?
-- Are there any negative reactions to the title?
+- Are there any negative reactions to the titles?
 
 ## Second Task: Review and get feedback on details for debts - 8 minutes
 
 **Task goal: Validate that the details displayed are the most important pieces of information for debts**.
 
-- Let's take a look at the recent unpaid debts section. Can you describe to me what you think this section is for? What's standing out to you?
+- Let's take a look at the outstanding debts section. Can you describe to me what you think this section is for? What's standing out to you?
 
-- Based on the titles of these line items here, tell me how you think you would have come to have these showing in your account. 
+- How do you think you might come to have these showing in your account? 
 
 *Listen to hear if they are noticing some are debts and some are copays or if they don't make that differentiation.*
 
-- On the 9/11 Post GI Bill debt where it says "We're reviewing your information", why do you think it says that instead of showing a due date?
+- *If they did not mention anything about the copay* Did you notice that it says this is for both debts and copays? Would you expect to see copays in the same section as debts, or somewhere else on this page? 
 
-- What's the most important piece of information you would want to know about a debt that you have?
+- Okay, let's click on the Outstanding Debts title to see a slightly different view. Here the copay total is listed under debts separately. Would you prefer to see the total for copays combined with debts, or as a separate amount? Why?
+
+- *If alt version was shown first, then ask* Okay, let's click on the Outstanding Debts title to see a slightly different view. Here the debt total is shown as one amount instead of the debt and copays being separate like you just saw. Would you prefer to see the total for all debt owed here, or did you prefer seeing the total for debts and copays separately? Why?
+
+- What do you think the last updated dates refer to?
+
+- What's the most important piece of information you would want to know about a debt that you have, regardless of whether you see that info here?
 
 - If you had these debts in your account, do you think you'd like to manage them from this website or some other way?
 
@@ -105,32 +112,34 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 - What do you think you'd want to do with this information?
 
-- What would you do next if you wanted to pay or request help for one of these debts?
+- What would you do next if you wanted to pay or request help for your debt?
 
-- What do you expect to see if you click the Manage your VA debt link?
+- What would you expect to see if you clicked the Manage your VA debt link?
+
+- What would you expect to see if you clicked the Manage your VA bills link?
 
 ### Things to watch for:
 
-- Do veterans want to act on individual items or go to another page to see details about all of them?
 - Do veterans know how to take action on debts that are due?
-- What do veterans expect to happen if they click the Manage your VA debt link?
+- What do veterans expect to happen if they click the one of the action links?
+- Are the two different action links for managing VA debt and VA bills confusing or preferred?
 - Is the action link standing out enough?
 
 ## Fourth Task: Discuss details in the payments section - 5 minutes
 
 **Task goal: Validate that the most important pieces of payment information are being presented on My VA.**
 
-- Let's take a look at the section that says Recent payments deposited. Can you describe to me what you think this section is for? What's standing out to you?
+- Let's take a look at the section called Benefit Payments. Can you describe to me what you think this section is for? What's standing out to you?
 
 - Based on the titles of these line items, tell me how you think you would have come to have these showing in your account. 
 
-- Do you know where these payments were deposited to?
+- Would you know where these payments were deposited to? *If no* How would you go about finding out?
 
-- Why are you seeing two payments here and a link to view your payment history?
+- What would you do if you wanted to see more than just your most recent payment?
 
 - What's the most important piece of information you would want to know about your payments?
 
-- Let's say you used to receive payments from the VA but now you don't anymore. How long do you think you'd want to see these past deposits in your account? If they were here for a set amount of time and then you could only access them in your payment history, what would you want that amount of time to be?
+- Let's say you used to receive payments montly from the VA but now you don't anymore. How long do you think you'd want to see the most recent payment here?
 
 - Is there anything you expect to see here that you don't? Is anything about this section confusing to you?
 
@@ -141,7 +150,7 @@ Okay, let's click once and we'll take a look at the content of this section.
 
 - Is it clear that payments are made to them from the VA?
 - Are there any important pieces of information missing?
-- How many recent payments do veterans want to see here?
+- Is it unclear where the money was deposited to without the account number info?
 - Is the action link standing out enough?
 
 ## Post Task Interview - 5 minutes
