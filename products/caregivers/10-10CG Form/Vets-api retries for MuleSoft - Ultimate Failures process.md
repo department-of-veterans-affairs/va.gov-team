@@ -30,7 +30,6 @@ In the event that MuleSoft fails to return a successful response within a given 
      - Ranganathan Balasubramanian
      - Sreeni Komma
 
-All communications and failure remediation triage will occur in **Slack Channel vecms-carma_vadotgov_development_external**.
 
 - Upon receiving the alert, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  
 
