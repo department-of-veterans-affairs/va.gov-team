@@ -107,7 +107,7 @@ For the rest of our conversation we're going to talk about what that experience 
 
 ## Concluding questions - X minutes
 - What if anything would have made the health care benefits application process easier for you?
-**- Looking back now, what do you wish you had known about _______ (eligibility) that you didn't know back then?**
+- Looking back now, what do you wish you had known about _______ (eligibility) that you didn't know back then?
 - What if anything does the phrase "income limits" mean to you?
 - Anything else we didn't cover that you'd like to share about health care benefits eligibility?
 - Any questions for me? 
