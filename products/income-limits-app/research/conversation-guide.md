@@ -80,37 +80,31 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 10. When you first had this thought, what questions came up for you?
 11. What concerns did you have, if any?
 12. Did you do anything at that time to start to learn more about applying for health care benefits? What did you do?
-13. Did you have any kind of plan for what you would do next?
-
-### Repeat as needed:
-14. When did you next think about health care benefits?
-15. Tell me about that: Where were you?
-16. Who were you with?
-17. What caused health care benefits to come up again in your mind?
-18. Worries? Questions?
+14. Did you have any kind of plan for what you would do next?
+15. What did you do next? OR: What happened next? (repeat as needed)
 
 ### On topic of eligibility:
-19. How did the topic of _________ (eligibility - use participant's term if possible) come up for you?
-20. At that point, what did you know or assume about _______ ?
-21. How did you get that information?
-22. What questions/concerns did you have about ________ ? 
-23. Where did you go (or, who did you go to) to address those questions/concerns?
+16. How did the topic of _________ (eligibility - use participant's term if possible) come up in this process?
+17. At that point, what did you know or assume about _______ ?
+18. How did you get that information?
+19. What questions/concerns did you have about ________ ? 
+20. Where did you go (or, who did you go to) to address those questions/concerns?
 
 ### If doesn't come up naturally:
-18. What about eligibility for health care benefits: Did eligibility come up for you at all throughout this process?
-19. If yes, how did it come up? 
-20. Where were you?
-21. Who were you with?
-22. What questions did you have? 
-23. What concerns did you have?
-24. I want to hear how you learned more about that. Did you seek more info at this time?
-25. Where did you go first to learn more?
-26. Where else did you go to learn more?
-27. When did you finally get your questions answered?
+16. Did the thought of whether or not you'd be eligible for health care benefits come up during this application process?
+17. If yes, how did it come up? 
+18. Where were you?
+19. Who were you with?
+20. What questions/concerns did you have? 
+21. Did you seek more info at this time?
+22. Where did you go first to learn more?
+23. Where else did you go to learn more?
+24. When did you finally get your questions answered?
 
 ### Things to watch for:
 - Does participant demonstrate awareness of eligibility as part of benefits application process?
-- What does "income limits" mean to participant?
+- What words or phrases does participant use to talk about eligibility/income limits?
+- What type of emotional experience is associated with eligibility?
 
 ## Concluding questions - X minutes
 - What if anything would have made the health care benefits application process easier for you?
