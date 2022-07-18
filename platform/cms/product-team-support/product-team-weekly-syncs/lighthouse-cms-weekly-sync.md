@@ -13,8 +13,6 @@
 
 </details>
 
-Get best estimate of V1 ship date
-
 ## Monday, July 18, 2022
 
 * Estimate of V1 ship date?
@@ -24,7 +22,7 @@ Get best estimate of V1 ship date
   * What about Facility ID? We propose dod_nodeID as a format... so something like dod_55555. Thoughts? Character limits?
   * What do we need to think about in terms of pushing this data? 
   * Reference: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1940, https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1941
-* VBA is starting pre-kickoff - Goal to elminiate Sandy's db, source from Drupal
+* VBA is starting pre-kickoff - Goal to eliminate Sandy's db, source from Drupal
 * Overall SSOT truth discussions. LH team, Jenny HL, Dave C
 * Sync CMS data to sandbox. Joshua offline discussion
 * Mobile facilities - Dave C offline discussion
