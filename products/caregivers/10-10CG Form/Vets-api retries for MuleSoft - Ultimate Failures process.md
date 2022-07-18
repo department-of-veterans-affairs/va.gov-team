@@ -2,7 +2,23 @@
 
 In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is a response _other than_ status codes `201` or `202`.
 
-In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams without further intervention from the applicant.
+<details>
+     <Summary>More details on codes from MuleSoft</Summary>
+
+>Mule application will only generate 201 or 202 when it was able either:
+>- Process Message
+>- Queue message to SFDC
+>- Create a DTC ticket
+>
+>Mule will never generate any other code if it is functional.
+>
+>VA.GOV needs to retry if:
+>- It can’t connect to Mule and get 5xx error
+>- The connection timed out after 5 minutes and Mule did not respond
+>
+>In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is >sent to the Caregiver teams without further intervention from the applicant.
+     
+</details>     
 
 - Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See Current Automatic job retry library table below)**
      - 1 minute after first failed response (example, not actual timing)
