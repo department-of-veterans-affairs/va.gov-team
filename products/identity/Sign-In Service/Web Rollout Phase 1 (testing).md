@@ -51,6 +51,7 @@ At each hour if the success (login) % is under 50%, we should pause/terminate th
 # Communications Plan
 Our intention is to communicate our testing at least 14 days in advance via Team of Teams, our channel at #vsp-identity, and through any other relevant slack channels.  
 
-# To add
-- Communication plan
+During our testing phase, we will monitor our public channel (#vsp-identity) for any issues, and encourage any VA teams to report them there.  We will have a dedicated engineering resource monitoring this channel during the test, and responding and prioritizing any issues to determine if we need to stop the test.
+
+
 
