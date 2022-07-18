@@ -1,4 +1,4 @@
-# Contact information: User needs to update contact information
+# Contact information: User needs to add, edit, or remove contact information
 Last updated: July 15, 2022
 
 - If a user doesn’t have contact information on file, they’ll see a prompt to add missing information within the relevant section.  
@@ -23,9 +23,14 @@ Clicking the edit button will put the section into edit mode and reveal the nece
 - [Mobile mock-up, editing](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/l14rQ4v)
 
 ### Saving information
+- Changes are saved once the user presses the “update” button
 - Once the form is successfully saved, the user is returned to “read” mode and a background-only success alert should display above the edit button
 - [Desktop mock-up, save success](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/zx2qQ2e)
 - [Mobile mock-up, save success](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/oYO1LOj)
+
+#### Save error: information can’t be saved
+* If an API call fails, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
+* If the API call continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Omrvwym))
 
 ### Removing information
 - Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information
@@ -40,7 +45,7 @@ Clicking the edit button will put the section into edit mode and reveal the nece
 - [Mobile mock-up, cancel modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/pamAp4p)
 
 ## Codes
-N/a
+N/A
 
 ## How to reproduce
 **Do not save a mailing address for either of these users**
@@ -48,3 +53,4 @@ N/a
 2. Go staging.va.gov/profile/contact-information
 3. Click the edit button on *any section except mailing address* and add missing information, or edit existing information.
 4. Remove the information you added before logging out by clicking the remove button. You don’t need to remove information you edited if something was already there.
+
