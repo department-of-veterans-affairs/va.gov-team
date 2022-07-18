@@ -4,7 +4,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams without further intervention from the applicant.
 
-- Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See table below)
+- Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See Current Automatic job retry library table below)
      - 1 minute after first failed response (example, not actual timing)
      - X minutes later
      - X minutes later
@@ -15,7 +15,9 @@ In the event that MuleSoft fails to return a successful response within a given 
 <details>
      <Summary>Current Automatic Job Retry library - Table for approximate retry waiting times</Summary>
  
- - Hint: This table was calculated under the assumption that `rand(10)` always returns 5. See `Sidekiq::JobRetry#delay_for` for the current formula.
+(https://github.com/mperham/sidekiq/wiki/Error-Handling#automatic-job-retry)
+ 
+- Hint: This table was calculated under the assumption that `rand(10)` always returns 5. See `Sidekiq::JobRetry#delay_for` for the current formula.
      
  |# | Next retry backoff | Total waiting time|
  |---|-------------------|------------------|
