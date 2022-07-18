@@ -1,6 +1,7 @@
 # Conversation Guide for Authenticated Experience team - Benefit Payments and Debts, June 2022
 
-- [ ] Have link to prototype ready: [desktop](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/pa2qY2Q/play) and [mobile](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/wLOQpkq/play)
+- [ ] Have link to prototype ready: Combined debt amounts first - [desktop](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/pa2qY2Q/play) and [mobile](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/wLOQpkq/play)
+Separate debt and copay amounts first (Alt version) - [desktop](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/1CC7B24C-E3F9-4032-9C80-3087E1DEAC91) and [mobile](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/F49A6509-A8FB-410D-AC45-1861C1DC959D)
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to particpant when they are admitted to the session._
