@@ -15,7 +15,16 @@
 
 Get best estimate of V1 ship date
 
-## Monday, July11, 2022
+## Monday, July 18, 2022
+
+* CMS team will add 4 DoD facilities directly to Drupal to support Lovell. Our assumption is that these should be pushed to Facility API. 
+  * Correct? 
+  * Anything special about this? 
+  * What about Facility ID? We propose dod_nodeID as a format... so something dod_55555 thoughts? Character limits?
+  * What do we need to think about in terms of pushing this data? 
+
+
+## Monday, July 11, 2022
 * Lat/Long info for VetCenter CAPs
   * https://dsva.slack.com/archives/C02BTJTDFTN/p1656535172014689
   * LH still needs to set up endpoint - similar to other updates, seperate URL ot CAPs
