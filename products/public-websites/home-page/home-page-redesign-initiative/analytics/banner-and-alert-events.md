@@ -1,11 +1,33 @@
 # Analytics on banner and alert events
-January 1, 2021 - July 14, 2022
+
+**The following data and observations reflect data from January 1, 2021 - July 14, 2022.**
+
+## Site wide alerts
+
+- The alert was closed 757,192 times during the data period from various pages across va.gov **and all between November 1, 2021 - March 31, 2022**. 
+- 255,429 (34%) of those times were from the homepage. 
+
+## Warning alert boxes
+
+There were a total of 565,105 interactions with warning alert boxes during the data period. 
+- 27,375 of these were with "Warning alert boxes" appearing exclusively on health care system specific pages and 49,667 were specific to home address requirements on VAOS.
+
+Of the 488,063 interactions with warning alert boxes appearing sitewide,  
+- 263,040 interactions (54% of the sitewide total) were with alerts on the Coronavirus or COVID topic. 
+  - 197,148 (75%) of these occurred on the homepage. 
+- There were 221,475 interactions (45% of the sitewide total) with "VA facility and status update alerts" containing links to vaccine information, FAQs or the Facility Locator. 82% (181,436) of the interactions occurred on the homepage. 
+- There were 1,014 interactions with the alert containing the Holiday boost campaign.
+
 
 ## Promo banner interactions
-Help for Afghanistan Veterans and families promo banner
-COVID-19 promo banner
+
+[Event data for Help for Afghanistan Veterans and families promo banner](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#promo-banner-interactions)
+
+[Event data for COVID-19 promo banner](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#covid-19-promo-banner)
 
 ### Help for Afghanistan Veterans and families promo banner
+23% of the interactions with the Afghanistan Veterans and families promo banner occurred on the homepage.
+40% from the COVID-19 screening page
 
 | 	Event Action	| 	Page	| 	Total Events	| 	Unique Events | 
 | 	---	|--- |	--:	| 	--:		
@@ -19,8 +41,10 @@ COVID-19 promo banner
 | 	Navigation - Promo Banner - announcement - https://blogs.va.gov/VAntage/help-for-afghanistan-veterans-families/ - (not set) - Help for Afghanistan Veterans and families	| 	www.va.gov/contact-us/	| 	3,041	| 	2,534
 
 ### COVID-19 promo banner
+75% of the interactions with the COVID-19 promo banner occurred on the homepage.
 
 | 	Event Action	| 	Page	| 	Total Events	| 	Unique Events
 | 	---	|--- |	--:	| 	--:		
 | 	Navigation - Promo Banner - announcement - /health-care/covid-19-vaccine/ - (not set) - Sign up to get a COVID-19 vaccine at VA	| 	www.va.gov/	| 	9,122	| 	9,122
 | 	Navigation - Promo Banner - announcement - /health-care/covid-19-vaccine/ - (not set) - Get a COVID-19 vaccine at VA	| 	www.va.gov/	| 	3,041	| 	3,041
+
