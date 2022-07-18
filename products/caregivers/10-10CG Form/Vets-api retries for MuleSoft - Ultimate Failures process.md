@@ -2,7 +2,7 @@
 
 In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is a response _other than_ status codes `201` or `202`.
 
-In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams.
+In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams without further intervention from the applicant.
 
 - Vets-api will perform retries in the intervals below:
      - 1 minute after first failed response (example, not actual timing)
