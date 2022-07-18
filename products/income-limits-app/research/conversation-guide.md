@@ -63,8 +63,11 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 2. Is that the only time you applied for health care benefits?
 
 ### If not the only time applied for health care benefits:
+
 3a. How many other times did you apply for health care benefits?
+
 3b. What was it that caused you to apply more than once?
+
 3c. When was the most recent time you applied?
 
 ### If yes: Okay, for the rest of our conversation we're going to talk about what that experience was like for you. 
