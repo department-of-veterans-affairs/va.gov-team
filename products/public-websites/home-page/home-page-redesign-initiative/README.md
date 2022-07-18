@@ -47,10 +47,16 @@ Veterans have evolved too - from never logging in to understanding that some tas
 - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/decision-log.md)
 - [Experience overview for authenticated and unautheticated users on va.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d58dfc17eaab784084c55ae5148a1fcea316dacc/products/global/home-page/expereince-overview.md) _written by Ryan Thurlwell and Jeff Barnes | November 2021_
 
-## Baseline analytics
+## Analytics
+### Baseline data
 - [Baseline event data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-event-data.md) > _data for unique mobile and desktop events on the VA.gov home page_
-- [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit cateogry_
-- [Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/benefit-utilization-data.md) >_Receipient/beneficiary numbers by benefit category_
+- [Baseline transaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/baseline-transaction-data.md) > _traffic to the homepage, login rates, transactions by benefit category_
+
+### Utilization data
+[Benefit utilization data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/benefit-utilization-data.md) >_Receipient/beneficiary numbers by benefit category_
+
+### Banner and alert interaction data
+- [Banner and alert interaction data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md)
 
 ## Research artifacts
 - [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research)
