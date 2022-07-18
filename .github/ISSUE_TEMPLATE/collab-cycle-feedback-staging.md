@@ -14,9 +14,9 @@ assignees: ''
 
 
 #### VFS product name
+#### VFS feature name
 
-
-#### Point of Contact/Reviewers (Practice area)
+#### Point of Contact/Reviewers
 
 *For more information on how to interpret this ticket, please refer to the [Anatomy of a Staging Review issue ticket](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Anatomy-of-a-Staging-Review-Issue-ticket.2060320997.html) guidance on Platform Website.
 
