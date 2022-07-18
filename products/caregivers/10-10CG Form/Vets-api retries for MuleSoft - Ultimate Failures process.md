@@ -39,4 +39,5 @@ The 10-10 Health Apps team will post all updates in the Slack Channel vecms-carm
 - 10-10 Health Apps team to notify channel of alert being received, tagging the channel “@here”:
 - 10-10 Health Apps team to notify of next step being taken
 - 10-10 Health Apps team to update with step taken and any results
+- 10-10 Health Apps team to request a contact to send the retrieved PDF application file(s).
 - 10-10 Health Apps team to assist with any triage to resolve failures causing retry expiration
