@@ -70,35 +70,36 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 
 3c. When was the most recent time you applied?
 
-### If yes, this was the only time applied for health care benefits:
+### Rest of the interview is the same, regardless of first time or not applying for health care benefits:
 For the rest of our conversation we're going to talk about what that experience was like for you. 
 
 4. To start, when would you say you started first thinking about applying for VA health benefits? 
-5. Tell me a bit about what was going on in your life at that time. (Possible prompts: Where were you living? Were you working at that time? Where?)
-6. Were you receiving other benefits at the time? Which benefits?
-7. What sparked the idea that you might want to apply for VA health benefits?
-8. Where were you?
-9. Who were you with?
-10. When you first had this thought, what questions came up for you?
-11. What concerns did you have, if any?
-12. Did you do anything at that time to start to learn more about applying for health care benefits? What did you do?
-13. Did you have any kind of plan for what you would do next?
-14. What did you do next? OR: What happened next? (repeat as needed)
+5. Were you receiving other benefits at the time? Which benefits?
+6. What sparked the idea that you might want to apply for VA health benefits?
+7. Where were you?
+8. Who were you with?
+9. When you first had this thought, what questions came up for you?
+10. What concerns did you have, if any?
+11. Did you do anything at that time to start to learn more about applying for health care benefits? What did you do?
+12. Did you have any kind of plan for what you would do next?
+13. What did you do next? OR: What happened next? (repeat as needed)
 
 ### On topic of eligibility:
-15. How did the topic of _________ (eligibility - use participant's term if possible) come up in this process?
-16. At that point, what did you know or assume about _______ ?
-17. How did you get that information?
-18. What questions/concerns did you have about ________ ? 
-19. Where did you go (or, who did you go to) to address those questions/concerns?
+I'm curious to hear more about _________ (eligibility - use participant's term if possible):
 
+14. How did the topic of _________  come up in this process?
+15. At that point, what did you know or assume about _______ ?
+16. How did you get that information?
+17. What questions/concerns did you have about ________ ? 
+18. Where did you go (or, who did you go to) to address those questions/concerns?
 ### If doesn't come up naturally:
-15. Did the thought of whether or not you'd be eligible for health care benefits come up during this application process?
-16. If yes, how did it come up? 
-17. Where were you?
-18. Who were you with?
-19. What questions/concerns did you have? 
-20. Where did you go to learn more?
+
+14. Did the thought of whether or not you'd be eligible for health care benefits come up during this application process?
+15. If yes, how did it come up? 
+16. Where were you?
+17. Who were you with?
+18. What questions/concerns did you have? 
+19. Where did you go to learn more?
 
 ### Things to watch for:
 - Does participant demonstrate awareness of eligibility as part of benefits application process?
