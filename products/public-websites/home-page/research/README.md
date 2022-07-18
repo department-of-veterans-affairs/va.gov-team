@@ -3,9 +3,6 @@
 This README page serves as a "front door" to research documentation and resources related to the VA.gov homepage. 
 Relevant findings from related work and teams is available on this [Related research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research/related-research). 
 
-## Table of contents
-
-[Home page research summary](#homepage-research-summary)
 
 ## Homepage research summary
 
