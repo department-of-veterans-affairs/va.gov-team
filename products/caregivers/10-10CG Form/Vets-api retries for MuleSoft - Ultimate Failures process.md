@@ -12,7 +12,7 @@ Vets-api will perform retries in the intervals below:
 - X minutes later
 - X minutes later
 
-After 24 hours of retries, any alerts will be posted to the Slack Channel #health-tools-1010-apm.  The alerts will also be emailed to the audience below:
+After 24 hours of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
 - Patrick Bateman
 - Heather Justice
 - Mark Fallows
@@ -35,7 +35,7 @@ All communications and failure remediation triage will occur in Slack Channel ve
 Upon receiving the alert, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  
 
 
-The 10-10 Health Apps team will post all updates in the Slack Channel vecms-carma_vadotgov_development_external.
+The 10-10 Health Apps team will post all updates in the **Slack Channel vecms-carma_vadotgov_development_external**.
 - 10-10 Health Apps team to notify channel of alert being received, tagging the channel “@here”:
 - 10-10 Health Apps team to notify of next step being taken
 - 10-10 Health Apps team to update with step taken and any results
