@@ -56,6 +56,8 @@ Since Veterans can incur debt and receive payments any time after establishing b
 
 - Is the difference between debts and payments clear?
 - Is it clear that the payment shown is just the most recent payment?
+- How long would veterans want this info to persist on My VA if they were no longer receiving monthly payments?
+- Is it unclear if we take away the account number where this money was deposited to? Do veterans know where to find that info if they are unsure?
 - Do the dark green color and plus sign convey that these are payments that have been deposited to them? Do colorblind and low vision users have any difficulty seeing the dark green text?
 - Is there any important information missing in this section?
 
