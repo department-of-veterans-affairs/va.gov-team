@@ -5,7 +5,7 @@ This README page serves as a "front door" to documentation and resources pertain
 
 ## Table of Contents
 
-[Product context](#product-context)
+[Product context](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#product-context)
 
 [Product artifacts](#product-artifacts)
 
@@ -14,8 +14,6 @@ This README page serves as a "front door" to documentation and resources pertain
 [Design artifacts](#design-artifacts)
 
 [Engineering artifacts](#engineering-artifacts)
-
-[Related artifacts](#related-artifacts)
 
 [Contacts](#contacts)
 
