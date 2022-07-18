@@ -27,10 +27,28 @@
 * Lovell: CMS team will add 4 DoD facilities directly to Drupal to support Lovell. Our assumption is that these should be pushed to Facility API. 
   * Asked and answered - Not going into LH API
   * Not veteran facing facilities. . confirmed in past
+* Overall SSOT truth discussions for VHA data. LH team, Jenny HL, Dave C
+  * Had meeting last week. How to align data sources for near term
+  * how to ultimatley make drupal the SOT 
+  * Decision - if any system says they have the service, then we accept that.  Periodt. 
+  * We'd like to have the ability to leverage flags/notifications to let peopple in field know when there's a descrepancy.    
+  * We want to be able to detect ATC, DST are not aligned with what PAOs are enteiring into our system
+  * PAO - help us align this - Let DST or ATC know this should not be an item, or add it to facility 
+  * Facility team will create some type of migration flag/mnotification as part of migration workflow. CM involved as well that this process will be coming 
+  * James - are we maintaining mulitple sources of truth? From Jenny - going forward we'll always need to refer to DST or ATC. 
+  * Jenny had mentioned concerns aroudn trusting the field for maintaining service invo without some form of backup.. 
+* Can move forward on how data is flagged during migration to address descrepancies 
 * VBA is starting pre-kickoff - Goal to eliminate Sandy's db, source from Drupal
-* Overall SSOT truth discussions. LH team, Jenny HL, Dave C
-* Sync CMS data to sandbox. Joshua offline discussion
-* Mobile facilities - Dave C offline discussion
+  * Greenlit: Redoing regional offices and services.  Better undersand ecosystem to create appropriate data structures . .veteran facing and more reusable
+  * Figuring out the players - 
+  * No longer be a flat dB 
+  * To explore: What if facility is also a medical center <- Not MVP, understand problem space - agnostic to who owns facility? 
+  * Docuument and create hierarchical relationship   Parent office and child office, not just admin relationship, but from a VA standpoint - We have the literaly relathionship , butis that important to vet?  We are also trakcing which facilites are co=located with VA facilities? ANticipate using forward lookup of mapbox to better identify overlap. 
+  * Adam: Last time we looked at this - we could see those fields but not avaiable to us in our ETL thru BISL - reach out to BISL ask them to pull those columns 
+  * CAn LH provide contacts at BISL? CM around sunsetting Sandy's dB 
+  * We are currently investigating with mapbox whetehr we have the abilityh to push lat/long to LH becuase of licensing agreement.Is this a blocker? Yes,, for this and for CAPSs
+* Sync CMS data to sandbox. Joshua offline discussion - wait for Steve to return?
+* Mobile facilities - Dave C offline discussion - anything critical? no urgency right now. AI: David S to find research from Leyda
 
 
 ## Monday, July 11, 2022
