@@ -26,12 +26,10 @@ To help Veterans and beneficiaries
 ## [Design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#design-artifacts)
 
 ## [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
-- [Related research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research/related-research)
 
 ## Engineering artifacts
 
 ## Related artifacts
-- [ Related research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research/related-research#related-research)
 - [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md)
 - [VA.gov relaunch folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018)
 
