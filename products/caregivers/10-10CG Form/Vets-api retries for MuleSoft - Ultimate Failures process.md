@@ -5,7 +5,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 In the event that MuleSoft fails to return a successful response within a given timeframe, there is an alternative process in place to ensure that the application is sent to the Caregiver teams.
 
 Vets-api will perform retries in the intervals below:
-- 1 minute after first failed response
+- 1 minute after first failed response (example, not actual timing)
 - X minutes later
 - X minutes later
 - X minutes later
