@@ -9,6 +9,8 @@ This README page serves as a "front door" to documentation and resources pertain
 
 [Product artifacts](#product-artifacts)
 
+[Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#analytics) 
+
 [Research artifacts](#research-artifacts)
 
 [Design artifacts](#design-artifacts)
