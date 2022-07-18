@@ -2,7 +2,17 @@
 
 **The following data and observations reflect data from January 1, 2021 - July 14, 2022.**
 
-## Site wide alerts
+## Table of Contents
+
+[Data on interactions with sitewide alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#sitewide-alert-data)
+
+[Data on interactions with warning alert boxes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#warning-alert-boxes)
+
+[Event data for _Help for Afghanistan Veterans and families_ promo banner](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#promo-banner-interactions)
+
+[Event data for _COVID-19_ promo banner](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#covid-19-promo-banner)
+
+## Sitewide alert data
 
 - The alert was closed 757,192 times during the data period from various pages across va.gov **and all between November 1, 2021 - March 31, 2022**. 
 - 255,429 (34%) of those times were from the homepage. 
@@ -18,16 +28,10 @@ Of the 488,063 interactions with warning alert boxes appearing sitewide,
 - There were 221,475 interactions (45% of the sitewide total) with "VA facility and status update alerts" containing links to vaccine information, FAQs or the Facility Locator. 82% (181,436) of the interactions occurred on the homepage. 
 - There were 1,014 interactions with the alert containing the Holiday boost campaign.
 
+## Help for Afghanistan Veterans and families promo banner
 
-## Promo banner interactions
-
-[Event data for Help for Afghanistan Veterans and families promo banner](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#promo-banner-interactions)
-
-[Event data for COVID-19 promo banner](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/analytics/banner-and-alert-events.md#covid-19-promo-banner)
-
-### Help for Afghanistan Veterans and families promo banner
-23% of the interactions with the Afghanistan Veterans and families promo banner occurred on the homepage.
-40% from the COVID-19 screening page
+- 23% of the interactions with the Afghanistan Veterans and families promo banner occurred on the homepage.
+- 40% occurred from the COVID-19 screening page. 
 
 | 	Event Action	| 	Page	| 	Total Events	| 	Unique Events | 
 | 	---	|--- |	--:	| 	--:		
@@ -40,7 +44,7 @@ Of the 488,063 interactions with warning alert boxes appearing sitewide,
 | 	Navigation - Promo Banner - announcement - https://blogs.va.gov/VAntage/help-for-afghanistan-veterans-families/ - (not set) - Help for Afghanistan Veterans and families	| 	www.va.gov/find-locations/	| 	4,054	| 	4,054
 | 	Navigation - Promo Banner - announcement - https://blogs.va.gov/VAntage/help-for-afghanistan-veterans-families/ - (not set) - Help for Afghanistan Veterans and families	| 	www.va.gov/contact-us/	| 	3,041	| 	2,534
 
-### COVID-19 promo banner
+## COVID-19 promo banner
 75% of the interactions with the COVID-19 promo banner occurred on the homepage.
 
 | 	Event Action	| 	Page	| 	Total Events	| 	Unique Events
