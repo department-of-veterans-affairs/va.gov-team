@@ -2,6 +2,8 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
+_DRAFT_
+
 Date: 7/15/2022
 
 Christina Gednalske [christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us)
@@ -40,9 +42,11 @@ This topline summary is a high level, top of mind summary of trends found in the
  > “Quote” (P1, P2, P4, P6)
 
 
-**#3: Participants varied on how urgent they considered the alerts. 5/9 considered them very urgent, while 2/9 considered them somewhat urgent. 1 participant considered the alerts optional and not very urgent.** (_NOTE: this question was missed for P5_)
+**#3: Participants varied on how urgent they considered the alerts. 5/9 considered them very urgent, while 2/9 considered them somewhat urgent. 1 participant considered the alerts optional and not very urgent.** 
+
+(_NOTE: this question was missed for P5_)
   
- > “It’s pretty important especially as far as I know there shouldn’t be an issue with my address so I would check it right away” - P7
+ > “It’s pretty important, especially as far as I know there shouldn’t be an issue with my address. So I would check it right away.” - P7
   
  > “Considering I get prescriptions and appointment cards in the mail it is important to me that the contact information for mailing is correct.” - P8
   
@@ -62,9 +66,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - A few participants were able to figure out the instructions, but only after further prompting.
  
- > "There's no click here to verify or confirm" "This tells me to do something with no way to do it" - P9  
+ > "There's no click here to verify or confirm." "This tells me to do something with no way to do it" - P9  
  
- > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update" - P6
+ > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update." - P6
   
 
 **#6: Participants had a positive response to the new observer method used for the study.**
@@ -79,7 +83,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	- For one of these participants, this may have to do with only two observers on the call, one of whom did not say hello. 
 		
-		- **Takeaway:** All observers that join should do their best to participate in saying hello. It proved important that various observers say hello.
+		- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
 
  > “It was kind of awkward.” - P13
 
