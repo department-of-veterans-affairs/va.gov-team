@@ -59,7 +59,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - All participants quickly identified how to correct their information. Some did this without looking at the instructions.
   
- > “Straightforward.” - P3
+ > “Very straightforward.” - P3
+ 
+ > “Self-explanatory.” - P2
 
  > “If my info wasn’t correct, I would click ‘Edit’ and click ‘Update’. If my zip code wasn’t correct, I would put in the new zip code and click ‘Update’. I would hope the alerts would go away.” - P5
   
