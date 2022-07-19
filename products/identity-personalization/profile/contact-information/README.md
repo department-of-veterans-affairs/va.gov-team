@@ -84,8 +84,13 @@ As a user, I want to be able to:
 [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
 ## Frontend
-N/A
+Forms in contact info use the [VA Form Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-form-config-options)
 
 ## Design and UX
 - [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
--[Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/use-cases)
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/use-cases)
+
+### Flow diagrams
+- [High-level add/edit flow with screenshots](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/AjzYMz/a/L0pm5qL/) (includes Address Validation)
+- [Home address updated, mailing address does not match](https://app.mural.co/t/vsa8243/m/vsa8243/1648492872357/ccc5ced279f2062e7336460965ddc8681e6e9722?sender=u28f508d646c449cc1afe4873)
+- Address is marked as “bad” in VA Profile (link to come)
