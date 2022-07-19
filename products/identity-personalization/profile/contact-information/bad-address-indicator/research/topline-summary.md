@@ -28,7 +28,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **#1: 7/10 participants quickly noticed and understood the Personal information page alert.**
 
-  > “Quote” from P3 - Process of updating the address was very straightforward
+  > “That is new. I did notice that and haven’t seen it before.” - P3
   
 
 **#2: 6/10 participants did NOT notice the Contact information page main alert or found the contents unclear.**
@@ -37,9 +37,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  > Quote from participant who sees this everywhere on MyHealtheVet
 
-- 4/10 participants found the wording unclear in the Contact information page main alert and did not understand what “Update” meant in the context of confirming an address. Many conveyed they felt there should be something that directly said “confirm.”
-  
- > “Quote” (P1, P2, P4, P6)
+- 4/10 participants found the wording unclear in the Contact information page main alert and did not understand what “Update” meant in the context of confirming an address. Many conveyed they felt there should be something that directly said “confirm.” (P1, P2, P4, P6)
+
+ > "Why isn’t there a button saying, ‘This address is fine?’." - P5
 
 
 **#3: Participants varied on how urgent they considered the alerts. 5/9 considered them very urgent, while 2/9 considered them somewhat urgent. 1 participant considered the alerts optional and not very urgent.** 
@@ -49,13 +49,15 @@ This topline summary is a high level, top of mind summary of trends found in the
  > “It’s pretty important, especially as far as I know there shouldn’t be an issue with my address. So I would check it right away.” - P7
   
  > “Considering I get prescriptions and appointment cards in the mail it is important to me that the contact information for mailing is correct.” - P8
+ 
+ > “It’s not really important. If it was important, it would be red and bigger.” - P1
   
 
 **#4: Participants understood how to correct an error in their mailing address.**
 
 - All participants quickly identified how to correct their information. Some did this without looking at the instructions.
   
- > “Quote”
+ > “Straight-forward.” - P3
   
 
 **#5: 7/10 Participants had trouble understanding how to confirm their already-correct address.** 
@@ -64,16 +66,25 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  > "There's no click here to verify or confirm." "This tells me to do something with no way to do it." - P9 
 
+ > “There isn’t anything for me to do. There isn’t anywhere I can ‘Confirm’. I wouldn’t click on ‘Edit’ because I don’t have anything to edit.” - P1
+
 - 1 participant thought no action was needed if their mailing address was already correct.
+
+ > “I would guess it’s saying ‘Review your address’ alert will show up only one time I’m visiting this page." "I would log out and go back in to confirm the alert went away.” - P5
 
 - A few participants were able to figure out the instructions for confirming, but only after further prompting. 
  
  > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update." - P6
-  
+
 
 **#6: Participants had a positive response to the new observer method used for the study.**
 
 - All participants felt comfortable with observers and appreciated being asked for consent for additional observers. 
+
+ >  "I would say I appreciated the heads up prior." - P8
+ 
+ >  "I appreciated it, I wouldn’t have cared but it was nice." - P7
+
 - All but 3 participants said they felt more at ease after observers said hello. 
 	- One of these participants conveyed he did not know observers had joined and were waving because he couldn’t see them on mobile. Multiple participants on mobile said they could not see other observers, and therefore if observers did not say an audible hello, did not know they were there. 
 		- **Takeaway:** for this method, it's important that observers say audible hellos in case participants cannot see observers. 
