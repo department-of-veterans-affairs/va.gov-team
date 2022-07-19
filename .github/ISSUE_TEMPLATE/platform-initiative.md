@@ -31,7 +31,7 @@ assignees: ''
 
 _This checklist is intended to be used to help answer, "is my Platform initiative ready for launch?". All of the items in this checklist should be completed, with artifacts linked---or have a brief explanation of why they've been skipped---before launching a given Platforminitiative. All links or explanations can be provided in **Required Artifacts** sections. The items that can be skipped are marked as such._
 
-_Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product.  [VSP Product Terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-terminology.md) for details._
+_Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product.  [VSP Product Terminology](https://vfs.atlassian.net/wiki/spaces/PMCP/pages/1912569976/Platform+Product+terminology?atlOrigin=eyJpIjoiM2VmNzY2MTZkZWE4NGY2NmJmNjk2YWIwMmJhMGZiZmYiLCJwIjoiY29uZmx1ZW5jZS1jaGF0cy1pbnQifQ) for details._
 
 ### Is this service / tool / feature...
 
