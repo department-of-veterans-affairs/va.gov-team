@@ -8,11 +8,10 @@ Date: 7/15/2022
 
 Christina Gednalske [christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us)
 
-[Research plan](link)
-
-[Conversation guide](link)
-
-[Interview transcripts](link)
+**Research Materials:**
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/conversation-guide.md)
+- Interview transcripts- in progress
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
