@@ -2,8 +2,6 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
-_DRAFT_
-
 Date: 7/15/2022
 
 Christina Gednalske [christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us)
