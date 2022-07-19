@@ -11,7 +11,7 @@ If a user updates their Home address and it does not match their Mailing address
 ## UX
 - Uses the [modal](link) from the VA design system
 - Address change modal is triggered only when an update is made to the home address, and the update does not match the mailing address.
-- When the modal appears, the updated home address update has already been saved to the profile.
+- When the modal appears, the updated home address has already been saved to the profile.
 - The modal will either appear:
 	-  After address validation has run and the user has confirmed the address via a suggested address OR 
 	- After validation has run and no address suggestions were provided/needed OR
