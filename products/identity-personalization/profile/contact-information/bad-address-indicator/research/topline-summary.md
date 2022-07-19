@@ -26,27 +26,28 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/76a6ae2738fa2c58743c07b39c84b9899d14ca2e/products/identity-personalization/profile/personal-information/personal-information-revision/research/topline-summary.md#initial-findings)Initial Findings
 
-**#1: 7/10 participants quickly noticed and understood the Personal information page alert.**
+### #1: 7/10 participants quickly noticed and understood the Personal information page alert.
 
-  > “That is new. I did notice that and haven’t seen it before.” - P3
+   > “That is new. I did notice that and haven’t seen it before.” - P3
   
 
-**#2: 6/10 participants did NOT notice the Contact information page main alert or found the contents unclear.**
+### #2: 6/10 participants did NOT notice the Contact information page main alert or found the contents unclear.
 
-- Some participants do not seem to notice or read the second alert, with a few stating the second alert was the same as the first one. However, some of the participants who did not read the second alert still completed the tasks quickly. Participants who read the alert often did not fully read the contents, reading only the first part and then jumping to the last part ("..select Update to confirm.").
+- Some participants do not seem to notice or read the second alert, with a few stating the second alert was the same as the first one. Participants who read the alert often did not fully read the contents, reading only the first part and then jumping to the last part ("..select Update to confirm.").
 
- > "With all of the other pages with banners like this for Covid and flood warnings never apply to me so I just don’t look at these." - P9
+ > "With all of the other pages with banners like this for Covid and flood warnings never apply to me so I just don’t look at these." - P9, referring to MyHealtheVet pages as well as va.gov
 
-- 4/10 participants found the wording unclear in the Contact information page main alert and did not understand what “Update” meant in the context of confirming an address. Many conveyed they felt there should be something that directly said “confirm.” (P1, P2, P4, P6)
+- 4/10 participants found the wording unclear in the Contact information page main alert and did not understand what “Update” meant in the context of confirming an address. Many conveyed they felt there should be something that directly said “confirm.”
 
  > "Why isn’t there a button saying, ‘This address is fine?’." - P5
 
  > "There's no confirm button and edit tells me to change it." - P9
 
 
-**#3: Participants varied on how urgent they considered the alerts. 5/9 considered them very urgent, while 2/9 considered them somewhat urgent. 1 participant considered the alerts optional and not very urgent.** 
+### #3: The majority of participants considered the alerts urgent. 
 
-(_NOTE: this question was missed for P5_)
+- 5/9 considered the alerts urgent, while 2/9 considered them somewhat urgent. 1 participant considered the alerts optional and not very urgent. 
+- _**Note**: this question was missed for P5_
   
  > “It’s pretty important, especially as far as I know there shouldn’t be an issue with my address. So I would check it right away.” - P7
   
@@ -55,14 +56,14 @@ This topline summary is a high level, top of mind summary of trends found in the
  > “It’s not really important. If it was important, it would be red and bigger.” - P1
   
 
-**#4: Participants understood how to correct an error in their mailing address.**
+### #4: Participants understood how to correct an error in their mailing address.
 
 - All participants quickly identified how to correct their information. Some did this without looking at the instructions.
   
  > “Straight-forward.” - P3
   
 
-**#5: 7/10 Participants had trouble understanding how to confirm their already-correct address.** 
+### #5: Most participants (7/10) had trouble understanding how to confirm an already-correct address.
 
 - 5/10 Veterans said they would ignore the alerts and not do anything if they couldn’t figure out how to confirm that their address was correct.
 
@@ -79,7 +80,7 @@ This topline summary is a high level, top of mind summary of trends found in the
  > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update." - P6
 
 
-**#6: Participants had a positive response to the new observer method used for the study.**
+### #6: Participants had a positive response to the new observer method used for the study.
 
 - All participants felt comfortable with observers and appreciated being asked for consent for additional observers. 
  
