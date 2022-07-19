@@ -1,6 +1,18 @@
 # Project outline: Address validation
 
-Last Updated December 7, 2020
+Last Updated July 19, 2022
+
+## Table of Contents
+- [POCs](#pocs)
+- [Overview](#overview)
+- [User Problem Statement](#user-problem-statement)
+- [Analytics](#analytics)
+- [Status](#status)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+- [Service Level Objective](#service-level-objective)
+- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Design](#design-and-use-cases)
 
 ## POCs
 
@@ -23,18 +35,6 @@ These are the folks that were responsible for the original work in 2019/2020:
 |Amy Rosenthal| Technical Analyst|Amy.Rosenthal@va.gov  |
 |Christine Donovan| VA Profile contact/ OIT PM |  Christine.Donovan@va.gov |
 |Mike Richards | VA Profile contact | michael.richard2@va.gov |
-
-### Table of Contents
-
-- [Overview](#overview)
-- [User Problem Statement](#user-problem-statement)
-- [Measuring success](#measuring-success)
-- [Status](#status)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
-- [Design](#design)
 
 ## Overview
 
@@ -59,8 +59,7 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 - As a veteran, I want to be able to override the determination that my address might not be valid if I know my address to be correct (example: moved to a new neighborhood that's not yet on the map).
 
 
-## Measuring success
-
+## Analytics
 - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [GA dashboard for address validation](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
 
@@ -84,11 +83,12 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 ## How to Access and Test
 
 
-[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
+[Read use case for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#how-to-reproduce)
 
 ## Error Handling
 
-[List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
+- [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-error-codes.md)
+- [Error code matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/error-code-matrix.md)
 
 
 ## Service Level Objective
@@ -103,6 +103,8 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 
 Candidate Address Validation uses the VA profile address validation API (https://api.va.gov/services/address_validation/v2/) to get address suggestions and override keys. Override keys are sent to the VA profile contact information API (https://www.vet360.va.gov/person-mdm-cuf-person-hub/cuf/person/contact-information/v1/addresses) in order to update the user's address.
 
-## Design 
+## Design and use cases
 
-[Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Use case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
+- [User flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/AjzYMz/a/L0pm5qL/)
