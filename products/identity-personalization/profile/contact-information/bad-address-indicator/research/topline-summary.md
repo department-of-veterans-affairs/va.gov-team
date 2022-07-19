@@ -61,10 +61,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 **#5: 7/10 Veterans had trouble understanding how to confirm their already-correct address.** 
 
 - 5/10 Veterans said they would ignore the alerts and not do anything if they couldn’t figure out how to confirm that their address was correct.
-- 1 participant thought no action was needed if it was already correct.
-- A few participants were able to figure out the instructions, but only after further prompting.
- 
- > "There's no click here to verify or confirm." "This tells me to do something with no way to do it" - P9  
+
+ > "There's no click here to verify or confirm." "This tells me to do something with no way to do it." - P9 
+
+- 1 participant thought no action was needed if their mailing address was already correct.
+
+- A few participants were able to figure out the instructions for confirming, but only after further prompting. 
  
  > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update." - P6
   
