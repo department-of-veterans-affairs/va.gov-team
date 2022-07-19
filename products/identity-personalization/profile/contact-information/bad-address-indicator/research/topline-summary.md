@@ -70,7 +70,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  > “There isn’t anything for me to do. There isn’t anywhere I can ‘Confirm’. I wouldn’t click on ‘Edit’ because I don’t have anything to edit.” - P1
 
-- 2 participants thought no updating was needed on the page if their mailing address was already correct.
+- 2 participants thought no updates were needed on the page if their mailing address was already correct.
 
  > “I would guess it’s saying ‘Review your address’ alert will show up only one time I’m visiting this page." "I would log out and go back in to confirm the alert went away.” - P5
 
