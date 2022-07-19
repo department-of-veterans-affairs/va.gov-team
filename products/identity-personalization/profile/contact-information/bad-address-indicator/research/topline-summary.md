@@ -74,7 +74,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  > “I would guess it’s saying ‘Review your address’ alert will show up only one time I’m visiting this page." "I would log out and go back in to confirm the alert went away.” - P5
 
- > "Hitting cancel is fulling my obligation to the page." -P4
+ > "Hitting cancel is fulfilling my obligation to the page." -P4
 
 - A few of these participants were able to figure out how to confirm, but only after further prompting. 
  
