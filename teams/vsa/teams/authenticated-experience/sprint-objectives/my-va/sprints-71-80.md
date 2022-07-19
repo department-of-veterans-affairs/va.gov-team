@@ -461,5 +461,47 @@ Our main objective this sprint is to make sure the feature is working. If it is,
 - Samara: Aug 1 - 5
 - Liz: Jul 27 - 29
 
+### On-site notifications
+
+**PM**
+
+- Release plan
+- Make sure we know where we are tracking analytics for launch (it looks like we already did the analytics request a while ago)
+
+**QA**
+
+- Run QA and document bugs
+
+**Design & FE**
+
+- If needed, updates coming out of QA
+
+### My VA redirect
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+- Release plan
+
+**Design - Liz**
+
+- Conduct sessions
+- Start research write-up (does not need a topline summary unless Liz wants to do one)
+
 ## Sprint 80 (8/10 - 8/23)
 [Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
+
+### My VA redirect
+
+**PM**
+
+We can move on to these if there are no issues in the usability testing/UAT sessions that cause us to reevaluate our strategy.
+
+- Staging review
+- Privacy review
+- Launch go/no-go (stretch goal; assumes no issues out of the staging review)
+
+**Design - Liz**
+
+- Finish research write-up
