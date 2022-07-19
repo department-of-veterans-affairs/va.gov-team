@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 7/19/2022
-- Updated content to use semantic lists or divs instead of dl, dt, and dd HTML elements. Should resolve issues with screenreaders reading "definition" repeatedly when accessing the content in these lists.
+- Updated content to use semantic lists or divs instead of dl, dt, and dd HTML elements. Should resolve acceessibility issues with screen readers reading "definition" repeatedly when accessing the content in these lists.
     - [Ticket 44145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44145)
 
 ### 7/16/2022
