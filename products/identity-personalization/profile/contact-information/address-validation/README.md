@@ -49,7 +49,7 @@ Currently, this functionality does the following:
 
 ## User Problem Statement
 
-As a Veteran, I want to be able to update my address of VA.gov. If that address may not be recognized by the postal service, I want suggestions to know what I should save. I also want to be override determinations that my address is problematic in the event I know my address to be correct.
+As a Veteran, I want to be able to update my address on VA.gov. If that address may not be recognized by the postal service, I want suggestions to know what I should save. I also want to be override determinations that my address is problematic in the event I know my address to be correct.
 
 ### User Goals
 
