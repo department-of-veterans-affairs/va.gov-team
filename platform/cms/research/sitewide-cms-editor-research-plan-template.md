@@ -3,9 +3,7 @@
 Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and add a link in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
+Briefly describe the background of your editorial experience initiative. 
 
 ### OCTO Objectives 
 
@@ -14,8 +12,6 @@ Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov
 
 ## Research Goals	
 What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
