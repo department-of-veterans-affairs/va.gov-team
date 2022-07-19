@@ -1,4 +1,4 @@
-# Bad Address Indicator Usability Study Topline Summary
+# Bad Address Indicator Topline Summary
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
