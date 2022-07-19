@@ -97,7 +97,7 @@ As a Veteran, I want to be able to update my address on VA.gov. If that address 
 
 ## API Calls and Dependent Systems
 
-Candidate Address Validation uses the VA profile address validation API (https://api.va.gov/services/address_validation/v2/) to get address suggestions and override keys. Override keys are sent to the VA profile contact information API (https://www.vet360.va.gov/person-mdm-cuf-person-hub/cuf/person/contact-information/v1/addresses) in order to update the user's address.
+Candidate Address Validation uses the [VA profile address validation API](https://api.va.gov/services/address_validation/v2/) to get address suggestions and override keys. Override keys are sent to the [VA profile contact information API](https://www.vet360.va.gov/person-mdm-cuf-person-hub/cuf/person/contact-information/v1/addresses) in order to update the user's address.
 
 ## Design and use cases
 
