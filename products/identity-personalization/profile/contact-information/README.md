@@ -1,5 +1,5 @@
 # Contact Information Product Outline
-Last Updated July 14, 2022
+Last Updated July 19, 2022
      
 ## Table of Contents
 
@@ -81,16 +81,11 @@ As a user, I want to be able to:
 - Confirmation emails for when people update contact information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
 
 ### Error Handling
-- [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/profile-error-codes.md)
-- [Address save failure errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
+[List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
 ## Frontend
-- Need frontend documentation for updating mailing and home address
-- Need frontend documentation for address validation
-- [Frontend documentation: Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/frontend/fe-documentation.md)
+N/A
 
 ## Design and UX
 - [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
-- Need use case documentation for updating mailing and home address
-- Need use case documentation for address validation
-- [Use cases: Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/use-cases/README.md)
+-[Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/use-cases)
