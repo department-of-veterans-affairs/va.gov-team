@@ -35,11 +35,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - Some participants do not seem to notice or read the second alert, with a few stating the second alert was the same as the first one. However, some of the participants who did not read the second alert still completed the tasks quickly. Participants who read the alert often did not fully read the contents, reading only the first part and then jumping to the last part ("..select Update to confirm.").
 
- > Quote from participant who sees this everywhere on MyHealtheVet
+ > "With all of the other pages with banners like this for Covid and flood warnings never apply to me so I just don’t look at these." - P9
 
 - 4/10 participants found the wording unclear in the Contact information page main alert and did not understand what “Update” meant in the context of confirming an address. Many conveyed they felt there should be something that directly said “confirm.” (P1, P2, P4, P6)
 
  > "Why isn’t there a button saying, ‘This address is fine?’." - P5
+
+ > "There's no confirm button and edit tells me to change it." - P9
 
 
 **#3: Participants varied on how urgent they considered the alerts. 5/9 considered them very urgent, while 2/9 considered them somewhat urgent. 1 participant considered the alerts optional and not very urgent.** 
@@ -64,7 +66,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - 5/10 Veterans said they would ignore the alerts and not do anything if they couldn’t figure out how to confirm that their address was correct.
 
- > "There's no click here to verify or confirm." "This tells me to do something with no way to do it." - P9 
+ > "I wouldn’t do anything I would skip it. I would assume people don’t know what they are doing. It tells me to review but not telling me how to." "Then I would scroll on down to make sure it is good. I wouldn’t do anything because there's no way to confirm it." - P9 
 
  > “There isn’t anything for me to do. There isn’t anywhere I can ‘Confirm’. I wouldn’t click on ‘Edit’ because I don’t have anything to edit.” - P1
 
@@ -72,7 +74,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  > “I would guess it’s saying ‘Review your address’ alert will show up only one time I’m visiting this page." "I would log out and go back in to confirm the alert went away.” - P5
 
-- A few participants were able to figure out the instructions for confirming, but only after further prompting. 
+- A few of these participants were able to figure out the instructions for confirming, but only after further prompting. 
  
  > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update." - P6
 
@@ -80,8 +82,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 **#6: Participants had a positive response to the new observer method used for the study.**
 
 - All participants felt comfortable with observers and appreciated being asked for consent for additional observers. 
-
- >  "I would say I appreciated the heads up prior." - P8
  
  >  "I appreciated it, I wouldn’t have cared but it was nice." - P7
 
@@ -91,7 +91,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 	- For one of these participants, this may have to do with only two observers on the call, one of whom did not say hello. 
 		- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
 
+ > "More at ease since I could see it was one person and not a whole boardroom." - P9
+ 
  > “I wasn’t on the page that even showed them. I had me full screen and I had you as a thumbnail. That may have been on a secondary page in Zoom to see like a group meeting sort of thing, but I only saw you and me only because I was in that mode.” - P6
 
-> “It was kind of awkward.” - P13
+ > “It was kind of awkward.” - P13
 
