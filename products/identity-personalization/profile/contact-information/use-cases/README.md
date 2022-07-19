@@ -23,7 +23,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [Address is missing a unit number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#address-is-missing-a-unit-number)
 
 ### System
-- Something has gone wrong and VA.gov can't display any contact information
+- [Something has gone wrong and VA.gov can’t display any contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/system-cant-display-contact-info.md)
 - [High incidences of address save failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
 
 ## Flow diagrams
