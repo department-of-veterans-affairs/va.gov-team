@@ -99,7 +99,7 @@ This usability study was conducted remotely via Zoom. Participants either logged
 	- *Likely True.* All but one participant thought of copays as a type of debt, he stated "Defining it as copay causes me to not consider it debt."
 
 3. Participants may want more real-time transaction data regarding their debts and bills  
-	- *Not enough information.* Not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
+	- *Not enough information.* Because of few login issues and a lack of participants with current bills, not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
 
 Another participant noted that the information he's received is not always updated in a timely matter:
 	
@@ -266,7 +266,7 @@ While on the status page, one participant commented on how it appeared as if the
 
 * Look into ways of consolidating pages and surfacing important statement data and pay link sooner
 
-* Look into ways to make 'View my other VA debts' link more prominent and consider using the term "Copays" instead of "Your other VA bills" when linking to the copay page.
+* Look into ways to make 'View my other VA debts' link more prominent and consider using the term "Copays" instead of "Your other VA bills" when linking to the copay page
 
 * Eliminate `&nbsp;` characters on the copay statement page
   
