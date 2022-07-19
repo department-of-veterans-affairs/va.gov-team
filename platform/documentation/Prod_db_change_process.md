@@ -2,7 +2,7 @@
 
 To-do to complete this document:
 
-[ ] Create prod rake task folder, add operations as codeowners to require their approval for any additions
+[ ] Create prod rake task folder, add console services as codeowners to require their approval for any additions
 
 [ ] Obtain review from platform security and platform leadership
 
@@ -15,7 +15,7 @@ This process document intends to outline the steps to be taken in order to obtai
 - Any script based modifications which need to be made to the postgres server MUST be written as rake tasks to ensure that any unique rails data handling is correctly utilized when making changes to the data that rails interacts with.
 - Team must have a devops engineer on the team with Prod SSM Vets-API Server access
     - If this isn’t possible it is suggested to coordinate with Platform leadership in order to obtain assistance with running the rake task in production.
-- PR for rake task is approved by requesting teams engineering lead AND someone from the Operations team
+- PR for rake task is approved by requesting teams engineering lead AND someone from the Console Services team
 - All required documents are included in the PR prior to approval, approving authority confirms all documents (except prod change proof) are within the PR.
 - Rake task created within the vets-api repo in the production rake task folder (+add link) as a PR
 - In the Rake Task PR:
