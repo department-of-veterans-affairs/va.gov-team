@@ -61,9 +61,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 **#5: 7/10 Veterans had trouble understanding how to confirm their already-correct address.** 
 
 - 5/10 Veterans said they would ignore the alerts and not do anything if they couldn’t figure out how to confirm that their address was correct.
-
 - 1 participant thought no action was needed if it was already correct.
-
 - A few participants were able to figure out the instructions, but only after further prompting.
  
  > "There's no click here to verify or confirm." "This tells me to do something with no way to do it" - P9  
@@ -74,20 +72,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 **#6: Participants had a positive response to the new observer method used for the study.**
 
 - All participants felt comfortable with observers and appreciated being asked for consent for additional observers. 
-
 - All but 3 participants said they felt more at ease after observers said hello. 
-	
 	- One of these participants conveyed he did not know observers had joined and were waving because he couldn’t see them on mobile. Multiple participants on mobile said they could not see other observers, and therefore if observers did not say an audible hello, did not know they were there. 
-		
 		- **Takeaway:** for this method, it's important that observers say audible hellos in case participants cannot see observers. 
-
 	- For one of these participants, this may have to do with only two observers on the call, one of whom did not say hello. 
-		
 		- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
-
- > “It was kind of awkward.” - P13
 
  > “I wasn’t on the page that even showed them. I had me full screen and I had you as a thumbnail. That may have been on a secondary page in Zoom to see like a group meeting sort of thing, but I only saw you and me only because I was in that mode.” - P6
 
-
+> “It was kind of awkward.” - P13
 
