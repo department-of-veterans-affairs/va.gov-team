@@ -59,7 +59,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - All participants quickly identified how to correct their information. Some did this without looking at the instructions.
   
- > “Straight-forward.” - P3
+ > “Straightforward.” - P3
+
+ > “If my info wasn’t correct, I would click ‘Edit’ and click ‘Update’. If my zip code wasn’t correct, I would put in the new zip code and click ‘Update’. I would hope the alerts would go away.” - P5
   
 
 ### #5: Most participants (7/10) had trouble understanding how to confirm an already-correct address.
