@@ -6,7 +6,8 @@ This project transitioned teams in April 2022. It is currently managed by Facili
 
 ## Facilities Team v.2
 ### Research & Design 
-- [Research & Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7622)
+- [UI Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9842)
+- [Content Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7622)
 
 #### Technical Feasibility | April 2022
 - [Technical feasibility](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7626)
