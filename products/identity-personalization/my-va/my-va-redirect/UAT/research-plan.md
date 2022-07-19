@@ -47,11 +47,6 @@ Please recruit 14 participants for 7 completed sessions.
 #### Primary criteria (must-haves)
 
 ##### All participants
-- must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
-	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
-	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
-	- If they can see any sections in profile **other than Account Security**, they are LOA3 and can participate in testing.
-
 - Must be able to screenshare via Zoom.  Prior to the session, please confirm:
 	- They're comfortable sharing their screen after they've logged into VA.gov.  Financial information will be viewable to the moderator and any observers.
 	- They have Zoom downloaded prior to the session and they know how to screenshare. 
@@ -61,6 +56,18 @@ Please recruit 14 participants for 7 completed sessions.
 - Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the redirect in production.
 
 ##### Participant groups
+ - 10 must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
+	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
+	- If they are prompted to verify their identity, that means they are LOA1 and they do not meet the criteria for this group.	
+	- If they can see any sections in profile **other than Account Security**, they are LOA3 and meet the criteria for this group.
+	- 	**Qualifier:** When you log into VA.gov and visit the user profile, do you see a prompt to verify your identity? Please do not make changes to your account for the purposes of this research. **Answer should be no to qualify.**
+
+ - 4 must be LOA1 (NOT identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
+	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
+	- If they are prompted to verify their identity, that means they are LOA1 and meet the criteria for this group.
+	- If they can see any sections in profile **other than Account Security**, they are LOA3 and do not meet the criteria for this group.
+	- **Qualifier:** When you log into VA.gov and visit the user profile, do you see a prompt to verify your identity? Please do not make changes to your account for the purposes of this research. **Answer should be yes to qualify.**
+
 - 5 participants should be able to join the session using My HealtheVet log in credential
 	- **Qualifier:** Do you have a My HealtheVet account you can login with to access VA.gov? **Answer should be yes to qualify.**
 - 5 participants should be able to join the session using DS Logon
