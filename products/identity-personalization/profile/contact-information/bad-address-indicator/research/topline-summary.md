@@ -51,14 +51,14 @@ This topline summary is a high level, top of mind summary of trends found in the
  > “Considering I get prescriptions and appointment cards in the mail it is important to me that the contact information for mailing is correct.” - P8
   
 
-**#4: Veterans understood how to correct an error in their mailing address.**
+**#4: Participants understood how to correct an error in their mailing address.**
 
 - All participants quickly identified how to correct their information. Some did this without looking at the instructions.
   
  > “Quote”
   
 
-**#5: 7/10 Veterans had trouble understanding how to confirm their already-correct address.** 
+**#5: 7/10 Participants had trouble understanding how to confirm their already-correct address.** 
 
 - 5/10 Veterans said they would ignore the alerts and not do anything if they couldn’t figure out how to confirm that their address was correct.
 
