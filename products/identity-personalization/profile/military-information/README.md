@@ -52,6 +52,8 @@ Need link to GET/POST data in Google Analytics.
 
 Military currently integrates through [eMIS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html) but will soon be moving to [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
+Backend documentation can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md).
+
 ## Design 
 
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775).
