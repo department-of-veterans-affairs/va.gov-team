@@ -6,6 +6,7 @@
 ### Planning:
 - **UAT Go/No go:** 
      - Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/redirect-UAT-go-no-go-checklist.md)
+     - [#44639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44639)
 - **Desired date range or test duration:**
      - Week of 08/01/22 - 08/04/22
 - **Desired number of users:** 
@@ -39,9 +40,9 @@
 **Desired date range:** mm/dd/yyyy - mm/dd/yyyy
 
 **Phased rollout:** 
-- 25% of users (1 week), Dates: week of mm/dd (link ticket)
-- 50% of users (1 week), Dates: week of mm/dd (link ticket)
-- If all goes well, then go to 100% of users: week of mm/dd (link ticket)
+- 25% of users (1 week), Dates: week of mm/dd [(#42876)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876)
+- 50% of users (1 week), Dates: week of mm/dd [(#42880)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880)
+- 100% of users: week of mm/dd [(#42881)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 _Link to analytics_
