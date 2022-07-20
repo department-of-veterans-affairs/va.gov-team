@@ -1,14 +1,15 @@
 # Prod DB Migration Approval Process
 
+# Prod DB Migration Approval Process
+
 To-do to complete this document:
 
-[ ] Create prod rake task folder, add console services as codeowners to require their approval for any additions
-
-[ ] Obtain review from platform security and platform leadership
+- [ ]  Create prod rake task folder, add console services as codeowners to require their approval for any additions
+- [ ]  Obtain review from platform security and platform leadership
 
 ## Purpose:
 
-This process document intends to outline the steps to be taken in order to obtain approval and subsequently run a rake task against the production database. 
+This process document intends to outline the steps to be taken in order to obtain approval and subsequently run a rake task against the production database.
 
 ## Requirements:
 
@@ -18,6 +19,9 @@ This process document intends to outline the steps to be taken in order to obtai
 - PR for rake task is approved by requesting teams engineering lead AND someone from the Console Services team
 - All required documents are included in the PR prior to approval, approving authority confirms all documents (except prod change proof) are within the PR.
 - Rake task created within the vets-api repo in the production rake task folder (+add link) as a PR
+- Ensure your rake task is Idempotent and transactional
+    - Idempotent: Ensure we are able to run them over and over again and get to the same end state
+    - Transactional: If it fails, the transaction is rolled back and no damage is done
 - In the Rake Task PR:
     - Must answer the following in PR:
         - What could happen if this script does not go as expected?
