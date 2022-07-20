@@ -4,8 +4,8 @@
 
 To-do to complete this document:
 
-- [ ]  Create prod rake task folder, add console services as codeowners to require their approval for any additions
-- [ ]  Obtain review from platform security and platform leadership
+- [x]  Create prod rake task folder, add console services as codeowners to require their approval for any additions
+- [x]  Obtain review from platform security and platform leadership
 
 ## Purpose:
 
