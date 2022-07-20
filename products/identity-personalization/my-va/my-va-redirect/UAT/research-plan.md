@@ -3,7 +3,7 @@
 ## Background
 To improve personalization and access to action items, we’re implementing a redirect so users are redirected to My VA when they log in from the homepage.  
 
-If they log in from any other page, they will not be redirected from My VA.
+If they log in from any other page, they will not be redirected to My VA.
 
 See our [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/README.md) for more details.
 
