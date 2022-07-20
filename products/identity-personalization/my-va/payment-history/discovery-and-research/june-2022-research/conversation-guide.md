@@ -172,10 +172,14 @@ Okay, let's click once and we'll take a look at the content of these sections.
 2. Is this something you would want to see as soon as you log in to VA, or something you might search out once in a while?
 3. If you could change one thing about the section we just looked at together, what would it be?
 
-## Thank-You and Closing - 3 minutes
+## Thank-You and Closing - 2 minutes
 
-That's everything I wanted to get your feedback on, thank you so much! This has been really helpful for our team. Do you have any questions or last thoughts for me before we end the session?
+Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Do you have any questions or last thoughts for me before we end the session?
 
-Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+- Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
+- _wait for observers to leave_
+- Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
+- Sometimes we have the additional observers already in the session when you join, instead of how we did it today. When I asked you for consent before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
+- Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
 
-I hope you enjoy the rest of your day!
+Great, thank you for your feedback and thank you so much again for joining us today. We really appreciate it.
