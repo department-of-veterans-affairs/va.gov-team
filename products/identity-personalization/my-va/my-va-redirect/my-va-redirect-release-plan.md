@@ -5,7 +5,7 @@
 
 ### Planning:
 - **UAT Go/No go:** 
-- Link to readiness checklist (link tk)
+     - Link to readiness checklist (link tk)
 - **Desired date range or test duration:**
      - Week of 08/01/22 - 08/04/22
 - **Desired number of users:** 
