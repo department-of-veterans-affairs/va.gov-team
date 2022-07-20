@@ -558,24 +558,35 @@ Liz: Jul 22 - 29
 ### PTO
 
 - Samara: Aug 1 - 5
-- Liz: Jul 27 - 29 (this might no longer be accurate)
 - Christina: Jul 28 - 29
+- Liz: Largely supporting My VA team this sprint
 
 ### Personal information revisions
 
-- Fully document the feature
-  - This will likely be lead by Christina, but Adam and Tom can support this as well
+Fully document the feature.
+
+**Design - Christina**
+
+- Create use case and other design documentation
   - Seeing Liz's examples for Direct deposit and Contact info should be helpful 
+
+**FE - Adam**
+
+- Create any relevant frontend docs for personal info
+
+**BE - Tom**
+
+- Create BE documentation for personal info
 
 ### Military information
 
 This assumes the VA Profile ICD is updated and we are given access permissions in prod. **Please do not launch this feature until I'm back from vacation**.
 
-**PM**
+**PM - Sharon**
 
 - Complete internal UAT with real veterans
 
-**BE**
+**BE - Tom**
 
 - Support internal UAT
 
@@ -585,19 +596,19 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 
 ### Bad address indicator
 
-**PM**
+**PM - Sharon**
 
 - Release plan
 - Analytics is already complete, yes? If not, complete any analytics tasks.
 
-**Design**
+**Design - Christina**
 
 - Updates coming out of research
 - Document and ticket updates so Adam can implement them next sprint
 
 ### Forms system updates
 
-**FE**
+**FE - Adam**
 
 - Continued work
 
@@ -619,21 +630,21 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 
 ### Bad address indicator
 
-**PM**
+**PM - Sharon**
 
 - Request QA
 - Contact center guide updates
 
-**Design**
+**Design - Christina**
 
 - Contact center guide updates
 -
-**FE**
+**FE - Adam**
 
 - Implement changes from research
 
 ### Forms system updates
 
-**FE**
+**FE - Adam**
 
 - Continued work
