@@ -59,19 +59,19 @@ Now I'm going to ask you to open a prototype from a link I'll post in the chat a
 
 We will be looking at a prototype as a fictional logged in user, so the content may not apply directly to you, but I'd like to hear your thoughts on a scenario where we'll imagine that they do. We'll be looking at a prototype of My VA and talking about specific sections.
 
-So looking at just what you can see now without scrolling, what's jumping out to you?
-*(If they don't mention notifications)* Did you notice the "notifications" section here?
-Now taking a look at this notifications section, is everything visible to you and easy to read?
-Why do you think you might come to see a notification like this?
-What would you do next after having seen this notification?
-What would you do if you wanted more information about this debt?
-Let's say you clicked on Manage your VA debt, went and paid the debt that you had, and you came back to this page (My VA) and this notification was still here. What would you think about that and what would you do?
+- So looking at just what you can see now without scrolling, what's jumping out to you?
+- *(If they don't mention notifications)* Did you notice the "notifications" section here?
+- Now taking a look at this notifications section, is everything visible to you? Is anything hard to read or decipher?
+- Why do you think you might come to see a notification like this?
+- What would you do next after having seen this notification?
+- What would you do if you wanted more information about this debt?
+- Let's say you clicked on Manage your VA debt, went and paid the debt that you had, and you came back to this page (My VA) and this notification was still here. What would you think about that and what would you do?
 
-Okay, now let's scroll down to the Outstanding Debts and Benefit Payments sections. Before we reveal the content of these sections, can you tell me what type of things you think you'd see here just based on the titles?
+- Okay, now let's scroll down to the Outstanding Debts and Benefit Payments sections. Before we reveal the content of these sections, can you tell me what type of things you think you'd see here just based on the titles?
 
-What do you think "outstanding debts" refers to here? What about "benefit payments"?
+- What do you think "outstanding debts" refers to here? What about "benefit payments"?
 
-Okay, let's click once and we'll take a look at the content of these sections.
+- Okay, let's click once and we'll take a look at the content of these sections.
 
 - Reveal the content of the section by clicking anywhere on the page
 
