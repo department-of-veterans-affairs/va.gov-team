@@ -47,8 +47,7 @@ Before we look at the website, I'd like to get a little background information f
 
 5. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
   
-
-## First Task: Determine if the title of this section accurately conveys the content. - 3 minutes
+## First Task: Determine if the redesigned notification style is clear and actionable. - 5 minutes
 
 **Task goal: Get feedback on the titles of the sections, whether they are clear what the content will be, and whether the titles resonate with terminology Veterans are familiar with.**
 
@@ -67,6 +66,8 @@ We will be looking at a prototype as a fictional logged in user, so the content 
 - What would you do if you wanted more information about this debt?
 - Let's say you clicked on Manage your VA debt, went and paid the debt that you had, and you came back to this page (My VA) and this notification was still here. What would you think about that and what would you do?
 
+## Second Task: Determine if the title of this section accurately conveys the content. - 3 minutes
+
 - Okay, now let's scroll down to the Outstanding Debts and Benefit Payments sections. Before we reveal the content of these sections, can you tell me what type of things you think you'd see here just based on the titles?
 
 - What do you think "outstanding debts" refers to here? What about "benefit payments"?
@@ -81,7 +82,7 @@ We will be looking at a prototype as a fictional logged in user, so the content 
 - Do users understand that payments will be paid to them, or do they think they are paid to the VA?
 - Are there any negative reactions to the titles?
 
-## Second Task: Review and get feedback on details for debts - 8 minutes
+## Third Task: Review and get feedback on details for debts - 8 minutes
 
 **Task goal: Validate that the details displayed are the most important pieces of information for debts**.
 
@@ -117,7 +118,7 @@ We will be looking at a prototype as a fictional logged in user, so the content 
 - Is there any important information missing in this section?
 - Do colorblind users struggle to see or interpret the dark red text?
 
-## Third Task: Discuss action items in bills section - 5 minutes
+## Fourth Task: Discuss action items in bills section - 5 minutes
 
 **Task goal: Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
 
@@ -136,7 +137,7 @@ We will be looking at a prototype as a fictional logged in user, so the content 
 - Are the two different action links for managing VA debt and VA bills confusing or preferred?
 - Is the action link standing out enough?
 
-## Fourth Task: Discuss details in the payments section - 5 minutes
+## Fifth Task: Discuss details in the payments section - 5 minutes
 
 **Task goal: Validate that the most important pieces of payment information are being presented on My VA.**
 
