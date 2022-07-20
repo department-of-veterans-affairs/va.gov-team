@@ -123,7 +123,7 @@
 - Notification of production releases
     - Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here. (include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md))
 - Notify the following people via Slack and email
-    -   [check-in-release-planning](https://dsva.slack.com/archives/C022AC2STBM) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
+    -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
     -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
 
 
