@@ -34,8 +34,8 @@
 ### Planning
 **Launch Go/No-go:** 
 - Completed mm/dd/yyyy
-- Launch go/no-go ticket
-- Readiness checklist (link tk)
+- Launch go/no-go ticket: [#44648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44648)
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/launch-materials/my-va-redirect-launch-go-no-go-checklist.md)
 
 **Desired date range:** mm/dd/yyyy - mm/dd/yyyy
 
