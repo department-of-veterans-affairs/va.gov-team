@@ -4,9 +4,6 @@
 
 ---
 
-**Samara: Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/my-va-redirect-release-plan.md) complete and ready to execute against?**
-- Answer: 
-
 **Liz: Are the research plan and conversation guide for UAT complete?**
 - Answer: 
 
