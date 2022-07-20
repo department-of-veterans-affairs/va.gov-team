@@ -2,11 +2,6 @@
 
 # Prod DB Migration Approval Process
 
-To-do to complete this document:
-
-- [x]  Create prod rake task folder, add console services as codeowners to require their approval for any additions
-- [x]  Obtain review from platform security and platform leadership
-
 ## Purpose:
 
 This process document intends to outline the steps to be taken in order to obtain approval and subsequently run a rake task against the production database.
