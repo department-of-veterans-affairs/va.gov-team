@@ -16,10 +16,10 @@
 
 ## Background
 
-The VAMC modernized websites were designed to provide the top tasks and content that Veterans, families, and caregivers need most to prepare to visit a VA medical facility  including location information, available health and social services, patient registration, and other acocount needs. 
+The VAMC modernized websites were designed to provide the top tasks and content that Veterans, families, and caregivers need most to prepare to visit a VA medical facility  including location information, available health and social services, patient registration, and other account needs. 
 
 **This initiative aligns with the following OCTO-DE's mission and goals**
-- Veterans, active duty service members and their families can find accurate halth service information for local facilities
+- Veterans, active duty service members and their families can find accurate health service information for local facilities
 - Veterans can manage their health services online. 
 - Connect Veterans with the services they need.
 
