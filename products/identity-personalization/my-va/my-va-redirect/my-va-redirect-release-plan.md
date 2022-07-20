@@ -31,27 +31,29 @@
 ## Phase II: Staged Rollout
 
 ### Planning
-**Launch Go/No go:** completed mm/dd
-     - Readiness checklist (link tk)
+**Launch Go/No-go:** 
+- Completed mm/dd/yyyy
+- Launch go/no-go ticket
+- Readiness checklist (link tk)
 
 **Desired date range:** mm/dd/yyyy - mm/dd/yyyy
-- **How will you make the product available in production while limiting the number of users who can find/access it:** 
-     - ...
-- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-     .....
 
 **Phased rollout:** 
 - 25% of users (1 week), Dates: week of mm/dd (link ticket)
 - 50% of users (1 week), Dates: week of mm/dd (link ticket)
 - If all goes well, then go to 100% of users: week of mm/dd (link ticket)
 
+**What metrics-based criteria will you look at before advancing rollout to the next stage?:**
+_Link to analytics_
+
 ## Go Live!
 
 ### Planning:
-- **Desired date:** _mm/dd/yyyy_
-- **Actual date:** mm/dd/yyyy
+- _Desired date for 25%: mm/dd/yyyy_
+- Actual date for 25%: mm/dd/yyyy
 
-
+- _Desired date for 100%: mm/dd/yyyy_
+- Actual date for 100%: mm/dd/yyyy
 
 ### 1-week results:
 - **Number of unique users:**
