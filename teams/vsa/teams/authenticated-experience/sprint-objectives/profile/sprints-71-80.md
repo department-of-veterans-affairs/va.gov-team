@@ -579,6 +579,22 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 
 - Support internal UAT
 
+### Notification preferences
+
+- TBD, but there might be 1095B work. I'm still working this out with stakeholders.
+
+### Bad address indicator
+
+**PM**
+
+- Release plan
+- Analytics is already complete, yes? If not, complete any analytics tasks.
+
+**Design**
+
+- Updates coming out of research
+- Document and ticket updates so Adam can implement them next sprint
+
 ## Sprint 80 (8/10 - 8/23)
 
 ### Personal information revisions
@@ -590,3 +606,23 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 - Launch to 25%
 - Launch to 50%
 - Launch to 100%
+
+### Notification preferences
+
+- TBD, but there might be 1095B work. I'm still working this out with stakeholders.
+
+### Bad address indicator
+
+**PM**
+
+- Request QA
+- Contact center guide updates
+
+**Design**
+
+- Contact center guide updates
+-
+**FE**
+
+- Implement changes from research
+
