@@ -4,14 +4,16 @@
 ### Planning:
 - **Desired date range or test duration:** _date tk_
 - **UAT Go/No go:** _date tk_
-   - Link to readiness checklist
+   - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/onsite-notifications-UAT-go-no-go.md)
 - **Start UAT**: _
-   - Hold UAT go/no go ticket: _create ticket and link_ 
-   - UAT go/no go readiness checklist: _create doc and link_ 
+    - Hold UAT go/no go ticket: _create ticket and link_ 
 - **Desired number of users:** _provide summary_
-- **How you'll recruit the right production test users:** _tk_
-- **How you'll conduct the testing:** _tk_
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** _tk_
+- **How you'll recruit the right production test users:** 
+    - _tk_
+- **How you'll conduct the testing:** 
+    - _tk_
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
+    - _tk_
 - **Link to Research plan for UAT**: 
    - Research plan for onsite notifications MVP UAT (doc tk)
    - Conversation guide for onsite notifcations MVP UAT (doc tk)
@@ -21,8 +23,12 @@
 - **List of bugs/issues found:** ___
 
 ## Phase II: Staged Rollout 
+
 ### Planning
 **Launch Go/No go:** 
+- Completed mm/dd/yyyy
+- Launch go/no-go ticket
+- Launch go/no-go readiness checklist (link tk)
 
 **Desired date range for phased rollout:** 
 - 25% of users (1 week), Dates: _(dates + ticket tk)_
@@ -35,11 +41,12 @@ _Link to analytics_
 
 ## Go Live!
 ### Planning:
-**Desired date:** 
-- _Desired: date for 25%_
-- Actual: date(launched to 25%)
+- _Desired date for 25%: mm/dd/yyyy_
+- Actual date for 25%: mm/dd/yyyy
 
-- Launch go/no go readiness checklist (link tk)
+- _Desired date for 100%: mm/dd/yyyy_
+- Actual date for 100%: mm/dd/yyyy
+
  
 ### 1-week results:
 Analytics results for week 1:
