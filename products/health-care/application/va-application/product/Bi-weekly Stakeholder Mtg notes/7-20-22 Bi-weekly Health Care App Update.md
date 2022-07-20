@@ -1,6 +1,6 @@
 # July 20, 2022 HEC Bi-weekly Health Care application update
 
-### Outstanding Action Items with 7/6 update
+### Outstanding Action Items with 7/20 update
 - Registration path
      - [ ] **(5/25) - Online Health Apps team POs** will provide a LOE be estimated to add the Registration path to the online form - requested by Stacey Echols
 - Short Form - Data sources
