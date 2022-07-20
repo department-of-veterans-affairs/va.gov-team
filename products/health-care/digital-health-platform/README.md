@@ -87,7 +87,7 @@ Our initial users will be care team members at various sites who actively engage
 Launch Dates
 ------------
 
-We are planning to launch by the end of July 2022.
+We are planning to launch by mid-2022.
 
 * * * * *
 
