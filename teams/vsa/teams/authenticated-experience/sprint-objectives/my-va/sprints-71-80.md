@@ -504,6 +504,10 @@ I don't have work for Taylor, so he can either do work that's in the backlog, or
 
 I don't have work for Taylor, so he can either do work that's in the backlog, or we can check in with Sharon to see if there are backlog tickets he can work on for the profile.
 
+### PTO
+
+- Samara: August 12
+
 ### On-site notifications
 
 **PM**
