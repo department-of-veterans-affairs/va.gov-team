@@ -16,7 +16,7 @@
 **All: Have we reviewed the feature in staging and confirmed that it works as expected?**
 - Answer: 
 
-**Taylor: Are you prepared to manage giving UAT participants access to the redirect feature in production? And do you have a backup in case of an emergency?**
+**Taylor: Are you prepared to manage giving UAT participants' access to the redirect feature in production? And do you have a backup in case of an emergency?**
 - Answer: 
 
 **All: Is everyone prepared to attend UAT sessions in case there are issues we need to troubleshoot live?**
