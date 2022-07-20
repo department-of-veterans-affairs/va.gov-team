@@ -93,7 +93,7 @@ We will be looking at a prototype as a fictional logged in user, so the content 
 
 - *If they did not mention anything about the copay* Did you notice that it says this is for both debts and copays? Would you expect to see copays in the same section as debts, or somewhere else on this page? 
 
-- Okay, let's click on the Outstanding Debts title to see a slightly different view. Here the copay total is listed under debts separately. Would you prefer to see the total for copays combined with debts, or as a separate amount? Why?
+- *If original combined version was shown first, then ask* Okay, let's click on the Outstanding Debts title to see a slightly different view. Here the copay total is listed under debts separately. Would you prefer to see the total for copays combined with debts, or as a separate amount? Why?
 
 - *If alt version was shown first, then ask* Okay, let's click on the Outstanding Debts title to see a slightly different view. Here the debt total is shown as one amount instead of the debt and copays being separate like you just saw. Would you prefer to see the total for all debt owed here, or did you prefer seeing the total for debts and copays separately? Why?
 
