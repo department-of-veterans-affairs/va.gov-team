@@ -558,23 +558,35 @@ Liz: Jul 22 - 29
 ### PTO
 
 - Samara: Aug 1 - 5
-- Liz: Jul 27 - 29
+- Liz: Jul 27 - 29 (this might no longer be accurate)
 - Christina: Jul 28 - 29
+
+### Personal information revisions
+
+- Fully document the feature
+  - This will likely be lead by Christina, but Adam and Tom can support this as well
+  - Seeing Liz's examples for Direct deposit and Contact info should be helpful 
 
 ### Military information
 
+This assumes the VA Profile ICD is updated and we are given access permissions in prod. **Please do not launch this feature until I'm back from vacation**.
+
+**PM**
+
+- Complete internal UAT with real veterans
+
 **BE**
 
-- Launch to 50% if it didn't already happen
-- Launch to 100%, but not while Samara is on PTO
+- Support internal UAT
 
 ## Sprint 80 (8/10 - 8/23)
 
-### Accessibility updates
+### Personal information revisions
 
-- Document all the accessibility updates with the profile in one place. This might include:
-  - Notes from our conversation with Angela and Josh from a few weeks ago.
-  - Editing profile content on a separate page instead of in-line.
-  - Updates to how we handle address validation.
-  - Other issues in our backlog
-- Depending on how long this takes, we could regroup to start talking about prioritization/strategy. If there's not time, this can wait until next sprint.
+- Finish documentation if not done the previous sprint
+
+### Military information
+
+- Launch to 25%
+- Launch to 50%
+- Launch to 100%
