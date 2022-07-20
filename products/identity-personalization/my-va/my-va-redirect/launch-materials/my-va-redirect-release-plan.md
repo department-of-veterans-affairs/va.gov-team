@@ -5,7 +5,7 @@
 
 ### Planning:
 - **UAT Go/No go:** 
-     - Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/redirect-UAT-go-no-go-checklist.md)
+     - [UAT readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/redirect-UAT-go-no-go-checklist.md)
      - [#44639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44639)
 - **Desired date range or test duration:**
      - Week of 08/01/22 - 08/04/22
