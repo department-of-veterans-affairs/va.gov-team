@@ -1,7 +1,5 @@
 # Prod DB Migration Approval Process
 
-# Prod DB Migration Approval Process
-
 ## Purpose:
 
 This process document intends to outline the steps to be taken in order to obtain approval and subsequently run a rake task against the production database.
