@@ -19,7 +19,7 @@ body:
       description: What customers will be effected and in what way
       placeholder: List customers and effects
   - type: textarea
-    id: what
+    id: done_to_resolve
     validations:
       required: true
     attributes:
