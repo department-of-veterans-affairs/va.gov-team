@@ -146,14 +146,14 @@ Please take a few minutes to read the email:
 
 #### Task 2
 
-6. Can you describe to me what you read on the?
+6. Can you describe to me what you read on the screen?
 7. What do you think this screen/modal is asking you to do?
 8. How would you proceed?
 
 #### Task 3
 
 9. Could you explain your decision to close the modal?
-10. What would you expect to happen after you close it
+10. What would you expect to happen after you close it?
 11. When would you expect to see this screen/pop up again?
 12. If you wanted to get back to the pop-up screen/complete the migration later (while still logged in) how would you expect to return to it?
 13. Where would you look to get back to that process?
