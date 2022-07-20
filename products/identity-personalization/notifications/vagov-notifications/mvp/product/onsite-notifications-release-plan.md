@@ -4,6 +4,7 @@
 ### Planning:
 - **Desired date range or test duration:** _date tk_
 - **UAT Go/No go:** _date tk_
+   - Link to readiness checklist
 - **Start UAT**: _
    - Hold UAT go/no go ticket: _create ticket and link_ 
    - UAT go/no go readiness checklist: _create doc and link_ 

@@ -14,7 +14,7 @@ Currently the VA receives an excessive of returned USPS mail as undeliverable an
 
 * DSVA Product Lead: Samara Strauss
 * Product Manager: Matt Shea
-* Developers: Brad Conley, Eric Hansen, Lihan Li
+* Developers: Brad Conley, Erik Hansen, Lihan Li
 * Designer: Tressa Furner
 * QA: Tze-chiu Lei
 

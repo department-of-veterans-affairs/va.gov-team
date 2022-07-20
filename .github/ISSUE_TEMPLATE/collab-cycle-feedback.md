@@ -30,6 +30,7 @@ assignees: ''
 **Consider:**
 
 ## Platform directions
+- Remove the governance-team label
 - Update "Issue Title"
 - Link to collab cycle Request epic
 - Add your feedback

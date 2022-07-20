@@ -98,7 +98,7 @@ Bay Pines CBOCs
 ### Research Materials
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/conversation-guide.md)<br>
-[Conversation guide brainstorm for beneficiary travel (Mural)](https://app.mural.co/t/agilesixapplications0942/m/agilesixapplications0942/1654533159772/a1b103ce14dee9165bc524443569ce962daca601?sender=u83bc52d7fa73658f84f27755)<br>
+[Conversation guide brainstorm for beneficiary travel (Mural)](https://app.mural.co/t/vfscie8528/m/agilesixapplications0942/1654533159772/a1b103ce14dee9165bc524443569ce962daca601?sender=u83bc52d7fa73658f84f27755)<br>
 [Beneficiary Travel Reimbursement Prototype #1](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play)<br>
 [Beneficiary Travel Reimbursement Prototype #2](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/52Qv7ed/play)    
 

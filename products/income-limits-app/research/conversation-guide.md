@@ -30,13 +30,12 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Florence and I also have some colleagues on the line observing and taking notes. Today we're going to talk about applying for healthcare benefits.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **This entire session should take about 1 hour.** 
+- **In this session, there is no right or wrong.** I'm not looking to test you or your ability, or make sure you're doing something the right way. Chances are, if you've experienced something or done something a certain way, others have too! I really just want to learn from you/your experience. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -45,54 +44,76 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we jump into talking about health care benefits, I have a few questions to get to know you a bit more. 
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+1. Where do you live?
+2. Who do you live with?
+3. What do you like to do for fun?
 
-## First Task: [TASK NAME] - X minutes
+## Guided Storytelling - X minutes
 
-- Step 1
-- Step 2
+_Note about the following questions: 
+Moderator is not expected to ask all questions as written below. These questions are more like guidelines to help the moderator if they're unsure what to ask next, or unsure how to phrase a question. Overall, this time should be used to get participant to explain their process of applying for health care benefits to see if, when, how, etc. eligibility comes into the picture._
+
+Great to know a little bit more about you! Let's now turn towards talking about health care benefits. 
+
+1. So just to start, when did you first apply for health care benefits?
+2. Is that the only time you applied for health care benefits?
+
+### If not the only time applied for health care benefits:
+
+3a. How many other times did you apply for health care benefits?
+
+3b. What was it that caused you to apply more than once?
+
+3c. When was the most recent time you applied?
+
+### Rest of the interview is the same, regardless of first time or not applying for health care benefits:
+For the rest of our conversation we're going to talk about what that experience was like for you. 
+
+4. To start, when would you say you started first thinking about applying for VA health benefits? 
+5. Were you receiving other benefits at the time? Which benefits?
+6. What sparked the idea that you might want to apply for VA health benefits?
+7. Where were you?
+8. Who were you with?
+9. When you first had this thought, what questions came up for you?
+10. What concerns did you have, if any?
+11. Did you do anything at that time to start to learn more about applying for health care benefits? What did you do?
+12. Did you have any kind of plan for what you would do next?
+13. What did you do next? OR: What happened next? (repeat as needed)
+
+### On topic of eligibility:
+I'm curious to hear more about _________ (eligibility - use participant's term if possible):
+
+14. How did the topic of _________  come up in this process?
+15. At that point, what did you know or assume about _______ ?
+16. How did you get that information?
+17. What questions/concerns did you have about ________ ? 
+18. Where did you go (or, who did you go to) to address those questions/concerns?
+### If doesn't come up naturally:
+
+14. Did the thought of whether or not you'd be eligible for health care benefits come up during this application process?
+15. If yes, how did it come up? 
+16. Where were you?
+17. Who were you with?
+18. What questions/concerns did you have? 
+19. Where did you go to learn more?
 
 ### Things to watch for:
+- Does participant demonstrate awareness of eligibility as part of benefits application process?
+- What words or phrases does participant use to talk about eligibility/income limits?
+- What type of emotional experience is associated with eligibility?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
+## Concluding questions - X minutes
+- What if anything would have made the health care benefits application process easier for you?
+- Looking back now, what do you wish you had known about _______ (eligibility) that you didn't know back then?
+- What if anything does the phrase "income limits" mean to you?
+- Anything else we didn't cover that you'd like to share about health care benefits eligibility?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
-
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usabiility research session? 
@@ -100,12 +121,5 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
-##
-
 ## Emergency Exit
-
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)

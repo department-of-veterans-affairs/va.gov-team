@@ -1,10 +1,12 @@
 # Contact information: address not recognized as entered
-**Last updated: July 14, 2022**
+**Last updated: July 19, 2022**
 
 If a user changes their address from the VA.gov profile and that address isn’t recognized by the U.S. Postal Service (USPS), they’ll be provided with a suggestion or an option to:
 - use the address as entered
 - return to editing
 - cancel the edit
+
+[Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)
 
 ## UX
 For each scenario, the user is presented with a [warning alert component](https://design.va.gov/components/alert#warning-alert) that appears within the address field, above the address they entered. 

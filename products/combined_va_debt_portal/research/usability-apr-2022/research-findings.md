@@ -99,14 +99,14 @@ This usability study was conducted remotely via Zoom. Participants either logged
 	- *Likely True.* All but one participant thought of copays as a type of debt, he stated "Defining it as copay causes me to not consider it debt."
 
 3. Participants may want more real-time transaction data regarding their debts and bills  
-	- *Not enough information.* Not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
+	- *Not enough information.* Because of few login issues and a lack of participants with current bills, not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
 
 Another participant noted that the information he's received is not always updated in a timely matter:
 	
 > _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
 
 4. Participants may want to view their debt and copay bill details before resolving them, so they may think there’s too much content on the ‘current debts’ and ‘current copay bills’ pages 
-	- *Maybe True.* Participants talked about the ability to quickly either view details or quickly pay their bill based on their situation. Several participants noted that there were too many pages and that 
+	- *Maybe True.* Participants talked about the ability to either quickly view details or quickly pay their bill based on their situation. Several participants noted that they had to go through too many pages to get to the information they were looking for. One participant noted that there was too much text and he prefers to scan websites and not read every line.
 
 5. Participants will understand the difference between a copay bill and benefit debt, but may be confused by the differences in payment and resolution options with those debts and bills  
 	- *Maybe False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay, where to request financial help. Some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
@@ -121,7 +121,7 @@ Another participant noted that the information he's received is not always updat
 
 2. Most participants looked on the 4 quadrants of the homepage for a link to handle their debt/copay
 
-3. Most participants did not have issues navigating from copays to debts and vice versa but most participants saw the summary page
+3. Most participants did not have issues navigating from copays to debts and vice versa when starting from the summary page. We don't have enough data to know if this will be an issue if they start from a detail page.
 
 4.  Most participants were able to locate how to request financial help
 
@@ -207,8 +207,7 @@ If they wanted to search, search terms they mentioned they would try include:
 
 
 
-## 3. Most participants did not have issues navigating from copays to debts and vice versa but most participants saw the summary page first
-
+## 3. Most participants did not have issues navigating from copays to debts and vice versa when starting from the summary page. We don't have enough data to know if this will be an issue if they start from a detail page.
 
 Most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page at the beginning of the session were still able to navigate to either the copay or debt page utilizing either the 'View other VA debt' link or by clicking on the breadcrumb.
 
@@ -264,11 +263,12 @@ While on the status page, one participant commented on how it appeared as if the
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Look into ways of consolidating pages and surfacing important statement data and pay link sooner
 
-* Look into ways to make 'View my other VA debts' link more prominent and consider using the term "Copays" instead of "Your other VA bills" when linking to the copay page.
+* Look into ways to make 'View my other VA debts' link more prominent and consider using the term "Copays" instead of "Your other VA bills" when linking to the copay page
+
+* Consider using the term "overpayment" when referring to debt caused by an overpayment. Several participants mentioned overpayment when defining "debt". One participant stated he liked when it was mentioned, "so it doesn't make you feel fraudulent and makes the dispute process easier".
 
 * Eliminate `&nbsp;` characters on the copay statement page
   
@@ -278,6 +278,7 @@ _Put together initial recommendations here based on your findings along with sup
  - Review content and user flow and assess whether pages can be consolidated
  - Review design and whether important statement information and a pay link can appear sooner to users
  - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear
+ - Discuss where it would make sense to include the term "overpayment"
  - The issue of `&nbsp;` characters appearing on the statement page has already been fixed
 
 

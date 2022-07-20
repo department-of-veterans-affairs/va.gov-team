@@ -456,10 +456,78 @@ Our main objective this sprint is to make sure the feature is working. If it is,
 ## Sprint 79 (7/27 - 8/9)
 [Epic: #40789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40789)
 
+I don't have work for Taylor, so he can either do work that's in the backlog, or we can check in with Sharon to see if there are backlog tickets he can work on for the profile.
+
 ### PTO
 
 - Samara: Aug 1 - 5
 - Liz: Jul 27 - 29
 
+### On-site notifications
+
+**PM**
+
+- Release plan
+- Make sure analytics implementation is complete, and get GA dashboard set up
+
+**QA**
+
+- Run QA and document bugs
+
+**Design & FE**
+
+- If needed, updates coming out of QA
+
+### My VA redirect
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+- Release plan
+
+**Design - Liz**
+
+- Conduct sessions
+- Start research write-up (does not need a topline summary unless Liz wants to do one)
+
+### Payments V2
+
+**Design - Angela**
+
+- Research sessions
+- Research summary
+- Updates to design (if needed/if time)
+
 ## Sprint 80 (8/10 - 8/23)
 [Epic: #40790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40790)
+
+I don't have work for Taylor, so he can either do work that's in the backlog, or we can check in with Sharon to see if there are backlog tickets he can work on for the profile.
+
+### On-site notifications
+
+**PM**
+
+- Staging review prep
+- Privacy review prep
+
+### My VA redirect
+
+**PM**
+
+We can move on to these if there are no issues in the usability testing/UAT sessions that cause us to reevaluate our strategy.
+
+- Staging review
+- Privacy review
+- Launch go/no-go (stretch goal; assumes no issues out of the staging review)
+
+**Design - Liz**
+
+- Finish research write-up
+
+### Payments V2
+
+**Design**
+
+- Updates to design (if needed)
+- Write the frontend implementation documentation for Taylor

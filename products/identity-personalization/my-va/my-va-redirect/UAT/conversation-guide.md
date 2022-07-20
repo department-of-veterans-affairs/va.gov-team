@@ -6,7 +6,7 @@
 Thanks for joining us today! My name is Liz and I also have a notetaker here. We've added a new feature to improve Veterans access to relevant updates and we want to test to make sure it’s working properly in your account.
 
 Before we start, a few things I want to mention:
-* There are a couple additional members from the website team who would like to observe the session and hear your feedback live. Are you comfortable with them joining the session? No pressure either way.
+* There are some additional members from the website team who would like to observe the session and hear your feedback live. Are you comfortable with them joining the session? No pressure either way.
 	* *Let other observers into room and allow a short pause to say hello.* Ok, so here we have some other members from our website team - hi everyone. And for those of you who just joined, if you could please turn off your cameras to save bandwidth, the would be great.
 * **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us to figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express.
@@ -21,9 +21,9 @@ Before we start, a few things I want to mention:
 * **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Warm-up Questions (Optional) - 2 minutes
-Task goal: Confirm they qualify for the study
+**Task goal: Confirm they qualify for the study
 
-1. As part of the scheduling for this session, we asked if you have an account on VA.gov. Can you confirm for me that you have a DS Logon, MyHealtheVet, Login.gov or ID.me account?
+1. As part of the scheduling for this session, we asked if you have an account on VA.gov. Can you confirm for me the email address you use with your DS Logon, MyHealtheVet, Login.gov or ID.me account?
 	* If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?)
 
 2. Do you know your username and password so you can log in for the session today?
@@ -34,7 +34,6 @@ Task goal: Confirm they qualify for the study
 
 4. What else do you log into VA.gov to do?
 
-
 5. Thanks for sharing that! It’ll be helpful to know that as we move forward. Would you feel comfortable sharing your screen with me at this time?
 	* If no: Explain this is necessary for testing. If they are still unwilling, **end the call.**
 
@@ -44,8 +43,11 @@ OK, please share your screen, and then we will get started.
 I'd like you to open a new tab in your browser, and go to https://www.va.gov/ and sign in.
 
 *Pause recording during sign in*
+*Participant should be redirected to My VA after signing in. If they are not, ask:*
+- Do you have any other email addresses you use to sign in? Let’s go ahead and try that.
 
-*Participant should be redirected to My VA after signing in.* 
+*If they’re still unsuccessful*
+- Go ahead and click on My VA
 
 ### UAT tasks
 - [ ] Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
@@ -53,18 +55,26 @@ I'd like you to open a new tab in your browser, and go to https://www.va.gov/ an
 - [ ] Note the device and browser
 
 ## 2. Understand expectation and next steps - 5 minutes
-
 *Make sure you have resumed recording!*
+
+### If redirect was not successful
+- ask user to click on My VA
+- go to task 3**
+
+### If redirect was successful
 
 Great! Tell me about where you’ve landed on the website.
 
 **For magnification users, if needed to evaluate two-column layout**:  Take a look around this page and talk to me about what you can do from here.
 
-You logged in from the homepage, and now you are seeing a page called My VA. How does that line up with your expectations?
+- You logged in from the homepage, and now you are seeing a page called My VA. How does that line up with your expectations?
 
-Is there anything confusing about having logged in from the homepage and now seeing a page called My VA?
+- Is there anything confusing about having logged in from the homepage and now seeing a page called My VA?
 
-You mentioned you had recently logged into VA.gov to [what they shared during the warm up]. Show me what you would do from here if you had come here today to do that same thing.
+*If user is LOA1*
+- What can you do on this page?
+- What would you do from here?
+- What would make this page more useful to you?
 
 ### Usability tasks
 - [ ] Do screen magnification users struggle with anything here?
@@ -73,15 +83,16 @@ You mentioned you had recently logged into VA.gov to [what they shared during th
 - [ ] What would they do next?
 
 ## 3. Understand the homepage and My VA relationship - 3 minutes
-Now I’ll have you go back to My VA.
-
 From here, show me how you would get back to the homepage.
 
 Talk to me about the difference between those two pages.
 
 How would you use the homepage, now that you’re familiar with My VA?
 
+Is one more useful than the other to start on?
+
 ## 4. Confirm redirect does not take user to My VA from other pages - 5 minutes
+
 Thanks for sharing all of that. Now I’ll have you sign out.  
 
 Now click on the payment history link under Disability.

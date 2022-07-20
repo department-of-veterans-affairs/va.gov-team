@@ -135,6 +135,9 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 195 | Cardiology | | M-F 7AM - 230PM | Yes |
 | 62  | Dermatology | | M-F 7AM - 230PM | Yes |
 | 468 | STG/PULMO 4 (Telephone) | | M-F 8AM - 4PM | Yes |
+| 527 | STG/BC/PULMONARY | | M-F 8AM - 4PM | Yes |
+| 528 | STG/MN/PRIMARY CARE | | M-F 8AM - 4PM | Yes |
+| 529 | STG/CV/DNA CONSULTATION | | M-F 8AM - 4PM | Yes |
 
 
 ### Available Clinics (station 500)

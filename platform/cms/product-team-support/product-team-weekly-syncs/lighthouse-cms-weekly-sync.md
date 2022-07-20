@@ -13,38 +13,73 @@
 
 </details>
 
-Get best estimate of V1 ship date
+## Monday, July 18, 2022
 
-## Monday, July11, 2022
+* Dave C on leave next week July 25-
+* Estimate of V1 ship date?
+  * No solidified date yet, getting close. We have answers to all q's. Implementing last chagnes.  Data soruces, SOT, logic around moving away from ATC. other items. 
+  * Still targeting an August timeframe 
+  * Need answers from ATC - what's happening to data as it exists today? Hoepfully nothing major. Mapping old names to new names - don't want to risk losing data.
+  * Q: Is that pertinent to v1? We mightn not have wiat times or sat scores? A: Existied as part of v0.  Ie Different wait times for group vs individual. Determining how to get these answers - underlying data is going to change - even in v0. 
+  * LH Please keep us in loop - Dave C personally wants to stay in loop
+* ATC Changes to v0 - monitoring - Facilites team needs to be kept in loop .. implication to FL and VAMC product
+  * Notify us if any changes require support
+* Lovell: CMS team will add 4 DoD facilities directly to Drupal to support Lovell. Our assumption is that these should be pushed to Facility API. 
+  * Asked and answered - Not going into LH API
+  * Not veteran facing facilities. . confirmed in past
+* Overall SSOT truth discussions for VHA data. LH team, Jenny HL, Dave C
+  * Had meeting last week. How to align data sources for near term
+  * how to ultimatley make drupal the SOT 
+  * Decision - if any system says they have the service, then we accept that.  Periodt. 
+  * We'd like to have the ability to leverage flags/notifications to let peopple in field know when there's a descrepancy.    
+  * We want to be able to detect ATC, DST are not aligned with what PAOs are enteiring into our system
+  * PAO - help us align this - Let DST or ATC know this should not be an item, or add it to facility 
+  * Facility team will create some type of migration flag/mnotification as part of migration workflow. CM involved as well that this process will be coming 
+  * James - are we maintaining mulitple sources of truth? From Jenny - going forward we'll always need to refer to DST or ATC. 
+  * Jenny had mentioned concerns aroudn trusting the field for maintaining service invo without some form of backup.. 
+* Can move forward on how data is flagged during migration to address descrepancies 
+* VBA is starting pre-kickoff - Goal to eliminate Sandy's db, source from Drupal
+  * Greenlit: Redoing regional offices and services.  Better undersand ecosystem to create appropriate data structures . .veteran facing and more reusable
+  * Figuring out the players - 
+  * No longer be a flat dB 
+  * To explore: What if facility is also a medical center <- Not MVP, understand problem space - agnostic to who owns facility? 
+  * Docuument and create hierarchical relationship   Parent office and child office, not just admin relationship, but from a VA standpoint - We have the literaly relathionship , butis that important to vet?  We are also trakcing which facilites are co=located with VA facilities? ANticipate using forward lookup of mapbox to better identify overlap. 
+  * Adam: Last time we looked at this - we could see those fields but not avaiable to us in our ETL thru BISL - reach out to BISL ask them to pull those columns 
+  * CAn LH provide contacts at BISL? CM around sunsetting Sandy's dB 
+  * We are currently investigating with mapbox whetehr we have the abilityh to push lat/long to LH becuase of licensing agreement.Is this a blocker? Yes,, for this and for CAPSs
+* Sync CMS data to sandbox. Joshua offline discussion - wait for Steve to return?
+* Mobile facilities - Dave C offline discussion - anything critical? no urgency right now. AI: David S to find research from Leyda
+
+
+## Monday, July 11, 2022
 * Lat/Long info for VetCenter CAPs
   * https://dsva.slack.com/archives/C02BTJTDFTN/p1656535172014689
   * LH still needs to set up endpoint - similar to other updates, seperate URL ot CAPs
   * Logic not in place yet, LH team still has work to do to address - plan for POST V1
   * Some bandwidths within a few sprints?  What's thet deadline?  As Soon As We Can Get It. 
-  * *For awareness - starting VBA work, which will involve replacing current database with Drupal source of truth. This may be more of a driver than the CAPs.
+* For awareness - starting VBA work, which will involve replacing current database with Drupal source of truth. This may be more of a driver than the CAPs.
   * Do we anticipate VBA data being daily refresh or real-time? We don't know enough yet. Pre-kickoff is happening on Thursday. No site to experiment with yet.
-  * As SSOT moves to Drupal, does BZL still pull ..?  BZL will have to have some change, Right now they're pulling directy from CDW from Sandy's DB?  Does drupal write to CDW directly? What does BZL want to do?  We need to put deprecation strategy in place.
-  * Need to approach this change with BISL. Sandys 'singel table' db is going away, data is going to be maintained in drupal (Business INtelligence Service Line)
+  * As SSOT moves to Drupal, does BISL still pull ..?  BISL will have to have some change, Right now they're pulling directy from CDW from Sandy's DB?  Does drupal write to CDW directly? What does BISL want to do?  We need to put deprecation strategy in place.
+  * Need to approach this change with BISL. Sandy's "single table" db is going away, data is going to be maintained in drupal 
+  * BISL = Business Intelligence Service Line
   * V1 is #1 priority, CAPS is #2 = maybe 2 or 3 sprints from now, tickets are spun up.
 * SSOT
   * Dave C, Jenny HL and Dave M meeting?
   * Josh discussion with LH team?
   * ATC relaunching?
   * Email from James 
-  * Joshua: Topic as a whole - WE're going to set up an additional call, LH & Jenny. Needs to be time alloted for Jenny to work with editors to get data up to date. Jenny knows which VISNs to work with. For V1 intent wast to have Drupal data only, at initail launch, ATC, DST, and CMS - if any 3 say this service exists it will be reported.  ATC, DST are historical.  does not represent real time. This will have impact on editors.  Ifa drupal editor says "we no longer have a service" it can persist up to 30 days.  Will need documentaiton and CM - how best to edit the CMS page, but if it's one of these 19 core services it will take time.  This should be temporary.  On XX date LH will move away from ATC and it will only be CMS data and at the poing it will be realt time. Then resp moves to editor to make change. 
+  * Joshua: Topic as a whole - We're going to set up an additional call, LH & Jenny. Needs to be time alloted for Jenny to work with editors to get data up to date. Jenny knows which VISNs to work with. For V1 intent wast to have Drupal data only, at initail launch, ATC, DST, and CMS - if any 3 say this service exists it will be reported.  ATC, DST are historical.  does not represent real time. This will have impact on editors.  If a drupal editor says "we no longer have a service" it can persist up to 30 days.  Will need documentaiton and CM - how best to edit the CMS page, but if it's one of these 19 core services it will take time.  This should be temporary.  On XX date LH will move away from ATC and it will only be CMS data and at that point it will be real time. Then responsibity moves to editor to make change. 
   * Dave: Is there a way for editors to validate DST the way they can ATC?  "I deleted a service, why is it stil there" - can we instruct, first check with ATC and notify them. They may just say "if there's no appt in 30 days it will go away"
   * Goal is to clearly identify "it's not CMS issue"
-  * What can we do about DST? Is there a way for folks to determine - Josh.. not a log of insight. We onlyl pull 3 services, dental and 2 otehr.  We can mimimize 
-If the descrpency is on of these 3 Dentistry, Podiatyr, Nutrition, - then it's DST.
+  * What can we do about DST? Is there a way for folks to determine?  Josh.. not a lot of insight. We only pull 3 services.  We can mimimize if the descrpency is on of these 3 Dentistry, Podiatry, Nutrition, - then it's DST.
   * We can provide some guidance based on the service. .if it's this service, check here. 
-  * How do we empower editors, give them guidance for why it's stil showing up in FL - can also be contradictory - liek Urgent Care wait times for a facility that doesnt offer Urgent care  - why is this not in service accordion 
-  * Jpsh confirmed: Satisfaction is at facility level, wait time is at service level 
+  * How do we empower editors, give them guidance for why it's stil showing up in FL - can also be contradictory - like Urgent Care wait times for a facility that doesnt offer Urgent care  - why is this not in service accordion 
+  * Josh confirmed: Satisfaction is at facility level, wait time is at service level 
   * Re: Gillette had the issue, no urgent care but ATC is reporting it as existing and has wait time and satisfaction scores 
   * https://www.va.gov/sheridan-health-care/locations/gillette-va-clinic/
 editor said:
 There is a "Veteran satisfaction" section on noted web page that only seems to be on one CBOC page... it notes "Urgent Care" wait times. There is no urgent care, how can I remove that section? Thanks
 * We can't get rid of ATC fully, but no longer be a source of service info, but must stil use to get wait times and sat scores 
-* 
 
 * Service audit
   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9406  

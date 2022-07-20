@@ -27,37 +27,38 @@ Since Veterans can incur debt and receive payments any time after establishing b
 - What would users do next after reading this notification?
 - What would users do if they had settled all debts but this notification was still appearing at the top of My VA?
 
-### **2. Determine if the title of this section accurately conveys the content.**
+### **2. Determine if the title of the two sections accurately convey the content.**
 
-- Before reviewing the content of the section, what do users expect to see in this section?
-- What do users think that debts are?
-- What do users think that payments are?
-- After revealing the content of the section, are there any surprises?
+- Before reviewing the content of these two sections, what do users expect to see in each?
+- What do users think that outstanding debts are?
+- What do users think that benefit payments are?
+- After revealing the content of both sections, are there any surprises?
 - Is this information that veterans would want to see once they log into VA.gov?
 
 ### **3. Validate that the details displayed are the most important pieces of information for debts.**
 
-- Do the titles give enough information to determine why the debt or copay is due?
-- Do veterans find it useful to see the status of their debt on My VA, or is this only necessary once diving further into all VA debts?
-- Is showing the amount for each type of debt useful on My VA?
-- Does the usage of the dark red color for debts due convey a sense of importance and things that are due? Do colorblind and low vision users have any difficulty seeing the dark red text?
-- Is the concept of debts clear that it encompasses anything that is due from them to the VA?
-- Is the difference between different types of debts and copays within the section clear?
+- Do veterans understand what debt is and why it might be due from them?
+- Do veterans find it useful to see the last date that the debt was updated on My VA?
+- Is showing the total amount of outstanding debt useful on My VA?
+- Does the usage of the dark red color and parantheses for debt make it clear that this amount is due and convey a sense of importance? Do colorblind and low vision users have any difficulty seeing the dark red text?
+- Is it better to show the total for all debts and copays as one card or as two separate cards? Is the difference between debts and copays clear for each option?
 - Is there any important information missing in this section?
 
-### **4. Validate that the logical next step for debts is effectively presented to the Veteran and they know how to take action on it.**
+### **4. Validate that the logical next step for debts is effectively presented to the veteran and they know how to take action on it.**
 
-- How do users think they would go about paying or requesting help for one of these debts?
+- How do users think they would go about paying or requesting help for debt?
 - What do users expect to happen when they click the Manage all VA debt link?
-- Do users want to be able to click on an individual debt, or go to a page to view and manage all VA debt?
+- Do users want to be able to click on an individual debt, or go to a page to view and manage your VA debt? What about the manage your VA bills link?
 - What would a user do if they had questions about their debts?
 - Would a user expect to see anything here if they had paid off a debt?
 
 ### **5. Validate that the most important pieces of payment information are being presented on My VA.**
 
 - Is the difference between debts and payments clear?
-- How many previous payments would a user like to see on My VA versus on their full payment history?
-- Does the dark green color convey that these are payments that have been deposited to them? Do colorblind and low vision users have any difficulty seeing the dark green text?
+- Is it clear that the payment shown is just the most recent payment?
+- How long would veterans want this info to persist on My VA if they were no longer receiving monthly payments?
+- Is it unclear if we take away the account number where this money was deposited to? Do veterans know where to find that info if they are unsure?
+- Do the dark green color and plus sign convey that these are payments that have been deposited to them? Do colorblind and low vision users have any difficulty seeing the dark green text?
 - Is there any important information missing in this section?
 
 ### Outcome

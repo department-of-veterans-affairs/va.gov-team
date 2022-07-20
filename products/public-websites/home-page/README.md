@@ -1,6 +1,7 @@
 # VA.gov Homepage README
 
-## [Homepage redesign iteration READ.ME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) picks up the story with the redesign initiative beginning in March 2022. 
+## Recommended reading
+[Homepage redesign iteration READ.ME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) > _picks up the story with the redesign initiative beginning in March 2022_. 
 
 ## Product context
 
@@ -11,7 +12,7 @@ The homepage fulfills Lincoln's promise, the VA's mission to honor and serve Ame
 - to enable faster access to care and timely delivery of services
 - improve the use experience of interacting with the VA
 
-**2018 homepage goals**
+**Homepage goals**
 
 To help Veterans and beneficiaries
 - explore VA benefits and services
@@ -19,28 +20,15 @@ To help Veterans and beneficiaries
 - get the latest information 
 - log in for access to a personalized streamlined experience
 
-## [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#timeline)
+## See also 
 
-## [Product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#product-artifacts)
-
-## [Design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#design-artifacts)
-
-## [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
-
-## Engineering artifacts
-
-## Related artifacts
-- [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md)
-- [VA.gov relaunch folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018)
-
-## Contacts
-
-- Product Owner: Dave Conlon (OCTO-DE)
-- Designer: Ryan Thurlwell (OCTO-DE)
-- Design lead: Matt Dingee (OCTO-DE)
-- Product Manager: Michelle Middaugh (Ad Hoc)
-- Engineering: Public Websites (Agile 6)
-- Research: Cindy Merrill (Ad Hoc)
-
-## [Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#stakeholders)
+- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md#timeline)
+- [Product artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#product-artifacts)
+- [Design artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#design-artifacts)
+- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/research) 
+- Related artifacts
+  - [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md)
+  - [VA.gov relaunch folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018)
+- [Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#contacts)
+- [Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/home-page-redesign-initiative#stakeholders)
 

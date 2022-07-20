@@ -90,7 +90,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 - Privacy & Security ticket [#]()
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions
+- The 1010EZ form is currently in production; we are only adding a new question, which will slightly change the flow of the application's questions.  There are no changes to the form's performance, architecture, API enpoints or security.
 - Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 - 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
@@ -111,11 +111,11 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050?userId=228
 
 
 ### Key Dates
-
+**Note**: Most design and development work was completed in 2021, but the feature was placed on hold with a dependency on the Enrollment system to support the new data.  The team was given the green light to move forward and release in August along with the paper form.
 - May 2022: Design work finalized
-- ???? 2022: Development work finalized
-- ???? 2022: Complete QA?
-- ???? 2022: Launched to ???% of users
+- July 2022: Development work finalized
+- July 2022: Complete QA?
+- August 2022: Launched to ???% of users
 
 
 ---
