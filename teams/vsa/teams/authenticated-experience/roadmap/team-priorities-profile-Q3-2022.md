@@ -12,11 +12,11 @@ We did a lot, including:
 
 ...and much, much more that is still ongoing. Great work, team!
 
-## Work winding down in July (Early Q3)
+## Work winding down in early Q3
 
 - **Personal information revisions**: We need to finish some post-launch tickets, submitt for 508 review, and thoroughly document our work in Github.
 - **Military information integration through VA Profile**: We need to conduct UAT, then we are ready for launch followed by documentation.
-- **Confirmation to update mailing address after updating home address**: Launch should be complete July 11th.
+- **Confirmation to update mailing address after updating home address**: Launch postponed while we are dealing with some GA issues, but hopefully this will resume soon.
 
 ## Continuing and upcoming work for Q3 2022 
 
