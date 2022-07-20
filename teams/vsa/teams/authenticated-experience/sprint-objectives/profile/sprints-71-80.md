@@ -648,3 +648,7 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 **FE - Adam**
 
 - Continued work
+
+### Address change messaging
+
+- Resume launch, assuming analytics work is ready
