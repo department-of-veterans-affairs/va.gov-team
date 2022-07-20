@@ -1,4 +1,4 @@
-# Benefit payments and debts Release Plan
+# My VA Redirect Release Plan
 
 
 ## Phase I: UAT
@@ -7,17 +7,18 @@
 - **UAT Go/No go:** 
 - Link to readiness checklist (link tk)
 - **Desired date range or test duration:**
-     - Week of mm/dd - mm/dd
+     - Week of 08/01/22 - 08/04/22
 - **Desired number of users:** 
-     - Recruiting n participants with a target of completeing n sessions
+     - Recruiting 14 participants with a target of completeing 7 sessions
 - **How you'll recruit the right production test users:** 
      - We will recruit users via Perigean.
 - **How you'll conduct the testing:** 
      - We will conduct UAT over Zoom to ensure the different features work correctly.
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-     - ...
+- **How you'll give the test users access to the product in production w/o making it live to all users on VA.gov:** 
+     - Via feature flag
 - **Link to Research plan for UAT**: 
-   - links TK
+   - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-plan.md)
+   - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/conversation-guide.md)
 
 ### Results:
 - **Number of users:**
