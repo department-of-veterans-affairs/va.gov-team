@@ -116,7 +116,7 @@ August 1 - August 4, 2022
 | August 1 | 9am-4:30pm |
 | August 2 | 10am-4:30pm | |
 | August 3 | 9am-4:30pm |	
-| August 4 | 10am-3pm 4-4:30pm |	
+| August 4 | 10am-3pm, 4-4:30pm |	
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
