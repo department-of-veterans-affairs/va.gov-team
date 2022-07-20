@@ -14,7 +14,7 @@ For information on how to use this repo, see the [Repo Guidelines](https://githu
 
 ### Knowledge hub
 The best starting place is the knowledge hub, that provides links to the content in this repository and elsewhere:
-http://tinyurl.com/vagovdocs
+https://depo-platform-documentation.scrollhelp.site/
 
 ### [/platform](./platform)
 All resources, templates, guides, and processes that support development of VFSs on VA.gov.
