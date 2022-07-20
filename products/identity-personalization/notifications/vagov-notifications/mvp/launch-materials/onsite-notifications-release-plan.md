@@ -6,7 +6,7 @@
 - **UAT Go/No go:** _date tk_
    - UAT go/no-go [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/product/onsite-notifications-UAT-go-no-go.md)
 - **Start UAT**: _
-    - Hold UAT go/no go ticket: _create ticket and link_ 
+    - UAT go/no go ticket: [#43278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43278)
 - **Desired number of users:** _provide summary_
 - **How you'll recruit the right production test users:** 
     - _tk_
@@ -27,13 +27,13 @@
 ### Planning
 **Launch Go/No go:** 
 - Completed mm/dd/yyyy
-- Launch go/no-go ticket
-- Launch go/no-go readiness checklist (link tk)
+- Launch go/no-go ticket: [#43281](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43281) 
+- [Launch go/no-go readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/launch-materials/onsite-notifications-launch-readiness-checklist.md)
 
 **Desired date range for phased rollout:** 
-- 25% of users (1 week), Dates: _(dates + ticket tk)_
-- 50% of users (1 week), Dates: _(dates + ticket tk)_
-- If all goes well, then go to 100% of users: _(dates + ticket tk)_
+- 25% of users (1 week), Dates ____: [#43288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43288)
+- 50% of users (1 week), Dates ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
+- If all goes well, then go to 100% of users ____: [#43293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43293)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 _Link to analytics_
