@@ -614,6 +614,10 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 
 ## Sprint 80 (8/10 - 8/23)
 
+### PTO
+
+- Samara: August 12
+
 ### Personal information revisions
 
 - Finish documentation if not done the previous sprint
