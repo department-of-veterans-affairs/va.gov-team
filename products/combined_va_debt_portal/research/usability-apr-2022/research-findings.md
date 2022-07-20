@@ -268,6 +268,8 @@ While on the status page, one participant commented on how it appeared as if the
 
 * Look into ways to make 'View my other VA debts' link more prominent and consider using the term "Copays" instead of "Your other VA bills" when linking to the copay page
 
+* Consider using the term "overpayment" when referring to debt caused by an overpayment. Several participants mentioned overpayment when defining "debt". One participant stated he liked when it was mentioned, "so it doesn't make you feel fraudulent and makes the dispute process easier".
+
 * Eliminate `&nbsp;` characters on the copay statement page
   
 
@@ -276,6 +278,7 @@ While on the status page, one participant commented on how it appeared as if the
  - Review content and user flow and assess whether pages can be consolidated
  - Review design and whether important statement information and a pay link can appear sooner to users
  - Review design on copay and debt pages and determine whether the 'Other VA debt' link can be more prominent and clear
+ - Discuss where it would make sense to include the term "overpayment"
  - The issue of `&nbsp;` characters appearing on the statement page has already been fixed
 
 
