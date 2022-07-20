@@ -4,13 +4,13 @@
 
 ---
 
-**Liz: Are the research plan and conversation guide for UAT complete?**
+**Liz or Angela: Are the research plan and conversation guide for UAT complete?**
 - Answer: 
 
-**Liz: Are you prepared to run UAT sessions as early as this week from now?**
+**Liz or Angela: Are you prepared to run UAT sessions as early as this week from now?**
 - Answer: 
 
-**Taylor and Liz: Are all launch-blocking accessibility issues fixed?**
+**Taylor and Liz or Angela: Are all launch-blocking accessibility issues fixed?**
 - Answer: 
 
 **All: Have we reviewed the feature in staging and confirmed that it works as expected?**
