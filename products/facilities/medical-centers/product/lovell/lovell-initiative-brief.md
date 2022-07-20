@@ -46,7 +46,7 @@ VA and DoD benefits have different information and separate portals for completi
   - I want to feel that this page is designed for me and I can trust the information. 
 
 ### Undesired User Outcomes
-  - An individual viewing a Lovell facility or system page is confused about wherther or not that facility serves him/her. 
+  - An individual viewing a Lovell facility or system page is confused about whether or not that facility serves him/her. 
   - A Veteran, active duty service member or family member is given the wrong information or misdirected to the wrong portal or online experience. 
 
 ### Desired Business Outcomes
