@@ -1,0 +1,60 @@
+name: Platform PO Escalation
+description: For Platform teams to escalate issues to Platform POs.
+labels: ["platform-leadership", "platform-po-escalations"]
+body:
+  - type: textarea
+    id: what
+    validations:
+      required: true
+    attributes:
+      label: What is the issue
+      description: Please describe the issue.
+      placeholder: Give as much detail as possible
+  - type: textarea
+    id: who
+    validations:
+      required: true
+    attributes:
+      label: Who is it effecting or who will be effected
+      description: What customers will be effected and in what way
+      placeholder: List customers and effects
+  - type: textarea
+    id: what
+    validations:
+      required: true
+    attributes:
+      label: What have you done to resolve this so far
+      description: List the steps you've taken to resolve this and the outcomes you've encountered
+      placeholder: Steps taken and outcomes
+  - type: textarea
+    id: dependencies
+    validations:
+      required: true
+    attributes:
+      label: Dependencies
+      description: Who are you dependent on to get to the resolution you're hoping for
+      placeholder: List dependencies
+  - type: textarea
+    id: risk
+    validations:
+      required: true
+    attributes:
+      label: What's at risk
+      description: What's at risk without a decision? What's at risk with an assumed/bad decision
+      placeholder: List risks
+  - type: textarea
+    id: recommendation
+    validations:
+      required: true
+    attributes:
+      label: Recommendation(s)
+      description: What is your team suggesting to resolve this and why? This could be multiple recommendations with different outcomes for the PO to choose from
+      placeholder: List recommendations
+  - type: textarea
+    id: additional
+    validations:
+      required: true
+    attributes:
+      label: Additional Information
+      description: Link to relevent tickets, slack conversations, emails, or support requests. This should just be for reference though, the meat of those conversations should be included in the body of this ticket
+      placeholder: Provide any additional information
