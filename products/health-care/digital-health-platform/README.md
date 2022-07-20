@@ -93,11 +93,11 @@ We are planning to launch by the end of July 2022.
 
 #### Team Members
 
-Kimberly Roberts, Michael Chaffee, Stephen Ruiz, Suzanne Miller, Aurelio Nogueira, Cam Bui, Lex Joseph, Rebecca Green, Yoni Doron-Peters, 
+Kimberly Roberts, Michael Chaffee, Suzanne Miller, Aurelio Nogueira, Cam Bui, Lex Joseph, Mariah Sager, Rebecca Green, Stephen Ruiz, Yoni Doron-Peters 
 
 #### Stakeholders
 
-Kimberly McManus, Arash Harzand, Blake Henderson
+Arash Harzand, Blake Henderson, Stefany Holguin
 
 #### GitHub/ZenHub/Teams/Jira
 GitHub label: [digital-health-platform](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform)
