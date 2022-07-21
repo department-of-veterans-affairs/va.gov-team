@@ -1,4 +1,4 @@
-# Vets-api retries - Mulesoft failures
+# Vets-api retries - Catastrophic failures
 
 In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is a response _other than_ status codes `201` or `202`.
 
@@ -22,11 +22,11 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 - Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See Current Automatic job retry library table below)**
      - 1 minute after first failed response (example, not actual timing)
-     - X minutes later
-     - X minutes later
-     - X minutes later
-     - X minutes later
-     - X minutes later
+     - X  later
+     - X  later
+     - X  later
+     - X  later
+     - X  later
 
 <details>
      <Summary>Current Automatic Job Retry library - Table for approximate retry waiting times</Summary>
