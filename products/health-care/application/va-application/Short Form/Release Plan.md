@@ -33,7 +33,6 @@
 - Dashboards showing success criteria metrics
   - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
-  - 
 
 ### Phased Rollout
 - 5% of users (2 days): 07/25/2022 - 7/27
@@ -47,23 +46,28 @@
 - Actual date: 07/28/2022
 
 **Key Result:** Increase number of application submissions
-*Use last 6 months to calculate Baselines*
-| KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
+*Using last 6 months (Jan-June 2022) to calculate Baselines*
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Submissions per Month | 13.5k | TBD | TBD |
-| Pct. Applications Completed | 44.2% | TBD | TBD |
+| Avg. Application starts per Month | 20.8k | TBD | TBD |
+| Avg. Submissions per Month | 13.7k | TBD | TBD |
+| Pct. Applications Completed | 66% | TBD | TBD |
 
 **Key Result:** Reduce Sesssions / Time taken to complete application 
-| KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
 | Avg. Sessions per Submission | 1.38 | TBD | TBD |
+| Avg. Single sessions per Month | 8,103 | TBD | TBD |
+| Avg. 2 sessions per Month | 2,857 | TBD | TBD |
+| Avg. 3 or more sessions per Month | 1,764 | TBD | TBD |
 
 **Key Result:** Reduce abandoned applications
-*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the household information section*
-| KPI / Metric | Baseline: 3/22 - 6/22 | Post-launch Week 1 | Post-launch Month 1 |
+
+*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Service info/household information section (viewers of Service Information page minus views of Medicaid/Medicare page, then determine %)*
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Applications Abandoned | TBD | TBD | TBD |
-| Pct. Applications Abandoned | TBD | TBD | TBD |
+| Avg. Applications Abandoned per month | 3,724 (22,346 total) | TBD | TBD |
+| Pct. Applications Abandoned per month | 19.5% | TBD | TBD |
 
 
 ## Post-Launch Questions
