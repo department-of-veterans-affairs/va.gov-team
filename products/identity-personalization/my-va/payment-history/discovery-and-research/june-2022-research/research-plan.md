@@ -81,8 +81,8 @@ We'll conduct remote usability testing over Zoom using a prototype. This method 
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/june-2022-research/conversation-guide.md)
 
-**Links to prototypes:
-- [Desktop version 1]([https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/a/pa2qY2Q/play](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/C420F965-7F88-4A6E-A886-36385E9B7C82)
+**Links to prototypes:**
+- [Desktop version 1](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/C420F965-7F88-4A6E-A886-36385E9B7C82)
 - [Desktop version 2](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/1CC7B24C-E3F9-4032-9C80-3087E1DEAC91)
 - [Mobile version 1](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/A4FB6758-495D-4468-95CE-9876FF97782C)
 - [Mobile version 2](https://www.sketch.com/s/5b39a70d-f5f1-421f-b2d6-f988cc56d7c3/prototype/a/F49A6509-A8FB-410D-AC45-1861C1DC959D)
@@ -99,7 +99,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
 #### **Primary criteria (must-haves)**
 
-- At least 50% of participants should have received education benefit or compensation/pension payments from the VA. Screener question:
+- All participants should have received education benefit or compensation/pension payments from the VA. Screener question:
 
   - Have you ever received an education, compensation, or pension payment from the VA?
 
@@ -163,7 +163,8 @@ Monday, August 1 - Friday, August 5, 2022
 
 ### Availability
 
-| Date | Time (all Eastern) |
+| Date | Time (all Eastern)|
+| ---- | ----------------- |
 | 8/1/2022 | 9am - 5pm |
 | 8/2/2022 | 9am - 11am, 12-12:45pm, 1:30-5pm |
 | 8/3/2022 | 9am - 11:30am, 1pm-5pm |
