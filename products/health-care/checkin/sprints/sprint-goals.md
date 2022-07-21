@@ -24,8 +24,6 @@
     - Finish content and pass off to CHIP/VeTEXT
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
     - Create wireframes (MVP, same as for Physical Location)
-- [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)
-    - Complete & notify clinics
 - [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
     - Create wireframes
 - [Add Check-in Process Info to Pre-Check-in Confirmation Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
@@ -66,8 +64,8 @@
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Plan & Organize remote study
     - Create prototype for language toggle
-- [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)
-    - Complete & notify clinics
+- ~~[Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)~~
+    - ~~Complete & notify clinics~~
 - [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135)
     - Create wireframes
 
