@@ -1,4 +1,4 @@
-participants# PACT Act and presumptives Veteran discovery research findings
+# PACT Act and presumptives Veteran discovery research findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Automated Benefits Delivery, Virtual Regional Office (ABD-VRO)**
 
