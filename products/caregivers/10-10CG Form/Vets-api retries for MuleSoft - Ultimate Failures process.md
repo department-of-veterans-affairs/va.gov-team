@@ -1,4 +1,4 @@
-# Vets-api retries - Catastrophic failures
+# Vets-api retries - catastrophic failures
 
 In the summer of 2022, the 10-10 Health Apps team is implementing the retry capability, so that vets-api can retry calling MuleSoft when there is a response _other than_ status codes `201` or `202`.
 
