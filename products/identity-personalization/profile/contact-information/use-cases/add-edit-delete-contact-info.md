@@ -1,5 +1,5 @@
 # Contact information: User needs to add or update contact information
-Last updated: July 18, 2022
+Last updated: July 21, 2022
 
 - If a user doesn’t have contact information on file, they’ll see a prompt to add missing information within the relevant section.  
 - They can use the “Edit” button to add or update their contact information in edit mode. This applies to:
@@ -48,9 +48,21 @@ Clicking the edit button will put the section into edit mode and reveal the nece
 N/A
 
 ## How to reproduce
+
+### Notes
+- Any LOA3 user can access contact information
+- You can test with any staging user to add/edit/remove, with the exception of the mailing address field
+
+### Add, edit, or remove contact info, except mailing address
+1. Go staging.va.gov/profile/contact-information
+2. Log in with any user **except** vets.gov.user+82 or vets.gov.user+221 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+3. Click the edit button on any section and add, edit or remove missing.
+4. If a section was blank when you logged in, remove the information you added before logging out by clicking the remove button. You don’t need to remove information you edited if something was already there.
+
+### View profile with no mailing address
 **Do not save a mailing address for either of these users**
-1. Log in with vets.gov.user+82 or vets.gov.user+221 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-2. Go staging.va.gov/profile/contact-information
+1. Go staging.va.gov/profile/contact-information 
+2. Log in with vets.gov.user+82 or vets.gov.user+221 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 3. Click the edit button on *any section except mailing address* and add missing information, or edit existing information.
 4. Remove the information you added before logging out by clicking the remove button. You don’t need to remove information you edited if something was already there.
 
