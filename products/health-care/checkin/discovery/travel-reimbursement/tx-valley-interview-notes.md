@@ -37,4 +37,5 @@ Notetaker: Lori Pusey
 - Is it okay with the travel office that all claims from PCI will be placed in manual review, since the Veteran’s appointment won’t be marked complete in CPRS and VistA? 
 - Does the PCI product team have enough information to know if we should show the travel pay question each time a Veteran uses mobile check-in on the same day? 
 - How do Veterans receive pre-authorization for expenses? 
+- Do you need to have your direct deposit set up for the first time using BTSSS to submit a claim?  
 
