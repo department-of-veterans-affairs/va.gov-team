@@ -53,7 +53,7 @@
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
 
 #### R&D Sprint Goals
-- [Beneficiary Travel - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)   
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)   
     - Decide on Metrics to Measure Success (Analytics)
     - Create wireframes for MVP prototype
     - Talk with Bay Pines & Corpus Cristi travel clerks
