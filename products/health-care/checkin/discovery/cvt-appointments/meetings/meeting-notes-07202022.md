@@ -46,8 +46,5 @@
   - Ask what logic we could use to filter out community care appointments where we have created a fake VistA appointment to indicate that the Vet has a communicate care appointment
 
 
-![image](https://user-images.githubusercontent.com/86678742/180063424-e33f3b43-fdb4-4829-b130-4ce303bc26e0.png)
-
-![image](https://user-images.githubusercontent.com/86678742/180064742-55c662cd-d432-49b3-a3cd-5016b170e50b.png)
 
 
