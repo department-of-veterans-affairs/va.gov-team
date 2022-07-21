@@ -41,37 +41,19 @@ If yes, what: lorem ipsum
 
 ## Planning:
 
-Desired date: Late Aug/early Sept 2022
+Desired date: Sept 2022
 
 ## Measuring success
 
 ### Objective: Reduce the number of Veterans that have with a "bad-address-indicator" associated with their mailing address.
 
-**KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
+**KPI**: We see at least a 50% reduction on BAI at the end of 3 months 
 
-|Field name|Updates in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|Field name|# prior to launch| One month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
 |----------|------------|------------|------------|
-|Preferred name| | | |
-|Gender identity| | | |
-
-**KPI**: We see at least a 95% success rate for retrieving this information from the backend.
-
-|Field name|% of successful retrievals in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
-|----------|------------|------------|------------|
-|Preferred name| | | |
-|Gender identity| | | |
+|BAI Indicator| | | |
 
 
-**KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
-
-[Contact information report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
-
-|Field name| Total Events May 2022 | # of monthly updates 1 month post-launch | 2 months post-launch | 3 months post-launch |
-|----------|------------|------------|------------|------------|
-|Mailing address | 29k | | | |
-|Home address |29.2k  | | | |
-|Mobile phone |14.4k  | | | |
-|Email address |14.3k  | | | |
 
 
 
