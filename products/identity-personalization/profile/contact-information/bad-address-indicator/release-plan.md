@@ -4,14 +4,14 @@
 
 ### Planning:
 
-- **Desired date range or test duration:**  early June 2022
+- **Desired date range or test duration:**  tbd
 - **Desired number of users:**  Recruiting 12 participants with a target of completing 6 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
-- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
+- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
 **Link to Research plan for UAT:**
-- Research Plan [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/research-plan.md)
-- Conversation Guide [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/uat/conversation-guide.md)
+- Research Plan [here](
+- Conversation Guide [here]
 
 ### Results
 - **Number of users:** x
