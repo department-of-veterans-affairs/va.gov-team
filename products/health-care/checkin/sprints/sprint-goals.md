@@ -1,6 +1,6 @@
 # SPRINT GOALS
 
-## 7/27/2022
+## 7/27/2022 (FUTURE)
 
 #### Planned Releases (TENTATIVE)
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
