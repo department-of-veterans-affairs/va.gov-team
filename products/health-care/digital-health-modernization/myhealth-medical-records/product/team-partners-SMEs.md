@@ -1,7 +1,7 @@
 # Team, partners, and subject-matter experts for medical records
 July 21, 2022
 
-<< This is a work in progress! >>
+## << This is a work in progress! >>
 
 ## Core MHV on VA.gov team 
 - **Product owner:** Tracey Mulrooney
