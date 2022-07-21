@@ -7,7 +7,7 @@ July 21, 2022
 - **Design lead:** Jonathan Nelson
 - **User researchers:** Megan Graham, Lauryl Zenobi
 - **Tech lead / API expert:** Patrick Vinograd
-- **My HealtheVet (MHV) designer:** It's TBD which MHV designer will work on bringing records to VA.gov. In the past, Bobby Bailey has worked on records for MHV.
+- **My HealtheVet (MHV) designer:** TBD (Note: Bobby Bailey worked on "Search my record" for MHV.)
 
 ## Main partners
 - **OCTO Health Crew Lead:** Lauren Alexanderson
