@@ -29,34 +29,31 @@ The introduction of the short form will remove questions that are not necessary 
 
 ### Objective: More health care applications submitted.
 
-
-**Key Result 1:** Increase number of applications submitted. 
-
 Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
+**Key Result 1:** Increase number of application submissions
+*Using last 6 months (Jan-June 2022) to calculate Baselines*
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| ------------ | ------------- | ------------------ | ------------------- |
+| Avg. Application starts per Month | 20.8k | TBD | TBD |
+| Avg. Submissions per Month | 13.7k | TBD | TBD |
+| Pct. Applications Completed | 66% | TBD | TBD |
 
-| KPI/Metric  | Baseline | Target | Post-Launch
-|----------------|----------------|----------------|----------------|
-|Increase # of applications submitted| TBD | TBD | TBD|
+**Key Result 2:** Reduce Sesssions / Time taken to complete application 
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| ------------ | ------------- | ------------------ | ------------------- |
+| Avg. Sessions per Submission | 1.38 | TBD | TBD |
+| Avg. Single sessions per Month | 8,103 | TBD | TBD |
+| Avg. 2 sessions per Month | 2,857 | TBD | TBD |
+| Avg. 3 or more sessions per Month | 1,764 | TBD | TBD |
 
+**Key Result 3:** Reduce abandoned applications
 
-**Key Result 2:** Reduce sessions/time taken to complete application.
-
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
-
-| KPI/Metric  | Baseline | Target | Post-Launch
-|----------------|----------------|----------------|----------------|
-|Decrease time taken to complete application| TBD | TBD | TBD|
-|Decrease # of sessions required to complete application| TBD | TBD | TBD|
-
-
-**Key Result 3:** Reduce the number of abandoned applications
-
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
-
-| KPI/Metric  | Baseline | Target | Post-Launch
-|----------------|----------------|----------------|----------------|
-|Decrease # of abandoned applications | TBD | TBD | TBD |
+*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Service info/household information section (viewers of Service Information page minus views of Medicaid/Medicare page, then determine %)*
+| KPI / Metric | Baseline: Jan-June 2022 | Post-launch Week 1 | Post-launch Month 1 |
+| ------------ | ------------- | ------------------ | ------------------- |
+| Avg. Applications Abandoned per month | 3,724 (22,346 total) | TBD | TBD |
+| Pct. Applications Abandoned per month | 19.5% | TBD | TBD |
 
 ---
 
