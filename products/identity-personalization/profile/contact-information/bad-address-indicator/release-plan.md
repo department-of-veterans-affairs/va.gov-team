@@ -5,7 +5,7 @@
 ### Planning:
 
 - **Desired date range or test duration:**  July 2022
-- **Desired number of users:**  Recruiting 12 participants with a target of completing 6 sessions
+- **Desired number of users:**  Recruiting 10 participants with a target of completing 8 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
@@ -14,11 +14,10 @@
 - Conversation Guide [here](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/41174)
 
 ### Results
-- **Number of users:** x
-- **Number of bugs identified / fixed:** x/x
-- **Types of errors logged: lorem ipsum**
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** yes/no
-If yes, what: lorem ipsum
+- **Number of users:** 8
+- **Number of bugs identified / fixed:** 0
+- **Types of errors logged: n/a
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** TBD
 
 
 ## Phase II: Staged Roll-out
