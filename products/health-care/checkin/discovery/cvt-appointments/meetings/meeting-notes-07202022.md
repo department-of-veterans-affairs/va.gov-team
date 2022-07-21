@@ -7,7 +7,7 @@
 - Ben Brasso
 
 ## Discussions
-- What are they?
+- What are CVT appointments?
   - CVT - first intro to telehealth (before smart phones)
   - Patient can be seen by a PCP other than at the location where the Doctor is located (seen virtually)
   - Provider side appt; at VA center, has a web cam; giving instructions to the PCP that is with the patient
