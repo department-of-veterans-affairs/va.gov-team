@@ -148,7 +148,8 @@ When will the thing you are testing be finalized?
 
 Please indicate the date and name of a mock participant for a pilot session.
 
-- TBD
+- Date: Tuesday, July 26, 2022 4:00pm EST
+- Name: Christia Troyer
 
 ### Research sessions
 
@@ -183,7 +184,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact: Angela Agosto
 
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Christia Troyer
 
 - Note-takers: Perigean
 
