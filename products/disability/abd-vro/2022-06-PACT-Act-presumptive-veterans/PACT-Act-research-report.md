@@ -1,14 +1,12 @@
 participants# PACT Act and presumptives Veteran discovery research findings
 
-**Office of the CTO - Digital Experience (OCTO-DE), Virtual Regional Office, Automated Benefits Delivery**
+**Office of the CTO - Digital Experience (OCTO-DE), Automated Benefits Delivery, Virtual Regional Office (ABD-VRO)**
 
 Date: July 2022
 
 [Carolyn Dew](carolyn@navapbc.com), [Shannon Ford](shannonford@navapbc.com), [Kim Ladin](kimladin@navapbc.com)
 
 [Research Report PDF] (link here)
-
-<br>
 
 **Jump to:**
 
@@ -20,8 +18,6 @@ Date: July 2022
 [Who we talked to](#who-we-talked-to)
 
 [Further research needed](#further-research-needed)
-
-<br>
 
 # Research Goals
 
@@ -191,7 +187,7 @@ Another Veteran described how he submitted a claim for a condition that had prev
 
 # Further research needed
 
-* **What strategies do Veterans use to 'beat the odds' and how does this impact how claims are processed?**. we talked to one Veteran who had submitted his claim on a new claim form because he believed it would be faster, even though he seemed to understand that it should be submitted as a supplemental claim. Strategies to 'beat the odds' indicate misalignment between VA practices and Veteran expectations.
+* **What strategies do Veterans use to 'beat the odds' and how does this impact how claims are processed?** We talked to one Veteran who had submitted his claim on a new claim form because he believed it would be faster, even though he seemed to understand that it should be submitted as a supplemental claim. Strategies to 'beat the odds' suggest misalignment between VA practices and Veteran expectations.
 * **How do Veterans decide what evidence to include with their claims?** This will be particularly true for supplemental claims where there is already research that suggests that Veterans don't understand what counts as 'new and material' information. We talked to Veterans who did not include existing PMRs, only included a personal statement, or failed to realize that their service treatment records did not include records of a key operation until after his claim had been denied twice.
 * **How would Veterans respond to receiving a preliminary rating of 0 percent in advance of a C&P exam to determine severity?** We learned that the Endowment Effect and fears of indebtedness pose high risks for issuing a preliminary rating that could go down after a C&P exam. Would eliminating this risk while opening up the opportunity for free healthcare be a desirable alternative?
 * **What are the perspectives from LGBTQ+ Veterans?** Our research participants did not include individuals from the LGBTQ+ community, and we should be sure to include those in future studies.
@@ -290,5 +286,5 @@ This research does not include the perspectives of the following marginalized Ve
 * LGBTQ+
 * Captions, Switch device, Braille reader
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2022-06-PACT-Act-presumptive-veterans/PACT-Act-recruitment-tracker.png)
+![VA-recruitment-checker](PACT-Act-recruitment-tracker.png)
 [Link to Recruitment Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
