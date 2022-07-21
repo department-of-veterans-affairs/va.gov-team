@@ -1,4 +1,4 @@
-# PACT Act and presumptives Veteran discovery research findings
+participants# PACT Act and presumptives Veteran discovery research findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Virtual Regional Office, Automated Benefits Delivery**
 
@@ -85,7 +85,7 @@ We conducted 8 one-on-one interviews with Veterans remotely over Zoom.
 
 ### Finding 1. Veterans are unfamiliar with the term 'PACT Act' and weren't sure if they would be impacted by its passage.  Veterans are similarly unfamiliar with the term 'presumptive' in describing a claim.
 
-Labels: `AUD: Veterans`, `BNFT: Finances`     `SPG: Agent Orange`, `SPG: Burn pits`
+Labels: `AUD: Veterans`, `BNFT: Finances`, `SPG: Agent Orange`, `SPG: Burn pits`
 
 Six of our eight research participants expressed that they had never heard of the PACT Act before, one had heard of it but was unclear of what it will do, and one Veteran was familiar with it and had a reasonable sense of its implications.
 
@@ -99,7 +99,6 @@ Labels: `AUD: Veterans`, `BNFT: Finances`     `SPG: Agent Orange`, `SPG: Burn pi
 Several Veterans in or study were at least somewhat familiar with the terms 'open burn pit' or 'toxic exposure' -- and a few had service-connected illnesses they believed were caused by toxic exposures.
 
 Many Veterans were unsure of whether they would qualify for presumptive toxic exposure, including at least one Veteran who said he would not be impacted by the PACT Act yet clearly fit into an eligible cohort.
-
 
 ### Finding 3. Veterans expected that signing up for the Burn Pit Registry would mean that the VA would reach out to them about claims they might be eligible for, and that data they shared would automatically be used by the VA to evaluate future claims.
 
@@ -124,7 +123,7 @@ For example, one Veteran copied the language from a previous decision letter to 
 
 Labels: `AUD: Veterans`, `BNFT: Finances`, `SPG: Agent Orange`, `SPG: Burn pits`
 
-Five Veterans shared a positive view of getting a rating without having to go to a C&P exam, particularly if they felt their condition was well documented within their medical records. They cited saving time and money and having a process that was more straightforward. Others described past C&P exams they had been to that they didn't think were useful for a previous claim.
+Five Veterans shared a positive view of getting a rating without having to go to a C&P exam, particularly if they felt their condition was well documented within their medical records. They cited saving time and money and having a process that was more straightforward. Others described past C&P exams they had been to that they didn't think were useful for rating their claim.
 
 Some Veterans expressed that if the rating were consistent with what their research suggested they were eligible for, they'd be more likely to trust the decision.
 
@@ -138,7 +137,7 @@ Two Veterans expressed concerns that skipping the exam would mean that someone u
 
 ### Finding 6. Giving the Veteran a choice about going to a C&P exam, or issuing a preliminary rating and ordering an exam, could introduce more stress and uncertainty for the Veteran.
 
-Veterans had mixed reactions to the possiblity of having a choice to go to a C&P Exam or not. Some Veterans expressed that having a choice would be good, others felt they didn't know how they might make such a decision. One Veteran expressed concern that the VA was offering that option because they saw something concerning in the records.
+Veterans had mixed reactions to the possibility of having a choice to go to a C&P Exam or not. Some Veterans expressed that having a choice would be good, others felt they didn't know how they might make such a decision. One Veteran expressed concern that the VA was offering that option because they saw something concerning in the records.
 
 In the second scenario, Veterans felt that the possibility of getting a rating and receiving payments that could later get lowered outweighed any potential benefit of getting a rating sooner. This corresponds to the [Endowment Effect](https://www.investopedia.com/terms/e/endowment-effect.asp) -- the phenomenon that people tend to value something higher if they already own it versus if they don't.
 
@@ -146,7 +145,7 @@ One Veteran pointed out an additional risk of a Veteran becoming indebted to the
 
 ### Finding 7. Veterans expressed strong support for getting notified of decisions as they're made for each contention on a multi-issue claim - *including* for denials. Only one Veteran expressed a preference for getting notified only after all issues had been decided.
 
-Veterans generally expressed a preference for finding out decisions as their made, even in the case of denials. Veterans felt that if they found out about a denial sooner, they could begin working on what they might need to do to reverse that decision or make other plans. Some Veterans cited financial hardship as a reason for wanting to hear about decisions as they're made - so they could get some money in the door faster rather than waiting for the full amount (assuming that the effective date would remain the same and that there would be retroactive pay for conditions decided later).
+Veterans generally expressed a preference for finding out decisions as they're made, even in the case of denials. Veterans felt that if they found out about a denial sooner, they could begin working on what they might need to do to reverse that decision or make other plans. Some Veterans cited financial hardship as a reason for wanting to hear about decisions as they're made - so they could get some money in the door faster rather than waiting for the full amount (assuming that the effective date would remain the same and that there would be retroactive pay for conditions decided later).
 
 One Veteran who had worked for the VA after she separated from service felt this was a good idea, but was concerned that most Veterans don't understand how their total rating is calculated and that the VA would need to both clearly explain the impact of subsequent decisions on their total monthly payment, and ensure that Veterans would not be required to pay back any money that the VA paid out by mistake.
 
@@ -186,7 +185,7 @@ Another Veteran described how he submitted a claim for a condition that had prev
     * The first time filing a claim for those who work with a third-party organization usually involves a comprehensive review of their medical records, and a large multi-issue claim where any possible condition is claimed to get the highest rating possible. Subsequent claims are often smaller in scope -- either claims for increase for a smaller subset of conditions, supplemental claims for conditions that weren't granted or were granted at a lower level than the Veteran felt they deserved, or appeals or higher-level reviews.
     * Veterans who file on their own either do an extensive amount of research online to try to understand the process (including, in some cases, reading the CFR and the Adjudication Manual), or submit claims that are unlikely to be granted (due to lack of supporting evidence, or submitting after a condition has been resolved).
 * **Consider changing VBA policy to notify the Veteran of decisions on conditions on multi-issue claims as they're decided, _even for denials_. This will need to be paired with thoughtful communications design and testing.** The VA should incrementally test this process a pilot program prior to a full release, and closely observe Veterans' reactions to this process on real claims. Splitting multi-issue claims where one or some contentions can be pulled into the Rapid Ready-for-Decision (RRD) process would be a good opportunity to test this process.
-    * Veterans largely expressed preferences to find out the desion on a specific contention as soon as it's decided, rather than wait for all issues on a claim to be decided. This included for denials. Benefits of finding out about denials early included the ability to start gathering additional evidence and start the process of reversing that decision.
+    * Veterans expressed a preference to learn about a decision on a specific contention as soon as it's decided, rather than wait for the VA to decide all issues on a claim. This included for denials. Benefits of finding out about denials early included the ability to start gathering additional evidence and start the process of reversing that decision.
     * One Veteran compared this to having items in your Amazon order delivered as soon as they're available versus waiting until they can all ship together. Her preference was to not wait.
     * Some Veterans also check the claims status tracker daily to see the status of their claims -- and a lack of change for a long period of time can exacerbate stress and anxiety. By updating the status of specific contentions as they're decided, the VA would be able to provide more frequent updates through the Claim Status Tracker and improve the Veteran experience.
 
@@ -197,9 +196,9 @@ Another Veteran described how he submitted a claim for a condition that had prev
 # Further research needed
 
 * **What strategies do Veterans use to 'beat the odds' and how does this impact how claims are processed?**. we talked to one Veteran who had submitted his claim on a new claim form because he believed it would be faster, even though he seemed to understand that it should be submitted as a supplemental claim. Other strategies to 'beat the odds' indicate misalignment between VA practices and Veteran expectations.
-* **How do Veterans decide what evidence to include with their claims?** This will be particularly true for supplemental claims where there is already research that suggests that Veterans don't understand what counts as 'new and material' information. We talked to Veterans who did not include existing PMRs, only included a personal statement, or failed to realize that their service treatment records did not include records ofa key operation until after his claim had been denied twice.
-* **How would Veterans respond to receiving a preliminary rating of 0 percent in advance of a C&P exam to determine severity?** We learned that the Endowment Effect and fears of indebtedness pose high risks for issuing a preliminary rating that could go down after a C&P exam. Would eliminating this risk while opening up the opportunity for free healthcare be a desireable alternative?
-* **What are the perspectives from LGBTQ+ Veterans?** Our research particpants did not include individuals from the LGBTQ+ community, and we should be sure to include those in future studies.
+* **How do Veterans decide what evidence to include with their claims?** This will be particularly true for supplemental claims where there is already research that suggests that Veterans don't understand what counts as 'new and material' information. We talked to Veterans who did not include existing PMRs, only included a personal statement, or failed to realize that their service treatment records did not include records of a key operation until after his claim had been denied twice.
+* **How would Veterans respond to receiving a preliminary rating of 0 percent in advance of a C&P exam to determine severity?** We learned that the Endowment Effect and fears of indebtedness pose high risks for issuing a preliminary rating that could go down after a C&P exam. Would eliminating this risk while opening up the opportunity for free healthcare be a desirable alternative?
+* **What are the perspectives from LGBTQ+ Veterans?** Our research participants did not include individuals from the LGBTQ+ community, and we should be sure to include those in future studies.
 
 # Appendix
 
@@ -213,8 +212,6 @@ Another Veteran described how he submitted a claim for a condition that had prev
 ## Tools used for Synthesis
 
 [Synthesis Mural](https://app.mural.co/t/nava4113/m/nava4113/1656427883253/5a475cd4d1b6a3db50fc970013260123630d4f1b?sender=carolyn1198)
-
-[comment]: <> (## Other supporting documents createde.g. user flows, personas, etc.)
 
 ## Secondary research
 
@@ -285,12 +282,12 @@ Race:
 * Biracial: 0
 * Asian: 1
 * Native: 0
-* Unkown: 1
+* Unknown: 1
 
 
 Disability and Assistive Technology (AT):
 
-***Note:** As this was discovery research, we did not test with assistive technology or for mobile users. Since we were focused on veterans who had applied for VA disability benefits, all veterans in the study could be considered as having a disability – however this may not have a direct or discernable impact their use of digital technology.*
+***Note:** As this was discovery research, we did not test with assistive technology or for mobile users. Since we were focused on veterans who had applied for VA disability benefits, all veterans in the study could be considered as having a disability – however this may not have a direct or discernible impact their use of digital technology.*
 * Cognitive: unknown
 
 
