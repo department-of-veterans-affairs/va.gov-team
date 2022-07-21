@@ -288,7 +288,9 @@ While on the status page, one participant commented on how it appeared as if the
 Further research should be conducted involving Veterans who have both debts and copays within the last 6 months.
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-* Identify as Women, Asian, or LGBTQ+
+* Gender: Women
+* Race: Asian
+* LGBTQ+
 * Other than honorable discharge
 * Immigrant origin
 * Expat (living abroad)
