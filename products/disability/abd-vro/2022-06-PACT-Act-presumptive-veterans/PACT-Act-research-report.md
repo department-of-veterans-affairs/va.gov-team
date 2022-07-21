@@ -207,10 +207,10 @@ Another Veteran described how he submitted a claim for a condition that had prev
 
 ## Secondary research
 
-[2022-May: PACT Act research:RVSRs](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FForms%2FAllItems%2Easpx&isAscending=false&sortField=LinkFilename&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D06%20PACT%20Act%20RVSR%20research%2F2022%2DMay%5FPACT%5FAct%5Fresearch%5FRVSRs%5F%2Epdf&parent=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D06%20PACT%20Act%20RVSR%20research) (on VA Sharepoint)
-[2022 June: PACT Act VSO research report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FForms%2FAllItems%2Easpx&isAscending=false&sortField=LinkFilename&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D05%20%2D%20PACT%20Act%20VSO%20Research%2F2022%2DJune%5F%2D%5FPACT%5FAct%5FVSO%5Fresearch%5F%2D%5FReport%2Epdf&parent=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D05%20%2D%20PACT%20Act%20VSO%20Research) (on VA Sharepoint)
-[Supplemental Claims Research Top Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/top-line-summary.md)
-[Automating Claim ID type in 526 applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2019/synthesis.md)
+* [2022-May: PACT Act research:RVSRs](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FForms%2FAllItems%2Easpx&isAscending=false&sortField=LinkFilename&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D06%20PACT%20Act%20RVSR%20research%2F2022%2DMay%5FPACT%5FAct%5Fresearch%5FRVSRs%5F%2Epdf&parent=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D06%20PACT%20Act%20RVSR%20research) (on VA Sharepoint)
+* [2022 June: PACT Act VSO research report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FForms%2FAllItems%2Easpx&isAscending=false&sortField=LinkFilename&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D05%20%2D%20PACT%20Act%20VSO%20Research%2F2022%2DJune%5F%2D%5FPACT%5FAct%5FVSO%5Fresearch%5F%2D%5FReport%2Epdf&parent=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDesign%20research%2F2022%2D05%20%2D%20PACT%20Act%20VSO%20Research) (on VA Sharepoint)
+* [Supplemental Claims Research Top Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/top-line-summary.md)
+* [Automating Claim ID type in 526 applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2019/synthesis.md)
 
 ## Who we talked to
 
@@ -287,4 +287,5 @@ This research does not include the perspectives of the following marginalized Ve
 * Captions, Switch device, Braille reader
 
 ![VA-recruitment-checker](PACT-Act-recruitment-tracker.png)
+
 [Link to Recruitment Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
