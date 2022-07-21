@@ -91,7 +91,6 @@ Six of our eight research participants expressed that they had never heard of th
 
 Similarly, two participants had never heard the term "presumptive" in relation to claims, and three had heard the terms but were unclear of its meaning. Only three of the eight participants knew what a presumptive conditions was.
 
-
 ### Finding 2. Veterans are somewhat more familiar with the terms 'open burn pit' and 'toxic exposure', although some who would qualify as having been presumptively exposed did not think they would.
 
 Labels: `AUD: Veterans`, `BNFT: Finances`     `SPG: Agent Orange`, `SPG: Burn pits`
@@ -110,7 +109,6 @@ Veterans were confused about what the Burn Pit Registry is, including those who 
 
 > "[The registry is] a tracking mechanism for them to find you, or research studies you might participate in."
 
-
 ### Finding 4. Veterans who submitted claims on their own would describe their conditions using language from the VA, suggested by an online form, or used an official diagnoses from their doctors. Those who worked with VSOs and other third party organizations left these decisions up to those organizations.
 
 Labels: `AUD: Veterans`, `BNFT: Finances`, `SPG: Agent Orange`, `SPG: Burn pits`
@@ -127,11 +125,9 @@ Five Veterans shared a positive view of getting a rating without having to go to
 
 Some Veterans expressed that if the rating were consistent with what their research suggested they were eligible for, they'd be more likely to trust the decision.
 
-
 > "I think in my case I'm not sure that the medical officer who did that physical would have made any difference at all. He didn't find anything more. […] I don't think there was any value added. I think the VA could have easily taken from my medical records."
 
 Two Veterans expressed concerns that skipping the exam would mean that someone unqualified would be making a decision on their claim without a lot of evidence. And two Veterans were concerned that skipping the exam would open the VA up to fraud, and that they understood why the exam was necessary and didn't mind making themselves available for it.
-
 
 > "I would question what information they used, and whether that individual is qualified to make the decision or not."
 
@@ -195,7 +191,7 @@ Another Veteran described how he submitted a claim for a condition that had prev
 
 # Further research needed
 
-* **What strategies do Veterans use to 'beat the odds' and how does this impact how claims are processed?**. we talked to one Veteran who had submitted his claim on a new claim form because he believed it would be faster, even though he seemed to understand that it should be submitted as a supplemental claim. Other strategies to 'beat the odds' indicate misalignment between VA practices and Veteran expectations.
+* **What strategies do Veterans use to 'beat the odds' and how does this impact how claims are processed?**. we talked to one Veteran who had submitted his claim on a new claim form because he believed it would be faster, even though he seemed to understand that it should be submitted as a supplemental claim. Strategies to 'beat the odds' indicate misalignment between VA practices and Veteran expectations.
 * **How do Veterans decide what evidence to include with their claims?** This will be particularly true for supplemental claims where there is already research that suggests that Veterans don't understand what counts as 'new and material' information. We talked to Veterans who did not include existing PMRs, only included a personal statement, or failed to realize that their service treatment records did not include records of a key operation until after his claim had been denied twice.
 * **How would Veterans respond to receiving a preliminary rating of 0 percent in advance of a C&P exam to determine severity?** We learned that the Endowment Effect and fears of indebtedness pose high risks for issuing a preliminary rating that could go down after a C&P exam. Would eliminating this risk while opening up the opportunity for free healthcare be a desirable alternative?
 * **What are the perspectives from LGBTQ+ Veterans?** Our research participants did not include individuals from the LGBTQ+ community, and we should be sure to include those in future studies.
@@ -220,9 +216,6 @@ Another Veteran described how he submitted a claim for a condition that had prev
 [Supplemental Claims Research Top Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/top-line-summary.md)
 [Automating Claim ID type in 526 applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2019/synthesis.md)
 
-
-
-
 ## Who we talked to
 
 **Recruitment criteria**
@@ -236,17 +229,14 @@ Audience segment:
 * Caregivers: 0
 * Family members of a Veteran: 0
 
-
 Gender:
 * Male: 5
 * Female: 3
-
 
 LGBTQ+:
 * Transgender: 0
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
 * Gay, lesbian, or bisexual: 0
-
 
 Devices used during study: _Not applicable: interviews were open-ended and we did not test an interface_
 
@@ -258,7 +248,6 @@ Age:
 * 65+: 2
 * Unknown: 0
 
-
 Education:
 * High school degree or equivalent: x
 * Some college (no degree): 3
@@ -268,12 +257,10 @@ Education:
 * Doctorate degree: 0
 * Unknown: 0
 
-
 Geographic location:
 * Urban: 6
 * Rural: 2
 * Unknown: 0
-
 
 Race:
 * White: 4
@@ -284,16 +271,12 @@ Race:
 * Native: 0
 * Unknown: 1
 
-
 Disability and Assistive Technology (AT):
 
 ***Note:** As this was discovery research, we did not test with assistive technology or for mobile users. Since we were focused on veterans who had applied for VA disability benefits, all veterans in the study could be considered as having a disability – however this may not have a direct or discernible impact their use of digital technology.*
 * Cognitive: unknown
 
-
 ## Underserved groups we haven’t talked to
-
-
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
