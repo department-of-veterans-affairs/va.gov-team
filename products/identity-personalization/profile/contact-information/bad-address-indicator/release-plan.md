@@ -57,8 +57,6 @@ Desired date: Sept 2022
 ### 1-month results:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
@@ -67,8 +65,6 @@ Desired date: Sept 2022
 ### 2-month results:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
@@ -77,8 +73,6 @@ Desired date: Sept 2022
 ### 3-month results:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
