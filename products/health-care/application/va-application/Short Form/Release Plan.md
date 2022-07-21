@@ -25,42 +25,42 @@
 ## Phase 2: Staged Rollout
 
 ### Planning
-- Launch Go / No Go: 07/11/2022
-- Desired date range: 7/11/2022 - 7/29/2022
+- Launch Go / No Go: 07/21/2022
+- Desired date range: 7/25/2022 - 7/29/2022
 - Success criteria to be reviewed prior to advancing rollout to the next stage
   - Completion rate of short form
   - Minimal to no increase in drop off rate in short form sections
 - Dashboards showing success criteria metrics
   - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
   - 
 
 ### Phased Rollout
-- 10% of users (1 week): 07/11/2022
-- 50% of users (1 week): 07/18/2022
-- 100% of users: 07/25/2022
+- 5% of users (2 days): 07/25/2022 - 7/27
+- 100% of users (1 week): 07/27/2022 (based on positive results)
 
 
 ## Go Live!
 
 ### Planning
 - Desired date: 07/11/2022
-- Actual date: TBD
+- Actual date: 07/28/2022
 
 **Key Result:** Increase number of application submissions
 *Use last 6 months to calculate Baselines*
 | KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Submissions per Month | TBD | TBD | TBD |
-| Pct. Applications Completed | TBD | TBD | TBD |
+| Avg. Submissions per Month | 13.5k | TBD | TBD |
+| Pct. Applications Completed | 44.2% | TBD | TBD |
 
 **Key Result:** Reduce Sesssions / Time taken to complete application 
 | KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
-| Avg. Sessions per Submission | TBD | TBD | TBD |
+| Avg. Sessions per Submission | 1.38 | TBD | TBD |
 
 **Key Result:** Reduce abandoned applications
 *To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the household information section*
-| KPI / Metric | Baseline: TBD | Post-launch Week 1 | Post-launch Month 1 |
+| KPI / Metric | Baseline: 3/22 - 6/22 | Post-launch Week 1 | Post-launch Month 1 |
 | ------------ | ------------- | ------------------ | ------------------- |
 | Avg. Applications Abandoned | TBD | TBD | TBD |
 | Pct. Applications Abandoned | TBD | TBD | TBD |
