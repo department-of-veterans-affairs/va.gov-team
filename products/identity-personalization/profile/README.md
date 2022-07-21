@@ -16,7 +16,6 @@ Last Updated: May 24, 2022
 |Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-|Mark Dewey | FE Engineer | mark.dewey@gcio.com |
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
