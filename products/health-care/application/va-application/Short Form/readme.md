@@ -91,8 +91,6 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - June 2022: Complete QA
 - July 2022: Launched to users
 
-
-
 #### Initiative Launch Dates
 - *Target Launch Date*
   - 4/7/2022
@@ -133,6 +131,6 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Lauren Alexanderson
+- Contact(s): Lauren Alexanderson, Patrick Bateman
  
 </details>
