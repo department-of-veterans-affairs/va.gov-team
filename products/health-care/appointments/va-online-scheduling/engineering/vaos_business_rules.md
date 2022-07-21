@@ -107,6 +107,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - The latest date allowed for scheduling is 395 days after the current date
     - This may be further limited if the chosen VistA clinic has a max booking date that's less than 395 days. If that's the case, the front end will not receive any slots after this date
 - The times shown are determined by the time slots returned to the front end based on the configuration of the selected VistA clinic
+     - The times shown are in the time zone configured for the selected VistA clinic. 
 - If the preferred date is the current date, then an urgent care warning is shown above the calendar
 - Once a time is chosen, the user is sent to the reason for visit page
 
