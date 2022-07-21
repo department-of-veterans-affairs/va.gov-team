@@ -4,7 +4,7 @@
 
 ### Planning:
 
-- **Desired date range or test duration:**  tbd
+- **Desired date range or test duration:**  July 2022
 - **Desired number of users:**  Recruiting 12 participants with a target of completing 6 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
@@ -25,7 +25,7 @@ If yes, what: lorem ipsum
 
 ### Planning:
 
-- **Desired date range:** mid-June 2022.
+- **Desired date range:** Late Aug/early Sept. 2022
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** The feature will be behind a feature flag.
      - 25% of users (3-5 days), Dates: ticket 1
      - 50% of users (3-5 days), Dates:  ticket 2
@@ -41,11 +41,11 @@ If yes, what: lorem ipsum
 
 ## Planning:
 
-Desired date: June '22
+Desired date: Late Aug/early Sept 2022
 
 ## Measuring success
 
-### Objective: Allow people to more accurately define themselves within the VA.
+### Objective: Reduce the number of Veterans that have with a "bad-address-indicator" associated with their mailing address.
 
 **KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
 
