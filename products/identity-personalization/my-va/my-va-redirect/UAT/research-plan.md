@@ -113,9 +113,9 @@ August 1 - August 4, 2022
 
 | Date       | Times (Eastern) |  Notes | 
 | ---------- | --------------- | --------------- |
-| August 1 | 9am-4:30pm |
+| August 1 | 9am-4:30pm | No screenreader users before 10am
 | August 2 | 10am-4:30pm | |
-| August 3 | 9am-4:30pm |	
+| August 3 | 9am-4:30pm |  No screenreader users before 10am	
 | August 4 | 10am-3pm, 4-4:30pm |	
 
 ## Team Roles	
