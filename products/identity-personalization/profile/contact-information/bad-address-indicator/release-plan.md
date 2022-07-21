@@ -47,13 +47,39 @@ Desired date: Sept 2022
 
 ### Objective: Reduce the number of Veterans that have with a "bad-address-indicator" associated with their mailing address.
 
-**KPI**: We see at least a 50% reduction on BAI at the end of 3 months 
+**KPI**: We see at least a 50% reduction for BAI at the end of 3 months 
 
-|Field name|# prior to launch| One month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
-|----------|------------|------------|------------|
-|BAI Indicator| | | |
-
-
+ Desired date: mm/dd/yy
+- Post-launch: xx lorem ipsum
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 
+### 1-month results:
+- Number of unique users: x
+- Post-launch KPI 1 actual: xx lorem ipsum
+- Post-launch KPI 2 actual: xx lorem ipsum
+- Post-launch KPI 3 actual: xx lorem ipsum
+- Any issues with VA handling/processing?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- If yes, what: lorem ipsum
 
+### 2-month results:
+- Number of unique users: x
+- Post-launch KPI 1 actual: xx lorem ipsum
+- Post-launch KPI 2 actual: xx lorem ipsum
+- Post-launch KPI 3 actual: xx lorem ipsum
+- Any issues with VA handling/processing?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- If yes, what: lorem ipsum
+
+### 3-month results:
+- Number of unique users: x
+- Post-launch KPI 1 actual: xx lorem ipsum
+- Post-launch KPI 2 actual: xx lorem ipsum
+- Post-launch KPI 3 actual: xx lorem ipsum
+- Any issues with VA handling/processing?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- If yes, what: lorem ipsum
