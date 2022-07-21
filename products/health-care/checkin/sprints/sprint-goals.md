@@ -5,7 +5,6 @@
 #### Planned Releases (TENTATIVE)
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
-- [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
 
 #### Discovery Sprint Goals (TENTATIVE)
@@ -18,6 +17,8 @@
 - [CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Meet with VAOS to verify logic for identifying CVT appointments
     - Agree on basic user workflow & backend logic 
+- [Check-in for Public Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
+    - Walk through what we have to see what needs to change
 
 #### Design & Content Sprint Goals (TENTATIVE)
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
@@ -36,8 +37,6 @@
     - Support CHIP team as necessary for CHIP api
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Test & release   
-- [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
-    - Complete, test & release
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
     - Complete, test & release
 - Bugs & Tech Debt
