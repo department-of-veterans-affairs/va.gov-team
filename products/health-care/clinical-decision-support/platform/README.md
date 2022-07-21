@@ -25,6 +25,7 @@ Link to Jira if applicable:
 
 ### Team Members
 OCTO-DE/DEPO:
+- Shane Elliott (VA OCTO)
 - Dr. Stefany Y Holguin (VA OCTO, PIF, Product)
 - Varoon Mathur (VA OCTO, PIF, Data)
 
