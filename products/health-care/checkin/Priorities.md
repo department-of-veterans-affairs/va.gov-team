@@ -20,7 +20,6 @@
 | [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)| In Progress||4|1|2| Dev work merged to main, remaining work is SMS content |
 | [Spanish Support- Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)| In Progress||1|1|4| Need to send screenshots to SD |
 | [Tagalog Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788)| In Progress||1||3| Waiting on SD QA |
-| [Poster Modifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42621)| Ready for Dev ||1|1|| Talk w/ Shawn Adams - how to push out updates |
 | [Physical Location Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42794)| Ready for Dev||3|2|2||
 | [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) | Ready for Dev ||2||| [CHIP ticket](https://app.zenhub.com/workspaces/chip-api-6149f6401b0b3c001219802f/issues/department-of-veterans-affairs/chip/870) is in QA |
 | [Type of Care & Doctor’s Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)| Needs wireframes |7|4||2| CHIP work is done |
