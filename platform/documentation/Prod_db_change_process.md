@@ -11,7 +11,7 @@ This process document intends to outline the steps to be taken in order to obtai
     - If this isn’t possible it is suggested to coordinate with Platform leadership in order to obtain assistance with running the rake task in production.
 - PR for rake task is approved by requesting teams engineering lead AND someone from the Console Services team
 - All required documents are included in the PR prior to approval, approving authority confirms all documents (except prod change proof) are within the PR.
-- Rake task created within the vets-api repo in the production rake task folder (+add link) as a PR
+- Rake task created within the vets-api repo in the [production rake task folder](https://github.com/department-of-veterans-affairs/vets-api/tree/master/rakelib/prod) as a PR
 - Ensure your rake task is Idempotent and transactional
     - Idempotent: Ensure we are able to run them over and over again and get to the same end state
     - Transactional: If it fails, the transaction is rolled back and no damage is done
