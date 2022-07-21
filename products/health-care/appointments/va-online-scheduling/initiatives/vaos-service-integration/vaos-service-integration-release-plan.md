@@ -6,7 +6,7 @@ Work for the vaos service integration is broken up into 4 toggles:
 - Request-related services (va_online_scheduling_vaos_service_requests)
 - VA VistA-based appointments (va_online_scheduling_vaos_service_va_appointments)
 
-For this launch, the staged rollout of each toggle will happen consecutively (not concurrently).
+For this launch, the rollout of each toggle will happen concurrently in order to avoid requests being routed to different systems at the same time.
 
 ---
 
@@ -17,44 +17,66 @@ All of the following are required before VAOS frontend enables the toggles for i
 - [ ] Business Stakeholders approved Veteran-facing launch
 - [ ] VAOS Product Owner approved Veteran-facing launch
 
-## Phase I: va_online_scheduling_facilities_service_v2
+## Phase I: Code Deployment of VAOS Service Integration
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date: 
+  - _VAOS Service Integration Code will be deployed to production on 08/02/22 preferably early morning (after 3am and prior to 8am)_
+- How will you make the product available in production while limiting the number of users who can find/access it:  
+  - _During this phase, code will be deployed to production but all feature flags will be disabled.  Commmunity Care appointment requests will continue to be sent to Scheduling Manager_
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
+  - _Success will be determined by monitoring the current [Grafana Dashboard](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?orgId=1&from=now-24h&to=now&refresh=15m).  After deployment:_  
+    - [Sum of Errors](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=6&orgId=1&from=now-7d&to=now&refresh=15m) should be less than 10 errors for any 10 minute period  
+    - [Breaker Skipped Alert](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=4&orgId=1&from=now-7d&to=now&refresh=15m) should not register any alerts  
+    - [Average VAOS Latency](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=2&orgId=1&from=now-7d&to=now&refresh=15m) should be less than 5s
+- Links to dashboard(s) showing "success criteria" metrics:
+  - [Grafana Dashboard](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?orgId=1&from=now-24h&to=now&refresh=15m)  
+  - [Sum of Errors](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=6&orgId=1&from=now-7d&to=now&refresh=15m)  
+  - [Breaker Skipped Alert](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=4&orgId=1&from=now-7d&to=now&refresh=15m)  
+  - [Average VAOS Latency](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=2&orgId=1&from=now-7d&to=now&refresh=15m)
 
 ### Stage A: Canary
 
 #### Planning
 
-- Percentage of users: 5%
-- Length of time: 1 hr
+- Success metrics to be monitored by VAOS Front End engineering and product management teams
+- Issues to be reported to:
+  - 
+- Percentage of users: 0%
+- Length of time: 0-4 hrs
 
 #### Results:
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Metrics at this stage (per your "success criteria"):
+  - Sum of Errors = 
+  - Breaker Skipped Alert = 
+  - Average VAOS Latency = 
+- Was the data submitted (if any) easy for VA to process?: yes/no
+- Types of errors logged: 
 
 ### Stage B: moderate
 
 #### Planning
 
-- Percentage of users: 
-- Length of time: 
+- Success metrics to be monitored by VAOS Front End product management team
+- VAOS Front End engineering team on-call for any issues reported
+- Issues to be reported to:
+  - 
+- Percentage of users: 0%
+- Length of time: 4-48 hrs
 
 #### Results:
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Metrics at this stage (per your "success criteria"): 
+  - Sum of Errors = 
+  - Breaker Skipped Alert = 
+  - Average VAOS Latency = 
+- Was the data submitted (if any) easy for VA to process?: yes/no
+- Types of errors logged: 
 
-## Phase II: va_online_scheduling_vaos_service_requests
-
+## Phase II: VAOS Service Interation Go-Live in Production
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
+- Desired date range: _TBD by Office of Community Care_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
