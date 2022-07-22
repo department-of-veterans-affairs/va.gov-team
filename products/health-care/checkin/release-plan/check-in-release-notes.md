@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 7/22/2022
-- Added the physical location to the appointment information displayed during Pre-Check-in and Check-in so that the Veteran will know the exact location for their appointment
+- Added the physical location to the appointment information displayed during Pre-Check-in and Check-in so that the Veteran will know the exact location of their appointment
     - [Epic 42794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42794)
 
 ### 7/19/2022
