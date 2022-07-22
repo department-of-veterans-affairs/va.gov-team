@@ -48,7 +48,7 @@ Other key moments this research touches key moments in the Veteran journey are:
 
 - Validate if it's intuitive to Veterans how to navigate between their debts and copay bills 
 
-- Verify the labeling of ‘debts’, ‘bills’, and ‘balances’ as they relate to benefit debts and copay statements  
+- Verify the labeling of ‘debt’, 'copay', and 'bills'
 
 
 
