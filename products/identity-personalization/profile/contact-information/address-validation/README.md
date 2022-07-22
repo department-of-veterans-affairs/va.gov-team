@@ -27,8 +27,8 @@ These are the folks that were responsible for the original work in 2019/2020:
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Brad Conley | FE Engineer| bconley@governmentcio.com |
+|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+|Tom Harrison | BE Engineer| tom.harrison@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
 |Jen Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
