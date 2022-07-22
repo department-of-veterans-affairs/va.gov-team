@@ -21,7 +21,7 @@ What we know already/solid bets:
 - Top tasks*
   - Make an appointment
   - Ask VA (AVA) funnel
-- Basic location information (mostly a bet?)
+- Basic location information 
   - Address, link to directions
   - Photo of facility
   - Contact info e.g. phone, contact centers (what are the questions Veterans want answered by calling the phone number(s)?)
@@ -45,12 +45,12 @@ What we know already/solid bets:
  What we want to learn:
 - Top tasks (needs add'l research)
   - What else is available (e.g. Talk to someone online?) and do Veterans want that?
-- Basic location information (mostly a bet?)
+- Basic location information 
   - How important to the Veteran is the relationship of "child" locations to the RO
   - Do Veterans understand the different types of facilities (or does that matter?)
   - What are the questions Veterans want answered by calling the phone number(s)?
   - Prepare for your visit
-    - What to bring (or is this in services?)
+    - What to bring (or is this in services? or both?)
     - What else do Veterans need in order to be prepared for a visit (e.g. link to find a form?)
  - Services
   - Is the service delivery the same across all locations nationally or locally nuanced?
