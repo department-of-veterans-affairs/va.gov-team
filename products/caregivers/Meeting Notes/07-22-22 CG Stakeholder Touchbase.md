@@ -34,3 +34,32 @@
                - Allowing for those applications to have extra attention
      - **CG team response**: Concerns raised about sending invalid applications, creating additional burden on support teams.
           - Health Apps team has a ticket in the backlog to dive into any details on whether the MPI errors are seen for actual Veterans or erroneous entries.
+
+### **Notes from Tham**
+- ISSUE: When someone applies as a Primary Caregiver, it is being sent as a Secondary Caregiver (caregiver moving from Primary slot to Secondary)
+     - WHERE: In Prod
+     - Application Received:  6/2/2022 12:04 PM
+- Need specific information like - Date and Time, when the data came across (should be within 30 days)
+     - AI Ramesh - Ramesh will continue to review the examples provided by Becca. Ramesh will compare to what we received FROM Mulesoft
+     - AI Rebecca - continue to send examples from the field
+ 
+- Heather is working on the SOP for 2 catastrophic failure instances and she needs the below information;
+     - Mulesoft downtime numbers to outline the retry intervals before determining a "catastrophic failure".
+          - The average downtime that MuleSoft has experienced since implementation
+          - The peak downtime that MuleSoft has experienced since implementation
+     - Action Item: Mulesoft DTC team to provide with the numbers/comments
+ 
+- stage.vapi.va.gov downtime, getting 503s when trying to submit applications
+     - Ramesh and Lihan confirmed on slack message – this issue is resolved  7/22 - 12:30PM
+ 
+- Veteran ICN
+     - Looking into from VA.gov  -- Lihan is working on it, Feasible
+
+- AI -David to begin making testing plan
+     - Do we do testing in prod?
+     - How do we do load testing?
+     - How do we do negative testing?
+     - dev.va.gov (lowest, least stable)
+     - staging.va.gov (non-prod)
+     - va.gov (prod)
+          - Scheduling to make testing on Oct 1st
