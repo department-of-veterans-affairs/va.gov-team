@@ -2,8 +2,9 @@
 
 ## What we need to do
 
-- Research, design, and write new VBA benefits services taxonomy
-- Build VBA benefits services taxonomy in Drupal, and integrate into the Facilities API
+- Research, design, and write new VBA benefits services taxonomy (as necessary)
+- Build VBA benefits services taxonomy in Drupal
+- Integrate into the Facilities API
 
 ## Current list of services
 
