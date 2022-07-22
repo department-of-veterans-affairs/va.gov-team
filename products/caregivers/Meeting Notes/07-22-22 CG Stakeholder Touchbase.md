@@ -40,8 +40,8 @@
      - WHERE: In Prod
      - Application Received:  6/2/2022 12:04 PM
 - Need specific information like - Date and Time, when the data came across (should be within 30 days)
-     - AI Ramesh - Ramesh will continue to review the examples provided by Becca. Ramesh will compare to what we received FROM Mulesoft
-     - AI Rebecca - continue to send examples from the field
+     - [ ] AI Ramesh - Ramesh will continue to review the examples provided by Becca. Ramesh will compare to what we received FROM Mulesoft
+     - [ ] AI Rebecca - continue to send examples from the field
  
 - Heather is working on the SOP for 2 catastrophic failure instances and she needs the below information;
      - Mulesoft downtime numbers to outline the retry intervals before determining a "catastrophic failure".
