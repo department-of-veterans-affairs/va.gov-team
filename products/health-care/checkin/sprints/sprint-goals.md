@@ -9,16 +9,21 @@
 
 #### Discovery Sprint Goals (TENTATIVE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finalize MVP Wireframes    
+    - Finalize MVP Prototype Wireframes    
+    - Create conversation guide
+    - Test Prototype with users
+    - Get answers to questions we have
 - [July Research](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38256)
-    - Finish synthesis & create study report
+    - Finish synthesis 
+    - Create study report
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Schedule interviews through Perigean
-- [CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
+    - Schedule interviews
+    - Create Prototype for new language toggle
+- [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Meet with VAOS to verify logic for identifying CVT appointments
-    - Agree on basic user workflow & backend logic 
+    - Define basic user workflow & backend logic
 - [Check-in for Public Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Walk through what we have to see what needs to change
+    - Walk through Pre-Check-in & Check-in to decide what needs to change to support a public device
 
 #### Design & Content Sprint Goals (TENTATIVE)
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
