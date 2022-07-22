@@ -45,6 +45,7 @@
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
     - Complete, test & release
 - Bugs & Tech Debt
+    - [Many requests are being made to the pre-check-in controller without a token](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44705)
     - [Create Cypress screenshot scripts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44682)
     - [Brainstorm Delivering Login/General Errors Up the Chain to Staff-Facing Applications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44360)
         - Investigate & discuss with team
