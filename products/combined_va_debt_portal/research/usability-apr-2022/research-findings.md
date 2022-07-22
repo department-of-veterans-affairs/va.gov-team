@@ -2,7 +2,7 @@
 
 # Combined Debt Portal Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Combined Debt Portal,  The Debt Resolution Team**
+**Office of the CTO - Digital Experience (OCTO-DE), Combined Debt Portal,  The Debt Resolution Team / Benefits Team 2**
 
 Date: 07/07/2022
 
