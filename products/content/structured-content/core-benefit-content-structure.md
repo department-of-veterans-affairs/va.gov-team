@@ -2,7 +2,9 @@
 
 ## Goal
 
-Structure core benefit content as individual fields that content authors can display in various ways across the Veteran benefit content ecosystem. For example, the main VA.gov website, a facility website, a campaign landing page, the mobile app, or the chat bot can all easily serve up a brief "benefit description" or "eligibility requirements description" with a link to more information.
+Structure core benefit content as individual, centralized fields that content authors can repurpose in various ways across the Veteran benefit content ecosystem.
+
+For example,  facility website, a campaign landing page, the mobile app, or the chat bot can all easily serve up a brief "benefit description" or "eligibility requirements description" or "application review time" with a link to more information.
 
 ## Working content fields and categories/relationships
 
