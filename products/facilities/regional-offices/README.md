@@ -48,3 +48,17 @@ We need to reach parity with our new Regional Office/benefits products so we can
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
 - VBA's Veteran Readiness and Employment sites are both stand-alone but also often times located at VAMCs or Vet Centers(VocRehab is built into the VHA health services taxonomy for this reason)
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
+
+## VBA Facility types
+
+The data call in August 2021 defined these as the different types of VBA Facilities:
+
+| VBA Facility type | Definition  |
+| --- | --- |
+| Regional Benefit Office | This is the main VBA facility of jurisdiction that provide a listing of all VA regional offices (RO), an email address for contacting the regional office director, and a listing of additional VA facilities located in each state. VA regional offices assist Veterans, Service Members and dependents with applying for benefits, compensation, education and training, Veteran readiness and employment, home loans, life insurance, pension, appeals, and other services. |
+| Satellite Office  | This is a facility not within an RO that may primarily provide VR&E services, but also includes other services and VBA representatives from other business lines. |
+| VetSuccess On Campus  | This facility is primarily a space where VBA staff is located on college and university campuses. The VSOC program provides a VA Vocational Rehabilitation Counselor (VRC) to each VSOC school. These VRCs are called VetSuccess on Campus (VSOC) Counselors. A VA Vet Center Outreach Coordinator is also provided, and co‐located on many campuses, to provide peer‐to‐peer counseling and referral services. |
+| Veteran Readiness and Employment Office | This is a facility not within an RO that only provides Vocational Rehabilitation and Employment (VR&E) services that helps Veterans with service‐connected disabilities and an employment handicap prepare for, find and maintain suitable careers. |
+| IDES Site | This facility works together with the Department of Defense (DoD) to make disability evaluation seamless with VA if a servicemember is found to be medically unfit for duty. IDES will provide a Veteran a proposed VA disability rating before they leave the service. |
+| Pre‐Discharge Site  | This facility is a joint VA and DOD location to file a claim for disability compensation up to 180 days prior to separation or retirement from active duty or full time National Guard or Reserve duty (Titles 10 and 32).  |
+| Seamless Transition Integrated Care Clinic (STICC)  | This facility is a transition clinic located in VHA facilities, there are VHA and VBA Rehab counselors as well as VBA Compensation and Benefits (Comp & Pen) personnel that assist transitioning servicemembers with benefit-related information. |
