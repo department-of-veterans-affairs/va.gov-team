@@ -15,6 +15,11 @@
 
 ## Monday, July 18, 2022
 
+* Dave C on leave next this week 
+* ATC Changes - 
+
+## Monday, July 18, 2022
+
 * Dave C on leave next week July 25-
 * Estimate of V1 ship date?
   * No solidified date yet, getting close. We have answers to all q's. Implementing last chagnes.  Data soruces, SOT, logic around moving away from ATC. other items. 
