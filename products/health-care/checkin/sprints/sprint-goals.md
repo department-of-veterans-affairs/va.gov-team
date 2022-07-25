@@ -48,6 +48,7 @@
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
     - Complete, test & release (can we get wireframes ASAP?)
 - Bugs & Tech Debt
+    - [Add staging test user DoBs to test data doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44428)
     - [Many requests are being made to the pre-check-in controller without a token](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44705)
     - [Create Cypress screenshot scripts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44682)
     - [Do not allow Veterans to attempt to check in to the same appointment again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38166)
