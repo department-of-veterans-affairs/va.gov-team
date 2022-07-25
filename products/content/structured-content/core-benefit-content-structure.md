@@ -6,7 +6,7 @@ Structure core benefit content as individual, centralized fields that content au
 
 For example, a facility website, a campaign landing page, the mobile app, or the chat bot can all easily serve up a brief benefit description or list of eligibility requirements or the estimated application review time with a link to more information.
 
-**Note: Teams to discuss what's realistic for near-term goal."
+**Note: Teams to discuss what's realistic for near-term goal.**
 
 ## Working content fields and categories/relationships
 
