@@ -41,8 +41,8 @@ All of the following are required before VAOS frontend enables the toggles for i
 #### Planning
 
 - Success metrics to be monitored by VAOS Front End engineering and product management teams
-- Issues to be reported to:
-  - 
+- Issues to be reported to:  
+
 - Percentage of users: 0%
 - Length of time: 0-4 hrs
 
@@ -60,8 +60,8 @@ All of the following are required before VAOS frontend enables the toggles for i
 
 - Success metrics to be monitored by VAOS Front End product management team
 - VAOS Front End engineering team on-call for any issues reported
-- Issues to be reported to:
-  - 
+- Issues to be reported to:  
+
 - Percentage of users: 0%
 - Length of time: 4-48 hrs
 
