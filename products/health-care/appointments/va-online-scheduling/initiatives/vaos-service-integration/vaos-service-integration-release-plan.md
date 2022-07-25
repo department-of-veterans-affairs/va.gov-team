@@ -22,7 +22,7 @@ All of the following are required before VAOS frontend enables the toggles for i
 ### Planning
 
 - Desired date: 
-  - _VAOS Service Integration Code will be deployed to production on 08/02/22 preferably early morning (after 3am and prior to 8am)_
+  - _VAOS Service Integration Code will be deployed to production on 07/29/22_
 - How will you make the product available in production while limiting the number of users who can find/access it:  
   - _During this phase, code will be deployed to production but all feature flags will be disabled.  Commmunity Care appointment requests will continue to be sent to Scheduling Manager_
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -36,17 +36,19 @@ All of the following are required before VAOS frontend enables the toggles for i
   - [Breaker Skipped Alert](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=4&orgId=1&from=now-7d&to=now&refresh=15m)  
   - [Average VAOS Latency](https://grafana.vfs.va.gov/d/EmC4pa6Wz/vaos-alerts?viewPanel=2&orgId=1&from=now-7d&to=now&refresh=15m)
 
-### Stage A: Canary
+### Final VAOS Service Integration deployed to production, flags disabled
 
 #### Planning
 
 - Success metrics to be monitored by VAOS Front End engineering and product management teams
 - Issues to be reported to:  
   - For front end issues related to VAOS website 
-    - Create a ticket in Github and assign labels: vaos, frontend
-    - Notify Leah De La Costa and Jeff Roof
+    - Create a ticket in Github and assign labels: vaos_v2_prod
+    - Post Github issue in vaos-team channel
+      - Title message with "VAOS V2 Prod"
+      - Tag/notify VAOS frontend team using @vaos-fe-all in channel
 - Percentage of users: 0%
-- Length of time: 0-4 hrs
+- Length of time: 0-24 hrs
 
 #### Results:
 - Metrics at this stage (per your "success criteria"):
@@ -56,26 +58,30 @@ All of the following are required before VAOS frontend enables the toggles for i
 - Was the data submitted (if any) easy for VA to process?: yes/no
 - Types of errors logged: 
 
-### Stage B: moderate
+## Phase II: Test VAOS Service Integration in Production with Select Veterans
 
-#### Planning
+### Planning
 
-- Success metrics to be monitored by VAOS Front End product management team
-- VAOS Front End engineering team on-call for any issues reported
-- Issues to be reported to:  
+- Work with OCC to identify veterans that can test VAOS Service Integration prior to Go-Live
+- Setup 15-30 minute meetings with veterans to walk through test workflows
+- Add veteran user account to feature flags in production 30 minutes before scheduled meeting
+- Disable feature flags for veteran after meeting
 
-- Percentage of users: 0%
-- Length of time: 4-48 hrs
+### Pre Go-Live Testing
+
+#### Test workflows
+- View upcoming appointments and appointment requests
+- View Cancelled apppointments and Past appointments
+- Schedule available appointment types (Direct, Request, Community Care)
+- Cancel appointment types created in previous test
 
 #### Results:
-- Metrics at this stage (per your "success criteria"): 
-  - Sum of Errors = 
-  - Breaker Skipped Alert = 
-  - Average VAOS Latency = 
-- Was the data submitted (if any) easy for VA to process?: yes/no
-- Types of errors logged: 
+- Record load times
+- Record comments on appointment details
+- Record any errors encountered
 
-## Phase II: VAOS Service Interation Go-Live in Production
+
+## Phase III: VAOS Service Interation Go-Live in Production
 ### Planning
 
 - Desired date range: _TBD by Office of Community Care_
