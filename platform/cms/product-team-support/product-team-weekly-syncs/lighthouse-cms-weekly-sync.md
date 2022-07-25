@@ -17,6 +17,7 @@
 
 * Dave C on leave next this week 
 * ATC Changes - 
+* Flagging data during migration - descrepancies - Jay?
 
 ## Monday, July 18, 2022
 
