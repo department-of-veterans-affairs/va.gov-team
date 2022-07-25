@@ -9,7 +9,7 @@ If a user updates their Home address and it does not match their Mailing address
 - Sketch Mockups:  [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL2Kvm2)  and  [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/My2J4Zb)  (*Note: Arrow right to see consecutive screens*)
 
 ## UX
-- Uses the [modal](link) from the VA design system
+- Uses the [modal](https://design.va.gov/components/modal) from the VA design system
 - Address change modal is triggered only when an update is made to the home address, and the update does not match the mailing address.
 - When the modal appears, the updated home address has already been saved to the profile.
 - The modal will either appear:
