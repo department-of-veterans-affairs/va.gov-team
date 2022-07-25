@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-Last updated July 14, 2022
+Last updated July 25, 2022
 
 ### Communications
 
@@ -141,8 +141,19 @@ This is the [on-site notification MVP QA documentation](https://github.com/depar
 
 It is important to note that notifications are dismissible in the MVP, so it's possible that as time passes, users who had on-site notifications for QA no longer have them if someone dismisses them. To get new debt notifications added, there are two possible options:
 
-- If you want to trigger an on-site notification AND to have debts show in the debt section of VA.gov, you will need to Work with the debt management backend team (DMC). They can add debts to the debt tool in staging and also trigger alerts to VANotify, which will trigger the on-site notification on VA.gov.
-- If you only need an on-site notification to show on My VA, you can get VANotify to do this. However, if you go through VANotify, this will not add a debt to the debt tool. Therefore, the notification they add will show on My VA, but it won't correspond to a debt in the debt tool.
+- **The easier/shorter route**: Ask VANotify to trigger the on-site notification in their staging environment for whichever staging user you want to test. 
+  - **This will not add a debt in the debt tool, so there will not be a corresponding debt with the debt notification.** This is because a different setup controls what debts show in the debt tool. 
+- **The longer route**: Contact DMC (Debt Management Center) folks and ask them to trigger a "You have a new debt" notification to VANotify in their staging environment. We worked with DMC in development of the MVP to make sure that the on-site notification functionality worked end-to-end.
+  - **This will not add a debt in the debt tool, so there will not be a corresponding debt with the debt notification.** This is because -- as of July 2022 -- the debt tool is not connected to DMC's staging environment. So, when DMC adds a debt request, it does not also add a debt to VA.gov staging. 
+  - DMC will need the "file number", aka SSN, for the staging user you want to test.
+  - These notifications batch process at 6:40 CT everyday **unless** DMC manually pushes them through. If you need to see them more immediately, you'll need to request that DMC push the notification request immediately.
+
+#### Troubleshooting testing issues
+
+If you have a debt notification added to My VA and it doesn't show up, this could be because VANotify was not able to send the notification for one of the following reasons. If a debt notification doesn't show up as expected, check in with VANotify to see if they can detect whether one of these issues is the cause:
+
+- Staging user does not have a VA Profile ID.
+- Staging user is marked as deceased.
 
 ## Frontend
 
