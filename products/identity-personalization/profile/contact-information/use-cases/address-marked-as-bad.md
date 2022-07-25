@@ -42,7 +42,7 @@ N/A
 
 ## How to reproduce
 1. Go to staging.va.gov/profile and sign in with one of the following users ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-- vets.gov.user+20
+* vets.gov.user+20
 * vets.gov.user+21
 * vets.gov.user+22
 * vets.gov.user+23
