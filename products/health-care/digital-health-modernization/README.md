@@ -5,7 +5,8 @@
 ## Team
 ### Current
 - Meg Peters - Information Architecture
-- Tracey Mulrooney - Product
+- Tracey Mulrooney - Product Owner
+- Marci McGuire - Product Manager
 - Christopher Froehlich - Engineering
 - Patrick Vinograd - Engineering
 - Lauryl Zenobi - Research
