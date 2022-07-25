@@ -15,8 +15,7 @@
     - Finish synthesis 
     - Create study report
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Create conversations guide
-    - Schedule interviews
+    - Schedule interviews through Pergean
     - Create Prototype for new language toggle
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Meet with VAOS to verify the logic and agree on how we want to handle CVT appointments in Pre-Check-in and Check-in    
@@ -26,6 +25,9 @@
     - Meet with Analytics team to determine how we can split out metrics by language
 
 #### Design & Content Sprint Goals (TENTATIVE)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Finalize MVP Wireframes  
+    - Create prototype
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
     - Finish content and pass off to CHIP/VeTEXT
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
@@ -33,8 +35,6 @@
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Update wireframes & merge to Abstract master
     - Update release artifacts
-- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finalize MVP Wireframes   
 - [Add Check-in Process Info to Pre-Check-in Confirmation Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
     - Create wireframes
     
