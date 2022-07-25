@@ -1,14 +1,14 @@
 # Team, partners, and subject-matter experts for medical records
 July 21, 2022
 
-### NOTE: Checkboxes indicate which folks we met with.
+### NOTE: Checked boxes indicate which folks we met with.
 
 ## Core MHV on VA.gov team 
-- **Product owner:** Tracey Mulrooney
-- **Product manager:** Marci McGuire
-- **Design lead:** Jonathan Nelson
-- **User researchers:** Megan Graham, Lauryl Zenobi
-- **Tech lead / API expert:** Patrick Vinograd
+[ ] **Product owner:** Tracey Mulrooney
+[ ] **Product manager:** Marci McGuire
+[ ] **Design lead:** Jonathan Nelson
+[ ] **User researchers:** Megan Graham, Lauryl Zenobi
+[ ] **Tech lead / API expert:** Patrick Vinograd
 [X] **My HealtheVet designer:** ________ (?) (Note: Bobby Bailey worked on "Search my record" for MHV, and he's serving as a SME for Q3. Arienne Walters, lead for the MHV design team, is also a SME for records.)
 
 ## Main partners
