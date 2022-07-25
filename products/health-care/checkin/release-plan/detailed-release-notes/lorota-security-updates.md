@@ -8,4 +8,4 @@
 
 - Veterans will no longer sign in using the last 4 digits of their Social Security Number; they will instead sign in using their date of birth
 
-![image](https://user-images.githubusercontent.com/86678742/167924895-d2de62ea-3d12-48b1-9cb8-a596d28fe8da.png)
+![localhost_3001_health-care_appointment-check-in__id=46bebc0a-b99c-464f-a5c5-560bc9eae287 (4)](https://user-images.githubusercontent.com/86678742/180778644-19c16a5e-a873-4691-9192-2b356d5bd5f6.png)
