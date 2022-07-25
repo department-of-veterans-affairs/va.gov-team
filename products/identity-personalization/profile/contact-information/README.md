@@ -93,4 +93,4 @@ Forms in contact info use the [VA Form Library](https://depo-platform-documentat
 ### Flow diagrams
 - [High-level add/edit flow with screenshots](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/v/AjzYMz/a/L0pm5qL/) (includes Address Validation)
 - [Home address updated, mailing address does not match](https://app.mural.co/t/vsa8243/m/vsa8243/1648492872357/ccc5ced279f2062e7336460965ddc8681e6e9722?sender=u28f508d646c449cc1afe4873)
-- Address is marked as “bad” in VA Profile (link to come)
+- [Address is marked as “bad” in VA Profile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/7yPo0rZ)
