@@ -42,7 +42,9 @@ All of the following are required before VAOS frontend enables the toggles for i
 
 - Success metrics to be monitored by VAOS Front End engineering and product management teams
 - Issues to be reported to:  
-
+  - For front end issues related to VAOS website 
+    - Create a ticket in Github and assign labels: vaos, frontend
+    - Notify Leah De La Costa and Jeff Roof
 - Percentage of users: 0%
 - Length of time: 0-4 hrs
 
