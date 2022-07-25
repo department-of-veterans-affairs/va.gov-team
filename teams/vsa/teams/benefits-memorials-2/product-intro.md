@@ -7,8 +7,6 @@ The purpose of this document is to capture necessary knowledge needed to underst
 > **Team Resources**
 > - [Product Team Mission](#product-team-mission)
 > - [Product Team Resources](#product-team-resources)
-> 
-> **Roadmap Resources**
 > - [Product Roadmap](#product-roadmap)
 > 
 > **Product Documentation for each Product in the Portfolio which includes:**
@@ -19,15 +17,15 @@ The purpose of this document is to capture necessary knowledge needed to underst
 >        + Intended Improvements/Next Steps
 >
 >
-> - [Medical Device Reordering [mDot]](#Medical-Device-Reordering-[mDot]-Product-Documentation)
-> - [Debt Portal (Debt Letters MVP) ](#Debt-Portal-(Debt-Letters-MVP)-Product-Documentation)
-> - [ Financial Status Report [FSR] ](#Financial-Status-Report-[FSR]-Product-Documentation)
-> - [Medical Copays [MCP]](#Medical-Copays-[MCP]-Product-Documentation)
-> - [Combined  Debt Portal [CDP]](#Combined-Debt-Portal-[CDP]-Product-Documentation)
-> - [Combined  FSR [cFSR]](#Combined-FSR-[cFSR]-Product-Documentation)
-> - [Streamlined Waiver [SW]](#Streamlined-Waiver-[SW]-Product-Documentation)
+> - [Medical Device Reordering [mDot]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-device-reordering-toolmdot-product-documentation)
+> - [Debt Portal (Debt Letters MVP) ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#debt-portal--vba-debt-letters-mvp-product-documentation))
+> - [ Financial Status Report [FSR] ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#financial-status-report-fsr-product-documentation))
+> - [Medical Copays [MCP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-copays-mcp-product-documentation))
+> - [Combined  Debt Portal [CDP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined--debt-portal-cdp-product-documentation))
+> - [Combined  FSR [cFSR]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined-fsr-cfsr-product-documentation))
+> - [Streamlined Waiver [SW]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#streamlined-waiver-sw-product-documentation))
 
-♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒
+♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎
 
 <br>
 
@@ -111,11 +109,7 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 
 **FAQs about the Medical Device Reordering Tool** 
  
- ***Q: What....?***
-  A: Here is the answer
-
-***Q: What....?***
-  A: Here is the answer
+ - TBD
 		    
 #### Intended improvements:
 
@@ -162,6 +156,7 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
  **Design/Research:** 
 * [UXPin Mockups Link](https://preview.uxpin.com/067dc9cad4c5966bc8a5f3a400cf10206e6a51d4#/pages/132263526/simulate/no-panels?mode=i)
 * [Debt Letters Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/research)
+* [Debt Portal Status Spreadsheet](https://salientcrgt.sharepoint.com/:x:/r/sites/VSATeam/_layouts/15/doc2.aspx?sourcedoc=%7BEB6D9EB5-B68E-4A89-B8EF-B3B8ECBEFC31%7D&file=Debt%20Portal%20Statuses%20V2.0.xlsx&action=default&mobileredirect=true&cid=69d1f68c-bd7f-4286-b48a-02d1909661f2)
  
  **Engineering:** 
  - [Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Debt%20%2B%20FSR%20Architecture.pdf)
