@@ -29,7 +29,7 @@ The following is the list that is in the Lighthouse Facilities API (v0). The onl
 - VA home loan help
 - Insurance claim help and financial counseling
 - Integrated Disability Evaluation System Assistance (IDES)
-- Pensions
+- Pensions* (note: although this exists in Facilities API, there is no data source mapped to this data)
 - Pre-discharge claim help
 - Transition help
 - Updating direct deposit information
@@ -47,7 +47,7 @@ The following is the list that is in the Lighthouse Facilities API (v0). The onl
 |	Applying for benefits	|	---	| ---	| ---	| ---	| ---	| ---	|
 |	Burial claim help	|	---	| ---	| ---	| ---	| ---	| ---	|
 |	Disability claim help |	---	| ---	| ---	| ---	| ---	| ---	|
-|	eBenefits registration help |	---	| ---	| ---	| ---	| ---	| ---	|
+|	~eBenefits registration help~ |	---	| ---	| ---	| ---	| ---	| eBenefits as a system is being sunset. This will no longer be a needed service.	|
 |	Education and career counseling |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Education claim help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Family member claim help |	---	| ---	| ---	| ---	| ---	| ---	|
@@ -55,7 +55,7 @@ The following is the list that is in the Lighthouse Facilities API (v0). The onl
 |	VA home loan help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Insurance claim help and financial counseling |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Integrated Disability Evaluation System Assistance (IDES) |	---	| ---	| ---	| ---	| ---	| ---	|
-|	Pensions |	---	| ---	| ---	| ---	| ---	| ---	|
+|	Pensions |	---	| ---	| ---	| ---	| ---	| This isn't actually part of VBA_facilities DB	|
 |	Pre-discharge claim help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Transition help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Updating direct deposit information |	---	| ---	| ---	| ---	| ---	| ---	|
