@@ -23,10 +23,11 @@ July 21, 2022
 - **Authenticated experience strategy:** Samara Strauss (Product), Mikki Northuis (IA/UX)
 
 ## Other partners
-- **APIs** Dave Mazik
+- **APIs** Dave Mazik (and possibly Patrick Vinograd)
 - **MHV Health Records Product Line (includes Blue Button):** David (Boomer) Rawlins
 - **MHV Health Data Product Line:** Lichelle Bain
 - **MHV "Search my record":** Rich Beaudoin (Product), David (Boomer) Rawlins (Engineering)
+- **Messages:** Patty Henry
 - **MHV Pharmacy:** Dr. Eric Spahn, Dr. Maureen Layden, Margo Kaybel (from PBM, or Pharmacy Benefits Management)
 - **Continuity of Care Document (CCD):** Glen Crandall, Marie Swall (CCD = VA Health Summmary)
 - **Appointments on MHV** Dawm Smith (OVAC or Office of Veteran Access to Care)
