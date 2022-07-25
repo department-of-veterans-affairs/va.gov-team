@@ -1,7 +1,9 @@
 # Team, partners, and subject-matter experts for medical records
 July 21, 2022
 
-**NOTE:** In June-July, we met with the My HealtheVet designers, My HealtheVet records section PoCs, OCC leadership, and the OCC senior adviser.
+**NOTES:** 
+- This is a draft. The team should confirm which points of contact go in which categories below. 
+- In June-July, we met with the My HealtheVet designers, My HealtheVet records section PoCs, OCC leadership, and the OCC senior adviser.
 
 ## Core MHV on VA.gov team 
 - **Product owner:** Tracey Mulrooney
