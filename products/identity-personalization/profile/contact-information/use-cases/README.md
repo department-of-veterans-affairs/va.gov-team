@@ -1,5 +1,5 @@
 # Contact Information Use Cases
-**Last updated:** July 21, 2022
+**Last updated:** July 25, 2022
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -12,7 +12,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Edge cases
 ### Flags 
-- Address is marked as “bad” in VA Profile (use case docs to come post-research)
+- [Address is marked as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
 
 ### Validation
 - [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
