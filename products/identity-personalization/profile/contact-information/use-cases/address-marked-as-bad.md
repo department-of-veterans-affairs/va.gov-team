@@ -42,12 +42,14 @@ N/A
 
 ## How to reproduce
 1. Go to staging.va.gov/profile and sign in with one of the following users ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-- vets.gov.user+5
-*  vets.gov.user+6
-*  vets.gov.user+7
-*  vets.gov.user+8
-* vets.gov.user+9
+- vets.gov.user+20
+* vets.gov.user+21
+* vets.gov.user+22
+* vets.gov.user+23
+* vets.gov.user+24
+* vets.gov.user+25
+* vets.gov.user+26
 2. Follow the prompts in the alerts.
-3. If you saved an update for the address for one of these users, the flag will then be set to to false. Please contact a backend engineer on the profile team to reset it.  [Profile POCs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#roles)
+3. If you saved an update for the address for one of these users you can have it display again by signing-out and signing back into staging using a new tab on your browser.
 
 
