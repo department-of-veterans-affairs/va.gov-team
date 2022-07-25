@@ -1,18 +1,18 @@
 # Team, partners, and subject-matter experts for medical records
 July 21, 2022
 
-### NOTE: Checked boxes indicate which folks we met with.
+**NOTE:** In June-July, we met with the My HealtheVet designers, My HealtheVet records section PoCs, OCC leadership, and the OCC senior adviser.
 
 ## Core MHV on VA.gov team 
-- [ ] **Product owner:** Tracey Mulrooney
-- [ ] **Product manager:** Marci McGuire
-- [ ] **Design lead:** Jonathan Nelson
-- [ ] **User researchers:** Megan Graham, Lauryl Zenobi
-- [ ] **Tech lead / API expert:** Patrick Vinograd
-- [X] **My HealtheVet designer:** ________ (?) (Note: Bobby Bailey worked on "Search my record" for MHV, and he's serving as a SME for Q3. Arienne Walters, lead for the MHV design team, is also a SME for records.)
+- **Product owner:** Tracey Mulrooney
+- **Product manager:** Marci McGuire
+- **Design lead:** Jonathan Nelson
+- **User researchers:** Megan Graham, Lauryl Zenobi
+- **Tech lead / API expert:** Patrick Vinograd
+- **My HealtheVet designer:** ________ (?) (Note: Bobby Bailey worked on "Search my record" for MHV, and he's serving as a SME for Q3. Arienne Walters, lead for the MHV design team, is also a SME for records.)
 
 ## Main partners
-[X] **MNV records section:** Bresha Lipscomb, Carnetta Scruggs (MHV = My HealtheVet)
+- **MNV records section:** Bresha Lipscomb, Carnetta Scruggs (MHV = My HealtheVet)
 - **MHV engineering lead:** Barry Egbert
 - **OCC leadership:** Theresa Hancock, Nancy Wilck (OCC = Office of Connected Care)
 - **OCC senior advisor:** Dr. Neil Evans
