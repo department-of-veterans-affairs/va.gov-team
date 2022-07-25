@@ -51,12 +51,12 @@ The following is the list that is in the Lighthouse Facilities API (v0). The onl
 |	Education and career counseling |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Education claim help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Family member claim help |	---	| ---	| ---	| ---	| ---	| ---	|
-|	Help for homeless Veterans |	---	| ---	| ---	| ---	| ---	| ---	|
-|	VA home loan help |	---	| ---	| ---	| ---	| ---	| ---	|
+|	Help for homeless Veterans |	---	| ---	| If you are homeless or at risk of becoming homeless we can help you connect with resources in your community, like homeless shelters or faith-based organizations.	| ---	| ---	| ---	|
+|	VA housing assistance  |	VA home loans, Veterans housing assistance grants 	| ---	| We can help Veterans, service members, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, improve, or keep your current home. 	| ---	| ---	| ---	|
 |	Insurance claim help and financial counseling |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Integrated Disability Evaluation System Assistance (IDES) |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Pensions |	---	| ---	| ---	| ---	| ---	| This isn't actually part of VBA_facilities DB	|
-|	Pre-discharge claim help |	---	| ---	| ---	| ---	| ---	| ---	|
+|	Pre-discharge claim help |	---	| ---	| If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, we can help you file a claim for disability benefits 180 to 90 days before you leave the military. 	| ---	| ---	| ---	|
 |	Transition help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Updating direct deposit information |	---	| ---	| ---	| ---	| ---	| ---	|
-|	Vocational Rehabilitation and Employment (VR&E) ~help~ programs |	---	| ---	| We can help you reach your job and career goals with one-on-one support, counseling, and training.	| ---	| ---	| Used by VHA in existing VAMC product and Vet Center product with variation between descriptions.	|
+|	Vocational Rehabilitation and Employment (VR&E) ~help~ programs |	---	| ---	| If you’re a service member or Veteran and have a disability that was caused—or made worse—by your active-duty service and that limits your ability to work or prevents you from working, we may be able to help you get employment support or services to help you live as independently as possible.	| ---	| ---	| Used by VHA in existing VAMC product and Vet Center product with variation between descriptions. This description was pulled from benefit hubs for VR&E.	|
