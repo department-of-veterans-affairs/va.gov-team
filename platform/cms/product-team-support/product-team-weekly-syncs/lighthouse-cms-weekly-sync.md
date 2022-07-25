@@ -15,7 +15,7 @@
 
 ## Monday, July 18, 2022
 
-* Dave C on leave next this week 
+* Dave C on leave this week 
 * ATC Changes
  * Synced up with Dave C
  * Were previously aware that ATC was making changes, but didnt reallly get advance notice
