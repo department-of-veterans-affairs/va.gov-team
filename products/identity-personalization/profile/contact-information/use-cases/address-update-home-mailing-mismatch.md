@@ -1,5 +1,5 @@
 # Contact information: Home address is updated but does not match Mailing address
-**Last updated July 19, 2022**
+**Last updated July 25, 2022**
 
 If a user updates their Home address and it does not match their Mailing address, they will be prompted to review and update their Mailing address. Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
 
