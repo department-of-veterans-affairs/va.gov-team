@@ -18,12 +18,12 @@ The purpose of this document is to capture necessary knowledge needed to underst
 >
 >
 > - [Medical Device Reordering [mDot]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-device-reordering-toolmdot-product-documentation)
-> - [Debt Portal (Debt Letters MVP) ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#debt-portal--vba-debt-letters-mvp-product-documentation))
-> - [ Financial Status Report [FSR] ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#financial-status-report-fsr-product-documentation))
-> - [Medical Copays [MCP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-copays-mcp-product-documentation))
-> - [Combined  Debt Portal [CDP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined--debt-portal-cdp-product-documentation))
-> - [Combined  FSR [cFSR]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined-fsr-cfsr-product-documentation))
-> - [Streamlined Waiver [SW]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#streamlined-waiver-sw-product-documentation))
+> - [Debt Portal (Debt Letters MVP) ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#debt-portal--vba-debt-letters-mvp-product-documentation)
+> - [ Financial Status Report [FSR] ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#financial-status-report-fsr-product-documentation)
+> - [Medical Copays [MCP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-copays-mcp-product-documentation)
+> - [Combined  Debt Portal [CDP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined--debt-portal-cdp-product-documentation)
+> - [Combined  FSR [cFSR]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined-fsr-cfsr-product-documentation)
+> - [Streamlined Waiver [SW]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#streamlined-waiver-sw-product-documentation)
 
 ♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎
 
