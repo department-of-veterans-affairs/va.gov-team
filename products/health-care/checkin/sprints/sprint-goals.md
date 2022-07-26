@@ -37,7 +37,7 @@
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Update wireframes & merge to Abstract master
     - Update release artifacts
-- [Add Check-in Process Info to Pre-Check-in Confirmation Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
+- [Update System Generated Notifications UI](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44905)
     - Create wireframes
     
 #### Engineering Sprint Goals (TENTATIVE)
