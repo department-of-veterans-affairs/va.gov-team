@@ -161,9 +161,11 @@ FOR EVERYONE
     
 </details>
 
+### FOR EVERYONE
 *Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
 - Can you tell me about what you expect and why?
 - If you were on a public computer and didn't want to sign in, is there anything you might expect to do from this web page?
+
 
 ### IF HAVEN'T USED EDUCATION BENEFITS...
 
