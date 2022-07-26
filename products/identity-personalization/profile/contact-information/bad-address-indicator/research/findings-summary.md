@@ -229,7 +229,7 @@ This page was often referenced or used to reach Profile or edit contact informat
 Recommendations
 ===============
 
-The following recommendations center around reorganizing and revisiting the content, keeping the current overall flow.
+The following recommendations center around revisiting and reorganizing content while keeping the current overall flow.
 
 1.  Consider revisiting the content included within the Contact information alerts to further simplify the text and avoid confusion surrounding the two pathways of Updating and Confirming an address
 	* Simplify content in the main Contact information alert as it is often overlooked
