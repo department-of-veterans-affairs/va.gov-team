@@ -35,7 +35,7 @@
 | [[SMS] Send Pre-Check-in Reminder(s)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44396)||1||||
 | [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)||1|||||
 | [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)||1|4||||
-| [Integrate with EAS (Enterprise Appointment Service)]()||||||Slated to be launch 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
+| [Integrate with EAS (Enterprise Appointment Service)]()||||||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
 
 ***
 
@@ -45,17 +45,17 @@ RICE Score = (R x I x C) / E
 - R = Reach (#)
   - How many people will this impact? (Estimate within a defined time period.)
 - I = Impact (0.25 - 3)
-  - How much will this impact each person? (Massive = 3x, High = 2x, Medium = 1x, Low = 0.5x, Minimal = 0.25x.)
+  - How much will this impact each person? (Massive = 3, High = 2, Medium = 1, Low = 0.5, Minimal = 0.25)
   - Does this increase the adoption of your product?    
 - C = Confidence (%)
   - How confident are you in your estimates? (High = 100%, Medium = 80%, Low = 50%.)
   - To curb enthusiasm for exciting but ill-defined ideas, factor in your level of confidence about your estimates.     
 - D - Disadvantaged Group
-  - Does this help a disadvantaged group (scale???)
-- B - Business Impact
-  - Impact to the VA overall (scale???)
-- M - Measurable?
-  - How easy can we measure the success? (scale???)
+  - Does this help a disadvantaged group (No = 1, Yes = 2)
+- B - Business Impact 
+  - Impact to the VA overall (Massive = 3, High = 2, Medium = 1, Low = 0.5, Minimal = 0.25)
+- M - Measurable
+  - How easy can we measure the success? (No = 1, Yes = 2)
 - E = Effort (#)
   - How many “person-months” will this take? (Use whole numbers and minimum of half a month)    
   - To move quickly and have impact with the least amount of effort, estimate the total amount of time a project will require from all members of your team
