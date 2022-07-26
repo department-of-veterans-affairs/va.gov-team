@@ -247,6 +247,8 @@ Next Steps
 Further Research Needed
 =======================
 
+Because our recruitment goals for AT users was not met during these seesions, we will aim to further emphasize hearing from these participants in our following UAT sessions. 
+
 Appendix
 ========
 
