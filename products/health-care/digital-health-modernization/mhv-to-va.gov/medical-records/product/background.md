@@ -1,14 +1,18 @@
 # Background for medical records
 July 26, 2022
 
-## What's in records? 
-Currently VA has 2 types of medical records: 
-- **Blue Button:** A way to view or download a Veteran's *entire* health record with VA. And if the Veteran gave their VA doctor health data from a non-VA doctor (ex: prescriptions), their VA doctor might enter that data into their VA health record. 
-<br></br>
-- **My VA Health Summary (a.k.a. CCD, CCDA, or Continuity of Care Document):** If a Veteran sees a non-VA provider, they show that provider this document. The VA Health Summary supports continuity of care between providers.
+## What are the types of records? 
+Currently VA has 3 types of reports that contain a Veteran's medical records at VA:  
+1) VA Blue Button Report
+2) VA Health Summary (a.k.a. CCD, CCDA, or Continuity of Care Document)
+3) VA Medical Images and Reports
 
-### Blue Button:
-The Blue Button report contains the following data. This report contains the largest set of health data VA has for a Veteran. You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+In large part, these reports contain data based on a VA patient's interaction with VA medical providers. But if a Veteran gives their VA doctor health data from a non-VA doctor (ex: prescriptions), their VA doctor might enter that data into their VA health record. 
+
+### 1) Blue Button:
+"Blue Button" is a way to view or download a Veteran's VA health records using *any of the 3 types of reports listed above.* "Blue Button" also has another meaning: Veterans familiar with viewing and downloading their medical records equate the term "Blue Button" to the Blue Button Report.
+
+The Blue Button Report contains the largest set of health data VA has for a Veteran. (See list below.) You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Appointments (VA future, past)
 - Medications (VA med history + self-entered)
 - Labs and tests (VA lab results, pathology reports, radiology reports, EKGs + self-entered) 
@@ -22,24 +26,33 @@ The Blue Button report contains the following data. This report contains the lar
 - Demographics and health insurance (VA + self-entered) 
 - DoD Military Service Information
 
+**Key point:** When you download a Blue Button Report, you choose what data goes into it. 
+
 #### Search my record
-In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application.) A few things to note:
+In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application.) A few things to note about "Search my record":
 - All data in "Search my record" also lives in Blue Button, but...
 - Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). 
 - Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it. 
 
-Why did 
- Idea of s/thing more adv, with more options than BB. S/thing that allows Vet to dig deeper, search, pull up a specific thing.
- After that, goal was to make it better to search. 
- Dev backwards. No UX until after soft launch.
- * They started realizing how outdated BB is. 
-* They are realizing there is need for upgrade.
+**Why did VA create "Search my record"?**
+- They wanted something more advanced, with more options in the UX than Blue Button Report has — something that allows Veterans to dig deeper, to search and pull up a specific thing (ex: lab result). 
+- It became clear that Blue Button (the report) was outdated, that it needed an upgrade.
+- After that, the goal was to make it better to search. 
+ 
+MHV's UCD Team was not involved in the original design and development of "Search my record." After the soft launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but since they ran into performance issues the project has been on hold.
+
+NOTE: You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). From search results, you can click into an individual data point such as lab work on a specific day for a specific reason.
+
+[See the top middle of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
  
 #### Coming soon to records? 
-There's talk of including the After-Visit Summary (AVS) in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from the provider.
+There's talk of including the **After-Visit Summary (AVS)** in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
 
-### VA Health Summary:
-The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA care and to share information with community providers, family, or others who help them with their health. You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+
+### 2) VA Health Summary:
+The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary supports continuity of care between providers.
+
+You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Patient and contact info
 - Health care providers
 - Insurance providers
@@ -62,11 +75,13 @@ The VA Health Summary contains the following data from a Veteran's VA medical re
 - Pathology studies
 - Procedure notes
 
+**Key point:** The VA Health Summary is created by VA. A Veteran has no control over what info is in the report. 
+
+
 ## How do Veterans use records? 
 During user research, we've talked with Veterans about how they use their medical records:
 - To share VA health care data with a non-VA provider
 
-Work in progress... 
 **Veterans are concerned with documenting their service connected disabilities for fear of losing access to care.** Veterans think of their health record as a crucial component of their disability benefits.
 
 
