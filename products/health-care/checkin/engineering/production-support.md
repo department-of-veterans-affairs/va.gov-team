@@ -28,7 +28,8 @@ Based on the CIE and TEVI team discussions, here is the current production suppo
 
 
 ### Links
-1. Clinician Workflow Stats: [https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true](https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true)
+1. [VISN PCI Implementation Channels in Microsoft Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
+2. Clinician Workflow Stats: [https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true](https://tevi.ddog-gov.com/dashboard/zix-s83-2u8/cw-stats?from_ts=1653411458112&to_ts=1653415058112&live=true)
     - Sidekiq enqueued: shows the jobs currently enqueued in Sidekiq. This can increase if vista-apis start behaving anomalously (slow or erroring out)
     - Puma Backlog: if it starts increasing, puma can’t keep up with the incoming requests
 2. Error Traces: [https://tevi.ddog-gov.com/apm/traces?query=env%3Aprod -service%3A(clinician-workflow-defaultdb OR clinician-workflow-cache) -status%3Aok -%40http.path_group%3A("%2Flambda%2Fflush" OR "%2Flambda%2Fhello")&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&historicalData=false&messageDisplay=inline&sort=desc&spanViewType=logs&start=1653333035453&end=1653333935453&paused=false](https://tevi.ddog-gov.com/apm/traces?query=env%3Aprod%20-service%3A%28clinician-workflow-defaultdb%20OR%20clinician-workflow-cache%29%20-status%3Aok%20-%40http.path_group%3A%28%22%2Flambda%2Fflush%22%20OR%20%22%2Flambda%2Fhello%22%29&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&historicalData=false&messageDisplay=inline&sort=desc&spanViewType=logs&start=1653333035453&end=1653333935453&paused=false)
