@@ -1,10 +1,17 @@
-# Team, partners, and subject-matter experts for medical records (DRAFT)
-July 21, 2022
+# Background for medical records
+July 26, 2022
 
-**NOTE:**  
-- **The team should confirm which points of contact go in which categories below.** For example, a partner listed as "other partner" might actually be a "main parter," or they might be a SME. 
-- In June-July, we met with the My HealtheVet designers, My HealtheVet records section PoCs, OCC and OCTO leadership, and the OCC senior adviser.
+## What's in records? 
+Xxxxx xxxx
 
-## Core MHV on VA.gov team 
-- **Product owner:** Tracey Mulrooney
-- **Product manager:** Marci McGuire
+## How do Veterans use records? 
+Xxxxx xxxx
+
+## Lay of the land 
+Xxxxx xxxx
+
+## Partners / stakeholders / SMEs
+Xxxxx xxxx
+
+## WWhat we know from user research 
+MHV on VA.gov and My HealtheVet studies...
