@@ -5,7 +5,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 ## Table of Contents
 
 ### Secure landing page - Unauth
-- Default view
+- [Default view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#secure-landing-page---unauth-1)
 
 ### Secure landing page - Auth without health care
 - Default view
@@ -193,7 +193,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Sort/filter list
 
 ### Message detail
-- Default view
+- Default view Desktop mockup | Mobile mockup
 - View attachment
 - Move message
 - Delete message
