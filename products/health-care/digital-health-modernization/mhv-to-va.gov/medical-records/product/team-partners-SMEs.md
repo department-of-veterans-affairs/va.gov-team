@@ -1,9 +1,14 @@
 # Team, partners, and subject-matter experts for medical records (DRAFT)
 July 21, 2022
 
-**NOTE:**  
-- **The team should confirm which points of contact go in which categories below.** For example, a partner listed as "other partner" might actually be a "main parter," or they might be a SME. 
-- In June-July, we met with the My HealtheVet designers, My HealtheVet records section PoCs, OCC and OCTO leadership, and the OCC senior adviser.
+**Meetings so far:**
+- My HealtheVet designers (Arienne Walters and Bobby Bailey) - July 14
+- My HealtheVet records section PoCs (Carnetta Scruggs and Bresha Lipscomb) - June 22
+- OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
+- "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
+
+**To do:**  
+**Confirm which points of contact go in which categories below.** For example, a partner listed as "other partner" might actually be a "main parter," or they might be a SME. 
 
 ## Core MHV on VA.gov team 
 - **Product owner:** Tracey Mulrooney
@@ -26,7 +31,7 @@ July 21, 2022
 - **APIs** Dave Mazik (and possibly Patrick Vinograd)
 - **MHV Health Records Product Line (includes Blue Button):** David (Boomer) Rawlins
 - **MHV Health Data Product Line:** Lichelle Bain
-- **MHV "Search my record":** Rich Beaudoin (Product), David (Boomer) Rawlins (Engineering)
+- **MHV "Search my record":** Rich Beaudoin (Product), David/Boomer Rawlins (Engineering)
 - **Messages:** Patty Henry
 - **MHV Pharmacy:** Dr. Eric Spahn, Dr. Maureen Layden, Margo Kaybel (from PBM, or Pharmacy Benefits Management)
 - **Continuity of Care Document (CCD):** Glen Crandall, Marie Swall (CCD = VA Health Summmary)
@@ -37,7 +42,7 @@ July 21, 2022
 - **OCTO DHP Team:** Stefany Holguin (DHP = Digital Health Platform for Patient-Generated Data or PGD, also known as Patient-Generated Health Data or PGHD)
 
 ## Subject-matter experts
-- **SME for medical records:**  - New hire coming in Sept-Oct (per Dr. Evans)
+- **SME for medical records:** New hire coming in Sept-Oct (per Dr. Evans), Rich Beaudoin
 - **PHR Policy Workgroup:** Dr. Christine Erickson (PHR = Personal Health Record)
 - **VHIE:** Glen Crandall, Marie Swall (The VVDIF VHIE / JHIE PMR group is working on data interoperability issues between VA & DoD. 
   - VDIF = Veterans Data Integration and Federation
