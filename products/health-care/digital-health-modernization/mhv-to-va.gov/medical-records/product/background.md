@@ -23,9 +23,20 @@ The Blue Button report contains the following data. This report contains the lar
 - DoD Military Service Information
 
 #### Search my record
-In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use this application.) All data in "Search my record" also lives in Blue Button. But Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). Currently MHV does not link to the "Search my record" app, so only people who know the URL can access it. 
+In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application.) A few things to note:
+- All data in "Search my record" also lives in Blue Button, but...
+- Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). 
+- Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it. 
 
-Add info on why, then why not for SMR... 
+Why did 
+ Idea of s/thing more adv, with more options than BB. S/thing that allows Vet to dig deeper, search, pull up a specific thing.
+ After that, goal was to make it better to search. 
+ Dev backwards. No UX until after soft launch.
+ * They started realizing how outdated BB is. 
+* They are realizing there is need for upgrade.
+ 
+#### Coming soon to records? 
+There's talk of including the After-Visit Summary (AVS) in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from the provider.
 
 ### VA Health Summary:
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA care and to share information with community providers, family, or others who help them with their health. You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
