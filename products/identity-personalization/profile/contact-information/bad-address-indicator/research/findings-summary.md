@@ -179,10 +179,9 @@ All participants felt comfortable with observers and appreciated being asked for
 All but 3 participants said they felt more at ease after observers said hello.
 
 -   One of these participants conveyed he did not know observers had joined and were waving because he couldn't see them on mobile. Multiple participants on mobile said they could not see other observers, and therefore if observers did not say an audible hello, did not know they were there.
-  - Takeaway: for this method, it's important that observers say audible hellos in case participants cannot see observers.
-
+	- **Takeaway:** for this method, it's important that observers say audible hellos in case participants cannot see observers.
 -   For one of these participants, this may have to do with only two observers on the call, one of whom did not say hello.
-  - Takeaway: All observers that join should do their best to participate in this method by saying hello.
+	- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
 
  > "More at ease since I could see it was one person and not a whole boardroom." - P9
 
@@ -240,6 +239,10 @@ The following recommendations center around revisiting and reorganizing content 
 	* List Confirm instructions in an easy-to-read format, such as bullet points, to more clearly convey this information
 3.  Consider changing "Review your Address" to "Review your address"
 4.  Consider changing the email format to all lowercase characters
+
+### Observer Method:
+1. Make sure observers say audible hellos in case participants cannot see observers.
+2. Encourage all observers to do their best to participate and say hello to help eliminate awkwardness.
 
 Next Steps
 ==========
