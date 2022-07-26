@@ -40,12 +40,14 @@
     - Create wireframes
     
 #### Engineering Sprint Goals (TENTATIVE)
+- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+    - Test & release on 8/4
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-    -  Test & release
+    -  Test & release by 8/9
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Support CHIP team as necessary for CHIP api
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
-    - Complete, test & release (can we get wireframes ASAP?)
+    - Complete, test & release by 8/9? (can we get wireframes ASAP?)
 - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
     - Add ability to cancel an appointment (request from Shane)
 - Bugs & Tech Debt
