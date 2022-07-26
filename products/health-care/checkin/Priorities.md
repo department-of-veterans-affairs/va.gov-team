@@ -1,9 +1,11 @@
 
 # **MODERNIZED CHECK-IN PRIORITIZED BACKLOG**
 ### ANALYTICS
-| **<u>Epic/Feature</u>** | **<u>Status</u>** | **<u>To Refine</u>** | **<u>Refined</u>** | **<u>In Prog.</u>** | **<u>Done</u>** | **<u>Notes</u>**|
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ----------------------------------------- | ------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------ |
-| [Break out by Language](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/44509) | |1(NR)|2|1|4||
+| **<u>Epic/Feature</u>** | **<u>Notes</u>**|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------ |
+| [Break out by Language](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/44509) | |
+| [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) | |
+| [Upgrade Our Google Analytics Dashboard for GA4](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44527) | |
 ***
 ### RESEARCH
 | **<u>Epic/Feature</u>** | **<u>Status</u>** | **<u>To Refine</u>** | **<u>Refined</u>** | **<u>In Prog.</u>** | **<u>Done</u>** | **<u>Notes</u>**|
