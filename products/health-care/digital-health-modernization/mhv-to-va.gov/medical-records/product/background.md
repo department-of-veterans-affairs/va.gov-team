@@ -91,7 +91,7 @@ We learned that Veterans think of their health record as a crucial component of 
 Xxxxx xxxx...
 
 ## Partners, stakeholders, and SMEs
-Here's the full draft list of partners, stakeholders, and SMEs.
+[Here's the full draft list of partners, stakeholders, and SMEs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
 ## What we know from user research 
 MHV on VA.gov and My HealtheVet studies...
