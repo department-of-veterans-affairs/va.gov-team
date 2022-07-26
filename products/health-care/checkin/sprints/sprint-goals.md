@@ -4,6 +4,7 @@
 
 #### Planned Releases (TENTATIVE)
 - 8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+    - Phone appt release validation is going to take a bit of extra setup bc a phone clinic will have to be enabled for check-in and an appt created in that clinic - hopefully Stephen can help us with that
 - 8/9? [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
 - 8/9? [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
 
@@ -50,7 +51,10 @@
     - Complete, test & release by 8/9? (can we get wireframes ASAP?)
 - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
     - Add ability to cancel an appointment (request from Shane)
+- [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
+    - Get answers to initial questions (SPIKE)
 - Bugs & Tech Debt
+    - [Create cypress tests to get screenshots of phone appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44896)
     - [Add staging test user DoBs to test data doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44428)
     - [Many requests are being made to the pre-check-in controller without a token](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44705)
     - [Create Cypress screenshot scripts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44682)
