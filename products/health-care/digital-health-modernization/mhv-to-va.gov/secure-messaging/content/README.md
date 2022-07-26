@@ -1,4 +1,4 @@
-# Secure Messaging Content Overview
+# Secure Messaging Content Documentation
 
 This page details the content used throughout the Secure Messaging tool on VA.go
 
@@ -90,10 +90,14 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-## Page Contents
+## Page Content Specs
 
 ### Secure landing page - Unauth
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup]()
+- H1: Messages
+- H2: Test: Your 
 
 ### Secure landing page - Auth without health care
 - Default view
@@ -108,15 +112,25 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Sort/filter list
 
 ### Message detail
-- Default view
-- View attachment
-- Move message
-- Delete message
-- Print message
-- Save attachment
-- Delete message
-- Archive message
-- Navigate between messages
+#### Default view
+- 'H1' "Messages"
+- 'Action link' "< Previous" "Next >"
+- H2: "Message subject"  *Example: Test: Your lab results*
+- H3: From:
+- H4: To:
+- Date:
+- Message ID:
+
+#### View attachment
+#### Move message
+#### Delete message
+#### Print message
+#### Save attachment
+#### Delete message
+#### Archive message
+#### Navigate between messages
+
+<hr>
 
 ### Compose message
 - Default state
@@ -130,6 +144,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Send confirmation
 - Send error
 
+<hr>
+
 ## Search messages
 - Default view
 - Basic search
@@ -139,12 +155,16 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Move messages from list to another folder
 - Sort/filter list
 
+<hr>
+
 ### Sent Messages
 - Default view
 - Delete message from list
 - Delete message confirmation
 - Move message to folder
 - Sort/filter list
+
+<hr>
 
 ### Drafts
 - Default view
@@ -158,6 +178,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Delete message confirmation
 - Move message to folder
 - Sort/filter list
+
+<hr>
 
 ### Folders
 - Default view
