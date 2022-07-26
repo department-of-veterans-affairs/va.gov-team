@@ -1,4 +1,4 @@
-# Proposal to update how benefit applications handle international addresses
+# Proposal to update how benefit applications handle military base addresses
 **Last updated: July 20, 2022**
 
 The authenticated experience team updated how they handle addresses for non-US military bases in profile, and put together a recommendation for benefit applications to do the same. As of July 2022, we're not sure which teams did or didn't update their applications.
