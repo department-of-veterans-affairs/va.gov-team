@@ -61,15 +61,15 @@ Hypothesis and Conclusions
 ==========================
 
 -   Veterans will easily locate the main alerts
-  -   LIKELY TRUE
+	-   LIKELY TRUE
 -   Veterans will use the alert links to reach the Mailing address field without difficulty
-  -   DEFINITELY TRUE
+	-   DEFINITELY TRUE
 -   Veterans may have difficulty understanding the alert instructions
-  -   LIKELY TRUE
+	-   LIKELY TRUE
 -   Veterans may have difficulty understanding how to update their address vs. how to confirm their address
-  -   LIKELY TRUE
+	-   LIKELY TRUE
 -   We believe the design for the alerts will be effective at drawing attention to important information
-  -   DEFINITELY TRUE
+	-   DEFINITELY TRUE
 
 Key Findings
 ============
