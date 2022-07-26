@@ -35,7 +35,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Choose a category
 - Attach a file
 - Attach file error
-- A
+- Attach file confirmation
 - Save as draft
 - Auto-save as draft
 - Modify contacts list
@@ -93,7 +93,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 ## Page Contents
 
 ### Secure landing page - Unauth
-- Default view
+#### Default view
 
 ### Secure landing page - Auth without health care
 - Default view
@@ -175,7 +175,6 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Notifications
 - Display settings
 - Signature settings
-
 
 ### Secure landing page - Unauth
 - Default view
@@ -260,5 +259,3 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Notifications
 - Display settings
 - Signature settings
-
-
