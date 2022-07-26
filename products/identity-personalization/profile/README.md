@@ -1,6 +1,6 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: May 24, 2022
+Last Updated: July 26, 2022
 
 ### Communications
 
@@ -29,9 +29,8 @@ Last Updated: May 24, 2022
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Projects](#projects)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
+- [Backend](#backend)
+- [Frontend](#frontend)
 - [Design](#design)
 
 ---
@@ -105,27 +104,44 @@ Current metrics we're tracking:
 
 [Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
 
-## How to Access and Test
+## Backend
+
+### Backend Systems that Support the Profile
+
+You can learn more about all of the backend systems that support the profile via the [Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
+
+The following information comes from VA Profile:
+
+- Personal information
+- Contact information
+- Military information
+- Notification preferences
+
+The following information comes from EVSS:
+
+- Direct deposit for comp & pen
+
+The following information comes from BGS:
+
+- Direct deposit for education
+
+### How to Access and Test
 
 - Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
 - [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
 
-## Error Handling
+### Error Handling
 
 - [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
-## Backend Systems that Support the Profile
+## Frontend
 
-- Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
-- Direct deposit for comp & pen information comes from the [Enterprise Veterans Self Service (EVSS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html).
-- Direct deposit for edu information comes from the [Benefit Gateway Service (BGS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/Benefits-Gateway-Service.1887272987.html).
-- Personal information comes from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
-- Military information comes from the [Enterprise Military Information Service (eMIS)](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html).
-- Notification settings (communication permissions) come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
-- Confirmation emails for when people update contact information and direct deposit information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
+What information do we need here?
 
 ## Design 
+
+### Sketch files
 
 - [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
 - [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
