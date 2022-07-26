@@ -113,8 +113,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ### Message detail
 #### Default view
-- 'H1' "Messages"
-- 'Action link' "< Previous" "Next >"
+- `H1` "Messages"
+- `Action link` "< Previous" "Next >"
 - H2: "Message subject"  *Example: Test: Your lab results*
 - H3: From:
 - H4: To:
