@@ -1,15 +1,14 @@
 # Contact Information Product Outline
-Last Updated July 19, 2022
+Last Updated July 26, 2022
      
 ## Table of Contents
 
 - [POCs](#)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
-- [Analytics](#analytics)
 - [Projects](#projects)
+- [Analytics](#analytics)
 - [Feature overview](#feature-overview)
-- [How to Access and Test](#how-to-access-and-test)
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design and UX](#design)
@@ -48,12 +47,12 @@ As a user, I want to be able to:
 - Update my contact information as it changes.
 - Update my contact information in one place and have it update everywhere at the VA.
 
+## Projects
+[See profile roadmap for full list of completed projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
+
 ## Analytics
 - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [GA dashboard for address validation](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
-
-## Projects
-[See profile roadmap for full list of completed projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
 ## Feature overview
 ### What to know about this feature
@@ -72,9 +71,6 @@ As a user, I want to be able to:
 * The only piece of contact information that can’t be deleted once added is a mailing address
 * This feature doesn’t support international phone numbers 
 
-## How to Access and Test
-[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
-
 ## Backend
 ### Services
 - Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
@@ -82,6 +78,9 @@ As a user, I want to be able to:
 
 ### Error Handling
 [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
+
+### How to Access and Test
+[See profile product outline for information on how to test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#how-to-access-and-test)
 
 ## Frontend
 Forms in contact info use the [VA Form Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-form-config-options)
