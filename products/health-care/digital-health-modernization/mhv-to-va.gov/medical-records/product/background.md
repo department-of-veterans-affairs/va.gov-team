@@ -79,19 +79,19 @@ You can view the VA Health Summary in a browser or download it as a PDF or XML f
 
 
 ## How do Veterans use records? 
-During user research, we've talked with Veterans about how they use their medical records:
-- To share VA health care data with a non-VA provider
+During user research, we talked with Veterans about how they use their medical records. Here are some themes:
+- To share their VA health care data with a non-VA provider
+- To document their service-connected disabilities for fear of losing access to care
+- To show proof of immunization or vaccination
 
-**Veterans are concerned with documenting their service connected disabilities for fear of losing access to care.** Veterans think of their health record as a crucial component of their disability benefits.
-
-
+We learned that Veterans think of their health record as a crucial component of their disability benefits.
 
 
 ## Lay of the land 
-Xxxxx xxxx
+Xxxxx xxxx...
 
-## Partners / stakeholders / SMEs
-Xxxxx xxxx
+## Partners, stakeholders, and SMEs
+Here's the full draft list of partners, stakeholders, and SMEs.
 
 ## What we know from user research 
 MHV on VA.gov and My HealtheVet studies...
