@@ -23,7 +23,7 @@ The Blue Button report contains the following data. The report contains the larg
 - DoD Military Service Information
 
 ### VA Health Summary:
-Xxxxxxx
+The VA Health Summary contains the following data. The report contains... You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 
 
 
