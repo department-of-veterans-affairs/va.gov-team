@@ -22,6 +22,8 @@ The Blue Button report contains the following data. The report contains the larg
 - Demographics and health insurance (VA + self-entered) 
 - DoD Military Service Information
 
+A My HealtheVet developer created an application called "Search my record." There is no data in "Search my record" that's not in Blue Button. But Blue Button includes some things "Search my record"  doesn't have (exs: DoD info, self-entered health data).
+
 ### VA Health Summary:
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA care and to share information with community providers, family, or others who help them with their health. You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Patient and contact info
@@ -62,7 +64,7 @@ Xxxxx xxxx
 ## Partners / stakeholders / SMEs
 Xxxxx xxxx
 
-## WWhat we know from user research 
+## What we know from user research 
 MHV on VA.gov and My HealtheVet studies...
 
 Round 1 UR of prototype: 
