@@ -3,7 +3,7 @@
 ## Background
 Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) in 2020 - 2021, a recurring theme mentioned by Veterans is that seeing personalized information upon login, including time-sensitive notifications at the top of the page, is important. Veterans said that they expected a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
 
-This effort aims to add a notifications MVP to the My VA dashboard to elevate the most critical tasks for veterans who are lgoged in and LOA3, and give them clear steps to take action on these items.
+This effort aims to add a notifications MVP to the My VA dashboard to elevate the most critical tasks for veterans who are logged in and LOA3, and give them clear steps to take action on these items.
 
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications) for more details.
 
