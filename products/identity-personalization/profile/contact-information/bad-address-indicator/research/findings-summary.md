@@ -244,8 +244,9 @@ The following recommendations center around reorganizing and revisiting the cont
 Next Steps
 ==========
 
-- Evaluate feasiblity of recommendations with team
-- Work with Danielle Thierry to determine direction for content and IA-related changes
+- Discern technical feasiblity of recommendations
+- Evaluate recommendations with product team
+- Work with Danielle Thierry to determine direction for content-related changes
 
 Further Research Needed
 =======================
