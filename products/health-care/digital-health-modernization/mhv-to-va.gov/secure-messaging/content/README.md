@@ -2,22 +2,24 @@
 
 This page details the content used throughout the Secure Messaging tool on VA.go
 
-## Secure landing page - Unauth
+## Table of Contents
+
+### Secure landing page - Unauth
 - Default view
 
-## Secure landing page - Auth without health care
+### Secure landing page - Auth without health care
 - Default view
 
-## Messages FAQ
+### Messages FAQ
 - Default view
 
-## Secure messages - Auth with health care (inbox)
+### Secure messages - Auth with health care (inbox)
 - Default view
 - Delete message from list
 - Move message from list to another folder
 - Sort/filter list
 
-## Message detail
+### Message detail
 - Default view
 - View attachment
 - Move message
@@ -28,10 +30,12 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Archive message
 - Navigate between messages
 
-## Compose message
+### Compose message
 - Default state
 - Choose a category
 - Attach a file
+- Attach file error
+- A
 - Save as draft
 - Auto-save as draft
 - Modify contacts list
@@ -47,33 +51,299 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Move messages from list to another folder
 - Sort/filter list
 
-## Sent Messages
+### Sent Messages
 - Default view
 - Delete message from list
+- Delete message confirmation
 - Move message to folder
 - Sort/filter list
 
-## Drafts
+### Drafts
 - Default view
 - Delete message from list
+- Delete message confirmation
 - Sort/filter list
 
-## Deleted
+### Deleted
 - Default view
 - Delete message from list
+- Delete message confirmation
 - Move message to folder
 - Sort/filter list
 
-## Folders
+### Folders
 - Default view
 - Create folder
+- Create folder error
 - Rename folder
+- Rename folder error (e.g., name already exists)
 - Delete folder
 - Empty folder
+- Empty folder confirmation
 - Manage folders
 
-## Preferences
+### Preferences
 - Contact list
 - Notifications
 - Display settings
 - Signature settings
+
+
+### Secure landing page - Unauth
+- Default view
+
+### Secure landing page - Auth without health care
+- Default view
+
+### Messages FAQ
+- Default view
+
+### Secure messages - Auth with health care (inbox)
+- Default view
+- Delete message from list
+- Move message from list to another folder
+- Sort/filter list
+
+### Message detail
+- Default view
+- View attachment
+- Move message
+- Delete message
+- Print message
+- Save attachment
+- Delete message
+- Archive message
+- Navigate between messages
+
+### Compose message
+- Default state
+- Choose a category
+- Attach a file
+- Attach file error
+- Attach file confirmation
+- Save as draft
+- Auto-save as draft
+- Modify contacts list
+- Send confirmation
+- Send error
+
+### Search messages
+- Default view
+- Basic search
+- Advanced search
+- Search results page
+- Delete messages from list
+- Move messages from list to another folder
+- Sort/filter list
+
+### Sent Messages
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Move message to folder
+- Sort/filter list
+
+### Drafts
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Sort/filter list
+
+### Deleted
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Move message to folder
+- Sort/filter list
+
+### Folders
+- Default view
+- Create folder
+- Create folder error
+- Rename folder
+- Rename folder error (e.g., name already exists)
+- Delete folder
+- Empty folder
+- Empty folder confirmation
+- Manage folders
+
+### Preferences
+- Contact list
+- Notifications
+- Display settings
+- Signature settings
+
+<hr>
+
+## Page Contents
+
+### Secure landing page - Unauth
+- Default view
+
+### Secure landing page - Auth without health care
+- Default view
+
+### Messages FAQ
+- Default view
+
+### Secure messages - Auth with health care (inbox)
+- Default view
+- Delete message from list
+- Move message from list to another folder
+- Sort/filter list
+
+### Message detail
+- Default view
+- View attachment
+- Move message
+- Delete message
+- Print message
+- Save attachment
+- Delete message
+- Archive message
+- Navigate between messages
+
+### Compose message
+- Default state
+- Choose a category
+- Attach a file
+- Attach file error
+- Attach file confirmation
+- Save as draft
+- Auto-save as draft
+- Modify contacts list
+- Send confirmation
+- Send error
+
+## Search messages
+- Default view
+- Basic search
+- Advanced search
+- Search results page
+- Delete messages from list
+- Move messages from list to another folder
+- Sort/filter list
+
+### Sent Messages
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Move message to folder
+- Sort/filter list
+
+### Drafts
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Sort/filter list
+
+### Deleted
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Move message to folder
+- Sort/filter list
+
+### Folders
+- Default view
+- Create folder
+- Create folder error
+- Rename folder
+- Rename folder error (e.g., name already exists)
+- Delete folder
+- Empty folder
+- Empty folder confirmation
+- Manage folders
+
+### Preferences
+- Contact list
+- Notifications
+- Display settings
+- Signature settings
+
+
+### Secure landing page - Unauth
+- Default view
+
+### Secure landing page - Auth without health care
+- Default view
+
+### Messages FAQ
+- Default view
+
+### Secure messages - Auth with health care (inbox)
+- Default view
+- Delete message from list
+- Move message from list to another folder
+- Sort/filter list
+
+### Message detail
+- Default view
+- View attachment
+- Move message
+- Delete message
+- Print message
+- Save attachment
+- Delete message
+- Archive message
+- Navigate between messages
+
+### Compose message
+- Default state
+- Choose a category
+- Attach a file
+- Attach file error
+- Attach file confirmation
+- Save as draft
+- Auto-save as draft
+- Modify contacts list
+- Send confirmation
+- Send error
+
+### Search messages
+- Default view
+- Basic search
+- Advanced search
+- Search results page
+- Delete messages from list
+- Move messages from list to another folder
+- Sort/filter list
+
+### Sent Messages
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Move message to folder
+- Sort/filter list
+
+### Drafts
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Sort/filter list
+
+### Deleted
+- Default view
+- Delete message from list
+- Delete message confirmation
+- Move message to folder
+- Sort/filter list
+
+### Folders
+- Default view
+- Create folder
+- Create folder error
+- Rename folder
+- Rename folder error (e.g., name already exists)
+- Delete folder
+- Empty folder
+- Empty folder confirmation
+- Manage folders
+
+### Preferences
+- Contact list
+- Notifications
+- Display settings
+- Signature settings
+
+
