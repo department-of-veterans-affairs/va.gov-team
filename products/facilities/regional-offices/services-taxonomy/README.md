@@ -46,14 +46,14 @@ The following is the list that is in the Lighthouse Facilities API (v0). The onl
 |	---	|	---	| ---	| ---	| ---	| ---	| ---	| ---	|
 |	Applying for benefits	|	---	| ---	| ---	| ---	| ---	| ---	|
 |	Burial claim help	|	---	| ---	| ---	| ---	| ---	| ---	|
-|	Disability claim help |	---	| ---	| ---	| ---	| ---	| ---	|
+|	Disability claim help |	---	| ---	| If you got sick or injured while serving in the military or your service made an existing condition worse. You may qualify for VA disability benefits for physical conditions (like a chronic illness or injury) and mental health conditions (like PTSD) that developed before, during, or after service. We can help you apply for and manage the Veterans disability benefits you've earned.	| ---	| ---	| ---	|
 |	~eBenefits registration help~ |	---	| ---	| ---	| ---	| ---	| eBenefits as a system is being sunset. This will no longer be a needed service.	|
 |	Education and career counseling |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Education claim help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Family member claim help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Help for homeless Veterans |	---	| ---	| If you are homeless or at risk of becoming homeless we can help you connect with resources in your community, like homeless shelters or faith-based organizations.	| ---	| ---	| ---	|
 |	VA housing assistance  |	VA home loans, Veterans housing assistance grants 	| ---	| We can help Veterans, service members, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, improve, or keep your current home. 	| ---	| ---	| ---	|
-|	Insurance claim help and financial counseling |	---	| ---	| ---	| ---	| ---	| ---	|
+|	Insurance claim help and financial counseling |	---	| ---	| We can help you explore your VA life insurance options, manage your policy, and help you, your spouse, or your dependent children file claims to get the insurance benefits you've earned.	| ---	| ---	| ---	|
 |	Integrated Disability Evaluation System Assistance (IDES) |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Pensions |	---	| ---	| ---	| ---	| ---	| This isn't actually part of VBA_facilities DB	|
 |	Pre-discharge claim help |	---	| ---	| If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, we can help you file a claim for disability benefits 180 to 90 days before you leave the military. 	| ---	| ---	| ---	|
