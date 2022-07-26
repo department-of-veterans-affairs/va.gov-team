@@ -9,7 +9,7 @@ Date: 7/25/2022
 
 Christina Gednalske <christina.gednalske@adhocteam.us>
 
-Jump to:
+**Jump to:**
 
 Hypotheses and conclusions
 
@@ -21,7 +21,7 @@ Who we talked to
 
 Further research needed
 
-Research Materials:
+**Research Materials:**
 
 -   [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/research-plan.md)
 
@@ -78,9 +78,9 @@ Key Findings
 3.  The majority of participants considered the alerts urgent.
 4.  Participants understood how to correct an error in their mailing address.
 5.  Most participants (7/10) had trouble understanding how to confirm an already-correct address.
-6.  A few participants expressed being concerned that by confirming their address via Update, there may inadvertently be a change made somewhere in the background to their already correct address.
+6.  A few participants expressed privacy concerns around the current process used to confirm an address.
 7.  Participants had a positive response to the new observer method used for the study.
-8.  Some participants had suggestions for miscellaneous changes on the Contact information page.
+8.  A few participants had suggestions for miscellaneous changes on the Contact information page.
 
 Details of Findings
 ===================
@@ -150,7 +150,7 @@ All participants quickly identified how to correct their information. Some did t
 
  > "Since it's correct, I won't do anything." - P1
 
-2 participants thought looking at the address or hitting cancel (no updates) if their mailing address was already correct would fulfill the request.
+2 participants thought looking at the address or selecting cancel (after selecting edit) if their mailing address was already correct would fulfill the request.
 
  > "I would guess it's saying 'Review your address' alert will show up only one time I'm visiting this page." "I would log out and go back in to confirm the alert went away." - P5
 
@@ -160,7 +160,7 @@ A few of these participants were able to figure out how to confirm, but only aft
 
  > "I guess I hit update even though I'm not updating anything. That's odd. Seems more like a confirmation than an update." - P6
 
-### #6: A few participants expressed privacy concerns around the current process to confirm their address by Updating without making any changes.
+### #6: A few participants expressed privacy concerns around the current process used to confirm an address.
 
 A few participants were concerned that by confirming their address via Update, a change may have inadvertently been made to their already correct address somewhere in the background.
 
@@ -192,7 +192,7 @@ All but 3 participants said they felt more at ease after observers said hello.
 
  > "It was kind of awkward." - P13
 
-### #8: Some participants had suggestions for miscellaneous changes on the Contact information page.
+### #8: A few participants had suggestions for miscellaneous changes on the Contact information page.
 
 Following the tasks, a few participants mentioned miscellaneous items for which they had suggestions or questions, such as inconsistent capitalization in "Review your Address," as well confusion around the email address appearing in all caps.  
 
@@ -200,17 +200,17 @@ Following the tasks, a few participants mentioned miscellaneous items for which 
 
 ## Additional Findings
 
-### #1: Multiple participants (2+) described or showed difficulty with logging in (most often through MyHealtheVet). 
+### #1: Multiple participants (2+) described or showed difficulty with logging in, most often through MyHealtheVet. 
 
-We observed difficulties logging in through MyHealtheVet and heard from Veterans that this had been going on for a while with this particular login method. Our 11th participant, a screen reader user, spent the majority of the session trying to log in with assistance from our screen reader tech specialist and was not able to make it to the tasks due to this extensive delay.
+We observed difficulties logging in through MyHealtheVet and heard from Veterans that this has been going on for a while with this particular login method. Our 11th participant, a screen reader user, spent the majority of the session trying to log in with assistance from our screen reader tech specialist and was not able to make it to the tasks due to this extensive delay.
 
  > "In the past month there have been issues with it not registering my login, but I guess that's due to the changes they've been making. I thought oh it's just my system, but then it happens on other people's laptops and phones, not just mine. And the answer was to erase all cookies. And that would do it as long as it was cleared of cookies. If there was a cookie in there from a prior visit, it would act like it was logging in, but it never truly logged in, but that is just with the MyHealtheVet one." - P6
 
  > Quote from P4, similar issues with MyHealtheVet
 
-### #2: Some participants expressed frustration with changes to contact information not being updated everywhere, or not being sure where it had been updated.
+### #2: Some participants expressed frustration with changes to their contact information not being updated everywhere across VA, as well as not knowing where exactly it had or had not been updated.
 
-Participants expressed frustration around not knowing where they still needed to make changes after updating contact information. They noted a lack of direct information and transparency around where exactly their information would be updated, and often referenced the "Change your address in your VA.gov profile" info page. P1 also expressed frustration with the disconnect between that when he updates info on the va website that the medical centers don't get that info and he has to update them each
+Participants expressed frustration around not knowing where updated contact information was shared or where they still needed to make changes. In particular, they mentioned updating information on the VA website and later discovering it was not shared with VA medical centers, creating the need to continuously update information at different facilities. They noted a lack of information and transparency around this, and often referenced the "Change your address in your VA.gov profile" info page. 
 
  > "I'm going to call the main VA and find out...when I download the PDF that shows all your health information it still has, there's so many different, it just seems like it lists like so many addresses" - P6
 
@@ -220,11 +220,11 @@ Participants expressed frustration around not knowing where they still needed to
 
 ### #3: One of our participants, a screen reader user who did not make it to the tasks, had significant difficulty attempting to navigate the home page to access his Profile.
 
-Even with guidance from an accessibility specialist/screen reader expert, one of our participants had an extremely difficult time navigating the homepage. If extensive research has not already been done with both beginner and advanced screen reader users, the identity team may want to consider exploring the current difficulty level of the login process for these Veterans.
+Even with guidance from our accessibility specialist/screen reader expert, one of our participants had an extremely difficult time navigating the homepage. If extensive research has not already been completed with both beginner and advanced screen reader users, the identity team may want to consider exploring the current difficulty level of the login process for these Veterans.
 
 ### #8: A few participants reached Profile or contact information directly through the "Change your address in your VA.gov profile" page
 
-This page proved to be one that was referenced or used often to reach Profile or edit contact information. This may be something to keep in mind when considering the mental model users have when looking to accessing Profile or editing one's contact information.
+This page was often referenced or used to reach Profile or edit contact information. This may be something to keep in mind when considering the mental model Veterans have when looking to accessing Profile or editing one's information.
 
 Recommendations
 ===============
@@ -234,12 +234,12 @@ The following recommendations center around reorganizing and revisiting the cont
 1.  Consider revisiting the content included within the Contact information alerts to further simplify the text and avoid confusion surrounding the two pathways of Updating and Confirming an address
 	* Simplify content in the main Contact information alert as it is often overlooked
 	* Determine if it is best to further differentiate between the Personal info and Contact info main alerts OR if these alerts should be made exactly the same (with some participants assuming they were the same and not reading the second alert)
-	* Consider separating out the instructions related to Confirming from the primary instructions for Updating an address
-	* Consider relocating the Confirm instructions within an additional information dropdown component (link) "What to do if your address is already correct" - to be accessed only when needed and help remove confusion surrounding Update Address and Confirm Address. Also consider expandable alert (link).
+	* Consider separating out the instructions for Confirming and address from the primary instructions for Updating an address
+	* Consider relocating the Confirm instructions to an additional information dropdown component (link) such as "What to do if your address is already correct" - to be accessed only when needed and help remove confusion surrounding the difference between Updating and Confirming an address. Also consider the expandable alert (link)
 	* Consider including the instructions for Confirming in the smaller alert in the mailing address field, closer to where participants are usually seeking this information during the Confirm task
 	* List Confirm instructions in an easy-to-read format, such as bullet points, to more clearly convey this information
-3.  Consider editing "Review your Address" to "Review your address"
-4.  Consider changing the email format to all lowercase
+3.  Consider changing "Review your Address" to "Review your address"
+4.  Consider changing the email format to all lowercase characters
 
 Next Steps
 ==========
