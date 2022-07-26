@@ -1,5 +1,9 @@
 ## Production Support
 
+### Other Support Documents
+[2022 Production Rollout Support](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md)
+[Check in Experience Quick Reference Handbook (QRH)](https://github.com/department-of-veterans-affairs/chip/blob/post-mortem-doc/docs/CIE%20Incident%20Response%20Plan.md)
+
 ### Summary
 
 Based on the CIE and TEVI team discussions, here is the current production support guidance for Check-in Experience team:
