@@ -229,7 +229,7 @@ This page proved to be one that was referenced or used often to reach Profile or
 Recommendations
 ===============
 
-The following recommendations center mostly around reorganizing and revisiting the content, to keep the current overall flow and maintain the successful Correct/Update pathway.
+The following recommendations center around reorganizing and revisiting the content, keeping the current overall flow.
 
 1.  Consider revisiting the content included within the Contact information alerts to further simplify the text and avoid confusion surrounding the two pathways of Updating and Confirming an address
 	* Simplify content in the main Contact information alert as it is often overlooked
