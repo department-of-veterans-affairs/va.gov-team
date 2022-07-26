@@ -89,11 +89,11 @@ Details of Findings
 
  > "That is new. I did notice that and haven't seen it before." - P3
 
- > "It is confusing because my mailing address should be correct, but I do like that it popped up right away" - P8
+ > "I do like that it popped up right away" - P8
 
 ### #2: 6/10 participants did NOT notice the Contact information page main alert or found the contents unclear.
 
-Some participants do not seem to notice or read the second alert, with a few stating the second alert was the same as the first one. Participants who read the alert often did not fully read the contents, reading only the first part and then jumping to the last part ("..select Update to confirm."). Participants paid more attention to the smaller yellow alert on the Contact information page.
+Some participants did not seem to notice or read the second alert, with a few stating the second alert was the same as the first one. Participants who read the alert often did not fully read the contents, reading only the first part and then jumping to the last part ("..select Update to confirm."). Participants paid more attention to the smaller yellow alert on the Contact information page.
 
  > "With all of the other pages with banners like this for Covid and flood warnings never apply to me so I just don't look at these." - P9, referring to the gray alert with a yellow stripe used on MyHealtheVet pages as well as elsewhere on va.gov
 
@@ -246,14 +246,14 @@ The following recommendations center around revisiting and reorganizing content 
 Next Steps
 ==========
 
-- Discern technical feasiblity of recommendations
+- Discern technical feasibility of recommendations
 - Evaluate recommendations with product team
 - Work with Danielle Thierry to determine direction for content-related changes
 
 Further Research Needed
 =======================
 
-Because our recruitment goals for AT users was not met during these seesions, we will aim to further emphasize hearing from these participants in our following UAT sessions. 
+Because our recruitment goals for AT users were not met during these sessions, we will aim to further emphasize hearing from these participants in our following UAT sessions. 
 
 Appendix
 ========
@@ -278,7 +278,7 @@ Who we talked to
 ----------------
 
 **Recruitment criteria**
-We recruited Veteran participants using a lean maximum variation strategy, with an emphasis on reaching our goals for AT users. We leveraged Perigean's recruiting services to find our participants, but had difficulty reaching our goal number of participants who use AT. 
+We recruited Veteran participants using a lean maximum variation strategy, with an emphasis on reaching our goals for AT users. We leveraged Perigean's recruiting services to find our participants, but had difficulty reaching our goal number of participants who use AT. Many participants who marked down that they were AT users, did not use such technology in the sessions.
 
 We talked to 11 participants, one of whom was not able to reach the Profile and carry out the tasks. Though we have learned valuable information from this participant about logging in and navigating the homepage using a screen reader, we will not be counting this participant as having completed usability testing.
 
