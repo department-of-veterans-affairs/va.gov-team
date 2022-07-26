@@ -117,20 +117,24 @@ These are the GA dashboards we use to track profile analytics:
 
 You can learn more about all of the backend systems that support the profile via the [Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
 
-The following information comes from VA Profile:
+The following information comes from **VA Profile**:
 
 - Personal information
 - Contact information
 - Military information
 - Notification preferences
 
-The following information comes from EVSS:
+The following information comes from **EVSS**:
 
 - Direct deposit for comp & pen
 
-The following information comes from BGS:
+The following information comes from **BGS**:
 
 - Direct deposit for education
+
+The following information is supported by **Lighthouse**:
+
+- Connected apps
 
 ### How to Access and Test
 
