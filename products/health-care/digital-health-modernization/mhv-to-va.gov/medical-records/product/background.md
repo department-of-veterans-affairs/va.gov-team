@@ -64,3 +64,26 @@ Xxxxx xxxx
 
 ## WWhat we know from user research 
 MHV on VA.gov and My HealtheVet studies...
+
+Round 1 UR of prototype: 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md
+Participants weren’t sure what constituted “recent” for the table at the top of the tool. Does recent mean the last week, month, etc?
+While most participants were not familiar with BlueButton, they were able to determine what it was based on contextual clues.
+Participants weren’t sure what the difference was between their Health Summary, and their BlueButton Medical Record.
+One participant mentioned there wasn’t a clear section for vaccine records, and wasn’t sure where they would live within the tool.
+
+Recs from Round 1 UR:
+Iterate on Medical Records Tool design to address the following
+
+Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”
+Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary
+Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? - Pass findings onto Mobile Team, see if they are still thinking about that.
+
+Round 2 report:
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md
+
+Round 2 success at: 
+viewing their medical records
+
+Participants were confused about certain terms, including "Blue Button,” and “Adverse Reactions.”
+50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round. None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
