@@ -349,7 +349,7 @@ We talked to 11 participants, one of whom was not able to reach the Profile and 
 Underserved groups we haven't talked to
 ---------------------------------------
 
-[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
+[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1R5QMLt5xHNVYBr9IehNSVMjT1Hi019TAGNjB6_1SCVU/edit#gid=1440553662)
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 -   Asian
