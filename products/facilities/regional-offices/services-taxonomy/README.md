@@ -45,11 +45,11 @@ The following is the list that is in the Lighthouse Facilities API (v0). The onl
 | Service name  | Veteran-friendly name(s)  | "Common conditions" | Description | Type of care  | Required(?) | VHA Use?  | Notes |
 |	---	|	---	| ---	| ---	| ---	| ---	| ---	| ---	|
 |	Applying for benefits	|	---	| ---	| ---	| ---	| ---	| ---	|
-|	Burial claim help	|	---	| ---	| ---	| ---	| ---	| ---	|
-|	Disability claim help |	---	| ---	| If you got sick or injured while serving in the military or your service made an existing condition worse. You may qualify for VA disability benefits for physical conditions (like a chronic illness or injury) and mental health conditions (like PTSD) that developed before, during, or after service. We can help you apply for and manage the Veterans disability benefits you've earned.	| ---	| ---	| ---	|
+|	Burial claim help	|	---	| ---	| We can help you apply for the burial benefits you've earned, and connect you to services to help you plan for a burial in advance or at time of need.	| ---	| ---	| ---	|
+|	Disability claim help |	---	| ---	| If you got sick or injured while serving in the military or your service made an existing condition worse, you may qualify for VA disability benefits. We can help you apply for and manage the Veterans disability benefits you've earned.	| ---	| ---	| ---	|
 |	~eBenefits registration help~ |	---	| ---	| ---	| ---	| ---	| eBenefits as a system is being sunset. This will no longer be a needed service.	|
 |	Education and career counseling |	---	| ---	| ---	| ---	| ---	| ---	|
-|	Education claim help |	---	| ---	| ---	| ---	| ---	| ---	|
+|	Education claim help |	---	| ---	| We can help you apply for and manage the VA education and training benefits you've earned for you or your qualified family members.	| ---	| ---	| ---	|
 |	Family member claim help |	---	| ---	| ---	| ---	| ---	| ---	|
 |	Help for homeless Veterans |	---	| ---	| If you are homeless or at risk of becoming homeless we can help you connect with resources in your community, like homeless shelters or faith-based organizations.	| ---	| ---	| ---	|
 |	VA housing assistance  |	VA home loans, Veterans housing assistance grants 	| ---	| We can help Veterans, service members, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, improve, or keep your current home. 	| ---	| ---	| ---	|
