@@ -3,8 +3,9 @@
 ## 7/27/2022 (FUTURE)
 
 #### Planned Releases (TENTATIVE)
-- [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
-- [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
+- 8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+- 8/9? [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
+- 8/9? [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
 
 #### Discovery Sprint Goals (TENTATIVE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
@@ -19,7 +20,7 @@
     - Create Prototype for new language toggle
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Meet with VAOS to verify the logic and agree on how we want to handle CVT appointments in Pre-Check-in and Check-in    
-- [Check-in for Public Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
+- [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
     - Meet with team & Walk through Pre-Check-in & Check-in applications to decide what needs to change to support a public device
 - [Break out by Language](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/44509)
     - Meet with Analytics team to determine how we can split out metrics by language
