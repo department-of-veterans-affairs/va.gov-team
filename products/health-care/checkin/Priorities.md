@@ -14,8 +14,8 @@
 ### DEVELOPMENT
 | **<u>Epic/Feature</u>** | **<u>Status</u>** | **<u>To Refine</u>** | **<u>Refined</u>** | **<u>In Prog.</u>** | **<u>Done</u>** | **<u>Notes</u>**|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ----------------------------------------- | ------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------ |
-| [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)| In Progress **Release 7/26?**||1|3|12| Kristen will work with DS if they need us to test the new control with Veterans |
-| [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)| In Progress ||2|1|32| We are cleared to release; [Previous slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1657636994325549);  |
+| [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)| **Release 8/4**||1|3|12| Kristen will work with DS if they need us to test the new control with Veterans |
+| [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)| **Release 8/9?** ||2|1|32| We are cleared to release; [Previous slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1657636994325549);  |
 | [CIE Performance Testing](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39600)| In Progress|||1|10| Support CHIP as needed |
 | [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)| In Progress||4|1|2| Dev work merged to main, remaining work is SMS content |
 | [Spanish Support- Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)| In Progress||1|1|4| Waiting on SD QA |
@@ -35,8 +35,28 @@
 | [[SMS] Send Pre-Check-in Reminder(s)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44396)||1||||
 | [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)||1|||||
 | [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)||1|4||||
+| [Integrate with EAS (Enterprise Appointment Service)]()||||||Slated to be launch 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
 
+***
 
+### RICE Scoring
+RICE Score = (R x I x C) / E
 
-
+- R = Reach (#)
+  - How many people will this impact? (Estimate within a defined time period.)
+- I = Impact (0.25 - 3)
+  - How much will this impact each person? (Massive = 3x, High = 2x, Medium = 1x, Low = 0.5x, Minimal = 0.25x.)
+  - Does this increase the adoption of your product?    
+- C = Confidence (%)
+  - How confident are you in your estimates? (High = 100%, Medium = 80%, Low = 50%.)
+  - To curb enthusiasm for exciting but ill-defined ideas, factor in your level of confidence about your estimates.     
+- D - Disadvantaged Group
+  - Does this help a disadvantaged group (scale???)
+- B - Business Impact
+  - Impact to the VA overall (scale???)
+- M - Measurable?
+  - How easy can we measure the success? (scale???)
+- E = Effort (#)
+  - How many “person-months” will this take? (Use whole numbers and minimum of half a month)    
+  - To move quickly and have impact with the least amount of effort, estimate the total amount of time a project will require from all members of your team
 
