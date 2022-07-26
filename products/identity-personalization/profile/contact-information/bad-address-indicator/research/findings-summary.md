@@ -85,9 +85,6 @@ Key Findings
 Details of Findings
 ===================
 
-Initial Findings
-----------------
-
 ### #1: 7/10 participants quickly noticed and understood the Personal information page alert.
 
  > "That is new. I did notice that and haven't seen it before." - P3
