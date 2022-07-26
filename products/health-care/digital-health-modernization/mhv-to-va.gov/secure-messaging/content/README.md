@@ -1,11 +1,15 @@
 # Secure Messaging Content Documentation
 
-This page details the content used throughout the Secure Messaging tool on VA.go
+This page details the content used throughout the Secure Messaging tool on VA.gov
 
 ## Table of Contents
 
+### Layout / Components
+- Exceptions to standard tags, design system components
+- Design system components
+
 ### Secure landing page - Unauth
-- [Default view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#secure-landing-page---unauth-1)
+- [Default view](#secure-landing-page---unauth-1)
 
 ### Secure landing page - Auth without health care
 - Default view
@@ -92,12 +96,30 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ## Page Content Specs
 
+### Layout / Components
+*Examples of what to include*
+- Exceptions to standard tags, design system components
+  - H1 gets h2 styling for sizing
+  - H2s get h3 styling for sizing
+- Design system components
+  - H1 gets h2 styling for sizing
+  - H2s get h3 styling for sizing
+  - Use style rules from design system for html elements padding and margins
+  - Use design system components
+    -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
+    -  radio input styling ([design system documentation](https://design.va.gov/components/form-controls#radio-buttons))
+    -  In the warning alert, use the on this page jump link ([design system documentation](https://design.va.gov/components/on-this-page-jump-links))
+  - Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
+    - background-only alert, icons, form input validation message
+    - All states documented in Input Message States [linked above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#relevant-links)
+    - [Here are the experimental page in the design system docs](https://design.va.gov/experimental-design/input-message)
+
 ### Secure landing page - Unauth
 #### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup]()
 - H1: Messages
-- H2: Test: Your 
+- H2:
 
 ### Secure landing page - Auth without health care
 - Default view
@@ -113,15 +135,26 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ### Message detail
 #### Default view
-- `H1` "Messages"
-- `Action link` "< Previous" "Next >"
-- H2: "Message subject"  *Example: Test: Your lab results*
-- H3: From:
-- H4: To:
-- Date:
-- Message ID:
+This is the default way a message detail loads after a user opts to open a message.
+- [Desktop Mockup]()
+- [Mobile Mockup]()
+- URL: *this is where the page URL will go once it's been decided*
+- `H1` Messages
+- `Link` < Previous `Link`Next >
+- *Display message contents*
+  - Message subject
+  - From:
+  - To:
+  - Date:
+  - Message body
+  - Display the word "Attachments" if the message has an attachment
+  - [paper clip icon][link] Name of attachment
+  - 
 
 #### View attachment
+- [Desktop Mockup]()
+- [Mobile Mockup]()
+
 #### Move message
 #### Delete message
 #### Print message
