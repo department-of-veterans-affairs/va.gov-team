@@ -35,7 +35,9 @@
 | [[SMS] Send Pre-Check-in Reminder(s)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44396)||1||||
 | [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)||1|||||
 | [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)||1|4||||
-| [Integrate with EAS (Enterprise Appointment Service)]()||||||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
+| [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)||||||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
+| [Remove/Disable Sign in Link for Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44876)|||||||
+
 
 ***
 
