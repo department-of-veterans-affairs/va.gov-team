@@ -4,10 +4,11 @@ July 26, 2022
 ## What's in records? 
 Currently VA has 2 types of medical records: 
 - **Blue Button:** A Veteran's entire health record with VA. If the Veteran provided their VA doctor with health data from a non-VA doctor (ex: prescriptions), their VA doctor can enter that info into their VA health record.
+<br></br>
 - **My VA Health Summary (a.k.a. CCD, CCDA, or Continuity of Care Document):** If a Veteran sees a non-VA provider, they show that provider this document. The VA Health Summary supports continuity of care between providers.
 
 ### Blue Button:
-The Blue Button report contains the following data. You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+The Blue Button report contains the following data. The report contains the largest set of health data VA has for a Veteran. You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Appointments (VA future, past)
 - Medications (VA med history + self-entered)
 - Labs and tests (VA lab results, pathology reports, radiology reports, EKGs + self-entered) 
@@ -20,6 +21,9 @@ The Blue Button report contains the following data. You can view the report in a
 - Goals (current, completed >> all self-entered)
 - Demographics and health insurance (VA + self-entered) 
 - DoD Military Service Information
+
+### VA Health Summary:
+Xxxxxxx
 
 
 
