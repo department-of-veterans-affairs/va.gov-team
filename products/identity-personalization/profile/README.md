@@ -47,7 +47,7 @@ Currently, the VA.gov profile supports the following information:
 - [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
 - [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
 - Account security
-- Connected apps (managed by the Lighthouse team)
+- [Connected apps (managed by the Lighthouse team)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps-data)
 
 ### Is VA Profile the same thing as the VA.gov profile?
 
