@@ -49,8 +49,9 @@ Before we look at the website, let’s start with a few warm-up questions.
     - What is helpful?
     - What is not helpful?
     - What needs to be clarified?
-
-
+<details>
+  <summary>Screensharing Troubleshooting</summary>
+  
 ## Screen Sharing
 
 In order to get the most out of this session, I would like to be able to see your screen. Can you let me know what kind of device you’re using, laptop/desktop or a mobile device?
@@ -82,10 +83,11 @@ First I want to make sure your technology is ready to go for this session. Can y
 *Backup plan if they cannot figure out how to share screen:*
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - *Share your screen.* Can you confirm if you can see my screen?
+</details>
 
 ## Task 1: Logging In - 10 Minutes
 
-Ensure the user is sharing their screen.
+Ensure the user is still sharing their screen. Have them navigate to the VA homepage.
 - Can you login to VA.gov for me?
 - When you have a login issue, at what point during this process does that usually happen?
 - Can you show me what you usually do when you experience a login problem?
