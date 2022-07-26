@@ -1,16 +1,16 @@
 # Team, partners, and subject-matter experts for medical records (DRAFT)
 July 21, 2022
 
-## Meetings so far:
+## Meetings so far
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
 - My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22
 - OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
 - "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
 
-## To do:  
+## To do 
 - **Confirm which points of contact go in which categories below.** For example, a partner listed as "other partner" might actually be a "main parter," or they might be a SME. 
 
-## Core MHV on VA.gov team 
+## MHV on VA.gov team members to work on records 
 - **Product owner:** Tracey Mulrooney
 - **Product manager:** Marci McGuire
 - **Design lead:** Jonathan Nelson
