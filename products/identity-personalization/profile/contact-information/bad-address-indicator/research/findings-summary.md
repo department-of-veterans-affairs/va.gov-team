@@ -273,6 +273,7 @@ Tools used for Synthesis
 [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1656370802823/d7ae73f038c2af49a4cc726ee0bda1a500ac5755?sender=u28f508d646c449cc1afe4873)
 
 Pages and applications used
+---------------------------
 
 Link to Profile?
 
