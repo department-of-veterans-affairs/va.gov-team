@@ -46,9 +46,9 @@ July 21, 2022
 - **Privacy:** Stefania Griffin, Margaret (Peggy) Pugh
 - **HIMS:** Erinn Dean (HIMS = Health Information Management Service)
 - **Pathology and labs:** 
-  - Main PoCs: Michael Icardi, Thomas Haugen
-  - PoCs for how labs display: Leanne Walls, Theresa (Terry) Weber; 
+  - Main PoCs: ________ (?), Thomas Haugen
+  - PoCs for how labs display: Leanne Walls, Theresa (Terry) Webber; 
   - Lab enforcer: ________ (?)
 - **Clinical Informatics:** Kellie Condon, Jonathan Nebeker
-- **VA Immunizations / NCP:** Stephanie Spohr, Dr. Jane Kim (NCP = National Center for Health Promotion and Disease Prevention?)
+- **VA Immunizations / NCP:** Stephanie Spohr (NCP = National Center for Health Promotion and Disease Prevention?)
 
