@@ -241,10 +241,6 @@ The following recommendations center mostly around reorganizing and revisiting t
 3.  Consider editing "Review your Address" to "Review your address"
 4.  Consider changing the email format to all lowercase
 
-_Related recommendations: Change content/structure of alert. Most confusion comes from how to confirm address, yet this is the secondary action, so can we put an FAQ in the alert(s) to give these instructions, only when needed, extra simplifying them?_
-
-_Simplify larger alert as it is often overlooked - keep for vital screen reader focus path. Move Confirm information into smaller alert (when and where this information is usually needed and looked for) in a FAQ additional info dropdown so users will not need to sift through this information unless it pertains to them._
-
 Next Steps
 ==========
 
