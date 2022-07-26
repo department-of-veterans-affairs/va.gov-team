@@ -16,21 +16,21 @@ The primary goal of our UAT is to confirm that our MVP functionality works as ex
 
 - We would like to validate that no major usability hurdles have been introduced during the iterations that have occurred, especially with the changes we made to the alert design.
 - We would like to test notifications with a screen reader user to validate that the information is presented in line with their mental model and they are able to act on it as intended.
-- We would like to validate that when a notification is triggered in VA Notify, a user sees a notification as intended at the top of My VA with the appropruare time stamp.
+- We would like to validate that when a notification is triggered in VA Notify, a user sees a notification as intended at the top of My VA with the appropriate time stamp.
 - We would like to verify that if a user receives multiple notifications, they are shown as individual notifications with time stamps ordered with the newest at the top.
 
 ### Outcome
 Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
 
 ### Hypothesis
-- Userswill notice the Notifications section upon login before proceeding on the page.
+- Users will notice the Notifications section upon login before proceeding on the page.
 - Users will be able to easily take action on their notifications from My VA and dismiss them.
 - Users will not encounter any bugs in the Notifications section.
 - Screen reader users will feel that the information is presented in line with their mental model, and is easily understood and acted upon.
 - The current warning alert component will cause some confusion about whether notifications are system errors or personalized action items.
 
 ## Method	
-We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions. We will test this feature in production and work with VA Notify to trigger notifications for participants.
+We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on our usability-related questions. We will test this feature in production and work with VA Notify to trigger notifications for participants.
 
 ### Location
 Remote, via Zoom
@@ -50,7 +50,7 @@ We will need at least 6 completed sessions to finalize UAT and launch this featu
 **All participants**
 
 - must be LOA3 (identity verified) on VA.gov.
-- must either be veterans, have a cognitive disability, OR use assistive technology to access VA.gov.
+- must either be veterans, have a cognitive disability, **OR** use assistive technology to access VA.gov.
 - must be able to screenshare via Zoom.
 - must be comfortable providing the email address they use to sign into VA.gov.
 
