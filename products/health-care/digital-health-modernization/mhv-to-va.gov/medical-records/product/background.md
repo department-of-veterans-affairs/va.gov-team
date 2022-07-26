@@ -39,9 +39,9 @@ In early 2022, a My HealtheVet (MHV) developer created an application called "[S
 - It became clear that Blue Button (the report) was outdated, that it needed an upgrade.
 - After that, the goal was to make it better to search. 
  
-MHV's UCD Team was not involved in the original design and development of "Search my record." After the soft launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but since they ran into performance issues the project has been on hold.
+MHV's UCD Team was not involved in the original design and development of "Search my record." After the soft launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but the project has been on hold since they ran into performance issues.
 
-NOTE: You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). From search results, you can click into an individual data point such as lab work on a specific day for a specific reason.
+NOTE: You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). From the search results, you can click into an individual data point such as lab work on a specific day for a specific reason.
 
 [See the top middle of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
  
@@ -79,21 +79,26 @@ You can view the VA Health Summary in a browser or download it as a PDF or XML f
 
 
 ## How do Veterans use records? 
-During user research, we talked with Veterans about how they use their medical records. Here are some themes:
+During user research, we talked with Veterans about how they use their medical records. We heard these themes:
 - To share their VA health care data with a non-VA provider
 - To document their service-connected disabilities for fear of losing access to care
 - To show proof of immunization or vaccination
 
-We learned that Veterans think of their health record as a crucial component of their disability benefits.
+And we learned that Veterans think of their health record as a crucial component of their disability benefits.
 
 
-## Lay of the land 
-Xxxxx xxxx...
+## Lay of the land << Meg is here >>
+MHV and OCTO + LOTS of other parties. 
+Understand stakeholder priorities and who can make decisions. It's possible that different people will make key decisions based on their expertise.
+Find a way to inform SMEs and non-main stakeholders so you don't get too far down the wrong direction.
+Have Nancy and Theresa introduce you to new SHs.
+
 
 ## Partners, stakeholders, and SMEs
 [Here's the full draft list of partners, stakeholders, and SMEs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
-## What we know from user research 
+
+## What we know from user research < WORK IN PROGRESS >
 MHV on VA.gov and My HealtheVet studies...
 
 Round 1 UR of prototype: 
