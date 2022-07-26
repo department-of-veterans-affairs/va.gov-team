@@ -8,7 +8,7 @@ This effort aims to add a notifications MVP to the My VA dashboard to elevate th
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications) for more details.
 
 ### OCTO-DE Objectives 
-The addition of a notifications section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.
+The addition of a notifications section will help fulfill our north star objective of moving toward My VA being the one-stop shop for action items, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.
 
 
 ## Research Goals	
