@@ -23,11 +23,28 @@ The Blue Button report contains the following data. The report contains the larg
 - DoD Military Service Information
 
 ### VA Health Summary:
-The VA Health Summary contains the following data. The report contains... You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
-
-
-
-
+The VA Health Summary contains the following data from your VA medical record. A Veteran can use it to review their VA care and to share information with community providers, family, or others who help them with their health. You can view the report in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+- Patient and contact info
+- Health care providers
+- Insurance providers
+- Advance directives
+- Allergies
+- Encounters (with VA: secure messages, appointments, perhaps phone calls)
+- Functional status
+- Medications
+- Immunizations
+- Procedures
+- Plan of care / treatment
+- Problems
+- Results
+- Social history
+- Vital signs 
+- Consultation notes
+- History and physical
+- Discharge summaries
+- Radiology studies
+- Pathology studies
+- Procedure notes
 
 ## How do Veterans use records? 
 Xxxxx xxxx
