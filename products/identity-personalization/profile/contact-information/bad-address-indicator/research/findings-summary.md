@@ -232,19 +232,18 @@ Recommendations
 The following recommendations center mostly around reorganizing and revisiting the content, to keep the current overall flow and maintain the successful Correct/Update pathway.
 
 1.  Consider revisiting the content included within the Contact information alerts to further simplify the text and avoid confusion surrounding the two pathways of Updating and Confirming an address
-  - Determine if it is best to further differentiate between the Personal info and Contact info main alerts OR if these alerts should be made exactly the same (with some participants assuming they were the same and not reading the second alert)
-  - Consider separating out the instructions related to Confirming from the primary instructions for Updating an address
-  - Consider relocating the Confirm instructions within an additional information dropdown component (link) "What to do if your address is already correct" - to be accessed only when needed and help remove confusion surrounding Update Address and Confirm Address. Also consider expandable alert (link).
-  - Consider including the instructions for Confirming in the smaller alert in the mailing address field, closer to where participants are usually seeking this information during the Confirm task
-  - List Confirm instructions in an easy-to-read format, such as bullet points, to more clearly convey this information
-
+	* Simplify content in the main Contact information alert as it is often overlooked
+	* Determine if it is best to further differentiate between the Personal info and Contact info main alerts OR if these alerts should be made exactly the same (with some participants assuming they were the same and not reading the second alert)
+	* Consider separating out the instructions related to Confirming from the primary instructions for Updating an address
+	* Consider relocating the Confirm instructions within an additional information dropdown component (link) "What to do if your address is already correct" - to be accessed only when needed and help remove confusion surrounding Update Address and Confirm Address. Also consider expandable alert (link).
+	* Consider including the instructions for Confirming in the smaller alert in the mailing address field, closer to where participants are usually seeking this information during the Confirm task
+	* List Confirm instructions in an easy-to-read format, such as bullet points, to more clearly convey this information
 3.  Consider editing "Review your Address" to "Review your address"
-
 4.  Consider changing the email format to all lowercase
 
-Related recommendations: Change content/structure of alert. Most confusion comes from how to confirm address, yet this is the secondary action, so can we put an FAQ in the alert(s) to give these instructions, only when needed, extra simplifying them?
+_Related recommendations: Change content/structure of alert. Most confusion comes from how to confirm address, yet this is the secondary action, so can we put an FAQ in the alert(s) to give these instructions, only when needed, extra simplifying them?_
 
-Simplify larger alert as it is often overlooked - keep for vital screen reader focus path. Move Confirm information into smaller alert (when and where this information is usually needed and looked for) in a FAQ additional info dropdown so users will not need to sift through this information unless it pertains to them.
+_Simplify larger alert as it is often overlooked - keep for vital screen reader focus path. Move Confirm information into smaller alert (when and where this information is usually needed and looked for) in a FAQ additional info dropdown so users will not need to sift through this information unless it pertains to them._
 
 Next Steps
 ==========
@@ -330,7 +329,7 @@ We talked to 11 participants, one of whom was not able to reach the Profile and 
 -   Asian: 0
 -   Native: 0
 
-Disability and Assistive Technology (AT):
+**Disability and Assistive Technology (AT):**
 -   Cognitive: 6
 -   AT beginner: 0
 -   AT advanced user: 0
@@ -346,13 +345,7 @@ Underserved groups we haven't talked to
 ---------------------------------------
 
 [Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
-==============================================================================================================================================================================
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-=============================================================================================
-
 -   Asian
-    =====
-
 -   Native
-    ======
