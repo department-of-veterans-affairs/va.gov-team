@@ -25,6 +25,8 @@ The Blue Button report contains the following data. This report contains the lar
 #### Search my record
 In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use this application.) All data in "Search my record" also lives in Blue Button. But Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). Currently MHV does not link to the "Search my record" app, so only people who know the URL can access it. 
 
+Add info on why, then why not for SMR... 
+
 ### VA Health Summary:
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA care and to share information with community providers, family, or others who help them with their health. You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Patient and contact info
