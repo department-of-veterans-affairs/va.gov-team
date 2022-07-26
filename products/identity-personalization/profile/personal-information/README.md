@@ -60,6 +60,7 @@ To access the personal information section of the profile in staging:
 2. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
 
 ## Backend
+[Backend technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
 
 Personal information integrates through two different services:
 
