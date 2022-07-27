@@ -98,11 +98,11 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ### Common Layouts / Components
 [*Provide examples of standards that are used so you can refer back to them in the page sections below instead of having to create a mockup for every single state for every single page]
-- Exceptions to standard tags, design system components
+#### Exceptions to standard tags, design system components
   - H1 gets h2 styling for sizing
   - H2s get h3 styling for sizing
   - Etc...
-- Design system components
+#### Design system components
   - Use style rules from design system for html elements padding and margins
   - Use design system components and patterns
     -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
