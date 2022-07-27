@@ -13,7 +13,14 @@
 
 </details>
 
-## Monday, July 18, 2022
+## Monday, August 2, 2022
+
+* Heads up - VBA data, retiring "Sandy's database"
+  * "1-year out"
+  * Be aware of the VBA Facilities effort and regularly update in this meeting 
+
+
+## Monday, July 25, 2022
 
 * Dave C on leave this week 
 * ATC Changes
