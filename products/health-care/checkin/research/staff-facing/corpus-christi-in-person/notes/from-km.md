@@ -232,6 +232,32 @@ Observations:
 **6**
 - Want to update their VHIC card and wasn't checking in for an appointment.
 
+**7**
+- Didn't want to try, because they tried the other day at a different clinic and got an error.
+
+**8**
+- Texted, but had to have help texting
+- Successfully checked-in
+- This was their 2nd tie using PCI.
+- The information on the confirmation page and the appt time was the most important info to them.
+- The security of PCI: "It is alright."
+- NPS: 9
+ - Overall impression: "Better than standing in line. It is better."
+- When they messed up the number
+- Didn't notice Spanish version, but does speak Spanish.
+  - "I speak it better than I read it."
+- Immediately walked over to the kiosk to complete other tasks.
+
+**9**
+- They weren't checking in. They just wanted to talk to the MSA.
+
+**10**
+- They weren't checking in for a scheduled appointment. They had a walk-in scenario for an x-ray.
+
+**Note about Veterans intercepts**
+- PCI users didn't see delays in receiving links and page loading, but connectivity was good at these locations.
+- We completed these intercepts over a 2 hour time period. We weren't able to intercept everyone. We talked to the next Veteran walking through the door as soon as we finished speaking with a Veteran. Some Veterans entered while we were already talking to someone else. We didn't intercept Veterans who very obviously seemed busy or
+
 ### Annex
 It is located in the building directly behind the Corpus Christi VA Clinic.
 
