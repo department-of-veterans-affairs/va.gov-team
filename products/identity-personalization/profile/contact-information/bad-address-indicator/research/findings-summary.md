@@ -1,8 +1,6 @@
 Findings Summary - Bad Address Indicator
 ========================================
 
-_DRAFT_
-
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
 Date: 7/25/2022
@@ -13,13 +11,13 @@ Christina Gednalske <christina.gednalske@adhocteam.us>
 
 [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/findings-summary.md#hypothesis-and-conclusions)
 
-Key findings
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/findings-summary.md#key-findings)
 
-Recommendations
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/findings-summary.md#recommendations)
 
-Who we talked to
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/findings-summary.md#who-we-talked-to)
 
-Further research needed
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/findings-summary.md#further-research-needed)
 
 **Research Materials:**
 
