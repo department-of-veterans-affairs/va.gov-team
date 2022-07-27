@@ -16,22 +16,22 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 ### Messages FAQ
 - [Default view](#default-view-1)
 
-### [Secure messages - Auth with health care \(inbox\)](#secure-landing-page---auth-without-health-care-1)
+### [Secure messages - Auth with health care \(inbox\)](#secure-messages---auth-with-health-care-inbox-1)
 - [Default view](#default-view-3)
-- Delete message from list
-- Move message from list to another folder
-- Sort/filter list
+- [Delete message from list](#delete-message-from-list)
+- [Move message from list to another folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#move-message-from-list-to-another-folder)
+- [Sort/filter list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#sortfilter-list)
 
-### Message detail
+### [Message detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#message-detail-1)
 - [Default view](#default-view-3)
-- View attachment
-- Move message
-- Delete message
-- Print message
-- Save attachment
-- Delete message
-- Archive message
-- Navigate between messages
+- [View attachment](#view-attachment)
+- [Move message](#move-message)
+- [Delete message](#delete-message)
+- [Print message](#print-message)
+- [Save attachment](#save-attachment)
+- [Delete message](#delete-message-1)
+- [Archive](#archive-message)
+- [Navigate between messages](#archive-message)
 
 ### Compose message
 - [Default view](#default-view-4)
@@ -119,17 +119,36 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 #### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- H1: Messages
+- `H1` Messages
 
 
 ### Secure landing page - Auth without health care
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
 
 ### Messages FAQ
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
 
 ### Secure messages - Auth with health care (inbox)
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
+
 #### Delete message from list
 #### Move message from list to another folder
 #### Sort/filter list
@@ -160,24 +179,51 @@ This is the default way a message detail loads after a user opts to open a messa
 - MMM DD, YYYY at HH:MM [am/pm][time zone]
 - [/div]
 
-<hr> 
+<hr>
 
 #### View attachment
-- [Desktop Mockup]()
-- [Mobile Mockup]()
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
 
 #### Move message
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
 #### Delete message
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
 #### Print message
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
 #### Save attachment
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
 #### Delete message
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
 #### Archive message
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
 #### Navigate between messages
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
 
 <hr>
 
 ### Compose message
-#### Default state
+#### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
+
 #### Choose a category
 #### Attach a file
 #### Attach file error
@@ -192,6 +238,13 @@ This is the default way a message detail loads after a user opts to open a messa
 
 ## Search messages
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
+
 #### Basic search
 #### Advanced search
 #### Search results page
@@ -203,6 +256,13 @@ This is the default way a message detail loads after a user opts to open a messa
 
 ### Sent Messages
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
+
 #### Delete message from list
 #### Delete message confirmation
 #### Move message to folder
@@ -212,12 +272,26 @@ This is the default way a message detail loads after a user opts to open a messa
 
 ### Drafts
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
 #### Delete message from list
 #### Delete message confirmation
 #### Sort/filter list
 
+<hr>
+
 ### Deleted
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
 #### Delete message from list
 #### Delete message confirmation
 #### Move message to folder
@@ -227,6 +301,12 @@ This is the default way a message detail loads after a user opts to open a messa
 
 ### Folders
 #### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
 #### Create folder
 #### Create folder error
 #### Rename folder
@@ -235,6 +315,8 @@ This is the default way a message detail loads after a user opts to open a messa
 #### Empty folder
 #### Empty folder confirmation
 #### Manage folders
+
+<hr>
 
 ### Preferences
 #### Contact list
