@@ -7,11 +7,12 @@
 - Integrate into the Facilities API
 
 ## Assumptions
-- The pattern established by the VAMC and Vet Center services can easily extended to the VBA services
-- We will need to coordinate communications between VHA and VBA due to re-use of taxons (e.g. Vocational rehabilitation) and ensure alignment as-necessary.
+
 
 |	Assumption/early discussion	|	Decision	|
 |	---	|	---	|
+|	The pattern established by the VAMC and Vet Center services can easily extended to the VBA services	|	---	|
+|	Re-use of taxons (e.g. Vocational rehabilitation) between administrations	|	Leverage the taxonomy working group to work through these definitions and overlays. May require change management with VAMC folks and/or additional discovery. (fast-follow on whether these are overlap or not?)	|
 
 
 ## Original list of services
