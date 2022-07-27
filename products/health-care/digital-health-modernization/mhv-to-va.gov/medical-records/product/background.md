@@ -35,7 +35,9 @@ The Blue Button Report contains the largest set of health data VA has for a Vete
 **Key point:** When you download a Blue Button Report, you choose what data goes into it. 
 
 #### Search my record
-In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application. Here's the [search screen for "Search my record."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/search-my-record-search-screen.png)
+In early 2022, a My HealtheVet (MHV) developer created an application called "Search my record."
+- ["Search my record" dark launch](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) (You must sign in to use the application.) 
+- [Mockup of the search screen for "Search my record."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/search-my-record-search-screen.png)
 
 A few things to note about "Search my record":
 - All data in "Search my record" also lives in Blue Button, but...
