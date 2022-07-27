@@ -40,6 +40,9 @@ Currently on My HealtheVet:
 - Veterans cannot connect wearable devices and upload the data to My HealtheVet. 
 - OCC is working now on how to improve “sync my health data," to make it easier for Veterans to sync and share. They would like to add a data visualization.
 
+Currently in the Office of the CTO: 
+- The DHP Team (Digital Health Platform) is working on enabling Veterans to connect their wearable devices to VA.gov so they can share health data with their care team. Stefany Holguin is the product owner. 
+
 Decision needed: 
 - VA needs to address the question of PGHD being part of the patient's comprehensive record.
 
