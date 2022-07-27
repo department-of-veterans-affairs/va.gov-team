@@ -24,18 +24,19 @@
 
 * Dave C on leave this week 
 * ATC Changes
- * Synced up with Dave C
- * Were previously aware that ATC was making changes, but didnt reallly get advance notice
- * Had to persist stale data, while handled internal changes, mapped new names .. Service X -> Y
- * 1 Service deprecated: Orthepaedic care - will not longer get wait data 
- * Will persist snapshot data - wait times become stale, BUT - removed and added back? TBD
- * Have to confirm -Is it going away
- * ATC modfied Mental Health . .Mental Health -> broken into 3 services, MH Individual, MH Group, Integrated MH services 
- * Had to map to orignal, and each of those have their own wait times...many to one mapping.
- * For Now: We're keeping MH Individual exclusively - 74 facilites - on LH team to determine path here, no longer show it as available, 15 new sites have MH, will wait and see, possibly combine, what do each of these mean? Looking at different options.. Dave C aware and investigating. 
- * ATC is pulling service info data from both Vista and Cerner - for a couple facilites they are pulling from both.  Not validating on their side.. Getting duplicate payloads, which breaks LH code. We see this in Boise - Primary Care had to throw that service away - what we're aware of now
-* ATC madness impacted v1 work - still working on providing solid date 
-* Josh setting up call with ATC, James will push fwd, 1/ get more insight 2/ addressing descrepancies in production data (Orthopaedics for instance)
+  * Synced up with Dave C
+  * Were previously aware that ATC was making changes, but didnt reallly get advance notice
+  * Had to persist stale data, while handled internal changes, mapped new names .. Service X -> Y
+  * 1 Service deprecated: Orthepaedic care - will not longer get wait data 
+  * Will persist snapshot data - wait times will become stale, BUT - then it seems it was removed and added back? TBD
+  * Have to confirm -Is it going away?
+  * ATC modfied Mental Health broken into 3 services, MH Individual, MH Group, Integrated MH services 
+  * Had to map to original, and each of those have their own wait times...many to one mapping.
+  * For Now: We're keeping MH Individual exclusively - 74 facilites - 
+LH team to determine path here, no longer show it as available, 15 new sites have MH, will wait and see, possibly combine, what do each of these mean? Looking at different options.. Dave C aware and investigating. 
+  * ATC is pulling service info data from both Vista and Cerner - for a couple facilites they are pulling from both.  Not validating on their side.. Getting duplicate payloads, which breaks LH code. We see this in Boise - Primary Care had to throw that service away - what we're aware of now
+ * ATC madness impacted v1 work - still working on providing solid date 
+ * Josh setting up call with ATC, James will push fwd, 1/ get more insight 2/ addressing descrepancies in production data (Orthopaedics for instance)
 * Flagging data during migration - descrepancies - Jay? 9848 
  * in V1 LH is combining CMS and ATC - Dave C wants to know if a service is being pushed from CMS, and not reflected in ATC  
 
