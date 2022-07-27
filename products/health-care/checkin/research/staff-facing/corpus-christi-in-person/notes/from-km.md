@@ -166,6 +166,71 @@ Observations:
   - Depends on if a provider calls in sick or a provider wants to switch from in-person to telemedicine. This can happen 10-15 times per day. They call the Veteran to make sure that switching from in-person to a telemedicine appointment is ok.
   - They try to notice Veterans 45 days in advance (for provider leave scenarios). However, they may have to cancel on the day of the appointment.
   - 10-15% of cancellations are within 30 days or a week.
+  - They will call and try to reschedule 
+    - They will send a letter if they can print and mail it in time for the Veteran to actually receive it.
+  - They make 2 phone calls, leave voicemails, and send a letter.
+  - Veterans have/will show up for cancelled appointments.
+    - If they di arrive, the staff will see if they can fit them in. They can be triaged by a nurse, but some/most will have to be rescheduled.
+    - Travel pay for cancelled appointments can be claimed for one way.
+- Volunteers can help with check-in/pre-check-in, but it is up to them. It really depends upon if they understand it themselves or not.
+
+#### Veteran intercepts
+
+**1**
+- Caregiver did it for them. 
+- Older vet.
+- Want to do travel on the mobile phone as well.
+- Had to update their QR scanner.
+- Once updated, they didn't get the scanner to work on their Android.
+- Normally goes to the kiosk
+- They gave up and went to the MSA to check-in.
+
+**2**
+ - Utilized the QR codr
+ - va.gov loaded quickly
+ - There was no emergency contact list. They comment on it saying that wasn't correct. However, they clicked yes.
+ - They successfully completed PCI.
+ - They were a first time mobile check-in user.
+ - They have gone to the wrong clinic before.
+   - Would like to see the address of the facility that there appointment is at.
+   - They would also like to see the expected waittime.
+ - The security of check-in is ok. It matched on the phone #,
+ - NPS: 10, because it gave an option to change their info
+ - Researcher: what would make it better?
+   - if it let them know that it went through
+ - They would prefer to let the clinic know when they are on the way
+
+**3**
+- Want to talk to MSA
+- They did PCI and had questions (Researchers didn't see them check-in)
+
+**4**
+- Started mobile check-in immediately upon entering even before we intercepted.
+- This was their third time using mobile check-in
+- QR code failed in the past, but worked now
+- Needed instruction to go pas the SMS from researchers.
+- Successfully checked in
+- They believe the most improtant information to review is the phone #.
+- They just want to really know that they are checked in.
+- When asked about security of PCI, they stated "I don't know...it is good."
+- NPS: 8
+- Researcher: what would make it better?
+  - "It works, so don't reinvent anything."
+- "Beats having to stand in line."
+- Coudl text from the parking lot.
+- Pre-check-in. They did confirm their appointment, but didn't do pre-cehcek-in.
+  - "Someone pays attend to do it? I wouldn't."
+- Travel pay
+  - Yes, they have files.
+  - Says that one should file after an appointment. (Observed behavior....they filed right after checkin in)
+  - They would like to file during check-in.
+- Once done with check-in, they went up to the MSA to ask a non-check-in question.
+
+**5**
+- Wanted to check in with their phone, but their phone was dead.
+
+**6**
+- Want to update their VHIC card and wasn't checking in for an appointment.
 
 ### Annex
 It is located in the building directly behind the Corpus Christi VA Clinic.
