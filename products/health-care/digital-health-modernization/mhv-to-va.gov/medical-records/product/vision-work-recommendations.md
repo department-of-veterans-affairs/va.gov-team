@@ -49,25 +49,25 @@ Decision needed:
 - VA needs to address the question of PGHD being part of the patient's comprehensive record.
 
 ## Where we are with records analysis
-1) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them here:
+**1) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them in Github and Mural:**
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
-- My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22
+- My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22 [(See notes from this meeting in Mural.)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505)
 - OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
 - "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
 
-2) We've gathered screen shots of: 
+**2) We've gathered screen shots of:**
 - the My HealtheVet Records section, and
 - Cerner records screens
 
 [See the Mural of My HealtheVet and Cerner records screens.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1658960897509/d517d764e4df567e41585d1c53831cebd17e40af?sender=megpeters0505)
 
-3) The My HealtheVet Team did analysis and usability study on "Search my record" in October 2021.
-
+**3) The My HealtheVet Team did analysis and a usability study on "Search my record" in October 2021.**
 "Search my record" is a software application that lets you apply filters to your VA medical records. In your results set, each data point (ex: a set of lab results), is a separate item you can click into for details.
 
 After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team did a research study with Veterans and provided recommendations for usability fixes to the UI. (MHV's UCD Team was not involved in the original design and development of "Search my record.")
 
 [View the “Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/)
+
 [Read the doc that outlines the differences between Blue Button Report and "Search my record" by the MHV UCD Team's Arienne Walters and Bobby Bailey.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/Search%20My%20VA%20Health%20Record%20-%20Differences%20from%20Blue%20Button.docx) 
 
 
