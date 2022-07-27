@@ -4,7 +4,7 @@ Kristen McConnell’s Notes
 ## July 19
 
 ### Corpus Christi VA Clinic
-Old Brownsville Road (check on address)
+5283 Old Brownsville Road
 
 [Diagram of MSA area from notebook]
 
@@ -128,6 +128,7 @@ Observations:
 - They want the ability to add a note or comment about why the Veteran is there.
 - They want to know when they “no show” a patient, where does that information go. They would like it to go to MSAs.
   - Nursing thinks that it would be great if the system would allow MSAs to do a “no show” note and send (maybe automatically) a letter.
+- Nursing leadership and some nurses do rounds in the waiting room to see if Veterans are there, whether they are checked in or not.
 
 #### MSA Supervisor
 - It took 2 years for Veterans to trust the kiosk. Now they feel that VA gave something and took it away.
@@ -256,7 +257,69 @@ Observations:
 
 **Note about Veterans intercepts**
 - PCI users didn't see delays in receiving links and page loading, but connectivity was good at these locations.
-- We completed these intercepts over a 2 hour time period. We weren't able to intercept everyone. We talked to the next Veteran walking through the door as soon as we finished speaking with a Veteran. Some Veterans entered while we were already talking to someone else. We didn't intercept Veterans who very obviously seemed busy or
+- We completed these intercepts over a 2 hour time period. We weren't able to intercept everyone. We talked to the next Veteran walking through the door as soon as we finished speaking with a Veteran. Some Veterans entered while we were already talking to someone else. We didn't intercept Veterans who very obviously seemed busy or didn't want to interact with us.
+- There was limited infomraiton on the walls. A very large PCI sign was in front of the kiosk.
+- There was no lines, but a steady stream of people.
+- The Annex was very slow.
+
+**11**
+- They were there for a walk-in appt.
+
+**12** 
+- They wanted to register.
+
+**13**
+- Utilized the QR code, but needed to have their insurance reviewed.
+
+**14**
+- Didn't want to use their phone
+- "I'm having enough trouble with my phone today."
+
+**15**
+- Researchers had to educate them about the process, including how to text.
+- They utilize the QR code
+- They were a first time PCI user.
+- Needed to update their next of kin ifnormation.
+- Thought they were done after getting the screen to see a staff member and went to sit down.
+
+**16**
+- Caregiver completed it for the Veteran.
+- Utilzied the QR code.
+- Had magnification on their screen.
+- Got a "no appt" error SMS message and click on the Find a VA location link.
+- Ended up checking in with MSA. They waited in lin even as they were talking to us and trying to use the ap.
+
+**17**
+- Was two minutes early to check-in
+- They chose to wait the two minutes to try PCI. 
+- It took them a little while to get the SMS URL link and for the va.gov page to load.
+  - As a result, they actually signed into va.gov, because the header was the only thing visisble on the page.
+  - "I don't know why it is such a process to check in."
+- They were utlimately successfull in checking in with PCI.
+- They were not a first time PCI user.
+- "Security is fine."
+- NPS: 4
+  - "It takes too long."
+  - "Going to va.gov is unnecessary."
+- They didn't remember getting a pre-check-in link.
+
+**18**
+- Frustrated that the kiosk wasn't an option to check-in.
+- Wanted to talk to an MSA.
+
+**19**
+- checking if their parent had an appt here today. They originally went to a different facility.
+
+**20**
+- They weren't checking in. They were looking for other information.
+
+**21**
+- Walk-in for an x-ray.
+- Tried to use the kiosk.
+
+**22**
+- Use the QR code
+- Got a message that the clinic wasn't enabled, but their appointment was supposed to be a primary care appointment.
 
 ### Annex
 It is located in the building directly behind the Corpus Christi VA Clinic.
@@ -383,3 +446,25 @@ The kiosks are this location are currently used for:
   - Some Veterans ask for paper copies
   - They tell the Veteran to call the travel office when they have issues with getting a payment, want to claim more than 30 days in the past, or more than same day appointment.
   - They would want eligibility checked in any system that is created. 
+
+
+## July 20
+
+### South Enterprize VA Clinic
+205 South Enterprize Parkway
+
+#### Administrative Officier and MSA Supervisor
+- Older population who don't care for the system.
+- The security guards at the entrance help educate Veterans about PCI.
+  - They tried to train security how to use the QR code, so they could teach others.
+- MSA Supervisor and leads were without training in the beginning. They made it mandatory to help Veterans learn the system for 1.5 weeks.
+- Veterans seem to prefer text to QR code
+- They have MSAs encourage usage of the system. If more people use PCI it will help the MSAs, because there will be less back-up.
+- Some Vets go to the kiosk. Have travel on the kiosk confused them (maybe).
+- Want signage about check-in in the parking lot.
+- MSA have a difficult time using the system. There is frustration about the amount of interruptions they experience.
+- Veterans have asked them "Why did you get rid of the kiosk?" They assumed it was due to COVID and HIPAA.
+- MSA love VSE-GUI compared to VetLink. Using only one system is great.
+- Providers don't use VSE-CS, since it was optional.
+- Nursing does use VSE-CS to see that a patient has checked in.
+- Their lab is talking abotu using PCI, because they have scheduled labs. 
