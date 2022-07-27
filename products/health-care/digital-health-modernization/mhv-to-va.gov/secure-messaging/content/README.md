@@ -1,18 +1,18 @@
 # Secure Messaging Content Documentation
 
-This page details the content used throughout the Secure Messaging tool on VA.gov
+This page details the content used throughout the Secure Messaging tool on VA.gov.
 
 ## Table of Contents
 
-### Layout / Components
-- Exceptions to standard tags, design system components
-- Design system components
+### [Common Layout / Components](#page-content-specs)
+- [Exceptions to standard tags, design system components](#exceptions-to-standard-tags-design-system-components)
+- [Design system components](#design-system-components)
 
 ### Secure landing page - Unauth
 - [Default view](#secure-landing-page---unauth-1)
 
 ### Secure landing page - Auth without health care
-- Default view
+- [Default view](d#default-view)
 
 ### Messages FAQ
 - Default view
@@ -124,16 +124,16 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 
 ### Secure landing page - Auth without health care
-- Default view
+#### Default view
 
 ### Messages FAQ
-- Default view
+#### Default view
 
 ### Secure messages - Auth with health care (inbox)
-- Default view
-- Delete message from list
-- Move message from list to another folder
-- Sort/filter list
+#### Default view
+#### Delete message from list
+#### Move message from list to another folder
+#### Sort/filter list
 
 ### Message detail
 #### Default view
