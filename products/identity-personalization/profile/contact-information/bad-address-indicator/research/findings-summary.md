@@ -32,16 +32,16 @@ Christina Gednalske <christina.gednalske@adhocteam.us>
 Research Goals and Questions
 ============================
 
-### 1\. Validate that our proposed alert method successfully prompts Veterans to update their mailing address
+### 1. Validate that our proposed alert method successfully prompts Veterans to update their mailing address
 -   Do users notice the alerts?
 -   How urgent do Veterans consider the alerts?
 -   Are users inclined to ignore or follow the alerts? 
 
-### 2\. Validate that our alerts are easy to understand
+### 2. Validate that our alerts are easy to understand
 -   Can users understand the instructions included in the alerts?
 -   Do users understand how to update their address vs. confirm their address?
 
-### 3\. Validate that Veterans can easily update or confirm their Mailing address by following these alerts
+### 3. Validate that Veterans can easily update or confirm their Mailing address by following these alerts
 -   Can users easily navigate to the Contact information page from the Personal information page using the alert link?
 -   Can users easily navigate to the Mailing address from the top of the Contact information page using the jump link?
 -   Can users easily locate the smaller alert within the Mailing address field?
