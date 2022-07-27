@@ -118,7 +118,7 @@ At this point, both the `vets-website` and `vets-api` Pull Requests should be me
 Merge your changes. Now that the facility ID has been added to our list of Cerner facility IDs in vets-website, the feature toggle has been created, and you have added the facility ID to all necessary blocklists, we are ready to allow stakeholders to test on Staging. 
 
 #### **Task 1**: Update flipper feature toggle in staging
-1. https://staging-api.va.gov/
+1. https://staging-api.va.gov/flipper/features
 2. Login with a verified ID.me account. (An account that is not properly verified will run into errors. Follow [id.me steps to Verify](https://www.va.gov/resources/verifying-your-identity-on-vagov/).)
 4. Toggle the feature toggle to on
 5. You can test on Staging with Cerner test users, but not on prod. For staging testing, staging.va.gov, log in with a user that belongs to the facility ID (from the **Step 1, Task 4** above). 
