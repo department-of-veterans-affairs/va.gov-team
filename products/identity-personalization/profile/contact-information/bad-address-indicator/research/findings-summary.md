@@ -272,6 +272,7 @@ Who we talked to
 ----------------
 
 **Recruitment criteria**
+
 We recruited Veteran participants using a lean maximum variation strategy, with an emphasis on reaching our goals for AT users. We leveraged Perigean's recruiting services to find our participants, but had difficulty reaching our goal number of participants who use AT. Many participants who marked down that they were AT users did not use this technology in the sessions.
 
 We talked to 11 participants, one of whom was not able to reach Profile and carry out the tasks. Though we learned valuable information from this participant about logging in and navigating the homepage using a screen reader, we will not be counting this participant as having completed usability testing.
