@@ -30,6 +30,10 @@ There are some pros and cons to this:
 - There may be other things we are required to explain from the UI for legal reasons, but I don't have insight into that yet. This could impact the design.
 - I'm not sure if sending a confirmation email is as easy as I think it is - maybe?
 
+## Other important info for timeline estimate
+
+- 1095B "legal" folks will need to review design and copy to make sure it makes sense. This may result in back and forth, and timeline can only be as quick as these folks can get back to us.
+
 ## Questions
 
 ### For our team
@@ -37,7 +41,8 @@ There are some pros and cons to this:
 1. How complicated will it be to add a new channel?
 2. How complicated will it be to add a new channel **and** give it custom copy to accommodate what we need to describe to the user?
 3. How complicated will it be to send an email confirmation for updating this specific permission given that permissions doesn't currently utilize an edit-read only pattern?
-4. How much design/development do we think will be associated with this work? How long do we think this will take us?
+4. Do we think we'll want to put this through the collab cycle, or is that too hard to tell as of now?
+5. How much design/development do we think will be associated with this work? How long do we think this will take us?
 
 ### For VA Profile
 
