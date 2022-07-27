@@ -316,12 +316,12 @@ We talked to 11 participants, one of whom was not able to reach Profile and carr
 -   Unknown: 0
 
 **Race:**
--   White: 0
--   Black: 0
--   Hispanic: 0
--   Biracial: 0
--   Asian: 0
--   Native: 0
+-   White: 7
+-   Black: 2
+-   Hispanic: 1
+-   Biracial: 1
+-   Asian: 1
+-   Native: 1
 
 **Disability and Assistive Technology (AT):**
 -   Cognitive: 6
