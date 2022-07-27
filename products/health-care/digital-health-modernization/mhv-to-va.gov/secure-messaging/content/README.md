@@ -16,14 +16,14 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 ### Messages FAQ
 - [Default view](#default-view-1)
 
-### [Secure messages - Auth with health care (inbox)](#secure-landing-page---auth-without-health-care-1]
-- Default view
+### [Secure messages - Auth with health care \(inbox\)](#secure-landing-page---auth-without-health-care-1)
+- [Default view](#default-view-3)
 - Delete message from list
 - Move message from list to another folder
 - Sort/filter list
 
 ### Message detail
-- [Default view](#default-view-2)
+- [Default view](#default-view-3)
 - View attachment
 - Move message
 - Delete message
@@ -34,7 +34,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Navigate between messages
 
 ### Compose message
-- [Default view](#default-view-3)
+- [Default view](#default-view-4)
 - Choose a category
 - Attach a file
 - Attach file error
@@ -46,7 +46,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Send error
 
 ## Search messages
-- [Default view](#default-view-4)
+- [Default view](#default-view-5)
 - Basic search
 - Advanced search
 - Search results page
@@ -55,27 +55,27 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Sort/filter list
 
 ### Sent Messages
-- [Default view](#default-view-5)
+- [Default view](#default-view-6)
 - Delete message from list
 - Delete message confirmation
 - Move message to folder
 - Sort/filter list
 
 ### Drafts
-- [Default view](#default-view-6)
+- [Default view](#default-view-7)
 - Delete message from list
 - Delete message confirmation
 - Sort/filter list
 
 ### Deleted
-- [Default view](#default-view-7)
+- [Default view](#default-view-8)
 - Delete message from list
 - Delete message confirmation
 - Move message to folder
 - Sort/filter list
 
 ### Folders
-- [Default view](#default-view-7)
+- [Default view](#default-view-9)
 - Create folder
 - Create folder error
 - Rename folder
