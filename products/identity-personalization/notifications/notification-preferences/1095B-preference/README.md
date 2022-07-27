@@ -30,3 +30,14 @@ There are some pros and cons to this:
 - I'm not sure if sending a confirmation email is as easy as I think it is - maybe?
 
 ## Questions
+
+### For our team
+
+1. How complicated will it be to add a new channel?
+2. How complicated will it be to add a new channel **and** give it custom copy to accommodate what we need to describe to the user?
+3. How complicated will it be to send an email confirmation for updating this specific permission given that permissions doesn't currently utilize an edit-read only pattern?
+4. How much design/development do we think will be associated with this work? How long do we think this will take us?
+
+### For VA Profile
+
+### For 1095B team
