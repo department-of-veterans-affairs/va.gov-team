@@ -42,14 +42,14 @@ In early 2022, a My HealtheVet (MHV) developer created an application called "Se
 A few things to note about "Search my record":
 - All data in "Search my record" also lives in Blue Button, but...
 - Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). 
-- Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it.
+- Currently MHV does not link to "Search my record," so only people who know the URL for "Search my record" can access it.
 
 **Why did My HealtheVet create "Search my record"?**
 - They wanted something more advanced, with more options in the UX than Blue Button Report has — something that allows Veterans to dig deeper, to search and pull up a specific thing (ex: lab result). 
 - It became clear that Blue Button (the report) was outdated, that it needed an upgrade.
 - After that, the goal was to make it better to search. 
  
-MHV's UCD Team was not involved in the original design and development of "Search my record." After the soft launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but the project has been on hold since they ran into performance issues.
+MHV's UCD Team was not involved in the original design and development of "Search my record." After the dark launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but the project has been on hold since they ran into performance issues.
 
 **Key point:** You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). You are applying filters to determine what will be in your search results. On the search results page, you can click into an individual data point such as lab work on a specific day for a specific reason.
 
@@ -118,10 +118,11 @@ So far we've met with:
 - "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
 
 When working with partners, stakeholders, and subject-matter experts (SMEs), it will be critical to:
-- understand stakeholder priorities,
+- listen to their priorities,
+- understand legal, security, and privacy requirements,
 - figure out who the decision-makers are (the "who" may vary based on expertise),
 - communicate progress regularly to the main partners, and
-- inform SMEs and non-main stakeholders of your direction so you don't get too far with a solution that could be problematic.
+- inform SMEs and non-main stakeholders of the team's direction so they don't get too far with a solution that could be problematic.
 
 **Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, they can introduce you.
 
@@ -168,7 +169,7 @@ In Round 2 research, all participants used a mobile device to access a [mobile p
 ### 3) "Search my record" usability findings 
 October 2021
 
-After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team evaluated "Search my record" for usability and did research with Veterans. 
+After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team did a research study with Veterans and provided recommendations for usability fixes to the UI. (MHV's UCD Team was not involved in the original design and development of "Search my record.")
 
 [View the “Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/)
 
