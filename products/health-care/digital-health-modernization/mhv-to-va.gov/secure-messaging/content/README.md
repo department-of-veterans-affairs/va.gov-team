@@ -10,17 +10,17 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ### [Secure landing page - Unauth](#secure-landing-page---unauth)
 - [Default view](#default-view)
-### Secure landing page - Auth without health care
+### [Secure landing page - Auth without health care](#secure-landing-page---auth-without-health-care-1)
 - [Default view](#secure-landing-page---auth-without-health-care-1)
 
-### Messages FAQ
+### [Messages FAQ](#messages-faq-1)
 - [Default view](#default-view-1)
 
 ### [Secure messages - Auth with health care \(inbox\)](#secure-messages---auth-with-health-care-inbox-1)
 - [Default view](#default-view-3)
 - [Delete message from list](#delete-message-from-list)
-- [Move message from list to another folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#move-message-from-list-to-another-folder)
-- [Sort/filter list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#sortfilter-list)
+- [Move message from list to another folder](#move-message-from-list-to-another-folder)
+- [Sort/filter list](#sortfilter-list)
 
 ### [Message detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#message-detail-1)
 - [Default view](#default-view-3)
@@ -33,7 +33,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - [Archive](#archive-message)
 - [Navigate between messages](#archive-message)
 
-### Compose message
+### Compose message https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#compose-message
 - [Default view](#default-view-4)
 - Choose a category
 - Attach a file
