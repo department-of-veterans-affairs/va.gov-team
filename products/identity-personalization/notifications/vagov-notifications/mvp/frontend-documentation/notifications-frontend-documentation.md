@@ -1,4 +1,4 @@
-# Notifications Frontend Documentation (WIP)
+# Notifications Frontend Documentation
 
 ## Sketch Mockups
 
