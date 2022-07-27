@@ -1,6 +1,12 @@
 # Background for medical records
 July 26, 2022
 
+To view and download records content, a Veteran must be:
+- Signed 
+- Enrolled in VA health care, and
+- Registered at a VA facility.
+
+
 ## What are the types of records? 
 Currently VA has 3 types of reports that contain a Veteran's medical records at VA:  
 1) VA Blue Button Report
@@ -29,7 +35,9 @@ The Blue Button Report contains the largest set of health data VA has for a Vete
 **Key point:** When you download a Blue Button Report, you choose what data goes into it. 
 
 #### Search my record
-In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application.) A few things to note about "Search my record":
+In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application. The top middle of [this Mural shows the search screen for "Search my record."](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+
+A few things to note about "Search my record":
 - All data in "Search my record" also lives in Blue Button, but...
 - Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). 
 - Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it. 
@@ -42,13 +50,7 @@ In early 2022, a My HealtheVet (MHV) developer created an application called "[S
 MHV's UCD Team was not involved in the original design and development of "Search my record." After the soft launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but the project has been on hold since they ran into performance issues.
 
 NOTE: You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). From the search results, you can click into an individual data point such as lab work on a specific day for a specific reason.
-
-[See the top middle of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
  
-#### Coming soon to records? 
-There's talk of including the **After-Visit Summary (AVS)** in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
-
-
 ### 2) VA Health Summary:
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary supports continuity of care between providers.
 
@@ -77,17 +79,25 @@ You can view the VA Health Summary in a browser or download it as a PDF or XML f
 
 **Key point:** The VA Health Summary is created by VA. A Veteran has no control over what info is in the report. 
 
+### 3) VA Medical Images and Reports
+A Veteran can:
+- Download and view medical images such as MRIs and X-rays, as well as reports about medical images
+- Request images
+
+#### Coming soon to records? 
+There's talk of including the **After-Visit Summary (AVS)** in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
+
 
 ## How do Veterans use records? 
-During user research, we talked with Veterans about how they use their medical records. We heard these themes:
-- To share their VA health care data with a non-VA provider
-- To document their service-connected disabilities for fear of losing access to care
-- To show proof of immunization or vaccination
+During user research, we talked with Veterans about how they use their medical records. Veterans said they want to:
+- Share their VA health care data with non-VA providers
+- Document their service-connected disabilities for fear of losing access to care
+- Show proof of immunization or vaccination
 
-And we learned that Veterans think of their health record as a crucial component of their disability benefits.
+We also heard from Veterans that they think of their health record as a crucial component of their disability benefits.
 
 
-## Lay of the land << Meg is here >>
+## Lay of the land
 MHV and OCTO + LOTS of other parties. 
 Understand stakeholder priorities and who can make decisions. It's possible that different people will make key decisions based on their expertise.
 Find a way to inform SMEs and non-main stakeholders so you don't get too far down the wrong direction.
