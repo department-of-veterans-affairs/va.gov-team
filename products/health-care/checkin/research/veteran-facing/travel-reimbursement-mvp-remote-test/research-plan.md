@@ -56,6 +56,7 @@ Our goals for this research are to gather feedback from Veterans in the followin
      1. How well or not so well do each of the two prototypes seem to fit within the existing PCI userflow for the happy path? 
      1. How well or not so well do each of the two prototypes fit within the existing PCI userflow for the alternative paths (e.g., answering “no” to travel questions)? 
      1. Is it confusing to check in for an appointment and submit for travel pay at the same time?   
+     1. Would knowing that VA checks your travel reimbursement eligibility after your claim is submitted deter you from still filing a claim within PCI?  
 
 1. Measure the cognitive load when Veterans review and confirm their travel reimbursement eligibility within two prototypes    
      1. On a scale of 1 to 10, how much strain do Veterans experience (e.g., the time it takes to stop and figure out how to respond) when reviewing and confirming their travel reimbursement eligibility for each of the two prototypes?  
@@ -73,6 +74,7 @@ Our goals for this research are to gather feedback from Veterans in the followin
      1. Most Veterans will agree that travel pay is appropriately positioned within the PCI workflow. 
      1. Most Veterans will agree that including travel pay in PCI is logical. 
      1. Most Veterans will agree that including travel pay in PCI is valuable. 
+     1. Most Veterans will not be deterred from filing a travel pay claim knowing that VA checks their eligibility after a claim is submitted.  
 1. Measure the cognitive load when Veterans review and confirm their travel reimbursement eligibility within two prototypes    
      1. Most Veterans will think there is more mental strain when reviewing and confirming eligibility criteria on a single page, therefore prefer Prototype C over Prototype B. 
      1. Most Veterans will think it’s easier to review and confirm one eligibility criteria per page, therefore prefer Prototype C over Prototype B.  
