@@ -11,7 +11,7 @@ Christina Gednalske <christina.gednalske@adhocteam.us>
 
 **Jump to:**
 
-Hypotheses and conclusions
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/research/findings-summary.md#hypothesis-and-conclusions)
 
 Key findings
 
