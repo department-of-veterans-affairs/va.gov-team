@@ -102,8 +102,6 @@ During user research, we talked with Veterans about how they use their medical r
 
 We also heard from Veterans that they think of their health record as a crucial component of their disability benefits.
 
-See the [Digital Health Modernization Team's generative research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1) on understanding the Veteran health experience holistically.
-
 
 ## The records landscape at VA
 Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. As Records moves from My HealtheVet to VA.gov and gets redesigned, it will be important to consult with VA's legal and privacy experts because the information in records is private and protected by law.
@@ -128,7 +126,7 @@ When working with partners, stakeholders, and subject-matter experts (SMEs), it 
 
 
 ## What we've heard from Veterans in user research 
-Research with Veterans over the past 2 1/2 years has given us some insights on: 
+Research with Veterans over the past 2 1/2 years has given us insights on: 
 - how Veterans think about records,
 - how they use their records, and
 - ways to improve the MHV on VA.gov / Health Apartment Team's prototype. 
@@ -176,8 +174,10 @@ After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-p
 ### 4) Generative research on how Veterans think about their health care
 December 2020
 
-After 
+To understand how Veterans think about their health care, the Digital Health Modernization Team did generative research with 23 Veterans. We learned a few things related to records:
+- Veterans understood the importance of documenting their service-connected disabilities 
+- Issues with their health record prevented some participants from claiming their service-connected conditions
 
-Generative research - nugget - Slide 26
-issuse with their health record preven ted some partics from claiming their svc-connected conditions in the 1st place
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md
+See slide 26 of the [Digital Health Modernization Team's generative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md).
+
+
