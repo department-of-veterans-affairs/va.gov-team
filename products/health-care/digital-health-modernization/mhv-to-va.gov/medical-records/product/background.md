@@ -16,7 +16,7 @@ In large part, these reports contain data based on a VA patient's interaction wi
 - registered at a VA facility.
 
 ### 1) Blue Button
-"Blue Button" is a way to view or download a Veteran's VA health records using *any of the 3 types of reports listed above.* "Blue Button" also has another meaning: Veterans familiar with viewing and downloading their medical records equate the term "Blue Button" to the Blue Button Report.
+**"Blue Button" is a way to view or download a Veteran's VA health records using any of the 3 types of reports listed above.** "Blue Button" also has another meaning: Veterans familiar with viewing and downloading their medical records equate the term "Blue Button" to the Blue Button Report.
 
 The Blue Button Report contains the largest set of health data VA has for a Veteran. (See list below.) You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Appointments (VA future, past)
@@ -104,7 +104,7 @@ We also heard from Veterans that they think of their health record as a crucial 
 
 
 ## The records landscape at VA
-Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. As Records moves from My HealtheVet to VA.gov and gets redesigned, it will be important to consult with VA's legal and privacy experts because the information in records is private and protected by law.
+Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. As Records moves from My HealtheVet to VA.gov and gets redesigned, it will be important to consult people from many groups at VA, including VA's legal and privacy experts. The information in records is private and protected by law.
 
 ### Partners, stakeholders, and subject-matter experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
@@ -118,11 +118,11 @@ So far we've met with:
 When working with partners, stakeholders, and subject-matter experts (SMEs), it will be critical to:
 - listen to their priorities,
 - understand legal, security, and privacy requirements,
-- figure out who the decision-makers are (the "who" may vary based on expertise),
+- figure out who the decision-makers are (the "who" may vary based on the decision),
 - communicate progress regularly to the main partners, and
 - inform SMEs and non-main stakeholders of the team's direction so they don't get too far with a solution that could be problematic.
 
-**Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, they can introduce you.
+**Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, having them introduce you will smooth the way.
 
 
 ## What we've heard from Veterans in user research 
@@ -131,7 +131,7 @@ Research with Veterans over the past 2 1/2 years has given us insights on:
 - how they use their records, and
 - ways to improve the MHV on VA.gov / Health Apartment Team's prototype. 
 
-Following are details on several studies.
+Following are details from several studies.
 
 ### 1) Round 1 user research on the MHV on VA.gov prototype 
 March-April 2022
