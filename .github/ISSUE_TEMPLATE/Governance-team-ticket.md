@@ -34,7 +34,7 @@ _What details are necessary for understanding the specific work or request track
 - [ ] Add User Story, description, tasks, and Acceptance Criteria
 - [ ] Add any [additional appropriate labels](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2220359751/WIP+Tech+Debt+Ticket+Organization).
 - [ ] Once all above items are checked, add the 'Ready' label.
-- [ ] Ticket has been discussed as a team
+- [ ] Ticket has been discussed as a team at Planning.
 - [ ] Ticket has been sized as a team.
 - [ ] Ticket has been assigned to a Sprint.
 - [ ] Once assigned to the upcoming or current Sprint, move to the Planned pipeline.
