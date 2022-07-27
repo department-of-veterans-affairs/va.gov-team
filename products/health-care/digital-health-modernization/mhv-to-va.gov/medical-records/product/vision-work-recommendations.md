@@ -8,11 +8,6 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 
 That is the broad vision for the Veteran health experience. There are aspects of the experience that also need a vision, and we've begun conversations about things like patient-generated health data. 
 
-Note that there are a lot of complexities with records because of:
-- Veteran health data that comes from DoD (Department of Defense),
-- privacy and security issues, and
-- system interoperability issues (ex: Ideally DoD systems would talk to VA systems.) 
-
 ### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
 - Enter into the VA website through forms (on My HealtheVet today), or
@@ -53,7 +48,7 @@ Decision needed:
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false)
 
-[Read about the findings from our research study that relate to records.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/background-research.md) (See "Research related to records" section).
+[Read our research findings related to records.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/background-research.md) (See "Research related to records" section).
 
 **2) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them in Github and Mural:**
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
@@ -76,7 +71,26 @@ After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-p
 
 [Read the doc that outlines the differences between Blue Button Report and "Search my record" by the MHV UCD Team's Arienne Walters and Bobby Bailey.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/Search%20My%20VA%20Health%20Record%20-%20Differences%20from%20Blue%20Button.docx) 
 
+## Challenges
+There are a lot of complexities with records because of:
+- Veteran health data that comes from DoD (Department of Defense),
+- privacy and security issues, and
+- system interoperability issues (ex: Ideally DoD systems would talk to VA systems.) 
 
+These complexities lead to some challenges:
+- Understanding the data and data sources
+- Condensing the output when a Veteran downloads records (i.e., taking out what's not needed)
+- Communicating and coordinating with many groups at VA [(See this list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
+- Learning and following privacy and security policies (ex: keep health information private)
+
+## Recommendations
+- Keep VA Health Summary (VAHS) >> Explain purpose clearly
+- Explain the difference b/t BB and VAHS so Veterans know the purpose of each and can decide easily which one they need
+- Clarify the purpose of VAHS v. BB or SMR >> Which is my complete record? Which one do I take to a non-VA provider? Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report.
+- Combine BB and Search my record functionality. Do not have 2 products that do almost the same thing. Pick one interaction: BB download or Search my record
+- Call out these things in the records section: labs and tests, vaccinations & immunizations 
+- Make it clearer how to share health data with docs (vault) 
+- Make it so you can share data from devices 
 
 
 
