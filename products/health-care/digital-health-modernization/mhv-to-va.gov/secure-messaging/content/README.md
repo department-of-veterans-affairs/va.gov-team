@@ -121,8 +121,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - H1: Messages
-- [section] H2: Message subject line      Reply icon <br> 
-                                          [link] Reply
+
 
 ### Secure landing page - Auth without health care
 - Default view
@@ -144,16 +143,25 @@ This is the default way a message detail loads after a user opts to open a messa
 - URL: *this is where the page URL will go once it's been decided*
 - `H1` Messages
 - `Link` < Previous `Link`Next >
-- *Display message contents*
-  - Message subject
-  - From:
-  - To:
-  - Date:
-  - Message body
-  - Display the word "Attachments" if the message has an attachment
-  - [paper clip icon][link] Name of attachment
-  - Note: This message message may not be from the person you initially contacted. It may have been reassigned to effeciently address your original message,
- 
+  - [section]
+    - [section header] [Message subject]  [reply arrow icon][link]Reply
+    - From:
+    - To:
+    - Date:
+    - Message body
+    - Display the word "Attachments" if the message has an attachment
+    - [paper clip icon][link] Name of attachment
+    - Note: This message message may not be from the person you initially contacted. It may have been reassigned to effeciently address your original message.
+    - [printer icon][link]Print  [trash icon][link]Print  [folder icon][link]Print  [reply arrow icon][link]Print
+  - [end setion]
+- H3: Older messages in this conversation [down arrow icon].   Expand All Messages [down arrow icon]
+- [div]
+- From: [sender]
+- [link] subject
+- MMM DD, YYYY at HH:MM [am/pm][time zone]
+- [/div]
+
+<hr> 
 
 #### View attachment
 - [Desktop Mockup]()
