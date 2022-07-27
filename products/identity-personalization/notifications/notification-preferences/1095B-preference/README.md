@@ -50,3 +50,9 @@ There are some pros and cons to this:
 ### For 1095B team
 
 - What are we legally required to communicate in the preferences UI?
+- Do we need to draft email copy for the confirmation email?
+- Are people opted into mail by default?
+
+### Design/implementation question
+
+- Does this item need a new group? Or does it fit in health care?
