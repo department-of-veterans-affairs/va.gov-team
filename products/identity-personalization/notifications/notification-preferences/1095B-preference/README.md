@@ -2,7 +2,7 @@
 
 ## Overview
 
-The health apartment team is working on an effort to allow veterans and other health care recipients to download their 1095B (proof of health care) tax form from VA.gov. Part of this effort requires that veterans be able to opt-out of the mailed copy of their 1095B in favor of the digital download. The 1095B would like to work in partnership with VA.gov, VA Profile, and VANotify to make this happen.
+The health apartment team is working on an effort to allow veterans and other health care recipients to download their 1095B (proof of health care) tax form from VA.gov. Part of this effort requires that veterans be able to opt-out of the mailed copy of their 1095B in favor of the digital download. The 1095B team would like to work in partnership with VA.gov, VA Profile, and VANotify to make this happen.
 
 ## Functionality needs
 
