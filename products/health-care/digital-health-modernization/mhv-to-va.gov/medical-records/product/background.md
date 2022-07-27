@@ -44,7 +44,7 @@ A few things to note about "Search my record":
 - Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). 
 - Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it.
 
-**Why did VA create "Search my record"?**
+**Why did My HealtheVet create "Search my record"?**
 - They wanted something more advanced, with more options in the UX than Blue Button Report has — something that allows Veterans to dig deeper, to search and pull up a specific thing (ex: lab result). 
 - It became clear that Blue Button (the report) was outdated, that it needed an upgrade.
 - After that, the goal was to make it better to search. 
@@ -106,7 +106,7 @@ See the [Digital Health Modernization Team's generative research](https://github
 
 
 ## Lay of the land
-Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. Since the information in records is private and protected by law, it will be important to consult with VA's legal and privacy experts as Records moves from My HealtheVet to VA.gov.
+Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. As Records moves from My HealtheVet to VA.gov and gets redesigned, it will be important to consult with VA's legal and privacy experts because the information in records is private and protected by law.
 
 ### Partners, stakeholders, and Subject-Matter Experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
@@ -114,16 +114,28 @@ Here's the [full draft list of partners, stakeholders, and SMEs for medical reco
 When working with partners, stakeholders, and Subject-Matter Experts (SMEs), it will be critical to:
 - understand stakeholder priorities,
 - figure out who can make which decisions (the "who" may vary based on expertise),
-- communicate progress regularly to main partners, and
+- communicate progress regularly to the main partners, and
 - inform SMEs and non-main stakeholders of your direction so you don't get too far with a solution that could be problematic.
 
 **Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, they can introduce you.
 
 
-## What we know from user research < WORK IN PROGRESS >
-MHV on VA.gov and My HealtheVet studies...
+## What we know from user research 
+Research with Veterans over the past 2 1/2 years has given us some insights on: 
+- how Veterans think about records,
+- how they use their records, and
+- ways to improve the MHV on VA.gov / Health Apartment Team's prototype. 
 
-Round 1 UR of prototype: 
+Following are details on several studies.
+
+### Round 1 user research on the MHV on VA.gov prototype 
+In this study, all participants used desktop to access a [prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/7yK3287/play)
+
+
+
+
+
+URL for prototype
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md
 Participants weren’t sure what constituted “recent” for the table at the top of the tool. Does recent mean the last week, month, etc?
 While most participants were not familiar with BlueButton, they were able to determine what it was based on contextual clues.
@@ -137,8 +149,11 @@ Determine what is “recent” for the recent medical records table. What are th
 Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary
 Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? - Pass findings onto Mobile Team, see if they are still thinking about that.
 
-Round 2 report:
+Round 2 report (insert prototype URL):
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md
+
+Mobile
+https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/40D83D4A-9785-4204-A966-103B35FF65A7?hotspots=false
 
 Round 2 success at: 
 viewing their medical records
@@ -155,6 +170,9 @@ Continue to pay attention to pharmacy label text in future rounds, participants 
 Continue with both the login button and the login link as they tested well on mobile and desktop.
 
 
+“Search my record” usability findings
+https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/
+
+
 Generative research - nugget
-
-
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md
