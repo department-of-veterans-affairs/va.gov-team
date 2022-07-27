@@ -83,7 +83,7 @@ These complexities lead to some challenges:
 - Communicating and coordinating with many groups at VA [(See this list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
 - Learning and following privacy and security policies (ex: keep health information private)
 
-## Recommendations
+## Recommendations << Meg is here >>
 - Keep VA Health Summary (VAHS) >> Explain purpose clearly
 - Explain the difference b/t BB and VAHS so Veterans know the purpose of each and can decide easily which one they need
 - Clarify the purpose of VAHS v. BB or SMR >> Which is my complete record? Which one do I take to a non-VA provider? Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report.
