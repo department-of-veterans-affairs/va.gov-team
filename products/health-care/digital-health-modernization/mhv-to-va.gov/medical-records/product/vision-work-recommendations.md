@@ -1,4 +1,4 @@
-# Vision, work, and recommendations
+# Vision, work, and recommendations for medical records 
 July 27, 2022
 
 ## Vision for medical records
@@ -6,7 +6,12 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 
 > We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
 
-That is the broad vision for the Veteran health experience. There are aspects of the experience that also need a vision, and we've begun conversations about some of them. 
+That is the broad vision for the Veteran health experience. There are aspects of the experience that also need a vision, and we've begun conversations about things like patient-generated health data. 
+
+Note that there are a lot of complexities with records because of:
+- Veteran health data that comes from DoD (Department of Defense),
+- privacy and security issues, and
+- system interoperability issues (ex: Ideally DoD systems would talk to VA systems.) 
 
 ### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
@@ -43,10 +48,7 @@ Currently on My HealtheVet:
 Decision needed: 
 - VA needs to address the question of PGHD being part of the patient's comprehensive record.
 
-Note that there are a lot of complexities with records because of:
-- Veteran health data that comes from DoD (Department of Defense),
-- privacy and security issues
-- system interoperability issues (ex: Ideally Cerner and DoD systems would talk to VA's existing systems.) 
+## Xxxxxxx
 
 
 
