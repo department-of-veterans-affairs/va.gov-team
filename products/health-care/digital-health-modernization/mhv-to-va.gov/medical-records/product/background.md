@@ -2,9 +2,9 @@
 July 26, 2022
 
 To view and download records content, a Veteran must be:
-- Signed 
-- Enrolled in VA health care, and
-- Registered at a VA facility.
+- signed in,
+- enrolled in VA health care, and
+- registered at a VA facility.
 
 
 ## What are the types of records? 
@@ -35,12 +35,12 @@ The Blue Button Report contains the largest set of health data VA has for a Vete
 **Key point:** When you download a Blue Button Report, you choose what data goes into it. 
 
 #### Search my record
-In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application. The top middle of [this Mural shows the search screen for "Search my record."](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+In early 2022, a My HealtheVet (MHV) developer created an application called "[Search my record](https://www.myhealth.va.gov/mhv-portal-web/search-my-record)." (You must sign in to use the application. Here's the [search screen for "Search my record."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/search-my-record-search-screen.png)
 
 A few things to note about "Search my record":
 - All data in "Search my record" also lives in Blue Button, but...
 - Blue Button includes some data that "Search my record" doesn't have (exs: DoD info, self-entered health data). 
-- Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it. 
+- Currently MHV does not link to the "Search my record" app, so only people who know the URL for "Search my record" can access it.
 
 **Why did VA create "Search my record"?**
 - They wanted something more advanced, with more options in the UX than Blue Button Report has — something that allows Veterans to dig deeper, to search and pull up a specific thing (ex: lab result). 
@@ -49,7 +49,9 @@ A few things to note about "Search my record":
  
 MHV's UCD Team was not involved in the original design and development of "Search my record." After the soft launch, the UCD Team did a research study and provided recommendations for usability fixes to the UI. The developers made some of these fixes, but the project has been on hold since they ran into performance issues.
 
-NOTE: You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). From the search results, you can click into an individual data point such as lab work on a specific day for a specific reason.
+**Key point:** You cannot enter a keyword to search your records. Instead you select types of data to include in "Search my record" search results (exs: VA Notes, VA Labs and Tests, and VA Allergies). You are applying filters to determine what will be in your search results. On the search results page, you can click into an individual data point such as lab work on a specific day for a specific reason.
+
+Here's a [doc from the MHV UCD Team's Arienne Walters and Bobby Bailey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/Search%20My%20VA%20Health%20Record%20-%20Differences%20from%20Blue%20Button.docx) about the differences between Blue Button Report and "Search my record."
  
 ### 2) VA Health Summary:
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary supports continuity of care between providers.
