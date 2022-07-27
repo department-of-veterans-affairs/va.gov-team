@@ -10,19 +10,21 @@ That is the broad vision for the Veteran health experience. There are aspects of
 
 ### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
-- Enter into the VA website through forms (They do it on My HealtheVet today.), or
-- Upload from a software application or wearable device. (This is the future.)
+- Enter into the VA website through forms (on My HealtheVet today), or
+- Upload from a software application or wearable device (the future for MHV on VA.gov)
 
-VA’s philosophy differs from Cerner's:
-VA’s philosophy is that EHR data and data from the patient are 2 discrete things that should be managed separately. 
+PGD includes the existing self-entered data apps at [mobile.va.gov](https://mobile.va.gov/), built by the Office of Connected Care (OCC).
+
+VA’s philosophy:
+- EHR (Electronic Health Record) data and data from the patient are 2 discrete things that should be managed separately. 
 - The EHR needs to contain an organized set of data that providers can use to make decisions.
-- PGD should be separate from the EHR (Electronic Health Record). Wearable devices can contain a tremendous amount of data, and this is difficult for providers to parse and leverage. But a provider can decide to enter data a patient gave them into the EHR.
+- PGD should be separate from the EHR. Wearable devices can contain a tremendous amount of data, and this is difficult for providers to parse and leverage. But a provider can decide to enter data a patient gave them into the EHR.
 
 What’s missing: 
-- VA has not addressed the question of of PGD being part of the comprehensive health record.
+- VA needs to address the question of of PGD being part of the comprehensive health record.
 - Cerner doesn’t have an approach to dealing with FitBit data (i.e., data from wearable devices).
 
-PGHD includes the existing self-entered data apps at mobile.va.gov, built by the Office of Connected Care (OCC).
+Cerner is the electronic health record system VA is implementing. Because this system is not integrated with My HealtheVet, Veterans treated at VA facilities must go to a separate (Cerner) website to see their health data. 
 
 ### "Subscribe and prescribe" vision for patient-generated data 
 This is the vision of the OCC leadership for patient-generated data, articulated by Dr. Neil Evans, Nancy Wilck, and Theresa Hancock.  
@@ -39,12 +41,12 @@ Currently on My HealtheVet:
 - OCC is working now on how to improve “sync my health data," to make it easier for Veterans to sync and share. They would like to add a data visualization.
 
 Decision needed: 
-- VA has not addressed the question of PGHD being part of the patient's comprehensive record.
+- VA needs to address the question of PGHD being part of the patient's comprehensive record.
 
-There are a lot of complexities with records because of:
+Note that there are a lot of complexities with records because of:
 - Veteran health data that comes from DoD (Department of Defense),
 - privacy and security issues
-- system interoperability issues (ex: VA is implementing Cerner, an electronic health record system. Ideally Cerner and DoD systems would talk to VA's existing systems.) 
+- system interoperability issues (ex: Ideally Cerner and DoD systems would talk to VA's existing systems.) 
 
 
 
