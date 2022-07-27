@@ -1,14 +1,14 @@
 # SPRINT GOALS
 
-## 7/27/2022 (FUTURE)
+## 7/27/2022 
 
-#### Planned Releases (TENTATIVE)
-- 8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
-    - Phone appt release validation is going to take a bit of extra setup bc a phone clinic will have to be enabled for check-in and an appt created in that clinic - hopefully Stephen can help us with that
+#### Planned Releases 
+- 8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)    - 
 - 8/9? [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
+    - Phone appt release validation is going to take a bit of extra setup bc a phone clinic will have to be enabled for check-in and an appt created in that clinic - hopefully Stephen can help us with that
 - 8/9? [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
 
-#### Discovery Sprint Goals (TENTATIVE)
+#### Discovery Sprint Goals 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Finish research plan
     - Create conversation guide    
@@ -24,23 +24,24 @@
 - [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
     - Meet with team & Walk through Pre-Check-in & Check-in applications to decide what needs to change to support a public device
 - [Break out by Language](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/44509)
-    - Meet with Analytics team to determine how we can split out metrics by language
+    - Do the work
 
-#### Design & Content Sprint Goals (TENTATIVE)
-- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Finalize MVP Wireframes  
-    - Create prototype
-- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
-    - Finish content and pass off to CHIP/VeTEXT
+#### Design & Content Sprint Goals
 - [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
     - Create wireframes (MVP, same as for Physical Location)
+    - NOTE: VAOS already made decisions about where these go
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Finalize MVP Prototypes (3)  
 - [Physical Location Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42794)
     - Update wireframes & merge to Abstract master
     - Update release artifacts
-- [Update System Generated Notifications UI](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44905)
-    - Create wireframes
-    
-#### Engineering Sprint Goals (TENTATIVE)
+- LoROTA Security Updates
+    - Update Wireframes to Use New Memorable DS Component
+- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
+    - Pass off 1 to CHIP
+    - Pull in 1 other to start working on
+
+#### Engineering Sprint Goals
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Test & release on 8/4
 - [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
@@ -53,11 +54,10 @@
     - Add ability to cancel an appointment (request from Shane)
 - [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
     - Get answers to initial questions (SPIKE)
-- Bugs & Tech Debt
+- Bugs & Tech Debt (As many or as few as we can fit in)
     - [Create cypress tests to get screenshots of phone appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44896)
     - [Add staging test user DoBs to test data doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44428)
     - [Many requests are being made to the pre-check-in controller without a token](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44705)
-    - [Create Cypress screenshot scripts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44682)
     - [Do not allow Veterans to attempt to check in to the same appointment again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38166)
     - [VoiceOver reads addresses twice before continuing](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44418)
     - [local application reloading redirects to verify page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42562)
