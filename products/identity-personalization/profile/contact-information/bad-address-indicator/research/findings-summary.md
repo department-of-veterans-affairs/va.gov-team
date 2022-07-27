@@ -242,7 +242,7 @@ _Recommendation to move Confirm instructions to the smaller alert within an addi
 Next Steps
 ==========
 
-- Discern technical feasibility of recommendations
+- Discern technical feasibility of recommendations and any new accessibility challenges
 - Evaluate recommendations with product team
 - Work with Danielle Thierry on content-related changes
 
