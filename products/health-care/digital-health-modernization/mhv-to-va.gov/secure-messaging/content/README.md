@@ -152,7 +152,8 @@ This is the default way a message detail loads after a user opts to open a messa
   - Message body
   - Display the word "Attachments" if the message has an attachment
   - [paper clip icon][link] Name of attachment
-  - 
+  - Note: This message message may not be from the person you initially contacted. It may have been reassigned to effeciently address your original message,
+ 
 
 #### View attachment
 - [Desktop Mockup]()
