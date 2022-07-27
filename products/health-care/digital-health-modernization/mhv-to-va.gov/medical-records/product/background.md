@@ -8,7 +8,7 @@ Currently VA has 3 types of reports that contain a Veteran's medical records at 
 2) VA Health Summary (a.k.a. CCD, CCDA, or Continuity of Care Document)
 3) VA Medical Images and Reports
 
-In large part, these reports contain data based on a VA patient's interaction with VA medical providers. But if a Veteran gives their VA doctor health data from a non-VA doctor (ex: prescriptions), their VA doctor might enter that data into their VA health record. 
+In large part, these reports contain data based on a VA patient's interaction with VA medical providers. But if a Veteran gives their VA doctor health data from a non-VA doctor (ex: prescriptions), their VA doctor could enter that data into their VA health record. 
 
 **NOTE:** To view and download records content, a Veteran must be:
 - signed in,
