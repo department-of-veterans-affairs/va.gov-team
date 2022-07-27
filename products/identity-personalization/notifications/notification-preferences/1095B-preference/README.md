@@ -10,7 +10,7 @@ The 1095B team has a long list of functionality that needs to support this effor
 
 - Support a notification preference in the profile that allows veterans to opt into and out of a mailed copy of their 1095B. This would connect to VA Profile.
 - Make sure anyone who updates this permission has an email on file, given that there are a number of legally required emails associated with this work.
-- Any time someone updates their preference, send a confirmation email.
+- Any time someone updates their 1095B preference, send a confirmation email.
 
 ### Major caveats
 
