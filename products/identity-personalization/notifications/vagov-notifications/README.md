@@ -91,6 +91,8 @@ We receive on-site notifications from [VANotify](https://depo-platform-documenta
 
 [Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
 
+See [Onsite Notification Technical Overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/onsite_notifications/technical_overview.md) for more detailed technical workflows and explanations about the solution.
+
 ### How to test
 
 Currently, there is only one notification to test (2022). In the future, there may be multiple notifications that need to be tested in different ways. 
