@@ -47,6 +47,8 @@ There are some pros and cons to this:
 
 ### For VA Profile
 
+- How will the data come back to us?
+
 ### For 1095B team
 
 - What are we legally required to communicate in the preferences UI?
