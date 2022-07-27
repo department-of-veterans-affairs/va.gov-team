@@ -48,14 +48,20 @@ Currently on My HealtheVet:
 Decision needed: 
 - VA needs to address the question of PGHD being part of the patient's comprehensive record.
 
-## Work so far
-We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them here and on several Mural boards:
+## Where we are with records analysis
+1) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them here:
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
 - My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22
 - OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
 - "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
 
+2) We've gathered screen shots of: 
+- the My HealtheVet Records section, and
+- Cerner records screens
 
+[See the Mural of My HealtheVet and Cerner records screens.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1658960897509/d517d764e4df567e41585d1c53831cebd17e40af?sender=megpeters0505)
+
+3) The My HealtheVet Team has 
 
 
 
