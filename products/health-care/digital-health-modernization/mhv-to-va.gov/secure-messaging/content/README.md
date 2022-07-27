@@ -8,11 +8,10 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - [Exceptions to standard tags, design system components](#exceptions-to-standard-tags-design-system-components)
 - [Design system components](#design-system-components)
 
-### Secure landing page - Unauth
-- [Default view](#secure-landing-page---unauth-1)
-
+### [Secure landing page - Unauth](#secure-landing-page---unauth)
+- [Default view](#default-view)
 ### Secure landing page - Auth without health care
-- [Default view](d#default-view)
+- [Default view](#secure-landing-page---auth-without-health-care-1)
 
 ### Messages FAQ
 - Default view
