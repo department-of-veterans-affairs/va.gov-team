@@ -84,7 +84,10 @@ Our goals for this research are to gather feedback from Veterans in the followin
 
 This research will be conducted as a contextual inquiry that includes a presentation of prototypes that the moderator will control. The contextual inquiry method will allow experiencing the prototypes to remain as a controlled variable between participants, which will allow us to gather feedback on specific areas of interest and skip those that aren’t.  
 
-To avoid cognitive overload, half of the participants will engage in activities related to research goals #1 and #3 (known as Participant Group 1), while the other half will engage in activities related to research goals #2 and #3 (known as Participant Group 2).  
+To avoid cognitive overload, half of the participants will engage in activities related to research goals #1 and #3, while the other half will engage in activities related to research goals #2 and #3:  
+
+- Participant Group 1 - Goals #1 and #3
+- Participant Group 2 - Goals #2 and #3
 
 There will be a total of three prototypes created for the purposes of this research: 
 
