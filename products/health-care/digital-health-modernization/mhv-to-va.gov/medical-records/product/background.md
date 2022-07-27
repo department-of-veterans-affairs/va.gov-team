@@ -106,17 +106,15 @@ See the [Digital Health Modernization Team's generative research](https://github
 
 
 ## Lay of the land
+Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. Since the information in records is private and protected by law, it will be important to consult with VA's legal and privacy experts as Records moves from My HealtheVet to VA.gov.
+
+### Partners, stakeholders, and SMEs
+Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
 
-
-MHV and OCTO + LOTS of other parties. 
 Understand stakeholder priorities and who can make decisions. It's possible that different people will make key decisions based on their expertise.
 Find a way to inform SMEs and non-main stakeholders so you don't get too far down the wrong direction.
 Have Nancy and Theresa introduce you to new SHs.
-
-
-### Partners, stakeholders, and SMEs
-Here's the [full draft list of partners, stakeholders, and SMEs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
 
 ## What we know from user research < WORK IN PROGRESS >
