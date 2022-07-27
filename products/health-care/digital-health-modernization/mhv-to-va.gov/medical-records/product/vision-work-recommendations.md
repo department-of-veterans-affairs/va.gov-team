@@ -8,29 +8,52 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 
 That is the broad vision for the Veteran health experience. There are aspects of the experience that also need a vision, and we've begun conversations about some of them. 
 
-### Vision for patient-generated data (PGD)
+### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
 - Enter into the VA website through forms (They do it on My HealtheVet today.), or
-- Upload from an application or wearable device. (This is the future.)
+- Upload from a software application or wearable device. (This is the future.)
 
 VA’s philosophy differs from Cerner's:
 VA’s philosophy is that EHR data and data from the patient are 2 discrete things that should be managed separately. 
-— The EHR needs to contain an organized set of data that providers can use to make decisions. 
-— PGD should be separate from the EHR (Electronic Health Record). Wearable devices can contain a tremendous amount of data, and this is difficult for providers to parse and leverage. But a provider can decide to enter data a patient gave them into the EHR.
+- The EHR needs to contain an organized set of data that providers can use to make decisions.
+- PGD should be separate from the EHR (Electronic Health Record). Wearable devices can contain a tremendous amount of data, and this is difficult for providers to parse and leverage. But a provider can decide to enter data a patient gave them into the EHR.
 
 What’s missing: 
-— VA has not addressed the question of of PGD being part of the comprehensive health record.
-— Cerner doesn’t have an approach to dealing with FitBit data (i.e., data from wearable devices).
+- VA has not addressed the question of of PGD being part of the comprehensive health record.
+- Cerner doesn’t have an approach to dealing with FitBit data (i.e., data from wearable devices).
 
-#### "Subscribe and prescribe" is the vision of the Office of Connected Care (OCC) leadership  
-— Veterans want a place to record things. They want to share with their providers. 
-— If we were to prescribe recording health data and using apps to Veterans, we could have culture change. 
-— Providers would subscribe to PGD.
-— VA would display PGD in a meaningful way to support clinical decisions (ex: Virtual Care Manager software for VA providers).
+PGHD includes the existing self-entered data apps at mobile.va.gov, built by the Office of Connected Care (OCC).
 
-Currently: 
-— Veterans can opt to share self-entered data or not. 
-— Veterans can go into the “vault,” where the data is. Without VA promoting this, ~10K Vets have and are sharing data (unclear of the time period).
-— PGHD includes the existing self-entered data apps at mobile.va.gov built by OCC.
+### "Subscribe and prescribe" vision for patient-generated data 
+This is the vision of the OCC leadership for patient-generated data, articulated by Dr. Neil Evans, Nancy Wilck, and Theresa Hancock.  
+- Veterans want a place to record things. They want to share with their providers.
+- VA must communicate openly to Veterans about how their data will be used. 
+- If we were to prescribe recording health data and using apps to Veterans, we could have culture change. 
+- Providers would subscribe to PGD.
+- VA would display PGD in a meaningful way to support clinical decisions (ex: Virtual Care Manager software for VA providers). VA is starting to have data in MHV visible to providers in Virtual Care Manager.
+
+Currently on My HealtheVet: 
+- Veterans can opt to share self-entered data or not (the data they typed into the My HealtheVet website). 
+- Veterans can go into the “vault,” where the data is. Without VA promoting this, ~10K Vets have and are sharing data (unclear of the time period).
+- Veterans cannot connect wearable devices and upload the data to My HealtheVet. 
+- OCC is working now on how to improve “sync my health data," to make it easier for Veterans to sync and share. They would like to add a data visualization.
+
+Decision needed: 
+- VA has not addressed the question of PGHD being part of the patient's comprehensive record.
+
+There are a lot of complexities with records because of:
+- Veteran health data that comes from DoD (Department of Defense),
+- privacy and security issues
+- system interoperability issues (ex: VA is implementing Cerner, an electronic health record system. Ideally Cerner and DoD systems would talk to VA's existing systems.) 
+
+
+
+
+
+
+
+
+
+
 
 
