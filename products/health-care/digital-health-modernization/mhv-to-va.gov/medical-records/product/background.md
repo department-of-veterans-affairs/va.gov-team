@@ -108,13 +108,16 @@ See the [Digital Health Modernization Team's generative research](https://github
 ## Lay of the land
 Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. Since the information in records is private and protected by law, it will be important to consult with VA's legal and privacy experts as Records moves from My HealtheVet to VA.gov.
 
-### Partners, stakeholders, and SMEs
+### Partners, stakeholders, and Subject-Matter Experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
+When working with partners, stakeholders, and Subject-Matter Experts (SMEs), it will be critical to:
+- understand stakeholder priorities,
+- figure out who can make which decisions (the "who" may vary based on expertise),
+- communicate progress regularly to main partners, and
+- inform SMEs and non-main stakeholders of your direction so you don't get too far with a solution that could be problematic.
 
-Understand stakeholder priorities and who can make decisions. It's possible that different people will make key decisions based on their expertise.
-Find a way to inform SMEs and non-main stakeholders so you don't get too far down the wrong direction.
-Have Nancy and Theresa introduce you to new SHs.
+**Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, they can introduce you.
 
 
 ## What we know from user research < WORK IN PROGRESS >
@@ -142,3 +145,16 @@ viewing their medical records
 
 Participants were confused about certain terms, including "Blue Button,” and “Adverse Reactions.”
 50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round. None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
+
+Recommendations
+Explore the feasibility of changing the language on the “In this section” menu to help Veterans know what to expect inside the menu and to help Veterans understand the differences between health navigation and Va.gov navigation.
+Adopt the naming convention of VA.gov and Heath Homepage in the breadcrumbs.
+Coordinate with other teams working on appointment scheduling to find language that is clearer to Veterans than “Pending” appointments.
+Consider what the pre-checkin experience should be going forward. In both the desktop and mobile prototypes participants expected tools to be linked, for example they expected to see pre-checkin paperwork in their appointment details because the paperwork is related to a specific appointment.
+Continue to pay attention to pharmacy label text in future rounds, participants struggled with it in the desktop prototype but it tested well in the mobile prototype.
+Continue with both the login button and the login link as they tested well on mobile and desktop.
+
+
+Generative research - nugget
+
+
