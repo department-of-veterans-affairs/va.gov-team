@@ -121,7 +121,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - H1: Messages
-- [section] H2: Message subject line      Reply icon 
+- [section] H2: Message subject line      Reply icon <br> 
                                           [link] Reply
 
 ### Secure landing page - Auth without health care
