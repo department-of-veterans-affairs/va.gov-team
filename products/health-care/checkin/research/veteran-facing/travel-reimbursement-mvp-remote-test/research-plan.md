@@ -45,7 +45,7 @@ This research plan maps to the following moment within the Veteran journey:
 Our goals for this research are to gather feedback from Veterans in the following areas to inform the travel reimbursement MVP user experience:  
 
 1. Determine if Veterans prefer to be asked if they’re interested (i.e., yes or no) in filing for travel reimbursement as a precursor to reviewing and confirming their eligibility and how that impacts overall app ease of use 
-1. Measure the cognitive load of two prototypes that have different presentations of how Veterans will review and confirm their travel reimbursement eligibility  
+1. Measure the cognitive load when Veterans review and confirm their travel reimbursement eligibility within two prototypes  
 1. Determine how easy it is to understand what to do next on the confirmation page in relation to travel reimbursement 
 
 ### Research Questions
@@ -57,7 +57,7 @@ Our goals for this research are to gather feedback from Veterans in the followin
      1. How well or not so well do each of the two prototypes fit within the existing PCI userflow for the alternative paths (e.g., answering “no” to travel questions)? 
      1. Is it confusing to check in for an appointment and submit for travel pay at the same time?   
 
-1. Measure the cognitive load of two prototypes that present how Veterans will review and confirm their travel reimbursement eligibility  
+1. Measure the cognitive load when Veterans review and confirm their travel reimbursement eligibility within two prototypes    
      1. On a scale of 1 to 10, how much strain do Veterans experience (e.g., the time it takes to stop and figure out how to respond) when reviewing and confirming their travel reimbursement eligibility for each of the two prototypes?  
      1. On a scale of 1 to 10, how easy to use are each of the two prototypes for reviewing and confirming travel reimbursement eligibility?   
 
@@ -73,7 +73,7 @@ Our goals for this research are to gather feedback from Veterans in the followin
      1. Most Veterans will agree that travel pay is appropriately positioned within the PCI workflow. 
      1. Most Veterans will agree that including travel pay in PCI is logical. 
      1. Most Veterans will agree that including travel pay in PCI is valuable. 
-1. Measure the cognitive load of two prototypes that present how Veterans will review and confirm their travel reimbursement eligibility  
+1. Measure the cognitive load when Veterans review and confirm their travel reimbursement eligibility within two prototypes    
      1. Most Veterans will think there is more mental strain when reviewing and confirming eligibility criteria on a single page, therefore prefer Prototype C over Prototype B. 
      1. Most Veterans will think it’s easier to review and confirm one eligibility criteria per page, therefore prefer Prototype C over Prototype B.  
 1. Determine how easy it is to understand what to do next on the confirmation page in relation to travel reimbursement 
