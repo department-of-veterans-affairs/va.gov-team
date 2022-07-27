@@ -8,7 +8,8 @@ The health apartment team is working on an effort to allow veterans and other he
 
 The 1095B team has a long list of functionality that needs to support this effort. This is the functionality that is required from our team:
 
-- Support a notification preference in the profile that allows veterans to opt into and out of a mailed copy of their 1095B. This would connect to VA Profile.
+- Support a notification preference in the profile that allows veterans to opt into and out of a mailed copy of their 1095B. It should be clear that they can change this option at any time.
+  - This would connect to VA Profile.
 - Make sure anyone who updates this permission has an email on file, given that there are a number of legally required emails associated with this work.
 - Any time someone updates their 1095B preference, send a confirmation email.
 
@@ -47,3 +48,5 @@ There are some pros and cons to this:
 ### For VA Profile
 
 ### For 1095B team
+
+- What are we legally required to communicate in the preferences UI?
