@@ -1,11 +1,6 @@
 # Background for medical records
 July 26, 2022
 
-To view and download records content, a Veteran must be:
-- signed in,
-- enrolled in VA health care, and
-- registered at a VA facility.
-
 
 ## What are the types of records? 
 Currently VA has 3 types of reports that contain a Veteran's medical records at VA:  
@@ -15,7 +10,12 @@ Currently VA has 3 types of reports that contain a Veteran's medical records at 
 
 In large part, these reports contain data based on a VA patient's interaction with VA medical providers. But if a Veteran gives their VA doctor health data from a non-VA doctor (ex: prescriptions), their VA doctor might enter that data into their VA health record. 
 
-### 1) Blue Button:
+**NOTE:** To view and download records content, a Veteran must be:
+- signed in,
+- enrolled in VA health care, and
+- registered at a VA facility.
+
+### 1) Blue Button
 "Blue Button" is a way to view or download a Veteran's VA health records using *any of the 3 types of reports listed above.* "Blue Button" also has another meaning: Veterans familiar with viewing and downloading their medical records equate the term "Blue Button" to the Blue Button Report.
 
 The Blue Button Report contains the largest set of health data VA has for a Veteran. (See list below.) You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
@@ -55,7 +55,7 @@ MHV's UCD Team was not involved in the original design and development of "Searc
 
 Here's a [doc from the MHV UCD Team's Arienne Walters and Bobby Bailey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/Search%20My%20VA%20Health%20Record%20-%20Differences%20from%20Blue%20Button.docx) about the differences between Blue Button Report and "Search my record."
  
-### 2) VA Health Summary:
+### 2) VA Health Summary
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary supports continuity of care between providers.
 
 You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
@@ -88,28 +88,35 @@ A Veteran can:
 - Download and view medical images such as MRIs and X-rays, as well as reports about medical images
 - Request images
 
-#### Coming soon to records? 
+### Coming soon to records? 
 There's talk of including the **After-Visit Summary (AVS)** in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
 
 
-## How do Veterans use records? 
+## How do Veterans use their medical records? 
 During user research, we talked with Veterans about how they use their medical records. Veterans said they want to:
 - Share their VA health care data with non-VA providers
-- Document their service-connected disabilities for fear of losing access to care
+- Document their service-connected disabilities for fear of losing access to health care
+- Use medical records when filing for disability or an increase in disability rating — records about their claimed condition or that show their rated disability has gotten worse
 - Show proof of immunization or vaccination
+- Keep complete health records 
 
 We also heard from Veterans that they think of their health record as a crucial component of their disability benefits.
 
+See the [Digital Health Modernization Team's generative research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1) on understanding the Veteran health experience holistically.
+
 
 ## Lay of the land
+
+
+
 MHV and OCTO + LOTS of other parties. 
 Understand stakeholder priorities and who can make decisions. It's possible that different people will make key decisions based on their expertise.
 Find a way to inform SMEs and non-main stakeholders so you don't get too far down the wrong direction.
 Have Nancy and Theresa introduce you to new SHs.
 
 
-## Partners, stakeholders, and SMEs
-[Here's the full draft list of partners, stakeholders, and SMEs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
+### Partners, stakeholders, and SMEs
+Here's the [full draft list of partners, stakeholders, and SMEs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
 
 ## What we know from user research < WORK IN PROGRESS >
