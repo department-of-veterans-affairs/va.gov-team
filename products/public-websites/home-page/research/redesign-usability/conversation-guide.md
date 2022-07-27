@@ -7,8 +7,9 @@
 **10-15 min before session**: 
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
   - *@mention team members*
-- *Share brief summary of participant demographic info*
-- *Make sure that the survey is LIVE*
+  - *Share brief summary of participant demographic info*
+- *Sticky note: Which tasks to do or skip*
+- *Blank sticky notes for benefits p has, doesn't have but interested in*
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
@@ -24,8 +25,6 @@
 - *Do Not Disturb ON so no notifications*
 
 - *Make sure everyone is muted except me and the participant*
-
-- *ADMIT any observers from the waiting room*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
 
@@ -90,7 +89,7 @@ Let’s start with a few questions...
 
 1. What VA benefits that you *don't* have experience with might you be interested in exploring? *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-1. Where do you typically go to get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
+1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
 
 1. Can you tell me about the last time you were looking for information or trying to do something with your VA benefits? 
 
@@ -177,6 +176,7 @@ Let's say that you're considering going back to school to get your degree, and y
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 2: [Compare VA education benefits and rates by school]
 There are several universities in your area, and you want to figure out which one to attend in order to maximize VA's coverage of your tuition and housing. How would you figure that out?
@@ -186,6 +186,7 @@ There are several universities in your area, and you want to figure out which on
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 ### IF HAVEN'T USED DISABILITY BENEFITS...
 
@@ -197,6 +198,7 @@ Your hearing loss might be related to your military service, and you want to kno
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 20A: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK 
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
@@ -206,6 +208,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 ### IF *HAVE* USED DISABILITY BENEFITS...
 
@@ -217,6 +220,7 @@ Your hearing loss from your time in the military has gotten worse over the last 
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 20B: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK 
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
@@ -226,6 +230,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 
 #### Task 5A: [View your payment history]
@@ -236,6 +241,7 @@ How would you check the amount of your current disability compensation?
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 6A: [Check the current disability compensation rates]
 You recently applied for an increase in your disability rating and wonder how it might affect your payment amount. How would you check the currently compensation rates?
@@ -245,6 +251,7 @@ You recently applied for an increase in your disability rating and wonder how it
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 ### IF *HAVE* USED EDUCATION BENEFITS...
 
@@ -256,6 +263,7 @@ How would you see the amount of money last sent to your school?
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 7: [Check or update your current education benefits]
 You're thinking about taking a few more college classes. How would you find out how much GI Bill money you have left?
@@ -265,6 +273,7 @@ You're thinking about taking a few more college classes. How would you find out 
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 ### FOR EVERYONE...
 
@@ -276,6 +285,7 @@ You'd like to see VA's current disability compensation rates. How would you find
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out?
@@ -285,6 +295,7 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 9: [Get your VA medical records]
 You were just advised to see a doctor outside the VA, and their office asked for your medical history from the VA. How can you share that with them?
@@ -294,6 +305,7 @@ You were just advised to see a doctor outside the VA, and their office asked for
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 ### IF *HAVE* VA HEALTH CARE...
 
@@ -306,16 +318,17 @@ You were just advised to see a doctor outside the VA, and their office asked for
    
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
-
+- Could you please go back to the original web page you opened?
 
 #### Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
-You recently traveled a long way for a doctor's appointment at the VA. How could you find out if the VA will cover your travel expenses? 
+You traveled a long way to your doctor's appointment at the VA. How could you find out if the VA will cover your travel expenses? 
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 20C: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK *& HAVEN'T DONE TASK 20 BEFORE*
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
@@ -325,6 +338,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 
 ### IF *DON'T* HAVE VA HEALTH CARE...
@@ -337,6 +351,7 @@ A new VA health clinic just opened near you, and you might want to see a doctor 
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 20D: [Find a VA form] -- IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK *& HAVEN'T DONE TASK 20 BEFORE*
 Can you back out of here to the page you started on? Can you find the application directly from this web page?
@@ -346,6 +361,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 ### FOR EVERYONE...
 
@@ -357,6 +373,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 14: [Review or update your dependents] 
 - Say that you just got married. How would you tell the VA about your new spouse?
@@ -365,6 +382,7 @@ Can you back out of here to the page you started on? Can you find the applicatio
     - What do you expect to see next?
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 15: [Update your contact information with VA]
 You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this?
@@ -374,6 +392,7 @@ You recently moved and want to make sure that your mail and benefit information 
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 16: [Find a mental health counselor or therapist]
 Recent news stories have affected you more than you expected, and you want to talk to a therapist or counselor about how you're feeling.  How would you do this?
@@ -383,6 +402,7 @@ Recent news stories have affected you more than you expected, and you want to ta
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 17: [Learn in advance if eligible for burial in a VA cemetery]
 You have been wondering about whether you could be buried in a VA cemetery. How would you find out? 
@@ -392,6 +412,7 @@ You have been wondering about whether you could be buried in a VA cemetery. How 
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 18: [Apply for a home loan Certificate of Eligibility (COE)]
 Say you have been looking for a new home, and your bank asked for proof that you qualify for a VA home loan. How would you provide this?
@@ -401,6 +422,7 @@ Say you have been looking for a new home, and your bank asked for proof that you
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 #### Task 19: [Request your military records (DD214)]
 Your employer asked you to provide proof of your military service and honorable discharge. How would you do this?
@@ -410,6 +432,7 @@ Your employer asked you to provide proof of your military service and honorable 
 
 - How would you rate the ease of finding what you were looking for on a scale from 1 to 5, where 1 is *difficult* and 5 is *easy*? And why?
 - *RECORD task success: yes / no / help needed*
+- Could you please go back to the original web page you opened?
 
 
 ## Post-Task Interview - 10 minutes
@@ -420,7 +443,7 @@ Your employer asked you to provide proof of your military service and honorable 
 1. What would you like to *change or add*?
 1. I'd like to ask you about a specific part of the first page that you looked at: the dark blue section on Veteran homelessness. 
      1. What are your thoughts on what you see here in this section of the page?   
-     1. What kind of information would be helpful to show here?
+     1. If there wasn't information on homelessness here, what kind of information might you expect or want to see here?
      1. How often should the information be changed?
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
 1. Can you tell me about how you usually look for information on web pages in general? (not specifically VA or government websites)
