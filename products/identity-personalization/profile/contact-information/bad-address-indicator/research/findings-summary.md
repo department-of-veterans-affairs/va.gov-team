@@ -225,7 +225,7 @@ The following recommendations center around revisiting and reorganizing content 
 	* Consider separating out the Confirm instructions from the primary Update instructions and relocating this information to the smaller alert in the mailing address field within an [additional information dropdown component](https://design.va.gov/components/additional-info#examples). This could help remove confusion surrounding the difference between Updating and Confirming an address by presenting the Confirm information only when needed and where participants are usually seeking this information. _Mockup below_
 	* List Confirm instructions in an easy-to-read format, such as bullet points, to more clearly convey this information
 	* Consider including more information around why a confirmation is needed - in response to participants saying they would not want to update and mess with their address if nothing was wrong with it
-3.  Consider changing "Review your Address" to "Review your address"
+3.  Change "Review your Address" to "Review your address" to match mockups
 4.  Consider changing the email format to all lowercase characters
 
 _Recommendation to move Confirm instructions to the smaller alert within an additional information dropdown_
