@@ -105,15 +105,21 @@ We also heard from Veterans that they think of their health record as a crucial 
 See the [Digital Health Modernization Team's generative research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1) on understanding the Veteran health experience holistically.
 
 
-## Lay of the land
+## The records landscape at VA
 Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. As Records moves from My HealtheVet to VA.gov and gets redesigned, it will be important to consult with VA's legal and privacy experts because the information in records is private and protected by law.
 
 ### Partners, stakeholders, and Subject-Matter Experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
-When working with partners, stakeholders, and Subject-Matter Experts (SMEs), it will be critical to:
+So far we've met with:
+- My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
+- My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22
+- OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
+- "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
+
+When working with partners, stakeholders, and subject-matter experts (SMEs), it will be critical to:
 - understand stakeholder priorities,
-- figure out who can make which decisions (the "who" may vary based on expertise),
+- figure out who the decision-makers are (the "who" may vary based on expertise),
 - communicate progress regularly to the main partners, and
 - inform SMEs and non-main stakeholders of your direction so you don't get too far with a solution that could be problematic.
 
@@ -131,65 +137,46 @@ Following are details on several studies.
 ### 1) Round 1 user research on the MHV on VA.gov prototype 
 March-April 2022
 
-In Round 1 research, all participants used desktop to access a [prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/7yK3287/play) Though the study did not focus on records, we got Veterans' feedback on our mockup of the "Medical records" main landing page as they did the tasks we gave them.
+In Round 1 research, all participants used desktop to access a [prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/7yK3287/play) Though the study did not focus on records, we got Veterans' feedback on our concept for the "Medical records" landing page as they did common tasks related to records.
 
-**Insights on records from the [Round 1 findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md):**
+**[Round 1 findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md) on records:**
+- The Pharmacy and Medical records Tools had very high task success rates across all users. 
 - Participants weren’t sure what constituted “recent” for the table at the top of the main landing page. Does "recent" mean the last week, month, etc.?
 - While most participants were not familiar with Blue Button, they were able to determine what it was based on contextual clues.
-- Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report. One participant mentioned that there wasn’t a clear section for vaccine records — and wasn’t sure where they would live within the site.
+- Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report. 
+- One participant mentioned that there wasn’t a clear section for vaccine records — and wasn’t sure where they would live within the site.
 
-**Recommendations from Round 1:**<br></br>
+**Recommendations related to records from Round 1:**<br></br>
 Iterate on "Medical records" tool design to address the following:
 - Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”?
 - Iterate on explanatory text to assist users trying to determine the difference between a medical record (from Blue Button) versus their VA Health Summary.
-- Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? 
+- Determine where vaccine records reside in the tool. Is that a separate section, or included in the medical records? 
 - Share findings with the Flagship Mobile Team to see if they are still thinking about where vaccine records should live.
+
+[View the "Medical records" page of the desktop prototype.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6) Note that we've made updates to this prototype based on the findings from Round 1 and Round 2. 
 
 ### 2) Round 2 user research on the MHV on VA.gov prototype 
 May 2022
 
-In Round 2 research, all participants used a mobile device to access a [mobile prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/40D83D4A-9785-4204-A966-103B35FF65A7?hotspots=false) This study also did not focus on records; however, we got Veterans' feedback on our mockup of the "Medical records" main landing page for mobile as they did the tasks we gave them.
+In Round 2 research, all participants used a mobile device to access a [mobile prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/40D83D4A-9785-4204-A966-103B35FF65A7?hotspots=false) Like Round 1 above, this study did not focus on records; however, we got Veterans' feedback on our concept for the "Medical records" landing page for mobile as they did common tasks related to records.
 
-< Meg is here >
-**Insights on records from the [Round 1 findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md):**
-- Participants weren’t sure what constituted “recent” for the table at the top of the main landing page. Does "recent" mean the last week, month, etc.?
-- While most participants were not familiar with Blue Button, they were able to determine what it was based on contextual clues.
-- Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report. One participant mentioned that there wasn’t a clear section for vaccine records — and wasn’t sure where they would live within the site.
+**[Round 2 findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md) on records:**
+- Participants were confused about certain terms, including "Blue Button,” and “Adverse Reactions.” 50% of users knew what Blue Button was depending on whether they had used it before; this was similar to the previous round. 
 
-**Recommendations from Round 1:**<br></br>
-Iterate on "Medical records" tool design to address the following:
-- Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”?
-- Iterate on explanatory text to assist users trying to determine the difference between a medical record (from Blue Button) versus their VA Health Summary.
-- Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? 
-- Share findings with the Flagship Mobile Team to see if they are still thinking about where vaccine records should live.
+[View the "Medical records" page of the mobile prototype.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false) Note that we've made updates to this prototype based on the findings from Round 1 and Round 2. 
 
+### 3) Search my record usability findings 
+October 2021
 
+After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team evaluated "Search my record" for usability and did research with Veterans. 
 
+[View the “Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/)
 
-Round 2 report (insert prototype URL):
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md
+### 4) Generative research on how Veterans think about their health care
+December 2020
 
-Mobile
-https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/40D83D4A-9785-4204-A966-103B35FF65A7?hotspots=false
+After 
 
-Round 2 success at: 
-viewing their medical records
-
-Participants were confused about certain terms, including "Blue Button,” and “Adverse Reactions.”
-50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round. None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
-
-Recommendations
-Explore the feasibility of changing the language on the “In this section” menu to help Veterans know what to expect inside the menu and to help Veterans understand the differences between health navigation and Va.gov navigation.
-Adopt the naming convention of VA.gov and Heath Homepage in the breadcrumbs.
-Coordinate with other teams working on appointment scheduling to find language that is clearer to Veterans than “Pending” appointments.
-Consider what the pre-checkin experience should be going forward. In both the desktop and mobile prototypes participants expected tools to be linked, for example they expected to see pre-checkin paperwork in their appointment details because the paperwork is related to a specific appointment.
-Continue to pay attention to pharmacy label text in future rounds, participants struggled with it in the desktop prototype but it tested well in the mobile prototype.
-Continue with both the login button and the login link as they tested well on mobile and desktop.
-
-
-“Search my record” usability findings
-https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/
-
-
-Generative research - nugget
+Generative research - nugget - Slide 26
+issuse with their health record preven ted some partics from claiming their svc-connected conditions in the 1st place
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md
