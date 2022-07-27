@@ -9,7 +9,24 @@ The health apartment team is working on an effort to allow veterans and other he
 The 1095B team has a long list of functionality that needs to support this effort. This is the functionality that is required from our team:
 
 - Support a notification preference in the profile that allows veterans to opt into and out of a mailed copy of their 1095B. This would connect to VA Profile.
+- Any time someone updates their preference, send a confirmation email.
 
-**Major caveats**
+### Major caveats
 
-While this sounds simple, the request from the 1095B team doesn't fit into how VA Profile's system actually works. Right now, VA Profile supports **permissions**, ie. do or do not send me a message, but not **preferences** ie. how a message is sent, like via mail or digitally. Despite this, VA Profile is trying to be as accommodating as possible given that turning off mailed copies of the 1095B would save the VA a lot of $$$ on mail. So, VA Profile is basically trying to fit this request into the current system.
+While this sounds simple, the request from the 1095B team doesn't fit into how VA Profile's system actually works. Right now, VA Profile supports **permissions**, ie. whether or not to send a message, but not **preferences** ie. how a message is sent, like via mail or digitally. Despite this, VA Profile is trying to be as accommodating as possible given that turning off mailed copies of the 1095B would save the VA a lot of $$$ on mail. So, VA Profile is basically trying to fit this request into the current system.
+
+There are some pros and cons to this:
+
+**Pros**
+
+- We should be able to leverage the current Group -- Item -- Channel structure we currently have with VA Profile. 
+- We already send confirmation emails when people update their address and direct deposit information, so we should be able to do the same for this notification preference.
+
+**Cons**
+
+- VA Profile is retrofitting their system to make this work. They are treating a preference -- send me a copy via mail, or let me download digitally -- as a permission.
+- The channel we'll get back from VA Profile, as I understand it, is **email**, because there are emails associated with this work outside of the confirmation email we need to send. But, instead of relying on our copy structure we have now -- "Send me an email" or "Don't send me an email" -- we're going to have to customize this copy to something like "Mail me a copy of my 1095B" or "Don't mail me a copy of my 1095B. I'll download it digitally (note: you will receive XYZ emails if you choose to download your 1095B digitally)".
+- There may be other things we are required to explain from the UI for legal reasons, but I don't have insight into that yet. This could impact the design.
+- I'm not sure if sending a confirmation email is as easy as I think it is - maybe?
+
+## Questions
