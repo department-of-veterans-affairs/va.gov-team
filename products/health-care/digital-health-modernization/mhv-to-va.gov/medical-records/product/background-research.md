@@ -131,7 +131,12 @@ Research with Veterans over the past 2 1/2 years has given us insights on:
 - how they use their records, and
 - ways to improve the MHV on VA.gov / Health Apartment Team's prototype. 
 
-Following are details from several studies. There are likely more studies. **It would also be useful to gather analytics and see what story they tell. **
+Following are details from several studies. 
+
+### To do
+- Read the research studies below.
+- Find more research studies related to records.
+- Gather analytics and see what story they tell.
 
 ### 1) Round 1 user research on the MHV on VA.gov prototype 
 March-April 2022
