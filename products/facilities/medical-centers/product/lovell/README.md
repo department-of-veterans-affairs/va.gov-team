@@ -1,13 +1,14 @@
 # Lovell Federal Health Care Center
 ## Overview
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+- [Initiative ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9655) 
 
 This project transitioned teams in April 2022. It is currently managed by Facilities Team v.2, but some of the documentation from Facilities Team v.1 might be helpful for context.
 
 ## Facilities Team v.2
 ### Research & Design 
-- [UI Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9842)
-- [Content Design Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7622)
+- [UI Design epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9842)
+- [Content Design epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7622)
 
 #### Technical Feasibility | April 2022
 - [Technical feasibility](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7626)
