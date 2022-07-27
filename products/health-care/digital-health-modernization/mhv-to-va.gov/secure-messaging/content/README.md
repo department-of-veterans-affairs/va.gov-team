@@ -96,30 +96,33 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ## Page Content Specs
 
-### Layout / Components
-*Examples of what to include*
+### Common Layouts / Components
+[*Provide examples of standards that are used so you can refer back to them in the page sections below instead of having to create a mockup for every single state for every single page]
 - Exceptions to standard tags, design system components
   - H1 gets h2 styling for sizing
   - H2s get h3 styling for sizing
+  - Etc...
 - Design system components
-  - H1 gets h2 styling for sizing
-  - H2s get h3 styling for sizing
   - Use style rules from design system for html elements padding and margins
-  - Use design system components
+  - Use design system components and patterns
     -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
     -  radio input styling ([design system documentation](https://design.va.gov/components/form-controls#radio-buttons))
-    -  In the warning alert, use the on this page jump link ([design system documentation](https://design.va.gov/components/on-this-page-jump-links))
-  - Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
-    - background-only alert, icons, form input validation message
-    - All states documented in Input Message States [linked above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#relevant-links)
-    - [Here are the experimental page in the design system docs](https://design.va.gov/experimental-design/input-message)
+    -  icons ([design system documentation]([https://design.va.gov/components/on-this-page-jump-links](https://design.va.gov/foundation/icons)))
+    - Pagination ([design system documentation](https://design.va.gov/components/pagination))
+-  Design system content style guide
+  - Use style guide rules for content
+      - Abbreviations and acronyms ([design system documentation](https://design.va.gov/content-style-guide/abbreviations-and-acronyms))
+      - Health content ([design system documentation](https://design.va.gov/content-style-guide/health-content)
+      - Naming and labels ([design system documentation](https://design.va.gov/content-style-guide/naming-and-labels))
+      - Etc...
 
 ### Secure landing page - Unauth
 #### Default view
 - [Desktop Mockup](link)
-- [Mobile Mockup]()
+- [Mobile Mockup](link)
 - H1: Messages
-- H2:
+- [section] H2: Message subject line      Reply icon 
+                                          [link] Reply
 
 ### Secure landing page - Auth without health care
 - Default view
