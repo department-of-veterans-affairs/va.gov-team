@@ -131,17 +131,19 @@ Following are details on several studies.
 ### Round 1 user research on the MHV on VA.gov prototype 
 In this study, all participants used desktop to access a [prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/7yK3287/play) Though the study did not focus on records, we got Veterans' feedback on our mockup of the "Medical records" main landing page.
 
-From the [Round 1 findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md):
+**Insights on records from the [Round 1 findings]**(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md):
 - Participants weren’t sure what constituted “recent” for the table at the top of the main landing page. Does "recent" mean the last week, month, etc.?
 - While most participants were not familiar with Blue Button, they were able to determine what it was based on contextual clues.
 - Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report. One participant mentioned that there wasn’t a clear section for vaccine records — and wasn’t sure where they would live within the site.
 
-Recs from Round 1 UR:
-Iterate on Medical Records Tool design to address the following
+**Recommendations from Round 1:**
+Iterate on "Medical records" tool design to address the following:
+- Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”?
+- Iterate on explanatory text to assist users trying to determine the difference between a medical record (from Blue Button) versus their VA Health Summary.
+- Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? 
+- Share findings with the Flagship Mobile Team to see if they are still thinking about where vaccine records should live.
 
-Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”
-Iterate on explanatory text to assist users who are trying to determine the difference between a medical record (from BlueButton) versus their health summary
-Determine where vaccine records reside in the tool. Is that a seperate section, or included in the medical records? - Pass findings onto Mobile Team, see if they are still thinking about that.
+
 
 Round 2 report (insert prototype URL):
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md
