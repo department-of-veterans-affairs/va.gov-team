@@ -64,9 +64,9 @@ Decision needed:
 **3) The My HealtheVet Team did analysis and a usability study on "Search my record" in October 2021.**
 "Search my record" is a software application that lets you apply filters to your VA medical records. In your results set, each data point (ex: a set of lab results), is a separate item you can click into for details.
 
-After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team did a research study with Veterans and provided recommendations for usability fixes to the UI. (MHV's UCD Team was not involved in the original design and development of "Search my record.")
+After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team did a research study with Veterans and provided recommendations for usability fixes to the UI. MHV's UCD Team was not involved in the original design and development of "Search my record." In making recommendations, they tried to create a customizable way for Veterans to use records quickly while on the go.
 
-[View the “Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/)
+[View the “Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/) 
 
 [Read the doc that outlines the differences between Blue Button Report and "Search my record" by the MHV UCD Team's Arienne Walters and Bobby Bailey.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/Search%20My%20VA%20Health%20Record%20-%20Differences%20from%20Blue%20Button.docx) 
 
