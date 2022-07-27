@@ -343,4 +343,6 @@ Underserved groups we haven't talked to
 
 [Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1R5QMLt5xHNVYBr9IehNSVMjT1Hi019TAGNjB6_1SCVU/edit#gid=1440553662)
 
+**Note:** We did not collect LGBTQ+ information from participants for this study. 
+
 <img width="640" alt="Screen Shot 2022-07-26 at 6 02 44 PM" src="https://user-images.githubusercontent.com/79372956/181138061-13224d51-579f-4b41-be8f-8740c4d1ac03.png">
