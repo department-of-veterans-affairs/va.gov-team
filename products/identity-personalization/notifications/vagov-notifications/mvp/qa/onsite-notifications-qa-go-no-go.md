@@ -1,7 +1,7 @@
 # `On-site Notifications` QA Go / No Go 
 ##  07/12/2022
 
-## Decision: __Yes_______
+## Decision: Yes
 
 ---
 
@@ -9,7 +9,7 @@
 -  Yes
 
 ### Does Tze have everything he needs, i.e. have we submitted test cases, provided staging credentials, etc.?
-- Yes
+- Yes - follow up conversation with VA Notify completed 7/27
 
 ### Have test cases been loaded into test rail?
 - Not Sure
