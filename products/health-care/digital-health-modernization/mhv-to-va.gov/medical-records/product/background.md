@@ -108,7 +108,7 @@ See the [Digital Health Modernization Team's generative research](https://github
 ## The records landscape at VA
 Medical records touch a lot of areas of VA. For example, a Veteran's records may include prescriptions, appointments, and secure messages. As Records moves from My HealtheVet to VA.gov and gets redesigned, it will be important to consult with VA's legal and privacy experts because the information in records is private and protected by law.
 
-### Partners, stakeholders, and Subject-Matter Experts (SMEs)
+### Partners, stakeholders, and subject-matter experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
 So far we've met with:
@@ -126,7 +126,7 @@ When working with partners, stakeholders, and subject-matter experts (SMEs), it 
 **Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, they can introduce you.
 
 
-## What we know from user research 
+## What we've heard from Veterans in user research 
 Research with Veterans over the past 2 1/2 years has given us some insights on: 
 - how Veterans think about records,
 - how they use their records, and
@@ -146,7 +146,7 @@ In Round 1 research, all participants used desktop to access a [prototype that s
 - Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report. 
 - One participant mentioned that there wasn’t a clear section for vaccine records — and wasn’t sure where they would live within the site.
 
-**Recommendations related to records from Round 1:**<br></br>
+**Recommendations related to records from Round 1:**
 Iterate on "Medical records" tool design to address the following:
 - Determine what is “recent” for the recent medical records table. What are the technical and UX considerations for what defines “recent”?
 - Iterate on explanatory text to assist users trying to determine the difference between a medical record (from Blue Button) versus their VA Health Summary.
@@ -165,7 +165,7 @@ In Round 2 research, all participants used a mobile device to access a [mobile p
 
 [View the "Medical records" page of the mobile prototype.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false) Note that we've made updates to this prototype based on the findings from Round 1 and Round 2. 
 
-### 3) Search my record usability findings 
+### 3) "Search my record" usability findings 
 October 2021
 
 After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team evaluated "Search my record" for usability and did research with Veterans. 
