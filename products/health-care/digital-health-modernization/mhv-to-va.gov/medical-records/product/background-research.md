@@ -125,7 +125,7 @@ When working with partners, stakeholders, and subject-matter experts (SMEs), it 
 **Key point:** The MHV on VA.gov product owner meets regularly with My HealtheVet leadership, Nancy Wilck and Theresa Hancock. When you need to talk to a partner or SME, having them introduce you will smooth the way.
 
 
-## What we've heard from Veterans in user research 
+## Research related to records 
 Research with Veterans over the past 2 1/2 years has given us insights on: 
 - how Veterans think about records,
 - how they use their records, and
@@ -185,4 +185,10 @@ To understand how Veterans think about their health care, the Digital Health Mod
 
 See slide 26 of the [Digital Health Modernization Team's generative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md).
 
+### 5) Outstanding research question
+What should we call the records section of MHV on VA.gov? 
+- "Medical records"
+- "Health records"
+- "Records"
 
+In our research, "Medical records" has seemed like a successful label. That said, we have not probed extensively on it in our research with Veterans. In our current prototype, you can track your health in the records section. We need to make sure it's intuitive for Veterans to find tracking functionality under "Medical records." If it's not, we can change the label or move tracking functionality to a more intuitive place on MHV on VA.gov.
