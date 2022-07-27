@@ -66,7 +66,6 @@ We will implement this first version with DMC's existing debt notification.
     - Contact info
         - If no contact info is found, do not proceed with the email/SMS notification
 ### Technical Overview
-See [Onsite Notification Technical Overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/onsite_notifications/technical_overview.md) for more details information.
 
 - When a notification with onsite_notification enabled is triggered, VA Notify will call the va.gov API for the onsite notification endpoint: /v0/onsite_notifications with template_id and va_profile_id
 - va.gov is using the VA Notify template_id to determine what onsite notification to display in the site
