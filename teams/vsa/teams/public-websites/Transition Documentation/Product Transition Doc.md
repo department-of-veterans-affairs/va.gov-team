@@ -4,7 +4,7 @@
 
 >**Team transition document | March 2022**
 >
-> The purpose of this transition document is to outline the current state of [VSA team name] product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
+> The purpose of this transition document is to outline the current state of VSA Public Websites product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 
 <br>
 
@@ -26,23 +26,23 @@ Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/AMA%20Follow%20Up/AMA%20Follow%20Up%20Product%20Outline.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Benefit Hub
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Cerner Support 
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
 - [Staging users and usecases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ### Home Page Banner 
@@ -50,88 +50,88 @@ Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page-banner)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Home Page 
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
-- [Product outline]() -N/A
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Product outline - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### How to apply Wizards 
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/README.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### How we work 
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work#readme) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Search UI Consistency
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/search-ui-consistency/product-outline.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Site Wide Banner
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/sitewide-banner)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Campaign Landing page
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/b719d7ce5f5496ef8cf25fad0c20c3684d4748ba/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/b719d7ce5f5496ef8cf25fad0c20c3684d4748ba/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates#readme) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Disability Rating Calculator
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities/README.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Out-reach events and library
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Global Header and footer
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/global/header-footer-and-navigation)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/global/header-footer-and-navigation#readme) 
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 ### Emergency and Promotional Banners
 Brief plain-language description of this product
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/emergency-banner)
-- [Product outline]() -N/A
-- [Analytics dashboard]() (Domo or Google Analytics) - N/A
-- [Staging users and usecases]() - N/A
+- Product outline -N/A
+- Analytics dashboard (Domo or Google Analytics) - N/A
+- Staging users and usecases - N/A
 
 #### Now/Next/Later Roadmap
 Brief plain-language description of this product’s history and next steps
@@ -149,7 +149,7 @@ Brief plain-language description of this product’s history and next steps
 ### Artifacts
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites#readme)
 - [DOMO dashboard](https://va-gov.domo.com/page/1314425343)
-- [Other]()
+- Other
 
 ### User Research
 - [Baseline Wayfinding Research on VA.gov (Apr-May 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding)
@@ -186,9 +186,7 @@ Brief plain-language description of this product’s history and next steps
 ### Contacts
 
 - Dave Conlon | David.colon@va.gov -- Product owner
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
-- Person Name | email.address@va.gov -- Role
+
 
 ### Meetings
 
@@ -205,11 +203,7 @@ Brief plain-language description of this product’s history and next steps
   - Time to Answer the Following for the past sprint- What went well, What didn't go as well, What could we improve
   - Every other Wednesday 
 
-### Open questions
 
-- Open question lorem ipsum dolor sit amet?
-- Open question lorem ipsum dolor sit amet?
-- Open question lorem ipsum dolor sit amet?
 
 <br>
 
