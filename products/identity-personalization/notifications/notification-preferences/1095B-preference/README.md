@@ -54,6 +54,7 @@ There are some pros and cons to this:
 - What are we legally required to communicate in the preferences UI?
 - Do we need to draft email copy for the confirmation email?
 - Are people opted into mail by default?
+- Do we need to make sure that people have a mailing address on file as well as an email address?
 
 ### Design/implementation question
 
