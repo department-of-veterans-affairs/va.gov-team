@@ -130,8 +130,9 @@ Ask Perigean to recruit **28 Veterans, Veterans' caregivers, Veterans' family me
 ## Timeline
 
 ### Prepare
-- * Pilot #1: **July 27/28/29** with Angela Fowler (angela.fowler@adhocteam.us)
-- * Pilot #2: **July 27/28/29** with TBD
+- Pilot #1: **July 27 at 1 pm** with Angela Fowler (angela.fowler@adhocteam.us)
+- Pilot #2: **July 28 at 1:30 pm** with Grant Bondurant (grant.bondurant@adhocteam.us)
+- Pilot #3: **July 29 at 3 pm** with David Angelus (david.angelus@adhocteam.us)
 
 ### Research sessions
 * Planned dates of research: **August 1-9**
