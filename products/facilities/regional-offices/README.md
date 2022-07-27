@@ -62,3 +62,25 @@ The data call in August 2021 defined these as the different types of VBA Facilit
 | IDES Site | This facility works together with the Department of Defense (DoD) to make disability evaluation seamless with VA if a servicemember is found to be medically unfit for duty. IDES will provide a Veteran a proposed VA disability rating before they leave the service. |
 | Pre‐Discharge Site  | This facility is a joint VA and DOD location to file a claim for disability compensation up to 180 days prior to separation or retirement from active duty or full time National Guard or Reserve duty (Titles 10 and 32).  |
 | Seamless Transition Integrated Care Clinic (STICC)  | This facility is a transition clinic located in VHA facilities, there are VHA and VBA Rehab counselors as well as VBA Compensation and Benefits (Comp & Pen) personnel that assist transitioning servicemembers with benefit-related information. |
+
+## VBA Services
+
+Based on database export July 2022
+
+| Benefit                         | Description |
+|---------------------------------|-------------|
+| Applying_for_Benefits           | TBD         |
+| Burial_Claim_assistance         | TBD         |
+| Disability_Claim_assistance     | TBD         |
+| eBenefits_Registration          | TBD         |
+| Education_and_Career_Counseling | TBD         |
+| Education_Claim_Assistance      | TBD         |
+| Family_Member_Claim_Assistance  | TBD         |
+| Homeless_Assistance             | TBD         |
+| VA_Home_Loan_Assistance         | TBD         |
+| Insurance_Claim_Assistance      | TBD         |
+| IDES                            | TBD         |
+| Pre_Discharge_Claim_Assistance  | TBD         |
+| Transition_Assistance           | TBD         |
+| Updating_Direct_Deposit_Informa | TBD         |
+| Vocational_Rehabilitation_Emplo | TBD         |
