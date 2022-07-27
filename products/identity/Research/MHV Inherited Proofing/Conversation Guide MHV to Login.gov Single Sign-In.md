@@ -169,21 +169,21 @@ Please take a few minutes to read the email:
 18. How did you feel about the quality of information you received during the transition process (from Va.gov to Login.gov?
 19. How did you feel about the length of time it took to transition your account to Login.gov?
 20. How did you feel about the security options offered for Login.gov?
+21. How did you feel about the end of the transition? Was it clear what happened at the end of this process? (Did you understand that you had completed the transition process?)
 
 ---
 ## Additional questions: 5-10 minutes
 
-How often do you need to verify your identity on a government website?
+- Do you have multiple sign in accounts for VA.gov? If so, which ones and which do you use most often?
+- What do you think about using a single account to help you access all government sites?
+- How often do you need to verify your identity on a government website?
 - What materials or forms of ID you would normally use to verify your identity?
 If you had a question regarding verifying your identity, do you know who to contact?
 -- If yes – how do you know?
-- Which accounts (if you have multiple) do you use most often?
-- What do you think about using a single account to help you access all government sites?
 
 ---
 ## Final questions- 5 minutes:
-- If there were anything you could change about the process of the login account transition what would it be?
-- If there were anything you could change about the process of getting a login account or signing in, what would it be?
+- If there were anything you could change about the process of this account transition process what would it be?
 - Is there anything we haven’t talked about today that you think I should consider about the login account transition process?
 - Do you have any questions for me?
 
