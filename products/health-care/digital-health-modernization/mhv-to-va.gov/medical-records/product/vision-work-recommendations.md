@@ -48,7 +48,8 @@ Currently on My HealtheVet:
 Decision needed: 
 - VA needs to address the question of PGHD being part of the patient's comprehensive record.
 
-## Xxxxxxx
+## Work so far
+1) We've met with several partners
 
 
 
