@@ -237,7 +237,6 @@ Participants either located the "Pay online" accordion that transferred them to 
 
 Some participants stated there were too many layers of pages where the only navigation available were breadcrumbs. They wanted more information on one page with important links such as a pay button at the top of the page. One participant stated he would have liked to see the *“Notice of rights and responsibilities”* featured on the first page. He mentioned that he received that information on a paper bill in the past and it helped him understand his rights and who to contact. 
     
-  > _"I don’t feel it is necessary to click through four to five pages to get all your information."_
 
 > _"I just feel like they are a bunch of functions thrown on different page. If you had a matrix on the page with details and a button to pay each individual debts, dispute this debt, financial help, and download the statement. It feels like a lot of space and no organization. I think they are all the same with a series of pages with various information. I would rather have one page with all the information. I don’t feel it is necessary to click through four to five pages to get all your information"._
   
