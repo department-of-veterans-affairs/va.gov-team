@@ -46,7 +46,7 @@
 ***
 
 ### RICE Scoring
-RICE Score = (R x I x C) / E
+RICE Score = (R x I x C x D x B x M) / E
 
 - R = Reach (#)
   - How many people will this impact? (Estimate within a defined time period.)
