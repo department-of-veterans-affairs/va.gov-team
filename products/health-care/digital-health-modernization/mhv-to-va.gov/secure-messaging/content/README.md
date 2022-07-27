@@ -33,7 +33,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - [Archive](#archive-message)
 - [Navigate between messages](#archive-message)
 
-### Compose message https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/content/README.md#compose-message
+### [Compose message](#compose-message)
 - [Default view](#default-view-4)
 - Choose a category
 - Attach a file
@@ -45,7 +45,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Send confirmation
 - Send error
 
-## Search messages
+## [Search messages](#search-messages)
 - [Default view](#default-view-5)
 - Basic search
 - Advanced search
@@ -54,27 +54,27 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Move messages from list to another folder
 - Sort/filter list
 
-### Sent Messages
+### [Sent Messages](#sent-messages)
 - [Default view](#default-view-6)
 - Delete message from list
 - Delete message confirmation
 - Move message to folder
 - Sort/filter list
 
-### Drafts
+### [Drafts](#drafts)
 - [Default view](#default-view-7)
 - Delete message from list
 - Delete message confirmation
 - Sort/filter list
 
-### Deleted
+### [Deleted](#deleted)
 - [Default view](#default-view-8)
 - Delete message from list
 - Delete message confirmation
 - Move message to folder
 - Sort/filter list
 
-### Folders
+### [Folders](#folders)
 - [Default view](#default-view-9)
 - Create folder
 - Create folder error
@@ -85,7 +85,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Empty folder confirmation
 - Manage folders
 
-### Preferences
+### [Preferences](#preferences)
 - Contact list
 - Notifications
 - Display settings
