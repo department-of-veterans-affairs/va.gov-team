@@ -291,7 +291,7 @@ We talked to 11 participants, one of whom was not able to reach Profile and carr
 -   Desktop: 6
 -   Tablet: 0
 -   Smart phone: 4
--   Assistive Technology: 0
+-   Assistive Technology: 1 (+ 1 screen reader user who did not complete usability tasks)
  
 **Age:**
 -   25-34: 1
