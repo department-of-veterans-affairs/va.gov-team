@@ -468,3 +468,35 @@ The kiosks are this location are currently used for:
 - Providers don't use VSE-CS, since it was optional.
 - Nursing does use VSE-CS to see that a patient has checked in.
 - Their lab is talking abotu using PCI, because they have scheduled labs. 
+- They have 3 check-in areas within at this location: right by the front door, telemental health and mental health.
+- There is a Spanish speaking population that are patients at this location.
+  - If they have problems checking in, they use the kiosk and check-in using their phone
+- Pre-check-in
+  - They have seen about 20% ust. it
+  - There is confusion between check-in and pre-check-in. They think that they are checked in.
+  - They recently added...MSA call Veterans if they are 5 minutes late and some say that they are already here.
+- Travel pay
+  - They can file right after checking in.
+  - Paper submissions would increase if it goes away on the kiosk.
+  - MSAs fill out travel paperwork a lot.
+  - If they never filed a claim, then they fill out initial paperwork for the direct deposit and mail it.
+  - For community care, tehy bring a paper in with them to file.
+- Reporting
+  - Usage
+    - By age group - so they know who to help educate
+    - % of pre-check-in users
+    - They do look at Power BI dashboards
+- Asked about advertising.
+  - They haven't seen too much about this new check-in process.
+  - Wondered about something to reach older generations.
+ 
+#### MSA 1
+- Was stationed at the general check-in desks by the front door.
+- Mentioned that some Veterans want to have a town hall to discussion the new check-in process. They aren't happy about it. I wasn't sure if they planned to attend an existing meeting or if they wanted to schedule something separate.
+  - Older Veterans don't want to have to use their phone and be required to learn new technology.
+- They see a lot of error regarding insurance. A Veteran will use PCI and get a message that their insurance needs to be checked, but the MSA looks in ICB and they aren't lsited.
+- The new process has resulted in them checking in more Veterans. They are more busy.
+- They had a question about TriCare. The pateints don't have their cards. The MSA wanted to know what they were supposed to do about that.
+- Estimates that 5 - 6 Veterans from the clinic(S) they oversee utilize PCI per day.
+- They do a lot of educating on how to text if problems arise with the QR code
+  - Particularly educates about how to start a new text thread.
