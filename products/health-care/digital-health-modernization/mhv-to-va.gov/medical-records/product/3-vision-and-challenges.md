@@ -30,10 +30,10 @@ VA’s philosophy:
 - PGD should be separate from the EHR. Wearable devices can contain a tremendous amount of data, and this is difficult for providers to parse and leverage. But a provider can decide to enter data a patient gave them into the EHR.
 
 What’s missing: 
-- VA needs to address the question of of PGD being part of the comprehensive health record.
+- VA needs to address the question of PGD being part of the comprehensive health record.
 - Cerner doesn’t have an approach to dealing with FitBit data (i.e., data from wearable devices).
 
-Cerner is the electronic health record system VA is implementing. Because this system is not integrated with My HealtheVet, Veterans treated at VA facilities must go to a separate (Cerner) website to see their health data and do health tasks. 
+Cerner is the electronic health record system VA is implementing. Because this system is not integrated with My HealtheVet, Veterans treated at VA facilities must go to a separate (Cerner) website to see their health data and do health tasks. See the [Cerner screens for medical records in the lower right of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505) You can also see them if you have a test account for My HealtheVet.
 
 ### "Subscribe and prescribe" vision for patient-generated data 
 This is the vision of the OCC leadership for patient-generated data, articulated by Dr. Neil Evans, Nancy Wilck, and Theresa Hancock.  
@@ -44,7 +44,7 @@ This is the vision of the OCC leadership for patient-generated data, articulated
 - VA would display PGD in a meaningful way to support clinical decisions (ex: Virtual Care Manager software for VA providers). VA is starting to have data in MHV visible to providers in Virtual Care Manager.
 
 Currently on My HealtheVet: 
-- Veterans can opt to share self-entered data or not (the data they typed into the My HealtheVet website). They can go into the “vault,” where their data is. Without VA promoting the sharing feature, ~10K Vets have and are sharing data (unclear of the time period). OCC is working now on how to improve “sync my health data" to make it easier for Veterans to sync and share. OCC would like to add a data visualization.
+- Veterans can opt to share their self-entered data or not (the data they typed into the My HealtheVet website). They can go into the “vault,” where their data is. Without VA promoting the sharing feature, ~10K Vets have and are sharing data (unclear of the time period). OCC is working now on how to improve “sync my health data" to make it easier for Veterans to sync and share. OCC would like to add a data visualization.
 - Veterans cannot connect wearable devices and upload the data to My HealtheVet. 
 
 Currently in the Office of the CTO: 
@@ -52,7 +52,7 @@ Currently in the Office of the CTO:
 - The DHP Team (Digital Health Platform) is working on enabling Veterans to connect their wearable devices to VA.gov so they can share health data with their care team. Stefany Holguin is the product owner. 
 
 Decision needed: 
-- VA needs to address the question of PGHD being part of the patient's comprehensive record.
+- VA needs to address the question of whether PGHD will be part of the patient's comprehensive record.
 
 ## Challenges
 There are a lot of complexities with records because of:
@@ -64,7 +64,7 @@ There are a lot of complexities with records because of:
 These complexities lead to some challenges:
 - Understanding the data and data sources
 - Figuring out how to condense the output when a Veteran downloads records (i.e., taking out info that's not needed) and comply with regulations and policies
-- Communicating and coordinating with many groups at VA [(See this list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
+- Communicating and coordinating with many groups at VA. See this [list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
 - Understanding how laws and regulations affect the UX
 - Learning about and following privacy and security policies (ex: keep health information private)
 
