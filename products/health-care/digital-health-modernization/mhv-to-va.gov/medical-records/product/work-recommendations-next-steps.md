@@ -66,7 +66,10 @@ In the prototypes for [mobile](https://www.sketch.com/s/908b453b-ef8b-4193-b955-
 The DHP Team (Digital Health Platform) is working on enabling Veterans to connect their health tracking devices to VA.gov so they can share their health data. The team should meet with the DHP product owner (Stefany Holguin) and also with Office of Connected Care people working on PGHD (Patient-Generated Health Data). 
 
 ### 6) Work with the Sitewide Content & IA Team on a content strategy for health resources 
-Xxxxxxxxx...
+We need to figure out how to handle health resources, which come from many groups at VA:
+  - Health conditions and topics: Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the Research Health section of My HealtheVet.
+  - Programs for health and wellness
+  - Track your health information
 
 ## Next steps
 - Figure out who will work on records and define roles.
