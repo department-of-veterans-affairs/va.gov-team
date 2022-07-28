@@ -61,7 +61,7 @@ Here is a list of selectors that can be used with the Drupal source of truth (se
 - `selectCernerFacilities` Selects facilities that use Cerner as EHR.
 - `selectCernerFacilityIds` Selects ids of facilities that user Cerner as EHR.
 - `selectPatientFacilities` (from example above) Selects facilities associated with currently authenticated user.
-- `selectPatientCernerFacilities` Selects facilities that user Cerner as EHR and are associated with currently authenticated user.
+- `selectPatientCernerFacilities` Selects facilities that use Cerner as EHR and are associated with currently authenticated user.
 - `selectIsCernerOnlyPatient` Returns true if currently authenticated user is associated with only Cerner facilities.
 - `selectIsCernerPatient` Returns true if currently authenticated user is associated with any Cerner facilities.
 
