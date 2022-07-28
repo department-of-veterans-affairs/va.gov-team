@@ -47,6 +47,6 @@ This process document intends to outline the steps to be taken in order to obtai
 6. Run rake task in staging
     1. Document results of tests with proof of data output in PR
 7. Schedule and announce prod database rake task in platform architecture slack channel
-8. Devops engineer assigned to task logs into production SSM vets-api instance, runs rake task with assistance from creator of the task
+8. Devops engineer assigned to task: logs into production SSM vets-api instance, runs rake task with assistance from creator of the task
 9. Perform validations, report results in the PR
 10. Announce in platform architecture slack channel the completion of the prod database change
