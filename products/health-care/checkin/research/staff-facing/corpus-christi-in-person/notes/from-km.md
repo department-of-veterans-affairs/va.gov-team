@@ -668,4 +668,26 @@ The kiosks are this location are currently used for:
     - Kiosk can do it @ check-in.
   - Some Veterans think they do travel on kiosk that they are checked in for their appointment.
   - MSAs help Veterans fill it out, because their hands shake or other reasons. The Veteran just signs the form. 
-    - On the form, it they don't have their card, then they can just filll in their SSN.
+    - On the form, it they don't have their card, then they can just fill in their SSN.
+    - Veterans have to call the travel office if they haven't gotten paid, are waiting for awhile, or got denied.
+    - "If you can add travel pay to check-in that would be great to do it at the saem time."
+    - It would be perfect if they utilize it.
+- When they check-in, it doesn't show them where they shoudl be, so some check-in @ the wrong location.
+  - Adding address would be good.
+  - *The 2 locations here are only 5 minutes apart.*
+
+#### MSA 3
+- located at the front desk in the general check-in area)
+- About check-in, "No one likes it. They come to the window."
+- MSAs just check the Veteran in.
+- They try to educate the Veterans abotu PCI, but they end up checking in a lot.
+- Hears alot of "Oh, I don't have my phone."
+- Impact to their work: it is more work. Veterans are constantly coming.
+- Keeps VSE-GUI up at all times. it times out too much, so they have to log back in. *Researcher notices that they currently have VSE-GUI and ICB up on their screen.*
+- They find the check-in started, but not completed status helpful.
+  - If a Veteran asks, then they use the status to check if whatever the Veteran was expecting is true.
+- "It was just a process to learn." - speaking about the changes to the MSA workflow.
+  - In VSE, they can't change contact information in as little steps as VetLink.
+- A Veteran tried to check-in with the kiosk when we were talking to this MSA. 
+  - They came up to the MSA, because they weren't sure if they were checked in or not.
+  - 
