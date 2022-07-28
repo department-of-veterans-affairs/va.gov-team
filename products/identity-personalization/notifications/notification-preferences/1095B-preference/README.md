@@ -47,11 +47,15 @@ There are some pros and cons to this:
 
 ### For VA Profile
 
-- How will the data come back to us?
+- How is data coming back to us?
+- Is email the channel we'll get back from VA Profile?
+- VA Profile has slated 4 weeks of development time. Are there other changes we should be aware of that may affect our implementation?
 
 ### For 1095B team
 
 - What are we legally required to communicate in the preferences UI?
+- How long do we think it will take legal to get back to us with feedback?
+  - **Answer**: [Best estimate is currently a week or two](https://dsva.slack.com/archives/C02TUH5U3HS/p1658959194157649?thread_ts=1658931650.076399&cid=C02TUH5U3HS).
 - Do we need to draft email copy for the confirmation email?
 - Are people opted into mail by default?
 - Do we need to make sure that people have a mailing address on file as well as an email address?
