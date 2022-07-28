@@ -628,9 +628,19 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 - Launch to 50%
 - Launch to 100%
 
-### Notification preferences
+### Notification preferences: Add preference for 1095B
 
-- TBD, but there might be 1095B work. I'm still working this out with stakeholders.
+This assumes we have what we need to get started:
+
+**PM**
+
+- Collab cycle kickoff (we can punt on this for a sprint if the team needs a sprint to get onboarded and familiar with this work)
+
+**Design**
+
+- Initial mockups of the 1095B preference
+- Work with content
+- Get initial mockups/content to 1095B team for review with their legal team
 
 ### Bad address indicator
 
