@@ -1,4 +1,4 @@
-# Vision and challenges for medical records 
+# 3) Vision and challenges for medical records 
 July 27, 2022
 
 ## Vision for medical records
