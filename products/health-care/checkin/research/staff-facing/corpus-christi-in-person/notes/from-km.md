@@ -604,4 +604,45 @@ The kiosks are this location are currently used for:
 - Most Veterans don't have a smartphone when they enter the building.
 - A lot say it is harder. Just don't want to do it.
 - Volunteer 3 educates Veterans abotu PCI. "It is the same as the kiosk, but different."
-- "Key to getting them to do it is to share that we are learningtoo and to be patient."
+  - "Key to getting them to do it is to share that we are learningtoo and to be patient."
+  - They believe that time will help.
+  - This gives them a choice, which helps with their response.
+    - Some found it easy.
+  - Need to educate - this is key.
+  - They haven't seen any errors that couldn't be handled some other way.
+  - Researcher: what would you improve?
+    - "Too early to tell."
+- Volunteer 2
+  - Researcher: what should we improve?
+    - Open kiosks again.
+    - Can do on a regular phone.
+  - No errors that they can't explain.
+  - Check-in is improving over time.
+    - Vets are more educated.
+  - Some don't have a phone.
+  - Researcher: Do you do any assiting with Spanish-speaking visitors?
+    - Not really. Haven't needed to to help a Veteran with Spanish.
+
+#### MSA 2
+- Located at the general check-in area desks at the front of the buildiing.
+- Deals with a lot of complaints
+- It takes 2 - 3 minutes to help educate some Veterans about check-in.
+- It makes them more busy, makes the lines longer, and hindes what they have to get done.
+- The QR code is the most difficult. They don't know that they have to go past just scanning the QR code.
+- They put "VA Check in" as a contact within some Veterans' phones.
+- They have had Veterans come back and ask the same questions again about PCI.
+- They do review the check=in statuses all the tie in VSE-GUI.
+  - Researcher: what statuses are the most valuable?
+    - Some Veterans don't check in, so they look at the statuses to see if that Veteran did check in.
+    - If it shows that they haven't checked in that status is helpful
+    - They utilize the statuses at the top of the screen more than the colors in the calendar at the bottom.
+- They have to work faster.
+- Some don't want to use a phone and say "Why does VA change everything?"
+- Check-in hasn't changed communication with providers.
+- MSAs and providers don't use VSE-CS.
+- They have to educate a lot more, than Vet says no, you just check me in.
+- It made some Veterans get upset and walk out.
+- They heard that some Veterans don't want to do it, because it will be a charge on my phone."
+- Some think they are checked in and the MSA sees:
+  - 5 a day show up as mobile check-in started and not complete
+  - Now, the MSA looks for the "Check-in started" status.
