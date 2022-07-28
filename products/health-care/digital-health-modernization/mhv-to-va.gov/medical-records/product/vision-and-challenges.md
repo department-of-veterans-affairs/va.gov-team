@@ -62,17 +62,10 @@ There are a lot of complexities with records because of:
 
 These complexities lead to some challenges:
 - Understanding the data and data sources
-- Figuring out how to condense the output when a Veteran downloads records (i.e., taking out info that's not needed)
+- Figuring out how to condense the output when a Veteran downloads records (i.e., taking out info that's not needed) and comply with regulations and policies
 - Communicating and coordinating with many groups at VA [(See this list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
 - Understanding how laws and regulations affect the UX
-- Learning and following privacy and security policies (ex: keep health information private)
-
-
-
-
-
-
-
+- Learning about and following privacy and security policies (ex: keep health information private)
 
 
 
