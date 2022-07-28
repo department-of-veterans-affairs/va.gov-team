@@ -1,4 +1,5 @@
 # Work, recommendations, and next steps for medical records
+July 28, 2022
 
 ## Work so far on records
 **1) We created and tested concepts for a "Medical records" landing page on MHV on VA.gov:**
