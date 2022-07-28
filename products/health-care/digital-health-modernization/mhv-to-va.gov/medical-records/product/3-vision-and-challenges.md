@@ -1,6 +1,8 @@
 # 3) Vision and challenges for medical records 
 July 27, 2022
 
+**Check out the [records discovery Mural!](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) It has visuals of existing screens for medical records.** 
+
 ## Vision for medical records
 We can apply the vision described in the [product brief for MHV on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md) (a.k.a. the "health apartment") to medical records.
 
@@ -13,14 +15,14 @@ That is the broad vision for the Veteran health experience. There are aspects of
   - Programs for health and wellness
   - **Track your health information:** This relates directly to records. Our concept for the "Medical records" landing page has a section called "Add and track your health information."
 
-Note that most of health resources don't relate to records directly.
+Note that the other health resources don't relate to records directly.
 
 ### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
 - Enter into the VA website through forms (on My HealtheVet today, referred to as "self-entered" data), or
 - Upload from a software application or wearable device (the future for MHV on VA.gov)
 
-PGD includes the existing self-entered data apps at [mobile.va.gov](https://mobile.va.gov/), built by the Office of Connected Care (OCC).
+PGD includes the existing self-entered data apps at [mobile.va.gov](https://mobile.va.gov/), built by the Office of Connected Care (OCC). There are 35-40 patient-facing mobile apps.
 
 VA’s philosophy:
 - EHR (Electronic Health Record) data and data from the patient are 2 discrete things that should be managed separately. 
@@ -31,7 +33,7 @@ What’s missing:
 - VA needs to address the question of of PGD being part of the comprehensive health record.
 - Cerner doesn’t have an approach to dealing with FitBit data (i.e., data from wearable devices).
 
-Cerner is the electronic health record system VA is implementing. Because this system is not integrated with My HealtheVet, Veterans treated at VA facilities must go to a separate (Cerner) website to see their health data. 
+Cerner is the electronic health record system VA is implementing. Because this system is not integrated with My HealtheVet, Veterans treated at VA facilities must go to a separate (Cerner) website to see their health data and do health tasks. 
 
 ### "Subscribe and prescribe" vision for patient-generated data 
 This is the vision of the OCC leadership for patient-generated data, articulated by Dr. Neil Evans, Nancy Wilck, and Theresa Hancock.  
@@ -42,12 +44,11 @@ This is the vision of the OCC leadership for patient-generated data, articulated
 - VA would display PGD in a meaningful way to support clinical decisions (ex: Virtual Care Manager software for VA providers). VA is starting to have data in MHV visible to providers in Virtual Care Manager.
 
 Currently on My HealtheVet: 
-- Veterans can opt to share self-entered data or not (the data they typed into the My HealtheVet website). 
-- Veterans can go into the “vault,” where the data is. Without VA promoting this, ~10K Vets have and are sharing data (unclear of the time period).
+- Veterans can opt to share self-entered data or not (the data they typed into the My HealtheVet website). They can go into the “vault,” where their data is. Without VA promoting the sharing feature, ~10K Vets have and are sharing data (unclear of the time period). OCC is working now on how to improve “sync my health data" to make it easier for Veterans to sync and share. OCC would like to add a data visualization.
 - Veterans cannot connect wearable devices and upload the data to My HealtheVet. 
-- OCC is working now on how to improve “sync my health data," to make it easier for Veterans to sync and share. They would like to add a data visualization.
 
 Currently in the Office of the CTO: 
+- The VA.gov Profile has a section for "connected apps" where Veterans can connect their VA EHR to third-party software such as Apple Health. 
 - The DHP Team (Digital Health Platform) is working on enabling Veterans to connect their wearable devices to VA.gov so they can share health data with their care team. Stefany Holguin is the product owner. 
 
 Decision needed: 
