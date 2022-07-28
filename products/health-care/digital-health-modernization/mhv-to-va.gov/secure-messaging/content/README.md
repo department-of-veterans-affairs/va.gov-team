@@ -45,7 +45,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - Send confirmation
 - Send error
 
-## [Search messages](#search-messages)
+### [Search messages](#search-messages)
 - [Default view](#default-view-5)
 - Basic search
 - Advanced search
