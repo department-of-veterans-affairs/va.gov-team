@@ -1,6 +1,8 @@
 # 2) Team, partners, and subject-matter experts for medical records (DRAFT)
 July 21, 2022
 
+**Check out the [records discovery Mural!](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) It shows partners, stakeholders, and subject-matter experts, along with notes and screens.** 
+
 ## Meetings so far
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
 - My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22
