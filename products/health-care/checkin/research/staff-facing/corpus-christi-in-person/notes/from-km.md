@@ -749,5 +749,54 @@ The kiosks are this location are currently used for:
     - Knowing if they recently went to the ER would be helpful. Knowing this by the morning of the appointment would be great.
     - They don't expect this upon check-in though. They expect this information to be in CPRS.
     - Veterans do share some of this information with their office through secure messaging already.
-- VSE-CS has worked in the morning, but cause errors later in the day.
-  - 
+  - If we did have a med list, they asked if it would only be what it is CPRS or everything the Veteran should take. They want outside VA medicines as well.
+  - Most of the time it is the caregiver who fills out this informaiton.
+- VSE-CS has worked in the morning, but caused errors later in the day.
+  - When the errors occur, they can't see anything in the system. 
+  - Log outs happen faster compared to other systems. 
+    - Though it is a simple 2-3 step login.
+- Used to see behavioral flags in VetLink.
+  - Havne;t seen it in VSE-CS.
+  - Good for them to know about. 
+  - Want to know about escort needs, suicide ones, or drug seeking.
+- They have heard some complaints about appointment reminders from Veterans.
+  - The Veterans get too many.
+  - They have appointments canceled for no reason at all.
+  - Vets see notificaitons, but still get many even after confirming.
+- Liked that you can customize your list in VSE-CS.
+  - Can make lists for each day.
+  - If you don't change the default, you can stay on the page. If it logs out, then you have to change it again.
+- Wish there was better training for this new system.
+  - Training on Friday on short notice and they went live on Monday.
+  - had to put in an IT ticket, if it wasn't working on the first day.
+- There has been no education for Veterans
+  - Need someone to help patients troubleshoot.
+- Veterans and staff want to know if the Veterans are in the wrong building.
+  - VetLink - you can see if they checked in somewhere else.
+  - Clinic names and info in reminders aren't enough.
+- Canceled appts.
+  - Falls off right away if patient canceled online. If the clerk is called, then they do the cancellation right away.
+  - CPRS shows specifics.
+  - Notifications for this aren't specific enough in VSE-CS. They should remain on the screen like Facbook and they clikc on it to see more detail.
+  - They don't want the patient to be removed if canceled. They want to see the status or a better notification about cancellation.
+- Spanish-speaking
+  - It would be nice to have a flag that they prefer Spanish or English.
+  - But, this really isn't an issue.
+  - Don't have too many patients who only speak Spanish. If this is the case, they tend to have someone come in with them to help.
+
+#### 3 MSAs and 1 MSA Supervisor for Behavioral health
+- PCI isn't working with older Vets
+- Some do pre-check-in and think that they are checked in.
+- They encourage the Veterans o verify with teh clerk that they are checked in.
+- The majority of the Veterans pop is retired there.
+  - "I have a flip phone."
+  - "I don't have a phone."
+- Some still come to window to check-in.
+  - Some are having a hard time with the change.
+- Kiosks. They liked the bigger screens. It is a lot of information to fit on a small screen.
+  - Vets still try to check-in on the kiosks.
+- Researcher: Is anything going well?
+  - I wouldn't say it yet, but it takse awhile for the transition.
+  - The 20-somethings get it - some of them (they have about 10 a day).
+  - One MSA just think that it is going to take time. "They originally pushed back with the kiosk."
+    - Estimated that it took ~6 months for the kiosk complaints to die down.
