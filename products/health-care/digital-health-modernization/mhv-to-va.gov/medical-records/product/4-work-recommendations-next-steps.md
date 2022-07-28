@@ -1,12 +1,14 @@
 # 4) Work, recommendations, and next steps for medical records
 July 28, 2022
 
+**Check out the [records discovery Mural!](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) It has visuals of existing screens for medical records.** 
+
 ## Work so far on records
 **1) We created and tested concepts for a "Medical records" landing page on MHV on VA.gov:**
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false)
 
-[Read our research findings related to records.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/background-research.md) (See "Research related to records" section).
+[Read our research findings related to records.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/background-research.md) (See "Research related to records" section at bottom of page).
 
 **2) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them in Github and Mural:**
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
@@ -31,7 +33,7 @@ After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-p
 
 
 ## Recommendations 
-Here are some rough initial recommendations based on past user research, some digging into the records UX, and a few conversations with partners.
+Here are some rough initial recommendations based on past user research, a little digging into the records UX, and a few conversations with partners.
 
 ### 1) Keep the VA Health Summary 
 The purpose of this report is to ensure continuity of care between providers. It's a snapshot of a Veteran's health at a point in time, compiled by the VA. A Veteran can use this report to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary's purpose is very different from the Blue Button Report, which contains all of a Veteran's health information and is compiled by the Veteran. 
