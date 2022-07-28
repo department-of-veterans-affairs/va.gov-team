@@ -8,13 +8,12 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 
 That is the broad vision for the Veteran health experience. There are aspects of the MHV on VA.gov experience that also need a vision or a strategy:
 - **Patient-generated health data:** We've begun conversations about the vision for the UX. (See below.)
-- **Health resources:** We need to figure out how to handle these things:
-  - Health conditions and topics: Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the Research Health section of My HealtheVet.
+- **Health resources:** We need to figure out how to handle health resources, which come from many groups at VA:
+  - Health conditions and topics: Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the "Research Health" section of My HealtheVet.
   - Programs for health and wellness
-  - Track your health information
-- **Copay bills and travel pay:** We need to find a way to integrate seamlessly with the debt portal.
+  - **Track your health information:** This relates directly to records. Our concept for the "Medical records" landing page has a section called "Add and track your health information."
 
-Note that health resources and copay bills and travel pay don't relate to records directly.
+Note that most of health resources don't relate to records directly.
 
 ### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
