@@ -31,7 +31,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -41,7 +41,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ---
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -51,7 +51,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -61,7 +61,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -71,7 +71,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -81,7 +81,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -91,7 +91,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -101,7 +101,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -111,7 +111,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -121,7 +121,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -131,7 +131,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 #### Which task? (select one)
 *go back to school to get degree / compare universities / qualify for disability / find a form / increase disability rating /* 
@@ -141,7 +141,7 @@ Now I'm going to ask you to do a number of things that you may or may not have d
 
 #### What participant does and says...
 
-#### Ease rating (1-5):
+#### Ease rating (1-5) and why:
 ----
 
 
