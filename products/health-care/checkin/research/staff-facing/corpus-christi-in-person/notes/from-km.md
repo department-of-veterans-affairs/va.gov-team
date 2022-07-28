@@ -690,4 +690,64 @@ The kiosks are this location are currently used for:
   - In VSE, they can't change contact information in as little steps as VetLink.
 - A Veteran tried to check-in with the kiosk when we were talking to this MSA. 
   - They came up to the MSA, because they weren't sure if they were checked in or not.
+  - MSA says that this happens frequently.
+- Nurses can see when Veterans are checked in.
+  - So it is good. Problem is if person is only half checked in. Nurse will message on Teams asking if check in is correct, but the Vet is already back in their appt. Nurses starts a note, but can't due to the Veteran not actually being checked in. This can happen ~2 times a day. This MSa oversaw Dental.
+  - Nurses use VSE-CS to see statuses.
+    - They can see who has checked in on ICB too, so they might use that.
+- Think that Veterans aren't paying attention, so they don't fully check-in.
+- Check-in NPS: 3
+- Pre-check-in: 
+  - Problem when appt is cancelled and they are pre-checked in. hty have to remove/cancel the appt. *Though this proces for cancellation is the ssame whether or not pre-check-in was completed.*
+  - Veteran usage - don't think they do use pre-check-in. Only noticed a handful in the software.
+  - Pre-check-in has no impact on check-in to them.
+  - No Veteran feedback to them about pre-check-in.
+  - NPS: 5 
+    - Reason: because they personally don't like to do it for their doctor
+- Canceled appts.
+  - Provider is out. Has 4 docs and 3 hygenists that they manage the front desk for.
+  - They give lke 3-4 days notice and have to reschedule like 5 patients per day.
+  - It only happened to 2 patients this month though.
+  - The process: The notification goes to the Supervisor. The supervisor lets the MSA know what the plan is and gives them a list of patients. They cancel the appointment in the system and call the patient. If they get a hold of the patient, then they reschedule. They call 2 times, then send a letter.
+- Travel pay
+  - On kiosk - only works right now if they don't use their ID.
+    - Sometimes they walk the Veteran through the steps.
+  - If a Veterans comes up to them, then they hand them a paper to fill out.
+    - They do this after the appointment is complete.
+    - Sometimes they have to help the Veteran fill out the paperwork. The Veteran just signs and dates.
+  - They have had to look up dates of past appointments for Veterans filing.
+  - They don't believe that Veterans should get travel pay.
+  - They think it could be included with check-in. "Whatever is easiest for the Veteran."
+
+#### 2 nurses
+- Biggest pain point: VSE-CS doesn't refresh right away
+  - A Veteran can be there, so they go out at the scheduled time
+- Liked the auditory alert in VetLink.
+  - They have an alert, but it is for every clinic not the one that they oversee for the day.
+  - They also get updates for all statuses.
+  - They want to only be notified when check-in is complete.
+  - The base notification don't tell them what clinic the check in was for or the patient.
+    - They have to check every clinic to see what happened.
+  - They even get notifications abotu travel.
+  - There are too many notifications.
+  - They don't know which alert is for which clinic.
+    - They are notified about cancellations. It takes time to remove.
+- If a Veteran has multiple appointments, they are notified, since they don't oversee the other clinics.
+  - They have to mark the statuses, but they don't have time to do it. They don't use it.
+  - Veterans may not be checking in for 2nd/3rd appt.
+  - The routing from the first appointment through the rest of the appointments isn't working.
+  - Seeing checked-in and checked-out would be helpful.
+  - You can see in VetLink the patient's whole schedule (even if it wasn't your clinic). You got to see, because they have at least one appointment with you that day.
+- They used to see if a Veteran started check-in, which was helpful.
+  - They only see check-in time when it is complete.
+- The med list in VSE-CS is not helpful.
+  - They don't use the pre-visit summary capabilities.
+  - They already know this information.
+  - They just want VSE-CS to help for check-in.
+  - They scrub (AKA: call the Veteran to ask pre-visit questions) about a week ahead of time. Pre-visit summary would be helpful then. 
+  - Patient-generated information would be helpful.
+    - Knowing if they recently went to the ER would be helpful. Knowing this by the morning of the appointment would be great.
+    - They don't expect this upon check-in though. They expect this information to be in CPRS.
+    - Veterans do share some of this information with their office through secure messaging already.
+- VSE-CS has worked in the morning, but cause errors later in the day.
   - 
