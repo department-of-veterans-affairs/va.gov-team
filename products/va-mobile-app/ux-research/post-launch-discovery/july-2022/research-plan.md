@@ -153,7 +153,7 @@ If the participant can describe what the app looks like on their phone screen (e
 
 ### Timeline
 
-Sessions will occur on Thursday August 4th, Friday August 5th and Monday August 8th between 9am and 4pm EST.
+Sessions will occur on Thursday August 4th, Friday August 5th, Monday August 8th and Tuesday August 9th between 9am and 4pm EST.
 
 
 ### Pilot 
