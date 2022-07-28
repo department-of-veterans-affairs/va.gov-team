@@ -1,4 +1,4 @@
-# Bi-Weekly Change Managment Sync
+# Bi-Weekly Change Management Sync
 
 <details><summary>About this meeting</summary>
 
