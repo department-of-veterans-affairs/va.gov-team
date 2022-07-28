@@ -12,10 +12,10 @@ Part 2 Remote
 # Background
 
 
-## In an effort to build continuous research into the mobile app team, we are looking to meet with Veterans who currently use the VA Health and Benefits app in order to understand the specific details of their current experience.
+### In an effort to build continuous research into the mobile app team, we are looking to meet with Veterans who currently use the VA Health and Benefits app in order to understand the specific details of their current experience.
 
 
-## This research initiative will focus on uncovering the experience Veterans have using the VA Health and Benefits app. We will build on the insights surfaced in the original discovery research studies conducted prior to the app’s launch, and through this initiative we will seek to uncover new insights in order to help shape the app’s future roadmap.
+### This research initiative will focus on uncovering the experience Veterans have using the VA Health and Benefits app. We will build on the insights surfaced in the original discovery research studies conducted prior to the app’s launch, and through this initiative we will seek to uncover new insights in order to help shape the app’s future roadmap.
 
 
 ### **OCTO Objectives**
@@ -110,9 +110,6 @@ This is a moderated, remote study to supplement the first study completed in-per
 
 Sessions will take place online.
 
-**Research Materials**
-
-[Conversation Guide](https://docs.google.com/document/d/1uFctFPYn1kIxLN6fhYXgDuVvnqY55DYw03SuOqOZjTY/edit?usp=sharing)
 
 **Recruitment**
 
@@ -158,7 +155,7 @@ If the participant can describe what the app looks like on their phone screen (e
 
 # Timeline
 
-Sessions will occur on Thursday August 4th, Friday August 5th and Monday August 6th between 9am and 4pm EST.
+Sessions will occur on Thursday August 4th, Friday August 5th and Monday August 8th between 9am and 4pm EST.
 
 
 # Pilot 
@@ -183,5 +180,6 @@ Team Roles
 * Participant(s) for pilot test: TBD
 * Observers and Notetakers:
     * Jen Ecker - Managing Senior Designer, VA Mobile App, jen.ecker@adhocteam.us
+    * Melissa Lefevre - UX Designer, VA Mobile App, melissa.lefevre@adhocteam.us
 
 # END
