@@ -1,6 +1,6 @@
-Xxxxxxxxx
+# Work, recommendations, and next steps for medical records
 
-## Where we are with records
+## Where we are with work on records
 **1) We created and tested concepts for a "Medical records" landing page on MHV on VA.gov:**
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false)
@@ -28,27 +28,35 @@ After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-p
 
 [Read the doc that outlines the differences between Blue Button Report and "Search my record" by the MHV UCD Team's Arienne Walters and Bobby Bailey.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/Search%20My%20VA%20Health%20Record%20-%20Differences%20from%20Blue%20Button.docx) 
 
-## Challenges
-There are a lot of complexities with records because of:
-- Veteran health data that comes from DoD (Department of Defense),
-- privacy and security issues, and
-- system interoperability issues (ex: Ideally DoD systems would talk to VA systems.) 
-
-These complexities lead to some challenges:
-- Understanding the data and data sources
-- Condensing the output when a Veteran downloads records (i.e., taking out info that's not needed)
-- Communicating and coordinating with many groups at VA [(See this list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
-- Learning and following privacy and security policies (ex: keep health information private)
 
 ## Recommendations 
-Here are some rough initial recommendations based on initial conversations with partners, past user research, and some digging into the records UX.
+Here are some rough initial recommendations based on past user research, some digging into the records UX, and a few conversations with partners.
+
+### 1) Keep the VA Health Summary 
+The purpose of this report is to ensure continuity of care between providers. It's a snapshot of a Veteran's health at a point in time, compiled by the VA. A Veteran can use this report to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary's purpose is very different from the Blue Button Report, which contains all of a Veteran's health information and is compiled by the Veteran. 
+
+User research shows that Veterans don't understand: 
+- the purpose of VA Health Summary versus Blue Button Report, 
+- what information is in each report, 
+- which report is their complete record, and
+- which report to take to a non-VA provider.
+
+#### To do: 
+- Explain the difference between Blue Button Report and VA Health Summary so Veterans know the purpose of each and can decide easily which one they need.
+- Tell Veterans which report they should take to a non-VA provider.
+
+### 2) Combine Blue Button and "Search my record" functionality or choose one and improve it 
+If we launch "Search my record" alongside Blue Button Report and VA Health Summary, Veterans will be more confused than they are now.
 
 
-- Keep VA Health Summary (VAHS) >> Explain purpose clearly
-- Explain the difference b/t BB and VAHS so Veterans know the purpose of each and can decide easily which one they need
-- Clarify the purpose of VAHS v. BB or SMR >> Which is my complete record? Which one do I take to a non-VA provider? Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report.
-- Combine BB and Search my record functionality. Do not have 2 products that do almost the same thing. Pick one interaction: BB download or Search my record
+
+
+- Do not have 2 products that do almost the same thing. Pick one interaction: BB download or Search my record
 - Call out these things in the records section: labs and tests, vaccinations & immunizations 
 - Make it clearer how to share health data with docs (vault) 
 - Make it so you can share data from devices 
+
+
+
+
 
