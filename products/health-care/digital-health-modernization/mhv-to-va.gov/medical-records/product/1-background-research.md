@@ -137,8 +137,8 @@ Research with Veterans over the past 2 1/2 years has given us insights on:
 Following are details from several studies. 
 
 ### To do
-- Read the research studies below.
-- Find more research studies related to records.
+- Read the research studies below. Notice the outstanding research question at the end.
+- Look for more research studies related to records.
 - Gather analytics and see what story they tell.
 
 ### 1) Round 1 user research on the MHV on VA.gov prototype 
