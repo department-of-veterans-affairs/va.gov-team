@@ -109,11 +109,7 @@ Medical records touch a lot of areas of VA. For example, a Veteran's records may
 ### Partners, stakeholders, and subject-matter experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
-So far we've met with:
-- My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
-- My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22
-- OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
-- "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
+Go to the [vision, work, recommendations page]() to see who we've met with so far.
 
 When working with partners, stakeholders, and subject-matter experts (SMEs), it will be critical to:
 - listen to their priorities,
