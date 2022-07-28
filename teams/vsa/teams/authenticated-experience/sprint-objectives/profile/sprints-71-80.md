@@ -636,7 +636,7 @@ This assumes we have what we need to get started:
 
 - Collab cycle kickoff (we can punt on this for a sprint if the team needs a sprint to get onboarded and familiar with this work)
 
-**Design**
+**Design - Liz**
 
 - Initial mockups of the 1095B preference
 - Work with content
