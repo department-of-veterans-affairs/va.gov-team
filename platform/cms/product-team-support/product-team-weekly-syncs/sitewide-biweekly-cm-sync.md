@@ -11,7 +11,12 @@
  - item
  </details>
  
- ## June 14, 2022
+ ## August 2, 2022
+
+### Agenda
+- Accelerated publishing
+
+## June 14, 2022
 
 ### Agenda
 - Cerner cutovers (Roseburg and White City)
