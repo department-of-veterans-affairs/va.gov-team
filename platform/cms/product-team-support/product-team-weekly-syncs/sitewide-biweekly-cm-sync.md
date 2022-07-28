@@ -15,6 +15,7 @@
 
 ### Agenda
 - Accelerated publishing
+- Plan for QA framework
 
 ## June 14, 2022
 
