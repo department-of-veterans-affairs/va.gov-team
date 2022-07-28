@@ -8,7 +8,9 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 
 > We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
 
-That is the broad vision for the Veteran health experience. There are aspects of the MHV on VA.gov experience that also need a vision or a strategy:
+That is the broad vision for the Veteran health experience. Since the MHV on VA.gov / Health Apartment Team has not discussed a vision specific to medical records, it would be very helpful to discuss that with the leadership of the Office of Connected Care (OCC) and the Office of the CTO (OCTO), document the vision, and share it with OCC and OCTO leadership for confirmation.
+
+There are specific aspects of the MHV on VA.gov experience that also need a vision or a strategy:
 - **Patient-generated health data:** We've begun conversations about the vision for the UX. (See below.)
 - **Health resources:** We need to figure out how to handle health resources, which come from many groups at VA:
   - Health conditions and topics: Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the "Research Health" section of My HealtheVet.
