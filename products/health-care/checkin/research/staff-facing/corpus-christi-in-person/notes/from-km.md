@@ -646,3 +646,26 @@ The kiosks are this location are currently used for:
 - Some think they are checked in and the MSA sees:
   - 5 a day show up as mobile check-in started and not complete
   - Now, the MSA looks for the "Check-in started" status.
+- 15/20 out of 50 use PCI
+- Pre-check-in
+  - Estimates usage to be 10% of time
+  - Works most of the time, but some Veterans think pre-check-in equals check-in
+  - NPS: 10
+    - "as long as we can fix the confusion with pre-check-in and check-in.
+- Check-in NPS: 3
+  - Having 2 options hinders check-in.
+- Canceled appts
+  - Provider called out, leave request. Don't have enough staff or proper equipment for procedures (issues recently in Dental)
+  - Supposed to give a couple of weeks notice, but the majority of of provider notices are same day.
+    - We have to call to cancel, then reschedule
+  - If there is more notice
+    - Call Veteran and reschedule
+    - Does send a letter after 2 calls
+  - No showed, canceled, or initial schedule are all reasons that they send letters.
+- Travel pay
+  - They can file on the day of their visit
+    - Done at the clerk- they try to do it after the appt.
+    - Kiosk can do it @ check-in.
+  - Some Veterans think they do travel on kiosk that they are checked in for their appointment.
+  - MSAs help Veterans fill it out, because their hands shake or other reasons. The Veteran just signs the form. 
+    - On the form, it they don't have their card, then they can just filll in their SSN.
