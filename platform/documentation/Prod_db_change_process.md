@@ -31,9 +31,9 @@ This process document intends to outline the steps to be taken in order to obtai
 ## Optional Components:
 
 - specs for rake tasks (optional)
-    - write it as a class (instead of script) test the class
-    - artificially create some in progress forms and test the class
-    - report results
+    - **Example**: write it as a class (instead of script) test the class
+    - **Example**: artificially create some in progress forms and test the class
+    - **Example**: report results
 
 ## Steps to follow:
 
