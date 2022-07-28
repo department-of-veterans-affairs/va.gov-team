@@ -71,7 +71,7 @@ Part 2 Remote
 Since Veterans can download the VA Health and Benefits mobile app any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
 
 
-## **Research goals**
+### **Research goals**
 
 
 
@@ -80,7 +80,7 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 3. Identify Veterans unmet needs and uncover areas where the app could provide future access to other VA health and benefits areas.
 
 
-## **Outcomes**
+### **Outcomes**
 
 
 
@@ -89,7 +89,7 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 * Evolved understanding of the value the app provides based on user feedback explaining motivations for using the app compared to accessing other digital tools in the VA ecosystem.
 
 
-## **Research questions**
+### **Research questions**
 
 
 
@@ -104,14 +104,12 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 
 Veterans who currently use the VA Health and Benefits mobile app use it for quick, transactional tasks, but there are other things Veterans want to be able to use the app to do that they can’t do right now, such as finding out about benefits they might be missing out on.
 
-**Methodology**
+### **Methodology**
 
 This is a moderated, remote study to supplement the first study completed in-person on July 21 and July 22, 2022.
 
 Sessions will take place online.
 
-
-**Recruitment**
 
 
 ### Recruitment approach
@@ -124,7 +122,7 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 Recruit 10 Veterans for a minimum of 6 successfully completed sessions.
 
 
-## Primary Criteria
+### Primary Criteria
 
 Veterans who are active monthly users of the VA Health and Benefits mobile app. (Active monthly users is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.)
 
@@ -137,10 +135,10 @@ Please do a phone follow-up to confirm the participant uses the VA Health and Be
 If the participant can describe what the app looks like on their phone screen (even if they don’t know the full name), that should provide enough information to validate if they have the app and schedule the participant for a research session.
 
 
-## Secondary Criteria
+### Secondary Criteria
 
 
-## Inclusion
+### Inclusion
 
 
 
@@ -153,17 +151,17 @@ If the participant can describe what the app looks like on their phone screen (e
 * 2 participants who identify as women
 
 
-# Timeline
+### Timeline
 
 Sessions will occur on Thursday August 4th, Friday August 5th and Monday August 8th between 9am and 4pm EST.
 
 
-# Pilot 
+### Pilot 
 
 The Pilot session will be held on Wednesday August 3rd, 2022
 
 
-# Sessions
+### Sessions
 
 Sessions will be 60 minutes in length. 
 
@@ -182,4 +180,4 @@ Team Roles
     * Jen Ecker - Managing Senior Designer, VA Mobile App, jen.ecker@adhocteam.us
     * Melissa Lefevre - UX Designer, VA Mobile App, melissa.lefevre@adhocteam.us
 
-# END
+### END
