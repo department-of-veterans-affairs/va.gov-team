@@ -77,7 +77,7 @@ This will also require data storage and an interface on the VA staff side.
 The team should meet with the DHP product owner (Stefany Holguin) and also with Office of Connected Care people working on PGHD (Patient-Generated Health Data). 
 
 
-## Next steps
+## Next steps (not necessarily in this order)
 - Figure out who will work on records and define roles.
 - Organize the list of main partners, stakeholders, and subject-matter experts. Figure out who the decision-makers are. (Tracey Mulrooney, Nancy Wilck, and Theresa Hancock can help with this.)
 - Have Nancy Wilck and Theresa Hancock introduce you to the main partners, stakeholders, and subject-matter experts (SMEs).
