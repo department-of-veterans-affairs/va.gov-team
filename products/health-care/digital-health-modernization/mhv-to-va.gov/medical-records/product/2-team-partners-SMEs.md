@@ -10,7 +10,7 @@ July 21, 2022
 - "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
 
 ## To do 
-- **Confirm which points of contact go in which categories below.** For example, a partner listed as "other partner" might actually be a "main parter," or they might be a SME. 
+- **Confirm which points of contact go in which categories below.** For example, a partner listed as "other partner" might actually be a "main partner," or they might be a SME. 
 
 ## MHV on VA.gov team members to work on records 
 - **Product owner:** Tracey Mulrooney
@@ -36,8 +36,8 @@ July 21, 2022
 - **MHV "Search my record":** Rich Beaudoin (Product), David/Boomer Rawlins (Engineering)
 - **Messages:** Patty Henry
 - **MHV Pharmacy:** Dr. Eric Spahn, Dr. Maureen Layden, Margo Kaybel (from PBM, or Pharmacy Benefits Management)
-- **Continuity of Care Document (CCD):** Glen Crandall, Marie Swall (CCD = VA Health Summmary)
-- **Appointments on MHV** Dawm Smith (OVAC or Office of Veteran Access to Care)
+- **Continuity of Care Document (CCD):** Glen Crandall, Marie Swall (CCD = VA Health Summary)
+- **Appointments on MHV** Dawn Smith (OVAC or Office of Veteran Access to Care)
 - **Appointments / VAOS:** Jeff Roof (VAOS = VA Online Scheduling)
 - **VA flagship mobile app:** ________ (?) Contractors: Ashley Matthews (PM), Alex Taylor (Designer)
 - **VA.gov Account Experience (including contact centers):** Chante Lantos-Swett
