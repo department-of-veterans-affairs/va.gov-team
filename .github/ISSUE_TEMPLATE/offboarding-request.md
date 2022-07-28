@@ -11,6 +11,8 @@ assignees: ''
 # Instructions
 Fill out name of individual and *Description* section below.
 
+*(Please add only one individual per form)*
+
 # Description
 Please provide the following information about the individual being offboarded:
 - name:
@@ -19,16 +21,18 @@ Please provide the following information about the individual being offboarded:
   > 
 - role on team:
   > 
-- expected last day:
+- expected last day: _(MM/DD/YYY)_
   > 
 - company they work for:
   > 
-- email:
+- email: _(Multiple emails listed in order of relevance to VA business, VA, Company, Personal, etc....)_
   > 
-- GitHub username:
+- GitHub username: _(Please include @ symbol)_
   > 
-- additional access they may have:
+- additional access they may have: _(First line formatted with access titles only. Additional notes may be added on second line after the list.)_
   > ex: SOCKS, Pagerduty, Google analytics, etc.
+  
+  > Notes, etc...
  
  
 ## Acceptance Criteria
