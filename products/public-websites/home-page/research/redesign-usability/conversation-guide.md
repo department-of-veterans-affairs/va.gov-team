@@ -468,3 +468,6 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on July 12, 2022
 - Reviewed and approved by Shane Strassberg on July 13, 2022
+
+## Template for Notetaking
+[Notes Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/notes-template.md)
