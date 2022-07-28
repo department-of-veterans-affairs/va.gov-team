@@ -591,9 +591,17 @@ The kiosks are this location are currently used for:
 - Used QR code
 - Text and va.gov loaded quickly
 - Successful check-in
+- They didn't have to review contact information/pre-registration. Our guess is that they ust have done pre-check-in, because their last appointment was 2 weeks ago.
 
 #### Volunteer 1
 - Sends Veterans to the MSA to answer PCI questions
 - "99% can't do it."
 - Some other volunteers know the system better than them and try to help.
 - They tried it themself and didn't get it to work.
+
+#### Volunteer 2 and 3
+- Mondays and Wednesdays are really busy.
+- Most Veterans don't have a smartphone when they enter the building.
+- A lot say it is harder. Just don't want to do it.
+- Volunteer 3 educates Veterans abotu PCI. "It is the same as the kiosk, but different."
+- "Key to getting them to do it is to share that we are learningtoo and to be patient."
