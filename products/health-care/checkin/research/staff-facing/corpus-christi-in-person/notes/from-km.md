@@ -500,3 +500,100 @@ The kiosks are this location are currently used for:
 - Estimates that 5 - 6 Veterans from the clinic(S) they oversee utilize PCI per day.
 - They do a lot of educating on how to text if problems arise with the QR code
   - Particularly educates about how to start a new text thread.
+- VSE - the software changes are good, because it is the same at VetLink.
+  - Entering some things takes a few more steps.
+  - Like that they can enter insurance instead of using ICB, but ICB is more accurate.
+  - They like that they are using less software systems.
+  - ICB doesn't stay up. If you aren't watching, you get logged out.
+- There are no changes to communications with clinicians.
+  - They use Teams if VSE-CS is slow.
+- NPS: would not recommend
+- Pre-check-in: haven't hear about it. Hasn't seen the status in VSE.
+- Cancelled appt
+  - VA has to cancel appointment if the provider is out.
+  - They alsocancel if the patient or call center says to cancel.
+  - When it occur with short notice before the appt...
+    - Call the patient right away and leave a message if necessary
+    - Leave a message in the computer that they couldn't get ahold of the patient
+    - If vet already cam in, the nurse will tell the Vet that it is cancelled and bring them up to reschedule.
+  - Longer notice...
+    - 2 calls, then send a letter. They wait 14 days. If 14 days pass, then discontinue the RTC.
+
+#### Visual observations
+- not overwhelmed with signage
+- Talked about training Veterans/educating
+- appt. check-in signs over the kiosk
+- [diagram of the area added from notes]
+
+#### Veteran Intercepts
+
+**1**
+- Had a question about scheduling.
+
+**2**
+- Didn't know that he needed to click the link in the SMS
+- Successfully submitted
+
+**3**
+- Needed to make an appointment
+
+**4**
+- In a rush and didn't want to check-in with us.
+- Tried to check-in on the kiosk.
+- Came back to us, then said that they didn't know how to text.
+
+**5**
+- Doesn't want to try
+
+**6**
+- Doesn't want to try
+- Wanted to use the kiosk
+- Came to the wrong location and asked the MSA for a list of future appts.
+- 
+**7**
+- Tried before and had trouble
+- We helped educate them
+- It took awhile for va.gov to load. It took so long that they got a time out error (err-timed-out).
+
+**8**
+- Tried once and "not smart enough for smart phone"
+- Tried the kiosk
+
+**9**
+- Thought they were checked in after sending "check in"
+- Got "clinic not enabled" message sent to him. Sent him to the clerk.
+
+**10**
+- Didn't want to try
+- "That is what they [clerks] are here for."
+
+**11**
+- Tried it before we got to intercept then.
+- Received a message that they needed to have their insurance reviewed.
+
+**12**
+- Going to the lab
+
+**13**
+- Scheduling an appt.
+
+**14**
+- Going to the pharmacy
+
+**15**
+- Wasn't interested in PCI
+
+**16**
+- Going to the lab.
+
+**17**
+- Second time using it.
+- Used QR code
+- Text and va.gov loaded quickly
+- Successful check-in
+
+#### Volunteer 1
+- Sends Veterans to the MSA to answer PCI questions
+- "99% can't do it."
+- Some other volunteers know the system better than them and try to help.
+- They tried it themself and didn't get it to work.
