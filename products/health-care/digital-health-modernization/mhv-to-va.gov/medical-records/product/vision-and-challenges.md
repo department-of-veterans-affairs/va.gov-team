@@ -9,7 +9,7 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 That is the broad vision for the Veteran health experience. There are aspects of the MHV on VA.gov experience that also need a vision or a strategy:
 - **Patient-generated health data:** We've begun conversations about the vision for the UX. (See below.)
 - **Health resources:** We need to figure out how to handle these things:
-  - **Health conditions and topics:** Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the Research Health section of My HealtheVet.
+  - Health conditions and topics: Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the Research Health section of My HealtheVet.
   - Programs for health and wellness
   - Track your health information
 - **Copay bills and travel pay:** We need to find a way to integrate seamlessly with the debt portal.
