@@ -1,6 +1,6 @@
 # Work, recommendations, and next steps for medical records
 
-## Where we are with work on records
+## Work so far on records
 **1) We created and tested concepts for a "Medical records" landing page on MHV on VA.gov:**
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false)
