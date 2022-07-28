@@ -4,7 +4,7 @@
 
 - Tuesday 2-2:25 pm ET 
 - Meeting owner and facilitator: Denise Eisner
-- Attendees: Kevin Walsh, Erika Washburn, Roger Eagans, Wesley Rowe, Clarence Maeng (optional0
+- Attendees: Denise Eisner, Dave Conlon, Jeffrey Grandon, Steve Tokar (optional), Jennifer Heiland-Luedtke (optional), David Shannon (optional), Clarence Maeng (optional)
 </details>
 
 <details><summary>Parking lot</summary>
