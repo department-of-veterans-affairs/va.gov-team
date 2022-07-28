@@ -37,7 +37,7 @@ The Blue Button Report contains the largest set of health data VA has for a Vete
 
 #### To do
 1) First get background on rules for the "Blue Button" brand. Can VA call the Blue Button Report something else? Must VA use the term "Blue Button" to mean the framework for downloading any of the 3 reports listed above?
-2) In conversations with partners and stakeholders, discuss the possibility of either not using or downplaying the term "Blue Button" in the records section of MHV on VA.gov. In a recent conversation with Carnetta Scruggs and Bresha Lipscomb, Carnetta said they were considering changing "Blue Button" to "VA Health Records." [See the notes from that meeting at the bottom left of the records discovery Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) 
+2) In conversations with partners and stakeholders, discuss the possibility of either not using or downplaying the term "Blue Button" in the records section of MHV on VA.gov. In a recent conversation with Carnetta Scruggs and Bresha Lipscomb, Carnetta said they were considering changing "Blue Button" to "VA Health Records." See the [notes from that meeting at the bottom left of the records discovery Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) 
 
 #### Search my record
 In early 2022, a My HealtheVet (MHV) developer created an application called "Search my record."
@@ -63,7 +63,7 @@ Here's a [doc from the MHV UCD Team's Arienne Walters and Bobby Bailey](https://
 ### 2) VA Health Summary
 The VA Health Summary contains the following data from a Veteran's VA medical record. A Veteran can use it to review their VA health care and to share information with community providers, family, or others who help them with their health. The VA Health Summary supports continuity of care between providers.
 
-You can view the VA Health Summary in a browser or download it as a PDF or XML file. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+You can view the VA Health Summary in a browser or download it as a PDF or XML file. See this [sample VA Health Summary.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/VA-Health-Summary-CCD_MHVZZVISNTWENTY_20220124_1607.pdf) 
 - Patient and contact info
 - Health care providers
 - Insurance providers
@@ -116,7 +116,7 @@ Medical records touch a lot of areas of VA. For example, a Veteran's records may
 ### Partners, stakeholders, and subject-matter experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
-See who we've met with so far on the [vision, work, and recommendations page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/vision-work-recommendations.md).
+See who we've met with so far on the [Work, recommendations, and next steps page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/4-work-recommendations-next-steps.md).
 
 When working with partners, stakeholders, and subject-matter experts (SMEs), it will be critical to:
 - listen to their priorities,
@@ -177,7 +177,7 @@ October 2021
 
 After the dark launch of ["Search my record,"](https://www.myhealth.va.gov/mhv-portal-web/search-my-record) the My HealtheVet UCD Team did a research study with Veterans and provided recommendations for usability fixes to the UI. (MHV's UCD Team was not involved in the original design and development of "Search my record.")
 
-[View the “Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/)
+View the [“Search my record” usability findings.](https://xd.adobe.com/view/1ddcbf09-eae3-4d64-89bf-2d9e9d548f38-488f/)
 
 ### 4) Generative research on how Veterans think about their health care
 December 2020
