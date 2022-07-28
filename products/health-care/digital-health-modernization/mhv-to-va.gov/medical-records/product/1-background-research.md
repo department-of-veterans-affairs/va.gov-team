@@ -1,8 +1,9 @@
 # 1) Background and past research on medical records
 July 26, 2022
 
+[The records discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) has visuals of many of the things described here. 
 
-## What are the types of records? 
+## What are the types of records reports? 
 Currently VA has 3 types of reports that contain a Veteran's medical records at VA:  
 1) VA Blue Button Report
 2) VA Health Summary (a.k.a. CCD, CCDA, or Continuity of Care Document)
@@ -33,6 +34,10 @@ The Blue Button Report contains the largest set of health data VA has for a Vete
 - DoD Military Service Information
 
 **Key point:** When you download a Blue Button Report, you choose what data goes into it. 
+
+#### To do
+1) First get background on rules for the "Blue Button" brand. Can VA call the Blue Button Report something else? Must VA use the term "Blue Button" to mean the framework for downloading any of the 3 reports listed above?
+2) In conversations with partners and stakeholders, discuss the possibility of either not using or downplaying the term "Blue Button" in the records section of MHV on VA.gov. In a recent conversation with Carnetta Scruggs and Bresha Lipscomb, Carnetta said they were considering changing "Blue Button" to "VA Health Records." [See the notes from that meeting at the bottom left of the records discovery Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) 
 
 #### Search my record
 In early 2022, a My HealtheVet (MHV) developer created an application called "Search my record."
