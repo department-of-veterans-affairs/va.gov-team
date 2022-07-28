@@ -86,10 +86,10 @@ You can view the VA Health Summary in a browser or download it as a PDF or XML f
 - Pathology studies
 - Procedure notes
 
-**Key point:** The VA Health Summary is created by VA. A Veteran has no control over what info is in the report. 
+**Key point:** The VA Health Summary is created by VA. A Veteran has no control over what information is in the report. 
 
 ### Coming soon to the VA Health Summary? 
-There's talk of including the [**After-Visit Summary (AVS)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf) in the VA Health Summary. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
+There's talk of including the [**After-Visit Summary (AVS)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf) in the VA Health Summary. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and instructions from your care team.
 
 On a related note, the After-Visit Summary might be the best source of truth for all the prescriptions and medications a Veteran takes. Because there has not been a good source of truth for prescriptions and medications, the Office of the Inspector General was investigating, working with Pharmacy Benefits Management (PBM), the group responsible for managing information about medications.
 
@@ -168,7 +168,7 @@ May 2022
 In Round 2 research, all participants used a mobile device to access a [mobile prototype that showed a complete, high-level information architecture.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/40D83D4A-9785-4204-A966-103B35FF65A7?hotspots=false) Like Round 1 above, this study did not focus on records; however, we got Veterans' feedback on our concept for the "Medical records" landing page for mobile as they did common tasks related to records.
 
 **[Round 2 findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md) on records:**
-- Participants were confused about certain terms, including "Blue Button,” and “Adverse Reactions.” 50% of users knew what Blue Button was depending on whether they had used it before; this was similar to the previous round. 
+- Participants were confused about certain terms, including "Blue Button,” and “Adverse Reactions.” 50% of users knew what Blue Button was (depending on whether they had used it before); this was similar to Round 1. 
 
 [View the "Medical records" page of the mobile prototype.](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false) Note that we've made updates to this prototype based on the findings from Round 1 and Round 2. 
 
