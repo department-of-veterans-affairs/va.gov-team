@@ -65,6 +65,9 @@ In the prototypes for [mobile](https://www.sketch.com/s/908b453b-ef8b-4193-b955-
 
 The DHP Team (Digital Health Platform) is working on enabling Veterans to connect their health tracking devices to VA.gov so they can share their health data. The team should meet with the DHP product owner (Stefany Holguin) and also with Office of Connected Care people working on PGHD (Patient-Generated Health Data). 
 
+### 6) Work with the Sitewide Content & IA Team on a content strategy for health resources 
+Xxxxxxxxx...
+
 ## Next steps
 - Figure out who will work on records and define roles.
 - Organize the list of main partners, stakeholders, and subject-matter experts. Figure out who the decision-makers are. (Tracey Mulrooney, Nancy Wilck, and Theresa Hancock can help with this.)
