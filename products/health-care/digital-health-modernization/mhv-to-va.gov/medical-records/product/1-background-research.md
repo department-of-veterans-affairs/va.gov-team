@@ -1,7 +1,7 @@
 # 1) Background and past research on medical records
 July 26, 2022
 
-[The records discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) has visuals of many of the things described here. 
+Note: [The records discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) has visuals of many of the things described here. 
 
 ## What are the types of records reports? 
 Currently VA has 3 types of reports that contain a Veteran's medical records at VA:  
