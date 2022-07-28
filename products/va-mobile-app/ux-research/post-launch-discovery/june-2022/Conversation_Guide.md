@@ -7,8 +7,6 @@
 
 _Ensure the observer and notetaker are prepared in the back of the room._
 
-_Get physical consent forms ready for participant to review and sign ahead of time._
-
 _Have two testing devices ready, one Android and one iphone, with the VA mobile app previously loaded._
 
 _When the participant is ready, begin the session with the following intro:_
@@ -73,14 +71,6 @@ Current VA Mobile App Experience
 * What pain points do you run into?
 * If you could change one thing about the app, what would it be?
 
-Personalization
-
-
-
-* Think about this app in relation to other apps you use right now, how would you describe:
-    * The look and feel of it? 
-    * You mentioned (blank) was your favorite app. How does this app compare to that one? How would you rate it?
-    * The degree that it feels personal to you (as opposed to general). What comes to mind?
 
 Trust
 
@@ -103,6 +93,23 @@ Experience with other VA digital tools and support
 
 Prompt: Think about your current interactions with the VA to manage your healthcare and benefits. Then, take a look at these cards. Pick out the 5 cards that are most important to you.
 
+1. Communicate with my doctors
+2. Share health info with people in my life
+3. Get connected to other Veterans
+4. Get connected to people who can support me
+5. Get reminders for things
+6. Access my lab and test results
+7. Access my health records
+8. Manage my prescriptions
+9. Manage my VA letters
+10. Provide feedback on health visits
+11. Make my in-person visits easier
+12. Manage my VA payments
+13. Manage my VA debt and copay bills
+14. Find out about other VA benefits I’m not using 
+15. Write your own: blank
+16. Write your own: blank
+
 If there’s something that’s missing, please take one of the blank cards and write your own response on the card.
 
 Now, arrange them in a row in order of importance to you, starting with the most important one.
@@ -112,22 +119,6 @@ Tell me more about the ones you chose - why did you choose these cards to begin 
 Why did you arrange them in this order?
 
 
-
-    1. Health Records: see my Labs and Tests Results
-    2. Health Records: see my doctor’s notes
-    3. Download my health records
-    4. Manage my VA debt and bills 
-    5. Refill my prescriptions
-    6. Get education benefits
-    7. Get a home loan
-    8. Know what other benefits I might be able to get that I’m missing out on
-    9. Connect with people who can support me  that know about my individual circumstances (ex: my healthcare providers, my VSO contacts)
-    10. Connect with other Veterans
-    11. Get reminders for appointments
-    12. Blank
-    13. VA letters
-    14. Claim status
-
 Now consider the reasons why you use the VA Health and Benefits app. Here are a few red stickers. Imagine you could bring some of these things into the app. Which of these areas would you want to see in the app?  Place a red circle on those areas._
 
 Tell me more about your choices. Why did you pick these items? 
@@ -136,18 +127,12 @@ Tell me more about your choices. Why did you pick these items?
 Why would you want to access these areas in the app instead of online (like VA.gov) or in person?
 
 
-## Closing Question (5 minutes)
-
-
+## Thank-You and Closing (5 minutes)
 
 * What were your overall thoughts on what we discussed today?
 
-
-## Thank-You and Closing (5 minutes)
-
 Well we really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the app and make sure it really works for Veterans.
 
-Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, I can send you an email with a little blurb so you can easily connect folks to our team.
 
 Great, well thank you so much again, and enjoy the rest of your day.
 
