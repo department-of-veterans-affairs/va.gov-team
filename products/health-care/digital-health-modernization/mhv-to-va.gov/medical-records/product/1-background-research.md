@@ -19,7 +19,7 @@ In large part, these reports contain data based on a VA patient's interaction wi
 ### 1) Blue Button
 **"Blue Button" is a way to view or download a Veteran's VA health records using any of the 3 types of reports listed above.** "Blue Button" also has another meaning: Veterans familiar with viewing and downloading their medical records equate the term "Blue Button" to the Blue Button Report.
 
-The Blue Button Report contains the largest set of health data VA has for a Veteran. (See list below.) You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
+The Blue Button Report contains the largest set of health data VA has for a Veteran. (See list below.) You can view the report in a browser or download it as a PDF. [See the bottom left of this Mural that shows MHV, Cerner, and VAOS authenticated screens.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1638893982626/3b17e35260c8b5671613ac2b3b9bdb0d004848ba?sender=megpeters0505)
 - Appointments (VA future, past)
 - Medications (VA med history + self-entered)
 - Labs and tests (VA lab results, pathology reports, radiology reports, EKGs + self-entered) 
@@ -88,13 +88,15 @@ You can view the VA Health Summary in a browser or download it as a PDF or XML f
 
 **Key point:** The VA Health Summary is created by VA. A Veteran has no control over what info is in the report. 
 
+### Coming soon to the VA Health Summary? 
+There's talk of including the [**After-Visit Summary (AVS)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf) in the VA Health Summary. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
+
+On a related note, the After-Visit Summary might be the best source of truth for all the prescriptions and medications a Veteran takes. Because there has not been a good source of truth for prescriptions and medications, the Office of the Inspector General was investigating, working with Pharmacy Benefits Management (PBM), the group responsible for managing information about medications.
+
 ### 3) VA Medical Images and Reports
 A Veteran can:
 - Download and view medical images such as MRIs and X-rays, as well as reports about medical images
 - Request images
-
-### Coming soon to records? 
-There's talk of including the **After-Visit Summary (AVS)** in records. No details yet, but AVS's purpose relates closely to that of the VA Health Summary: it's a snapshot of your medical care at a point in time. After an appointment with a VA provider, you get an AVS with info on your recent appointment(s?), plus medications and intructions from your care team.
 
 
 ## How do Veterans use their medical records? 
