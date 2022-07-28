@@ -6,11 +6,19 @@ We can apply the vision described in the [product brief for MHV on VA.gov](https
 
 > We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
 
-That is the broad vision for the Veteran health experience. There are aspects of the experience that also need a vision, and we've begun conversations about things like patient-generated health data. 
+That is the broad vision for the Veteran health experience. There are aspects of the MHV on VA.gov experience that also need a vision or a strategy:
+- **Patient-generated health data:** We've begun conversations about the vision for the UX. (See below.)
+- **Health resources:** We need to figure out how to handle these things:
+  - **Health conditions and topics:** Danielle Thierry has details on the health condition pilot underway for PTSD. Other sources of health topics are the Veterans Health Library and the Research Health section of My HealtheVet.
+  - Programs for health and wellness
+  - Track your health information
+- **Copay bills and travel pay:** We need to find a way to integrate seamlessly with the debt portal.
+
+Note that health resources and copay bills and travel pay don't relate to records directly.
 
 ### Philosophy for patient-generated data on MHV on VA.gov
 Also known as patient-generated health data (PGHD), this is health data that Veterans either:
-- Enter into the VA website through forms (on My HealtheVet today), or
+- Enter into the VA website through forms (on My HealtheVet today, referred to as "self-entered" data), or
 - Upload from a software application or wearable device (the future for MHV on VA.gov)
 
 PGD includes the existing self-entered data apps at [mobile.va.gov](https://mobile.va.gov/), built by the Office of Connected Care (OCC).
@@ -82,11 +90,14 @@ There are a lot of complexities with records because of:
 
 These complexities lead to some challenges:
 - Understanding the data and data sources
-- Condensing the output when a Veteran downloads records (i.e., taking out what's not needed)
+- Condensing the output when a Veteran downloads records (i.e., taking out info that's not needed)
 - Communicating and coordinating with many groups at VA [(See this list of partners, stakeholders, and subject-matter experts.)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md)
 - Learning and following privacy and security policies (ex: keep health information private)
 
-## Recommendations << Meg is here >>
+## Recommendations 
+Here are some rough initial recommendations based on initial conversations with partners, past user research, and some digging into the records UX.
+
+
 - Keep VA Health Summary (VAHS) >> Explain purpose clearly
 - Explain the difference b/t BB and VAHS so Veterans know the purpose of each and can decide easily which one they need
 - Clarify the purpose of VAHS v. BB or SMR >> Which is my complete record? Which one do I take to a non-VA provider? Participants weren’t sure what the difference was between their VA Health Summary and their Blue Button Report.
