@@ -109,7 +109,7 @@ Medical records touch a lot of areas of VA. For example, a Veteran's records may
 ### Partners, stakeholders, and subject-matter experts (SMEs)
 Here's the [full draft list of partners, stakeholders, and SMEs for medical records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/team-partners-SMEs.md).
 
-Go to the [vision, work, recommendations page]() to see who we've met with so far.
+See who we've met with so far on the [vision, work, and recommendations page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/vision-work-recommendations.md).
 
 When working with partners, stakeholders, and subject-matter experts (SMEs), it will be critical to:
 - listen to their priorities,
