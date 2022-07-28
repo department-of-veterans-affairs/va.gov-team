@@ -20,7 +20,7 @@ Now, the EHR data point is also managed by Drupal (and, again, at some point in 
 2. Cerner (`cerner`)
 3. Converting to Cerner (`cerner_staged`)
 
-Before a VAMC system moves to Cerner, this value will be `vista`. When the system is scheduled to move to Cerner, this value will first be changed to `cerner_staged`, which indicates that in _staging_ (staging.va.gov), the system in question will be considered to be using Cerner. In production, though, it will still be considered to be using VistA. This state allows for testing before the final cutover. When that final cutover is ready, this value will be changed to `cerner`.
+Before a VAMC system moves to Cerner, this value will be `vista`. When the system is scheduled to move to Cerner, this value will first be changed to `cerner_staged`, which indicates that in _non-production environments_ (e.g. staging.va.gov), the system in question will be considered to be using Cerner. In production, though, it will still be considered to be using VistA. This state allows for testing before the final cutover. When that final cutover is ready, this value will be changed to `cerner`.
 
 ## So, how do I use Drupal as the source of truth?
 Various apps and widgets need to conditionally display certain elements based on the EHR system in use by a certain facility. One example of this might be a widget that shows a CTA to an authenticated user. If that user is associated with a VAMC facility that uses Cerner as its EHR system, the widget will display a CTA that deep-links to a Cerner portal. If the facility uses VistA, the deep link will go to a VistA portal. It is necessary, therefore, that app developers have access to the data points representing the EHR systems in use at various facilities.
