@@ -60,11 +60,15 @@ In user research, the My HealtheVet UCD Team has heard Veterans comment on the f
 
 ### 4) Make it clear how to share your health data with your care team
 On My HealtheVet today, there is not a clear user flow for sharing the health data you entered into the My HealtheVet website with your VA care team. Surprisingly, some ~10K Veterans (not sure of time period for this) have managed to share their health data, which lives in the "vault," where the self-entered data is stored. 
+
+This will also require data storage and an interface on the VA staff side. 
  
 ### 5) Make it so you can share data from devices 
 In the prototypes for [mobile](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false) and [desktop](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6), we included a section called "Add and track your health information." Though this section tested well with Veterans in the context of the "Medical records" landing page, the team should make sure that self-entered data belongs in the "Medical records" section.
 
 The DHP Team (Digital Health Platform) is working on enabling Veterans to connect their health tracking devices to VA.gov so they can share their health data. The team should meet with the DHP product owner (Stefany Holguin) and also with Office of Connected Care people working on PGHD (Patient-Generated Health Data). 
+
+This will also require data storage and an interface on the VA staff side. 
 
 
 ## Next steps
