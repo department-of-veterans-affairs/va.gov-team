@@ -1,4 +1,4 @@
-# Team, partners, and subject-matter experts for medical records (DRAFT)
+# 2) Team, partners, and subject-matter experts for medical records (DRAFT)
 July 21, 2022
 
 ## Meetings so far
