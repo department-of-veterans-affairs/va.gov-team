@@ -642,6 +642,10 @@ This assumes we have what we need to get started:
 - Work with content
 - Get initial mockups/content to 1095B team for review with their legal team
 
+### Notification preferences: MHV preferences
+
+- Start regular biweekly syncs with MHV on 8/17 to discuss notification preferences requirements.
+
 ### Bad address indicator
 
 **PM - Sharon**
