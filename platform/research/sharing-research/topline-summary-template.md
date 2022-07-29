@@ -1,8 +1,8 @@
 <!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
 
-# Profile Personal Information Topline Summary
+**This is a template, PLEASE MAKE A COPY**
 
-**Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
+# [Research Name] Topline Summary
 
 
 [link research plan]()
