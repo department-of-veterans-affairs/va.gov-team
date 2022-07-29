@@ -639,7 +639,8 @@ This assumes we have what we need to get started:
 **Design - Liz**
 
 - Initial mockups of the 1095B preference
-- Work with content
+- Initial mockup of "you have changed your prefernce" email
+- Work with content for both notification preferences mockup and confirmation email
 - Get initial mockups/content to 1095B team for review with their legal team
 
 ### Notification preferences: MHV preferences
