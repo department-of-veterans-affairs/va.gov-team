@@ -12,7 +12,7 @@ Read our [research findings related to records.](https://github.com/department-o
 
 **2) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them in Github and Mural:**
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
-- My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22 [(See notes from this meeting in Mural.)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505)
+- My HealtheVet records section PoCs (Carnetta Scruggs, Bresha Lipscomb) - June 22 [(See notes from this meeting in the lower left of this Mural.)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505)
 - OCC and OCTO leadership + the OCC senior adviser (Nancy Wilck, Theresa Hancock, Chris Johnston, Lauren Alexanderson, Dr. Neil Evans) - July 18
 - "Search my record" (Rich Beaudoin, David/Boomer Rawlins) - July 20
 
