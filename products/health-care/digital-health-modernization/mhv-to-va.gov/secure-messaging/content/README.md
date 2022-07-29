@@ -144,10 +144,42 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 #### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Messages
+
+> `Lead` When you send a message to your care team, it can take up to 3 business days to get a response. 
+
+> `Note` **Note:** Call [911](link) if you have a medical emergency. If you’re in crisis and need to talk with someone now, call the [Veterans Crisis Line.](link) To speak with a VA health care team member right away, contact your local VA call center.
+
+> `Action link` Compose message
+
+> `Search input` Search the Messages folder
+
+> `Sort input` Sort messages by
+   
+   `Sort options` 
+   > - Newest to oldest
+   > - Oldest to newest 
+   > - A to Z - Sender's name
+   > - Z to A - Sender's name
+
+> `Default content` Displaying 1-10 of 33 messages 
+
+> `List view`
+>
+>  Senders Last name, first name
+>  
+>  Catagory: Subject 
+>  
+>  Date, time
+
+>  `Example` 
+>  
+>  Dunwoody, Ann E. 
+>  
+>  [Test: Your lab results](link) 
+>  
+>  August 1, 2022 at 1:32 p.m. ET
+
 
 #### Delete message from list
 #### Move message from list to another folder
