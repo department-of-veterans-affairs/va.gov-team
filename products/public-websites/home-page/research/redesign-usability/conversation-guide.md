@@ -61,7 +61,7 @@ Before we start, I want to go over a few things:
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or "Share URL" (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
