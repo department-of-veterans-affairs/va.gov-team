@@ -12,6 +12,7 @@ _*REMINDER: Needs to be GitHub Link not ZenHub link_
 - [FSR] Veteran entered compromise amount not seen on DMC Endpoint [#39033](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39033)
 - VBMS Letter Fix [#38770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38770)
 - [FSR] Spouse Income [#42429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42429)
+- [FSR] Electronic Signature Veteran Frustrations [#45052](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45052)
 
 </br>
 </br>
