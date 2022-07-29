@@ -4,7 +4,7 @@ July 28, 2022
 **Check out the [records discovery Mural!](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654869136822/fd8bebaa98bd723136ea04c71212d888f75f3c83?sender=megpeters0505) It has visuals of existing screens for medical records.** 
 
 ## Work so far on records
-**1) We created and tested concepts for a "Medical records" landing page on MHV on VA.gov:**
+**1) We created and tested concepts for a "Medical records" landing page on MHV on VA.gov.** (Note that the Messages landing page design is outdated.)
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false)
 
