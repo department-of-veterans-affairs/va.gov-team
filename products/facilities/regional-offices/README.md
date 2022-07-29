@@ -35,7 +35,7 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 We need to reach parity with our new Regional Office/benefits products so we can turn off all the old sites.
 
 - Regional Office website: https://www.benefits.va.gov/ROWINSTONSALEM/index.asp
-- Facility Locator RO facility detail page: https://www.va.gov/find-locations/facility/vc_0201V
+- Facility Locator RO facility detail page: https://www.va.gov/find-locations/facility/vba_318
 - Facility Locator benefits facility detail page: https://www.va.gov/find-locations/facility/vba_318c
 
 
