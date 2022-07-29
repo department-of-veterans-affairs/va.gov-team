@@ -83,7 +83,7 @@ This content is our 2nd top priority for translation. It includes these 3 types 
 - Content that explains how to get access to language assistance (such as how to get an interpreter by phone or in person)
 - Content about the IRS 1095-B form from VA
 
-### Priority 2: Vital benefit content for initial benefit access
+### Priority 3: Vital benefit content for initial benefit access
 
 This content is our 2nd top priority for translation. It includes this content for each benefit:
 
@@ -92,7 +92,7 @@ This content is our 2nd top priority for translation. It includes this content f
 
 Refer to the next section for how we're prioritizing content by benefit.
 
-### Priority 3: Select, high-value vital benefit content for fully accessing and managing benefits, with an emphasis on content that requires a response from the Veteran or family member
+### Priority 4: Select, high-value vital benefit content for fully accessing and managing benefits, with an emphasis on content that requires a response from the Veteran or family member
 
 This content includes select additional benefit content that meets either of these criteria:
 
