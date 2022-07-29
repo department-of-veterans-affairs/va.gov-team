@@ -638,8 +638,8 @@ This assumes we have what we need to get started:
 
 **Design - Liz**
 
-- Initial mockups of the 1095B preference
-- Initial mockup of "you have changed your prefernce" email
+- Initial mockups of the 1095B preference [Ticket is #45073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45073)
+- Initial mockup of "you have changed your preference" email
 - Work with content for both notification preferences mockup and confirmation email
 - Get initial mockups/content to 1095B team for review with their legal team
 
