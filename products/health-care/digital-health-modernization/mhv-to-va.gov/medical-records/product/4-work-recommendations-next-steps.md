@@ -8,7 +8,7 @@ July 28, 2022
 - [Desktop prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/44472CCE-CE14-4CED-9B07-E87CFED3EFE6)
 - [Mobile prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/prototype/a/0F31920D-6FE8-4239-8207-3F129FCEA6E4?hotspots=false)
 
-Read our [research findings related to records.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/background-research.md) (See "Research related to records" section at bottom of page).
+Read our [research findings related to records.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/1-background-research.md) (See "Research related to records" section at bottom of page).
 
 **2) We've met with these partners, stakeholders, and subject-matter experts and incorporated learnings from them in Github and Mural:**
 - My HealtheVet designers (Arienne Walters, Bobby Bailey) - July 14
