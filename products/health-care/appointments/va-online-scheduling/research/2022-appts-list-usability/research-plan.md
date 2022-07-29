@@ -127,7 +127,17 @@ Screenreader users: [TBD - may cut screenreader portion]
 
 **Secondary criteria:**
 
-[TODO add demographic screening criteria - Ciera to fill out]
+- Varied genders
+- Varied ethnicities
+- At least one person from the following age bracket for each group: 
+  -  18-30
+  -  31-50
+  -  50+.
+- (Screen Reader Only) At least one participant with limited/no sight and comfortable using a screen reader.
+
+Recruitment We will ask for Perigean support in recruiting and taking notes.
+
+
 
 Timeline
 --------
