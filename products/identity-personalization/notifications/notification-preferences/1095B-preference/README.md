@@ -49,7 +49,9 @@ There are some pros and cons to this:
 
 - How is data coming back to us?
 - Is email the channel we'll get back from VA Profile?
+  - **Answer**: We have two options with permissions model: one is that we bifurcate the permission to send the email from that of the permission of sending mail. The alternative option is to make the channel email and have one permission instead of two. Text on the UI would describe to the veteran what is happening.
 - VA Profile has slated 4 weeks of development time. Are there other changes we should be aware of that may affect our implementation?
+  - **Answer**: The VA Profile 4 week estimate was based on standing up a single communication permission and needing to push that information over to enrollment (single direction). So, from a VA.gov perspective, it should be quick. The heavy lifting VA Profile would have to do would be on the enrollment services side.
 
 ### For 1095B team
 
