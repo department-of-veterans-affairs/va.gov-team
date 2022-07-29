@@ -20,4 +20,27 @@
      - Outage windows (DTC oudowntimes) can be 1-2 hours at most
 
 - Metrics review
-- 
+- Submission Page Content
+     - In the content revision, we outline that the CSP will respond via the email address provided
+          - Will an email go to each person who provided an email address? (Veteran and Caregiver(s))
+               - **ANSWER**: Yes, and email will go out to each email address provided
+          - Is anyone contacted via phone or paper mail if there is no email address for that person?
+               - **ANSWER**: Email is sent to any email addresses provided.  Anyone else on the application who did not provide an email address will be contacted via phone or paper mail.  It is not consistent between sites on whether these people will be contacted by a priority channel (example: strictly by phone, then paper mail, or vice versa).  "They will be contacted" but the CG team did not want to specify how.
+
+
+Below is the Meeting Notes, action items marked in yellow;
+
+VA.gov testing environments - Staging and Dev
+Both connect to MPI
+DEV = lower
+Staging = MPI ISQA
+Dev = MPI INT
+AI Ranga and Ruman to work with DTC to align the testing environments between Salesforce, VA.gov and MPI. Their Dev to our SIT so MPI environments line up
+AI Caitlin and Tham to adjust schedule for 2 testing environments
+Release to prod
+VA Notify go first whenever, VA.gov go second close to Mulesoft Queue, and no Salesforce to prod
+ 
+
+ If catastrophic and VA.gov cannot submit
+Retrieve the PDF of application. Email CSP in an encrypted email
+AI - Heather to share Catastrophic plan when drafted
