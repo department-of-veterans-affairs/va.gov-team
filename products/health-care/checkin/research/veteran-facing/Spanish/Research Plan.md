@@ -68,7 +68,9 @@ We will use a lean maximum variation inclusive research strategy.
 
 Primary criteria (must-haves) 
  
-12 participants (for a minimum of 8 completed sessions)
+18 participants in total, 9 for each part. (for a minimum of 10 completed sessions in total)
+ 
+Participants must:
 - Participants must be a Veteran or the family member or family caregiver of a Veteran.
 - We’d like a minimum of 8 veteran participants.
 - Participants must speak Spanish and a reasonable level of English proficiency. 
@@ -77,8 +79,8 @@ How well [do you/does your family member or caregiver] speak English?
      - Not well (Disqualify)
      - Well (Qualify)
      - Very well (Qualify)
-- At least 1 person who doesn’t have a college degree (to include enlisted Veterans)
-- At least 1 person who has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+- At least 2 person who doesn’t have a college degree (to include enlisted Veterans)
+- At least 2 person who has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 - Participants must be willing to complete the study via a mobile device.
 
 Secondary criteria (would like to have) 
@@ -97,26 +99,22 @@ Secondary criteria (would like to have)
 ## Team Roles	
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. 
-- Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Nira Datta (nira.datta@civicactions.com)
-- Research guide writing and task development: Kristen McConnell and Nira Datta
+- Moderator: Ya-chin Tsao <Add email>   and Nira Datta (nira.datta@civicactions.com)
+- Research guide writing and task development: Nira Datta and Ya-ching Tsao
 - Participant recruiting & screening: Perigean
 - Project point of contact: Corey Parker (jparker@governmentcio.com)
 - Participant(s) for pilot test: Julie Adair (julie.adair@agile6.com)
 - Note-takers: Perigean
 - Observers:
-     - Corey Parker (jparker@governmentcio.com)
-     - Dillo Raju (draju@governmentcio.com)
-     - Mark Dewey (mdewey@governmentcio.com)
-     - Stephen Barrs (Stephen.Barrs@va.gov)
-     - Julie Adair (julie.adair@agile6.com)
-     - Danielle Johnson (Danielle.Johnson13@va.gov)
-     - Martha Wilkes (Martha.Wilkes@va.gov)
-     - Eva Floyd (eva.floyd@agile6.com)
-     - Ya-ching Tsao (yaching.tsao@civicactions.com)
-     - Zach Park (zach.park@agile6.com)
-     - Gaurav Gupta (ggupta@kindsys.us)
-     - KanchanaDevi Suriyamoorthy (ksuriyamoorthy@kindsys.us)
-     - Sarah Knopp (sarah.knopp@agile6.com)
+	- Stephen Barrs (Stephen.Barrs@va.gov)
+	- Martha Wilkes (Martha.Wilkes@va.gov)
+	-Zach Park (zach.park@agile6.com)
+	- Gaurav Gupta (ggupta@kindsys.us)
+	- KanchanaDevi Suriyamoorthy (ksuriyamoorthy@kindsys.us)
+	- Sarah Knopp (sarah.knopp@agile6.com)
+	- Adrian Rollett (adrian.rollett@agile6.com)
+	- Bethany Dunfield (bethany.dunfield@civicactions.com)
+	- Brian Seek (brian.seek@civicactions.com)
 
 
 ## Resources
