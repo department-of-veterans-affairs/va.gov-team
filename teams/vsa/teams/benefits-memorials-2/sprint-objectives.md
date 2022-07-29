@@ -12,7 +12,8 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 | Sprint |Priorities  |Points Planned| Points Accomplished|
 |--|--|--|--|
-| 78 (Jul 13- Jul 26) |[#44250](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/44250)|TBD points over TBD issues| TBD points over TBD issues|
+| 79 (Jul 27 - Aug 9) |[#45009](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/45009)|32 points over 9 issues| TBD points over TBD issues|
+| 78 (Jul 13- Jul 26) |[#44250](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/44250)|43 points over 12 issues| 44 points over 13 issues|
 | 77 (Jun 29- Jul 12) |[#43780](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/43780) |53 points over 13 issues| 70 points over 20 issues|
 | 76 (Jun 15 - Jun 28) |[#43336](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/43336)   |43 points over 12 issues| 43 points over 12 issues|
 |75 (Jun 1 - Jun 14, 2022)|[#42145](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/42145)|58 points over 17 issues|64 points over 19 issues|
