@@ -56,6 +56,7 @@ Engage Joshua Faulkner/Enrollment System team for testing new features before go
 ### 10-10EZ Schema information
 
 **States list for drop-downs**
+
 The state list in the schema is supposed to be what the 10-10ez accepts
 - Currently (as of 7/2022), the Enrollment System can only accept the 50 US States, Washington DC and 'Other'
      - "Washington DC" translates to state code "DC" in the backend
