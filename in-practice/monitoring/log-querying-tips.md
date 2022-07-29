@@ -5,7 +5,13 @@ title: Tips and tricks for examining logs in various monitoring tools
 
 # Loki LogQL
 
+Loki's [LogQL docs](https://grafana.com/docs/loki/latest/logql/) provide solid information on how to write queries. Below are some snippets that can be useful when searching Va.gov logs.
+
+Most of the samples below are expressions that need to be combined with other expressions. Check out [Put the pieces together](#put-the-pieces-together) for an example that combines multiple expressions
+
 ## Query the vets-api-server and vets-api-worker JSON logs
+
+The first step in examining logs is selecting which application(s) you wish to view logs for:
 
 ```
 {app=~"vets-api-.+", filename=~".+json.log"}
@@ -45,7 +51,7 @@ Since there may be JSON parsing errors, we can exclude them:
 __error__ != "JSONParserErr"
 ```
 
-## Put the pieces so far together
+## Put the pieces together
 
 ```
 {app=~"vets-api-.+", filename=~".+json.log"}
@@ -85,9 +91,9 @@ level !~ "(debug|info)"
     | line_format "{{.application}} ; {{.host}} ; {{.level}} ; {{.message | trunc 60 }}"
 ```
 
-## Sometimes a simple search is good, too
+## Search for text in a line early
 
-If you're searching for text in logs, you can do so with a [line filter expression](https://grafana.com/docs/loki/latest/logql/log_queries/#line-filter-expression). To look for log entries that mention Ruby's NilClass, you can add a line filter like `|= "NilClass"` near the beginning of your query:
+If you're searching for text in logs, you can do so with a [line filter expression](https://grafana.com/docs/loki/latest/logql/log_queries/#line-filter-expression). For example, if you wanted to look for log entries that mention Ruby's NilClass, you can add a line filter like `|= "NilClass"` near the beginning of your query:
 
 ```
 {app=~"vets-api-.+", filename=~".+json.log"}
