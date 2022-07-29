@@ -140,6 +140,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - `H3`
 - `etc...`
 
+<hr>
+
 ### Secure messages - Auth with health care (inbox)
 #### Default view
 - [Desktop Mockup](link)
@@ -180,10 +182,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 >  
 >  August 1, 2022 at 1:32 p.m. ET
 
-
-#### Delete message from list
-#### Move message from list to another folder
-#### Sort/filter list
+<hr>
 
 ### Message detail
 #### Default view
