@@ -640,7 +640,7 @@ This assumes we have what we need to get started:
 
 - Initial mockups of the 1095B preference [Ticket is #45073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45073)
 - Initial mockup of "you have changed your preference" email [Ticket is #45074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45074)
-- Work with content for both notification preferences mockup and confirmation email
+- Work with content for both notification preferences mockup and confirmation email -- Not sure if this needs a separate ticket from the ones already created.
 - Get initial mockups/content to 1095B team for review with their legal team
 
 ### Notification preferences: MHV preferences
