@@ -8,7 +8,7 @@ Mission: Make it easier for Veterans and Caregivers to apply for, track, and man
 
 ## Slack Channels
 
-- [vsa-caregiver](https://slack.com/app_redirect?channel=CMJ2V70UV)
+- [1010-health-apps](https://dsva.slack.com/archives/CMJ2V70UV)
 
 ## Approval Groups
 
@@ -20,7 +20,7 @@ Mission: Make it easier for Veterans and Caregivers to apply for, track, and man
 - [Sketch File](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6)
 - [Content Source or Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/10-10EZ-application-copy.md)
 - [Project Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application)
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Good to knows
 
@@ -46,11 +46,22 @@ Not sure what Vets-API endpoints are used.
 
 ### Feature toggles
 
-Wwe have a feature toggle for multiple address field, `multiple_address_10_10ez`, Its currently enabled in all environments.
+We have a feature toggle for multiple address field, `multiple_address_10_10ez`, Its currently enabled in all environments.
 
 ### How to test new features?
 
 Each feature should have unit tests and e2e tests. We can use the Review Instances to review before merging a PR.
+Engage Joshua Faulkner/Enrollment System team for testing new features before going live.  Our staging is connected to the ES pre-prod environment.
+
+### 10-10EZ Schema information
+
+**States list for drop-downs**
+The state list in the schema is supposed to be what the 10-10ez accepts
+- Currently (as of 7/2022), the Enrollment System can only accept the 50 US States, Washington DC and 'Other'
+     - "Washington DC" translates to state code "DC" in the backend
+     - "Other" translates to state code "FG" in the backend to signify a foreign country, province or other location that is not the 50 US states & DC
+- Any other values should be put in another schema. 
+- The Enrollment system may have future work to expand the acceptance of other countries/provinces/regions, however this is not yet in place
 
 ### Useful acronym and terms
 
