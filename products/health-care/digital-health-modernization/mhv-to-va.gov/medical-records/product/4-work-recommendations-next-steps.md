@@ -83,6 +83,7 @@ The team should meet with the DHP product owner (Stefany Holguin) and also with 
 - Have Nancy Wilck and Theresa Hancock introduce you to the main partners, stakeholders, and subject-matter experts (SMEs).
 - Devise a meeting and communications strategy around the roles of the main partners, stakeholders, and SMEs. For example, you might meet with the main partners each week and with the stakeholders and SMEs less often, while sending email updates to the full list of main partners, stakeholders, and SMEs.
 - Get a full download of the data landscape and create a simple visual that shows it. (Tracey Mulrooney, Nancy Wilck, and Theresa Hancock can help with points of contact.)
+- Check out the Flagship Mobile Team's [draft discovery doc for labs and tests.](https://docs.google.com/document/d/1uCjgZ7vMNhb6khOm9RTMgWzRj01lWAiAtsfgzhxNydw/edit#heading=h.xl1b27wodwi9)
 - Look up past research related to medical records. Ask UXers from both VA.gov and My HealtheVet.
 - Read through the [records section on VA.gov.](https://www.va.gov/records/)
 - Read through the [medical records section in the VA.gov Health Care hub.](https://www.va.gov/health-care/get-medical-records/) 
