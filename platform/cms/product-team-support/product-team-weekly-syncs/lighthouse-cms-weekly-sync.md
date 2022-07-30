@@ -9,15 +9,23 @@
   - Migrations
     - From VAST
     - To Lighthouse
+  - Retiring VBA Facilities db, Making CMS source of truth
 - Regular participants: Dave Conlon, James Costa, Joshua Jennings, Steve Wirt, Adam Stilton, Roger Eagans, Kevin Walsh, Steve Wirt, David Shannon.
 
 </details>
 
 ## Monday, August 2, 2022
 
-* Heads up - VBA data, retiring "Sandy's database"
+* ATC modifications update
+* Flagging data during migration #9848
+* Blocked by V1 #8017 #4769 #4410 #4411
+* Retiring VBA Facilites db
   * "1-year out"
   * Be aware of the VBA Facilities effort and regularly update in this meeting 
+* Past issues
+  * Mobile facilities previous research:
+ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md
+  * Sync CMS data to sandbox; discuss on Steve's return
 
 
 ## Monday, July 25, 2022
@@ -38,7 +46,7 @@ LH team to determine path here, no longer show it as available, 15 new sites hav
  * ATC madness impacted v1 work - still working on providing solid date 
  * Josh setting up call with ATC, James will push fwd, 1/ get more insight 2/ addressing descrepancies in production data (Orthopaedics for instance)
 * Flagging data during migration - descrepancies - Jay? 9848 
- * in V1 LH is combining CMS and ATC - Dave C wants to know if a service is being pushed from CMS, and not reflected in ATC  
+  * in V1 LH is combining CMS and ATC - Dave C wants to know if a service is being pushed from CMS, and not reflected in ATC  
 
 ## Monday, July 18, 2022
 
