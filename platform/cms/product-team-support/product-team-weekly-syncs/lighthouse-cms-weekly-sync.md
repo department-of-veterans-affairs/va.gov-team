@@ -14,7 +14,7 @@
 
 </details>
 
-## Monday, August 2, 2022
+## Monday, August 1, 2022
 
 * ATC modifications update
 * Flagging data during migration #9848
