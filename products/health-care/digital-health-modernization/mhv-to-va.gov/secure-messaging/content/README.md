@@ -152,10 +152,10 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-> `H1` Messages
-
-> `Lead` When you send a message to your care team, it can take up to 3 business days to get a response. 
-
+> `H1` Messages 
+> 
+> `H2` Send and receive secure messages with your health care team and get replies within 3 business days. 
+> 
 > `Note` **Note:** Call [911](link) if you have a medical emergency. If you’re in crisis and need to talk with someone now, call the [Veterans Crisis Line.](link) To speak with a VA health care team member right away, contact your local VA call center.
 
 > `Action link` Compose message
@@ -164,7 +164,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 > `Sort input` Sort messages by
    
-   `Sort options` 
+> `Sort options` 
    > - Newest to oldest
    > - Oldest to newest 
    > - A to Z - Sender's name
@@ -187,6 +187,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 >  [Test: Your lab results](link) 
 >  
 >  August 1, 2022 at 1:32 p.m. ET
+>  [If > 10 messages] `Pagination` [highlighted 1 icon][link]  [2 icon][link]  Next[right arrow icon][link]
 
 <hr>
 
@@ -196,8 +197,8 @@ This is the default way a message detail loads after a user opts to open a messa
 - [Desktop Mockup]()
 - [Mobile Mockup]()
 - URL: *this is where the page URL will go once it's been decided*
-- `H1` Messages
-- `Link` < Previous `Link`Next >
+> `H1` Messages
+> `Link` < Previous `Link`Next >
   - [section]
     - [section header] [Message subject]  [reply arrow icon][link]Reply
     - From:
