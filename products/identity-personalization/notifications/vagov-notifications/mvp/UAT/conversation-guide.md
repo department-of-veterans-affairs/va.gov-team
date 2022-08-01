@@ -3,10 +3,10 @@
 - [ ] Make sure the notification has been triggered for the user by VA Notify
 
 ## Starting the session
-- _Ask any observers to turn their cameras off. Since this is internal, it's OK to let them in right away with or without names displayed.
-- _In the Attendees section, make sure everyone except the participant is on mute._
-- _Check your screensharing setup and share permissions for participants._
-- _When the participant is ready, begin the session with the following intro._
+- *Ask any observers to turn their cameras off. Since this is internal, it's OK to let them in right away with or without names displayed.*
+- *In the Attendees section, make sure everyone except the participant is on mute.*
+- *Check your screensharing setup and share permissions for participants.*
+- *When the participant is ready, begin the session with the following intro.*
 
 ## Intro - 2 minutes
 
