@@ -35,12 +35,12 @@ Before we start, a few things I want to mention:
 *If notification is showing as expected, proceed with questions. If not, end the session and inform VA Notify PM (Melanie) that it was not showing in the user's account to troubleshoot*
 - Tell me what you see on this page and what's jumping out to you.
 - What would you act on first?
-- *If they do not mention notifications* Did you notice the Notifications section?
+- *(If they do not mention notifications)* Did you notice the Notifications section?
 - Why do you think you might come to have this notification showing in your account?
 - How important does it seem?
 - How would you take action on it?
-- *If the user has multiple notifications* Why do you think you have more than one notification with similar content? *Looking to see if the user assumes this is for multiple debts or multiple notifications for the same debt.*
-- *For screen reader users only* Is the notifications section placed where you would expect it to be on the page? Is the content read to you in the notification in a way that makes sense to you?
+- *(If the user has multiple notifications)* Why do you think you have more than one notification with similar content? *(Looking to see if the user assumes this is for multiple debts or multiple notifications for the same debt.)*
+- *(For screen reader users only)* Is the notifications section placed where you would expect it to be on the page? Is the content read to you in the notification in a way that makes sense to you?
 
 ## Thank-You and Closing
 
