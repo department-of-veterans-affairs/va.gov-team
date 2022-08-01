@@ -1,6 +1,7 @@
 # Conversation Guide for My VA Redirect UAT
 - [ ] Make sure dev team has turned on feature for user
 - [ ] Post in #feedback-backchannel
+- [ ] Make sure screen sharing is turned on for all participants
 
 ## Intro - 2 minutes
 Thanks for joining us today! My name is Liz and I also have a notetaker here. We've added a new feature to improve Veterans access to relevant updates and we want to test to make sure it’s working properly in your account.
