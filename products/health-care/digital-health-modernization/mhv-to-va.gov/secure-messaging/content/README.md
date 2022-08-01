@@ -93,15 +93,10 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-## Page Content Specs
-
-### Common Layouts / Components
+## Design System Components and Patterns
 [*Provide examples of standards that are used so you can refer back to them in the page sections below instead of having to create a mockup for every single state for every single page]
-#### Exceptions to standard tags, design system components
-  - H1 gets h2 styling for sizing
-  - H2s get h3 styling for sizing
-  - Etc...
-#### Design system components
+
+### Standard components
   - Use style rules from design system for html elements padding and margins
   - Use design system components and patterns
     -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
@@ -115,24 +110,24 @@ This page details the content used throughout the Secure Messaging tool on VA.go
       - Naming and labels ([design system documentation](https://design.va.gov/content-style-guide/naming-and-labels))
       - Etc...
 
-### Secure landing page - Unauth
-#### Default view
+### Exceptions to standard design system components, patterns
+  - H1 gets h2 styling for sizing
+  - H2s get h3 styling for sizing
+  - Etc...
+
+
+<hr>
+
+## Secure landing page - Unauth
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1` Messages
 
+<hr>
 
-### Secure landing page - Auth without health care
-#### Default view
-- [Desktop Mockup](link)
-- [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
-
-### Messages FAQ
-#### Default view
+## Secure landing page - Auth without health care
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
@@ -142,8 +137,19 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-### Secure messages - Auth with health care (inbox)
-#### Default view
+## Messages FAQ
+### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
+
+<hr>
+
+## Secure messages - Auth with health care (inbox)
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 > `H1` Messages
@@ -184,8 +190,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-### Message detail
-#### Default view
+## Message detail
+### Default view
 This is the default way a message detail loads after a user opts to open a message.
 - [Desktop Mockup]()
 - [Mobile Mockup]()
@@ -212,42 +218,42 @@ This is the default way a message detail loads after a user opts to open a messa
 
 <hr>
 
-#### View attachment
+### View attachment
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Move message
+### Move message
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Delete message
+### Delete message
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Print message
+### Print message
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Save attachment
+### Save attachment
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Delete message
+### Delete message
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Archive message
+### Archive message
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
-#### Navigate between messages
+### Navigate between messages
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 
 <hr>
 
-### Compose message
-#### Default view
+## Compose message
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
@@ -255,20 +261,20 @@ This is the default way a message detail loads after a user opts to open a messa
 - `H3`
 - `etc...`
 
-#### Choose a category
-#### Attach a file
-#### Attach file error
-#### Attach file confirmation
-#### Save as draft
-#### Auto-save as draft
-#### Modify contacts list
-#### Send confirmation
-#### Send error
+### Choose a category
+### Attach a file
+### Attach file error
+### Attach file confirmation
+### Save as draft
+### Auto-save as draft
+### Modify contacts list
+### Send confirmation
+### Send error
 
 <hr>
 
 ## Search messages
-#### Default view
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
@@ -276,17 +282,17 @@ This is the default way a message detail loads after a user opts to open a messa
 - `H3`
 - `etc...`
 
-#### Basic search
-#### Advanced search
-#### Search results page
-#### Delete messages from list
-#### Move messages from list to another folder
-#### Sort/filter list
+### Basic search
+### Advanced search
+### Search results page
+### Delete messages from list
+### Move messages from list to another folder
+### Sort/filter list
 
 <hr>
 
-### Sent Messages
-#### Default view
+## Sent Messages
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
@@ -294,63 +300,63 @@ This is the default way a message detail loads after a user opts to open a messa
 - `H3`
 - `etc...`
 
-#### Delete message from list
-#### Delete message confirmation
-#### Move message to folder
-#### Sort/filter list
+### Delete message from list
+### Delete message confirmation
+### Move message to folder
+### Sort/filter list
 
 <hr>
 
-### Drafts
-#### Default view
+## Drafts
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
 - `H1`
 - `H3`
 - `etc...`
-#### Delete message from list
-#### Delete message confirmation
-#### Sort/filter list
+### Delete message from list
+### Delete message confirmation
+### Sort/filter list
 
 <hr>
 
-### Deleted
-#### Default view
+## Deleted
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
 - `H1`
 - `H3`
 - `etc...`
-#### Delete message from list
-#### Delete message confirmation
-#### Move message to folder
-#### Sort/filter list
+### Delete message from list
+### Delete message confirmation
+### Move message to folder
+### Sort/filter list
 
 <hr>
 
-### Folders
-#### Default view
+## Folders
+### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
 - `H1`
 - `H1`
 - `H3`
 - `etc...`
-#### Create folder
-#### Create folder error
-#### Rename folder
-#### Rename folder error (e.g., name already exists)
-#### Delete folder
-#### Empty folder
-#### Empty folder confirmation
-#### Manage folders
+### Create folder
+### Create folder error
+### Rename folder
+### Rename folder error (e.g., name already exists)
+### Delete folder
+### Empty folder
+### Empty folder confirmation
+### Manage folders
 
 <hr>
 
-### Preferences
-#### Contact list
-#### Notifications
-#### Display settings
-#### Signature settings
+## Preferences
+### Contact list
+### Notifications
+### Display settings
+### Signature settings
