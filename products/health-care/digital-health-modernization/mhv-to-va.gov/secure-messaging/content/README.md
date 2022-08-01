@@ -150,8 +150,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 ## Secure messages - Auth with health care (inbox)
 ### Default view
-- [Desktop Mockup](link)
-- [Mobile Mockup](link)
+- [Desktop Mockup](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/ZOmkGYJ)
+- [Mobile Mockup](No mockup found)
 > `H1` Messages 
 > 
 > `H2` Send and receive secure messages with your health care team and get replies within 3 business days. 
@@ -256,8 +256,9 @@ This is the default way a message detail loads after a user opts to open a messa
 ## Compose message
 ### Default view
 - [Desktop Mockup](link)
-- [Mobile Mockup](link)
-- `H1`
+- [Mobile Mockup](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/dlAOzon)
+- 
+- `H1` [Drop-down] In the Messages section [hamburger navigation]
 - `H1`
 - `H3`
 - `etc...`
