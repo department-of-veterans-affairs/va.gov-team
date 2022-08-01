@@ -167,11 +167,11 @@ All participants felt comfortable with observers and appreciated being asked for
 
 All but 3 participants said they felt more at ease after observers said hello.
 
--   One of these participants conveyed he did not know observers had joined and were waving because he couldn't see them on mobile. (Overall, multiple participants on mobile said they could not see anyone but the moderator - conveying that if they hadn't been told observers were joining, along with hearing audible hellos, they wouldn't have known any observers were there.)
-	- **Takeaway:** for this method, it's important that observers say audible hellos in case participants cannot see observers.
+-   One of these participants conveyed he did not know observers had joined and were waving because he couldn't see them on mobile. (Overall, multiple mobile users said they couldn't see anyone but the moderator. Without being told observers were joining, along with hearing some hellos, they wouldn't have known any observers were there.)
+	- **Takeaway:** for this method, it's important that observers say hello in case participants cannot see observers.
+	- **Takeaway:** This likely means that participants using mobile in any research study might not know there are observers unless we tell them - something to keep in mind for mobile research.
 -   For another one of these participants who did not feel at ease, this may have to do with only two observers being on the call, one of whom did not say hello.
 	- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
-	- **Takeaway:** This likely means that participants using mobile in any research session might not know there are observers unless we tell them - something to keep in mind for mobile research.
 
  > "More at ease since I could see it was one person and not a whole boardroom." - P9
 
