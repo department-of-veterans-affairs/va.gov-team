@@ -54,7 +54,8 @@ Before we look at the website, I'd like to get a little background information f
 Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder - it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
 - Send link to prototype in Zoom chat
-- Ask participant to share their screen
+- If user is on mobile, tell them to press the three dots that say "More" and then select Chat from the menu to access the link that was sent
+- Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu
 
 We will be looking at a prototype as a fictional logged in user, so the content may not apply directly to you, but I'd like to hear your thoughts on a scenario where we'll imagine that they do. We'll be looking at a prototype of My VA and talking about specific sections.
 
