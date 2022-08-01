@@ -29,3 +29,23 @@ Before we start, a few things I want to mention:
 ## Screenshare
 
 - I'll have you log in to VA.gov. We'll be starting today on the My VA page, so go ahead and click on My VA in the top right hand corner in the main navigation. Feel free to take a look at the page and then if you feel comfortable, share your screen with me.
+
+## Questions
+
+*If notification is showing as expected, proceed with questions. If not, end the session and inform VA Notify PM (Melanie) that it was not showing in the user's account to troubleshoot*
+- Tell me what you see on this page and what's jumping out to you.
+- What would you act on first?
+- *If they do not mention notifications* Did you notice the Notifications section?
+- Why do you think you might come to have this notification showing in your account?
+- How important does it seem?
+- How would you take action on it?
+- *If the user has multiple notifications* Why do you think you have more than one notification with similar content? *Looking to see if the user assumes this is for multiple debts or multiple notifications for the same debt.*
+- *For screen reader users only* Is the notifications section placed where you would expect it to be on the page? Is the content read to you in the notification in a way that makes sense to you?
+
+## Thank-You and Closing
+
+Thanks so much for taking the time to run through this with me, I really appreciate it. 
+
+Any questions before we sign off?
+
+Thank you so much again, and enjoy the rest of your day!
