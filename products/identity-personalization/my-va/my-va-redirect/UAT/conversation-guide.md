@@ -116,7 +116,7 @@ Is there anything confusing about this?
 - [ ] How did this align with participant expectations?
 - [ ] Anything confusing here?
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 3 minutes
 Thank you so much! That was everything I wanted you to review today. This has been really helpful for our team. Do you have any feedback on what we looked at today?
 * Do you have any questions for me?
 
