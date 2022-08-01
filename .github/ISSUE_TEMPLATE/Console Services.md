@@ -17,3 +17,7 @@ _What details are necessary for understanding the specific work or request track
 
 ## How to configure this issue
 - [ ] _Attach a Milestone_
+- [ ] _Story points_
+- [ ] _Sprint assigned if pulling into sprint_
+- [ ] _Epic assigned_
+- [ ] _Team label assigned_
