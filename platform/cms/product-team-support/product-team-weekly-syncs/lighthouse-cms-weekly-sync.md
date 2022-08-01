@@ -17,9 +17,12 @@
 ## Monday, August 1, 2022
 
 * Understanding VAST's model - 
-  * Facility hours vs clinical hours, "Open every other Saturday"
-  * VAST contact? 
+  * Priority 1 "Open every other Saturday", Longer tail facility hours vs clinical hours, 
+  * VAST contact? usually just a support ticket. Any contac? More on business side. James to look up name. Leonard? Overall, what are some gaps where VAST is not meeting the needs of VHA.  Adam doesn't see other hour fields, he does see "operational hours special instructions"
 * ATC modifications update
+  * Stable at this time, ATC has corrected duplicate issue, all facilities are populating off current data set! YAY!
+  * Have to investigate, (like mental health services, is there benefit to consuming  - rignt now we cosumg "Individual Mental Health")
+  * Impact surrounding Orthopaedics - was supposed to go away, but still exists - need to get more answers, if it is going away, then need to consult other data sources 
 * Flagging data during migration #9848
 * Blocked by V1 #8017 #4769 #4410 #4411
 * Retiring VBA Facilites db
