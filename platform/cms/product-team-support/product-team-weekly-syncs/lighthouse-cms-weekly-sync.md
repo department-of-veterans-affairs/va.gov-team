@@ -23,8 +23,21 @@
   * Stable at this time, ATC has corrected duplicate issue, all facilities are populating off current data set! YAY!
   * Have to investigate, (like mental health services, is there benefit to consuming  - rignt now we cosumg "Individual Mental Health")
   * Impact surrounding Orthopaedics - was supposed to go away, but still exists - need to get more answers, if it is going away, then need to consult other data sources 
+  * Use of ATC data - James and Dave to coordinate 
+* Sync CMS data to sandbox; discuss on Steve's return
+  * LH internal dicussions on desired behavior
+  * Historically sandbox data mirrors production
+  * What's the urgency? Does it need to be production? Can it be dummy data? Does LH want test data to be owned by CMS? If it has to be production, it is undesriable to clone from produciton to sandbox 
+  * The issue that surfaced this is testing FL for Covid Data because sandbox didnt have that data.Facilites team dev could do local push into environmnets
+  * it would be easiest for devs to trust that sandbox data is similar to prod - allows for sufficient testing of edge cases 
+  * Sample data seems to not meet the requirement
+  * Fastest approach , short term, Facility team populates it, even if one time for now. Pushing is time-consuming. Not urgent, can get by now that we know the limitations.  
+  * Joshua to revisit convo, it has been circulating, related to sandbox data with other teams 
+  * current state; Pull data daily from CMS, CMS data only goes to prod, not to sandbox.  As a potential sol'n - pull vs push - Swirt: code that limits push (block non-VHA facilities for Lovell) wouldnt be there to limit pull
 * Flagging data during migration #9848
 * Blocked by V1 #8017 #4769 #4410 #4411
+  * Need to be ready to receive all service data (not just a subset) - Johsua to circle back with Adam - may be close to ready - as part of v1 (not post)
+  * CAPS data - post V1 - The Next Thing - new cap'n endpoint 
 * Retiring VBA Facilites db
   * "1-year out"
   * Be aware of the VBA Facilities effort and regularly update in this meeting 
