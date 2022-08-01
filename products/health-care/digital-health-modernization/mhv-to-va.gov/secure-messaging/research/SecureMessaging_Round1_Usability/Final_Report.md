@@ -1,12 +1,12 @@
-# MHV on VA.gov Round 2 Usability Research Findings 
+# Secure Messaging Round 1 Usability Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), MHV on VA.gov, Health Modernization Initiative Team**
 
-Date: 05/14/2022
+Date: 08/01/2022
 
 Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
-[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/MHV%20to%20VA.gov%20Round%202%20Usability%20Readout.pdf)
+[Research Report PDF]()
 
 <br>
 
@@ -25,12 +25,11 @@ Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
 # Research Goals
 
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Participants to access their health information. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like on mobile devices, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-Participants-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021 and our [Round 1 testing with a desktop prototype]( ), conducted in March 2022. 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Participants to access their health information. As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what Secure Messaging on VA.gov could look like on mobile and desktop devices, which we are testing as part of this research. This study will build off of the results of our [MHV on VA.gov Round 1 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round1_Usability/Final_report.md), conducted in April 2022 and our [MHV on VA.gov Round 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability/Final_Report.md), conducted in June 2022. 
 
 The goals of this study are to:
-- Determine if participants understand the concept of MHV on VA.gov as a centralized place to access healthcare
-- Identify major usability or content issues with our current concept of replatforming MHV on VA.gov 
-- Evaluate if participants are able to use the current prototype on a mobile device (currently 50% of users access MHV from a mobile device)
+- Identify major usability or content issues with the current Secure Messaging concept
+- Understand how Veterans use Secure Messagin
 
 ### OCTO Objectives 
 
@@ -51,17 +50,15 @@ This research fits into these points of a Participant's Journey:
 # Research Questions
 
 This research will help us answer:
-- Will participants understand the concept of a centralized place for their healthcare as shown in this design? 
-- How would Participants expect to get to the healthcare information?
-- What would they expect to see in their My Health landing page if they were logged in? Not logged in?
-- Will participants be able to accomplish the main health tasks related to appointments, secure messaging, pharmacy, and medical records with this design?
-- What is the participant perception of how the health apartment would fit into how they manage their health at the VA?
-- Can participants smoothly use the proposed navigation for MHV on a mobile device?
+- Based on the prototype, do Veterans understand not to use secure messaging for emergencies? What would they do in an emergency?
+- How do Veterans find and organize their messages?
+- Are Veterans able to compose and reply to messages?
+- Do they understand who they are corresponding with?
 
 
 # Methodology 
 
-We conducted eleven remote hour-long moderated usability studies using a high fidelity Sketch prototype. This round of research focused on the mobile experience. 
+We conducted nineteen remote hour-long moderated usability studies using a high fidelity Sketch prototype. This round of research included both the mobile and desktop experiences. 
 
 
 # Hypotheses and Conclusions
