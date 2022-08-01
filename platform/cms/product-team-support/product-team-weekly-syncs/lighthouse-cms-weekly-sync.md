@@ -16,6 +16,9 @@
 
 ## Monday, August 1, 2022
 
+* Understanding VAST's model - 
+  * Facility hours vs clinical hours, "Open every other Saturday"
+  * VAST contact? 
 * ATC modifications update
 * Flagging data during migration #9848
 * Blocked by V1 #8017 #4769 #4410 #4411
