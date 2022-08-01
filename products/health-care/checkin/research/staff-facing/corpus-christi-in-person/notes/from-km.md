@@ -800,3 +800,93 @@ The kiosks are this location are currently used for:
   - The 20-somethings get it - some of them (they have about 10 a day).
   - One MSA just think that it is going to take time. "They originally pushed back with the kiosk."
     - Estimated that it took ~6 months for the kiosk complaints to die down.
+- Researcher: How often do you have to engage with a Veteran about check-in?
+  - Sometimes sends them to MHV coordinator to answer questions. This same MSA also said that they show Vets flyers about PCI to take home.
+  - The hardest part that Veterans need help with is scanning. "They aren't used to it."
+  - MSA3. The hardest part if encouraging them to do it. Younger vets are more phrone to try.
+- Researcher: What would you change?
+  - MSA 1. Clearer information on phone about steps or have less steps that would be beneficial
+  - MSA 3. Going through the process to get an error isn't great. Would want to let them know sooner.
+- MSA like large touch screen at the social securityo office. Asks why VA couldn't do something like that.
+- Check-in NPS:
+  - 5
+  - 6/5 (depends upon the demographic)
+  - 7 (took awhile to get used to telemed appointments. Thinks this is the same.)
+  - 4
+- Pre-check-in
+  - doesn't seem like a lot did it, because they seem to have to deal with staff anyway
+  - less than half do
+  - today 3 out of 20 in the morning did check-in on their phone 
+  - NPS:
+    - 5
+    - 4
+    - 4
+    - 4
+  - There is confusiiong between pre-check-in and check-in. Veterans are in a rush.
+    - Veterans that use public transportation that are late due to the bus, so they are in a rush.
+  - In mental health, probably even less use it.
+- Cancelled appts
+  - Too often. Cancels all the time. Cancels due to providers being out or scheduling changes.
+  - Sometimes they cancel for in advance
+  - Some Veterans have to be rescheduled again and again.
+  - Alot of appointments are canceled on short term notice.
+  - They call to notify the Veteran, but sometimes the Veterans is already driving to the facility and it is canceled.
+  - One time a doctor put their notice in LEAF (it sounded like they said this, but I haven't heard of this before) and the supervisor didn't see it.
+  - Canceling on short notice has happened a lot recently, but last month was good.
+  - VeText lets Vets know if it is far enough out.
+  - They make 2 calls, then send a letter. (Behavioral health was recently doing 1 call and a letter0
+  - A lot they get a hold of during the first call to reschedule.
+- Travel pay
+  - They can do it on the kiosk at check-in or with an MSA after the appointment is completed.
+  - The don't really have to refer Veterans to call the travel office that much.
+  - Wants travel pay done with checkin.
+- One MSA only ever used VSE-GUI, so doesn't know much as transition from VetLink over.
+- One MSA still uses VetLink to update infomration. They haven't tried in VSE yet. LetLink is all in one screen, so they don't have to open many windows.
+- Changes wanted to the system...Less steps, bigger fonts, clear what the Veterans needs to complete.
+- Pre-check-in is confusing
+- Training happened on Friday before the Monday launch.
+  - This was not enough time to prepare.
+
+#### 2 Behavioral Health MSAs
+- Veterans don't know how to text or use phones.
+- Older ones don't want to deal with it.
+- They try to use the kiosk to check-in.
+- The ones that do use it, their information isn't up-to-date, so they have to see the MSA anyway. "It is a waste."
+- Tries to educate every single time.
+- More often than not they go up to the front to check-in.
+- This isn't too positive in their area.
+- Researcher: What would you change?
+  - Put kiosk back and take PCI away.
+- Pre-check-in
+  - Doesn't work at the time.
+  - The status says complete
+  - Confusiont between pre-check-in and checkin
+  - MSA calls people on list whether they are checked in or not.
+    - This help save clinical operations. 
+  - Rarely sees the status.
+  - Pre-check-in NPS: 3
+- Check-in NPS: 5
+- Impact of adding editing capabilities: Doesn't think that will ahve a big impact. They want to use the kiosk.
+- Cancelled appt
+  - Past couple of months - quite a few appts have been canceled due to providers leaving or being out sick.
+  - It can be the morning of and tkae up he majority of their day
+  - VVC appt can happen before MSAs get in, so the appt happen because they even know to cancel.
+  - Steps to cancel:
+    - Provider will tell the supervisor, who talks to the MSA. Sometimes the MSAs split up the lists of who needs to be called.
+    - They call, then send cancel letter.
+      - If they are able to reschedule the Veterans, then they send the rescheduled letter.
+- 2nd MSA
+  - PCI will be awesome. We just have an older population and it won't work for them. Most know how to send a text.
+  - Compares this to the kiosk. Everyone hated the kiosk at first, but now they hate that we are getting rid of it.
+  - Vetes don't know how to set up a new text. They tell Vets to go to their reminder text and send check in.
+- Providers can see if a Veteran checked in.
+- Bene travel
+  - I don't know when to do travel
+  - I don't know/when they are leaving?
+  - MSA will help Vets at the machine. They send Vets to the kiosk.
+  - Typical issues...think they can use the machine, but they can't
+  - If a Veteran has questions, they direct them to call the travel office.
+  - Not sure about travel pay and check-in - doesn't like it, but it may increase the number of Veterans that check-in and leave.
+- Researcher: What would you change?
+  - Don't use QR code
+  - Want to be able to edit
