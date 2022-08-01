@@ -171,6 +171,7 @@ All but 3 participants said they felt more at ease after observers said hello.
 	- **Takeaway:** for this method, it's important that observers say audible hellos in case participants cannot see observers.
 -   For another one of these participants who did not feel at ease, this may have to do with only two observers being on the call, one of whom did not say hello.
 	- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
+	- **Takeaway:** This likely means that participants using mobile in any research session might not know there are observers unless we tell them - something to keep in mind for mobile research.
 
  > "More at ease since I could see it was one person and not a whole boardroom." - P9
 
@@ -236,6 +237,7 @@ _Recommendation to move Confirm instructions to the smaller alert within an addi
 ### Observer Method:
 1. Make sure observers say audible hellos in case participants cannot see observers.
 2. Encourage all observers to do their best to participate and say hello to help eliminate awkwardness.
+3. During mobile research of any kind, make sure to inform participants of observers, as mobile users likely cannot see observers due to Zoom's mobile format and, therefore, may not know they are present unless told.
 
 Next Steps
 ==========
