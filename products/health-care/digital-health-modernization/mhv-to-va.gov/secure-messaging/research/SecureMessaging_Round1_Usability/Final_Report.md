@@ -166,30 +166,29 @@ We used Mural, Google Sheets, and Github to synthesize our findings.
 **Recruitment criteria**
 Our primary criteria was participants who do and do not have VA Healthcare, and who do and do not use MHV on their smartphone. We used a lean but representative approach for most criteria, but overrepresented participants with cognitive disabilities. Our goal was to ensure our designs worked with the participants most likely to have a difficult time interacting with a complex website. Our previous round had included fewer women than we had hoped so we overrepresented women in this round.  We also included a significant number of smart phone users as they would be most likely to use the website on their smart phones once it is released.
 
-We talked to **eleven participants**.
+We talked to **nineteen participants**.
 
 Audience segment:
-* Veterans: 11
+* Veterans: 19
 * Caregivers: 0 
 * Family members of a Veteran: 0 
 
 
 Gender:
-* Male:  6
+* Male:  14
 * Female: 5
 
 
 LGBTQ+:
-* Transgender: unknown
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: unknown
-* Gay, lesbian, or bisexual: 2
+* Transgender: check
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: check
+* Gay, lesbian, or bisexual: check
 
 
 Devices used during study: 
-Note, the moderator had to screen-share for one session due to technical issues. Also, some participants joined on their desktop computer but then viewed the prototype on their smart phone.
-* Desktop: 1
-* Tablet: 1
-* Smart phone: 9
+* Desktop: 9 (One participant had technical difficulties with the desktop prototype so they viewed the desktop prototype on the moderator's screen.)
+* Mobile: 9
+* One participant started on the desktop prototype but lost their internet connection. They called back in on their mobile device and finished on mobile prototype.
 
 
 Age:
