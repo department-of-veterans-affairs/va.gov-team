@@ -34,9 +34,9 @@ High - Impact was high, as to the HEC staff being unable to manually register an
 |Update the Place of Birth list to reflect only the expected values that the 1010 needs|Online Health Apps team |[#45076](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45076)|
 |Update the ES Backend to receive empty Military Service information values|Joshua Faulkner |n/a|
 |Complete end to end testing in staging environment prior to launch|Joshua Faulkner/Online Health Apps team |[#45077](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45077)|
-|Release to Production starting with 5%, check in with HEC team|Online Health Apps team/Joshua Faulkner |n/a|
-|Conduct UAT with Veterans (including POB outside US)|Online Health Apps team |n/a|
-|Release increase to 25%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |n/a|
-|Release increase to 50%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |n/a|
-|Release increase to 75%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |n/a|
-|Release increase to 100%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |n/a|
+|Release to Production starting with 5%, check in with HEC team|Online Health Apps team/Joshua Faulkner |tbd|
+|Conduct UAT with Veterans (including POB outside US)|Online Health Apps team |tbd|
+|Release increase to 25%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
+|Release increase to 50%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
+|Release increase to 75%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
+|Release increase to 100%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
