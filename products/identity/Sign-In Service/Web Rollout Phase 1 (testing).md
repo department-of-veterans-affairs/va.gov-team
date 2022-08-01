@@ -63,8 +63,8 @@ If a user has a current SSOe session, we will not force the user to sign in with
 
 # Breakpoints 
 
-At each hour if the success (login) % is under 50%, we should pause/terminate the test
-900-1200 users an hour (10% of our hourly users) potential impact
+At each hour if the success (login) % is under 50%, we should pause/terminate the test. 
+
 
 # Test Plan
 **Test Start:**  
