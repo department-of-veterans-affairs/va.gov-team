@@ -21,12 +21,18 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 </details>     
 
 - Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See Current Automatic job retry library table below)**
-     - 1 minute after first failed response (example, not actual timing)
-     - X  later
-     - X  later
-     - X  later
-     - X  later
-     - X  later
+ |# | Next retry backoff | Total waiting time|
+ |---|-------------------|------------------|
+ 1 |       0d 0h 0m 20s |       0d 0h 0m 20s
+ 2 |       0d 0h 0m 26s |       0d 0h 0m 46s
+ 3 |       0d 0h 0m 46s |       0d 0h 1m 32s
+ 4 |       0d 0h 1m 56s |       0d 0h 3m 28s
+ 5 |       0d 0h 4m 56s |       0d 0h 8m 24s
+ 6 |      0d 0h 11m 10s |      0d 0h 19m 34s
+ 7 |      0d 0h 22m 26s |       0d 0h 42m 0s
+ 8 |      0d 0h 40m 56s |      0d 1h 22m 56s
+ 9 |       0d 1h 9m 16s |      0d 2h 32m 12s
+10 |      0d 1h 50m 26s |      0d 4h 22m 38s
 
 <details>
      <Summary>Current Automatic Job Retry library - Table for approximate retry waiting times</Summary>
