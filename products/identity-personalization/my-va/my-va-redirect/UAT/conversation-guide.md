@@ -71,9 +71,11 @@ Great! Tell me about where you’ve landed on the website.
 
 - Is there anything confusing about having logged in from the homepage and now seeing a page called My VA?
 
+- What would you do next from here?
+
 *If user is LOA1*
 - What can you do on this page?
-- What would you do from here?
+- What would you do next from here?
 - What would make this page more useful to you?
 
 ### Usability tasks
@@ -98,6 +100,10 @@ Thanks for sharing all of that. Now I’ll have you sign out.
 Now click on the payment history link under Disability.
 
 Go ahead and click the prompt to sign in, and sign in.
+
+**Pause recording during sign in**
+
+**Resume recording**
 
 How does that line up with your expectations?
 
