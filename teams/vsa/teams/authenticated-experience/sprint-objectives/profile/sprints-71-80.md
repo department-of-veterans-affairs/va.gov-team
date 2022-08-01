@@ -617,6 +617,7 @@ This assumes the VA Profile ICD is updated and we are given access permissions i
 ### PTO
 
 - Samara: August 12
+- Liz: August 10-12
 
 ### Personal information revisions
 
