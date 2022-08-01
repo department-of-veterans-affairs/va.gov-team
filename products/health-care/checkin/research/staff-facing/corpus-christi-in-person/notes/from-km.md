@@ -453,6 +453,8 @@ The kiosks are this location are currently used for:
 ### South Enterprize VA Clinic
 205 South Enterprize Parkway
 
+![SouthEnterprizeVAClinic-Layout](https://user-images.githubusercontent.com/66287082/182221851-b5737fb9-886e-4d49-b7b0-d86d38f6dcf3.jpg)
+
 #### Administrative Officier and MSA Supervisor
 - Older population who don't care for the system.
 - The security guards at the entrance help educate Veterans about PCI.
