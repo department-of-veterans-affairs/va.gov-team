@@ -233,7 +233,7 @@ The following recommendations center around revisiting and reorganizing content 
 ### Observer Method:
 1. Make sure observers say audible hellos in case participants cannot see observers.
 2. Encourage all observers to do their best to participate and say hello to help eliminate awkwardness.
-3. During mobile research of any kind, inform participants of observers, as mobile users likely cannot see observers due to Zoom's mobile format and, therefore, may not know they are present unless told.
+3. During mobile research of any kind, inform participants of observers, as mobile users likely can't see observers due to Zoom's mobile format and may not know they are present unless told.
 
 _Recommendation to move Confirm instructions to the smaller alert within an additional information dropdown_
 
