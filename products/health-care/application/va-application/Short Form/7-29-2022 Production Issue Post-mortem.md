@@ -40,3 +40,15 @@ High - Impact was high, as to the HEC staff being unable to manually register an
 |Release increase to 50%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
 |Release increase to 75%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
 |Release increase to 100%, check in with HEC team|Online Health Apps team/Joshua Faulkner  |tbd|
+
+#### Lessons Learned
+- All changes that impact data, data structure, and null/blank values are to be tested with any downstream systems that receive this information
+- Production release phases are to be more spread out, leaving room to watch for unknowns and issues
+- Both the Online Health Apps team and the downstream system teams will check in during the phases to ensure the release continues smoothly
+
+#### Future releases support
+- The Online Health Apps team will need to bake-in downstream testing, where we will need to have engagement from Joshua Faulkner & team
+
+#### Best Practices
+- Constant engagement with downstream systems during QA of any deployments that impact what data is sent and how it is sent
+- Smaller phased releases will span across 2+ weeks, depending on testing, check-ins and log monitoring
