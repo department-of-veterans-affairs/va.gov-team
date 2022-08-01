@@ -17,9 +17,7 @@ assignees: ''
 -
 
 ## Feedback
-- **Must** = the feedback must be applied
-- **Should** = the feedback is best practice
-- **Consider** = suggestions/enhancements
+- Practice areas will document their feedback following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback).
 
 **Must:**
 
