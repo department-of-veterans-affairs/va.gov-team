@@ -93,10 +93,10 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-## Design System Components and Patterns
+## Design Specifications
 [*Provide examples of standards that are used so you can refer back to them in the page sections below instead of having to create a mockup for every single state for every single page]
 
-### Standard components
+### Standard design system components, patterns
   - Use style rules from design system for html elements padding and margins
   - Use design system components and patterns
     -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
