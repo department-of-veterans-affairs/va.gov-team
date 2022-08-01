@@ -112,7 +112,7 @@ Observations:
   - They want to pull that information a week ahead of time.
   - They want to print out the pre-visit summary for pre-visit calls.
 - Routing sheets and pre-visit summary
-  - [Add image of the routing sheet]
+  - ![RoutingSheet](https://user-images.githubusercontent.com/66287082/182219119-f25fcf3e-d731-40be-aeb0-7172d9441797.jpg)
   - Want the Vet’s last labs to be pulled into the pre-visit summary
   - They don’t see a lot of value in the Veteran reviewing their med list prior to an appointment; they are just going to ask them to review it again.
   - Would like Veterans to answer/review Clinical Reminders in a pre-visit experience
