@@ -122,9 +122,9 @@ Thank you so much! That was everything I wanted you to review today. This has be
 
 ### Before we end this session, I have three additional questions for you about the study setup. I’ll ask the observers to leave the session at this time.
 [wait for observers to leave]
-1. Would you say that you were mostly nervous or mostly comfortable with having observers in this session?
-2. Sometimes we have the observers already in the session when you join, instead of how we did it today. When I asked you for consent  before the observers joined this session, did you appreciate that, or did you feel that was mostly unnecessary?
-3. Thinking about the brief introductions with the observers, did that make you more feel at ease with them listening in, or did it feel more awkward?
+1. How did you feel about having observers in this session?
+2. Sometimes we have the observers already in the session when you join, instead of how we did it today. How do you feel about being asked for consent before the observers joined this session?
+3. Thinking about the brief introductions with the observers, how did that make you feel?
 
 
 ## Thank-You and Closing - 1 minute
