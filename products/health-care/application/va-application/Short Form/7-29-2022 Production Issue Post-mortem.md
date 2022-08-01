@@ -25,8 +25,8 @@ Upon this report, the deployment for Short Form was rolled back. As of 1:53 PM E
 High - Impact was high, as to the HEC staff being unable to manually register any failures from the automatic process due to the Military Service information being blank.
 
 #### Ownership
-Online Health Apps team (10-10EZ)
-Joshua Faulkner/Enrollment System team
+- Online Health Apps team (10-10EZ)
+- Joshua Faulkner/Enrollment System team
 
 #### Action Items
 |Action	|Owner	|Ticket|
