@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/1/2022
+- Fix to prevent app from sending pre-check-in data without a session to improve accuracy of analytics. 
+    - [Ticket 44798](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44798)
+
 ### 7/30/2022
 - Bug fix to ensure Veterans are not prompted to check in for an appointment they already checked in to when they use their browser back button.
     - [Ticket 38166](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38166)
