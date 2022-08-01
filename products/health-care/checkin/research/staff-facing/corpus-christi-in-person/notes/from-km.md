@@ -6,7 +6,7 @@ Kristen McConnell’s Notes
 ### Corpus Christi VA Clinic
 5283 Old Brownsville Road
 
-[Diagram of MSA area from notebook]
+![CorpusChristiVAClinic-Layout](https://user-images.githubusercontent.com/66287082/182220372-8216f3db-179f-4993-a429-0f19bc053650.jpg)
 
 When you entered two security guards did a COVID screening. Immediately upon entering there is the check-in area and the only waiting room within the Outpatient clinic. There were 6 MSAs stationed within the waiting room. 3 oversaw check-in. 1 oversaw community care. 2 oversaw check-outs and scheduling next appointments, but they could also complete check-in. To the right when entering was a desk for one volunteer and the door to the VA police.
 
