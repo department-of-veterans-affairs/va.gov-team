@@ -223,21 +223,21 @@ The following recommendations center around revisiting and reorganizing content 
 1.  Consider revisiting the content included within the Contact information alerts to further simplify the text and avoid confusion surrounding the two pathways of Updating and Confirming an address
 	* Simplify content in the main Contact information alert as it is often overlooked
 	* Determine if it is best to further differentiate between the Personal info and Contact info main alerts OR if these alerts should be made exactly the same (with some participants assuming they were the same and not reading the second alert)
-	* Consider separating out the Confirm instructions from the primary Update instructions and relocating this information to the smaller alert in the mailing address field within an [additional information dropdown component](https://design.va.gov/components/additional-info#examples). This could help remove confusion surrounding the difference between Updating and Confirming an address by presenting the Confirm information only when needed and where participants are usually seeking this information. _Mockup below_
+	* Consider separating out the Confirm instructions from the primary Update instructions and relocating this information to the smaller alert in the mailing address field within an [additional information dropdown component](https://design.va.gov/components/additional-info#examples). This could help remove confusion surrounding the difference between Updating and Confirming an address by presenting the Confirm information only when needed and where participants are usually seeking this information. (_Mockup below_)
 	* List Confirm instructions in an easy-to-read format, such as bullet points, to more clearly convey this information
 	* Consider including more information around why a confirmation is needed - in response to participants saying they would not want to update and mess with their address if nothing was wrong with it
 3.  Change "Review your Address" to "Review your address" to match mockups
 4.  Consider changing the email format to all lowercase characters
-
-_Recommendation to move Confirm instructions to the smaller alert within an additional information dropdown_
-
-<img width="652" alt="Screen Shot 2022-07-26 at 3 04 10 PM" src="https://user-images.githubusercontent.com/79372956/181137047-30e6b195-7970-4c88-90ed-85e45bae1e8a.png">
 
 
 ### Observer Method:
 1. Make sure observers say audible hellos in case participants cannot see observers.
 2. Encourage all observers to do their best to participate and say hello to help eliminate awkwardness.
 3. During mobile research of any kind, make sure to inform participants of observers, as mobile users likely cannot see observers due to Zoom's mobile format and, therefore, may not know they are present unless told.
+
+_Recommendation to move Confirm instructions to the smaller alert within an additional information dropdown_
+
+<img width="652" alt="Screen Shot 2022-07-26 at 3 04 10 PM" src="https://user-images.githubusercontent.com/79372956/181137047-30e6b195-7970-4c88-90ed-85e45bae1e8a.png">
 
 Next Steps
 ==========
