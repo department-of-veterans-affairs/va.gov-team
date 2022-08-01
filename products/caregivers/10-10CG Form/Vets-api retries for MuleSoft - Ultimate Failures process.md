@@ -84,12 +84,10 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
      - Sreeni Komma
 
 
-- Upon receiving the alert, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  
+- Upon receiving the alert and determining that we have a catastrophic failure, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  This PDF will be emailed to **vha12cspcarmaehr@va.gov**, including the timestamp of the submission from VA.gov.
 
 
 - The 10-10 Health Apps team will post all updates in the **Slack Channel vecms-carma_vadotgov_development_external**.
-     - 10-10 Health Apps team to notify channel of alert being received, tagging the channel “@here”:
-     - 10-10 Health Apps team to notify of next step being taken
-     - 10-10 Health Apps team to update with step taken and any results
-     - 10-10 Health Apps team to request a contact to send the retrieved PDF application file(s).
+     - 10-10 Health Apps team to notify channel of alert being received, tagging the channel with “@here”
+     - 10-10 Health Apps team to notify audience of PDF being emailed to CSP at **vha12cspcarmaehr@va.gov**
      - 10-10 Health Apps team to assist with any triage to resolve failures causing retry expiration
