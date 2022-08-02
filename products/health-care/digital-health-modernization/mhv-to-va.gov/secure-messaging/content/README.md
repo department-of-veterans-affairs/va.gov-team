@@ -415,13 +415,44 @@ This is the default way a message detail loads after a user opts to open a messa
 <hr>
 
 ## Search messages
-### Default view
+### Default view (search results) 
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Search results
+
+> `Search input` You serached the "Messages" folder
+
+> `Link` Advanced search 
+
+> `Sort input` Sort messages by
+   
+> `Sort options` 
+   > - Newest to oldest
+   > - Oldest to newest 
+   > - A to Z - Sender's name
+   > - Z to A - Sender's name
+
+> `Default content` Displaying 1-10 of 33 messages 
+
+> `List view`
+>
+>  Senders Last name, first name
+>  
+>  Catagory: Subject 
+>  
+>  Date, time
+
+>  `Example` 
+>  
+>  Dunwoody, Ann E. 
+>  
+>  [Test: Your lab results](link) 
+>  
+>  August 1, 2022 at 1:32 p.m. ET <br>
+>  [If > 10 messages] `va-pagination, max 10 per pg` 
+
+<hr>
+
 
 ### Basic search
 ### Advanced search
