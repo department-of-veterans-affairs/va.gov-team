@@ -91,9 +91,11 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 #### Initiative Launch Dates
 - *Target Launch Date*
   - 4/7/2022
+  - 9/5/2022 - relaunch
 - *Actual Launch Date* 
   - 7/25/2022 - 5%
   - 7/27/2022 - 100%
+  - 7/29/2022 - 0% - disabled feature toggle due to production issue
 
 ---
    
