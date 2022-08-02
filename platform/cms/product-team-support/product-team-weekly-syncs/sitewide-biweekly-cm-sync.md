@@ -11,11 +11,7 @@
  - item
  </details>
  
- ## August 2, 2022
-
-### Agenda
-- Accelerated publishing
-- Plan for QA framework
+ THIS MEETING WAS DISCONTINUED IN JUNE 2022
 
 ## June 14, 2022
 
