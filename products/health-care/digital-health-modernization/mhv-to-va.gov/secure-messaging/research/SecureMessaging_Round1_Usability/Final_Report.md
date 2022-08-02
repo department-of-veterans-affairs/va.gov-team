@@ -180,9 +180,9 @@ Gender:
 
 
 LGBTQ+:
-* Transgender: check
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: check
-* Gay, lesbian, or bisexual: check
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
@@ -194,57 +194,63 @@ Devices used during study:
 Age:
 * 25-34: 0
 * 35-44: 3
-* 45-54: 0
-* 55-64: 5
-* 65+: 3
-* Unknown: 0
+* 45-54: 5
+* 55-64: 4
+* 65+: 6
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: 0
-* Some college (no degree): 3
+* High school degree or equivalent: 1
+* Some college (no degree): 1
 * Associate's degree, trade certificate or vocational training: 2
-* Bachelor's degree: 4
-* Master's degree: 2
-* Doctorate degree: 0
+* Bachelor's degree: 6
+* Master's degree: 7
+* Doctorate degree: 1
+* Professional degree: 1
 * Unknown: 0
 
 
 Geographic location:
-* Urban: 6
-* Rural: 5
+* Urban: 11
+* Rural: 8
 * Unknown: 0
 
 
 Race:
-* White: 4
-* Black: 0
-* Hispanic: 3
+* White: 15
+* Black: 4
+* Hispanic: 1
 * Biracial: 3
-* Asian: 1
-* Native: 0
+* Asian: 2
+* Native: 1 
 
 
-* Cognitive: 5
-* AT beginner: 1
-* AT advanced user: 1
-* Desktop screen reader: 1
-* Mobile screen reader: unknown
-* Magnification/Zoom: 2
+* Cognitive: 2
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-* Hearing aids: 2
+* Hearing aids: 0
 * Sighted keyboard: 0
 * Captions: 0
-* Dark mode: 1
-* Increased text size: 1
+* Dark mode: 0
+* Increased text size: 0
 
 
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Participant groups:
-* Black and Native veterans
-* Transgender and nonbianary veterans
-* Expat veterans
+* Veterans with a cognitive disability
+* Veterans without a degree
+* Veterans of immigrant origin
+* Expat Veterans
+* Hispanic Veterans
+* LGBTQ+ Veterans
+* Veterans who use Assistive Technology
 
 
-![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/RecruitmentTracker.png)
+
+![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability/Secure%20Messaging%20Usability%20Testing%20Round%201%20Recruitment%20Tracker.png)
