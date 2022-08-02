@@ -89,16 +89,23 @@ Method
 
 We'll run a moderated usability test on the appointments list redesign.
 
-This test will include 3 versions of the appointments list:
+This test will include 2 versions of the appointments list:
 -   Mobile
 -   Desktop
--   Screen-reader (TBD)
 
 ### Location
 
 Remote, over Zoom.
 
 ### Research materials
+
+For moderated desktop usability test 
+- [Conversation guide]
+- [Desktop Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
+
+For moderated desktop usability test 
+- [Conversation guide]
+- [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 
 Recruitment
 -----------
@@ -111,7 +118,7 @@ Perigean will recruit 15 total participants for this study. We will ask Perigean
 
 **Primary criteria**
 
-Please consider each of the following 3 groups as a separate recruitment effort.
+Please consider each of the following 2 groups as a separate recruitment effort.
 
 Desktop users:
 -  5 participants who primarily use a desktop/laptop computer.
@@ -121,20 +128,28 @@ Mobile users:
 -  5 participants who primarily use a tablet or other mobile device.
 -  All participants must be able to attend sessions on a mobile device.
 
-Screenreader users: [TBD - may cut screenreader portion]
--  5 participants who primarily use a screenreader.
--  All participants must be able to attend sessions while using a screenreader.
-
 **Secondary criteria:**
 
-- Varied genders
-- Varied ethnicities
-- At least one person from the following age bracket for each group: 
+Please consider each of the following 2 groups as a separate recruitment effort.
+
+Desktop users:
+- 2-3 identifying as female, 2-3 identifying as male
+- At least 2 underserved veterans
+- At least 1 LGBTQ+ veteran
+- At least one person from the following age bracket:
   -  18-30
   -  31-50
   -  50+.
-- (Screen Reader Only) At least one participant with limited/no sight and comfortable using a screen reader.
 
+Mobile users:
+- 2-3 identifying as female, 2-3 identifying as male
+- At least 2 underserved veterans
+- At least 1 LGBTQ+ veteran
+- At least one person from the following age bracket:
+  -  18-30
+  -  31-50
+  -  50+
+  
 Recruitment We will ask for Perigean support in recruiting and taking notes.
 
 
@@ -165,9 +180,9 @@ Team roles
 
 -   Moderator: Peter Russo and Ciera Maddox
 
--   Research guide writing and task development (usually but not always same as moderator):
+-   Research guide writing and task development (usually but not always same as moderator): Peter Russo and Ciera Maddox
 
--   Participant recruiting & screening:
+-   Participant recruiting & screening: 
 
 -   Project point of contact:
 
