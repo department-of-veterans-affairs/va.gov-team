@@ -1,27 +1,27 @@
 ---
 name: Authorized Experience Profile Phased Release Template
 about: Basic template for creating Authorized Experience Profile team phased releases using a feature flag
-title: Practice Area - Auth Profile - [Project] - [Issue Name]
-labels: needs-grooming, profile, vsa, sprint-planning, vsa-authenticated-exp
+title: Practice Area - Auth Profile - [Project] - [Project Name]
+labels: needs-grooming, profile, vsa, sprint-planning, vsa-authenticated-exp, sprint-planning
 assignees: ''
 
 ---
 
 ## Background
 
-Describe the issue background and scope
+Overview of the project and release
 
 ## Tasks
-- [ ] Add tasks here that must be completed
+
+- [ ] Update feature flags to make the feature visible in Production for xx% of users
+- [ ] Smoke test on Prod
+- [ ] Validate on Prod with PM and PO
 
 ## Acceptance Criteria
-- [ ] Add what must occur for this issue to be considered complete
 
-## How to configure this issue
-- Include practice area in title -- e.g., [Design], [FE], [BE]
-- Include project/initiative name - e.g., Auth Profile: Address Change Messaging
-- Add label for practice area (frontend, backend, design)
-- Add label for project if applicable
-- Assign to a Profile team member
-- Associate with an Epic if applicable
-- If creating for yourself: estimate work if enough info exists to do so
+- [ ] Feature flags updated to make changes visible in Production for xx% of users
+- [ ] Smoke tested on Prod
+- [ ] Validated on Prod with PM and PO
+
+
+
