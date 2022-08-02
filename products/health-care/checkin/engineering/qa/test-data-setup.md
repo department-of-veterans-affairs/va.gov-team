@@ -169,7 +169,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 **Station 500 and 530**
 
 | `patientDFN`  | Name | DoB | Assigned To |
-| --- | ------- | ---- | --- | ----------- |
+| ------------- | ---- | --- | ----------- |
 | 237 | One, Patient (renamed to Harris, Sheba in 500) | 1935-04-07 | Shane |
 | 205 | Two, Patient | 1935-04-07 | Rob  |
 | 25  | Three, Patient | 1935-04-07 | Paras |
