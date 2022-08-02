@@ -58,12 +58,12 @@
 
 **Key result**: Increase overall clicks into payment history and debt information by 10%.
 
-|KPI/metric|Baseline: Jan-Mar 2022|Post-launch: Week 1| Post-launch: Month 1|
+|KPI/metric|Baseline: Jan-Mar 2022|Post-launch: Week 1 (at 100%)| Post-launch at 100%: Month 1|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments [View your payment history](va.gov/va-payment-history/payments) | 8.5mil (visits to the url)|TBD URL visits, TBD URL visits orig from My VA|TBD URL visits, TBD URL visits orig from My VA|
-|Clicks to view all debts (You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt)| 560k|TBD|TBD|
-|Clicks to manage direct deposit ([Manage your direct deposit](va.gov/profile/direct-deposit))| 1.2mil|TBD|TBD|
-|Clicks to request travel reimbursement ([Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/))| 904k|TBD|TBD|
+|Clicks to view all payments (["View your payment history"](https://www.va.gov/va-payment-history) | 2.5mil (visits to the url)|130k URL visits, TBD URL visits orig from My VA|551k URL visits, TBD URL visits orig from My VA|
+|Clicks to view all debts (You have n oustanding debt payments. [Manage your VA debt](https://www.va.gov/manage-va-debt/your-debt))| 170k|TBD||
+|Clicks to manage direct deposit ([Manage your direct deposit](https://www.va.gov/profile/direct-deposit)) | 1.2mil|TBD|TBD|
+|Clicks to request travel reimbursement ([Request travel reimbursement](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/))| 904k|TBD|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
