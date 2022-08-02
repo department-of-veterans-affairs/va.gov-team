@@ -372,7 +372,7 @@ This is the default way a message detail loads after a user opts to open a messa
 >`H3` New message 
 > `Link` Send 
 
-> `Selector field label` To (Reuired) 
+> `Selector box label` To (Reuired) 
 
 > `Link` Edit list
 
@@ -453,8 +453,26 @@ This is the default way a message detail loads after a user opts to open a messa
 
 <hr>
 
-
 ### Basic search
+
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+> `H1` Search messages 
+
+> `field input` Enter keyword 
+
+> `Select box` Search in 
+   
+> `Select options` 
+   > 
+
+> `Default button` Search 
+
+> `Link` Or try the advanced search 
+
+
+
+<hr>
 ### Advanced search
 ### Search results page
 ### Delete messages from list
