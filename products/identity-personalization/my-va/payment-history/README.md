@@ -45,10 +45,10 @@ These stats are for the MVP effort to add payment and debt info to My VA.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Q3 2022| Post-launch: Q4 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("[View your payment history](va.gov/va-payment-history/payments)")| 2.5mil (visits to the url)|TBD|TBD|
-|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](va.gov/manage-va-debt/your-debt")| 158k|TBD|TBD|
-|Clicks to manage direct deposit ("[Manage your direct deposit](va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
-|Clicks to request travel reimbursement ("[Request travel reimbursement](va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
+|Clicks to view all payments ("[View your payment history](https://www.va.gov/va-payment-history/payments)")| 1.9 mil (visits to the url)|TBD|TBD|
+|Clicks to view all debts ("You have n oustanding debt payments. [Manage your VA debt](https://va.gov/manage-va-debt/your-debt")| 170k|TBD|TBD|
+|Clicks to manage direct deposit ("[Manage your direct deposit](https://va.gov/profile/direct-deposit)")| 1.2mil|TBD|TBD|
+|Clicks to request travel reimbursement ("[Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)")| 255k|TBD|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
