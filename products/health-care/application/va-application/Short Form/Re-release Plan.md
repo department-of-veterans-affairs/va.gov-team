@@ -4,6 +4,7 @@
 
 ### Planning
 - UAT Go / No Go: 08/29/2022
+- Planned release to 5% of applicants: 09/05/2022
   - Dates pending; waiting on confirmation from ES Team
 - Desired range or test duration: 09/05/2022 - 09/09/2022
   - Dates pending; waiting on confirmation from ES Team
@@ -40,6 +41,7 @@
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Phased Rollout
+- 5% of users (1 week): 09/05/2022
 - 25% of users (1 week): 09/19/2022 (based on positive results)
   - Dates pending; waiting on confirmation from ES Team
 - 50% of users (1 week): 09/26/2022 (based on positive results)
