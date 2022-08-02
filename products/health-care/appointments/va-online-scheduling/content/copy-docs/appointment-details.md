@@ -399,6 +399,7 @@ none
 
 **PAGE CONTENT**
 
+```
 Type of care: {Type of Care}
 
 VA Video Connect at home
