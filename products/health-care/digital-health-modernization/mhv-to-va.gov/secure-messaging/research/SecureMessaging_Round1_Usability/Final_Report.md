@@ -95,7 +95,7 @@ In case of an emergency eighteen said that they would call 911 or go to the emer
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-Most were current, regular users.
+Most of the participants who understood these things were current, regular secure messaging users.
 
 > I would expect that they are somewhere on my health care team, maybe my nurse, doctor, staff... . (P16, Veteran)
 
@@ -104,14 +104,14 @@ Most were current, regular users.
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-This matches the functionality currently in the prototype and in Secure Messaging. Other sorting options that participants mentioned included alphabetical by sender’s name (this was the other sorting option included in the prototype), alphabetical by subject and unread messages. 
+Viewing messages in time/date order matches the functionality currently in the prototype and in Secure Messaging. Other sorting options that participants mentioned included alphabetical by sender’s name (this was the other sorting option included in the prototype), alphabetical by subject and unread messages. 
 
 
 **4. Participants could find past messages but rarely mentioned the “Expand All Messages” link.**
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-In the screenshot you can see two links. The users frequently commented on the first link “Older messagesin this conversation” but not on the second “Expand All Messages” link.
+There are two links related to past messages. The users frequently commented on the first link “Older messages in this conversation” but not on the second “Expand All Messages” link.
 
 > I saw on the other page that there were x of 3 so I knew that there would be more . . . It's nice that they're right here. (P20, Veteran)
 
@@ -120,16 +120,16 @@ In the screenshot you can see two links. The users frequently commented on the f
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-Participants also mentioned that after sending a message they would like to go to the messages screen.  
+In addition to confirmation that their message had been sent, participants also mentioned that after sending a message they would like to go to the messages screen.  
 
-> pop and say "your message was successfully sent". (P3, Veteran) 
+> Something should pop up and say "Your message was successfully sent". (P3, Veteran) 
 
 
 **6. Participants thought that the messaging experience was simple, which was desirable.**
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-It was desirable because participants said that it was easy to use and easy to learn. They also understood that Secure Messaging would not be as fully featured as other messaging programs.
+The simple messaging experience was desirable because participants said that it was easy to use and easy to learn. They also understood that Secure Messaging would not be as fully featured as other messaging programs.
 
 > I'm not a technical wizard so if it's intuitive to me, Mr Joe Average Senior Citizen, it should be workable by just about everyone. (P8, Veteran)
 
