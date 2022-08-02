@@ -1,6 +1,6 @@
 ---
-name: Authorized Experience Profile New Issue Template
-about: Basic template for creating Authorized Experience Profile team issues
+name: Authorized Experience Profile Phased Release Template
+about: Basic template for creating Authorized Experience Profile team phased releases using a feature flag
 title: Practice Area - Auth Profile - [Project] - [Issue Name]
 labels: needs-grooming, profile, vsa, sprint-planning, vsa-authenticated-exp
 assignees: ''
