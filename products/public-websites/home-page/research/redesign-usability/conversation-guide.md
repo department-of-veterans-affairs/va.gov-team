@@ -101,7 +101,8 @@ I have a web page that I'd like you to look at while you're sharing your screen 
 
 While you're looking at the page, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3Ix90HN (3, upper case “i”, x, 90, HN)**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **http://bit.ly/3Ix90HN (3, upper case “i”, x, 90, HN)**
+- *(If dictate, skip the “http://” part)*
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
