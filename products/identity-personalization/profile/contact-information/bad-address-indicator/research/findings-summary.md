@@ -170,7 +170,7 @@ All but 3 participants said they felt more at ease after observers said hello.
 -   One of these participants did not answer this, citing that he did not know observers had joined and were waving because he couldn't see them on mobile. (Overall, 3 mobile users said they couldn't see anyone but the moderator, conveying that without being told observers were joining, along with hearing some hellos in the background, they wouldn't have known any observers were there.)
 	- **Takeaway:** for this method, it's important that observers say hello in case participants cannot see observers.
 	- **Takeaway:** This likely means that participants using mobile in any research study might not know there are observers unless we tell them - something to keep in mind for mobile research.
-- Another of these participants spent more time greeting observers than other participants, but said he found the hellos were unnecessary and slowed things down.
+- Another of these participants spent more time greeting observers than other participants, but later said he found the hellos were unnecessary and slowed things down.
 -   For another one of these participants who did not feel at ease, this may have to do with only two observers being on the call, one of whom did not say hello. None of the observers turned on their video.
 	- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
 
