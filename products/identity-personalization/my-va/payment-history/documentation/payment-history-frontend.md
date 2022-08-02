@@ -28,7 +28,7 @@ We show this section if a veteran has ever received payments or has any outstand
 
 #### **Content**
 
-You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-debt)
+You have [count] outstanding debts. [Manage your VA debt](https://www.va.gov/manage-va-debt/your-debt)
 
 ----
 ### User has no outstanding debt
@@ -77,7 +77,7 @@ We deposited [$$] in your account ending in [acct] on [date].
 
 Type: [paycheck type]
 
-[View your payment history](/va-payment-history/payments)
+[View your payment history](https://www.va.gov/va-payment-history/payments)
 
 ---
 
@@ -97,7 +97,7 @@ Use font awesome icon `dollar` for icon in link list
 
 #### Content
 
-[Manage your direct deposit](/profile/direct-deposit-information)
+[Manage your direct deposit](https://www.va.gov/profile/direct-deposit)
 
 ---
 
