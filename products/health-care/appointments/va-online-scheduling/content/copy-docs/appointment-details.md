@@ -399,9 +399,7 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+Type of care: {Type of Care}
 
 VA Video Connect at home
 
@@ -460,9 +458,7 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+Type of care: {Type of Care}
 
 VA Video Connect at home
 
@@ -498,9 +494,9 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
+
 
 VA Video Connect at home
 
@@ -532,9 +528,8 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect at a VA location
 
@@ -588,9 +583,8 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect at a VA location
 
@@ -634,9 +628,9 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
+
 
 VA Video Connect at a VA location
 
@@ -676,9 +670,8 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect using a VA device
 
@@ -727,9 +720,8 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 
 VA Video Connect using a VA device
@@ -766,9 +758,8 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect using a VA device
 
@@ -800,9 +791,8 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect at an ATLAS location
 You must join this video meeting from this ATLAS (non-VA) location:
@@ -856,9 +846,8 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect at an ATLAS location
 {Location address}
@@ -896,9 +885,8 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA Video Connect at an ATLAS location
 {Location address}
@@ -932,9 +920,8 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA appointment over the phone
 Someone from your VA facility will call you at your phone number on file at the appointment time.
@@ -986,9 +973,8 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA appointment over the phone
 {Facility name}
@@ -1034,9 +1020,8 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 VA appointment over the phone
 {Facility name}
@@ -1171,9 +1156,8 @@ none
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 Community care
 {Provider name}
@@ -1223,9 +1207,8 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 Community care
 {Provider name}
@@ -1267,9 +1250,8 @@ n/a
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of Care}
-@@ GH41492 @@
+```
+Type of care: {Type of Care}
 
 Community care
 {Provider name}
