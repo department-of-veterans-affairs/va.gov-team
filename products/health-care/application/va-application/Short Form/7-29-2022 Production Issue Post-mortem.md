@@ -36,7 +36,7 @@ High - Impact was high, as to the HEC staff being unable to manually register an
 |Create an integration Release Plan |Product Manager|Online Health Apps team |[#45164](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45164)|
 |Complete end to end testing in staging environment prior to launch|FrontEnd/Product|Joshua Faulkner/Online Health Apps team |[#45161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45161)|
 |Release to Production starting with 5%, check in with HEC team|FrontEnd/Product|Online Health Apps team/Joshua Faulkner |[#45167](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45167)|
-|Conduct UAT with Veterans (including POB outside US)|Research/FrontEnd/Product|Online Health Apps team |[#40087](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/40087)|
+|Conduct UAT with Veterans |Research/FrontEnd/Product|Online Health Apps team |[#40087](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/40087)|
 |Release increase to 25%, check in with HEC team|FrontEnd/Product|Online Health Apps team/Joshua Faulkner  |[#45172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45172)|
 |Release increase to 50%, check in with HEC team|FrontEnd/Product|Online Health Apps team/Joshua Faulkner  |[#45173](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45173)|
 |Release increase to 75%, check in with HEC team|FrontEnd/Product|Online Health Apps team/Joshua Faulkner  |[#45174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45174)|
