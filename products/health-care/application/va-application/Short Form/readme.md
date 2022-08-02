@@ -95,7 +95,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - *Actual Launch Date* 
   - 7/25/2022 - 5%
   - 7/27/2022 - 100%
-  - 7/29/2022 - 0% - disabled feature toggle due to production issue
+  - 7/29/2022 - 0% - disabled feature toggle due to [production issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form/7-29-22%20-%20Prod%20Issue%20with%20Short%20Form.md)
 
 ---
    
