@@ -138,10 +138,35 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Messages 
+> 
+> `Lead` Send and receive secure messages with your health care team and get replies within 3 business days. 
+> 
+> `H2` To send messages, you must be a VA patient
+
+> `Default body` And your VA provider must agree to communicate with you through secure messaging. VA health care covers primary care and specialist appointments, as well as services like home health and geriatric (elder) care. And VA offers family and caregiver health benefits.  
+
+> `Action link` Apply for health care
+
+> `Link` Learn about VA health benefits
+   
+> `H2` Use the Messages tool to send and receive messages with your care team
+   
+> `Default body` (Unknown)
+
+> You can message your care team about: 
+  > - (Unknown) 
+  > - (Unknown)   
+
+> `Link` How to use the Messages tool 
+
+> `H2` You can use the Messages tool if
+
+> `Default body` (Unknown) 
+
+> `H2` Questions? 
+
+> (Unknown) 
 
 <hr>
 
@@ -152,7 +177,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 - [Mobile Mockup](No mockup found)
 > `H1` Messages 
 > 
-> `H2` Send and receive secure messages with your health care team and get replies within 3 business days. 
+> `Lead` Send and receive secure messages with your health care team and get replies within 3 business days. 
 > 
 > `Note` **Note:** Call [911](link) if you have a medical emergency. If you’re in crisis and need to talk with someone now, call the [Veterans Crisis Line.](link) To speak with a VA health care team member right away, contact your local VA call center.
 
