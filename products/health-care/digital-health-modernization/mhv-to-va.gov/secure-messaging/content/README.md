@@ -331,9 +331,9 @@ This is the default way a message detail loads after a user opts to open a messa
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/dlAOzon)
-- 
-- `H1` [Drop-down] In the Messages section [hamburger-icon]
-  -   > [Messages](link)
+
+- `In this section component` [Drop-down] In the Messages section [hamburger-icon]
+    -   [Messages](link)
     -   [Compose](link)
     -   [Drafts](link)
     -   [Folders](link)
@@ -341,12 +341,69 @@ This is the default way a message detail loads after a user opts to open a messa
     -   [Deleted](link)
     -   [Search Messages](link)
     -   [Message FAQs](link)
-- `H1`
-- `H3`
-- `etc...`
+    
+> `H1`Compose message
 
-### Choose a category
-### Attach a file
+> `Body default` **Note:** Call [911](link) if you have a medical emergency. If you’re in crisis and need to talk with someone now, call the [Veterans Crisis Line.](link) To speak with a VA health care team member right away, contact your local VA call center.
+
+> `Additional info component` Before you send a message
+
+> `Additional info component expanded` 
+> 
+> With secure messaging, you can communicate online with your VA health care teams and staff. Use Secure Messaging to:
+> - ask a non-urgent, non-emergency question related to health 
+> - update your VA care team on your health condition
+> - request to schedule, cancel, or reschedule a VA appointment 
+> - ask for a referral from your VA provider
+> - request to renew a prescription that has expired 
+> 
+>The health care services below use secure messaging, but not all providers for these services use it. So check with your health care team before you .
+>try to send them a message.
+>
+> - Primary Care
+> - Specialty Medicine
+> -	Rehabilitative Medicine
+> - Prosthetics Services
+> - Surgical Care
+> - Mental Health
+> - Dentistry
+> - Some non-clinical programs and departments within Veterans Health Administration 
+
+>`H3` New message 
+> `Link` Send 
+
+> `Selector field label` To (Reuired) 
+
+> `Link` Edit list
+
+> `Default content` Category (required) 
+> 
+> [Radio] 
+>- **General:** Ask questions about non urgent non-emergency issues 
+>- **COVID:** Ask COVID related questions 
+>- **Appointment:** Request an appointment or ask about an existing appointment
+>- **Medication:** Request to renew a medication or ask a question about medication 
+>- **Test:** Ask a question about a test/lab result or about a future test or procedure
+>- **Education:** Request health education information
+
+> `Subject input' Subject (Required) 
+>
+> 'Mesage input' Message (Required) 
+
+>`Attachments`
+>
+> [Link] Attach files 
+> 
+> `Additional info component` How to attach a file 
+
+> `Additional info component expanded` 
+> (Unknown)
+
+> 'Primary button' Send 
+> 
+> 'Link" Save as draft
+
+
 ### Attach file error
 ### Attach file confirmation
 ### Save as draft
