@@ -20,7 +20,6 @@ Lauryl Zenobi(lauryl@adhocteam.us), Megan Graham(megan.graham@adhocteam.us)
 
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Final_report.md#who-we-talked-to)
 
-
 <br>
 
 # Research Goals
@@ -63,9 +62,11 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 
 # Hypotheses and Conclusions
 
-- Participants will easily understand the idea of a centralized place where they can access their VA healthcare information.
-	- *Mostly True*. Participants understood our prototype to be a centralized place to access their healthcare information, and some understood it would include their other non-healthcare benefits.
-- Participants will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care.
+- Participants would not use secure messaging in case of an emergency. They would seek immediate medical attention instead.
+	- *Definitely True*. Eighteen of the 19 participants said that they would call 911 or go to the emergency room in case of the emergency; 1 said that they would go to urgent care.
+- How do Veterans find and organize their messages?
+- Are Veterans able to compose and reply to messages?
+- Do they understand who they are corresponding with?
 	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
 - Participants will be able to accomplish a variety of health tasks as designed in this prototype.
 	- *Mostly True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
@@ -75,75 +76,91 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 
 # Key Findings
 
-1. Many participants (5/9) were able to successfully navigate from the primary  page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages. 
-
-2. Participants were able to successfully complete many basic health-related tasks.
-
-3. Participants were confused about certain terms, including "Pending," "Blue Button,” and “Adverse Reactions.”
-
-4. Participants did not find the pre-appointment paperwork under the "Pre-check in" link in the "In This Section" menu.
+1. Participants would not use secure messaging in case of emergencies. 
+2. Participants understood who sent them the message, who would respond, and how long it would take them to receive a reply. 
+3. Participants prefer to view their messages in time/date order, from newest to oldest.
+4. Participants could find past messages but rarely mentioned the “Expand All Messages” link.
+5. Participants want confirmation that their messages have been sent.
+6. Participants thought that the messaging experience was simple, which was desirable. 
 
 
 # Details of Findings 
 
-**1. Many participants (5/9) were able to successfully navigate from the primary page to secondary pages and back using the breadcrumbs; however, they struggled with the navigation within secondary pages.** 
+**1. Participants would not use secure messaging in case of emergencies.** 
 
-Labels: PRDT: health-care-apartment, DSC: Breadcrumbs
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-4 participants said they would use the back button. In the previous round of research with a desktop prototype participants were confused by the navigation breadcrumbs but the secondary navigation on the left side of the worked well.
+In case of an emergency eighteen said that they would call 911 or go to the emergency room; 1 said that they would go to urgent care. None of the participants mentioned the local VA call center when asked how they would find the number of someone at the VA. Some things they did mention included looking on the VA website, My HealtheVet or on Google, calling the general number, 1-800 number, main line, main number, front desk or operator for their VA location.
 
-> There is a MyHealtheVet with a back arrow I would click on that. (P1, Veteran)
-
-
-**2. Participants were able to successfully complete many basic health-related tasks.**
-
-Labels: PRDT: health-care-apartment, PRDT: Medical-records, MHV: Pharmacy, MHV: Secure Messaging, MHV: Appointments
-
-The tasks they completed include refilling their medications, sending their providers a message, viewing their medical records, making an appointment, and viewing details about an existing appointment. This was true in the desktop (Round 1) and the mobile (Round 2) prototype.
-
-> I would click on the appointment details and get everything I need. (P6, Veteran)
+> Quote. (P1, Veteran)
 
 
-**3. Participants were confused about certain terms, including "Pending," "Blue Button,” and “Adverse Reactions.”**
+**2. Participants understood who sent them the message, who would respond, and how long it would take them to receive a reply.**
 
-Labels: PRDT: health-care-apartment, DSC: Labels
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-50% of users knew what Blue Button was depending on if they had used it before; this was similar to the previous round.  None of the participants understood that a Pending appointment is an appointment that has been requested by a Veteran but not yet confirmed by the VA. Of the 5 participants that gave details about what they would expect in the “Allergies and Adverse Reactions” section, 3 expected to see the general potential side effects of medications instead of specific reactions that they have had to a medication.
+Most were current, regular users.
 
-> Allergies and adverse reactions. I am guessing you can put in the medication, and it would give you the possible adverse reactions. (P1, Veteran) 
+> Quote. (P6, Veteran)
 
 
-**4. Participants did not find the pre-appointment paperwork under the "Pre-check in" link in the "In This Section" menu.**
+**3. Participants prefer to view their messages in time/date order, from newest to oldest.**
 
-Labels: PRDT: health-care-apartment, PRDT: health-care-check-in
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-When asked where they would expect to find the link, participants expected to find it under Appointment Details or in their Messages. In the previous desktop design users also did not expect to find their paperwork under the Pre-check in link, but the link was more discoverable because it was in the side navigation and so more of them saw it.
+This matches the functionality currently in the prototype and in Secure Messaging. Other sorting options that participants mentioned included alphabetical by sender’s name (this was the other sorting option included in the prototype), alphabetical by subject and unread messages. 
 
-> [Pre-check-in] could be in the details tab. Right here on the phone I should be able to fill it out. (P15, Veteran)
+> Quote. (P1, Veteran) 
+
+
+**4. Participants could find past messages but rarely mentioned the “Expand All Messages” link.**
+
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
+
+In the screenshot you can see two links. The users frequently commented on the first link “Older messagesin this conversation” but not on the second “Expand All Messages” link.
+
+> Quote. (P15, Veteran)
+
+
+**5. Participants want confirmation that their messages have been sent.**
+
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
+
+Participants also mentioned that after sending a message they would like to go to the messages screen.  
+
+> Quote. (P1, Veteran) 
+
+
+**6. Participants thought that the messaging experience was simple, which was desirable.**
+
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
+
+It was desirable because participants said that it was easy to use and easy to learn. They also understood that Secure Messaging would not be as fully featured as other messaging programs.
+
+> I'm not a technical wizard so if it's intuitive to me, Mr Joe Average Senior Citizen, it should be workable by just about everyone. (P8, Veteran)
 
 
 # Additional Insights
 
-- Most users (10/11) logged in using the embedded sign in/create an account button.  In the previous round of testing with the desktop prototype users saw both options. 
-- Some users did not see the difference between health tool content and the VA.gov header, menu, and footer.
-- Users understood prescription statuses, such as in process, renew soon, and in transit. In the previous round users struggled with this aspect of the pharmacy tool.
-- 9 of 11 participants found or commented on the ability to search messages.  This is an improvement from 6 of 11 participants in the previous round.
+- Participants were confused about where to go in the prototype for messaging help.  Eight of the nineteen did not find the “Messages FAQ” in the menu. Six looked in the VA.gov header or footer, especially at the “Contact Us” link. If they opened the menu they were able to find Messages FAQs.
+- The Delete folder functionality did not match participants’ assumptions. About half of the participants would delete their messages and none of those participants would expect their deleted messages to permanently remain in the Deleted folder.
+- Participants did not know what the first screen that they came to was called. Instead of Messages they called it the “inbox or “home”.
 
 
 # Recommendations
 
-* Explore the feasibility of changing the language on the “In this section” menu to help Veterans know what to expect inside the menu and to help Veterans understand the differences between health navigation and Va.gov navigation.
-* Adopt the naming convention of VA.gov and Heath Homepage in the breadcrumbs.
-* Coordinate with other teams working on appointment scheduling to find language that is clearer to Veterans than “Pending” appointments.
-* Consider what the pre-checkin experience should be going forward.  In both the desktop and mobile prototypes participants expected tools to be linked, for example they expected to see pre-checkin paperwork in their appointment details because the paperwork is related to a specific appointment.
-* Continue to pay attention to pharmacy label text in future rounds, participants struggled with it in the desktop prototype but it tested well in the mobile prototype.
-* Continue with both the login button and the login link as they tested well on mobile and desktop.
-
+* It is unclear if participants’ understanding of the messaging system was based on their previous experience or on the information displayed in or communicated by the prototype. Test with non-users to make sure that participants can understand these things based on context and not their previous experience.
+* Several participants requested the ability to forward their messages or copy other providers on their messages. Investigate the business and logistical implications of allowing secure messaging users to forward their messages.
+* Participants gave mixed feedback on the “To” dropdown content and edit list functionality so this should be emphasized in future tests.
+* Participants rarely mentioned the “in this section” component of search. This should be explored in future rounds of testing to make sure that users know what they are searching.
+* Participants didn’t know what the “Messages” screen was called. Include a name for the Messages page in the next round of research in a way that doesn’t require double links in the navigation.
+* The functionality of the Delete folder did not match participants’ assumptions. In the next round of testing consider how the design could better match expectations.
+* Six of the 19 participants looked for messaging help in the VA.gov header or footer. Investigate how to distinguish between VA.gov content and page/secure messaging content.
 
 
 # Next Steps
 
-Our next steps are to bring these findings to our design team and iterate on our prototype. We will incorporate these recommendations into our next round of usability testing, which will be focused on messaging. 
+Our next steps are to bring these findings to our design team and iterate on our prototype. We will incorporate these recommendations into our next round of usability testing, which will be focused on messaging again. 
 
 
 # Appendix
