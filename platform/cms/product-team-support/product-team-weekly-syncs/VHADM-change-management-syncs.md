@@ -17,6 +17,7 @@
 - Content releases run continually during business hours
   - Initial plans for implementation would be to do a soft rollout and monitor for a week to work through any issues then communicate to all editors
 - Top task completion rates and next steps
+- Lovell update (Dave Pickett)
 
 ## July 14, 2022
 
