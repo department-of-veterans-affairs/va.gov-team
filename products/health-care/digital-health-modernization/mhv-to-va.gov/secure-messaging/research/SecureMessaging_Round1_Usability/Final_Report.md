@@ -158,15 +158,9 @@ Our next steps are to bring these findings to our design team and iterate on our
 
 
 # Appendix
-- [Research Plan]([ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/research-plan.md))
-- [Conversation guide]([ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round2_Usability/conversation_guide.md))
-- [Interview transcripts]([ ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/research/Round2_Usability))
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability/conversation_guide.md)
 
-
-
-## Tools used for Synthesis
-We used Mural, Google Sheets, and Github to synthesize our findings. 
-- [Analysis spreadsheet]( )
 
 ## Pages and applications used
 - [Mobile Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/rb7r3Jx/play?hotspots=false)
