@@ -1,7 +1,7 @@
 # August 3, 2022 HEC Bi-weekly Health Care application update
 
-### Outstanding Action Items with 7/20 update
-- **Next meeting on 8/3** - Demo of the American Indian question and Medicare claim number field
+### Outstanding Action Items with 8/3 update
+
 
 ### 8/3/22 Agenda Items
 - Short form production issue
@@ -12,6 +12,8 @@
 - Medicare Claim number field
      - Plan to begin QA this week
      - Sent email to Joshua to coordinate E2E testing
+- Demo of the American Indian question and Medicare claim number field
+
 
 ### Future Endeavors (Backlog)
 - In-progress Notification emails
