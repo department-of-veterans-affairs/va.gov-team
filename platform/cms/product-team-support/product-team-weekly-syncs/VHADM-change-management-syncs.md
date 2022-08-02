@@ -12,6 +12,12 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
+## August 2, 2022
+
+- Content releases run continually during business hours
+  - Initial plans for implementation would be to do a soft rollout and monitor for a week to work through any issues then communicate to all editors
+- Top task completion rates and next steps
+
 ## July 14, 2022
 
 - 988 Crisis Line phone number (Dave/Denise/Kevin)
