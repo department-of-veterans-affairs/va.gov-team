@@ -98,7 +98,7 @@ Is one more useful than the other to start on?
 
 Thanks for sharing all of that. Now I’ll have you sign out.  
 
-Now click on the payment history link under Disability.
+Now click on any link on this page. (Doesn't matter which as long as they navigate away from the homepage)
 
 Go ahead and click the prompt to sign in, and sign in.
 
