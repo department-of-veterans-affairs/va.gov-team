@@ -176,7 +176,7 @@ We used Mural, Google Sheets, and Github to synthesize our findings.
 ## Who we talked to 
 
 **Recruitment criteria**
-Our primary criteria was participants who do and do not have VA Healthcare, and who do and do not use MHV on their smartphone. We used a lean but representative approach for most criteria, but overrepresented participants with cognitive disabilities. Our goal was to ensure our designs worked with the participants most likely to have a difficult time interacting with a complex website. Our previous round had included fewer women than we had hoped so we overrepresented women in this round.  We also included a significant number of smart phone users as they would be most likely to use the website on their smart phones once it is released.
+Our primary criteria included that all participants must have eligable for VA Healthcare. We requested at least 10 participants who regularly use Secure Messaging and up to 10 participants that do not use Secure Messaging. We also included at least 10 participants who are mobile users and at least 10 participants who are desktop users. We used a lean but representative approach for all other criteria.
 
 We talked to **nineteen participants**.
 
