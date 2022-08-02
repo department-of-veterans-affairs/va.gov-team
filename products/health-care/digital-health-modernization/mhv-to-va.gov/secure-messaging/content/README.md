@@ -114,15 +114,29 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-## Messages FAQ
+## Messages FAQ - Auth
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Messages FAQs
 
+> `Lead` How secure messaging works, what to expect, and how to get help.
+
+> `Default body` With VA secure messaging, you can communicate privately online with your VA health care team. 
+   
+> `H2` Frequently-asked questions
+   
+> `Accordion pattern`
+> 
+>- How can VA secure messaging help me manage my health care?
+>- Am I set up to use secure messaging?
+>- How does secure messaging work?
+>- Can I use secure messaging for medical emergencies or urgent needs?
+>- Can I send messages to providers outside of the VA (community care)?
+>- Will my personal health information be protected?
+>- Are secure messages included in my medical record?
+>- Why is the website telling me I’m blocked from sending messages? 
+>- How can I get help?
 
 <hr>
 
