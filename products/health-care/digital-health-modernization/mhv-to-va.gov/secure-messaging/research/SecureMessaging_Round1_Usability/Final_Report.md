@@ -70,6 +70,7 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 	- *Definitely True*. Participants were able to successfully send messages. 
 - Participants who have previously used secure messaging will understand who they are corresponding with but non-secure messaging users may be confused.
 	-  *Mostly True*. Nearly all of our participants had previously used secure messaging and did understand who they were corresponding with; we did not have enough non-users to determine if they understood.
+	<!-- understood what? Add a little more detail re care team responding, not always your doctor -->
 
 
 # Key Findings
@@ -86,12 +87,13 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 
 **1. Participants would not use secure messaging in case of emergencies.** 
 
-Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
+Labels: PRDT: health-care-apartment, MHV: Secure Messaging
 
 In case of an emergency eighteen said that they would call 911 or go to the emergency room; 1 said that they would go to urgent care. None of the participants mentioned the local VA call center when asked how they would find the number of someone at the VA. Some things they did mention included looking on the VA website, My HealtheVet or on Google, calling the general number, 1-800 number, main line, main number, front desk or operator for their VA location.
 
 
 **2. Participants understood who sent them the message, who would respond, and how long it would take them to receive a reply.**
+<!-- how many participants? what was the common "length of time" they thought it would take? Add a few more details to the finding below -->
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
@@ -104,10 +106,11 @@ Most of the participants who understood these things were current, regular secur
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-Viewing messages in time/date order matches the functionality currently in the prototype and in Secure Messaging. Other sorting options that participants mentioned included alphabetical by sender’s name (this was the other sorting option included in the prototype), alphabetical by subject and unread messages. 
+Viewing messages in time/date order matches the functionality currently in the prototype and in Secure Messaging. Other sorting options that participants mentioned included alphabetical by sender’s name (this was the other sorting option included in the prototype), alphabetical by subject, and unread messages. 
 
 
 **4. Participants could find past messages but rarely mentioned the “Expand All Messages” link.**
+<!-- would be cool to add a screenshot here so people can visualize this better -->
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
@@ -120,7 +123,7 @@ There are two links related to past messages. The users frequently commented on 
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-In addition to confirmation that their message had been sent, participants also mentioned that after sending a message they would like to go to the messages screen.  
+In addition to confirmation that their message had been sent, participants also mentioned that after sending a message they would like to auto-direct back to the messages screen.  
 
 > Something should pop up and say "Your message was successfully sent". (P3, Veteran) 
 
@@ -140,6 +143,7 @@ The simple messaging experience was desirable because participants said that it 
 - The Delete folder functionality did not match participants’ assumptions. About half of the participants would delete their messages and none of those participants would expect their deleted messages to permanently remain in the Deleted folder.
 - Participants did not know what the first screen that they came to was called. Instead of Messages they called it the “inbox or “home”.
 
+<!-- you use both numbers and letters for numbers "nineteen/19" thoughout. nitpicky, but pick one and be consistent throughout -->
 
 # Recommendations
 
