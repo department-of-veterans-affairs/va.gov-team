@@ -1,7 +1,7 @@
 # August 3, 2022 HEC Bi-weekly Health Care application update
 
 ### Outstanding Action Items with 7/20 update
-- **Next meeting on 8/3** - Demo of the Short Form, American Indian question and Medicare claim number field
+- **Next meeting on 8/3** - Demo of the American Indian question and Medicare claim number field
 
 ### 8/3/22 Agenda Items
 - Short form production issue
