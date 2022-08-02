@@ -459,6 +459,7 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
+```
 Type of care: {Type of Care}
 
 VA Video Connect at home
