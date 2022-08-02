@@ -28,7 +28,7 @@ Our project is part of the Digital Health Modernization strategy, which aims to 
 
 The goals of this study are to:
 - Identify major usability or content issues with the current Secure Messaging concept
-- Understand how Veterans use Secure Messagin
+- Understand how Veterans use Secure Messaging
 
 ### OCTO Objectives 
 
@@ -64,14 +64,12 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 
 - Participants would not use secure messaging in case of an emergency. They would seek immediate medical attention instead.
 	- *Definitely True*. Eighteen of the 19 participants said that they would call 911 or go to the emergency room in case of the emergency; 1 said that they would go to urgent care.
-- How do Veterans find and organize their messages?
-- Are Veterans able to compose and reply to messages?
-- Do they understand who they are corresponding with?
-	-  *Definitely True*. Participants expected to see their personal data populate if logged in.
-- Participants will be able to accomplish a variety of health tasks as designed in this prototype.
-	- *Mostly True*. Participants were able to complete the majority of our tasks successfully, but we did identify some areas for improvement with specific tasks and concepts. 
-- Participants will be able to smoothly use the proposed navigation for MHV on a mobile device.
-	-  *Mostly True*. Participants navigated successfully through the higher levels of the IA but struggled with navigating within specific pages.
+- Participants find messages by scrolling through their past messages. Participants organize their messages using folders.
+	-  *Mostly True*. Participants found messages in different ways which included scrolling as well as searching and sorting. If participants chose to organize their messages they did so using the folders but about 3/4 did not currently organize their messages in secure messaging. 
+- Participants are able to easily compose and reply to messages.
+	- *Definitely True*. Participants were able to successfully send messages. 
+- Participants who have previously used secure messaging will understand who they are corresponding with but non-secure messaging users may be confused.
+	-  *Mostly True*. Nearly all of our participants had previously used secure messaging and did understand who they were corresponding with; we did not have enough non-users to determine if they understood.
 
 
 # Key Findings
@@ -92,8 +90,6 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
 In case of an emergency eighteen said that they would call 911 or go to the emergency room; 1 said that they would go to urgent care. None of the participants mentioned the local VA call center when asked how they would find the number of someone at the VA. Some things they did mention included looking on the VA website, My HealtheVet or on Google, calling the general number, 1-800 number, main line, main number, front desk or operator for their VA location.
 
-> Quote. (P1, Veteran)
-
 
 **2. Participants understood who sent them the message, who would respond, and how long it would take them to receive a reply.**
 
@@ -101,7 +97,7 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
 Most were current, regular users.
 
-> Quote. (P6, Veteran)
+> I would expect that they are somewhere on my health care team, maybe my nurse, doctor, staff... . (P16, Veteran)
 
 
 **3. Participants prefer to view their messages in time/date order, from newest to oldest.**
@@ -110,8 +106,6 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
 This matches the functionality currently in the prototype and in Secure Messaging. Other sorting options that participants mentioned included alphabetical by sender’s name (this was the other sorting option included in the prototype), alphabetical by subject and unread messages. 
 
-> Quote. (P1, Veteran) 
-
 
 **4. Participants could find past messages but rarely mentioned the “Expand All Messages” link.**
 
@@ -119,7 +113,7 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
 In the screenshot you can see two links. The users frequently commented on the first link “Older messagesin this conversation” but not on the second “Expand All Messages” link.
 
-> Quote. (P15, Veteran)
+> I saw on the other page that there were x of 3 so I knew that there would be more . . . It's nice that they're right here. (P20, Veteran)
 
 
 **5. Participants want confirmation that their messages have been sent.**
@@ -128,7 +122,7 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
 Participants also mentioned that after sending a message they would like to go to the messages screen.  
 
-> Quote. (P1, Veteran) 
+> pop and say "your message was successfully sent". (P3, Veteran) 
 
 
 **6. Participants thought that the messaging experience was simple, which was desirable.**
@@ -175,7 +169,8 @@ We used Mural, Google Sheets, and Github to synthesize our findings.
 - [Analysis spreadsheet]( )
 
 ## Pages and applications used
-- [Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/VrxYEoo/play?hotspots=false)
+- [Mobile Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/rb7r3Jx/play?hotspots=false)
+- [Desktop Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/Qbq1JJ1/play?hotspots=false)
 
 
 ## Who we talked to 
