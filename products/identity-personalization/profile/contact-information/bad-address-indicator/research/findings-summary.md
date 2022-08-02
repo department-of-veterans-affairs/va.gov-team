@@ -171,7 +171,7 @@ All but 3 participants said they felt more at ease after observers said hello.
 	- **Takeaway:** for this method, it's important that observers say hello in case participants cannot see observers.
 	- **Takeaway:** This likely means that participants using mobile in any research study might not know there are observers unless we tell them - something to keep in mind for mobile research.
 - Another of these participants spent more time greeting observers than other participants, but later said he found the hellos were unnecessary and slowed things down.
--   For the third participant who did not feel at ease, it should be noted there were only two observers on the call. Only one observer said hello and none of the observers turned on their video.
+-   For the third participant who did not feel at ease, it should be noted there were only two observers in this session. Only one observer said hello and none of the observers turned on their video.
 	- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
 
  > "More at ease since I could see it was one person and not a whole boardroom." - P9
