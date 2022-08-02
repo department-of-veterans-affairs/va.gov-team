@@ -8,6 +8,8 @@ The Identity team at VSP is responsible for many aspects of how we handle users 
 ## Important Reading
 - [Identity Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/README.md)
 - [Identity Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/identity-team-charter.md)
+- [Getting started with Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
+- [Login Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md)
 
 ## Tools we use:
 - Github (Issue Management/Knowledgebase)
