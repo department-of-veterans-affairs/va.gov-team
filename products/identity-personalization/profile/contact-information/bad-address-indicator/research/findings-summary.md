@@ -167,10 +167,11 @@ All participants felt comfortable with observers and appreciated being asked for
 
 All but 3 participants said they felt more at ease after observers said hello.
 
--   One of these participants conveyed he did not know observers had joined and were waving because he couldn't see them on mobile. (Overall, multiple mobile users said they couldn't see anyone but the moderator. Without being told observers were joining, along with hearing some hellos, they wouldn't have known any observers were there.)
+-   One of these participants did not answer this, citing that he did not know observers had joined and were waving because he couldn't see them on mobile. (Overall, 3 mobile users said they couldn't see anyone but the moderator, conveying that without being told observers were joining, along with hearing some hellos in the background, they wouldn't have known any observers were there.)
 	- **Takeaway:** for this method, it's important that observers say hello in case participants cannot see observers.
 	- **Takeaway:** This likely means that participants using mobile in any research study might not know there are observers unless we tell them - something to keep in mind for mobile research.
--   For another one of these participants who did not feel at ease, this may have to do with only two observers being on the call, one of whom did not say hello.
+- Another of these participants spent more time greeting observers than other participants, but said he found the hellos were unnecessary and slowed things down.
+-   For another one of these participants who did not feel at ease, this may have to do with only two observers being on the call, one of whom did not say hello. None of the observers turned on their video.
 	- **Takeaway:** All observers that join should do their best to participate in this method by saying hello.
 
  > "More at ease since I could see it was one person and not a whole boardroom." - P9
@@ -178,6 +179,8 @@ All but 3 participants said they felt more at ease after observers said hello.
  > "Um, I wasn't on the page that even showed that. I had me fullscreen and I had you as a thumbnail. But I didn't see..that might have been on a secondary screen in Zoom to see like a group meeting sort of a thing, but I only saw me and you only because I was in that mode, apparently." - P6
 
  > "It was kind of awkward." - P13
+ 
+ > "It’s completely and utterly not necessary, and I myself.. Ya it slowed things down." - P4
 
 ### #8: A few participants had suggestions for miscellaneous changes on the Contact information page.
 
