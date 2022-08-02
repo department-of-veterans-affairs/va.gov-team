@@ -244,7 +244,7 @@ How would you check the amount of your current disability compensation?
 - Could you please go back to the original web page you opened?
 
 #### Task 6A: [Check the current disability compensation rates]
-You recently applied for an increase in your disability rating and wonder how it might affect your payment amount. How would you check the currently compensation rates?
+You recently applied for an increase in your disability rating and wonder how it might affect your payment amount. How would you check the current compensation rates?
 - *RECORD navigation--what they clicked/tapped on in which area of the screen* 
     - *Sign in or create an account / Common tasks / Search VA.gov / Other search tools / Topics below homelessness / Header / Footer*
     - What do you expect to see next?
