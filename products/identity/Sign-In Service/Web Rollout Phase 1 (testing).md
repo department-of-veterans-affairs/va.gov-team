@@ -80,5 +80,14 @@ Our intention is to communicate our testing at least 14 days in advance via Team
 
 During our testing phase, we will monitor our public channel (#vsp-identity) for any issues, and encourage any VA teams to report them there.  We will have a dedicated engineering resource monitoring this channel during the test, and responding and prioritizing any issues to determine if we need to stop the test.
 
+# Pre-Launch Checklist
+- [ ] Notify VSP Engineering Channel
+- [ ] Notify VSP Identity Channel
+- [ ] Team of Teams 
+- [ ] Monitors Created
+- [ ] Test Date Established and Communicated
+- [ ] Feature On
+- [ ] Test Complete
+
 
 
