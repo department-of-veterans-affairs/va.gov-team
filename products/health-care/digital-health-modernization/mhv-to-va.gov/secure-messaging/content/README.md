@@ -137,10 +137,12 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 > `Default body` With VA secure messaging, you can communicate privately online with your VA health care team. 
 
 > `Sign in box` 
+> 
   > `H3` Sign in to send secure messages
+  > 
   > `Default body` Sign in with your **Login.gov**, **ID.me**, **DS Logon**, or **My HealtheVet** account. If you don’t have any of these accounts, you can create a free account now.
-
-> `Default green sign in button` Sign in or create an account
+  > 
+  > `Default green sign in button` Sign in or create an account
   
 > `H2` To send messages, you must be a VA patient
 
@@ -155,15 +157,16 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 > `H2` Frequently-asked questions
    
 > `Accordion pattern`
-  > How can VA secure messaging help me manage my health care?
-  > Am I set up to use secure messaging?
-  > How does secure messaging work?
-  > Can I use secure messaging for medical emergencies or urgent needs?
-  > Can I send messages to providers outside of the VA (community care)?
-  > Will my personal health information be protected?
-  > Are secure messages included in my medical record?
-  > Why is the website telling me I’m blocked from sending messages? 
-  > How can I get help?
+> 
+>- How can VA secure messaging help me manage my health care?
+>- Am I set up to use secure messaging?
+>- How does secure messaging work?
+>- Can I use secure messaging for medical emergencies or urgent needs?
+>- Can I send messages to providers outside of the VA (community care)?
+>- Will my personal health information be protected?
+>- Are secure messages included in my medical record?
+>- Why is the website telling me I’m blocked from sending messages? 
+>- How can I get help?
 
 <hr>
 
