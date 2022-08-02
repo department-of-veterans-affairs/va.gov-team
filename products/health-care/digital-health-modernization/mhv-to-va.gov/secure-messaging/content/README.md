@@ -94,7 +94,6 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 <hr>
 
 ## Design Specifications
-[*Provide examples of standards that are used so you can refer back to them in the page sections below instead of having to create a mockup for every single state for every single page]
 
 ### Standard design system components, patterns
   - Use style rules from design system for html elements padding and margins
@@ -102,7 +101,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
     -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
     -  radio input styling ([design system documentation](https://design.va.gov/components/form-controls#radio-buttons))
     -  icons ([design system documentation]([https://design.va.gov/components/on-this-page-jump-links](https://design.va.gov/foundation/icons)))
-    - Pagination ([design system documentation](https://design.va.gov/components/pagination))
+    -  pagination ([design system documentation](https://design.va.gov/components/pagination))
 -  Design system content style guide
   - Use style guide rules for content
       - Abbreviations and acronyms ([design system documentation](https://design.va.gov/content-style-guide/abbreviations-and-acronyms))
@@ -111,9 +110,18 @@ This page details the content used throughout the Secure Messaging tool on VA.go
       - Etc...
 
 ### Exceptions to standard design system components, patterns
-  - H1 gets h2 styling for sizing
-  - H2s get h3 styling for sizing
-  - Etc...
+  - Describe any exceptions made to the standard componenets (ex. - overriding a style defined in the global css)
+
+<hr>
+
+## Messages FAQ
+### Default view
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+- `H1`
+- `H1`
+- `H3`
+- `etc...`
 
 
 <hr>
@@ -137,16 +145,6 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 
 <hr>
 
-## Messages FAQ
-### Default view
-- [Desktop Mockup](link)
-- [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
-
-<hr>
 
 ## Secure messages - Auth with health care (inbox)
 ### Default view
@@ -158,7 +156,7 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 > 
 > `Note` **Note:** Call [911](link) if you have a medical emergency. If you’re in crisis and need to talk with someone now, call the [Veterans Crisis Line.](link) To speak with a VA health care team member right away, contact your local VA call center.
 
-> `Action link` Compose message
+> `Secondary action link` Compose message
 
 > `Search input` Search the Messages folder
 
@@ -186,8 +184,8 @@ This page details the content used throughout the Secure Messaging tool on VA.go
 >  
 >  [Test: Your lab results](link) 
 >  
->  August 1, 2022 at 1:32 p.m. ET
->  [If > 10 messages] `Pagination` [highlighted 1 icon][link]  [2 icon][link]  Next[right arrow icon][link]
+>  August 1, 2022 at 1:32 p.m. ET <br>
+>  [If > 10 messages] `va-pagination, max 10 per pg` 
 
 <hr>
 
@@ -258,7 +256,15 @@ This is the default way a message detail loads after a user opts to open a messa
 - [Desktop Mockup](link)
 - [Mobile Mockup](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/dlAOzon)
 - 
-- `H1` [Drop-down] In the Messages section [hamburger navigation]
+- `H1` [Drop-down] In the Messages section [hamburger-icon]
+  -   > [Messages](link)
+    -   [Compose](link)
+    -   [Drafts](link)
+    -   [Folders](link)
+    -   [Sent](link)
+    -   [Deleted](link)
+    -   [Search Messages](link)
+    -   [Message FAQs](link)
 - `H1`
 - `H3`
 - `etc...`
