@@ -168,44 +168,44 @@ You will be assigned a specific test user in VistA that will have an identifier 
 
 **Station 500 and 530**
 
-| `patientDFN`  | Name | Assigned To |
-| --- | ------------ | ----- |
-| 237 | One, Patient (renamed to Harris, Sheba in 500) | Shane |
-| 205 | Two, Patient | Rob  |
-| 25  | Three, Patient | Paras |
-| 229 | Four, Patient | Andy |
-| 231 | Five, Patient | Justin |
-| 418 | Six, Patient | Chris Wilmsen |
-| 253 | Seven, Patient | Carl |
-| 3   | Eight, Patient | Stephen |
-| 8   | Ten, Patient | QA Team |
-| 224 | Eleven, Patient | Patrick |
-| 204 | Twelve, Patient | Jose Beltran (508 Office) |
-| 228 | Thirteen, Patient | Demo & Staging Reviews |
-| 271 | Fourteen, Patient | Kristen |
-| 723 | Twentysix, Patient | Adrian |
-| 366 | Twentyeight, Patient | Dan |
-| 350 | Twentynine, Patient | Gaurav |
-| 391 | Thirty, Patient | Lori |
-| 384 | Thirtyone, Patient | Kanchana |
-| 140 | Thirtytwo, Patient | Nira |
-| 442 | Thirtythree, Patient | Paras |
-| 267 | Thirtyfour, Patient | Ya-ching |
-| 217 | Nine,Patient | Charley |
-| 240 | Thirtyfive,Patient | Michael K |
-| 260 | Thirtysix,Patient | Cheryl Wills (OVAC) |
-| 218 | Thirtyseven,Patient | Patrick (OVAC) | 
-| 151 | Thirtyeight,Patient | Patrick (OVAC) |
-| 347 | Thirtynine,Patient | Patrick (OVAC) |
-| 520 | Forty,Patient | Patrick (OVAC) | 
-| 41  | Fortyone,Patient | Zach |
-| 42  | Fortytwo,Patient | Ben |
-| 569 | Fotrythree,Patient | Brian |
-| ? | Fotryfour,Patient | CIE Team Demos/Reviews |
-| ? | Fotryfive,Patient | CIE Team Demos/Reviews |
-| ? | Fotrysix,Patient | CIE Team Demos/Reviews |
-| ? | Fotryseven,Patient | CIE Team Demos/Reviews |
-| ? | Fotryeight,Patient | CIE Team Demos/Reviews |
+| `patientDFN`  | Name | DoB | Assigned To |
+| --- | ------- | ---- | --- | ----------- |
+| 237 | One, Patient (renamed to Harris, Sheba in 500) | 1935-04-07 | Shane |
+| 205 | Two, Patient | 1935-04-07 | Rob  |
+| 25  | Three, Patient | 1935-04-07 | Paras |
+| 229 | Four, Patient | 1935-04-07 | Andy |
+| 231 | Five, Patient | 1935-04-07 | Justin |
+| 418 | Six, Patient | 1935-04-07 | Chris Wilmsen |
+| 253 | Seven, Patient | 1935-04-07 | Carl |
+| 3   | Eight, Patient | 1935-04-07 | Stephen |
+| 8   | Ten, Patient | 1935-04-07 | QA Team |
+| 224 | Eleven, Patient | 1935-04-07 | Patrick |
+| 204 | Twelve, Patient | 1935-04-07 | Jose Beltran (508 Office) |
+| 228 | Thirteen, Patient | 1935-04-07 | Demo & Staging Reviews |
+| 271 | Fourteen, Patient | 1935-04-07 | Kristen |
+| 723 | Twentysix, Patient | 1935-04-07 | Adrian |
+| 366 | Twentyeight, Patient | 1935-04-07 | Dan |
+| 350 | Twentynine, Patient | 1935-04-07 | Gaurav |
+| 391 | Thirty, Patient | 1935-04-07 | Lori |
+| 384 | Thirtyone, Patient | 1935-04-07 | Kanchana |
+| 140 | Thirtytwo, Patient | 1935-04-07 | Nira |
+| 442 | Thirtythree, Patient | 1935-04-07 | Paras |
+| 267 | Thirtyfour, Patient | 1935-04-07 | Ya-ching |
+| 217 | Nine,Patient | 1935-04-07 | Charley |
+| 240 | Thirtyfive,Patient | 1935-04-07 | Michael K |
+| 260 | Thirtysix,Patient | 1935-04-07 | Cheryl Wills (OVAC) |
+| 218 | Thirtyseven,Patient | 1935-04-07 | Patrick (OVAC) | 
+| 151 | Thirtyeight,Patient | 1935-04-07 | Patrick (OVAC) |
+| 347 | Thirtynine,Patient | 1935-04-07 | Patrick (OVAC) |
+| 520 | Forty,Patient | 1935-04-07 | Patrick (OVAC) | 
+| 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach |
+| 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben |
+| 569 | Fotrythree,Patient | 1935-04-07 | Brian |
+| ? | Fotryfour,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| ? | Fotryfive,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| ? | Fotrysix,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| ? | Fotryseven,Patient | 1935-04-07 | CIE Team Demos/Reviews |
+| ? | Fotryeight,Patient | 1935-04-07 | CIE Team Demos/Reviews |
 
 **Station 442**
 
