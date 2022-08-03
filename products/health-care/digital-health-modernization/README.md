@@ -3,7 +3,7 @@
 - This repository contains information about the team's history and current activity
 
 ## Team
-### Current
+### Current as of 8/3/2022
 - Tracey Mulrooney - Product Owner
 - Marci McGuire - Product Manager
 - Christopher Froehlich - Engineering
@@ -11,3 +11,4 @@
 - Jonathan Nelson - Design
 - Megan Graham - Research
 - Lauren Alexanderson - Sponsor
+
