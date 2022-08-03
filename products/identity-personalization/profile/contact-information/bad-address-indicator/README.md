@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-Last Updated: July 15, 2022
+Last Updated: August 5, 2022
 
 ### Communications
 
@@ -135,7 +135,7 @@ TBD
 
 ## Design
 
-- Need sketch files
+- [Sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B84818F9-2AB7-42E8-BFFD-0C0949B020A3/canvas)
 - Need use case documentatio
 
 ### Before
