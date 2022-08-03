@@ -517,10 +517,39 @@ This is the default way a message detail loads after a user opts to open a messa
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Sent messages 
+
+> `Search input` Search the Sent folder
+
+> `Sort input` Sort sent messages by
+   
+> `Sort options` 
+   > - Newest to oldest
+   > - Oldest to newest 
+   > - A to Z - Sender's name
+   > - Z to A - Sender's name
+
+> `Default content` Displaying 1-10 of 33 messages 
+
+> `List view`
+>
+>  Senders Last name, first name
+>  
+>  Catagory: Subject 
+>  
+>  Date, time
+
+>  `Example` 
+>  
+>  Dunwoody, Ann E. 
+>  
+>  [Test: Your lab results](link) 
+>  
+>  August 1, 2022 at 1:32 p.m. ET <br>
+>  [If > 10 messages] `va-pagination, max 10 per pg` 
+
+<hr>
+
 
 ### Delete message from list
 ### Delete message confirmation
@@ -533,10 +562,39 @@ This is the default way a message detail loads after a user opts to open a messa
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Drafts
+
+> `Search input` Search the Drafts folder
+
+> `Sort input` Sort drafts by
+   
+> `Sort options` 
+   > - Newest to oldest
+   > - Oldest to newest 
+   > - A to Z - Sender's name
+   > - Z to A - Sender's name
+
+> `Default content` Displaying 1-10 of 33 messages 
+
+> `List view`
+>
+>  **Draft** Senders Last name, first name
+>  
+>  Catagory: Subject 
+>  
+>  Date, time
+
+>  `Example` 
+>  
+>  **Draft** - Dunwoody, Ann E. 
+>  
+>  [Test: Your lab results](link) 
+>  
+>  August 1, 2022 at 1:32 p.m. ET <br>
+>  [If > 10 messages] `va-pagination, max 10 per pg` 
+
+<hr>
+
 ### Delete message from list
 ### Delete message confirmation
 ### Sort/filter list
@@ -547,10 +605,39 @@ This is the default way a message detail loads after a user opts to open a messa
 ### Default view
 - [Desktop Mockup](link)
 - [Mobile Mockup](link)
-- `H1`
-- `H1`
-- `H3`
-- `etc...`
+> `H1` Deleted messages 
+
+> `Search input` Search the Deleted folder
+
+> `Sort input` Sort deleted messages by
+   
+> `Sort options` 
+   > - Newest to oldest
+   > - Oldest to newest 
+   > - A to Z - Sender's name
+   > - Z to A - Sender's name
+
+> `Default content` Displaying 1-10 of 33 messages 
+
+> `List view`
+>
+>  Senders Last name, first name
+>  
+>  Catagory: Subject 
+>  
+>  Date, time
+
+>  `Example` 
+>  
+>  Dunwoody, Ann E. 
+>  
+>  [Test: Your lab results](link) 
+>  
+>  August 1, 2022 at 1:32 p.m. ET <br>
+>  [If > 10 messages] `va-pagination, max 10 per pg` 
+
+<hr>
+- 
 ### Delete message from list
 ### Delete message confirmation
 ### Move message to folder
