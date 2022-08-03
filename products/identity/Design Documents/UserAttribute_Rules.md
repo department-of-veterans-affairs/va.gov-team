@@ -14,7 +14,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
  - CSP ID: comes from the credential provider such as IDme
  - ICN: MPI (Master Person Index) uuid
  - Sec_ID: Eauth uuid
- - MHV_ICN: ICN stored from MHV in MPI
+ - MHV_ICN: ICN stored from MHV in MHV EAuth headers
 
 [Vets-API inspects](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/user_attributes/ssoe.rb) each of the above attributes and makes business logic decisions regarding if a user should be permitted to login to va.gov and any other applications that utilize the sign-in modal (exceptions are made on a case by case basis and are listed in the next section):
  - IEN: 
