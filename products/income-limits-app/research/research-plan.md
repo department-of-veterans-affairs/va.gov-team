@@ -50,9 +50,10 @@ What are Veteran use cases for determining eligibility for VA National medical b
 Learnings will inform redesign of the application, taking into account context surrounding Veteran use cases to make the application experience as intuitive and seamless as possible.
 
 ### Research questions
-- What events drive a Veteran to consider their eligibility for medical benefits and prescriptions?
-- How do Veterans first determine eligibility for medical benefits and prescriptions? 
-- Then, how do Veterans determine eligibility again after a life event (i.e. marriage, having a child, relocating, retirement) changes their circumstances?
+- What events drive a Veteran to consider their eligibility for health care benefits and prescriptions?
+- How do Veterans first determine eligibility for health care benefits and prescriptions?
+- Do Veterans think about/consider their eligibility for health care benefits and prescriptions? 
+- If they do, when and how do they consider their eligibility?
 - What problems do Veterans encounter when trying to determine eligibility?
 - What do Veterans need to do after they understand their eligibility?
 
@@ -84,8 +85,9 @@ Intended audience is Veterans and recruitment is through Perigean.
 
 **Primary criteria (must-haves)**
 Seeking two cohorts of participants
-Cohort 1: have recently *(within the past 12 months)* applied for VA health care benefits (6 participants)
+Cohort 1: have recently *(within the past 3 months)* applied for VA health care benefits (6 participants)
 Cohort 2: are actively considering applying for VA health care benefits (6 participants)
+Cohort 2a: if cohort 2 is unsourceable, then we can swap in some from what I'm calling cohort 2a
 
 For both cohorts, seeking a diversity of responses to question: How often do you go online to access VA benefits and services?
 - At least 20% participants: Never
@@ -100,9 +102,29 @@ For cohort 1, seeking a diversity of responses to question: How did you recently
 - At least 1 participants: With the help of a fellow veteran
 - At least 1 participants: Other
 
-For cohort 1, seeking a diversity of responses to question: Is this your first time applying for VA benefits?
-- At least 30% of participants: Yes
-- At least 30% of participants: No
+For cohort 2, seeking a response of "no" to question: Are you currently receiving VA health care benefits?
+
+For cohort 2, seeking a response of "health care benefits" to question: Which of the following benefits are you *currently in the process of* applying to?
+- Health care benefits
+- Education & career services, such as GI Bill
+- Disability benefits, such as claims & appeals
+- Housing benefits, such as adaptive housing, home loans, homelessness services
+- Pension benefits
+- Life insurance
+- Memorial benefits
+- Other
+- I don't know
+
+For cohort 2a, seeking a response of "health care benefits" to question: Which of the following benefits are you *interested in* learning more about?
+- Health care benefits
+- Education & career services, such as GI Bill
+- Disability benefits, such as claims & appeals
+- Housing benefits, such as adaptive housing, home loans, homelessness services
+- Pension benefits
+- Life insurance
+- Memorial benefits
+- Other
+- I don't know
 
 **Secondary criteria (nice-to-haves)**
 
@@ -123,14 +145,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: August 1 - August 12, 2022
+* Planned dates of research: August 15 - August 26, 2022
 
 ### Length of sessions
 * Session length: up to 1 hour
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 
 ### Moderator Availability
-7AM - 8PM ET, August 1 - August 12, 2022
+7AM - 8PM ET, August 15 - August 26, 2022
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
