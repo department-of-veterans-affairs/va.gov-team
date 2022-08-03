@@ -12,7 +12,7 @@ Before you get started with onboarding, there are a few key pieces of informatio
 9. Team members' start dates - Each team member will need to know their employment start date for their orientation request.
 
 ## Communication
-Much of the day-to-day communication VA.gov between product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of the GitHub issue itself.
+Much of the day-to-day communication between VA.gov product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of the GitHub issue itself.
 
 ## VA Platform Website
 - Get familiar with the [VA Platform website](https://depo-platform-documentation.scrollhelp.site/).  It is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as processes, documentation, and info on getting access to the tools you will need,
