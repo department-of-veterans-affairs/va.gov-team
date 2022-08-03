@@ -67,6 +67,9 @@ At each hour if the success (login) % is under 50%, we should pause/terminate th
 
 
 # Test Plan
+Our primary goal with testing is to look for improvements in success rate and a reduction in login time.  Success rate is monitored via Datadog, while login time is tested by checking the time for each step of the login process and tallying these up.  
+
+
 **Test Start:**  
 **Test End:**
 
