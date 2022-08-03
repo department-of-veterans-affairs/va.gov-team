@@ -5,14 +5,23 @@
 
 ### 8/3/22 Agenda Items
 - Short form production issue
-     - Completed Place of Birth - invalid state issue
+     - Resolved Place of Birth - invalid state issue
+     - Short Form will be disabled until Enrollment system is ready with their changes (ETA Sept)
+- Questions from Design on how applicants are contacted
+     - Within 5 days after enrollment, receives call
+     - Within 21 days after enrollment, receives personalized handbook
+     - "Pending applications" communications are paused (since 2020 COVID)
+     - If Veteran does not receive communication within 5 days, they can contact 877-222-VETS (worldwide number)
 - American Indian question
      - Internal QA Testing completed
      - Sent email to Joshua to coordinate E2E testing
+     - [ ] Notes on content for question online
 - Medicare Claim number field
      - Plan to begin QA this week
      - Sent email to Joshua to coordinate E2E testing
 - Demo of the American Indian question and Medicare claim number field
+- SIGI 
+     - Scheduled for November!
 
 
 ### Future Endeavors (Backlog)
