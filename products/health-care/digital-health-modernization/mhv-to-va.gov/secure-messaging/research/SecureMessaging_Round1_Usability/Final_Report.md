@@ -69,8 +69,7 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 - Participants are able to easily compose and reply to messages.
 	- *Definitely True*. Participants were able to successfully send messages. 
 - Participants who have previously used secure messaging will understand who they are corresponding with but non-secure messaging users may be confused.
-	-  *Mostly True*. Nearly all of our participants had previously used secure messaging and did understand who they were corresponding with; we did not have enough non-users to determine if they understood.
-	<!-- understood what? Add a little more detail re care team responding, not always your doctor -->
+	-  *Mostly True*. Nearly all of our participants had previously used secure messaging and did understand that they might send a message to their doctor and receive a response from that doctor, a nurse or another member of the care team; we did not have enough non-users to determine if they understood that different members of the care team may respond to messages.
 
 
 # Key Findings
