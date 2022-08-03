@@ -21,35 +21,46 @@ To date, there are only a few studies that look into Veterans and their family m
 We will apply insights from this research to improve and iterate on the pre-check-in and check-in experience for Spanish-speaking Veterans and Caregivers. These improvements will be included in the subsequent releases of the check-in experience. 
 
 ### Research questions
-1. What are the needs and pain points of bilingual Veterans and their caregivers?
-     1. What is their demographic information? (age, familiarity with technology, language proficiency, etc.)
-     1. Are there any family members who also use CI/PCI? (for example, assisting the patient or the family member who is also a VA patient?) If yes, what are their needs?
-     1. What is users' language preference when using CI/PCI?
-     1. What else Spanish content is preferred/required?  
+- What are the needs and pain points of bilingual Veterans and their caregivers?
+	- What is their demographic information? (age, familiarity with technology, language proficiency, etc.)
+- Are there any family members who also use CI/PCI? (for example, assisting the patient or the family member who is also a VA patient?) If yes, what are their needs?
+- What is users' language preference when using CI/PCI?
+- Is there additional  content that’s preferred? 
 
-2. How clear is the Spanish pre-check-in and check-in experience for bilingual  Veterans and their families with LEP?
+- How easy-to-understand is the Spanish translation for bilingual  Veterans and caregivers?
 
-3. How well does the proposed toggle design meet Veteran expectations? 
+- How well does the proposed toggle design meet Veteran expectations? 
+
+
+- How clear is the Spanish pre-check-in and check-in experience for bilingual  Veterans and their families with LEP?
+
+- How well does the proposed toggle design meet Veteran expectations? 
 
 ### Hypothesis
 We hypothesize: 
+- Veterans and family members with low English proficiency (LEP) may have specific content needs that may be missing in the current experience
 - The Spanish content may be accurate,  but may not meet  plain language standards of Veterans.
-- Veterans and family members with LEP may have specific content that's a higher priority to have in their first language.
-- There is some content needed to be added to CI/PCI for Spanish-speaker Veterans or Veterans with LEP. 
-- Some content may need to be added for  Spanish-speaking Veterans or Veterans with LEP. 
-- Veterans find the original toggle design is discoverable but confusing. 
+- Veterans find the original toggle design discoverable but confusing. 
 - Veterans don't need to frequently switch their language using the toggle.
 - Veterans may prefer to have the toggle at the bottom as long as we provide clear hints about where to find it.
-- We only need to show the notification/hint for the first time user of CI and PCI.
+- Only first-time users need to see a notification indicating there is now a language toggle
 
 ## Method	
+Remote, moderated sessions over zoom with bilingual Spanish-English Veterans and/or caregivers. 
+The study includes two parts. 
 
-Remote, moderated sessions over zoom with bilingual Spanish-English Veterans and/or caregivers.
-Use of Sketch for usability testing.  
-- Semi-structured interviews
-- Observational and task-based user testing
-- Impression testing of the two different toggle designs 
-- Usability testing of toggle designs  and on a mobile device using sketch prototypes on the Veteran’s mobile device.
+**Part 1 - Understand  pain points and assess Spanish translated content**
+- - Semi-structured interviews
+- User feedback translated Spanish content
+- Screenshots of Spanish translated content will be shown to during feedback
+
+**Part 2 - Understand toggle design expectations**
+- Impression testing of the two different toggle designs  in the pre-check-in user flow and the check-in user flow
+- Usability testing of toggle designs using sketch prototypes on the Veteran’s mobile device.
+Sketch will be used
+
+To manage the length of each session, participants will be divided into two of the above parts. 
+
 
 ### Location
 Remote sessions conducted over Zoom. 
