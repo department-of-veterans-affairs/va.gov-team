@@ -20,7 +20,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
      
 </details>     
 
-- Vets-api will perform retries in the intervals below:  **(NOTE: Current standard for retries is 25 retries over 20 days. See Current Automatic job retry library table below)**
+- Vets-api will perform retries in the intervals below:  
 
 |# | Next retry backoff | Total waiting time|
 |---|-------------------|------------------|
@@ -72,7 +72,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 </details>
 
-- After 24 hours of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
+- After 4 hours of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
      - Heather Justice
      - Mark Fallows
