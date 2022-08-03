@@ -8,9 +8,11 @@ Before you get started with onboarding, there are a few key pieces of informatio
 4. A GitHub account.  Almost all orientation-related requests and related correspondence will be done in GitHub, so you must [create an account](https://github.com/join) before proceeding. *You do not need to have a VA.gov email address assigned to create the account, but once you do have one, it must be added to your account to prevent it from being deactivated.*
 5. GitHub Handle - After creating a GitHub account, make note of your GitHub handle (user name).  Each team member will need to provide this in their orientation request.
 6. Name of your contract
-7. Your 
 8. Team name - this is the name you will call your new VFS (Veteran-Facing Services) team.  You and your Product Owner should decide on a name before proceeding.  If this is a brand-new team, you or your Product Owner will need to create a [new VFS Team Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights&template=new-vfs-team.md&title=New+VFS+Team+%5BInsert+team+name+here%5D)
 9. Team members' start dates - Each team member will need to know their employment start date for their orientation request.
+
+## Communication
+Much of the day-to-day communication VA.gov between product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of the GitHub issue itself.
 
 ## VA Platform Website
 - Get familiar with the [VA Platform website](https://depo-platform-documentation.scrollhelp.site/).  It is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as processes, documentation, and info on getting access to the tools you will need,
