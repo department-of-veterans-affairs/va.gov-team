@@ -86,11 +86,11 @@ Traffic from My VA to destination (Pageviews coming from My VA)
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
-|KPI/metric|Baseline: Jan-Mar 2021|Post-launch: Week 1| Post-launch: Month 1|
+|KPI/metric|Baseline: Jan-Mar 2021|Post-launch: Week 1 (at 100%)| Post-launch: Month 1 (at 100%)|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history"| #9|TBD|TBD|
-|Search rank for "debt” or "debt management"| #17|TBD|TBD|
-|Search rank for "direct deposit”| #11, #19|TBD|TBD|
+|Search rank for "payment” or "payment history"| #45, #9|#128, #10| #131, #12|
+|Search rank for "debt” or "debt management"| #17, #47|#17, #31|#18, #33|
+|Search rank for "direct deposit”| #11 |#12 | #13 |
  
 ### 1-week results:
 - **Number of unique users:**
