@@ -89,6 +89,7 @@ We’re making the form available online first, before building out opt-in to pa
 _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
 
 - Making the 1095-B form available digitally will not change. 
+- We’ll fast follow this MVP with adding a feature toggle. We don’t need it for the initial testing, but anticipate needing it later. 
 - We know from usability testing that most Veterans and dependents like the availability of paperless delivery.  The opt-in to paperless delivery design and development is underway. That’ll be the next iteration of this product. 
 - We’re planning on launching in ‘dark mode’ which  mean the 1095-B page will not be linked to from anywhere on VA.gov. Once paperless delivery is enabled, there will be the ability to navigate to the 1095-B page through the Records hub. 
 - Eventually, tax forms are usually available for multiple previous years at a time.
