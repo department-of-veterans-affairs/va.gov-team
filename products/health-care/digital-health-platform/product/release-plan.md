@@ -11,11 +11,11 @@ That's what this Release Plan Template is for!
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration: August 18, 2022 - open
+- Desired number of users: a small group of Pilot users
+- How you'll recruit the right production test users: we are releasing our MVP to a limited number of users. Our initial users will be care team members at various sites who actively engage with Veteran Fitbit users. Veterans in this group will learn about the program through their care team at this site.
+- How you'll conduct the testing: we will be engaging with users on a recurring basis to get their feedback on the application
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: participants of our MVP pilot use case will be our test users. We will provide them with a direct link to the registration page on the live site. 
 
 ### Results:
 - Number of users: x
@@ -31,9 +31,9 @@ That's what this Release Plan Template is for!
 
 **Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
 
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
+* This change does not add substantial new functionality to VA.gov. Yes
+* This change does not impact user flows through tasks. Yes
+* This change does not affect traffic to backend services. Yes
 
 *Example*: a change to a page's text content **could skip** staged rollout
 
@@ -60,12 +60,14 @@ Right now, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 
 Other exceptions to this requirement can be approved by DEPO VSP leads.
 
+We have feature toggles. They’re turned on in Dev and Staging but off in Production.
+
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
+- Desired date range: _\[08/18/22 - open\]_
+- How will you make the product available in production while limiting the number of users who can find/access it: \[_We will have a standalone flow on VA.gov accessed by a specific link sent to a Veteran. This option is not something a Veteran could navigate to on VA.gov and instead would be accessed by a direct link._\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Links to dashboard(s) showing "success criteria" metrics: _\[[Digital Health Platform Device Connection Product Outline - Desired User Outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform#desired-user-outcomes)\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
@@ -106,7 +108,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: 08/18/22
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
