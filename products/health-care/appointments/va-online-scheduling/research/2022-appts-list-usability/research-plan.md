@@ -73,6 +73,43 @@ We will use the findings to:
   
 -   Decide on next steps for redesigning the details pages.
 
+Evaluate usability and value of the appointment list redesign.
+
+### Research Questions
+
+**1. Evaluate usability and value of the appointment list redesign.**
+
+-Can appointments be found by:
+
+  -Date/Time?
+  -Modality?
+  -VA vs CC?
+  
+ -Do the type of care and provider name make sense in the list?
+-Does “Pending” and “Past” language make sense?
+  -Are Pending and Past appointments easy to navigate to?
+-Are the details pages easy to navigate to?
+-Can participants easily understand modality meaning - do they understand where they need to be?
+  -On the list
+  -On the details page
+  -Separate from everything else - icon, label, instructions
+-Do Veterans need a physical print “button”?
+-Is the “start scheduling” action link easily discoverable?
+-What would Veterans do next after viewing their appts in the list?
+
+Evaluate usability and value of the health apartment side navigation.
+
+Is the side nav discoverable?
+Do the navigation options on the sidenav make sense?
+Do the navigation options on the sidenav seem helpful?
+
+Test a concept for changes to the appointments details page.
+Is the information on the details pages:
+Easy to understand?
+Easy to scan?
+Does the back button on the details page make sense?
+
+
 ### Hypotheses
 
 The appointments list will:
@@ -133,7 +170,7 @@ Mobile users:
 Please consider each of the following 2 groups as a separate recruitment effort.
 
 Desktop users:
-- 2-3 identifying as female, 2-3 identifying as male
+- At least 2 identifying as female
 - At least 2 underserved veterans
 - At least 1 LGBTQ+ veteran
 - At least one person from the following age bracket:
@@ -142,7 +179,7 @@ Desktop users:
   -  50+.
 
 Mobile users:
-- 2-3 identifying as female, 2-3 identifying as male
+- At least 2 identifying as female
 - At least 2 underserved veterans
 - At least 1 LGBTQ+ veteran
 - At least one person from the following age bracket:
