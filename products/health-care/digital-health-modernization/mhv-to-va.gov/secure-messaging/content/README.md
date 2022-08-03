@@ -470,10 +470,42 @@ This is the default way a message detail loads after a user opts to open a messa
 
 > `Link` Or try the advanced search 
 
+<hr>
 
+### Advanced search
+
+- [Desktop Mockup](link)
+- [Mobile Mockup](link)
+
+> `H1` Advanced search 
+
+> `field input` Enter keyword 
+
+> `Select box` Search in 
+   
+> `Select options` 
+   > 
+
+> `field input` Message ID 
+
+> `field input` From 
+
+> `field input` Subject 
+
+> `Select box` Category
+
+> `Select box` Date range 
+
+> > 'Check box` Includes attachment 
+
+> `Default button` Advanced search 
+
+> `Default secondary button` Reset search 
 
 <hr>
-### Advanced search
+
+
+
 ### Search results page
 ### Delete messages from list
 ### Move messages from list to another folder
