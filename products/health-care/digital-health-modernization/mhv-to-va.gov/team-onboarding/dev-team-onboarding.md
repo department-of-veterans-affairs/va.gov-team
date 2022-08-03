@@ -19,7 +19,7 @@ The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) 
 
 
 ## Platform Orientation
-All team members working on a VA.gov project must complete an orientation request and attend general and practice-specific orientation sessions. 
+All team members working on a VA.gov project must complete an orientation request and should attend general and practice-specific orientation sessions. 
 
 - [Platform Orienation Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) - This request kicks off some processes for granting you access to the GitHub repos. Be sure to complete all fields in the request and **be on the lookout for an email from an admin via GitHub.** If you don't respond within a few days, your request will be archived.
   - [VA Platform Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
