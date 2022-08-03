@@ -47,4 +47,4 @@ Please note that set up instructions may differ if your laptop/desktop is GFE (G
 - [Design system website](https://design.va.gov/)
 
 ## Offboarding
-If a member of the team leaves the contract, they should submit an [offboarding request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=analytics-insights%2C+Offboarding%2C+operations&template=offboarding-request.md&title=Offboarding+of+%5Bindividual%5D)  If they have already left, their HR manager, Product Manager, Product Owner, or Program Director can submit one on their behalf.
+If a member of the team leaves the contract, they should submit an [offboarding request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=analytics-insights%2C+Offboarding%2C+operations&template=offboarding-request.md&title=Offboarding+of+%5Bindividual%5D).  If they have already left, their HR manager, Product Manager, Product Owner, or Program Director can submit one on their behalf.
