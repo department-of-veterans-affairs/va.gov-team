@@ -183,6 +183,11 @@ In prod CMS:
 Post in #vagov-cerner-launch-coordination & @ mention Lauren Alexanderson and Dave Conlon to confirm that cutover tasks are complete. 
 Reach out to relevant stakeholders if you need any help/advice for any questions that may come up.
 
+#### **Task 3**: Trigger Change Management email
+After launch, a Change Management email should be sent to the editors for the cutover center. Copy is documented [in this issue comment](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9338#issuecomment-1204434889).
+
+"From" address for this email (e.g. who we notify to send it) is TBD. Meantime, contact Denise Eisner.
+
 
 ## Identifying VAMC System
 For an upcoming cutover, the name you're given for the cutover may not match a VAMC System name. Meaning: If you filter Drupal Content by VAMC System, you may get no results. In that case, the name may instead refer to the VAMC System's main location facility. You can start from the Facility node to verify that assumption and find the VAMC System to edit.
