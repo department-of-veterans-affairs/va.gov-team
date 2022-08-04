@@ -2,10 +2,10 @@
 
 ## 8/10/2022 
 
-#### Planned Releases 
+#### Planned Releases (TENTATIVE)
 - 8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
  
-#### Discovery Sprint Goals 
+#### Discovery Sprint Goals (TENTATIVE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Test prototypes with users
     - Synthesize research
@@ -19,14 +19,14 @@
 - [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
     - Next steps???
 
-#### Design & Content Sprint Goals
+#### Design & Content Sprint Goals (TENTATIVE)
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Collaborate with VAOS
     - Create final wireframes
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
     - Pull in 1 
 
-#### Engineering Sprint Goals
+#### Engineering Sprint Goals (TENTATIVE)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Implement new feature toggle handler (is there a ticket?)
     - Test & release on 8/23
@@ -42,8 +42,8 @@
     - Fix 1 bug
 - [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
     - Next steps?
-- Bugs & Tech Debt (As many or as few as we can fit in)
-   - As many bugs as can fit in the Sprint
+- Bugs & Tech Debt 
+   - As many as can fit in the Sprint
 
 
 ## 7/27/2022 
