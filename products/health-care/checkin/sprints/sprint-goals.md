@@ -9,7 +9,9 @@
 #### Design & Content Sprint Goals
 
 #### Engineering Sprint Goals
-- [Add GA events to language toggle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45230)
+- [CIE Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42190)
+    - Add GA events to language toggle
+    - Look at higher bounce rates for screen resolutions 
 
 ## 7/27/2022 
 
