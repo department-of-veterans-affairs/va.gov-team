@@ -106,7 +106,7 @@ Sketch Mockups (high-fidelity): [Desktop](https://www.sketch.com/s/59857eb5-d9f9
 
 - Both small yellow warning alert and main alert disappear.
 
-- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/bgJJkgO) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/ygEE2DA)
+- Mockups: [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/GmlvPr8) & [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/zxJjrY5)
 
 <img width="655" alt="Screen Shot 2022-05-06 at 11 26 25 AM" src="https://user-images.githubusercontent.com/79372956/167196811-92aa2cd4-e7f4-4f77-81e5-232bcd19a17a.png">
 
