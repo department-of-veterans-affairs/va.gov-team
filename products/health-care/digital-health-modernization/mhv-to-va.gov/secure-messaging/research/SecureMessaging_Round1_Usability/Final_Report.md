@@ -63,7 +63,7 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 # Hypotheses and Conclusions
 
 - Participants would not use secure messaging in case of an emergency. They would seek immediate medical attention instead.
-	- *Definitely True*. Eighteen of the 19 participants said that they would call 911 or go to the emergency room in case of the emergency; 1 said that they would go to urgent care.
+	- *Definitely True*. Eighteen of the nineteen participants said that they would call 911 or go to the emergency room in case of the emergency; 1 said that they would go to urgent care.
 - Participants find messages by scrolling through their past messages. Participants organize their messages using folders.
 	-  *Mostly True*. Participants found messages in different ways which included scrolling as well as searching and sorting. If participants chose to organize their messages they did so using the folders but about 3/4 did not currently organize their messages in secure messaging. 
 - Participants are able to easily compose and reply to messages.
@@ -92,11 +92,10 @@ In case of an emergency eighteen said that they would call 911 or go to the emer
 
 
 **2. Participants understood who sent them the message, who would respond, and how long it would take them to receive a reply.**
-<!-- how many participants? what was the common "length of time" they thought it would take? Add a few more details to the finding below -->
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-Most of the participants who understood these things were current, regular secure messaging users.
+All of the participants understood who sent them the message.  4/5 of the participants understood that a member of their care team besides that doctor may respond to their message and at least 2/3 of participants stated that it could take up to 3 days to receive a reply. Most of the participants in this round were current, regular secure messaging users.
 
 > I would expect that they are somewhere on my health care team, maybe my nurse, doctor, staff... . (P16, Veteran)
 
@@ -109,11 +108,11 @@ Viewing messages in time/date order matches the functionality currently in the p
 
 
 **4. Participants could find past messages but rarely mentioned the “Expand All Messages” link.**
-<!-- would be cool to add a screenshot here so people can visualize this better -->
 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
-There are two links related to past messages. The users frequently commented on the first link “Older messages in this conversation” but not on the second “Expand All Messages” link.
+There are 2 links related to past messages. The users frequently commented on the first link “Older messages in this conversation” but not on the second “Expand All Messages” link.
+![Past messages screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability/Screen%20shot%20of%20older%20messages%20section%20mobile%20version.png)
 
 > I saw on the other page that there were x of 3 so I knew that there would be more . . . It's nice that they're right here. (P20, Veteran)
 
@@ -123,6 +122,7 @@ There are two links related to past messages. The users frequently commented on 
 Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 
 In addition to confirmation that their message had been sent, participants also mentioned that after sending a message they would like to auto-direct back to the messages screen.  
+
 
 > Something should pop up and say "Your message was successfully sent". (P3, Veteran) 
 
@@ -142,7 +142,6 @@ The simple messaging experience was desirable because participants said that it 
 - The Delete folder functionality did not match participants’ assumptions. About half of the participants would delete their messages and none of those participants would expect their deleted messages to permanently remain in the Deleted folder.
 - Participants did not know what the first screen that they came to was called. Instead of Messages they called it the “inbox or “home”.
 
-<!-- you use both numbers and letters for numbers "nineteen/19" thoughout. nitpicky, but pick one and be consistent throughout -->
 
 # Recommendations
 
@@ -152,7 +151,7 @@ The simple messaging experience was desirable because participants said that it 
 * Participants rarely mentioned the “in this section” component of search. This should be explored in future rounds of testing to make sure that users know what they are searching.
 * Participants didn’t know what the “Messages” screen was called. Include a name for the Messages page in the next round of research in a way that doesn’t require double links in the navigation.
 * The functionality of the Delete folder did not match participants’ assumptions. In the next round of testing consider how the design could better match expectations.
-* Six of the 19 participants looked for messaging help in the VA.gov header or footer. Investigate how to distinguish between VA.gov content and page/secure messaging content.
+* Six of the nineteen participants looked for messaging help in the VA.gov header or footer. Investigate how to distinguish between VA.gov content and page/secure messaging content.
 
 
 # Next Steps
@@ -173,7 +172,7 @@ Our next steps are to bring these findings to our design team and iterate on our
 ## Who we talked to 
 
 **Recruitment criteria**
-Our primary criteria included that all participants must have eligable for VA Healthcare. We requested at least 10 participants who regularly use Secure Messaging and up to 10 participants that do not use Secure Messaging. We also included at least 10 participants who are mobile users and at least 10 participants who are desktop users. We used a lean but representative approach for all other criteria.
+Our primary criteria included that all participants must have eligable for VA Healthcare. We requested at least ten participants who regularly use Secure Messaging and up to ten participants that do not use Secure Messaging. We also included at least ten participants who are mobile users and at least ten participants who are desktop users. We used a lean but representative approach for all other criteria.
 
 We talked to **nineteen participants**.
 
