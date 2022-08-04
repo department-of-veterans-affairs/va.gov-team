@@ -1,4 +1,4 @@
-# Discovery
+## Discovery
 
 [Homepage research](#homepage-research)
 
