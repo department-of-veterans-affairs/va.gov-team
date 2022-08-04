@@ -52,7 +52,7 @@ We’ll also do moderated UAT testing.
 
 ### Results:
 
-(_Instructions: _This section to be completed after Phase I is done)
+*(Instructions: This section to be completed after Phase I is done)*
 
 - Number of users: x
 - Number of bugs identified / fixed: x/x
@@ -93,7 +93,7 @@ The 1-week and 1-month results will be more relevant once we have paperless deli
 ### 1-week results:
 
 
-### _(Instructions: Fill out this section when we actually have results) _
+*(Instructions: Fill out this section when we actually have results)*
 
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
@@ -107,7 +107,7 @@ The 1-week and 1-month results will be more relevant once we have paperless deli
 
 ### 1-month results:
 
-(Instructions: Fill out this section when we actually have results) 
+*(Instructions: Fill out this section when we actually have results)*
 
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
@@ -121,7 +121,7 @@ The 1-week and 1-month results will be more relevant once we have paperless deli
 
 ## Post-launch Questions
 
-(Instructions: Fill out this section when we actually have results) 
+*(Instructions: Fill out this section when we actually have results)*
 
 _To be completed once you have gathered your initial set of data, as outlined above._
 
