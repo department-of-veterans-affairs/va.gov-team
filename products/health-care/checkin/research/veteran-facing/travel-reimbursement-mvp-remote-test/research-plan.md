@@ -121,7 +121,7 @@ Remote with Zoom
 
 ### Research Materials
 
-- Conversation guide
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/conversation-guide.md)
 - [User flow diagrams for prototypes (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658844568873/93ba988aed6312d43533b8feaed365529b836332?sender=u83bc52d7fa73658f84f27755)
 - [Prototype A](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E) (“interested question”) 
 - [Prototype B](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E032CDED-B46C-437E-8592-D47A595CB4DD) (“no interested question”)
