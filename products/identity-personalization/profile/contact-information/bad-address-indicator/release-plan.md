@@ -34,7 +34,7 @@
 
 - Link clickthroughs from Alerts are successfully directing users to the intended pages with no errors 
 - No P0's (launch-blockers) found
-- Approval from the GO/NO GO call
+- Approval from the GO/NO GO call [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/Launch_Go_No_Go.md)
 
 # Go Live!
 
