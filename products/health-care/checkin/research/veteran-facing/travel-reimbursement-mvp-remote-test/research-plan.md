@@ -1,6 +1,6 @@
 # Patient Check In Research Plan for Travel Reimbursement MVP Remote Usability Test
 
-July 25, 2022
+Last modified: August 4, 2022
 
 ## Background 
 
@@ -38,7 +38,7 @@ This research plan supports the following OCTO objectives:
 
 This research plan maps to the following moment within the Veteran journey:  
 
-<img width="1218" alt="Screen Shot 2022-07-26 at 5 22 41 PM" src="https://user-images.githubusercontent.com/101129355/181114485-e0a648dd-f87a-4f79-9c81-907af10b5e3e.png">
+<img width="1013" alt="Screen Shot 2022-08-04 at 4 14 20 PM" src="https://user-images.githubusercontent.com/101129355/182944130-0f25c7d8-ba97-4b95-ba6a-cb6ae2357b14.png">
 
 ## Research Goals 
 
@@ -84,7 +84,7 @@ Our goals for this research are to gather feedback from Veterans in the followin
 
 ## Method
 
-This research will be conducted as a contextual inquiry that includes a presentation of prototypes that the moderator will control. The contextual inquiry method will allow experiencing the prototypes to remain as a controlled variable between participants, which will allow us to gather feedback on specific areas of interest and skip those that aren’t.  
+This research will be conducted as a moderated usability study that utilizes non code-based prototypes fit for mobile devices. This method allows us to gather feedback at an early stage of development, while gathering it within an environment (i.e., mobile devices) that’s closest to how the product will be used. 
 
 To avoid cognitive overload, half of the participants will engage in activities related to research goals #1 and #3, while the other half will engage in activities related to research goals #2 and #3:  
 
@@ -93,41 +93,28 @@ To avoid cognitive overload, half of the participants will engage in activities 
 
 There will be a total of three prototypes created for the purposes of this research: 
 
-- Prototype A (“interested question”) pertains to research goals #1 and #3 
-- Prototype B (“no interested question”) pertains to research goal #1, #2 and #3
-- Prototype C (“single-question flow”) pertains to research goals #2 and #3
+- [Prototype A](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E) (“interested question”) pertains to research goals #1 and #3 
+- [Prototype B](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E032CDED-B46C-437E-8592-D47A595CB4DD) (“no interested question”) pertains to research goal #1, #2 and #3
+- [Prototype C](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E3C109B2-DA3E-46CD-8A98-52C09ADD1944) (“single-question flow”) pertains to research goals #2 and #3
 
-The contextual inquiries will utilize the following high-level conversation guide: 
+The moderated usability studies will utilize the following high-level conversation guide: 
 
 - Participant Group 1 
      - Introduction 
-     - Show Prototype A to participant (to avoid bias, rotate prototype order for each participant)
-     - Show Prototype B to participant 
+     - Provide Prototype A to participant (to avoid bias, rotate prototype order for each participant)
      - Ask follow up questions 
-     - Show alternative paths for Prototypes A and B to participant 
+     - Provide Prototype B to participant 
      - Ask follow up questions 
-     - Show happy path confirmation page for Prototype A (which is the same for Prototype B) to participant 
-     - Ask follow up questions
-     - Show alternative path confirmation page for Prototype A (which is the same for Prototype B) to participant 
-     - Ask follow up questions
      - Closing 
 
 - Participant Group 2
      - Introduction 
-     - Show Prototype B to participant (to avoid bias, rotate prototype order for each participant)
+     - Provide Prototype B to participant (to avoid bias, rotate prototype order for each participant)
      - Ask follow up questions 
-     - Show Prototype C to participant    
+     - Provide Prototype C to participant 
      - Ask follow up questions 
-     - Show alternative path for Prototype B to participant 
-     - Ask follow up questions 
-     - Show alternative path for Prototype C to participant 
-     - Ask follow up questions 
-     - Show happy path confirmation page for Prototype B (which is the same for Prototype C) to participant 
-     - Ask follow up questions
-     - Show alternative path confirmation page for Prototype B (which is the same for Prototype C) to participant 
-     - Ask follow up questions
-     - Closing 
-
+     - Closing
+     
 ### Location 
 
 Remote with Zoom 
@@ -136,28 +123,33 @@ Remote with Zoom
 
 - Conversation guide
 - [User flow diagrams for prototypes (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658844568873/93ba988aed6312d43533b8feaed365529b836332?sender=u83bc52d7fa73658f84f27755)
-- Prototype A ("interested question")
-- Prototype B ("no interested question")
-- Prototype C ("single-question flow")
+- [Prototype A](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E) (“interested question”) 
+- [Prototype B](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E032CDED-B46C-437E-8592-D47A595CB4DD) (“no interested question”)
+- [Prototype C](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E3C109B2-DA3E-46CD-8A98-52C09ADD1944) (“single-question flow”) 
 
 ## Recruitment 
 
 #### Recruitment Criteria 
 
-- 20 participants or a minimum of 12 completed sessions
-- Veterans 
-- Participants are required to have Zoom installed on the device they’d be using to participate in this study
-- We are unable to include individuals that pertain to or require one or more of the following due to the prototyping software’s ability to meet accessibility requirements: 
+- 20 Veterans or a minimum of 12 completed sessions
+
+#### Primary criteria (must-haves) 
+
+- Participants must join from an iPhone
+- Participants must have Zoom installed on their iPhone
+- Participants must be able to screen share using Zoom.
+- Participants must be comfortable sharing their screen. 
+- We are unable to include individuals that use assistance technology due to limitations with the prototype we’ll be using. This includes the following: 
      - Assistive technology users 
-     - Screen reader
+     - Screen readers
      - Magnification/zoom
-     - Speech input device
+     - Speech input devices
      - Hearing aid
      - Sighted keyboard
      - Switch device
      - Braille reader
 
-#### Primary criteria (must-haves) 
+Inclusion: 
 
 - 50% aged 55-64+
 - 50% with an identified cognitive disability
@@ -168,9 +160,10 @@ Remote with Zoom
 
 Screener questions:
 
+- Do you own and use an iPhone? [“Yes” to quality]
+- Are you willing to share your screen using Zoom? [“Yes” to qualify]
 - Have you been to a VA health care facility for a medical appointment for yourself in the last 12 months? [“Yes” to qualify]
 - Have you filed or received payment for a travel reimbursement claim for a VA medical appointment in the last 12 months? [“Yes” to qualify] 
-- Do you own a smartphone and use it daily? [“Yes” to qualify.]
 
 #### Secondary criteria (nice-to-haves)
 
@@ -181,7 +174,20 @@ Screener questions:
 
 ## Timeline 
 
-TBD 
+#### Prepare
+
+- Pilot participant: Kristen McConnell, Lori Pusey
+- Date and time of pilot session: August 11, 2022, 10 am - 11 am EST
+
+#### Length of sessions
+
+- Session length: Up to 1 hour
+- Buffer time between sessions: 30 minutes  
+
+#### Availability 
+
+- Monday, August 15th - Friday, August 19th, 8:30 am - 5:30 pm EST 
+- Monday, August 22nd, 9 am - 5:30 pm EST 
 
 ## Team Roles
 
