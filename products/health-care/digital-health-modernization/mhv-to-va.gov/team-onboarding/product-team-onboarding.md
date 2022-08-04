@@ -1,5 +1,7 @@
 # MHV to VA.gov Product Onboarding Quick Start Guide
-This guide hits some of the highlights in the overall VA.gov onboarding process, but please revert to that guide for details and the latest info.  
+## August 2022
+
+This guide hits some of the highlights in the overall [VA.gov onboarding process](https://depo-platform-documentation.scrollhelp.site/getting-started/), but please refer to that guide for specifics and any updated info.  
 
 ## Admin Info
 Before you get started with onboarding, there are a few key pieces of information that you will need:
