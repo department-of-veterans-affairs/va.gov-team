@@ -1,4 +1,5 @@
 # Product development checklist
+> 🚩 *For substantial updates, please create a PR and tag a PM for review e.g. Lisa Koenigsberg, Mickin Sahni, Shira Goodman*
 
 ### Ask yourself the questions below weekly, starting from Day 1.
 
