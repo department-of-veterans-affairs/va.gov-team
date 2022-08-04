@@ -39,7 +39,7 @@
     - Look at higher bounce rates for screen resolutions 
 - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
     - Add ability to set "needs insurance review" flag
-    - Fix 1 bug
+    - Fix 2 bugs
 - [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
     - Next steps?
 - Bugs & Tech Debt 
