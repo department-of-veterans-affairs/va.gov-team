@@ -163,6 +163,7 @@ FOR EVERYONE
 
 ### FOR EVERYONE
 *Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
+- How would you sign in? *(RECORD: button in header / hero by photos)*
 - Can you tell me about what you expect and why?
 - If you were on a public computer and didn't want to sign in, is there anything you might expect to do from this web page?
 
@@ -447,8 +448,11 @@ Your employer asked you to provide proof of your military service and honorable 
      1. If there wasn't information on homelessness here, what kind of information might you expect or want to see here?
      1. How often should the information be changed?
 1. Now I'd like to ask about another part of the page: under "Search VA.gov" where it says "Other search tools". What does that mean to you?
-1. Can you tell me about how you usually look for information on web pages in general? (not specifically VA or government websites)
-    *RECORD: type into search box / click on links (browse) / _______________________*
+2. Looking up a bit on the page, tell me about what you see in the bright blue box ("Access and manage your VA benefits and health care", "Sign in and create an account"). 
+3. I'd like to know more about how you usually look for information on web pages in general--not specifically VA or government websites. Can you tell me about a web page that you went to recently and how you found what you were looking for on it? 
+    1. *RECORD: type into search box / click on links (browse) / _______________________*
+    1. Do you ever use a search box on the page?
+    2. If so, when?
 3. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
