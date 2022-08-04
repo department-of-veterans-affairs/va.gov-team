@@ -19,10 +19,10 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-* **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+**I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Warm-up Questions (Optional) - 2 minutes
-**Task goal: Confirm they qualify for the study
+**Task goal: Confirm they qualify for the study**
 
 1. As part of the scheduling for this session, we asked if you have an account on VA.gov. Can you confirm for me the email address you use with your DS Logon, MyHealtheVet, Login.gov or ID.me account?
 	* If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?)
@@ -51,7 +51,6 @@ I'd like you to open a new tab in your browser, and go to https://www.va.gov/ an
 - Go ahead and click on My VA
 
 ### UAT tasks
-- [ ] Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - [ ] Confirm user was properly redirected to My VA
 - [ ] Note the device and browser
 
@@ -60,7 +59,7 @@ I'd like you to open a new tab in your browser, and go to https://www.va.gov/ an
 
 ### If redirect was not successful
 - ask user to click on My VA
-- go to task 3**
+- go to task 3
 
 ### If redirect was successful
 
@@ -86,6 +85,11 @@ Great! Tell me about where you’ve landed on the website.
 - [ ] What would they do next?
 
 ## 3. Understand the homepage and My VA relationship - 3 minutes
+
+**If redirect was unsuccessful**
+Talk to me about this page, and what you can do here
+
+**All participants**
 From here, show me how you would get back to the homepage.
 
 Talk to me about the difference between those two pages.
