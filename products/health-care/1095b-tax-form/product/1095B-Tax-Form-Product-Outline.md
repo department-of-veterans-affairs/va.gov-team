@@ -12,7 +12,7 @@ In most cases, it is simply a form for one's records. However, some states still
 
 Currently, the IRS form 1095-B is mailed to Veterans and dependents who receive health care through VA. Sending it by mail costs VA approximately $1.5M/year, and an additional $400,000/year to print and send corrected forms. 
 
-What's more, the form isn't available online, so if a Veteran or dependent lose the form, they have no easy way to get an immediate replacement. If they need to change an address or other information on the form, they currently need to wait to have it printed and mailed out to them. 
+Since the form isn't available online, if a Veteran or dependent were to lose the form, they have no easy way to get an immediate replacement. If they need to change an address or other information on the form, they currently need to wait to have it printed and mailed out to them. 
 
 - How might we make the digital 1095-B  form easily accessible to Veterans?
 - How might we provide Veterans a clear resolution path if there's an error on the form?
