@@ -198,16 +198,17 @@ Project point of contact: Stephen Barrs [(stephen.barrs@va.gov)](mailto:(stephen
 Participants for pilot test: Kristen McConnell [(kristen.mcconnell@adhocteam.us)](mailto:kristen.mcconnell@adhocteam.us)
 Note-takers: Perigean
 Observers: 
-- Stephen Barrs
-- Patrick Bateman
+- Stephen Barrs [(stephen.barrs@va.gov)](mailto:(stephen.barrs@va.gov)
+- Patrick Bateman Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov)
+- Mark Dewey [(mark.dewey@va.gov)](mailto:mark.dewey@va.gov)
 - Lori Pusey [(lori.pusey@agile6.com)](mailto:lori.pusey@agile.com)
 - Sarah Knopp [(sarah.knopp@agile6.com)](mailto:sarah.knopp@agile6.com)
 - Zach Park [(zach.park@agile6.com)](mailto:zach.park@agile6.com)
-- Ya-ching Tsao
-- Nira Datta
-- Kristen McConnell
-- Adrian Rollett
-- Bethany Dunfield
-- Brian Seek
-- Gaurav Gupta
-- Kanchana Suriyamoorthy 
+- Ya-ching Tsao [(yaching.tsao@civicactions.com)](mailto:yaching.tsao@civicactions.com)
+- Nira Datta [(nira.datta@civicactions.com)](mailto:nira.datta@civicactions.com)
+- Kristen McConnell [(kristen.mcconnell@adhocteam.us)](mailto:kristen.mcconnell@adhocteam.us)
+- Adrian Rollett [(adrian.rolett@agile6.com)](mailto:adrian.rolett@agile6.com)
+- Bethany Dunfield [(bethany.dunfield@civicactions.com)](mailto:bethany.dunfield@civicactions.com)
+- Brian Seek [(brian.seek@civicactions.com)](mailto:brian.seek@civicactions.com)
+- Gaurav Gupta [(ggupta@kindsys.us)](mailto:ggupta@kindsys.us)
+- Kanchana Suriyamoorthy [(ksuriyamoorthy@kindsys.us)](mailto:ksuriyamoorthy@kindsys.us)
