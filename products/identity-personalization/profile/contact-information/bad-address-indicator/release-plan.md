@@ -4,7 +4,7 @@
 
 ### Planning:
 
-- **Desired date range or test duration:**  August 2022
+- **Desired date range or test duration:**  July 2022
 - **Desired number of users:**  Recruiting 10 participants with a target of completing 8 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
