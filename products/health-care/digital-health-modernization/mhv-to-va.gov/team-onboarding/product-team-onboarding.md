@@ -14,7 +14,7 @@ Before you get started with onboarding, there are a few key pieces of informatio
 10. Team slack channel - please work with your Product Owner, who may already have created a channel.
 
 ## Communication
-Much of the day-to-day communication between VA.gov product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of the GitHub issue itself.
+Much of the day-to-day communication between VA.gov product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of a GitHub issue itself. It's relatively rare to communicate via email unless reaching to someone at the VA or a vendor.
 
 ## VA Platform Website
 The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as processes, documentation, and info on getting access to the tools you will need.
