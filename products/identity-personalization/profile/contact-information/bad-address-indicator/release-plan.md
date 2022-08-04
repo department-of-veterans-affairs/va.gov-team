@@ -50,7 +50,7 @@ Desired date: Sept 2022
 
  Desired date: mm/dd/yy
 - Post-launch: xx lorem ipsum
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: (ready / not ready)xxxx
 
 
 ### 1-month results:
