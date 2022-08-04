@@ -5,7 +5,7 @@
 ### Planning
 - UAT Go/No Go: No UAT Planned, this is an addition of a single Yes/No question.
 - Link to [Readiness Checklist]()
-- Desired date range or test duration: N/A
+- Desired date range or test duration: 08/04/2022 - 08/05/2022
 - Desired number of users: N/A
 - Recruitment method: N/A
 - How testing will be conducted: N/A
@@ -22,7 +22,7 @@
 ## Phase 2: Staged Rollout
 
 ### Planning
-- Launch Go / No Go: 07/29/2022
+- Launch Go / No Go: 08/08/2022
 - Desired date range: 08/08/2022 - 08/16/2022
 - How users will be given access to the product in production without making it fully available: Feature is hidden behind a feature flag
 - Success criteria to be reviewed prior to advancing rollout to the next stage
@@ -33,8 +33,10 @@
 #### Phased Rollout
 - 25% of users (1 week)
   - Dates: 08/08/2022
-- 50% of users (2 weeks)
-  - Dates: 08/16/2022
+- 50% of users (1 week)
+  - Dates: 08/15/2022
+- 75% of users (1 week)
+  - Date: 08/22/2022
 - 100% of users
   - Date: 08/29/2022
 
