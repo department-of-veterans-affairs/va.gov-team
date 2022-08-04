@@ -9,7 +9,7 @@ Before you get started with onboarding, there are a few key pieces of informatio
 2. Name of your OCTO-DE Product Owner
 3. Name of your VA Business Owner
 4. A GitHub account.  Almost all orientation-related requests and related correspondence happen in GitHub, so you'll to [create an account](https://github.com/join) before proceeding. *You don't need a VA.gov email address assigned to create the account, but once you have your VA email, add it to your GitHub account so you won't be removed from the repo*
-5. GitHub Handle - After creating a GitHub account, make note of your GitHub handle (user name).  Each team member will need to provide this in their orientation request
+5. GitHub Handle - After creating a GitHub account, make note of your GitHub handle (user name).  You will needd to provide this in your orientation request
 6. Name of your contract
 7. Name of the COR (Contracting Officer's Representative) on your contract and their email address
 8. Team name - You and your Product Owner should decide on a name before proceeding.  If this is a brand-new team, you or your Product Owner will need to create a [new VFS Team Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights&template=new-vfs-team.md&title=New+VFS+Team+%5BInsert+team+name+here%5D)
@@ -17,7 +17,7 @@ Before you get started with onboarding, there are a few key pieces of informatio
 10. Team slack channel - please work with your Product Owner, who may already have created a channel
 
 ## Communication
-Most day-to-day communications between VA.gov product team members happens in Slack.  Questions and feedback on specific GitHub requests often take place within the comments of the GitHub issue itself. In genearl, it's rare to communicate via email unless the it includes someone at the VA or a vendor.  Surveys and announcements about upcoming changes are also posted in Slack in the #vfs-all-teams channel.
+Most day-to-day communications between VA.gov product team members happens in Slack.  Questions and feedback on specific GitHub requests often take place within the comments of the GitHub issue itself. Surveys and announcements about upcoming changes are also posted in Slack in the #vfs-all-teams channel. In general, email is used for discussions with the VA or a vendor.
 
 ## VA Platform Website
 The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as recommended Slack channels, processes, documentation, and instructions for getting access to the tools and systems you will need.
