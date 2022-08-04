@@ -1,5 +1,16 @@
 # SPRINT GOALS
 
+## 8/10/2022 
+
+#### Planned Releases 
+
+#### Discovery Sprint Goals 
+
+#### Design & Content Sprint Goals
+
+#### Engineering Sprint Goals
+- [Add GA events to language toggle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45230)
+
 ## 7/27/2022 
 
 #### Planned Releases 
