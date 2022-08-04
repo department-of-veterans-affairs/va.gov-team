@@ -93,6 +93,7 @@ If your facility or organization sends emails to Veteran subscribers, below are 
 ### Other content
 
 Note: Newest content is listed first
+- [Genes involved in heart disease are similar across all populations, VA study finds](https://www.research.va.gov/currents/0822-Genes-involved-in-heart-disease-are-similar-across-all-populations-VA-study-finds.cfm)
 - [Standing Ready | Genomics & the Million Veterans Project](https://share.transistor.fm/s/aad3fe33)
 - [Borne the Battle #280: Benefits Breakdown – Million Veteran Program - VAntage Point](https://blogs.va.gov/VAntage/104361/borne-the-battle-280-benefits-breakdown-million-veteran-program/)
 - [Your Height Could Be a Factor in Disease Risk | Health News | US News](https://www.usnews.com/news/health-news/articles/2022-06-03/your-height-could-be-a-factor-in-disease-risk)
