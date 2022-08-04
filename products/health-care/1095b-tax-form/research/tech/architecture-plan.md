@@ -8,7 +8,7 @@ This document provides detailed information on the architecture for generating t
 
 **Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App**
 
-<img width="1008" alt="Screen Shot 2022-08-04 at 2 50 01 PM" src="https://user-images.githubusercontent.com/47372929/182930550-111eea97-629c-469b-af7b-b839cd8960bf.png">
+<img width="986" alt="Screen Shot 2022-08-04 at 3 43 42 PM" src="https://user-images.githubusercontent.com/47372929/182939172-b1ca91b5-8aa3-4a60-98a1-e841e8ad2e42.png">
 
 [Visitor Link to Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
@@ -58,6 +58,12 @@ Where the initial flat file is stored before it is converted
 - What if file is corrupt? How will we process QA? We know there are some QA steps on the Enrollment System side.
 
 
+Vets API Database
+-------------
+
+Veterans 1095-B form data gets stored in the vets-api database. The form data is encrypted when stored into the database.
+
+
 API (vets-api)
 --------------
 
@@ -88,10 +94,10 @@ To get data from the database in a secure, reliable, fast way
 - Where in vets-api should the new API live?
 - What are the testing/ QA requirements? 
 
-PDF Generation
+PDF/Text file Generation
 --------------
 
-We need a script to fill the PDF form with data
+We need a script to fill the PDF/Text file form with data
 
 **Steps**
 
