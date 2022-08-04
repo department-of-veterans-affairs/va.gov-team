@@ -6,13 +6,45 @@
 - 8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
  
 #### Discovery Sprint Goals 
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Test prototypes with users
+    - Synthesize research
+    - Create study report
+- [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
+    - Conduct interviews 
+    - Synthesize findings
+    - Create study report   
+- [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
+    - Next steps????
+- [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
+    - Next steps???
 
 #### Design & Content Sprint Goals
+- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
+    - Collaborate with VAOS
+    - Create final wireframes
+- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)
+    - Pull in 1 
 
 #### Engineering Sprint Goals
+- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+    - Implement new feature toggle handler (is there a ticket?)
+    - Test & release on 8/23
+- [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
+    - Support CHIP team as necessary for CHIP api
+- [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
+    - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint
 - [CIE Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42190)
     - Add GA events to language toggle
     - Look at higher bounce rates for screen resolutions 
+- [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
+    - Add ability to set "needs insurance review" flag
+    - Fix 1 bug
+- [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
+    - Next steps?
+- Bugs & Tech Debt (As many or as few as we can fit in)
+   - As many bugs as can fit in the Sprint
+
 
 ## 7/27/2022 
 
