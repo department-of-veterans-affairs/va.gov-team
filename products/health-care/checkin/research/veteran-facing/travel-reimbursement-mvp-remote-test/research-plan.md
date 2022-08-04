@@ -191,18 +191,18 @@ Screener questions:
 
 ## Team Roles
 
-Moderator: Ben Brasso
+Moderator: Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)
 Research guide writing and task development: Ben Brasso
 Participant recruiting & screening: Perigean 
-Project point of contact: Stephen Barrs, Patrick Bateman
-Participants for pilot test: TBD 
+Project point of contact: Stephen Barrs [(stephen.barrs@va.gov)](mailto:(stephen.barrs@va.gov), Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov)
+Participants for pilot test: Kristen McConnell [(kristen.mcconnell@adhocteam.us)](mailto:kristen.mcconnell@adhocteam.us)
 Note-takers: Perigean
 Observers: 
 - Stephen Barrs
 - Patrick Bateman
-- Lori Pusey
-- Sarah Knopp
-- Zach Park
+- Lori Pusey [(lori.pusey@agile6.com)](mailto:lori.pusey@agile.com)
+- Sarah Knopp [(sarah.knopp@agile6.com)](mailto:sarah.knopp@agile6.com)
+- Zach Park [(zach.park@agile6.com)](mailto:zach.park@agile6.com)
 - Ya-ching Tsao
 - Nira Datta
 - Kristen McConnell
