@@ -8,7 +8,7 @@ This document provides detailed information on the architecture for generating t
 
 **Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App**
 
-![]<img width="1008" alt="Screen Shot 2022-08-04 at 2 50 01 PM" src="https://user-images.githubusercontent.com/47372929/182930550-111eea97-629c-469b-af7b-b839cd8960bf.png">
+<img width="1008" alt="Screen Shot 2022-08-04 at 2 50 01 PM" src="https://user-images.githubusercontent.com/47372929/182930550-111eea97-629c-469b-af7b-b839cd8960bf.png">
 
 [Visitor Link to Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
