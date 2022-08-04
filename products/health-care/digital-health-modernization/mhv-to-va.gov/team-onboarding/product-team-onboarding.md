@@ -1,4 +1,5 @@
-# MHV to VA.gov Team Member Onboarding Guide
+# MHV to VA.gov Product Onboarding Quick Start Guide
+This guide hits some of the highlights in the overall VA.gov onboarding process, but please revert to that guide for details and the latest info.  
 
 ## Admin Info
 Before you get started with onboarding, there are a few key pieces of information that you will need:
@@ -10,6 +11,7 @@ Before you get started with onboarding, there are a few key pieces of informatio
 6. Name of your contract
 8. Team name - this is the name you will call your new VFS (Veteran-Facing Services) team.  You and your Product Owner should decide on a name before proceeding.  If this is a brand-new team, you or your Product Owner will need to create a [new VFS Team Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights&template=new-vfs-team.md&title=New+VFS+Team+%5BInsert+team+name+here%5D)
 9. Team members' start dates - Each team member will need to know their employment start date for their orientation request.
+10. Team slack channel - please work with your Product Owner, who may already have created a channel.
 
 ## Communication
 Much of the day-to-day communication between VA.gov product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of the GitHub issue itself.
@@ -28,6 +30,7 @@ All team members working on a VA.gov project must complete an orientation reques
 
 ## Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
+- One of the tools you'll be requesting is GitHub.  It will also simplify your ability to track work and communicate with other VA.gov teams if you  connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. 
 
 ## VA Platform Collaboration Cycle
 As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should familiarize themselves with this process and understand responsbilities, platform expectations, and required artifacts.
