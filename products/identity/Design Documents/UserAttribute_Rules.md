@@ -45,6 +45,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has one or less Sec_ID, the user `IS` permitted to login
  - MHV_ICN: parsed from eauth headers
     - If the MHV ICN does not equal the ICN inside the eauth headers returned after authnetication, the user `IS NOT` permitted to login. We throw an error on the frontend that states the user has an ICN mismatch
+    - For Sign in Service since we do not get eauth headers we do not compare the MHV ICN to the MPI ICN. We will only be looking for the MPI ICN. If a user signs in through Sign in Service and the MHV ICN does not equal the MPI ICN, the user `IS` permitted to login.
  
 This diagram depicts the current business requirements as described above:
 
