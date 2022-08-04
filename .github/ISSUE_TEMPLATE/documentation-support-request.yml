@@ -3,7 +3,7 @@ description: Use this template to request documentation support from the Platfor
 name: Documentation Support Request
 description: Use this template to request documentation support from the Platform content team
 title: Documentation support
-labels: ['documentation-support''platform-content-team']
+labels: ['documentation-support', 'platform-content-team']
 body:
   - type: checkboxes
     id: help-type
