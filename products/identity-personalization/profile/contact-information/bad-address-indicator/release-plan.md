@@ -17,7 +17,7 @@
 - **Number of users:** 8
 - **Number of bugs identified / fixed:** 0
 - **Types of errors logged: n/a
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** TBD
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** Small modifications are being made to content and UI (#45001 and #45002)
 
 
 ## Phase II: Staged Roll-out
