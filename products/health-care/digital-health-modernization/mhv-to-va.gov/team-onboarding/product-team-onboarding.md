@@ -14,7 +14,7 @@ Before you get started with onboarding, there are a few key pieces of informatio
 10. Team slack channel - please work with your Product Owner, who may already have created a channel.
 
 ## Communication
-Much of the day-to-day communication between VA.gov product teams is done in Slack.  Conversation about specific GitHub requests may also take place within the context of a GitHub issue itself. It's relatively rare to communicate via email unless reaching to someone at the VA or a vendor.
+Most day-to-day communication between VA.gov product teams happens in Slack.  Questions and feedback on specific GitHub requests often take place within the comments of the GitHub issue itself. In genearl, it's rare to communicate via email unless the it includes someone at the VA or a vendor.  Surveys and announcements about upcoming changes are also posted in Slack in the #vfs-all-teams channel.
 
 ## VA Platform Website
 The [VA Platform website](https://depo-platform-documentation.scrollhelp.site/) is a valuable resource that contains the most current information about onboarding to the VA.gov platform, as well as processes, documentation, and info on getting access to the tools you will need.
@@ -33,7 +33,7 @@ All team members working on a VA.gov project must complete an orientation reques
 - One of the tools you'll be requesting is GitHub.  It will also simplify your ability to track work and communicate with other VA.gov teams if you  connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. 
 
 ## VA Platform Collaboration Cycle
-As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should familiarize themselves with this process and understand responsbilities, platform expectations, and required artifacts.
+As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should become familiar with the process and understand team responsbilities, Platform expectations, and required artifacts.
 - [VA Platform Collaboration cycle website](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
 
 ## Engineering-Specific Info
