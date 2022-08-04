@@ -194,12 +194,12 @@ Screener questions:
 Moderator: Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
 Research guide writing and task development: Ben Brasso<br>
 Participant recruiting & screening: Perigean <br>
-Project point of contact: Stephen Barrs [(stephen.barrs@va.gov)](mailto:(stephen.barrs@va.gov), Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov)<br>
+Project point of contact: Stephen Barrs [(stephen.barrs@va.gov)](mailto:stephen.barrs@va.gov), Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov)<br>
 Participants for pilot test: Kristen McConnell [(kristen.mcconnell@adhocteam.us)](mailto:kristen.mcconnell@adhocteam.us)<br>
 Note-takers: Perigean<br>
 Observers: 
-- Stephen Barrs [(stephen.barrs@va.gov)](mailto:(stephen.barrs@va.gov)
-- Patrick Bateman Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov)
+- Stephen Barrs [(stephen.barrs@va.gov)](mailto:stephen.barrs@va.gov)
+- Patrick Bateman [(patrick.bateman@va.gov)](mailto:patrick.bateman@va.gov)
 - Mark Dewey [(mark.dewey@va.gov)](mailto:mark.dewey@va.gov)
 - Lori Pusey [(lori.pusey@agile6.com)](mailto:lori.pusey@agile.com)
 - Sarah Knopp [(sarah.knopp@agile6.com)](mailto:sarah.knopp@agile6.com)
