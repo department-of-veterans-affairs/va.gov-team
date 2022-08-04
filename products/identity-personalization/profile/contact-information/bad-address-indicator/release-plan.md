@@ -4,7 +4,7 @@
 
 ### Planning:
 
-- **Desired date range or test duration:**  July 2022
+- **Desired date range or test duration:**  August 2022
 - **Desired number of users:**  Recruiting 10 participants with a target of completing 8 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
@@ -26,9 +26,9 @@
 
 - **Desired date range:** Late Aug/early Sept. 2022
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** The feature will be behind a feature flag.
-     - 25% of users (3-5 days), Dates: ticket 1
-     - 50% of users (3-5 days), Dates:  ticket 2
-     - If all goes well, then go to 100% of users:  ticket 3
+     - 25% of users (3-5 days), Dates:  #44758
+     - 50% of users (3-5 days), Dates:  #44760
+     - If all goes well, then go to 100% of users:  #44759
 
  "Success" criteria (by the numbers): 
 
