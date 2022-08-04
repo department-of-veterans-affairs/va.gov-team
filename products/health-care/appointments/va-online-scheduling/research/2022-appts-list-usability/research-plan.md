@@ -89,43 +89,42 @@ The details pages will:
 
 **1. Evaluate usability and value of the appointment list redesign.**
 
--Can appointments be found by:
-
-  -Date/Time?
-  -Modality?
-  -VA vs CC?
+* Can appointments be found by:
+    * Date/Time?
+    * Modality?
+    * VA vs CC?
   
--Do the type of care and provider name make sense in the list?
+* Do the type of care and provider name make sense in the list?
 
--Does “Pending” and “Past” language make sense?
-  -Are Pending and Past appointments easy to navigate to?
+* Does “Pending” and “Past” language make sense?
+    * Are Pending and Past appointments easy to navigate to?
   
--Are the details pages easy to navigate to?
+* Are the details pages easy to navigate to?
 
--Can participants easily understand modality meaning - do they understand where they need to be?
-  -On the list
-  -On the details page
-  -Separate from everything else - icon, label, instructions
+* Can participants easily understand modality meaning - do they understand where they need to be?
+    * On the list
+    * On the details page
+    * Separate from everything else - icon, label, instructions
   
--Do Veterans need a physical print “button”?
+* Do Veterans need a physical print “button”?
 
--Is the “start scheduling” action link easily discoverable?
+* Is the “start scheduling” action link easily discoverable?
 
--What would Veterans do next after viewing their appts in the list?
+* What would Veterans do next after viewing their appts in the list?
 
 **2. Evaluate usability and value of the health apartment side navigation.**
 
--Is the side nav discoverable?
-  -Do the navigation options on the sidenav make sense?
-  -Do the navigation options on the sidenav seem helpful?
+* Is the side nav discoverable?
+  * Do the navigation options on the sidenav make sense?
+  * Do the navigation options on the sidenav seem helpful?
 
 **3. Test a concept for changes to the appointments details page.**
 
--Is the information on the details pages:
-  -Easy to understand?
-  -Easy to scan?
+* Is the information on the details pages:
+  * Easy to understand?
+  * Easy to scan?
   
--Does the back button on the details page make sense?
+* Does the back button on the details page make sense?
 
 
 Method
