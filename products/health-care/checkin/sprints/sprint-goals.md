@@ -3,7 +3,8 @@
 ## 8/10/2022 
 
 #### Planned Releases 
-
+- 8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
+ 
 #### Discovery Sprint Goals 
 
 #### Design & Content Sprint Goals
@@ -16,10 +17,10 @@
 ## 7/27/2022 
 
 #### Planned Releases 
-- 8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)    - 
-- 8/9? [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
+- ~8/4 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)~
+- 8/9 [Pre-Check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38258)
     - Phone appt release validation is going to take a bit of extra setup bc a phone clinic will have to be enabled for check-in and an appt created in that clinic - hopefully Stephen can help us with that
-- 8/9? [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
+- 8/9 [Type of Care & Doctor's Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
 
 #### Discovery Sprint Goals 
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
