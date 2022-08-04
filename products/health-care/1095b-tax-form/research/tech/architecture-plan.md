@@ -8,7 +8,7 @@ This document provides detailed information on the architecture for generating t
 
 **Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App**
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Screen%20Shot%202022-02-03%20at%205.04.33%20PM.png)
+![]<img width="1008" alt="Screen Shot 2022-08-04 at 2 50 01 PM" src="https://user-images.githubusercontent.com/47372929/182930550-111eea97-629c-469b-af7b-b839cd8960bf.png">
 
 [Visitor Link to Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
@@ -57,31 +57,6 @@ Where the initial flat file is stored before it is converted
 - Who do we need to talk to in order to get AWS access? Or do we run aterraform script to create a new bucket?
 - What if file is corrupt? How will we process QA? We know there are some QA steps on the Enrollment System side.
 
-
-
-
-Database (Aurora PGSQL)
------------------------
-
-Where all the data will be stored where its easy to sort/query/filter
-
-**Steps**
-
-1.  Initially populated with data sent to print vendor from S3 bucket
-2.  Process to update rows of data that have been changed per reading from S3 Bucket
-3.  Data queries passed through API
-
-**Requirements**
-
-- Setting up database
-
-- Write ingest script to populate + update data
-
-**Questions**
-
-- What are the VA conventions for setting up an Aurora PGSQL database?
-- Do we need an AWS account to create the database? If so, who can get us access? How long will getting access take? 
-- What if we fail to process a record? Need some QA steps for records to assert data is what we expect.
 
 API (vets-api)
 --------------
