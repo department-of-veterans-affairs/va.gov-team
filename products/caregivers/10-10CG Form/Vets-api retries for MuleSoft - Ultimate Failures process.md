@@ -22,8 +22,8 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 - Vets-api will perform retries in the intervals below:  
 
-|# | Next retry backoff | Total waiting time|
-|---|-------------------|------------------|
+ |# | Next retry backoff | Total waiting time|
+ |---|-------------------|------------------|
  1 |       0d 0h 0m 20s |       0d 0h 0m 20s
  2 |       0d 0h 0m 26s |       0d 0h 0m 46s
  3 |       0d 0h 0m 46s |       0d 0h 1m 32s
@@ -34,6 +34,10 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
  8 |      0d 0h 40m 56s |      0d 1h 22m 56s
  9 |       0d 1h 9m 16s |      0d 2h 32m 12s
 10 |      0d 1h 50m 26s |      0d 4h 22m 38s
+11 |      0d 2h 47m 50s |      0d 7h 10m 28s
+12 |       0d 4h 5m 16s |     0d 11h 15m 44s
+13 |      0d 5h 46m 56s |      0d 17h 2m 40s
+14 |      0d 7h 57m 26s |        1d 1h 0m 6s
 
 <details>
      <Summary>Current Automatic Job Retry library - Table for approximate retry waiting times</Summary>
@@ -72,7 +76,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 </details>
 
-- After 4 hours of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
+- After 1 day of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
      - Heather Justice
      - Mark Fallows
