@@ -20,6 +20,8 @@
     - Next steps???
 
 #### Design & Content Sprint Goals (TENTATIVE)
+- [CIE Tech Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45338)
+    - Change resolution on all Sketch files
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Collaborate with VAOS
     - Create final wireframes
