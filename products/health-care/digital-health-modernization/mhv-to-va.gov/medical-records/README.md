@@ -48,14 +48,15 @@ How might we leverage user-centered design strategies, modern tech, and VA.gov d
 ### Desired Business Outcomes
 
 - Support receives fewer support requests related to medical records
-- VA health care providers have an equal or better experience with the messages generated from the new tool
+- Users have an equal or better experience with the reports generated from the new tool
+- VA health care providers have an equal or better experience with the data generated from the new tool
 - The VA's reputation for its ability to understand users' needs improves
 - The VA's reputation for its ability to leverage modern technology improves
 
 ## Undesired Business Outcomes
 - Support receives more support requests related to users' inability to locate or use the new tool
 - The new tool does not perform as well as the old one, and users become frustrated and lose confidence in the VA
-- Health care providers encounter difficulty with the messages generated from the new tool
+- Health care providers encounter difficulty with the medical records generated from the new tool
 
 ---
 ## Measuring Success
@@ -69,22 +70,22 @@ How might we leverage user-centered design strategies, modern tech, and VA.gov d
 
 | Category | Ease of Use                                                      | Service Completion      | Trust/Satisfaction | Health            |
 |----------|------------------------------------------------------------------|-------------------------|--------------------|-------------------|
-| KPI      | VA.gov secure messaging traffic vs. MHV secure messaging traffic |                         |                    |                   |
-| KPI      |                                                                  | Message completion rate |                    |                   |
+| KPI      | VA.gov medical records traffic vs. MHV medical records traffic |                         |                    |                   |
+| KPI      |                                                                  | Report generation completion rate |                    |                   |
 | KPI      |                                                                  |                         | Medallia score     |                   |
-| KPI      |                                                                  |                         |                    | Submission errors |
+| KPI      |                                                                  |                         |                    | Report generation errors |
 
 #### Baseline KPI Values
-- MHV Secure Messaging Traffic just before go-live
-- VA.gov completion rate after go-live
+- MHV medical records traffic just before go-live
+- VA.gov report generation completion rate after go-live
 - Medallia score after go-live
-- Number of submission errors
+- Number of report generation errors
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective: Ensure users are finding secure messaging on VA.gov
-  - Key result: Traffic to VA.gov secure messaging is equal or greater than previous MHV secure messaging metrics
+- Objective: Ensure users are finding medical records on VA.gov
+  - Key result: Traffic to VA.gov medical records is equal or greater than previous MHV medical records metrics
 
 - Objective: Ensure the secure messaging tool is intutive and easy to use
   - Key result: Message completion rate is equal or greater than MHV secure messaging completion rate
