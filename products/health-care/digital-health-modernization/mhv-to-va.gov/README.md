@@ -5,7 +5,7 @@ The MHV to VA.gov Program consists of several different projects, each with thei
   - Pharmacy
   - Newsletter
 
-# Project boards
+# GitHub Project boards
 - [Top Level View (all MHV to VA.gov teams)](https://app.zenhub.com/workspaces/myhealth-shared-board-62619a987d74510018ecc546/board?repos=133843125)
 - [Secure Messaging - Core Team](https://app.zenhub.com/workspaces/myhealth-octo-secure-messaging-614de421e25eb20013d1ee70/board?repos=133843125)
 - [Secure Messaging - MHV Team](https://app.zenhub.com/workspaces/myhealth-secure-messaging-migration-625d8e7aa8f28c002003aefe/board?repos=133843125)
