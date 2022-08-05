@@ -1,4 +1,4 @@
-Architecture Plan
+Architecture plan
 =================
 
 Overview
@@ -12,7 +12,7 @@ This document provides detailed information on the architecture for generating t
 
 [Visitor link to source image in Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
-Enrollment System
+Enrollment system
 -----------------
 
 This is where we get the 1095-B Veteran data from.
@@ -23,7 +23,7 @@ This is where we get the 1095-B Veteran data from.
 2.  Flat file is sent to print vendor and is simultaneously sent to our S3 bucket via batch script
 
 
-S3 Bucket
+S3 bucket
 ---------
 
 This is where the initial flat file is stored before it is parsed. 
@@ -33,7 +33,7 @@ This is where the initial flat file is stored before it is parsed.
 1.  A scheduled job runs to check for new files in the S3 bucket
 2.  For each new file, the script triggers a process to read the file, identify new data points, store in to database
 
-Vets API Database
+Vets API database
 -------------
 
 Veterans 1095-B form data gets stored in the vets-api database. The form data is encrypted when stored into the database.
@@ -51,7 +51,7 @@ To get data from the database in a secure, reliable, fast way
 3.  Data is received
 4.  Controller makes call to generate the 1095-B PDF or text file with data
 
-PDF/text file Generation
+PDF/text file generation
 --------------
 
 We have a script that fills in the 1095-B PDF/text file form with data
@@ -64,10 +64,10 @@ We have a script that fills in the 1095-B PDF/text file form with data
 
 - [pdf-fill library](https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill)
 
-React App
+React app
 ---------
 
-What the user sees on the website and where the PDF will be ultimately shown 
+What the user sees on the website and where the PDF will be ultimately shown. 
 
 **Steps**
 
@@ -78,14 +78,5 @@ What the user sees on the website and where the PDF will be ultimately shown
 **Requirements**
 
 - A page for authenticated users needs to be created in React on vets-website, following design team lead
-
 - Test the entire flow, confirming that PDF is rendered correctly
-
 - Make sure page is 508 accessible
-
-**Relevant Links**
-- [Letters App - renders a list of PDF's veterans can download](https://github.com/department-of-veterans-affairs/vets-website/tree/21260300681f449c564f53596d0a8302dd684e7b/src/applications/letters)
-
-**Questions**
-
-- None currently
