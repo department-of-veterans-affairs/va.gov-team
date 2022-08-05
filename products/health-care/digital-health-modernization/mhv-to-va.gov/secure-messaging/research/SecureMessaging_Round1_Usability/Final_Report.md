@@ -65,7 +65,7 @@ We conducted nineteen remote hour-long moderated usability studies using a high 
 - Participants would not use secure messaging in case of an emergency. They would seek immediate medical attention instead.
 	- *Definitely True*. Eighteen of the nineteen participants said that they would call 911 or go to the emergency room in case of the emergency; 1 said that they would go to urgent care.
 - Participants find messages by scrolling through their past messages. Participants organize their messages using folders.
-	-  *Mostly True*. Participants found messages in different ways which included scrolling as well as searching and sorting. If participants chose to organize their messages they did so using the folders but about 3/4 did not currently organize their messages in secure messaging. 
+	-  *Mostly True*. Participants found messages in different ways which included scrolling as well as searching and sorting. If participants chose to organize their messages they did so using the folders but only a few currently organize their messages in secure messaging. 
 - Participants are able to easily compose and reply to messages.
 	- *Definitely True*. Participants were able to successfully send messages. 
 - Participants who have previously used secure messaging will understand who they are corresponding with but non-secure messaging users may be confused.
