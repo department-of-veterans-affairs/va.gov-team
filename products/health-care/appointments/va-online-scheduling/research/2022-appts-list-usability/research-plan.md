@@ -142,11 +142,11 @@ Remote, over Zoom.
 
 ### Research materials
 
-For moderated desktop usability test 
+For moderated *desktop* usability test 
 - [Conversation guide]
 - [Desktop Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
 
-For moderated desktop usability test 
+For moderated *tablet* usability test 
 - [Conversation guide]
 - [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
 
@@ -200,15 +200,13 @@ Recruitment We will ask for Perigean support in recruiting and taking notes.
 Timeline
 --------
 
-[TBD]
-
 ### Prepare
 
-[TBD]
+Test materials will be finalized by Friday, August 5, 2022
 
 ### Research sessions
 
-[TBD]
+Research session will begin on ar after Monday, August 15, 2022
 
 ### Length of sessions
 
@@ -216,7 +214,7 @@ Timeline
 
 ### Availability
 
-[TBD]
+Monday - Friday, 12:00 am - 8:00 pm EST
 
 Team roles
 ----------
@@ -225,12 +223,12 @@ Team roles
 
 -   Research guide writing and task development (usually but not always same as moderator): Peter Russo and Ciera Maddox
 
--   Participant recruiting & screening: 
+-   Participant recruiting & screening: Perigean
 
--   Project point of contact:
+-   Project point of contact: Ciera Maddox
 
--   Participant(s) for pilot test:
+-   Participant(s) for pilot test: TBD
 
--   Note-takers:
+-   Note-takers: TBD
 
--   Observers:
+-   Observers: TBD
