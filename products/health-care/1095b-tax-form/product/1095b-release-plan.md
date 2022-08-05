@@ -18,9 +18,7 @@ First, we’ll test with Veterans in VFS and with other CEDAR contractors in an 
 - Desired number of users: 5 - 8 
 
 - How you'll recruit the right production test users:
-
   - Guerilla testing through Veterans with health care on existing VFS teams.
-  -
 - How you'll conduct the testing:
 
   - We’ll observe users download the form, and have them verify that the data in the form is correct. We’ll do this for the PDF and text versions of the form.
