@@ -33,10 +33,25 @@ This is where the initial flat file is stored before it is parsed.
 1.  A scheduled job runs to check for new files in the S3 bucket
 2.  For each new file, the script triggers a process to read the file, identify new data points, store in to database
 
+
+Injest Job
+----------
+
+A scheduled rails task that reads in the flat file from S3, and stores the 1095-B records in the vets-api database.
+
+
 Vets API database
 -------------
 
 Veterans 1095-B form data gets stored in the vets-api database. The form data is encrypted when stored into the database.
+
+**Veteran data stored in database**
+- veteran icn
+- name
+- last 4 of social
+- address (street, city, state, zip, country)
+- birth data
+- months in which they had health care coverage through the VA
 
 
 API (vets-api)
@@ -51,6 +66,7 @@ To get data from the database in a secure, reliable, fast way
 3.  Data is received
 4.  Controller makes call to generate the 1095-B PDF or text file with data
 
+
 PDF/text file generation
 --------------
 
@@ -58,9 +74,9 @@ We have a script that fills in the 1095-B PDF/text file form with data
 
 **Steps**
 
-1.  PDF generation function is called from vets-api
-2.  Uses the pdf_fill library to run the mapping and filling functions
-3.  PDF or text file is generated and sent back via controller
+1.  PDF or text file generation function is called from vets-api
+2.  Uses the pdf_fill library to run the mapping and filling functions for the PDF
+3.  PDF/text file is generated and sent back via controller
 
 We use the  [pdf-fill library](https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill) which is already part of the VA.gov codebase. 
 
