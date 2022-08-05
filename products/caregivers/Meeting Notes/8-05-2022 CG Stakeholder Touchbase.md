@@ -8,11 +8,11 @@
      - We don't have to be stringent
      - We can look at any POA that a Veteran has in place
      - We can remove the medical references on the form - meet next week on it
-- SOP Review
-     - Add encrypted to SOP
+- SOP Review - suggestions from the audience
+     - Add a note that the PDF being emailed will be encrypted
      - Add maintenance window banner to stop apps coming thru until resolution
-     - Define Catastrophic (is this a communication fail?, can a portion fail and portion go thru?)
-     - implement an earlier alert to start investigation prior to calling it catastrophic
+          - This can be done on a case by case basis
+     - Look into implementing an earlier alert to start investigation prior to calling it catastrophic
 - Mulesoft - Single Payload API
      - Available 8/25
      - To test now (before 8/25), will need to use Dev environments 
