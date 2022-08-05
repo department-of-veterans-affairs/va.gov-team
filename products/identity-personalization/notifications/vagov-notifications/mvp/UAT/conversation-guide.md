@@ -39,6 +39,8 @@ Before we start, a few things I want to mention:
 - Why do you think you might come to have this notification showing in your account?
 - How important does it seem?
 - How would you take action on it?
+- If you paid this debt and then came back to My VA and the notification was still here, what would you do?
+- *If they don't say they would dismiss the notification* How would you expect it to ever disappear?
 - *(If the user has multiple notifications)* Why do you think you have more than one notification with similar content? *(Looking to see if the user assumes this is for multiple debts or multiple notifications for the same debt.)*
 - *(For screen reader users only)* Is the notifications section placed where you would expect it to be on the page? Is the content read to you in the notification in a way that makes sense to you?
 
