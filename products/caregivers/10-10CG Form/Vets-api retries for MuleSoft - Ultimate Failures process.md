@@ -80,15 +80,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
      - Lisa Zapson
      - Matt Long
      - Nick Osmanski
-     - Thamaraiselvi Kaliannan
-     - Caitlin Reyna
-     - Mili Ridoutt
-     - Ruman Khan
-     - Igor Khurgin
-     - Paul Kuprionas
-     - Ramesh Dugar
-     - Ranganathan Balasubramanian
-     - Sreeni Komma
+     - VACARMAOperationsTeam@va.gov
 
 
 - Upon receiving the alert and determining that we have a catastrophic failure, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  This PDF will be emailed to **vha12cspcarmaehr@va.gov**, including the timestamp of the submission from VA.gov.
