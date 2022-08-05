@@ -1,4 +1,4 @@
-Architecture plan
+Architecture diagram
 =================
 
 Overview
