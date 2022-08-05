@@ -1,4 +1,4 @@
-# MyHealtheVet to VA.gov Program Outline
+# My HealtheVet to VA.gov Program Outline
 The MHV to VA.gov Program consists of several different projects, each with their own discrete product outlines:
   - [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
   - [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/)
