@@ -1,5 +1,25 @@
 # My Health Secure Messaging Product Outline
 
+Last Updated: August 5, 2022
+
+### Communications
+
+- **Github labels**: mhv-secure-messaging; my-health
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+
+### Roles  
+  
+|Name|Role|Email|
+|----|----|-----|
+|Tracey Mulrooney |oCTO Lead| tracey.mulrooney@va.gov |
+|Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
+|Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
+|Megan Graham| Core Team Researcher| megan.graham@adhocteam.us |
+|Patrick Vinograd|Core Team Lead Engineer|patrick.vinograd@adhocteam.us|
+|Bryan| MHV Team Product Manager| adam.whitlock@adhocteam.us |
+|Lichelle Nichols| MHV Team Product Manager| adam.whitlock@adhocteam.us |
+|XX| BE Engineer | tom.harrison@adhocteam.us |
+
 ## Overview
 Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
