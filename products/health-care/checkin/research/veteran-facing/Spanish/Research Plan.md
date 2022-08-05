@@ -59,8 +59,8 @@ We will apply insights from this research to improve and iterate on the pre-chec
 ### Research questions
 - What are the needs and pain points of bilingual Veterans and their caregivers?
 	- What is their demographic information? (age, familiarity with technology, language proficiency, etc.)
-- Are there any family members who also use CI/PCI? (for example, assisting the patient or the family member who is also a VA patient?) If yes, what are their needs?
-- What is users' language preference when using CI/PCI?
+- Are there any family members who also use Check-in/Pre-Check-in? (for example, assisting the patient or the family member who is also a VA patient?) If yes, what are their needs?
+- What is users' language preference when using Check-in/Pre-Check-in?
 - Is there additional  content that’s preferred? 
 
 - How easy-to-understand is the Spanish translation for bilingual  Veterans and caregivers?
@@ -70,7 +70,6 @@ We will apply insights from this research to improve and iterate on the pre-chec
 
 - How clear is the Spanish pre-check-in and check-in experience for bilingual  Veterans and their families with LEP?
 
-- How well does the proposed toggle design meet Veteran expectations? 
 
 ### Hypothesis
 We hypothesize: 
