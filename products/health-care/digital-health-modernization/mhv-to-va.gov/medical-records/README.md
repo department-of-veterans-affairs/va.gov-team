@@ -87,14 +87,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Objective: Ensure users are finding medical records on VA.gov
   - Key result: Traffic to VA.gov medical records is equal or greater than previous MHV medical records metrics
 
-- Objective: Ensure the secure messaging tool is intutive and easy to use
-  - Key result: Message completion rate is equal or greater than MHV secure messaging completion rate
+- Objective: Ensure the smedical records tool is intutive and easy to use
+  - Key result: Report generation rate is equal or greater than MHV medical records report generation rate
 
 - Objective: Ensure users are satisfied with the new tool
   - Key result: Medallia scores equal to or greater than comparable satisfaction scores on MHV
 
 - Objective: Ensure product functions properly
-  - Key result: 99% success rate upon submitting a message
+  - Key result: 99% success rate upon generating a report
 
 ---
 
@@ -108,9 +108,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
   - Adding additional functionality will increase an already-lengthy timeline for the overall MHV to VA.gov move.  Decreasing functionality would likely cause dissatisfaction among users.
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-  - Replacing the back-end secure messaging API will not be included in the MVP because the back-end does not need to move at this time.
+  - `TBD`
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-  - Eventually we anticipate replacing the back-end API with the VA Notify API.
+  - `TBD`
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
