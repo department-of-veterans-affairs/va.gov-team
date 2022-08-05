@@ -8,9 +8,10 @@ This document provides detailed information on the architecture for generating t
 
 **Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App**
 
-<img width="986" alt="Screen Shot 2022-08-04 at 3 43 42 PM" src="https://user-images.githubusercontent.com/47372929/182939172-b1ca91b5-8aa3-4a60-98a1-e841e8ad2e42.png">
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/93789249/183092036-6e3815a6-0370-4b50-91f2-ea9e58301d5d.png">
 
-<img width="706" alt="image" src="https://user-images.githubusercontent.com/93789249/183091334-f652b9e9-aee0-41b2-a20f-9553ab51a16b.png">
+
+
 
 ![image](https://user-images.githubusercontent.com/93789249/183091671-144230b0-073b-4936-b48d-51cd2701cfd0.png)
 
