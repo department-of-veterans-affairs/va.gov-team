@@ -178,7 +178,7 @@ Screener questions:
 
 #### Prepare
 
-- Pilot participant: Kristen McConnell, Lori Pusey
+- Pilot participant: Kristen McConnell, Lori Pusey, Brian Seek
 - Date and time of pilot session: August 11, 2022, 10 am - 11 am EST
 
 #### Length of sessions
