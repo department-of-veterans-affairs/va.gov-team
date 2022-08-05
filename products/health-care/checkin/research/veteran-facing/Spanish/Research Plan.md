@@ -146,16 +146,16 @@ Secondary criteria (would like to have)
 ## Team Roles	
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. 
-- Moderator: Ya-chin Tsao <Add email>   and Nira Datta (nira.datta@civicactions.com)
+- Moderator: Ya-chin Tsao <yaching.tsao@civicactions.com>   and Nira Datta (nira.datta@civicactions.com)
 - Research guide writing and task development: Nira Datta and Ya-ching Tsao
 - Participant recruiting & screening: Perigean
-- Project point of contact: Corey Parker (jparker@governmentcio.com)
-- Participant(s) for pilot test: Julie Adair (julie.adair@agile6.com)
+- Project point of contact: Stephen Barrs (stephen.barrs@va.gov), Patrick Bateman (patrick.bateman@va.gov), Lori Pusey (lori.pusey@agile6.com)
+- Participant(s) for pilot test: Zach Park (zach.park@agile6.com)
 - Note-takers: Perigean
 - Observers:
 	- Stephen Barrs (Stephen.Barrs@va.gov)
 	- Martha Wilkes (Martha.Wilkes@va.gov)
-	-Zach Park (zach.park@agile6.com)
+	- Zach Park (zach.park@agile6.com)
 	- Gaurav Gupta (ggupta@kindsys.us)
 	- KanchanaDevi Suriyamoorthy (ksuriyamoorthy@kindsys.us)
 	- Sarah Knopp (sarah.knopp@agile6.com)
