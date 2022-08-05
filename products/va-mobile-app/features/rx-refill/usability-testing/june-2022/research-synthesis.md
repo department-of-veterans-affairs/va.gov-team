@@ -1,4 +1,4 @@
-# Research Synthesis for 2022 VA Mobile App Rx Refill/Pharmacy Usability Test
+# Research Synthesis for VA Mobile App Rx Refill/Pharmacy Usability Test, 06/2022
 
 Research synthesis was done in [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1654280143199/c4e3bbe8f5a0370d5dec0aaa6489ae661030ba9d?sender=u98217f9fb71c48553bdb7841)
 
