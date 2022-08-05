@@ -10,6 +10,9 @@ This document provides detailed information on the architecture for generating t
 
 <img width="986" alt="Screen Shot 2022-08-04 at 3 43 42 PM" src="https://user-images.githubusercontent.com/47372929/182939172-b1ca91b5-8aa3-4a60-98a1-e841e8ad2e42.png">
 
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/93789249/183091334-f652b9e9-aee0-41b2-a20f-9553ab51a16b.png">
+
+
 [Visitor Link to Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
 Enrollment System
