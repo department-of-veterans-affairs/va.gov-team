@@ -1,8 +1,7 @@
 # My Health Secure Messaging Product Outline
----
 
 ## Overview
-Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
+Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
 ## Problem Statement
 Secure Messaging on VA.gov was researched and developed > 15 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  When originally developed, it was purposefully designed not to be an email system, but recent usability studies show that most users expect it to behave like other email applications they are familiar with, such as Gmail and Outlook.  Furthermore, some of the rationale and decisions that drove the MHV secure messaging design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
@@ -11,19 +10,31 @@ How might we leverage user-centered design strategies, modern tech, and VA.gov d
  
 ## Desired User Outcomes
 
-- Users will have a secure messaging application whose function is more consistent with their email applicatio mental model.
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Users have a secure messaging application whose function is more consistent with their email-derived mental models
+- Users are able to perform most, if not all, of the functions provided in a typical email application
+- Users no longer need to move between two different web sites (VA.gov and MHV) to perform various health care-related tasks
+- User confidence and satisfaction increase as a result of a more consistent, reliable, and performant application
+- Users who utilize assistive technology such as screen readers are able to easily use secure messaging
 
 ## Undesired User Outcomes
 
+- Users are confused as to why secure messaging is no longer part of MyHealtheVet
+- Users have difficulty finding the new secure messaging application on VA.gov
+- Users are not be able to perform some of the tasks they were able to perform with the MyHealtheVet secure messaging application
+- Users do not have the same level of control over their data as they did in the MyHealtheVet secure messaging application
+- Users have to log into VA.gov to use secure messaging after accessing it from MHV
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Support receives fewer support requests related to secure messaging
+- VA health care providers have an equal or better experience with the messages generated from the new tool
+- The VA's reputation for its ability to understand users' needs improves
+- The VA's reputation for its ability to leverage modern technology improves
 
 ## Undesired Business Outcomes
-
+- Support receives more support requests related to users' inability to locate or use the new tool
+- The new tool does not perform as well as the old one, and users become frustrated and lose confidence in the VA
+- Health care providers encounter difficulty with the messages generated from the new tool
 
 ---
 ## Measuring Success
@@ -37,8 +48,9 @@ How might we leverage user-centered design strategies, modern tech, and VA.gov d
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI      |      X       |                    |                    |        |
+| KPI      |             |           X         |                    |        |
+| KPI      |             |                    |          X          |        |
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
