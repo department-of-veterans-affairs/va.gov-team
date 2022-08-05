@@ -148,8 +148,8 @@ Please list the people who will be serving in each role. Include the primary pho
 - Moderator: Ya-chin Tsao <yaching.tsao@civicactions.com>   and Nira Datta (nira.datta@civicactions.com)
 - Research guide writing and task development: Nira Datta and Ya-ching Tsao
 - Participant recruiting & screening: Perigean
-- Project point of contact: Stephen Barrs (stephen.barrs@va.gov), Patrick Bateman (patrick.bateman@va.gov), Lori Pusey (lori.pusey@agile6.com)
-- Participant(s) for pilot test: Zach Park (zach.park@agile6.com)
+- Project point of contact: Lori Pusey (lori.pusey@agile6.com)
+- Participant(s) for pilot test:TBD
 - Note-takers: Perigean
 - Observers:
 	- Stephen Barrs (Stephen.Barrs@va.gov)
@@ -161,7 +161,7 @@ Please list the people who will be serving in each role. Include the primary pho
 	- Adrian Rollett (adrian.rollett@agile6.com)
 	- Bethany Dunfield (bethany.dunfield@civicactions.com)
 	- Brian Seek (brian.seek@civicactions.com)
-
+	- Ben Brasso (ben.brasso@agile6.com)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
