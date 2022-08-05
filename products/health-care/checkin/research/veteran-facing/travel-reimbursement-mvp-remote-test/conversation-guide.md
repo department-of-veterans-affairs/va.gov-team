@@ -179,6 +179,8 @@ Why did you choose this rating?
 
 Now, I have another prototype for you to review that has some slight differences. Could you find the chat in Zoom and click on the link that I sent to you? 
 
+Great, now let's place it in full screen. If you look in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
+
 Great. Now, one more time, let’s tap “Continue” on this authentication page and answer “yes” to the next three questions, which will place you on the page leading with the question, “Are all of the following true?” Please go there now. 
 
 *The participant should be on the “Are all of the following true?” page.* 
@@ -315,6 +317,8 @@ Why did you choose this rating?
 *Paste [Prototype A link](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E) in the Zoom chat.*
 
 Now, I have another prototype for you to review that has some slight differences. Could you find the chat in Zoom and click on the link that I sent to you? 
+
+Great, now let's place it in full screen. If you look in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
 
 Great. Now, one more time, let’s tap “Continue” on this authentication page and answer “yes” to the next three questions, which will place you on the page leading with the question, “Filing for travel reimbursement?” Please go there now. 
 
@@ -458,6 +462,8 @@ Why did you choose this rating?
 *Paste [Prototype C link](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E3C109B2-DA3E-46CD-8A98-52C09ADD1944) in the Zoom chat.*
 
 Now, I have another prototype for you to review that has some slight differences. Could you find the chat in Zoom and click on the link that I sent to you? 
+
+Great, now let's place it in full screen. If you look in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
 
 Great. Now, one more time, let’s tap “Continue” on this authentication page and answer “yes” to the next three questions, which will place you on the page leading with the question, “Is this statement true for you?” Please go there now. 
 
@@ -640,6 +646,8 @@ Why did you choose this rating?
 *Paste [Prototype B link](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/E032CDED-B46C-437E-8592-D47A595CB4DD) in the Zoom chat.*
 
 Now, I have another prototype for you to review that has some slight differences. Could you find the chat in Zoom and click on the link that I sent to you? 
+
+Great, now let's place it in full screen. If you look in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
 
 Great. Now, one more time, let’s tap “Continue” on this authentication page and answer “yes” to the next three questions, which will place you on the page leading with the question, “Are all of the following true?” Please go there now. 
 
