@@ -210,7 +210,7 @@ Participants expressed frustration around not knowing where updated contact info
 
 ### #3: One of our participants, a screen reader user who did not make it to the tasks, had significant difficulty attempting to log in and navigate the home page to access his Profile.
 
-Even with guidance from our accessibility specialist/screen reader expert and extra time added to the session, one of our participants had an extremely difficult time logging in and navigating the homepage. If extensive research has not already been completed with both beginner and advanced screen reader users, the identity team and sitewide crew (or related teams) may want to consider exploring the current difficulty level of the login process and homepage navigation for these Veterans. 
+Even with guidance from our accessibility specialist/screen reader expert and extra time added to the session, one of our participants had an extremely difficult time logging in and navigating the homepage. It took 42 minutes to sign in, with the remaining 38 minutes spent navigating the homepage. If extensive research has not already been completed with both beginner and advanced screen reader users, the identity team and sitewide crew (or related teams) may want to consider exploring the current difficulty level of the login process and homepage navigation for these Veterans. 
 
 ### #8: A few participants reached Profile or contact information directly through the "Change your address in your VA.gov profile" page.
 
