@@ -1,23 +1,9 @@
 # (Draft) Conversation Guide 
 
-## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
-
-### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
 
 ### Starting the session
 
@@ -45,9 +31,41 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
+Thank you! 
+
+As I said, today you will be interacting with a prototype of the design. In order to do that, I’ll need you to share your screen.
+
+I’ll walk you through the process of sharing your screen, then I'll send you a link to the demo tool.
+
+* First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
+
+* Great, that helps me troubleshoot with you if we run into any problems.
+
+Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=scale-down-width&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
+
+* Use chat to send user [Link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=scale-down-width&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
+
+* Talk participant through screen sharing so they can share their screen.
+
+As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
+
+#### If can't share
+
+* Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
+
+#### After prototype is open
+
+Thanks!
+
+What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
+
 ## Warm-up Questions (Optional) - X minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
+
+Have you scheduled an appointment online with 
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
