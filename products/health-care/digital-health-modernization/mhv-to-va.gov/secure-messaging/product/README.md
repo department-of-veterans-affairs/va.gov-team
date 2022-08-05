@@ -32,19 +32,6 @@ Last Updated: August 5, 2022
 |Ally Ali|MHV Team Analytics | ally.ali@bylight.com |
 
 
-### Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Opportunities](#opportunities)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Analytics](#analytics)
-- [Projects](#projects)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [Design](#design)
-
 ## Overview
 Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
