@@ -5,7 +5,7 @@
 
 This checklist is for you to gut check that you've taken all of the steps necessary for your feature to be successful. You won't have answers to all of these questions right away, and some you'll want to take action on multiple times, but you should check in to make sure these things are happening iteratively over the lifetime of your product.
 
-This resource is meant to be used in parallel with the [Platform Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle). The items below that correspond with one or more Platform collaboration points are starred `*`. The Platform Collaboration Cycle is designed to guide your team through successful development but it is still your responsibility to ensure that all the points below are sufficiently met.
+This resource is meant to be used in parallel with the [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html). The items below that correspond with one or more Platform collaboration points are starred `*`. The Platform Collaboration Cycle is designed to guide your team through successful development but it is still your responsibility to ensure that all the points below are sufficiently met.
 
 _Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel whenever you have a question on how to proceed!_
 
