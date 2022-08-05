@@ -75,8 +75,3 @@ What the user sees on the website and where the PDF will be ultimately shown.
 2.  React app makes the call to API
 3.  API returns PDF which is displayed to user
 
-**Requirements**
-
-- A page for authenticated users needs to be created in React on vets-website, following design team lead
-- Test the entire flow, confirming that PDF is rendered correctly
-- Make sure page is 508 accessible
