@@ -15,4 +15,7 @@ The MHV to VA.gov Program consists of several different projects, each with thei
 - Pharmacy - MHV Team
 - Newsletter - Core Team
 
+# Planning
+- [Draft roadmap 2022-2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1654267191658/a7ae924cbc7804fc93e4a71660f43ac45845c330?sender=u71ad98f94f5263595f9a4390)
+- [Draft timeline and resource mapping 2022-2024 (WIP)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1659099203513/d910f86d5692651834f14b70d18016c3e2ebeb35?sender=u71ad98f94f5263595f9a4390)
 
