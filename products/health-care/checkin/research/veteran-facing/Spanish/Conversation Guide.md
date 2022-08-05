@@ -64,9 +64,9 @@ I want you to pretend that you have an upcoming appointment with your VA primary
 - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate the overall  Spanish language experience of pre-check-in and check-in? Please explain.
 
 
-#PART 2: Language Toggle Design
+# PART 2: Language Toggle Design
 
-## Warm-up Questions - 10 minutes##
+## Warm-up Questions - 10 minutes
 
 To start, I’d like to learn a little more about your background.
 - Do you and [your family/the Veteran] primarily speak Spanish, English, or another language at home? 
