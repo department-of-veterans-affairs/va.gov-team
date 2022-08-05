@@ -10,6 +10,7 @@ We’re planning for our MVP to be launched August 2022. It will launch ‘dark�
 
 Because this product is a React widget on a Drupal page, it can not be tested in Staging. To mitigate this we will conduct two rounds of UAT testing in production. 
 
+#### First round of moderated testing
 First, we’ll test with Veterans in VFS and with other CEDAR contractors in an informal smoke test. 
 
 - Desired date range or test duration: 8/22/22 – 8/25/22
@@ -19,16 +20,18 @@ First, we’ll test with Veterans in VFS and with other CEDAR contractors in an 
 - How you'll recruit the right production test users:
 
   - Guerilla testing through Veterans with health care on existing VFS teams.
-  - We’ll use Perigean to
-
+  -
 - How you'll conduct the testing:
 
   - We’ll observe users download the form, and have them verify that the data in the form is correct. We’ll do this for the PDF and text versions of the form.
-  - We’ll observe users download the text version of the form, use a screen reader, and verify that the data is correct.
+  - We’ll observe users download the text version of the form and verify that the data is correct.
+  - We'll ask some users to download the text version of the form and use a screen reader to ensure accessibility
 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov
 
   - We’re implementing a feature toggle that will allow us to allowlist specific users since they’ll need to authenticate. 
+
+#### Second round of moderated testing
 
 We’ll also do moderated UAT testing.
 
@@ -43,7 +46,8 @@ We’ll also do moderated UAT testing.
 - How you'll conduct the testing:
 
   - We’ll observe users download the form, and have them verify that the data in the form is correct. We’ll do this for the PDF and text versions of the form
-  - We’ll observe users download the text version of the form, use a screen reader, and verify that the data is correct
+  - We’ll observe users download the text version of the form and verify that the data is correct
+  - We'll ask some users to download the text version of the form and use a screen reader to ensure accessibility
 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov
 
