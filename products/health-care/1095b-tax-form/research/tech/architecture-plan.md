@@ -62,7 +62,7 @@ We have a script that fills in the 1095-B PDF/text file form with data
 2.  Uses the pdf_fill library to run the mapping and filling functions
 3.  PDF or text file is generated and sent back via controller
 
-- [pdf-fill library](https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill)
+We use the  [pdf-fill library](https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill) which is already part of the VA.gov codebase. 
 
 React app
 ---------
