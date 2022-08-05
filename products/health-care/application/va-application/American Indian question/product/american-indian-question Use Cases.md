@@ -1,5 +1,5 @@
 
-## A. Authenticated Use Cases and Scenarios: without pre-populated data 
+## A. Use Cases and Scenarios: without pre-populated data 
 
 **Description: Check for correct text display and button functionality:**
 
