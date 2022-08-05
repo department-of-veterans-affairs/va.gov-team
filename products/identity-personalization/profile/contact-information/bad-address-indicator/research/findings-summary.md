@@ -190,7 +190,7 @@ Following the tasks, a few participants mentioned miscellaneous items for which 
 
 ## Additional Findings
 
-### #1: Multiple participants (2) described or showed difficulty with logging in, most often through MyHealtheVet. 
+### #1: Multiple participants (3) described or showed difficulty with logging in, most often through MyHealtheVet. 
 
 We observed difficulties logging in through MyHealtheVet and heard from Veterans that this has been going on for a while with this particular login method. Our 11th participant, a screen reader user, spent the majority of the session trying to log in with assistance from our screen reader tech specialist and was not able to make it to the tasks due to this extensive delay. The session was extended 35 minutes in an attempt to get to the tasks, but it was so challenging to log in, the participant still was not able to reach these tasks.
 
