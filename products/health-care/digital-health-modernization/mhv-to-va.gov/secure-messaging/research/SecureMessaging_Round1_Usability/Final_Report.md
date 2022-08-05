@@ -124,7 +124,7 @@ Labels: PRDT: health-care-apartment, MHV: Secure Messaging,
 In addition to confirmation that their message had been sent, participants also mentioned that after sending a message they would like to auto-direct back to the messages screen.  
 
 
-> Something should pop up and say "Your message was successfully sent". (P3, Veteran) 
+> Something would pop up and say "Your message was successfully sent". (P3, Veteran) 
 
 
 **6. Participants thought that the messaging experience was simple, which was desirable.**
