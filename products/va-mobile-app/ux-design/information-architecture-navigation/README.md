@@ -27,4 +27,4 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 - [High fidelity design for navigation model: TBD]
  
  ### Phase III -  Evaluative Research ###
-- [Research folder]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/usability%20study
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/usability%20study)
