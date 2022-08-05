@@ -261,4 +261,4 @@ This research does not include the perspectives of the following marginalized Pa
 
 
 
-![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability/Secure%20Messaging%20Usability%20Testing%20Round%201%20Recruitment%20Tracker.png)
+![Recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability/Secure%20Messaging%20Usability%20Testing%20Round%201%20Recruitment%20Checker.png)
