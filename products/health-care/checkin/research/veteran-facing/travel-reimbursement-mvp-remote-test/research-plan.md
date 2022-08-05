@@ -103,7 +103,7 @@ The moderated usability studies will utilize the following high-level conversati
 
 - Participant Group 1 
      - Introduction 
-     - Provide Prototype A to participant (to avoid bias, rotate prototype order for each participant)
+     - Provide Prototype A to participant (to avoid bias, rotate starting with Prototype A and B between each participant)
      - Ask follow up questions 
      - Provide Prototype B to participant 
      - Ask follow up questions 
@@ -111,7 +111,7 @@ The moderated usability studies will utilize the following high-level conversati
 
 - Participant Group 2
      - Introduction 
-     - Provide Prototype B to participant (to avoid bias, rotate prototype order for each participant)
+     - Provide Prototype B to participant (to avoid bias, rotate starting with Prototype B and C between each participant)
      - Ask follow up questions 
      - Provide Prototype C to participant 
      - Ask follow up questions 
