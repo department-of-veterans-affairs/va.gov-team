@@ -17,7 +17,8 @@
 ## Monday, August 8, 2022
 
 * Lighthouse is actively working on moving their API Gateway out of the current AWS environment and they will assume exclusive control over the *api.va.gov URL in the near(ish) future.
-* Covid status will be retired 
+* FYI: Covid status will be retired / Timeline?
+* Community Access Point/Mapbox Lat-Long update ToS
 
 
 ## Monday, August 1, 2022
