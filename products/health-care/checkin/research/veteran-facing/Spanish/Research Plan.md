@@ -2,6 +2,41 @@
 Aug 2022
 
 ## Background
+
+The Modernized Check-In Team is reimaging the experience between a Veteran scheduling a medical appointment and having their appointment. In particular, the Modernized Check-In Team has created the portion of the ecosystem that enables Veterans to utilize their smartphone to “check in” to their appointments through VA.gov, which lets the VA know the patient has arrived for their appointment. 
+
+Check-in enables Veterans with appointments to: 
+
+- Review and confirm their information prior to an appointment, also known as pre-check-in, which includes: 
+
+  - Confirming their appointment
+  - Reviewing their contact information 
+  - Reviewing their emergency contact information
+  - Reviewing their next of kin information 
+
+- Utilize their smartphone to check-in on the day of their appointment 
+
+<img width="1134" alt="Screen Shot 2022-06-06 at 11 19 23 AM" src="https://user-images.githubusercontent.com/101129355/172191216-3de723ac-4a5c-4f3c-acb8-c08f6ad356cd.png">
+
+### OCTO Objectives 
+
+This research plan supports the following OCTO objectives: 
+
+- Veterans can manage their health services online
+- Logged-in users have a personalized experience, with relevant and time-saving features
+- Increase completion rate of online transactions
+- Increase usage of digital self-service tools
+- Decrease time to successfully complete and submit online transactions 
+
+### Veteran Journey
+
+This research plan maps to the following moment within the Veteran journey:  
+
+<img width="1178" alt="Screen Shot 2022-06-06 at 11 08 08 AM" src="https://user-images.githubusercontent.com/101129355/172188932-7bbb1fdf-efc1-43d2-9c05-315bf1612638.png">
+
+
+## Research Goals
+
 The check-in team is creating portions of the ecosystem that enable a Veteran to use their mobile device to pre-check in and check in for a medical appointment via VA.gov. Based on the previous research with [veterans and staff members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/CIE%20St%20Louis%20Pilot%20Veterans%20Research%20Report.pdf), we heard that this may decrease the long waiting time for some busy clinics if it functions adequately. 
 
 With this round of research, we are looking to gather feedback on the pilot release of Spanish content and the language toggle from Veterans through remote usability testing.  
@@ -11,7 +46,8 @@ To date, there are only a few studies that look into Veterans and their family m
 - validate if the translated Spanish content meets plain language standards
 - review the current toggle design pattern and test the new toggle design
 
-## Research Goals	
+In this research study, we also want to:
+
 1. Ensure the translated experience meets plain language standards for Spanish-speaking Veterans and bilingual staff
 2. Understand the current check-in experience of Spanish–English bilingual veterans and their family members
 3. Identify suitable toggle design for partially translated content (not site-wide).
