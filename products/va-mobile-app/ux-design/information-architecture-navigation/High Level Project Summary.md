@@ -157,7 +157,7 @@ For detailed protocol on each part of the study, see:
     * [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md)
     * [Success Criteria, Nav Model Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit)
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-* TBD
+    * TBD
 
 
 ## Team Roles
