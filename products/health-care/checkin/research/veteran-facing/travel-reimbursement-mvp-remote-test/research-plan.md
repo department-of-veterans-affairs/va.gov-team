@@ -91,6 +91,8 @@ To avoid cognitive overload, half of the participants will engage in activities 
 - Participant Group 1 - Goals #1 and #3
 - Participant Group 2 - Goals #2 and #3
 
+To ensure enough data is collected from both groups, we will alternate the group between each scheduled participant session. 
+
 There will be a total of three prototypes created for the purposes of this research: 
 
 - [Prototype A](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E) (“interested question”) pertains to research goals #1 and #3 
