@@ -76,3 +76,4 @@ Please list the people who will be serving in each role.
   - ana@adhocteam.us
   - erica.sauve@adhocteam.us
   - taylor.mitchell@gcio.com
+  - liz.lantz@adhocteam.us
