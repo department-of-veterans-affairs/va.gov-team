@@ -67,7 +67,7 @@ We have a script that fills in the 1095-B PDF/text file form with data
 React app
 ---------
 
-What the user sees on the website and where the PDF will be ultimately shown. 
+What the user sees on the website and where the PDF will be ultimately shown. We have a React widget on a Drupal page. 
 
 **Steps**
 
