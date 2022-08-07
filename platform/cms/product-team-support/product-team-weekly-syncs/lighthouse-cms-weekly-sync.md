@@ -17,12 +17,12 @@
 ## Monday, August 8, 2022
 
 * v1 timeline
-* Lighthouse is actively working on moving their API Gateway out of the current AWS environment and they will assume exclusive control over the *api.va.gov URL in the near(ish) future. 
+* In preparation for the Lighthouse migration. vets-api will in future be available via a new URL *platform-api.va.gov. . 
+  * Lighthouse is actively working on moving their API Gateway out of the current AWS environment and they will assume exclusive control over the *api.va.gov URL in the near(ish) future. 
 Slack convo: https://dsva.slack.com/archives/C0FQSS30V/p1659488479787469
 * FYI: Covid status will be retired / Timeline?
 * Community Access Point/Mapbox Lat-Long update ToS
-* Meeting scheduled wih VAST admins - 8/12
-Thanks for the contact!
+* Meeting scheduled with VAST admins - 8/12 - Thanks for the contact!
 * ATC impact update?
 * Sync CMS data to sandbox
 
