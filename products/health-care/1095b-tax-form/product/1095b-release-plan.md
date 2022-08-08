@@ -80,7 +80,7 @@ We expect organic traffic to be extremely low, but we'll monitor for any major e
 
 ### Stage B: Moderate
 
-Length of time: 8/30/2022 - 9/6/2022
+Length of time: 8/30/2022 - 9/5/2022
 Percentage of users: 50%
  
 We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Go Live.
@@ -89,7 +89,7 @@ We expect organic traffic to be extremely low, but we'll monitor for any major e
 
 ### Planning:
 
-- Desired date: 09/06/22 
+- Desired date: 09/5/22 
 
 We’re launching well ahead of tax season when users would even potentially need the 1095-B form. There’s no driver to drive users to the 1095-B page. There are no KPIs for this MVP. We’ll have KPIs established once we’re ready to release the paperless delivery opt-in.  
 
