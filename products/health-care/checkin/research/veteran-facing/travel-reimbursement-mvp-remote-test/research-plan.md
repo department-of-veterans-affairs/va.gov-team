@@ -190,7 +190,7 @@ Screener questions:
 
 - Monday, August 15th, 8:30 am - 12:30pm and 2:30 pm - 5:30 pm EST
 - Thursday, August 16th - Friday, August 19th, 8:30 am - 5:30 pm EST 
-- Monday, August 22nd, 9 am - 5:30 pm EST 
+- Monday, August 22nd - Tuesday, August 23rd, 8:30 am - 5:30 pm EST 
 
 ## Team Roles
 
