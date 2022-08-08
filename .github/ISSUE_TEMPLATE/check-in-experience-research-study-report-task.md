@@ -1,23 +1,11 @@
 ---
 name: Check In Experience Research Study Report Task
 about: For Check In Experience Research Study Report Tasking
-title: "[Research]"
+title: "[Research] Create Research Study Report"
 labels: HCE-Checkin, ux, research
 assignees: ''
 
 ---
-
-## How to configure this issue
-- [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with HCE-Checkin, ux, research
-- [ ] Prepend [Research] to the beginning of the ticket title
-- [ ] Fill in User Stories
-- [ ] Fill in Description
-- [ ] Fill in Tasks
-- [ ] Fill in Acceptance Criteria
-
-## User Story
-- As a product team, we want to document and share the findings from [research study name].
 
 ## Related Documentation
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
