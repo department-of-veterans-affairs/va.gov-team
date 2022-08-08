@@ -2,6 +2,8 @@ name: Application Onboarding Form
 description: Form used for onboarding new applications/services to EKS (deployed via ArgoCD)
 title: "Application to Onboard: [application-name]"
 labels: [ "application-onboarding", "operations" ]
+assignees:
+  - vsp-operations
 body:
   - type: markdown
     attributes:
