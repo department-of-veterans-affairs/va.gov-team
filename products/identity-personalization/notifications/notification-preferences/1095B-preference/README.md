@@ -79,6 +79,7 @@ OKRs and KPIs TBD.
   - This would connect to VA Profile.
 - Make sure anyone who updates this permission has an email on file, given that there are a number of legally required emails associated with this work.
 - Any time someone updates their 1095B preference, send a confirmation email.
+- There may be additional legal requirements around language we need to include in the notification settings section, but this is still TBD.
 
 ### Key dates
 
@@ -87,7 +88,16 @@ OKRs and KPIs TBD.
 
 ## Backend
 
+### Retrofitting VA Profile's current structure
+
+- We should be able to leverage the current Group -- Item -- Channel structure we currently have with VA Profile. This should, in theory, allow us to complete development more quickly.
+- However, VA Profile is retrofitting their system to make this work. They are treating a preference -- send me a copy via mail, or let me download digitally -- as a permission.
+
 ## Frontend
+
+### Retrofitting VA Profile's current structure
+
+- The channel we'll get back from VA Profile is **email** because there are emails associated with this work outside of the confirmation email we need to send. But, instead of relying on our copy structure we have now -- "Send me an email" or "Don't send me an email" -- we're going to have to customize this copy to something like "Mail me a copy of my 1095B" or "Don't mail me a copy of my 1095B. I'll download it digitally (note: you will receive XYZ emails if you choose to download your 1095B digitally)". This would be a departure from [how things are currently coded](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md).
 
 ## Design
 
