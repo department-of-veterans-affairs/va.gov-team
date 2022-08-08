@@ -33,6 +33,26 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 * [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 * [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
 
+# Communications
+
+- Team Name: MOVE
+- GitHub Label: 1095b-Tax-Form
+- Slack channel: #cedar-1095b
+- Product POCs: 
+    - Tracey Mulrooney (Product Owner/VA) | tracey.mulrooney@va.gov
+    - Jeanette Cantrell (MOVE) | jeanette@themostudio.com
+    - Munish Sikka (MOVE) | munish@themostudio.com
+    - Tamera (Tami) Corson (MOVE) | tamera.corson@va.gov
+- Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
+- Stakeholders: Tarsha Tremble (Business owner/Health Enrollment Center) | tarsha.tremble@va.gov
+
+
+#### Team Members
+
+- DEPO Lead: Tracey Mulrooney
+- PM: Munish Sikka, Jeanette Cantrell, Tamera (Tami) Corson (MOVE)
+- Engineering: Shashank Khandelwal / Teagan Stephenson / Dan Smith
+- Research/Design: Thomas McCue / Carolyn Williams / Carl Dickerson (content)
 
 
 
