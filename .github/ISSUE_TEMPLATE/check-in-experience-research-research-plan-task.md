@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Research Plan Task
 about: For Check In Experience Research Plan Task
-title: "[Research]"
+title: "[Research] Create Research Plan"
 labels: HCE-Checkin, ux, research
 assignees: ''
 
