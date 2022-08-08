@@ -202,7 +202,7 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- So, in case you didn’t notice, in this prototype we removed the page that asked, “Are you filing for travel reimbursement today?” Did you notice this difference? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
 - And, in this prototype compared to the first one, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
@@ -351,7 +351,7 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- So, in case you didn’t notice, in this prototype we added a question that asked, “Are you filing for travel reimbursement today?” Did you notice this difference? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
 - And, in this prototype compared to the first one, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
@@ -516,7 +516,7 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- So, in case you didn’t notice, in this prototype we had separate pages for each question related to filing for travel reimbursement for the appointment. Did you notice this difference? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
 
@@ -680,7 +680,7 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- So, in case you didn’t notice, in this prototype we had fewer pages. Did you notice this difference? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not?
 
