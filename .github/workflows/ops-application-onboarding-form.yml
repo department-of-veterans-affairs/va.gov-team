@@ -1,0 +1,25 @@
+name: Application onboarding
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  create-pr:
+    if: contains(github.event.issue.title, 'Application to Onboard')
+    runs-on: ubuntu-latest
+    name: Remove User
+    steps:
+      - uses: stefanbuck/github-issue-parser@v2
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/application-onboarding.yml
+      
+      - name: Check out Manifest Repo
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vsp-infra-argocd
+          token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
+
+      - run: echo '${{ steps.issue-parser.outputs.jsonString }}' 
