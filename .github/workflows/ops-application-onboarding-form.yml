@@ -37,9 +37,9 @@ jobs:
           echo "::set-output name=application_exists::$(echo ${application_exists})"
         
       - name: If application exists
-        if: steps.exists.outputs.application_exists == "true"
+        if: steps.exists.outputs.application_exists == 'true'
         run: echo "${{ steps.get_name.outputs.application_name }} already exists"
         
       - name: If application doesnt exist
-        if: steps.exists.outputs.application_exists == "false"
+        if: steps.exists.outputs.application_exists == 'false'
         run: echo "${{ steps.get_name.outputs.application_name }} does not exist"
