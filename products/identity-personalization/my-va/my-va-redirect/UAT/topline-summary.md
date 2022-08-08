@@ -42,11 +42,11 @@ This topline summary is a high level, top of mind summary of trends found in the
 ### Research questions
 1. **Does the functionality work as expected, for all login types and across devices?**
 - For the most part, yes.
-- Of the 10 participants in our study, 4 experienced unexpected and inconsistent issues logging in.
 - We observed successful redirects to My VA with ID.me, MHV, and DS Logon.
 	- Need to review videos for Login.gov
-- 2 of those 4 participants logged in with a MHV credential, which now routes people to ID.me for the 2FA portion of the login experience. After completing that, 1 user was routed to My VA, and one was not.
-- The other 2 participants got errors on eauth.va.gov that the identity team is not sure what to make of.
+- Of the 10 participants in our study, 4 experienced unexpected and inconsistent issues logging in.
+    - 2 of those 4 participants logged in with a MHV credential, which now routes people to ID.me for the 2FA portion of the login experience. After completing that, 1 user was routed to My VA, and one was not.
+    - The other 2 participants got errors on eauth.va.gov that the identity team is not sure what to make of.
 
 2. **What do people want to do once they’ve landed on My VA?**
 - Most participants wanted to click a link under health care.
