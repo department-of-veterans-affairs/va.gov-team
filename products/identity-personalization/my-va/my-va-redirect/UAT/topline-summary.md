@@ -102,7 +102,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	> I always check the status of my appeal. It’s a ritual, but I shouldn’t have to. I’ve been waiting since 2020 for an answer. I check it at least once every week.” - P11
 
-4. **Logging in caused pain point for at last half of our participants.**
+4. **Logging in is a pain point for at last half of our participants.**
 - Participants expressed frustration about having to enter a 2FA code, and talked about preferring to use other VA digital properties, like the mobile app or eBenefits, because they don’t require that.
 
 	> It’s a lot of steps just to get this far - P11, landing on My VA after 3 login attempts
