@@ -17,8 +17,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 * To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
 * To jump start synthesis by quickly organizing high level themes
 
-**Note:** Since this study is one component of [a larger research effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#project-outline-myhealthevetvagov-profile-transition-research), we won’t produce a findings document specifically for this round of user research. Rather, the findings most relevant to [overall research goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#research-goals) will be incorporated into our final findings summary.
-
 ## Perceived Findings
 ### Our Hypothesis
 
