@@ -50,7 +50,8 @@ I have started recording. Once again, are you comfortable if I record this sessi
 
 So, before we look at the website, let’s start with a few warm-up questions. 
 
-- What kind of device are you using for this session today? 
+- What kind of device are you using for this session today? E.g., smartphone, desktop computer, etc. 
+- And, what brand or operating system is it?  
 - Have you been to a VA health care facility for a medical appointment for yourself in the last 12 months? 
 - Have you ever used your mobile device to check in for a medical appointment? 
 - Have you ever filed or received payment for a travel reimbursement claim for a VA medical appointment?  
