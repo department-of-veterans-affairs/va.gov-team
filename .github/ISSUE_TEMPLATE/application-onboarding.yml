@@ -1,0 +1,41 @@
+name: Application Onboarding Form
+description: Form used for onboarding new applications/services to EKS (deployed via ArgoCD)
+title: "Application to Onboard: [application-name]"
+labels: [ "application-onboarding", "operations" ]
+assignees:
+  - vsp-operations
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please read before continuing**: This issue form is to request to onboard a new application to EKS in `dev`.
+
+        Once completed, the following will be provided:
+          - `AppProject` in ArgoCD
+          - GitHub teams to match the read-only and read/write permission sets for the application
+          - Directory in the [application-manifests repository](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) **If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/dev`)**
+  - type: checkboxes
+    id: acknowledge
+    attributes:
+      label: Acknowledge Instructions
+      description: Please acknowledge that you have read the above instructions
+      options:
+        - label: |
+            I acknowledge that I have read the above instructions and understand the application name provided will be used to create various resources
+          required: true
+  - type: input
+    id: appname
+    attributes:
+      label: Application Name
+      description: Name of Application to Onboard
+      placeholder: vets-api-server
+    validations:
+      required: true
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer
+      description: GitHub Username of Team Lead
+      placeholder: my-github-username-va
+    validations:
+      required: true
