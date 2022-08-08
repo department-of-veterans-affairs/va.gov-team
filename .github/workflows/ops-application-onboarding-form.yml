@@ -38,8 +38,15 @@ jobs:
         
       - name: If application exists
         if: steps.exists.outputs.application_exists == 'true'
-        run: echo "${{ steps.get_name.outputs.application_name }} already exists"
+        uses: KeisukeYamashita/create-comment@v1
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          comment: |
+            ${{ steps.get_name.outputs.application_name }} is already deployed to dev as defined
+            in the `projects` here https://github.com/department-of-veterans-affairs/vsp-infra-argocd/blob/main/chart/values.yaml
         
       - name: If application doesnt exist
         if: steps.exists.outputs.application_exists == 'false'
-        run: echo "${{ steps.get_name.outputs.application_name }} does not exist"
+        run: | 
+          yq '.projects += [{"name": "steps.get_name.outputs.application_name", "environments": ["dev"]}]' vsp-infra-argocd/chart/values.yaml
+          git diff
