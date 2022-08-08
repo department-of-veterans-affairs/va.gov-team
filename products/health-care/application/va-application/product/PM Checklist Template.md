@@ -42,7 +42,12 @@
 - Release plan
 - Product guide for contact center
 
+</details>
+     
 ## List of process steps
+
+<details>
+
 - [ ] Create Initiative Brief with the Problem Statement and as many details known
      - [ ] Update the Initiative Brief after each step with links to the artifacts and more details known
 - [ ] Discovery
@@ -117,3 +122,5 @@
 - [ ] Continuous check-ins with downstream system
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
+
+</details>
