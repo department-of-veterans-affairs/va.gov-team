@@ -1,4 +1,4 @@
-# 1095-B Release Plan
+# 1095-B release plan
 
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
@@ -13,27 +13,26 @@ Because this product is a React widget on a Drupal page, it can not be tested in
 #### First round of moderated testing
 First, we’ll test with Veterans in VFS and with other CEDAR contractors in an informal smoke test. 
 
-- Desired date range or test duration: 8/22/22 – 8/25/22
+- Desired date range or test duration: 8/22/22 – 8/24/22
 
-- Desired number of users: 5 - 8 
+- Desired number of users: 5 - 8
 
 - How you'll recruit the right production test users:
   - Guerilla testing through Veterans with health care on existing VFS teams.
+ 
 - How you'll conduct the testing:
-
   - We’ll observe users download the form, and have them verify that the data in the form is correct. We’ll do this for the PDF and text versions of the form.
   - We’ll observe users download the text version of the form and verify that the data is correct.
   - We'll ask some users to download the text version of the form and use a screen reader to ensure accessibility
 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov
-
   - We’re implementing a feature toggle that will allow us to allowlist specific users since they’ll need to authenticate. 
 
 #### Second round of moderated testing
 
 We’ll also do moderated UAT testing.
 
-- Desired date range or test duration: 8/25/22 – 9/1/22
+- Desired date range or test duration: 8/25/22 – 8/26/22
 
 - Desired number of users: 8 - 12
 
