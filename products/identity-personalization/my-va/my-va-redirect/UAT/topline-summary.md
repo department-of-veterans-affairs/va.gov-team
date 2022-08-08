@@ -25,8 +25,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 **1. Veterans will be able to more quickly access what is most important to them since they can bypass the homepage.**
 - Mostly false
 - Most Veterans we spoke to primarily use VA digital services for health care (MHV) and wanted access to secure messaging and prescription refills, which were equally prominent to them on the homepage and My VA.
-	- 
-- A few participants commented that they liked being able to see their most recent payment information without having to click on anything.
+- 3 participants commented that they liked being able to relevent, recent information (such as last deposit or an upcoming appointment) without having to click on anything.
 
 2. **Veterans will not miss the homepage.**
 - Maybe true
