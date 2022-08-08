@@ -8,6 +8,8 @@ In most cases, it is simply a form for one's records. However, some states still
 
 [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
 
+[Zenhub board](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/board)
+
 ## Release information 
 
 In the near term, there are essentially going to be two releases:
@@ -16,13 +18,18 @@ In the near term, there are essentially going to be two releases:
 * Paperless delivery release plan -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
 
 
-## Annual updates 
+## Operations
+
+### Incident response
+
+[Incident response plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/incident-response-plan.md)
+
+### Annual updates
 
 The 1095-B is a yearly form, and may require annual updates. These are outlined in our [product playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/product-playbook.md)
 
-## Engineering documentation
+## Engineering information
 
-* [Incident response plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/incident-response-plan.md)
 * [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 * [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
 
