@@ -4,8 +4,7 @@
 [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
 
 ## Routes to code
-links here
-issue tickets (if they add value when describing known errors for your product)
+[Zenhub board] for 1095-B
 
 ## Contacts
 
