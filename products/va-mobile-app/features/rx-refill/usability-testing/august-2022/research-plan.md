@@ -152,9 +152,9 @@ This research will be remote via Zoom.
 
 ### Resource Materials
 
-[Conversation guide link]
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/rx-refill/usability-testing/august-2022/conversation-guide.md)
 
-[Figma prototype link](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
+[Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
 
 ### Project-Specific Setup
 
