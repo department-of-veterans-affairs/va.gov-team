@@ -32,6 +32,7 @@ jobs:
           
       - name: Check if application already exists
         id: exists
+        continue-on-error: true
         run: |
           application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ steps.get_name.outputs.application_name }}")')
           echo "::set-output name=application_exists::$(echo ${application_exists})"
