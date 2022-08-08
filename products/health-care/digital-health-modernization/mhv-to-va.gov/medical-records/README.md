@@ -87,7 +87,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Objective: Ensure users are finding medical records on VA.gov
   - Key result: Traffic to VA.gov medical records is equal or greater than previous MHV medical records metrics
 
-- Objective: Ensure the smedical records tool is intutive and easy to use
+- Objective: Ensure the medical records tool is intutive and easy to use
   - Key result: Report generation rate is equal or greater than MHV medical records report generation rate
 
 - Objective: Ensure users are satisfied with the new tool
