@@ -22,9 +22,10 @@
     - Change resolution on all Sketch files
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Collaborate with VAOS
-    - Create final wireframes
 - [Phone Numbers in Pre-check-in's "Need Help" section](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/34527)
-- [Final Wireframes to Include Time Zone with Appointment Times in Check-in & Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39390)
+    - Verify that this functionality is already in the application and document in the ticket
+- [Include Time Zone with Appointment Times in Check-in & Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39390)
+    - Create final wireframes (or verify that they are done) & attach to the ticket
  
 #### Engineering Sprint Goals (TENTATIVE)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
