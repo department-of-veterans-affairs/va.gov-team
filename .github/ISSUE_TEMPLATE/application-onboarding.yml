@@ -3,7 +3,7 @@ description: Form used for onboarding new applications/services to EKS (deployed
 title: "Application to Onboard: [application-name]"
 labels: [ "application-onboarding", "operations" ]
 assignees:
-  - vsp-operations
+  - va-vsp-bot
 body:
   - type: markdown
     attributes:
