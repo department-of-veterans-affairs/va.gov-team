@@ -1,4 +1,4 @@
-# 1095-B Tax Form Product Outline
+# 1095-B Tax form product outline
 
 
 ## Overview
@@ -8,7 +8,7 @@ IRS form 1095-B reports the months a person had qualifying minimum essential hea
 In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. The form is not required by the IRS, but it is required to be sent by health care providers as of 2019.
 
 
-## Problem Statement
+## Problem statement
 
 Currently, the IRS form 1095-B is mailed to Veterans and dependents who receive health care through VA. Sending it by mail costs VA approximately $1.5M/year, and an additional $400,000/year to print and send corrected forms. 
 
@@ -18,14 +18,14 @@ Since the form isn't available online, if a Veteran or dependent were to lose th
 - How might we provide Veterans a clear resolution path if there's an error on the form?
 
 
-## Desired User Outcomes
+## Desired user outcomes
 
 As a Veteran or dependent with health care, I:
 
 - Can easily access my 1095-B form while logged into my VA.gov account
 - Know how to address an error on the form
 
-## Desired Business Outcomes
+## Desired business outcomes
 
 - Users who need changes can receive a corrected 1095-B faster (digitally). Note that they will also receive a physical mail copy for now. 
 
@@ -55,7 +55,7 @@ As a Veteran or dependent with health care, I:
 - Veterans will access the digital version of 1095-B
 
 
-## Solution Approach
+## Solution approach
 
 _What are you going to build now, and why have you decided to start there?_
 
@@ -85,14 +85,14 @@ _How will the solution / approach evolve after this initial build (knowing that 
 
 **Go-to-market Strategy**
 
-Currently, there is no go-to-market strategy recommended until the next iteration where we’ll have the ability to opt-in to paperless delivery. However, customer service representatives will direct Veterans and dependents to download corrected forms using this product. 
+Currently, there is no go-to-market strategy recommended until the next iteration where we’ll have the ability to opt-in to paperless delivery. However, customer service representatives can direct Veterans and dependents to download corrected forms using this product. 
 
 
 ## Launch Dates
 
 - _Target Launch Date_
 
-  - August 22nd, 2022
+    - See our [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md)
 
 - _What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?_
 
@@ -109,31 +109,8 @@ Our [incident response plan](https://github.com/department-of-veterans-affairs/v
 
 - When the following year's 1095-B tax form is available, the 1095-B owner will need to ensure they're using the IRS blank 1095-B pdf and text version for the current tax year. The new PDF and text version should be added to the code once the form is available.
 
-* * *
+# Communications
+See [README](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/1095b-tax-form/README.md)
 
 
-#### Communications
-
-- Team Name: MOVE
-- GitHub Label: 1095b-Tax-Form
-- Slack channel: #cedar-1095b
-- Product POCs: Tracey Mulrooney (VA), Jeanette Cantrell (MOVE),  Munish Sikka (MOVE), Tamera (Tami) Corson (MOVE)
-- Stakeholders: Tarsha Tremble (Business owner/HEC)
-
-* * *
-
-
-#### Team Members
-
-- DEPO Lead: Tracey Mulrooney
-- PM: Munish Sikka, Jeanette Cantrell, Tamera (Tami) Corson (MOVE)
-- Engineering: Shashank Khandelwal / Teagan Stephenson / Dan Smith
-- Research/Design: Thomas McCue / Carolyn Williams / Carl Dickerson (content)
-
-* * *
-
-
-#### Stakeholders
-
-- Tarsha Tremble, Health Enrollment Center (HEC)
 
