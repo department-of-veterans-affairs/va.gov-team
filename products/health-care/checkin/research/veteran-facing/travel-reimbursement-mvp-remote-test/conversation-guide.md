@@ -21,7 +21,7 @@ Last modified: August 4, 2022
 - In the Attendees section, make sure everyone except for the participant is on mute.  
 - Keep observers in the waiting room to ask the participant if they still consent to having observers in the session. Tell the observers to have their camera on with full name displayed for a brief introduction to the participant when they are admitted to the session.
  
-## Intro - 1 Minute 
+## Intro - 5 Minutes 
 
 Hello and thank you for joining today. My name is Ben. How are you doing today? 
 
