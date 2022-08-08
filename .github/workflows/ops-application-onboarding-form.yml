@@ -9,8 +9,9 @@ jobs:
   create-pr:
     if: contains(github.event.issue.title, 'Application to Onboard')
     runs-on: ubuntu-latest
-    name: Remove User
+    name: Onboard Application
     steps:
+      - uses: actions/checkout@v2
       - uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
         with:
