@@ -13,6 +13,7 @@ _*REMINDER: Needs to be GitHub Link not ZenHub link_
 - VBMS Letter Fix [#38770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38770)
 - [FSR] Spouse Income [#42429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42429)
 - [FSR] Electronic Signature Veteran Frustrations [#45052](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45052)
+- [FSR] Duplicate FSR Submissions [#45446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45446)
 
 </br>
 </br>
