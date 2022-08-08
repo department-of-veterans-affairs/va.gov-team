@@ -22,5 +22,24 @@ jobs:
         with:
           repository: department-of-veterans-affairs/vsp-infra-argocd
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
-
-      - run: echo '${{ steps.issue-parser.outputs.jsonString }}' 
+          path: vsp-infra-argocd
+          
+      - name: Capture application name
+        id: get_name
+        run: |
+          application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.appname')
+          echo "::set-output name=application_name::$(echo ${application_name})"
+          
+      - name: Check if application already exists
+        id: exists
+        run: |
+          application_exists=$(cat values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ steps.get_name.outputs.application_name }}")')
+          echo "::set-output name=application_exists::$(echo ${application_exists})"
+        
+      - name: If application exists
+        if: steps.exists.outputs.application_exists == "true"
+        run: echo "${{ steps.get_name.outputs.application_name }} already exists"
+        
+      - name: If application doesnt exist
+        if: steps.exists.outputs.application_exists == "false"
+        run: echo "${{ steps.get_name.outputs.application_name }} does not exist"
