@@ -169,7 +169,7 @@ This research will be remote via Zoom.
 
 ### Recruitment Approach
 
-The intended audience for this research are Veterans and caregivers who refill prescriptions at the VA. We will be recruiting participants through Perigean. 
+The intended audience for this research are Veterans who refill prescriptions at the VA. We will be recruiting participants through Perigean. 
 
 We aim to be inclusive in our research and will be using the lean representative strategy to recruit participants.
 
@@ -182,7 +182,7 @@ We want to recruit 15 Veterans for the expected completion of 10-12 studies.
 #### Primary Criteria (must-haves)
 
 * Can join via a mobile device (tablet or phone) 
-* Veterans and caregivers with experience managing VA prescriptions using MHV or the Rx refill app
+* Veterans with experience managing VA prescriptions using MHV or the Rx refill app
     * Managing prescriptions is defined as:
         * Refilling a VA prescription
         * Viewing VA prescription history
