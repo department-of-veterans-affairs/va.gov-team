@@ -13,7 +13,7 @@ body:
         Once completed, the following will be provided:
           - `AppProject` in ArgoCD
           - GitHub teams to match the read-only and read/write permission sets for the application
-          - Directory in the [application-manifests repository](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) **If your application already exists in the application-manifests directory, it will need to follow the existing pattern (i.e. `apps/<application-name>/dev`)**
+          - Directory in the [application-manifests repository](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) **If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/dev`)**
   - type: checkboxes
     id: acknowledge
     attributes:
