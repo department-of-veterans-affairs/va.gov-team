@@ -15,9 +15,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 ### Document goal
 * To make sure everyone who observed the study is in alignment with the perceived findings
 * To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
-* To jump start synthesis by quickly organizing high level themes
+* To jump-start synthesis by quickly organizing high level themes
 
-**Note:** After initial review, the team felt this document was sufficient to meet our teams needs for the purposes of UAT and the My VA redirect. This will serve as our findings document.
+**Note:** After initial review, the team felt this document was sufficient to meet our team's needs for the purposes of UAT and the My VA redirect. This will serve as our findings document.
 
 ## Findings
 ### Our Hypothesis
@@ -25,12 +25,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 **1. Veterans will be able to more quickly access what is most important to them since they can bypass the homepage.**
 - Mostly false
 - Most Veterans we spoke to primarily use VA digital services for health care (MHV) and wanted access to secure messaging and prescription refills, which were equally prominent to them on the homepage and My VA.
-- 3 participants commented that they liked being able to relevent, recent information (such as last deposit or an upcoming appointment) without having to click on anything.
+- 3 participants commented that they liked being able to see relevent, recent information (such as last deposit or an upcoming appointment) without having to click anything.
 
 2. **Veterans will not miss the homepage.**
 - Maybe true
 - Most participants we spoke to were primarily interested in links that are also available on My VA
-- Most participants we talk to usually go to eBenefits or MHV instead of VA.gov, so they have no current attachment to the homepage. Therefore, they won’t miss it
+- Most participants we talked to usually go to eBenefits or MHV instead of VA.gov, so they have no current attachment to the homepage. Therefore, they won’t miss it.
 - 5 of 10 participants preferred landing on My VA over the homepage
 
 	> That’s better [than the homepage] because then it goes to MY stuff. - P9
@@ -47,7 +47,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **4. Veterans will use search if they can’t find what they’re looking for on My VA.**
 - Mostly true.
-- This wasn’t specifically tested for the first half of participants. Those that we did ask, went to the main menu, profile, or search to look for a link that wasn’t there.
+- This wasn’t specifically tested for the first half of participants. Those that we did ask went to the main menu, profile, or search to look for a link that wasn’t there.
 
 ### Research questions
 1. **Does the functionality work as expected, for all login types and across devices?**
@@ -61,10 +61,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 2. **What do people want to do once they’ve landed on My VA?**
 - Most participants wanted to click a link under health care.
 - One participant felt like the page was “blank” and stated they’d go back to MHV to do what they needed to do, despite the fact that My VA had links to those same tasks on the page.
-- One participant only logs into VA.gov to look for general news, VA updates, and went to the footer to try to find that information from My VA.
+- One participant only logs into VA.gov to look for general news and VA updates. They went to the footer to try to find that information from My VA.
 
 3. **Are there any points of confusion?**
-- There weren’t any points of confusion caused by starting on the homepage, and landing on My VA once log in was completed.
+- There weren’t any points of confusion caused by starting on the homepage and landing on My VA once login was completed.
 - The most significant points of confusion we observed were related to the login process.  The redirects and 2FA process of logging in are disruptive enough that participants are grateful to just be done with that by the time they get to My VA.
 - One participant, who had health care but no upcoming appointments, felt unsure after landing on My VA. 
 
@@ -98,7 +98,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Viewing lab and test results
 - Downloading their VA benefit letters
 - Accessing their DD214
-- 2 participants mentioned regularly checking on an appeal status that has been at a standstill for 2 years. When they logged in to My VA, they were shown the message that they had no claim updates within the last 30 days, which isn’t doesn’t help them complete their weekly task of seeing what the status is of their appeal. It would be better to show them the card that showed the status, despite it not having changed within the last 30 days.
+- 2 participants mentioned regularly checking on an appeal status that has been at a standstill for 2 years. When they logged in to My VA, they were shown the message that they had no claim updates within the last 30 days, which doesn’t help them complete their weekly task of seeing the status of their appeal. It would be better to show them the card with the status despite it not having changed within the last 30 days.
 
 	> I always check the status of my appeal. It’s a ritual, but I shouldn’t have to. I’ve been waiting since 2020 for an answer. I check it at least once every week.” - P11
 
@@ -129,14 +129,14 @@ This topline summary is a high level, top of mind summary of trends found in the
 6. **When conducting a research session with a participant who uses a screenreader, we need to allow 2 or even 2.5 times the amount of time for other sessions.**
 - The nature of navigating the internet with a screenreader is slower than for sighted users.
 
-	> This is time consuming to a sighted person, but for me this is normal. I got nothing but time - P6
+	> This is time-consuming to a sighted person, but for me this is normal. I got nothing but time - P6
 - We weren’t able to get through all tasks since another session was scheduled immediately after, and we had already gone over time.
 
 ## Recommendations and next steps
-1. We should test internally on production with our own accounts and login.gov to verify there aren’t any obvious problems with that credential and the redirect.
+1. We should test internally on production with our own accounts and Login.gov to verify there aren’t any obvious problems with that credential and the redirect.
 2. Meet with the analytics team to get their recommendations on how to measure the impact of this redirect.
-3. Move forward with the My VA redirect, and monitor our KPIs closely to determine how this is impacting people.
-4. Create a Github issue to learn why View lab and test results isn’t showing on My VA anymore. It could be because we purposely removed it for accessibility reasons, or there may be a bug. We’re not sure at this time.
+3. Move forward with the My VA redirect and monitor our KPIs closely to determine how this is impacting people.
+4. Create a Github issue to learn why the "View lab and test results" link isn’t showing on My VA anymore. It could be because we purposely removed it for accessibility reasons, or there may be a bug. We’re not sure at this time.
 5. Create a Github issue to look at the Air Force logo in the name tag - the bottom of the logo was cut off for our Air Force Veteran participant.
 
 
