@@ -57,7 +57,7 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
-          path: vsp-infra-argocd
+          path: vsp-infra-argocd/chart
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           add-paths: values.yaml
           commit-message: "Adding application ${{ steps.get_name.outputs.application_name }} to ArgoCD appProjects dev"
