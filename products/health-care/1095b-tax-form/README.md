@@ -6,9 +6,9 @@ In most cases, it is simply a form for one's records. However, some states still
 
 ## Product information
 
-[Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
-
-[Zenhub board](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/board)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
+- [Zenhub board](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/board)
+- GitHub Label: 1095b-Tax-Form
 
 ## Release information 
 
@@ -45,7 +45,6 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
     - Tamera (Tami) Corson (MOVE) | tamera.corson@va.gov
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
 - Stakeholders: Tarsha Tremble (Business owner/Health Enrollment Center) | tarsha.tremble@va.gov
-
 
 #### Team Members
 
