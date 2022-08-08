@@ -39,7 +39,7 @@ Last updated: August 8, 2022
 
 ## Overview
 
-The 1095B team is working on an effort to allow veterans and other health care recipients to download their 1095B (proof of health care) tax form from VA.gov. Part of this effort requires that veterans be able to opt-out of the mailed copy of their 1095B in favor of the digital download. The 1095B team would like to work in partnership with VA.gov, VA Profile, and VANotify to make this happen. This setting would live n the VA.gov profile and be managed by the VA Profile backend. VANotify would be responsible for various emails that are associate with opting in and out of the digital download.
+The 1095B team is working on an effort to allow veterans and other health care recipients to download their 1095B (proof of health care) tax form from VA.gov. Part of this effort requires that veterans be able to opt-out of the mailed copy of their 1095B in favor of the digital download. The 1095B team would like to work in partnership with VA.gov, VA Profile, and VANotify to support this preference. This setting would live in the VA.gov profile and be managed by the VA Profile backend. VANotify would be responsible for various emails that are associate with opting in and out of a mailed copy of the 1095B.
 
 ## Problem Statement
 
@@ -74,6 +74,11 @@ OKRs and KPIs TBD.
 ## Solution approach
 
 ### Requirements
+
+- Support a notification preference in the profile that allows veterans to opt into and out of a mailed copy of their 1095B. It should be clear that they can change this option at any time.
+  - This would connect to VA Profile.
+- Make sure anyone who updates this permission has an email on file, given that there are a number of legally required emails associated with this work.
+- Any time someone updates their 1095B preference, send a confirmation email.
 
 ### Key dates
 
