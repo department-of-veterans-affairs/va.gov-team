@@ -158,9 +158,11 @@ Now, instead of tapping “yes” to this question, please tap “no.”
 
 Please go ahead and tap “check in now” for either appointment to advance to the next page.  
 
-Now, again, this is the last page of the check in experience, but it includes different information because you answered “no” to filing a travel reimbursement claim. Does that make sense? 
+*The participant should be on the confirmation page.*
 
-So, knowing that you’ve changed your response to “no,” could you please review this page and once you’re done reviewing, tell me if this is what you expected to see? 
+Now, again, on this page, as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking and what, if anything, you’re unsure about before. Please start reviewing.
+
+So, again, this is the last page of the check in experience. Could you tell me if this is what you expected to see as a result of changing your answer to "no" to filing a travel reimbursement claim? 
 
 Is there anything unclear to you? 
 
@@ -297,9 +299,11 @@ Now, instead of tapping “yes” to this question, please tap “no.”
 
 Please go ahead and tap “check in now” for either appointment to advance to the next page.  
 
-Now, again, this is the last page of the check in experience, but it includes different information because you answered “no” to filing a travel reimbursement claim. Does that make sense? 
+*The participant should be on the confirmation page.*
 
-So, knowing that you’ve changed your response to “no,” could you please review this page and once you’re done reviewing, tell me if this is what you expected to see? 
+Now, again, on this page, as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking and what, if anything, you’re unsure about before. Please start reviewing.
+
+So, again, this is the last page of the check in experience. Could you tell me if this is what you expected to see as a result of changing your answer to "no" to filing a travel reimbursement claim? 
 
 Is there anything unclear to you? 
 
@@ -442,9 +446,11 @@ Now, instead of tapping “yes” to this question, please tap “no.”
 
 Please go ahead and tap “check in now” for either appointment to advance to the next page.  
 
-Now, again, this is the last page of the check in experience, but it includes different information because you answered “no” to filing a travel reimbursement claim. Does that make sense? 
+*The participant should be on the confirmation page.*
 
-So, knowing that you’ve changed your response to “no,” could you please review this page and once you’re done reviewing, tell me if this is what you expected to see? 
+Now, again, on this page, as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking and what, if anything, you’re unsure about before. Please start reviewing.
+
+So, again, this is the last page of the check in experience. Could you tell me if this is what you expected to see as a result of changing your answer to "no" to filing a travel reimbursement claim? 
 
 Is there anything unclear to you? 
 
@@ -626,9 +632,11 @@ Now, instead of tapping “yes” to this question, please tap “no.”
 
 Please go ahead and tap “check in now” for either appointment to advance to the next page.  
 
-Now, again, this is the last page of the check in experience, but it includes different information because you answered “no” to filing a travel reimbursement claim. Does that make sense? 
+*The participant should be on the confirmation page.*
 
-So, knowing that you’ve changed your response to “no,” could you please review this page and once you’re done reviewing, tell me if this is what you expected to see? 
+Now, again, on this page, as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking and what, if anything, you’re unsure about before. Please start reviewing.
+
+So, again, this is the last page of the check in experience. Could you tell me if this is what you expected to see as a result of changing your answer to "no" to filing a travel reimbursement claim? 
 
 Is there anything unclear to you? 
 
