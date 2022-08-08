@@ -47,6 +47,27 @@ jobs:
         
       - name: If application doesnt exist
         if: steps.exists.outputs.application_exists == 'false'
-        run: | 
-          yq '.projects += [{"name": "steps.get_name.outputs.application_name", "environments": ["dev"]}]' vsp-infra-argocd/chart/values.yaml
-          git diff
+        run: |
+          cd vsp-infra-argocd/chart
+          yq -i '.projects += [{"name": "${{ steps.get_name.outputs.application_name }}", "environments": ["dev"]}]' values.yaml
+          gaa
+          git commit "Adding application ${{ steps.get_name.outputs.application_name }} to ArgoCD appProjects"
+          
+      - name: Create Pull Request
+        if: steps.exists.outputs.application_exists == 'false'
+        id: cpr
+        uses: peter-evans/create-pull-request@v4
+        with:
+          path: vsp-infra-argocd
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          add-paths: values.yaml
+          commit-message: "Adding application ${{ steps.get_name.outputs.application_name }} to ArgoCD appProjects dev"
+          
+      - name: Check outputs
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        uses: KeisukeYamashita/create-comment@v1
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          comment: |
+            The following PR has been created for onboarding ${{ steps.get_name.outputs.application_name }} to the dev environment
+            ${{ steps.cpr.outputs.pull-request-url }}
