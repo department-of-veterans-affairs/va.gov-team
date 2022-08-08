@@ -202,9 +202,9 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 - And, in this prototype compared to the first one, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
 
 ## Prototype-Tasks for A & B, Starting with Prototype B - 30 Minutes 
@@ -351,9 +351,9 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 - And, in this prototype compared to the first one, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
 
 ## Prototype-Tasks for B & C, Starting with Prototype B - 30 Minutes 
@@ -516,9 +516,9 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
+- What differences, if any, did you notice in this prototype compared to the first one?  
 
 ## Prototype-Tasks for B & C, Starting with Prototype C - 30 Minutes 
 
@@ -680,9 +680,9 @@ Great. You’ve reached the last page again.
 
 ### Post-Task Questions
 
-- What differences, if any, did you notice in this prototype compared to the first one?  
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not?
+- What differences, if any, did you notice in this prototype compared to the first one?  
 
 ## Closing - 2 Minutes
 
