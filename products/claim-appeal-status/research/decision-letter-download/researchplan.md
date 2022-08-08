@@ -1,4 +1,8 @@
-# Research Plan for [Team, Product, Date] 
+# Research Plan for Decision Letter Download 
+
+Skyler Schain · Designer/Researcher
+
+August 2022
 
 ## Background
 Briefly describe the background of your product. Consider:
