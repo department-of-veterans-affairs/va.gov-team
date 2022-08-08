@@ -74,16 +74,18 @@ We’ll also do moderated UAT testing.
 ### Stage A: Canary
 
 Length of time: 8/26/2022 - 8/30/2022
+
 Percentage of users: 25%
 
-We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Stage B. 
+It is not possible to predict how many users we'll have for the 1095-B. We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Stage B. To understand the traffic patterns for 1095-B, see this [Google Trends data](https://trends.google.com/trends/explore?geo=US&q=1095-B) 
 
 ### Stage B: Moderate
 
 Length of time: 8/30/2022 - 9/5/2022
+
 Percentage of users: 50%
  
-We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Go Live.
+It's not possible to predict how many users we'll have for the 1095-B. We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Go Live.
 
 ## Go Live!
 
