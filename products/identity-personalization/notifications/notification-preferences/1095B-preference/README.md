@@ -5,7 +5,7 @@ Last updated: August 8, 2022
 ### Communications
 
 - **Github labels**: vsa-authenticated-exp
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#cedar1095b](); [#va-profile](https://dsva.slack.com/channels/va-profile); [#vanotify]()
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#cedar-1095b](https://dsva.slack.com/channels/cedar-1095b); [#va-profile](https://dsva.slack.com/channels/va-profile); [#va-notify-public](https://dsva.slack.com/channels/va-notify-public)
 
 ### Roles
 
