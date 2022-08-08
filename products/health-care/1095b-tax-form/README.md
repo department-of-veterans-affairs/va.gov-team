@@ -48,9 +48,9 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 
 #### Team Members
 
-- DEPO Lead: Tracey Mulrooney
-- PM: Munish Sikka, Jeanette Cantrell, Tamera (Tami) Corson (MOVE)
-- Engineering: Shashank Khandelwal / Teagan Stephenson / Dan Smith
+In addition to the team above: 
+
+- Engineering:  Teagan Stephenson / Dan Smith
 - Research/Design: Thomas McCue / Carolyn Williams / Carl Dickerson (content)
 
 
