@@ -17,14 +17,29 @@
 ## Monday, August 8, 2022
 
 * v1 timeline
+   * End of August. (maybe early Sept)
 * In preparation for the Lighthouse migration. vets-api will in future be available via a new URL *platform-api.va.gov. . 
   * Lighthouse is actively working on moving their API Gateway out of the current AWS environment and they will assume exclusive control over the *api.va.gov URL in the near(ish) future. 
+     * Confirmed: unrelated to this team
+     * PPMS does come through vets API but  that move has already been moved in code.  No action required. 
 Slack convo: https://dsva.slack.com/archives/C0FQSS30V/p1659488479787469
 * FYI: Covid status will be retired / Timeline?
+   * May need to make adjustments to operating status more_info 300 character limit.  
+   * No timeline yet.  
+   * May need to push a null for all facilities to wipe out the existing.
 * Community Access Point/Mapbox Lat-Long update ToS
+   * We have gotten the thumbs up from mapbox that we are allowed to push CAP data from CMS to Facility API. 
 * Meeting scheduled with VAST admins - 8/12 - Thanks for the contact!
 * ATC impact update?
+   * James is leading that conversation on internal VA efforts
+   * Internal questions to ATC have been answered 
+   * Internal contacts are known.  Trying to get them to make changes visible to Lighthouse.
+   * Office of performance analytics and integration promoting discoverablity of Access To Care. 
+      * Need to leverage data to Veterans to help them make decisions.
 * Sync CMS data to sandbox
+   * Internal meeting tomorrow to do for the short time.  Should result in a short term solution/answer.
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+   * Crosswalk that to CMS facilities that do/don't have "Caregiver Support" service declared in the CMS.
 
 
 ## Monday, August 1, 2022
