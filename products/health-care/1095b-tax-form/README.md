@@ -1,5 +1,9 @@
 # 1095-B Form
 
+Interal Revenue Service (IRS) form 1095-B reports the months a person had qualifying minimum essential health coverage to the IRS. VA sends this form to Veterans to show what months they were covered under the VA healthcare system. 
+
+In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. The form is not required by the IRS, but it is required to be sent by health care providers as of 2019.
+
 ## Product information
 
 [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
