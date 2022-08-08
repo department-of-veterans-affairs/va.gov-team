@@ -120,6 +120,10 @@
      - [ ] Review Release Plan
 - [ ] Launch in a phased manner, according to Release Plan
 - [ ] Continuous check-ins with downstream system
+- [ ] Conduct Usability/UAT sessions
+     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
+     - [ ] Review findings with the team
+     - [ ] Make any necessary tickets for design and/or development
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
 
