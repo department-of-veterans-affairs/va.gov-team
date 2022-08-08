@@ -50,8 +50,6 @@ jobs:
         run: |
           cd vsp-infra-argocd/chart
           yq -i '.projects += [{"name": "${{ steps.get_name.outputs.application_name }}", "environments": ["dev"]}]' values.yaml
-          gaa
-          git commit "Adding application ${{ steps.get_name.outputs.application_name }} to ArgoCD appProjects"
           
       - name: Create Pull Request
         if: steps.exists.outputs.application_exists == 'false'
