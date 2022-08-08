@@ -1,4 +1,4 @@
-Data Flow Diagram
+Data flow diagram
 =================
 
 Overview
