@@ -5,7 +5,7 @@ Note: The team that is doing the initial MVP development is not the team that wi
 
 ## Incident response
 
-### Incident ccommander
+### Incident commander
 The first person on the team who hears about an issue in production is designated as the incident commander. The incident commander will then ensure all incident response procedures are followed until the incident response is complete, or until another person agrees to take over incident commander duties. The incident commander is not expected to personally resolve technical issues, and this is not necessarily a technical role. The incident commander is responsible to forming the response team. 
 
 
@@ -28,6 +28,10 @@ The first person on the team who hears about an issue in production is designate
     - Tickets are created to resolve and solidfy any hot-fix issues
     - Tickets are created to address missing metrics or alarms that would have provided a warning
     - Schedule a post-mortem, and document it
+
+## Contact information 
+
+In an effort to keep contact information in one place, this is now in the [README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/README.md)
 
 ## Helpful information
 
