@@ -1,64 +1,43 @@
-# Research Plan for Decision Letter Download 
+# [WIP] Research Plan for Decision Letter Download 
 
 Skyler Schain · Designer/Researcher
 
 August 2022
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like included in the Claim Status Tool. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience.
+Veterans often need to provide copies of their decision letters to a representative to pursue disagreement pathways related to the decision. In addition, some benefits provided by third-parties require a decision letter as proof of the veterans’ disability status.
 
-[Link to product brief](url goes here).
+
+[Feauture Brief](https://docs.google.com/document/d/1RMy84KMu7mzaQznhD5vn4Q18oVlWsBYwP3hixqF3INY/edit)
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This feature will most directly help the following OCTO objectives: 
+- **Increase the usage and throughput of VA services.** 
+  - If Veterans are able to access their decision letters directly from VA.gov, we hypothesize that usage of VA.gov will increase
+- **Decrease the time Veterans spend waiting for an outcome**
+  - By not having to wait for physical mail to arrive, we hypothesize Veterans will be informed of outcomes quicker
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+These events fall mainly in the "Taking Care of Myself" portion of the Veteran Journey. 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+For this research, we would like to test the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. We would like to ensure that the feature as designed is usable and accessible.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Based on what we find, we hope to feel confident in moving forward to the development phase of Decision Letter Download. If we find major issues with the proposed design, we will iterate on the solution to fix what we've identified. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+– Understand more about the decision letter user journey
+– Assess whether the design proposal is effective for solving the user problem (i.e. needing access to the digital decision letter)
+– Assess the accessibility of the proposed solution
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+We know that Veterans anxiously await their decision letters, and that the current Claim Status Tool does not do a good job of informing them of decisions. They currently have to wait for physical mail to arrive before they know their claim decision. During the study, we hope to see participants demonstrate a clear understanding of why we're building this feature, the purpose it serves, and how to interact with it successfully. 
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+Usability testing
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
