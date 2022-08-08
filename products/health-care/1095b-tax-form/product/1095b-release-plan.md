@@ -1,6 +1,5 @@
 # 1095-B release plan
 
-
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 
@@ -65,22 +64,32 @@ We’ll also do moderated UAT testing.
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
-### Do I need a staged rollout?
+### Planning
 
-### We’re requesting an exception from a staged rollout at this time. Here’s why:
+* Desired date range: 
+* How will you make the product available in production while limiting the number of users who can find/access it? 
+    * This MVP is launching dark. There will be no links on VA.gov pointing to the 1095-B page, and we're not otherwise broadcasting that the page is avaiable. We will use feature toggles to manage traffic. 
+    * This form is only relevant during tax season (and most users don't need it to file their taxes). Since we're not launching during tax season, we expect traffic to the page to be low. 
 
-- We’re launching dark. There will be no links on VA.gov pointing to the 1095-B page, and we’re not broadcasting that the page is available. 
-- This form is only relevant during tax season (and most users don’t need it to file their taxes)
-- Once we launch the ability to opt-in to paperless delivery (which is not a part of this MVP), we’ll consider a staged rollout at that time. We’ll be communicating the availability of the 1095-B form at that time. 
-- It’s a relatively simple page. 
+### Stage A: Canary
 
+Length of time: 8/26/2022 - 8/30/2022
+Percentage of users: 25%
+
+We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Stage B. 
+
+### Stage B: Moderate
+
+Length of time: 8/30/2022 - 9/6/2022
+Percentage of users: 50%
+ 
+We expect organic traffic to be extremely low, but we'll monitor for any major errors. If we see no major errors, we'll proceed to Go Live.
 
 ## Go Live!
 
-
 ### Planning:
 
-- Desired date: 09/01/22 (we’re launching dark, so would already be in production)
+- Desired date: 09/06/22 
 
 We’re launching well ahead of tax season when users would even potentially need the 1095-B form. There’s no driver to drive users to the 1095-B page. There are no KPIs for this MVP. We’ll have KPIs established once we’re ready to release the paperless delivery opt-in.  
 
