@@ -33,7 +33,7 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 * [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 * [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
 
-# Communications
+## Communications
 
 - Team Name: MOVE
 - GitHub Label: 1095b-Tax-Form
@@ -46,7 +46,7 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
 - Stakeholders: Tarsha Tremble (Business owner/Health Enrollment Center) | tarsha.tremble@va.gov
 
-#### Team Members
+### Team Members
 
 In addition to the team above: 
 
