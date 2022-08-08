@@ -162,7 +162,7 @@ This research will be remote via Zoom.
     1. [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
     2. [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 2. A link to the prototype
-3. [Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
+   * [Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
 
 
 ## Recruitment 
