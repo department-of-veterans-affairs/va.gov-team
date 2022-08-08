@@ -32,11 +32,14 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Most participants we spoke to were primarily interested in links that are also available on My VA
 - Most participants we talk to usually go to eBenefits or MHV instead of VA.gov, so they have no current attachment to the homepage. Therefore, they won’t miss it
 - 5 of 10 participants preferred landing on My VA over the homepage
-> That’s better [than the homepage] because then it goes to MY stuff. - P9
+
+	> That’s better [than the homepage] because then it goes to MY stuff. - P9
 - 4 of 10 participants preferred the layout of the homepage or the mobile app over My VA because it shows them all options “at a glance”, whereas they had to scroll much more on My VA. However, those participants primarily use MHV or eBenefits over VA.gov, so we can’t say they will “miss” the VA.gov homepage.
-> [My VA] has a lot of the same information as [homepage] but I just don’t like the way that it’s structured - P8
+
+	> [My VA] has a lot of the same information as [homepage] but I just don’t like the way that it’s structured - P8
 - 1 participant had no preference for either the homepage or My VA.
-> “Because I really only focus on one area [health care] both of them are equally useful.” - P10
+
+	> “Because I really only focus on one area [health care] both of them are equally useful.” - P10
 
 3. **The most common next step will be clicking on a link we surface in My VA.**
  - Definitely true
@@ -64,7 +67,8 @@ This topline summary is a high level, top of mind summary of trends found in the
 - There weren’t any points of confusion caused by starting on the homepage, and landing on My VA once log in was completed.
 - The most significant points of confusion we observed were related to the login process.  The redirects and 2FA process of logging in are disruptive enough that participants are grateful to just be done with that by the time they get to My VA.
 - One participant, who had health care but no upcoming appointments, felt unsure after landing on My VA. 
-> It’s kind of a weird screen….it’s got nothing on it. I’d have to chase it around [scroll] to get to where I need to go. - P2
+	
+	> It’s kind of a weird screen….it’s got nothing on it. I’d have to chase it around [scroll] to get to where I need to go. - P2
 
 
 ### Additional findings
@@ -74,16 +78,19 @@ This topline summary is a high level, top of mind summary of trends found in the
 	- 3 tried to use their browser back button, which triggered an error screen on a URL related to logging in
 	- 2 looked for something called “home” in the main navigation menus
 	- 2 had no idea how to get there
-> I’m shocked about clicking on the logo to get back to this page. That is not intuitive to me. - P13
+	
+	> I’m shocked about clicking on the logo to get back to this page. That is not intuitive to me. - P13
 - Since most participants tried to search when they couldn’t find a link on My VA, it will likely not be detrimental to their task completion if they can’t easily get back to the homepage. 
 
 2. **5 participants preferred the homepage or the mobile app to My VA.**
 - These participants quickly scanned the headings in the 4 quadrants to get a sense of what they could find on the page.
 > I just like one stop shopping. I’d rather see everything I might need in one place - P8, elaborating on their preference for the homepage over My VA
 - 4 participants experienced very slow loading times, and 2 specifically mentioned that as being a drawback when comparing My VA to the homepage.
-> The dependability of coming here [homepage] and navigating quickly. I would use this instead of MHV or My VA - P13
+
+	> The dependability of coming here [homepage] and navigating quickly. I would use this instead of MHV or My VA - P13
 - 3 participants mentioned the ease of logging in with biometrics as a benefit to the VA Mobile app over the homepage or My VA; one of those participants is 100% blind and relies on a screen reader.
-> The VA app is quicker because all I have to do is put my fingerprint on there - P7
+	
+	> The VA app is quicker because all I have to do is put my fingerprint on there - P7
 
 
 3. **Participants mentioned a few tasks that are important to them that aren’t on My VA.**
@@ -91,16 +98,21 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Downloading their VA benefit letters
 - Accessing their DD214
 - 2 participants mentioned regularly checking on an appeal status that has been at a standstill for 2 years. When they logged in to My VA, they were shown the message that they had no claim updates within the last 30 days, which isn’t doesn’t help them complete their weekly task of seeing what the status is of their appeal. It would be better to show them the card that showed the status, despite it not having changed within the last 30 days.
-> I always check the status of my appeal. It’s a ritual, but I shouldn’t have to. I’ve been waiting since 2020 for an answer. I check it at least once every week.” - P11
+
+	> I always check the status of my appeal. It’s a ritual, but I shouldn’t have to. I’ve been waiting since 2020 for an answer. I check it at least once every week.” - P11
 
 4. **All participants we asked responded positively to the new observer method we piloted.**
 - We had time to ask 8 of 10 participants. All 8 participants said they were fine with observers in the session. 
 - 5 of the 8 felt strongly it was important to ask for consent.
-> If I look on there and I look at this screen and I see these people’s names, first thing I’m going to say is who are these people, and why are they on the call? Then I’m going to be hesitant to answer your questions because idk who these people are or what their purpose is - P8
 
-> That’s respect. I like that. - P2
+	> If I look on there and I look at this screen and I see these people’s names, first thing I’m going to say is who are these people, and why are they on the call? Then I’m going to be hesitant to answer your questions because idk who these people are or what their purpose is - P8
+
+	> That’s respect. I like that. - P2
+
 - One shared that they have cognitive considerations and even if they gave consent when signing up for the survey, they might feel totally different the day of the session.
-- 6 of 8 said having observers say a quick hello made them feel more welcome, though it was strange to them when they couldn’t see or hear someone.
+- 6 of 8 said having observers say a quick hello made them feel more welcome, though it was strange to them when they couldn’t see or hear someone.  
+	- Participants on tablets and mobile devices could not see anyone on the call other than the moderator.
+	- It was noticeable when a single observer chose not to say hello or turn on their camera.
 
 5. **When we’re evaluating a flow that has a heavy dependency on another product outside of our team, we should include members of that team on our observer list.**
 - We observed many technical difficulties related to the login experience. It would’ve been helpful to have members of the identity team on hand since we can’t record the actual sign in experience.
@@ -108,7 +120,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 6. **When conducting a research session with a participant who uses a screenreader, we need to allow 2 or even 2.5 times the amount of time for other sessions.**
 - The nature of navigating the internet with a screenreader is slower than for sighted users.
-> This is time consuming to a sighted person, but for me this is normal. I got nothing but time - P6
+	> This is time consuming to a sighted person, but for me this is normal. I got nothing but time - P6
 - We weren’t able to get through all tasks since another session was scheduled immediately after, and we had already gone over time.
 
 ## Recommendations and next steps
