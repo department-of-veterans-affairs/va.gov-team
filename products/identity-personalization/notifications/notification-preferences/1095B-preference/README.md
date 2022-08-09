@@ -101,5 +101,14 @@ OKRs and KPIs TBD.
 
 ## Design
 
+### Previous research
+
+These are links to reports from research conducted by the 1095B team:
+
+- [1095-B Tax Document Research Findings – Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/Research-Findings-Round1.md)
+- [1095-B Tax Document Research Findings – Round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md)
+
+### Design artifacts
+
 - Add link to use cases
 - Add link to Sketch files
