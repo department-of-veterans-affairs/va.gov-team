@@ -79,7 +79,7 @@ Why or why not?
 - Where do you expect to find a language toggle or switch if translated content is provided on a website?
 - When you go online, what type of device do you usually use (like a desktop computer, laptop, or mobile phone)?
 
-## First Task: Toggle 5-second test (15 minutes)
+## First Task: Toggle 5-second test (10 minutes)
 Now I'm going to ask you to think about the last time you checked in for an in-person medical appointment.  I’ll  be showing you 3 designs in total. I’ll share each design briefly. I’ll then ask you some questions. I’m sharing the screen now. 
 Note: the order of the designs shows will vary between all partipants
 
@@ -120,7 +120,7 @@ I’d like to talk about the language switch on the top section of the page.
 - How do you expect to be notified about the new language function?
 
 
-## Second Task: Toggle usability testing (15minutes)
+## Second Task: Toggle usability testing (15 minutes)
 Note: the order of the designs shows will vary between all participants
 
 [Participants viewing the toggle design in pre-check-in flow]
