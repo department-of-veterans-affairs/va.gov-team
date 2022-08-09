@@ -72,12 +72,12 @@ To access the settings for the feature toggle:
 
 Our product has PII. We get all the data we need from the Enrollment System for the 1095-B form. These data elements are: 
 
-Veteran ICN
-Name
-Last 4 of social
-Address (street, city, state, zip, country)
-Birth data
-Months in which they had health care coverage through the VA
+- Veteran ICN
+- Name
+- Last 4 of social
+- Address (street, city, state, zip, country)
+- Birth data
+- Months in which they had health care coverage through the VA
 
 That's what's stored in the text file in the S3 bucket (encrypted), and in the vets-api database (also encrypted). With the exception of the ICN, that's what's displayed on the 1095-B form (text, PDF). 
 
