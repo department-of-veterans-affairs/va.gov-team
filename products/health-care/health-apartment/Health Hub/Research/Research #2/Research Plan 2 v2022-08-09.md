@@ -94,6 +94,7 @@ The total number of participants will be broken into four cohorts’
 - Half of the overall number should be enrolled for VA health benefits
 - Half of the total number (20) should be Veterans not enrolled for health benefits with the VA
 - Of the 20 participants enrolled in health benefits, at least half of them should have used MyHealtheVet online health management tool within the last year.
+- Half of the total number should represent underserved Veteran populations
 
 We want to ensure we research with the following underserved Veteran populations:
 - Females
