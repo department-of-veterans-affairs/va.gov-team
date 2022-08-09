@@ -4,11 +4,6 @@
 
 - To extend the use of Pre-Check-in to Veterans who have a telephone appointment
 
-## STATUS
-
-- Wireframes have been developed and will be tested with Veterans
-- Feature development has not been started
-
 ## DESCRIPTION
 
 - Veterans who have a phone appointment and confirm their appointment via text, will receive a link where they can perform pre-check-in
