@@ -1,4 +1,4 @@
-# Patient Check In Conversation Guide for Travel Reimbursement MVP Remote Usability Test - Prototype-Tasks for A & B, Starting with Prototype B - 30 Minutes 
+# Patient Check In Conversation Guide for Travel Reimbursement MVP Remote Usability Test - Prototype-Tasks for A & B, Starting with Prototype B 
 
 Last modified: August 4, 2022
 
