@@ -1,13 +1,23 @@
-# My VA Redirect UAT Research Findings
+# My VA Redirect UAT Topline Summary
 *Office of the CTO - Digital Experience (OCTO-DE), My VA, Authenticated Experience*
 
-Date: 8/08/2022
+Date: 8/09/2022
 
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/conversation-guide.md)
 - [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1659364841359/d8cd5e9bff56277bacd9acec59670c1f6f121612?sender=lizlantz1528)
+
+## Introduction
+This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
+
+### Document goal
+* To make sure everyone who observed the study is in alignment with the perceived findings
+* To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
+* To jump-start synthesis by quickly organizing high level themes
+
+**Note:** After initial review, the team felt this document was sufficient to meet our team's needs for the purposes of UAT and the My VA redirect. This will serve as our findings document.
 
 ## Findings
 ### Our Hypothesis
@@ -49,9 +59,12 @@ Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us)
 - The other 2 participants got errors on eauth.va.gov that the identity team is not sure what to make of.
 
 2. **What do people want to do once they’ve landed on My VA?**
-- Most participants wanted to click a link under health care.
+- 8 participants wanted to complete a health care task.
+	- 7 participants wanted to click a link under health care (secure messaging was most common)
+	- 1 participant wanted to view lab results, and would’ve clicked “My Health” in the main navigation to do so.
 - One participant felt like the page was “blank” and stated they’d go back to MHV to do what they needed to do, despite the fact that My VA had links to those same tasks on the page.
-- One participant only logs into VA.gov to look for general news and VA updates. They went to the footer to try to find that information from My VA.
+- One participant only logs into VA.gov to look for general news, VA updates, and went to the footer to try to find that information from My VA.
+- One participant wanted to return to MHV since that’s the website they know.
 
 3. **Are there any points of confusion?**
 - There weren’t any points of confusion caused by starting on the homepage and landing on My VA once login was completed.
