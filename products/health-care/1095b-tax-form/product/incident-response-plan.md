@@ -67,3 +67,18 @@ To access the settings for the feature toggle:
 
 - [Staging](https://staging-api.va.gov/flipper/features/show_digital_form_1095b)
 - [Production](https://api.va.gov/flipper/features/show_digital_form_1095b)
+
+### Security
+
+Our product has PII. We get all the data we need from the Enrollment System for the 1095-B form. These data elements are: 
+
+Veteran ICN
+Name
+Last 4 of social
+Address (street, city, state, zip, country)
+Birth data
+Months in which they had health care coverage through the VA
+
+That's what's stored in the text file in the S3 bucket (encrypted), and in the vets-api database (also encrypted). With the exception of the ICN, that's what's displayed on the 1095-B form (text, PDF). 
+
+See the [data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md) for more detail. 
