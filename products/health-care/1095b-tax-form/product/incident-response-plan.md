@@ -35,6 +35,10 @@ In an effort to keep contact information in one place, this is now in the [READM
 
 ## Helpful information
 
+### Routes to code
+
+- [vets-website] https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/download-1095b
+
 ### Links to technical diagrams
 - [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 - [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
@@ -50,11 +54,13 @@ In an effort to keep contact information in one place, this is now in the [READM
 
 ### Feature Toggle
 
-We have a [feature toggle](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#Featuretogglesguide-1.AccessFlipperUI) for 1095-B: 'show_digital_form_1095b'. You can check the status of the toggle at the following links: 
+We have a [feature toggle](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#Featuretogglesguide-1.AccessFlipperUI) for 1095-B: 'show_digital_form_1095b'. 
+
+You can check the status of the toggle at the following links: 
 - [Staging](https://staging-api.va.gov/flipper/features)
 - [Production](https://api.va.gov/flipper/features)
 
-To access the settings for the feature toggle: 
+To access the settings for the feature toggle:
 
 - [Staging](https://staging-api.va.gov/flipper/features/show_digital_form_1095b)
 - [Production](https://api.va.gov/flipper/features/show_digital_form_1095b)
