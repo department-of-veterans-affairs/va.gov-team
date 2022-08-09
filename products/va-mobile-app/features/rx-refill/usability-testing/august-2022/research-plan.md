@@ -179,7 +179,7 @@ We aim to be inclusive in our research and will be using the lean representative
 
 We want to recruit 15 Veterans for the expected completion of 10-12 studies.  
 
-#### Participant Criteria
+#### Participant Criteria:
 
 * Can join via a mobile device (tablet or phone) 
 * Veterans with experience managing VA prescriptions using MHV or the Rx refill app
@@ -196,8 +196,8 @@ We want to recruit 15 Veterans for the expected completion of 10-12 studies.
   * At least 4 participants that identify as women
   * At least 4 participants that identity as non-Caucasian
   * At least 2 participants that use assistive technology
-    * Due to tool constraints, we can ONLY accommodate: high contrast mode, font resizing/larger, amplified telephone, hearing aid, cochlear implant, cane, walker, guide animal, or other walking aid, wheelchair, wrosthetics
-    * Do NOT recruit for users who use speech input text, screen readers, sighted keyboards, switch devices, or braille readers 
+    * Due to tool constraints, we can ONLY accommodate users who use: amplified telephone, hearing aid, cochlear implant, cane, walker, guide animal, or other walking aid, wheelchair, prosthetics
+    * Do NOT recruit for users who use: high contrast mode, font resizing/larger, speech input text, screen readers, sighted keyboards, switch devices, or braille readers 
 
 
 ## Timeline 
