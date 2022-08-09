@@ -1,6 +1,6 @@
 # Patient Check In Research Plan for Travel Reimbursement MVP Remote Usability Test
 
-Date(s): August 15-22, 2022
+Date(s): August 15-23, 2022
 
 ### Quick Links 
 
