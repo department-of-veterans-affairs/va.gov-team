@@ -29,7 +29,7 @@
  
 #### Engineering Sprint Goals (TENTATIVE)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
-    - Implement new feature toggle handler (is [this](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45331) the ticket?)
+    - Implement new [feature toggle handler](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45491) 
     - Test & release on 8/23
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Support CHIP team as necessary for CHIP api
