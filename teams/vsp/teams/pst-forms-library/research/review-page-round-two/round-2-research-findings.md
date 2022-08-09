@@ -57,6 +57,12 @@ Some Veterans also felt uncertain about what would happen when clicking Edit in 
 
 *"In this one I just hit an edit button next to the group I wanted to change, but in the other one I could just click on the edit button next to the thing I wanted to change instead of having to scroll through that information. I liked this one because I like how it has one button to go to all the information. I like design 1." - P14*
 
+Though nearly all Veterans understood how to save a change and return to the review page without explanation, nearly half of them expressed confusion or uncertainty regarding the meaning of the Save & Continue, Back, and Continue buttons. Some felt that the form may not save their changes if they used the Back or Continue buttons.
+
+*"The big save and continue was perfect. There should not be any continue button, it should just be a save and continue. Say something happened and I had to run away from my computer - it would not have saved my information and I would have to start all over. I think just the one save and continue button is fine. I may even take the back button out." - P10*
+
+*"Save and continue I would think would save and take me back to the review page, continue would take me to the next page in the application, and back would take me to the previous page of the application. I feel safe with the save and continue because I know for sure what that button does." - P17*
+
 Veterans strongly prefer being anchored to the section they just edited after submitting an update. The persistent notification box is also useful for Veterans with slow internet connections, since it's easy for the connection to drop and a change to not go through.
 
 *"I would not like having to scroll all the way back down to see if I updated that [section]." - P12*
@@ -64,12 +70,6 @@ Veterans strongly prefer being anchored to the section they just edited after su
 *"I like the highlight that says 'Previous Name has been updated.' That stands out." - P14*
 
 *"I do like how [the blue box] verifies that the change went through." - P17*
-
-Though nearly all Veterans understood how to save a change and return to the review page without explanation, nearly half of them expressed confusion or uncertainty regarding the meaning of the Save & Continue, Back, and Continue buttons. Some felt that the form may not save their changes if they used the Back or Continue buttons.
-
-*"The big save and continue was perfect. There should not be any continue button, it should just be a save and continue. Say something happened and I had to run away from my computer - it would not have saved my information and I would have to start all over. I think just the one save and continue button is fine. I may even take the back button out." - P10*
-
-*"Save and continue I would think would save and take me back to the review page, continue would take me to the next page in the application, and back would take me to the previous page of the application. I feel safe with the save and continue because I know for sure what that button does." - P17*
 
 Time on Task
 ============
@@ -118,7 +118,7 @@ Next Steps
 ==========
 
 -   The team will document the simple, medium, and complex form edit scenarios to inform future implementation guides for forms components.
--   Implement review page using the "edit by section" pattern for the future VA Forms System Core working demo.
+-   The team will implement a new review page using the "edit by section" pattern for the VA Forms System Core working demo.
 -   The team will reconsider the design purpose of the back and continue buttons with the help of the Design System Team.
 
 Appendix
