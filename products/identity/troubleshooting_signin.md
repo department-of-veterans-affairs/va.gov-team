@@ -213,6 +213,19 @@ This occurs when there is an error in MPI and 2 records of the Corp ID is used
 
 <details>
   <summary>
+    <h3 id="multiple-corp-ids">107 - Flag</h3>
+  </summary>
+
+#### Why does it happen?
+This occurs when there is an error in MPI and 2 records of the Corp ID is used
+
+#### How to troubleshoot: 
+1. Create a ticket with the help desk
+
+</details>
+
+<details>
+  <summary>
     <h3 id="default-unknown-oauth">201 - Default Error (OAuth)</h3>
   </summary>
 
