@@ -39,6 +39,7 @@
     - Add GA events to language toggle
     - Break out metrics by modality
     - Make list of all GA events we have
+    - Measure Repeat Customers
     - Look at higher bounce rates for screen resolutions 
     - Determine % of patient appointments that are within a half hour of one another
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
