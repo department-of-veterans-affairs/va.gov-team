@@ -64,6 +64,26 @@ body:
     label: Slack Username
     description: What is the Slack username of the person being onboarded?
     placeholder: '@Slackbot'
+- type: input
+  id: engineering_lead_name
+  attributes:
+    label: Contract Engineering Lead Name
+    description: What is name of the Contract Engineering Lead of the person being onboarded?
+    placeholder: 
+- type: input
+  id: engineering_lead_email
+  attributes:
+    label: Contract Engineering Lead Email
+    description: What is email of the Contract Engineering Lead of the person being onboarded?
+    placeholder: 'example@va.gov'
+- type: dropdown
+  id: platform_or_vfs
+  attributes:
+    label: Is the team member part of the Platform Team or the VFS Team?
+    multiple: false
+    options:
+      - Platform Team
+      - VFS Team
 - type: checkboxes
   attributes:
     label: Crew Specific - Platform
