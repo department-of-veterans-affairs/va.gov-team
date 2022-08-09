@@ -91,7 +91,7 @@ To eliminate bias towards the first design shown, participants were randomly sho
 
 Some interviews and some individual changes were not able to be timed or scored due to a variety of technical issues (including strength of internet connection, unexpected bugs in the prototype, or missing recordings).
 
-[IMAGE]
+![image](https://user-images.githubusercontent.com/94997687/183543561-b07e4099-7cc0-4f5a-9520-dd13165f527d.png)
 
 Looking at the average time to complete a change and the average ease of completing a change, the Edit by Section design fared better than the Edit by Field design.
 
