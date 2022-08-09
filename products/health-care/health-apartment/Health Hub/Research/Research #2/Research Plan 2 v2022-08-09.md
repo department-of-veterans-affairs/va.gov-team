@@ -122,12 +122,16 @@ Each session will be scheduled for 50 minutes. The sessions will break down to a
 
 **Availability**
 Our availability beginning August 15 is as follows (all times in ET)
-August 15 9:30am–10:30am, 1pm–2pm, 2pm–3pm, 3:10pm–4:10pm, 4:20pm–5:20pm
-August 16 9:30am–10:30am, 10:40am-11:40am, 1pm–2pm, 2:10pm–3:10pm, 3:20pm–4:20pm 
-August 17, 9:30am-10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
-August 18 9:30am–10:30am, 10:40pm–11:40pm, 11:50-12:50pm, 2pm-3pm, 3:10-4:10pm
+- August 15 9:30am–10:30am, 1pm–2pm, 2pm–3pm, 3:10pm–4:10pm, 4:20pm–5:20pm
+- August 16 9:30am–10:30am, 10:40am-11:40am, 1pm–2pm, 2:10pm–3:10pm, 3:20pm–4:20pm 
+- August 17, 9:30am-10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
+- August 18 9:30am–10:30am, 10:40am–11:40am, 11:50-12:50pm, 2pm-3pm, 3:10-4:10pm
+- August 19 9:30am–10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
+- August 22 9:30am–10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
+- August 23 9:30am–10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
+- August 24 9:30am–10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
 
-Alright if interviews carry over into week of August 22.
+
 
 ### **Team Roles**
 
