@@ -30,9 +30,10 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: We see less than a 10% increase or no increase in clicks back to the homepage from My VA.
 
-|Metric|1 week pre-launch | 1 week post-launch to 25% | 1 week post-launch to 50%| 1 week post-launch to 100%|
+|Metric|1 week pre-launch | 1 week post-launch to 100% | 1 month post-launch to 100%| 3 months post-launch to 100%|
 |-------|-----------|-----------|-----------|-----------|
 |Clicks to the homepage from My VA|TBD|TBD|TBD|TBD|
+|Exits from VA.gov from My VA|TBD|TBD|TBD|TBD|
 
 #### [Top interactions from My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
@@ -40,7 +41,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: We see a 25% increase or greater for clicks into the following links:
 
-|Link name | # of clicks 1 week pre-launch | # of clicks 1 week post-launch to 25% |  # of clicks 1 week post-launch to 50%|  # of clicks 1 week post-launch to 100%|
+|Link name | # of clicks 1 week pre-launch | # of clicks 1 week post-launch to 100% |  # of clicks 1 month post-launch to 100%|  # of clicks 3 months post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |View claim|TBD|TBD|TBD|TBD|
 |Manage all your claims and appeals|TBD|TBD|TBD|TBD|
@@ -55,7 +56,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: For searches initiated from My VA, searches for information found on both My VA and the homepage will stay the same or decrease.
 
-|Search term| Rank 1 month pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
+|Search term| Rank 1 month pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |Disability rating|TBD|TBD|TBD|TBD|
 |Rating|TBD|TBD|TBD|TBD|
@@ -68,7 +69,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: For searches initiated from My VA, searches for information found on the homepage but NOT My VA will increase.
 
-|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
+|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |DD214|TBD|TBD|TBD|TBD|
 |Letter|TBD|TBD|TBD|TBD|
@@ -81,7 +82,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
+|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |Disability rating|TBD|TBD|TBD|TBD|
 |Rating|TBD|TBD|TBD|TBD|
@@ -94,7 +95,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
+|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |DD214|TBD|TBD|TBD|TBD|
 |Letter|TBD|TBD|TBD|TBD|
@@ -105,7 +106,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: There are few or no complaints about the redirect.
 
-|| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
+|| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |Redirect feedback|TBD|TBD|TBD|TBD|
 
