@@ -112,7 +112,8 @@ We’ll conduct a pilot session with mock participants (week of August 8).
 
 **Research sessions**
 
-Research sessions will begin the week of August 15. Schedule sessions beginning at 9:30am ET for 50 minutes, with at least 10 minutes break in between, maximum 5 scheduled participants a day. 
+- Research sessions will begin the week of August 15. 
+- Schedule sessions beginning at 9:30am ET for 50 minutes, with at least 10 minutes break in between, maximum 5 scheduled participants a day. 
 
 **Length of Session**
 
@@ -121,19 +122,33 @@ Each session will be scheduled for 50 minutes. The sessions will break down to a
 ### **Team Roles**
 
 Moderator: Carolyn Williams carolyn@themostudio.com, Carl Dickerson	carl@themostudio.com
+
 Research guide writing and task development (usually but not always same as moderator): Carolyn Williams 
+
 Participant recruiting & screening: Perigean
+
 Project point of contact: Carolyn Williams
+
 Participant(s) for pilot test: Tamera Corson tamera.corson@SERVEadvisory.com
+
 Note-takers: Perigean
+
 Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+
 Lauren Alexanderson lauren.alexanderson@va.gov
+
 Tracey Mulrooney tracey.mulrooney@va.gov
+
 Mikki Northuis Michelle.Northuis@va.gov
+
 Danielle Thierry danielle.thierry@va.gov
+
 Munish Sikka munish@themostudio.com
+
 Shashank Khandelwal shashank@bluetiger.digital
+
 Jeanette Cantrell jeanette@themostudio.com
+
 Thomas McCue thomas@themostudiol.com
 
 
