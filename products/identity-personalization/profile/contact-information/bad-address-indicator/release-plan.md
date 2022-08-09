@@ -12,7 +12,7 @@
 **Link to Research plan for UAT:**
 - Research Plan 
 - Conversation Guide 
-- 
+
 ### Results
 - **Number of users:** 8
 - **Number of bugs identified / fixed:** 0
