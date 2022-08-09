@@ -1,6 +1,6 @@
 Sequencing diagram
 =================
-Sequence of events:
+Sequence of operations:
 - User clicks on link from internal or external source
 - If user is authenticated on VA.gov
   - The 1095b download page is displayed with links to download either a PDF or screenreader accessible TXT file
