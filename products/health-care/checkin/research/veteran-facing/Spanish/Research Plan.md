@@ -137,7 +137,7 @@ Secondary criteria (would like to have)
 1. Timeline: Our goal is to do this research the week of August 29th, 2022
 1. Prepare: The prototypes will be ready a few days before the study begins.
 1. Length of Sessions: How long do you estimate each session will be? 
-     1. 1-hour sessions 
+     1. 45-minute sessions 
      1. 30-minute buffer between sessions
 1. Availability: Between 9EST and 4EST Monday to Friday. 
 1. Pilot: August 24, 2022
