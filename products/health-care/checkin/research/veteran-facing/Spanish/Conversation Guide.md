@@ -46,7 +46,7 @@ Now, I’m going to ask you to think about the tasks you do prior to a VA medica
 - Curious if you have interacted or know other Veterans or caregivers with low English proficiency? (if yes), are you familiar with what their check in experience is like at the VA?
 
 
-## Testing of spanish content
+## Testing of spanish content (20 minutes)
 
 I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. At this point, I’m going to share my screen.  I will walk you through each screen and ask you a few questions as we go. Please remember, there are no right or wrong answers. I appreciate your honest feedback. 
 
