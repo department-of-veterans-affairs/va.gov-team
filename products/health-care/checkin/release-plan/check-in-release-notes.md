@@ -12,6 +12,12 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/9/2022
+- Enhanced Pre-Check-in content to display messaging that is specific to the type of appointment (currently only in-person and telephone appointments). See detailed release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/phone-appointments.md)
+    - [Epic 38258](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)
+- Enhanced Pre-Check-in and Check-in to show type of care information and the doctor's name for each appointment displayed; in the event there is no information available, the information label will also not display
+    - [Epic 42027](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)
+    
 ### 8/8/2022
 - Fixed a bug where VoiceOver reads addresses twice
     - [Ticket 44418](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44418)
