@@ -14,10 +14,10 @@
 - **Conversation Guide** xxx
 
 ### Results
-- **Number of users:** 8
-- **Number of bugs identified / fixed:** 0
+- **Number of users:** 
+- **Number of bugs identified / fixed:** 
 - **Types of errors logged: n/a
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** Small modifications are being made to content and UI (#45001 and #45002)
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 
 ## Phase II: Staged Roll-out
@@ -34,7 +34,7 @@
 
 - Link clickthroughs from Alerts are successfully directing users to the intended pages with no errors 
 - No P0's (launch-blockers) found
-- Approval from the GO/NO GO call [
+- Approval from the GO/NO GO call (add link)
 
 # Go Live!
 
