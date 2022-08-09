@@ -10,8 +10,8 @@
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
 **Link to Research plan for UAT:**
-- Research Plan 
-- Conversation Guide 
+- **Research Plan** xxx
+- **Conversation Guide** xxx
 
 ### Results
 - **Number of users:** 8
