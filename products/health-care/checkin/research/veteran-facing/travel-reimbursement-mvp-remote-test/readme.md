@@ -16,3 +16,26 @@ Date(s): August 15-23, 2022
 [Conversation guide for Prototype-Tasks for B & C, Starting with Prototype C](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/conversation-guide-prototype-tasks-for-b-c-starting-with-c.md)
 
 ### Participants
+
+| Session Notes   | Session Day & Time | Conversation Guide | Attended or No Show | Phone | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |  |  | Cognitive Impairments | Orientation | Resides in |
+| ------------------------------------------------------------ |------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| P01 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P02 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P03 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P04 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P05 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P06 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P07 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P08 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P09 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P10 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P11 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P12 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P13 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P14 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P15 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P16 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P17 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P18 |  | Conversation guide for Prototype-Tasks for A & B, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P19 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| P20 |  | Conversation guide for Prototype-Tasks for B & C, Starting with Prototype C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
