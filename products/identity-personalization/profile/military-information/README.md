@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-Last Updated: July 1, 2022
+Last Updated: August 9, 2022
 
 ### Communications
 
@@ -50,7 +50,7 @@ Need link to GET/POST data in Google Analytics.
 
 ## Backend
 
-Military currently integrates through [eMIS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EMIS.1887174669.html) but will soon be moving to [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+Military integrates through [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services) as of August 2022. Military information used to integrate through [eMIS](https://depo-platform-documentation.scrollhelp.site/developer-docs/emis), but the organization plans to retire that service.
 
 Backend documentation can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md).
 
