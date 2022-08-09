@@ -70,7 +70,7 @@ All Veterans who participate will be asked to complete the same set of tasks. Ta
 **Research Materials**
 
 For moderated usability tests:
-[Link to conversation guide]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Research%20Plan%202%20v2022-08-09.md)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Research%20Plan%202%20v2022-08-09.md)
 
 Hypothesis 0
 [Link to Optimal Workshop](url goes here)
