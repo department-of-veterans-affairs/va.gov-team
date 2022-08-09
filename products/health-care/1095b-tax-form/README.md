@@ -9,6 +9,7 @@ In most cases, it is simply a form for one's records. However, some states still
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
 - [Zenhub board](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/board)
 - GitHub Label: 1095b-Tax-Form
+- When this is in production, it will be available at [http://www.va.gov/records/download-your-irs-1095-b](http://www.va.gov/records/download-your-irs-1095-b)
 
 ## Release information 
 
