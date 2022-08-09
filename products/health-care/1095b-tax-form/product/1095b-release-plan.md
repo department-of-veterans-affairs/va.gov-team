@@ -81,7 +81,7 @@ It is not possible to predict how many users we'll have for the 1095-B. We expec
 
 ### Stage B: Moderate
 
-Length of time: 8/30/2022 - 9/5/2022
+Length of time: 8/30/2022 - 9/6/2022
 
 Percentage of users: 50%
  
@@ -91,7 +91,7 @@ It's not possible to predict how many users we'll have for the 1095-B. We expect
 
 ### Planning:
 
-- Desired date: 09/5/22 
+- Desired date: 09/6/22 
 
 We’re launching well ahead of tax season when users would even potentially need the 1095-B form. There’s no driver to drive users to the 1095-B page. There are no KPIs for this MVP. We’ll have KPIs established once we’re ready to release the paperless delivery opt-in.  
 
