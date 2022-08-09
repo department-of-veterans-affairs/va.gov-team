@@ -47,3 +47,14 @@ In an effort to keep contact information in one place, this is now in the [READM
     - Route: 'form1095_bs/download_txt/:tax_year'
 - API endpoint: Endpoint to get the time the form was last updated 
     - Route: 'form1095_bs/available_forms'
+
+### Feature Toggle
+
+We have a [feature toggle](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#Featuretogglesguide-1.AccessFlipperUI) for 1095-B: 'show_digital_form_1095b'. You can check the status of the toggle at the following links: 
+- [Staging](https://staging-api.va.gov/flipper/features)
+- [Production](https://api.va.gov/flipper/features)
+
+To access the settings for the feature toggle: 
+
+- [Staging](https://staging-api.va.gov/flipper/features/show_digital_form_1095b)
+- [Production](https://api.va.gov/flipper/features/show_digital_form_1095b)
