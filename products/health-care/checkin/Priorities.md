@@ -3,42 +3,46 @@
 ### ANALYTICS
 | **<u>Epic/Feature</u>** | **<u>Notes</u>**|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------ |
+| [Add GA events to language toggle](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45230) | |
+| [Break out Metrics by Modality (In-person vs. Phone for now)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45410) | |
+| [Evaluate GA Events](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44570) | To list what events we are capturing |
 | [Determine % of Patient Appointments that are within a Half Hour of One Another](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44883) | |
-| [Upgrade Our Google Analytics Dashboard for GA4](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44527) | |
+| [Look at higher bounce rates for screen resolutions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45283) | |
+| [Upgrade Our Google Analytics Dashboard for GA4](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44527) | Upgrade happening at end of year |
 ***
 ### RESEARCH
 | **<u>Epic/Feature</u>** | **<u>Status</u>** | **<u>To Refine</u>** | **<u>Refined</u>** | **<u>In Prog.</u>** | **<u>Done</u>** | **<u>Notes</u>**|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ----------------------------------------- | ------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------ |
-| [July Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38256) | In Progress | |  | 2 | 5 | |
-| [August Research Study (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)| In Progress |  | 3| 3| 2||
+| [July Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38256) | In Progress | |  | 1 | 6 | |
+| [August Research Study (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)| In Progress ||3|1|4||
 ***
 ### DEVELOPMENT
 | **<u>Epic/Feature</u>** | **<u>Status</u>** | **<u>To Refine</u>** | **<u>Refined</u>** | **<u>In Prog.</u>** | **<u>Done</u>** | **<u>Notes</u>**|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ----------------------------------------- | ------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------ |
-| [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)| **Release by 8/9** ||1|3|32| We are cleared to release; [Previous slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1657636994325549);  |
-| [Type of Care & Doctor’s Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)| **Release by 8/9** |||5|7| e |
+| [Pre-Check-in for Telephone Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38258)| **Release 8/9** |||3|32| We are cleared to release; [Previous slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1657636994325549);  |
+| [Type of Care & Doctor’s Name Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42027)| **Release 8/9** |||3|9|  |
 | [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)| **Release 8/23**|||4|13| Kristen will work with DS if they need us to test the new control with Veterans |
 | [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/41957)| In Progress||4||4| Dev work merged to main, remaining work is SMS content |
 | [Spanish Support- Round 2](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42546)| In Progress||1|1|4| Waiting on SD QA |
 | [Tagalog Support - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42788)| In Progress||1||3| Waiting on SD QA |
-| [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) | Blocked |1|2||| [CHIP ticket](https://app.zenhub.com/workspaces/chip-api-6149f6401b0b3c001219802f/issues/department-of-veterans-affairs/chip/870) is in QA; waiting on Stephen's return to have technical discussion |
-| [Travel Reimbursement -MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)| Discovery  |2|6|4|9||
-| [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)| Discovery  |4|||||
+| [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720) | Ready for Dev |1|2||| [CHIP ticket](https://app.zenhub.com/workspaces/chip-api-6149f6401b0b3c001219802f/issues/department-of-veterans-affairs/chip/870) is in QA; waiting on Stephen's return to have technical discussion |
+| [Travel Reimbursement -MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)| Discovery  |2|6|5|8||
+| [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)| Discovery  |3|3||||
 | [Translations - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)| Prepping||4|1|||
 | [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)|Discovery|1||1|1||
-| [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44694)||1|||||
-| [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)|||1|||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
-| [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135) | Blocked |2|4||| Need wireframes; waiting on CHIP work |
-| [Add Check-in Process Info to Pre-Check-in Confirmation Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)|Need wireframes||1||||
+| [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)|Discovery|7|1||||
+| [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44694)|Discovery|||1|||
+| [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)|Discovery||1|||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
+| [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135) | Blocked |2|4||| Waiting on CHIP work |
+| [Add Check-in Process Info to Pre-Check-in Confirmation Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)|||1||||
 | [Remove/Disable Sign in Link for Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44876)||1|||||
-| [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)||7|||||
 | [Handle Other Appointment Types](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44669)||1|||||
 | [Handle Addresses with Bad Address Indicator](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44505)||1|||||
 | [[SMS] Send "Check-in Now" Message 30 Minutes before Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44395)||2|||||
 | [[SMS] Send Pre-Check-in Reminder(s)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44396)||1||||
 | [Explore Renaming Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44393)||1|||||
 | [View All Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42920)||1|4||||
-| [Update System Generated Notifications UI](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44905)|  |2|||||
+| [Update System Generated Notifications UI](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44905)| |2|||||
 
 
 
