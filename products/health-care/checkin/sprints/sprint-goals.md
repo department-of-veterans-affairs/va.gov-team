@@ -11,7 +11,7 @@
     - Synthesize research
     - Create study report
 - [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Team meeting to go through
+    - Team meeting to go through applications
 - [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
     - Research metrics by modality
 
@@ -37,14 +37,17 @@
     - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint
 - [CIE Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42190)
     - Add GA events to language toggle
+    - Break out metrics by modality
+    - Make list of all GA events we have
     - Look at higher bounce rates for screen resolutions 
+    - Determine % of patient appointments that are within a half hour of one another
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Look at logic in MAS
+- [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
+    - Next steps?
 - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
     - Add ability to set "needs insurance review" flag
     - Fix 2 bugs
-- [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
-    - Next steps?
 - Bugs & Tech Debt 
    - As many as can fit in the Sprint
 
