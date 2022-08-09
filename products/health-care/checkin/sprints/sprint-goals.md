@@ -31,6 +31,8 @@
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Implement new [feature toggle handler](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45491) 
     - Test & release on 8/23
+- [BUG] [Update accordion content when Veteran starts pre check in for phone appt after 15 mins past appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45492)
+    - Fix & release as completed
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
     - Support CHIP team as necessary for CHIP api
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
