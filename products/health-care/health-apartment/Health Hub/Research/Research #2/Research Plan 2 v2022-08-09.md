@@ -80,7 +80,7 @@ Hypothesis 1
 [Link to Optimal Workshop](url goes here)
 
 
-### **Participants and recruitment **
+### **Participants and recruitment**
 
 Ask Perigean to recruit 40 people using the cohorts below. We expect no less than 5 completions for each cohort. Ideally, we would like to have:
 The total number of participants will be broken into four cohorts’
@@ -120,6 +120,15 @@ We’ll conduct a pilot session with mock participants (week of August 8).
 
 Each session will be scheduled for 50 minutes. The sessions will break down to approximately 10 minutes for introductions and primer questions, to be followed by the moderated test, for which the remaining 40 minutes will be used.
 
+**Availability**
+Our availability beginning August 15 is as follows (all times in ET)
+August 15 9:30am–10:30am, 1pm–2pm, 2pm–3pm, 3:10pm–4:10pm, 4:20pm–5:20pm
+August 16 9:30am–10:30am, 10:40am-11:40am, 1pm–2pm, 2:10pm–3:10pm, 3:20pm–4:20pm 
+August 17, 9:30am-10:30am, 10:40am–11:40am, 11:50–12:50pm, 2pm–3pm, 3:10–4:10pm
+August 18 9:30am–10:30am, 10:40pm–11:40pm, 11:50-12:50pm, 2pm-3pm, 3:10-4:10pm
+
+Alright if interviews carry over into week of August 22.
+
 ### **Team Roles**
 
 Moderator: Carolyn Williams carolyn@themostudio.com, Carl Dickerson	carl@themostudio.com
@@ -135,22 +144,14 @@ Participant(s) for pilot test: Tamera Corson tamera.corson@SERVEadvisory.com
 Note-takers: Perigean
 
 Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
-
-Lauren Alexanderson lauren.alexanderson@va.gov
-
-Tracey Mulrooney tracey.mulrooney@va.gov
-
-Mikki Northuis Michelle.Northuis@va.gov
-
-Danielle Thierry danielle.thierry@va.gov
-
-Munish Sikka munish@themostudio.com
-
-Shashank Khandelwal shashank@bluetiger.digital
-
-Jeanette Cantrell jeanette@themostudio.com
-
-Thomas McCue thomas@themostudiol.com
+- Lauren Alexanderson lauren.alexanderson@va.gov
+- Tracey Mulrooney tracey.mulrooney@va.gov
+- Mikki Northuis Michelle.Northuis@va.gov
+- Danielle Thierry danielle.thierry@va.gov
+- Munish Sikka munish@themostudio.com
+- Shashank Khandelwal shashank@bluetiger.digital
+- Jeanette Cantrell jeanette@themostudio.com
+- Thomas McCue thomas@themostudiol.com
 
 
 
