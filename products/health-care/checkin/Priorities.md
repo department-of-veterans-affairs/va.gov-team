@@ -1,7 +1,7 @@
 
 # **MODERNIZED CHECK-IN PRIORITIZED BACKLOG**
 ### ANALYTICS
-| **<u>Epic/Feature</u>** | **<u>Notes</u>**|
+| **<u>Ticket</u>** | **<u>Notes</u>**|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------ |
 | [Add GA events to language toggle](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45230) | |
 | [Break out Metrics by Modality (In-person vs. Phone for now)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45410) | |
@@ -31,8 +31,8 @@
 | [Translations - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)| Prepping||4|1|||
 | [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)|Discovery|1||1|1||
 | [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)|Discovery|7|1||||
-| [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44694)|Discovery|||1|||
-| [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)|Discovery||1|||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
+| [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44694)|Eng Discovery|||1|||
+| [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)|Eng Discovery||1|||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well|
 | [Include Time Zone with Appointment Information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44135) | Blocked |2|4||| Waiting on CHIP work |
 | [Add Check-in Process Info to Pre-Check-in Confirmation Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)|||1||||
 | [Remove/Disable Sign in Link for Pre-Check-in and Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44876)||1|||||
