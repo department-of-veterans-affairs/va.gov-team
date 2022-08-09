@@ -1,6 +1,6 @@
 # Project outline: Integrate military information through VA Profile
 
-Last updated: June 29, 2022 
+Last updated: August 9, 2022 
 
 ### Communications
 
@@ -76,4 +76,6 @@ In February 2022, we were informed that the service through which the VA.gov pro
 - April 2022: Begin migrating integration from eMIS to VA Profile.
 - May  2022: Kickoff; Begin integration work.
 - June 2022: QA
-- July 2022: Launch
+- July 2022: Waiting for VA Profile to give prod permissions
+- August 2022: UAT
+- August 9, 2022: Launch to 25%
