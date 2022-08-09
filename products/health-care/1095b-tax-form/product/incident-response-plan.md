@@ -37,10 +37,10 @@ In an effort to keep contact information in one place, this is now in the [READM
 
 ### Routes to code
 
-The following PRs are probably the best way to show the code for 1095-B
+The following (merged) PRs are probably the best way to show the code for 1095-B
 
-- This [vets-website PR](https://github.com/department-of-veterans-affairs/vets-website/pull/21847/files)
-- This [vets-api PR](https://github.com/department-of-veterans-affairs/vets-api/pull/10285/files)
+- [vets-website PR](https://github.com/department-of-veterans-affairs/vets-website/pull/21847/files)
+- [vets-api PR](https://github.com/department-of-veterans-affairs/vets-api/pull/10285/files)
 
 ### Links to technical diagrams
 - [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
