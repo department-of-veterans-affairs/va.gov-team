@@ -16,7 +16,8 @@ Research Questions
 Methodology
 ===========
 
-We conducted fourteen 1:1 semi-structured remote moderated research sessions via Zoom between July 6 - 27, 2022.
+We conducted thirteen 1:1 semi-structured remote moderated research sessions via Zoom between July 6 - 27, 2022.
+
 -   Participants were led through completion of the first 2 pages of the Burial Benefits form with guidance on what data to enter in each field.
 -   Participants were then directed to view one of two design variations of the Review page.
     -   To counteract potential bias towards the first option they viewed, we randomized which design variation we directed them to look at first.
@@ -32,38 +33,67 @@ Hypotheses and Conclusions
 1.  Veterans find it easier to correct information on the review page when they can edit by section.
     -   LIKELY TRUE - Most Veterans prefer to edit by section because it gives them the opportunity to double-check all their entries in that section. However, some Veterans prefer the experience of clicking to edit a field and being anchored to the field they selected on the section's edit page. 
 1.  Time on task is improved by anchoring Veterans to the section they've just corrected.
-    -   DEFINITELY TRUE - Anchoring Veterans to the section they've just corrected - especially when paired with the blue notification box that the line or section they changed has been updated - is correlated with faster form completion and higher satisfaction with the experience of using the form. 
+    -   PROBABLY TRUE - Time on task is difficult to measure for reasons explained further on in this research. However, anchoring Veterans to the section they've just corrected - especially when paired with the blue notification box that the line or section they changed has been updated - is correlated with faster form completion and higher satisfaction with the experience of using the form. 
 
 Key Findings
 ============
--   Most Veterans found success faster with the edit by section design for the following reasons:
-    -   Less visual clutter,
-    -   Preference to edit by section and certainty of what the edit button does,
-        -   This is in opposition to the uncertainty introduced by the multiple edit buttons in the edit by field design: does the edit button open the field within the review page? Or does it open to the field in the section to be edited?
-    -   For Veterans who complete the mobile version of the form, the edit by field design introduces potential to mis-click and edit the wrong field.
+
+-   Most Veterans found success faster with the edit by section design.
+    -   Veterans found that the edit by section design had better ease of navigation and ease of reviewing and updating entire sections.
+    -   Qualitatively, Veterans were also able to navigate and intuitively understand how to update the edit by section design better than the edit by field design.
 -   Though nearly all Veterans understood how to save a change and return to the review page without explanation, nearly half of them expressed confusion or uncertainty regarding the meaning of the Save & Continue, Back, and Continue buttons.
-    -   Some felt that the form may not save their changes if they used the Back or Continue buttons.
--   Time on task is difficult to standardize across interviews for the following reasons:
-    -   Some Veterans have disabilities, like TBIs, that cause them to scan information and make edits more slowly than other participants.
-    -   Some Veterans - especially in rural areas - have slower internet and cellular connections, slowing down overall completion time.
-    -   Some Veterans are more and less familiar with the Burial form in particular. This means that some people need more time to find the field we prompted them to edit, whereas others were able to find fields quickly.
+-   When returning to the review page after saving a change, all Veterans preferred being anchored to the section they just updated with a persistent confirmation notification.
 
 Details of Findings
 ===================
 
-**Edit by Section:**
+Compared to the edit by field design, Veterans found that the edit by section design had less visual clutter. Especially for Veterans using the mobile version of the form, the higher number of edit hyperlinks introduced the potential to mis-click and end up editing the wrong field.
 
-*"I can't pinpoint it, but [this design] feels less cluttered compared to the last one."* - P18
+Some Veterans also felt uncertain about what would happen when clicking Edit in the edit by field design. Would the edit button open the field within the review page? Or would it open to the field in the section page? Comparatively, the edit by section design introduced less uncertainty.
 
-*"On design 1 you have to go all the way to the section [to edit], but on a phone, it would be easier for me to accidently hit the wrong edit [in design 2]."* - P15
+*"I can't pinpoint it, but [this design] feels less cluttered compared to the other one." - P18*
 
-*"In this one I just hit an edit button next to the group I wanted to change, but in the other one I could just click on the edit button next to the thing I wanted to change instead of having to scroll through that information. I liked this one because I like how it has one button to go to all the information. I like design 1."* - P14
+*"On design 1 you have to go all the way to the section [to edit], but on a phone, it would be easier for me to accidently hit the wrong edit [in design 2]." - P15*
 
-**Save and Continue:**
+*"In this one I just hit an edit button next to the group I wanted to change, but in the other one I could just click on the edit button next to the thing I wanted to change instead of having to scroll through that information. I liked this one because I like how it has one button to go to all the information. I like design 1." - P14*
 
-*"The big save and continue was perfect. There should not be any continue button, it should just be a save and continue. Say something happened and I had to run away from my computer - it would not have saved my information and I would have to start all over. I think just the one save and continue button is fine. I may even take the back button out."* - P10
+Veterans strongly prefer being anchored to the section they just edited after submitting an update. The persistent notification box is also useful for Veterans with slow internet connections, since it's easy for the connection to drop and a change to not go through.
 
-*"Save and continue I would think would save and take me back to the review page, continue would take me to the next page in the application, and back would take me to the previous page of the application. I feel safe with the save and continue because I know for sure what that button does."* - P17
+*"I would not like having to scroll all the way back down to see if I updated that [section]." - P12*
+
+*"I like the highlight that says 'Previous Name has been updated.' That stands out." - P14*
+
+*"I do like how [the blue box] verifies that the change went through." - P17*
+
+Though nearly all Veterans understood how to save a change and return to the review page without explanation, nearly half of them expressed confusion or uncertainty regarding the meaning of the Save & Continue, Back, and Continue buttons. Some felt that the form may not save their changes if they used the Back or Continue buttons.
+
+*"The big save and continue was perfect. There should not be any continue button, it should just be a save and continue. Say something happened and I had to run away from my computer - it would not have saved my information and I would have to start all over. I think just the one save and continue button is fine. I may even take the back button out." - P10*
+
+*"Save and continue I would think would save and take me back to the review page, continue would take me to the next page in the application, and back would take me to the previous page of the application. I feel safe with the save and continue because I know for sure what that button does." - P17*
+
+Time on Task
+============
+
+Time on task is difficult to standardize across interviews for the following reasons:
+
+-   Some Veterans have different reading speeds that cause them to scan information and make edits more slowly than other participants.
+-   Some Veterans - especially in rural areas - have slower internet and cellular connections, slowing down overall completion time.
+-   Some Veterans are more and less familiar with the Burial form in particular. This means that some people need more time to find the field we prompted them to edit, whereas others were able to find fields quickly.
+-   We also encountered technical difficulties with the prototype that occasionally artificially inflated time on task, or made the measurements unusable.
+
+To better understand the results of time on task, we also qualitatively scored the ease by which each Veteran completed a simple, medium, and complex change on each design. A score of 5 meant the Veteran completed the change with minimal direction or confusion; a score of 1 meant the Veteran was unable to complete the change at all without assistance. Factors that impacted scores negatively include:
+
+-   Difficulty finding the directed line in the form;
+-   Trying to select the wrong section for the given edit;
+-   Selecting edit successfully, but needing additional instructions beyond those provided in the discussion guide.
+
+To eliminate bias towards the first design shown, participants were randomly shown either the Edit by Section (D1) or the Edit by Field (D2) design first.
+
+Some interviews and some individual changes were not able to be timed or scored due to a variety of technical issues (including strength of internet connection, unexpected bugs in the prototype, or missing recordings).
+
+[IMAGE]
+
+Looking at the average time to complete a change and the average ease of completing a change, the Edit by Section design fared better than the Edit by Field design.
 
 Additional Insights
 ===================
@@ -75,7 +105,6 @@ Additional Insights
 -   Once the Veteran had completed one update, the remaining updates flowed smoothly.
     -   No Veteran had trouble understanding the instructions box of the complex change (selecting a plot or interment allowance).
     -   This carried over from the first design presented to the following design.
-    -   Veteran preferences between the edit by section and edit by field designs largely boil down to ease of navigation and ease of reviewing and updating entire sections.
 
 Recommendations
 ===============
@@ -89,8 +118,8 @@ Next Steps
 ==========
 
 -   The team will document the simple, medium, and complex form edit scenarios to inform future implementation guides for forms components.
--   Figure out what back button does, and if the continue button needs to exist.
-    -   Ask the Design System Team at Design council.
+-   Implement review page using the "edit by section" pattern for the future VA Forms System Core working demo.
+-   The team will reconsider the design purpose of the back and continue buttons with the help of the Design System Team.
 
 Appendix
 ========
