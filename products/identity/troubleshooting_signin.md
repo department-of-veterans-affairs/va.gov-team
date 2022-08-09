@@ -213,19 +213,6 @@ This occurs when there is an error in MPI and 2 records of the Corp ID is used
 
 <details>
   <summary>
-    <h3 id="default-unknown-oauth">201 - Default Error (OAuth)</h3>
-  </summary>
-
-#### Why does it happen?
-This error can occur for a variety of different reasons. Sometimes we are not sure what the error is and it doesn't match any of our other errors OR we don't want to display the error to the user in certain cases like identity theft flag, date of death set, etc.
-
-#### How to troubleshoot: 
-1. Ask the User to clear their cookies & cache
-2. Try to Sign in again with their credential provider
-</details>
-
-<details>
-  <summary>
     <h3 id="state-mismatch-oauth">202 - State Mismatch (OAuth)</h3>
   </summary>
 
@@ -239,7 +226,7 @@ This occurs when the state in the initial OAuth request DOES NOT match the respo
 
 <details>
   <summary>
-    <h3 id="invalid-request-oauth">203 - Invalid Request (OAuth)</h3>
+    <h3 id="invalid-request-oauth">400 - Invalid Request (OAuth)</h3>
   </summary>
 
 #### Why does it happen?
