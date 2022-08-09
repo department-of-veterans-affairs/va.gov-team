@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated June 16, 2022
+Last updated August 9, 2022
 
 ### Communications
 
@@ -26,6 +26,10 @@ Last updated June 16, 2022
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
+- [Platform Documentation](#Platform-Documentation)
+- [Design](#Design)
+- [Frontend](#Front-End)
+- [Backend](#Back-End)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [My VA features](#my-va-features)
@@ -108,8 +112,27 @@ _Why would your business want this to exist?_
  
 ## Measuring Success
 
+- [Link to My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
+- [Overview of My VA Analytics](https://github.com/ericasauv09/Personal/blob/main/My%20VA%20Analytics.md)
 - [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
 - [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
+
+## Platform Documentation
+
+- As members of the VFS teams we participate in the collaboartion cycle as we develop new features for My VA. Information regarding the collaboration cycle can be found [here](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+- Plaform Slack channel is [#vfs-platform-support](https://join.slack.com/share/enQtMzkwNjAzMjA2OTcxNi04MDhiNDE3ZThjNDY0NWYwMGI0ODVmYTk2NjIxODAwZDgxOWE4ZDFiMDI1YTY2M2U4N2VkYTg2Mjg4NTViMDZk)
+
+## Design
+
+- Sketch Files/Prototypes?
+
+## Front End
+
+- placeholder
+
+## Back End
+
+- [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
 
 ## Solution Narrative
 
@@ -121,6 +144,9 @@ _Why would your business want this to exist?_
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
+|[My VA Redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect)| ETA to complete Summer 2022|
+|[Onsite Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)| ETA Summer 2022|
+|[My VA Audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit)| ETA Fall 2022|
 
 ### Key Decisions
 
@@ -129,7 +155,7 @@ _Why would your business want this to exist?_
 ## How to Access and Test
 
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
-- [Staging User Info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- [Staging User Info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mv)
 
 ## My VA features
 
@@ -144,6 +170,12 @@ _Why would your business want this to exist?_
 - **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
 - **Backend system**: EVSS
 
+### Notifications (Staging Only)
+
+- This section will display any recent notifications for the veteran
+- Currently, only debt notifications are active but eventually we plan to add more
+- **Backend system**: VA Notify
+
 ### Claim status
 
 - This shows someone's most recent claim status update in the last 30 days and links off to the claim and the claim status tool.
@@ -156,7 +188,7 @@ _Why would your business want this to exist?_
 - This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
 - **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
 
-### Benefit payments and debts (staging only)
+### Benefit payments and debts
 
 - This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
 - There is also a link to update direct deposit information.
