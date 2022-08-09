@@ -63,14 +63,14 @@
 
 
 #### Baseline KPI Values
-- Number of online Caregiver applications filled out by a representative per month: 0
 - Number of online Caregiver applications filled out per month:
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: number of applications filled out by representatives
+  - Key result: number of applications that are not misrouted or delayed
+  - **Where can we get this information??**
   
 
 
