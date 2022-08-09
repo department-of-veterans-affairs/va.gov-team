@@ -84,14 +84,16 @@ Hypothesis 1
 
 Ask Perigean to recruit 40 people using the cohorts below. We expect no less than 5 completions for each cohort. Ideally, we would like to have:
 The total number of participants will be broken into four cohorts’
+
 1. H0 Veterans Enrolled in VA Health Benefits
-2 H0 Veterans Not Enrolled
-3.H1 Veterans Enrolled in VA Health Benefits
-4.H1 Veterans Not Enrolled enrolled in VA Health Benefits, but benefit eligible
- All participants should be Veterans
-Half of the overall number should be enrolled for VA health benefits
-Half of the total number (20) should be Veterans not enrolled for health benefits with the VA
-Of the 20 participants enrolled in health benefits, at least half of them should have used MyHealtheVet online health management tool within the last year.
+2. H0 Veterans Not Enrolled
+3. H1 Veterans Enrolled in VA Health Benefits
+4. H1 Veterans Not Enrolled enrolled in VA Health Benefits, but benefit eligible
+
+- All participants should be Veterans
+- Half of the overall number should be enrolled for VA health benefits
+- Half of the total number (20) should be Veterans not enrolled for health benefits with the VA
+- Of the 20 participants enrolled in health benefits, at least half of them should have used MyHealtheVet online health management tool within the last year.
 
 We want to ensure we research with the following underserved Veteran populations:
 - Females
