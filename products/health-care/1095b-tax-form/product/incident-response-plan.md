@@ -38,7 +38,7 @@ In an effort to keep contact information in one place, this is now in the [READM
 ### Links to technical diagrams
 - [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 - [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
-- [Sequence diagram]()
+- [Sequence diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/1095-B%20Sequence%20Diagram.md)
 
 ### API endpoint descriptions
 - API endpoint: 1095-B PDF download endpoint
