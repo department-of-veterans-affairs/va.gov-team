@@ -25,15 +25,21 @@ jobs:
           path: vsp-infra-argocd
           
       - name: Capture application name
-        id: get_name
+        id: get_app_name
         run: |
           application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.appname')
           echo "::set-output name=application_name::$(echo ${application_name})"
+  
+      - name: Capture maintainer
+        id: get_maintainer
+        run: |
+          application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
+          echo "::set-output name=maintainer::$(echo ${maintainer})"
           
       - name: Check if application already exists
         id: exists
         run: |
-          application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ steps.get_name.outputs.application_name }}")' || true)
+          application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ steps.get_app_name.outputs.application_name }}")' || true)
           echo "::set-output name=application_exists::$(echo ${application_exists})"
         
       - name: If application exists
@@ -42,14 +48,14 @@ jobs:
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           comment: |
-            ${{ steps.get_name.outputs.application_name }} is already deployed to dev as defined
+            ${{ steps.get_app_name.outputs.application_name }} is already deployed to dev as defined
             in the `projects` here https://github.com/department-of-veterans-affairs/vsp-infra-argocd/blob/main/chart/values.yaml
         
       - name: If application doesnt exist
         if: steps.exists.outputs.application_exists == 'false'
         run: |
           cd vsp-infra-argocd/chart
-          yq -i '.projects += [{"name": "${{ steps.get_name.outputs.application_name }}", "environments": ["dev"]}]' values.yaml
+          yq -i '.projects += [{"name": "${{ steps.get_app_name.outputs.application_name }}", "environments": ["dev"]}]' values.yaml
           git add -A
           
       - name: Create Pull Request
@@ -60,7 +66,10 @@ jobs:
           path: vsp-infra-argocd
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           add-paths: chart/values.yaml
-          commit-message: "Adding application ${{ steps.get_name.outputs.application_name }} to ArgoCD appProjects dev"
+          commit-message: |
+            application: ${{ steps.get_app_name.outputs.application_name }}
+            maintainer: ${{ steps.get_maintainer.outputs.maintainer }}
+            environment: dev
           
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
@@ -68,5 +77,5 @@ jobs:
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           comment: |
-            The following PR has been created for onboarding ${{ steps.get_name.outputs.application_name }} to the dev environment
+            The following PR has been created for onboarding ${{ steps.get_app_name.outputs.application_name }} to the dev environment
             ${{ steps.cpr.outputs.pull-request-url }}
