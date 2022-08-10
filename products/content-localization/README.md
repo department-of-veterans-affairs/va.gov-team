@@ -49,6 +49,8 @@ Add the node urls to the translated urls list in [src/applications/static-pages/
 # Potential Issues
 Coordination between content and frontend teams is required when making changes to translated pages, such as publishing status or url. If not correctly coordinated, the UX will become degraded. Links to dead/unpublished pages, and missing translation links, are just some of the potential issues that could arise.
 
+Nodes that include entity references (other nested nodes) may not translate correctly, e.g. FAQs with Q&A Groups. Discovery to support that flow is tracked in https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10004.
+
 # Reources
 ## Translation Origin
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
