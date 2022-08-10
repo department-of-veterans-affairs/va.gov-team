@@ -1,6 +1,7 @@
 # VSA 10-10CG (Care Giver) Transition Hub
-
+**Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments or upcoming efforts.
 <br>
+
 
 >**Team transition document | March 2022**
 >
