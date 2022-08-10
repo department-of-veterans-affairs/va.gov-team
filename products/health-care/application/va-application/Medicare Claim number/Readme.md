@@ -112,9 +112,9 @@ Collab Cycle not applicable for this change
 ### Key Dates
 
 - May 2022: Design work finalized
-- ???? 2022: Development work finalized
-- ???? 2022: Complete QA?
-- ???? 2022: Launched to ???% of users
+- July 2022: Development work finalized
+- July 2022: Complete QA?
+- August 2022: Launched to 25% of users
 
 
 ---
