@@ -16,6 +16,8 @@
 
 - 988 Crisis line update
 - Cerner process update
+- sunset of COVID facility status
+  - will involve communications to editors
 - Any new editor issues
 
 ## August 2, 2022
