@@ -31,7 +31,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	> [If I paid the debt and the notification was still there] My anxiety level would go through the roof. It makes me want to drive to the VA and see what’s going on. Once I pay the debt, I would expect it to go away. - P5
 
-2. **Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.**
+**2. Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.**
 - Mostly true.
 - All veterans said they would rather manage their debt on VA.gov than through the mail and over the phone, and they would find the debt information on My VA useful.
 - The most important information about debts varied but had some repeated repsonses:
@@ -43,7 +43,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	> I would have liked to be notified with an email or notification for my debt. I only log on VA.gov a few times a year. An electronic form of communication including the letter. I check my email every day. - P12
 
-3. **Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.**
+**3. Veterans will be able to tell the difference between amounts that are due and amounts that have been paid to them on My VA.**
  - Definitely true.
  - 7 out of 8 veterans said it was clear that the outstanding debts amounts were due to the VA and the benefit payments amounts had been paid to them.
  - 2 out of 8 veterans expressed confusion about whether the debt amount was an amount that would be due every month or a total amount of all debt.
