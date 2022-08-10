@@ -33,7 +33,7 @@ jobs:
       - name: Capture maintainer
         id: get_maintainer
         run: |
-          application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
+          maintainer=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
           echo "::set-output name=maintainer::$(echo ${maintainer})"
           
       - name: Check if application already exists
