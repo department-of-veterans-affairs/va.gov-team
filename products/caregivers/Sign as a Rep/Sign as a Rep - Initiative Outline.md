@@ -88,7 +88,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
     - It will be a part of the online form
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
     - CSCs may reach out directly to Veterans who have representatives
-- [Link to Release Plan](#go-to-market-strategy)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Sign%20as%20a%20Rep/release-plan.md)
 
 ## Launch Dates
 - *Actual Launch Date* 
@@ -96,22 +96,21 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - 04/29/2022 (to 75% of applicants)
   - 07/07/2022 (to 100% of applicants)
 - *What date will you evaluate impact after launch?*
-  - 07/08/2022
+  - Impact is reviewed monthly.
 ---
 
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
-
----
-   
 ## Screenshots
 
 ### Before
+![image](https://user-images.githubusercontent.com/92328831/184006748-726e8e63-b3f1-4547-bd74-a58bd1bacc97.png)
+![image](https://user-images.githubusercontent.com/92328831/184006887-fba82b7e-7de5-41c5-8cf7-87e2bbb1e56a.png)
+
 
 ### After
+![image](https://user-images.githubusercontent.com/92328831/184007018-54e402ff-c19a-4808-bb43-c3061514cb8e.png)
+![image](https://user-images.githubusercontent.com/92328831/184007107-580d6208-5beb-4a2d-89b3-107b63f511ba.png)
+![image](https://user-images.githubusercontent.com/92328831/184007157-102f2778-07f3-4e4b-b0c9-5a423757f843.png)
+
 
 ---
 
@@ -119,10 +118,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: VSA Caregivers
-- GitHub Label: #vsa-caregivers, #vsa-hca
-- Slack channel: #vsa-caregivers
-- Product POCs: Ming, Alayna
+- Team Name: 10-10 Health Apps team
+- GitHub Label: #1010-team
+- Slack channel: #1010-health-apps
+- Product POCs: Patrick Bateman (PO), Heather Justice (PM), Mark Fallows (APM)
 - Stakeholders: Cari, Pam
 
 </details>
@@ -131,10 +130,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: Ming 
- - PM: Alayna 
- - Engineering: Kevin, Justin
- - Research/Design: Jonathan
+ - DEPO Lead: Lauren Alexanderson, Patrick Bateman 
+ - PM: Heather Justice, Mark Fallows
+ - Engineering: Lihan Li, Lisa Zapson, Matt Long
+ - Research/Design: Dene/ Gabaldon, Nick Osmanski
  
 </details>
 
