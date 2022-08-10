@@ -22,7 +22,7 @@ body:
       description: Please acknowledge that you have read the above instructions
       options:
         - label: |
-            I acknowledge that I have read the above instructions and understand the application name provided will be used to create various resources
+            I acknowledge that I have read the above instructions and understand the application name provided will be used to create various resources and that upon submission the @vsp-operations team will be alerted to this request
           required: true
   - type: input
     id: appname
