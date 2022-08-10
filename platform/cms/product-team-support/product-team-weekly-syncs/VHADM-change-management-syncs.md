@@ -12,6 +12,12 @@
  - Compliance: what happens when an editor doesn't make a change by a deadline?
  </details>
 
+## August 9, 2022
+
+- 988 Crisis line update
+- Cerner process update
+- Any new editor issues
+
 ## August 2, 2022
 
 - 988 Crisis line update
