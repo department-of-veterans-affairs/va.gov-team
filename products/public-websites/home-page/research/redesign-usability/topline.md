@@ -13,7 +13,7 @@ This topline summary is a high level, top-of-mind summary of trends observed in 
  - To jump start synthesis by quickly organizing high-level themes
 
 ## Introduction
-The purpose of this research was to get user feedback on the redesigned VA.gov home page and assess whether the design changes have improved the usability of the home page. We observed which areas of the home page they used and how well it supports Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks.
+The purpose of this research was to **get user feedback on the redesigned VA.gov home page** and assess whether the design changes have improved the usability of the home page. We observed which areas of the home page they used and how well it supported Veterans, VA beneficiaries, those acting on behalf of Veterans, and service members while completing important benefit-related tasks.
 
 ## Participants
 We talked to **19 people: 16 Veterans, 1 Caregiver of a Veteran, 2 family members of a Veteran** (one was also a Veteran and the other was also a Caregiver), and **2 service members**. 
@@ -24,26 +24,31 @@ We talked to **19 people: 16 Veterans, 1 Caregiver of a Veteran, 2 family member
 
 ## Preliminary Findings
 ### Navigation
-1. **Most participants browsed (clicking links) without using the Search box at all or searching only when browsing didn’t work**. There were 4 distinct **browse vs. search usage patterns** observed among the participants:
-     1. Many participants *browsed exclusively* to complete tasks.
-     2. Only our youngest participant (plus one young pilot participant) used *searching exclusively* to complete tasks. 
+1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. We observed distinct **browse *vs.* search usage patterns** among the participants:
+     1. More than a third of participants *browsed exclusively* and never used search to complete tasks.
+     2. Only our youngest participant *searched exclusively* to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.)
      3. Some participants who *started off browsing and later discovered the search box* were impressed with the results and then used search more. 
-     4. Other participants *tried searching, got irrelevant results, and gave up on search* so only browsed.
-5. Participants' browsing of the home page often didn't include the entire page but only certain parts of it. Some participants found one way to navigate that worked for them, and then they used it for most of the tasks. Here are **different browsing patterns** that were observed:
-     1. Only the benefits megamenu in the header
-     1. Common tasks and Other search tools
-     1. Benefit hubs
+     4. A few participants *tried searching, got irrelevant results, and gave up on search*, so only browsed after that.
+5. Participants' browsing of the home page often didn't include the entire page but only certain parts of it. Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
+     1. Only the VA Benefits and Health Care megamenu in the header
+     1. Only Common tasks and Other search tools
+     1. Only the benefit hubs
      1. A combination of some of the above but usually not all
 7. **Most participants (79%) scrolled all the way down** the home page to the footer.
 8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.
-9. Each of the top 20 tasks tested in this research were attempted by 6-10 participants. 
-     5. Nine (almost half) were completed successfully by ALL those who tried them, some more quickly than others.
-     6. Eight were completed successfully by 70-90% of those who tried them.
-     7. Three were completed successfully by just over half (56-60%) of those who tried them.
+9. Each of the top 20 tasks tested in this research were attempted by 6-10 participants with varying degrees of success.
+     1. **9 tasks (almost half) were completed successfully by ALL those who tried them**, some more quickly than others.
+     1. 8 were completed successfully by 70-90% of those who tried them.
+     1. 3 were completed successfully by just over half (56-60%) of those who tried them.
+1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected of a dropdown** since the first option was already expanded.  
 
 ### Content
-1. Many participants didn't realize that the Vantage news about Veteran homelessness was a news article and thought it was about much-needed VA help for homeless Veterans. Those who noticed the "All VA News" link thought it would be more about homelessness or had nothing to do with the homelessness benefit information.
-1. Almost half of the participants **didn't know what "Yellow Ribbon" means**, which was listed under the heading "Other search tools".
+7. The Vantage box entitled "Updates on Veteran homelessness" was interpreted in a number of different ways:
+     3. No participants said anything about it while doing tasks. 1 participant said they thought it was a banner ad and ignored it.
+     1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article** and thought it was about much-needed VA help for homeless Veterans. It was a particularly emotional issue for one Veteran, who got teary while discussing her impressions.
+     1. Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there because it had nothing to do with the homelessness benefit information.
+     2. When asked what other types of content should be shown here, some participants said they wanted information about recent legislation enacted, changes in VA benefits or procedures, or specific VA benefits (e.g., disability/claims, education, housing loans). 
+3. Almost half of the participants **didn't know what "Yellow Ribbon" means**, which was listed under the heading "Other search tools".
 
 
 ## Next Steps
