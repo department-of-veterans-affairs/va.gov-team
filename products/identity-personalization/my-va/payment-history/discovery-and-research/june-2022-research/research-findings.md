@@ -34,7 +34,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 **2. Veterans will find the debt information useful and will be able to determine a path to resolve debts that are due from My VA.**
 - Mostly true.
 - All veterans said they would rather manage their debt on VA.gov than through the mail and over the phone, and they would find the debt information on My VA useful.
-- The most important information about debts varied but had some repeated repsonses:
+- The most important information about debts varied but had some repeated responses:
 	- How they accrued the debt (4)
 	- Payment options (3)
 	- Dollar amount due (2)
@@ -79,7 +79,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **2. Do the titles of Outstanding Debts and Benefit Payments sections accurately convey the content?**
 - Yes.
-- Only 1 out of 8 veterans was confused by one of the titles and thought benefit payments might be something that will be paid in the future.
+- Only 1 out of 8 veterans was confused by one of the titles and thought benefit payments might be something that will be paid to them in the future.
 - All of the others (7 out of 8) defined the sections correctly without seeing any of the content.
 
 **3. Are the details displayed the most important pieces of information for debts?**
@@ -93,23 +93,23 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **4. Is the logical next step for debts effectively presented to the veteran and do they know how to take action on it?**
 - Yes.
-- 8 out of 8 veterans knew where they could go from My VA to take the next step, whether they said they would want to find out more information, seek payment options, verify accuracy, or request help.
-- One of the colorblind users said it was helpful to have the Manage your VA debt link underlined so that he could tell he could click on it since the blue color wasn't totally clear to him.
+- All veterans knew where they could go from My VA to take the next step, whether they said they would want to find out more information, seek payment options, verify accuracy, or request help.
+- One of the colorblind users said it was helpful to have the Manage your VA debt link underlined so that he could tell he could click on it since the blue color did not look blue to him.
 
 **5. Are the most important pieces of payment information being presented on My VA?**
 - Yes.
 - Veterans said the payment section was "straightforward" and they did not have any confusion or questions about it.
 - The only piece of information we are omitting from the current design is the last 4 digits of the direct deposit account.
-	- 8 out of 8 veterans correctly identified where they could go to verify the account their payment was deposited to, but none expressed concern about that information being absent on My VA.
+	- All veterans correctly identified where they could go to verify the account their payment was deposited to, but none expressed concern about that information being absent on My VA.
 
 
 ### Additional findings
 **1. Veterans prefer to see more detailed information about debts on My VA rather than a total sum of all money owed to VA.**
-- 8 out of 8 participants said they preferred to see the version of debts where we show separate amounts for debts and copays, rather than the version with one total amount of all money owed to VA.
+- All participants said they preferred to see the version of debts where we show separate amounts for debts and copays, rather than the version with one total amount of all money owed to VA.
 
 	> If the debts aren’t medical, I think they should be separate. If it was an education debt, it should not be combined with your medical. You might budget for them differently. - P4
 
-	> A debt is different than a co-pay bill. They would be different to manage. They are different expenses. - P10
+	> A debt is different than a copay bill. They would be different to manage. They are different expenses. - P10
 
 **2. Red and green colors did make it clear what was due and what was paid to users, but we can't yet determine if they are necessary for scannability.**
 - Several users commented on the colors making it clear what money was due and what was paid to them, but those same users correctly identified this distinction by the section titles alone before the content was revealed, and some commented on the parantheses and plus sign also making the difference between the two clear.
@@ -121,7 +121,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **3. Veterans who have a preference on observers would like to be asked the day of the study if it’s okay to have them join. Most participants did not care either way and were comfortable.**
 - We asked participants before letting observers enter the Zoom meeting. Once observers entered, they had their cameras on and names displayed, and waved and/or said a quick hello before shutting their cameras off to observe the session.
-- 2 out of 8 users said they would prefer this approach over having observers in the room already wehn the session started. The rest said they did not care either way.
+- 2 out of 8 users said they would prefer this approach over having observers in the room already when the session started. The rest said they didn't care either way.
 
 	> People like me with mental health stuff, the most frustrating thing about PTSD and stuff is that we never know what our mood is gonna be like. It’s really frustrating because there’s nothing we can really do about it. So…I could be totally fine about it one day and I could be totally offended the next day. It really depends and I think to keep it safe for everyone, you guys and the veteran, to maybe always ask first. - P3
 
