@@ -20,7 +20,7 @@ We talked to **19 people: 16 Veterans, 1 Caregiver of a Veteran, 2 family member
 - 17 had experience with at least 2 VA benefits.
 - 3 had experience with VA benefits that didn't include VA health care.
 - 1 had experience with only one VA benefit, which was education (a service member).
-- 1 had experience with NO VA benefits (the other service member).
+- 1 had experience with *no* VA benefits (the other service member).
 
 ## Preliminary Findings
 ### Navigation
@@ -38,16 +38,16 @@ We talked to **19 people: 16 Veterans, 1 Caregiver of a Veteran, 2 family member
 8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.
 9. Each of the top 20 tasks tested in this research were attempted by 6-10 participants with varying degrees of success.
      1. **9 tasks (almost half) were completed successfully by ALL those who tried them**, some more quickly than others.
-     1. 8 were completed successfully by 70-90% of those who tried them.
-     1. 3 were completed successfully by just over half (56-60%) of those who tried them.
-1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected of a dropdown** since the first option was already expanded.  
+     1. 7 tasks were completed successfully by 70-90% of those who tried them.
+     1. 4 tasks were completed successfully by only half (50-60%) of those who tried them. 
+1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option or one last opened.  
 
 ### Content
-7. The Vantage box entitled "Updates on Veteran homelessness" was interpreted in a number of different ways:
-     3. No participants said anything about it while doing tasks. 1 participant said they thought it was a banner ad and ignored it.
-     1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article** and thought it was about much-needed VA help for homeless Veterans. It was a particularly emotional issue for one Veteran, who got teary while discussing her impressions.
+7. The Vantage box entitled "Updates on Veteran homelessness" was interpreted in different ways by participants:
+     1. No one said anything about it while doing tasks. During the post-task interview, one participant said they thought it was a banner ad and so ignored it.
+     1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article** and thought it was about much-needed VA help for homeless Veterans. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts about it.
      1. Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there because it had nothing to do with the homelessness benefit information.
-     2. When asked what other types of content should be shown here, some participants said they wanted information about recent legislation enacted, changes in VA benefits or procedures, or specific VA benefits (e.g., disability/claims, education, housing loans). 
+     2. When asked what other types of content should be shown here, several participants said they wanted information about recent legislation enacted, changes in VA benefits or procedures, or specific VA benefits (e.g., disability/claims, education, housing loans). 
 3. Almost half of the participants **didn't know what "Yellow Ribbon" means**, which was listed under the heading "Other search tools".
 
 
