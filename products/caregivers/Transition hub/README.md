@@ -40,7 +40,7 @@ Team vision: A seamless online experience that allows Veterans and Caregivers to
 **10-10CG Application for the Program of Comprehensive Assistance for Family Caregivers**
 - [Staging link](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product/product-outline.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - [Product Guide/Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/Online-10-10CG-Product-Guide-Updated-05.26.2021.docx)
 
 
