@@ -35,14 +35,15 @@ This research will help inform placement of entry points into the "get benefits"
 
 ### Research questions
 
-Where do users go on the VA.gov home page when asked to complete a task related to exploring and applying for benefits (i.e. "get benefits")?
-Where do users go on the VA.gov home page when asked to complete a task related to managing their health care and benefits (i.e. "manage benefits")?
-Does a persistent "My health" option in the header impact the findability of health care related content and tools positively or negatively?
-Do Veterans who are not enrolled in health care navigate differently than Veterans who are enrolled in health care?
-Do family members and caregivers navigate differently than Veterans?
+- Where do users go on the VA.gov home page when asked to complete a task related to exploring and applying for benefits (i.e. "get benefits")?
+- Where do users go on the VA.gov home page when asked to complete a task related to managing their health care and benefits (i.e. "manage benefits")?
+- Does a persistent "My health" option in the header impact the findability of health care related content and tools positively or negatively?
+- Do Veterans who are not enrolled in health care navigate differently than Veterans who are enrolled in health care?
+- Do family members and caregivers navigate differently than Veterans?
 
 
 ### Hypothesis
+
 Displaying the "My health" link in the header regardless of authentication status will primarily attract Veterans who are already enrolled in health care due to familiarity with My HealtheVet, and Veterans who are not enrolled in health care, as well as family members and caregivers, will not attempt to navigate to health care content related to "get benefits" via that link. 
 
 ## Method	
