@@ -85,23 +85,26 @@ Did you know that you could receive Mental Health services from the VA, even wit
 5. You want to find out the costs for VA health care services
 Was the answer where you expected it to be or would there be a better place to put this information?
 
-6. You want to see your VA health records to a non-VA provider
+6. You just received your new disability rating. You want to find out how this could affect how much you would have to pay for VA health care.
+On a scale of 1-10, how would you rate the difficulty of finding this information? Why?
+
+7. You want to see your VA health records to a non-VA provider
 Was the answer where you expected it to be or would there be a better place to put this information?
 
-7. You want to check how much you owe for your last medical visit and pay your bill
+8. You want to check how much you owe for your last medical visit and pay your bill
 Was the answer where you expected it to be or would there be a better place to put this information?
 
-8. You need to request a refill for a prescription you get from VA by mail
+9. You need to request a refill for a prescription you get from VA by mail
 You seem to be moving fast on this one - why?
 
-9. You have a question for your doctor and want to communicate with them online
+10. You have a question for your doctor and want to communicate with them online
 You seem to be moving fast on this one - why?
 
-10. You want to know if VA will pay for you to get health care outside of the VA
+11. You want to know if VA will pay for you to get health care outside of the VA
 Was the answer where you expected it to be or would there be a better place to put this information
 On a scale of 1-10, how would you rate the difficulty of finding this information? Why?
 
-11. You drove to your VA primary care appointment and want to get paid back for the cost of gas
+12. You drove to your VA primary care appointment and want to get paid back for the cost of gas
 Before today, were you aware that you could get travel pay?
 Was the answer where you expected it to be or would there be a better place to put this information?
 
