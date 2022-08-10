@@ -2,7 +2,7 @@
 This document contains tidbits, odds & ends, and information about the 10-10EZ form, development, testing and anything else that isn't captured in other documents.
 
 ### Abbreviations
-- ES = Enrollment System
+- ES = Enrollment System/Service
 - EE/E&E = Eligibility and Enrollment
 - HEC = Heathcare Enrollment Services
 - HCA - Health Care Application (AKA 10-10EZ)
