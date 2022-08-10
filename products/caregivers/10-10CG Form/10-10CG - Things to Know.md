@@ -1,5 +1,5 @@
 # Things to know about the 10-10CG
-This document contains tidbits, odds & ends, and information about the 10-10EZ form, development, testing and anything else that isn't captured in other documents.
+This document contains tidbits, odds & ends, and information about the 10-10CG form, development, testing and anything else that isn't captured in other documents.
 
 ### Abbreviations
 - CG = Caregiver
