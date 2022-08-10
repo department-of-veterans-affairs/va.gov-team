@@ -2,32 +2,31 @@
 
 ## 8/10/2022 
 
-#### Planned Releases (TENTATIVE)
+#### Planned Releases 
 - 8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
  
-#### Discovery Sprint Goals (TENTATIVE)
+#### Discovery Sprint Goals 
+- [July Research]()
+    - Finish study report
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Test prototypes with users
-    - Synthesize research
-    - Create study report
 - [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
     - Team meeting to go through applications
-- [CIE Analytics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42190)
-    - Research metrics by modality
+- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
+    - Create research plan
 
-#### Design & Content Sprint Goals (TENTATIVE)
+#### Design & Content Sprint Goals 
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Finish prototypes for language toggle 
 - [CIE Tech Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45338)
     - Change resolution on all Sketch files
-- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - Collaborate with VAOS
 - [Phone Numbers in Pre-check-in's "Need Help" section](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/34527)
     - Verify that this functionality is already in the application and document in the ticket
 - [Include Time Zone with Appointment Times in Check-in & Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39390)
     - Create final wireframes (or verify that they are done) & attach to the ticket
+- Add scenario to user flow documentation
  
-#### Engineering Sprint Goals (TENTATIVE)
+#### Engineering Sprint Goals 
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Implement new [feature toggle handler](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45491) 
     - Test & release on 8/23
