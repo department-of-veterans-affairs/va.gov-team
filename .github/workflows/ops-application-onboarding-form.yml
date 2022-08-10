@@ -33,8 +33,8 @@ jobs:
       - name: Capture maintainer
         id: get_maintainer
         run: |
-          maintainer=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
-          echo "::set-output name=maintainer::$(echo ${maintainer})"
+          maintainer_github_user=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
+          echo "::set-output name=maintainer_github_user::$(echo ${maintainer_github_user})"
           
       - name: Check if application already exists
         id: exists
@@ -67,10 +67,10 @@ jobs:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           add-paths: chart/values.yaml
           commit-message: |
-            action: onboarding
             application: ${{ steps.get_app_name.outputs.application_name }}
-            maintainer: ${{ steps.get_maintainer.outputs.maintainer }}
+            maintainer: ${{ steps.get_maintainer.outputs.maintainer_github_user }}
             environment: dev
+            task: onboarding
           title: Onboarding ${{ steps.get_app_name.outputs.application_name }} to the dev environment
           body: Automated PR triggered by issue ${{ github.event.issue.url }} for onboarding ${{ steps.get_app_name.outputs.application_name }} to dev
           
