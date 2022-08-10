@@ -67,10 +67,7 @@ jobs:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           add-paths: chart/values.yaml
           commit-message: |
-            application: ${{ steps.get_app_name.outputs.application_name }}
-            maintainer: ${{ steps.get_maintainer.outputs.maintainer_github_user }}
-            environment: dev
-            task: onboarding
+            {"application": "${{ steps.get_app_name.outputs.application_name }}", "maintainer": "${{ steps.get_maintainer.outputs.maintainer_github_user }}", "environment": "dev", "task": "onboarding"}
           title: Onboarding ${{ steps.get_app_name.outputs.application_name }} to the dev environment
           body: Automated PR triggered by issue ${{ github.event.issue.url }} for onboarding ${{ steps.get_app_name.outputs.application_name }} to dev
           
