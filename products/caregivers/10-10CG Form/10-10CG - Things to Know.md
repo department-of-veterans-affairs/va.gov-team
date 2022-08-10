@@ -15,4 +15,5 @@ This document contains tidbits, odds & ends, and information about the 10-10CG f
 
 
 ### Miscellaneous
-- ...
+- 8/10/22 Sign as a Representative language was worked on for most of 2021 to include references to POAs with medical stipulations being acceptable, and general POAs are not. About 30% of documents uploaded for this purpose were acceptable, the language update in February saw an increase to 60% acceptable documents.  Since February, we have had phased releases, increasing the population over several months, reaching 100% on 7/6/222.  With this population increase, we are also seeing a trend of unacceptable documents increasing. On 8/5/22, the CG Stakeholder team informed us that they have been given approvals to accept general POAs for Veterans without the medical stipulation.  We will remove the medical language from the Sign as a Rep pages, and anticipate a rise in acceptable documents being received.  
+     - Note: We also anticipate still receiving incomplete documents, and others such as Driver licenses, Marriage certificates, images, and random miscellaneous documents that do not pertain to Veteran representation.  We expect this volume to be lower.
