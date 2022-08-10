@@ -1,7 +1,7 @@
-*8/4/2022 - Team Project Kickoff* 
+**8/4/2022 - Team Project Kickoff** 
 - Reviewed Income Verification Calculator and VHA Decision tree logic files with Jill Anderson (DMC)
 
-*8/10/2022 - Technical Discovery*
+**8/10/2022 - Technical Discovery**
 - Purpose: sourcing GMT data from HUD website with Joshua Faulkner
 - Outcome: 
     - Scott/Denise will reach out to Jonathan Carver to recieve annual SDS updates
