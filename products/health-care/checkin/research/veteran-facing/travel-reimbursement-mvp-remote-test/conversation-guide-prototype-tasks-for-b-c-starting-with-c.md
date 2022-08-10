@@ -76,6 +76,8 @@ Please tap the screen anywhere. And, as you tap the screen you will see a menu a
 
 Now, I have sent you a message in the Zoom chat that contains a link to the first prototype that I'd like for you to review. Let's go ahead and find that link. So, please tap anywhere on the white part of the screen. And, as you tap the screen you will see the menu appear again at the bottom of the screen. In that menu, tap "More," which is furthest on the right. Once you've tapped "More," you should see a list of options. Please tap the first option, which is "Chat." Please tap on the link to open it. Perfect. 
 
+Now, you should see my video in a window that’s overtop of your screen. If you could, please swipe that window towards the right of your screen so it is hidden out of view. That’s perfect. 
+
 Finally, in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
 
 ### Exit Strategy
