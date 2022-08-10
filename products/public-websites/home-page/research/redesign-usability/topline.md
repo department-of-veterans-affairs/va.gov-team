@@ -41,7 +41,7 @@ We talked to **19 people: 16 Veterans, 1 Caregiver of a Veteran, 2 family member
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
      1. 4 tasks were completed successfully by only half (50-60%) of those who tried them. 
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos, and "Sign in" in the header). 
-     1. One quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so that they'd see customized links and wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
+     1. One quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so that they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
 3. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option or one last opened.  
 
 ### Content
