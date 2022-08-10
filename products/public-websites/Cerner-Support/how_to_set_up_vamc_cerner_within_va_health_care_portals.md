@@ -184,9 +184,16 @@ Post in #vagov-cerner-launch-coordination & @ mention Lauren Alexanderson and Da
 Reach out to relevant stakeholders if you need any help/advice for any questions that may come up.
 
 #### **Task 3**: Trigger Change Management email
-After launch, a Change Management email should be sent to the editors for the cutover center. Copy is documented [in this issue comment](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9338#issuecomment-1204434889).
+After launch, we must notify VA-side contacts to send a Change Management email to editors at the cutover center. Copy is documented [in this issue comment](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9338#issuecomment-1204434889).
 
-"From" address for this email (e.g. who we notify to send it) is TBD. Meantime, contact Denise Eisner.
+- Email to: Jeffrey.Grandon@va.gov and Steve.Tokar2@va.gov, cc. denise.eisner@civicactions.com
+- Subject: Cerner facility cutover: send editor change management email
+- Body:
+> Hi,
+> `VAMC System name` was moved to Cerner on `cutover date`. Please inform the VA medical center internet website editor(s) at that location of the change with the standard reply we developed with your team (attached).
+- Attachment:  [2022 Cerner cutover email notification_st_cmsteam.docx](https://github.com/department-of-veterans-affairs/va.gov-cms/files/9300517/2022.Cerner.cutover.email.notification_st_cmsteam.docx)
+
+Issue reference: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9338#issuecomment-1204434889
 
 
 ## Identifying VAMC System
