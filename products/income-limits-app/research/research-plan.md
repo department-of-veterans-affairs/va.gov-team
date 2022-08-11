@@ -81,15 +81,16 @@ Interviews will take place remotely to ensure participation by Veterans from a d
 Intended audience is Veterans and recruitment is through Perigean. 
 
 ### Recruitment criteria
-12 total Veterans  (within 2 cohorts of 6 participants each) to be recruited as participants for this study.
+18 total Veterans  (within 3 cohorts of 6 participants each) to be recruited as participants for this study.
 
 **Primary criteria (must-haves)**
 Seeking two cohorts of participants
 Cohort 1: have recently *(within the past 3 months)* applied for VA health care benefits (6 participants)
 Cohort 2: are actively considering applying for VA health care benefits (6 participants)
 Cohort 2a: if cohort 2 is unsourceable, then we can swap in some from what I'm calling cohort 2a
+Cohort 3: have recently *(within the past 3 months)* experienced a change that may result in a change of eligibility (10-10 EZ)
 
-For both cohorts, seeking a diversity of responses to question: How often do you go online to access VA benefits and services?
+For all cohorts, seeking a diversity of responses to question: How often do you go online to access VA benefits and services?
 - At least 20% participants: Never
 - At least 20% participants: Once per year or less, or once per quarter
 - At least 20% participants: Once per month, A few times per month, Once a week, A few times per week, or About once a day
@@ -101,6 +102,17 @@ For cohort 1, seeking a diversity of responses to question: How did you recently
 - At least 1 participants: With the help of a VSO or With the help of a transition service officer at Department of Defense
 - At least 1 participants: With the help of a fellow veteran
 - At least 1 participants: Other
+
+For cohort 1, seeking a response of "yes" to question: Are you currently receiving VA health care benefits?
+
+For cohort 1, seeking a response of "within the past month" OR "within the past 3 months" to question: Which of the following best describes when you (most recently) applied for VA health care benefits?
+- Within the past month
+- Within the past 3 months
+- Within the past 6 months
+- Within the past year
+- Within the past 5 years
+- Within the past 10 years
+- More than 10 years ago
 
 For cohort 2, seeking a response of "no" to question: Are you currently receiving VA health care benefits?
 
@@ -126,6 +138,13 @@ For cohort 2a, seeking a response of "health care benefits" to question: Which o
 - Other
 - I don't know
 
+For cohort 3, seeking a response of one or more answers "a change in..." question: Since receiving VA health care benefits, have you experienced any of the following?
+- A change in number of dependents
+- A change in annual income
+- A change in geographic area
+- Other: _________________ (??)
+- None of these apply
+
 **Secondary criteria (nice-to-haves)**
 
 [Maximum variation sampling (MVS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
@@ -145,14 +164,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: August 15 - August 26, 2022
+* Planned dates of research: ________
 
 ### Length of sessions
 * Session length: up to 1 hour
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 
 ### Moderator Availability
-7AM - 8PM ET, August 15 - August 26, 2022
+7AM - 8PM ET, M-F
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
