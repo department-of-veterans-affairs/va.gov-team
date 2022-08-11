@@ -18,13 +18,12 @@
 #### Design & Content Sprint Goals 
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
     - Finish prototypes for language toggle 
-- [CIE Tech Debt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45338)
-    - Change resolution on all Sketch files
 - [Phone Numbers in Pre-check-in's "Need Help" section](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/34527)
     - Verify that this functionality is already in the application and document in the ticket
 - [Include Time Zone with Appointment Times in Check-in & Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39390)
     - Create final wireframes (or verify that they are done) & attach to the ticket
-- Add scenario to user flow documentation
+- [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927)
+- [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489)
  
 #### Engineering Sprint Goals 
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
