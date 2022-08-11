@@ -34,6 +34,7 @@
 
 * Facility names change often
 * Veterans may not know the name of the larger VA Medical Facility 
+* Applicants may not know the name of a facilty with Caregiver services
 * The layout of the page has been confusing in user research
 
  
