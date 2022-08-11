@@ -32,21 +32,6 @@ body:
       - 4, Minor. Consider fixing or exploring in 2-4 sprints post-launch.
   validations:
     required: true
-- type: checkboxes
-  id: type
-  attributes:
-    label: Type of issue
-    description: You may select more than one.
-    options:
-      - label: Screenreader
-      - label: Keyboard
-      - label: Focus
-      - label: Headings
-      - label: Color
-      - label: Zoom
-      - label: Semantics
-      - label: Axe-core
-      - label: Something else
 - type: textarea
   id: details
   attributes:
@@ -93,3 +78,18 @@ body:
     render: bash
   validations:
     required: true
+ - type: checkboxes
+  id: type
+  attributes:
+    label: Type of issue
+    description: You may select more than one.
+    options:
+      - label: Screenreader
+      - label: Keyboard
+      - label: Focus
+      - label: Headings
+      - label: Color
+      - label: Zoom
+      - label: Semantics
+      - label: Axe-core
+      - label: Something else
