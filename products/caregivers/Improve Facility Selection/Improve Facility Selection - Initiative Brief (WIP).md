@@ -6,15 +6,15 @@
 ---
 
 ## Overview
-* We want to increase the confidence with which Veterans select a facility on the 10-10CG, since it's key to getting their application routed appropriately.
+* We want to increase the confidence with which Veterans select a facility on the 10-10CG, since it's key to getting their application routed appropriately.  
 
 **Request from CG Team:**
 
 >- Current
 >     - Provide VA.gov a limited list of VAMCs for Veterans to select
 >          - Filtered to where CSC is and does not allow a Veteran to fully answer the questions
->               - Name of VA medical center or clinic where you receive, or plan to receive, health care services
->               - Name of facility where you last received medical treatment
+>               - **Name of VA medical center or clinic where you receive, or plan to receive, health care services**
+>               - **Name of facility where you last received medical treatment**
 >     - Worked with Lighthouse team to add “CSC” present toggle in the API
 >- PI 7
 >     - Connect Lighthouse API to updated internal CARMA VAMC info
