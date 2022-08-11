@@ -1,10 +1,10 @@
 # VBA Research Roadmap
 
-1. [Business Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#1---business-research)
-2. [Editor Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#2---editor-research)
-3. [Veteran Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#3---veteran-research)
-4. [Content Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#4---content-research)
-5. [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#5---usability-research)
+1. [Business Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/research-roadmap.md#1---business-research)
+2. [Editor Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/research-roadmap.md#2---editor-research)
+3. [Veteran Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/research-roadmap.md#3---veteran-research)
+4. [Content Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/research-roadmap.md#4---content-research)
+5. [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/design/research-roadmap.md#5---usability-research)
 
 ## 1 - Business Research
 
