@@ -80,7 +80,7 @@ body:
     render: bash
 - type: markdown
   attributes:
-    value: [Passwords for test users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/a11y-audit.md#:~:text=user%2B%3F%3F%40gmail.com-,Passwords,-Footer)
+    value: "[Passwords for test users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/a11y-audit.md#:~:text=user%2B%3F%3F%40gmail.com-,Passwords,-Footer)"
       
       
       
