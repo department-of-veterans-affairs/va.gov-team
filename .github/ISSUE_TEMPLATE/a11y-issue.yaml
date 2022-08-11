@@ -5,16 +5,20 @@ labels: ["508/Accessibility", "508-defect-x"]
 assignees: []
 body:
 - type: markdown
-  value: "## Feedback framework"
+  attributes:
+    value: "## Feedback framework"
 - type: markdown
-  value: |
-    - **❗️ Must** for if the feedback must be applied 
-    - **⚠️ Should** if the feedback is best practice 
-    - **✔️ Consider** for suggestions/enhancements 
+  attributes:
+    value: |
+      - **❗️ Must** for if the feedback must be applied 
+      - **⚠️ Should** if the feedback is best practice 
+      - **✔️ Consider** for suggestions/enhancements 
 - type: markdown
-  value: "## Definition of done"
+  attributes:
+    value: "## Definition of done"
 - type: markdown
-  value: |
-    1. Review and acknowledge feedback.
-    1. Fix and/or document decisions made.
-    1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix."
+  attributes:
+    value: |
+      1. Review and acknowledge feedback.
+      1. Fix and/or document decisions made.
+      1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix."
