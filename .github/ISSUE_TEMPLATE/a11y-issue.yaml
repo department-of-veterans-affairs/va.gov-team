@@ -24,6 +24,7 @@ body:
   id: severity
   attributes:
     label: Severity level
+    description: "Don't forget to add a corresponding label to this ticket once it's created"
     options:
       - 0, Launchblocker. Potentially Harmful. Must be fixed immediately.
       - 1, Launchblocker. Critical. Must be fixed before launch.
@@ -40,8 +41,6 @@ body:
     value: |
       ...
     render: bash
-  validations:
-    required: true
 - type: textarea
   id: repro
   attributes:
@@ -53,8 +52,6 @@ body:
       3.
       ...
     render: bash
-  validations:
-    required: true
 - type: textarea
   id: solution
   attributes:
@@ -63,8 +60,6 @@ body:
     value: |
       ...
     render: bash
-  validations:
-    required: true
 - type: textarea
   id: references
   attributes:
@@ -76,8 +71,6 @@ body:
       3.
       ...
     render: bash
-  validations:
-    required: true
 - type: checkboxes
   id: type
   attributes:
