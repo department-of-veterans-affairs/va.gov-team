@@ -155,13 +155,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Length of sessions
 * Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)  
+* Buffer time between sessions: (60-90 minutes between sessions is minimum recommended for trauma-informed research and we recommend scheduling as much time as the researcher needs between sessions to recover, debrief, and decompress.)
+* Maximum Sessions per day: (2-3 sessions per day is the max recommended for trauma-informed research. This could be even lower, 1 session per day or one every other day to ensure the moderator and note-taker have all the needed time between sessions to recover, debrief, and decompress.)
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 Please request enough dates and time slots for the number of requested participants (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
 
-Request that Perigean schedule the sessions with buffer time to enable the researcher to debrief and decompress before the next session. For trauma-informed research, we recommend scheduling as much time as the researcher needs between sessions to recover, even if it means conducting only one session per day (or every other day). As a minimum, we recommend *at least 60-90 minutes buffer time between sessions, and a maximum of 2-3 sessions per day.*
+Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
