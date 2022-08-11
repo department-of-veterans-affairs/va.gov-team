@@ -80,7 +80,7 @@ Before I send you the link to the prototype in the chat, imagine that you are us
 [Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
 
 
-## Section 2: All Tab - 5 minutes 
+## Section 2: "All" Tab - 5 minutes 
 
 Before we select anything or navigate anywhere else I’d like to pause on this screen and have you look around and speak to what you’re seeing and thinking. Feel free to scroll up and down, but don’t click on anything just yet. As you go, please talk out loud. It's really helpful to hear your thoughts on how things are coming across to you, or if things don't make sense.
 
@@ -109,7 +109,7 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 * Are there any pain points?
 
 
-## Section 4: Processing Tab- 10 minutes
+## Section 4: "Processing" Tab - 10 minutes
 
 ### Task
 
@@ -121,12 +121,13 @@ Before we select anything or navigate anywhere else I’d like to pause on this 
 * Do Veterans understand that the processing tab contains their submitted and in process prescriptions?
 
 
-## Section 5: Shipped Tab- 10 minutes
+## Section 5: "Shipped Tab" - 10 minutes
 
 ### Task
 
 * If you wanted to see tracked prescriptions (prescriptions that are on the way to you), how would you go about doing that?
 * If you wanted to view tracking details for your Motrin prescription, how would you go about doing that?
+* If this list containes refills that are ready for shipping, refills that have shipped, and refills that were recently delivered to you what would you call it?
 
 ### Things to watch for
 
