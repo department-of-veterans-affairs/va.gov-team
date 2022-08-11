@@ -1,6 +1,6 @@
 # Conversation Guide 
 
-[x board for findings]()
+[Mural board for findings](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1660067365161/f540e223f49ec58a79119cd454e42b4fa963cd60?sender=f1bf3dc1-dc5f-4018-b62f-b09f8e547758)
 
 
 ## Intro Questions - 15 minutes
