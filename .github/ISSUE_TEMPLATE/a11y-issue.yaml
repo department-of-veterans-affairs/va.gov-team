@@ -1,6 +1,6 @@
 name: "Accessibility Issue Ticket"
 description: "Create an accessibility issue ticket"
-title: "508-defect-[x]:"
+title: "508-defect-x:"
 labels: ["508/Accessibility"]
 assignees: []
 body:
