@@ -3,7 +3,7 @@
 - [ ] Make sure the notification has been triggered for the user by VA Notify
 
 ## Starting the session
-- *Ask any observers to turn their cameras off. Since this is internal, it's OK to let them in right away with or without names displayed.*
+- *Keep observers in the waiting room until the participant is asked if it's OK to let them in.*
 - *In the Attendees section, make sure everyone except the participant is on mute.*
 - *Check your screensharing setup and share permissions for participants.*
 - *When the participant is ready, begin the session with the following intro.*
@@ -14,6 +14,7 @@ Thanks for joining us today! I'm Angela, and today we're going to talk about the
 
 Before we start, a few things I want to mention:
 
+- **Are you okay with me letting a few observers in from the waiting room?** 
 - **This entire session will be quick, it should take 15-20 minutes.** 
 - **As always, we want to hear your honest opinions.** 
 - **Please go slower than you normally would and if you could talk aloud about what you are doing, that would be great.** 
