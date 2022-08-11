@@ -2,7 +2,7 @@
 name: Accessibility Audit
 about: Create an epic for an a11y audit outside of the collaboration cycle
 title: ''
-labels: Epic, 508/accessibility
+labels: 508/accessibility, Epic
 assignees: ''
 
 ---
@@ -42,11 +42,12 @@ Josh Kim @joshkimux
  - [ ] Keyboard navigation 
 
 ### Screenreader 
- - [ ] IE11 + JAWS
- - [ ] Chrome + JAWS
- - [ ] NVDA + Firefox
- - [ ] Safari + VoiceOver
- - [ ] iOS Safari + VoiceOver
+<!-- Feel free to edit this to what you have or are comfortable with -->
+ - [ ] Firefox and NVDA
+ - [ ] Edge and JAWS
+ - [ ] iOS Safari and VoiceOver (Mobile)
+ - [ ] Safari and Voiceover (Desktop)
+ - [ ] Chrome and Talkback
 
 ## Staging URL and Credentials
 - [Staging link](Insert link here)
