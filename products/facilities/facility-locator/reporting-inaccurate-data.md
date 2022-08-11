@@ -60,5 +60,5 @@ Vet Centers | N/A
 Vet Center Outstations | N/A
 Vet Centers Community Access Point  | N/A
 NCA Cemeteries | N/A
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
+VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	N/A
 Community care providers and pharmacies (usually non-VA facilities)	| N/A
