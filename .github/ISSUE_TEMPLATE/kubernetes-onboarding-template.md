@@ -68,13 +68,15 @@ _Requesting team; Infrastructure Team can assist_
 - [ ] **Automation to push the app's container to ECR with a semantic version number** | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/mirror-images.yaml)    
 Note: Don't use default "latest" tag. The release system uses modified container image tags to synchronize automation. 
 _Requesting team; Infrastructure Team can assist_  
-- [ ] **Kubernetes manifest in YAML, Jsonnet, or Helm Chart** in `vsp-infra-application-manifests` | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps) | [Docs](https://argo-cd.readthedocs.io/en/stable/)  
-Note: must be compatible with ArgoCD  
+- [ ] **Kubernetes manifest using Helm charts** in `vsp-infra-application-manifests` | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vsp-amt/grafana) | [Argo CD Docs](https://argo-cd.readthedocs.io/en/stable/)  
+Note: Manifests _can_ be specified in several formats, however, we are standardizing around [Helm charts](https://helm.sh/docs/topics/charts/).  
 _Requesting team; Infrastructure Team can assist_  
 - [ ] **Kubernetes detect and update application** in `vsp-infra-applications-manifests` | [Environments](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vsp-operations/argocd-apps)  
 _Requesting team; Infrastructure Team can assist_  
 - [ ] **Automation to update the Kubernetes manifest** when a new version of the app's container is pushed to ECR | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/update-manifests.yaml)  
 _Requesting team; Infrastructure Team can assist_
+- [ ] **Argo CD project permissions defined** Add project (or include appropriate namespaces and clusters to existing project) https://github.com/department-of-veterans-affairs/vsp-infra-argocd/tree/main/chart/templates
+_Infrastructure Team_
 
 ### Application secrets and parameters
 - [ ] **AWS SSM Parameter Store path created for your team or app,** ie `/dsva-vagov/team-name/` | [Request here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=)  
