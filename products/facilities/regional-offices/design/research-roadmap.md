@@ -32,7 +32,9 @@
   - Leadership list?
   - Veteran Service Organizations?
 - 🛑  Which Regional Offices are going to be the MVP locations?
-  - Change management agent (editor) and back-up
+  - Change Management Agent (editor) and back-up
+    - Need to validate CMA is the right role for the task
+    - Need to validate CMA sevres this role at most VBA locations
   - Teams’ responsibilities beyond the website
   - Priorities for upcoming Q3, Q4
   - Capacity for MVP
@@ -59,7 +61,11 @@
 - How do we elaborate on the taxonomy structure to better explain the services?
   - How do services relate to benefit hubs?
 - Is the service delivery the same across all locations nationally or locally nuanced? (Is the service description hardened nationally?)
-- Per service - Is there an online version of this tool? 
+- Per service 
+  - Is there an online version of this tool? 
+  - Are there benefits that Veterans already avail predominantly or entirely online? What tools/sites are these? 
+  - Which tools result in work for a local benefits office, vs some central/national office? 
+  - Should some benefits (Changing Direct Deposit?) be encouraged/promoted to be done online?
 - Are Events National? Local? Hybrid? And what is the maintenance load?
 - Are Spotlights National? Local? Hybrid? And what is the maintenance load?
 - Is a list of Veteran Service Organizations (VSOs) located at that facility important? 
@@ -109,8 +115,7 @@
 - Are Spotlights National? Local? Hybrid? And what is the maintenance load?
 - Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 - Is there a need for timely situational updates related to things such as parking or COVID facility status? 
-
-
+- Is there an easily identifiable Top Tasks for editors? Can we quantify: Here are the Top XX things I do most frequently when currently updating the site, these other tasks are much less frequent.
 
 ## 3 - Veteran Research
 
@@ -188,6 +193,9 @@
 - 1 sprint - Research readout & documenting findings in research repo
 
 ### Research Questions
+- From va.gov home page 
+  - how would you find a location near you? 
+  - how would you determine what benefits are available at a location near you?
 - Prepare for your visit - What to bring
   - “Show me how you would figure out what you need to bring…”
 - What else do Veterans need in order to be prepared for a visit (e.g. link to find a form?)
