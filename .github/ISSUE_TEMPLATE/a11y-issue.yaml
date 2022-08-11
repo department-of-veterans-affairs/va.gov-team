@@ -7,15 +7,13 @@ body:
 - type: markdown
   value: "## Feedback framework"
 - type: markdown
-  attributes:
-    value: |
-      - **❗️ Must** for if the feedback must be applied 
-      - **⚠️ Should** if the feedback is best practice 
-      - **✔️ Consider** for suggestions/enhancements 
+  value: |
+    - **❗️ Must** for if the feedback must be applied 
+    - **⚠️ Should** if the feedback is best practice 
+    - **✔️ Consider** for suggestions/enhancements 
 - type: markdown
   value: "## Definition of done"
 - type: markdown
-  attributes:
   value: |
     1. Review and acknowledge feedback.
     1. Fix and/or document decisions made.
