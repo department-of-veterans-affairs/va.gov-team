@@ -76,6 +76,8 @@
 
 ## 2 - Editor Research
 
+[EPIC: VBA - Editor Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10185)
+
 ### Team
 - Denise Eisner - lead
 - Dave Pickett
