@@ -78,7 +78,7 @@ body:
     render: bash
   validations:
     required: true
- - type: checkboxes
+- type: checkboxes
   id: type
   attributes:
     label: Type of issue
