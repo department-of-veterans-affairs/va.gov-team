@@ -4,16 +4,14 @@ title: "[A11y]:"
 labels: ["508/Accessibility", "508-defect-x"]
 assignees: []
 body:
-  - type: markdown
+- type: markdown
     value: "## Feedback framework"
-      
-  - type: markdown
-  attributes:
+- type: markdown
+    attributes:
     value: |
       - **❗️ Must** for if the feedback must be applied 
       - **⚠️ Should** if the feedback is best practice 
       - **✔️ Consider** for suggestions/enhancements 
-
   - type: markdown
     attributes:
       value: "## Definition of done
