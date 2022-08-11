@@ -9,16 +9,20 @@ Last modified: August 4, 2022
 - Review VA Platform’s [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-5.Conductsessions). 
 - Perigean will send you the login instructions for using Zoom accounts for user research. The first time you use their account you will need to coordinate with Perigean on 2FA. 
 
-### Day of the Session 
-
-- After logging in, you will be logged in as a presenter. Be sure to enter your name. 
-- Mute your Slack notifications. 
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) to your observers. (Slackbot will do this for you if you type “observer instructions” into #feedback-backchannel.)  
-
 ### Starting the Session 
 
+- Sign out of personal Zoom. 
+- Create thread in #feedback-backchannel. 
+- Add observer instructions into the thread. 
+- Connect earbuds. 
+- Open up prototypes in a web browser. 
+- Open up the [Zoom guide](https://depo-platform-documentation.scrollhelp.site/research-design/using-zoom-for-research) in a web browser. 
+- Mute your Slack notifications. 
+- After logging in, you will be logged in as a presenter. Be sure to enter your name. 
+- Check to see if recording is set to save in the cloud. 
 - In the Participant “More” menu, make sure “Play Join and Leave Sound” is unchecked.
 - In the Attendees section, make sure everyone except for the participant is on mute.  
+- In the Share menu, make sure all participants can share their screen. 
 - Keep observers in the waiting room to ask the participant if they still consent to having observers in the session. Tell the observers to have their camera on with full name displayed for a brief introduction to the participant when they are admitted to the session.
  
 ## Intro - 5 Minutes 
@@ -30,6 +34,10 @@ I have a colleague with us in this session who will be taking notes.
 Today I'm going to ask you to do some specific tasks using a website, which is actually a prototype, that I will share with you in a few moments. 
 
 Before we start, I want to go over a few things: 
+
+*Check to see if anyone is waiting to join the room. If not, skip the first bullet below.*
+ 
+*Observers: When entering the room, observers should have their camera on with their first name displayed and their Zoom photo should be removed. Be prepared to say “Hi” when you’re admitted into the session.*  
 
 - **First, I have some other colleagues in the waiting room who would like to observe and take notes.** Perigean did ask for your consent to allow observers, but I wanted to be sure before we get going. Are you okay with letting them in for this session? 
      - *If “no,” ask the observers to leave the Zoom via Slack.*
@@ -88,13 +96,15 @@ So, I want to thank you for your time today, and again, I apologize for the inco
 
 ### Prototype-Tasks
 
-So, this is a “somewhat-interactive” prototype that you’ll be reviewing today. You’ll be able to tap the buttons, such as Continue, Yes or No, Back to Last Screen and read through the information on the screen. However, you won’t be able to use your keyboard to type in your information, for example. And, some of the information, such as your mailing address or contact information will not be correct. But, this prototype should give you an overall idea of how the check in process works for a medical appointment. 
+So, this is a prototype that you’ll be reviewing today. It’s a prototype for the process of checking in for a medical appointment.  
+
+Some things you can click, some things you can’t. Nothing in here is your information. It’s just pretend. And, you’re not actually filing for anything with the VA. 
 
 So, today I’m going to be asking you to do some specific tasks using this prototype. However, I’m going to be starting and stopping you to provide specific instructions and ask you questions along the way. Does that sound okay?  
 
-Great. Now, this is the first page of the check in experience, which requires Veterans to authenticate with their last name and date of birth. Please tap the “continue” button to advance. 
+Great. Now, this is the first page of the experience for checking in to a medical appointment, which requires Veterans to authenticate with their last name and date of birth. Again, some things you can click, and some things you can’t, so please go ahead and tap the “continue” button to advance. 
 
-Great. Now, for the next three pages, read through the information and tap “yes” to advance once you’ve reviewed. And, as you’re reviewing these next three pages, please talk aloud so that you share what you’re thinking and what, if anything, you’re unsure about before advancing to the next page.  
+Great. Now, for the next three pages, read through the information on the screen and then tap “yes” at the bottom of each to advance once you’ve reviewed. And, as you’re reviewing these next three pages, please talk aloud so that you share what you’re thinking and what, if anything, you’re unsure about before advancing to the next page. And remember, nothing in here is your information; it’s just pretend.
 
 *The participant should be on the page “Are all of the following true?” page.*
 
@@ -128,15 +138,15 @@ Why did you choose this rating?
 
 ### Post-Task Questions
 
-- Now, in thinking about all the pages you reviewed for checking in to an appointment, could you tell me if this is what you expected to see? 
-- Was there anything unclear to you? 
+- Now, in thinking about the entire check in process that you reviewed so far, starting from the beginning, could you tell me if this is what you expected to see when checking in for a medical appointment? 
+- And overall, was there anything unclear to you? 
 - Would you order anything differently? 
 - What would you like to change or add? 
-- What are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
-- Do you recall when review of your travel reimbursement claim takes place? 
+- Overall, based on what you reviewed in the prototype, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
+- As you think back on the entire check in process that you reviewed so far, do you recall reading when the VA reviews your travel reimbursement claim? (For example, was it while you were completing check in, later the next day, etc.)  
 - And if so, how clearly was it explained?  
 - What, if anything, would you change or add to make it more clear? 
-- Would knowing that VA checks your eligibility for travel reimbursement after you complete checking in deter you (or stop you) from filing for travel reimbursement in the future? Why or why not? 
+- Would knowing that the VA actually checks your eligibility for your travel reimbursement claim after you complete the check in process deter you (or stop you) from filing for travel reimbursement in the future? Why or why not? 
 
 ### Tasks for Alternative Path 
 
@@ -148,13 +158,13 @@ Now, what I’d like for you to do is tap “Continue” on this authentication 
 
 *The participant should be on the “Are all of the following true?” page.*
 
-Now, instead of tapping “yes” to this question, please tap “no.”  
+Now, instead of tapping “yes” to this question, please tap “no.” Remember, we answered “yes” to this question the first time.   
 
 Please go ahead and tap “check in now” for either appointment to advance to the next page.  
 
 *The participant should be on the confirmation page.*
 
-Now, again, on this page, as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking and what, if anything, you’re unsure about before. Please start reviewing.
+Now, again, on this page, as you’re reviewing, I would like you to talk aloud as much as possible so that you share what you’re thinking and what, if anything, you’re unsure about before advancing to the next page. Please start reviewing.
 
 So, again, this is the last page of the check in experience. Could you tell me if this is what you expected to see as a result of changing your answer to "no" to filing a travel reimbursement claim? 
 
@@ -174,11 +184,11 @@ Why did you choose this rating?
 
 *Paste [Prototype A link](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/19E0B04F-D95E-4CC1-B15A-543FF487AA3E) in the Zoom chat.*
 
-Now, I have another prototype for you to review that has some slight differences. Could you find the chat in Zoom and click on the link that I sent to you? 
+Now, I have another prototype for you to review that has some slight differences. Let’s go back to the Zoom app and find the link in the chat. So, swipe up on your device to hide the window. Now, find the Zoom app. Once you’ve found it, tap on it to open it. And, there you should see the chat. Go ahead and tap the second link there. Perfect. 
 
-Great, now let's place it in full screen. If you look in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
+And, finally, in the upper right corner of the page, please tap the three dots. And from that list, please tap "Full Screen." Perfect. We're all set.
 
-Great. Now, one more time, let’s tap “Continue” on this authentication page and answer “yes” to the next three questions, which will place you on the page leading with the question, “Filing for travel reimbursement?” Please go there now. 
+Great. Now, one more time, let’s tap “Continue” on this authentication page and answer “yes” to the next three questions. Please do that now. 
 
 *The participant should be on the “Filing for travel reimbursement?” page.*
 
@@ -207,7 +217,7 @@ Great. You’ve reached the last page again.
 - Did you think this prototype was any easier or more difficult to complete compared to the first prototype? Why or why not? 
 - Do you prefer one prototype over the other? Why or why not? 
 - What differences, if any, did you notice in this prototype compared to the first one?  
-- And, in this prototype compared to the first one, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)
+- And, overall, based on what you reviewed in this prototype, what are your thoughts on checking in for an appointment and filing for travel reimbursement at the same time? (For example, was it fine, confusing, etc.)  
 
 ## Closing - 2 Minutes
 
