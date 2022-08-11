@@ -10,7 +10,7 @@
 
 ## 1 - Business Research
 
-Epic - #5872
+[EPIC: VBA - Business Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5872)
 
 ### Team
 - David Shannon
@@ -152,7 +152,7 @@ Epic - #5872
 
 ## 4 - Content Research
 
-Epic - #9977
+[EPIC: VBA - Content Design](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9977)
 
 ### Team
 - Dave Pickett  - lead
