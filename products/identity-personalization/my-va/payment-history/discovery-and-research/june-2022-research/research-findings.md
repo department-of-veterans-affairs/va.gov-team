@@ -86,10 +86,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Somewhat.
 - All of the details shown were important to veterans except for the last updated date.
 - 3 out of 8 veterans said that date was useful to know but the rest were not sure exactly what it meant.
+	> That would be the end of their billing cycle. Any VA visits after the date, they wouldn’t show the debt yet. - P8
 - All veterans found the dollar amounts, number of debts, and action link to be useful.
 - 4 out of 8 veterans said the most important piece of information about a debt is what it's for.
-
-	> That would be the end of their billing cycle. Any VA visits after the date, they wouldn’t show the debt yet. - P8
 
 **4. Is the logical next step for debts effectively presented to the veteran and do they know how to take action on it?**
 - Yes.
