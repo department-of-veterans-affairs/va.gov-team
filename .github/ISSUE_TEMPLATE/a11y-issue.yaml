@@ -51,7 +51,7 @@ body:
   id: details
   attributes:
     label: Details
-    description: "Describe the issue and what problem it's creating"
+    description: "Describe the issue and what problem it's creating. If you have a screenshot or video, add those here after the ticket is created."
     value: |
       ...
     render: bash
@@ -61,7 +61,30 @@ body:
   id: repro
   attributes:
     label: Reproduction steps
-    description: "How do you trigger this issue? Please walk us through it step by step."
+    description: "How do you trigger this issue? Please walk us through it step by step. Include any relevant device, browser, and assistive technology."
+    value: |
+      1.
+      2.
+      3.
+      ...
+    render: bash
+  validations:
+    required: true
+- type: textarea
+  id: solution
+  attributes:
+    label: Proposed solution or next steps
+    description: "If there is an easy HTML, CSS, or JavaScript markup fix, include the snippet in the issue description. If it is a longer fix or you do not have a ready solution, provide next steps."
+    value: |
+      ...
+    render: bash
+  validations:
+    required: true
+- type: textarea
+  id: references
+  attributes:
+    label: References, articles, or WCAG support
+    description: "Provide any relevant documentation or evidence as to why this is an issue or how to fix it"
     value: |
       1.
       2.
