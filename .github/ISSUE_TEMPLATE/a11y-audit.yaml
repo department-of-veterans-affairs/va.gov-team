@@ -24,7 +24,7 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: "## Audit Coverage"
+    value: "## Coverage of Testing"
 - type: checkboxes
   id: automated
   attributes:
