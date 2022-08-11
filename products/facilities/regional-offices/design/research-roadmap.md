@@ -123,6 +123,8 @@
 
 ## 3 - Veteran Research
 
+[EPIC: VBA - Veteran Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10191)
+
 ### Team
 - Aslan French - lead
 - Denise Eisner 
