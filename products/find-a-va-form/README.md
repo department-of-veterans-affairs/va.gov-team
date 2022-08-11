@@ -1,20 +1,27 @@
 # Product outline: Find a VA Form
 
-This is the folder for all background, historical, discovery, and status documentation for the Find a VA Form product redesign 
-
-**Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See tab/sheet called "VA.gov tools mapped to VA forms."**  Note that you must be logged into the VA network to access.
-
-[VA.gov Product Directory-SharePoint (See last tab in sheet)](https://dvagov.sharepoint.com/:x:/s/CTOTeam/EfFzSYBuL5pHqbGtTBpk7EkBXfw_f8r5QR2C8VJCzifbAg)
-
-(Prior iterations of above info should be considered deprecated.)
+All background, historical, discovery, and status/maintenance documentation for the Find a VA Form product. 
 
 ## Table of Contents
+### Modern maintenance
 - [Incident Response](#incident-response)
    - [Team](#team)
 - [VA Forms Contacts](#va-forms-contacts)
-- [Problem Statement](#problem-statement)
+- [Architecture](#architecture)
+   - [Data Flow Diagram](#data-flow-diagram)
+   - [Drupal CMS Migration Documentation](#drupal-cms-forms-migration-documentation)
+   - [End to End Flow to Forms API](#end-to-end-flow-to-forms-api)
+   - [Content Flow Diagram](#content-flow-diagram)
+   - [Detail Page Content Architecture Diagram](#detail-page-content-architecture-diagram)
+   - [Code Repository](#code-repository)
+   - [VA Forms API Documentation](#va-forms-api-documentation)
+- [Troubleshooting](#troubleshooting)
+- [Find Forms FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/find-forms-faq.md)
+
+### MVP initiative
+- [MVP Problem Statement](#mvp-problem-statement)
     - [KPIs](#kpis)
-    - [Go To Market Strategy](#Go-to-market-Strategy)
+    - [Go To Market Strategy](#go-to-market-strategy)
 - [MVP and Enhancements](#mvp-and-enhancements)
     - [Content Catch Up and Clean Up](#content-catch-up-and-clean-up)
     - [Find a VA Form PDF Download Instructions ](#find-a-va-form-pdf-download-instructions)
@@ -26,38 +33,29 @@ This is the folder for all background, historical, discovery, and status documen
     - [Sort By Date](#sort-by-date)
     - [Post-MVP](#post-mvp)
     - [MVP](#mvp)
-- [Architecture](#launch-dates)
-   - [Data Flow Diagram](#data-flow-diagram)
-   - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
-   - [End to End Flow to Forms API](#end-to-end-flow-to-forms-API)
-   - [Content Flow Diagram](#Content-Flow-Diagram)
-   - [Detail Page Content Architecture Diagram](#Detail-Page-Content-Architecture-Diagram)
-   - [Code Repository](#code-repository)
-   - [VA Forms API Documentation](#va-forms-api-documentation)
-- [Troubleshooting](#troubleshooting)
 - [Search Landing Page MVP Status and Decisions](#mvp-search-landing-page-status-and-decisions)
 - [Form Detail Page MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/form-detail-landing-pages/status-and-decisions.md)
 - [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/post-mvp-status-and-decisions.md)
-- [Find Forms FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/find-forms-faq.md)
 
 ## Incident Response
-As of 12/31/2020:
+As of 8/10/22:
 
 ### Team
- - Team Name: Decision Tools
- - GitHub Label: [vsa-decision-tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
- - Team Slack channel: [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
+ - Team Name: Sitewide Public Websites
+ - GitHub Label: [⭐️ Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/labels/%E2%AD%90%EF%B8%8F%20Public%20Websites)
+ - Team Slack channel: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
  - Forms Slack channel: [#va-forms](https://dsva.slack.com/channelss/va-forms)
  
 
-### Decision Tools Team Members
+### Sitewide Public Websites Team Members
 |Name|Role|
 |----|----|
 |Dave Conlon	| Find a VA Form Product Owner|
-|Marci McGuire	| Search Product Manager|
-|Zachary Morel	|FE Engineer|
-|Cassandra Allen| Design|
-|Cindy Merrill| Research|
+|Wes Rowe   |Product Manager, Agile 6|
+|Jill Adams |Delivery Manager, Agile 6|
+|Daniel Sasser    |Backend engineer, Agile 6|
+|Ryan Koch    |Frontend engineer, Agile 6|
+
 
 ### Lighthouse API Team
 |Name|Role|
@@ -70,16 +68,20 @@ As of 12/31/2020:
 ### Other Subject Matter Experts
 |Name|Role|
 |----|----|
-|Marci McGuire	| Former Product Manager, iterations on Find a Form|
-|Zachary Morel	|Form FE Engineer, iterations on Find a Form|
-|Cassandra Allen| Design|
-|Steve Wirt	| CMS (Drupal)|
-|Ryan Thurlwell	| Design Lead, MVP|
+|Marci McGuire	|Former Product Manager, iterations on Find a Form|
+|Steve Wirt	|CMS (Drupal)|
+|Ryan Thurlwell	|Design Lead, MVP|
 |Mark Greenburg	|VA APIs|
-|Kelson Adams	| FE Engineer, MVP|
-|Charley Stran	| Formerly supported Forms on Lighthouse API team|
-|Brian Lloyd	| Former Product Manager|
-|Mickin Sahni	| Former Product Manager|
+|Charley Stran	|Formerly supported Forms on Lighthouse API team|
+
+Deactivated:
+|Name|Role|
+|----|----|
+|Zachary Morel	|Form FE Engineer, iterations on Find a Form|
+|Kelson Adams	|Former FE Engineer, MVP|
+|Cassandra Allen|Former Designer|
+|Brian Lloyd	|Former Product Manager|
+|Mickin Sahni	|Former Product Manager|
 
 ## VA Forms Contacts
 __VA forms stakeholder working group includes:__
@@ -97,7 +99,72 @@ __VA forms stakeholder working group includes:__
 ### Contacts by Business Line - last updated 10/25/2021 by Kayce White <Kayce.White@va.gov>
 ![image](https://user-images.githubusercontent.com/73354907/138717356-491698da-1d70-49d8-8658-281125bf55c1.png)
 
-## Problem Statement 
+## Architecture
+
+### Data Flow Diagram
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/findvaform-q3-arch.png?raw=true
+
+### Drupal CMS Forms Migration Documentation
+[Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
+
+[Relationship Between VA Forms DB/Lighthouse API/Drupal](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5702)
+
+### End-to-End Flow to Forms API
+Info provided by Srikanth Valluru in [Slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1633724003270500?thread_ts=1633718388.249000&cid=CBU0KDSB1)
+
+TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> nginx -> Kong ELB -> Kong -> vets-api ELB -> vets-api -> fwdproxy -> backend 
+
+### Content Flow Diagram
+[Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
+
+### Detail Page Content Architecture Diagram
+[Whimsical diagram - form detail page content architecture](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
+
+### Code Repository
+[vets-api/modules/va_forms](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)
+
+### VA Forms API Documentation
+[VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) 
+Documentation for API that indexes data sourced from VA.gov, Lighthouse
+
+
+# Troubleshooting
+
+## Reports of broken PDF links
+Broken PDF links can occur when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).
+
+**To confirm:**
+1. Check the [Flagged Content Dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) in Drupal CMS, to see if the form was updated.![Screen Shot 2022-08-10 at 6 08 25 PM](https://user-images.githubusercontent.com/85581471/184048356-4fe92e9a-9582-4c92-a6ef-29c23fc3a5b0.png)
+
+2. Click the form name and on Form node, in right sidebar, under Recent Changes, see a description of any change. 
+![Screen Shot 2022-08-10 at 6 07 47 PM](https://user-images.githubusercontent.com/85581471/184048365-1c800286-34ef-4893-95ce-88f0f7cc0a8d.png)
+
+3. Click the Revisions tab, and follow these steps to compare revisions / see the full data that changed:   https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 -
+
+Form managers have been instructed not to make name changes unless absolutely necessary because it causes the form to lose ranking on search engines and can also break links on other parts of VA.gov.
+
+## Trouble accessing forms
+VA forms manager may report users are emailing to report trouble accessing forms. 
+- Ask them to forward an example link or Form. Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search on vba.va.gov.  
+- **If internal:** (on vba.va.gov) contact Kevin Reid <Kevin.Reid@va.gov>
+- **If not:** It's possible that vets-api latency may cause delays / failures to download forms. 
+  - Check Sentry for more information: http://sentry.vfs.va.gov/organizations/vsp/issues/17064/events/?project=4
+  - And/or visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
+
+## Time lag between VA Form changes & when updated on Find a VA Form
+Changes in the Forms DB will appear immediately in the the Find a Form search results (which don't route through Drupal CMS). However: data on each Form detail page relies on Drupal CMS. This means that a change in the Forms DB may break user functionality in Find a Form, during the window between a Forms DB change and the Forms DB > Drupal data migration.
+
+- Detail pages update only after the Forms API merge runs over night, AND after the next day's 9 AM CMS publish.  
+- Also see this Slack thread for more details on timing: https://dsva.slack.com/archives/CUB5X5MGF/p1623794210193400
+![image](https://user-images.githubusercontent.com/73354907/125852399-af89f562-4ea3-4fe4-80fe-2d524eff2e45.png)
+
+**To troubleshoot:**
+- Visit https://github.com/department-of-veterans-affairs/content-build/actions/workflows/content-release.yml to verify if Content Release has deployed successfully. If not, run the workflow to trigger a release. Or,
+- visit #cms-support, and @cms-helpdesk to request a content release.
+
+------
+
+## MVP Problem Statement 
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
 
 - we want to redesign experience on this page to the new VA.gov look and feel.
@@ -159,8 +226,14 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## MVP and Enhancements
+**Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See tab/sheet called "VA.gov tools mapped to VA forms."**  Note that you must be logged into the VA network to access.
+
+[VA.gov Product Directory-SharePoint (See last tab in sheet)](https://dvagov.sharepoint.com/:x:/s/CTOTeam/EfFzSYBuL5pHqbGtTBpk7EkBXfw_f8r5QR2C8VJCzifbAg)
+
+(Prior iterations of above info should be considered deprecated.)
 
 ### Content Catch Up and Clean Up
+Deprioritized epic, 2022. 
 - Go-live: TBD
 - [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21758)
 - Adding description, metadata, related forms content to forms that were not considered high-priority during the MVP, but receive >200 downloads per month
@@ -257,49 +330,36 @@ Engagement
 - *What is your date for when you'll evaluate impact after launch?*
 
 ------
-## Architecture
 
-### Data Flow Diagram
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/findvaform-q3-arch.png?raw=true
+## MVP Problem Statement 
+Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
 
-### Drupal CMS Forms Migration Documentation
-[Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
+- we want to redesign experience on this page to the new VA.gov look and feel.
+- we want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
+- we want to add analytics tracking to all links and downloads.
 
-[Relationship Between VA Forms DB/Lighthouse API/Drupal](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5702)
+Search research attached as FYSA:
+[Analytics Veterans Affairs Forms Page Organic Nov2018-May2019.pdf](https://github.com/department-of-veterans-affairs/vets.gov-team/files/3352350/Analytics.Veterans.Affairs.Forms.Page.Organic.Nov2018-May2019.pdf)
 
-### End-to-End Flow to Forms API
-Info provided by Srikanth Valluru in [Slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1633724003270500?thread_ts=1633718388.249000&cid=CBU0KDSB1)
+[vaforms-org-search-keywords-SEMRush.png](https://user-images.githubusercontent.com/43381063/60547498-e08c8b00-9ced-11e9-8962-4c37d0e8e3cd.png)
 
-TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> nginx -> Kong ELB -> Kong -> vets-api ELB -> vets-api -> fwdproxy -> backend 
+Legacy issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1482
 
-### Content Flow Diagram
-[Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
+2020 Redesign MVP epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1632
 
-### Detail Page Content Architecture Diagram
-[Whimsical diagram - form detail page content architecture](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
-
-### Code Repository
-|[Code Repository](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)| Find a VA Form source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
-
-### VA Forms API Documentation
-|[VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) | Documentation for API that indexes data sourced from VA.gov  | Lighthouse
+Also tracked in Master DEPO intake board:
+https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
-# Troubleshooting
-- If VA forms manager reports users are emailing to report trouble accessing forms, ask them to forward an example.  
-   - Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search on vba.va.gov.  
-   - If it turns out to be an internal site issue, they will need to contact Kevin Reid <Kevin.Reid@va.gov>.
-- Reports of broken PDF links
-   - Compare versions of the form pages in Drupal CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 - broken PDF links can occur when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).  
-   - Form managers have been instructed not to make name changes unless absolutely necessary because it causes the form to lose ranking on search engines and can also break links on other parts of VA.gov.
-- Time lag between VA Form changes & when updated on Find a VA Form:
-   - Find a Form search page PDF link will update immediately once a change is made in the VA's forms database because the search page does not use CMS content.  
-   - Detail pages update only after the Forms API merge runs over night, AND after the next day's 9 AM CMS publish.  
-   - Also see this Slack thread for more details on timing: https://dsva.slack.com/archives/CUB5X5MGF/p1623794210193400
-![image](https://user-images.githubusercontent.com/73354907/125852399-af89f562-4ea3-4fe4-80fe-2d524eff2e45.png)
+
+
 
 ------
+
 ## MVP Search Landing Page Status and Decisions
+
+### 08/10/22 
+Updated README to reflect new Public Websites team in place since April 2022.
 
 ### 06/22/20 
 Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeholders notified. Per Kevin Reid, the Viewer page is not "owned" by the forms managers, so we will exclude that page from the redirects. 
