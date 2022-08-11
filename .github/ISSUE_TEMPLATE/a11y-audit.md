@@ -33,14 +33,13 @@ Josh Kim @joshkimux
 
 ### Automated 
  - [ ] Run axe checks on every page or unique state (required)
- - [ ] Run axe-coconut on every page. Coconut is a leading-edge tool, and identifies more WCAG2.1 success criteria that will eventually become the law of the land.
  - [ ] Run WAVE on every page if time allows. WAVE is more visual than axe or axe-coconut, but offers some excellent ways to identify nested headings and HTML5 landmark tags.
 
 ### Manual 
- - [ ] Color contrast checks
+ - [ ] Color contrast checks ([recommend using whocanuse.com for beyond compliance reports](https://whocanuse.com/))
  - [ ] Color blindness checks
  - [ ] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
- - [ ] Keyboard navigation for the happy path
+ - [ ] Keyboard navigation 
 
 ### Screenreader 
  - [ ] IE11 + JAWS
