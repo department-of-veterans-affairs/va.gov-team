@@ -50,7 +50,7 @@ body:
       1.
       2.
       3.
-      4.
+      ...
     render: bash
 - type: textarea
   id: solution
