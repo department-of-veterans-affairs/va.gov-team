@@ -52,6 +52,6 @@ Josh Kim @joshkimux
 ## Staging URL and Credentials
 - [Staging link](Insert link here)
 - [Prototypes](Insert link to prototypes here)
-- vets.gov.user+245@gmail.com
-- vets.gov.user+228@gmail.com
+- Test users
+  - vets.gov.user+??@gmail.com <!-- List your test users here -->
 - [Passwords](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
