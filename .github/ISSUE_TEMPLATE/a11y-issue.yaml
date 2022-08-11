@@ -27,10 +27,10 @@ body:
   attributes:
     label: Severity level
     options:
-      - [508-defect-0 ! Launchblocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-0)
-      - [508-defect-1 ! Launchblocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1)
-      - [508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-2)
-      - [508-defect-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-3)
-      - [508-defect-4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-4)
+      - 0, Launchblocker. Potentially Harmful. Must be fixed immediately.
+      - 1, Launchblocker. Critical. Must be fixed before launch.
+      - 2, Serious. Should be fixed in 1-2 sprints post-launch.
+      - 3, Moderate. Should be fixed in 1-3 sprints post-launch.
+      - 4, Minor. Consider fixing or exploring in 2-4 sprints post-launch.
   validations:
     required: true
