@@ -5,36 +5,18 @@ labels: ["508/Accessibility", "508-defect-x"]
 assignees: []
 body:
 - type: markdown
-    value: "## Feedback framework"
+  value: "## Feedback framework"
 - type: markdown
-    attributes:
+  attributes:
     value: |
       - **❗️ Must** for if the feedback must be applied 
       - **⚠️ Should** if the feedback is best practice 
       - **✔️ Consider** for suggestions/enhancements 
-  - type: markdown
-    attributes:
-      value: "## Definition of done
-
-1. Review and acknowledge feedback.
-1. Fix and/or document decisions made.
-1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix."
-
-  - type: input
-    id: product-team
-    attributes:
-      label: Point of contact
-      description: Who is the a11y specialist who wrote or is responsible for this ticket?
-      placeholder: 
-    validations:
-      required: true
-      
-  - type: textarea
-  id: repro
+- type: markdown
+  value: "## Definition of done"
+- type: markdown
   attributes:
-    label: Description of the issue
-    value: |
-    render: bash
-  validations:
-    required: true
-      
+  value: |
+    1. Review and acknowledge feedback.
+    1. Fix and/or document decisions made.
+    1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix."
