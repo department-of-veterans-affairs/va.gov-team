@@ -6,7 +6,7 @@ assignees: []
 body:
 - type: markdown
   attributes:
-    value: "## Definition of done"
+    value: "## Details and Definition of done"
 - type: markdown
   attributes:
     value: |
