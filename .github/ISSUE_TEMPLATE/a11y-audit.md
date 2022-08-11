@@ -2,7 +2,7 @@
 name: Accessibility Audit
 about: Create an epic for an a11y audit outside of the collaboration cycle
 title: ''
-labels: epic
+labels: Epic, 508/accessibility
 assignees: ''
 
 ---
