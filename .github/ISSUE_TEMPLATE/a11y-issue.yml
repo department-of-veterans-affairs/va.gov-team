@@ -5,12 +5,14 @@ labels: ["508/Accessibility", "508-defect-x"]
 assignees: []
 body:
   - type: markdown
-    attributes:
-      value: "## Feedback framework
+    value: "## Feedback framework"
       
-- **❗️ Must** for if the feedback must be applied 
-- **⚠️ Should** if the feedback is best practice 
-- **✔️ Consider** for suggestions/enhancements "
+  - type: markdown
+  attributes:
+    value: |
+      - **❗️ Must** for if the feedback must be applied 
+      - **⚠️ Should** if the feedback is best practice 
+      - **✔️ Consider** for suggestions/enhancements 
 
   - type: markdown
     attributes:
