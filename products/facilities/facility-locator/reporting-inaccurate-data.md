@@ -26,8 +26,8 @@ Community care providers and pharmacies (usually non-VA facilities)	| Email the 
  
  Facility type	|	Process
 ---	|	---
-VHA Medical Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov who can route the information to the upstream data owner.
-VHA Clinics | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov who can route the information to the upstream data owner.
+VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
+VHA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
 Vet Centers | N/A - services are standardized and not dynamic/database-driven
 Vet Center Outstations | N/A - services are standardized and not dynamic/database-driven
 Vet Centers Community Access Point  | N/A - No Services
