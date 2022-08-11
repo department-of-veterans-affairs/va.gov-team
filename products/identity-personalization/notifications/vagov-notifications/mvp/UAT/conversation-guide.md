@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 - Tell me what you see on this page and what's jumping out to you.
 - What would you act on first?
 - *(If they do not mention notifications)* Did you notice the Notifications section?
-- Why do you think you might come to have this notification showing in your account?
+- Is anything confusing to you about this notification?
 - How important does it seem?
 - How would you take action on it?
 - If you paid this debt and then came back to My VA and the notification was still here, what would you do?
