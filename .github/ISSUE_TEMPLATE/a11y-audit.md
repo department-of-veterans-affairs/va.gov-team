@@ -1,3 +1,12 @@
+---
+name: Accessibility Audit
+about: Create an epic for an a11y audit outside of the collaboration cycle
+title: ''
+labels: 508/Accessibility, epic
+assignees: ''
+
+---
+
 # [A11y (Type of Audit Here e.g. Maintenance)] (Name of what you're auditing here)
 
 ## Audit Coverage
