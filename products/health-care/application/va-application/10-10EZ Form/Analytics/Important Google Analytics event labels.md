@@ -19,3 +19,4 @@
 - hca-sip-form-saved
 - hca-sip-form-start-over
 - login-link-clicked-hcainfo
+- hca-future-discharge-date-submission
