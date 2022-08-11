@@ -5,18 +5,18 @@
 ### Planning:
 
 - **Desired date range or test duration:**  Sept 2022
-- **Desired number of users:**  Recruiting 10 participants with a target of completing 8 sessions
-- **How you'll recruit the right production test users:** We will recruit users via Perigean.
-- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the feature work correctly.
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag.
-**Link to Research plan for UAT:**
-- **Research Plan** xxx
-- **Conversation Guide** xxx
+- **Desired number of users:**  Internal team will test since we won't be able to recruit for this very specific scenario.
+- **How you'll recruit the right production test users:** n/a
+- **How you'll conduct the testing:** n/a
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** n/a
+**Link to Research plan for UAT:** n/a
+- **Research Plan** n/a
+- **Conversation Guide** n/a
 
 ### Results
 - **Number of users:** 
 - **Number of bugs identified / fixed:** 
-- **Types of errors logged: n/a
+- **Types of errors logged: 
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 
@@ -49,30 +49,30 @@ Desired date: Sept/Oct 2022
 **KPI**: We see at least a 50% reduction for BAI at the end of 3 months 
 
  Desired date: mm/dd/yy
-- Post-launch: xx lorem ipsum
+- Post-launch: xx 
 - Go / No Go: (ready / not ready)xxxx
 
 
 ### 1-month results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Post-launch KPI 1 actual: xx 
+- Any issues with VA handling/processing?: yes/no, 
+- Types of errors logged: m
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what: 
 
 ### 2-month results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Post-launch KPI 1 actual: xx 
+- Any issues with VA handling/processing?: yes/no, 
+- Types of errors logged:
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what: 
 
 ### 3-month results:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Post-launch KPI 1 actual: xx 
+- Any issues with VA handling/processing?: yes/no, 
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what: 
