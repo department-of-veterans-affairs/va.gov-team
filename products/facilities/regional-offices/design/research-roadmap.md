@@ -165,7 +165,7 @@
 - ⚠️ Need to understand which questions are blockers so I can prioritize 
 
 ### Research Questions
--  https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9978
+- https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9978
   - Probably should be broken down a bit
 - If we cross-walk the features of the RO websites and the Facility Locator detail pages for all VBA locations, what is the delta?
 - How do we elaborate on the taxonomy structure to better explain the services?
