@@ -1,10 +1,10 @@
 # VBA Research Roadmap
 
-[1 - Business Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#1---business-research)
-2 - Editor Research
-3 - Veteran Research
-4 - Content Research
-5 - Usability Testing
+1. [Business Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/regional-offices/design/research-roadmap.md#1---business-research)
+2. Editor Research
+3. Veteran Research
+4. Content Research
+5. Usability Testing
 
 ## 1 - Business Research
 
@@ -66,15 +66,15 @@ Began in July 2022 - will be ongoing
 
 ## 2 - Editor Research
 
-Team
+### Team
 Denise Eisner - lead
 Dave Pickett
 Aslan French
 
-Methods
+### Methods
 Structured interviews with Research Plan and Conversation Guide
 
-Timeline / Dependencies
+### Timeline / Dependencies
 1 sprint - Draft Research Plan and Conversation Guide
 🛑 - Interviews cannot be scheduled until MVP sites have been identified and connections with leadership have been established 
 1 sprint - ⚠️ Scheduling interviews
@@ -82,7 +82,7 @@ Timeline / Dependencies
 1 sprint - Synthesize research & schedule readout
 1 sprint - Research readout & documenting findings in research repo
 
-Research Questions
+### Research Questions
 
 VBA Editor Persona Questions
 Number of potential editors (if each editor has a backup) and locations
@@ -110,20 +110,17 @@ Is there a need for timely situational updates related to things such as parking
 
 
 
+## 3 - Veteran Research
 
-
-
-3 - Veteran Research
-
-Team
+### Team
 Aslan French - lead
 Denise Eisner 
 Dave Pickett
 
-Methods
+### Methods
 Structured interviews 
 
-Timeline / Dependencies
+### Timeline / Dependencies
 1 sprint - Draft Research Plan and Conversation Guide
 🛑 - If we want to recruit Veterans at/near MVP sites then recruitment can’t begin until MVP sites are established
 1 sprint - ⚠️ Research Review Cycle & participant recruitment 
@@ -131,7 +128,7 @@ Timeline / Dependencies
 1 sprint - Synthesize research & schedule readout
 1 sprint - Research readout & documenting findings in research repo
 
-Research Questions
+### Research Questions
 
 Participant definition 
 Has visited a VBA facility in last 6 months (🛑 Limit to MVP sites? )
@@ -144,26 +141,23 @@ What are the questions Veterans want answered by calling the phone number(s)?
 Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
 
+## 4 - Taxonomy Research
 
-
-
-4 - Taxonomy Research
-
-Team
+### Team
 Dave Pickett  - lead
 Aslan French
 Denise Eisner 
 
-Methods
+### Methods
 Synthesis of previous research
 Content audits
 Veteran interviews?
 
-Timeline / Dependencies
+### Timeline / Dependencies
 Started in August 2022
 ⚠️ Need to understand which questions are blockers so I can prioritize 
 
-Research Questions
+### Research Questions
 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9978
 Probably should be broken down a bit
 If we cross-walk the features of the RO websites and the Facility Locator detail pages for all VBA locations, what is the delta?
@@ -174,16 +168,16 @@ Do we need to provide routes into the benefit hubs and, if so, is that through C
 COPE content audit?
  
 
-5 - Usability Research
-Team
+## 5 - Usability Research
+### Team
 Aslan French
 Dave Pickett
 Denise Eisner
 
-Methods
+### Methods
 Usability test
 
-Timeline / Dependencies
+### Timeline / Dependencies
 🛑 - Usability testing requires a prototype
 1 sprint - Draft Research Plan and Conversation Guide
 1 sprint - ⚠️ Research Review Cycle &  participant recruitment
@@ -191,7 +185,7 @@ Timeline / Dependencies
 1 sprint - Synthesize research & schedule readout
 1 sprint - Research readout & documenting findings in research repo
 
-Research Questions
+### Research Questions
 Prepare for your visit - What to bring
 “Show me how you would figure out what you need to bring…”
 What else do Veterans need in order to be prepared for a visit (e.g. link to find a form?)
