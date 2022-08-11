@@ -10,6 +10,8 @@
 
 ## 1 - Business Research
 
+Epic - #5872
+
 ### Team
 - David Shannon
 - Denise Eisner
@@ -149,6 +151,8 @@
 
 
 ## 4 - Content Research
+
+Epic - #9977
 
 ### Team
 - Dave Pickett  - lead
