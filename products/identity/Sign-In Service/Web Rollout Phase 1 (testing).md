@@ -90,6 +90,19 @@ During our testing phase, we will monitor our public channel (#vsp-identity) for
 - [x] Monitors Created
 - [ ] Test Date Established and Communicated
 
+# Test Day Checklist
+- [ ] Notification in VFS-All-Teams
+- [ ] Notification in VSP-Identity
+- [ ] Flippers Flipped
+- [ ] Monitors Monitored
+- [ ] Post-Mortem Meeting scheduled for team
+- [ ] Test ended and Flippers Unflipped
+
+# Post-Test Tasks
+- [ ] Writeup of results
+- [ ] Details on any further testing discussed
+- [ ] Tickets created for any follow-on work
+
 
 
 
