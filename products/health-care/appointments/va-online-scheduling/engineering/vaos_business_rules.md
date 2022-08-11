@@ -114,7 +114,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 ### Calendar page (request path)
 
 - Users use a calendar picker to choose their preferred appointment time frames
-- Users are allowed to pick an AM or PM slot on each weekday, up to 3 slots.
+- Users are allowed to pick an AM and/or PM slot on each weekday, up to 3 slots.
 - The calendar starts on the current month
 - The earliest date allowed for scheduling is 5 days after the current day
 - The latest date allowed for scheduling is 120 days after the current date
