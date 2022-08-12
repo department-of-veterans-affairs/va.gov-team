@@ -8,7 +8,7 @@ NOTE:
 [Onsite Notifications Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications)
 
 ## Routes to code
-[Onsite Notifications Epic]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611))
+[Onsite Notifications Epic]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
 
 ## Contacts
 
