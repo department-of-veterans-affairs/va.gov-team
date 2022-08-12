@@ -1,7 +1,9 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Research Plan for The Debt Resolution Team (Benefits Team 2), Combined Financial Status Report  (VA Form 5655)
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
+*Previous Research:  [Financial Status Report MVP Usability Test Readout - March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/mar-2021/readout.md) 
+
 Briefly describe the background of your product. Consider:
 - What problem is your product trying to solve?
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
