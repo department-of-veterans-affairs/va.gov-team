@@ -1,6 +1,6 @@
 # Conversation Guide for VA Mobile Team, Pharmacy, 08/2022
 
-[Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
+[Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=21%3A3567&viewport=308%2C451%2C0.13&scaling=min-zoom&starting-point-node-id=21%3A3567&hotspot-hints=0)
 
 ## Moderator Logistics
 
@@ -21,7 +21,7 @@
    * [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
    * [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 2. A link to the prototype
-   * [Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
+   * [Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=21%3A3567&viewport=308%2C451%2C0.13&scaling=min-zoom&starting-point-node-id=21%3A3567&hotspot-hints=0)
 
 
 ## Research Goals
@@ -77,7 +77,7 @@ Thank you for sharing that. Now, we're going to take a look at a few things in t
 
 Before I send you the link to the prototype in the chat, imagine that you are using the VA mobile app and you're already logged in. What you’ll be seeing is all of your prescriptions. Now, I'm going to send you the link in the chat, go ahead and open it up.
 
-[Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=2%3A599&viewport=528%2C350%2C0.08&scaling=min-zoom&starting-point-node-id=2%3A599)
+[Figma prototype](https://www.figma.com/proto/706bVo6U037GZ2TrgkL1Un/Rx-Refill-Research-Prototype?page-id=0%3A1&node-id=21%3A3567&viewport=308%2C451%2C0.13&scaling=min-zoom&starting-point-node-id=21%3A3567&hotspot-hints=0)
 
 
 ## Section 2: "All" Tab - 5 minutes 
