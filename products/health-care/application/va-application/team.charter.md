@@ -6,6 +6,7 @@
 3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
 5. [Team norms](#team-norms)
+6. [VA Relationships](#va-relationships)
 
 ## Guideposts
 
@@ -36,7 +37,7 @@ Health Products
 - DEPO Engineering Lead: Stephen Barrs
 - Team Product Manager: Heather Justice
 - Team Associate Product Manager: Mark Fallows
-- UX/Research: Dené Gabaldón
+- Sr. UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
@@ -178,3 +179,35 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.
+
+## VA relationships
+
+- Lauren Alexanderson | lauren.alexanderson@va.gov -- Health Tools Crew lead
+- Patrick Bateman | patrick.bateman@va.gov -- Product owner
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
+
+**HEC (Health Eligibility Center) Program Team**
+- Tarsha Tremble | tarsha.tremble@va.gov -- Management Analyst HEC, scheduling (main point of contact between the program and VA.gov)
+- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
+- Dionne Dent-Lockett  | dionne.dent-lockett@va.gov  --  Director, HEC 
+- Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
+- Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
+- Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
+- Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
+- Christopher Froehlich | Christopher.Froehlich@va.gov -- Digital Services Expert, IT
+- Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
+- Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
+- Annie Rice | Annie.Rice@va.gov -- Contact Representative office
+
+**Enrollment System (ES)**
+- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
+
+
+<br>
+
+
+### Recurring stakeholder meetings
+
+- 10-10EZ Online Application Update
+   - HEC team and VA.gov team meet
+   - We meet every other week for ~1 hour
