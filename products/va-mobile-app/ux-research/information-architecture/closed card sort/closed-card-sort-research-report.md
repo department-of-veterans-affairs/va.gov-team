@@ -108,7 +108,7 @@ Yes and no. Veterans sorted cards having to do with their personal information i
 
 # Key Findings
 
-* **Overall, participants grouped the cards provided in similar ways, and the categories they created contained the same core groups of cards**. In a small subset of cards, there was greater variation around category placement. 
+* **Overall, participants grouped the cards provided in similar ways, and they included the same core groups of cards within the provided categories (Health, Benefits, Payments, Account, General VA Info).**. In a small subset of cards, there was greater variation around category placement. 
 * **Overall, the categories participants created were in line with what we predicted** (more detail in the full findings). 
 * **Participants overwhelmingly agreed on which categories to place the majority of cards**, with 20 out of 36 cards having very high agreement (33 had “high” agreement or greater). That said, **more than half of participants (25) reported that they felt uncertain** about where to place one or more cards.
 * **Only a few participants created new categories** The only category created by more than one person was Education (3).
