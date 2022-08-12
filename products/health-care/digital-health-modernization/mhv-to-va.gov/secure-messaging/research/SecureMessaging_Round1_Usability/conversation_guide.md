@@ -1,9 +1,9 @@
 # Conversation Guide 
-[Prototype Desktop Link](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/Qbq1JJ1/play?hotspots=false)
-[Short Desktop Link](https://tinyurl.com/mvw4v54d)
+[Prototype Desktop Link](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/C9CC9FC5-CED9-4791-8C21-AD1B0C7C516D?hotspots=false)
+[Short Desktop Link](https://tinyurl.com/3seb527w)
 
-[Prototype Mobile Link](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/rb7r3Jx/play?hotspots=false)
-[Short Mobile Link](https://tinyurl.com/2p86cs9h)
+[Prototype Mobile Link](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/097DBB1B-E61A-4731-9F34-AF2D96AADE96?hotspots=false)
+[Short Mobile Link](https://tinyurl.com/443u69m5)
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
 
