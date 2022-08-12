@@ -10,19 +10,22 @@
 
 - Veterans will see text and an icon next to each of their appointments indicating whether the appointment is an in-person or phone appointment
 
-![image](https://user-images.githubusercontent.com/86678742/167914625-9e5716ea-91b4-4e27-a5e0-5d6a9bef9869.png)
+![image](https://user-images.githubusercontent.com/86678742/184360380-06fc3aac-926a-457e-909e-d65312b8ebd6.png)![image](https://user-images.githubusercontent.com/86678742/184360527-4c95dbd3-dc0c-443b-b418-2ada25f38f1b.png)
 
 - Veterans will only see the Facility Name for in-person appointments
 
-![image](https://user-images.githubusercontent.com/86678742/167914264-0348f9dc-a1c4-4764-8622-f89a70a53981.png)
+![image](https://user-images.githubusercontent.com/86678742/184360380-06fc3aac-926a-457e-909e-d65312b8ebd6.png)
+![image](https://user-images.githubusercontent.com/86678742/184360527-4c95dbd3-dc0c-443b-b418-2ada25f38f1b.png)
+
 
 - Veterans will only be instructed to bring their insurance card for in-person appointments
 
-![image](https://user-images.githubusercontent.com/86678742/167914348-2a8ec07e-dc64-45bb-8a85-33eb5d066bfc.png)
+![image](https://user-images.githubusercontent.com/86678742/184360393-4c23ab7f-3e74-4663-bc57-6d9e9ef7f3a1.png)
 
 - Veterans will be instructed that their provider will call them for phone appointments
 
-![image](https://user-images.githubusercontent.com/86678742/167914408-31880aae-40c3-4d6a-9908-2847f24a3d87.png)
+![image](https://user-images.githubusercontent.com/86678742/184360504-cc7e9b55-6cb8-4051-81a3-6fa695137683.png)
+
 
 - Veterans who have a phone appointment and indicate that their contact, emergency contact, and/or next-of-kin information needs to be updated as part of the pre-check-in process will not be instructed to contact a staff member when they check-in to update their information
 
