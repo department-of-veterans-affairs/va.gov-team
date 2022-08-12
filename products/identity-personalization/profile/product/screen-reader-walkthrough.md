@@ -3,6 +3,7 @@
 Notes from the Profile portion of a screen reader walk-through with Angela and the Authenticated Experience My VA and Profile teams. Angela's suggestions in **bold**.
 
 ## Personal Information
+- Sidebar menu is read out after H1 - these brings up challenges
 - The expandable information in accordions (FAQs) makes sense.
 - Liz asked “how do you know that that is an accordion?” Because of the “button collapsed” read out by the screen reader.
  
