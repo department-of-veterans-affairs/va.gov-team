@@ -133,6 +133,7 @@ _Why would your business want this to exist?_
 ## Back End
 
 - [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
+- [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
 
 ## Solution Narrative
 
