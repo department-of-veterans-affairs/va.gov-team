@@ -165,8 +165,8 @@ Our next steps are to bring these findings to our design team and iterate on our
 
 
 ## Pages and applications used
-- [Mobile Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/rb7r3Jx/play?hotspots=false)
-- [Desktop Prototype](https://www.sketch.com/s/908b453b-ef8b-4193-b955-ea00f9fd14aa/a/Qbq1JJ1/play?hotspots=false)
+- [Mobile Prototype](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/097DBB1B-E61A-4731-9F34-AF2D96AADE96?hotspots=false)
+- [Desktop Prototype](https://www.sketch.com/s/77fd8aec-67b1-446d-b64a-8b942865be82/prototype/a/C9CC9FC5-CED9-4791-8C21-AD1B0C7C516D?hotspots=false)
 
 
 ## Who we talked to 
