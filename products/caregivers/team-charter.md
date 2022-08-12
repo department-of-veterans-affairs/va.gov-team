@@ -36,7 +36,7 @@ Health Products
 - DEPO Engineering Lead: Stephen Barrs
 - Team Product Manager: Heather Justice
 - Team Associate Product Manager: Mark Fallows
-- UX/Research: Dené Gabaldón
+- Sr UX Design: Jessica Stump
 - UX/UI Design: Nick Osmanski
 - Front-End Engineering: Lisa Zapson
 - Front-end Engineering: Matt Long
