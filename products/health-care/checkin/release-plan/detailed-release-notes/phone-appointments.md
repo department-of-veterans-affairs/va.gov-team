@@ -33,10 +33,10 @@
 ![image](https://user-images.githubusercontent.com/86678742/167910138-5ff5a602-3535-45c3-98e4-a70ac2237a26.png)
 
 ## Screenshots via Cypress
-[screenshots-dob.pci.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316357/screenshots-dob.pci.cypress.spec.js.zip)
-[screenshots-dob.day-of.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316358/screenshots-dob.day-of.cypress.spec.js.zip)
-[screenshots-current.all.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316359/screenshots-current.all.cypress.spec.js.zip)
-[screenshots-phone.pci.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316360/screenshots-phone.pci.cypress.spec.js.zip)
+- [screenshots-dob.pci.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316357/screenshots-dob.pci.cypress.spec.js.zip)
+- [screenshots-dob.day-of.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316358/screenshots-dob.day-of.cypress.spec.js.zip)
+- [screenshots-current.all.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316359/screenshots-current.all.cypress.spec.js.zip)
+- [screenshots-phone.pci.cypress.spec.js.zip](https://github.com/department-of-veterans-affairs/va.gov-team/files/9316360/screenshots-phone.pci.cypress.spec.js.zip)
 
 
 
