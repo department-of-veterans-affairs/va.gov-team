@@ -6,6 +6,7 @@
 3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
 5. [Team norms](#team-norms)
+6. [VA Relationships](#va-relationships)
 
 ## Guideposts
 
@@ -178,3 +179,30 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.
+
+## VA relationships
+
+- Lauren Alexanderson | lauren.alexanderson@va.gov -- Health Tools Crew leader
+- Patrick Bateman | patrick.bateman@va.gov -- Product owner
+- Danielle Thierry | danielle.thierry@va.gov -- Content writer
+
+**Caregiver Program Business Unit Team**
+- Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
+- Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
+- Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
+- Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
+- Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
+- Rebecca Bixler | rebecca.bixler@va.gov -- Health System Specialist
+- Aaron Sudholdt  | aaron.sudholt@va.gov -- PM, scheduling
+
+**CARMA team**
+- Caitlin Reyna | caitlin.reyna@va.gov - CARMA PM
+- Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+- Dugar, Ramesh | ramesh.dugar@va.gov - CARMA engineer
+- David Wald | David.Wald@va.gov - testing/integration lead
+
+### Recurring stakeholder meetings
+
+- Touchbase with Va.gov & Platform Team for Caregivers
+   - Caregivers business team, CARMA team, and VA.gov team meet
+   - Depending on the current projects we meet once a week or every other week for ~1 hour
