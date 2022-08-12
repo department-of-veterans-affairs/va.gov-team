@@ -15,9 +15,9 @@ For example, a facility website, a campaign landing page, the mobile app, or the
 - **Benefit name (content):** The plain language name of the benefit
 - **Full benefit name (content):** Some benefits have both a plain language name and a full VA-program name
 - **Benefit acroynm (content):** Some benefits have an acroynm (such as VR&E)
-- **Benefit description teaser (content):** Very brief (1-2 sentence) description of the benefit.
-- **What the benefit offers (summary) (content):** A brief summary of what the benefit offers. Thinking of this as the high-level "About" content for each benefit.
-- **What the benefit offers (full) (content):** The amount of content will vary between benefits. Some are more straightforward (like disability, where you get monthly payments) while others are much more complex (like health care). Including this as an area of content to think about, but we likely don't want to try to tackle it in depth for an MVP. Refer to the "About the benefit" template for more info.
+- **Benefit description teaser or "bite" (content):** Very brief (1-2 sentence) description of the benefit.
+- **What the benefit offers (summary or "snack") (content):** A brief summary of what the benefit offers. Thinking of this as the high-level "About" content for each benefit.
+- **What the benefit offers (full or "meal") (content):** The amount of content will vary between benefits. Some are more straightforward (like disability, where you get monthly payments) while others are much more complex (like health care). Including this as an area of content to think about, but we likely don't want to try to tackle it in depth for an MVP. Refer to the "About the benefit" template for more info.
   - **Benefit rates paid to the beneficiary (content):** Some benefits (such as disability compensation and eligibility compensation) have benefit rates. We likely won't want to try to tackle structuring benefit rates in the near future, as it's complex and different between different benefits. However, we should consider a field for linking to benefit rates to start.
 - **Benefit category:** Health, disability, education, careers, burials, housing, pension, life insurance 
 - **Benefit type (category):** Money, services, items, etc.
@@ -26,10 +26,10 @@ For example, a facility website, a campaign landing page, the mobile app, or the
 
 ### Benefit eligibility
 
-- **Benefit eligibility teaser (content):** Very brief (1-2 sentence), high level description of who can get the benefit.
+- **Benefit eligibility teaser or "bite" (content):** Very brief (1-2 sentence), high level description of who can get the benefit. _Not sure if eligibility needs a snack or not - let's discuss._
 - **Who can get this benefit: general (category/relationship):** Eligible audiences (ex. Veterans, service members, dependents)
 - **Who can get this benefit: Veteran era (category/relationship):** Eligible Veterans (ex. Vietnam era Veterans, Gulf War era Veterans)
-- **Benefit eligibility main criteria (content):** For each benefit, we have a Veteran-tested pattern for eligibility criteria. This pattern is relatively consistent across benefits, but also has customization depending on the benefit's criteria. We likely want to simply have an open field for this content for now since there is a lot of variation between benefits in terms of requirements and how they're connected. But we can also think about tagging for connecting benefits to different audiences. The eligibility criteria generally address these factors:
+- **Benefit eligibility main criteria or "meal" (content):** For each benefit, we have a Veteran-tested pattern for eligibility criteria. This pattern is relatively consistent across benefits, but also has customization depending on the benefit's criteria. We likely want to simply have an open field for this content for now since there is a lot of variation between benefits in terms of requirements and how they're connected. But we can also think about tagging for connecting benefits to different audiences. The eligibility criteria generally address these factors:
   - Service requirements
     - Service type (ex. active duty, active duty for training, combat, etc.)
     - Service duration (ex. "...for at least 90 days..."
