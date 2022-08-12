@@ -21,7 +21,7 @@ Please provide the following information about the individual being offboarded:
   > 
 - role on team:
   > 
-- expected last day: _(MM/DD/YYY)_
+- expected last day: _(MM/DD/YYYY)_
   > 
 - company they work for:
   > 
