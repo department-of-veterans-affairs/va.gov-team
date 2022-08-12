@@ -1,5 +1,7 @@
 # Screen reader walk-through with Angela Fowler - Profile
 
+**May 3, 2022**
+
 Notes from the Profile portion of a screen reader walk-through with Angela and the Authenticated Experience My VA and Profile teams. Angela's suggestions in **bold**.
 
 ## Personal Information
