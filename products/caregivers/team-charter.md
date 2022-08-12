@@ -193,16 +193,17 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
 - Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
 - Rebecca Bixler | rebecca.bixler@va.gov -- Health System Specialist
-- Aaron Sudholdt  | aaron.sudholt@va.gov -- PM, scheduling
+- Thamaraiselvi (Tham) Kaliannan  | thamaraiselvi.kaliannan@va.gov -- PM, scheduling
 
-**CARMA team**
+**CARMA team/MuleSoft.Salesforce team**
 - Caitlin Reyna | caitlin.reyna@va.gov - CARMA PM
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Dugar, Ramesh | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
+- Mili Riddout | mili.riddout@salesforce.com - 
 
 ### Recurring stakeholder meetings
 
 - Touchbase with Va.gov & Platform Team for Caregivers
-   - Caregivers business team, CARMA team, and VA.gov team meet
+   - Caregivers business team, CARMA team, Mulesoft/Salesforce team and VA.gov team meet
    - Depending on the current projects we meet once a week or every other week for ~1 hour
