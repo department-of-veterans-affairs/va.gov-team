@@ -16,6 +16,10 @@
 
 ## Monday, August 8, 2022
 
+* Include Facility ID in reports (?)
+
+## Monday, August 8, 2022
+
 * v1 timeline
    * End of August. (maybe early Sept)
 * In preparation for the Lighthouse migration. vets-api will in future be available via a new URL *platform-api.va.gov. . 
