@@ -9,13 +9,13 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 **Business partners:**
 - J.R. Arce, Chief, Digital Media and Design, VBA Strategic Engagement (jeku.arce@va.gov)
 - Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead (tanekwa.bournes@va.gov) 
-- Kenyonna Power, VBA Strategic Engagement
+- Kenyonna Power, VBA Strategic Engagement (kenyonna.power@va.gov)
 - Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
 - Brigette Murray, VBA Office of Field Operations (Brigette.Murray@va.gov)
 
 ** VBA Stakeholders:**
-- Laura O'Shea, Office of Policy Overview at VBA
-- Jamie Statton, Office of Policy Overview at VBA
+- Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
+- Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
 - 
 
 ## What we need to do
