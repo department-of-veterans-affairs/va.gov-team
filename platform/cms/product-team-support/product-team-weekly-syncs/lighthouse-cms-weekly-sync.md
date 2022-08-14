@@ -16,8 +16,21 @@
 
 ## Monday, August 15, 2022
 
-* Include Facility ID in reports (?)
-
+* v1 timeline check
+   * End of August. (maybe early Sept)
+* Mental Health audit / Joshua 
+  *  another specific service we may want to audit and account for at the v1 go-live   
+* Meeting with VAST team/admin
+   * There was an open text field associated with hours, but was removed becuase of abuse
+   * VAST 2.0 is in the works, no timeline
+   * How to get requirements/requests to VAST team as they develop 2.0?
+   * There are 2 checkboxes for editors to indicate limited qualification around hours: Nonstandard and Administrative  
+   * Rhonda brought up previous issue: operationalhoursspecialinstructions , sent email
+*  Office of performance analytics and integration - Update from meeting with Dave C? 
+* Sync CMS data to sandbox
+   * Internal meeting ..results? 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+      
 ## Monday, August 8, 2022
 
 * v1 timeline
