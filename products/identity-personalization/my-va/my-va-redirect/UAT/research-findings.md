@@ -107,7 +107,7 @@ Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us)
 - We had time to ask 8 of 10 participants. All 8 participants said they were fine with observers in the session. 
 - 5 of the 8 felt strongly it was important to ask for consent.
 
-	> If I look on there and I look at this screen and I see these people’s names, first thing I’m going to say is who are these people, and why are they on the call? Then I’m going to be hesitant to answer your questions because idk who these people are or what their purpose is - P8
+	> If I look on there and I look at this screen and I see these people’s names, first thing I’m going to say is who are these people, and why are they on the call? Then I’m going to be hesitant to answer your questions because I don't know who these people are or what their purpose is - P8
 
 	> That’s respect. I like that. - P2
 - One shared that they have cognitive considerations and even if they gave consent when signing up for the survey, they might feel totally different the day of the session.
