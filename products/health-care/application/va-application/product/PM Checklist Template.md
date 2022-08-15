@@ -29,6 +29,7 @@
 - North Star and KPIs for the product
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
+     - va.gov/health-care/apply/application/introduction
 - Use cases
 - Finalized design prototype or mockup
 - Content brief
