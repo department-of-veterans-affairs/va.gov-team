@@ -26,12 +26,12 @@ These events fall mainly in the "Taking Care of Myself" portion of the Veteran J
 For this research, we would like to test the effectiveness of the MVF (Minimum Viable Feature) design solution for Decision Letter Download. We would like to ensure that the feature as designed is usable and accessible.
 
 ### Outcome
-Based on what we find, we hope to feel confident in moving forward to the development phase of Decision Letter Download. If we find major issues with the proposed design, we will iterate on the solution to fix what we've identified. 
+We hope the study results will validate the design of the Decision Letter Download MVF. If we find major issues with the proposed design, we will iterate on the solution to fix what we've identified. If we do not, we will proceed to the development phase.
 
 ### Research questions
-– Understand more about the decision letter user journey
-– Assess whether the design proposal is effective for solving the user problem (i.e. needing access to the digital decision letter)
-– Assess the accessibility of the proposed solution
+- Understand more about the decision letter user journey
+- Assess whether the design proposal is effective for solving the user problem (i.e. needing access to the digital decision letter)
+- Assess the accessibility of the proposed solution
 
 ### Hypothesis
 We know that Veterans anxiously await their decision letters, and that the current Claim Status Tool does not do a good job of informing them of decisions. They currently have to wait for physical mail to arrive before they know their claim decision. During the study, we hope to see participants demonstrate a clear understanding of why we're building this feature, the purpose it serves, and how to interact with it successfully. 
