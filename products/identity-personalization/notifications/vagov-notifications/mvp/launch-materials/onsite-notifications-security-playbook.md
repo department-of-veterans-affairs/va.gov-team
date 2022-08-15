@@ -16,12 +16,16 @@ NOTE:
 - DSVA Product Lead: Samara Strauss, samara.strauss@va.gov
 - My VA Team Product Manager: Anastasia Jakabcin, ana@adhocteam.us
 - My VA Team Associate Product Manager: Erica Sauve, erica.sauve@adhocteam.us
-- VA Notify
+- VA Notify Team Product Manager: Melanie JOnes, melanie.jones@oddball.io
+- VA Notify Team Product Owner: Beverly Nelson, beverly.nelson@va.gov
+
 
 
 ### Outage Contacts:
 - Authenticated Experience My VA team Frontend engineer: Taylor Mitchell, tmitchell@governmentcio.com 
 - Authenticated Experience My VA team Backend engineer : Tom Harrison, tom.harrison@adhocteam.us
+- VA Notify Team Tech Lead: Kyle MacMillan, kyle.macmillan@oddball.io
+
 
 
 ## Troubleshooting
