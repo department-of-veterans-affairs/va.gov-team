@@ -1,4 +1,4 @@
-# My VA Redirect UAT Topline Summary
+# My VA Redirect UAT Research Findings
 *Office of the CTO - Digital Experience (OCTO-DE), My VA, Authenticated Experience*
 
 Date: 8/09/2022
