@@ -31,7 +31,7 @@ NOTE:
 ## Troubleshooting
 
 ### Errors and Metrics
-
+- Backend errors can be found in Sentry [here](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=top5&field=url&field=count%28%29&field=count_unique%28issue%29&name=Errors+by+URL&query=event.type%3Aerror+has%3Aurl+controller_name%3Aonsite_notifications&sort=-count&statsPeriod=30d&widths=-1&widths=-1&widths=-1)
 
 ### Issue investigation steps
 - The My VA team can be reached in the `#accountexp-authexp` Slack channel if there are any errors with Onsite Notifications on My VA.
