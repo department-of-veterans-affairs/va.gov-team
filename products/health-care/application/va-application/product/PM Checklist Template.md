@@ -4,13 +4,13 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead:
-- Product Manager:
-- FE Engineer:
-- BE Engineer:
+- OCTO-DE Product Lead: Patrick Bateman
+- Product Manager: Heather Justice, Mark Fallows
+- FE Engineer: 
+- BE Engineer: Lihan Li
 - Designer:
 - Researcher:
-- Slack channel:
+- Slack channel: #1010-health-apps
 - GitHub tag:
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 
 - Project epic #
-- Product outline
+- 10-10EZ Product outline(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - Initiative brief
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flows
