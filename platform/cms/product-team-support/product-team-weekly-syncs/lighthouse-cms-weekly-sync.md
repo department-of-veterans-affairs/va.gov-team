@@ -38,15 +38,23 @@
   *  Is LH safe to consume from CMS? 
   *  Dave C - set up specific meeting? AI: David S set up meeting this week. 
   *  Keep mental health data where it is now, but let's make a plan, not as straightforward - how do define problem space 
-  *  Current sources: CMS, CDW, we use ATC for MH service available or not, supplemnt phone numbers from OPM   
+  *  Current sources: CMS, CDW, we use ATC for MH service available or not, supplemnt phone numbers from OMHSP   
   *  Can we assure that CMS is not pushing any MH at go live? LH would prefer a Don't Push 
 * Drupal views/reports show facility ID, place in Stretch this sprint , Jay and Dave C have a chat   
 * Meeting with VAST team/admin
    * There was an open text field associated with hours, but was removed becuase of abuse
    * VAST 2.0 is in the works, no timeline
    * How to get requirements/requests to VAST team as they develop 2.0?
+   * We need to solve in the short term 
+   * James - wed'd be interested in holding in our API, how do we incorporate? 
    * There are 2 checkboxes for editors to indicate limited qualification around hours: Nonstandard and Administrative  
    * Rhonda brought up previous issue: operationalhoursspecialinstructions , sent email
+* For v1 LH will be using CMS for source of naming conventions - Name of Service
+  * Run the risk of naming mismatch
+  * How to get awareness of a service name change, if CMS changes - could result in conflict - could be out of sync for hours based on timing of updates
+  * Some mechanism - AI:David Work with helpdesk to create a runbook Facility Va Service Taxonomy name 
+  * WHen LH reloads, anything ATC has will get mapped to CMS value - 
+  * Patient Friendly Name  vs Machine Name (Service ID) - will use CMS name mapping to Service ID 
 *  Office of performance analytics and integration - Update from meeting with Dave C? 
 * Sync CMS data to sandbox
    * Internal meeting ..results? 
