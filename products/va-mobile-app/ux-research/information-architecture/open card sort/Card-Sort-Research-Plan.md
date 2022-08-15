@@ -22,7 +22,7 @@ Conversion notes:
 
 
 
-# **Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (part 1 of 3) - October 2021**
+# **Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (part 1 of 2) - October 2021**
 
 This work falls within the first phase of a three-phase Mobile IA & Navigation project that will contribute to the [Redesign of the VA Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md). It is the first  of a three part of IA research study. For a summary of the entire project, see [VA Mobile App: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md).
 
