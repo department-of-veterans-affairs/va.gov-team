@@ -1,10 +1,12 @@
 # Accessibility audit & updates
 
+**Last updated: August 15, 2022**
+
 _We should consolidate all accessibility feedback we've gotten, review it, and determine next steps. Tasks run from full-on projects (eg. moving edit from in-line to another page) to smaller tasks we can knock out as time allows._
 
 ## Questions / Concerns Raised
 
-See [Profile screen reader walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) - May 3, 2022
+See [Profile screen reader walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) - **May 3, 2022**
 
 ### Sidebar nav position 
 - Currently below the H1 and creating confusion for screen reader users
@@ -12,11 +14,14 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 
 ### Hubless spoke
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
-- concerns presented by accessibility folks regarding challenges presented due to the lack of a true landing page
+- Concerns presented by accessibility folks regarding challenges presented due to the lack of a true landing page
 
 ### Field "headings" (i.e. Mailing address and Home address)
--   Some changes are needed for the heading order in Addresses. For example, it would be better if "Mailing address" were H3 instead of a list item, with paragraph text then used for the hint text. Same applies to Phone numbers and other similar fields in Profile. 
+-   Some changes are needed for the field names/headings
 -   Concern also raised during during BAI pilot session with Angela
+-   **Recommendations:**
+	-   It would be better if "Mailing address" were H3 instead of a list item, with paragraph text then used for the hint text
+	-   Same applies to Phone numbers and other similar fields in Profile
 
 ### Address validation 
 -   Address validation is a considerably difficult flow for screen reader users
@@ -27,19 +32,28 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   Some research has been done by other teams
 
 ### Name tag
--   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner).
+-   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner)
+-   **Recommendations:**
+	-   Angela considers this like "basic information," which could be displayed right below the H1 under an H2 heading that says “basic information” 
+	-   Or for less priority, it could be at the bottom of the page
+	-   In order to make it visible to the screen reader, it would need to be under a new H2 heading under the H1
+	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on Personal information only
 
 ### TTY (Direct Deposit)
--   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text.
+-   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
 -   **_Resolved?_**
 
 ### Account Security
 -   If navigating by heading, it's easy to skip all main fields
 -   Headings can be changed to improve this page
+-   **Recommendations:**
+	-   Angela: "You can put the email address change at the top under H1 under an H2 and then another that says completed tasks (H2) -- or put the email part somewhere else and then get rid of the rest"
 
 ### Connected Apps
 -   Screen reader user is not aware of most content
 -   Headings can be changed to improve this page
+-   Recommendations:
+	-   Angela suggested having an H2 that says Connected Apps with the rest of the headings (app names) as H3, so a screen reader could easily skip down to Veteran programs and services
 
 
 ## Resolved Issues
