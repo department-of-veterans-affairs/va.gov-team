@@ -100,7 +100,7 @@ During our testing phase, we will monitor our public channel (#vsp-identity) for
 
 # Abort Checklist
 - [ ] Login success rate falls below 50%
-- [ ] 
+- [ ] Abnormally high error rate
 
 # Post-Test Tasks
 - [ ] Writeup of results
