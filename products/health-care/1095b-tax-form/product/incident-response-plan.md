@@ -39,7 +39,11 @@ In an effort to keep contact information in one place, this is now in the [READM
 
 The following (merged) PRs are probably the best way to show the code for 1095-B
 
-- [vets-website PR](https://github.com/department-of-veterans-affairs/vets-website/pull/21847/files)
+- [Widget for downloading 1095-B form](https://github.com/department-of-veterans-affairs/vets-website/pull/20619)
+- [Text version of 1095-B form](https://github.com/department-of-veterans-affairs/vets-website/pull/21847/files)
+- [Add analytics to pdf,text radio buttons](https://github.com/department-of-veterans-affairs/vets-website/pull/21887)
+- [End to end testing](https://github.com/department-of-veterans-affairs/vets-website/pull/21919)
+- [Feature toggle](https://github.com/department-of-veterans-affairs/vets-website/pull/21926)
 - [vets-api PR](https://github.com/department-of-veterans-affairs/vets-api/pull/10285/files)
 
 ### Links to technical diagrams
