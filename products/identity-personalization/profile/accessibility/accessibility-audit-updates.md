@@ -80,7 +80,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   **Next steps:** TBD
 
 
-## Resolved items
+## Resolved items & updates
 
 _Document resolved issues so we can learn from them_
 
