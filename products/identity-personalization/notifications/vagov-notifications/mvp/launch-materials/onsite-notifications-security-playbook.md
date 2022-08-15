@@ -14,8 +14,9 @@ NOTE:
 
 ### Team Members:
 - DSVA Product Lead: Samara Strauss, samara.strauss@va.gov
-- Team Product Manager: Anastasia Jakabcin, ana@adhocteam.us
-- Team Associate Product Manager: Erica Sauve, erica.sauve@adhocteam.us
+- My VA Team Product Manager: Anastasia Jakabcin, ana@adhocteam.us
+- My VA Team Associate Product Manager: Erica Sauve, erica.sauve@adhocteam.us
+- VA Notify
 
 
 ### Outage Contacts:
