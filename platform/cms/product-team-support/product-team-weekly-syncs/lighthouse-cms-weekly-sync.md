@@ -18,6 +18,17 @@
 
 * v1 timeline check
    * End of August. (maybe early Sept)
+   * Code Complete 8/31
+   * Doc has to be aligned intenral and external - 
+   * CMS articles recommendations this week - need to be published in advance
+     * For example: Audiology
+   * Coordinate on when to flip the switch
+     * Confirm - Facilities team has everything staged, ready to send it all 
+     * What needs to happen on Facilites side
+     * Jay - code is in place - right now code says Only Push Covid 'short circuit'
+     * Steve has PR ready to remove the 'short circuit'
+     * Don't want to impact/break v0
+   * Caregiver support thread: https://dsva.slack.com/archives/C02BTJTDFTN/p1660227230256679
 * Mental Health audit / Joshua 
   *  another specific service we may want to audit and account for at the v1 go-live   
 * Meeting with VAST team/admin
