@@ -57,11 +57,11 @@ The purpose of this work is to inform the information architecture, content and 
     * It describes a 2-part study that uses the following methods: [open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort) and [closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort).
 * **Phase II** of this work is a **navigation model exploration**. It will identify navigation model best practices for apps dealing with similar data needs out in the wild, explore how they might work for the VA mobile app, and decide on a navigation model for the app moving forward. It will be done in parallel with Phase I.
    * Activities will include a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md), a design exploration based on the findings from the IA research & comparative analysis, and a systematic evaluation of navigation model design directions based on success criteria established by the team & product owners. 
-* **Phase III** of this work is evaluative research, inlcuding a **usability study of the proposed navigation model and sitemap**. It will give insight on the usability and comprehension of the proposed navigation model and IA.
+* **Phase III** of this work is evaluative research, including a **usability study of the proposed navigation model and sitemap**. It will give insight on the usability and comprehension of the proposed navigation model and IA.
 
 
 
-<img width="2077" alt="Lean Research & IA Process Diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/VA%20Mobile%20app%20Lean%20Research%20&%20IA%20Process%2008052022.png?raw=true">
+<img width="2077" alt="Lean Research & IA Process Diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/VA%20Mobile%20app%20Lean%20Research%20%26%20IA%20Process%2008152022.png">
 
 
 [VA Mobile app: Lean Research & IA Process diagram (mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1643405078940/0d87c1339c19b434e7d540729b4a033c63a611e0?sender=u28718b63c8993f515e0b2240)
@@ -126,30 +126,15 @@ The purpose of this work is to inform the information architecture, content and 
    <td>Phase III
    </td>
   </tr>
-  <tr>
-   <td>Understand the mental models and usefulness of the proposed design concept. 
-   </td>
-   <td>Evaluative study: Usefulness & Comprehension
-   </td>
-   <td>TBD
-   </td>
-  </tr>
-  <tr>
-   <td>Optional: Decide between two proposed design concepts.
-   </td>
-   <td>Comparison study
-   </td>
-   <td>TBD
-   </td>
-  </tr>
+
 </table>
 
 
 For detailed protocol on each part of the study, see: 
 
 * **VA Mobile App Information Architecture Research - Phase I - IA:**
-    * [Research Plan for VA Mobile App IA Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
-    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - February/March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
+    * [Research Plan for VA Mobile App IA Research: Open Card Sort (Part 1 of 2) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
+    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 2) - February/March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
  
   
     
@@ -159,7 +144,8 @@ For detailed protocol on each part of the study, see:
    
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-    *  [* Research Plan for VA Mobile App IA Research: Usability Study (Part 3 of 3) - August/September 2022]
+    *  [* Research Plan for VA Mobile App IA Research: Usability Study - September 2022]
+
 
 
 ## Team Roles
