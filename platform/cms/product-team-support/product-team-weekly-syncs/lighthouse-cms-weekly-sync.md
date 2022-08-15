@@ -27,10 +27,20 @@
      * What needs to happen on Facilites side
      * Jay - code is in place - right now code says Only Push Covid 'short circuit'
      * Steve has PR ready to remove the 'short circuit'
+     * Create/Piggyback  PR for not pusing Mental Health 
+     * Longer term do we want to have a flag in CMS: "Push to lighthouse" - Admin setting 
      * Don't want to impact/break v0
    * Caregiver support thread: https://dsva.slack.com/archives/C02BTJTDFTN/p1660227230256679
+     * CMS info is coming from the field, assumption is CMS data is more accurate  
+     * Wait for response from CARMA team - don't want to open a can 
 * Mental Health audit / Joshua 
   *  another specific service we may want to audit and account for at the v1 go-live   
+  *  Is LH safe to consume from CMS? 
+  *  Dave C - set up specific meeting? AI: David S set up meeting this week. 
+  *  Keep mental health data where it is now, but let's make a plan, not as straightforward - how do define problem space 
+  *  Current sources: CMS, CDW, we use ATC for MH service available or not, supplemnt phone numbers from OPM   
+  *  Can we assure that CMS is not pushing any MH at go live? LH would prefer a Don't Push 
+* Drupal views/reports show facility ID, place in Stretch this sprint , Jay and Dave C have a chat   
 * Meeting with VAST team/admin
    * There was an open text field associated with hours, but was removed becuase of abuse
    * VAST 2.0 is in the works, no timeline
