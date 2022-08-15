@@ -10,7 +10,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 
 ### Sidebar nav position 
 - Currently below the H1 and creating confusion for screen reader users
--   **_Resolved?_**
+-   **Next steps:** **_Resolved?_**
 
 ### Hubless spoke
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
@@ -22,10 +22,12 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   **Recommendations:**
 	-   It would be better if "Mailing address" were H3 instead of a list item, with paragraph text then used for the hint text
 	-   Same applies to Phone numbers and other similar fields in Profile
+-   **Next steps:**
 
 ### Address validation 
 -   Address validation is a considerably difficult flow for screen reader users
 -   Concern raised during BAI pilot session with Angela
+-   **Next steps:**
 
 ### Name tag
 -   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner)
@@ -34,41 +36,47 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 	-   Or for less priority, it could be at the bottom of the page
 	-   In order to make it visible to the screen reader, it would need to be under a new H2 heading under the H1
 	-   If we put it above H1, we might not need to display it on each page, as it could get redundant. Instead, the nametag could be included and read out on Personal information only
+-   **Next steps:**
 
 ### TTY (Direct Deposit)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
--   **_Resolved?_**
+-   **Next steps:** **_Resolved?_**
 
 ### Account Security
 -   If navigating by heading, it's easy to skip all main fields
 -   Headings can be changed to improve this page
 -   **Recommendations:**
 	-   Angela: "You can put the email address change at the top under H1 under an H2 and then another that says completed tasks (H2) - or put the email part somewhere else and then get rid of the rest"
+-   **Next steps:**
 
 ### Connected Apps
 -   Screen reader user is not aware of most content
 -   Headings can be changed to improve this page
 -   **Recommendations:**
 	-   Angela suggested having an H2 that says Connected Apps with the rest of the headings (app names) as H3, so a screen reader could easily skip down to Veteran programs and services
+-   **Next steps:**
 
-### Editing something in Profile
+### Editing in Profile
 
 #### In-line error message:
 -   Focuses on wrong thing with error - not keeping focus on update button. (Note: this might need more looking into, I'm not sure what the specific focus needs are)
 -   Also does not tell her about all the errors shown, just one.
--   Recommendations:
+-   **Recommendations:**
 	-   Angela suggested that the best thing to do is to have a list of errors together
+-   **Next steps:**
 
 #### "Are you sure?" modal
 - Wording might need to be revisited
 - **Recommendations:**
 	- Maybe instead of Continue and Cancel, the modal could be Are you Sure? with Yes/No buttons
 - On the other hand, as is might be better for those with cognitive disabilities
+- **Next steps:**
 
 ### One-per-page editing
 -   Consider moving from in-line editing to one-per-page editing
 -   Can one-per-page editing help with any of the above concerns?
 -   Some research has been done by other teams
+-   **Next steps:**
 
 
 ## Resolved Issues
