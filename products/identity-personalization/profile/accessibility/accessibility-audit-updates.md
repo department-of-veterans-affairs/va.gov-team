@@ -4,7 +4,7 @@
 
 _We should consolidate all accessibility feedback we've gotten, review it, and determine next steps. Tasks run from full-on projects (eg. moving edit from in-line to another page) to smaller tasks we can knock out as time allows._
 
-## Questions / Concerns Raised
+## Questions / Concerns
 
 See [Profile screen reader walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) - **May 3, 2022**
 
