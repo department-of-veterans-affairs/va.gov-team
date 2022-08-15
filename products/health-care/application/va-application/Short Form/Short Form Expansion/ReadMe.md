@@ -64,7 +64,7 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - **Value Risks** (will people use it): 
   - The value risk that Veterans may become confused when they transition to the short form, and spend time looking for where to input the information that is no longer necessary.
 - **Usability Risks** (can people figure out how to use it):
-  - There is a risk that the incorrect disability rating will be selected, meaning they might not fill out the correct version of the form.
+  - There is a risk that the incorrect military service will be selected, meaning they might not fill out the correct version of the form.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
    - None
   
