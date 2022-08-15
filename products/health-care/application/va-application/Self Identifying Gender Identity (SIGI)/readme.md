@@ -12,7 +12,7 @@ Veterans seeking healthcare do not have a means of indicating their gender ident
 
 ## Desired User Outcomes
 - Allow Veterans the option to disclose their gender identity
-- Incrase comfort/trust with VA healthcare
+- Increase comfort/trust with VA healthcare
 
 ## Undesired User Outcomes
 - Confusion as to whether a user is required to share their gender identity
