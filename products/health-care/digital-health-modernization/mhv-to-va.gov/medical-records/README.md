@@ -150,11 +150,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-#### Stakeholders
+## Stakeholders
 
 <details>
  
-## Partners / stakeholders for records:
 - Labs and tests – Thomas Haugen (Chief, Pathology & Laboratory Medicine)
 - Display: Leanne Walls & Theresa (Terry) Webber
 - Lab Enforcer: Group who audits VA facilities including MHV (but not sure who) so we need to make sure that anything dealing with labs goes through this group.
