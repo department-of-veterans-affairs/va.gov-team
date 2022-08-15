@@ -25,7 +25,6 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 ### One-per-page editing
 -   Consider moving from in-line editing to one-per-page editing
 -   Some research has been done by other teams
--   Would one-per-page editing solve some of these issues? What new concerns may this present?
 
 ### Name tag
 -   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner). See [screen reader walkthrough](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) 
