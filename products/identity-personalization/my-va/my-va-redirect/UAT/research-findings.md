@@ -110,7 +110,6 @@ Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us)
 	> If I look on there and I look at this screen and I see these people’s names, first thing I’m going to say is who are these people, and why are they on the call? Then I’m going to be hesitant to answer your questions because I don't know who these people are or what their purpose is - P8
 
 	> That’s respect. I like that. - P2
-- One shared that they have cognitive considerations and even if they gave consent when signing up for the survey, they might feel totally different the day of the session.
 - 6 of 8 said having observers say a quick hello made them feel more welcome, though it was strange to them when they couldn’t see or hear someone.  
 	- Participants on tablets and mobile devices could not see anyone on the call other than the moderator.
 	- It was noticeable when a single observer chose not to say hello or turn on their camera.
