@@ -27,7 +27,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   Some research has been done by other teams
 
 ### Name tag
--   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner). See [screen reader walkthrough](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) 
+-   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner).
 
 ### TTY (Direct Deposit)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text.
