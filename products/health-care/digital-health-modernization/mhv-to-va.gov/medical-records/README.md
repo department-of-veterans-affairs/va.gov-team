@@ -154,25 +154,25 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-##Partners / stakeholders for records:
-Labs and tests – Thomas Haugen (Chief, Pathology & Laboratory Medicine)
-Display: Leanne Walls & Theresa (Terry) Webber
-Lab Enforcer: Group who audits VA facilities including MHV (but not sure who) so we need to make sure that anything dealing with labs goes through this group.
-VA Immunizations/ NCP – Stephanie Spohr
-Appointments – Dawn Smith (OVAC)
-Pharmacy – Dr. Eric Spahn, Dr. Maureen Layden, Margo Kabel (Pharmacy Benefits Management – Medication Information Management)
-Flagship mobile app – Chris Johnston
-CCD – Glen Crandall, Maria Swall
-Clinical Informatics – Kellie Condon, Jonathan Nebeker
-HIMS – Erinn Dean
-Privacy – Stephania Griffin, Peggy Pugh
-PHR Policy Workgroup – Dr. Christine Erickson (Lead)
-Records product on MHV – Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, Lichelle Bain, Rich Beaudoin, Bobby Bailey, Barry Egbert, new SME for medical records to be hired in Sept-Oct
-MHV Health Data Product Line / Blue Button – David (Boomer) Rawlins
-APIs – Dave Mazik
-OCTO DHP Team (Digital Health Platform) – Stefany Holguin
-OCTO leadership – Charles Worthington, Chris Johnston, Lauren Alexanderson
-Contact centers – Chante Lantos-Swett
+## Partners / stakeholders for records:
+- Labs and tests – Thomas Haugen (Chief, Pathology & Laboratory Medicine)
+- Display: Leanne Walls & Theresa (Terry) Webber
+- Lab Enforcer: Group who audits VA facilities including MHV (but not sure who) so we need to make sure that anything dealing with labs goes through this group.
+- VA Immunizations/ NCP – Stephanie Spohr
+- Appointments – Dawn Smith (OVAC)
+- Pharmacy – Dr. Eric Spahn, Dr. Maureen Layden, Margo Kabel (Pharmacy Benefits Management – Medication Information Management)
+- Flagship mobile app – Chris Johnston
+- CCD – Glen Crandall, Maria Swall
+- Clinical Informatics – Kellie Condon, Jonathan Nebeker
+- HIMS – Erinn Dean
+- Privacy – Stephania Griffin, Peggy Pugh
+- PHR Policy Workgroup – Dr. Christine Erickson (Lead)
+- Records product on MHV – Theresa Hancock, Bresha Lipscomb, Carnetta Scruggs, Lichelle Bain, Rich Beaudoin, Bobby Bailey, Barry Egbert, new SME for medical records to be hired in Sept-Oct
+- MHV Health Data Product Line / Blue Button – David (Boomer) Rawlins
+- APIs – Dave Mazik
+- OCTO DHP Team (Digital Health Platform) – Stefany Holguin
+- OCTO leadership – Charles Worthington, Chris Johnston, Lauren Alexanderson
+- Contact centers – Chante Lantos-Swett
  
 </details>
 
