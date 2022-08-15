@@ -84,10 +84,13 @@ Intended audience is Veterans and recruitment is through Perigean.
 18 total Veterans  (within 3 cohorts of 6 participants each) to be recruited as participants for this study.
 
 **Primary criteria (must-haves)**
-Seeking two cohorts of participants
+
 Cohort 1: have recently *(within the past 3 months)* applied for VA health care benefits (6 participants)
+
 Cohort 2: are actively considering applying for VA health care benefits (6 participants)
-Cohort 2a: if cohort 2 is unsourceable, then we can swap in some from what I'm calling cohort 2a
+
+Cohort 2a: are interested in learning more about VA health care benefits (invite if 6 participants of cohort 2 are unsourceable)
+
 Cohort 3: have recently *(within the past 3 months)* experienced a change that may result in a change of eligibility (10-10 EZ)
 
 For all cohorts, seeking a diversity of responses to question: How often do you go online to access VA benefits and services?
