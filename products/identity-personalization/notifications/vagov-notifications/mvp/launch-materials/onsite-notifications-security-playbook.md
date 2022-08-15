@@ -30,10 +30,10 @@ NOTE:
 
 
 ### Issue investigation steps
-- The My VA team can be reached in the #accountexp-authexp Slack channel if there are any errors with Onsite Notifications on My VA.
+- The My VA team can be reached in the `#accountexp-authexp` Slack channel if there are any errors with Onsite Notifications on My VA.
 
 ### Flipper Features and Rollback
-- The show_dashboard_notifications flipper can be used to turn this feature off and on for users in Staging and Production
+- The `show_dashboard_notifications` flipper can be used to turn this feature off and on for users in Staging and Production
 
 ## Security
 No PII/PHI involved in this feature, or known/accepted security vulnerabitlities
