@@ -4,13 +4,13 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead:
-- Product Manager:
+- OCTO-DE Product Lead:  Patrick Bateman
+- Product Manager: Heather Justice, Mark Fallows
 - FE Engineer:
-- BE Engineer:
+- BE Engineer: Lihan Li
 - Designer:
 - Researcher:
-- Slack channel:
+- Slack channel: #1010-health-apps
 - GitHub tag:
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 
 - Project epic #
-- Product outline
+- [10-10CG Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - Initiative brief
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flows
@@ -29,6 +29,7 @@
 - North Star and KPIs for the product
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
+     - va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
 - Use cases
 - Finalized design prototype or mockup
 - Content brief
