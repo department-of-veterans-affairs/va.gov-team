@@ -57,7 +57,7 @@ The purpose of this work is to inform the information architecture, content and 
     * It describes a 2-part study that uses the following methods: [open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort) and [closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort).
 * **Phase II** of this work is a **navigation model exploration**. It will identify navigation model best practices for apps dealing with similar data needs out in the wild, explore how they might work for the VA mobile app, and decide on a navigation model for the app moving forward. It will be done in parallel with Phase I.
    * Activities will include a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md), a design exploration based on the findings from the IA research & comparative analysis, and a systematic evaluation of navigation model design directions based on success criteria established by the team & product owners. 
-* **Phase III** of this work is evakuative research, inlcuding a **usability study of the proposed navigation model and sitemap**. It will give insight on the usability and comprehension of the proposed navigation model and IA.
+* **Phase III** of this work is evaluative research, inlcuding a **usability study of the proposed navigation model and sitemap**. It will give insight on the usability and comprehension of the proposed navigation model and IA.
 
 
 
