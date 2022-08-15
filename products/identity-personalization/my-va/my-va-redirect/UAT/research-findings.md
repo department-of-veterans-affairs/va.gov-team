@@ -1,23 +1,13 @@
 # My VA Redirect UAT Research Findings
 *Office of the CTO - Digital Experience (OCTO-DE), My VA, Authenticated Experience*
 
-Date: 8/09/2022
+Date: 8/15/2022
 
 Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/UAT/conversation-guide.md)
 - [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1659364841359/d8cd5e9bff56277bacd9acec59670c1f6f121612?sender=lizlantz1528)
-
-## Introduction
-This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
-
-### Document goal
-* To make sure everyone who observed the study is in alignment with the perceived findings
-* To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
-* To jump-start synthesis by quickly organizing high level themes
-
-**Note:** After initial review, the team felt this document was sufficient to meet our team's needs for the purposes of UAT and the My VA redirect. This will serve as our findings document.
 
 ## Findings
 ### Our Hypothesis
