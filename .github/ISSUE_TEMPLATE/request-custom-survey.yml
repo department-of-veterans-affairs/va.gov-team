@@ -1,62 +1,62 @@
 name: Request Custom Survey
 description: Use this template to request adding a custom Medallia Survey to your product pages
 title: "Request Custom Survey"
-labels: [ "VSP-contact-center"]
+labels: [ "VSP-contact-center" ]
 assignees:
-  - va-vsp-bot
+  - jwoodman5
 body:
   - type: markdown
     attributes:
-    value: |
-        **
-        ## What this form is for
-        Use this template to request adding a custom Medallia Survey to your product pages(s). Standard Feedback and Satisfaction surveys are automatically added to all VA.gov pages (with few exceptions). 
+      value: |
+          **
+          ## What this form is for
+          Use this template to request adding a custom Medallia Survey to your product pages(s). Standard Feedback and Satisfaction surveys are automatically added to all VA.gov pages (with few exceptions). 
   - type: dropdown
     id: survey-type-requested
     attributes:
-    label: Survey Type Requested
-    options:
-      - Feedback
-      - Satisfaction
-    validations:
-      required: true
+      label: Survey Type Requested
+      options:
+        - Feedback
+        - Satisfaction
+      validations:
+        required: true
   - type: input
     id: product-name
     attributes:
-    label: Product Name(s)
-    description: Please provide the name(s) of your product(s).
-    placeholder: Facilities Locator
-    validations:
-      required: true
+      label: Product Name(s)
+      description: Please provide the name(s) of your product(s).
+      placeholder: Facilities Locator
+      validations:
+        required: true
   - type: textarea
     id: product-description
     attributes:
-    label: Product Description
-    description: Please provide a high level description (one or two sentences) of your product(s).
-    placeholder: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus pellentesque mauris, ac viverra odio. Vivamus ultricies iaculis mattis.
-    validations:
-      required: true
+      label: Product Description
+      description: Please provide a high level description (one or two sentences) of your product(s).
+      placeholder: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus pellentesque mauris, ac viverra odio. Vivamus ultricies iaculis mattis.
+      validations:
+        required: true
   - type: textarea
     id: product-urls
     attributes:
-    label: Product URL(s)
-    description: Please provide the root directory(ies) for your product(s)
-    placeholder: va.gov/find-locations, va.gov/./locations
-    validations:
-      required: true
+      label: Product URL(s)
+      description: Please provide the root directory(ies) for your product(s)
+      placeholder: va.gov/find-locations, va.gov/./locations
+      validations:
+        required: true
   - type: date
     id: launch-date
     attributes:
-    label: Launch Date
-    description: Please provide the launch or rollout date of your product(s). If already live, please select today’s date.
-    validations:
-      required: true
+      label: Launch Date
+      description: Please provide the launch or rollout date of your product(s). If already live, please select today’s date.
+      validations:
+        required: true
   - type: checkboxes
     id: pra-approval
     attributes:
-    label: PRA Approval
-    options:
-      - label: "Yes"
-      - label: "No"
-    validations:
-      required: true
+      label: PRA Approval
+      options:
+        - label: "Yes"
+        - label: "No"
+      validations:
+        required: true
