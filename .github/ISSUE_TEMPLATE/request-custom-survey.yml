@@ -44,11 +44,12 @@ body:
       placeholder: va.gov/find-locations, va.gov/./locations
     validations:
       required: true
-  - type: date
+  - type: input
     id: launch-date
     attributes:
       label: Launch Date
       description: Please provide the launch or rollout date of your product(s). If already live, please select today’s date.
+      placeholder: July 2, 2022
     validations:
       required: true
   - type: checkboxes
