@@ -42,9 +42,9 @@
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 25% | 1 week | week of 08/29/2022 | [(#42876)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876) |
-| Launch to 50% | 1 week | week of 09/06/2022 | [(#42880)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880) |
-| Launch to 100% | 1 week | week of 09/12/2022 |[(#42881)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881) |
+| Launch to 25% | 1 week | week of 08/29/2022 | [#42876](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876) |
+| Launch to 50% | 1 week | week of 09/06/2022 | [#42880](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880) |
+| Launch to 100% | 1 week | week of 09/12/2022 |[#42881](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881) |
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
