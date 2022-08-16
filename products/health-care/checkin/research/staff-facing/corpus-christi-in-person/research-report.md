@@ -38,36 +38,39 @@ In addition, the Modernized Check-In Team is building off of the [beneficiary tr
 Specifically, we’re looking to accomplish the following: 
 
 - Evaluate the effectiveness of pre-check-in and check-in with MSAs
-- Better understand the percentage of Spanish speakers and if nuances exist within that population about patient check-in 
+- Better understand the percentage of Spanish speakers and if nuances exist within that population about patient check-in  
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
 - Understand how, if at all, MSAs are using VSE-CS
+- Understand what staff roles are interested in PCI reports as well as what data they are interested in reviewing
 - Gain insights on the process for staff needing to cancel appointments 
 - Gain insights on understanding the optimal experience for incorporating travel reimbursement into the check-in experience for Veterans 
 - Understand what information travel assistants use and how to review and approve reimbursement requests 
 
 # Research Questions
 
-- What’s working and not working with pre-check-in and check-in?
-- What changes could help improve the check-in process?
-- How often are MSAs interacting with Veterans during the check-in process?
-- Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in?
-- What’s been the impact on MSA workload?
+- What’s working and not working with pre-check-in and check-in? 
+- What changes could help improve the check-in process?  
+- How often are MSAs interacting with Veterans during the check-in process? 
+- Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in? 
+- What’s been the impact on MSA workload? 
 - How often are MSAs troubleshooting errors or clearing review flags?
-- How comfortable are MSAs troubleshooting errors or clearing review flags?
-- What are the issues that MSAs are helping Veterans troubleshoot?
+- How comfortable are MSAs troubleshooting errors or clearing review flags? 
+- What are the issues that MSAs are helping Veterans troubleshoot?  
 - What changes in MSA to clinician communication for check-in have changed?
-- What changes to check-in can help improve MSA to clinician communication for check-in?
-- Are MSAs using VSE-CS? If so, how is it being used and why is it being used?
+- What changes to check-in can help improve MSA to clinician communication for check-in?  
+- Are MSAs using VSE-CS? If so, how is it being used and why is it being used?  
 - How do Veterans feel about pre-check-in and check-in?
-- What's the percentage of Veterans that are bi-lingual and low English proficient Spanish speakers?
-- What are some of the potential nuances of check-in that might be challenging for Spanish speakers to understand?
-- How frequently does staff need to cancel appointments?
-- What's the process when staff needs to cancel an appointment?
+- What's the percentage of Veterans that are bi-lingual and low English proficient Spanish speakers? 
+- What are some of the potential nuances of check-in that might be challenging for Spanish speakers to understand?  
+- What staff role are interested in PCI report?
+- What data do staff members want to review within PCI reports?
+- How frequently does staff need to cancel appointments? 
+- What's the process when staff needs to cancel an appointment? 
 - How do staff notify Veterans that their appointment was canceled?
-- How many days out do appointments typically get cancelled?
-- When do Veterans expect to complete a travel reimbursement claim in relation to their appointment?
+- How many days out do appointments typically get cancelled? 
+- When do Veterans expect to complete a travel reimbursement claim in relation to their appointment? 
 - What information do travel asisstants use to review and approve reimbursement requests?
-- How do travel assistants use that information to review and approve a request?
+- How do travel assistants use that information to review and approve a request?  
 
 # Methodology 
 
@@ -82,15 +85,27 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 # Hypotheses and Conclusions
 
 1. The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed.
+  1. LIKELY TRUE: It's likely that the speed of check-ins with VSE are quicker when contact information, emergency contact information and next of kin information is verified with pre-check-in. However, we did not collect enough information to validate. We did find out that pre-check-in and day of check-in are oftern cnfused.
 1. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
+  1. DEFINITELY FALSE: Even though there is a portion of Veterans who do not need MSAs assistance when using PCI. MSAs spend a lot of time troubleshooting PCI for Veterans.
 1. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
+  1. DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in.
 1. MSAs will have shorter lines of Veterans waiting to be checked in.
+  1. LIKELY FALSE: MSAs reported that more Veterans are checking in with them now compared to before PCI's launch. 
 1. The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased.
+  1. LIKELY TRUE: MSAs stated that they liked the shift to VSE-GUI, because it is similar to VetLink and they are utilizing fewer software systems.
 1. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
+  1. LIKELY FALSE: While staff often help troubleshoot; they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
 1. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended.
+  1. MAYBE TRUE: Most communication is frictionless between MSAs and clinicians (particuarly nursing) when VSE-CS is functioning. However, they have been much frustration from staff, because VSE-CS hasn't been functioning properly. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating and missing accurate information.
 1. MSAs provide Spanish translation support in an ad-hoc fashion to Veterans/caregivers when needed.
-MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter.
+  1. MAYBE TRUE FOR A LIMITED POPULATION. Staff mentioned some interactions with bilingual Veterans and caregivers, but didn't note this affecting check-in in any way. However, more information should be gathered to validate.
+1. Staff will be able to enumerate which PCI data they want to review within reports.
+  1. DEFINITELY TRUE. The Chief, Administrative Office and MSA Supervisor are all interested in check-in reports. There are interested in reviewing data on if PCI is working, numbers by division, percentage of pre-check-in users, and more.
+1. MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter.
+  1. LIKELY TRUE: Most MSAs commented that adding travel pay to check-in would be a good thing for Veterans.
 1. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
+  1. UNKNOWN. We were not able to talk to travel clerks during this trip.
 
 # Key Findings
 
