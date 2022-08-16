@@ -57,7 +57,7 @@ body:
     attributes:
       label: PRA Approval
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
     validations:
       required: true
