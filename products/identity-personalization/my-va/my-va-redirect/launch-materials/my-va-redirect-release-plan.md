@@ -37,23 +37,23 @@
 - Launch go/no-go ticket: [#44648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44648)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/launch-materials/my-va-redirect-launch-go-no-go-checklist.md)
 
-**Desired date range:** 08/22/2022 - 09/05/2022
+**Desired date range:** 08/29/2022 - 09/12/2022
 
 **Phased rollout:** 
-- 25% of users (1 week), Dates: week of 08/22 [(#42876)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876)
-- 50% of users (1 week), Dates: week of 08/29 [(#42880)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880)
-- 100% of users: week of 09/05 [(#42881)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881)
+- 25% of users (1 week), Dates: week of 08/29 [(#42876)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876)
+- 50% of users (1 week), Dates: week of 09/06 [(#42880)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880)
+- 100% of users: week of 09/12 [(#42881)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-_Link to analytics_
+[Success Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#measuring-success)
 
 ## Go Live!
 
 ### Planning:
-- _Desired date for 25%: 08/22/2022_
+- _Desired date for 25%: 08/29/2022_
 - Actual date for 25%: mm/dd/yyyy
 
-- _Desired date for 100%: 09/05/2022_
+- _Desired date for 100%: 09/12/2022_
 - Actual date for 100%: mm/dd/yyyy
 
 ### 1-week results:
