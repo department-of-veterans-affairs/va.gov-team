@@ -36,7 +36,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 1 hour.**
 - **In this session, there is no right or wrong.** I'm not looking to test you or your ability, or make sure you're doing something the right way. Chances are, if you've experienced something or done something a certain way, others have too! I really just want to learn from you/your experience. I will not be offended by any opinions you express, and I welcome your feedback.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop.**
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -141,4 +141,11 @@ If Yes: Thank you! I'll have our team send you an email with a little blurb that
 Great, well thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+If emergency occurs, follow protocol to initiate assistance:
+1. Stop research activity to attend to participant
+2. Contact Perigean over Slack immediately. Use the direct message set up at the start of the study so everyone is notified:
+- Included detailed description of scenario (e.g. the participant stopped responding and became listless, or the participant vocalized intent to harm)
+- Perigean will be responsible for calling 911 or the Veteran Crisis Line as appropriate
+When emergency is stabilized:
+1. Update the Slack channel with any relevant basic details
+2. Loop in your project point of contact (usually your OCTO lead)
