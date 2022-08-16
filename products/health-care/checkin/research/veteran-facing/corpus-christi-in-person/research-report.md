@@ -129,7 +129,7 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 27. The Chief, Administrative Officer, and MSA Supervisors are interested in check-in reports.
 
 ## Canceled Appointment Findings
-28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
+28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency, so Veterans sometimes show up for these canceled appointments.
 
 ## Travel Reimbursement Findings
 29. MSAs often help Veterans complete travel reimbursement via the kiosk and paper form.
@@ -456,7 +456,7 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 
 ### Canceled Appointment Findings
 
-#### 28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
+#### 28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency, so Veterans sometimes show up for these canceled appointments.
 - When a provider cancels on short notice, they notify MSA supervisors. A plan is then created, which could include coverage by another provider, rescheduling for a later date, or changing to a telemedicine appointment. Creating this plan can take up to an hour or two. Next, MSAs are notified, who start calling the patients.
   - If another provider is covering or the appointment is switching to telemedicine, MSAs verify if that is ok with the Veteran.
   - Often Veterans may already be in route, because of the rural population coming to Corpus Christi for care.
