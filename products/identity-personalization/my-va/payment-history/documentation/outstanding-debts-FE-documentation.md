@@ -28,11 +28,11 @@ Last updated [date]
 
 **Content sources**
 
-- Total debt amount is pulled from the [combined debt portal] (https://www.va.gov/manage-va-debt/your-debt) - does not include copays
+- Total debt amount is pulled from the [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
 
-- Number of outstanding debts is pulled from [combined debt portal] (https://www.va.gov/manage-va-debt/your-debt) - does not include copays
+- Number of outstanding debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
 
-- Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal] (https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
+- Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
 
 ---
 
@@ -61,11 +61,11 @@ Due by [date]
 
 **Content sources**
 
-- Total copay amount is pulled from the [combined debt portal copay balances page] (https://www.va.gov/manage-va-debt/summary/copay-balances).
+- Total copay amount is pulled from the [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
 
-- Number of copay bills is pulled from [combined debt portal copay balances page] (https://www.va.gov/manage-va-debt/summary/copay-balances). This should be plural if there is more than one copay; singular if there is only one.
+- Number of copay bills is pulled from [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances). This should be plural if there is more than one copay; singular if there is only one.
 
-- Due by date should be the soonest date that any outstanding copay bill is due in the [combined debt portal copay balances page] (https://www.va.gov/manage-va-debt/summary/copay-balances).
+- Due by date should be the soonest date that any outstanding copay bill is due in the [combined debt portal copay balances page](https://www.va.gov/manage-va-debt/summary/copay-balances).
 
 ---
 
@@ -91,7 +91,7 @@ You have no outstanding debts or copay bills.
 
 - If a user has no copays or debts in the debt portal or all of their copays and debts equal 0.
 
-[Learn about VA debt] (https://www.va.gov/resources/va-debt-management/)
+[Learn about VA debt](https://www.va.gov/resources/va-debt-management/)
 
 
 
