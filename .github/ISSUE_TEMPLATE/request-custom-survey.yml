@@ -1,21 +1,15 @@
 name: Request Custom Survey
-description: Use this template to request adding a custom Medallia Survey to your product pages(s). 
+description: Use this template to request adding a custom Medallia Survey to your product pages(s)
 title: "Request Custom Survey: [survey-name]"
-labels: ['VSP-contact-center']
-assignees:
+labels: [ "VSP-contact-center" ]
   - jwoodman5
 body:
   - type: markdown
     attributes:
-      value: |
+    value: |
         **
         ## What this form is for
         Use this template to request adding a custom Medallia Survey to your product pages(s). Standard Feedback and Satisfaction surveys are automatically added to all VA.gov pages (with few exceptions). 
-  - type: checkboxes
-  - type: markdown
-    attributes:
-      value: |
-      
  - type: dropdown
    id: survey-type-requested
    attributes:
@@ -24,7 +18,7 @@ body:
       - Feedback
       - Satisfaction
     validations:
-      required: true      
+      required: true
  - type: input
    id: product-name
    attributes:
@@ -32,7 +26,7 @@ body:
     description: Please provide the name(s) of your product(s).
     placeholder: Facilities Locator
     validations:
-      required: true    
+      required: true
  - type: textarea
    id: product-description
    attributes:
@@ -40,7 +34,7 @@ body:
     description: Please provide a high level description (one or two sentences) of your product(s).
     placeholder: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus pellentesque mauris, ac viverra odio. Vivamus ultricies iaculis mattis.
     validations:
-      required: true 
+      required: true
  - type: textarea
    id: product-urls
    attributes:
@@ -55,7 +49,7 @@ body:
     label: Launch Date
     description: Please provide the launch or rollout date of your product(s). If already live, please select today’s date.
     validations:
-      required: true  
+      required: true
  - type: checkboxes
    id: pra-approval
    attributes:
@@ -64,4 +58,4 @@ body:
       - label: "Yes"
       - label: "No"
     validations:
-      required: true   
+      required: true
