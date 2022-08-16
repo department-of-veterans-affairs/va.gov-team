@@ -454,12 +454,94 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 - **Recommendation**
   - Share this information with the training team.
 
+### PCI Reporting Findings
+
+#### 27. The Chief, Administrative Officer, and MSA Supervisors are interested in check-in reports.
+- All of these roles are familiar with PowerBI dashboards.
+- They are interested following items within reports:
+  - Is PCI working or not?
+  - PCI numbers by division, such as Corpus Christi, and not just VISN or facility
+  - Being able to see more than one clinic at a time
+  - Percentage of pre-check-in users
+  - Which employee checks the Veteran in, so they can see if one desk is busier than another.
+  - Age groups of success PCI check-ins, so they know who to help educate.
+- **Recommendation**
+  - Share these findings with the CHIP team.
+
+### Canceled Appointment Findings
+
+#### 28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
+- When a provider cancels on short notice, they notify MSA supervisors. A plan is then created, which could include coverage by another provider, rescheduling for a later date, or changing to a telemedicine appointment. Creating this plan can take up to an hour or two. Next, MSAs are notified, who start calling the patients.
+  - If another provider is covering or the appointment is switching to telemedicine, MSAs verify if that is ok with the Veteran.
+  - Often Veterans may already be in route, because of the rural population coming to Corpus Christi for care.
+- When cancellations occur well in advance, VA make two phone call attempts, then send a letter to the Veteran notifying them of the cancellation. One MSA mentioned VeText sends out cancellations notices.
+- **Recommendation**
+  - Explore denoting canceled appointments more within the PCI interface.
+
+### Travel Reimbursement Findings
+
+#### 29. MSAs often help Veterans complete travel reimbursement via the kiosk and paper form.
+- MSAs help Veterans with the kiosk and paper form.
+  - At these facilities, Veterans can file for travel reimbursement during check-in on the kiosk. However, MSAs only assist Veterans with filing after their appointment (not prior).
+  - Sometimes MSAs have to fill out the paper form for Veterans. The Veterans just sign and date.
+- MSAs can answer most questions when a Veteran is filing, but they direct Veterans to the travel office for issues, such as not receiving page after filing or wanting to file over 30 days past the appointment date.
+- If an Veteran mistakenly travels for a canceled appointment, they may receive reimbursement for one-way of their travel. (We need to confirm this with the travel office)
+- **Recommendation**
+  - Adding travel reimbursement to PCI would decrease MSAs workload.
+
+### Translation Findings
+
+#### 30. Staff mentioned some interactions with bilingual Veterans and caregivers, but didn’t note this affecting check-in in any way.
+- We also intercepted one bilingual Veteran, who completed check-in.
+- **Recommendation**
+  - Run a remote research study to specifically talk to bilingual Veterans to learn more about their needs, since we didn’t uncover a lot within this study.
 
 # Recommendations
 
-**??**
+## Insights into Usage Numbers
+1. Share with the training team that education initiatives, poster placement, and facility appointment volume might be contributing factors to Corpus Christi’s higher usage numbers, so they can pass this information along to the field.
 
-1. ??
+## Check-in Findings
+2. Staff should continue to offer PCI as an option and educate Veterans, but not make PCI required.
+3. Look into other workflows or products to expand the check-in ecosystem, such as digital check-in with a VA owned device (laptop or iPad).
+4. Having helpers assist Veterans through the PCI experience, particularly their first time, is very important. Pass this information along to the training team, so they can share it with the field.
+5. Reimagine the text portion of the workflow in one or more of the following ways:
+  -  Notify Veterans better that there are more steps.
+  -  Don’t make Veterans start the workflow by creating a text or scanning  the QR code. Instead, push a check-in notification to Veterans when they can check-in (30 minutes prior to their appt).
+  -  Spend more time educating Veterans about the process.
+6. Get rid of the kiosks completely or create a new VA-owned device solution for check-in.
+7. Share with training the impacts of poster placement on kiosk usage. Possible create a sticker or something else to place on the kiosks stating that check-in isn’t available on them.
+8. Re-evaluate adding editing and reviewing insurance within the PCI experience, so Veterans aren’t redirected to check-in with a staff member as often.
+9. Revisit adding or changing information about what appointment types are available in PCI within marketing materials.
+10. Pushing check-in links to Veterans 30 minutes prior to an appointment would make not understanding what appointment types are available in PCI a non-issue.
+11. Revisit check-in status content within the application.
+12. Continue looking into ways to improve load time.
+13. Explore a further simplified header and footer to reduce Veterans leaving workflows like check-in.
+14. Encourage all staff (nurses, volunteers, MSAs, etc.) to collaboratively educate Veterans about check-in.
+15. Revisit staff education about the available marketing materials.
+16. Continue to iterate on the marketing strategy.
+17. Evaluate feature requests (Key Finding #15) for future feature development, particularly the handling of additional appointment types.
+
+## Pre-check-in Findings
+18. Brainstorm ways to resolve the confusion between pre-check-in and day of check-in.
+19. Look into possibly renaming the pre-check-in and day of check-in  products.
+
+## VSE-GUI and VSE-CS Findings
+20. Share all findings and information with VSE development team.
+21. Take the timing of when nursing finds pre-visit summary information valuable into account when exploring health questionnaires on VA.gov.
+22. Share with the training team that the training timeline and support on the first few days did not meet staff expectations.
+
+## PCI Reporting Findings
+23. Share with the CHIP team what roles are interested in check-in reports as well as what data they are interested in reviewing.
+
+## Canceled Appointment Findings
+24. Explore denoting canceled appointments more within the PCI interface.
+
+## Travel Reimbursement Findings
+25. Adding travel reimbursement to PCI would decrease MSAs workload.
+
+## Translation Findings
+26. Run a remote research study to specifically talk to bilingual Veterans to learn more about their needs, since we didn’t uncover a lot within this study.
 
 # Appendix (Need to update below here)
 
