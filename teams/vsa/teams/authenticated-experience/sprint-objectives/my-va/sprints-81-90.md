@@ -13,9 +13,95 @@
 
 ## Sprint 81 (8/24 - 9/6) 
 
+### My VA redirect
+
+LAUNCH!!
+
+- Launch go/no-go
+- Launch to 25%
+- Launch to 50%
+- Launch to 100%
+- Monitor analytics through launch
+
+### On-site notifications
+
+**PM**
+
+- Staging review
+
+**Design**
+
+- Recruit for UAT
+- Run UAT
+
+### Payments V2
+
+**PM**
+
+- Support contact center guide updates
+- QA request
+
+**Design**
+
+- Contact center guide updates
+
+**FE**
+
+- Begin FE build 
+
+### My VA audit
+
+If needed/if time:
+
+**Design**
+
+- Finish design for Claim status & health care sections 
+
 ## Sprint 82 (9/7 - 9/20)
 
+### My VA redirect
+
+- Update documentation
+
+### On-site notifications
+
+Launch dates are dependent on whether notifications are sent and if we have enough data to move forward:
+
+- Launch go/no-go
+- Launch to 25%
+- Launch to 50%
+- Monitor analytics through launch
+
+### Payments V2
+
+**PM**
+
+- QA go/no-go
+- Analytics request
+- Release plan
+
+**Design**
+
+- UAT planning
+
+**FE**
+
+- Finish FE build
+
+### My VA audit
+
+**Design**
+
+- Nametag and Apply for Benefits sections
+
 ## Sprint 83 (9/21 - 10/4)
+
+### On-site notifications
+
+Launch dates are dependent on whether notifications are sent and if we have enough data to move forward:
+
+- Launch to 100%
+- Monitor analytics through launch
 
 ## Sprint 84 (10/5 - 10/18)
 
