@@ -13,6 +13,59 @@
 
 ## Sprint 81 (8/24 - 9/6) 
 
+### Bad address indicator
+
+**PM**
+
+- Prep for staging & privacy reviews
+- Support contact center guide updates
+
+**QA**
+
+- Hold QA
+
+**Design - Christina**
+
+- Contact center guide update
+- UAT prep and planning
+
+### 1095B work
+
+**PM**
+
+- Coordinate design intent
+
+**Design - Liz**
+
+- Send design & content to 1095B team for legal review
+- Design intent
+- Updates from stakeholder feedback, if possible (**Note**: My guess is this process will take a while)
+
+### Forms system
+
+**FE**
+
+- Updates as needed
+
+### Documentation
+
+**Design - Christina**
+
+- Personal information documentation
+
+**Design - Liz**
+
+- Military information documentation
+
+**FE** 
+
+- Personal information documentation
+
+**BE**
+
+- Personal information documentation
+- Military information documentation, if still needed
+
 ## Sprint 82 (9/7 - 9/20)
 
 ## Sprint 83 (9/21 - 10/4)
