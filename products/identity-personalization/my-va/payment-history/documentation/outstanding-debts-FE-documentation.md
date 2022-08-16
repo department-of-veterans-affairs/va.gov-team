@@ -103,6 +103,6 @@ You have no outstanding debts or copay bills.
 - Display “Learn about VA debt” in the link list
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Kv2kw8n)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/PGzVM2L)
 
