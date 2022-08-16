@@ -24,6 +24,8 @@ LAUNCH!! Needs to happen after the sign-in testing happening on 8/25:
 
 ### On-site notifications
 
+**Make sure VANotify turns off production after UAT is complete**.
+
 **PM**
 
 - Staging review
@@ -31,6 +33,8 @@ LAUNCH!! Needs to happen after the sign-in testing happening on 8/25:
 **Design**
 
 - Recruit for UAT
+- Get VA Profile IDs from VA Profile
+  - Potentially CC the participant with this request so it is clear the veteran is consenting to this
 - Run UAT
 
 ### Payments V2
