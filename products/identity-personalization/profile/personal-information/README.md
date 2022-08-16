@@ -1,29 +1,24 @@
 # Product outline: Personal information in the VA.gov profile
 
-Last Updated: July 1, 2022
+Last Updated: August 15, 2022
 
-### Communications
+## Table of Contents
 
-- **Github labels**: vsa-authenticated-exp
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-
-### Roles  
-  
-[This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
-
----
-
-### Table of Contents
-
+- [POCs](#pocs)
 - [Overview](#overview)
 - [User problem statements](#user-problem-statements)
-- [Measuring success](#measuring-success)
 - [Projects](#projects)
-- [How to access and test](#how-to-access-and-test)
+- [Analytics](#analytics)
+- [Feature Overview](#feature-overview)
 - [Backend](#backend)
-- [Design](#design--ux)
+- [Frontend](#frontend)
+- [Design and UX](#design--ux)
 
----
+## POCs
+
+- **Github labels**: vsa-authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)  
+- [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
 ## Overview
 
@@ -42,22 +37,32 @@ Currently, we show:
 - As a Veteran, I want to be able to let VA staff know how to address me.
 - As a Veteran, I want to be able to let the VA know my gender identity.
 
-## Measuring success
+### User Goals
+As a user, I want to be able to:
 
-- [Personal information Google Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
+- View the personal information the VA has on file for me.
+- Update my personal information as it changes.
+- Update my personal information in one place and have it update everywhere at the VA.
 
 ## Projects
 
 - [Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
 
-## How to Access and Test
+## Analytics
 
-[Personal information staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-information.md)
+- [Personal information Google Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 
-To access the personal information section of the profile in staging:
+## Feature Overview
 
-1. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
-2. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
+### What to know about this feature
+- Personal information currently lives within the [VA.gov profile](https://staging.va.gov/?next=%2Fprofile%2Fdirect-deposit)
+- This feature allows users to complete the following core tasks:
+  - Add and edit their Preferred name
+  - Add and edit their Gender identity
+- To access this feature in the profile, users need to login to VA.gov with an identity-verified (LOA3) account.
+- Personal information integrates through two different services:
+  - Full name and date of birth come from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
+  - Preferred name and gender identity come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
 
 ## Backend
 [Backend technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
@@ -87,7 +92,22 @@ Examples for each of the allowed accents:
 | Tilde | ã | Nuñez |
 | Diaeresis | ä | Noël |
 
+### How to Access and Test
+
+[Personal information staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-information.md)
+
+To access the personal information section of the profile in staging:
+
+1. Log in with any [staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
+2. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.
+
+## Frontend
+
 ## Design & UX
 
 - [Personal information sketch files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
-- Use case documentation needed.
+- Use cases
+
+### Flow diagrams
+
+- [High-level add/edit flow with screenshots](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/8E8C2FD5-BE91-45C2-BD5F-D71E27903187/canvas)
