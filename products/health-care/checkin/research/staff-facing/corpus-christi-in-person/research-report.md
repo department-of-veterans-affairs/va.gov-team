@@ -117,7 +117,7 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 4. Many Veterans prefer checking in with MSAs and that is okay.
 5. A portion of the staff believe staff and Veteran acceptance of PCI will just take time.
 6. Negative first-time experiences greatly impact a Veteran’s desire to try PCI again.
-7. Most of Veteran’s confusion occurred during the texting portion of the workflow.
+7. Most of Veteran’s confusion occurred during the texting and QR code scanning portion of the workflow.
 8. Continued kiosk usage confuses Veterans. They aren’t sure when and why to utilize kiosks or not.
 9. The number of  PCI scenarios that direct Veterans to “see staff” cause Veterans frustration. This also causes staff to spend a lot of time troubleshooting.
 10. Veterans aren’t sure what appointment types can use PCI to check-in.
@@ -146,7 +146,7 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 27. The Chief, Administrative Officer, and MSA Supervisors are interested in check-in reports.
 
 ## Canceled Appointment Findings
-28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
+28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency, so Veterans sometimes show up for these canceled appointments.
 
 ## Travel Reimbursement Findings
 29. MSAs often help Veterans complete travel reimbursement via the kiosk and paper form.
@@ -243,10 +243,11 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 -**Recommendation**
   - Having helpers assist Veterans through the PCI experience, particularly their first time, is very important. Pass this information along to the training team, so they can share it with the field.
 
-#### 7. Most of Veteran’s confusion occurred during the texting portion of the workflow.
+#### 7. Most of Veteran’s confusion occurred during the texting and QR code scanning portion of the workflow.
 - Veterans experienced problems understanding how to create a new text message to a new number; some only had experience replying to message threads already created.
 - Others had difficulty understanding and scanning the QR code.
-- One Veteran thought they were checked in immediately after texting “check in.”
+- Some Veterans did not carefully read the poster and text messages.
+  - One Veteran thought they were checked in immediately after texting “check in.”
 - These confusion points were noted within both the staff research and from the Veteran observations.
 - Observed QR code complications:
   - One Veteran had to update their QR code scanner, then deemed the process as too complicated.
@@ -401,8 +402,10 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 #### 21. Nursing is overly notified about every Veteran status change in VSE-CS.
 - All nurses interviewed shared this sentiment.
 - In addition to being notified of changes that aren’t relevant, the pop-up notifications don’t have enough valuable information for the nurses to make decisions.
-  - It is difficult for them to connect the notifications to the appropriate Veteran fields in the list to get more information.
+  - Nurses are very interested in being notified when check-in is complete.
+  - It is difficult for them to connect the notifications to the appropriate Veteran fields in the list to get more information, because the notifications lack such information as name, clinic, etc.
 - All nurses interviewed also commented that they miss the auditory alert from VetLink; it got their attention for appropriate notifications
+
 - **Recommendation**
   - Share this information with VSE development team.
 
@@ -470,7 +473,7 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 
 ### Canceled Appointment Findings
 
-#### 28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
+#### 28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency, so Veterans sometimes show up for these canceled appointments.
 - When a provider cancels on short notice, they notify MSA supervisors. A plan is then created, which could include coverage by another provider, rescheduling for a later date, or changing to a telemedicine appointment. Creating this plan can take up to an hour or two. Next, MSAs are notified, who start calling the patients.
   - If another provider is covering or the appointment is switching to telemedicine, MSAs verify if that is ok with the Veteran.
   - Often Veterans may already be in route, because of the rural population coming to Corpus Christi for care.
