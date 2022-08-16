@@ -385,8 +385,10 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 #### 21. Nursing is overly notified about every Veteran status change in VSE-CS.
 - All nurses interviewed shared this sentiment.
 - In addition to being notified of changes that aren’t relevant, the pop-up notifications don’t have enough valuable information for the nurses to make decisions.
-  - It is difficult for them to connect the notifications to the appropriate Veteran fields in the list to get more information.
+  - Nurses are very interested in being notified when check-in is complete.
+  - It is difficult for them to connect the notifications to the appropriate Veteran fields in the list to get more information, because the notifications lack such information as name, clinic, etc.
 - All nurses interviewed also commented that they miss the auditory alert from VetLink; it got their attention for appropriate notifications
+
 - **Recommendation**
   - Share this information with VSE development team.
 
