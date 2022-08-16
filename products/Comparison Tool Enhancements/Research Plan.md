@@ -14,16 +14,23 @@ Which OCTO objectives does this research support?
 * Platform users can build and deploy high-quality products for Veterans
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Where does your product fit into the Veteran journey?
+* Aquiring the appropriate education, new skills, and credentials
+* Finding the right job
+* Taking care of my family
 
 ## Research Goals	
 What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Preliminary research to understand user preferences in terms of site navigation, hierarchy of information, and functionality exceptations
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+* Understand what designs across the Comparison Tool work best for the user and reduce burden/cognitive load, while also being cognizant of accessibility concerns
+* Understand what content is most important to a user when deciding on their best suited school
+
+AND _subsequently use all of these findings to iterate on current designs and let user research drive the rest of the design process_ 
+
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
