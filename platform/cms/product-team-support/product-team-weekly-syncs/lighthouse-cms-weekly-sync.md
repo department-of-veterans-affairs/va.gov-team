@@ -45,8 +45,8 @@
    * There was an open text field associated with hours, but was removed becuase of abuse
    * VAST 2.0 is in the works, no timeline
    * How to get requirements/requests to VAST team as they develop 2.0?
-   * We need to solve in the short term 
-   * James - wed'd be interested in holding in our API, how do we incorporate? 
+   * If this happhens it won't be anytimg soon, we need to solve in the short term 
+     * James - wed'd be interested in holding in our API, how do we incorporate? 
    * There are 2 checkboxes for editors to indicate limited qualification around hours: Nonstandard and Administrative  
    * Rhonda brought up previous issue: operationalhoursspecialinstructions , sent email
 * For v1 LH will be using CMS for source of naming conventions - Name of Service
