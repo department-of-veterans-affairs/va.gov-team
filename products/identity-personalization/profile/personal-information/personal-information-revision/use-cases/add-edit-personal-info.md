@@ -11,22 +11,22 @@
 ### Adding information
 - For each section, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information].
 - Clicking the edit button will put the section into edit mode and reveal the necessary fields.
-- Review mobile phone in [this mock-up] to see prompt to add missing information
+- Review Preferred name in [this mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) to see prompt to add missing information
 
 ### Editing information
 Clicking the edit button will put the section into edit mode and reveal the necessary fields.
-- [Desktop mock-up, edit mode]
+- [Desktop mock-up, edit mode](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxpjY)
 - [Mobile mock-up, editing]
 
 ### Saving information
 - Changes are saved once the user presses the “update” button
 - Once the form is successfully saved, the user is returned to “read” mode and a background-only success alert should display above the edit button
-- [Desktop mock-up, save success]
+- [Desktop mock-up, save success](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlx9pv3)
 - [Mobile mock-up, save success]
 
 #### Save error: information can’t be saved
-* If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
-* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Omrvwym))
+* If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/jgx5LD9))
+* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up])
 
 ### Removing information
 Information cannot be removed for these sections.
@@ -35,8 +35,8 @@ Information cannot be removed for these sections.
 * If a user has made changes to any form field, and hits cancel, they’ll first see the field validation message. This is a limitation of the form system.
 * If they hit cancel a second time, or hit cancel before editing any fields they’ll be presented with a modal asking them to confirm they want to leave edit mode.
 * Once they cancel, they’ll be returned to read mode.
-- [Desktop mock-up, cancel modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/v8kxv7J)
-- [Mobile mock-up, cancel modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/pamAp4p)
+- [Desktop mock-up, cancel modal](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8A2rMe)
+- [Mobile mock-up, cancel modal]
 
 ## Codes
 N/A
