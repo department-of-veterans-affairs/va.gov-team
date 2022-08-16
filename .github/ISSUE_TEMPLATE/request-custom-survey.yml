@@ -18,39 +18,39 @@ body:
       options:
         - Feedback
         - Satisfaction
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: product-name
     attributes:
       label: Product Name(s)
       description: Please provide the name(s) of your product(s).
       placeholder: Facilities Locator
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: product-description
     attributes:
       label: Product Description
       description: Please provide a high level description (one or two sentences) of your product(s).
       placeholder: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus pellentesque mauris, ac viverra odio. Vivamus ultricies iaculis mattis.
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: product-urls
     attributes:
       label: Product URL(s)
       description: Please provide the root directory(ies) for your product(s)
       placeholder: va.gov/find-locations, va.gov/./locations
-      validations:
-        required: true
+    validations:
+      required: true
   - type: date
     id: launch-date
     attributes:
       label: Launch Date
       description: Please provide the launch or rollout date of your product(s). If already live, please select today’s date.
-      validations:
-        required: true
+    validations:
+      required: true
   - type: checkboxes
     id: pra-approval
     attributes:
@@ -58,5 +58,5 @@ body:
       options:
         - label: "Yes"
         - label: "No"
-      validations:
-        required: true
+    validations:
+      required: true
