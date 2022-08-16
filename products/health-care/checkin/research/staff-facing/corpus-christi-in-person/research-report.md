@@ -183,11 +183,10 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 
 #### 2. For those Veterans/caregivers who attempted PCI, 43.75% (7 out of 16) successfully completed PCI.
 - Success = Not having to talk to MSA to check-in.
-  - We did not count the following scenarios as success completions, but they are part of how the system is designed:
+  - We did not count the following scenarios as success completions due to Veteran frustration about having to talk to the MSA after attempting PCI, but they are part of how the system is designed:
     - 3 needed to review their insurance.
     - 3 were checking in for a clinic that wasn’t PCI enabled/received a “no appt” error.
     - 1 needed to update their next of kin.
-      - Even though these other scenarios were as designed, we decided not to include them due to Veteran frustration about having to talk to the MSA after attempted PCI.
   - The two other failures were caused by a time-out error and frustration scanning the QR code.
 - 63% (26 out of 41) of Veterans who we intercepted were at the facility to check-in for an appointment.
   - 61.5% (16 out of 26) of Veterans checking in wanted to try PCI.
@@ -212,7 +211,7 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
   - They believe that it needs to be simpler, such as a 2-3 steps process that has less information on a page.
     - It is difficult to review everything on such a small screen.
 
-*Not statistically significant, but included anyway due to the overwhelming negative responses from the small sample that we were able to gather.*
+* *Not statistically significant, but included anyway due to the overwhelming negative responses from the small sample that we were able to gather.*
 
 **About NPS (information taken from [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)):**
 - NPS measures customer loyalty and satisfaction. It is evaluated by asking one question: On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile check-in to another clinic? Responses are broken into categories of Detractors (Score 0-6), Passives/Neutrals (Score 7-8), and Promoters (Score 9-10). Then, the Promoter percentage is subtracted by the Detractor percentage to get a final NPS number. Final NPS numbers can range from -100 to 100. Evaluating if the final score is good or bad really depends upon the industry as each has slightly different averages, but it is generally deemed to be a bad score if it is less than zero.
