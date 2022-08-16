@@ -218,6 +218,19 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 - Check-in will use this metric to evaluate the the product over time. It is never to be used by itself; it should accompany qualitative research.
 - Check-in has only collected a small sample of NPS to date, so we aren’t ready to make comparisons over time. We also excluded the Veteran NPS scores that we were able to collect at Corpus Christi, because we were only able to collect 4.
 
+#### 4. Many Veterans prefer checking in with MSAs and that is okay.
+- 61.5% (16 out of 26) of Veterans checking in for an appointment wanted to try PCI.
+  - Many Veterans just wanted to talk to the MSA.
+  - Some immediately went over to the kiosk to attempt check-in.
+- Numerous staff members have been receiving pushback from Veterans on trying PCI, because they: 
+  - Don’t have a smartphone
+  - Prefer a larger screen, similar to the kiosk
+  - Worry about incurring charges on their phone.
+- Anecdotally, staff believe older Veterans have more complaints about PCI and come to them with more questions.
+  - They think younger Veterans more often utilize the system.
+- This findings has existed within numerous check-in research studies, including [initial discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md), St. Louis-Veteran, St. Louis-Staff, Bay Pines-Veteran, and Bay Pines-Staff.
+
+
 
 # Recommendations
 
