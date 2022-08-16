@@ -107,7 +107,7 @@ I'm curious to hear more about _________ (eligibility - use participant's term i
 19. Where did you go to learn more?
 
 ## For cohort 3 
-### (Get a detailed story of the change and aftermath)
+### Get a detailed story of the change and aftermath
 For the rest of our conversation we're going to talk about _______ (the change) in the context of your VA health care benefits. To reiterate, I do not care at all whether or not a change was reported. I don't really even know the rules around reporting a change. I'm just here to learn about how you think about the change in context of your benefits.
 4. To start, after ______ (the change), what types of logistical tasks were you thinking about that you'd have to deal with as part of this change?
 5. Did your VA health care benefits come up in your mind as a thing you'd want to deal with after this change occurred?
