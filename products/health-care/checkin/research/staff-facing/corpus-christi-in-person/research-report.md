@@ -347,9 +347,112 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 
 ### Pre-check-in Findings
 
-#### 
+#### 16. Many staff and Veterans are not aware of pre-check-in or confused about its difference compared to checking in on the day of an appointment.
+- 13 staff members mentioned that Veterans don’t know the difference between pre-check-in and day of the appointment check-in. 
+  - Most often Veterans assume that they are completely checked in, because they completed pre-check-in.
+- Upon interviewing staff, it became apparent that a subset also didn’t understand the difference or wasn’t aware of pre-check-in at all.
+- This finding was also part of the [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md) and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) study, but it conflicted with the [St. Louis-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md) study. Within the St. Louis-Staff study, staff said that when Veterans complete pre-check-in, it creates a more seamless check-in experience on the day of the appointment. The [St. Louis-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md) study contained a similar research question, but it’s findings were inconclusive.
+- **Recommendation**
+  - Brainstorm ways to resolve this confusion.
+  - Look into possibly renaming the products.
 
+#### 17. Staff gave pre-check-in a Net Promoter Score (NPS) of -60*, which is bad.
+- 10 staff members evaluated pre-check-in via NPS:
+  - Promoters: 20%
+  - Neutrals/Passives: 0%
+  - Detractors: 80%
+- 2 additional staff members said they “didn’t have any opinion.”
+- Reasons staff gave for their ratings:
+  - They didn’t like the confusion between pre-check-in and check-in; however, they liked the concept of reviewing information prior to an appointment.
 
+*\*Not statistically significant, but included anyway due to the overwhelming negative responses from the small sample that we were able to gather.*
+
+**About NPS (information taken from [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)):**
+- NPS measures customer loyalty and satisfaction. It is evaluated by asking one question: On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile check-in to another clinic? Responses are broken into categories of Detractors (Score 0-6), Passives/Neutrals (Score 7-8), and Promoters (Score 9-10). Then, the Promoter percentage is subtracted by the Detractor percentage to get a final NPS number. Final NPS numbers can range from -100 to 100. Evaluating if the final score is good or bad really depends upon the industry as each has slightly different averages, but it is generally deemed to be a bad score if it is less than zero.
+- Check-in will use this metric to evaluate the the product over time. It is never to be used by itself; it should accompany qualitative research.
+- Check-in has only collected a small sample of NPS to date, so we aren’t ready to make comparisons over time.
+
+### VSE-GUI and VSE-CS Findings: From nursing and MSAs
+
+#### 18. MSAs who transitioned from VetLink to VSE-GUI generally approve of the shift.
+- They liked the transition, because it is similar to VetLink and they are utilizing fewer software systems.
+- **“It is good.” - MSA**
+- This approval of the software shift was a change over past on-site studies (such as [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person)) where staff expressed frustration that the amount of applications they use has increased.
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 19. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating and missing accurate information, which is causing more work for nursing.
+- 100% of nursing staff interviewed shared this viewpoint.
+- Staff are creating workarounds, because the check-in lists aren’t updating/refreshing fast enough or accurately enough.
+  - Nursing and some MSAs have implemented an unofficial policy that they must round (periodically go) to the waiting room and call out every Veteran name on the schedule, whether the Veterans looks like they are checked in within VSE-CS or not.
+- MSAs and nurses switch over to communicating in Teams when problems arise.
+- This finding was also part of the [St. Louis-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md), [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md), and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) research study.
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 20. Veterans sometimes don’t check in for subsequent appointments in the day; as a result, nurses can’t tell if a Veteran is checked in or not due to their list permissions.
+- Nursing says that they used to be able to see if the Veteran had checked into another clinic, whether it was a clinic that they oversaw or not.
+  - This way, they knew the Veteran was at least in the building.
+- Even if nursing can see multiple appointments for a Veteran, they can’t tell which one the Veteran officially checked in for.
+- Nursing agreed that login is simpler now, but they perceive the system as timing out more often. If their lists need to be updated each time, then it is more extra work for them.
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 21. Nursing is overly notified about every Veteran status change in VSE-CS.
+- All nurses interviewed shared this sentiment.
+- In addition to being notified of changes that aren’t relevant, the pop-up notifications don’t have enough valuable information for the nurses to make decisions.
+  - It is difficult for them to connect the notifications to the appropriate Veteran fields in the list to get more information.
+- All nurses interviewed also commented that they miss the auditory alert from VetLink; it got their attention for appropriate notifications
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 22. Nursing wants to see certain behavioral flags within VSE-CS, because they affect how they prepare for an appointment and how they interact with a Veteran.
+- Some particular flags are interest are suicidal behavior, drug seeking behavior, and the need to have security alerted/with the Veteran.
+- Nurses commented that they utilized this VetLink feature and would like it in VSE-CS. 
+- This findings differs from our [St. Louis-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md) and [St. Louis-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md) findings. In St. Louis, staff had mixed opinions on whether patient record flags should exist in VSE-CS or CPRS. 
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 23. Nursing wants VSE-CS to change the customized list rules, display walk-in appointments, show last 4 of SSN, and improve notes.
+- Customized lists aren’t maintained upon time-out or log-off (if the default isn’t changes), which requires nurses to update their set up frequently.
+  - Nursing agreed that login is simpler now, but they perceive the system as timing out more often. If their lists need to be updated each time, then it is more extra work for them.
+- Non-scheduled appointment, such as vaccines, homelessness, and other walk-ins, don’t show up in the current lists. (MSAs also asked for this in VSE-GUI.)
+- Nurses use the last 4 of SSN for identification at the start of an appointment, but can’t view that information in VSE-CS.
+- Nursing wants to add/view a note about why the Veteran is there and to notify MSAs when a Veteran is a “No show.” 
+  - Upon notification of a “no show,” MSAs could write a note and maybe a letter could be automatically sent.
+- Staff previously requested last 4 of SSN and walk-in appointments during the [St. Louis-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md), [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md), and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) studies.
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 24. Specialty (non-primary care) nurses only find the pre-visit summary helpful when it is received prior to their pre-appointment phone call to the Veteran.
+- The speciality nurses, such as cardiology, tend to call the patient about a week before of their appointment. During this phone call, they cover a lot of the pre-visit summary areas and more. 
+- Additional pre-visit summary data suggestions:
+  - Knowing if the Veteran recently went to the ER
+  - Adding medications prescribed outside VA
+  - Showing recent labs
+  - Reviewing clinical reminders
+- The nurses mentioned that they would expect this patient generated data to appear in CPRS.
+- The nurses mention that some Veterans/caregivers already create and send their own pre-visit summary via secure messaging.
+- Nursing also mentioned the importance of having this information on the routing sheets on the day of the appointment.
+![RoutingSheet](https://user-images.githubusercontent.com/66287082/184970122-793e6bb0-ff69-473a-9e8e-6223bfa71a9e.jpg)
+- **Recommendation**
+  - Share this information with VSE development team.
+  - Take this into account when exploring health questionnaires on VA.gov.
+
+#### 25. Approximately half of the MSAs routinely use the pre-check-in complete, check-in started, and check-in complete statuses within VSE-GUI.
+- Those three statuses were only ones mentioned.
+- One MSA stated that pre-check-in complete gives them a clue about whether a Veteran may use their phone for check-in.
+- However, some MSAs mentioned that they only really look at statuses when their team has question, such as “is someone really not checked in?”
+- **Recommendation**
+  - Share this information with VSE development team.
+
+#### 26. The training timeline and support on the first few days did not meet staff expectations.
+- Approximately 20% of the interviewed staff felt that there was not enough time to prepare for the check-in changes. 
+  - Training occurred on the Friday before the Monday launch.
+- Some also commented that they had to submit IT tickets if something wasn’t working on the first day, which didn’t fit their expectations for support.
+  - We were not able to probe about what support model they would have preferred for the first day/week of rollout.
+- **Recommendation**
+  - Share this information with the training team.
 
 
 # Recommendations
