@@ -11,3 +11,4 @@ Date(s): July 19 and 20, 2022
 - [Veteran synthesis](https://app.zenhub.com/files/133843125/c38835c8-ab74-403a-afcc-6c537b3528d3/download)<br>
 - [Research findings (Markdown)]()
 - [Research report (PDF)]()
+- [Companion Staff Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/readme.md)
