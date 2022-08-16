@@ -15,13 +15,13 @@ Kristen McConnell [kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adho
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-report.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-report.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-report.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-report.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-report.md#who-we-talked-to)
 
 <br>
 
@@ -37,40 +37,31 @@ In addition, the Modernized Check-In Team is building off of the [beneficiary tr
 
 Specifically, we’re looking to accomplish the following: 
 
-- Evaluate the effectiveness of pre-check-in and check-in with MSAs
-- Better understand the percentage of Spanish speakers and if nuances exist within that population about patient check-in  
+- Evaluate the effectiveness of pre-check-in and check-in with Veterans
+- Observe the utilization of the Spanish version of check-in, evaluate accuracy annd quality of the translations
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
-- Understand how, if at all, MSAs are using VSE-CS
-- Understand what staff roles are interested in PCI reports as well as what data they are interested in reviewing
-- Gain insights on the process for staff needing to cancel appointments 
+- Evaluate effectiveness of check-in poster
+- Gain insights into product naming 
 - Gain insights on understanding the optimal experience for incorporating travel reimbursement into the check-in experience for Veterans 
-- Understand what information travel assistants use and how to review and approve reimbursement requests 
 
 # Research Questions
 
+- How often are Veterans using pre-check-in? 
+- Do Veterans assume they still have to do day-of check-in when pre-check-in is complete? 
 - What’s working and not working with pre-check-in and check-in? 
 - What changes could help improve the check-in process?  
+- What percentage of Veterans and/or caregivers (if any) do we observe using the Spanish translation toggle? Of those who do, what is their proficiency in English?
+- Was there anything difficult to understand or could be communicated more clearly with the Spanish version of check-in?   
 - How often are MSAs interacting with Veterans during the check-in process? 
 - Are MSAs checking in Veterans with VSE that need help versus requiring them to use mobile check in? 
-- What’s been the impact on MSA workload? 
 - How often are MSAs troubleshooting errors or clearing review flags?
-- How comfortable are MSAs troubleshooting errors or clearing review flags? 
 - What are the issues that MSAs are helping Veterans troubleshoot?  
-- What changes in MSA to clinician communication for check-in have changed?
-- What changes to check-in can help improve MSA to clinician communication for check-in?  
-- Are MSAs using VSE-CS? If so, how is it being used and why is it being used?  
 - How do Veterans feel about pre-check-in and check-in?
-- What's the percentage of Veterans that are bi-lingual and low English proficient Spanish speakers? 
-- What are some of the potential nuances of check-in that might be challenging for Spanish speakers to understand?  
-- What staff role are interested in PCI report?
-- What data do staff members want to review within PCI reports?
-- How frequently does staff need to cancel appointments? 
-- What's the process when staff needs to cancel an appointment? 
-- How do staff notify Veterans that their appointment was canceled?
-- How many days out do appointments typically get cancelled? 
+- Are Veterans able to use the check-in poster? 
+- What would Veterans call this process?
 - When do Veterans expect to complete a travel reimbursement claim in relation to their appointment? 
-- What information do travel asisstants use to review and approve reimbursement requests?
-- How do travel assistants use that information to review and approve a request?  
+- What steps should a Veteran have to complete for filing a travel reimbursement claim? 
+- What steps could be removed from the existing BTSSS process to make it easier for Veterans to file a claim? 
 
 # Methodology 
 
@@ -84,28 +75,20 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 
 # Hypotheses and Conclusions
 
-- The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed.
-  - LIKELY TRUE: It's likely that the speed of check-ins with VSE are quicker when contact information, emergency contact information and next of kin information is verified with pre-check-in. However, we did not collect enough information to validate. We did find out that pre-check-in and day of check-in are oftern cnfused.
-- MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
-  - DEFINITELY FALSE: Even though there is a portion of Veterans who do not need MSAs assistance when using PCI. MSAs spend a lot of time troubleshooting PCI for Veterans.
-- MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
-  - DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in.
-- MSAs will have shorter lines of Veterans waiting to be checked in.
-  - LIKELY FALSE: MSAs reported that more Veterans are checking in with them now compared to before PCI's launch. 
-- The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased.
-  - LIKELY TRUE: MSAs stated that they liked the shift to VSE-GUI, because it is similar to VetLink and they are utilizing fewer software systems.
-- MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-  - LIKELY FALSE: While staff often help troubleshoot; they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
-- MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended.
-  - MAYBE TRUE: Most communication is frictionless between MSAs and clinicians (particuarly nursing) when VSE-CS is functioning. However, they have been much frustration from staff, because VSE-CS hasn't been functioning properly. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating and missing accurate information.
-- MSAs provide Spanish translation support in an ad-hoc fashion to Veterans/caregivers when needed.
-  - MAYBE TRUE FOR A LIMITED POPULATION. Staff mentioned some interactions with bilingual Veterans and caregivers, but didn't note this affecting check-in in any way. However, more information should be gathered to validate.
-- Staff will be able to enumerate which PCI data they want to review within reports.
-  - DEFINITELY TRUE. The Chief, Administrative Office and MSA Supervisor are all interested in check-in reports. There are interested in reviewing data on if PCI is working, numbers by division, percentage of pre-check-in users, and more.
-- MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter.
-  - LIKELY TRUE: Most MSAs commented that adding travel pay to check-in would be a good thing for Veterans.
-- Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
-  - UNKNOWN. We were not able to talk to travel clerks during this trip.
+1. Veterans who use pre-check-in are able to complete the required steps. 
+2.  Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment. 
+3. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
+4. When presented with an opportunity to check in via Spanish, Veterans may choose to check in using their preferred language.
+5. Check-in was easy to understand and used plain language for Spanish speakers.  
+6. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
+7. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
+8. MSAs will have shorter lines of Veterans waiting to be checked in. 
+9. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
+10. Veterans will indicate that check-in does not affect their care experience. 
+11. Veterans are able to use the check-in poster without friction. 
+12. Veterans refer to the process as “check in” or “mobile check in.” 
+13. Veterans are called for their appointment once check-in is complete.  
+14. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
 
 # Key Findings
 ## Insights into Usage Numbers
@@ -545,13 +528,13 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 
 # Appendix
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/conversation-guide.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person/conversation-guide.md)
 - [Daily notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/notes/from-km.md)
 - [Staff synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658757780227/16fbb440905c5b2f2984df28898fb32dcc80a9b6?sender=u70b8b2930b03d3ef317d2520)
 - [Veteran synthesis](https://app.zenhub.com/files/133843125/c38835c8-ab74-403a-afcc-6c537b3528d3/download)
 - [Research report (PDF)]()
-- [Companion Veteran Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person)
+- [Companion Staff Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/readme.md)
 
 ## Who we talked to
 - 39 Veterans and 2 caregivers
