@@ -1,4 +1,4 @@
-# Check-in Research Plan for Appointment Information Hierarchy: Closed Card Sort
+# Check-in Research Plan for a Moderated Appointment Information Card Sort
 
 Date: August 16, 2022
 
@@ -43,7 +43,7 @@ This research plan maps to the following moment within the Veteran journey:
 
 
 ## Research Goals
-
+We have a variety of appointment data, such as clinic name, provider's name, type of care, location, address, that we could display to the Veteran within the check-in and pre-check-in experiences. Our goal for this study is to identify what 
 
 ### Research Questions
 
