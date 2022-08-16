@@ -15,12 +15,11 @@
 
 ### My VA redirect
 
-LAUNCH!!
+LAUNCH!! Needs to happen after the sign-in testing happening on 8/25:
 
 - Launch go/no-go
-- Launch to 25%
-- Launch to 50%
-- Launch to 100%
+- **Monday, 8/29**: Launch to 25%
+- **Tuesday, 9/6**: Launch to 50%
 - Monitor analytics through launch
 
 ### On-site notifications
@@ -61,6 +60,10 @@ If needed/if time:
 
 ### My VA redirect
 
+### My VA redirect
+
+- **Monday, 9/12**: Launch to 100%
+- Monitor analytics through launch
 - Update documentation
 
 ### On-site notifications
