@@ -55,6 +55,7 @@ Specifically, we’re looking to accomplish the following:
 - Better understand the percentage of Spanish speakers and if nuances exist within that population about patient check-in  
 - Identify strengths, pain points and opportunities for improvement within the check-in ecosystem 
 - Understand how, if at all, MSAs are using VSE-CS
+- Understand what staff roles are interested in PCI reports as well as what data they are interested in reviewing
 - Gain insights on the process for staff needing to cancel appointments 
 - Gain insights on understanding the optimal experience for incorporating travel reimbursement into the check-in experience for Veterans 
 - Understand what information travel assistants use and how to review and approve reimbursement requests 
@@ -75,6 +76,8 @@ Specifically, we’re looking to accomplish the following:
 - How do Veterans feel about pre-check-in and check-in?
 - What's the percentage of Veterans that are bi-lingual and low English proficient Spanish speakers? 
 - What are some of the potential nuances of check-in that might be challenging for Spanish speakers to understand?  
+- What staff role are interested in PCI report?
+- What data do staff members want to review within PCI reports?
 - How frequently does staff need to cancel appointments? 
 - What's the process when staff needs to cancel an appointment? 
 - How do staff notify Veterans that their appointment was canceled?
@@ -93,8 +96,9 @@ Specifically, we’re looking to accomplish the following:
 6. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE. 
 7. MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended. 
 8. MSAs provide Spanish translation support in an ad-hoc fashion to Veterans/caregivers when needed.
-9. MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter. 
-10. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
+9. Staff will be able to enumerate which PCI data they want to review within reports.
+10. MSAs will indicate that Veterans would prefer to file a travel reimbursement with their check-in versus a separate encounter. 
+11. Travel clerks will indicate that the workflow in the travel reimbursement prototypes are optimal for Veterans and that no required steps are missing. 
 
 ## Method
 
