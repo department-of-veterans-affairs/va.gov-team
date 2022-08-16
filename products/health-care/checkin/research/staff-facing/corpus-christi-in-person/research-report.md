@@ -9,7 +9,7 @@ Date: 08/16/2022
 
 Kristen McConnell [kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us), Ya-ching Tsao [yaching.tsao@civicactions.com](mailto:yaching.tsao@civicactions.com)
 
-[Research Report PDF]()
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/Corpus%20Christi%20Research%20Report.pdf)
 
 <br>
 
@@ -553,7 +553,7 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 - [Daily notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/notes/from-km.md)
 - [Staff synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658757780227/16fbb440905c5b2f2984df28898fb32dcc80a9b6?sender=u70b8b2930b03d3ef317d2520)
 - [Veteran synthesis](https://app.zenhub.com/files/133843125/c38835c8-ab74-403a-afcc-6c537b3528d3/download)
-- [Research report (PDF)]()
+- [Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/Corpus%20Christi%20Research%20Report.pdf)
 - [Companion Veteran Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person)
 
 ## Who we talked to
