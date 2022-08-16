@@ -30,11 +30,11 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Florence and I also have some colleagues on the line observing and taking notes. Today we're going to talk about applying for healthcare benefits.
+Thanks for joining us today! My name is Florence and I also have some colleagues on the line observing and taking notes. Today we're going to talk about VA health care benefits.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 1 hour.** 
+- **This entire session should take about 1 hour.**
 - **In this session, there is no right or wrong.** I'm not looking to test you or your ability, or make sure you're doing something the right way. Chances are, if you've experienced something or done something a certain way, others have too! I really just want to learn from you/your experience. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - X minutes
 
-Before we jump into talking about health care benefits, I have a few questions to get to know you a bit more. 
+Before we jump into talking about VA health care benefits, I have a few questions to get to know you a bit more. 
 
 1. Where do you live?
 2. Who do you live with?
@@ -59,22 +59,27 @@ Moderator is not expected to ask all questions as written below. These questions
 
 Great to know a little bit more about you! Let's now turn towards talking about health care benefits. 
 
-1. So just to start, when did you first apply for health care benefits?
-2. Is that the only time you applied for health care benefits?
+1. So just to start, do you currently receive VA health care benefits? 
+### If yes, ask 1a-1b. If no, skip to guide for cohort 1 and cohort 2.
+1a. When did you first apply for health care benefits?
+1b. Have you applied for VA health care benefits more than once?
+### If yes, ask 2a-2c. If no, skip to 3.
+2a. How many other times did you apply for health care benefits?
+2b. What was it that caused you to apply more than once?
+2c. When was the most recent time you applied?
+3. Since applying (that most recent time), have you experienced a change that might affect your benefits, such as number of dependents or amount of income?
+### If yes, ask 3a-3b. If no, skip ahead to guide for cohort 1 and cohort 2.
+3a. What exactly was the change?
+3b. When was that?
+### After 3b, skip ahead to guide for cohort 3
 
-### If not the only time applied for health care benefits:
-
-3a. How many other times did you apply for health care benefits?
-
-3b. What was it that caused you to apply more than once?
-
-3c. When was the most recent time you applied?
-
-### Rest of the interview is the same, regardless of first time or not applying for health care benefits:
-For the rest of our conversation we're going to talk about what that experience was like for you. 
-
-4. To start, when would you say you started first thinking about applying for VA health benefits? 
-5. Were you receiving other benefits at the time? Which benefits?
+## For cohort 1 and cohort 2
+### Cohort 1: Get a detailed story of the full application process
+### Cohort 2: Get a detailed sense of thought process, questions and concerns
+Cohort 1: For the rest of our conversation we're going to talk about what that experience was like for you. 
+Cohort 2: Let's turn now to talking about your thought process around VA health benefits.
+4. To start, when did you first start thinking about applying for VA health benefits? 
+5. Were you receiving other VA benefits at the time? Which benefits?
 6. What sparked the idea that you might want to apply for VA health benefits?
 7. Where were you?
 8. Who were you with?
@@ -84,7 +89,7 @@ For the rest of our conversation we're going to talk about what that experience 
 12. Did you have any kind of plan for what you would do next?
 13. What did you do next? OR: What happened next? (repeat as needed)
 
-### On topic of eligibility:
+### On topic of eligibility: (continue for cohort 1 and 2)
 I'm curious to hear more about _________ (eligibility - use participant's term if possible):
 
 14. How did the topic of _________  come up in this process?
@@ -92,14 +97,28 @@ I'm curious to hear more about _________ (eligibility - use participant's term i
 16. How did you get that information?
 17. What questions/concerns did you have about ________ ? 
 18. Where did you go (or, who did you go to) to address those questions/concerns?
-### If doesn't come up naturally:
 
+### If doesn't come up naturally: (continue for cohort 1 and 2)
 14. Did the thought of whether or not you'd be eligible for health care benefits come up during this application process?
 15. If yes, how did it come up? 
 16. Where were you?
 17. Who were you with?
 18. What questions/concerns did you have? 
 19. Where did you go to learn more?
+
+## For cohort 3 
+### (Get a detailed story of the change and aftermath)
+For the rest of our conversation we're going to talk about _______ (the change) in the context of your VA health care benefits. To reiterate, I do not care at all whether or not a change was reported. I don't really even know the rules around reporting a change. I'm just here to learn about how you think about the change in context of your benefits.
+4. To start, after ______ (the change), what types of logistical tasks were you thinking about that you'd have to deal with as part of this change?
+5. Did your VA health care benefits come up in your mind as a thing you'd want to deal with after this change occurred?
+6. When did it come up?
+7. At that time, what were you thinking?
+8. What was it that sparked that thought?
+9. What was unclear to you at that point? Any questions you had?
+10. What concerns did you have?
+11. Did you take action at that point to learn more or do anything else as related to this thought?
+12. Did you have any kind of plan for what you would do next?
+13. When if ever did this topic come up again? (repeat as needed)
 
 ### Things to watch for:
 - Does participant demonstrate awareness of eligibility as part of benefits application process?
@@ -117,7 +136,7 @@ I'm curious to hear more about _________ (eligibility - use participant's term i
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usabiility research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
