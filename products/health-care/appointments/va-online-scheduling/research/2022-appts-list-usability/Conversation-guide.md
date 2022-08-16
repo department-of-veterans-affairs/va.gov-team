@@ -77,7 +77,7 @@ You remember scheduling a telephone appointment, and want to check how to join i
 - [Can participant find joining instructions]
 
 ## Scenario 3: - X minutes
-You want to print this appointment to help your caregiver keep track of it. How would you do that from here?
+You want to print your list of appointments to help your caregiver keep track of it. How would you do that from here?
 
 ### Things to watch for:
 
