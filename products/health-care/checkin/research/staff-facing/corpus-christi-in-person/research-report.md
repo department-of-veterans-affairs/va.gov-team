@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Healthcare Products, Modernized Check-In Experience**
 
-Date: 08/15/2022
+Date: 08/16/2022
 
 Kristen McConnell [kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us), Ya-ching Tsao [yaching.tsao@civicactions.com](mailto:yaching.tsao@civicactions.com)
 
@@ -543,25 +543,26 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 ## Translation Findings
 26. Run a remote research study to specifically talk to bilingual Veterans to learn more about their needs, since we didn’t uncover a lot within this study.
 
-# Appendix (Need to update below here)
+# Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/research-plan.md)
-
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/conversation-guide.md)
-
-[Session notes (Google Doc)](https://docs.google.com/document/d/1UjzNQ0MLiCPIMIaB-BrrUb5uCN5PJMEP-JITsAs5BwI/edit?usp=sharing)
-
-[Research synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/agilesixapplications0942/1656596645401/9bd88630ea05258119a5fa523233b1979a996531?sender=u83bc52d7fa73658f84f27755)
-
-[Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person/PCI%20Bay%20Pines%20Research%20Report.pdf)
-
-## Pages and applications used
-
-[Check-In Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/conversation-guide.md)
+- [Daily notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/notes/from-km.md)
+- [Staff synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1658757780227/16fbb440905c5b2f2984df28898fb32dcc80a9b6?sender=u70b8b2930b03d3ef317d2520)
+- [Veteran synthesis](https://app.zenhub.com/files/133843125/c38835c8-ab74-403a-afcc-6c537b3528d3/download)
+- [Research findings (Markdown)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person/research-report.md)
+- [Research report (PDF)]()
+- [Companion Veteran Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person)
 
 ## Who we talked to
-
-<img width="1204" alt="Screen Shot 2022-07-12 at 2 25 47 PM" src="https://user-images.githubusercontent.com/101129355/178567595-40f86256-ba5a-4446-ac42-84f04dd63832.png">
-
-<img width="1403" alt="Screen Shot 2022-07-12 at 2 27 06 PM" src="https://user-images.githubusercontent.com/101129355/178567616-2c0016cc-214f-45a4-978d-1ee44429cb76.png">
-
+- 39 Veterans and 2 caregivers
+  - Those willing to participant through intercept method at clinics
+- 30 Staff
+  - 13 MSAs
+  - 7 Nurses
+  - 3 MSA Leads
+  - 3 Volunteers
+  - 1 Chief
+  - 1 Administrative Officer
+  - 1 Nursing Manager
+  - 1 Health Benefits Advisor
