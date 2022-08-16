@@ -1,5 +1,7 @@
 # Check-in Research Plan for a Moderated Appointment Information Card Sort
 
+(Think about an Optimal Sort survey instead with Matrixes and Ranking questions. Look at Cindy's old study.)
+
 Date: August 16, 2022
 
 ## Background 
@@ -43,11 +45,33 @@ This research plan maps to the following moment within the Veteran journey:
 
 
 ## Research Goals
-We have a variety of appointment data, such as clinic name, provider's name, type of care, location, address, that we could display to the Veteran within the check-in and pre-check-in experiences. Our goal for this study is to identify what 
+Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in and pre-check-in experiences. The list of all appointment data that we can now display includes:
+- clinic name
+- facility name
+- date
+- time
+- provider's name 
+- type of care 
+- location (floor and roon numbers)
+- address
+- modality (in-person, telephone, etc)
+
+The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
+
+The mobile app and VAOS teams have completed similiar studies. Once our check-in appointment information card sort is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
+
+Ultimately, we would like to determine what appointment data and the hierarchy of the appointment data displayed within day of check-in and pre-check-in as well as the hierarchy of that 
 
 ### Research Questions
 
-
+- What appointment information is important to review when determining what appointment Veterans need to check-in for? 
+  - In this scenario, how do Veterans rank the importance of each appointment data item?
+- What appointment information is important to review when check-in is complete, but the Veteran wants to know what to do next?
+  - In this scenario, how do Veterans rank the importance of each appointment data item?
+- What appointment information is importatnt to review when trying to understand what appointment Veterans are completing pre-check-in for?
+  - In this scenario, how do Veterans rank the importance of each appointment data item?
+- What appointment information is important to review when pre-check-in is complete, but the Veteran wants to know what to do next?
+  - In this scenario, how do Veterans rank the importance of each appointment data item?
 
 ### Hypotheses 
 
@@ -55,9 +79,7 @@ We have a variety of appointment data, such as clinic name, provider's name, typ
 
 ## Methods + Tools
 
-
-### Closed Card Sort (remote, unmoderated)
-
+### Closed Card Sort (remote, moderated)
 
 #### What it is
 
@@ -229,7 +251,6 @@ N/A
 * Participant recruiting & screening: Perigean
 * Project point of contact: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
 * Participant(s) for pilot test: TBD
-
 
 
 ## Approvals
