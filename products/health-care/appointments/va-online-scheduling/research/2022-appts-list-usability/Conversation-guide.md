@@ -59,16 +59,8 @@ Thanks!
 
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-## Warm-up Questions (Optional) - X minutes
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-Have you scheduled an appointment online with 
-
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
 ## Scenario 1: - X minutes
-You scheduled a new primary care appointment. You want to double check what time the appointment is scheduled
+You scheduled a new primary care appointment and want to double check what time the appointment is scheduled. How would you do that from here?
 
 ### Things to watch for:
 
@@ -77,7 +69,7 @@ You scheduled a new primary care appointment. You want to double check what time
 - [Is the participant aware that they can click back button to start next scenario]
 
 ## Scenario 2: - X minutes
-You remember scheduling a telephone appointment, and want to check how to join it.
+You remember scheduling a telephone appointment, and want to check how to join it. How would you do that from here?
 
 ### Things to watch for:
 
