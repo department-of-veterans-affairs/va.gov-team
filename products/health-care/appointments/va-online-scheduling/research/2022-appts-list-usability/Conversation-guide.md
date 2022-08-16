@@ -60,7 +60,7 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## Scenario 1: - X minutes
-You scheduled a new primary care appointment and want to double check what time the appointment is scheduled. How would you do that from here?
+You scheduled a new primary care appointment and want to double check what time the appointment is scheduled for and where to attend. How would you do that from here?
 
 ### Things to watch for:
 
@@ -110,22 +110,17 @@ Finally, while you’re here you’ll set up a new eye care appointment. How wou
 
 - [Does participant click the start scheduling action link]
 
-## Scenario 7: - X minutes
-Does anything you saw today reflect how you manage your health care appointments?
-
-What else would you want to be able to do when managing your appointments?
-
-### Things to watch for:
-
-- [Does participant click the start scheduling action link]
 
 ## Post-Task Interview - X minutes
 
-- Does anything you saw today reflect how you manage your health care appointments?
-- What else would you want to be able to do when managing your appointments?
-- [If they say anything:] Would anything on this page help you complete those tasks?
-- [If they say nothing, list sidebar options:] Would you ever [Options]?
-- How would you do that from here?
+
+Does anything you saw today reflect how you manage your health care appointments? 
+
+Of everything you saw today, what was the most confusing, or challenging?
+
+What worked well?
+
+What could we do better?
 
 
 ## Thank-You and Closing - X minutes
