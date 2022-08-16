@@ -52,12 +52,12 @@ body:
       placeholder: July 2, 2022
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: pra-approval
     attributes:
       label: PRA Approval
       options:
-        - label: "Yes"
-        - label: "No"
+        - Yes
+        - No
     validations:
       required: true
