@@ -100,7 +100,7 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 4. Many Veterans prefer checking in with MSAs and that is okay.
 5. A portion of the staff believe staff and Veteran acceptance of PCI will just take time.
 6. Negative first-time experiences greatly impact a Veteran’s desire to try PCI again.
-7. Most of Veteran’s confusion occurred during the texting portion of the workflow.
+7. Most of Veteran’s confusion occurred during the texting and QR code scanning portion of the workflow.
 8. Continued kiosk usage confuses Veterans. They aren’t sure when and why to utilize kiosks or not.
 9. The number of  PCI scenarios that direct Veterans to “see staff” cause Veterans frustration. This also causes staff to spend a lot of time troubleshooting.
 10. Veterans aren’t sure what appointment types can use PCI to check-in.
@@ -226,10 +226,11 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 -**Recommendation**
   - Having helpers assist Veterans through the PCI experience, particularly their first time, is very important. Pass this information along to the training team, so they can share it with the field.
 
-#### 7. Most of Veteran’s confusion occurred during the texting portion of the workflow.
+#### 7. Most of Veteran’s confusion occurred during the texting and QR code scanning portion of the workflow.
 - Veterans experienced problems understanding how to create a new text message to a new number; some only had experience replying to message threads already created.
 - Others had difficulty understanding and scanning the QR code.
-- One Veteran thought they were checked in immediately after texting “check in.”
+- Some Veterans did not carefully read the poster and text messages.
+  - One Veteran thought they were checked in immediately after texting “check in.”
 - These confusion points were noted within both the staff research and from the Veteran observations.
 - Observed QR code complications:
   - One Veteran had to update their QR code scanner, then deemed the process as too complicated.
