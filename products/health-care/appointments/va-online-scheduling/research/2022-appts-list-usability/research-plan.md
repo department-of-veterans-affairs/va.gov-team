@@ -155,7 +155,7 @@ Recruitment
 
 ### Recruitment approach
 
-Perigean will recruit 15 total participants for this study. We will ask Perigean to treat each of three groups as a separate recruitment effort: mobile, desktop, and screenreader users [TBD - we may cut screenreader portion].
+Perigean will recruit 16 total participants for this study. We will ask Perigean to treat each of three groups as a separate recruitment effort: mobile and desktop.
 
 ### Recruitment criteria
 
@@ -164,11 +164,11 @@ Perigean will recruit 15 total participants for this study. We will ask Perigean
 Please consider each of the following 2 groups as a separate recruitment effort.
 
 Desktop users:
--  5 participants who primarily use a desktop/laptop computer.
+-  8 participants who primarily use a desktop/laptop computer.
 -  All participants must be able to attend sessions on their desktop/laptop computer.
 
 Mobile users:
--  5 participants who primarily use a tablet or other mobile device.
+-  8 participants who primarily use a tablet or other mobile device.
 -  All participants must be able to attend sessions on a mobile device.
 
 **Secondary criteria:**
@@ -176,22 +176,14 @@ Mobile users:
 Please consider each of the following 2 groups as a separate recruitment effort.
 
 Desktop users:
-- At least 2 identifying as female
-- At least 2 underserved veterans
-- At least 1 LGBTQ+ veteran
-- At least one person from the following age bracket:
-  -  18-30
-  -  31-50
-  -  50+.
+- At least 1 veteran with a cognitive disabilty
+- At least 1 LGBTQ+ Veteran
+- At least 1 Native Veteran
 
 Mobile users:
-- At least 2 identifying as female
-- At least 2 underserved veterans
-- At least 1 LGBTQ+ veteran
-- At least one person from the following age bracket:
-  -  18-30
-  -  31-50
-  -  50+
+- At least 1 veteran with a cognitive disabilty
+- At least 1 LGBTQ+ Veteran
+- At least 1 Native Veteran
   
 Recruitment We will ask for Perigean support in recruiting and taking notes.
 
@@ -200,13 +192,17 @@ Recruitment We will ask for Perigean support in recruiting and taking notes.
 Timeline
 --------
 
+
 ### Prepare
 
-Test materials will be finalized by Friday, August 5, 2022
+Test materials will be finalized by Friday, August 17, 2022
+
+Pilot participant email: TBD
+Date and time of pilot session: TBD
 
 ### Research sessions
 
-Research session will begin on ar after Monday, August 15, 2022
+Research session will begin on ar after Monday, August 29, 2022
 
 ### Length of sessions
 
@@ -214,7 +210,7 @@ Research session will begin on ar after Monday, August 15, 2022
 
 ### Availability
 
-Monday - Friday, 12:00 am - 8:00 pm EST
+Monday - Friday, 12:00 pm - 8:00 pm EST
 
 Team roles
 ----------
@@ -229,6 +225,6 @@ Team roles
 
 -   Participant(s) for pilot test: TBD
 
--   Note-takers: TBD
+-   Note-takers: Gayathri Radhakrishnan, Peter Russo
 
 -   Observers: TBD
