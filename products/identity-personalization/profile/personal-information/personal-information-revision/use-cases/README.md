@@ -1,4 +1,4 @@
-# Pesonal Information Use Cases
+# Personal Information Use Cases
 
 **Last updated:** August 16, 2022
 
