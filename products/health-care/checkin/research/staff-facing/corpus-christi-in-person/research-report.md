@@ -7,7 +7,7 @@
 
 Date: 08/15/2022
 
-Kristen McConnell [kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us), Ya-ching Tsao [[yaching.tsao@civicactions.com](mailto:yaching.tsao@civicactions.com)]
+Kristen McConnell [kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us), Ya-ching Tsao [yaching.tsao@civicactions.com](mailto:yaching.tsao@civicactions.com)
 
 [Research Report PDF]()
 
