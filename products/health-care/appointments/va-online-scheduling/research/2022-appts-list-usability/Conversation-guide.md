@@ -12,8 +12,6 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Ciera I will be walking you through this session today. I also have some colleagues on the line observing and taking notes. Today we're going to talk about the appointment list on va.gov. 
@@ -69,45 +67,74 @@ Have you scheduled an appointment online with
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Scenario 1: - X minutes
+You scheduled a new primary care appointment. You want to double check what time the appointment is scheduled
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- [Can participant find primary care appointment in list]
+- [Does the participant Understands what time appointment takes place]
+- [Is the participant aware that they can click back button to start next scenario]
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Scenario 2: - X minutes
+You remember scheduling a telephone appointment, and want to check how to join it.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Can the participant find telephone appointment]
+- [Can participant find joining instructions]
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Scenario 3: - X minutes
+You want to print this appointment to help your caregiver keep track of it. How would you do that from here?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant choose the print option from their browser.]
+- [Does the participant select print option on page]
+
+## Scenario 4: - X minutes
+You remember requesting an appointment from your provider, and want to check that you’ll still be available at the time you requested. How would you do that from here?
+
+### Things to watch for:
+
+- [Does the participant click “pending” link.]
+- [Can participant find pending appointment]
+- [Can participant find time requested]
+- [Does participant understand pending appointments]
+
+## Scenario 5: - X minutes
+You want to check the last time you had a primary care appointment. How would you do that from here?
+
+### Things to watch for:
+
+- [Can participant find “past” link]
+- [Can participant find previous Primary care appointment]
+- [Does participant understand past appointments]
+
+## Scenario 6: - X minutes
+Finally, while you’re here you’ll set up a new eye care appointment. How would you do that from here?
+
+### Things to watch for:
+
+- [Does participant click the start scheduling action link]
+
+## Scenario 7: - X minutes
+Does anything you saw today reflect how you manage your health care appointments?
+
+What else would you want to be able to do when managing your appointments?
+
+### Things to watch for:
+
+- [Does participant click the start scheduling action link]
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Does anything you saw today reflect how you manage your health care appointments?
+- What else would you want to be able to do when managing your appointments?
+- [If they say anything:] Would anything on this page help you complete those tasks?
+- [If they say nothing, list sidebar options:] Would you ever [Options]?
+- How would you do that from here?
+
 
 ## Thank-You and Closing - X minutes
 
