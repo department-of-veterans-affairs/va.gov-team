@@ -162,7 +162,7 @@ Labels: AUD: Staff, AUD: Veterans, BNFT: Healthcare, HDW: Smartphone, PRDT: heal
 
 ### Insights into Usage Numbers: Possible reasons why usage is higher at these facilities
 
-#### Education initiatives, poster placement, and facility appointment volume might be contributing factors as to why Corpus Christi (11%) has higher than average PCI usage numbers (1.2%).
+#### 1. Education initiatives, poster placement, and facility appointment volume might be contributing factors as to why Corpus Christi (11%) has higher than average PCI usage numbers (1.2%).
 
 - A third of the staff mentioned how much they focus on educating Veterans about this new process, which they believe is making a huge difference to Veteran adoption.
   - This education does come at a price. All MSAs cited an increase to their workflow.
@@ -177,10 +177,47 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 ![CorpusChristiVAClinic](https://user-images.githubusercontent.com/66287082/184961058-b97c2817-118a-48e0-818a-2d6ce4387846.jpg)
 
 
-**RECOMMENDATION**
-Share this information with the training team, so they can pass it along to the field.
+**RECOMMENDATION:** Share this information with the training team, so they can pass it along to the field.
 
+### Check-in Findings: Day of the appointment feedback
 
+#### 2. For those Veterans/caregivers who attempted PCI, 43.75% (7 out of 16) successfully completed PCI.
+- Success = Not having to talk to MSA to check-in.
+  - We did not count the following scenarios as success completions, but they are part of how the system is designed:
+    - 3 needed to review their insurance.
+    - 3 were checking in for a clinic that wasn’t PCI enabled/received a “no appt” error.
+    - 1 needed to update their next of kin.
+      - Even though these other scenarios were as designed, we decided not to include them due to Veteran frustration about having to talk to the MSA after attempted PCI.
+  - The two other failures were caused by a time-out error and frustration scanning the QR code.
+- 63% (26 out of 41) of Veterans who we intercepted were at the facility to check-in for an appointment.
+  - 61.5% (16 out of 26) of Veterans checking in wanted to try PCI.
+  - The non-PCI eligible task that the most Veterans were trying to complete was checking in for walk-in appointments (6 Veterans)
+- Other tasks that Veterans we intercepted were trying to complete were:
+  - scheduling an appt
+  - double checking future appointments
+  - updating their VHIC card
+  - random questions for the MSA
+- Two caregivers used PCI to check in a Veteran. Neither were successful, but this was not due to PCI.
+  - One had QR code problems.
+  - The other received a “no appt” error.
+
+#### 3. Staff gave day of check-in a Net Promoter Score (NPS) of -67*, which is bad.
+- 12 staff evaluated PCI via NPS:
+  - Promoters: 8.33%
+  - Neutrals/Passives: 16.67%
+  - Detractors: 75% 
+- Reasons staff gave for their ratings:
+  - They don’t like PCI for older and non-tech savvy Veterans. 
+  - They don’t like that it requires the user of a phone.
+  - They believe that it needs to be simpler, such as a 2-3 steps process that has less information on a page.
+    - It is difficult to review everything on such a small screen.
+
+*Not statistically significant, but included anyway due to the overwhelming negative responses from the small sample that we were able to gather.*
+
+**About NPS (information taken from [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)):**
+- NPS measures customer loyalty and satisfaction. It is evaluated by asking one question: On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile check-in to another clinic? Responses are broken into categories of Detractors (Score 0-6), Passives/Neutrals (Score 7-8), and Promoters (Score 9-10). Then, the Promoter percentage is subtracted by the Detractor percentage to get a final NPS number. Final NPS numbers can range from -100 to 100. Evaluating if the final score is good or bad really depends upon the industry as each has slightly different averages, but it is generally deemed to be a bad score if it is less than zero.
+- Check-in will use this metric to evaluate the the product over time. It is never to be used by itself; it should accompany qualitative research.
+- Check-in has only collected a small sample of NPS to date, so we aren’t ready to make comparisons over time. We also excluded the Veteran NPS scores that we were able to collect at Corpus Christi, because we were only able to collect 4.
 
 
 # Recommendations
