@@ -1,91 +1,55 @@
-# Research Plan for VA Mobile App Information Architecture Research: Closed Card Sort
+# Check-in Research Plan for Appointment Information Hierarchy: Closed Card Sort
 
-This work falls within the first phase of a three-phase Mobile IA & Navigation project that will contribute to the [Redesign of the VA Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md). It is the second of a two part of IA research study, and was preceded by an [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md). For a summary of the entire project, see [VA Mobile App Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md).
+Date: August 16, 2022
 
+## Background 
 
-## Background
+The Modernized Check-In Team is reimaging the experience between a Veteran scheduling a medical appointment and having their appointment. In particular, the Modernized Check-In Team has created the portion of the ecosystem that enables Veterans to utilize their smartphone to “check in” to their appointments through VA.gov, which lets the VA know the patient has arrived for their appointment. 
 
-The VA Mobile app was designed to allow Veterans to more easily complete key transactions across VA Health and Benefits services. 
+Check-in enables Veterans with appointments to: 
 
-As the app grows in its feature set, the VA Mobile App team needs a better understanding of how Veterans would navigate benefits and health services within the mobile app. We want to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as being of interest on our roadmap. Because the mobile app is not the only way that veterans interact with the VA, we also want to ensure that we're considering that larger system of digital and analog touchpoints when we think about our approach to how Veterans find information and features within the app.
+- Review and confirm their information prior to an appointment, also known as pre-check-in, which includes: 
 
-[Link to Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md)
+  - Confirming their appointment
+  - Reviewing their contact information 
+  - Reviewing their emergency contact information
+  - Reviewing their next of kin information 
 
+- Utilize their smartphone to check-in on the day of their appointment 
 
+<img width="1134" alt="Screen Shot 2022-06-06 at 11 19 23 AM" src="https://user-images.githubusercontent.com/101129355/172191216-3de723ac-4a5c-4f3c-acb8-c08f6ad356cd.png">
 
-### Project Objectives & Goals 
+In speaking with the [Beneficiary Travel Reimbursement Path Analysis Team](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104), we also know that travel reimbursement is being considered for integration with the check-in product. The following draft mock ups have been created to communicate the workflow: 
 
+[Beneficiary Travel Reimbursement Prototype #1](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/l12VPzo/play)
 
-#### OCTO-DE Objectives
+[Beneficiary Travel Reimbursement Prototype #2](https://www.sketch.com/s/f055a969-7909-4a63-9bb8-1dcbed216a42/a/52Qv7ed/play)   
 
-The following are the [OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports.
+### OCTO Objectives 
 
+This research plan supports the following OCTO objectives: 
 
-1. Increase the usage and throughput of VA services
-2. Decrease the time Veterans spend waiting for an outcome
-3. Increase the quality and reliability of VA services
+- Veterans can manage their health services online
+- Logged-in users have a personalized experience, with relevant and time-saving features
+- Increase completion rate of online transactions
+- Increase usage of digital self-service tools
+- Decrease time to successfully complete and submit online transactions 
 
+### Veteran Journey
 
-#### OCTO-DE Goals
+This research plan maps to the following moment within the Veteran journey:  
 
-The following are the [OCTO-DE goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports.
-
-
-1. Veterans can manage their health services online
-2. Logged-in users can easily track applications, claims, or appeals online
-3. Logged-in users have a personalized experience, with relevant and time-saving features
-
-
-#### Veteran Journey
-
-
-* Primary point in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf): “Taking care of myself”
-* Secondary points: “Reinventing myself, “Putting down roots,” and “Retiring”
-
-
-### Previous User Research
-
-* An [Open Card sort study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md) was conducted in October 2021.  The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
-
+<img width="1178" alt="Screen Shot 2022-06-06 at 11 08 08 AM" src="https://user-images.githubusercontent.com/101129355/172188932-7bbb1fdf-efc1-43d2-9c05-315bf1612638.png">
 
 
 ## Research Goals
-
-
-### Information Architecture Research
-
-Fulfills [issue #2552](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2552)
-
-The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible. See [VA Mobile App: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md) for a high level summary of the entire 3-phase process.
-
-Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort**) is to:
-* **understand how users think about the current and possible future content** in the VA mobile app 
-* **confirm what the high-level information architecture categories** should be in the VA mobile app
-
-
-### Outcome
-
-This research will allow us to adjust the information architecture (and navigation model) in the app to accommodate future features before we scale the app to a larger audience. This is important as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows.
 
 
 ### Research Questions
 
 
 
-1. How do veterans think about the current and proposed pieces of content on the VA Mobile app?
-    1. Do veterans understand the proposed categories?
-    2. Are there any cards that veterans felt uncertain about what category to place them in? 
-    3. Are there any categories missing?
-2. Does previous exerience with specific services or tools within the VA (such as mobile app use) affect user mental models?
-
-
 ### Hypotheses 
-
-
-1. Veterans will be able to categorize cards presented in the card sort using the groups provided.
-2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov.
-3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
-4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
 
 
 
@@ -104,7 +68,7 @@ This research will allow us to adjust the information architecture (and navigati
 
 #### Method
 
-Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 35 pieces of current & proposed content from the VA mobile app. Each participant sorts the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They will also be able to add new categories if they feel that a card doesn't fit into the provided categories.
+Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about ? pieces of available appointment information that could be displayed with the check-in and pre-check-in experiences. Each participant sorts the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They will also be able to add new categories if they feel that a card doesn't fit into the provided categories.
 
 We would like to get complete sorting responses from **at least 30 Veterans**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
 
@@ -114,11 +78,9 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 #### Research materials
 
-* [Closed card sort (preview) - Optimal Workshop](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed)
-* [Closed card sort - Optimal Workshop](https://app.optimalworkshop.com/a/adhoc/optimalsort/surveys/53516949-eb96-4b85-b493-bda8794844c4/edit#/t/setup/cards)
-* [Card Content & Category Names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md)
-* [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
-
+* [Closed card sort (preview) - Optimal Workshop]()
+* [Closed card sort - Optimal Workshop]()
+* [Recruiting email]()
 
 
 ## Recruitment
@@ -248,7 +210,7 @@ The card sort will open on Feb 28 and should remain open for two weeks (March 14
 
 
 ### Research sessions
-March 2022
+September 2022
 
 
 ### Length of sessions
@@ -263,18 +225,14 @@ N/A
 
 
 * Moderator: N/A
-* Research guide writing and task development: [Holly Collier](https://github.com/htcollier), [Melissa Lefevre](https://github.com/melissa-lefevre)
+* Research guide writing and task development: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
 * Participant recruiting & screening: Perigean
-* Project point of contact: [Holly Collier](https://github.com/htcollier)
-* Participant(s) for pilot test: Rafael Arroyo
+* Project point of contact: Kristen McConnell ([kristen.mcconnell@adhocteam.us](mailto:kristen.mcconnell@adhocteam.us))
+* Participant(s) for pilot test: TBD
 
 
 
 ## Approvals
 
-* Review by PO [Leanna Miller](https://github.com/leanna-usds) & [Travis Newby](https://github.com/travis-newby) by Feb 18, 2022
-* Reviewed and approved by Shane Strassberg on February 22
-
-
-
-
+* Review by PO [Stephen Barrs](https://github.com/leanna-usds) on ?
+* Reviewed and approved by Shane Strassberg on ?
