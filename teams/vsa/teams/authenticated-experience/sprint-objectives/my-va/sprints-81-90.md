@@ -103,10 +103,19 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 
 Launch dates are dependent on whether notifications are sent and if we have enough data to move forward:
 
-- Launch to 100%
+- Launch go/no-go
+- Launch to 25%
+- Launch to 50%
 - Monitor analytics through launch
 
 ## Sprint 84 (10/5 - 10/18)
+
+### On-site notifications
+
+Launch dates are dependent on whether notifications are sent and if we have enough data to move forward:
+
+- Launch to 100%
+- Monitor analytics through launch
 
 ## Sprint 85 (10/19 - 11/1)
 
