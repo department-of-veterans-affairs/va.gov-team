@@ -1,4 +1,4 @@
-# Bd Address Indicator: Launch Go/No-Go | xx/yy/2022
+# Bad Address Indicator: Launch Go/No-Go | xx/yy/2022
 
 ## Decision: 
 --- 
