@@ -211,7 +211,7 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
   - They believe that it needs to be simpler, such as a 2-3 steps process that has less information on a page.
     - It is difficult to review everything on such a small screen.
 
-* *Not statistically significant, but included anyway due to the overwhelming negative responses from the small sample that we were able to gather.*
+*\*Not statistically significant, but included anyway due to the overwhelming negative responses from the small sample that we were able to gather.*
 
 **About NPS (information taken from [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)):**
 - NPS measures customer loyalty and satisfaction. It is evaluated by asking one question: On a scale from 1 to 10 (where 1 is very unlikely, and 10 is very likely), how likely are you to recommend mobile check-in to another clinic? Responses are broken into categories of Detractors (Score 0-6), Passives/Neutrals (Score 7-8), and Promoters (Score 9-10). Then, the Promoter percentage is subtracted by the Detractor percentage to get a final NPS number. Final NPS numbers can range from -100 to 100. Evaluating if the final score is good or bad really depends upon the industry as each has slightly different averages, but it is generally deemed to be a bad score if it is less than zero.
