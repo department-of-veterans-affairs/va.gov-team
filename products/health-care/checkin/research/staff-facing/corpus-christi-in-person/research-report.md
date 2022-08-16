@@ -108,18 +108,75 @@ The research plan, conversation guide and session notes for our [Veteran](https:
   - UNKNOWN. We were not able to talk to travel clerks during this trip.
 
 # Key Findings
+**Insights into Usage Numbers**
+1. Education initiatives, poster placement, and facility appointment volume might be contributing factors as to why Corpus Christi (11%) has higher than average PCI usage numbers (1.2%).
 
+**Check-in Findings**
+2. For those Veterans/caregivers who attempted PCI, 43.75% (7 out of 16) successfully completed PCI.
+3. Staff gave day of check-in a Net Promoter Score (NPS) of -67, which is bad.
+4. Many Veterans prefer checking in with MSAs and that is okay.
+5. A portion of the staff believe staff and Veteran acceptance of PCI will just take time.
+6. Negative first-time experiences greatly impact a Veteran’s desire to try PCI again.
+7. Most of Veteran’s confusion occurred during the texting portion of the workflow.
+8. Continued kiosk usage confuses Veterans. They aren’t sure when and why to utilize kiosks or not.
+9. The number of  PCI scenarios that direct Veterans to “see staff” cause Veterans frustration. This also causes staff to spend a lot of time troubleshooting.
+10. Veterans aren’t sure what appointment types can use PCI to check-in.
+11. Sometimes Veterans aren’t sure if they are checked in or not when using PCI. Sometimes they end up being checked in and sometimes they aren’t.
+12. Long load times are negatively impacting the PCI experience for a portion of Veterans.
+13. MSA workloads have increased due to checking in more Veterans who don’t want to try PCI, educating Veterans about PCI, and troubleshooting PCI.
+14. Staff have questions about the marketing efforts related to PCI.
+15. Staff had many feature requests for PCI.
 
+**Pre-check-in Findings**
+16. Many staff and Veterans are not aware of pre-check-in or confused about its difference compared to checking in on the day of an appointment.
+17. Staff gave pre-check-in a Net Promoter Score (NPS) of -60, which is bad.
+
+**VSE-GUI and VSE-CS Findings**
+18. MSAs who transitioned from VetLink to VSE-GUI generally approve of the shift.
+19. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating and missing accurate information, which is causing more work for nursing.
+20. Veterans sometimes don’t check in for subsequent appointments in the day; as a result, nurses can’t tell if a Veteran is checked in or not due to their list permissions.
+21. Nursing is overly notified about every Veteran status change in VSE-CS.
+22. Nursing want to see certain behavioral flags within VSE-CS, because they affect how they prepare for an appointment and how they interact with a Veteran.
+23. Nursing wants VSE-CS to change the customized list rules, display walk-in appointments, show last 4 of SSN, and improve notes.
+24. Specialty (non-primary care) nurses only find the pre-visit summary helpful when it is received prior to their pre-appointment phone call to the Veteran.
+25. Approximately half of the MSAs routinely use the pre-check-in complete, check-in started, and check-in complete statuses within VSE-GUI.
+26. The training timeline and support on the first few days did not meet staff expectations.
+
+**PCI Reporting Findings**
+27. The Chief, Administrative Officer, and MSA Supervisors are interested in check-in reports.
+
+**Canceled Appointment Findings**
+28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
+
+**Travel Reimbursement Findings**
+29. MSAs often help Veterans complete travel reimbursement via the kiosk and paper form.
+
+**Translation Findings**
+30. Staff mentioned some interactions with bilingual Veterans and caregivers, but didn’t note this affecting check-in in any way.
 
 # Details of Findings 
-(look at labels in research repo)
-Labels: AUD: Staff, PRDT: health-care-check-in, RESRCH: Interviews, VETSJNY: Taking care of themselves
+
+Labels: AUD: Staff, AUD: Veterans, BNFT: Healthcare, HDW: Smartphone, PRDT: health-care-check-in, RESRCH: In-person, RESRCH: Interviews, SFTW: Website, VETSJNY: Taking care of themselves
 
 ## Key Findings 
 
-### 1. ??? 
+### Insights into Usage Numbers: Possible reasons why usage is higher at these facilities
 
-???
+#### Education initiatives, poster placement, and facility appointment volume might be contributing factors as to why Corpus Christi (11%) has higher than average PCI usage numbers (1.2%).
+
+- A third of the staff mentioned how much they focus on educating Veterans about this new process, which they believe is making a huge difference to Veteran adoption.
+  - This education does come at a price. All MSAs cited an increase to their workflow.
+    - See additional details within Key Finding #13.
+- PCI posters weren’t competing with other signage on the walls and they were prominently placed on or near kiosk to drew Veterans’ attention.
+- These facilities see a steady stream of Veterans checking in, but they aren’t overly busy compared to other locations. This might allow staff the time to focus on Veteran education.
+- Posters were often overlooked in our past [St. Louis-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md), [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md) and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) studies. In those studies, Veterans went directly to the line to talk to the MSA. While some Veterans did immediately enter the MSA line at Corpus Christi, others immediately walked up to the poster.
+
+Photos of PCI poster placements and lack of clutter on the walls within the waiting rooms.
+
+
+**RECOMMENDATION**
+Share this information with the training team, so they can pass it along to the field.
+
 
 
 
