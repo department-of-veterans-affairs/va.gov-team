@@ -8,8 +8,14 @@ body:
   - type: markdown
     attributes:
       value: |
-      What this form is for
-      Use this template to request adding a custom Medallia Survey to your product pages(s). Standard Feedback and Satisfaction surveys are automatically added to all VA.gov pages (with few exceptions). 
+        **
+        ## What this form is for
+        Use this template to request adding a custom Medallia Survey to your product pages(s). Standard Feedback and Satisfaction surveys are automatically added to all VA.gov pages (with few exceptions). 
+  - type: checkboxes
+  - type: markdown
+    attributes:
+      value: |
+      
  - type: dropdown
    id: survey-type-requested
    attributes:
