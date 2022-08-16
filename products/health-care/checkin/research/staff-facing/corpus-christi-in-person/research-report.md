@@ -176,8 +176,8 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
 <img width="1786" alt="OldBrownsvilleVAClinic" src="https://user-images.githubusercontent.com/66287082/184960987-fbde1e1d-f1e4-49b4-a4c9-bce27ed73f46.png">
 ![CorpusChristiVAClinic](https://user-images.githubusercontent.com/66287082/184961058-b97c2817-118a-48e0-818a-2d6ce4387846.jpg)
 
-
-**RECOMMENDATION:** Share this information with the training team, so they can pass it along to the field.
+- **RECOMMENDATION:**
+  - Share this information with the training team, so they can pass it along to the field.
 
 ### Check-in Findings: Day of the appointment feedback
 
@@ -228,7 +228,127 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
   - Worry about incurring charges on their phone.
 - Anecdotally, staff believe older Veterans have more complaints about PCI and come to them with more questions.
   - They think younger Veterans more often utilize the system.
-- This findings has existed within numerous check-in research studies, including [initial discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md), St. Louis-Veteran, St. Louis-Staff, Bay Pines-Veteran, and Bay Pines-Staff.
+- This findings has existed within numerous check-in research studies, including [initial discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md), [St. Louis-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md), [St. Louis-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md), [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md), and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person).
+- **Recommendation**
+  - Staff should continue to offer PCI as an option and educate Veterans, but not make PCI required.
+  - Look into other workflows or products to expand the check-in ecosystem, such as digital check-in with a VA owned device (laptop or iPad).
+
+#### 5.  A portion of the staff believe staff and Veteran acceptance of PCI will just take time.
+- A small group (3) of staff cited their past experiences with the rollouts of the kiosk and telemedicine appointments as reasons why they believe acceptance of PCI will just take some time. They shared that kiosks and telemedicine appointments initially had some resistance, but were ultimately embraced.
+
+#### 6. Negative first-time experiences greatly impact a Veterans desire to try PCI again.
+- A few Veterans mentioned when researchers first intercepted them that they attempted PCI before and ran into difficulty. Therefore, they were hesitant to try again. 
+  - Some of these Veterans changed their minds when researchers offered to provide support throughout the process.
+- One third of staff members mentioned how important it was to help educate Veterans when they try PCI, in order to obtain a favorable outcome.
+-**Recommendation**
+  - Having helpers assist Veterans through the PCI experience, particularly their first time, is very important. Pass this information along to the training team, so they can share it with the field.
+
+#### 7. Most of Veteran’s confusion occurred during the texting portion of the workflow.
+- Veterans experienced problems understanding how to create a new text message to a new number; some only had experience replying to message threads already created.
+- Others had difficulty understanding and scanning the QR code.
+- One Veteran thought they were checked in immediately after texting “check in.”
+- These confusion points were noted within both the staff research and from the Veteran observations.
+- Observed QR code complications:
+  - One Veteran had to update their QR code scanner, then deemed the process as too complicated.
+  - Another had a QR code scanner that included a lot of advertisements and they clicked on an ad. 
+  - Another didn’t know that they had to hit send on the SMS message after scanning the QR code. They just thought that they were done after they scanned the code.
+- **Recommendation**
+  - Reimagine the text portion of the workflow in one or more of the following ways:
+    - Notify Veterans better that there are more steps.
+    - Don’t make Veterans start the workflow by creating a text or scanning  the QR code. Instead, push a check-in notification to Veterans when they can check-in (30 minutes prior to their appt).
+    - Spend more time educating Veterans about the process.
+
+#### 8. Continued kiosk usage confuses Veterans. They aren’t sure when and why to utilize kiosks or not.
+- Staff commented that they often have to direct Veterans away from utilizing the kiosk, since they can no longer check-in on them. 
+  - During Veteran observations, many automatically walked over to the kiosk.
+- Corpus Christi is still utilizing kiosks for travel pay, walk-in appointments, release of information requests, health benefit advisor appointments, and whole health.
+- Having the check-in poster placed directly on the kiosk helped to eliminate some confusion.
+- This same finding was part of the [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md) and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) study findings.
+- **Recommendation**
+- Get rid of the kiosks completely or create a new VA-owned device solution for check-in.
+- Share with training the impacts of poster placement on kiosk usage. Possible create a sticker or something else to place on the kiosks stating that check-in isn’t available on them.
+
+#### 9. The number of  PCI scenarios that direct Veterans to “see staff” cause Veterans frustration. This also causes staff to spend a lot of time troubleshooting.
+- Staff report handling Veteran complaints when Veterans are directed to staff after attempting PCI.
+  - **“[Check-in is] not going very well. A lot get messages to see the MSA.” - MSA**
+  - **“It is a waste.” - MSA**
+- Staff aren’t always sure what each error means.
+  - MSAs have noticed Veterans coming to them, because they need to review their insurance. However, ICB won’t have them listed.
+- We had a similar research question within our [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md) and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) studies to understand staff’s comfort with troubleshooting, but the results of those studies were inconclusive.
+- **Recommendation**
+  - Re-evaluate adding editing and reviewing insurance within the PCI experience, so Veterans aren’t redirected to check-in with a staff member as often.
+
+#### 10. Veterans aren’t sure what appointment types can use PCI to check-in.
+- 3 Veterans, who researchers intercepted, were checking in for a clinic that wasn’t PCI enabled/received a “no appt” error.
+- Staff also report seeing Veterans trying to use PCI for vaccine appointments.
+- **Recommendation**
+  - Revisit adding or changing this information within marketing materials.
+  - Pushing check-in links to Veterans 30 minutes prior to an appointment would make this a non-issue.
+
+#### 11. Sometimes Veterans aren’t sure if they are checked in or not when using PCI. Sometimes they end up being checked in and sometimes they aren’t.
+- Staff reported and researchers observed Veterans coming up to MSAs to double check that PCI did indeed check them into their appointment.
+- Other times, Veterans don’t complete check-in and just sit in the waiting room. 
+  - MSA noted that some Veterans come up to the desk after waiting for a long time to find out that they have already been “no showed.”
+    - Some MSAs have been able to stop “no shows” from happening by reviewing the “Check-in started” status within VSE-GUI.
+      - However, not all MSAs routinely check these statuses.
+  - In order to avoid this problem, MSA and nursing staff have instituted rounding for all Veterans on the appointment list, whether they are checked in (using any method) or not.
+    - This relates to Key Finding #19.
+- **Recommendation**
+  - Revisit check-in status content within the application.
+
+#### 12. Long load times are negatively impacting the PCI experience for a portion of Veterans.
+- Researchers observed long load times for a few Veterans. 
+  - One Veteran experienced a time-out error, so they abandoned PCI and talked to an MSA instead.
+  - The first VA.gov page took a long time to load for one Veteran and the header loaded first. The Veteran logged in to VA.gov thinking that was their next step.
+- Staff report Veterans sometimes think that they are checked in, because of the delay in receiving a text with the next step.
+- Staff say that sometimes scanning the QR code doesn’t return anything for Veterans to click on.
+- Staff noted that service from certain phone carriers impacts the Veteran’s ability to complete PCI within certain facilities.
+- Long load times were also noted with the [St. Louis Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md) study.
+- **Recommendation**
+  - Continue looking into ways to improve load time.
+  - Explore a further simplified header and footer to reduce Veterans leaving workflows like check-in.
+
+#### 13. MSA workloads have increased due to checking in more Veterans who don’t want to try PCI, educating Veterans about PCI, and troubleshooting PCI.
+- MSAs believe the increase is due to more Veterans coming to the desk to be checked in by the MSA as well as the need to educate Veterans about PCI.
+  - Educating Veterans about the new check-in process is estimated by MSAs and volunteers to take 2-5 minutes.
+    - Anecdotally, the MSAs feel most of their education efforts are spent with older Veterans.
+- One MSA Supervisor shared that the extra work has made an impact on their staff decisions and where they place certain MSAs for the week.
+- Increased MSA workloads were also noted within the [St. Louis-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md) findings.
+- **Recommendation**
+  - Encourage all staff (nurses, volunteers, MSAs, etc.) to collaboratively educate Veterans about check-in.
+
+#### 14. Staff have questions about the marketing efforts related to PCI.
+- They have concerns and questions about what marketing efforts have already occurred due to:
+  - Veterans letting them know that emails were sent out a month after PCI started at their facilities.
+  - Not seeing a lot of marketing materials that they can pass out to Veterans.
+  - Handling a lot of Veteran questions.
+- **Recommendation**
+  - Revisit staff education about the available marketing materials.
+  - Continue to iterate on the marketing strategy.
+
+#### 15. Staff had many feature requests for PCI. Many staff asked if PCI could handle additional appointment types.
+- Checking in for additional appointment types:
+  - Scheduled labs
+    - Scheduled lab appointments don’t have to occur at the exact time that they are scheduled for. A Veteran can come in anytime within 14 days of the order being placed.
+      - No MSAs are currently supporting/stationed at the lab. These appointments are checked in via the kiosk.
+  - Walk-ins
+  - Health benefit advisor.
+- Provide an alternative to submitting travel reimbursement claims on the kiosk.
+- Handling release of information requests.
+- Handle the whole health kiosk use case.
+- Allowing Veterans to edit their pre-registration information.
+  - The suggestion to edit pre-registration information was mentioned in numerous previous studies, including [St. Louis-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/pilot-feedback/research-findings.md).
+- Showing the address of the clinics, because many Veterans come to the wrong location.
+  - Researchers observed more than one Veteran coming to the wrong locations during our trip. Staff also highlighted that this occurs.
+    - This may be due to the location within Corpus Christi being only 5 minutes apart.
+- Explore a different starting point for PCI.
+  - Some staff put “VA Check-in” as a contact within Veterans’ phones, so it would be easier for them in the future. They mentioned that it would enable Veterans to check-in from the parking lot.
+- Improve clinic names, because they aren’t easy to understand.
+
+### Pre-check-in Findings
+
+#### 
+
 
 
 
