@@ -97,7 +97,7 @@ MSAs will indicate that Veterans would prefer to file a travel reimbursement wit
 
 
 # Details of Findings 
-
+(look at labels in research repo)
 Labels: AUD: Staff, PRDT: health-care-check-in, RESRCH: Interviews, VETSJNY: Taking care of themselves
 
 ## Key Findings 
