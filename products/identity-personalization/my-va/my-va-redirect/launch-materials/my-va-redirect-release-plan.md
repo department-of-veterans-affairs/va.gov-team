@@ -40,9 +40,12 @@
 **Desired date range:** 08/29/2022 - 09/12/2022
 
 **Phased rollout:** 
-- 25% of users (1 week), Dates: week of 08/29 [(#42876)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876)
-- 50% of users (1 week), Dates: week of 09/06 [(#42880)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880)
-- 100% of users: week of 09/12 [(#42881)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881)
+|Launch % |Time Frame | Planned Date Range | Ticket | 
+|-------|-----------|-----------|------|
+| Launch to 25% | 1 week | week of 08/29/2022 | [(#42876)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42876) |
+| Launch to 50% | 1 week | week of 09/06/2022 | [(#42880)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42880) |
+| Launch to 100% | 1 week | week of 09/12/2022 |[(#42881)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42881) |
+
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Success Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#measuring-success)
@@ -50,11 +53,12 @@
 ## Go Live!
 
 ### Planning:
-- _Desired date for 25%: 08/29/2022_
-- Actual date for 25%: mm/dd/yyyy
+|Launch % |Desired Date | Actual Date | 
+|-------|-----------|-----------|
+| Launch to 25% | 08/29/2022 | mm/dd/yyyy |
+| Launch to 50% | 09/06/2022 | mm/dd/yyyy |
+| Launch to 100% | 09/12/2022 | mm/dd/yyyy |
 
-- _Desired date for 100%: 09/12/2022_
-- Actual date for 100%: mm/dd/yyyy
 
 ### 1-week results:
 - **Number of unique users:**
