@@ -108,10 +108,10 @@ The research plan, conversation guide and session notes for our [Veteran](https:
   - UNKNOWN. We were not able to talk to travel clerks during this trip.
 
 # Key Findings
-**Insights into Usage Numbers**
+## Insights into Usage Numbers
 1. Education initiatives, poster placement, and facility appointment volume might be contributing factors as to why Corpus Christi (11%) has higher than average PCI usage numbers (1.2%).
 
-**Check-in Findings**
+## Check-in Findings
 2. For those Veterans/caregivers who attempted PCI, 43.75% (7 out of 16) successfully completed PCI.
 3. Staff gave day of check-in a Net Promoter Score (NPS) of -67, which is bad.
 4. Many Veterans prefer checking in with MSAs and that is okay.
@@ -127,11 +127,11 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 14. Staff have questions about the marketing efforts related to PCI.
 15. Staff had many feature requests for PCI.
 
-**Pre-check-in Findings**
+## Pre-check-in Findings
 16. Many staff and Veterans are not aware of pre-check-in or confused about its difference compared to checking in on the day of an appointment.
 17. Staff gave pre-check-in a Net Promoter Score (NPS) of -60, which is bad.
 
-**VSE-GUI and VSE-CS Findings**
+## VSE-GUI and VSE-CS Findings
 18. MSAs who transitioned from VetLink to VSE-GUI generally approve of the shift.
 19. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating and missing accurate information, which is causing more work for nursing.
 20. Veterans sometimes don’t check in for subsequent appointments in the day; as a result, nurses can’t tell if a Veteran is checked in or not due to their list permissions.
@@ -142,16 +142,16 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 25. Approximately half of the MSAs routinely use the pre-check-in complete, check-in started, and check-in complete statuses within VSE-GUI.
 26. The training timeline and support on the first few days did not meet staff expectations.
 
-**PCI Reporting Findings**
+## PCI Reporting Findings
 27. The Chief, Administrative Officer, and MSA Supervisors are interested in check-in reports.
 
-**Canceled Appointment Findings**
+## Canceled Appointment Findings
 28. VA cancels appointments due to providers calling out sick, scheduling vacation, or taking time off. Canceling on short notice occurs with some frequency.
 
-**Travel Reimbursement Findings**
+## Travel Reimbursement Findings
 29. MSAs often help Veterans complete travel reimbursement via the kiosk and paper form.
 
-**Translation Findings**
+## Translation Findings
 30. Staff mentioned some interactions with bilingual Veterans and caregivers, but didn’t note this affecting check-in in any way.
 
 # Details of Findings 
@@ -172,6 +172,9 @@ Labels: AUD: Staff, AUD: Veterans, BNFT: Healthcare, HDW: Smartphone, PRDT: heal
 - Posters were often overlooked in our past [St. Louis-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/StLouis-pilot-feedback/research-findings.md), [Bay Pines-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md) and [Bay Pines-Staff](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/bay-pines-in-person) studies. In those studies, Veterans went directly to the line to talk to the MSA. While some Veterans did immediately enter the MSA line at Corpus Christi, others immediately walked up to the poster.
 
 Photos of PCI poster placements and lack of clutter on the walls within the waiting rooms.
+![SouthEnterprizeVAClinic](https://user-images.githubusercontent.com/66287082/184960972-9325c846-f96e-48be-a5eb-c63dcc301bed.jpg)
+<img width="1786" alt="OldBrownsvilleVAClinic" src="https://user-images.githubusercontent.com/66287082/184960987-fbde1e1d-f1e4-49b4-a4c9-bce27ed73f46.png">
+![CorpusChristiVAClinic](https://user-images.githubusercontent.com/66287082/184961058-b97c2817-118a-48e0-818a-2d6ce4387846.jpg)
 
 
 **RECOMMENDATION**
