@@ -68,7 +68,7 @@ Use font awesome icon `dollar` for icon in link list
 
 #### Content
 
-[Manage your direct deposit](https://www.va.gov/profile/direct-deposit)
+[Manage your direct deposit information](https://www.va.gov/profile/direct-deposit)
 
 ---
 
