@@ -152,7 +152,7 @@ To assess potential participants' experiences with VA benefits or services, plea
 ### Prepare
 * Mobile team feedback: 8/16
 * Date testing material will be finalized: 8/18
-* Test mobile prototype setip with internal UX team member: 8/19
+* Test mobile prototype setup with internal team members (iOS & Android): 8/19
 * Research review: 8/23
 * Recruitment begins: 8/25
 ### Pilot
