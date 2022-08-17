@@ -66,6 +66,8 @@ vets-api:
 - API endpoint: Endpoint to get the time the form was last updated 
     - Route: 'form1095_bs/available_forms'
 
+[Swagger API documentation](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_1095_b)
+
 ### Feature Toggle
 
 We have a [feature toggle](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#Featuretogglesguide-1.AccessFlipperUI) for 1095-B: 'show_digital_form_1095b'. 
