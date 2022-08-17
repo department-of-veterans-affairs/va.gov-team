@@ -2,7 +2,7 @@
 
 
 ## Background
-This study is being conducted by the VSP Contact Center team and for the purpose of establishing a verified user journey for ~~Veteran~~ VA.gov users who call to use Contact Center services. [This research will be used to inform this documented user journey map.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40967).
+This study is being conducted by the VSP Contact Center team and for the purpose of establishing a verified user journey for VA.gov users who call to use Contact Center services. [This research will be used to inform this documented user journey map.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40967).
 
 ### OCTO Objectives 
 
