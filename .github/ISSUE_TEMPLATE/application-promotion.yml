@@ -1,0 +1,53 @@
+name: Application Promotion Form
+description: Form used for promoting applications/services to higher-environment EKS clusters (deployed via ArgoCD)
+title: "Application to Promote: [application-name]"
+labels: [ "application-promotion", "operations" ]
+assignees:
+  - va-vsp-bot
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please read before continuing**: This issue form is to request promotion of an application to EKS in higher environments.
+
+        Once completed, the following will be provided:
+          - `AppProject` in ArgoCD
+          - GitHub teams to match the read-only and read/write permission sets for the application
+          - Directory in the [application-manifests repository](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps)
+            - **If your application already exists in the application-manifests repository, it will need to follow the existing pattern (i.e. `apps/<application-name>/<env>`)**
+  - type: checkboxes
+    id: acknowledge
+    attributes:
+      label: Acknowledge Instructions
+      description: Please acknowledge that you have read the above instructions
+      options:
+        - label: |
+            I acknowledge that I have read the above instructions and understand the application name provided will be used to create various resources
+          required: true
+  - type: input
+    id: appname
+    attributes:
+      label: Application Name
+      description: Name of Application to Onboard
+      placeholder: vets-api-server
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      description: To which environment is the application being promoted?
+      options:
+        - staging
+        - sandbox
+        - prod
+    validations:
+      required: true
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer
+      description: GitHub Username of Team Lead
+      placeholder: my-github-username-va
+    validations:
+      required: true
