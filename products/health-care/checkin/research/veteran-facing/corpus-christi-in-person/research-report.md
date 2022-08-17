@@ -76,21 +76,33 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 # Hypotheses and Conclusions
 
 - Veterans who use pre-check-in are able to complete the required steps. 
-  - UNKNOWN: We weren't able to talk to any Veterans who completed pre-check-in during this trip.
+  - NOT ENOUGH INFORMATION: We weren't able to talk to any Veterans who completed pre-check-in during this trip.
 - Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment. 
   - LIKELY FALSE: 13 staff members mentioned that Veterans don’t know the difference between pre-check-in and day of the appointment check-in. Most often Veterans assume that they are completely checked in, because they completed pre-check-in.
 - Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
-5. When presented with an opportunity to check in via Spanish, Veterans may choose to check in using their preferred language.
-6. Check-in was easy to understand and used plain language for Spanish speakers.  
-7. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
-8. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
-9. MSAs will have shorter lines of Veterans waiting to be checked in. 
-10. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-11. Veterans will indicate that check-in does not affect their care experience. 
-12. Veterans are able to use the check-in poster without friction. 
-13. Veterans refer to the process as “check in” or “mobile check in.” 
-14. Veterans are called for their appointment once check-in is complete.  
-15. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
+  - NOT ENOUGH INFORMATION: Not enough information captured.
+- When presented with an opportunity to check in via Spanish, Veterans may choose to check in using their preferred language.
+  - NOT ENOUGH INFORMATION: Not enough information captured.
+- Check-in was easy to understand and used plain language for Spanish speakers.  
+  - NOT ENOUGH INFORMATION: Not enough information captured.
+- MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
+  - DEFINITELY FALSE: Even though there is a portion of Veterans who do not need MSAs assistance when using PCI. MSAs spend a lot of time troubleshooting PCI for Veterans.
+- MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
+  - DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in.
+- MSAs will have shorter lines of Veterans waiting to be checked in. 
+  - LIKELY FALSE: MSAs reported that more Veterans are checking in with them now compared to before PCI's launch.
+- MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
+  - LIKELY FALSE: While staff often help troubleshoot; they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
+- Veterans will indicate that check-in does not affect their care experience. 
+  - MAYBE TRUE: We did not encouter any Veterans who had a negative experience with PCI or weren't able to go to MSAs if they received an error message when utilizing PCI.
+- Veterans are able to use the check-in poster without friction. 
+  - DEFINITELY TRUE: All 16 participants, who attempted PIC, were able to use the check-in poster. Many had difficultly creating a new text message or scanning the QR code, but they understood what the poster was asking them to do.
+- Veterans refer to the process as “check in” or “mobile check in.” 
+  - NOT ENOUGH INFORMATION: Not enough information captured. However, some Veterans did describe it as "check-in."
+- Veterans are called for their appointment once check-in is complete.
+  - SOMEWHAT TRUE: Veterans who we observed using mobile check-in were updated in VSE. However, we did hear from MSAs that some Veterans don't finish PCI completely, but think that they do. Therefore, they sit in the waiting room and staff are unaware that they are there.  
+- Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
+  - NOT ENOUGH INFORMATION: Not enough information captured. We were unable to talk to Veterans about travel reimbursement during this trip.
 
 # Key Findings
 ## Insights into Usage Numbers
