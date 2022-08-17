@@ -4,7 +4,7 @@
 ### 8/16/22 Agenda Items
 - Short form - Expansion on Service History
      - Reviewed each of the existing Service History items with Christopher H. and team
-          - Each of the service history items require extensive verification, and some required finiancial details
+          - Each of the service history items require extensive verification, and some required financial details
           - The Short Form flow skips the Financial information section, and would not benefit the current process
           - [x]**Heather** to include presentation with notes for HEC team to review for any other opportunities with Stacey Echols
           - This enhancement will be placed in the backlog until we find other opportunities to expand Short Form eligibility
