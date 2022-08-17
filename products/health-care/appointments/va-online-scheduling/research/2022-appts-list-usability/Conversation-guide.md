@@ -41,9 +41,9 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=scale-down-width&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1169%3A59522&hide-ui=1)
 
-* Use chat to send user [Link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=scale-down-width&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
+* Use chat to send user [Link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1172%3A81535&hide-ui=1)
 
 * Talk participant through screen sharing so they can share their screen.
 
