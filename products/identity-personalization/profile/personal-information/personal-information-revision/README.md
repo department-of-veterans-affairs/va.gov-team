@@ -1,6 +1,6 @@
 # Project outline: Profile Personal Information Revision
 
-Last updated: July 15, 2022 
+Last updated: August 17, 2022 
 
 ### Table of Contents
 
