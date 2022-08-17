@@ -7,6 +7,7 @@ Last update: 8/11/2022
 
 ## Resources
 - [VA Mobile App site map Mural board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/VA%20Mobile%20App%20sitemap%20(current%20state%202-7-22).png)
+- [VA Mobile App screen roundup](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1644341290076/ae8950773187ee1bc35eb1302b8276e8f3356881?wid=0-1644531828155)
 - [VA Mobile App comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis)
 - [MyVA logged in homepage redesign comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
 
