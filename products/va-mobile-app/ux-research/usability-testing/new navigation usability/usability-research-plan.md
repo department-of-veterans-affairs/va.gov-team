@@ -103,7 +103,7 @@ This research will help us identify opportunities to improve the planned informa
 
 #### Research materials
 
-* [Conversation guide]()
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-conversation-guide.md)
 * Figma Prototype ([Android](https://figma.fun/Ts25Y1/view)) ([iOS](https://figma.fun/Ts25Y1/))
 * [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit#gid=0)
 
