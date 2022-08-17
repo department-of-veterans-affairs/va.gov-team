@@ -30,9 +30,9 @@ Last updated [date]
 
 - Total debt amount is pulled from the [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
 
-- Number of outstanding debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays
+- Number of outstanding debts is pulled from [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
 
-- Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays. This should be plural if there is more than one debt; singular if there is only one.
+- Last updated date should be the most recent date that any outstanding debt has been updated in [combined debt portal](https://www.va.gov/manage-va-debt/your-debt) - does not include copays.
 
 ---
 
@@ -53,7 +53,7 @@ Last updated [date]
 
 (**$XX.XX**)
 
-[XX] copay bills
+[X] copay bills
 
 Due by [date]
 
@@ -92,6 +92,8 @@ You have no outstanding debts or copay bills.
 - If a user has no copays or debts in the debt portal or all of their copays and debts equal 0.
 
 [Learn about VA debt](https://www.va.gov/resources/va-debt-management/)
+
+---
 
 ## Error States
 
