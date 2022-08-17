@@ -97,7 +97,7 @@ You have no outstanding debts or copay bills.
 
 ## Error States
 
-### Error State 1: The Debt API call fails
+### Error State 1: The Debt API or Copay API call fails
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
