@@ -60,20 +60,19 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## Scenario 1: - X minutes
-You scheduled a new primary care appointment and want to double check what time the appointment is scheduled for and where to attend. How would you do that from here?
+You scheduled a new primary care appointment and want to double check your appointment details. How would you do that from here?
 
 ### Things to watch for:
 
 - [Can participant find primary care appointment in list]
 - [Does the participant Understands what time appointment takes place]
-- [Is the participant aware that they can click back button to start next scenario]
 
 ## Scenario 2: - X minutes
-You remember scheduling a telephone appointment, and want to check how to join it. How would you do that from here?
+You remember scheduling a video appointment, and want to check how to join it. How would you do that from here?
 
 ### Things to watch for:
 
-- [Can the participant find telephone appointment]
+- [Can the participant find video appointment]
 - [Can participant find joining instructions]
 
 ## Scenario 3: - X minutes
@@ -85,7 +84,7 @@ You want to print your list of appointments to help your caregiver keep track of
 - [Does the participant select print option on page]
 
 ## Scenario 4: - X minutes
-You remember requesting an appointment from your provider, and want to check that you’ll still be available at the time you requested. How would you do that from here?
+You remember requesting an appointment with your provider, and want to check that you’ll still be available for the timesthat you requested. How would you do that from here?
 
 ### Things to watch for:
 
@@ -104,7 +103,7 @@ You want to check the last time you had a primary care appointment. How would yo
 - [Does participant understand past appointments]
 
 ## Scenario 6: - X minutes
-Finally, while you’re here you’ll set up a new eye care appointment. How would you do that from here?
+Finally, You need to set up a new eye care appointment. How would you do that from here?
 
 ### Things to watch for:
 
