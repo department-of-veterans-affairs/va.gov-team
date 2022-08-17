@@ -26,9 +26,9 @@ North Stars:
 
 Goals:
 
-1. Veterans and their families can apply for all benefits online
-5. Veterans and their families can find a single, authoritative source of information
-6. Veterans and their families trust the security, accuracy, and relevancy of VA.gov
+\1. Veterans and their families can apply for all benefits online
+\5. Veterans and their families can find a single, authoritative source of information
+\6. Veterans and their families trust the security, accuracy, and relevancy of VA.gov
 
 Increase:
 
