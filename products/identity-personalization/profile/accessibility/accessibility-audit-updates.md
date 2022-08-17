@@ -1,6 +1,6 @@
 # Accessibility audit & updates
 
-**Last updated: August 16, 2022**
+**Last updated: August 17, 2022**
 
 _We should consolidate all accessibility feedback we've gotten, review it, and determine next steps. Tasks run from full-on projects (eg. moving edit from in-line to another page) to smaller tasks we can knock out as time allows._
 
@@ -31,6 +31,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   Concern raised during BAI pilot session with Angela
 -   We still have edit buttons that look like links in the alerts, and next to the address entered by the user
 -   **Next steps:** TBD
+-   **Considerations:** What percentage of users end up going through this flow? Knowing this could help us prioritize.
 
 ### Name tag
 -   Currently, nametag is hiding above the first heading and there's a good chance a screen reader user wouldn't catch this (unless a beginner)
