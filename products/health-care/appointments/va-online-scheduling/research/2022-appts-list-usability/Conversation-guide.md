@@ -140,7 +140,7 @@ While youre on this page, I wanted to talk a bit about what you see here.
 - What could we do better?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -149,12 +149,10 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
-##
-
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+## Sample Conversation Guide
 
 - [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
