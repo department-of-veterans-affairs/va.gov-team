@@ -59,14 +59,12 @@ vets-api:
 - [Sequence diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/1095-B%20Sequence%20Diagram.md)
 
 ### API endpoint descriptions
-- API endpoint: 1095-B PDF download endpoint
+- API endpoint: [1095-B PDF download endpoint](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_1095_b/downloadPdfForm1095B)
     - Route: 'form1095_bs/download_pdf/:tax_year'
-- API endpoint: 1095-B text file download endpoint
+- API endpoint: [1095-B text file download endpoint](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_1095_b/downloadTextForm1095B)
     - Route: 'form1095_bs/download_txt/:tax_year'
-- API endpoint: Endpoint to get the time the form was last updated 
+- API endpoint: [Endpoint to get the time the form was last updated](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_1095_b/getAvailable1095BForms)
     - Route: 'form1095_bs/available_forms'
-
-[Swagger API documentation](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_1095_b)
 
 ### Feature Toggle
 
