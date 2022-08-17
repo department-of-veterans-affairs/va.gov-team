@@ -41,9 +41,9 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1169%3A59522&hide-ui=1)
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1334%3A68885&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1334%3A68885&hotspot-hints=0&hide-ui=1)
 
-* Use chat to send user [Link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1172%3A81535&hide-ui=1)
+* Use chat to send user [Link to mobile prototype.](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1334%3A70134&viewport=-1066%2C-1078%2C0.05&scaling=min-zoom&starting-point-node-id=1334%3A70134&hotspot-hints=0&hide-ui=1)
 
 * Talk participant through screen sharing so they can share their screen.
 
@@ -62,64 +62,83 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 ## Scenario 1: - X minutes
 You scheduled a new primary care appointment and want to double check your appointment details. How would you do that from here?
 
-### Things to watch for:
+**Follow up:** Tell me about this page. 
 
-- [Can participant find primary care appointment in list]
-- [Does the participant Understands what time appointment takes place]
+#### Things to watch for:
+
+- _Can participant find primary care appointment in list_
+- _Does the participant Understands what time appointment takes place_
 
 ## Scenario 2: - X minutes
 You remember scheduling a video appointment, and want to check how to join it. How would you do that from here?
 
-### Things to watch for:
+**Follow up:** Tell me about this page. What can you do here?
 
-- [Can the participant find video appointment]
-- [Can participant find joining instructions]
+#### Things to watch for:
+
+- _Can the participant find video appointment_
+- _Can participant find joining instructions_
+- _Can participant find the back button to navigate back_ 
 
 ## Scenario 3: - X minutes
 You want to print your list of appointments to help your caregiver keep track of it. How would you do that from here?
 
-### Things to watch for:
+#### Things to watch for:
 
-- [Does the participant choose the print option from their browser.]
-- [Does the participant select print option on page]
+**Follow up:** Is printing a page like this something you would do typically?
+
+- _Does the participant choose the print option from their browser._
+- _Does the participant select print option on page_
 
 ## Scenario 4: - X minutes
-You remember requesting an appointment with your provider, and want to check that you’ll still be available for the timesthat you requested. How would you do that from here?
+You remember requesting a phone appointment with your primary care provider, and want to check that you’ll still be available for the times that you had requested. How would you do that from here?
 
-### Things to watch for:
+**Follow up:** What are your thoughts on this page.
 
-- [Does the participant click “pending” link.]
-- [Can participant find pending appointment]
-- [Can participant find time requested]
-- [Does participant understand pending appointments]
+#### Things to watch for:
+
+- _Does the participant click “pending” link._
+- _Can participant find pending appointment_
+- _Can participant find time requested_
+- _Does participant understand pending appointments_
 
 ## Scenario 5: - X minutes
 You want to check the last time you had a primary care appointment. How would you do that from here?
 
-### Things to watch for:
+#### Things to watch for:
 
-- [Can participant find “past” link]
-- [Can participant find previous Primary care appointment]
-- [Does participant understand past appointments]
+- _Can participant find “past” link_
+- _Can participant find previous Primary care appointment_
+- _Does participant understand past appointments_
 
 ## Scenario 6: - X minutes
 Finally, You need to set up a new eye care appointment. How would you do that from here?
 
-### Things to watch for:
+#### Things to watch for:
 
-- [Does participant click the start scheduling action link]
+- _Does participant click the start scheduling action button
 
+## Scenario 7: - X minutes
+While youre on this page, I wanted to talk a bit about what you see here. 
+
+- Can you tell the difference between the appointment on Monday, July 1 at 8 am
+
+
+#### Things to watch for:
+
+- _Does participant click the start scheduling action button
 
 ## Post-Task Interview - X minutes
 
+I want to talk a bit about this page.
 
-Does anything you saw today reflect how you manage your health care appointments? 
+- Does anything you saw today reflect how you manage your health care appointments? 
 
-Of everything you saw today, what was the most confusing, or challenging?
+- Of everything you saw today, what was the most confusing, or challenging?
 
-What worked well?
+- What worked well?
 
-What could we do better?
+- What could we do better?
 
 
 ## Thank-You and Closing - X minutes
