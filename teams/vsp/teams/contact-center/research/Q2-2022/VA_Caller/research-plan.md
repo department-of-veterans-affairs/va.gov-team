@@ -11,7 +11,7 @@ This research supports the following:
 - Veterans and their families can find a single, authoritative source of information.
 - Logged-in users have a personalized experience, with relevant and time-saving features
 - Veterans and their families trust the security accuracy and relevancy of VA.gov
-~~- Platform users can build and deploy high-quality products for Veteran~~
+
 
 
 ### Veteran Journey
@@ -24,9 +24,9 @@ This research sits within these stages of the Veteran Journey:
 ## Research Goals	
 We are trying to learn the following from this research:
  
-· Understand the ~~all~~ pain points of ~~Veterans~~ VA.gov users that use Tier 1 Call Center systems for resolving VA.gov issues. ~~their needs~~
+· Understand the pain points of VA.gov users that use Tier 1 Call Center systems for resolving VA.gov issues. 
 
-· Discover insights and task blockers for ~~Veterans~~ VA.gov users that have their ~~service calls~~ issues routed from Tier 1 to Tier 2 
+· Discover insights and task blockers for VA.gov users that have theirissues routed from Tier 1 to Tier 2 
 
 · Discover insights regarding Tier 1 service teams using VA tools Salesforce, Microsoft Dynamics and Ask VA (AVA) to interface with Veterans and/or their beneficaries. 
 
@@ -41,16 +41,11 @@ Consider bucketing research questions under research goals. For each question, t
 - *I think these questions might be a bit too broad but overall are in the right direction.*
 
 For Veterans  
- · ~~For your primary VA needs~~ When you encounter an problem on VA.gov, what steps do you take to contact the VA about your issue ~~reach a VA offical and/or call center?~~
- 
+ · When you encounter an problem on VA.gov, what steps do you take to contact the VA about your issue 
  · What have been blockers/ difficulties in getting services through your VA call center? 
- 
  · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)? 
- 
  · When recieving a resolution for your case, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
- 
  · Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry? 
- 
  · Did you understand the timeframe in which you recieved an overall resolution to your inquiry? 
 
 
