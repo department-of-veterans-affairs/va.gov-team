@@ -39,12 +39,19 @@ In an effort to keep contact information in one place, this is now in the [READM
 
 The following (merged) PRs are probably the best way to show the code for 1095-B
 
+vets-website:
+
 - [Widget for downloading 1095-B form](https://github.com/department-of-veterans-affairs/vets-website/pull/20619)
 - [Text version of 1095-B form](https://github.com/department-of-veterans-affairs/vets-website/pull/21847/files)
 - [Add analytics to pdf,text radio buttons](https://github.com/department-of-veterans-affairs/vets-website/pull/21887)
 - [End to end testing](https://github.com/department-of-veterans-affairs/vets-website/pull/21919)
 - [Feature toggle](https://github.com/department-of-veterans-affairs/vets-website/pull/21926)
+
+vets-api:
+
 - [vets-api PR](https://github.com/department-of-veterans-affairs/vets-api/pull/10285/files)
+- [Script that loads 1095-B data from S3 bucket](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/workers/form1095/new1095_bs_job.rb)
+
 
 ### Links to technical diagrams
 - [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
