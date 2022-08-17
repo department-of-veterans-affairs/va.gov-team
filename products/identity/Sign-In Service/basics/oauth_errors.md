@@ -26,7 +26,14 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | 400 | **Code is not defined** | The `code` parameter is not present | `code` parameter is missing |
 | 400 | **State is not defined** | The `state` parameter is not present or not valid | `state` must be present and not empty or malformed |
 | n/a | **State mismatch (client-side)** | The `state` parameter did not match from the original request | Clear cookies & cache, try again |
-
+| 001 | **ID.me Access Denied** | ID.me denied access to the user | Clear cookies & cache, try again |
+| 009 | **Login.gov Access Denied** | Login.gov denied access to the user | Clear cookies & cache, try again |
+| 007 | **Unknown Credential Provider Issue** | An unknown error with the credential provider occurred | Clear cookies & cache, try again |
+| 101 | **Multiple MHV IDs** | The user's account contains multiple MHV IENs | Contact helpdesk to resolve data issue |
+| 102 | **Multiple EDIPIs** | The user's account contains multiple EDIPIs | Contact helpdesk to resolve data issue |
+| 106 | **Multiple CORP IDs** | The user's account contains multiple CORP IDs | Contact helpdesk to resolve data issue |
+| 107 | **MPI Locked Account** | The user's account has been locked by either a fraud flag or death flag | Contact helpdesk to resolve account status |
+  
 ### Token Exchange (`/sign_in/token`)
 
 | Status Code | Error | Description | Fix |
