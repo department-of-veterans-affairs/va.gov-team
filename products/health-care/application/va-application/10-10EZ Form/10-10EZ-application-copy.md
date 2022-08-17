@@ -157,11 +157,17 @@ Month Day Year _(dropdown)_
 
 Social Security number(*Required)
 
-**Place of birth**
+**Your place of birth**
+
+Enter your place of birth, including city and state, province or region.
+
+Why we ask for this information _(more info)_
+
+We ask for place of birth as an identity marker for record keeping. This will not impact your health care eligibility.
 
 City
 
-State _(dropdown)_
+State/Province/Region _(dropdown)_
 
 [<< Back] [Continue >>]
 
