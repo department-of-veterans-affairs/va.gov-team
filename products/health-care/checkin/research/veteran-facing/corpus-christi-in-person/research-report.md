@@ -75,20 +75,22 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 
 # Hypotheses and Conclusions
 
-1. Veterans who use pre-check-in are able to complete the required steps. 
-2.  Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment. 
-3. Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
-4. When presented with an opportunity to check in via Spanish, Veterans may choose to check in using their preferred language.
-5. Check-in was easy to understand and used plain language for Spanish speakers.  
-6. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
-7. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
-8. MSAs will have shorter lines of Veterans waiting to be checked in. 
-9. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-10. Veterans will indicate that check-in does not affect their care experience. 
-11. Veterans are able to use the check-in poster without friction. 
-12. Veterans refer to the process as “check in” or “mobile check in.” 
-13. Veterans are called for their appointment once check-in is complete.  
-14. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
+- Veterans who use pre-check-in are able to complete the required steps. 
+  - UNKNOWN: We weren't able to talk to any Veterans who completed pre-check-in during this trip.
+- Veterans who complete pre-check-in realize that they’re still required to use check-in on the day of their appointment. 
+  - LIKELY FALSE: 13 staff members mentioned that Veterans don’t know the difference between pre-check-in and day of the appointment check-in. Most often Veterans assume that they are completely checked in, because they completed pre-check-in.
+- Completing the pre-check-in experience makes day-of check-in easier for Veterans since contact information, emergency contact information and next of kin information has been reviewed. 
+5. When presented with an opportunity to check in via Spanish, Veterans may choose to check in using their preferred language.
+6. Check-in was easy to understand and used plain language for Spanish speakers.  
+7. MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone. 
+8. MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone. 
+9. MSAs will have shorter lines of Veterans waiting to be checked in. 
+10. MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
+11. Veterans will indicate that check-in does not affect their care experience. 
+12. Veterans are able to use the check-in poster without friction. 
+13. Veterans refer to the process as “check in” or “mobile check in.” 
+14. Veterans are called for their appointment once check-in is complete.  
+15. Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
 
 # Key Findings
 ## Insights into Usage Numbers
