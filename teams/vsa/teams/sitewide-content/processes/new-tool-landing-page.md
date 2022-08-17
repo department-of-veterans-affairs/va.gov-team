@@ -19,9 +19,10 @@ Example:
 - Will you be conducting usability testing of the working page?
   - **Note:** Pages created in Drupal don't appear on staging until after they're published to the live site.
   - Please invite the Sitewide Content and IA team member you worked with on the page to usability testing sessions. We may also have content-specific questions to consider asking during testing.
-- Will you need a REACT sign-in widget? 
-  - **Note:** A Drupal page requires a REACT widget when the product is not launching to 100% of users. Product teams are responsible for creating the REACT sign-widget. The product team provides the sitewide content team with the code to add into Drupal.
+- Will you need a feature toggle? 
+  - **Note:** A Drupal page requires a feature toggle when the product is not launching to 100% of users. Product teams are responsible for creating the REACT sign-widget. The product team provides the sitewide content team with the code to add into Drupal.
 - Do you anticipate a need for password-protecting the landing page for UAT testing and/or a phased rollout of the landing page with dynamic content behind a feature toggle?
+- If you are doing a "dark launch," you will also need to make sure that the page doesn't get indexed by search engines until we're ready for that. You'll need to coordinate with the Public Websites team to no-index the page and make sure it doesn't get added to the xml site map.
   - **Note:** Product teams are responsible for creating and monitoring feature toggles. <br> [Read more about the process for dynamic content on Drupal pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md)
   
 ## Information for staging reviews
