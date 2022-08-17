@@ -24,7 +24,7 @@
 
 ### Planning:
 
-- **Desired date range:** Sept/Oct 2022
+- **Desired date range:** Late Sept/ early Oct 2022
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** The feature will be behind a feature flag.
      - 25% of users (3-5 days), Dates:  #44758
      - 50% of users (3-5 days), Dates:  #44760
@@ -54,25 +54,25 @@ Desired date: Sept/Oct 2022
 
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx 
-- Any issues with VA handling/processing?: yes/no, 
-- Types of errors logged: m
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- Number of unique users: 
+- Post-launch KPI 1 actual: 
+- Any issues with VA handling/processing?: 
+- Types of errors logged: 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
 - If yes, what: 
 
 ### 2-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx 
-- Any issues with VA handling/processing?: yes/no, 
+- Number of unique users: 
+- Post-launch KPI 1 actual: 
+- Any issues with VA handling/processing?: 
 - Types of errors logged:
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
 - If yes, what: 
 
 ### 3-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx 
-- Any issues with VA handling/processing?: yes/no, 
+- Number of unique users: 
+- Post-launch KPI 1 actual: 
+- Any issues with VA handling/processing?: 
 - Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: 
