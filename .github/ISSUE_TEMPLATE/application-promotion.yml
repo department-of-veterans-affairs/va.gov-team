@@ -36,7 +36,7 @@ body:
     id: environment
     attributes:
       label: Environment
-      description: To which environment is the application being promoted?
+      description: Select an environment for promotion
       options:
         - staging
         - sandbox
