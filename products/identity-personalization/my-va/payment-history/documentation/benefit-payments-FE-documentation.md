@@ -56,7 +56,7 @@ You don't have any recent payments to show.
 
 ### Manage direct deposit link
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153481-a47957ed-7357-48af-840b-13fff4137f49.png)
 
 Use font awesome icon `dollar` for icon in link list
 
@@ -65,8 +65,6 @@ Use font awesome icon `dollar` for icon in link list
 
 **Do NOT Show**
 - If a user does not have direct deposit set up.
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-direct-deposit.png" width="50%" />
 
 #### Content
 
@@ -79,14 +77,14 @@ Use font awesome icon `dollar` for icon in link list
 - Use font awesome icon “user-check”
 
 **Show in link list**
-- If a user has not had a payment in the last 30 days but has in the past
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+- If a user has not had a payment in the last 30 days but has in the past.
+![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153689-a6c0bb5e-357d-4a44-8c33-eb2cfdf54fde.png)
 
 **Do NOT show in link list**
-- If a user has never received a payment
+- If a user has never received a payment.
 
 #### Content
-[View your payment history](/va-payment-history/payments) 
+[View your payment history](https://www.va.gov/va-payment-history/payments/)
 
 ---
 
