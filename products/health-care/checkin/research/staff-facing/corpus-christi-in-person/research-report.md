@@ -87,7 +87,7 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 - The pre-check-in experience makes day-of check-in easier for staff since contact information, emergency contact information and next of kin information has been reviewed.
   - LIKELY TRUE: It's likely that the speed of check-ins with VSE are quicker when contact information, emergency contact information and next of kin information is verified with pre-check-in. However, we did not collect enough information to validate. We did find out that pre-check-in and day of check-in are oftern cnfused.
 - MSAs will have limited interaction with Veterans during check-in since Veterans are able to check-in on their smartphone.
-  - DEFINITELY FALSE: Even though there is a portion of Veterans who do not need MSAs assistance when using PCI. MSAs spend a lot of time troubleshooting PCI for Veterans.
+  - DEFINITELY FALSE: Even though there is a portion of Veterans who do not need MSAs assistance when using PCI, MSAs spend a lot of time troubleshooting PCI for Veterans.
 - MSAs will check Veterans in with VSE that don’t have a smartphone or have difficulty using their smartphone.
   - DEFINITELY TRUE: No MSA forced Veterans to use mobile check-in.
 - MSAs will have shorter lines of Veterans waiting to be checked in.
@@ -95,9 +95,9 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 - The number of applications that MSAs use to manage the check-in process will be reduced and, therefore, workload will be decreased.
   - LIKELY TRUE: MSAs stated that they liked the shift to VSE-GUI, because it is similar to VetLink and they are utilizing fewer software systems.
 - MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-  - LIKELY FALSE: While staff often help troubleshoot; they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
+  - LIKELY FALSE: While staff often help troubleshoot, they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
 - MSAs will indicate that communication between MSAs and clinicians is frictionless due to the staff applications working as intended.
-  - MAYBE TRUE: Most communication is frictionless between MSAs and clinicians (particuarly nursing) when VSE-CS is functioning. However, they have been much frustration from staff, because VSE-CS hasn't been functioning properly. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating and missing accurate information.
+  - MAYBE TRUE: Most communication is frictionless between MSAs and clinicians (particuarly nursing) when VSE-CS is functioning. However, there has been much frustration from staff, because VSE-CS hasn't been functioning properly. Staff do not find VSE-CS reliable enough to effectively utilize due to lists not updating or missing accurate information.
 - MSAs provide Spanish translation support in an ad-hoc fashion to Veterans/caregivers when needed.
   - MAYBE TRUE FOR A LIMITED POPULATION. Staff mentioned some interactions with bilingual Veterans and caregivers, but didn't note this affecting check-in in any way. However, more information should be gathered to validate.
 - Staff will be able to enumerate which PCI data they want to review within reports.
