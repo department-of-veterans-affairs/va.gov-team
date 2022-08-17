@@ -2,7 +2,18 @@
 
 Last updated: July 15, 2022 
 
-### Communications
+### Table of Contents
+
+- [POCs](#pocs)
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [Solution Approach](#solution-approach)
+- [Design](#design)
+
+### POCs
 
 - **Github labels**: vsa-authenticated-exp
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
@@ -21,16 +32,6 @@ Last updated: July 15, 2022
 |Laurie Baker | VBA partner | laurie.baker@va.gov |
 |Lexi Matza | Deputy Director, LGBTQ Health Services | alexis.matza@va.gov |
 |Michael Kauth| Director, LGBTQ Health Services |michael.kauth@va.gov|
-
-### Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
-- [Solution Approach](#solution-approach)
-- [Design](#design)
 
 ## Overview
 
