@@ -54,9 +54,9 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 ## Section 2: Prototype setup & screenshare (5 minutes)
 * Now we’re going to move on to the prototype part of our conversation. During our session today, I am going to have you imagine a series of situations and I’d like you to use the app to work through them.
 * First, I’d like to ask you to share your phone screen so I can help you install the app and we can look at it together. I can walk you through how to start the screen share.
-*[Help participant share screen]*
-[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-[Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+* *[Help participant share screen]*
+  * [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+  * [Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 * Great, I’m seeing your screen. Now I’m going to help you get the app ready.
 * I am going to send you a link to the app we will be using in the session in the Zoom chat. Please go ahead and tap on the link to open it on your phone. 
   * Prototype ([Android](https://figma.fun/Ts25Y1/view)) ([iOS](https://figma.fun/Ts25Y1/))
