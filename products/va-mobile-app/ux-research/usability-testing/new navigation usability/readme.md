@@ -8,7 +8,7 @@ See [VA Mobile App - Information Architecture & Navigation - High Level Project 
 See above for previous  phases.
 
 **Usability Study**
-- [Research plan]
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-research-plan.md)
 - [Research report] 
 
 **Proposed Sitemap**
