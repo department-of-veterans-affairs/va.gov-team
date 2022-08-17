@@ -59,7 +59,7 @@ Thanks!
 
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-## Scenario 1: - X minutes
+## Scenario 1: - 5 minutes
 You scheduled a new primary care appointment and want to double check your appointment details. How would you do that from here?
 
 **Follow up:** Tell me about this page. 
@@ -69,7 +69,7 @@ You scheduled a new primary care appointment and want to double check your appoi
 - _Can participant find primary care appointment in list_
 - _Does the participant Understands what time appointment takes place_
 
-## Scenario 2: - X minutes
+## Scenario 2: - 5 minutes
 You remember scheduling a video appointment, and want to check how to join it. How would you do that from here?
 
 **Follow up:** Tell me about this page. What can you do here?
@@ -80,7 +80,7 @@ You remember scheduling a video appointment, and want to check how to join it. H
 - _Can participant find joining instructions_
 - _Can participant find the back button to navigate back_ 
 
-## Scenario 3: - X minutes
+## Scenario 3: - 5 minutes
 You want to print your list of appointments to help your caregiver keep track of it. How would you do that from here?
 
 #### Things to watch for:
@@ -90,7 +90,7 @@ You want to print your list of appointments to help your caregiver keep track of
 - _Does the participant choose the print option from their browser._
 - _Does the participant select print option on page_
 
-## Scenario 4: - X minutes
+## Scenario 4: - 5 minutes
 You remember requesting a phone appointment with your primary care provider, and want to check that you’ll still be available for the times that you had requested. How would you do that from here?
 
 **Follow up:** What are your thoughts on this page.
@@ -102,7 +102,7 @@ You remember requesting a phone appointment with your primary care provider, and
 - _Can participant find time requested_
 - _Does participant understand pending appointments_
 
-## Scenario 5: - X minutes
+## Scenario 5: - 5 minutes
 You want to check the last time you had a primary care appointment. How would you do that from here?
 
 #### Things to watch for:
@@ -111,26 +111,25 @@ You want to check the last time you had a primary care appointment. How would yo
 - _Can participant find previous Primary care appointment_
 - _Does participant understand past appointments_
 
-## Scenario 6: - X minutes
+## Scenario 6: - 5 minutes
 Finally, You need to set up a new eye care appointment. How would you do that from here?
 
 #### Things to watch for:
 
 - _Does participant click the start scheduling action button
 
-## Scenario 7: - X minutes
+## Scenario 7: - 5 minutes
 While youre on this page, I wanted to talk a bit about what you see here. 
 
-- Can you tell the difference between the appointment on Monday, July 1 at 8 am
+- Can you tell the difference between the appointment on Monday, July 1 at 8 am?
+- Can you tell the status of the appointment on Friday, September 6th?
 
 
 #### Things to watch for:
 
 - _Does participant click the start scheduling action button
 
-## Post-Task Interview - X minutes
-
-I want to talk a bit about this page.
+## Post-Task Interview - 5 minutes
 
 - Does anything you saw today reflect how you manage your health care appointments? 
 
