@@ -29,6 +29,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 ### Address validation 
 -   Address validation is a considerably difficult flow for screen reader users
 -   Concern raised during BAI pilot session with Angela
+-   We still have edit buttons that look like links in the alerts, and next to the address entered by the user
 -   **Next steps:** TBD
 
 ### Name tag
