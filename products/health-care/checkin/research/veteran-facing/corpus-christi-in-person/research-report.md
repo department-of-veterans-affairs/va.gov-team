@@ -122,7 +122,7 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 12. Long load times are negatively impacting the PCI experience for a portion of Veterans.
 13. MSA workloads have increased due to checking in more Veterans who don’t want to try PCI, educating Veterans about PCI, and troubleshooting PCI.
 14. Staff have questions about the marketing efforts related to PCI.
-15. Staff had many feature requests for PCI.
+15. Staff had many feature requests for PCI. Many staff asked if PCI could handle scheduled lab appointments.
 
 ## Pre-check-in Findings
 16. Many staff and Veterans are not aware of pre-check-in or confused about its difference compared to checking in on the day of an appointment.
@@ -324,7 +324,7 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
   - Revisit staff education about the available marketing materials.
   - Continue to iterate on the marketing strategy.
 
-#### 15. Staff had many feature requests for PCI. Many staff asked if PCI could handle additional appointment types.
+#### 15. Staff had many feature requests for PCI. Many staff asked if PCI could handle scheduled lab appointments.
 - Checking in for additional appointment types:
   - Scheduled labs
     - Scheduled lab appointments don’t have to occur at the exact time that they are scheduled for. A Veteran can come in anytime within 14 days of the order being placed.
