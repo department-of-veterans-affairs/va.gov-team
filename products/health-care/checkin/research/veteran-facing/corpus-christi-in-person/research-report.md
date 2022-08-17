@@ -92,15 +92,15 @@ The research plan, conversation guide and session notes for our [Veteran](https:
 - MSAs will have shorter lines of Veterans waiting to be checked in. 
   - LIKELY FALSE: MSAs reported that more Veterans are checking in with them now compared to before PCI's launch.
 - MSAs are comfortable with troubleshooting error messages with Veterans and know how to clear appropriate review flags in VSE.
-  - LIKELY FALSE: While staff often help troubleshoot; they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
+  - LIKELY FALSE: While staff often help troubleshoot, they aren't always sure what each error means. For instance, MSAs noticed Veterans coming to them, because they need to review their insurance. However, ICB won't have them listed.
 - Veterans will indicate that check-in does not affect their care experience. 
-  - MAYBE TRUE: We did not encouter any Veterans who had a negative experience with PCI or weren't able to go to MSAs if they received an error message when utilizing PCI.
+  - MAYBE TRUE: We did not encouter any Veterans who had a negative experience with PCI or who weren't able to go to MSAs after receiving a PCI error message to resolve the problem.
 - Veterans are able to use the check-in poster without friction. 
-  - DEFINITELY TRUE: All 16 participants, who attempted PIC, were able to use the check-in poster. Many had difficultly creating a new text message or scanning the QR code, but they understood what the poster was asking them to do.
+  - DEFINITELY TRUE: All 16 participants, who attempted PCI, were able to use the check-in poster. Many had difficultly creating a new text message or scanning the QR code, but they understood what the poster was asking them to do.
 - Veterans refer to the process as “check in” or “mobile check in.” 
   - NOT ENOUGH INFORMATION: Not enough information captured. However, some Veterans did describe it as "check-in."
 - Veterans are called for their appointment once check-in is complete.
-  - SOMEWHAT TRUE: Veterans who we observed using mobile check-in were updated in VSE. However, we did hear from MSAs that some Veterans don't finish PCI completely, but think that they do. Therefore, they sit in the waiting room and staff are unaware that they are there.  
+  - SOMEWHAT TRUE: Veterans who we observed using mobile check-in were updated in VSE. However, we did hear from MSAs that some Veterans don't finish PCI completely, but thought that they did. Therefore, they sit in the waiting room, while staff are unaware that they are there.  
 - Veterans will indicate that the workflow in the travel reimbursement prototypes are optimal and that no required steps are missing. 
   - NOT ENOUGH INFORMATION: Not enough information captured. We were unable to talk to Veterans about travel reimbursement during this trip.
 
