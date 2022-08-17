@@ -1,4 +1,4 @@
-# Research Plan for \[Team, Product, Date\]
+# Research Plan for Facilities, Veteran Benefits Administration Pages, August 2022
 
 ## Background
 
@@ -20,26 +20,30 @@ This research aligns with the following OCTO Objectives
 
 North Stars:
 
-1.  Increase the usage and throughput of VA services
-2.  Decrease the time Veterans spend waiting for an outcome
-3.  Increase the quality and reliability of VA services
+> 1\. Increase the usage and throughput of VA services
+> 
+> 2\. Decrease the time Veterans spend waiting for an outcome
+> 
+> 3\. Increase the quality and reliability of VA services
 
 Goals:
 
-\1. Veterans and their families can apply for all benefits online
-\5. Veterans and their families can find a single, authoritative source of information
-\6. Veterans and their families trust the security, accuracy, and relevancy of VA.gov
+> 1\. Veterans and their families can apply for all benefits online
+> 
+> 5\. Veterans and their families can find a single, authoritative source of information
+> 
+> 6\. Veterans and their families trust the security, accuracy, and relevancy of VA.gov
 
 Increase:
 
-*   Usage of digital, self-service tools
-*   Percent of applications submitted online (maybe, if we can help Veterans move from this tool to online application)
-*   Benefit use and enrollment
-*   Veteran satisfaction with VA.gov
+> *   Usage of digital, self-service tools
+> *   Percent of applications submitted online (maybe, if we can help Veterans move from this tool to online application)
+> *   Benefit use and enrollment
+> *   Veteran satisfaction with VA.gov
 
 Decrease:
 
-*   Call center volume, wait time, and time to resolution
+> *   Call center volume, wait time, and time to resolution
 
 ### Veteran Journey
 
@@ -55,7 +59,7 @@ Veteran Benefits Administration pages touch on the following stages of the Veter
 
 *   Do veterans understand the different types of facilities?
 *   What are the top tasks that veterans seek out the Veteran Benefits Administration for? 
-*   How important is the child location relationship to the RO for veterans? 
+*   How important is the child location relationship to the RO for veterans?
 
 ### Outcome
 
