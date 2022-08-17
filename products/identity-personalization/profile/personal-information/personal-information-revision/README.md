@@ -6,7 +6,7 @@ Last updated: July 15, 2022
 
 - [POCs](#pocs)
 - [Overview](#overview)
-- [Problem Statement](#problem-statement)
+- [User Problem Statements](#user-problem-statements)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -39,7 +39,7 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 **Note**: As of March 2022, it has been determined that we will only be adding preferred name and gender identity to start, as they are already approved for data collection via the 10-10EZ health care application. Pronouns and sexual orientation, however, are not approved as part of any VA forms and need to go through PRA approval before we can add them to VA.gov. The current plan is for the health care folks to get pronouns and sexual orientation added to the 10-10EZ, at which point we can add these fields to VA.gov.
 
-## Problem Statement
+## User problem statements
 
 - As a Veteran, I want to be able to easily manage and update my preferred name, pronouns, gender identity, and sexual orientation so that the VA has accurate information for me.
 - As a Veteran, I want to be able to easily manage and update my preferred name, pronouns, gender identity, and sexual orientation so that I am addressed accurately in my business with the VA.
