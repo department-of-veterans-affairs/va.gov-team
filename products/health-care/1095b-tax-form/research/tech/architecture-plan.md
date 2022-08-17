@@ -26,7 +26,7 @@ This is where we get the 1095-B Veteran data from.
 S3 bucket
 ---------
 
-This is where the initial flat file is stored before it is parsed. 
+This is where the initial flat file is stored before it is parsed. The name of the production S3 bucket is: dsva-vagov-prod-1095b-form-uploads
 
 **Steps**
 
@@ -37,7 +37,7 @@ This is where the initial flat file is stored before it is parsed.
 Injest Job
 ----------
 
-A scheduled rails task that reads in the flat file from S3, and stores the 1095-B records in the vets-api database.
+A [scheduled rails task](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/workers/form1095/new1095_bs_job.rb) that reads in the flat file from S3, and stores the 1095-B records in the vets-api database.
 
 
 Vets API database
