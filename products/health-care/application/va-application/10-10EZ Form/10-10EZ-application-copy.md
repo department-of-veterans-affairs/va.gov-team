@@ -655,6 +655,8 @@ No
 
 _(if yes)_ What is your Medicare Part A effective date?(*Required)
 
+You’ll find this date under “coverage starts” on the front of your Medicare card.
+
 Month Day Year _(dropdown)_
 
 [<< Back] [Continue >>]
