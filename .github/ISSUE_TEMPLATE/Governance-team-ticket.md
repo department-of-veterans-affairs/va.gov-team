@@ -16,10 +16,6 @@ Peer Reviewer:
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
-## Problem Statements
-[Mural Workshop List](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1658842757076/f68e85e021f855dfecf67be0a8663874b3129996?sender=u5d556df3430960096c525037)
-
-
 ## Impacted Artifacts
 
 

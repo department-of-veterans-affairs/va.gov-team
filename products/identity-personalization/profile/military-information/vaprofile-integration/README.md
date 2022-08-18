@@ -1,6 +1,6 @@
 # Project outline: Integrate military information through VA Profile
 
-Last updated: August 9, 2022 
+Last updated: August 18, 2022 
 
 ### Communications
 
@@ -79,3 +79,5 @@ In February 2022, we were informed that the service through which the VA.gov pro
 - July 2022: Waiting for VA Profile to give prod permissions
 - August 2022: UAT
 - August 9, 2022: Launch to 25%
+- August 15, 2022: Launch to 50%
+- August 18, 2022: Launch to 100%
