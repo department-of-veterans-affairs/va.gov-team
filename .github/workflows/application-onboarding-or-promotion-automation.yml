@@ -10,7 +10,12 @@ on:
       application_environment:
         description: Application environment
         required: true
-        type: string
+        type: choice
+        options:
+          - dev
+          - staging
+          - sandbox
+          - prod
       maintainer_github_user:
         description: Maintainer GitHub username
         required: true
@@ -18,7 +23,10 @@ on:
       task:
         description: Onboarding or promoting
         required: true
-        type: string
+        type: choice
+        options:
+          - onboarding
+          - promoting
   workflow_call:
     inputs:
       application_name:
