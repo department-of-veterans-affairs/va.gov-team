@@ -8,7 +8,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-- [User wants to view military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/view-military-info.md)
+- [User wants to read military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/read-military-info.md)
 
 ## Edge cases
 ### Flags 
