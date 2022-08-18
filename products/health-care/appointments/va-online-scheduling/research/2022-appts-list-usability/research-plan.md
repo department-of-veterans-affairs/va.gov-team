@@ -101,7 +101,7 @@ The details pages will:
   
 * Are the details pages easy to navigate to?
 
-* Can participants easily understand modality meaning - do they understand where they need to be?
+* Can participants easily understand the meaning of madality in the appointment list - do they understand where they need to be?
   
 * Do Veterans need a physical print “button”?
 
