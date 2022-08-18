@@ -102,6 +102,7 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 - Nametag and Apply for Benefits sections
 
 ## Sprint 83 (9/21 - 10/4)
+- Ad Hoc internal meetings all day 10/3-10/4; may have reduced availability.
 
 ### On-site notifications
 
