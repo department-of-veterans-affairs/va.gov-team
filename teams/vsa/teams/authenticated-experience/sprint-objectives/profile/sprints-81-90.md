@@ -29,17 +29,17 @@
 - Contact center guide update
 - UAT prep and planning
 
-### 1095B work
+### ~1095B work~
 
-**PM**
+~**PM**~
 
-- Coordinate design intent
+~- Coordinate design intent~
 
-**Design - Liz**
+~**Design - Liz**~
 
-- Send design & content to 1095B team for legal review
-- Design intent
-- Updates from stakeholder feedback, if possible (**Note**: My guess is this process will take a while)
+~- Send design & content to 1095B team for legal review~
+~- Design intent~
+~- Updates from stakeholder feedback, if possible (**Note**: My guess is this process will take a while)~
 
 ### Forms system
 
