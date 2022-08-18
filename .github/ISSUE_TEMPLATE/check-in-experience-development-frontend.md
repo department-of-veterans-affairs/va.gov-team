@@ -41,7 +41,7 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
   - [ ] scheduled
 
 ## Validation Steps
-- [ ] Read ticket details
+- [ ] Read ticket details and verify that ACs are met
 - [ ] Review code in PR
 - [ ] Run branch locally
 - [ ] Check that new and updated translations use new keys
