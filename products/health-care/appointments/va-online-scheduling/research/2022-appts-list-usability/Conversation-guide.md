@@ -9,7 +9,7 @@ Slack for real-time feedback from observers.
 
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
+- Check your screensharing setup and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
 ## Intro - 5 minutes
@@ -123,7 +123,6 @@ While youre on this page, I wanted to talk a bit about what you see here.
 
 - Can you tell the difference between the appointment on Monday, July 1 at 8 am?
 - Can you tell the status of the appointment on Friday, September 6th?
-
 
 #### Things to watch for:
 
