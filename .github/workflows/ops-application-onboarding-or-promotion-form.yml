@@ -1,0 +1,60 @@
+name: Application onboarding or promotion
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  onboard-or-promote:
+    runs-on: ubuntu-latest
+    name: Onboard or promote application
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Onboard application
+        if: contains(github.event.issue.title, 'Application to Onboard')
+        uses: stefanbuck/github-issue-parser@v2
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/application-onboarding.yml
+
+      - name: Promote application
+        if: contains(github.event.issue.title, 'Application to Promote')
+        uses: stefanbuck/github-issue-parser@v2
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/application-promotion.yml
+
+      - name: Capture application name
+        id: get_app_name
+        run: |
+          application_name=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.appname')
+          echo "::set-output name=application_name::$(echo ${application_name})"
+
+      - name: Capture environment
+        id: get_app_environment
+        run: |
+          application_environment=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.environment')
+          echo "::set-output name=application_environment::$(echo ${application_environment})"
+  
+      - name: Capture maintainer
+        id: get_maintainer
+        run: |
+          maintainer_github_user=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.maintainer')
+          echo "::set-output name=maintainer_github_user::$(echo ${maintainer_github_user})"
+      
+      - name: Capture task
+        id: get_task
+        run: |
+          if [ "$application_environment" == "dev" ]; then task=onboarding; else task=promoting; fi
+          echo "::set-output name=task::$(echo ${task})"
+
+      - name: Call automation workflow
+        uses: ./.github/workflows/application-onboarding-automation.yml
+        with:
+          application_name: ${{ steps.get_app_name.outputs.application_name }}
+          application_environment: ${{ steps.get_app_environment.outputs.application_environment }}
+          maintainer_github_user: ${{ steps.get_maintainer.outputs.maintainer_github_user }}
+          task: ${{ steps.get_task.outputs.task }}

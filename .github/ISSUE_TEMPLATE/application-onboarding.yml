@@ -32,6 +32,13 @@ body:
       placeholder: vets-api-server
     validations:
       required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      description: Select an environment for onboarding
+      options:
+        - dev
   - type: input
     id: maintainer
     attributes:
