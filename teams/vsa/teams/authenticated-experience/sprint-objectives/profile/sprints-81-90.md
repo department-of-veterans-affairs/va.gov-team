@@ -69,6 +69,43 @@
 
 ## Sprint 82 (9/7 - 9/20)
 
+### Bad address indicator
+
+**PM**
+
+- Staging review
+- Privacy review
+
+**Design - Christina**
+
+- Updates from QA, if needed
+- UAT (only if there are no outstanding QA/staging review/privacy review updates)
+
+**FE - Adam**
+
+- Updates from QA, if needed
+
+### Forms system updates
+
+- Continued updates, as needed
+
+### Documentation
+
+**Design - Christina**
+- Account settings
+
+**FE**
+- Direct deposit (if not done)
+- Contact info
+- Military info
+
+### Accessibility audit
+
+**Design**
+
+- Complete audit
+- Review with team
+
 ## Sprint 83 (9/21 - 10/4)
 - Ad Hoc internal meetings all day 10/3, and most of 10/4; may have reduced availability.
 
