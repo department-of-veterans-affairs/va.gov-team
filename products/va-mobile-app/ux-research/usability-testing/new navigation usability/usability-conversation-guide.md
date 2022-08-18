@@ -59,7 +59,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
   * [Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 * Great, I’m seeing your screen. Now I’m going to help you get the app ready.
 * I am going to send you a link to the app we will be using in the session in the Zoom chat. Please go ahead and tap on the link to open it on your phone. 
-  * Prototype ([Android](https://figma.fun/Ts25Y1/view)) ([iOS](https://figma.fun/Ts25Y1/))
+ * Prototype ([Android](https://figma.fun/O2AJVI/view)) ([iOS](https://figma.fun/O2AJVI/))
 * Ok, just a couple more things to set it up.
   * *If iOS:*
     * Once you have the app open in your browser, in the top bar, where the website name (figma.com) is, tap on the two AAs on the far left side. It should open a menu. 
@@ -99,8 +99,8 @@ Validate the participant uses the VA Health and Benefits app and get permission 
   * *If not successful: Help them navigate to the Email Address screen before starting the next task. Note where they have trouble.*
 
 ### Task 5: Check disability payment (5 minutes)
-* **PROMPT:** You want to make sure that you're receiving the correct amount each month from the VA for your disability. Without touching anything, where would you expect to go to check to see how much was deposited?
-* Go ahead and use the app to check the amount of that monthly deposit. Once you’re there, stop and wait for the next instruction.
+* **PROMPT:** You want to make sure that you're receiving the correct amount each month from VA for your disability. Without touching anything, where would you expect to go to check how much was deposited in your account last month?
+* Go ahead and use the app to find out how much was deposited. Once you’re there, stop and wait for the next instruction.
   * *If not successful: Help them navigate to the Payments screen before starting the next task. Note where they have trouble.*
 * What did you expect to find when you tapped on “Benefit payments”?
 * What things did you expect to see when you tapped on “Payments”? 
