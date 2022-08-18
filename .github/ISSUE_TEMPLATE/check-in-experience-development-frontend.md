@@ -40,7 +40,7 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
   - [ ] not necessary
   - [ ] scheduled
 
-## Validation Steps
+## Code Review Steps
 - [ ] Read ticket details and verify that ACs are met
 - [ ] Review code in PR
 - [ ] Run branch locally
