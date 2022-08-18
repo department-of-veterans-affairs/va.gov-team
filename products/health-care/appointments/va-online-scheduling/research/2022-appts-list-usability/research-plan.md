@@ -112,13 +112,7 @@ The details pages will:
 
 * What would Veterans do next after viewing their appts in the list?
 
-**2. Evaluate usability and value of the health apartment side navigation.**
-
-* Is the side nav discoverable?
-  * Do the navigation options on the sidenav make sense?
-  * Do the navigation options on the sidenav seem helpful?
-
-**3. Test a concept for changes to the appointments details page.**
+**2. Test a concept for changes to the appointments details page.**
 
 * Is the information on the details pages:
   * Easy to understand?
