@@ -39,3 +39,10 @@ As a <user>, I want to <do something> so that I can <accomplish a goal>
 - [ ] Prod validation:
   - [ ] not necessary
   - [ ] scheduled
+
+## Code Review Steps
+- [ ] Read ticket details and verify that ACs are met
+- [ ] Review code in PR
+- [ ] Run branch locally
+- [ ] Check that new and updated translations use new keys
+- [ ] Check for hardcoded strings
