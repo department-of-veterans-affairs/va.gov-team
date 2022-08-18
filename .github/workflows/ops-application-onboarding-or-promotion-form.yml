@@ -9,7 +9,7 @@ jobs:
   onboard-or-promote:
     runs-on: ubuntu-latest
     name: Onboard or promote application
-    if: ${{ github.event.issue.assignee == 'va-vsp-bot' }}
+    if: ${{ github.event.issue.assignee.login == 'va-vsp-bot' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
