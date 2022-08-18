@@ -39,6 +39,8 @@ body:
       description: Select an environment for onboarding
       options:
         - dev
+    validations:
+      required: true
   - type: input
     id: maintainer
     attributes:
