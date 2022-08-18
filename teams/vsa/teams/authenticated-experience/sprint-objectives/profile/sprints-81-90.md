@@ -56,6 +56,7 @@
 **Design - Liz**
 
 - Military information documentation
+- Notification preferences documentation
 
 **FE** 
 
