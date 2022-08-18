@@ -1,4 +1,4 @@
-# (Draft) Conversation Guide 
+# Conversation Guide 
 
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
