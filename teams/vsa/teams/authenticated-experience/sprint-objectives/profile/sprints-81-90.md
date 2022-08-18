@@ -106,6 +106,14 @@
 - Complete audit
 - Review with team
 
+### Error matrix
+
+**Planning**
+
+- Figure out all backend codes we get for the profile (note: I believe we already have some documented for contact information)
+- Figure out how we are going to format/store the matrix in Github so it's easy to use
+- Figure out what contribution we need from design (screenshot? can we link to existing documentation?)
+
 ## Sprint 83 (9/21 - 10/4)
 - Ad Hoc internal meetings all day 10/3, and most of 10/4; may have reduced availability.
 
