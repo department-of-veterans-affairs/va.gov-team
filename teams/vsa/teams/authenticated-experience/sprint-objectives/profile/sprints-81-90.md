@@ -69,6 +69,7 @@
 ## Sprint 82 (9/7 - 9/20)
 
 ## Sprint 83 (9/21 - 10/4)
+- Ad Hoc internal meetings all day 10/3-10/4; may have reduced availability.
 
 ## Sprint 84 (10/5 - 10/18)
 
