@@ -2,8 +2,10 @@ name: Application onboarding or promotion
 
 on:
   issues:
-    types:
-      - opened
+    types: 
+      - assigned
+    assignee:
+      login: va-vsp-bot
 
 jobs:
   onboard-or-promote:
@@ -38,6 +40,7 @@ jobs:
         id: get_app_environment
         run: |
           application_environment=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.environment')
+          echo "$application_environment"
           echo "$application_environment >> $GITHUB_ENV"
           echo "::set-output name=application_environment::$(echo ${application_environment})"
   
