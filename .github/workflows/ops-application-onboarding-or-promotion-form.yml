@@ -13,7 +13,6 @@ jobs:
     name: Onboard or promote application
     steps:
       - name: Checkout
-        if: contains(github.event.issue.title, 'Application to ')
         uses: actions/checkout@v2
 
       - name: Onboard application
