@@ -26,7 +26,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Branch(es) of service
 - Period start dates
 - Period end dates
-- Multple periods of service, if applicable
+- Mulitple periods of service, if applicable
 
 ## User problem statements
 - As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
@@ -44,4 +44,5 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 ## Design and UX
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775).
-- Use case documentation is needed.
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
+- High-level user flow
