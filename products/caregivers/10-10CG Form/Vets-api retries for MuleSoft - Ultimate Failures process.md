@@ -76,7 +76,12 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 </details>
 
-- After 1 day of retries, any alerts will be posted to the **Slack Channel #health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
+### Procedure
+- An early alert is triggered by having >5 retry failures with 3+ retries over a period of 10 hours, posted to the Slack Channel **#health-tools-1010-apm**
+     - A review of the failures will begin
+     - The 10-10 Health Apps team will determine if a "maintenance" banner be in place to stop further applications from being submitted and failing
+     - 
+- After 1 day of failed retries, any alerts will be posted to the Slack Channel **#health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
      - Heather Justice
      - Mark Fallows
@@ -91,7 +96,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 - Upon receiving the alert and determining that we have a catastrophic failure, the 10-10 Health Apps team will retrieve the PDF application file from the Production environment.  This PDF will be sent via an encrypted email to **vha12cspcarmaehr@va.gov**, including the timestamp of the submission from VA.gov.  The team will also request that a "maintenance" banner be in place to stop further applications from being submitted and failing.  
 
 
-- The 10-10 Health Apps team will post all updates in the **Slack Channel vecms-carma_vadotgov_development_external**.
+- The 10-10 Health Apps team will post all updates in the Slack channel **vecms-carma_vadotgov_development_external**.
      - 10-10 Health Apps team to notify channel of alert being received, tagging the channel with “@here”
      - 10-10 Health Apps team to notify audience of PDF being sent via an encrypted email to CSP at **vha12cspcarmaehr@va.gov**
      - 10-10 Health Apps team to notify audience of the 'Maintenance" banner set in place to stop access to the online application
