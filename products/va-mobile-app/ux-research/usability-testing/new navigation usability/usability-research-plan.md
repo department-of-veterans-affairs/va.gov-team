@@ -181,7 +181,7 @@ To assess potential participants' experiences with VA benefits or services, plea
 ## Team Roles
 
 
-* Moderator: [Holly Collier](mailto:holly.collier@adhocteam.us)
+* Moderator: Holly Collier [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us) | (202) 818-8710 x1059
 * Research guide writing and task development: [Holly Collier](mailto:holly.collier@adhocteam.us)
 * Participant recruiting & screening: Perigean
 * Project point of contact: [Holly Collier](mailto:holly.collier@adhocteam.us)
