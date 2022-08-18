@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     name: Onboard or promote application
     if: ${{ github.event.issue.assignee.login == 'va-vsp-bot' }}
+    outputs:
+      application_name: ${{ steps.get_app_name.outputs.application_name }}
+      application_environment: ${{ steps.get_app_environment.outputs.application_environment }}
+      maintainer_github_user: ${{ steps.get_maintainer.outputs.maintainer_github_user }}
+      task: ${{ steps.get_task.outputs.task }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -52,10 +58,11 @@ jobs:
           if [ "${{ steps.get_app_environment.outputs.application_environment }}" == "dev" ]; then task=onboarding; else task=promoting; fi
           echo "::set-output name=task::$(echo ${task})"
 
-      - name: Call automation workflow
-        uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
-        with:
-          application_name: ${{ steps.get_app_name.outputs.application_name }}
-          application_environment: ${{ steps.get_app_environment.outputs.application_environment }}
-          maintainer_github_user: ${{ steps.get_maintainer.outputs.maintainer_github_user }}
-          task: ${{ steps.get_task.outputs.task }}
+  call-automation-workflow:
+    needs: onboard-or-promote
+    uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
+    with:
+      application_name: ${{ needs.onboard-or-promote.outputs.application_name }}
+      application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
+      maintainer_github_user: ${{ needs.onboard-or-promote.outputs.maintainer_github_user }}
+      task: ${{ needs.onboard-or-promote.outputs.task }}
