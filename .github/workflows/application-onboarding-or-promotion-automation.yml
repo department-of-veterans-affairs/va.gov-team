@@ -1,0 +1,77 @@
+name: Automation for application onboarding or promotion
+
+on:
+  workflow_call:
+    inputs:
+      application_name:
+        description: Application name
+        required: true
+        type: string
+      application_environment:
+        description: Application environment
+        required: true
+        type: string
+      maintainer_github_user:
+        description: Maintainer GitHub username
+        required: true
+        type: string
+      task:
+        description: Onboarding or promoting
+        required: true
+        type: string
+
+jobs:
+  application-onboarding-or-promotion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out ArgoCD infra repo
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vsp-infra-argocd
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          path: vsp-infra-argocd
+
+      - name: Check if application already exists
+        id: exists
+        run: |
+          application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects[] | select(.name == "${{ inputs.application_name }}").environments | any(. == "${{ inputs.application_environment }}")' || true)
+          if [ -z "$application_exists" ]; then export application_exists=false; fi
+          echo "::set-output name=application_exists::$(echo ${application_exists})"
+        
+      - name: If application exists
+        if: steps.exists.outputs.application_exists == 'true'
+        uses: KeisukeYamashita/create-comment@v1
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          comment: |
+            ${{ inputs.application_name }} is already deployed to ${{ inputs.application_environment }} as defined
+            in the `projects` here https://github.com/department-of-veterans-affairs/vsp-infra-argocd/blob/main/chart/values.yaml
+        
+      - name: If application does not exist
+        if: steps.exists.outputs.application_exists == 'false'
+        run: |
+          cd vsp-infra-argocd/chart
+          yq -i '.projects += [{"name": "${{ inputs.application_name }}", "environments": "${{ inputs.application_environment }}"}]' values.yaml
+          git add -A
+          
+      - name: Create pull request
+        if: steps.exists.outputs.application_exists == 'false'
+        id: cpr
+        uses: peter-evans/create-pull-request@v4
+        with:
+          path: vsp-infra-argocd
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          add-paths: chart/values.yaml
+          commit-message: |
+            {"application": "${{ inputs.application_name }}", "maintainer": "${{ inputs.maintainer_github_user }}", "environment": "${{ inputs.application_environment }}", "task": "${{ inputs.task }}"}
+          title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+          body: Automated PR triggered by issue ${{ github.event.issue.url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
+          
+      - name: Comment on pull request
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        uses: KeisukeYamashita/create-comment@v1
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          comment: |
+            The following PR has been created for onboarding ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+            ${{ steps.cpr.outputs.pull-request-url }}
