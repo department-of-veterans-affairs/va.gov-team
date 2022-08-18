@@ -102,9 +102,6 @@ The details pages will:
 * Are the details pages easy to navigate to?
 
 * Can participants easily understand modality meaning - do they understand where they need to be?
-    * On the list
-    * On the details page
-    * Separate from everything else - icon, label, instructions
   
 * Do Veterans need a physical print “button”?
 
