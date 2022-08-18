@@ -105,7 +105,7 @@ This research will help us identify opportunities to improve the planned informa
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-conversation-guide.md)
 * Figma Prototype ([Android](https://figma.fun/O2AJVI/view)) ([iOS](https://figma.fun/O2AJVI/))
-* [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit#gid=0)
+* [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit?usp=sharing)
 
 
 ## Recruitment
@@ -137,7 +137,7 @@ Recruit 16 Veterans for a minimum of 10 successfully completed sessions (of the 
 * 8 participants who identify as having a cognitive disability
 * 4 participants who do not have a college degree
 * 2 participants who identify as women
-* [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1907644359) 
+* [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
 
 #### Coordination with Perigean
 
@@ -186,9 +186,12 @@ To assess potential participants' experiences with VA benefits or services, plea
 * Participant recruiting & screening: Perigean
 * Project point of contact: [Holly Collier](mailto:holly.collier@adhocteam.us)
 * Participant(s) for pilot test: TBD
-* [Observers and Notetakers](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit#gid=0)
+* [Observers and Notetakers](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit?usp=sharing)
 
 
+## Analysis & Findings
+* [Analysis spreadsheet & session notes (no PII)](https://docs.google.com/spreadsheets/d/1bnhifIKPUDoKyoONlz_Xys49UVyw3Nz_oSyEfIm6lyA/edit?usp=sharing)
+* VA Mobile App: Navigation - Usability Study Findings
 
 
 
