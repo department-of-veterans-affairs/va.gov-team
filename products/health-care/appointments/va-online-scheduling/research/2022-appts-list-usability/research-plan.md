@@ -1,4 +1,4 @@
-[DRAFT] Research plan for VAOS appointments list usabilty test
+Research plan for VAOS appointments list usabilty test
 =============
 
 Background
@@ -204,6 +204,10 @@ Research session will begin on ar after Monday, August 29, 2022
 ### Availability
 
 Monday - Friday, 12:00 pm - 8:00 pm EST
+
+15 minute buffer between sessions
+
+No more than 3 sessions per day
 
 Team roles
 ----------
