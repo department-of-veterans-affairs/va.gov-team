@@ -151,9 +151,9 @@ To assess potential participants' experiences with VA benefits or services, plea
 
 ### Prepare
 * Mobile team feedback: 8/16
-* Date testing material will be finalized: 8/18
 * Test mobile prototype setup with internal team members (iOS & Android): 8/19
-* Research review: 8/23
+* Date testing material will be finalized: 8/19
+* Research review: 8/22
 * Recruitment begins: 8/25
 ### Pilot
 * Date and time of pilot session: Fri 9/2
@@ -179,7 +179,6 @@ To assess potential participants' experiences with VA benefits or services, plea
 
 
 ## Team Roles
-
 
 * Moderator: Holly Collier [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us) | (202) 818-8710 x1059
 * Research guide writing and task development: [Holly Collier](mailto:holly.collier@adhocteam.us)
