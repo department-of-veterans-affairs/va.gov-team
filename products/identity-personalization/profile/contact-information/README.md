@@ -1,5 +1,5 @@
 # Contact Information Product Outline
-Last Updated August 1, 2022
+Last Updated August 18, 2022
      
 ## Table of Contents
 
@@ -8,7 +8,6 @@ Last Updated August 1, 2022
 - [User Problem Statement](#user-problem-statement)
 - [Projects](#projects)
 - [Analytics](#analytics)
-- [Feature overview](#feature-overview)
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design and UX](#design)
@@ -29,6 +28,22 @@ The contact information section of the VA.gov profile (https://www.va.gov/profil
 - Contact email address (different from sign in)
 
 The backend for this is powered by VA Profile (formerly Vet360), which is integrated with a handful of systems at the VA. This means that when a user updates their information in the VA.gov profile, it updates it multiple places at the VA so that veterans don't have many disparate addresses on file. Our integration with VA Profile launched in summer 2018.
+
+### What to know about this feature
+* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile/direct-deposit) .
+* This feature allows users to complete the following core tasks:
+	- **Add and edit** their mailing address
+	- **Add, edit, and delete** 
+		- home address
+		- home phone number
+		- mobile phone number
+		- work phone number
+		- contact email address
+* To access this feature in the profile, users need to login to  VA.gov  with an identity-verified (LOA3)  account.
+* Contact information is pulled from and written to the VA Profile API.
+* Updates made in VA.gov profile contact information will sync with any other systems that are using the VA Profile API for contact information.
+* The only piece of contact information that can’t be deleted once added is a mailing address
+* This feature doesn’t support international phone numbers 
 
 As of June 2020:
 
@@ -64,23 +79,6 @@ As a user, I want to be able to:
 ## Analytics
 - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [GA dashboard for address validation](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
-
-## Feature overview
-### What to know about this feature
-* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile/direct-deposit) .
-* This feature allows users to complete the following core tasks:
-	- **Add and edit** their mailing address
-	- **Add, edit, and delete** 
-		- home address
-		- home phone number
-		- mobile phone number
-		- work phone number
-		- contact email address
-* To access this feature in the profile, users need to login to  VA.gov  with an identity-verified (LOA3)  account.
-* Contact information is pulled from and written to the VA Profile API.
-* Updates made in VA.gov profile contact information will sync with any other systems that are using the VA Profile API for contact information.
-* The only piece of contact information that can’t be deleted once added is a mailing address
-* This feature doesn’t support international phone numbers 
 
 ## Backend
 More detailed technical information about backend services that support contact-information can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md).
