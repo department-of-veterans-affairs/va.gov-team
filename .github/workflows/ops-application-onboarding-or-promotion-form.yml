@@ -15,17 +15,17 @@ jobs:
 
       - name: Onboard application
         if: contains(github.event.issue.title, 'Application to Onboard')
-        run: template-path=.github/ISSUE_TEMPLATE/application-onboarding.yml
+        run: echo "template-path=.github/ISSUE_TEMPLATE/application-onboarding.yml" >> $GITHUB_ENV
 
       - name: Promote application
         if: contains(github.event.issue.title, 'Application to Promote')
-        run: template-path=.github/ISSUE_TEMPLATE/application-promotion.yml
+        run: echo "template-path=.github/ISSUE_TEMPLATE/application-promotion.yml" >> $GITHUB_ENV
         
       - name: Get form data
         uses: stefanbuck/github-issue-parser@v2
         id: issue-parser
         with:
-          template-path: $template-path
+          template-path: ${{ env.template-path }}
 
       - name: Capture application name
         id: get_app_name
