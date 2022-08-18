@@ -91,5 +91,5 @@ jobs:
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           comment: |
-            The following PR has been created for onboarding ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+            The following PR has been created for ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
             ${{ steps.cpr.outputs.pull-request-url }}
