@@ -11,6 +11,7 @@ jobs:
     name: Onboard or promote application
     steps:
       - name: Checkout
+        if: contains(github.event.issue.title, 'Application to ')
         uses: actions/checkout@v2
 
       - name: Onboard application
@@ -37,6 +38,7 @@ jobs:
         id: get_app_environment
         run: |
           application_environment=$(echo '${{ steps.issue-parser.outputs.jsonString }}' | jq -r '.environment')
+          echo "$application_environment >> $GITHUB_ENV"
           echo "::set-output name=application_environment::$(echo ${application_environment})"
   
       - name: Capture maintainer
@@ -48,8 +50,11 @@ jobs:
       - name: Capture task
         id: get_task
         run: |
-          if [ "$application_environment" == "dev" ]; then task=onboarding; else task=promoting; fi
+          if [ "${{ env.application_environment }}" == "dev" ]; then task=onboarding; else task=promoting; fi
           echo "::set-output name=task::$(echo ${task})"
+
+      - name: make sure
+        run: echo ${{ steps.get_task.outputs.task }}
 
       - name: Call automation workflow
         uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
