@@ -76,3 +76,6 @@
 | 74 | [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/) | Pension | 3/11/22 |
 | 75 | [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) | Health care | 5/06/22 |
 | 76 | [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) | Health care | 5/06/22 |
+| 77 | [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) | Health care | 8/02/22 |
+| 78 | [La Ley PACT y sus beneficios de VA](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-esp/) | Health care | 8/12/22 |
+| 79 | [Ang PACT Act at ang iyong mga VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-tag/) | Health care | 8/18/22 |
