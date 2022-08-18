@@ -78,9 +78,20 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 
 ### Procedure
 - An early alert is triggered by having >5 retry failures with 3+ retries over a period of 10 hours, posted to the Slack Channel **#health-tools-1010-apm**
-     - A review of the failures will begin
+     - The 10-10 Health Apps team will begin a review of the failures
      - The 10-10 Health Apps team will determine if a "maintenance" banner be in place to stop further applications from being submitted and failing
-     - 
+     - Once the 10-10 Health Apps team's review determines that the MuleSoft team needs to be involved, an update will be posted to the Slack channel **vecms-carma_vadotgov_development_external** and an email will be sent to the audience below:
+          - Patrick Bateman
+          - Heather Justice
+          - Mark Fallows
+          - Lihan Li
+          - Lisa Zapson
+          - Matt Long
+          - Nick Osmanski
+          - VACARMAOperationsTeam@va.gov
+          - DTCMulesoftSupport@va.gov
+     - Once the coordination begins, the teams can determine whether to start the process of retrieving failed PDF documents to send via an encrypted email to **vha12cspcarmaehr@va.gov** for manual processing
+
 - After 1 day of failed retries, any alerts will be posted to the Slack Channel **#health-tools-1010-apm**.  The alerts will also be emailed to the audience below:
      - Patrick Bateman
      - Heather Justice
