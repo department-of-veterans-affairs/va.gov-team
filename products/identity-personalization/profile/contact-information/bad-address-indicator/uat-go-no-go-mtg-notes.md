@@ -14,7 +14,7 @@
 - Answer: 
 
 **Adam: Are all launch-blocking accessibility / issues fixed?**
-- Answer: Y
+- Answer: 
 
 **All: Have you all reviewed the feature in staging and confirmed that it works as expected?**
 - Answer:
