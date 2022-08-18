@@ -1,6 +1,24 @@
 name: Automation for application onboarding or promotion
 
 on:
+  workflow_dispatch:
+    inputs:
+      application_name:
+        description: Application name
+        required: true
+        type: string
+      application_environment:
+        description: Application environment
+        required: true
+        type: string
+      maintainer_github_user:
+        description: Maintainer GitHub username
+        required: true
+        type: string
+      task:
+        description: Onboarding or promoting
+        required: true
+        type: string
   workflow_call:
     inputs:
       application_name:
