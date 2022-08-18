@@ -53,7 +53,7 @@ jobs:
           echo "::set-output name=task::$(echo ${task})"
 
       - name: Call automation workflow
-        uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml@master
+        uses: ./.github/workflows/application-onboarding-or-promotion-automation.yml
         with:
           application_name: ${{ steps.get_app_name.outputs.application_name }}
           application_environment: ${{ steps.get_app_environment.outputs.application_environment }}
