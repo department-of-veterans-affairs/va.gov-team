@@ -36,7 +36,7 @@ body:
     id: environment
     attributes:
       label: Environment
-      description: Select an environment for promotion
+      description: Select an environment for onboarding
       options:
         - dev
   - type: input
