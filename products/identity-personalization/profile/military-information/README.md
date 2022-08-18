@@ -32,7 +32,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
 
 ## Analytics
-Need link to GET/POST data in Google Analytics.
+[Google Analytics GET data](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 
 ## Projects
 - [Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)
