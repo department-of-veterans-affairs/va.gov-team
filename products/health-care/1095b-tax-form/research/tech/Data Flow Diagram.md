@@ -26,5 +26,5 @@ We get all the data we need from the Enrollment System for the 1095-B form. All 
 That's what's stored in the text file in the S3 bucket (encrypted), and in the vets-api database (also encrypted).  With the exception of the ICN, that's what's displayed on the 1095-B form (text, PDF). 
 
 
-
+Enrollment services runs a batch job twice a week to update the print flat files for 1095-B. This job can also be run manually when necessary. The script that checks for files and loads them into our S3 bucket runs everyday at 5pm ET. Most of the time, we expect to receive files only twice a week.
 
