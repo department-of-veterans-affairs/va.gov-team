@@ -77,7 +77,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
 </details>
 
 ### Procedure
-- An early alert is triggered by having >5 retry failures with 3+ retries over a period of 10 hours, posted to the Slack Channel **#health-tools-1010-apm**
+- An early alert is triggered by having >5 application submissions with 3+ retries over a period of 10 hours, posted to the Slack Channel **#health-tools-1010-apm**
      - The 10-10 Health Apps team will begin a review of the failures
      - The 10-10 Health Apps team will determine if a "maintenance" banner be in place to stop further applications from being submitted and failing
      - Once the 10-10 Health Apps team's review determines that the MuleSoft team needs to be involved, an update will be posted to the Slack channel **vecms-carma_vadotgov_development_external** and an email will be sent to the audience below:
