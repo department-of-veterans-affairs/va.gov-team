@@ -62,7 +62,7 @@ Ultimately, we would like to determine what appointment data as well as the hier
   - In this scenario, how do Veterans rank the importance of each appointment data item?
 - What appointment information is important to review when check-in is complete, but the Veteran wants to know what to do next?
   - In this scenario, how do Veterans rank the importance of each appointment data item?
-- What appointment information is importatnt to review when trying to understand what appointment Veterans are completing pre-check-in for?
+- What appointment information is important to review when trying to understand what appointment Veterans are completing pre-check-in for?
   - In this scenario, how do Veterans rank the importance of each appointment data item?
 - What appointment information is important to review when pre-check-in is complete, but the Veteran wants to know what to do next?
   - In this scenario, how do Veterans rank the importance of each appointment data item?
