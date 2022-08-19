@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-Last Updated: August 18, 2022
+Last Updated: August 19, 2022
 ### Table of Contents
 
 - [POCs](#pocs)
@@ -26,7 +26,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Branch(es) of service
 - Period start dates
 - Period end dates
-- Mulitple periods of service, if applicable
+- Multiple periods of service, if applicable
 
 ## User problem statements
 - As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
@@ -45,4 +45,4 @@ We pull in a small amount of military information to the VA.gov profile. This in
 ## Design and UX
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775).
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
-- High-level user flow
+- [High-level user flow with screenshots](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
