@@ -55,6 +55,7 @@ Check-in has expanded our access to more appointment data, which we can display 
 - facility phone number and TTY
 - reason for visit
 - facility directions (map link)
+- cancel status
 
 The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
 
