@@ -1,7 +1,7 @@
 # MHV to VA.gov Product Onboarding Quick Start Guide
 Last Update: August 19, 2022
 
-This guide touches the highlights in the overall [VA.gov onboarding process](https://depo-platform-documentation.scrollhelp.site/getting-started/), but is not a substitute for that document.  Always defer to the VA Platform documentation for the most current information.  
+This guide touches the highlights in the overall [VA.gov onboarding process](https://depo-platform-documentation.scrollhelp.site/getting-started/), but is not a substitute for that document.  Always defer to the VA Platform documentation for the most complete and current information.  
 
 ## Admin Info
 Before you get started with onboarding, there are a few key pieces of information that you will need:
@@ -34,6 +34,11 @@ All team members working on a VA.gov project must complete an orientation reques
 ## Getting Access to Tools
 - The VA Platform site has detailed instructions on the [tools you will need](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-tools) and [how to request access to each](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools).
 - One of the tools you'll be requesting is GitHub.  It will also simplify your ability to track work and communicate with other VA.gov teams if you  connect your GitHub account to a [ZenHub account](https://www.zenhub.com/).  ZenHub runs in the browser on top of GitHub, or you can install a plug in on Chrome or Firefox. 
+
+## VA.gov Platform
+- [Overview](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
+- [What to expect as you design, build, launch, iterate](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
+
 
 ## VA Platform Collaboration Cycle
 As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should become familiar with the process and understand team responsbilities, Platform expectations, and required artifacts.
