@@ -8,7 +8,7 @@ This document provides detailed information on the data flow for generating the 
 
 **Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App**
 
-<img width="853" alt="image" src="https://user-images.githubusercontent.com/93789249/183248414-8a9ff91d-4227-412a-8fc5-e3c8eec7c81a.png">
+<img width="853" alt="image" src="https://user-images.githubusercontent.com/636752/185666824-844b478f-d598-44c0-84b7-2ef7146c9719.png">
 
 
 [Visitor link to source image in Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
