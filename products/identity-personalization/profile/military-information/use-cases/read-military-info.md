@@ -14,7 +14,7 @@ This page isn’t editable.
 	* The month, day, and year they started with that branch
 	* The month, day, and year they completed service with that branch.  
 		* There are some instances where the end date will be blank.
-* The page has an additional info component ([design system documentation](https://design.va.gov/components/additional-info)) with information in case the military service information doesn’t look right.
+* The page has an [additional info component](https://design.va.gov/components/additional-info) with information in case the military service information doesn’t look right.
 *  [Desktop mockup](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/OmlnY7p) 
 *  [Mobile mockup](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/09y85M0) 
 
