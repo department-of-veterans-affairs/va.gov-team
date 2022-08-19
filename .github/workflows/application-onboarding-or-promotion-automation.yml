@@ -68,7 +68,6 @@ jobs:
         run: |
           cd vsp-infra-argocd/chart
           yq -iy '.projects += [{"name": "${{ inputs.application_name }}", "environments":[]}]' values.yaml
-          #git add -A
       
       # By this step .project[].environments[] is guaranteed to exist
       - name: Check if application environment exists
@@ -82,7 +81,31 @@ jobs:
         run: |
           cd vsp-infra-argocd/chart
           yq -yi '(.projects[] | select(.name == "vets-api-server")).environments += ["${{ inputs.application_environment }}"]' values.yaml
-          git add -A
+          git diff
+
+#       - name: Create pull request
+#         if: steps.exists.outputs.application_exists == 'false'
+#         id: cpr
+#         uses: peter-evans/create-pull-request@v4
+#         with:
+#           path: vsp-infra-argocd
+#           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+#           add-paths: chart/values.yaml
+#           commit-message: |
+#             {"application": "${{ inputs.application_name }}", "maintainer": "${{ inputs.maintainer_github_user }}", "environment": "${{ inputs.application_environment }}", "task": "${{ inputs.task }}"}
+#           title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+#           body: Automated PR triggered by issue ${{ github.event.issue.url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
+          
+#       - name: Comment on pull request
+#         if: ${{ steps.cpr.outputs.pull-request-number }}
+#         uses: KeisukeYamashita/create-comment@v1
+#         with:
+#           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+#           comment: |
+#             The following PR has been created for ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
+#             ${{ steps.cpr.outputs.pull-request-url }}
+
+#####################################
 
 #       - name: Check if application already exists
 #         id: exists
