@@ -66,3 +66,4 @@ jobs:
       application_environment: ${{ needs.onboard-or-promote.outputs.application_environment }}
       maintainer_github_user: ${{ needs.onboard-or-promote.outputs.maintainer_github_user }}
       task: ${{ needs.onboard-or-promote.outputs.task }}
+    secrets: inherit
