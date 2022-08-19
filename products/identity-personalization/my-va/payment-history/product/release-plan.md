@@ -1,4 +1,4 @@
-# Benefit payments and debts Release Plan
+# Benefit payments and debts (MVP) Release Plan
 
 
 ## Phase I: UAT
