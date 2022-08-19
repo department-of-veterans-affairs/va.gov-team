@@ -1,11 +1,14 @@
-# Military information: user wants to read their service history
+# Military information: user wants to access their military information
 **Last updated: August 18, 2022**
 
-For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into the military information section, they can view their military history.
+For LOA3 users who sign in, go to the profile, and click into the military information section, they can view their service history if they have a Department of Defense (DoD) ID.
+
+If they don't have a DoD ID, they'll see an alert instead of a service history.
 
 This page isn’t editable.
 
 ## UX
+### User has DoD ID
 * A user lands on the military information page; they can see data points for all periods of service the VA knows about from their military record.
 	* Branch of service
 	* The month, day, and year they started with that branch
@@ -15,11 +18,22 @@ This page isn’t editable.
 *  [Desktop mockup](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/OmlnY7p) 
 *  [Mobile mockup](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/09y85M0) 
 
+### User does not have DoD ID
+* If DEERS does not return a DoD ID, the user will see an alert on the page telling them we don't have their military information
+* The additional info component is not displayed
+* Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
+*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yQObmR) 
+*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/zxvZ4Le) 
+
 ## Codes
 N/A
 
 ## How to reproduce
+### User has DoD ID
 1. Go staging.va.gov/profile/military-information
-2. Log in with vets.gov.user+11  ( [staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) )
+2. Log in with vets.gov.user+11 or vets.gov.user+36 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 
+### User does not have DoD ID
+1. Go staging.va.gov/profile/military-information
+2. Log in with vets.gov.user+10 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 
