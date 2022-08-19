@@ -1,10 +1,23 @@
 # Notification settings: Product outline
 
-Last Updated April 27, 2022
+Last Updated August 19, 2022
 
-### Communications
+## Table of Contents
+- [POCs]
+- [Overview](#overview)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [Projects](#projects)
+- [How to access and test](#how-to-access-and-test)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Design](#Design)
 
-- GitHub Label: va-profile; profile; notification-settings
+
+
+### POCs
+
 - Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) 
  
  ### Roles
@@ -18,17 +31,6 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 |Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
 |Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
-
-### Table of Contents
-- [Overview](#overview)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
-- [Projects](#projects)
-- [How to access and test](#how-to-access-and-test)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [Design](#Design)
 
 
 ## Overview
