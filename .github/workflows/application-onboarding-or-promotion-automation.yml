@@ -67,14 +67,17 @@ jobs:
         if: steps.application_check.outputs.application_exists == 'true'
         id: environment_check
         run: |
-          echo 
+          environment_exists=$(yq -er '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ application_environment }}"])' || true)
+          echo "::set-output  name=environment_exists::$(environment_exists)"
     
       - name: Create application
         if: steps.application_check.outputs.application_exists == 'false'
-        run:
+        run: |
+          echo "yq for adding application to .projects[]"
 
       - name: Add env to application environments
-        run:
+        run: |
+          echo "yq for adding environment to .projects[app_name].environments[]"
 
 #       - name: Check if application already exists
 #         id: exists
