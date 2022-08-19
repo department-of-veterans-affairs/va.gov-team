@@ -10,6 +10,7 @@ In most cases, it is simply a form for one's records. However, some states still
 - [Zenhub board](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/board)
 - GitHub Label: 1095b-Tax-Form
 - When this is in production, it will be available at [http://www.va.gov/records/download-your-irs-1095-b](http://www.va.gov/records/download-your-irs-1095-b)
+- [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
 
 ## Release information 
 
