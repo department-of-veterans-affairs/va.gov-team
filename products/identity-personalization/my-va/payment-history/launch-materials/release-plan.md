@@ -1,5 +1,3 @@
-# Payment-Info V2 Release Plan
-
 # Oustanding Debts & Benefit Payments Release Plan
 This initiative is commonly referred to as "payment info v2"
 
