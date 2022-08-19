@@ -1,5 +1,5 @@
 # MHV to VA.gov Product Onboarding Quick Start Guide
-Updated August 2022
+Last Update: August 19, 2022
 
 This guide hits some of the highlights in the overall [VA.gov onboarding process](https://depo-platform-documentation.scrollhelp.site/getting-started/), but please refer to that guide for specifics and any updated info.  
 
