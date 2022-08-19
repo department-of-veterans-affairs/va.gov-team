@@ -56,28 +56,33 @@ jobs:
           repository: department-of-veterans-affairs/vsp-infra-argocd
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           path: vsp-infra-argocd
-        
+          
       - name: Check if application already exists
         id: application_check
         run: |
-          application_exists=$(yq -er '[.projects[].name | test("^${{ application_name }}$")] | any' vsp-infra-argocd/chart/values.yaml} || true)
+          application_exists=$(yq -er '[.projects[].name | test("^${{ inputs.application_name }}$")] | any' vsp-infra-argocd/chart/values.yaml} || true)
           echo "::set-output name=application_exists::$(application_exists)"
-      
-      - name: Check if application environment exists
-        if: steps.application_check.outputs.application_exists == 'true'
-        id: environment_check
-        run: |
-          environment_exists=$(yq -er '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ application_environment }}"])' || true)
-          echo "::set-output  name=environment_exists::$(environment_exists)"
     
       - name: Create application
         if: steps.application_check.outputs.application_exists == 'false'
         run: |
-          echo "yq for adding application to .projects[]"
-
-      - name: Add env to application environments
+          cd vsp-infra-argocd/chart
+          yq -iy '.projects += [{"name": "${{ inputs.application_name }}", "environments":[]}]' values.yaml
+          #git add -A
+      
+      # By this step .project[].environments[] is guaranteed to exist
+      - name: Check if application environment exists
+        id: environment_check
         run: |
-          echo "yq for adding environment to .projects[app_name].environments[]"
+          environment_exists=$(yq -er '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ inputs.application_environment }}"])' vsp-infra-argocd/chart/values.yaml || true)
+          echo "::set-output  name=environment_exists::$(environment_exists)"
+
+      - name: Add env to the application
+        if: steps.environment_check.outputs.environment_exists == 'false'
+        run: |
+          cd vsp-infra-argocd/chart
+          # yq -i '.projects += [{"name": "${{ inputs.application_name }}", "environments": "${{ inputs.application_environment }}"}]' values.yaml
+          git add -A
 
 #       - name: Check if application already exists
 #         id: exists
