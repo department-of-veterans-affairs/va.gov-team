@@ -68,16 +68,18 @@ It will give us a fuller understanding of what veterans need, and provide a base
 *   Do veterans understand the different types of facilities?
 *   What are the top tasks that veterans seek out the Veteran Benefits Administration for? 
 *   How important is the child location relationship to the RO for veterans?
+*   What are the questions Veterans want answered by calling the phone number(s)?
+*   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
 ### Hypothesis
 
 What do you intend to learn and measure from this study? 
 
-*   I don't really know anything about how veterans use this currently but I assume that it will be very similar to how they use existing vet center and VAMC search tools, and will follow standard industry practices for location search and detail page patterns. 
+*   I don't really know anything about how veterans use this currently but I assume that it will be very similar to how they use existing vet center and VAMC search tools, and will follow standard industry practices for location search and detail page patterns.
 
 What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 
-*   I think they will find having clear local location information, especially contact, hours, and description of service information extremely useful. 
+*   I think they will find having clear local location information, especially contact, hours, and description of service information extremely useful.
 
 ## Method
 
@@ -85,7 +87,11 @@ What do you think users will do or think about this product? (Identifying our as
 
 ### Location
 
-Interviews will be held remotely with diverse locations. 
+Remove, via Zoom. 
+
+## Research Materials
+
+*   [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/vba-research/conversation-guide.md)
 
 ## Recruitment
 
@@ -95,18 +101,12 @@ Recruited through Perigean.
 
 ### Recruitment criteria
 
-List the total number and type (Veterans, caregivers, etc.) of participants for this study.
+Recruiting 10-14 veterans who have:
 
-**Primary criteria (must-haves)**  
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.  
-Example: Have you been to a VA urgent care facility in the last 6 months? \[answer should be yes to qualify.\]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**  
-What criteria would strengthen your results?
+*   Visited a Regional Office Veteran Benefits Administration center in the last six months. 
+*   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
+*   A range of ages from recently in service to older veterans. 
+*   Veterans who live both in urban and rural locations. 
 
 ## Timeline
 
@@ -133,20 +133,16 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability
 
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. _Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S._
-
-Please request enough dates and at _**least double the amount of time slots for the number of requested participants**_. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; _**12 time slots for 6 participants**_). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+11am-7pmCST M-F
 
 ## Team Roles
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 
-*   Moderator:
-*   Research guide writing and task development (usually but not always same as moderator):
-*   Participant recruiting & screening:
-*   Project point of contact:
+*   Moderator: Aslan French, aslan.french@civicactions.com
+*   Research guide writing and task development: Aslan French
+*   Participant recruiting & screening: Perigean
+*   Project point of contact: David Shannon, David.Shannon@agile6.com
 *   Participant(s) for pilot test:
-*   Note-takers:
+*   Note-takers: Perigean
 *   Observers:
-
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
