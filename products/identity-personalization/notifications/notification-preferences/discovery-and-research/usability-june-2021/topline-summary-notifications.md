@@ -2,9 +2,9 @@
 
 Prepared by: Liz Lantz (Authenticated Experience)
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-research-plan.md) 
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/usability-june-2021/notifications-research-plan.md) 
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/notifications-conversation-guide.md) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research/usability-june-2021/notifications-conversation-guide.md) 
 
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1623630550601/cbe1799b20d464ea6cedb4629d84851891d51e70?sender=lizlantz1528)
 
