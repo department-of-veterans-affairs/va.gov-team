@@ -1,27 +1,10 @@
 # Product Outline: The VA.gov Profile
 
-Last Updated: July 26, 2022
+Last Updated: August 19, 2022
 
-### Communications
+## Table of Contents
 
-- **Github labels**: vsa-authenticated-exp; profile
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-
-### Roles  
-  
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Sharon Kasimow |Product Manager| sharon.kasimow@gcio.com|
-|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
-
----
-
-### Table of Contents
-
+- [POCs](#pocs)
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
@@ -32,6 +15,23 @@ Last Updated: July 26, 2022
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design](#design)
+
+---
+
+### POCs
+
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+
+#### Roles  
+  
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Sharon Kasimow |Product Manager| sharon.kasimow@gcio.com|
+|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
+|Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
 
