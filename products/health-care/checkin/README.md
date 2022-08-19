@@ -20,7 +20,8 @@
 ## Process 
 - [CIE Development Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md)
 - [Decision Register](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/DecisionRegister.md)
-- [Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/meeting-notes)
+- [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/sprintdemo)
+- [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 
 ## Discovery/Research
 - [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/accessibility)
