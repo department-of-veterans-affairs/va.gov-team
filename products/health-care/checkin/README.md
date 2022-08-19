@@ -18,7 +18,7 @@
 - [Feature Flags](https://api.va.gov/flipper/features)
 
 ## Process 
-- [CIE Development Process](https://lucid.app/lucidchart/ce2a6513-dfcd-4e26-ab71-b97cdeab7b27/edit?invitationId=inv_fbc06efe-b116-404c-82de-dcf2c01e607c)
+- [CIE Development Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md)
 - [Decision Register](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/DecisionRegister.md)
 - [Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/meeting-notes)
 
@@ -34,12 +34,6 @@
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
 - [Training Environment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/training-environment)
 - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/playbook)
-
-## Features
-- [LoROTA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/lorota)
-- [Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/pre-check-in)
-- [Phase 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/phase-2)
-- [URL Shortener](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/url-shortener)
 
 ## Service Now Knowledge Articles
 - [Pre-Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
