@@ -100,6 +100,7 @@ Launch dates are dependent on whether notifications are sent and if we have enou
 **Design**
 
 - Nametag and Apply for Benefits sections
+- Preliminary research discussions -- do we want to test in code?
 
 ## Sprint 83 (9/21 - 10/4)
 - Ad Hoc internal meetings all day 10/3, and most of 10/4; may have reduced availability.
