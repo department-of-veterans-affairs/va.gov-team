@@ -138,7 +138,7 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 ### Coordination with Perigean
 
-We will provide an [email template] [Here is Cindy's email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md) and a unique survey link for Perigean to use when reaching out to each cohort of potential participants.
+We will provide an [email template] ([Here is Cindy's email that we can duplicate](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md)) and a unique survey link for Perigean to use when reaching out to each cohort of potential participants.
 
 We will include a required field at the beginning of the survey to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the survey.
 
