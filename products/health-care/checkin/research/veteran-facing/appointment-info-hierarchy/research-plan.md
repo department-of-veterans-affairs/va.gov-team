@@ -68,9 +68,10 @@ Ultimately, we would like to determine what appointment data as well as the hier
   - In this scenario, how do Veterans rank the importance of each appointment data item?
 
 ### Hypotheses 
-1. Veterans and caregivers will generally agree on which data is most important in check-in.
-2. Veterans and caregivers will generally agree on which data is most important in pre-check-in.
-
+1. Veterans and caregivers will generally agree on which data is most important when determining what appointment they need to check-in for.
+2. Veterans and caregivers will generally agree on which data is most important when check-in is complete, but they want to know what to do next.
+3. Veterans and caregivers will generally agree on which data is most important when trying to understand what appointment they are completing pre-check-in for.
+4. Veterans and caregivers will generally agree on which data is most important when pre-check-in is complete, but they want to know what to do next.
 
 ## Methods + Tools
 We will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to an online survey that contains 4 scenarios in which the participant will prioritize appointment data. The online survey will be built in Optimal Workshop's survey tool, which is called Questions.
