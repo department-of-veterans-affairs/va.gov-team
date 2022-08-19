@@ -81,7 +81,7 @@ jobs:
         if: steps.environment_check.outputs.environment_exists == 'false'
         run: |
           cd vsp-infra-argocd/chart
-          # yq -i '.projects += [{"name": "${{ inputs.application_name }}", "environments": "${{ inputs.application_environment }}"}]' values.yaml
+          yq -yi '(.projects[] | select(.name == "vets-api-server")).environments += ["prod"]' values.yaml
           git add -A
 
 #       - name: Check if application already exists
