@@ -43,12 +43,18 @@ Check-in has expanded our access to more appointment data, which we can display 
 - clinic name
 - facility name
 - date
-- time
+- weekday
+- time with timezone
 - provider's name 
 - type of care 
-- location (floor and roon numbers)
+- location (floor and room numbers)
 - address
 - modality (in-person, telephone, etc)
+- instructions on how to attend video or telephone appointments
+- clinic phone number
+- facility phone number and TTY
+- reason for visit
+- facility directions (map link)
 
 The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
 
