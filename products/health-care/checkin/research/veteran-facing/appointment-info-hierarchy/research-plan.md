@@ -84,7 +84,7 @@ We would like to get complete survey responses from at least 30 Veterans and oth
 
 ## Recruitment
 
-We would like Perigean to recruit 63 people using the cohorts below in order to get at least 30 completes (ideally 40-50). This study will be broken up into 8 mini studies, segmented by the 8 cohorts below.
+We would like Perigean to recruit 63 people using the cohorts below in order to get at least 30 completes (ideally 40-50). This study will be broken up into 7 mini studies, segmented by the 7 cohorts below.
 
 ### Recruitment Criteria (for everyone)
 
@@ -93,7 +93,7 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 #### Screener Question
 
-* Have you been to a VA health care facility for a medical appointment for yourself in the last 12 months? [“Yes” to qualify]
+* Have you been to a VA health care facility for a medical appointment for yourself or a Veteran they you care for in the last 12 months? [“Yes” to qualify]
 
 ### Recruitment Criteria for Cohort A (9 veterans)
 
@@ -114,26 +114,26 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 ### Recruitment Criteria for Cohort D (9 veterans)
 
-* All have NO experience with VA benefits or services
-* [Cohort D study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=D)
+* All are caregivers
+* [Cohort D study link]()
 
 
 ### Recruitment Criteria for Cohort E (9 veterans)
 
-* All go online to access VA benefits and services
-* [Cohort E study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=E)
+* All are female
+* [Cohort E study link]()
 
 
 ### Recruitment Criteria for Cohort F (9 veterans)
 
-* All are female
-* [Cohort F study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=F)
+* All are male
+* [Cohort F study link]()
 
 
 ### Recruitment Criteria for Cohort G (9 veterans)
 
-* All are male
-* [Cohort G study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=G)
+* All have a cognitive disabilities
+* [Cohort G study link]()
 
 
 ### Coordination with Perigean
