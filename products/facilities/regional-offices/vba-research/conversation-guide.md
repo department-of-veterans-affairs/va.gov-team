@@ -30,75 +30,51 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Aslan. Today we're going to talk about the Veteran Benefits Administration pages. Mostly what I'm looking to do is get to know you and learn more about how you interact with the VA website. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- **Are you comfortable if I record my screen and audio as we talk today?** 
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the website, let’s start with a little warm up introduction. 
+- Name
+- Where are you from?
+- What VA location have you visited in the last 6 months?
+- Just for fun, if you could have any superpower, what would you want?
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+## Questions
 
-- Step 1
-- Step 2
+(the following questions are sort of a scattershot that may diverge some from the script depending on the answers given by the participant) 
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
+- Do you know what kinds of facilities that the VA runs?
+- What do they do?
+- Which kinds have you used the most?
+- What kinds of things do you use them for?
+- What kinds of things do you wish you could use them for?
+- Have you ever used a Veteran Benefits Administration facility? 
+- Which location have you used the most?
+- Is that a regional office?
+- Do you know what a regional office is?
+- Do you know what a child office is or do you ever use a child office?
+- Why do you use a regional office versus a child office?
+- What kind of information do you need from a regional office before visiting it?
+- What kind of information have you found on the website when visiting a regional office? 
+-
 
 ## Thank-You and Closing - X minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usability research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day!
 
 ##
 
