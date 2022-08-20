@@ -67,7 +67,7 @@ It will give us a fuller understanding of what veterans need, and provide a base
 
 *   Do veterans understand the different types of facilities?
 *   What are the top tasks that veterans seek out the Veteran Benefits Administration for? 
-*   How important is the child location relationship to the RO for veterans?
+*   How important is the child location relationship to the regional office for veterans?
 *   What are the questions Veterans want answered by calling the phone number(s)?
 *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
@@ -106,7 +106,7 @@ Recruiting 10-14 veterans who have:
 *   Visited a Regional Office Veteran Benefits Administration center in the last six months. 
 *   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
 *   A range of ages from recently in service to older veterans. 
-*   Veterans who live both in urban and rural locations. 
+*   Veterans who live both in urban and rural locations.
 
 ## Timeline
 
