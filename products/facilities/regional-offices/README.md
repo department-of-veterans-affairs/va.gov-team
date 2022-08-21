@@ -1,5 +1,18 @@
-# VBA Facility Sites
+# VBA Facility Sites Product Outline 
 
+## Overview 
+VBA Regional Office sites will be modernized, following the modernization of VAMC sites and Vet Center sites. Modernized VBA sites will leverage existing CMS design patterns, improve accessibilty, provide an efficient moblie experience, and give Veterans seeking access to their benefits more consistent, accurate, and timely information.
+
+## Problem Statement
+The legacy VBA RO sites are authored in Teamsite, have a dense and unweidly presentation, are not mobile optimized, are prone to accessibilty issues, and do not have a rigorous content model. 
+How might we leverage what we've learned from VAMC and Vet Center modernization, and apply some of the same processes to produce RO pages consistent with other pages in the modernized experience. 
+
+## Desired User Outcomes
+* Veterans, their family members, and their caretakeers visiting RO sites can easily find accurate and timely information they need to plan for a visit and to access their benefits.
+* Site visitors with accessiblity issues can navigate the site and find the answers they need.
+* Site visitors on mobile devices users can accomplish the majority, if not all, of the tasks available on the desktop experience. 
+* Site visitors have access to a consitent experience, visiting one RO site 
+  
 This is the new VA.gov facility product for VA's Facilities that offer Benefits Services
 
 - VBA runs 58 Regional Offices, with hundreds of child facilities (i.e., intake sites, VocRehab sites, Vet Success on Campus sites, and others?)
