@@ -11,7 +11,21 @@ How might we leverage what we've learned from VAMC and Vet Center modernization,
 * Veterans, their family members, and their caretakeers visiting RO sites can easily find accurate and timely information they need to plan for a visit and to access their benefits.
 * Site visitors with accessiblity issues can navigate the site and find the answers they need.
 * Site visitors on mobile devices users can accomplish the majority, if not all, of the tasks available on the desktop experience. 
-* Site visitors have access to a consitent experience, visiting one RO site 
+* Site visitors have access to a consitent experience. Visiting one RO site informs visiting any other site, vistors know where to find the information they're looking for and do not have to learn new patterns.
+
+## Undesired User Outcomes
+* Visitors become frustrated 
+* Site information is inaccurate or out of data 
+* 
+
+
+## Desired Business Outcomes
+
+- *Why would your business want this to exist?*
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- 
+
+## Undesired Business Outcomes
   
 This is the new VA.gov facility product for VA's Facilities that offer Benefits Services
 
