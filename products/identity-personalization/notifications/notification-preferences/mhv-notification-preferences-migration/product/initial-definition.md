@@ -9,6 +9,8 @@ This document will help us define which notification preferences we will include
 - **Format**: Email
 - **Needs VANotify support?**: [Yes/No]
 - **Already has a corresponding text notification supported on VA.gov?**: Yes -- there are text notifications being piloted at select VAMCs
+- **Additional notes**:
+
 
 ### Notification: VA Appointment reminders
 
@@ -17,6 +19,8 @@ This document will help us define which notification preferences we will include
 - **Format**: Email
 - **Needs VANotify support?**: [Yes/No]
 - **Already has a corresponding text notification supported on VA.gov?**: Yes
+- **Additional notes**:
+
 
 ### Notification: Medical images and reports available
 
@@ -25,6 +29,8 @@ This document will help us define which notification preferences we will include
 - **Format**: Email
 - **Needs VANotify support?**: [Yes/No]
 - **Already has a corresponding text notification supported on VA.gov?**: No
+- **Additional notes**:
+
 
 ### Notification: MHV newsletter
 
@@ -33,4 +39,24 @@ This document will help us define which notification preferences we will include
 - **Format**: Email
 - **Needs VANotify support?**: [Yes/No]
 - **Already has a corresponding text notification supported on VA.gov?**: No
-- **Questions**: Which system supports this now (eg. GovDelivery)? Is it safe to assume that system will continue to support this email (note: this should not affect our ability to support the preference)?
+- **Additional notes**: Which system supports this now (eg. GovDelivery)? Is it safe to assume that system will continue to support this email (note: this should not affect our ability to support the preference)?
+
+
+### Notification: [Name]
+
+- **Existing notification through MHV?**: [Yes/No]
+  - **If no, when will this be ready for support by MHV**: [Yes/No]
+- **Format**: Email
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
+- **Additional notes**:
+
+
+### Notification: [Name]
+
+- **Existing notification through MHV?**: [Yes/No]
+  - **If no, when will this be ready for support by MHV**: [Yes/No]
+- **Format**: Email
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
+- **Additional notes**:
