@@ -93,4 +93,5 @@ Notification settings come from [VA Profile](https://depo-platform-documentation
 ## Design and UX
 - [High level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
 - [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/use-cases/README.md)
 
