@@ -11,13 +11,14 @@ Is there anything missing from either list?
 - RX refill shipment notification (from CMOP)
 - VA Appointment reminders
 - Medical images and reports available
+- Securing messaging alert
 - MHV newsletter
 
 #### New notifications
 
 - RX refill shipment notification from a local pharmacy
-- Securing messaging alert
 - Send health summary to your non-VA care provider or to some other email address
+- After Visit Summary
 
 
 ## Existing notifications 
@@ -58,6 +59,18 @@ Is there anything missing from either list?
 - **Additional notes**:
 
 
+### Notification: Securing messaging alert
+
+- **Existing notification through MHV?**: Yes
+  - **If no, when will this be ready for support by MHV**:  N/A
+- **Format**: Email
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: No
+- **What backend will trigger this notification?**:
+- **What backend stores this preference?**:
+- **Additional notes**: 
+
+
 ### Notification: MHV newsletter
 
 - **Existing notification through MHV?**: Yes
@@ -84,18 +97,6 @@ Is there anything missing from either list?
 - **Additional notes**
 
 
-### Notification: Securing messaging alert
-
-- **Existing notification through MHV?**: [Yes/No]
-  - **If no, when will this be ready for support by MHV**: [Month and year]
-- **Format**: [Email/Text]
-- **Needs VANotify support?**: [Yes/No]
-- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
-- **What backend will trigger this notification?**:
-- **What backend stores this preference?**:
-- **Additional notes**:
-
-
 ### Notification: Send health summary to your non-VA care provider or to some other email address
 
 - **Existing notification through MHV?**: [Yes/No]
@@ -107,7 +108,7 @@ Is there anything missing from either list?
 - **What backend stores this preference?**:
 - **Additional notes**:
 
-### Notification: [Name]
+### Notification: After visit summary
 
 - **Existing notification through MHV?**: [Yes/No]
   - **If no, when will this be ready for support by MHV**: [Month and year]
@@ -128,15 +129,3 @@ Is there anything missing from either list?
 - **What backend will trigger this notification?**:
 - **What backend stores this preference?**:
 - **Additional notes**:
-
-### Notification: [Name]
-
-- **Existing notification through MHV?**: [Yes/No]
-  - **If no, when will this be ready for support by MHV**: [Month and year]
-- **Format**: [Email/Text]
-- **Needs VANotify support?**: [Yes/No]
-- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
-- **What backend will trigger this notification?**:
-- **What backend stores this preference?**:
-- **Additional notes**:
-
