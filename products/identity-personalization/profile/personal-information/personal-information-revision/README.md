@@ -129,4 +129,4 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 
 - [Personal information design files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
 
-![New Personal Information section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/images/Personal%20information_1.jpeg)
+![New Personal Information section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/images/Personal%20information_1.jpeg)
