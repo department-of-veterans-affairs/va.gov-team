@@ -14,8 +14,10 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 ## Edge cases
 
 ### Flags
+There are no flags associated with this feature.
 
 ### Validation
+There are no validation use cases for this feature.
 
 ### System
 - [Something has gone wrong and VA.gov can’t display any personal information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/system-cant-display-personal-info.md)
