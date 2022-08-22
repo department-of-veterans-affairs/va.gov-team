@@ -8,8 +8,8 @@ If we are having issues connecting to the backend, there’s no action a user ca
 ## UX
 * An LOA3 user goes to the military information section of the profile. If we are having issues connecting to the backend (eg. backend is down), we will show an error that explains we can’t access the page at the moment, and to check back later.
 * Uses the  [warning alert component](https://design.va.gov/components/alert#warning-alert)  from the VA design system.
-*  [Desktop mockup]() 
-*  [Mobile mockup]() 
+*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yoRyd3) 
+*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/dl2vRJE) 
 
 ## Codes
 N/A
