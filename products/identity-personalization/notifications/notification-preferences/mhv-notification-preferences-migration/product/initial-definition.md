@@ -8,17 +8,17 @@ Is there anything missing from either list?
 
 #### Existing notifications
 
-- RX refill shipment notification (from CMOP)
-- VA Appointment reminders
-- Medical images and reports available
-- Securing messaging alert
-- MHV newsletter
+- [RX refill shipment notification (from CMOP)]()
+- [VA Appointment reminders]()
+- [Medical images and reports available]()
+- [Securing messaging alert]()
+- 9Biweekly MHV newsletter]()
 
 #### New notifications
 
-- RX refill shipment notification from a local pharmacy
-- Send health summary to your non-VA care provider or to some other email address
-- After Visit Summary
+- [RX refill shipment notification from a local pharmacy]()
+- [Send health summary to your non-VA care provider or to some other email address]()
+- [After Visit Summary]()
 
 
 ## Existing notifications 
