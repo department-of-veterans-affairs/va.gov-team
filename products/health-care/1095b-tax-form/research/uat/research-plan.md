@@ -1,24 +1,27 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Team MOVE, 1095-B, August 2022
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+Internal Revenue Service (IRS) form 1095-B reports the months a person had minimum essential health coverage to the IRS. VA sends this form to Veterans and dependents to show what months they were covered under the VA health care system. 
+
+In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. The form is not required by the IRS, but it is required to be sent by health care providers as of 2019. 
+
+
+When this is in production, it will be available at: [http://www.va.gov/records/download-your-irs-1095-b](http://www.va.gov/records/download-your-irs-1095-b). Veterans will have familiarity with the 1095-B (they currently receive in in the mail, but no familiarity with it being available online). 
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
+
 
 ### OCTO Objectives 
-
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+- 'Veterans and their families can find a single, authoritative source of information'
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+- Phase 2: Living Civilian Life state: putting down roots
+- Moment: Engaging VA to access benefits and services
 
 ## Research Goals	
-What are you trying to learn from this research? 
+- Test usability of our solution
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
