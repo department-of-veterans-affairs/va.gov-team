@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/19/2022
+- Parallelized API function calls to help improve page load time
+    - [Ticket 45775](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45775)
+
 ### 8/10/2022
 - Backend enhancement to make the stationNo property available to facilitate unique IDs using the stationNo-appointmentIen combination.
     - [Ticket 44524](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44524)
