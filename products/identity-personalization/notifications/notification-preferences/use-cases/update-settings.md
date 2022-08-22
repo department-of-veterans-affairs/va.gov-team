@@ -28,7 +28,11 @@ LOA3 users who sign in, go to the profile, and click into the notification setti
 N/A
 
 ## How to reproduce
+### Common use cases
 1. **Do not make changes to the notification that is not set**
 2. Go to staging.va.gov/profile/notification-settings
 3. Login with vets.gov.user+36 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 4. You can update the notifications that are set to see the update or error message. To trigger the error message, disconnect your device from wi-fi before you change the radio input.
+
+### Specific eligibility use cases
+Use the [staging test accounts document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences.md) to check specific notification groups (Health care, Applications, claims, decision reviews, and appeals, etc).
