@@ -8,11 +8,11 @@ Is there anything missing from either list?
 
 #### Existing notifications
 
-- [RX refill shipment notification (from CMOP)](#notification-rx-refill-shipment-notification-from-cmop)
-- [VA Appointment reminders](#notification-va-appointment-reminders)
-- [Medical images and reports available](#notification-medical-images-and-reports-available)
-- [Securing messaging alert](#notification-securing-messaging-alert)
-- [Biweekly MHV newsletter]()
+- [RX refill shipment notification (from CMOP)](#rx-refill-shipment-notification-from-cmop)
+- [VA Appointment reminders](#va-appointment-reminders)
+- [Medical images and reports available](#medical-images-and-reports-available)
+- [Securing messaging alert](#securing-messaging-alert)
+- [Biweekly MHV newsletter](#biweekly-mhv-newsletter)
 
 #### New notifications
 
@@ -23,7 +23,7 @@ Is there anything missing from either list?
 
 ## Existing notifications 
 
-### Notification: RX refill shipment notification (from CMOP)
+### RX refill shipment notification (from CMOP)
 
 - **Existing notification through MHV?**: Yes
   - **If no, when will this be ready for support by MHV**: N/A
@@ -35,7 +35,7 @@ Is there anything missing from either list?
 - **Additional notes**:
 
 
-### Notification: VA Appointment reminders
+### VA Appointment reminders
 
 - **Existing notification through MHV?**: Yes
   - **If no, when will this be ready for support by MHV**: N/A
@@ -47,7 +47,7 @@ Is there anything missing from either list?
 - **Additional notes**:
 
 
-### Notification: Medical images and reports available
+### Medical images and reports available
 
 - **Existing notification through MHV?**: Yes
   - **If no, when will this be ready for support by MHV**: N/A
@@ -59,7 +59,7 @@ Is there anything missing from either list?
 - **Additional notes**:
 
 
-### Notification: Securing messaging alert
+### Securing messaging alert
 
 - **Existing notification through MHV?**: Yes
   - **If no, when will this be ready for support by MHV**:  N/A
@@ -71,7 +71,7 @@ Is there anything missing from either list?
 - **Additional notes**: 
 
 
-### Notification: Biweekly MHV newsletter
+### Biweekly MHV newsletter
 
 - **Existing notification through MHV?**: Yes
   - **If no, when will this be ready for support by MHV**: N/A
@@ -85,7 +85,7 @@ Is there anything missing from either list?
 
 ## New notifications
 
-### Notification: RX refill shipment notification from a local pharmacy
+### RX refill shipment notification from a local pharmacy
 
 - **Existing notification through MHV?**: No
   - **If no, when will this be ready for support by MHV**: [Month and year]
@@ -97,7 +97,7 @@ Is there anything missing from either list?
 - **Additional notes**
 
 
-### Notification: Send health summary to your non-VA care provider or to some other email address
+### Send health summary to your non-VA care provider or to some other email address
 
 - **Existing notification through MHV?**: [Yes/No]
   - **If no, when will this be ready for support by MHV**: [Month and year]
@@ -108,7 +108,7 @@ Is there anything missing from either list?
 - **What backend stores this preference?**:
 - **Additional notes**:
 
-### Notification: After visit summary
+### After visit summary
 
 - **Existing notification through MHV?**: [Yes/No]
   - **If no, when will this be ready for support by MHV**: [Month and year]
@@ -119,7 +119,7 @@ Is there anything missing from either list?
 - **What backend stores this preference?**:
 - **Additional notes**:
 
-### Notification: [Name]
+### [Notification name]
 
 - **Existing notification through MHV?**: [Yes/No]
   - **If no, when will this be ready for support by MHV**: [Month and year]
