@@ -1,94 +1,84 @@
----
 name: Public Website Intake Form
-about: To file request with the VSA Public Websites
-title: "<Type of Request> from <Team>"
-labels: needs-grooming, vsa, vsa-public-websites, vsa-public-websites-intake
-assignees: ''
+about: To file request with Public Websites
+title: "PW intake: <Type of Request> from <Team>"
+labels: "⭐️ Public Websites", "Needs refining"
+assignees: 
+  - jilladams
+  - wesrowe
+  
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you need engineering support for: 
+          - **Redirects of a non-Facility URL** that have **first been vetted by the Platform Product Support team**. Please submit the [Redirect Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=vsp-product-support%2C+ia&template=redirect-request.md&title=Redirect+Request)
+          - **Injected header**: Please submit [Injected Header issue template](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams&labels=Injected+header%2C+Needs+refining%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend&template=injected-header.md&title=Injected+header%2Ffooter%3A+%3Cdomain%28s%29%3E)
+          - **REACT sign-in widgets or feature flags** (flipper)
+            - **Note:** App team engineers are responsible for flipper implementation related to their products. PW engineers can consult as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) for more info.
+          - Other engineering support from the Public Websites Team  
 
----
+          ### Prioritization
+          Our team works in 2-week sprints, and new tickets will be refined before being assigned in future sprints. If your request is time-critical, please be clear about user testing / launch schedules in your description. Urgent sprint injections will require approval from PW PO, Dave Conlon.
+  - type: input
+    id: team-name
+    attributes:
+      label: Your team name:
+    validations:
+      required: true
+  - type: input
+    id: team-slack
+    attributes:
+      label: Product/team Slack channel: 
+  - type: textarea
+    id: request
+    attributes:
+      label: Describe your request:
+      description: Provide a brief description of the related tool, feature, or functionality
+    validations:
+      required: true
+  - type: textarea
+    id: timing
+    attributes:
+      label: Describe any time constraints / launch plan deadlines / timing requests:    
+      description: Enter "no hard timing" if Public Websites can complete this work per our team's prioritization.
+    validations:
+      required: true
+  - type: checkboxes
+    id: fe-needs
+    attributes:
+      label: Indicate if you need front-end engineering support for: 
+      options:
+        - label: Implementation of REACT sign-in widgets
+        - label: Support for UAT testing or phased roll out of app/tool landing page
+        - other: 
+        - label: Neither
+  - type: textarea
+    id: fe-supporting-info
+    attributes:
+      label: FE support collateral
+      description: If front-end eng support is needed, provide a link to your spec, and the unique Flipper ID. 
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Please include any additional information or context that may be relevant to your request, such as existing IA requests, product briefs/outlines, wireframes, prototypes, user research synthesis  
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Notify [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) of this issue, and tag @Wes Rowe & @jilladams. 
+      options:
+        - label: I acknowledge that I must notify `sitewide-public-websites` after submitting this issue.
+          required: true
+  - type: markdown
+    attributes:
+      value: |   
+        ----
+        ### Public Websites internal use
+        #### Acceptance Criteria
+        - [ ] Move to va.gov-cms repo
+        - [ ] Convert this request into a Zenhub epic or add to existing epic
+        - [ ] Follow-up with requestor to address any lingering questions/concerns
+        - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
-## Why you're here 
-
-### Engineering support for:
-- Redirects that have **first been vetted by the Platform Product Support team**. If you are requesting a redirect, please submit the [Redirect Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=vsp-product-support%2C+ia&template=redirect-request.md&title=Redirect+Request)
-- REACT sign-in widgets or feature flags (flipper)
-- Other engineering support from the Public Websites Team
-
-**Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
-
-## How to submit your request
-
-- [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.  
-- [ ] Post a link to this issue: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites), and in slack tag @Wes Rowe & @jilladams.    
-- [ ] If noted in the guidance below, please schedule any relevant meetings.
-
-### When to submit your request
-
-Please submit all engineering requests **at least 1 full sprint in advance** (so we can work it into our next sprint).
-
----
-
-## About your app/tool/functionality
-
-* **Is this request related to a VA.gov tool? If yes, provide a brief description of the tool or functionality:**  
-   * < description > 
-* **Provide links to any available collateral: **Please link to existing IA requests**, product briefs/outlines, wireframes, prototypes, user research synthesis:** 
-   * < links to collateral >
-
----
-
-## About your support needs
-*Please select all that apply, and follow related guidance.*        
-
-### Frontend engineering support 
-
-   
-- [ ] **Implementation of REACT sign-in widgets**
-   * **Full spec including different states and behaviors:** 
-     - < link to spec >
-   * **Flipper unique id:** 
-     - < unique id >
-     
- - [ ] **Support for UAT testing or phased roll out of app/tool landing page**
-    * **Full spec including different states and behaviors:** 
-      - < link to spec >
-    * **Flipper unique id:** 
-      - < unique id >
-
-**Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
-
-- [ ] **Other**
-   * Please describe in detail
-      
-
-### Desired/target implementation date
-
-What's the ETA for the app/tool launch or the date when you need this request completed? Our team's capacity will determine which sprint the work falls into.
-
-* <Desired/target implementation date>
-
-**Note:** As a best practice, PW does not release new products over weekends or holidays. Please plan accordingly. 
-
----
-
-### About your team
-Please populate all information:
-
-- Team name: 
-- DEPO product owner: 
-- Product manager: 
-- Designer: 
-- FE engineer: 
-- Product/team Slack channel: 
-
---- 
-### Public Websites internal use
-
-#### Acceptance Criteria
-- [ ] Move to va.gov-cms repo
-- [ ] Convert this request into a Zenhub epic or add to existing epic
-- [ ] Follow-up with requestor to address any lingering questions/concerns
-- [ ] Create epic/tickets as needed for the Public Websites team to implement
-
-#### Definition of Done
-* Request ticket is closed and implementation tickets created as needed - **If you have content requests, please fill out the content [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/sitewide-content-intake-form.md)**
+        #### Definition of Done
+        * Request ticket is closed and implementation tickets created as needed - **If you have content requests, please fill out the content [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/sitewide-content-intake-form.md)**
