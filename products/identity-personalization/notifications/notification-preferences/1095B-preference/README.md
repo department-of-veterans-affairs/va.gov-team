@@ -1,6 +1,8 @@
 # Project outline: Add 1095B mail opt-out preference to notification settings
 
-Last updated: August 8, 2022 
+## As of August 18, 2022, this project is on hold due to the team who manages the Healthcare Enrollment System being unable to prioritize changes to the ES until 2023. We will pick up this effort again once all teams are ready to do so.
+
+Last updated: August 22, 2022 
 
 ### Communications
 
@@ -85,6 +87,7 @@ OKRs and KPIs TBD.
 
 - July 2022: Initial intake and requirements gathering with 1095B team, VA Profile, and VANotify
 - August 2022: Begin design explorations
+- August 18, 2022: Work on hold until health care enrollment system team is ready to implement ES changes
 
 ## Backend
 
