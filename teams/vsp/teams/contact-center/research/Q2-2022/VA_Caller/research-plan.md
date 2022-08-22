@@ -134,7 +134,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator): Michael Manalo (mmanalo@thesocompany.com) 	
 - Participant recruiting & screening:	
 - Project point of contact:  Michael Manalo	
-- Participant(s) for pilot test: TBD 	
+- Participant(s) for pilot test: Steven Tarlow
 - Note-takers: (Primary) Ian McCullough (Ian.McCullough@oddball.io)
 	- Jason Woodman (jason.woodman@oddball.io)
 	- Ervin Peterson (epearson@thesocompany.com)
