@@ -20,38 +20,37 @@ body:
           ### Prioritization
           Our team works in 2-week sprints, and new tickets will be refined before being assigned in future sprints. If your request is time-critical, please be clear about user testing / launch schedules in your description. Urgent sprint injections will require approval from PW PO, Dave Conlon.
   - type: input
-    id: team-name
+    id: customer-name
     attributes:
-      label: Your team name:
+      label: Your team name
     validations:
       required: true
   - type: input
-    id: team-slack
+    id: customer-slack
     attributes:
-      label: Product/team Slack channel: 
+      label: Product/team Slack channel
   - type: textarea
-    id: request
+    id: customer-request
     attributes:
-      label: Describe your request:
+      label: Describe your request
       description: Provide a brief description of the related tool, feature, or functionality
     validations:
       required: true
   - type: textarea
-    id: timing
+    id: customer-timing
     attributes:
-      label: Describe any time constraints / launch plan deadlines / timing requests:    
+      label: Describe any time constraints / launch plan deadlines / timing requests    
       description: Enter "no hard timing" if Public Websites can complete this work per our team's prioritization.
     validations:
       required: true
   - type: checkboxes
     id: fe-needs
     attributes:
-      label: Indicate if you need front-end engineering support for: 
+      label: Indicate if you need front-end engineering support for 
       options:
         - label: Implementation of REACT sign-in widgets
         - label: Support for UAT testing or phased roll out of app/tool landing page
-        - other: 
-        - label: Neither
+        - label: Something else
   - type: textarea
     id: fe-supporting-info
     attributes:
@@ -71,13 +70,13 @@ body:
           required: true
   - type: markdown
     attributes:
-      value: |   
+      value: |
         ----
         ### Public Websites internal use
         #### Acceptance Criteria
         - [ ] Move to va.gov-cms repo
         - [ ] Convert this request into a Zenhub epic or add to existing epic
-        - [ ] Follow-up with requestor to address any lingering questions/concerns
+        - [ ] Follow-up with requester to address any open questions/concerns
         - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
         #### Definition of Done
