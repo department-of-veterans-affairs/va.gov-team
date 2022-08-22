@@ -43,10 +43,15 @@ How will this research advance your product to the next phase in the design proc
 2. Are the currect expectations for VA.gov users to have their issues resolved or reviewed set correctly by the Tier 1 Call center agent? 
 
  · When did you last encounter a problem on VA.gov, what steps do you take to contact the VA about your issue? 
+ 
  · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)? 
+ 
  · What have been blockers and difficulties in getting services through your VA call center? 
+ 
  · When recieving a resolution for your case, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
+ 
  · Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry? 
+ 
  · Did you understand the timeframe in which you recieved an overall resolution to your inquiry? 
 
 
