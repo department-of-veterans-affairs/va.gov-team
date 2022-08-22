@@ -43,24 +43,10 @@ Usability testing
 Remote via Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/decision-letter-download/conversation-guide.md)
+- [Prototype](https://sketch.com/s/8b025901-295d-4929-95cc-8dbeb28454b3/a/xrJyeYl/play)
 	
 ## Recruitment	
 
@@ -109,7 +95,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Skyler Schain
+- Moderator: Skyler Schain 
 - Research guide writing and task development (usually but not always same as moderator): Skyler Schain	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Skyler Schain, Jacob Worrell	
