@@ -14,7 +14,7 @@
 
 </details>
 
-## Monday, August 15, 2022
+## Monday, August 22, 2022
 
 * v1 timeline check
    * End of August. (maybe early Sept)
