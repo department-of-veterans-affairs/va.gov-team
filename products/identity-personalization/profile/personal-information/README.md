@@ -51,6 +51,7 @@ As a user, I want to be able to:
 ## Analytics
 
 - [Personal information Google Analytics dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
+- [GA event examples for Personal info revision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/analytics/GA-event-examples.md)
 
 ## Feature Overview
 
