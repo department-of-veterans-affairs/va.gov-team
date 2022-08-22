@@ -58,14 +58,21 @@ jobs:
           path: vsp-infra-argocd
 
       - name: Check if application already exists
-        id: exists
+        id: application_check
         run: |
-          application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects[] | select(.name == "${{ inputs.application_name }}").environments | any(. == "${{ inputs.application_environment }}")' || true)
+          application_exists=$(yq -er '[.projects[].name | test("^${{ inputs.application_name }}$")] | any' vsp-infra-argocd/chart/values.yaml} || true)
           if [ -z "$application_exists" ]; then export application_exists=false; fi
           echo "::set-output name=application_exists::$(echo ${application_exists})"
-        
-      - name: If application exists
-        if: steps.exists.outputs.application_exists == 'true'
+
+      - name: Check if application environment exists
+        id: environment_check
+        run: |
+          environment_exists=$(yq -er '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ inputs.application_environment }}"])' vsp-infra-argocd/chart/values.yaml || true)
+          if [ -z "$environment_exists" ]; then export environment_exists=false; fi
+          echo "::set-output  name=environment_exists::$(environment_exists)"
+
+      - name: If application and environment exist
+        if: steps.application_check.outputs.application_exists == 'true' && steps.environment.outputs.environment_exists == 'true'
         uses: KeisukeYamashita/create-comment@v1
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
@@ -74,11 +81,16 @@ jobs:
             in the `projects` here https://github.com/department-of-veterans-affairs/vsp-infra-argocd/blob/main/chart/values.yaml
         
       - name: If application does not exist
-        if: steps.exists.outputs.application_exists == 'false'
+        if: steps.application_check.outputs.application_exists == 'false'
         run: |
           cd vsp-infra-argocd/chart
-          yq -i '.projects += [{"name": "${{ inputs.application_name }}", "environments": "${{ inputs.application_environment }}"}]' values.yaml
-          git add -A
+          yq -i '.projects += [{"name": "${{ inputs.application_name }}", "environments":[]}]' values.yaml
+
+      - name: If environment does not exist
+        if: steps.environment_check.outputs.environment_exists == 'false'
+        run: |
+          cd vsp-infra-argocd/chart
+          yq -i '(.projects[] | select(.name == "${{ inputs.application_name }}")).environments += ["${{ inputs.application_environment }}"]' values.yaml
           
       - name: Create pull request
         if: steps.exists.outputs.application_exists == 'false'
