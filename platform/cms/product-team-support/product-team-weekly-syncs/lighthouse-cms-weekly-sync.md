@@ -18,6 +18,22 @@
 
 * v1 timeline check
    * End of August. (maybe early Sept)
+   * Coordinate when/how to _flip the switch_
+* Mental Health 
+  * Crosswalk ATC data and Facilities data
+  * Multiple phone numbers 
+* Drupal views, including Facility ID
+* VAST - add support for custom hours within CMS
+We didn't get to last week:
+* Sync CMS data to sandbox
+   * Internal meeting ..results? 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+
+
+## Monday, August 15, 2022
+
+* v1 timeline check
+   * End of August. (maybe early Sept)
    * Code Complete 8/31
    * Doc has to be aligned intenral and external - 
    * CMS articles recommendations this week - need to be published in advance
