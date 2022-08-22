@@ -58,10 +58,10 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 - Product POCs: 
     - Tracey Mulrooney (Product Owner/VA) | tracey.mulrooney@va.gov
     - Jeanette Cantrell (MOVE) | jeanette@themostudio.com
-    - Munish Sikka (MOVE) | munish@themostudio.com
     - Tamera (Tami) Corson (MOVE) | tamera.corson@va.gov
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
 - Stakeholders: Tarsha Tremble (Business owner/Health Enrollment Center) | tarsha.tremble@va.gov
+- OGC Legal reviewer: 
 
 ### Team Members
 
