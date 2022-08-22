@@ -17,7 +17,7 @@
 
 **PM**
 
-- Prep for staging & privacy reviews
+- Prep for staging ~& privacy reviews~ (privacy review has been completed)
 - Support contact center guide updates
 
 **QA**
