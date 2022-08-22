@@ -75,22 +75,20 @@ We will conduct remote moderated directed interviews via Zoom with Veterans that
 
 ### Research materials 
   · [Conversation Guide 1 - Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/research/Q2-2022/VA_Caller/convoguide-tier1.md)
-  [Conversation Guide 2 - Tier 1 Call Center teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/research/Q2-2022/VA_Caller/convoguide-tier1.md)
+
 
 ## Recruitment	
 
 We are seeking to perform this test with 10 participants total max
 
-- VA call center employees (3-5)
-- Veterans that had used Tier 1 call center services (3-5)
+- Va.gov users that had used Tier 1 call center services (3-5)
+
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
- - VA employees through our contact points at VEO 
-
- - Veteran  that had used Tier 1 call center services 
-   - Recruitment plan (TBD)
+ - Va.gov that had used Tier 1 call center services 
+   - Recruitment plan will go through Peringan 
 
 
 **Primary criteria (must-haves)**
@@ -99,7 +97,7 @@ Must have for participants
   
 
 ## Timeline
-Desired Timeline: May 25- June 9, 2022  60 minutes (45-minute session with 15-minute buffer)
+Desired Timeline: May 25- June 9, 2022 (40-minute session with 10 inute buffer)
 
 ### Prepare
 When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
@@ -110,7 +108,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 What dates do you plan to do research? 
-May 25- June 9, 2022 
+Aug 30 to Sep 6yj
 
 ### Length of sessions
 How long do you estimate each session will be? 
@@ -130,7 +128,6 @@ Please list the people who will be serving in each role. **Include the primary p
 	- Kimberly Daniels (kimberley.daniels@adhocteam.us)
 	- Steven Tarlow (starlow@thesocompany.com)
 
-- Observers: Still be determined
+- Observers: Chante Lantos-Swett chante.lantosswett@va.gov
 
 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
