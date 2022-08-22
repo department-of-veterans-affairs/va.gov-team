@@ -41,23 +41,38 @@ While most of the MyHealtheVet migration into VA.gov will take place in the heal
 
 ## Problem Statement
 
+- As a VA health care recipient, I want to choose how the VA communicates with me about difference aspects of my health care.
+
 ## User outcomes
 
 ### Desired User Outcomes
 
+- Users can easily find and update their health care notification settings within the VA.gov profile, both before the health apartment is complete, and after.
+
 ### Undesired User Outcomes
+
+- Users are confused about where to manage their health care settings while the MHV and VA.gov profiles coexist.
+- Users have a difficult time signing in to VA.gov to change their notification settings before MHV is retired.
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
+- VA.gov supports the existing MHV notification preferences, and some new ones, as part of this engagement.
+- There is a clear path to guide users to the VA.gov profile once this functionality is supported on VA.gov.
+
 ### Undesired Business Outcomes
+
+- (For VA.gov) We are put in a position to support a bunch of new settings that aren't actually ready to be supported.
+- Users are confused about where to manage their health care settings while the MHV and VA.gov profiles coexist.
 
 ## Measuring success
 
 OKRs and KPIs TBD.
 
 ## Solution approach
+
+- We are initially engaging with the MHV team biweekly in order to define the notification preferences work before we go to VA Profile and VA Notify and fill out intake forms.
 
 ### Requirements
 
