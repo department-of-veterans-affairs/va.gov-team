@@ -1,7 +1,9 @@
 name: Public Website Intake Form
 description: To file request with Public Websites
 title: "PW intake: <Type of Request> from <Team>"
-labels: "⭐️ Public Websites", "Needs refining"
+labels: 
+  - "⭐️ Public Websites"
+  - "Needs refining"
 assignees: 
   - jilladams
   - wesrowe
