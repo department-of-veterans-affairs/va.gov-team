@@ -129,6 +129,9 @@
 - Notification message for updates to the Abstract Master collection
     - "Modernized Check-in team has updated the Master Abstract collection."
         - Include a link to the Abstract Master collection 
+- Notification message for a finalized Abstract feature collection
+    - "Modernized Check-in team has finalized the Abstract wireframes for a new feature."
+        - Include a link to the Abstract feature collection 
 - Notification message for updates to Planned Releases
     - "Modernized Check-in team has updated their Planned Releases." (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
 - Notification message for production releases
