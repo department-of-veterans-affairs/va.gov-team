@@ -35,10 +35,32 @@ body:
       label: Your product/team Slack channel
       description: If your team works in Slack, please note the primary channel for this request
   - type: input
+    id: customer-PO
+    attributes:
+      label: Your DEPO product owner
+      description: Github handle, name
+    validations:
+      required: true
+  - type: input
+    id: customer-pm
+    attributes:
+      label: Your Product Manager
+      description: Github handle, name
+  - type: input
+    id: customer-designer
+    attributes:
+      label: Your designer(s)
+      description: Github handle(s), name(s)
+  - type: input
+    id: customer-fe
+    attributes:
+      label: Your Front-end engineer(s)
+      description: Github handle(s), name(s)
+  - type: input
     id: customer-stakeholders
     attributes:
-      label: Launch decision makers
-      description: Who will make launch decisions for this effort? Please list Slack handle(s) or email address(es).
+      label: Other launch decision makers
+      description: Will additional stakeholders make launch decisions for this effort? Please list github handle(s) or email address(es).
   - type: textarea
     id: customer-request
     attributes:
