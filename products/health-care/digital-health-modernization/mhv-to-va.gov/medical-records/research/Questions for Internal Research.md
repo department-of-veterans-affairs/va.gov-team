@@ -75,7 +75,7 @@
 - What is the future of Search My Record?
 - We've heard that in My HealtheVet today Veterans can share their self-entered data which is stored in the vault, but there is not a clear user flow for sharing this health data. Can you tell us more about this process?
 
-### After-Visit Summary (AVS) Questions - 5 minutes
+### After-Visit Summary (AVS) Questions
 - Can you give us some information about After-Visit Summaries?
 - What do you think about including the After-Visit Summary (AVS) in the VA Health Summary?
 
