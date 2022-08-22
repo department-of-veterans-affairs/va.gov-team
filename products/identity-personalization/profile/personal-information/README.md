@@ -107,6 +107,7 @@ To access the personal information section of the profile in staging:
 
 - [Personal information sketch files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision/use-cases)
+- [Personal information revision UX decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/design/personal-info-ux-decisions.md)
 
 ### Flow diagrams
 
