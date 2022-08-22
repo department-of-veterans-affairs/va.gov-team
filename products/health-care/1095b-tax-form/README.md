@@ -15,7 +15,7 @@ In most cases, it is simply a form for one's records. However, some states still
 ## Product research
 
 - Research plan and [conversation guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/conversation-guide.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round%201%20Research%20Findings%20Report.md) - [raw data file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/Round1-Sprint2-Research-SCRUBBED.xlsx)
-- Research plan and [conversation guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/conversation-guide.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/researchplan.md) and [conversation guide #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/conversation-guide.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round2/round2-research-report.md)
 
 ## Call center documents
 
