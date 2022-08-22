@@ -83,3 +83,11 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
+## Exit Strategy (applicabpe if needed)
+
+Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+
+Blame technology: I am so sorry, but I just learned that the Zoom recording is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+Backup Moderator: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
+
