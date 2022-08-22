@@ -65,7 +65,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 · What have been blockers/ difficulties in getting services through your VA call center?
 
-· When recieving a resolution for your issue, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
+· When recieving a resolution for your issue, did you feel you ended up with a satisfactory answer? Yes, No? Please explain
 
 · Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
 
