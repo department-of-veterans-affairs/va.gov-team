@@ -12,7 +12,7 @@ In most cases, it is simply a form for one's records. However, some states still
 - When this is in production, it will be available at [http://www.va.gov/records/download-your-irs-1095-b](http://www.va.gov/records/download-your-irs-1095-b)
 - [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
 - HEC Call Center documents - English
-- HEC Call Center documents - Spanish
+- [HEC Call Center documents - Spanish](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in)
 
 ## Release information 
 
