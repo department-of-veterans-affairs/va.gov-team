@@ -94,11 +94,18 @@ Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs
 
 
 **Primary criteria (must-haves)**
+
 Must have for participants
-  ·  At least, 2-3 Rural location based 
-  ·  At least, 2-3 women, non-Caucasian 
-  ·  At least, 1-2 non-binary, non-cisgender
-  ·  At least, 3-4 mobile users of VA.gov 
+
+ ·  At least, 1 Assistive Tech (AT) users
+ 
+ ·  At least, 2-3 Rural location based 
+ 
+ ·  At least, 2-3 women, non-Caucasian 
+ 
+ ·  At least, 1-2 non-binary, non-cisgender
+ 
+ ·  At least, 3-4 mobile users of VA.gov 
 
    
 
