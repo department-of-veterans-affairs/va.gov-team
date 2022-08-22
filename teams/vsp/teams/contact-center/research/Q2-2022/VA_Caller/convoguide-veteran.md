@@ -69,12 +69,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 · Did you understand the timeframe in which you recieved an overall resolution to your inquiry?
 
 
-## Post-Task Interview - 15 minutes
+## Post-Task Interview - 5 minutes
 
 - Is there anything about your past experience with VA Call center services, that we didn't cover, but you would like to share?
 - Do you have any questions for me or any other feedback you would like to share? 
 
-## Thank-You and Closing - 5 minutes
+## Thank-You and Closing - 1 -2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on better services for Veterans.
 
