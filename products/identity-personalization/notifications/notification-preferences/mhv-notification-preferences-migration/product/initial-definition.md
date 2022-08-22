@@ -17,8 +17,8 @@ Is there anything missing from either list?
 #### New notifications
 
 - [RX refill shipment notification from a local pharmacy](#rx-refill-shipment-notification-from-a-local-pharmacy)
-- [Send health summary to your non-VA care provider or to some other email address]()
-- [After Visit Summary]()
+- [Send health summary to your non-VA care provider or to some other email address](#send-health-summary-to-your-non-va-care-provider-or-to-some-other-email-address)
+- [After Visit Summary](#after-visit-summary)
 
 
 ## Existing notifications 
