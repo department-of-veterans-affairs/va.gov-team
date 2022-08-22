@@ -53,7 +53,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 · When did you last encounter a problem on VA.gov, and what steps do you take to contact the VA call center about your issue?  
 
-· How many calls has taken place for this issue?  
+· How many calls with the Call Center has taken place for this issue?  
 
 · Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? Can you recreate the issue that you had on VA.gov? 
   
