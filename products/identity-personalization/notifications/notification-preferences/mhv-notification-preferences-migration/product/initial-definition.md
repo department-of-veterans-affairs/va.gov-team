@@ -12,7 +12,7 @@ Is there anything missing from either list?
 - [VA Appointment reminders](#notification-va-appointment-reminders)
 - [Medical images and reports available](#notification-medical-images-and-reports-available)
 - [Securing messaging alert](#notification-securing-messaging-alert)
-- 9Biweekly MHV newsletter]()
+- [Biweekly MHV newsletter]()
 
 #### New notifications
 
@@ -71,7 +71,7 @@ Is there anything missing from either list?
 - **Additional notes**: 
 
 
-### Notification: MHV newsletter
+### Notification: Biweekly MHV newsletter
 
 - **Existing notification through MHV?**: Yes
   - **If no, when will this be ready for support by MHV**: N/A
