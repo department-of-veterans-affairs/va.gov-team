@@ -62,14 +62,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 · What have been blockers/ difficulties in getting services through your VA call center?
 
-· When recieving a resolution for your case, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
+· When recieving a resolution for your issue, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
 
-· Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry?
+· Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
 
-· Did you understand the timeframe in which you recieved an overall resolution to your inquiry?
+· Did you understand the timeframe in which you recieved an overall resolution to your issue?
 
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 5-10 minutes
 
 - Is there anything about your past experience with VA Call center services, that we didn't cover, but you would like to share?
 - Do you have any questions for me or any other feedback you would like to share? 
