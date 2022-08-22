@@ -95,7 +95,7 @@ jobs:
           git add -A
           
       - name: Create pull request
-        if: steps.exists.outputs.application_exists == 'false'
+        if: steps.application_exists.outputs.application_exists == 'false' || steps.environment_check.outputs.environment_exists == 'false'
         id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
