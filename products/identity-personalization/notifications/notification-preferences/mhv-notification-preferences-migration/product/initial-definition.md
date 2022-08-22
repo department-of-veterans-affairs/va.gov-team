@@ -34,4 +34,3 @@ This document will help us define which notification preferences we will include
 - **Needs VANotify support?**: [Yes/No]
 - **Already has a corresponding text notification supported on VA.gov?**: No
 - **Questions**: Which system supports this now (eg. GovDelivery)? Is it safe to assume that system will continue to support this email (note: this should not affect our ability to support the preference)?
-
