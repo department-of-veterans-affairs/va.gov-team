@@ -19,7 +19,7 @@ In most cases, it is simply a form for one's records. However, some states still
 
 ## Call center documents
 
-- HEC Call Center documents - English
+- [HEC Call Center documents - English](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20English%20Opt-in)
 - [HEC Call Center documents - Spanish](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in)
 
 ## Release information 
