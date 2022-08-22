@@ -53,7 +53,7 @@ How will this research advance your product to the next phase in the design proc
 
 · What have been blockers/ difficulties in getting services through your VA call center?
 
-· When recieving a resolution for your issue, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
+· When recieving a resolution for your most recent issue descrbied, did you feel that you had the answer/resources provided? Yes or No? Please explain.
 
 · Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
 
