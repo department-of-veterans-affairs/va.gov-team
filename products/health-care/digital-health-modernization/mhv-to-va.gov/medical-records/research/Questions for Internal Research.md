@@ -75,10 +75,6 @@
 - What is the future of Search My Record?
 - We've heard that in My HealtheVet today Veterans can share their self-entered data which is stored in the vault, but there is not a clear user flow for sharing this health data. Can you tell us more about this process?
 
-### After-Visit Summary (AVS) Questions
-- Can you give us some information about After-Visit Summaries?
-- What do you think about including the After-Visit Summary (AVS) in the VA Health Summary?
-
 ### Medical Records Vision
 - The current vision for MHV can be applied to Medical Records. It states that: 
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
@@ -127,10 +123,6 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Where do you think that the vaccine records should reside in the tool. Should they be in a separate section, or included in the medical records?
 - What is the future of Search My Record?
 - We've heard that in My HealtheVet today Veterans can share their self-entered data which is stored in the vault, but there is not a clear user flow for sharing this health data. Can you tell us more about this process?
-
-### After-Visit Summary (AVS) Questions - 5 minutes
-- Can you give us some information about After-Visit Summaries?
-- What do you think about including the After-Visit Summary (AVS) in the VA Health Summary?
 
 ### Medical Records Vision
 - The current vision for MHV can be applied to Medical Records. It states that: 
