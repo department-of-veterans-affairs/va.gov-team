@@ -10,7 +10,7 @@ Is there anything missing from either list?
 
 - [RX refill shipment notification (from CMOP)](#notification-rx-refill-shipment-notification-from-cmop)
 - [VA Appointment reminders](#notification-va-appointment-reminders)
-- [Medical images and reports available]()
+- [Medical images and reports available](#notification-medical-images-and-reports-available)
 - [Securing messaging alert]()
 - 9Biweekly MHV newsletter]()
 
