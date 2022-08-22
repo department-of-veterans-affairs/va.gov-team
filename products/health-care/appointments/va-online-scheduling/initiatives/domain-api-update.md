@@ -158,18 +158,10 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Before
 
-Current State: 
-
-<img width="592" alt="Screen Shot 2022-05-05 at 8 01 54 AM" src="https://user-images.githubusercontent.com/90797205/166919184-d6aa9850-f205-4542-b78c-b28836dd24e8.png">
-
-Future State (Post v2 Launch): 
-
-<img width="638" alt="Screen Shot 2022-05-05 at 7 58 13 AM" src="https://user-images.githubusercontent.com/90797205/166919230-c2640d26-5b42-44b1-81d0-361842eb8e4d.png">
 
 
 ### After
 
-[Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=193%3A24159&starting-point-node-id=193%3A24159)
 
 ---
 
