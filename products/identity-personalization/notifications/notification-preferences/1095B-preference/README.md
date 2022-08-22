@@ -1,6 +1,6 @@
 # Project outline: Add 1095B mail opt-out preference to notification settings
 
-## As of August 18, 2022, this project is on hold due to the team who manages the Healthcare Enrollment System being unable to prioritize changes to the ES until 2023. We will pick up this effort again once all teams are ready to do so.
+## As of August 18, 2022, this project is on hold. The 1095B preference flow requires changes to the health care enrollment system (ES), and the team who manages the ES is unable to prioritize this work until 2023. We will pick up this effort again once all teams are ready to do so.
 
 Last updated: August 22, 2022 
 
