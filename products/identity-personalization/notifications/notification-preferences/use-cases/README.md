@@ -9,7 +9,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account
 #### User has contact info on file for existing notification channels
-- User has one or more notifications for which they have not selected a preference
+- [User has one or more notifications for which they have not selected a preference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/use-cases/user-has-unset-notifications.md)
 - User has selected a preference for all notifications
 
 #### User has partial or missing contact information
