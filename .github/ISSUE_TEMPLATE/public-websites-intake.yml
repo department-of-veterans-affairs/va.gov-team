@@ -21,6 +21,8 @@ body:
 
           ### Prioritization
           Our team works in 2-week sprints, and new tickets will be refined before being assigned in future sprints. If your request is time-critical, please be clear about user testing / launch schedules in your description. Urgent sprint injections will require approval from PW PO, Dave Conlon.
+
+          # Intake information
   - type: input
     id: customer-name
     attributes:
@@ -30,19 +32,25 @@ body:
   - type: input
     id: customer-slack
     attributes:
-      label: Product/team Slack channel
+      label: Your product/team Slack channel
+      description: If your team works in Slack, please note the primary channel for this request
+  - type: input
+    id: customer-stakeholders
+    attributes:
+      label: Launch decision makers
+      description: Who will make launch decisions for this effort? Please list Slack handle(s) or email address(es).
   - type: textarea
     id: customer-request
     attributes:
       label: Describe your request
-      description: Provide a brief description of the related tool, feature, or functionality
+      description: How can Public Websites help you? Describe the tool, feature, or functionality you are working on, and the help you need.
     validations:
       required: true
   - type: textarea
     id: customer-timing
     attributes:
-      label: Describe any time constraints / launch plan deadlines / timing requests    
-      description: Enter "no hard timing" if Public Websites can complete this work per our team's prioritization.
+      label: Time constraints / launch deadlines  
+      description: Enter "no hard timing" if Public Websites can complete this work per our team's prioritization. Describe any planned launch timing. Link to launch plan, if it exists. Please note anything driving timing, e.g. outside contractors, internal executive deadlines, or whether timing is preferred but can be flexible. 
     validations:
       required: true
   - type: checkboxes
@@ -56,7 +64,7 @@ body:
   - type: textarea
     id: fe-supporting-info
     attributes:
-      label: FE support collateral
+      label: Collateral for Front-end support
       description: If front-end eng support is needed, provide a link to your spec, and the unique Flipper ID. 
   - type: textarea
     id: additional-information
@@ -66,9 +74,9 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Notify [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) of this issue, and tag @Wes Rowe & @jilladams. 
+      label: Notify Sitewide Public Websites of this issue, and tag @Wes Rowe & @jilladams. 
       options:
-        - label: I acknowledge that I must notify `sitewide-public-websites` after submitting this issue.
+        - label: I acknowledge that I must notify `#sitewide-public-websites` in Slack after submitting this issue.
           required: true
   - type: markdown
     attributes:
