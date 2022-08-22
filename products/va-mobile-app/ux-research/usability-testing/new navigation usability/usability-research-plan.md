@@ -121,13 +121,14 @@ Recruit 16 Veterans for a minimum of 10 successfully completed sessions (of the 
 #### Primary criteria
 * All participants must be Veterans.
 * All participants must have experience with one or more of the following VA benefits or services: VA health care, disability, education benefits.
-  * At least 8 should be active monthly users of the VA Health and Benefits mobile app.
+* At least 8 should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.)
   * Please do a phone follow-up to confirm the participant uses the VA Health and Benefits Mobile App. Once downloaded, the app looks like this: 
+      * <img src="https://user-images.githubusercontent.com/79866060/181546254-135661e0-7546-4060-bb13-a1426490f887.png" alt="VA mobile app icon" style="width:100px;"/>  
   * If the participant can describe what the app looks like on their phone screen (even if they don’t know the full name), that should provide enough information to validate if they have the app and schedule the participant for a research session.
-* All participants must have an iOS mobile device with Safari (not an iPad) OR an Android mobile device (not a tablet) & be willing to use it for the session.
-* All participants must have Zoom installed on their mobile device.
-* All participants must be willing to do an activity from their mobile device that requires navigating a low-fidelity web prototype and sharing their screen via Zoom.
+* All participants must have an iOS mobile phone (not an iPad) with the Safari browser installed OR an Android mobile phone (not a tablet) & be willing to use it for the session.
+* All participants must have the Zoom mobile app installed on their phone. They can download the iOS or Andorid apps on the [Zoom website](https://zoom.us/download).
+* All participants must be willing to do an activity from their mobile phone that requires navigating a low-fidelity web prototype and sharing their screen via the Zoom app.
 * No assistive technology users (low-fi prototype does not support assistive technology).
 
 #### Secondary criteria
@@ -186,6 +187,8 @@ To assess potential participants' experiences with VA benefits or services, plea
 * Project point of contact: [Holly Collier](mailto:holly.collier@adhocteam.us)
 * Participant(s) for pilot test: TBD
 * [Observers and Notetakers](https://docs.google.com/spreadsheets/d/1hOXVQ2UIStK3dnMsPqariz4cKwVuO0yS63v2o6jTGo4/edit?usp=sharing)
+    * Jen Ecker - Managing Senior Designer, VA Mobile App, jen.ecker@adhocteam.us
+    * Lauren Russell - Senior UX Designer, VA Mobile App, lauren.russell@adhocteam.us
 
 
 ## Analysis & Findings
