@@ -12,7 +12,7 @@ Last Updated August 19, 2022
 - [How to access and test](#how-to-access-and-test)
 - [Backend](#backend)
 - [Frontend](#frontend)
-- [Design](#Design)
+- [Design and UX](#design-and-ux)
 
 
 
@@ -90,10 +90,8 @@ Notification settings come from [VA Profile](https://depo-platform-documentation
 
 - [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/display-notes.md)
 
-## Design
-
-### Latest mockups
-
+## Design and UX
+- [High level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
 - [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 
 ### Before
