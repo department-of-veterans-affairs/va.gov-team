@@ -93,6 +93,7 @@ If your facility or organization sends emails to Veteran subscribers, below are 
 ### Other content
 
 Note: Newest content is listed first
+- [9/11 survivor 900,000th Veteran in Million Veteran Program](https://news.va.gov/107763/9-11-survivor-900000th-million-veteran-program/)
 - [Genes involved in heart disease are similar across all populations, VA study finds](https://www.research.va.gov/currents/0822-Genes-involved-in-heart-disease-are-similar-across-all-populations-VA-study-finds.cfm)
 - [Standing Ready | Genomics & the Million Veterans Project](https://share.transistor.fm/s/aad3fe33)
 - [Borne the Battle #280: Benefits Breakdown – Million Veteran Program - VAntage Point](https://blogs.va.gov/VAntage/104361/borne-the-battle-280-benefits-breakdown-million-veteran-program/)
