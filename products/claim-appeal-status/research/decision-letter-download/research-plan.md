@@ -2,7 +2,7 @@
 
 Skyler Schain · Designer/Researcher
 
-August 2022
+August/September 2022
 
 ## Background
 Multiple research study findings suggest that the ability to download decision letters is a feature many veterans would like included in the Claim Status Tool. Currently, veterans need to wait for their decision letters to arrive via physical mail and, if they lose them, need to request one by reaching out to a call center representative or through other online channels with transaction costs that diminish their experience.
