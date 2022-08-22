@@ -1,4 +1,4 @@
-# Conversation Guide - Veteran caller to Tier 1 
+# Conversation Guide - VA.gov caller to Tier 1 
 
 ## EDITS TO FOLLOW
 
@@ -51,22 +51,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Main Questions 30 -40 minutes
 
-· For your primary VA needs, what steps do you take to reach a VA offical and/or call center?
+· When did you last encounter a problem on VA.gov, what steps do you take to contact the VA call center about your issue?  
+
+· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? 
+  Can you recreate the issue that you had on VA.gov? 
+  
+· Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)?
+
+· As of this interview, what is the current status of your this issue being handled by the T1 Call Center (In-progress, Rerouted or Resolved?)
 
 · What have been blockers/ difficulties in getting services through your VA call center?
-
-· Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)?
 
 · When recieving a resolution for your case, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
 
 · Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry?
 
 · Did you understand the timeframe in which you recieved an overall resolution to your inquiry?
-
-For Tier 1 Call Center Teams · How many calls do you go through in the following time periods (day, week, mo
-### Things to watch for:
-
-- TBD
 
 
 ## Post-Task Interview - 15 minutes
