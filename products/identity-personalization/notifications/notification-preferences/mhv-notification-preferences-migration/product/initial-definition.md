@@ -10,8 +10,8 @@ Is there anything missing from either list?
 
 - [RX refill shipment notification (from CMOP)](#rx-refill-shipment-notification-from-cmop)
 - [VA Appointment reminders](#va-appointment-reminders)
-- [Medical images and reports available](#medical-images-and-reports-available)
 - [Securing messaging alert](#securing-messaging-alert)
+- [Medical images and reports available](#medical-images-and-reports-available)
 - [Biweekly MHV newsletter](#biweekly-mhv-newsletter)
 
 #### New notifications
@@ -32,7 +32,7 @@ Is there anything missing from either list?
 - **Already has a corresponding text notification supported on VA.gov?**: Yes -- there are text notifications being piloted at select VAMCs
 - **What backend triggers this notification?**: CMOP -- any others?
 - **What backend stores this preference?**:
-- **Additional notes**:
+- **Additional notes**: This is triggered by the MHV nightly pull of new CMOP shipment data.
 
 
 ### VA Appointment reminders
@@ -44,19 +44,7 @@ Is there anything missing from either list?
 - **Already has a corresponding text notification supported on VA.gov?**: Yes
 - **What backend triggers this notification?**:
 - **What backend stores this preference?**:
-- **Additional notes**:
-
-
-### Medical images and reports available
-
-- **Existing notification through MHV?**: Yes
-  - **If no, when will this be ready for support by MHV**: N/A
-- **Format**: Email
-- **Needs VANotify support?**: [Yes/No]
-- **Already has a corresponding text notification supported on VA.gov?**: No
-- **What backend triggers this notification?**:
-- **What backend stores this preference?**:
-- **Additional notes**:
+- **Additional notes**: Reminder sent 7 days prior to a scheduled appointment and 3 days prior to a scheduled appointment.
 
 
 ### Securing messaging alert
@@ -68,7 +56,19 @@ Is there anything missing from either list?
 - **Already has a corresponding text notification supported on VA.gov?**: No
 - **What backend will trigger this notification?**:
 - **What backend stores this preference?**:
-- **Additional notes**: 
+- **Additional notes**: This is triggered by a new secure message in user’s secure messaging inbox.
+
+
+### Medical images and reports available
+
+- **Existing notification through MHV?**: Yes
+  - **If no, when will this be ready for support by MHV**: N/A
+- **Format**: Email
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: No
+- **What backend triggers this notification?**:
+- **What backend stores this preference?**:
+- **Additional notes**: Sent to notify someone that a Medical Image and Report download is complete.
 
 
 ### Biweekly MHV newsletter
