@@ -127,7 +127,7 @@ Recruit 16 Veterans for a minimum of 10 successfully completed sessions (of the 
       * <img src="https://user-images.githubusercontent.com/79866060/181546254-135661e0-7546-4060-bb13-a1426490f887.png" alt="VA mobile app icon" style="width:100px;"/>  
   * If the participant can describe what the app looks like on their phone screen (even if they don’t know the full name), that should provide enough information to validate if they have the app and schedule the participant for a research session.
 * All participants must have an iOS mobile phone (not an iPad) with the Safari browser installed OR an Android mobile phone (not a tablet) & be willing to use it for the session.
-* All participants must have the Zoom mobile app installed on their phone. They can download the iOS or Andorid apps on the [Zoom website](https://zoom.us/download).
+* All participants must have the Zoom mobile app installed on their phone. They can download the iOS or Android apps on the [Zoom website](https://zoom.us/download).
 * All participants must be willing to do an activity from their mobile phone that requires navigating a low-fidelity web prototype and sharing their screen via the Zoom app.
 * No assistive technology users (low-fi prototype does not support assistive technology).
 
