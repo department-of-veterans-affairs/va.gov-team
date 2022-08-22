@@ -94,9 +94,3 @@ Notification settings come from [VA Profile](https://depo-platform-documentation
 - [High level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
 - [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 
-### Before
-This is a new feature, no **before** state.
-
-### MVP launch: November 2021
-<img width="628" alt="Screen Shot 2021-10-20 at 4 42 52 PM" src="https://user-images.githubusercontent.com/45603961/140571171-100fa36f-119e-4e53-83ee-116540ec3b08.png">
-
