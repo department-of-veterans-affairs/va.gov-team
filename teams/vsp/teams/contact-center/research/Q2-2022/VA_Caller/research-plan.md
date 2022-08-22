@@ -39,26 +39,29 @@ How will this research advance your product to the next phase in the design proc
   · This research will advance our user journey documentation for veterans callers using Tier 1 and 2 call centers. *Provide potential recommendations for improvements to the support user journey as it relates to resolving VA.gov issues and blockers.*
 
 ### Research questions 
+
+Why do veterans use the call cente and what causes veterans frustrations when calling into a call center and? How does this affect service from Tier 2 and Tier 3 teams? 
+
 1. For VA.gov users what are the most prominent pain points in their user journey from not finding their answer on Va.gov to calling the Tier 1 call centers? 
 2. Are the currect expectations for VA.gov users to have their issues resolved or reviewed set correctly by the Tier 1 Call center agent? 
 
-· When did you last encounter a problem on VA.gov, what steps do you take to contact the VA call center about your issue?  
+· When did you last encounter a problem on VA.gov, and what steps do you take to contact the VA call center about your issue?
 
-· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? 
-  Can you recreate the issue that you had on VA.gov? 
-  
+· How long did you expect for your most recent issue or question to be resolved, when you made your first call about it? How many calls with the Call Center has taken place for this issue?
+
+· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? Can you recreate the issue that you had on VA.gov?
+
+· Did you understand the timeframe in which you recieved an overall resolution to your issue?
+
 · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)?
 
 · As of this interview, what is the current status of your this issue being handled by the T1 Call Center (In-progress, Rerouted or Resolved?)
 
 · What have been blockers/ difficulties in getting services through your VA call center?
 
-· When recieving a resolution for your most recent issue descrbied, did you feel that you had the answer/resources provided? Yes or No? Please explain.
+· When recieving a resolution for your issue, did you feel you ended up with a satisfactory answer? Yes, No? Please explain
 
 · Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
-
-· Did you understand the timeframe in which you recieved an overall resolution to your issue?
-
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
