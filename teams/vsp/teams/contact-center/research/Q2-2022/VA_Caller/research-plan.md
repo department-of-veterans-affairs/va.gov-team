@@ -39,13 +39,12 @@ How will this research advance your product to the next phase in the design proc
   · This research will advance our user journey documentation for veterans callers using Tier 1 and 2 call centers. *Provide potential recommendations for improvements to the support user journey as it relates to resolving VA.gov issues and blockers.*
 
 ### Research questions 
-Consider bucketing research questions under research goals. For each question, think about: 
-- *I think these questions might be a bit too broad but overall are in the right direction.*
+1. For VA.gov users what are the most prominent pain points in their user journey from not finding their answer on Va.gov to calling the Tier 1 call centers? 
+2. Are the currect expectations for VA.gov users to have their issues resolved or reviewed set correctly by the Tier 1 Call center agent? 
 
-For Veterans  
- · When you encounter an problem on VA.gov, what steps do you take to contact the VA about your issue 
- · What have been blockers/ difficulties in getting services through your VA call center? 
+ · When did you last encounter a problem on VA.gov, what steps do you take to contact the VA about your issue? 
  · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)? 
+ · What have been blockers and difficulties in getting services through your VA call center? 
  · When recieving a resolution for your case, did you feel that you had the answer/resources for your inquiry? Yes, No? Please explain
  · Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry? 
  · Did you understand the timeframe in which you recieved an overall resolution to your inquiry? 
@@ -53,14 +52,14 @@ For Veterans
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-  · 
+  · Our hypothesis is that Va.gov user that cannot complete an initial inquiry on VA.gov will often find their way to directly calling the Tier 1 Call center in hope of finding a specific resolution. We want to understand the decisions from why they are opting to call in first- than rather use VA tools such as askVA.gov. We also believe that expectations of timeframe of when their issues (cases) being resolved are not correctly communiticated- thus leading to more frustration. 
 
 
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
 - User interviews- appropriate for evaluative research
-We will conduct remote moderated directed interviews via Zoom with Veterans that have used Tier 1 and 2 call center services and VA teams. 
+We will conduct remote moderated directed interviews via Zoom with VA.gov users (Veterans) that have used Tier 1 and 2 call center services and VA teams. 
 
 ### Research materials 
   · [Conversation Guide 1 - Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/research/Q2-2022/VA_Caller/convoguide-tier1.md)
@@ -78,6 +77,7 @@ Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs
 
  - Va.gov that had used Tier 1 call center services 
    - Recruitment plan will go through Peringan 
+   
 
 
 **Primary criteria (must-haves)**
