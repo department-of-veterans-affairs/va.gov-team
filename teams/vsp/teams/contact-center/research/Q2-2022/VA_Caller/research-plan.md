@@ -1,4 +1,4 @@
-# Research Plan for Veteran Caller User Journey, June 2022
+# Research Plan for Veteran Caller User Journey, September 2022
 
 
 ## Background
