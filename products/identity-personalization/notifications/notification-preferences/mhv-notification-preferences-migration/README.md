@@ -37,6 +37,8 @@ Last updated: August 22, 2022
 
 ## Overview
 
+While most of the MyHealtheVet migration into VA.gov will take place in the health care "apartment", universal information, like the MyHealtheVet profile and settings, will move into the VA.gov profile. After completing [an audit of the MyHealtheVet profile and personal information sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/mhv-profile-research/recommendations.md), we learned that most of the information that exists in the MHV profile already exists in the VA.gov profile. However, MHV notification preferences are not yet supported by VA.gov, and are an essential piece of functionality that needs to move in to VA.gov. This engagement covers definition, collaboration with MHV, VA Profile, and VA Notify, and the build in VA.gov that will support the MHV notification preferences.
+
 ## Problem Statement
 
 ## User outcomes
@@ -63,7 +65,10 @@ TBD
 
 ### Key dates
 
-- August 2022: We began MHV <> VA.gov biweekly meetings to scope out definition for notification preference migration in preparation for a VA Profile intake form.
+- February 2022: Begin MHV profile audit
+- April 2022: Complete MHV profile audit findings report
+- June 2022: Share audit findings with MHV team
+- August 2022: Began MHV <> VA.gov biweekly meetings to scope out definition for notification preference migration in preparation for a VA Profile intake form
 
 ## Backend
 
