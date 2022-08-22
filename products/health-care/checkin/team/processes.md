@@ -116,12 +116,25 @@
         - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
         - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
 
+## Abstract
+- UX will
+    - Add a link to the Master Abstract collection to the product [readme file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/README.md)
+    - Merge Abstract collections to the Master Abstract collection when the feature is released to production (not before)
+    - Grant access to the Master Abstract collection to all with a link
+    - Only grant access to other collections when the wireframes are finalized and development is ready to begin (not before)
+    - Notify Training, Contact Center, & Comms of changes to the Abstract Master collection (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
+
 
 ## Notifications of Releases & Updates to Planned Releases
-- Notification of updates to Planned Releases
-    - Modernized Check-in team has updated their Planned Releases. (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
-- Notification of production releases
-    - Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here. (include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md))
+- Notification message for updates to the Abstract Master collection
+    - "Modernized Check-in team has updated the Master Abstract collection."
+        - Include a link to the Abstract Master collection 
+- Notification message for updates to Planned Releases
+    - "Modernized Check-in team has updated their Planned Releases." (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
+- Notification message for production releases
+    - "Modernized Check-in team released to production on <mm/dd/yyyy>. Release notes can be found here."
+        - Include link to [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
+        - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email
     -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
     -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
