@@ -51,10 +51,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Main Questions 30 -40 minutes
 
-· When did you last encounter a problem on VA.gov, what steps do you take to contact the VA call center about your issue?  
+· When did you last encounter a problem on VA.gov, and what steps do you take to contact the VA call center about your issue?  
 
-· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? 
-  Can you recreate the issue that you had on VA.gov? 
+· How many calls has taken place for this issue?  
+
+· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? Can you recreate the issue that you had on VA.gov? 
   
 · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)?
 
