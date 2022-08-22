@@ -1,9 +1,50 @@
 # SPRINT GOALS
 
+## 8/24/2022 
+
+#### Planned Releases (TENTATIVE)
+- 8/31 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
+ 
+ #### Discovery Sprint Goals (TENTATIVE)
+- [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
+    - Synthesize results & create report
+- [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
+    - Test prototypes with end users
+    - Begin synthesis & report
+- [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
+    - ????
+- [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
+    - ?????
+
+#### Design & Content Sprint Goals (TENTATIVE) 
+- [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927)
+- [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489)
+
+#### Engineering Sprint Goals (TENTATIVE)
+- [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
+    - Test & release on 8/31
+- [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
+    - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint
+- [Travel Reimbursement](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
+   - Figure out how to access the BTSSS API & get access
+- [CIE Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42190)
+    - Add GA events to language toggle
+    - Break out metrics by modality
+    - Make list of all GA events we have
+    - Measure Repeat Customers
+    - Look at higher bounce rates for screen resolutions 
+    - Determine % of patient appointments that are within a half hour of one another
+- [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
+    - Look at logic in MAS
+- [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
+    - Continue spiking
+- Bugs & Tech Debt 
+   - As many as can fit in the Sprint
+
 ## 8/10/2022 
 
 #### Planned Releases 
-- 8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
+- ~8/23 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)~
  
 #### Discovery Sprint Goals 
 - [July Research]()
@@ -28,7 +69,7 @@
 #### Engineering Sprint Goals 
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Implement new [feature toggle handler](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45491) 
-    - Test & release on 8/23
+    - ~Test & release on 8/23~
 - [BUG] [Update accordion content when Veteran starts pre check in for phone appt after 15 mins past appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45492)
     - Fix & release as completed
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
