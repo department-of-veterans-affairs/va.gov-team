@@ -9,7 +9,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account
 #### User has contact info on file for existing notification channels
-- User has notifications for which they have not selected a preference
+- User has one or more notifications for which they have not selected a preference
 - User has selected a preference for all notifications
 
 #### User has partial or missing contact information
