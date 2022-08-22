@@ -75,15 +75,18 @@ We are seeking to perform this test with 10 participants total max
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
- - Va.gov that had used Tier 1 call center services 
-   - Recruitment plan will go through Peringan 
-   
+ - Va.gov users that had used Tier 1 call center services 
+   - Recruitment plan will go through Perigean
 
 
 **Primary criteria (must-haves)**
 Must have for participants
-  ·  See above
-  
+  ·  At least, 2-3 Rural location based 
+  ·  At least, 2-3 women, non-Caucasian 
+  ·  At least, 1-2 non-binary, non-cisgender
+  ·  At least, 3-4 mobile users of VA.gov 
+
+   
 
 ## Timeline
 Desired Timeline: May 25- June 9, 2022 (40-minute session with 10 inute buffer)
@@ -92,12 +95,12 @@ Desired Timeline: May 25- June 9, 2022 (40-minute session with 10 inute buffer)
 When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD 
-* Date and time of pilot session: TBD 
+* Pilot participant email: Steven Tarlow starlow@thesocompany.com
+* Date and time of pilot session: August 26th, 2022
 
 ### Research sessions
 What dates do you plan to do research? 
-Aug 30 to Sep 6yj
+Aug 30 to Sep 7th, 2022
 
 ### Length of sessions
 How long do you estimate each session will be? 
