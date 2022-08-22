@@ -4,7 +4,7 @@ Lorem
 
 ## Product information
 
-- Product outline
+- [Original Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Product/Onboarding/Product%20Kickoff%20document%20from%20VA-PO%204.18.22.pdf)
 - GitHub Label: health-apartmetn/health hub
 
 ## Product research
