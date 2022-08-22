@@ -131,9 +131,9 @@ Documentation for API that indexes data sourced from VA.gov, Lighthouse
 # Troubleshooting
 
 ## Reports of broken PDF links
-Broken PDF links can occur when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).
+Broken PDF links can occur when vets-api is experiencing high latency, or when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).
 
-**To confirm:**
+**To confirm altered data in Forms DB:**
 1. Check the [Flagged Content Dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) in Drupal CMS, to see if the form was updated.![Screen Shot 2022-08-10 at 6 08 25 PM](https://user-images.githubusercontent.com/85581471/184048356-4fe92e9a-9582-4c92-a6ef-29c23fc3a5b0.png)
 
 2. Click the form name and on Form node, in right sidebar, under Recent Changes, see a description of any change. 
@@ -148,7 +148,9 @@ VA forms manager may report users are emailing to report trouble accessing forms
 - Ask them to forward an example link or Form. Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search on vba.va.gov.  
 - **If internal:** (on vba.va.gov) contact Kevin Reid <Kevin.Reid@va.gov>
 - **If not:** It's possible that vets-api latency may cause delays / failures to download forms. 
-  - Check Sentry for more information: http://sentry.vfs.va.gov/organizations/vsp/issues/17064/events/?project=4
+  - Check Sentry for more information: 
+    - e.g. for a single form: http://sentry.vfs.va.gov/organizations/vsp/issues/17064/events/?project=4
+    - e.g. for large-scale latency event: http://sentry.vfs.va.gov/organizations/vsp/discover/results/?cursor=0%3A400%3A0&display=default&field=title&field=event.type&field=project&field=user.display&field=timestamp&name=All+Events&query=Find+Forms&sort=-timestamp&statsPeriod=7d&widths=-1&widths=-1&widths=-1&widths=-1&widths=-1
   - And/or visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
 
 ## Time lag between VA Form changes & when updated on Find a VA Form
