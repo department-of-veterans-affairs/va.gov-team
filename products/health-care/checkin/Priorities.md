@@ -14,7 +14,6 @@
 ### RESEARCH
 | **<u>Epic/Feature</u>** | **<u>Status</u>** | **<u>To Refine</u>** | **<u>Refined</u>** | **<u>In Prog.</u>** | **<u>Done</u>** | **<u>Notes</u>**|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------- | ----------------------------------------- | ------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------ |
-| [July Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38256) | In Progress | |  | 1 | 6 | |
 | [August Research Study (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)| In Progress ||3|1|4||
 ***
 ### DEVELOPMENT
@@ -28,8 +27,8 @@
 | [Travel Reimbursement -MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)| Discovery  |2|5|3|10||
 | [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)| Blocked  |3|2|1|1|VAOS is in the middle of deciding what this info will look like, will be another month or so before they know|
 | [Make Veterans Aware of Changes to Pre-Check-in & Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45749)| |||||Slack [thread](https://dsva.slack.com/archives/C02GXKL8WM6/p1660227396884689)|
-| [Translations - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)| Prepping||4|1|||
-| [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)|Discovery|1||1|1| Communicated to CHIP to get this on their roadmap; we should take the lead on doing this work in the CHIP API |
+| [Translations - Round 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43505)| Prepping||4|1|| Waiting on Spanish R2 and Tagalog R1 are complete |
+| [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)|Blocked|1||1|1| Blocked until we can get access to MAS; Communicated to CHIP to get this on their roadmap; we should take the lead on doing this work in the CHIP API |
 | [Stepped Form Design for Check-in and Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44181)|Discovery|7|0|1|||
 | [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44694)|Eng Discovery|||1|||
 | [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)|Eng Discovery||1|||Slated to be launched 1/2023; VAOS BE service now available; EAS will integrate with CERNER as well; Mostly likely needs to go through CHIP API; CHIP team needs to participate|
