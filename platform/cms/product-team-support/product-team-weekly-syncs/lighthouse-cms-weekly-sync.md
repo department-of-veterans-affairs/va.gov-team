@@ -18,16 +18,39 @@
 
 * v1 timeline check
    * End of August. (maybe early Sept)
+   * Lookingn closer to early Sept - internal investigation - looking at maybe a sprint delay 
    * Coordinate when/how to _flip the switch_
+   * Only one endpoint, once LH gives thumbs up, swap out logic to execute "Push everything but MH (Caregiver)"
+   * Let's say Push everything but MH and Caregiver - on CMS side need revision 
+   * Is Faciliies ready - Dont push anything except Covid 19 -> Push everything but (MH + Caregiver)
+     * Are we ready to execute when LH gives the thumbs up 
+     * #8019 - PR is out there right now  - Jay would estimate a 3 - Jay is comfortable for a 1 day turnaroudn
+     * Get to this next sprint  - update PR for sprint 66
 * Mental Health 
-  * Crosswalk ATC data and Facilities data
-  * Multiple phone numbers 
-* Drupal views, including Facility ID
+  * Crosswalk ATC data and Facilities data - PR expected end ef day
+  * Multiple phone numbers - target Sprint 66 
+  * Not burning - we have an existing solution in place.  smoke, no fire - may not be as high a priority as 
+* Drupal views, including Facility ID - EOD today 8/22
 * VAST - add support for custom hours within CMS
+  * Take hours from VAST operational_hours_special_instructions 
+  * Define Custeom Hours - CMS has the capacity to capture commnet field per day, but how does that get back to LH?
+  * LH could support any number of strings - can remap - right now it's  a list    
+  * CMS could send LH a flag?
+  * One optoin would be Tuesday 9-5:30 - every other tuesday 
+  * At one point does CMS get migration from VAST, then send it to Facilites - should the flow be soem stuff gets routed through CMS first before sending to LH? 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+  * Bringing up to JHL, response to email? Is thet  CARMA data Veteran facing or administrative
+  * A lot of those are lower clinics that roll up to lareger facility 
+  * We should be getting data about where Veterans can go 
+  * Primaliry this list has been used to give to caregivers - they use teht LH API to point to the facilities that support services - 
+  * For the CARMA team purposes, this list is correct
+  * Does it matter if a lower facility is on the list, as long as it's staffed? We're all trying to solve the same problem  - connect veteran to care at closest point to them  - we need to find out what that data is.. if it's not granual ar teh CARMA level, then there's an addtional hop for someon to solve.  Somehting we could consider - notifcations?  We get info from LH to flag to a facility, theis is wehre your caregvie faciilty is, this is the only palce it canbe unluess you talk to CARMA team - Where does the responsiblity for validating occur? Facilites team vs the CARMA - what is the mechanism for reconsiliation
+  * Dave C prefers Jenny take the lead  - poke at trying to resolve
+  * Dave C will assure JHL has email 
 We didn't get to last week:
 * Sync CMS data to sandbox
    * Internal meeting ..results? 
-* CARMA meeting coming up.  Caregiver support list of facilities.  
+
 
 
 ## Monday, August 15, 2022
