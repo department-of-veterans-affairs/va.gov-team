@@ -100,10 +100,10 @@ Must have for participants
    
 
 ## Timeline
-Desired Timeline: May 25- June 9, 2022 (40-minute session with 10 inute buffer)
+Desired Timeline: August 30 - September 8, 2022 
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+When will the thing you are testing be finalized? 
 
 Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Steven Tarlow starlow@thesocompany.com
