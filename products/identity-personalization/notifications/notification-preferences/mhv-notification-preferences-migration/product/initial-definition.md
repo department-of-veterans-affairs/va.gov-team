@@ -8,7 +8,7 @@ Is there anything missing from either list?
 
 #### Existing notifications
 
-- [RX refill shipment notification (from CMOP)]()
+- [RX refill shipment notification (from CMOP)](#notification-rx-refill-shipment-notification-from-cmop)
 - [VA Appointment reminders]()
 - [Medical images and reports available]()
 - [Securing messaging alert]()
