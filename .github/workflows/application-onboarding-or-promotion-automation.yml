@@ -60,14 +60,14 @@ jobs:
       - name: Check if application already exists
         id: application_check
         run: |
-          application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ inputs.application_name }}")' || true)
+          export application_exists=$(cat vsp-infra-argocd/chart/values.yaml | yq -o=json | jq -e '.projects|any(.name == "${{ inputs.application_name }}")' || true)
           if [ -z "$application_exists" ]; then export application_exists=false; fi
           echo "::set-output name=application_exists::$(echo ${application_exists})"
 
       - name: Check if application environment exists
         id: environment_check
         run: |
-          environment_exists=$(yq '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ inputs.application_environment }}"])' vsp-infra-argocd/chart/values.yaml || true)
+          export environment_exists=$(yq '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ inputs.application_environment }}"])' vsp-infra-argocd/chart/values.yaml || true)
           if [ -z "$environment_exists" ]; then export environment_exists=false; fi
           echo "::set-output  name=environment_exists::$(environment_exists)"
 
