@@ -1,7 +1,7 @@
-# VBA Facility Sites Product Outline 
+# VBA Regional Offices Product Outline 
 
 ## Overview 
-VBA Regional Office sites will be modernized, following the modernization of VAMC sites and Vet Center sites. Modernized VBA sites will leverage existing CMS design patterns, improve accessibilty, provide an efficient moblie experience, and give Veterans seeking access to their benefits more consistent, accurate, and timely information.
+VBA Regional Office sites will be modernized, similarly to the modernization of VAMC sites and Vet Center sites. Modernized VBA sites will leverage existing CMS design patterns, improve accessibilty, provide an efficient moblie experience, and give Veterans seeking access to their benefits more consistent, accurate, and timely information.
 
 ## Problem Statement
 The legacy VBA RO sites are authored in Teamsite, have a dense and unweidly presentation, are not mobile optimized, are prone to accessibilty issues, and do not have a rigorous content model. 
@@ -11,22 +11,28 @@ How might we leverage what we've learned from VAMC and Vet Center modernization,
 * Veterans, their family members, and their caretakeers visiting RO sites can easily find accurate and timely information they need to plan for a visit and to access their benefits.
 * Site visitors with accessiblity issues can navigate the site and find the answers they need.
 * Site visitors on mobile devices users can accomplish the majority, if not all, of the tasks available on the desktop experience. 
-* Site visitors have access to a consitent experience. Visiting one RO site informs visiting any other site, vistors know where to find the information they're looking for and do not have to learn new patterns.
+* Site visitors have access to a consitent experience. Visiting one RO site informs visiting any other RO site, vistors know where to find the information they're looking for and do not have to learn new patterns.
 
 ## Undesired User Outcomes
 * Visitors become frustrated 
-* Site information is inaccurate or out of data 
-* 
-
+* Site information is inaccurate or out of data
+* Site visitors can not find the information they need to plan a visit
+* Site visitors can not easiliy find a facility that offers the benefit they are looking for near them
+* Visitors travel farther than needed because they were not easily able to determine a facility near them offered the benefit they wanted  
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-- 
+- Reduced 508 issues 
+- Decreased cases for the call center 
+- CSAT consistent with or better than other pages in the modernized experience
+- Well-defined services and consistent COPE text for VBA services 
 
 ## Undesired Business Outcomes
+- Increased 508 issues
+- Increased call center cases 
+- CSAT lower than the average of other pages in the modernized experience
   
+## Description
+
 This is the new VA.gov facility product for VA's Facilities that offer Benefits Services
 
 - VBA runs 58 Regional Offices, with hundreds of child facilities (i.e., intake sites, VocRehab sites, Vet Success on Campus sites, and others?)
