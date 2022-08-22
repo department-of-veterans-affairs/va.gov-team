@@ -2,6 +2,26 @@
 
 This document will help us define which notification preferences we will include in our initial intakes to VA Profile and VANotify.
 
+## Overview
+
+Is there anything missing from either list?
+
+#### Existing notifications
+
+- RX refill shipment notification (from CMOP)
+- VA Appointment reminders
+- Medical images and reports available
+- MHV newsletter
+
+#### New notifications
+
+- RX refill shipment notification from a local pharmacy
+- Securing messaging alert
+- Send health summary to your non-VA care provider or to some other email address
+
+
+## Existing notifications 
+
 ### Notification: RX refill shipment notification (from CMOP)
 
 - **Existing notification through MHV?**: Yes
@@ -12,18 +32,6 @@ This document will help us define which notification preferences we will include
 - **What backend triggers this notification?**: CMOP -- any others?
 - **What backend stores this preference?**:
 - **Additional notes**:
-
-
-### Notification: RX refill shipment notification from a local pharmacy
-
-- **Existing notification through MHV?**: No
-  - **If no, when will this be ready for support by MHV**: [Month and year]
-- **Format**: [Email/Text]
-- **Needs VANotify support?**: [Yes/No]
-- **Already has a corresponding text notification supported on VA.gov?**: No -- existing notification covers shipments from VA
-- **What backend will trigger this notification?**: 
-- **What backend stores this preference?**: N/A -- not an existing preference
-- **Additional notes**
 
 
 ### Notification: VA Appointment reminders
@@ -62,7 +70,21 @@ This document will help us define which notification preferences we will include
 - **Additional notes**: Which system supports this now (eg. GovDelivery)? Is it safe to assume that system will continue to support this email (note: this should not affect our ability to support the preference)?
 
 
-### Notification: [Name]
+## New notifications
+
+### Notification: RX refill shipment notification from a local pharmacy
+
+- **Existing notification through MHV?**: No
+  - **If no, when will this be ready for support by MHV**: [Month and year]
+- **Format**: [Email/Text]
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: No -- existing notification covers shipments from VA
+- **What backend will trigger this notification?**: 
+- **What backend stores this preference?**: N/A -- not an existing preference
+- **Additional notes**
+
+
+### Notification: Securing messaging alert
 
 - **Existing notification through MHV?**: [Yes/No]
   - **If no, when will this be ready for support by MHV**: [Month and year]
@@ -74,6 +96,17 @@ This document will help us define which notification preferences we will include
 - **Additional notes**:
 
 
+### Notification: Send health summary to your non-VA care provider or to some other email address
+
+- **Existing notification through MHV?**: [Yes/No]
+  - **If no, when will this be ready for support by MHV**: [Month and year]
+- **Format**: [Email/Text]
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
+- **What backend will trigger this notification?**:
+- **What backend stores this preference?**:
+- **Additional notes**:
+
 ### Notification: [Name]
 
 - **Existing notification through MHV?**: [Yes/No]
@@ -84,3 +117,26 @@ This document will help us define which notification preferences we will include
 - **What backend will trigger this notification?**:
 - **What backend stores this preference?**:
 - **Additional notes**:
+
+### Notification: [Name]
+
+- **Existing notification through MHV?**: [Yes/No]
+  - **If no, when will this be ready for support by MHV**: [Month and year]
+- **Format**: [Email/Text]
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
+- **What backend will trigger this notification?**:
+- **What backend stores this preference?**:
+- **Additional notes**:
+
+### Notification: [Name]
+
+- **Existing notification through MHV?**: [Yes/No]
+  - **If no, when will this be ready for support by MHV**: [Month and year]
+- **Format**: [Email/Text]
+- **Needs VANotify support?**: [Yes/No]
+- **Already has a corresponding text notification supported on VA.gov?**: [Yes/No]
+- **What backend will trigger this notification?**:
+- **What backend stores this preference?**:
+- **Additional notes**:
+
