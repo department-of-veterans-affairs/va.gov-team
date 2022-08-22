@@ -85,12 +85,14 @@ jobs:
         run: |
           cd vsp-infra-argocd/chart
           yq -i '.projects += [{"name": "${{ inputs.application_name }}", "environments":[]}]' values.yaml
+          git add -A
 
       - name: If environment does not exist
         if: steps.environment_check.outputs.environment_exists == 'false'
         run: |
           cd vsp-infra-argocd/chart
           yq -i '(.projects[] | select(.name == "${{ inputs.application_name }}")).environments += ["${{ inputs.application_environment }}"]' values.yaml
+          git add -A
           
       - name: Create pull request
         if: steps.exists.outputs.application_exists == 'false'
