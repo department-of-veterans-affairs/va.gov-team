@@ -52,7 +52,8 @@ How will this research advance your product to the next phase in the design proc
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-  · Our hypothesis is that Va.gov user that cannot complete an initial inquiry on VA.gov will often find their way to directly calling the Tier 1 Call center in hope of finding a specific resolution. We want to understand the decisions from why they are opting to call in first- than rather use VA tools such as askVA.gov. We also believe that expectations of timeframe of when their issues (cases) being resolved are not correctly communiticated- thus leading to more frustration. 
+
+· Our hypothesis is that Va.gov user that cannot complete an initial inquiry on VA.gov will often find their way to directly calling the Tier 1 Call center in hope of finding a specific resolution. We want to understand the decisions from why they are opting to call in first- than rather use VA tools such as askVA.gov. We also believe that expectations of timeframe of when their issues (cases) being resolved are not correctly communiticated- thus leading to more frustration. 
 
 
 ## Method	
