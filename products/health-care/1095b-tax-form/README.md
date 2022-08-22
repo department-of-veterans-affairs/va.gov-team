@@ -14,7 +14,7 @@ In most cases, it is simply a form for one's records. However, some states still
 
 ## Product research
 
-- Research plan and conversation guide #1 and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round%201%20Research%20Findings%20Report.md)
+- Research plan and [conversation guide #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/conversation-guide.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/round%201%20Research%20Findings%20Report.md)
 - Research plan and conversation guide #2 and synthesis
 
 ## Call center documents
