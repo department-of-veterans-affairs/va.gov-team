@@ -17,8 +17,10 @@ This research supports the following:
 ### Veteran Journey
 This research sits within these stages of the Veteran Journey:
 
-  ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging 
-  - *what is this referencing?*
+  ·  Phase 1, Life Stage: Getting Out through Reinventing myself
+  - GI Bill, Finding resources for higher education, working with SCOs 
+
+
 
 
 ## Research Goals	
@@ -48,19 +50,6 @@ For Veterans
  · Please describe your overall experience when communicating with a VA call center in the beginning of your inquiry? 
  · Did you understand the timeframe in which you recieved an overall resolution to your inquiry? 
 
-
-For Tier 1 Call Center Teams
- · How many calls do you go through in the following time periods (day, week, month)?
- 
- · When in communication with the Veteran, how do you determine if their issue can resolved within the first 10 minutes? 
- 
- · When in communication with the Veteran, what are obstacles for you when trying to record their issue? (Can you please walk me through examples without any PII?)
- 
- · When in communication with the Veteran, do you not technical challenges (remote access, low-tech capabilities, phone only etc) the Veteran may face during their service time? Please explain 
- 
- · When in communication with the Veteran, how do you close their case or reroute to Tier 2? 
- 
- · When in communication with the Veteran, what are overall blockers for you in trying to determine a resolution?  
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
