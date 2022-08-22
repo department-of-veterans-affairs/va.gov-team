@@ -72,7 +72,7 @@ vaos-eligibility-direct-supported-failed | `{ flow: "direct", health-TypeOfCare:
 vaos-eligibility-request-exceeded-outstanding-requests-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; reached the limit for appointment requests at this location
 vaos-eligibility-request-past-visits-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; there has not been a recent visit
 vaos-eligibility-request-supported-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; Disabled in VATS for this location and type of care
-vaos-eligibility-supported-facilities-failed |
+vaos-eligibility-supported-facilities-failed | `{ health-TypeOfCare: "Mental health", health-FacilityID: "000XYZ"}` | eligibility failed; faciity failed support check
 vaos-error |
 vaos-get-future-appointments-failed | | If any of the upcoming appointments fetches fail: va or cc
 vaos-get-future-appointments-retrieved |
