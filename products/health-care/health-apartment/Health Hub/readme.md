@@ -10,6 +10,7 @@ Lorem
 
 ## Product research
 
+- [Comparative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20Comparative%20research%20vF.pdf)
 - Research plan, conversation guide and synthesis #1 - raw data file
 - Research plan, conversation guide and synthesis #2- raw data file
 
