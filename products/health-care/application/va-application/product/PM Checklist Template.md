@@ -98,6 +98,7 @@
      - [ ] Obtain signoff from downstream system team
 - [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Complete QA and Accessibility QA
+     - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness
 - [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] Review findings with the team
      - [ ] Create tickets for work to be completed before launch
