@@ -1,6 +1,7 @@
 # Testing with the Feature Toggle
 
 As a result of an issue found during the deployment of the Medicare Claim number field on an existing page, we have created this document to capture some testing points to employ as part of our routine testing process.
+We have added a step to our [PM Checklist Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/PM%20Checklist%20Template.md) to confirm Feature Toggle effectiveness
 
 ### Points of Note
 - The JSON schema doesn’t care if a field is not rendered on the UI side, it still expects the data to be present when it is deemed a "Required" field.
