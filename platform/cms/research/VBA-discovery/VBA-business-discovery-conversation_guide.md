@@ -32,6 +32,7 @@ Before we start, a few things I want to mention:
 
 ### Your role
 **All roles - 5 minutes**
+
 Before we dive into your facility’s operations, I’d like to learn about your work in general.
 * What’s your role at the VA? 
 * How long have you been in this role?
@@ -39,6 +40,7 @@ Before we dive into your facility’s operations, I’d like to learn about your
 * What’s your favorite part of your job?
  
 **Web editor role - 5 minutes**
+
 I’d like to focus a bit more now on the website.
 
 * Do you have responsibilities for the website, and if so, what are they? 
@@ -56,6 +58,7 @@ I’d like to focus a bit more now on the website.
 
 ### Facility operations
 **Facility staff role - 15 minutes**
+
 To help us get the product ready for you to use, I’d like to understand the services offered at your facility and how Veterans access them.
 
 *Screenshare the facility website to have a visual aid.*
@@ -70,6 +73,7 @@ To help us get the product ready for you to use, I’d like to understand the se
 * What do you see as Veteran's top pain points when accessing services? What is the most commonly heard complaint?
 
 **Web editor role - 5 minutes**
+
 * How do you understand the definition of each service offered? 
   * Where does that definition come from? 
 * Who is the authoritative owner of service information? 
