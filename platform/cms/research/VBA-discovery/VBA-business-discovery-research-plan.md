@@ -40,7 +40,7 @@ The results of this research will be used to develop recommendations for OCTO-DE
 * The training plan for the MVP and the full rollout
 * Future research for the VBA project
 
-## Hypothesis
+## Hypotheses
 1. The new Drupal CMS facilities product will address 508 compliance while the associated change management approach, training, and user support will create a positive experience for the MVP editors. 
 2. VBA editors will have similar needs to Vet Center editors who moved to Drupal CMS starting in 2021, based on the similar scope of facility content and knowledge of CMS tools for web publishing.
 
