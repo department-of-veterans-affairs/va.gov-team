@@ -23,7 +23,7 @@ GitHub Label: Health-apartment/health hub
     - Jeanette Cantrell (MOVE) | jeanette@themostudio.com
 - Lead designer: Thomas McCue | thomas@themostudio.com
 - UX Researcher: Deb Dennis | deb@blackrhinodesign.com
-- Business owner: Mikki Northius | mikki.northius@va.gov
+- Business owner: Mikki Northius | mikki.northius@va.gov 
 
 
 
