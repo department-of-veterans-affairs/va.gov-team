@@ -78,17 +78,18 @@ Participant must haves (primary criteria):
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+Timeline TBD, as we do not have a production launch date.
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: Tamera Corson tamera.corson@serveadvisory.com
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: TBD
 
 ### Length of sessions
 * Session length: < 30 minutes
@@ -97,16 +98,17 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability
 
-	
+TBD
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test: Tamera Corson tamera.corson@serveadvisory.com
-- Note-takers:	
-- Observers: Tracey Mulrooney Tracey.Mulrooney@va.gov, Tamera Corson tamera.corson@serveadvisory.com, Shashank Khandelwal shashank@bluetiger.digital
+- Moderator: TBD	
+- Research guide writing and task development (usually but not always same as moderator): Shashank Khandelwal (shashank@bluetiger.digital)
+- Participant recruiting & screening: TBD
+- Project point of contact: TBD
+- Participant(s) for pilot test: TBD
+- Note-takers:	TBD
+- Observers: TBD
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
