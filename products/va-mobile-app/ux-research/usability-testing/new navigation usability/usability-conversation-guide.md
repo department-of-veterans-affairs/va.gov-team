@@ -15,10 +15,11 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-### Prorejct Project-Specific Setup
-Participants should have the Zoom application downloaded on their phone
-* [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
-* [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+### Project-Specific Setup
+* Participants should have the Zoom application downloaded on their phone
+  * [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
+  * [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+* Figma Prototype ([Android](https://figma.fun/O2AJVI/view)) ([iOS](https://figma.fun/O2AJVI/))
 
 ### When the participant joins:
 Validate the participant uses the VA Health and Benefits app and get permission for observers to join.
