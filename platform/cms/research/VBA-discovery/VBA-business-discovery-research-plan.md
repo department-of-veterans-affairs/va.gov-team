@@ -65,7 +65,7 @@ The results of this research will be used to develop recommendations for OCTO-DE
 * Remote, via Zoom 
   
 ## Research materials
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/VBA-discovery/VBA-business-discovery-conversation_guide.md)) 
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/VBA-discovery/VBA-business-discovery-conversation_guide.md) 
 
 ## Recruitment
 The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-14 VBA staff for this research using the the following criteria:
