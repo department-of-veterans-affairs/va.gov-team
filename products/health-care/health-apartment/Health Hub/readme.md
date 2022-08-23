@@ -1,6 +1,6 @@
 # Health Hub
 
-Lorem
+Lorem....
 
 ## Product information
 
