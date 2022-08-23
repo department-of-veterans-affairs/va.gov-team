@@ -11,7 +11,7 @@
 ### Adding information
 - For each section, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information].
 - Clicking the edit button will put the section into edit mode and reveal the necessary fields.
-- Review Preferred name in [this mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) to see prompt to add missing information
+- [Desktop mock-up, add preferred name and gender identity](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlVxdm3) to see prompt to add missing information
 
 ### Editing information
 Clicking the edit button will put the section into edit mode and reveal the necessary fields.
