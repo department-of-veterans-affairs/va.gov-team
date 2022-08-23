@@ -58,7 +58,7 @@ I want you to pretend that you have an upcoming appointment with your VA primary
 - Is any information missing? 
 
 **Follow-up questions** 
-- Overall, what information, if anything, is missing for non-English speakers/LEP?
+- Overall, what information, if anything, is missing for non-English speakers or veterans with low English proficiency?
 - Overall, what, if anything, would you improve? 
 - On a scale from 1 (very unclear) to 10 (very clear), how would you rate the clarity of the Spanish content? Please explain.
 - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate the overall  Spanish language experience of pre-check-in and check-in? Please explain.
