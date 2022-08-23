@@ -39,29 +39,32 @@ This research plan maps to the following moment within the Veteran journey:
 
 
 ## Research Goals
-Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in and pre-check-in experiences. The list of all appointment data that we can now display includes:
-- clinic name
-- facility name
-- date
-- weekday
-- time with timezone
-- provider's name 
-- type of care 
-- location (floor and room numbers)
-- address
-- modality (in-person, telephone, etc)
-- instructions on how to attend video or telephone appointments
-- clinic phone number
-- facility phone number and TTY
-- reason for visit
-- facility directions (map link)
-- cancel status
+Check-in has expanded our access to more appointment data, which we can display to Veterans within the check-in and pre-check-in experiences. The list of all appointment data that we can display includes:
+- Recently added
+  - provider's name 
+  - type of care 
+  - location (floor and room numbers)
+  - modality (in-person, telephone, etc)
+- Added awhile ago
+  - clinic name
+  - facility name
+  - date
+  - time (timezone - recently added) 
+  - clinic phone number
+  - facility phone number and TTY
+- Could add
+  - weekday
+  - address
+  - instructions on how to attend video or telephone appointments
+  - reason for visit
+  - facility directions (map link)
+  - cancel status
 
 The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
 
-The mobile app and VAOS teams have completed similiar studies. Once our check-in appointment information card sort is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
+The mobile app and VAOS teams have completed similiar studies. Once our check-in appointment information survey is complete, we will compare all of the studies to determine where we can align with the other products and where we need to differ due to unique check-in needs. 
 
-Ultimately, we would like to determine what appointment data as well as the hierarchy of the data displayed within day of check-in and pre-check-in.
+Ultimately, we would like to determine what appointment data is important to Veterans and how they rank its important relative to each data point within day of check-in and pre-check-in.
 
 ### Research Questions
 
@@ -155,7 +158,7 @@ We estimate it will take participants 5 minutes to complete the survey.
 
 ## Timeline
 
-The card sort will open on ? and should remain open for two weeks (Date?) or until there are 30 completes representing the recruitment criteria  (whichever is sooner).
+The survey will open on ? and should remain open for two weeks (Date?) or until there are 30 completes representing the recruitment criteria  (whichever is sooner).
 
 
 ### Prepare
