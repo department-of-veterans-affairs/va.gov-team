@@ -1,4 +1,4 @@
-# On-site Notifications MVP: UAT Go/No-Go | mm.dd.2022 
+# On-site Notifications MVP: UAT Go/No-Go | 08.25.2022 
 
 ## Decision: __________
 
