@@ -1,5 +1,9 @@
 # Conversation Guide for VBA MVP Editor-facing (business) Discovery – August 2022
 
+This conversation guide includes separate questions for 2 VBA roles involved in the business, or editor-facing, research:
+* Facility staff (can be called Public Contact staff)
+* VBA staff who were previous web editors or new staff who will be editing content in Drupal CMS
+
 ## Moderator logistics
 Prep a sharing window with:
 * VBA facility’s home page
