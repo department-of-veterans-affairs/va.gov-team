@@ -72,7 +72,9 @@ jobs:
           echo "::set-output  name=environment_exists::$(environment_exists)"
 
       - name: If application and environment exist
-        if: steps.application_check.outputs.application_exists == 'true' && steps.environment.outputs.environment_exists == 'true'
+        if: |
+          steps.application_check.outputs.application_exists == 'true' &&
+          steps.environment.outputs.environment_exists == 'true'
         uses: KeisukeYamashita/create-comment@v1
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
@@ -95,7 +97,9 @@ jobs:
           git add -A
           
       - name: Create pull request
-        if: steps.application_exists.outputs.application_exists == 'false' || steps.environment_check.outputs.environment_exists == 'false'
+        if: |
+          steps.application_exists.outputs.application_exists == 'false' ||
+          steps.environment_check.outputs.environment_exists == 'false'
         id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
@@ -108,7 +112,7 @@ jobs:
           body: Automated PR triggered by issue ${{ github.event.issue.url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
           
       - name: Comment on pull request
-        if: ${{ steps.cpr.outputs.pull-request-number }}
+        if: steps.cpr.outputs.pull-request-number
         uses: KeisukeYamashita/create-comment@v1
         with:
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
