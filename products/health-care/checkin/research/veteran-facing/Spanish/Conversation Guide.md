@@ -63,6 +63,9 @@ I want you to pretend that you have an upcoming appointment with your VA primary
 - On a scale from 1 (very unclear) to 10 (very clear), how would you rate the clarity of the Spanish content? Please explain.
 - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate the overall  Spanish language experience of pre-check-in and check-in? Please explain.
 
+## Thank-You and Closing - 2 minutes
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it serves the needs of all Veterans and their family members and caregivers. Thanks! If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the email blurb that you’ll receive from our team.
+
 
 # PART 2: Language Toggle Design
 
