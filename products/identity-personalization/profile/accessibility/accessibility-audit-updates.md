@@ -9,8 +9,8 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 See [Profile screen reader walk-through](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/product/screen-reader-walkthrough.md) - **May 3, 2022**
 
 ### Sidebar nav position 
-- Currently below the H1 and creating confusion for screen reader users
--   **Next steps:** _Resolved?_
+- Currently below the H1 and creating confusion for screen reader users ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
+-   **Next steps:**  
 
 ### Hubless spoke
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
@@ -45,6 +45,9 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 ### TTY (Direct Deposit)
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
 -   **Next steps:** _Resolved?_
+
+### Phone # Accessibility Fix
+- The phone number is not that accessible. The screen reader reads out the number as a regular number rather than a phone number. ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44534))
 
 ### Account Security
 -   If navigating by heading, it's easy to skip all main fields
