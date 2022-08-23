@@ -16,7 +16,7 @@
 ### Editing information
 - If someone has already saved a preferred name and gender identity, they can edit this information at any time. Clicking the edit button will put the section into edit mode and reveal the necessary fields.
 - [Desktop mock-up, edit mode](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/ZODxpjY)
-- [Mobile mock-up, editing](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8A23d4)
+- [Mobile mock-up, edit mode](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8A23d4)
 
 ### Saving information
 - Changes are saved once the user presses the “update” button
