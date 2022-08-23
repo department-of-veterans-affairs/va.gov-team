@@ -3,11 +3,10 @@
 
 - Users can view their full name and birth date from this section. They can also view and edit their preferred name and gender identity.
 - For preferred name and gender identity:
-  - If a user doesn’t have a preferred name or gender identity on file, they’ll see a prompt to add missing information within the relevant section.  
-  - They can use the “Edit” button to add or update their personal information in edit mode. This applies to:
-	- Preferred name
-	- Gender identity
-  - Once they’ve added information, they can use the “Edit” button to update the information in both fields personal information, but they cannot delete the information entirely.
+  - If a user doesn’t have a preferred name or gender identity on file, they’ll see a prompt to add missing information.
+  - They can use the “Edit” button to add or update their preferred name and gender identity.
+  - Once they’ve added information, they can use the “Update” button to save the information.
+  - They cannot delete preferred name or gender identity once they've filled out these fields.
 
 ## UX
 ### Adding information
