@@ -12,6 +12,7 @@
 
 
 ## Action Items:
+- [ ] Amanda to work with Alex for new Login.gov screen just asking for e-mail address
 
 
 ## Next Steps:
