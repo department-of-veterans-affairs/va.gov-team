@@ -1,5 +1,5 @@
 # Military information: user wants to access their military information
-**Last updated: August 18, 2022**
+**Last updated: August 23, 2022**
 
 For LOA3 users who sign in, go to the profile, and click into the military information section, they can view their service history if they have a Department of Defense (DoD) ID.
 
