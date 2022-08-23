@@ -1,7 +1,5 @@
 # Health Hub
 
-Lorem....
-
 ## Product information
 
 - [Original Product outline from VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Product/Onboarding/Product%20Kickoff%20document%20from%20VA-PO%204.18.22.pdf)
