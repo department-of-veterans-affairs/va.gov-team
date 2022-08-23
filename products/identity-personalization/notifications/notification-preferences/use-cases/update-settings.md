@@ -1,11 +1,11 @@
 # Notification settings: User wants to update notification settings
 
-**Last updated: August 22, 2022**
+**Last updated: August 23, 2022**
 
 LOA3 users who sign in, go to the profile, and click into the notification settings page will be able to opt in or out of notifications available to them.
 
 ## UX
-* Users will see notifications relevant to benefits they receive (e.g. people who receive VA health care will see appointment reminders, prescription shipment updates, etc)
+* Users will see all notification preferences regardless of their benefits, with the exception of the health care preferences. Only health care recipients see the health care notification preferences.  
 * We display the contact information where notifications will be sent at the top of the page, along with a link to update that information.
 * Users can choose between “notify” or “don’t notify” for each notification.
 * [Desktop mockup](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/09JgE8y)
