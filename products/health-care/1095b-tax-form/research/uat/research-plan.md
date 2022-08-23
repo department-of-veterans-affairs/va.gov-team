@@ -33,14 +33,14 @@ This is user acceptance testing to ensure our product works for a small represen
 
 - Are users able to pick the appropriate format of the 1095-B (pdf, text) for their needs?
 - Is the data in the 1095-B form accurate for all participants?
-- Do users know what to do if they need changes to the form? 
+- Do users know what to do if they need changes to the form?
+- Are users able to get their 1095-B form using their mobile devices? 
 
 ### Hypothesis
 
-Hypothesis 1: We expect users to have an easy time downloading the 1095-B form and know which format to download.  We expect that the details on the form are accurate. 
+Hypothesis 1: We expect users to have an easy time downloading the 1095-B form and know which format to download.  We expect that the details on the form are accurate
 
 Hypothesis 2: Users who do not receive a 1095-B form from VA get and understand appropriate messaging
-
 
 
 ## Method	
@@ -56,55 +56,34 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+This will be remote research, conducted over Zoom. 
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
 
 For moderated usability tests: 
 - [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Link to 1095-B page in production](url goes here)
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+We will use Perigean to recruit particpants. 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We are using (hopefully we did it correctly), the lean [Maximum Variation Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) (MVS). 
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Participants are both Veterans and dependents, since dependents can also receive healthcare from VA (and would therefore receive a 1095-B). 
+
+Participant must haves (primary criteria):
+- 24 participants scheduled (we're aiming for 12 successful sessions)
+    - 20 participants who currently use VA healthcare as their primary insurance
+    - 4 participants who access healthcare outside the VA system
+- Participants must have access to Zoom on a desktop computer (see below, because we'd also like to test with participants who use mobile devices)
+
+[Spreadsheet for recruitment diversity] (https://docs.google.com/spreadsheets/d/1QSskfDMINAjlkS0DgPAVq9k168sTLq7MC2OYOBSqAEs/edit#gid=0)
+
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -142,11 +121,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+
 - Moderator:	
 - Research guide writing and task development (usually but not always same as moderator):	
 - Participant recruiting & screening:	
 - Project point of contact:	
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: Tamera Corson tamera.corson@serveadvisory.com
 - Note-takers:	
-- Observers:	
+- Observers: Tracey Mulrooney Tracey.Mulrooney@va.gov, Tamera Corson tamera.corson@serveadvisory.com, Shashank Khandelwal shashank@bluetiger.digital
+
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
