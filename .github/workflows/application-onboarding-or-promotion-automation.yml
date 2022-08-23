@@ -69,7 +69,7 @@ jobs:
         run: |
           export environment_exists=$(yq '[.projects[] | select(.name == "${{ inputs.application_name }}")] | .[].environments | contains(["${{ inputs.application_environment }}"])' vsp-infra-argocd/chart/values.yaml || true)
           if [ -z "$environment_exists" ]; then export environment_exists=false; fi
-          echo "::set-output  name=environment_exists::$(environment_exists)"
+          echo "::set-output name=environment_exists::$(echo ${environment_exists})"
 
       - name: If application and environment exist
         if: |
