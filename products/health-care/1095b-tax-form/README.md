@@ -33,7 +33,10 @@ In the near term, there are essentially going to be two releases:
 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
 * [Paperless delivery Opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
-
+* Post opt-in consideration
+    * [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
+    * Multi-year retrieval
+    * [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
 
 ## Operations
 
