@@ -17,7 +17,7 @@ When the participant is ready, begin the session with the following intro<br>
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today, we're going to talk about how VA can meet the needs of Spanish-speaking Veterans when preparing and checking in for their VA medical appointment. 
 
 Before we start, a few things I want to mention:
-This entire session should take no longer than an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+This entire session should take no longer than 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veterans needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
 If for any reason and at any time you want to stop the session, please let me know.
