@@ -27,7 +27,7 @@
 
 ### Save error: information can’t be saved
 * If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/jgx5LD9))
-* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up])
+* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/L0yrEzD))
 
 ### Removing information
 - Information cannot be removed for these sections once it is added.
