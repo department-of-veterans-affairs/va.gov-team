@@ -23,34 +23,29 @@ When this is in production, it will be available at: [http://www.va.gov/records/
 ## Research Goals	
 - Test usability of our solution
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
+This is user acceptance testing to ensure our product works for a small representative sample of Veterans before we enable it for everyone. 
+
+
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Are users able to pick the appropriate format of the 1095-B (pdf, text) for their needs?
+- Is the data in the 1095-B form accurate for all participants?
+- Do users know what to do if they need changes to the form? 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+Hypothesis 1: We expect users to have an easy time downloading the 1095-B form and know which format to download.  We expect that the details on the form are accurate. 
+
+Hypothesis 2: Users who do not receive a 1095-B form from VA get and understand appropriate messaging
+
+
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+We are conducting User acceptance testing (UAT) which is required for product release. We are making the 1095-B form available in production for all users. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
