@@ -74,12 +74,11 @@ The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-1
   * At least 5 who will be using Drupal CMS during the MVP from different facilities
   
 ## Timeline (TBD, for discussion)
-* August 2022: finalize Veteran-facing and editor-facing research plans and conversation guides
+* August 2022: finalize research plans and conversation guides
 * September: complete Public Contact staff research interviews
 * October: complete editor research interviews
-* October: synthesize Veteran-facing and editor-facing research
-* November: report findings and iterate designs for beta testing
-* January 2023: beta testing with Veterans and editors  
+* October: synthesize editor-facing research
+* November: report findings and recommendations for design  
   
 ## Research sessions
 Month Day – Month Day, 2022 (TBD)
