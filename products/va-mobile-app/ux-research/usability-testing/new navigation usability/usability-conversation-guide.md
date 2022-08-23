@@ -2,18 +2,19 @@
 
 ## Moderator logistics
 ### 2-3 days before the session:
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-- Complete any project-specific setup tasks for this study
-### Day of the session:
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+- [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- [ ] Complete any project-specific setup tasks for this study
+### Session checklist:
+- [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-### Starting the session:
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+- [ ] Mute your Slack notifications.
+- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] In the Attendees section, make sure everyone except the participant is on mute.
+- [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
+- [ ] Check your [screensharing setup] and share permissions for participants.
+- [ ] Ensure participant has the link to the Figma prototype
+- [ ] Ensure participant has Zoom downloaded on their mobile device
+- [ ] When the participant is ready, begin the session with the following intro*
 
 ### Project-Specific Setup
 * Participants should have the Zoom application downloaded on their phone
