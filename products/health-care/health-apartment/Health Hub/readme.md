@@ -12,7 +12,7 @@ Lorem
 
 - [Comparative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20Comparative%20research%20vF.pdf)
 - [Research plan #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/2022%20Health%20Hub%20Tree%20Test%20research%20plan.md) and [synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/IA%20Tree%20Test%201/IA%20tree%20test%20synthesis%20preliminary%20Veteran%20only%206.28.2022.pdf) - raw data file
-- [Research plan #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Research%20Plan%202%20v2022-08-09.md), conversation guide and synthesis #2- raw data file
+- [Research plan #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Research%20Plan%202%20v2022-08-09.md), [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Research%20%232/Conversation%20Guide%20v2022-08-09.md) and synthesis #2- raw data file
 
 ## Communications
 
