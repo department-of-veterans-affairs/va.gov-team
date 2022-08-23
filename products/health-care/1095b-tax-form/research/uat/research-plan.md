@@ -82,7 +82,7 @@ Participant must haves (primary criteria):
     - 4 participants who access healthcare outside the VA system
 - Participants must have access to Zoom on a desktop computer (see below, because we'd also like to test with participants who use mobile devices)
 
-[Spreadsheet for recruitment diversity] (https://docs.google.com/spreadsheets/d/1QSskfDMINAjlkS0DgPAVq9k168sTLq7MC2OYOBSqAEs/edit#gid=0)
+[Spreadsheet for recruitment diversity](https://docs.google.com/spreadsheets/d/1QSskfDMINAjlkS0DgPAVq9k168sTLq7MC2OYOBSqAEs/edit#gid=0)
 
 
 **Primary criteria (must-haves)**
