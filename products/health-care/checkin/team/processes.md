@@ -116,28 +116,23 @@
         - Post a release note to the [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md) page and to the [check-in-release-planning](https://dsva.slack.com/archives/C03KQAUFVT6) channel for review by Engineering
         - Notify Training, Contact Center, & Comms of the release (see [Notifications of Releases & Updates to Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md#notifications-of-releases--updates-to-planned-releases))
 
-## Wireframes for Production and Features
-- UX will
-    - Generate a presentation link in VA Sketch Cloud for Pre-Check-in (one time)
-    - Generate a presentation link in VA Sketch Cloud for Check-in (one time)
-    - Generate a presentation link in VA Sketch Cloud for Telephone Pre-Check-in (one time)    
-- Product will
-    - Set up a demo with Business Partners & the team when wireframes for a feature are finalized
-        - Product will record the demo & poast the video on our Product page
-        - UX will demo the finalized prototype for a feature & provide a link to the prototype
-        - Well take questions & feedback
+## Business Stakeholder Feedback
+- UX will generate 3 presentation links in VA Sketch Cloud for Business Stakeholders to access
+    - Production Pre-Check-in wireframes for In Person appointments
+    - Production Check-in wireframes for In Person appointments
+    - Production Pre-Check-in wireframes for Telephone appointments
+- Product will forward the 3 presentation links to the Business Stakeholders
+- When wireframes for a feature are finalized
+    - Product will 
+        - Set up a demo with Business Stakeholders
+        - Record the demo & post a link to the recording on the Product page    
+        - Document questions & feedback
+    - UX will
+        - Demo the finalized prototype 
+        - Provide a link to the prototype    
+        - Answer questions & take feedback        
     
 ## Notifications of Releases & Updates to Planned Releases
-#### Abstract Notifications
-- Notification message for updates to the Abstract Master collection
-    - "Modernized Check-in team has updated the Master Abstract collection."
-        - Include a link to the Abstract Master collection 
-- Notification message for a finalized Abstract feature collection
-    - "Modernized Check-in team has finalized the Abstract wireframes for a new feature."
-        - Include a link to the Abstract feature collection 
-- Notify the following people
-    - ????
-#### Release Notifications
 - Notification message for updates to Planned Releases
     - "Modernized Check-in team has updated their Planned Releases." (include the link to the [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md) page)
 - Notification message for production releases
