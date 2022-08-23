@@ -105,7 +105,7 @@ To access the personal information section of the profile in staging:
 
 ## Frontend
 
-- [Personal information revision frontend documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend)
+Needs to be filled out by Adam.
 
 ## Design & UX
 
