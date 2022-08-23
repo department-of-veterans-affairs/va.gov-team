@@ -1,5 +1,5 @@
 # Personal information: User needs to add or update contact information
-**Last updated:** August 15, 2022
+**Last updated:** August 23, 2022
 
 - If a user doesn’t have personal information on file, they’ll see a prompt to add missing information within the relevant section.  
 - They can use the “Edit” button to add or update their personal information in edit mode. This applies to:
