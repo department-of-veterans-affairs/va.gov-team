@@ -63,16 +63,16 @@ As a user, I want to be able to:
   - Add and edit their Gender identity
 - To access this feature in the profile, users need to login to VA.gov with an identity-verified (LOA3) account.
 - Personal information integrates through two different services:
-  - Full name and date of birth come from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
-  - Preferred name and gender identity come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+  - We integration with the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html) for full name and date of birth.
+  - We integrate with [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html) for preferred name and gender identity, though that information ultimately lives in and is owned by the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
 
 ## Backend
 [Backend technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
 
 Personal information integrates through two different services:
 
-- Full name and date of birth come from the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
-- Preferred name and gender identity come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+- We integration with the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html) for full name and date of birth.
+- We integrate with [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html) for preferred name and gender identity, though that information ultimately lives in and is owned by the [Master Person Index (MPI)](https://depo-platform-documentation.scrollhelp.site/developer-docs/MVI.1886847049.html).
 
 ### Preferred Name Validation Rules
 The VA Profile API applies the following rules to the preferred name field:
