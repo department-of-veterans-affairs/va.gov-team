@@ -32,7 +32,7 @@ In most cases, it is simply a form for one's records. However, some states still
 In the near term, there are essentially going to be two releases:
 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
-* Paperless delivery (Opt-in) build plan -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
+* [Paperless delivery Opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
 
 
 ## Operations
