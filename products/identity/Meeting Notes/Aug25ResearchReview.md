@@ -8,10 +8,7 @@
 
 
 ## To Discuss:
-- [ ] Research Results
-
-
-## Takeaways:
+- [x] Research Results
 
 
 ## Action Items:
