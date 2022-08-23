@@ -41,6 +41,8 @@ SAML Errors can be found [here](https://github.com/department-of-veterans-affair
 - `IDME_UUID_MISSING_CODE`
 - `MULTIPLE_CORP_IDS_CODE`
 
+Sign in Service errors can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/troubleshooting_signin.md).
+
 ### Performance Alerting
 [Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/alerts) is the main location of our performance alerts. Many of the metrics the Identity team maintains are graphed here and then used for alerting to slack and pagerduty.
 
