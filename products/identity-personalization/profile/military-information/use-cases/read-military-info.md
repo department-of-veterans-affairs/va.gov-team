@@ -18,12 +18,12 @@ This page isn’t editable.
 *  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/g0YO03a) 
 *  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/DPDA8Wk) 
 
-### User does not have DoD ID
-* If DEERS does not return a DoD ID, the user will see an alert on the page telling them we don't have their military information
+### User does not have DoD ID, or no service history is returned from the API
+* If DEERS does not return a DoD ID, or the service history array is empty, the user will see an alert on the page telling them we don't have their military information
 * The additional info component is not displayed
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
-*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yQObmR) 
-*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/zxvZ4Le) 
+*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/4aQveZd) 
+*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/agE3Vxr) 
 
 ## Codes
 N/A
