@@ -6,6 +6,7 @@ Lorem....
 
 - [Original Product outline from VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Product/Onboarding/Product%20Kickoff%20document%20from%20VA-PO%204.18.22.pdf)
 - [Initial product discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20discover%20doc.pdf)
+- [Veteran health experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Design/Design%20Review%20Content%20and%20Notes/VA%20Health%20Benefits%20Experience%20Journey%20Map%20v2%205.29.22.pdf)
 - GitHub Label: Health-apartment/health hub
 
 ## Product research
