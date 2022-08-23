@@ -10,8 +10,8 @@
 
 ## 1 - Business Research
 
-- [EPIC: VBA - Business Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5872)
-
+- [Research Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5872)
+- Research folder
 
 ### Team
 - David Shannon
@@ -77,7 +77,8 @@
 
 ## 2 - Editor Research
 
-[EPIC: VBA - Editor Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10185)
+- [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10185)
+- Research folder
 
 ### Team
 - Denise Eisner - lead
@@ -158,7 +159,8 @@
 
 ## 4 - Content Research
 
-[EPIC: VBA - Content Design](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9977)
+- [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9977)
+- Research folder
 
 ### Team
 - Dave Pickett  - lead
@@ -186,6 +188,10 @@
  
 
 ## 5 - Usability Research
+
+- [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10197)
+- Research folder
+
 ### Team
 - Aslan French
 - Dave Pickett
