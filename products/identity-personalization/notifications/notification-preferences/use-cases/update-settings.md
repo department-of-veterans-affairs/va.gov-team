@@ -5,9 +5,9 @@
 LOA3 users who sign in, go to the profile, and click into the notification settings page will be able to opt in or out of notifications available to them.
 
 ## UX
-* If a user navigates to the notification settings section, they can choose between “notify” or “don’t notify” for each notification.
-* Notifications that are related to a benefit (e.g. appointment reminders are related to health care) will only display for users who have that benefit.
+* Users will see notifications relevant to benefits they receive (e.g. people who receive VA health care will see appointment reminders, prescription shipment updates, etc)
 * We display the contact information where notifications will be sent at the top of the page, along with a link to update that information.
+* Users can choose between “notify” or “don’t notify” for each notification.
 * [Desktop mockup](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/09JgE8y)
 * [Mobile mockup](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/4a8b4xJ)
 
@@ -34,5 +34,5 @@ N/A
 3. Login with vets.gov.user+36 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 4. You can update the notifications that are set to see the update or error message. To trigger the error message, disconnect your device from wi-fi before you change the radio input.
 
-### Specific eligibility use cases
+### Specific notifications
 Use the [staging test accounts document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences.md) to check specific notification groups (Health care, Applications, claims, decision reviews, and appeals, etc).
