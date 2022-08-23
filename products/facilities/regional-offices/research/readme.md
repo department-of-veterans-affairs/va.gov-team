@@ -11,7 +11,7 @@
 ## 1 - Business Research
 
 - [EPIC: VBA - Business Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5872)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-8-veteran-facing)
+
 
 ### Team
 - David Shannon
@@ -124,7 +124,8 @@
 
 ## 3 - Veteran Research
 
-[EPIC: VBA - Veteran Research](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10191)
+- [Research Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10191)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-8-veteran-facing)
 
 ### Team
 - Aslan French - lead
