@@ -25,12 +25,14 @@
 - [Desktop mock-up, save success](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/dlx9pv3)
 - [Mobile mock-up, save success](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/OmMGzGv)
 
-#### Save error: information can’t be saved
+### Save error: information can’t be saved
 * If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/jgx5LD9))
 * If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up])
 
 ### Removing information
-Information cannot be removed for these sections.
+- Information cannot be removed for these sections once it is added.
+- If a user deletes information already saved in the Preferred name section and then clicks outside of the empty text input field, an in-line error message is displayed. ([Mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/jga1Lba))
+- In the Gender identity field, users can select "Prefer not to answer" if they do not wish to provide an answer. 
 
 ### Canceling changes
 * If a user has made changes to any form field, and hits cancel, they’ll first see the field validation message. This is a limitation of the form system.
