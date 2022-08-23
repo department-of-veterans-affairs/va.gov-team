@@ -64,7 +64,7 @@ eBenefits, in its current legacy state, is no longer the best version of what ca
 
 ## Solution Approach
 
-- Translate form to VA.gov, prefill logged in user info, submit to Central Mail. Current EBN functionality involves clicking a single button. 
+- Translate form to VA.gov, prefill logged in user info, submit to Central Mail. Current EBN functionality involves clicking a single button.
 
 ## Value Propositions
 
@@ -82,16 +82,16 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 `Note: GA dashboard - https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qKVD06_mTkyUhH52RYq0Vg/a50123418w177519031p176188361/`
 - Conversion rate
   - Wizard-specific
-    - % of people who land on wizard and start the application (Acquisition)  
+    - % of people who land on wizard and start the application (Acquisition)
     - % of skips in the wizard
     - number of referrals to another form
   - % of people who abandon form (Abandonment Rate) (Activitation)
-    - where is the abandonment?  
-  - % of people who complete the form  
-  - number of people who complete the form  
-- Customer satisfaction  
-  - form has an increasing score value (Medallia?) 
-- Product Health 
+    - where is the abandonment?
+  - % of people who complete the form
+  - number of people who complete the form
+- Customer satisfaction
+  - form has an increasing score value (Medallia?)
+- Product Health
   - number of successful submissions
   - number of failed submissisons
 
@@ -118,14 +118,14 @@ _How will Veterans find this product? How will they know it exists?_
 
 ### Recommendations
 - TBD after launch
---- 
+---
 
 # Implementation Info
 
 ## Status
 
-**March 24, 2020**  
-- Kickoff with platform  
+**March 24, 2020**
+- Kickoff with platform
 
 ## Solution Narrative
 - TBD
@@ -134,7 +134,7 @@ _How will Veterans find this product? How will they know it exists?_
 - VA Executive Sponsor `*`:
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`:
-- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov  
+- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov
 - Product Manager: **Jason Wolf** - jwolf@governmentcio.com
 - Designer: **James Adams** - jadams@governmentcio.com
 - Frontend: **Jesse Cohn** - jesse.cohn@adhocteam.us
@@ -146,8 +146,8 @@ _How will Veterans find this product? How will they know it exists?_
 
 ## Resources and Documentation
 
-- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/discovery)
-- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design)
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-CH36-VRE-counseling/discovery)
+- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-CH36-VRE-counseling/research-design)
 
 ## NOTES
 

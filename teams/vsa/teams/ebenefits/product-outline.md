@@ -11,7 +11,7 @@
 
 ### Table of Contents
 
-# Executive Summary 
+# Executive Summary
 - [User Problem Statement](#user-problem-statement)
 - [Solution Goals](#solution-goals)
 - [Assumptions](#assumptions)
@@ -20,18 +20,18 @@
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
-- **Features**  
+- **Features**
   - [Rated Disabilities, titled as "View your VA combined disability ratings"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/README.md)
   This is a simple view task where the relevant information is pulled from CorpDB via the `vets-api` via EVSS.
-  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
+  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents)
   This is a more complicated task (Form 21-686c) that includes both a view and submit task for declaring dependents as they are moved on and off a Veterans awards.
-  - [My Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
+  - [My Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/feature-outline.md)
    A simple view task that displays the payment and return history between a Veteran and the VA.
   _Features found in the product folder (as opposed to the eBenefits Team folder) are further along in the developemnt and approval process.)
-  - [View and update my representative/Power of Attorney](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA)
+  - [View and update my representative/Power of Attorney](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA)
   A simple view task that displays the Veterans representative and form process for modifications.
-  - [Personalized Career Planning and Growth (CH36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling)  This is a one-click application where authenticated Veterans can apply for assistance in getting their career jumpstarted after leaving the military
-  - [Vocational Rehabilitation and Employment (CH31)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31) If you have a service-connected disability that limits your ability to work or prevents you from working, the VA Vocational Rehabilitation and Employment (VR&E) program—also referred to as Chapter 31—can help.  This is a one-click application where authenticated Veterans can apply for assistance for vocational rehabilitation
+  - [Personalized Career Planning and Growth (CH36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-CH36-VRE-counseling)  This is a one-click application where authenticated Veterans can apply for assistance in getting their career jumpstarted after leaving the military
+  - [Vocational Rehabilitation and Employment (CH31)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31) If you have a service-connected disability that limits your ability to work or prevents you from working, the VA Vocational Rehabilitation and Employment (VR&E) program—also referred to as Chapter 31—can help.  This is a one-click application where authenticated Veterans can apply for assistance for vocational rehabilitation
 
 # Implementation Information
 - [Status](#status)
@@ -68,7 +68,7 @@ There are several different stacks, departments and procedures around migration 
 Onboarding, access and domain knowledge has some upfront challenges.
 
 ## Discovery Takeaways
-The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily access and talking things through with your team allows for shared understanding, team cohesion and improved culture. 
+The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily access and talking things through with your team allows for shared understanding, team cohesion and improved culture.
 
 ## Solution Approach
 Begin migration process with documentation of simpler **view** tasks to learn the stacks and process and perfect the process with repeatability in mind and continue with **view** tasks as priorities permit.  Next might be more complicated "**submit** tasks and having the **view** task foundation will be tremendously helpful.
@@ -83,7 +83,7 @@ Not having to dig and deal with any confusion as to where a benefit can be found
 This team aims to drastically increase the conversion rate of 686c form submissions and significantly reduce the amount of overhead that is spent by the Veteran in filling this form out.
 
 ## KPIs
-Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  Also, looking into how RBPS is impacted will be a large metric as well.  
+Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  Also, looking into how RBPS is impacted will be a large metric as well.
 **Objective 1:** Migrate all features out of eBenefits and into VA.gov
 - Key result #1: `100%` of the functionality is addressed in VA.gov by `Feb 2022`
 - Key result #2: `100%`  (or more) of the traffic present in EBN is shown in VA.gov by `Feb 2022`

@@ -9,7 +9,7 @@
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Attendee/Observer instructions, including instructions for [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel), will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md)
 
 ### Priorities
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback.
@@ -31,7 +31,7 @@ I have a few things I need to mention before we start:
 - Do you have a VA Disability Rating? Can you tell me, generally, about dependents you may have claimed on your VA benefit?
 - How often do you visit the eBenefits site? How about VA.gov; how often do you visit that site? Any other sites?
 - In the past, how have you added or changed dependents on your VA benefit?
-- And last, before we look at the test pages, if you wanted to add or change a dependent on your VA benefit now, what would you do? This can be online or otherwise: website, phone call, in-person... 
+- And last, before we look at the test pages, if you wanted to add or change a dependent on your VA benefit now, what would you do? This can be online or otherwise: website, phone call, in-person...
 
 ### User screenshares
 - Clicks on staging link to form intro

@@ -13,7 +13,7 @@ There are several ways a Veteran or service member can apply for and receive a C
 
 ### Goals
 
-The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form. 
+The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form.
 
 #### Guiding questions
 - Starting on the VA.gov home page, where do users expect to find the COE tool, and what path do they take?
@@ -35,7 +35,7 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 
 #### The process
 - There will be a quick warm-up and introduction to usability testing
-- The user will be asked to navigate to VA.gov 
+- The user will be asked to navigate to VA.gov
 - The moderator will outline a scenario (use case) for the participant to follow
 - The participant be will asked to locate the COE feature
 - After a brief period exploring a path to the COE tool, the users will be provided a link to the COE prototype
@@ -69,7 +69,7 @@ Recruit for 6 fulfilled sessions using the following criteria:
 
 #### Testing sessions
 
-**Pilot session (Two)** 
+**Pilot session (Two)**
 
 | Dates | Times (EDT) |
 | --- | --- |
@@ -88,8 +88,8 @@ Recruit for 6 fulfilled sessions using the following criteria:
 | June 22 | 9 AM to Noon |
 
 - Schedule sessions as 30-minute blocks
-- Please leave at least 30 minutes between sessions 
-- Please do not exceed 3 sessions a day 
+- Please leave at least 30 minutes between sessions
+- Please do not exceed 3 sessions a day
 
 **Please have Perigean available for note-taking if possible.**
 Note template pending; will send prior to first session.
@@ -115,9 +115,9 @@ Note template pending; will send prior to first session.
 - Others -- Pending
 
 ### Resources
-- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE)
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md)
 
 - [Session notes]() (Available at conclusion of research)
 
@@ -132,7 +132,7 @@ Note template pending; will send prior to first session.
 - [Prototype](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/simulate/sitemap?mode=f)
 
 - [Feature flow diagrams](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/)
- 
+
 ---
 
 #### Approval

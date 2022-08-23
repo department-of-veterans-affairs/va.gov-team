@@ -3,7 +3,7 @@
 
 [Aricka Lewis](aricka@adhoc.com) | Moderator, researcher & [James Adams](jadams@governmentcio.com) | UX designer
 
-[View the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
+[View the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
 
 ## Research goals
 **Some background:** VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dependents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran.
@@ -24,7 +24,7 @@ The 686 is 12 pages in its paper incarnation, and it supports eight discrete wor
 - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form
 - Some users will find the add-spouse workflow will be problematic in its length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood
 
-## Research methodology 
+## Research methodology
 
 **Our methodology:** Usability testing was conducted remotely using Zoom. Participants were spilt into two groups and were given either “add spouse & child/remove child” or “add student/remove student” tasks. Both groups were given wayfinding, intro, selection, review and confirmation tasks. Users were presented with a high-fidelity prototype created using Adobe XD.
 
@@ -34,9 +34,9 @@ The moderator prompted users with tasks and questions from the conversation guid
 - Eight Veterans total, all with a 30% or higher disability rating
 - Four have experience adding spouse to disability benefits
 - Three have experience claiming children over 18 enrolled in school
-- One has a child and will go through the process of claiming them for college in five years 
+- One has a child and will go through the process of claiming them for college in five years
 - One Veteran with 80% or higher disability rating and cognitive disabilities
-- Geographically diverse: MD, CA, FL, IA, PA 
+- Geographically diverse: MD, CA, FL, IA, PA
 - Participant ages ranged from 25-74 years
 - Two were familiar with the 21-686c
 
@@ -77,32 +77,32 @@ A few users clicked into Family member Benefits and Records content pages to fin
  - Term start and end dates; can these be post-dated?
  - Prior term's school info; high school and/or college?
  - Student finacial information (income & net worth)
- 
+
  > “This is a lot of tax information that you may not have. I think this information should be included within the first page that you need.”
- 
+
 Two users wanted to know up-front about married children in the 686 and 674. Are they disqualified as dependents? (They are.) One user wondered about the implications of spouses who are also Veterans.
 
 > “Are there implications if they have been married to someone that was in the military? A box that will explain what the implications are if they have VA benefits already.“
- 
+
  **3. Clarification needed:** Although participants stated they found the form easy to use, most had at least one question in the course of completing their tasks; several users had two or more questions. Participants suggested inline help (e.g. tooltip hovers or ? icons) or clearer labeling would help.
- 
-  - Some users wanted more specifics about school and student addresses (which campus? home or school?) 
+
+  - Some users wanted more specifics about school and student addresses (which campus? home or school?)
   - A pair of users wondered about the definition of some of the marriage types
   - Two users stated they didn't know what their service or file was
-  
+
    > “Just the VA file number and service number, maybe an explanation for that. I don’t know if the service number is the same as your SSN.”
-  
-**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation. 
+
+**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation.
 
 > “...it was self-explanatory whereas the paper form I was not sure."
 
-One of the tasks (add spouse & child) required multiple selections and posed no problems. When asked post-test about submitting multiple workflows together or singly, users unanimously said "multiple." 
+One of the tasks (add spouse & child) required multiple selections and posed no problems. When asked post-test about submitting multiple workflows together or singly, users unanimously said "multiple."
 
 One user took exception to the use of "Report" in the labeling of the selections.
 
 > ”Don’t tell me to report.”
 
-**5. Confirmation & printing:** As with the introduction page, participants gave generally positive assessments of the confirmation page. However, many wanted more assurance that their forms were successfully submitted. One user said they would need “proof” when VA “didn’t get their form.” Half of users expected to be able view, print and/or download what they submitted, with one user wanting a filled-in version of the 21-686c (eBenefits has this feature). 
+**5. Confirmation & printing:** As with the introduction page, participants gave generally positive assessments of the confirmation page. However, many wanted more assurance that their forms were successfully submitted. One user said they would need “proof” when VA “didn’t get their form.” Half of users expected to be able view, print and/or download what they submitted, with one user wanting a filled-in version of the 21-686c (eBenefits has this feature).
 
 > “What I am missing is the form that I can print out that proves that I did it.”
 
@@ -150,10 +150,10 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
 ## Appendix
 ### Conversation guide
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
 
 ### Interview transcripts
-[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/session-notes)
+[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/session-notes)
 
 ### Tools used for synthesis
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1581622373622/173449c7655d3f34a3ee81cab0afee14420dea59)
@@ -162,9 +162,9 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 [Prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
 
 ### Other supporting documents created
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
 
-[Topline research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
+[Topline research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
 
 [Powerpoint version of this analysis](https://dsva.slack.com/files/UN0CAJHC0/FUYL3R6S1/686-usability-readout.ppt)
 

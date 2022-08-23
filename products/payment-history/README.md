@@ -1,9 +1,9 @@
 # My Payment History
-`WIP` [working doc in team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
+`WIP` [working doc in team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/)
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
-- Old links: 
-  - [My Payment History - http://www.ebenefits.va.gov/ebenefits/#](#)  
+- Old links:
+  - [My Payment History - http://www.ebenefits.va.gov/ebenefits/#](#)
 - Staging link: https://staging.va.gov/#/payment-history/
 - va.gov link: TBD
 - [Current Mockup](#)
@@ -38,7 +38,7 @@ A commonly used feature on EBN is viewing My Payment History. It is simply a vie
 
 ## User Problem Statement
 
-- I am a Veteran who needs to review my payment history , so that I can ensure they are correct, I haven't missed any and am informed about each in case I need to make a change affecting the benefits I deserve. 
+- I am a Veteran who needs to review my payment history , so that I can ensure they are correct, I haven't missed any and am informed about each in case I need to make a change affecting the benefits I deserve.
 
 ## Solution Goals
 
@@ -94,16 +94,16 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 
 ### Business Value
 
-1. 
-2. 
-3. 
-4. 
+1.
+2.
+3.
+4.
 
 ## OKRs & KPIs
 
 **Objective 1:** Greater number of Veterans can view their payment history.
 - Key Results 1: Data shows the number of views of the payment history application has increased since migration; statistically significant increase in traffic
-- Key Results 2: Data shows more requests for corrections are being successfully submitted; statistically significant increase in number of approved submissions 
+- Key Results 2: Data shows more requests for corrections are being successfully submitted; statistically significant increase in number of approved submissions
 ---
 
 # Implementation Info
@@ -124,7 +124,7 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 - Product Manager`*`: Jason Wolf
 - Design Lead: Shawna Hein
 - Eng Lead: Paul Short
-- VA Web Comms Partner: 
+- VA Web Comms Partner:
 - VA Contact Center Partner(s): Chante
 - Production Testing Partner(s):
 - Designer(s): Jim Adams

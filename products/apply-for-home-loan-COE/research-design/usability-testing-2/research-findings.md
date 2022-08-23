@@ -1,4 +1,4 @@
-# COE Usability Study Round 2 Research Findings 
+# COE Usability Study Round 2 Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Certificate of Eligibility, eBenefits Migration**
 
@@ -12,15 +12,15 @@ Date: 03/24/2022
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#who-we-talked-to)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#further-research-needed)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/research-findings.md#further-research-needed)
 
 <br>
 
@@ -45,8 +45,8 @@ The goals of this usability study were to:
 - Where do users expect to find their COE if they already have one?
 - Do users understand the status they might encounter?
 - What other features or content would help users when they apply for a COE?
- 
-# Methodology 
+
+# Methodology
 We conducted hour-long remote moderated research sessions via Zoom on March 11 - 18, 2022. Participants were asked to complete a short way finding task on va.gov, and then were asked to complete three tasks in a [UXPin prototype](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/simulate/no-panels?mode=cvhdmf):
 1. Request a COE
 2. Check their COE request status and upload a document
@@ -81,16 +81,16 @@ We conducted hour-long remote moderated research sessions via Zoom on March 11 
 
 6. When status is “Pending with documents needed”, participants were able to discern that they needed to upload documents and that the list should have been mailed to them. They also found the list of letters on the page and used them to resolve status.
 
-7. Some participants expected a confirmation page after uploading documents on "Pending" task. 
+7. Some participants expected a confirmation page after uploading documents on "Pending" task.
 
 8. Participants were able to find the “Download your COE” link quickly.
 
 
-# Details of Findings 
+# Details of Findings
 
 **Finding 1**
 
-Labels: DSC: Action link, DSP: Content presentation 
+Labels: DSC: Action link, DSP: Content presentation
 
 "Find out about your VA home loan COE” was not the language users were looking for, instead they used the side bar nav “Request a COE now”
 
@@ -101,7 +101,7 @@ Labels: DSC: Action link, DSP: Content presentation
 
 **Finding 2**
 
-Labels: DSP: Content presentation 
+Labels: DSP: Content presentation
 
 The options on “Your service history” caused confusion for some participants.
 
@@ -116,7 +116,7 @@ The options on “Your service history” caused confusion for some participants
 
 **Finding 3**
 
-Labels: DSP: Content presentation 
+Labels: DSP: Content presentation
 
 The participants that saw the “How will you use your Certificate of Eligibility?” screen had some confusion around what the options meant, particularly if they might fit into multiple categories.
 
@@ -201,9 +201,9 @@ Participants were able to find the “Download your COE” link quickly.
 - Participants noted that they should not need to upload their DD-214 because the VA already has it.
 - Despite some issues, users were positive about the experience.
     > "This was good, way better than I expected."
-    
+
     > "It isn't as difficult as I thought it was."
-    
+
     > "I was impressed that you could do this online. I thought it may be difficult dealing with the VA, but it was very easy"
 
 # Recommendations
@@ -233,7 +233,7 @@ Participants were able to find the “Download your COE” link quickly.
 # Next Steps
 
 * Work with dev team to understand technical feasibility of dynamically removing `(*Required)` label on document uploaders when required documents have been uploaded.
-* Discuss impacts of decision to remove letters from Pending status screen with Business Line 
+* Discuss impacts of decision to remove letters from Pending status screen with Business Line
 
 
 # Further research needed
@@ -244,15 +244,15 @@ Participants were able to find the “Download your COE” link quickly.
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-researchplan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/coe-researchplan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-conversationguide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/coe-conversationguide.md)
 
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/session-notes)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/session-notes)
 
 
 ## Tools used for Synthesis
-[Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/COE%20Usability%20Study%202.xlsx)
+[Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/COE%20Usability%20Study%202.xlsx)
 
 
 ## Pages and applications used
@@ -261,7 +261,7 @@ Participants were able to find the “Download your COE” link quickly.
 
 
 
-## Who we talked to 
+## Who we talked to
 
 **Recruitment criteria**
 
@@ -270,26 +270,26 @@ _If you had specific criteria that you recruited for, use this space to explain 
 We talked to **6 participants.**
 
 Audience segment:
-* Veterans: 6 
-* Caregivers: 1 
-* Family members of a Veteran: 2  
+* Veterans: 6
+* Caregivers: 1
+* Family members of a Veteran: 2
 
 
 Gender:
-* Male: 3 
-* Female: 3 
+* Male: 3
+* Female: 3
 
 
 LGBTQ+:
-* Transgender: 0 
+* Transgender: 0
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
 * Gay, lesbian, or bisexual: 1
 
 
-Devices used during study: 
-* Desktop: 4 
-* Tablet: 1 
-* Smart phone: 1 
+Devices used during study:
+* Desktop: 4
+* Tablet: 1
+* Smart phone: 1
 * Assistive Technology: 0
 
 
@@ -313,8 +313,8 @@ Education:
 
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban:
+* Rural:
 * Unknown: 6
 
 
@@ -340,7 +340,7 @@ Disability and Assistive Technology (AT):
 * Captions: unknown
 
 
-## Underserved groups we haven’t talked to 
+## Underserved groups we haven’t talked to
 
 
 This research does not include the perspectives of the following marginalized Veteran groups:

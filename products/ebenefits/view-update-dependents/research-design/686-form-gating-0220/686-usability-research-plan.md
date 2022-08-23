@@ -1,4 +1,4 @@
-# Research Plan for eBenefits Form 21-686c Add/Remove Dependents Workflows, February 2020  
+# Research Plan for eBenefits Form 21-686c Add/Remove Dependents Workflows, February 2020
 
 #### VSA eBenefits Team / 21-686c Migration & Modernization
 
@@ -51,12 +51,12 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
  - Users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once.
  - Users will require clatification or guidance at various points; The upload feature may create some confusion/frustration with its position at the end of the form.
- - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form. 
+ - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form.
  - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
 
 ### Research Questions
-1. Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows? 
-2. Are the forms presented clearly and easy to understand by Veterans? 
+1. Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows?
+2. Are the forms presented clearly and easy to understand by Veterans?
 3. Where do users need examples, guidance or section headers as they interact with the form?
 4. Where are the pain points in the longer workflows (add-spouse/add-child, add-student)?
 
@@ -64,8 +64,8 @@ Additional Questions
 
 5. What are users' experiences with the current 21-686c (paper, digital, VSO, etc.)?
 6. Do participants know they have to reports changes in their dependents status?
-7. What workflow combinations (scenarios) do users think are likely? 
-  
+7. What workflow combinations (scenarios) do users think are likely?
+
 #### Success
 This research effort will be successful if it points to a clear verdict regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
  - Will users understand and accept the checkbox selection of various workflows
@@ -96,7 +96,7 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - Sessions will run approximately 45 minutes
 
 ### Timeline
-The target window for research sessions is the week of February 17. Preparation includes participant recruitment, refining prototypes, revising the conversation guide, and a pilot (test) session. 
+The target window for research sessions is the week of February 17. Preparation includes participant recruitment, refining prototypes, revising the conversation guide, and a pilot (test) session.
 
 #### Pilot Session
 The target date for the pilot session is Friday, February 21.
@@ -135,21 +135,21 @@ The target date for the pilot session is Friday, February 21.
 ### Resources
 - [Project Brief for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/apply-modify-dependents.md)
 
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
 
 - [Add/Remove Dependents Walkthrough/Workflows](https://xd.adobe.com/view/0f7759a1-b990-4d71-50c9-138d9e593fd0-7946/)
 
-- [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/session-notes)
+- [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/session-notes)
 
-- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
 
-- [esearch Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md)
+- [esearch Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md)
 
 ### References
  - [VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
- 
+
  - [VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
- 
+
  - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval

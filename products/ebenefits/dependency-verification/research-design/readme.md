@@ -9,7 +9,7 @@
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Dependents Verification OLD mockups | [Adobe XD](https://xd.adobe.com/view/9a75a359-e0e2-4411-b235-60c3dddb4e6e-cf26/) | Get text from mock | January 19, 2021 | 
+| Dependents Verification OLD mockups | [Adobe XD](https://xd.adobe.com/view/9a75a359-e0e2-4411-b235-60c3dddb4e6e-cf26/) | Get text from mock | January 19, 2021 |
 | Dependents Verification NEW mockups | [Adobe XD](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/) | Get text from mock | May 5, 2021 | [Changelog](#mockups-changelog) |
 
 
@@ -26,7 +26,7 @@
 ### Research
 `Will add links to Platform work`
 
-[Usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1) 
+[Usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/research-design/usability-testing-1)
 
 ---
 
@@ -37,7 +37,7 @@
 - On the **modal**
    - Present modal with "alert" formatting
    - Change header to: "Please make sure your dependents are correct"
-   - Change P text to: "Our records show the following dependents on your VA benefits. We need to make sure 
+   - Change P text to: "Our records show the following dependents on your VA benefits. We need to make sure
 our records are right so your benefits pay is correct. If you skip this for now, we’ll ask you again later."
    - Remove additional info accordion and all subordinate content
    - Move primary button to left
@@ -48,7 +48,7 @@ our records are right so your benefits pay is correct. If you skip this for now,
    - No error states within the modal itself
 
 **January 22, 2021**
-- New View Dependents layout showing "grey card" variation of "remove" formlet 
+- New View Dependents layout showing "grey card" variation of "remove" formlet
 
 **January 19, 2021**
 - Initial (new) Dependents Verification mockup

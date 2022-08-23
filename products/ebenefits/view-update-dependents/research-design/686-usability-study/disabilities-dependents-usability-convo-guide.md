@@ -4,7 +4,7 @@
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Attendee/Observer instructions, including instructions for [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel), will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md)
 
 ### Priorities
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback. The next priority is covering all, or most, of the Rated Disabilities screen. This page is in development, and has fully-designed screen layouts and alternate states. Much of the general feedback about the details of screen design and information display will be germane to all "tools page" layouts, and therefore View Disabilities as well.
@@ -25,13 +25,13 @@ I have a few things I need to mention before we start:
 ## Warm-up
 - Would you tell me a little bit about yourself? Your service experience, where you live, general experiences with the VA...
 - Do you have a VA Disability Rating? Can you tell me, generally, about dependents you may have claimed?
-- How often do you visit the eBenefits site? How about VA.gov; how often do you visit that site? 
+- How often do you visit the eBenefits site? How about VA.gov; how often do you visit that site?
 - What differences do you notice between the two sites?
 - Why do you visit these sites? (OR) What would you expect to find on them?
 - What other sites do you regularly use to learn about or manage VA benefits?
 - What computers or phones do you use to access VA (or other) sites? (If no mobile experience) Would you consider using a phone to access VA.gov?
 - How has the VA communicated with you in the past? Which of these had links or referenced websites?
-- And last, before we look at the test pages, if you wanted to see your VA disability rating, what would you do? This can be online or otherwise: website, phone call, in-person... 
+- And last, before we look at the test pages, if you wanted to see your VA disability rating, what would you do? This can be online or otherwise: website, phone call, in-person...
 - And how would you find or review your dependents benefits?
 - (If no online path indicated) In what circumstances would you try to find this information online?
 
@@ -51,7 +51,7 @@ You mentioned you'd try to find your VA disability rating by: (cite how particip
 - Now you've logged in; what the main purpose of this page is? Describe what's going on here. Whose information is displayed?
 - What is the total combined rating displayed? Is this number more or less important that the individual ratings?
 - How do you feel about how the individual disability ratings are shown? Is the information OK? Would you add or remove anything?
-- What does service-connected mean? And how is that different from non-service-connected? From what you see, which individual disabilities are service-connected? 
+- What does service-connected mean? And how is that different from non-service-connected? From what you see, which individual disabilities are service-connected?
 - Can you see anything about how the VA determines this rating? What more would you like to know, if anything?
 - If you felt this information was wrong, do you see any way to follow-up and address the problem?
 - If you had a recent claim or appeal, what, if anything, does this page let you do?
@@ -66,7 +66,7 @@ We have a few more of these; let's go back to the sign-in again, then click the 
 - Now you see this page, what do you think happened, and what would you do next?
 
 We have one more like this one. Back to the sign-in to click the green button. (Click breadcrumb link to advance, the user clicks to advance to Error 3)
-- If you see this page, what do you think happened, and what would you do next? 
+- If you see this page, what do you think happened, and what would you do next?
 
 The final screen is a bit different. Back to the sign-in to click the green button. (Click breadcrumb link to advance, the user clicks to advance to Error 4)
 - If you see this when you sign-in, what is this page showing? If you felt something was wrong here, what would you do?

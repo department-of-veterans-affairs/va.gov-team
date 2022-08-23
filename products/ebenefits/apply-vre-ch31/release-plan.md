@@ -11,16 +11,16 @@
 
 ### Results:
 - Number of users: **N**
-  - **Participant 1:** 
-  - **Participant 2:**   
-  - **Participant 3:** 
-  - **Participant 4:** 
-  - **Participant 5:** 
-  - **Participant 6:** 
+  - **Participant 1:**
+  - **Participant 2:**
+  - **Participant 3:**
+  - **Participant 4:**
+  - **Participant 5:**
+  - **Participant 6:**
 - Number of bugs identified / fixed: x/x
 - Was the data submitted (if any) easy for VA to process?: ****
 - Types of errors logged: Invalid cookie
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? ****  
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? ****
 - If yes, what: **N/A**
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
@@ -30,13 +30,13 @@
 - Desired date range: **April 19, 2021**
 - How will you make the product available in production while limiting the number of users who can find/access it: **Whitelist and feature toggle for unauthenticated access**
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: **Abandonment rate < 20% , Error rate < 5%, etc**
-- Links to dashboard(s) showing "success criteria" metrics: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/README.md#kpis-okrs
+- Links to dashboard(s) showing "success criteria" metrics: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/README.md#kpis-okrs
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
 ### Stage A: Canary
 
-Test a small group; 5-10% increasing steadily 
+Test a small group; 5-10% increasing steadily
 
 #### Planning
 
@@ -48,7 +48,7 @@ _x% (500 users) (_Recommendation: select a percentage that targets ~500 users, o
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: TBD  
+- Types of errors logged: TBD
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ### Stage B: Moderate
@@ -77,7 +77,7 @@ _This feature may increase and/or decrease its percentage of traffic based on Ve
 - Post-launch KPI 2: xx Volume, pageviews
 - Post-launch KPI 3: xx lorem ipsum
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/release-plan.md]
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/release-plan.md]
 
 ### 1-week results:
 - Number of unique users: x
@@ -86,7 +86,7 @@ _This feature may increase and/or decrease its percentage of traffic based on Ve
 - Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 - If yes, what: lorem ipsum
 
 ### Check-ins:
@@ -100,14 +100,14 @@ _This feature may increase and/or decrease its percentage of traffic based on Ve
 - Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 - If yes, what: lorem ipsum
 
-## Post-launch Questions 
+## Post-launch Questions
 
-_To be completed once you have gathered your initial set of data, as outlined above._ 
+_To be completed once you have gathered your initial set of data, as outlined above._
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-1. Which of the assumptions you listed in your product outline were/were not validated? 
+1. Which of the assumptions you listed in your product outline were/were not validated?
 1. How might your product evolve now or in the future based on these results?

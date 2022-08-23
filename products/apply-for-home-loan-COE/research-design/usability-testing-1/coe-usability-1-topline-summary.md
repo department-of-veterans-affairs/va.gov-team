@@ -5,13 +5,13 @@
 
 ---
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md)
 
-- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/session-notes)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/session-notes)
 
-- [Certificate of Eligibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design)
+- [Certificate of Eligibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design)
 
 ---
 
@@ -63,7 +63,7 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
 - Three users said they would print their COE, and two said they would also save it to email to their lender
 
 ### It was not clear to all users that they needed to "apply" to make changes.
-- When asked to "make changes," all users **did** enter the form using the "apply" action link, though most felt the labeling was wrong 
+- When asked to "make changes," all users **did** enter the form using the "apply" action link, though most felt the labeling was wrong
 - Most users recognized they linked for the auto COE screen back to the form
 - Only one participant read the "make changes" text, but didn’t understand that they needed to "apply" to make the change
 
@@ -78,8 +78,8 @@ We scheduled 12 sessions beginning Monday, June 14; the last session was conduct
  - One user said having to upload a DD214 would cause them to abandon the form
 
 ### Participants had varying ideas of where they'd find their COE if they returned to VA.gov
-- Three participants said they go to the benefits records page 
-- One user expected a COE would be available in their logged-in profile 
+- Three participants said they go to the benefits records page
+- One user expected a COE would be available in their logged-in profile
 
 ## Summary
 The independent COE screen and the form itself seemed to function well for participants--but the connection between the two needs better established for users. Some content refinements and clarification would help on the intro screen and within the form. Users seem to expect VA-issued documents to be together on a "My documents" kind of screen; the existing "Benefits letters" page seem a natural home for a COE. The size and position of the sing-in widget obsured intro page content; only one user scrolled below it to see the subway map.

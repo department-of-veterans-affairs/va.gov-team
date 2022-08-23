@@ -1,24 +1,24 @@
-# Research Plan for eBenefits Rated Disabilities / View Dependents Usability Testing, November 2019  
+# Research Plan for eBenefits Rated Disabilities / View Dependents Usability Testing, November 2019
 
 **Background:** Rated Disabilities and View Dependents are slated to migrate from the eBenefits subdomain to VA.gov. These features (tools, screens) will undergo technical and UI redesign to conform to site IA and the VA.gov Design System (VADS). While the VADS is relatively complete regarding content presentation, the system is not set to easily accommodate tools or application functionality.
 
 During Discovery and Design, the current functionality of both Rated Disabilities and View Dependents--basically viewing tabular or listed info from EVSS--was translated to VADS structural elements and components. These screen layouts use two new pieces that were developed to align with a new "tools page" arrangement: a right-hand "help" sidebar, and light grey boxes or "cards" to list formerly tabular information. Missing from this configuration is the left-hand navigational sidebar.
 
 ## Table of Contents
-- [Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#goals)
-  - [Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#rated-disabilities)
-  - [View Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#view-dependents)
-  - [Tools Page Layout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#tools-page-layout)
-  - [Hypothesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#hypothesis)
-  - [Guiding Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#guiding-questions)
-  - [Success Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#success)
-- [Method](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#method)
-- [Participants and Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#participants-and-recruitment)
-- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#timeline)
-  - [Test Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#test-session)
-  - [Availability the Week of November 18](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#availability-the-week-of-november-18-all-times-are-est)
-- [Team Member Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#team-member-roles)
-- [Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#resources)  
+- [Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#goals)
+  - [Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#rated-disabilities)
+  - [View Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#view-dependents)
+  - [Tools Page Layout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#tools-page-layout)
+  - [Hypothesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#hypothesis)
+  - [Guiding Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#guiding-questions)
+  - [Success Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#success)
+- [Method](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#method)
+- [Participants and Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#participants-and-recruitment)
+- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#timeline)
+  - [Test Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#test-session)
+  - [Availability the Week of November 18](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#availability-the-week-of-november-18-all-times-are-est)
+- [Team Member Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#team-member-roles)
+- [Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#resources)
 
 ### Goals
 #### Rated Disabilities
@@ -50,7 +50,7 @@ It is likely the Rated Disabilities and View Dependents screens will test well a
 - Can users immediately find the relevant information on-screen?
 - Is information displayed in a clear and understandable manner (text and components)?
 - Are the "cards" and acceptable presentation of information?
-- Is it clear in the View Dependents screens what the card buttons will do? 
+- Is it clear in the View Dependents screens what the card buttons will do?
 - Given a particular user path, do users have a sense of where they are in the site?
 - Is there a clear recourse for users if they see inaccurate or missing information on-screen?
 - Do user expect their benefits information to be clumped together?
@@ -86,11 +86,11 @@ The target for research session is the week of November 18, 2019. Preparation in
 
 #### eBenefits Team Availability
 (Session times subject to Participants' availability)
-- Monday 11/18 
-- Tuesday 11/19 
-- Wednesday 11/20 
-- Thursday 11/21 
-- Friday 11/22 
+- Monday 11/18
+- Tuesday 11/19
+- Wednesday 11/20
+- Thursday 11/21
+- Friday 11/22
 - Monday 11/25
 - Tuesday 11/26
 
@@ -127,4 +127,4 @@ The target for research session is the week of November 18, 2019. Preparation in
 - [Research Readout]() (Not yet available.)
 
 #### This plan approved by Lauren Alexanderson 11/08/2019.
-[_Back to top_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#research-plan-for-ebenefits-rated-disabilities--view-dependents-usability-testing-november-2019)
+[_Back to top_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md#research-plan-for-ebenefits-rated-disabilities--view-dependents-usability-testing-november-2019)

@@ -1,11 +1,11 @@
-# VA Veteran Readiness & Employment (CH31)  
+# VA Veteran Readiness & Employment (CH31)
 _(previously Vocational Rehabilitaion and Employment)_
 
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Initial paths: https://xd.adobe.com/view/397eb9d2-4b41-4e8c-6d56-b47ae93c54f1-4f4f/screen/435bca4a-b907-41ee-9284-648cd2f5f114/Chapter-31-Screens-1
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
-- Staging EBN Apply: https://sqa.eauth.va.gov/wssweb/wss-common-webparts/mvc/ebn/verifyVRE1900Application 
+- Staging EBN Apply: https://sqa.eauth.va.gov/wssweb/wss-common-webparts/mvc/ebn/verifyVRE1900Application
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
 - Staging VA.gov link (unauth landing page): https://staging.va.gov/careers-employment/vocational-rehabilitation/
 - Staging VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
@@ -53,7 +53,7 @@ As a Veteran or Servicemember I need to understand and apply for CH31 benefits s
 ### User Goals
 
 - **Veterans:** Apply for Veteran Readiness & Employment benefits at the VA.
-- **Field:** Receive a higher volume of qualified applicants 
+- **Field:** Receive a higher volume of qualified applicants
 
 ### Business Goals
 
@@ -68,13 +68,13 @@ As a Veteran or Servicemember I need to understand and apply for CH31 benefits s
 ## Requirements and Constraints
 
 - Application should be available for all users: UNAUTH, LOA1, and LOA3
-- Excerpt from systems requirement doc: 
+- Excerpt from systems requirement doc:
 > In response to the receipt of a 28-1900, the system will display and check the following: Veteran or IDES (yes/no), service connected disability rating percentages and conditions (if 10% or more continue eligibility check); discharge other than dishonorable (continue eligibility check); served on or after September 16th 1940 (if yes to all four, Veteran is eligible to participate in an evaluation for chapter 31).
 
 ## Solution Approach
 
-- Translate form to VA.gov, prefill logged in user info, submit to VBMS and integrate with their new VRE API + system.  
-- Incorporate new orientation content for better qualify applicants.  
+- Translate form to VA.gov, prefill logged in user info, submit to VBMS and integrate with their new VRE API + system.
+- Incorporate new orientation content for better qualify applicants.
 
 ## Value Propositions
 ### User Value
@@ -115,23 +115,23 @@ _How will Veterans find this product? How will they know it exists?_
 
 ### Recommendations
 - TBD after launch
---- 
+---
 
 # Implementation Info
 
 ## Status
-May, 2020: Kickoff with platform   
-Dec 1 2020: e2e integration Testing, scaffold form component   
-Jan 2021: Collaboration with VRE API Team,   
-Feb 2021: Frontend complete, testing Orientation  
-March 2021: Finalize orientation content, collab cycle activities  
-April 2021: UAT, Launch requested for April 19, 2021  
+May, 2020: Kickoff with platform
+Dec 1 2020: e2e integration Testing, scaffold form component
+Jan 2021: Collaboration with VRE API Team,
+Feb 2021: Frontend complete, testing Orientation
+March 2021: Finalize orientation content, collab cycle activities
+April 2021: UAT, Launch requested for April 19, 2021
 
 ## Team
 - VA Executive Sponsor `*`: Jessica Bland, Alison Rosen
 - VA Policy Expert(s):
-- VA Digital Strategist(s) `*`: 
-- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov, **Matt Self** - matt.self@va.gov, **Sabrina Mohamed** - sabrina.mohamed@va.gov  
+- VA Digital Strategist(s) `*`:
+- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov, **Matt Self** - matt.self@va.gov, **Sabrina Mohamed** - sabrina.mohamed@va.gov
 - Product Manager: **Jason Wolf** - jwolf@governmentcio.com
 - Designer: **James Adams** - jadams@governmentcio.com
 - Frontend: **Jesse Cohn** - jesse.cohn@adhocteam.us
@@ -143,10 +143,10 @@ April 2021: UAT, Launch requested for April 19, 2021
 
 ## Resources and Documentation
 
-- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/discovery)
-- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design)
-- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/release-plan.md)
-- [Internal 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/508)
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31/discovery)
+- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31/research-design)
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/release-plan.md)
+- [Internal 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-vre-ch31/508)
 
 ## NOTES
 

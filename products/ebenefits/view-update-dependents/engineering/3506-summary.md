@@ -1,8 +1,8 @@
 ## 3506 - Validation Error Issues - Summary
-This is a more extensive explanation of issue #3 documented in the list found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/686FrontEndResearch.md)
+This is a more extensive explanation of issue #3 documented in the list found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/engineering/686FrontEndResearch.md)
 
 ### The Problem
-The current 686 is accompanied by a `21-686c-schema.json` file generated from `vets-json-schema`. In this file, marriages is an array containing data 
+The current 686 is accompanied by a `21-686c-schema.json` file generated from `vets-json-schema`. In this file, marriages is an array containing data
 related to all marriages a veteran has had, including location of marriage:
 ```
 "marriages": {
@@ -370,7 +370,7 @@ However the city schemas inside `21-686c-schema.json` looks like this
             },
 ```
 
-and this is where the issue arises. The discrepancy between what is on the frontend and what is in the schema file causes the frontend 
+and this is where the issue arises. The discrepancy between what is on the frontend and what is in the schema file causes the frontend
 to throw a validation error when attempting to submit the form. Evidence for `locationOfMarriage` being the root cause can be seen in the
 browser console:
 ```
@@ -393,9 +393,9 @@ browser console:
 
 ### Potential Solutions
 Some thoughts that come to mind for ways to move forward:
-1. Rebuild the location of marriage frontend field - We have to ask ourselves why the two schemas above diverge from one another. Though we have a `transformForSubmit` that can take care of 
+1. Rebuild the location of marriage frontend field - We have to ask ourselves why the two schemas above diverge from one another. Though we have a `transformForSubmit` that can take care of
 ensuring data matches up with the schema file, the frontend should really try and be consistent with what is in the schema file to begin with.
-2. Fix the current functionality - for some reason, on initial submission form page validation occurs before `transformForSubmit` is ever invoked. Page refresh, reentering data, 
+2. Fix the current functionality - for some reason, on initial submission form page validation occurs before `transformForSubmit` is ever invoked. Page refresh, reentering data,
 and then resubmitting seems to hit `transformForSubmit` as expected. An option could be to investigate this further and fix whatever is going wrong.
 
 ## The solution we went with
@@ -459,13 +459,13 @@ We then changed the schema file so that the first item inside the `oneOf` loop o
 
 ```
 
-This would show simply two text fields on the front end asking for simple text. 
+This would show simply two text fields on the front end asking for simple text.
 
 ### The validation error we didn't know about
 
 At the same time these schemas didn't match there was also another layer to this that made it so that simply fixing the schemas to match did not fix the problem. We began console logging the data being validated and found that the `locationOfMarriage` was inside a nested schema called `marriageHistory`, however when we console logged what was being validated it said that the data for `locationOfMarriage` was being validated against a different nested property called `marriages` inside the `marriageInformation` object. Inside this was a reference to locations that did not match what we updated the schemas to so the validation was still failing. To fix this we adjusted the `marriages` property to be an empty object and the validation then passed becasue by changing it to an empty object in effect we were not using this layer of validation anymore.
 
-The code we added looks like this - 
+The code we added looks like this -
 
 ```
 marriages: {

@@ -1,28 +1,28 @@
  # Power of Attorney features & user stories
  **VSA eBenefits Team | March 2020**
- 
+
  `Nick Wygonik, UI/UX Designer`
- 
+
  ---
 
 #### References
 [Epic: Migrate "View and Update My Representative"](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3672)
 
-[Github (#5535)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5535)  
+[Github (#5535)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5535)
 
-[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md) 
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/README.md)
 
 #### Goals
 Understand the functions and how they map to the user stories and experience seen in the Epic
 
 ## Power of Attorney features
 
-### View representative page 
+### View representative page
 -	Display current ‘Representative’
 -	Links to ‘Manage your Representatives’
 -	Link ‘Change your Representatives’
 
- > User stories: 
+ > User stories:
  > 2. View my representative,
  > 3. No representative displayed
 
@@ -46,8 +46,8 @@ Understand the functions and how they map to the user stories and experience see
  > 11. Print application
 
 ### Personal information
--	**VA file number**	
-      - Input field  
+-	**VA file number**
+      - Input field
       - Content describing VA #
       - Helper text for VA# format
       - Checkbox “I do not have a VA File #”
@@ -56,11 +56,11 @@ Understand the functions and how they map to the user stories and experience see
   -	Edit button: ‘change personal information’
   -	Contact information: Compensation and Pension Benefits link
   -	Address
-     -	Type: 
+     -	Type:
         -	Domestic
         -	International
         -	Military/overseas
-     -	Number & street 
+     -	Number & street
      -	City
      -	State
      -	Zip
@@ -78,7 +78,7 @@ Understand the functions and how they map to the user stories and experience see
     -	Effective date- MM/DD/YYYY
     -	CTA: Cancel
     -	CTA: Save
-    
+
 > User stories:
 > 6. Enter VA file number
 > 7. No VA fie number
@@ -98,7 +98,7 @@ Understand the functions and how they map to the user stories and experience see
        - Sort by alpha and numeric
        - CTA- selection
          - Auto fill forms 21-22 & 21-22a with veteran’s information
-       - Print tables 
+       - Print tables
        - Pagination
        - CTA- "change search criteria"
        - Insurance number
@@ -109,18 +109,18 @@ Understand the functions and how they map to the user stories and experience see
       - VA code # (022)
       - Address
     - Attorney information
-    - Information text- "Representative cannot accept online representation request."  
+    - Information text- "Representative cannot accept online representation request."
  -	**Find local representative**
     - Selected
        - VSO
        - Attorney
        - Claims agent
-       - Search 
+       - Search
          - Address
          - City
          - Zip
          - Distance
-       - Name 
+       - Name
 -	**Limit of consent**
 - Provides link to Section 7332 Title 38-U.S.C
 - Optional Restrictions checkbox
@@ -128,10 +128,10 @@ Understand the functions and how they map to the user stories and experience see
        - Alcoholism
        - Infection with HIV
        - Sickle cell anemia
-       
--	**Military service** 
+
+-	**Military service**
   - Auto populate
-  
+
 > User stories:
 > 12. Search for a representative
 > 13/15/16/17/18. Complete step’s location inputs
@@ -142,7 +142,7 @@ Understand the functions and how they map to the user stories and experience see
 > 23. Select representatives
 > 25. Confirm military service
 > 26. Enter insurance #
-  
+
 ### Error check
 -	Error checks
 -	Warnings

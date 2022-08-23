@@ -10,7 +10,7 @@ The Specially Adapted Housing Grant feature is a transactional form ([VA Form 26
 ## Problem Statement
 Veterans with special needs around the home can submit this form and get grant money for changes that need to be made.  This form needs to be brought into the VA.gov digital experience and be made available quickly and easily.
 
- 
+
 ## Desired User Outcomes
 - A Veteran should be able to come through and quickly and easily submit this form to be deemed eligible for money via grants.
 
@@ -45,8 +45,8 @@ Veterans with special needs around the home can submit this form and get grant m
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
-  - Key result: 
-  - Key result: 
+  - Key result:
+  - Key result:
 
 ### Analiytics or DOMO dashboard
 - TBD
@@ -54,20 +54,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Staging Users + Use cases
 - TBD
 
-### Roadmap (Now, Next Later)  
-**Now**    
-- Discovery  
-- Docuemntation  
-- TBD  
+### Roadmap (Now, Next Later)
+**Now**
+- Discovery
+- Docuemntation
+- TBD
 
-**Next**  
-- Integrate with LGY API for SAHG  
-- EStablish frontend  
-- TBD  
+**Next**
+- Integrate with LGY API for SAHG
+- EStablish frontend
+- TBD
 
-**Later**  
-- Test  
-- Deploy  
+**Later**
+- Test
+- Deploy
 - Learn
 - Repeat
 
@@ -75,7 +75,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Assumptions
 - This will present as a straightforward migration to VA.gov but curerntly uses an iframe within EBN that will need t obe integrated into an API for the downstream system (SASHA) to accept.
-- More details in the [/research-design/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG/research-design) folder
+- More details in the [/research-design/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-apply-SAHG/research-design) folder
 
 ## Solution Approach
 
@@ -89,7 +89,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Initiative | [Link to Initiative Brief](#)
 
---- 
+---
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -99,7 +99,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Launch Dates
 - *Target Launch Date*
   - tbd
-- *Actual Launch Date* 
+- *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
@@ -113,7 +113,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Key Decisions
 
 ---
-   
+
 ## Screenshots
 
 ### Before
@@ -131,7 +131,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Team Name: eBenefits Migration Team
 - GitHub Label: SAHG
-- Slack channel: 
+- Slack channel:
 - Product POCs: Jason Wolf / Matt Self
 - Stakeholders: Oscar Hines (LGY | Specially Adapted Housing)
 
@@ -140,21 +140,21 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Team Members
 
 <details>
- 
+
  - DEPO Lead: Matt Self
- - PM: Jason Wolf 
+ - PM: Jason Wolf
  - Engineering: Kathleen Crawford / Kevin Muisorski
  - Research/Design: James Adams / Candy Clark
- 
+
 </details>
 
 
 #### Stakeholders
 
 <details>
- 
+
 Oscar Hines (LGY | Specially Adapted Housing)
-  
+
 </details>
 
 ### Open Questions

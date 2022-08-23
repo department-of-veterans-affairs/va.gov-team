@@ -107,9 +107,9 @@ Please allow 30 minutes between sessions.
 - Others -- Pending
 
 ### Resources
-- [Discovery document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-discovery.md)
+- [Discovery document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/coe-design-discovery.md)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
 
 - [Session notes]() (Available at conclusion of research.)
 

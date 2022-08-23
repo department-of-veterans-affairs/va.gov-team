@@ -8,7 +8,7 @@
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
 - **Note:** These sessions will be recorded
 
 ## Intro
@@ -29,7 +29,7 @@ There are a few things I need to mention before we start:
 - (If user has disability rating) Would you mind telling us what your disability rating is?
 - How often do you visit the eBenefits site? How about VA.gov?
 
-OK, we'll be doing a couple of things today: 
+OK, we'll be doing a couple of things today:
 - First, well take a quick look at the VA.gov home page to get an idea of where you might look for the new feature
 - Then we'll go to the prototype of the new feature we're testing
 
@@ -49,7 +49,7 @@ OK, we'll be doing a couple of things today:
 User goes to prototype
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to CH36/28-8832 form wizard)
 - For the purpose of this test, we'll say you're interested in VA career and education benefits.
-- We'll be using made-up scenarios that may not necessarily apply to you. We'll be completing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine. 
+- We'll be using made-up scenarios that may not necessarily apply to you. We'll be completing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine.
 - Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real social security numbers--1234567890 should work in those cases.
 
 ### Task 1 / Chapter 36 wizard / 5 minutes
@@ -59,9 +59,9 @@ User determines if 28-8832 is the sole form to use to apply for career and educa
 
 ### Task 1A / Chapter 31 wizard / 5 minutes
 Users with a disability rating may jump to the 21-1900
-- So do you know why you were sent here? 
+- So do you know why you were sent here?
 - How is this different from the previous page/screen/form?
-- Please **look at this page and see if you qualify.** 
+- Please **look at this page and see if you qualify.**
 - (When user gets to the time-limit Q) Does this disqualify you? Let's say that it's been only two years.
 
 #### Things to look for:
@@ -75,12 +75,12 @@ Users with a disability rating may jump to the 21-1900
 ### Task 2 / Completing the form / 3 minutes
 User completes the 28-8832 or 28-1900 form
 - (If prompt needed) OK, looks like you qualify, so now **take the next step to apply for benefits.**
-- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.** 
+- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.**
 
 ### Task 2A / Completing the alternate form / 3 minutes
 User jumps to VR&E wizard, then the 28-1900 form
 - (If prompt needed) OK, looks like you qualify, so now **take the next step to apply for benefits.**
-- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.** 
+- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.**
 - (At end of form) How was this form different from the last form?
 
 #### Things to look for:
@@ -94,7 +94,7 @@ User jumps to VR&E wizard, then the 28-1900 form
 - If this were an actual application, what would expect to happen next?
 - What are your thoughts about the questions at the start of the form?
 - What on the site would you do/look at next?
-- Do you see differences between Chapter 36 and Chapter 31? 
+- Do you see differences between Chapter 36 and Chapter 31?
 - How could we make things more clear?
 
 ---

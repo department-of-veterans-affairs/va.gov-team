@@ -24,8 +24,8 @@ The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/VBA-28-
 - Part VI -- Signature of parent or guardian
 
 #### eBenefits current user flow
-![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/images/Chapter_36_Breakdown_1.png)
+![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/images/Chapter_36_Breakdown_1.png)
 
 #### Proposed VA.gov user flow
-![PCPG User flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/images/pcpg-workflows.JPG)
-![Proposed VA.gov user flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/images/Chapter_36_User_Paths_1.png)
+![PCPG User flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/images/pcpg-workflows.JPG)
+![Proposed VA.gov user flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/images/Chapter_36_User_Paths_1.png)

@@ -18,13 +18,13 @@
 
 ## Feature background
 - [Existing feature on VA.gov](https://www.va.gov/disability/view-disability-rating/rating)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-rated-disabilities)
 
 ### References used
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
 
 ### Tools used
-  
+
 - Adobe XD
 - Github markdown
 
@@ -51,7 +51,7 @@ This table includes links to the individual design work products.
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ### Tools used
-  
+
 - Adobe XD
 
 <br>

@@ -12,6 +12,6 @@ All appropriate headers must be passed in the request, and the associated ID for
 
 - From the [vets-api README.md](https://github.com/department-of-veterans-affairs/vets-api) there are [instructions](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md) on how to set up betamocks.
 
-- An overview on mockdata can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/evss-tcdr/mockdata.md) in this folder.
+- An overview on mockdata can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-rated-disabilities/evss-tcdr/mockdata.md) in this folder.
 
 - The `yml` recordings should be pushed to the [betamocks repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/evss).

@@ -90,7 +90,7 @@ As a Veteran in need of legal representation, I need to be able to submit a 21-2
 ## Solution Approach
 
 - Search Representative
-  - The Search Representative application is an integral part of the overall suite of representative work eBenefits will be managing. This application consists of the following features: 
+  - The Search Representative application is an integral part of the overall suite of representative work eBenefits will be managing. This application consists of the following features:
       - A step by step form that allows the uesr to input their search parameters
       - A results page that displays all data retrieved from an API request that used the search parameters
   - Proposed solution is to leverage [SchemaForm](https://react-jsonschema-form.readthedocs.io/en/latest/) outside of the vets-website formbuilder. Historically, the formbuilder is constrained to the configuration of a single config file and is limited by several things, most notably the inability to reliably access data from the vets-website redux store.
@@ -125,11 +125,11 @@ To view, search and start to engage with a representative
 
 ## Status
 
-**Nov 1 2019**  
-- Pre-discovery  
+**Nov 1 2019**
+- Pre-discovery
 
-**March 24, 2020**  
-- Kickoff with platform  
+**March 24, 2020**
+- Kickoff with platform
 
 **April 20, 2021**
 - Design intent
@@ -143,7 +143,7 @@ name :: string :: (could be the org name, could be a concatenation of the indivi
 city :: string ::
 state :: string ::
 zipCode :: string :: (our current dataset only contains ZIP codes for representatives, but we're seeing if this is available for orgs, too)
-phoneNumber :: string :: 
+phoneNumber :: string ::
 poaCodes :: array of strings :: (organizations will only have arrays of size 1, but representatives can be associated with multiple)
 ```
 Example response:
@@ -199,7 +199,7 @@ Example response:
 ## Resources and Documentation
 
 - Discovery
-- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design)
+- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA/research-design)
 
 ## NOTES
 

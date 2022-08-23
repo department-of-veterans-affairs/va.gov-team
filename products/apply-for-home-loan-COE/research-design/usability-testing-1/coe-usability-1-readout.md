@@ -1,11 +1,11 @@
-# Certificate of eligibility (COE) usability testing readout 
+# Certificate of eligibility (COE) usability testing readout
 **Digital Services Veterans Affairs (DSVA), VSA, Team Name**<br>
 
 James Adams ([email](mailto:jadams@governmentcio.com)), Candy Clark ([email](mailto:cclark@governmentcio.com)), 06/29/21
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md).
 
-## Research Goals 
+## Research Goals
 The goal of this usability study is to assess how easily participants locate and apply for a Certificate of Eligibility in a VA.gov-based tool/form, including:
 - Where do users expect to find the COE tool?
 - How do users feel about the “automatic COE” feature?
@@ -14,7 +14,7 @@ The goal of this usability study is to assess how easily participants locate and
 - Where does confusing language prevent users from understanding the form?
 - What other features or content would help users when they apply for a COE?
 
-## Research Methodology 
+## Research Methodology
 
 We conducted moderated task-based user research sessions via Zoom June 14-21, 2021. Each session was approximately 45 minutes long and consisted of a few warm-up questions, a wayfinding task on va.gov, and three tasks within a UXPin prototype. This allowed us to explore veteran expectations and understanding of the COE process and assess the usability of the form.
 
@@ -106,20 +106,20 @@ The independent COE screen and the form itself seemed to function well for parti
 
 ## Appendix
 ### Conversation guide
-View the [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md).
+View the [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md).
 
 ### Interview transcripts
-View the [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/session-notes).
+View the [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/session-notes).
 
 ### Tools used for Synthesis
-View the [Usability matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/COE1_Usability_Matrix_W1%20(1).xlsx)
+View the [Usability matrix](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/COE1_Usability_Matrix_W1%20(1).xlsx)
 
 ### Pages and applications used
 View the [prototype](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137584302/simulate/sitemap).
 
 ### Other supporting documents created
-- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE)
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE)
 - [Feature flow diagrams](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/)
 - [Mockups](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/comment/sitemap,comments)
-- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1)
 

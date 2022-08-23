@@ -25,12 +25,12 @@ Veterans, service members and surviving spouses need an easy, accessible way of 
 
 ### Business processes
 
-Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users can log into eBenefits and electronically submit the form. Many eBenefits users will have a COE automatically generated for download. Some lenders can generate a COE via VA's Web LGY system. 
+Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users can log into eBenefits and electronically submit the form. Many eBenefits users will have a COE automatically generated for download. Some lenders can generate a COE via VA's Web LGY system.
 
 <details>
   <summary><strong>Current COE business process</strong> (Click to show diagram)</summary>
-  
-  ![How to request a Certificate of Eligibility (COE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Process_Diagram_1.png)
+
+  ![How to request a Certificate of Eligibility (COE)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_Process_Diagram_1.png)
 </details>
 
 #### VA Form 26-1880
@@ -79,7 +79,7 @@ There are differing requirements for getting a VA loan depending on the nature o
 
 **National Guard or Reserve member**
 
-Depending on service details, there are various requirements. 
+Depending on service details, there are various requirements.
 - 6 years of service in the Reserves or National Guard
 - Submit NGB Form 22 (Report of Separation and Record of Service)
 - Submit NGB Form 23 (Retirement Points Statement)
@@ -106,35 +106,35 @@ Applying for (and receiving) A COE is part of the process for getting a VA direc
 
 ## Certificate of Eligibility feature
 
-[Screen caps of the exisitng eBenefits here are here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
+[Screen caps of the exisitng eBenefits here are here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/existing-product)
 
 #### eBenefits feature flow
 
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
-  
-  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Breakdown_1.png)
+
+  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_Breakdown_1.png)
 </details>
 
 #### Proposed VA.gov feature flow
 
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
-  
-  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Usecase_Workflows_1.png)
+
+  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_Usecase_Workflows_1.png)
 </details>
 
 #### Suggested IA placement
 
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
-  
-  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_VAgov_IA_Flows_1.png)
+
+  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_VAgov_IA_Flows_1.png)
 </details>
 
 #### Potential improvements
 
-- Move feature to VA.gov will improve overall form experience, and connect form to current content 
+- Move feature to VA.gov will improve overall form experience, and connect form to current content
    - Outline of form process
    - List of required documentation
    - Confirmation screen with next steps

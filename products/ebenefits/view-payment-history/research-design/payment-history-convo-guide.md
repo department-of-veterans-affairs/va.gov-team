@@ -8,14 +8,14 @@
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-usability-research-plan.md) 
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-usability-research-plan.md)
 - **Note:** These sessions will be recorded
 
 ## Intro
 Good morning/afternoon and thank you for joining us today. I have a few colleagues on the line who're helping-out by observing and taking notes. We're part of a team with the Department of Veterans Affairs that's moving some features off the old eBenefits site and over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful. Today, we're looking at the View Payment History feature.
 
 There are a few things I need to mention before we start:
-- The session should take about 20 minutes, but you can end it at any point--just let me know. 
+- The session should take about 20 minutes, but you can end it at any point--just let me know.
 - We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item on the list.
 - We're not testing **you** in any way--so there really are no right or wrong answers. We'd like to hear exactly what you think about what we show you so we can make improvements to VA.gov.
 - Please say what's on your mind--good and bad. I will not be offended by any opinions you express.
@@ -100,7 +100,7 @@ User goes to staging link
 - If this were an actual application, what would expect to happen next?
 - What are your thoughts about the questions at the start of the form?
 - What on the site would you do/look at next?
-- Do you see differences between Chapter 36 and Chapter 31? 
+- Do you see differences between Chapter 36 and Chapter 31?
 - How could we make things more clear?
 
 ---

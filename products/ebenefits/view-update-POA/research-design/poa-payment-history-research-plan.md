@@ -2,20 +2,20 @@
 
 #### VSA eBenefits Team / 21-22 & 21-22a Migration & Moderization
 
-#### Background 
+#### Background
 The VA’s eBenefits program enables Veterans and Caregivers to access and manage, benefits provided by the VA. The VSA eBenefit team [mission]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md).
 
 ##### View My Representative
-The current eBenefits “View My Representative” (VMR) overarching purpose was to digitize the VA's Power of Attorney forms 21-22 and 21-22a. There are three main features to the VMR: A form wizard or application process, selecting a representative to manage the disputed claim, and managing the elected representative. Although the process is not very complicated, it is important the veteran clearly understood that they are allicating their claim rights to a legal representative. 
- 
+The current eBenefits “View My Representative” (VMR) overarching purpose was to digitize the VA's Power of Attorney forms 21-22 and 21-22a. There are three main features to the VMR: A form wizard or application process, selecting a representative to manage the disputed claim, and managing the elected representative. Although the process is not very complicated, it is important the veteran clearly understood that they are allicating their claim rights to a legal representative.
+
 ##### View My Payments
-The current eBenefits "View My Payment History" (PH) consolidates VA payments history into a single application. There are two main features of PH. First, is Payments Made, and second, Payment Returned. 
+The current eBenefits "View My Payment History" (PH) consolidates VA payments history into a single application. There are two main features of PH. First, is Payments Made, and second, Payment Returned.
 
 Payment table headers:<br>
  - Date (of payment)
  - Type (of payment which office made a payment
  - Account (payable to)
- - Institution (payable to) 
+ - Institution (payable to)
  - Amount (paid or returned)
 
 
@@ -30,17 +30,17 @@ Payment table headers:<br>
 - [Resources](#resources)
 - [References](#references)
 
-### Goals        
+### Goals
 Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
 
 #### Power of Attorney
-- Document the veteran’s expectations of the tool. 
+- Document the veteran’s expectations of the tool.
   - Determine the tool’s intuitiveness.
   - Confirm the usage of the digital process compared to the paper form.
-  - Uncover when in the journey does the veterans select a representative. 
+  - Uncover when in the journey does the veterans select a representative.
     - After the VA has denied the claim.
     - After issues with VA bureaucracy.
-    - After the veteran has vetted a VSO or attorney. 
+    - After the veteran has vetted a VSO or attorney.
   - Document how veterans became aware of this benefit?
 - Discover veteran’s pain points.
   - Determine best location on VA.gov
@@ -49,12 +49,12 @@ Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.
   - Uncover more efficient methods to search for an attorneys and a VSOs
 - Assess the veteran’s level of comprehension.
   - Confirm veteran’s understanding of rights waived.
-  - Confirm attorney or VSO involvement with completing the form? 
+  - Confirm attorney or VSO involvement with completing the form?
   - Assess the helpfulness of the legal text.
     - Should/could we write better content for each step to increase veterans understanding of the legal statements?
  - Determine veterans awareness of what the next steps are in the denial process.
  - Determine if veterans can differentiate wizard’s steps and search functionality
- - Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.  
+ - Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.
 
 #### Payment History
 - Uncover what information is pertinent to the veterans.
@@ -67,7 +67,7 @@ Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.
 - Confirm the veterans verification of a payment through Payment History compared to their personal banking institution.
 - Determine best location on VA.gov
 - Confirm the veterans expectation of the table
-    - Determine if veterans are searching for a particular payment or a period 
+    - Determine if veterans are searching for a particular payment or a period
     - Confirm search features expected by the veterans
       - Document how the veterans would prefer search functionality
         - sort, filter, fuzzy math, suggested search results
@@ -75,26 +75,26 @@ Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.
        - Mobile vs desktop
      - Confirm the different veteran needs by device (mobile needs vs Desktop needs)
        - Does the data displayed change by device
-       - Does the use case change based on device 
+       - Does the use case change based on device
 
 ## Research Questions
 ### Power of Attorney
-- Is the wizard intuitive to the veterans? 
+- Is the wizard intuitive to the veterans?
 - Is the information presented clearly?
-- Do Veterans understand what the different Power of Attorney steps mean? 
+- Do Veterans understand what the different Power of Attorney steps mean?
 - Do users understand how to fill in each field?
-- What do users think will happen after they’ve submitted the form? 
-- What information do Veterans expect to see in the search results? 
-- How do users navigate the representative results? 
-- What other tools/sites do vets use to fill out the Power Of Attorney Form? 
-- How do veterans determine to employ a representative to dispute their claims? 
-- What other tools/sites do vets use to confirm payments made? 
+- What do users think will happen after they’ve submitted the form?
+- What information do Veterans expect to see in the search results?
+- How do users navigate the representative results?
+- What other tools/sites do vets use to fill out the Power Of Attorney Form?
+- How do veterans determine to employ a representative to dispute their claims?
+- What other tools/sites do vets use to confirm payments made?
 
 ### Payment History
-- What information do Veterans expect to see in the Payment tables? 
+- What information do Veterans expect to see in the Payment tables?
 - How do users navigate the Payment table?
 
-## Hypothesis   
+## Hypothesis
 ### Power of Attorney
 Our hypothesis is, the veteran will easily navigate through the wizard and efficiently locate, find, and select their representative, but the following issues may arise:
 - Clearly understanding the component's shift from a wizard to a search feature back to a wizard.
@@ -109,7 +109,7 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 - Participants: Veterans who utilize View My Representative and View My Payments features on eBenefits
 - Location: Remote, Zoom meeting coordinated by Perigeon.
 - Recruitment of interviewees: Perigeon
-- The Power of Attorney screens will be presented to a Veteran, and a moderator will ask questions from the conversation guide.   
+- The Power of Attorney screens will be presented to a Veteran, and a moderator will ask questions from the conversation guide.
 - The Payment History screens will be presented to a Veteran, and a moderator will ask questions from the conversation guide.
 
 ### Participants and Recruitment
@@ -118,18 +118,18 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
     - 14 participants will be scheduled by Perigeon
       - Our expectation is to interview 8-10 veterans.
       - We are anticipating 4-6 no-shows based on veterans showing up more during the stay at home order
-    - Must receive payments from the VA 
+    - Must receive payments from the VA
     - Must have a VSO or Attorney representative disputed claim.
     - All genders
     - Computer access and basic computer literacy
     - Include 3 to 4 Veterans Total Rated Disability of 80% or higher.
     - Sessions will run approximately 60 minutes.
-- We request that Perigeon provide a note taker for all the sessions. 
+- We request that Perigeon provide a note taker for all the sessions.
 
-### Timeline 
+### Timeline
 - **Interview dates:** April 21-24, 2020
 
-#### Pilot: 
+#### Pilot:
 - Date: 04/20/2020
 - Time: 12:00 - 1:00 ET
 - Participant: Derek Dyer
@@ -139,7 +139,7 @@ Availability: If applicable, when would you like sessions scheduled? <br>
 April 21-24, from 9:00 AM to 3:00 PM
 - _Note: Please leave a minimum of 30 minutes between sessions._
 
-#### eBenefits Team Availability: 
+#### eBenefits Team Availability:
 | Date    | Time (EST)         |
 | ------- | ------------------ |
 | 04 - 21 | 9:00 AM to 3:00 PM |
@@ -167,13 +167,13 @@ April 21-24, from 9:00 AM to 3:00 PM
 - Observers -- various as available
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA)
 
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/21-22-interview-conversation-guide.md)
 
-- [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes)
+- [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA/research-design/participant-notes)
 
-- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
 
 - [Research Synthesis]() (Available after research sessions.)
 
@@ -181,11 +181,11 @@ April 21-24, from 9:00 AM to 3:00 PM
 
 ### References
  - [VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
- 
+
  - [VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
- 
+
  - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval
 Reviewed and approved by Lauren Alexanderson on 04/14/2020
- 
+

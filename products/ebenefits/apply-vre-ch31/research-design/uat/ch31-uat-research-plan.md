@@ -13,7 +13,7 @@ We're requesting that Perigean recruit Veterans who need to apply for Chapter 31
 
 When we talk to Veterans during UAT, we will be up-front that we're testing a functioning form. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
 
-We will require users who need to complete a 28-1900 to receive VR&E benefits. If we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the 28-1900 form “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confidence in the new feature increases, we should be able to accelerate to full deployment. 
+We will require users who need to complete a 28-1900 to receive VR&E benefits. If we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the 28-1900 form “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confidence in the new feature increases, we should be able to accelerate to full deployment.
 
 ### Goals
 The goal of User Acceptance Testing (UAT) is to determine if the new VR&E form, wizard and orientation module are intuitive and functional for users needing to submit either form VA 28-1900.
@@ -39,7 +39,7 @@ Users will:
 - The user will step through the screening wizard (Optional)
 - The participant will review the orientation module and watch selected videos (Optional)
 - The user will proceed through the 28-8832 and submit
-- There will be a quick Q/A and wrap-up 
+- There will be a quick Q/A and wrap-up
 - Success will be measured as 80% of participants can successfully submit their 28-8832
 
 ### Participants & recruiting
@@ -93,6 +93,6 @@ Please allow 30 minutes between sessions.
 - Observers -- various as available
 
 ### Resources
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-convo-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/research-design/uat/ch31-uat-convo-guide.md)
 
 ---

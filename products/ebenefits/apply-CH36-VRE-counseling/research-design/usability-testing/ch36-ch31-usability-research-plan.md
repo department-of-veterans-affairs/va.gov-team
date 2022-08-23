@@ -8,7 +8,7 @@
 #### Background
 The Chapter 31 program (CH31), Veteran Readiness and Employment (VR&E), provides counseling and planning to eligible Veterans and service members with **service-connected disabilities** to help them prepare for, obtain, and maintain suitable employment or achieve independence in daily living.
 
-The Chapter 36 (CH36) program, Personalized Career Planning and Guidance (PCPCG), provides career, educational and adjustment counseling to Veterans, service members or **their qualifying dependents.** 
+The Chapter 36 (CH36) program, Personalized Career Planning and Guidance (PCPCG), provides career, educational and adjustment counseling to Veterans, service members or **their qualifying dependents.**
 
 The eBenefits team is moving Chapter 31 and Chapter 36 features from the eBenefits site to VA.gov. Primarily, this involves rebuilding the digital versions of VA forms 28-1900 and 28-8832 (CH36). These will be reconstructed on VA.gov using the site's form system conventions. CH31 and CH36 benefits overlap a bit, creating confusion for some users. At VBA's request gating/screening wizards have been developed to help Veterans decide which form is best for them.
 
@@ -74,8 +74,8 @@ Recruit for 5 fulfilled sessions using the following criteria:
 | September 29, 2020 | 9 AM to 5 PM |
 | September 30, 2020 | 9 AM to Noon |
 
-- Please leave 30 minutes between sessions 
-- Please do not exceed 3 sessions a day 
+- Please leave 30 minutes between sessions
+- Please do not exceed 3 sessions a day
 
 ### Team members/roles
 - James Adams | email: jadams@governmentcio.com -- Moderator, researcher
@@ -94,9 +94,9 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - Observers -- various as available
 
 ### Resources
-- [Project brief for Personalized Career Planning & Guidance (Chapter 36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling)
+- [Project brief for Personalized Career Planning & Guidance (Chapter 36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/apply-CH36-VRE-counseling)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-convo-guide.md)
 
 - [CH31 prototype](https://preview.uxpin.com/e291c4ac8956d804d774160cdb82ecb724044689#/pages/129526673)
 
@@ -104,7 +104,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 - [CH36 form flow diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
 
-- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-topline-summary.md)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-topline-summary.md)
 
 - [Research synthesis]() (Available at conclusion of research.)
 
@@ -112,16 +112,16 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 ### References
 
-- [Personalized Career Planning & Guidance: Inbound User Flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/ch36-user-flows.md)
+- [Personalized Career Planning & Guidance: Inbound User Flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/ch36-user-flows.md)
 
 - [CH36 mockups--NOTE: Superseded by prototypes](https://xd.adobe.com/view/d37b343f-1a48-4aee-782d-2a78d6109478-a54a/)
 
 - [CH31 user flow diagrams](https://xd.adobe.com/view/14859995-b720-4745-9fb8-35ac1edb00a5-41d6/)
 
 - [CH36 user flow diagrams](https://xd.adobe.com/view/f2e4cdec-1fa1-42ab-5cbf-e2a3c74c6663-84d5/)
- 
+
 - [CH31/CH36 wizard flowcharts](https://xd.adobe.com/view/879cf230-f3ce-4204-79ba-c3453b0bcc09-f1ad/)
- 
+
 ---
 
 #### Approval

@@ -8,14 +8,14 @@
 ### Setup
 - Slack will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/uat/ch31-uat-research-plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/research-design/uat/ch31-uat-research-plan.md)
 - **Note:** These sessions will not be recorded
 
 ## Intro
 Good morning/afternoon and thank you for joining us today.
 
 I have a few things I need to mention before we start:
-- The session should take about 20 to 30 minutes for the form itself, but it could take longer if you decide to go thorought the orientation portion; in either case, you can stop any point--just let me know. 
+- The session should take about 20 to 30 minutes for the form itself, but it could take longer if you decide to go thorought the orientation portion; in either case, you can stop any point--just let me know.
 - If find that something is confusing, or you run into an issue or problem, please let us know; we are constantly looking for ways to improve our features and tools
 - We will be using a live VA form--the 28-1900. You are not obligated to complete this form--it won't be sent to VA to until you go all the way through and click the submit button.
 - We'll come back ot this in a moment, but in this call you'll be entering or reviewing personal information.
@@ -29,7 +29,7 @@ You'll be using a new feature we have on VA.gov: VA form 28-1900. This is the on
 - Do you (or your sponsor) have a disability rating?
   - If the user is not one of the above, end the session.
 - We'll need to log into VA.gov to complete the form.
-  - Can you confirm for me that you have an ID.me account? And do you know your username and password? 
+  - Can you confirm for me that you have an ID.me account? And do you know your username and password?
   - If not: Are these easy to get? Could get you them?
   - If the user can not remember or retrieve their login credentials, end the session.
 - During this call, I'll be helping you submit a form to apply for CH31 benefits. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form with me?
@@ -62,8 +62,8 @@ OK, please share your screen, and we'll get started.
 - Review the VR&E orientation. Does this provide a better understanding of VR&E benefits?
   - [ ] **UAT item:** User navigates orientation to form button (optional)
   - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
-- Review the steps to apply for CH31 benefits. 
-  - [ ] **UAT item:** User clicks green button to enter form  
+- Review the steps to apply for CH31 benefits.
+  - [ ] **UAT item:** User clicks green button to enter form
 - Review/enter claimant information.
   - [ ] **UAT item:** Screen presents correct user data
 - Review/enter contact information.
@@ -81,7 +81,7 @@ OK, please share your screen, and we'll get started.
 ## Wrap-up
 That is the end of what we're testing. Do you have any questions or comments about the form or the process?
 
-(We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user.) 
+(We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user.)
 
 ## Closing
 Thank you so much for taking the time to run through the new 1900! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!

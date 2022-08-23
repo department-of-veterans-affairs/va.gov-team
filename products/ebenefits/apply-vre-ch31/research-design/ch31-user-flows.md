@@ -15,14 +15,14 @@ Users can apply for VR&E benefits by submitting VA Form 28-1900 by mail. Online,
 
 #### VA Form 28-1900
 The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf) as a fillable PDF. The form is just two pages long and includes:
-- Claimant biographical information 
+- Claimant biographical information
 - Claimaint address and other contact information
 - Moving address for those relocating in the next 30 days
 - Years of education
 - Signature
 
 #### eBenefits current user flow
-![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/images/Chapter_31_Breakdown_1.png)
+![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/research-design/images/Chapter_31_Breakdown_1.png)
 
 #### Proposed VA.gov user flow
-![VR&E User flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/images/Chapter_31_User_Paths_1.png)
+![VR&E User flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/research-design/images/Chapter_31_User_Paths_1.png)

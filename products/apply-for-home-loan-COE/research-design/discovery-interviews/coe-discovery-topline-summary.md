@@ -109,7 +109,7 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 ## Other notes
 - Several participants noticed the View Payments link; three said they would reference payment history if/when making changes to their DD info
 - All participants except one said they would like a chat function available for inquiries or confirmation; one user in particular, said they did not want to wait for call center hours if there was suspected fraud, and a chat box would provide an immediate response
-- A generational split was evident in several cases: 
+- A generational split was evident in several cases:
   - Two younger users joined the call using their phones, expecting to review the feature on mobile
   - Younger users would use a bank app/website to find their bank info, older users would review a check or statement to find the info
   - The two youngest participants expected a logged-in profile would have the DD feature; the older participants looked for dedicated links or pages
@@ -128,7 +128,7 @@ We scheduled 10 sessions beginning March 2; the last session was conducted March
 All participants said they started the home-buying process with a general awareness of VA home loan benefits. They generally cited word-of-mouth and the experiences of friends and family as their initial source. A couple of participants remember the subject of home loan benefits being covered during out-processing (i.e. TAP) presentations. A few participants remember searching eBenefits or VA.gov for information.
 
 ### 2. Participants were uniformly satisfied with their VA home loan process
-It was very interesting (and heartening) that most all participants felt their VA loan experience was problem-free, many saying it was quick and easy. Those who mentioned a timeframe said it took just a month (or two) to from start to closing. Many mentioned they relied on their lender or realtor to guide them through the steps. It's possible that since their experiences ended well (a new home), participants' recollections are shaded toward the positive. 
+It was very interesting (and heartening) that most all participants felt their VA loan experience was problem-free, many saying it was quick and easy. Those who mentioned a timeframe said it took just a month (or two) to from start to closing. Many mentioned they relied on their lender or realtor to guide them through the steps. It's possible that since their experiences ended well (a new home), participants' recollections are shaded toward the positive.
 
 ### 3. Participants had varying experiences with obtaining a COE, though none were problematic
 Participants had varying (or no) recollections of their experience applying for a Certificate of Eligibility. A few did remember specifics: a couple went to eBenefits and got the automatic-COE, one searched for the form online then mailed-in the application. The remainder said it just seemed to be "part of the paperwork," or that their lender must've taken care of getting the COE.
@@ -175,10 +175,10 @@ Most participants felt it was very important to work with lenders and/or realtor
 - Determine path for integration into other VA.gov features (My Docs, My VA, Claim Status Tool)
 
 ### Resources
-- [Certificate of Eligibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design)
+- [Certificate of Eligibility hub page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design)
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md)
 
 ---

@@ -6,7 +6,7 @@ This file is to house the research findings from ticket #2358
 
 
 ## Current Process Flow
-When a user creates a new 686 form, the system makes an MVI call to retrieve the user's information and pre-fill data on the form where applicable/available.  The form is then saved using our in_progress_forms process until the user has completed the form and is ready to submit.  
+When a user creates a new 686 form, the system makes an MVI call to retrieve the user's information and pre-fill data on the form where applicable/available.  The form is then saved using our in_progress_forms process until the user has completed the form and is ready to submit.
 
 *Saved to Redis and then a Sidekiq job is created*
 
@@ -14,10 +14,10 @@ Upon submitting the form, the system retrieves the user's current information fr
  >     endpoint:/wss-686-services-web-2.6/rest/load/retrieve
  >     method:get
 
-[See here for an example of json data received from EVSS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/686-evss-form-data.md)
+[See here for an example of json data received from EVSS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/engineering/686-evss-form-data.md)
 
-The system then takes the parsed form data received from the front end, and merges it with the existing veteran data received from EVSS in the previous step.  
-[See here for examples of json data received from the UI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/686-form-data.md)
+The system then takes the parsed form data received from the front end, and merges it with the existing veteran data received from EVSS in the previous step.
+[See here for examples of json data received from the UI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/engineering/686-form-data.md)
 
 *Find out more about VNP and in flight forms*
 
@@ -38,9 +38,9 @@ And finally. if all those steps are successful, the system calls the EVSS form 6
 >      method:post
 
 ## Additional Notes
-* Use BGS VNP Services to establish claim information in BGS using VNP Services by populating the VNP tables in order to facilitate the processing by the VNP component of the Rules Based Processing System (RBPS) 
+* Use BGS VNP Services to establish claim information in BGS using VNP Services by populating the VNP tables in order to facilitate the processing by the VNP component of the Rules Based Processing System (RBPS)
 
-* VNP workspace = oracle tables - "snapshot of what the veteran has asked for" - staging area for transactional data that must be further processed before being accepted to Corp (*from [initial notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/discovery/initial-notes.md))
+* VNP workspace = oracle tables - "snapshot of what the veteran has asked for" - staging area for transactional data that must be further processed before being accepted to Corp (*from [initial notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/discovery/initial-notes.md))
 
 * RBPS leverages these in-flight tables instead of the authoritative data for 686 (*from [526ez discovery notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2959be3a76d3b8b123b8a7977814c4518b186428/products/disability/526ez/discovery/evss-discovery-notes.md))
 
@@ -50,7 +50,7 @@ And finally. if all those steps are successful, the system calls the EVSS form 6
 To retrieve a veteran's dependents, vets-api will be using the BGS ClaimantService/findDependentsByPtcpntId.  More information and example response data can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/BGS/ClaimantService)
 
 ## Lighthouse BGS
-vets-api will leverage the current lighthouse-bgs implementation to integrate with BGS. 
+vets-api will leverage the current lighthouse-bgs implementation to integrate with BGS.
 
 _*Note: Remember to bump the gem version when updating this repo_
 

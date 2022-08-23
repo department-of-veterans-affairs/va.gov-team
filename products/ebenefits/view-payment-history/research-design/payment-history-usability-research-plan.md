@@ -19,7 +19,7 @@ In its current implementation, VPH is a pair of filtered tables that show VA Com
 - What changes would help viewing data in mobile formats (small viewports only)?
 
 #### Hypotheses
-During discovery, the users we talked to said they usually used their own bank apps to check VA payments, and they were satisfied with the desktop and mobile presentations. We did not talk to anyone without a bank checking account. The presentation of View Payment History was designed to align with commercial banking apps. 
+During discovery, the users we talked to said they usually used their own bank apps to check VA payments, and they were satisfied with the desktop and mobile presentations. We did not talk to anyone without a bank checking account. The presentation of View Payment History was designed to align with commercial banking apps.
 
 Our hypothesis is that View Payment History will present most of the information Veterans expect in a generally accptaple manner. Some users will want more advanced search and filter options; some may want additional columns.
 
@@ -62,8 +62,8 @@ The current timeline is in flux pending the resolution of last-mile development 
 | --- | --- |
 | TBD | 9 AM to 5 PM |
 
-- Please leave 30 minutes between sessions 
-- Please do not exceed 3 sessions a day 
+- Please leave 30 minutes between sessions
+- Please do not exceed 3 sessions a day
 
 ### Team members/roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
@@ -81,7 +81,7 @@ The current timeline is in flux pending the resolution of last-mile development 
 - Observers -- various as available
 
 ### Resources
-- [Project brief for View Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history)
+- [Project brief for View Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-payment-history)
 
 - [Conversation guide]() (Available soon.)
 
@@ -98,12 +98,12 @@ The current timeline is in flux pending the resolution of last-mile development 
 - [Research synthesis]() (Available at conclusion of research.)
 
 ### References
- 
+
  - [View Payment History user flow diagrams](https://xd.adobe.com/view/44399930-6143-4192-6e80-99a0566c4092-3208/)
- 
- - [View Payments: Discovery Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md)
- 
- - [eBenefits Payment History comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md)
+
+ - [View Payments: Discovery Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/design-discovery.md)
+
+ - [eBenefits Payment History comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-comp-analysis.md)
 
 ---
 
