@@ -127,7 +127,7 @@ We’re almost at the end of our time. Before we close,
 
 * [notetaker] do you have anything you wanted to follow up on?
 * [Participant], do you have any questions for us?
-* We may have follow-up questions. What is the best way to reach you? 
+* [Participant], we may have follow-up questions. What is the best way to reach you? 
 
 Thank you so much for sharing your feedback. It will help us make the CMS work better for all VBA editors, so that you can get Veterans the information they need. 
 
