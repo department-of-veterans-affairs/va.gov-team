@@ -48,6 +48,7 @@ The results of this research will be used to develop recommendations for OCTO-DE
 **Facility staff role:** 
 * What services are offered at a facility(ies) and how do Veterans access them?
 * How are Public Contact staff involved in helping Veterans access a facility’s services?
+
 **Web editor role:**
 * How do editors get their facility’s operating status and visitor and event information to put on the website? How often do they update this information?
 * What is the process for publishing situational updates?
