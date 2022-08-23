@@ -17,7 +17,7 @@ The primary goal of this research is to understand how the representation/Power 
 - How does an organization or individual become a VSO?
 - How does a Veteran or Service Member find a VSO?
 - Do Veterans/Service Members contact representatives for an “interview” or consultation before making a selection?
-- Do representatives accept all appointments, or are there limits 
+- Do representatives accept all appointments, or are there limits
 - Do Veterans/Service Members use VA Form 21-22/a? If so, do they typically submit online or on paper?
 - How do representatives interact with Veterans/Service Members (phone, email, in person, etc)?
 - What are the most common issues VSOs represent?
@@ -50,7 +50,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
-- At least one person with a disability rating of 80% or greater --> 
+- At least one person with a disability rating of 80% or greater -->
 
 **Good to have for participants**
 - At least 1 representative from a federally-chartered VSO
@@ -103,24 +103,24 @@ We are targeting July 21 - August 3, subject to VSO availablilty.
 - Others -- Pending
 
 ### Resources
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-convo-guide.md)
 
-- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews#:~:text=.%E2%80%8A.-,session-notes,-Create%20vso-discovery)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA/research-design/vso-discovery-interviews#:~:text=.%E2%80%8A.-,session-notes,-Create%20vso-discovery)
 
-- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-topline.md)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-topline.md)
 
-- [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1628786622604/103eacbbea8770ab31d6cf61a7e3c51be0f3403f?sender=ude9e1e23baafa8f9953e3669) 
+- [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1628786622604/103eacbbea8770ab31d6cf61a7e3c51be0f3403f?sender=ude9e1e23baafa8f9953e3669)
 - [Notes matrix](https://github.com/department-of-veterans-affairs/va.gov-team/raw/41d945715194421535990f2572acf624b761201d/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/VSO%20Discovery%20Interview%20Notes.xlsx)
 
 ### References
 
-- [View and update representative project summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md)
+- [View and update representative project summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/README.md)
 
-- [POA Comparative Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/POA-competitive-analysis.md)
+- [POA Comparative Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/POA-competitive-analysis.md)
 
-- [Veteran Discovery Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
+- [Veteran Discovery Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
 
-- [Proposed Veteran workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/poa-user-flows.md)
+- [Proposed Veteran workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/poa-user-flows.md)
 
 ---
 

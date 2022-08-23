@@ -21,7 +21,7 @@
 
 ### Discovery
 
-[PCPG (Chapter 36) discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/ch36-user-flows.md)
+[PCPG (Chapter 36) discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/ch36-user-flows.md)
 
 [PCPG hub page on VA.gov](https://www.va.gov/careers-employment/education-and-career-counseling/)
 
@@ -44,7 +44,7 @@
 - [XD Reference diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
 
 **August 26, 2020**
-- Wizard screen H2 headers and paragraph text revised 
+- Wizard screen H2 headers and paragraph text revised
 
 **August 21, 2020**
 - Wizard text updated per content review

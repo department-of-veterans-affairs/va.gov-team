@@ -2,7 +2,7 @@
 
 `Prepared by: Aricka Lewis, Ad Hoc, VSA`
 
-[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/session-notes)
+[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/session-notes)
 
 [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1581622373622/173449c7655d3f34a3ee81cab0afee14420dea59)
 
@@ -54,7 +54,7 @@ No major pain points were observed, but participants did stumble on the followin
 
 **Users will require clarification or guidance at various points; The upload feature may create some confusion/frustration with its position at the end of the form.**
  - There was no confusion around how to upload, but some participants did question what types of documents they would need
- - Regarding birth certificate upload: 
+ - Regarding birth certificate upload:
  > “If it is for the stepchild where you have to put in the SSN. The VA could just run the SSN and see if the person is the mother or father. If I didn’t have it then it would just hold everything up.”
 
 **Users may not be immediately aware of the change in workflow "chapters" as they navigate the form.**
@@ -63,7 +63,7 @@ No major pain points were observed, but participants did stumble on the followin
 **Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.**
  - A majority of participants questioned why they needed to provide some information to the VA (e.g. providing address of ex-spouse)
  - All participants completed the remove flow without hesitation or confusion
- 
+
 ## Notes
 **A few participants had been through the process of adding or managing their dependents but were not familiar with the term 21-686.**
 > “...it was self-explanatory whereas the paper form I was not sure. I had to have the DAV assist with submitting the form.”

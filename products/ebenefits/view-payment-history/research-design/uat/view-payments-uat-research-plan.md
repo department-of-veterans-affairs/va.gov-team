@@ -37,11 +37,11 @@ Users will:
 - The user will review their payment history and confirm it's correct and up-to-date
 - If there is more than one six payments, the participant will be asked to locate a payment from an older date (necessitating a review of other table "pages")
 - If there are retuned payments, the user will be asked to confirm these are accurate and up-to-date
-- There will be a quick Q/A and wrap-up 
+- There will be a quick Q/A and wrap-up
 - Overall success will be measured as 100% of participants confirming their information is complete and accurate
 
 ### Participants & recruiting
-Participants will be recruited via Perigean. The study will require Veterans who receive C&P and/or EDU payments. Participants must be authenticated to LOA3 (identity verified), and need ID.me credentials to log in. 
+Participants will be recruited via Perigean. The study will require Veterans who receive C&P and/or EDU payments. Participants must be authenticated to LOA3 (identity verified), and need ID.me credentials to log in.
 
 Recruit for a **minimum of 4** fulfilled sessions using the following criteria:
 
@@ -55,7 +55,7 @@ We'd like to split the participants into two groups: mobile and laptop/desktop s
 - Do you receive either C&P or EDU payments from VA (pass = yes)
 - Do you have an ID.me login (pass = yes)
 - Are you LOA3 (identity verified) on VA.gov? (pass = yes)
-   - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
+   - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
 
 #### Good to have for participants
 
@@ -103,6 +103,6 @@ Please allow 30 minutes between sessions.
 - Observers -- various as available
 
 ### Resources
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-convo-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/uat/view-payments-uat-convo-guide.md)
 
 ---

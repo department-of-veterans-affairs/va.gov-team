@@ -38,8 +38,8 @@ This table includes links to the individual research studies.
 
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| Usability testing  | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependency-verification-research-findings.md) | --- |
-| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/UAT/dep-ver-uat-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/UAT/dep-ver-uat-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/UAT/dependency-verification-UAT-summary.md) | --- |
+| Usability testing  | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/dependency-verification-research-findings.md) | --- |
+| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/UAT/dep-ver-uat-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/UAT/dep-ver-uat-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/UAT/dependency-verification-UAT-summary.md) | --- |
 
 ### References used
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
@@ -51,7 +51,7 @@ We used early versions of research templates. The links below are to the most cu
 - [Findings template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md)
 
 ### Tools used
-  
+
 - Github MD
 - Adobe XD (for diagramming/prototyping)
 
@@ -80,7 +80,7 @@ This table includes links to the individual design work products.
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ### Tools used
-  
+
 - Adobe XD
 - Github markdown
 
@@ -98,9 +98,9 @@ As of April 2022, this feature was blocked by technical deployment issues.
 <br>
 
 ## Other feature documentation
-- [COE UX/UI/frontend punchlist MAR 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-punchlist.md)
-- [COE changelog JUL 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
-- [eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
+- [COE UX/UI/frontend punchlist MAR 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/coe-design-punchlist.md)
+- [COE changelog JUL 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
+- [eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/existing-product)
 
 <br>
 

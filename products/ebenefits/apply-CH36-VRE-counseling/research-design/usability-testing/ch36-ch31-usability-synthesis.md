@@ -3,7 +3,7 @@
 
 `James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
 
-[CH36/CH31 usability testing research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
+[CH36/CH31 usability testing research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
 
 ---
 
@@ -82,7 +82,7 @@ Three users navigated to the CH31 wizard. They were asked, "Why were you were se
 ### 4. What challenges prevent users from quickly and accurately completing the forms?
 No participants actually qualified for CH36 benefits since all were too far removed from their separation dates. At that point in the wizard they were told, "Seems you don't qualify according to our questions; but what if you were within a year of separation?"
 
-- Users easily navigated through the 28-8832 (CH36) 
+- Users easily navigated through the 28-8832 (CH36)
 - All participants who went to the 21-1900 (CH31) were all confused by the "years of education" question and wanted clarification
 - Participants paused on the he communication options screen; all users answered reading only the questions themselves
 - Users generally felt both forms were "straight-forward" and easy to complete
@@ -90,7 +90,7 @@ No participants actually qualified for CH36 benefits since all were too far remo
 ## Additional insights
 - All but one participant opted to "sign-in" to proceed
 - A few users felt to intro screen copy wasn't informative enough
-- Some users wanted shorter, better defined "bullet points" to outline the process 
+- Some users wanted shorter, better defined "bullet points" to outline the process
 - Users were uniformly tripped-up by language around timeframes; e.g. the "have you been discharged in the last year" question in the wizard; users wanted to know if this meant 2019 or within the last 12 months
 - Users who were asked to make an address change expected (but were not hopeful) that the change would populate all VA systems
 - Several users wanted email confirmation that their forms were submitted
@@ -111,10 +111,10 @@ No participants actually qualified for CH36 benefits since all were too far remo
 ## Next steps
 1. Review recommendations with team.
 2. Share research finding with business stakeholders.
-3. Work with content team to refine, clarify and minimize introduction text and wizard questions, along with form labels and instructions. 
+3. Work with content team to refine, clarify and minimize introduction text and wizard questions, along with form labels and instructions.
 
 ## Appendix
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7c6f553b42179c0ada329f6e5eb2070aaa8989ad)
 

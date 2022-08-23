@@ -7,7 +7,7 @@
 
 ### Background
 
-Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dependents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, children leaving school and a few other circumstances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA. 
+Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dependents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, children leaving school and a few other circumstances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA.
 
 To short circuit this issue, the eBenefits team has created an intercept modal residing on the View Dependents page. Veterans must log in to see this screen, and when they navigate to the dependents page, a check will occur against a notification date. The modal will prompt the Veteran to review the VA record of their dependents, and will be asked to add or remove dependents if necessary.
 
@@ -52,11 +52,11 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 
 #### Staging Users
 Test user 108 is reserved for this test.
-- 	vets.gov.user+108@gmail.com	
+- 	vets.gov.user+108@gmail.com
 - 	295SsNrLgPv5
 
 Test user 50
-- vets.gov.user+50@gmail.com	
+- vets.gov.user+50@gmail.com
 - 308SsNrLgPv5
 
 
@@ -67,7 +67,7 @@ Test user 15 is reserved for this test.
 
 #### Resetting cookies
 Page in question: https://staging.va.gov/view-change-dependents/view/
-To reset the modal proc, "X" out of the modal and on the View Dependents page itself, right click and toggle the  true/false for the diary entry at `retrieveDiaries` under "Application" by right clicking and selecting "Edit 'Value'" then click away, and refresh. 
+To reset the modal proc, "X" out of the modal and on the View Dependents page itself, right click and toggle the  true/false for the diary entry at `retrieveDiaries` under "Application" by right clicking and selecting "Edit 'Value'" then click away, and refresh.
 
 ### Participants and recruitment
 
@@ -119,8 +119,8 @@ Recruit 8 for 5 fulfilled sessions using the following criteria:
 
 
 - Schedule sessions as 30-minute blocks
-- Please leave at least 30 minutes between sessions 
-- Please do not exceed 3 sessions a day 
+- Please leave at least 30 minutes between sessions
+- Please do not exceed 3 sessions a day
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator
@@ -140,22 +140,22 @@ Recruit 8 for 5 fulfilled sessions using the following criteria:
 
 
 ### Resources
-- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification)
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md)
 
-- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/Dependency_Verification_Notes_Matrix%20(1).xlsx)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/Dependency_Verification_Notes_Matrix%20(1).xlsx)
 
-- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependency_verification_topline.md)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/dependency_verification_topline.md)
 
-- [Research synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependency-verification-research-findings.md) 
+- [Research synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/dependency-verification-research-findings.md)
 
 ### References
 
 - [Mockups](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/screen/a6e29c96-2964-497f-befc-23dcd9620651)
 
 - [Feature flow diagrams](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/)
- 
+
 ---
 
 #### Approval

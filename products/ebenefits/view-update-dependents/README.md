@@ -3,17 +3,17 @@
 - [Incident Response](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/dependency-claims/incident-response.md)
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
-- Old links ([Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)): 
-  - [View Dependents](http://www.ebenefits.va.gov/ebenefits/dependents)  
-  - [Update Dependents](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  
-- Staging links: 
+- Old links ([Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)):
+  - [View Dependents](http://www.ebenefits.va.gov/ebenefits/dependents)
+  - [Update Dependents](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)
+- Staging links:
   - [View dependents](https://staging.va.gov/disability/view-dependents/)
   - [Add or change dependents](https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction)
-- VA.gov link: 
+- VA.gov link:
   - [Static landing page for dependents](https://www.va.gov/view-change-dependents)
   - [View dependents](https://www.va.gov/view-change-dependents/view)
   - [Add or change dependent](www.va.gov/view-change-dependents/add-remove-form-686c/)
-- [Current Mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
+- [Current Mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/research-design)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@
 
 ## Abstract
 
-One of the most used features on EBN is View and Update Dependents. It is the only self-service place in the VA ecosystem that a Veteran can quickly view the dependents on their compensation award, as well as add, remove, or modify those dependents by electronically submitting the 686c. In happy path cases, electronic submissions can be processed through RBPS which, if successful, begins distributing benefits in days, not weeks or months. 
+One of the most used features on EBN is View and Update Dependents. It is the only self-service place in the VA ecosystem that a Veteran can quickly view the dependents on their compensation award, as well as add, remove, or modify those dependents by electronically submitting the 686c. In happy path cases, electronic submissions can be processed through RBPS which, if successful, begins distributing benefits in days, not weeks or months.
 
 Migrate this functionality from EBN to the modern front door at VA.gov, conducting research along the way to make sure Veterans are able to achieve their goals in the quickest and most equitable way possible.
 
@@ -95,7 +95,7 @@ I am a Veteran who needs to review and update information about my family and ot
 - TODO: Add more
 
 ## Discovery Takeaways
-A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md) was put together and a series of usability sessions was scehduled and conducted.  A resulting [summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md) and more official readout can be found [here](https://dsva.slack.com/archives/CLY6Q69RV/p1583446780067800?thread_ts=1583352659.066300&cid=CLY6Q69RV).
+A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md) was put together and a series of usability sessions was scehduled and conducted.  A resulting [summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md) and more official readout can be found [here](https://dsva.slack.com/archives/CLY6Q69RV/p1583446780067800?thread_ts=1583352659.066300&cid=CLY6Q69RV).
 
 ## Solution Approach
 
@@ -130,16 +130,16 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Objective 1:** Greater discoverability and number of Veterans applying to get benefits associated with their dependents.
 - Key Results 1: Data shows the **number of views of the [686 benefit hub page](https://www.va.gov/disability/add-remove-dependent/) has increased since migration**; statistically significant increase in traffic
-- Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions 
+- Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions
 
 **Objective 2:** Faster delivery of benefits obtained for the Veteran.
-- KR1: Data shows that **more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS)**; RBPS is automatically processing statistically significantly more 686 applications 
+- KR1: Data shows that **more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS)**; RBPS is automatically processing statistically significantly more 686 applications
 - KR2: Data shows a **decrease in time to manually approval of 686 forms** upon submission compared to previous instance (Paul Schute)
-- KR3: **Increase ratio of RBPS submissions / submissions sent to manual processing** 
+- KR3: **Increase ratio of RBPS submissions / submissions sent to manual processing**
 
 **[Future] Objective 3:** <discoverability>
-- KR1: 
-  
+- KR1:
+
 **[Future] Faster time to Manage Dependents (i.e. complete form)**
 - KR1: Data shows that the **new 686 user experience within VA.gov results in a faster fill out time** compared to the eBenefits portal
  - broken down time by workflow/need (e.g. new child vs. divorce)
@@ -155,8 +155,8 @@ Current
 - % of Dependency Claims that go thru RBPS / manual processing (input KPI)
 
 Future
-- Time to complete 686 (input KPI)  
-- % of submitted vs. draft RBPS submissions 
+- Time to complete 686 (input KPI)
+- % of submitted vs. draft RBPS submissions
 
 North Star Metric
 - Number of Dependency Claims processed within _n_ days of submission regardless of approval method
@@ -176,7 +176,7 @@ TBD after launch
 ### Recommendations
 TBD after launch
 
---- 
+---
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -209,7 +209,7 @@ TBD after launch
 - October & November: Research and design mockups
 - December & January: Work with previous teams (rainbows) code and schemas
 - February: Restart code development from scratch using rainbows schemas as high level guide, build out the different workflows
-- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend. 
+- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend.
 
 
 ## Team
@@ -220,7 +220,7 @@ TBD after launch
 - Product Manager`*`: Jason Wolf
 - Design Lead: Shawna Hein
 - Eng Lead: Paul Short, Jeffey Thompson
-- VA Web Comms Partner: 
+- VA Web Comms Partner:
 - VA Contact Center Partner(s): Chante/Kimberly
 - Production Testing Partner(s):
 - Designer(s): Jim Adams
@@ -242,22 +242,22 @@ TBD after launch
 
 ## Resources and Documentation
 
-- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/discovery)
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/discovery)
 - [Research and Design](research-design/README.md)
 - [IA Recomendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-view-dependents.md) for View Dependents
 - Link to [Request for IA Review for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636)
-  
-### Ongoing Works In Progress  
-**General Dependency Claims**  
+
+### Ongoing Works In Progress
+**General Dependency Claims**
 - Epic: [🚢 Migrate "Modify Dependents" (Submit 686c and 674) from eBenefits to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)
 - Epic: [🚢 Migrate "View Dependents" from eBenefits to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)
 - Epic: [🚢 Capture Fields Necessary to Automate Pension Eligibility Determinations in the 686c-674 #7759](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7759)
-- [Null Benefit Claim ID Feature Toggle #36631](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36631)  
-- [Update Mockups for View Dependents #34142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34142)  
-- [Adjust Stepchild Parent Question on 686c #35141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35141)  
-- [Enhance Language on Silent Failure Email #34618](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34618)  
-- [Ensure PDF Does Not Send in the Event of a Failure #28027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28027)  
-- [Adjust 674 to Accommodate New 686 Submissions #25030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030)  
+- [Null Benefit Claim ID Feature Toggle #36631](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36631)
+- [Update Mockups for View Dependents #34142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34142)
+- [Adjust Stepchild Parent Question on 686c #35141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35141)
+- [Enhance Language on Silent Failure Email #34618](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34618)
+- [Ensure PDF Does Not Send in the Event of a Failure #28027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28027)
+- [Adjust 674 to Accommodate New 686 Submissions #25030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030)
 - [[UNPLANNED] Pass Relationship Status into 674 #22494](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22494)
 - [Possibly Rescue More BGS Exceptions and Reschedule Job #30784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30784)
 - [Track Null Benefit Claims on Dependency Claims #32054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32054)
@@ -268,13 +268,13 @@ TBD after launch
 - [Check Field Mappings for VnpPtcpntRlshp #29106](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29106)
 - [Adjust Email Notifications #39021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39021)
 - [Adjust Confirmation Copy for Dependency Claims #39026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39026)
-  
+
 **Dependency Removal - Formlet**
 - [GA Events for Formlet #28007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28007)
-  
-**Dependency Verification**  
+
+**Dependency Verification**
 - Epic: [Create Facility for Dependency Verification on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16345)
-- [Dependency Verification Launch Activities #36895](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36895)  
-- [Submit Contact Center Documentation #26469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26469)  
+- [Dependency Verification Launch Activities #36895](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36895)
+- [Submit Contact Center Documentation #26469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26469)
 
 

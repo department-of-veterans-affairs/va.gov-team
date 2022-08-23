@@ -22,9 +22,9 @@
 ---
 
 ### Research
-[eBenefits Rated Disabilities/View Dependent Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-summary.md)
+[eBenefits Rated Disabilities/View Dependent Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-summary.md)
 
-[eBenefits Rated Disabilities/View Dependents research analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-analysis.md)
+[eBenefits Rated Disabilities/View Dependents research analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-analysis.md)
 
 ---
 

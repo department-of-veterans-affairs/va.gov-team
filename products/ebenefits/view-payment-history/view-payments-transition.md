@@ -24,16 +24,16 @@
 
 ## Feature background
 - [Existing feature landing page](https://www.va.gov/va-payment-history/)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-payment-history)
 
 ## UX research studies
 This table includes links to the individual research studies.
 
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| Discovery baseline | --- | --- | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md) | --- |
-| Usability testing | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-usability-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md) | --- |
-| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-convo-guide.md) | --- | --- |
+| Discovery baseline | --- | --- | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/design-discovery.md) | --- |
+| Usability testing | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-usability-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-comp-analysis.md) | --- |
+| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/uat/view-payments-uat-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/uat/view-payments-uat-convo-guide.md) | --- | --- |
 
 ### References used
 - [VA Platform research and design guide](https://depo-platform-documentation.scrollhelp.site/research-design/index.html)
@@ -44,7 +44,7 @@ This table includes links to the individual research studies.
 - [Findings template]()
 
 ### Tools used
- 
+
 - Sketch
 - Github
 - Adobe XD
@@ -74,7 +74,7 @@ This table includes links to the individual design work products.
 - [VSA accessibility directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility)
 
 ### Tools used
-  
+
 - Adobe XD
 - UXPin
 - Github markdown
@@ -91,7 +91,7 @@ This table includes links to the individual design work products.
 
 ## Other feature documentation
 - [Architecture diagram](https://xd.adobe.com/view/d7cb9cd4-1c55-4fd5-8e91-bceb494802c8-8298/)
-- [Product decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/product-decisions.md)
+- [Product decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/product-decisions.md)
 
 <br>
 

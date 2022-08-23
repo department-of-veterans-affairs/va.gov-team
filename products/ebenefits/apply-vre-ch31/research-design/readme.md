@@ -23,7 +23,7 @@
 
 ### Discovery
 
-[VR&E (Chapter 31) discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md)
+[VR&E (Chapter 31) discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/design-discovery.md)
 
 [VR&E Hub page on VA.gov](https://www.va.gov/careers-employment/vocational-rehabilitation/)
 

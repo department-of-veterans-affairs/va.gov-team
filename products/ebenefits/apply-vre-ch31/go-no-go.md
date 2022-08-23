@@ -1,4 +1,4 @@
-# VRE CH31: Go / No Go  
+# VRE CH31: Go / No Go
 ## April 16, 2021
 
 ## Decision: TBD<!-- `Continue launch / Pause / Pivot` -->
@@ -35,7 +35,7 @@
 **Jason**: are you ready to monitor analytics data for trends and problems?
 - `yes/no - any notes/response`
 
-**Jason**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/release-plan.md) complete and ready to execute against?
+**Jason**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/release-plan.md) complete and ready to execute against?
 - `yes/no - any notes/response`
 
 **Everyone**: does anyone have any concerns or reasons we should postpone a launch to 10% of users?

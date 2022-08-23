@@ -2,23 +2,23 @@
 
 Prepared by: Candy Clark, eBenefits
 
-[Research plan](dependent-verifiy-usability-1-research-plan.md) 
+[Research plan](dependent-verifiy-usability-1-research-plan.md)
 
-[Conversation guide](dependent-verifiy-usability-1-convo-guide.md) 
+[Conversation guide](dependent-verifiy-usability-1-convo-guide.md)
 
-[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/session-notes) 
+[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/session-notes)
 
-[Notes Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/Dependency_Verification_Notes_Matrix%20(1).xlsx) 
+[Notes Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/research-design/usability-testing-1/Dependency_Verification_Notes_Matrix%20(1).xlsx)
 
-This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
+This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
 
 **The goal of this document is:**
  - To make sure everyone who observed the study is in alignment with the perceived findings
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
- - To jump start synthesis by quickly organizing high level themes 
+ - To jump start synthesis by quickly organizing high level themes
 
-- - - 
+- - -
 
 ## Initial Findings
 

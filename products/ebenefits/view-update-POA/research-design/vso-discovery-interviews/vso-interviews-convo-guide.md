@@ -10,7 +10,7 @@
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 - Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing
 - With participants' permission, these sessions will be recorded
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-research-plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-research-plan.md)
 
 ## Intro
 Good morning/afternoon and thank you for joining us today. My name is `<name>` and I have a few colleagues on the line to help me take notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for them. Our focus today is how users find and appoint representatives. To start, I'll ask you a few questions about your background, then we'll move onto how representation starts and how you work with veterans. And, finally, we'll wrap up with limits of representation.
@@ -24,7 +24,7 @@ There are a few things I need to mention before we start:
 - OK, now that I've hit the button, do I have your permission to record this session?
 
 ## Warm-up
-- Would you tell us a little bit about yourself? 
+- Would you tell us a little bit about yourself?
   - What are your own service and VA benefits experiences?
   - What organization are you with?
   - How long have you been an authorized rep?
@@ -37,16 +37,16 @@ There are a few things I need to mention before we start:
 
 ## Section two: Starting an appointment
 Okay, let’s talk a little bit about how Veterans and Service Members find you and start an appointment 'probe on language'.
-- How do veterans or service members typically find you? (VA lookup, some other search like Google, referral, etc) 
+- How do veterans or service members typically find you? (VA lookup, some other search like Google, referral, etc)
 - How do they contact you before they appoint a rep? (phone, email, webform…?)
-- Typically, how far along in the benefits/claims process are Veterans when start looking for a rep? 
+- Typically, how far along in the benefits/claims process are Veterans when start looking for a rep?
 - When a Veteran is ready to appoint a representative, how do they make that selection official? (use VA 21-22/a? typically use a paper form or submit electronically?)
   - Where do you think this goes?
 - Aside from the what we just talked about, how else might a Veteran or Service Member find you? (Is there anything else I should know or consider?)
 
- 
+
 ## Section three: Working with Veterans
-Thank you, that really helps me understand how Veterans start this process. Now, let’s talk about how things work after they have appointed you as their representative. 
+Thank you, that really helps me understand how Veterans start this process. Now, let’s talk about how things work after they have appointed you as their representative.
 - After a Veteran or Service Member appoints you as their representative, how much information do you typically have when you receive an appointment?
 - How often do you interact with them?
   - (How do you usually work with them - phone, email, in person, etc?)
@@ -59,7 +59,7 @@ ims do you specialize in? (Is this common terminology of specializations in your
 
 ## Section four: Limits and ending appointment
 Okay, we’re almost finished. I’d just like to ask a few more questions about the limits of representation and how representation ends.
-- What are the limits on what you can help with? 
+- What are the limits on what you can help with?
   - When would you need to decline an appointment or refer to another representative?
   - When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
 - Once a Veteran or Service Member has submitted their 21/22a and you are their representative, how long do you typically work with them?

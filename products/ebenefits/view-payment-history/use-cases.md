@@ -4,15 +4,15 @@ _Track and maintain the various use cases that exist for a given product -- best
 
 _The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
 
-Link to product outline: [Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/README.md)
+Link to product outline: [Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/README.md)
 
 ## Contents
 <details>
 <summary></summary>
-  
-- [Use Case A - Has Payment History](#use-case-a---has-payment-history) 
+
+- [Use Case A - Has Payment History](#use-case-a---has-payment-history)
 - [Use Case B - No Payment History](#use-case-b---no-payment-history)
-- [Use Case C - API Error](#use-case-c---api-error) 
+- [Use Case C - API Error](#use-case-c---api-error)
 
 </details>
 
@@ -28,7 +28,7 @@ Link to product outline: [Payment History](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Go to https://staging.va.gov/va-payment-history/payments/ -- sign-in as **`vets.gov.user+228@gmail.com` (Colder)**
-  
+
 * **TestRail Test Case**: [C1006](https://dsvavsp.testrail.io/index.php?/cases/view/1006)
 
 ## Use Case B - No Payment History
@@ -41,7 +41,7 @@ Link to product outline: [Payment History](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Go to https://staging.va.gov/va-payment-history/payments/ -- sign-in as **`vets.gov.user+4@gmail.com` (Alfredo)**
-  
+
 * **TestRail Test Case**: [C1016](https://dsvavsp.testrail.io/index.php?/cases/view/1016)
 
 ## Use Case C - API Error
@@ -55,5 +55,5 @@ Link to product outline: [Payment History](https://github.com/department-of-vete
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - [See NOTE above for this Case]
-  
+
 * **TestRail Test Case**: [C1125](https://dsvavsp.testrail.io/index.php?/cases/view/1125)

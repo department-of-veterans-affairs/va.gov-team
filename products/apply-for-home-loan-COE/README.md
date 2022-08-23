@@ -1,7 +1,7 @@
 # Feature Outline: Loan Guaranty Application (Certificate of Eligibility)
 
 >**Feature transition document is available.**
-> The Certificate of Eligibility feature transition document is on Github [(Link to Github page)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/coe-transition-design.md)
+> The Certificate of Eligibility feature transition document is on Github [(Link to Github page)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/coe-transition-design.md)
 
 
 ## Locations
@@ -15,12 +15,12 @@
 - Product POCs: Matt Self, Sabrina Mohamed & Jason Wolf
 - Stakeholders: Kelli Deinarowicz, Ken Lancaster
 
-#### Team Members  
-Jason Wolf    
-James Adams     
-Jesse Cohn     
-Micah Chiang    
-Kathleen Crawford   
+#### Team Members
+Jason Wolf
+James Adams
+Jesse Cohn
+Micah Chiang
+Kathleen Crawford
 
 ---
 
@@ -46,7 +46,7 @@ Create a user friendly, innovative, self-serve Veteran portal in VA.gov to reque
 
 ## Problem Statement
 Veterans need asssistance in getting a home loan, first step is to check for eligibility to get one through the VA.  Ideally they should be able to get one online and find out quickly what their next steps are based on their specific information.
- 
+
 ## Desired User Outcomes
 
 - A quick look into the eligibility will inform the Veteran if this is a path to take in getting a home loan
@@ -72,7 +72,7 @@ Veterans need asssistance in getting a home loan, first step is to check for eli
 
 ## KPIs
 - Desired outcomes are accurate renderings of  automatic eligibilty screenings, and for those eligible, a strong conversion number
---- 
+---
 
 ## Go-to-market Strategy
 - The line of business will have some participation here and soft then hard redirects from eBenefits will also help.
@@ -93,7 +93,7 @@ Veterans need asssistance in getting a home loan, first step is to check for eli
 ### Product Decisions
 - First version should be the auto-eligibility function and a form submission
 ---
-   
+
 ## Screenshots
 
 ### Before

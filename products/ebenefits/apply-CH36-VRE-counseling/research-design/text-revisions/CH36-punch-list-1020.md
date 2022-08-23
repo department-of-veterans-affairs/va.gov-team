@@ -14,7 +14,7 @@ Revisions to text, formatting, features and design based on:
 - [IA CH36 feedback](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14205)
 - [IA wizard flow feedback](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1599137761089/b5b2662802d862b436660938241e79d1ef4ecf31)
 - [Wizards team mandates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13381)
-- [CH31/CH36 usability testing recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md#recommendations)
+- [CH31/CH36 usability testing recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md#recommendations)
 - [New stakeholder CH31 orientation requirements](https://forms.office.com/Pages/ResponsePage.aspx?id=xUHAIKHMVEu8eusWOxuMFPIlzBAHyVxArtObba5apaZURVVTOVlNUktRN0xHUFVJVkZSMUtQVzMzVi4u)
 
 ## Chapter 36 wizard and VA form 22-8832
@@ -45,14 +45,14 @@ Revisions to text, formatting, features and design based on:
 - [x] Change "If you need assistance..." paragraph on Applicant Info screen to: "If you need If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, between 8:00 a.m. and 9:00 p.m. ET."
 - [x] Place details of communication options copy into accordions
 - [x] Adjust form address blocks to new pattern (see prototype)
-- [x] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service member" 
+- [x] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service member"
 
 ### VA form 22-8832 confirmation screen
 - [ ] ~~Remove "Thank you for submitting your application" from blue box~~ Keep
 - [x] Add "What happens after I apply?" text block above "How long..." section
 - [x] Remove the "Do you have a service connected disability" section
 - [x] Add feature box content per prototype
-- [x] Change paragraph at botton of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
+- [x] Change paragraph at botton of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to
 8:00 pm ET."
 - [x] Confirm with SMEs that processing takes one week
 
@@ -96,7 +96,7 @@ Revisions to text, formatting, features and design based on:
 - [ ] Add "What happens after I apply?" text block above "How long..." section
 - [ ] Confirm with SMEs that processing takes one week
 - [X] Confirm 800 number(s): Number is 1-800-827-1000 per [fact sheet](https://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/CH31FactSheet.pdf)
-- [ ] Change paragraph at bottom of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
+- [ ] Change paragraph at bottom of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to
 8:00 pm ET."
 
 ---

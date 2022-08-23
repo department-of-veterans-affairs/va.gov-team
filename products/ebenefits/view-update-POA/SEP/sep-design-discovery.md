@@ -29,15 +29,15 @@ VSOs and accredited representatives that do not use their own system need a way 
 There is a congressional mandate that VA Form 21-22 must be able to be submitted electronically. This could be satisfied through representatives' access to direct upload.
 
 <!-- ### Business cases -->
-<!-- 
+<!--
 ### Business processes
 
-Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users can log into eBenefits and electronically submit the form. Many eBenefits users will have a COE automatically generated for download. Some lenders can generate a COE via VA's Web LGY system. 
+Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users can log into eBenefits and electronically submit the form. Many eBenefits users will have a COE automatically generated for download. Some lenders can generate a COE via VA's Web LGY system.
 
 <details>
   <summary><strong>Current COE business process</strong> (Click to show diagram)</summary>
-  
-  ![How to request a Certificate of Eligibility (COE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Process_Diagram_1.png)
+
+  ![How to request a Certificate of Eligibility (COE)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_Process_Diagram_1.png)
 </details>
 -->
 
@@ -98,7 +98,7 @@ There are differing requirements for getting a VA loan depending on the nature o
 
 **National Guard or Reserve member**
 
-Depending on service details, there are various requirements. 
+Depending on service details, there are various requirements.
 - 6 years of service in the Reserves or National Guard
 - Submit NGB Form 22 (Report of Separation and Record of Service)
 - Submit NGB Form 23 (Retirement Points Statement)
@@ -120,29 +120,29 @@ There are several general use cases around Certificate of Eligibility:
 
 [Screen caps of the exisitng SEP features]()
 
-<!-- 
+<!--
 #### eBenefits feature flow
 
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
-  
-  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Breakdown_1.png)
+
+  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_Breakdown_1.png)
 </details>
 
 #### Proposed VA.gov feature flow
 
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
-  
-  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_Usecase_Workflows_1.png)
+
+  ![VA.gov use case flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_Usecase_Workflows_1.png)
 </details>
 
 #### Suggested IA placement
 
 <details>
   <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
-  
-  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_VAgov_IA_Flows_1.png)
+
+  ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/COE_VAgov_IA_Flows_1.png)
 </details>
 -->
 
@@ -181,7 +181,7 @@ While veterans can submit these forms directly to the VA without a representativ
 
 #### Potential improvements
 
-- 
+-
 
 ## Next steps
 
@@ -203,7 +203,7 @@ While veterans can submit these forms directly to the VA without a representativ
 ## References
 
 - [SEP](https://www.sep.va.gov/sep/web/guest/sep)
-- [VSO Discovery Interview Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-discovery-research-findings.md)
+- [VSO Discovery Interview Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/vso-discovery-interviews/vso-discovery-research-findings.md)
 - [VA Form 21-22 (Veteran tool)](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf)
 - [VA Form 21-22a (Veteran tool)](https://www.vba.va.gov/pubs/forms/VBA-21-22a-ARE.pdf)
 - [Proposed Workflow for Search and Appoint Rep (Veteran tool)](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/a/dlG4Y22)

@@ -42,9 +42,9 @@ This proposal explores the available options and presents a case for an "optimal
 Forms on VA.gov are processed by various Lines of Business. These LOBs often have different backend systems and data sources that help process applications, and they each use their own balance of automated and 'manual' procedures to move submissions through their respective workflows. These processing differences drive how forms present (known) personal and contact info is presented to users.
 
 The systems associated with VA.gov are VA-Profile-integrated, and indicated by a gold star icon.
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Gold_Star.png" alt="gold star icon" width="25">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/Gold_Star.png" alt="gold star icon" width="25">
 
-![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Data_Architecture.png)
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/Data_Architecture.png)
 
 ---
 
@@ -60,13 +60,13 @@ The systems associated with VA.gov are VA-Profile-integrated, and indicated by a
 
 #### Diagram showing various approaches:
 
-![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/Form_States_W1.png)
 
 ---
 
 ### Recommendations
 
-There are many databases and repositories within the VA ecosystem that serve as sources for users' personal and contact info, with several being considered 'sources of truth.' However, users of VA.gov expect that their known information is centralized and accessible at all VA touchpoints. 
+There are many databases and repositories within the VA ecosystem that serve as sources for users' personal and contact info, with several being considered 'sources of truth.' However, users of VA.gov expect that their known information is centralized and accessible at all VA touchpoints.
 
 #### Considerations
 
@@ -83,7 +83,7 @@ This case is relaitvely strtightforward. For forms that don't require a sign-in,
 
 We suggest adding a brief statement regarding how a user's information will be used--possibly at the top of the form's initial screen. This statement will complement the messaging in the sign-in widget on the form intro page:
 
-> Because you are not signed-in, any information you enter will only be used for this application. 
+> Because you are not signed-in, any information you enter will only be used for this application.
 
 Additionally, a sign-in link could be presented to encourage the user to authenticate:
 
@@ -91,7 +91,7 @@ Additionally, a sign-in link could be presented to encourage the user to authent
 
 Mockups showing unauthenticated begin [here.](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/screen/bf06d4a5-e662-4beb-be90-588529883ef9)
 
-![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Unauthenticated.png)
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/Unauthenticated.png)
 
 #### Scenario 2: Authenticated users with known contact data
 
@@ -107,7 +107,7 @@ Authenticated users have confirmed personal data, but their contact info can--an
 
 Mockups showing the 'card' authenticated variation begin [here.](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/screen/56f1579b-ce0a-46ab-b336-684ac17b8ff2)
 
-![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Authenticated.png)
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/apply-vre-ch31/Authenticated.png)
 
 #### Scenario 2: Authenticated users with known contact data
 

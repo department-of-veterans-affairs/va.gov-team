@@ -11,9 +11,9 @@ During Discovery and Design, the core functionality of these two screens—basic
 - Other goals included uncovering pain points, workflow breakdowns, user expectations, and potential future features.
 
 **Guiding questions:**
-- How often would users access Rated Disabilities and View Dependents screens? 
-- Can users quickly determine the purpose of the pages? 
-- Can they find the combined VA disability rating immediately? 
+- How often would users access Rated Disabilities and View Dependents screens?
+- Can users quickly determine the purpose of the pages?
+- Can they find the combined VA disability rating immediately?
 - Are dependent details immediately apparent?
 - Can users immediately find all the relevant information on-screen?
 - Is information displayed in a clear and understandable manner (text and components)?
@@ -45,16 +45,16 @@ During Discovery and Design, the core functionality of these two screens—basic
 
 Rated Disabilities & View Dependents
 
-- Flag items for special attention (processing errors, decision status, etc.) could be very helpful for users. 
-- Co-locate links to authenticated content in a centralized location (dashboard, dropdown, nav section, etc.) may help users when they are investigating claims or appeals and need several tools. 
-- Offer drill-down links (accordions, tooltip hovers, etc.) to details such as definitions or decisions. 
+- Flag items for special attention (processing errors, decision status, etc.) could be very helpful for users.
+- Co-locate links to authenticated content in a centralized location (dashboard, dropdown, nav section, etc.) may help users when they are investigating claims or appeals and need several tools.
+- Offer drill-down links (accordions, tooltip hovers, etc.) to details such as definitions or decisions.
 - Display only the last-four of SSN on-screen to provide a degree of over-the-shoulder security.
 
 Authenticated Tool Pages
 
 - Add live chat feature to inquiry-intensive pages.
 - Add specific contact info (email, direct phone numbers, etc.) to authenticated tool pages if such offices/staff exist could save users time and alleviate some frustration.
-- Determine what pages the back button and sign-out will do vs. user expectations. 
+- Determine what pages the back button and sign-out will do vs. user expectations.
 - Rethink landing-page/tool-page strategy; consider a single page with authenticated and unauthenticated states.
 - Devise tool-page specific navigation; e.g. links to other tools or top three content links.
 - Determine an interim authenticated tools page strategy ahead of Personalization 2.0.
@@ -62,7 +62,7 @@ Authenticated Tool Pages
 Landing Pages
 
 - Keep important, frequently-accessed tool links “above the fold” on entry pages.
-- Consider a contrasting graphical treatment (icon) to highlight inline links to authenticated tool pages. 
+- Consider a contrasting graphical treatment (icon) to highlight inline links to authenticated tool pages.
 - Centralize tool page links in secondary navigation or a dropdown for easy user access.
 
 ## Participants
@@ -81,7 +81,7 @@ Education level was very high across this group of participants, with 36% having
 **Site usage:** At the start of the session, participants were asked if they had ever used eBenefits. They were asked to name other websites and features they used to learn about and manage their VA benefits. MyHealtheVet was specifically mentioned often, usually with a positive association. Other “sites” mentioned include VA.gov, DEERS, DS Logon, Facebook and Twitter.
 Users commonly accessed eBenefits in episodes, primarily to check the status of claims and/or appeals.
 
-### Landing pages 
+### Landing pages
 **Findings:** Though the “landing page” entry points were not a focus in the usability study, they were included to give participants a sense of flow and location within the VA.gov site structure.
 
 The prompt was, “You’ve come to this page; find a where to view your disability rating,” (or dependents). As an entry point to the tool page layout, the landing pages did not fare well, with less than half of the participants assessed being ably to quickly locate the login. Interestingly, some participants were often drawn to the long list of links in the left-hand nav rather than the main content column. The top-most section of content was often read at length, while the remainder of the page was scanned.
@@ -90,10 +90,10 @@ The prompt was, “You’ve come to this page; find a where to view your disabil
 
 Users were often distracted by large blocks of content. Several users went straight to the left-hand navigation to find a link to content, preferring that to scrolling and scanning the page. The most frequently cited pain point was password/authentication issues. While login and user security is outside the scope of this study, it was a notable finding. Password/authentication problems may be significant barriers to use.
 
-**Recommendations:** Give serious consideration to the “entry points” for various tools; including a link or login on a busy screen may be problematic for users looking to quickly locate a tool — particularly if that is their focus during a given session. 
+**Recommendations:** Give serious consideration to the “entry points” for various tools; including a link or login on a busy screen may be problematic for users looking to quickly locate a tool — particularly if that is their focus during a given session.
 
 - Keep important, frequently accessed tool links “above the fold” on entry pages.
-- Consider a contrasting graphical treatment (icon) to highlight inline links to authenticated tool pages. 
+- Consider a contrasting graphical treatment (icon) to highlight inline links to authenticated tool pages.
 - Consider centralizing tool page links in secondary navigation or a dropdown for easy user access.
 
 ### Rated disabilities
@@ -109,7 +109,7 @@ Users found the presentation of total and individual disability ratings acceptab
 
 > “It’s telling me what I need to know without bouncing between pages.”
 
-Participants were relatively slow to locate information regarding the VA disability rating formula when prompted to, “Find information about how the VA figures your rating.” Most Veterans are aware the VA uses a formula that is more complicated than an average or sum. 
+Participants were relatively slow to locate information regarding the VA disability rating formula when prompted to, “Find information about how the VA figures your rating.” Most Veterans are aware the VA uses a formula that is more complicated than an average or sum.
 
 Six participants indicated they wanted to see links to more detailed information about the details of the injury or the VA decision.
 
@@ -118,8 +118,8 @@ Six participants indicated they wanted to see links to more detailed information
 The Rated Disabilities page tested well against its primary function. However, most users did ask for additional details about individual disabilities or VA decisions. The primary use case for the Rated Disabilities page as cited by participants, was checking the status of claims and appeals. Some users suggested that they would look for disabilities, dependents, applications and appeals information within the same session.
 
 **Recommendations:**
-- Flagging items for special attention (processing errors, decision status, etc.) could be very helpful for users. 
-- Co-locating links to authenticated content in a centralized location (dashboard, dropdown, nav section, etc.) may help users when they are investigating claims or appeals. 
+- Flagging items for special attention (processing errors, decision status, etc.) could be very helpful for users.
+- Co-locating links to authenticated content in a centralized location (dashboard, dropdown, nav section, etc.) may help users when they are investigating claims or appeals.
 - Consider offering drill-down links (accordions, tooltip hovers, etc.) to details such as definitions or decisions
 
 ### View dependents
@@ -132,18 +132,18 @@ A pair of users found the inclusion of dependents’ SSN problematic. One wanted
 
 Most users expected the card “buttons” to link to a form, and/or to detailed information about individual dependents.
 
-Like the Rated Disabilities page, View Dependents tested well against its primary function. In terms of layout and functionality, the key difference between the two pages (as tested) was the View Dependents screen included buttons to “Apply to add dependent,” and “Change status” of a dependent. Most participants expected these buttons to lead them to a form and/or details about dependents.  
+Like the Rated Disabilities page, View Dependents tested well against its primary function. In terms of layout and functionality, the key difference between the two pages (as tested) was the View Dependents screen included buttons to “Apply to add dependent,” and “Change status” of a dependent. Most participants expected these buttons to lead them to a form and/or details about dependents.
 
-**Recommendations:** Some users cited instances or uploading documents and receiving no confirmation or error indication. This led to long (avoidable) delays in processing. 
+**Recommendations:** Some users cited instances or uploading documents and receiving no confirmation or error indication. This led to long (avoidable) delays in processing.
 
 - As with Rated Disabilities, consider indicating processing status or errors indicators to individual cards.
-- Consider offering drill-down links (accordions, tooltip hovers, etc.) to details regarding individual dependents. 
+- Consider offering drill-down links (accordions, tooltip hovers, etc.) to details regarding individual dependents.
 - Consider displaying last-four of SSN on-screen to provide a degree of over-the-shoulder security.
 
 ### Tool page layout
-A few participants who remembered using the current eBenefits site had a favorable impression of the tools page presented—and the use of cards. When users were asked to describe what they saw, most located relevant sidebar content immediately. 
+A few participants who remembered using the current eBenefits site had a favorable impression of the tools page presented—and the use of cards. When users were asked to describe what they saw, most located relevant sidebar content immediately.
 
-The new feature most requested was additional information regarding details of claims or dependents. Communication was a prevalent theme, with many users citing frustration with VA hotline numbers. Many wanted a direct channel or immediate help via live chat. 
+The new feature most requested was additional information regarding details of claims or dependents. Communication was a prevalent theme, with many users citing frustration with VA hotline numbers. Many wanted a direct channel or immediate help via live chat.
 
 > “…but these web pages now—there’s a lot more on here.  A lot of really good information on them.”
 
@@ -156,15 +156,15 @@ Alternate communication channels were cited as the most common requested feature
 **Recommendations:**
 - Live chat could prove a very user-friendly feature across VA.gov, though technical and staffing issues may preclude its implementation.
 - Adding specific contact info (email, direct phone numbers, etc.) if such offices/staff exist could save users time and alleviate some frustration.
-- Determine what pages the back button and sign-out will bring users to vs. their expectations. 
+- Determine what pages the back button and sign-out will bring users to vs. their expectations.
 - Possibly rethink landing-page/tool-page strategy; consider a single page with authenticated and unauthenticated states.
 - Devise tool-page specific navigation; e.g. links to other tools or top three content links.
 - A larger (interim) authenticated tools page strategy is needed ahead of Personalization 2.0.
 
 ## Takeaways
 
-**Hypotheses:** Our thoughts about page content and structure were generally proven correct. 
-- The Rated Disabilities and View Dependents screens tested well.  
+**Hypotheses:** Our thoughts about page content and structure were generally proven correct.
+- The Rated Disabilities and View Dependents screens tested well.
 - The screen layout and card arrangements were acceptable to most users.
 - The lack of sidebar navigation on the tool pages drove users to hit “back” or sign-out to return to the landing screen. This was not unexpected but should be addressed going forward with the tool page layout.
 
@@ -176,7 +176,7 @@ Notable holes in the study include accessibility testing, as well as testing for
 
 ### Appendix / Resource links
 
-[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md)
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-research-plan.md)
 
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-convo-guide.md)
 
@@ -184,6 +184,6 @@ Notable holes in the study include accessibility testing, as well as testing for
 
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes)
 
-[Preliminary Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
+[Preliminary Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/master/products/ebenefits/view-update-dependents/research-design/686-usability-study/disabilities-dependents-usability-summary.md)
 
 [PDF Version of this Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-readout.pdf)

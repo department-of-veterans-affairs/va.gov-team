@@ -6,9 +6,9 @@
 ---
 
 #### Background
-VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add or remove dependents from their disability claim. Including the 21-674, the "686" supports eight discrete workflows When deployed to VA.gov, it will be one of the longer, more complex forms on the site. The new 686 was designed and developed using the conventions and constraints of the VA.gov form system. 
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add or remove dependents from their disability claim. Including the 21-674, the "686" supports eight discrete workflows When deployed to VA.gov, it will be one of the longer, more complex forms on the site. The new 686 was designed and developed using the conventions and constraints of the VA.gov form system.
 
-Usability testing was conducted using prototypes in [February, 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220) Follow-up testing on the form as developed and deployed to VA.gov staging will be critical to uncovering potential problems in the "live" product--and testing will be valuable in highlighting the path to optimizing user satisfaction and overall form performance.
+Usability testing was conducted using prototypes in [February, 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/research-design/686-form-gating-0220) Follow-up testing on the form as developed and deployed to VA.gov staging will be critical to uncovering potential problems in the "live" product--and testing will be valuable in highlighting the path to optimizing user satisfaction and overall form performance.
 
 ## Table of contents
 - [Goals](#goals)
@@ -38,7 +38,7 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Assess users' understanding of the upload process, and it's placement within workflows
 
 #### Discover any problems that arise from longer/complicated chapter combinations
- - Determine potential issues with particular flows: 
+ - Determine potential issues with particular flows:
    - Add-spouse/report-divorce
    - Add-spouse/add-child workflow combinations
    - Add-child/add-student workflow combinations
@@ -97,19 +97,19 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
   - Have or had dependents; received or applied for dependents benefits
   - Has recently been married/divorced
   - Has experienced dependent status change such as, marriage, death, leaving school
-  
+
 #### Workflows for Group 1
 - Add spouse/Report divorce
 - Report death
 - Add student
 - Report student left school
-  
+
 #### Group 2
 - Fits any of the following:
   - Have or had dependents; received or applied for dependents benefits
   - Has child (age 18 to 23) who is about to enroll or has enrolled in college
   - Has recently been divorced
-  
+
 #### Workflows for Group 2
 - Add spouse/Add child
 - Report death
@@ -117,7 +117,7 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
 - Report divorce/Remove stepchild
 
 #### Pilot session
-June 1st, 2020 Monday, 4EST. 
+June 1st, 2020 Monday, 4EST.
 Participants:
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
 - [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
@@ -138,8 +138,8 @@ Participants:
 | 06/11 | 8 AM to 5 PM |
 | 06/12 | 8 AM to 5 PM |
 
-- Please leave 30 minutes between sessions 
-- Please do not exceed 3 sessions a day 
+- Please leave 30 minutes between sessions
+- Please do not exceed 3 sessions a day
 
 ### Team members
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
@@ -159,9 +159,9 @@ Participants:
 ### Resources
 - [Project brief for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/apply-modify-dependents.md)
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-convo-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-convo-guide.md)
 
-- [Add/Remove Dependents mockups](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/README.md)
+- [Add/Remove Dependents mockups](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/README.md)
 
 - [Session notes]() (Available after research sessions.)
 
@@ -171,9 +171,9 @@ Participants:
 
 ### References
  - [VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
- 
+
  - [VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
- 
+
  - [21-686c business workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 ---

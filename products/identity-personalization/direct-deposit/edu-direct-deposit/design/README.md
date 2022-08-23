@@ -5,8 +5,8 @@
 
 ---
 
-Since this is cross-team collaboration, design work may also be tracked in the eBenefits team folder here: 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/add-update-EDU-direct-deposit
+Since this is cross-team collaboration, design work may also be tracked in the eBenefits team folder here:
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/add-update-EDU-direct-deposit
 
 ### Design
 
@@ -69,7 +69,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 ### Prototype Changelog
 
-**November 30, 2020** 
+**November 30, 2020**
 - Prototype finalized for usability study
 - Error states added for field validation
 

@@ -7,11 +7,11 @@
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/payment-history)
 
 
-## Problem Statement 
+## Problem Statement
 I am a Veteran who needs to review my payment history so that I can ensure they are correct, I haven't missed any and am informed about each in case I need to make a change affecting the benefits I deserve.
 
 ## Tickets
-[Migrate "View Payment History" from eBenefits to VA.gov (#1397)]( https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1397) contains 
+[Migrate "View Payment History" from eBenefits to VA.gov (#1397)]( https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1397) contains
 (Epic)
 
 ### Zenhub Board (3/9/2020)
@@ -24,7 +24,7 @@ I am a Veteran who needs to review my payment history so that I can ensure they 
 **Current Sprint**
 -    [#5642 Product Documentation for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5642)
 -    [#5644 Competitive Analysis of "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5644)
-    
+
 **In Progress**
 -    [#5646 Create initial design mockup for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5646)
 -    [#6205 Prepare for Discovery Session of "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6205)
@@ -37,9 +37,9 @@ I am a Veteran who needs to review my payment history so that I can ensure they 
 
 In this stage of discovery, I seek to understand:
 
-- Users expectation of current market features [Competitive Analysis]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md)
+- Users expectation of current market features [Competitive Analysis]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-comp-analysis.md)
 - Gather current metrics to better understand how Veterans are using the “My Payment History” features
-- Define stakeholders 
+- Define stakeholders
 - Discover similar UI and functionality within the VA.gov site.
 - Document product’s features
 
@@ -56,8 +56,8 @@ In this stage of discovery, I seek to understand:
 
 ### Initial questions
 + What service does the tool provided?
-+ What is the typical veteran viewing 
-   - Is it also the default view? 
++ What is the typical veteran viewing
+   - Is it also the default view?
 + How many payments do they see now?
    - How many payments do they want to see on average?
    - How many payments should we display on average?
@@ -91,7 +91,7 @@ In this stage of discovery, I seek to understand:
 - Who are the stakeholders of this tool?
     - What are their goals or objectives with the tool?
 - What systems are needed for this tool?
-    - Are there known user issues with the current systems?  
+    - Are there known user issues with the current systems?
 - Are there similar features on the VA.gov
 - Why does the My Payment History reside on the current page?
     - Does that match the user's mental model?
@@ -107,12 +107,12 @@ In this stage of discovery, I seek to understand:
 ### Answers to initial questions
 
 ### Current Features
- 
-![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/images/payments-list-1.png)
- 
-![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/images/payments-list-2.png)
- 
-![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/images/payments-detail.png)
+
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/images/payments-list-1.png)
+
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/images/payments-list-2.png)
+
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/images/payments-detail.png)
 
 - Headers
     - Payments
@@ -133,7 +133,7 @@ In this stage of discovery, I seek to understand:
     > If Check is Found: If the original check is found or received, you must return the original check to the Treasury Department and await receipt of the replacement check. If both checks are negotiated, then you will be responsible for the duplicate payment. You will receive a letter from the Debt Management Center with instructions concerning collection.
 
 ### Task and Data
-1. User Task- User filters table by header 
+1. User Task- User filters table by header
     - "Payment Type" filter
         - If you’re a Veteran, you’ll see a history of your past VA payments for:
         - Disability compensation
@@ -156,17 +156,17 @@ In this stage of discovery, I seek to understand:
     - User click the Print screen button
     - CSS print styles
 4. User Task- Review Return Payments
-    - Header splitting Return Payments and Payments 
+    - Header splitting Return Payments and Payments
     - Pagination of tables
 5. User Task- Review Payments
-    - Header splitting Return Payments and Payments 
-    - Pagination of tables 
+    - Header splitting Return Payments and Payments
+    - Pagination of tables
 
 ### Feature improvements
 - Combine the Main table with Additional information card
 - Designing a responsive table
 - Other TBD
-- Structuring the UI so that there is one table with two headers 
+- Structuring the UI so that there is one table with two headers
     1. Payments
     2. Return payments
 - A table should be displayed when the page is opened, or DOM is rendered
@@ -178,8 +178,8 @@ In this stage of discovery, I seek to understand:
 - Create a Conversation Guide
 - Conduct Usability Session
 - Discuss initial solution ideas
-- Create two design interactions 
-    1. Tables 
+- Create two design interactions
+    1. Tables
     2. Cards
 
 sk

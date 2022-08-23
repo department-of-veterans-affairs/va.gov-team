@@ -13,7 +13,7 @@ We're requesting that Perigean recruit Veterans who need to add (or remove) a de
 
 For those Veterans we talk to in UAT, we intend to be very transparent about what we are testing--it's an actual, functioning form. We will be asking our (BGS-RBPS) partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. Any PII that does need to be conveyed to partners (BGS-RBPS) outside of  UAT, will be handled securely either verbally or via Microsoft Teams (end-to-end encryption). We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
 
-In the event that we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the feature “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confince in the new feature increases, we should be able to accelerate to full deployment. 
+In the event that we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the feature “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confince in the new feature increases, we should be able to accelerate to full deployment.
 
 One of the tasks we are looking into right now is ensuring that that RBPS can differentiate from legacy submissions coming from eBenefits vs VA.gov. We would also be amenable to working with Veterans via VSO’s that might know of someone in need of making a dependency change.
 
@@ -45,7 +45,7 @@ Users will:
 - The participant will be guided to the 686 intro
 - The user will proceed through the 686 and submit
 - Participants will be advised as to what expect during processing
-- There will be a quick Q/A and wrap-up 
+- There will be a quick Q/A and wrap-up
 - Success will be measured as 80% of participants can successfully submit their 686, with the remaining 20% having a straight-forward remediation path
 
 ### Participants & recruiting
@@ -64,8 +64,8 @@ Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
   - Remove a deceased dependent (parent, spouse or child)
   - Remove a married child (under 18)
   - Remove a child (age 18 to 23) who has left school
-- Are you LOA3 (identity verified) on VA.gov? (pass = yes) 
-  - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
+- Are you LOA3 (identity verified) on VA.gov? (pass = yes)
+  - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile.
 
 #### Good to have for participants
 
@@ -109,7 +109,7 @@ We're providing a two-week window due to potential difficulty in recruiting user
 | July 2 | 9 AM to 5 PM |
 
 - Schedule sessions as 30-minute blocks
-- Please leave at least 30 minutes between sessions 
+- Please leave at least 30 minutes between sessions
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
@@ -125,7 +125,7 @@ We're providing a two-week window due to potential difficulty in recruiting user
 - Others -- Pending
 
 ### Resources
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-convo-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/uat/686-uat-convo-guide.md)
 
 ---
 
@@ -141,7 +141,7 @@ Spouse’s:
 - Place of marriage (state, country, city)
 - Names of former spouses
 
-Applicant’s former spouses: 
+Applicant’s former spouses:
 - Names
 - Marriage start and end dates
 - Places marriage started and ended (state, country, city)

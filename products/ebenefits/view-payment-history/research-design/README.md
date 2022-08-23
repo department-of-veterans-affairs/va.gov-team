@@ -19,16 +19,16 @@
 ---
 
 ### Discovery
-[View Payments discovery synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md)
+[View Payments discovery synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/design-discovery.md)
 
-[View Payments comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md)
+[View Payments comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-payment-history/research-design/payment-history-comp-analysis.md)
 
 ---
 
  [Changelog]() |
-[POA/View Payments research topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
+[POA/View Payments research topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
 
-[POA/View Payments research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
+[POA/View Payments research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
 
 ---
 
@@ -66,7 +66,7 @@ Changes made to desktop and mobile views
 - Sorting arrows removed/sorting functionality removed
 
 **July 2, 2020**
-- Mobile view of tables revised to "un-bold" data 
+- Mobile view of tables revised to "un-bold" data
 
 **June 18, 2020**
 - Desktop view of table styled to match "Borderless table" in VA Sketch Library file

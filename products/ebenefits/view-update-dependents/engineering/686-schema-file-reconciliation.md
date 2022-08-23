@@ -9,10 +9,10 @@
     * Service Number is a string containing between 5 and 8 numbers with an alphabetical prefix of up to 2 letters.
 1. Telephone Number (8) is part of the schema already but not used in the digital form. It only supports a USA number currently. This needs to be added as a field.
 ### Section II - Information Needed To Add A Spouse
-1. Place of Marriage (11E) currently uses a definition on the frontend that doesn't matchup with the defintion created in the schema file for location. This needs to be fixed.   
+1. Place of Marriage (11E) currently uses a definition on the frontend that doesn't matchup with the defintion created in the schema file for location. This needs to be fixed.
     * Place of Marriage on the paper form asks for one of three options: City and State, County and State, OR City and Country.
     * County is not currently present as a field on the digital version.
-    * For more information on the schema discrepancy [check this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/3506-summary.md)
+    * For more information on the schema discrepancy [check this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/engineering/3506-summary.md)
 1. How were you married (11F) needs to be added to the digital form as a field.
     * This has been used elsewhere in vets-website and should be re-used for the 686 if possible. [Use case here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/pensions/config/form.js#L975).
 1. Spouse SSN (11C) is currently present in the digital form, but does not address the possibility that a spouse has no SSN.
@@ -37,7 +37,7 @@
 ### Section V - Veteran Reporting On Stephchild(ren)
 - See comment at section 3.2
 ### Section VI - Veteran Reporting Death Of A Dependent
-1. This workflow isn't currently present in the digital form, but could potentially be added re-using existing fields. 
+1. This workflow isn't currently present in the digital form, but could potentially be added re-using existing fields.
 ### Section VII - Veteran Reporting Marriage Of Child
 1. This workflow isn't currently present in the digital form, but could potentially be added re-using existing fields.
 ### Section VIII - Veteran Reporting A Schoolchild Over 18 Has Stopped Attending School
@@ -47,6 +47,6 @@
     * i.e. Comment at section 2.3 regarding field 11C.
 ### Section X - Beneficiary Signature
 - Handled internally
-### Section XI - Additional Children (Addendum) 
+### Section XI - Additional Children (Addendum)
 - The digital form currently supports the addition of up to 4 children. This section of the paper form is for adding more, with the instructions to print out and use additional pages of this section if they require more space.
-- A decision needs to be made around how many additional children should be supported by the digital form. Is the current number of 4 sufficient? 
+- A decision needs to be made around how many additional children should be supported by the digital form. Is the current number of 4 sufficient?

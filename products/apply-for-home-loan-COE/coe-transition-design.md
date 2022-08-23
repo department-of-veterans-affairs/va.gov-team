@@ -30,7 +30,7 @@ Home loan applicants must apply for a COE to ensure they meet eligibility requir
 - [Current landing page on VA.gov](https://www.va.gov/housing-assistance/home-loans/how-to-apply/)
 - [Existing feature on eBenefits site](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
 - [VA Form 26-1880](https://www.va.gov/find-forms/about-form-26-1880/)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE)
 
 <br>
 
@@ -39,12 +39,12 @@ This table includes links to the individual research studies.
 
 | Study | Research plan | Convo guide | Findings | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| Discovery interviews | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-topline-summary.md) | --- |
-| Baseline discovery doc | NA | NA | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-discovery.md) | --- |
-| Usability testing 1 | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-readout.md) | --- |
+| Discovery interviews | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/discovery-interviews/coe-discovery-topline-summary.md) | --- |
+| Baseline discovery doc | NA | NA | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/coe-design-discovery.md) | --- |
+| Usability testing 1 | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-convo-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-readout.md) | --- |
 | Usability testing 2 | [Link]() | [Link]() | [Link]() | --- |
-| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-researchplan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-2/coe-conversationguide.md) | TBD | --- |
-| Benefits letters discovery | NA | NA | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/download-benefit-letters-discovery.md) | --- |
+| UAT | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/coe-researchplan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/usability-testing-2/coe-conversationguide.md) | TBD | --- |
+| Benefits letters discovery | NA | NA | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/download-benefit-letters-discovery.md) | --- |
 
 
 ### References used
@@ -58,7 +58,7 @@ We used early versions of researrch templates. The links below are to the most c
 
 ### Tools used
 List your tools; add notes.
-  
+
 - Github MD
 - Adobe XD (for diagramming)
 - - UXPin (for prototyping)
@@ -93,7 +93,7 @@ This table includes links to the individual design work products.
 
 ### Tools used
 List your tools; add notes.
-  
+
 - Sketch for Teams
 - UXPin
 - Mural
@@ -112,9 +112,9 @@ As of March 2022, this feature bypassed midpoint review and was moving toward st
 <br>
 
 ## Other feature documentation
-- [COE UX/UI/frontend punchlist MAR 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-design-punchlist.md)
-- [COE changelog JUL 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
-- [eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/existing-product)
+- [COE UX/UI/frontend punchlist MAR 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/coe-design-punchlist.md)
+- [COE changelog JUL 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
+- [eBenefits COE screen caps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/research-design/existing-product)
 
 ### Existing web pages
 - [How to apply for a VA home loan Certificate of Eligibility (VA.gov)](https://www.va.gov/housing-assistance/home-loans/how-to-apply/)

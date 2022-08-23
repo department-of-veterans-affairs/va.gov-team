@@ -5,10 +5,10 @@
 
 ---
 
-Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
+Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-dependents/research-design)
 
 ### Pre-launch mandatory content revisions
-- [x] Change header (H1) across all screens to be: "Add or remove a dependent on your VA disability benefits" 
+- [x] Change header (H1) across all screens to be: "Add or remove a dependent on your VA disability benefits"
 - [x] Confirm capital "V" in "Veteran" throughout form (particularly "Is your spouse a Veteran? " question in add spouse workflow)
 - [x] Remove **Note:** from the first sentence on Add Student screen, and change it to: "This section is equal to Request for Approval of School Attendance (VA Form 21-674). If you’re applying for benefits for a child 18 to 23 years old who will be attending school, you’ll also need to fill out this information."
 
@@ -39,7 +39,7 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 - [ ] Form number subhead needs line break after “and/or” on 674 line (same as above with the "Equal to...")
 - [x] 🔁 Confirm use of double arrows in green button (Leave as is for now, design folks are back and forth on it)
 - [x] Remove period in H3 “Follow the steps below to apply to add or remove a dependent`.`"
-- [x] Add colon to "[for example: their major](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/images/686-copy-edit.JPG)"
+- [x] Add colon to "[for example: their major](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-dependents/research-design/images/686-copy-edit.JPG)"
 - [x] End of #1 in the subway map, create a line break for "Get help filing your claim" link; and remove period
 
 ### Checkboxes
@@ -79,7 +79,7 @@ Note:  order is the same but the checkbox language is a little more friendly.  B
 ### Add student section (674)
 
 > We decided to do this one below the yes/no question instead of below
-- [x] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section 
+- [x] **HP!** Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section
 > This is part of the form system
 - [ ] Move Required label to the end of: "Did student attend school last term? Note: This includes any kind of school or training, including high school."
 - [x] Change label for "Course of study or educational program" to: "Subject or educational/training program"
