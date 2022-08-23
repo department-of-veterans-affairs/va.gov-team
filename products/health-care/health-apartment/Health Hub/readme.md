@@ -5,8 +5,8 @@ Lorem
 ## Product information
 
 - [Original Product outline from VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Product/Onboarding/Product%20Kickoff%20document%20from%20VA-PO%204.18.22.pdf)
-- [Initial product discovery]{https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20discover%20doc.pdf}
-GitHub Label: Health-apartment/health hub
+- [Initial product discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/Health%20Hub/Research/Health%20Hub%20discover%20doc.pdf)
+- GitHub Label: Health-apartment/health hub
 
 ## Product research
 
