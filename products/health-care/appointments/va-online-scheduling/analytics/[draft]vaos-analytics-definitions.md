@@ -68,10 +68,10 @@ vaos-direct-submission-successful | `{ flow: "direct", health-ReasonForAppointme
 vaos-eligibility-direct-available-clinics-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; service did not return any clinics
 vaos-eligibility-direct-check-past-visits-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; there has not been a recent visit
 vaos-eligibility-direct-no-matching-past-clinics-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; could not find any of the clinics returned in the past 24 months of appointments
-vaos-eligibility-direct-supported-failed | `{ flow: "direct", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; Disabled in VATS for this location and type of care
+vaos-eligibility-direct-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
 vaos-eligibility-request-exceeded-outstanding-requests-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; reached the limit for appointment requests at this location
 vaos-eligibility-request-past-visits-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; there has not been a recent visit
-vaos-eligibility-request-supported-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; Disabled in VATS for this location and type of care
+vaos-eligibility-request-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
 vaos-eligibility-supported-facilities-failed | `{ health-TypeOfCare: "Mental health", health-FacilityID: "000XYZ"}` | eligibility failed; faciity failed support check
 vaos-error |
 vaos-get-future-appointments-failed | | If any of the upcoming appointments fetches fail: va or cc
