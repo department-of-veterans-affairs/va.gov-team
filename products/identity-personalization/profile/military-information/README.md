@@ -5,7 +5,6 @@ Last Updated: August 19, 2022
 
 - [POCs](#pocs)
 - [Overview](#overview)
-- [Business Rules](#business-rules)
 - [User problem statements](#user-problem-statements)
 - [Analytics](#analytics)
 - [Projects](#projects)
@@ -29,7 +28,25 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Period end dates
 - Multiple periods of service, if applicable
 
-## Business Rules
+## User problem statements
+- As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
+
+## Analytics
+[Google Analytics GET data](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
+
+## Projects
+- [Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)
+
+## Backend
+
+### Overview
+
+- Military integrates through [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services) as of August 2022. 
+- Military information used to integrate through [eMIS](https://depo-platform-documentation.scrollhelp.site/developer-docs/emis), but the organization plans to retire that service.
+- Backend documentation can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md).
+
+### Service periods without an end date
+
 A user can have multiple service history episodes.  It is also possible for a user that is still serving to have an open history episode (an episode without end date). The termination reason code provides the reason for the end of a service history episode. 
 
 A service episode that is missing an end date with a termination reason code of "C", "D", or "S" indicates a data issue, and requires a follow up with  DoD for explanation or correction.
@@ -41,20 +58,6 @@ The following provides a description of the different termination reason codes:
 - "C" Completion of Active Service Period
 - "D" Death while in personnel category or organization
 - "W" Not Applicable
-
-## User problem statements
-- As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
-
-## Analytics
-[Google Analytics GET data](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
-
-## Projects
-- [Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)
-
-## Backend
-- Military integrates through [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services) as of August 2022. 
-- Military information used to integrate through [eMIS](https://depo-platform-documentation.scrollhelp.site/developer-docs/emis), but the organization plans to retire that service.
-- Backend documentation can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md).
 
 ## Design and UX
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775).
