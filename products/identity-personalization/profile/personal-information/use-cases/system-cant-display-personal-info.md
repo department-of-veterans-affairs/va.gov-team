@@ -1,4 +1,4 @@
-# Personal information: VA.gov can’t display any contact information
+# Personal information: VA.gov can’t display any personal information
 **Last updated: August 18, 2022**
 
 For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into the personal information section, we will show an error if we are having issues connecting to the backend. If we are having issues connecting to the backend, there’s no action a user can take to correct this.
