@@ -1,4 +1,4 @@
-# Personal information: User needs to add or update contact information
+# Personal information: User needs to add or update personal information
 **Last updated:** August 23, 2022
 
 - If a user doesn’t have personal information on file, they’ll see a prompt to add missing information within the relevant section.  
