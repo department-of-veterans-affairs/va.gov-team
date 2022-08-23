@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-Last Updated: August 15, 2022
+Last Updated: August 23, 2022
 
 ## Table of Contents
 
