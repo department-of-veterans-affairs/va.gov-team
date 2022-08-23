@@ -1,6 +1,6 @@
 # My Health Medical Records Product Outline `WIP`
 
-Last Updated: August 5, 2022
+Last Updated: August 23, 2022
 
 ### Communications
 
@@ -11,7 +11,8 @@ Last Updated: August 5, 2022
   
 |Name|Role|Email|
 |----|----|-----|
-|Tracey Mulrooney |oCTO Lead| tracey.mulrooney@va.gov |
+|Tracey Mulrooney |OCTO Lead| tracey.mulrooney@va.gov |
+|Coulton Bunney |OCTO Design Lead| coulton.a.bunney@omb.eop.gov |
 |Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
 |Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
 |Megan Graham| Core Team Researcher| megan.graham@adhocteam.us |
