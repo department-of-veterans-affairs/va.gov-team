@@ -4,7 +4,7 @@ A user is considered "LOA1" when they log in to VA.gov but have not verified the
 
 ## UX
 - When an LOA1 user navigates to profile, they'll only see the Account Security page; no other pages in profile are available from the profile navigation menu.
-- If they click a URL that leads directly to any specific page under `/profile/ they're redirected to `/profile/account-security`.
+- If they click a URL that leads directly to any specific page under `/profile/` they're redirected to `/profile/account-security`.
 - [Desktop mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/DPDQDwq)
 - [Mobile mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/zx0boLr)
 
