@@ -58,6 +58,7 @@ As a user, I want to be able to:
 ### What to know about this feature
 - Personal information currently lives within the [VA.gov profile](https://staging.va.gov/?next=%2Fprofile%2Fdirect-deposit)
 - This feature allows users to complete the following core tasks:
+  - View the full name and birth date that the VA has on file for them
   - Add and edit their Preferred name
   - Add and edit their Gender identity
 - To access this feature in the profile, users need to login to VA.gov with an identity-verified (LOA3) account.
