@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 Prep a sharing window with:
-* CMS staging - logged in as the participantVBA facility’s home page
+* VBA facility’s home page
 
 Mute your Slack notifications
 
