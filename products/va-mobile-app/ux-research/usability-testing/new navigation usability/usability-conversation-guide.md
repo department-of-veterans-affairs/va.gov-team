@@ -14,6 +14,12 @@ Slack for real-time feedback from observers.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
+
+### Prorejct Project-Specific Setup
+Participants should have the Zoom application downloaded on their phone
+* [Apple App Store Zoom app](https://itunes.apple.com/us/app/id546505307)
+* [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+
 ### When the participant joins:
 Validate the participant uses the VA Health and Benefits app and get permission for observers to join.
 
