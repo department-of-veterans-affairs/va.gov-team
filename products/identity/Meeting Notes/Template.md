@@ -1,9 +1,9 @@
 
-## Meeting Details: 
-# Title:
-# Date:
-# Purpose:
-# Attendees:
+# Meeting Details: 
+### Title:
+### Date:
+### Purpose:
+### Attendees:
 
 
 
