@@ -5,7 +5,7 @@
 - They can use the “Edit” button to add or update their personal information in edit mode. This applies to:
 	- Preferred name
 	- Gender identity
-- Once they’ve added information, they can use the “Edit” button to update the information in **both sections mailing address**, but they cannot delete the information entirely.
+- Once they’ve added information, they can use the “Edit” button to update the information in both fields personal information, but they cannot delete the information entirely.
 
 ## UX
 ### Adding information
