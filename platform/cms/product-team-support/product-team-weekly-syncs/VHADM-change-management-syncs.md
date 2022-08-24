@@ -1,4 +1,4 @@
-# Bi-Weekly VHA Digital Media sync: Change Management
+# Bi-Weekly VHA Digital Media Sync: Change Management
 
 <details><summary>About this meeting</summary>
 
