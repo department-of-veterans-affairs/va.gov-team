@@ -30,17 +30,21 @@ Zach - 9
    - Create final wireframes & content (2 Zach, 1 Nira)
 - [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
    - Finish 2 remaining revisions and hand off to CHIP team (6 Nira)
+       - Revisions to Message for Health Insurance Review Needed
+       - Revisions to "Too Late" or "Too Early" check-in status Wording for SMS Messages
 - [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927) (2 Zach)
    - Complete and sync to all sources
 - [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489) (3 Zach)
    - Complete and sync to all sources
+- [Stepped Workflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45415)
+   - Design Exploration
 
 #### Engineering Sprint Goals (TENTATIVE)
-FE - 17
+FE - 24
 BE - 16
 - Production Support (4 BE) (4 FE)
     - Log hours [here](https://docs.google.com/spreadsheets/d/1tvPnPEQMQST2BM01oGSBlASGfNhMrHQUX0O7ZlDedV4/edit#gid=0)
-    - Investigate how to display outage/downtime message s in Pre-Check-in & Check-in (3 FE)
+    - [Investigate how to display outage/downtime message s in Pre-Check-in & Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45952) (3 FE)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Verify CHIP dependencies for case comparison is in production (1 FE)
     - Test & release on 8/31 (2 FE)
@@ -53,6 +57,8 @@ BE - 16
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Look at logic in MAS (1 FE)
 - Bugs & Tech Debt 
+   - [Automatically check for hard-coded strings in codebase](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44476) (4 FE)
+   - [Append a URL Param for Error Type](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45777) (3 FE)
    - Use as necessary if, and only when, all Sprint goals are completed
 
 ## 8/10/2022 
