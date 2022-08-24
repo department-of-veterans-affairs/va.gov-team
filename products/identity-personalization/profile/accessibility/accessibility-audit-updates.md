@@ -27,7 +27,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 	-   It would be better if "Mailing address" were H3 instead of a list item, with paragraph text then used for the hint text
 	-   Same applies to Phone numbers and other similar fields in Profile
 - **_Possible contradictory item:_** Previously recommended to use unordered list and headings pattern ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618))
- 	- Accessibility concluded that it would be better to use an unordered list and headings pattern for the profile. I've documented the reasons above!
+ 	- Accessibility concluded that it would be better to use an unordered list and headings pattern for the profile.
 -   **Next steps:** TBD
 
 ### Address validation 
