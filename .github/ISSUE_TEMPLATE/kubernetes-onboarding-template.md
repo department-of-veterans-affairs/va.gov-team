@@ -75,8 +75,6 @@ _Requesting team; Infrastructure Team can assist_
 _Requesting team; Infrastructure Team can assist_  
 - [ ] **Automation to update the Kubernetes manifest** when a new version of the app's container is pushed to ECR | [Example](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.github/workflows/update-manifests.yaml)  
 _Requesting team; Infrastructure Team can assist_
-- [ ] **Argo CD project permissions defined** Add project (or include appropriate namespaces and clusters to existing project) https://github.com/department-of-veterans-affairs/vsp-infra-argocd/tree/main/chart/templates
-_Infrastructure Team_
 
 ### Application secrets and parameters
 - [ ] **AWS SSM Parameter Store path created for your team or app,** ie `/dsva-vagov/team-name/` | [Request here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=)  
