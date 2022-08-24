@@ -75,11 +75,15 @@ In addition to the team above:
 - Engineering:  Teagan Stephenson / Dan Smith
 - Research/Design: Thomas McCue / Carolyn Williams / Carl Dickerson (content)
 
-### Other systems we rely on
+## Other systems we rely on
 
 1095-B relies on data provided by Enrollment Services.
 
 - Contact: Joshua Faulkner | Joshua.Faulkner@va.gov
+
+## Miscellaneous notes:
+
+   # All demonstration decks for 1095-B were combined with Health Hub starting April 19, 2022 and are found in this [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/Health%20Hub/PMO/Sprint%20Demo%20and%20Acceptance)
 
 
 
