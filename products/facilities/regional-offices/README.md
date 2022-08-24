@@ -1,7 +1,7 @@
 # VBA Regional Offices Product Outline 
 
 ## Overview 
-VBA Regional Office sites will be modernized, similarly to the modernization of VAMC sites and Vet Center sites. Modernized VBA sites will leverage existing CMS design patterns, improve accessibilty, provide an efficient moblie experience, and give Veterans seeking access to their benefits more consistent, accurate, and timely information.
+VBA Regional Office sites will be modernized, similarly to the modernization of VAMC sites and Vet Center sites. Modernized VBA sites will leverage existing CMS design patterns, improve accessibilty, provide an efficient moblie experience, and give Veterans and beneficiaries seeking access to their benefits more consistent, accurate, and timely information.
 
 ## Problem Statement
 The legacy VBA RO sites are authored in Teamsite, have a dense and unweidly presentation, are not mobile optimized, are prone to accessibilty issues, and do not have a rigorous content model. 
@@ -19,7 +19,7 @@ How might we leverage what we've learned from VAMC and Vet Center modernization,
 * Veterans and beneficiaries can not find the information they need to plan a visit
 * Veterans and beneficiaries can not easiliy find a facility that offers the benefit they are looking for near them
 * Veterans and beneficiaries travel farther than needed because they were not easily able to determine a facility nearer them offered the benefit they wanted
-* Veterans and beneficiaries make an unnecessary visit to a VBA facility when their need could easily have been met with online information or an online tool
+* Veterans and beneficiaries make an unnecessary visit to a VBA facility when they would have preferred to have their need met with online information or an online tool
 
 ## Desired Business Outcomes
 - Reduced 508 issues 
