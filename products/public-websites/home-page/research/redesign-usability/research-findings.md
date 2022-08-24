@@ -74,7 +74,7 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 
 # Appendix
 
-[Research plan](/research-plan.md)
+[Research plan]()
 
 
 ## Tools used for Synthesis
@@ -151,4 +151,4 @@ TBD--REDO
 * Expat (living abroad)
 * Use assistive technology
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/VA-recruitment-checker.png)
+![VA-recruitment-checker]()
