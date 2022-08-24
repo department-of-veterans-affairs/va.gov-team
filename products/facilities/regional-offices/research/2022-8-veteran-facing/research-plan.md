@@ -1,22 +1,22 @@
-# Research Plan for Facilities, Veteran Benefits Administration Pages, August 2022
+# Research Plan for Facilities, Regional Offices, August 2022
 
 ## Background
 
-Veteran Benefit Administration locations provide veterans with access to non-medical benefits. This can include things like:
+Regional offices and their children, benefits offices, provide Veterans with access to non-medical benefits. This can include things like:
 
 *   education and training
 *   pension
 *   life insurance
 *   home loans
-*   special services for elderly, homeless, or veterans who are members of other marginalized groups.
+*   special services for elderly, homeless, or Veterans who are members of other marginalized groups.
 
-The Veteran Benefit Administration pages seek to give important information about physical locations where veterans can seek help. The Veteran Benefit Administration pages are accessible through the public unauthenticated web. These pages are an expansion of existing information pages but with lots of new functionality that ties it in with existing location services. 
+The regional/benefit office pages seek to give important information about physical locations where Veterans can seek help and receive benefits. The regional/benefit office pages are accessible through the public unauthenticated web. These pages expand on prior work done with the facility locator, VAMCs, and vet centers. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities).
 
 ### OCTO Objectives
 
-This research aligns with the following OCTO Objectives
+This research aligns with the following OCTO objectives:
 
 North Stars:
 
@@ -47,7 +47,7 @@ Decrease:
 
 ### Veteran Journey
 
-Veteran Benefits Administration pages touch on the following stages of the Veteran Journey:
+Regional/benefit office pages touch on the following stages of the Veteran Journey:
 
 *   Getting out (engaging VA to access benefits and services)
 *   Starting Up (Finding something to do, re-establishing and creating relationships, balancing finances, finding a place to live)
@@ -57,17 +57,17 @@ Veteran Benefits Administration pages touch on the following stages of the Veter
 
 ## Research Goals
 
-What are Veteran use cases for researching Veteran Benefit Administration locations?
+What are Veteran use cases for researching regional/benefit office locations?
 
 ### Outcome
 
-It will give us a fuller understanding of what veterans need, and provide a baseline experience for empathizing with their goals. 
+It will give us a fuller understanding of what Veterans need, and provide a baseline experience for empathizing with their goals. 
 
 ### Research questions
 
-*   Do veterans understand the different types of facilities?
-*   What are the top tasks that veterans seek out the Veteran Benefits Administration for? 
-*   How important is the child location relationship to the regional office for veterans?
+*   Do Veterans understand the different types of facilities?
+*   What are the top tasks that Veterans seek out a regional/benefit office for? 
+*   How important is the child location relationship to the regional office for Veterans?
 *   What are the questions Veterans want answered by calling the phone number(s)?
 *   Is a list of Veteran Service Organizations (VSOs) located at that facility important?
 
@@ -75,7 +75,7 @@ It will give us a fuller understanding of what veterans need, and provide a base
 
 What do you intend to learn and measure from this study? 
 
-*   I don't really know anything about how veterans use this currently but I assume that it will be very similar to how they use existing vet center and VAMC search tools, and will follow standard industry practices for location search and detail page patterns.
+*   We believe that Veterans will have similar goals as Veterans using the facility search tool, VAMC, and Vet Center pages, and will be operating with familiarity with industry standard design patterns for location search and details. 
 
 What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 
@@ -87,25 +87,25 @@ What do you think users will do or think about this product? (Identifying our as
 
 ### Location
 
-Remove, via Zoom. 
+Remote, via Zoom. 
 
 ## Research Materials
 
-*   [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/vba-research/conversation-guide.md)
+*   [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/conversation-guide.md)
 
 ## Recruitment
 
 ### Recruitment approach
 
-Recruited through Perigean.
+Recruit through Perigean.
 
 ### Recruitment criteria
 
-Recruiting 10-14 veterans who have:
+Recruiting 10-14 Veterans who have:
 
-*   Visited a Regional Office Veteran Benefits Administration center in the last six months. 
+*   Visited a regional of benefits office in the last six months. 
 *   It would be nice to have at least one vet who uses assistive technology (such as a screen reader)
-*   A range of ages from recently in service to older veterans. 
+*   A range of ages from recently in service to older Veterans. 
 *   Veterans who live both in urban and rural locations.
 
 ## Timeline
