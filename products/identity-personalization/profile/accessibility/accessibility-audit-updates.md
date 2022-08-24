@@ -52,7 +52,6 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 
 ### Phone # Accessibility Fixes
 - The phone number is not that accessible. The screen reader reads out the number as a regular number rather than a phone number. ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44534))
-- Content doesn't align with style guidance ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31445))
 
 ### Account Security
 -   If navigating by heading, it's easy to skip all main fields
