@@ -59,6 +59,7 @@ Check-in has expanded our access to more appointment data, which we can display 
   - reason for visit
   - facility directions (map link)
   - cancel status
+  - patient name
 
 The goal for this study is to identify what appointment data is most important within certain portions of the day of check-in and pre-check-in experiences. 
 
