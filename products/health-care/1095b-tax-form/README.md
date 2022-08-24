@@ -8,13 +8,13 @@ In most cases, it is simply a form for one's records. However, some states still
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095B-Tax-Form-Product-Outline.md)
 - [Zenhub board](https://app.zenhub.com/workspaces/1095b-tax-form-61e19735167b2500170b2146/board)
-- GitHub Label: 1095b-Tax-Form
+- GitHub label: 1095b-Tax-Form
 - When this is in production, it will be available at [http://www.va.gov/records/download-your-irs-1095-b](http://www.va.gov/records/download-your-irs-1095-b)
 - Designs
     - [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
     - [MVP webpage designs PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20MVP%20Product%20Designs.pdf)
     - [Opt-in webpage designs PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20Post-MVP%20Paperless%20Designs.pdf)
-    - [Opt-in profile design Component](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/design/Opt-in%20Profile%20Component%20designs%208.16.22) 
+    - [Opt-in profile design component](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/design/Opt-in%20Profile%20Component%20designs%208.16.22) 
     - [Feature toggle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/Feature%20toggle)
     - [VA Notify templates - emails](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/VA%20Notify) -content under revision by sitewide, standing by for new design
     
@@ -33,7 +33,7 @@ In most cases, it is simply a form for one's records. However, some states still
 In the near term, there are essentially going to be two releases:
 
 * [MVP release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/1095b-release-plan.md) -- This makes the 1095-B form available online
-* [Paperless delivery Opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
+* [Paperless delivery opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
 * Post opt-in consideration
     * [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
     * Multi-year retrieval
@@ -68,7 +68,7 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
 - Stakeholders: Tarsha Tremble (Business owner/Health Enrollment Center) | tarsha.tremble@va.gov
 - OGC Legal reviewer: 
 
-### Team Members
+### Team members
 
 In addition to the team above: 
 
@@ -83,8 +83,4 @@ In addition to the team above:
 
 ## Miscellaneous notes:
 
-- All demonstration decks for 1095-B were combined with Health Hub starting April 19, 2022 and are found in this [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/Health%20Hub/PMO/Sprint%20Demo%20and%20Acceptance)
-
-
-
-
+- All sprint review/demo decks for 1095-B were combined with Health Hub starting April 19, 2022 and are found in this [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/Health%20Hub/PMO/Sprint%20Demo%20and%20Acceptance)
