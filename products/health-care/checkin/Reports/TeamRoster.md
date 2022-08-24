@@ -45,6 +45,6 @@ Ya-ching Tsao (Civic Actions)
 User Experience Designer
 yaching.tsao@civicactions.com
 
-Edward Teeple (J3T)
+Edward Teeple (J3T)** part-time project allocation** 
 Cybersecurity Engineer
 Edward.teeple@j3t.LLC
