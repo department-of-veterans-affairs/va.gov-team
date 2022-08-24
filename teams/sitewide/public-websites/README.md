@@ -1,20 +1,15 @@
 # Sitewide Public Websites
 
-### Description of Current Work
 Public Websites team supports the modernized, unauthenticated veteran experience on VA.gov.
 
-### Slack Channels
-- [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
+**Slack**: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
-
-### Github Labels
-_What labels are your GitHub issues tagged with?_
-- `⭐️ Public Websites`
-
+**Github / work tracking**
+- [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?labels=%E2%AD%90%EF%B8%8F%20public%20websites)  (install Zenhub browser plugin)
+- Team label: `⭐️ Public Websites`
 
 ### Points of Contact 
-_Who are the primary contacts for your team(s)?  
-Do not publish personal contact info, only names and slack contact name._
+- Product Owner: Dave Conlon (@davidconlon)
 - Program Management: Clarence Maeng (@cmaeng)
 - Product Management: Wes Rowe (@wesrowe)
 - Delivery Management: Jill Adams (@jilladams)
@@ -22,6 +17,8 @@ Do not publish personal contact info, only names and slack contact name._
 - FE Engineering: Ryan Koch (@ryguyk), Allison Lu (@allisonlu), Josh Mills (@jtmst)
 - Drupal Engineering: Daniel Sasser (@dsasser), Christia Troyer (@chri5tia)
 
+### Products we support
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites
 
 ### Key Documents
 
