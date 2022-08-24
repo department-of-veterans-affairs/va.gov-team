@@ -53,6 +53,26 @@ vets-api:
 - [Script that loads 1095-B data from S3 bucket](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/workers/form1095/new1095_bs_job.rb)
 
 
+### Accessing and viewing logs
+Start by using this documentation to gain access to and then navigate to Grafana:
+https://depo-platform-documentation.scrollhelp.site/developer-docs/centralized-logging-with-loki-and-grafana 
+
+In ‘Log browser’, start by entering `{app="vets-api-worker"} |= “New1095BsJob”`, and set the time period to whatever you desire. This will display all logs for the New1095BsJob in the given time period.
+
+To narrow down your search, here are some key words to search for:
+
+- “error”: displays error level logging that has occurred in the given time period
+- “warn”: displays warn level logging
+- “info”: displays info level logging
+- “failed to save”: displays logging for any files that failed to load in all 1095B forms in the file
+- “Successfully read”: shows logging for successfully read files
+- “files read successfully”: show final result logging for script (displays # files read successfully out of total files it attempted to read)
+- "files found”: shows how many files the script is going to try to read in
+- “Failed to save”: show any forms that failed to save (gives form id from flat file with it)
+
+append ` |= “key word”` to Log browser to search 1095B logging for given key word. i.e. `{app="vets-api-worker"} |= “New1095BsJob” |= “key word”`
+
+
 ### Links to technical diagrams
 - [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/architecture-plan.md)
 - [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Data%20Flow%20Diagram.md)
