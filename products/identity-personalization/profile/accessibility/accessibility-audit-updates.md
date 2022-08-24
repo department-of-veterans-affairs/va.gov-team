@@ -20,12 +20,14 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 - [Slack thread](https://design.va.gov/patterns/forms/sub-task)
 - **Next steps:** TBD
 
-### Field "headings" (i.e. Mailing address and Home address)
+### Field "headings" / lists (i.e. Mailing address and Home address)
 -   Some changes are needed for the field names/headings
--   Concern also raised during during BAI pilot session with Angela
+-   Concern also raised during BAI pilot session with Angela
 -   **Recommendations:**
 	-   It would be better if "Mailing address" were H3 instead of a list item, with paragraph text then used for the hint text
 	-   Same applies to Phone numbers and other similar fields in Profile
+- **_Possible contradictory item:_** Previously recommended to use unordered list and headings pattern ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618))
+ 	- Accessibility concluded that it would be better to use an unordered list and headings pattern for the profile. I've documented the reasons above!
 -   **Next steps:** TBD
 
 ### Address validation 
@@ -48,8 +50,9 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 -   The help phone number is ok for the screen reader, but 711 is not. TTY is not part of the aria label and needs to be. Angela would put TTY prior to the 711 in actual link text
 -   **Next steps:** _Resolved?_
 
-### Phone # Accessibility Fix
+### Phone # Accessibility Fixes
 - The phone number is not that accessible. The screen reader reads out the number as a regular number rather than a phone number. ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44534))
+- Content doesn't align with style guidance ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31445))
 
 ### Account Security
 -   If navigating by heading, it's easy to skip all main fields
