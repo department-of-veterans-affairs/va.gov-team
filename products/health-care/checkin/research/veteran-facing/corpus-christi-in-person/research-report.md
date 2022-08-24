@@ -558,10 +558,8 @@ Photos of PCI poster placements and lack of clutter on the walls within the wait
   - Those willing to participant through intercept method at clinics
 - 30 Staff
   - 13 MSAs
-  - 7 Nurses
+  - 8 Nurses or Nursing Manager
   - 3 MSA Leads
   - 3 Volunteers
-  - 1 Chief
-  - 1 Administrative Officer
-  - 1 Nursing Manager
+  - 2 Administrators
   - 1 Health Benefits Advisor
