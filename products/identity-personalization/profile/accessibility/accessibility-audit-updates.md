@@ -10,12 +10,14 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 
 ### Sidebar nav position 
 - Currently below the H1 and creating confusion for screen reader users ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
+- [Slack thread](https://design.va.gov/patterns/forms/sub-task)
 -   **Next steps:**  
 
 ### Hubless spoke
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
 - Concerns presented by accessibility folks regarding current challenges due to the lack of a true landing page
 - Initial meeting held with Josh Kim, David Kennedy, and Matt Dingee
+- [Slack thread](https://design.va.gov/patterns/forms/sub-task)
 - **Next steps:** TBD
 
 ### Field "headings" (i.e. Mailing address and Home address)
