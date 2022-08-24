@@ -63,13 +63,13 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 
 ### Connected Apps
 -   Screen reader user is not aware of most content
--   Headings can be changed to improve this page
--   **Recommendations:**
-	-   Angela suggested having an H2 that says Connected Apps with the rest of the headings (app names) as H3, so a screen reader could easily skip down to Veteran programs and services
--   **Next steps:** TBD
+	-   Headings can be changed to improve this page
+	-   **Recommendations:**
+		-   Angela suggested having an H2 that says Connected Apps with the rest of the headings (app names) as H3, so a screen reader could easily skip down to Veteran programs and services
+	-   **Next steps:** TBD
+-   Minor heading level change in featured content ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37363))
 
-### Notification settings
-- Minor heading level change in featured content ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37363))
+
 
 ### Editing in Profile
 
