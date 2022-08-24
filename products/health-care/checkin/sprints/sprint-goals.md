@@ -5,41 +5,54 @@
 #### Planned Releases (TENTATIVE)
 - 8/31 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
  
- #### Discovery Sprint Goals (TENTATIVE)
+#### Meetings
+CDW Knowledge Sharing Session with Patrick (Sarah)
+ 
+#### Discovery Sprint Goals (TENTATIVE)
+ Ben - 7
+ Ya-Ching - 8
+ Kristen - 10
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Synthesize results & create report
+    - Synthesize results & start report (7 Ben)
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Test prototypes with end users
-    - Begin synthesis & report
+    - Test prototypes with end users (8 Ya-Ching)    
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - ????
-- [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - ?????
+    - Create the Optimal Workshop Survey (5 Kristen)
+    - Create Recruitment Email (5 Kristen)
 
-#### Design & Content Sprint Goals (TENTATIVE) 
-- [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927)
-- [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489)
+#### Design & Content Sprint Goals (TENTATIVE) (17)
+Nira - 8
+Zach - 9
+- [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
+   - Create final wireframes & content for error message (2 Zach, 1 Nira)
+- [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
+   - Create final wireframes & content (2 Zach, 1 Nira)
+- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
+   - Finish 2 remaining revisions and hand off to CHIP team (6 Nira)
+- [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927) (2 Zach)
+   - Complete and sync to all sources
+- [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489) (3 Zach)
+   - Complete and sync to all sources
 
 #### Engineering Sprint Goals (TENTATIVE)
+FE - 17
+BE - 16
+- Production Support (4 BE) (4 FE)
+    - Log hours [here](https://docs.google.com/spreadsheets/d/1tvPnPEQMQST2BM01oGSBlASGfNhMrHQUX0O7ZlDedV4/edit#gid=0)
+    - Investigate how to display outage/downtime message s in Pre-Check-in & Check-in (3 FE)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
-    - Test & release on 8/31
+    - Verify CHIP dependencies for case comparison is in production (1 FE)
+    - Test & release on 8/31 (2 FE)
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
-    - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint
-- [Travel Reimbursement](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
-   - Figure out how to access the BTSSS API & get access
+    - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint (12 BE) (3 FE)
 - [CIE Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42190)
-    - Add GA events to language toggle
-    - Break out metrics by modality
-    - Make list of all GA events we have
-    - Measure Repeat Customers
-    - Look at higher bounce rates for screen resolutions 
-    - Determine % of patient appointments that are within a half hour of one another
+    - [Ignore traffic from Synthetic monitor when reporting to StatsD](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46021) (4 FE)
+    - [Talk to Platform team to determine how to store Datadog metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45953) (1 FE)
+    - [Add GA events to language toggle](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45230) (1 FE)
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
-    - Look at logic in MAS
-- [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
-    - Continue spiking
+    - Look at logic in MAS (1 FE)
 - Bugs & Tech Debt 
-   - As many as can fit in the Sprint
+   - Use as necessary if, and only when, all Sprint goals are completed
 
 ## 8/10/2022 
 
@@ -48,21 +61,21 @@
  
 #### Discovery Sprint Goals 
 - [July Research]()
-    - Finish study report
+    - Finish study report (DONE)
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
-    - Test prototypes with users
+    - Test prototypes with users (DONE)
 - [Check-in for VA-Owned Devices](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44695)
-    - Team meeting to go through applications
+    - Team meeting to go through applications (DONE)
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
-    - Create research plan
+    - Create research plan (DONE)
 
 #### Design & Content Sprint Goals 
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Finish prototypes for language toggle 
+    - Finish prototypes for language toggle  (DONE)
 - [Phone Numbers in Pre-check-in's "Need Help" section](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/34527)
-    - Verify that this functionality is already in the application and document in the ticket
+    - Verify that this functionality is already in the application and document in the ticket (DONE)
 - [Include Time Zone with Appointment Times in Check-in & Pre-Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39390)
-    - Create final wireframes (or verify that they are done) & attach to the ticket
+    - Create final wireframes (or verify that they are done) & attach to the ticket (DONE)
 - [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927)
 - [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489)
  
@@ -71,9 +84,9 @@
     - Implement new [feature toggle handler](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45491) 
     - ~Test & release on 8/23~
 - [BUG] [Update accordion content when Veteran starts pre check in for phone appt after 15 mins past appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45492)
-    - Fix & release as completed
+    - Fix & release as completed (DONE) 
 - [CIE Performance Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39600) 
-    - Support CHIP team as necessary for CHIP api
+    - Support CHIP team as necessary for CHIP api (DONE)
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
     - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint
 - [Travel Reimbursement](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265)
@@ -90,8 +103,8 @@
 - [Integrate with EAS (Enterprise Appointment Service)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44874)
     - Continue spiking
 - [Staging Tool Enhancements](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43413)
-    - Add ability to set "needs insurance review" flag
-    - Fix 2 bugs
+    - Add ability to set "needs insurance review" flag (DONE)
+    - Fix 2 bugs (DONE)
 - Bugs & Tech Debt 
    - As many as can fit in the Sprint
 
