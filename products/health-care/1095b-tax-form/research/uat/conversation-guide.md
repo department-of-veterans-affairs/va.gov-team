@@ -27,10 +27,9 @@ Slack for real-time feedback from observers.
 - When the participant is ready, begin the session with the following intro*
 
 
-
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about an IRS form called the 1095-B. The 1095-B form provides information about health coverage for some or all months of the year. If you get health coverage through Veterans Affairs, you'll receive a 1095-B. Currently, you probably receive a paper copy of this form at the end of the year.  
+*MODERATOR*: Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we'll ask you to help us test va.gov on a topic related to healthcare and tax documentation. 
 
 Before we start, a few things I want to mention:
 
@@ -44,15 +43,33 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions
 
-Before we look at the website, let’s start with a few warm-up questions.
+*MODERATOR*: Can you tell me a little bit about yourself? (If stuck, as about location, occupation, military service history)
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+## Interview
+
+*MODERAOR*: To start, I'd like to ask you a few questions about your usage of VA benefits and digital services. 
+
+- Are you currently enrolled in the VA healthcare system and use any of those benefits? 
+    - A [IF NO] Do you get health insurance from an employer or pay out of pocket?    
+
+- Are you familiar with a form called the 1095-B? 
+    - A [IF NO] It's ok! I wasn't really either! It's a form that shows proof of health insurance that you might receive from the VA or an employer. In previous years you might have included it with your taxes to show the IRS you were covered with health insurance. 
+
+- Do you recall ever getting someting like that in the mail from VA or maybe an employer? 
+
+- Do you do taxes yourself or with your spouse? Do you ever use tax filing software like Turbo Tax? 
 
 ## First Task: [Participant loads 1095-B page] - X minutes
 
-We'd like to 
+*MODERATOR* We've taken the first step in making the 1095-B form available online. Let's first load the page where the form is available for download. I'm going to put the link to the page in the Zoom chat. Let's go ahead and load that page. 
+
+Please think aloud and walk me through what you see on the screen. 
+
+
+
+
 
 - Step 1 
 - Step 2
