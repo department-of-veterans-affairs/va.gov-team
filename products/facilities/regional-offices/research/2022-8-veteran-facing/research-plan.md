@@ -127,9 +127,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Length of sessions
 
-*   Session length: (e.g. 30 minutes, \< 1 hour, up to 2 hours, up to 4 hours)
-*   Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)
-*   Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+*   Session length: 30 minutes
+*   Buffer time between sessions: 30 minutes
+*   Maximum Sessions per day: 4
 
 ### Availability
 
