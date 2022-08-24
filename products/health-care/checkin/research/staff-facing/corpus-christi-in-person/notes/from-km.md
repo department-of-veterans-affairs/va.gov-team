@@ -130,7 +130,7 @@ Observations:
   - Nursing thinks that it would be great if the system would allow MSAs to do a “no show” note and send (maybe automatically) a letter.
 - Nursing leadership and some nurses do rounds in the waiting room to see if Veterans are there, whether they are checked in or not.
 
-#### MSA Supervisor
+#### MSA (Management)
 - It took 2 years for Veterans to trust the kiosk. Now they feel that VA gave something and took it away.
 - The lobby is small, so line get long fast and easy. 
 - Before they would have someone in the lobby showing Veterans how to check-in. This was an MSA.
@@ -360,7 +360,7 @@ The kiosks are this location are currently used for:
   - Some Veterans are upset on day of check-in, because they think that they did everything already
   - NPS: no opinion
 
-#### Chief
+#### Administrator
 **First Meeting**
 - Feedback on reporting
   - Can only see one clinic at a time
@@ -455,7 +455,7 @@ The kiosks are this location are currently used for:
 
 ![SouthEnterprizeVAClinic-Layout](https://user-images.githubusercontent.com/66287082/182221851-b5737fb9-886e-4d49-b7b0-d86d38f6dcf3.jpg)
 
-#### Administrative Officier and MSA Supervisor
+#### Administrator and MSA (Management)
 - Older population who don't care for the system.
 - The security guards at the entrance help educate Veterans about PCI.
   - They tried to train security how to use the QR code, so they could teach others.
@@ -786,7 +786,7 @@ The kiosks are this location are currently used for:
   - But, this really isn't an issue.
   - Don't have too many patients who only speak Spanish. If this is the case, they tend to have someone come in with them to help.
 
-#### 3 MSAs and 1 MSA Supervisor for Behavioral health
+#### 3 MSAs and 1 MSA (Management)
 - PCI isn't working with older Vets
 - Some do pre-check-in and think that they are checked in.
 - They encourage the Veterans o verify with teh clerk that they are checked in.
@@ -849,7 +849,7 @@ The kiosks are this location are currently used for:
 - Training happened on Friday before the Monday launch.
   - This was not enough time to prepare.
 
-#### 2 Behavioral Health MSAs
+#### 2 MSAs
 - Veterans don't know how to text or use phones.
 - Older ones don't want to deal with it.
 - They try to use the kiosk to check-in.
