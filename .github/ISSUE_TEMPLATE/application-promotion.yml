@@ -46,8 +46,8 @@ body:
   - type: input
     id: maintainer
     attributes:
-      label: Maintainer
-      description: GitHub username of single user or comma-separated list of users
+      label: Maintainer(s)
+      description: GitHub username of single user or comma-separated list of users with spaces (i.e. ph-One, jbritt1, mleclerc00)
       placeholder: my-github-username-va
     validations:
       required: true
