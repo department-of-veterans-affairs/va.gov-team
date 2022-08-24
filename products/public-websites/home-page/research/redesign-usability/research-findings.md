@@ -1,4 +1,4 @@
-# VA.gov Home Page Redesign Usability Testing Findings 
+# VA.gov Home Page Redesign Usability Test Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
