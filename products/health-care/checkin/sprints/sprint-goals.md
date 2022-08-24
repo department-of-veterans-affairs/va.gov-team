@@ -2,62 +2,58 @@
 
 ## 8/24/2022 
 
-#### Planned Releases (TENTATIVE)
+#### Planned Releases 
 - 8/31 [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)   
  
 #### Meetings
 - [CDW Knowledge Sharing Session with Patrick](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45950) (Sarah)
  
-#### Discovery Sprint Goals (TENTATIVE)
+#### Discovery Sprint Goals 
  Ben - 7
  Ya-Ching - 8
+ Nira - 8
  Kristen - 10
 - [Travel Reimbursement - MVP](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) 
     - Synthesize results (5 Ben)
+    - Start report
     - Get Questions Answered (2 Ben)
 - [August Research (REMOTE)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/38255)
-    - Test prototypes with end users (8 Ya-Ching)    
+    - Test prototypes with end users (8 Ya-Ching/Nira)   
 - [Make Appointment Info Consistent with VAOS](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45315)
     - Create the Optimal Workshop Survey (5 Kristen)
     - Create Recruitment Email (5 Kristen)
 
-#### Design & Content Sprint Goals (TENTATIVE) (17)
-Nira - 8
-Zach - 9
+#### Design & Content Sprint Goals 
+Zach - 7
 - [Display Error Message when Pre-Check-in Link has Expired](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46117)
-   - Create final wireframes & content for error message (2 Zach, 1 Nira)
+   - Create final wireframes & content for error message (2 Zach)
 - [Add Check-in Process Info to Pre-Check-in Confirmation and No Longer Available Pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44392)
-   - Create final wireframes & content (2 Zach, 1 Nira)
-- [Content Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/42575)
-   - Finish 2 remaining revisions and hand off to CHIP team (6 Nira)
-       - Revisions to Message for Health Insurance Review Needed
-       - Revisions to "Too Late" or "Too Early" check-in status Wording for SMS Messages
+   - Create final wireframes & content (2 Zach)
 - [Add scenario to user flow documentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43927) (2 Zach)
    - Complete and sync to all sources
-- [Add user flow to day-of check-in product guide](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/37489) (3 Zach)
-   - Complete and sync to all sources
-- [Stepped Workflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45415)
-   - Design Exploration
+- Coordinate with Design System Team on 360/275 Resolution
+   - Complete (Zach 1)   
 
-#### Engineering Sprint Goals (TENTATIVE)
-FE - 24
-BE - 16
+#### Engineering Sprint Goals 
+FE - 21
+BE - 18
 - Production Support (4 BE) (4 FE)
     - Log hours [here](https://docs.google.com/spreadsheets/d/1tvPnPEQMQST2BM01oGSBlASGfNhMrHQUX0O7ZlDedV4/edit#gid=0)
-    - [Investigate how to display outage/downtime message s in Pre-Check-in & Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45952) (3 FE)
+    - [Investigate how to display outage/downtime message s in Pre-Check-in & Check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45952) (3 FE) (1 BE)
 - [LoROTA Security Updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/39193)
     - Verify CHIP dependencies for case comparison is in production (1 FE)
     - Test & release on 8/31 (2 FE)
 - [Delete LoROTA Entry when All Authentication Attempts Fail](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/43720)
-    - Complete & release with feature toggle to allow temporarily avoiding calling the LoROTA DELETE endpoint (12 BE) (3 FE)
+    - Make progress (12 BE) (2 FE)
 - [CIE Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42190)
     - [Ignore traffic from Synthetic monitor when reporting to StatsD](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46021) (4 FE)
-    - [Talk to Platform team to determine how to store Datadog metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45953) (1 FE)
+    - Filter out monitoring IP addresses in GA (1 BE + Ben) 
+    - [Talk to Platform team to determine how to store Datadog metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45953) (1 FE) (Adrian)
     - [Add GA events to language toggle](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45230) (1 FE)
+    - Configure/update GA Events (2 FE)
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Look at logic in MAS (1 FE)
 - Bugs & Tech Debt 
-   - [Automatically check for hard-coded strings in codebase](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44476) (4 FE)
    - [Append a URL Param for Error Type](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45777) (3 FE)
    - Use as necessary if, and only when, all Sprint goals are completed
 
