@@ -2,7 +2,8 @@
 
 ## Contract update
 **Contract period for VSA Public Websites ended April 2022.** 
-Contract transitioned to Agile6 under Sitewide, and team information from that point can be found at (teams/sitewide/public-websites)[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites].
+
+Contract transitioned to Agile6 under Sitewide, and team information from that point can be found at [teams/sitewide/public-websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites).
 
 ---
 
