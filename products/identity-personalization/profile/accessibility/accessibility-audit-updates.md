@@ -68,6 +68,9 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 	-   **Next steps:** TBD
 -   Minor heading level change in featured content ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37363))
 
+### Notification settings
+- The legend element should be the first child of the fieldset for notification preferences ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31449))
+- **Next steps:** [Ticket in icebox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041)
 
 
 ### Editing in Profile
