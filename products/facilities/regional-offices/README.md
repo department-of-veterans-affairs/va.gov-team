@@ -8,17 +8,18 @@ The legacy VBA RO sites are authored in Teamsite, have a dense and unweidly pres
 How might we leverage what we've learned from VAMC and Vet Center modernization, and apply some of the same processes to produce RO pages consistent with other pages in the modernized experience. 
 
 ## Desired User Outcomes
-* Veterans, their family members, and their caretakeers visiting RO sites can easily find accurate and timely information they need to plan for a visit and to access their benefits.
-* Site visitors with accessiblity issues can navigate the site and find the answers they need.
-* Site visitors on mobile devices users can accomplish the majority, if not all, of the tasks available on the desktop experience. 
-* Site visitors have access to a consitent experience. Visiting one RO site informs visiting any other RO site, vistors know where to find the information they're looking for and do not have to learn new patterns.
+* Veterans and beneficiaries visiting RO sites can easily find accurate and timely information they need to plan for a visit and to access their benefits
+* Veterans and beneficiaries with accessiblity issues can navigate the site and find the answers they need
+* Veterans and beneficiaries on mobile devices can accomplish all the tasks available on the desktop experience
+* Veterans and beneficiaries have access to a consitent experience. Visiting one RO site informs visiting any other RO site, vistors know where to find the information they're looking for and do not have to learn new patterns at a different RO site
 
 ## Undesired User Outcomes
-* Visitors become frustrated 
+* Veterans and beneficiaries become frustrated using a RO website
 * Site information is inaccurate or out of data
-* Site visitors can not find the information they need to plan a visit
-* Site visitors can not easiliy find a facility that offers the benefit they are looking for near them
-* Visitors travel farther than needed because they were not easily able to determine a facility near them offered the benefit they wanted  
+* Veterans and beneficiaries can not find the information they need to plan a visit
+* Veterans and beneficiaries can not easiliy find a facility that offers the benefit they are looking for near them
+* Veterans and beneficiaries travel farther than needed because they were not easily able to determine a facility nearer them offered the benefit they wanted
+* Veterans and beneficiaries make an unnecessary visit to a VBA facility when their need could easily have been met with online information or an online tool
 
 ## Desired Business Outcomes
 - Reduced 508 issues 
