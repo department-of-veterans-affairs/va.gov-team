@@ -140,6 +140,35 @@
 ## 4 - Public Contact Team Research
 
 - Research epic
+- Research folder
+
+### Team
+- Denise Eisner - lead
+- Dave Pickett
+- Aslan French
+
+### Methods
+- Structured interviews with Research Plan and Conversation Guide
+
+### Timeline / Dependencies
+- 1 sprint - Draft Research Plan and Conversation Guide
+- 🛑 - Interviews cannot be scheduled until MVP sites have been identified and connections with staff have been established 
+- 1 sprint - ⚠️ Scheduling interviews
+- 1 sprint - Conducting interviews
+- 1 sprint - Synthesize research & schedule readout
+- 1 sprint - Research readout & documenting findings in research repo
+
+### Research Questions
+- What are the common things Veterans ask for?
+- When do Veterans ask for a benefit by phone vs. in person and typically why?
+- What do Veterans typically try to accomplish during a facility visit? 
+- What are the situations when Veterans don't feel successful getting a benefit at the facility?
+- What do Veterans need to know or do to be adequately prepared for a visit?
+- What are the unique characteristics of the benefits offered by that facility?
+- How are the available services handled by the Public Contact team?
+- How are Veteran Service Organizations (VSOs) located at that facility important and why?
+- When should some benefits be encouraged or promoted to be done online?
+- Does the Public Contact staff handle any aspect of the facility's website?
 
 
 ## 5 - Editor Research
