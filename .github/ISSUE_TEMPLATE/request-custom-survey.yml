@@ -32,7 +32,7 @@ body:
     attributes:
       label: Product Description
       description: Please provide a high level description (one or two sentences) of your product(s).
-      placeholder: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus pellentesque mauris, ac viverra odio. Vivamus ultricies iaculis mattis.
+      placeholder: 
     validations:
       required: true
   - type: textarea
@@ -47,16 +47,25 @@ body:
     id: launch-date
     attributes:
       label: Launch Date
-      description: Please provide the launch or rollout date of your product(s). If already live, please select today’s date.
-      placeholder: July 2, 2022
+      description: Please provide the launch or rollout date of your product(s). If already live, please enter today’s date.
+      placeholder: MM-DD-YYYY
     validations:
       required: true
   - type: dropdown
     id: pra-approval
     attributes:
       label: PRA Approval
+      description: Are the questions and answers you’re choosing for your custom survey from the PRA approved list linked here?
       options:
         - 'Yes'
         - 'No'
+    validations:
+      required: true
+  - type: textarea
+    id: custom-questions
+    attributes:
+      label: Custom Survey Questions
+      description: Please enter your question and answer options.
+      placeholder: 
     validations:
       required: true
