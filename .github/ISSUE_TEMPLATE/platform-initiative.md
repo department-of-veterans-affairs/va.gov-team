@@ -56,7 +56,7 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 - [ ] _(if applicable)_ This change has clearly-defined success metrics, with instrumentation of those analytics where possible, or a reason documented for skipping it.
     * For help, see: [Analytics team](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guide.1586823275.html)
-- [ ] This change has an accompanying [VSP Initiative Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
+- [ ] This change has an accompanying [Platform Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
 
 ### When you're ready to launch...
 - [ ] Configure your communication to teams about your work using the [Change Communication Guide](https://vfs.atlassian.net/wiki/spaces/PMCP/pages/2317647873/Change+Communication+Guide)
