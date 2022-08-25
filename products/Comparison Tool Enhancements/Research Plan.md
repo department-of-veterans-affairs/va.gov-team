@@ -110,7 +110,7 @@ Project POCs:
 3. Leelah Holmes, leelah.holmes@accenturefederal.com, +1 571-775-5432 
 4. Ricardo Da Silva, ricardo.dasilva@va.gov, Project Product Owner 
 
-Project Brief: 
+Project Brief: (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Comparison%20Tool%20Enhancements/Product%20Outline.md)
 Synthesis: Will be completed after survey concludes.   
 Lessons Learned: Will be completed after survey concludes.   
 Read-Out/Results: Will be completed after survey concludes. 
