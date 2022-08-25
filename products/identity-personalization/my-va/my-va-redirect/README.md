@@ -1,5 +1,5 @@
 # My VA Redirect Initiative Brief
-Last updated: 5/25/2022
+Last updated: August 25, 2022
 
 ### Table of Contents
 - [Outcome Summary](#outcome-summary)
@@ -30,7 +30,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: We see less than a 10% increase or no increase in clicks back to the homepage from My VA.
 
-|Metric|1 week pre-launch | 1 week post-launch to 25% |1 week post-launch to 50% |1 week post-launch to 100% | 1 month post-launch to 100%| 3 months post-launch to 100%|
+|Metric|1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Clicks to the homepage from My VA|TBD|TBD|TBD|TBD|TBD|TBD|
 |Exits from VA.gov from My VA|TBD|TBD|TBD|TBD|TBD|TBD|
@@ -41,14 +41,14 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: We see a 25% increase or greater for clicks into the following links:
 
-|Link name | # of clicks 1 week pre-launch | # of clicks 1 week post-launch to 100% |  # of clicks 1 month post-launch to 100%|  # of clicks 3 months post-launch to 100%|
-|----|-----------|-----------|-----------|-----------|
-|View claim|TBD|TBD|TBD|TBD|
-|Manage all your claims and appeals|TBD|TBD|TBD|TBD|
-|View all appointments|TBD|TBD|TBD|TBD|
-|View all messages|TBD|TBD|TBD|TBD|
-|View all prescriptions|TBD|TBD|TBD|TBD|
-|View all payments|TBD|TBD|TBD|TBD|
+|Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
+|----|-----------|-----------|-----------|-----------|-----------|-----------|
+|View claim|TBD|TBD|TBD|TBD|TBD|TBD|
+|Manage all your claims and appeals|TBD|TBD|TBD|TBD|TBD|TBD|
+|View all appointments|TBD|TBD|TBD|TBD|TBD|TBD|
+|View all messages|TBD|TBD|TBD|TBD|TBD|TBD|
+|View all prescriptions|TBD|TBD|TBD|TBD|TBD|TBD|
+|View all payments|TBD|TBD|TBD|TBD|TBD|TBD|
 
 #### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
@@ -56,25 +56,25 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: For searches initiated from My VA, searches for information found on both My VA and the homepage will stay the same or decrease.
 
-|Search term| Rank 1 month pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
-|----|-----------|-----------|-----------|-----------|
-|Disability rating|TBD|TBD|TBD|TBD|
-|Rating|TBD|TBD|TBD|TBD|
-|Disability|TBD|TBD|TBD|TBD|
-|Claim(s)|TBD|TBD|TBD|TBD|
-|Payment|TBD|TBD|TBD|TBD|
-|Payment history|TBD|TBD|TBD|TBD|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Disability rating|TBD|TBD|TBD|TBD|TBD|TBD|
+|Rating|TBD|TBD|TBD|TBD|TBD|TBD|
+|Disability|TBD|TBD|TBD|TBD|TBD|TBD|
+|Claim(s)|TBD|TBD|TBD|TBD|TBD|TBD|
+|Payment|TBD|TBD|TBD|TBD|TBD|TBD|
+|Payment history|TBD|TBD|TBD|TBD|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
 **KPI**: For searches initiated from My VA, searches for information found on the homepage but NOT My VA will increase.
 
-|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
-|----|-----------|-----------|-----------|-----------|
-|DD214|TBD|TBD|TBD|TBD|
-|Letter|TBD|TBD|TBD|TBD|
-|Benefit letter|TBD|TBD|TBD|TBD|
-|GI bill|TBD|TBD|TBD|TBD|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|DD214|TBD|TBD|TBD|TBD|TBD|TBD|
+|Letter|TBD|TBD|TBD|TBD|TBD|TBD|
+|Benefit letter|TBD|TBD|TBD|TBD|TBD|TBD|
+|GI bill|TBD|TBD|TBD|TBD|TBD|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
@@ -82,33 +82,33 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
-|----|-----------|-----------|-----------|-----------|
-|Disability rating|TBD|TBD|TBD|TBD|
-|Rating|TBD|TBD|TBD|TBD|
-|Disability|TBD|TBD|TBD|TBD|
-|Claim(s)|TBD|TBD|TBD|TBD|
-|Payment|TBD|TBD|TBD|TBD|
-|Payment history|TBD|TBD|TBD|TBD|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Disability rating|TBD|TBD|TBD|TBD|TBD|TBD|
+|Rating|TBD|TBD|TBD|TBD|TBD|TBD|
+|Disability|TBD|TBD|TBD|TBD|TBD|TBD|
+|Claim(s)|TBD|TBD|TBD|TBD|TBD|TBD|
+|Payment|TBD|TBD|TBD|TBD|TBD|TBD|
+|Payment history|TBD|TBD|TBD|TBD|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
 **KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for all VA.gov searches.
 
-|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
-|----|-----------|-----------|-----------|-----------|
-|DD214|TBD|TBD|TBD|TBD|
-|Letter|TBD|TBD|TBD|TBD|
-|Benefit letter|TBD|TBD|TBD|TBD|
-|GI bill|TBD|TBD|TBD|TBD|
+|Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|DD214|TBD|TBD|TBD|TBD|TBD|TBD|
+|Letter|TBD|TBD|TBD|TBD|TBD|TBD|
+|Benefit letter|TBD|TBD|TBD|TBD|TBD|TBD|
+|GI bill|TBD|TBD|TBD|TBD|TBD|TBD|
 
 #### Medallia feedback
 
 **KPI**: There are few or no complaints about the redirect.
 
-|| Rank 1 week pre-launch |Rank 1 week post-launch to 100% | Rank 1 month post-launch to 100%| Rank 3 months post-launch to 100%|
-|----|-----------|-----------|-----------|-----------|
-|Redirect feedback|TBD|TBD|TBD|TBD|
+|| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Redirect feedback|TBD|TBD|TBD|TBD|TBD|TBD|
 
 
 ---
