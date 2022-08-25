@@ -1,6 +1,6 @@
 ---
-name: VSP Initiative Release Plan
-about: Release plan template for VSP products
+name: Platform Initiative Release Plan
+about: Release plan template for Platform products
 title: "[Initiative-Name]: Release Plan"
 labels: ''
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 
 ## Guidance
 
-_This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes._
+_This Release Plan Template is intended to help ensure your new Platform product or feature is ready for launch and will deliver the desired user outcomes._
 * _In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necessary prior to going live._
 * _In Phase 2, you will define the launch communications plan and post-launch KPIs. **You can close this ticket once you have completed Phase 2**._
 * _Phase 3 is optional - you may use it to document post-launch results._
@@ -25,7 +25,7 @@ _Fill out the **Planning** sections to start, then the **Results** sections as y
 
 - Desired date range or test duration: [date - date] or [duration] 
 - Desired number of users: x
-- The group(s) from which you'll recruit test users: VFS/VSP/DEPO
+- The group(s) from which you'll recruit test users: VFS/Platform/OCTODE
 - How you'll recruit test users: lorem ipsum
 - How you'll give test users access to the product: lorem ipsum
 - What "Success" criteria will you look at before launch? [refer to the desired outcomes and KPIs in your prdouct outline]
@@ -60,7 +60,7 @@ _Fill out the **Planning** sections to start, then the **Results** sections as y
 - Post-launch KPI 1 actual: 
 - Post-launch KPI 2 actual: 
 - Post-launch KPI 3 actual:
-- Any issues with VSP handling/processing?: yes/no
+- Any issues with Platform handling/processing?: yes/no
   - If yes, what:
 - Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
   - If yes, what: 
@@ -71,7 +71,7 @@ _Fill out the **Planning** sections to start, then the **Results** sections as y
 - Post-launch KPI 1 actual: 
 - Post-launch KPI 2 actual: 
 - Post-launch KPI 3 actual: 
-- Any issues with VSP handling/processing?: yes/no
+- Any issues with Platform handling/processing?: yes/no
   - If yes, what:
 - Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
   - If yes, what: 
