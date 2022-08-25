@@ -13,13 +13,13 @@
 ## Engineering/Technical team interview
 
 - What is your experience with Medical Records?
-- Are there any technical limitations that we should keep in mind? Anything is possible technically but would be extremely difficult or time consuming?
+- What should we know about the Medical Records technical ecosystem? 
+- Are there any technical limitations that we should keep in mind? Is there anything that is possible technically but would be extremely difficult or time consuming?
 - Can you explain where the data is pulled from for both the Blue Button report and the Health Summary?
 - We have heard that there are data interoperability issues between VA & DoD. Can you tell us more about this?
 - Can you tell us more about the relationship between patient generated data and the comprehensive health record?
 - What are the opportunities you see in the Medical Records space?
 - Where are the big pain points?
-- What should we know about the Medical Records technical ecosystem? 
 - If you were building Medical Records fresh, where would you start?
 - If you could change any one thing about Medical Records right now, what would it be?
 - Is there anything else that we should know about Medical Records that we haven't covered yet?
