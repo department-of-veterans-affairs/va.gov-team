@@ -53,20 +53,20 @@
 - What is your experience with Medical Records?
 - What are your priorities for Medical Records?
 
-### *Competitive Analysis*
+#### *Competitive Analysis*
 - For other healthcare providers, most information can be quickly viewed through a pop-up window without clicking to a different page or downloading. What do you think about laying out overview of different information directly on one page and Veterans can explore more by clicking on more details? (for example, doc's note and visit's summary)
 - What do you think about adding syncing fitness apps/devices to the platform? One reason is to provide Veterans a place to manage their welness, and another reason is to provider doctors information about Veterans' overall health.
 - Upcoming appointments, reminders for prescription refills and check new lab results and so on...those information is important to call out. Instead of having Veterans navigating to different pages to get that information, what do you think of having important information call out on the first page they see after signing in? 
 - From looking at how other healthcare providers label records, they divide records into health records/summary and medical records. Health records/summary refer to things like lab results, vaccines, medications and vitals, which can be viewed instantly and don't have download capability and doesn't need to go through filters. Medical records need to be downloaded. Some don't need to filter and download by clicking on one button, but some do. What do you think about seperating information by health records and medical records, and medical records only require Veterans to filter by limited checkboxes or no checkbox? 
 
-### After-Visit Summary (AVS) Questions
+#### *After-Visit Summary (AVS) Questions*
 - Can you give us some information about After-Visit Summaries?
 - What do you think about including the After-Visit Summary (AVS) in the VA Health Summary?
 
-### Blue Button Questions
+#### *Blue Button Questions*
 - What is the history of the term "Blue Button"? Can the VA call the Blue Button Report something else? Would it be possible to not use or downplay the term "Blue Button" in the records section of MHV on VA.gov?
 
-### My HealtheVet Questions
+#### *My HealtheVet Questions*
 - What should we call the records section of My HealtheVet on VA.gov?
 "Medical records"
 "Health records"
@@ -75,13 +75,13 @@
 - What is the future of Search My Record?
 - We've heard that in My HealtheVet today Veterans can share their self-entered data which is stored in the vault, but there is not a clear user flow for sharing this health data. Can you tell us more about this process?
 
-### Medical Records Vision
+#### *Medical Records Vision*
 - The current vision for MHV can be applied to Medical Records. It states that: 
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
 - What would you add to the vision specific to Medical Records?
 - We are especially interested defining a vision for Track your health information and Patient-generated health data. Is there anything related to these topics that you think should be included in a vision?
 
-### Other
+#### *Other*
 - Can you tell us more about the relationship between patient generated data and the comprehensive health record?
 - What are some things you’ve heard about the Medical Records process? From Veterans? From VA staff?
 - What are the opportunities that you see?
