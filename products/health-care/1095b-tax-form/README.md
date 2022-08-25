@@ -67,8 +67,9 @@ The 1095-B is a yearly form, and may require annual updates. These are outlined 
     - Jeanette Cantrell (MOVE) | jeanette@themostudio.com
     - Tamera (Tami) Corson (MOVE) | tamera.corson@va.gov
 - Lead engineer: Shashank Khandelwal | shashank@bluetiger.digital
-- Business Owner: Tarsha Tremble (Health Enrollment Center) | tarsha.tremble@va.gov
--                 Stacey Echols (Director, VHA Health Enrollment Center) | stacey.echols@va.gov
+- Business Owner: 
+    - Tarsha Tremble (Health Enrollment Center) | tarsha.tremble@va.gov
+    - Stacey Echols (Director, VHA Health Enrollment Center) | stacey.echols@va.gov
 - OGC Legal reviewer: 
 
 ### Team members
