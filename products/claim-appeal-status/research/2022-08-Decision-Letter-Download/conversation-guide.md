@@ -107,14 +107,14 @@ Post-task questions:
 - [What does user expect from the VA Benefit Letters page, after seeing the Notification Letters page?]
 - [Do they understand the distinction between inbound letters and letters they generate?]
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
 - Do you think you would use any of the features you saw today?
 - If you could change anything about what you saw today, what would it be?
 - Do you have any questions for me?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
