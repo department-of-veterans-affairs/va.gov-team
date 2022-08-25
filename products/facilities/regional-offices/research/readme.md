@@ -3,7 +3,7 @@
 1. Business Research
 2. Veteran Research
 3. Content Research
-4. Public Contact Staff Research
+4. Public Contact Team Research
 5. Editor Research
 6. Usability Testing
 7. Appendix
@@ -136,7 +136,7 @@
 - Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
   - COPE content audit?
 
-## 4 - Public Contact Staff Research
+## 4 - Public Contact Team Research
 
 - Research epic
 
