@@ -1,8 +1,10 @@
 # Accessibility audit & updates
 
-**Last updated: August 17, 2022**
+**Last updated: August 25, 2022**
 
 _We should consolidate all accessibility feedback we've gotten, review it, and determine next steps. Tasks run from full-on projects (eg. moving edit from in-line to another page) to smaller tasks we can knock out as time allows._
+
+[Current open Profile and 508/Accessibility GitHub tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A508%2FAccessibility+label%3Aprofile)
 
 ## Questions / Concerns
 
