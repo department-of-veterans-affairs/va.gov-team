@@ -1,7 +1,7 @@
 
 # Content categories
 
-## 1. Content for Veterans and other direct beneficiaries of VA benefits
+## 1. Content primarily for Veterans and other direct beneficiaries of VA benefits
 
 - Veterans
 - Service members
@@ -25,7 +25,7 @@ Information Veterans and other beneficiaries need to access care and other servi
 - VA benefit offices
 - VA national cemeteries
 
-### 1.2 Outreach and event content
+### 1.2 Outreach, news, and event content
 
 ### 1.3 Health content
 
@@ -35,7 +35,7 @@ Information that Veterans and other beneficiaries need to understand and manage 
 - Patient education information (such as information about specific conditions like PTSD, TBI, or hypertension)
 - Clinical trial information (such as available VA clinical trials for specific conditions)
 
-## 2. Content for people who directly advocate and support Veterans and other beneficiaries in accessing and managing their benefits
+## 2. Content primarily for people who directly advocate and support Veterans and other beneficiaries in accessing and managing their benefits
 
 ### 2.1 VA employee and volunteer content
 
@@ -44,7 +44,7 @@ Information that Veterans and other beneficiaries need to understand and manage 
 ##### 2.1.1.2 Other VA medical personnel
 ##### 2.1.1.3 Non-health care employees
 
-#### 2.1.2 Propective VA employees and volunteers
+#### 2.1.2 Prospective VA employees and volunteers
 
 ### 2.2 Outside health partner content
 
@@ -61,12 +61,12 @@ Information that Veterans and other beneficiaries need to understand and manage 
 
 ### 2.6 Contractors and businesses that do business with VA
 
-## 3.1 Content for people and organizations that track VA progress and issues
+## 3.1 Content primarily for people and organizations that track VA's progress and issues
 
 ### 3.1.1 Congress and other legislators
 ### 3.1.2 Government Accountability Office and other reporting bodies
 ### 3.1.3 Media
 ### 3.1.4 Others?
 
-## 4. Content for the general public
+## 4. Content primarily for the general public
 
