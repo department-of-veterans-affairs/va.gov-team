@@ -88,14 +88,19 @@ Participants were asked to complete some tasks based on which VA benefits they h
 
 # Key Findings
 
-1. 
+1. **Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
 
 
 # Details of Findings 
 
-## 1. 
+## Navigation
+1. **Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. No one clicked on the Vantage blog promo. 
+- Below you can see the different areas of the redesigned home page, followed by the percentages of participants who used each area. 
+- [INSERT IMAGE](TBD) 
+- [INSERT IMAGE](TBD) 
 
-### Navigation
+# FROM TOPLINE SO PRELIMINARY...
+ 
 1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. We observed distinct **browse *vs.* search usage patterns** among the participants:
      1. More than a third of participants *browsed exclusively* and never used search to complete tasks.
      2. Only our youngest participant *searched exclusively* to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.)
@@ -136,7 +141,10 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 1.   
 
 # Recommendations
-1. 
+1. Consider the following revisions to the Common tasks and Other search tools sections:
+     1. ...
+2. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button.
+3. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
 
 # Next Steps
 
@@ -145,7 +153,7 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/conversation-guide.md)
 
 ## Tools used for Synthesis
