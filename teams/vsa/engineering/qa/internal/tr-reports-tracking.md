@@ -6,5 +6,6 @@ Platform QA Standards Team has reported this issue to TestRail, and is monitorin
 
 | TR Project | Test Plan | Report | Date-Time started | Result |
 | ---------- | --------- | ------ | ----------------- | ------ |
-| [PTEMS-Authd-Exp](https://dsvavsp.testrail.io/index.php?/projects/overview/4) | [Profile - Bad Address Indicator](https://dsvavsp.testrail.io/index.php?/plans/view/3361) | [Summary (Defects)](https://dsvavsp.testrail.io/index.php?/reports/overview/7) | 2022-08-24 11:05 EDT | Errored-out after 25 hrs |
+| [PTEMS-Authd-Exp](https://dsvavsp.testrail.io/index.php?/projects/overview/4) | [Profile - Bad Address Indicator](https://dsvavsp.testrail.io/index.php?/plans/view/3361) | Summary (Defects) [see [Reports page](https://dsvavsp.testrail.io/index.php?/reports/overview/7)] | 2022-08-24 11:05 EDT | Errored-out after 25 hrs |
 | " | " | " | 2022-08-25 1:44 PM EDT | [still monitoring] |
+| [PTEMS-Benefits-2](https://dsvavsp.testrail.io/index.php?/projects/overview/7) | [Combined Debt Portal](https://dsvavsp.testrail.io/index.php?/plans/view/3284) | Summary (Defects) [see [Reports page](https://dsvavsp.testrail.io/index.php?/reports/overview/7)] | 2022-08-25 2:05 PM EDT | [still monitoring] |
