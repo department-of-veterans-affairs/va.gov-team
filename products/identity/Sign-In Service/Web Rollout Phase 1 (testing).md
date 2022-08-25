@@ -91,10 +91,10 @@ During our testing phase, we will monitor our public channel (#vsp-identity) for
 - [ ] Test Date Established and Communicated
 
 # Test Day Checklist
-- [ ] Notification in VFS-All-Teams
+- [x] Notification in VFS-All-Teams
 - [ ] Notification in VSP-Identity
-- [ ] Flippers Flipped (sign_in_service_enabled)
-- [ ] [Monitors Monitored](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard?from_ts=1659719278244&to_ts=1660324078244&live=true)
+- [x] Flippers Flipped (sign_in_service_enabled)
+- [x] [Monitors Monitored](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard?from_ts=1659719278244&to_ts=1660324078244&live=true)
 - [ ] Post-Mortem Meeting scheduled for team
 - [ ] Test ended and Flippers Unflipped
 
