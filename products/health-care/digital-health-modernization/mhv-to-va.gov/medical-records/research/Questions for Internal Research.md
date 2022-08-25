@@ -53,7 +53,7 @@
 - What is your experience with Medical Records?
 - What are your priorities for Medical Records?
 
-### Competitive Analysis
+### *Competitive Analysis*
 - For other healthcare providers, most information can be quickly viewed through a pop-up window without clicking to a different page or downloading. What do you think about laying out overview of different information directly on one page and Veterans can explore more by clicking on more details? (for example, doc's note and visit's summary)
 - What do you think about adding syncing fitness apps/devices to the platform? One reason is to provide Veterans a place to manage their welness, and another reason is to provider doctors information about Veterans' overall health.
 - Upcoming appointments, reminders for prescription refills and check new lab results and so on...those information is important to call out. Instead of having Veterans navigating to different pages to get that information, what do you think of having important information call out on the first page they see after signing in? 
