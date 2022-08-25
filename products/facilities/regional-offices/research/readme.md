@@ -139,7 +139,7 @@
 
 ## 4 - Public Contact Team Research
 
-- Research epic
+- [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10447)
 - Research folder
 
 ### Team
