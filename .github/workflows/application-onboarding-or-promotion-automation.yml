@@ -109,7 +109,7 @@ jobs:
           commit-message: |
             {"application": "${{ inputs.application_name }}", "maintainer": "${{ inputs.maintainer_github_user }}", "environment": "${{ inputs.application_environment }}", "task": "${{ inputs.task }}"}
           title: ${{ inputs.task }} ${{ inputs.application_name }} to the ${{ inputs.application_environment }} environment
-          body: Automated PR triggered by issue ${{ github.event.issue.url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
+          body: Automated PR triggered by issue ${{ github.event.issue.html_url }} for ${{ inputs.task }} ${{ inputs.application_name }} to ${{ inputs.application_environment }}
           
       - name: Comment on pull request
         if: steps.cpr.outputs.pull-request-number
