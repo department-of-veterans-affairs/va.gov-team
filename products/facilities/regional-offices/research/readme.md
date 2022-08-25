@@ -15,9 +15,9 @@
 - Research folder
 
 ### Team
+- Dave Conlon (lead)
 - David Shannon
 - Denise Eisner
-- Dave Conlon
 
 ### Methods
 - Not a formal research process with a research plan, conversation guide, etc.
