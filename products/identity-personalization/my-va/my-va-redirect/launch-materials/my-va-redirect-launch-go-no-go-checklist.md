@@ -5,13 +5,13 @@
 ---
 
 **Tom**: Is monitoring and alerting configured and working as expected?
-- Answer: 
+- Answer: Yes
 
 **Tom**: are you ready to monitor performance data for latency, errors, etc?
-- Answer: 
+- Answer: Yes
 
 **Tom**: are you confident that My VA we can handle the traffic?
-- Answer: 
+- Answer: Yes
 
 **Taylor and Tom**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: No
