@@ -158,10 +158,9 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) TK
 
 #### Initiative Launch Dates
-- *Target Launch Date*
-  - Summer 2022 (exact date tbd)
-- *Actual Launch Date* 
-  - tbd
+- Monday, 8/29/22 - 25%
+- Tuesday, 9/6/22 - 50% (I've got some extra PTO around labor day and don't want to increase access while I'm out)
+- Monday, 9/12/22 - 100%
 
 ---
    
