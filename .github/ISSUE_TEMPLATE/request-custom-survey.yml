@@ -10,6 +10,7 @@ body:
       value: |
           ## What this form is for
           Use this template to request adding a custom Medallia Survey to your product pages(s). Standard Feedback and Satisfaction surveys are automatically added to all VA.gov pages (with few exceptions). 
+          Learn more about [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/contact-center/medallia)
   - type: dropdown
     id: survey-type-requested
     attributes:
@@ -69,3 +70,11 @@ body:
       placeholder: 
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+          ### Follow-up and Timeline
+          - We will usually review custom survey requests within a few days of receiving them.
+          - If your questions are from the PRA approved list, we should be able to have your custom survey live within a month, sometimes sooner depending on sprint commitments.
+          - If you wish to use questions which are not already PRA approved, we will reach out to schedule some time to talk about your request, the PRA process, and how we can best support you through the PRA process.
+ 
