@@ -58,11 +58,26 @@ Am looking to recruit underrepresented Veterans in the following areas:
 - Veterans of color
 - Low-vision Veterans
 
+For the purposes of completing the research we will not be reaching the following underrepresented groups:
+- Veterans who use assistive technologies (due to using a prototype)
+- Veterans w/ Cognitive Disability
+- Rural Veterans
+- Veterans with No degree
+- Veterans with Other than honorable discharge
+- Immigrant origin
+- Women
+- Expat (living abroad)
+
 ### Recruitment criteria
 10 total Veterans. 5 on mobile and 5 on desktop. 
 
 **Primary criteria (must-haves)**
-I would like half of the participants to be Veterans who primarily use their mobile devices, or are mobile-first users of VA.gov. See "Recruitment approach" above for preferences related to recruitment of underrepresented Veterans.
+- 5 mobile-first users of VA.gov. See "Recruitment approach" above for preferences related to recruitment of underrepresented Veterans.
+- 5 Veterans aged 55-64+
+- 5 Black Veterans
+
+**Secondary criteria**
+- Low-vision Veterans
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
