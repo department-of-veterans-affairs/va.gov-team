@@ -121,7 +121,7 @@ Recruit 16 Veterans for a minimum of 10 successfully completed sessions (of the 
 #### Primary criteria
 * All participants must be Veterans.
 * All participants must have experience with one or more of the following VA benefits or services: VA health care, disability, education benefits.
-* At least 8 should be active monthly users of the VA Health and Benefits mobile app.
+* At least 8 (but no more than 10) should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.)
   * Please do a phone follow-up to confirm the participant uses the VA Health and Benefits Mobile App. Once downloaded, the app looks like this: 
       * <img src="https://user-images.githubusercontent.com/79866060/181546254-135661e0-7546-4060-bb13-a1426490f887.png" alt="VA mobile app icon" style="width:100px;"/>  
