@@ -88,30 +88,56 @@ Participants were asked to complete some tasks based on which VA benefits they h
 
 # Key Findings
 
-1. **Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
+1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. 
+
+2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
+
+1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
 
 # Details of Findings 
 
 ## Navigation
-1. **Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. No one clicked on the Vantage blog promo. 
-- Below you can see the different areas of the redesigned home page, followed by the percentages of participants who used each area. 
+1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. We observed 4 distinct **browse *vs.* search usage patterns** among the participants:
+     1. More than a third of participants (37%, or 7 of 19) **browsed exclusively** and never used search to complete tasks.
+     1. More than a third of participants (37%, or 7 of 19) **started off browsing and later discovered the search box**. They were impressed with the results and then used search more after that.
+     1. Only our youngest participant **searched exclusively** to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.) The second youngest participant never searched but only browsed, so with only these 3 data points, we can't conclusively link young age to searching behavior. When the participant who was searching exclusively didn't find what he was looking for, he tried different search strings or browsed links on page he went to, rather than browsing on the home page.
+     1. One participant **tried search first, had success a couple times, and then got irrelevant results, so stopped using search**. This participant only browsed after that.
+
+Some participants said that they browse first and avoid searching because they
+- Don't like to type into the search box
+- It's easier to click on something 
+- Figure they can find what they need by browsing the topics shown
+
+One participant said they were giving a lower task rating because they "had to do a search for it" (p4).
+    
+>  Regarding browsing and then trying searching: "I gave up [on browsing] and used the search...search is better to use *vs.* so much to read [on the home page]--a whole page that I have to read, when I should be depending on search" (p14).
+   
+2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
+     1. Only the *VA Benefits and Health Care* megamenu in the header
+     1. Only *Common tasks* and *Other search tools*
+     1. Only the benefit hubs
+     2. Only the search box
+     3. A combination of some of the above but usually not all
+
+**Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. No one clicked on the Vantage blog promo. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who used each area of the page. 
 - [INSERT IMAGE](TBD) 
 - [INSERT IMAGE](TBD) 
+   
+7. **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
+
+
+8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.   
+   
+
+
+ 
+
+
+
 
 # FROM TOPLINE SO PRELIMINARY...
- 
-1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. We observed distinct **browse *vs.* search usage patterns** among the participants:
-     1. More than a third of participants *browsed exclusively* and never used search to complete tasks.
-     2. Only our youngest participant *searched exclusively* to complete tasks. (This same behavior was observed in our youngest pilot participant, whose data isn't included in this report even though he's a Reservist.)
-     3. Some participants who *started off browsing and later discovered the search box* were impressed with the results and then used search more. 
-     4. A few participants *tried searching, got irrelevant results, and gave up on search*, so only browsed after that.
-5. Participants' browsing of the home page often didn't include the entire page but only certain parts of it. Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
-     1. Only the VA Benefits and Health Care megamenu in the header
-     1. Only Common tasks and Other search tools
-     1. Only the benefit hubs
-     1. A combination of some of the above but usually not all
-7. **Most participants (79%) scrolled all the way down** the home page to the footer.
+
 8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.
 9. Each of the top 20 tasks tested in this research were attempted by 6-10 participants with varying degrees of success.
      1. **9 tasks (almost half) were completed successfully by ALL those who tried them**, some more quickly than others.
@@ -130,8 +156,6 @@ Participants were asked to complete some tasks based on which VA benefits they h
 3. Almost half of the participants **didn't know what "Yellow Ribbon" means**, which was listed under the heading "Other search tools".
 
 
-
-
 ## Other Findings
 
 
@@ -141,10 +165,12 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 1.   
 
 # Recommendations
-1. Consider the following revisions to the Common tasks and Other search tools sections:
+1. Keep the search box because many more participants found it and used it as compared to search in the header.
+2. Make sure that all top tasks can be accomplish via both searching and browsing in order to support people who only search or only browse.
+3. Consider the following revisions to the Common tasks and Other search tools sections:
      1. ...
-2. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button.
-3. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
+4. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button.
+5. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
 
 # Next Steps
 
