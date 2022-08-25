@@ -55,66 +55,62 @@ For students who have used education benefits in the past, we anticipate that th
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+**1. Strategy**
+- Recruitment will be conducted remotely from Perigean: If approved for this research request, we would like assistance from Perigean to recruit students that fall under our primary participant criterion characteristics. We have conducted UT before and have outlined specific metrics informed by OCTO’s targets to conduct inclusive research. 
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+**2. Primary Criteriaa** 
+- Target sample size: 36 participants
+- Cohort requirements: Cohorts will be an important metric for this study and must be included in the participation screener. We are seeking:
+	- Cohort A: Used GI bill Education Benefits for a VET TEC Program
+	- Cohort B: Used GI Bill education benefits for an OJT/apprenticeship program 
+	- Cohort C: Used GI Bill education benefits at a 4-year college or university
+	- Cohort D: Identifies as being a first-generation college student 
+	- Participant type: Veteran or their family member who has used or is actively using GI Bill benefits
+	- Size: 9 participants per cohort
 
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+- Login Requirements: Participant must have access to a computer or mobile phone to acess the survey and input responses
+- GI Bill Benefit Usage: Participants ave ysed ir are actively using their GI Bill benefits
+- Accessibillity Preferences: We want to be sure to include the following Veteran groups below. **These demographics should make up the total 36 participants, but can be spread arbitrarily through the 4 earlier identified cohorts**:
+	- Race/Ethnicity: Identify as Black or African American (15%), Latinx (12%), Biracial (4%), Asian (3%), Native (1%) 
+	- 6% LGBTQ+ 
+	- 60% Women  
+	- 50% Identify as 55-64+  
+	- 50% Identify as having a cognitive disability 
+	- 25% Identify as inhabitant of a rural area 
+	- 20% Identify as having immigrant origin 
+	- 0.5% Identify as living abroad
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+**3. Cohort Screener Questions**
+- Have you used GI Bill education benefits to complete a VET TEC program? Participants that answer yes can be included under Cohort A. 
+- Have you used GI Bill education benefits to complete an On-the-job training or apprenticeship program? Participants that answer yes can be included under Cohort B. 
+- Have you used GI Bill benefits to complete a four-year college degree? Participants that answer yes can be included under Cohort C. 
+- Do you currently identify as a first-generation college student? Participants that answer yes can be included under Cohort D. 
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+**4. Additional Screener Questions**
+- Location of the participant and basic demographic qualifiers screening, including: age, race, sex, state of residence (country if outside the US); what GI Bill benefit they are using  
+- With respect to your GI Bill education, what degree are you working toward? (1. Associate Degree 2. Undergraduate Degree 3. Graduate Degree 3. Non-College Degree Program 4. Other. 5. None).  
+- How would you describe your familiarity with technology? (very poor, poor, neutral, good, very good).  
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+ If possible, we’d like the surveys to be distributed to participants starting Monday, September 5th, at 9 am Est or as soon as recruitment is finalized by Perigean. We will keep the survey open until Tuesday, September 13th at 5 pm Est.  
 
-### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-* Planned dates of research:
-
-### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
-
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+Research guide writing and task development:  
+1. Isabel Herrick, isabel.herrick@accenturefederal.com, +1 571-429-9345 
+2. Alexander Ferzola, alexander.ferzola@accenturefederal.com, +1 571-733-9097 
+3. Gaige Dickerson, gaige.dickerson@accenturefederal.com, +1 571-414-4368 
+4. Kylie Kearns, kylie.kearns@accenturefederal.com, +1 571-414-5577 
+5. Miya Furukawa, miya.s.furukawa@accenturefederal.com, +1 571-414-4160 
+6. Leelah Holmes, leelah.holmes@accenturefederal.com, +1 571-775-5432 
+
+Project POCs:
+1. Matthew Self matthew.self2@va.gov, Va.Gov Representative 
+2. Miya Furukawa, miya.s.furukawa@accenturefederal.com, +1 571-414-4160 
+3. Leelah Holmes, leelah.holmes@accenturefederal.com, +1 571-775-5432 
+4. Ricardo Da Silva, ricardo.dasilva@va.gov, Project Product Owner 
+
+Project Brief: 
+Synthesis: Will be completed after survey concludes.   
+Lessons Learned: Will be completed after survey concludes.   
+Read-Out/Results: Will be completed after survey concludes. 
