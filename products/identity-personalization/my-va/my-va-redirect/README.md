@@ -30,10 +30,10 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **KPI**: We see less than a 10% increase or no increase in clicks back to the homepage from My VA.
 
-|Metric|1 week pre-launch | 1 week post-launch to 100% | 1 month post-launch to 100%| 3 months post-launch to 100%|
-|-------|-----------|-----------|-----------|-----------|
-|Clicks to the homepage from My VA|TBD|TBD|TBD|TBD|
-|Exits from VA.gov from My VA|TBD|TBD|TBD|TBD|
+|Metric|1 week pre-launch | 1 week post-launch to 25% |1 week post-launch to 50% |1 week post-launch to 100% | 1 month post-launch to 100%| 3 months post-launch to 100%|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Clicks to the homepage from My VA|TBD|TBD|TBD|TBD|TBD|TBD|
+|Exits from VA.gov from My VA|TBD|TBD|TBD|TBD|TBD|TBD|
 
 #### [Top interactions from My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
