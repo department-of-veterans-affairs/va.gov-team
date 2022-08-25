@@ -1,6 +1,6 @@
 # Notification settings: Product outline
 
-Last Updated August 22, 2022
+Last Updated August 25, 2022
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -35,7 +35,7 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 ## Overview
 
-The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA.gov profile supports notification settings, which are powered by the [VA Profile backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
+The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA.gov profile supports notification settings, which are powered by the [VA Profile backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
 
 ## User Outcomes
 
