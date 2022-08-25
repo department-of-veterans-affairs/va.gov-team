@@ -1,101 +1,57 @@
-# Research Plan for Comparison Tool Enhancements, Comparison Tool (Digital GI Bill) Team, August 2022
+# Research Plan for Comparison Tool Enhancements, Comparison Tool (Digital GI Bill) Team, September 2022
 
+This research request comes from the Digital GI Bill team for the Veterans Benefits Administration Education Service. Digital GI Bill looks to modernize the GI Bill experience in order to improve the user experience, improve claims processing, address the complexities of recent legislation, and integrate the legacy IT systems. This research plan comes from the Human Centered Design (HCD) agile team as we look to conduct usability testing for a feature within VA education, The Comparison Tool. Usability testing will inform us how students can learn about and compare their GI Bill benefits at approved schools, employers and VET TEC providers. 
 
 ## Background
-The Digital GI Bill team looks to update features of the GI Bill Comparison Tool, an unauthenticated feature on Va.gov, to enable students to make better decisions about their GI Bill benefits.The current state of the GI Bill Comparison Tool has unintuitive features that may make navigating the tool a suboptimal experience. The GI Bill Comparison tool is used by all potential education beneficiaries, including Veterans,service members, and their family members. How might we improve the GI Bill Comparison Tool so that it is built for every journey?
+The Digital GI Bill team looks to update features of the GI Bill Comparison Tool, an unauthenticated feature on Va.gov, to enable students to make better decisions about their GI Bill benefits. The current state of the GI Bill Comparison Tool has unintuitive features that may make navigating the tool a suboptimal experience. The GI Bill Comparison tool is used by all potential education beneficiaries, including Veterans, service members, and their family members. How might we improve the GI Bill Comparison Tool so that it is built for every journey? 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Comparison%20Tool%20Enhancements/Product%20Outline.md)
 
 ### OCTO Objectives 
-
-Which OCTO objectives does this research support?
 * Veterans and their families can find a single, authoritative source of information
 * Veterans and their families trust the security accuracy and relevancy of VA.gov
 * Platform users can build and deploy high-quality products for Veterans
 
 ### Veteran Journey
-Where does your product fit into the Veteran journey?
 * Aquiring the appropriate education, new skills, and credentials
 * Finding the right job
 * Taking care of my family
 
-## Research Goals	
-What are you trying to learn from this research? 
-Preliminary research to understand user preferences in terms of site navigation, hierarchy of information, and functionality exceptations
-
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-
-* Understand what designs across the Comparison Tool work best for the user and reduce burden/cognitive load, while also being cognizant of accessibility concerns
-* Understand what content is most important to a user when deciding on their best suited school
-
-AND _subsequently use all of these findings to iterate on current designs and let user research drive the rest of the design process_ 
+1. Understand what designs across the Comparison Tool work best for the user and reduce burden/cognitive load, while also being cognizant of accessibility concerns
+2. Understand what content is most important to a user when deciding on their best suited school
+3. Utilize these findings to iterate on current designs and let user research drive the rest of the design process
 
 
 ### Research questions
-
-- Before seeing designs, what are the user preferences for information within the Comparison tool?
-- What does the user prefer/prioritize when presented with alternative design options? What additional comments do they have?
-	- how to sort and filter content presented to them
-	- more interested in map or list view
-	- most important content on institution cards
+1. Before seeing designs, what are the user preferences for information within the Comparison tool?
+2. What does the user prefer/prioritize when presented with alternative design options? What additional comments do they have?
+3. What is most important content on institution cards for the user?
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+For students who have used education benefits in the past, we anticipate that the enhanced comparison tool features will be clearer and more intuitive for them. Updated formatting and icons will all enhance the user experience. When comparing to the current-state Comparison Tool, users might be may feel more confident choosing the right school for their unique education journey. We also believe future design iterations will be necessary to meet the diverse needs of all users.  
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+**1. What method of research are you planning?**	
+- The team will be collecting user feedback for the comparison tool feature via a cohort-based research survey. All research will be conducted in a remote, unmoderated setting. Participants will receive a custom survey link and instructions via Microsoft Form.  
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
+**2. Methodology**
+- All participants will receive the survey link with instructions to complete the form. The survey will remain open until Friday September 9th at 5 pm est.  
 
-- **Card sorts - appropriate for generative and evaluative research; depending on the study design**
+**3. Why this method? How dos this methodology help you answer your research questions?**
+- Research surveys are a flexible research tool to gather information about the comparison tool users, their attitudes, and their behaviors. By using a research survey method, we can track both quantitative and qualitative data to help inform future design iterations. This survey will use a combination of both open-ended responses, multiple choice questions, and rankings to gather information about user’s preferences.  
 
-- **A/B Testing**
-
-- **General Survey Inquiries**
-
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-**WHY THESE METHODS?**
-
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+**4. Location**
+- This will be remote, unmoderated research. 
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+* [Link to survey for Cohort A](https://forms.office.com/r/euj2CjD0n3)
+* [Link to survey for Cohort B](https://forms.office.com/r/uUPQiX9Uc7)
+* [Link to survey for Cohort C](https://forms.office.com/r/0hSHVGSiv3)
+* [Link to survey for Cohort D](https://forms.office.com/r/f5XuUSn1Lz)
 	
 ## Recruitment	
 
