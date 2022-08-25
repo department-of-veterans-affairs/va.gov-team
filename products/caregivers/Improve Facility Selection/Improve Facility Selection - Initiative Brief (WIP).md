@@ -70,21 +70,34 @@
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: number of applications that are not misrouted or delayed
-  - **Where can we get this information??**
+  - Key result: number of applications that are not misrouted or delayed **Where can we get this information??**
+  - Key result: Facilities list is complete, accurate and up to date
+  - 
   
 
 
 ---
 
 ## Assumptions
+- Veterans and Caregivers want to select the facility that is most convenient to them
 
 ## Solution Approach
+- Provide an updated facility selection page that is easy to use and understand why we are asking for it
+     - Connect with active Facilities API in place of the current static json file
+     - Revisit UI against the current Facilities selection page on va.gov, and other private sector locator search pages
+     - Conduct research/usability sessions with Veterans and Caregivers to determine the best, easy to use design
+     - Redesign Facility selection page
+
 
 ### Initial goals
-
+- Update the current search functionality with an updated API service for a more complete and accurate facilities list
+- Update the current UI to be easier to use and understand
 
 ### Risks
+- Applicants may not understand the reason for selecting a facility
+- Applicants may not understand how to use the facility selector/search
+- API dependencies may cause unplanned outages, causing our facility selector page to be unresponsive
+
 
 --- 
 
