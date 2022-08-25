@@ -68,6 +68,61 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 
 Participants were asked to complete some tasks based on which VA benefits they had experience with, per their responses to questions at the beginning of the session. **Each participant did a subset of the full list of 20 tasks in the conversation guide**, and for each, we recorded whether they were successful and also their ease rating on a scale from 1-5. Over the course of the sessions, we tracked how many participants completed each task and prioritized tasks that hadn't been completed by as many participants yet in order to get feedback on each task from at least 4 participants (we surpassed this goal by ending up with each task completed by at least 6 people).
 
+<details>
+  <summary>Click to see the list of ALL 20 top tasks and when to they were asked</summary>
+  
+We will track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions. If we're unable to find enough participants that meet the benefit qualification below (in CAPS) for a particular task, the backup plan is to ask any participant to do that task.
+
+IF HAVEN'T USED EDUCATION BENEFITS…
+- Task 1: [Learn about or apply for education benefits]
+- Task 2: [Compare VA education benefits and rates by school]
+
+IF HAVEN'T USED DISABILITY BENEFITS...
+- Task 3: [Learn about or file for disability compensation (service-related)]
+- Task 20A: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK*
+  
+IF HAVE USED DISABILITY BENEFITS...
+- Task 4: [File for a VA disability increase]
+- Task 20B: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK*
+- Task 5A: [View your payment history]
+- Task 6A: [Check the current disability compensation rates]
+
+IF HAVE USED EDUCATION BENEFITS...
+- Task 5B: [View your payment history] -- *SKIP if did task 5A*
+- Task 7: [Check or update your current education benefits]
+
+FOR EVERYONE
+- Task 6B: [Check the current disability compensation rates] -- *SKIP if did task 6A*
+- Task 8: [Find a hospital, clinic, pharmacy, or Vet Center]
+- Task 9: [Get your VA medical records]
+
+IF HAVE VA HEALTH CARE...
+- Task 10: [Message your doctor or get a health care message]
+- Task 11: [Learn about or file for reimbursement for travel expenses to/from medical appointments]
+- Task 20C: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK & HAVEN'T DONE TASK 20 BEFORE*
+
+IF DON'T HAVE VA HEALTH CARE...
+- Task 12: [Learn about or apply for VA health care]
+- Task 20D: [Find a VA form] -- *IF PARTICIPANT SAID THEY'D FIND AN APPLICATION/FORM IN THE PREVIOUS TASK & HAVEN'T DONE TASK 20 BEFORE*
+
+FOR EVERYONE
+- Task 13: [Get letters about your VA benefits and service history (benefit letters)]
+- Task 14: [Review or update your dependents]
+- Task 15: [Update your contact information with VA]
+- Task 16: [Find a mental health counselor or therapist]
+- Task 17: [Learn in advance if eligible for burial in a VA cemetery]
+- Task 18: [Apply for a home loan Certificate of Eligibility (COE)]
+- Task 19: [Request your military records (DD214)]
+    
+</details>
+
+### FOR EVERYONE
+*Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
+- How would you sign in? *(RECORD: button in header / hero by photos)*
+- Can you tell me about what you expect and why?
+- If you were on a public computer and didn't want to sign in, is there anything you might expect to do from this web page?
+
+
  
 # Hypotheses and Conclusions
 
@@ -90,7 +145,7 @@ Participants were asked to complete some tasks based on which VA benefits they h
 
 1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. 
 
-2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
+1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
 
 1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
@@ -113,25 +168,18 @@ One participant said they were giving a lower task rating because they "had to d
     
 >  Regarding browsing and then trying searching: "I gave up [on browsing] and used the search...search is better to use *vs.* so much to read [on the home page]--a whole page that I have to read, when I should be depending on search" (p14).
    
-2. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
+1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Some participants found **one way to navigate that worked for them, which they used it for most tasks**, ignoring other parts of the home page. Here are some **different browsing focus patterns** that we observed:
      1. Only the *VA Benefits and Health Care* megamenu in the header
      1. Only *Common tasks* and *Other search tools*
      1. Only the benefit hubs
      2. Only the search box
      3. A combination of some of the above but usually not all
 
-**Most research participants used the header, Common tasks, Other search tools, and the benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. No one clicked on the Vantage blog promo. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who used each area of the page. 
+**Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs** on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. No one clicked on the Vantage blog promo. Below you can see the different areas of the redesigned home page labeled, followed by the percentages of participants who used each area of the page. 
 - [INSERT IMAGE](TBD) 
 - [INSERT IMAGE](TBD) 
    
-7. **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
-
-
-8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.   
-   
-
-
- 
+1. **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
 
 
 
@@ -139,10 +187,11 @@ One participant said they were giving a lower task rating because they "had to d
 # FROM TOPLINE SO PRELIMINARY...
 
 8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.
-9. Each of the top 20 tasks tested in this research were attempted by 6-10 participants with varying degrees of success.
+9. Each of the top 20 tasks tested in this research was attempted by 6-10 participants with varying degrees of success.
      1. **9 tasks (almost half) were completed successfully by ALL those who tried them**, some more quickly than others.
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
      1. 4 tasks were completed successfully by only half (50-60%) of those who tried them. 
+
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos, and "Sign in" in the header). 
      1. One quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so that they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
 3. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
