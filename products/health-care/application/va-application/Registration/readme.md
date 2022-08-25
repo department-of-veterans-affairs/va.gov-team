@@ -46,8 +46,7 @@ These are the following confirmed use cases for registration over enrollment.  M
 The team implemented an event tag on the Discharge Date field within the 10-10EZ form on August 8th, 2022.
 - Data can be tracked on this [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/gSXa5lOYRyuXpauKyXSYug/a50123418w177519031p184624291/) and [Direct event page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20220801&_u.date01=20220811&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22hca-future%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25/)
 
-|Event|Data tracking|Data tracking|Data tracking|
-|--------------------|-------------------|--------------|---------------|
 |Event|1 Month of Data|2 Months of Data|3 Months of Data|
+|--------------------|-------------------|--------------|---------------|
 |Future Discharge Data| TBD | TBD | TBD |
 
