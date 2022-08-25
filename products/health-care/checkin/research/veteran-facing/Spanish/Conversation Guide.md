@@ -122,6 +122,9 @@ I’d like to talk about the language switch on the top section of the page.
 - Where do you expect to find a toggle on VA website if translated content is provided?
 - How do you expect to be notified about the new language function?
 
+For Design B, also ask:
+- What did you expect about the notification? Do you expect to still see or not to see the notification on the second page/the Spanish page? 
+
 
 ## Second Task: Toggle usability testing (15 minutes)
 Note: the order of the designs shows will vary between all participants
