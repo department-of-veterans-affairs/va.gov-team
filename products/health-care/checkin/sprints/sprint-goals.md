@@ -54,6 +54,7 @@ BE - 18
 - [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44210)
     - Look at logic in MAS (1 FE)
 - Bugs & Tech Debt 
+   - NOTE: this one was in validate & moved to in progress after planning [[BUG] [FE] Translation Issues](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/44473)
    - [Append a URL Param for Error Type](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/45777) (3 FE)
    - Use as necessary if, and only when, all Sprint goals are completed
 
