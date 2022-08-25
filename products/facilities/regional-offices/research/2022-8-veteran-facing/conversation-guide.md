@@ -4,12 +4,6 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -60,15 +54,16 @@ Before we look at the website, let’s start with a little warm up introduction.
 - Which kinds have you used the most?
 - What kinds of things do you use them for?
 - What kinds of things do you wish you could use them for?
-- Have you ever used a Veteran Benefits Administration facility? 
+- Have you ever used a regional or benefits office? 
 - Which location have you used the most?
 - Is that a regional office?
 - Do you know what a regional office is?
+- Do you use facilities other than a regional office?
 - Do you know what a child office is or do you ever use a child office?
 - Why do you use a regional office versus a child office?
 - What kind of information do you need from a regional office before visiting it?
 - What kind of information have you found on the website when visiting a regional office? 
--
+- What had you wished you known before a visit to a facility once you got there?
 
 ## Thank-You and Closing - X minutes
 
