@@ -1,12 +1,12 @@
 # VBA Research Roadmap
 
-1. [Business Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#1---business-research)
-2. [Editor Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#2---editor-research)
-3. [Veteran Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#3---veteran-research)
-4. [Content Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#4---content-research)
-5. [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#5---usability-research)
-6. [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#appendix)
-
+1. Business Research
+2. Veteran Research
+3. Content Research
+4. Public Contact Staff Research
+5. Editor Research
+6. Usability Testing
+7. Appendix
 
 ## 1 - Business Research
 
@@ -73,9 +73,75 @@
 - Are Spotlights National? Local? Hybrid? And what is the maintenance load?
 - Is a list of Veteran Service Organizations (VSOs) located at that facility important? 
   - Analytics on how many visits these pages get?
+  
+ ## 2 - Veteran Research
+
+- [Research Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10191)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-8-veteran-facing)
+
+### Team
+- Aslan French - lead
+- Denise Eisner 
+- Dave Pickett
+
+### Methods
+- Structured interviews 
+
+### Timeline / Dependencies
+- 1 sprint - Draft Research Plan and Conversation Guide
+- 🛑 - If we want to recruit Veterans at/near MVP sites then recruitment can’t begin until MVP sites are established
+- 1 sprint - ⚠️ Research Review Cycle & participant recruitment 
+- 1 sprint - Conducting interviews
+- 1 sprint - Synthesize research & schedule readout
+- 1 sprint - Research readout & documenting findings in research repo
+
+### Research Questions
+
+- Participant definition 
+  - Has visited a VBA facility in last 6 months (🛑 Limit to MVP sites? )
+- What other top task is available (e.g. Talk to someone online?) and do Veterans want that?
+- How important to the Veteran is the relationship of "child" locations to the RO
+- Do Veterans understand the different types of facilities (or does that matter?)
+- What else do Veterans need in order to be prepared for a visit 
+  - “What information do you wish you had before your last VBA visit?”
+- What are the questions Veterans want answered by calling the phone number(s)?
+- Is a list of Veteran Service Organizations (VSOs) located at that facility important?
+
+## 3 - Content Research
+
+- [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9977)
+- Research folder
+
+### Team
+- Dave Pickett  - lead
+- Aslan French
+- Denise Eisner 
+
+### Methods
+- Synthesis of previous research
+- Content audits
+- Veteran interviews?
+
+### Timeline / Dependencies
+- Started in August 2022
+- ⚠️ Need to understand which questions are blockers so I can prioritize 
+
+### Research Questions
+- https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9978
+  - Probably should be broken down a bit
+- If we cross-walk the features of the RO websites and the Facility Locator detail pages for all VBA locations, what is the delta?
+- How do we elaborate on the taxonomy structure to better explain the services?
+  - Do we need additional research with veterans on service descriptions vs what has already been done?
+- Is the service delivery the same across all locations nationally or locally nuanced?
+- Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
+  - COPE content audit?
+
+## 4 - Public Contact Staff Research
+
+- Research epic
 
 
-## 2 - Editor Research
+## 5 - Editor Research
 
 - [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10185)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/VBA-discovery)
@@ -123,71 +189,7 @@
 - Is there a need for timely situational updates related to things such as parking or COVID facility status? 
 - Is there an easily identifiable Top Tasks for editors? Can we quantify: Here are the Top XX things I do most frequently when currently updating the site, these other tasks are much less frequent.
 
-## 3 - Veteran Research
-
-- [Research Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10191)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-8-veteran-facing)
-
-### Team
-- Aslan French - lead
-- Denise Eisner 
-- Dave Pickett
-
-### Methods
-- Structured interviews 
-
-### Timeline / Dependencies
-- 1 sprint - Draft Research Plan and Conversation Guide
-- 🛑 - If we want to recruit Veterans at/near MVP sites then recruitment can’t begin until MVP sites are established
-- 1 sprint - ⚠️ Research Review Cycle & participant recruitment 
-- 1 sprint - Conducting interviews
-- 1 sprint - Synthesize research & schedule readout
-- 1 sprint - Research readout & documenting findings in research repo
-
-### Research Questions
-
-- Participant definition 
-  - Has visited a VBA facility in last 6 months (🛑 Limit to MVP sites? )
-- What other top task is available (e.g. Talk to someone online?) and do Veterans want that?
-- How important to the Veteran is the relationship of "child" locations to the RO
-- Do Veterans understand the different types of facilities (or does that matter?)
-- What else do Veterans need in order to be prepared for a visit 
-  - “What information do you wish you had before your last VBA visit?”
-- What are the questions Veterans want answered by calling the phone number(s)?
-- Is a list of Veteran Service Organizations (VSOs) located at that facility important?
-
-
-## 4 - Content Research
-
-- [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9977)
-- Research folder
-
-### Team
-- Dave Pickett  - lead
-- Aslan French
-- Denise Eisner 
-
-### Methods
-- Synthesis of previous research
-- Content audits
-- Veteran interviews?
-
-### Timeline / Dependencies
-- Started in August 2022
-- ⚠️ Need to understand which questions are blockers so I can prioritize 
-
-### Research Questions
-- https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9978
-  - Probably should be broken down a bit
-- If we cross-walk the features of the RO websites and the Facility Locator detail pages for all VBA locations, what is the delta?
-- How do we elaborate on the taxonomy structure to better explain the services?
-  - Do we need additional research with veterans on service descriptions vs what has already been done?
-- Is the service delivery the same across all locations nationally or locally nuanced?
-- Do we need to provide routes into the benefit hubs and, if so, is that through COPE or links or other?
-  - COPE content audit?
- 
-
-## 5 - Usability Research
+## 6 - Usability Research
 
 - [Research epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10197)
 - Research folder
