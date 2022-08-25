@@ -1,12 +1,13 @@
 # VBA Research Roadmap
 
-1. Business Research
-2. Veteran Research
-3. Content Research
-4. Public Contact Team Research
-5. Editor Research
-6. Usability Testing
-7. Appendix
+## Table of Contents
+1. [Business Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#1---business-research)
+2. [Veteran Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#2---veteran-research)
+3. [Content Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#3---content-research)
+4. [Public Contact Team Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#4---public-contact-team-research)
+5. [Editor Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#5---editor-research)
+6. [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#6---usability-research)
+7. [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/readme.md#appendix)
 
 ## 1 - Business Research
 
