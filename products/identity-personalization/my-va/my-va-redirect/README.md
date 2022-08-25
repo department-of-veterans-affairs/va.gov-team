@@ -7,7 +7,6 @@ Last updated: August 25, 2022
 - [Measuring Success](#measuring-success)
 - [Discovery](#discovery)
 - [Launch Planning](#launch-planning)
-- [Screenshots](#screenshots)
 
 ---
 ## Outcome Summary
@@ -163,14 +162,6 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 - Monday, 9/12/22 - 100%
 
 ---
-   
-## Screenshots
-
-### Before
-
-### After
-
----
 
 #### Communications
 *Where will you discuss this initiative?*
@@ -179,7 +170,7 @@ For Veterans who login from the homepage, implement a redirect to send them to M
 
 - Team Name: Authenticated Experience My VA
 - GitHub Label(s): my-va-redirect
-- Slack channel: 
+- Slack channel: #accountexp-authexp
 - Product POCs:
 
 </details>
