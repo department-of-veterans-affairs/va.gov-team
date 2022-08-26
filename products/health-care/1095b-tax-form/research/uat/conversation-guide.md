@@ -93,7 +93,7 @@ Let's go ahead and click through, but of course we won't actually change anythin
 
 Thank you for helping us test this new feature. 
 
-## Thank-You and closing - X minutes
+## Thank-You and closing
 
 Do you have any questions or comments for me before we sign off? 
 
