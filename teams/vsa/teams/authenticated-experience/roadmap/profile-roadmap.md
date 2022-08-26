@@ -1,18 +1,16 @@
 # VA.gov profile roadmap
 
-**Updated July 25, 2022**
+**Updated August 26, 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| Updates post-testing|
-|[Reintegrate military info through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme) | UAT |
+|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)| QA|
 |Forms system updates | FE implementation|
 |Notification preferences: Integration MHV prefs| Planning |
-|Notification preferences: 1095B| Planning |
 |Documentation updates| Ongoing|
-|Accessibility audit| On deck|
+|Accessibility audit| Planning|
 
 
 ### Projected timelines for current projects & enhancements
@@ -31,6 +29,7 @@
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Re-integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme) |August 2022|
 |[Modal that asks if you want to update your mailing address when you update your home address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33732)| July 2022|
 |[Ability to view and update preferred name and gender identity in the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)| June 2022|
 |[MHV Profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Presented to stakeholders June 2022|
