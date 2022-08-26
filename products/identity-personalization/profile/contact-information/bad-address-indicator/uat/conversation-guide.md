@@ -3,7 +3,7 @@ Conversation Guide for Bad Address Indicator UAT (Internal)
 
 -   _Make sure VA Profile team has turned on feature for user's account_
 
-Intro - 3 minutes
+Intro - 2 minutes
 -----------------
 
 Thanks for joining us today! As you know, we’ll be trying out this new feature that helps Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
@@ -31,7 +31,7 @@ _Participant shares screen_
 
 ---------------------------------------------------------------
 
-## Task #1: Review Personal information page and alert - 3 minutes
+## Task #1: Review Personal information page and alert - 1 minutes
 
 
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
@@ -72,7 +72,7 @@ Task #3: Navigate to Mailing address field - 1 minute
 Task #4
 ---------------------------------------------------------
 
-### OPTION 1: Task #4: Update Mailing address - 2 minutes
+### OPTION 1: Update Mailing address - 2 minutes
 
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
@@ -87,7 +87,7 @@ Task #4
 - [ ] **UAT TASK:** Confirm the BAI alert disappears when an update is made.
 - [ ] **UAT TASK:** Confirm the BAI flag is properly cleared in VA Profile when an update is made.
 
-### OPTION 2: Task #5: Confirm Mailing address - 5 minutes
+### OPTION 2: Confirm Mailing address - 2 minutes
 
 **Task goal: Make sure the participant can easily CONFIRM a mailing address.**
 
