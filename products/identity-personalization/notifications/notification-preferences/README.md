@@ -43,13 +43,21 @@ The VA is ramping up their digital communications efforts, specifically through 
 This section of profile allows users to:
 
 - Manage text notification preferences.  
-- Review the contact info (mobile phone number) where notifications will be sent, if we have that information on file.
+- Add or update the mobile phone number where notifications will be sent.
 
 The following data will come through VA Profile's API
 
 - Notification types (appointment reminder, claim update, etc)
 - Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
+
+- Currently we support the following notifications:
+
+|Notification Group|Item|
+|--------|-----------|
+|Health Care|- Appointment Reminders <br />- Prescription Shipping|
+
+     
 
 ## User Outcomes
 
