@@ -57,15 +57,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 · Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? Follow up: Can you recreate the issue that you had on VA.gov? 
 
-· Did you understand the timeframe in which you recieved an overall resolution to your issue?
+· Did you understand the timeframe in which you will recieve an overall resolution to your issue?
   
 · Which kind of communication do you rely on the most (phone, email, SMS, assistance with aide, or other)?
 
 · As of this interview, what is the current status of your this issue being handled by the T1 Call Center (In-progress, Rerouted or Resolved?)
 
-· What have been blockers/ difficulties in getting services through your VA call center?
+· Have their been any blockers/ difficulties in getting services through your VA call center in your past experience?
 
-· When recieving a resolution for your issue, did you feel you ended up with a satisfactory answer? Yes, No? Please explain
+· Have you recieved a resolution for your issue and did you feel you ended up with a satisfactory answer? Yes, No? Please explain
 
 · Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
 
