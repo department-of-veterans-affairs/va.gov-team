@@ -2,9 +2,10 @@
 This document exists to capture feedback from our initial test of our Sign-in Service on VA.gov. Relevant test details as follows:  
 **Test Start:** 1200EST  
 **Test End:**  1800EST  
-**Total Users Impacted:**  4,560 (50% of expected). 
+**Total Users Impacted:**  4,560 (50% of expected)   
 **Success Rate:**  65.58%  
-**Notes:**  Success rate was negatively impacted by DSLogon issues. 
+**Return Rate:**  76.35%  
+**Notes:**  Success rate was negatively impacted by DSLogon issues 
 
 ## Went well:
 No critical issues. 
