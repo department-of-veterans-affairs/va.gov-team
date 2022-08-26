@@ -92,7 +92,7 @@ For students who have used education benefits in the past, we anticipate that th
 - How would you describe your familiarity with technology? (very poor, poor, neutral, good, very good).  
 
 ## Timeline
- If possible, we’d like the surveys to be distributed to participants starting Monday, September 5th, at 9 am Est or as soon as recruitment is finalized by Perigean. We will keep the survey open until Tuesday, September 13th at 5 pm Est.  
+ If possible, we’d like the surveys to be distributed to participants starting Monday, September 5th, at 9 am Est or as soon as recruitment is finalized by Perigean. We will keep the survey open until Tuesday, September 13th at 5 pm Est.  At the conclusion of participant input, the team will export data from MS Forms over to this github research folder, or otherwise take screen shots. We will also scrub any PII/PHI that users input. 
 
 	
 ## Team Roles	
