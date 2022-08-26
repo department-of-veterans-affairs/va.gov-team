@@ -46,16 +46,16 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - What is your name your first name? 
-- When was the last time you were service by our VA Call Center? 
+- When was the last time you called our VA Call Center?  
 - Can you give an estimate of time for that engagement with the call center? 
 
 ## Main Questions 30 -40 minutes
 
-· When did you last encounter a problem on VA.gov, and what steps do you take to contact the VA call center about your issue?  
+· Tell me about a time when when did you last encounter a problem on VA.gov? Follow up: And what steps do you take to contact the VA call center about your issue?  
 
 · How long did you expect for your most recent issue or question to be resolved, when you made your first call about it? How many calls with the Call Center has taken place for this issue?  
 
-· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? Can you recreate the issue that you had on VA.gov? 
+· Can you describe in a few sentences describe the issue? Were you in mobile or on a desktop? Follow up: Can you recreate the issue that you had on VA.gov? 
 
 · Did you understand the timeframe in which you recieved an overall resolution to your issue?
   
