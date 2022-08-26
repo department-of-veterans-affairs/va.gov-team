@@ -139,7 +139,10 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
 ### Community care preferences
 
+#### Closest city
 - If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
+
+#### Request provider
 - Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
 - Users are given an option to choose from a list of providers sorted by:
     - Residential address (if they have a residential address on file) 
