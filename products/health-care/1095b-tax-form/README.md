@@ -12,7 +12,7 @@ In most cases, it is simply a form for one's records. However, some states still
 - When this is in production, it will be available at [http://www.va.gov/records/download-your-irs-1095-b](http://www.va.gov/records/download-your-irs-1095-b)
 - Designs
     - [Clickable Adobe Sketch prototype](https://www.sketch.com/s/1f2a2fbd-8d48-47c6-8e95-b26d5259a211/prototype/a/17C9D6DF-D927-4D2F-9429-9205CB4421A1)
-    - [MVP webpage designs PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20MVP%20Product%20Designs.pdf)
+    - [MVP webpage designs, unauth PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20MVP%20Product%20Designs.pdf)
     - [Opt-in webpage designs PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Business%20Owner%20Brief%2029JUL/1095-B%20Post-MVP%20Paperless%20Designs.pdf)
     - [Opt-in profile design component](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/design/Opt-in%20Profile%20Component%20designs%208.16.22) 
     - [Feature toggle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/1095b-tax-form/Content/Feature%20toggle)
