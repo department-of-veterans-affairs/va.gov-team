@@ -108,7 +108,7 @@ Task #4
 ---------------------------------------------------------------
 
 ## Task 5: Reset Address (If UPDATING address) and Closing - 2 minutes
--   That’s everything I wanted to get your feedback on.
+-   That’s everything we needed to go through.
 -   Lastly, let's make sure all of your information is correct, since we made one small change to your zip code. 
 	-   Could you please take a moment to double check your zip code and change it back if it's incorrect?
   	-   Does everything seem correct here?
