@@ -29,7 +29,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-*MODERATOR*: Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we'll ask you to help us test va.gov on a topic related to healthcare and tax documentation. 
+**MODERATOR**: Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we'll ask you to help us test va.gov on a topic related to healthcare and tax documentation. 
 
 Before we start, a few things I want to mention:
 
@@ -45,11 +45,11 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions
 
-*MODERATOR*: Can you tell me a little bit about yourself? (If stuck, as about location, occupation, military service history)
+**MODERATOR**: Can you tell me a little bit about yourself? (If stuck, as about location, occupation, military service history)
 
 ## Interview
 
-*MODERAOR*: To start, I'd like to ask you a few questions about your usage of VA benefits and digital services. 
+**MODERATOR**: To start, I'd like to ask you a few questions about your usage of VA benefits and digital services. 
 
 - Are you currently enrolled in the VA healthcare system and use any of those benefits? 
     - A [IF NO] Do you get health insurance from an employer or pay out of pocket?    
@@ -63,7 +63,7 @@ Before we start, a few things I want to mention:
 
 ## First Task: [Participant loads 1095-B page] - X minutes
 
-*MODERATOR* We've taken the first step in making the 1095-B form available online. Let's first load the page where the form is available for download. I'm going to put the link to the page in the Zoom chat. Let's go ahead and load that page. 
+**MODERATOR** We've taken the first step in making the 1095-B form available online. Let's first load the page where the form is available for download. I'm going to put the link to the page in the Zoom chat. 
 
 Please think aloud and walk me through what you see on the screen. 
 
