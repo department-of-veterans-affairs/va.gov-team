@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/26/2022
+- Fixed a bug where translated content was not displaying
+    - [Ticket 44473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44473)
+
 ### 8/19/2022
 - Parallelized certain API function calls to help improve page load time
     - [Ticket 45775](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45775)
