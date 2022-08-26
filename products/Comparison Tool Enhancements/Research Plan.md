@@ -81,9 +81,9 @@ For students who have used education benefits in the past, we anticipate that th
 	- 0.5% Identify as living abroad
 
 **3. Cohort Screener Questions**
-- Have you used GI Bill education benefits to complete a VET TEC program? Participants that answer yes can be included under Cohort A. 
-- Have you used GI Bill education benefits to complete an On-the-job training or apprenticeship program? Participants that answer yes can be included under Cohort B. 
-- Have you used GI Bill benefits to complete a four-year college degree? Participants that answer yes can be included under Cohort C. 
+- Have you used or are you actively using GI Bill education benefits to complete a VET TEC program? Participants that answer yes can be included under Cohort A. 
+- Have you used or are you actively using GI Bill education benefits to complete an On-the-job training or apprenticeship program? Participants that answer yes can be included under Cohort B. 
+- Have you used or are you actively using GI Bill benefits to complete a four-year college degree? Participants that answer yes can be included under Cohort C. 
 - Do you currently identify as a first-generation college student? Participants that answer yes can be included under Cohort D. 
 
 **4. Additional Screener Questions**
