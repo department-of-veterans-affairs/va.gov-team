@@ -65,6 +65,7 @@
 - What should we know about the Medical Records ecosystem?
 - What have you heard about the Medical Records process? From Veterans? From VA staff?
 - What are the opportunities that you see?
+- Where are the big pain points?
 - What are your priorities for Medical Records?
 - What ideas have been tried in the Medical Records space? 
 - Are there any projects in progress that touch on Medical Records?
