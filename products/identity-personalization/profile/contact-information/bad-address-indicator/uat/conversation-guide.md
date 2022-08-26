@@ -51,7 +51,7 @@ Task #2: Navigate to Contact information page - 1 minute
 **Task goal: Make sure the participant can easily navigate to the Contact information using the link.**
 -   Go ahead and select the link to review your mailing address.
 
-#### UAT and Usability
+#### UAT
 - [ ] **UAT TASK:** Confirm the link functions as intended.
 - [ ] **UAT TASK:** Confirm the alert is displayed on the Contact information page as expected.
 
@@ -64,7 +64,7 @@ Task #3: Navigate to Mailing address field - 1 minute
 
 - Now please select the link to review and update your address.
 
-#### UAT and Usability
+#### UAT
 - [ ] **UAT TASK:** Confirm the jump link functions as intended and brings the user to the Mailing address section.
 
 ---------------------------------------------------------------
