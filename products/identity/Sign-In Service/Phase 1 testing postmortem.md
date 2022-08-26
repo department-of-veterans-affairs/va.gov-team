@@ -8,12 +8,13 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Notes:**  Success rate was negatively impacted by DSLogon issues 
 
 ## Went well:
-No critical issues. 
-Minor Issues identified and resolved quickly. 
-Team did an excellent job preparing  
-Monitoring and tools were set up well ahead of time. 
-Datadog was a standout versus Loki.  
-Team was available for monitoring and issue resolution.  
+- No critical issues. 
+- Minor Issues identified and resolved quickly. 
+- Team did an excellent job preparing  
+- Monitoring and tools were set up well ahead of time.  
+- Datadog was a standout versus Loki.   
+- Team was available for monitoring and issue resolution. 
+- Able to account for 100% of users going through our system.
 
 ## Areas to improve:  
 -[46260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46260)
