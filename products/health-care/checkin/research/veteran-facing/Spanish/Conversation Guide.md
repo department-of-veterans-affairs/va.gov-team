@@ -34,15 +34,14 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 I'd like to start now with learning a little more about your background.
 - Do you and [your family/the Veteran] primarily speak Spanish, English, or another language at home? 
      - Can you tell me about your and [your family members'/the Veteran's] level of comfort with English vs. Spanish?
+     - Which spanish-speaking region  is your Spanish from? 
 - In general, when you each need information, do you prefer to read it in English or Spanish?
      - Why or why not? 
-     - Are there specific kinds of information or topics that you specifically prefer in Spanish? Can you tell me more about this?
-- Can you tell me about any VA benefits or services that you, or your family members, use or have used in the past?
 - Do you help your family manage any of their benefits or services or vice versa? Tell me more.
 
 Now, I’m going to ask you to think about the tasks you do prior to a VA medical appointment, such as checking in.
 - Do you recall which type of tasks you were asked to complete (if any)? 
-- As a bilingual Veteran, were there any tasks you think was missing or could have been helpful for Spanish-speaking Veterans? 
+- As a bilingual Veteran, were there any tasks you think was missing or could have been helpful for Spanish-speaking Veterans?
 - Curious if you have interacted or know other Veterans or caregivers with low English proficiency? (if yes), are you familiar with what their check in experience is like at the VA?
 
 
@@ -71,16 +70,21 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 
 ## Warm-up Questions - 10 minutes
 
-To start, I’d like to learn a little more about your background.
+I'd like to start now with learning a little more about your background.
 - Do you and [your family/the Veteran] primarily speak Spanish, English, or another language at home? 
      - Can you tell me about your and [your family members'/the Veteran's] level of comfort with English vs. Spanish?
+     - Which spanish-speaking region  is your Spanish from? 
 - In general, when you each need information, do you prefer to read it in English or Spanish?
-Why or why not? 
-- Are there specific kinds of information or topics that you specifically prefer in Spanish? Can you tell me more about this?
+     - Why or why not? 
 - Do you help your family manage any of their benefits or services or vice versa? Tell me more.
 - Do you set your browser to Spanish or use Google translate? Why or why not? 
 - Where do you expect to find a language toggle or switch if translated content is provided on a website?
-- When you go online, what type of device do you usually use (like a desktop computer, laptop, or mobile phone)?
+
+Now, I’m going to ask you to think about the tasks you do prior to a VA medical appointment, such as checking in.
+- Do you recall which type of tasks you were asked to complete (if any)? 
+- As a bilingual Veteran, were there any tasks you think was missing or could have been helpful for Spanish-speaking Veterans?
+- Are there specific kinds of information or topics that you specifically prefer in Spanish? Can you tell me more about this?
+- Curious if you have interacted or know other Veterans or caregivers with low English proficiency? (if yes), are you familiar with what their check in experience is like at the VA?
 
 ## First Task: Toggle 5-second test (10 minutes)
 Now I'm going to ask you to think about the last time you checked in for an in-person medical appointment.  I’ll  be showing you 3 designs in total. I’ll share each design briefly. I’ll then ask you some questions. I’m sharing the screen now. 
@@ -112,13 +116,15 @@ I'd like to bring your attention to the header (the area at the top)  and footer
 
 I’d like to talk about the language switch on the top section of the page.
 - What do you notice about the language switch?
-- How do you expect it to work?
 - If you click on the continue button, do you think it will show an English page or a Spanish page? 
-- What would you change about the design, if anything?
+- How do you expect it to work?
+     - If talking about Design B, also ask: how do you expect the notification to behave? 
+     - If you close the notification, what do you expect to see if you navigate to the next page? 
+
 
 
 [Follow-up questions]
-- Which, if any, design do you prefer? Why or why not? 
+- Which language switch, do you think, is most helpful?
 - Where do you expect to find a toggle on VA website if translated content is provided?
 - How do you expect to be notified about the new language function?
 
@@ -131,6 +137,9 @@ Note: the order of the designs shows will vary between all participants
 
 [Participants viewing the toggle design in pre-check-in flow]
 I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand. At this point, I would like you to share your screen, so we can see the text too. I've sent you a link in the chat to prototype. Please cut and paste this link into your browser. Thank you.
+
+Before you start,  a few things I want to mention:
+This prototype is just for user testing.  There is some content not yet translated into Spanish. We’d like you to mainly focus on the language switch function rather than other functions of the flow. 
 
 Please take a moment to interact with  this prototype. Please talk-aloud as you complete the task. And there are no right or wrong answers, I appreciate your honest feedback. 
 
@@ -147,14 +156,17 @@ Does the participant understand the English content? If not, how do they seek he
 
 **Questions to ask after a participant try out each toggle design:**
 - Does the language toggle switch work as you expected? Why or why not? 
-- What do you like about the design? What do you dislike about the design?
-- What, if anything, can be  improved?
+- What makes the language switch helpful?
+- What makes the language switch not helpful? What would you change about the design, if anything?
+
 
 
 ## Post-Toggle Testing Questions 
+Please stop sharing your screen, and I’ll share my screen instead.
 (Show the slide showing 3 designs: the current toggle, and the 2 toggle designs)
-On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate your experience with these 3 designs?
-Which, if any, do you prefer? Please rank. 
+Demonstrate each design and ask the following questions:
+     - On a scale from 1 to 10 (where 1 is very unsatisfied, and 10 is very satisfied), how would you rate your experience with these 3 designs?
+
 
 
 ## Thank-You and Closing - 2 minutes
