@@ -1,14 +1,14 @@
 ---
-name: Check In Experience Task to Update Production Artifacts (e.g. Product Guide, Poster)
-about: For Updating Check In Experience Production Artifacts
-title: "[UX] Update Release Artifacts"
+name: Check In Experience Task to Update Product Artifacts (e.g. Product Guide, Poster)
+about: For Updating Check In Experience Product Artifacts
+title: "[UX] Update Product Artifacts for Release"
 labels: HCE-Checkin, ux, research
 assignees: ''
 
 ---
 
 ## Description
-Update various product assets, as necessary, based on changes to the product.
+Update various product artifacts, as necessary, based on the feature release.
 
 ## Tasks
 - [ ] Update the PCI Product Guide, including content and screenshots
