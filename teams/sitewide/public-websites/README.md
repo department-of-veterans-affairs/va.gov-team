@@ -25,7 +25,7 @@ Public Websites team supports the modernized, unauthenticated veteran experience
 - [Product overview Mural](https://app.mural.co/t/vagov6717/m/vagov6717/1658961045082/cedcb1c5c42489e47be37733c73890ef890070ae?sender=u252e7152800e3981889d1910)
 
 
-
+---
 
 # Products we support
 
@@ -33,22 +33,23 @@ Public Websites team supports the modernized, unauthenticated veteran experience
 
 Additional inforrmation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites
 
-| [CMS content / functionality](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#cms-content--functionality) | [Non-CMS content / products](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#non-cms-content--products) | [Previous PW Projects](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#previous-pw-projects) |
+| [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
-| [Benefits Hub Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#benefits-hub-landing-page) | [Breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#breadcrumbs) |  [Appeal Modernization Process](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#appeal-modernization-process) |
-| [Benefits Detail Page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#benefits-detail-page) | [Shadow / dark launches of content](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#shadow--dark-launches-of-content) | [Disability rating calculator](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#disability-rating-calculator) |
-| [Campaign Landing Pages](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#global-header--footer-aka-mega-menu) | [Downtime messaging](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#downtime-messaging) |
-| [Events List](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#events-list) | [Header / footer injection](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#header--footer-injection) | [Harassment Reporting Tool](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#harassment-reporting-tool) |
-| [Event](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#event) | [Income limits web application](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#income-limits-web-application) | [Higher-Level Review static landing page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#higher-level-review-static-landing-page) |
-| [FAQ Page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#faq-page) | [Offices](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#offices) | [“How to apply” wizards](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#how-to-apply-wizards) |
-| [Find a form / VA Forms (+ Forms DB import)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#find-a-form--va-forms) |  | [React widgets governance](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#react-widgets-governance)|
-| [Full-width Alert](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#full-width-alert) | [Non-facility Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#non-facility-redirects) | [Yellow-ribbon tool](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#yellow-ribbon-tool) |
-| [Promo Banner](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#promo-banner) | [Unauthed React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#unauthed-react-widgets) | . |
-| [Outreach Materials Library (Publication listing & page)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#vagov-homepage) | .  |
-| [Q&A - single](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#qa---single) | [VA site search (using search.gov)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#va-site-search-using-searchgov) |  . |
-| [Resources & Support detail page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#resources-and-support-detail-page) | [Veterans Crisis Line modal](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#veterans-crisis-line-modal) | .  |
-| [Translations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#resources-and-support-detail-page) | [General VA.gov unauth UI](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/sitewide/public-websites/README.md#general-vagov-unauth-ui) | .  |
+| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) |  [Appeal Modernization Process](#appeal-modernization-process) |
+| [Benefits Detail Page](#benefits-detail-page) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Disability rating calculator](#disability-rating-calculator) |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) |[Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Downtime messaging](#downtime-messaging) |
+| [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Harassment Reporting Tool](#harassment-reporting-tool) |
+| [Event](#event) | [Income limits web application](#income-limits-web-application) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [FAQ Page](#faq-page) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) |  | [React widgets governance](#react-widgets-governance)|
+| [Full-width Alert](#full-width-alert) | [Non-facility Redirects](#non-facility-redirects) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [Promo Banner](#promo-banner) | [Unauthed React widgets](#unauthed-react-widgets) | . |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [VA.gov Homepage](#vagov-homepage) | .  |
+| [Q&A - single](#qa---single) | [VA site search (using search.gov)](#va-site-search-using-searchgov) |  . |
+| [Resources & Support detail page](#resources-and-support-detail-page) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | .  |
+| [Translations](#resources-and-support-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | .  |
 
+---
 
 # CMS content / functionality
 
@@ -139,7 +140,7 @@ Events filters are available on Lists, to filter by past, future, or specific da
 * CMS: [https://staging.cms.va.gov/outreach-and-events/events](https://staging.cms.va.gov/outreach-and-events/events) 
 * Primary editors: VEO (Veteran Experience Office) editors
 
-**VAMC Events - **example location: 
+**VAMC Events** - example location: 
 * URL: [https://www.va.gov/minneapolis-health-care/events/](https://www.va.gov/minneapolis-health-care/events/) 
 * CMS: [https://staging.cms.va.gov/minneapolis-health-care/events](https://staging.cms.va.gov/minneapolis-health-care/events) 
 * Primary editors:  VAMC editors have permissions to edit Events within their VAMC pages
@@ -373,6 +374,7 @@ Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translate
 * [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing upcoming work / research for translations (Q3 2022) 
 * **Q3 2022 project:** Upcoming translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
 
+---
 
 # Non-CMS content / products
 
@@ -653,6 +655,7 @@ Listing of schools that participate in the Yellow Ribbon program. Data previousl
    * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/5599](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5599)
    * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/5608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5608) 
 
+---
 
 # Previous PW Projects
 
