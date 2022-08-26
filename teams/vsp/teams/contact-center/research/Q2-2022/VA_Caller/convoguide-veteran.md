@@ -45,7 +45,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- What is your name your first name? 
+- What is your first name? 
 - When was the last time you called our VA Call Center?  
 - Can you give an estimate of time for that engagement with the call center? 
 
@@ -65,7 +65,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 · Have their been any blockers/ difficulties in getting services through your VA call center in your past experience?
 
-· Have you recieved a resolution for your issue and did you feel you ended up with a satisfactory answer? Yes, No? Please explain
+· Have you recieved a resolution for your issue and did you feel you ended up with a satisfactory answer? Yes, No? Please explain.
 
 · Please describe your overall experience when communicating with a VA call center in the beginning of your issue?
 
