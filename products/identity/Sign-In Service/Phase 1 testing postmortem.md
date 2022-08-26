@@ -14,7 +14,8 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 - Monitoring and tools were set up well ahead of time.  
 - Datadog was a standout versus Loki.   
 - Team was available for monitoring and issue resolution. 
-- Able to account for 100% of users going through our system.
+- Able to account for 100% of users going through our system.  
+- Quickly identified DSLogon issue, reached out to ID.me, and put a fix in place.  In old (IAM) system, this likely would have taken weeks to months.
 
 ## Areas to improve:  
 -[46260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46260)  
