@@ -15,11 +15,11 @@ We show this section for every LOA3 user.
 
 **Show card**
 
-- If a user has received a payment in the last 30 days.
+- If a user has received a payment in the last 60 days.
 
 **Do NOT show card**
 
-- If a user has not received a payment in the last 30 days.
+- If a user has not received a payment in the last 60 days.
 
 #### **Content**
 
@@ -39,14 +39,14 @@ Check mailed on [date]
 
 ---
 
-### If a user has not received a payment in the last 30 days
+### If a user has not received a payment in the last 60 days
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/977354F4-360B-4287-B9CD-CE28DC8444A0)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/95A46294-248D-407C-8557-8C6A35C02315)
 
 **Show**
 
-- If a user has not received a payment in the last 30 days. This includes veterans who have never received payments.
+- If a user has not received a payment in the last 60 days. This includes veterans who have never received payments.
 
 #### **Content**
 
@@ -77,7 +77,7 @@ Use font awesome icon `dollar` for icon in link list
 - Use font awesome icon “user-check”
 
 **Show in link list**
-- If a user has not had a payment in the last 30 days but has in the past.
+- If a user has not had a payment in the last 60 days but has in the past.
 ![Screen Shot 2022-08-17 at 9 59 53 AM](https://user-images.githubusercontent.com/97965610/185153689-a6c0bb5e-357d-4a44-8c33-eb2cfdf54fde.png)
 
 **Do NOT show in link list**
