@@ -1,6 +1,7 @@
 name: Platform PO Escalation
 description: For Platform teams to escalate issues to Platform POs.
 labels: ["platform-leadership", "platform-po-escalations"]
+assignees: ["little-oddball", "andreahewitt-odd"]
 body:
   - type: textarea
     id: what
