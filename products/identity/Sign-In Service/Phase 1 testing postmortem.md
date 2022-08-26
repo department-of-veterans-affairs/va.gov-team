@@ -17,7 +17,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 - Able to account for 100% of users going through our system.
 
 ## Areas to improve:  
--[46260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46260)
+-[46260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46260)  
 -[46259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/46259)
 
 ## Related Tickets:  
