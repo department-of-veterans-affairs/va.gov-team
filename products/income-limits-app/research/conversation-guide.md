@@ -78,6 +78,7 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 Cohort 1: For the rest of our conversation we're going to talk about what that experience was like for you. 
 ### Cohort 2: Get a detailed sense of thought process, questions and concerns
 Cohort 2: Let's turn now to talking about your thought process around VA health benefits.
+
 4. To start, when did you first start thinking about applying for VA health benefits? 
 5. Were you receiving other VA benefits at the time? Which benefits?
 6. What sparked the idea that you might want to apply for VA health benefits?
