@@ -34,7 +34,8 @@
             - check-in-experience-development-create-feature-flag.md
             - check-in-experience-development-frontend.md
             - check-in-experience-release-to-production.md
-            - check-in-experience-release-update-atifacts.md
+            - check-in-experience-release-update-product-atifacts.md
+            - check-in-experience-release-update-design-atifacts.md
         - METRICS
             - check-in-experience-metrics-decide.md    
             - check-in-experience-metrics-create.md            
