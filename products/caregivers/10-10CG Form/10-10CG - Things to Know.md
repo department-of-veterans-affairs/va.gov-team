@@ -11,7 +11,10 @@ This document contains tidbits, odds & ends, and information about the 10-10CG f
 
 
 ### Testing
-- ...
+- User #36 can be used for testing in all environments
+     - first name: WESLEY
+     - last name: FORD
+     - Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional SSN, DOB information
 
 
 ### Miscellaneous
