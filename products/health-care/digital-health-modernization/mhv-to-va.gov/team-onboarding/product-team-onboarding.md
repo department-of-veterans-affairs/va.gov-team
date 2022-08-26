@@ -79,20 +79,24 @@ All team members working on a VA.gov project must complete an orientation reques
 - [What to expect as you design, build, launch, iterate](https://depo-platform-documentation.scrollhelp.site/getting-started/welcome#Welcome-WhatistheVA.govPlatform?)
 
 
-## VA Platform Collaboration Cycle
-As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should become familiar with the process and understand team responsbilities, Platform expectations, and required artifacts.
+### VA Platform Collaboration Cycle
+As products and new features are developed for VA.gov, they go through a process called the Collaboration Cycle, where teams get feedback and guidance on their work to ensure it meets VA.gov experience standards.  Each member of the team should become familiar with the process and understand their responsbilities, Platform expectations, and the timing and required artifacts at each touchpoint.
 - [VA Platform Collaboration cycle website](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
 
-## Engineering-Specific Info
+### Product-Specific Info 
+  - [VA.gov Design System](https://design.va.gov/)
+  - [QA and Accessibility Testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
+
+### Engineering-Specific Info
 Please note that set up instructions may differ if your laptop/desktop is GFE (Government-Furnished Equipment).  Please work with your engineering lead on any GFE-related issues you encounter.
 - [Setting Up VA.gov Locally](https://depo-platform-documentation.scrollhelp.site/getting-started/setting-up-va-gov-locally)
   - [Set up frontend](https://depo-platform-documentation.scrollhelp.site/developer-docs/setting-up-your-local-frontend-environment)
   - [Set up backend](https://github.com/department-of-veterans-affairs/vets-api#base-setup)
   - [Accessing VA.gov in staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
   - [VA.gov Design System](https://design.va.gov/)
-  - [QA]
+  - [QA and Accessibility Testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 
-## Research and Design-Specific Info
+### Research and Design-Specific Info
 - [VA Platform Research and Design site](https://depo-platform-documentation.scrollhelp.site/research-design/)
 - [VA.gov design principles](https://design.va.gov/about/principles)
 - [Design system website](https://design.va.gov/)
