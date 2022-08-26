@@ -22,3 +22,5 @@ New form templates will have to be added to vets-api for each tax year, for both
   - Download text version of 1095B from IRS
   - Using preferred editor, add data fields to the text form (see past years text forms to see how/where the data fields go)
   - Add the new txt template to: lib/form1095_b/templates/txts/1095b-{tax year}.txt
+
+If the 1095B PDF format changes, then a developer will need to add updated code the Form1095Bs model to handle the new format, keeping the current format useable for current and past forms.
