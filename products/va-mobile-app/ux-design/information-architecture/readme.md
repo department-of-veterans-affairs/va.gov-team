@@ -1,4 +1,4 @@
-# Information Architecture
+# VA Health & Benefits app - Information Architecture
 
 _Last updated: February 2022_
 
