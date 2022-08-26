@@ -16,6 +16,21 @@ VAOS, VAR-RES, SM Web Current/Planned Deployment Schedule:
 
 https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 
+## Appointments list
+
+### Upcoming appointments
+- Display 13 months of future booked appointments
+- Includes VA and community care appointments
+- Display 13 months of canceled booked appts
+
+### Past Appointments
+- Includes VA and community care appointments
+- Does not display canceled booked appts
+
+### Pending appointments
+- Includes VA and community care requests
+- Show canceled requests 120 days back
+
 ## New appointment flow
 
 ### Type of care page
