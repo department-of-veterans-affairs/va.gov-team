@@ -56,7 +56,8 @@ The following data will come through VA Profile's API
 |Notification Group|Item|
 |--------|-----------|
 |Health Care|- Appointment Reminders <br />- Prescription Shipping|
-|   | - Applications, claims, decision reviews, and appeals|
+|  ? | - Applications, claims, decision reviews, and appeals|
+| Financial | Payments (coming soon)|
 
      
 
