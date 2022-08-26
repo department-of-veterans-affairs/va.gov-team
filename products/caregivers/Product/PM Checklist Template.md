@@ -4,9 +4,9 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead:  Patrick Bateman
+- OCTO-DE Product Lead: Patrick Bateman
 - Product Manager: Heather Justice, Mark Fallows
-- FE Engineer:
+- FE Engineer: 
 - BE Engineer: Lihan Li
 - Designer:
 - Researcher:
@@ -20,7 +20,7 @@
 <details>
 
 - Project epic #
-- [10-10CG Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - Initiative brief
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flows
@@ -29,7 +29,7 @@
 - North Star and KPIs for the product
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
+     - va.gov/health-care/apply/application/introduction
 - Use cases
 - Finalized design prototype or mockup
 - Content brief
@@ -98,6 +98,7 @@
      - [ ] Obtain signoff from downstream system team
 - [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Complete QA and Accessibility QA
+     - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
 - [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] Review findings with the team
      - [ ] Create tickets for work to be completed before launch
