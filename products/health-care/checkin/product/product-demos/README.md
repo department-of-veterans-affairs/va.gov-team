@@ -1,4 +1,7 @@
 
+# August 26, 2022
+- [Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/Demo%20Script_Aug_26_2022.pdf)
+
 # May 6, 2022
 - [Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/Patient_Check_in_Demo_May_6_2022.mp4)
 - [Audio](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/Patient_Check_in_Demo_May_6_2022.m4a)
