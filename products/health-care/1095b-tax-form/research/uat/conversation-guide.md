@@ -59,7 +59,6 @@ Okay, now I'm goin to ask you to share your screen on Zoom so that we can look a
 
 [Zoom Share Screen Directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 
-
 [Screen: unauthenticated 1094-B landing page]
 
 Please think aloud and walk me through what you see on the screen. 
@@ -84,36 +83,19 @@ Which format are you going to pick?
 
 Is the information on the form correct? Please verify your name, address, and coverage details. 
 
+## Second Task: [Address changes]
 
-## Second Task: [TASK NAME] - X minutes
+**MODERATOR:** Let's pretend that your address is incorrect on the 1095-B page. How would you go about changing it?
 
-- Step 1
-- Step 2
+[Pause]
 
-### Things to watch for:
+Let's go ahead and click through, but of course we won't actually change anything. 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
+Thank you for helping us test this new feature. 
 
 ## Thank-You and closing - X minutes
+
+Do you have any questions or comments for me before we sign off? 
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
