@@ -5,14 +5,12 @@
 
 
 ## Recording (All)
-
 - Are you comfortable if we record this meeting? The recordings won't be shared; we use them to confirm that our notes are correct.
 
 
 
 
 ## Engineering/Technical team interview
-
 - What is your experience with Medical Records?
 - What should we know about the Medical Records technical ecosystem? 
 - Are there any technical limitations that we should keep in mind? Is there anything that is possible technically but would be extremely difficult or time consuming?
@@ -29,7 +27,6 @@
 
 
 ## UX/Experience team interview
-
 - What is your experience with Medical Records?
 - What have you heard about the Medical Records process? From Veterans? From VA staff?
 - What are the opportunities you see in the Medical Records space?
@@ -45,7 +42,6 @@
 
 
 ## Mobile team interview
-
 - What is your experience with Medical Records?
 - How do you interact with Medical Records in your work in the mobile space?
 - Is the same Medical Records functionality available in the desktop and mobile spaces?
@@ -112,15 +108,33 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 
 ## Appointments team interview
+- What is your experience with Medical Records?
+- Can you tell us about the relationship between appointments and Medical Records?
 - Can you give us some information about After-Visit Summaries?
-- What do you think about including the After-Visit Summary (AVS) in the VA Health Summary?
-- Complete
-
+- What do you think about including the After-Visit Summary in the VA Health Summary?
+- How long after a visit is the After-Visit Summary available digitally to Veterans?
+- Is there an After-Visit Summary created for Compensation & Pension Exam?
+- How long after the Compensation & Pension Exam is the After-Visit Summary available digitally to Veterans?
+- Is there anything else that we should know about appointments and Medical Records that we haven't covered yet?
+- Are there any studies, research or analytics related to medical records that we should look at?
+- Do you have any outstanding questions about Medical Records that we might be able to answer through our research? 
+- Is there anyone else that we should reach out to?
 
 
 ## Pharmacy/Vaccination team interview
 - What is the source of truth for a Veteran's prescriptions and medications?
-- Complete
+
+- - What is your experience with Medical Records?
+- Can you tell us about the relationship between appointments and Medical Records?
+- Can you give us some information about After-Visit Summaries?
+- What do you think about including the After-Visit Summary in the VA Health Summary?
+- How long after a visit is the After-Visit Summary available digitally to Veterans?
+- Is there an After-Visit Summary created for Compensation & Pension Exam?
+- How long after the Compensation & Pension Exam is the After-Visit Summary available digitally to Veterans?
+- Is there anything else that we should know about appointments and Medical Records that we haven't covered yet?
+- Are there any studies, research or analytics related to medical records that we should look at?
+- Do you have any outstanding questions about Medical Records that we might be able to answer through our research? 
+- Is there anyone else that we should reach out to?
 
 
 
