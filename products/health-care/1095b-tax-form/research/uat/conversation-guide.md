@@ -1,23 +1,12 @@
 # Conversation Guide 
 
 ## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
 
 ### Starting the session
 
@@ -26,10 +15,9 @@ Slack for real-time feedback from observers.
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
+## Intro
 
-## Intro - 5 minutes
-
-**MODERATOR**: Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we'll ask you to help us test va.gov on a topic related to healthcare and tax documentation. 
+**MODERATOR:** Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we'll ask you to help us test va.gov on a topic related to healthcare and tax documentation. 
 
 Before we start, a few things I want to mention:
 
@@ -45,11 +33,11 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions
 
-**MODERATOR**: Can you tell me a little bit about yourself? (If stuck, as about location, occupation, military service history)
+**MODERATOR:** Can you tell me a little bit about yourself? (If stuck, as about location, occupation, military service history)
 
 ## Interview
 
-**MODERATOR**: To start, I'd like to ask you a few questions about your usage of VA benefits and digital services. 
+**MODERATOR:** To start, I'd like to ask you a few questions about your usage of VA benefits and digital services. 
 
 - Are you currently enrolled in the VA healthcare system and use any of those benefits? 
     - A [IF NO] Do you get health insurance from an employer or pay out of pocket?    
@@ -63,23 +51,39 @@ Before we start, a few things I want to mention:
 
 ## First Task: [Participant loads 1095-B page] - X minutes
 
-**MODERATOR** We've taken the first step in making the 1095-B form available online. Let's first load the page where the form is available for download. I'm going to put the link to the page in the Zoom chat. 
+**MODERATOR:** We've taken the first step in making the 1095-B form available online. I'm going to send you a link in the Zoom chat. I ask that you open it up in a web browser, and then let me know once you see it. 
+
+[Pause for confirmation]
+
+Okay, now I'm goin to ask you to share your screen on Zoom so that we can look at the page together. 
+
+[Zoom Share Screen Directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
+
+
+[Screen: unauthenticated 1094-B landing page]
 
 Please think aloud and walk me through what you see on the screen. 
 
+Before clicking on anything, what might you do next? 
 
+Is there anything missing from this screen? 
 
+**MODERATOR:** Please proceed by selecting 'sign-in' and enter your login information and password. 
 
+[Screen: authenticated 1095-B landing page]
 
-- Step 1 
-- Step 2
+Please think aloud. 
 
-### Things to watch for:
+What do you make of the options available? 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+Which format are you going to pick? 
+
+[Screen: personalized version of 1095-B form]
+
+**MODERATOR:** Please proceed to download the form. 
+
+Is the information on the form correct? Please verify your name, address, and coverage details. 
+
 
 ## Second Task: [TASK NAME] - X minutes
 
@@ -109,21 +113,10 @@ Please think aloud and walk me through what you see on the screen.
 - Question 2
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and closing - X minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future usability research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
 Great, well thank you so much again, and enjoy the rest of your day!
 
-##
 
-## Emergency Exit
-
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
