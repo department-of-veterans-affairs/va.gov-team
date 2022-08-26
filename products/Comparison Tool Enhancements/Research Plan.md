@@ -1,4 +1,4 @@
-# Research Plan for Comparison Tool Enhancements, Comparison Tool (Digital GI Bill) Team, September 2022
+# Research Plan for 2022-08 Comparison Tool Enhancements - Survey 
 
 This research request comes from the Digital GI Bill team for the Veterans Benefits Administration Education Service. Digital GI Bill looks to modernize the GI Bill experience in order to improve the user experience, improve claims processing, address the complexities of recent legislation, and integrate the legacy IT systems. This research plan comes from the Human Centered Design (HCD) agile team as we look to conduct usability testing for a feature within VA education, The Comparison Tool. Usability testing will inform us how students can learn about and compare their GI Bill benefits at approved schools, employers and VET TEC providers. 
 
@@ -69,7 +69,7 @@ For students who have used education benefits in the past, we anticipate that th
 	- Size: 9 participants per cohort
 
 - Login Requirements: Participant must have access to a computer or mobile phone to acess the survey and input responses
-- GI Bill Benefit Usage: Participants ave ysed ir are actively using their GI Bill benefits
+- GI Bill Benefit Usage: Participants have used or are actively using their GI Bill benefits
 - Accessibillity Preferences: We want to be sure to include the following Veteran groups below. **These demographics should make up the total 36 participants, but can be spread arbitrarily through the 4 earlier identified cohorts**:
 	- Race/Ethnicity: Identify as Black or African American (15%), Latinx (12%), Biracial (4%), Asian (3%), Native (1%) 
 	- 6% LGBTQ+ 
