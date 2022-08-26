@@ -3,13 +3,13 @@
 - This repository contains information about the team's history and current activity
 
 ## Core Team
-### Current as of 8/3/2022
+### Current as of 8/26/2022
 - Tracey Mulrooney - Product Owner
+- Coulton Bunney - OCTO Design Lead
 - Marci McGuire - Product Manager
 - Christopher Froehlich - Engineering
 - Patrick Vinograd - Engineering
 - Jonathan Nelson - Design
-- Megan Graham - Research
 - Lauren Alexanderson - Sponsor
 
 ## Projects
