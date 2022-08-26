@@ -20,7 +20,7 @@ _Start recording._
 
 -   **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-Login and share screen - 1 minutes
+Login and share screen - 1 minute
 ----------------------------------------
 
 -   OK, go ahead and open a new tab in your browser, and go to <https://www.va.gov/>. _Send link to va.gov via chat if needed_
@@ -31,7 +31,7 @@ _Participant shares screen_
 
 ---------------------------------------------------------------
 
-## Task #1: Review Personal information page and alert - 1 minutes
+## Task #1: Review Personal information page and alert - 1 minute
 
 
 **Task goal: Make sure the alert is easy to find and understand, and quickly prompts participants to take action and update their information.**
