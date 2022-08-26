@@ -45,6 +45,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/46259
 ## Key Takeaways
 - Improved Logging Capabilities: 
 - Improved Notification Capabilities:
+- Removes a party (IAM) from the issue resolution process:
 - 
 
 
