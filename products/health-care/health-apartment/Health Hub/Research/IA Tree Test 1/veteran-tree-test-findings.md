@@ -34,9 +34,6 @@ We want to evaluate how variations of the health care hub IA perform in key task
 - Veterans not enrolled in health care
 - Family members/caregivers of Veteran
 
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
 
 
 # Research Questions
@@ -48,7 +45,6 @@ Specific goals
 - Assess the labeling of health hub section
 - Gain insight into user mental models as they get and manage their benefits and care
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
 
 
 
@@ -59,8 +55,6 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 - Of the 12 tasks, 6 tasks were considered more related to learning or applying for the benefit (“Get benefits” tasks) and 6 tasks were considered more related to managing their health care or health benefit (“Manage benefits” tasks). 
 - Tasks were randomized to avoid bias from learning the tree as the test progressed. 
 
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
 # Hypotheses and Conclusions
@@ -93,8 +87,6 @@ Manage benefits tasks: In comparison to baseline…
 6. H1 showed a significant decrease in 3 tasks
 7. H1 showed a shift of where participants were exploring and selecting answers
 
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
 
 
