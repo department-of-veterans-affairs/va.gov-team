@@ -21,7 +21,6 @@
 |**Integrate military info through VA Profile**| - | Update integration | Launch if not already done |- |
 |**Forms system updates**|-|-| FE implementation | FE implementation continues, if needed|
 |**Notification preferences: Integration MHV prefs**| - | - | Planning | Work TBD |
-|**Notification preferences: 1095B**| - | - | Planning; design; Testing; Build | QA, Pre-launch, Launch |
 |**Documentation updates**| - | Direct deposit docs | Docs for all other profile sections | - |
 |**Accessibility audit and updates**| - | - | Complete audit and determine next steps | Ongoing work |
 
@@ -91,4 +90,5 @@
 |Add default opt-in functionality | VA Profile | January 2022 | We need functionality that tells us if a person is receiving a notification by default without having explicitly opted in themselves so we can reflect this in the profile. This is currently being worked on by VA Profile.|
 |Add notification preferences currently in eBenefits| Melissa Rebstock|2.11.22| Melissa Rebstock said there are notification preferences currently managed in eBenefits that need to move over to VA.gov. I explained that we need to first get VA Profile and VANotify on board before making any changes in VA.gov, so that process should start soon with a launch date of no later than Oct 2022.|
 |Add notification preferences from MHV| MHV/VA.gov | June 2022 | We need to do this as a part of the health apartment migration.|
+|1095B notification preference| Cedar1095B team| Summer 2022| This work was started but is now on hold until 2023|
 |504 compliance| Human Capital Management via Jim Betz| July 2022 | HCM wants to work in partnership with VA.gov and VA Profile to provide options for 504 compliant communication options for veterans with visual impairment.|
