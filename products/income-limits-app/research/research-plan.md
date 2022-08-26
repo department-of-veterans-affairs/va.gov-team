@@ -168,6 +168,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 * Planned dates of research: ________
+* No more than 3 sessions/day
 
 ### Length of sessions
 * Session length: up to 1 hour
@@ -182,7 +183,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development: Florence McCafferty	
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Wes Rowe, wesley.rowe@agile6.com	
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: TBD	
 - Note-takers: Perigean	
 - Observers: Dave Conlon david.conlon@va.gov, Wes Rowe wesley.rowe@agile6.com
 
