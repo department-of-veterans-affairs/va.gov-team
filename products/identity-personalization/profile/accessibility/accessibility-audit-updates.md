@@ -35,7 +35,7 @@ See [Profile screen reader walk-through](https://github.com/department-of-vetera
 ### Address validation 
 -   Address validation is a considerably difficult flow for screen reader users
 -   Concern raised during BAI pilot session with Angela
--   We still have edit buttons that look like links in the alerts, and next to the address entered by the user
+-   We still have edit buttons that look like links in the alerts and next to the address entered by the user ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43095#issuecomment-1228599039))
 -   **Next steps:** TBD
 -   **Considerations:** What percentage of users end up going through this flow? Knowing this could help us prioritize.
 
