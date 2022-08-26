@@ -1,6 +1,6 @@
 # Notification settings: Product outline
 
-Last Updated August 25, 2022
+Last Updated August 26, 2022
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -81,7 +81,7 @@ For previous OKRs/KPIs:
 
 ## Backend
 
-Notification settings come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
+Notification settings come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
 
 ### Error Handling
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
