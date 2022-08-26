@@ -6,15 +6,13 @@ Conversation Guide for Bad Address Indicator UAT (Internal)
 Intro - 2 minutes
 -----------------
 
-Thanks for joining us today! As you know, we’ll be trying out this new feature that helps Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
+As you know, we’ll be trying out this new feature that helps Veterans update incorrect contact information. The purpose of our session today is to make sure the feature is working as expected in your account and that you're able to interact with it as intended.
 
--   **This should take about 10 minutes or less**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+-   **This should take about 10 minutes or less**. 
 
--   **We will be able to see some of your real information today**. During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable.
+-   **We will be able to see some of your real information today**. 
 
--   **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-
-	-   _If yes:_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+-   **Are you comfortable if I record my screen and audio as we talk today?** 
 
 _Start recording._
 
