@@ -145,9 +145,10 @@ FOR EVERYONE
 
 1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. 
 
-1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs on the redesigned home page. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
-
-1. **Most participants (79%) scrolled all the way down** the home page to the footer.
+1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** 
+     2. Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs on the redesigned home page. 
+     3. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
+     1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
 
 # Details of Findings 
@@ -179,15 +180,30 @@ One participant said they were giving a lower task rating because they "had to d
 - [INSERT IMAGE](TBD) 
 - [INSERT IMAGE](TBD) 
    
-1. **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
+**Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
 
+1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by 70-90% of who tried them, and 4 were completed by *only half* of those who tried them.** A summary of the task completion and success rates is shown below (INSERT SCREENSHOT OF TABLE).
 
+For the 4 most problematic tasks, below are the major reasons why they were difficult and what could help:
+
+Task | Why Difficult | What Could Potentially Help
+------------------|--------------|-----------
+Check current disability compensation rates | 
+Compare education benefits by school |
+Add a spouse (review/update dependents) | **Couldn't find by browsing** (megamenu, benefit hub > Family member benefits), didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+File for disability increase |
+
+Participants struggled with other tasks, too, as shown in the table below:
+Task | Why Difficult | What Could Potentially Help
+------------------|--------------|-----------
+Message your doctor | **Couldn't find by browsing** | Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
+
+You can see which 
 
 
 # FROM TOPLINE SO PRELIMINARY...
 
-8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page.
-9. Each of the top 20 tasks tested in this research was attempted by 6-10 participants with varying degrees of success.
+8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page. Each of the top 20 tasks tested in this research was attempted by 6-10 participants with varying degrees of success:
      1. **9 tasks (almost half) were completed successfully by ALL those who tried them**, some more quickly than others.
      1. 7 tasks were completed successfully by 70-90% of those who tried them.
      1. 4 tasks were completed successfully by only half (50-60%) of those who tried them. 
