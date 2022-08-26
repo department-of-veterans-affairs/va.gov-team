@@ -75,7 +75,7 @@
 - Can you tell us more about the relationship between patient generated data and the comprehensive health record?
 
 #### *My HealtheVet Questions*
-- What should we call the records section of My HealtheVet on VA.gov?
+- What do you think we should we call the records section of My HealtheVet on VA.gov?
 "Medical records"
 "Health records"
 "Records"
@@ -97,14 +97,14 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - We are especially interested defining a vision for Track your health information and Patient-generated health data. Is there anything related to these topics that you think should be included in a vision?
 
 #### *Competitive Analysis*
-- For other healthcare providers, most information can be quickly viewed through a pop-up window without clicking to a different page or downloading. What do you think about laying out overview of different information directly on one page and Veterans can explore more by clicking on more details? (for example, doc's note and visit's summary)
-- What do you think about adding syncing fitness apps/devices to the platform? One reason is to provide Veterans a place to manage their welness, and another reason is to provider doctors information about Veterans' overall health.
-- Upcoming appointments, reminders for prescription refills and check new lab results and so on...those information is important to call out. Instead of having Veterans navigating to different pages to get that information, what do you think of having important information call out on the first page they see after signing in? 
+- For other healthcare providers, most information can be quickly viewed through a pop-up window without clicking to a different page or downloading. What do you think about laying out an overview of different information directly on one page and Veterans can explore more by clicking on more details? (for example, doc's note and visit summary)
+- What do you think about adding the ability to sync fitness apps/devices to the platform? One reason is to provide Veterans a place to manage their wellness, and another reason is to provider doctors information about Veterans' overall health.
+- Upcoming appointments, reminders for prescription refills and new lab results and so on...this information is important to call out. Instead of having Veterans navigating to different pages to get that information, what do you think of having important information called out on the first page they see after signing in? 
 - From looking at how other healthcare providers label records, they divide records into health records/summary and medical records. Health records/summary refer to things like lab results, vaccines, medications and vitals, which can be viewed instantly and don't have download capability and doesn't need to go through filters. Medical records need to be downloaded. Some don't need to filter and download by clicking on one button, but some do. What do you think about seperating information by health records and medical records, and medical records only require Veterans to filter by limited checkboxes or no checkbox? 
 
 #### *Closing*
 - Are there any studies, research or analytics related to medical records that we should look at?
-- Is there anything else that we should know about medical records that we haven't covered yet?
+- Is there anything else that we should know about Medical Records that we haven't covered yet?
 - Do you have any outstanding questions about Medical Records that we might be able to answer through our research? 
 - Is there anyone else that we should reach out to?
 
@@ -115,6 +115,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Can you give us some information about After-Visit Summaries?
 - What do you think about including the After-Visit Summary in the VA Health Summary?
 - How long after a visit is the After-Visit Summary available digitally to Veterans?
+- Is there any reason that an After-Visit Summary wouldn't be available to Veterans?
 - Is there an After-Visit Summary created for Compensation & Pension Exam?
 - How long after the Compensation & Pension Exam is the After-Visit Summary available digitally to Veterans?
 - Is there anything else that we should know about appointments and Medical Records that we haven't covered yet?
@@ -126,6 +127,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 ## Pharmacy/Vaccination team interview
 - What is your experience with Medical Records?
 - What is the source of truth for a Veteran's prescriptions and medications?
+- Where do you think that the vaccine records should reside in the tool. Should they be in a separate section, or included in the Medical Records?
 - Is there anything else that we should know about medications, vaccinations and Medical Records that we haven't covered yet?
 - Are there any studies, research or analytics related to Medical Records that we should look at?
 - Do you have any outstanding questions about Medical Records that we might be able to answer through our research? 
@@ -135,7 +137,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 ## Privacy/Legal team interview
 - What is your experience with Medical Records?
 - What are legal, security or privacy requirements that we should be keeping in mind?
-- Are there any potential legal changes that you forsee related to Medical Records?
+- Are there any potential upcoming legal changes that you forsee related to Medical Records?
 - What are your priorities for Medical Records?
 - What are the opportunities that you see?
 - What are challenges in the Medical Records space?
