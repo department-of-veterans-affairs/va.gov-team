@@ -77,11 +77,13 @@ Task #4
 **Task goal: Make sure the participant can easily UPDATE their mailing address.**
 
 - Now we'll pretend you're reviewing your mailing address and your zip code is incorrect like the alert says, so you need to make a change to your zip code.
+- First of all, could you select the question with the dotted line to view more about what to do if your address is correct?
 - Go ahead and select edit.
 - Then make a small change to your zip code
 - Then select Update.
 
 #### UAT
+- [ ] **UAT TASK:** Confirm the FAQ dropdown functions as expected.
 - [ ] **UAT TASK:** Confirm an update can be made and saved without an error message.
 - [ ] **UAT TASK:** Confirm the success message appears when an update is made.
 - [ ] **UAT TASK:** Confirm the BAI alert disappears when an update is made.
