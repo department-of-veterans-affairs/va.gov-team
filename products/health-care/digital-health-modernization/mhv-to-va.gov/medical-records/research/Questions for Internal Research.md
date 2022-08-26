@@ -122,26 +122,26 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 
 ## Pharmacy/Vaccination team interview
+- What is your experience with Medical Records?
 - What is the source of truth for a Veteran's prescriptions and medications?
-
-- - What is your experience with Medical Records?
-- Can you tell us about the relationship between appointments and Medical Records?
-- Can you give us some information about After-Visit Summaries?
-- What do you think about including the After-Visit Summary in the VA Health Summary?
-- How long after a visit is the After-Visit Summary available digitally to Veterans?
-- Is there an After-Visit Summary created for Compensation & Pension Exam?
-- How long after the Compensation & Pension Exam is the After-Visit Summary available digitally to Veterans?
-- Is there anything else that we should know about appointments and Medical Records that we haven't covered yet?
-- Are there any studies, research or analytics related to medical records that we should look at?
+- Is there anything else that we should know about medications, vaccinations and Medical Records that we haven't covered yet?
+- Are there any studies, research or analytics related to Medical Records that we should look at?
 - Do you have any outstanding questions about Medical Records that we might be able to answer through our research? 
 - Is there anyone else that we should reach out to?
 
 
-
 ## Privacy/Legal team interview
+- What is your experience with Medical Records?
 - What are legal, security or privacy requirements that we should be keeping in mind?
-- Complete
-
+- Are there any potential legal changes that you forsee related to Medical Records?
+- What are your priorities for Medical Records?
+- What are the opportunities that you see?
+- What are challenges in the Medical Records space?
+- If we were building Medical Records fresh, what would you want us to keep in mind?
+- If you could change any one thing about Medical Records right now, what would it be?
+- Is there anything else that we should know about Medical Records as it relates to the law and security that we haven't covered yet?
+- Do you have any outstanding questions about Medical Records that we might be able to answer through our research? 
+- Is there anyone else that we should reach out to?
 
 
 
