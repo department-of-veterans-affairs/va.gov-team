@@ -49,7 +49,7 @@ Before we start, a few things I want to mention:
 Before we jump into talking about VA health care benefits, I have a few questions to get to know you a bit more. 
 
 1. Where do you live?
-2. Who do you live with?
+2. Would you mind if I ask who you live with right now? (Can include: I don't need to know names or anything that you feel uncomfortable sharing)
 3. What do you like to do for fun?
 
 ## Guided Storytelling - X minutes
@@ -75,8 +75,8 @@ Great to know a little bit more about you! Let's now turn towards talking about 
 
 ## For cohort 1 and cohort 2
 ### Cohort 1: Get a detailed story of the full application process
-### Cohort 2: Get a detailed sense of thought process, questions and concerns
 Cohort 1: For the rest of our conversation we're going to talk about what that experience was like for you. 
+### Cohort 2: Get a detailed sense of thought process, questions and concerns
 Cohort 2: Let's turn now to talking about your thought process around VA health benefits.
 4. To start, when did you first start thinking about applying for VA health benefits? 
 5. Were you receiving other VA benefits at the time? Which benefits?
