@@ -37,6 +37,20 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA.gov profile supports notification settings, which are powered by the [VA Profile backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations). This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
 
+### What to Know
+
+
+This section of profile allows users to:
+
+- Manage text notification preferences.  
+- Review the contact info (mobile phone number) where notifications will be sent, if we have that information on file.
+
+The following data will come through VA Profile's API
+
+- Notification types (appointment reminder, claim update, etc)
+- Channels (text/email), groups (e.g. health care)
+- User settings (null, true, false) will come through
+
 ## User Outcomes
 
 ### Desired user outcomes
