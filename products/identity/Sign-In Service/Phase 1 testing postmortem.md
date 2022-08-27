@@ -4,7 +4,7 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Test End:**  1800EST  
 **Total Users Impacted:**  4,560 (50% of expected)   
 **Success Rate:**  65.58%  (average with SSOe is around 70%, theoretical maximum is around 80% due to user attrition)   
-**Return Rate:**  76.35%  (add definition)  
+**Return Rate:**  76.35%  (users forwarded to CSP and returned to VA.gov logged in)  
 **Notes:**  Success rate was negatively impacted by DSLogon issues 
 
 
