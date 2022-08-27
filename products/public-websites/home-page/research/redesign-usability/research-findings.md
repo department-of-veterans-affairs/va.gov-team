@@ -69,10 +69,8 @@ We conducted **remote moderated usability sessions via Zoom**. Participants were
 Participants were asked to complete some tasks based on which VA benefits they had experience with, per their responses to questions at the beginning of the session. **Each participant did a subset of the full list of 20 tasks in the conversation guide**, and for each, we recorded whether they were successful and also their ease rating on a scale from 1-5. Over the course of the sessions, we tracked how many participants completed each task and prioritized tasks that hadn't been completed by as many participants yet in order to get feedback on each task from at least 4 participants (we surpassed this goal by ending up with each task completed by at least 6 people).
 
 <details>
-  <summary>Click to see the list of ALL 20 top tasks and when to they were asked</summary>
+  <summary>Click to see the list of ALL 20 TOP TASKS and when they were asked</summary>
   
-We will track how many participants complete each task and make note of which tasks need to get prioritized in subsequent sessions. If we're unable to find enough participants that meet the benefit qualification below (in CAPS) for a particular task, the backup plan is to ask any participant to do that task.
-
 IF HAVEN'T USED EDUCATION BENEFITS…
 - Task 1: [Learn about or apply for education benefits]
 - Task 2: [Compare VA education benefits and rates by school]
@@ -116,14 +114,6 @@ FOR EVERYONE
     
 </details>
 
-### FOR EVERYONE
-*Note: If a participant wants to sign in before doing the task, RECORD that and say...* 
-- How would you sign in? *(RECORD: button in header / hero by photos)*
-- Can you tell me about what you expect and why?
-- If you were on a public computer and didn't want to sign in, is there anything you might expect to do from this web page?
-
-
- 
 # Hypotheses and Conclusions
 
 1. The prominent sign in/sign up location and CTA makes it easier for participants to easily sign in/sign up.
@@ -150,6 +140,7 @@ FOR EVERYONE
      3. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
      1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
+1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by *most* who tried them, and 4 were completed by *only half* of those who tried them.** 
 
 # Details of Findings 
 
@@ -182,31 +173,34 @@ One participant said they were giving a lower task rating because they "had to d
    
 **Most participants (79%) scrolled all the way down** the home page to the footer. This is an improvement over the current home page on Production, which has a row of photos that gives the false impression of being the bottom of the page.
 
-1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by 70-90% of who tried them, and 4 were completed by *only half* of those who tried them.** A summary of the task completion and success rates is shown below (INSERT SCREENSHOT OF TABLE).
+1. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page. **Each of the top 20 tasks tested in this research was attempted by 6-10 participants** with varying degrees of success:
+     1. **9 tasks (almost half) were completed successfully by *everyone*** who tried them, some more quickly than others.
+     1. 7 tasks were completed successfully by 70-90% of those who tried them.
+     1. **4 tasks were completed successfully by only half (50-60%)** of those who tried them. 
 
-For the 4 most problematic tasks, below are the major reasons why they were difficult and what could help:
+A summary of the task completion and success rates for each task is shown below (INSERT SCREENSHOT OF RATINGS TABLE).
+
+For the 4 most problematic tasks, below are the primary reasons why they were difficult and what might help make them easier:
 
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
-Check current disability compensation rates | 
-Compare education benefits by school |
-Add a spouse (review/update dependents) | **Couldn't find by browsing** (megamenu, benefit hub > Family member benefits), didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
-File for disability increase |
+File for disability increase | **Link goes to application for disability that doesn't mention filing for an increase** | Make clear on disability application page that this form can be used to increase your existing disability rating (i.e., add to heading "or increase your current rating")
+Add a spouse (review/update dependents) | **Couldn't find by browsing** (megamenu, benefit hubs > Family member benefits), didn't recognize links with the word "dependent" as relevant | Add "View or change dependent" to Family Member Benefits page, on the home page somewhere, a search autocomplete suggestion, and a search "top recommendation" for "spouse" and "dependent"
+Compare education benefits by school | **Didn't notice "GI Bill Comparison Tool" in right rail of megamenu > Education and training** | Change link to comparison tool look like a hyperlink instead of an ad
+Check current disability compensation rates | **Couldn't find by searching** ("disability pay") **OR browsing** (megamenu > disability, megamenu > pension, benefit hubs > pension) | Add "View disability rates" to megamenu under Disability, search autocomplete suggestion, and a search "top recommendation"   
 
-Participants struggled with other tasks, too, as shown in the table below:
+Participants struggled with some of the other tasks, too, as shown in the table below:
 Task | Why Difficult | What Could Potentially Help
 ------------------|--------------|-----------
 Message your doctor | **Couldn't find by browsing** | Add "Manage your VA health care" link to home page, which leads to secure messaging, appointment scheduling, prescriptions, lab results, etc.
-
-You can see which 
+Get VA medical history/records | **Couldn't find by browsing** (megamenu > health care) | Add "Get your VA medical records" to home page, to megamenu under Health care
+Find mental health counselor/therapist | **Couldn't find by searching** ("therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
+Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
 
 
 # FROM TOPLINE SO PRELIMINARY...
 
-8. Different participants took very **different paths to complete the same tasks**, which was possible because there are many ways to navigate from the home page to the same content page. Each of the top 20 tasks tested in this research was attempted by 6-10 participants with varying degrees of success:
-     1. **9 tasks (almost half) were completed successfully by ALL those who tried them**, some more quickly than others.
-     1. 7 tasks were completed successfully by 70-90% of those who tried them.
-     1. 4 tasks were completed successfully by only half (50-60%) of those who tried them. 
+
 
 1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos, and "Sign in" in the header). 
      1. One quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so that they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
