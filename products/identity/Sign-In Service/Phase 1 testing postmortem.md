@@ -3,8 +3,8 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Test Start:** 1200EST  
 **Test End:**  1800EST  
 **Total Users Impacted:**  4,560 (50% of expected)   
-**Success Rate:**  65.58%  (average with SSOe is around 70%, theoretical maximum is around 80% due to user attrition). 
-**Return Rate:**  76.35%  (add definition)
+**Success Rate:**  65.58%  (average with SSOe is around 70%, theoretical maximum is around 80% due to user attrition)   
+**Return Rate:**  76.35%  (add definition)  
 **Notes:**  Success rate was negatively impacted by DSLogon issues 
 
 
