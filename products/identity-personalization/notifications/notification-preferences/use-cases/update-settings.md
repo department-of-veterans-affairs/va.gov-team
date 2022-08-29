@@ -31,7 +31,7 @@ N/A
 ### Common use cases
 1. **Do not make changes to the notification that is not set**
 2. Go to staging.va.gov/profile/notification-settings
-3. Login with vets.gov.user+36 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+3. Login with vets.gov.user+41 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 4. You can update the notifications that are set to see the update or error message. To trigger the error message, disconnect your device from wi-fi before you change the radio input.
 
 ### Specific notifications
