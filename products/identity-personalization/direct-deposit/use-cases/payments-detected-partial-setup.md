@@ -33,7 +33,7 @@ N/A
 ## How to reproduce
 
 ### Has set up compensation and pension direct deposit, but has not set up education payments
-1. Log into staging with Judy Morrison
+1. Log into staging with Judy Morrison ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 2. Navigate to direct deposit
 3. You will see compensation and pension direct deposit set up, but not education
 
