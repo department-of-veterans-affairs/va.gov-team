@@ -12,13 +12,16 @@
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - 
+
+  - The Cloud Isolaation team is making this change on their end which will impact the VAOS application. 
+
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - 
-  - 
+  - The problem is not occuring at the moment. If the VAOS team does not make any changes and if the updated domain names are in production, then VAOS application will not work properly. 
+  
 * How does this initiative help further OCTO-DE's mission and goals?
-  - 
-  - 
+
+  - The initiative will help further OCTO-DE's mission and goals because the VAOS code will be aligned to the VA.gov platform. 
+
 
  <details>
   <summary><b>Title/b></summary>
