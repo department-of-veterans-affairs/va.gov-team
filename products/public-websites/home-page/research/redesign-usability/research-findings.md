@@ -207,7 +207,23 @@ Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add
      1. A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
      2. One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
-3. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
+3. Several participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened. **Participants expect to see all dropdown options and select one before corresponding content is opened.** One participant wanted to see the dropdown options but skipped health care because it was already open. A different participant didn't open the Disability option because they didn't realize that the Health care option was already open. A third participant was surprised by seeing Burial and Memorials still open from the previous time they opened the megamenu and had expected to choose which dropdown option to expand. In addition, this interaction was confusing for our pilot participant who uses a screen reader.
+
+1. We heard some additional usability feedback on the home page and other VA.gov pages:
+     1. One participant suggested removing the 3 photos of Veterans because they "don't do anything" (p14)--i.e, you can't interact with them.
+     1. One participant said that there are too many clicks to get to information from the home page.
+     2. Two participants said that there's too much text on some of the VA.gov pages, for example, in the light blue box on the [Burial Eligibility page](https://staging.va.gov/burials-memorials/eligibility/).
+     3. About a quarter of the participants (5 of 19) said that they call the VA when they get stuck trying to find something on VA.gov.
+
+> "Don't bury so many things so deep...[check education benefits] buried under too many clicks...want 2 clicks max...After two clicks I would stop because I don’t want to have to click 5 times to get to what I am looking for...search until I get tired, and then use the VA 800#" (p9).
+
+> "Makes you read a lot of stuff you shouldn't have to read" (p14).
+
+> "I would scan it. I would eventually have to read it once I was frustrated" (p16). 
+
+1. There were **two accessibility issues** identified during the usability testing:
+     1. One participant said that the **smallest font size was too small for them to read**. This text included the benefit hub descriptions and the common tasks listed. 
+     2. Our pilot participant who uses a screen reader noticed that **focus was on the side nav menu instead of the H1** on the [Education eligibility page](https://staging.va.gov/education/eligibility/) when the page is opened.
 
 ### Content
 8. **No one said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**. During the post-task interview, participants were asked about it, and it was interpreted in various ways:
@@ -250,7 +266,9 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 3. Consider the following revisions to the Common tasks and Other search tools sections:
      1. ...
 4. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link or verbiage to do VA health care tasks.
-5. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
+6. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
+7. Consider changing the megamenu interaction to be more like a standard dropdown in which all options are shown whenever it's opened *without any of the options already expanded until after the user selects one.*
+8. Check the font size of the text of the benefit hub descriptions and the list of common tasks and consider enlarging it. The current minimum font size for VA.gov is 16px, but Gov.UK recommends 19px for older populations, which we should consider. 
 
 # Next Steps
 
