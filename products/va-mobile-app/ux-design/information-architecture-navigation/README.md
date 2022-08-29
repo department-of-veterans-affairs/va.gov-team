@@ -15,7 +15,7 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 - [Closed Card Sort - Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md)
  
  
-### Phase II - Navigation Model Exploration & Implementation###
+### Phase II - Navigation Model Exploration & Implementation ###
 **Exploration**
  - [Comparative Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis)
  - [Navigation Design Workshop (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1648667549883/2f4416cd2a5b9bddce0e2ecc0f078d4f7218a2fe?sender=uff1791dd79ec763420518644)
