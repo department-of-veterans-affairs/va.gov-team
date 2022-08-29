@@ -33,7 +33,7 @@
 
 ### Planning
 **Launch Go/No-go:** 
-- Completed mm/dd/yyyy
+- Completed 08/25/2022
 - Launch go/no-go ticket: [#44648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44648)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-redirect/launch-materials/my-va-redirect-launch-go-no-go-checklist.md)
 
@@ -55,7 +55,7 @@
 ### Planning:
 |Launch % |Desired Date | Actual Date | 
 |-------|-----------|-----------|
-| Launch to 25% | 08/29/2022 | mm/dd/yyyy |
+| Launch to 25% | 08/29/2022 | 08/29/2022 |
 | Launch to 50% | 09/06/2022 | mm/dd/yyyy |
 | Launch to 100% | 09/12/2022 | mm/dd/yyyy |
 
