@@ -59,7 +59,7 @@ Resolve two issues identified during testing (listed above)
 
 ## Supplement: Average Login Times for SSOe and Sign-in Service:
 
-#add text description here
+While testing our sign-in service, we saw an average reduction in user login time of one second (6%), with some CSP's seeing as much as a 33% reduction in time taken to sign-in.  For Login.gov, average time to sign in was reduced from 11.35 seconds to 8.11 seconds, which was the most dramatic reduction.  The most significant reduction in the sign-in process was from CSP selection to CSP sign-in screen, which was cut in half (4.33 seconds to 2.13 seconds).  
 
 ### Time to log in (SSOe)
 
