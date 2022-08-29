@@ -69,6 +69,12 @@ Due by [date]
 
 ---
 
+### If a user has outstanding debt(s) AND copay bill(s)
+
+- Show both cards and always show the debts card first, then the copays card below it.
+
+---
+
 ### If a user has no outstanding debts or copay bills
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/05DF131D-F900-4770-A3D3-D3F4FAA23FD3)
