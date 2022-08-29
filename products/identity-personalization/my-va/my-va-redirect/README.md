@@ -27,12 +27,20 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **Hypothesis**: Clicks from My VA to the homepage will increase if people can not find a link on My VA that they can find on the homepage.
 
-**KPI**: We do not see an increase in clicks back to the homepage from My VA, as measured by where the homepage ranks releative to other pages for next clicks.
+**KPI**: 
+Next Clicks: We do not see an increase in clicks back to the homepage from My VA, as measured by where the homepage ranks releative to other pages for next clicks.
 
-|Metric|1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
+Exits: We do not see an increase in percentage of users leaving VA.gov entirely from My VA.
+
+**Next Clicks**
+||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Rank of the homepage as a next click from My VA|#7|TBD|TBD|TBD|TBD|TBD|
-|Exits from VA.gov from My VA|TBD|TBD|TBD|TBD|TBD|TBD|
+
+**Exits**
+||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
+|-------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Exits from VA.gov from My VA|6.1%|TBD|TBD|TBD|TBD|TBD|
 
 #### [Top interactions from My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
