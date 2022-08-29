@@ -145,10 +145,8 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 |35-54 yo        |            |        |    9    |        |        |        |        |        |
 |55+ yo          |            |        |        |    9    |      |        |        |        |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |
-|***BENEFITS***  |            |        |        |        |        |        |        |        |
-|Healthcare      |      ALL      |        |        |        |        |        |        |        |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    
 |***CAREGIVERS***  |            |        |        |        |        |        |    9    |        |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    
 |***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***  |            |        |        |        |        |        |        |    9    |
 
 
