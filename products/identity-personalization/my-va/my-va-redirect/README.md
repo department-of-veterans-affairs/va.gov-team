@@ -57,12 +57,12 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating|TBD|TBD|TBD|TBD|TBD|TBD|
-|Rating|TBD|TBD|TBD|TBD|TBD|TBD|
-|Disability|TBD|TBD|TBD|TBD|TBD|TBD|
-|Claim(s)|TBD|TBD|TBD|TBD|TBD|TBD|
-|Payment|TBD|TBD|TBD|TBD|TBD|TBD|
-|Payment history|TBD|TBD|TBD|TBD|TBD|TBD|
+|Disability rating|24|TBD|TBD|TBD|TBD|TBD|
+|Rating|42|TBD|TBD|TBD|TBD|TBD|
+|Disability|47|TBD|TBD|TBD|TBD|TBD|
+|Claim(s)| 45, 26|TBD|TBD|TBD|TBD|TBD|
+|Payment|57|TBD|TBD|TBD|TBD|TBD|
+|Payment history|6|TBD|TBD|TBD|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -70,10 +70,10 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|TBD|TBD|TBD|TBD|TBD|TBD|
-|Letter|TBD|TBD|TBD|TBD|TBD|TBD|
-|Benefit letter|TBD|TBD|TBD|TBD|TBD|TBD|
-|GI bill|TBD|TBD|TBD|TBD|TBD|TBD|
+|DD214|4|TBD|TBD|TBD|TBD|TBD|
+|Letter|5|TBD|TBD|TBD|TBD|TBD|
+|Benefit letter|29|TBD|TBD|TBD|TBD|TBD|
+|GI bill|16|TBD|TBD|TBD|TBD|TBD|
 
 #### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
 
@@ -83,12 +83,12 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Disability rating|TBD|TBD|TBD|TBD|TBD|TBD|
-|Rating|TBD|TBD|TBD|TBD|TBD|TBD|
-|Disability|TBD|TBD|TBD|TBD|TBD|TBD|
-|Claim(s)|TBD|TBD|TBD|TBD|TBD|TBD|
-|Payment|TBD|TBD|TBD|TBD|TBD|TBD|
-|Payment history|TBD|TBD|TBD|TBD|TBD|TBD|
+|Disability rating|5|TBD|TBD|TBD|TBD|TBD|
+|Rating|14|TBD|TBD|TBD|TBD|TBD|
+|Disability|36|TBD|TBD|TBD|TBD|TBD|
+|Claim(s)|53, 25|TBD|TBD|TBD|TBD|TBD|
+|Payment|50|TBD|TBD|TBD|TBD|TBD|
+|Payment history|7|TBD|TBD|TBD|TBD|TBD|
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
@@ -96,10 +96,10 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 |Search term| Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
-|DD214|TBD|TBD|TBD|TBD|TBD|TBD|
-|Letter|TBD|TBD|TBD|TBD|TBD|TBD|
-|Benefit letter|TBD|TBD|TBD|TBD|TBD|TBD|
-|GI bill|TBD|TBD|TBD|TBD|TBD|TBD|
+|DD214|15|TBD|TBD|TBD|TBD|TBD|
+|Letter|18|TBD|TBD|TBD|TBD|TBD|
+|Benefit letter|58|TBD|TBD|TBD|TBD|TBD|
+|GI bill|24|TBD|TBD|TBD|TBD|TBD|
 
 #### Medallia feedback
 
