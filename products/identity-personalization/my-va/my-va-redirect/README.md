@@ -42,12 +42,12 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 |Link name | # of clicks 1 week pre-launch (8/22 - 8/28) | # of clicks 1 week post-launch to 25% (8/29 - 9/4) |# of clicks 1 week post-launch to 50% (9/6 - 9/11) | # of clicks 1 week post-launch to 100% (9/12 - 9/18) |  # of clicks 1 month post-launch to 100% (10/12)|  # of clicks 3 months post-launch to 100% (12/12)|
 |----|-----------|-----------|-----------|-----------|-----------|-----------|
-|View claim|TBD|TBD|TBD|TBD|TBD|TBD|
-|Manage all your claims and appeals|TBD|TBD|TBD|TBD|TBD|TBD|
-|View all appointments|TBD|TBD|TBD|TBD|TBD|TBD|
-|View all messages|TBD|TBD|TBD|TBD|TBD|TBD|
-|View all prescriptions|TBD|TBD|TBD|TBD|TBD|TBD|
-|View all payments|TBD|TBD|TBD|TBD|TBD|TBD|
+|View claim|18,474|TBD|TBD|TBD|TBD|TBD|
+|Manage all your claims and appeals|17,059|TBD|TBD|TBD|TBD|TBD|
+|View all appointments|1,677|TBD|TBD|TBD|TBD|TBD|
+|View all messages|5,543|TBD|TBD|TBD|TBD|TBD|
+|View all prescriptions||3,096|TBD|TBD|TBD|TBD|
+|View all payments||15,353|TBD|TBD|TBD|TBD|
 
 #### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
