@@ -119,20 +119,20 @@ We would like Perigean to recruit 63 people using the cohorts below in order to 
 
 ### Criteria Table 
 
-Cohort 1
-All are age 18 - 34
-Cohort 2
-All are age 35 - 54
-Cohort 3
-All are age 55+
-Cohort 4
-All are caregivers
-Cohort 5
-All are female
-Cohort 6
-All are male
-Cohort 7
-All have a cognitive disabilities
+- Cohort 1
+  - All are age 18 - 34
+- Cohort 2
+  - All are age 35 - 54
+- Cohort 3
+  - All are age 55+
+- Cohort 4
+  - All are caregivers
+- Cohort 5
+  - All are female
+- Cohort 6
+  - All are male
+- Cohort 7
+  - All have a cognitive disabilities
 
 |                |Single Study|Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
