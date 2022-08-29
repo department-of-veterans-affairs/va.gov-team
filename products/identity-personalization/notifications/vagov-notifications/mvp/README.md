@@ -134,7 +134,11 @@ We receive on-site notifications from [VANotify](https://depo-platform-documenta
   - Users receive notifications based on their preferences. Email notifications can be turned off; on-site notifications can not. 
 - If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
 
-[Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
+Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov can be found in:
+
+- [Onsite Notification Workflow Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
+- [Onsite Notification Backend Technical Document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/onsite_notifications/technical_overview.md)
+
 
 ### How to test
 
