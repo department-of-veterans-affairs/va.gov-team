@@ -27,16 +27,15 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 **Hypothesis**: Clicks from My VA to the homepage will increase if people can not find a link on My VA that they can find on the homepage.
 
-**KPI**: 
+**KPI**
 Next Clicks: We do not see an increase in clicks back to the homepage from My VA, as measured by where the homepage ranks releative to other pages for next clicks.
-
-Exits: We do not see an increase in percentage of users leaving VA.gov entirely from My VA.
-
 **Next Clicks**
 ||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Rank of the homepage as a next click from My VA|#7|TBD|TBD|TBD|TBD|TBD|
 
+**KPI** 
+Exits: We do not see an increase in percentage of users leaving VA.gov entirely from My VA.
 **Exits**
 ||1 week pre-launch (8/22 - 8/28) | 1 week post-launch to 25% (8/29 - 9/4) |1 week post-launch to 50% (9/6 - 9/11) |1 week post-launch to 100% (9/12 - 9/18)| 1 month post-launch to 100% (10/12)| 3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|-----------|-----------|-----------|-----------|
