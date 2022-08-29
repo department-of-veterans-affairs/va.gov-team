@@ -96,8 +96,8 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 - [Link to prototype or OptimalSort session for group 2](url goes here)
 - [Link to prototype or OptimalSort session for group 3](url goes here)
 - [Link to prototype or OptimalSort session for group 4](url goes here)
-[Link to prototype or OptimalSort session for group 5](url goes here)
-[Link to prototype or OptimalSort session for group 6](url goes here)
+- [Link to prototype or OptimalSort session for group 5](url goes here)
+- [Link to prototype or OptimalSort session for group 6](url goes here)
 - [Link to prototype or OptimalSort session for group 7](url goes here)
 	
 ## Recruitment	
