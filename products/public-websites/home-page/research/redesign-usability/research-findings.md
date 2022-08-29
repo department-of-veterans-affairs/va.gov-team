@@ -132,15 +132,21 @@ FOR EVERYONE
    
 
 # Key Findings
-
+## Navigation
 1. **Most participants browsed (clicking links) without using the Search box at all or searched only when browsing didn’t work**. 
 
 1. **Most participants' navigation of the home page often didn't include the entire page but only certain parts of it.** 
-     2. Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs on the redesigned home page. 
-     3. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
+     1. Most research participants used the header, *Common tasks, Other search tools*, and the Benefit hubs on the redesigned home page. 
+     1. Almost half of the participants used the new search box, and many fewer used the "sign in or create account" button. 
      1. **Most participants (79%) scrolled all the way down** the home page to the footer.
 
 1. **Of the 20 top tasks tested, 9 tasks were completed successfully by *everyone* who tried them, 7 were completed by *most* who tried them, and 4 were completed by *only half* of those who tried them.** 
+1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
+1. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
+
+## Content
+1. **No one said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" or clicked on it while doing tasks**
+
 
 # Details of Findings 
 
@@ -197,21 +203,36 @@ Get VA medical history/records | **Couldn't find by browsing** (megamenu > healt
 Find mental health counselor/therapist | **Couldn't find by searching** ("therapist", "counselor") **OR browsing**| Add "mental health" to home page, to megamenu under health care, to search autocomplete suggestions, to search "top recommendation" for "therapist" and "counselor" and "therapy"
 Update your address with VA | **Couldn't find by browsing** (benefit hubs) | Add "Update contact info" to Common tasks, and in the Records benefit hub
 
+1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos in addition to "Sign in" in the header). 
+     1. A quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
+     2. One participant said that they didn't think to sign in because they primarily use the VA mobile app, in which you stay signed in.
 
-# FROM TOPLINE SO PRELIMINARY...
-
-
-
-1. Several participants said that it was **redundant or confusing to have two different sign-in buttons** ("Sign in or create an account" near the photos, and "Sign in" in the header). 
-     1. One quarter of the participants (5 of 19) said that they'd sign in first--before using the home page--so that they'd see customized links or wouldn't get interrupted later to sign in and then have to figure out how to get back to where they were.
 3. Some participants had **difficulty using the VA Benefits and Health Care megamenu because it didn't work as expected** since one dropdown option was already expanded upon opening--either the first option (Health care) or the one last opened.  
 
 ### Content
-8. The Vantage box entitled "Updates on Veteran homelessness" was interpreted in different ways by participants:
-     1. No one said anything about it while doing tasks. During the post-task interview, one participant said they thought it was a banner ad and so ignored it.
-     1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article** and thought it was about much-needed VA help for homeless Veterans. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts about it.
-     1. Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there because it had nothing to do with the homelessness benefit information.
-     2. When asked what other types of content should be shown here, several participants said they wanted information about recent legislation enacted, changes in VA benefits or procedures, or specific VA benefits (e.g., disability/claims, education, housing loans). 
+8. **No one said anything about the Vantage blog promo box entitled "Updates on Veteran homelessness" nor clicked on it while doing tasks**. During the post-task interview, participants were asked about it, and it was interpreted in various ways:
+     1. Many participants **didn't realize that the Vantage box entitled "Updates on Veteran homelessness" was a news article and thought it featured an important VA benefit for homeless Veterans**. Some Veterans said it should be featured more prominently on the page, and some wanted to see how VA is helping. Other participants thought that homeless Veterans may not see this information because they wouldn't have a computer or Internet access. It was a particularly emotional issue for one Veteran, who got teary while discussing her thoughts.
+     
+     2. **Those who noticed the "All VA News" link in the box thought it would be more information about homelessness, or questioned why it was there at all because it had nothing to do with the homelessness benefit information.**
+     4. Two participants recognized the Vantage box as news, which they didn't care to look at on the home page. Two different participants suggested showing news articles in a rotating carrousel so they might be enticed to click on one.
+     5. **One participant said they thought it was a banner ad and so ignored it.**
+     1. Two participants said they didn't know what "PIT Count" means (it's "Point In Time" count). 
+     1. One participant thought the picture looked staged and also misleading because it appears to be about food, not housing.
+     1. One participant said that the homeless information isn't not that useful to anyone in the Philippines because they have no access to these programs overseas.
+     3. **When asked what other types of content should be shown in this section, several participants said they wanted information about recent legislation enacted (e.g., burn pit registry), changes in VA benefits or procedures, or specific VA benefits (e.g., education, disability/claims, housing loans, local Veterans homeless shelters or mobile assistance units).** 
+
+> "Why would I scroll all the way down to homelessness to get to the news?" (p4).
+
+> "There are homeless Veterans on every corner...in my community...no one's helping them. Have to fight to get disability...They've already done that, got denied, and there's no fight left in them...It is hard for me to believe they [VA] are doing much of anything to help...To see how they are pushed to the side. I am not sure if they are getting the help or not accepting the help...I want to see see how VA is actually helping...I want to see the people out there actually caring for those Veterans" (p9). 
+
+> "Many Vets don't know that VA can help" (p11, who writes down the 800 number and gives it to homeless Veterans).
+
+> "If it looks like a banner ad, I'd be more likely to ignore it...trained to ignore banner ads" (p22).
+
+> "I hate the photograph--What's in the bag? Getting free food? Not housing assistance but food assistance" (p14). 
+
+
+
 3. Almost half of the participants **didn't know what "Yellow Ribbon" means**, which was listed under the heading "Other search tools".
 
 
@@ -228,7 +249,7 @@ We heard some feedback specifically for VA, which is listed below but not analyz
 2. Make sure that all top tasks can be accomplish via both searching and browsing in order to support people who only search or only browse.
 3. Consider the following revisions to the Common tasks and Other search tools sections:
      1. ...
-4. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button.
+4. Consider removing the "Sign in or create account" button because most participants were accustomed to using the "Sign in" button in the header and some were confused by seeing a second button. This screen real estate may be better used by a link or verbiage to do VA health care tasks.
 5. Consider moving the Vantage blog promo down below the benefit hubs so it doesn't interrupt the user's navigation flow among search, other search tools, and common tasks.
 
 # Next Steps
