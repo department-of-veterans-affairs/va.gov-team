@@ -14,37 +14,56 @@
 
 </details>
 
+## Monday, August 29, 2022
+
+
+* Sync CMS data to sandbox  _<-We didn't get to last 2 weeks_
+   * Internal meeting ..results? 
+* v1 timeline check
+   * Coordinate when/how to _flip the switch_
+   * Is Faciliies ready - Right now: Dont push anything except Covid 19 -> Push everything but (MH + Caregiver)
+* Mental Health 
+  * Crosswalk ATC data and Facilities data 
+  * Waiting for Facility ID in reports 
+  * Multiple phone numbers - target Sprint 66 
+* VAST - add support for custom hours within CMS
+  * How would we define "Custom Hours"?
+  * Take hours from VAST operational_hours_special_instructions 
+  * At one point does CMS get migration from VAST, then send it to Facilites - should the flow be some data gets routed through CMS first before sending to LH? 
+* CARMA meeting coming up.  Caregiver support list of facilities.  
+  * Dave C prefers Jenny take the lead  - poke at trying to resolve
+  * Dave C will assure JHL has email 
+
 ## Monday, August 22, 2022
 
 * v1 timeline check
    * End of August. (maybe early Sept)
-   * Lookingn closer to early Sept - internal investigation - looking at maybe a sprint delay 
+   * Lookingn closer to early Sept - LH has some internal investigation - looking at maybe one sprint delay 
    * Coordinate when/how to _flip the switch_
-   * Only one endpoint, once LH gives thumbs up, swap out logic to execute "Push everything but MH (Caregiver)"
-   * Let's say Push everything but MH and Caregiver - on CMS side need revision 
+   * Only one endpoint, once LH gives thumbs up, swap out logic to execute "Push everything but MH + Caregiver"
    * Is Faciliies ready - Dont push anything except Covid 19 -> Push everything but (MH + Caregiver)
      * Are we ready to execute when LH gives the thumbs up 
      * #8019 - PR is out there right now  - Jay would estimate a 3 - Jay is comfortable for a 1 day turnaroudn
      * Get to this next sprint  - update PR for sprint 66
 * Mental Health 
-  * Crosswalk ATC data and Facilities data - PR expected end ef day
+  * Crosswalk ATC data and Facilities data - PR expected end of day
   * Multiple phone numbers - target Sprint 66 
-  * Not burning - we have an existing solution in place.  smoke, no fire - may not be as high a priority as 
+  * Not burning - we have an existing solution in place.  treat this like smoke, no fire - may not be as high a priority as other issues 
 * Drupal views, including Facility ID - EOD today 8/22
 * VAST - add support for custom hours within CMS
   * Take hours from VAST operational_hours_special_instructions 
-  * Define Custeom Hours - CMS has the capacity to capture commnet field per day, but how does that get back to LH?
+  * Define Custom Hours - CMS has the capacity to capture commnet field per day, but how does that get back to LH?
   * LH could support any number of strings - can remap - right now it's  a list    
   * CMS could send LH a flag?
-  * One optoin would be Tuesday 9-5:30 - every other tuesday 
-  * At one point does CMS get migration from VAST, then send it to Facilites - should the flow be soem stuff gets routed through CMS first before sending to LH? 
+  * One option would be Tuesday 9-5:30 - every other tuesday 
+  * At one point does CMS get migration from VAST, then send it to Facilites? Should the flow be some data gets routed through CMS first before sending to LH? 
 * CARMA meeting coming up.  Caregiver support list of facilities.  
-  * Bringing up to JHL, response to email? Is thet  CARMA data Veteran facing or administrative
-  * A lot of those are lower clinics that roll up to lareger facility 
+  * Bringing up to JHL, response to email? Is the CARMA data Veteran-facing or administrative
+  * A lot of those facilities are lower clinics that roll up to larger facility 
   * We should be getting data about where Veterans can go 
-  * Primaliry this list has been used to give to caregivers - they use teht LH API to point to the facilities that support services - 
+  * Primarily this list has been used to give to caregivers - they use the LH API to point to the facilities that support services - 
   * For the CARMA team purposes, this list is correct
-  * Does it matter if a lower facility is on the list, as long as it's staffed? We're all trying to solve the same problem  - connect veteran to care at closest point to them  - we need to find out what that data is.. if it's not granual ar teh CARMA level, then there's an addtional hop for someon to solve.  Somehting we could consider - notifcations?  We get info from LH to flag to a facility, theis is wehre your caregvie faciilty is, this is the only palce it canbe unluess you talk to CARMA team - Where does the responsiblity for validating occur? Facilites team vs the CARMA - what is the mechanism for reconsiliation
+  * Does it matter if a lower facility is on the list, as long as it's staffed? We're all trying to solve the same problem  - connect veteran to care at closest point to them  - we need to find out what that data is.. if it's not granular at the CARMA level, then there's an addtional hop for someone to solve.  Something we could consider - notifcations?  We get info from LH to flag a facility, THIS is where  your caregvie faciilty is, this is the only place it can be unless you talk to CARMA team - Where does the responsiblity for validating occur? Facilites team vs the CARMA - what is the mechanism for reconciliation
   * Dave C prefers Jenny take the lead  - poke at trying to resolve
   * Dave C will assure JHL has email 
 We didn't get to last week:
@@ -58,7 +77,7 @@ We didn't get to last week:
 * v1 timeline check
    * End of August. (maybe early Sept)
    * Code Complete 8/31
-   * Doc has to be aligned intenral and external - 
+   * Docs have to be aligned intenral and external - 
    * CMS articles recommendations this week - need to be published in advance
      * For example: Audiology
    * Coordinate on when to flip the switch
