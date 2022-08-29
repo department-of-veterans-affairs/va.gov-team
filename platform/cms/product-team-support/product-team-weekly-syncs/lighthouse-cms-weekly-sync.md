@@ -17,22 +17,58 @@
 ## Monday, August 29, 2022
 
 
-* Sync CMS data to sandbox  _<-We didn't get to last 2 weeks_
-   * Internal meeting ..results? 
+* Sync CMS data to sandbox  
+ * Gathering full plan - sandbox data is a representation of production - the only caveat is that we dont have CMS data in Sandbox.. should that data be complete match?
+ * We will deprecate some of that - something like we will have 75%    
+ * Encourage folks to transition off sandbox
+   * Many consumers stay on sandbox and don't switch to production . we want to encourage that.
+   * For CMS/FL needs, could look at production for now - at least for short term.
 * v1 timeline check
+   * Nearing code completion - within a few weeks of go-live
+   * Josh sync with Adam - when to flip the switch for CMS - later this week? or early next week.
+   * Will this occur in next two weeks?  YES! Definitely
+   * Ideally towards the end of this week.   
+   * Next wed? Plan on merging? Latter half of next week. Sep 7th? 
    * Coordinate when/how to _flip the switch_
+   * What does validation look like after switch? LH will review full data push 
+   * Jay touch base with Steve - any thoughts 
+   * After switch flip, is there a push per facility? Jay - I think we have to resave them? Jay confirm with Swirt 
+   * Adam & Jay perform small test pre-flip - point to sandbox version of LH API? 
    * Is Faciliies ready - Right now: Dont push anything except Covid 19 -> Push everything but (MH + Caregiver)
+     * CLose to PR out today 8/29 
 * Mental Health 
   * Crosswalk ATC data and Facilities data 
   * Waiting for Facility ID in reports 
-  * Multiple phone numbers - target Sprint 66 
+  * Dave C generates report
+  * Multiple phone numbers - confirmed Sprint 66 
 * VAST - add support for custom hours within CMS
   * How would we define "Custom Hours"?
   * Take hours from VAST operational_hours_special_instructions 
   * At one point does CMS get migration from VAST, then send it to Facilites - should the flow be some data gets routed through CMS first before sending to LH? 
+  * Dave C to have convo with James and Dave M - 
 * CARMA meeting coming up.  Caregiver support list of facilities.  
   * Dave C prefers Jenny take the lead  - poke at trying to resolve
   * Dave C will assure JHL has email 
+  * Dave C spoke to JHL, JHL to take up with comms person "We dont care who owns it as long as freshest source possible"
+  * If JHL needs anything from LH, happy to help 
+* CMS article documentation
+  * As we approach v1 - how to document in CMS article
+  * Add info around ATC historical data, how it impacts editors to reflect change
+  * Facilty X has a service in both ATC and CMS, if editors deletes from CMS it will remain in ATC until? ?? 
+  * The reason the data is still populating is because it exists in historical data set
+  * Where is the best place to add these details? 
+  * What it the logical place to denote this? 
+  * WHo owns articles? CMS owns them ? 
+  * Where will an editor see the changes, how do we explain to editor? Until FL moves, this is not visible to an editor 
+  * What is the question the editor is going to ask?  WHy is FL showing a service not listed in my product.
+  * CM piece - discuss with JHL -  commmunicating impact of v1 
+  * HOw does an editor know that their change went through? ifthey see a problem, where would an editor go?
+  * LH can begin documenting the reason why there are differences 
+  * Facilities team/CMS team take teh lead on working with editors on how we explain , 
+  * HOw can we reinforce .. VHA DM, lean into memo 
+  * Once v1 has rolled out, VHA comms sends reminder emial.. remember previous comm -> lean into that , you're not contriubting to Facilites ecosystem and will be consumed by FL and other things, take langauge from LH team and build it into KB
+  * Facility team will let LH team know where this content will live 
+
 
 ## Monday, August 22, 2022
 
