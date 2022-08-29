@@ -3,9 +3,9 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 **Test Start:** 1200EST  
 **Test End:**  1800EST  
 **Total Users Impacted:**  4,560 (50% of expected)   
-**Success Rate:**  65.58%  (average with SSOe is around 70%, theoretical maximum is around 80% due to user attrition)   
-**Return Rate:**  76.35%  (users forwarded to CSP and returned to VA.gov logged in)  
-**Notes:**  Success rate was negatively impacted by DSLogon issues during the first 2 hours of our test.
+**Success Rate(% of users returned from a CSP successfully logged in):**  65.58%   (SSOe: 74%)  
+**Return Rate (% of users that are sent to a CSP and come back):**  76.35%  (SSOe: 72.75%)   
+**Notes:**  Success rate was negatively impacted by DSLogon issues during the first 2 hours of our test.  We have identified several bugs and issues that should allow us to bring our Success Rate within 2-4% of our Return Rate, in-line with SSOe.
 
 
 # Test Summary
@@ -58,6 +58,8 @@ Resolve open tickets
 Resolve two issues identified during testing (listed above)
 
 ## Supplement: Average Login Times for SSOe and Sign-in Service:
+
+#add text description here
 
 ### Time to log in (SSOe)
 
