@@ -46,8 +46,8 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 |Manage all your claims and appeals|17,059|TBD|TBD|TBD|TBD|TBD|
 |View all appointments|1,677|TBD|TBD|TBD|TBD|TBD|
 |View all messages|5,543|TBD|TBD|TBD|TBD|TBD|
-|View all prescriptions||3,096|TBD|TBD|TBD|TBD|
-|View all payments||15,353|TBD|TBD|TBD|TBD|
+|View all prescriptions|3,096|TBD|TBD|TBD|TBD|TBD|
+|View all payments|15,353|TBD|TBD|TBD|TBD|TBD|
 
 #### [Searches initiated from My VA](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
