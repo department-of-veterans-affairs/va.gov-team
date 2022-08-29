@@ -23,15 +23,17 @@ Slack for real-time feedback from observers.
 * Figma Prototype ([Android](https://figma.fun/O2AJVI/view)) ([iOS](https://figma.fun/O2AJVI/))
 
 ### When the participant joins:
-Validate the participant uses the VA Health and Benefits app and get permission for observers to join.
+- Thanks so much for joining today! My name is Holly, and [notetaker name] is here taking notes—it's very nice to meet you. 
+- Today we're going to talk about the VA mobile app. Our discussion will help the team understand how to improve the app for Veterans in the future.
+- I have a couple other colleagues who would like to observe and take notes during our session today. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple additional observers during this session?
 
-- Thanks so much for joining today. My name is Holly, very nice to meet you. Today we're going to talk about the VA mobile app. Our discussion will help the team understand how to improve the app for Veterans in the future. 
-- Before we begin: I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. If it’s ok by you, I’ll have them join. 
-
-*(If the participant agrees, let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.)*
+* *If participant does not consent, use Slack to kindly ask the observers to leave the Zoom.*
+* *If participant consents, admit observers.* 
+  * Ask notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
+  * Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
 ## Introduction (5 minutes)
-* There are a few things I'd like to mention:
+* Before we get started, there are a few things I'd like to mention:
   * There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the mobile app and make it work better for everyone.
   * There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
   * This entire session should take about 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
