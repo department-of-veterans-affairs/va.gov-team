@@ -1,6 +1,6 @@
 # Project outline: On-site notifications MVP
 
-Last updated July 25, 2022
+Last updated August 29, 2022
 
 ### Communications
 
@@ -118,6 +118,7 @@ The following is needed for the MVP build:
 - May 2022: Design updates to accomodate multiple notifications; Connecting frontend to backend
 - June 2022: VANotify fixes some issues; Begin trying to get end-to-end testing to work
 - July 2022: Figure out how all staging environments are connected; Get first working e2e test on July 12
+- August 2022: Completed final collab cycle reviews; Awaiting launch after My VA redirect launch
 
 ## Backend
 
