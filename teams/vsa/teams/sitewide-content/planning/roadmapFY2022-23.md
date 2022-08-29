@@ -19,6 +19,7 @@
 
 ### Make OCTO a healthier and more effective civic tech team.
 - Establish baselines and measurements for Benefits hub success for iteration/prioritization
+- Build a strong content team 
 
 ## FY2022-2023 roadmap
 
@@ -28,6 +29,8 @@
 
 ### Q1
 
+##### Planned initiatives
+
 ##### VA benefit content work with program partners
 This accounts for unplanned requests that come in regularly from our VA partners across business lines. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
 
@@ -35,6 +38,8 @@ This accounts for unplanned requests that come in regularly from our VA partners
 This accounts for unplanned requests that come in regularly from our VFS product teams. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
 
 ### Q2
+
+##### Planned initiatives
 
 | Initiatives | Dependencies | Measurements | Status | OKR |
 | ---- | ---- | ---- | ---- | ---- |
@@ -56,6 +61,8 @@ This accounts for unplanned requests that come in regularly from our VFS product
 
 ### Q3
 
+##### Planned initiatives
+
 | Initiatives | Dependencies | Measurements | Status | OKRs |
 | ---- | ---- | ---- | ---- | ---- |
 | R&S pilot: Complete phase 1 (community care) | Community care team | Migration complete | In progress | Increase number of non-OCTO content contributors |
@@ -68,37 +75,9 @@ This accounts for unplanned requests that come in regularly from our VFS product
 | Benefit hub optimization: Disability | ---- | ---- | ---- |
 | Benefit hub optimization (partial): Health care | ---- | ---- | ---- |
 | "Get benefits" translation: Disability | ---- | ---- | ---- |
-
-
-
 | Establish editorial calendar (with rolling audits process) | ---- | ---- | ---- |
-
 | Expand style guide: Add voice and inclusive, compassionate language sections (OCTO) | ---- | ---- | ---- |
-
-
-
 | Publish new life insurance content to retire 6 life insurance pages | OCTO lead and team capacity; VBA partner reviews | Drupal content published and legacy pages retired/redirected | Retire legacy content pages by replacing them with content on Modernized experience |
-
-
-
-
-| Initiatives | Dependencies | Measurements | Status |
-| ---- | ---- | ---- | ---- |
-
-
-#### Outcome 1
-
-| Initiatives | Dependencies | Measurements | Status |
-| ---- | ---- | ---- | ---- |
-| Expand style guide: Iterate on error message style guide and dictionary (OCTO) | ---- | ---- | ---- |
-| Benefit hub optimization (full): Health care | ---- | ---- | ---- |
-| Benefit hub optimization: Education | ---- | ---- | ---- |
-| Benefit hub optimization: Careers | ---- | ---- | ---- |
-| "Get benefits" translation: Health care | ---- | ---- | ---- |
-| "Get benefits" translation: Education | ---- | ---- | ---- |
-| "Get benefits" translation: Careers | ---- | ---- | ---- |
-| R&S pilot: Expand pilot to 2 additional groups | ---- | ---- | ---- |
-| Reusable COPE content: Iterate on benefit structured content model (OCTO) | ---- | ---- | ---- |
 
 ##### VA benefit content work with program partners
 This accounts for unplanned requests that come in regularly from our VA partners across business lines. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
@@ -108,7 +87,7 @@ This accounts for unplanned requests that come in regularly from our VFS product
 
 ### Q4
 
-#### Outcome 1
+##### Planned initiatives
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
