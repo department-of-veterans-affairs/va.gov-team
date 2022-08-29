@@ -38,6 +38,7 @@ We've done significant planning + conversations around opt-in:
 
 * Need to be done after (or with) opt-in:
     * [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
+    * Direct address correctiont (does not involve call center
     * Multi-year retrieval
     * [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
 
