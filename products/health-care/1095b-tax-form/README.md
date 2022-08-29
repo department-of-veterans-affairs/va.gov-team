@@ -42,11 +42,13 @@ We've done significant planning + conversations around opt-in:
     * Multi-year retrieval
     * [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
 
-## Legal guidance for product:
-* [21st Century IDEA legislation](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
-* [Presidential executive order on customer experience](https://www.performance.gov/cx/executive-order/)
-* [2021 IRS guidance on 1095-B](https://www.irs.gov/pub/irs-pdf/i109495b.pdf), p.5
-* [C.F.R. Title 26, Ch 14 S 1.6055-2](https://www.govregs.com/regulations/26/1.6055-2)
+## Legal 
+* [Request for legal review (Opt-in) Draft v1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Legal%20Review%20request%201095-B%20Opt%20-in%20to%20paperless%20delivery.pdf)
+* Legal guidance for product:
+    * [21st Century IDEA legislation](https://digital.gov/resources/21st-century-integrated-digital-experience-act/)
+    * [Presidential executive order on customer experience](https://www.performance.gov/cx/executive-order/)
+    * [2021 IRS guidance on 1095-B](https://www.irs.gov/pub/irs-pdf/i109495b.pdf), p.5
+    * [C.F.R. Title 26, Ch 14 S 1.6055-2](https://www.govregs.com/regulations/26/1.6055-2)
 
 ## Operations
 
