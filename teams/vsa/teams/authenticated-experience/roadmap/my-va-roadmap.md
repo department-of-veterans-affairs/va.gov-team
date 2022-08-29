@@ -1,14 +1,14 @@
 # My VA roadmap
 
-**Updated July 12, 2022**
+**Updated August 29, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|Payments & Debts/copays V2|Midpoint review|
-|My VA redirect| Development|
-|My VA audit| On hold|
+|Payments & Debts/copays V2|Build|
+|My VA redirect| Launch to 25%|
+|My VA audit| Design|
 
 ### Projected timelines for current projects
 
@@ -39,6 +39,7 @@
 |Check-in Experience| Ming Ligh/Patrick Bateman | Original request: 5.24.21 Update from Patrick: 11.17.21 | Ming said the following via DM in Slack: "When you are ready to include any pre-appointment task on MyVA, the Check In Experience team would probably like to talk you about it. We have not done any discovery in this areas so would be great to combine efforts. Patrick Bateman is working on Check In Experience. Update from Patrick makes it sounds like they aren't sure if My VA will need to be involved, but that's TBD: "we want the veteran to encounter that health form during the larger check in transaction and don't believe they will just happen across an alert that takes them there [to My VA]." He also mentioned they are still far from delivering online form experiences. |
 |Updates related to unauth homepage updates | Dave Conlon | Nov 2021 | We know this work is coming down the pipeline, we just don't know exactly when or what will be needed from us. |
 |Updates related to health apartment | Tracey Mulrooney | Nov 2021 |  We know this work is coming down the pipeline, we just don't know exactly when or what will be needed from us. |
+|Add decision letters for claims & appeals|Benefits team 1/Skyler Schain|8.29.22|The team that manages claims & appeals is starting research on adding decision letters to VA.gov. Skyler reached out with interest about getting this information on My VA as part of that work.|
 
 ## Ideas from our team
 
