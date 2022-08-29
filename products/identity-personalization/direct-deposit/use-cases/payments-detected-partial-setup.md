@@ -41,5 +41,8 @@ N/A
 No test user set up for this use case
 
 ### Has set up education direct deposit, and is not eligible for compensation or pension payments
-No test user set up for this use case
+1. Log into staging with users 379, 380, 381, 382 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. Navigate to direct deposit
+3. You will see education direct deposit set up, and a message in compensation and pension payments reflecting they can't set up those payments.
+
 
