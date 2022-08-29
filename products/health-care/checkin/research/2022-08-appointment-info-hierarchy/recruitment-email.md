@@ -14,7 +14,7 @@ You will be sent a link to an online survey in which you'll see a list of appoin
 
 **How long is the survey?**
 
-The survey should take you **about 10 minutes** to complete on your computer, tablet, or smartphone. You can do it whenever it's convenient for you.
+The survey should take you **about 15 minutes** to complete on your computer, tablet, or smartphone. You can do it whenever it's convenient for you.
 
 **Interested in participating?** 
 
