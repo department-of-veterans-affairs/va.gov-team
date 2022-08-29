@@ -103,6 +103,8 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 #### Medallia feedback
 
+**[My VA Medallia report](https://va-gov.domo.com/page/825663825)**
+
 **KPI**: There are few or no complaints about the redirect.
 
 || Rank 1 week pre-launch (8/22 - 8/28) |Rank 1 week post-launch to 25% (8/29 - 9/4) |Rank 1 week post-launch to 50% (9/6 - 9/11) |Rank 1 week post-launch to 100% (9/12 - 9/18)|Rank 1 month post-launch to 100% (10/12)|Rank 3 months post-launch to 100% (12/12)|
