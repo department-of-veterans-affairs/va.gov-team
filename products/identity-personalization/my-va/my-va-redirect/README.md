@@ -23,7 +23,7 @@ Our mission is to elevate Veterans’ personal and benefit information on VA.gov
 
 ### Key Performance Indicators (KPIs)
 
-#### [Next clicks and exits from My VA](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fmy-va~2Findex.html&navigationsummary-keySelector.searchTerm=~2Fmy-va~2F/)
+#### [Next clicks and exits from My VA(WBC modernized)](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fmy-va~2Findex.html&navigationsummary-keySelector.searchTerm=~2Fmy-va~2F/)
 ([Next clicks and exits from My VA (all va.gov production view)](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F&navigationsummary-keySelector.searchTerm=~2Fmy-va&explorer-table.plotKeys=%5B%5D/))
 
 **Hypothesis**: Clicks from My VA to the homepage will increase if people can not find a link on My VA that they can find on the homepage.
