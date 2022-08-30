@@ -95,13 +95,13 @@ https://xd.adobe.com/view/97fc85e1-1c8e-4b91-beae-a5fdfef5838a-c2af/?fullscreen
 ### Warm Up Questions
 
 1. Have you ever searched on VA.gov for information related to signing in? 
-  -   If so: how would you describe the process of finding the information?
-      -  What content did you find on the topic?
-      -  How would you describe the level of ease or difficulty with finding that information?
-  -   If not: where would you go to look for this information?
+      -   If so: how would you describe the process of finding the information?
+            -  What content did you find on the topic?
+            -  How would you describe the level of ease or difficulty with finding that information?
+      -   If not: where would you go to look for this information?
 
 2. When you are looking for sign-in information for login services (i.e. MyHealtheVet, Login.gov, ID.me, DS Login), where do you go to find this information?
-  -   How would you describe the level of ease or difficulty with finding that information?
+      -   How would you describe the level of ease or difficulty with finding that information?
 
 ### Prototype Activity Questions
 3. During the task: What other phrases would you use outside of the one provided to search for sign-in assistance? 
@@ -125,22 +125,22 @@ https://xd.adobe.com/view/18d9aad7-ffa5-412a-a221-95818509886e-4d8a/?fullscreen
 ### Warm Up Questions
 
 1. Have you ever had to escalate a problem with the VA before? 
-  -   If yes: describe the process of escalating your issue? 
-      -  How would you describe the level of ease or difficulty when completing the process? 
-  -   If no: how would you imagine this process going?
-      -  What sources would you look to to solve your issue?
-      -  How would you imagine the level of ease or difficulty when completing the process? 
+      -   If yes: describe the process of escalating your issue? 
+            -  How would you describe the level of ease or difficulty when completing the process? 
+      -   If no: how would you imagine this process going?
+            -  What sources would you look to to solve your issue?
+            -  How would you imagine the level of ease or difficulty when completing the process? 
 
 
  ### Prototype Activity Questions
 2. During the task: Can you speak to what you think are VA.gov issues versus login service issues?
-  -   Is it clear to you what they each mean?
+      -   Is it clear to you what they each mean?
 3. During the task: Can you talk about why you chose that particular method of escalation? 
 4. During the task: Can you talk about what method on this list would be your least preferred way to escalate your issue?
 5. During the task: What escalation methods are you familiar with on this list? 
-  -   What do they mean to you?
+      -   What do they mean to you?
 6. At the end of the task: What would you expect to happen next in this flow? 
-  -   What kind of information would you expect to get?
+      -   What kind of information would you expect to get?
 7. When you have issues with any of your the login service providers (i.e. MHV, DS Logon, Login.gov, or ID.me) where do you look for information when you run into an issue? 
 8. After the task: How would you describe this flow? 
 9. After the task: What recommendations would you make to improve the design?
@@ -159,24 +159,24 @@ https://xd.adobe.com/view/7cb12610-dde5-4669-8c42-60e1e87fc44b-29e2/?fullscreen
 ### Warm Up Questions
 
 1. How familiar are you with the different login services that you can connect to VA.gov on?
-  -   If familiar: what account types are you aware of?
-      -  Can you explain the difference between them to me?
-  -   If no: how would you imagine this process going?
+      -   If familiar: what account types are you aware of?
+            -  Can you explain the difference between them to me?
+      -   If no: how would you imagine this process going?
 2. Have you ever had a desire to learn more about the different login providers? 
-  -   If yes: where did you go to find information on different login service providers?
+      -   If yes: where did you go to find information on different login service providers?
 3. Do you currently have login credentials?
-  -   If yes: how did you come to choose the account type that you currently have?
-  -   Would you ever consider switching or adding an additional account with another login service provider?
+      -   If yes: how did you come to choose the account type that you currently have?
+      -   Would you ever consider switching or adding an additional account with another login service provider?
 
 
  ### Prototype Activity Questions
 4. During the task: What other phrases would you type in in order to learn about the other login services?
 5. During the task: What do you expect to happen next in this process?
 6. During the task: How would you feel about being greeted with this page? 
-  -   How do you feel about this page in general?
+      -   How do you feel about this page in general?
 7. Let's say instead of a page with links like we’ve shown here, how would you feel if the account differences were presented to you in a chart comparing the login service types?
 8. During the task if they skip the link: Can you explain why you proceeded without selecting the link?
-  -   If no: What would you be looking for in terms of an answer?
+      -   If no: What would you be looking for in terms of an answer?
 9. After the task: How would you describe this flow? 
 10. After the task: What recommendations would you make to improve the design?
 
@@ -193,8 +193,8 @@ https://xd.adobe.com/view/8276c6e6-dc68-421e-bf55-9da8f74dd9a8-d725/?fullscreen
 ### Warm Up Questions
 
 1. Have you ever had to reset your password with your login service provider?
-  -   If yes: how would you describe the process?
-  -   If yes: what would prompt you to reset your password?
+      -   If yes: how would you describe the process?
+      -   If yes: what would prompt you to reset your password?
 2. Where would you go if you were looking for more information on how to reset your password?
 
 
@@ -202,8 +202,8 @@ https://xd.adobe.com/view/8276c6e6-dc68-421e-bf55-9da8f74dd9a8-d725/?fullscreen
 3. During the task: What other phrases would you type in if you forgot your password?
 4. During the task: What do you expect to happen or see next in this process?
 5. During the task: How do you feel about the answer that was provided?
-  -   Were you looking for more information? 
-  -   What are some other ways you imagine the chatbot would respond?
+      -   Were you looking for more information? 
+      -   What are some other ways you imagine the chatbot would respond?
 6. During the task: How do you feel about the colors of the buttons? 
 7. After the task: How would you feel about this flow? 
 8. After the task: What recommendations would you make to improve the design?
@@ -221,8 +221,8 @@ https://xd.adobe.com/view/6835babf-7f16-409d-9f14-84732ac88721-3d66/?fullscreen
 ### Warm Up Questions
 
 1. Do you have an account with the VA?
-  -   If yes: When creating an account where did you go to start this process?
-  -   If no: How would you imagine starting this process?
+      -   If yes: When creating an account where did you go to start this process?
+      -   If no: How would you imagine starting this process?
 2. How would you describe the process of creating an account with one of the login providers associated with the VA?
 3. If you already have an existing account with VA.gov, what is the likelihood that you would create a new account with another login service provider?
 
@@ -230,13 +230,13 @@ https://xd.adobe.com/view/6835babf-7f16-409d-9f14-84732ac88721-3d66/?fullscreen
  ### Prototype Activity Questions
 4. During the task: What other phrases would you type in outside of create account?
 5. During the task: What do you feel about the answer that is provided here?
-  -   Is it sufficient?
+      -   Is it sufficient?
 6. During the task: How do you feel about the answer that was provided?
-  -   Were you looking for more information? 
-  -   What are some other ways you imagine the chatbot could respond?
+      -   Were you looking for more information? 
+      -   What are some other ways you imagine the chatbot could respond?
 7. During the task after Login.gov response: How do you feel about the answer that was provided?
-  -   How do you feel about the length of the response?
-  -   Were you looking for more information? 
+      -   How do you feel about the length of the response?
+      -   Were you looking for more information? 
 8. After the task: How would you feel about this flow? 
 9. After the task: What recommendations would you make to improve the design?
 
