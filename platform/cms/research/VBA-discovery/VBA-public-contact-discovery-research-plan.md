@@ -18,37 +18,37 @@ While some of this functionality has been developed and tested with other VA edi
 * Decrease call center volume, wait time, and time to resolution
 
 ## Research goals
-The primary goals of this research are to understand from the perspectives of CMS editors the context for:
-* Event- and staff-related information
-* Situational updates related to a facility
-
-Secondary goals include collecting supplemental feedback for how web editors for a facility:
-* Prioritize the publishing of facility information on the website
-* Understand the website as a service delivery channel
-* Want to learn how to use Drupal CMS
-
-This research will follow a related effort (link to Veteran research plan) to understand the needs of Veterans when visiting a VBA facility and getting services
+The primary goals of this research are to understand from the perspectives of the Public Contact staff for that facility the:
+* Service delivery model for the facility or group of facilities for a geographic area.
+* Context for: 
+  * Event- and staff-related information
+  * Situational updates related to a facility
+This research will follow or run partially in parallel to a related effort (link to Veteran research plan) to understand the needs of Veterans when visiting a VBA facility and getting services. 
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE to inform a future direction for:
-* A task-based CMS dashboard for authenticated VBA editors
 * Development of the VBA facility product
 * The change management strategy and plan for the MVP and the full rollout of the CMS to all VBA facilities
 * The training plan for the MVP and the full rollout
 * Future research for the VBA project
 
-## Hypotheses
-1. The new Drupal CMS facilities product will address 508 compliance while the associated change management approach, training, and user support will create a positive experience for the MVP editors. 
-2. VBA editors will have similar needs to Vet Center editors who moved to Drupal CMS starting in 2021, based on the similar scope of facility content and knowledge of CMS tools for web publishing.
+## Hypothesis
+* This research will surface complexities and nuances in how different VBA facilities deliver their services to Veterans that should inform the design of the VBA facilities product.
 
 ## Research Questions
-* How do editors get their facility’s operating status and visitor and event information to put on the website? How often do they update this information?
-* What is the process for publishing situational updates?
-* What are editors’ priorities in relation to making facility information available?
-* What are editors’ understanding of the website as a service delivery channel? Do they have any feedback on the website?
-* What are editors’ overall comfort level with technology and content management systems in particular?
-* How might we help users learn about Drupal CMS?
-* What tasks should be included on the VBA editor dashboard? 
+* What are the common things Veterans ask for and how do they ask for them?
+* When do Veterans ask for a benefit by phone vs. in person and typically why?
+* What do Veterans typically try to accomplish during an in-person facility visit?
+* What are the situations when Veterans don't feel successful getting a benefit at the facility and why?
+* What do you wish Veterans knew before visiting this location?
+* What happens when a Veteran visits the facility for a service you don’t offer?
+* What do Veterans need to know or do to be adequately prepared for a visit?
+* What are the unique characteristics of the benefits offered by that facility?
+* Can Veterans access any/all of your services anywhere else in the area, such as a Vet Center?
+* How are the available services handled by the Public Contact team?
+* How are Veteran Service Organizations (VSOs) located at that facility important and why?
+* When should some benefits be encouraged or promoted to be done online or a phone call?
+* Does the Public Contact staff handle any aspect of the facility's website?
   
 ## Method
 * Semi-structured interviews 
@@ -57,18 +57,18 @@ The results of this research will be used to develop recommendations for OCTO-DE
 * Remote, via Zoom 
   
 ## Research materials
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/VBA-discovery/VBA-business-discovery-conversation_guide.md) 
+* Conversation guide (to be added)
 
 ## Recruitment
-The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-14 VBA staff for this research using the the following criteria:
-  * Are at a Regional Office chosen for the MVP
-  * Have a range of experience with web publishing
+The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-14 VBA staff for this research using The CMS Facilities team will work with the OCTO-DE product owner to recruit 5-10 Public Contact staff for this research using the the following criteria:
+* Are at a Regional Office chosen for the MVP
+* Represent different services areas
+* Have been in the role for at least 6 months
   
 ## Timeline (TBD, for discussion)
 * September 2022: finalize research plans and conversation guides
-* October: complete research interviews
-* October: synthesize research
-* November: report findings and recommendations for design  
+* Mid-October: complete Public Contact staff research interviews
+* Late October: synthesize research and report findings  
   
 ## Research sessions
 Month Day – Month Day, 2022 (TBD)
