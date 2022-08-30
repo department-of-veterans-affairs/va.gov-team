@@ -19,18 +19,16 @@ While some of this functionality has been developed and tested with other VA edi
 * Decrease call center volume, wait time, and time to resolution
 
 ## Research goals
-The primary goals of this research are to understand from the perspectives of the Public Contact staff for that facility the:
-* Service delivery model for the facility or group of facilities for a geographic area.
-* Context for: 
-   * Event- and staff-related information
-   * Situational updates related to a facility
+The primary goals of this research are to understand from the perspectives of CMS editors the context for:
+* Event- and staff-related information
+* Situational updates related to a facility
 
 Secondary goals include collecting supplemental feedback for how web editors for a facility:
 * Prioritize the publishing of facility information on the website
 * Understand the website as a service delivery channel
 * Want to learn how to use Drupal CMS
 
-This research will follow or run partially in parallel to a related effort (link to Veteran research plan) to understand the needs of Veterans when visiting a VBA facility and getting services
+This research will follow a related effort (link to Veteran research plan) to understand the needs of Veterans when visiting a VBA facility and getting services
 
 ## Outcomes
 The results of this research will be used to develop recommendations for OCTO-DE to inform a future direction for:
