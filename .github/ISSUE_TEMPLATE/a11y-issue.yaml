@@ -6,6 +6,9 @@ assignees: []
 body:
 - type: markdown
   attributes:
+    value: Here's a [list of common issue tickets](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues) you can reference, copy, and add to. 
+- type: markdown
+  attributes:
     value: "## Definition of done"
 - type: markdown
   attributes:
