@@ -3,7 +3,7 @@
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 ### Starting the session
 
