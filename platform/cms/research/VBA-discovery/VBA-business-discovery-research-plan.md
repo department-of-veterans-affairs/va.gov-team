@@ -63,7 +63,7 @@ The results of this research will be used to develop recommendations for OCTO-DE
 ## Recruitment
 The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-14 VBA staff for this research using the the following criteria:
   * Are at a Regional Office chosen for the MVP
-  * At least 5 who will be using Drupal CMS during the MVP from different facilities
+  * Have a range of experience with web publishing
   
 ## Timeline (TBD, for discussion)
 * September 2022: finalize research plans and conversation guides
