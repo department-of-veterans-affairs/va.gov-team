@@ -41,7 +41,7 @@ The following release is the closest to completion:
         * VA Profile	Micheal Richard 
         * VA Notify	Beverly Nelson
 
-### Need to be done after (or with) opt-in:
+### Future product iterations to consider:
 * [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
     * POC - Randi Hecht (Sitewide)
 * Digitalized correction of document
