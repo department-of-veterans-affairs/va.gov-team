@@ -45,11 +45,6 @@ The results of this research will be used to develop recommendations for OCTO-DE
 2. VBA editors will have similar needs to Vet Center editors who moved to Drupal CMS starting in 2021, based on the similar scope of facility content and knowledge of CMS tools for web publishing.
 
 ## Research Questions
-**Facility staff role:** 
-* What services are offered at a facility(ies) and how do Veterans access them?
-* How are Public Contact staff involved in helping Veterans access a facility’s services?
-
-**Web editor role:**
 * How do editors get their facility’s operating status and visitor and event information to put on the website? How often do they update this information?
 * What is the process for publishing situational updates?
 * What are editors’ priorities in relation to making facility information available?
@@ -70,21 +65,19 @@ The results of this research will be used to develop recommendations for OCTO-DE
 ## Recruitment
 The CMS Facilities team will work with the OCTO-DE product owner to recruit 10-14 VBA staff for this research using the the following criteria:
   * Are at a Regional Office chosen for the MVP
-  * At least 5 who are Public Contact staff from different facilities
   * At least 5 who will be using Drupal CMS during the MVP from different facilities
   
 ## Timeline (TBD, for discussion)
-* August 2022: finalize research plans and conversation guides
-* September: complete Public Contact staff research interviews
-* October: complete editor research interviews
-* October: synthesize editor-facing research
+* September 2022: finalize research plans and conversation guides
+* October: complete research interviews
+* October: synthesize research
 * November: report findings and recommendations for design  
   
 ## Research sessions
 Month Day – Month Day, 2022 (TBD)
 
 ## Length of sessions
-* 30-45 minutes each, depending on role
+* 30-45 minutes each
 * 20 minutes buffer time between sessions
 * 15 minutes after each session for research team debrief
 
