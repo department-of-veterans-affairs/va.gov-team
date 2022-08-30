@@ -142,7 +142,7 @@
         - Link should be to the newest release title's anchor
 - Notify the following people via Slack and email
     -   [check-in-releases](https://dsva.slack.com/archives/C03E5FEBTLH) channel - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman
-    -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley
+    -   VA email - Patrick Bateman, Stephen Barrs, Shawn Adams, Jason Woodman, Dore Mobley, erica.williams@va.gov and angela.wilt@va.gov
 
 
 ## Diagram of All Team Processes
