@@ -3,11 +3,12 @@
 # Supplemental Claims Research Plan
 
 
-### [draft] 8.24.2022
-Research and Design: Pamela Hastings
+### [draft] 8.26.2022
 
-Product: Sade Ragsdale
-
+**Research and Design:** Pamela Hastings  
+**Moderator:** Pamela Hastings\
+**Product:** Sade Ragsdale  
+**Observers:** TBD
 
 ## Background
 As per the Appeals Modernization Act of 2017, Veteran and non-Veteran claimants seeking to correct perceived discrepancies in their benefit awards must submit new and relevant evidence by initiating the supplemental claim process. To do this, they must submit the Supplemental Claim form (VA Form 20-0995). New evidence enables a reviewer to determine if they should change the previous decision. Claimants can use the supplemental claims process in three ways: 
