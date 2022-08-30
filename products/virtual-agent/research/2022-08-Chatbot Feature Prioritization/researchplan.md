@@ -77,7 +77,7 @@ Add the total requested number, ideal completed sessions and breakdown type of p
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |        |             |          |               | 
+|       12        |        8          |    12    |             |          |               | 
 
 
 ### Criteria Table 
@@ -91,23 +91,23 @@ What demographics, experience, and scenarios do you need participants to meet to
 |                |Single Study|Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |        4    |        |        |        |        |        |        |        |        |        |         |
-|Female          |     4       |        |        |        |        |        |        |        |        |        |         |                                   
+|Male            |        6    |        |        |        |        |        |        |        |        |        |         |
+|Female          |     6       |        |        |        |        |        |        |        |        |        |         |                                   
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|Black           |      2      |        |        |        |        |        |        |        |        |        |         |               
-|White           |      2      |        |        |        |        |        |        |        |        |        |         |                 
+|Black           |      3      |        |        |        |        |        |        |        |        |        |         |               
+|White           |      3      |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |       2     |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |     1       |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |       1     |        |        |        |        |        |        |        |        |        |         |                
+|Asian           |     2       |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |       2     |        |        |        |        |        |        |        |        |        |         |                
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |     1       |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |     2       |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |      2      |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |     2       |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |     3       |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |      3      |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |     2       |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |     1       |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |     2       |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
@@ -155,8 +155,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Rural           |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |      4      |        |        |        |        |        |        |        |        |        |         |
-|Laptop          |     4       |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |      6      |        |        |        |        |        |        |        |        |        |         |
+|Laptop          |     6      |        |        |        |        |        |        |        |        |        |         |
 |Mobile          |            |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
