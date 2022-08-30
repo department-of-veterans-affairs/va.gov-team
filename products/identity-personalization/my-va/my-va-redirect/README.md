@@ -112,11 +112,11 @@ We do not see an increase in percentage of users exiting VA.gov entirely from My
 
 **[My VA Medallia report](https://va-gov.domo.com/page/825663825)**
 
-**KPI**: There are few or no complaints about the redirect.
+**KPI**: There isn't a drop in satisfaction as a result of the redirect.
 
-|| Rank 3 months pre-launch (8/22 - 8/28) |Rank 3 months post-launch to 100% (12/12)|
+|| 3 months pre-launch (8/22 - 8/28) |3 months post-launch to 100% (12/12)|
 |-------|-----------|-----------|
-|Redirect feedback|TBD|TBD|
+|My VA rating|TBD|TBD|
 
 
 ---
