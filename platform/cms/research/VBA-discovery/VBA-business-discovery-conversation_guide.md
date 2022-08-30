@@ -1,6 +1,6 @@
 # Conversation Guide for VBA MVP Editor-facing Discovery – August 2022
 
-This conversation guide includes separate questions for VBA staff who were previous web editors or new staff who will be editing content in Drupal CMS.
+This conversation guide includes questions for VBA staff who were previous web editors or new staff who will be editing content in Drupal CMS.
 
 ## Moderator logistics
 Prep a sharing window with:
