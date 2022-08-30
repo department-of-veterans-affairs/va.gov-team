@@ -158,17 +158,19 @@
 - 1 sprint - Research readout & documenting findings in research repo
 
 ### Research Questions
-- What are the common things Veterans ask for?
+- What are the common things Veterans ask for and how do they ask for them?
 - When do Veterans ask for a benefit by phone vs. in person and typically why?
-- What do Veterans typically try to accomplish during a facility visit? 
-- What are the situations when Veterans don't feel successful getting a benefit at the facility?
+- What do Veterans typically try to accomplish during an in-person facility visit?
+- What are the situations when Veterans don't feel successful getting a benefit at the facility and why?
+- What do you wish Veterans knew before visiting this location?
+- What happens when a Veteran visits the facility for a service you don’t offer?
 - What do Veterans need to know or do to be adequately prepared for a visit?
 - What are the unique characteristics of the benefits offered by that facility?
+- Can Veterans access any/all of your services anywhere else in the area, such as a Vet Center?
 - How are the available services handled by the Public Contact team?
 - How are Veteran Service Organizations (VSOs) located at that facility important and why?
-- When should some benefits be encouraged or promoted to be done online?
+- When should some benefits be encouraged or promoted to be done online or a phone call?
 - Does the Public Contact staff handle any aspect of the facility's website?
-
 
 ## 5 - Editor Research
 
