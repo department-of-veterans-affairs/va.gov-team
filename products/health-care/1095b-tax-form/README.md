@@ -37,10 +37,10 @@ We've done significant planning + conversations around opt-in:
 * [Paperless delivery opt-in build plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Opt-in%20Build%20Plan%208.23.2022.pdf) -- This allows Veterans and depends to opt-in to only receive a digital copy of the 1095-B form
 
 Need to be done after (or with) opt-in:
-    * [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
-    * Digitalized address correction for current year document (does not involve call center)
-    * Multi-year retrieval
-    * [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
+* [Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Final%20documents/Crosslinks%20wayfinding%201095-B.pdf)
+* Digitalized correction of document
+* Multi-year retrieval
+* [Spanish version of page / widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/Content/HEC/HEC%20Documents%20Spanish%20Opt-in/SPA%201095%20webpage.docx)
 
 ## Legal 
 * [Request for legal review (Opt-in) Draft v1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/product/Legal%20Review%20request%201095-B%20Opt%20-in%20to%20paperless%20delivery.pdf)
